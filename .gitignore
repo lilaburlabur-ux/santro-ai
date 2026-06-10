@@ -1,0 +1,7 @@
+# local-only stuff — never publish
+.venv/
+logs/
+__pycache__/
+*.pyc
+.DS_Store
+research/_charts/

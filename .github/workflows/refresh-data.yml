@@ -37,7 +37,8 @@ jobs:
           git add data.json
 
           if ! git diff --cached --quiet; then
-          git commit -m "data refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git pull --rebase origin main
-          git push
+            git commit -m "data refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
+            # if main moved while we ran, replay on top; our data.json wins conflicts
+            git pull --rebase -X theirs origin main
+            git push
           fi

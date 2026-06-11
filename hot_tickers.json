@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-11T20:37:35+00:00",
+  "as_of": "2026-06-11T20:52:37+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -73,9 +73,9 @@
    "volume_vs_avg": "~1.0x",
    "heat_score": 71,
    "direction": "up",
-   "why": "SanDisk Jumps 14%, Western Digital Climbs 6% as Memory Stocks Rebound on SK Hynix\u2019s Capacity Plan",
+   "why": "Why Micron Stock Bounced Back Today",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-jumps-14-western-digital-192618082.html"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-stock-bounced-back-202846363.html"
   },
   {
    "rank": 6,
@@ -87,12 +87,26 @@
    "volume_vs_avg": "~1.3x",
    "heat_score": 71,
    "direction": "up",
-   "why": "Beyond Micron: 2 AI Stocks That Could Deliver Explosive Returns",
+   "why": "Marvell appoints Adobe's Dan Durn as finance chief",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/beyond-micron-2-ai-stocks-190000615.html"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-appoints-adobes-dan-durn-201714657.html"
   },
   {
    "rank": 7,
+   "ticker": "ARM",
+   "company": "Arm Holdings Plc ADR",
+   "move_pct": 11.32,
+   "price": 342.23,
+   "volume": 8573342,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 68,
+   "direction": "up",
+   "why": "Arm (ARM), NVIDIA (NVDA) Executive Highlight Shift Toward Agentic AI Computing",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/sectors/technology/articles/arm-arm-nvidia-nvda-executive-201551478.html"
+  },
+  {
+   "rank": 8,
    "ticker": "ORCL",
    "company": "Oracle Corp",
    "move_pct": -8.53,
@@ -101,23 +115,9 @@
    "volume_vs_avg": "~3x",
    "heat_score": 68,
    "direction": "down",
-   "why": "Stock Market Today: Dow Soars 1,000 Points As Trump Axes Attack Plans; Caterpillar, Space Names Rally (Live Coverage)",
+   "why": "How major US stock indexes fared Thursday 6/11/2026",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-strikes-oracle-stock-orcl/?src=A00220&yptr=yahoo"
-  },
-  {
-   "rank": 8,
-   "ticker": "ASML",
-   "company": "ASML Holding NV",
-   "move_pct": 9.53,
-   "price": 1899.48,
-   "volume": 2930021,
-   "volume_vs_avg": "~2x",
-   "heat_score": 67,
-   "direction": "up",
-   "why": "Musk To Pitch Terafab Semiconductor Factory To ASML Ahead Of SpaceX IPO",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/news/spacex-tesla-elon-musk-asml-semiconductor-terafab-ai-chips/?src=A00220&yptr=yahoo"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/major-us-stock-indexes-fared-203242902.html"
   }
  ]
 }

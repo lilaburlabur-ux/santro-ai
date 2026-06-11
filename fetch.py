@@ -90,22 +90,53 @@ def get_headlines(ticker, limit=3):
     return out
 
 
-def fetch_one(symbol):
+def batch_closes(symbols):
+    """One download for everything: {symbol: (last_close, prev_close, volume)}.
+
+    Daily bars are the truth for price/change in AND out of market hours —
+    fast_info's previousClose returns garbage outside trading sessions.
+    """
+    px = yf.download(symbols, period="5d", interval="1d", auto_adjust=True,
+                     progress=False, group_by="ticker", threads=True)
+    out = {}
+    for sym in symbols:
+        try:
+            c = px[sym]["Close"].dropna()
+            v = px[sym]["Volume"].dropna()
+            if len(c) >= 2:
+                out[sym] = (float(c.iloc[-1]), float(c.iloc[-2]),
+                            int(v.iloc[-1]) if len(v) else None)
+        except Exception:
+            pass
+    return out
+
+
+def ccy_for(symbol):
+    """Currency by exchange suffix — no API call needed."""
+    if symbol.endswith(".KS"): return "KRW"
+    if symbol.endswith(".T"):  return "JPY"
+    if symbol.endswith(".TW"): return "TWD"
+    return "USD"
+
+
+def fetch_one(symbol, closes):
     """Fetch price, % change, market cap and headlines for one symbol."""
     t = yf.Ticker(symbol)
-    fi = t.fast_info  # fast + reliable; avoids the rate-limited .info call
 
-    price = fi.get("lastPrice")
-    prev = fi.get("previousClose")
-    cap = fi.get("marketCap")
-    shares = fi.get("shares")
+    if symbol not in closes:
+        raise ValueError("no price bars")
+    price, prev, _vol = closes[symbol]
 
-    # Fall back to price * shares if Yahoo didn't hand us a market cap.
-    if cap is None and price and shares:
-        cap = price * shares
-
-    if price is None or cap is None:
-        raise ValueError(f"missing data (price={price}, market_cap={cap})")
+    cap = None
+    try:
+        fi = t.fast_info
+        cap = fi.get("marketCap")
+        if cap is None and fi.get("shares"):
+            cap = price * fi.get("shares")
+    except Exception:
+        pass
+    if cap is None:
+        raise ValueError("missing market cap")
 
     change_pct = ((price / prev) - 1) * 100 if prev else 0.0
 
@@ -120,7 +151,7 @@ def fetch_one(symbol):
     }
 
 
-def fetch_etf(symbol, name):
+def fetch_etf(symbol, name, closes):
     """Fetch an ETF's holdings (weights) + each holding's daily move.
 
     Tile size will be the weight in the fund; color is the daily % change.
@@ -129,9 +160,7 @@ def fetch_etf(symbol, name):
     Yahoo's auto-pulled top holdings.
     """
     t = yf.Ticker(symbol)
-    fi = t.fast_info
-    price = fi.get("lastPrice")
-    prev = fi.get("previousClose")
+    price, prev, _ = closes.get(symbol, (None, None, None))
     etf_chg = ((price / prev) - 1) * 100 if (price and prev) else 0.0
 
     sheet = ETF_HOLDINGS.get(symbol)
@@ -149,16 +178,11 @@ def fetch_etf(symbol, name):
         if _is_cash(hname) or weight <= 0:
             continue
 
-        chg, hprice, hccy = 0.0, None, "USD"
-        try:
-            h = yf.Ticker(sym).fast_info
-            hp, hpc = h.get("lastPrice"), h.get("previousClose")
-            if hp and hpc:
-                chg = ((hp / hpc) - 1) * 100
-            hprice = round(float(hp), 2) if hp else None
-            hccy = h.get("currency") or "USD"  # foreign holdings price in KRW/JPY/etc.
-        except Exception:
-            pass  # keep the holding (sized by weight) even if its quote failed
+        chg, hprice = 0.0, None
+        hp, hpc, _ = closes.get(sym, (None, None, None))
+        if hp and hpc:
+            chg = ((hp / hpc) - 1) * 100
+            hprice = round(float(hp), 2)
 
         holdings.append({
             "symbol": sym,
@@ -167,9 +191,8 @@ def fetch_etf(symbol, name):
             "weight_pct": round(weight, 2),
             "change_pct": round(float(chg), 2),
             "price": hprice,
-            "currency": hccy,
+            "currency": ccy_for(sym),
         })
-        time.sleep(0.3)
 
     holdings.sort(key=lambda h: h["weight_pct"], reverse=True)
     return {
@@ -184,15 +207,20 @@ def fetch_etf(symbol, name):
 def main():
     stocks, errors = [], []
 
+    # one batch download covers watchlist + ETFs + every ETF holding
+    holding_syms = [h["symbol"] for sheet in ETF_HOLDINGS.values() for h in sheet]
+    allsyms = list(dict.fromkeys(TICKERS + list(ETF_HOLDINGS.keys()) + holding_syms))
+    closes = batch_closes(allsyms)
+
     print(f"Fetching {len(TICKERS)} tickers...")
     for sym in TICKERS:
         try:
-            stocks.append(fetch_one(sym))
+            stocks.append(fetch_one(sym, closes))
             print(f"  ok    {sym}")
         except Exception as e:
             errors.append(sym)
             print(f"  FAIL  {sym}: {e}")
-        time.sleep(0.4)  # be gentle with the free endpoint
+        time.sleep(0.2)  # headlines call pacing
 
     # Biggest company first -> biggest tile.
     stocks.sort(key=lambda s: s["market_cap"], reverse=True)
@@ -201,7 +229,7 @@ def main():
     etfs = []
     for e in ETFS:
         try:
-            etf = fetch_etf(e["symbol"], e["name"])
+            etf = fetch_etf(e["symbol"], e["name"], closes)
             etfs.append(etf)
             print(f"  ok    ETF {e['symbol']} ({len(etf['holdings'])} holdings)")
         except Exception as ex:

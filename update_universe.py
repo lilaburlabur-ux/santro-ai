@@ -28,25 +28,35 @@ def main():
     d = json.load(open(PATH))
     ok = fail = 0
 
+    # One batch download for all symbols. Daily closes are the source of truth:
+    # change = last bar vs prior bar. During market hours the last bar is the
+    # live session; outside hours it's the completed session (so premarket
+    # shows the last REAL session move — never fast_info's bogus previousClose,
+    # which returns garbage outside trading hours).
+    syms = [t["ticker"] for b in d["bubbles"] for t in b["tickers"]]
+    px = yf.download(syms, period="5d", interval="1d", auto_adjust=True,
+                     progress=False, group_by="ticker", threads=True)
+
     for b in d["bubbles"]:
         for t in b["tickers"]:
             try:
-                fi = yf.Ticker(t["ticker"]).fast_info
-                price, prev = fi.get("lastPrice"), fi.get("previousClose")
-                if price and prev:
-                    t["price"] = round(float(price), 2)
-                    t["change_pct"] = round((price / prev - 1) * 100, 2)
-                cap = fi.get("marketCap")
-                if cap:
-                    t["market_cap_b"] = round(cap / 1e9, 2)
-                vol = fi.get("lastVolume")
-                if vol:
-                    t["volume"] = int(vol)
+                c = px[t["ticker"]]["Close"].dropna()
+                v = px[t["ticker"]]["Volume"].dropna()
+                if len(c) < 2:
+                    raise ValueError("not enough bars")
+                last, prev = float(c.iloc[-1]), float(c.iloc[-2])
+                old_price = t.get("price") or last
+                t["change_pct"] = round((last / prev - 1) * 100, 2)
+                # scale stored cap by price move (avoids 83 slow per-ticker calls)
+                if t.get("market_cap_b") and old_price:
+                    t["market_cap_b"] = round(t["market_cap_b"] * last / old_price, 2)
+                t["price"] = round(last, 2)
+                if len(v):
+                    t["volume"] = int(v.iloc[-1])
                 ok += 1
             except Exception as e:
                 fail += 1
                 print(f"  FAIL {t['ticker']}: {e}")
-            time.sleep(0.25)
 
         # bubble aggregates follow the fresh ticker data
         b["total_market_cap_b"] = round(sum(t["market_cap_b"] for t in b["tickers"]), 1)

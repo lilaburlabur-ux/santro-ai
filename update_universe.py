@@ -47,6 +47,17 @@ def main():
                 last, prev = float(c.iloc[-1]), float(c.iloc[-2])
                 old_price = t.get("price") or last
                 t["change_pct"] = round((last / prev - 1) * 100, 2)
+                # >40% daily moves are usually corrupt bars or corporate actions
+                # (seen: KLAC bar off by 10x) — cross-check against fast_info
+                if abs(t["change_pct"]) > 40:
+                    try:
+                        fi = yf.Ticker(t["ticker"]).fast_info
+                        p2, pc2 = fi.get("lastPrice"), fi.get("previousClose")
+                        if p2 and pc2 and abs(p2 / pc2 - 1) * 100 < 40:
+                            t["change_pct"] = round((p2 / pc2 - 1) * 100, 2)
+                            last = float(p2)
+                    except Exception:
+                        pass
                 # scale stored cap by price move (avoids 83 slow per-ticker calls)
                 if t.get("market_cap_b") and old_price:
                     t["market_cap_b"] = round(t["market_cap_b"] * last / old_price, 2)

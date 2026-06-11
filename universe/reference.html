@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>stoxheatmap.ai — AI Bubble Map (reference implementation)</title>
+<style>
+  body { font-family: -apple-system, "Segoe UI", Arial, sans-serif; background: #0d1117; color: #e6edf3; margin: 0; padding: 16px; }
+  #legend { display: flex; gap: 16px; font-size: 12px; color: #9aa4b2; margin-bottom: 8px; flex-wrap: wrap; }
+  #back { display: none; margin-top: 8px; background: none; border: 1px solid #30363d; color: #e6edf3; padding: 6px 14px; border-radius: 8px; cursor: pointer; }
+  text { pointer-events: none; }
+  circle { cursor: pointer; }
+</style>
+</head>
+<body>
+<div id="legend">
+  <span>bubble size = total market cap (sqrt scale)</span>
+  <span>drill-down: ticker size = cap · color = day % change</span>
+  <span id="mode"></span>
+</div>
+<div id="bub"></div>
+<button id="back">← Back to categories</button>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script>
+const W = 1000, H = 700;
+// Day-% heat scale: tune thresholds to your palette
+const chgColor = c => c > 0.5 ? "#2ea043" : c > 0 ? "#56d364" : c > -2 ? "#f0883e" : c > -5 ? "#da3633" : "#8e1519";
+
+const svg = d3.select("#bub").append("svg")
+  .attr("viewBox", `0 0 ${W} ${H}`).attr("width", "100%");
+
+const fmt = n => n >= 1000 ? (n / 1000).toFixed(1) + "T" : Math.round(n) + "B";
+
+fetch("data.json").then(r => r.json()).then(DATA => {
+  drawCats(DATA);
+  document.getElementById("back").onclick = () => drawCats(DATA);
+
+  function drawCats(data) {
+    document.getElementById("mode").textContent = "view: categories";
+    document.getElementById("back").style.display = "none";
+    svg.selectAll("*").remove();
+    // sqrt scale so megacap bubbles don't drown the map
+    const root = d3.pack().size([W, H]).padding(12)(
+      d3.hierarchy({ children: data.bubbles }).sum(d => Math.sqrt(d.total_market_cap_b || 0)));
+    const g = svg.selectAll("g").data(root.leaves()).join("g")
+      .attr("transform", d => `translate(${d.x},${d.y})`)
+      .on("click", (e, d) => drawTickers(d.data));
+    g.append("circle").attr("r", d => d.r)
+      .attr("fill", d => d.data.color).attr("fill-opacity", 0.25)
+      .attr("stroke", d => d.data.color).attr("stroke-width", 2);
+    g.append("text").attr("text-anchor", "middle").attr("dy", -8)
+      .style("font-size", d => Math.max(12, d.r / 7) + "px").style("font-weight", 600)
+      .attr("fill", "#e6edf3")
+      .each(function(d) {
+        const words = d.data.label.split(" "), half = Math.ceil(words.length / 2);
+        d3.select(this).append("tspan").attr("x", 0).text(words.slice(0, half).join(" "));
+        d3.select(this).append("tspan").attr("x", 0).attr("dy", "1.15em").text(words.slice(half).join(" "));
+      });
+    g.append("text").attr("text-anchor", "middle")
+      .attr("dy", d => d.r / 7 + 26).style("font-size", "12px")
+      .attr("fill", "#9aa4b2")
+      .text(d => `${d.data.count} names · $${fmt(d.data.total_market_cap_b)} · ${d.data.avg_change_pct > 0 ? "+" : ""}${d.data.avg_change_pct}%`);
+  }
+
+  function drawTickers(cat) {
+    document.getElementById("mode").textContent = "view: " + cat.label +
+      " — industries: " + cat.industries_included.join(", ");
+    document.getElementById("back").style.display = "inline-block";
+    svg.selectAll("*").remove();
+    const root = d3.pack().size([W, H]).padding(8)(
+      d3.hierarchy({ children: cat.tickers }).sum(d => Math.sqrt(d.market_cap_b || 0.3)));
+    const g = svg.selectAll("g").data(root.leaves()).join("g")
+      .attr("transform", d => `translate(${d.x},${d.y})`);
+    g.append("circle").attr("r", d => d.r)
+      .attr("fill", d => chgColor(d.data.change_pct)).attr("fill-opacity", 0.9);
+    g.append("text").attr("text-anchor", "middle").attr("dy", -2)
+      .style("font-size", d => Math.max(11, d.r / 4) + "px").style("font-weight", 600)
+      .attr("fill", "#fff").text(d => d.r > 16 ? d.data.ticker : "");
+    g.append("text").attr("text-anchor", "middle").attr("dy", 15)
+      .style("font-size", "11px").attr("fill", "#fff").attr("opacity", 0.9)
+      .text(d => d.r > 28 ? (d.data.change_pct > 0 ? "+" : "") + d.data.change_pct.toFixed(1) + "%" : "");
+    // Tooltip: company + ORIGINAL Finviz industry (kept per spec) + stats
+    g.append("title").text(d =>
+      `${d.data.ticker} — ${d.data.company}\nIndustry: ${d.data.industry}\nCap: $${fmt(d.data.market_cap_b)} · P/E: ${d.data.pe ?? "n/m"} · ${d.data.change_pct > 0 ? "+" : ""}${d.data.change_pct}% · Vol: ${d.data.volume.toLocaleString()}`);
+  }
+});
+</script>
+</body>
+</html>

@@ -256,7 +256,9 @@
         <span class="seg">
           <button class="seg-btn active" data-mode="stocks" id="seg-stocks">Watchlist</button>
           <button class="seg-btn" data-mode="etf">DRAM ETF</button>
+          <button class="seg-btn" data-mode="universe">AI Universe</button>
         </span>
+        <button class="seg-btn" id="uni-back" style="display:none">← All themes</button>
         <span class="legend"><span>−3%</span><span class="bar"></span><span>+3%</span></span>
       </h2>
       <div class="body tight"><div id="chart"></div></div>
@@ -350,6 +352,23 @@ let research=null, asOfUtc=null;   // research.json cards + quote timestamp
 let takeaways=null;                // takeaways/takeaways.json (4-hour cycle)
 let tkExpanded=false;              // "See more" state — survives the 60s auto-refresh
 let runners=null;                  // runners.json — manually curated small/mid-cap AI movers
+let universe=null, uniGroup=null;  // universe.json — 83-ticker AI universe in 7 themed bubbles
+
+// short labels that fit inside small group bubbles (full label in tooltip/detail)
+const UNI_SHORT={
+  ai_chips_and_compute:"Chips & Compute",
+  ai_software_and_cloud_infrastructure:"Software & Cloud",
+  ai_applications_and_data_software:"Apps & Data",
+  chip_equipment_and_ai_hardware:"Equip & Hardware",
+  ai_platforms_internet_and_adtech:"Platforms & Ads",
+  data_center_power_and_energy:"DC Power & Energy",
+  applied_ai_industrial_defense_and_vertical:"Applied AI",
+};
+function hexToRgba(hex,a){
+  const h=hex.replace("#","");
+  return `rgba(${parseInt(h.slice(0,2),16)},${parseInt(h.slice(2,4),16)},${parseInt(h.slice(4,6),16)},${a})`;
+}
+const fmtVol=v=>v==null?"—":v>=1e9?(v/1e9).toFixed(1)+"B":v>=1e6?(v/1e6).toFixed(1)+"M":v>=1e3?(v/1e3).toFixed(0)+"K":""+v;
 
 // ---- day / night theme -------------------------------------------------------
 const currentTheme = () => document.documentElement.dataset.theme==="light" ? "light" : "dark";
@@ -440,13 +459,40 @@ function packBubbles(items, key, W, H){
 }
 
 function render(){
-  const etfMode = heatMode==="etf" && etf;
-  const items = etfMode ? etf.holdings : stocks;
-  const key = etfMode ? "weight_pct" : "market_cap";
   const W = chart.getWidth()||516, H = chart.getHeight()||384;
   const th = chartTheme();
+  const lightUI = currentTheme()==="light";
+  let mode, items, key;
+  if(heatMode==="universe" && universe){
+    mode = uniGroup ? "uniTickers" : "uniGroups";
+    items = uniGroup ? uniGroup.tickers : universe.bubbles;
+    key = uniGroup ? "market_cap_b" : "total_market_cap_b";
+  } else if(heatMode==="etf" && etf){
+    mode="etf"; items=etf.holdings; key="weight_pct";
+  } else {
+    mode="stocks"; items=stocks; key="market_cap";
+  }
   const data = packBubbles(items, key, W, H).map(n=>{
     const x=n.it, fs=Math.max(10, Math.round(n.r*0.36));
+    if(mode==="uniGroups"){
+      // theme bubbles: category color fill + colored stroke (per universe/SPEC.md)
+      const gfs=Math.max(9, Math.min(15, Math.round(n.r*0.24)));
+      return {value:[n.x,n.y], symbolSize:n.r*2, group:x,
+        itemStyle:{color:hexToRgba(x.color, lightUI?0.22:0.30), borderColor:x.color, borderWidth:2.5},
+        label:{show:true, position:"inside", color:lightUI?"#1b242f":"#fff", fontWeight:600,
+          fontSize:gfs, lineHeight:Math.round(gfs*1.3),
+          formatter:()=>`${UNI_SHORT[x.id]||x.label}\n${x.count} names · ${fmtPct(x.avg_change_pct)}`}};
+    }
+    if(mode==="uniTickers"){
+      return {value:[n.x,n.y], symbolSize:n.r*2, uniTicker:x,
+        itemStyle:{color:colorFor(x.change_pct),
+          borderColor:x.ticker===selectedSymbol?th.ring:th.bubbleBorder,
+          borderWidth:x.ticker===selectedSymbol?3:1.5},
+        label:{show:n.r>15, position:"inside", color:"#fff", fontWeight:600,
+          fontSize:fs, lineHeight:Math.round(fs*1.2),
+          formatter:()=>`${x.ticker}\n${fmtPct(x.change_pct)}`}};
+    }
+    const etfMode = mode==="etf";
     return {
       value:[n.x, n.y],
       symbolSize:n.r*2,
@@ -466,6 +512,16 @@ function render(){
     yAxis:{show:false, min:0, max:H},
     tooltip:{borderColor:th.ttBorder, backgroundColor:th.ttBg, textStyle:{color:th.ttText,fontSize:12},
       formatter:p=>{
+        if(p.data.group){const g=p.data.group; const c=g.avg_change_pct>=0?"#22c55e":"#f05a6e";
+          return `<b>${g.label}</b><br/>${g.count} names · ${fmtCap(g.total_market_cap_b*1e9)} combined<br/>`
+               + `<span style="color:${c}">${fmtPct(g.avg_change_pct)} avg today</span><br/>`
+               + `<span style="opacity:.7">Industries: ${g.industries_included.join(", ")}</span><br/>`
+               + `<span style="opacity:.7">click to drill into members ↓</span>`;}
+        if(p.data.uniTicker){const t=p.data.uniTicker; const c=t.change_pct>=0?"#22c55e":"#f05a6e";
+          return `<b>${t.ticker}</b> · ${t.company}<br/>`
+               + `<span style="color:${c}">${fmtPct(t.change_pct)}</span> &nbsp; $${(t.price??0).toFixed(2)}<br/>`
+               + `Cap ${fmtCap(t.market_cap_b*1e9)} · Vol ${fmtVol(t.volume)} · P/E ${t.pe==null?"—":t.pe}<br/>`
+               + `<span style="opacity:.7">${t.industry}</span>`;}
         if(p.data.holding){const h=p.data.holding; const c=h.change_pct>=0?"#22c55e":"#f05a6e";
           return `<b>${h.short}</b> · ${h.name}<br/><span style="color:${c}">${fmtPct(h.change_pct)}</span>${h.price!=null?" &nbsp; "+fmtMoney(h.price,h.currency):""}<br/>Weight in ${etf.symbol} ${h.weight_pct.toFixed(2)}%`;}
         const s=p.data.stock; if(!s) return "";
@@ -526,6 +582,39 @@ function showEtfDetail(h){
 }
 function selectSymbol(s){ selectedSymbol=s.symbol; render(); showDetail(s); }
 function selectHolding(h){ selectedSymbol=h.symbol; render(); showEtfDetail(h); }
+
+function showGroupDetail(g){
+  document.getElementById("detail-title").innerHTML=
+    `Theme — ${UNI_SHORT[g.id]||g.label} <span class="badge live">AI Universe</span>`;
+  document.getElementById("detail").innerHTML=`
+    <div class="d-head"><span class="d-sym" style="font-size:19px">${g.label}</span>
+      <span class="d-pct ${pctClass(g.avg_change_pct)}">${fmtPct(g.avg_change_pct)} avg</span></div>
+    <div class="d-stats">
+      <div class="d-stat"><div class="k">Combined market cap</div><div class="v">${fmtCap(g.total_market_cap_b*1e9)}</div></div>
+      <div class="d-stat"><div class="k">Members</div><div class="v">${g.count} tickers</div></div>
+    </div>
+    <div class="sec-label">Finviz industries merged into this theme</div>
+    <div class="chips">${g.industries_included.map(i=>`<span class="chip">${i}</span>`).join("")}</div>
+    <div class="links"><span class="see-more" style="cursor:default">Click the bubble to see its members</span></div>`;
+}
+
+function showUniverseDetail(t){
+  document.getElementById("detail-title").innerHTML=
+    `Selected — ${t.ticker} <span class="badge live">${uniGroup?(UNI_SHORT[uniGroup.id]||uniGroup.label):"AI Universe"}</span>`;
+  document.getElementById("detail").innerHTML=`
+    <div class="d-head"><span class="d-sym">${t.ticker}</span><span class="d-name">${t.company}</span>
+      <span class="d-pct ${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</span></div>
+    <div class="d-stats">
+      <div class="d-stat"><div class="k">Price</div><div class="v">$${(t.price??0).toFixed(2)}</div></div>
+      <div class="d-stat"><div class="k">Market cap</div><div class="v">${fmtCap(t.market_cap_b*1e9)}</div></div>
+      <div class="d-stat"><div class="k">Finviz industry</div><div class="v" style="font-size:13px">${t.industry}</div></div>
+      <div class="d-stat"><div class="k">P/E · Volume</div><div class="v">${t.pe==null?"—":t.pe} · ${fmtVol(t.volume)}</div></div>
+    </div>
+    ${researchExtras(t.ticker)}
+    <div class="links">
+      <a class="see-more" href="https://finance.yahoo.com/quote/${t.ticker}" target="_blank" rel="noopener">Yahoo Finance →</a>
+    </div>`;
+}
 
 function allHeadlines(){
   const seen=new Set(), out=[];
@@ -603,13 +692,29 @@ function renderTakeaways(){
 }
 
 function applyHeat(){
+  const back=document.getElementById("uni-back");
+  if(back) back.style.display = (heatMode==="universe" && uniGroup) ? "" : "none";
+  document.getElementById("seg-stocks").textContent = `Watchlist ${stocks.length}`;
+
+  if(heatMode==="universe" && universe){
+    document.getElementById("heat-title").textContent = uniGroup
+      ? `${uniGroup.label} · by market cap`
+      : `AI Universe · ${universe.meta.total_tickers} names · ${universe.bubbles.length} themes`;
+    render();
+    if(uniGroup){
+      const t = uniGroup.tickers.find(x=>x.ticker===selectedSymbol);
+      t ? showUniverseDetail(t) : showGroupDetail(uniGroup);
+    } else {
+      showGroupDetail(universe.bubbles[0]);
+    }
+    return;
+  }
   const etfMode = heatMode==="etf" && etf;
   const list = etfMode ? etf.holdings : stocks;
   const sel = list.find(x=>x.symbol===selectedSymbol) || list[0];
   selectedSymbol = sel ? sel.symbol : null;
   document.getElementById("heat-title").textContent =
     etfMode ? `${etf.symbol} · holdings by weight` : "Semiconductors · Finviz industry";
-  document.getElementById("seg-stocks").textContent = `Watchlist ${stocks.length}`;
   render();
   if(sel) (etfMode ? showEtfDetail : showDetail)(sel);
 }
@@ -624,6 +729,10 @@ async function loadData(){
     catch(e){ takeaways=null; }
     try{ runners=await (await fetch("runners.json?t="+Date.now())).json(); }
     catch(e){ runners=null; }
+    try{
+      universe=await (await fetch("universe.json?t="+Date.now())).json();
+      if(uniGroup) uniGroup = universe.bubbles.find(b=>b.id===uniGroup.id) || null;
+    }catch(e){ universe=null; uniGroup=null; }
     document.getElementById("asof").textContent="As of "+d.as_of_local;
     renderNews(); renderSamples(); renderTakeaways();
     applyHeat();
@@ -634,15 +743,20 @@ async function loadData(){
 }
 
 chart.on("click", p=>{
-  if(p.data && p.data.holding) selectHolding(p.data.holding);
+  if(p.data && p.data.group){ uniGroup=p.data.group; selectedSymbol=null; applyHeat(); }
+  else if(p.data && p.data.uniTicker){ selectedSymbol=p.data.uniTicker.ticker; render(); showUniverseDetail(p.data.uniTicker); }
+  else if(p.data && p.data.holding) selectHolding(p.data.holding);
   else if(p.data && p.data.stock) selectSymbol(p.data.stock);
 });
-document.querySelectorAll(".seg-btn").forEach(b=>b.addEventListener("click",()=>{
+document.querySelectorAll(".seg-btn[data-mode]").forEach(b=>b.addEventListener("click",()=>{
   if(b.dataset.mode===heatMode) return;
-  heatMode=b.dataset.mode; selectedSymbol=null;
-  document.querySelectorAll(".seg-btn").forEach(x=>x.classList.toggle("active",x.dataset.mode===heatMode));
+  heatMode=b.dataset.mode; selectedSymbol=null; uniGroup=null;
+  document.querySelectorAll(".seg-btn[data-mode]").forEach(x=>x.classList.toggle("active",x.dataset.mode===heatMode));
   applyHeat();
 }));
+document.getElementById("uni-back").addEventListener("click", ()=>{
+  uniGroup=null; selectedSymbol=null; applyHeat();
+});
 window.addEventListener("resize", ()=>{chart.resize(); render();});
 document.getElementById("reload").addEventListener("click", loadData);
 document.getElementById("theme-toggle").addEventListener("click",

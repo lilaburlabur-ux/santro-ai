@@ -383,6 +383,72 @@ function hexToRgba(hex,a){
 }
 const fmtVol=v=>v==null?"—":v>=1e9?(v/1e9).toFixed(1)+"B":v>=1e6?(v/1e6).toFixed(1)+"M":v>=1e3?(v/1e3).toFixed(0)+"K":""+v;
 
+// ---- cryptobubbles-style helpers ----------------------------------------------
+const logoUrl = sym => `https://assets.parqet.com/logos/symbol/${encodeURIComponent(sym.split(".")[0])}?format=png&size=64`;
+function heatDark(pct){            // dark bubble core, tinted toward the heat color
+  const m=colorFor(pct).match(/\d+/g).map(Number);
+  return `rgb(${m.map(v=>Math.round(v*0.30+8)).join(",")})`;
+}
+const heatText = pct => (pct>=0 ? "#8df0b4" : "#ff9aa2");
+const tfChip=(k,v)=>`<div class="score-chip"><span class="k">${k}</span><span class="${(v??0)>=0?"up":"down"}">${v==null?"—":fmtPct(v)}</span></div>`;
+function sparkSvg(s){
+  const w=260,h=56,min=Math.min(...s),max=Math.max(...s),rng=(max-min)||1;
+  const pts=s.map((v,i)=>`${(i/(s.length-1)*w).toFixed(1)},${(h-4-((v-min)/rng)*(h-8)).toFixed(1)}`).join(" ");
+  const col=(s[s.length-1]>=s[0])?"#22c55e":"#f05a6e";
+  return `<div class="sec-label">Last 60 sessions</div>
+   <svg width="100%" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" style="display:block">
+     <polyline points="${pts}" fill="none" stroke="${col}" stroke-width="2"/></svg>`;
+}
+
+// ---- floating-bubble physics (cryptobubbles-style drift) -----------------------
+let simNodes=null, simBounds=null, motionTimer=null;
+function bubbleItem(n){
+  const x=n.obj, sym=n.kind==="uni"?x.ticker:x.symbol;
+  const pct=x.change_pct||0, heat=colorFor(pct);
+  const fs=Math.max(10, Math.round(n.r*0.30));
+  const ls=Math.round(n.r*0.55);
+  const sel=sym===selectedSymbol;
+  const rich={
+    tk:{color:"#fff",fontWeight:700,fontSize:fs,lineHeight:Math.round(fs*1.3)},
+    pc:{color:heatText(pct),fontWeight:600,fontSize:Math.max(9,Math.round(fs*0.8)),lineHeight:Math.round(fs*1.05)}};
+  let fmt="";
+  if(n.r>26 && !sym.includes(".")){
+    rich.lg={backgroundColor:{image:logoUrl(sym)},width:ls,height:ls,borderRadius:ls/2};
+    fmt+="{lg|}\n";
+  }
+  fmt+=`{tk|${n.kind==="etf"?x.short:sym}}\n{pc|${fmtPct(pct)}}`;
+  return {value:[n.x,n.y], symbolSize:n.r*2,
+    [n.kind==="uni"?"uniTicker":(n.kind==="etf"?"holding":"stock")]:x,
+    itemStyle:{color:heatDark(pct),
+      borderColor:sel?"#ffffff":heat,
+      borderWidth:sel?3.5:Math.max(2,Math.round(n.r*0.09)),
+      shadowColor:heat, shadowBlur:Math.max(8,Math.round(n.r*0.35))},
+    label:{show:true, position:"inside", formatter:fmt, rich}};
+}
+function stopMotion(){ if(motionTimer){ clearInterval(motionTimer); motionTimer=null; } }
+function startMotion(){
+  stopMotion();
+  motionTimer=setInterval(()=>{
+    if(!simNodes || document.hidden) return;
+    const {W,H}=simBounds;
+    for(const n of simNodes){
+      n.x+=n.vx; n.y+=n.vy;
+      if(n.x-n.r<2){n.x=n.r+2; n.vx=Math.abs(n.vx);}  if(n.x+n.r>W-2){n.x=W-2-n.r; n.vx=-Math.abs(n.vx);}
+      if(n.y-n.r<2){n.y=n.r+2; n.vy=Math.abs(n.vy);}  if(n.y+n.r>H-2){n.y=H-2-n.r; n.vy=-Math.abs(n.vy);}
+    }
+    for(let i=0;i<simNodes.length;i++) for(let j=i+1;j<simNodes.length;j++){
+      const a=simNodes[i], b=simNodes[j];
+      const dx=b.x-a.x, dy=b.y-a.y, d=Math.hypot(dx,dy)||1, min=a.r+b.r+2;
+      if(d<min){
+        const ux=dx/d, uy=dy/d, ov=(min-d)/2;
+        a.x-=ux*ov; a.y-=uy*ov; b.x+=ux*ov; b.y+=uy*ov;
+        let t=a.vx; a.vx=b.vx; b.vx=t; t=a.vy; a.vy=b.vy; b.vy=t;
+      }
+    }
+    chart.setOption({series:[{animation:false, data:simNodes.map(bubbleItem)}]});
+  }, 50);
+}
+
 // ---- day / night theme -------------------------------------------------------
 const currentTheme = () => document.documentElement.dataset.theme==="light" ? "light" : "dark";
 function chartTheme(){            // chart colors that CSS variables can't reach
@@ -497,6 +563,7 @@ function render(){
   const tooltip = {borderColor:th.ttBorder, backgroundColor:th.ttBg,
     textStyle:{color:th.ttText,fontSize:12}, formatter:ttFormatter};
 
+  stopMotion();
   // ---- AI Universe TOP LEVEL: heat TREEMAP — sector area = market cap, color = avg member performance ----
   if(heatMode==="universe" && universe && !uniGroup){
     const maxV = Math.max(...universe.bubbles.map(g=>g.total_market_cap_b));
@@ -526,38 +593,22 @@ function render(){
   if(heatMode==="universe" && universe && uniGroup){ kind="uni"; items=uniGroup.tickers; key="market_cap_b"; }
   else if(heatMode==="etf" && etf){ kind="etf"; items=etf.holdings; key="weight_pct"; }
   else { kind="stocks"; items=stocks; key="market_cap"; }
-  const data = packBubbles(items, key, W, H).map(n=>{
-    const x=n.it, fs=Math.max(10, Math.round(n.r*0.36));
-    if(kind==="uni"){
-      return { value:[n.x,n.y], symbolSize:n.r*2, uniTicker:x,
-        itemStyle:{color:colorFor(x.change_pct),
-          borderColor:x.ticker===selectedSymbol?th.ring:th.bubbleBorder,
-          borderWidth:x.ticker===selectedSymbol?3:1.5},
-        label:{show:n.r>14, position:"inside", color:"#fff", fontWeight:600,
-          fontSize:fs, lineHeight:Math.round(fs*1.2),
-          formatter:()=>`${x.ticker}\n${fmtPct(x.change_pct)}`} };
-    }
-    return {
-      value:[n.x, n.y],
-      symbolSize:n.r*2,
-      [kind==="etf" ? "holding" : "stock"]: x,
-      itemStyle:{color:colorFor(x.change_pct),
-        borderColor:x.symbol===selectedSymbol?th.ring:th.bubbleBorder,
-        borderWidth:x.symbol===selectedSymbol?3:1.5},
-      label:{show:true, position:"inside", color:"#fff", fontWeight:600,
-        fontSize:fs, lineHeight:Math.round(fs*1.2),
-        formatter:()=>`${kind==="etf"?x.short:x.symbol}\n${fmtPct(x.change_pct)}`},
-    };
-  });
+  simNodes = packBubbles(items, key, W, H).map(n=>({
+    x:n.x, y:n.y, r:n.r,
+    vx:(Math.random()-0.5)*0.7, vy:(Math.random()-0.5)*0.7,
+    obj:n.it, kind,
+  }));
+  simBounds = {W, H};
   chart.setOption({
     backgroundColor:"transparent",
     grid:{left:0, right:0, top:0, bottom:0},
     xAxis:{show:false, min:0, max:W},
     yAxis:{show:false, min:0, max:H},
     tooltip,
-    series:[{type:"scatter", data, animationDuration:380,
-      emphasis:{itemStyle:{borderColor:th.ringHover, borderWidth:2.5}}}],
+    series:[{type:"scatter", data:simNodes.map(bubbleItem), animationDuration:380,
+      emphasis:{itemStyle:{borderColor:"#fff", borderWidth:3}}}],
   }, true);
+  startMotion();
 }
 
 function showDetail(s){
@@ -638,6 +689,10 @@ function showUniverseDetail(t){
       <div class="d-stat"><div class="k">Finviz industry</div><div class="v" style="font-size:13px">${t.industry}</div></div>
       <div class="d-stat"><div class="k">P/E · Volume</div><div class="v">${t.pe==null?"—":t.pe} · ${fmtVol(t.volume)}</div></div>
     </div>
+    ${t.perf?`<div class="sec-label">Performance</div><div class="chips">
+      ${tfChip("1D",t.change_pct)}${tfChip("1W",t.perf["1W"])}${tfChip("1M",t.perf["1M"])}${tfChip("1Y",t.perf["1Y"])}
+    </div>`:""}
+    ${t.spark&&t.spark.length>2?sparkSvg(t.spark):""}
     ${researchExtras(t.ticker)}
     <div class="links">
       <a class="see-more" href="https://finance.yahoo.com/quote/${t.ticker}" target="_blank" rel="noopener">Yahoo Finance →</a>

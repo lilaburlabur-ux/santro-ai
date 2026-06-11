@@ -34,7 +34,7 @@ def main():
     # shows the last REAL session move — never fast_info's bogus previousClose,
     # which returns garbage outside trading hours).
     syms = [t["ticker"] for b in d["bubbles"] for t in b["tickers"]]
-    px = yf.download(syms, period="5d", interval="1d", auto_adjust=True,
+    px = yf.download(syms, period="1y", interval="1d", auto_adjust=True,
                      progress=False, group_by="ticker", threads=True)
 
     for b in d["bubbles"]:
@@ -64,6 +64,17 @@ def main():
                 t["price"] = round(last, 2)
                 if len(v):
                     t["volume"] = int(v.iloc[-1])
+                # multi-timeframe performance + 30-point sparkline (for the
+                # stock-info card: 1D = change_pct, plus 1W / 1M / 1Y)
+                def perf(nbars):
+                    if len(c) > nbars:
+                        return round((last / float(c.iloc[-1 - nbars]) - 1) * 100, 1)
+                    return None
+                t["perf"] = {"1W": perf(5), "1M": perf(21),
+                             "1Y": round((last / float(c.iloc[0]) - 1) * 100, 1) if len(c) > 200 else None}
+                tail = c.iloc[-60:]
+                step = max(1, len(tail) // 30)
+                t["spark"] = [round(float(x), 2) for x in tail.iloc[::step]]
                 ok += 1
             except Exception as e:
                 fail += 1

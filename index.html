@@ -254,9 +254,8 @@
         <span class="ic">▦</span>
         <span id="heat-title">Loading…</span>
         <span class="seg">
-          <button class="seg-btn active" data-mode="stocks" id="seg-stocks">Watchlist</button>
-          <button class="seg-btn" data-mode="etf">DRAM ETF</button>
-          <button class="seg-btn" data-mode="universe">AI Universe</button>
+          <button class="seg-btn active" data-mode="universe">AI Universe · Finviz</button>
+          <button class="seg-btn" data-mode="etf">AI ETFs</button>
         </span>
         <button class="seg-btn" id="uni-back" style="display:none">← All themes</button>
         <span class="legend"><span>−3%</span><span class="bar"></span><span>+3%</span></span>
@@ -347,7 +346,7 @@ const SAMPLE_IPOS=[
 ];
 
 const chart=echarts.init(document.getElementById("chart"),null,{renderer:"canvas"});
-let stocks=[], etf=null, selectedSymbol=null, heatMode="stocks";
+let stocks=[], etf=null, selectedSymbol=null, heatMode="universe";
 let research=null, asOfUtc=null;   // research.json cards + quote timestamp
 let takeaways=null;                // takeaways/takeaways.json (4-hour cycle)
 let tkExpanded=false;              // "See more" state — survives the 60s auto-refresh
@@ -462,37 +461,72 @@ function render(){
   const W = chart.getWidth()||516, H = chart.getHeight()||384;
   const th = chartTheme();
   const lightUI = currentTheme()==="light";
-  let mode, items, key;
+  const pageBg = lightUI ? "#f3f5f8" : "#0a0e13";
+
+  const ttFormatter = p=>{
+    if(p.data.group){const g=p.data.group; const c=g.avg_change_pct>=0?"#22c55e":"#f05a6e";
+      return `<b>${g.label}</b><br/>${g.count} names · ${fmtCap(g.total_market_cap_b*1e9)} combined<br/>`
+           + `<span style="color:${c}">${fmtPct(g.avg_change_pct)} avg of members today</span><br/>`
+           + `<span style="opacity:.7">Industries: ${g.industries_included.join(", ")}</span><br/>`
+           + `<span style="opacity:.7">click to drill into members ↓</span>`;}
+    if(p.data.uniTicker){const t=p.data.uniTicker; const c=t.change_pct>=0?"#22c55e":"#f05a6e";
+      return `<b>${t.ticker}</b> · ${t.company}<br/>`
+           + `<span style="color:${c}">${fmtPct(t.change_pct)}</span> &nbsp; $${(t.price??0).toFixed(2)}<br/>`
+           + `Cap ${fmtCap(t.market_cap_b*1e9)} · Vol ${fmtVol(t.volume)} · P/E ${t.pe==null?"—":t.pe}<br/>`
+           + `<span style="opacity:.7">${t.industry}</span>`;}
+    if(p.data.holding){const h=p.data.holding; const c=h.change_pct>=0?"#22c55e":"#f05a6e";
+      return `<b>${h.short}</b> · ${h.name}<br/><span style="color:${c}">${fmtPct(h.change_pct)}</span>${h.price!=null?" &nbsp; "+fmtMoney(h.price,h.currency):""}<br/>Weight in ${etf.symbol} ${h.weight_pct.toFixed(2)}%`;}
+    const s=p.data.stock; if(!s) return "";
+    const c=s.change_pct>=0?"#22c55e":"#f05a6e";
+    return `<b>${s.symbol}</b> · ${s.name}<br/><span style="color:${c}">${fmtPct(s.change_pct)}</span> &nbsp; $${s.price.toFixed(2)}<br/>Market cap ${fmtCap(s.market_cap)}`;
+  };
+  const tooltip = {borderColor:th.ttBorder, backgroundColor:th.ttBg,
+    textStyle:{color:th.ttText,fontSize:12}, formatter:ttFormatter};
+
+  // ---- AI Universe: heat TREEMAP — tile area = market cap, color = performance ----
   if(heatMode==="universe" && universe){
-    mode = uniGroup ? "uniTickers" : "uniGroups";
-    items = uniGroup ? uniGroup.tickers : universe.bubbles;
-    key = uniGroup ? "market_cap_b" : "total_market_cap_b";
-  } else if(heatMode==="etf" && etf){
-    mode="etf"; items=etf.holdings; key="weight_pct";
-  } else {
-    mode="stocks"; items=stocks; key="market_cap";
+    let data;
+    if(uniGroup){
+      const maxV = Math.max(...uniGroup.tickers.map(t=>t.market_cap_b));
+      data = uniGroup.tickers.map(t=>{
+        const fs = Math.max(10, Math.round(10+15*Math.sqrt(t.market_cap_b/maxV)));
+        return { name:t.ticker, value:t.market_cap_b, uniTicker:t,
+          itemStyle:{color:colorFor(t.change_pct),
+            borderColor:t.ticker===selectedSymbol?th.ring:pageBg,
+            borderWidth:t.ticker===selectedSymbol?3:2},
+          label:{fontSize:fs, lineHeight:Math.round(fs*1.2),
+            formatter:()=>`${t.ticker}\n${fmtPct(t.change_pct)}`} };
+      });
+    } else {
+      const maxV = Math.max(...universe.bubbles.map(g=>g.total_market_cap_b));
+      data = universe.bubbles.map(g=>{
+        const fs = Math.max(11, Math.round(10+13*Math.sqrt(g.total_market_cap_b/maxV)));
+        return { name:UNI_SHORT[g.id]||g.label, value:g.total_market_cap_b, group:g,
+          itemStyle:{color:colorFor(g.avg_change_pct)},
+          label:{fontSize:fs, lineHeight:Math.round(fs*1.3),
+            formatter:()=>`${UNI_SHORT[g.id]||g.label}\n${fmtCap(g.total_market_cap_b*1e9)} · ${fmtPct(g.avg_change_pct)}`} };
+      });
+    }
+    chart.setOption({
+      backgroundColor:"transparent",
+      tooltip,
+      series:[{type:"treemap", roam:false, nodeClick:false, breadcrumb:{show:false},
+        animationDuration:380,
+        width:"100%", height:"100%", top:4, left:4, right:4, bottom:4,
+        itemStyle:{borderColor:pageBg, borderWidth:2, gapWidth:2, borderRadius:6},
+        emphasis:{itemStyle:{borderColor:th.ringHover, borderWidth:2.5}},
+        label:{show:true, color:"#fff", fontWeight:600, overflow:"truncate"},
+        data}],
+    }, true);
+    return;
   }
+
+  // ---- ETF holdings (and fallback watchlist): packed heat bubbles ----
+  let items, key, etfMode=false;
+  if(heatMode==="etf" && etf){ etfMode=true; items=etf.holdings; key="weight_pct"; }
+  else { items=stocks; key="market_cap"; }
   const data = packBubbles(items, key, W, H).map(n=>{
     const x=n.it, fs=Math.max(10, Math.round(n.r*0.36));
-    if(mode==="uniGroups"){
-      // theme bubbles: category color fill + colored stroke (per universe/SPEC.md)
-      const gfs=Math.max(9, Math.min(15, Math.round(n.r*0.24)));
-      return {value:[n.x,n.y], symbolSize:n.r*2, group:x,
-        itemStyle:{color:hexToRgba(x.color, lightUI?0.22:0.30), borderColor:x.color, borderWidth:2.5},
-        label:{show:true, position:"inside", color:lightUI?"#1b242f":"#fff", fontWeight:600,
-          fontSize:gfs, lineHeight:Math.round(gfs*1.3),
-          formatter:()=>`${UNI_SHORT[x.id]||x.label}\n${x.count} names · ${fmtPct(x.avg_change_pct)}`}};
-    }
-    if(mode==="uniTickers"){
-      return {value:[n.x,n.y], symbolSize:n.r*2, uniTicker:x,
-        itemStyle:{color:colorFor(x.change_pct),
-          borderColor:x.ticker===selectedSymbol?th.ring:th.bubbleBorder,
-          borderWidth:x.ticker===selectedSymbol?3:1.5},
-        label:{show:n.r>15, position:"inside", color:"#fff", fontWeight:600,
-          fontSize:fs, lineHeight:Math.round(fs*1.2),
-          formatter:()=>`${x.ticker}\n${fmtPct(x.change_pct)}`}};
-    }
-    const etfMode = mode==="etf";
     return {
       value:[n.x, n.y],
       symbolSize:n.r*2,
@@ -510,23 +544,7 @@ function render(){
     grid:{left:0, right:0, top:0, bottom:0},
     xAxis:{show:false, min:0, max:W},
     yAxis:{show:false, min:0, max:H},
-    tooltip:{borderColor:th.ttBorder, backgroundColor:th.ttBg, textStyle:{color:th.ttText,fontSize:12},
-      formatter:p=>{
-        if(p.data.group){const g=p.data.group; const c=g.avg_change_pct>=0?"#22c55e":"#f05a6e";
-          return `<b>${g.label}</b><br/>${g.count} names · ${fmtCap(g.total_market_cap_b*1e9)} combined<br/>`
-               + `<span style="color:${c}">${fmtPct(g.avg_change_pct)} avg today</span><br/>`
-               + `<span style="opacity:.7">Industries: ${g.industries_included.join(", ")}</span><br/>`
-               + `<span style="opacity:.7">click to drill into members ↓</span>`;}
-        if(p.data.uniTicker){const t=p.data.uniTicker; const c=t.change_pct>=0?"#22c55e":"#f05a6e";
-          return `<b>${t.ticker}</b> · ${t.company}<br/>`
-               + `<span style="color:${c}">${fmtPct(t.change_pct)}</span> &nbsp; $${(t.price??0).toFixed(2)}<br/>`
-               + `Cap ${fmtCap(t.market_cap_b*1e9)} · Vol ${fmtVol(t.volume)} · P/E ${t.pe==null?"—":t.pe}<br/>`
-               + `<span style="opacity:.7">${t.industry}</span>`;}
-        if(p.data.holding){const h=p.data.holding; const c=h.change_pct>=0?"#22c55e":"#f05a6e";
-          return `<b>${h.short}</b> · ${h.name}<br/><span style="color:${c}">${fmtPct(h.change_pct)}</span>${h.price!=null?" &nbsp; "+fmtMoney(h.price,h.currency):""}<br/>Weight in ${etf.symbol} ${h.weight_pct.toFixed(2)}%`;}
-        const s=p.data.stock; if(!s) return "";
-        const c=s.change_pct>=0?"#22c55e":"#f05a6e";
-        return `<b>${s.symbol}</b> · ${s.name}<br/><span style="color:${c}">${fmtPct(s.change_pct)}</span> &nbsp; $${s.price.toFixed(2)}<br/>Market cap ${fmtCap(s.market_cap)}`;}},
+    tooltip,
     series:[{type:"scatter", data, animationDuration:380,
       emphasis:{itemStyle:{borderColor:th.ringHover, borderWidth:2.5}}}],
   }, true);
@@ -694,7 +712,6 @@ function renderTakeaways(){
 function applyHeat(){
   const back=document.getElementById("uni-back");
   if(back) back.style.display = (heatMode==="universe" && uniGroup) ? "" : "none";
-  document.getElementById("seg-stocks").textContent = `Watchlist ${stocks.length}`;
 
   if(heatMode==="universe" && universe){
     document.getElementById("heat-title").textContent = uniGroup
@@ -714,7 +731,7 @@ function applyHeat(){
   const sel = list.find(x=>x.symbol===selectedSymbol) || list[0];
   selectedSymbol = sel ? sel.symbol : null;
   document.getElementById("heat-title").textContent =
-    etfMode ? `${etf.symbol} · holdings by weight` : "Semiconductors · Finviz industry";
+    etfMode ? `AI ETFs · ${etf.symbol} holdings by weight` : "Semiconductors · Finviz industry";
   render();
   if(sel) (etfMode ? showEtfDetail : showDetail)(sel);
 }

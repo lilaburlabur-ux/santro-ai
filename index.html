@@ -417,6 +417,19 @@ function sparkSvg(s){
 // ---- floating-bubble physics (cryptobubbles-style drift) -----------------------
 let simNodes=null, simBounds=null, motionTimer=null;
 function bubbleItem(n){
+  if(n.kind==="sector"){
+    const g=n.obj, avg=g.avg_change_pct||0, heat=colorFor(avg);
+    const fs=Math.max(10, Math.min(17, Math.round(n.r*0.17)));
+    return {value:[n.x,n.y], symbolSize:n.r*2, group:g,
+      itemStyle:{color:heatDark(avg), borderColor:heat,
+        borderWidth:Math.max(2.5, Math.round(n.r*0.05)),
+        shadowColor:heat, shadowBlur:Math.max(10, Math.round(n.r*0.25))},
+      label:{show:true, position:"inside",
+        formatter:`{nm|${UNI_SHORT[g.id]||g.label}}\n{sub|${g.count} names}\n{pc|${fmtCap(g.total_market_cap_b*1e9)} · ${fmtPct(avg)}}`,
+        rich:{nm:{color:"#fff",fontWeight:700,fontSize:fs,lineHeight:Math.round(fs*1.45)},
+              sub:{color:"rgba(255,255,255,.55)",fontWeight:600,fontSize:Math.max(9,Math.round(fs*0.66)),lineHeight:Math.round(fs*1.05)},
+              pc:{color:heatText(avg),fontWeight:600,fontSize:Math.max(10,Math.round(fs*0.8)),lineHeight:Math.round(fs*1.2)}}}};
+  }
   const x=n.obj, sym=n.kind==="uni"?x.ticker:x.symbol;
   const pct=x.change_pct||0, heat=colorFor(pct);
   const fs=Math.max(10, Math.round(n.r*0.30));
@@ -578,37 +591,10 @@ function render(){
     textStyle:{color:th.ttText,fontSize:12}, formatter:ttFormatter};
 
   stopMotion();
-  // ---- AI Universe TOP LEVEL: heat TREEMAP — sector area = market cap, color = avg member performance ----
-  if(heatMode==="universe" && universe && !uniGroup){
-    const maxV = Math.max(...universe.bubbles.map(g=>g.total_market_cap_b));
-    const data = universe.bubbles.map(g=>{
-      const avg=g.avg_change_pct, heat=colorFor(avg);
-      const fs = Math.max(11, Math.round(10+13*Math.sqrt(g.total_market_cap_b/maxV)));
-      return { name:UNI_SHORT[g.id]||g.label, value:g.total_market_cap_b, group:g,
-        itemStyle:{color:heatDark(avg), borderColor:heat, borderWidth:2.5,
-          shadowColor:heat, shadowBlur:12},
-        label:{fontSize:fs, lineHeight:Math.round(fs*1.35),
-          formatter:()=>`{nm|${UNI_SHORT[g.id]||g.label}}\n{sub|${fmtCap(g.total_market_cap_b*1e9)} · ${fmtPct(avg)}}`,
-          rich:{nm:{color:"#fff",fontWeight:700,fontSize:fs,lineHeight:Math.round(fs*1.35)},
-                sub:{color:heatText(avg),fontWeight:600,fontSize:Math.max(10,Math.round(fs*0.78))}}} };
-    });
-    chart.setOption({
-      backgroundColor:"transparent",
-      tooltip,
-      series:[{type:"treemap", roam:false, nodeClick:false, breadcrumb:{show:false},
-        animationDuration:380,
-        width:"100%", height:"100%", top:6, left:6, right:6, bottom:6,
-        itemStyle:{gapWidth:7, borderRadius:10, borderColor:"transparent"},
-        emphasis:{itemStyle:{borderColor:"#fff", borderWidth:3}},
-        label:{show:true, overflow:"truncate"},
-        data}],
-    }, true);
-    return;
-  }
-
-  // ---- ticker-level views: packed heat BUBBLES (sector drill-down, ETF holdings, watchlist fallback) ----
+  // ---- all views are floating heat bubbles; sectors are just bigger bubbles ----
   let items, key, kind;
-  if(heatMode==="universe" && universe && uniGroup){ kind="uni"; items=uniGroup.tickers; key="market_cap_b"; }
+  if(heatMode==="universe" && universe && !uniGroup){ kind="sector"; items=universe.bubbles; key="total_market_cap_b"; }
+  else if(heatMode==="universe" && universe && uniGroup){ kind="uni"; items=uniGroup.tickers; key="market_cap_b"; }
   else if(heatMode==="etf" && etf){ kind="etf"; items=etf.holdings; key="weight_pct"; }
   else { kind="stocks"; items=stocks; key="market_cap"; }
   simNodes = packBubbles(items, key, W, H).map(n=>({

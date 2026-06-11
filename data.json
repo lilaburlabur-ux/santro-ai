@@ -1,18 +1,16 @@
 {
-  "as_of_utc": "2026-06-11T19:05:44+00:00",
-  "as_of_local": "2026-06-11 19:05:44 UTC",
+  "as_of_utc": "2026-06-11T19:10:40+00:00",
+  "as_of_local": "2026-06-11 19:10:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 202.51,
+      "price": 202.57,
       "previous_close": 200.42,
-      "change_pct": 1.05,
-      "market_cap": 4905842400650.024,
+      "change_pct": 1.07,
+      "market_cap": 4906326924133.301,
       "headlines": [
         {
           "title": "'There's more to life than the Mag 7': Robinhood CIO",
@@ -37,10 +35,10 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 417.56,
+      "price": 417.91,
       "previous_close": 408.75,
-      "change_pct": 2.16,
-      "market_cap": 2165664076205.99,
+      "change_pct": 2.24,
+      "market_cap": 2167375701266.3105,
       "headlines": [
         {
           "title": "Is Photronics, Inc. (PLAB) A Good Stock To Buy Now?",
@@ -63,12 +61,40 @@
       ]
     },
     {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 384.56,
+      "previous_close": 372.1,
+      "change_pct": 3.35,
+      "market_cap": 1829527407064.9697,
+      "headlines": [
+        {
+          "title": "Beyond Elon Musk: A closer look at SpaceX's C-suite",
+          "url": "https://finance.yahoo.com/video/beyond-elon-musk-a-closer-look-at-spacexs-c-suite-151330496.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-06-11T15:13:30Z"
+        },
+        {
+          "title": "Strategist explains why stocks can continue climbing",
+          "url": "https://finance.yahoo.com/video/strategist-explains-why-stocks-can-continue-climbing-205449873.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-06-10T20:54:49Z"
+        },
+        {
+          "title": "Broadcom\u2019s Selloff Shows the New Rule of AI Stocks: Great Isn\u2019t Good",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-selloff-shows-rule-ai-185456979.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-06-11T18:54:56Z"
+        }
+      ]
+    },
+    {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 965.22,
+      "price": 967.96,
       "previous_close": 891.88,
-      "change_pct": 8.22,
-      "market_cap": 1088373627156.266,
+      "change_pct": 8.53,
+      "market_cap": 1090022621581.303,
       "headlines": [
         {
           "title": "Why the SpaceX, OpenAI, and Anthropic IPOs won't derail the bull market",
@@ -93,10 +119,10 @@
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 482.08,
+      "price": 483.97,
       "previous_close": 452.4,
-      "change_pct": 6.56,
-      "market_cap": 785493091095.5065,
+      "change_pct": 6.98,
+      "market_cap": 788533996077.46,
       "headlines": [
         {
           "title": "CPU market to grow 5x by 2030, BofA says",
@@ -121,10 +147,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 115.93,
+      "price": 116.57,
       "previous_close": 107.04,
-      "change_pct": 8.31,
-      "market_cap": 582463136932.373,
+      "change_pct": 8.9,
+      "market_cap": 585277684661.8652,
       "headlines": [
         {
           "title": "Intel stock pops on upgrade from BofA, citing CPU growth opportunity",
@@ -149,10 +175,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 336.25,
+      "price": 337.02,
       "previous_close": 307.43,
-      "change_pct": 9.37,
-      "market_cap": 357309260102.86176,
+      "change_pct": 9.62,
+      "market_cap": 358426536098.3191,
       "headlines": [
         {
           "title": "Why Arm Holdings Stock Rallied on Thursday",
@@ -177,10 +203,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 275.15,
+      "price": 277.05,
       "previous_close": 252.59,
-      "change_pct": 8.93,
-      "market_cap": 240316300524.90234,
+      "change_pct": 9.68,
+      "market_cap": 242166520678.71094,
       "headlines": [
         {
           "title": "Marvell Just Ripped 57% in a Month. Will the June 22 S&P 500 Listing Be a Sell-the-News Event?",
@@ -205,10 +231,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 200.87,
+      "price": 201.68,
       "previous_close": 191.2,
-      "change_pct": 5.05,
-      "market_cap": 211521987426.7578,
+      "change_pct": 5.48,
+      "market_cap": 212475856140.13672,
       "headlines": [
         {
           "title": "Qualcomm\u2019s AI Ecosystem Extends To Humanoid Robots And Autonomous Vehicles",
@@ -233,10 +259,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 298.99,
+      "price": 299.88,
       "previous_close": 285.56,
-      "change_pct": 4.7,
-      "market_cap": 75486325444.67212,
+      "change_pct": 5.01,
+      "market_cap": 75688306930.75565,
       "headlines": [
         {
           "title": "NXP Semiconductors (NXPI) Is Down 11.3% After Inflation Spurs Rate Jitters And Insider Selling - What's Changed",
@@ -261,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 138.74,
+      "price": 139.0,
       "previous_close": 132.37,
-      "change_pct": 4.81,
-      "market_cap": 18983808331.42816,
+      "change_pct": 5.01,
+      "market_cap": 19020801038.17888,
       "headlines": [
         {
           "title": "LSCC Rides on Strong AI-Related Demand: Will the Uptrend Persist?",
@@ -289,10 +315,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 133.24,
+      "price": 133.56,
       "previous_close": 128.82,
-      "change_pct": 3.43,
-      "market_cap": 5134175771.460571,
+      "change_pct": 3.68,
+      "market_cap": 5160449114.269714,
       "headlines": [
         {
           "title": "Will Synaptics' (SYNA) Edge AI UAV Collaboration Redefine Its Core IoT Investment Narrative?",
@@ -317,10 +343,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 44.14,
+      "price": 44.17,
       "previous_close": 41.08,
-      "change_pct": 7.45,
-      "market_cap": 1227483836.3990211,
+      "change_pct": 7.52,
+      "market_cap": 1230548277.7179718,
       "headlines": [
         {
           "title": "The AI Double-Tap That Lit Up Cadence",
@@ -347,16 +373,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 63.8,
-      "change_pct": 11.21,
+      "price": 63.78,
+      "change_pct": 11.17,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 8.22,
-          "price": 965.22,
+          "change_pct": 8.53,
+          "price": 967.96,
           "currency": "USD"
         },
         {
@@ -391,8 +417,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 12.09,
-          "price": 1841.91,
+          "change_pct": 12.34,
+          "price": 1846.0,
           "currency": "USD"
         },
         {
@@ -400,8 +426,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 5.16,
-          "price": 858.08,
+          "change_pct": 5.37,
+          "price": 859.79,
           "currency": "USD"
         },
         {
@@ -409,8 +435,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 5.78,
-          "price": 518.41,
+          "change_pct": 6.0,
+          "price": 519.51,
           "currency": "USD"
         },
         {
@@ -437,16 +463,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 63.8,
-    "change_pct": 11.21,
+    "price": 63.78,
+    "change_pct": 11.17,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 8.22,
-        "price": 965.22,
+        "change_pct": 8.53,
+        "price": 967.96,
         "currency": "USD"
       },
       {
@@ -481,8 +507,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 12.09,
-        "price": 1841.91,
+        "change_pct": 12.34,
+        "price": 1846.0,
         "currency": "USD"
       },
       {
@@ -490,8 +516,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 5.16,
-        "price": 858.08,
+        "change_pct": 5.37,
+        "price": 859.79,
         "currency": "USD"
       },
       {
@@ -499,8 +525,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 5.78,
-        "price": 518.41,
+        "change_pct": 6.0,
+        "price": 519.51,
         "currency": "USD"
       },
       {

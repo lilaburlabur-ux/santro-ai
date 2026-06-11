@@ -71,14 +71,23 @@
     color:var(--text); text-decoration:none;}
   .nav-more .menu a:hover{background:var(--elev);}
 
-  .topbar{display:flex; align-items:center; justify-content:space-between; gap:16px;
-    padding:12px 22px; border-bottom:1px solid var(--border-soft);}
+  .topbar{display:flex; align-items:center; justify-content:space-between; gap:8px 16px;
+    flex-wrap:wrap; padding:7px 22px; border-bottom:1px solid var(--border-soft);}
   .brand{display:flex; align-items:center; gap:12px;}
-  .brand .glyph{width:34px;height:34px;border-radius:10px;display:grid;place-items:center;
-    background:var(--accent-soft); border:1px solid var(--accent-border);
-    color:var(--accent-2); font-weight:600; font-size:13px; letter-spacing:.5px;}
-  .brand h1{margin:0; font-size:17px; font-weight:600; letter-spacing:.2px;}
-  .brand .tag{color:var(--muted); font-size:12px; margin-top:2px;}
+  .logo{display:flex; align-items:center; gap:6px; user-select:none;}
+  .logo-s{position:relative; font-size:28px; font-weight:800; line-height:.85; padding-right:14px;
+    background:linear-gradient(165deg,#4ade80 10%,#15803d 90%);
+    -webkit-background-clip:text; background-clip:text; color:transparent;}
+  .logo-ai{position:absolute; top:-3px; right:0; font-size:9.5px; font-weight:800;
+    letter-spacing:.05em; -webkit-text-fill-color:#22c55e;}
+  .logo-rest{display:flex; flex-direction:column;}
+  .logo-antro{font-size:14px; font-weight:800; letter-spacing:.30em; color:var(--text); line-height:1;}
+  .logo-tagline{font-size:6.8px; font-weight:700; letter-spacing:.26em; color:#22c55e; margin-top:3px;}
+  @media (max-width:900px){ .logo-rest{display:none;} }
+  html[data-theme="light"] .logo-s{background:linear-gradient(165deg,#16a34a 10%,#14532d 90%);
+    -webkit-background-clip:text; background-clip:text;}
+  html[data-theme="light"] .logo-ai{-webkit-text-fill-color:#16a34a;}
+  html[data-theme="light"] .logo-tagline{color:#15803d;}
   .topbar .right{display:flex; align-items:center; gap:14px; color:var(--muted); font-size:12.5px;}
   #reload{background:transparent; color:var(--text); border:1px solid var(--border);
     border-radius:9px; padding:8px 14px; font-size:13px; cursor:pointer; transition:.15s;}
@@ -259,11 +268,14 @@
 
   <div class="topbar">
     <div class="brand">
-      <div class="glyph">S</div>
-      <div>
-        <h1>Santro AI <span class="badge beta">Beta</span></h1>
-        <div class="tag">Stocks heatmap + research · live news · delayed ~15 min</div>
+      <div class="logo" title="Santro AI — AI Research · Markets">
+        <span class="logo-s">S<span class="logo-ai">AI</span></span>
+        <span class="logo-rest">
+          <span class="logo-antro">ANTRO</span>
+          <span class="logo-tagline">AI&nbsp;RESEARCH&nbsp;·&nbsp;MARKETS</span>
+        </span>
       </div>
+      <span class="badge beta">Beta</span>
     </div>
     <nav class="mainnav">
       <button class="nav-link active" id="nav-stocks">Stocks</button>

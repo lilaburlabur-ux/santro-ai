@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-11T20:07:34+00:00",
+  "as_of": "2026-06-11T20:22:34+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -27,9 +27,9 @@
    "company": "KLA Corp",
    "move_pct": 14.3,
    "price": 2411.64,
-   "volume": 1661259,
+   "volume": 1738055,
    "volume_vs_avg": "~0.7x",
-   "heat_score": 78,
+   "heat_score": 79,
    "direction": "up",
    "why": "How Oracle, KLA, Intel, EchoStar, and More Stocks Explain Today\u2019s Market",
    "catalyst_type": "momentum_narrative",
@@ -41,16 +41,30 @@
    "company": "Lam Research Corp",
    "move_pct": 12.65,
    "price": 362.52,
-   "volume": 14227319,
+   "volume": 14498659,
    "volume_vs_avg": "~1.5x",
    "heat_score": 77,
    "direction": "up",
-   "why": "A Look At Lam Research (LRCX) Valuation After AI Upswing And Capacity Expansion Plans",
+   "why": "Musk To Pitch Terafab Semiconductor Factory To ASML Ahead Of SpaceX IPO",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/look-lam-research-lrcx-valuation-192213548.html"
+   "source_url": "https://www.investors.com/news/spacex-tesla-elon-musk-asml-semiconductor-terafab-ai-chips/?src=A00220&yptr=yahoo"
   },
   {
    "rank": 4,
+   "ticker": "AMAT",
+   "company": "Applied Materials Inc",
+   "move_pct": 11.19,
+   "price": 552.64,
+   "volume": 12168071,
+   "volume_vs_avg": "~1.5x",
+   "heat_score": 72,
+   "direction": "up",
+   "why": "Musk To Pitch Terafab Semiconductor Factory To ASML Ahead Of SpaceX IPO",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.investors.com/news/spacex-tesla-elon-musk-asml-semiconductor-terafab-ai-chips/?src=A00220&yptr=yahoo"
+  },
+  {
+   "rank": 5,
    "ticker": "MU",
    "company": "Micron Technology Inc",
    "move_pct": 11.66,
@@ -64,46 +78,32 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-jumps-14-western-digital-192618082.html"
   },
   {
-   "rank": 5,
-   "ticker": "AMAT",
-   "company": "Applied Materials Inc",
-   "move_pct": 11.19,
-   "price": 552.64,
-   "volume": 11699945,
-   "volume_vs_avg": "~1.4x",
-   "heat_score": 71,
-   "direction": "up",
-   "why": "Sector Update: Tech Stocks Gain Late Afternoon",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/sectors/technology/articles/sector-tech-stocks-gain-afternoon-192411313.html"
-  },
-  {
    "rank": 6,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
    "move_pct": 11.13,
    "price": 280.71,
-   "volume": 54466110,
+   "volume": 56059193,
    "volume_vs_avg": "~1.3x",
-   "heat_score": 70,
+   "heat_score": 71,
    "direction": "up",
-   "why": "Marvell Just Ripped 57% in a Month. Will the June 22 S&P 500 Listing Be a Sell-the-News Event?",
+   "why": "Beyond Micron: 2 AI Stocks That Could Deliver Explosive Returns",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-just-ripped-57-month-183800332.html"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/beyond-micron-2-ai-stocks-190000615.html"
   },
   {
    "rank": 7,
    "ticker": "ORCL",
    "company": "Oracle Corp",
-   "move_pct": -8.58,
-   "price": 184.0,
-   "volume": 59850633,
+   "move_pct": -8.53,
+   "price": 184.1,
+   "volume": 63053894,
    "volume_vs_avg": "~3x",
    "heat_score": 68,
    "direction": "down",
-   "why": "Sector Update: Tech Stocks Gain Late Afternoon",
+   "why": "Stock Market Today: Dow Soars 1,000 Points As Trump Axes Attack Plans; Caterpillar, Space Names Rally (Live Coverage)",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/sectors/technology/articles/sector-tech-stocks-gain-afternoon-192411313.html"
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-strikes-oracle-stock-orcl/?src=A00220&yptr=yahoo"
   },
   {
    "rank": 8,
@@ -111,13 +111,13 @@
    "company": "ASML Holding NV",
    "move_pct": 9.53,
    "price": 1899.48,
-   "volume": 2907401,
+   "volume": 2930021,
    "volume_vs_avg": "~2x",
    "heat_score": 67,
    "direction": "up",
-   "why": "Elon Musk addresses ASML employees on Terafab chip plant",
+   "why": "Musk To Pitch Terafab Semiconductor Factory To ASML Ahead Of SpaceX IPO",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-addresses-asml-employees-181001047.html"
+   "source_url": "https://www.investors.com/news/spacex-tesla-elon-musk-asml-semiconductor-terafab-ai-chips/?src=A00220&yptr=yahoo"
   }
  ]
 }

@@ -1,0 +1,43 @@
+name: News refresh (full scope)
+
+# Headlines for all 83 universe tickers + ETFs, every ~20 min from premarket
+# through after-hours on trading days.
+on:
+  schedule:
+    - cron: "*/20 12-22 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-refresh
+  cancel-in-progress: false
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install yfinance
+
+      - name: Pull headlines for full scope
+        run: python fetch_news.py
+
+      - name: Commit and publish
+        run: |
+          git config user.name "santro-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add news.json
+          if ! git diff --cached --quiet; then
+            git commit -m "news refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase -X theirs origin main
+            git push
+          fi

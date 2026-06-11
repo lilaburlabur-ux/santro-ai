@@ -352,6 +352,7 @@ let takeaways=null;                // takeaways/takeaways.json (4-hour cycle)
 let tkExpanded=false;              // "See more" state — survives the 60s auto-refresh
 let runners=null;                  // runners.json — manually curated small/mid-cap AI movers
 let universe=null, uniGroup=null;  // universe.json — 83-ticker AI universe in 7 themed bubbles
+let newsFeed=null;                 // news.json — deduped headlines for the FULL scope (universe + ETFs)
 
 // short labels that fit inside small group bubbles (full label in tooltip/detail)
 const UNI_SHORT={
@@ -638,12 +639,25 @@ function allHeadlines(){
   return out;
 }
 function renderNews(){
-  const items=allHeadlines();
-  document.getElementById("news").innerHTML=items.slice(0,14).map(h=>`
+  // full-scope feed (universe + ETFs, deduped, sector-tagged) with fallback to
+  // the legacy per-watchlist headlines from data.json
+  let items;
+  if(newsFeed && newsFeed.items && newsFeed.items.length){
+    items = newsFeed.items.map(h=>({...h, symbol:(h.tickers||[])[0]||""}));
+  } else {
+    items = allHeadlines().map(h=>({...h, tickers:[h.symbol], sectors:[]}));
+  }
+  const secLabel = id => id&&id.startsWith("etf_") ? id.replace("etf_","").toUpperCase()+" ETF" : (UNI_SHORT[id]||"");
+  document.getElementById("news").innerHTML=items.slice(0,18).map(h=>{
+    const tks=(h.tickers||[]).slice(0,3).map(t=>`<span class="chip">${t}</span>`).join("");
+    const more=(h.tickers||[]).length>3?`<span class="chip">+${h.tickers.length-3}</span>`:"";
+    const secs=[...new Set((h.sectors||[]).map(secLabel).filter(Boolean))].slice(0,2).join(" · ");
+    return `
     <div class="news-row"><a href="${h.url}" target="_blank" rel="noopener">${h.title}</a>
-      <div class="meta"><span class="chip">${h.symbol}</span><span>${h.publisher||""}</span>
-        <span>${h.published?"· "+timeAgo(h.published):""}</span></div></div>`).join("")||"No headlines.";
-  const tape=items.slice(0,16).map(h=>
+      <div class="meta">${tks}${more}<span>${h.publisher||""}</span>
+        <span>${h.published?"· "+timeAgo(h.published):""}</span>${secs?`<span>· ${secs}</span>`:""}</div></div>`;
+  }).join("")||"No headlines.";
+  const tape=items.slice(0,18).map(h=>
     `<span class="tape-item"><span class="sym">${h.symbol}</span>${h.title}<span class="sep">/</span></span>`).join("");
   document.getElementById("tape").innerHTML=tape+tape;
 }
@@ -746,6 +760,8 @@ async function loadData(){
       universe=await (await fetch("universe.json?t="+Date.now())).json();
       if(uniGroup) uniGroup = universe.bubbles.find(b=>b.id===uniGroup.id) || null;
     }catch(e){ universe=null; uniGroup=null; }
+    try{ newsFeed=await (await fetch("news.json?t="+Date.now())).json(); }
+    catch(e){ newsFeed=null; }
     document.getElementById("asof").textContent="As of "+d.as_of_local;
     renderNews(); renderSamples(); renderTakeaways();
     applyHeat();

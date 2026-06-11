@@ -582,21 +582,25 @@ function render(){
   if(heatMode==="universe" && universe && !uniGroup){
     const maxV = Math.max(...universe.bubbles.map(g=>g.total_market_cap_b));
     const data = universe.bubbles.map(g=>{
+      const avg=g.avg_change_pct, heat=colorFor(avg);
       const fs = Math.max(11, Math.round(10+13*Math.sqrt(g.total_market_cap_b/maxV)));
       return { name:UNI_SHORT[g.id]||g.label, value:g.total_market_cap_b, group:g,
-        itemStyle:{color:colorFor(g.avg_change_pct)},
-        label:{fontSize:fs, lineHeight:Math.round(fs*1.3),
-          formatter:()=>`${UNI_SHORT[g.id]||g.label}\n${fmtCap(g.total_market_cap_b*1e9)} · ${fmtPct(g.avg_change_pct)}`} };
+        itemStyle:{color:heatDark(avg), borderColor:heat, borderWidth:2.5,
+          shadowColor:heat, shadowBlur:12},
+        label:{fontSize:fs, lineHeight:Math.round(fs*1.35),
+          formatter:()=>`{nm|${UNI_SHORT[g.id]||g.label}}\n{sub|${fmtCap(g.total_market_cap_b*1e9)} · ${fmtPct(avg)}}`,
+          rich:{nm:{color:"#fff",fontWeight:700,fontSize:fs,lineHeight:Math.round(fs*1.35)},
+                sub:{color:heatText(avg),fontWeight:600,fontSize:Math.max(10,Math.round(fs*0.78))}}} };
     });
     chart.setOption({
       backgroundColor:"transparent",
       tooltip,
       series:[{type:"treemap", roam:false, nodeClick:false, breadcrumb:{show:false},
         animationDuration:380,
-        width:"100%", height:"100%", top:4, left:4, right:4, bottom:4,
-        itemStyle:{borderColor:pageBg, borderWidth:2, gapWidth:2, borderRadius:6},
-        emphasis:{itemStyle:{borderColor:th.ringHover, borderWidth:2.5}},
-        label:{show:true, color:"#fff", fontWeight:600, overflow:"truncate"},
+        width:"100%", height:"100%", top:6, left:6, right:6, bottom:6,
+        itemStyle:{gapWidth:7, borderRadius:10, borderColor:"transparent"},
+        emphasis:{itemStyle:{borderColor:"#fff", borderWidth:3}},
+        label:{show:true, overflow:"truncate"},
         data}],
     }, true);
     return;

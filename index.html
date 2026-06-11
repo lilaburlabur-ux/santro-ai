@@ -101,19 +101,6 @@
   #theme-toggle.day .ic-sun{display:block;}
   #theme-toggle.day .ic-moon{display:none;}
 
-  .tape{display:flex; align-items:stretch; overflow:hidden; white-space:nowrap;
-    border-bottom:1px solid var(--border-soft); background:var(--panel-2);}
-  .tape .label{flex:0 0 auto; display:flex; align-items:center; gap:7px; padding:9px 16px;
-    font-size:12px; font-weight:600; color:var(--accent-2); background:var(--accent-soft);
-    border-right:1px solid var(--accent-border);}
-  .tape .label .pulse{width:7px;height:7px;border-radius:50%;background:var(--accent);}
-  .tape .viewport{overflow:hidden; flex:1 1 auto;}
-  .tape-track{display:inline-block; padding:9px 0; animation:scroll 90s linear infinite;}
-  .tape:hover .tape-track{animation-play-state:paused;}
-  .tape-item{display:inline-flex; align-items:center; gap:8px; margin:0 26px; color:var(--muted); font-size:13px;}
-  .tape-item .sym{color:var(--accent-2); font-weight:600;}
-  .tape-item .sep{color:var(--faint);}
-  @keyframes scroll{from{transform:translateX(0);} to{transform:translateX(-50%);}}
 
   .grid{display:grid; gap:14px; padding:14px;
     grid-template-columns:1.55fr 1fr 1fr;
@@ -311,11 +298,6 @@
       </button>
       <button id="reload" title="Reloads saved data. Run fetch.py for fresh prices.">↻ Reload</button>
     </div>
-  </div>
-
-  <div class="tape">
-    <div class="label"><span class="pulse"></span> News · AI</div>
-    <div class="viewport"><div class="tape-track" id="tape">Loading headlines…</div></div>
   </div>
 
   <div class="grid">
@@ -785,9 +767,6 @@ function renderNews(){
       <div class="meta">${tks}${more}<span>${h.publisher||""}</span>
         <span>${h.published?"· "+timeAgo(h.published):""}</span>${secs?`<span>· ${secs}</span>`:""}</div></div>`;
   }).join("")||"No headlines.";
-  const tape=items.slice(0,18).map(h=>
-    `<span class="tape-item"><span class="sym">${h.symbol}</span>${h.title}<span class="sep">/</span></span>`).join("");
-  document.getElementById("tape").innerHTML=tape+tape;
 }
 // click-through from Hot Tickers (and anywhere) to the bubble info card:
 // drills the chart into the ticker's sector, selects its bubble, fills the detail panel

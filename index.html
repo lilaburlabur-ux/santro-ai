@@ -169,6 +169,19 @@
   .runner .r2{font-size:12px; color:var(--muted); line-height:1.5; margin-top:3px;}
   .runner-note{margin-top:10px; padding-top:9px; border-top:1px solid var(--border-soft);
     font-size:11.5px; color:var(--faint); line-height:1.55; font-style:italic;}
+  .hot{display:flex; gap:11px; align-items:flex-start; padding:11px 0; border-bottom:1px solid var(--border-soft);}
+  .hot:last-of-type{border-bottom:0;}
+  .hot .htk{min-width:54px;}
+  .hot .htk .sym{font-weight:700;}
+  .hot .htk .pr{font-size:11px; color:var(--faint); margin-top:2px;}
+  .chip-mv{font-size:12px; font-weight:700; padding:2px 9px; border-radius:999px; white-space:nowrap;}
+  .chip-up{background:rgba(34,197,94,.13); color:var(--green);}
+  .chip-down{background:rgba(240,90,110,.13); color:var(--red);}
+  .chip-nonews{background:rgba(224,167,63,.15); color:#e0a73f;}
+  .hot .hwhy{flex:1; font-size:12.5px; line-height:1.45; color:var(--muted);}
+  .hot .hmeta{font-size:11px; color:var(--faint); margin-top:3px;}
+  .hot .hmeta a{color:var(--accent-2); text-decoration:none;}
+  .hot .fire{font-size:11.5px; color:#e0a73f; min-width:40px; text-align:right; font-weight:600;}
   .ipo-row{display:flex; align-items:center; gap:12px; padding:11px 10px; margin:0 -10px; border-radius:8px;
     border-bottom:1px solid var(--border-soft); transition:.12s;}
   .ipo-row:last-child{border-bottom:0;} .ipo-row:hover{background:var(--elev);}
@@ -280,7 +293,7 @@
     </section>
 
     <section class="panel area-small">
-      <h2><span class="ic">▲</span> Small-cap runners <span class="badge sample" id="runners-badge">Sample</span></h2>
+      <h2><span class="ic">🔥</span> Hot tickers <span class="badge sample" id="runners-badge">Sample</span></h2>
       <div class="body" id="small"></div>
     </section>
 
@@ -363,7 +376,8 @@ let stocks=[], etf=null, selectedSymbol=null, heatMode="universe";
 let research=null, asOfUtc=null;   // research.json cards + quote timestamp
 let takeaways=null;                // takeaways/takeaways.json (4-hour cycle)
 let tkExpanded=false;              // "See more" state — survives the 60s auto-refresh
-let runners=null;                  // runners.json — manually curated small/mid-cap AI movers
+let runners=null;                  // runners.json — legacy curated movers (fallback)
+let hotData=null;                  // hot_tickers.json — 15-min hot-tickers scan (hot-tickers/SPEC.md)
 let universe=null, uniGroup=null;  // universe.json — 83-ticker AI universe in 7 themed bubbles
 let newsFeed=null;                 // news.json — deduped headlines for the FULL scope (universe + ETFs)
 
@@ -731,7 +745,22 @@ function renderNews(){
 }
 function renderSamples(){
   const rb=document.getElementById("runners-badge");
-  if(runners && runners.runners && runners.runners.length){
+  // Hot tickers (15-min scan) — replaces small-cap runners; hot = attention, not direction
+  if(hotData && hotData.hot_tickers && hotData.hot_tickers.length){
+    if(rb){ rb.textContent=`Live · ${timeAgo(hotData.meta.as_of)}`; rb.className="badge live"; }
+    document.getElementById("small").innerHTML =
+      hotData.hot_tickers.map(t=>{
+        const cls=t.catalyst_type==="no_news_mover"?"chip-nonews":(t.move_pct>0?"chip-up":"chip-down");
+        const src=t.source_url?` · <a href="${t.source_url}" target="_blank" rel="noopener">source</a>`:"";
+        return `<div class="hot">
+          <div class="htk"><div class="sym">${t.ticker}</div><div class="pr">$${t.price.toLocaleString()}</div></div>
+          <span class="chip-mv ${cls}">${fmtPct(t.move_pct)}</span>
+          <div class="hwhy">${t.why}
+            <div class="hmeta">${t.company} · vol ${fmtVol(t.volume)} (${t.volume_vs_avg} avg) · ${t.catalyst_type.replace(/_/g," ")}${src}</div></div>
+          <div class="fire">🔥 ${t.heat_score}</div>
+        </div>`;}).join("")
+      + `<div class="runner-note">${hotData.meta.heat_criteria}<br>${hotData.meta.disclaimer}</div>`;
+  } else if(runners && runners.runners && runners.runners.length){
     if(rb){ rb.textContent=`Curated · ${runners.updated_et||"manual"}`; rb.className="badge live"; }
     document.getElementById("small").innerHTML =
       runners.runners.map(m=>`
@@ -824,6 +853,8 @@ async function loadData(){
     catch(e){ takeaways=null; }
     try{ runners=await (await fetch("runners.json?t="+Date.now())).json(); }
     catch(e){ runners=null; }
+    try{ hotData=await (await fetch("hot_tickers.json?t="+Date.now())).json(); }
+    catch(e){ hotData=null; }
     try{
       universe=await (await fetch("universe.json?t="+Date.now())).json();
       if(uniGroup) uniGroup = universe.bubbles.find(b=>b.id===uniGroup.id) || null;

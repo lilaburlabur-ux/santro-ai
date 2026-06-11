@@ -29,6 +29,14 @@ ETFS = [
     {"symbol": "DRAM", "name": "Roundhill Memory ETF"},
 ]
 
+# top-strip market tape (Coinglass-style header)
+TAPE = [
+    ("SPX", "^GSPC"),
+    ("BTC", "BTC-USD"),
+    ("Gold", "GC=F"),
+    ("Nasdaq100", "^NDX"),
+]
+
 # Words that mark a non-stock holding (cash / money-market) to skip.
 _CASH_WORDS = ("oblig", "government", "money market", "treasury", "cash", "repo", "deposit")
 # Filler words stripped when shortening a company name for a tile label.
@@ -209,7 +217,8 @@ def main():
 
     # one batch download covers watchlist + ETFs + every ETF holding
     holding_syms = [h["symbol"] for sheet in ETF_HOLDINGS.values() for h in sheet]
-    allsyms = list(dict.fromkeys(TICKERS + list(ETF_HOLDINGS.keys()) + holding_syms))
+    tape_syms = [s for _, s in TAPE]
+    allsyms = list(dict.fromkeys(TICKERS + list(ETF_HOLDINGS.keys()) + holding_syms + tape_syms))
     closes = batch_closes(allsyms)
 
     print(f"Fetching {len(TICKERS)} tickers...")
@@ -244,6 +253,12 @@ def main():
         "stocks": stocks,
         "etfs": etfs,
         "etf": etfs[0] if etfs else None,
+        "tape": [
+            {"label": label,
+             "price": round(closes[sym][0], 2),
+             "change_pct": round((closes[sym][0] / closes[sym][1] - 1) * 100, 2)}
+            for label, sym in TAPE if sym in closes and closes[sym][1]
+        ],
     }
 
     out_path = os.path.join(HERE, "data.json")

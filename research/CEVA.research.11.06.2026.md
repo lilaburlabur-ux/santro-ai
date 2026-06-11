@@ -1,0 +1,153 @@
+# CEVA Research Report
+**CEVA, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+Signed file: `CEVA.research.11.06.2026`
+
+| Field | Value |
+|---|---|
+| Current price | $41.08 (2026-06-11, ~15-min delayed) |
+| Market cap | $1.14B |
+| Sector / Industry | Technology / Semiconductors |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | High technical momentum, weak fundamentals, value: low (expensive), risk: high. |
+
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-06-11.
+
+## 1. Executive Summary
+| Area | Score / Read | Reason |
+|---|---|---|
+| Technical momentum | High | 1Y +91.87%; price +61.80% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -17.94% from 52w high; no clean fresh pivot by default. |
+| Fundamental quality | Weak | Negative profit margin (-10.47%). |
+| Value attractiveness | Low (expensive) | Forward P/E 49.89, EV/Sales 8.41. |
+| Risk level | High | Beta 2.01, ATR 8.5% of price, short float 4.72%. |
+
+**Bottom line:** High technical momentum, weak fundamentals, value: low (expensive), risk: high.
+
+**Key questions before any trade (standard):**
+- Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
+- Where is the actual invalidation level? If that level is too far away, the setup is not clean.
+- Is the move supported by new institutional demand or just retail/short-covering momentum?
+- Can earnings convert fast enough to justify the valuation?
+
+## 2. Company Overview and Recent Catalysts
+CEVA, Inc. provides silicon and software intellectual property (IP) solutions to semiconductor and original equipment manufacturer companies in the United States, Europe, the Middle East, the Asia Pacific, and internationally.
+
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| The AI Double-Tap That Lit Up Cadence | Trefis | 2026-06-02 |
+| Is Ceva, Inc. (CEVA) Outperforming Other Computer and Technology Stocks This Year? | Zacks | 2026-05-26 |
+| How The CEVA (CEVA) Story Is Shifting With Edge AI Royalties And New Valuation Assumptions | Simply Wall St. | 2026-05-16 |
+| Is CEVA (CEVA) Turning Bluetooth Wins Into a Durable Edge‑AI Licensing Advantage? | Simply Wall St. | 2026-05-15 |
+
+## 3. Technical Analysis
+| Technical item | Read |
+|---|---|
+| Price vs 52-week range | Close $41.08; 52w high $50.06 (-17.94%); 52w low $17.21 (+138.70%) |
+| Trend | +61.80% vs SMA200, +27.13% vs SMA50, -1.37% vs SMA20 |
+| Momentum | RSI(14) 53.0 (neutral) |
+| Volatility | ATR(14) 3.47 (~8.5% of price); beta 2.01 |
+| Setup perspective | -17.94% from 52w high; no clean fresh pivot by default. |
+
+**Performance snapshot:**
+
+| Window | Return |
+|---|---|
+| Week | -17.9% |
+| Month | +12.7% |
+| Quarter | +106.7% |
+| Half Y | +85.3% |
+| 1Y | +91.9% |
+| YTD | +83.2% |
+
+## 4. Fundamental Analysis
+| Factor | Observation | Implication / extra |
+|---|---|---|
+| Revenue (ttm) | $112.38M | Revenue growth 11.50% y/y |
+| Profitability | Gross 87.19%, operating -18.82%, net -10.47% | ROA -2.16%, ROE -3.88% |
+| Balance sheet | Cash $215.69M, debt $16.88M | Current ratio 10.26, debt/equity 4.99 |
+| Valuation | P/E —, forward P/E 49.89, P/S 10.18, P/B 3.38 | EV/Sales 8.41, EV/EBITDA -121.56 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $43.12 (8 analysts) |
+
+## 5. Institutional Investors and Ownership
+| Metric | Value |
+|---|---|
+| Institutional ownership | 92.29% |
+| Insider ownership | 3.07% |
+| Short float | 4.72% |
+| Short ratio (days to cover) | 1.3 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Senvest Management LLC | 2,358,612 | 8.47% | 2026-03-31 |
+| Blackrock Inc. | 2,207,968 | 7.93% | 2026-03-31 |
+| Morgan Stanley | 1,841,040 | 6.61% | 2026-03-31 |
+| State Street Corporation | 1,242,501 | 4.46% | 2026-03-31 |
+| Vanguard Portfolio Management LLC | 1,134,502 | 4.07% | 2026-03-31 |
+| Vanguard Capital Management LLC | 1,133,499 | 4.07% | 2026-03-31 |
+| Neuberger Berman Group, LLC | 1,008,061 | 3.62% | 2026-03-31 |
+| AWM Investment Company, Inc. | 864,806 | 3.10% | 2026-03-31 |
+| Acadian Asset Management. LLC | 758,319 | 2.72% | 2026-03-31 |
+| T. Rowe Price Investment Management, Inc. | 687,751 | 2.47% | 2026-03-31 |
+
+## 6. Risk Review and Setup Plan
+- **Valuation risk:** Forward P/E 49.89, EV/Sales 8.41. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.01, ATR 8.5% of price, short float 4.72%. Size positions accordingly.
+- **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
+- **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
+
+### Setup checklist for your journal
+| Question | Pass condition |
+|---|---|
+| Is there a new base? | Tight sideways action near highs, declining volume, clear resistance. |
+| Is the pivot obvious? | A clean level that multiple traders can see; not a random candle high. |
+| Is risk defined? | Stop based on structure and less than the expected first upside target. |
+| Is volume confirming? | Breakout volume expands; pullback volume dries up. |
+| Is position size small enough? | A normal shakeout should not cause emotional decision-making. |
+
+## 7. Full Data Snapshot
+| Metric | Value | Metric | Value |
+|---|---|---|---|
+| Price | $41.08 | EV/Sales | 8.41 |
+| Market cap | $1.14B | EV/EBITDA | -121.56 |
+| Beta | 2.01 | Gross margin | 87.19% |
+| RSI(14) | 53.0 | Operating margin | -18.82% |
+| ATR(14) | 3.47 | Profit margin | -10.47% |
+| SMA20 dist | -1.37% | ROA | -2.16% |
+| SMA50 dist | +27.13% | ROE | -3.88% |
+| SMA200 dist | +61.80% | Revenue (ttm) | $112.38M |
+| 52W high | $50.06 | Revenue growth y/y | 11.50% |
+| 52W low | $17.21 | Inst. ownership | 92.29% |
+| P/E (ttm) | — | Insider ownership | 3.07% |
+| Forward P/E | 49.89 | Short float | 4.72% |
+| PEG (trailing) | 4.03 | Avg volume | 736,161 |
+| P/S | 10.18 | Employees | 400 |
+| P/B | 3.38 | Analyst rec (1=buy..5=sell) | 1.2 |
+
+## 8. Analyst Actions
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-05-12 | main | UBS | Buy → Buy |
+| 2026-05-12 | main | Rosenblatt | Buy → Buy |
+| 2026-05-12 | main | Oppenheimer | Outperform → Outperform |
+| 2026-05-12 | main | TD Cowen | Buy → Buy |
+| 2026-05-12 | main | JP Morgan | Neutral → Neutral |
+| 2026-05-08 | init | JP Morgan | — → Neutral |
+| 2026-05-04 | main | UBS | Buy → Buy |
+| 2026-03-20 | init | TD Cowen | — → Buy |
+
+## 9. Conclusion
+CEVA: High momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+
+## Sources
+| Source | URL | Used for |
+|---|---|---|
+| Yahoo Finance quote/profile/statistics for CEVA | https://finance.yahoo.com/quote/CEVA | Snapshot metrics, ownership, analyst data |
+| Yahoo Finance price history (via yfinance) | https://finance.yahoo.com/quote/CEVA/history | SMA/RSI/ATR/performance calculations |
+| Yahoo Finance news feed | https://finance.yahoo.com/quote/CEVA/news | Catalyst headlines |
+| Method template | AEHR.research.31.05.2026.pdf (user's Cowork method) | Report structure, scoring areas, checklist |
+
+_Note: the template's native Finviz/Fintel/ADVFN pages block automated retrieval; equivalent metrics above are computed from Yahoo Finance data instead and labeled accordingly._

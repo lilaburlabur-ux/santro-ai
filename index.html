@@ -71,6 +71,8 @@
   .ts-item{display:flex; gap:6px; align-items:baseline;}
   .ts-item .lbl{color:var(--faint);}
   .ts-item .val{color:var(--text); font-weight:600;}
+  a.ts-bubble{text-decoration:none; cursor:pointer;}
+  a.ts-bubble:hover .lbl{color:var(--text);}
   .langs{display:flex; gap:6px; align-items:center;}
   .lang{padding:2px 9px; border-radius:6px; border:1px solid var(--border); font-size:11px; font-weight:600;}
   .lang.active{background:var(--accent-soft); color:var(--accent-2); border-color:var(--accent-border);}
@@ -1100,6 +1102,9 @@ async function loadData(){
     catch(e){ tweets=null; }
     try{ newsFeed=await (await fetch("news.json?t="+Date.now())).json(); }
     catch(e){ newsFeed=null; }
+    let bubbleIx=null;
+    try{ bubbleIx=await (await fetch("bubble_index.json?t="+Date.now())).json(); }
+    catch(e){ bubbleIx=null; }
     document.getElementById("asof").textContent="As of "+d.as_of_local;
     const ts=document.getElementById("tape-stats");
     if(ts && d.tape && d.tape.length){
@@ -1107,6 +1112,14 @@ async function loadData(){
         `<span class="ts-item"><span class="lbl">${t.label}</span>`+
         `<span class="val">${t.price.toLocaleString()}</span>`+
         `<span class="${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</span></span>`).join("");
+      if(bubbleIx && bubbleIx.index && bubbleIx.index.overall!=null){
+        const ix=bubbleIx.index;
+        const col=ix.overall<25?"#22c55e":ix.overall<45?"#69cd91":ix.overall<60?"#e0a73f":ix.overall<80?"#f05a6e":"#b91c1c";
+        ts.innerHTML+=`<a class="ts-item ts-bubble" href="/bubble.html" title="AI Bubble metrics — open">`+
+          `<span class="lbl">AI Bubble</span>`+
+          `<span class="val" style="color:${col}">${ix.overall}</span>`+
+          `<span style="color:${col};font-weight:600">${ix.label||""}</span></a>`;
+      }
     }
     renderNews(); renderSamples(); renderTakeaways();
     applyHeat();

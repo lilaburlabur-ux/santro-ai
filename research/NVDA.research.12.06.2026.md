@@ -4,8 +4,8 @@ Signed file: `NVDA.research.12.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $204.87 (2026-06-12, ~15-min delayed) |
-| Market cap | $4.96T |
+| Current price | $205.19 (2026-06-12, ~15-min delayed) |
+| Market cap | $4.97T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `NVDA.research.12.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +42.51%; price +8.44% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -12.99% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +43.85%; price +8.54% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -12.86% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 62.97%, revenue growth 85.20%. |
-| Value attractiveness | Reasonable | Forward P/E 16.10, EV/Sales 19.40. |
-| Risk level | High | Beta 2.20, ATR 4.1% of price, short float 1.22%. |
+| Value attractiveness | Reasonable | Forward P/E 16.12, EV/Sales 19.40. |
+| Risk level | High | Beta 2.20, ATR 3.9% of price, short float 1.22%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company. Th
 
 | Headline | Source | Date |
 |---|---|---|
+| SpaceX stock gains, space companies fall, chips mixed on IPO news | Yahoo Finance Video | 2026-06-12 |
 | Expect 'robust capability' from this KKR-backed AI venture: CEO | Yahoo Finance Video | 2026-06-11 |
-| 'There's more to life than the Mag 7': Robinhood CIO | Yahoo Finance Video | 2026-06-11 |
-| Exclusive-South Korea's SK Hynix to opt for Nasdaq for planned US listing, sources say | Reuters | 2026-06-12 |
-| Micron and Sandisk Are Up Big During the Past Year. Can the Run Continue? | Motley Fool | 2026-06-12 |
+| Brent Oil Drops Below $90 as the U.S. Closes in on a Peace Deal With Iran. What it Means for Oil Stocks. | Motley Fool | 2026-06-12 |
+| Jeff Bezos’ New Venture Just Raised $12 Billion. He’s Betting AI Will Create a Physical Labor Shortage. | 24/7 Wall St. | 2026-06-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $204.87; 52w high $235.47 (-12.99%); 52w low $141.78 (+44.50%) |
-| Trend | +8.44% vs SMA200, -0.60% vs SMA50, -5.14% vs SMA20 |
-| Momentum | RSI(14) 45.1 (neutral) |
-| Volatility | ATR(14) 8.36 (~4.1% of price); beta 2.20 |
-| Setup perspective | -12.99% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $205.19; 52w high $235.47 (-12.86%); 52w low $141.78 (+44.72%) |
+| Trend | +8.54% vs SMA200, -0.73% vs SMA50, -4.32% vs SMA20 |
+| Momentum | RSI(14) 45.4 (neutral) |
+| Volatility | ATR(14) 8.03 (~3.9% of price); beta 2.20 |
+| Setup perspective | -12.86% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -6.3% |
-| Month | -7.1% |
-| Quarter | +12.0% |
-| Half Y | +10.9% |
-| 1Y | +42.5% |
-| YTD | +8.6% |
+| Week | +0.0% |
+| Month | -9.0% |
+| Quarter | +14.0% |
+| Half Y | +11.8% |
+| 1Y | +43.9% |
+| YTD | +8.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,7 +67,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company. Th
 | Revenue (ttm) | $253.49B | Revenue growth 85.20% y/y |
 | Profitability | Gross 74.14%, operating 65.60%, net 62.97% | ROA 52.73%, ROE 114.29% |
 | Balance sheet | Cash $53.17B, debt $12.81B | Current ratio 3.44, debt/equity 6.55 |
-| Valuation | P/E 31.33, forward P/E 16.10, P/S 19.58, P/B 25.39 | EV/Sales 19.40, EV/EBITDA 29.71 |
+| Valuation | P/E 31.37, forward P/E 16.12, P/S 19.61, P/B 25.43 | EV/Sales 19.40, EV/EBITDA 29.71 |
 | Growth expectations | Earnings growth 214.50%, EPS q/q 210.60% | Analyst mean target $298.93 (59 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -94,7 +94,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company. Th
 | Northern Trust Corporation | 252,741,836 | 1.04% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.20, ATR 4.1% of price, short float 1.22%. Size positions accordingly.
+- **Volatility risk:** Beta 2.20, ATR 3.9% of price, short float 1.22%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -109,21 +109,21 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company. Th
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $204.87 | EV/Sales | 19.40 |
-| Market cap | $4.96T | EV/EBITDA | 29.71 |
+| Price | $205.19 | EV/Sales | 19.40 |
+| Market cap | $4.97T | EV/EBITDA | 29.71 |
 | Beta | 2.20 | Gross margin | 74.14% |
-| RSI(14) | 45.1 | Operating margin | 65.60% |
-| ATR(14) | 8.36 | Profit margin | 62.97% |
-| SMA20 dist | -5.14% | ROA | 52.73% |
-| SMA50 dist | -0.60% | ROE | 114.29% |
-| SMA200 dist | +8.44% | Revenue (ttm) | $253.49B |
+| RSI(14) | 45.4 | Operating margin | 65.60% |
+| ATR(14) | 8.03 | Profit margin | 62.97% |
+| SMA20 dist | -4.32% | ROA | 52.73% |
+| SMA50 dist | -0.73% | ROE | 114.29% |
+| SMA200 dist | +8.54% | Revenue (ttm) | $253.49B |
 | 52W high | $235.47 | Revenue growth y/y | 85.20% |
 | 52W low | $141.78 | Inst. ownership | 70.86% |
-| P/E (ttm) | 31.33 | Insider ownership | 3.98% |
-| Forward P/E | 16.10 | Short float | 1.22% |
+| P/E (ttm) | 31.37 | Insider ownership | 3.98% |
+| Forward P/E | 16.12 | Short float | 1.22% |
 | PEG (trailing) | 0.63 | Avg volume | 166,129,995 |
-| P/S | 19.58 | Employees | 42,000 |
-| P/B | 25.39 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/S | 19.61 | Employees | 42,000 |
+| P/B | 25.43 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

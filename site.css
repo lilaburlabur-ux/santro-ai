@@ -70,3 +70,24 @@ html[data-theme="light"] .badge.amber{background:#fbf2da; color:#92660f; border-
 footer{border-top:1px solid var(--border-soft); padding:22px; text-align:center;
   color:var(--faint); font-size:12px; line-height:1.9;}
 footer .nfa{color:#e0a73f; font-weight:600;}
+
+/* ---- shared header controls (theme pill, as-of, reload) ---- */
+.pageright{display:flex; align-items:center; gap:10px; flex-wrap:wrap;}
+.pageright .asof{color:var(--faint); font-size:12px;}
+#reload-btn{background:transparent; color:var(--text); border:1px solid var(--border);
+  border-radius:9px; padding:8px 14px; font-size:13px; cursor:pointer; font-family:inherit; transition:.15s;}
+#reload-btn:hover{border-color:var(--accent-border); color:var(--accent-2); background:var(--accent-soft);}
+#theme-toggle{position:relative; width:138px; height:36px; border-radius:999px; cursor:pointer;
+  padding:0; overflow:hidden; background:#0c1117; border:1px solid #232c36;
+  transition:background .3s, border-color .3s;}
+#theme-toggle .tt-label{position:absolute; top:0; bottom:0; right:13px; display:flex; align-items:center;
+  font-size:10.5px; font-weight:700; letter-spacing:.9px; color:#e7edf3; transition:color .3s;}
+#theme-toggle .tt-knob{position:absolute; top:2px; left:2px; width:30px; height:30px; border-radius:50%;
+  background:#fff; border:1px solid #d9dfe7; display:grid; place-items:center;
+  color:#1b242f; box-shadow:0 1px 3px rgba(0,0,0,.35); transition:left .3s ease;}
+#theme-toggle .ic-sun{display:none;}
+#theme-toggle.day{background:#f6f7f9; border-color:#d9dfe7;}
+#theme-toggle.day .tt-label{right:auto; left:15px; color:#1b242f;}
+#theme-toggle.day .tt-knob{left:calc(100% - 32px); color:#2a3440; box-shadow:0 1px 3px rgba(20,30,45,.2);}
+#theme-toggle.day .ic-sun{display:block;}
+#theme-toggle.day .ic-moon{display:none;}

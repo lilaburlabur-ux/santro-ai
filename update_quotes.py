@@ -16,6 +16,7 @@ import os
 import sys
 import json
 import datetime as dt
+from zoneinfo import ZoneInfo
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
@@ -29,6 +30,22 @@ def load(path):
         return json.load(open(path))
     except Exception:
         return None
+
+
+def session_now():
+    """US equity session on the NY clock: pre 4:00-9:30, regular 9:30-16:00,
+    post 16:00-20:00, else closed."""
+    now = dt.datetime.now(ZoneInfo("America/New_York"))
+    if now.weekday() >= 5:
+        return "closed"
+    m = now.hour * 60 + now.minute
+    if 240 <= m < 570:
+        return "pre"
+    if 570 <= m < 960:
+        return "regular"
+    if 960 <= m < 1200:
+        return "post"
+    return "closed"
 
 
 def main():
@@ -47,6 +64,22 @@ def main():
 
     px = yf.download(symbols, period="5d", interval="1d", auto_adjust=True,
                      progress=False, group_by="ticker", threads=True)
+
+    # during pre/after-market, daily bars are frozen at the last official close
+    # — overlay live extended-session prices from the 1-minute prepost feed
+    session = session_now()
+    ext = {}
+    if session in ("pre", "post"):
+        xp = yf.download(symbols, period="1d", interval="1m", prepost=True,
+                         auto_adjust=True, progress=False, group_by="ticker",
+                         threads=True)
+        for sym in symbols:
+            try:
+                c = xp[sym]["Close"].dropna()
+                if len(c):
+                    ext[sym] = float(c.iloc[-1])
+            except Exception:
+                pass
 
     quotes, fast_checked = {}, {}
     for sym in symbols:
@@ -68,6 +101,16 @@ def main():
                     fast_checked[sym] = True
                 except Exception:
                     continue   # can't verify an extreme move — keep old values
+            # extended-session semantics: change is ALWAYS measured against the
+            # previous official close. pre: base = yesterday (daily last bar,
+            # today's bar doesn't exist yet); no premarket trades = 0.0% move.
+            # post: base = yesterday (prev bar); no AH trades = the day's move.
+            if session in ("pre", "post"):
+                base = last if session == "pre" else prev
+                now_px = ext.get(sym, last)
+                x = (now_px / base - 1) * 100
+                if abs(x) < 40 and base > 0:
+                    last, chg = now_px, x
             quotes[sym] = (last, chg, int(v.iloc[-1]) if len(v) else None)
         except Exception:
             continue
@@ -103,12 +146,15 @@ def main():
                 b["total_market_cap_b"] = round(
                     sum(t.get("market_cap_b") or 0 for t in members), 2)
         universe.setdefault("meta", {})["as_of"] = stamp
+        universe["meta"]["session"] = session
         json.dump(universe, open("universe.json", "w"), indent=1)
     if eco:
         eco.setdefault("meta", {})["as_of"] = stamp
+        eco["meta"]["session"] = session
         json.dump(eco, open("ecosystem.json", "w"), indent=1)
-    print(f"{stamp} patched {patched}/{len(refs)} refs "
-          f"({len(symbols)} symbols, fast-checked: {sorted(fast_checked) or 'none'})")
+    print(f"{stamp} [{session}] patched {patched}/{len(refs)} refs "
+          f"({len(symbols)} symbols, ext quotes: {len(ext)}, "
+          f"fast-checked: {sorted(fast_checked) or 'none'})")
 
 
 if __name__ == "__main__":

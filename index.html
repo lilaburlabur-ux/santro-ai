@@ -316,8 +316,9 @@
     padding:20px 28px 32px; border-top:1px solid var(--border-soft);}
   footer .foot-text{grid-column:2; text-align:center; color:var(--faint); font-size:12.5px;
     line-height:1.9; padding-bottom:8px;}
-  footer .foot-text a{color:var(--accent-2); text-decoration:none;}
-  footer .foot-text a:hover{text-decoration:underline;}
+  footer .foot-text a{color:var(--muted); font-weight:600; text-decoration:none;}
+  footer .foot-text a:hover{color:var(--text);}
+  footer .foot-nav a{font-weight:700;}
   footer .foot-mascot{grid-column:3; justify-self:end;}
   @media (max-width:900px){footer{grid-template-columns:1fr;}
     footer .foot-text{grid-column:1;} footer .foot-mascot{grid-column:1; justify-self:center;}}
@@ -1134,7 +1135,7 @@ let savedTheme="dark"; try{ savedTheme=localStorage.getItem("santro-theme")||"da
 applyTheme(savedTheme, false);
 loadData();
 </script>
-<script src="site.js?v=6"></script>
+<script src="site.js?v=7"></script>
 <script>
 setInterval(loadData, 60000);
 </script>

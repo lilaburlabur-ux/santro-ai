@@ -76,15 +76,6 @@
   .nav-link.soon{opacity:.5; cursor:default;}
   .nav-link.soon:hover{background:none; color:var(--muted);}
   .nav-link .s{font-size:8.5px; vertical-align:super; color:#e0a73f; margin-left:2px; letter-spacing:.4px;}
-  .nav-more{position:relative;}
-  .nav-more summary{list-style:none;}
-  .nav-more summary::-webkit-details-marker{display:none;}
-  .nav-more .menu{position:absolute; top:115%; left:0; background:var(--panel);
-    border:1px solid var(--border); border-radius:10px; padding:6px; min-width:180px; z-index:60;
-    box-shadow:0 10px 28px rgba(0,0,0,.35);}
-  .nav-more .menu a{display:block; padding:8px 11px; border-radius:7px; font-size:13px;
-    color:var(--text); text-decoration:none;}
-  .nav-more .menu a:hover{background:var(--elev);}
 
   .topbar{display:flex; align-items:center; justify-content:space-between; gap:8px 16px;
     flex-wrap:wrap; padding:7px 22px; border-bottom:1px solid var(--border-soft);}
@@ -293,20 +284,14 @@
       <span class="badge beta">Beta</span>
     </div>
     <nav class="mainnav">
-      <button class="nav-link active" id="nav-stocks">Stocks</button>
+      <button class="nav-link active" id="nav-terminal">Terminal</button>
+      <a class="nav-link" href="/stocks.html" style="text-decoration:none">Stocks</a>
       <a class="nav-link" href="/etfs.html" style="text-decoration:none">ETFs</a>
       <a class="nav-link" href="/crypto.html" style="text-decoration:none">Crypto</a>
       <a class="nav-link" href="/news.html" style="text-decoration:none">News</a>
       <a class="nav-link" href="/research.html" style="text-decoration:none">Research</a>
       <a class="nav-link" href="/about.html" style="text-decoration:none">About</a>
       <button class="nav-link soon" title="Coming soon">Blog<span class="s">SOON</span></button>
-      <details class="nav-more">
-        <summary class="nav-link">More ▾</summary>
-        <div class="menu">
-          <a href="takeaways/takeaways.md" target="_blank" rel="noopener">Key takeaways (signed)</a>
-          <a href="research/INDEX.md" target="_blank" rel="noopener">Research index</a>
-        </div>
-      </details>
     </nav>
     <div class="right">
       <span id="asof">loading…</span>
@@ -1029,7 +1014,7 @@ function navMode(mode, navId){
   applyHeat(); setNav(navId);
   document.querySelector(".area-heat").scrollIntoView({behavior:"smooth", block:"start"});
 }
-document.getElementById("nav-stocks").addEventListener("click", ()=>navMode("universe","nav-stocks"));
+document.getElementById("nav-terminal").addEventListener("click", ()=>navMode("universe","nav-terminal"));
 window.addEventListener("resize", ()=>{chart.resize(); render();});
 document.getElementById("reload").addEventListener("click", loadData);
 document.getElementById("theme-toggle").addEventListener("click",

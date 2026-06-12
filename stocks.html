@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI Stocks — AI Universe &amp; NVIDIA Ecosystem bubble map | Santro AI</title>
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png" />
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+<meta name="description" content="AI stocks as a live bubble map: the 83-name AI universe in 7 sectors plus the 30-name NVIDIA ecosystem. Price, market cap, P/E, volume, performance and 60-session charts per ticker. Bubble size = day move. Not financial advice." />
+<link rel="canonical" href="https://santroai.tech/stocks.html" />
+<meta property="og:title" content="AI Stocks — AI Universe &amp; NVIDIA Ecosystem bubble map | Santro AI" />
+<meta property="og:description" content="The AI trade as living bubbles: 83-name AI universe + 30-name NVIDIA ecosystem, sized by daily move." />
+<meta property="og:url" content="https://santroai.tech/stocks.html" />
+<meta property="og:image" content="https://santroai.tech/assets/santro-mascot-day.png" />
+<meta property="og:type" content="website" />
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
+<link rel="stylesheet" href="site.css?v=2" />
+<script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+<style>
+  .mapwrap{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius); overflow:hidden;}
+  .mapwrap h2{margin:0; padding:13px 16px; font-size:11px; font-weight:600; letter-spacing:.8px;
+    text-transform:uppercase; color:var(--muted); border-bottom:1px solid var(--border-soft);
+    display:flex; align-items:center; gap:9px; flex-wrap:wrap;}
+  .legend{display:flex; align-items:center; gap:7px; font-size:10px; color:var(--faint); margin-left:auto;}
+  .legend .bar{width:110px;height:8px;border-radius:99px;background:linear-gradient(to right,
+    #700f19,#b91c1c,#ef4444,#f77b7b,#262a2e,#69cd91,#22c55e,#15803d,#0a522d);}
+  #chart{width:100%; height:520px;}
+  .detail{margin-top:14px;}
+  .seg{display:inline-flex; gap:2px; background:var(--panel-2); border:1px solid var(--border);
+    border-radius:9px; padding:2px;}
+  .seg-btn{border:1px solid transparent; background:transparent; color:var(--muted); font:inherit;
+    font-size:11px; font-weight:600; letter-spacing:.4px; padding:4px 10px; border-radius:7px;
+    cursor:pointer; text-transform:uppercase;}
+  .seg-btn.active{background:var(--accent-soft); color:var(--accent-2); border-color:var(--accent-border);}
+  .seg-btn:hover{color:var(--text);}
+  .sec-label{margin:14px 0 6px; font-size:10px; letter-spacing:.7px; text-transform:uppercase;
+    color:var(--faint); font-weight:700;}
+  .pchip{display:inline-flex; gap:7px; align-items:baseline; background:var(--panel-2);
+    border:1px solid var(--border-soft); border-radius:8px; padding:5px 11px;
+    font-size:12.5px; font-weight:600; margin:0 6px 6px 0;}
+  .pchip .k{color:var(--faint); font-size:10px; text-transform:uppercase; letter-spacing:.5px;}
+</style>
+</head>
+<body>
+  <header class="pageheader">
+    <a class="logo" href="/" title="Santro AI — terminal">
+      <span class="logo-s">S<span class="logo-ai">AI</span></span>
+      <span class="logo-rest"><span class="logo-antro">ANTRO</span>
+        <span class="logo-tagline">AI&nbsp;RESEARCH&nbsp;·&nbsp;MARKETS</span></span>
+    </a>
+    <nav class="pagenav">
+      <a class="nav-link" href="/">Terminal</a>
+      <a class="nav-link active" href="/stocks.html">Stocks</a>
+      <a class="nav-link" href="/etfs.html">ETFs</a>
+      <a class="nav-link" href="/crypto.html">Crypto</a>
+      <a class="nav-link" href="/news.html">News</a>
+      <a class="nav-link" href="/research.html">Research</a>
+      <a class="nav-link" href="/about.html">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <h1>AI Stocks <span class="badge" id="asof">…</span></h1>
+    <p class="lede">The AI trade as a living bubble map. <b>AI Universe</b> — 83 names from the
+    Finviz artificial-intelligence theme in 7 sectors, click a sector to drill into its members.
+    <b>NVIDIA Ecosystem</b> — the 30 names around NVIDIA's supply and demand chain. Bubble size =
+    the day's move, color = direction. Data delayed; not financial advice.</p>
+
+    <div class="mapwrap">
+      <h2><span style="color:var(--accent)">◉</span> <span id="map-title">Loading…</span>
+        <span class="seg">
+          <button class="seg-btn active" data-mode="universe">AI Universe</button>
+          <button class="seg-btn" data-mode="eco">NVIDIA Ecosystem</button>
+        </span>
+        <button class="seg-btn" id="uni-back" style="display:none">← All sectors</button>
+        <span class="legend"><span>−10%</span><span class="bar"></span><span>+10%</span></span></h2>
+      <div id="chart"></div>
+    </div>
+
+    <div class="card detail" id="detail">Click a bubble for details…</div>
+  </main>
+
+  <footer>
+    Santro AI — AI bubble map &amp; research journal for the AI narrative. Beta version.<br>
+    <span class="nfa">Not financial advice.</span> Quotes delayed. Removed with paid version.<br>
+    © 2026 Santro AI. All rights reserved. Uses custom models.
+  </footer>
+
+<script>
+const fmtPct=x=>(x>=0?"+":"")+Number(x).toFixed(2)+"%";
+const pctClass=x=>x>=0?"up":"down";
+function fmtCap(n){
+  if(n>=1e12) return "$"+(n/1e12).toFixed(2)+"T";
+  if(n>=1e9)  return "$"+(n/1e9).toFixed(1)+"B";
+  if(n>=1e6)  return "$"+(n/1e6).toFixed(1)+"M";
+  return "$"+Math.round(n);
+}
+const fmtVol=v=>v==null?"—":v>=1e9?(v/1e9).toFixed(1)+"B":v>=1e6?(v/1e6).toFixed(1)+"M":v>=1e3?(v/1e3).toFixed(0)+"K":""+v;
+const HEAT_STOPS=[[-10,[112,15,25]],[-6,[185,28,28]],[-3,[239,68,68]],[-1,[247,123,123]],
+  [0,[38,42,46]],[1,[105,205,145]],[3,[34,197,94]],[6,[21,128,61]],[10,[10,82,45]]];
+function colorFor(p){const x=Math.max(-10,Math.min(10,p||0));
+  for(let i=0;i<HEAT_STOPS.length-1;i++){const [a,ca]=HEAT_STOPS[i],[b,cb]=HEAT_STOPS[i+1];
+    if(x>=a&&x<=b){const t=(x-a)/((b-a)||1);
+      return `rgb(${ca.map((v,k)=>Math.round(v+(cb[k]-v)*t)).join(",")})`;}}
+  return "rgb(38,42,46)";}
+function heatDark(p){const m=colorFor(p).match(/\d+/g).map(Number);
+  return `rgb(${m.map(v=>Math.round(v*0.30+8)).join(",")})`;}
+const heatText=p=>p>=0?"#8df0b4":"#ff9aa2";
+const fitFs=(len,r,cap)=>Math.max(7,Math.min(cap,Math.floor((r*1.62)/(0.62*Math.max(len,3)))));
+const logoUrl=s=>`https://assets.parqet.com/logos/symbol/${encodeURIComponent(s.split(".")[0])}?format=png&size=64`;
+const pchip=(k,v)=>`<span class="pchip"><span class="k">${k}</span><span class="${(v??0)>=0?"up":"down"}">${v==null?"—":fmtPct(v)}</span></span>`;
+function sparkSvg(s){
+  const w=260,h=56,min=Math.min(...s),max=Math.max(...s),rng=(max-min)||1;
+  const pts=s.map((v,i)=>`${(i/(s.length-1)*w).toFixed(1)},${(h-4-((v-min)/rng)*(h-8)).toFixed(1)}`).join(" ");
+  const col=(s[s.length-1]>=s[0])?"#22c55e":"#f05a6e";
+  return `<div class="sec-label">Last 60 sessions</div>
+   <svg width="100%" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" style="display:block;max-width:560px">
+     <polyline points="${pts}" fill="none" stroke="${col}" stroke-width="2"/></svg>`;
+}
+
+const UNI_SHORT={
+  ai_chips_and_compute:"Chips & Compute",
+  ai_software_and_cloud_infrastructure:"Software & Cloud",
+  ai_applications_and_data_software:"Apps & Data",
+  chip_equipment_and_ai_hardware:"Equip & HW",
+  ai_platforms_internet_and_adtech:"Platforms & Ads",
+  data_center_power_and_energy:"DC Power",
+  applied_ai_industrial_defense_and_vertical:"Applied AI",
+};
+const UNI_ICONS=(()=>{
+  const wrap=p=>"data:image/svg+xml;utf8,"+encodeURIComponent(
+    `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">${p}</svg>`);
+  return {
+    ai_chips_and_compute: wrap('<rect x="5" y="5" width="14" height="14" rx="2"/><rect x="10" y="10" width="4" height="4"/><path d="M9 2v3M15 2v3M9 19v3M15 19v3M2 9h3M2 15h3M19 9h3M19 15h3"/>'),
+    ai_software_and_cloud_infrastructure: wrap('<path d="M17.5 19H6.3A4.3 4.3 0 0 1 5.4 10.5a7 7 0 0 1 13.6 1.9A3.8 3.8 0 0 1 17.5 19z"/>'),
+    ai_applications_and_data_software: wrap('<ellipse cx="12" cy="5.5" rx="7.5" ry="3"/><path d="M4.5 5.5v13c0 1.7 3.4 3 7.5 3s7.5-1.3 7.5-3v-13"/><path d="M4.5 12c0 1.7 3.4 3 7.5 3s7.5-1.3 7.5-3"/>'),
+    chip_equipment_and_ai_hardware: wrap('<rect x="3" y="3.5" width="18" height="7" rx="2"/><rect x="3" y="13.5" width="18" height="7" rx="2"/><path d="M7 7h.01M7 17h.01"/>'),
+    ai_platforms_internet_and_adtech: wrap('<rect x="3" y="4" width="18" height="13" rx="2"/><path d="M9 21h6M12 17v4"/><path d="M8 13v-2.5M12 13V8M16 13v-4"/>'),
+    data_center_power_and_energy: wrap('<polygon points="13 2 4 14 11.5 14 11 22 20 10 12.5 10 13 2"/>'),
+    applied_ai_industrial_defense_and_vertical: wrap('<circle cx="9.5" cy="9.5" r="3.6"/><circle cx="14.5" cy="9.5" r="3.6"/><circle cx="9.5" cy="14.5" r="3.6"/><circle cx="14.5" cy="14.5" r="3.6"/>'),
+  };
+})();
+
+function packBubbles(items,key,W,H){
+  const maxV=Math.max(...items.map(x=>x[key]));
+  const maxR=Math.min(W,H)*0.22, minR=Math.max(22,Math.min(W,H)*0.06);
+  const nodes=items.map(x=>({it:x,r:Math.max(minR,maxR*Math.sqrt(x[key]/maxV))})).sort((a,b)=>b.r-a.r);
+  const placed=[];
+  for(const n of nodes){
+    if(!placed.length){n.x=0;n.y=0;placed.push(n);continue;}
+    for(let t=0.1;;t+=0.07){
+      const x=2.1*t*Math.cos(t),y=2.1*t*Math.sin(t)*0.8;
+      if(placed.every(p=>{const dx=p.x-x,dy=p.y-y;return dx*dx+dy*dy>=(p.r+n.r+4)**2;})||t>2500){n.x=x;n.y=y;break;}
+    }
+    placed.push(n);
+  }
+  const minX=Math.min(...placed.map(p=>p.x-p.r)),maxX=Math.max(...placed.map(p=>p.x+p.r));
+  const minY=Math.min(...placed.map(p=>p.y-p.r)),maxY=Math.max(...placed.map(p=>p.y+p.r));
+  const pad=10,s=Math.min((W-2*pad)/(maxX-minX),(H-2*pad)/(maxY-minY),1.2);
+  const ox=(W-(maxX-minX)*s)/2-minX*s,oy=(H-(maxY-minY)*s)/2-minY*s;
+  placed.forEach(p=>{p.x=p.x*s+ox;p.y=p.y*s+oy;p.r*=s;});
+  return placed;
+}
+
+let chart=null, sim=null, bounds=null, timer=null;
+let universe=null, eco=null, uniGroup=null, mode="universe", selected=null;
+
+function bubbleItem(n){
+  if(n.kind==="sector"){
+    const g=n.obj, avg=g.avg_change_pct||0, heat=colorFor(avg);
+    const m=heat.match(/\d+/g).map(Number);
+    const core=`rgb(${m.map(v=>Math.round(v*0.18+7)).join(",")})`;
+    const name=UNI_SHORT[g.id]||g.label;
+    const fs=Math.max(9, fitFs(name.length, n.r, 16));
+    const showIcon=n.r>=46, showCap=n.r>=34;
+    const isz=Math.max(14, Math.min(26, Math.round(n.r*0.26)));
+    const icon=showIcon ? UNI_ICONS[g.id] : null;
+    const rich={
+      nm:{color:"#fff",fontWeight:700,fontSize:fs,lineHeight:Math.round(fs*1.6),align:"center"},
+      pc:{color:heatText(avg),fontWeight:700,fontSize:Math.max(9,Math.round(fs*0.85)),lineHeight:Math.round(fs*1.35),align:"center"}};
+    let fmt=`{nm|${name}}`;
+    if(icon){ rich.ic={backgroundColor:{image:icon},width:isz,height:isz,align:"center"}; fmt=`{ic|}\n`+fmt; }
+    if(showCap){ rich.cap={color:"rgba(255,255,255,.55)",fontWeight:600,fontSize:Math.max(8,Math.round(fs*0.8)),lineHeight:Math.round(fs*1.25),align:"center"}; fmt+=`\n{cap|${fmtCap(g.total_market_cap_b*1e9)}}`; }
+    fmt+=`\n{pc|${fmtPct(avg)}}`;
+    return {value:[n.x,n.y], symbolSize:n.r*2, group:g,
+      itemStyle:{color:core, borderColor:heat, borderWidth:2, shadowBlur:0},
+      label:{show:true, position:"inside", align:"center", verticalAlign:"middle", formatter:fmt, rich}};
+  }
+  const t=n.obj, pct=t.change_pct||0, heat=colorFor(pct);
+  const txt=t.ticker;
+  const fs=Math.min(Math.max(9,Math.round(n.r*0.30)), fitFs(txt.length,n.r,22));
+  const pcFs=Math.max(8,Math.round(fs*0.82));
+  const showLabel=n.r>=13 && fs>=8;
+  const ls=Math.round(n.r*0.5);
+  const showLogo=n.r>30 && !txt.includes(".") && (ls+fs*1.35+pcFs*1.2)<n.r*1.7;
+  const sel=txt===selected;
+  const rich={
+    tk:{color:"#fff",fontWeight:700,fontSize:fs,lineHeight:Math.round(fs*1.35),align:"center"},
+    pc:{color:heatText(pct),fontWeight:600,fontSize:pcFs,lineHeight:Math.round(pcFs*1.3),align:"center"}};
+  let fmt="";
+  if(showLogo){rich.lg={backgroundColor:{image:logoUrl(txt)},width:ls,height:ls,borderRadius:ls/2,align:"center"};fmt+="{lg|}\n";}
+  fmt+=`{tk|${txt}}\n{pc|${fmtPct(pct)}}`;
+  return {value:[n.x,n.y], symbolSize:n.r*2, uniTicker:t,
+    itemStyle:{color:heatDark(pct), borderColor:sel?"#fff":heat,
+      borderWidth:sel?3.5:Math.max(2,Math.round(n.r*0.09)),
+      shadowColor:heat, shadowBlur:Math.max(8,Math.round(n.r*0.35))},
+    label:{show:showLabel, position:"inside", align:"center", verticalAlign:"middle", formatter:fmt, rich}};
+}
+
+function currentItems(){
+  if(mode==="eco") return eco ? {kind:"uni", items:eco.tickers} : null;
+  if(!universe) return null;
+  return uniGroup ? {kind:"uni", items:uniGroup.tickers} : {kind:"sector", items:universe.bubbles};
+}
+
+function render(){
+  const view=currentItems();
+  if(!view) return;
+  const el=document.getElementById("chart");
+  const W=el.clientWidth||900, H=el.clientHeight||520;
+  view.items.forEach(o=>{o._sz=Math.abs((o.change_pct!=null?o.change_pct:o.avg_change_pct)||0)+0.5;});
+  sim=packBubbles(view.items,"_sz",W,H).map(n=>({x:n.x,y:n.y,r:n.r,
+    vx:(Math.random()-0.5)*0.7,vy:(Math.random()-0.5)*0.7,obj:n.it,kind:view.kind}));
+  bounds={W,H};
+  chart.setOption({backgroundColor:"transparent",
+    grid:{left:0,right:0,top:0,bottom:0},
+    xAxis:{show:false,min:0,max:W},yAxis:{show:false,min:0,max:H},
+    tooltip:{textStyle:{fontSize:12},formatter:p=>{
+      if(p.data.group){const g=p.data.group; const c=g.avg_change_pct>=0?"#22c55e":"#f05a6e";
+        return `<b>${g.label}</b><br/>${g.count} names · ${fmtCap(g.total_market_cap_b*1e9)} combined<br/>`
+             + `<span style="color:${c}">${fmtPct(g.avg_change_pct)} avg of members today</span><br/>`
+             + `<span style="opacity:.7">click to drill into members ↓</span>`;}
+      if(p.data.uniTicker){const t=p.data.uniTicker; const c=t.change_pct>=0?"#22c55e":"#f05a6e";
+        return `<b>${t.ticker}</b> · ${t.company}<br/>`
+             + `<span style="color:${c}">${fmtPct(t.change_pct)}</span> &nbsp; $${(t.price??0).toFixed(2)}<br/>`
+             + `Cap ${fmtCap(t.market_cap_b*1e9)} · Vol ${fmtVol(t.volume)} · P/E ${t.pe==null?"—":t.pe}<br/>`
+             + `<span style="opacity:.7">${t.industry}</span>`;}
+      return "";}},
+    series:[{type:"scatter",data:sim.map(bubbleItem),animationDuration:380,
+      emphasis:{itemStyle:{borderColor:"#fff",borderWidth:3}}}]},true);
+  startMotion();
+}
+
+function startMotion(){
+  if(timer) clearInterval(timer);
+  timer=setInterval(()=>{
+    if(!sim||document.hidden) return;
+    const {W,H}=bounds;
+    for(const n of sim){
+      n.x+=n.vx;n.y+=n.vy;
+      if(n.x-n.r<2){n.x=n.r+2;n.vx=Math.abs(n.vx);} if(n.x+n.r>W-2){n.x=W-2-n.r;n.vx=-Math.abs(n.vx);}
+      if(n.y-n.r<2){n.y=n.r+2;n.vy=Math.abs(n.vy);} if(n.y+n.r>H-2){n.y=H-2-n.r;n.vy=-Math.abs(n.vy);}
+    }
+    for(let i=0;i<sim.length;i++)for(let j=i+1;j<sim.length;j++){
+      const a=sim[i],b=sim[j],dx=b.x-a.x,dy=b.y-a.y,d=Math.hypot(dx,dy)||1,min=a.r+b.r+2;
+      if(d<min){const ux=dx/d,uy=dy/d,ov=(min-d)/2;
+        a.x-=ux*ov;a.y-=uy*ov;b.x+=ux*ov;b.y+=uy*ov;
+        let t=a.vx;a.vx=b.vx;b.vx=t;t=a.vy;a.vy=b.vy;b.vy=t;}
+    }
+    chart.setOption({series:[{animation:false,data:sim.map(bubbleItem)}]});
+  },50);
+}
+
+function showSector(g){
+  document.getElementById("detail").innerHTML=`
+    <div class="row"><h3>${g.label}</h3>
+      <span class="${pctClass(g.avg_change_pct)}" style="margin-left:auto;font-weight:700">${fmtPct(g.avg_change_pct)} avg</span></div>
+    <div class="kv">
+      <div><div class="k">Combined market cap</div><div class="v">${fmtCap(g.total_market_cap_b*1e9)}</div></div>
+      <div><div class="k">Members</div><div class="v">${g.count} tickers</div></div>
+    </div>
+    <div class="sec-label">Finviz industries merged into this sector</div>
+    <div class="chips">${g.industries_included.map(i=>`<span class="chip">${i}</span>`).join("")}</div>
+    <p class="faint" style="margin:12px 0 0">Click the sector bubble to see its members.</p>`;
+}
+
+function showTicker(t){
+  selected=t.ticker;
+  const basket = mode==="eco" ? "NVIDIA Ecosystem" : (uniGroup ? (UNI_SHORT[uniGroup.id]||uniGroup.label) : "AI Universe");
+  document.getElementById("detail").innerHTML=`
+    <div class="row"><h3>${t.ticker}</h3><span class="muted">${t.company}</span>
+      <span class="badge">${basket}</span>
+      <span class="${pctClass(t.change_pct)}" style="margin-left:auto;font-weight:700">${fmtPct(t.change_pct)}</span></div>
+    <div class="kv">
+      <div><div class="k">Price</div><div class="v">$${(t.price??0).toFixed(2)}</div></div>
+      <div><div class="k">Market cap</div><div class="v">${fmtCap(t.market_cap_b*1e9)}</div></div>
+      <div><div class="k">Finviz industry</div><div class="v">${t.industry}</div></div>
+      <div><div class="k">P/E · Volume</div><div class="v">${t.pe==null?"—":t.pe} · ${fmtVol(t.volume)}</div></div>
+    </div>
+    ${t.perf?`<div class="sec-label">Performance</div><div>
+      ${pchip("1D",t.change_pct)}${pchip("1W",t.perf["1W"])}${pchip("1M",t.perf["1M"])}${pchip("1Y",t.perf["1Y"])}
+    </div>`:""}
+    ${t.spark&&t.spark.length>2?sparkSvg(t.spark):""}
+    <p style="margin:12px 0 0"><a href="https://finance.yahoo.com/quote/${encodeURIComponent(t.ticker)}" target="_blank" rel="noopener">Yahoo Finance →</a></p>`;
+}
+
+function applyView(){
+  const back=document.getElementById("uni-back");
+  back.style.display = (mode==="universe" && uniGroup) ? "" : "none";
+  const title=document.getElementById("map-title");
+  if(mode==="eco" && eco){
+    title.textContent=`NVIDIA Ecosystem · ${eco.tickers.length} names · sized by day move`;
+    render();
+    const t=eco.tickers.find(x=>x.ticker===selected) || eco.tickers[0];
+    if(t) showTicker(t);
+  } else if(universe){
+    title.textContent = uniGroup
+      ? `${uniGroup.label} · sized by day move`
+      : `AI Universe · ${universe.meta.total_tickers} names · ${universe.bubbles.length} sectors`;
+    render();
+    if(uniGroup){
+      const t=uniGroup.tickers.find(x=>x.ticker===selected);
+      t ? showTicker(t) : showSector(uniGroup);
+    } else showSector(universe.bubbles[0]);
+  } else title.textContent="Loading…";
+}
+
+async function load(){
+  try{
+    universe=await (await fetch("universe.json?t="+Date.now())).json();
+    if(uniGroup) uniGroup=universe.bubbles.find(b=>b.id===uniGroup.id)||null;
+  }catch(e){ universe=null; }
+  try{ eco=await (await fetch("ecosystem.json?t="+Date.now())).json(); }
+  catch(e){ eco=null; }
+  try{
+    const d=await (await fetch("data.json?t="+Date.now())).json();
+    document.getElementById("asof").textContent="As of "+d.as_of_local;
+  }catch(e){}
+  if(!chart){
+    chart=echarts.init(document.getElementById("chart"));
+    chart.on("click",p=>{
+      if(p.data&&p.data.group){ uniGroup=p.data.group; selected=null; applyView(); }
+      else if(p.data&&p.data.uniTicker){ selected=p.data.uniTicker.ticker; render(); showTicker(p.data.uniTicker); }
+    });
+    window.addEventListener("resize",()=>{chart.resize();applyView();});
+  }
+  applyView();
+}
+document.querySelectorAll(".seg-btn[data-mode]").forEach(b=>b.addEventListener("click",()=>{
+  if(b.dataset.mode===mode) return;
+  mode=b.dataset.mode; uniGroup=null; selected=null;
+  document.querySelectorAll(".seg-btn[data-mode]").forEach(x=>x.classList.toggle("active",x.dataset.mode===mode));
+  applyView();
+}));
+document.getElementById("uni-back").addEventListener("click",()=>{
+  uniGroup=null; selected=null; applyView();
+});
+load(); setInterval(load, 60000);
+</script>
+<script src="site.js?v=2"></script>
+</body>
+</html>

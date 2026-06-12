@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Santro AI — AI stocks heatmap, research & market news</title>
-<meta name="description" content="Live AI stock market dashboard: 83 AI and semiconductor names in 7 sectors as an interactive bubble heatmap, with daily signed research, hot tickers, key takeaways and news. Free, delayed data. Not financial advice." />
+<title>Santro AI — AI stocks bubble map, research & market news</title>
+<meta name="description" content="Live AI stock market dashboard: 83 AI and semiconductor names in 7 sectors as an interactive bubble map, with daily signed research, hot tickers, key takeaways and news. Free, delayed data. Not financial advice." />
 <link rel="canonical" href="https://santroai.tech/" />
-<meta property="og:title" content="Santro AI — AI stocks heatmap, research & market news" />
+<meta property="og:title" content="Santro AI — AI stocks bubble map, research & market news" />
 <meta property="og:description" content="The AI stock universe as living bubbles: sectors, tickers, ETFs, research and news — refreshed automatically on trading days." />
 <meta property="og:url" content="https://santroai.tech/" />
 <meta property="og:image" content="https://santroai.tech/assets/santro-mascot-day.png" />
@@ -14,7 +14,7 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebSite","name":"Santro AI",
  "url":"https://santroai.tech/",
- "description":"AI stocks heatmap, daily signed research and market news for the AI narrative."}
+ "description":"AI stocks bubble map, daily signed research and market news for the AI narrative."}
 </script>
 <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
 <style>
@@ -291,17 +291,17 @@
     </div>
     <nav class="mainnav">
       <button class="nav-link active" id="nav-stocks">Stocks</button>
-      <button class="nav-link" id="nav-etfs">ETFs</button>
+      <a class="nav-link" href="/etfs.html" style="text-decoration:none">ETFs</a>
       <a class="nav-link" href="/crypto.html" style="text-decoration:none">Crypto</a>
       <a class="nav-link" href="/news.html" style="text-decoration:none">News</a>
       <a class="nav-link" href="/research.html" style="text-decoration:none">Research</a>
+      <a class="nav-link" href="/about.html" style="text-decoration:none">About</a>
       <button class="nav-link soon" title="Coming soon">Blog<span class="s">SOON</span></button>
       <details class="nav-more">
         <summary class="nav-link">More ▾</summary>
         <div class="menu">
           <a href="takeaways/takeaways.md" target="_blank" rel="noopener">Key takeaways (signed)</a>
           <a href="research/INDEX.md" target="_blank" rel="noopener">Research index</a>
-          <a href="https://github.com/lilaburlabur-ux/santro-ai" target="_blank" rel="noopener">GitHub</a>
         </div>
       </details>
     </nav>
@@ -330,10 +330,6 @@
       <h2>
         <span class="ic">▦</span>
         <span id="heat-title">Loading…</span>
-        <span class="seg">
-          <button class="seg-btn active" data-mode="universe">AI Universe · Finviz</button>
-          <button class="seg-btn" data-mode="etf">AI ETFs</button>
-        </span>
         <button class="seg-btn" id="uni-back" style="display:none">← All sectors</button>
         <span class="legend"><span>−10%</span><span class="bar"></span><span>+10%</span></span>
       </h2>
@@ -342,7 +338,7 @@
 
     <section class="panel area-detail">
       <h2 id="detail-title">Selected stock <span class="badge live">Live</span></h2>
-      <div class="body" id="detail">Click a tile in the heatmap…</div>
+      <div class="body" id="detail">Click a bubble for details…</div>
     </section>
 
     <section class="panel area-news">
@@ -368,7 +364,7 @@
 
   <footer>
     <div class="foot-text">
-      <span class="bn">Santro AI</span> — stock heatmap &amp; research journal for the AI narrative. Beta version.<br>
+      <span class="bn">Santro AI</span> — AI bubble map &amp; research journal for the AI narrative. Beta version.<br>
       <span class="nfa">Not financial advice.</span> Quotes delayed ~15 min. Removed with paid version.<br>
       <span class="rights">© 2026 Santro AI. All rights reserved. Uses custom models.</span>
     </div>
@@ -1015,14 +1011,6 @@ function navMode(mode, navId){
   document.querySelector(".area-heat").scrollIntoView({behavior:"smooth", block:"start"});
 }
 document.getElementById("nav-stocks").addEventListener("click", ()=>navMode("universe","nav-stocks"));
-document.getElementById("nav-etfs").addEventListener("click", ()=>navMode("etf","nav-etfs"));
-// deep links: /?view=etfs opens the ETF view directly (used by section pages)
-try{
-  const v=new URLSearchParams(location.search).get("view");
-  if(v==="etfs"){ heatMode="etf";
-    document.querySelectorAll(".seg-btn[data-mode]").forEach(x=>x.classList.toggle("active", x.dataset.mode==="etf"));
-    setNav("nav-etfs"); }
-}catch(e){}
 window.addEventListener("resize", ()=>{chart.resize(); render();});
 document.getElementById("reload").addEventListener("click", loadData);
 document.getElementById("theme-toggle").addEventListener("click",

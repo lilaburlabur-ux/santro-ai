@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-12T19:04:22+00:00",
+  "as_of": "2026-06-12T19:19:28+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,53 +9,39 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "SPCX",
-   "company": "SpaceX",
-   "move_pct": 22.72,
-   "price": 165.68,
-   "volume": 422745858,
-   "volume_vs_avg": "~0.0x",
-   "heat_score": 78,
-   "direction": "up",
-   "why": "What SpaceX's IPO means for investors and the future of innovation",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/video/what-spacexs-ipo-means-for-investors-and-the-future-of-innovation-150517020.html"
-  },
-  {
-   "rank": 2,
    "ticker": "ARM",
    "company": "Arm Holdings Plc ADR",
-   "move_pct": 12.36,
-   "price": 384.52,
-   "volume": 13326933,
+   "move_pct": 12.27,
+   "price": 384.23,
+   "volume": 13731028,
    "volume_vs_avg": "~1.1x",
    "heat_score": 74,
    "direction": "up",
-   "why": "Arm Rockets 11%, Qualcomm Rises 5%: Who\u2019s Winning the Chip-Architecture Race?",
+   "why": "Billionaire Brad Gerstner Dumped All of His Alphabet Then Bought 2 Stocks Nobody Expected",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/sectors/technology/articles/arm-rockets-11-qualcomm-rises-183100499.html"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-brad-gerstner-dumped-alphabet-185647127.html"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "ticker": "ADBE",
    "company": "Adobe Inc",
-   "move_pct": -7.35,
-   "price": 202.72,
-   "volume": 20959059,
+   "move_pct": -6.56,
+   "price": 204.45,
+   "volume": 21667239,
    "volume_vs_avg": "~4x",
-   "heat_score": 60,
+   "heat_score": 58,
    "direction": "down",
    "why": "Adobe CFO Heads to a Chip Firm. It\u2019s All You Need to Know About Software\u2019s Downfall.",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.barrons.com/articles/adobe-earnings-stock-price-f259c4e5?siteid=yhoof2&yptr=yahoo"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": 7.4,
-   "price": 125.62,
-   "volume": 125605200,
+   "move_pct": 7.34,
+   "price": 125.55,
+   "volume": 128342922,
    "volume_vs_avg": "~0.9x",
    "heat_score": 45,
    "direction": "up",
@@ -64,32 +50,18 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-182822822.html"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
-   "move_pct": 5.49,
-   "price": 515.26,
-   "volume": 24670128,
+   "move_pct": 5.3,
+   "price": 514.35,
+   "volume": 25234199,
    "volume_vs_avg": "~0.7x",
-   "heat_score": 38,
+   "heat_score": 37,
    "direction": "up",
    "why": "AMD Rises as Citi Sees Bigger GPU Opportunity",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/amd-rises-citi-sees-bigger-182026144.html"
-  },
-  {
-   "rank": 6,
-   "ticker": "ANET",
-   "company": "Arista Networks Inc",
-   "move_pct": 5.01,
-   "price": 164.23,
-   "volume": 4177614,
-   "volume_vs_avg": "~0.4x",
-   "heat_score": 34,
-   "direction": "up",
-   "why": "What Cisco Stock Was Really Saying About AI",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-really-saying-ai-184511348.html"
   }
  ]
 }

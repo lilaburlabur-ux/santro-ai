@@ -297,7 +297,8 @@ function showTicker(t){
       ${pchip("1D",t.change_pct)}${pchip("1W",t.perf["1W"])}${pchip("1M",t.perf["1M"])}${pchip("1Y",t.perf["1Y"])}
     </div>`:""}
     ${t.spark&&t.spark.length>2?sparkSvg(t.spark):""}
-    <p style="margin:12px 0 0"><a href="https://finance.yahoo.com/quote/${encodeURIComponent(t.ticker)}" target="_blank" rel="noopener">Yahoo Finance →</a></p>`;
+    <p style="margin:12px 0 0"><a href="t.html?sym=${encodeURIComponent(t.ticker)}"><b>Ticker page ↗</b></a>
+      &nbsp;·&nbsp; <a href="https://finance.yahoo.com/quote/${encodeURIComponent(t.ticker)}" target="_blank" rel="noopener">Yahoo Finance →</a></p>`;
 }
 
 function applyView(){

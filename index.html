@@ -238,6 +238,10 @@
   .hot .htk .sym{font-weight:700; cursor:pointer; transition:color .12s;}
   .hot .htk .sym:hover{color:var(--accent-2); text-decoration:underline;}
   .hot .htk .pr{font-size:11px; color:var(--faint); margin-top:2px;}
+  .hot .hact{display:flex; gap:7px; margin-top:4px; font-size:10px; white-space:nowrap;}
+  .hot .hact span, .hot .hact a{color:var(--accent-2); cursor:pointer; text-decoration:none;
+    background:var(--accent-soft); border:1px solid var(--accent-border); border-radius:5px; padding:1px 6px;}
+  .hot .hact span:hover, .hot .hact a:hover{color:var(--text);}
   .chip-mv{font-size:12px; font-weight:700; padding:2px 9px; border-radius:999px; white-space:nowrap;}
   .chip-up{background:rgba(34,197,94,.13); color:var(--green);}
   .chip-down{background:rgba(240,90,110,.13); color:var(--red);}
@@ -790,6 +794,7 @@ function showDetail(s){
         +`</div>`:""}
     <div class="links">
       ${r&&r.report?`<a class="see-more" href="research/${r.report}" target="_blank" rel="noopener">Signed report ↗</a>`:""}
+      <a class="see-more" href="t.html?sym=${encodeURIComponent(s.symbol)}">Ticker page ↗</a>
       <a class="see-more" href="https://finance.yahoo.com/quote/${s.symbol}" target="_blank" rel="noopener">Yahoo Finance →</a>
     </div>`;
 }
@@ -806,6 +811,7 @@ function showEtfDetail(h){
     </div>
     ${researchExtras(h.symbol)}
     <div class="links">
+      ${h.symbol.includes(".")?"":`<a class="see-more" href="t.html?sym=${encodeURIComponent(h.symbol)}">Ticker page ↗</a>`}
       <a class="see-more" href="https://finance.yahoo.com/quote/${encodeURIComponent(h.symbol)}" target="_blank" rel="noopener">See more on Yahoo Finance →</a>
     </div>`;
 }
@@ -845,6 +851,7 @@ function showUniverseDetail(t){
     ${t.spark&&t.spark.length>2?sparkSvg(t.spark):""}
     ${researchExtras(t.ticker)}
     <div class="links">
+      <a class="see-more" href="t.html?sym=${encodeURIComponent(t.ticker)}">Ticker page ↗</a>
       <a class="see-more" href="https://finance.yahoo.com/quote/${t.ticker}" target="_blank" rel="noopener">Yahoo Finance →</a>
     </div>`;
 }
@@ -879,24 +886,28 @@ function renderNews(){
 // click-through from Hot Tickers (and anywhere) to the bubble info card:
 // drills the chart into the ticker's sector, selects its bubble, fills the detail panel
 function openTicker(sym){
+  const setSeg = mode => document.querySelectorAll(".seg-btn[data-mode]")
+    .forEach(x=>x.classList.toggle("active", x.dataset.mode===mode));
   if(universe){
     for(const b of universe.bubbles){
       const t = b.tickers.find(x=>x.ticker===sym);
       if(t){
         heatMode="universe"; uniGroup=b; selectedSymbol=sym;
-        document.querySelectorAll(".seg-btn[data-mode]").forEach(x=>x.classList.toggle("active", x.dataset.mode==="universe"));
-        applyHeat();
+        setSeg("universe"); applyHeat();
         return;
       }
     }
   }
-  if(etf && etf.holdings.some(h=>h.symbol===sym)){
-    heatMode="etf"; selectedSymbol=sym;
-    document.querySelectorAll(".seg-btn[data-mode]").forEach(x=>x.classList.toggle("active", x.dataset.mode==="etf"));
-    applyHeat();
+  // ecosystem-only names (SNDK, KEYS, …) drill the eco basket — never Yahoo
+  if(eco && eco.tickers.some(x=>x.ticker===sym)){
+    heatMode="eco"; selectedSymbol=sym;
+    setSeg("eco"); applyHeat();
     return;
   }
-  window.open("https://finance.yahoo.com/quote/"+sym, "_blank", "noopener");
+  // not on the map at all: our ticker page for US names, Yahoo only for
+  // foreign-suffix symbols the site has no page data for
+  if(sym.includes(".")) window.open("https://finance.yahoo.com/quote/"+sym, "_blank", "noopener");
+  else location.href="t.html?sym="+encodeURIComponent(sym);
 }
 
 function renderSamples(){
@@ -909,7 +920,8 @@ function renderSamples(){
         const cls=t.catalyst_type==="no_news_mover"?"chip-nonews":(t.move_pct>0?"chip-up":"chip-down");
         const src=t.source_url?` · <a href="${t.source_url}" target="_blank" rel="noopener">source</a>`:"";
         return `<div class="hot">
-          <div class="htk"><div class="sym" onclick="openTicker('${t.ticker}')" title="Open ${t.ticker} details">${t.ticker}</div><div class="pr">$${t.price.toLocaleString()}</div></div>
+          <div class="htk"><div class="sym" onclick="openTicker('${t.ticker}')" title="Show ${t.ticker} on the bubble map">${t.ticker}</div><div class="pr">$${t.price.toLocaleString()}</div>
+            <div class="hact"><span onclick="openTicker('${t.ticker}')" title="Show on the bubble map">◉ map</span><a href="t.html?sym=${t.ticker}" title="Open the ${t.ticker} page">page ↗</a></div></div>
           <span class="chip-mv ${cls}">${fmtPct(t.move_pct)}</span>
           <div class="hwhy">${t.why}
             <div class="hmeta">${t.company} · vol ${fmtVol(t.volume)} (${t.volume_vs_avg} avg) · ${t.catalyst_type.replace(/_/g," ")}${src}</div></div>

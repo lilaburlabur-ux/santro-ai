@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI Crypto Market — Santro AI</title>
+<meta name="description" content="Live crypto market overview for the AI economy: Bitcoin, Ethereum and AI-related tokens with prices, 24h moves and market caps. Data delayed, not financial advice." />
+<link rel="canonical" href="https://santroai.tech/crypto.html" />
+<meta property="og:title" content="AI Crypto Market — Santro AI" />
+<meta property="og:description" content="Crypto prices and 24h moves for the AI economy, refreshed automatically." />
+<meta property="og:url" content="https://santroai.tech/crypto.html" />
+<meta property="og:image" content="https://santroai.tech/assets/santro-mascot-day.png" />
+<meta property="og:type" content="website" />
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
+<link rel="stylesheet" href="site.css" />
+</head>
+<body>
+  <header class="pageheader">
+    <a class="logo" href="/" title="Santro AI — dashboard">
+      <span class="logo-s">S<span class="logo-ai">AI</span></span>
+      <span class="logo-rest"><span class="logo-antro">ANTRO</span>
+        <span class="logo-tagline">AI&nbsp;RESEARCH&nbsp;·&nbsp;MARKETS</span></span>
+    </a>
+    <nav class="pagenav">
+      <a class="nav-link" href="/">Stocks</a>
+      <a class="nav-link" href="/?view=etfs">ETFs</a>
+      <a class="nav-link active" href="/crypto.html">Crypto</a>
+      <a class="nav-link" href="/news.html">News</a>
+      <a class="nav-link" href="/research.html">Research</a>
+    </nav>
+  </header>
+
+  <main>
+    <h1>AI Crypto Market <span class="badge amber" id="status">connecting…</span></h1>
+    <p class="lede">The crypto side of the AI economy: Bitcoin and major coins alongside AI-related
+    tokens — prices, 24-hour moves and market caps, refreshed automatically from CoinMarketCap.
+    Part of the Santro AI research journal covering AI markets across stocks, ETFs and crypto.
+    Data may be delayed. Not financial advice.</p>
+    <div class="cardgrid" id="coins"></div>
+    <p class="faint" id="asof"></p>
+  </main>
+
+  <footer>
+    Santro AI — stock heatmap &amp; research journal for the AI narrative. Beta version.<br>
+    <span class="nfa">Not financial advice.</span> Quotes delayed. Removed with paid version.<br>
+    © 2026 Santro AI. All rights reserved. Uses custom models.
+  </footer>
+
+<script>
+const fmtPct=x=>(x>=0?"+":"")+Number(x).toFixed(2)+"%";
+const cls=x=>x>=0?"up":"down";
+function fmtCap(n){
+  if(n==null) return "—";
+  if(n>=1e12) return "$"+(n/1e12).toFixed(2)+"T";
+  if(n>=1e9)  return "$"+(n/1e9).toFixed(1)+"B";
+  if(n>=1e6)  return "$"+(n/1e6).toFixed(1)+"M";
+  return "$"+Math.round(n).toLocaleString();
+}
+async function load(){
+  try{
+    const d=await (await fetch("crypto.json?t="+Date.now())).json();
+    document.getElementById("status").textContent="Live";
+    document.getElementById("status").className="badge";
+    document.getElementById("asof").textContent="As of "+d.as_of+" · source: CoinMarketCap · refreshed automatically";
+    document.getElementById("coins").innerHTML=(d.coins||[]).map(c=>`
+      <div class="card">
+        <div class="row"><h3>${c.symbol}</h3><span class="muted">${c.name}</span>
+          <span class="${cls(c.change_24h)}" style="margin-left:auto;font-weight:700">${fmtPct(c.change_24h)}</span></div>
+        <div class="kv">
+          <div><div class="k">Price</div><div class="v">$${Number(c.price).toLocaleString(undefined,{maximumFractionDigits:c.price<1?4:2})}</div></div>
+          <div><div class="k">Market cap</div><div class="v">${fmtCap(c.market_cap)}</div></div>
+          <div><div class="k">24h volume</div><div class="v">${fmtCap(c.volume_24h)}</div></div>
+          <div><div class="k">Rank</div><div class="v">#${c.rank}</div></div>
+        </div>
+      </div>`).join("");
+  }catch(e){
+    document.getElementById("coins").innerHTML=
+      '<p class="muted">The CoinMarketCap pipeline is being connected — this section goes live as soon as the first data lands. Check back shortly.</p>';
+  }
+}
+load(); setInterval(load, 120000);
+</script>
+</body>
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI Market News — live feed | Santro AI</title>
+<meta name="description" content="Live news feed for the AI stock universe: 83 AI and semiconductor names plus ETFs, deduplicated and tagged by ticker and sector. Refreshed every 20 minutes on trading days." />
+<link rel="canonical" href="https://santroai.tech/news.html" />
+<meta property="og:title" content="AI Market News — live feed | Santro AI" />
+<meta property="og:description" content="Deduplicated, sector-tagged news across the AI stock universe." />
+<meta property="og:url" content="https://santroai.tech/news.html" />
+<meta property="og:image" content="https://santroai.tech/assets/santro-mascot-day.png" />
+<meta property="og:type" content="website" />
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
+<link rel="stylesheet" href="site.css" />
+</head>
+<body>
+  <header class="pageheader">
+    <a class="logo" href="/" title="Santro AI — dashboard">
+      <span class="logo-s">S<span class="logo-ai">AI</span></span>
+      <span class="logo-rest"><span class="logo-antro">ANTRO</span>
+        <span class="logo-tagline">AI&nbsp;RESEARCH&nbsp;·&nbsp;MARKETS</span></span>
+    </a>
+    <nav class="pagenav">
+      <a class="nav-link" href="/">Stocks</a>
+      <a class="nav-link" href="/?view=etfs">ETFs</a>
+      <a class="nav-link" href="/crypto.html">Crypto</a>
+      <a class="nav-link active" href="/news.html">News</a>
+      <a class="nav-link" href="/research.html">Research</a>
+    </nav>
+  </header>
+
+  <main>
+    <h1>AI Market News <span class="badge" id="count">…</span></h1>
+    <p class="lede">Every headline that touches the AI stock universe — 83 names across seven
+    sectors plus AI-related ETFs — pulled continuously on trading days, deduplicated so one story
+    appears once with every ticker it concerns, and tagged by sector. Source links go to the
+    original publishers.</p>
+    <div id="feed"></div>
+    <p class="faint" id="asof"></p>
+  </main>
+
+  <footer>
+    Santro AI — stock heatmap &amp; research journal for the AI narrative. Beta version.<br>
+    <span class="nfa">Not financial advice.</span> Quotes delayed. Removed with paid version.<br>
+    © 2026 Santro AI. All rights reserved. Uses custom models.
+  </footer>
+
+<script>
+const SHORT={ai_chips_and_compute:"Chips & Compute",ai_software_and_cloud_infrastructure:"Software & Cloud",
+ ai_applications_and_data_software:"Apps & Data",chip_equipment_and_ai_hardware:"Equip & HW",
+ ai_platforms_internet_and_adtech:"Platforms & Ads",data_center_power_and_energy:"DC Power",
+ applied_ai_industrial_defense_and_vertical:"Applied AI"};
+function ago(iso){
+  const m=Math.round((Date.now()-new Date(iso))/60000);
+  if(isNaN(m)) return ""; if(m<60) return m+"m ago";
+  const h=Math.round(m/60); if(h<24) return h+"h ago"; return Math.round(h/24)+"d ago";
+}
+async function load(){
+  try{
+    const d=await (await fetch("news.json?t="+Date.now())).json();
+    document.getElementById("count").textContent=d.count+" stories";
+    document.getElementById("asof").textContent="As of "+d.as_of_utc+" · refreshed ~every 20 min on trading days";
+    document.getElementById("feed").innerHTML=d.items.map(h=>{
+      const tks=(h.tickers||[]).slice(0,4).map(t=>`<span class="chip">${t}</span>`).join("");
+      const secs=[...new Set((h.sectors||[]).map(s=>s.startsWith("etf_")?s.replace("etf_","").toUpperCase()+" ETF":(SHORT[s]||"")).filter(Boolean))].slice(0,2).join(" · ");
+      return `<div class="newsitem">
+        <a href="${h.url}" target="_blank" rel="noopener">${h.title}</a>
+        <div class="meta">${tks}<span>${h.publisher||""}</span><span>· ${ago(h.published)}</span>${secs?`<span>· ${secs}</span>`:""}</div>
+      </div>`;
+    }).join("");
+  }catch(e){
+    document.getElementById("feed").innerHTML='<p class="muted">News feed is loading…</p>';
+  }
+}
+load(); setInterval(load, 120000);
+</script>
+</body>
+</html>

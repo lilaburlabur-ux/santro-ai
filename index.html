@@ -3,7 +3,19 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Santro AI — Stocks Heatmap & Research</title>
+<title>Santro AI — AI stocks heatmap, research & market news</title>
+<meta name="description" content="Live AI stock market dashboard: 83 AI and semiconductor names in 7 sectors as an interactive bubble heatmap, with daily signed research, hot tickers, key takeaways and news. Free, delayed data. Not financial advice." />
+<link rel="canonical" href="https://santroai.tech/" />
+<meta property="og:title" content="Santro AI — AI stocks heatmap, research & market news" />
+<meta property="og:description" content="The AI stock universe as living bubbles: sectors, tickers, ETFs, research and news — refreshed automatically on trading days." />
+<meta property="og:url" content="https://santroai.tech/" />
+<meta property="og:image" content="https://santroai.tech/assets/santro-mascot-day.png" />
+<meta property="og:type" content="website" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","name":"Santro AI",
+ "url":"https://santroai.tech/",
+ "description":"AI stocks heatmap, daily signed research and market news for the AI narrative."}
+</script>
 <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
 <style>
   :root{
@@ -280,8 +292,9 @@
     <nav class="mainnav">
       <button class="nav-link active" id="nav-stocks">Stocks</button>
       <button class="nav-link" id="nav-etfs">ETFs</button>
-      <button class="nav-link soon" title="Coming soon">Crypto<span class="s">SOON</span></button>
-      <button class="nav-link" id="nav-news">News</button>
+      <a class="nav-link" href="/crypto.html" style="text-decoration:none">Crypto</a>
+      <a class="nav-link" href="/news.html" style="text-decoration:none">News</a>
+      <a class="nav-link" href="/research.html" style="text-decoration:none">Research</a>
       <button class="nav-link soon" title="Coming soon">Blog<span class="s">SOON</span></button>
       <details class="nav-more">
         <summary class="nav-link">More ▾</summary>
@@ -1003,10 +1016,13 @@ function navMode(mode, navId){
 }
 document.getElementById("nav-stocks").addEventListener("click", ()=>navMode("universe","nav-stocks"));
 document.getElementById("nav-etfs").addEventListener("click", ()=>navMode("etf","nav-etfs"));
-document.getElementById("nav-news").addEventListener("click", ()=>{
-  setNav("nav-news");
-  document.querySelector(".area-news").scrollIntoView({behavior:"smooth", block:"start"});
-});
+// deep links: /?view=etfs opens the ETF view directly (used by section pages)
+try{
+  const v=new URLSearchParams(location.search).get("view");
+  if(v==="etfs"){ heatMode="etf";
+    document.querySelectorAll(".seg-btn[data-mode]").forEach(x=>x.classList.toggle("active", x.dataset.mode==="etf"));
+    setNav("nav-etfs"); }
+}catch(e){}
 window.addEventListener("resize", ()=>{chart.resize(); render();});
 document.getElementById("reload").addEventListener("click", loadData);
 document.getElementById("theme-toggle").addEventListener("click",

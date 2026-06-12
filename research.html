@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI Stock Research — daily signed reports | Santro AI</title>
+<meta name="description" content="Daily AI stock research journal: momentum-first signed reports on semiconductor and AI names — technicals, fundamentals, institutional ownership, watch levels. Educational, not investment advice." />
+<link rel="canonical" href="https://santroai.tech/research.html" />
+<meta property="og:title" content="AI Stock Research — daily signed reports | Santro AI" />
+<meta property="og:description" content="Momentum-first research journal on AI and semiconductor stocks, re-signed after every market close." />
+<meta property="og:url" content="https://santroai.tech/research.html" />
+<meta property="og:image" content="https://santroai.tech/assets/santro-mascot-day.png" />
+<meta property="og:type" content="website" />
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
+<link rel="stylesheet" href="site.css" />
+</head>
+<body>
+  <header class="pageheader">
+    <a class="logo" href="/" title="Santro AI — dashboard">
+      <span class="logo-s">S<span class="logo-ai">AI</span></span>
+      <span class="logo-rest"><span class="logo-antro">ANTRO</span>
+        <span class="logo-tagline">AI&nbsp;RESEARCH&nbsp;·&nbsp;MARKETS</span></span>
+    </a>
+    <nav class="pagenav">
+      <a class="nav-link" href="/">Stocks</a>
+      <a class="nav-link" href="/?view=etfs">ETFs</a>
+      <a class="nav-link" href="/crypto.html">Crypto</a>
+      <a class="nav-link" href="/news.html">News</a>
+      <a class="nav-link active" href="/research.html">Research</a>
+    </nav>
+  </header>
+
+  <main>
+    <h1>AI Stock Research <span class="badge" id="signed">…</span></h1>
+    <p class="lede">A momentum-first research journal on the AI stock universe. Every trading day,
+    after the close, each covered name gets a re-signed report: technical structure (trend, RSI,
+    ATR, 52-week range), fundamentals, institutional ownership, risk review and watch levels —
+    conditions, never advice. Scores below summarize each name's current setup; the signed file
+    is the full report. For education and decision journaling only — not investment advice.</p>
+    <div class="cardgrid" id="cards"></div>
+    <p class="faint" style="margin-top:18px">Full archive: <a href="research/INDEX.md">research index</a></p>
+  </main>
+
+  <footer>
+    Santro AI — stock heatmap &amp; research journal for the AI narrative. Beta version.<br>
+    <span class="nfa">Not financial advice.</span> Quotes delayed. Removed with paid version.<br>
+    © 2026 Santro AI. All rights reserved. Uses custom models.
+  </footer>
+
+<script>
+const fmtPct=x=>(x>=0?"+":"")+Number(x).toFixed(2)+"%";
+const cls=x=>x>=0?"up":"down";
+function fmtCap(n){
+  if(n==null) return "—";
+  if(n>=1e12) return "$"+(n/1e12).toFixed(2)+"T";
+  if(n>=1e9)  return "$"+(n/1e9).toFixed(1)+"B";
+  return "$"+Math.round(n).toLocaleString();
+}
+async function load(){
+  try{
+    const d=await (await fetch("research/research.json?t="+Date.now())).json();
+    document.getElementById("signed").textContent="Signed "+d.signed;
+    document.getElementById("cards").innerHTML=Object.entries(d.stocks).map(([sym,c])=>`
+      <div class="card">
+        <div class="row"><h3>${sym}</h3><span class="muted">${c.name||""}</span></div>
+        <p class="muted" style="font-size:13px;margin:8px 0">${c.thesis||""}</p>
+        <div class="kv">
+          <div><div class="k">Close · ${c.close_date||""}</div><div class="v">$${c.close}</div></div>
+          <div><div class="k">P/E ttm / fwd</div><div class="v">${c.pe_ttm?Number(c.pe_ttm).toFixed(1):"—"} / ${c.fwd_pe?Number(c.fwd_pe).toFixed(1):"—"}</div></div>
+          <div><div class="k">Market cap</div><div class="v">${fmtCap(c.market_cap)}</div></div>
+          <div><div class="k">Short % float</div><div class="v">${c.short_float!=null?c.short_float+"%":"—"}</div></div>
+        </div>
+        <div class="chips" style="margin-top:10px">
+          <span class="chip">Tech: ${c.scores.technical}</span>
+          <span class="chip">Narrative: ${c.scores.narrative}</span>
+          <span class="chip">Entry: ${c.scores.entry_zone}</span>
+          <span class="chip">R:R ${c.scores.rr??"—"}</span>
+        </div>
+        ${c.report?`<p style="margin:12px 0 0"><a href="research/${c.report}">Signed report →</a></p>`:""}
+      </div>`).join("");
+  }catch(e){
+    document.getElementById("cards").innerHTML='<p class="muted">Research data is loading…</p>';
+  }
+}
+load();
+</script>
+</body>
+</html>

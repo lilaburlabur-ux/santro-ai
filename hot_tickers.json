@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-12T14:52:33+00:00",
+  "as_of": "2026-06-12T15:07:35+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,31 +9,59 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "ARM",
-   "company": "Arm Holdings Plc ADR",
-   "move_pct": 8.21,
-   "price": 370.32,
-   "volume": 5900564,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 56,
-   "direction": "up",
-   "why": "FTC Probe Puts Arm Licensing Model And AGI CPU Plans In Focus",
-   "catalyst_type": "regulatory",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ftc-probe-puts-arm-licensing-121353752.html"
-  },
-  {
-   "rank": 2,
    "ticker": "ADBE",
    "company": "Adobe Inc",
-   "move_pct": -7.37,
-   "price": 202.67,
-   "volume": 13881469,
+   "move_pct": -6.5,
+   "price": 204.57,
+   "volume": 14668244,
    "volume_vs_avg": "~3x",
-   "heat_score": 54,
+   "heat_score": 51,
    "direction": "down",
    "why": "Stock Market Today: Dow Rises On Iran Peace Deal Hopes; SpaceX May Surge 27% In Debut (Live Coverage)",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-iran-deal-spacex-ipo-spcx-stock/?src=A00220&yptr=yahoo"
+  },
+  {
+   "rank": 2,
+   "ticker": "INTC",
+   "company": "Intel Corp",
+   "move_pct": 5.05,
+   "price": 122.87,
+   "volume": 57475020,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 35,
+   "direction": "up",
+   "why": "7 Reasons I'm Avoiding the SpaceX IPO Like the Plague -- and You Should, Too!",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/7-reasons-im-avoiding-spacex-135600777.html"
+  },
+  {
+   "rank": 3,
+   "ticker": "AMD",
+   "company": "Advanced Micro Devices Inc",
+   "move_pct": 5.04,
+   "price": 513.06,
+   "volume": 13341745,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 34,
+   "direction": "up",
+   "why": "Stock Market Today: Dow Rises On Iran Peace Deal Hopes; SpaceX May Surge 27% In Debut (Live Coverage)",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-iran-deal-spacex-ipo-spcx-stock/?src=A00220&yptr=yahoo"
+  },
+  {
+   "rank": 4,
+   "ticker": "TER",
+   "company": "Teradyne Inc",
+   "move_pct": 5.03,
+   "price": 400.58,
+   "volume": 949767,
+   "volume_vs_avg": "~0.2x",
+   "heat_score": 34,
+   "direction": "up",
+   "why": "Rocket Lab, CoreWeave, and 3 More Stocks That Are Joining the Nasdaq 100",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.barrons.com/articles/rocket-lab-stock-nasdaq-join-coreweave-058ed32f?siteid=yhoof2&yptr=yahoo"
   }
  ]
 }

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-06-12T23:27:56+00:00",
-  "as_of_local": "2026-06-12 23:27:56 UTC",
+  "as_of_utc": "2026-06-12T23:33:03+00:00",
+  "as_of_local": "2026-06-12 23:33:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -143,6 +141,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-ended-friday-session-203722772.html",
           "publisher": "Stocktwits",
           "published": "2026-06-12T20:37:22Z"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 124.57,
+      "previous_close": 116.96,
+      "change_pct": 6.51,
+      "market_cap": 626088818466.1865,
+      "headlines": [
+        {
+          "title": "SpaceX stock gains, space companies fall, chips mixed on IPO news",
+          "url": "https://finance.yahoo.com/video/spacex-stock-gains-space-companies-fall-chips-mixed-on-ipo-news-195735942.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-06-12T19:57:35Z"
+        },
+        {
+          "title": "Poet Technologies Skyrocketed Today -- Is the Stock a Buy Right Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/poet-technologies-skyrocketed-today-stock-230455554.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-12T23:04:55Z"
+        },
+        {
+          "title": "5 Reasons to Buy Celsius Stock Right Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-reasons-buy-celsius-stock-222300791.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-12T22:23:00Z"
         }
       ]
     },
@@ -531,8 +557,8 @@
     },
     {
       "label": "BTC",
-      "price": 63418.41,
-      "change_pct": -0.22
+      "price": 63394.87,
+      "change_pct": -0.26
     },
     {
       "label": "Gold",

@@ -312,6 +312,25 @@ function showSector(g){
     <div class="chips">${g.industries_included.map(i=>`<span class="chip">${i}</span>`).join("")}</div>`;
 }
 
+function showEcoOverview(){
+  const rows=eco.tickers.map(t=>`
+      <tr><td><a href="t.html?sym=${encodeURIComponent(t.ticker)}" title="Open the ${t.ticker} page">${t.ticker}</a></td>
+        <td class="co">${t.company||""}</td>
+        <td class="num">$${(t.price??0).toFixed(2)}</td>
+        <td class="num ${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</td>
+        <td class="num">${t.market_cap_b?fmtCap(t.market_cap_b*1e9):"—"}</td>
+        <td class="num">${t.pe==null?"—":t.pe}</td>
+        <td class="num">${fmtVol(t.volume)}</td></tr>`).join("");
+  document.getElementById("detail").innerHTML=`
+    <div class="row"><h3>NVIDIA Ecosystem</h3>
+      <span class="muted">all ${eco.tickers.length} members by market cap</span></div>
+    <div class="sec-label">Ticker opens its page · click a bubble for the full card</div>
+    <table class="sect-tbl"><thead>
+      <tr><th>Ticker</th><th>Company</th><th class="num">Price</th><th class="num">1D</th>
+        <th class="num">Cap</th><th class="num">P/E</th><th class="num">Volume</th></tr></thead>
+      <tbody>${rows}</tbody></table>`;
+}
+
 function showTicker(t){
   selected=t.ticker;
   const basket = mode==="eco" ? "NVIDIA Ecosystem" : (uniGroup ? (UNI_SHORT[uniGroup.id]||uniGroup.label) : "AI Universe");
@@ -340,8 +359,9 @@ function applyView(){
   if(mode==="eco" && eco){
     title.textContent=`NVIDIA Ecosystem · ${eco.tickers.length} names · sized by day move`;
     render();
-    const t=eco.tickers.find(x=>x.ticker===selected) || eco.tickers[0];
-    if(t) showTicker(t);
+    // no selection yet → whole basket as a table; bubble click swaps to the card
+    const t=eco.tickers.find(x=>x.ticker===selected);
+    t ? showTicker(t) : showEcoOverview();
   } else if(universe){
     title.textContent = uniGroup
       ? `${uniGroup.label} · sized by day move`

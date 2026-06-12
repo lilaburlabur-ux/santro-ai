@@ -884,6 +884,21 @@ function showGroupDetail(g){
     <div class="chips">${g.industries_included.map(i=>`<span class="chip">${i}</span>`).join("")}</div>`;
 }
 
+function showEcoOverview(){
+  document.getElementById("detail-title").innerHTML=
+    `NVIDIA Ecosystem <span class="badge live">${eco.tickers.length} names</span>`;
+  const rows=eco.tickers.map(t=>`
+      <tr><td><a href="t.html?sym=${encodeURIComponent(t.ticker)}" title="Open the ${t.ticker} page">${t.ticker}</a></td>
+        <td class="num">$${(t.price??0).toFixed(2)}</td>
+        <td class="num ${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</td>
+        <td class="num">${t.market_cap_b?fmtCap(t.market_cap_b*1e9):"—"}</td></tr>`).join("");
+  document.getElementById("detail").innerHTML=`
+    <div class="sec-label" style="margin-top:0">All members by market cap · ticker opens its page · click a bubble for the full card</div>
+    <table class="sect-tbl"><thead>
+      <tr><th>Ticker</th><th class="num">Price</th><th class="num">1D</th><th class="num">Cap</th></tr></thead>
+      <tbody>${rows}</tbody></table>`;
+}
+
 function showUniverseDetail(t){
   document.getElementById("detail-title").innerHTML=
     `Selected — ${t.ticker} <span class="badge live">${uniGroup?(UNI_SHORT[uniGroup.id]||uniGroup.label):(heatMode==="eco"?"NVIDIA Ecosystem":"AI Universe")}</span>`;
@@ -1086,8 +1101,9 @@ function applyHeat(){
     document.getElementById("heat-title").textContent =
       `NVIDIA Ecosystem · ${eco.tickers.length} names · sized by day move`;
     render();
-    const t = eco.tickers.find(x=>x.ticker===selectedSymbol) || eco.tickers[0];
-    if(t){ selectedSymbol=t.ticker; showUniverseDetail(t); }
+    // no selection yet → the whole basket as a table; a click swaps to the ticker card
+    const t = eco.tickers.find(x=>x.ticker===selectedSymbol);
+    t ? showUniverseDetail(t) : showEcoOverview();
     return;
   }
   const etfMode = heatMode==="etf" && etf;

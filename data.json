@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-06-12T21:31:33+00:00",
-  "as_of_local": "2026-06-12 21:31:33 UTC",
+  "as_of_utc": "2026-06-12T21:36:39+00:00",
+  "as_of_local": "2026-06-12 21:36:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -173,40 +175,12 @@
       ]
     },
     {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 380.81,
-      "previous_close": 342.23,
-      "change_pct": 11.27,
-      "market_cap": 405202332977.22235,
-      "headlines": [
-        {
-          "title": "Billionaire Brad Gerstner Dumped All of His Alphabet Then Bought 2 Stocks Nobody Expected",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-brad-gerstner-dumped-alphabet-185647127.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-06-12T18:56:47Z"
-        },
-        {
-          "title": "Arm Rockets 11%, Qualcomm Rises 5%: Who\u2019s Winning the Chip-Architecture Race?",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/arm-rockets-11-qualcomm-rises-183100499.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-06-12T18:31:00Z"
-        },
-        {
-          "title": "Is Arm Holdings plc (ARM) A Good Stock To Buy Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-plc-arm-good-161406071.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-12T16:14:06Z"
-        }
-      ]
-    },
-    {
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "price": 279.7,
       "previous_close": 280.71,
       "change_pct": -0.36,
-      "market_cap": 244681570678.71094,
+      "market_cap": 244892233176.00494,
       "headlines": [
         {
           "title": "Investing.com\u2019s stocks of the week",
@@ -557,8 +531,8 @@
     },
     {
       "label": "BTC",
-      "price": 63504.0,
-      "change_pct": -0.09
+      "price": 63498.46,
+      "change_pct": -0.1
     },
     {
       "label": "Gold",

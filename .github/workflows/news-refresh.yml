@@ -1,10 +1,12 @@
 name: News refresh (full scope)
 
-# Headlines for all 83 universe tickers + ETFs, every ~20 min from premarket
-# through after-hours on trading days.
+# Headlines for all 83 universe tickers + ETFs, every ~20 min across the FULL
+# extended session: premarket open 4:00 ET (8 UTC) through after-hours close
+# 20:00 ET (0 UTC). The old 12-22 UTC window left premarket on stale news.
 on:
   schedule:
-    - cron: "*/20 12-22 * * 1-5"
+    - cron: "*/20 8-23 * * 1-5"
+    - cron: "*/20 0 * * 2-6"
   workflow_dispatch:
 
 permissions:

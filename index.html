@@ -6,6 +6,8 @@
 <title>Santro AI — AI stocks bubble map, research & market news</title>
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
 <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png" />
+<link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
 <meta name="description" content="Live AI stock market dashboard: 83 AI and semiconductor names in 7 sectors as an interactive bubble map, with daily signed research, hot tickers, key takeaways and news. Free, delayed data. Not financial advice." />
 <link rel="canonical" href="https://santroai.tech/" />
@@ -15,9 +17,15 @@
 <meta property="og:image" content="https://santroai.tech/assets/santro-mascot-day.png" />
 <meta property="og:type" content="website" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","name":"Santro AI",
- "url":"https://santroai.tech/",
- "description":"AI stocks bubble map, daily signed research and market news for the AI narrative."}
+{"@context":"https://schema.org","@graph":[
+ {"@type":"Organization","@id":"https://santroai.tech/#org","name":"Santro AI",
+  "url":"https://santroai.tech/",
+  "logo":{"@type":"ImageObject","url":"https://santroai.tech/assets/brand/logo-1024.png","width":1024,"height":1024},
+  "email":"hello@santroai.tech",
+  "description":"Bubble map and research journal for the AI narrative: live AI-sector bubbles, hot tickers with the why, signed research and market news."},
+ {"@type":"WebSite","name":"Santro AI","url":"https://santroai.tech/",
+  "publisher":{"@id":"https://santroai.tech/#org"},
+  "description":"AI stocks bubble map, daily signed research and market news for the AI narrative."}]}
 </script>
 <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
 <style>

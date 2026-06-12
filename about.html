@@ -3,16 +3,63 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>About — Santro AI</title>
-<meta name="description" content="Santro AI is an AI-markets research journal: a living bubble map of the AI stock universe, daily signed research, ETF and crypto coverage, and news — built for traders who track the AI narrative." />
+<title>About Santro AI — the bubble map & research journal for the AI narrative</title>
+<meta name="description" content="Santro AI tracks the AI trade: a live bubble map of the whole AI sector, hot tickers with the reason they're hot, and research key takeaways — refreshed automatically, built on a transparent, anti-bias methodology." />
 <link rel="canonical" href="https://santroai.tech/about.html" />
-<meta property="og:title" content="About — Santro AI" />
-<meta property="og:description" content="The AI markets, mapped: bubble map, research journal, news." />
-<meta property="og:url" content="https://santroai.tech/about.html" />
-<meta property="og:image" content="https://santroai.tech/assets/santro-mascot-day.png" />
 <meta property="og:type" content="website" />
+<meta property="og:site_name" content="Santro AI" />
+<meta property="og:title" content="About Santro AI — bubble map & research for the AI narrative" />
+<meta property="og:description" content="Live AI-sector bubble map, hot tickers with the why, and research key takeaways. Transparent methodology, no hype." />
+<meta property="og:url" content="https://santroai.tech/about.html" />
+<meta property="og:image" content="https://santroai.tech/assets/santro-mascot-night.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="About Santro AI" />
+<meta name="twitter:description" content="The bubble map & research journal for the AI narrative." />
+<meta name="twitter:image" content="https://santroai.tech/assets/santro-mascot-night.png" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Organization","name":"Santro AI",
+ "url":"https://santroai.tech","logo":"https://santroai.tech/assets/santro-mascot-night.png",
+ "description":"Bubble map and research journal for the AI narrative. Live AI-sector bubbles, hot tickers, and research key takeaways."}
+</script>
 <script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
 <link rel="stylesheet" href="site.css" />
+<style>
+  .hero{display:grid; grid-template-columns:1.4fr 1fr; gap:32px; align-items:center; padding:34px 0 28px;}
+  .hero h1{font-size:32px; line-height:1.2; margin:0 0 14px;}
+  .hero h1 em{color:#22c55e; font-style:normal;}
+  .hero p{color:var(--muted); font-size:16.5px; margin:0 0 18px;}
+  .mono{font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace;}
+  .mascot{width:100%; max-width:270px; margin:0 auto; display:block;
+    filter:drop-shadow(0 8px 30px rgba(52,211,153,.15));}
+  .tape{display:flex; gap:8px; flex-wrap:wrap; padding:0 0 30px;}
+  .tile{flex:1 1 90px; border-radius:8px; padding:10px 12px; font-size:12.5px;}
+  .tile b{display:block; font-size:14px;}
+  .t-up1{background:rgba(52,211,153,.16); color:#22c55e;}
+  .t-up2{background:rgba(52,211,153,.30); color:#22c55e;}
+  .t-dn1{background:rgba(248,113,113,.14); color:var(--red);}
+  .t-dn2{background:rgba(248,113,113,.28); color:var(--red);}
+  section{padding:30px 0; border-top:1px solid var(--border-soft);}
+  h2{font-size:22px; margin:0 0 6px;}
+  .sub{color:var(--faint); font-size:14px; margin:0 0 20px;}
+  .card .ico{font-size:20px; margin-bottom:8px; display:block;}
+  .quote{border-left:3px solid #22c55e; padding:4px 0 4px 18px; color:var(--muted); font-size:15px;}
+  .pillars{display:grid; gap:10px; margin-top:18px;}
+  .pillar{display:grid; grid-template-columns:190px 1fr 46px; gap:12px; align-items:center; font-size:13.5px;}
+  .bar{height:10px; border-radius:999px; background:var(--panel-2); overflow:hidden; border:1px solid var(--border-soft);}
+  .bar i{display:block; height:100%; border-radius:999px;}
+  .pillar .pct{color:var(--muted); text-align:right;}
+  .cycle{display:flex; margin-top:18px; border:1px solid var(--border); border-radius:12px; overflow:hidden;}
+  .step{flex:1; padding:14px; background:var(--panel); font-size:12.5px; color:var(--muted); border-left:1px solid var(--border-soft);}
+  .step:first-child{border-left:none;}
+  .step b{display:block; color:var(--text); font-size:13px; margin-bottom:3px;}
+  .step .h{color:#22c55e; font-size:11px;}
+  .stats{display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:14px;}
+  .stat{background:var(--panel); border:1px solid var(--border); border-radius:12px; padding:16px 18px; text-align:center;}
+  .stat b{display:block; font-size:26px; color:#22c55e;}
+  .stat span{font-size:12.5px; color:var(--muted);}
+  @media (max-width:760px){ .hero{grid-template-columns:1fr;}
+    .pillar{grid-template-columns:130px 1fr 40px;} .cycle{flex-wrap:wrap;} .step{flex:1 1 45%;} }
+</style>
 </head>
 <body>
   <header class="pageheader">
@@ -32,33 +79,113 @@
   </header>
 
   <main>
-    <h1>About Santro AI <span class="badge amber">Beta</span></h1>
-    <p class="lede">Santro AI maps the AI side of the markets so you can read it in seconds.</p>
-
-    <div class="card" style="margin-bottom:14px">
-      <h3>What this is</h3>
-      <p class="muted">A living <b>bubble map</b> of the AI stock universe — 83 names across seven
-      sectors — where bubble size follows the day's move and color follows direction. Around the
-      map: a daily research journal with signed per-stock reports, key takeaways refreshed through
-      the trading day, a hot-tickers attention scan, AI-related ETF coverage, and a deduplicated
-      news feed tagged by ticker and sector. Crypto coverage is being connected.</p>
+    <div class="hero">
+      <div>
+        <span class="badge amber">Beta</span>
+        <h1>We track the <em>AI trade</em> so you don't drown in it.</h1>
+        <p>Santro AI is a bubble map and research journal focused on one thing: the AI narrative
+        across markets — chips, optics, memory, power, software. Stocks and ETFs across the US,
+        Europe, and Asia. Data refreshed automatically, with a researched answer to
+        <span class="mono">why</span> it's moving.</p>
+        <p class="mono" style="font-size:13px;color:var(--faint)">bubbles → hot tickers → key takeaways → research journal</p>
+      </div>
+      <img class="mascot" id="about-mascot" src="assets/santro-mascot-night.png" alt="Santro AI mascot" />
     </div>
 
-    <div class="card" style="margin-bottom:14px">
-      <h3>How it works</h3>
-      <p class="muted">Market data is free, delayed (~15 minutes) and refreshed automatically on
-      trading days. Research follows a momentum-first methodology: structure, levels and
-      conditions — never buy/sell instructions. When something moves on no news, the site says
-      exactly that.</p>
+    <div class="tape" aria-hidden="true">
+      <div class="tile t-dn2"><b>SMCI</b>-28.0%</div>
+      <div class="tile t-up2"><b>AXTI</b>+11.0%</div>
+      <div class="tile t-dn1"><b>MU</b>-4.7%</div>
+      <div class="tile t-up1"><b>BBAI</b>+3.1%</div>
+      <div class="tile t-dn1"><b>NVDA</b>-3.7%</div>
+      <div class="tile t-dn2"><b>QCOM</b>-6.9%</div>
     </div>
 
-    <div class="card">
-      <h3>What this is not</h3>
-      <p class="muted">Not investment advice, not a broker, not real-time data. Santro AI is an
-      educational research journal. Markets move fast; always do your own research.</p>
-    </div>
+    <section>
+      <h2>Who we are</h2>
+      <p class="sub">A small team with a trader's eye and an engineer's discipline</p>
+      <p style="color:var(--muted);max-width:760px">
+        Santro AI is inspired by the AI boom — a wave that creates real opportunity and real edge,
+        yet there was no simple tool to track it. So we decided to build one. It started as a
+        personal trading terminal: one screen to see the whole AI sector breathing — what's
+        running, what's bleeding, and what the story is. It's built on experience trading across
+        asset classes — stocks, ETFs, US and international markets — with one goal: connect it
+        all in one place.
+      </p>
+      <div class="quote" style="margin-top:16px">Hot means attention, not direction. A stock down
+      28% on a $7B dilution is the day's biggest story — a feed that only shows winners is lying
+      to you.</div>
+    </section>
 
-    <p class="faint" style="margin-top:18px">Santro Chat — an AI assistant for the site — is coming soon.</p>
+    <section>
+      <h2>What you get</h2>
+      <p class="sub">Four sections, one focus: the AI narrative</p>
+      <div class="cardgrid">
+        <div class="card"><span class="ico">◉</span><h3>AI universe bubbles</h3><p class="muted">The full
+        AI complex — semis, optics, memory, software, power — as live bubbles sized by the day's
+        move and colored by the tape. Stocks and ETFs across the US, Europe, and Asia, in one view.</p></div>
+        <div class="card"><span class="ico">🔥</span><h3>Hot tickers</h3><p class="muted">What's moving
+        right now and the sourced one-sentence reason why. Losers and no-news movers included —
+        attention is the metric.</p></div>
+        <div class="card"><span class="ico">✓</span><h3>Key takeaways</h3><p class="muted">A
+        session-aware research digest: market read, sector rotation, single-name stories, watch
+        levels — from premarket to the overnight handoff.</p></div>
+        <div class="card"><span class="ico">✦</span><h3>News with AI</h3><p class="muted">The headlines
+        that actually move AI names, filtered from the noise and tied to the tickers they touch.</p></div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Why we're effective</h2>
+      <p class="sub">A written methodology, not vibes — every claim sourced, every cycle on the clock</p>
+      <div class="pillars">
+        <div class="pillar"><span>Technicals &amp; momentum</span><div class="bar"><i style="width:45%;background:#22c55e"></i></div><span class="pct">45%</span></div>
+        <div class="pillar"><span>Narrative &amp; catalysts</span><div class="bar"><i style="width:30%;background:#60a5fa"></i></div><span class="pct">30%</span></div>
+        <div class="pillar"><span>Valuation</span><div class="bar"><i style="width:15%;background:#a78bfa"></i></div><span class="pct">15%</span></div>
+        <div class="pillar"><span>Macro stability</span><div class="bar"><i style="width:10%;background:#fbbf24"></i></div><span class="pct">10%</span></div>
+      </div>
+      <p style="font-size:13px;color:var(--faint);margin-top:10px">How every name is scored —
+      momentum first, because that's what moves, but never momentum alone.</p>
+
+      <div class="cycle">
+        <div class="step"><span class="h">continuously</span><b>Scan</b>Bubble movers, screeners, filings, news</div>
+        <div class="step"><span class="h">always</span><b>Verify</b>Every price dated, every figure sourced</div>
+        <div class="step"><span class="h">mandatory</span><b>Challenge</b>Bear case, short interest — what would break this thesis</div>
+        <div class="step"><span class="h">then</span><b>Publish</b>Takeaway cards you can read in under a minute</div>
+      </div>
+
+      <div class="cardgrid" style="margin-top:14px">
+        <div class="card"><span class="ico">⚖</span><h3>Anti-bias by design</h3><p class="muted">Every
+        bullish read ships with its strongest counter-argument. We search for the bear case on
+        purpose — the value of research is the bad trades it prevents.</p></div>
+        <div class="card"><span class="ico">⏱</span><h3>Always scanning</h3><p class="muted">Data
+        refreshed automatically through the trading day, research published session by session.
+        Real-time data is on the roadmap — until then we'd rather be honest about a short delay
+        than pretend it's live.</p></div>
+        <div class="card"><span class="ico">∅</span><h3>No advice, no hype</h3><p class="muted">Watch
+        levels framed as conditions, never instructions. Custom models curate and rank what
+        matters; no "massive", no "moon", no first-person trade calls.</p></div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Santro in numbers</h2>
+      <div class="stats">
+        <div class="stat"><b>83</b><span>AI tickers tracked across 7 sector bubbles</span></div>
+        <div class="stat"><b>60s</b><span>page refresh cycle on trading days</span></div>
+        <div class="stat"><b>3</b><span>regions covered: US, Europe, Asia</span></div>
+        <div class="stat"><b>0</b><span>buy/sell calls — we publish research, you decide</span></div>
+      </div>
+    </section>
+
+    <section>
+      <h2>What's next</h2>
+      <p class="sub">The roadmap, in the open</p>
+      <p style="color:var(--muted);max-width:760px">Real-time market data, the crypto universe,
+      the blog, German and Russian versions, an <b style="color:var(--text)">iOS app</b> on the
+      App Store, and <b style="color:var(--text)">Santro Chat</b> — ask the terminal questions in
+      plain language. The beta is free while we build.</p>
+    </section>
   </main>
 
   <footer>
@@ -66,5 +193,13 @@
     <span class="nfa">Not financial advice.</span> Quotes delayed. Removed with paid version.<br>
     © 2026 Santro AI. All rights reserved. Uses custom models.
   </footer>
+
+<script>
+// mascot follows the theme: black body by day, white by night
+(function(){
+  const m=document.getElementById("about-mascot");
+  if(m && document.documentElement.dataset.theme==="light") m.src="assets/santro-mascot-day.png";
+})();
+</script>
 </body>
 </html>

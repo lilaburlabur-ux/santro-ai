@@ -239,6 +239,13 @@
     font-variant-numeric:tabular-nums;}
   .spcx-px .chg{font-size:14px; font-weight:700; margin-top:2px;}
   .spcx-px .ref{font-size:10px; color:var(--faint); margin-top:2px; text-transform:uppercase; letter-spacing:.4px;}
+  .spcx-srclbl{font-size:9.5px; letter-spacing:.7px; text-transform:uppercase; color:var(--faint);
+    font-weight:700; padding:11px 0 3px;}
+  .spcx-tweet{padding:8px 0; border-bottom:1px solid var(--border-soft); line-height:1.45;}
+  .spcx-tweet:last-of-type{border-bottom:0;}
+  .spcx-tweet a{color:var(--text); text-decoration:none; font-size:12.5px; font-weight:600;}
+  .spcx-tweet a:hover{color:var(--accent-2);}
+  .spcx-tweet .m{color:var(--faint); font-size:11px; margin-top:2px;}
   .spcx-news{padding-top:4px;}
   .spcx-item{padding:9px 0; border-bottom:1px solid var(--border-soft); line-height:1.4;}
   .spcx-item:last-child{border-bottom:0;}
@@ -447,6 +454,7 @@ let hotData=null;                  // hot_tickers.json — 15-min hot-tickers sc
 let universe=null, uniGroup=null;  // universe.json — 83-ticker AI universe in 7 themed bubbles
 let eco=null;                      // ecosystem.json — 30-name NVIDIA Ecosystem basket
 let newsFeed=null;                 // news.json — deduped headlines for the FULL scope (universe + ETFs)
+let tweets=null;                   // tweets.json — @DeItaone SPCX squawk via Telegram mirror
 
 // short labels that fit inside small group bubbles (full label in tooltip/detail)
 const UNI_SHORT={
@@ -916,13 +924,21 @@ function renderSpaceX(){
         <div class="ref">${traded?"vs IPO $135.00":"IPO price · awaiting first trade"}</div></div>
     </div>`;
   }
+  const tw=(tweets&&tweets.items?tweets.items:[]).slice(0,4);
+  if(tw.length){
+    h+=`<div class="spcx-srclbl">𝕏 ${tweets.meta.handle} · live squawk</div>`
+      +tw.map(it=>`
+      <div class="spcx-tweet"><a href="${it.url}" target="_blank" rel="noopener">${it.text}</a>
+        <div class="m">${timeAgo(it.time)}</div></div>`).join("");
+  }
   const items=(newsFeed&&newsFeed.items?newsFeed.items:[])
     .filter(it=>(it.tickers||[]).includes("SPCX") || /spacex|space exploration/i.test(it.title||""))
-    .slice(0,5);
-  h+=`<div class="spcx-news">`+(items.length?items.map(it=>`
+    .slice(0,4);
+  h+=`<div class="spcx-news">${items.length?`<div class="spcx-srclbl">Headlines</div>`:""}`
+    +(items.length?items.map(it=>`
     <div class="spcx-item"><a href="${it.link||"#"}" target="_blank" rel="noopener">${it.title}</a>
       <div class="m">${it.publisher||""}${it.published?" · "+timeAgo(it.published):""}</div></div>`).join("")
-    :`<div class="spcx-wait">Waiting for fresh SpaceX headlines — feed updates every 20 minutes…</div>`)+`</div>`;
+    :(tw.length?"":`<div class="spcx-wait">Waiting for fresh SpaceX headlines — feed updates every 20 minutes…</div>`))+`</div>`;
   el.innerHTML=h;
 }
 function renderTakeaways(){
@@ -1012,6 +1028,8 @@ async function loadData(){
     }catch(e){ universe=null; uniGroup=null; }
     try{ eco=await (await fetch("ecosystem.json?t="+Date.now())).json(); }
     catch(e){ eco=null; }
+    try{ tweets=await (await fetch("tweets.json?t="+Date.now())).json(); }
+    catch(e){ tweets=null; }
     try{ newsFeed=await (await fetch("news.json?t="+Date.now())).json(); }
     catch(e){ newsFeed=null; }
     document.getElementById("asof").textContent="As of "+d.as_of_local;

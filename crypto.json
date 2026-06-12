@@ -1,186 +1,226 @@
 {
- "as_of": "2026-06-12 17:08 UTC",
- "source": "CoinMarketCap",
+ "as_of": "2026-06-12 17:11 UTC",
+ "source": "CoinMarketCap \u00b7 AI & Big Data category, top 20 by market cap",
  "coins": [
   {
-   "symbol": "BTC",
-   "name": "Bitcoin",
-   "price": 64026.37315965363,
-   "change_24h": 2.59,
-   "market_cap": 1283205366250.475,
-   "volume_24h": 30124534207.628845,
-   "rank": 1
-  },
-  {
-   "symbol": "ETH",
-   "name": "Ethereum",
-   "price": 1673.9590499889446,
-   "change_24h": 2.37,
-   "market_cap": 202020548381.31503,
-   "volume_24h": 12023312327.46013,
-   "rank": 2
-  },
-  {
-   "symbol": "SOL",
-   "name": "Solana",
-   "price": 67.93910966411656,
-   "change_24h": 4.04,
-   "market_cap": 39392774632.39807,
-   "volume_24h": 2696478074.858457,
-   "rank": 3
-  },
-  {
+   "rank": 1,
+   "id": 6535,
    "symbol": "NEAR",
    "name": "NEAR Protocol",
-   "price": 2.0658280602045327,
-   "change_24h": 4.01,
-   "market_cap": 2681525089.8947625,
-   "volume_24h": 418751122.9122958,
-   "rank": 4
+   "slug": "near-protocol",
+   "price": 2.0665049925214385,
+   "change_24h": 3.92,
+   "market_cap": 2682403774.34,
+   "volume_24h": 418506166.3261634
   },
   {
+   "rank": 2,
+   "id": 22974,
    "symbol": "TAO",
    "name": "Bittensor",
-   "price": 213.96968014792975,
-   "change_24h": 3.78,
-   "market_cap": 2355515110.0599484,
-   "volume_24h": 158556710.94290295,
-   "rank": 5
+   "slug": "bittensor",
+   "price": 214.485939392003,
+   "change_24h": 4.14,
+   "market_cap": 2361198422.06,
+   "volume_24h": 158821243.24865228
   },
   {
-   "symbol": "WLD",
-   "name": "Worldcoin",
-   "price": 0.4674674741881018,
-   "change_24h": -4.46,
-   "market_cap": 1587407652.9572842,
-   "volume_24h": 724199883.4177045,
-   "rank": 6
+   "rank": 3,
+   "id": 7326,
+   "symbol": "DEXE",
+   "name": "DeXe",
+   "slug": "dexe",
+   "price": 20.97395296429876,
+   "change_24h": 2.05,
+   "market_cap": 1756226299.2,
+   "volume_24h": 68412267.12440574
   },
   {
+   "rank": 4,
+   "id": 8916,
    "symbol": "ICP",
    "name": "Internet Computer",
-   "price": 2.29236473834013,
-   "change_24h": 2.85,
-   "market_cap": 1268666521.1502035,
-   "volume_24h": 52536553.66263668,
-   "rank": 7
+   "slug": "internet-computer",
+   "price": 2.300747610374933,
+   "change_24h": 3.26,
+   "market_cap": 1273305865.37,
+   "volume_24h": 52713736.62949577
   },
   {
+   "rank": 5,
+   "id": 5690,
    "symbol": "RENDER",
    "name": "Render",
-   "price": 1.6789125148937625,
-   "change_24h": 8.77,
-   "market_cap": 870924552.9333307,
-   "volume_24h": 48744652.87626854,
-   "rank": 8
+   "slug": "render",
+   "price": 1.6811307824569537,
+   "change_24h": 8.82,
+   "market_cap": 872075264.28,
+   "volume_24h": 48830850.63004571
   },
   {
+   "rank": 6,
+   "id": 35509,
+   "symbol": "VVV",
+   "name": "Venice Token",
+   "slug": "venice-token",
+   "price": 14.869437056595373,
+   "change_24h": 11.03,
+   "market_cap": 697820766.7,
+   "volume_24h": 45083914.55429384
+  },
+  {
+   "rank": 7,
+   "id": 3987,
+   "symbol": "BDX",
+   "name": "Beldex",
+   "slug": "beldex",
+   "price": 0.07858411598962073,
+   "change_24h": -0.64,
+   "market_cap": 608104883.3,
+   "volume_24h": 14222214.21554207
+  },
+  {
+   "rank": 8,
+   "id": 7226,
+   "symbol": "INJ",
+   "name": "Injective",
+   "slug": "injective",
+   "price": 5.165183516528577,
+   "change_24h": 1.51,
+   "market_cap": 516368326.32,
+   "volume_24h": 131350081.04659788
+  },
+  {
+   "rank": 9,
+   "id": 3773,
    "symbol": "FET",
    "name": "Artificial Superintelligence Alliance",
-   "price": 0.19079949636005583,
-   "change_24h": 3.67,
-   "market_cap": 430993375.059235,
-   "volume_24h": 162849670.69470248,
-   "rank": 9
+   "slug": "artificial-superintelligence-alliance",
+   "price": 0.1909737320477651,
+   "change_24h": 3.62,
+   "market_cap": 431386952.76,
+   "volume_24h": 163060150.43766615
   },
   {
+   "rank": 10,
+   "id": 29420,
    "symbol": "VIRTUAL",
    "name": "Virtuals Protocol",
-   "price": 0.6158484196298697,
-   "change_24h": 8.24,
-   "market_cap": 404647866.6339748,
-   "volume_24h": 92352799.84570442,
-   "rank": 10
+   "slug": "virtual-protocol",
+   "price": 0.618592915306378,
+   "change_24h": 8.7,
+   "market_cap": 406451158.3,
+   "volume_24h": 92497595.15004756
   },
   {
+   "rank": 11,
+   "id": 37298,
+   "symbol": "VELVET",
+   "name": "Velvet",
+   "slug": "velvet",
+   "price": 0.9612160706782693,
+   "change_24h": 7.11,
+   "market_cap": 404452877.13,
+   "volume_24h": 135373095.9307184
+  },
+  {
+   "rank": 12,
+   "id": 35766,
+   "symbol": "SIREN",
+   "name": "siren",
+   "slug": "siren-bsc",
+   "price": 0.4797982866457338,
+   "change_24h": -18.92,
+   "market_cap": 348226040.05,
+   "volume_24h": 52672831.00418776
+  },
+  {
+   "rank": 13,
+   "id": 38339,
+   "symbol": "UB",
+   "name": "Unibase",
+   "slug": "unibase",
+   "price": 0.1389793024100649,
+   "change_24h": 6.64,
+   "market_cap": 347448256.03,
+   "volume_24h": 30307726.38633332
+  },
+  {
+   "rank": 14,
+   "id": 38828,
+   "symbol": "KITE",
+   "name": "Kite",
+   "slug": "kite",
+   "price": 0.19077059255447132,
+   "change_24h": -1.74,
+   "market_cap": 343387066.6,
+   "volume_24h": 27060919.30356427
+  },
+  {
+   "rank": 15,
+   "id": 36300,
+   "symbol": "SKYAI",
+   "name": "SKYAI",
+   "slug": "skyai",
+   "price": 0.30926627791064865,
+   "change_24h": 26.35,
+   "market_cap": 309266277.91,
+   "volume_24h": 78450858.73756617
+  },
+  {
+   "rank": 16,
+   "id": 6719,
    "symbol": "GRT",
    "name": "The Graph",
-   "price": 0.019686142305006676,
-   "change_24h": 2.96,
-   "market_cap": 213626827.1676251,
-   "volume_24h": 15818540.9448742,
-   "rank": 11
+   "slug": "the-graph",
+   "price": 0.019757559497607484,
+   "change_24h": 3.47,
+   "market_cap": 214401820.46,
+   "volume_24h": 15835843.07711171
   },
   {
+   "rank": 17,
+   "id": 7431,
    "symbol": "AKT",
    "name": "Akash Network",
-   "price": 0.6287836687301123,
-   "change_24h": 3.15,
-   "market_cap": 185310371.55024442,
-   "volume_24h": 5718991.48105409,
-   "rank": 12
+   "slug": "akash-network",
+   "price": 0.6266243798054286,
+   "change_24h": 2.73,
+   "market_cap": 184674002.23,
+   "volume_24h": 5727692.85152841
   },
   {
+   "rank": 18,
+   "id": 2467,
+   "symbol": "TRAC",
+   "name": "OriginTrail",
+   "slug": "origintrail",
+   "price": 0.35756681519382627,
+   "change_24h": 1.04,
+   "market_cap": 178783407.6,
+   "volume_24h": 4063469.13784904
+  },
+  {
+   "rank": 19,
+   "id": 2416,
    "symbol": "THETA",
    "name": "Theta Network",
-   "price": 0.1565243993087905,
-   "change_24h": 0.57,
-   "market_cap": 156524399.3087905,
-   "volume_24h": 7367379.40032023,
-   "rank": 13
+   "slug": "theta-network",
+   "price": 0.1568617478623942,
+   "change_24h": 0.74,
+   "market_cap": 156861747.86,
+   "volume_24h": 7405857.47711894
   },
   {
-   "symbol": "KAITO",
-   "name": "KAITO",
-   "price": 0.42050014879867387,
-   "change_24h": 2.61,
-   "market_cap": 101504063.74284656,
-   "volume_24h": 11959680.70877502,
-   "rank": 14
-  },
-  {
-   "symbol": "GRASS",
-   "name": "Grass",
-   "price": 0.38199169820799767,
-   "change_24h": 6.22,
-   "market_cap": 93169719.9126662,
-   "volume_24h": 22805168.08914914,
-   "rank": 15
-  },
-  {
-   "symbol": "AIOZ",
-   "name": "AIOZ Network",
-   "price": 0.05569576565709137,
-   "change_24h": 0.55,
-   "market_cap": 70132318.37853043,
-   "volume_24h": 3372643.15674925,
-   "rank": 16
-  },
-  {
-   "symbol": "IO",
-   "name": "io.net",
-   "price": 0.17610212042668508,
-   "change_24h": 6.46,
-   "market_cap": 61554224.87080701,
-   "volume_24h": 40700570.78421056,
-   "rank": 17
-  },
-  {
-   "symbol": "TURBO",
-   "name": "Turbo",
-   "price": 0.000861093541386267,
-   "change_24h": 0.62,
-   "market_cap": 59415454.347041495,
-   "volume_24h": 8043419.15858311,
-   "rank": 18
-  },
-  {
-   "symbol": "ARKM",
-   "name": "Arkham",
-   "price": 0.12368528649118214,
-   "change_24h": 3.35,
-   "market_cap": 27841557.9891651,
-   "volume_24h": 48390465.67760785,
-   "rank": 19
-  },
-  {
-   "symbol": "AI16Z",
-   "name": "ai16z",
-   "price": 0.000506743146760088,
-   "change_24h": 12.46,
-   "market_cap": 0,
-   "volume_24h": 14912.17113516,
-   "rank": 20
+   "rank": 20,
+   "id": 1697,
+   "symbol": "BAT",
+   "name": "Basic Attention Token",
+   "slug": "basic-attention-token",
+   "price": 0.08955604145590663,
+   "change_24h": -1.6,
+   "market_cap": 133951179.38,
+   "volume_24h": 9891065.39443112
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-12T20:10:24+00:00",
+  "as_of": "2026-06-12T20:25:42+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,22 +11,22 @@
    "rank": 1,
    "ticker": "SPCX",
    "company": "SpaceX",
-   "move_pct": 20.74,
-   "price": 163.0,
+   "move_pct": 21.0,
+   "price": 163.35,
    "volume": 503893811,
    "volume_vs_avg": "~0.0x",
    "heat_score": 78,
    "direction": "up",
-   "why": "SpaceX IPO afterparty set to light up JPMorgan HQ",
+   "why": "SpaceX stock gains, space companies fall, chips mixed on IPO news",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/video/spacex-ipo-afterparty-set-to-light-up-jpmorgan-hq-194855263.html"
+   "source_url": "https://finance.yahoo.com/video/spacex-stock-gains-space-companies-fall-chips-mixed-on-ipo-news-195735942.html"
   },
   {
    "rank": 2,
    "ticker": "ARM",
    "company": "Arm Holdings Plc ADR",
-   "move_pct": 11.9,
-   "price": 382.97,
+   "move_pct": 11.84,
+   "price": 382.75,
    "volume": 16297928,
    "volume_vs_avg": "~1.3x",
    "heat_score": 73,
@@ -39,29 +39,29 @@
    "rank": 3,
    "ticker": "ADBE",
    "company": "Adobe Inc",
-   "move_pct": -6.68,
-   "price": 204.19,
+   "move_pct": -6.64,
+   "price": 204.27,
    "volume": 24943796,
    "volume_vs_avg": "~5x",
    "heat_score": 61,
    "direction": "down",
-   "why": "Sector Update: Tech Stocks Rise Late Afternoon",
+   "why": "US Equity Markets End Higher After Iran Confirms Progress on Peace Agreement, Crude Oil Prices Fall",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-193719338.html"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-200830674.html"
   },
   {
    "rank": 4,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": 6.75,
-   "price": 124.85,
-   "volume": 146359959,
-   "volume_vs_avg": "~1.0x",
+   "move_pct": 6.7,
+   "price": 124.8,
+   "volume": 148113777,
+   "volume_vs_avg": "~1.1x",
    "heat_score": 44,
    "direction": "up",
-   "why": "2 Unsung Heroes of Big Tech's $725 Billion AI Capex Spend",
+   "why": "SpaceX stock gains, space companies fall, chips mixed on IPO news",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/sectors/technology/articles/2-unsung-heroes-big-techs-192000522.html"
+   "source_url": "https://finance.yahoo.com/video/spacex-stock-gains-space-companies-fall-chips-mixed-on-ipo-news-195735942.html"
   }
  ]
 }

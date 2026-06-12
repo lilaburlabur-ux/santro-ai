@@ -228,6 +228,7 @@
   .spcx-head{display:flex; align-items:center; gap:12px; padding:4px 0 12px; cursor:pointer;
     border-bottom:1px solid var(--border-soft);}
   .spcx-head:hover .spcx-tk{color:var(--accent-2);}
+  .spcx-logo img{width:100%; height:100%; object-fit:cover; border-radius:10px; display:block;}
   .spcx-logo{width:42px;height:42px;border-radius:11px;background:var(--accent-soft);
     border:1px solid var(--accent-border); display:grid;place-items:center;
     font-weight:700;color:var(--accent-2);flex:0 0 auto; font-size:13px;}
@@ -487,7 +488,9 @@ function hexToRgba(hex,a){
 const fmtVol=v=>v==null?"—":v>=1e9?(v/1e9).toFixed(1)+"B":v>=1e6?(v/1e6).toFixed(1)+"M":v>=1e3?(v/1e3).toFixed(0)+"K":""+v;
 
 // ---- cryptobubbles-style helpers ----------------------------------------------
-const logoUrl = sym => `https://assets.parqet.com/logos/symbol/${encodeURIComponent(sym.split(".")[0])}?format=png&size=64`;
+// SPCX: parqet still serves the old AXS SPAC ETF logo for this ticker — use our local SpaceX mark
+const logoUrl = sym => sym==="SPCX" ? "assets/spacex.png"
+  : `https://assets.parqet.com/logos/symbol/${encodeURIComponent(sym.split(".")[0])}?format=png&size=64`;
 function heatDark(pct){            // dark bubble core, tinted toward the heat color
   const m=colorFor(pct).match(/\d+/g).map(Number);
   return `rgb(${m.map(v=>Math.round(v*0.30+8)).join(",")})`;
@@ -916,7 +919,7 @@ function renderSpaceX(){
   if(s){
     const traded = s.change_pct!==0 || s.price!==135;
     h+=`<div class="spcx-head" onclick="openTicker('SPCX')" title="Open SPCX in the bubble map">
-      <div class="spcx-logo">SX</div>
+      <div class="spcx-logo"><img src="assets/spacex.png" alt="SpaceX"></div>
       <div class="spcx-main"><div class="spcx-nm">SpaceX</div>
         <div class="spcx-tk">SPCX · Nasdaq · ${fmtCap(s.market_cap_b*1e9)} · Aerospace &amp; Defense</div></div>
       <div class="spcx-px"><div class="big">$${s.price.toFixed(2)}</div>

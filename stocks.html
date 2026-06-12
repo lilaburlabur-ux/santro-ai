@@ -108,7 +108,9 @@ function heatDark(p){const m=colorFor(p).match(/\d+/g).map(Number);
   return `rgb(${m.map(v=>Math.round(v*0.30+8)).join(",")})`;}
 const heatText=p=>p>=0?"#8df0b4":"#ff9aa2";
 const fitFs=(len,r,cap)=>Math.max(7,Math.min(cap,Math.floor((r*1.62)/(0.62*Math.max(len,3)))));
-const logoUrl=s=>`https://assets.parqet.com/logos/symbol/${encodeURIComponent(s.split(".")[0])}?format=png&size=64`;
+// SPCX: parqet still serves the old AXS SPAC ETF logo for this ticker — use our local SpaceX mark
+const logoUrl=s=>s==="SPCX"?"assets/spacex.png"
+  :`https://assets.parqet.com/logos/symbol/${encodeURIComponent(s.split(".")[0])}?format=png&size=64`;
 const pchip=(k,v)=>`<span class="pchip"><span class="k">${k}</span><span class="${(v??0)>=0?"up":"down"}">${v==null?"—":fmtPct(v)}</span></span>`;
 function sparkSvg(s){
   const w=260,h=56,min=Math.min(...s),max=Math.max(...s),rng=(max-min)||1;

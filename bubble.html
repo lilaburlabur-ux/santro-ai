@@ -19,20 +19,26 @@
 <script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
 <link rel="stylesheet" href="site.css?v=8" />
 <style>
-  .gauge{display:flex; align-items:center; gap:26px; flex-wrap:wrap; background:var(--panel);
-    border:1px solid var(--border); border-radius:var(--radius); padding:22px 26px; margin-bottom:16px;}
-  .gauge .num{font-size:54px; font-weight:800; letter-spacing:-1px; line-height:1;}
-  .gauge .lbl{font-size:15px; font-weight:700; margin-top:6px;}
-  .gauge .sub{color:var(--faint); font-size:11.5px; margin-top:4px;}
-  .pillars{flex:1 1 380px; display:grid; gap:9px; min-width:300px;}
-  .pillar{display:grid; grid-template-columns:120px 1fr 40px; gap:10px; align-items:center; font-size:12.5px;}
-  .pillar .k{color:var(--muted);}
-  .bar{height:9px; border-radius:999px; background:var(--panel-2); overflow:hidden; border:1px solid var(--border-soft);}
-  .bar i{display:block; height:100%; border-radius:999px;}
-  .pillar .v{color:var(--muted); text-align:right; font-weight:600;}
+  /* links on this page: quiet gray + bold, never blue/underlined */
+  main a{color:var(--muted); font-weight:700; text-decoration:none;}
+  main a:hover{color:var(--text);}
+  .sc-grid{display:grid; grid-template-columns:repeat(7,1fr); gap:12px; margin-bottom:16px;}
+  .sc{background:var(--panel); border:1px solid var(--border); border-radius:12px;
+    padding:16px 14px 14px; border-top:3px solid var(--border);}
+  .sc .n{font-size:30px; font-weight:800; letter-spacing:-.5px; line-height:1.05;}
+  .sc .k{font-size:9.5px; text-transform:uppercase; letter-spacing:.7px; color:var(--faint);
+    font-weight:700; margin-top:6px;}
+  .sc.big{grid-column:span 2;}
+  .sc.big .n{font-size:46px;}
+  .scale{height:10px; border-radius:99px; margin-top:14px; position:relative;
+    background:linear-gradient(to right,#22c55e,#69cd91,#e0a73f,#f05a6e,#b91c1c);}
+  .scale .dot{position:absolute; top:-4px; width:18px; height:18px; border-radius:50%;
+    background:#fff; border:3px solid var(--bg); transform:translateX(-9px);}
+  .scale-ends{display:flex; justify-content:space-between; font-size:9px; color:var(--faint);
+    text-transform:uppercase; letter-spacing:.6px; margin-top:5px;}
   .histwrap{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius); padding:18px;}
   .src{margin-top:14px; font-size:12.5px; color:var(--muted);}
-  .src a{font-weight:700;}
+  @media (max-width:900px){ .sc-grid{grid-template-columns:repeat(3,1fr);} .sc.big{grid-column:span 3;} }
 </style>
 </head>
 <body>
@@ -67,7 +73,7 @@
     Index data courtesy of <a href="https://aibubblemonitor.com" target="_blank" rel="noopener"><b>AI
     Bubble Monitor</b></a>. Not financial advice.</p>
 
-    <div class="gauge" id="gauge">Loading…</div>
+    <div class="sc-grid" id="gauge"><div class="sc big"><div class="n">…</div><div class="k">Loading</div></div></div>
 
     <div class="histwrap">
       <div style="font-size:10px;letter-spacing:.7px;text-transform:uppercase;color:var(--faint);font-weight:700;margin-bottom:10px">Last 180 days</div>
@@ -106,13 +112,17 @@ async function load(){
   const ix=d.index;
   document.getElementById("asof").textContent="Updated "+(ix.timestamp||"").slice(0,10);
   document.getElementById("gauge").innerHTML=`
-    <div><div class="num" style="color:${riskColor(ix.overall)}">${ix.overall}</div>
-      <div class="lbl" style="color:${riskColor(ix.overall)}">${ix.label||""}</div>
-      <div class="sub">0 = cold · 100 = mania</div></div>
-    <div class="pillars">${PILLARS.map(([k,nm])=>`
-      <div class="pillar"><span class="k">${nm}</span>
-        <span class="bar"><i style="width:${Math.max(2,Math.min(100,ix[k]||0))}%;background:${riskColor(ix[k])}"></i></span>
-        <span class="v">${ix[k]??"—"}</span></div>`).join("")}</div>`;
+    <div class="sc big" style="border-top-color:${riskColor(ix.overall)}">
+      <div class="n" style="color:${riskColor(ix.overall)}">${ix.overall}</div>
+      <div class="k">AI Bubble Index · ${ix.label||""}</div>
+      <div class="scale"><span class="dot" style="left:${Math.max(0,Math.min(100,ix.overall||0))}%"></span></div>
+      <div class="scale-ends"><span>0 cold</span><span>100 mania</span></div>
+    </div>
+    ${PILLARS.map(([k,nm])=>`
+    <div class="sc" style="border-top-color:${riskColor(ix[k])}">
+      <div class="n" style="color:${riskColor(ix[k])}">${ix[k]??"—"}</div>
+      <div class="k">${nm}</div>
+    </div>`).join("")}`;
   const h=(d.history||[]).filter(p=>p.v!=null);
   if(h.length>2){
     const w=900,ht=140,vs=h.map(p=>p.v),min=Math.min(...vs)-2,max=Math.max(...vs)+2,rng=(max-min)||1;

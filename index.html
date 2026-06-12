@@ -943,7 +943,13 @@ function renderSpaceX(){
   if(!el) return;
   const s = universe ? universe.bubbles.flatMap(b=>b.tickers).find(t=>t.ticker==="SPCX") : null;
   const badge=document.getElementById("spcx-badge");
-  if(badge && universe) badge.textContent = "Live · " + ({pre:"premarket",post:"after hours",regular:"market open",closed:"market closed"}[universe.meta.session]||"");
+  if(badge){
+    // freshness stamp, same style as the Hot Tickers badge ("Live · 5m ago");
+    // the squawk feed's as_of is the panel's fastest-moving timestamp
+    const ts=(tweets&&tweets.meta&&tweets.meta.as_of)||(universe&&universe.meta.as_of)||null;
+    const ago=ts?timeAgo(ts.replace(" UTC","Z").replace(" ","T")):"";
+    badge.textContent="Live"+(ago?" · "+ago:"");
+  }
   let h="";
   if(s){
     const traded = s.change_pct!==0 || s.price!==135;
@@ -953,7 +959,7 @@ function renderSpaceX(){
         <div class="spcx-tk">SPCX · Nasdaq · ${fmtCap(s.market_cap_b*1e9)} · Aerospace &amp; Defense</div></div>
       <div class="spcx-px"><div class="big">$${s.price.toFixed(2)}</div>
         <div class="chg ${pctClass(s.change_pct)}">${fmtPct(s.change_pct)}</div>
-        <div class="ref">${traded?"vs IPO $135.00":"IPO price · awaiting first trade"}</div>
+        <div class="ref">${traded?"vs IPO $135.00":"IPO price · awaiting first trade"}${universe&&universe.meta.session?` · ${({pre:"premarket",post:"after hours",regular:"market open",closed:"market closed"})[universe.meta.session]||""}`:""}</div>
         ${tweets&&tweets.meta&&tweets.meta.hyperliquid?`<div class="ref hl">Hyperliquid perp $${Number(tweets.meta.hyperliquid).toFixed(2)}</div>`:""}</div>
     </div>`;
   }

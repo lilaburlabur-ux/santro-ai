@@ -91,9 +91,26 @@ def main():
                             last = float(p2)
                     except Exception:
                         pass
-                # scale stored cap by price move (avoids 83 slow per-ticker calls)
+                # scale stored cap by price move (avoids 83 slow per-ticker calls).
+                # Market cap is split-invariant: when the stored price is from a
+                # pre-split series (KLAC 10:1 — ratio 0.1 vs a ~1.0 day move),
+                # raw ratio scaling corrupts the cap. Only scale while the ratio
+                # is consistent with the day's move; otherwise re-anchor from
+                # info, falling back to the stored (still valid) cap.
                 if t.get("market_cap_b") and old_price:
-                    t["market_cap_b"] = round(t["market_cap_b"] * last / old_price, 2)
+                    ratio = last / old_price
+                    day = 1 + (t["change_pct"] or 0) / 100
+                    if 0.5 < ratio / day < 2:
+                        t["market_cap_b"] = round(t["market_cap_b"] * ratio, 2)
+                    else:
+                        try:
+                            info = yf.Ticker(t["ticker"]).get_info() or {}
+                            ipx = info.get("regularMarketPrice") or info.get("currentPrice")
+                            if info.get("marketCap") and ipx:
+                                t["market_cap_b"] = round(
+                                    info["marketCap"] * (last / ipx) / 1e9, 2)
+                        except Exception:
+                            pass
                 t["price"] = round(last, 2)
                 if len(v):
                     t["volume"] = int(v.iloc[-1])

@@ -78,6 +78,9 @@
   a.ts-bubble{text-decoration:none; cursor:pointer;}
   a.ts-bubble:hover .lbl{color:var(--text);}
   .langs{display:flex; gap:6px; align-items:center;}
+  .x-link{display:flex; align-items:center; color:var(--muted); padding:3px 7px; margin-right:4px;
+    border:1px solid var(--border); border-radius:6px; transition:.15s;}
+  .x-link:hover{color:var(--text); border-color:var(--accent-border);}
   .lang{padding:2px 9px; border-radius:6px; border:1px solid var(--border); font-size:11px; font-weight:600;}
   .lang.active{background:var(--accent-soft); color:var(--accent-2); border-color:var(--accent-border);}
   .lang.soon{opacity:.45; cursor:default;}
@@ -364,6 +367,10 @@
   <div class="topstrip">
     <div class="ts-stats" id="tape-stats">Loading market tape…</div>
     <div class="langs">
+      <a class="x-link" href="https://x.com/SantroAI" target="_blank" rel="noopener" title="@SantroAI on X">
+        <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true">
+          <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+      </a>
       <span style="color:var(--faint)">🌐</span>
       <span class="lang active">EN</span>
       <span class="lang soon" title="German — coming soon">DE<sup>soon</sup></span>

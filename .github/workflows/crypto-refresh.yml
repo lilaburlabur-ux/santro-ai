@@ -1,0 +1,45 @@
+name: Crypto refresh (CoinMarketCap)
+
+# 20 coins, one batched call = 1 CMC credit per run. Every 10 minutes, 24/7
+# (crypto never closes) ≈ 144 credits/day against the free tier's ~333/day.
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: crypto-refresh
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch crypto quotes
+        run: python fetch_crypto.py
+        env:
+          CMC_API_KEY: ${{ secrets.CMC_API_KEY }}
+
+      - name: Commit crypto.json if it changed
+        run: |
+          git config user.name "santro-crypto-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add crypto.json
+          if ! git diff --cached --quiet; then
+            git commit -m "crypto refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase -X theirs origin main
+            git push
+          fi

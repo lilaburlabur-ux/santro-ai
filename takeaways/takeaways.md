@@ -1,27 +1,23 @@
-# Key Takeaways — Midday · Friday, June 12, 2026, 12:55 PM ET
-*Since last update (10:30 AM): SpaceX crossed at $162.81 and trades $169.46 (+25.5%) — the perp's ~$170 handicap was right almost to the dollar; semis stretched the morning leg (SOXX +2.3%) while NVDA went flat; ADBE −6.7% after a CFO-departure headline stacked on the downgrade.*
+# Key Takeaways — Midday · Friday, June 12, 2026, 1:35 PM ET
+*Since last update (12:55 PM): SpaceX extended from $169.46 to $171.85 (+27.3%), well clear of its $162.81 opening print; semis broadened — ARM through +10%, INTC +8% — with NVDA still flat; the ADBE bleed deepened to −7.3% and the street is now calling it a software-wide story.*
 
-## SPCX: $2.2T debut, and the perp market called it
-SpaceX opened at $162.81 vs the $135 IPO price after pre-open indications walked down from $175 to $151, and now trades $169.46 (+25.5%), a ~$2.2T market cap. Hyperliquid's pre-IPO perp converged to spot within dollars ($169.2) — the crypto venue priced this debut better than the indication tape. Cboe lists SPCX options Tuesday.
-**Tickers:** $SPCX · **Watch:** a first close above the $162.81 opening print keeps the debut bid intact; $135 is the IPO floor below
+## SPCX +27%: session highs, and the perp stays glued to spot
+SpaceX prints $171.85 (+27.3% vs the $135 IPO), making new session highs through the afternoon; the squawk notes IPO bank fees topping $500M and Cboe options arriving Tuesday. Hyperliquid's perp sits at $171.7 — tracking spot within pennies all day after handicapping the open within dollars.
+**Tickers:** $SPCX · **Watch:** a first close above the $162.81 opening print keeps the debut bid intact into options listing day
 
-## Semis push a third leg — without NVDA
-SOXX +2.26% and SMH +2.09% against SPY +0.48% (12:55 PM ET, ~15-min delayed); Chips & Compute +2.57% leads, Equipment +2.12% behind it. INTC +7.0%, ARM +8.8%, AMD +5.0%, QCOM +5.5%, TER +5.9%, KLAC +4.3% — while NVDA sits at −0.04%. The flag-bearer of the AI trade is flat on the sector's best day this week; breadth 46/84 green.
-**Tickers:** $INTC, $ARM, $AMD, $QCOM, $KLAC, $NVDA · **Watch:** NVDA reclaiming green would broaden the leg — a sector rally without its largest name has a shorter leash
+## Semis accelerate into the afternoon — NVDA still isn't invited
+SOXX +2.52% and SMH +2.36% vs SPY +0.65% (1:35 PM ET, ~15-min delayed); Chips & Compute +2.99% leads the universe. ARM +10.5%, INTC +8.2%, TER +6.3%, AMD +5.9% on a fresh street-high target, QCOM +5.7% — and NVDA +0.17%, flat for a second straight session while its sector runs. Breadth improved to 48/84 green.
+**Tickers:** $ARM, $INTC, $AMD, $QCOM, $TER, $NVDA · **Watch:** NVDA joining (or the group fading to meet it) into the close decides whether this leg compounds
 
-## ADBE −6.7%: CFO departure stacks on the downgrade
-Day two of the software bleed, and now with a governance angle: RBC flags "more uncertainty" around the fiscal-2026 organic ARR guide after Adobe's CFO departure. Apps & Data −1.35% is again the weakest sector while silicon leads — the out-of-software rotation keeps running.
+## Software bleed goes sector-wide: ADBE −7.3%
+ADBE deepens to −7.3% on day two, and the tape around it confirms the theme — headlines now describe software tumbling "in sympathy" on fragile sentiment, with Apps & Data −1.23% the weakest sector again. The CFO departure plus FY26 ARR uncertainty (RBC) keeps ADBE the face of the rotation out of software into silicon.
 **Tickers:** $ADBE
 
-## ARM +8.8%: probe headlines couldn't dent it
-Follow-through from the morning — FTC-probe coverage is still circulating and ARM leads the universe anyway, with QCOM +5.5% alongside in the licensing/mobile complex. A name that rallies through its own bad-news cycle is telling you where the bid is.
-**Tickers:** $ARM, $QCOM
-
-## Quiet indices under loud headlines
-SPY +0.48%, QQQ +0.59%, TLT −0.31% — the index tape is calm while the day's action concentrates in one sector and one IPO. Iran headlines are still flip-flopping (the Geneva-signing denial stands). Concentration is the risk card: if semis cool, today's green tape has little else holding it up.
+## Gold +3.7% under a calm index tape — someone is hedging
+SPX +0.61% and Nasdaq-100 +0.91% look orderly, but gold is up +3.65% with TLT −0.28% and Iran headlines still reversing by the hour — a hard metal bid on a risk-on equity day is positioning, not coincidence. Today's equity strength is concentrated in one sector and one IPO; gold is the tell that not everyone trusts it.
 **Tickers:** —
 
 ---
 > Key Takeaways are generated for informational and educational purposes only and do not constitute investment advice, a recommendation, or an offer to buy or sell any security. Markets move fast — data may be delayed and levels can change. Always do your own research.
 
-*Data as of 12:55 PM ET, Jun 12, 2026 (quotes ~15-min delayed). Sources: site bubble data (universe/ecosystem quotes 16:51 UTC), Yahoo Finance batch (SPY/QQQ/SMH/SOXX/TLT), site news feed + hot-tickers scan, @DeItaone squawk via Telegram mirror, Hyperliquid xyz:SPCX perp.*
+*Data as of 1:35 PM ET, Jun 12, 2026 (quotes ~15-min delayed). Sources: site bubble data (universe quotes 17:21 UTC), Yahoo Finance batch (SPY/QQQ/SMH/SOXX/TLT), site news feed + hot-tickers scan, @DeItaone squawk via Telegram mirror, Hyperliquid xyz:SPCX perp.*

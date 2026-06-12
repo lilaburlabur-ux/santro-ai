@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Intel stock pops on upgrade from BofA, citing CPU growth opportunity | Yahoo Finance | 2026-06-11 |
-| Why the SpaceX, OpenAI, and Anthropic IPOs won't derail the bull market | Yahoo Finance | 2026-06-11 |
 | The Competitive Threat That Never Was: ASML’s Widening Moat Boosts Stock 77% YTD | 24/7 Wall St. | 2026-06-12 |
-| AbbVie Reports Promising New Clinical Updates. Here's What It Means for the Company's Dividend. | Motley Fool | 2026-06-12 |
+| AMD Stock Pops After Buy Upgrade. It’s More Than a CPU Play. | Barrons.com | 2026-06-12 |
+| What's at Stake for the Market | Barrons.com | 2026-06-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

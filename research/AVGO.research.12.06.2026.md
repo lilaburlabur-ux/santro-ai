@@ -37,9 +37,9 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Headline | Source | Date |
 |---|---|---|
 | Beyond Elon Musk: A closer look at SpaceX's C-suite | Yahoo Finance Video | 2026-06-11 |
+| What's at Stake for the Market | Barrons.com | 2026-06-12 |
 | Broadcom Stock Whiplash After Earnings Release | Motley Fool | 2026-06-12 |
 | Why Broadcom (AVGO) Stock Is Trading Up Today | StockStory | 2026-06-11 |
-| How AAOI Is Defying The Market Slump | Trefis | 2026-06-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

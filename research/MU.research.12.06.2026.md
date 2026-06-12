@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
-| Why the SpaceX, OpenAI, and Anthropic IPOs won't derail the bull market | Yahoo Finance | 2026-06-11 |
+| Micron and Sandisk Are Up Big During the Past Year. Can the Run Continue? | Motley Fool | 2026-06-12 |
+| Why Goldman Is Cautious on Micron Stock Ahead of Earnings | Barrons.com | 2026-06-12 |
 | 2 Semiconductor Stocks to Keep an Eye On and 1 We Turn Down | StockStory | 2026-06-12 |
-| 2 Popular AI Stocks to Sell Before They Drop 44% and 60%, According to Wall Street | Motley Fool | 2026-06-12 |
-| Stock Market News for Jun 12, 2026 | Zacks | 2026-06-12 |
+| Stocks to Watch: SpaceX, Virgin Galactic, Adobe | The Wall Street Journal | 2026-06-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -32,15 +32,6 @@ Signed file: `ARM.research.12.06.2026`
 ## 2. Company Overview and Recent Catalysts
 Arm Holdings plc researches, develops, licenses, and markets central processing unit (CPU) intellectual property (IP), graphics processing unit IP, systems IP, compute subsystems (CSS), and associated software, tools and related services. The company provides a product portfolio, including CPU IP, GPU and neural processing unit (NPU) accelerators, system IP such as interconnects, compute platform products including pre-integrated CSSs, and development tools and software.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| Arm (ARM), NVIDIA (NVDA) Executive Highlight Shift Toward Agentic AI Computing | Insider Monkey | 2026-06-11 |
-| Nvidia, AMD, Intel Lead Chip Stocks Rally as BofA Calls 'Agentic AI' Game-Changer | GuruFocus.com | 2026-06-11 |
-| Why Arm Holdings Stock Rallied on Thursday | Motley Fool | 2026-06-11 |
-| Why Intel Stock Was Just Upgraded to Buy from Sell at BofA | Barrons.com | 2026-06-11 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|

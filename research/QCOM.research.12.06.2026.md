@@ -37,9 +37,9 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Headline | Source | Date |
 |---|---|---|
 | AMD and Qualcomm Shares Are Soaring, What You Need To Know | StockStory | 2026-06-12 |
+| Stocks Settle Sharply Higher on Middle East Peace Hopes | Barchart | 2026-06-11 |
 | Why 1 Veteran Analyst Firm Hiked Its Qualcomm Stock Price Target for 2026 | Barchart | 2026-06-11 |
 | Qualcomm’s AI Ecosystem Extends To Humanoid Robots And Autonomous Vehicles | Simply Wall St. | 2026-06-11 |
-| Nvidia, AMD, Intel Lead Chip Stocks Rally as BofA Calls 'Agentic AI' Game-Changer | GuruFocus.com | 2026-06-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

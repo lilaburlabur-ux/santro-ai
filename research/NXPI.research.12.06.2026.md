@@ -37,9 +37,9 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Headline | Source | Date |
 |---|---|---|
 | Himax, NXP Semiconductors, and Impinj Shares Skyrocket, What You Need To Know | StockStory | 2026-06-11 |
+| Stocks Settle Sharply Higher on Middle East Peace Hopes | Barchart | 2026-06-11 |
 | Stocks Supported by a Rebound in Chipmakers and AI Stocks | Barchart | 2026-06-11 |
 | NXP Semiconductors (NXPI) Is Down 11.3% After Inflation Spurs Rate Jitters And Insider Selling - What's Changed | Simply Wall St. | 2026-06-11 |
-| FormFactor and NXP Semiconductors Shares Are Falling, What You Need To Know | StockStory | 2026-06-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

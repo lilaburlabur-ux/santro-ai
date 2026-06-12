@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company. Th
 | Headline | Source | Date |
 |---|---|---|
 | Expect 'robust capability' from this KKR-backed AI venture: CEO | Yahoo Finance Video | 2026-06-11 |
-| Hedge funds sold broader tech ahead of SpaceX IPO, JPMorgan data shows | Reuters | 2026-06-12 |
-| The Competitive Threat That Never Was: ASML’s Widening Moat Boosts Stock 77% YTD | 24/7 Wall St. | 2026-06-12 |
-| Forget VOO, This Fund Holds the Exact Same 500 Stocks for a 33% Lower Fee | 24/7 Wall St. | 2026-06-12 |
+| 'There's more to life than the Mag 7': Robinhood CIO | Yahoo Finance Video | 2026-06-11 |
+| Exclusive-South Korea's SK Hynix to opt for Nasdaq for planned US listing, sources say | Reuters | 2026-06-12 |
+| Micron and Sandisk Are Up Big During the Past Year. Can the Run Continue? | Motley Fool | 2026-06-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -38,8 +38,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 |---|---|---|
 | CPU market to grow 5x by 2030, BofA says | Yahoo Finance | 2026-06-11 |
 | Bank of America resets AMD stock price target | TheStreet | 2026-06-12 |
-| Stock Market News for Jun 12, 2026 | Zacks | 2026-06-12 |
-| 2 Cash-Heavy Stocks with Promising Prospects and 1 We Ignore | StockStory | 2026-06-12 |
+| AMD Stock Pops After Buy Upgrade. It’s More Than a CPU Play. | Barrons.com | 2026-06-12 |
+| What's at Stake for the Market | Barrons.com | 2026-06-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

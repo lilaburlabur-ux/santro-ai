@@ -240,6 +240,7 @@
     font-variant-numeric:tabular-nums;}
   .spcx-px .chg{font-size:14px; font-weight:700; margin-top:2px;}
   .spcx-px .ref{font-size:10px; color:var(--faint); margin-top:2px; text-transform:uppercase; letter-spacing:.4px;}
+  .spcx-px .ref.hl{color:#e0a73f; font-weight:700;}
   .spcx-srclbl{font-size:9.5px; letter-spacing:.7px; text-transform:uppercase; color:var(--faint);
     font-weight:700; padding:11px 0 3px;}
   .spcx-tweet{padding:8px 0; border-bottom:1px solid var(--border-soft); line-height:1.45;}
@@ -924,7 +925,8 @@ function renderSpaceX(){
         <div class="spcx-tk">SPCX · Nasdaq · ${fmtCap(s.market_cap_b*1e9)} · Aerospace &amp; Defense</div></div>
       <div class="spcx-px"><div class="big">$${s.price.toFixed(2)}</div>
         <div class="chg ${pctClass(s.change_pct)}">${fmtPct(s.change_pct)}</div>
-        <div class="ref">${traded?"vs IPO $135.00":"IPO price · awaiting first trade"}</div></div>
+        <div class="ref">${traded?"vs IPO $135.00":"IPO price · awaiting first trade"}</div>
+        ${tweets&&tweets.meta&&tweets.meta.hyperliquid?`<div class="ref hl">Hyperliquid perp $${Number(tweets.meta.hyperliquid).toFixed(2)}</div>`:""}</div>
     </div>`;
   }
   const tw=(tweets&&tweets.items?tweets.items:[]).slice(0,4);

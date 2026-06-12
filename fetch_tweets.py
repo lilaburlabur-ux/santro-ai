@@ -45,6 +45,17 @@ def main():
             continue
         fresh.append({"text": txt[:400], "time": tm["datetime"], "url": a["href"]})
 
+    # live SPCX pre-IPO perp on Hyperliquid's xyz equity DEX (keyless) — the
+    # price the squawk tweets reference; shown in the panel alongside Nasdaq
+    hl = None
+    try:
+        mids = requests.post("https://api.hyperliquid.xyz/info", timeout=12,
+                             json={"type": "allMids", "dex": "xyz"}).json()
+        if mids.get("xyz:SPCX"):
+            hl = round(float(mids["xyz:SPCX"]), 2)
+    except Exception:
+        pass
+
     try:
         old = json.load(open("tweets.json")).get("items", [])
     except Exception:
@@ -56,11 +67,11 @@ def main():
 
     json.dump({
         "meta": {"handle": HANDLE, "mirror": "t.me/walter_bloomberg",
-                 "topic": "SpaceX / $SPCX",
+                 "topic": "SpaceX / $SPCX", "hyperliquid": hl,
                  "as_of": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")},
         "items": items,
     }, open("tweets.json", "w"), indent=1)
-    print(f"tweets.json — {len(fresh)} fresh SPCX hits on page, {len(items)} kept")
+    print(f"tweets.json — {len(fresh)} fresh SPCX hits on page, {len(items)} kept, HL perp: {hl}")
 
 
 if __name__ == "__main__":

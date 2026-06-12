@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-12T12:41:29+00:00",
+  "as_of": "2026-06-12T13:07:25+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -45,9 +45,9 @@
    "volume_vs_avg": "~1.1x",
    "heat_score": 71,
    "direction": "up",
-   "why": "Latest News In AI Chips - AI-Powered Shift: Transforming Data Into Business Intelligence",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/sectors/technology/articles/latest-news-ai-chips-ai-113735040.html"
+   "why": "Top Bank Doubles Micron Price Target on Memory Boom",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/top-bank-doubles-micron-price-123931457.html"
   },
   {
    "rank": 4,
@@ -59,12 +59,26 @@
    "volume_vs_avg": "~1.3x",
    "heat_score": 71,
    "direction": "up",
-   "why": "Adobe Q2 2026 earnings: CFO Dan Durn exits, stock falls",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/adobe-q2-2026-earnings-cfo-113128426.html"
+   "why": "Five AI and Space Names Join the Nasdaq-100",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/five-ai-space-names-join-124656084.html"
   },
   {
    "rank": 5,
+   "ticker": "ARM",
+   "company": "Arm Holdings Plc ADR",
+   "move_pct": 11.32,
+   "price": 342.23,
+   "volume": 8716000,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 68,
+   "direction": "up",
+   "why": "FTC Probe Puts Arm Licensing Model And AGI CPU Plans In Focus",
+   "catalyst_type": "regulatory",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ftc-probe-puts-arm-licensing-121353752.html"
+  },
+  {
+   "rank": 6,
    "ticker": "ORCL",
    "company": "Oracle Corp",
    "move_pct": -8.53,
@@ -73,12 +87,12 @@
    "volume_vs_avg": "~3x",
    "heat_score": 68,
    "direction": "down",
-   "why": "Anthropic Hits $47 Billion Run-Rate as AI Price War Fears Rise",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-hits-47-billion-run-121404687.html"
+   "why": "Oracle Wins $396M Federal HR Modernization Contract",
+   "catalyst_type": "contract_win",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/oracle-wins-396m-federal-hr-125745734.html"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "ticker": "ASML",
    "company": "ASML Holding NV",
    "move_pct": 9.53,
@@ -92,7 +106,7 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/competitive-threat-never-asml-widening-105508728.html"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "ticker": "TER",
    "company": "Teradyne Inc",
    "move_pct": 9.73,
@@ -101,23 +115,9 @@
    "volume_vs_avg": "~1.2x",
    "heat_score": 65,
    "direction": "up",
-   "why": "2 Semiconductor Stocks to Keep an Eye On and 1 We Turn Down",
+   "why": "Five AI and Space Names Join the Nasdaq-100",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/2-semiconductor-stocks-keep-eye-102120717.html"
-  },
-  {
-   "rank": 8,
-   "ticker": "INTC",
-   "company": "Intel Corp",
-   "move_pct": 9.27,
-   "price": 116.96,
-   "volume": 187566500,
-   "volume_vs_avg": "~1.3x",
-   "heat_score": 64,
-   "direction": "up",
-   "why": "AMD Stock Pops After Buy Upgrade. It\u2019s More Than a CPU Play.",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://www.barrons.com/articles/amd-stock-buy-upgrade-cpu-bf9cabdc?siteid=yhoof2&yptr=yahoo"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/five-ai-space-names-join-124656084.html"
   }
  ]
 }

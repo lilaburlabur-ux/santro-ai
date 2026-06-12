@@ -677,11 +677,15 @@ function render(){
 
   stopMotion();
   // ---- all views are floating heat bubbles; sectors are just bigger bubbles ----
-  let items, key, kind;
-  if(heatMode==="universe" && universe && !uniGroup){ kind="sector"; items=universe.bubbles; key="total_market_cap_b"; }
-  else if(heatMode==="universe" && universe && uniGroup){ kind="uni"; items=uniGroup.tickers; key="market_cap_b"; }
-  else if(heatMode==="etf" && etf){ kind="etf"; items=etf.holdings; key="weight_pct"; }
-  else { kind="stocks"; items=stocks; key="market_cap"; }
+  let items, kind;
+  if(heatMode==="universe" && universe && !uniGroup){ kind="sector"; items=universe.bubbles; }
+  else if(heatMode==="universe" && universe && uniGroup){ kind="uni"; items=uniGroup.tickers; }
+  else if(heatMode==="etf" && etf){ kind="etf"; items=etf.holdings; }
+  else { kind="stocks"; items=stocks; }
+  // bubble size = magnitude of the day move (cryptobubbles semantics);
+  // +0.5 floor keeps flat names visible, minR in packBubbles keeps them readable
+  const key="_sz";
+  items.forEach(o=>{ o._sz = Math.abs((o.change_pct!=null ? o.change_pct : o.avg_change_pct)||0) + 0.5; });
   simNodes = packBubbles(items, key, W, H).map(n=>({
     x:n.x, y:n.y, r:n.r,
     vx:(Math.random()-0.5)*0.7, vy:(Math.random()-0.5)*0.7,
@@ -917,7 +921,7 @@ function applyHeat(){
 
   if(heatMode==="universe" && universe){
     document.getElementById("heat-title").textContent = uniGroup
-      ? `${uniGroup.label} · by market cap`
+      ? `${uniGroup.label} · sized by day move`
       : `AI Universe · ${universe.meta.total_tickers} names · ${universe.bubbles.length} sectors`;
     render();
     if(uniGroup){
@@ -933,7 +937,7 @@ function applyHeat(){
   const sel = list.find(x=>x.symbol===selectedSymbol) || list[0];
   selectedSymbol = sel ? sel.symbol : null;
   document.getElementById("heat-title").textContent =
-    etfMode ? `AI ETFs · ${etf.symbol} holdings by weight` : "Semiconductors · Finviz industry";
+    etfMode ? `AI ETFs · ${etf.symbol} holdings · sized by day move` : "Semiconductors · Finviz industry";
   render();
   if(sel) (etfMode ? showEtfDetail : showDetail)(sel);
 }

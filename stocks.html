@@ -42,6 +42,19 @@
     border:1px solid var(--border-soft); border-radius:8px; padding:5px 11px;
     font-size:12.5px; font-weight:600; margin:0 6px 6px 0;}
   .pchip .k{color:var(--faint); font-size:10px; text-transform:uppercase; letter-spacing:.5px;}
+  /* sector member table — every ticker links to its own page */
+  .sect-tbl{width:100%; border-collapse:collapse; font-size:13px;}
+  .sect-tbl th{font-size:9.5px; text-transform:uppercase; letter-spacing:.6px; color:var(--faint);
+    text-align:left; font-weight:700; padding:2px 10px 7px; border-bottom:1px solid var(--border);}
+  .sect-tbl td{padding:6px 10px; border-bottom:1px solid var(--border-soft);}
+  .sect-tbl tbody tr:last-child td{border-bottom:0;}
+  .sect-tbl tbody tr:hover{background:var(--elev);}
+  .sect-tbl .num{text-align:right; font-variant-numeric:tabular-nums;}
+  .sect-tbl .co{color:var(--muted); font-size:12px; max-width:240px; white-space:nowrap;
+    overflow:hidden; text-overflow:ellipsis;}
+  .sect-tbl a{color:var(--text); font-weight:700; text-decoration:none;}
+  .sect-tbl a:hover{color:var(--accent-2);}
+  @media (max-width:760px){ .sect-tbl .co{display:none;} }
 </style>
 </head>
 <body>
@@ -275,6 +288,14 @@ function startMotion(){
 }
 
 function showSector(g){
+  const rows=g.tickers.map(t=>`
+      <tr><td><a href="t.html?sym=${encodeURIComponent(t.ticker)}" title="Open the ${t.ticker} page">${t.ticker}</a></td>
+        <td class="co">${t.company||""}</td>
+        <td class="num">$${(t.price??0).toFixed(2)}</td>
+        <td class="num ${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</td>
+        <td class="num">${t.market_cap_b?fmtCap(t.market_cap_b*1e9):"—"}</td>
+        <td class="num">${t.pe==null?"—":t.pe}</td>
+        <td class="num">${fmtVol(t.volume)}</td></tr>`).join("");
   document.getElementById("detail").innerHTML=`
     <div class="row"><h3>${g.label}</h3>
       <span class="${pctClass(g.avg_change_pct)}" style="margin-left:auto;font-weight:700">${fmtPct(g.avg_change_pct)} avg</span></div>
@@ -282,9 +303,13 @@ function showSector(g){
       <div><div class="k">Combined market cap</div><div class="v">${fmtCap(g.total_market_cap_b*1e9)}</div></div>
       <div><div class="k">Members</div><div class="v">${g.count} tickers</div></div>
     </div>
+    <div class="sec-label">Members · ticker opens its page</div>
+    <table class="sect-tbl"><thead>
+      <tr><th>Ticker</th><th>Company</th><th class="num">Price</th><th class="num">1D</th>
+        <th class="num">Cap</th><th class="num">P/E</th><th class="num">Volume</th></tr></thead>
+      <tbody>${rows}</tbody></table>
     <div class="sec-label">Finviz industries merged into this sector</div>
-    <div class="chips">${g.industries_included.map(i=>`<span class="chip">${i}</span>`).join("")}</div>
-    <p class="faint" style="margin:12px 0 0">Click the sector bubble to see its members.</p>`;
+    <div class="chips">${g.industries_included.map(i=>`<span class="chip">${i}</span>`).join("")}</div>`;
 }
 
 function showTicker(t){

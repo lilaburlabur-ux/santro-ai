@@ -219,6 +219,16 @@
   .sec-label{margin:16px 0 8px; font-size:10px; font-weight:600; letter-spacing:.7px;
     text-transform:uppercase; color:var(--faint);}
   .chips{display:flex; flex-wrap:wrap; gap:8px;}
+  /* sector member table — every ticker links to its own page */
+  .sect-tbl{width:100%; border-collapse:collapse; font-size:12.5px;}
+  .sect-tbl th{font-size:9px; text-transform:uppercase; letter-spacing:.6px; color:var(--faint);
+    text-align:left; font-weight:700; padding:2px 8px 6px; border-bottom:1px solid var(--border);}
+  .sect-tbl td{padding:5px 8px; border-bottom:1px solid var(--border-soft);}
+  .sect-tbl tbody tr:last-child td{border-bottom:0;}
+  .sect-tbl tbody tr:hover{background:var(--elev);}
+  .sect-tbl .num{text-align:right; font-variant-numeric:tabular-nums;}
+  .sect-tbl a{color:var(--text); font-weight:700; text-decoration:none;}
+  .sect-tbl a:hover{color:var(--accent-2);}
   .score-chip{background:var(--accent-soft); border:1px solid var(--accent-border);
     border-radius:8px; padding:6px 11px; font-size:12.5px; font-weight:600; color:var(--text);}
   .score-chip .k{display:block; font-size:9px; font-weight:600; letter-spacing:.5px;
@@ -854,6 +864,11 @@ function selectHolding(h){ selectedSymbol=h.symbol; render(); showEtfDetail(h); 
 function showGroupDetail(g){
   document.getElementById("detail-title").innerHTML=
     `Sector — ${UNI_SHORT[g.id]||g.label} <span class="badge live">AI Universe</span>`;
+  const rows=g.tickers.map(t=>`
+      <tr><td><a href="t.html?sym=${encodeURIComponent(t.ticker)}" title="Open the ${t.ticker} page">${t.ticker}</a></td>
+        <td class="num">$${(t.price??0).toFixed(2)}</td>
+        <td class="num ${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</td>
+        <td class="num">${t.market_cap_b?fmtCap(t.market_cap_b*1e9):"—"}</td></tr>`).join("");
   document.getElementById("detail").innerHTML=`
     <div class="d-head"><span class="d-sym" style="font-size:19px">${g.label}</span>
       <span class="d-pct ${pctClass(g.avg_change_pct)}">${fmtPct(g.avg_change_pct)} avg</span></div>
@@ -861,9 +876,12 @@ function showGroupDetail(g){
       <div class="d-stat"><div class="k">Combined market cap</div><div class="v">${fmtCap(g.total_market_cap_b*1e9)}</div></div>
       <div class="d-stat"><div class="k">Members</div><div class="v">${g.count} tickers</div></div>
     </div>
+    <div class="sec-label">Members · ticker opens its page</div>
+    <table class="sect-tbl"><thead>
+      <tr><th>Ticker</th><th class="num">Price</th><th class="num">1D</th><th class="num">Cap</th></tr></thead>
+      <tbody>${rows}</tbody></table>
     <div class="sec-label">Finviz industries merged into this sector</div>
-    <div class="chips">${g.industries_included.map(i=>`<span class="chip">${i}</span>`).join("")}</div>
-    <div class="links"><span class="see-more" style="cursor:default">Click the sector tile to see its members</span></div>`;
+    <div class="chips">${g.industries_included.map(i=>`<span class="chip">${i}</span>`).join("")}</div>`;
 }
 
 function showUniverseDetail(t){

@@ -1116,7 +1116,7 @@ async function loadData(){
         const ix=bubbleIx.index;
         const col=ix.overall<25?"#22c55e":ix.overall<45?"#69cd91":ix.overall<60?"#e0a73f":ix.overall<80?"#f05a6e":"#b91c1c";
         ts.innerHTML+=`<a class="ts-item ts-bubble" href="/bubble.html" title="AI Bubble metrics — open">`+
-          `<span class="lbl">AI Bubble</span>`+
+          `<span class="lbl">AI Bubble risk</span>`+
           `<span class="val" style="color:${col}">${ix.overall}</span>`+
           `<span style="color:${col};font-weight:600">${ix.label||""}</span></a>`;
       }

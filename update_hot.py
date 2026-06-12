@@ -58,10 +58,12 @@ def fresh_news(hours=4):
 
 def main():
     uni = json.load(open("universe.json"))
-    scope = {}
+    scope, base_ref = {}, {}
     for b in uni["bubbles"]:
         for t in b["tickers"]:
             scope[t["ticker"]] = t["company"]
+            if t.get("base_close"):       # fresh IPO — reference price anchors day 1
+                base_ref[t["ticker"]] = t["base_close"]
     try:
         for h in (json.load(open("data.json")).get("etf") or {}).get("holdings", []):
             scope.setdefault(h["symbol"], h["name"])
@@ -78,9 +80,16 @@ def main():
         try:
             c = px[sym]["Close"].dropna()
             v = px[sym]["Volume"].dropna()
-            if len(c) < 25:
+            # young listings with a seeded IPO reference are eligible from day 1;
+            # everyone else needs enough history for the volume baseline
+            if len(c) < 25 and sym not in base_ref:
                 continue
-            last, prev = float(c.iloc[-1]), float(c.iloc[-2])
+            if len(c) >= 2:
+                last, prev = float(c.iloc[-1]), float(c.iloc[-2])
+            elif len(c) == 1 and base_ref.get(sym):
+                last, prev = float(c.iloc[-1]), base_ref[sym]
+            else:
+                continue
             move = (last / prev - 1) * 100
             # corrupt-bar guard (e.g. KLAC's 10x-off Jun-10 bar): cross-check vs fast_info
             if abs(move) > 40:
@@ -93,9 +102,9 @@ def main():
                         continue
                 except Exception:
                     continue
-            vol = int(v.iloc[-1])
-            avg = float(v.iloc[-31:-1].mean()) if len(v) > 31 else float(v.iloc[:-1].mean())
-            ratio = vol / avg if avg else 0.0
+            vol = int(v.iloc[-1]) if len(v) else 0
+            avg = float(v.iloc[-31:-1].mean()) if len(v) > 31 else float(v.iloc[:-1].mean()) if len(v) > 1 else 0.0
+            ratio = vol / avg if avg and avg == avg else 0.0   # avg==avg filters NaN
 
             story = news.get(sym)
             criteria = (abs(move) > 5) + (ratio > 3) + (1 if story else 0)

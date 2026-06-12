@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-12T00:10:34+00:00",
+  "as_of": "2026-06-12T12:41:29+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -13,97 +13,97 @@
    "company": "Super Micro Computer Inc",
    "move_pct": 9.22,
    "price": 31.97,
-   "volume": 243368673,
+   "volume": 250530400,
    "volume_vs_avg": "~5x",
-   "heat_score": 82,
+   "heat_score": 83,
    "direction": "up",
-   "why": "Stocks to Watch Recap: Hugo Boss, Broadcom, Super Micro",
+   "why": "Super Micro (SMCI) Soars 9.2%: Is Further Upside Left in the Stock?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-11-2026/card/stocks-to-watch-broadcom-super-micro-hugo-boss-8dipg4qmCqjcatSb8m0a?siteid=yhoof2&yptr=yahoo"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-smci-soars-9-110200357.html"
   },
   {
    "rank": 2,
-   "ticker": "KLAC",
-   "company": "KLA Corp",
-   "move_pct": 14.3,
-   "price": 2411.64,
-   "volume": 1738055,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 79,
-   "direction": "up",
-   "why": "How Oracle, KLA, Intel, EchoStar, and More Stocks Explain Today\u2019s Market",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.barrons.com/articles/stock-market-movers-today-super-micro-lam-research-e4f7a2ee?siteid=yhoof2&yptr=yahoo"
-  },
-  {
-   "rank": 3,
    "ticker": "AMAT",
    "company": "Applied Materials Inc",
    "move_pct": 11.19,
    "price": 552.64,
-   "volume": 12388639,
+   "volume": 12406800,
    "volume_vs_avg": "~2x",
    "heat_score": 72,
    "direction": "up",
-   "why": "US Equity Markets End Higher After Lower-Than-Expected Core Producer Price Inflation, US-Iran Agreement Progress",
+   "why": "2 Semiconductor Stocks to Keep an Eye On and 1 We Turn Down",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-202505831.html"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/2-semiconductor-stocks-keep-eye-102120717.html"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "ticker": "MU",
    "company": "Micron Technology Inc",
    "move_pct": 11.66,
    "price": 995.87,
-   "volume": 56337333,
-   "volume_vs_avg": "~1.0x",
+   "volume": 58826500,
+   "volume_vs_avg": "~1.1x",
    "heat_score": 71,
    "direction": "up",
-   "why": "Micron Stock Roars Back as It Shrugs Off Memory-Chip Threat From Rival",
+   "why": "Latest News In AI Chips - AI-Powered Shift: Transforming Data Into Business Intelligence",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.barrons.com/articles/micron-stock-price-sk-hynix-memory-chips-07e4c308?siteid=yhoof2&yptr=yahoo"
+   "source_url": "https://finance.yahoo.com/sectors/technology/articles/latest-news-ai-chips-ai-113735040.html"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
    "move_pct": 11.13,
    "price": 280.71,
-   "volume": 56567944,
+   "volume": 56878300,
    "volume_vs_avg": "~1.3x",
    "heat_score": 71,
    "direction": "up",
-   "why": "Adobe Stock Slides Despite Record Results. CFO Heads for Chip Company.",
+   "why": "Adobe Q2 2026 earnings: CFO Dan Durn exits, stock falls",
    "catalyst_type": "earnings",
-   "source_url": "https://www.barrons.com/articles/adobe-earnings-stock-price-f259c4e5?siteid=yhoof2&yptr=yahoo"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/adobe-q2-2026-earnings-cfo-113128426.html"
   },
   {
-   "rank": 6,
-   "ticker": "ARM",
-   "company": "Arm Holdings Plc ADR",
-   "move_pct": 11.32,
-   "price": 342.23,
-   "volume": 8652313,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 68,
-   "direction": "up",
-   "why": "Arm (ARM), NVIDIA (NVDA) Executive Highlight Shift Toward Agentic AI Computing",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/sectors/technology/articles/arm-arm-nvidia-nvda-executive-201551478.html"
-  },
-  {
-   "rank": 7,
+   "rank": 5,
    "ticker": "ORCL",
    "company": "Oracle Corp",
    "move_pct": -8.53,
    "price": 184.1,
-   "volume": 63236517,
+   "volume": 63522200,
    "volume_vs_avg": "~3x",
    "heat_score": 68,
    "direction": "down",
-   "why": "Dow Jones Futures: Stock Market Jumps On Trump's Iran U-Turn; SpaceX IPO Prices At $135",
+   "why": "Anthropic Hits $47 Billion Run-Rate as AI Price War Fears Rise",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-nasdaq-trump-iran-sandisk-spacex-ipo-prices-135/?src=A00220&yptr=yahoo"
+   "source_url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-hits-47-billion-run-121404687.html"
+  },
+  {
+   "rank": 6,
+   "ticker": "ASML",
+   "company": "ASML Holding NV",
+   "move_pct": 9.53,
+   "price": 1899.48,
+   "volume": 2945900,
+   "volume_vs_avg": "~2x",
+   "heat_score": 67,
+   "direction": "up",
+   "why": "The Competitive Threat That Never Was: ASML\u2019s Widening Moat Boosts Stock 77% YTD",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/competitive-threat-never-asml-widening-105508728.html"
+  },
+  {
+   "rank": 7,
+   "ticker": "TER",
+   "company": "Teradyne Inc",
+   "move_pct": 9.73,
+   "price": 381.4,
+   "volume": 5025300,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 65,
+   "direction": "up",
+   "why": "2 Semiconductor Stocks to Keep an Eye On and 1 We Turn Down",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/2-semiconductor-stocks-keep-eye-102120717.html"
   },
   {
    "rank": 8,
@@ -111,13 +111,13 @@
    "company": "Intel Corp",
    "move_pct": 9.27,
    "price": 116.96,
-   "volume": 184349981,
+   "volume": 187566500,
    "volume_vs_avg": "~1.3x",
    "heat_score": 64,
    "direction": "up",
-   "why": "Intel Bear Turns Bull. Here's Why.",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/news/technology/intel-stock-bear-turns-bull-bofa-upgrade-intc/?src=A00220&yptr=yahoo"
+   "why": "AMD Stock Pops After Buy Upgrade. It\u2019s More Than a CPU Play.",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://www.barrons.com/articles/amd-stock-buy-upgrade-cpu-bf9cabdc?siteid=yhoof2&yptr=yahoo"
   }
  ]
 }

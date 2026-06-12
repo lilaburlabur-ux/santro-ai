@@ -61,6 +61,9 @@ def main():
     if eco:
         refs += eco.get("tickers", [])
     symbols = sorted({t["ticker"] for t in refs})
+    # fresh IPOs have a single daily bar and no previous close — their seeded
+    # base_close (the IPO reference price) anchors the day move instead
+    base_ref = {t["ticker"]: t["base_close"] for t in refs if t.get("base_close")}
 
     px = yf.download(symbols, period="5d", interval="1d", auto_adjust=True,
                      progress=False, group_by="ticker", threads=True)
@@ -86,9 +89,12 @@ def main():
         try:
             c = px[sym]["Close"].dropna()
             v = px[sym]["Volume"].dropna()
-            if len(c) < 2:
+            if len(c) >= 2:
+                last, prev = float(c.iloc[-1]), float(c.iloc[-2])
+            elif len(c) == 1 and base_ref.get(sym):
+                last, prev = float(c.iloc[-1]), base_ref[sym]
+            else:
                 continue
-            last, prev = float(c.iloc[-1]), float(c.iloc[-2])
             chg = (last / prev - 1) * 100
             # corrupt-bar guard: a >40% daily print must survive a fast_info
             # cross-check (valid intraday) before we publish it

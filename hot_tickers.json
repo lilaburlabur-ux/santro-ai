@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-12T21:01:07+00:00",
+  "as_of": "2026-06-12T21:15:04+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,22 +11,22 @@
    "rank": 1,
    "ticker": "SPCX",
    "company": "SpaceX",
-   "move_pct": 20.97,
-   "price": 163.31,
+   "move_pct": 21.33,
+   "price": 163.79,
    "volume": 503893811,
    "volume_vs_avg": "~0.0x",
    "heat_score": 78,
    "direction": "up",
-   "why": "SpaceX opened the IPO 'floodgates' & awaits its 'true test' next week",
+   "why": "SpaceX is largest IPO in the history of capital markets",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/video/spacex-opened-the-ipo-floodgates--awaits-its-true-test-next-week-201957918.html"
+   "source_url": "https://finance.yahoo.com/video/spacex-is-largest-ipo-in-the-history-of-capital-markets-205601969.html"
   },
   {
    "rank": 2,
    "ticker": "ARM",
    "company": "Arm Holdings Plc ADR",
    "move_pct": 12.21,
-   "price": 384.01,
+   "price": 384.0,
    "volume": 16297928,
    "volume_vs_avg": "~1.3x",
    "heat_score": 74,
@@ -39,29 +39,29 @@
    "rank": 3,
    "ticker": "ADBE",
    "company": "Adobe Inc",
-   "move_pct": -6.62,
-   "price": 204.31,
+   "move_pct": -6.72,
+   "price": 204.11,
    "volume": 24943796,
    "volume_vs_avg": "~5x",
    "heat_score": 61,
    "direction": "down",
-   "why": "Update: US Equity Indexes Rise After Iran Says Peace Deal With Washington in Final Stage of Discussions",
+   "why": "Update: Equities Rise as SpaceX Soars; Wall Street Logs Weekly Gain Amid Iran Deal Optimism",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-iran-202141439.html"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-spacex-soars-wall-204325392.html"
   },
   {
    "rank": 4,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": 6.63,
-   "price": 124.71,
+   "move_pct": 6.53,
+   "price": 124.6,
    "volume": 148537475,
    "volume_vs_avg": "~1.1x",
-   "heat_score": 44,
+   "heat_score": 43,
    "direction": "up",
-   "why": "Stocks making big moves this week: DraftKings, Intel, Brinker International, FuelCell Energy, and Robinhood",
+   "why": "My Top 5 Artificial Intelligence (AI) Stocks to Buy Right Now",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-week-202920047.html"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/top-5-artificial-intelligence-ai-205600892.html"
   }
  ]
 }

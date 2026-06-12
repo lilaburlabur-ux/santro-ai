@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
-| Adobe stock sinks as CFO departs for Marvell | Yahoo Finance | 2026-06-12 |
 | Investing.com’s stocks of the week | Investing.com | 2026-06-12 |
 | Adobe CFO Heads to a Chip Firm. It’s All You Need to Know About Software’s Downfall. | Barrons.com | 2026-06-12 |
 | Adobe trades revenue for reach as AI monetization stays elusive | Proactive | 2026-06-12 |
+| Adobe CFO’s exit leaves leadership gap | CFO Dive | 2026-06-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -37,9 +37,9 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Headline | Source | Date |
 |---|---|---|
 | SpaceX stock gains, space companies fall, chips mixed on IPO news | Yahoo Finance Video | 2026-06-12 |
-| SpaceX Holds Most IPO Gains; It's Already The Sixth-Largest Company | Investor's Business Daily | 2026-06-12 |
 | 2 Unsung Heroes of Big Tech's $725 Billion AI Capex Spend | Motley Fool | 2026-06-12 |
 | Stock Market Today, June 12: SpaceX Mega IPO Soars, Testing Tech Stocks at Midday | Motley Fool | 2026-06-12 |
+| SpaceX Opens at $150. That's Disappointing. | Barrons.com | 2026-06-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

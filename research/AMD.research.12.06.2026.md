@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| AMD Stock Upgraded To Buy On GPU Upside | Investor's Business Daily | 2026-06-12 |
 | Sector Update: Tech Stocks Rise Late Afternoon | MT Newswires | 2026-06-12 |
 | AMD Rises as Citi Sees Bigger GPU Opportunity | GuruFocus.com | 2026-06-12 |
 | AMD Stock Pops After Buy Upgrade. It’s More Than a CPU Play. | Barrons.com | 2026-06-12 |
-| Bank of America makes major reset to Intel stock price target | TheStreet | 2026-06-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company. Th
 |---|---|---|
 | SpaceX stock gains, space companies fall, chips mixed on IPO news | Yahoo Finance Video | 2026-06-12 |
 | Expect 'robust capability' from this KKR-backed AI venture: CEO | Yahoo Finance Video | 2026-06-11 |
-| Brent Oil Drops Below $90 as the U.S. Closes in on a Peace Deal With Iran. What it Means for Oil Stocks. | Motley Fool | 2026-06-12 |
-| Jeff Bezos’ New Venture Just Raised $12 Billion. He’s Betting AI Will Create a Physical Labor Shortage. | 24/7 Wall St. | 2026-06-12 |
+| My Top 5 Artificial Intelligence (AI) Stocks to Buy Right Now | Motley Fool | 2026-06-12 |
+| Veteran Investor: Talen Energy Is a Double at Minimum, With Triple-Digit Upside as Power Demand Rises | 24/7 Wall St. | 2026-06-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

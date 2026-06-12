@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI Bubble metrics — composite bubble-risk index | Santro AI</title>
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png" />
+<link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+<meta name="description" content="How bubbly is the AI market? A composite bubble-risk index (valuation, capital flows, adoption, sentiment, systemic risk) with 180 days of history. Data courtesy of AI Bubble Monitor. Not financial advice." />
+<link rel="canonical" href="https://santroai.tech/bubble.html" />
+<meta property="og:title" content="AI Bubble metrics | Santro AI" />
+<meta property="og:description" content="Composite AI bubble-risk index with five pillars and 180-day history." />
+<meta property="og:url" content="https://santroai.tech/bubble.html" />
+<meta property="og:image" content="https://santroai.tech/assets/santro-mascot-day.png" />
+<meta property="og:type" content="website" />
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
+<link rel="stylesheet" href="site.css?v=8" />
+<style>
+  .gauge{display:flex; align-items:center; gap:26px; flex-wrap:wrap; background:var(--panel);
+    border:1px solid var(--border); border-radius:var(--radius); padding:22px 26px; margin-bottom:16px;}
+  .gauge .num{font-size:54px; font-weight:800; letter-spacing:-1px; line-height:1;}
+  .gauge .lbl{font-size:15px; font-weight:700; margin-top:6px;}
+  .gauge .sub{color:var(--faint); font-size:11.5px; margin-top:4px;}
+  .pillars{flex:1 1 380px; display:grid; gap:9px; min-width:300px;}
+  .pillar{display:grid; grid-template-columns:120px 1fr 40px; gap:10px; align-items:center; font-size:12.5px;}
+  .pillar .k{color:var(--muted);}
+  .bar{height:9px; border-radius:999px; background:var(--panel-2); overflow:hidden; border:1px solid var(--border-soft);}
+  .bar i{display:block; height:100%; border-radius:999px;}
+  .pillar .v{color:var(--muted); text-align:right; font-weight:600;}
+  .histwrap{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius); padding:18px;}
+  .src{margin-top:14px; font-size:12.5px; color:var(--muted);}
+  .src a{font-weight:700;}
+</style>
+</head>
+<body>
+  <header class="pageheader">
+    <a class="logo" href="/" title="Santro AI — terminal">
+      <span class="logo-s">S<span class="logo-ai">AI</span></span>
+      <span class="logo-rest"><span class="logo-antro">ANTRO</span>
+        <span class="logo-tagline">AI&nbsp;RESEARCH&nbsp;·&nbsp;MARKETS</span></span>
+    </a>
+    <nav class="pagenav">
+      <a class="nav-link" href="/">Terminal</a>
+      <a class="nav-link" href="/stocks.html">Stocks</a>
+      <a class="nav-link" href="/etfs.html">ETFs</a>
+      <a class="nav-link" href="/crypto.html">Crypto</a>
+      <a class="nav-link" href="/news.html">News</a>
+      <a class="nav-link" href="/research.html">Research</a>
+      <a class="nav-link" href="/about.html">About</a>
+      <details class="nav-more">
+        <summary class="nav-link">More ▾</summary>
+        <div class="menu">
+          <a href="/bubble.html">AI Bubble metrics</a>
+        </div>
+      </details>
+    </nav>
+  </header>
+
+  <main>
+    <h1>AI Bubble metrics <span class="badge" id="asof">…</span></h1>
+    <p class="lede">One number for the question everyone asks: <b>how bubbly is the AI market?</b>
+    A composite 0–100 bubble-risk index built from five pillars — valuation, capital flows,
+    adoption, sentiment and systemic risk — with 180 days of history. Higher = frothier.
+    Index data courtesy of <a href="https://aibubblemonitor.com" target="_blank" rel="noopener"><b>AI
+    Bubble Monitor</b></a>. Not financial advice.</p>
+
+    <div class="gauge" id="gauge">Loading…</div>
+
+    <div class="histwrap">
+      <div style="font-size:10px;letter-spacing:.7px;text-transform:uppercase;color:var(--faint);font-weight:700;margin-bottom:10px">Last 180 days</div>
+      <div id="hist"></div>
+    </div>
+
+    <p class="src">Source: <a href="https://aibubblemonitor.com" target="_blank" rel="noopener">aibubblemonitor.com</a>
+    — the AI Bubble Index and its methodology belong to AI Bubble Monitor; Santro AI mirrors the
+    published values with attribution. Index updates daily.</p>
+  </main>
+
+  <footer>
+    <nav class="foot-nav" style="margin-bottom:6px"><a href="/">Terminal</a> · <a href="/stocks.html">Stocks</a> · <a href="/etfs.html">ETFs</a> · <a href="/crypto.html">Crypto</a> · <a href="/news.html">News</a> · <a href="/research.html">Research</a> · <a href="/about.html">About</a></nav>
+    Santro AI — AI bubble map &amp; research journal for the AI narrative. Beta version.<br>
+    <span class="nfa">Not financial advice.</span> Quotes delayed. Removed with paid version.<br>
+    Contact us: <a href="mailto:hello@santroai.tech">hello@santroai.tech</a><br>
+    © 2026 Santro AI. All rights reserved. Uses custom models.
+  </footer>
+
+<script>
+function riskColor(v){ // 0 cool green → 50 amber → 100 red
+  if(v==null) return "#8895a4";
+  if(v<25) return "#22c55e";
+  if(v<45) return "#69cd91";
+  if(v<60) return "#e0a73f";
+  if(v<80) return "#f05a6e";
+  return "#b91c1c";
+}
+const PILLARS=[["valuation","Valuation"],["capitalFlows","Capital flows"],["adoption","Adoption"],
+               ["sentiment","Sentiment"],["systemicRisk","Systemic risk"]];
+
+async function load(){
+  let d=null;
+  try{ d=await (await fetch("bubble_index.json?t="+Date.now())).json(); }catch(e){}
+  if(!d||!d.index){ document.getElementById("gauge").textContent="Index feed unavailable."; return; }
+  const ix=d.index;
+  document.getElementById("asof").textContent="Updated "+(ix.timestamp||"").slice(0,10);
+  document.getElementById("gauge").innerHTML=`
+    <div><div class="num" style="color:${riskColor(ix.overall)}">${ix.overall}</div>
+      <div class="lbl" style="color:${riskColor(ix.overall)}">${ix.label||""}</div>
+      <div class="sub">0 = cold · 100 = mania</div></div>
+    <div class="pillars">${PILLARS.map(([k,nm])=>`
+      <div class="pillar"><span class="k">${nm}</span>
+        <span class="bar"><i style="width:${Math.max(2,Math.min(100,ix[k]||0))}%;background:${riskColor(ix[k])}"></i></span>
+        <span class="v">${ix[k]??"—"}</span></div>`).join("")}</div>`;
+  const h=(d.history||[]).filter(p=>p.v!=null);
+  if(h.length>2){
+    const w=900,ht=140,vs=h.map(p=>p.v),min=Math.min(...vs)-2,max=Math.max(...vs)+2,rng=(max-min)||1;
+    const pts=h.map((p,i)=>`${(i/(h.length-1)*w).toFixed(1)},${(ht-6-((p.v-min)/rng)*(ht-12)).toFixed(1)}`).join(" ");
+    document.getElementById("hist").innerHTML=`
+      <svg width="100%" height="${ht}" viewBox="0 0 ${w} ${ht}" preserveAspectRatio="none" style="display:block">
+        <polyline points="${pts}" fill="none" stroke="#e0a73f" stroke-width="2.5"/></svg>
+      <div style="display:flex;justify-content:space-between;color:var(--faint);font-size:11px;margin-top:6px">
+        <span>${(h[0].t||"").slice(0,10)} · low ${Math.min(...vs)}</span>
+        <span>high ${Math.max(...vs)} · ${(h[h.length-1].t||"").slice(0,10)}</span></div>`;
+  }
+}
+load(); setInterval(load, 300000);
+</script>
+<script src="site.js?v=8"></script>
+</body>
+</html>

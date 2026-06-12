@@ -12,7 +12,7 @@
 <meta name="description" content="Live ticker page on Santro AI: price, market cap, P/E, volume, performance, 60-session chart, research scores and news. Data delayed ~15 min. Not financial advice." />
 <meta name="robots" content="noindex" />
 <script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
-<link rel="stylesheet" href="site.css?v=7" />
+<link rel="stylesheet" href="site.css?v=8" />
 <style>
   .tp-head{display:flex; align-items:center; gap:16px; flex-wrap:wrap; padding:6px 0 18px;}
   .tp-head img{width:54px; height:54px; border-radius:50%;}
@@ -56,6 +56,12 @@
       <a class="nav-link" href="/news.html">News</a>
       <a class="nav-link" href="/research.html">Research</a>
       <a class="nav-link" href="/about.html">About</a>
+      <details class="nav-more">
+        <summary class="nav-link">More ▾</summary>
+        <div class="menu">
+          <a href="/bubble.html">AI Bubble metrics</a>
+        </div>
+      </details>
     </nav>
   </header>
 
@@ -183,6 +189,6 @@ async function load(){
 }
 load(); setInterval(load, 60000);
 </script>
-<script src="site.js?v=7"></script>
+<script src="site.js?v=8"></script>
 </body>
 </html>

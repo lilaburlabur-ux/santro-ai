@@ -125,9 +125,11 @@
   #theme-toggle.day .ic-moon{display:none;}
 
 
-  .intro-line{display:flex; align-items:baseline; gap:12px; flex-wrap:wrap; padding:10px 16px 0;}
+  .intro-line{padding:10px 16px 0;}
   .intro-line h1{margin:0; font-size:13px; font-weight:700; color:var(--muted); letter-spacing:.2px;}
-  .intro-line span{font-size:11px; color:var(--faint);}
+  .intro-line p{margin:3px 0 0; font-size:11.5px; line-height:1.55; color:var(--faint); max-width:980px;}
+  .intro-line p a{color:var(--accent-2); text-decoration:none;}
+  .intro-line p a:hover{text-decoration:underline;}
   .grid{display:grid; gap:14px; padding:14px;
     grid-template-columns:1.55fr 1fr 1fr;
     grid-template-rows:474px minmax(392px, auto);
@@ -387,7 +389,11 @@
 
   <div class="intro-line">
     <h1>Santro AI terminal — live AI stocks bubble map, hot tickers &amp; research</h1>
-    <span>84-name AI Universe · NVIDIA Ecosystem · SpaceX IPO · signed research journal · data ~15-min delayed · not financial advice</span>
+    <p>Santro AI tracks the AI trade in real time: the 84-name <a href="/stocks.html">AI Universe and NVIDIA Ecosystem</a>
+    as living bubbles sized by the day's move, <a href="/etfs.html">AI ETFs</a>, a 15-minute hot-tickers scan with the
+    reason each name is moving, and a <a href="/research.html">signed research journal</a> with key takeaways through the
+    session. Quotes are ~15-min delayed and cover premarket, market hours and after-hours.
+    <a href="/about.html">About the method</a> · not financial advice.</p>
   </div>
 
   <div class="grid">

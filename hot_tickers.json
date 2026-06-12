@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-12T20:25:42+00:00",
+  "as_of": "2026-06-12T20:40:51+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,25 +11,25 @@
    "rank": 1,
    "ticker": "SPCX",
    "company": "SpaceX",
-   "move_pct": 21.0,
-   "price": 163.35,
+   "move_pct": 21.7,
+   "price": 164.3,
    "volume": 503893811,
    "volume_vs_avg": "~0.0x",
    "heat_score": 78,
    "direction": "up",
-   "why": "SpaceX stock gains, space companies fall, chips mixed on IPO news",
+   "why": "SpaceX opened the IPO 'floodgates' & awaits its 'true test' next week",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/video/spacex-stock-gains-space-companies-fall-chips-mixed-on-ipo-news-195735942.html"
+   "source_url": "https://finance.yahoo.com/video/spacex-opened-the-ipo-floodgates--awaits-its-true-test-next-week-201957918.html"
   },
   {
    "rank": 2,
    "ticker": "ARM",
    "company": "Arm Holdings Plc ADR",
-   "move_pct": 11.84,
-   "price": 382.75,
+   "move_pct": 11.57,
+   "price": 381.84,
    "volume": 16297928,
    "volume_vs_avg": "~1.3x",
-   "heat_score": 73,
+   "heat_score": 72,
    "direction": "up",
    "why": "Billionaire Brad Gerstner Dumped All of His Alphabet Then Bought 2 Stocks Nobody Expected",
    "catalyst_type": "momentum_narrative",
@@ -39,29 +39,29 @@
    "rank": 3,
    "ticker": "ADBE",
    "company": "Adobe Inc",
-   "move_pct": -6.64,
-   "price": 204.27,
+   "move_pct": -6.54,
+   "price": 204.49,
    "volume": 24943796,
    "volume_vs_avg": "~5x",
    "heat_score": 61,
    "direction": "down",
-   "why": "US Equity Markets End Higher After Iran Confirms Progress on Peace Agreement, Crude Oil Prices Fall",
+   "why": "Update: US Equity Indexes Rise After Iran Says Peace Deal With Washington in Final Stage of Discussions",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-200830674.html"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-iran-202141439.html"
   },
   {
    "rank": 4,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": 6.7,
-   "price": 124.8,
+   "move_pct": 6.59,
+   "price": 124.67,
    "volume": 148113777,
    "volume_vs_avg": "~1.1x",
-   "heat_score": 44,
+   "heat_score": 43,
    "direction": "up",
-   "why": "SpaceX stock gains, space companies fall, chips mixed on IPO news",
+   "why": "Teva's Biosimilar Boom Is Just Getting Started. Is It Time to Buy This Rebounding Pharma Stock?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/video/spacex-stock-gains-space-companies-fall-chips-mixed-on-ipo-news-195735942.html"
+   "source_url": "https://finance.yahoo.com/sectors/healthcare/articles/tevas-biosimilar-boom-just-getting-202500756.html"
   }
  ]
 }

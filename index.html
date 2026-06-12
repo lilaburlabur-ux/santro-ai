@@ -224,6 +224,28 @@
   .ipo-main .note{color:var(--faint); font-size:11.5px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; margin-top:1px;}
   .ipo-right{text-align:right; flex:0 0 auto;} .ipo-right .val{font-weight:600;}
   .ipo-right .stat{font-size:10px; color:#e0a73f; text-transform:uppercase; letter-spacing:.4px; margin-top:1px;}
+  /* ---- SpaceX IPO feature (the only IPO shown; big live price + running news) ---- */
+  .spcx-head{display:flex; align-items:center; gap:12px; padding:4px 0 12px; cursor:pointer;
+    border-bottom:1px solid var(--border-soft);}
+  .spcx-head:hover .spcx-tk{color:var(--accent-2);}
+  .spcx-logo{width:42px;height:42px;border-radius:11px;background:var(--accent-soft);
+    border:1px solid var(--accent-border); display:grid;place-items:center;
+    font-weight:700;color:var(--accent-2);flex:0 0 auto; font-size:13px;}
+  .spcx-main{flex:1 1 auto; min-width:0;}
+  .spcx-nm{font-weight:700; font-size:15px;}
+  .spcx-tk{color:var(--muted); font-size:11.5px; margin-top:1px; transition:.12s;}
+  .spcx-px{text-align:right; flex:0 0 auto;}
+  .spcx-px .big{font-size:27px; font-weight:800; letter-spacing:-.5px; line-height:1.05;
+    font-variant-numeric:tabular-nums;}
+  .spcx-px .chg{font-size:14px; font-weight:700; margin-top:2px;}
+  .spcx-px .ref{font-size:10px; color:var(--faint); margin-top:2px; text-transform:uppercase; letter-spacing:.4px;}
+  .spcx-news{padding-top:4px;}
+  .spcx-item{padding:9px 0; border-bottom:1px solid var(--border-soft); line-height:1.4;}
+  .spcx-item:last-child{border-bottom:0;}
+  .spcx-item a{color:var(--text); text-decoration:none; font-size:13px;}
+  .spcx-item a:hover{color:var(--accent-2);}
+  .spcx-item .m{color:var(--faint); font-size:11px; margin-top:2px;}
+  .spcx-wait{color:var(--faint); font-size:12.5px; padding:12px 0; font-style:italic;}
   .takeaway{display:flex; gap:10px; padding:9px 0; border-bottom:1px solid var(--border-soft); line-height:1.45;}
   .takeaway:last-child{border-bottom:0;} .takeaway .b{color:var(--accent); flex:0 0 auto;}
   .tk-since{font-size:12px; color:var(--faint); font-style:italic; padding-bottom:10px;
@@ -339,7 +361,7 @@
     </section>
 
     <section class="panel area-ipo">
-      <h2><span class="ic">◎</span> AI-related IPOs <span class="badge sample">Featured</span></h2>
+      <h2><span class="ic">🚀</span> SpaceX IPO · SPCX <span class="badge live" id="spcx-badge">Live</span></h2>
       <div class="body" id="ipo"></div>
     </section>
 
@@ -413,13 +435,6 @@ const SAMPLE_SMALLCAPS=[
   {sym:"RXRX",name:"Recursion Pharma",pct:4.9},{sym:"AI",name:"C3.ai",pct:3.1},
   {sym:"AEYE",name:"AudioEye",pct:2.4},{sym:"VERI",name:"Veritone",pct:-1.8},
   {sym:"GFAI",name:"Guardforce AI",pct:-3.5},
-];
-const SAMPLE_IPOS=[
-  {name:"SpaceX",init:"SX",note:"Starlink · AI-assisted flight ops",val:"~$350B",stat:"Pre-IPO"},
-  {name:"OpenAI",init:"AI",note:"ChatGPT, GPT models",val:"~$300B",stat:"Pre-IPO"},
-  {name:"Anthropic",init:"A",note:"Claude models",val:"~$60B",stat:"Pre-IPO"},
-  {name:"xAI",init:"X",note:"Grok",val:"~$50B",stat:"Pre-IPO"},
-  {name:"Databricks",init:"DB",note:"Data + AI platform",val:"~$62B",stat:"Filed"},
 ];
 
 const chart=echarts.init(document.getElementById("chart"),null,{renderer:"canvas"});
@@ -879,10 +894,36 @@ function renderSamples(){
       <div class="mover"><span class="sym">${m.sym}</span><span class="nm">${m.name}</span>
         <span class="pct ${pctClass(m.pct)}">${fmtPct(m.pct)}</span></div>`).join("");
   }
-  document.getElementById("ipo").innerHTML=SAMPLE_IPOS.map(c=>`
-    <div class="ipo-row"><div class="ipo-logo">${c.init}</div>
-      <div class="ipo-main"><div class="nm">${c.name}</div><div class="note">${c.note}</div></div>
-      <div class="ipo-right"><div class="val">${c.val}</div><div class="stat">${c.stat}</div></div></div>`).join("");
+  renderSpaceX();
+}
+// SpaceX IPO feature — the panel's only IPO: big live SPCX price (universe.json,
+// extended-session aware) + running SpaceX headlines from the news feed
+function renderSpaceX(){
+  const el=document.getElementById("ipo");
+  if(!el) return;
+  const s = universe ? universe.bubbles.flatMap(b=>b.tickers).find(t=>t.ticker==="SPCX") : null;
+  const badge=document.getElementById("spcx-badge");
+  if(badge && universe) badge.textContent = "Live · " + ({pre:"premarket",post:"after hours",regular:"market open",closed:"market closed"}[universe.meta.session]||"");
+  let h="";
+  if(s){
+    const traded = s.change_pct!==0 || s.price!==135;
+    h+=`<div class="spcx-head" onclick="openTicker('SPCX')" title="Open SPCX in the bubble map">
+      <div class="spcx-logo">SX</div>
+      <div class="spcx-main"><div class="spcx-nm">SpaceX</div>
+        <div class="spcx-tk">SPCX · Nasdaq · ${fmtCap(s.market_cap_b*1e9)} · Aerospace &amp; Defense</div></div>
+      <div class="spcx-px"><div class="big">$${s.price.toFixed(2)}</div>
+        <div class="chg ${pctClass(s.change_pct)}">${fmtPct(s.change_pct)}</div>
+        <div class="ref">${traded?"vs IPO $135.00":"IPO price · awaiting first trade"}</div></div>
+    </div>`;
+  }
+  const items=(newsFeed&&newsFeed.items?newsFeed.items:[])
+    .filter(it=>(it.tickers||[]).includes("SPCX") || /spacex|space exploration/i.test(it.title||""))
+    .slice(0,5);
+  h+=`<div class="spcx-news">`+(items.length?items.map(it=>`
+    <div class="spcx-item"><a href="${it.link||"#"}" target="_blank" rel="noopener">${it.title}</a>
+      <div class="m">${it.publisher||""}${it.published?" · "+timeAgo(it.published):""}</div></div>`).join("")
+    :`<div class="spcx-wait">Waiting for fresh SpaceX headlines — feed updates every 20 minutes…</div>`)+`</div>`;
+  el.innerHTML=h;
 }
 function renderTakeaways(){
   const badge=document.getElementById("tk-badge");

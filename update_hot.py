@@ -21,12 +21,28 @@ import os
 import sys
 import json
 import datetime as dt
+from zoneinfo import ZoneInfo
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 os.chdir(HERE)
 
 import yfinance as yf
+
+
+def session_now():
+    """US equity session on the NY clock (same logic as update_quotes.py)."""
+    now = dt.datetime.now(ZoneInfo("America/New_York"))
+    if now.weekday() >= 5:
+        return "closed"
+    m = now.hour * 60 + now.minute
+    if 240 <= m < 570:
+        return "pre"
+    if 570 <= m < 960:
+        return "regular"
+    if 960 <= m < 1200:
+        return "post"
+    return "closed"
 
 CATALYST_KEYWORDS = [
     ("analyst_action", ["upgrade", "downgrade", "price target", "initiat", "overweight", "underweight", "double upgrade"]),
@@ -75,6 +91,23 @@ def main():
                      progress=False, group_by="ticker", threads=True)
     news = fresh_news()
 
+    # daily bars freeze at the last close outside market hours — overlay live
+    # extended-session prices so premarket/AH "hot" moves are today's, not
+    # yesterday's (same approach as update_quotes.py)
+    session = session_now()
+    ext = {}
+    if session in ("pre", "post"):
+        xp = yf.download(syms, period="1d", interval="1m", prepost=True,
+                         auto_adjust=True, progress=False, group_by="ticker",
+                         threads=True)
+        for sym in syms:
+            try:
+                cx = xp[sym]["Close"].dropna()
+                if len(cx):
+                    ext[sym] = float(cx.iloc[-1])
+            except Exception:
+                pass
+
     cards = []
     for sym in syms:
         try:
@@ -102,6 +135,13 @@ def main():
                         continue
                 except Exception:
                     continue
+            # extended-session overlay: change always vs previous official close
+            if session in ("pre", "post"):
+                base = last if session == "pre" else prev
+                now_px = ext.get(sym, last)
+                x = (now_px / base - 1) * 100
+                if abs(x) < 40 and base > 0:
+                    last, move = now_px, x
             vol = int(v.iloc[-1]) if len(v) else 0
             avg = float(v.iloc[-31:-1].mean()) if len(v) > 31 else float(v.iloc[:-1].mean()) if len(v) > 1 else 0.0
             ratio = vol / avg if avg and avg == avg else 0.0   # avg==avg filters NaN

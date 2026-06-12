@@ -132,12 +132,15 @@ def main():
                 fail += 1
                 print(f"  FAIL {t['ticker']}: {e}")
 
-        # bubble aggregates follow the fresh ticker data
-        b["total_market_cap_b"] = round(sum(t["market_cap_b"] for t in b["tickers"]), 1)
-        b["avg_change_pct"] = round(sum(t["change_pct"] for t in b["tickers"]) / len(b["tickers"]), 2)
-        b["tickers"].sort(key=lambda t: t["market_cap_b"], reverse=True)
+        # bubble aggregates follow the fresh ticker data (None-safe: a ticker
+        # that failed this cycle keeps old values and must not crash the bubble)
+        b["count"] = len(b["tickers"])   # self-heal: merge races have corrupted counts
+        b["total_market_cap_b"] = round(sum(t.get("market_cap_b") or 0 for t in b["tickers"]), 1)
+        b["avg_change_pct"] = round(sum(t.get("change_pct") or 0 for t in b["tickers"]) / len(b["tickers"]), 2)
+        b["tickers"].sort(key=lambda t: t.get("market_cap_b") or 0, reverse=True)
         print(f"  bubble {b['id']}: cap ${b['total_market_cap_b']}B, avg {b['avg_change_pct']:+.2f}%")
 
+    d["meta"]["total_tickers"] = sum(len(b["tickers"]) for b in d["bubbles"])
     d["meta"]["as_of"] = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     json.dump(d, open(PATH, "w"), indent=1)
     print(f"Wrote universe.json — {ok} tickers refreshed, {fail} failed, as of {d['meta']['as_of']}")

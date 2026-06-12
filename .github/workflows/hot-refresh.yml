@@ -1,9 +1,11 @@
 name: Hot tickers refresh
 
-# Quantitative hot-tickers scan every 15 min during market hours.
+# Quantitative hot-tickers scan every 15 min across the full extended session
+# (premarket 4:00 ET through after-hours 20:00 ET), session-aware moves.
 on:
   schedule:
-    - cron: "*/15 13-21 * * 1-5"
+    - cron: "*/15 8-23 * * 1-5"
+    - cron: "*/15 0 * * 2-6"
   workflow_dispatch:
 
 permissions:

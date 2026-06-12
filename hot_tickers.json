@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-12T14:22:32+00:00",
+  "as_of": "2026-06-12T14:31:35+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,13 +9,27 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "ARM",
+   "company": "Arm Holdings Plc ADR",
+   "move_pct": 8.23,
+   "price": 370.41,
+   "volume": 4855270,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 56,
+   "direction": "up",
+   "why": "FTC Probe Puts Arm Licensing Model And AGI CPU Plans In Focus",
+   "catalyst_type": "regulatory",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ftc-probe-puts-arm-licensing-121353752.html"
+  },
+  {
+   "rank": 2,
    "ticker": "ADBE",
    "company": "Adobe Inc",
-   "move_pct": -8.39,
-   "price": 200.45,
-   "volume": 12061054,
+   "move_pct": -6.87,
+   "price": 203.76,
+   "volume": 12681174,
    "volume_vs_avg": "~2x",
-   "heat_score": 66,
+   "heat_score": 51,
    "direction": "down",
    "why": "Stock Market Today: Dow Rises On Iran Peace Deal Hopes; SpaceX May Surge 27% In Debut (Live Coverage)",
    "catalyst_type": "momentum_narrative",
@@ -37,31 +51,31 @@
   },
   {
    "rank": 3,
-   "ticker": "AMD",
-   "company": "Advanced Micro Devices Inc",
-   "move_pct": 5.49,
-   "price": 515.26,
-   "volume": 9932210,
-   "volume_vs_avg": "~0.3x",
-   "heat_score": 36,
-   "direction": "up",
-   "why": "AMD upgraded, Adobe downgraded: Wall Street's top analyst calls",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/amd-upgraded-adobe-downgraded-wall-133850577.html"
-  },
-  {
-   "rank": 4,
    "ticker": "SMR",
    "company": "NuScale Power Corp",
-   "move_pct": 5.43,
-   "price": 10.09,
-   "volume": 11263642,
+   "move_pct": 6.11,
+   "price": 10.15,
+   "volume": 11962518,
    "volume_vs_avg": "~0.3x",
-   "heat_score": 36,
+   "heat_score": 38,
    "direction": "up",
    "why": "NuScale's Behind-the-Meter Push Targets the Grid Bottleneck",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/sectors/energy/articles/nuscales-behind-meter-push-targets-115900305.html"
+  },
+  {
+   "rank": 4,
+   "ticker": "AMD",
+   "company": "Advanced Micro Devices Inc",
+   "move_pct": 5.25,
+   "price": 514.09,
+   "volume": 10606046,
+   "volume_vs_avg": "~0.3x",
+   "heat_score": 35,
+   "direction": "up",
+   "why": "AMD upgraded, Adobe downgraded: Wall Street's top analyst calls",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/amd-upgraded-adobe-downgraded-wall-133850577.html"
   }
  ]
 }

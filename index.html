@@ -450,19 +450,11 @@ function colorFor(pct){
 }
 const pctClass = x => x>=0 ? "up":"down";
 
-const SAMPLE_SMALLCAPS=[
-  {sym:"SOUN",name:"SoundHound AI",pct:8.6},{sym:"BBAI",name:"BigBear.ai",pct:6.2},
-  {sym:"RXRX",name:"Recursion Pharma",pct:4.9},{sym:"AI",name:"C3.ai",pct:3.1},
-  {sym:"AEYE",name:"AudioEye",pct:2.4},{sym:"VERI",name:"Veritone",pct:-1.8},
-  {sym:"GFAI",name:"Guardforce AI",pct:-3.5},
-];
-
 const chart=echarts.init(document.getElementById("chart"),null,{renderer:"canvas"});
 let stocks=[], etf=null, selectedSymbol=null, heatMode="universe";
 let research=null, asOfUtc=null;   // research.json cards + quote timestamp
 let takeaways=null;                // takeaways/takeaways.json (4-hour cycle)
 let tkExpanded=false;              // "See more" state — survives the 60s auto-refresh
-let runners=null;                  // runners.json — legacy curated movers (fallback)
 let hotData=null;                  // hot_tickers.json — 15-min hot-tickers scan (hot-tickers/SPEC.md)
 let universe=null, uniGroup=null;  // universe.json — 83-ticker AI universe in 7 themed bubbles
 let eco=null;                      // ecosystem.json — 30-name NVIDIA Ecosystem basket
@@ -900,22 +892,11 @@ function renderSamples(){
           <div class="fire">🔥 ${t.heat_score}</div>
         </div>`;}).join("")
       + `<div class="runner-note">${hotData.meta.heat_criteria}<br>${hotData.meta.disclaimer}</div>`;
-  } else if(runners && runners.runners && runners.runners.length){
-    if(rb){ rb.textContent=`Curated · ${runners.updated_et||"manual"}`; rb.className="badge live"; }
-    document.getElementById("small").innerHTML =
-      runners.runners.map(m=>`
-        <div class="runner">
-          <div class="r1"><span class="sym">${m.sym}</span>
-            <span class="rmeta">${m.cap} · ${m.vol} vol</span>
-            <span class="pct ${pctClass(m.pct)}">${fmtPct(m.pct)}</span></div>
-          <div class="r2">${m.narrative||""}</div>
-        </div>`).join("")
-      + `<div class="runner-note">${runners.filter||""}${runners.note?"<br>"+runners.note:""}</div>`;
   } else {
-    if(rb){ rb.textContent="Sample"; rb.className="badge sample"; }
-    document.getElementById("small").innerHTML=SAMPLE_SMALLCAPS.map(m=>`
-      <div class="mover"><span class="sym">${m.sym}</span><span class="nm">${m.name}</span>
-        <span class="pct ${pctClass(m.pct)}">${fmtPct(m.pct)}</span></div>`).join("");
+    // no fake fallbacks — an honest empty state beats stale sample data
+    if(rb){ rb.textContent="Offline"; rb.className="badge sample"; }
+    document.getElementById("small").innerHTML=
+      `<div class="runner-note">Hot tickers feed temporarily unavailable — refreshes every 15 minutes.</div>`;
   }
   renderSpaceX();
 }
@@ -1034,8 +1015,6 @@ async function loadData(){
     catch(e){ research=null; }
     try{ takeaways=await (await fetch("takeaways/takeaways.json?t="+Date.now())).json(); }
     catch(e){ takeaways=null; }
-    try{ runners=await (await fetch("runners.json?t="+Date.now())).json(); }
-    catch(e){ runners=null; }
     try{ hotData=await (await fetch("hot_tickers.json?t="+Date.now())).json(); }
     catch(e){ hotData=null; }
     try{

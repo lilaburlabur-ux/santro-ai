@@ -147,11 +147,14 @@ def main():
         for b in universe.get("bubbles", []):
             members = b.get("tickers", [])
             if members:
+                b["count"] = len(members)   # self-heal: merge races have corrupted counts
                 b["avg_change_pct"] = round(
                     sum(t.get("change_pct") or 0 for t in members) / len(members), 2)
                 b["total_market_cap_b"] = round(
                     sum(t.get("market_cap_b") or 0 for t in members), 2)
         universe.setdefault("meta", {})["as_of"] = stamp
+        universe["meta"]["total_tickers"] = sum(
+            len(b.get("tickers", [])) for b in universe.get("bubbles", []))
         universe["meta"]["session"] = session
         json.dump(universe, open("universe.json", "w"), indent=1)
     if eco:

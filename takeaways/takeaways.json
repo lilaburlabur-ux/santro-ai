@@ -1,46 +1,58 @@
 {
  "session": "Midday",
- "generated_et": "Thu Jun 11, 2026 · 1:20 PM ET",
- "generated_utc": "2026-06-11T17:20:00+00:00",
- "since_last": "Since Wed midday: NVDA held $200 through both closes ($200.42); MU lost $900 at the bell ($891.88) but is reclaiming it today; Oracle — yesterday's risk card — answered the AI-capex question with a −12% gap.",
+ "generated_et": "Fri Jun 12, 2026 · 10:30 AM ET",
+ "generated_utc": "2026-06-12T14:30:00+00:00",
+ "since_last": "Since Thu midday: the split tape followed through — SOXX added +1.3% on top of Thursday's +2.7% while ADBE −7.9% extends the software bleed; new tape boss: SpaceX's $75B IPO awaits its first print.",
  "cards": [
   {
-   "headline": "Split tape: semis rip while software and adtech bleed",
-   "body": "SOXX +2.74% and SMH +2.07% against a flat SPY (+0.03%) — the rotation inside the AI universe is the story, not the index. Universe breadth is an even 45/83 green, with sector averages stretched from Equipment +2.6% to Platforms & AdTech −2.5% (1:20 PM ET, ~15-min delayed). TLT +0.31% — bonds calm.",
-   "tickers": ["SPY", "QQQ", "SMH", "SOXX"],
+   "headline": "SpaceX prices at $135; perp market says the pop is 30%",
+   "body": "The biggest IPO in history raised $75B at $135/share; Musk rang the Nasdaq bell remotely and the quotation released at 9:50 ET, but no first trade has printed as of 10:13 ET. Hyperliquid's pre-IPO perp trades ~$177.7 after tagging $180 this morning — a futures market handicapping a ~30% debut pop (IBD pegs it at 27%). Until the cross, $135 is the only official number on the tape.",
+   "tickers": [
+    "SPCX"
+   ],
+   "watch": "First Nasdaq print vs the ~$178 perp; below that, the $135 IPO price is the line that matters."
+  },
+  {
+   "headline": "Semis run it back without NVDA; MU reclaims $1,000",
+   "body": "Second leg: SMH +1.33% and SOXX +1.34% against SPY +0.23% (10:30 ET, ~15-min delayed), with Chips & Compute +2.05% the strongest universe sector. AMD +5.1% on an upgrade in today's analyst-call roundup, INTC +4.4%, KLAC +3.0% — while NVDA +0.3% sits this one out. MU printed $1,005.68, reclaiming $1,000 after a −2.2% premarket dip; universe breadth is only 38/84 green, so the leadership is narrow.",
+   "tickers": [
+    "AMD",
+    "INTC",
+    "KLAC",
+    "MU",
+    "NVDA"
+   ],
+   "watch": "MU holding $1,000 keeps the memory leg intact."
+  },
+  {
+   "headline": "Software keeps bleeding: ADBE −8% on downgrade, day two",
+   "body": "Yesterday's losing side keeps losing — Apps & Data −1.86% and Platforms & AdTech −1.28% are the weakest sector averages while silicon leads. ADBE −7.9% after a downgrade in the same roundup that upgraded AMD. Out-of-software, into-silicon is now a two-day rotation, not a one-day blip.",
+   "tickers": [
+    "ADBE"
+   ],
    "watch": null
   },
   {
-   "headline": "ORCL −12.5%: record cloud growth, but the $70B capex bill spooks",
-   "body": "Oracle posted cloud revenue +93% and announced a $70 billion AI spending plan — and trades ~$176, down 12.5%. The market's new fault line: AI spenders get sold, AI suppliers get bought.",
-   "tickers": ["ORCL"],
-   "watch": "Acceptance below $175 leaves the post-earnings gap in control; back above $180 steadies the cloud group."
-  },
-  {
-   "headline": "Equipment is the new leadership",
-   "body": "LRCX +7.1%, KLAC +8.5%, AMAT +5.9%, ASML +4.6%, ARM +5.4% — toolmakers lead the universe while Musk pitches a 'Terafab' factory to ASML ahead of the SpaceX IPO. Whoever wins the AI race, capex flows through the same equipment names — Oracle's $70B plan feeds them too.",
-   "tickers": ["LRCX", "KLAC", "AMAT", "ASML", "ARM"],
+   "headline": "ARM +8% straight through FTC probe headlines",
+   "body": "ARM trades +8.6% — top of the NVIDIA ecosystem — with an FTC probe of its licensing model and AGI CPU plans in the morning's headlines. A regulatory headline that can't push a name red is information in itself. Same neighborhood: SK Hynix is reportedly eyeing a Nasdaq listing (sources, 11:33 UTC squawk), keeping memory and licensing names in rotation.",
+   "tickers": [
+    "ARM"
+   ],
    "watch": null
   },
   {
-   "headline": "Memory squeezes higher: DRAM ETF +5.6%, MU back above $900",
-   "body": "MU +2.6% to ~$915 — reclaiming the $900 level it lost at yesterday's close, with SanDisk +7.5% alongside. A close back above $900 turns yesterday's breakdown into a failed move, and failed moves often travel.",
-   "tickers": ["MU", "SNDK"],
-   "watch": "MU's close vs $900 — above = failed breakdown reversal."
+   "headline": "Grid bottleneck trade: SMR +5% keeps DC power leading",
+   "body": "Data Center Power & Energy +1.50% is the second-best sector again; NuScale +5.4% on its behind-the-meter push targeting the grid bottleneck. Power remains the quiet leadership group behind the AI build-out.",
+   "tickers": [
+    "SMR"
+   ],
+   "watch": null
   },
   {
-   "headline": "NVDA glued to $200",
-   "body": "Third session pinned to the battleground: −0.2% at ~$200.1. Leadership rotated to equipment while the biggest name digests — constructive as long as the level holds.",
-   "tickers": ["NVDA"],
-   "watch": "$200 remains the structure line; a decisive break either way sets the next leg."
-  },
-  {
-   "headline": "Funding source: adtech, China platforms and big software",
-   "body": "SNAP −4.5%, ADBE −4.5%, SAP −5.3%, BABA −4.7%, BIDU −3.7% — Apps & Data (−2.4%) and Platforms & AdTech (−2.5%) are where the semi rally is funded from. Risk lens: if SpaceX-IPO froth cools or Iran headlines re-escalate, the rotation unwinds from the semis side first.",
-   "tickers": ["SNAP", "ADBE", "SAP", "BABA", "BIDU"],
+   "headline": "Iran headlines give and take; gold rips through UBS cuts",
+   "body": "The Dow opened higher on Iran peace-deal hopes with oil skidding — then an Iranian source denied the Geneva signing claim (12:53 UTC), so the macro bid rests on headlines that keep changing. Gold +3.0% even as UBS cut its gold targets by $300–900/oz on delayed Fed cuts; TLT −0.5%. SPX +0.18%, Nasdaq-100 +0.28% — the index tape is calmer than its drivers.",
+   "tickers": [],
    "watch": null
   }
- ],
- "disclaimer": "Key Takeaways are generated for informational and educational purposes only and do not constitute investment advice, a recommendation, or an offer to buy or sell any security. Markets move fast — data may be delayed and levels can change. Always do your own research.",
- "sources": "Yahoo Finance delayed quotes via the Santro AI pipeline (83-ticker universe, DRAM holdings, context tape); site news feed; previous cycle = Wed midday block."
+ ]
 }

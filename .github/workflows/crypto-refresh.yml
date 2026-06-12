@@ -1,10 +1,11 @@
 name: Crypto refresh (CoinMarketCap)
 
-# 20 coins, one batched call = 1 CMC credit per run. Every 10 minutes, 24/7
-# (crypto never closes) ≈ 144 credits/day against the free tier's ~333/day.
+# Top 20 AI tokens by cap from a 200-coin category pull (2 CMC credits/run —
+# the endpoint's default order isn't cap, shallow pulls miss coins). Every
+# 15 minutes, 24/7 ≈ 192 credits/day against the free tier's ~333/day.
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 permissions:

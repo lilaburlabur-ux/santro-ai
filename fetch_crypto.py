@@ -2,10 +2,11 @@
 """
 fetch_crypto.py — top 20 AI tokens by market cap → crypto.json
 
-Pulls CoinMarketCap's "AI & Big Data" category (924 tokens) and keeps the
+Pulls CoinMarketCap's "AI & Big Data" category (900+ tokens) and keeps the
 top 20 by market cap — the basket rotates automatically as caps shift.
-ONE category call = 1 CMC credit per run (~144 credits/day at the 10-min
-cadence vs the free tier's ~333/day).
+The category endpoint's default ordering is NOT market cap (limit=40 missed
+Filecoin at $0.6B), so we pull 200 and sort ourselves. 200 coins = 2 CMC
+credits per run (~192/day at the 15-min cadence vs the free tier's ~333/day).
 
 Key: env CMC_API_KEY (GitHub Actions secret) or ~/.config/santro/cmc_key.
 """
@@ -33,7 +34,7 @@ def api_key():
 def main():
     r = requests.get(
         "https://pro-api.coinmarketcap.com/v1/cryptocurrency/category",
-        params={"id": AI_CATEGORY, "limit": 40, "convert": "USD"},
+        params={"id": AI_CATEGORY, "limit": 200, "convert": "USD"},
         headers={"X-CMC_PRO_API_KEY": api_key()}, timeout=25)
     d = r.json()
     if r.status_code != 200 or d.get("status", {}).get("error_code"):

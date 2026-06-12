@@ -333,6 +333,10 @@
       <h2>
         <span class="ic">▦</span>
         <span id="heat-title">Loading…</span>
+        <span class="seg">
+          <button class="seg-btn active" data-mode="universe">AI Universe</button>
+          <button class="seg-btn" data-mode="eco">NVIDIA Ecosystem</button>
+        </span>
         <button class="seg-btn" id="uni-back" style="display:none">← All sectors</button>
         <span class="legend"><span>−10%</span><span class="bar"></span><span>+10%</span></span>
       </h2>
@@ -441,6 +445,7 @@ let tkExpanded=false;              // "See more" state — survives the 60s auto
 let runners=null;                  // runners.json — legacy curated movers (fallback)
 let hotData=null;                  // hot_tickers.json — 15-min hot-tickers scan (hot-tickers/SPEC.md)
 let universe=null, uniGroup=null;  // universe.json — 83-ticker AI universe in 7 themed bubbles
+let eco=null;                      // ecosystem.json — 30-name NVIDIA Ecosystem basket
 let newsFeed=null;                 // news.json — deduped headlines for the FULL scope (universe + ETFs)
 
 // short labels that fit inside small group bubbles (full label in tooltip/detail)
@@ -692,6 +697,7 @@ function render(){
   let items, kind;
   if(heatMode==="universe" && universe && !uniGroup){ kind="sector"; items=universe.bubbles; }
   else if(heatMode==="universe" && universe && uniGroup){ kind="uni"; items=uniGroup.tickers; }
+  else if(heatMode==="eco" && eco){ kind="uni"; items=eco.tickers; }
   else if(heatMode==="etf" && etf){ kind="etf"; items=etf.holdings; }
   else { kind="stocks"; items=stocks; }
   // bubble size = magnitude of the day move (cryptobubbles semantics);
@@ -784,7 +790,7 @@ function showGroupDetail(g){
 
 function showUniverseDetail(t){
   document.getElementById("detail-title").innerHTML=
-    `Selected — ${t.ticker} <span class="badge live">${uniGroup?(UNI_SHORT[uniGroup.id]||uniGroup.label):"AI Universe"}</span>`;
+    `Selected — ${t.ticker} <span class="badge live">${uniGroup?(UNI_SHORT[uniGroup.id]||uniGroup.label):(heatMode==="eco"?"NVIDIA Ecosystem":"AI Universe")}</span>`;
   document.getElementById("detail").innerHTML=`
     <div class="d-head"><span class="d-sym">${t.ticker}</span><span class="d-name">${t.company}</span>
       <span class="d-pct ${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</span></div>
@@ -944,6 +950,14 @@ function applyHeat(){
     }
     return;
   }
+  if(heatMode==="eco" && eco){
+    document.getElementById("heat-title").textContent =
+      `NVIDIA Ecosystem · ${eco.tickers.length} names · sized by day move`;
+    render();
+    const t = eco.tickers.find(x=>x.ticker===selectedSymbol) || eco.tickers[0];
+    if(t){ selectedSymbol=t.ticker; showUniverseDetail(t); }
+    return;
+  }
   const etfMode = heatMode==="etf" && etf;
   const list = etfMode ? etf.holdings : stocks;
   const sel = list.find(x=>x.symbol===selectedSymbol) || list[0];
@@ -970,6 +984,8 @@ async function loadData(){
       universe=await (await fetch("universe.json?t="+Date.now())).json();
       if(uniGroup) uniGroup = universe.bubbles.find(b=>b.id===uniGroup.id) || null;
     }catch(e){ universe=null; uniGroup=null; }
+    try{ eco=await (await fetch("ecosystem.json?t="+Date.now())).json(); }
+    catch(e){ eco=null; }
     try{ newsFeed=await (await fetch("news.json?t="+Date.now())).json(); }
     catch(e){ newsFeed=null; }
     document.getElementById("asof").textContent="As of "+d.as_of_local;

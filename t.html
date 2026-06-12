@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Ticker | Santro AI</title>
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png" />
+<link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+<meta name="description" content="Live ticker page on Santro AI: price, market cap, P/E, volume, performance, 60-session chart, research scores and news. Data delayed ~15 min. Not financial advice." />
+<meta name="robots" content="noindex" />
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
+<link rel="stylesheet" href="site.css?v=6" />
+<style>
+  .tp-head{display:flex; align-items:center; gap:16px; flex-wrap:wrap; padding:6px 0 18px;}
+  .tp-head img{width:54px; height:54px; border-radius:50%;}
+  .tp-title h1{margin:0; font-size:24px;}
+  .tp-title h1 .sym{color:var(--faint); font-weight:600;}
+  .tp-title .sub{color:var(--muted); font-size:13px; margin-top:3px;}
+  .tp-px{margin-left:auto; text-align:right;}
+  .tp-px .big{font-size:34px; font-weight:800; letter-spacing:-.5px; line-height:1;
+    font-variant-numeric:tabular-nums;}
+  .tp-px .chg{font-size:16px; font-weight:700; margin-top:4px;}
+  .tp-px .sess{font-size:10px; color:var(--faint); text-transform:uppercase; letter-spacing:.4px; margin-top:3px;}
+  .tp-px .hl{font-size:10px; color:#e0a73f; font-weight:700; text-transform:uppercase; letter-spacing:.4px; margin-top:2px;}
+  .pchip{display:inline-flex; gap:7px; align-items:baseline; background:var(--panel-2);
+    border:1px solid var(--border-soft); border-radius:8px; padding:5px 11px;
+    font-size:12.5px; font-weight:600; margin:0 6px 6px 0;}
+  .pchip .k{color:var(--faint); font-size:10px; text-transform:uppercase; letter-spacing:.5px;}
+  .sec-label{margin:20px 0 8px; font-size:10px; letter-spacing:.7px; text-transform:uppercase;
+    color:var(--faint); font-weight:700;}
+  .bigchart{background:var(--panel); border:1px solid var(--border); border-radius:12px; padding:18px;}
+  .thesis{color:var(--muted); font-size:13.5px; font-style:italic; margin:8px 0 0; max-width:760px;}
+  .newsrow{padding:10px 0; border-bottom:1px solid var(--border-soft); font-size:13.5px; max-width:860px;}
+  .newsrow:last-child{border-bottom:0;}
+  .newsrow a{color:var(--text); text-decoration:none;}
+  .newsrow a:hover{color:var(--accent-2);}
+  .newsrow .m{color:var(--faint); font-size:11px; margin-top:2px;}
+  .notfound{padding:60px 0; color:var(--muted);}
+</style>
+</head>
+<body>
+  <header class="pageheader">
+    <a class="logo" href="/" title="Santro AI — terminal">
+      <span class="logo-s">S<span class="logo-ai">AI</span></span>
+      <span class="logo-rest"><span class="logo-antro">ANTRO</span>
+        <span class="logo-tagline">AI&nbsp;RESEARCH&nbsp;·&nbsp;MARKETS</span></span>
+    </a>
+    <nav class="pagenav">
+      <a class="nav-link" href="/">Terminal</a>
+      <a class="nav-link active" href="/stocks.html">Stocks</a>
+      <a class="nav-link" href="/etfs.html">ETFs</a>
+      <a class="nav-link" href="/crypto.html">Crypto</a>
+      <a class="nav-link" href="/news.html">News</a>
+      <a class="nav-link" href="/research.html">Research</a>
+      <a class="nav-link" href="/about.html">About</a>
+    </nav>
+  </header>
+
+  <main id="tp">Loading…</main>
+
+  <footer>
+    Santro AI — AI bubble map &amp; research journal for the AI narrative. Beta version.<br>
+    <span class="nfa">Not financial advice.</span> Quotes delayed. Removed with paid version.<br>
+    Contact us: <a href="mailto:hello@santroai.tech">hello@santroai.tech</a><br>
+    © 2026 Santro AI. All rights reserved. Uses custom models.
+  </footer>
+
+<script>
+const fmtPct=x=>(x>=0?"+":"")+Number(x).toFixed(2)+"%";
+const pctClass=x=>x>=0?"up":"down";
+function fmtCap(n){
+  if(n>=1e12) return "$"+(n/1e12).toFixed(2)+"T";
+  if(n>=1e9)  return "$"+(n/1e9).toFixed(1)+"B";
+  if(n>=1e6)  return "$"+(n/1e6).toFixed(1)+"M";
+  return "$"+Math.round(n);
+}
+const fmtVol=v=>v==null?"—":v>=1e9?(v/1e9).toFixed(1)+"B":v>=1e6?(v/1e6).toFixed(1)+"M":v>=1e3?(v/1e3).toFixed(0)+"K":""+v;
+const logoUrl=s=>s==="SPCX"?"assets/spacex.png"
+  :`https://assets.parqet.com/logos/symbol/${encodeURIComponent(s.split(".")[0])}?format=png&size=64`;
+const pchip=(k,v)=>`<span class="pchip"><span class="k">${k}</span><span class="${(v??0)>=0?"up":"down"}">${v==null?"—":fmtPct(v)}</span></span>`;
+const chip=(k,v)=>`<span class="chip">${k}: ${v??"—"}</span>`;
+function timeAgo(iso){
+  if(!iso) return "";
+  const m=Math.round((Date.now()-new Date(iso))/60000);
+  if(isNaN(m)) return "";
+  if(m<60) return m+"m ago";
+  const h=Math.round(m/60); if(h<24) return h+"h ago";
+  return Math.round(h/24)+"d ago";
+}
+const UNI_SHORT={
+  ai_chips_and_compute:"Chips & Compute",
+  ai_software_and_cloud_infrastructure:"Software & Cloud",
+  ai_applications_and_data_software:"Apps & Data",
+  chip_equipment_and_ai_hardware:"Equip & HW",
+  ai_platforms_internet_and_adtech:"Platforms & Ads",
+  data_center_power_and_energy:"DC Power",
+  applied_ai_industrial_defense_and_vertical:"Applied AI",
+};
+const SESSION_LBL={pre:"premarket", regular:"market open", post:"after hours", closed:"market closed"};
+
+const SYM=(new URLSearchParams(location.search).get("sym")||"NVDA").toUpperCase();
+
+function bigChart(s){
+  if(!s||s.length<3) return "";
+  const w=600,h=120,min=Math.min(...s),max=Math.max(...s),rng=(max-min)||1;
+  const pts=s.map((v,i)=>`${(i/(s.length-1)*w).toFixed(1)},${(h-6-((v-min)/rng)*(h-12)).toFixed(1)}`).join(" ");
+  const col=(s[s.length-1]>=s[0])?"#22c55e":"#f05a6e";
+  return `<div class="sec-label">Last 60 sessions</div><div class="bigchart">
+    <svg width="100%" height="120" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" style="display:block">
+      <polyline points="${pts}" fill="none" stroke="${col}" stroke-width="2.5"/></svg>
+    <div style="display:flex;justify-content:space-between;color:var(--faint);font-size:11px;margin-top:6px">
+      <span>low $${min.toFixed(2)}</span><span>high $${max.toFixed(2)}</span></div></div>`;
+}
+
+async function load(){
+  const el=document.getElementById("tp");
+  let universe=null, eco=null, news=null, research=null, tweets=null;
+  try{ universe=await (await fetch("universe.json?t="+Date.now())).json(); }catch(e){}
+  try{ eco=await (await fetch("ecosystem.json?t="+Date.now())).json(); }catch(e){}
+  try{ news=await (await fetch("news.json?t="+Date.now())).json(); }catch(e){}
+  try{ research=await (await fetch("research/research.json?t="+Date.now())).json(); }catch(e){}
+  try{ tweets=await (await fetch("tweets.json?t="+Date.now())).json(); }catch(e){}
+
+  // find the ticker in both baskets; universe entry wins (has sector context)
+  let t=null; const baskets=[];
+  if(universe) for(const b of universe.bubbles){
+    const x=b.tickers.find(x=>x.ticker===SYM);
+    if(x){ t=x; baskets.push("AI Universe: "+(UNI_SHORT[b.id]||b.label)); break; }
+  }
+  if(eco && eco.tickers.some(x=>x.ticker===SYM)){
+    if(!t) t=eco.tickers.find(x=>x.ticker===SYM);
+    baskets.push("NVIDIA Ecosystem");
+  }
+  if(!t){
+    document.title="Not found | Santro AI";
+    el.innerHTML=`<div class="notfound"><h1>${SYM}</h1>
+      <p>This ticker isn't in our tracked baskets (AI Universe · NVIDIA Ecosystem).</p>
+      <p><a href="/stocks.html">← Back to the bubble map</a></p></div>`;
+    return;
+  }
+  document.title=`${SYM} $${(t.price??0).toFixed(2)} ${fmtPct(t.change_pct||0)} — ${t.company} | Santro AI`;
+  const session=(universe&&universe.meta.session)||(eco&&eco.meta.session)||"";
+  const r=research&&research.stocks?research.stocks[SYM]:null;
+  const hl=(SYM==="SPCX"&&tweets&&tweets.meta&&tweets.meta.hyperliquid)?Number(tweets.meta.hyperliquid):null;
+  const items=(news&&news.items?news.items:[]).filter(it=>(it.tickers||[]).includes(SYM)).slice(0,6);
+
+  el.innerHTML=`
+    <div class="tp-head">
+      <img src="${logoUrl(SYM)}" onerror="this.style.visibility='hidden'" alt="">
+      <div class="tp-title"><h1>${t.company} <span class="sym">· ${SYM}</span></h1>
+        <div class="sub">${t.industry||"—"}${t.sector?" · "+t.sector:""} · ${baskets.join(" · ")}</div></div>
+      <div class="tp-px"><div class="big">$${(t.price??0).toFixed(2)}</div>
+        <div class="chg ${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</div>
+        <div class="sess">Live · ${SESSION_LBL[session]||""} · ~15-min delayed</div>
+        ${hl?`<div class="hl">Hyperliquid perp $${hl.toFixed(2)}</div>`:""}</div>
+    </div>
+    <div class="kv" style="max-width:760px">
+      <div><div class="k">Market cap</div><div class="v">${t.market_cap_b?fmtCap(t.market_cap_b*1e9):"—"}</div></div>
+      <div><div class="k">P/E</div><div class="v">${t.pe==null?"—":t.pe}</div></div>
+      <div><div class="k">Volume</div><div class="v">${fmtVol(t.volume)}</div></div>
+      <div><div class="k">Industry</div><div class="v">${t.industry||"—"}</div></div>
+    </div>
+    ${t.perf?`<div class="sec-label">Performance</div><div>
+      ${pchip("1D",t.change_pct)}${pchip("1W",t.perf["1W"])}${pchip("1M",t.perf["1M"])}${pchip("1Y",t.perf["1Y"])}
+    </div>`:""}
+    ${bigChart(t.spark)}
+    ${r?`<div class="sec-label">Method scores · signed ${research.signed} (research journal, not advice)</div>
+      ${r.thesis?`<div class="thesis">${r.thesis}</div><div style="height:8px"></div>`:""}
+      <div class="chips">
+        ${chip("Technical",r.scores.technical)}${chip("Narrative",r.scores.narrative)}
+        ${chip("Entry zone",r.scores.entry_zone)}${chip("R:R",r.scores.rr!=null?r.scores.rr+":1":null)}
+      </div>`:""}
+    ${items.length?`<div class="sec-label">${SYM} news</div>`+items.map(it=>`
+      <div class="newsrow"><a href="${it.link||"#"}" target="_blank" rel="noopener">${it.title}</a>
+        <div class="m">${it.publisher||""}${it.published?" · "+timeAgo(it.published):""}</div></div>`).join(""):""}
+    <p style="margin-top:18px">
+      <a href="https://finance.yahoo.com/quote/${encodeURIComponent(SYM)}" target="_blank" rel="noopener">Yahoo Finance →</a>
+      &nbsp;·&nbsp; <a href="/stocks.html">← Back to the bubble map</a></p>`;
+}
+load(); setInterval(load, 60000);
+</script>
+<script src="site.js?v=6"></script>
+</body>
+</html>

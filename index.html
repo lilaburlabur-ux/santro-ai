@@ -149,6 +149,29 @@
     font-size:11px; letter-spacing:.4px; padding:4px 9px; border-radius:6px; cursor:pointer;}
   .seg-btn:hover{color:var(--text);}
   .seg-btn.active{background:var(--accent-soft); color:var(--accent-2); border-color:var(--accent-border);}
+  /* ---- ticker search pill (component injected by site.js) ---- */
+  .tsearch{position:relative;}
+  .tsearch .box{display:flex; align-items:center; gap:7px; background:var(--panel-2);
+    border:1px solid var(--border); border-radius:999px; padding:7px 12px; width:170px;
+    transition:border-color .15s, width .15s; cursor:text;}
+  .tsearch .box:hover, .tsearch .box:focus-within{border-color:var(--accent-border); width:215px;}
+  .tsearch .box svg{flex:0 0 auto; color:var(--faint);}
+  .tsearch input{flex:1; min-width:0; background:transparent; border:0; outline:0; color:var(--text);
+    font:inherit; font-size:13px;}
+  .tsearch input::placeholder{color:var(--faint);}
+  .tsearch .kbd{font-size:10px; color:var(--faint); border:1px solid var(--border);
+    background:var(--panel); border-radius:5px; padding:1px 6px;}
+  .tsearch .drop{position:absolute; top:120%; right:0; width:330px; background:var(--panel);
+    border:1px solid var(--border); border-radius:12px; overflow:hidden;
+    box-shadow:0 14px 40px rgba(0,0,0,.5); z-index:80;}
+  .tsearch .sg{display:flex; align-items:center; gap:10px; padding:9px 13px;
+    border-bottom:1px solid var(--border-soft); cursor:pointer; font-size:13px;}
+  .tsearch .sg:last-child{border-bottom:0;}
+  .tsearch .sg:hover, .tsearch .sg.active{background:var(--elev);}
+  .tsearch .sg img{width:22px; height:22px; border-radius:50%;}
+  .tsearch .sg .tk{font-weight:700; width:50px; flex:0 0 auto;}
+  .tsearch .sg .nm{color:var(--muted); flex:1; font-size:12px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+  .tsearch .sg .pc{font-weight:700; font-size:12px; flex:0 0 auto;}
   .badge{margin-left:auto; font-size:10px; letter-spacing:.4px; padding:3px 9px; border-radius:999px; font-weight:600;}
   .badge.live{background:var(--accent-soft); color:var(--accent-2); border:1px solid var(--accent-border);}
   .badge.sample{background:#241d10; color:#e0a73f; border:1px solid #463713;}
@@ -335,6 +358,7 @@
       <button class="nav-link soon" title="Coming soon">Blog<span class="s">SOON</span></button>
     </nav>
     <div class="right">
+      <div id="topbar-search"></div>
       <span id="asof">loading…</span>
       <button id="theme-toggle" title="Switch day / night mode" aria-label="Toggle day or night mode">
         <span class="tt-label" id="tt-label">NIGHTMODE</span>
@@ -1076,6 +1100,9 @@ document.getElementById("theme-toggle").addEventListener("click",
 let savedTheme="dark"; try{ savedTheme=localStorage.getItem("santro-theme")||"dark"; }catch(e){}
 applyTheme(savedTheme, false);
 loadData();
+</script>
+<script src="site.js?v=6"></script>
+<script>
 setInterval(loadData, 60000);
 </script>
 </body>

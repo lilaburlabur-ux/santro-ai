@@ -45,3 +45,92 @@
     if(el && d.as_of_local) el.textContent="As of "+d.as_of_local;
   }).catch(()=>{});
 })();
+
+// ---- ticker search: compact header pill + dropdown -> t.html?sym=X ----------
+// Mounts into .pageheader .pageright (section pages) or #topbar-search (terminal).
+// Index = universe + ecosystem, lazy-loaded on first focus. "/" focuses anywhere.
+(function(){
+  const right = document.querySelector(".pageheader .pageright");
+  const mount = right || document.getElementById("topbar-search");
+  if(!mount) return;
+  const wrap = document.createElement("div");
+  wrap.className = "tsearch";
+  wrap.innerHTML =
+    '<div class="box">'+
+      '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4">'+
+        '<circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>'+
+      '<input placeholder="Search" autocomplete="off" spellcheck="false" aria-label="Search tickers" />'+
+      '<span class="kbd">/</span></div>'+
+    '<div class="drop" style="display:none"></div>';
+  if(right) right.insertBefore(wrap, right.firstChild); else mount.appendChild(wrap);
+
+  const input = wrap.querySelector("input"), drop = wrap.querySelector(".drop"),
+        kbd = wrap.querySelector(".kbd");
+  let idx = null, sel = 0, rows = [];
+  const logoUrl = s => s === "SPCX" ? "assets/spacex.png"
+    : "https://assets.parqet.com/logos/symbol/" + encodeURIComponent(s.split(".")[0]) + "?format=png&size=64";
+  const fmtPct = x => (x >= 0 ? "+" : "") + Number(x).toFixed(2) + "%";
+
+  let idxPromise = null;
+  function loadIndex(){
+    // promise singleton: concurrent callers all await the same fetch, and the
+    // index is only assigned once it is COMPLETE (an in-flight empty array
+    // must never be mistaken for a loaded one)
+    if(!idxPromise) idxPromise = (async () => {
+      const list = [], seen = {};
+      const add = (t) => { if(!seen[t.ticker]){ seen[t.ticker] = 1;
+        list.push({tk: t.ticker, nm: t.company || t.ticker, pc: t.change_pct || 0,
+                   mc: t.market_cap_b || 0}); } };
+      try{
+        const u = await (await fetch("universe.json?t=" + Date.now())).json();
+        u.bubbles.forEach(b => b.tickers.forEach(add));
+      }catch(e){}
+      try{
+        const e2 = await (await fetch("ecosystem.json?t=" + Date.now())).json();
+        e2.tickers.forEach(add);
+      }catch(e){}
+      idx = list;
+      return list;
+    })();
+    return idxPromise;
+  }
+  function score(t, q){
+    const tk = t.tk.toLowerCase(), nm = t.nm.toLowerCase();
+    if(tk === q) return 0; if(tk.startsWith(q)) return 1;
+    if(nm.startsWith(q)) return 2; if(tk.includes(q)) return 3;
+    if(nm.includes(q)) return 4; return 9;
+  }
+  function render(){
+    const q = input.value.trim().toLowerCase();
+    if(!q || !idx){ drop.style.display = "none"; rows = []; return; }
+    rows = idx.map(t => [score(t, q), t]).filter(x => x[0] < 9)
+      .sort((a, b) => a[0] - b[0] || b[1].mc - a[1].mc)
+      .slice(0, 8).map(x => x[1]);
+    if(!rows.length){ drop.style.display = "none"; return; }
+    sel = Math.min(sel, rows.length - 1);
+    drop.innerHTML = rows.map((t, i) =>
+      '<div class="sg' + (i === sel ? " active" : "") + '" data-tk="' + t.tk + '">' +
+      '<img src="' + logoUrl(t.tk) + '" onerror="this.style.visibility=\'hidden\'" alt="">' +
+      '<span class="tk">' + t.tk + '</span><span class="nm">' + t.nm + '</span>' +
+      '<span class="pc ' + (t.pc >= 0 ? "up" : "down") + '">' + fmtPct(t.pc) + '</span></div>').join("");
+    drop.style.display = "";
+    drop.querySelectorAll(".sg").forEach(el =>
+      el.addEventListener("mousedown", e => { e.preventDefault(); go(el.dataset.tk); }));
+  }
+  const go = tk => { location.href = "t.html?sym=" + encodeURIComponent(tk); };
+  input.addEventListener("focus", async () => { kbd.textContent = "esc"; await loadIndex(); render(); });
+  input.addEventListener("blur", () => { kbd.textContent = "/"; setTimeout(() => drop.style.display = "none", 150); });
+  input.addEventListener("input", async () => { sel = 0; await loadIndex(); render(); });
+  input.addEventListener("keydown", e => {
+    if(e.key === "ArrowDown"){ sel = Math.min(sel + 1, rows.length - 1); render(); e.preventDefault(); }
+    else if(e.key === "ArrowUp"){ sel = Math.max(sel - 1, 0); render(); e.preventDefault(); }
+    else if(e.key === "Enter"){ if(rows[sel]) go(rows[sel].tk); }
+    else if(e.key === "Escape"){ input.value = ""; drop.style.display = "none"; input.blur(); }
+  });
+  document.addEventListener("keydown", e => {
+    if(e.key === "/" && document.activeElement !== input &&
+       !/INPUT|TEXTAREA|SELECT/.test((document.activeElement || {}).tagName || "")){
+      e.preventDefault(); input.focus();
+    }
+  });
+})();

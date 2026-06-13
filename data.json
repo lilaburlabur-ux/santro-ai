@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-13T23:22:23+00:00",
-  "as_of_local": "2026-06-13 23:22:23 UTC",
+  "as_of_utc": "2026-06-13T23:37:28+00:00",
+  "as_of_local": "2026-06-13 23:37:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 4969907049133.301,
       "headlines": [
         {
+          "title": "NVIDIA Tests Recurring AI Data Center Model With Australian GPU Expansion",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-tests-recurring-ai-data-231238173.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-06-13T23:12:38Z"
+        },
+        {
           "title": "Is Palantir Stock Ripe for a Rebound?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-ripe-rebound-223000401.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-reports-earnings-june-24-215600703.html",
           "publisher": "Motley Fool",
           "published": "2026-06-13T21:56:00Z"
-        },
-        {
-          "title": "These Are the Only 2 Cryptocurrencies I'm Comfortable Buying Right Now",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/only-2-cryptocurrencies-im-comfortable-214700297.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-13T21:47:00Z"
         }
       ]
     },
@@ -97,6 +97,12 @@
       "market_cap": 1106995005282.5684,
       "headlines": [
         {
+          "title": "How AI started turning memory into a structural bottleneck",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/ai-started-turning-memory-structural-231110969.html",
+          "publisher": "Investing.com",
+          "published": "2026-06-13T23:11:10Z"
+        },
+        {
           "title": "Micron Reports Earnings June 24. Here's the One Number That May Make or Break the Stock.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-reports-earnings-june-24-215600703.html",
           "publisher": "Motley Fool",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-deploys-nvidia-nvda-183752004.html",
           "publisher": "Insider Monkey",
           "published": "2026-06-13T18:37:52Z"
-        },
-        {
-          "title": "Is Sandisk Corporation (SNDK) A Good Stock To Buy Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-corporation-sndk-good-stock-134054313.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-13T13:40:54Z"
         }
       ]
     },
@@ -179,7 +179,26 @@
       "previous_close": 342.23,
       "change_pct": 11.27,
       "market_cap": 405202332977.22235,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Arm Holdings (ARM) Gets BofA Backing, 37% PT Upgrade, Climbs 11%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-gets-bofa-065646410.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-06-13T06:56:46Z"
+        },
+        {
+          "title": "Why Intel, AMD, Arm, and Other Artificial Intelligence (AI) Stocks Popped Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-amd-arm-other-010933423.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-13T01:09:33Z"
+        },
+        {
+          "title": "Billionaire Brad Gerstner Dumped All of His Alphabet Then Bought 2 Stocks Nobody Expected",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-brad-gerstner-dumped-alphabet-185647497.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-06-12T18:56:47Z"
+        }
+      ]
     },
     {
       "symbol": "MRVL",
@@ -380,8 +399,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 7.86,
+          "price": 322500.0,
           "currency": "KRW"
         },
         {
@@ -470,8 +489,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 7.86,
+        "price": 322500.0,
         "currency": "KRW"
       },
       {
@@ -538,8 +557,8 @@
     },
     {
       "label": "BTC",
-      "price": 64521.13,
-      "change_pct": 1.54
+      "price": 64429.63,
+      "change_pct": 1.4
     },
     {
       "label": "Gold",

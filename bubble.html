@@ -38,6 +38,14 @@
     text-transform:uppercase; letter-spacing:.6px; margin-top:5px;}
   .histwrap{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius); padding:18px;}
   .src{margin-top:14px; font-size:12.5px; color:var(--muted);}
+  .bubnews{margin-top:26px;}
+  .bubnews .lbl{font-size:10px; letter-spacing:.7px; text-transform:uppercase; color:var(--faint);
+    font-weight:700; margin-bottom:8px;}
+  .bn-row{padding:11px 0; border-bottom:1px solid var(--border-soft); max-width:900px;}
+  .bn-row:last-child{border-bottom:0;}
+  .bn-row a{color:var(--text); text-decoration:none; font-size:14px; font-weight:600;}
+  .bn-row a:hover{color:var(--accent-2);}
+  .bn-row .m{color:var(--faint); font-size:11px; margin-top:3px;}
   @media (max-width:900px){ .sc-grid{grid-template-columns:repeat(3,1fr);} .sc.big{grid-column:span 3;} }
 </style>
 </head>
@@ -81,6 +89,8 @@
       <div style="font-size:10px;letter-spacing:.7px;text-transform:uppercase;color:var(--faint);font-weight:700;margin-bottom:10px">Last 180 days</div>
       <div id="hist"></div>
     </div>
+
+    <div class="bubnews" id="bubnews"></div>
 
     <p class="src">Source: <a href="https://aibubblemonitor.com" target="_blank" rel="noopener">aibubblemonitor.com</a>
     — the AI Bubble Index and its methodology belong to AI Bubble Monitor; Santro AI mirrors the
@@ -136,6 +146,33 @@ async function load(){
         <span>${(h[0].t||"").slice(0,10)} · low ${Math.min(...vs)}</span>
         <span>high ${Math.max(...vs)} · ${(h[h.length-1].t||"").slice(0,10)}</span></div>`;
   }
+  loadBubbleNews();
+}
+
+// "AI bubble — in the news": pull bubble-themed headlines from our news + ZeroHedge
+// feeds (auto-updating, so the section never goes stale with hardcoded links)
+// finance-specific terms only — generic words (crash/burst/correction) match
+// non-market news (plane crashes, conflicts) and were producing false positives
+const BUBBLE_RX=/\bbubble\b|overvalued|overvaluation|\bvaluation\b|frothy|\bfroth\b|\bmania\b|euphoria|dot[- ]?com|speculative|stretched|priced for perfection|melt[- ]?up|irrational/i;
+function timeAgo(iso){ if(!iso) return ""; const m=Math.round((Date.now()-new Date(iso))/60000);
+  if(isNaN(m)) return ""; if(m<60) return m+"m ago"; const h=Math.round(m/60);
+  if(h<24) return h+"h ago"; return Math.round(h/24)+"d ago"; }
+async function loadBubbleNews(){
+  let news=null, zh=null;
+  try{ news=await (await fetch("news.json?t="+Date.now())).json(); }catch(e){}
+  try{ zh=await (await fetch("zerohedge.json?t="+Date.now())).json(); }catch(e){}
+  const out=[], seen=new Set();
+  const add=(title,link,published,src)=>{
+    const k=(title||"").toLowerCase().slice(0,55);
+    if(title && BUBBLE_RX.test(title) && !seen.has(k)){ seen.add(k); out.push({title,link,published,src}); }
+  };
+  (zh&&zh.items?zh.items:[]).forEach(it=>add(it.title,it.link,it.published,"ZeroHedge"));
+  (news&&news.items?news.items:[]).forEach(it=>add(it.title,it.link,it.published,it.publisher||"News"));
+  const el=document.getElementById("bubnews");
+  if(!out.length){ el.innerHTML=""; return; }
+  el.innerHTML=`<div class="lbl">AI bubble — in the news</div>`+out.slice(0,8).map(it=>`
+    <div class="bn-row"><a href="${it.link||"#"}" target="_blank" rel="noopener">${it.title}</a>
+      <div class="m">${it.src}${it.published?" · "+timeAgo(it.published):""}</div></div>`).join("");
 }
 load(); setInterval(load, 300000);
 </script>

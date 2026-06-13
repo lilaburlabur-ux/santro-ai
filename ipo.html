@@ -98,9 +98,7 @@ async function load(){
     ${items.length?`<div class="sec-label">News coverage</div>`+items.map(it=>`
       <div class="newsrow"><a href="${it.link||"#"}" target="_blank" rel="noopener">${it.title}</a>
         <div class="m">${it.src||"News"}${it.published?" · "+timeAgo(it.published):""}</div></div>`).join(""):""}
-    <p style="margin-top:18px">
-      <a class="btn" href="https://news.google.com/search?q=${encodeURIComponent(c.name+' IPO')}" target="_blank" rel="noopener">Search Google News →</a>
-      &nbsp;·&nbsp; <a class="btn" href="/ipos.html">← All AI IPOs</a></p>`;
+    <p style="margin-top:18px"><a class="btn" href="/ipos.html">← All AI IPOs</a></p>`;
 }
 load();
 </script>

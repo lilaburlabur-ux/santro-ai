@@ -64,18 +64,21 @@ function timeAgo(iso){ if(!iso) return ""; const m=Math.round((Date.now()-new Da
   if(isNaN(m)) return ""; if(m<60) return m+"m ago"; const h=Math.round(m/60);
   if(h<24) return h+"h ago"; return Math.round(h/24)+"d ago"; }
 async function load(){
-  let d=null, news=null;
+  let d=null, news=null, zh=null;
   try{ d=await (await fetch("ipos.json?t="+Date.now())).json(); }catch(e){}
   try{ news=await (await fetch("news.json?t="+Date.now())).json(); }catch(e){}
+  try{ zh=await (await fetch("zerohedge.json?t="+Date.now())).json(); }catch(e){}
   const c=(d&&d.preipo||[]).find(x=>x.slug===SLUG);
   const el=document.getElementById("pi");
   if(!c){ document.title="Pre-IPO | Santro AI";
     el.innerHTML=`<div style="padding:50px 0;color:var(--muted)"><h1>Not found</h1>
       <p>That company isn't on our pre-IPO watchlist. <a class="btn" href="/ipos.html">← Back to AI IPOs</a></p></div>`; return; }
   document.title=`${c.name} — pre-IPO | Santro AI`;
-  // recent news matching the company name (best-effort, from our feed)
+  // recent coverage matching the company name (best-effort, from our feeds)
   const rx=new RegExp(c.name.replace(/[^a-z0-9 ]/gi,"").split(/\s+/)[0], "i");
   const items=(news&&news.items?news.items:[]).filter(it=>rx.test(it.title||"")).slice(0,6);
+  const zhItems=(zh&&zh.items?zh.items:[]).filter(it=>
+    (it.tags||[]).includes(c.name) || rx.test(it.title||"")).slice(0,6);
   el.innerHTML=`
     <div class="pi-head"><h1>${c.name}</h1>
       <span class="pi-status${/filed/i.test(c.status)?" filed":""}">${c.status}</span></div>
@@ -85,6 +88,9 @@ async function load(){
     this is a watch profile. Valuation is approximate, drawn from public reporting, and the company is
     not affiliated with Santro AI. When it lists, it moves to the <a class="btn" href="/ipos.html">recently
     listed</a> table with live data.</p>
+    ${zhItems.length?`<div class="sec-label">ZeroHedge coverage</div>`+zhItems.map(it=>`
+      <div class="newsrow"><a href="${it.link||"#"}" target="_blank" rel="noopener">${it.title}</a>
+        <div class="m">ZeroHedge${it.published?" · "+timeAgo(it.published):""}</div></div>`).join(""):""}
     ${items.length?`<div class="sec-label">${c.name} in the news</div>`+items.map(it=>`
       <div class="newsrow"><a href="${it.link||"#"}" target="_blank" rel="noopener">${it.title}</a>
         <div class="m">${it.publisher||""}${it.published?" · "+timeAgo(it.published):""}</div></div>`).join(""):""}

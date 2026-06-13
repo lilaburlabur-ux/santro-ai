@@ -178,8 +178,8 @@
   <h2>Coupons compared</h2>
   <p>Higher coupon = lenders demanded more to compensate for risk. Notice the backstop isn't the only thing that moves it.</p>
   <div class="legend">
-    <span><span class="dot" style="background:#22c55e"></span>Has a big-tech backstop / guarantee</span>
-    <span><span class="dot" style="background:#8895a4"></span>Stands on its own credit</span>
+    <span><span class="dot" style="background:#15803d"></span>Has a big-tech backstop / guarantee</span>
+    <span><span class="dot" style="background:#5a6573"></span>Stands on its own credit</span>
   </div>
   <div class="chartbox"><canvas id="coupons" role="img" aria-label="Bar chart of coupon rates for 12 bonds from 5.875 to 9.25 percent, colored by whether they have a big-tech backstop">Coupons range from TRACTC at 5.875% to SECMOS at 8.875%.</canvas></div>
 
@@ -272,7 +272,7 @@
   <h2>Bottom line</h2>
   <p>The scary headline &mdash; 4 deals to 12, $32bn of AI built on junk &mdash; is real. But the <em>inside</em> is a split screen: a handful of genuinely fragile, naked-credit, high-coupon names (looking at you, APLD and SECMOS) sitting right next to deals quietly guaranteed by some of the most creditworthy companies on earth. The risk isn't evenly spread. It's hiding in specific rows. Your job is to know which.</p>
 
-  <div class="note">Thanks to <a href="https://x.com/zerohedge/status/2065799199635972375" target="_blank" rel="noopener">ZeroHedge</a> for the squawk. The underlying data is Morgan Stanley Research (via Bloomberg, ICE BAML, LCD Pitchbook). Our model caught it; we just did the homework.</div>
+  <div class="note">Thanks to <a href="https://x.com/zerohedge/status/2065799199635972375" target="_blank" rel="noopener">ZeroHedge</a> for the squawk. The underlying data is Morgan Stanley Research (via Bloomberg, ICE BAML, LCD Pitchbook).</div>
 
   <p class="disclaimer">Not investment advice. We're traders sharing how we read a table, not telling you what to buy. All ratings, coupons and figures are as reported in the source table (bonds as of 31 May 2026) and may change.</p>
 
@@ -355,7 +355,7 @@ window.addEventListener('load', function(){
     type:'bar',
     data:{ labels: sorted.map(function(d){return d.t.split(' ')[0];}),
       datasets:[{ label:'Coupon %', data: sorted.map(function(d){return d.c;}),
-        backgroundColor: sorted.map(function(d){return d.backstop?'#22c55e':'#8895a4';}),
+        backgroundColor: sorted.map(function(d){return d.backstop?'#15803d':'#5a6573';}),
         borderRadius:4 }]},
     options:{ responsive:true, maintainAspectRatio:false,
       plugins:{ legend:{display:false}, tooltip:{callbacks:{label:function(x){return x.parsed.y+'% coupon';}}} },

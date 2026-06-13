@@ -391,18 +391,18 @@
     </div>
     <nav class="mainnav">
       <button class="nav-link active" id="nav-terminal">Terminal</button>
-      <a class="nav-link" href="/stocks.html" style="text-decoration:none">Stocks</a>
-      <a class="nav-link" href="/ipos.html" style="text-decoration:none">IPOs</a>
-      <a class="nav-link" href="/etfs.html" style="text-decoration:none">ETFs</a>
-      <a class="nav-link" href="/crypto.html" style="text-decoration:none">Crypto</a>
-      <a class="nav-link" href="/news.html" style="text-decoration:none">News</a>
-      <a class="nav-link" href="/research.html" style="text-decoration:none">Research</a>
-      <a class="nav-link" href="/about.html" style="text-decoration:none">About</a>
-      <a class="nav-link" href="/blog.html" style="text-decoration:none">Blog</a>
+      <a class="nav-link" href="/stocks" style="text-decoration:none">Stocks</a>
+      <a class="nav-link" href="/ipos" style="text-decoration:none">IPOs</a>
+      <a class="nav-link" href="/etfs" style="text-decoration:none">ETFs</a>
+      <a class="nav-link" href="/crypto" style="text-decoration:none">Crypto</a>
+      <a class="nav-link" href="/news" style="text-decoration:none">News</a>
+      <a class="nav-link" href="/research" style="text-decoration:none">Research</a>
+      <a class="nav-link" href="/about" style="text-decoration:none">About</a>
+      <a class="nav-link" href="/blog" style="text-decoration:none">Blog</a>
       <details class="nav-more">
         <summary class="nav-link">More ▾</summary>
         <div class="menu">
-          <a href="/bubble.html">AI Bubble metrics</a>
+          <a href="/bubble">AI Bubble metrics</a>
         </div>
       </details>
     </nav>
@@ -429,11 +429,11 @@
 
   <div class="intro-line">
     <h1>Santro AI terminal — live AI stocks bubble map, hot tickers &amp; research</h1>
-    <p>Santro AI tracks the AI trade in real time: the 84-name <a href="/stocks.html">AI Universe and NVIDIA Ecosystem</a>
-    as living bubbles sized by the day's move, <a href="/etfs.html">AI ETFs</a>, a 15-minute hot-tickers scan with the
-    reason each name is moving, and a <a href="/research.html">signed research journal</a> with key takeaways through the
+    <p>Santro AI tracks the AI trade in real time: the 84-name <a href="/stocks">AI Universe and NVIDIA Ecosystem</a>
+    as living bubbles sized by the day's move, <a href="/etfs">AI ETFs</a>, a 15-minute hot-tickers scan with the
+    reason each name is moving, and a <a href="/research">signed research journal</a> with key takeaways through the
     session. Quotes are ~15-min delayed and cover premarket, market hours and after-hours.
-    <a href="/about.html">About the method</a> · not financial advice.</p>
+    <a href="/about">About the method</a> · not financial advice.</p>
   </div>
 
   <div class="grid">
@@ -479,7 +479,7 @@
 
   <footer>
     <div class="foot-text">
-      <nav class="foot-nav" style="margin-bottom:4px"><a href="/">Terminal</a> · <a href="/stocks.html">Stocks</a> · <a href="/ipos.html">IPOs</a> · <a href="/etfs.html">ETFs</a> · <a href="/crypto.html">Crypto</a> · <a href="/news.html">News</a> · <a href="/research.html">Research</a> · <a href="/blog.html">Blog</a> · <a href="/about.html">About</a></nav>
+      <nav class="foot-nav" style="margin-bottom:4px"><a href="/">Terminal</a> · <a href="/stocks">Stocks</a> · <a href="/ipos">IPOs</a> · <a href="/etfs">ETFs</a> · <a href="/crypto">Crypto</a> · <a href="/news">News</a> · <a href="/research">Research</a> · <a href="/blog">Blog</a> · <a href="/about">About</a></nav>
       <span class="bn">Santro AI</span> — AI bubble map &amp; research journal for the AI narrative. Beta version.<br>
       <span class="nfa">Not financial advice.</span> Quotes delayed ~15 min. Removed with paid version.<br>
       Contact us: <a href="mailto:hello@santroai.tech">hello@santroai.tech</a><br>
@@ -814,7 +814,7 @@ function showGroupDetail(g){
   document.getElementById("detail-title").innerHTML=
     `Sector — ${UNI_SHORT[g.id]||g.label} <span class="badge live">AI Universe</span>`;
   const rows=g.tickers.map(t=>`
-      <tr><td><a href="t.html?sym=${encodeURIComponent(t.ticker)}" title="Open the ${t.ticker} page">${t.ticker}</a></td>
+      <tr><td><a href="t?sym=${encodeURIComponent(t.ticker)}" title="Open the ${t.ticker} page">${t.ticker}</a></td>
         <td class="num">$${(t.price??0).toFixed(2)}</td>
         <td class="num ${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</td>
         <td class="num">${t.market_cap_b?fmtCap(t.market_cap_b*1e9):"—"}</td></tr>`).join("");
@@ -837,7 +837,7 @@ function showEcoOverview(){
   document.getElementById("detail-title").innerHTML=
     `NVIDIA Ecosystem <span class="badge live">${eco.tickers.length} names</span>`;
   const rows=eco.tickers.map(t=>`
-      <tr><td><a href="t.html?sym=${encodeURIComponent(t.ticker)}" title="Open the ${t.ticker} page">${t.ticker}</a></td>
+      <tr><td><a href="t?sym=${encodeURIComponent(t.ticker)}" title="Open the ${t.ticker} page">${t.ticker}</a></td>
         <td class="num">$${(t.price??0).toFixed(2)}</td>
         <td class="num ${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</td>
         <td class="num">${t.market_cap_b?fmtCap(t.market_cap_b*1e9):"—"}</td></tr>`).join("");
@@ -866,7 +866,7 @@ function showUniverseDetail(t){
     ${t.spark&&t.spark.length>2?sparkSvg(t.spark):""}
     ${researchExtras(t.ticker)}
     <div class="links">
-      <a class="see-more" href="t.html?sym=${encodeURIComponent(t.ticker)}">Ticker page ↗</a>
+      <a class="see-more" href="t?sym=${encodeURIComponent(t.ticker)}">Ticker page ↗</a>
       <a class="see-more" href="https://finance.yahoo.com/quote/${t.ticker}" target="_blank" rel="noopener">Yahoo Finance →</a>
     </div>`;
 }
@@ -922,7 +922,7 @@ function openTicker(sym){
   // not on the map at all: our ticker page for US names, Yahoo only for
   // foreign-suffix symbols the site has no page data for
   if(sym.includes(".")) window.open("https://finance.yahoo.com/quote/"+sym, "_blank", "noopener");
-  else location.href="t.html?sym="+encodeURIComponent(sym);
+  else location.href="t?sym="+encodeURIComponent(sym);
 }
 
 function renderSamples(){
@@ -936,7 +936,7 @@ function renderSamples(){
         const src=t.source_url?` · <a href="${t.source_url}" target="_blank" rel="noopener">source</a>`:"";
         return `<div class="hot">
           <div class="htk"><div class="sym" onclick="openTicker('${t.ticker}')" title="Show ${t.ticker} on the bubble map">${t.ticker}</div><div class="pr">$${t.price.toLocaleString()}</div>
-            <div class="hact"><span onclick="openTicker('${t.ticker}')" title="Show on the bubble map">◉ map</span><a href="t.html?sym=${t.ticker}" title="Open the ${t.ticker} page">page ↗</a></div></div>
+            <div class="hact"><span onclick="openTicker('${t.ticker}')" title="Show on the bubble map">◉ map</span><a href="t?sym=${t.ticker}" title="Open the ${t.ticker} page">page ↗</a></div></div>
           <span class="chip-mv ${cls}">${fmtPct(t.move_pct)}</span>
           <div class="hwhy">${t.why}
             <div class="hmeta">${t.company} · vol ${fmtVol(t.volume)} (${t.volume_vs_avg} avg) · ${t.catalyst_type.replace(/_/g," ")}${src}</div></div>
@@ -1090,7 +1090,7 @@ async function loadData(){
       if(bubbleIx && bubbleIx.index && bubbleIx.index.overall!=null){
         const ix=bubbleIx.index;
         const col=ix.overall<25?"#22c55e":ix.overall<45?"#69cd91":ix.overall<60?"#e0a73f":ix.overall<80?"#f05a6e":"#b91c1c";
-        ts.innerHTML+=`<a class="ts-item ts-bubble" href="/bubble.html" title="AI Bubble metrics — open">`+
+        ts.innerHTML+=`<a class="ts-item ts-bubble" href="/bubble" title="AI Bubble metrics — open">`+
           `<span class="lbl">AI Bubble risk</span>`+
           `<span class="val" style="color:${col}">${ix.overall}</span>`+
           `<span style="color:${col};font-weight:600">${ix.label||""}</span></a>`;
@@ -1136,7 +1136,7 @@ let savedTheme="dark"; try{ savedTheme=localStorage.getItem("santro-theme")||"da
 applyTheme(savedTheme, false);
 loadData();
 </script>
-<script src="site.js?v=8"></script>
+<script src="site.js?v=9"></script>
 <script>
 setInterval(loadData, 60000);
 </script>

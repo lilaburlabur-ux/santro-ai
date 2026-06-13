@@ -10,16 +10,16 @@
 <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
 <meta name="description" content="AI IPOs end to end: recently listed AI names with debut-day, first-week and first-month returns, plus the pre-IPO watchlist (Anthropic, OpenAI, xAI, Databricks, Anduril). Each name gets its own page. Data delayed; not financial advice." />
-<link rel="canonical" href="https://santroai.tech/ipos.html" />
+<link rel="canonical" href="https://santroai.tech/ipos" />
 <meta property="og:title" content="AI IPOs — recently listed &amp; pre-IPO watchlist | Santro AI" />
 <meta property="og:description" content="Recently listed AI IPOs with debut performance + the pre-IPO watchlist the market is waiting on." />
-<meta property="og:url" content="https://santroai.tech/ipos.html" />
+<meta property="og:url" content="https://santroai.tech/ipos" />
 <meta property="og:image" content="https://santroai.tech/assets/og-map.png" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:image" content="https://santroai.tech/assets/og-map.png" />
 <script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
-<link rel="stylesheet" href="site.css?v=8" />
+<link rel="stylesheet" href="site.css?v=9" />
 <style>
   .ipo-tbl{width:100%; border-collapse:collapse; font-size:13px;}
   .ipo-tbl th{font-size:9.5px; text-transform:uppercase; letter-spacing:.6px; color:var(--faint);
@@ -60,17 +60,17 @@
     </a>
     <nav class="pagenav">
       <a class="nav-link" href="/">Terminal</a>
-      <a class="nav-link" href="/stocks.html">Stocks</a>
-      <a class="nav-link active" href="/ipos.html">IPOs</a>
-      <a class="nav-link" href="/etfs.html">ETFs</a>
-      <a class="nav-link" href="/crypto.html">Crypto</a>
-      <a class="nav-link" href="/news.html">News</a>
-      <a class="nav-link" href="/research.html">Research</a>
-      <a class="nav-link" href="/blog.html">Blog</a>
-      <a class="nav-link" href="/about.html">About</a>
+      <a class="nav-link" href="/stocks">Stocks</a>
+      <a class="nav-link active" href="/ipos">IPOs</a>
+      <a class="nav-link" href="/etfs">ETFs</a>
+      <a class="nav-link" href="/crypto">Crypto</a>
+      <a class="nav-link" href="/news">News</a>
+      <a class="nav-link" href="/research">Research</a>
+      <a class="nav-link" href="/blog">Blog</a>
+      <a class="nav-link" href="/about">About</a>
       <details class="nav-more">
         <summary class="nav-link">More ▾</summary>
-        <div class="menu"><a href="/bubble.html">AI Bubble metrics</a></div>
+        <div class="menu"><a href="/bubble">AI Bubble metrics</a></div>
       </details>
     </nav>
   </header>
@@ -96,7 +96,7 @@
   </main>
 
   <footer>
-    <nav class="foot-nav" style="margin-bottom:6px"><a href="/">Terminal</a> · <a href="/stocks.html">Stocks</a> · <a href="/ipos.html">IPOs</a> · <a href="/etfs.html">ETFs</a> · <a href="/crypto.html">Crypto</a> · <a href="/news.html">News</a> · <a href="/research.html">Research</a> · <a href="/blog.html">Blog</a> · <a href="/about.html">About</a></nav>
+    <nav class="foot-nav" style="margin-bottom:6px"><a href="/">Terminal</a> · <a href="/stocks">Stocks</a> · <a href="/ipos">IPOs</a> · <a href="/etfs">ETFs</a> · <a href="/crypto">Crypto</a> · <a href="/news">News</a> · <a href="/research">Research</a> · <a href="/blog">Blog</a> · <a href="/about">About</a></nav>
     Santro AI — AI bubble map &amp; research journal for the AI narrative. Beta version.<br>
     <span class="nfa">Not financial advice.</span> Quotes delayed. Removed with paid version.<br>
     Contact us: <a href="mailto:hello@santroai.tech">hello@santroai.tech</a><br>
@@ -113,7 +113,7 @@ async function load(){
   if(!d){ document.getElementById("listed").innerHTML="<tr><td>Feed connecting…</td></tr>"; return; }
   document.getElementById("asof").textContent="As of "+d.as_of;
   document.getElementById("listed").innerHTML=d.listed.map(r=>`
-    <tr onclick="location.href='t.html?sym=${encodeURIComponent(r.ticker)}'">
+    <tr onclick="location.href='t?sym=${encodeURIComponent(r.ticker)}'">
       <td class="tk">${r.ticker}</td><td class="co">${r.name}</td>
       <td>${r.ipo_date_fmt||r.ipo_date}</td><td>$${r.ipo_price}</td>
       <td class="${cls(r.day1)}">${fmtPct(r.day1)}</td>
@@ -123,13 +123,13 @@ async function load(){
       <td class="${cls(r.since_ipo)}" style="font-weight:700">${fmtPct(r.since_ipo)}</td>
       <td>${fmtCap(r.market_cap_b)}</td></tr>`).join("");
   document.getElementById("preipo").innerHTML=d.preipo.map(c=>`
-    <a class="pcard" href="ipo.html?co=${encodeURIComponent(c.slug)}">
+    <a class="pcard" href="ipo?co=${encodeURIComponent(c.slug)}">
       <div class="nm">${c.name}</div><div class="wd">${c.what}</div>
       <div class="vk">Last valuation</div><div class="val">${c.valuation}</div>
       <span class="st${/filed/i.test(c.status)?" filed":""}">${c.status}</span></a>`).join("");
 }
 load(); setInterval(load, 60000);
 </script>
-<script src="site.js?v=8"></script>
+<script src="site.js?v=9"></script>
 </body>
 </html>

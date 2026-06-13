@@ -10,10 +10,10 @@
 <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
 <meta name="description" content="AI stocks as a live bubble map: the 83-name AI universe in 7 sectors plus the 30-name NVIDIA ecosystem. Price, market cap, P/E, volume, performance and 60-session charts per ticker. Bubble size = day move. Not financial advice." />
-<link rel="canonical" href="https://santroai.tech/stocks.html" />
+<link rel="canonical" href="https://santroai.tech/stocks" />
 <meta property="og:title" content="AI Stocks — AI Universe &amp; NVIDIA Ecosystem bubble map | Santro AI" />
 <meta property="og:description" content="The AI trade as living bubbles: 83-name AI universe + 30-name NVIDIA ecosystem, sized by daily move." />
-<meta property="og:url" content="https://santroai.tech/stocks.html" />
+<meta property="og:url" content="https://santroai.tech/stocks" />
 <meta property="og:image" content="https://santroai.tech/assets/og-map.png" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
@@ -21,7 +21,7 @@
 <meta name="twitter:image" content="https://santroai.tech/assets/og-map.png" />
 <meta property="og:type" content="website" />
 <script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
-<link rel="stylesheet" href="site.css?v=8" />
+<link rel="stylesheet" href="site.css?v=9" />
 <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
 <style>
   .mapwrap{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius); overflow:hidden;}
@@ -70,18 +70,18 @@
     </a>
     <nav class="pagenav">
       <a class="nav-link" href="/">Terminal</a>
-      <a class="nav-link active" href="/stocks.html">Stocks</a>
-      <a class="nav-link" href="/ipos.html">IPOs</a>
-      <a class="nav-link" href="/etfs.html">ETFs</a>
-      <a class="nav-link" href="/crypto.html">Crypto</a>
-      <a class="nav-link" href="/news.html">News</a>
-      <a class="nav-link" href="/research.html">Research</a>
-      <a class="nav-link" href="/blog.html">Blog</a>
-      <a class="nav-link" href="/about.html">About</a>
+      <a class="nav-link active" href="/stocks">Stocks</a>
+      <a class="nav-link" href="/ipos">IPOs</a>
+      <a class="nav-link" href="/etfs">ETFs</a>
+      <a class="nav-link" href="/crypto">Crypto</a>
+      <a class="nav-link" href="/news">News</a>
+      <a class="nav-link" href="/research">Research</a>
+      <a class="nav-link" href="/blog">Blog</a>
+      <a class="nav-link" href="/about">About</a>
       <details class="nav-more">
         <summary class="nav-link">More ▾</summary>
         <div class="menu">
-          <a href="/bubble.html">AI Bubble metrics</a>
+          <a href="/bubble">AI Bubble metrics</a>
         </div>
       </details>
     </nav>
@@ -109,7 +109,7 @@
   </main>
 
   <footer>
-    <nav class="foot-nav" style="margin-bottom:6px"><a href="/">Terminal</a> · <a href="/stocks.html">Stocks</a> · <a href="/ipos.html">IPOs</a> · <a href="/etfs.html">ETFs</a> · <a href="/crypto.html">Crypto</a> · <a href="/news.html">News</a> · <a href="/research.html">Research</a> · <a href="/blog.html">Blog</a> · <a href="/about.html">About</a></nav>
+    <nav class="foot-nav" style="margin-bottom:6px"><a href="/">Terminal</a> · <a href="/stocks">Stocks</a> · <a href="/ipos">IPOs</a> · <a href="/etfs">ETFs</a> · <a href="/crypto">Crypto</a> · <a href="/news">News</a> · <a href="/research">Research</a> · <a href="/blog">Blog</a> · <a href="/about">About</a></nav>
     Santro AI — AI bubble map &amp; research journal for the AI narrative. Beta version.<br>
     <span class="nfa">Not financial advice.</span> Quotes delayed. Removed with paid version.<br>
     Contact us: <a href="mailto:hello@santroai.tech">hello@santroai.tech</a><br>
@@ -295,7 +295,7 @@ function startMotion(){
 
 function showSector(g){
   const rows=g.tickers.map(t=>`
-      <tr><td><a href="t.html?sym=${encodeURIComponent(t.ticker)}" title="Open the ${t.ticker} page">${t.ticker}</a></td>
+      <tr><td><a href="t?sym=${encodeURIComponent(t.ticker)}" title="Open the ${t.ticker} page">${t.ticker}</a></td>
         <td class="co">${t.company||""}</td>
         <td class="num">$${(t.price??0).toFixed(2)}</td>
         <td class="num ${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</td>
@@ -320,7 +320,7 @@ function showSector(g){
 
 function showEcoOverview(){
   const rows=eco.tickers.map(t=>`
-      <tr><td><a href="t.html?sym=${encodeURIComponent(t.ticker)}" title="Open the ${t.ticker} page">${t.ticker}</a></td>
+      <tr><td><a href="t?sym=${encodeURIComponent(t.ticker)}" title="Open the ${t.ticker} page">${t.ticker}</a></td>
         <td class="co">${t.company||""}</td>
         <td class="num">$${(t.price??0).toFixed(2)}</td>
         <td class="num ${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</td>
@@ -354,7 +354,7 @@ function showTicker(t){
       ${pchip("1D",t.change_pct)}${pchip("1W",t.perf["1W"])}${pchip("1M",t.perf["1M"])}${pchip("1Y",t.perf["1Y"])}
     </div>`:""}
     ${t.spark&&t.spark.length>2?sparkSvg(t.spark):""}
-    <p style="margin:12px 0 0"><a href="t.html?sym=${encodeURIComponent(t.ticker)}"><b>Ticker page ↗</b></a>
+    <p style="margin:12px 0 0"><a href="t?sym=${encodeURIComponent(t.ticker)}"><b>Ticker page ↗</b></a>
       &nbsp;·&nbsp; <a href="https://finance.yahoo.com/quote/${encodeURIComponent(t.ticker)}" target="_blank" rel="noopener">Yahoo Finance →</a></p>`;
 }
 
@@ -412,6 +412,6 @@ document.getElementById("uni-back").addEventListener("click",()=>{
 });
 load(); setInterval(load, 60000);
 </script>
-<script src="site.js?v=8"></script>
+<script src="site.js?v=9"></script>
 </body>
 </html>

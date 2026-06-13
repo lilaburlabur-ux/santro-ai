@@ -46,7 +46,7 @@
   }).catch(()=>{});
 })();
 
-// ---- ticker search: compact header pill + dropdown -> t.html?sym=X ----------
+// ---- ticker search: compact header pill + dropdown -> t?sym=X ----------
 // Mounts into .pageheader .pageright (section pages) or #topbar-search (terminal).
 // Index = universe + ecosystem, lazy-loaded on first focus. "/" focuses anywhere.
 (function(){
@@ -117,7 +117,7 @@
     drop.querySelectorAll(".sg").forEach(el =>
       el.addEventListener("mousedown", e => { e.preventDefault(); go(el.dataset.tk); }));
   }
-  const go = tk => { location.href = "t.html?sym=" + encodeURIComponent(tk); };
+  const go = tk => { location.href = "t?sym=" + encodeURIComponent(tk); };
   input.addEventListener("focus", async () => { kbd.textContent = "esc"; await loadIndex(); render(); });
   input.addEventListener("blur", () => { kbd.textContent = "/"; setTimeout(() => drop.style.display = "none", 150); });
   input.addEventListener("input", async () => { sel = 0; await loadIndex(); render(); });

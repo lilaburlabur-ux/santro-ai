@@ -12,7 +12,7 @@
 <meta name="description" content="Live ticker page on Santro AI: price, market cap, P/E, volume, performance, 60-session chart, research scores and news. Data delayed ~15 min. Not financial advice." />
 <meta name="robots" content="noindex" />
 <script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
-<link rel="stylesheet" href="site.css?v=8" />
+<link rel="stylesheet" href="site.css?v=9" />
 <style>
   .tp-head{display:flex; align-items:center; gap:16px; flex-wrap:wrap; padding:6px 0 18px;}
   .tp-head img{width:54px; height:54px; border-radius:50%;}
@@ -52,16 +52,16 @@
     </a>
     <nav class="pagenav">
       <a class="nav-link" href="/">Terminal</a>
-      <a class="nav-link active" href="/stocks.html">Stocks</a>
-      <a class="nav-link" href="/etfs.html">ETFs</a>
-      <a class="nav-link" href="/crypto.html">Crypto</a>
-      <a class="nav-link" href="/news.html">News</a>
-      <a class="nav-link" href="/research.html">Research</a>
-      <a class="nav-link" href="/about.html">About</a>
+      <a class="nav-link active" href="/stocks">Stocks</a>
+      <a class="nav-link" href="/etfs">ETFs</a>
+      <a class="nav-link" href="/crypto">Crypto</a>
+      <a class="nav-link" href="/news">News</a>
+      <a class="nav-link" href="/research">Research</a>
+      <a class="nav-link" href="/about">About</a>
       <details class="nav-more">
         <summary class="nav-link">More ▾</summary>
         <div class="menu">
-          <a href="/bubble.html">AI Bubble metrics</a>
+          <a href="/bubble">AI Bubble metrics</a>
         </div>
       </details>
     </nav>
@@ -70,7 +70,7 @@
   <main id="tp">Loading…</main>
 
   <footer>
-    <nav class="foot-nav" style="margin-bottom:6px"><a href="/">Terminal</a> · <a href="/stocks.html">Stocks</a> · <a href="/ipos.html">IPOs</a> · <a href="/etfs.html">ETFs</a> · <a href="/crypto.html">Crypto</a> · <a href="/news.html">News</a> · <a href="/research.html">Research</a> · <a href="/blog.html">Blog</a> · <a href="/about.html">About</a></nav>
+    <nav class="foot-nav" style="margin-bottom:6px"><a href="/">Terminal</a> · <a href="/stocks">Stocks</a> · <a href="/ipos">IPOs</a> · <a href="/etfs">ETFs</a> · <a href="/crypto">Crypto</a> · <a href="/news">News</a> · <a href="/research">Research</a> · <a href="/blog">Blog</a> · <a href="/about">About</a></nav>
     Santro AI — AI bubble map &amp; research journal for the AI narrative. Beta version.<br>
     <span class="nfa">Not financial advice.</span> Quotes delayed. Removed with paid version.<br>
     Contact us: <a href="mailto:hello@santroai.tech">hello@santroai.tech</a><br>
@@ -157,7 +157,7 @@ async function load(){
     document.title="Not found | Santro AI";
     el.innerHTML=`<div class="notfound"><h1>${SYM}</h1>
       <p>This ticker isn't in our tracked baskets (AI Universe · NVIDIA Ecosystem · AI IPOs).</p>
-      <p><a href="/stocks.html">← Back to the bubble map</a> · <a href="/ipos.html">AI IPOs</a></p></div>`;
+      <p><a href="/stocks">← Back to the bubble map</a> · <a href="/ipos">AI IPOs</a></p></div>`;
     return;
   }
   document.title=`${SYM} $${(t.price??0).toFixed(2)} ${fmtPct(t.change_pct||0)} — ${t.company} | Santro AI`;
@@ -202,7 +202,7 @@ async function load(){
         <div class="m">${it.publisher||""}${it.published?" · "+timeAgo(it.published):""}</div></div>`).join(""):""}
     <p style="margin-top:18px">
       <a href="https://finance.yahoo.com/quote/${encodeURIComponent(SYM)}" target="_blank" rel="noopener">Yahoo Finance →</a>
-      &nbsp;·&nbsp; ${ipoRow?`<a href="/ipos.html">← AI IPOs</a>`:`<a href="/stocks.html">← Back to the bubble map</a>`}</p>`;
+      &nbsp;·&nbsp; ${ipoRow?`<a href="/ipos">← AI IPOs</a>`:`<a href="/stocks">← Back to the bubble map</a>`}</p>`;
   mountTV();
 }
 function mountTV(){
@@ -240,6 +240,6 @@ async function refresh(){
 }
 load(); setInterval(refresh, 60000);
 </script>
-<script src="site.js?v=8"></script>
+<script src="site.js?v=9"></script>
 </body>
 </html>

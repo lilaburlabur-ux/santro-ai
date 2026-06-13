@@ -216,7 +216,7 @@ function mountTV(){
   const H=Math.max(520, Math.min(1200, Math.round(window.innerHeight*0.85)));
   s.innerHTML=JSON.stringify({
     symbol:SYM, theme:dark?"dark":"light", autosize:false, width:"100%", height:H,
-    interval:"D", timezone:"Etc/UTC", style:"3", locale:"en", hide_side_toolbar:true,
+    interval:"240", timezone:"Etc/UTC", style:"1", locale:"en", hide_side_toolbar:false,
     allow_symbol_change:false, save_image:false, backgroundColor:dark?"#0a0e13":"#ffffff"
   });
   host.appendChild(s);

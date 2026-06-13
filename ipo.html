@@ -74,11 +74,18 @@ async function load(){
     el.innerHTML=`<div style="padding:50px 0;color:var(--muted)"><h1>Not found</h1>
       <p>That company isn't on our pre-IPO watchlist. <a class="btn" href="/ipos.html">← Back to AI IPOs</a></p></div>`; return; }
   document.title=`${c.name} — pre-IPO | Santro AI`;
-  // recent coverage matching the company name (best-effort, from our feeds)
+  // recent coverage matching the company name — ZeroHedge + general news, merged
   const rx=new RegExp(c.name.replace(/[^a-z0-9 ]/gi,"").split(/\s+/)[0], "i");
-  const items=(news&&news.items?news.items:[]).filter(it=>rx.test(it.title||"")).slice(0,6);
-  const zhItems=(zh&&zh.items?zh.items:[]).filter(it=>
-    (it.tags||[]).includes(c.name) || rx.test(it.title||"")).slice(0,6);
+  const cov=[], seen=new Set();
+  const add=(title,link,published,src)=>{
+    const k=(title||"").toLowerCase().slice(0,50);
+    if(title && !seen.has(k)){ seen.add(k); cov.push({title,link,published,src}); }
+  };
+  (zh&&zh.items?zh.items:[]).filter(it=>(it.tags||[]).includes(c.name)||rx.test(it.title||""))
+    .forEach(it=>add(it.title,it.link,it.published,"ZeroHedge"));
+  (news&&news.items?news.items:[]).filter(it=>rx.test(it.title||""))
+    .forEach(it=>add(it.title,it.link,it.published,it.publisher||"News"));
+  const items=cov.slice(0,8);
   el.innerHTML=`
     <div class="pi-head"><h1>${c.name}</h1>
       <span class="pi-status${/filed/i.test(c.status)?" filed":""}">${c.status}</span></div>
@@ -88,12 +95,9 @@ async function load(){
     this is a watch profile. Valuation is approximate, drawn from public reporting, and the company is
     not affiliated with Santro AI. When it lists, it moves to the <a class="btn" href="/ipos.html">recently
     listed</a> table with live data.</p>
-    ${zhItems.length?`<div class="sec-label">ZeroHedge coverage</div>`+zhItems.map(it=>`
+    ${items.length?`<div class="sec-label">News coverage</div>`+items.map(it=>`
       <div class="newsrow"><a href="${it.link||"#"}" target="_blank" rel="noopener">${it.title}</a>
-        <div class="m">ZeroHedge${it.published?" · "+timeAgo(it.published):""}</div></div>`).join(""):""}
-    ${items.length?`<div class="sec-label">${c.name} in the news</div>`+items.map(it=>`
-      <div class="newsrow"><a href="${it.link||"#"}" target="_blank" rel="noopener">${it.title}</a>
-        <div class="m">${it.publisher||""}${it.published?" · "+timeAgo(it.published):""}</div></div>`).join(""):""}
+        <div class="m">${it.src||"News"}${it.published?" · "+timeAgo(it.published):""}</div></div>`).join(""):""}
     <p style="margin-top:18px">
       <a class="btn" href="https://news.google.com/search?q=${encodeURIComponent(c.name+' IPO')}" target="_blank" rel="noopener">Search Google News →</a>
       &nbsp;·&nbsp; <a class="btn" href="/ipos.html">← All AI IPOs</a></p>`;

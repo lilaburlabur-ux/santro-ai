@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI's $32 Billion IOU: The Junk-Bond Table That Should Keep You Up At Night | Santro AI</title>
+<meta name="description" content="Our model squawked on a Morgan Stanley table that ZeroHedge flagged: 12 AI data-center junk-bond deals worth $32bn. We break it down ticker by ticker.">
+<link rel="canonical" href="https://santroai.tech/blog/ai-junk-bonds.html">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<meta property="og:type" content="article">
+<meta property="og:title" content="AI's $32 Billion IOU: The Junk-Bond Table That Should Keep You Up At Night">
+<meta property="og:description" content="12 AI data-center junk-bond deals worth $32bn, broken down ticker by ticker.">
+<meta property="og:url" content="https://santroai.tech/blog/ai-junk-bonds.html">
+<meta property="og:image" content="https://santroai.tech/assets/og-map.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://santroai.tech/assets/og-map.png">
+<style>
+  :root{
+    /* Santro dark-first palette */
+    --bg:#0a0e13; --surface:#111822; --card:#16202b;
+    --text:#e7edf3; --muted:#9aa7b5; --hint:#6b7686;
+    --border:rgba(255,255,255,.10); --border-strong:rgba(255,255,255,.20);
+    --accent:#7cb0f5; --accent-soft:#12233a;
+    --teal:#22c55e; --gray:#8895a4; --danger:#f05a6e; --danger-soft:#2a1418;
+    --radius:14px; --radius-sm:9px;
+    --serif:Georgia,'Times New Roman',serif;
+    --sans:-apple-system,BlinkMacSystemFont,'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.7;font-size:18px;-webkit-font-smoothing:antialiased}
+  /* Santro header */
+  .sa-head{display:flex;align-items:center;gap:14px;flex-wrap:wrap;max-width:760px;margin:0 auto;
+    padding:16px 20px;border-bottom:1px solid var(--border)}
+  .sa-logo{display:flex;align-items:center;gap:6px;text-decoration:none}
+  .sa-s{position:relative;font-size:24px;font-weight:800;line-height:.85;padding-right:12px;
+    background:linear-gradient(165deg,#4ade80 10%,#15803d 90%);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .sa-ai{position:absolute;top:-3px;right:0;font-size:8px;font-weight:800;-webkit-text-fill-color:#22c55e}
+  .sa-name{font-size:13px;font-weight:800;letter-spacing:.28em;color:var(--text)}
+  .sa-nav{margin-left:auto;display:flex;gap:4px;flex-wrap:wrap}
+  .sa-nav a{font-size:13px;font-weight:600;color:var(--muted);text-decoration:none;padding:5px 9px;border-radius:7px}
+  .sa-nav a:hover{color:var(--text)}
+  .sa-nav a.on{color:var(--accent)}
+  .wrap{max-width:760px;margin:0 auto;padding:32px 20px 80px}
+  .kicker{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--teal);font-weight:700;margin:0 0 10px}
+  h1{font-family:var(--serif);font-size:38px;line-height:1.15;font-weight:700;margin:0 0 14px}
+  h2{font-size:26px;line-height:1.25;font-weight:600;margin:48px 0 12px}
+  h3{font-size:19px;font-weight:600;margin:28px 0 4px}
+  p{margin:0 0 18px}
+  .lede{font-size:20px;color:var(--muted);font-style:italic;font-family:var(--serif);margin-bottom:22px}
+  .byline{font-size:14px;color:var(--hint);border-top:1px solid var(--border);border-bottom:1px solid var(--border);padding:12px 0;margin:0 0 28px;display:flex;flex-wrap:wrap;gap:6px 16px;align-items:center}
+  .byline a{color:var(--accent);text-decoration:none}
+  .byline a:hover{text-decoration:underline}
+  a{color:var(--accent)}
+  figure{margin:28px 0}
+  /* self-contained burning hero (swap for the real meme by setting --meme bg image) */
+  .hero{position:relative;border-radius:var(--radius);overflow:hidden;border:1px solid var(--border);
+    background:radial-gradient(120% 90% at 50% 120%,#ff5e00 0%,#7a1d00 38%,#1a0a06 72%,#0a0e13 100%);
+    min-height:300px;display:flex;align-items:center;justify-content:center;text-align:center;padding:34px 20px}
+  .hero .fine{font-family:var(--serif);font-size:30px;font-weight:700;color:#fff8ec;line-height:1.3;
+    text-shadow:0 2px 14px rgba(0,0,0,.6);max-width:440px}
+  .hero .fine small{display:block;font-family:var(--sans);font-size:13px;font-weight:600;color:#ffd9a8;margin-top:10px;letter-spacing:.04em}
+  .burn{position:absolute;z-index:2;line-height:1;font-family:'Arial Black',Impact,var(--sans);font-weight:800;text-transform:uppercase;letter-spacing:.4px;color:#ffe9bf;text-align:center;pointer-events:none;text-shadow:0 0 5px #ffae3d,0 0 12px #ff5e00,0 0 22px #ff2a00,0 1px 2px rgba(0,0,0,.85);font-size:clamp(15px,3.6vw,26px)}
+  .burn small{display:block;font-size:.62em;font-weight:700;color:#ffd27a;letter-spacing:0}
+  .b1{top:14%;left:6%;transform:rotate(-8deg)}
+  .b2{bottom:16%;left:9%;transform:rotate(-4deg)}
+  .b3{top:13%;right:6%;transform:rotate(7deg)}
+  .b4{bottom:18%;right:6%;transform:rotate(5deg)}
+  figcaption{font-size:13px;color:var(--hint);margin-top:10px;text-align:center}
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:26px 0}
+  .stat{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-sm);padding:16px}
+  .stat .l{font-size:13px;color:var(--muted)}
+  .stat .v{font-size:26px;font-weight:700;margin-top:2px}
+  .stat .s{font-size:12px;color:var(--hint)}
+  .panel{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:20px;margin:24px 0}
+  .panel h3{margin-top:0}
+  .chips{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0 16px}
+  .chip{font-family:var(--sans);font-size:14px;font-weight:600;padding:7px 13px;border-radius:999px;border:1px solid var(--border-strong);background:transparent;color:var(--text);cursor:pointer;transition:.12s}
+  .chip:hover{background:var(--card)}
+  .chip.on{background:var(--accent);color:#0a0e13;border-color:var(--accent)}
+  .detail{background:var(--card);border:1px solid var(--border);border-radius:var(--radius-sm);padding:18px}
+  .drow{display:flex;justify-content:space-between;gap:14px;padding:8px 0;border-top:1px solid var(--border);font-size:15px}
+  .drow:first-of-type{border-top:none}
+  .drow .dl{color:var(--muted)}
+  .drow .dl small{display:block;color:var(--hint);font-size:11.5px;line-height:1.3}
+  .drow .dv{font-weight:600;text-align:right}
+  .legend{display:flex;flex-wrap:wrap;gap:16px;font-size:13px;color:var(--muted);margin:6px 0 10px}
+  .legend span{display:flex;align-items:center;gap:6px}
+  .dot{width:12px;height:12px;border-radius:3px;display:inline-block}
+  .chartbox{position:relative;width:100%;height:330px}
+  .ladder-row{display:flex;gap:14px;align-items:flex-start;padding:11px 14px;margin-bottom:7px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--card)}
+  .ladder-row.ig{background:var(--surface)}
+  .ladder-row .g{min-width:104px;font-weight:700;font-size:14px}
+  .ladder-row .n{font-weight:600;font-size:15px}
+  .ladder-row .d{font-size:13.5px;color:var(--muted)}
+  .igline{border-top:2px dashed var(--border-strong);margin:14px 0 16px;text-align:center}
+  .igline span{position:relative;top:-11px;background:var(--bg);padding:0 10px;font-size:12px;color:var(--hint)}
+  .tk{border-left:3px solid var(--border-strong);padding:2px 0 2px 16px;margin:0 0 22px}
+  .tk h3{margin-top:0}
+  .tk.scary{border-left-color:var(--danger)}
+  .tk.calm{border-left-color:var(--teal)}
+  .verdict{font-size:15px}
+  .verdict b{color:var(--text)}
+  .tag{display:inline-block;font-size:12px;font-weight:600;padding:2px 9px;border-radius:999px;margin-left:8px;vertical-align:middle}
+  .tag.s{background:var(--danger-soft);color:var(--danger)}
+  .tag.c{background:#0f3a2e;color:#5dcaa5}
+  @media (prefers-color-scheme: light){.tag.c{background:#e1f5ee;color:#0f6e56}}
+  .note{background:var(--accent-soft);border:1px solid var(--border);border-radius:var(--radius-sm);padding:16px 18px;font-size:15.5px;margin:24px 0}
+  .disclaimer{font-size:13px;color:var(--hint);border-top:1px solid var(--border);margin-top:48px;padding-top:18px;font-style:italic}
+  .sa-foot{max-width:760px;margin:0 auto;padding:22px 20px 40px;border-top:1px solid var(--border);font-size:12.5px;color:var(--hint);text-align:center;line-height:1.9}
+  .sa-foot a{color:var(--muted);font-weight:600;text-decoration:none}
+  @media (max-width:560px){h1{font-size:30px}body{font-size:17px}}
+</style>
+</head>
+<body>
+
+<header class="sa-head">
+  <a class="sa-logo" href="/"><span class="sa-s">S<span class="sa-ai">AI</span></span><span class="sa-name">ANTRO</span></a>
+  <nav class="sa-nav">
+    <a href="/">Terminal</a><a href="/ipos.html">IPOs</a><a href="/news.html">News</a>
+    <a href="/blog.html" class="on">Blog</a>
+  </nav>
+</header>
+
+<article class="wrap">
+
+  <p class="kicker">Leveraged Finance &middot; AI Build-Out</p>
+  <h1>AI's $32 Billion IOU: The Junk-Bond Table That Should Keep You Up At Night</h1>
+  <p class="lede">Filed under: things our model squawked at before we'd had our coffee.</p>
+  <p class="byline">
+    <span>By <strong>Santro AI</strong></span>
+    <span>&middot;</span>
+    <span>June 2026</span>
+    <span>&middot;</span>
+    <span>Source: <a href="https://x.com/zerohedge/status/2065799199635972375" target="_blank" rel="noopener">@zerohedge on X</a></span>
+  </p>
+
+  <p>Every morning our model listens to the wire like a trader with one ear on the squawk box. Most of it is noise. Then, every so often, something cuts through &mdash; and this week it was a single screenshot doing the rounds on X.</p>
+
+  <p>It came from <a href="https://x.com/zerohedge/status/2065799199635972375" target="_blank" rel="noopener">ZeroHedge</a> which, in our book, is about the sharpest account in the game when it comes to <em>catching</em> the data that actually matters, then describing it and tearing it apart. As traders, we'll say it plainly: we don't read anyone better for this. That's not a throwaway compliment &mdash; it's why our model is wired <strong>directly</strong> into ZeroHedge's feed, and why, if they ever open up an API, we'll be first in line to plug into it. When they squawk, we listen.</p>
+
+  <p>So when this table popped up, the model flagged it as an interesting new squawk. We pulled it apart. Here's what we found.</p>
+
+  <figure>
+    <img src="it-is-fine-meme.jpg" alt="A Barbie doll with its tongue out holds an LED sign reading $APLD $CORZ $SECMOS $EDGCOM with flame icons, in front of a burning car. Caption: it is fine." style="width:100%;border-radius:var(--radius);display:block;border:1px solid var(--border)" onerror="this.style.display='none';document.getElementById('heroFallback').style.display='flex'">
+    <div class="hero" id="heroFallback" style="display:none">
+      <div class="fine">It's fine. I'm fine.<br>Everything's fine.<small>— the bond market, May 2026</small></div>
+      <span class="burn b1">APLD<small>9.25%</small></span>
+      <span class="burn b2">CORZ<small>7.75%</small></span>
+      <span class="burn b3">SECMOS<small>8.875%</small></span>
+      <span class="burn b4">EDGCOM<small>7.5%</small></span>
+    </div>
+    <figcaption>The bond market, colorized (May 2026). The scariest deals, on fire.</figcaption>
+  </figure>
+
+  <h2>First, the scary part</h2>
+  <p>The table &mdash; originally Morgan Stanley Research data, surfaced by ZeroHedge &mdash; tracks data-center construction deals living in the <strong>public high-yield bond market</strong>. Translation for anyone still early in the journey: these are IOUs from companies building AI data centers, and they're rated <em>below</em> investment grade. The street's polite word is "high yield." The honest word is <strong>junk</strong>.</p>
+
+  <div class="stats">
+    <div class="stat"><div class="l">Deals in market</div><div class="v">12</div><div class="s">vs 4 at end of 2025</div></div>
+    <div class="stat"><div class="l">Total borrowed</div><div class="v">$32.4bn</div><div class="s">face value outstanding</div></div>
+    <div class="stat"><div class="l">Power being built</div><div class="v">3,063 MW</div><div class="s">~3 GW of compute</div></div>
+    <div class="stat"><div class="l">Credit quality</div><div class="v">All HY</div><div class="s">below investment grade</div></div>
+  </div>
+
+  <p>Here's the number that made the model perk up: at the end of 2025 there were <strong>4</strong> of these deals. Today there are <strong>12</strong>. Combined, that's roughly <strong>$32.4 billion</strong> borrowed, funding about <strong>3 gigawatts</strong> of computing power. The AI build-out is increasingly being paid for not with cash, but with <em>borrowed, higher-risk money</em>.</p>
+
+  <p>That alone looks scary. A whole industry leaning on the junk market in under six months. But here's the thing. The headline is scary. <strong>What's inside the table is scarier.</strong> Because once you crack open each row, you start seeing who's <em>really</em> on the hook &mdash; and how thin some of these promises are.</p>
+
+  <h2>Crack open any deal</h2>
+  <p>Tap a ticker to decode every column &mdash; same data, made human.</p>
+  <div class="panel">
+    <div class="chips" id="chips"></div>
+    <div class="detail" id="detail"></div>
+  </div>
+
+  <h2>Coupons compared</h2>
+  <p>Higher coupon = lenders demanded more to compensate for risk. Notice the backstop isn't the only thing that moves it.</p>
+  <div class="legend">
+    <span><span class="dot" style="background:#22c55e"></span>Has a big-tech backstop / guarantee</span>
+    <span><span class="dot" style="background:#8895a4"></span>Stands on its own credit</span>
+  </div>
+  <div class="chartbox"><canvas id="coupons" role="img" aria-label="Bar chart of coupon rates for 12 bonds from 5.875 to 9.25 percent, colored by whether they have a big-tech backstop">Coupons range from TRACTC at 5.875% to SECMOS at 8.875%.</canvas></div>
+
+  <h2>How to read one of these</h2>
+  <p>A bond name like <code>WULF 7.750 '30</code> reads as three facts: <strong>WULF</strong> is the borrower, it promised <strong>7.75% interest a year</strong>, and it has to repay the loan in <strong>2030</strong>. Then each row tells you how much was borrowed, what the three rating agencies (S&amp;P / Moody's / Fitch) think, how much <em>power</em> it builds (in megawatts &mdash; in AI, power is the product), who <strong>rents</strong> that power, and whether someone bigger is <strong>backstopping</strong> the rent. That last bit is the whole ballgame. Keep your eye on it.</p>
+
+  <h2>The 12, ticker by ticker</h2>
+
+  <div class="tk calm">
+    <h3>WULF 7.750 '30 &mdash; TeraWulf <span class="tag c">backstopped</span></h3>
+    <p>The one to set the template. A crypto miner that pivoted to AI. Borrowed <strong>$3.2bn</strong>, pays <strong>7.75%</strong>, due 2030. Tenant is <strong>Fluidstack</strong> &mdash; a small name &mdash; but the kicker: a <strong>$3.2bn Google backstop</strong>, sized to the <em>entire</em> deal. On paper you're lending to a former bitcoin miner; in reality Google is standing behind the rent. Earliest "ready for service" of the group (July 2026), 438 MW.</p>
+    <p class="verdict"><b>Verdict:</b> looks junky, sleeps better than it looks &mdash; <em>as long as you trust the backstop.</em></p>
+  </div>
+
+  <div class="tk calm">
+    <h3>TRACTC 5.875 '31 &mdash; Tract (NV) <span class="tag c">cheapest</span></h3>
+    <p>The <strong>lowest coupon</strong> in the table at <strong>5.875%</strong>. Why so cheap? Top-of-junk ratings (Ba1 / BB+) and the tenant is <strong>NVIDIA</strong> itself. No backstop, and it doesn't need one &mdash; the market simply isn't scared. Borrowing $3.8bn, not live until Oct 2027.</p>
+    <p class="verdict"><b>Verdict:</b> the "good kid" of the class. The only real worry is <em>time</em>.</p>
+  </div>
+
+  <div class="tk">
+    <h3>TRACTD 6.500 '31 &mdash; Tract (NV)</h3>
+    <p>TRACTC's bigger sibling. A <strong>massive $4.585bn</strong> borrow at <strong>6.5%</strong>, same NVIDIA tenant, same strong ratings. The scary angle isn't quality &mdash; it's that you're funding $4.6bn of build that doesn't earn a cent until <strong>October 2027</strong>.</p>
+    <p class="verdict"><b>Verdict:</b> high quality, long runway. The risk is execution and timing, not the tenant.</p>
+  </div>
+
+  <div class="tk">
+    <h3>CORZ 7.750 '31 &mdash; Core Scientific</h3>
+    <p><strong>$3.3bn</strong> at <strong>7.75%</strong>, and the <strong>biggest single power footprint in the table: 590 MW</strong>. Tenant is <strong>CoreWeave</strong> &mdash; itself a heavily-levered AI darling. Good news: 185 MW is <em>already live</em>, so this isn't all promises. The watch-item is <strong>concentration</strong> &mdash; CoreWeave shows up more than once on this list.</p>
+    <p class="verdict"><b>Verdict:</b> real assets, real revenue, but you're betting hard on CoreWeave's survival.</p>
+  </div>
+
+  <div class="tk">
+    <h3>EDGCOM 7.500 '31</h3>
+    <p><strong>$1.3bn</strong> at <strong>7.5%</strong>, 114 MW, tenants <strong>CoreWeave / Alibaba</strong>. The reassuring part: <strong>7 data centers already online</strong>. This one's earning, not just digging foundations.</p>
+    <p class="verdict"><b>Verdict:</b> smaller, operational, less scary on execution &mdash; but again, CoreWeave concentration plus an Alibaba (China) wrinkle.</p>
+  </div>
+
+  <div class="tk calm">
+    <h3>MERIDI 6.250 '31 <span class="tag c">backstopped</span></h3>
+    <p>The <strong>single largest borrow on the board: $5.7bn</strong>, and the biggest weight in the junk index (0.42%). Lowest-tier rating here (BB-), tenant <strong>Fluidstack</strong> (small) &mdash; <em>but</em> there's a <strong>Google lease guarantee</strong> holding it up. Doesn't go live until <strong>December 2027</strong>.</p>
+    <p class="verdict"><b>Verdict:</b> enormous size + low rating + far-off start would be terrifying&hellip; if Google weren't on the hook. The whole thesis rests on that guarantee.</p>
+  </div>
+
+  <div class="tk">
+    <h3>PFORGE 6.750 '31</h3>
+    <p><strong>$2.15bn</strong> at <strong>6.75%</strong>, 200 MW, tenant <strong>Oracle</strong>. Rated Ba3 (a notch lower on Moody's), no backstop. But Oracle is a solid, real-money tenant.</p>
+    <p class="verdict"><b>Verdict:</b> middle of the pack. The Oracle name does a lot of quiet work here.</p>
+  </div>
+
+  <div class="tk calm">
+    <h3>BLKPRL 6.125 '31 <span class="tag c">backstopped</span></h3>
+    <p><strong>$2bn</strong> at a low <strong>6.125%</strong>, 216 MW in Wink, TX. Tenant is <strong>Amazon</strong>, and crucially there's an <strong>Amazon parent rent guarantee</strong>. That's why the coupon is so low &mdash; you're effectively lending to a project with Amazon's promise stapled to it.</p>
+    <p class="verdict"><b>Verdict:</b> one of the calmest rows in the table. Cheap money for a reason.</p>
+  </div>
+
+  <div class="tk">
+    <h3>FLASHC 7.250 '30</h3>
+    <p><strong>$1.3bn</strong> at <strong>7.25%</strong>, tenant <strong>Fluidstack</strong>, with a <strong>$1.3bn Google backstop</strong> &mdash; again sized to the whole deal. Only rated by Moody's (Ba3); S&amp;P and Fitch said "not rated," which itself tells you something about transparency.</p>
+    <p class="verdict"><b>Verdict:</b> the Google backstop is doing the heavy lifting; without it, this would look thin.</p>
+  </div>
+
+  <div class="tk">
+    <h3>CIFR 7.125 '30 &mdash; Cipher Mining</h3>
+    <p>Another crypto-miner-turned-AI story. <strong>$1.733bn</strong> at <strong>7.125%</strong>, tenant Fluidstack, <strong>$1.733bn Google backstop</strong> &mdash; once more, dollar-for-dollar the size of the deal. Notice the pattern yet?</p>
+    <p class="verdict"><b>Verdict:</b> fine if you trust Google; a lot of these "miner + Fluidstack tenant + Google backstop" deals rhyme a little <em>too</em> neatly.</p>
+  </div>
+
+  <div class="tk scary">
+    <h3>APLD 9.250 '30 &mdash; Applied Digital <span class="tag s">scariest</span></h3>
+    <p>Here's a genuinely scary one. The <strong>highest coupon in the table at 9.25%</strong> &mdash; the market is <em>shouting</em> about risk. BB- / BB-, tenant <strong>CoreWeave</strong>, and <strong>no backstop</strong> at all. The only comfort is that 100 MW is already operational.</p>
+    <p class="verdict"><b>Verdict:</b> high yield, naked credit, CoreWeave concentration. This row earns the "junk" label honestly. When a deal pays you 9.25%, the market is not doing you a favor &mdash; it's pricing in pain.</p>
+  </div>
+
+  <div class="tk scary">
+    <h3>SECMOS 8.875 '31 <span class="tag s">red flag</span></h3>
+    <p>The one that made us blink. <strong>8.875%</strong> &mdash; second-highest coupon &mdash; for the <strong>smallest power footprint on the board: just 50 MW</strong>. It doesn't go live until December 2026. SoftBank appears in the credit-support column.</p>
+    <p class="verdict"><b>Verdict:</b> paying nearly 9% for a tiny, not-yet-running project is the definition of "what's <em>inside</em> is scarier than the headline." Size matters, and 50 MW is a rounding error next to MERIDI's 430+ behind a Google guarantee.</p>
+  </div>
+
+  <h2>Where these sit on the credit ladder</h2>
+  <p>Everything above the dashed line is "investment grade." Every deal here lives just below it, in the top tier of high yield.</p>
+  <div id="ladder"></div>
+
+  <h2>Now the part nobody tweets</h2>
+  <p>We'd be bad analysts &mdash; and worse traders &mdash; if we just yelled "junk!" and walked off. So, honestly: most of this table is <strong>upper-tier</strong> high yield (BB / Ba). Nobody here is deep-junk CCC garbage. Several deals (BLKPRL, MERIDI, WULF, CIFR, FLASHC) have <strong>investment-grade giants &mdash; Amazon, Google &mdash; standing behind the rent</strong>, which changes the risk picture completely. And a chunk of this capacity is <strong>already live and earning</strong> (CORZ, EDGCOM, APLD), not vaporware.</p>
+
+  <p>The trap is the lazy story "backstop = safe, no backstop = doom." The data says otherwise. TRACTC has <em>no</em> backstop and the <em>cheapest</em> coupon &mdash; because NVIDIA and a clean rating carry it. SECMOS <em>has</em> SoftBank support and a near-9% coupon &mdash; because it's tiny and early. <strong>The coupon reflects the whole picture: tenant, rating, how built-out it already is, and the backstop &mdash; never one column alone.</strong> That's the discipline. Don't anchor on the scary headline <em>or</em> the comforting one. Read the row.</p>
+
+  <h2>Bottom line</h2>
+  <p>The scary headline &mdash; 4 deals to 12, $32bn of AI built on junk &mdash; is real. But the <em>inside</em> is a split screen: a handful of genuinely fragile, naked-credit, high-coupon names (looking at you, APLD and SECMOS) sitting right next to deals quietly guaranteed by some of the most creditworthy companies on earth. The risk isn't evenly spread. It's hiding in specific rows. Your job is to know which.</p>
+
+  <div class="note">Thanks to <a href="https://x.com/zerohedge/status/2065799199635972375" target="_blank" rel="noopener">ZeroHedge</a> for the squawk. The underlying data is Morgan Stanley Research (via Bloomberg, ICE BAML, LCD Pitchbook). Our model caught it; we just did the homework.</div>
+
+  <p class="disclaimer">Not investment advice. We're traders sharing how we read a table, not telling you what to buy. All ratings, coupons and figures are as reported in the source table (bonds as of 31 May 2026) and may change.</p>
+
+  <p style="margin-top:24px"><a href="/blog.html" style="font-weight:700;text-decoration:none">&larr; All posts</a></p>
+
+</article>
+
+<footer class="sa-foot">
+  <a href="/">Terminal</a> · <a href="/ipos.html">IPOs</a> · <a href="/news.html">News</a> · <a href="/blog.html">Blog</a> · <a href="/about.html">About</a><br>
+  Santro AI — AI bubble map &amp; research journal for the AI narrative.<br>
+  © 2026 Santro AI. Not financial advice.
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<script>
+const deals = [
+  {t:"SECMOS 8.875 '31", c:8.875, amt:999, idx:"0.07%", sp:"(P)BB+", mo:"NR", fi:"BB-", loc:"Austin, TX", mw:50, ten:"SoftBank-linked", sup:"SoftBank support", rfs:"1 Dec 2026", backstop:true},
+  {t:"TRACTD 6.500 '31", c:6.5, amt:4585, idx:"0.34%", sp:"(P)BB", mo:"Ba1", fi:"BB", loc:"Storey County, NV", mw:200, ten:"NVIDIA", sup:"None", rfs:"1 Oct 2027", backstop:false},
+  {t:"CORZ 7.750 '31", c:7.75, amt:3300, idx:"0.25%", sp:"BB", mo:"NR", fi:"BB-", loc:"TX, GA, OK, NC", mw:590, ten:"CoreWeave", sup:"None", rfs:"185 MW already live", backstop:false},
+  {t:"EDGCOM 7.500 '31", c:7.5, amt:1300, idx:"0.10%", sp:"BB+", mo:"NR", fi:"BB-", loc:"Chicago, Atlanta", mw:114, ten:"CoreWeave / Alibaba", sup:"None", rfs:"7 sites already online", backstop:false},
+  {t:"MERIDI 6.250 '31", c:6.25, amt:5700, idx:"0.42%", sp:"(P)BB-", mo:"Ba2", fi:"BB", loc:"Sullivan County, IN", mw:430, ten:"Fluidstack", sup:"Google lease guarantee", rfs:"1 Dec 2027", backstop:true},
+  {t:"PFORGE 6.750 '31", c:6.75, amt:2150, idx:"0.16%", sp:"NR", mo:"Ba3", fi:"BB-", loc:"Harwood, ND", mw:200, ten:"Oracle", sup:"None", rfs:"1 Oct 2026", backstop:false},
+  {t:"BLKPRL 6.125 '31", c:6.125, amt:2000, idx:"0.15%", sp:"NR", mo:"Ba2", fi:"BB-", loc:"Wink, TX", mw:216, ten:"Amazon", sup:"Amazon parent rent guarantee", rfs:"1 Oct 2026", backstop:true},
+  {t:"TRACTC 5.875 '31", c:5.875, amt:3800, idx:"0.28%", sp:"(P)BB+", mo:"Ba1", fi:"BB", loc:"Storey County, NV", mw:200, ten:"NVIDIA", sup:"None", rfs:"1 Oct 2027", backstop:false},
+  {t:"FLASHC 7.250 '30", c:7.25, amt:1300, idx:"0.10%", sp:"NR", mo:"Ba3", fi:"NR", loc:"Abernathy, TX", mw:168, ten:"Fluidstack", sup:"$1.3bn Google backstop", rfs:"30 Sep 2026", backstop:true},
+  {t:"CIFR 7.125 '30", c:7.125, amt:1733, idx:"0.13%", sp:"NR", mo:"Ba3", fi:"BB-", loc:"Colorado City, TX", mw:207, ten:"Fluidstack", sup:"$1.733bn Google backstop", rfs:"1 Sep 2026", backstop:true},
+  {t:"APLD 9.250 '30", c:9.25, amt:2350, idx:"0.17%", sp:"BB-", mo:"NR", fi:"BB-", loc:"Ellendale, ND", mw:250, ten:"CoreWeave", sup:"None", rfs:"100 MW already live", backstop:false},
+  {t:"WULF 7.750 '30", c:7.75, amt:3200, idx:"0.24%", sp:"BB", mo:"Ba2", fi:"BB", loc:"Lake Mariner, NY", mw:438, ten:"Fluidstack", sup:"$3.2bn Google backstop", rfs:"1 Jul 2026", backstop:true}
+];
+
+const chipsEl = document.getElementById('chips');
+const detailEl = document.getElementById('detail');
+let active = 11;
+
+function drow(label, value, hint){
+  return '<div class="drow"><div class="dl">'+label+(hint?'<small>'+hint+'</small>':'')+'</div><div class="dv">'+value+'</div></div>';
+}
+function render(i){
+  const d = deals[i];
+  const ticker = d.t.split(' ')[0];
+  const mat = '20' + d.t.slice(-2);
+  detailEl.innerHTML =
+    '<div style="font-size:20px;font-weight:700;margin-bottom:2px">'+ticker+'</div>'+
+    '<div style="font-size:14px;color:var(--muted);margin-bottom:12px">coupon '+d.c+'% &middot; matures '+mat+'</div>'+
+    '<div style="font-size:14.5px;color:var(--muted);margin-bottom:12px;line-height:1.6">Read the name as: <b>'+ticker+'</b> borrowed money promising <b>'+d.c+'% a year</b>, with the loan due back in <b>'+mat+'</b>.</div>'+
+    drow('Amount borrowed','$'+d.amt.toLocaleString()+'mn')+
+    drow('Coupon (annual interest)',d.c+'%','what you earn each year on $100')+
+    drow('S&amp;P / Moody&rsquo;s / Fitch',d.sp+' / '+d.mo+' / '+d.fi,'three rating agencies&rsquo; grades')+
+    drow('Critical IT power',d.mw.toLocaleString()+' MW','size of the data center')+
+    drow('Tenant',d.ten,'who rents the compute &amp; pays the rent')+
+    drow('Extra credit support',d.sup,'a guarantee that backs up the rent')+
+    drow('Ready for service',d.rfs,'when it starts earning')+
+    drow('% of HY index',d.idx,'weight in the junk-bond market');
+}
+deals.forEach(function(d,i){
+  const b = document.createElement('button');
+  b.className = 'chip';
+  b.textContent = d.t.split(' ')[0];
+  b.onclick = function(){ active=i; render(i); paint(); };
+  chipsEl.appendChild(b);
+});
+function paint(){ Array.prototype.forEach.call(chipsEl.children,function(c,i){ c.classList.toggle('on', i===active); }); }
+render(active); paint();
+
+const ladder = [
+  {g:'AAA &rarr; BBB-', n:'Investment grade', d:'"Safe" borrowers. None of these deals are here.', ig:true},
+  {g:'BB+ / Ba1', n:'Top of high yield', d:'TRACTC, TRACTD, EDGCOM, SECMOS sit around here.'},
+  {g:'BB / BB-', n:'Solid high yield', d:'Where almost every deal in this table lives.'},
+  {g:'B and below', n:'Deeper junk', d:'Riskier still. None of these deals are down here.'}
+];
+document.getElementById('ladder').innerHTML = ladder.map(function(r){
+  return (r.ig?'':'<div class="igline"><span>investment-grade line</span></div>')+
+    '<div class="ladder-row'+(r.ig?' ig':'')+'"><div class="g">'+r.g+'</div><div><div class="n">'+r.n+'</div><div class="d">'+r.d+'</div></div></div>';
+}).join('');
+
+window.addEventListener('load', function(){
+  if(typeof Chart === 'undefined') return;
+  const sorted = deals.slice().sort(function(a,b){return a.c-b.c;});
+  new Chart(document.getElementById('coupons'), {
+    type:'bar',
+    data:{ labels: sorted.map(function(d){return d.t.split(' ')[0];}),
+      datasets:[{ label:'Coupon %', data: sorted.map(function(d){return d.c;}),
+        backgroundColor: sorted.map(function(d){return d.backstop?'#22c55e':'#8895a4';}),
+        borderRadius:4 }]},
+    options:{ responsive:true, maintainAspectRatio:false,
+      plugins:{ legend:{display:false}, tooltip:{callbacks:{label:function(x){return x.parsed.y+'% coupon';}}} },
+      scales:{ x:{ ticks:{autoSkip:false, maxRotation:55, minRotation:55, font:{size:11}, color:'#9aa7b5'}, grid:{display:false} },
+        y:{ ticks:{callback:function(v){return v+'%';}, color:'#9aa7b5'}, grid:{color:'rgba(255,255,255,.06)'}, title:{display:true, text:'annual coupon', color:'#9aa7b5'} } } }
+  });
+});
+</script>
+</body>
+</html>

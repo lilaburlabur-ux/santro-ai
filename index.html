@@ -499,11 +499,6 @@ function fmtCap(n){
   if(n>=1e6)  return "$"+(n/1e6).toFixed(1)+"M";
   return "$"+Math.round(n);
 }
-function fmtMoney(v, ccy){
-  if(v==null) return "—";
-  try{ return new Intl.NumberFormat("en-US",{style:"currency",currency:ccy||"USD"}).format(v); }
-  catch(e){ return (ccy?ccy+" ":"")+v; }
-}
 function timeAgo(iso){
   if(!iso) return "";
   const m=Math.round((Date.now()-new Date(iso))/60000);
@@ -533,7 +528,7 @@ function colorFor(pct){
 const pctClass = x => x>=0 ? "up":"down";
 
 const chart=echarts.init(document.getElementById("chart"),null,{renderer:"canvas"});
-let stocks=[], etf=null, selectedSymbol=null, heatMode="universe";
+let stocks=[], selectedSymbol=null, heatMode="universe";
 let research=null, asOfUtc=null;   // research.json cards + quote timestamp
 let takeaways=null;                // takeaways/takeaways.json (4-hour cycle)
 let tkExpanded=false;              // "See more" state — survives the 60s auto-refresh
@@ -622,9 +617,9 @@ function bubbleItem(n){
       itemStyle:{color:core, borderColor:heat, borderWidth:2, shadowBlur:0},
       label:{show:true, position:"inside", align:"center", verticalAlign:"middle", formatter:fmt, rich}};
   }
-  const x=n.obj, sym=n.kind==="uni"?x.ticker:x.symbol;
+  const x=n.obj, sym=x.ticker;   // post-sector path is always a universe/eco ticker
   const pct=x.change_pct||0, heat=colorFor(pct);
-  const txt=n.kind==="etf"?x.short:sym;
+  const txt=sym;
   // font fits BOTH the radius and the text's width across the circle
   const fs=Math.min(Math.max(9, Math.round(n.r*0.30)), fitFs(txt.length, n.r, 22));
   const pcFs=Math.max(8, Math.round(fs*0.82));
@@ -642,8 +637,7 @@ function bubbleItem(n){
     fmt+="{lg|}\n";
   }
   fmt+=`{tk|${txt}}\n{pc|${fmtPct(pct)}}`;
-  return {value:[n.x,n.y], symbolSize:n.r*2,
-    [n.kind==="uni"?"uniTicker":(n.kind==="etf"?"holding":"stock")]:x,
+  return {value:[n.x,n.y], symbolSize:n.r*2, uniTicker:x,
     itemStyle:{color:heatDark(pct),
       borderColor:sel?"#ffffff":heat,
       borderWidth:sel?3.5:Math.max(2,Math.round(n.r*0.09)),
@@ -780,11 +774,7 @@ function render(){
            + `<span style="color:${c}">${fmtPct(t.change_pct)}</span> &nbsp; $${(t.price??0).toFixed(2)}<br/>`
            + `Cap ${fmtCap(t.market_cap_b*1e9)} · Vol ${fmtVol(t.volume)} · P/E ${t.pe==null?"—":t.pe}<br/>`
            + `<span style="opacity:.7">${t.industry}</span>`;}
-    if(p.data.holding){const h=p.data.holding; const c=h.change_pct>=0?"#22c55e":"#f05a6e";
-      return `<b>${h.short}</b> · ${h.name}<br/><span style="color:${c}">${fmtPct(h.change_pct)}</span>${h.price!=null?" &nbsp; "+fmtMoney(h.price,h.currency):""}<br/>Weight in ${etf.symbol} ${h.weight_pct.toFixed(2)}%`;}
-    const s=p.data.stock; if(!s) return "";
-    const c=s.change_pct>=0?"#22c55e":"#f05a6e";
-    return `<b>${s.symbol}</b> · ${s.name}<br/><span style="color:${c}">${fmtPct(s.change_pct)}</span> &nbsp; $${s.price.toFixed(2)}<br/>Market cap ${fmtCap(s.market_cap)}`;
+    return "";
   };
   const tooltip = {borderColor:th.ttBorder, backgroundColor:th.ttBg,
     textStyle:{color:th.ttText,fontSize:12}, formatter:ttFormatter};
@@ -795,8 +785,7 @@ function render(){
   if(heatMode==="universe" && universe && !uniGroup){ kind="sector"; items=universe.bubbles; }
   else if(heatMode==="universe" && universe && uniGroup){ kind="uni"; items=uniGroup.tickers; }
   else if(heatMode==="eco" && eco){ kind="uni"; items=eco.tickers; }
-  else if(heatMode==="etf" && etf){ kind="etf"; items=etf.holdings; }
-  else { kind="stocks"; items=stocks; }
+  else { return; }   // no data loaded yet — nothing to draw
   // bubble size = magnitude of the day move (cryptobubbles semantics);
   // +0.5 floor keeps flat names visible, minR in packBubbles keeps them readable
   const key="_sz";
@@ -819,58 +808,6 @@ function render(){
   startMotion();
 }
 
-function showDetail(s){
-  const r=research&&research.stocks?research.stocks[s.symbol]:null;
-  document.getElementById("detail-title").innerHTML =
-    `Selected — ${s.symbol} <span class="badge live">Live</span>` +
-    (r?` <span class="badge live">Research ${research.signed}</span>`:"");
-  const closePx = r&&r.close!=null ? r.close : (s.previous_close??0);
-  const closeLbl = r&&r.close_date ? `Close · ${fmtDay(r.close_date)}` : "Prev close";
-  document.getElementById("detail").innerHTML=`
-    <div class="d-head"><span class="d-sym">${s.symbol}</span><span class="d-name">${s.name}</span>
-      <span class="d-pct ${pctClass(s.change_pct)}">${fmtPct(s.change_pct)}</span></div>
-    ${r?`<div class="thesis">${r.thesis||""}</div>`:""}
-    <div class="d-stats">
-      <div class="d-stat"><div class="k">Last price · NYSE/Nasdaq clock</div>
-        <div class="v">$${s.price.toFixed(2)}<span class="sub2">${etTime(asOfUtc)} · ~15-min delayed</span></div></div>
-      <div class="d-stat"><div class="k">${closeLbl}</div><div class="v">$${Number(closePx).toFixed(2)}</div></div>
-      <div class="d-stat"><div class="k">Market cap</div><div class="v">${fmtCap(s.market_cap)}</div></div>
-      <div class="d-stat"><div class="k">Day change</div><div class="v ${pctClass(s.change_pct)}">${fmtPct(s.change_pct)}</div></div>
-      <div class="d-stat"><div class="k">P/E ttm / forward</div><div class="v">${r?`${fnum2(r.pe_ttm)} / ${fnum2(r.fwd_pe)}`:"—"}</div></div>
-      <div class="d-stat"><div class="k">Short % float</div><div class="v">${r&&r.short_float!=null?r.short_float.toFixed(2)+"%":"—"}</div></div>
-    </div>
-    ${r?`<div class="sec-label">Method scores · signed ${research.signed}</div><div class="chips">`
-        +chip("Technical", r.scores.technical)
-        +chip("Narrative", r.scores.narrative, r.target?`Mean target $${fnum2(r.target)} (${r.analysts||"—"} analysts)`:"")
-        +chip("Macro", (research.macro||{}).score, (research.macro||{}).note||"")
-        +chip("Entry zone", r.scores.entry_zone)
-        +chip("R:R", r.scores.rr!=null?r.scores.rr+":1":null, "Reward to mean target vs structural stop (SMA50 / 20d swing low)")
-        +`</div>`:""}
-    <div class="links">
-      ${r&&r.report?`<a class="see-more" href="research/${r.report}" target="_blank" rel="noopener">Signed report ↗</a>`:""}
-      <a class="see-more" href="t.html?sym=${encodeURIComponent(s.symbol)}">Ticker page ↗</a>
-      <a class="see-more" href="https://finance.yahoo.com/quote/${s.symbol}" target="_blank" rel="noopener">Yahoo Finance →</a>
-    </div>`;
-}
-function showEtfDetail(h){
-  document.getElementById("detail-title").innerHTML=`Selected — ${h.short} <span class="badge live">In ${etf.symbol}</span>`;
-  document.getElementById("detail").innerHTML=`
-    <div class="d-head"><span class="d-sym">${h.short}</span><span class="d-name">${h.name}</span>
-      <span class="d-pct ${pctClass(h.change_pct)}">${fmtPct(h.change_pct)}</span></div>
-    <div class="d-stats">
-      <div class="d-stat"><div class="k">Weight in ${etf.symbol}</div><div class="v">${h.weight_pct.toFixed(2)}%</div></div>
-      <div class="d-stat"><div class="k">Price</div><div class="v">${fmtMoney(h.price, h.currency)}</div></div>
-      <div class="d-stat"><div class="k">Day change</div><div class="v ${pctClass(h.change_pct)}">${fmtPct(h.change_pct)}</div></div>
-      <div class="d-stat"><div class="k">Ticker</div><div class="v">${h.symbol}</div></div>
-    </div>
-    ${researchExtras(h.symbol)}
-    <div class="links">
-      ${h.symbol.includes(".")?"":`<a class="see-more" href="t.html?sym=${encodeURIComponent(h.symbol)}">Ticker page ↗</a>`}
-      <a class="see-more" href="https://finance.yahoo.com/quote/${encodeURIComponent(h.symbol)}" target="_blank" rel="noopener">See more on Yahoo Finance →</a>
-    </div>`;
-}
-function selectSymbol(s){ selectedSymbol=s.symbol; render(); showDetail(s); }
-function selectHolding(h){ selectedSymbol=h.symbol; render(); showEtfDetail(h); }
 
 function showGroupDetail(g){
   document.getElementById("detail-title").innerHTML=
@@ -1117,20 +1054,12 @@ function applyHeat(){
     t ? showUniverseDetail(t) : showEcoOverview();
     return;
   }
-  const etfMode = heatMode==="etf" && etf;
-  const list = etfMode ? etf.holdings : stocks;
-  const sel = list.find(x=>x.symbol===selectedSymbol) || list[0];
-  selectedSymbol = sel ? sel.symbol : null;
-  document.getElementById("heat-title").textContent =
-    etfMode ? `AI ETFs · ${etf.symbol} holdings · sized by day move` : "Semiconductors · Finviz industry";
-  render();
-  if(sel) (etfMode ? showEtfDetail : showDetail)(sel);
 }
 
 async function loadData(){
   try{
     const d=await (await fetch("data.json?t="+Date.now())).json();
-    stocks=d.stocks||[]; etf=d.etf||null; asOfUtc=d.as_of_utc||null;
+    stocks=d.stocks||[]; asOfUtc=d.as_of_utc||null;
     try{ research=await (await fetch("research/research.json?t="+Date.now())).json(); }
     catch(e){ research=null; }
     try{ takeaways=await (await fetch("takeaways/takeaways.json?t="+Date.now())).json(); }
@@ -1177,8 +1106,6 @@ async function loadData(){
 chart.on("click", p=>{
   if(p.data && p.data.group){ uniGroup=p.data.group; selectedSymbol=null; applyHeat(); }
   else if(p.data && p.data.uniTicker){ selectedSymbol=p.data.uniTicker.ticker; render(); showUniverseDetail(p.data.uniTicker); }
-  else if(p.data && p.data.holding) selectHolding(p.data.holding);
-  else if(p.data && p.data.stock) selectSymbol(p.data.stock);
 });
 document.querySelectorAll(".seg-btn[data-mode]").forEach(b=>b.addEventListener("click",()=>{
   if(b.dataset.mode===heatMode) return;

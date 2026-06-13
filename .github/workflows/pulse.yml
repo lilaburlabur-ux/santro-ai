@@ -40,7 +40,9 @@ jobs:
               if [ "$h" -ge 8 ] || [ "$h" -eq 0 ]; then market=1; fi
             fi
 
-            if [ "$market" -eq 1 ]; then
+            # tape (data.json) carries BTC — a 24/7 asset — so refresh it
+            # around the clock: every 5 min in-market, every 15 min off-market.
+            if [ "$market" -eq 1 ] || [ $((i % 3)) -eq 0 ]; then
               gh workflow run refresh-data.yml -R "$R" || true
             fi
             if [ $((i % 3)) -eq 0 ]; then

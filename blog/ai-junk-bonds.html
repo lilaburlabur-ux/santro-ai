@@ -31,8 +31,8 @@
   *{box-sizing:border-box}
   body{margin:0;background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.7;font-size:18px;-webkit-font-smoothing:antialiased}
   /* Santro header */
-  .sa-head{display:flex;align-items:center;gap:14px;flex-wrap:wrap;max-width:760px;margin:0 auto;
-    padding:16px 20px;border-bottom:1px solid var(--border)}
+  .sa-head{display:flex;align-items:center;gap:14px;flex-wrap:wrap;max-width:1040px;margin:0 auto;
+    padding:16px 22px;border-bottom:1px solid var(--border)}
   .sa-logo{display:flex;align-items:center;gap:6px;text-decoration:none}
   .sa-s{position:relative;font-size:24px;font-weight:800;line-height:.85;padding-right:12px;
     background:linear-gradient(165deg,#4ade80 10%,#15803d 90%);-webkit-background-clip:text;background-clip:text;color:transparent}
@@ -42,7 +42,8 @@
   .sa-nav a{font-size:13px;font-weight:600;color:var(--muted);text-decoration:none;padding:5px 9px;border-radius:7px}
   .sa-nav a:hover{color:var(--text)}
   .sa-nav a.on{color:var(--accent)}
-  .wrap{max-width:760px;margin:0 auto;padding:32px 20px 80px}
+  .wrap{max-width:1040px;margin:0 auto;padding:32px 22px 80px}
+  .sa-nav a.back{color:var(--accent);font-weight:700}
   .kicker{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--teal);font-weight:700;margin:0 0 10px}
   h1{font-family:var(--serif);font-size:38px;line-height:1.15;font-weight:700;margin:0 0 14px}
   h2{font-size:26px;line-height:1.25;font-weight:600;margin:48px 0 12px}
@@ -108,7 +109,7 @@
   @media (prefers-color-scheme: light){.tag.c{background:#e1f5ee;color:#0f6e56}}
   .note{background:var(--accent-soft);border:1px solid var(--border);border-radius:var(--radius-sm);padding:16px 18px;font-size:15.5px;margin:24px 0}
   .disclaimer{font-size:13px;color:var(--hint);border-top:1px solid var(--border);margin-top:48px;padding-top:18px;font-style:italic}
-  .sa-foot{max-width:760px;margin:0 auto;padding:22px 20px 40px;border-top:1px solid var(--border);font-size:12.5px;color:var(--hint);text-align:center;line-height:1.9}
+  .sa-foot{max-width:1040px;margin:0 auto;padding:22px 20px 40px;border-top:1px solid var(--border);font-size:12.5px;color:var(--hint);text-align:center;line-height:1.9}
   .sa-foot a{color:var(--muted);font-weight:600;text-decoration:none}
   @media (max-width:560px){h1{font-size:30px}body{font-size:17px}}
 </style>
@@ -120,6 +121,7 @@
   <nav class="sa-nav">
     <a href="/">Terminal</a><a href="/ipos.html">IPOs</a><a href="/news.html">News</a>
     <a href="/blog.html" class="on">Blog</a>
+    <a href="/blog.html" class="back">&larr; Back</a>
   </nav>
 </header>
 
@@ -143,7 +145,7 @@
   <p>So when this table popped up, the model flagged it as an interesting new squawk. We pulled it apart. Here's what we found.</p>
 
   <figure>
-    <img src="it-is-fine-meme.jpg" alt="A Barbie doll with its tongue out holds an LED sign reading $APLD $CORZ $SECMOS $EDGCOM with flame icons, in front of a burning car. Caption: it is fine." style="width:100%;border-radius:var(--radius);display:block;border:1px solid var(--border)" onerror="this.style.display='none';document.getElementById('heroFallback').style.display='flex'">
+    <img src="it-is-fine-meme.jpg" alt="A Barbie doll with its tongue out holds an LED sign reading $APLD $CORZ $SECMOS $EDGCOM with flame icons, in front of a burning car. Caption: it is fine." style="display:block;width:auto;max-width:100%;max-height:560px;margin:0 auto;border-radius:var(--radius);border:1px solid var(--border)" onerror="this.style.display='none';document.getElementById('heroFallback').style.display='flex'">
     <div class="hero" id="heroFallback" style="display:none">
       <div class="fine">It's fine. I'm fine.<br>Everything's fine.<small>— the bond market, May 2026</small></div>
       <span class="burn b1">APLD<small>9.25%</small></span>

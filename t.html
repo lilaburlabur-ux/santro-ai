@@ -39,6 +39,7 @@
   .newsrow a:hover{color:var(--accent-2);}
   .newsrow .m{color:var(--faint); font-size:11px; margin-top:2px;}
   .notfound{padding:60px 0; color:var(--muted);}
+  #tvchart{height:420px; margin-bottom:6px; border:1px solid var(--border); border-radius:12px; overflow:hidden;}
 </style>
 </head>
 <body>
@@ -68,7 +69,7 @@
   <main id="tp">Loading…</main>
 
   <footer>
-    <nav class="foot-nav" style="margin-bottom:6px"><a href="/">Terminal</a> · <a href="/stocks.html">Stocks</a> · <a href="/etfs.html">ETFs</a> · <a href="/crypto.html">Crypto</a> · <a href="/news.html">News</a> · <a href="/research.html">Research</a> · <a href="/about.html">About</a></nav>
+    <nav class="foot-nav" style="margin-bottom:6px"><a href="/">Terminal</a> · <a href="/stocks.html">Stocks</a> · <a href="/ipos.html">IPOs</a> · <a href="/etfs.html">ETFs</a> · <a href="/crypto.html">Crypto</a> · <a href="/news.html">News</a> · <a href="/research.html">Research</a> · <a href="/about.html">About</a></nav>
     Santro AI — AI bubble map &amp; research journal for the AI narrative. Beta version.<br>
     <span class="nfa">Not financial advice.</span> Quotes delayed. Removed with paid version.<br>
     Contact us: <a href="mailto:hello@santroai.tech">hello@santroai.tech</a><br>
@@ -124,14 +125,15 @@ function bigChart(s){
 
 async function load(){
   const el=document.getElementById("tp");
-  let universe=null, eco=null, news=null, research=null, tweets=null;
+  let universe=null, eco=null, ipos=null, news=null, research=null, tweets=null;
   try{ universe=await (await fetch("universe.json?t="+Date.now())).json(); }catch(e){}
   try{ eco=await (await fetch("ecosystem.json?t="+Date.now())).json(); }catch(e){}
+  try{ ipos=await (await fetch("ipos.json?t="+Date.now())).json(); }catch(e){}
   try{ news=await (await fetch("news.json?t="+Date.now())).json(); }catch(e){}
   try{ research=await (await fetch("research/research.json?t="+Date.now())).json(); }catch(e){}
   try{ tweets=await (await fetch("tweets.json?t="+Date.now())).json(); }catch(e){}
 
-  // find the ticker in both baskets; universe entry wins (has sector context)
+  // find the ticker in the baskets; universe entry wins (has sector context)
   let t=null; const baskets=[];
   if(universe) for(const b of universe.bubbles){
     const x=b.tickers.find(x=>x.ticker===SYM);
@@ -141,11 +143,20 @@ async function load(){
     if(!t) t=eco.tickers.find(x=>x.ticker===SYM);
     baskets.push("NVIDIA Ecosystem");
   }
+  // recently-listed IPO context (attached even if the name is also in a basket)
+  const ipoRow=(ipos&&ipos.listed||[]).find(x=>x.ticker===SYM)||null;
+  if(ipoRow){
+    baskets.push("AI IPO");
+    if(!t) t={ticker:SYM, company:ipoRow.name, industry:"—",
+              price:ipoRow.price, change_pct:ipoRow.change_pct,
+              market_cap_b:ipoRow.market_cap_b, pe:null, volume:ipoRow.volume,
+              spark:ipoRow.spark};
+  }
   if(!t){
     document.title="Not found | Santro AI";
     el.innerHTML=`<div class="notfound"><h1>${SYM}</h1>
-      <p>This ticker isn't in our tracked baskets (AI Universe · NVIDIA Ecosystem).</p>
-      <p><a href="/stocks.html">← Back to the bubble map</a></p></div>`;
+      <p>This ticker isn't in our tracked baskets (AI Universe · NVIDIA Ecosystem · AI IPOs).</p>
+      <p><a href="/stocks.html">← Back to the bubble map</a> · <a href="/ipos.html">AI IPOs</a></p></div>`;
     return;
   }
   document.title=`${SYM} $${(t.price??0).toFixed(2)} ${fmtPct(t.change_pct||0)} — ${t.company} | Santro AI`;
@@ -159,9 +170,9 @@ async function load(){
       <img src="${logoUrl(SYM)}" onerror="this.style.visibility='hidden'" alt="">
       <div class="tp-title"><h1>${t.company} <span class="sym">· ${SYM}</span></h1>
         <div class="sub">${t.industry||"—"}${t.sector?" · "+t.sector:""} · ${baskets.join(" · ")}</div></div>
-      <div class="tp-px"><div class="big">$${(t.price??0).toFixed(2)}</div>
-        <div class="chg ${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</div>
-        <div class="sess">Live · ${SESSION_LBL[session]||""} · ~15-min delayed</div>
+      <div class="tp-px"><div class="big" id="lv-px">$${(t.price??0).toFixed(2)}</div>
+        <div class="chg ${pctClass(t.change_pct)}" id="lv-chg">${fmtPct(t.change_pct)}</div>
+        <div class="sess" id="lv-sess">Live · ${SESSION_LBL[session]||""} · ~15-min delayed</div>
         ${hl?`<div class="hl">Hyperliquid perp $${hl.toFixed(2)}</div>`:""}</div>
     </div>
     <div class="kv" style="max-width:760px">
@@ -173,6 +184,11 @@ async function load(){
     ${t.perf?`<div class="sec-label">Performance</div><div>
       ${pchip("1D",t.change_pct)}${pchip("1W",t.perf["1W"])}${pchip("1M",t.perf["1M"])}${pchip("1Y",t.perf["1Y"])}
     </div>`:""}
+    ${ipoRow?`<div class="sec-label">IPO debut · priced $${ipoRow.ipo_price} on ${ipoRow.ipo_date_fmt||ipoRow.ipo_date}</div><div>
+      ${pchip("Day 1",ipoRow.day1)}${pchip("Week 1",ipoRow.week1)}${pchip("Month 1",ipoRow.month1)}${pchip("Since IPO",ipoRow.since_ipo)}
+    </div>`:""}
+    <div class="sec-label">Chart · TradingView</div>
+    <div class="tradingview-widget-container" id="tvchart"><div class="tradingview-widget-container__widget"></div></div>
     ${bigChart(t.spark)}
     ${r?`<div class="sec-label">Method scores · signed ${research.signed} (research journal, not advice)</div>
       ${r.thesis?`<div class="thesis">${r.thesis}</div><div style="height:8px"></div>`:""}
@@ -185,9 +201,41 @@ async function load(){
         <div class="m">${it.publisher||""}${it.published?" · "+timeAgo(it.published):""}</div></div>`).join(""):""}
     <p style="margin-top:18px">
       <a href="https://finance.yahoo.com/quote/${encodeURIComponent(SYM)}" target="_blank" rel="noopener">Yahoo Finance →</a>
-      &nbsp;·&nbsp; <a href="/stocks.html">← Back to the bubble map</a></p>`;
+      &nbsp;·&nbsp; ${ipoRow?`<a href="/ipos.html">← AI IPOs</a>`:`<a href="/stocks.html">← Back to the bubble map</a>`}</p>`;
+  mountTV();
 }
-load(); setInterval(load, 60000);
+function mountTV(){
+  const host=document.getElementById("tvchart");
+  if(!host) return;
+  const dark=document.documentElement.dataset.theme!=="light";
+  const s=document.createElement("script");
+  s.src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js";
+  s.async=true;
+  s.innerHTML=JSON.stringify({
+    symbol:SYM, theme:dark?"dark":"light", autosize:true, interval:"D",
+    timezone:"Etc/UTC", style:"3", locale:"en", hide_side_toolbar:true,
+    allow_symbol_change:false, save_image:false, backgroundColor:dark?"#0a0e13":"#ffffff"
+  });
+  host.appendChild(s);
+}
+// 60s live refresh updates only the price header — never rebuilds the TV chart
+async function refresh(){
+  try{
+    const u=await (await fetch("universe.json?t="+Date.now())).json();
+    let x=null; for(const b of u.bubbles){ const f=b.tickers.find(y=>y.ticker===SYM); if(f){x=f;break;} }
+    if(!x){ try{ const e=await (await fetch("ecosystem.json?t="+Date.now())).json();
+      x=e.tickers.find(y=>y.ticker===SYM)||null; }catch(_){} }
+    if(!x){ try{ const i=await (await fetch("ipos.json?t="+Date.now())).json();
+      x=(i.listed||[]).find(y=>y.ticker===SYM)||null; }catch(_){} }
+    if(!x) return;
+    const px=document.getElementById("lv-px"), chg=document.getElementById("lv-chg"),
+          sess=document.getElementById("lv-sess");
+    if(px) px.textContent="$"+(x.price??0).toFixed(2);
+    if(chg){ chg.textContent=fmtPct(x.change_pct); chg.className="chg "+pctClass(x.change_pct); }
+    if(sess && u.meta.session) sess.textContent="Live · "+(SESSION_LBL[u.meta.session]||"")+" · ~15-min delayed";
+  }catch(e){}
+}
+load(); setInterval(refresh, 60000);
 </script>
 <script src="site.js?v=8"></script>
 </body>

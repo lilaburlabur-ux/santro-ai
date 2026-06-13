@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Pre-IPO company | Santro AI</title>
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
+<link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png" />
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+<meta name="description" content="Pre-IPO AI company profile on Santro AI: valuation, status and the watch case. Not financial advice." />
+<meta name="robots" content="noindex" />
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
+<link rel="stylesheet" href="site.css?v=8" />
+<style>
+  .pi-head{display:flex; align-items:baseline; gap:14px; flex-wrap:wrap; padding:6px 0 16px;}
+  .pi-head h1{margin:0; font-size:26px;}
+  .pi-status{display:inline-block; font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:.5px;
+    padding:4px 11px; border-radius:999px; background:var(--accent-soft); color:var(--accent-2); border:1px solid var(--accent-border);}
+  .pi-status.filed{background:#241d10; color:#e0a73f; border-color:#463713;}
+  .valbox{background:var(--panel); border:1px solid var(--border); border-top:3px solid #e0a73f;
+    border-radius:14px; padding:20px 24px; display:inline-block; margin:4px 0 18px;}
+  .valbox .k{font-size:10px; text-transform:uppercase; letter-spacing:.6px; color:var(--faint); font-weight:700;}
+  .valbox .v{font-size:40px; font-weight:800; color:#e0a73f; line-height:1.1;}
+  .sec-label{margin:18px 0 8px; font-size:10px; letter-spacing:.7px; text-transform:uppercase; color:var(--faint); font-weight:700;}
+  .newsrow{padding:10px 0; border-bottom:1px solid var(--border-soft); font-size:13.5px; max-width:860px;}
+  .newsrow:last-child{border-bottom:0;}
+  .newsrow a{color:var(--text); text-decoration:none;} .newsrow a:hover{color:var(--accent-2);}
+  .newsrow .m{color:var(--faint); font-size:11px; margin-top:2px;}
+  main a.btn{color:var(--accent-2); font-weight:700; text-decoration:none;}
+</style>
+</head>
+<body>
+  <header class="pageheader">
+    <a class="logo" href="/" title="Santro AI — terminal">
+      <span class="logo-s">S<span class="logo-ai">AI</span></span>
+      <span class="logo-rest"><span class="logo-antro">ANTRO</span>
+        <span class="logo-tagline">AI&nbsp;RESEARCH&nbsp;·&nbsp;MARKETS</span></span>
+    </a>
+    <nav class="pagenav">
+      <a class="nav-link" href="/">Terminal</a>
+      <a class="nav-link" href="/stocks.html">Stocks</a>
+      <a class="nav-link active" href="/ipos.html">IPOs</a>
+      <a class="nav-link" href="/etfs.html">ETFs</a>
+      <a class="nav-link" href="/crypto.html">Crypto</a>
+      <a class="nav-link" href="/news.html">News</a>
+      <a class="nav-link" href="/research.html">Research</a>
+      <a class="nav-link" href="/about.html">About</a>
+    </nav>
+  </header>
+
+  <main id="pi">Loading…</main>
+
+  <footer>
+    <nav class="foot-nav" style="margin-bottom:6px"><a href="/">Terminal</a> · <a href="/stocks.html">Stocks</a> · <a href="/ipos.html">IPOs</a> · <a href="/etfs.html">ETFs</a> · <a href="/crypto.html">Crypto</a> · <a href="/news.html">News</a> · <a href="/research.html">Research</a> · <a href="/about.html">About</a></nav>
+    Santro AI — AI bubble map &amp; research journal for the AI narrative. Beta version.<br>
+    <span class="nfa">Not financial advice.</span> Quotes delayed. Removed with paid version.<br>
+    Contact us: <a href="mailto:hello@santroai.tech">hello@santroai.tech</a><br>
+    © 2026 Santro AI. All rights reserved. Uses custom models.
+  </footer>
+
+<script>
+const SLUG=(new URLSearchParams(location.search).get("co")||"").toLowerCase();
+function timeAgo(iso){ if(!iso) return ""; const m=Math.round((Date.now()-new Date(iso))/60000);
+  if(isNaN(m)) return ""; if(m<60) return m+"m ago"; const h=Math.round(m/60);
+  if(h<24) return h+"h ago"; return Math.round(h/24)+"d ago"; }
+async function load(){
+  let d=null, news=null;
+  try{ d=await (await fetch("ipos.json?t="+Date.now())).json(); }catch(e){}
+  try{ news=await (await fetch("news.json?t="+Date.now())).json(); }catch(e){}
+  const c=(d&&d.preipo||[]).find(x=>x.slug===SLUG);
+  const el=document.getElementById("pi");
+  if(!c){ document.title="Pre-IPO | Santro AI";
+    el.innerHTML=`<div style="padding:50px 0;color:var(--muted)"><h1>Not found</h1>
+      <p>That company isn't on our pre-IPO watchlist. <a class="btn" href="/ipos.html">← Back to AI IPOs</a></p></div>`; return; }
+  document.title=`${c.name} — pre-IPO | Santro AI`;
+  // recent news matching the company name (best-effort, from our feed)
+  const rx=new RegExp(c.name.replace(/[^a-z0-9 ]/gi,"").split(/\s+/)[0], "i");
+  const items=(news&&news.items?news.items:[]).filter(it=>rx.test(it.title||"")).slice(0,6);
+  el.innerHTML=`
+    <div class="pi-head"><h1>${c.name}</h1>
+      <span class="pi-status${/filed/i.test(c.status)?" filed":""}">${c.status}</span></div>
+    <p class="lede" style="margin-top:-6px">${c.what}</p>
+    <div class="valbox"><div class="k">Last valuation (approx)</div><div class="v">${c.valuation}</div></div>
+    <p style="color:var(--muted);max-width:760px;font-size:13.5px">${c.name} has no public ticker yet —
+    this is a watch profile. Valuation is approximate, drawn from public reporting, and the company is
+    not affiliated with Santro AI. When it lists, it moves to the <a class="btn" href="/ipos.html">recently
+    listed</a> table with live data.</p>
+    ${items.length?`<div class="sec-label">${c.name} in the news</div>`+items.map(it=>`
+      <div class="newsrow"><a href="${it.link||"#"}" target="_blank" rel="noopener">${it.title}</a>
+        <div class="m">${it.publisher||""}${it.published?" · "+timeAgo(it.published):""}</div></div>`).join(""):""}
+    <p style="margin-top:18px">
+      <a class="btn" href="https://news.google.com/search?q=${encodeURIComponent(c.name+' IPO')}" target="_blank" rel="noopener">Search Google News →</a>
+      &nbsp;·&nbsp; <a class="btn" href="/ipos.html">← All AI IPOs</a></p>`;
+}
+load();
+</script>
+<script src="site.js?v=8"></script>
+</body>
+</html>

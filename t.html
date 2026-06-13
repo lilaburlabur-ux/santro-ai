@@ -39,7 +39,8 @@
   .newsrow a:hover{color:var(--accent-2);}
   .newsrow .m{color:var(--faint); font-size:11px; margin-top:2px;}
   .notfound{padding:60px 0; color:var(--muted);}
-  #tvchart{height:420px; margin-bottom:6px; border:1px solid var(--border); border-radius:12px; overflow:hidden;}
+  #tvchart{margin-bottom:6px; border:1px solid var(--border); border-radius:12px; overflow:hidden;}
+  #tvchart iframe{display:block; width:100%!important;}
 </style>
 </head>
 <body>
@@ -211,9 +212,11 @@ function mountTV(){
   const s=document.createElement("script");
   s.src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js";
   s.async=true;
+  // explicit height (≈85% of viewport, capped) — autosize locks the iframe at 150px
+  const H=Math.max(520, Math.min(1200, Math.round(window.innerHeight*0.85)));
   s.innerHTML=JSON.stringify({
-    symbol:SYM, theme:dark?"dark":"light", autosize:true, interval:"D",
-    timezone:"Etc/UTC", style:"3", locale:"en", hide_side_toolbar:true,
+    symbol:SYM, theme:dark?"dark":"light", autosize:false, width:"100%", height:H,
+    interval:"D", timezone:"Etc/UTC", style:"3", locale:"en", hide_side_toolbar:true,
     allow_symbol_change:false, save_image:false, backgroundColor:dark?"#0a0e13":"#ffffff"
   });
   host.appendChild(s);

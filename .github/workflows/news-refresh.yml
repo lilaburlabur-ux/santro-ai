@@ -1,12 +1,12 @@
 name: News refresh (full scope)
 
-# Headlines for all 83 universe tickers + ETFs, every ~20 min across the FULL
-# extended session: premarket open 4:00 ET (8 UTC) through after-hours close
-# 20:00 ET (0 UTC). The old 12-22 UTC window left premarket on stale news.
+# Headlines for all 83 universe tickers + ETFs, every ~20 min, 24/7. The old
+# schedule was weekday-/session-only (8-23 UTC Mon-Fri), which froze the feed
+# all weekend — the "Live" panel showed day-old news. AI/crypto/IPO news runs
+# around the clock and this is a public repo (free Actions), so refresh always.
 on:
   schedule:
-    - cron: "*/20 8-23 * * 1-5"
-    - cron: "*/20 0 * * 2-6"
+    - cron: "*/20 * * * *"
   workflow_dispatch:
 
 permissions:

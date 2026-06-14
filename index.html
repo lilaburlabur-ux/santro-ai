@@ -196,6 +196,14 @@
   .tsearch .sg .nm{color:var(--muted); flex:1; font-size:12px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
   .tsearch .sg .pc{font-weight:700; font-size:12px; flex:0 0 auto;}
   .badge{margin-left:auto; font-size:10px; letter-spacing:.4px; padding:3px 9px; border-radius:999px; font-weight:600;}
+  .refresh-btn{margin-left:8px; width:24px; height:24px; padding:0; border-radius:999px;
+    background:var(--elev); border:1px solid var(--border); color:var(--muted); cursor:pointer;
+    font-size:13px; line-height:1; display:inline-flex; align-items:center; justify-content:center;
+    transition:.15s;}
+  .refresh-btn:hover{color:var(--accent-2); border-color:var(--accent-border);}
+  .refresh-btn:disabled{cursor:default;}
+  .refresh-btn.spin{animation:spin .7s linear infinite;}
+  @keyframes spin{to{transform:rotate(360deg);}}
   .badge.live{background:var(--accent-soft); color:var(--accent-2); border:1px solid var(--accent-border);}
   .badge.sample{background:#241d10; color:#e0a73f; border:1px solid #463713;}
   .badge.beta{background:#241d10; color:#e0a73f; border:1px solid #463713;
@@ -457,7 +465,8 @@
     </section>
 
     <section class="panel area-news">
-      <h2><span class="ic">✦</span> News with AI <span class="badge live">Live</span></h2>
+      <h2><span class="ic">✦</span> News with AI <span class="badge live">Live</span>
+        <button class="refresh-btn" id="news-refresh" title="Pull the latest news now" onclick="refreshNews(this)">↻</button></h2>
       <div class="body" id="news">Loading…</div>
     </section>
 
@@ -897,6 +906,15 @@ function renderNews(){
       <div class="meta">${tks}${more}<span>${h.publisher||""}</span>
         <span>${h.published?"· "+timeAgo(h.published):""}</span>${secs?`<span>· ${secs}</span>`:""}</div></div>`;
   }).join("")||"No headlines.";
+}
+// manual refresh: force-pull the latest published news.json and re-render.
+// (The feed itself is rebuilt server-side every ~20 min, 24/7; this grabs
+// whatever's newest on demand, between auto-refresh cycles.)
+async function refreshNews(btn){
+  if(btn){ btn.classList.add("spin"); btn.disabled=true; }
+  try{ newsFeed=await (await fetch("news.json?t="+Date.now())).json(); }catch(e){}
+  renderNews();
+  if(btn) setTimeout(()=>{ btn.classList.remove("spin"); btn.disabled=false; }, 450);
 }
 // click-through from Hot Tickers (and anywhere) to the bubble info card:
 // drills the chart into the ticker's sector, selects its bubble, fills the detail panel

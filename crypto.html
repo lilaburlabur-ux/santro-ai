@@ -319,7 +319,8 @@ async function load(){
       moveThumb(document.getElementById("seg-basket"));moveThumb(document.getElementById("seg-metric"));});
     wireSeg("seg-basket",v=>{basketKey=v;refreshTitle();render();showOverview();});
     wireSeg("seg-metric",v=>{metric=v;refreshTitle();render();
-      selected?showDetail(coins().find(x=>x.symbol===selected)||{}):showOverview();});
+      const sc=selected&&coins().find(x=>x.symbol===selected);
+      sc?showDetail(sc):showOverview();});
   }
   render();
   if(selected){

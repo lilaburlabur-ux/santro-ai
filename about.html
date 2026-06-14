@@ -45,6 +45,16 @@
   .t-up2{background:rgba(52,211,153,.30); color:#22c55e;}
   .t-dn1{background:rgba(248,113,113,.14); color:var(--red);}
   .t-dn2{background:rgba(248,113,113,.28); color:var(--red);}
+  .dd-grid{display:grid; grid-template-columns:1fr 1fr; gap:16px; margin-top:14px;}
+  .dd{border-radius:12px; padding:16px 18px; border:1px solid var(--border-soft);}
+  .dd-yes{background:rgba(34,197,94,.07); border-color:rgba(34,197,94,.25);}
+  .dd-no{background:rgba(240,90,110,.06); border-color:rgba(240,90,110,.22);}
+  .dd-h{font-size:14px; font-weight:800; margin-bottom:10px;}
+  .dd-yes .dd-h{color:#22c55e;} .dd-no .dd-h{color:#f0596e;}
+  .dd ul{margin:0; padding-left:18px;}
+  .dd li{color:var(--muted); font-size:14px; line-height:1.6; margin-bottom:6px;}
+  .dd li b{color:var(--text);}
+  @media (max-width:640px){ .dd-grid{grid-template-columns:1fr;} }
   section{padding:30px 0; border-top:1px solid var(--border-soft);}
   h2{font-size:22px; margin:0 0 6px;}
   .sub{color:var(--faint); font-size:14px; margin:0 0 20px;}
@@ -116,6 +126,31 @@
       <div class="tile t-dn1"><b>NVDA</b>-3.7%</div>
       <div class="tile t-dn2"><b>QCOM</b>-6.9%</div>
     </div>
+
+    <section>
+      <h2>What Santro does — and doesn't</h2>
+      <p class="sub">Clarity over hype — exactly what this tool is, and isn't.</p>
+      <div class="dd-grid">
+        <div class="dd dd-yes">
+          <div class="dd-h">✓ Santro does</div>
+          <ul>
+            <li>Track <b>attention</b> — what's moving across the AI trade, and how hard</li>
+            <li>Map AI <b>stocks, ETFs and crypto tokens</b> by sector, as live bubbles</li>
+            <li>Show the <b>sourced reason</b> each hot name is moving — with the link</li>
+            <li>Score <b>AI bubble risk</b> from transparent, attributed pillars</li>
+          </ul>
+        </div>
+        <div class="dd dd-no">
+          <div class="dd-h">✕ Santro does not</div>
+          <ul>
+            <li>Give <b>buy / sell calls</b> or price targets</li>
+            <li>Provide <b>personalised financial advice</b></li>
+            <li>Do <b>moon hype</b>, pump narratives or “number-go-up”</li>
+            <li>Claim <b>real-time data</b> — quotes are ~15-min delayed</li>
+          </ul>
+        </div>
+      </div>
+    </section>
 
     <section>
       <h2>Who we are</h2>

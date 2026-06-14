@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Share cards — AI movers, bubble risk & why-it-moved | Santro AI</title>
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+<meta name="description" content="Export shareable Santro AI cards: today's AI movers, top winners/losers, the AI bubble-risk score, AI crypto tokens, and why-it-moved ticker cards. Hot means attention, not direction. Not financial advice." />
+<link rel="canonical" href="https://santroai.tech/share" />
+<meta property="og:title" content="Santro AI — shareable AI market cards" />
+<meta property="og:description" content="Export AI movers, bubble-risk and why-it-moved cards. Hot means attention, not direction." />
+<meta property="og:url" content="https://santroai.tech/share" />
+<meta property="og:image" content="https://santroai.tech/assets/og-map.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://santroai.tech/assets/og-map.png" />
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
+<link rel="stylesheet" href="site.css?v=9" />
+<style>
+  .ctrlbar{display:flex; flex-wrap:wrap; align-items:center; gap:10px; margin:6px 0 14px;}
+  .seg{display:inline-flex; flex-wrap:wrap; background:var(--elev); border:1px solid var(--border);
+    border-radius:99px; padding:3px;}
+  .seg button{border:0; background:transparent; color:var(--muted); font-weight:700; font-size:12px;
+    padding:7px 14px; border-radius:99px; cursor:pointer; white-space:nowrap; transition:.15s;}
+  .seg button.on{background:#22c55e; color:#04140b;}
+  .seg button:not(.on):hover{color:var(--text);}
+  .pickwrap{display:flex; align-items:center; gap:8px; margin-left:4px;}
+  .pickwrap select{background:var(--elev); border:1px solid var(--border); color:var(--text);
+    border-radius:8px; padding:7px 10px; font:inherit; font-size:12px; font-weight:700;}
+  .cardstage{background:var(--panel); border:1px solid var(--border); border-radius:14px; padding:14px;}
+  #card{width:100%; height:auto; display:block; border-radius:10px; background:#0a0e13;}
+  .actions{display:flex; flex-wrap:wrap; gap:10px; margin-top:14px;}
+  .btn{display:inline-flex; align-items:center; gap:7px; border-radius:10px; padding:10px 16px;
+    font:inherit; font-size:13px; font-weight:700; cursor:pointer; text-decoration:none; transition:.15s;}
+  .btn.primary{background:#22c55e; color:#04140b; border:1px solid #22c55e;}
+  .btn.primary:hover{background:#4ade80;}
+  .btn.ghost{background:var(--elev); color:var(--text); border:1px solid var(--border);}
+  .btn.ghost:hover{border-color:var(--accent-border); color:var(--accent-2);}
+  .share-note{margin-top:12px; font-size:12px; color:var(--faint); line-height:1.55; max-width:760px;}
+  .ok-flash{color:var(--accent-2); font-weight:700; font-size:12px; align-self:center; opacity:0; transition:.2s;}
+  .ok-flash.show{opacity:1;}
+</style>
+</head>
+<body>
+  <header class="pageheader">
+    <a class="logo" href="/" title="Santro AI — terminal">
+      <span class="logo-s">S<span class="logo-ai">AI</span></span>
+      <span class="logo-rest"><span class="logo-antro">ANTRO</span>
+        <span class="logo-tagline">AI&nbsp;RESEARCH&nbsp;·&nbsp;MARKETS</span></span>
+    </a>
+    <nav class="pagenav">
+      <a class="nav-link" href="/">Terminal</a>
+      <a class="nav-link" href="/stocks">Stocks</a>
+      <a class="nav-link" href="/ipos">IPOs</a>
+      <a class="nav-link" href="/etfs">ETFs</a>
+      <a class="nav-link" href="/crypto">Crypto</a>
+      <a class="nav-link" href="/news">News</a>
+      <a class="nav-link" href="/research">Research</a>
+      <a class="nav-link" href="/blog">Blog</a>
+      <a class="nav-link" href="/about">About</a>
+      <details class="nav-more">
+        <summary class="nav-link">More ▾</summary>
+        <div class="menu">
+          <a href="/bubble">AI Bubble metrics</a>
+          <a href="/share">Share cards</a>
+        </div>
+      </details>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Share cards <span class="badge" id="asof">…</span></h1>
+    <p class="lede">Export a clean, branded snapshot of the AI tape — for X, Telegram or a deck.
+    <b style="color:var(--accent-2)">Hot means attention, not direction.</b> Pick a card, then download or copy it.
+    Auto-built from the live data; quotes delayed ~15 min. Not financial advice.</p>
+
+    <div class="ctrlbar">
+      <div class="seg" id="seg-card">
+        <button data-v="movers" class="on">AI movers</button>
+        <button data-v="winlose">Winners / losers</button>
+        <button data-v="risk">Bubble risk</button>
+        <button data-v="crypto">AI crypto</button>
+        <button data-v="why">Why it moved</button>
+      </div>
+      <div class="pickwrap" id="pickwrap" style="display:none">
+        <span style="font-size:11px;color:var(--faint);font-weight:700;text-transform:uppercase;letter-spacing:.5px">Ticker</span>
+        <select id="why-pick"></select>
+      </div>
+    </div>
+
+    <div class="cardstage">
+      <canvas id="card" width="1200" height="630" role="img" aria-label="Shareable Santro AI card"></canvas>
+      <div class="actions">
+        <button class="btn primary" id="dl">⬇ Download PNG</button>
+        <button class="btn ghost" id="cp">⧉ Copy image</button>
+        <a class="btn ghost" id="tw" target="_blank" rel="noopener">𝕏 Post on X</a>
+        <span class="ok-flash" id="flash"></span>
+      </div>
+      <div class="share-note">Tip: <b>Copy image</b> then paste straight into a tweet, or <b>Download</b> and attach it.
+      X can't auto-attach images from a link, so the “Post on X” button opens a prefilled tweet — paste or attach the card.</div>
+    </div>
+  </main>
+
+  <footer>
+    <nav class="foot-nav" style="margin-bottom:6px"><a href="/">Terminal</a> · <a href="/stocks">Stocks</a> · <a href="/ipos">IPOs</a> · <a href="/etfs">ETFs</a> · <a href="/crypto">Crypto</a> · <a href="/news">News</a> · <a href="/research">Research</a> · <a href="/blog">Blog</a> · <a href="/about">About</a></nav>
+    Santro AI — AI bubble map &amp; research journal for the AI narrative. Beta version.<br>
+    Quotes delayed ~15 min. Real-time data planned for Pro. <span class="nfa">Not financial advice.</span><br>
+    Contact us: <a href="mailto:hello@santroai.tech">hello@santroai.tech</a><br>
+    © 2026 Santro AI. All rights reserved. Uses custom models.
+  </footer>
+
+<script>
+const W=1200, H=630;
+const C=document.getElementById("card"), X=C.getContext("2d");
+const F="Arial, Helvetica, sans-serif";
+const fmtPct=x=>(x>=0?"+":"")+Number(x||0).toFixed(2)+"%";
+const fmtPct1=x=>(x>=0?"+":"")+Number(x||0).toFixed(1)+"%";
+function timeAgo(iso){ if(!iso) return ""; const m=Math.round((Date.now()-new Date(iso))/60000);
+  if(isNaN(m)) return ""; if(m<1) return "now"; if(m<60) return m+"m ago"; const h=Math.round(m/60);
+  if(h<24) return h+"h ago"; return Math.round(h/24)+"d ago"; }
+function domainOf(u){ try{ return new URL(u).hostname.replace(/^www\./,""); }catch(e){ return ""; } }
+function riskColor(v){ if(v==null) return "#8895a4"; if(v<25) return "#22c55e"; if(v<45) return "#69cd91";
+  if(v<60) return "#e0a73f"; if(v<80) return "#f05a6e"; return "#b91c1c"; }
+function rr(x,y,w,h,r){ X.beginPath(); X.moveTo(x+r,y); X.arcTo(x+w,y,x+w,y+h,r);
+  X.arcTo(x+w,y+h,x,y+h,r); X.arcTo(x,y+h,x,y,r); X.arcTo(x,y,x+w,y,r); X.closePath(); }
+function wrap(text,x,y,maxW,lh,maxLines){
+  const words=String(text).split(/\s+/); let line="", n=0;
+  for(let i=0;i<words.length;i++){
+    const test=line?line+" "+words[i]:words[i];
+    if(X.measureText(test).width>maxW && line){
+      X.fillText(line,x,y); line=words[i]; y+=lh; n++;
+      if(maxLines && n>=maxLines-1){ // last line, ellipsis if needed
+        let rest=words.slice(i).join(" ");
+        while(X.measureText(rest+"…").width>maxW && rest.length) rest=rest.slice(0,-1);
+        X.fillText(rest+(words.slice(i).join(" ").length>rest.length?"…":""),x,y); return y;
+      }
+    } else line=test;
+  }
+  if(line) X.fillText(line,x,y);
+  return y;
+}
+
+let universe=null, bubbleIx=null, crypto=null, hot=null, asof="";
+
+function bg(){ X.fillStyle="#0a0e13"; X.fillRect(0,0,W,H);
+  X.strokeStyle="#1c2834"; X.lineWidth=2; X.strokeRect(1,1,W-2,H-2); }
+function frame(label){
+  X.textAlign="left"; X.textBaseline="alphabetic";
+  X.fillStyle="#4ade80"; X.font="800 40px "+F; X.fillText("S",44,66);
+  X.fillStyle="#e7edf3"; X.font="800 30px "+F; X.fillText("ANTRO AI",82,64);
+  X.fillStyle="#22c55e"; X.font="700 22px "+F; X.textAlign="right"; X.fillText("santroai.tech",W-44,44); X.textAlign="left";
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText(label.toUpperCase(),46,94);
+  X.strokeStyle="#1d2733"; X.lineWidth=2; X.beginPath(); X.moveTo(40,108); X.lineTo(W-40,108); X.stroke();
+}
+function foot(){
+  X.strokeStyle="#1d2733"; X.lineWidth=2; X.beginPath(); X.moveTo(40,562); X.lineTo(W-40,562); X.stroke();
+  X.fillStyle="#4ade80"; X.font="700 19px "+F; X.textAlign="left";
+  X.fillText("Hot means attention, not direction.",44,596);
+  X.fillStyle="#5e6b78"; X.font="400 14px "+F; X.textAlign="right";
+  X.fillText((asof?asof+"  ·  ":"")+"Not financial advice · quotes delayed ~15 min",W-44,596);
+  X.textAlign="left";
+}
+function bigTitle(t){ X.fillStyle="#e7edf3"; X.font="800 34px "+F; X.fillText(t,44,152); }
+
+function uniRows(){ const a=[]; ((universe&&universe.bubbles)||[]).forEach(b=>(b.tickers||[]).forEach(t=>{ if(t.price!=null&&t.change_pct!=null) a.push(t); })); return a; }
+
+function listCard(label,title,rows,getLabel,getSub,getVal){
+  bg(); frame(label); bigTitle(title);
+  const max=Math.max(...rows.map(getVal).map(Math.abs),1);
+  const barX=380, barW=W-44-barX-130; let y=182; const rh=Math.min(46,(548-182)/Math.max(rows.length,1));
+  rows.forEach(r=>{
+    const v=getVal(r), up=v>=0, col=up?"#22c55e":"#f0596e";
+    X.fillStyle="#e7edf3"; X.font="700 23px "+F; X.fillText(getLabel(r),46,y+24);
+    X.fillStyle="#5e6b78"; X.font="400 13px "+F; X.fillText((getSub(r)||"").slice(0,30),46,y+40);
+    X.fillStyle="#141c25"; rr(barX,y+8,barW,20,6); X.fill();
+    X.fillStyle=col; rr(barX,y+8,Math.max(4,(Math.abs(v)/max)*barW),20,6); X.fill();
+    X.fillStyle=col; X.font="800 21px "+F; X.textAlign="right"; X.fillText(fmtPct(v),W-44,y+25); X.textAlign="left";
+    y+=rh;
+  });
+  foot();
+}
+
+function cardMovers(){
+  const rows=uniRows().sort((a,b)=>Math.abs(b.change_pct)-Math.abs(a.change_pct)).slice(0,8);
+  listCard("Today's movers","Today's AI movers",rows,t=>t.ticker,t=>t.company,t=>t.change_pct);
+}
+function cardCrypto(){
+  const coins=((crypto&&crypto.baskets&&crypto.baskets.bigdata&&crypto.baskets.bigdata.coins)||[]).slice(0,8);
+  listCard("AI crypto","AI crypto — top tokens",coins,c=>c.symbol,c=>c.name,c=>c.change_24h);
+}
+function cardWinLose(){
+  bg(); frame("Winners & losers"); bigTitle("Top 5 winners / losers");
+  const all=uniRows();
+  const win=all.filter(t=>t.change_pct>0).sort((a,b)=>b.change_pct-a.change_pct).slice(0,5);
+  const los=all.filter(t=>t.change_pct<0).sort((a,b)=>a.change_pct-b.change_pct).slice(0,5);
+  X.strokeStyle="#1d2733"; X.lineWidth=2; X.beginPath(); X.moveTo(W/2,184); X.lineTo(W/2,548); X.stroke();
+  function colside(head,list,c,x){
+    X.fillStyle=c; X.font="700 16px "+F; X.fillText(head.toUpperCase(),x,202);
+    let y=232;
+    list.forEach(t=>{
+      X.fillStyle="#e7edf3"; X.font="700 25px "+F; X.fillText(t.ticker,x,y+24);
+      X.fillStyle="#5e6b78"; X.font="400 13px "+F; X.fillText((t.company||"").slice(0,24),x,y+44);
+      X.fillStyle=c; X.font="800 25px "+F; X.textAlign="right"; X.fillText(fmtPct(t.change_pct),x+500,y+30); X.textAlign="left";
+      y+=62;
+    });
+    if(!list.length){ X.fillStyle="#5e6b78"; X.font="400 18px "+F; X.fillText("None this session.",x,236); }
+  }
+  colside("Winners",win,"#22c55e",46);
+  colside("Losers",los,"#f0596e",W/2+34);
+  foot();
+}
+function cardRisk(){
+  bg(); frame("AI bubble risk"); bigTitle("AI bubble risk");
+  const ix=bubbleIx&&bubbleIx.index;
+  if(!ix){ X.fillStyle="#8b97a5"; X.font="400 20px "+F; X.fillText("Index feed unavailable.",44,210); foot(); return; }
+  const v=ix.overall||0, c=riskColor(v);
+  X.fillStyle=c; X.font="800 150px "+F; X.fillText(String(v),44,300);
+  const nw=X.measureText(String(v)).width;
+  X.fillStyle="#5e6b78"; X.font="700 26px "+F; X.fillText("/ 100",60+nw,250);
+  X.fillStyle=c; X.font="800 34px "+F; X.fillText((ix.label||"").toUpperCase(),60+nw,294);
+  const gx=46,gy=336,gw=W-92,gh=18;
+  const g=X.createLinearGradient(gx,0,gx+gw,0);
+  g.addColorStop(0,"#22c55e"); g.addColorStop(.5,"#e0a73f"); g.addColorStop(1,"#b91c1c");
+  X.fillStyle=g; rr(gx,gy,gw,gh,9); X.fill();
+  const mx=gx+Math.max(0,Math.min(100,v))/100*gw;
+  X.fillStyle="#fff"; X.beginPath(); X.arc(mx,gy+gh/2,13,0,7); X.fill();
+  X.lineWidth=3; X.strokeStyle="#0a0e13"; X.stroke();
+  X.fillStyle="#5e6b78"; X.font="400 13px "+F; X.fillText("0 · cold",gx,gy+40);
+  X.textAlign="right"; X.fillText("100 · mania",gx+gw,gy+40); X.textAlign="left";
+  const pill=[["valuation","Valuation"],["capitalFlows","Capital flows"],["adoption","Adoption"],["sentiment","Sentiment"],["systemicRisk","Systemic risk"]];
+  let px=46; const cw=(W-92)/5;
+  pill.forEach(([k,nm])=>{
+    X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText(nm.toUpperCase(),px,452);
+    X.fillStyle=riskColor(ix[k]); X.font="800 38px "+F; X.fillText(ix[k]==null?"—":String(ix[k]),px,496);
+    px+=cw;
+  });
+  foot();
+}
+function cardWhy(){
+  bg(); frame("Why it moved");
+  const t=whyPick();
+  if(!t){ bigTitle("Why is it moving?"); X.fillStyle="#8b97a5"; X.font="400 20px "+F;
+    X.fillText("No hot tickers right now — check back next scan.",46,210); foot(); return; }
+  const up=t.move_pct>=0, col=up?"#22c55e":"#f0596e";
+  X.fillStyle="#e7edf3"; X.font="800 60px "+F; X.fillText(t.ticker,44,176);
+  const tw=X.measureText(t.ticker).width;
+  X.fillStyle=col; X.font="800 38px "+F; X.fillText(fmtPct(t.move_pct),60+tw,172);
+  X.fillStyle="#8b97a5"; X.font="400 19px "+F;
+  X.fillText((t.sector?t.sector.split(":")[0]+" · ":"")+(t.company||""),46,210);
+  X.fillStyle="#5e6b78"; X.font="700 14px "+F; X.fillText("WHY IT'S MOVING",46,256);
+  X.fillStyle="#e7edf3"; X.font="600 31px "+F;
+  wrap(t.why,46,296,W-92,42,5);
+  const dom=t.source_url?domainOf(t.source_url):(t.catalyst_type==="no_news_mover"?"no clear catalyst found":"");
+  X.fillStyle="#8b97a5"; X.font="400 18px "+F;
+  X.fillText([(t.catalyst_type||"").replace(/_/g," "),dom,t.published?timeAgo(t.published):""].filter(Boolean).join("   ·   "),46,532);
+  foot();
+}
+
+const RENDER={movers:cardMovers, winlose:cardWinLose, risk:cardRisk, crypto:cardCrypto, why:cardWhy};
+let current="movers";
+function whyPick(){ const sel=document.getElementById("why-pick");
+  const list=(hot&&hot.hot_tickers)||[]; if(!list.length) return null;
+  return list.find(t=>t.ticker===sel.value) || list[0]; }
+function render(){ try{ (RENDER[current]||cardMovers)(); }catch(e){ console.error(e); } updateTweet(); }
+
+const CAP={movers:"Today's AI movers", winlose:"Top 5 AI winners & losers", risk:"AI bubble-risk score",
+  crypto:"Top AI crypto tokens", why:"Why a name is moving"};
+function updateTweet(){
+  let txt=CAP[current]+" — via Santro AI. Hot means attention, not direction.";
+  if(current==="why"){ const t=whyPick(); if(t) txt=`Why is $${t.ticker} moving ${fmtPct1(t.move_pct)}? ${(t.why||"").slice(0,140)} — via Santro AI.`; }
+  document.getElementById("tw").href="https://twitter.com/intent/tweet?text="+encodeURIComponent(txt)+"&url="+encodeURIComponent("https://santroai.tech/share");
+}
+
+function flash(msg){ const f=document.getElementById("flash"); f.textContent=msg; f.classList.add("show");
+  setTimeout(()=>f.classList.remove("show"),1800); }
+function fname(){ return "santro-"+current+"-"+new Date().toISOString().slice(0,10)+".png"; }
+document.getElementById("dl").addEventListener("click",()=>{
+  C.toBlob(b=>{ const a=document.createElement("a"); a.href=URL.createObjectURL(b); a.download=fname();
+    a.click(); setTimeout(()=>URL.revokeObjectURL(a.href),3000); flash("Downloaded ✓"); },"image/png");
+});
+document.getElementById("cp").addEventListener("click",async()=>{
+  try{
+    if(!navigator.clipboard || !window.ClipboardItem) throw new Error("no clipboard");
+    const b=await new Promise(r=>C.toBlob(r,"image/png"));
+    await navigator.clipboard.write([new ClipboardItem({"image/png":b})]);
+    flash("Copied ✓ — paste into your post");
+  }catch(e){ flash("Copy unsupported here — use Download"); }
+});
+
+function wireSeg(){
+  const seg=document.getElementById("seg-card");
+  seg.querySelectorAll("button").forEach(b=>b.addEventListener("click",()=>{
+    seg.querySelectorAll("button").forEach(x=>x.classList.remove("on")); b.classList.add("on");
+    current=b.dataset.v;
+    document.getElementById("pickwrap").style.display = current==="why" ? "flex" : "none";
+    render();
+  }));
+  document.getElementById("why-pick").addEventListener("change",render);
+}
+
+async function getJSON(u){ try{ return await (await fetch(u+"?t="+Date.now())).json(); }catch(e){ return null; } }
+async function load(){
+  const [d,u,b,c,h]=await Promise.all([
+    getJSON("data.json"), getJSON("universe.json"), getJSON("bubble_index.json"),
+    getJSON("crypto.json"), getJSON("hot_tickers.json")]);
+  universe=u; bubbleIx=b; crypto=c; hot=h;
+  asof=(d&&d.as_of_local)||"";
+  document.getElementById("asof").textContent = asof ? "As of "+asof : "Live data";
+  const sel=document.getElementById("why-pick");
+  sel.innerHTML=((h&&h.hot_tickers)||[]).map(t=>`<option value="${t.ticker}">${t.ticker} · ${fmtPct1(t.move_pct)}</option>`).join("")
+    || `<option>—</option>`;
+  const q=new URLSearchParams(location.search).get("card");
+  if(q && RENDER[q]){ current=q;
+    document.querySelectorAll("#seg-card button").forEach(x=>x.classList.toggle("on",x.dataset.v===q));
+    document.getElementById("pickwrap").style.display = q==="why" ? "flex" : "none"; }
+  render();
+}
+wireSeg(); load();
+</script>
+<script src="site.js?v=9"></script>
+</body>
+</html>

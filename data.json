@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-06-14T03:34:11+00:00",
-  "as_of_local": "2026-06-14 03:34:11 UTC",
+  "as_of_utc": "2026-06-14T03:49:14+00:00",
+  "as_of_local": "2026-06-14 03:49:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 205.19,
-      "previous_close": 204.87,
-      "change_pct": 0.16,
-      "market_cap": 4969907049133.301,
-      "headlines": [
-        {
-          "title": "Can Rivian Beat Tesla in the Long Term?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/rivian-beat-tesla-long-term-025300656.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-14T02:53:00Z"
-        },
-        {
-          "title": "Want a Lifetime of Passive Income? Buy Coca-Cola in June and Never Sell.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/want-lifetime-passive-income-buy-024607230.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-14T02:46:07Z"
-        },
-        {
-          "title": "Is Nvidia Stock a Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-buy-022100063.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-14T02:21:00Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -53,10 +27,10 @@
           "published": "2026-06-13T15:42:37Z"
         },
         {
-          "title": "Amkor Technology (AMKR) Hits All-Time High \u2014 Here\u2019s Why",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-hits-time-055428022.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-13T05:54:28Z"
+          "title": "TSMC Revenue Surges 30% in May on Relentless AI Demand. TSM Stock Is Still Undervalued Here.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-revenue-surges-30-may-150003206.html",
+          "publisher": "Barchart",
+          "published": "2026-06-13T15:00:03Z"
         }
       ]
     },
@@ -125,6 +99,12 @@
       "market_cap": 834166380836.1057,
       "headlines": [
         {
+          "title": "AMD Meta AI Chip Pact Puts Data Center Growth And Valuation In Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-meta-ai-chip-pact-030928701.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-06-14T03:09:28Z"
+        },
+        {
           "title": "Citi resets AMD stock price target on key move",
           "url": "https://finance.yahoo.com/markets/stocks/articles/citi-resets-amd-stock-price-193800799.html",
           "publisher": "TheStreet",
@@ -135,12 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-inc-amd-165733720.html",
           "publisher": "Insider Monkey",
           "published": "2026-06-13T16:57:33Z"
-        },
-        {
-          "title": "Taiwan Semiconductor (TSM) is This Famous Billionaire\u2019s Biggest AI Stock Holding",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-tsm-famous-billionaire-154237082.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-13T15:42:37Z"
         }
       ]
     },
@@ -206,7 +180,7 @@
       "price": 279.7,
       "previous_close": 280.71,
       "change_pct": -0.36,
-      "market_cap": 244681570678.71094,
+      "market_cap": 244892233176.00494,
       "headlines": [
         {
           "title": "Adobe's CFO Jumps Ship To Marvell For 'Once-In-A-Generation' AI Expansion",
@@ -557,8 +531,8 @@
     },
     {
       "label": "BTC",
-      "price": 64485.87,
-      "change_pct": 1.48
+      "price": 64455.53,
+      "change_pct": 1.44
     },
     {
       "label": "Gold",

@@ -22,28 +22,34 @@
 <script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
 <link rel="stylesheet" href="site.css?v=9" />
 <style>
-  .ctrlbar{display:flex; flex-wrap:wrap; align-items:center; gap:10px; margin:6px 0 14px;}
-  .seg{display:inline-flex; flex-wrap:wrap; background:var(--elev); border:1px solid var(--border);
-    border-radius:99px; padding:3px;}
-  .seg button{border:0; background:transparent; color:var(--muted); font-weight:700; font-size:12px;
-    padding:7px 14px; border-radius:99px; cursor:pointer; white-space:nowrap; transition:.15s;}
-  .seg button.on{background:#22c55e; color:#04140b;}
-  .seg button:not(.on):hover{color:var(--text);}
-  .pickwrap{display:flex; align-items:center; gap:8px; margin-left:4px;}
-  .pickwrap select{background:var(--elev); border:1px solid var(--border); color:var(--text);
-    border-radius:8px; padding:7px 10px; font:inherit; font-size:12px; font-weight:700;}
-  .cardstage{background:var(--panel); border:1px solid var(--border); border-radius:14px; padding:14px;}
-  #card{width:100%; height:auto; display:block; border-radius:10px; background:#0a0e13;}
-  .actions{display:flex; flex-wrap:wrap; gap:10px; margin-top:14px;}
-  .btn{display:inline-flex; align-items:center; gap:7px; border-radius:10px; padding:10px 16px;
-    font:inherit; font-size:13px; font-weight:700; cursor:pointer; text-decoration:none; transition:.15s;}
+  .lede b{color:var(--accent-2);}
+  .cardstage{background:var(--panel); border:1px solid var(--border); border-radius:16px; padding:16px;
+    max-width:800px;}
+  #card{width:100%; height:auto; display:block; border-radius:11px; background:#0a0e13;}
+  .actions{display:flex; flex-wrap:wrap; gap:10px; margin:14px 0 0; max-width:800px;}
+  .btn{display:inline-flex; align-items:center; gap:7px; border-radius:10px; padding:11px 18px;
+    font:inherit; font-size:13.5px; font-weight:700; cursor:pointer; text-decoration:none; transition:.15s;}
   .btn.primary{background:#22c55e; color:#04140b; border:1px solid #22c55e;}
   .btn.primary:hover{background:#4ade80;}
   .btn.ghost{background:var(--elev); color:var(--text); border:1px solid var(--border);}
   .btn.ghost:hover{border-color:var(--accent-border); color:var(--accent-2);}
-  .share-note{margin-top:12px; font-size:12px; color:var(--faint); line-height:1.55; max-width:760px;}
   .ok-flash{color:var(--accent-2); font-weight:700; font-size:12px; align-self:center; opacity:0; transition:.2s;}
   .ok-flash.show{opacity:1;}
+  .pickwrap{display:flex; align-items:center; gap:8px; margin-top:12px;}
+  .pickwrap select{background:var(--elev); border:1px solid var(--border); color:var(--text);
+    border-radius:8px; padding:8px 11px; font:inherit; font-size:12.5px; font-weight:700;}
+  .gallery-label{margin:26px 0 10px; font-size:11px; letter-spacing:.6px; text-transform:uppercase;
+    color:var(--faint); font-weight:700;}
+  .gallery{display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); gap:12px; max-width:1000px;}
+  .thumb{padding:0; border:1px solid var(--border); background:var(--panel); border-radius:12px;
+    overflow:hidden; cursor:pointer; text-align:left; transition:.15s;}
+  .thumb canvas{width:100%; height:auto; display:block; background:#0a0e13;}
+  .thumb span{display:block; padding:8px 10px; font-size:12px; font-weight:700; color:var(--muted);}
+  .thumb:hover{border-color:var(--accent-border);}
+  .thumb.on{border-color:#22c55e; box-shadow:0 0 0 1px #22c55e;}
+  .thumb.on span{color:var(--accent-2);}
+  .share-note{margin-top:14px; font-size:12px; color:var(--faint); line-height:1.55; max-width:800px;}
+  .share-note b{color:var(--muted);}
 </style>
 </head>
 <body>
@@ -75,36 +81,28 @@
 
   <main>
     <h1>Share cards <span class="badge" id="asof">…</span></h1>
-    <p class="lede">Export a clean, branded snapshot of the AI tape — for X, Telegram or a deck.
-    <b style="color:var(--accent-2)">Hot means attention, not direction.</b> Pick a card, then download or copy it.
-    Auto-built from the live data; quotes delayed ~15 min. Not financial advice.</p>
-
-    <div class="ctrlbar">
-      <div class="seg" id="seg-card">
-        <button data-v="sixty" class="on">60 seconds</button>
-        <button data-v="movers">AI movers</button>
-        <button data-v="winlose">Winners / losers</button>
-        <button data-v="risk">Bubble risk</button>
-        <button data-v="crypto">AI crypto</button>
-        <button data-v="why">Why it moved</button>
-      </div>
-      <div class="pickwrap" id="pickwrap" style="display:none">
-        <span style="font-size:11px;color:var(--faint);font-weight:700;text-transform:uppercase;letter-spacing:.5px">Ticker</span>
-        <select id="why-pick"></select>
-      </div>
-    </div>
+    <p class="lede">Finished, branded market cards — ready to screenshot or post.
+    <b>Hot means attention, not direction.</b> Auto-built from the live tape; quotes delayed ~15 min. Not financial advice.</p>
 
     <div class="cardstage">
       <canvas id="card" width="1200" height="630" role="img" aria-label="Shareable Santro AI card"></canvas>
-      <div class="actions">
-        <button class="btn primary" id="dl">⬇ Download PNG</button>
-        <button class="btn ghost" id="cp">⧉ Copy image</button>
-        <a class="btn ghost" id="tw" target="_blank" rel="noopener">𝕏 Post on X</a>
-        <span class="ok-flash" id="flash"></span>
-      </div>
-      <div class="share-note">Tip: <b>Copy image</b> then paste straight into a tweet, or <b>Download</b> and attach it.
-      X can't auto-attach images from a link, so the “Post on X” button opens a prefilled tweet — paste or attach the card.</div>
     </div>
+    <div class="actions">
+      <button class="btn primary" id="dl">⬇ Download PNG</button>
+      <button class="btn ghost" id="cp">⧉ Copy image</button>
+      <a class="btn ghost" id="tw" target="_blank" rel="noopener">𝕏 Post on X</a>
+      <span class="ok-flash" id="flash"></span>
+    </div>
+    <div class="pickwrap" id="pickwrap" style="display:none">
+      <span style="font-size:11px;color:var(--faint);font-weight:700;text-transform:uppercase;letter-spacing:.5px">Ticker</span>
+      <select id="why-pick"></select>
+    </div>
+
+    <div class="gallery-label">Pick a card</div>
+    <div class="gallery" id="gallery"></div>
+
+    <div class="share-note">Tip: <b>Copy image</b> and paste straight into a post, or <b>Download</b> and attach it.
+    “Post on X” opens a prefilled tweet — paste or attach the card (X can't auto-attach images from a link).</div>
   </main>
 
   <footer>
@@ -156,6 +154,7 @@ function bg(){ X.fillStyle="#0a0e13"; X.fillRect(0,0,W,H);
   X.strokeStyle="#1c2834"; X.lineWidth=2; X.strokeRect(1,1,W-2,H-2); }
 function frame(label){
   X.textAlign="left"; X.textBaseline="alphabetic";
+  X.fillStyle="#22c55e"; X.fillRect(0,0,W,6);
   X.fillStyle="#4ade80"; X.font="800 40px "+F; X.fillText("S",44,66);
   X.fillStyle="#e7edf3"; X.font="800 30px "+F; X.fillText("ANTRO AI",82,64);
   X.fillStyle="#22c55e"; X.font="700 22px "+F; X.textAlign="right"; X.fillText("santroai.tech",W-44,44); X.textAlign="left";
@@ -311,8 +310,10 @@ function cardSixty(){
   foot();
 }
 
-const RENDER={sixty:cardSixty, movers:cardMovers, winlose:cardWinLose, risk:cardRisk, crypto:cardCrypto, why:cardWhy};
-let current="sixty";
+const RENDER={movers:cardMovers, risk:cardRisk, sixty:cardSixty, winlose:cardWinLose, crypto:cardCrypto, why:cardWhy};
+const GAL=[["movers","Today's AI movers"],["risk","AI bubble risk"],["sixty","60 seconds"],
+           ["winlose","Winners / losers"],["crypto","AI crypto"],["why","Why it moved"]];
+let current="movers";
 function whyPick(){ const sel=document.getElementById("why-pick");
   const list=(hot&&hot.hot_tickers)||[]; if(!list.length) return null;
   return list.find(t=>t.ticker===sel.value) || list[0]; }
@@ -342,14 +343,26 @@ document.getElementById("cp").addEventListener("click",async()=>{
   }catch(e){ flash("Copy unsupported here — use Download"); }
 });
 
-function wireSeg(){
-  const seg=document.getElementById("seg-card");
-  seg.querySelectorAll("button").forEach(b=>b.addEventListener("click",()=>{
-    seg.querySelectorAll("button").forEach(x=>x.classList.remove("on")); b.classList.add("on");
-    current=b.dataset.v;
-    document.getElementById("pickwrap").style.display = current==="why" ? "flex" : "none";
-    render();
-  }));
+function select(key){
+  if(!RENDER[key]) return;
+  current=key;
+  document.querySelectorAll(".thumb").forEach(t=>t.classList.toggle("on",t.dataset.v===key));
+  document.getElementById("pickwrap").style.display = key==="why" ? "flex" : "none";
+  render();
+  document.querySelector(".cardstage").scrollIntoView({behavior:"smooth",block:"nearest"});
+}
+// render every card type once into a thumbnail (prefilled previews) — the page
+// reads as a gallery of finished assets, not a form
+function buildGallery(){
+  const g=document.getElementById("gallery"); g.innerHTML="";
+  for(const [key,label] of GAL){
+    const btn=document.createElement("button"); btn.className="thumb"+(key===current?" on":""); btn.dataset.v=key;
+    const tc=document.createElement("canvas"); tc.width=300; tc.height=158;
+    const cap=document.createElement("span"); cap.textContent=label;
+    btn.appendChild(tc); btn.appendChild(cap); g.appendChild(btn);
+    try{ (RENDER[key]||cardMovers)(); tc.getContext("2d").drawImage(C,0,0,300,158); }catch(e){}
+    btn.addEventListener("click",()=>select(key));
+  }
   document.getElementById("why-pick").addEventListener("change",render);
 }
 
@@ -365,12 +378,12 @@ async function load(){
   sel.innerHTML=((h&&h.hot_tickers)||[]).map(t=>`<option value="${t.ticker}">${t.ticker} · ${fmtPct1(t.move_pct)}</option>`).join("")
     || `<option>—</option>`;
   const q=new URLSearchParams(location.search).get("card");
-  if(q && RENDER[q]){ current=q;
-    document.querySelectorAll("#seg-card button").forEach(x=>x.classList.toggle("on",x.dataset.v===q));
-    document.getElementById("pickwrap").style.display = q==="why" ? "flex" : "none"; }
+  if(q && RENDER[q]) current=q;
+  document.getElementById("pickwrap").style.display = current==="why" ? "flex" : "none";
+  buildGallery();
   render();
 }
-wireSeg(); load();
+load();
 </script>
 <script src="site.js?v=9"></script>
 </body>

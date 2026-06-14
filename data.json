@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-06-14T20:32:37+00:00",
-  "as_of_local": "2026-06-14 20:32:37 UTC",
+  "as_of_utc": "2026-06-14T20:43:13+00:00",
+  "as_of_local": "2026-06-14 20:43:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -15,22 +13,50 @@
       "market_cap": 4969907049133.301,
       "headlines": [
         {
+          "title": "Here's How to Snag a 20% Dividend Yield",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-snag-20-dividend-yield-203300706.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-14T20:33:00Z"
+        },
+        {
+          "title": "The Invisible Layer Protecting the World's Biggest Companies",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/invisible-layer-protecting-worlds-biggest-202525384.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-14T20:25:25Z"
+        },
+        {
           "title": "Oracle Stock Dips Despite Continued Strong Backlog Growth. Should Investors Buy the Stock on the Dip?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-dips-despite-continued-202000445.html",
           "publisher": "Motley Fool",
           "published": "2026-06-14T20:20:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 423.93,
+      "previous_close": 421.07,
+      "change_pct": 0.68,
+      "market_cap": 2198701890344.2197,
+      "headlines": [
+        {
+          "title": "Jim Cramer Says Intel (INTC) Is An Alternative To TSMC",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-intel-intc-190507968.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-06-14T19:05:07Z"
         },
         {
-          "title": "Millions of Americans Are Retiring Earlier Than They'd Planned To -- Here's Why",
-          "url": "https://finance.yahoo.com/economy/articles/millions-americans-retiring-earlier-theyd-200700940.html",
+          "title": "3 AI Stocks Poised for Long-Term Gains Despite Strong Year-to-Date Performance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-poised-long-183500236.html",
           "publisher": "Motley Fool",
-          "published": "2026-06-14T20:07:00Z"
+          "published": "2026-06-14T18:35:00Z"
         },
         {
-          "title": "SMH vs. SOXX vs. SOXQ: Which Semiconductor ETF Is the Best Buy Right Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/smh-vs-soxx-vs-soxq-195000964.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-14T19:50:00Z"
+          "title": "TSMC (NYSE:TSM) Stock Weighing AI Momentum Against A 6% Overvaluation Narrative",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-nyse-tsm-stock-weighing-051100705.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-06-14T05:11:00Z"
         }
       ]
     },
@@ -127,22 +153,22 @@
       "market_cap": 626088818466.1865,
       "headlines": [
         {
+          "title": "Here's How to Snag a 20% Dividend Yield",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-snag-20-dividend-yield-203300706.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-14T20:33:00Z"
+        },
+        {
+          "title": "The Invisible Layer Protecting the World's Biggest Companies",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/invisible-layer-protecting-worlds-biggest-202525384.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-14T20:25:25Z"
+        },
+        {
           "title": "Best Altcoins to Buy in 2026",
           "url": "https://finance.yahoo.com/markets/crypto/articles/best-altcoins-buy-2026-192700664.html",
           "publisher": "Motley Fool",
           "published": "2026-06-14T19:27:00Z"
-        },
-        {
-          "title": "Jim Cramer Says Intel (INTC) Is An Alternative To TSMC",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-intel-intc-190507968.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-14T19:05:07Z"
-        },
-        {
-          "title": "3 AI Stocks Poised for Long-Term Gains Despite Strong Year-to-Date Performance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-poised-long-183500236.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-14T18:35:00Z"
         }
       ]
     },
@@ -531,8 +557,8 @@
     },
     {
       "label": "BTC",
-      "price": 63882.75,
-      "change_pct": -0.84
+      "price": 64002.61,
+      "change_pct": -0.65
     },
     {
       "label": "Gold",

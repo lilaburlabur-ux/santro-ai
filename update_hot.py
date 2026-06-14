@@ -66,7 +66,8 @@ def fresh_news(hours=4):
                 continue
             if (now - ts).total_seconds() <= hours * 3600:
                 for tk in it.get("tickers", []):
-                    out.setdefault(tk, {"title": it["title"], "url": it.get("url", "")})
+                    out.setdefault(tk, {"title": it["title"], "url": it.get("url", ""),
+                                        "published": it["published"]})
     except Exception:
         pass
     return out
@@ -74,10 +75,11 @@ def fresh_news(hours=4):
 
 def main():
     uni = json.load(open("universe.json"))
-    scope, base_ref = {}, {}
+    scope, base_ref, sector_of = {}, {}, {}
     for b in uni["bubbles"]:
         for t in b["tickers"]:
             scope[t["ticker"]] = t["company"]
+            sector_of[t["ticker"]] = b.get("label") or b.get("id") or ""
             if t.get("base_close"):       # fresh IPO — reference price anchors day 1
                 base_ref[t["ticker"]] = t["base_close"]
     try:
@@ -153,6 +155,7 @@ def main():
 
             if story:
                 why, src = story["title"], story["url"]
+                published = story.get("published", "")
                 low = why.lower()
                 ctype = "momentum_narrative"
                 for k, words in CATALYST_KEYWORDS:
@@ -160,7 +163,7 @@ def main():
                         ctype = k
                         break
             else:
-                ctype, src = "no_news_mover", ""
+                ctype, src, published = "no_news_mover", "", ""
                 why = (f"Moving {'up' if move > 0 else 'down'} {abs(move):.1f}% on ~{ratio:.0f}x "
                        f"average volume with no fresh headline this cycle — attention without a story.")
 
@@ -172,6 +175,7 @@ def main():
                 "volume": vol, "volume_vs_avg": f"~{ratio:.0f}x" if ratio >= 1.5 else f"~{ratio:.1f}x",
                 "heat_score": heat, "direction": "up" if move > 0 else "down",
                 "why": why, "catalyst_type": ctype, "source_url": src,
+                "published": published, "sector": sector_of.get(sym, ""),
             })
         except Exception:
             continue

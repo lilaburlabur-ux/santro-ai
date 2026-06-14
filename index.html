@@ -292,6 +292,8 @@
   .hot .hwhy{flex:1; font-size:12.5px; line-height:1.45; color:var(--muted);}
   .hot .hmeta{font-size:11px; color:var(--faint); margin-top:3px;}
   .hot .hmeta a{color:var(--accent-2); text-decoration:none;}
+  .hot .hmeta .nocat{color:#e0a73f; font-weight:600;}
+  .hot-slogan{font-size:11px; color:var(--accent-2); font-weight:700; letter-spacing:.3px; margin:0 0 9px;}
   .hot .fire{font-size:11.5px; color:#e0a73f; min-width:40px; text-align:right; font-weight:600;}
   .ipo-row{display:flex; align-items:center; gap:12px; padding:11px 10px; margin:0 -10px; border-radius:8px;
     border-bottom:1px solid var(--border-soft); transition:.12s;}
@@ -937,15 +939,19 @@ function renderSamples(){
   if(hotData && hotData.hot_tickers && hotData.hot_tickers.length){
     if(rb){ rb.textContent=`Auto · ${timeAgo(hotData.meta.as_of)}`; rb.className="badge live"; }
     document.getElementById("small").innerHTML =
+      `<div class="hot-slogan">Hot = attention, not direction</div>` +
       hotData.hot_tickers.map(t=>{
         const cls=t.catalyst_type==="no_news_mover"?"chip-nonews":(t.move_pct>0?"chip-up":"chip-down");
-        const src=t.source_url?` · <a href="${t.source_url}" target="_blank" rel="noopener">source</a>`:"";
+        const src=t.source_url?` · <a href="${t.source_url}" target="_blank" rel="noopener">source ↗</a>`:"";
+        const cat=t.catalyst_type==="no_news_mover"?`<span class="nocat">No clear catalyst found</span>`:t.catalyst_type.replace(/_/g," ");
+        const when=t.published?` · ${timeAgo(t.published)}`:(t.catalyst_type==="no_news_mover"?" · this cycle":"");
+        const sect=t.sector?`${t.sector.split(":")[0]} · `:"";
         return `<div class="hot">
           <div class="htk"><div class="sym" onclick="openTicker('${t.ticker}')" title="Show ${t.ticker} on the bubble map">${t.ticker}</div><div class="pr">$${t.price.toLocaleString()}</div>
             <div class="hact"><span onclick="openTicker('${t.ticker}')" title="Show on the bubble map">◉ map</span><a href="t?sym=${t.ticker}" title="Open the ${t.ticker} page">page ↗</a></div></div>
           <span class="chip-mv ${cls}">${fmtPct(t.move_pct)}</span>
           <div class="hwhy">${t.why}
-            <div class="hmeta">${t.company} · vol ${fmtVol(t.volume)} (${t.volume_vs_avg} avg) · ${t.catalyst_type.replace(/_/g," ")}${src}</div></div>
+            <div class="hmeta">${sect}${t.company} · vol ${fmtVol(t.volume)} (${t.volume_vs_avg} avg) · ${cat}${when}${src}</div></div>
           <div class="fire">🔥 ${t.heat_score}</div>
         </div>`;}).join("")
       + `<div class="runner-note">${hotData.meta.heat_criteria}<br>${hotData.meta.disclaimer}</div>`;

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-06-14T11:08:51+00:00",
-  "as_of_local": "2026-06-14 11:08:51 UTC",
+  "as_of_utc": "2026-06-14T11:23:51+00:00",
+  "as_of_local": "2026-06-14 11:23:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -63,6 +61,34 @@
       ]
     },
     {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 382.07,
+      "previous_close": 385.57,
+      "change_pct": -0.91,
+      "market_cap": 1817728701095.418,
+      "headlines": [
+        {
+          "title": "$35B AI Infrastructure Platform Plan Affirms Broadcom Inc. (AVGO) As a Promising Growth Stock to Buy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/35b-ai-infrastructure-platform-plan-192530880.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-06-13T19:25:30Z"
+        },
+        {
+          "title": "Broadcom (AVGO) Expands Spring Security With Largest Open-Source Update in 23-Year History",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-expands-spring-security-175955758.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-06-13T17:59:55Z"
+        },
+        {
+          "title": "Is Broadcom Inc. (AVGO) A Good Stock To Buy Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-good-stock-165748458.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-06-13T16:57:48Z"
+        }
+      ]
+    },
+    {
       "symbol": "MU",
       "name": "Micron Technology",
       "price": 981.61,
@@ -70,6 +96,12 @@
       "change_pct": -1.43,
       "market_cap": 1106995005282.5684,
       "headlines": [
+        {
+          "title": "Wolfe Research Raises PT on Micron Technology (MU) Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wolfe-research-raises-pt-micron-111500843.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-06-14T11:15:00Z"
+        },
         {
           "title": "Better AI Growth Buy Right Now: Nvidia vs Micron",
           "url": "https://finance.yahoo.com/markets/stocks/articles/better-ai-growth-buy-now-103000779.html",
@@ -81,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-sk-hynix-micron-fighting-095500910.html",
           "publisher": "Motley Fool",
           "published": "2026-06-14T09:55:00Z"
-        },
-        {
-          "title": "5 big analyst AI moves: Double-upgrade for Intel; SpaceX gets Buy call after IPO",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/5-big-analyst-ai-moves-093002039.html",
-          "publisher": "Investing.com",
-          "published": "2026-06-14T09:30:02Z"
         }
       ]
     },
@@ -180,7 +206,7 @@
       "price": 279.7,
       "previous_close": 280.71,
       "change_pct": -0.36,
-      "market_cap": 244892233176.00494,
+      "market_cap": 244681570678.71094,
       "headlines": [
         {
           "title": "Why Marvell Technology Stock Surged This Week",
@@ -531,8 +557,8 @@
     },
     {
       "label": "BTC",
-      "price": 64478.72,
-      "change_pct": 0.09
+      "price": 64506.33,
+      "change_pct": 0.13
     },
     {
       "label": "Gold",

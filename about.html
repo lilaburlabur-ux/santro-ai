@@ -16,11 +16,13 @@
 <meta property="og:title" content="About Santro AI — bubble map & research for the AI narrative" />
 <meta property="og:description" content="Live AI-sector bubble map, hot tickers with the why, and research key takeaways. Transparent methodology, no hype." />
 <meta property="og:url" content="https://santroai.tech/about" />
-<meta property="og:image" content="https://santroai.tech/assets/santro-mascot-night.png" />
+<meta property="og:image" content="https://santroai.tech/assets/og-map.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="About Santro AI" />
 <meta name="twitter:description" content="The bubble map & research journal for the AI narrative." />
-<meta name="twitter:image" content="https://santroai.tech/assets/santro-mascot-night.png" />
+<meta name="twitter:image" content="https://santroai.tech/assets/og-map.png" />
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Organization","@id":"https://santroai.tech/#org","name":"Santro AI",
  "url":"https://santroai.tech",
@@ -31,13 +33,11 @@
 <script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
 <link rel="stylesheet" href="site.css?v=9" />
 <style>
-  .hero{display:grid; grid-template-columns:1.4fr 1fr; gap:32px; align-items:center; padding:34px 0 28px;}
+  .hero{padding:34px 0 28px; max-width:780px;}
   .hero h1{font-size:32px; line-height:1.2; margin:0 0 14px;}
   .hero h1 em{color:#22c55e; font-style:normal;}
   .hero p{color:var(--muted); font-size:16.5px; margin:0 0 18px;}
   .mono{font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace;}
-  .mascot{width:100%; max-width:270px; margin:0 auto; display:block;
-    filter:drop-shadow(0 8px 30px rgba(52,211,153,.15));}
   .tape{display:flex; gap:8px; flex-wrap:wrap; padding:0 0 30px;}
   .tile{flex:1 1 90px; border-radius:8px; padding:10px 12px; font-size:12.5px;}
   .tile b{display:block; font-size:14px;}
@@ -105,7 +105,6 @@
         <span class="mono">why</span> it's moving.</p>
         <p class="mono" style="font-size:13px;color:var(--faint)">bubbles → hot tickers → key takeaways → research journal</p>
       </div>
-      <img class="mascot" id="about-mascot" src="assets/santro-mascot-night.png" alt="Santro AI mascot" />
     </div>
 
     <div class="tape" aria-hidden="true">
@@ -221,13 +220,6 @@
     © 2026 Santro AI. All rights reserved. Uses custom models.
   </footer>
 
-<script>
-// mascot follows the theme: black body by day, white by night
-(function(){
-  const m=document.getElementById("about-mascot");
-  if(m && document.documentElement.dataset.theme==="light") m.src="assets/santro-mascot-day.png";
-})();
-</script>
 <script src="site.js?v=9"></script>
 </body>
 </html>

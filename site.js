@@ -9,8 +9,6 @@
     if(lbl) lbl.textContent = mode==="dark" ? "NIGHTMODE" : "DAYMODE";
     const btn=document.getElementById("theme-toggle");
     if(btn) btn.classList.toggle("day", mode==="light");
-    const ms=document.getElementById("about-mascot");
-    if(ms) ms.src = mode==="light" ? "assets/santro-mascot-day.png" : "assets/santro-mascot-night.png";
     if(save) try{ localStorage.setItem("santro-theme", mode); }catch(e){}
   }
 

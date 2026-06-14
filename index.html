@@ -355,19 +355,11 @@
   footer .foot-text a{color:var(--muted); font-weight:600; text-decoration:none;}
   footer .foot-text a:hover{color:var(--text);}
   footer .foot-nav a{font-weight:700;}
-  footer .foot-mascot{grid-column:3; justify-self:end;}
   @media (max-width:900px){footer{grid-template-columns:1fr;}
-    footer .foot-text{grid-column:1;} footer .foot-mascot{grid-column:1; justify-self:center;}}
+    footer .foot-text{grid-column:1;}}
   footer .foot-text .bn{color:var(--accent-2); font-weight:600;}
   footer .foot-text .nfa{color:#e0a73f; font-weight:600;}
   footer .foot-text .rights{font-size:11px; color:var(--faint);}
-  .foot-mascot{display:flex; flex-direction:column; align-items:center; gap:12px; flex:0 0 auto;}
-  .foot-mascot .mascot{height:250px; width:auto; max-width:40vw;}
-  .chat-bubble{position:relative; background:var(--accent-soft); border:1px solid var(--accent-border);
-    color:var(--accent-2); font-size:12.5px; font-weight:600; padding:8px 14px; border-radius:12px;}
-  .chat-bubble::after{content:""; position:absolute; bottom:-6px; left:50%;
-    transform:translateX(-50%) rotate(45deg); width:10px; height:10px; background:var(--accent-soft);
-    border-right:1px solid var(--accent-border); border-bottom:1px solid var(--accent-border);}
 </style>
 </head>
 <body>
@@ -493,11 +485,6 @@
       <span class="nfa">Not financial advice.</span> Quotes delayed ~15 min. Removed with paid version.<br>
       Contact us: <a href="mailto:hello@santroai.tech">hello@santroai.tech</a><br>
       <span class="rights">© 2026 Santro AI. All rights reserved. Uses custom models.</span>
-    </div>
-    <div class="foot-mascot">
-      <div class="chat-bubble">💬 Santro Chat — coming soon</div>
-      <img class="mascot" id="mascot-img" src="assets/santro-mascot-night.png"
-           alt="Santro AI chatbot mascot — coming soon" />
     </div>
   </footer>
 
@@ -698,8 +685,6 @@ function applyTheme(mode, save){
   if(lbl) lbl.textContent = mode==="dark" ? "NIGHTMODE" : "DAYMODE";   // pill shows the CURRENT mode
   const btn = document.getElementById("theme-toggle");
   if(btn) btn.classList.toggle("day", mode==="light");
-  const mi = document.getElementById("mascot-img");   // white body at night, black by day
-  if(mi) mi.src = mode==="dark" ? "assets/santro-mascot-night.png" : "assets/santro-mascot-day.png";
   if(save) try{ localStorage.setItem("santro-theme", mode); }catch(e){}
   if(stocks.length) render();    // repaint bubbles with themed borders/tooltip
 }

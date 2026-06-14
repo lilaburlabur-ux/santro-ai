@@ -61,6 +61,27 @@
   .sect-tbl .sym a:hover{color:var(--accent);}
   .gopage{display:inline-block; margin-left:auto; font-weight:700; color:var(--accent)!important;
     text-decoration:none;}
+  /* Tree of Alpha AI news panel */
+  .toa{margin-top:16px;}
+  .toa-live{font-size:10px; font-weight:700; letter-spacing:.4px; padding:3px 9px; border-radius:999px;
+    background:var(--accent-soft); color:var(--accent-2); border:1px solid var(--accent-border);}
+  .toa-src{margin-left:auto; font-size:11px; font-weight:700; color:var(--accent-2);
+    text-decoration:none; text-transform:none; letter-spacing:0;}
+  .toa-src:hover{color:var(--accent);}
+  .toa-rows{padding:4px 16px 6px;}
+  .toa-row{padding:11px 0; border-bottom:1px solid var(--border-soft);}
+  .toa-row:last-child{border-bottom:0;}
+  .toa-row a.t{display:block; color:var(--text); text-decoration:none; font-size:14px; line-height:1.45; font-weight:600;}
+  .toa-row a.t:hover{color:var(--accent-2);}
+  .toa-row .m{display:flex; align-items:center; gap:7px; margin-top:6px; flex-wrap:wrap;
+    font-size:11px; color:var(--faint);}
+  .toa-row .src{font-size:10px; font-weight:700; padding:2px 7px; border-radius:6px;
+    background:var(--elev); border:1px solid var(--border); color:var(--muted);}
+  .toa-row .tok{font-size:10px; font-weight:700; padding:2px 7px; border-radius:6px;}
+  .toa-foot{padding:11px 16px; border-top:1px solid var(--border-soft); font-size:11px;
+    color:var(--faint); line-height:1.5;}
+  .toa-foot a{color:var(--muted); font-weight:700; text-decoration:none;}
+  .toa-foot a:hover{color:var(--text);}
   @media (max-width:760px){ .sect-tbl .co{display:none;} .legend{display:none;} }
 </style>
 </head>
@@ -122,6 +143,15 @@
     </div>
 
     <div class="card detail" id="detail">Click a bubble for details…</div>
+
+    <section class="toa mapwrap">
+      <h2><span style="color:#22c55e">◉</span> AI crypto news
+        <span class="toa-live">Live</span>
+        <a class="toa-src" href="https://news.treeofalpha.com" target="_blank" rel="noopener">via Tree of Alpha ↗</a></h2>
+      <div id="toanews" class="toa-rows">Loading AI headlines…</div>
+      <div class="toa-foot">Headlines aggregated by <a href="https://news.treeofalpha.com" target="_blank" rel="noopener">Tree of Alpha</a>
+        — each links to its original source. News delayed. Not financial advice.</div>
+    </section>
   </main>
 
   <footer>
@@ -327,7 +357,68 @@ async function load(){
     const c=coins().find(x=>x.symbol===selected);
     c ? showDetail(c) : showOverview();
   } else showOverview();
+  loadTOANews();
 }
+
+// ---- AI crypto news via Tree of Alpha --------------------------------------
+// Public, CORS-open, intentionally-delayed REST feed. Polled gently every 60s
+// straight from the browser; filtered to the AI tokens we already track
+// (crypto.json) + AI keywords — no extra market-cap/API calls. Each headline
+// links to its ORIGINAL source; Tree of Alpha is credited as the aggregator.
+const TOA_URL="https://news.treeofalpha.com/api/news?limit=200";
+const AI_RX=/\b(a\.?i\.?|artificial intelligence|openai|anthropic|nvidia|gpu|llm|machine learning|chatgpt|claude|gemini|de[- ]?pin|inference|data ?center|deep ?learning|agentic|ai agents?)\b/i;
+const escapeHTML=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+function aiSymbols(){ const s=new Set();
+  if(market&&market.baskets) for(const b of Object.values(market.baskets))
+    for(const c of (b.coins||[])) s.add((c.symbol||"").toUpperCase());
+  return s; }
+function coinBySym(sym){ if(market&&market.baskets)
+  for(const b of Object.values(market.baskets)){ const c=(b.coins||[]).find(x=>x.symbol===sym); if(c) return c; }
+  return null; }
+function itemTickers(it){ const out=new Set();
+  (it.symbols||[]).forEach(s=>{ s=String(s).replace(/^[A-Z0-9]+:/,"").replace(/(USDT|USDC|USD|PERP)$/,""); if(s) out.add(s.toUpperCase()); });
+  (it.suggestions||[]).forEach(g=>{ if(g&&g.coin) out.add(String(g.coin).toUpperCase()); });
+  return out; }
+function newsSource(it){ if(it.sourceName) return it.sourceName;
+  const m=(it.title||"").match(/\(@([A-Za-z0-9_]+)\)/); if(m) return "@"+m[1];
+  return it.source||"news"; }
+function cleanTitle(it){ let t=(it.title||it.en||"").trim();
+  if(it.sourceName){ const p=new RegExp("^"+it.sourceName.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+":\\s*","i"); t=t.replace(p,""); }
+  t=t.replace(/^[^:]{0,60}\(@[A-Za-z0-9_]+\):\s*/,"");      // drop "Name (@handle): "
+  t=t.replace(/https?:\/\/\S+/g,"").replace(/\s+/g," ").trim();  // drop links, collapse whitespace
+  if(t.length>150) t=t.slice(0,150).replace(/\s+\S*$/,"")+"…";   // truncate on a word boundary
+  return t.trim(); }
+function toaTimeAgo(ms){ const m=Math.round((Date.now()-ms)/60000);
+  if(isNaN(m)) return ""; if(m<1) return "now"; if(m<60) return m+"m";
+  const h=Math.round(m/60); if(h<24) return h+"h"; return Math.round(h/24)+"d"; }
+async function loadTOANews(){
+  const host=document.getElementById("toanews"); if(!host) return;
+  let raw=null;
+  try{ raw=await (await fetch(TOA_URL,{cache:"no-store"})).json(); }catch(e){}
+  if(!Array.isArray(raw)){ if(/Loading/.test(host.textContent)) host.textContent="News feed connecting…"; return; }
+  const syms=aiSymbols(), out=[], seen=new Set();
+  for(const it of raw){
+    const title=cleanTitle(it); if(!title) continue;
+    const tks=[...itemTickers(it)].filter(t=>syms.has(t));
+    if(!tks.length && !AI_RX.test(it.title||it.en||"")) continue;
+    const key=title.toLowerCase().replace(/[^a-z0-9]+/g,"").slice(0,60);
+    if(seen.has(key)) continue; seen.add(key);
+    out.push({title, url:it.url||"#", time:it.time||0, src:newsSource(it), toks:tks.slice(0,3)});
+    if(out.length>=22) break;
+  }
+  if(!out.length){ host.textContent="No AI headlines right now."; return; }
+  host.innerHTML=out.map(n=>{
+    const toks=n.toks.map(t=>{ const c=coinBySym(t);
+      const style=!c?"background:var(--elev);border:1px solid var(--border);color:var(--muted)"
+        :(c.change_24h>=0)?"background:#10231a;border:1px solid #1e5f3a;color:#6ee7a0"
+                         :"background:#2a1416;border:1px solid #5e1e22;color:#ff9aa2";
+      return `<a class="tok" style="${style};text-decoration:none" href="${coinHref({symbol:t})}">${t}</a>`; }).join(" ");
+    return `<div class="toa-row">
+      <a class="t" href="${escapeHTML(n.url)}" target="_blank" rel="noopener">${escapeHTML(n.title)}</a>
+      <div class="m"><span class="src">${escapeHTML(n.src)}</span>${toks}<span>· ${toaTimeAgo(n.time)}</span></div></div>`;
+  }).join("");
+}
+
 load(); setInterval(load, 60000);
 </script>
 <script src="site.js?v=9"></script>

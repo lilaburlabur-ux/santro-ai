@@ -9,8 +9,7 @@
 <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png" />
 <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
-<meta name="description" content="Live AI token page on Santro AI: price, 1h / 24h / 7d move, market cap, volume, rank and an interactive chart. Data from CoinMarketCap. Not financial advice." />
-<meta name="robots" content="noindex" />
+<meta name="description" content="AI token page on Santro AI: price, 1h / 24h / 7d move, market cap, volume, rank and an interactive chart. Data from CoinMarketCap. Quotes delayed. Not financial advice." />
 <script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
 <link rel="stylesheet" href="site.css?v=9" />
 <style>
@@ -120,8 +119,13 @@ async function load(){
       <div class="tp-px">
         <div class="big" id="lv-px">${fmtPrice(c.price)}</div>
         <div class="chg ${pctClass(c.change_24h)}" id="lv-chg">${fmtPct(c.change_24h)} 24h</div>
-        <div class="sess" id="lv-sess">Live · as of ${d.as_of}</div>
+        <div class="sess" id="lv-sess">Auto · as of ${d.as_of}</div>
       </div>
+    </div>
+
+    <div style="display:flex;gap:8px;margin-top:4px">
+      <a href="/share?card=crypto" style="display:inline-flex;align-items:center;gap:6px;font-size:12px;font-weight:700;border-radius:9px;padding:7px 13px;text-decoration:none;background:#22c55e;color:#04140b">Share card ↗</a>
+      <button onclick="copyLink(this)" style="display:inline-flex;align-items:center;gap:6px;font:inherit;font-size:12px;font-weight:700;border-radius:9px;padding:7px 13px;cursor:pointer;background:var(--elev);color:var(--text);border:1px solid var(--border)">⧉ Copy link</button>
     </div>
 
     <div class="kv">
@@ -143,6 +147,12 @@ async function load(){
   mountTV();
 }
 
+function copyLink(btn){
+  if(!navigator.clipboard) return;
+  navigator.clipboard.writeText(location.href).then(()=>{
+    const o=btn.textContent; btn.textContent="Copied ✓"; setTimeout(()=>btn.textContent=o,1500);
+  }).catch(()=>{});
+}
 function mountTV(){
   const host=document.getElementById("tvchart");
   if(!host) return;
@@ -169,7 +179,7 @@ async function refresh(){
           sess=document.getElementById("lv-sess");
     if(px) px.textContent=fmtPrice(c.price);
     if(chg){ chg.textContent=fmtPct(c.change_24h)+" 24h"; chg.className="chg "+pctClass(c.change_24h); }
-    if(sess) sess.textContent="Live · as of "+d.as_of;
+    if(sess) sess.textContent="Auto · as of "+d.as_of;
   }catch(e){}
 }
 load(); setInterval(refresh, 60000);

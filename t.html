@@ -9,8 +9,7 @@
 <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png" />
 <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
-<meta name="description" content="Live ticker page on Santro AI: price, market cap, P/E, volume, performance, 60-session chart, research scores and news. Data delayed ~15 min. Not financial advice." />
-<meta name="robots" content="noindex" />
+<meta name="description" content="AI ticker page on Santro AI: price, move, why it's moving, sector and AI bubble context, chart and related news. Quotes delayed ~15 min. Not financial advice." />
 <script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
 <link rel="stylesheet" href="site.css?v=9" />
 <style>
@@ -38,6 +37,21 @@
   .newsrow a{color:var(--text); text-decoration:none;}
   .newsrow a:hover{color:var(--accent-2);}
   .newsrow .m{color:var(--faint); font-size:11px; margin-top:2px;}
+  .whybox{background:var(--panel); border:1px solid var(--border); border-radius:12px; padding:14px 16px; max-width:860px;}
+  .whybox .wt{font-size:15px; font-weight:600; line-height:1.5; color:var(--text);}
+  .whybox .wm{font-size:11.5px; color:var(--faint); margin-top:7px;}
+  .whybox .wm a{color:var(--accent-2); text-decoration:none;}
+  .whybox .nocat{color:#e0a73f; font-weight:700;}
+  .ctxbar{display:flex; flex-wrap:wrap; gap:8px; max-width:860px;}
+  .ctxbar .cx{background:var(--panel-2); border:1px solid var(--border-soft); border-radius:8px;
+    padding:7px 11px; font-size:12px;}
+  .ctxbar .cx .k{color:var(--faint); font-size:10px; text-transform:uppercase; letter-spacing:.5px; margin-right:6px;}
+  .tp-share{display:flex; gap:8px; margin-top:10px;}
+  .tp-share a, .tp-share button{display:inline-flex; align-items:center; gap:6px; font:inherit;
+    font-size:12px; font-weight:700; border-radius:9px; padding:7px 13px; cursor:pointer; text-decoration:none;}
+  .tp-share .primary{background:#22c55e; color:#04140b; border:1px solid #22c55e;}
+  .tp-share .ghost{background:var(--elev); color:var(--text); border:1px solid var(--border);}
+  .tp-share .ghost:hover{border-color:var(--accent-border); color:var(--accent-2);}
   .notfound{padding:60px 0; color:var(--muted);}
   #tvchart{margin-bottom:6px; border:1px solid var(--border); border-radius:12px; overflow:hidden;}
   #tvchart iframe{display:block; width:100%!important;}
@@ -129,8 +143,10 @@ function bigChart(s){
 
 async function load(){
   const el=document.getElementById("tp");
-  let universe=null, eco=null, ipos=null, news=null, research=null, tweets=null;
+  let universe=null, eco=null, ipos=null, news=null, research=null, tweets=null, hot=null, bubbleIx=null;
   try{ universe=await (await fetch("universe.json?t="+Date.now())).json(); }catch(e){}
+  try{ hot=await (await fetch("hot_tickers.json?t="+Date.now())).json(); }catch(e){}
+  try{ bubbleIx=await (await fetch("bubble_index.json?t="+Date.now())).json(); }catch(e){}
   try{ eco=await (await fetch("ecosystem.json?t="+Date.now())).json(); }catch(e){}
   try{ ipos=await (await fetch("ipos.json?t="+Date.now())).json(); }catch(e){}
   try{ news=await (await fetch("news.json?t="+Date.now())).json(); }catch(e){}
@@ -138,10 +154,11 @@ async function load(){
   try{ tweets=await (await fetch("tweets.json?t="+Date.now())).json(); }catch(e){}
 
   // find the ticker in the baskets; universe entry wins (has sector context)
-  let t=null; const baskets=[];
+  let t=null, sectorLabel="", sectorMove=null; const baskets=[];
   if(universe) for(const b of universe.bubbles){
     const x=b.tickers.find(x=>x.ticker===SYM);
-    if(x){ t=x; baskets.push("AI Universe: "+(UNI_SHORT[b.id]||b.label)); break; }
+    if(x){ t=x; sectorLabel=UNI_SHORT[b.id]||b.label; sectorMove=b.avg_change_pct;
+      baskets.push("AI Universe: "+sectorLabel); break; }
   }
   if(eco && eco.tickers.some(x=>x.ticker===SYM)){
     if(!t) t=eco.tickers.find(x=>x.ticker===SYM);
@@ -168,6 +185,24 @@ async function load(){
   const r=research&&research.stocks?research.stocks[SYM]:null;
   const hl=(SYM==="SPCX"&&tweets&&tweets.meta&&tweets.meta.hyperliquid)?Number(tweets.meta.hyperliquid):null;
   const items=(news&&news.items?news.items:[]).filter(it=>(it.tickers||[]).includes(SYM)).slice(0,6);
+  const hotRow=(hot&&hot.hot_tickers||[]).find(x=>x.ticker===SYM)||null;
+  const ix=(bubbleIx&&bubbleIx.index)||null;
+  const catLabel=hotRow?(hotRow.catalyst_type==="no_news_mover"
+      ?`<span class="nocat">No clear catalyst found</span>`:hotRow.catalyst_type.replace(/_/g," ")):"";
+  const whySrc=hotRow&&hotRow.source_url?` · <a href="${hotRow.source_url}" target="_blank" rel="noopener">source ↗</a>`:"";
+  const whyWhen=hotRow&&hotRow.published?` · ${timeAgo(hotRow.published)}`:"";
+  const whySection=hotRow?`
+    <div class="sec-label">Why it's moving</div>
+    <div class="whybox"><div class="wt">${hotRow.why}</div>
+      <div class="wm">${catLabel}${whyWhen}${whySrc}</div></div>`:"";
+  const ctxParts=[];
+  if(sectorLabel) ctxParts.push(`<span class="cx"><span class="k">Sector</span>${sectorLabel}${sectorMove!=null?" "+fmtPct(sectorMove):""}</span>`);
+  if(ix) ctxParts.push(`<span class="cx"><span class="k">AI bubble risk</span>${ix.overall}/100 · ${ix.label||""}</span>`);
+  ctxParts.push(`<span class="cx"><span class="k">Hot</span>attention, not direction</span>`);
+  const ctxSection=`<div class="sec-label">Bubble context</div><div class="ctxbar">${ctxParts.join("")}</div>`;
+  const shareBtns=`<div class="tp-share">
+    <a class="primary" href="/share?card=why">Share card ↗</a>
+    <button class="ghost" onclick="copyLink(this)">⧉ Copy link</button></div>`;
 
   el.innerHTML=`
     <div class="tp-head">
@@ -176,9 +211,12 @@ async function load(){
         <div class="sub">${t.industry||"—"}${t.sector?" · "+t.sector:""} · ${baskets.join(" · ")}</div></div>
       <div class="tp-px"><div class="big" id="lv-px">$${(t.price??0).toFixed(2)}</div>
         <div class="chg ${pctClass(t.change_pct)}" id="lv-chg">${fmtPct(t.change_pct)}</div>
-        <div class="sess" id="lv-sess">Live · ${SESSION_LBL[session]||""} · ~15-min delayed</div>
+        <div class="sess" id="lv-sess">Auto · ${SESSION_LBL[session]||""} · ~15-min delayed</div>
         ${hl?`<div class="hl">Hyperliquid perp $${hl.toFixed(2)}</div>`:""}</div>
     </div>
+    ${shareBtns}
+    ${whySection}
+    ${ctxSection}
     <div class="kv" style="max-width:760px">
       <div><div class="k">Market cap</div><div class="v">${t.market_cap_b?fmtCap(t.market_cap_b*1e9):"—"}</div></div>
       <div><div class="k">P/E</div><div class="v">${t.pe==null?"—":t.pe}</div></div>
@@ -207,6 +245,12 @@ async function load(){
       <a href="https://finance.yahoo.com/quote/${encodeURIComponent(SYM)}" target="_blank" rel="noopener">Yahoo Finance →</a>
       &nbsp;·&nbsp; ${ipoRow?`<a href="/ipos">← AI IPOs</a>`:`<a href="/stocks">← Back to the bubble map</a>`}</p>`;
   mountTV();
+}
+function copyLink(btn){
+  if(!navigator.clipboard){ return; }
+  navigator.clipboard.writeText(location.href).then(()=>{
+    const o=btn.textContent; btn.textContent="Copied ✓"; setTimeout(()=>btn.textContent=o,1500);
+  }).catch(()=>{});
 }
 function mountTV(){
   const host=document.getElementById("tvchart");
@@ -238,7 +282,7 @@ async function refresh(){
           sess=document.getElementById("lv-sess");
     if(px) px.textContent="$"+(x.price??0).toFixed(2);
     if(chg){ chg.textContent=fmtPct(x.change_pct); chg.className="chg "+pctClass(x.change_pct); }
-    if(sess && u.meta.session) sess.textContent="Live · "+(SESSION_LBL[u.meta.session]||"")+" · ~15-min delayed";
+    if(sess && u.meta.session) sess.textContent="Auto · "+(SESSION_LBL[u.meta.session]||"")+" · ~15-min delayed";
   }catch(e){}
 }
 load(); setInterval(refresh, 60000);

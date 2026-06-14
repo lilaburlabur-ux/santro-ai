@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-06-14T03:49:14+00:00",
-  "as_of_local": "2026-06-14 03:49:14 UTC",
+  "as_of_utc": "2026-06-14T04:04:13+00:00",
+  "as_of_local": "2026-06-14 04:04:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 205.19,
+      "previous_close": 204.87,
+      "change_pct": 0.16,
+      "market_cap": 4969907049133.301,
+      "headlines": [
+        {
+          "title": "Can Rivian Beat Tesla in the Long Term?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rivian-beat-tesla-long-term-025300656.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-14T02:53:00Z"
+        },
+        {
+          "title": "Want a Lifetime of Passive Income? Buy Coca-Cola in June and Never Sell.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/want-lifetime-passive-income-buy-024607230.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-14T02:46:07Z"
+        },
+        {
+          "title": "Is Nvidia Stock a Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-buy-022100063.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-14T02:21:00Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -27,10 +53,10 @@
           "published": "2026-06-13T15:42:37Z"
         },
         {
-          "title": "TSMC Revenue Surges 30% in May on Relentless AI Demand. TSM Stock Is Still Undervalued Here.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-revenue-surges-30-may-150003206.html",
-          "publisher": "Barchart",
-          "published": "2026-06-13T15:00:03Z"
+          "title": "Amkor Technology (AMKR) Hits All-Time High \u2014 Here\u2019s Why",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-hits-time-055428022.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-06-13T05:54:28Z"
         }
       ]
     },
@@ -531,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 64455.53,
-      "change_pct": 1.44
+      "price": 64492.25,
+      "change_pct": 1.49
     },
     {
       "label": "Gold",
-      "price": 4215.0,
-      "change_pct": 3.05
+      "price": 4238.8,
+      "change_pct": 3.63
     },
     {
       "label": "Nasdaq100",

@@ -3,16 +3,16 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>AI Crypto — top 20 AI tokens bubble map | Santro AI</title>
+<title>AI Crypto — AI tokens & AI Agents bubble map | Santro AI</title>
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
 <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png" />
 <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png" />
 <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
-<meta name="description" content="The top 20 AI crypto tokens by market cap as a live bubble map: prices, 24h moves, market caps and volume from CoinMarketCap's AI & Big Data category. Bubble size = 24h move. Not financial advice." />
+<meta name="description" content="The AI token market as a live bubble map: top 20 by market cap from CoinMarketCap's AI & Big Data and AI Agents categories. Size bubbles by 1h or 24h move, click any token for its own page. Not financial advice." />
 <link rel="canonical" href="https://santroai.tech/crypto" />
-<meta property="og:title" content="AI Crypto — top 20 AI tokens bubble map | Santro AI" />
-<meta property="og:description" content="The AI token market as living bubbles, sized by 24h move, refreshed automatically." />
+<meta property="og:title" content="AI Crypto — AI tokens & AI Agents bubble map | Santro AI" />
+<meta property="og:description" content="AI tokens and AI Agents as living bubbles, sized by 1h or 24h move, refreshed automatically." />
 <meta property="og:url" content="https://santroai.tech/crypto" />
 <meta property="og:image" content="https://santroai.tech/assets/santro-mascot-day.png" />
 <meta property="og:type" content="website" />
@@ -20,6 +20,18 @@
 <link rel="stylesheet" href="site.css?v=9" />
 <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
 <style>
+  .ctrlbar{display:flex; flex-wrap:wrap; align-items:center; gap:22px; margin:4px 0 14px;}
+  .ctrl{display:flex; align-items:center; gap:9px;}
+  .ctrl-lbl{font-size:10px; text-transform:uppercase; letter-spacing:.7px; color:var(--faint); font-weight:700;}
+  .seg{position:relative; display:inline-flex; background:var(--elev); border:1px solid var(--border);
+    border-radius:99px; padding:3px;}
+  .seg button{position:relative; z-index:1; border:0; background:transparent; color:var(--muted);
+    font-weight:700; font-size:12px; padding:6px 15px; border-radius:99px; cursor:pointer;
+    white-space:nowrap; transition:color .18s;}
+  .seg button.on{color:#04140b;}
+  .seg .thumb{position:absolute; top:3px; bottom:3px; left:3px; width:0;
+    border-radius:99px; background:#22c55e; box-shadow:0 0 12px rgba(34,197,94,.35);
+    transition:left .2s cubic-bezier(.4,0,.2,1), width .2s cubic-bezier(.4,0,.2,1); z-index:0;}
   .mapwrap{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius); overflow:hidden;}
   .mapwrap h2{margin:0; padding:13px 16px; font-size:11px; font-weight:600; letter-spacing:.8px;
     text-transform:uppercase; color:var(--muted); border-bottom:1px solid var(--border-soft);
@@ -37,9 +49,13 @@
   .sect-tbl tbody tr:last-child td{border-bottom:0;}
   .sect-tbl tbody tr:hover{background:var(--elev);}
   .sect-tbl .num{text-align:right; font-variant-numeric:tabular-nums;}
-  .sect-tbl .co{color:var(--muted); font-size:12px; max-width:220px; white-space:nowrap;
+  .sect-tbl .co{color:var(--muted); font-size:12px; max-width:200px; white-space:nowrap;
     overflow:hidden; text-overflow:ellipsis;}
-  @media (max-width:760px){ .sect-tbl .co{display:none;} }
+  .sect-tbl .sym a{color:var(--text); font-weight:700; text-decoration:none;}
+  .sect-tbl .sym a:hover{color:var(--accent);}
+  .gopage{display:inline-block; margin-left:auto; font-weight:700; color:var(--accent)!important;
+    text-decoration:none;}
+  @media (max-width:760px){ .sect-tbl .co{display:none;} .legend{display:none;} }
 </style>
 </head>
 <body>
@@ -70,13 +86,30 @@
 
   <main>
     <h1>AI Crypto <span class="badge" id="asof">…</span></h1>
-    <p class="lede">The <b>top 20 AI tokens by market cap</b> as a living bubble map — pulled from
-    CoinMarketCap's AI &amp; Big Data category (900+ tokens) and re-ranked automatically as caps
-    shift, so the basket always shows who actually leads the AI token trade. Bubble size = the
-    24h move, color = direction. Refreshed every ~10 minutes, 24/7. Not financial advice.</p>
+    <p class="lede">The AI token market as a living bubble map — the <b>top 20 by market cap</b> from
+    CoinMarketCap's <b>AI &amp; Big Data</b> and <b>AI Agents</b> categories, re-ranked automatically
+    as caps shift. Switch baskets, size the bubbles by the <b>1h</b> or <b>24h</b> move, and click any
+    token for its own page. Refreshed every ~15 minutes, 24/7. Not financial advice.</p>
+
+    <div class="ctrlbar">
+      <div class="ctrl"><span class="ctrl-lbl">Basket</span>
+        <div class="seg" id="seg-basket">
+          <span class="thumb"></span>
+          <button data-v="bigdata" class="on">AI &amp; Big Data</button>
+          <button data-v="agents">AI Agents</button>
+        </div>
+      </div>
+      <div class="ctrl"><span class="ctrl-lbl">Size by</span>
+        <div class="seg" id="seg-metric">
+          <span class="thumb"></span>
+          <button data-v="change_1h">1h move</button>
+          <button data-v="change_24h" class="on">24h move</button>
+        </div>
+      </div>
+    </div>
 
     <div class="mapwrap">
-      <h2><span style="color:var(--accent)">◉</span> <span id="map-title">Loading…</span>
+      <h2><span style="color:#22c55e">◉</span> <span id="map-title">Loading…</span>
         <span class="legend"><span>−10%</span><span class="bar"></span><span>+10%</span></span></h2>
       <div id="chart"></div>
     </div>
@@ -96,7 +129,7 @@
 const fmtPct=x=>(x>=0?"+":"")+Number(x).toFixed(2)+"%";
 const pctClass=x=>x>=0?"up":"down";
 const fmtPrice=p=>p>=1000?"$"+p.toLocaleString("en-US",{maximumFractionDigits:2})
-  :p>=1?"$"+p.toFixed(2):"$"+p.toFixed(4);
+  :p>=1?"$"+p.toFixed(2):p>=0.01?"$"+p.toFixed(4):"$"+p.toPrecision(2);
 const fmtBig=v=>v==null?"—":v>=1e12?"$"+(v/1e12).toFixed(2)+"T":v>=1e9?"$"+(v/1e9).toFixed(2)+"B"
   :v>=1e6?"$"+(v/1e6).toFixed(1)+"M":"$"+Math.round(v).toLocaleString();
 const HEAT_STOPS=[[-10,[112,15,25]],[-6,[185,28,28]],[-3,[239,68,68]],[-1,[247,123,123]],
@@ -111,6 +144,8 @@ function heatDark(p){const m=colorFor(p).match(/\d+/g).map(Number);
 const heatText=p=>p>=0?"#8df0b4":"#ff9aa2";
 const fitFs=(len,r,cap)=>Math.max(7,Math.min(cap,Math.floor((r*1.62)/(0.62*Math.max(len,3)))));
 const logoUrl=c=>`https://s2.coinmarketcap.com/static/img/coins/64x64/${c.id}.png`;
+const coinHref=c=>"c?sym="+encodeURIComponent(c.symbol)+"&b="+basketKey;
+const metricLabel=()=>metric==="change_1h"?"1h":"24h";
 
 function packBubbles(items,key,W,H){
   const maxV=Math.max(...items.map(x=>x[key]));
@@ -134,9 +169,11 @@ function packBubbles(items,key,W,H){
 }
 
 let chart=null, sim=null, bounds=null, timer=null, selected=null, market=null;
+let basketKey="bigdata", metric="change_24h";
+const coins=()=>(market&&market.baskets[basketKey]&&market.baskets[basketKey].coins)||[];
 
 function bubbleItem(n){
-  const c=n.obj, pct=c.change_24h||0, heat=colorFor(pct);
+  const c=n.obj, pct=c[metric]||0, heat=colorFor(pct);
   const txt=c.symbol;
   const fs=Math.min(Math.max(9,Math.round(n.r*0.30)), fitFs(txt.length,n.r,22));
   const pcFs=Math.max(8,Math.round(fs*0.82));
@@ -157,17 +194,18 @@ function bubbleItem(n){
 function render(){
   const el=document.getElementById("chart");
   const W=el.clientWidth||900, H=el.clientHeight||520;
-  market.coins.forEach(c=>{c._sz=Math.abs(c.change_24h||0)+0.5;});
-  sim=packBubbles(market.coins,"_sz",W,H).map(n=>({x:n.x,y:n.y,r:n.r,
+  const list=coins();
+  list.forEach(c=>{c._sz=Math.abs(c[metric]||0)+0.5;});
+  sim=packBubbles(list,"_sz",W,H).map(n=>({x:n.x,y:n.y,r:n.r,
     vx:(Math.random()-0.5)*0.7,vy:(Math.random()-0.5)*0.7,obj:n.it}));
   bounds={W,H};
   chart.setOption({backgroundColor:"transparent",
     grid:{left:0,right:0,top:0,bottom:0},
     xAxis:{show:false,min:0,max:W},yAxis:{show:false,min:0,max:H},
     tooltip:{textStyle:{fontSize:12},formatter:p=>{const c=p.data.coin; if(!c) return "";
-      const col=c.change_24h>=0?"#22c55e":"#f05a6e";
-      return `<b>${c.symbol}</b> · ${c.name}<br/><span style="color:${col}">${fmtPct(c.change_24h)}</span> &nbsp; ${fmtPrice(c.price)}<br/>`+
-        `Cap ${fmtBig(c.market_cap)} · 24h vol ${fmtBig(c.volume_24h)} · #${c.rank} of the AI top 20`;}},
+      const col=c[metric]>=0?"#22c55e":"#f05a6e";
+      return `<b>${c.symbol}</b> · ${c.name}<br/><span style="color:${col}">${fmtPct(c[metric])} ${metricLabel()}</span> &nbsp; ${fmtPrice(c.price)}<br/>`+
+        `Cap ${fmtBig(c.market_cap)} · 24h vol ${fmtBig(c.volume_24h)} · #${c.rank} in basket<br/><span style="color:var(--faint)">click to open ${c.symbol} →</span>`;}},
     series:[{type:"scatter",data:sim.map(bubbleItem),animationDuration:380,
       emphasis:{itemStyle:{borderColor:"#fff",borderWidth:3}}}]},true);
   startMotion();
@@ -195,67 +233,90 @@ function startMotion(){
 
 function showOverview(){
   selected=null;
-  const rows=market.coins.map(c=>`
+  const list=coins();
+  const rows=list.map(c=>`
       <tr data-sym="${c.symbol}" style="cursor:pointer" title="Show the ${c.symbol} card">
         <td class="num" style="color:var(--faint)">#${c.rank}</td>
-        <td><b>${c.symbol}</b></td>
+        <td class="sym"><a href="${coinHref(c)}">${c.symbol}</a></td>
         <td class="co">${c.name}</td>
         <td class="num">${fmtPrice(c.price)}</td>
+        <td class="num ${pctClass(c.change_1h)}">${fmtPct(c.change_1h)}</td>
         <td class="num ${pctClass(c.change_24h)}">${fmtPct(c.change_24h)}</td>
-        <td class="num">${fmtBig(c.market_cap)}</td>
-        <td class="num">${fmtBig(c.volume_24h)}</td></tr>`).join("");
+        <td class="num">${fmtBig(c.market_cap)}</td></tr>`).join("");
   document.getElementById("detail").innerHTML=`
-    <div class="row"><h3>Top ${market.coins.length} AI tokens</h3>
+    <div class="row"><h3>Top ${list.length} · ${market.baskets[basketKey].label}</h3>
       <span class="muted">by market cap · click a row or bubble for the coin card</span></div>
     <table class="sect-tbl"><thead>
       <tr><th class="num">#</th><th>Coin</th><th>Name</th><th class="num">Price</th>
-        <th class="num">24h</th><th class="num">Cap</th><th class="num">24h vol</th></tr></thead>
+        <th class="num">1h</th><th class="num">24h</th><th class="num">Cap</th></tr></thead>
       <tbody>${rows}</tbody></table>`;
   document.querySelectorAll(".sect-tbl tbody tr").forEach(tr=>
-    tr.addEventListener("click",()=>{
-      const c=market.coins.find(x=>x.symbol===tr.dataset.sym);
+    tr.addEventListener("click",e=>{
+      if(e.target.closest("a")) return;          // let the symbol link open the page
+      const c=list.find(x=>x.symbol===tr.dataset.sym);
       if(c){ showDetail(c); render(); }
     }));
 }
 
 function showDetail(c){
   selected=c.symbol;
+  const tf=(lbl,v)=>`<div><div class="k">${lbl}</div><div class="v ${pctClass(v)}">${fmtPct(v)}</div></div>`;
   document.getElementById("detail").innerHTML=`
     <div class="row"><h3>${c.symbol}</h3><span class="muted">${c.name}</span>
-      <span class="badge">#${c.rank} AI token by cap</span>
-      <span class="${pctClass(c.change_24h)}" style="margin-left:auto;font-weight:700">${fmtPct(c.change_24h)} 24h</span></div>
+      <span class="badge">#${c.rank} · ${market.baskets[basketKey].label}</span>
+      <a class="gopage" href="${coinHref(c)}">Open ${c.symbol} page →</a></div>
     <div class="kv">
       <div><div class="k">Price</div><div class="v">${fmtPrice(c.price)}</div></div>
+      ${tf("1h",c.change_1h)}${tf("24h",c.change_24h)}${tf("7d",c.change_7d)}
       <div><div class="k">Market cap</div><div class="v">${fmtBig(c.market_cap)}</div></div>
       <div><div class="k">24h volume</div><div class="v">${fmtBig(c.volume_24h)}</div></div>
-      <div><div class="k">Rank in basket</div><div class="v">#${c.rank} of 20</div></div>
     </div>
-    <p style="margin:12px 0 0"><a href="#" id="back-all" style="font-weight:700">← All ${market.coins.length} coins</a>
-      ${c.slug?` &nbsp;·&nbsp; <a href="https://coinmarketcap.com/currencies/${encodeURIComponent(c.slug)}/" target="_blank" rel="noopener">CoinMarketCap →</a>`:""}</p>`;
+    <p style="margin:12px 0 0"><a href="#" id="back-all" style="font-weight:700">← All ${coins().length} coins</a></p>`;
   document.getElementById("back-all").addEventListener("click",e=>{
     e.preventDefault(); showOverview(); render();
   });
+}
+
+function refreshTitle(){
+  document.getElementById("map-title").textContent=
+    `Top ${coins().length} · ${market.baskets[basketKey].label} · sized by ${metricLabel()} move`;
+}
+
+function moveThumb(seg){
+  const on=seg.querySelector("button.on"), thumb=seg.querySelector(".thumb");
+  if(on&&thumb){ thumb.style.left=on.offsetLeft+"px"; thumb.style.width=on.offsetWidth+"px"; }
+}
+function wireSeg(id,apply){
+  const seg=document.getElementById(id);
+  seg.querySelectorAll("button").forEach(b=>b.addEventListener("click",()=>{
+    seg.querySelectorAll("button").forEach(x=>x.classList.remove("on"));
+    b.classList.add("on"); moveThumb(seg); apply(b.dataset.v);
+  }));
+  moveThumb(seg);
 }
 
 async function load(){
   try{
     market=await (await fetch("crypto.json?t="+Date.now())).json();
   }catch(e){ market=null; }
-  if(!market||!market.coins||!market.coins.length){
+  if(!market||!market.baskets){
     document.getElementById("map-title").textContent="Crypto feed connecting…";
     return;
   }
   document.getElementById("asof").textContent="As of "+market.as_of;
-  document.getElementById("map-title").textContent=
-    `Top ${market.coins.length} AI tokens by market cap · sized by 24h move`;
+  refreshTitle();
   if(!chart){
     chart=echarts.init(document.getElementById("chart"));
     chart.on("click",p=>{ if(p.data&&p.data.coin){ showDetail(p.data.coin); render(); } });
-    window.addEventListener("resize",()=>{chart.resize();render();});
+    window.addEventListener("resize",()=>{chart.resize();render();
+      moveThumb(document.getElementById("seg-basket"));moveThumb(document.getElementById("seg-metric"));});
+    wireSeg("seg-basket",v=>{basketKey=v;refreshTitle();render();showOverview();});
+    wireSeg("seg-metric",v=>{metric=v;refreshTitle();render();
+      selected?showDetail(coins().find(x=>x.symbol===selected)||{}):showOverview();});
   }
   render();
   if(selected){
-    const c=market.coins.find(x=>x.symbol===selected);
+    const c=coins().find(x=>x.symbol===selected);
     c ? showDetail(c) : showOverview();
   } else showOverview();
 }

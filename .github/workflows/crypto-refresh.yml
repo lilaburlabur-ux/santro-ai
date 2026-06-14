@@ -1,8 +1,9 @@
 name: Crypto refresh (CoinMarketCap)
 
-# Top 20 AI tokens by cap from a 200-coin category pull (2 CMC credits/run —
-# the endpoint's default order isn't cap, shallow pulls miss coins). Every
-# 15 minutes, 24/7 ≈ 192 credits/day against the free tier's ~333/day.
+# Top 20 by cap from TWO CMC categories: AI & Big Data (200-coin pull, 2
+# credits) + AI Agents (100-coin pull, 1 credit) = 3 credits/run. The
+# endpoint's default order isn't cap, so we over-pull and sort ourselves.
+# Every 15 minutes, 24/7 ≈ 288 credits/day against the free tier's ~333/day.
 on:
   schedule:
     - cron: "*/15 * * * *"

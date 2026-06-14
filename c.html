@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Token | Santro AI</title>
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png" />
+<link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+<meta name="description" content="Live AI token page on Santro AI: price, 1h / 24h / 7d move, market cap, volume, rank and an interactive chart. Data from CoinMarketCap. Not financial advice." />
+<meta name="robots" content="noindex" />
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
+<link rel="stylesheet" href="site.css?v=9" />
+<style>
+  .tp-head{display:flex; align-items:center; gap:16px; flex-wrap:wrap; padding:6px 0 18px;}
+  .tp-head img{width:54px; height:54px; border-radius:50%; background:var(--panel-2);}
+  .tp-title h1{margin:0; font-size:24px;}
+  .tp-title h1 .sym{color:var(--faint); font-weight:600;}
+  .tp-title .sub{color:var(--muted); font-size:13px; margin-top:3px;}
+  .tp-px{margin-left:auto; text-align:right;}
+  .tp-px .big{font-size:34px; font-weight:800; letter-spacing:-.5px; line-height:1;
+    font-variant-numeric:tabular-nums;}
+  .tp-px .chg{font-size:16px; font-weight:700; margin-top:4px;}
+  .tp-px .sess{font-size:10px; color:var(--faint); text-transform:uppercase; letter-spacing:.4px; margin-top:3px;}
+  .pchip{display:inline-flex; gap:7px; align-items:baseline; background:var(--panel-2);
+    border:1px solid var(--border-soft); border-radius:8px; padding:5px 11px;
+    font-size:12.5px; font-weight:600; margin:0 6px 6px 0;}
+  .pchip .k{color:var(--faint); font-size:10px; text-transform:uppercase; letter-spacing:.5px;}
+  .sec-label{margin:20px 0 8px; font-size:10px; letter-spacing:.7px; text-transform:uppercase;
+    color:var(--faint); font-weight:700;}
+  .notfound{padding:60px 0; color:var(--muted);}
+  #tvchart{margin-bottom:6px; border:1px solid var(--border); border-radius:12px; overflow:hidden;}
+  #tvchart iframe{display:block; width:100%!important;}
+</style>
+</head>
+<body>
+  <header class="pageheader">
+    <a class="logo" href="/" title="Santro AI — terminal">
+      <span class="logo-s">S<span class="logo-ai">AI</span></span>
+      <span class="logo-rest"><span class="logo-antro">ANTRO</span>
+        <span class="logo-tagline">AI&nbsp;RESEARCH&nbsp;·&nbsp;MARKETS</span></span>
+    </a>
+    <nav class="pagenav">
+      <a class="nav-link" href="/">Terminal</a>
+      <a class="nav-link" href="/stocks">Stocks</a>
+      <a class="nav-link" href="/ipos">IPOs</a>
+      <a class="nav-link" href="/etfs">ETFs</a>
+      <a class="nav-link active" href="/crypto">Crypto</a>
+      <a class="nav-link" href="/news">News</a>
+      <a class="nav-link" href="/research">Research</a>
+      <a class="nav-link" href="/blog">Blog</a>
+      <a class="nav-link" href="/about">About</a>
+      <details class="nav-more">
+        <summary class="nav-link">More ▾</summary>
+        <div class="menu">
+          <a href="/bubble">AI Bubble metrics</a>
+        </div>
+      </details>
+    </nav>
+  </header>
+
+  <main id="tp">Loading…</main>
+
+  <footer>
+    <nav class="foot-nav" style="margin-bottom:6px"><a href="/">Terminal</a> · <a href="/stocks">Stocks</a> · <a href="/ipos">IPOs</a> · <a href="/etfs">ETFs</a> · <a href="/crypto">Crypto</a> · <a href="/news">News</a> · <a href="/research">Research</a> · <a href="/blog">Blog</a> · <a href="/about">About</a></nav>
+    Santro AI — AI bubble map &amp; research journal for the AI narrative. Beta version.<br>
+    <span class="nfa">Not financial advice.</span> Quotes delayed. Removed with paid version.<br>
+    Contact us: <a href="mailto:hello@santroai.tech">hello@santroai.tech</a><br>
+    © 2026 Santro AI. All rights reserved. Uses custom models.
+  </footer>
+
+<script>
+const fmtPct=x=>(x>=0?"+":"")+Number(x).toFixed(2)+"%";
+const pctClass=x=>x>=0?"up":"down";
+const fmtPrice=p=>p>=1000?"$"+p.toLocaleString("en-US",{maximumFractionDigits:2})
+  :p>=1?"$"+p.toFixed(2):p>=0.01?"$"+p.toFixed(4):"$"+p.toPrecision(2);
+const fmtBig=v=>v==null?"—":v>=1e12?"$"+(v/1e12).toFixed(2)+"T":v>=1e9?"$"+(v/1e9).toFixed(2)+"B"
+  :v>=1e6?"$"+(v/1e6).toFixed(1)+"M":"$"+Math.round(v).toLocaleString();
+const pchip=(k,v)=>`<span class="pchip"><span class="k">${k}</span><span class="${(v??0)>=0?"up":"down"}">${v==null?"—":fmtPct(v)}</span></span>`;
+const logoUrl=c=>`https://s2.coinmarketcap.com/static/img/coins/64x64/${c.id}.png`;
+const BASKET_LBL={bigdata:"AI & Big Data", agents:"AI Agents"};
+
+const qs=new URLSearchParams(location.search);
+const SYM=(qs.get("sym")||"FET").toUpperCase();
+const PREF=qs.get("b")||"";
+
+function findCoin(d){
+  const order=PREF?[PREF,"bigdata","agents"]:["bigdata","agents"];
+  for(const k of order){
+    const b=d.baskets&&d.baskets[k];
+    if(b){ const c=(b.coins||[]).find(x=>x.symbol===SYM); if(c) return {coin:c, basket:k}; }
+  }
+  return null;
+}
+
+async function load(){
+  const el=document.getElementById("tp");
+  let d=null;
+  try{ d=await (await fetch("crypto.json?t="+Date.now())).json(); }catch(e){}
+  const hit=d?findCoin(d):null;
+  if(!hit){
+    document.title="Not found | Santro AI";
+    el.innerHTML=`<div class="notfound"><h1>${SYM}</h1>
+      <p>This token isn't in our tracked AI baskets right now (top 20 by market cap can rotate).</p>
+      <p><a href="/crypto">← Back to the crypto bubble map</a></p></div>`;
+    return;
+  }
+  const c=hit.coin, bl=BASKET_LBL[hit.basket]||hit.basket;
+  document.title=`${c.symbol} · ${c.name} | Santro AI`;
+  el.innerHTML=`
+    <div class="tp-head">
+      <img src="${logoUrl(c)}" alt="${c.symbol}" onerror="this.style.visibility='hidden'"/>
+      <div class="tp-title">
+        <h1>${c.name} <span class="sym">${c.symbol}</span></h1>
+        <div class="sub">#${c.rank} of 20 · ${bl} · CoinMarketCap</div>
+      </div>
+      <div class="tp-px">
+        <div class="big" id="lv-px">${fmtPrice(c.price)}</div>
+        <div class="chg ${pctClass(c.change_24h)}" id="lv-chg">${fmtPct(c.change_24h)} 24h</div>
+        <div class="sess" id="lv-sess">Live · as of ${d.as_of}</div>
+      </div>
+    </div>
+
+    <div class="kv">
+      <div><div class="k">Price</div><div class="v">${fmtPrice(c.price)}</div></div>
+      <div><div class="k">Market cap</div><div class="v">${fmtBig(c.market_cap)}</div></div>
+      <div><div class="k">24h volume</div><div class="v">${fmtBig(c.volume_24h)}</div></div>
+      <div><div class="k">Rank in basket</div><div class="v">#${c.rank} of 20</div></div>
+    </div>
+
+    <div class="sec-label">Performance</div>
+    <div>${pchip("1h",c.change_1h)}${pchip("24h",c.change_24h)}${pchip("7d",c.change_7d)}</div>
+
+    <div class="sec-label">Chart · TradingView</div>
+    <div class="tradingview-widget-container" id="tvchart"><div class="tradingview-widget-container__widget"></div></div>
+
+    <p style="margin-top:18px">
+      ${c.slug?`<a href="https://coinmarketcap.com/currencies/${encodeURIComponent(c.slug)}/" target="_blank" rel="noopener">CoinMarketCap →</a> &nbsp;·&nbsp; `:""}
+      <a href="/crypto">← Back to the crypto bubble map</a></p>`;
+  mountTV();
+}
+
+function mountTV(){
+  const host=document.getElementById("tvchart");
+  if(!host) return;
+  const dark=document.documentElement.dataset.theme!=="light";
+  const s=document.createElement("script");
+  s.src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js";
+  s.async=true;
+  const H=Math.max(480, Math.min(1100, Math.round(window.innerHeight*0.78)));
+  s.innerHTML=JSON.stringify({
+    symbol:"CRYPTO:"+SYM+"USD", theme:dark?"dark":"light", autosize:false, width:"100%", height:H,
+    interval:"240", timezone:"Etc/UTC", style:"1", locale:"en", hide_side_toolbar:false,
+    allow_symbol_change:true, save_image:false, backgroundColor:dark?"#0a0e13":"#ffffff"
+  });
+  host.appendChild(s);
+}
+
+// 60s refresh updates only the price header — never rebuilds the TV chart
+async function refresh(){
+  try{
+    const d=await (await fetch("crypto.json?t="+Date.now())).json();
+    const hit=findCoin(d); if(!hit) return;
+    const c=hit.coin;
+    const px=document.getElementById("lv-px"), chg=document.getElementById("lv-chg"),
+          sess=document.getElementById("lv-sess");
+    if(px) px.textContent=fmtPrice(c.price);
+    if(chg){ chg.textContent=fmtPct(c.change_24h)+" 24h"; chg.className="chg "+pctClass(c.change_24h); }
+    if(sess) sess.textContent="Live · as of "+d.as_of;
+  }catch(e){}
+}
+load(); setInterval(refresh, 60000);
+</script>
+<script src="site.js?v=9"></script>
+</body>
+</html>

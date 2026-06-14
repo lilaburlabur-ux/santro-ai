@@ -150,6 +150,28 @@
   .intro-line p{margin:5px 0 0; font-size:11.5px; line-height:1.55; color:var(--faint); max-width:980px;}
   .intro-line p a{color:var(--accent-2); text-decoration:none;}
   .intro-line p a:hover{text-decoration:underline;}
+  /* AI trade in 60 seconds — homepage intelligence band (#6 + #10) */
+  .brief{margin:0 16px 14px; background:var(--panel); border:1px solid var(--border); border-radius:14px; padding:13px 15px;}
+  .brief-head{display:flex; align-items:center; gap:9px; margin-bottom:11px;}
+  .brief-head .t{font-size:12px; font-weight:800; letter-spacing:.5px; text-transform:uppercase; color:var(--text);}
+  .brief-head .clk{font-size:10px; color:var(--faint);}
+  .brief-head .sh{margin-left:auto; font-size:11px; font-weight:700; color:var(--accent-2); text-decoration:none;}
+  .brief-head .sh:hover{color:var(--accent);}
+  .brief-grid{display:grid; grid-template-columns:1.7fr 1fr 1fr 1fr 1fr 1fr; gap:9px;}
+  .bt{background:var(--elev); border:1px solid var(--border-soft); border-radius:10px; padding:9px 11px; min-width:0;}
+  .bt .k{font-size:9px; text-transform:uppercase; letter-spacing:.6px; color:var(--faint); font-weight:700;}
+  .bt .v{font-size:16px; font-weight:800; margin-top:3px; line-height:1.12; white-space:nowrap;
+    overflow:hidden; text-overflow:ellipsis;}
+  .bt .s{font-size:10.5px; color:var(--muted); margin-top:2px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+  .bt.risk .top{display:flex; align-items:baseline; gap:7px; flex-wrap:wrap;}
+  .bt.risk .num{font-size:30px; font-weight:800; line-height:1;}
+  .bt.risk .spark{margin-top:5px;}
+  .bt.risk .rsh{font-size:10px; font-weight:700; color:var(--accent-2); text-decoration:none; margin-top:5px; display:inline-block;}
+  .bt.risk .rsh:hover{color:var(--accent);}
+  .brief-note{margin-top:10px; font-size:12px; color:var(--muted); line-height:1.5;}
+  .brief-note b{color:var(--accent-2); font-weight:700;}
+  @media (max-width:900px){ .brief-grid{grid-template-columns:1fr 1fr 1fr;} .bt.risk{grid-column:span 3;} }
+  @media (max-width:560px){ .brief-grid{grid-template-columns:1fr 1fr;} .bt.risk{grid-column:span 2;} }
   .grid{display:grid; gap:14px; padding:14px;
     grid-template-columns:1.55fr 1fr 1fr;
     grid-template-rows:474px minmax(392px, auto);
@@ -442,6 +464,8 @@
     <a href="/about">How it works</a> · not financial advice.</p>
   </div>
 
+  <section class="brief" id="brief"></section>
+
   <div class="grid">
     <section class="panel area-heat">
       <h2>
@@ -536,6 +560,7 @@ let research=null, asOfUtc=null;   // research.json cards + quote timestamp
 let takeaways=null;                // takeaways/takeaways.json (4-hour cycle)
 let tkExpanded=false;              // "See more" state — survives the 60s auto-refresh
 let hotData=null;                  // hot_tickers.json — 15-min hot-tickers scan (hot-tickers/SPEC.md)
+let bubbleIx=null;                  // bubble_index.json — AI bubble-risk index + history (homepage band)
 let universe=null, uniGroup=null;  // universe.json — 83-ticker AI universe in 7 themed bubbles
 let eco=null;                      // ecosystem.json — 30-name NVIDIA Ecosystem basket
 let newsFeed=null;                 // news.json — deduped headlines for the FULL scope (universe + ETFs)
@@ -934,6 +959,81 @@ function openTicker(sym){
   else location.href="t?sym="+encodeURIComponent(sym);
 }
 
+// ---- AI trade in 60 seconds + AI bubble risk (homepage band, #6 + #10) ----
+function riskColor(v){ if(v==null) return "#8895a4"; if(v<25) return "#22c55e"; if(v<45) return "#69cd91";
+  if(v<60) return "#e0a73f"; if(v<80) return "#f05a6e"; return "#b91c1c"; }
+function pillarDriver(ix){
+  const P=[["valuation","Valuation"],["capitalFlows","Capital flows"],["adoption","Adoption"],
+           ["sentiment","Sentiment"],["systemicRisk","Systemic risk"]];
+  let best=null; P.forEach(([k,nm])=>{ if(ix[k]!=null && (!best||ix[k]>best.v)) best={nm,v:ix[k]}; });
+  return best; }
+function briefSpark(hist,w=150,h=30){
+  const vs=(hist||[]).map(p=>p.v).filter(v=>v!=null).slice(-60); if(vs.length<2) return "";
+  const mn=Math.min(...vs),mx=Math.max(...vs),rng=(mx-mn)||1;
+  const pts=vs.map((v,i)=>`${(i/(vs.length-1)*w).toFixed(1)},${(h-2-((v-mn)/rng)*(h-4)).toFixed(1)}`).join(" ");
+  return `<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" style="display:block;max-width:100%"><polyline points="${pts}" fill="none" stroke="${riskColor(vs[vs.length-1])}" stroke-width="1.6"/></svg>`;
+}
+function renderBrief(){
+  const el=document.getElementById("brief"); if(!el) return;
+  if(!universe||!universe.bubbles||!universe.bubbles.length){ el.style.display="none"; return; }
+  el.style.display="";
+  const tk=[]; universe.bubbles.forEach(b=>b.tickers.forEach(t=>{ if(t.change_pct!=null) tk.push(t); }));
+  const secs=universe.bubbles.filter(b=>b.avg_change_pct!=null);
+  const tot=tk.length, up=tk.filter(t=>t.change_pct>0).length;
+  const breadth=tot?Math.round(up/tot*100):0;
+  const mood=breadth>=58?"Risk-on":breadth<=42?"Risk-off":"Mixed";
+  const moodCls=breadth>=58?"up":breadth<=42?"down":"";
+  const sBy=[...secs].sort((a,b)=>b.avg_change_pct-a.avg_change_pct);
+  const strong=sBy[0], weak=sBy[sBy.length-1];
+  const byMove=[...tk].sort((a,b)=>Math.abs(b.change_pct)-Math.abs(a.change_pct));
+  const top=byMove[0]||{ticker:"—",change_pct:0};
+  let weird, weirdTag;
+  const nn=((hotData&&hotData.hot_tickers)||[]).find(t=>t.catalyst_type==="no_news_mover");
+  if(nn){ weird={ticker:nn.ticker,change_pct:nn.move_pct}; weirdTag="no catalyst"; }
+  else { const w=byMove.find(t=>t.ticker!==top.ticker && (t.market_cap_b||9999)<60)||byMove[1]||top;
+    weird=w; weirdTag=(w.market_cap_b||0)<60?"small-cap":"outlier"; }
+  const ix=(bubbleIx&&bubbleIx.index)||null;
+  const clk=(document.getElementById("asof")?.textContent||"").replace("As of ","");
+  let riskTile;
+  if(ix){
+    const hist=bubbleIx.history||[];
+    const prev=hist.length>=2?hist[hist.length-2].v:ix.overall;
+    const delta=+(ix.overall-prev).toFixed(1);
+    const arrow=delta>0?`▲ ${Math.abs(delta)}`:delta<0?`▼ ${Math.abs(delta)}`:"flat";
+    const aCls=delta>0?"down":delta<0?"up":"";   // risk rising = red, falling = green
+    const drv=pillarDriver(ix);
+    riskTile=`<div class="bt risk">
+      <div class="k">AI bubble risk today</div>
+      <div class="top"><span class="num" style="color:${riskColor(ix.overall)}">${ix.overall}</span>
+        <span class="s">/100 · ${ix.label||""}</span>
+        <span class="s ${aCls}" style="font-weight:700">${arrow} vs prev</span></div>
+      <div class="s">Top driver: ${drv?drv.nm+" ("+drv.v+")":"—"}</div>
+      <div class="spark">${briefSpark(hist)}</div>
+      <a class="rsh" href="/share?card=risk">Share risk card ↗</a></div>`;
+  } else {
+    riskTile=`<div class="bt risk"><div class="k">AI bubble risk today</div><div class="s">Index feed connecting…</div></div>`;
+  }
+  let note;
+  if(ix && breadth>=58 && ix.overall>=58) note=`Broad green across the AI tape, but the bubble gauge is hot at ${ix.overall} — strength and froth at once.`;
+  else if(ix && breadth<=42 && ix.overall<45) note=`The tape is mostly red, yet the bubble gauge is calm at ${ix.overall} — fear without froth.`;
+  else if(nn && top && nn.ticker===top.ticker && Math.abs(top.change_pct)>6) note=`${top.ticker} leads the board with no clear catalyst — that's attention, not news.`;
+  else if(strong && weak) note=`${strong.label} leads while ${weak.label} lags — rotation within the AI trade, not a one-way move.`;
+  else note=`Mixed tape — no single signal dominates this session.`;
+  el.innerHTML=`
+    <div class="brief-head"><span class="t">⚡ AI trade in 60 seconds</span>
+      <span class="clk">${clk}</span>
+      <a class="sh" href="/share?card=sixty">Share ↗</a></div>
+    <div class="brief-grid">
+      ${riskTile}
+      <div class="bt"><div class="k">Market mood</div><div class="v ${moodCls}">${mood}</div><div class="s">${breadth}% of ${tot} up</div></div>
+      <div class="bt"><div class="k">Strongest sector</div><div class="v up">${strong?strong.label:"—"}</div><div class="s up">${strong?fmtPct(strong.avg_change_pct):""}</div></div>
+      <div class="bt"><div class="k">Weakest sector</div><div class="v down">${weak?weak.label:"—"}</div><div class="s down">${weak?fmtPct(weak.avg_change_pct):""}</div></div>
+      <div class="bt"><div class="k">Top mover</div><div class="v ${top.change_pct>=0?'up':'down'}" style="cursor:pointer" onclick="openTicker('${top.ticker}')">${top.ticker}</div><div class="s ${top.change_pct>=0?'up':'down'}">${fmtPct(top.change_pct)}</div></div>
+      <div class="bt"><div class="k">Weirdest mover</div><div class="v ${weird.change_pct>=0?'up':'down'}" style="cursor:pointer" onclick="openTicker('${weird.ticker}')">${weird.ticker}</div><div class="s">${fmtPct(weird.change_pct)} · ${weirdTag}</div></div>
+    </div>
+    <div class="brief-note"><b>Contrarian read:</b> ${note}</div>`;
+}
+
 function renderSamples(){
   const rb=document.getElementById("runners-badge");
   // Hot tickers (15-min scan) — replaces small-cap runners; hot = attention, not direction
@@ -1090,7 +1190,6 @@ async function loadData(){
     catch(e){ tweets=null; }
     try{ newsFeed=await (await fetch("news.json?t="+Date.now())).json(); }
     catch(e){ newsFeed=null; }
-    let bubbleIx=null;
     try{ bubbleIx=await (await fetch("bubble_index.json?t="+Date.now())).json(); }
     catch(e){ bubbleIx=null; }
     document.getElementById("asof").textContent="As of "+d.as_of_local;
@@ -1109,7 +1208,7 @@ async function loadData(){
           `<span style="color:${col};font-weight:600">${ix.label||""}</span></a>`;
       }
     }
-    renderNews(); renderSamples(); renderTakeaways();
+    renderBrief(); renderNews(); renderSamples(); renderTakeaways();
     applyHeat();
   }catch(e){
     document.getElementById("asof").textContent="data.json not found — run fetch.py";

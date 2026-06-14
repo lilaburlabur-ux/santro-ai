@@ -81,7 +81,8 @@
 
     <div class="ctrlbar">
       <div class="seg" id="seg-card">
-        <button data-v="movers" class="on">AI movers</button>
+        <button data-v="sixty" class="on">60 seconds</button>
+        <button data-v="movers">AI movers</button>
         <button data-v="winlose">Winners / losers</button>
         <button data-v="risk">Bubble risk</button>
         <button data-v="crypto">AI crypto</button>
@@ -126,6 +127,10 @@ function timeAgo(iso){ if(!iso) return ""; const m=Math.round((Date.now()-new Da
 function domainOf(u){ try{ return new URL(u).hostname.replace(/^www\./,""); }catch(e){ return ""; } }
 function riskColor(v){ if(v==null) return "#8895a4"; if(v<25) return "#22c55e"; if(v<45) return "#69cd91";
   if(v<60) return "#e0a73f"; if(v<80) return "#f05a6e"; return "#b91c1c"; }
+function pillarDriver(ix){
+  const P=[["valuation","Valuation"],["capitalFlows","Capital flows"],["adoption","Adoption"],
+           ["sentiment","Sentiment"],["systemicRisk","Systemic risk"]];
+  let best=null; P.forEach(([k,nm])=>{ if(ix[k]!=null && (!best||ix[k]>best.v)) best={nm,v:ix[k]}; }); return best; }
 function rr(x,y,w,h,r){ X.beginPath(); X.moveTo(x+r,y); X.arcTo(x+w,y,x+w,y+h,r);
   X.arcTo(x+w,y+h,x,y+h,r); X.arcTo(x,y+h,x,y,r); X.arcTo(x,y,x+w,y,r); X.closePath(); }
 function wrap(text,x,y,maxW,lh,maxLines){
@@ -261,15 +266,60 @@ function cardWhy(){
   foot();
 }
 
-const RENDER={movers:cardMovers, winlose:cardWinLose, risk:cardRisk, crypto:cardCrypto, why:cardWhy};
-let current="movers";
+function cardSixty(){
+  bg(); frame("AI trade in 60 seconds"); bigTitle("AI trade in 60 seconds");
+  if(!universe||!universe.bubbles){ X.fillStyle="#8b97a5"; X.font="400 20px "+F; X.fillText("Data unavailable.",46,210); foot(); return; }
+  const tk=[]; universe.bubbles.forEach(b=>(b.tickers||[]).forEach(t=>{ if(t.change_pct!=null) tk.push(t); }));
+  const secs=universe.bubbles.filter(b=>b.avg_change_pct!=null);
+  const tot=tk.length, up=tk.filter(t=>t.change_pct>0).length, breadth=tot?Math.round(up/tot*100):0;
+  const mood=breadth>=58?"Risk-on":breadth<=42?"Risk-off":"Mixed";
+  const sBy=[...secs].sort((a,b)=>b.avg_change_pct-a.avg_change_pct), strong=sBy[0], weak=sBy[sBy.length-1];
+  const byMove=[...tk].sort((a,b)=>Math.abs(b.change_pct)-Math.abs(a.change_pct)), top=byMove[0]||{ticker:"—",change_pct:0};
+  const nn=((hot&&hot.hot_tickers)||[]).find(t=>t.catalyst_type==="no_news_mover");
+  let weird,wtag;
+  if(nn){ weird={ticker:nn.ticker,change_pct:nn.move_pct}; wtag="no catalyst"; }
+  else { const w=byMove.find(t=>t.ticker!==top.ticker&&(t.market_cap_b||9999)<60)||byMove[1]||top; weird=w; wtag=(w.market_cap_b||0)<60?"small-cap":"outlier"; }
+  const ix=bubbleIx&&bubbleIx.index;
+  if(ix){
+    X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("AI BUBBLE RISK",46,196);
+    X.fillStyle=riskColor(ix.overall); X.font="800 70px "+F; X.fillText(String(ix.overall),46,262);
+    const nw=X.measureText(String(ix.overall)).width;
+    X.fillStyle="#8b97a5"; X.font="700 20px "+F; X.fillText("/100 · "+(ix.label||""),58+nw,236);
+    const drv=pillarDriver(ix); X.fillStyle="#8b97a5"; X.font="400 16px "+F;
+    X.fillText("Top driver: "+(drv?drv.nm+" ("+drv.v+")":"—"),58+nw,260);
+    const hist=(bubbleIx.history||[]).map(p=>p.v).filter(v=>v!=null).slice(-60);
+    if(hist.length>1){ const mn=Math.min(...hist),mx=Math.max(...hist),rg=(mx-mn)||1, sx=46,sy=284,sw=360,sh=42;
+      X.strokeStyle=riskColor(hist[hist.length-1]); X.lineWidth=2; X.beginPath();
+      hist.forEach((v,i)=>{ const px=sx+i/(hist.length-1)*sw, py=sy+sh-((v-mn)/rg)*sh; i?X.lineTo(px,py):X.moveTo(px,py); }); X.stroke(); }
+  }
+  const stat=(x,y,k,v,vc,s)=>{ X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText(k.toUpperCase(),x,y);
+    X.fillStyle=vc||"#e7edf3"; X.font="800 25px "+F; X.fillText(v,x,y+31);
+    if(s){ X.fillStyle="#8b97a5"; X.font="400 15px "+F; X.fillText(s,x,y+53); } };
+  const cA=470, cB=830;
+  stat(cA,196,"Market mood",mood,mood==="Risk-on"?"#22c55e":mood==="Risk-off"?"#f0596e":"#e7edf3",breadth+"% of "+tot+" up");
+  stat(cB,196,"Top mover",top.ticker,top.change_pct>=0?"#22c55e":"#f0596e",fmtPct(top.change_pct));
+  stat(cA,286,"Strongest sector",(strong?strong.label:"—").slice(0,22),"#22c55e",strong?fmtPct(strong.avg_change_pct):"");
+  stat(cB,286,"Weakest sector",(weak?weak.label:"—").slice(0,22),"#f0596e",weak?fmtPct(weak.avg_change_pct):"");
+  stat(cA,376,"Weirdest mover",weird.ticker,weird.change_pct>=0?"#22c55e":"#f0596e",fmtPct(weird.change_pct)+" · "+wtag);
+  let note;
+  if(ix && breadth>=58 && ix.overall>=58) note=`Broad green, but the bubble gauge is hot at ${ix.overall} — strength and froth at once.`;
+  else if(ix && breadth<=42 && ix.overall<45) note=`Tape mostly red, yet the gauge is calm at ${ix.overall} — fear without froth.`;
+  else if(strong&&weak) note=`${strong.label} leads while ${weak.label} lags — rotation within the AI trade.`;
+  else note=`Mixed tape — no single signal dominates.`;
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("CONTRARIAN READ",46,444);
+  X.fillStyle="#e7edf3"; X.font="600 24px "+F; wrap(note,46,478,W-92,34,2);
+  foot();
+}
+
+const RENDER={sixty:cardSixty, movers:cardMovers, winlose:cardWinLose, risk:cardRisk, crypto:cardCrypto, why:cardWhy};
+let current="sixty";
 function whyPick(){ const sel=document.getElementById("why-pick");
   const list=(hot&&hot.hot_tickers)||[]; if(!list.length) return null;
   return list.find(t=>t.ticker===sel.value) || list[0]; }
 function render(){ try{ (RENDER[current]||cardMovers)(); }catch(e){ console.error(e); } updateTweet(); }
 
-const CAP={movers:"Today's AI movers", winlose:"Top 5 AI winners & losers", risk:"AI bubble-risk score",
-  crypto:"Top AI crypto tokens", why:"Why a name is moving"};
+const CAP={sixty:"The AI trade in 60 seconds", movers:"Today's AI movers", winlose:"Top 5 AI winners & losers",
+  risk:"AI bubble-risk score", crypto:"Top AI crypto tokens", why:"Why a name is moving"};
 function updateTweet(){
   let txt=CAP[current]+" — via Santro AI. Hot means attention, not direction.";
   if(current==="why"){ const t=whyPick(); if(t) txt=`Why is $${t.ticker} moving ${fmtPct1(t.move_pct)}? ${(t.why||"").slice(0,140)} — via Santro AI.`; }

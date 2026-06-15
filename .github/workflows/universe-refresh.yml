@@ -1,11 +1,18 @@
 name: AI Universe refresh
 
-# The universe bubble map refreshes on a 4-hour cycle per universe/SPEC.md:
-# open, midday, and close-ish on US trading days. 83 tickers ≈ 1 min run.
-# Also rebuilds the NVIDIA Ecosystem basket (30 names) on the same cycle.
+# Full data update (bubble map, NVIDIA ecosystem, OG cards, IPOs) pinned to the
+# US market OPEN and CLOSE, plus a midday refresh — Mon–Fri only.
+# Quotes are ~15-min delayed, so we fire ~15 min AFTER each bell to actually
+# capture the opening / closing prints. GitHub cron is UTC and has no DST, so
+# each bell has two entries — one for EDT, one for EST. Only one is the real
+# 09:30 / 16:00 ET each season; the other lands in pre/after-market (harmless).
 on:
   schedule:
-    - cron: "35 13,17,21 * * 1-5"
+    - cron: "45 13 * * 1-5"   # market OPEN  09:45 ET (EDT, 13:45 UTC)
+    - cron: "45 14 * * 1-5"   # market OPEN  09:45 ET (EST, 14:45 UTC)
+    - cron: "0 17 * * 1-5"    # midday
+    - cron: "15 20 * * 1-5"   # market CLOSE 16:15 ET (EDT, 20:15 UTC)
+    - cron: "15 21 * * 1-5"   # market CLOSE 16:15 ET (EST, 21:15 UTC)
   workflow_dispatch:
 
 permissions:

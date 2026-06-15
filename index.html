@@ -466,7 +466,7 @@
     <section class="panel area-heat">
       <h2>
         <span class="ic">▦</span>
-        <span id="heat-title">Loading…</span>
+        <span id="heat-title">Loading market bubbles…</span>
         <span class="seg">
           <button class="seg-btn active" data-mode="universe">AI Universe</button>
           <button class="seg-btn" data-mode="eco">NVIDIA Ecosystem</button>
@@ -478,31 +478,44 @@
     </section>
 
     <section class="panel area-detail">
-      <h2 id="detail-title">Selected stock <span class="badge live">Auto</span></h2>
+      <h2 id="detail-title">Selected stock <span class="badge live">Delayed ~15m</span></h2>
       <div class="body" id="detail">Click a bubble for details…</div>
     </section>
 
     <section class="panel area-news">
       <h2><span class="ic">✦</span> News with AI <span class="badge live">Auto</span>
         <button class="refresh-btn" id="news-refresh" title="Pull the latest news now" onclick="refreshNews(this)">↻</button></h2>
-      <div class="body" id="news">Loading…</div>
+      <div class="body" id="news">Checking what moved and why…</div>
     </section>
 
     <section class="panel area-ipo">
-      <h2><span class="ic">🚀</span> SpaceX IPO · SPCX <span class="badge live" id="spcx-badge">Auto</span></h2>
+      <h2><span class="ic">🚀</span> SpaceX IPO tracker <span class="badge live" id="spcx-badge">Delayed ~15m</span></h2>
       <div class="body" id="ipo"></div>
     </section>
 
     <section class="panel area-small">
-      <h2><span class="ic">🔥</span> Hot tickers <span class="badge sample" id="runners-badge">Sample</span><a href="/share?card=why" title="Make a shareable card" style="margin-left:10px;font-size:11px;font-weight:700;color:var(--accent-2);text-decoration:none">Share ↗</a></h2>
-      <div class="body" id="small"></div>
+      <h2><span class="ic">🔥</span> Hot tickers <span class="badge live" id="runners-badge">Auto</span><a href="/share?card=why" title="Make a shareable card" style="margin-left:10px;font-size:11px;font-weight:700;color:var(--accent-2);text-decoration:none">Share ↗</a></h2>
+      <div class="body" id="small">Scanning the AI tape…</div>
     </section>
 
     <section class="panel area-takeaways">
-      <h2><span class="ic">✓</span> Key takeaways <span class="badge sample" id="tk-badge">Sample</span></h2>
-      <div class="body" id="takeaways"></div>
+      <h2><span class="ic">✓</span> Key takeaways <span class="badge live" id="tk-badge">Auto</span></h2>
+      <div class="body" id="takeaways">Reading the session…</div>
     </section>
   </div>
+
+  <section class="term-static" style="max-width:1000px;margin:8px 16px 0;padding:14px 16px;background:var(--panel);border:1px solid var(--border);border-radius:12px;">
+    <p style="margin:0;font-size:12.5px;line-height:1.65;color:var(--muted)">
+    Today's AI terminal tracks <b style="color:var(--text)">83 AI tickers across 7 sectors</b>, plus
+    <a href="/crypto" style="color:var(--accent-2);text-decoration:none">AI crypto</a>,
+    <a href="/etfs" style="color:var(--accent-2);text-decoration:none">AI ETFs</a>,
+    <a href="/news" style="color:var(--accent-2);text-decoration:none">news</a>,
+    hot tickers with the sourced reason each name is moving, and an
+    <a href="/bubble" style="color:var(--accent-2);text-decoration:none">AI bubble-risk signal</a>.
+    Bubbles are sized by the day's move and colored by direction. Quotes delayed ~15 min —
+    <a href="/about" style="color:var(--accent-2);text-decoration:none">how it works</a>.
+    <span class="nfa">Not financial advice.</span></p>
+  </section>
 
   <footer>
     <div class="foot-text">
@@ -1125,8 +1138,8 @@ function renderTakeaways(){
     if(mb) mb.addEventListener("click", ()=>{ tkExpanded=!tkExpanded; renderTakeaways(); });
     return;
   }
-  // fallback: computed sample lines
-  if(badge){ badge.textContent="Sample"; badge.className="badge sample"; }
+  // fallback: computed quick lines (takeaways feed momentarily unavailable)
+  if(badge){ badge.textContent="Auto"; badge.className="badge live"; }
   const top3=stocks.slice(0,3), total=stocks.reduce((a,s)=>a+s.market_cap,0)||1;
   const share=Math.round(top3.reduce((a,s)=>a+s.market_cap,0)/total*100);
   const gainers=stocks.filter(s=>s.change_pct>0).length;

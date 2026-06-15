@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-06-15T22:35:49+00:00",
-  "as_of_local": "2026-06-15 22:35:49 UTC",
+  "as_of_utc": "2026-06-15T22:40:51+00:00",
+  "as_of_local": "2026-06-15 22:40:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-draws-cramer-support-190151994.html",
           "publisher": "GuruFocus.com",
           "published": "2026-06-15T19:01:51Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 1087.99,
+      "previous_close": 981.61,
+      "change_pct": 10.84,
+      "market_cap": 1226963359134.4622,
+      "headlines": [
+        {
+          "title": "Chip stocks surge, oil slides closer to $80 on US-Iran deal, Fox to acquire Roku",
+          "url": "https://finance.yahoo.com/video/chip-stocks-surge-oil-slides-closer-to-80-on-us-iran-deal-fox-to-acquire-roku-195425964.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-06-15T19:54:25Z"
+        },
+        {
+          "title": "Forget Micron: 1 Record-Breaking Cloud Powerhouse to Buy Hand Over Fist After the Pullback",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-micron-1-record-breaking-221042511.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-06-15T22:10:42Z"
+        },
+        {
+          "title": "Stock Market Today, June 15: Nvidia Jumps as Markets Soar on Peace Hopes",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-june-15-213457832.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-15T21:34:57Z"
         }
       ]
     },
@@ -355,8 +381,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 10.84,
+          "price": 1087.99,
           "currency": "USD"
         },
         {
@@ -445,8 +471,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 10.84,
+        "price": 1087.99,
         "currency": "USD"
       },
       {
@@ -531,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 66264.61,
-      "change_pct": 0.84
+      "price": 66279.45,
+      "change_pct": 0.87
     },
     {
       "label": "Gold",
-      "price": 4330.1,
-      "change_pct": 2.73
+      "price": 4328.4,
+      "change_pct": 2.69
     },
     {
       "label": "Nasdaq100",

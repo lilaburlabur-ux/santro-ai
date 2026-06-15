@@ -42,6 +42,9 @@ jobs:
           git add crypto.json
           if ! git diff --cached --quiet; then
             git commit -m "crypto refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git pull --rebase -X theirs origin main
-            git push
+            for i in $(seq 1 6); do
+              git pull --rebase -X theirs origin main && git push && break
+              git rebase --abort 2>/dev/null || true
+              sleep $((RANDOM % 6 + 3))
+            done
           fi

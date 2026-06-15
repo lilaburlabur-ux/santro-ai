@@ -44,10 +44,20 @@ jobs:
           git config user.name "santro-data-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data.json universe.json ecosystem.json tweets.json
-
-          if ! git diff --cached --quiet; then
-            git commit -m "data refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
-            # if main moved while we ran, replay on top; our data.json wins conflicts
-            git pull --rebase -X theirs origin main
-            git push
+          if git diff --cached --quiet; then
+            echo "no data changes this cycle"; exit 0
           fi
+          git commit -m "data refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
+          # Several bots push to main every few minutes. A single push loses the
+          # race when another bot pushes between our rebase and our push
+          # (non-fast-forward) and the run goes red. Retry rebase (-X theirs: our
+          # data wins) + push with jittered backoff until it lands.
+          for i in $(seq 1 6); do
+            if git pull --rebase -X theirs origin main && git push; then
+              echo "pushed on attempt $i"; exit 0
+            fi
+            echo "attempt $i lost the race — retrying"
+            git rebase --abort 2>/dev/null || true
+            sleep $((RANDOM % 6 + 3))
+          done
+          echo "::error::push failed after 6 attempts"; exit 1

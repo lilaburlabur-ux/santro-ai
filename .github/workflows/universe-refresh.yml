@@ -35,9 +35,6 @@ jobs:
       - name: Refresh NVIDIA Ecosystem
         run: python update_ecosystem.py
 
-      - name: Refresh AI Bubble Index (attributed mirror)
-        run: python fetch_bubble_index.py || true
-
       - name: Render OG preview image (today's movers)
         run: python make_og.py || true
 
@@ -48,7 +45,7 @@ jobs:
         run: |
           git config user.name "santro-universe-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add universe.json ecosystem.json bubble_index.json assets/og-map.png assets/og-crypto.png ipos.json
+          git add universe.json ecosystem.json assets/og-map.png assets/og-crypto.png ipos.json
           if ! git diff --cached --quiet; then
             git commit -m "universe refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
             git pull --rebase -X theirs origin main

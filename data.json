@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-06-15T08:33:57+00:00",
-  "as_of_local": "2026-06-15 08:33:57 UTC",
+  "as_of_utc": "2026-06-15T08:38:56+00:00",
+  "as_of_local": "2026-06-15 08:38:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,22 +15,22 @@
       "market_cap": 4969907049133.301,
       "headlines": [
         {
-          "title": "Is This the Next Cryptocurrency to Go Mainstream?",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/next-cryptocurrency-mainstream-075000269.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-15T07:50:00Z"
+          "title": "Stifel Raises Price Target for Cadence Design (CDNS) Following Intel Foundry Partnership",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stifel-raises-price-target-cadence-083054849.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-06-15T08:30:54Z"
         },
         {
-          "title": "Caterpillar and RH have been highlighted as Zacks Bull and Bear of the Day",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-rh-highlighted-zacks-bull-065900506.html",
-          "publisher": "Zacks",
-          "published": "2026-06-15T06:59:00Z"
+          "title": "Jim Cramer Discusses the Sell-Off in Apple Stock Before SpaceX IPO",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-sell-off-082856790.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-06-15T08:28:56Z"
         },
         {
-          "title": "Progressive Keeps Beating the Insurance Industry at Its Own Game. Can It Last?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/progressive-keeps-beating-insurance-industry-065000930.html",
+          "title": "Fed Chair Kevin Warsh and the FOMC Will Likely Take the First Step Toward Dropping the Hammer on Trumpflation This Week",
+          "url": "https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-fomc-082600160.html",
           "publisher": "Motley Fool",
-          "published": "2026-06-15T06:50:00Z"
+          "published": "2026-06-15T08:26:00Z"
         }
       ]
     },
@@ -69,6 +71,12 @@
       "market_cap": 1817728701095.418,
       "headlines": [
         {
+          "title": "Jim Cramer on Simon Property Group: \u201cTerrific Record, Buy It\u201d",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-simon-property-group-082839739.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-06-15T08:28:39Z"
+        },
+        {
           "title": "Musk says SpaceX could bring $1 trillion in revenue by 2030",
           "url": "https://finance.yahoo.com/markets/stocks/articles/musk-says-spacex-could-bring-054636977.html",
           "publisher": "Reuters",
@@ -79,12 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-record-q2-001544323.html",
           "publisher": "Simply Wall St.",
           "published": "2026-06-15T00:15:44Z"
-        },
-        {
-          "title": "Broadcom (AVGO): AI XPV Platform Sharpens Its Role in Custom Compute and Networking Infrastructure",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-ai-xpv-platform-192815116.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-14T19:28:15Z"
         }
       ]
     },
@@ -206,7 +208,7 @@
       "price": 279.7,
       "previous_close": 280.71,
       "change_pct": -0.36,
-      "market_cap": 244681570678.71094,
+      "market_cap": 244892233176.00494,
       "headlines": [
         {
           "title": "Tech Shakeup on the S&P 500",
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/sectors/technology/articles/prediction-next-1-trillion-artificial-142000341.html",
           "publisher": "Motley Fool",
           "published": "2026-06-14T14:20:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 211.72,
-      "previous_close": 202.96,
-      "change_pct": 4.32,
-      "market_cap": 223152881286.6211,
-      "headlines": [
-        {
-          "title": "Jack Ma-Backed Ant Group Set for High-Stakes Overhaul of Billion-User App",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/jack-ma-backed-ant-group-080000852.html",
-          "publisher": "Bloomberg",
-          "published": "2026-06-15T00:01:13Z"
-        },
-        {
-          "title": "Wells Fargo Sees Greater Upside in Qualcomm (QCOM) Ahead of Investor Day",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-sees-greater-upside-042658666.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-14T04:26:58Z"
-        },
-        {
-          "title": "Taiwan Semiconductor (TSM) is This Famous Billionaire\u2019s Biggest AI Stock Holding",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-tsm-famous-billionaire-154237082.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-13T15:42:37Z"
         }
       ]
     },
@@ -557,13 +531,13 @@
     },
     {
       "label": "BTC",
-      "price": 65648.35,
-      "change_pct": 1.9
+      "price": 65683.98,
+      "change_pct": 1.96
     },
     {
       "label": "Gold",
-      "price": 4351.7,
-      "change_pct": 3.24
+      "price": 4350.0,
+      "change_pct": 3.2
     },
     {
       "label": "Nasdaq100",

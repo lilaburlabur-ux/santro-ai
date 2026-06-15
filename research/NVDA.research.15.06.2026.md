@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | How SpaceX's IPO made millions for JPMorgan, Goldman Sachs, & other big banks | Yahoo Finance Video | 2026-06-15 |
 | Why the biggest "Magnificent 7" stocks have one giant headwind coming right at them | Yahoo Finance | 2026-06-15 |
+| This Artificial Intelligence (AI) Infrastructure Stock Has Been Crushing Nvidia on the Market. Its Latest Deal Could Send the Stock Even Higher | Motley Fool | 2026-06-15 |
 | Dow Jones Futures: Trump, Iran Deal Spark Stock Market Surge; Nvidia, Micron, Sandisk SpaceX Are Big Winners | Investor's Business Daily | 2026-06-15 |
-| ARK Venture Fund backs AI GPU marketplace startup Hydra Host | Investing.com | 2026-06-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

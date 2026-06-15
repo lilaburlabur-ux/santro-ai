@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-15T10:40:54+00:00",
+  "as_of": "2026-06-15T10:56:06+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,33 +11,17 @@
    "rank": 1,
    "ticker": "ADBE",
    "company": "Adobe Inc",
-   "move_pct": 1.9,
-   "price": 207.89,
+   "move_pct": 1.63,
+   "price": 207.35,
    "volume": 25030700,
    "volume_vs_avg": "~5x",
-   "heat_score": 45,
+   "heat_score": 44,
    "direction": "up",
    "why": "ADBE, VEEV Rise Overnight: Michael Burry Boosts Stakes On 'Lighter Expectations Stocks'",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/adbe-veev-rise-overnight-michael-073523795.html",
    "published": "2026-06-15T07:35:23Z",
    "sector": "AI Applications & Data Software"
-  },
-  {
-   "rank": 2,
-   "ticker": "SPCX",
-   "company": "SpaceX",
-   "move_pct": 5.72,
-   "price": 170.15,
-   "volume": 519234800,
-   "volume_vs_avg": "~0.0x",
-   "heat_score": 35,
-   "direction": "up",
-   "why": "What's next for SpaceX stock after IPO blastoff",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/whats-next-spacex-stock-ipo-100621511.html",
-   "published": "2026-06-15T10:06:21Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

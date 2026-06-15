@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-06-15T08:38:56+00:00",
-  "as_of_local": "2026-06-15 08:38:56 UTC",
+  "as_of_utc": "2026-06-15T08:44:01+00:00",
+  "as_of_local": "2026-06-15 08:44:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "QCOM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -208,7 +206,7 @@
       "price": 279.7,
       "previous_close": 280.71,
       "change_pct": -0.36,
-      "market_cap": 244892233176.00494,
+      "market_cap": 244681570678.71094,
       "headlines": [
         {
           "title": "Tech Shakeup on the S&P 500",
@@ -227,6 +225,34 @@
           "url": "https://finance.yahoo.com/sectors/technology/articles/prediction-next-1-trillion-artificial-142000341.html",
           "publisher": "Motley Fool",
           "published": "2026-06-14T14:20:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "price": 211.72,
+      "previous_close": 202.96,
+      "change_pct": 4.32,
+      "market_cap": 223152881286.6211,
+      "headlines": [
+        {
+          "title": "Qualcomm (QCOM) Expands Into AI Infrastructure Through SLB Collaboration and ByteDance Chip Agreement",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/qualcomm-qcom-expands-ai-infrastructure-083048216.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-06-15T08:30:48Z"
+        },
+        {
+          "title": "Jack Ma-Backed Ant Group Set for High-Stakes Overhaul of Billion-User App",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/jack-ma-backed-ant-group-080000852.html",
+          "publisher": "Bloomberg",
+          "published": "2026-06-15T00:01:13Z"
+        },
+        {
+          "title": "Wells Fargo Sees Greater Upside in Qualcomm (QCOM) Ahead of Investor Day",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-sees-greater-upside-042658666.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-06-14T04:26:58Z"
         }
       ]
     },
@@ -531,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 65683.98,
-      "change_pct": 1.96
+      "price": 65726.96,
+      "change_pct": 2.03
     },
     {
       "label": "Gold",
-      "price": 4350.0,
-      "change_pct": 3.2
+      "price": 4360.2,
+      "change_pct": 3.44
     },
     {
       "label": "Nasdaq100",

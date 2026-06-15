@@ -39,7 +39,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | How Marvell Broke The Law Of Large Numbers | Trefis | 2026-06-15 |
 | Quantum Stocks Jump as Growth Trade Revives | GuruFocus.com | 2026-06-15 |
 | The Console Cycle That Could Test Advanced Micro Stock | Trefis | 2026-06-15 |
-| He Watched His $1M ETF Investment Crash to $200k. Then He Cashed Out at $7.5 Million | 24/7 Wall St. | 2026-06-15 |
+| Stocks Soar on US-Iran Peace Agreement | Barchart | 2026-06-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

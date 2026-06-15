@@ -37,9 +37,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | Chip stocks surge, oil slides closer to $80 on US-Iran deal, Fox to acquire Roku | Yahoo Finance Video | 2026-06-15 |
+| AMD Acquires MEXT to Tackle Data Center Memory Constraints | GuruFocus.com | 2026-06-15 |
 | How Marvell Broke The Law Of Large Numbers | Trefis | 2026-06-15 |
 | AMD vs Intel: Both Are Positioned for AI Data Center Growth But There Will Be Only One Winner | 24/7 Wall St. | 2026-06-15 |
-| AMD Is Buying a Fix for Soaring Memory Costs. The Stock Is Surging. | Barrons.com | 2026-06-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

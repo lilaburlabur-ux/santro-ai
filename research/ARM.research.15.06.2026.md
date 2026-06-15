@@ -37,9 +37,9 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Headline | Source | Date |
 |---|---|---|
 | Chips Up 8.8% in One Week: 5 Semiconductor Names Breaking Into New Highs | 24/7 Wall St. | 2026-06-15 |
+| Stocks Set to Open Sharply Higher as Oil Sinks on U.S.-Iran Deal, Fed Meeting Awaited | Barchart | 2026-06-15 |
 | Arm Holdings (ARM) Gets BofA Backing, 37% PT Upgrade, Climbs 11% | Insider Monkey | 2026-06-13 |
 | Why Intel, AMD, Arm, and Other Artificial Intelligence (AI) Stocks Popped Today | Motley Fool | 2026-06-13 |
-| Billionaire Brad Gerstner Dumped All of His Alphabet Then Bought 2 Stocks Nobody Expected | 24/7 Wall St. | 2026-06-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

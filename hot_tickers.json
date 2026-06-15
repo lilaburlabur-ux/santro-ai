@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-15T09:19:44+00:00",
+  "as_of": "2026-06-15T09:34:48+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,13 +9,29 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "TLN",
+   "company": "Talen Energy Corp",
+   "move_pct": 7.16,
+   "price": 386.34,
+   "volume": 753400,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 45,
+   "direction": "up",
+   "why": "Talen Energy Nears $3.45b Gas Deal As PJM Demand Grows",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/sectors/energy/articles/talen-energy-nears-3-45b-060734224.html",
+   "published": "2026-06-15T06:07:34Z",
+   "sector": "Data Center, Power & Energy"
+  },
+  {
+   "rank": 2,
    "ticker": "ADBE",
    "company": "Adobe Inc",
-   "move_pct": 2.24,
-   "price": 208.59,
+   "move_pct": 1.66,
+   "price": 207.41,
    "volume": 25030700,
    "volume_vs_avg": "~5x",
-   "heat_score": 46,
+   "heat_score": 44,
    "direction": "up",
    "why": "ADBE, VEEV Rise Overnight: Michael Burry Boosts Stakes On 'Lighter Expectations Stocks'",
    "catalyst_type": "momentum_narrative",
@@ -24,14 +40,14 @@
    "sector": "AI Applications & Data Software"
   },
   {
-   "rank": 2,
+   "rank": 3,
    "ticker": "SPCX",
    "company": "SpaceX",
-   "move_pct": 6.24,
-   "price": 170.99,
+   "move_pct": 6.79,
+   "price": 171.88,
    "volume": 519234800,
    "volume_vs_avg": "~0.0x",
-   "heat_score": 37,
+   "heat_score": 39,
    "direction": "up",
    "why": "SpaceX extends gains premarket after biggest IPO ever values it at $2.1 trillion",
    "catalyst_type": "momentum_narrative",

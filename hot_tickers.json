@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-15T09:34:48+00:00",
+  "as_of": "2026-06-15T09:50:05+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,26 +9,10 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "TLN",
-   "company": "Talen Energy Corp",
-   "move_pct": 7.16,
-   "price": 386.34,
-   "volume": 753400,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 45,
-   "direction": "up",
-   "why": "Talen Energy Nears $3.45b Gas Deal As PJM Demand Grows",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/sectors/energy/articles/talen-energy-nears-3-45b-060734224.html",
-   "published": "2026-06-15T06:07:34Z",
-   "sector": "Data Center, Power & Energy"
-  },
-  {
-   "rank": 2,
    "ticker": "ADBE",
    "company": "Adobe Inc",
-   "move_pct": 1.66,
-   "price": 207.41,
+   "move_pct": 1.71,
+   "price": 207.5,
    "volume": 25030700,
    "volume_vs_avg": "~5x",
    "heat_score": 44,
@@ -40,19 +24,19 @@
    "sector": "AI Applications & Data Software"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "ticker": "SPCX",
    "company": "SpaceX",
-   "move_pct": 6.79,
-   "price": 171.88,
+   "move_pct": 6.24,
+   "price": 171.0,
    "volume": 519234800,
    "volume_vs_avg": "~0.0x",
-   "heat_score": 39,
+   "heat_score": 37,
    "direction": "up",
-   "why": "SpaceX extends gains premarket after biggest IPO ever values it at $2.1 trillion",
+   "why": "Mining Tycoon Gina Rinehart Buys Over $1 Billion SpaceX Stake",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/spacex-extends-gains-premarket-biggest-083222122.html",
-   "published": "2026-06-15T08:32:22Z",
+   "source_url": "https://www.wsj.com/business/mining-tycoon-gina-rinehart-buys-over-1-billion-spacex-stake-d79ec3ba?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-06-15T09:02:00Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]

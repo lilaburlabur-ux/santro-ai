@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-06-15T12:32:32+00:00",
-  "as_of_local": "2026-06-15 12:32:32 UTC",
+  "as_of_utc": "2026-06-15T12:37:31+00:00",
+  "as_of_local": "2026-06-15 12:37:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -285,34 +287,6 @@
       ]
     },
     {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 144.53,
-      "previous_close": 142.86,
-      "change_pct": 1.17,
-      "market_cap": 19801745404.96408,
-      "headlines": [
-        {
-          "title": "1 Semiconductor Stock Worth Your Attention and 2 We Brush Off",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-semiconductor-stock-worth-attention-084407588.html",
-          "publisher": "StockStory",
-          "published": "2026-06-15T08:44:07Z"
-        },
-        {
-          "title": "Lattice Semiconductor (LSCC) Is Down 6.0% After AMI Acquisition Financing Signals Bigger Balance Sheet Bet",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-lscc-down-6-061129458.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-06-12T06:11:29Z"
-        },
-        {
-          "title": "Lattice Semiconductor and Texas Instruments Shares Skyrocket, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-texas-instruments-shares-234537463.html",
-          "publisher": "StockStory",
-          "published": "2026-06-11T23:45:37Z"
-        }
-      ]
-    },
-    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 138.44,
@@ -557,13 +531,13 @@
     },
     {
       "label": "BTC",
-      "price": 66193.92,
-      "change_pct": 0.74
+      "price": 66249.21,
+      "change_pct": 0.82
     },
     {
       "label": "Gold",
-      "price": 4350.4,
-      "change_pct": 3.21
+      "price": 4358.6,
+      "change_pct": 3.41
     },
     {
       "label": "Nasdaq100",

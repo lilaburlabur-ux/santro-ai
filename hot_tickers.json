@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-15T08:44:00+00:00",
+  "as_of": "2026-06-15T08:59:04+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "ADBE",
    "company": "Adobe Inc",
-   "move_pct": 2.64,
-   "price": 209.4,
+   "move_pct": 2.44,
+   "price": 209.0,
    "volume": 25030700,
    "volume_vs_avg": "~5x",
    "heat_score": 47,
@@ -25,34 +25,18 @@
   },
   {
    "rank": 2,
-   "ticker": "OKLO",
-   "company": "Oklo Inc",
-   "move_pct": 5.46,
-   "price": 60.63,
-   "volume": 8129000,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "OKLO Stock Is Bouncing Back: Bulls Are Talking About $100 Again After This DOE Milestone",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/oklo-stock-bouncing-back-bulls-045357692.html",
-   "published": "2026-06-15T04:53:57Z",
-   "sector": "Data Center, Power & Energy"
-  },
-  {
-   "rank": 3,
    "ticker": "SPCX",
    "company": "SpaceX",
-   "move_pct": 6.09,
-   "price": 170.75,
+   "move_pct": 5.6,
+   "price": 169.97,
    "volume": 519234800,
    "volume_vs_avg": "~0.0x",
-   "heat_score": 36,
+   "heat_score": 35,
    "direction": "up",
-   "why": "Dow Jones Futures Rise, Oil Prices Dive As Trump Announces Iran Deal; SpaceX's Next Test",
+   "why": "SpaceX extends gains premarket after biggest IPO ever values it at $2.1 trillion",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-spacex/?src=A00220&yptr=yahoo",
-   "published": "2026-06-15T06:49:16Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/spacex-extends-gains-premarket-biggest-083222122.html",
+   "published": "2026-06-15T08:32:22Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]

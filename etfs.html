@@ -29,6 +29,32 @@
     #700f19,#b91c1c,#ef4444,#f77b7b,#262a2e,#69cd91,#22c55e,#15803d,#0a522d);}
   #chart{width:100%; height:480px;}
   .detail{margin-top:14px;}
+  .etf-sec{margin-top:30px;}
+  .etf-sec h2{font-size:14px; text-transform:uppercase; letter-spacing:.06em; color:var(--muted); margin:0 0 10px;}
+  .etf-sec p{font-size:14px; color:var(--muted); line-height:1.65; margin:0 0 10px; max-width:900px;}
+  .etf-sec ul{margin:0; padding-left:18px; color:var(--muted); font-size:14px; line-height:1.7;}
+  .cov{display:grid; gap:10px; max-width:900px;}
+  .cov-row{display:flex; gap:12px; align-items:center; background:var(--panel); border:1px solid var(--border);
+    border-radius:10px; padding:12px 14px; font-size:13.5px; color:var(--muted);}
+  .cov-row b{color:var(--text);}
+  .st{font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:.5px; padding:3px 9px;
+    border-radius:999px; white-space:nowrap; flex:0 0 auto;}
+  .st.live{background:rgba(34,197,94,.14); color:#22c55e;}
+  .st.val{background:rgba(224,167,63,.14); color:#e0a73f;}
+  .st.soon{background:var(--elev); color:var(--faint);}
+  .etf-tbl{width:100%; border-collapse:collapse; font-size:13px; margin-top:4px;}
+  .etf-tbl th{font-size:9.5px; text-transform:uppercase; letter-spacing:.5px; color:var(--faint);
+    text-align:left; font-weight:700; padding:6px 10px; border-bottom:1px solid var(--border);}
+  .etf-tbl td{padding:8px 10px; border-bottom:1px solid var(--border-soft); color:var(--muted);}
+  .etf-tbl .tk{color:var(--text); font-weight:700;}
+  .etf-tbl .vsm{color:var(--faint); font-style:italic;}
+  .etf-note{font-size:12px; color:var(--faint); margin-top:8px; max-width:900px; line-height:1.55;}
+  .etf-cta{display:flex; flex-wrap:wrap; gap:10px; margin-top:14px;}
+  .etf-cta a{display:inline-flex; align-items:center; gap:6px; padding:10px 15px; border-radius:10px;
+    font-size:13px; font-weight:700; text-decoration:none; background:var(--elev); border:1px solid var(--border); color:var(--text);}
+  .etf-cta a:hover{border-color:var(--accent-border); color:var(--accent-2);}
+  .etf-cta a.primary{background:#22c55e; color:#04140b; border-color:#22c55e;}
+  @media (max-width:680px){ .etf-tbl .hide{display:none;} }
 </style>
 </head>
 <body>
@@ -72,6 +98,57 @@
     </div>
 
     <div class="card detail" id="detail">Click a bubble for details…</div>
+
+    <section class="etf-sec">
+      <h2>How to read the DRAM holdings bubble map</h2>
+      <ul>
+        <li>Each <b>bubble is a holding</b> inside DRAM (the Roundhill Memory ETF).</li>
+        <li><b>Bubble size = the day's move</b> — bigger bubble, bigger % change that session.</li>
+        <li><b>Color = direction</b> — green up, red down.</li>
+        <li><b>Weight in the fund is separate</b> from the day's move — click a bubble for its weight, price and ticker.</li>
+        <li>Quotes are delayed ~15 min.</li>
+      </ul>
+    </section>
+
+    <section class="etf-sec">
+      <h2>Coverage status</h2>
+      <div class="cov">
+        <div class="cov-row"><span class="st live">Live</span><span><b>DRAM</b> — Roundhill Memory ETF holdings, as a live bubble map.</span></div>
+        <div class="cov-row"><span class="st val">Validating</span><span><b>SMH, SOXX, AIQ, BOTZ, ROBT, IRBO, ARKQ, WTAI</b> and other AI-related funds — added once holdings data is validated.</span></div>
+        <div class="cov-row"><span class="st soon">Coming</span><span><b>Full AI-ETF comparison table</b> — themes, issuers, holdings overlap and AI relevance, side by side.</span></div>
+      </div>
+    </section>
+
+    <section class="etf-sec">
+      <h2>AI ETFs — comparison (preview)</h2>
+      <table class="etf-tbl">
+        <thead><tr><th>ETF</th><th>Theme</th><th class="hide">Issuer</th><th class="hide">Top holdings</th><th>AI relevance</th><th>Status</th></tr></thead>
+        <tbody>
+          <tr><td class="tk">DRAM</td><td>Memory / DRAM</td><td class="hide">Roundhill</td><td class="hide">Micron, SK hynix, Samsung, Kioxia, SanDisk</td><td>Memory is the core AI bottleneck</td><td><span class="st live">Live</span></td></tr>
+          <tr><td class="tk">SMH</td><td>Semiconductors</td><td class="hide">VanEck</td><td class="hide vsm">validating</td><td>Core AI chips</td><td><span class="st val">Validating</span></td></tr>
+          <tr><td class="tk">SOXX</td><td>Semiconductors</td><td class="hide">iShares</td><td class="hide vsm">validating</td><td>Core AI chips</td><td><span class="st val">Validating</span></td></tr>
+          <tr><td class="tk">AIQ</td><td>AI &amp; big data</td><td class="hide">Global X</td><td class="hide vsm">validating</td><td>Broad AI theme</td><td><span class="st val">Validating</span></td></tr>
+          <tr><td class="tk">BOTZ</td><td>Robotics &amp; AI</td><td class="hide">Global X</td><td class="hide vsm">validating</td><td>AI + robotics</td><td><span class="st val">Validating</span></td></tr>
+          <tr><td class="tk">ARKQ</td><td>Autonomous tech</td><td class="hide">ARK</td><td class="hide vsm">validating</td><td>Autonomous + AI</td><td><span class="st val">Validating</span></td></tr>
+        </tbody>
+      </table>
+      <p class="etf-note">Staged on purpose: themes and issuers are shown; expense ratios, exact holdings and AI-relevance scoring
+      are validated before each fund goes live — we don't publish numbers we haven't checked.</p>
+    </section>
+
+    <section class="etf-sec">
+      <h2>Why ETFs matter in the AI trade</h2>
+      <ul>
+        <li>ETFs show <b>where passive and sector money concentrates</b> — the crowd, not just the headline name.</li>
+        <li>Their holdings reveal <b>second-order beneficiaries</b> of the AI build-out you might otherwise miss.</li>
+        <li>ETF flows can <b>amplify already-crowded trades</b> — useful read alongside the <a href="/bubble" style="color:var(--accent-2);text-decoration:none">AI bubble-risk gauge</a>.</li>
+      </ul>
+      <div class="etf-cta">
+        <a class="primary" href="/">Open the terminal</a>
+        <a href="/bubble">Check AI bubble risk</a>
+        <a href="/stocks">View AI stocks</a>
+      </div>
+    </section>
   </main>
 
   <footer>

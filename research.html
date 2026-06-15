@@ -53,8 +53,20 @@
     ATR, 52-week range), fundamentals, institutional ownership, risk review and watch levels —
     conditions, never advice. Scores below summarize each name's current setup; the signed file
     is the full report. For education and decision journaling only — not investment advice.</p>
+    <section style="margin:8px 0 22px">
+      <h2 style="font-size:14px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin:0 0 12px">How each report is built</h2>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px">
+        <div style="background:var(--panel);border:1px solid var(--border);border-radius:10px;padding:13px 14px"><b style="display:block;margin-bottom:3px">Technicals</b><span style="font-size:13px;color:var(--muted);line-height:1.5">Trend, RSI, ATR, 52-week range and momentum structure.</span></div>
+        <div style="background:var(--panel);border:1px solid var(--border);border-radius:10px;padding:13px 14px"><b style="display:block;margin-bottom:3px">Fundamentals</b><span style="font-size:13px;color:var(--muted);line-height:1.5">Valuation (P/E ttm &amp; forward), growth and market-cap context.</span></div>
+        <div style="background:var(--panel);border:1px solid var(--border);border-radius:10px;padding:13px 14px"><b style="display:block;margin-bottom:3px">Institutional ownership</b><span style="font-size:13px;color:var(--muted);line-height:1.5">Who holds it, plus short interest as a crowding tell.</span></div>
+        <div style="background:var(--panel);border:1px solid var(--border);border-radius:10px;padding:13px 14px"><b style="display:block;margin-bottom:3px">Risk review</b><span style="font-size:13px;color:var(--muted);line-height:1.5">What invalidates the setup — the bear case, stated plainly.</span></div>
+        <div style="background:var(--panel);border:1px solid var(--border);border-radius:10px;padding:13px 14px"><b style="display:block;margin-bottom:3px">Watch levels</b><span style="font-size:13px;color:var(--muted);line-height:1.5">Specific levels framed as conditions — never buy/sell calls.</span></div>
+      </div>
+      <p class="faint" style="font-size:12.5px;margin-top:10px">Each card below shows the name, dated close, valuation, short-float and setup scores (technical, narrative, entry, risk/reward). Reports re-sign after every US market close.</p>
+    </section>
+
     <div class="cardgrid" id="cards"></div>
-    <p class="faint" style="margin-top:18px">Full archive: <a href="research/INDEX.md">research index</a></p>
+    <p class="faint" style="margin-top:18px">Full archive: <a href="research/INDEX.md">research index</a> · refreshed after each close.</p>
   </main>
 
   <footer>
@@ -97,7 +109,7 @@ async function load(){
         ${c.report?`<p style="margin:12px 0 0"><a href="research/${c.report}">Signed report →</a></p>`:""}
       </div>`).join("");
   }catch(e){
-    document.getElementById("cards").innerHTML='<p class="muted">Research data is loading…</p>';
+    document.getElementById("cards").innerHTML='<p class="muted">Signed reports refresh after each US market close — <a href="research/INDEX.md">browse the archive</a>.</p>';
   }
 }
 load();

@@ -112,6 +112,19 @@
   .sa-foot{max-width:1040px;margin:0 auto;padding:26px 22px 60px;border-top:1px solid var(--border);font-size:13px;color:var(--hint);text-align:center;line-height:1.9}
   .sa-foot a{color:var(--muted);text-decoration:none;font-weight:600}
   @media (max-width:620px){.wl,.baskets{grid-template-columns:1fr}}
+  .loopbox{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:14px 16px;margin:0 0 20px}
+  .loopbox .lbl{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--hint);font-weight:700;margin-bottom:9px}
+  .tk-row{display:flex;flex-wrap:wrap;gap:7px}
+  .tk-row a{font-size:13px;font-weight:700;padding:4px 11px;border-radius:999px;border:1px solid var(--border-strong);color:var(--accent);text-decoration:none}
+  .tk-row a:hover{background:var(--card)}
+  .loopbox ul{margin:0;padding-left:18px}
+  .loopbox li{font-size:15px;margin:0 0 6px;color:var(--muted)}
+  .loopbox li b{color:var(--text)}
+  .loop-links{display:flex;flex-wrap:wrap;gap:8px}
+  .loop-links a{font-size:13.5px;font-weight:700;padding:9px 14px;border-radius:9px;border:1px solid var(--border);background:var(--card);color:var(--text);text-decoration:none}
+  .loop-links a:hover{border-color:var(--teal);color:var(--teal)}
+  .ctabar{border:1px solid var(--border);border-left:3px solid var(--teal);border-radius:0 10px 10px 0;padding:13px 16px;margin:26px 0;font-size:15px;color:var(--muted)}
+  .ctabar a{font-weight:700;color:var(--teal);text-decoration:none}
 </style>
 </head>
 <body>
@@ -153,6 +166,26 @@
     <figcaption>The premarket tape is bidding a whole stack — not one ticker.</figcaption>
   </figure>
 
+  <div class="loopbox">
+    <div class="lbl">Tickers mentioned</div>
+    <div class="tk-row">
+      <a href="/t?sym=SPCX">$SPCX</a><a href="/t?sym=ASTS">$ASTS</a><a href="/t?sym=RKLB">$RKLB</a><a href="/t?sym=PL">$PL</a>
+      <a href="/t?sym=MU">$MU</a><a href="/t?sym=TER">$TER</a><a href="/t?sym=INOD">$INOD</a><a href="/t?sym=LSCC">$LSCC</a>
+      <a href="/t?sym=LRCX">$LRCX</a><a href="/t?sym=MRVL">$MRVL</a><a href="/t?sym=AMAT">$AMAT</a>
+    </div>
+  </div>
+
+  <div class="loopbox">
+    <div class="lbl">The Santro read</div>
+    <ul>
+      <li><b>Attention driver:</b> SpaceX (SPCX) — the debut pulling retail and index-flow attention.</li>
+      <li><b>Sector affected:</b> the space economy plus the broader AI infrastructure stack — chips, memory, semicap, testing.</li>
+      <li><b>Risk angle:</b> the <a href="/bubble">AI bubble index</a> is heating up with valuation already stretched.</li>
+      <li><b>Confirms the thesis:</b> the bid stays broad — suppliers and second-order names keep getting bought, not just $SPCX.</li>
+      <li><b>Breaks the thesis:</b> the move narrows back to SpaceX alone, or NVDA-led leadership rolls over.</li>
+    </ul>
+  </div>
+
   <p>The market loves a simple story.</p>
   <p>First it was <strong>$NVDA</strong>. Then it was &ldquo;everything AI.&rdquo; Now the tape is trying to manufacture the next branch of the same tree: <strong>space + AI infrastructure</strong>.</p>
   <p>The obvious headline is <strong>$SPCX</strong>.</p>
@@ -172,6 +205,8 @@
     </div>
     <figcaption>Today's AI movers — the bid spreading beyond $SPCX into memory, testing, programmable chips, semicap equipment and AI infrastructure.</figcaption>
   </figure>
+
+  <p class="ctabar">📸 Turn today's movers into a post — <a href="/share?card=movers">create a share card →</a></p>
 
   <h2>The actual space basket</h2>
   <p>The direct space-economy names are:</p>
@@ -268,6 +303,18 @@
 
   <div class="note">Built from the Santro AI premarket movers and the <a href="/bubble">AI Bubble Index</a> (data courtesy of AI Bubble Monitor). Quotes delayed ~15 min.</div>
   <p class="disclaimer">Not financial advice. We're traders sharing how we read the tape, not telling you what to buy. Figures are a June 15, 2026 premarket snapshot and will change.</p>
+
+  <div class="loopbox" style="margin-top:30px">
+    <div class="lbl">Related Santro tools</div>
+    <div class="loop-links">
+      <a href="/">Open the AI terminal</a>
+      <a href="/bubble">Check AI bubble risk</a>
+      <a href="/stocks">View AI stocks</a>
+      <a href="/crypto">AI crypto</a>
+      <a href="/share">Create a share card</a>
+      <a href="/research">Read more research</a>
+    </div>
+  </div>
 
   <p style="margin-top:24px"><a href="/blog" style="font-weight:700;text-decoration:none">&larr; All posts</a></p>
 

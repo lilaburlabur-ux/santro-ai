@@ -126,8 +126,8 @@ function domainOf(u){ try{ return new URL(u).hostname.replace(/^www\./,""); }cat
 function riskColor(v){ if(v==null) return "#8895a4"; if(v<25) return "#22c55e"; if(v<45) return "#69cd91";
   if(v<60) return "#e0a73f"; if(v<80) return "#f05a6e"; return "#b91c1c"; }
 function pillarDriver(ix){
-  const P=[["valuation","Valuation"],["capitalFlows","Capital flows"],["adoption","Adoption"],
-           ["sentiment","Sentiment"],["systemicRisk","Systemic risk"]];
+  const P=[["valuation","Valuation"],["capitalFlows","Market Concentration"],["adoption","Momentum & Technical"],
+           ["sentiment","Sentiment & Hype"],["systemicRisk","Systemic Risk"]];
   let best=null; P.forEach(([k,nm])=>{ if(ix[k]!=null && (!best||ix[k]>best.v)) best={nm,v:ix[k]}; }); return best; }
 function rr(x,y,w,h,r){ X.beginPath(); X.moveTo(x+r,y); X.arcTo(x+w,y,x+w,y+h,r);
   X.arcTo(x+w,y+h,x,y+h,r); X.arcTo(x,y+h,x,y,r); X.arcTo(x,y,x+w,y,r); X.closePath(); }
@@ -223,8 +223,8 @@ function cardRisk(){
   const ix=bubbleIx&&bubbleIx.index;
   if(!ix){ X.fillStyle="#8b97a5"; X.font="400 20px "+F; X.fillText("Index feed unavailable.",44,210); foot(); return; }
   const v=ix.overall||0, c=riskColor(v);
-  X.fillStyle=c; X.font="800 150px "+F; X.fillText(String(v),44,300);
-  const nw=X.measureText(String(v)).width;
+  X.fillStyle=c; X.font="800 150px "+F; X.fillText(String(Math.round(v)),44,300);
+  const nw=X.measureText(String(Math.round(v))).width;
   X.fillStyle="#5e6b78"; X.font="700 26px "+F; X.fillText("/ 100",60+nw,250);
   X.fillStyle=c; X.font="800 34px "+F; X.fillText((ix.label||"").toUpperCase(),60+nw,294);
   const gx=46,gy=336,gw=W-92,gh=18;
@@ -236,11 +236,11 @@ function cardRisk(){
   X.lineWidth=3; X.strokeStyle="#0a0e13"; X.stroke();
   X.fillStyle="#5e6b78"; X.font="400 13px "+F; X.fillText("0 · cold",gx,gy+40);
   X.textAlign="right"; X.fillText("100 · mania",gx+gw,gy+40); X.textAlign="left";
-  const pill=[["valuation","Valuation"],["capitalFlows","Capital flows"],["adoption","Adoption"],["sentiment","Sentiment"],["systemicRisk","Systemic risk"]];
+  const pill=[["valuation","Valuation"],["capitalFlows","Market Concentration"],["adoption","Momentum & Technical"],["sentiment","Sentiment & Hype"],["systemicRisk","Systemic Risk"]];
   let px=46; const cw=(W-92)/5;
   pill.forEach(([k,nm])=>{
     X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText(nm.toUpperCase(),px,452);
-    X.fillStyle=riskColor(ix[k]); X.font="800 38px "+F; X.fillText(ix[k]==null?"—":String(ix[k]),px,496);
+    X.fillStyle=riskColor(ix[k]); X.font="800 38px "+F; X.fillText(ix[k]==null?"—":String(Math.round(ix[k])),px,496);
     px+=cw;
   });
   foot();
@@ -281,11 +281,11 @@ function cardSixty(){
   const ix=bubbleIx&&bubbleIx.index;
   if(ix){
     X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("AI BUBBLE RISK",46,196);
-    X.fillStyle=riskColor(ix.overall); X.font="800 70px "+F; X.fillText(String(ix.overall),46,262);
-    const nw=X.measureText(String(ix.overall)).width;
+    X.fillStyle=riskColor(ix.overall); X.font="800 70px "+F; X.fillText(String(Math.round(ix.overall)),46,262);
+    const nw=X.measureText(String(Math.round(ix.overall))).width;
     X.fillStyle="#8b97a5"; X.font="700 20px "+F; X.fillText("/100 · "+(ix.label||""),58+nw,236);
     const drv=pillarDriver(ix); X.fillStyle="#8b97a5"; X.font="400 16px "+F;
-    X.fillText("Top driver: "+(drv?drv.nm+" ("+drv.v+")":"—"),58+nw,260);
+    X.fillText("Top driver: "+(drv?drv.nm+" ("+Math.round(drv.v)+")":"—"),58+nw,260);
     const hist=(bubbleIx.history||[]).map(p=>p.v).filter(v=>v!=null).slice(-60);
     if(hist.length>1){ const mn=Math.min(...hist),mx=Math.max(...hist),rg=(mx-mn)||1, sx=46,sy=284,sw=360,sh=42;
       X.strokeStyle=riskColor(hist[hist.length-1]); X.lineWidth=2; X.beginPath();

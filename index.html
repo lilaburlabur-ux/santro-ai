@@ -959,8 +959,8 @@ function openTicker(sym){
 function riskColor(v){ if(v==null) return "#8895a4"; if(v<25) return "#22c55e"; if(v<45) return "#69cd91";
   if(v<60) return "#e0a73f"; if(v<80) return "#f05a6e"; return "#b91c1c"; }
 function pillarDriver(ix){
-  const P=[["valuation","Valuation"],["capitalFlows","Capital flows"],["adoption","Adoption"],
-           ["sentiment","Sentiment"],["systemicRisk","Systemic risk"]];
+  const P=[["valuation","Valuation"],["capitalFlows","Market Concentration"],["adoption","Momentum & Technical"],
+           ["sentiment","Sentiment & Hype"],["systemicRisk","Systemic Risk"]];
   let best=null; P.forEach(([k,nm])=>{ if(ix[k]!=null && (!best||ix[k]>best.v)) best={nm,v:ix[k]}; });
   return best; }
 function briefSpark(hist,w=150,h=30){
@@ -1000,18 +1000,18 @@ function renderBrief(){
     const drv=pillarDriver(ix);
     riskTile=`<div class="bt risk">
       <div class="k">AI bubble risk today</div>
-      <div class="top"><span class="num" style="color:${riskColor(ix.overall)}">${ix.overall}</span>
+      <div class="top"><span class="num" style="color:${riskColor(ix.overall)}">${Math.round(ix.overall)}</span>
         <span class="s">/100 · ${ix.label||""}</span>
         <span class="s ${aCls}" style="font-weight:700">${arrow} vs prev</span></div>
-      <div class="s">Top driver: ${drv?drv.nm+" ("+drv.v+")":"—"}</div>
+      <div class="s">Top driver: ${drv?drv.nm+" ("+Math.round(drv.v)+")":"—"}</div>
       <div class="spark">${briefSpark(hist)}</div>
       <a class="rsh" href="/share?card=risk">Share risk card ↗</a></div>`;
   } else {
     riskTile=`<div class="bt risk"><div class="k">AI bubble risk today</div><div class="s">Index feed connecting…</div></div>`;
   }
   let note;
-  if(ix && breadth>=58 && ix.overall>=58) note=`Broad green across the AI tape, but the bubble gauge is hot at ${ix.overall} — strength and froth at once.`;
-  else if(ix && breadth<=42 && ix.overall<45) note=`The tape is mostly red, yet the bubble gauge is calm at ${ix.overall} — fear without froth.`;
+  if(ix && breadth>=58 && ix.overall>=58) note=`Broad green across the AI tape, but the bubble gauge is hot at ${Math.round(ix.overall)} — strength and froth at once.`;
+  else if(ix && breadth<=42 && ix.overall<45) note=`The tape is mostly red, yet the bubble gauge is calm at ${Math.round(ix.overall)} — fear without froth.`;
   else if(nn && top && nn.ticker===top.ticker && Math.abs(top.change_pct)>6) note=`${top.ticker} leads the board with no clear catalyst — that's attention, not news.`;
   else if(strong && weak) note=`${strong.label} leads while ${weak.label} lags — rotation within the AI trade, not a one-way move.`;
   else note=`Mixed tape — no single signal dominates this session.`;
@@ -1200,7 +1200,7 @@ async function loadData(){
         const col=ix.overall<25?"#22c55e":ix.overall<45?"#69cd91":ix.overall<60?"#e0a73f":ix.overall<80?"#f05a6e":"#b91c1c";
         ts.innerHTML+=`<a class="ts-item ts-bubble" href="/bubble" title="AI Bubble metrics — open">`+
           `<span class="lbl">AI Bubble risk</span>`+
-          `<span class="val" style="color:${col}">${ix.overall}</span>`+
+          `<span class="val" style="color:${col}">${Math.round(ix.overall)}</span>`+
           `<span style="color:${col};font-weight:600">${ix.label||""}</span></a>`;
       }
     }

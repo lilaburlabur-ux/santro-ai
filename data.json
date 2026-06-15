@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-15T05:37:18+00:00",
-  "as_of_local": "2026-06-15 05:37:18 UTC",
+  "as_of_utc": "2026-06-15T05:52:06+00:00",
+  "as_of_local": "2026-06-15 05:52:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 1817728701095.418,
       "headlines": [
         {
+          "title": "Musk says SpaceX could bring $1 trillion in revenue by 2030",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/musk-says-spacex-could-bring-054636977.html",
+          "publisher": "Reuters",
+          "published": "2026-06-15T05:46:36Z"
+        },
+        {
           "title": "Broadcom (AVGO) Stock After Record Q2 And Cautious AI Guidance Is The Valuation Gap Widening Or Closing",
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-record-q2-001544323.html",
           "publisher": "Simply Wall St.",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-ai-xpv-platform-192815116.html",
           "publisher": "Insider Monkey",
           "published": "2026-06-14T19:28:15Z"
-        },
-        {
-          "title": "Jim Cramer Keeps The Faith in Broadcom (AVGO)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-keeps-faith-broadcom-190423633.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-14T19:04:23Z"
         }
       ]
     },
@@ -103,16 +103,16 @@
           "published": "2026-06-15T01:57:12Z"
         },
         {
+          "title": "Adobe CFO Quits to Join a Chipmaker. You Shouldn\u2019t Quit ADBE Stock.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-cfo-quits-join-chipmaker-162609896.html",
+          "publisher": "Barchart",
+          "published": "2026-06-14T16:26:09Z"
+        },
+        {
           "title": "Micron Stock is Now Close to Fair Value, But Shorting 2-Week Puts Yield 7.0%",
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-now-close-fair-133002250.html",
           "publisher": "Barchart",
           "published": "2026-06-14T13:30:02Z"
-        },
-        {
-          "title": "Wolfe Research Raises PT on Micron Technology (MU) Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wolfe-research-raises-pt-micron-111500843.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-14T11:15:00Z"
         }
       ]
     },
@@ -390,8 +390,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 7.21,
-          "price": 2305000.0,
+          "change_pct": 6.84,
+          "price": 2297000.0,
           "currency": "KRW"
         },
         {
@@ -399,8 +399,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 4.5,
-          "price": 337000.0,
+          "change_pct": 4.34,
+          "price": 336500.0,
           "currency": "KRW"
         },
         {
@@ -408,8 +408,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 11.92,
-          "price": 90880.0,
+          "change_pct": 10.84,
+          "price": 90000.0,
           "currency": "JPY"
         },
         {
@@ -444,8 +444,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 5.61,
-          "price": 395.0,
+          "change_pct": 5.75,
+          "price": 395.5,
           "currency": "TWD"
         },
         {
@@ -480,8 +480,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 7.21,
-        "price": 2305000.0,
+        "change_pct": 6.84,
+        "price": 2297000.0,
         "currency": "KRW"
       },
       {
@@ -489,8 +489,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 4.5,
-        "price": 337000.0,
+        "change_pct": 4.34,
+        "price": 336500.0,
         "currency": "KRW"
       },
       {
@@ -498,8 +498,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 11.92,
-        "price": 90880.0,
+        "change_pct": 10.84,
+        "price": 90000.0,
         "currency": "JPY"
       },
       {
@@ -534,8 +534,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 5.61,
-        "price": 395.0,
+        "change_pct": 5.75,
+        "price": 395.5,
         "currency": "TWD"
       },
       {
@@ -557,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 65718.0,
-      "change_pct": 2.01
+      "price": 65755.76,
+      "change_pct": 2.07
     },
     {
       "label": "Gold",
-      "price": 4351.7,
-      "change_pct": 3.24
+      "price": 4340.1,
+      "change_pct": 2.97
     },
     {
       "label": "Nasdaq100",

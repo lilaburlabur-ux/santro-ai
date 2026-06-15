@@ -1,43 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-15T00:55:09+00:00",
+  "as_of": "2026-06-15T08:08:25+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "SPCX",
-   "company": "SpaceX",
-   "move_pct": 19.22,
-   "price": 160.95,
-   "volume": 519234800,
-   "volume_vs_avg": "~0.0x",
-   "heat_score": 78,
-   "direction": "up",
-   "why": "Dow Jones Futures Rise, Oil Prices Dive As Trump Announces Iran Deal; SpaceX's Next Test",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-spacex/?src=A00220&yptr=yahoo",
-   "published": "2026-06-15T00:22:16Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 2,
-   "ticker": "ADBE",
-   "company": "Adobe Inc",
-   "move_pct": -6.76,
-   "price": 204.02,
-   "volume": 25030700,
-   "volume_vs_avg": "~5x",
-   "heat_score": 47,
-   "direction": "down",
-   "why": "Moving down 6.8% on ~5x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": "AI Applications & Data Software"
-  }
- ]
+ "hot_tickers": []
 }

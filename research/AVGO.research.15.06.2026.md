@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| SpaceX Surpassed Broadcom, Meta Platforms, and Tesla in Market Cap on Its IPO Day. Can It Take on Amazon's Market Cap Next? | Motley Fool | 2026-06-15 |
 | How Marvell Broke The Law Of Large Numbers | Trefis | 2026-06-15 |
 | Intel Draws Cramer Support | GuruFocus.com | 2026-06-15 |
 | The Console Cycle That Could Test Advanced Micro Stock | Trefis | 2026-06-15 |
-| Credo Technology Rides the AI Interconnect Upgrade Cycle | Zacks | 2026-06-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

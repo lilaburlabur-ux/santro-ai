@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| Qualcomm in talks to buy Tenstorrent, The Information reports | Reuters | 2026-06-15 |
 | How Marvell Broke The Law Of Large Numbers | Trefis | 2026-06-15 |
 | Quantum Stocks Jump as Growth Trade Revives | GuruFocus.com | 2026-06-15 |
 | The Console Cycle That Could Test Advanced Micro Stock | Trefis | 2026-06-15 |
-| Stocks Soar on US-Iran Peace Agreement | Barchart | 2026-06-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

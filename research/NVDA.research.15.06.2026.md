@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia joins the AI funding wave as it plans a $20B bond sale: A closer look | Yahoo Finance Video | 2026-06-15 |
-| Nvidia Stock Retakes Key Level As Chipmaker Plans Bond Offering | Investor's Business Daily | 2026-06-15 |
-| SpaceX Overtakes Palantir as Wall Street's New Valuation King | GuruFocus.com | 2026-06-15 |
-| This Financial Bellwether Bankrolls A Breakout | Investor's Business Daily | 2026-06-15 |
+| How SpaceX's IPO made millions for JPMorgan, Goldman Sachs, & other big banks | Yahoo Finance Video | 2026-06-15 |
+| Why the biggest "Magnificent 7" stocks have one giant headwind coming right at them | Yahoo Finance | 2026-06-15 |
+| Dow Jones Futures: Trump, Iran Deal Spark Stock Market Surge; Nvidia, Micron, Sandisk SpaceX Are Big Winners | Investor's Business Daily | 2026-06-15 |
+| ARK Venture Fund backs AI GPU marketplace startup Hydra Host | Investing.com | 2026-06-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

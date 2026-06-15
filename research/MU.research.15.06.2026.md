@@ -37,9 +37,9 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Headline | Source | Date |
 |---|---|---|
 | Chip stocks surge, oil slides closer to $80 on US-Iran deal, Fox to acquire Roku | Yahoo Finance Video | 2026-06-15 |
-| Micron Stock Pops as Memory-Chip Shortage Drives Gains | Barrons.com | 2026-06-15 |
-| Micron Rallies as TD Cowen Lifts Price Target 127% Ahead of Earnings | GuruFocus.com | 2026-06-15 |
-| Stocks to Watch: SpaceX, Micron Technology, Remy Cointreau | The Wall Street Journal | 2026-06-15 |
+| Dow Jones Futures: Trump, Iran Deal Spark Stock Market Surge; Nvidia, Micron, Sandisk SpaceX Are Big Winners | Investor's Business Daily | 2026-06-15 |
+| Stock Market Today: Dow Pops On Trump-Iran Deal; Elon Musk's SpaceX Rockets, Tesla Does This | Investor's Business Daily | 2026-06-15 |
+| Micron, AMD Lead Chip Stocks Rally On U.S.-Iran Deal | Investor's Business Daily | 2026-06-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

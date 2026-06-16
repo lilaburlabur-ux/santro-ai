@@ -38,8 +38,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 |---|---|---|
 | Western Digital stock jumps as AI trade reignites | Yahoo Finance | 2026-06-16 |
 | Trending: Robinhood cuts 10% of workforce, Yum Brands sells Pizza Hut, Qualcomm's AI deal | Yahoo Finance Video | 2026-06-16 |
+| Stocks to Watch: SpaceX, JPMorgan, AMD, Robinhood | The Wall Street Journal | 2026-06-16 |
 | HPE Flexes Juniper Muscles In AI Networking At Discover Event | Investor's Business Daily | 2026-06-16 |
-| AMD and Rackspace Sign 30 MW AI Compute Deal for Regulated Enterprises | GuruFocus.com | 2026-06-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

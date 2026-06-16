@@ -38,8 +38,8 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 |---|---|---|
 | Microsoft reveals new Surface laptops starting at $1,499 | Yahoo Finance Video | 2026-06-16 |
 | SNAP Stock Drops — Snap Launches AR Smart Glasses, But Retail Is ‘Skeptical’ On Over $2,000 Price Tag | Stocktwits | 2026-06-16 |
+| Stocks to Watch: SpaceX, JPMorgan, AMD, Robinhood | The Wall Street Journal | 2026-06-16 |
 | Qualcomm Stock Jumps -- CEO Unveils Bold AI Wearables Push | GuruFocus.com | 2026-06-16 |
-| SpaceX, Western Digital, Moderna, and More Stocks That Explain Today’s Market | Barrons.com | 2026-06-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

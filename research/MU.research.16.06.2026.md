@@ -37,9 +37,9 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Headline | Source | Date |
 |---|---|---|
 | Western Digital stock jumps as AI trade reignites | Yahoo Finance | 2026-06-16 |
+| Stocks to Watch: SpaceX, JPMorgan, AMD, Robinhood | The Wall Street Journal | 2026-06-16 |
 | Veteran Analyst Firm Sees 40% More Upside for Micron Stock | GuruFocus.com | 2026-06-16 |
 | Micron Technology Inc (MU) Gets Nvidia Nod For AI Memory Supply | Insider Monkey | 2026-06-16 |
-| SpaceX, Western Digital, Moderna, and More Stocks That Explain Today’s Market | Barrons.com | 2026-06-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

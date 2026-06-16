@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-16T03:29:47+00:00",
-  "as_of_local": "2026-06-16 03:29:47 UTC",
+  "as_of_utc": "2026-06-16T03:34:53+00:00",
+  "as_of_local": "2026-06-16 03:34:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 1874201154815.3062,
       "headlines": [
         {
+          "title": "Broadcom Ties AI Infrastructure To Spring And Java Security Overhaul",
+          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-ties-ai-infrastructure-spring-032109331.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-06-16T03:21:09Z"
+        },
+        {
           "title": "Should Broadcom\u2019s AI XPV Platform and Debt Tenders Reshape the Core Thesis for AVGO Investors?",
           "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-ai-xpv-platform-debt-021602885.html",
           "publisher": "Simply Wall St.",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/intel-gets-170-billion-ai-011700923.html",
           "publisher": "TheStreet",
           "published": "2026-06-16T01:17:00Z"
-        },
-        {
-          "title": "SpaceX Market Cap Breaches $2.5 Trillion: Goes Past Tesla, TSMC And Broadcom",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-marketcap-breaches-2-5t-003334062.html",
-          "publisher": "Stocktwits",
-          "published": "2026-06-16T00:33:34Z"
         }
       ]
     },
@@ -153,6 +153,12 @@
       "market_cap": 642624363067.627,
       "headlines": [
         {
+          "title": "Why SpaceX Stock Skyrocketed Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-spacex-stock-skyrocketed-today-031725979.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-16T03:17:25Z"
+        },
+        {
           "title": "Why Palantir Stock Soared Today",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-stock-soared-today-014858049.html",
           "publisher": "Motley Fool",
@@ -163,12 +169,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/intel-gets-170-billion-ai-011700923.html",
           "publisher": "TheStreet",
           "published": "2026-06-16T01:17:00Z"
-        },
-        {
-          "title": "Google Just Went All in on Its Deal With Intel",
-          "url": "https://finance.yahoo.com/technology/ai/articles/google-just-went-deal-intel-004510802.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-16T00:45:10Z"
         }
       ]
     },
@@ -237,6 +237,12 @@
       "market_cap": 232733737426.7578,
       "headlines": [
         {
+          "title": "Qualcomm\u2019s Reported Tenstorrent Talks Test Lofty Valuation And AI Ambitions",
+          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-reported-tenstorrent-talks-test-032026695.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-06-16T03:20:26Z"
+        },
+        {
           "title": "QCOM Stock Jumps Over 4% \u2014 Qualcomm Reportedly Eyes Tenstorrent Acquisition To Power AI Chip Ambitions",
           "url": "https://finance.yahoo.com/technology/ai/articles/qcom-stock-jumps-over-4-224537243.html",
           "publisher": "Stocktwits",
@@ -247,12 +253,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-qualcomm-talks-acquire-213329976.html",
           "publisher": "MT Newswires",
           "published": "2026-06-15T21:33:29Z"
-        },
-        {
-          "title": "Qualcomm in talks to buy Tenstorrent, The Information reports",
-          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-talks-buy-tenstorrent-information-204745141.html",
-          "publisher": "Reuters",
-          "published": "2026-06-15T20:47:45Z"
         }
       ]
     },
@@ -390,8 +390,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.88,
-          "price": 2354000.0,
+          "change_pct": 2.36,
+          "price": 2342000.0,
           "currency": "KRW"
         },
         {
@@ -399,8 +399,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.82,
-          "price": 339750.0,
+          "change_pct": 0.67,
+          "price": 339250.0,
           "currency": "KRW"
         },
         {
@@ -444,8 +444,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 8.22,
-          "price": 428.0,
+          "change_pct": 7.59,
+          "price": 425.5,
           "currency": "TWD"
         },
         {
@@ -453,8 +453,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 5.03,
-          "price": 198.5,
+          "change_pct": 4.76,
+          "price": 198.0,
           "currency": "TWD"
         }
       ]
@@ -480,8 +480,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.88,
-        "price": 2354000.0,
+        "change_pct": 2.36,
+        "price": 2342000.0,
         "currency": "KRW"
       },
       {
@@ -489,8 +489,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.82,
-        "price": 339750.0,
+        "change_pct": 0.67,
+        "price": 339250.0,
         "currency": "KRW"
       },
       {
@@ -534,8 +534,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 8.22,
-        "price": 428.0,
+        "change_pct": 7.59,
+        "price": 425.5,
         "currency": "TWD"
       },
       {
@@ -543,8 +543,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 5.03,
-        "price": 198.5,
+        "change_pct": 4.76,
+        "price": 198.0,
         "currency": "TWD"
       }
     ]
@@ -557,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 65935.8,
-      "change_pct": 0.34
+      "price": 66002.51,
+      "change_pct": 0.44
     },
     {
       "label": "Gold",
-      "price": 4336.6,
-      "change_pct": 2.88
+      "price": 4339.0,
+      "change_pct": 2.94
     },
     {
       "label": "Nasdaq100",

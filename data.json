@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-16T09:22:52+00:00",
-  "as_of_local": "2026-06-16 09:22:52 UTC",
+  "as_of_utc": "2026-06-16T09:28:26+00:00",
+  "as_of_local": "2026-06-16 09:28:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -206,8 +206,14 @@
       "price": 279.7,
       "previous_close": 280.71,
       "change_pct": -0.36,
-      "market_cap": 270440864076.24,
+      "market_cap": 270208224000.0,
       "headlines": [
+        {
+          "title": "MRVL Stock Inches Lower Premarket: Outgoing CFO Files To Sell $65M Shares",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mrvl-stock-inches-lower-premarket-085846387.html",
+          "publisher": "Stocktwits",
+          "published": "2026-06-16T08:58:46Z"
+        },
         {
           "title": "Intel gets a $170 billion AI reason to matter again",
           "url": "https://finance.yahoo.com/technology/ai/articles/intel-gets-170-billion-ai-011700923.html",
@@ -219,12 +225,6 @@
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-15-2026/card/stocks-to-watch-spacex-micron-technology-remy-cointreau-I52ZlHTefBMgyZlLA2cF?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-06-15T20:46:17Z"
-        },
-        {
-          "title": "Stock Market Today: Dow Pops On Trump-Iran Deal; Elon Musk's SpaceX Rockets, Tesla Does This",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-deal-oil-prices/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-06-15T20:43:16Z"
         }
       ]
     },
@@ -557,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 66594.01,
-      "change_pct": 0.46
+      "price": 66577.31,
+      "change_pct": 0.43
     },
     {
       "label": "Gold",
-      "price": 4368.6,
-      "change_pct": 0.94
+      "price": 4365.7,
+      "change_pct": 0.87
     },
     {
       "label": "Nasdaq100",

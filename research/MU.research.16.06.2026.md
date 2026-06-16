@@ -4,7 +4,7 @@ Signed file: `MU.research.16.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $1,046.94 (2026-06-16, ~15-min delayed) |
+| Current price | $1,049.30 (2026-06-16, ~15-min delayed) |
 | Market cap | $1.18T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,10 +15,10 @@ Signed file: `MU.research.16.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +803.29%; price +171.07% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -3.02% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +805.33%; price +171.67% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -2.80% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 41.49%, revenue growth 196.30%. |
-| Value attractiveness | Reasonable | Forward P/E 9.20, EV/Sales 21.05. |
+| Value attractiveness | Reasonable | Forward P/E 9.22, EV/Sales 21.05. |
 | Risk level | High | Beta 2.17, ATR 7.4% of price, short float 3.34%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -44,22 +44,22 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $1,046.94; 52w high $1,079.57 (-3.02%); 52w low $104.73 (+899.67%) |
-| Trend | +171.07% vs SMA200, +51.45% vs SMA50, +15.14% vs SMA20 |
-| Momentum | RSI(14) 64.5 (neutral) |
+| Price vs 52-week range | Close $1,049.30; 52w high $1,079.57 (-2.80%); 52w low $104.73 (+901.93%) |
+| Trend | +171.67% vs SMA200, +51.78% vs SMA50, +15.39% vs SMA20 |
+| Momentum | RSI(14) 64.7 (neutral) |
 | Volatility | ATR(14) 77.60 (~7.4% of price); beta 2.17 |
-| Setup perspective | -3.02% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -2.80% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +10.3% |
-| Month | +34.9% |
-| Quarter | +137.1% |
-| Half Y | +305.4% |
-| 1Y | +803.3% |
-| YTD | +232.1% |
+| Week | +10.5% |
+| Month | +35.2% |
+| Quarter | +137.6% |
+| Half Y | +306.3% |
+| 1Y | +805.3% |
+| YTD | +232.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,7 +67,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $58.12B | Revenue growth 196.30% y/y |
 | Profitability | Gross 58.44%, operating 67.62%, net 41.49% | ROA 20.14%, ROE 39.82% |
 | Balance sheet | Cash $14.59B, debt $10.80B | Current ratio 2.90, debt/equity 14.90 |
-| Valuation | P/E 49.34, forward P/E 9.20, P/S 20.31, P/B 16.30 | EV/Sales 21.05, EV/EBITDA 33.24 |
+| Valuation | P/E 49.47, forward P/E 9.22, P/S 20.37, P/B 16.34 | EV/Sales 21.05, EV/EBITDA 33.24 |
 | Growth expectations | Earnings growth 756.00%, EPS q/q 770.80% | Analyst mean target $866.60 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $1,046.94 | EV/Sales | 21.05 |
+| Price | $1,049.30 | EV/Sales | 21.05 |
 | Market cap | $1.18T | EV/EBITDA | 33.24 |
 | Beta | 2.17 | Gross margin | 58.44% |
-| RSI(14) | 64.5 | Operating margin | 67.62% |
+| RSI(14) | 64.7 | Operating margin | 67.62% |
 | ATR(14) | 77.60 | Profit margin | 41.49% |
-| SMA20 dist | +15.14% | ROA | 20.14% |
-| SMA50 dist | +51.45% | ROE | 39.82% |
-| SMA200 dist | +171.07% | Revenue (ttm) | $58.12B |
+| SMA20 dist | +15.39% | ROA | 20.14% |
+| SMA50 dist | +51.78% | ROE | 39.82% |
+| SMA200 dist | +171.67% | Revenue (ttm) | $58.12B |
 | 52W high | $1,079.57 | Revenue growth y/y | 196.30% |
 | 52W low | $104.73 | Inst. ownership | 81.61% |
-| P/E (ttm) | 49.34 | Insider ownership | 0.25% |
-| Forward P/E | 9.20 | Short float | 3.34% |
+| P/E (ttm) | 49.47 | Insider ownership | 0.25% |
+| Forward P/E | 9.22 | Short float | 3.34% |
 | PEG (trailing) | 0.37 | Avg volume | 51,225,522 |
-| P/S | 20.31 | Employees | 53,000 |
-| P/B | 16.30 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/S | 20.37 | Employees | 53,000 |
+| P/B | 16.34 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

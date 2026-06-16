@@ -105,7 +105,7 @@
     <div class="gallery-label">What each card shows</div>
     <ul class="card-desc">
       <li><b>Today's AI movers</b> — a share-ready snapshot of the strongest AI tickers by attention and price move.</li>
-      <li><b>Hot tickers</b> — the names getting the most attention right now, ranked by heat (move + volume).</li>
+      <li><b>Hot tickers</b> — the names getting the most attention, with what's moving the standout (reason, source, heat) plus the rest of the scan.</li>
       <li><b>AI bubble risk</b> — the daily AI bubble-risk score (0–100) in one image.</li>
       <li><b>Winners / losers</b> — the day's top AI gainers and losers, side by side.</li>
       <li><b>AI crypto movers</b> — the top AI crypto tokens by 24h move.</li>
@@ -259,16 +259,43 @@ function cardRisk(){
   foot();
 }
 function cardHot(){
-  const rows=((hot&&hot.hot_tickers)||[]).slice(0,8);
+  bg(); frame("Hot tickers");
+  const rows=((hot&&hot.hot_tickers)||[]);
   if(!rows.length){
-    bg(); frame("Hot tickers"); bigTitle("Today's hot tickers");
+    bigTitle("Today's hot tickers");
     X.fillStyle="#8b97a5"; X.font="400 22px "+F;
-    X.fillText("The tape is quiet — no hot tickers this scan.",46,212); foot(); return;
+    X.fillText("The tape is quiet — no hot tickers this scan.",46,214); foot(); return;
   }
-  listCard("Hot tickers","Today's hot tickers",rows,
-    r=>r.ticker,
-    r=>"Heat "+(r.heat_score!=null?r.heat_score:"—")+((r.sector||r.company)?" · "+String(r.sector||r.company).split(":")[0].slice(0,22):""),
-    r=>r.move_pct||0);
+  const t=rows[0], up=(t.move_pct||0)>=0, col=up?"#22c55e":"#f0596e";
+  // featured "attention magnet" — the top hot name, with the full picture
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("ATTENTION MAGNET",46,150);
+  X.fillStyle="#e7edf3"; X.font="800 60px "+F; X.fillText(t.ticker,44,212);
+  const tw=X.measureText(t.ticker).width;
+  X.fillStyle=col; X.font="800 38px "+F; X.fillText(fmtPct(t.move_pct),66+tw,208);
+  const pw=X.measureText(fmtPct(t.move_pct)).width;
+  X.fillStyle="#e0a73f"; X.font="700 19px "+F; X.fillText("Heat "+(t.heat_score!=null?t.heat_score:"—"),66+tw+pw+26,206);
+  X.fillStyle="#8b97a5"; X.font="400 18px "+F;
+  X.fillText([(t.price!=null?"$"+t.price:""),(t.sector?String(t.sector).split(":")[0]:""),(t.company||"")].filter(Boolean).join("  ·  ").slice(0,90),46,246);
+  X.fillStyle="#5e6b78"; X.font="700 14px "+F; X.fillText("WHAT'S MOVING IT",46,288);
+  X.fillStyle="#e7edf3"; X.font="600 28px "+F;
+  const ry=wrap(t.why||"—",46,326,W-92,38,3);
+  const dom=t.source_url?domainOf(t.source_url):(t.catalyst_type==="no_news_mover"?"no clear catalyst — attention, not news":"");
+  const meta=[(t.catalyst_type||"").replace(/_/g," "),dom,t.published?timeAgo(t.published):""].filter(Boolean).join("   ·   ");
+  if(meta){ X.fillStyle="#8b97a5"; X.font="400 17px "+F; X.fillText(meta,46,Math.min(ry+34,426)); }
+  // also hot — the rest of the scan
+  if(rows.length>1){
+    X.strokeStyle="#1d2733"; X.lineWidth=2; X.beginPath(); X.moveTo(46,468); X.lineTo(W-46,468); X.stroke();
+    X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("ALSO HOT",46,500);
+    let x=168; const y=502;
+    rows.slice(1,5).forEach(r=>{
+      const c2=(r.move_pct||0)>=0?"#22c55e":"#f0596e";
+      X.fillStyle="#e7edf3"; X.font="700 21px "+F; X.fillText(r.ticker,x,y);
+      const w=X.measureText(r.ticker+" ").width;
+      X.fillStyle=c2; X.fillText(fmtPct(r.move_pct),x+w,y);
+      x += w + X.measureText(fmtPct(r.move_pct)).width + 30;
+    });
+  }
+  foot();
 }
 
 function cardSixty(){

@@ -6,7 +6,7 @@ name: Refresh market data
 # displayed ticker — AI Universe + NVIDIA Ecosystem (update_quotes.py).
 on:
   schedule:
-    - cron: "*/5 8-23 * * 1-5"   # in-market 5-min cadence (lazy backup to pulse)
+    - cron: "*/5 8-23 * * 1-5"   # every 5 min across the extended US session
     - cron: "*/15 * * * *"        # 24/7 15-min floor so BTC in the tape stays live
   workflow_dispatch:
 

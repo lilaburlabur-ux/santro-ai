@@ -2,6 +2,8 @@ name: Hot tickers refresh
 
 # Quantitative hot-tickers scan every 15 min across the full extended session
 # (premarket 4:00 ET through after-hours 20:00 ET), session-aware moves.
+# Also regenerates the session-aware Key Takeaways from the latest data so the
+# homepage panel stays current between universe rebuilds.
 on:
   schedule:
     - cron: "*/15 8-23 * * 1-5"
@@ -32,11 +34,14 @@ jobs:
       - name: Scan for hot tickers
         run: python update_hot.py
 
+      - name: Generate Key Takeaways (session-aware, from live data)
+        run: python update_takeaways.py || true
+
       - name: Commit and publish
         run: |
           git config user.name "santro-hot-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add hot_tickers.json
+          git add hot_tickers.json takeaways/takeaways.json
           if ! git diff --cached --quiet; then
             git commit -m "hot tickers $(date -u +'%Y-%m-%d %H:%M UTC')"
             for i in $(seq 1 6); do

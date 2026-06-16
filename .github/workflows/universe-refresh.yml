@@ -48,14 +48,11 @@ jobs:
       - name: Refresh AI IPOs
         run: python update_ipos.py || true
 
-      - name: Generate Key Takeaways (session-aware, from live data)
-        run: python update_takeaways.py || true
-
       - name: Commit and publish
         run: |
           git config user.name "santro-universe-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add universe.json ecosystem.json assets/og-map.png assets/og-crypto.png ipos.json takeaways/takeaways.json
+          git add universe.json ecosystem.json assets/og-map.png assets/og-crypto.png ipos.json
           if ! git diff --cached --quiet; then
             git commit -m "universe refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
             for i in $(seq 1 6); do

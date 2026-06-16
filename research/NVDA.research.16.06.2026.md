@@ -4,8 +4,8 @@ Signed file: `NVDA.research.16.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $209.70 (2026-06-16, ~15-min delayed) |
-| Market cap | $5.08T |
+| Current price | $207.41 (2026-06-16, ~15-min delayed) |
+| Market cap | $5.02T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `NVDA.research.16.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +44.81%; price +10.85% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -10.94% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +46.29%; price +9.55% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.91% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 62.97%, revenue growth 85.20%. |
-| Value attractiveness | Reasonable | Forward P/E 16.48, EV/Sales 20.12. |
+| Value attractiveness | Reasonable | Forward P/E 16.30, EV/Sales 20.12. |
 | Risk level | High | Beta 2.20, ATR 3.8% of price, short float 1.22%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -36,30 +36,30 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| SpaceX becomes retail's biggest IPO trade: Chart of the Day | Yahoo Finance | 2026-06-16 |
-| Enbridge Nearing 52-Week High: Will It Soar Higher? | 24/7 Wall St. | 2026-06-16 |
-| Genghis Khan Was Worth $120 Trillion | 24/7 Wall St. | 2026-06-16 |
-| After a 45% Rally, This Post-Split Stock May Be Sending a Warning Signal | 24/7 Wall St. | 2026-06-16 |
+| How SpaceX mania made Musk more money in 1 day than 'Bill Gates' entire net worth' | Yahoo Finance Video | 2026-06-16 |
+| XRP Holders With 1 Million Coins Now Own 74% of the Supply | 24/7 Wall St. | 2026-06-16 |
+| Here's What's Behind SoFi's Big Decline -- and What You Should Do About It | Motley Fool | 2026-06-16 |
+| The Pentagon Is Spending $500 Million to Break China’s Rare Earth Grip | Moby | 2026-06-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $209.70; 52w high $235.47 (-10.94%); 52w low $141.78 (+47.90%) |
-| Trend | +10.85% vs SMA200, +1.13% vs SMA50, -1.87% vs SMA20 |
-| Momentum | RSI(14) 49.3 (neutral) |
-| Volatility | ATR(14) 7.90 (~3.8% of price); beta 2.20 |
-| Setup perspective | -10.94% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $207.41; 52w high $235.47 (-11.91%); 52w low $143.66 (+44.38%) |
+| Trend | +9.55% vs SMA200, -0.29% vs SMA50, -2.67% vs SMA20 |
+| Momentum | RSI(14) 47.5 (neutral) |
+| Volatility | ATR(14) 7.79 (~3.8% of price); beta 2.20 |
+| Setup perspective | -11.91% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.5% |
-| Month | -10.9% |
-| Quarter | +14.6% |
-| Half Y | +16.0% |
-| 1Y | +44.8% |
-| YTD | +11.2% |
+| Week | -0.4% |
+| Month | -7.8% |
+| Quarter | +14.1% |
+| Half Y | +18.7% |
+| 1Y | +46.3% |
+| YTD | +10.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,7 +67,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $253.49B | Revenue growth 85.20% y/y |
 | Profitability | Gross 74.14%, operating 65.60%, net 62.97% | ROA 52.73%, ROE 114.29% |
 | Balance sheet | Cash $53.17B, debt $12.81B | Current ratio 3.44, debt/equity 6.55 |
-| Valuation | P/E 32.16, forward P/E 16.48, P/S 20.04, P/B 25.99 | EV/Sales 20.12, EV/EBITDA 30.82 |
+| Valuation | P/E 31.81, forward P/E 16.30, P/S 19.82, P/B 25.70 | EV/Sales 20.12, EV/EBITDA 30.82 |
 | Growth expectations | Earnings growth 214.50%, EPS q/q 210.60% | Analyst mean target $298.93 (59 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,21 +109,21 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $209.70 | EV/Sales | 20.12 |
-| Market cap | $5.08T | EV/EBITDA | 30.82 |
+| Price | $207.41 | EV/Sales | 20.12 |
+| Market cap | $5.02T | EV/EBITDA | 30.82 |
 | Beta | 2.20 | Gross margin | 74.14% |
-| RSI(14) | 49.3 | Operating margin | 65.60% |
-| ATR(14) | 7.90 | Profit margin | 62.97% |
-| SMA20 dist | -1.87% | ROA | 52.73% |
-| SMA50 dist | +1.13% | ROE | 114.29% |
-| SMA200 dist | +10.85% | Revenue (ttm) | $253.49B |
+| RSI(14) | 47.5 | Operating margin | 65.60% |
+| ATR(14) | 7.79 | Profit margin | 62.97% |
+| SMA20 dist | -2.67% | ROA | 52.73% |
+| SMA50 dist | -0.29% | ROE | 114.29% |
+| SMA200 dist | +9.55% | Revenue (ttm) | $253.49B |
 | 52W high | $235.47 | Revenue growth y/y | 85.20% |
-| 52W low | $141.78 | Inst. ownership | 70.87% |
-| P/E (ttm) | 32.16 | Insider ownership | 3.98% |
-| Forward P/E | 16.48 | Short float | 1.22% |
+| 52W low | $143.66 | Inst. ownership | 70.87% |
+| P/E (ttm) | 31.81 | Insider ownership | 3.98% |
+| Forward P/E | 16.30 | Short float | 1.22% |
 | PEG (trailing) | 0.65 | Avg volume | 164,287,125 |
-| P/S | 20.04 | Employees | 42,000 |
-| P/B | 25.99 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/S | 19.82 | Employees | 42,000 |
+| P/B | 25.70 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

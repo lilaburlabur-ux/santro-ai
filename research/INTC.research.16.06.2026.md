@@ -4,8 +4,8 @@ Signed file: `INTC.research.16.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $120.39 (2026-06-16, ~15-min delayed) |
-| Market cap | $604.93B |
+| Current price | $117.05 (2026-06-16, ~15-min delayed) |
+| Market cap | $588.29B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, weak fundamentals, value: low (expensive), risk: high. |
@@ -15,11 +15,11 @@ Signed file: `INTC.research.16.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +479.63%; price +123.02% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -6.99% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +481.18%; price +114.85% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -9.57% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-5.90%). |
-| Value attractiveness | Low (expensive) | Forward P/E 78.07, EV/Sales 12.43. |
-| Risk level | High | Beta 2.23, ATR 7.9% of price, short float 2.69%. |
+| Value attractiveness | Low (expensive) | Forward P/E 75.93, EV/Sales 12.43. |
+| Risk level | High | Beta 2.23, ATR 8.2% of price, short float 2.69%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: low (expensive), risk: high.
 
@@ -36,30 +36,30 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
+| Microsoft reveals new Surface laptops starting at $1,499 | Yahoo Finance Video | 2026-06-16 |
 | Trending: Robinhood cuts 10% of workforce, Yum Brands sells Pizza Hut, Qualcomm's AI deal | Yahoo Finance Video | 2026-06-16 |
-| Investors: Tomorrow Will Be a Critical Day for the Stock Market. Here's What You Need to Know. | Motley Fool | 2026-06-16 |
-| VOOG vs. MGK: Which Vanguard Growth ETF Is a Better Buy? | Motley Fool | 2026-06-16 |
-| Why Does Intuitive Machines Stock Keep Going Down? | Motley Fool | 2026-06-16 |
+| Here's What's Behind SoFi's Big Decline -- and What You Should Do About It | Motley Fool | 2026-06-16 |
+| SpaceX Is Now Bigger Than Amazon and Closing in on Microsoft. Here's How to Think About the Valuation. | Motley Fool | 2026-06-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $120.39; 52w high $129.44 (-6.99%); 52w low $19.31 (+523.46%) |
-| Trend | +123.02% vs SMA200, +24.00% vs SMA50, +5.36% vs SMA20 |
-| Momentum | RSI(14) 58.6 (neutral) |
-| Volatility | ATR(14) 9.56 (~7.9% of price); beta 2.23 |
-| Setup perspective | -6.99% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $117.05; 52w high $129.44 (-9.57%); 52w low $19.31 (+506.16%) |
+| Trend | +114.85% vs SMA200, +18.76% vs SMA50, +1.71% vs SMA20 |
+| Momentum | RSI(14) 54.8 (neutral) |
+| Volatility | ATR(14) 9.55 (~8.2% of price); beta 2.23 |
+| Setup perspective | -9.57% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +9.2% |
-| Month | +3.8% |
-| Quarter | +163.1% |
-| Half Y | +204.7% |
-| 1Y | +479.6% |
-| YTD | +205.7% |
+| Week | +8.5% |
+| Month | +7.6% |
+| Quarter | +165.7% |
+| Half Y | +209.6% |
+| 1Y | +481.2% |
+| YTD | +197.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,7 +67,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $53.76B | Revenue growth 7.20% y/y |
 | Profitability | Gross 37.20%, operating 6.88%, net -5.90% | ROA 0.63%, ROE -2.91% |
 | Balance sheet | Cash $32.79B, debt $45.03B | Current ratio 2.31, debt/equity 36.03 |
-| Valuation | P/E —, forward P/E 78.07, P/S 11.25, P/B 5.43 | EV/Sales 12.43, EV/EBITDA 47.16 |
+| Valuation | P/E —, forward P/E 75.93, P/S 10.94, P/B 5.28 | EV/Sales 12.43, EV/EBITDA 47.16 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $93.12 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -94,10 +94,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Primecap Management Company | 75,761,968 | 1.51% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 78.07, EV/Sales 12.43. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.23, ATR 7.9% of price, short float 2.69%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 75.93, EV/Sales 12.43. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.23, ATR 8.2% of price, short float 2.69%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
-- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -112,21 +111,21 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $120.39 | EV/Sales | 12.43 |
-| Market cap | $604.93B | EV/EBITDA | 47.16 |
+| Price | $117.05 | EV/Sales | 12.43 |
+| Market cap | $588.29B | EV/EBITDA | 47.16 |
 | Beta | 2.23 | Gross margin | 37.20% |
-| RSI(14) | 58.6 | Operating margin | 6.88% |
-| ATR(14) | 9.56 | Profit margin | -5.90% |
-| SMA20 dist | +5.36% | ROA | 0.63% |
-| SMA50 dist | +24.00% | ROE | -2.91% |
-| SMA200 dist | +123.02% | Revenue (ttm) | $53.76B |
+| RSI(14) | 54.8 | Operating margin | 6.88% |
+| ATR(14) | 9.55 | Profit margin | -5.90% |
+| SMA20 dist | +1.71% | ROA | 0.63% |
+| SMA50 dist | +18.76% | ROE | -2.91% |
+| SMA200 dist | +114.85% | Revenue (ttm) | $53.76B |
 | 52W high | $129.44 | Revenue growth y/y | 7.20% |
 | 52W low | $19.31 | Inst. ownership | 64.05% |
 | P/E (ttm) | — | Insider ownership | 14.72% |
-| Forward P/E | 78.07 | Short float | 2.69% |
+| Forward P/E | 75.93 | Short float | 2.69% |
 | PEG (trailing) | — | Avg volume | 129,582,479 |
-| P/S | 11.25 | Employees | 85,100 |
-| P/B | 5.43 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/S | 10.94 | Employees | 85,100 |
+| P/B | 5.28 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

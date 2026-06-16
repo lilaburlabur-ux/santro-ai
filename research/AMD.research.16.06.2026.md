@@ -4,8 +4,8 @@ Signed file: `AMD.research.16.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $523.85 (2026-06-16, ~15-min delayed) |
-| Market cap | $854.20B |
+| Current price | $507.29 (2026-06-16, ~15-min delayed) |
+| Market cap | $827.19B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
@@ -15,11 +15,11 @@ Signed file: `AMD.research.16.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +342.07%; price +104.86% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -3.44% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +336.72%; price +96.99% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -7.30% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.37%, revenue growth 37.80%. |
-| Value attractiveness | Low (expensive) | Forward P/E 39.98, EV/Sales 23.60. |
-| Risk level | High | Beta 2.49, ATR 6.3% of price, short float 2.71%. |
+| Value attractiveness | Low (expensive) | Forward P/E 38.71, EV/Sales 23.60. |
+| Risk level | High | Beta 2.49, ATR 6.7% of price, short float 2.71%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: low (expensive), risk: high.
 
@@ -36,30 +36,30 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Western Digital stock jumps as AI trade reignites | Yahoo Finance | 2026-06-16 |
 | Trending: Robinhood cuts 10% of workforce, Yum Brands sells Pizza Hut, Qualcomm's AI deal | Yahoo Finance Video | 2026-06-16 |
-| Cathie Wood's ARKK Cuts BMNR Stake On Bitmine's Holdings Pop, Joins Trims Of Roku, Tesla, AMD In No-Buy Monday | Stocktwits | 2026-06-16 |
-| Why This AI Data Center Stock Is Surging on an AMD Partnership | Barrons.com | 2026-06-16 |
-| Qualcomm Stock Rises Ahead of Fresh Target Catalyst | Barrons.com | 2026-06-16 |
+| HPE Flexes Juniper Muscles In AI Networking At Discover Event | Investor's Business Daily | 2026-06-16 |
+| AMD and Rackspace Sign 30 MW AI Compute Deal for Regulated Enterprises | GuruFocus.com | 2026-06-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $523.85; 52w high $542.52 (-3.44%); 52w low $116.16 (+350.98%) |
-| Trend | +104.86% vs SMA200, +33.33% vs SMA50, +7.58% vs SMA20 |
-| Momentum | RSI(14) 62.2 (neutral) |
-| Volatility | ATR(14) 32.75 (~6.3% of price); beta 2.49 |
-| Setup perspective | -3.44% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $507.29; 52w high $547.26 (-7.30%); 52w low $126.39 (+301.37%) |
+| Trend | +96.99% vs SMA200, +27.10% vs SMA50, +3.01% vs SMA20 |
+| Momentum | RSI(14) 56.9 (neutral) |
+| Volatility | ATR(14) 34.01 (~6.7% of price); beta 2.49 |
+| Setup perspective | -7.30% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +6.8% |
-| Month | +16.5% |
-| Quarter | +166.5% |
-| Half Y | +136.6% |
-| 1Y | +342.1% |
-| YTD | +134.4% |
+| Week | +6.7% |
+| Month | +19.6% |
+| Quarter | +158.4% |
+| Half Y | +140.7% |
+| 1Y | +336.7% |
+| YTD | +127.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,7 +67,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Revenue (ttm) | $37.45B | Revenue growth 37.80% y/y |
 | Profitability | Gross 53.06%, operating 14.40%, net 13.37% | ROA 3.65%, ROE 8.06% |
 | Balance sheet | Cash $12.35B, debt $3.87B | Current ratio 2.73, debt/equity 6.00 |
-| Valuation | P/E 174.04, forward P/E 39.98, P/S 22.81, P/B 13.25 | EV/Sales 23.60, EV/EBITDA 118.96 |
+| Valuation | P/E 168.53, forward P/E 38.71, P/S 22.09, P/B 12.83 | EV/Sales 23.60, EV/EBITDA 118.96 |
 | Growth expectations | Earnings growth 91.20%, EPS q/q 95.10% | Analyst mean target $486.33 (48 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -94,8 +94,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Northern Trust Corporation | 16,427,217 | 1.01% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 39.98, EV/Sales 23.60. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.49, ATR 6.3% of price, short float 2.71%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 38.71, EV/Sales 23.60. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.49, ATR 6.7% of price, short float 2.71%. Size positions accordingly.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,21 +111,21 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $523.85 | EV/Sales | 23.60 |
-| Market cap | $854.20B | EV/EBITDA | 118.96 |
+| Price | $507.29 | EV/Sales | 23.60 |
+| Market cap | $827.19B | EV/EBITDA | 118.96 |
 | Beta | 2.49 | Gross margin | 53.06% |
-| RSI(14) | 62.2 | Operating margin | 14.40% |
-| ATR(14) | 32.75 | Profit margin | 13.37% |
-| SMA20 dist | +7.58% | ROA | 3.65% |
-| SMA50 dist | +33.33% | ROE | 8.06% |
-| SMA200 dist | +104.86% | Revenue (ttm) | $37.45B |
-| 52W high | $542.52 | Revenue growth y/y | 37.80% |
-| 52W low | $116.16 | Inst. ownership | 72.15% |
-| P/E (ttm) | 174.04 | Insider ownership | 0.40% |
-| Forward P/E | 39.98 | Short float | 2.71% |
+| RSI(14) | 56.9 | Operating margin | 14.40% |
+| ATR(14) | 34.01 | Profit margin | 13.37% |
+| SMA20 dist | +3.01% | ROA | 3.65% |
+| SMA50 dist | +27.10% | ROE | 8.06% |
+| SMA200 dist | +96.99% | Revenue (ttm) | $37.45B |
+| 52W high | $547.26 | Revenue growth y/y | 37.80% |
+| 52W low | $126.39 | Inst. ownership | 72.15% |
+| P/E (ttm) | 168.53 | Insider ownership | 0.40% |
+| Forward P/E | 38.71 | Short float | 2.71% |
 | PEG (trailing) | 1.32 | Avg volume | 37,698,487 |
-| P/S | 22.81 | Employees | 31,000 |
-| P/B | 13.25 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/S | 22.09 | Employees | 31,000 |
+| P/B | 12.83 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

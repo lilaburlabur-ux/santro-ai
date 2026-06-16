@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-16T00:58:30+00:00",
-  "as_of_local": "2026-06-16 00:58:30 UTC",
+  "as_of_utc": "2026-06-16T01:03:53+00:00",
+  "as_of_local": "2026-06-16 01:03:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 2289309597682.4746,
       "headlines": [
         {
+          "title": "SpaceX Marketcap Breaches $2.5T: Goes Past Tesla, TSMC And Broadcom",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-marketcap-breaches-2-5t-003334062.html",
+          "publisher": "Stocktwits",
+          "published": "2026-06-16T00:33:34Z"
+        },
+        {
           "title": "Best ETF Ideas for the Rest of 2026",
           "url": "https://finance.yahoo.com/markets/stocks/articles/best-etf-ideas-rest-2026-201700314.html",
           "publisher": "Zacks",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-draws-cramer-support-190151994.html",
           "publisher": "GuruFocus.com",
           "published": "2026-06-15T19:01:51Z"
-        },
-        {
-          "title": "Google's Samsung Talks Highlight TSMC Capacity Crunch",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/googles-samsung-talks-highlight-tsmc-180100438.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-06-15T18:01:00Z"
         }
       ]
     },
@@ -69,6 +69,12 @@
       "market_cap": 1874201154815.3062,
       "headlines": [
         {
+          "title": "SpaceX Marketcap Breaches $2.5T: Goes Past Tesla, TSMC And Broadcom",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-marketcap-breaches-2-5t-003334062.html",
+          "publisher": "Stocktwits",
+          "published": "2026-06-16T00:33:34Z"
+        },
+        {
           "title": "SpaceX Surpassed Broadcom, Meta Platforms, and Tesla in Market Cap on Its IPO Day. Can It Take on Amazon's Market Cap Next?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-surpassed-broadcom-meta-platforms-205124504.html",
           "publisher": "Motley Fool",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-broke-law-large-numbers-194926962.html",
           "publisher": "Trefis",
           "published": "2026-06-15T19:49:26Z"
-        },
-        {
-          "title": "Intel Draws Cramer Support",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-draws-cramer-support-190151994.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-06-15T19:01:51Z"
         }
       ]
     },
@@ -390,8 +390,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 3.23,
-          "price": 2362000.0,
+          "change_pct": 2.88,
+          "price": 2354000.0,
           "currency": "KRW"
         },
         {
@@ -399,8 +399,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.37,
-          "price": 338250.0,
+          "change_pct": 0.3,
+          "price": 338000.0,
           "currency": "KRW"
         },
         {
@@ -408,8 +408,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 2.3,
-          "price": 93000.0,
+          "change_pct": 2.05,
+          "price": 92770.0,
           "currency": "JPY"
         },
         {
@@ -480,8 +480,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 3.23,
-        "price": 2362000.0,
+        "change_pct": 2.88,
+        "price": 2354000.0,
         "currency": "KRW"
       },
       {
@@ -489,8 +489,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.37,
-        "price": 338250.0,
+        "change_pct": 0.3,
+        "price": 338000.0,
         "currency": "KRW"
       },
       {
@@ -498,8 +498,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 2.3,
-        "price": 93000.0,
+        "change_pct": 2.05,
+        "price": 92770.0,
         "currency": "JPY"
       },
       {
@@ -557,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 66226.02,
-      "change_pct": 0.78
+      "price": 66284.38,
+      "change_pct": 0.87
     },
     {
       "label": "Gold",
-      "price": 4333.8,
-      "change_pct": 2.82
+      "price": 4334.5,
+      "change_pct": 2.84
     },
     {
       "label": "Nasdaq100",

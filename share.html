@@ -3,15 +3,15 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Share cards — AI movers, bubble risk & why-it-moved | Santro AI</title>
+<title>Share cards — AI movers, hot tickers & bubble risk | Santro AI</title>
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
 <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png" />
 <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
-<meta name="description" content="Export shareable Santro AI cards: today's AI movers, top winners/losers, the AI bubble-risk score, AI crypto tokens, and why-it-moved ticker cards. Hot means attention, not direction. Not financial advice." />
+<meta name="description" content="Export shareable Santro AI cards: today's AI movers, hot tickers, top winners/losers, the AI bubble-risk score and AI crypto movers. Hot means attention, not direction. Not financial advice." />
 <link rel="canonical" href="https://santroai.tech/share" />
 <meta property="og:title" content="Santro AI — shareable AI market cards" />
-<meta property="og:description" content="Export AI movers, bubble-risk and why-it-moved cards. Hot means attention, not direction." />
+<meta property="og:description" content="Export AI movers, hot tickers and bubble-risk cards. Hot means attention, not direction." />
 <meta property="og:url" content="https://santroai.tech/share" />
 <meta property="og:image" content="https://santroai.tech/assets/og-map.png" />
 <meta property="og:image:width" content="1200" />
@@ -35,9 +35,6 @@
   .btn.ghost:hover{border-color:var(--accent-border); color:var(--accent-2);}
   .ok-flash{color:var(--accent-2); font-weight:700; font-size:12px; align-self:center; opacity:0; transition:.2s;}
   .ok-flash.show{opacity:1;}
-  .pickwrap{display:flex; align-items:center; gap:8px; margin-top:12px;}
-  .pickwrap select{background:var(--elev); border:1px solid var(--border); color:var(--text);
-    border-radius:8px; padding:8px 11px; font:inherit; font-size:12.5px; font-weight:700;}
   .gallery-label{margin:26px 0 10px; font-size:11px; letter-spacing:.6px; text-transform:uppercase;
     color:var(--faint); font-weight:700;}
   .gallery{display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); gap:12px; max-width:1000px;}
@@ -101,10 +98,6 @@
       <a class="btn ghost" id="tw" target="_blank" rel="noopener">𝕏 Post on X</a>
       <span class="ok-flash" id="flash"></span>
     </div>
-    <div class="pickwrap" id="pickwrap" style="display:none">
-      <span style="font-size:11px;color:var(--faint);font-weight:700;text-transform:uppercase;letter-spacing:.5px">Ticker</span>
-      <select id="why-pick"></select>
-    </div>
 
     <div class="gallery-label">Pick a card</div>
     <div class="gallery" id="gallery"></div>
@@ -112,11 +105,11 @@
     <div class="gallery-label">What each card shows</div>
     <ul class="card-desc">
       <li><b>Today's AI movers</b> — a share-ready snapshot of the strongest AI tickers by attention and price move.</li>
+      <li><b>Hot tickers</b> — the names getting the most attention right now, ranked by heat (move + volume).</li>
       <li><b>AI bubble risk</b> — the daily AI bubble-risk score (0–100) in one image.</li>
-      <li><b>AI trade in 60 seconds</b> — the whole tape at a glance: market mood, strongest/weakest sector, top mover and bubble risk.</li>
       <li><b>Winners / losers</b> — the day's top AI gainers and losers, side by side.</li>
       <li><b>AI crypto movers</b> — the top AI crypto tokens by 24h move.</li>
-      <li><b>Why it moved</b> — a single-ticker card with the sourced reason behind the move.</li>
+      <li><b>AI trade in 60 seconds</b> — the whole tape at a glance: market mood, strongest/weakest sector, top mover and bubble risk.</li>
     </ul>
     <p class="card-desc-note">Every card is branded with the Santro AI logo, the date, tickers and % moves,
     the <b>santroai.tech</b> watermark, a delayed-data note, and the slogan <b>“hot means attention, not direction.”</b></p>
@@ -265,24 +258,17 @@ function cardRisk(){
   });
   foot();
 }
-function cardWhy(){
-  bg(); frame("Why it moved");
-  const t=whyPick();
-  if(!t){ bigTitle("Why is it moving?"); X.fillStyle="#8b97a5"; X.font="400 20px "+F;
-    X.fillText("No hot tickers right now — check back next scan.",46,210); foot(); return; }
-  const up=t.move_pct>=0, col=up?"#22c55e":"#f0596e";
-  X.fillStyle="#e7edf3"; X.font="800 60px "+F; X.fillText(t.ticker,44,176);
-  const tw=X.measureText(t.ticker).width;
-  X.fillStyle=col; X.font="800 38px "+F; X.fillText(fmtPct(t.move_pct),60+tw,172);
-  X.fillStyle="#8b97a5"; X.font="400 19px "+F;
-  X.fillText((t.sector?t.sector.split(":")[0]+" · ":"")+(t.company||""),46,210);
-  X.fillStyle="#5e6b78"; X.font="700 14px "+F; X.fillText("WHY IT'S MOVING",46,256);
-  X.fillStyle="#e7edf3"; X.font="600 31px "+F;
-  wrap(t.why,46,296,W-92,42,5);
-  const dom=t.source_url?domainOf(t.source_url):(t.catalyst_type==="no_news_mover"?"no clear catalyst found":"");
-  X.fillStyle="#8b97a5"; X.font="400 18px "+F;
-  X.fillText([(t.catalyst_type||"").replace(/_/g," "),dom,t.published?timeAgo(t.published):""].filter(Boolean).join("   ·   "),46,532);
-  foot();
+function cardHot(){
+  const rows=((hot&&hot.hot_tickers)||[]).slice(0,8);
+  if(!rows.length){
+    bg(); frame("Hot tickers"); bigTitle("Today's hot tickers");
+    X.fillStyle="#8b97a5"; X.font="400 22px "+F;
+    X.fillText("The tape is quiet — no hot tickers this scan.",46,212); foot(); return;
+  }
+  listCard("Hot tickers","Today's hot tickers",rows,
+    r=>r.ticker,
+    r=>"Heat "+(r.heat_score!=null?r.heat_score:"—")+((r.sector||r.company)?" · "+String(r.sector||r.company).split(":")[0].slice(0,22):""),
+    r=>r.move_pct||0);
 }
 
 function cardSixty(){
@@ -330,20 +316,16 @@ function cardSixty(){
   foot();
 }
 
-const RENDER={movers:cardMovers, risk:cardRisk, sixty:cardSixty, winlose:cardWinLose, crypto:cardCrypto, why:cardWhy};
-const GAL=[["movers","Today's AI movers"],["risk","AI bubble risk"],["sixty","60 seconds"],
-           ["winlose","Winners / losers"],["crypto","AI crypto"],["why","Why it moved"]];
+const RENDER={movers:cardMovers, hot:cardHot, risk:cardRisk, sixty:cardSixty, winlose:cardWinLose, crypto:cardCrypto};
+const GAL=[["movers","Today's AI movers"],["hot","Hot tickers"],["risk","AI bubble risk"],
+           ["winlose","Winners / losers"],["crypto","AI crypto movers"],["sixty","60 seconds"]];
 let current="movers";
-function whyPick(){ const sel=document.getElementById("why-pick");
-  const list=(hot&&hot.hot_tickers)||[]; if(!list.length) return null;
-  return list.find(t=>t.ticker===sel.value) || list[0]; }
 function render(){ try{ (RENDER[current]||cardMovers)(); }catch(e){ console.error(e); } updateTweet(); }
 
-const CAP={sixty:"The AI trade in 60 seconds", movers:"Today's AI movers", winlose:"Top 5 AI winners & losers",
-  risk:"AI bubble-risk score", crypto:"Top AI crypto tokens", why:"Why a name is moving"};
+const CAP={sixty:"The AI trade in 60 seconds", movers:"Today's AI movers", hot:"Today's hot AI tickers",
+  winlose:"Top 5 AI winners & losers", risk:"AI bubble-risk score", crypto:"Top AI crypto movers"};
 function updateTweet(){
-  let txt=CAP[current]+" — via Santro AI. Hot means attention, not direction.";
-  if(current==="why"){ const t=whyPick(); if(t) txt=`Why is $${t.ticker} moving ${fmtPct1(t.move_pct)}? ${(t.why||"").slice(0,140)} — via Santro AI.`; }
+  const txt=CAP[current]+" — via Santro AI. Hot means attention, not direction.";
   document.getElementById("tw").href="https://twitter.com/intent/tweet?text="+encodeURIComponent(txt)+"&url="+encodeURIComponent("https://santroai.tech/share");
 }
 
@@ -367,7 +349,6 @@ function select(key){
   if(!RENDER[key]) return;
   current=key;
   document.querySelectorAll(".thumb").forEach(t=>t.classList.toggle("on",t.dataset.v===key));
-  document.getElementById("pickwrap").style.display = key==="why" ? "flex" : "none";
   render();
   document.querySelector(".cardstage").scrollIntoView({behavior:"smooth",block:"nearest"});
 }
@@ -383,7 +364,6 @@ function buildGallery(){
     try{ (RENDER[key]||cardMovers)(); tc.getContext("2d").drawImage(C,0,0,300,158); }catch(e){}
     btn.addEventListener("click",()=>select(key));
   }
-  document.getElementById("why-pick").addEventListener("change",render);
 }
 
 async function getJSON(u){ try{ return await (await fetch(u+"?t="+Date.now())).json(); }catch(e){ return null; } }
@@ -394,12 +374,8 @@ async function load(){
   universe=u; bubbleIx=b; crypto=c; hot=h;
   asof=(d&&d.as_of_local)||"";
   document.getElementById("asof").textContent = asof ? "As of "+asof : "Live data";
-  const sel=document.getElementById("why-pick");
-  sel.innerHTML=((h&&h.hot_tickers)||[]).map(t=>`<option value="${t.ticker}">${t.ticker} · ${fmtPct1(t.move_pct)}</option>`).join("")
-    || `<option>—</option>`;
   const q=new URLSearchParams(location.search).get("card");
   if(q && RENDER[q]) current=q;
-  document.getElementById("pickwrap").style.display = current==="why" ? "flex" : "none";
   buildGallery();
   render();
 }

@@ -1,59 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-16T00:58:33+00:00",
+  "as_of": "2026-06-16T08:01:36+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "SPCX",
-   "company": "SpaceX",
-   "move_pct": 19.6,
-   "price": 192.5,
-   "volume": 243783175,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 80,
-   "direction": "up",
-   "why": "Dow Jones Futures: Trump, Iran Deal Spark Stock Market Surge; Nvidia, Micron, Sandisk, SpaceX Are Big Winners",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-deal-nvidia-micron-sandisk-spacex/?src=A00220&yptr=yahoo",
-   "published": "2026-06-15T23:55:18Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 2,
-   "ticker": "MU",
-   "company": "Micron Technology Inc",
-   "move_pct": 10.84,
-   "price": 1087.99,
-   "volume": 44256323,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 67,
-   "direction": "up",
-   "why": "Dow Jones Futures: Trump, Iran Deal Spark Stock Market Surge; Nvidia, Micron, Sandisk, SpaceX Are Big Winners",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-deal-nvidia-micron-sandisk-spacex/?src=A00220&yptr=yahoo",
-   "published": "2026-06-15T23:55:18Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 3,
-   "ticker": "AMD",
-   "company": "Advanced Micro Devices Inc",
-   "move_pct": 6.98,
-   "price": 547.26,
-   "volume": 32213308,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 44,
-   "direction": "up",
-   "why": "AMD\u2019s MEXT Deal And Ryzen AI Halo Sharpen AI Valuation Debate",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/amd-mext-deal-ryzen-ai-231713092.html",
-   "published": "2026-06-15T23:17:13Z",
-   "sector": "AI Chips & Compute"
-  }
- ]
+ "hot_tickers": []
 }

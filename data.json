@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-16T01:54:16+00:00",
-  "as_of_local": "2026-06-16 01:54:16 UTC",
+  "as_of_utc": "2026-06-16T02:09:23+00:00",
+  "as_of_local": "2026-06-16 02:09:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -25,10 +25,10 @@
           "published": "2026-06-15T14:22:28Z"
         },
         {
-          "title": "Dow Jones Futures: Trump, Iran Deal Spark Stock Market Surge; Nvidia, Micron, Sandisk, SpaceX Are Big Winners",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-deal-nvidia-micron-sandisk-spacex/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-06-16T01:17:26Z"
+          "title": "Why Palantir Stock Soared Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-stock-soared-today-014858049.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-16T01:48:58Z"
         }
       ]
     },
@@ -153,6 +153,12 @@
       "market_cap": 642624363067.627,
       "headlines": [
         {
+          "title": "Why Palantir Stock Soared Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-stock-soared-today-014858049.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-16T01:48:58Z"
+        },
+        {
           "title": "Intel gets a $170 billion AI reason to matter again",
           "url": "https://finance.yahoo.com/technology/ai/articles/intel-gets-170-billion-ai-011700923.html",
           "publisher": "TheStreet",
@@ -163,12 +169,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/google-just-went-deal-intel-004510802.html",
           "publisher": "Motley Fool",
           "published": "2026-06-16T00:45:10Z"
-        },
-        {
-          "title": "Roku Stock Hits a New 52-Week High: Is It a Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/roku-stock-hits-52-week-232641111.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-15T23:26:41Z"
         }
       ]
     },
@@ -390,8 +390,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.1,
-          "price": 2336000.0,
+          "change_pct": 3.1,
+          "price": 2359000.0,
           "currency": "KRW"
         },
         {
@@ -399,8 +399,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.0,
-          "price": 337000.0,
+          "change_pct": 0.59,
+          "price": 339000.0,
           "currency": "KRW"
         },
         {
@@ -408,8 +408,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 2.64,
-          "price": 93310.0,
+          "change_pct": 2.82,
+          "price": 93470.0,
           "currency": "JPY"
         },
         {
@@ -444,8 +444,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 4.42,
-          "price": 413.0,
+          "change_pct": 5.56,
+          "price": 417.5,
           "currency": "TWD"
         },
         {
@@ -453,8 +453,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 3.17,
-          "price": 195.0,
+          "change_pct": 2.65,
+          "price": 194.0,
           "currency": "TWD"
         }
       ]
@@ -480,8 +480,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.1,
-        "price": 2336000.0,
+        "change_pct": 3.1,
+        "price": 2359000.0,
         "currency": "KRW"
       },
       {
@@ -489,8 +489,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.0,
-        "price": 337000.0,
+        "change_pct": 0.59,
+        "price": 339000.0,
         "currency": "KRW"
       },
       {
@@ -498,8 +498,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 2.64,
-        "price": 93310.0,
+        "change_pct": 2.82,
+        "price": 93470.0,
         "currency": "JPY"
       },
       {
@@ -534,8 +534,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 4.42,
-        "price": 413.0,
+        "change_pct": 5.56,
+        "price": 417.5,
         "currency": "TWD"
       },
       {
@@ -543,8 +543,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 3.17,
-        "price": 195.0,
+        "change_pct": 2.65,
+        "price": 194.0,
         "currency": "TWD"
       }
     ]
@@ -557,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 66320.05,
-      "change_pct": 0.93
+      "price": 66274.92,
+      "change_pct": 0.86
     },
     {
       "label": "Gold",
-      "price": 4335.9,
-      "change_pct": 2.87
+      "price": 4333.9,
+      "change_pct": 2.82
     },
     {
       "label": "Nasdaq100",

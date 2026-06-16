@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-06-16T06:21:00+00:00",
-  "as_of_local": "2026-06-16 06:21:00 UTC",
+  "as_of_utc": "2026-06-16T06:36:05+00:00",
+  "as_of_local": "2026-06-16 06:36:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -119,6 +117,34 @@
       ]
     },
     {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 511.57,
+      "previous_close": 488.45,
+      "change_pct": 4.73,
+      "market_cap": 892362505699.14,
+      "headlines": [
+        {
+          "title": "Chip stocks surge, oil slides closer to $80 on US-Iran deal, Fox to acquire Roku",
+          "url": "https://finance.yahoo.com/video/chip-stocks-surge-oil-slides-closer-to-80-on-us-iran-deal-fox-to-acquire-roku-195425964.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-06-15T19:54:25Z"
+        },
+        {
+          "title": "Why Did AMD, WULF, AMAT Stocks Jump To 52-Week Highs?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-amd-wulf-amat-040350202.html",
+          "publisher": "Stocktwits",
+          "published": "2026-06-16T04:03:50Z"
+        },
+        {
+          "title": "Intel gets a $170 billion AI reason to matter again",
+          "url": "https://finance.yahoo.com/technology/ai/articles/intel-gets-170-billion-ai-011700923.html",
+          "publisher": "TheStreet",
+          "published": "2026-06-16T01:17:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 124.57,
@@ -155,12 +181,6 @@
       "market_cap": 438975403853.55,
       "headlines": [
         {
-          "title": "Stocks Settle Sharply Higher as US-Iran Peace Deal Spurs Optimism",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-sharply-higher-us-203656651.html",
-          "publisher": "Barchart",
-          "published": "2026-06-15T20:36:56Z"
-        },
-        {
           "title": "Stocks Rally as US-Iran Peace Deal Sinks Oil and Bond Yields",
           "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-us-iran-peace-151900784.html",
           "publisher": "Barchart",
@@ -171,6 +191,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/chips-8-8-one-week-130400051.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-06-15T13:04:00Z"
+        },
+        {
+          "title": "Arm Holdings (ARM) Gets BofA Backing, 37% PT Upgrade, Climbs 11%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-gets-bofa-065646410.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-06-13T06:56:46Z"
         }
       ]
     },
@@ -364,8 +390,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 3.28,
-          "price": 2363000.0,
+          "change_pct": 3.8,
+          "price": 2375000.0,
           "currency": "KRW"
         },
         {
@@ -373,8 +399,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.82,
-          "price": 339750.0,
+          "change_pct": 1.19,
+          "price": 341000.0,
           "currency": "KRW"
         },
         {
@@ -382,8 +408,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 5.16,
-          "price": 95600.0,
+          "change_pct": 4.98,
+          "price": 95440.0,
           "currency": "JPY"
         },
         {
@@ -454,8 +480,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 3.28,
-        "price": 2363000.0,
+        "change_pct": 3.8,
+        "price": 2375000.0,
         "currency": "KRW"
       },
       {
@@ -463,8 +489,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.82,
-        "price": 339750.0,
+        "change_pct": 1.19,
+        "price": 341000.0,
         "currency": "KRW"
       },
       {
@@ -472,8 +498,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 5.16,
-        "price": 95600.0,
+        "change_pct": 4.98,
+        "price": 95440.0,
         "currency": "JPY"
       },
       {
@@ -531,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 66181.91,
-      "change_pct": 0.72
+      "price": 66304.01,
+      "change_pct": 0.02
     },
     {
       "label": "Gold",
-      "price": 4338.2,
-      "change_pct": 0.24
+      "price": 4336.0,
+      "change_pct": 0.18
     },
     {
       "label": "Nasdaq100",

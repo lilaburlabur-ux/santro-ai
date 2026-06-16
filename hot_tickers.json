@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-16T00:13:07+00:00",
+  "as_of": "2026-06-16T00:28:08+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,10 +17,10 @@
    "volume_vs_avg": "~0.5x",
    "heat_score": 80,
    "direction": "up",
-   "why": "SpaceX Post-IPO: Something Big May Happen in 15 Days. Here's What It Means for You.",
+   "why": "Dow Jones Futures: Trump, Iran Deal Spark Stock Market Surge; Nvidia, Micron, Sandisk, SpaceX Are Big Winners",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/spacex-post-ipo-something-big-233000863.html",
-   "published": "2026-06-15T23:30:00Z",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-deal-nvidia-micron-sandisk-spacex/?src=A00220&yptr=yahoo",
+   "published": "2026-06-15T23:55:18Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
@@ -33,10 +33,10 @@
    "volume_vs_avg": "~0.8x",
    "heat_score": 67,
    "direction": "up",
-   "why": "Why Micron Stock Rocketed to a Record High Today",
+   "why": "Dow Jones Futures: Trump, Iran Deal Spark Stock Market Surge; Nvidia, Micron, Sandisk, SpaceX Are Big Winners",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-stock-rocketed-record-235023066.html",
-   "published": "2026-06-15T23:50:23Z",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-deal-nvidia-micron-sandisk-spacex/?src=A00220&yptr=yahoo",
+   "published": "2026-06-15T23:55:18Z",
    "sector": "AI Chips & Compute"
   },
   {

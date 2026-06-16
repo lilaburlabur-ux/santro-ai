@@ -1,10 +1,43 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-16T08:01:36+00:00",
+  "as_of": "2026-06-16T08:16:53+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "SPCX",
+   "company": "SpaceX",
+   "move_pct": 30.81,
+   "price": 210.53,
+   "volume": 243783175,
+   "volume_vs_avg": "~0.5x",
+   "heat_score": 80,
+   "direction": "up",
+   "why": "1 Analyst Puts the Odds of a Tesla and SpaceX Merger at 80%. Here's What That Would Mean for Tesla Investors.",
+   "catalyst_type": "mna",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/1-analyst-puts-odds-tesla-052300516.html",
+   "published": "2026-06-16T05:23:00Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 2,
+   "ticker": "ORCL",
+   "company": "Oracle Corp",
+   "move_pct": 5.37,
+   "price": 194.01,
+   "volume": 19812025,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 38,
+   "direction": "up",
+   "why": "Oracle (ORCL) Lands $395.8 Million Federal HR Deal And Expands In Healthcare",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-lands-395-8-071231438.html",
+   "published": "2026-06-16T07:12:31Z",
+   "sector": "AI Software & Cloud Infrastructure"
+  }
+ ]
 }

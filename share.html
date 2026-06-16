@@ -259,42 +259,27 @@ function cardRisk(){
   foot();
 }
 function cardHot(){
-  bg(); frame("Hot tickers");
+  bg(); frame("Hot tickers"); bigTitle("Today's hot tickers");
   const rows=((hot&&hot.hot_tickers)||[]);
   if(!rows.length){
-    bigTitle("Today's hot tickers");
     X.fillStyle="#8b97a5"; X.font="400 22px "+F;
-    X.fillText("The tape is quiet — no hot tickers this scan.",46,214); foot(); return;
+    X.fillText("The tape is quiet — no hot tickers this scan.",44,214); foot(); return;
   }
-  const t=rows[0], up=(t.move_pct||0)>=0, col=up?"#22c55e":"#f0596e";
-  // featured "attention magnet" — the top hot name, with the full picture
-  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("ATTENTION MAGNET",46,150);
-  X.fillStyle="#e7edf3"; X.font="800 60px "+F; X.fillText(t.ticker,44,212);
-  const tw=X.measureText(t.ticker).width;
-  X.fillStyle=col; X.font="800 38px "+F; X.fillText(fmtPct(t.move_pct),66+tw,208);
-  const pw=X.measureText(fmtPct(t.move_pct)).width;
-  X.fillStyle="#e0a73f"; X.font="700 19px "+F; X.fillText("Heat "+(t.heat_score!=null?t.heat_score:"—"),66+tw+pw+26,206);
-  X.fillStyle="#8b97a5"; X.font="400 18px "+F;
-  X.fillText([(t.price!=null?"$"+t.price:""),(t.sector?String(t.sector).split(":")[0]:""),(t.company||"")].filter(Boolean).join("  ·  ").slice(0,90),46,246);
-  X.fillStyle="#5e6b78"; X.font="700 14px "+F; X.fillText("WHAT'S MOVING IT",46,288);
-  X.fillStyle="#e7edf3"; X.font="600 28px "+F;
-  const ry=wrap(t.why||"—",46,326,W-92,38,3);
-  const dom=t.source_url?domainOf(t.source_url):(t.catalyst_type==="no_news_mover"?"no clear catalyst — attention, not news":"");
-  const meta=[(t.catalyst_type||"").replace(/_/g," "),dom,t.published?timeAgo(t.published):""].filter(Boolean).join("   ·   ");
-  if(meta){ X.fillStyle="#8b97a5"; X.font="400 17px "+F; X.fillText(meta,46,Math.min(ry+34,426)); }
-  // also hot — the rest of the scan
-  if(rows.length>1){
-    X.strokeStyle="#1d2733"; X.lineWidth=2; X.beginPath(); X.moveTo(46,468); X.lineTo(W-46,468); X.stroke();
-    X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("ALSO HOT",46,500);
-    let x=168; const y=502;
-    rows.slice(1,5).forEach(r=>{
-      const c2=(r.move_pct||0)>=0?"#22c55e":"#f0596e";
-      X.fillStyle="#e7edf3"; X.font="700 21px "+F; X.fillText(r.ticker,x,y);
-      const w=X.measureText(r.ticker+" ").width;
-      X.fillStyle=c2; X.fillText(fmtPct(r.move_pct),x+w,y);
-      x += w + X.measureText(fmtPct(r.move_pct)).width + 30;
-    });
-  }
+  // grid of hot tickers — each tile: ticker, move, heat·sector, short reason
+  const pad=44, gap=20, colW=(W-2*pad-gap)/2, tileH=116, rowGap=12, startY=174;
+  rows.slice(0,6).forEach((r,i)=>{
+    const x=pad+(i%2)*(colW+gap), y=startY+Math.floor(i/2)*(tileH+rowGap);
+    const col=(r.move_pct||0)>=0?"#22c55e":"#f0596e";
+    X.fillStyle="#10151c"; rr(x,y,colW,tileH,12); X.fill();
+    X.strokeStyle="#1c2733"; X.lineWidth=1.5; rr(x,y,colW,tileH,12); X.stroke();
+    X.textAlign="left"; X.fillStyle="#e7edf3"; X.font="800 27px "+F; X.fillText(r.ticker,x+18,y+37);
+    X.fillStyle=col; X.font="800 23px "+F; X.textAlign="right"; X.fillText(fmtPct(r.move_pct),x+colW-18,y+36); X.textAlign="left";
+    X.fillStyle="#7d8a98"; X.font="400 13px "+F;
+    X.fillText(("Heat "+(r.heat_score!=null?r.heat_score:"—")+(r.sector?" · "+String(r.sector).split(":")[0]:"")).slice(0,46),x+18,y+59);
+    const reason = r.catalyst_type==="no_news_mover" ? "No clear catalyst — attention, not news." : (r.why||"—");
+    X.fillStyle="#c4ccd6"; X.font="400 15px "+F;
+    wrap(reason,x+18,y+84,colW-36,20,2);
+  });
   foot();
 }
 

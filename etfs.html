@@ -3,58 +3,70 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>AI ETFs — DRAM holdings bubble map | Santro AI</title>
+<title>AI ETFs — the full investable universe, sorted | Santro AI</title>
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
 <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png" />
 <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png" />
 <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
-<meta name="description" content="AI-related ETFs as a live bubble map: DRAM (Roundhill Memory ETF) holdings with daily moves — Micron, SK hynix, Samsung, Kioxia, SanDisk and more. Bubble size = day move. Not financial advice." />
+<meta name="description" content="Every investable AI ETF, sorted into 8 buckets: pure-play AI, semiconductors, robotics, humanoids, leveraged, income/covered-call and the AI-washing traps to avoid. AUM, expense ratios and what's actually inside each fund. Not financial advice." />
 <link rel="canonical" href="https://santroai.tech/etfs" />
-<meta property="og:title" content="AI ETFs — DRAM holdings bubble map | Santro AI" />
-<meta property="og:description" content="AI ETF holdings as living bubbles, sized by daily move." />
+<meta property="og:title" content="AI ETFs — the full investable universe, sorted | Santro AI" />
+<meta property="og:description" content="40+ AI ETFs in 8 buckets — what's really inside each, the fees, and the AI-washing traps to avoid." />
 <meta property="og:url" content="https://santroai.tech/etfs" />
 <meta property="og:image" content="https://santroai.tech/assets/og-map.png" />
 <meta property="og:type" content="website" />
 <script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
 <link rel="stylesheet" href="site.css?v=9" />
-<script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
 <style>
-  .mapwrap{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius); overflow:hidden;}
-  .mapwrap h2{margin:0; padding:13px 16px; font-size:11px; font-weight:600; letter-spacing:.8px;
-    text-transform:uppercase; color:var(--muted); border-bottom:1px solid var(--border-soft);
-    display:flex; align-items:center; gap:9px;}
-  .legend{display:flex; align-items:center; gap:7px; font-size:10px; color:var(--faint); margin-left:auto;}
-  .legend .bar{width:110px;height:8px;border-radius:99px;background:linear-gradient(to right,
-    #700f19,#b91c1c,#ef4444,#f77b7b,#262a2e,#69cd91,#22c55e,#15803d,#0a522d);}
-  #chart{width:100%; height:480px;}
-  .detail{margin-top:14px;}
-  .etf-sec{margin-top:30px;}
-  .etf-sec h2{font-size:14px; text-transform:uppercase; letter-spacing:.06em; color:var(--muted); margin:0 0 10px;}
-  .etf-sec p{font-size:14px; color:var(--muted); line-height:1.65; margin:0 0 10px; max-width:900px;}
-  .etf-sec ul{margin:0; padding-left:18px; color:var(--muted); font-size:14px; line-height:1.7;}
-  .cov{display:grid; gap:10px; max-width:900px;}
-  .cov-row{display:flex; gap:12px; align-items:center; background:var(--panel); border:1px solid var(--border);
-    border-radius:10px; padding:12px 14px; font-size:13.5px; color:var(--muted);}
-  .cov-row b{color:var(--text);}
-  .st{font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:.5px; padding:3px 9px;
-    border-radius:999px; white-space:nowrap; flex:0 0 auto;}
-  .st.live{background:rgba(34,197,94,.14); color:#22c55e;}
-  .st.val{background:rgba(224,167,63,.14); color:#e0a73f;}
-  .st.soon{background:var(--elev); color:var(--faint);}
-  .etf-tbl{width:100%; border-collapse:collapse; font-size:13px; margin-top:4px;}
+  .keycard{background:var(--panel); border:1px solid var(--border); border-left:3px solid var(--accent);
+    border-radius:var(--radius); padding:16px 18px; margin:14px 0 8px; max-width:920px;}
+  .keycard h2{font-size:12px; text-transform:uppercase; letter-spacing:.7px; color:var(--accent-2); margin:0 0 8px;}
+  .keycard p{font-size:14px; color:var(--muted); line-height:1.65; margin:0 0 9px;}
+  .keycard p:last-child{margin-bottom:0;}
+  .keycard b{color:var(--text);}
+  .three{display:flex; flex-wrap:wrap; gap:8px; margin-top:4px;}
+  .three span{background:var(--elev); border:1px solid var(--border); border-radius:999px;
+    padding:5px 12px; font-size:12.5px; color:var(--text); font-weight:600;}
+  .jump{display:flex; flex-wrap:wrap; gap:7px; margin:16px 0 6px;}
+  .jump a{font-size:11.5px; font-weight:700; text-decoration:none; padding:6px 11px; border-radius:999px;
+    background:var(--elev); border:1px solid var(--border); color:var(--muted);}
+  .jump a:hover{border-color:var(--accent-border); color:var(--accent-2);}
+
+  .bsec{margin-top:30px; scroll-margin-top:80px;}
+  .bsec > .bhead{display:flex; align-items:baseline; gap:10px; flex-wrap:wrap; margin:0 0 4px;}
+  .bsec h2{font-size:15px; color:var(--text); margin:0; font-weight:700;}
+  .bsec .bblurb{font-size:12.5px; color:var(--faint); margin:0 0 11px; line-height:1.5;}
+
+  .etf-tbl{width:100%; border-collapse:collapse; font-size:13px; margin-top:2px;}
   .etf-tbl th{font-size:9.5px; text-transform:uppercase; letter-spacing:.5px; color:var(--faint);
     text-align:left; font-weight:700; padding:6px 10px; border-bottom:1px solid var(--border);}
-  .etf-tbl td{padding:8px 10px; border-bottom:1px solid var(--border-soft); color:var(--muted);}
-  .etf-tbl .tk{color:var(--text); font-weight:700;}
-  .etf-tbl .vsm{color:var(--faint); font-style:italic;}
-  .etf-note{font-size:12px; color:var(--faint); margin-top:8px; max-width:900px; line-height:1.55;}
+  .etf-tbl th.num,.etf-tbl td.num{text-align:right; white-space:nowrap;}
+  .etf-tbl td{padding:9px 10px; border-bottom:1px solid var(--border-soft); color:var(--muted); vertical-align:top;}
+  .etf-tbl tr:hover td{background:var(--elev);}
+  .etf-tbl a.tk{color:var(--accent-2); font-weight:800; text-decoration:none; font-size:13.5px; letter-spacing:.3px;}
+  .etf-tbl a.tk:hover{text-decoration:underline;}
+  .etf-tbl .nm{color:var(--text); font-weight:600;}
+  .etf-tbl .ins{color:var(--muted); display:block; margin-top:2px; font-size:12px; line-height:1.45;}
+  .rb{display:inline-block; font-size:8.5px; font-weight:800; text-transform:uppercase; letter-spacing:.4px;
+    padding:2px 6px; border-radius:5px; margin-left:6px; vertical-align:middle;}
+  .rb.trap{background:rgba(240,90,110,.16); color:#f05a6e;}
+  .rb.lev{background:rgba(224,167,63,.16); color:#e0a73f;}
+  .rb.income{background:rgba(96,165,250,.16); color:#60a5fa;}
+  .rb.spec{background:rgba(167,139,250,.18); color:#a78bfa;}
+  .rb.closed{background:var(--elev); color:var(--faint);}
+  .rb.spv{background:rgba(34,197,94,.14); color:#22c55e;}
+
+  .etf-sec{margin-top:34px;}
+  .etf-sec h2{font-size:14px; text-transform:uppercase; letter-spacing:.06em; color:var(--muted); margin:0 0 10px;}
+  .etf-sec ul{margin:0; padding-left:18px; color:var(--muted); font-size:14px; line-height:1.7; max-width:900px;}
   .etf-cta{display:flex; flex-wrap:wrap; gap:10px; margin-top:14px;}
   .etf-cta a{display:inline-flex; align-items:center; gap:6px; padding:10px 15px; border-radius:10px;
     font-size:13px; font-weight:700; text-decoration:none; background:var(--elev); border:1px solid var(--border); color:var(--text);}
   .etf-cta a:hover{border-color:var(--accent-border); color:var(--accent-2);}
   .etf-cta a.primary{background:#22c55e; color:#04140b; border-color:#22c55e;}
-  @media (max-width:680px){ .etf-tbl .hide{display:none;} }
+  .disc{font-size:11.5px; color:var(--faint); margin-top:22px; max-width:920px; line-height:1.55;}
+  @media (max-width:720px){ .etf-tbl .hide{display:none;} }
 </style>
 </head>
 <body>
@@ -85,63 +97,31 @@
   </header>
 
   <main>
-    <h1>AI ETFs <span class="badge" id="asof">…</span></h1>
-    <p class="lede">AI-related ETFs as a living bubble map. Currently tracking <b>DRAM</b> —
-    the Roundhill Memory ETF — with every holding shown as a bubble: size = the day's move,
-    color = direction. Holdings weights come from the fund's official sheet. More ETFs join
-    this page soon. Data delayed; not financial advice.</p>
+    <h1>AI ETFs <span class="badge" id="count">…</span></h1>
+    <p class="lede">Every investable AI ETF, sorted into eight buckets so nothing hides — what's
+    actually inside each fund, the fee, and the size. Tap any ticker for its own page. Figures
+    are point-in-time (June 2026) and move with price; not financial advice.</p>
 
-    <div class="mapwrap">
-      <h2><span style="color:var(--accent)">◉</span> <span id="map-title">DRAM · holdings · sized by day move</span>
-        <span class="legend"><span>−10%</span><span class="bar"></span><span>+10%</span></span></h2>
-      <div id="chart"></div>
+    <div class="keycard">
+      <h2>Read this first — it's the whole game</h2>
+      <p>There are really only ~15 distinct companies inside this entire list (Nvidia, Broadcom, AMD,
+      TSMC, Micron, Samsung, SK Hynix, Alphabet, Microsoft, Meta, Tesla, Palantir…). Every fund below
+      is a different <b>recipe using the same pantry</b>. Don't let 40 tickers fool you into thinking
+      there are 40 ideas.</p>
+      <p>So your real decisions are only three:</p>
+      <div class="three"><span>1 · How concentrated?</span><span>2 · How much you pay?</span><span>3 · US-only or global?</span></div>
     </div>
 
-    <div class="card detail" id="detail">Click a bubble for details…</div>
+    <nav class="jump" id="jump"></nav>
 
-    <section class="etf-sec">
-      <h2>How to read the DRAM holdings bubble map</h2>
-      <ul>
-        <li>Each <b>bubble is a holding</b> inside DRAM (the Roundhill Memory ETF).</li>
-        <li><b>Bubble size = the day's move</b> — bigger bubble, bigger % change that session.</li>
-        <li><b>Color = direction</b> — green up, red down.</li>
-        <li><b>Weight in the fund is separate</b> from the day's move — click a bubble for its weight, price and ticker.</li>
-        <li>Quotes are delayed ~15 min.</li>
-      </ul>
-    </section>
-
-    <section class="etf-sec">
-      <h2>Coverage status</h2>
-      <div class="cov">
-        <div class="cov-row"><span class="st live">Live</span><span><b>DRAM</b> — Roundhill Memory ETF holdings, as a live bubble map.</span></div>
-        <div class="cov-row"><span class="st val">Validating</span><span><b>SMH, SOXX, AIQ, BOTZ, ROBT, IRBO, ARKQ, WTAI</b> and other AI-related funds — added once holdings data is validated.</span></div>
-        <div class="cov-row"><span class="st soon">Coming</span><span><b>Full AI-ETF comparison table</b> — themes, issuers, holdings overlap and AI relevance, side by side.</span></div>
-      </div>
-    </section>
-
-    <section class="etf-sec">
-      <h2>AI ETFs — comparison (preview)</h2>
-      <table class="etf-tbl">
-        <thead><tr><th>ETF</th><th>Theme</th><th class="hide">Issuer</th><th class="hide">Top holdings</th><th>AI relevance</th><th>Status</th></tr></thead>
-        <tbody>
-          <tr><td class="tk">DRAM</td><td>Memory / DRAM</td><td class="hide">Roundhill</td><td class="hide">Micron, SK hynix, Samsung, Kioxia, SanDisk</td><td>Memory is the core AI bottleneck</td><td><span class="st live">Live</span></td></tr>
-          <tr><td class="tk">SMH</td><td>Semiconductors</td><td class="hide">VanEck</td><td class="hide vsm">validating</td><td>Core AI chips</td><td><span class="st val">Validating</span></td></tr>
-          <tr><td class="tk">SOXX</td><td>Semiconductors</td><td class="hide">iShares</td><td class="hide vsm">validating</td><td>Core AI chips</td><td><span class="st val">Validating</span></td></tr>
-          <tr><td class="tk">AIQ</td><td>AI &amp; big data</td><td class="hide">Global X</td><td class="hide vsm">validating</td><td>Broad AI theme</td><td><span class="st val">Validating</span></td></tr>
-          <tr><td class="tk">BOTZ</td><td>Robotics &amp; AI</td><td class="hide">Global X</td><td class="hide vsm">validating</td><td>AI + robotics</td><td><span class="st val">Validating</span></td></tr>
-          <tr><td class="tk">ARKQ</td><td>Autonomous tech</td><td class="hide">ARK</td><td class="hide vsm">validating</td><td>Autonomous + AI</td><td><span class="st val">Validating</span></td></tr>
-        </tbody>
-      </table>
-      <p class="etf-note">Staged on purpose: themes and issuers are shown; expense ratios, exact holdings and AI-relevance scoring
-      are validated before each fund goes live — we don't publish numbers we haven't checked.</p>
-    </section>
+    <div id="buckets"></div>
 
     <section class="etf-sec">
       <h2>Why ETFs matter in the AI trade</h2>
       <ul>
         <li>ETFs show <b>where passive and sector money concentrates</b> — the crowd, not just the headline name.</li>
         <li>Their holdings reveal <b>second-order beneficiaries</b> of the AI build-out you might otherwise miss.</li>
-        <li>ETF flows can <b>amplify already-crowded trades</b> — useful read alongside the <a href="/bubble" style="color:var(--accent-2);text-decoration:none">AI bubble-risk gauge</a>.</li>
+        <li>ETF flows can <b>amplify already-crowded trades</b> — read this alongside the <a href="/bubble" style="color:var(--accent-2);text-decoration:none">AI bubble-risk gauge</a>.</li>
       </ul>
       <div class="etf-cta">
         <a class="primary" href="/">Open the terminal</a>
@@ -149,6 +129,13 @@
         <a href="/stocks">View AI stocks</a>
       </div>
     </section>
+
+    <p class="disc">AUM and expense ratios are point-in-time snapshots (June 2026) curated from public
+    issuer and aggregator data; live shares-outstanding and a few exact fees belong to each issuer's
+    same-day page — we won't hand you a stale figure dressed up as live. Risk badges
+    (<span class="rb trap">trap</span> <span class="rb lev">leveraged</span>
+    <span class="rb income">income</span> <span class="rb spec">speculative</span>) are editorial flags,
+    not ratings. Not financial advice.</p>
   </main>
 
   <footer>
@@ -159,134 +146,47 @@
     © 2026 Santro AI. All rights reserved. Uses custom models.
   </footer>
 
+<script src="etf-data.js?v=1"></script>
 <script>
-const fmtPct=x=>(x>=0?"+":"")+Number(x).toFixed(2)+"%";
-const pctClass=x=>x>=0?"up":"down";
-function fmtMoney(v,ccy){ if(v==null) return "—";
-  try{ return new Intl.NumberFormat("en-US",{style:"currency",currency:ccy||"USD"}).format(v); }
-  catch(e){ return (ccy?ccy+" ":"$")+v; } }
-const HEAT_STOPS=[[-10,[112,15,25]],[-6,[185,28,28]],[-3,[239,68,68]],[-1,[247,123,123]],
-  [0,[38,42,46]],[1,[105,205,145]],[3,[34,197,94]],[6,[21,128,61]],[10,[10,82,45]]];
-function colorFor(p){const x=Math.max(-10,Math.min(10,p||0));
-  for(let i=0;i<HEAT_STOPS.length-1;i++){const [a,ca]=HEAT_STOPS[i],[b,cb]=HEAT_STOPS[i+1];
-    if(x>=a&&x<=b){const t=(x-a)/((b-a)||1);
-      return `rgb(${ca.map((v,k)=>Math.round(v+(cb[k]-v)*t)).join(",")})`;}}
-  return "rgb(38,42,46)";}
-function heatDark(p){const m=colorFor(p).match(/\d+/g).map(Number);
-  return `rgb(${m.map(v=>Math.round(v*0.30+8)).join(",")})`;}
-const heatText=p=>p>=0?"#8df0b4":"#ff9aa2";
-const fitFs=(len,r,cap)=>Math.max(7,Math.min(cap,Math.floor((r*1.62)/(0.62*Math.max(len,3)))));
-const logoUrl=s=>`https://assets.parqet.com/logos/symbol/${encodeURIComponent(s.split(".")[0])}?format=png&size=64`;
+const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const RB={trap:"trap",lev:"leveraged",income:"income",spec:"speculative",closed:"closed"};
+function rbadge(r){ if(!r) return ""; return `<span class="rb ${r}">${RB[r]||r}</span>`; }
 
-function packBubbles(items,key,W,H){
-  const maxV=Math.max(...items.map(x=>x[key]));
-  const maxR=Math.min(W,H)*0.22, minR=Math.max(22,Math.min(W,H)*0.06);
-  const nodes=items.map(x=>({it:x,r:Math.max(minR,maxR*Math.sqrt(x[key]/maxV))})).sort((a,b)=>b.r-a.r);
-  const placed=[];
-  for(const n of nodes){
-    if(!placed.length){n.x=0;n.y=0;placed.push(n);continue;}
-    for(let t=0.1;;t+=0.07){
-      const x=2.1*t*Math.cos(t),y=2.1*t*Math.sin(t)*0.8;
-      if(placed.every(p=>{const dx=p.x-x,dy=p.y-y;return dx*dx+dy*dy>=(p.r+n.r+4)**2;})||t>2500){n.x=x;n.y=y;break;}
-    }
-    placed.push(n);
+function row(e){
+  const spv = e.spv ? `<span class="rb spv">pre-IPO</span>` : "";
+  const yieldCell = e.yield ? `<td class="num">${esc(e.yield)}</td>` : `<td class="num">—</td>`;
+  return `<tr>
+    <td><a class="tk" href="/e?sym=${encodeURIComponent(e.t)}">${esc(e.t)}</a>${rbadge(e.risk)}${spv}</td>
+    <td><span class="nm">${esc(e.name)}</span><span class="ins">${esc(e.inside||"")}</span></td>
+    <td class="num hide">${esc(e.aum||"—")}</td>
+    <td class="num hide">${esc(e.er||"—")}</td>
+    <td class="num hide">${esc(e.holds||"—")}</td>
+  </tr>`;
+}
+
+function build(){
+  const jump=document.getElementById("jump");
+  const wrap=document.getElementById("buckets");
+  let jh="", bh="";
+  for(const b of window.ETF_BUCKETS){
+    const list=window.ETFS.filter(e=>e.bucket===b.id);
+    if(!list.length) continue;
+    jh+=`<a href="#${b.id}">${esc(b.name)} <span style="opacity:.6">${list.length}</span></a>`;
+    bh+=`<section class="bsec" id="${b.id}">
+      <div class="bhead"><h2>${esc(b.name)}</h2></div>
+      <p class="bblurb">${esc(b.blurb)}</p>
+      <table class="etf-tbl">
+        <thead><tr><th>Ticker</th><th>Fund · what's inside</th>
+          <th class="num hide">AUM</th><th class="num hide">Fee</th><th class="num hide">Holds</th></tr></thead>
+        <tbody>${list.map(row).join("")}</tbody>
+      </table>
+    </section>`;
   }
-  const minX=Math.min(...placed.map(p=>p.x-p.r)),maxX=Math.max(...placed.map(p=>p.x+p.r));
-  const minY=Math.min(...placed.map(p=>p.y-p.r)),maxY=Math.max(...placed.map(p=>p.y+p.r));
-  const pad=10,s=Math.min((W-2*pad)/(maxX-minX),(H-2*pad)/(maxY-minY),1.2);
-  const ox=(W-(maxX-minX)*s)/2-minX*s,oy=(H-(maxY-minY)*s)/2-minY*s;
-  placed.forEach(p=>{p.x=p.x*s+ox;p.y=p.y*s+oy;p.r*=s;});
-  return placed;
+  jump.innerHTML=jh;
+  wrap.innerHTML=bh;
+  document.getElementById("count").textContent=window.ETFS.length+" funds · "+window.ETF_BUCKETS.length+" buckets";
 }
-
-let chart=null, sim=null, bounds=null, timer=null, selected=null, etf=null;
-
-function bubbleItem(n){
-  const h=n.obj, pct=h.change_pct||0, heat=colorFor(pct);
-  const txt=h.short||h.symbol;
-  const fs=Math.min(Math.max(9,Math.round(n.r*0.30)), fitFs(txt.length,n.r,22));
-  const pcFs=Math.max(8,Math.round(fs*0.82));
-  const ls=Math.round(n.r*0.5);
-  const showLogo=n.r>30 && !h.symbol.includes(".") && (ls+fs*1.35+pcFs*1.2)<n.r*1.7;
-  const sel=h.symbol===selected;
-  const rich={tk:{color:"#fff",fontWeight:700,fontSize:fs,lineHeight:Math.round(fs*1.35),align:"center"},
-    pc:{color:heatText(pct),fontWeight:600,fontSize:pcFs,lineHeight:Math.round(pcFs*1.3),align:"center"}};
-  let fmt="";
-  if(showLogo){rich.lg={backgroundColor:{image:logoUrl(h.symbol)},width:ls,height:ls,borderRadius:ls/2,align:"center"};fmt+="{lg|}\n";}
-  fmt+=`{tk|${txt}}\n{pc|${fmtPct(pct)}}`;
-  return {value:[n.x,n.y],symbolSize:n.r*2,holding:h,
-    itemStyle:{color:heatDark(pct),borderColor:sel?"#fff":heat,
-      borderWidth:sel?3.5:Math.max(2,Math.round(n.r*0.09)),shadowColor:heat,shadowBlur:Math.max(8,Math.round(n.r*0.35))},
-    label:{show:n.r>=13&&fs>=8,position:"inside",align:"center",verticalAlign:"middle",formatter:fmt,rich}};
-}
-
-function render(){
-  const el=document.getElementById("chart");
-  const W=el.clientWidth||900, H=el.clientHeight||480;
-  etf.holdings.forEach(h=>{h._sz=Math.abs(h.change_pct||0)+0.5;});
-  sim=packBubbles(etf.holdings,"_sz",W,H).map(n=>({x:n.x,y:n.y,r:n.r,
-    vx:(Math.random()-0.5)*0.7,vy:(Math.random()-0.5)*0.7,obj:n.it}));
-  bounds={W,H};
-  chart.setOption({backgroundColor:"transparent",
-    grid:{left:0,right:0,top:0,bottom:0},
-    xAxis:{show:false,min:0,max:W},yAxis:{show:false,min:0,max:H},
-    tooltip:{formatter:p=>{const h=p.data.holding; if(!h) return "";
-      const c=h.change_pct>=0?"#22c55e":"#f05a6e";
-      return `<b>${h.short}</b> · ${h.name}<br/><span style="color:${c}">${fmtPct(h.change_pct)}</span>`+
-        (h.price!=null?` &nbsp; ${fmtMoney(h.price,h.currency)}`:"")+
-        `<br/>Weight in ${etf.symbol}: ${h.weight_pct.toFixed(2)}%`;}},
-    series:[{type:"scatter",data:sim.map(bubbleItem),animationDuration:380,
-      emphasis:{itemStyle:{borderColor:"#fff",borderWidth:3}}}]},true);
-  startMotion();
-}
-
-function startMotion(){
-  if(timer) clearInterval(timer);
-  timer=setInterval(()=>{
-    if(!sim||document.hidden) return;
-    const {W,H}=bounds;
-    for(const n of sim){
-      n.x+=n.vx;n.y+=n.vy;
-      if(n.x-n.r<2){n.x=n.r+2;n.vx=Math.abs(n.vx);} if(n.x+n.r>W-2){n.x=W-2-n.r;n.vx=-Math.abs(n.vx);}
-      if(n.y-n.r<2){n.y=n.r+2;n.vy=Math.abs(n.vy);} if(n.y+n.r>H-2){n.y=H-2-n.r;n.vy=-Math.abs(n.vy);}
-    }
-    for(let i=0;i<sim.length;i++)for(let j=i+1;j<sim.length;j++){
-      const a=sim[i],b=sim[j],dx=b.x-a.x,dy=b.y-a.y,d=Math.hypot(dx,dy)||1,min=a.r+b.r+2;
-      if(d<min){const ux=dx/d,uy=dy/d,ov=(min-d)/2;
-        a.x-=ux*ov;a.y-=uy*ov;b.x+=ux*ov;b.y+=uy*ov;
-        let t=a.vx;a.vx=b.vx;b.vx=t;t=a.vy;a.vy=b.vy;b.vy=t;}
-    }
-    chart.setOption({series:[{animation:false,data:sim.map(bubbleItem)}]});
-  },50);
-}
-
-function showDetail(h){
-  selected=h.symbol;
-  document.getElementById("detail").innerHTML=`
-    <div class="row"><h3>${h.short}</h3><span class="muted">${h.name}</span>
-      <span class="${pctClass(h.change_pct)}" style="margin-left:auto;font-weight:700">${fmtPct(h.change_pct)}</span></div>
-    <div class="kv">
-      <div><div class="k">Weight in ${etf.symbol}</div><div class="v">${h.weight_pct.toFixed(2)}%</div></div>
-      <div><div class="k">Price</div><div class="v">${fmtMoney(h.price,h.currency)}</div></div>
-      <div><div class="k">Ticker</div><div class="v">${h.symbol}</div></div>
-      <div><div class="k">Day change</div><div class="v ${pctClass(h.change_pct)}">${fmtPct(h.change_pct)}</div></div>
-    </div>
-    <p style="margin:12px 0 0"><a href="https://finance.yahoo.com/quote/${encodeURIComponent(h.symbol)}" target="_blank" rel="noopener">Yahoo Finance →</a></p>`;
-}
-
-async function load(){
-  const d=await (await fetch("data.json?t="+Date.now())).json();
-  etf=d.etf;
-  document.getElementById("asof").textContent="As of "+d.as_of_local;
-  document.getElementById("map-title").textContent=`${etf.symbol} · ${etf.name} · sized by day move`;
-  if(!chart){ chart=echarts.init(document.getElementById("chart"));
-    chart.on("click",p=>{ if(p.data&&p.data.holding){ showDetail(p.data.holding); render(); } });
-    window.addEventListener("resize",()=>{chart.resize();render();});
-  }
-  render();
-  if(!selected && etf.holdings.length) showDetail(etf.holdings[0]);
-}
-load(); setInterval(load, 60000);
+build();
 </script>
 <script src="site.js?v=9"></script>
 </body>

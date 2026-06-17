@@ -4,8 +4,8 @@ Signed file: `NVDA.research.17.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $207.41 (2026-06-17, ~15-min delayed) |
-| Market cap | $5.02T |
+| Current price | $204.65 (2026-06-17, ~15-min delayed) |
+| Market cap | $4.96T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `NVDA.research.17.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +46.29%; price +9.55% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -11.91% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +41.63%; price +8.00% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -13.09% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 62.97%, revenue growth 85.20%. |
-| Value attractiveness | Reasonable | Forward P/E 16.30, EV/Sales 19.64. |
-| Risk level | High | Beta 2.20, ATR 3.8% of price, short float 1.22%. |
+| Value attractiveness | Reasonable | Forward P/E 16.08, EV/Sales 19.64. |
+| Risk level | High | Beta 2.20, ATR 3.7% of price, short float 1.22%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| SpaceX's near $3 trillion rally comes with one big catch: Chart of the Day | Yahoo Finance | 2026-06-17 |
-| SpaceX closes in on Amazon in sprint toward $3 trillion | Yahoo Finance | 2026-06-16 |
-| SpaceX Opened at $150: What Else Happened on Day 1? | Motley Fool | 2026-06-17 |
-| If You Buy Dutch Bros Today, Here's Where It Could Be in 5 Years | Motley Fool | 2026-06-17 |
+| How SpaceX and 'MANGOS' are fueling the latest ETF trends | Yahoo Finance Video | 2026-06-17 |
+| 5 stunning stats about the world's most valuable stocks | Yahoo Finance | 2026-06-17 |
+| What investors should know before hopping on SpaceX options trades | Yahoo Finance Video | 2026-06-16 |
+| Michael Burry Has a Stark Message on SpaceX's $3 Trillion Valuation | GuruFocus.com | 2026-06-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $207.41; 52w high $235.47 (-11.91%); 52w low $143.66 (+44.38%) |
-| Trend | +9.55% vs SMA200, -0.29% vs SMA50, -2.67% vs SMA20 |
-| Momentum | RSI(14) 47.5 (neutral) |
-| Volatility | ATR(14) 7.79 (~3.8% of price); beta 2.20 |
-| Setup perspective | -11.91% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $204.65; 52w high $235.47 (-13.09%); 52w low $143.66 (+42.46%) |
+| Trend | +8.00% vs SMA200, -1.87% vs SMA50, -3.61% vs SMA20 |
+| Momentum | RSI(14) 45.4 (neutral) |
+| Volatility | ATR(14) 7.64 (~3.7% of price); beta 2.20 |
+| Setup perspective | -13.09% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.4% |
+| Week | +2.1% |
 | Month | -7.8% |
-| Quarter | +14.1% |
-| Half Y | +18.7% |
-| 1Y | +46.3% |
-| YTD | +10.0% |
+| Quarter | +13.6% |
+| Half Y | +16.2% |
+| 1Y | +41.6% |
+| YTD | +8.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,7 +67,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $253.49B | Revenue growth 85.20% y/y |
 | Profitability | Gross 74.14%, operating 65.60%, net 62.97% | ROA 52.73%, ROE 114.29% |
 | Balance sheet | Cash $53.17B, debt $12.81B | Current ratio 3.44, debt/equity 6.55 |
-| Valuation | P/E 31.76, forward P/E 16.30, P/S 19.82, P/B 25.70 | EV/Sales 19.64, EV/EBITDA 30.08 |
+| Valuation | P/E 31.34, forward P/E 16.08, P/S 19.55, P/B 25.36 | EV/Sales 19.64, EV/EBITDA 30.08 |
 | Growth expectations | Earnings growth 214.50%, EPS q/q 210.60% | Analyst mean target $298.93 (59 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -94,7 +94,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Northern Trust Corporation | 252,741,836 | 1.04% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.20, ATR 3.8% of price, short float 1.22%. Size positions accordingly.
+- **Volatility risk:** Beta 2.20, ATR 3.7% of price, short float 1.22%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -109,21 +109,21 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $207.41 | EV/Sales | 19.64 |
-| Market cap | $5.02T | EV/EBITDA | 30.08 |
+| Price | $204.65 | EV/Sales | 19.64 |
+| Market cap | $4.96T | EV/EBITDA | 30.08 |
 | Beta | 2.20 | Gross margin | 74.14% |
-| RSI(14) | 47.5 | Operating margin | 65.60% |
-| ATR(14) | 7.79 | Profit margin | 62.97% |
-| SMA20 dist | -2.67% | ROA | 52.73% |
-| SMA50 dist | -0.29% | ROE | 114.29% |
-| SMA200 dist | +9.55% | Revenue (ttm) | $253.49B |
+| RSI(14) | 45.4 | Operating margin | 65.60% |
+| ATR(14) | 7.64 | Profit margin | 62.97% |
+| SMA20 dist | -3.61% | ROA | 52.73% |
+| SMA50 dist | -1.87% | ROE | 114.29% |
+| SMA200 dist | +8.00% | Revenue (ttm) | $253.49B |
 | 52W high | $235.47 | Revenue growth y/y | 85.20% |
 | 52W low | $143.66 | Inst. ownership | 70.88% |
-| P/E (ttm) | 31.76 | Insider ownership | 3.98% |
-| Forward P/E | 16.30 | Short float | 1.22% |
+| P/E (ttm) | 31.34 | Insider ownership | 3.98% |
+| Forward P/E | 16.08 | Short float | 1.22% |
 | PEG (trailing) | 0.64 | Avg volume | 163,387,936 |
-| P/S | 19.82 | Employees | 42,000 |
-| P/B | 25.70 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/S | 19.55 | Employees | 42,000 |
+| P/B | 25.36 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

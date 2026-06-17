@@ -4,8 +4,8 @@ Signed file: `CEVA.research.17.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $45.80 (2026-06-17, ~15-min delayed) |
-| Market cap | $1.28B |
+| Current price | $44.91 (2026-06-17, ~15-min delayed) |
+| Market cap | $1.25B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, weak fundamentals, value: low (expensive), risk: high. |
@@ -15,10 +15,10 @@ Signed file: `CEVA.research.17.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +130.27%; price +77.10% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -8.51% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +119.39%; price +72.90% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -10.29% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-10.47%). |
-| Value attractiveness | Low (expensive) | Forward P/E 55.87, EV/Sales 9.59. |
+| Value attractiveness | Low (expensive) | Forward P/E 54.78, EV/Sales 9.59. |
 | Risk level | High | Beta 2.01, ATR 7.8% of price, short float 4.72%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: low (expensive), risk: high.
@@ -44,22 +44,22 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $45.80; 52w high $50.06 (-8.51%); 52w low $17.21 (+166.12%) |
-| Trend | +77.10% vs SMA200, +32.83% vs SMA50, +5.34% vs SMA20 |
-| Momentum | RSI(14) 58.3 (neutral) |
-| Volatility | ATR(14) 3.55 (~7.8% of price); beta 2.01 |
-| Setup perspective | -8.51% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $44.91; 52w high $50.06 (-10.29%); 52w low $17.21 (+160.95%) |
+| Trend | +72.90% vs SMA200, +28.34% vs SMA50, +2.29% vs SMA20 |
+| Momentum | RSI(14) 56.4 (neutral) |
+| Volatility | ATR(14) 3.50 (~7.8% of price); beta 2.01 |
+| Setup perspective | -10.29% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +6.4% |
-| Month | +25.4% |
-| Quarter | +147.6% |
-| Half Y | +109.8% |
-| 1Y | +130.3% |
-| YTD | +104.3% |
+| Week | +9.3% |
+| Month | +22.7% |
+| Quarter | +142.5% |
+| Half Y | +110.1% |
+| 1Y | +119.4% |
+| YTD | +100.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,7 +67,7 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 | Revenue (ttm) | $112.38M | Revenue growth 11.50% y/y |
 | Profitability | Gross 87.19%, operating -18.82%, net -10.47% | ROA -2.16%, ROE -3.88% |
 | Balance sheet | Cash $215.69M, debt $16.88M | Current ratio 10.26, debt/equity 4.99 |
-| Valuation | P/E —, forward P/E 55.87, P/S 11.35, P/B 3.77 | EV/Sales 9.59, EV/EBITDA -138.49 |
+| Valuation | P/E —, forward P/E 54.78, P/S 11.13, P/B 3.70 | EV/Sales 9.59, EV/EBITDA -138.49 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $44.44 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -94,7 +94,7 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 | T. Rowe Price Investment Management, Inc. | 687,751 | 2.47% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 55.87, EV/Sales 9.59. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 54.78, EV/Sales 9.59. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.01, ATR 7.8% of price, short float 4.72%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -111,21 +111,21 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $45.80 | EV/Sales | 9.59 |
-| Market cap | $1.28B | EV/EBITDA | -138.49 |
+| Price | $44.91 | EV/Sales | 9.59 |
+| Market cap | $1.25B | EV/EBITDA | -138.49 |
 | Beta | 2.01 | Gross margin | 87.19% |
-| RSI(14) | 58.3 | Operating margin | -18.82% |
-| ATR(14) | 3.55 | Profit margin | -10.47% |
-| SMA20 dist | +5.34% | ROA | -2.16% |
-| SMA50 dist | +32.83% | ROE | -3.88% |
-| SMA200 dist | +77.10% | Revenue (ttm) | $112.38M |
+| RSI(14) | 56.4 | Operating margin | -18.82% |
+| ATR(14) | 3.50 | Profit margin | -10.47% |
+| SMA20 dist | +2.29% | ROA | -2.16% |
+| SMA50 dist | +28.34% | ROE | -3.88% |
+| SMA200 dist | +72.90% | Revenue (ttm) | $112.38M |
 | 52W high | $50.06 | Revenue growth y/y | 11.50% |
 | 52W low | $17.21 | Inst. ownership | 92.33% |
 | P/E (ttm) | — | Insider ownership | 3.11% |
-| Forward P/E | 55.87 | Short float | 4.72% |
+| Forward P/E | 54.78 | Short float | 4.72% |
 | PEG (trailing) | 4.49 | Avg volume | 761,415 |
-| P/S | 11.35 | Employees | 400 |
-| P/B | 3.77 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/S | 11.13 | Employees | 400 |
+| P/B | 3.70 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

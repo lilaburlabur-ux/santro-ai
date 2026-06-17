@@ -4,8 +4,8 @@ Signed file: `INTC.research.17.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $117.05 (2026-06-17, ~15-min delayed) |
-| Market cap | $588.29B |
+| Current price | $121.10 (2026-06-17, ~15-min delayed) |
+| Market cap | $608.65B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, weak fundamentals, value: low (expensive), risk: high. |
@@ -15,11 +15,11 @@ Signed file: `INTC.research.17.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +481.18%; price +114.85% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -9.57% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +483.90%; price +120.33% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -6.44% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-5.90%). |
-| Value attractiveness | Low (expensive) | Forward P/E 75.74, EV/Sales 11.42. |
-| Risk level | High | Beta 2.23, ATR 8.2% of price, short float 2.69%. |
+| Value attractiveness | Low (expensive) | Forward P/E 78.36, EV/Sales 11.42. |
+| Risk level | High | Beta 2.23, ATR 7.9% of price, short float 2.69%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: low (expensive), risk: high.
 
@@ -36,30 +36,30 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| Intel begins production of anticipated 18A-P chips, as AI continues to drive CPU demand | Yahoo Finance | 2026-06-16 |
-| Iron Mountain: High Yield and Reliable Revenue From the Largest Companies | Motley Fool | 2026-06-17 |
-| Micron Stock Rebounds But Memory-Chip Frenzy Faces a Fed Test | Barrons.com | 2026-06-17 |
-| Could Lululemon Stock Go From Bad to Worse Amid a 6.5% Increase in Wholesale Prices? | Motley Fool | 2026-06-17 |
+| Intel's 18A-P chips are in production and just in time as CPU demand ramps up | Yahoo Finance Video | 2026-06-17 |
+| Tech stocks today: Uber and Lucid expanding in Houston,  Intel's latest chip moves | Yahoo Finance | 2026-06-15 |
+| Intel's 18A-P Process Moves Forward | GuruFocus.com | 2026-06-17 |
+| Sector Update: Tech Stocks Rise Late Afternoon | MT Newswires | 2026-06-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $117.05; 52w high $129.44 (-9.57%); 52w low $19.31 (+506.16%) |
-| Trend | +114.85% vs SMA200, +18.76% vs SMA50, +1.71% vs SMA20 |
-| Momentum | RSI(14) 54.8 (neutral) |
-| Volatility | ATR(14) 9.62 (~8.2% of price); beta 2.23 |
-| Setup perspective | -9.57% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $121.10; 52w high $129.44 (-6.44%); 52w low $19.31 (+527.14%) |
+| Trend | +120.33% vs SMA200, +21.19% vs SMA50, +4.76% vs SMA20 |
+| Momentum | RSI(14) 57.3 (neutral) |
+| Volatility | ATR(14) 9.51 (~7.9% of price); beta 2.23 |
+| Setup perspective | -6.44% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +8.5% |
-| Month | +7.6% |
-| Quarter | +165.7% |
-| Half Y | +209.6% |
-| 1Y | +481.2% |
-| YTD | +197.2% |
+| Week | +13.1% |
+| Month | +12.0% |
+| Quarter | +168.9% |
+| Half Y | +222.8% |
+| 1Y | +483.9% |
+| YTD | +207.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,7 +67,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $53.76B | Revenue growth 7.20% y/y |
 | Profitability | Gross 37.20%, operating 6.88%, net -5.90% | ROA 0.63%, ROE -2.91% |
 | Balance sheet | Cash $32.79B, debt $45.03B | Current ratio 2.31, debt/equity 36.03 |
-| Valuation | P/E —, forward P/E 75.74, P/S 10.94, P/B 5.28 | EV/Sales 11.42, EV/EBITDA 43.33 |
+| Valuation | P/E —, forward P/E 78.36, P/S 11.32, P/B 5.46 | EV/Sales 11.42, EV/EBITDA 43.33 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $93.97 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -94,9 +94,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Primecap Management Company | 75,761,968 | 1.51% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 75.74, EV/Sales 11.42. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.23, ATR 8.2% of price, short float 2.69%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 78.36, EV/Sales 11.42. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.23, ATR 7.9% of price, short float 2.69%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -111,21 +112,21 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $117.05 | EV/Sales | 11.42 |
-| Market cap | $588.29B | EV/EBITDA | 43.33 |
+| Price | $121.10 | EV/Sales | 11.42 |
+| Market cap | $608.65B | EV/EBITDA | 43.33 |
 | Beta | 2.23 | Gross margin | 37.20% |
-| RSI(14) | 54.8 | Operating margin | 6.88% |
-| ATR(14) | 9.62 | Profit margin | -5.90% |
-| SMA20 dist | +1.71% | ROA | 0.63% |
-| SMA50 dist | +18.76% | ROE | -2.91% |
-| SMA200 dist | +114.85% | Revenue (ttm) | $53.76B |
+| RSI(14) | 57.3 | Operating margin | 6.88% |
+| ATR(14) | 9.51 | Profit margin | -5.90% |
+| SMA20 dist | +4.76% | ROA | 0.63% |
+| SMA50 dist | +21.19% | ROE | -2.91% |
+| SMA200 dist | +120.33% | Revenue (ttm) | $53.76B |
 | 52W high | $129.44 | Revenue growth y/y | 7.20% |
 | 52W low | $19.31 | Inst. ownership | 64.05% |
 | P/E (ttm) | — | Insider ownership | 14.72% |
-| Forward P/E | 75.74 | Short float | 2.69% |
+| Forward P/E | 78.36 | Short float | 2.69% |
 | PEG (trailing) | — | Avg volume | 130,279,969 |
-| P/S | 10.94 | Employees | 85,100 |
-| P/B | 5.28 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/S | 11.32 | Employees | 85,100 |
+| P/B | 5.46 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

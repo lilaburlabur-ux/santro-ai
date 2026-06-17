@@ -4,8 +4,8 @@ Signed file: `MRVL.research.17.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $278.67 (2026-06-17, ~15-min delayed) |
-| Market cap | $243.99B |
+| Current price | $289.54 (2026-06-17, ~15-min delayed) |
+| Market cap | $253.29B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: low (expensive), risk: high. |
@@ -15,11 +15,11 @@ Signed file: `MRVL.research.17.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +315.87%; price +151.89% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -11.93% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +312.27%; price +159.06% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -8.50% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 28.99%, revenue growth 27.60%. |
-| Value attractiveness | Low (expensive) | Forward P/E 45.15, EV/Sales 28.13. |
-| Risk level | High | Beta 2.28, ATR 9.9% of price, short float 4.71%. |
+| Value attractiveness | Low (expensive) | Forward P/E 46.91, EV/Sales 28.13. |
+| Risk level | High | Beta 2.28, ATR 9.5% of price, short float 4.71%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: low (expensive), risk: high.
 
@@ -36,30 +36,30 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
-| Chip stocks rebound premarket as Intel manufacturing update lifts sector | Investing.com | 2026-06-17 |
-| AMD, Marvell, SpaceX, and More Stocks That Explain Today’s Market | Barrons.com | 2026-06-17 |
-| Marvell Technology (NasdaqGS:MRVL) Gets Nvidia Backing And A $2 Billion Investment | Simply Wall St. | 2026-06-17 |
-| US Stock Market Today: S&P 500 Futures Slip As Factory Data Signals Cooling Economy | Simply Wall St. | 2026-06-17 |
+| Marvell Gains Attention After Nvidia Backing | GuruFocus.com | 2026-06-17 |
+| Jim Cramer on Adobe: “I Don’t Want You in It” | Insider Monkey | 2026-06-17 |
+| The Real Engine for Advanced Micro Devices Stock Might Not Be What You Think | Trefis | 2026-06-17 |
+| Stocks Supported by Chip Stock Strength and Strong US Retail Sales | Barchart | 2026-06-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $278.67; 52w high $316.43 (-11.93%); 52w low $62.19 (+348.07%) |
-| Trend | +151.89% vs SMA200, +46.35% vs SMA50, +13.40% vs SMA20 |
-| Momentum | RSI(14) 59.3 (neutral) |
-| Volatility | ATR(14) 27.55 (~9.9% of price); beta 2.28 |
-| Setup perspective | -11.93% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $289.54; 52w high $316.43 (-8.50%); 52w low $62.19 (+365.55%) |
+| Trend | +159.06% vs SMA200, +49.23% vs SMA50, +15.17% vs SMA20 |
+| Momentum | RSI(14) 61.2 (neutral) |
+| Volatility | ATR(14) 27.63 (~9.5% of price); beta 2.28 |
+| Setup perspective | -8.50% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +4.4% |
-| Month | +57.5% |
-| Quarter | +207.1% |
-| Half Y | +230.5% |
-| 1Y | +315.9% |
-| YTD | +212.1% |
+| Week | +14.6% |
+| Month | +71.4% |
+| Quarter | +230.6% |
+| Half Y | +244.0% |
+| 1Y | +312.3% |
+| YTD | +224.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,7 +67,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $8.72B | Revenue growth 27.60% y/y |
 | Profitability | Gross 51.50%, operating 14.48%, net 28.99% | ROA 3.81%, ROE 16.03% |
 | Balance sheet | Cash $3.84B, debt $5.28B | Current ratio 3.28, debt/equity 28.97 |
-| Valuation | P/E 96.09, forward P/E 45.15, P/S 27.99, P/B 13.40 | EV/Sales 28.13, EV/EBITDA 90.42 |
+| Valuation | P/E 99.84, forward P/E 46.91, P/S 29.06, P/B 13.92 | EV/Sales 28.13, EV/EBITDA 90.42 |
 | Growth expectations | Earnings growth -80.40%, EPS q/q -80.60% | Analyst mean target $235.70 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -94,8 +94,8 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Van Eck Associates Corporation | 10,745,703 | 1.23% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 45.15, EV/Sales 28.13. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.28, ATR 9.9% of price, short float 4.71%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 46.91, EV/Sales 28.13. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.28, ATR 9.5% of price, short float 4.71%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $278.67 | EV/Sales | 28.13 |
-| Market cap | $243.99B | EV/EBITDA | 90.42 |
+| Price | $289.54 | EV/Sales | 28.13 |
+| Market cap | $253.29B | EV/EBITDA | 90.42 |
 | Beta | 2.28 | Gross margin | 51.50% |
-| RSI(14) | 59.3 | Operating margin | 14.48% |
-| ATR(14) | 27.55 | Profit margin | 28.99% |
-| SMA20 dist | +13.40% | ROA | 3.81% |
-| SMA50 dist | +46.35% | ROE | 16.03% |
-| SMA200 dist | +151.89% | Revenue (ttm) | $8.72B |
+| RSI(14) | 61.2 | Operating margin | 14.48% |
+| ATR(14) | 27.63 | Profit margin | 28.99% |
+| SMA20 dist | +15.17% | ROA | 3.81% |
+| SMA50 dist | +49.23% | ROE | 16.03% |
+| SMA200 dist | +159.06% | Revenue (ttm) | $8.72B |
 | 52W high | $316.43 | Revenue growth y/y | 27.60% |
 | 52W low | $62.19 | Inst. ownership | 85.59% |
-| P/E (ttm) | 96.09 | Insider ownership | 0.69% |
-| Forward P/E | 45.15 | Short float | 4.71% |
+| P/E (ttm) | 99.84 | Insider ownership | 0.69% |
+| Forward P/E | 46.91 | Short float | 4.71% |
 | PEG (trailing) | 1.57 | Avg volume | 36,315,360 |
-| P/S | 27.99 | Employees | 7,480 |
-| P/B | 13.40 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/S | 29.06 | Employees | 7,480 |
+| P/B | 13.92 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

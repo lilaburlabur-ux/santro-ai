@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-06-17T20:37:28+00:00",
-  "as_of_local": "2026-06-17 20:37:28 UTC",
+  "as_of_utc": "2026-06-17T20:41:38+00:00",
+  "as_of_local": "2026-06-17 20:41:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 204.65,
-      "previous_close": 207.41,
-      "change_pct": -1.33,
-      "market_cap": 4956827502166.748,
-      "headlines": [
-        {
-          "title": "How SpaceX and 'MANGOS' are fueling the latest ETF trends",
-          "url": "https://finance.yahoo.com/video/how-spacex-and-mangos-are-fueling-the-latest-etf-trends-161839932.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-06-17T16:18:39Z"
-        },
-        {
-          "title": "5 stunning stats about the world's most valuable stocks",
-          "url": "https://finance.yahoo.com/markets/article/5-stunning-stats-about-the-worlds-most-valuable-stocks-121515219.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-06-17T12:15:15Z"
-        },
-        {
-          "title": "If You Buy This Industrial Stock Right Now, Could It Make You a Millionaire?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-industrial-stock-now-could-202500341.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-17T20:25:00Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -557,13 +531,13 @@
     },
     {
       "label": "BTC",
-      "price": 64416.71,
-      "change_pct": -1.8
+      "price": 64285.0,
+      "change_pct": -2.01
     },
     {
       "label": "Gold",
-      "price": 4280.9,
-      "change_pct": -1.15
+      "price": 4279.1,
+      "change_pct": -1.2
     },
     {
       "label": "Nasdaq100",

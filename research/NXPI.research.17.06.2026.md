@@ -36,10 +36,10 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
+| Texas Instruments Stock And The Industrial Recovery Hiding In Plain Sight | Trefis | 2026-06-17 |
 | TXN's Manufacturing Expansion Continues: Can It Strengthen Margins? | Zacks | 2026-06-17 |
 | NXP Semiconductors (NXPI) Registers a Bigger Fall Than the Market: Important Facts to Note | Zacks | 2026-06-16 |
 | Stocks Indexes Finish Mostly Lower as Chipmakers Retreat | Barchart | 2026-06-16 |
-| 3 S&P 500 Stocks We’re Skeptical Of | StockStory | 2026-06-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

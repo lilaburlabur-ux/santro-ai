@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| What A Patient Holder Is Really Paying For Broadcom Stock | Trefis | 2026-06-17 |
+| AMD, Arm, Intel Get Price-Target Hikes On 'CPU Renaissance' | Investor's Business Daily | 2026-06-17 |
 | Intel, SpaceX, Robinhood, Carvana, and More Stocks That Explain Today’s Market | Barrons.com | 2026-06-17 |
 | RXT Stock Surges To 4-Year Highs — Wall Street Highlights Multi-Industry Growth Potential After AMD Deal | Stocktwits | 2026-06-17 |
-| Advanced Micro Devices (AMD): The Best Debt-Free American Stock to Invest In | Insider Monkey | 2026-06-17 |
-| Why It Is Time to Stop Buying Chip Stocks | Barrons.com | 2026-06-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

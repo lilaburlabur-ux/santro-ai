@@ -36,8 +36,8 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
-| INTC, ARM, AMD Stocks Gain Today — Bernstein Supercharges AI Chip Bull Case | Stocktwits | 2026-06-17 |
 | AMD, Arm, Intel Get Price-Target Hikes On 'CPU Renaissance' | Investor's Business Daily | 2026-06-17 |
+| INTC, ARM, AMD Stocks Gain Today — Bernstein Supercharges AI Chip Bull Case | Stocktwits | 2026-06-17 |
 | Arm Holdings plc (ARM) Rallied Over Multiple Tailwinds | Insider Monkey | 2026-06-17 |
 | Bernstein flags structural beneficiaries of the CPU renaissance | Investing.com | 2026-06-17 |
 

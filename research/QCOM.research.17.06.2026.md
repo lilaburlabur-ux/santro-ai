@@ -37,9 +37,9 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Headline | Source | Date |
 |---|---|---|
 | Microsoft debuts Surface Laptop and Surface Pro amid AI-driven memory shortage | Yahoo Finance | 2026-06-16 |
+| What A Patient Holder Is Really Paying For Broadcom Stock | Trefis | 2026-06-17 |
+| Applied Materials (AMAT) Shares Skyrocket, What You Need To Know | StockStory | 2026-06-17 |
 | The Real Engine for Advanced Micro Devices Stock Might Not Be What You Think | Trefis | 2026-06-17 |
-| Is Micron Stock's Data Center Engine Stalling, Or Just Drowned Out By AI? | Trefis | 2026-06-17 |
-| Stocks Supported by Chip Stock Strength and Strong US Retail Sales | Barchart | 2026-06-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

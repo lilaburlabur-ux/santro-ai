@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | How SpaceX and 'MANGOS' are fueling the latest ETF trends | Yahoo Finance Video | 2026-06-17 |
 | 5 stunning stats about the world's most valuable stocks | Yahoo Finance | 2026-06-17 |
-| What investors should know before hopping on SpaceX options trades | Yahoo Finance Video | 2026-06-16 |
-| This Nvidia-Backed Company Is Bringing Artificial Intelligence (AI) Into the Physical World. Its Stock Could Jump 3x | Motley Fool | 2026-06-17 |
+| AI vs. inflation: why Wall Street is ignoring soaring rates | Yahoo Finance Video | 2026-06-17 |
+| 2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade | Motley Fool | 2026-06-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

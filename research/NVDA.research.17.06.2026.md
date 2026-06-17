@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | SpaceX's near $3 trillion rally comes with one big catch: Chart of the Day | Yahoo Finance | 2026-06-17 |
 | SpaceX closes in on Amazon in sprint toward $3 trillion | Yahoo Finance | 2026-06-16 |
-| Iron Mountain: High Yield and Reliable Revenue From the Largest Companies | Motley Fool | 2026-06-17 |
-| Nvidia Stock Is Suffering as Competition Begins to Bite | Barrons.com | 2026-06-17 |
+| SpaceX Opened at $150: What Else Happened on Day 1? | Motley Fool | 2026-06-17 |
+| If You Buy Dutch Bros Today, Here's Where It Could Be in 5 Years | Motley Fool | 2026-06-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

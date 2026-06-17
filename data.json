@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-06-17T20:41:38+00:00",
-  "as_of_local": "2026-06-17 20:41:38 UTC",
+  "as_of_utc": "2026-06-17T20:46:45+00:00",
+  "as_of_local": "2026-06-17 20:46:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 204.65,
+      "previous_close": 207.41,
+      "change_pct": -1.33,
+      "market_cap": 4956827502166.748,
+      "headlines": [
+        {
+          "title": "How SpaceX and 'MANGOS' are fueling the latest ETF trends",
+          "url": "https://finance.yahoo.com/video/how-spacex-and-mangos-are-fueling-the-latest-etf-trends-161839932.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-06-17T16:18:39Z"
+        },
+        {
+          "title": "5 stunning stats about the world's most valuable stocks",
+          "url": "https://finance.yahoo.com/markets/article/5-stunning-stats-about-the-worlds-most-valuable-stocks-121515219.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-06-17T12:15:15Z"
+        },
+        {
+          "title": "AI vs. inflation: why Wall Street is ignoring soaring rates",
+          "url": "https://finance.yahoo.com/video/ai-vs-inflation-why-wall-100000624.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-06-17T10:00:00Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -164,7 +190,7 @@
           "title": "AMD, Arm, Intel Get Price-Target Hikes On 'CPU Renaissance'",
           "url": "https://www.investors.com/news/technology/chip-stocks-amd-arm-intel-price-target-hikes/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-06-17T16:00:38Z"
+          "published": "2026-06-17T20:40:00Z"
         },
         {
           "title": "Arm Holdings plc (ARM) Rallied Over Multiple Tailwinds",
@@ -531,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 64285.0,
-      "change_pct": -2.01
+      "price": 64223.68,
+      "change_pct": -2.1
     },
     {
       "label": "Gold",
-      "price": 4279.1,
-      "change_pct": -1.2
+      "price": 4283.1,
+      "change_pct": -1.1
     },
     {
       "label": "Nasdaq100",

@@ -1,45 +1,51 @@
 {
-  "as_of_utc": "2026-06-17T15:05:40+00:00",
-  "as_of_local": "2026-06-17 15:05:40 UTC",
+  "as_of_utc": "2026-06-17T15:10:41+00:00",
+  "as_of_local": "2026-06-17 15:10:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 206.24,
+      "price": 206.4,
       "previous_close": 207.41,
-      "change_pct": -0.56,
-      "market_cap": 4995823326950.073,
+      "change_pct": -0.49,
+      "market_cap": 4999456698699.951,
       "headlines": [
         {
-          "title": "SpaceX's near $3 trillion rally comes with one big catch: Chart of the Day",
-          "url": "https://finance.yahoo.com/markets/article/spacexs-near-3-trillion-rally-comes-with-one-big-catch-chart-of-the-day-122114608.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-06-17T12:21:14Z"
-        },
-        {
-          "title": "SpaceX closes in on Amazon in sprint toward $3 trillion",
-          "url": "https://finance.yahoo.com/markets/article/spacex-closes-in-on-amazon-in-sprint-toward-3-trillion-164918333.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-06-16T16:49:18Z"
-        },
-        {
-          "title": "How SpaceX mania made Musk more money in 1 day than 'Bill Gates' entire net worth'",
-          "url": "https://finance.yahoo.com/video/spacex-mania-made-musk-more-162000041.html",
+          "title": "Intel's 18A-P chips are in production and just in time as CPU demand ramps up",
+          "url": "https://finance.yahoo.com/video/intels-18a-p-chips-are-in-production-and-just-in-time-as-cpu-demand-ramps-up-145010818.html",
           "publisher": "Yahoo Finance Video",
-          "published": "2026-06-16T16:20:00Z"
+          "published": "2026-06-17T14:50:10Z"
+        },
+        {
+          "title": "AI vs. inflation: why Wall Street is ignoring soaring rates",
+          "url": "https://finance.yahoo.com/video/ai-vs-inflation-why-wall-100000624.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-06-17T10:00:00Z"
+        },
+        {
+          "title": "SpaceX extends historic rally, rockets to No. 4 by market value",
+          "url": "https://finance.yahoo.com/video/spacex-extends-historic-rally-rockets-to-no-4-by-market-value-195230760.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-06-16T19:52:30Z"
         }
       ]
     },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 435.96,
+      "price": 435.71,
       "previous_close": 425.83,
-      "change_pct": 2.38,
-      "market_cap": 2260887821389.555,
+      "change_pct": 2.32,
+      "market_cap": 2259807411489.264,
       "headlines": [
+        {
+          "title": "Intel's 18A-P chips are in production and just in time as CPU demand ramps up",
+          "url": "https://finance.yahoo.com/video/intels-18a-p-chips-are-in-production-and-just-in-time-as-cpu-demand-ramps-up-145010818.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-06-17T14:50:10Z"
+        },
         {
           "title": "Tech stocks today: Uber and Lucid expanding in Houston,  Intel's latest chip moves",
           "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-uber-and-lucid-expanding-in-houston-intels-latest-chip-moves-100000021.html",
@@ -51,22 +57,16 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-dan-loeb-top-ai-132655659.html",
           "publisher": "Insider Monkey",
           "published": "2026-06-17T13:26:55Z"
-        },
-        {
-          "title": "Intel Is Fast-Tracking Its Next Upgrade. It Could Be a \u2018Turnaround Moment\u2019 for the Foundry.",
-          "url": "https://www.barrons.com/articles/intel-stock-price-foundry-18ap-chips-2cd104d5?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-06-17T12:57:00Z"
         }
       ]
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 395.48,
+      "price": 397.49,
       "previous_close": 376.71,
-      "change_pct": 4.98,
-      "market_cap": 1881337525112.3062,
+      "change_pct": 5.52,
+      "market_cap": 1891233228040.6228,
       "headlines": [
         {
           "title": "SpaceX's near $3 trillion rally comes with one big catch: Chart of the Day",
@@ -91,10 +91,10 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 1037.38,
+      "price": 1037.6,
       "previous_close": 1020.76,
-      "change_pct": 1.63,
-      "market_cap": 1170339876485.8635,
+      "change_pct": 1.65,
+      "market_cap": 1169888755332.894,
       "headlines": [
         {
           "title": "SpaceX's near $3 trillion rally comes with one big catch: Chart of the Day",
@@ -119,10 +119,10 @@
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 521.34,
+      "price": 521.39,
       "previous_close": 507.29,
-      "change_pct": 2.77,
-      "market_cap": 850162569123.7372,
+      "change_pct": 2.78,
+      "market_cap": 849991387904.3109,
       "headlines": [
         {
           "title": "Western Digital stock jumps as AI trade reignites",
@@ -147,38 +147,38 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 120.7,
+      "price": 120.62,
       "previous_close": 117.05,
-      "change_pct": 3.12,
-      "market_cap": 606498991088.8672,
+      "change_pct": 3.05,
+      "market_cap": 605984818466.1865,
       "headlines": [
         {
-          "title": "Tech stocks today: Uber and Lucid expanding in Houston,  Intel's latest chip moves",
-          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-uber-and-lucid-expanding-in-houston-intels-latest-chip-moves-100000021.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-06-15T10:00:00Z"
+          "title": "Intel's 18A-P chips are in production and just in time as CPU demand ramps up",
+          "url": "https://finance.yahoo.com/video/intels-18a-p-chips-are-in-production-and-just-in-time-as-cpu-demand-ramps-up-145010818.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-06-17T14:50:10Z"
+        },
+        {
+          "title": "Microsoft reveals new Surface laptops starting at $1,499",
+          "url": "https://finance.yahoo.com/video/microsoft-reveals-new-surface-laptops-starting-at-1499-194617679.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-06-16T19:46:17Z"
         },
         {
           "title": "Intel Starts Early Production on 18A-P Chip Process",
           "url": "https://finance.yahoo.com/technology/articles/intel-starts-early-production-18a-145923460.html",
           "publisher": "GuruFocus.com",
           "published": "2026-06-17T14:59:23Z"
-        },
-        {
-          "title": "Why EOS Energy Stock Popped Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-eos-energy-stock-popped-144646293.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-17T14:46:46Z"
         }
       ]
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 424.09,
+      "price": 422.48,
       "previous_close": 396.34,
-      "change_pct": 7.0,
-      "market_cap": 451254386217.1349,
+      "change_pct": 6.6,
+      "market_cap": 449754261266.91705,
       "headlines": [
         {
           "title": "Arm Holdings plc (ARM) Rallied Over Multiple Tailwinds",
@@ -203,10 +203,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 291.82,
+      "price": 292.17,
       "previous_close": 278.67,
-      "change_pct": 4.72,
-      "market_cap": 255109171728.51562,
+      "change_pct": 4.84,
+      "market_cap": 255735941054.17154,
       "headlines": [
         {
           "title": "Semiconductor Stocks Climb in Premarket Trade Following Intel Manufacturing Milestone",
@@ -231,10 +231,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 216.85,
+      "price": 216.34,
       "previous_close": 214.07,
-      "change_pct": 1.3,
-      "market_cap": 228559906433.10547,
+      "change_pct": 1.06,
+      "market_cap": 228022356140.13672,
       "headlines": [
         {
           "title": "Microsoft debuts Surface Laptop and Surface Pro amid AI-driven memory shortage",
@@ -259,10 +259,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 307.3,
+      "price": 307.15,
       "previous_close": 302.89,
-      "change_pct": 1.45,
-      "market_cap": 77583103611.41959,
+      "change_pct": 1.41,
+      "market_cap": 77546390211.41241,
       "headlines": [
         {
           "title": "TXN's Manufacturing Expansion Continues: Can It Strengthen Margins?",
@@ -287,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 144.29,
+      "price": 144.02,
       "previous_close": 143.48,
-      "change_pct": 0.56,
-      "market_cap": 19768862766.677444,
+      "change_pct": 0.38,
+      "market_cap": 19731872150.500717,
       "headlines": [
         {
           "title": "Can AXTI Capitalize on the Optical Networking Upgrade Cycle?",
@@ -315,10 +315,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 137.64,
+      "price": 136.77,
       "previous_close": 134.94,
-      "change_pct": 2.0,
-      "market_cap": 5318090939.817429,
+      "change_pct": 1.36,
+      "market_cap": 5284669130.049286,
       "headlines": [
         {
           "title": "Will Synaptics' (SYNA) Edge AI UAV Collaboration Redefine Its Core IoT Investment Narrative?",
@@ -343,10 +343,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 46.37,
+      "price": 46.21,
       "previous_close": 45.8,
-      "change_pct": 1.24,
-      "market_cap": 1291838910.7729836,
+      "change_pct": 0.9,
+      "market_cap": 1287381415.983986,
       "headlines": [
         {
           "title": "Datadog upgraded, Accenture downgraded: Wall Street's top analyst calls",
@@ -373,16 +373,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 70.63,
-      "change_pct": 3.68,
+      "price": 70.67,
+      "change_pct": 3.74,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 1.63,
-          "price": 1037.38,
+          "change_pct": 1.65,
+          "price": 1037.6,
           "currency": "USD"
         },
         {
@@ -417,8 +417,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -1.52,
-          "price": 1961.29,
+          "change_pct": -1.24,
+          "price": 1966.85,
           "currency": "USD"
         },
         {
@@ -426,8 +426,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 4.43,
-          "price": 1077.0,
+          "change_pct": 4.03,
+          "price": 1072.9,
           "currency": "USD"
         },
         {
@@ -435,8 +435,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 6.31,
-          "price": 724.03,
+          "change_pct": 6.12,
+          "price": 722.77,
           "currency": "USD"
         },
         {
@@ -463,16 +463,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 70.63,
-    "change_pct": 3.68,
+    "price": 70.67,
+    "change_pct": 3.74,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 1.63,
-        "price": 1037.38,
+        "change_pct": 1.65,
+        "price": 1037.6,
         "currency": "USD"
       },
       {
@@ -507,8 +507,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -1.52,
-        "price": 1961.29,
+        "change_pct": -1.24,
+        "price": 1966.85,
         "currency": "USD"
       },
       {
@@ -516,8 +516,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 4.43,
-        "price": 1077.0,
+        "change_pct": 4.03,
+        "price": 1072.9,
         "currency": "USD"
       },
       {
@@ -525,8 +525,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 6.31,
-        "price": 724.03,
+        "change_pct": 6.12,
+        "price": 722.77,
         "currency": "USD"
       },
       {
@@ -552,23 +552,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7503.33,
-      "change_pct": -0.11
+      "price": 7500.53,
+      "change_pct": -0.14
     },
     {
       "label": "BTC",
-      "price": 65105.68,
-      "change_pct": -0.75
+      "price": 64985.0,
+      "change_pct": -0.94
     },
     {
       "label": "Gold",
-      "price": 4367.5,
-      "change_pct": 0.85
+      "price": 4366.3,
+      "change_pct": 0.82
     },
     {
       "label": "Nasdaq100",
-      "price": 30061.3,
-      "change_pct": 0.31
+      "price": 30042.79,
+      "change_pct": 0.25
     }
   ]
 }

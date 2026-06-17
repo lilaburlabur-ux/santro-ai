@@ -38,8 +38,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 |---|---|---|
 | Intel's 18A-P chips are in production and just in time as CPU demand ramps up | Yahoo Finance Video | 2026-06-17 |
 | Tech stocks today: Uber and Lucid expanding in Houston,  Intel's latest chip moves | Yahoo Finance | 2026-06-15 |
+| Why Intel Stock Is Up After the SpaceX IPO | Motley Fool | 2026-06-17 |
 | Intel's 18A-P Process Moves Forward | GuruFocus.com | 2026-06-17 |
-| Sector Update: Tech Stocks Rise Late Afternoon | MT Newswires | 2026-06-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

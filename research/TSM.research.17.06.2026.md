@@ -38,8 +38,8 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 |---|---|---|
 | Intel's 18A-P chips are in production and just in time as CPU demand ramps up | Yahoo Finance Video | 2026-06-17 |
 | Tech stocks today: Uber and Lucid expanding in Houston,  Intel's latest chip moves | Yahoo Finance | 2026-06-15 |
+| TSM at $426: Bubble Territory or a Buy for the Next AI Supercycle? | Zacks | 2026-06-17 |
 | AMD, Intel Rise as TSMC Capacity Tightens | GuruFocus.com | 2026-06-17 |
-| Is ASML (ASML) The Best Undervalued AI Stock? | Insider Monkey | 2026-06-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

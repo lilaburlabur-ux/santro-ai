@@ -37,9 +37,9 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Headline | Source | Date |
 |---|---|---|
 | SpaceX's near $3 trillion rally comes with one big catch: Chart of the Day | Yahoo Finance | 2026-06-17 |
+| Texas Instruments Stock And The Industrial Recovery Hiding In Plain Sight | Trefis | 2026-06-17 |
 | Why JPMorgan Analysts Would Be ‘Aggressive Buyers’ of Broadcom Stock | Barrons.com | 2026-06-17 |
 | TSM at $426: Bubble Territory or a Buy for the Next AI Supercycle? | Zacks | 2026-06-17 |
-| Broadcom Stock Pops After JPMorgan Calls For Aggressive Buying | GuruFocus.com | 2026-06-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

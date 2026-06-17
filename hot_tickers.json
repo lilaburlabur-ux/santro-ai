@@ -1,59 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-17T13:03:21+00:00",
+  "as_of": "2026-06-17T13:03:52+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "MGNI",
-   "company": "Magnite Inc",
-   "move_pct": 11.52,
-   "price": 18.68,
-   "volume": 6374344,
-   "volume_vs_avg": "~2x",
-   "heat_score": 76,
-   "direction": "up",
-   "why": "Magnite (MGNI) Moves 10.8% Higher: Will This Strength Last?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/magnite-mgni-moves-10-8-091000416.html",
-   "published": "2026-06-17T09:10:00Z",
-   "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 2,
-   "ticker": "SNAP",
-   "company": "Snap Inc",
-   "move_pct": -10.51,
-   "price": 5.11,
-   "volume": 92193086,
-   "volume_vs_avg": "~2x",
-   "heat_score": 72,
-   "direction": "down",
-   "why": "SNAP Introduces New Safeguards for Younger Users",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://tech.yahoo.com/social-media/articles/snap-introduces-safeguards-younger-users-095922916.html",
-   "published": "2026-06-17T09:59:22Z",
-   "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 3,
-   "ticker": "TLN",
-   "company": "Talen Energy Corp",
-   "move_pct": 6.28,
-   "price": 410.45,
-   "volume": 1563427,
-   "volume_vs_avg": "~2x",
-   "heat_score": 47,
-   "direction": "up",
-   "why": "Talen Energy Corporation (TLN) Surges 5.3%: Is This an Indication of Further Gains?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/talen-energy-corporation-tln-surges-112000338.html",
-   "published": "2026-06-17T11:20:00Z",
-   "sector": "Data Center, Power & Energy"
-  }
- ]
+ "hot_tickers": []
 }

@@ -1,18 +1,44 @@
 {
-  "as_of_utc": "2026-06-17T20:00:52+00:00",
-  "as_of_local": "2026-06-17 20:00:52 UTC",
+  "as_of_utc": "2026-06-17T20:05:53+00:00",
+  "as_of_local": "2026-06-17 20:05:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 204.65,
+      "previous_close": 207.41,
+      "change_pct": -1.33,
+      "market_cap": 4956827502166.748,
+      "headlines": [
+        {
+          "title": "How SpaceX and 'MANGOS' are fueling the latest ETF trends",
+          "url": "https://finance.yahoo.com/video/how-spacex-and-mangos-are-fueling-the-latest-etf-trends-161839932.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-06-17T16:18:39Z"
+        },
+        {
+          "title": "5 stunning stats about the world's most valuable stocks",
+          "url": "https://finance.yahoo.com/markets/article/5-stunning-stats-about-the-worlds-most-valuable-stocks-121515219.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-06-17T12:15:15Z"
+        },
+        {
+          "title": "What investors should know before hopping on SpaceX options trades",
+          "url": "https://finance.yahoo.com/video/what-investors-should-know-before-hopping-on-spacex-options-trades-203526285.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-06-16T20:35:26Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 433.36,
+      "price": 432.14,
       "previous_close": 425.83,
-      "change_pct": 1.77,
-      "market_cap": 2247636259994.585,
+      "change_pct": 1.48,
+      "market_cap": 2241282955951.5605,
       "headlines": [
         {
           "title": "Intel's 18A-P chips are in production and just in time as CPU demand ramps up",
@@ -180,7 +206,7 @@
       "price": 289.54,
       "previous_close": 278.67,
       "change_pct": 3.9,
-      "market_cap": 253507673191.95346,
+      "market_cap": 253289599475.09766,
       "headlines": [
         {
           "title": "Marvell Gains Attention After Nvidia Backing",
@@ -347,8 +373,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 69.91,
-      "change_pct": 2.63,
+      "price": 69.95,
+      "change_pct": 2.69,
       "holdings": [
         {
           "symbol": "MU",
@@ -437,8 +463,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 69.91,
-    "change_pct": 2.63,
+    "price": 69.95,
+    "change_pct": 2.69,
     "holdings": [
       {
         "symbol": "MU",
@@ -526,18 +552,18 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7420.12,
+      "price": 7420.1,
       "change_pct": -1.21
     },
     {
       "label": "BTC",
-      "price": 64145.16,
-      "change_pct": -2.22
+      "price": 64285.61,
+      "change_pct": -2.0
     },
     {
       "label": "Gold",
-      "price": 4259.5,
-      "change_pct": -1.65
+      "price": 4261.6,
+      "change_pct": -1.6
     },
     {
       "label": "Nasdaq100",

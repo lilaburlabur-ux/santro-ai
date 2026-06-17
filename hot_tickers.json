@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-17T10:46:13+00:00",
+  "as_of": "2026-06-17T11:01:13+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,6 +9,22 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "MGNI",
+   "company": "Magnite Inc",
+   "move_pct": 9.97,
+   "price": 18.42,
+   "volume": 6374344,
+   "volume_vs_avg": "~2x",
+   "heat_score": 71,
+   "direction": "up",
+   "why": "Magnite (MGNI) Moves 10.8% Higher: Will This Strength Last?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/magnite-mgni-moves-10-8-091000416.html",
+   "published": "2026-06-17T09:10:00Z",
+   "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 2,
    "ticker": "SNAP",
    "company": "Snap Inc",
    "move_pct": -8.93,
@@ -21,22 +37,6 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://tech.yahoo.com/social-media/articles/snap-introduces-safeguards-younger-users-095922916.html",
    "published": "2026-06-17T09:59:22Z",
-   "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 2,
-   "ticker": "MGNI",
-   "company": "Magnite Inc",
-   "move_pct": 7.76,
-   "price": 18.05,
-   "volume": 6374344,
-   "volume_vs_avg": "~2x",
-   "heat_score": 53,
-   "direction": "up",
-   "why": "Magnite (MGNI) Moves 10.8% Higher: Will This Strength Last?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/magnite-mgni-moves-10-8-091000416.html",
-   "published": "2026-06-17T09:10:00Z",
    "sector": "AI Platforms, Internet & AdTech"
   }
  ]

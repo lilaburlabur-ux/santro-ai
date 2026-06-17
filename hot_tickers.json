@@ -1,10 +1,59 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-17T13:03:52+00:00",
+  "as_of": "2026-06-17T13:18:32+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "SNAP",
+   "company": "Snap Inc",
+   "move_pct": -10.68,
+   "price": 5.1,
+   "volume": 92193086,
+   "volume_vs_avg": "~2x",
+   "heat_score": 73,
+   "direction": "down",
+   "why": "SNAP Introduces New Safeguards for Younger Users",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://tech.yahoo.com/social-media/articles/snap-introduces-safeguards-younger-users-095922916.html",
+   "published": "2026-06-17T09:59:22Z",
+   "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 2,
+   "ticker": "SPCX",
+   "company": "SpaceX",
+   "move_pct": 8.24,
+   "price": 208.37,
+   "volume": 0,
+   "volume_vs_avg": "~0.0x",
+   "heat_score": 54,
+   "direction": "up",
+   "why": "Stock Market Today: Dow Waffles Ahead Of Fed Decision, Warsh Remarks; SpaceX Rally Continues (Live Coverage)",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-decision-warsh-spacex-stock-spcx/?src=A00220&yptr=yahoo",
+   "published": "2026-06-17T12:56:48Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 3,
+   "ticker": "TLN",
+   "company": "Talen Energy Corp",
+   "move_pct": 6.11,
+   "price": 409.8,
+   "volume": 1563427,
+   "volume_vs_avg": "~2x",
+   "heat_score": 46,
+   "direction": "up",
+   "why": "Talen Energy Corporation (TLN) Surges 5.3%: Is This an Indication of Further Gains?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/talen-energy-corporation-tln-surges-112000338.html",
+   "published": "2026-06-17T11:20:00Z",
+   "sector": "Data Center, Power & Energy"
+  }
+ ]
 }

@@ -1,91 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-16T22:46:21+00:00",
+  "as_of": "2026-06-17T10:11:07+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "SNAP",
-   "company": "Snap Inc",
-   "move_pct": -8.93,
-   "price": 5.2,
-   "volume": 92193086,
-   "volume_vs_avg": "~2x",
-   "heat_score": 67,
-   "direction": "down",
-   "why": "SNAP Stock Drops \u2014 Snap Launches AR Smart Glasses, But Retail Is \u2018Skeptical\u2019 On Over $2,000 Price Tag",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/articles/snap-stock-drops-snap-launches-194900498.html",
-   "published": "2026-06-16T19:49:00Z",
-   "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 2,
-   "ticker": "MRVL",
-   "company": "Marvell Technology Inc",
-   "move_pct": -8.05,
-   "price": 284.0,
-   "volume": 58399992,
-   "volume_vs_avg": "~1.3x",
-   "heat_score": 60,
-   "direction": "down",
-   "why": "Marvell's 265% Surge Faces $1 Trillion Test",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvells-265-surge-faces-1-192002807.html",
-   "published": "2026-06-16T19:20:02Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 3,
-   "ticker": "INTC",
-   "company": "Intel Corp",
-   "move_pct": -6.77,
-   "price": 119.21,
-   "volume": 131400739,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 43,
-   "direction": "down",
-   "why": "Intel Spinout Cornelis Wins Supercomputer Chip Role",
-   "catalyst_type": "contract_win",
-   "source_url": "https://finance.yahoo.com/technology/articles/intel-spinout-cornelis-wins-supercomputer-192057014.html",
-   "published": "2026-06-16T19:20:57Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 4,
-   "ticker": "AMD",
-   "company": "Advanced Micro Devices Inc",
-   "move_pct": -6.28,
-   "price": 512.88,
-   "volume": 26857508,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 41,
-   "direction": "down",
-   "why": "Stocks to Watch: SpaceX, JPMorgan, AMD, Robinhood",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-16-2026/card/stocks-to-watch-spacex-qualcomm-dave-buster-s-6q5CjGNVDDA4CigySAs4?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-06-16T19:34:14Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 5,
-   "ticker": "SPCX",
-   "company": "SpaceX",
-   "move_pct": 5.71,
-   "price": 203.5,
-   "volume": 315224407,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 39,
-   "direction": "up",
-   "why": "Tesla Stock Can\u2019t Escape SpaceX\u2019s Gravity",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.barrons.com/articles/tesla-stock-price-spacex-musk-7347d378?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-06-16T20:26:00Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  }
- ]
+ "hot_tickers": []
 }

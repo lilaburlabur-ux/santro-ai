@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-06-17T22:53:37+00:00",
-  "as_of_local": "2026-06-17 22:53:37 UTC",
+  "as_of_utc": "2026-06-17T22:58:28+00:00",
+  "as_of_local": "2026-06-17 22:58:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -81,10 +83,10 @@
           "published": "2026-06-17T12:21:14Z"
         },
         {
-          "title": "Stock Market Today, June 17: Stocks Slide on Fed Rate Hike Fears",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-june-17-212951273.html",
+          "title": "Stock Market Today, June 17: Marvell Rises as AI Bookings Build on Nvidia-Linked Momentum",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-june-17-224703370.html",
           "publisher": "Motley Fool",
-          "published": "2026-06-17T21:29:51Z"
+          "published": "2026-06-17T22:47:03Z"
         }
       ]
     },
@@ -197,34 +199,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intc-arm-amd-stocks-gain-171106235.html",
           "publisher": "Stocktwits",
           "published": "2026-06-17T17:11:06Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 289.54,
-      "previous_close": 278.67,
-      "change_pct": 3.9,
-      "market_cap": 253507673191.95346,
-      "headlines": [
-        {
-          "title": "What A Patient Holder Is Really Paying For Broadcom Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/patient-holder-really-paying-broadcom-204512475.html",
-          "publisher": "Trefis",
-          "published": "2026-06-17T20:45:12Z"
-        },
-        {
-          "title": "Marvell Gains Attention After Nvidia Backing",
-          "url": "https://finance.yahoo.com/technology/ai/articles/marvell-gains-attention-nvidia-backing-165413870.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-06-17T16:54:13Z"
-        },
-        {
-          "title": "Jim Cramer on Adobe: \u201cI Don\u2019t Want You in It\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-adobe-don-t-165358452.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-17T16:53:58Z"
         }
       ]
     },
@@ -453,8 +427,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 1.02,
-          "price": 199.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "TWD"
         }
       ]
@@ -543,8 +517,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 1.02,
-        "price": 199.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "TWD"
       }
     ]
@@ -557,13 +531,13 @@
     },
     {
       "label": "BTC",
-      "price": 64335.69,
-      "change_pct": -1.93
+      "price": 64264.67,
+      "change_pct": -2.04
     },
     {
       "label": "Gold",
-      "price": 4285.3,
-      "change_pct": -1.05
+      "price": 4281.0,
+      "change_pct": -1.15
     },
     {
       "label": "Nasdaq100",

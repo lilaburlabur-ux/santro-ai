@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-06-17T22:58:28+00:00",
-  "as_of_local": "2026-06-17 22:58:28 UTC",
+  "as_of_utc": "2026-06-17T23:03:30+00:00",
+  "as_of_local": "2026-06-17 23:03:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -203,6 +201,34 @@
       ]
     },
     {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 289.54,
+      "previous_close": 278.67,
+      "change_pct": 3.9,
+      "market_cap": 253289599475.09766,
+      "headlines": [
+        {
+          "title": "Stock Market Today, June 17: Marvell Rises as AI Bookings Build on Nvidia-Linked Momentum",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-june-17-224703370.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-17T22:47:03Z"
+        },
+        {
+          "title": "What A Patient Holder Is Really Paying For Broadcom Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/patient-holder-really-paying-broadcom-204512475.html",
+          "publisher": "Trefis",
+          "published": "2026-06-17T20:45:12Z"
+        },
+        {
+          "title": "Marvell Gains Attention After Nvidia Backing",
+          "url": "https://finance.yahoo.com/technology/ai/articles/marvell-gains-attention-nvidia-backing-165413870.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-06-17T16:54:13Z"
+        }
+      ]
+    },
+    {
       "symbol": "QCOM",
       "name": "Qualcomm",
       "price": 212.97,
@@ -364,8 +390,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 5.84,
-          "price": 2521000.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "KRW"
         },
         {
@@ -427,8 +453,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 1.02,
+          "price": 199.0,
           "currency": "TWD"
         }
       ]
@@ -454,8 +480,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 5.84,
-        "price": 2521000.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "KRW"
       },
       {
@@ -517,8 +543,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 1.02,
+        "price": 199.0,
         "currency": "TWD"
       }
     ]
@@ -531,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 64264.67,
-      "change_pct": -2.04
+      "price": 64287.24,
+      "change_pct": -2.0
     },
     {
       "label": "Gold",
-      "price": 4281.0,
-      "change_pct": -1.15
+      "price": 4285.1,
+      "change_pct": -1.06
     },
     {
       "label": "Nasdaq100",

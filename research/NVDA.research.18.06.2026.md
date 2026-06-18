@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Amazon CEO Jassy says company could sell AI chips, raising stakes for Nvidia, AMD | Yahoo Finance | 2026-04-09 |
 | Intel jumps after Trump says Apple, Intel reached US chip deal | Yahoo Finance Video | 2026-06-18 |
+| Dow Jones Futures: Nvidia Leads 5 Chips Near Buy Points; SpaceX Stock Needs This | Investor's Business Daily | 2026-06-18 |
 | Apple’s Latest Reveal Proves That Micron Has “More Room To Run” | 24/7 Wall St. | 2026-06-18 |
-| USA Rare Earth Now Has $3.5 Billion to Establish a "Mine-to-Magnet" Business That Is Crucial to National Security. Is the Stock a Buy Today? | Motley Fool | 2026-06-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

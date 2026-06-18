@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Intel stock soars on reported Apple deal as turnaround continues to pay off | Yahoo Finance | 2026-06-18 |
+| Stock Market Today: Nasdaq, Russell 2000 Pace Rebound; SpaceX Slumps 24% Off Its Peak | Investor's Business Daily | 2026-06-18 |
 | Apple’s Latest Reveal Proves That Micron Has “More Room To Run” | 24/7 Wall St. | 2026-06-18 |
-| Update: Equities Rise, Oil Little Changed as Focus Shifts to Further US-Iran Talks | MT Newswires | 2026-06-18 |
-| Update: US Equity Indexes Rise as Washington Lifts Blockade of Iran's Ports, Deal Sets Up Hormuz Chokepoint for Reopening | MT Newswires | 2026-06-18 |
+| Intel shares surge after Trump touts deal with Apple | Axios | 2026-06-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

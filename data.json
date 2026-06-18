@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-06-18T06:29:02+00:00",
-  "as_of_local": "2026-06-18 06:29:02 UTC",
+  "as_of_utc": "2026-06-18T06:44:03+00:00",
+  "as_of_local": "2026-06-18 06:44:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -159,16 +161,16 @@
           "published": "2026-06-17T20:15:25Z"
         },
         {
+          "title": "Intel Stock Rips Nearly 6% Overnight After Trump Confirms Apple Chip Manufacturing Deal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-rips-nearly-6-061250445.html",
+          "publisher": "Stocktwits",
+          "published": "2026-06-18T06:12:50Z"
+        },
+        {
           "title": "Trump says Apple to work with Intel to manufacture chips in US",
           "url": "https://finance.yahoo.com/technology/articles/trump-says-apple-intel-manufacture-044616435.html",
           "publisher": "Reuters",
           "published": "2026-06-18T04:54:43Z"
-        },
-        {
-          "title": "Trump says Apple to partner with Intel on US chip design, production",
-          "url": "https://finance.yahoo.com/technology/articles/trump-says-apple-intel-manufacture-044440199.html",
-          "publisher": "Reuters",
-          "published": "2026-06-18T04:44:40Z"
         }
       ]
     },
@@ -243,16 +245,16 @@
           "published": "2026-06-16T13:00:13Z"
         },
         {
+          "title": "QUALCOMM (QCOM) Is Up 11.4% After Launching Custom AI Data Center Silicon With a Hyperscaler",
+          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-11-4-launching-060929736.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-06-18T06:09:29Z"
+        },
+        {
           "title": "Qualcomm (QCOM) Is Reportedly Eyeing Tenstorrent In A $10 Billion AI Chip Deal",
           "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-reportedly-eyeing-tenstorrent-050918276.html",
           "publisher": "Simply Wall St.",
           "published": "2026-06-18T05:09:18Z"
-        },
-        {
-          "title": "Qualcomm in Talks to Acquire AI Chip Startup Tenstorrent for Up to $10 Billion, Reuters Reports",
-          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-talks-acquire-ai-chip-230401789.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-17T23:04:01Z"
         }
       ]
     },
@@ -313,34 +315,6 @@
       ]
     },
     {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 133.53,
-      "previous_close": 134.94,
-      "change_pct": -1.04,
-      "market_cap": 5159290030.884857,
-      "headlines": [
-        {
-          "title": "Will Synaptics' (SYNA) Edge AI UAV Collaboration Redefine Its Core IoT Investment Narrative?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-edge-ai-uav-160949095.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-06-04T16:09:49Z"
-        },
-        {
-          "title": "Northland Raises its Price Target on Synaptics (SYNA)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/northland-raises-price-target-synaptics-164801380.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-05-22T16:48:01Z"
-        },
-        {
-          "title": "Synaptics (SYNA) Is Up 2.23% in One Week: What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-2-23-one-160003792.html",
-          "publisher": "Zacks",
-          "published": "2026-05-20T16:00:03Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 44.91,
@@ -390,8 +364,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 7.85,
-          "price": 2719000.0,
+          "change_pct": 7.02,
+          "price": 2698000.0,
           "currency": "KRW"
         },
         {
@@ -399,8 +373,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 3.46,
-          "price": 358500.0,
+          "change_pct": 4.62,
+          "price": 362500.0,
           "currency": "KRW"
         },
         {
@@ -408,8 +382,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 0.55,
-          "price": 96530.0,
+          "change_pct": 1.33,
+          "price": 97280.0,
           "currency": "JPY"
         },
         {
@@ -480,8 +454,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 7.85,
-        "price": 2719000.0,
+        "change_pct": 7.02,
+        "price": 2698000.0,
         "currency": "KRW"
       },
       {
@@ -489,8 +463,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 3.46,
-        "price": 358500.0,
+        "change_pct": 4.62,
+        "price": 362500.0,
         "currency": "KRW"
       },
       {
@@ -498,8 +472,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 0.55,
-        "price": 96530.0,
+        "change_pct": 1.33,
+        "price": 97280.0,
         "currency": "JPY"
       },
       {
@@ -557,13 +531,13 @@
     },
     {
       "label": "BTC",
-      "price": 63896.0,
-      "change_pct": -2.6
+      "price": 64021.98,
+      "change_pct": -0.62
     },
     {
       "label": "Gold",
-      "price": 4321.1,
-      "change_pct": -0.87
+      "price": 4324.8,
+      "change_pct": -0.78
     },
     {
       "label": "Nasdaq100",

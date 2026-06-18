@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-06-18T09:06:05+00:00",
-  "as_of_local": "2026-06-18 09:06:05 UTC",
+  "as_of_utc": "2026-06-18T09:10:57+00:00",
+  "as_of_local": "2026-06-18 09:10:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -127,6 +125,12 @@
       "market_cap": 835650183627.0513,
       "headlines": [
         {
+          "title": "Why AMD's Recent Acquisition Makes the Stock Even More Attractive",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-amds-recent-acquisition-makes-085400127.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-18T08:54:00Z"
+        },
+        {
           "title": "The iShares Semiconductor ETF Is Obliterating the S&P 500 in 2026, but Is It Still a Buy? The Answer Might Surprise You.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-semiconductor-etf-obliterating-p-084200627.html",
           "publisher": "Motley Fool",
@@ -137,12 +141,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/dell-dell-powers-cambridge-ai-081806399.html",
           "publisher": "Simply Wall St.",
           "published": "2026-06-18T08:18:06Z"
-        },
-        {
-          "title": "Cerebras Stock Is a Cautionary Tale for SpaceX Investors",
-          "url": "https://www.barrons.com/articles/cerebras-stock-cautionary-spacex-investors-651f4479?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-06-18T06:30:00Z"
         }
       ]
     },
@@ -199,6 +197,34 @@
           "url": "https://finance.yahoo.com/technology/articles/arm-arm-introduces-neural-dawn-214146303.html",
           "publisher": "Insider Monkey",
           "published": "2026-06-17T21:41:46Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 289.54,
+      "previous_close": 278.67,
+      "change_pct": 3.9,
+      "market_cap": 253289599475.09766,
+      "headlines": [
+        {
+          "title": "Analyst Raises Marvell Technology (MRVL) Price Target by $105. Here is Why",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-raises-marvell-technology-mrvl-011453749.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-06-18T01:14:53Z"
+        },
+        {
+          "title": "Stock Market Today, June 17: Marvell Rises as AI Bookings Build on Nvidia-Linked Momentum",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-june-17-224703370.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-17T22:47:03Z"
+        },
+        {
+          "title": "What A Patient Holder Is Really Paying For Broadcom Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/patient-holder-really-paying-broadcom-204512475.html",
+          "publisher": "Trefis",
+          "published": "2026-06-17T20:45:12Z"
         }
       ]
     },
@@ -531,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 64293.72,
-      "change_pct": -0.19
+      "price": 64285.35,
+      "change_pct": -2.0
     },
     {
       "label": "Gold",
-      "price": 4294.2,
-      "change_pct": -1.48
+      "price": 4281.5,
+      "change_pct": -1.78
     },
     {
       "label": "Nasdaq100",

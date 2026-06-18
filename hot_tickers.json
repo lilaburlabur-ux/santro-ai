@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-18T11:03:02+00:00",
+  "as_of": "2026-06-18T11:18:15+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": 8.26,
-   "price": 131.11,
+   "move_pct": 8.46,
+   "price": 131.35,
    "volume": 114291800,
    "volume_vs_avg": "~0.8x",
-   "heat_score": 58,
+   "heat_score": 59,
    "direction": "up",
-   "why": "US chip stocks gain after Apple-Intel partnership",
+   "why": "Intel vs. Impinj: Which Technology Stock Is a Better Buy in 2026?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/articles/us-chip-stocks-gain-apple-103032930.html",
-   "published": "2026-06-18T10:30:32Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-impinj-technology-stock-105001644.html",
+   "published": "2026-06-18T10:50:01Z",
    "sector": "AI Chips & Compute"
   }
  ]

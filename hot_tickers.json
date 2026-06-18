@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-18T12:33:23+00:00",
+  "as_of": "2026-06-18T12:35:13+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,29 +9,13 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "SPCX",
-   "company": "SpaceX",
-   "move_pct": -20.27,
-   "price": 152.93,
-   "volume": 200530700,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 81,
-   "direction": "down",
-   "why": "How Not to Invest: SpaceX edition",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/video/not-invest-spacex-edition-120000700.html",
-   "published": "2026-06-18T12:00:00Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 2,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": 8.84,
-   "price": 131.8,
+   "move_pct": 8.98,
+   "price": 131.98,
    "volume": 114291800,
    "volume_vs_avg": "~0.8x",
-   "heat_score": 60,
+   "heat_score": 61,
    "direction": "up",
    "why": "Apple, Intel Chip Partnership Gains Momentum",
    "catalyst_type": "momentum_narrative",
@@ -40,11 +24,11 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
-   "move_pct": 5.94,
-   "price": 306.73,
+   "move_pct": 5.91,
+   "price": 306.65,
    "volume": 50324500,
    "volume_vs_avg": "~1.1x",
    "heat_score": 41,
@@ -56,11 +40,11 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "ticker": "LRCX",
    "company": "Lam Research Corp",
-   "move_pct": 5.54,
-   "price": 394.92,
+   "move_pct": 5.53,
+   "price": 394.88,
    "volume": 10879800,
    "volume_vs_avg": "~1.1x",
    "heat_score": 40,

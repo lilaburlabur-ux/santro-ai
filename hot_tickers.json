@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-18T10:07:08+00:00",
+  "as_of": "2026-06-18T10:12:19+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": 8.79,
-   "price": 131.75,
+   "move_pct": 8.93,
+   "price": 131.92,
    "volume": 114291800,
    "volume_vs_avg": "~0.8x",
    "heat_score": 60,
@@ -22,22 +22,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-bounce-back-093903888.html",
    "published": "2026-06-18T09:39:03Z",
    "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 2,
-   "ticker": "LRCX",
-   "company": "Lam Research Corp",
-   "move_pct": 5.3,
-   "price": 394.0,
-   "volume": 10879800,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 39,
-   "direction": "up",
-   "why": "Lam Research Corporation (LRCX)\u2019s WFE Opportunity May Be Bigger Than Expected",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-corporation-lrcx-wfe-080825408.html",
-   "published": "2026-06-18T08:08:25Z",
-   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

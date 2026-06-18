@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| Apple’s Latest Reveal Proves That Micron Has “More Room To Run” | 24/7 Wall St. | 2026-06-18 |
+| S&P 500 Posts Weekly Gain Amid US-Iran Memorandum of Understanding | MT Newswires | 2026-06-18 |
 | Sector Update: Tech Stocks Climb Late Afternoon | MT Newswires | 2026-06-18 |
 | Buyers Push Micron Stock To Nose-Bleed Levels As Earnings Approach; Darden, FedEx Results Also On Tap | Investor's Business Daily | 2026-06-18 |
-| Western Digital, FormFactor, and Vishay Intertechnology Shares Skyrocket, What You Need To Know | StockStory | 2026-06-18 |
-| Micron Technology (MU) Stock Sees Fair Value Lift As AI Memory Demand Drives Analyst Optimism | Simply Wall St. | 2026-06-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

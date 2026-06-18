@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
-| Stock Market Today: Nasdaq, Russell Pace Rebound; SpaceX Off As This Firm Breaks Out (Live Coverage) | Investor's Business Daily | 2026-06-18 |
+| Update: US Equity Indexes Rise as Washington Lifts Blockade of Iran's Ports, Deal Sets Up Hormuz Chokepoint for Reopening | MT Newswires | 2026-06-18 |
+| Marvell surged 7% Thursday as Amazon plans to sell Trainium chips externally | Investing.com | 2026-06-18 |
+| Stock Market Today: Nasdaq, Russell 2000 Pace Rebound; SpaceX Slumps 24% Off Its Peak | Investor's Business Daily | 2026-06-18 |
 | Sector Update: Tech Stocks Climb Late Afternoon | MT Newswires | 2026-06-18 |
-| Stocks to Watch: Intel, Accenture, Apple, SpaceX | The Wall Street Journal | 2026-06-18 |
-| Marvell Stock Gets 48% Price Target Hike on Growth in Optical-Networking | Barrons.com | 2026-06-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

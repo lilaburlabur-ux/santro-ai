@@ -37,9 +37,9 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Headline | Source | Date |
 |---|---|---|
 | Intel jumps after Trump says Apple, Intel reached US chip deal | Yahoo Finance Video | 2026-06-18 |
+| Intel Rallies to Record After Trump Touts Apple Chip Deal | Bloomberg | 2026-06-18 |
+| Why Is Intel (INTC) Stock Rocketing Higher Today | StockStory | 2026-06-18 |
 | Intel Stock Jumps On Reported Apple Chip Business | Investor's Business Daily | 2026-06-18 |
-| Intel Soars After Trump Says It Will Make Chips in America | Moby | 2026-06-18 |
-| Why Marvell Technology (MRVL) Stock Is Up Today | StockStory | 2026-06-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

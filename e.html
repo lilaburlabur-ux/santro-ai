@@ -42,6 +42,19 @@
     background:var(--panel-2); border:1px solid var(--border-soft); color:var(--text);}
   .sibs a:hover{border-color:var(--accent-border); color:var(--accent-2);}
   .sibs a b{color:var(--accent-2);}
+  .htbl{width:100%; border-collapse:collapse; max-width:580px; margin-top:2px;}
+  .htbl td{padding:7px 8px; border-bottom:1px solid var(--border-soft); font-size:13px; vertical-align:middle;}
+  .htbl tr:last-child td{border-bottom:0;}
+  .htbl .hn{color:var(--faint); width:20px; text-align:right; font-variant-numeric:tabular-nums;}
+  .htbl .hnm{color:var(--text); font-weight:600; padding-right:10px;}
+  .htbl .hbar{width:38%;}
+  .htbl .hbar span{display:block; height:7px; border-radius:99px; min-width:3px;
+    background:linear-gradient(90deg,var(--accent),var(--accent-2));}
+  .htbl .hw{color:var(--muted); text-align:right; font-variant-numeric:tabular-nums; width:52px; font-weight:700;}
+  .hmeta{color:var(--faint); font-weight:400; text-transform:none; letter-spacing:0; font-size:11px; margin-left:4px;}
+  .hextra{font-size:12.5px; color:var(--accent-2); margin:9px 0 0; max-width:580px; line-height:1.5;}
+  .hsrc{display:inline-block; margin-top:9px; font-size:12px; font-weight:700; color:var(--accent-2); text-decoration:none;}
+  .hsrc:hover{text-decoration:underline;}
   #tvchart{margin-bottom:6px; border:1px solid var(--border); border-radius:12px; overflow:hidden;}
   #tvchart iframe{display:block; width:100%!important;}
   .notfound{padding:60px 0; color:var(--muted);}
@@ -86,7 +99,7 @@
     © 2026 Santro AI. All rights reserved. Uses custom models.
   </footer>
 
-<script src="etf-data.js?v=1"></script>
+<script src="etf-data.js?v=2"></script>
 <script>
 const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const SYM=(new URLSearchParams(location.search).get("sym")||"").toUpperCase();
@@ -95,6 +108,25 @@ const CT={trap:"Why this is NOT what you want",lev:"Trader warning",income:"Inco
 const logoUrl=s=>`https://assets.parqet.com/logos/symbol/${encodeURIComponent(s.split(".")[0])}?format=png&size=64`;
 
 function statChip(k,v){ return v?`<div><div class="k">${k}</div><div class="v">${esc(v)}</div></div>`:""; }
+
+function holdingsSection(sym){
+  const h=(window.ETF_HOLDINGS||{})[sym];
+  if(!h||!h.top||!h.top.length) return "";
+  const maxw=Math.max(...h.top.map(x=>x.w));
+  const meta = h.partial
+    ? `top ${h.top.length} shown — composition mirrors its peers`
+    : `${h.nh} positions · top 10 = ${h.c10}%`
+      + (h.foreign==="heavy"?" · heavily foreign":h.foreign?` · ${h.foreign} foreign`:"")
+      + (h.asof?` · as of ${h.asof}`:"");
+  const rows=h.top.map((x,i)=>`<tr>
+    <td class="hn">${i+1}</td><td class="hnm">${esc(x.n)}</td>
+    <td class="hbar"><span style="width:${Math.max(3,Math.round(x.w/maxw*100))}%"></span></td>
+    <td class="hw">${x.w.toFixed(2)}%</td></tr>`).join("");
+  return `<div class="sec-label">Top holdings <span class="hmeta">${meta}</span></div>
+    <table class="htbl"><tbody>${rows}</tbody></table>
+    ${h.extra?`<p class="hextra">${esc(h.extra)}</p>`:""}
+    ${h.src?`<a class="hsrc" href="${h.src}" target="_blank" rel="noopener">Full holdings ↗</a>`:""}`;
+}
 
 function load(){
   const el=document.getElementById("tp");
@@ -117,10 +149,13 @@ function load(){
   if(e.risk) badges.push(`<span class="rb ${e.risk}">${RB[e.risk]||e.risk}</span>`);
   if(e.spv) badges.push(`<span class="rb spv">pre-IPO exposure</span>`);
 
+  const h=(window.ETF_HOLDINGS||{})[SYM];
+  const concChip = (h&&h.c10!=null) ? statChip("Top-10 concentration", Math.round(h.c10)+"%")
+                                    : statChip("Holdings", e.holds);
   const stats=[
     statChip("AUM", e.aum),
     statChip("Expense ratio", e.er),
-    statChip("Holdings", e.holds),
+    concChip,
     statChip("Distribution yield", e.yield)
   ].join("");
 
@@ -154,6 +189,8 @@ function load(){
     ${bucket&&bucket.blurb?`<p class="inside-txt" style="color:var(--muted);font-size:13.5px;margin-top:8px">${esc(bucket.blurb)}</p>`:""}
 
     <div class="kv" style="max-width:760px;margin-top:14px">${stats}</div>
+
+    ${holdingsSection(SYM)}
 
     ${callout?`<div class="sec-label">The trade-off</div>${callout}`:""}
 

@@ -89,3 +89,60 @@ window.ETFS = [
   {t:"KOMP", name:"SPDR S&P Kensho New Economies", bucket:"adjacent", aum:"—", er:"—", holds:"—", inside:"Broad new-economy basket"},
   {t:"LOUP", name:"Innovator Deepwater Frontier Tech", bucket:"adjacent", aum:"~$153M", er:"—", holds:"—", inside:"Gene Munster — active frontier tech"}
 ];
+
+// Weighted top holdings (June 2026) for the funds whose COMPOSITION actually
+// differs — issuer-reported, via stockanalysis.com. Leveraged/single-stock and
+// covered-call funds are omitted on purpose: they hold the SAME names in
+// leveraged or call-written form, so listing composition adds nothing. Weights
+// drift daily. nh = total positions, c10 = % held in the top 10 (the "how
+// concentrated" signal), src = full list, partial:true = only the top few were
+// published (near-duplicate of a peer fund already shown in full).
+window.ETF_HOLDINGS = {
+  BAI:  {nh:55,  c10:45.85, src:"https://stockanalysis.com/etf/bai/holdings/", top:[
+    {n:"SK Hynix",w:7.33},{n:"Micron",w:5.72},{n:"AMD",w:5.04},{n:"Broadcom",w:4.85},{n:"Nvidia",w:4.52},
+    {n:"TSMC",w:4.41},{n:"Lam Research",w:4.20},{n:"Alphabet",w:3.53},{n:"Tower Semiconductor",w:3.25},{n:"Western Digital",w:3.00}]},
+  AIQ:  {nh:92,  c10:43.79, src:"https://stockanalysis.com/etf/aiq/holdings/", top:[
+    {n:"SK Hynix",w:6.86},{n:"Micron",w:6.15},{n:"Samsung Electronics",w:5.10},{n:"AMD",w:5.02},{n:"Intel",w:4.79},
+    {n:"Cisco",w:4.05},{n:"TSMC",w:3.22},{n:"Broadcom",w:2.92},{n:"Apple",w:2.92},{n:"Nvidia",w:2.76}]},
+  ARTY: {nh:69,  c10:50.50, src:"https://stockanalysis.com/etf/arty/holdings/", top:[
+    {n:"Marvell",w:9.28},{n:"Micron",w:7.28},{n:"AMD",w:7.22},{n:"Oracle",w:4.17},{n:"CoreWeave",w:4.09},
+    {n:"TSMC",w:3.85},{n:"SK Hynix",w:3.80},{n:"NAVER",w:3.70},{n:"Super Micro",w:3.59},{n:"Nvidia",w:3.53}]},
+  CHAT: {nh:45,  c10:41.51, src:"https://stockanalysis.com/etf/chat/holdings/", top:[
+    {n:"Nvidia",w:6.82},{n:"Alphabet",w:5.43},{n:"SK Hynix",w:4.47},{n:"Broadcom",w:4.20},{n:"AMD",w:4.08},
+    {n:"Micron",w:3.87},{n:"Samsung",w:3.58},{n:"Nebius Group",w:3.40},{n:"Arm Holdings",w:2.96},{n:"CoreWeave",w:2.70}]},
+  IVES: {nh:31,  c10:47.80, src:"https://stockanalysis.com/etf/ives/holdings/", top:[
+    {n:"Micron",w:6.15},{n:"Broadcom",w:5.10},{n:"AMD",w:4.94},{n:"TSMC",w:4.78},{n:"Apple",w:4.60},
+    {n:"Microsoft",w:4.59},{n:"Nvidia",w:4.59},{n:"Meta",w:4.44},{n:"Tesla",w:4.31},{n:"Oracle",w:4.29}]},
+  IGPT: {nh:102, c10:60.10, asof:"Oct 2025", src:"https://stockanalysis.com/etf/igpt/holdings/", top:[
+    {n:"AMD",w:10.56},{n:"Alphabet",w:8.13},{n:"Nvidia",w:7.95},{n:"Micron",w:6.36},{n:"Meta",w:6.00},
+    {n:"SK Hynix",w:5.20},{n:"Intuitive Surgical",w:4.87},{n:"Qualcomm",w:4.25},{n:"Adobe",w:3.67},{n:"Intel",w:3.10}]},
+  THNQ: {nh:57,  c10:31.89, src:"https://stockanalysis.com/etf/thnq/holdings/", top:[
+    {n:"Nebius Group",w:4.23},{n:"AMD",w:3.89},{n:"Astera Labs",w:3.78},{n:"MediaTek",w:3.39},{n:"Datadog",w:3.14},
+    {n:"Infineon",w:3.12},{n:"IonQ",w:2.65},{n:"Credo Technology",w:2.64},{n:"Palo Alto Networks",w:2.56},{n:"JFrog",w:2.51}]},
+  SMH:  {nh:26,  c10:71.00, src:"https://stockanalysis.com/etf/smh/holdings/", top:[
+    {n:"Nvidia",w:14.51},{n:"TSMC",w:9.27},{n:"Micron",w:7.84},{n:"Intel",w:7.23},{n:"AMD",w:7.07},
+    {n:"Broadcom",w:6.10},{n:"Lam Research",w:4.91},{n:"KLA",w:4.88},{n:"Applied Materials",w:4.67},{n:"ASML",w:4.51}]},
+  SOXX: {nh:34,  c10:62.12, src:"https://stockanalysis.com/etf/soxx/holdings/", top:[
+    {n:"Micron",w:11.55},{n:"AMD",w:8.70},{n:"Marvell",w:8.22},{n:"Intel",w:6.13},{n:"Broadcom",w:5.77},
+    {n:"Nvidia",w:5.53},{n:"Applied Materials",w:5.30},{n:"KLA",w:3.78},{n:"Lam Research",w:3.71},{n:"Qualcomm",w:3.41}]},
+  BOTZ: {nh:66,  c10:59.07, foreign:"68%", src:"https://stockanalysis.com/etf/botz/holdings/", top:[
+    {n:"ABB (Switzerland)",w:9.18},{n:"Keyence (Japan)",w:9.12},{n:"Nvidia",w:8.70},{n:"Fanuc (Japan)",w:8.68},{n:"Intuitive Surgical",w:6.29},
+    {n:"Shenzhen Inovance",w:4.23},{n:"SMC Corp (Japan)",w:4.23},{n:"Daifuku (Japan)",w:3.47},{n:"RoboTechnik",w:2.84},{n:"Yaskawa Electric (Japan)",w:2.33}]},
+  ARKQ: {nh:41,  c10:55.71, src:"https://stockanalysis.com/etf/arkq/holdings/", top:[
+    {n:"Tesla",w:10.20},{n:"AMD",w:8.38},{n:"Teradyne",w:7.46},{n:"Rocket Lab",w:5.84},{n:"Kratos Defense",w:5.62},
+    {n:"Alphabet",w:4.55},{n:"Deere",w:3.91},{n:"Palantir",w:3.55},{n:"TSMC",w:3.18},{n:"L3Harris",w:3.01}]},
+  HUMN: {nh:48,  c10:41.85, foreign:"heavy", src:"https://stockanalysis.com/etf/humn/holdings/", top:[
+    {n:"UBTech Robotics (HK)",w:5.57},{n:"Tesla",w:5.18},{n:"Hyundai Motor",w:4.69},{n:"Robotis (Korea)",w:4.48},{n:"Doosan Robotics",w:3.99},
+    {n:"Rainbow Robotics",w:3.97},{n:"Harmonic Drive (Japan)",w:3.85},{n:"Leader Harmonious Drive",w:3.53},{n:"Teradyne",w:3.31},{n:"Swancor Advanced",w:3.28}]},
+  KOID: {nh:60,  c10:27.16, foreign:"heavy", src:"https://stockanalysis.com/etf/koid/holdings/", top:[
+    {n:"Credo Technology",w:3.39},{n:"STMicroelectronics",w:3.03},{n:"Infineon",w:2.90},{n:"Harmonic Drive",w:2.74},{n:"Renesas Electronics",w:2.68},
+    {n:"Leader Harmonious Drive",w:2.66},{n:"China Leadshine",w:2.56},{n:"NXP Semiconductors",w:2.42},{n:"Texas Instruments",w:2.39},{n:"Hiwin Technologies",w:2.39}]},
+
+  // Partial — only the top few were published (composition mirrors a peer above)
+  WTAI: {partial:true, src:"https://stockanalysis.com/etf/wtai/holdings/", top:[
+    {n:"Micron",w:4.9},{n:"Samsung",w:4.3},{n:"Nvidia",w:4.2},{n:"Kioxia",w:3.7},{n:"Amazon",w:3.7}]},
+  AGIX: {partial:true, extra:"Plus private Anthropic 1.7% & SpaceX 2.6% — the differentiator, not in the public top 10.", src:"https://stockanalysis.com/etf/agix/holdings/", top:[
+    {n:"Nvidia",w:4.6},{n:"Alphabet",w:3.8},{n:"Microsoft",w:3.7},{n:"Meta",w:3.6},{n:"Apple",w:3.2}]},
+  XSD:  {partial:true, extra:"Equal-weight — every name sits near 3%, the near-opposite of SMH.", src:"https://stockanalysis.com/etf/xsd/holdings/", top:[
+    {n:"Marvell",w:3.2},{n:"Power Integrations",w:3.1},{n:"Cirrus Logic",w:3.0}]}
+};

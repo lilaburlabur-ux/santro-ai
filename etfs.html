@@ -110,6 +110,10 @@
       there are 40 ideas.</p>
       <p>So your real decisions are only three:</p>
       <div class="three"><span>1 · How concentrated?</span><span>2 · How much you pay?</span><span>3 · US-only or global?</span></div>
+      <p style="margin-top:12px">Proof — tap any fund for its <b>weighted holdings</b>: the same six names
+      (<b>Nvidia, AMD, Micron, Broadcom, TSMC, SK Hynix</b>) are the engine of almost every “different” fund.
+      What changes is how concentrated and how foreign — <b>SMH</b> packs 71% into its top 10 (Nvidia alone 14.5%),
+      while <b>KOID</b> spreads to just 27% and goes heavily Asian. That spread is the real menu.</p>
     </div>
 
     <nav class="jump" id="jump"></nav>
@@ -146,7 +150,7 @@
     © 2026 Santro AI. All rights reserved. Uses custom models.
   </footer>
 
-<script src="etf-data.js?v=1"></script>
+<script src="etf-data.js?v=2"></script>
 <script>
 const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const RB={trap:"trap",lev:"leveraged",income:"income",spec:"speculative",closed:"closed"};
@@ -154,13 +158,16 @@ function rbadge(r){ if(!r) return ""; return `<span class="rb ${r}">${RB[r]||r}<
 
 function row(e){
   const spv = e.spv ? `<span class="rb spv">pre-IPO</span>` : "";
-  const yieldCell = e.yield ? `<td class="num">${esc(e.yield)}</td>` : `<td class="num">—</td>`;
+  const h = (window.ETF_HOLDINGS||{})[e.t];
+  const holdsCell = (h&&h.nh) ? String(h.nh) : (e.holds||"—");
+  const c10 = (h&&h.c10!=null) ? Math.round(h.c10)+"%" : "—";
   return `<tr>
     <td><a class="tk" href="/e?sym=${encodeURIComponent(e.t)}">${esc(e.t)}</a>${rbadge(e.risk)}${spv}</td>
     <td><span class="nm">${esc(e.name)}</span><span class="ins">${esc(e.inside||"")}</span></td>
     <td class="num hide">${esc(e.aum||"—")}</td>
     <td class="num hide">${esc(e.er||"—")}</td>
-    <td class="num hide">${esc(e.holds||"—")}</td>
+    <td class="num hide">${esc(holdsCell)}</td>
+    <td class="num hide">${c10}</td>
   </tr>`;
 }
 
@@ -177,7 +184,8 @@ function build(){
       <p class="bblurb">${esc(b.blurb)}</p>
       <table class="etf-tbl">
         <thead><tr><th>Ticker</th><th>Fund · what's inside</th>
-          <th class="num hide">AUM</th><th class="num hide">Fee</th><th class="num hide">Holds</th></tr></thead>
+          <th class="num hide">AUM</th><th class="num hide">Fee</th><th class="num hide">Holds</th>
+          <th class="num hide" title="% of the fund in its top 10 holdings — higher = more concentrated">Top 10</th></tr></thead>
         <tbody>${list.map(row).join("")}</tbody>
       </table>
     </section>`;

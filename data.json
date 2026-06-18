@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-18T21:58:18+00:00",
-  "as_of_local": "2026-06-18 21:58:18 UTC",
+  "as_of_utc": "2026-06-18T22:03:29+00:00",
+  "as_of_local": "2026-06-18 22:03:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 1278839125480.4622,
       "headlines": [
         {
+          "title": "Apple\u2019s Unsustainable Memory Costs and the Rethinking of Micron\u2019s Valuation",
+          "url": "https://www.barrons.com/articles/micron-stock-price-apple-memory-chip-59a3dbf6?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-06-18T21:49:00Z"
+        },
+        {
           "title": "Dow Jones Futures: Nvidia Leads 5 Chips Near Buy Points; SpaceX Stock Needs This",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-microns-sandisks-stock-prices-214200512.html",
           "publisher": "Motley Fool",
           "published": "2026-06-18T21:42:00Z"
-        },
-        {
-          "title": "Stocks to Watch Recap: Intel, Accenture, Apple, SpaceX",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-18-2026/card/stocks-to-watch-intel-apple-smith-wesson-CPWrDsktYLV7juQ6yYSl?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-06-18T21:10:01Z"
         }
       ]
     },
@@ -206,7 +206,7 @@
       "price": 310.58,
       "previous_close": 289.54,
       "change_pct": 7.27,
-      "market_cap": 271695372253.41797,
+      "market_cap": 271929292713.64456,
       "headlines": [
         {
           "title": "Stock Market Today, June 18: Marvell Technology Surges on Price Target Hike",
@@ -444,8 +444,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 5.15,
-          "price": 459.5,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "TWD"
         },
         {
@@ -534,8 +534,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 5.15,
-        "price": 459.5,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "TWD"
       },
       {
@@ -557,8 +557,8 @@
     },
     {
       "label": "BTC",
-      "price": 62910.39,
-      "change_pct": -4.1
+      "price": 62861.07,
+      "change_pct": -2.42
     },
     {
       "label": "Gold",

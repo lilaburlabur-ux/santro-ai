@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-06-18T09:01:50+00:00",
-  "as_of_local": "2026-06-18 09:01:50 UTC",
+  "as_of_utc": "2026-06-18T09:06:05+00:00",
+  "as_of_local": "2026-06-18 09:06:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -197,34 +199,6 @@
           "url": "https://finance.yahoo.com/technology/articles/arm-arm-introduces-neural-dawn-214146303.html",
           "publisher": "Insider Monkey",
           "published": "2026-06-17T21:41:46Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 289.54,
-      "previous_close": 278.67,
-      "change_pct": 3.9,
-      "market_cap": 253507673191.95346,
-      "headlines": [
-        {
-          "title": "Analyst Raises Marvell Technology (MRVL) Price Target by $105. Here is Why",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-raises-marvell-technology-mrvl-011453749.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-18T01:14:53Z"
-        },
-        {
-          "title": "Stock Market Today, June 17: Marvell Rises as AI Bookings Build on Nvidia-Linked Momentum",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-june-17-224703370.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-17T22:47:03Z"
-        },
-        {
-          "title": "What A Patient Holder Is Really Paying For Broadcom Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/patient-holder-really-paying-broadcom-204512475.html",
-          "publisher": "Trefis",
-          "published": "2026-06-17T20:45:12Z"
         }
       ]
     },
@@ -557,13 +531,13 @@
     },
     {
       "label": "BTC",
-      "price": 64314.02,
-      "change_pct": -0.16
+      "price": 64293.72,
+      "change_pct": -0.19
     },
     {
       "label": "Gold",
-      "price": 4296.2,
-      "change_pct": -1.44
+      "price": 4294.2,
+      "change_pct": -1.48
     },
     {
       "label": "Nasdaq100",

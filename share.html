@@ -379,19 +379,27 @@ function buildGallery(){
 }
 
 async function getJSON(u){ try{ return await (await fetch(u+"?t="+Date.now())).json(); }catch(e){ return null; } }
-async function load(){
+async function fetchData(){
   const [d,u,b,c,h]=await Promise.all([
     getJSON("data.json"), getJSON("universe.json"), getJSON("bubble_index.json"),
     getJSON("crypto.json"), getJSON("hot_tickers.json")]);
-  universe=u; bubbleIx=b; crypto=c; hot=h;
-  asof=(d&&d.as_of_local)||"";
+  if(u) universe=u; if(b) bubbleIx=b; if(c) crypto=c; if(h) hot=h;
+  if(d&&d.as_of_local) asof=d.as_of_local;
   document.getElementById("asof").textContent = asof ? "As of "+asof : "Live data";
+}
+async function load(){
+  await fetchData();
   const q=new URLSearchParams(location.search).get("card");
   if(q && RENDER[q]) current=q;
   buildGallery();
   render();
 }
+// Keep the cards on the live tape: re-fetch + redraw every 60s so a tab left
+// open never freezes on a stale snapshot (an open share page used to show the
+// previous session's moves until manually reloaded). Preserves the selected card.
+async function refresh(){ await fetchData(); buildGallery(); render(); }
 load();
+setInterval(refresh, 60000);
 </script>
 <script src="site.js?v=9"></script>
 </body>

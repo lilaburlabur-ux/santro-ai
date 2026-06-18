@@ -15,6 +15,7 @@ Runs every minute on the Mac (crontab) and every 5 min in the cloud
 import os
 import sys
 import json
+import logging
 import datetime as dt
 from zoneinfo import ZoneInfo
 
@@ -73,9 +74,20 @@ def main():
     session = session_now()
     ext = {}
     if session in ("pre", "post"):
-        xp = yf.download(symbols, period="1d", interval="1m", prepost=True,
-                         auto_adjust=True, progress=False, group_by="ticker",
-                         threads=True)
+        # Illiquid names often have no premarket / after-hours prints, so this
+        # 1-minute prepost batch comes back empty for them. yfinance logs that
+        # as a scary "possibly delisted", but it's expected and harmless — they
+        # simply keep their last official close below. Quiet just this call so
+        # the daily-download diagnostics still surface a genuine delisting.
+        yflog = logging.getLogger("yfinance")
+        _lvl = yflog.level
+        yflog.setLevel(logging.CRITICAL)
+        try:
+            xp = yf.download(symbols, period="1d", interval="1m", prepost=True,
+                             auto_adjust=True, progress=False, group_by="ticker",
+                             threads=True)
+        finally:
+            yflog.setLevel(_lvl)
         for sym in symbols:
             try:
                 c = xp[sym]["Close"].dropna()

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-18T09:01:57+00:00",
+  "as_of": "2026-06-18T09:16:08+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": 9.14,
-   "price": 132.17,
+   "move_pct": 8.89,
+   "price": 131.87,
    "volume": 114291800,
    "volume_vs_avg": "~0.8x",
-   "heat_score": 61,
+   "heat_score": 60,
    "direction": "up",
-   "why": "Intel Stock Rips Nearly 6% Overnight After Trump Confirms Apple Chip Manufacturing Deal",
+   "why": "Nasdaq, S&P 500 Futures Surge As Wall Street Cheers US-Iran Deal, Brushes Off Hawkish Fed For Now: INTC, AAPL, MU, SPCX, RUM In Focus",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-rips-nearly-6-061250445.html",
-   "published": "2026-06-18T06:12:50Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-surge-084302186.html",
+   "published": "2026-06-18T08:43:02Z",
    "sector": "AI Chips & Compute"
   }
  ]

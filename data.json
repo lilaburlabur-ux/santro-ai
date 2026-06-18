@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-06-18T22:34:00+00:00",
-  "as_of_local": "2026-06-18 22:34:00 UTC",
+  "as_of_utc": "2026-06-18T22:39:09+00:00",
+  "as_of_local": "2026-06-18 22:39:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 210.69,
+      "previous_close": 204.65,
+      "change_pct": 2.95,
+      "market_cap": 5103122549133.301,
+      "headlines": [
+        {
+          "title": "Amazon CEO Jassy says company could sell AI chips, raising stakes for Nvidia, AMD",
+          "url": "https://finance.yahoo.com/news/amazon-ceo-jassy-says-company-could-sell-ai-chips-raising-stakes-for-nvidia-amd-142835117.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-04-09T14:28:35Z"
+        },
+        {
+          "title": "Intel jumps after Trump says Apple, Intel reached US chip deal",
+          "url": "https://finance.yahoo.com/video/intel-jumps-after-trump-says-apple-intel-reached-us-chip-deal-144520733.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-06-18T14:45:20Z"
+        },
+        {
+          "title": "Dow Jones Futures: Nvidia Leads 5 Chips Near Buy Points; SpaceX Stock Needs This",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-06-18T22:13:28Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -161,16 +187,16 @@
           "published": "2026-06-18T17:25:50Z"
         },
         {
-          "title": "Stocks Supported as Geopolitical Risks Recede",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-supported-geopolitical-risks-recede-151709682.html",
-          "publisher": "Barchart",
-          "published": "2026-06-18T15:17:09Z"
-        },
-        {
           "title": "Advanced Micro Devices vs. Arm Holdings: Which AI CPU Stock Is the Better Buy?",
           "url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-vs-arm-133500144.html",
           "publisher": "Motley Fool",
           "published": "2026-06-18T13:35:00Z"
+        },
+        {
+          "title": "Stocks Rally Before the Open on U.S.-Iran Peace Deal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-open-u-iran-104009987.html",
+          "publisher": "Barchart",
+          "published": "2026-06-18T10:40:09Z"
         }
       ]
     },
@@ -180,7 +206,7 @@
       "price": 310.58,
       "previous_close": 289.54,
       "change_pct": 7.27,
-      "market_cap": 271929292713.64456,
+      "market_cap": 271695372253.41797,
       "headlines": [
         {
           "title": "Stock Market Today, June 18: Marvell Technology Surges on Price Target Hike",
@@ -245,16 +271,16 @@
           "published": "2026-06-18T18:21:28Z"
         },
         {
-          "title": "Stocks Supported as Geopolitical Risks Recede",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-supported-geopolitical-risks-recede-151709682.html",
-          "publisher": "Barchart",
-          "published": "2026-06-18T15:17:09Z"
-        },
-        {
           "title": "Can onsemi's Treo Platform Unlock New Automotive Opportunities?",
           "url": "https://finance.yahoo.com/technology/articles/onsemis-treo-platform-unlock-automotive-141000885.html",
           "publisher": "Zacks",
           "published": "2026-06-18T14:10:00Z"
+        },
+        {
+          "title": "Texas Instruments Stock And The Industrial Recovery Hiding In Plain Sight",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-stock-industrial-recovery-195558807.html",
+          "publisher": "Trefis",
+          "published": "2026-06-17T19:55:58Z"
         }
       ]
     },
@@ -531,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 62697.84,
-      "change_pct": -2.67
+      "price": 62739.99,
+      "change_pct": -2.61
     },
     {
       "label": "Gold",
-      "price": 4221.3,
-      "change_pct": -3.16
+      "price": 4222.0,
+      "change_pct": -3.14
     },
     {
       "label": "Nasdaq100",

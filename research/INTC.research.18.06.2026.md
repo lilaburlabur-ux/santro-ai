@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Nasdaq, US stocks slide as Fed forecasts possible rate hike | Yahoo Finance Video | 2026-06-17 |
-| Intel Stock Jumps 10% on Apple Partnership | GuruFocus.com | 2026-06-18 |
+| Apple, Intel Chip Partnership Gains Momentum | GuruFocus.com | 2026-06-18 |
 | Dow Jones Futures Rise After Warsh's Fed Hits Stocks; SpaceX Falls As Robinhood Jumps | Investor's Business Daily | 2026-06-18 |
-| Intel stock surges on Trump Apple chip manufacturing announcement | Quartz | 2026-06-18 |
+| Intel Stock Jumps 10% on Apple Partnership | GuruFocus.com | 2026-06-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Intel Stock Jumps 10% on Apple Partnership | GuruFocus.com | 2026-06-18 |
 | US chip stocks gain after Apple-Intel partnership | Investing.com | 2026-06-18 |
 | Samsung draws advanced chipmaking interest as TSMC capacity tightens | Proactive | 2026-06-18 |
 | Why AMD's Recent Acquisition Makes the Stock Even More Attractive | Motley Fool | 2026-06-18 |
-| The iShares Semiconductor ETF Is Obliterating the S&P 500 in 2026, but Is It Still a Buy? The Answer Might Surprise You. | Motley Fool | 2026-06-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

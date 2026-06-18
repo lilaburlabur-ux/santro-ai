@@ -38,8 +38,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 |---|---|---|
 | Nasdaq, US stocks slide as Fed forecasts possible rate hike | Yahoo Finance Video | 2026-06-17 |
 | SpaceX's near $3 trillion rally comes with one big catch: Chart of the Day | Yahoo Finance | 2026-06-17 |
+| Good News for Broadcom Stock Fans | GuruFocus.com | 2026-06-18 |
 | US chip stocks gain after Apple-Intel partnership | Investing.com | 2026-06-18 |
-| SpaceX Can Be Added to the Russell 1000 and Russell 3000 After Today -- Don't Take the Bait | Motley Fool | 2026-06-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

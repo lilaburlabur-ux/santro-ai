@@ -1,16 +1,18 @@
 {
-  "as_of_utc": "2026-06-18T16:19:18+00:00",
-  "as_of_local": "2026-06-18 16:19:18 UTC",
+  "as_of_utc": "2026-06-18T16:24:20+00:00",
+  "as_of_local": "2026-06-18 16:24:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 209.54,
+      "price": 209.87,
       "previous_close": 204.65,
-      "change_pct": 2.39,
-      "market_cap": 5075280373626.709,
+      "change_pct": 2.55,
+      "market_cap": 5083261151733.398,
       "headlines": [
         {
           "title": "Intel jumps after Trump says Apple, Intel reached US chip deal",
@@ -33,40 +35,12 @@
       ]
     },
     {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 454.06,
-      "previous_close": 432.15,
-      "change_pct": 5.07,
-      "market_cap": 2354970377680.4897,
-      "headlines": [
-        {
-          "title": "Intel jumps after Trump says Apple, Intel reached US chip deal",
-          "url": "https://finance.yahoo.com/video/intel-jumps-after-trump-says-apple-intel-reached-us-chip-deal-144520733.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-06-18T14:45:20Z"
-        },
-        {
-          "title": "Apple Chip Production Deal Represents Big Opportunity For Intel, Wedbush Says",
-          "url": "https://finance.yahoo.com/technology/articles/apple-chip-production-deal-represents-160749555.html",
-          "publisher": "MT Newswires",
-          "published": "2026-06-18T16:07:49Z"
-        },
-        {
-          "title": "SpaceX Surges Past Taiwan Semiconductor to Become the World's 6th Most Valuable Company. Is It Too Late to Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-surges-past-taiwan-semiconductor-155000070.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-18T15:50:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 409.46,
+      "price": 409.34,
       "previous_close": 392.9,
-      "change_pct": 4.21,
-      "market_cap": 1948229091081.0,
+      "change_pct": 4.18,
+      "market_cap": 1947582125219.1138,
       "headlines": [
         {
           "title": "Nasdaq, US stocks slide as Fed forecasts possible rate hike",
@@ -91,10 +65,10 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 1124.4,
+      "price": 1125.0,
       "previous_close": 1043.19,
-      "change_pct": 7.78,
-      "market_cap": 1267776126024.833,
+      "change_pct": 7.84,
+      "market_cap": 1268948875827.1365,
       "headlines": [
         {
           "title": "SanDisk Jumps 11%, Western Digital Rises 7% After Apple Flags \u201cUnavoidable\u201d Memory Price Hikes",
@@ -119,10 +93,10 @@
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 533.11,
+      "price": 533.93,
       "previous_close": 512.48,
-      "change_pct": 4.03,
-      "market_cap": 869159106377.6731,
+      "change_pct": 4.19,
+      "market_cap": 871083203188.8174,
       "headlines": [
         {
           "title": "Buy, Hold, or Sell: Rackspace Is Up 675% This Year, Is It a Buy Today?",
@@ -147,10 +121,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 131.91,
+      "price": 132.23,
       "previous_close": 121.1,
-      "change_pct": 8.93,
-      "market_cap": 662900226867.6758,
+      "change_pct": 9.19,
+      "market_cap": 664964893188.4766,
       "headlines": [
         {
           "title": "Intel stock soars on reported Apple deal as turnaround continues to pay off",
@@ -175,10 +149,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 442.41,
+      "price": 443.89,
       "previous_close": 418.88,
-      "change_pct": 5.62,
-      "market_cap": 471375842703.0,
+      "change_pct": 5.97,
+      "market_cap": 472322866190.4159,
       "headlines": [
         {
           "title": "Advanced Micro Devices vs. Arm Holdings: Which AI CPU Stock Is the Better Buy?",
@@ -203,10 +177,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 326.58,
+      "price": 326.15,
       "previous_close": 289.54,
-      "change_pct": 12.79,
-      "market_cap": 285744684814.4531,
+      "change_pct": 12.64,
+      "market_cap": 285503012151.61816,
       "headlines": [
         {
           "title": "Marvell Technology Skyrocketed on a Stunning Nvidia Endorsement: Could It Be the Next Trillion-Dollar AI Stock?",
@@ -231,10 +205,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 220.23,
+      "price": 220.94,
       "previous_close": 212.97,
-      "change_pct": 3.41,
-      "market_cap": 232217287719.72656,
+      "change_pct": 3.74,
+      "market_cap": 232955084503.17383,
       "headlines": [
         {
           "title": "Intel vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
@@ -259,10 +233,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 313.91,
+      "price": 314.33,
       "previous_close": 298.2,
-      "change_pct": 5.27,
-      "market_cap": 79286019806.50565,
+      "change_pct": 5.41,
+      "market_cap": 79401522551.41803,
       "headlines": [
         {
           "title": "Can onsemi's Treo Platform Unlock New Automotive Opportunities?",
@@ -287,10 +261,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 149.07,
+      "price": 149.19,
       "previous_close": 139.86,
-      "change_pct": 6.59,
-      "market_cap": 20407319882.035202,
+      "change_pct": 6.67,
+      "market_cap": 20459383536.67888,
       "headlines": [
         {
           "title": "1 Cash-Producing Stock Worth Your Attention and 2 Facing Headwinds",
@@ -315,10 +289,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 141.85,
+      "price": 141.83,
       "previous_close": 133.53,
-      "change_pct": 6.23,
-      "market_cap": 5480755853.075714,
+      "change_pct": 6.22,
+      "market_cap": 5468584887.970428,
       "headlines": [
         {
           "title": "Will Synaptics' (SYNA) Edge AI UAV Collaboration Redefine Its Core IoT Investment Narrative?",
@@ -345,8 +319,8 @@
       "name": "CEVA",
       "price": 47.58,
       "previous_close": 44.91,
-      "change_pct": 5.96,
-      "market_cap": 1325688048.358986,
+      "change_pct": 5.93,
+      "market_cap": 1325409501.4300117,
       "headlines": [
         {
           "title": "Datadog upgraded, Accenture downgraded: Wall Street's top analyst calls",
@@ -373,16 +347,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 76.82,
-      "change_pct": 9.82,
+      "price": 76.89,
+      "change_pct": 9.92,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 7.78,
-          "price": 1124.4,
+          "change_pct": 7.84,
+          "price": 1125.0,
           "currency": "USD"
         },
         {
@@ -417,8 +391,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 10.9,
-          "price": 2172.32,
+          "change_pct": 10.84,
+          "price": 2171.13,
           "currency": "USD"
         },
         {
@@ -426,8 +400,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 1.0,
-          "price": 1076.69,
+          "change_pct": 0.77,
+          "price": 1074.3,
           "currency": "USD"
         },
         {
@@ -435,8 +409,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 6.58,
-          "price": 758.98,
+          "change_pct": 6.34,
+          "price": 757.26,
           "currency": "USD"
         },
         {
@@ -463,16 +437,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 76.82,
-    "change_pct": 9.82,
+    "price": 76.89,
+    "change_pct": 9.92,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 7.78,
-        "price": 1124.4,
+        "change_pct": 7.84,
+        "price": 1125.0,
         "currency": "USD"
       },
       {
@@ -507,8 +481,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 10.9,
-        "price": 2172.32,
+        "change_pct": 10.84,
+        "price": 2171.13,
         "currency": "USD"
       },
       {
@@ -516,8 +490,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 1.0,
-        "price": 1076.69,
+        "change_pct": 0.77,
+        "price": 1074.3,
         "currency": "USD"
       },
       {
@@ -525,8 +499,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 6.58,
-        "price": 758.98,
+        "change_pct": 6.34,
+        "price": 757.26,
         "currency": "USD"
       },
       {
@@ -552,23 +526,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7490.67,
-      "change_pct": 0.95
+      "price": 7495.81,
+      "change_pct": 1.02
     },
     {
       "label": "BTC",
-      "price": 62448.0,
-      "change_pct": -4.81
+      "price": 62663.77,
+      "change_pct": -2.72
     },
     {
       "label": "Gold",
-      "price": 4250.1,
-      "change_pct": -2.5
+      "price": 4248.5,
+      "change_pct": -2.53
     },
     {
       "label": "Nasdaq100",
-      "price": 30321.12,
-      "change_pct": 2.19
+      "price": 30359.12,
+      "change_pct": 2.32
     }
   ]
 }

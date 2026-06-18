@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-18T00:35:40+00:00",
+  "as_of": "2026-06-18T00:50:47+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -20,7 +20,7 @@
    "why": "Dow Jones Futures Rise After Fed Rate Hike Bets Hit Stocks; SpaceX Falls As Robinhood Jumps",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-rate-hike-spacex-robinhood/?src=A00220&yptr=yahoo",
-   "published": "2026-06-18T00:11:38Z",
+   "published": "2026-06-18T00:37:13Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
@@ -33,10 +33,10 @@
    "volume_vs_avg": "~1.0x",
    "heat_score": 44,
    "direction": "down",
-   "why": "AppLovin (APP) Declines More Than Market: Some Information for Investors",
+   "why": "Freshworks, AppLovin, and Veeva Systems Shares Are Falling, What You Need To Know",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/applovin-app-declines-more-market-214505921.html",
-   "published": "2026-06-17T21:45:05Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/freshworks-applovin-veeva-systems-shares-002704871.html",
+   "published": "2026-06-18T00:27:04Z",
    "sector": "AI Platforms, Internet & AdTech"
   },
   {

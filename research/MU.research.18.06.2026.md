@@ -4,8 +4,8 @@ Signed file: `MU.research.18.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $1,043.19 (2026-06-18, ~15-min delayed) |
-| Market cap | $1.18T |
+| Current price | $1,133.99 (2026-06-18, ~15-min delayed) |
+| Market cap | $1.28T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `MU.research.18.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +772.57%; price +163.74% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -4.12% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +844.58%; price +183.06% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 41.49%, revenue growth 196.30%. |
-| Value attractiveness | Reasonable | Forward P/E 9.10, EV/Sales 19.74. |
-| Risk level | High | Beta 2.17, ATR 7.5% of price, short float 3.34%. |
+| Value attractiveness | Reasonable | Forward P/E 9.90, EV/Sales 19.74. |
+| Risk level | High | Beta 2.17, ATR 7.0% of price, short float 3.34%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
-| SpaceX's near $3 trillion rally comes with one big catch: Chart of the Day | Yahoo Finance | 2026-06-17 |
-| SpaceX, Apple, and More Stocks That Explain Today’s Market | Barrons.com | 2026-06-18 |
-| US chip stocks gain after Apple-Intel partnership | Investing.com | 2026-06-18 |
-| Wall St futures bounce back as US-Iran deal optimism balances hawkish Fed; Intel up | Reuters | 2026-06-18 |
+| Sector Update: Tech Stocks Climb Late Afternoon | MT Newswires | 2026-06-18 |
+| Buyers Push Micron Stock To Nose-Bleed Levels As Earnings Approach; Darden, FedEx Results Also On Tap | Investor's Business Daily | 2026-06-18 |
+| Western Digital, FormFactor, and Vishay Intertechnology Shares Skyrocket, What You Need To Know | StockStory | 2026-06-18 |
+| Micron Technology (MU) Stock Sees Fair Value Lift As AI Memory Demand Drives Analyst Optimism | Simply Wall St. | 2026-06-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $1,043.19; 52w high $1,087.99 (-4.12%); 52w low $104.73 (+896.09%) |
-| Trend | +163.74% vs SMA200, +45.24% vs SMA50, +10.33% vs SMA20 |
-| Momentum | RSI(14) 61.7 (neutral) |
-| Volatility | ATR(14) 77.79 (~7.5% of price); beta 2.17 |
-| Setup perspective | -4.12% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $1,133.99; 52w high $1,133.99 (+0.00%); 52w low $104.73 (+982.79%) |
+| Trend | +183.06% vs SMA200, +54.75% vs SMA50, +17.44% vs SMA20 |
+| Momentum | RSI(14) 66.4 (neutral) |
+| Volatility | ATR(14) 79.82 (~7.0% of price); beta 2.17 |
+| Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +17.0% |
-| Month | +53.1% |
-| Quarter | +126.0% |
-| Half Y | +339.6% |
-| 1Y | +772.6% |
-| YTD | +230.9% |
+| Week | +13.9% |
+| Month | +62.3% |
+| Quarter | +155.4% |
+| Half Y | +388.1% |
+| 1Y | +844.6% |
+| YTD | +259.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,7 +67,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $58.12B | Revenue growth 196.30% y/y |
 | Profitability | Gross 58.44%, operating 67.62%, net 41.49% | ROA 20.14%, ROE 39.82% |
 | Balance sheet | Cash $14.59B, debt $10.80B | Current ratio 2.90, debt/equity 14.90 |
-| Valuation | P/E 49.14, forward P/E 9.10, P/S 20.24, P/B 16.24 | EV/Sales 19.74, EV/EBITDA 31.18 |
+| Valuation | P/E 53.41, forward P/E 9.90, P/S 22.00, P/B 17.65 | EV/Sales 19.74, EV/EBITDA 31.18 |
 | Growth expectations | Earnings growth 756.00%, EPS q/q 770.80% | Analyst mean target $879.10 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -94,7 +94,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | JPMORGAN CHASE & CO | 15,775,296 | 1.40% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.17, ATR 7.5% of price, short float 3.34%. Size positions accordingly.
+- **Volatility risk:** Beta 2.17, ATR 7.0% of price, short float 3.34%. Size positions accordingly.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -110,33 +110,33 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $1,043.19 | EV/Sales | 19.74 |
-| Market cap | $1.18T | EV/EBITDA | 31.18 |
+| Price | $1,133.99 | EV/Sales | 19.74 |
+| Market cap | $1.28T | EV/EBITDA | 31.18 |
 | Beta | 2.17 | Gross margin | 58.44% |
-| RSI(14) | 61.7 | Operating margin | 67.62% |
-| ATR(14) | 77.79 | Profit margin | 41.49% |
-| SMA20 dist | +10.33% | ROA | 20.14% |
-| SMA50 dist | +45.24% | ROE | 39.82% |
-| SMA200 dist | +163.74% | Revenue (ttm) | $58.12B |
-| 52W high | $1,087.99 | Revenue growth y/y | 196.30% |
+| RSI(14) | 66.4 | Operating margin | 67.62% |
+| ATR(14) | 79.82 | Profit margin | 41.49% |
+| SMA20 dist | +17.44% | ROA | 20.14% |
+| SMA50 dist | +54.75% | ROE | 39.82% |
+| SMA200 dist | +183.06% | Revenue (ttm) | $58.12B |
+| 52W high | $1,133.99 | Revenue growth y/y | 196.30% |
 | 52W low | $104.73 | Inst. ownership | 81.60% |
-| P/E (ttm) | 49.14 | Insider ownership | 0.25% |
-| Forward P/E | 9.10 | Short float | 3.34% |
+| P/E (ttm) | 53.41 | Insider ownership | 0.25% |
+| Forward P/E | 9.90 | Short float | 3.34% |
 | PEG (trailing) | 0.33 | Avg volume | 51,055,903 |
-| P/S | 20.24 | Employees | 53,000 |
-| P/B | 16.24 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/S | 22.00 | Employees | 53,000 |
+| P/B | 17.65 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-06-18 | main | Rosenblatt | Buy → Buy |
+| 2026-06-18 | main | Stifel | Buy → Buy |
+| 2026-06-18 | main | Wedbush | Outperform → Outperform |
 | 2026-06-17 | main | Citigroup | Buy → Buy |
 | 2026-06-17 | main | Deutsche Bank | Buy → Buy |
 | 2026-06-15 | main | TD Cowen | Buy → Buy |
 | 2026-06-15 | main | RBC Capital | Outperform → Outperform |
 | 2026-06-11 | main | Wolfe Research | Outperform → Outperform |
-| 2026-06-10 | main | Goldman Sachs | Neutral → Neutral |
-| 2026-06-08 | main | Wells Fargo | Overweight → Overweight |
-| 2026-06-08 | main | Cantor Fitzgerald | Overweight → Overweight |
 
 ## 9. Conclusion
 MU: High momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

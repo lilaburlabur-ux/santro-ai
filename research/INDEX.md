@@ -3,19 +3,19 @@
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
-| NVDA | $4.96T | +42% | 16.1 | 63% | Moderate | Reasonable | High |
-| TSM | $2.24T | +103% | 22.0 | 47% | High | Fair-to-demanding | Elevated |
-| AVGO | $1.87T | +57% | 20.3 | 39% | Moderate | Fair-to-demanding | High |
-| MU | $1.18T | +773% | 9.1 | 41% | High | Reasonable | High |
-| AMD | $835.65B | +305% | 39.1 | 13% | High | Low (expensive) | High |
-| INTC | $608.65B | +484% | 78.4 | -6% | High | Low (expensive) | High |
-| ARM | $447.40B | +195% | 136.5 | 18% | High | Low (expensive) | High |
-| MRVL | $253.29B | +312% | 46.9 | 29% | High | Low (expensive) | High |
-| QCOM | $224.47B | +39% | 20.0 | 22% | High | Reasonable | High |
-| NXPI | $75.29B | +40% | 16.9 | 21% | High | Reasonable | High |
-| LSCC | $19.16B | +192% | 60.5 | 3% | High | Low (expensive) | High |
-| SYNA | $5.16B | +110% | 25.3 | -4% | High | Fair-to-demanding | High |
-| CEVA | $1.25B | +119% | 54.8 | -10% | High | Low (expensive) | High |
+| NVDA | $5.10T | +46% | 16.6 | 63% | Moderate | Reasonable | High |
+| TSM | $2.40T | +118% | 23.5 | 47% | High | Fair-to-demanding | Elevated |
+| AVGO | $1.96T | +66% | 21.3 | 39% | High | Fair-to-demanding | High |
+| MU | $1.28T | +845% | 9.9 | 41% | High | Reasonable | High |
+| AMD | $876.24B | +323% | 41.0 | 13% | High | Low (expensive) | High |
+| INTC | $673.43B | +544% | 86.7 | -6% | High | Low (expensive) | High |
+| ARM | $469.38B | +204% | 143.2 | 18% | High | Low (expensive) | High |
+| MRVL | $271.70B | +345% | 50.3 | 29% | High | Low (expensive) | High |
+| QCOM | $238.32B | +49% | 21.2 | 22% | High | Fair-to-demanding | High |
+| NXPI | $79.09B | +50% | 17.8 | 21% | High | Reasonable | Elevated |
+| LSCC | $21.06B | +214% | 66.5 | 3% | High | Low (expensive) | High |
+| SYNA | $5.44B | +124% | 26.7 | -4% | High | Fair-to-demanding | High |
+| CEVA | $1.39B | +147% | 60.6 | -10% | High | Low (expensive) | High |
 
 13 reports generated; failed: none.
 

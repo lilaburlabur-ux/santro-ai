@@ -4,8 +4,8 @@ Signed file: `NVDA.research.18.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $204.65 (2026-06-18, ~15-min delayed) |
-| Market cap | $4.96T |
+| Current price | $210.69 (2026-06-18, ~15-min delayed) |
+| Market cap | $5.10T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `NVDA.research.18.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +41.63%; price +8.00% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -13.09% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +46.39%; price +11.07% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -10.52% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 62.97%, revenue growth 85.20%. |
-| Value attractiveness | Reasonable | Forward P/E 16.08, EV/Sales 19.64. |
-| Risk level | High | Beta 2.20, ATR 3.7% of price, short float 1.22%. |
+| Value attractiveness | Reasonable | Forward P/E 16.55, EV/Sales 19.64. |
+| Risk level | High | Beta 2.20, ATR 3.6% of price, short float 1.22%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| How SpaceX and 'MANGOS' are fueling the latest ETF trends | Yahoo Finance Video | 2026-06-17 |
-| 5 stunning stats about the world's most valuable stocks | Yahoo Finance | 2026-06-17 |
-| Intel Stock Jumps 10% on Apple Partnership | GuruFocus.com | 2026-06-18 |
-| ExxonMobil Has Its Sights on Its Next Megamerger. Here's the Oil Stock It Should Buy. | Motley Fool | 2026-06-18 |
+| Amazon CEO Jassy says company could sell AI chips, raising stakes for Nvidia, AMD | Yahoo Finance | 2026-04-09 |
+| Intel jumps after Trump says Apple, Intel reached US chip deal | Yahoo Finance Video | 2026-06-18 |
+| Vertiv, Stock Of The Day, Offers Early Buy Point And AI-Fueled Growth | Investor's Business Daily | 2026-06-18 |
+| Intel Stock Jumps On Reported Apple Chip Business | Investor's Business Daily | 2026-06-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $204.65; 52w high $235.47 (-13.09%); 52w low $143.66 (+42.46%) |
-| Trend | +8.00% vs SMA200, -1.87% vs SMA50, -3.61% vs SMA20 |
-| Momentum | RSI(14) 45.4 (neutral) |
-| Volatility | ATR(14) 7.67 (~3.7% of price); beta 2.20 |
-| Setup perspective | -13.09% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $210.69; 52w high $235.47 (-10.52%); 52w low $143.66 (+46.66%) |
+| Trend | +11.07% vs SMA200, +0.75% vs SMA50, -0.47% vs SMA20 |
+| Momentum | RSI(14) 50.5 (neutral) |
+| Volatility | ATR(14) 7.60 (~3.6% of price); beta 2.20 |
+| Setup perspective | -10.52% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.1% |
-| Month | -7.8% |
-| Quarter | +13.6% |
-| Half Y | +16.2% |
-| 1Y | +41.6% |
-| YTD | +8.5% |
+| Week | +2.8% |
+| Month | -4.4% |
+| Quarter | +18.1% |
+| Half Y | +18.7% |
+| 1Y | +46.4% |
+| YTD | +11.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,7 +67,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $253.49B | Revenue growth 85.20% y/y |
 | Profitability | Gross 74.14%, operating 65.60%, net 62.97% | ROA 52.73%, ROE 114.29% |
 | Balance sheet | Cash $53.17B, debt $12.81B | Current ratio 3.44, debt/equity 6.55 |
-| Valuation | P/E 31.34, forward P/E 16.08, P/S 19.55, P/B 25.36 | EV/Sales 19.64, EV/EBITDA 30.08 |
+| Valuation | P/E 32.26, forward P/E 16.55, P/S 20.13, P/B 26.11 | EV/Sales 19.64, EV/EBITDA 30.08 |
 | Growth expectations | Earnings growth 214.50%, EPS q/q 210.60% | Analyst mean target $298.93 (59 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -94,7 +94,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Northern Trust Corporation | 252,741,836 | 1.04% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.20, ATR 3.7% of price, short float 1.22%. Size positions accordingly.
+- **Volatility risk:** Beta 2.20, ATR 3.6% of price, short float 1.22%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -109,21 +109,21 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $204.65 | EV/Sales | 19.64 |
-| Market cap | $4.96T | EV/EBITDA | 30.08 |
+| Price | $210.69 | EV/Sales | 19.64 |
+| Market cap | $5.10T | EV/EBITDA | 30.08 |
 | Beta | 2.20 | Gross margin | 74.14% |
-| RSI(14) | 45.4 | Operating margin | 65.60% |
-| ATR(14) | 7.67 | Profit margin | 62.97% |
-| SMA20 dist | -3.61% | ROA | 52.73% |
-| SMA50 dist | -1.87% | ROE | 114.29% |
-| SMA200 dist | +8.00% | Revenue (ttm) | $253.49B |
+| RSI(14) | 50.5 | Operating margin | 65.60% |
+| ATR(14) | 7.60 | Profit margin | 62.97% |
+| SMA20 dist | -0.47% | ROA | 52.73% |
+| SMA50 dist | +0.75% | ROE | 114.29% |
+| SMA200 dist | +11.07% | Revenue (ttm) | $253.49B |
 | 52W high | $235.47 | Revenue growth y/y | 85.20% |
 | 52W low | $143.66 | Inst. ownership | 70.88% |
-| P/E (ttm) | 31.34 | Insider ownership | 3.98% |
-| Forward P/E | 16.08 | Short float | 1.22% |
+| P/E (ttm) | 32.26 | Insider ownership | 3.98% |
+| Forward P/E | 16.55 | Short float | 1.22% |
 | PEG (trailing) | 0.63 | Avg volume | 162,935,263 |
-| P/S | 19.55 | Employees | 42,000 |
-| P/B | 25.36 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/S | 20.13 | Employees | 42,000 |
+| P/B | 26.11 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

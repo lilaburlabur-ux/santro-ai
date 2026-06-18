@@ -4,8 +4,8 @@ Signed file: `TSM.research.18.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $432.15 (2026-06-18, ~15-min delayed) |
-| Market cap | $2.24T |
+| Current price | $462.12 (2026-06-18, ~15-min delayed) |
+| Market cap | $2.40T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `TSM.research.18.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +102.58%; price +30.04% vs SMA200. |
-| Fresh setup quality | Watch | -3.03% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | High | 1Y +118.43%; price +38.56% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 46.51%, revenue growth 35.10%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 21.99, EV/Sales 3.76. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 23.51, EV/Sales 3.76. |
 | Risk level | Elevated | Beta 1.25, ATR 4.0% of price, short float 0.58%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated.
@@ -36,30 +36,30 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
-| Intel's 18A-P chips are in production and just in time as CPU demand ramps up | Yahoo Finance Video | 2026-06-17 |
-| Tech stocks today: Uber and Lucid expanding in Houston,  Intel's latest chip moves | Yahoo Finance | 2026-06-15 |
-| Apple, Intel Chip Partnership Gains Momentum | GuruFocus.com | 2026-06-18 |
-| Intel Stock Jumps 10% on Apple Partnership | GuruFocus.com | 2026-06-18 |
+| Intel jumps after Trump says Apple, Intel reached US chip deal | Yahoo Finance Video | 2026-06-18 |
+| Intel Stock Jumps On Reported Apple Chip Business | Investor's Business Daily | 2026-06-18 |
+| Intel Soars After Trump Says It Will Make Chips in America | Moby | 2026-06-18 |
+| Why Marvell Technology (MRVL) Stock Is Up Today | StockStory | 2026-06-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $432.15; 52w high $445.65 (-3.03%); 52w low $207.22 (+108.55%) |
-| Trend | +30.04% vs SMA200, +7.27% vs SMA50, +2.12% vs SMA20 |
-| Momentum | RSI(14) 55.5 (neutral) |
-| Volatility | ATR(14) 17.25 (~4.0% of price); beta 1.25 |
-| Setup perspective | -3.03% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $462.12; 52w high $462.12 (+0.00%); 52w low $207.22 (+123.01%) |
+| Trend | +38.56% vs SMA200, +14.16% vs SMA50, +8.41% vs SMA20 |
+| Momentum | RSI(14) 63.6 (neutral) |
+| Volatility | ATR(14) 18.38 (~4.0% of price); beta 1.25 |
+| Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +6.0% |
-| Month | +9.4% |
-| Quarter | +27.6% |
-| Half Y | +51.0% |
-| 1Y | +102.6% |
-| YTD | +35.9% |
+| Week | +9.7% |
+| Month | +18.0% |
+| Quarter | +36.7% |
+| Half Y | +61.9% |
+| 1Y | +118.4% |
+| YTD | +45.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,7 +67,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.10T | Revenue growth 35.10% y/y |
 | Profitability | Gross 61.87%, operating 58.10%, net 46.51% | ROA 17.32%, ROE 36.21% |
 | Balance sheet | Cash $3.38T, debt $1.09T | Current ratio 2.49, debt/equity 18.45 |
-| Valuation | P/E 37.16, forward P/E 21.99, P/S 0.55, P/B 66.10 | EV/Sales 3.76, EV/EBITDA 5.40 |
+| Valuation | P/E 39.74, forward P/E 23.51, P/S 0.58, P/B 70.69 | EV/Sales 3.76, EV/EBITDA 5.40 |
 | Growth expectations | Earnings growth 58.40%, EPS q/q 58.30% | Analyst mean target $473.40 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -94,7 +94,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Jennison Associates LLC | 12,021,825 | 0.23% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 21.99, EV/Sales 3.76. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 23.51, EV/Sales 3.76. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.25, ATR 4.0% of price, short float 0.58%. Size positions accordingly.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -111,21 +111,21 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $432.15 | EV/Sales | 3.76 |
-| Market cap | $2.24T | EV/EBITDA | 5.40 |
+| Price | $462.12 | EV/Sales | 3.76 |
+| Market cap | $2.40T | EV/EBITDA | 5.40 |
 | Beta | 1.25 | Gross margin | 61.87% |
-| RSI(14) | 55.5 | Operating margin | 58.10% |
-| ATR(14) | 17.25 | Profit margin | 46.51% |
-| SMA20 dist | +2.12% | ROA | 17.32% |
-| SMA50 dist | +7.27% | ROE | 36.21% |
-| SMA200 dist | +30.04% | Revenue (ttm) | $4.10T |
-| 52W high | $445.65 | Revenue growth y/y | 35.10% |
+| RSI(14) | 63.6 | Operating margin | 58.10% |
+| ATR(14) | 18.38 | Profit margin | 46.51% |
+| SMA20 dist | +8.41% | ROA | 17.32% |
+| SMA50 dist | +14.16% | ROE | 36.21% |
+| SMA200 dist | +38.56% | Revenue (ttm) | $4.10T |
+| 52W high | $462.12 | Revenue growth y/y | 35.10% |
 | 52W low | $207.22 | Inst. ownership | 15.64% |
-| P/E (ttm) | 37.16 | Insider ownership | 0.04% |
-| Forward P/E | 21.99 | Short float | 0.58% |
+| P/E (ttm) | 39.74 | Insider ownership | 0.04% |
+| Forward P/E | 23.51 | Short float | 0.58% |
 | PEG (trailing) | 1.34 | Avg volume | 13,451,030 |
-| P/S | 0.55 | Employees | 76,907 |
-| P/B | 66.10 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/S | 0.58 | Employees | 76,907 |
+| P/B | 70.69 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

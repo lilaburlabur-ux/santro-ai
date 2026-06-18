@@ -37,9 +37,9 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Headline | Source | Date |
 |---|---|---|
 | The 25 Biggest U.S. IPOs of All Time | Kiplinger | 2026-06-18 |
+| Stocks Rally as President Trump Signs a Preliminary Deal to End the US-Iran War | Barchart | 2026-06-18 |
 | Advanced Micro Devices vs. Arm Holdings: Which AI CPU Stock Is the Better Buy? | Motley Fool | 2026-06-18 |
 | Stocks Rally Before the Open on U.S.-Iran Peace Deal | Barchart | 2026-06-18 |
-| Why Did RXT, NBIS, ARM Stocks Surge To 52-Week Highs? | Stocktwits | 2026-06-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

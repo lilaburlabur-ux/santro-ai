@@ -37,9 +37,9 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Headline | Source | Date |
 |---|---|---|
 | Why Is NXP Semiconductors (NXPI) Stock Rocketing Higher Today | StockStory | 2026-06-18 |
+| Stocks Rally as President Trump Signs a Preliminary Deal to End the US-Iran War | Barchart | 2026-06-18 |
 | Can onsemi's Treo Platform Unlock New Automotive Opportunities? | Zacks | 2026-06-18 |
 | Texas Instruments Stock And The Industrial Recovery Hiding In Plain Sight | Trefis | 2026-06-17 |
-| TXN's Manufacturing Expansion Continues: Can It Strengthen Margins? | Zacks | 2026-06-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

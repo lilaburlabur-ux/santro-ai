@@ -4,24 +4,24 @@ Signed file: `MU.research.19.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-06-19, ~15-min delayed) |
+| Current price | $1,133.99 (2026-06-19, ~15-min delayed) |
 | Market cap | $1.28T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
+| Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-06-19.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +844.58%; price +183.06% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 41.49%, revenue growth 196.30%. |
 | Value attractiveness | Reasonable | Forward P/E 9.90, EV/Sales 19.74. |
-| Risk level | High | Beta 2.17, ATR nan% of price, short float 3.34%. |
+| Risk level | High | Beta 2.17, ATR 7.0% of price, short float 3.34%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
+**Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
-| Dow Jones Futures Fall With U.S. Markets Shut; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This | Investor's Business Daily | 2026-06-19 |
-| Latest News In AI Chips - MEXC Expands Access To Tokenized Stock Trading Globally | Simply Wall St. | 2026-06-19 |
-| Micron Stock Faces Tough Earnings Test. What History Shows Happens Next. | Barrons.com | 2026-06-19 |
-| Wall Street Analysts Picks Nvidia Over Micron: Here’s Why | BeInCrypto | 2026-06-19 |
+| Micron Gets the Headlines, But Sandisk Could Offer More Upside | Zacks | 2026-06-19 |
+| Everything Could Change for Micron Stock on June 24 | Motley Fool | 2026-06-19 |
+| Micron Faces a Big Earnings Test | GuruFocus.com | 2026-06-19 |
+| Analyst Warns Intel Valuation ‘Doesn’t Make Sense.’ Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives. | 24/7 Wall St. | 2026-06-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $1,087.99 (+nan%); 52w low $104.73 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 61.7 (neutral) |
-| Volatility | ATR(14) 77.79 (~nan% of price); beta 2.17 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $1,133.99; 52w high $1,133.99 (+0.00%); 52w low $104.73 (+982.79%) |
+| Trend | +183.06% vs SMA200, +54.75% vs SMA50, +17.44% vs SMA20 |
+| Momentum | RSI(14) 66.4 (neutral) |
+| Volatility | ATR(14) 79.82 (~7.0% of price); beta 2.17 |
+| Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +13.9% |
+| Month | +62.3% |
+| Quarter | +155.4% |
+| Half Y | +388.1% |
+| 1Y | +844.6% |
+| YTD | +259.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -94,7 +94,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | JPMORGAN CHASE & CO | 15,775,296 | 1.40% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.17, ATR nan% of price, short float 3.34%. Size positions accordingly.
+- **Volatility risk:** Beta 2.17, ATR 7.0% of price, short float 3.34%. Size positions accordingly.
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -109,15 +110,15 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 19.74 |
+| Price | $1,133.99 | EV/Sales | 19.74 |
 | Market cap | $1.28T | EV/EBITDA | 31.18 |
 | Beta | 2.17 | Gross margin | 58.44% |
-| RSI(14) | 61.7 | Operating margin | 67.62% |
-| ATR(14) | 77.79 | Profit margin | 41.49% |
-| SMA20 dist | +nan% | ROA | 20.14% |
-| SMA50 dist | +nan% | ROE | 39.82% |
-| SMA200 dist | +nan% | Revenue (ttm) | $58.12B |
-| 52W high | $1,087.99 | Revenue growth y/y | 196.30% |
+| RSI(14) | 66.4 | Operating margin | 67.62% |
+| ATR(14) | 79.82 | Profit margin | 41.49% |
+| SMA20 dist | +17.44% | ROA | 20.14% |
+| SMA50 dist | +54.75% | ROE | 39.82% |
+| SMA200 dist | +183.06% | Revenue (ttm) | $58.12B |
+| 52W high | $1,133.99 | Revenue growth y/y | 196.30% |
 | 52W low | $104.73 | Inst. ownership | 81.60% |
 | P/E (ttm) | 53.41 | Insider ownership | 0.25% |
 | Forward P/E | 9.90 | Short float | 3.34% |
@@ -138,7 +139,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | 2026-06-11 | main | Wolfe Research | Outperform → Outperform |
 
 ## 9. Conclusion
-MU: Moderate momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+MU: High momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

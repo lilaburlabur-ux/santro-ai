@@ -4,7 +4,7 @@ Signed file: `NVDA.research.19.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-06-19, ~15-min delayed) |
+| Current price | $210.69 (2026-06-19, ~15-min delayed) |
 | Market cap | $5.10T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `NVDA.research.19.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +46.39%; price +11.07% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -10.52% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 62.97%, revenue growth 85.20%. |
 | Value attractiveness | Reasonable | Forward P/E 16.55, EV/Sales 19.64. |
-| Risk level | High | Beta 2.20, ATR nan% of price, short float 1.22%. |
+| Risk level | High | Beta 2.20, ATR 3.6% of price, short float 1.22%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Amazon CEO Jassy says company could sell AI chips, raising stakes for Nvidia, AMD | Yahoo Finance | 2026-04-09 |
-| Intel jumps after Trump says Apple, Intel reached US chip deal | Yahoo Finance Video | 2026-06-18 |
-| Visa and Mastercard Reportedly Want to Run Stablecoins, Not Fight Them. Here's What It Means for Investors. | Motley Fool | 2026-06-19 |
-| This Utility Wants Tech Companies to Help Pay for New Nuclear Energy Developments. Here's What It Could Mean for Nuclear Energy Stocks. | Motley Fool | 2026-06-19 |
+| If You'd Invested $10,000 in Tesla 10 Years Ago, Here's How Much You'd Have Today | Motley Fool | 2026-06-19 |
+| Up 700% YTD, How High Can SanDisk Rally? | 24/7 Wall St. | 2026-06-19 |
+| With Inflation Surging, Is a Bond ETF the Best Investment Right Now? Here's What History Suggests. | Motley Fool | 2026-06-19 |
+| Buy These 3 Growth Stocks Now, Ignore the Noise, and Thank Yourself Later | Motley Fool | 2026-06-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $235.47 (+nan%); 52w low $143.66 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 45.4 (neutral) |
-| Volatility | ATR(14) 7.67 (~nan% of price); beta 2.20 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $210.69; 52w high $235.47 (-10.52%); 52w low $143.66 (+46.66%) |
+| Trend | +11.07% vs SMA200, +0.75% vs SMA50, -0.47% vs SMA20 |
+| Momentum | RSI(14) 50.5 (neutral) |
+| Volatility | ATR(14) 7.60 (~3.6% of price); beta 2.20 |
+| Setup perspective | -10.52% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +2.8% |
+| Month | -4.4% |
+| Quarter | +18.1% |
+| Half Y | +18.7% |
+| 1Y | +46.4% |
+| YTD | +11.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -94,7 +94,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Northern Trust Corporation | 252,741,836 | 1.04% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.20, ATR nan% of price, short float 1.22%. Size positions accordingly.
+- **Volatility risk:** Beta 2.20, ATR 3.6% of price, short float 1.22%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -109,14 +109,14 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 19.64 |
+| Price | $210.69 | EV/Sales | 19.64 |
 | Market cap | $5.10T | EV/EBITDA | 30.08 |
 | Beta | 2.20 | Gross margin | 74.14% |
-| RSI(14) | 45.4 | Operating margin | 65.60% |
-| ATR(14) | 7.67 | Profit margin | 62.97% |
-| SMA20 dist | +nan% | ROA | 52.73% |
-| SMA50 dist | +nan% | ROE | 114.29% |
-| SMA200 dist | +nan% | Revenue (ttm) | $253.49B |
+| RSI(14) | 50.5 | Operating margin | 65.60% |
+| ATR(14) | 7.60 | Profit margin | 62.97% |
+| SMA20 dist | -0.47% | ROA | 52.73% |
+| SMA50 dist | +0.75% | ROE | 114.29% |
+| SMA200 dist | +11.07% | Revenue (ttm) | $253.49B |
 | 52W high | $235.47 | Revenue growth y/y | 85.20% |
 | 52W low | $143.66 | Inst. ownership | 70.88% |
 | P/E (ttm) | 32.26 | Insider ownership | 3.98% |

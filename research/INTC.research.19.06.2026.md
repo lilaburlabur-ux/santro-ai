@@ -4,24 +4,24 @@ Signed file: `INTC.research.19.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-06-19, ~15-min delayed) |
+| Current price | $133.99 (2026-06-19, ~15-min delayed) |
 | Market cap | $673.43B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, weak fundamentals, value: low (expensive), risk: high. |
+| Current stance | High technical momentum, weak fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-06-19.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +544.18%; price +141.37% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-5.90%). |
 | Value attractiveness | Low (expensive) | Forward P/E 86.70, EV/Sales 11.42. |
-| Risk level | High | Beta 2.23, ATR nan% of price, short float 2.69%. |
+| Risk level | High | Beta 2.23, ATR 7.4% of price, short float 2.69%. |
 
-**Bottom line:** Moderate technical momentum, weak fundamentals, value: low (expensive), risk: high.
+**Bottom line:** High technical momentum, weak fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| Intel stock soars on reported Apple deal as turnaround continues to pay off | Yahoo Finance | 2026-06-18 |
-| SpaceX Stock Gains the Size of Intel Since IPO. History Has a Warning. | Barrons.com | 2026-06-19 |
-| Intel (INTC) Foundry Advances Intel 18A-P Process to Risk Production | Insider Monkey | 2026-06-19 |
-| Apple to work with Intel on US chip design and production, Trump says | Fox Business | 2026-06-19 |
+| Analyst Warns Intel Valuation ‘Doesn’t Make Sense.’ Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives. | 24/7 Wall St. | 2026-06-19 |
+| Intel Adds Foundry Muscle | GuruFocus.com | 2026-06-19 |
+| Beyond Trump Hype: Does Intel (INTC) Have Long-Term Growth Catalysts? | Insider Monkey | 2026-06-19 |
+| How Astera Labs (ALAB) Is Using Taiwan Expansion to Speed Rack-Scale AI Deployment | Insider Monkey | 2026-06-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $129.44 (+nan%); 52w low $19.31 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 57.3 (neutral) |
-| Volatility | ATR(14) 9.51 (~nan% of price); beta 2.23 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $133.99; 52w high $133.99 (+0.00%); 52w low $19.31 (+593.89%) |
+| Trend | +141.37% vs SMA200, +32.11% vs SMA50, +15.17% vs SMA20 |
+| Momentum | RSI(14) 64.2 (neutral) |
+| Volatility | ATR(14) 9.86 (~7.4% of price); beta 2.23 |
+| Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +14.6% |
+| Month | +20.9% |
+| Quarter | +190.1% |
+| Half Y | +259.1% |
+| 1Y | +544.2% |
+| YTD | +240.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,8 +95,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 86.70, EV/Sales 11.42. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.23, ATR nan% of price, short float 2.69%. Size positions accordingly.
+- **Volatility risk:** Beta 2.23, ATR 7.4% of price, short float 2.69%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -111,15 +112,15 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 11.42 |
+| Price | $133.99 | EV/Sales | 11.42 |
 | Market cap | $673.43B | EV/EBITDA | 43.33 |
 | Beta | 2.23 | Gross margin | 37.20% |
-| RSI(14) | 57.3 | Operating margin | 6.88% |
-| ATR(14) | 9.51 | Profit margin | -5.90% |
-| SMA20 dist | +nan% | ROA | 0.63% |
-| SMA50 dist | +nan% | ROE | -2.91% |
-| SMA200 dist | +nan% | Revenue (ttm) | $53.76B |
-| 52W high | $129.44 | Revenue growth y/y | 7.20% |
+| RSI(14) | 64.2 | Operating margin | 6.88% |
+| ATR(14) | 9.86 | Profit margin | -5.90% |
+| SMA20 dist | +15.17% | ROA | 0.63% |
+| SMA50 dist | +32.11% | ROE | -2.91% |
+| SMA200 dist | +141.37% | Revenue (ttm) | $53.76B |
+| 52W high | $133.99 | Revenue growth y/y | 7.20% |
 | 52W low | $19.31 | Inst. ownership | 64.05% |
 | P/E (ttm) | — | Insider ownership | 14.72% |
 | Forward P/E | 86.70 | Short float | 2.69% |
@@ -140,7 +141,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | 2026-05-04 | reit | RBC Capital | Sector Perform → Sector Perform |
 
 ## 9. Conclusion
-INTC: Moderate momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+INTC: High momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

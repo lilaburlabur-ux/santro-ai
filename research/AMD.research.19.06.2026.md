@@ -4,24 +4,24 @@ Signed file: `AMD.research.19.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-06-19, ~15-min delayed) |
+| Current price | $537.37 (2026-06-19, ~15-min delayed) |
 | Market cap | $876.24B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
+| Current stance | High technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-06-19.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +322.79%; price +105.77% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -1.81% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.37%, revenue growth 37.80%. |
 | Value attractiveness | Low (expensive) | Forward P/E 41.01, EV/Sales 21.86. |
-| Risk level | High | Beta 2.49, ATR nan% of price, short float 2.71%. |
+| Risk level | High | Beta 2.49, ATR 6.1% of price, short float 2.71%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: high.
+**Bottom line:** High technical momentum, mixed fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| Amazon CEO Jassy says company could sell AI chips, raising stakes for Nvidia, AMD | Yahoo Finance | 2026-04-09 |
-| Latest News In AI Chips - MEXC Expands Access To Tokenized Stock Trading Globally | Simply Wall St. | 2026-06-19 |
-| AMD vs. NVDA: Which Artificial Intelligence (AI) Semiconductor Stock Dominates the Next Phase of CPUs, GPUs, and Robotics? | Motley Fool | 2026-06-19 |
-| Apple to work with Intel on US chip design and production, Trump says | Fox Business | 2026-06-19 |
+| Analyst Warns Intel Valuation ‘Doesn’t Make Sense.’ Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives. | 24/7 Wall St. | 2026-06-19 |
+| AI And Post‑Quantum Push Could Be A Game Changer For TD SYNNEX (SNX) | Simply Wall St. | 2026-06-19 |
+| Donald Trump’s Under-The-Radar Tech Stock Pick Everyone’s Ignoring | Insider Monkey | 2026-06-19 |
+| Forget AMD: Amazon Declares War on Nvidia by Selling Its Own AI Chips | 24/7 Wall St. | 2026-06-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $547.26 (+nan%); 52w low $126.79 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 57.7 (neutral) |
-| Volatility | ATR(14) 33.39 (~nan% of price); beta 2.49 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $537.37; 52w high $547.26 (-1.81%); 52w low $126.79 (+323.83%) |
+| Trend | +105.77% vs SMA200, +30.73% vs SMA50, +7.08% vs SMA20 |
+| Momentum | RSI(14) 61.2 (neutral) |
+| Volatility | ATR(14) 32.94 (~6.1% of price); beta 2.49 |
+| Setup perspective | -1.81% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +10.0% |
+| Month | +29.8% |
+| Quarter | +161.8% |
+| Half Y | +156.9% |
+| 1Y | +322.8% |
+| YTD | +140.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,7 +95,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 41.01, EV/Sales 21.86. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.49, ATR nan% of price, short float 2.71%. Size positions accordingly.
+- **Volatility risk:** Beta 2.49, ATR 6.1% of price, short float 2.71%. Size positions accordingly.
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,14 +111,14 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 21.86 |
+| Price | $537.37 | EV/Sales | 21.86 |
 | Market cap | $876.24B | EV/EBITDA | 110.19 |
 | Beta | 2.49 | Gross margin | 53.06% |
-| RSI(14) | 57.7 | Operating margin | 14.40% |
-| ATR(14) | 33.39 | Profit margin | 13.37% |
-| SMA20 dist | +nan% | ROA | 3.65% |
-| SMA50 dist | +nan% | ROE | 8.06% |
-| SMA200 dist | +nan% | Revenue (ttm) | $37.45B |
+| RSI(14) | 61.2 | Operating margin | 14.40% |
+| ATR(14) | 32.94 | Profit margin | 13.37% |
+| SMA20 dist | +7.08% | ROA | 3.65% |
+| SMA50 dist | +30.73% | ROE | 8.06% |
+| SMA200 dist | +105.77% | Revenue (ttm) | $37.45B |
 | 52W high | $547.26 | Revenue growth y/y | 37.80% |
 | 52W low | $126.79 | Inst. ownership | 72.16% |
 | P/E (ttm) | 179.72 | Insider ownership | 0.40% |
@@ -139,7 +140,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | 2026-05-18 | main | Melius Research | Buy → Buy |
 
 ## 9. Conclusion
-AMD: Moderate momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+AMD: High momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

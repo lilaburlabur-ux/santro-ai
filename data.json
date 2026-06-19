@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-06-19T21:44:07+00:00",
-  "as_of_local": "2026-06-19 21:44:07 UTC",
+  "as_of_utc": "2026-06-19T21:49:29+00:00",
+  "as_of_local": "2026-06-19 21:49:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,22 +15,22 @@
       "market_cap": 5103122549133.301,
       "headlines": [
         {
-          "title": "Making Six Figures but Betting Everything on U.S. Stocks? AVUV Fixes That Problem",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/making-six-figures-betting-everything-213035666.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-06-19T21:30:35Z"
-        },
-        {
-          "title": "After Being Called the Next Trillion-Dollar AI Stock and Joining the S&P 500, Marvell's CFO Just Filed to Dump $65 Million of Stock. Here's Why.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/being-called-next-trillion-dollar-212700894.html",
+          "title": "Beyond the Trillion-Dollar Club: 3 High-Growth Tech Stocks to Buy Right Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/beyond-trillion-dollar-club-3-214100039.html",
           "publisher": "Motley Fool",
-          "published": "2026-06-19T21:27:00Z"
+          "published": "2026-06-19T21:41:00Z"
         },
         {
-          "title": "If You\u2019re 38 With $500K Saved, AVUV Fixes Your Tech-Heavy Portfolio",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/38-500k-saved-avuv-fixes-211012072.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-06-19T21:10:12Z"
+          "title": "The Memory Boom Has Been a Gift to Micron. For Apple, It's Becoming a Problem. Or Is It?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/memory-boom-gift-micron-apple-213753446.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-19T21:37:53Z"
+        },
+        {
+          "title": "Why Gildan Activewear Stock Tumbled by 11% This Week",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-gildan-activewear-stock-tumbled-213315051.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-19T21:33:15Z"
         }
       ]
     },
@@ -229,34 +231,6 @@
       ]
     },
     {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 226.11,
-      "previous_close": 212.97,
-      "change_pct": 6.17,
-      "market_cap": 238319940643.31055,
-      "headlines": [
-        {
-          "title": "QUALCOMM (QCOM) Stock Could Be 34.2% Overvalued Despite Its Recent Rally",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-could-34-151409233.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-06-19T15:14:09Z"
-        },
-        {
-          "title": "3 Semiconductor Stocks We Find Risky",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-semiconductor-stocks-risky-150858497.html",
-          "publisher": "StockStory",
-          "published": "2026-06-19T15:08:58Z"
-        },
-        {
-          "title": "Strength Seen in Qualcomm (QCOM): Can Its 6.2% Jump Turn into More Strength?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/strength-seen-qualcomm-qcom-6-131500557.html",
-          "publisher": "Zacks",
-          "published": "2026-06-19T13:15:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
       "price": 313.27,
@@ -318,7 +292,7 @@
       "price": 140.89,
       "previous_close": 133.53,
       "change_pct": 5.51,
-      "market_cap": 5443663416.067429,
+      "market_cap": 5443663439.65,
       "headlines": [
         {
           "title": "Will Synaptics' (SYNA) Edge AI UAV Collaboration Redefine Its Core IoT Investment Narrative?",
@@ -557,8 +531,8 @@
     },
     {
       "label": "BTC",
-      "price": 63072.69,
-      "change_pct": 0.28
+      "price": 63067.1,
+      "change_pct": 0.27
     },
     {
       "label": "Gold",

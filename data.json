@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-19T22:24:43+00:00",
-  "as_of_local": "2026-06-19 22:24:43 UTC",
+  "as_of_utc": "2026-06-19T22:29:48+00:00",
+  "as_of_local": "2026-06-19 22:29:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5103122549133.301,
       "headlines": [
         {
+          "title": "Making $100K a Year? Here\u2019s the One Fund That Compounds Without the Research",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/making-100k-one-fund-compounds-221334421.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-06-19T22:13:34Z"
+        },
+        {
           "title": "The Simplest Way to Own Bitcoin Inside Your Regular Brokerage Account",
           "url": "https://finance.yahoo.com/markets/crypto/articles/simplest-way-own-bitcoin-inside-220135788.html",
           "publisher": "24/7 Wall St.",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-saia-stock-swooned-week-215835333.html",
           "publisher": "Motley Fool",
           "published": "2026-06-19T21:58:35Z"
-        },
-        {
-          "title": "If You\u2019re 45 and Want Real Estate Income, Skip the Landlord Duties and Buy VNQ",
-          "url": "https://finance.yahoo.com/real-estate/articles/45-want-real-estate-income-215724263.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-06-19T21:57:24Z"
         }
       ]
     },
@@ -206,7 +206,7 @@
       "price": 310.58,
       "previous_close": 289.54,
       "change_pct": 7.27,
-      "market_cap": 271695372253.41797,
+      "market_cap": 271929292713.64456,
       "headlines": [
         {
           "title": "After Being Called the Next Trillion-Dollar AI Stock and Joining the S&P 500, Marvell's CFO Just Filed to Dump $65 Million of Stock. Here's Why.",
@@ -315,10 +315,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 140.89,
-      "previous_close": 133.53,
-      "change_pct": 5.51,
-      "market_cap": 5443663416.067429,
+      "price": 133.53,
+      "previous_close": 134.94,
+      "change_pct": -1.04,
+      "market_cap": 5443663439.65,
       "headlines": [
         {
           "title": "Will Synaptics' (SYNA) Edge AI UAV Collaboration Redefine Its Core IoT Investment Narrative?",
@@ -552,13 +552,13 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7500.58,
-      "change_pct": 1.08
+      "price": 7420.1,
+      "change_pct": -1.21
     },
     {
       "label": "BTC",
-      "price": 63229.99,
-      "change_pct": 0.53
+      "price": 63202.84,
+      "change_pct": -1.89
     },
     {
       "label": "Gold",
@@ -567,8 +567,8 @@
     },
     {
       "label": "Nasdaq100",
-      "price": 30406.19,
-      "change_pct": 2.48
+      "price": 29670.95,
+      "change_pct": -0.99
     }
   ]
 }

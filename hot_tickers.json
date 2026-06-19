@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-19T17:05:45+00:00",
+  "as_of": "2026-06-19T17:20:57+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,10 +17,10 @@
    "volume_vs_avg": "~2x",
    "heat_score": 71,
    "direction": "up",
-   "why": "Beyond Trump Hype: Does Intel (INTC) Have Long-Term Growth Catalysts?",
+   "why": "Intel Adds Foundry Muscle",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/beyond-trump-hype-does-intel-153956796.html",
-   "published": "2026-06-19T15:39:56Z",
+   "source_url": "https://finance.yahoo.com/technology/articles/intel-adds-foundry-muscle-170623235.html",
+   "published": "2026-06-19T17:06:23Z",
    "sector": "AI Chips & Compute"
   },
   {
@@ -49,10 +49,10 @@
    "volume_vs_avg": "~1.2x",
    "heat_score": 61,
    "direction": "up",
-   "why": "Why Micron Technology (MU) Is Expanding U.S. Memory Capacity as AI Turns DRAM Into Strategic Infrastructure",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/why-micron-technology-mu-expanding-143343380.html",
-   "published": "2026-06-19T14:33:43Z",
+   "why": "Micron Stock Gets Stunning Double Upgrade -- Analysts Predict Triple-Digit DRAM Surge",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-gets-stunning-double-170307553.html",
+   "published": "2026-06-19T17:03:07Z",
    "sector": "AI Chips & Compute"
   },
   {

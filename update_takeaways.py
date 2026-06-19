@@ -26,6 +26,45 @@ try:
 except Exception:
     NY = dt.timezone(dt.timedelta(hours=-4))   # fallback ~ET
 
+# NYSE full-day market holidays (the tape is frozen on these — we must label the
+# panel so it doesn't imply live trading). Dates are the actual closures incl.
+# observed-day shifts. Extend yearly.
+MARKET_HOLIDAYS = {
+    "2026-01-01": "New Year's Day",
+    "2026-01-19": "Martin Luther King Jr. Day",
+    "2026-02-16": "Presidents' Day",
+    "2026-04-03": "Good Friday",
+    "2026-05-25": "Memorial Day",
+    "2026-06-19": "Juneteenth",
+    "2026-07-03": "Independence Day (observed)",
+    "2026-09-07": "Labor Day",
+    "2026-11-26": "Thanksgiving",
+    "2026-12-25": "Christmas Day",
+    "2027-01-01": "New Year's Day",
+    "2027-01-18": "Martin Luther King Jr. Day",
+    "2027-02-15": "Presidents' Day",
+    "2027-03-26": "Good Friday",
+    "2027-05-31": "Memorial Day",
+    "2027-06-18": "Juneteenth (observed)",
+    "2027-07-05": "Independence Day (observed)",
+    "2027-09-06": "Labor Day",
+    "2027-11-25": "Thanksgiving",
+    "2027-12-24": "Christmas Day (observed)",
+}
+
+
+def _now():
+    """Current ET time, overridable via SANTRO_NOW (ISO) for testing holidays/
+    sessions, e.g. SANTRO_NOW=2026-06-19T11:00:00."""
+    override = os.environ.get("SANTRO_NOW")
+    if override:
+        try:
+            d = dt.datetime.fromisoformat(override)
+            return d if d.tzinfo else d.replace(tzinfo=NY)
+        except Exception:
+            pass
+    return dt.datetime.now(NY)
+
 
 def load(p):
     try:
@@ -39,21 +78,26 @@ def pct(x):
     return ("+" if x >= 0 else "") + f"{x:.2f}%"
 
 
-def session_label(now):
+def market_status(now):
+    """(session_label, closed_reason). closed_reason is the holiday name or
+    'the weekend' when the tape is shut all day, else None."""
+    holiday = MARKET_HOLIDAYS.get(now.strftime("%Y-%m-%d"))
+    if holiday:
+        return f"{holiday} — markets closed", holiday
     if now.weekday() >= 5:
-        return "Weekend recap"
+        return "Weekend recap", "the weekend"
     m = now.hour * 60 + now.minute
     if m < 4 * 60:
-        return "Overnight"
+        return "Overnight", None
     if m < 9 * 60 + 30:
-        return "Premarket"
+        return "Premarket", None
     if m < 14 * 60:
-        return "Midday"
+        return "Midday", None
     if m < 16 * 60:
-        return "Into the close"
+        return "Into the close", None
     if m < 20 * 60:
-        return "After hours"
-    return "Overnight"
+        return "After hours", None
+    return "Overnight", None
 
 
 def main():
@@ -61,8 +105,8 @@ def main():
     bi = load("bubble_index.json")
     hot = load("hot_tickers.json")
     data = load("data.json")
-    now = dt.datetime.now(NY)
-    session = session_label(now)
+    now = _now()
+    session, closed_reason = market_status(now)
 
     tickers, sectors = [], []
     if uni and uni.get("bubbles"):
@@ -87,6 +131,17 @@ def main():
 
     cards = []
 
+    # 0. markets-closed notice (holiday or weekend) — the tape is frozen, so say so
+    if closed_reason:
+        for_what = "the weekend" if closed_reason == "the weekend" else closed_reason
+        cards.append({
+            "headline": ("Markets closed for the weekend" if closed_reason == "the weekend"
+                         else f"Markets closed — {closed_reason}"),
+            "body": (f"US equity markets are shut for {for_what}, so the tape is frozen at the "
+                     "previous session's close. Everything below reflects that last close — not live "
+                     "trading — and refreshes when the market reopens."),
+            "tickers": [], "watch": None})
+
     # 1. market / macro card — the tape + breadth + dominant story
     tape_bits = []
     for it in (data or {}).get("tape", []) or []:
@@ -95,13 +150,18 @@ def main():
             tape_bits.append(f"{lab} {pct(it.get('change_pct'))}")
     tone = ("a broad bid" if breadth >= 58 else
             "broad selling" if breadth <= 42 else "a mixed, rotational tape")
-    mbody = f"{breadth}% of {tot} AI names are green — {tone}."
+    if closed_reason:
+        mbody = f"At the last close, {breadth}% of {tot} AI names were green — {tone}."
+    else:
+        mbody = f"{breadth}% of {tot} AI names are green — {tone}."
     if tape_bits:
         mbody = " · ".join(tape_bits[:4]) + ". " + mbody
     if strong:
-        mbody += f" {strong['label']} is doing the heavy lifting at {pct(strong['avg_change_pct'])}."
+        lift = "did the heavy lifting" if closed_reason else "is doing the heavy lifting"
+        mbody += f" {strong['label']} {lift} at {pct(strong['avg_change_pct'])}."
     cards.append({
-        "headline": f"The tape: {tone}, {breadth}% of AI names green",
+        "headline": (f"Last close: {tone}, {breadth}% of AI names green" if closed_reason
+                     else f"The tape: {tone}, {breadth}% of AI names green"),
         "body": mbody, "tickers": [], "watch": None})
 
     # 2. sector rotation card

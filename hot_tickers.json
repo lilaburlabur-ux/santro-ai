@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-19T19:12:08+00:00",
+  "as_of": "2026-06-19T19:17:22+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -13,7 +13,7 @@
    "company": "Intel Corp",
    "move_pct": 10.64,
    "price": 133.99,
-   "volume": 233257000,
+   "volume": 233906600,
    "volume_vs_avg": "~2x",
    "heat_score": 71,
    "direction": "up",
@@ -29,7 +29,7 @@
    "company": "KLA Corp",
    "move_pct": 8.73,
    "price": 259.56,
-   "volume": 26155200,
+   "volume": 26167300,
    "volume_vs_avg": "~2x",
    "heat_score": 67,
    "direction": "up",
@@ -45,7 +45,7 @@
    "company": "Micron Technology Inc",
    "move_pct": 8.7,
    "price": 1133.99,
-   "volume": 64149400,
+   "volume": 64642500,
    "volume_vs_avg": "~1.2x",
    "heat_score": 61,
    "direction": "up",
@@ -61,7 +61,7 @@
    "company": "Marvell Technology Inc",
    "move_pct": 7.27,
    "price": 310.58,
-   "volume": 250633700,
+   "volume": 250989400,
    "volume_vs_avg": "~5x",
    "heat_score": 51,
    "direction": "up",
@@ -77,7 +77,7 @@
    "company": "Teradyne Inc",
    "move_pct": 7.19,
    "price": 437.92,
-   "volume": 17955500,
+   "volume": 17958200,
    "volume_vs_avg": "~5x",
    "heat_score": 49,
    "direction": "up",
@@ -86,22 +86,6 @@
    "source_url": "",
    "published": "",
    "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 6,
-   "ticker": "QCOM",
-   "company": "Qualcomm Inc",
-   "move_pct": 6.17,
-   "price": 226.11,
-   "volume": 47045900,
-   "volume_vs_avg": "~2x",
-   "heat_score": 46,
-   "direction": "up",
-   "why": "QUALCOMM (QCOM) Stock Could Be 34.2% Overvalued Despite Its Recent Rally",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-could-34-151409233.html",
-   "published": "2026-06-19T15:14:09Z",
-   "sector": "AI Chips & Compute"
   }
  ]
 }

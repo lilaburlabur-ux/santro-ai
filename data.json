@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-06-19T18:46:56+00:00",
-  "as_of_local": "2026-06-19 18:46:56 UTC",
+  "as_of_utc": "2026-06-19T18:51:59+00:00",
+  "as_of_local": "2026-06-19 18:51:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 210.69,
+      "previous_close": 204.65,
+      "change_pct": 2.95,
+      "market_cap": 5103122549133.301,
+      "headlines": [
+        {
+          "title": "American Express Just Signed a Multiyear Payments Deal With the NFL. Here's the Bigger Play.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/american-express-just-signed-multiyear-183600078.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-19T18:36:00Z"
+        },
+        {
+          "title": "Nearing 52-Week High, This is Where DTE Energy Will End The Year",
+          "url": "https://finance.yahoo.com/energy/articles/nearing-52-week-high-where-183028560.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-06-19T18:30:28Z"
+        },
+        {
+          "title": "Everything Could Change for Micron Stock on June 24",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/everything-could-change-micron-stock-182200425.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-19T18:22:00Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -531,8 +557,8 @@
     },
     {
       "label": "BTC",
-      "price": 63015.35,
-      "change_pct": 0.19
+      "price": 63012.25,
+      "change_pct": 0.18
     },
     {
       "label": "Gold",

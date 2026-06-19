@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-19T14:58:57+00:00",
-  "as_of_local": "2026-06-19 14:58:57 UTC",
+  "as_of_utc": "2026-06-19T15:04:05+00:00",
+  "as_of_local": "2026-06-19 15:04:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -153,12 +153,6 @@
       "market_cap": 673433740000.0,
       "headlines": [
         {
-          "title": "Intel stock soars on reported Apple deal as turnaround continues to pay off",
-          "url": "https://finance.yahoo.com/technology/article/intel-stock-soars-on-reported-apple-deal-as-turnaround-continues-to-pay-off-143423447.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-06-18T14:34:23Z"
-        },
-        {
           "title": "How Astera Labs (ALAB) Is Using Taiwan Expansion to Speed Rack-Scale AI Deployment",
           "url": "https://finance.yahoo.com/technology/ai/articles/astera-labs-alab-using-taiwan-143418833.html",
           "publisher": "Insider Monkey",
@@ -169,6 +163,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/think-market-ever-fall-buy-140108656.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-06-19T14:01:08Z"
+        },
+        {
+          "title": "Prediction: This Stock is Going to Plummet in The Second Half of 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-stock-going-plummet-second-134950193.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-06-19T13:49:50Z"
         }
       ]
     },
@@ -390,8 +390,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.94,
-          "price": 2764000.0,
+          "change_pct": 6.51,
+          "price": 2685000.0,
           "currency": "KRW"
         },
         {
@@ -399,8 +399,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -2.34,
-          "price": 354000.0,
+          "change_pct": 4.62,
+          "price": 362500.0,
           "currency": "KRW"
         },
         {
@@ -408,8 +408,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 12.07,
-          "price": 108600.0,
+          "change_pct": 0.94,
+          "price": 96900.0,
           "currency": "JPY"
         },
         {
@@ -480,8 +480,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.94,
-        "price": 2764000.0,
+        "change_pct": 6.51,
+        "price": 2685000.0,
         "currency": "KRW"
       },
       {
@@ -489,8 +489,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -2.34,
-        "price": 354000.0,
+        "change_pct": 4.62,
+        "price": 362500.0,
         "currency": "KRW"
       },
       {
@@ -498,8 +498,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 12.07,
-        "price": 108600.0,
+        "change_pct": 0.94,
+        "price": 96900.0,
         "currency": "JPY"
       },
       {
@@ -557,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 63151.61,
-      "change_pct": -1.97
+      "price": 63062.02,
+      "change_pct": -2.11
     },
     {
       "label": "Gold",
-      "price": 4164.4,
-      "change_pct": -1.41
+      "price": 4164.3,
+      "change_pct": -1.42
     },
     {
       "label": "Nasdaq100",

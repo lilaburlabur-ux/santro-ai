@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-19T15:59:56+00:00",
+  "as_of": "2026-06-19T16:15:12+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,7 +17,7 @@
    "volume_vs_avg": "~2x",
    "heat_score": 71,
    "direction": "up",
-   "why": "Beyond Trump Hype: Does Intel (INTC) Have Long-Term Growth Catalysts",
+   "why": "Beyond Trump Hype: Does Intel (INTC) Have Long-Term Growth Catalysts?",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/beyond-trump-hype-does-intel-153956796.html",
    "published": "2026-06-19T15:39:56Z",
@@ -41,22 +41,6 @@
   },
   {
    "rank": 3,
-   "ticker": "TER",
-   "company": "Teradyne Inc",
-   "move_pct": 7.19,
-   "price": 437.92,
-   "volume": 17955500,
-   "volume_vs_avg": "~5x",
-   "heat_score": 64,
-   "direction": "up",
-   "why": "Teradyne (TER) Moves 7.2% Higher: Will This Strength Last?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-moves-7-2-120500930.html",
-   "published": "2026-06-19T12:05:00Z",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 4,
    "ticker": "MU",
    "company": "Micron Technology Inc",
    "move_pct": 8.7,
@@ -72,7 +56,7 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
    "move_pct": 7.27,
@@ -88,6 +72,22 @@
    "sector": "AI Chips & Compute"
   },
   {
+   "rank": 5,
+   "ticker": "TER",
+   "company": "Teradyne Inc",
+   "move_pct": 7.19,
+   "price": 437.92,
+   "volume": 17955500,
+   "volume_vs_avg": "~5x",
+   "heat_score": 49,
+   "direction": "up",
+   "why": "Moving up 7.2% on ~5x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
    "rank": 6,
    "ticker": "QCOM",
    "company": "Qualcomm Inc",
@@ -101,22 +101,6 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-could-34-151409233.html",
    "published": "2026-06-19T15:14:09Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 7,
-   "ticker": "NXPI",
-   "company": "NXP Semiconductors NV",
-   "move_pct": 5.05,
-   "price": 313.27,
-   "volume": 7968200,
-   "volume_vs_avg": "~2x",
-   "heat_score": 42,
-   "direction": "up",
-   "why": "Strength Seen in NXP (NXPI): Can Its 5.1% Jump Turn into More Strength?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/strength-seen-nxp-nxpi-5-120300853.html",
-   "published": "2026-06-19T12:03:00Z",
    "sector": "AI Chips & Compute"
   }
  ]

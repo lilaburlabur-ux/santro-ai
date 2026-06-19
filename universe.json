@@ -1,8 +1,8 @@
 {
  "meta": {
   "source": "Finviz theme:artificialintelligence",
-  "as_of": "2026-06-19 12:18 UTC",
-  "total_tickers": 85,
+  "as_of": "2026-06-19 12:23 UTC",
+  "total_tickers": 86,
   "min_bubble_size": 7,
   "render_spec": {
    "bubble_size": "sqrt(total_market_cap_b) \u2014 sqrt scale so megacaps don't drown the map",
@@ -18,7 +18,7 @@
    "label": "AI Chips & Compute",
    "color": "#4F8EF7",
    "count": 13,
-   "total_market_cap_b": 13382.14,
+   "total_market_cap_b": 13221.59,
    "avg_change_pct": 0.22,
    "industries_included": [
     "Semiconductors"
@@ -667,9 +667,9 @@
    "id": "ai_software_and_cloud_infrastructure",
    "label": "AI Software & Cloud Infrastructure",
    "color": "#9B6BF7",
-   "count": 14,
-   "total_market_cap_b": 4338.71,
-   "avg_change_pct": -0.0,
+   "count": 15,
+   "total_market_cap_b": 4347.82,
+   "avg_change_pct": -0.02,
    "industries_included": [
     "Software - Infrastructure"
    ],
@@ -1317,10 +1317,10 @@
      "sector": "Technology",
      "industry": "Software - Infrastructure",
      "country": "USA",
-     "market_cap_b": 5.25,
+     "market_cap_b": 5.24,
      "pe": null,
-     "price": 15.02,
-     "change_pct": 1.49,
+     "price": 14.99,
+     "change_pct": -0.2,
      "volume": 8416300,
      "perf": {
       "1W": 1.8,
@@ -1416,7 +1416,7 @@
    "label": "AI Applications & Data Software",
    "color": "#F7A14F",
    "count": 11,
-   "total_market_cap_b": 750.44,
+   "total_market_cap_b": 751.23,
    "avg_change_pct": -0.16,
    "industries_included": [
     "Software - Application"
@@ -1968,7 +1968,7 @@
    "label": "Chip Equipment & AI Hardware",
    "color": "#4FC3D9",
    "count": 12,
-   "total_market_cap_b": 3185.75,
+   "total_market_cap_b": 3180.1,
    "avg_change_pct": 0.21,
    "industries_included": [
     "Communication Equipment",
@@ -2571,7 +2571,7 @@
    "label": "AI Platforms, Internet & AdTech",
    "color": "#F75F8E",
    "count": 12,
-   "total_market_cap_b": 13388.55,
+   "total_market_cap_b": 13428.41,
    "avg_change_pct": -0.06,
    "industries_included": [
     "Advertising Agencies",
@@ -2684,7 +2684,7 @@
      "sector": "Consumer Cyclical",
      "industry": "Internet Retail",
      "country": "USA",
-     "market_cap_b": 2613.55,
+     "market_cap_b": 2613.53,
      "pe": 28.44,
      "price": 243.05,
      "change_pct": -0.55,
@@ -3175,7 +3175,7 @@
    "label": "Data Center, Power & Energy",
    "color": "#5FD97A",
    "count": 9,
-   "total_market_cap_b": 521.54,
+   "total_market_cap_b": 517.08,
    "avg_change_pct": 0.12,
    "industries_included": [
     "Electrical Equipment & Parts",
@@ -3634,7 +3634,7 @@
    "label": "Applied AI: Industrial, Defense & Vertical",
    "color": "#D9C84F",
    "count": 14,
-   "total_market_cap_b": 4488.35,
+   "total_market_cap_b": 4537.04,
    "avg_change_pct": -0.28,
    "industries_included": [
     "Aerospace & Defense",

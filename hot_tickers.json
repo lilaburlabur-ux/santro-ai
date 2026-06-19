@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-19T21:29:06+00:00",
+  "as_of": "2026-06-19T21:44:07+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,18 +9,18 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "INTC",
-   "company": "Intel Corp",
-   "move_pct": 10.8,
-   "price": 134.18,
-   "volume": 233906600,
-   "volume_vs_avg": "~2x",
-   "heat_score": 71,
+   "ticker": "MRVL",
+   "company": "Marvell Technology Inc",
+   "move_pct": 8.28,
+   "price": 313.5,
+   "volume": 250989400,
+   "volume_vs_avg": "~5x",
+   "heat_score": 80,
    "direction": "up",
-   "why": "Analyst Warns Intel Valuation \u2018Doesn\u2019t Make Sense.\u2019 Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
+   "why": "After Being Called the Next Trillion-Dollar AI Stock and Joining the S&P 500, Marvell's CFO Just Filed to Dump $65 Million of Stock. Here's Why.",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/analyst-warns-intel-valuation-doesn-173648448.html",
-   "published": "2026-06-19T17:36:48Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/being-called-next-trillion-dollar-212700894.html",
+   "published": "2026-06-19T21:27:00Z",
    "sector": "AI Chips & Compute"
   },
   {
@@ -41,22 +41,6 @@
   },
   {
    "rank": 3,
-   "ticker": "MRVL",
-   "company": "Marvell Technology Inc",
-   "move_pct": 8.28,
-   "price": 313.5,
-   "volume": 250989400,
-   "volume_vs_avg": "~5x",
-   "heat_score": 65,
-   "direction": "up",
-   "why": "Moving up 8.3% on ~5x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 4,
    "ticker": "TER",
    "company": "Teradyne Inc",
    "move_pct": 7.82,
@@ -72,7 +56,7 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "UPST",
    "company": "Upstart Holdings Inc",
    "move_pct": 5.84,
@@ -88,7 +72,7 @@
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "ticker": "SPCX",
    "company": "SpaceX",
    "move_pct": -5.28,

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-19T14:33:40+00:00",
+  "as_of": "2026-06-19T14:48:49+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -49,10 +49,10 @@
    "volume_vs_avg": "~1.2x",
    "heat_score": 61,
    "direction": "up",
-   "why": "SK Hynix Has a Major Warning for Micron Technology Stock Investors",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-major-warning-micron-124300208.html",
-   "published": "2026-06-19T12:43:00Z",
+   "why": "Micron seen benefiting from strong memory pricing ahead of fiscal Q3 results",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/micron-seen-benefiting-strong-memory-142000846.html",
+   "published": "2026-06-19T14:20:00Z",
    "sector": "AI Chips & Compute"
   },
   {
@@ -97,10 +97,10 @@
    "volume_vs_avg": "~2x",
    "heat_score": 46,
    "direction": "up",
-   "why": "Is Trending Stock QUALCOMM Incorporated (QCOM) a Buy Now?",
+   "why": "Strength Seen in Qualcomm (QCOM): Can Its 6.2% Jump Turn into More Strength?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/trending-stock-qualcomm-incorporated-qcom-130007344.html",
-   "published": "2026-06-19T13:00:07Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/strength-seen-qualcomm-qcom-6-131500557.html",
+   "published": "2026-06-19T13:15:00Z",
    "sector": "AI Chips & Compute"
   },
   {

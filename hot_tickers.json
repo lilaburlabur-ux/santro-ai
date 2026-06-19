@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-19T08:19:21+00:00",
+  "as_of": "2026-06-19T08:24:43+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -22,6 +22,22 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-inc-mrvl-names-071719592.html",
    "published": "2026-06-19T07:17:19Z",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
+   "ticker": "SPCX",
+   "company": "SpaceX",
+   "move_pct": -5.28,
+   "price": 181.69,
+   "volume": 254914736,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 38,
+   "direction": "down",
+   "why": "SpaceX\u2019s $2.9 Trillion Value Is Built on AI Data Centers. Their Cost Is Otherworldly.",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.barrons.com/articles/spacex-orbital-data-centers-elon-musk-d0c67f58?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-06-19T06:00:00Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

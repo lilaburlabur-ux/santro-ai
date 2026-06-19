@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-19T00:00:06+00:00",
+  "as_of": "2026-06-19T00:15:16+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -57,22 +57,6 @@
   },
   {
    "rank": 4,
-   "ticker": "TER",
-   "company": "Teradyne Inc",
-   "move_pct": 7.19,
-   "price": 437.92,
-   "volume": 12229609,
-   "volume_vs_avg": "~3x",
-   "heat_score": 56,
-   "direction": "up",
-   "why": "Teradyne Stock Actionable Now After AI Play's Strong Gap-Up Breakout",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/stock-lists/ibd-big-cap-20/teradyne-stock-ter-ai-chip-equipment-tech-breakout-investing-markets/?src=A00220&yptr=yahoo",
-   "published": "2026-06-18T20:03:47Z",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 5,
    "ticker": "TSM",
    "company": "Taiwan Semiconductor Manufacturing ADR",
    "move_pct": 6.94,
@@ -86,6 +70,22 @@
    "source_url": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-manufacturing-company-limited-211938783.html",
    "published": "2026-06-18T21:19:38Z",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 5,
+   "ticker": "TER",
+   "company": "Teradyne Inc",
+   "move_pct": 7.19,
+   "price": 437.92,
+   "volume": 12229609,
+   "volume_vs_avg": "~3x",
+   "heat_score": 41,
+   "direction": "up",
+   "why": "Moving up 7.2% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
+   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

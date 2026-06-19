@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-06-19T13:53:02+00:00",
-  "as_of_local": "2026-06-19 13:53:02 UTC",
+  "as_of_utc": "2026-06-19T13:58:03+00:00",
+  "as_of_local": "2026-06-19 13:58:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "QCOM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -227,6 +225,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/mrvl-stock-jumps-14-today-222025797.html",
           "publisher": "Stocktwits",
           "published": "2026-06-18T22:20:25Z"
+        }
+      ]
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "price": 226.11,
+      "previous_close": 212.97,
+      "change_pct": 6.17,
+      "market_cap": 238319940643.31055,
+      "headlines": [
+        {
+          "title": "Intel Leads Big Chip Stock Rally",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-leads-big-chip-stock-123941155.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-06-19T12:39:41Z"
+        },
+        {
+          "title": "Here is Why QUALCOMM (QCOM) is One of the Best Electric and Autonomous Driving Stocks to Buy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-one-best-121857062.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-06-19T12:18:57Z"
+        },
+        {
+          "title": "2 Reasons QCOM is Risky and 1 Stock to Buy Instead",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-qcom-risky-1-090058059.html",
+          "publisher": "StockStory",
+          "published": "2026-06-19T09:00:58Z"
         }
       ]
     },
@@ -531,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 63137.97,
-      "change_pct": 0.38
+      "price": 63178.75,
+      "change_pct": 0.45
     },
     {
       "label": "Gold",
-      "price": 4178.1,
-      "change_pct": -1.09
+      "price": 4177.3,
+      "change_pct": -1.11
     },
     {
       "label": "Nasdaq100",

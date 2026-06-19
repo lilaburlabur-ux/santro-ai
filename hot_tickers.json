@@ -1,59 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-19T13:01:26+00:00",
+  "as_of": "2026-06-19T13:07:16+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "MU",
-   "company": "Micron Technology Inc",
-   "move_pct": 10.43,
-   "price": 1151.95,
-   "volume": 61492016,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 67,
-   "direction": "up",
-   "why": "SK Hynix Has a Major Warning for Micron Technology Stock Investors",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-major-warning-micron-124300208.html",
-   "published": "2026-06-19T12:43:00Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 2,
-   "ticker": "TSM",
-   "company": "Taiwan Semiconductor Manufacturing ADR",
-   "move_pct": 6.99,
-   "price": 462.34,
-   "volume": 16178928,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 46,
-   "direction": "up",
-   "why": "Amkor Technology (AMKR) Stock Could Be 26% Below Fair Value After TSMC Arizona Deal",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-stock-could-111208716.html",
-   "published": "2026-06-19T11:12:08Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 3,
-   "ticker": "TER",
-   "company": "Teradyne Inc",
-   "move_pct": 7.82,
-   "price": 440.5,
-   "volume": 12229609,
-   "volume_vs_avg": "~3x",
-   "heat_score": 43,
-   "direction": "up",
-   "why": "Moving up 7.8% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": "Chip Equipment & AI Hardware"
-  }
- ]
+ "hot_tickers": []
 }

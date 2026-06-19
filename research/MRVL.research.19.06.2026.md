@@ -5,7 +5,7 @@ Signed file: `MRVL.research.19.06.2026`
 | Field | Value |
 |---|---|
 | Current price | $310.58 (2026-06-19, ~15-min delayed) |
-| Market cap | $271.70B |
+| Market cap | $271.93B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: low (expensive), risk: high. |
@@ -67,7 +67,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $8.72B | Revenue growth 27.60% y/y |
 | Profitability | Gross 51.50%, operating 14.48%, net 28.99% | ROA 3.81%, ROE 16.03% |
 | Balance sheet | Cash $3.84B, debt $5.28B | Current ratio 3.28, debt/equity 28.97 |
-| Valuation | P/E 107.10, forward P/E 50.32, P/S 31.17, P/B 14.93 | EV/Sales 28.13, EV/EBITDA 90.42 |
+| Valuation | P/E 107.10, forward P/E 50.32, P/S 31.19, P/B 14.93 | EV/Sales 28.13, EV/EBITDA 90.42 |
 | Growth expectations | Earnings growth -80.40%, EPS q/q -80.60% | Analyst mean target $238.75 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $310.58 | EV/Sales | 28.13 |
-| Market cap | $271.70B | EV/EBITDA | 90.42 |
+| Market cap | $271.93B | EV/EBITDA | 90.42 |
 | Beta | 2.28 | Gross margin | 51.50% |
 | RSI(14) | 64.6 | Operating margin | 14.48% |
 | ATR(14) | 28.54 | Profit margin | 28.99% |
@@ -124,7 +124,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | P/E (ttm) | 107.10 | Insider ownership | 0.69% |
 | Forward P/E | 50.32 | Short float | 4.71% |
 | PEG (trailing) | 1.76 | Avg volume | 40,633,190 |
-| P/S | 31.17 | Employees | 7,480 |
+| P/S | 31.19 | Employees | 7,480 |
 | P/B | 14.93 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions

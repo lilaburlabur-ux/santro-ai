@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-19T22:29:47+00:00",
+  "as_of": "2026-06-19T22:45:02+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -81,10 +81,10 @@
    "volume_vs_avg": "~0.9x",
    "heat_score": 38,
    "direction": "down",
-   "why": "Dow Jones Futures Fall; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This",
+   "why": "SpaceX Is a Secret Autonomous Driving Stock. Here's Why.",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
-   "published": "2026-06-19T21:00:05Z",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/spacex-secret-autonomous-driving-stock-222600848.html",
+   "published": "2026-06-19T22:26:00Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-06-19T23:45:41+00:00",
-  "as_of_local": "2026-06-19 23:45:41 UTC",
+  "as_of_utc": "2026-06-19T23:50:40+00:00",
+  "as_of_local": "2026-06-19 23:50:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LSCC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -208,7 +206,7 @@
       "price": 310.58,
       "previous_close": 289.54,
       "change_pct": 7.27,
-      "market_cap": 271929292713.64456,
+      "market_cap": 271695372253.41797,
       "headlines": [
         {
           "title": "After Being Called the Next Trillion-Dollar AI Stock and Joining the S&P 500, Marvell's CFO Just Filed to Dump $65 Million of Stock. Here's Why.",
@@ -287,12 +285,40 @@
       ]
     },
     {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 153.72,
+      "previous_close": 139.86,
+      "change_pct": 9.91,
+      "market_cap": 21060847945.28592,
+      "headlines": [
+        {
+          "title": "2 Cash-Heavy Stocks with Exciting Potential and 1 We Find Risky",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-cash-heavy-stocks-exciting-113258268.html",
+          "publisher": "StockStory",
+          "published": "2026-06-19T11:32:58Z"
+        },
+        {
+          "title": "Power Integrations, Lattice Semiconductor, and onsemi Stocks Trade Up, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/power-integrations-lattice-semiconductor-onsemi-182928474.html",
+          "publisher": "StockStory",
+          "published": "2026-06-18T18:29:28Z"
+        },
+        {
+          "title": "1 Cash-Producing Stock Worth Your Attention and 2 Facing Headwinds",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-cash-producing-stock-worth-134128621.html",
+          "publisher": "StockStory",
+          "published": "2026-06-18T13:41:28Z"
+        }
+      ]
+    },
+    {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 133.53,
-      "previous_close": 134.94,
-      "change_pct": -1.04,
-      "market_cap": 5443663439.65,
+      "price": 140.89,
+      "previous_close": 133.53,
+      "change_pct": 5.51,
+      "market_cap": 5443663416.067429,
       "headlines": [
         {
           "title": "Will Synaptics' (SYNA) Edge AI UAV Collaboration Redefine Its Core IoT Investment Narrative?",
@@ -526,13 +552,13 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7420.1,
-      "change_pct": -1.21
+      "price": 7500.58,
+      "change_pct": 1.08
     },
     {
       "label": "BTC",
-      "price": 63253.7,
-      "change_pct": -1.81
+      "price": 63246.0,
+      "change_pct": 0.56
     },
     {
       "label": "Gold",
@@ -541,8 +567,8 @@
     },
     {
       "label": "Nasdaq100",
-      "price": 29670.95,
-      "change_pct": -0.99
+      "price": 30406.19,
+      "change_pct": 2.48
     }
   ]
 }

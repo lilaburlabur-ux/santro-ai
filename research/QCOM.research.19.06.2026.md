@@ -4,24 +4,24 @@ Signed file: `QCOM.research.19.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $226.11 (2026-06-19, ~15-min delayed) |
+| Current price | $nan (2026-06-19, ~15-min delayed) |
 | Market cap | $238.32B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-06-19.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +49.47%; price +36.78% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -9.59% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 22.31%, revenue growth -3.50%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 21.20, EV/Sales 5.20. |
-| Risk level | High | Beta 1.60, ATR 7.3% of price, short float 4.78%. |
+| Risk level | Elevated | Beta 1.60, ATR nan% of price, short float 4.78%. |
 
-**Bottom line:** High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| Here is Why QUALCOMM (QCOM) is One of the Best Electric and Autonomous Driving Stocks to Buy | Insider Monkey | 2026-06-19 |
 | 2 Reasons QCOM is Risky and 1 Stock to Buy Instead | StockStory | 2026-06-19 |
 | Is The AI Super-Cycle Real Enough To Bet On Micron Stock? | Trefis | 2026-06-18 |
 | Stock Market Today, June 18: Marvell Technology Surges on Price Target Hike | Motley Fool | 2026-06-18 |
-| The Gross Margin Silence That Reshapes The Advanced Micro Stock Bull Case | Trefis | 2026-06-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $226.11; 52w high $250.10 (-9.59%); 52w low $123.61 (+82.92%) |
-| Trend | +36.78% vs SMA200, +18.45% vs SMA50, +0.46% vs SMA20 |
-| Momentum | RSI(14) 55.5 (neutral) |
-| Volatility | ATR(14) 16.42 (~7.3% of price); beta 1.60 |
-| Setup perspective | -9.59% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $250.10 (+nan%); 52w low $123.61 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 50.9 (neutral) |
+| Volatility | ATR(14) 16.42 (~nan% of price); beta 1.60 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +11.4% |
-| Month | +16.0% |
-| Quarter | +72.9% |
-| Half Y | +29.7% |
-| 1Y | +49.5% |
-| YTD | +32.0% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,7 +95,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 21.20, EV/Sales 5.20. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.60, ATR 7.3% of price, short float 4.78%. Size positions accordingly.
+- **Volatility risk:** Beta 1.60, ATR nan% of price, short float 4.78%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,14 +110,14 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $226.11 | EV/Sales | 5.20 |
+| Price | $nan | EV/Sales | 5.20 |
 | Market cap | $238.32B | EV/EBITDA | 17.78 |
 | Beta | 1.60 | Gross margin | 54.80% |
-| RSI(14) | 55.5 | Operating margin | 22.06% |
+| RSI(14) | 50.9 | Operating margin | 22.06% |
 | ATR(14) | 16.42 | Profit margin | 22.31% |
-| SMA20 dist | +0.46% | ROA | 12.69% |
-| SMA50 dist | +18.45% | ROE | 36.08% |
-| SMA200 dist | +36.78% | Revenue (ttm) | $44.49B |
+| SMA20 dist | +nan% | ROA | 12.69% |
+| SMA50 dist | +nan% | ROE | 36.08% |
+| SMA200 dist | +nan% | Revenue (ttm) | $44.49B |
 | 52W high | $250.10 | Revenue growth y/y | -3.50% |
 | 52W low | $123.61 | Inst. ownership | 84.82% |
 | P/E (ttm) | 24.34 | Insider ownership | 0.13% |
@@ -139,7 +139,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | 2026-04-30 | main | Susquehanna | Neutral → Neutral |
 
 ## 9. Conclusion
-QCOM: High momentum / mixed fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+QCOM: Moderate momentum / mixed fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

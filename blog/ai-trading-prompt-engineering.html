@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>If Your AI Trading Prompt Is Garbage, Your Strategy Will Be Garbage Too | Santro AI</title>
+<meta name="description" content="Vague prompts give vague trades. The Santro prompt formula — context, objective, example, output format, verification — turns AI from a market fortune cookie into a research desk. One copy-ready prompt plus a live prompt scorer.">
+<link rel="canonical" href="https://santroai.tech/blog/ai-trading-prompt-engineering">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<meta property="og:type" content="article">
+<meta property="og:title" content="If Your AI Trading Prompt Is Garbage, Your Strategy Will Be Garbage Too">
+<meta property="og:description" content="Your prompt is not a question — it is your trading desk. The Santro prompt formula, one serious copy-ready prompt, and a tool that scores your own prompt.">
+<meta property="og:url" content="https://santroai.tech/blog/ai-trading-prompt-engineering">
+<meta property="og:image" content="https://santroai.tech/assets/og-map.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://santroai.tech/assets/og-map.png">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article",
+ "headline":"If Your AI Trading Prompt Is Garbage, Your Strategy Will Be Garbage Too",
+ "description":"Vague prompts give vague trades. The Santro prompt formula — context, objective, example, output format, verification — turns AI from a market fortune cookie into a research desk.",
+ "image":"https://santroai.tech/assets/og-map.png",
+ "datePublished":"2026-06-19","dateModified":"2026-06-19",
+ "author":{"@type":"Organization","name":"Santro AI","url":"https://santroai.tech"},
+ "publisher":{"@type":"Organization","name":"Santro AI","logo":{"@type":"ImageObject","url":"https://santroai.tech/assets/brand/logo-1024.png"}},
+ "mainEntityOfPage":{"@type":"WebPage","@id":"https://santroai.tech/blog/ai-trading-prompt-engineering"},
+ "keywords":"AI trading prompt, prompt engineering, AI narrative trading, trading process, needs verification, hallucination, Santro AI"}
+</script>
+<style>
+  :root{
+    --bg:#0a0e13; --surface:#111822; --card:#16202b;
+    --text:#e7edf3; --muted:#9aa7b5; --hint:#6b7686;
+    --border:rgba(255,255,255,.10); --border-strong:rgba(255,255,255,.20);
+    --accent:#7cb0f5; --teal:#22c55e; --amber:#e0a73f; --danger:#f05a6e; --gray:#8895a4;
+    --radius:14px; --radius-sm:9px;
+    --serif:Georgia,'Times New Roman',serif;
+    --sans:-apple-system,BlinkMacSystemFont,'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+    --mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.7;font-size:18px;-webkit-font-smoothing:antialiased}
+  .sa-head{display:flex;align-items:center;gap:14px;flex-wrap:wrap;max-width:1040px;margin:0 auto;padding:16px 22px;border-bottom:1px solid var(--border)}
+  .sa-logo{display:flex;align-items:center;gap:6px;text-decoration:none}
+  .sa-s{position:relative;font-size:24px;font-weight:800;line-height:.85;padding-right:12px;background:linear-gradient(165deg,#4ade80 10%,#15803d 90%);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .sa-ai{position:absolute;top:-3px;right:0;font-size:8px;font-weight:800;-webkit-text-fill-color:#22c55e}
+  .sa-name{font-size:13px;font-weight:800;letter-spacing:.28em;color:var(--text)}
+  .sa-nav{margin-left:auto;display:flex;gap:4px;flex-wrap:wrap}
+  .sa-nav a{font-size:13px;font-weight:600;color:var(--muted);text-decoration:none;padding:5px 9px;border-radius:7px}
+  .sa-nav a:hover{color:var(--text)}
+  .sa-nav a.on{color:var(--accent)}
+  .sa-nav a.back{color:var(--accent);font-weight:700}
+  .wrap{max-width:1040px;margin:0 auto;padding:32px 22px 80px}
+  .kicker{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--teal);font-weight:700;margin:0 0 10px}
+  h1{font-family:var(--serif);font-size:38px;line-height:1.15;font-weight:700;margin:0 0 14px}
+  h2{font-size:26px;line-height:1.25;font-weight:600;margin:48px 0 12px}
+  p{margin:0 0 18px}
+  strong{color:var(--text)}
+  .lede{font-size:20px;color:var(--muted);font-style:italic;font-family:var(--serif);margin-bottom:22px}
+  .byline{font-size:14px;color:var(--hint);border-top:1px solid var(--border);border-bottom:1px solid var(--border);padding:12px 0;margin:0 0 28px;display:flex;flex-wrap:wrap;gap:6px 16px;align-items:center}
+  a{color:var(--accent)}
+  figure{margin:30px 0}
+  figcaption{font-size:13px;color:var(--hint);margin-top:10px;text-align:center;font-style:italic}
+  /* formula hero */
+  .fhero{position:relative;border-radius:var(--radius);overflow:hidden;border:1px solid var(--border);
+    background:radial-gradient(130% 140% at 26% 6%,#0f3322 0%,#0c2a3e 38%,#0a1322 70%,#070b12 100%);
+    min-height:260px;padding:30px 22px;display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:center}
+  .fchip{font-family:var(--sans);font-weight:800;letter-spacing:.04em;padding:9px 16px;border-radius:12px;
+    border:1px solid;background:rgba(8,14,20,.5);font-size:clamp(13px,2.1vw,18px);white-space:nowrap;color:#6ee7a8;border-color:#2f8f5c;box-shadow:0 0 16px rgba(40,200,120,.3)}
+  .fchip.blue{color:#7cc4ff;border-color:#2f6dbf;box-shadow:0 0 16px rgba(70,150,255,.3)}
+  .fchip.big{font-size:clamp(22px,4vw,36px);padding:13px 24px}
+  .fchip.plus{background:none;border:none;box-shadow:none;color:var(--hint);font-size:22px}
+  /* generic code block + copy */
+  .codewrap{margin:22px 0}
+  .codehead{display:flex;align-items:center;justify-content:space-between;gap:10px;background:#0d1622;border:1px solid var(--border);border-bottom:none;border-radius:10px 10px 0 0;padding:8px 14px;font-size:12px;color:var(--hint);font-family:var(--mono)}
+  .copybtn{font:inherit;font-family:var(--sans);font-size:12px;font-weight:700;cursor:pointer;border:1px solid var(--border-strong);background:var(--card);color:var(--accent);border-radius:7px;padding:6px 13px}
+  .copybtn:hover{border-color:var(--teal);color:var(--teal)}
+  pre.code{margin:0;background:#0b121c;border:1px solid var(--border);border-radius:0 0 10px 10px;padding:16px 18px;overflow:auto;max-height:600px}
+  pre.code code{font-family:var(--mono);font-size:13px;line-height:1.55;color:#cdd9e5;white-space:pre}
+  .cblock{background:#0b121c;border:1px solid var(--border);border-left:3px solid var(--gray);border-radius:0 9px 9px 0;padding:12px 15px;margin:18px 0;font-family:var(--mono);font-size:13.5px;color:#cdd9e5;white-space:pre-wrap;overflow:auto}
+  .cblock.warn{border-left-color:var(--amber);color:#f2d49a}
+  .bq{border-left:3px solid var(--danger);background:var(--surface);border-radius:0 9px 9px 0;padding:12px 16px;margin:18px 0;font-style:italic;color:var(--muted);font-family:var(--serif);font-size:18px}
+  /* mapping table */
+  .maptbl{width:100%;border-collapse:collapse;margin:18px 0;font-size:15px}
+  .maptbl th{text-align:left;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--hint);border-bottom:1px solid var(--border-strong);padding:8px 10px}
+  .maptbl td{border-bottom:1px solid var(--border);padding:9px 10px;color:var(--muted);vertical-align:top}
+  .maptbl td:first-child{color:var(--text);font-weight:700;white-space:nowrap}
+  .maptbl code{font-family:var(--mono);font-size:13px;color:#8fd6ad}
+  /* bad vs desk-grade */
+  .vs{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:24px 0}
+  .vs-card{border:1px solid var(--border);border-radius:12px;padding:16px 18px;background:var(--surface)}
+  .vs-card.bad{border-top:3px solid var(--danger)}
+  .vs-card.good{border-top:3px solid var(--teal)}
+  .vs-card .ptxt{font-family:var(--mono);font-size:13px;color:#cdd9e5;background:#0b121c;border:1px solid var(--border);border-radius:8px;padding:11px 13px;margin-bottom:12px;min-height:70px;line-height:1.5}
+  .vs-card .sc{font-size:34px;font-weight:800;line-height:1}
+  .vs-card.bad .sc{color:var(--danger)} .vs-card.good .sc{color:var(--teal)}
+  .vs-card .scl{font-size:12px;color:var(--hint);text-transform:uppercase;letter-spacing:.05em;font-weight:700;margin-top:4px}
+  /* interactive tool */
+  .tool{background:var(--surface);border:1px solid var(--border-strong);border-radius:14px;padding:20px;margin:22px 0}
+  .tool h3{margin:0 0 4px;font-size:20px;font-family:var(--serif)}
+  .tool .sub{color:var(--muted);font-size:14px;margin:0 0 14px}
+  .tool textarea{width:100%;min-height:120px;background:#0b121c;color:#cdd9e5;border:1px solid var(--border);border-radius:10px;padding:12px 14px;font-family:var(--mono);font-size:13.5px;line-height:1.5;resize:vertical}
+  .tool .run{margin-top:12px;font:inherit;font-family:var(--sans);font-weight:800;cursor:pointer;background:var(--teal);color:#04140b;border:none;border-radius:9px;padding:11px 20px;font-size:15px}
+  .tool .run:hover{filter:brightness(1.07)}
+  .tool .out{margin-top:20px;display:none}
+  .scorehead{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;margin-bottom:6px}
+  .scorebig{font-size:46px;font-weight:800;line-height:1}
+  .riskbadge{display:inline-block;font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.05em;padding:4px 10px;border-radius:999px}
+  .heat{display:grid;gap:8px;margin:16px 0}
+  .heat-row{display:grid;grid-template-columns:170px 1fr 44px;align-items:center;gap:10px;font-size:13px}
+  .heat-row .hl{color:var(--muted)}
+  .heat-row .ht{height:12px;border-radius:99px;background:#1b2735;overflow:hidden}
+  .heat-row .hf{height:100%;border-radius:99px;transition:width .4s}
+  .heat-row .hv{text-align:right;font-weight:800;font-variant-numeric:tabular-nums}
+  .missing{background:var(--card);border:1px solid var(--border);border-radius:9px;padding:12px 14px;margin:14px 0;font-size:14px;color:var(--muted)}
+  .missing b{color:var(--text)}
+  .missing ul{margin:6px 0 0;padding-left:18px}
+  /* shared boxes from the Santro article style */
+  .loopbox{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:14px 16px;margin:22px 0}
+  .loopbox .lbl{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--hint);font-weight:700;margin-bottom:9px}
+  .loopbox ul{margin:0;padding-left:18px}
+  .loopbox li{font-size:15px;margin:0 0 6px;color:var(--muted)}
+  .loopbox li b{color:var(--text)}
+  .loop-links{display:flex;flex-wrap:wrap;gap:8px}
+  .loop-links a{font-size:13.5px;font-weight:700;padding:9px 14px;border-radius:9px;border:1px solid var(--border);background:var(--card);color:var(--text);text-decoration:none}
+  .loop-links a:hover{border-color:var(--teal);color:var(--teal)}
+  .note{background:var(--surface);border-left:3px solid var(--teal);border-radius:0 9px 9px 0;padding:14px 16px;font-size:15px;color:var(--muted);margin:26px 0}
+  .slog{font-size:22px;font-weight:800;color:var(--teal);margin:28px 0 0}
+  .disclaimer{font-size:13px;color:var(--hint);font-style:italic;border-top:1px solid var(--border);padding-top:16px;margin-top:30px}
+  .sources{font-size:13px;color:var(--hint);margin-top:18px;line-height:1.8}
+  .sources a{color:var(--muted)}
+  .sa-foot{max-width:1040px;margin:0 auto;padding:26px 22px 60px;border-top:1px solid var(--border);font-size:13px;color:var(--hint);text-align:center;line-height:1.9}
+  .sa-foot a{color:var(--muted);text-decoration:none;font-weight:600}
+  @media (max-width:620px){.vs{grid-template-columns:1fr}.heat-row{grid-template-columns:120px 1fr 40px}}
+</style>
+</head>
+<body>
+
+<header class="sa-head">
+  <a class="sa-logo" href="/"><span class="sa-s">S<span class="sa-ai">AI</span></span><span class="sa-name">ANTRO</span></a>
+  <nav class="sa-nav">
+    <a href="/">Terminal</a><a href="/crypto">Crypto</a><a href="/bubble">Bubble risk</a>
+    <a href="/blog" class="on">Blog</a>
+    <a href="/blog" class="back">&larr; Back</a>
+  </nav>
+</header>
+
+<article class="wrap">
+
+  <p class="kicker">Prompt Engineering &middot; AI Trading Process</p>
+  <h1>If Your AI Trading Prompt Is Garbage, Your Strategy Will Be Garbage Too</h1>
+  <p class="lede">Vague prompts give vague trades. Here is how to turn AI from a market fortune cookie into a research desk.</p>
+  <p class="byline">
+    <span>By <strong>Santro AI</strong></span><span>&middot;</span><span>June 19, 2026</span>
+    <span>&middot;</span><span>Method: prompt engineering for market research</span>
+  </p>
+
+  <figure>
+    <div class="fhero">
+      <span class="fchip">CONTEXT</span>
+      <span class="fchip plus">+</span>
+      <span class="fchip">OBJECTIVE</span>
+      <span class="fchip plus">+</span>
+      <span class="fchip blue">EXAMPLE</span>
+      <span class="fchip plus">+</span>
+      <span class="fchip blue">OUTPUT FORMAT</span>
+      <span class="fchip plus">+</span>
+      <span class="fchip big">VERIFICATION</span>
+    </div>
+    <figcaption>A prompt is not a question. It is the desk you build before you ask one.</figcaption>
+  </figure>
+
+  <p>If this is your prompt:</p>
+  <p class="bq">&ldquo;Analyse the whole crypto market and my portfolio and give me a strategy.&rdquo;</p>
+  <p>You must learn this: <strong>the model did not fail you. You failed to give it a market.</strong></p>
+
+  <p>A large language model is not sitting inside your brokerage account. It does not automatically know your asset mix, your portfolio size, your time horizon, your risk profile, your strategy pillars, your unrealized losses, your emotional pain threshold, or the reason you bought the position in the first place.</p>
+  <p>An LLM reads your input, converts it into tokens, uses the context available to it, and generates a likely useful continuation. Powerful? Yes. Magic? No.</p>
+  <p>And in trading, confusing &ldquo;fluent answer&rdquo; with &ldquo;good process&rdquo; is how people become beautifully formatted exit liquidity.</p>
+
+  <p>Phoenix and Taylor&rsquo;s <a href="https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/" target="_blank" rel="noopener"><em>Prompt Engineering for Generative AI</em></a> starts with five principles: give direction, specify format, provide examples, evaluate quality, and divide labor. <a href="https://developers.openai.com/api/docs/guides/prompt-engineering" target="_blank" rel="noopener">OpenAI</a> defines prompt engineering as writing effective instructions so the model consistently produces outputs that meet your requirements. <a href="https://cloud.google.com/discover/what-is-prompt-engineering" target="_blank" rel="noopener">Google Cloud</a>&rsquo;s guide makes the same practical point: context, instructions, examples, format, and clear goals shape the quality of the response.</p>
+
+  <p>For traders, this becomes brutally simple:</p>
+  <p><strong>Your prompt is not a question. Your prompt is your trading desk.</strong></p>
+
+  <figure>
+    <div class="vs">
+      <div class="vs-card bad">
+        <div class="ptxt">analyse the whole crypto market and my portfolio and give me a strategy.</div>
+        <div class="sc">18<span style="font-size:18px;color:var(--hint)">/100</span></div>
+        <div class="scl">Vague input, vague output</div>
+      </div>
+      <div class="vs-card good">
+        <div class="ptxt">context + objective + example + output format + verification</div>
+        <div class="sc">88<span style="font-size:18px;color:var(--hint)">/100</span></div>
+        <div class="scl">Research-ready prompt</div>
+      </div>
+    </div>
+    <figcaption>Same model, same market. The only thing that changed is the desk you handed it.</figcaption>
+  </figure>
+
+  <h2>The Santro Prompt Formula</h2>
+  <p>Before asking AI for market analysis, define the trade you are actually asking about:</p>
+  <pre class="cblock">portfolio_context = asset types, portfolio size, current positions, strategy pillars used before
+time_horizon     = day trade / swing trade / position trade / long-term investment
+risk_profile     = risk-on / balanced / risk-averse</pre>
+  <p>A portfolio is not just tickers. It is exposure, size, thesis, and behavior. A time horizon tells the model whether you want intraday noise, swing-trade structure, or long-term narrative risk. A risk profile tells it whether to hunt upside, balance both sides, or protect capital first.</p>
+
+  <p>The Santro formula is:</p>
+  <pre class="cblock">context + objective + example + output format + verification</pre>
+  <p>That maps directly to the five principles:</p>
+
+  <table class="maptbl">
+    <thead><tr><th>Santro slot</th><th>Book principle</th><th>Trading meaning</th></tr></thead>
+    <tbody>
+      <tr><td>Context</td><td>Give direction</td><td>Market, portfolio, timeframe, risk</td></tr>
+      <tr><td>Objective</td><td>Give direction</td><td>What decision frame you need</td></tr>
+      <tr><td>Example</td><td>Provide examples</td><td>Show the model the depth and style</td></tr>
+      <tr><td>Output format</td><td>Specify format</td><td>Table, labels, categories</td></tr>
+      <tr><td>Verification</td><td>Evaluate quality</td><td>Observed / inferred / needs verification</td></tr>
+      <tr><td>Prompt chain</td><td>Divide labor</td><td>Scan &rarr; classify &rarr; invalidate</td></tr>
+    </tbody>
+  </table>
+  <p>A prompt without examples is like a chart without a timeframe: technically visible, practically dangerous.</p>
+
+  <h2>The Real Mistake: Asking AI to Pretend Stale Data Is Live</h2>
+  <p>Most trading prompts fail before the first answer. Not because AI is useless. Because the user asks for current market analysis without giving current market data.</p>
+  <p>If you ask an offline model to &ldquo;scan what moved last week,&rdquo; it may try to obey and quietly invent numbers. That is not intelligence. That is compliance wearing a tie.</p>
+  <p>So the first rule of AI trading prompts is this: <strong>never let the model pretend stale data is live.</strong> If there is no live feed, web retrieval, or pasted dataset, the model should say:</p>
+  <pre class="cblock warn">[needs verification]</pre>
+  <p>&mdash; not fake a price move.</p>
+  <p>Santro AI is built around market data, bubble maps, hot tickers, AI crypto, ETFs, and narrative-risk signals. Depending on the page and data source, some quotes may be delayed, so always respect the data label. Use Santro as a market <em>context</em> source, not as an oracle. If you use the open code or public data structure, use it respectfully: cite the source, do not abuse endpoints, do not scrape aggressively, and do not dress delayed data up as live.</p>
+  <p>Hot means attention, not direction. That applies to tickers. It also applies to prompts.</p>
+
+  <h2>The One Prompt Worth Using</h2>
+  <p>You do not need ten cute prompt templates &mdash; that is just content confetti. You need one proper prompt.</p>
+  <p>This version is written in Python style, because serious prompt work often ends up inside code, notebooks, backtests, or trading tools. Prompt engineering is something practical, not chatbot poetry. Define your three context variables, then copy the block in one click:</p>
+
+  <div class="codewrap">
+    <div class="codehead">
+      <span>santro_ai_trading_prompt.py</span>
+      <button class="copybtn" onclick="copyEl('bigprompt',this)">⧉ Copy prompt</button>
+    </div>
+<pre class="code"><code id="bigprompt">prompt = f"""
+execution_assumption:
+you do not have live market data unless a live feed, web tool, or market dataset is attached to this call.
+if no live data is provided:
+- fill every price, performance, and move cell with [needs verification]
+- describe the method and what to check
+- never invent prices, dates, percentages, holdings, volume, or performance
+
+context:
+portfolio_context = {portfolio_context}
+time_horizon = {time_horizon}
+risk_profile = {risk_profile}
+
+scope:
+analyse a maximum of 12-15 tickers total across stocks, etfs, and crypto.
+rank them by attention and relevance to the ai narrative, not by hope or personal bias.
+
+role:
+act as a skeptical ai narrative trader.
+your job is to separate signal from narrative heat.
+
+narrative_reference:
+treat ai-infrastructure positioning associated with leopold aschenbrenner-type elite ai capital as a hypothesis about where attention may cluster, not as fact.
+do not list specific aschenbrenner-linked holdings unless i supply them.
+if verified, dated holdings are not supplied, say:
+"specific picks not verified [needs verification]"
+reason from the broader thesis only:
+compute, power, energy, semiconductors, memory, networking, data centers, and second-order ai infrastructure.
+
+objective:
+map the current ai trade across stocks, etfs, and crypto.
+focus on what is moving, why it may be moving, what is crowded, what is ignored,
+what has no clear catalyst, and what needs live-data verification.
+
+method:
+1. scan three time windows:
+   - last week
+   - last month
+   - last year
+   if live data is unavailable, do not estimate the move.
+   mark the move as [needs verification] and explain what data must be checked.
+2. explain possible drivers only when there is evidence:
+   - news
+   - earnings
+   - filings
+   - analyst notes
+   - ai infrastructure narrative
+   - euphoric sentiment
+   - major ipo or pre-ipo speculation
+   - sector sympathy
+   - macro liquidity
+   - no clear catalyst
+3. avoid confirmation bias:
+   not every move has an explanation.
+   if the reason is unclear, say: "no clear catalyst found."
+4. label each move:
+   - single-name
+   - sector-wide
+   - macro-driven
+   - narrative-driven
+   - no clear catalyst
+5. identify crowded names using a peter lynch-style value filter:
+   - is valuation running ahead of earnings?
+   - is the story better than the business?
+   - is growth already priced in?
+   - is there real revenue or cash flow behind the move?
+   - is this a great company but a bad price?
+   - is the stock moving because fundamentals improved, or because attention expanded?
+6. identify ignored names:
+   look for ai-related stocks, etfs, or crypto assets with:
+   - improving fundamentals
+   - real ai exposure
+   - low narrative attention
+   - weak recent performance but intact thesis
+   - possible second-order ai infrastructure relevance
+7. flag weak setups:
+   - no clear catalyst
+   - no fundamental support
+   - purely attention-driven
+   - crowded narrative
+   - price action disconnected from business reality
+8. state what would invalidate the ai narrative:
+   - earnings disappointment
+   - margin pressure
+   - capex slowdown
+   - funding or liquidity reversal
+   - regulatory pressure
+   - failed ipo or weak ipo demand
+   - sector rotation away from ai
+   - crypto risk-off move
+
+scoring:
+score crowding_score, ignored_score, and narrative_risk from 1 to 5.
+1 = low
+2 = moderate-low
+3 = moderate
+4 = high
+5 = extreme
+
+output_format:
+return one table with these columns:
+ticker | asset_type | time_window | move_status | move_label | possible_driver | fundamentals_check | crowding_score | ignored_score | narrative_risk | verification_needed | invalidation_trigger
+
+after the table, add only these summary sections:
+1. strongest ai narrative right now
+2. most crowded ai trade
+3. most ignored ai-related setup
+4. biggest no-clear-catalyst mover
+5. strongest bear case against the dominant ai narrative
+6. live data required before using this analysis
+
+claim_labels:
+label every important claim as:
+[observed] = directly visible from supplied data
+[inferred] = reasonable interpretation, not proven
+[needs verification] = requires live market, news, filings, or source check
+
+example_row:
+nvda | stock | 1y | [needs verification] | sector-wide / crowded | ai infrastructure demand [inferred] | strong business, valuation risk [needs verification] | 4 | 1 | 4 | verify price move, earnings, margins, capex, peer moves | capex slowdown or margin compression
+
+rules:
+- do not give buy or sell calls.
+- describe setups, not orders.
+- do not pretend stale data is live.
+- do not force explanations where no catalyst is visible.
+- separate fundamentals from narrative attention.
+- if evidence is missing, say so clearly.
+- hot means attention, not direction.
+"""</code></pre>
+  </div>
+
+  <h2>Why This Prompt Works</h2>
+  <p>It <strong>gives direction</strong>: a skeptical AI-narrative trader. It <strong>specifies format</strong>: one table, fixed columns, fixed summary sections. It <strong>provides an example</strong>: the NVDA row shows the desired style and depth. It <strong>evaluates quality</strong>: every claim must be labelled observed, inferred, or needs verification. It <strong>divides labor</strong>: scan performance, classify drivers, check fundamentals, score crowding, find ignored names, name invalidation triggers.</p>
+  <p>That is prompt engineering with market discipline. Not vibes.</p>
+
+  <h2>What This Prompt Will Not Do</h2>
+  <p>It will not tell you what to buy. It will not remove risk. It will not know live prices unless you connect live data. It will not turn a bad thesis into a good one.</p>
+  <p>And if you ask it to explain every move, it should refuse the premise. Sometimes there is no clean catalyst. Sometimes price moves because positioning is thin, liquidity is weird, or the market is simply chasing heat. The correct answer is sometimes:</p>
+  <pre class="cblock warn">no clear catalyst found [needs verification]</pre>
+  <p>That sentence is more valuable than a fake explanation.</p>
+
+  <h2>Check Your Trading Prompt</h2>
+  <p>Prompt quality heat map: is your AI trading prompt usable? Paste a prompt below. Santro scores it across direction, output format, examples, quality check, divide labor and live-data honesty &mdash; and flags hallucination risk. Nothing leaves your browser; the scoring runs locally.</p>
+
+  <div class="tool">
+    <h3>Prompt scorer</h3>
+    <p class="sub">Paste a trading prompt &rarr; get a score, a heat map, what is missing, and a hardened version you can copy.</p>
+    <textarea id="ptin" placeholder="Paste your trading prompt here… e.g. &quot;analyse the whole crypto market and my portfolio and give me a strategy.&quot;"></textarea>
+    <button class="run" onclick="runScore()">Score my prompt</button>
+    <div class="out" id="ptout">
+      <div class="scorehead">
+        <span class="scorebig" id="ptscore">—</span>
+        <span style="color:var(--hint)">/100</span>
+        <span class="riskbadge" id="ptrisk"></span>
+      </div>
+      <div class="heat" id="ptheat"></div>
+      <div class="missing" id="ptmiss"></div>
+      <button class="copybtn" id="ptimprove" onclick="copyImproved(this)" style="font-size:13.5px;padding:9px 15px">⧉ Copy improved prompt</button>
+    </div>
+  </div>
+
+  <h2>Final Lesson</h2>
+  <p>AI will not save a lazy trader from a lazy question. If you ask:</p>
+  <pre class="cblock">what should i buy?</pre>
+  <p>you are outsourcing judgment. If you ask:</p>
+  <pre class="cblock">what changed, what is crowded, what is contradicted, what needs verification, and what would invalidate this trade?</pre>
+  <p>you are building process.</p>
+  <p>The first prompt wants dopamine. The second prompt wants a desk.</p>
+  <p>And in a market where every ticker has a story, every story has a bagholder, and every bagholder has a chart with arrows on it, process is not decoration. Process is the only thing standing between narrative trading and becoming exit liquidity with a nice prompt history.</p>
+
+  <p class="slog">Hot means attention, not direction.</p>
+
+  <div class="note">Use Santro AI as a market <em>context</em> source — bubble map, hot tickers, AI crypto, ETFs and narrative-risk signals — not as an oracle. Quotes are delayed ~15 min; respect the data label.</div>
+  <p class="disclaimer">Not financial advice. This is a process article about prompting, not a recommendation to buy or sell anything. The prompt scorer is a local heuristic that checks structure, not a guarantee of output quality.</p>
+
+  <p class="sources">Sources:
+    <a href="https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/" target="_blank" rel="noopener">Phoenix &amp; Taylor, <em>Prompt Engineering for Generative AI</em> (O&rsquo;Reilly)</a> ·
+    <a href="https://developers.openai.com/api/docs/guides/prompt-engineering" target="_blank" rel="noopener">OpenAI — Prompt engineering</a> ·
+    <a href="https://cloud.google.com/discover/what-is-prompt-engineering" target="_blank" rel="noopener">Google Cloud — Prompt Engineering Guide</a>
+  </p>
+
+  <div class="loopbox" style="margin-top:30px">
+    <div class="lbl">Related Santro tools</div>
+    <div class="loop-links">
+      <a href="/">Open the AI terminal</a>
+      <a href="/bubble">Check AI bubble risk</a>
+      <a href="/stocks">View AI stocks</a>
+      <a href="/etfs">AI ETFs</a>
+      <a href="/crypto">AI crypto</a>
+      <a href="/share">Create a share card</a>
+    </div>
+  </div>
+
+  <p style="margin-top:24px"><a href="/blog" style="font-weight:700;text-decoration:none">&larr; All posts</a></p>
+
+</article>
+
+<footer class="sa-foot">
+  <a href="/">Terminal</a> · <a href="/crypto">Crypto</a> · <a href="/bubble">Bubble risk</a> · <a href="/blog">Blog</a> · <a href="/about">About</a><br>
+  Santro AI — AI bubble map &amp; research journal for the AI narrative.<br>
+  © 2026 Santro AI. Not financial advice.
+</footer>
+
+<script>
+function flip(btn,txt){ const o=btn.textContent; btn.textContent=txt||"Copied ✓"; setTimeout(()=>btn.textContent=o,1600); }
+function copyStr(str,btn){
+  if(navigator.clipboard&&navigator.clipboard.writeText){
+    navigator.clipboard.writeText(str).then(()=>flip(btn)).catch(()=>fallbackCopy(str,btn));
+  } else fallbackCopy(str,btn);
+}
+function fallbackCopy(str,btn){
+  const ta=document.createElement("textarea"); ta.value=str; ta.style.position="fixed"; ta.style.opacity="0";
+  document.body.appendChild(ta); ta.select();
+  try{ document.execCommand("copy"); flip(btn); }catch(e){ flip(btn,"Copy failed"); }
+  document.body.removeChild(ta);
+}
+function copyEl(id,btn){ const el=document.getElementById(id); if(el) copyStr(el.textContent,btn); }
+
+/* ---- prompt scorer (local heuristic, nothing leaves the browser) ---- */
+function scorePrompt(p){
+  const t=(p||"").toLowerCase();
+  const has=(...res)=>res.some(r=>r.test(t));
+  const count=re=>(t.match(re)||[]).length;
+
+  const role=has(/\bact as\b/,/\byou are\b/,/\byour job\b/,/\brole\s*:/,/skeptical|analyst|trader|desk/);
+  const obj =has(/\bobjective\s*:/,/\bmap\b/,/\bidentif/,/\brank/,/\bgoal\b/,/analy[sz]e|analy[sz]ing/);
+  const direction=role&&obj?100:(role||obj?55:0);
+
+  const format=has(/\btable\b/,/\bcolumns?\b/,/output[_ ]format/,/\bjson\b/,/\bsections?\b/,/\bformat\s*:/)
+    ? (has(/\bcolumns?\b/,/output[_ ]format/,/\btable\b/)?100:60) : 0;
+
+  const examples=has(/example[_ ]row/,/\bexample\s*:/,/\bfor example\b/,/\be\.g\./,/\bsample\b/,/nvda\s*\|/)
+    ? (has(/example[_ ]row/,/nvda\s*\|/)?100:60) : 0;
+
+  const verif=has(/needs verification/,/\bobserved\b/,/\binferred\b/,/\bverify\b/,/\bcite\b/,/\bsource\b/,/claim[_ ]labels/);
+  const quality=verif ? (has(/needs verification/,/claim[_ ]labels/,/\bobserved\b/)?100:60) : 0;
+
+  const steps=count(/(^|\n)\s*\d+[\.\)]/g);
+  const labor=steps>=4?100:(steps>=2?65:(has(/\bscan\b/,/\bclassify\b/,/\bthen\b/,/\bstep\b/)?40:0));
+
+  const live=has(/live data|live feed|live-data/,/\bstale\b/,/do not invent|don'?t invent/,/needs verification/,/if no live|no live data|without.*live/,/\bdelayed\b/,/do not (pretend|fake)|don'?t (pretend|fake)/,/execution[_ ]assumption/);
+  const liveScore=live ? (has(/do not invent|needs verification|if no live|execution[_ ]assumption/)?100:55) : 0;
+
+  const ctx=has(/portfolio/,/time[_ ]horizon/,/risk[_ ]profile/,/\bholdings\b/,/\bpositions?\b/,/\bexposure\b/);
+
+  const asksLive=has(/\bcurrent\b/,/\btoday\b/,/\bthis week\b/,/\blast week\b/,/\bnow\b/,/\bprice\b/,/\bperformance\b/,/what moved|moved last/,/\bwhat should i (buy|sell)\b/,/give me a strategy/);
+  const lazy=has(/\bwhat should i buy\b/,/give me a strategy/,/analy[sz]e the whole|analy[sz]e everything/)&&!verif;
+  let risk="low";
+  if((asksLive&&!live)||lazy) risk="high";
+  else if(asksLive&&liveScore<100) risk="medium";
+
+  const dims=[
+    {key:"Direction / role",v:direction},
+    {key:"Output format",v:format},
+    {key:"Examples",v:examples},
+    {key:"Quality / verification",v:quality},
+    {key:"Divide labor",v:labor},
+    {key:"Live-data honesty",v:liveScore},
+  ];
+  let overall=Math.round(dims.reduce((a,d)=>a+d.v,0)/dims.length);
+  if(risk==="high") overall=Math.min(overall,45);
+
+  const missing=[];
+  if(direction<60) missing.push("a clear role and objective (who the model is, what decision frame you need)");
+  if(format<60) missing.push("an output format (a table with fixed columns)");
+  if(examples<60) missing.push("an example row showing the depth you expect");
+  if(quality<60) missing.push("verification labels — observed / inferred / [needs verification]");
+  if(labor<60) missing.push("divided labor — numbered steps: scan → classify → invalidate");
+  if(liveScore<60) missing.push("a live-data assumption so it can’t fake current prices");
+  if(!ctx) missing.push("context — portfolio, time horizon and risk profile");
+
+  return {dims,overall,risk,missing};
+}
+function heatColor(v){ return v>=70?"#22c55e":(v>=40?"#e0a73f":"#f05a6e"); }
+const RISK_STYLE={
+  low:{t:"Hallucination risk: low",bg:"rgba(34,197,94,.16)",c:"#22c55e"},
+  medium:{t:"Hallucination risk: medium",bg:"rgba(224,167,63,.16)",c:"#e0a73f"},
+  high:{t:"Hallucination risk: high",bg:"rgba(240,90,110,.16)",c:"#f05a6e"},
+};
+function buildImproved(userText){
+  const intent=(userText||"").trim().split(/\n/)[0].slice(0,180) || "map the current ai trade across stocks, etfs and crypto";
+  return `# improved by santro — your intent, wrapped in research discipline
+
+execution_assumption:
+  you do not have live market data unless a live feed, web tool, or dataset is attached.
+  if no live data is provided: fill every price/performance/move with [needs verification],
+  describe the method, and never invent prices, dates, percentages, holdings or volume.
+
+context:
+  portfolio_context = <asset types, size, current positions, strategy pillars>
+  time_horizon = <day / swing / position / long-term>
+  risk_profile = <risk-on / balanced / risk-averse>
+
+role:
+  act as a skeptical ai-narrative trader. separate signal from narrative heat.
+
+objective:
+  ${intent}
+
+method:
+  1. scan last week / last month / last year — if no live data, mark [needs verification].
+  2. give a driver only with evidence; otherwise say "no clear catalyst found."
+  3. label each move: single-name / sector-wide / macro / narrative / no-catalyst.
+  4. score crowding, ignored and narrative_risk from 1 to 5.
+
+output_format:
+  one table: ticker | asset_type | time_window | move_status | move_label | possible_driver |
+  fundamentals_check | crowding_score | ignored_score | narrative_risk | verification_needed | invalidation_trigger
+
+claim_labels:
+  [observed] = visible in supplied data · [inferred] = reasonable, unproven · [needs verification] = needs a live source
+
+rules:
+  - describe setups, not buy/sell orders.
+  - do not pretend stale data is live.
+  - hot means attention, not direction.`;
+}
+let lastImproved="";
+function runScore(){
+  const inp=document.getElementById("ptin").value;
+  const r=scorePrompt(inp);
+  document.getElementById("ptscore").textContent=r.overall;
+  document.getElementById("ptscore").style.color=heatColor(r.overall);
+  const rb=document.getElementById("ptrisk"), rs=RISK_STYLE[r.risk];
+  rb.textContent=rs.t; rb.style.background=rs.bg; rb.style.color=rs.c;
+  document.getElementById("ptheat").innerHTML=r.dims.map(d=>
+    `<div class="heat-row"><span class="hl">${d.key}</span>
+      <span class="ht"><span class="hf" style="width:${Math.max(3,d.v)}%;background:${heatColor(d.v)}"></span></span>
+      <span class="hv" style="color:${heatColor(d.v)}">${d.v}</span></div>`).join("");
+  const miss=document.getElementById("ptmiss");
+  if(r.missing.length){
+    miss.innerHTML=`<b>Missing:</b><ul>${r.missing.map(m=>`<li>${m}</li>`).join("")}</ul>`+
+      (r.risk==="high"?`<p style="margin:10px 0 0;color:#f05a6e"><b>Risk:</b> this prompt may produce fake current market analysis. Add a live-data assumption and verification labels.</p>`:"");
+    miss.style.display="block";
+  } else {
+    miss.innerHTML="<b>Solid.</b> This prompt gives direction, format, examples, verification, divided labor and live-data honesty. Research-ready.";
+    miss.style.display="block";
+  }
+  lastImproved=buildImproved(inp);
+  document.getElementById("ptout").style.display="block";
+}
+function copyImproved(btn){ if(!lastImproved) lastImproved=buildImproved(document.getElementById("ptin").value); copyStr(lastImproved,btn); }
+</script>
+
+</body>
+</html>

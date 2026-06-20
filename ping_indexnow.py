@@ -19,19 +19,22 @@ import requests
 
 KEY = "2a5af4f291c8f21486d4350a922590fc"
 HOST = "santroai.tech"
-URLS = [
-    "https://santroai.tech/",
-    "https://santroai.tech/stocks",
-    "https://santroai.tech/ipos",
-    "https://santroai.tech/crypto",
-    "https://santroai.tech/etfs",
-    "https://santroai.tech/news",
-    "https://santroai.tech/research",
-    "https://santroai.tech/bubble",
-    "https://santroai.tech/blog",
-    "https://santroai.tech/blog/ai-junk-bonds",
-    "https://santroai.tech/about",
-]
+
+
+def load_urls():
+    """Single source of truth: pull every <loc> from sitemap.xml so the IndexNow
+    list can never drift out of sync with the sitemap again."""
+    import re
+    try:
+        xml = open("sitemap.xml", encoding="utf-8").read()
+        urls = [u.strip() for u in re.findall(r"<loc>(.*?)</loc>", xml, re.S)]
+        return [u for u in urls if u]
+    except Exception as e:
+        print(f"could not read sitemap.xml ({e}); falling back to homepage only")
+        return ["https://santroai.tech/"]
+
+
+URLS = load_urls()
 
 
 def main():

@@ -387,7 +387,7 @@ rules:
 
   <div class="tool">
     <h3>Prompt scorer</h3>
-    <p class="sub">Paste a trading prompt &rarr; get a score, a heat map, what is missing, and a hardened version you can copy.</p>
+    <p class="sub">Paste a trading prompt &rarr; get a score, a heat map, and what is missing.</p>
     <textarea id="ptin" placeholder="Paste your trading prompt here… e.g. &quot;analyse the whole crypto market and my portfolio and give me a strategy.&quot;"></textarea>
     <button class="run" onclick="runScore()">Score my prompt</button>
     <div class="out" id="ptout">
@@ -398,7 +398,6 @@ rules:
       </div>
       <div class="heat" id="ptheat"></div>
       <div class="missing" id="ptmiss"></div>
-      <button class="copybtn" id="ptimprove" onclick="copyImproved(this)" style="font-size:13.5px;padding:9px 15px">⧉ Copy improved prompt</button>
     </div>
   </div>
 
@@ -520,45 +519,6 @@ const RISK_STYLE={
   medium:{t:"Hallucination risk: medium",bg:"rgba(224,167,63,.16)",c:"#e0a73f"},
   high:{t:"Hallucination risk: high",bg:"rgba(240,90,110,.16)",c:"#f05a6e"},
 };
-function buildImproved(userText){
-  const intent=(userText||"").trim().split(/\n/)[0].slice(0,180) || "map the current ai trade across stocks, etfs and crypto";
-  return `# improved by santro — your intent, wrapped in research discipline
-
-execution_assumption:
-  you do not have live market data unless a live feed, web tool, or dataset is attached.
-  if no live data is provided: fill every price/performance/move with [needs verification],
-  describe the method, and never invent prices, dates, percentages, holdings or volume.
-
-context:
-  portfolio_context = <asset types, size, current positions, strategy pillars>
-  time_horizon = <day / swing / position / long-term>
-  risk_profile = <risk-on / balanced / risk-averse>
-
-role:
-  act as a skeptical ai-narrative trader. separate signal from narrative heat.
-
-objective:
-  ${intent}
-
-method:
-  1. scan last week / last month / last year — if no live data, mark [needs verification].
-  2. give a driver only with evidence; otherwise say "no clear catalyst found."
-  3. label each move: single-name / sector-wide / macro / narrative / no-catalyst.
-  4. score crowding, ignored and narrative_risk from 1 to 5.
-
-output_format:
-  one table: ticker | asset_type | time_window | move_status | move_label | possible_driver |
-  fundamentals_check | crowding_score | ignored_score | narrative_risk | verification_needed | invalidation_trigger
-
-claim_labels:
-  [observed] = visible in supplied data · [inferred] = reasonable, unproven · [needs verification] = needs a live source
-
-rules:
-  - describe setups, not buy/sell orders.
-  - do not pretend stale data is live.
-  - hot means attention, not direction.`;
-}
-let lastImproved="";
 function runScore(){
   const inp=document.getElementById("ptin").value;
   const r=scorePrompt(inp);
@@ -579,10 +539,8 @@ function runScore(){
     miss.innerHTML="<b>Solid.</b> This prompt gives direction, format, examples, verification, divided labor and live-data honesty. Research-ready.";
     miss.style.display="block";
   }
-  lastImproved=buildImproved(inp);
   document.getElementById("ptout").style.display="block";
 }
-function copyImproved(btn){ if(!lastImproved) lastImproved=buildImproved(document.getElementById("ptin").value); copyStr(lastImproved,btn); }
 </script>
 
 </body>

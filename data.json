@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-20T21:38:00+00:00",
-  "as_of_local": "2026-06-20 21:38:00 UTC",
+  "as_of_utc": "2026-06-20T21:43:07+00:00",
+  "as_of_local": "2026-06-20 21:43:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -39,7 +39,26 @@
       "previous_close": 432.15,
       "change_pct": 6.94,
       "market_cap": 2396773345562.98,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Amkor Soared on a Taiwan Semi Deal. How to Play AMKR Stock Here.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amkor-soared-taiwan-semi-deal-133002805.html",
+          "publisher": "Barchart",
+          "published": "2026-06-20T13:30:02Z"
+        },
+        {
+          "title": "Cramer's Intel bet rests on one unproven number",
+          "url": "https://finance.yahoo.com/technology/ai/articles/cramers-intel-bet-rests-one-013700195.html",
+          "publisher": "TheStreet",
+          "published": "2026-06-20T01:37:00Z"
+        },
+        {
+          "title": "Analyst Warns Intel Valuation \u2018Doesn\u2019t Make Sense.\u2019 Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-warns-intel-valuation-doesn-173648448.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-06-19T17:36:48Z"
+        }
+      ]
     },
     {
       "symbol": "AVGO",
@@ -187,7 +206,7 @@
       "price": 310.58,
       "previous_close": 289.54,
       "change_pct": 7.27,
-      "market_cap": 271695372253.41797,
+      "market_cap": 271929292713.64456,
       "headlines": [
         {
           "title": "Why Does Donald Trump Like Marvell Technology (MRVL)?",
@@ -296,10 +315,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 140.89,
-      "previous_close": 133.53,
-      "change_pct": 5.51,
-      "market_cap": 5443663416.067429,
+      "price": 133.53,
+      "previous_close": 134.94,
+      "change_pct": -1.04,
+      "market_cap": 5443663439.65,
       "headlines": [
         {
           "title": "Will Synaptics' (SYNA) Edge AI UAV Collaboration Redefine Its Core IoT Investment Narrative?",
@@ -533,13 +552,13 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7500.58,
-      "change_pct": 1.08
+      "price": 7420.1,
+      "change_pct": -1.21
     },
     {
       "label": "BTC",
-      "price": 63877.62,
-      "change_pct": 0.53
+      "price": 63935.38,
+      "change_pct": 0.62
     },
     {
       "label": "Gold",
@@ -548,8 +567,8 @@
     },
     {
       "label": "Nasdaq100",
-      "price": 30406.19,
-      "change_pct": 2.48
+      "price": 29670.95,
+      "change_pct": -0.99
     }
   ]
 }

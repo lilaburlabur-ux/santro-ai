@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-20T01:31:27+00:00",
-  "as_of_local": "2026-06-20 01:31:27 UTC",
+  "as_of_utc": "2026-06-20T01:36:41+00:00",
+  "as_of_local": "2026-06-20 01:36:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5103122549133.301,
       "headlines": [
         {
+          "title": "3 Simple ETFs to Buy With $1,000 and Hold for a Lifetime",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-simple-etfs-buy-1-012000814.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-20T01:20:00Z"
+        },
+        {
           "title": "EEM\u2019s 0.69% Fee Quietly Costs You $690 a Year, but Your Cheaper Alternative Charges $90",
           "url": "https://finance.yahoo.com/markets/stocks/articles/eem-0-69-fee-quietly-004216886.html",
           "publisher": "24/7 Wall St.",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/prediction-oil-hit-60-barrel-003500983.html",
           "publisher": "Motley Fool",
           "published": "2026-06-20T00:35:00Z"
-        },
-        {
-          "title": "JNK\u2019s 0.40% Fee Quietly Costs You $6,000 Over 20 Years",
-          "url": "https://finance.yahoo.com/markets/options/articles/jnk-0-40-fee-quietly-003123794.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-06-20T00:31:23Z"
         }
       ]
     },
@@ -206,7 +206,7 @@
       "price": 310.58,
       "previous_close": 289.54,
       "change_pct": 7.27,
-      "market_cap": 271929292713.64456,
+      "market_cap": 271695372253.41797,
       "headlines": [
         {
           "title": "After Being Called the Next Trillion-Dollar AI Stock and Joining the S&P 500, Marvell's CFO Just Filed to Dump $65 Million of Stock. Here's Why.",
@@ -315,10 +315,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 133.53,
-      "previous_close": 134.94,
-      "change_pct": -1.04,
-      "market_cap": 5443663439.65,
+      "price": 140.89,
+      "previous_close": 133.53,
+      "change_pct": 5.51,
+      "market_cap": 5443663416.067429,
       "headlines": [
         {
           "title": "Will Synaptics' (SYNA) Edge AI UAV Collaboration Redefine Its Core IoT Investment Narrative?",
@@ -552,13 +552,13 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7420.1,
-      "change_pct": -1.21
+      "price": 7500.58,
+      "change_pct": 1.08
     },
     {
       "label": "BTC",
-      "price": 63466.51,
-      "change_pct": -1.48
+      "price": 63518.69,
+      "change_pct": 0.99
     },
     {
       "label": "Gold",

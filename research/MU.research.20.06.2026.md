@@ -36,15 +36,15 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| Dow Jones Futures Fall; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This | Investor's Business Daily | 2026-06-20 |
+| Why the Memory Crunch Is Almost Impossible to Solve | The Wall Street Journal | 2026-06-19 |
 | The Memory Boom Has Been a Gift to Micron. For Apple, It's Becoming a Problem. Or Is It? | Motley Fool | 2026-06-19 |
-| Dow Jones Futures Fall; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This | Investor's Business Daily | 2026-06-19 |
 | Micron Gets the Headlines, But Sandisk Could Offer More Upside | Zacks | 2026-06-19 |
-| Everything Could Change for Micron Stock on June 24 | Motley Fool | 2026-06-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $1,133.99; 52w high $1,133.99 (+0.00%); 52w low $104.73 (+982.79%) |
+| Price vs 52-week range | Close $1,133.99; 52w high $1,133.99 (+0.00%); 52w low $104.73 (+982.80%) |
 | Trend | +183.06% vs SMA200, +54.75% vs SMA50, +17.44% vs SMA20 |
 | Momentum | RSI(14) 66.4 (neutral) |
 | Volatility | ATR(14) 79.82 (~7.0% of price); beta 2.17 |
@@ -122,7 +122,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | 52W low | $104.73 | Inst. ownership | 81.60% |
 | P/E (ttm) | 53.41 | Insider ownership | 0.25% |
 | Forward P/E | 9.90 | Short float | 3.34% |
-| PEG (trailing) | 0.36 | Avg volume | 50,899,615 |
+| PEG (trailing) | 0.36 | Avg volume | 50,692,645 |
 | P/S | 22.00 | Employees | 53,000 |
 | P/B | 17.65 | Analyst rec (1=buy..5=sell) | 1.5 |
 

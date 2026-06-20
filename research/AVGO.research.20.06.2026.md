@@ -122,7 +122,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | 52W low | $248.56 | Inst. ownership | 79.91% |
 | P/E (ttm) | 68.22 | Insider ownership | 1.94% |
 | Forward P/E | 21.26 | Short float | 1.25% |
-| PEG (trailing) | 0.75 | Avg volume | 25,970,555 |
+| PEG (trailing) | 0.75 | Avg volume | 25,691,456 |
 | P/S | 25.93 | Employees | 33,000 |
 | P/B | 22.32 | Analyst rec (1=buy..5=sell) | 1.3 |
 

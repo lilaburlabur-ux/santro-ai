@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
+| Cramer's Intel bet rests on one unproven number | TheStreet | 2026-06-20 |
+| Ray Dalio Says US Is 'On The Brink' As Debt And Political Risks Mount | Benzinga | 2026-06-19 |
 | Better Buy: AMD vs. Intel After Intel's Monster Run | Motley Fool | 2026-06-19 |
 | Analyst Warns Intel Valuation ‘Doesn’t Make Sense.’ Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives. | 24/7 Wall St. | 2026-06-19 |
-| Intel Adds Foundry Muscle | GuruFocus.com | 2026-06-19 |
-| Beyond Trump Hype: Does Intel (INTC) Have Long-Term Growth Catalysts? | Insider Monkey | 2026-06-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -124,7 +124,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | 52W low | $19.31 | Inst. ownership | 64.05% |
 | P/E (ttm) | — | Insider ownership | 14.72% |
 | Forward P/E | 86.70 | Short float | 2.69% |
-| PEG (trailing) | — | Avg volume | 133,409,125 |
+| PEG (trailing) | — | Avg volume | 132,945,327 |
 | P/S | 12.53 | Employees | 85,100 |
 | P/B | 6.04 | Analyst rec (1=buy..5=sell) | 2.6 |
 

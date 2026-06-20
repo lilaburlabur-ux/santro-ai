@@ -122,7 +122,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | 52W low | $182.42 | Inst. ownership | 100.73% |
 | P/E (ttm) | 29.98 | Insider ownership | 0.12% |
 | Forward P/E | 17.77 | Short float | 3.66% |
-| PEG (trailing) | 0.80 | Avg volume | 3,768,411 |
+| PEG (trailing) | 0.80 | Avg volume | 3,761,277 |
 | P/S | 6.27 | Employees | 32,169 |
 | P/B | 7.24 | Analyst rec (1=buy..5=sell) | 1.7 |
 

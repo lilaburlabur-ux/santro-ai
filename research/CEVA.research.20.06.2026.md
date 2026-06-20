@@ -124,7 +124,7 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 | 52W low | $17.21 | Inst. ownership | 92.33% |
 | P/E (ttm) | — | Insider ownership | 3.11% |
 | Forward P/E | 60.65 | Short float | 4.72% |
-| PEG (trailing) | 4.87 | Avg volume | 794,449 |
+| PEG (trailing) | 4.87 | Avg volume | 787,590 |
 | P/S | 12.33 | Employees | 400 |
 | P/B | 4.10 | Analyst rec (1=buy..5=sell) | 1.3 |
 

@@ -124,7 +124,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | 52W low | $48.73 | Inst. ownership | 108.62% |
 | P/E (ttm) | 1,098.00 | Insider ownership | 0.63% |
 | Forward P/E | 66.51 | Short float | 8.99% |
-| PEG (trailing) | — | Avg volume | 2,100,744 |
+| PEG (trailing) | — | Avg volume | 2,081,941 |
 | P/S | 36.69 | Employees | 1,174 |
 | P/B | 28.42 | Analyst rec (1=buy..5=sell) | — |
 

@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Is Netflix Better Off Without Roku or Warner Bros., or Are Cracks Forming Beneath the Surface? | Motley Fool | 2026-06-19 |
-| Better Buy: AMD vs. Intel After Intel's Monster Run | Motley Fool | 2026-06-19 |
-| Should You Add Ethereum to Your Portfolio Right Now? | Motley Fool | 2026-06-19 |
-| Weekly Wrap: Bitcoin Slumps As Fed Turns Hawkish On Interest Rates | CryptoProwl | 2026-06-19 |
+| Is It Too Late to Buy SpaceX? | Motley Fool | 2026-06-20 |
+| 2 Magnificent Artificial Intelligence (AI) Stocks to Buy and Hold for the Next 20 Years | Motley Fool | 2026-06-20 |
+| Mark Your Calendar: SpaceX Could Be a Very Different Stock by Halloween | Motley Fool | 2026-06-20 |
+| 3 Reasons to Buy Eli Lilly Stock | Motley Fool | 2026-06-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -121,7 +121,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | 52W low | $143.66 | Inst. ownership | 70.88% |
 | P/E (ttm) | 32.26 | Insider ownership | 3.98% |
 | Forward P/E | 16.55 | Short float | 1.22% |
-| PEG (trailing) | 0.65 | Avg volume | 164,054,030 |
+| PEG (trailing) | 0.65 | Avg volume | 162,813,875 |
 | P/S | 20.13 | Employees | 42,000 |
 | P/B | 26.11 | Analyst rec (1=buy..5=sell) | 1.3 |
 

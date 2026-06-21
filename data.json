@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-21T18:40:33+00:00",
-  "as_of_local": "2026-06-21 18:40:33 UTC",
+  "as_of_utc": "2026-06-21T18:55:39+00:00",
+  "as_of_local": "2026-06-21 18:55:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -11,7 +11,26 @@
       "previous_close": 204.65,
       "change_pct": 2.95,
       "market_cap": 5103122549133.301,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "While Oil Prices Have Fallen From Their Peak, Here's Why They Could Rise Again in the Future.",
+          "url": "https://finance.yahoo.com/energy/articles/while-oil-prices-fallen-peak-183500385.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-21T18:35:00Z"
+        },
+        {
+          "title": "1 Reason Why the Fed's Decision to Keep Interest Rates Steady Is No Match for Costco Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-reason-why-feds-decision-182000215.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-21T18:20:00Z"
+        },
+        {
+          "title": "SpaceX Just Had the Biggest IPO in History. Here's What It Tells Investors About Buying Anthropic and OpenAI When They Go Public.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-just-had-biggest-ipo-180400880.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-21T18:04:00Z"
+        }
+      ]
     },
     {
       "symbol": "TSM",
@@ -538,8 +557,8 @@
     },
     {
       "label": "BTC",
-      "price": 64138.0,
-      "change_pct": -0.16
+      "price": 64100.0,
+      "change_pct": -0.22
     },
     {
       "label": "Gold",

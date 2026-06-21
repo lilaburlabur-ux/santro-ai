@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-21T18:20:23+00:00",
-  "as_of_local": "2026-06-21 18:20:23 UTC",
+  "as_of_utc": "2026-06-21T18:35:35+00:00",
+  "as_of_local": "2026-06-21 18:35:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5103122549133.301,
       "headlines": [
         {
+          "title": "1 Reason Why the Fed's Decision to Keep Interest Rates Steady Is No Match for Costco Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-reason-why-feds-decision-182000215.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-21T18:20:00Z"
+        },
+        {
           "title": "SpaceX Just Had the Biggest IPO in History. Here's What It Tells Investors About Buying Anthropic and OpenAI When They Go Public.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-just-had-biggest-ipo-180400880.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-hit-500-175845527.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-06-21T17:58:45Z"
-        },
-        {
-          "title": "Jim Cramer Highlights Goldman Sachs (GS) as Investment Banking Activity Explodes",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-goldman-sachs-134003398.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-21T17:40:03Z"
         }
       ]
     },
@@ -206,7 +206,7 @@
       "price": 310.58,
       "previous_close": 289.54,
       "change_pct": 7.27,
-      "market_cap": 271695372253.41797,
+      "market_cap": 271929292713.64456,
       "headlines": [
         {
           "title": "The Next $1 Trillion AI Winner May Already Be Hiding Inside Nvidia's Supply Chain",
@@ -373,8 +373,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": null,
-      "change_pct": 0.0,
+      "price": 76.71,
+      "change_pct": 9.66,
       "holdings": [
         {
           "symbol": "MU",
@@ -463,8 +463,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": null,
-    "change_pct": 0.0,
+    "price": 76.71,
+    "change_pct": 9.66,
     "holdings": [
       {
         "symbol": "MU",
@@ -557,8 +557,8 @@
     },
     {
       "label": "BTC",
-      "price": 63928.59,
-      "change_pct": -0.48
+      "price": 64073.0,
+      "change_pct": -0.26
     },
     {
       "label": "Gold",

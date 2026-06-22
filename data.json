@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-06-22T05:30:12+00:00",
-  "as_of_local": "2026-06-22 05:30:12 UTC",
+  "as_of_utc": "2026-06-22T05:35:26+00:00",
+  "as_of_local": "2026-06-22 05:35:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": 2.95,
       "market_cap": 5103122549133.301,
       "headlines": [
+        {
+          "title": "Is First Solar Dirt Cheap Amid the AI Boom?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-dirt-cheap-amid-052000030.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-22T05:20:00Z"
+        },
         {
           "title": "Stock Stories, Vol. 12: Time Travel Investing",
           "url": "https://finance.yahoo.com/markets/stocks/articles/stock-stories-vol-12-time-050433162.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-memory-stocks-buck-045531910.html",
           "publisher": "Stocktwits",
           "published": "2026-06-22T04:55:31Z"
-        },
-        {
-          "title": "Following SpaceX's $2 Trillion IPO, Will Dogecoin Be the Next Elon Musk-Linked Investment to Go Parabolic?",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/following-spacexs-2-trillion-ipo-045000232.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-22T04:50:00Z"
         }
       ]
     },
@@ -57,34 +59,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/intel-advances-next-generation-18a-153002381.html",
           "publisher": "Barchart",
           "published": "2026-06-21T15:30:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 411.35,
-      "previous_close": 392.9,
-      "change_pct": 4.7,
-      "market_cap": 1957030643485.2651,
-      "headlines": [
-        {
-          "title": "Could Broadcom Be the Best Way to Invest in Artificial Intelligence Right Now?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/could-broadcom-best-way-invest-032000422.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-22T03:20:00Z"
-        },
-        {
-          "title": "The AI Arms Race Isn\u2019t About Technology \u2013 It\u2019s About Electricity",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-arms-race-isn-t-000000017.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-06-22T00:00:00Z"
-        },
-        {
-          "title": "Micron Must Do This on June 24, or Its Stock Could Crash",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-must-june-24-stock-154531132.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-06-21T15:45:31Z"
         }
       ]
     },
@@ -206,7 +180,7 @@
       "price": 310.58,
       "previous_close": 289.54,
       "change_pct": 7.27,
-      "market_cap": 271695372253.41797,
+      "market_cap": 271929292713.64456,
       "headlines": [
         {
           "title": "MRVL, INTC, MU Stocks Hit 52-Week Highs Last Week: What Fueled The Surge?",
@@ -390,8 +364,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 4.16,
-          "price": 2879000.0,
+          "change_pct": 4.49,
+          "price": 2888000.0,
           "currency": "KRW"
         },
         {
@@ -399,8 +373,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -1.06,
-          "price": 350250.0,
+          "change_pct": -0.56,
+          "price": 352000.0,
           "currency": "KRW"
         },
         {
@@ -453,8 +427,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 2.52,
-          "price": 224.0,
+          "change_pct": 1.14,
+          "price": 221.0,
           "currency": "TWD"
         }
       ]
@@ -480,8 +454,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 4.16,
-        "price": 2879000.0,
+        "change_pct": 4.49,
+        "price": 2888000.0,
         "currency": "KRW"
       },
       {
@@ -489,8 +463,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -1.06,
-        "price": 350250.0,
+        "change_pct": -0.56,
+        "price": 352000.0,
         "currency": "KRW"
       },
       {
@@ -543,8 +517,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 2.52,
-        "price": 224.0,
+        "change_pct": 1.14,
+        "price": 221.0,
         "currency": "TWD"
       }
     ]
@@ -557,13 +531,13 @@
     },
     {
       "label": "BTC",
-      "price": 64161.39,
-      "change_pct": -0.12
+      "price": 64147.0,
+      "change_pct": -0.14
     },
     {
       "label": "Gold",
-      "price": 4203.8,
-      "change_pct": -0.48
+      "price": 4206.2,
+      "change_pct": -0.42
     },
     {
       "label": "Nasdaq100",

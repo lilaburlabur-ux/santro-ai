@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-22T13:27:08+00:00",
+  "as_of": "2026-06-22T13:42:15+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,19 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "MRVL",
-   "company": "Marvell Technology Inc",
-   "move_pct": 1.56,
-   "price": 315.43,
-   "volume": 250989400,
-   "volume_vs_avg": "~5x",
-   "heat_score": 47,
-   "direction": "up",
-   "why": "Here\u2019s What the Street is Saying About Marvell Technology (MRVL)",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/street-saying-marvell-technology-mrvl-121031349.html",
-   "published": "2026-06-22T12:10:31Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 2,
-   "ticker": "MU",
-   "company": "Micron Technology Inc",
-   "move_pct": 5.79,
-   "price": 1199.69,
-   "volume": 64642500,
-   "volume_vs_avg": "~1.2x",
+   "ticker": "SPCX",
+   "company": "SpaceX",
+   "move_pct": -7.44,
+   "price": 171.24,
+   "volume": 18358589,
+   "volume_vs_avg": "~0.1x",
    "heat_score": 41,
-   "direction": "up",
-   "why": "Buying Micron Technology Stock Before June 24 Just Became a No-Brainer. Here's Why",
+   "direction": "down",
+   "why": "SpaceX\u2019s Market Debut Ignites Investor Enthusiasm in First Week of Trading",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/buying-micron-technology-stock-june-125900752.html",
-   "published": "2026-06-22T12:59:00Z",
-   "sector": "AI Chips & Compute"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/spacex-market-debut-ignites-investor-130352172.html",
+   "published": "2026-06-22T13:03:52Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-22T01:03:15+00:00",
-  "as_of_local": "2026-06-22 01:03:15 UTC",
+  "as_of_utc": "2026-06-22T01:18:19+00:00",
+  "as_of_local": "2026-06-22 01:18:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5103122549133.301,
       "headlines": [
         {
+          "title": "It\u2019s SpaceX IPO Day!",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-day-010606516.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-22T01:06:06Z"
+        },
+        {
           "title": "The AI Arms Race Isn\u2019t About Technology \u2013 It\u2019s About Electricity",
           "url": "https://finance.yahoo.com/technology/ai/articles/ai-arms-race-isn-t-000000017.html",
           "publisher": "Oilprice.com",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/cant-buy-anthropic-stock-yet-232000485.html",
           "publisher": "Motley Fool",
           "published": "2026-06-21T23:20:00Z"
-        },
-        {
-          "title": "CoreWeave is Joining the Nasdaq-100. Is the Stock a Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-joining-nasdaq-100-stock-223000133.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-21T22:30:00Z"
         }
       ]
     },
@@ -390,8 +390,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 3.4,
-          "price": 2858000.0,
+          "change_pct": 4.09,
+          "price": 2877000.0,
           "currency": "KRW"
         },
         {
@@ -399,8 +399,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.14,
-          "price": 353500.0,
+          "change_pct": 0.78,
+          "price": 356750.0,
           "currency": "KRW"
         },
         {
@@ -408,8 +408,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 0.64,
-          "price": 109300.0,
+          "change_pct": 2.12,
+          "price": 110900.0,
           "currency": "JPY"
         },
         {
@@ -480,8 +480,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 3.4,
-        "price": 2858000.0,
+        "change_pct": 4.09,
+        "price": 2877000.0,
         "currency": "KRW"
       },
       {
@@ -489,8 +489,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.14,
-        "price": 353500.0,
+        "change_pct": 0.78,
+        "price": 356750.0,
         "currency": "KRW"
       },
       {
@@ -498,8 +498,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 0.64,
-        "price": 109300.0,
+        "change_pct": 2.12,
+        "price": 110900.0,
         "currency": "JPY"
       },
       {
@@ -557,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 63932.59,
-      "change_pct": -0.48
+      "price": 63993.97,
+      "change_pct": -0.38
     },
     {
       "label": "Gold",
-      "price": 4203.6,
-      "change_pct": -0.49
+      "price": 4231.8,
+      "change_pct": 0.18
     },
     {
       "label": "Nasdaq100",

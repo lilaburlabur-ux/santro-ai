@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-22T05:00:04+00:00",
-  "as_of_local": "2026-06-22 05:00:04 UTC",
+  "as_of_utc": "2026-06-22T05:15:14+00:00",
+  "as_of_local": "2026-06-22 05:15:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,22 +13,22 @@
       "market_cap": 5103122549133.301,
       "headlines": [
         {
+          "title": "Stock Stories, Vol. 12: Time Travel Investing",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-stories-vol-12-time-050433162.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-22T05:04:33Z"
+        },
+        {
+          "title": "MU, SNDK, Memory Stocks Buck Market Selloff After Fresh Trump Threats To Iran: Retail Traders Say 'Never Sell, Buy Dips\u2019",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-memory-stocks-buck-045531910.html",
+          "publisher": "Stocktwits",
+          "published": "2026-06-22T04:55:31Z"
+        },
+        {
           "title": "Following SpaceX's $2 Trillion IPO, Will Dogecoin Be the Next Elon Musk-Linked Investment to Go Parabolic?",
           "url": "https://finance.yahoo.com/markets/crypto/articles/following-spacexs-2-trillion-ipo-045000232.html",
           "publisher": "Motley Fool",
           "published": "2026-06-22T04:50:00Z"
-        },
-        {
-          "title": "SK Hynix overtakes Samsung to become Korea's most valuable company",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-overtakes-samsung-become-043834467.html",
-          "publisher": "Reuters",
-          "published": "2026-06-22T04:38:34Z"
-        },
-        {
-          "title": "Digging into the Bottlenecks of the AI Build-Out",
-          "url": "https://finance.yahoo.com/technology/ai/articles/digging-bottlenecks-ai-build-042222059.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-22T04:22:22Z"
         }
       ]
     },
@@ -103,16 +103,16 @@
           "published": "2026-06-21T20:00:00Z"
         },
         {
+          "title": "MU, SNDK, Memory Stocks Buck Market Selloff After Fresh Trump Threats To Iran: Retail Traders Say 'Never Sell, Buy Dips\u2019",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-memory-stocks-buck-045531910.html",
+          "publisher": "Stocktwits",
+          "published": "2026-06-22T04:55:31Z"
+        },
+        {
           "title": "SK Hynix overtakes Samsung to become Korea's most valuable company",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-overtakes-samsung-become-043834467.html",
           "publisher": "Reuters",
           "published": "2026-06-22T04:38:34Z"
-        },
-        {
-          "title": "SK Hynix dethrones Samsung Electronics as South Korea's most valuable company",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-dethrones-samsung-electronics-040835000.html",
-          "publisher": "Reuters",
-          "published": "2026-06-22T04:08:35Z"
         }
       ]
     },
@@ -390,8 +390,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 3.73,
-          "price": 2867000.0,
+          "change_pct": 4.05,
+          "price": 2876000.0,
           "currency": "KRW"
         },
         {
@@ -399,8 +399,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -1.55,
-          "price": 348500.0,
+          "change_pct": -1.34,
+          "price": 349250.0,
           "currency": "KRW"
         },
         {
@@ -408,8 +408,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 0.97,
-          "price": 109650.0,
+          "change_pct": 1.1,
+          "price": 109800.0,
           "currency": "JPY"
         },
         {
@@ -453,8 +453,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 3.66,
-          "price": 226.5,
+          "change_pct": 2.97,
+          "price": 225.0,
           "currency": "TWD"
         }
       ]
@@ -480,8 +480,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 3.73,
-        "price": 2867000.0,
+        "change_pct": 4.05,
+        "price": 2876000.0,
         "currency": "KRW"
       },
       {
@@ -489,8 +489,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -1.55,
-        "price": 348500.0,
+        "change_pct": -1.34,
+        "price": 349250.0,
         "currency": "KRW"
       },
       {
@@ -498,8 +498,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 0.97,
-        "price": 109650.0,
+        "change_pct": 1.1,
+        "price": 109800.0,
         "currency": "JPY"
       },
       {
@@ -543,8 +543,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 3.66,
-        "price": 226.5,
+        "change_pct": 2.97,
+        "price": 225.0,
         "currency": "TWD"
       }
     ]
@@ -557,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 64012.15,
-      "change_pct": -0.35
+      "price": 64200.08,
+      "change_pct": -0.06
     },
     {
       "label": "Gold",
-      "price": 4196.5,
-      "change_pct": -0.65
+      "price": 4199.3,
+      "change_pct": -0.59
     },
     {
       "label": "Nasdaq100",

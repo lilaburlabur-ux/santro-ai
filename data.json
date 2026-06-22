@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-22T05:50:28+00:00",
-  "as_of_local": "2026-06-22 05:50:28 UTC",
+  "as_of_utc": "2026-06-22T06:05:40+00:00",
+  "as_of_local": "2026-06-22 06:05:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5103122549133.301,
       "headlines": [
         {
+          "title": "Can Comfort Systems USA Reach $2,500 per Share?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/comfort-systems-usa-reach-2-055000501.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-22T05:50:00Z"
+        },
+        {
           "title": "Is First Solar Dirt Cheap Amid the AI Boom?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-dirt-cheap-amid-052000030.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/stock-stories-vol-12-time-050433162.html",
           "publisher": "Motley Fool",
           "published": "2026-06-22T05:04:33Z"
-        },
-        {
-          "title": "MU, SNDK, Memory Stocks Buck Market Selloff After Fresh Trump Threats To Iran: Retail Traders Say 'Never Sell, Buy Dips\u2019",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-memory-stocks-buck-045531910.html",
-          "publisher": "Stocktwits",
-          "published": "2026-06-22T04:55:31Z"
         }
       ]
     },
@@ -109,7 +109,7 @@
           "published": "2026-06-22T04:55:31Z"
         },
         {
-          "title": "SK Hynix overtakes Samsung to become Korea's most valuable company",
+          "title": "SK Hynix overtakes Samsung to become South Korea's most valuable company",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-overtakes-samsung-to-become-koreas-most-valuable-company-043834467.html",
           "publisher": "Reuters",
           "published": "2026-06-22T04:38:34Z"
@@ -390,8 +390,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 4.49,
-          "price": 2888000.0,
+          "change_pct": 4.78,
+          "price": 2896000.0,
           "currency": "KRW"
         },
         {
@@ -399,8 +399,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.14,
-          "price": 353500.0,
+          "change_pct": 0.0,
+          "price": 354000.0,
           "currency": "KRW"
         },
         {
@@ -408,8 +408,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 1.7,
-          "price": 110450.0,
+          "change_pct": 0.83,
+          "price": 109500.0,
           "currency": "JPY"
         },
         {
@@ -480,8 +480,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 4.49,
-        "price": 2888000.0,
+        "change_pct": 4.78,
+        "price": 2896000.0,
         "currency": "KRW"
       },
       {
@@ -489,8 +489,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.14,
-        "price": 353500.0,
+        "change_pct": 0.0,
+        "price": 354000.0,
         "currency": "KRW"
       },
       {
@@ -498,8 +498,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 1.7,
-        "price": 110450.0,
+        "change_pct": 0.83,
+        "price": 109500.0,
         "currency": "JPY"
       },
       {
@@ -557,8 +557,8 @@
     },
     {
       "label": "BTC",
-      "price": 64115.09,
-      "change_pct": -0.19
+      "price": 64095.39,
+      "change_pct": -0.22
     },
     {
       "label": "Gold",

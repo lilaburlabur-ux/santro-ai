@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-06-22T09:38:12+00:00",
-  "as_of_local": "2026-06-22 09:38:12 UTC",
+  "as_of_utc": "2026-06-22T09:43:12+00:00",
+  "as_of_local": "2026-06-22 09:43:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/openai-anthropic-could-both-public-092000557.html",
           "publisher": "Motley Fool",
           "published": "2026-06-22T09:20:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 462.12,
-      "previous_close": 432.15,
-      "change_pct": 6.94,
-      "market_cap": 2396773345562.98,
-      "headlines": [
-        {
-          "title": "Soaring Profits in Emerging Markets Build\u00a0Case for a Raging Bull Market",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/soaring-profits-emerging-markets-build-082916903.html",
-          "publisher": "Bloomberg",
-          "published": "2026-06-22T08:29:16Z"
-        },
-        {
-          "title": "Why TSMC Doesn\u2019t Even Need to Win the AI Race",
-          "url": "https://finance.yahoo.com/technology/ai/articles/why-tsmc-doesn-t-even-193653042.html",
-          "publisher": "Barchart",
-          "published": "2026-06-21T19:36:53Z"
-        },
-        {
-          "title": "Intel Is Stealing the Foundry Spotlight. Is TSMC Still the Most Important Company in Chips?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stealing-foundry-spotlight-tsmc-184100660.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-21T18:41:00Z"
         }
       ]
     },
@@ -103,16 +77,16 @@
           "published": "2026-06-21T20:00:00Z"
         },
         {
+          "title": "US Equity Investors to Watch Out for Micron Technology's Earnings, PCE Inflation, Iran Peace Talks This Week",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-investors-watch-micron-093712823.html",
+          "publisher": "MT Newswires",
+          "published": "2026-06-22T09:37:12Z"
+        },
+        {
           "title": "Prediction: Micron Stock Will Skyrocket After June 24",
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-micron-stock-skyrocket-june-090400689.html",
           "publisher": "Motley Fool",
           "published": "2026-06-22T09:04:00Z"
-        },
-        {
-          "title": "DRAM ETF Climbs 3% Premarket: Ahead Of Potential US IPO, SK Hynix Beats Samsung As South Korea\u2019s Most Valuable Company",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dram-etf-climbs-3-premarket-090027752.html",
-          "publisher": "Stocktwits",
-          "published": "2026-06-22T09:00:27Z"
         }
       ]
     },
@@ -206,7 +180,7 @@
       "price": 310.58,
       "previous_close": 289.54,
       "change_pct": 7.27,
-      "market_cap": 271929292713.64456,
+      "market_cap": 271695372253.41797,
       "headlines": [
         {
           "title": "GOOGL Stock Dips Premarket After Breakout Week: Analyst Says Google Developing Next-Gen AI Chip With MediaTek",
@@ -557,13 +531,13 @@
     },
     {
       "label": "BTC",
-      "price": 64028.8,
-      "change_pct": 1.25
+      "price": 64031.99,
+      "change_pct": 1.26
     },
     {
       "label": "Gold",
-      "price": 4220.8,
-      "change_pct": -0.08
+      "price": 4223.6,
+      "change_pct": -0.01
     },
     {
       "label": "Nasdaq100",

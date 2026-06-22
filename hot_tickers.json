@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-20T10:20:18+00:00",
+  "as_of": "2026-06-22T00:12:33+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,22 +9,38 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "MU",
+   "company": "Micron Technology Inc",
+   "move_pct": 8.7,
+   "price": 1133.99,
+   "volume": 64642500,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 61,
+   "direction": "up",
+   "why": "The Entire Micron Investment Thesis Comes Down to This One Number",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/entire-micron-investment-thesis-comes-202000549.html",
+   "published": "2026-06-21T20:20:00Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
    "move_pct": 7.27,
    "price": 310.58,
    "volume": 250989400,
    "volume_vs_avg": "~5x",
-   "heat_score": 66,
+   "heat_score": 51,
    "direction": "up",
-   "why": "Is Marvell Technology Going to $1 Trillion?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-going-1-trillion-093500702.html",
-   "published": "2026-06-20T09:35:00Z",
+   "why": "Moving up 7.3% on ~5x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 2,
+   "rank": 3,
    "ticker": "TER",
    "company": "Teradyne Inc",
    "move_pct": 7.19,

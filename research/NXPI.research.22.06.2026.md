@@ -36,10 +36,10 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
-| Stocks Supported by Strength in Chipmakers and AI-Infrastructure Stocks | Barchart | 2026-06-22 |
 | NXP Semiconductors N.V. (NXPI) Reports Quarterly Dividend | Insider Monkey | 2026-06-21 |
 | NXP Semiconductors (NXPI) Stock Weighs DCF Caution Against P/E Support After Strong Run | Simply Wall St. | 2026-06-20 |
 | NXP Semiconductors (NXPI) Draws Fresh Fund Interest As Buybacks Return | Simply Wall St. | 2026-06-20 |
+| 3 Semiconductor Stocks We Find Risky | StockStory | 2026-06-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

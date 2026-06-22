@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| The Market Is Panicking on Broadcom. This Is Why I Keep Buying The Stock | 24/7 Wall St. | 2026-06-22 |
+| The Real Price Of Admission For Broadcom Stock | Trefis | 2026-06-22 |
 | Micron, Anthropic sign AI infrastructure supply agreement | Reuters | 2026-06-22 |
 | The Billionaire Who Called the 2008 Bubble Just Dumped Google to Buy These 5 AI Hardware Stocks | 24/7 Wall St. | 2026-06-22 |
-| JPMorgan Says Be an ‘Aggressive Buyer’ of This Beaten-Down AI Stock | 24/7 Wall St. | 2026-06-22 |
-| Forget Nvidia: Four Billionaires Who Rarely Agree on Anything Hold the Same Overlooked Chip Stock | 24/7 Wall St. | 2026-06-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

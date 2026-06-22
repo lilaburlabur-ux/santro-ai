@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| The Real Price Of Admission For Broadcom Stock | Trefis | 2026-06-22 |
+| Intel Has a Warning for AMD Stock Investors | Motley Fool | 2026-06-22 |
 | Nvidia Stock Is Falling on a Good Day for Intel and Other Chip Stocks | Barrons.com | 2026-06-22 |
 | Should You Buy, Hold, or Sell Micron Stock Ahead of Q3 Earnings? | Zacks | 2026-06-22 |
-| Forget Nvidia: Four Billionaires Who Rarely Agree on Anything Hold the Same Overlooked Chip Stock | 24/7 Wall St. | 2026-06-22 |
-| David Tepper Trimmed Nvidia and AMD, but Doubled Down on This AI Stock | 24/7 Wall St. | 2026-06-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

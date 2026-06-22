@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| The Real Price Of Admission For Broadcom Stock | Trefis | 2026-06-22 |
+| Marvell Technology vs. Semtech: Which Technology Stock Is a Better Buy in 2026? | Motley Fool | 2026-06-22 |
 | Marvell Technology Has Soared 247% in 2026. Here's How Much Upside It Can Deliver Over the Next 3 Years | Motley Fool | 2026-06-22 |
 | Had You Invested $1,000 in Marvell or Micron a Decade Ago, Here’s What You’d Have Now | 24/7 Wall St. | 2026-06-22 |
-| Stock Market News for Jun 22, 2026 | Zacks | 2026-06-22 |
-| AI Boom and HBM Demand to Boost Micron's DRAM Revenues in Q3 | Zacks | 2026-06-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

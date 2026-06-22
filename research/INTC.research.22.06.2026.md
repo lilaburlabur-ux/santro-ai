@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Tech stocks live: Tech stocks mixed ahead of Micron earnings Wednesday | Yahoo Finance | 2026-06-22 |
+| Intel Has a Warning for AMD Stock Investors | Motley Fool | 2026-06-22 |
 | Intel’s Surge on an Apple Chip Deal Means Investors Are Betting on Its Foundry, Says Bernstein’s Stacy Rasgon | 24/7 Wall St. | 2026-06-22 |
 | As Anthropic Nears $1 Trillion Valuation, Tech Veterans Warn Against Repeating Intel’s Biggest Mistake | 24/7 Wall St. | 2026-06-22 |
-| Nvidia Stock Is Falling on a Good Day for Intel and Other Chip Stocks | Barrons.com | 2026-06-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

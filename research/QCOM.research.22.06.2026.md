@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| The Real Price Of Admission For Broadcom Stock | Trefis | 2026-06-22 |
 | The Best-Performing Dividend ETFs Have a Big AI Bet | Barrons.com | 2026-06-22 |
 | A New Bill Would Ban Lawmakers From Betting on Politics and Elections in Prediction Markets | 24/7 Wall St. | 2026-06-22 |
 | Intel vs Qualcomm: Which AI Stock Is The Better Buy | 24/7 Wall St. | 2026-06-22 |
-| Can Qualcomm's QCT Segment Sustain Growth Amid Handset Weakness? | Zacks | 2026-06-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

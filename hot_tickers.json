@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-22T12:00:29+00:00",
+  "as_of": "2026-06-22T12:15:35+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "MRVL",
+   "company": "Marvell Technology Inc",
+   "move_pct": 0.41,
+   "price": 311.84,
+   "volume": 250989400,
+   "volume_vs_avg": "~5x",
+   "heat_score": 42,
+   "direction": "up",
+   "why": "Better Artificial Intelligence (AI) Stock to Buy: Broadcom vs. Marvell Technology",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/better-artificial-intelligence-ai-stock-115100090.html",
+   "published": "2026-06-22T11:51:00Z",
+   "sector": "AI Chips & Compute"
+  }
+ ]
 }

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-22T00:48:07+00:00",
-  "as_of_local": "2026-06-22 00:48:07 UTC",
+  "as_of_utc": "2026-06-22T00:53:06+00:00",
+  "as_of_local": "2026-06-22 00:53:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5103122549133.301,
       "headlines": [
         {
+          "title": "The AI Arms Race Isn\u2019t About Technology \u2013 It\u2019s About Electricity",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-arms-race-isn-t-000000017.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-06-22T00:00:00Z"
+        },
+        {
           "title": "You Can't Buy Anthropic Stock Yet, but You Can Buy These 4 AI Stocks Instead",
           "url": "https://finance.yahoo.com/technology/ai/articles/cant-buy-anthropic-stock-yet-232000485.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-joining-nasdaq-100-stock-223000133.html",
           "publisher": "Motley Fool",
           "published": "2026-06-21T22:30:00Z"
-        },
-        {
-          "title": "Morningstar Says SpaceX Could Be Worth Less Than Half Its $1.75 Trillion IPO Price",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/morningstar-says-spacex-could-worth-222207699.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-06-21T22:22:07Z"
         }
       ]
     },
@@ -69,6 +69,12 @@
       "market_cap": 1957030643485.2651,
       "headlines": [
         {
+          "title": "The AI Arms Race Isn\u2019t About Technology \u2013 It\u2019s About Electricity",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-arms-race-isn-t-000000017.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-06-22T00:00:00Z"
+        },
+        {
           "title": "Micron Must Do This on June 24, or Its Stock Could Crash",
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-must-june-24-stock-154531132.html",
           "publisher": "24/7 Wall St.",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-technician-declares-financials-140506752.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-06-20T14:05:06Z"
-        },
-        {
-          "title": "Prediction: The SpaceX Lockup Period Will Be an Absolute Train Wreck for Retail Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-spacex-lockup-period-absolute-132600226.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-20T13:26:00Z"
         }
       ]
     },
@@ -206,7 +206,7 @@
       "price": 310.58,
       "previous_close": 289.54,
       "change_pct": 7.27,
-      "market_cap": 271929292713.64456,
+      "market_cap": 271695372253.41797,
       "headlines": [
         {
           "title": "The Next $1 Trillion AI Winner May Already Be Hiding Inside Nvidia's Supply Chain",
@@ -390,8 +390,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 1.3,
-          "price": 2800000.0,
+          "change_pct": 2.32,
+          "price": 2828000.0,
           "currency": "KRW"
         },
         {
@@ -399,8 +399,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -1.55,
-          "price": 348500.0,
+          "change_pct": -1.13,
+          "price": 350000.0,
           "currency": "KRW"
         },
         {
@@ -408,8 +408,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -0.87,
-          "price": 107650.0,
+          "change_pct": -0.64,
+          "price": 107900.0,
           "currency": "JPY"
         },
         {
@@ -480,8 +480,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 1.3,
-        "price": 2800000.0,
+        "change_pct": 2.32,
+        "price": 2828000.0,
         "currency": "KRW"
       },
       {
@@ -489,8 +489,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -1.55,
-        "price": 348500.0,
+        "change_pct": -1.13,
+        "price": 350000.0,
         "currency": "KRW"
       },
       {
@@ -498,8 +498,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -0.87,
-        "price": 107650.0,
+        "change_pct": -0.64,
+        "price": 107900.0,
         "currency": "JPY"
       },
       {
@@ -557,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 63882.05,
-      "change_pct": -0.56
+      "price": 63686.24,
+      "change_pct": -0.86
     },
     {
       "label": "Gold",
-      "price": 4186.9,
-      "change_pct": -0.88
+      "price": 4189.9,
+      "change_pct": -0.81
     },
     {
       "label": "Nasdaq100",

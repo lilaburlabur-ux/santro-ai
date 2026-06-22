@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-22T13:42:15+00:00",
+  "as_of": "2026-06-22T13:57:27+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "SPCX",
    "company": "SpaceX",
-   "move_pct": -7.44,
-   "price": 171.24,
-   "volume": 18358589,
+   "move_pct": -7.45,
+   "price": 171.21,
+   "volume": 29228998,
    "volume_vs_avg": "~0.1x",
-   "heat_score": 41,
+   "heat_score": 42,
    "direction": "down",
-   "why": "SpaceX\u2019s Market Debut Ignites Investor Enthusiasm in First Week of Trading",
+   "why": "Stock Market Today: Dow Rises Amid U.S.-Iran Peace Talks; SpaceX Stock Sells Off (Live Coverage)",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/spacex-market-debut-ignites-investor-130352172.html",
-   "published": "2026-06-22T13:03:52Z",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-talks-spacex-stock-spcx/?src=A00220&yptr=yahoo",
+   "published": "2026-06-22T13:44:03Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]

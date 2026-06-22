@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Cerebras gets set for inaugural earnings with upside potential, Wedbush says | Proactive | 2026-06-22 |
 | The Best-Performing Dividend ETFs Have a Big AI Bet | Barrons.com | 2026-06-22 |
 | Forget Nvidia: Four Billionaires Who Rarely Agree on Anything Hold the Same Overlooked Chip Stock | 24/7 Wall St. | 2026-06-22 |
 | Cerebras Stock Gets Major Vote of Confidence as Key Earnings Test Nears | GuruFocus.com | 2026-06-22 |
-| Why I'm Not Selling ASML After a 230% Gain | Motley Fool | 2026-06-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
-| Stock market today: S&P 500, Nasdaq slide as Big Tech, SpaceX hammered | Yahoo Finance | 2026-06-21 |
-| Micron announces new Anthropic partnership ahead of Q3 earnings | Yahoo Finance Video | 2026-06-22 |
+| Memory's price surge threatens Apple's 'magic formula' — and the economy: WSJ reporter | Yahoo Finance Video | 2026-06-22 |
+| Tech stocks live: Tech stocks mixed ahead of Micron earnings Wednesday | Yahoo Finance | 2026-06-22 |
+| Tech stocks today: Uber and Lucid expanding in Houston,  Intel's latest chip moves | Yahoo Finance | 2026-06-15 |
 | Micron earnings, PCE data, gas prices: What to watch this week | Yahoo Finance | 2026-06-22 |
-| Micron Earnings Seen Rising 987% Amid AI Megatrend | Investor's Business Daily | 2026-06-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

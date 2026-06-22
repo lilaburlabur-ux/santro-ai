@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Stock market today: S&P 500, Nasdaq slide as Big Tech, SpaceX hammered | Yahoo Finance | 2026-06-21 |
+| Why CVS Stock Trounced the Market Today | Motley Fool | 2026-06-22 |
 | The Market Is Panicking on Broadcom. This Is Why I Keep Buying The Stock | 24/7 Wall St. | 2026-06-22 |
 | The Real Price Of Admission For Broadcom Stock | Trefis | 2026-06-22 |
-| Down More Than 40% in the Past Year, Is XRP Overdue for a Rally? | Motley Fool | 2026-06-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

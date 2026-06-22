@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-06-22T11:30:16+00:00",
-  "as_of_local": "2026-06-22 11:30:16 UTC",
+  "as_of_utc": "2026-06-22T11:35:05+00:00",
+  "as_of_local": "2026-06-22 11:35:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -199,6 +197,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-supported-geopolitical-risks-recede-151709682.html",
           "publisher": "Barchart",
           "published": "2026-06-18T15:17:09Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 310.58,
+      "previous_close": 289.54,
+      "change_pct": 7.27,
+      "market_cap": 271695372253.41797,
+      "headlines": [
+        {
+          "title": "GOOGL Stock Dips Premarket After Breakout Week: Analyst Says Google Developing Next-Gen AI Chip With MediaTek",
+          "url": "https://finance.yahoo.com/technology/ai/articles/googl-stock-dips-premarket-breakout-080934887.html",
+          "publisher": "Stocktwits",
+          "published": "2026-06-22T08:09:34Z"
+        },
+        {
+          "title": "MRVL, INTC, MU Stocks Hit 52-Week Highs Last Week: What Fueled The Surge?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mrvl-intc-mu-stocks-hit-015238422.html",
+          "publisher": "Stocktwits",
+          "published": "2026-06-22T01:52:38Z"
+        },
+        {
+          "title": "The Next $1 Trillion AI Winner May Already Be Hiding Inside Nvidia's Supply Chain",
+          "url": "https://finance.yahoo.com/technology/ai/articles/next-1-trillion-ai-winner-164907486.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-21T16:49:07Z"
         }
       ]
     },
@@ -531,12 +557,12 @@
     },
     {
       "label": "BTC",
-      "price": 64303.91,
-      "change_pct": 1.69
+      "price": 64527.31,
+      "change_pct": 2.04
     },
     {
       "label": "Gold",
-      "price": 4226.0,
+      "price": 4225.6,
       "change_pct": 0.04
     },
     {

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-06-22T05:35:26+00:00",
-  "as_of_local": "2026-06-22 05:35:26 UTC",
+  "as_of_utc": "2026-06-22T05:50:28+00:00",
+  "as_of_local": "2026-06-22 05:50:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -63,6 +61,34 @@
       ]
     },
     {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 411.35,
+      "previous_close": 392.9,
+      "change_pct": 4.7,
+      "market_cap": 1957030643485.2651,
+      "headlines": [
+        {
+          "title": "Could Broadcom Be the Best Way to Invest in Artificial Intelligence Right Now?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/could-broadcom-best-way-invest-032000422.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-22T03:20:00Z"
+        },
+        {
+          "title": "The AI Arms Race Isn\u2019t About Technology \u2013 It\u2019s About Electricity",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-arms-race-isn-t-000000017.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-06-22T00:00:00Z"
+        },
+        {
+          "title": "Micron Must Do This on June 24, or Its Stock Could Crash",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-must-june-24-stock-154531132.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-06-21T15:45:31Z"
+        }
+      ]
+    },
+    {
       "symbol": "MU",
       "name": "Micron Technology",
       "price": 1133.99,
@@ -84,7 +110,7 @@
         },
         {
           "title": "SK Hynix overtakes Samsung to become Korea's most valuable company",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-overtakes-samsung-become-043834467.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-overtakes-samsung-to-become-koreas-most-valuable-company-043834467.html",
           "publisher": "Reuters",
           "published": "2026-06-22T04:38:34Z"
         }
@@ -180,7 +206,7 @@
       "price": 310.58,
       "previous_close": 289.54,
       "change_pct": 7.27,
-      "market_cap": 271929292713.64456,
+      "market_cap": 271695372253.41797,
       "headlines": [
         {
           "title": "MRVL, INTC, MU Stocks Hit 52-Week Highs Last Week: What Fueled The Surge?",
@@ -373,8 +399,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.56,
-          "price": 352000.0,
+          "change_pct": -0.14,
+          "price": 353500.0,
           "currency": "KRW"
         },
         {
@@ -382,8 +408,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 0.69,
-          "price": 109350.0,
+          "change_pct": 1.7,
+          "price": 110450.0,
           "currency": "JPY"
         },
         {
@@ -427,8 +453,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 1.14,
-          "price": 221.0,
+          "change_pct": 1.6,
+          "price": 222.0,
           "currency": "TWD"
         }
       ]
@@ -463,8 +489,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.56,
-        "price": 352000.0,
+        "change_pct": -0.14,
+        "price": 353500.0,
         "currency": "KRW"
       },
       {
@@ -472,8 +498,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 0.69,
-        "price": 109350.0,
+        "change_pct": 1.7,
+        "price": 110450.0,
         "currency": "JPY"
       },
       {
@@ -517,8 +543,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 1.14,
-        "price": 221.0,
+        "change_pct": 1.6,
+        "price": 222.0,
         "currency": "TWD"
       }
     ]
@@ -531,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 64147.0,
-      "change_pct": -0.14
+      "price": 64115.09,
+      "change_pct": -0.19
     },
     {
       "label": "Gold",
-      "price": 4206.2,
-      "change_pct": -0.42
+      "price": 4213.3,
+      "change_pct": -0.26
     },
     {
       "label": "Nasdaq100",

@@ -56,6 +56,7 @@
   #tvchart{margin-bottom:6px; border:1px solid var(--border); border-radius:12px; overflow:hidden;}
   #tvchart iframe{display:block; width:100%!important;}
 </style>
+<link rel="stylesheet" href="accounts/accounts.css?v=2" />
 </head>
 <body>
   <header class="pageheader">
@@ -229,6 +230,7 @@ async function load(){
     ${ipoRow?`<div class="sec-label">IPO debut · priced $${ipoRow.ipo_price} on ${ipoRow.ipo_date_fmt||ipoRow.ipo_date}</div><div>
       ${pchip("Day 1",ipoRow.day1)}${pchip("Week 1",ipoRow.week1)}${pchip("Month 1",ipoRow.month1)}${pchip("Since IPO",ipoRow.since_ipo)}
     </div>`:""}
+    <div id="sa-calc-mount" style="margin-top:18px"></div>
     <div class="sec-label">Chart · TradingView</div>
     <div class="tradingview-widget-container" id="tvchart"><div class="tradingview-widget-container__widget"></div></div>
     ${bigChart(t.spark)}
@@ -245,6 +247,7 @@ async function load(){
       <a href="https://finance.yahoo.com/quote/${encodeURIComponent(SYM)}" target="_blank" rel="noopener">Yahoo Finance →</a>
       &nbsp;·&nbsp; ${ipoRow?`<a href="/ipos">← AI IPOs</a>`:`<a href="/stocks">← Back to the bubble map</a>`}</p>`;
   mountTV();
+  if(window.SantroCalc) SantroCalc.render(t, document.getElementById("sa-calc-mount"));
 }
 function copyLink(btn){
   if(!navigator.clipboard){ return; }
@@ -288,5 +291,8 @@ async function refresh(){
 load(); setInterval(refresh, 60000);
 </script>
 <script src="site.js?v=9"></script>
+<script src="accounts/config.js?v=2"></script>
+<script src="accounts/api.js?v=1"></script>
+<script src="accounts/accounts.js?v=2"></script>
 </body>
 </html>

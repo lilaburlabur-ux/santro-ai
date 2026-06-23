@@ -200,9 +200,9 @@
 
   // ── the calculator on the detail card ─────────────────────────────────
   const SantroCalc = {
-    render(t) {
+    render(t, hostEl) {
       ctx = { ticker: t.ticker, company: t.company, price: t.price, pe: t.pe, change_pct: t.change_pct };
-      const host = document.getElementById("detail"); if (!host) return;
+      const host = hostEl || document.getElementById("detail"); if (!host) return;
       const old = host.querySelector(".sa-calc"); if (old) old.remove();
       const stat = API.staticValuation(t.ticker, { price: t.price, pe: t.pe });
       const block = node(`<div class="sa-calc"></div>`);

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-23T08:26:12+00:00",
+  "as_of": "2026-06-23T08:41:28+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,13 +9,29 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "INTC",
-   "company": "Intel Corp",
-   "move_pct": -8.37,
-   "price": 129.15,
-   "volume": 126473800,
+   "ticker": "MU",
+   "company": "Micron Technology Inc",
+   "move_pct": -8.49,
+   "price": 1108.5,
+   "volume": 52572500,
    "volume_vs_avg": "~0.9x",
    "heat_score": 59,
+   "direction": "down",
+   "why": "KOSPI Selloff Is Bad News for Micron as SK Hynix, Samsung Dive",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.barrons.com/articles/kospi-micron-stock-sk-hynix-samsung-be416ca2?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-06-23T07:39:00Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
+   "ticker": "INTC",
+   "company": "Intel Corp",
+   "move_pct": -7.8,
+   "price": 129.95,
+   "volume": 126473800,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 47,
    "direction": "down",
    "why": "Jim Cramer Discusses President Trump\u2019s Big Intel (INTC) Announcement",
    "catalyst_type": "momentum_narrative",
@@ -24,35 +40,19 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 2,
+   "rank": 3,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
-   "move_pct": -8.56,
-   "price": 281.5,
+   "move_pct": -7.69,
+   "price": 284.18,
    "volume": 49016900,
    "volume_vs_avg": "~0.9x",
-   "heat_score": 59,
+   "heat_score": 46,
    "direction": "down",
    "why": "Jim Cramer Discusses Marvell\u2019s (MRVL) Shares",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-marvell-mrvl-065437514.html",
    "published": "2026-06-23T06:54:37Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 3,
-   "ticker": "QCOM",
-   "company": "Qualcomm Inc",
-   "move_pct": -5.57,
-   "price": 209.55,
-   "volume": 18158000,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 38,
-   "direction": "down",
-   "why": "Jim Cramer Discusses Qualcomm (QCOM) As A Value AI Play",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-qualcomm-qcom-065557356.html",
-   "published": "2026-06-23T06:55:57Z",
    "sector": "AI Chips & Compute"
   }
  ]

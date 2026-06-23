@@ -5,7 +5,7 @@ Signed file: `MRVL.research.23.06.2026`
 | Field | Value |
 |---|---|
 | Current price | $279.04 (2026-06-23, ~15-min delayed) |
-| Market cap | $244.31B |
+| Market cap | $244.10B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: low (expensive), risk: high. |
@@ -67,7 +67,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $8.72B | Revenue growth 27.60% y/y |
 | Profitability | Gross 51.50%, operating 14.48%, net 28.99% | ROA 3.81%, ROE 16.03% |
 | Balance sheet | Cash $3.84B, debt $5.28B | Current ratio 3.28, debt/equity 28.97 |
-| Valuation | P/E 95.56, forward P/E 45.20, P/S 28.03, P/B 13.41 | EV/Sales 31.06, EV/EBITDA 99.83 |
+| Valuation | P/E 95.56, forward P/E 45.20, P/S 28.00, P/B 13.41 | EV/Sales 31.06, EV/EBITDA 99.83 |
 | Growth expectations | Earnings growth -80.40%, EPS q/q -80.60% | Analyst mean target $241.79 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,7 +111,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $279.04 | EV/Sales | 31.06 |
-| Market cap | $244.31B | EV/EBITDA | 99.83 |
+| Market cap | $244.10B | EV/EBITDA | 99.83 |
 | Beta | 2.28 | Gross margin | 51.50% |
 | RSI(14) | 56.1 | Operating margin | 14.48% |
 | ATR(14) | 27.92 | Profit margin | 28.99% |
@@ -123,12 +123,13 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | P/E (ttm) | 95.56 | Insider ownership | 0.69% |
 | Forward P/E | 45.20 | Short float | 4.71% |
 | PEG (trailing) | 1.74 | Avg volume | 41,444,620 |
-| P/S | 28.03 | Employees | 7,480 |
+| P/S | 28.00 | Employees | 7,480 |
 | P/B | 13.41 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-06-23 | main | B of A Securities | Buy → Buy |
 | 2026-06-18 | main | Keybanc | Overweight → Overweight |
 | 2026-06-12 | main | Rosenblatt | Buy → Buy |
 | 2026-06-12 | main | B. Riley Securities | Buy → Buy |
@@ -136,7 +137,6 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | 2026-05-28 | main | UBS | Buy → Buy |
 | 2026-05-28 | main | Citigroup | Buy → Buy |
 | 2026-05-28 | main | Barclays | Overweight → Overweight |
-| 2026-05-28 | main | JP Morgan | Overweight → Overweight |
 
 ## 9. Conclusion
 MRVL: High momentum / strong fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

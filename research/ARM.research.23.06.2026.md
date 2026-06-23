@@ -36,10 +36,10 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
+| Update: US Equity Indexes Decline Amid Hard Sell-Off in Chipmakers | MT Newswires | 2026-06-23 |
 | US Equity Markets End Lower as Tech Stocks Fall | MT Newswires | 2026-06-23 |
 | Update: US Equity Indexes Mixed Amid Hard Sell-Off in Chipmakers | MT Newswires | 2026-06-23 |
 | Arm Stock Is Up 235% in 2026: Is Today’s 10% Drawdown a Take-Profits Signal? | 24/7 Wall St. | 2026-06-23 |
-| ARM vs. APP: Which AI-Exposed Tech Stock to Consider Right Now? | Zacks | 2026-06-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -130,6 +130,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-06-23 | main | B of A Securities | Neutral → Neutral |
 | 2026-06-18 | down | New Street Research | Buy → Neutral |
 | 2026-06-11 | main | B of A Securities | Neutral → Neutral |
 | 2026-06-04 | main | Mizuho | Outperform → Outperform |
@@ -137,7 +138,6 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | 2026-06-01 | main | Wells Fargo | Overweight → Overweight |
 | 2026-06-01 | main | Mizuho | Outperform → Outperform |
 | 2026-05-28 | main | Mizuho | Outperform → Outperform |
-| 2026-05-18 | init | Bernstein | — → Outperform |
 
 ## 9. Conclusion
 ARM: High momentum / strong fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

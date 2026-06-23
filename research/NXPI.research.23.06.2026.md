@@ -128,6 +128,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-06-23 | main | Citigroup | Buy → Buy |
 | 2026-06-09 | main | Wells Fargo | Equal-Weight → Equal-Weight |
 | 2026-05-13 | main | Cantor Fitzgerald | Overweight → Overweight |
 | 2026-05-05 | main | Barclays | Overweight → Overweight |
@@ -135,7 +136,6 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | 2026-04-29 | main | JP Morgan | Neutral → Neutral |
 | 2026-04-29 | main | Wolfe Research | Outperform → Outperform |
 | 2026-04-29 | main | Bernstein | Market Perform → Market Perform |
-| 2026-04-29 | main | TD Cowen | Buy → Buy |
 
 ## 9. Conclusion
 NXPI: High momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

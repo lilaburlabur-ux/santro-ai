@@ -51,6 +51,7 @@
         res = await fetch(BASE + path, {
           method,
           credentials: "include",
+          cache: "no-store",
           headers: body ? { "content-type": "application/json" } : undefined,
           body: body ? JSON.stringify(body) : undefined,
         });

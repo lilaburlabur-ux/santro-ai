@@ -166,11 +166,11 @@
     _eps(price, pe) { return pe && pe > 0 ? price / pe : null; },
     static_(ticker, { price, pe }) {
       const eps = this._eps(price, pe);
-      if (eps == null) return { ticker, basis: "Lynch/PEG", storyStockFlag: true, fairValue: null, premiumPct: null };
-      // Lynch fair P/E ≈ growth rate; illustrative ~12% assumption for the free read.
-      const fair = eps * 12;
-      return { ticker, basis: "Lynch/PEG", storyStockFlag: false, fairValue: fair,
-        premiumPct: (price / fair - 1) * 100, assumedGrowth: 12 };
+      if (eps == null) return { ticker, basis: "DCF", storyStockFlag: true, fairValue: null, premiumPct: null };
+      // Free read = DCF at the default 12% growth / 9% discount (matches Run valuation).
+      const fair = dcf(eps, 0.12, 0.09, 10, 0.025);
+      return { ticker, basis: "DCF", storyStockFlag: false, fairValue: fair,
+        premiumPct: (price / fair - 1) * 100, assumedGrowth: 12, discount: 9 };
     },
     run(ticker, { price, pe, growth, discount }) {
       const eps = this._eps(price, pe);

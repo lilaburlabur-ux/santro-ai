@@ -226,7 +226,7 @@
     if (stat.storyStockFlag) {
       return `<div class="sa-lbl">Fair value</div>
         <div class="sa-story"><b>Story stock — no earnings, valuation N/A.</b> No positive EPS to anchor a
-        Lynch/PEG fair value, so we won't print a number. Read the bear case: the price is paying for a
+        fair value, so we won't print a number. Read the bear case: the price is paying for a
         narrative, not current profits.</div>`;
     }
     const over = stat.premiumPct >= 0;
@@ -234,7 +234,7 @@
       <div class="sa-static">
         <span class="fv">${fmtUSD(stat.fairValue)}</span>
         <span class="sa-prem ${over ? "over" : "under"}">${fmtPct(stat.premiumPct)} ${over ? "above" : "below"} fair value</span>
-        <span class="sa-basis">Lynch/PEG basis · ~${stat.assumedGrowth}% growth</span>
+        <span class="sa-basis">DCF · ${stat.assumedGrowth}% growth, ${stat.discount}% discount</span>
       </div>`;
   }
   function runRowHtml(stat) {
@@ -302,7 +302,7 @@
     const over = res.premiumPct >= 0;
     return `<div class="sa-res">
       <div class="sa-resgrid">
-        <div class="sa-card"><div class="k">Fair value</div><div class="v">${fmtUSD(res.fairValue)}</div></div>
+        <div class="sa-card"><div class="k">Fair value · your inputs</div><div class="v">${fmtUSD(res.fairValue)}</div></div>
         <div class="sa-card"><div class="k">Premium vs price</div><div class="v ${over ? "over" : "under"}">${fmtPct(res.premiumPct)}</div></div>
       </div>
       <div class="sa-priced">What the market is pricing in: about <b>${res.pricedInGrowth == null ? "—" : res.pricedInGrowth.toFixed(1) + "%"}</b>

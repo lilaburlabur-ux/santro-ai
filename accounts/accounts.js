@@ -89,7 +89,9 @@
   function authHome() {
     const w = node(`<div>
       <h2>Sign in to Santro AI</h2>
-      <p class="sa-sub">Unlimited valuations, a saved watchlist, and your valuation history. No spam.</p>
+      <p class="sa-sub">${API.mode === "mock"
+        ? "🧪 Preview — sign-in is simulated until accounts launch; nothing is saved yet. The valuation calculator runs for real."
+        : "Unlimited valuations, a saved watchlist, and your valuation history. No spam."}</p>
       <button class="sa-btn google" id="g">${googleSvg()} Continue with Google</button>
       <button class="sa-btn" id="m">✉️ Email me a sign-in link</button>
       <div class="sa-or">or</div>

@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Liquidia and Goodyear have been highlighted as Zacks Bull and Bear of the Day | Zacks | 2026-06-23 |
 | Nasdaq, S&P 500 Futures Dip After Megacap Tech Selloff: Why SPCX, INFQ, PLTR, QBTS, HIMS Are In Focus | Stocktwits | 2026-06-23 |
 | NVIDIA Stock's Next Big Move Might Not Involve A GPU | Trefis | 2026-06-23 |
 | Dell’s AI-Focused Spending Spree and New Debt Financing Could Be A Game Changer For Dell Technologies (DELL) | Simply Wall St. | 2026-06-22 |
-| Advanced Micro Devices (AMD) Ascends While Market Falls: Some Facts to Note | Zacks | 2026-06-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

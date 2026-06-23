@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia, Micron, AMD lead tech sell-off as AI trade cools | Yahoo Finance | 2026-06-23 |
-| S&P, Nasdaq end lower on semiconductor selloff as AI spending concerns mount | Reuters | 2026-06-23 |
-| Apple and Intel Just Signed a Historic Chip Partnership. Is the Silicon Pioneer a No-Brainer Buy Today? | Motley Fool | 2026-06-23 |
-| Marvell Stock And The Custom Chip Story The Market Underestimated | Trefis | 2026-06-23 |
+| Wall Street ends lower on semiconductor selloff as AI spending concerns mount | Reuters | 2026-06-23 |
+| Stocks to Watch: Intel, Micron, SpaceX, Oracle | The Wall Street Journal | 2026-06-23 |
+| PHLX Semiconductor Index Hit Hard in Selloff | The Wall Street Journal | 2026-06-23 |
+| AI Spending Jitters Weigh on Tech Stocks | The Wall Street Journal | 2026-06-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -131,7 +131,6 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
-| 2026-06-23 | main | B of A Securities | Buy → Buy |
 | 2026-06-11 | up | B of A Securities | Underperform → Buy |
 | 2026-06-01 | main | Barclays | Equal-Weight → Equal-Weight |
 | 2026-06-01 | main | Wells Fargo | Equal-Weight → Equal-Weight |
@@ -139,6 +138,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | 2026-05-18 | main | Citigroup | Buy → Buy |
 | 2026-05-18 | main | Benchmark | Buy → Buy |
 | 2026-05-12 | main | Mizuho | Neutral → Neutral |
+| 2026-05-04 | reit | RBC Capital | Sector Perform → Sector Perform |
 
 ## 9. Conclusion
 INTC: High momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

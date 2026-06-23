@@ -36,7 +36,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia, Micron, AMD lead tech sell-off as AI trade cools | Yahoo Finance | 2026-06-23 |
+| Nvidia Stock Falls as Tech Selloff Catches Up With Chips | Barrons.com | 2026-06-23 |
 | Marvell Stock And The Custom Chip Story The Market Underestimated | Trefis | 2026-06-23 |
 | AI stock slump raises the question if investors are just taking profits or getting very nervous | Associated Press | 2026-06-23 |
 | A Look Back at Processors and Graphics Chips Stocks’ Q1 Earnings: Broadcom (NASDAQ:AVGO) Vs The Rest Of The Pack | StockStory | 2026-06-23 |

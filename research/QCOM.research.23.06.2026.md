@@ -39,7 +39,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Tech stocks live: Stocks fall on AI trade concerns | Yahoo Finance | 2026-06-22 |
 | Marvell Stock And The Custom Chip Story The Market Underestimated | Trefis | 2026-06-23 |
 | Qualcomm Nears $4 Billion Deal for AI Chip Startup Modular | GuruFocus.com | 2026-06-23 |
-| 📉 These Tech Stocks Are Falling the Most Today | The Wall Street Journal | 2026-06-23 |
+| Qualcomm Stock Falls Sharply but the Chip Maker Has a Plan to Save AI Rally | Barrons.com | 2026-06-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -128,7 +128,6 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
-| 2026-06-23 | main | B of A Securities | Underperform → Underperform |
 | 2026-06-22 | main | Cantor Fitzgerald | Neutral → Neutral |
 | 2026-06-12 | main | Wells Fargo | Equal-Weight → Equal-Weight |
 | 2026-05-08 | main | Tigress Financial | Buy → Buy |
@@ -136,6 +135,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | 2026-04-30 | main | JP Morgan | Neutral → Neutral |
 | 2026-04-30 | main | UBS | Neutral → Neutral |
 | 2026-04-30 | main | TD Cowen | Buy → Buy |
+| 2026-04-30 | main | Citigroup | Neutral → Neutral |
 
 ## 9. Conclusion
 QCOM: Moderate momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

@@ -37,9 +37,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | Tech stocks live: Stocks fall on AI trade concerns | Yahoo Finance | 2026-06-22 |
-| Nvidia, Micron, AMD lead tech sell-off as AI trade cools | Yahoo Finance | 2026-06-23 |
-| S&P, Nasdaq end lower on semiconductor selloff as AI spending concerns mount | Reuters | 2026-06-23 |
-| Marvell Stock And The Custom Chip Story The Market Underestimated | Trefis | 2026-06-23 |
+| Wall Street ends lower on semiconductor selloff as AI spending concerns mount | Reuters | 2026-06-23 |
+| Chip Stocks Tumble From Record Heights, Lead Tech Wreck | Investor's Business Daily | 2026-06-23 |
+| Nvidia Stock Falls as Tech Selloff Catches Up With Chips | Barrons.com | 2026-06-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

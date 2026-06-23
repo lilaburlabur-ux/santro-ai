@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-06-23T11:31:38+00:00",
-  "as_of_local": "2026-06-23 11:31:38 UTC",
+  "as_of_utc": "2026-06-23T11:36:37+00:00",
+  "as_of_local": "2026-06-23 11:36:37 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-06-21T22:58:17Z"
         },
         {
-          "title": "The Biggest IPO in History Is Unraveling. Why SpaceX Stock Hasn\u2019t Hit Bottom Yet",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/biggest-ipo-history-unraveling-why-112250681.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-06-23T11:22:50Z"
+          "title": "I'm No Longer Interested in SpaceX, and Elon Musk Is the Reason",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/im-no-longer-interested-spacex-112700951.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-23T11:27:00Z"
         },
         {
-          "title": "SpaceX Stock Has Plunged 3 Days in a Row. Is This a Red Flag or a Buying Opportunity?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-plunged-3-days-111648933.html",
+          "title": "SpaceX Will Surpass Nvidia and Become Wall Street's Most-Valuable Public Company by the End of Next Year, According to One Wall Street Analyst",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-surpass-nvidia-become-wall-112600026.html",
           "publisher": "Motley Fool",
-          "published": "2026-06-23T11:16:48Z"
+          "published": "2026-06-23T11:26:00Z"
         }
       ]
     },
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/broadcoms-ai-revenue-pace-triple-212000049.html",
           "publisher": "Motley Fool",
           "published": "2026-06-22T21:20:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 1211.38,
-      "previous_close": 1133.99,
-      "change_pct": 6.82,
-      "market_cap": 1366114480206.894,
-      "headlines": [
-        {
-          "title": "Micron to report third quarter earnings amid sky-high demand from data centers",
-          "url": "https://finance.yahoo.com/technology/article/micron-to-report-third-quarter-earnings-amid-sky-high-demand-from-data-centers-113000152.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-06-23T11:30:00Z"
-        },
-        {
-          "title": "Micron stock hits an all-time high, thanks to the new Anthropic deal",
-          "url": "https://finance.yahoo.com/video/micron-stock-hits-an-all-time-high-thanks-to-the-new-anthropic-deal-195156327.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-06-22T19:51:56Z"
-        },
-        {
-          "title": "SK Hynix soars to new heights, becomes South Korea's most valuable company",
-          "url": "https://finance.yahoo.com/video/sk-hynix-soars-to-new-heights-becomes-south-koreas-most-valuable-company-144802872.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-06-22T14:48:02Z"
         }
       ]
     },
@@ -381,8 +355,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 6.82,
-          "price": 1211.38,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -444,8 +418,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -10.0,
-          "price": 454.5,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "TWD"
         },
         {
@@ -471,8 +445,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 6.82,
-        "price": 1211.38,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -534,8 +508,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -10.0,
-        "price": 454.5,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "TWD"
       },
       {
@@ -557,13 +531,13 @@
     },
     {
       "label": "BTC",
-      "price": 62479.99,
-      "change_pct": -2.3
+      "price": 62473.01,
+      "change_pct": -2.31
     },
     {
       "label": "Gold",
-      "price": 4145.7,
-      "change_pct": -0.87
+      "price": 4146.8,
+      "change_pct": -0.84
     },
     {
       "label": "Nasdaq100",

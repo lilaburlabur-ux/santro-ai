@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-23T21:22:18+00:00",
-  "as_of_local": "2026-06-23 21:22:18 UTC",
+  "as_of_utc": "2026-06-23T21:26:52+00:00",
+  "as_of_local": "2026-06-23 21:26:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -19,16 +19,16 @@
           "published": "2026-06-22T14:34:22Z"
         },
         {
+          "title": "Market Strategist Says AI Selloff Is \u2018Just Profit-Taking,\u2019 Not a Broken Story",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/market-strategist-says-ai-selloff-212047181.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-06-23T21:20:47Z"
+        },
+        {
           "title": "Tech stocks tumble for a second day. Here's what's behind the selloff.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-tumble-second-day-140529740.html",
           "publisher": "CBS News",
           "published": "2026-06-23T21:07:00Z"
-        },
-        {
-          "title": "Tech selloff drags global stocks lower",
-          "url": "https://finance.yahoo.com/markets/articles/asia-shares-slip-markets-reprice-011538149.html",
-          "publisher": "Reuters",
-          "published": "2026-06-23T21:06:54Z"
         }
       ]
     },
@@ -551,9 +551,14 @@
   },
   "tape": [
     {
+      "label": "SPX",
+      "price": 7365.46,
+      "change_pct": -1.44
+    },
+    {
       "label": "BTC",
-      "price": 62404.0,
-      "change_pct": -2.42
+      "price": 62477.49,
+      "change_pct": -2.31
     },
     {
       "label": "Gold",

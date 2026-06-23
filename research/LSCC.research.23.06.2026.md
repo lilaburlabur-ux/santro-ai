@@ -36,10 +36,10 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Why Lattice Semiconductor (LSCC) Shares Are Trading Lower Today | StockStory | 2026-06-23 |
 | Can Lattice's Robust Industrial Portfolio Enhance Its Market Position? | Zacks | 2026-06-23 |
 | 2 Cash-Heavy Stocks with Exciting Potential and 1 We Find Risky | StockStory | 2026-06-19 |
 | Power Integrations, Lattice Semiconductor, and onsemi Stocks Trade Up, What You Need To Know | StockStory | 2026-06-18 |
-| 1 Cash-Producing Stock Worth Your Attention and 2 Facing Headwinds | StockStory | 2026-06-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

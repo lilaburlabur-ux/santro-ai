@@ -18,7 +18,7 @@ Signed file: `MU.research.23.06.2026`
 | Technical momentum | High | 1Y +752.98%; price +156.08% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -13.18% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 41.49%, revenue growth 196.30%. |
-| Value attractiveness | Reasonable | Forward P/E 8.71, EV/Sales 23.44. |
+| Value attractiveness | Reasonable | Forward P/E 8.64, EV/Sales 20.34. |
 | Risk level | High | Beta 2.17, ATR 8.2% of price, short float 3.34%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech sell-off: Market is in tug-of-war between AI euphoria & AI phobia | Yahoo Finance Video | 2026-06-23 |
-| Micron to report third quarter earnings amid sky-high demand from data centers | Yahoo Finance | 2026-06-23 |
-| Update: US Equity Indexes Decline Amid Hard Sell-Off in Chipmakers | MT Newswires | 2026-06-23 |
-| Dow Jones Futures: Nasdaq Breaks Support Amid AI Sell-Off; FedEx, Cerebras Tumble Late With Micron Due | Investor's Business Daily | 2026-06-23 |
+| Micron earnings, US new home sales: What to Watch | Yahoo Finance Video | 2026-06-23 |
+| Why Micron (MU) Shares Are Getting Obliterated Today | StockStory | 2026-06-23 |
+| Dow Jones Futures: Nasdaq Breaks Support; FedEx, Cerebras Tumble Late With Micron Due | Investor's Business Daily | 2026-06-23 |
+| Nasdaq closes down more than 2% as global tech sell-off deepens | Washington Post | 2026-06-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -67,7 +67,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $58.12B | Revenue growth 196.30% y/y |
 | Profitability | Gross 58.44%, operating 67.62%, net 41.49% | ROA 20.14%, ROE 39.82% |
 | Balance sheet | Cash $14.59B, debt $10.80B | Current ratio 2.90, debt/equity 14.90 |
-| Valuation | P/E 49.61, forward P/E 8.71, P/S 20.41, P/B 16.37 | EV/Sales 23.44, EV/EBITDA 37.02 |
+| Valuation | P/E 49.61, forward P/E 8.64, P/S 20.41, P/B 16.37 | EV/Sales 20.34, EV/EBITDA 32.13 |
 | Growth expectations | Earnings growth 756.00%, EPS q/q 770.80% | Analyst mean target $1,022.92 (39 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,8 +109,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $1,051.77 | EV/Sales | 23.44 |
-| Market cap | $1.19T | EV/EBITDA | 37.02 |
+| Price | $1,051.77 | EV/Sales | 20.34 |
+| Market cap | $1.19T | EV/EBITDA | 32.13 |
 | Beta | 2.17 | Gross margin | 58.44% |
 | RSI(14) | 57.0 | Operating margin | 67.62% |
 | ATR(14) | 86.45 | Profit margin | 41.49% |
@@ -120,7 +120,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | 52W high | $1,211.38 | Revenue growth y/y | 196.30% |
 | 52W low | $104.73 | Inst. ownership | 81.59% |
 | P/E (ttm) | 49.61 | Insider ownership | 0.25% |
-| Forward P/E | 8.71 | Short float | 3.34% |
+| Forward P/E | 8.64 | Short float | 3.34% |
 | PEG (trailing) | 0.38 | Avg volume | 50,656,600 |
 | P/S | 20.41 | Employees | 53,000 |
 | P/B | 16.37 | Analyst rec (1=buy..5=sell) | 1.5 |
@@ -128,7 +128,6 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
-| 2026-06-23 | main | B of A Securities | Buy → Buy |
 | 2026-06-22 | main | Needham | Buy → Buy |
 | 2026-06-18 | main | Rosenblatt | Buy → Buy |
 | 2026-06-18 | main | Stifel | Buy → Buy |
@@ -136,6 +135,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | 2026-06-17 | main | Citigroup | Buy → Buy |
 | 2026-06-17 | main | Deutsche Bank | Buy → Buy |
 | 2026-06-15 | main | TD Cowen | Buy → Buy |
+| 2026-06-15 | main | RBC Capital | Outperform → Outperform |
 
 ## 9. Conclusion
 MU: High momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

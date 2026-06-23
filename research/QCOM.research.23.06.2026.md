@@ -4,24 +4,24 @@ Signed file: `QCOM.research.23.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $221.90 (2026-06-23, ~15-min delayed) |
-| Market cap | $233.88B |
+| Current price | $204.13 (2026-06-23, ~15-min delayed) |
+| Market cap | $215.15B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-06-23.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +47.48%; price +33.96% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -11.27% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +37.74%; price +23.06% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -18.38% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 22.31%, revenue growth -3.50%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.79, EV/Sales 5.38. |
-| Risk level | High | Beta 1.60, ATR 7.5% of price, short float 4.78%. |
+| Value attractiveness | Reasonable | Forward P/E 19.13, EV/Sales 5.38. |
+| Risk level | High | Beta 1.60, ATR 8.3% of price, short float 4.78%. |
 
-**Bottom line:** High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
-| Earnings Updates, PCE Inflation Data: What to Watch This Week | The Wall Street Journal | 2026-06-23 |
-| Qualcomm Stock Drops but the Chip Maker Has a Plan to Save AI Rally | Barrons.com | 2026-06-23 |
-| Jim Cramer Discusses Qualcomm (QCOM) As A Value AI Play | Insider Monkey | 2026-06-23 |
-| Qualcomm (QCOM) Stock After 48% Year Gain Is The Price Getting Ahead Of Itself | Simply Wall St. | 2026-06-23 |
+| Tech stocks live: Google and other tech stocks extend losses as AI worries creep back in | Yahoo Finance | 2026-06-22 |
+| Marvell Stock And The Custom Chip Story The Market Underestimated | Trefis | 2026-06-23 |
+| Qualcomm Nears $4 Billion Deal for AI Chip Startup Modular | GuruFocus.com | 2026-06-23 |
+| 📉 These Tech Stocks Are Falling the Most Today | The Wall Street Journal | 2026-06-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $221.90; 52w high $250.10 (-11.27%); 52w low $123.61 (+79.51%) |
-| Trend | +33.96% vs SMA200, +15.10% vs SMA50, -1.62% vs SMA20 |
-| Momentum | RSI(14) 53.7 (neutral) |
-| Volatility | ATR(14) 16.53 (~7.5% of price); beta 1.60 |
-| Setup perspective | -11.27% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $204.13; 52w high $250.10 (-18.38%); 52w low $123.61 (+65.14%) |
+| Trend | +23.06% vs SMA200, +5.05% vs SMA50, -8.82% vs SMA20 |
+| Momentum | RSI(14) 47.0 (neutral) |
+| Volatility | ATR(14) 17.03 (~8.3% of price); beta 1.60 |
+| Setup perspective | -18.38% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +4.8% |
-| Month | +10.0% |
-| Quarter | +71.5% |
-| Half Y | +30.1% |
-| 1Y | +47.5% |
-| YTD | +29.6% |
+| Week | -7.6% |
+| Month | -4.0% |
+| Quarter | +59.6% |
+| Half Y | +18.4% |
+| 1Y | +37.7% |
+| YTD | +19.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,8 +67,8 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $44.49B | Revenue growth -3.50% y/y |
 | Profitability | Gross 54.80%, operating 22.06%, net 22.31% | ROA 12.69%, ROE 36.08% |
 | Balance sheet | Cash $9.80B, debt $15.27B | Current ratio 2.37, debt/equity 55.98 |
-| Valuation | P/E 23.86, forward P/E 20.79, P/S 5.26, P/B 8.61 | EV/Sales 5.38, EV/EBITDA 18.41 |
-| Growth expectations | Earnings growth 173.00%, EPS q/q 162.10% | Analyst mean target $183.83 (30 analysts) |
+| Valuation | P/E 21.95, forward P/E 19.13, P/S 4.84, P/B 7.92 | EV/Sales 5.38, EV/EBITDA 18.41 |
+| Growth expectations | Earnings growth 173.00%, EPS q/q 162.10% | Analyst mean target $186.50 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -94,8 +94,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC | 12,113,406 | 1.15% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.79, EV/Sales 5.38. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.60, ATR 7.5% of price, short float 4.78%. Size positions accordingly.
+- **Volatility risk:** Beta 1.60, ATR 8.3% of price, short float 4.78%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,25 +109,26 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $221.90 | EV/Sales | 5.38 |
-| Market cap | $233.88B | EV/EBITDA | 18.41 |
+| Price | $204.13 | EV/Sales | 5.38 |
+| Market cap | $215.15B | EV/EBITDA | 18.41 |
 | Beta | 1.60 | Gross margin | 54.80% |
-| RSI(14) | 53.7 | Operating margin | 22.06% |
-| ATR(14) | 16.53 | Profit margin | 22.31% |
-| SMA20 dist | -1.62% | ROA | 12.69% |
-| SMA50 dist | +15.10% | ROE | 36.08% |
-| SMA200 dist | +33.96% | Revenue (ttm) | $44.49B |
+| RSI(14) | 47.0 | Operating margin | 22.06% |
+| ATR(14) | 17.03 | Profit margin | 22.31% |
+| SMA20 dist | -8.82% | ROA | 12.69% |
+| SMA50 dist | +5.05% | ROE | 36.08% |
+| SMA200 dist | +23.06% | Revenue (ttm) | $44.49B |
 | 52W high | $250.10 | Revenue growth y/y | -3.50% |
 | 52W low | $123.61 | Inst. ownership | 84.88% |
-| P/E (ttm) | 23.86 | Insider ownership | 0.13% |
-| Forward P/E | 20.79 | Short float | 4.78% |
+| P/E (ttm) | 21.95 | Insider ownership | 0.13% |
+| Forward P/E | 19.13 | Short float | 4.78% |
 | PEG (trailing) | 0.94 | Avg volume | 20,835,096 |
-| P/S | 5.26 | Employees | 52,000 |
-| P/B | 8.61 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/S | 4.84 | Employees | 52,000 |
+| P/B | 7.92 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-06-23 | main | B of A Securities | Underperform → Underperform |
 | 2026-06-22 | main | Cantor Fitzgerald | Neutral → Neutral |
 | 2026-06-12 | main | Wells Fargo | Equal-Weight → Equal-Weight |
 | 2026-05-08 | main | Tigress Financial | Buy → Buy |
@@ -136,10 +136,9 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | 2026-04-30 | main | JP Morgan | Neutral → Neutral |
 | 2026-04-30 | main | UBS | Neutral → Neutral |
 | 2026-04-30 | main | TD Cowen | Buy → Buy |
-| 2026-04-30 | main | Citigroup | Neutral → Neutral |
 
 ## 9. Conclusion
-QCOM: High momentum / mixed fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+QCOM: Moderate momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

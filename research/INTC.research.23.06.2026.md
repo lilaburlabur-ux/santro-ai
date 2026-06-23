@@ -4,8 +4,8 @@ Signed file: `INTC.research.23.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $140.94 (2026-06-23, ~15-min delayed) |
-| Market cap | $708.36B |
+| Current price | $132.28 (2026-06-23, ~15-min delayed) |
+| Market cap | $664.84B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, weak fundamentals, value: low (expensive), risk: high. |
@@ -15,11 +15,11 @@ Signed file: `INTC.research.23.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +555.84%; price +151.25% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +527.51%; price +133.57% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -6.14% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-5.90%). |
-| Value attractiveness | Low (expensive) | Forward P/E 91.14, EV/Sales 13.66. |
-| Risk level | High | Beta 2.23, ATR 6.9% of price, short float 2.69%. |
+| Value attractiveness | Low (expensive) | Forward P/E 85.54, EV/Sales 13.66. |
+| Risk level | High | Beta 2.23, ATR 7.5% of price, short float 2.69%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: low (expensive), risk: high.
 
@@ -36,30 +36,30 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech stocks live: Tech stocks mixed ahead of Micron earnings Wednesday | Yahoo Finance | 2026-06-22 |
-| Stock Futures Slide as Technology Selloff Spreads | The Wall Street Journal | 2026-06-23 |
-| This Is the Top Artificial Intelligence (AI) Chip Stock to Buy Right Now, According to Jim Cramer (Hint: It's Not Nvidia) | Motley Fool | 2026-06-23 |
-| Jim Cramer Discusses President Trump’s Big Intel (INTC) Announcement | Insider Monkey | 2026-06-23 |
+| Nvidia, Micron, AMD lead tech sell-off as AI trade cools | Yahoo Finance | 2026-06-23 |
+| S&P, Nasdaq end lower on semiconductor selloff as AI spending concerns mount | Reuters | 2026-06-23 |
+| Apple and Intel Just Signed a Historic Chip Partnership. Is the Silicon Pioneer a No-Brainer Buy Today? | Motley Fool | 2026-06-23 |
+| Marvell Stock And The Custom Chip Story The Market Underestimated | Trefis | 2026-06-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $140.94; 52w high $140.94 (+0.00%); 52w low $19.31 (+629.88%) |
-| Trend | +151.25% vs SMA200, +36.82% vs SMA50, +19.98% vs SMA20 |
-| Momentum | RSI(14) 67.3 (neutral) |
-| Volatility | ATR(14) 9.69 (~6.9% of price); beta 2.23 |
-| Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $132.28; 52w high $140.94 (-6.14%); 52w low $19.31 (+585.03%) |
+| Trend | +133.57% vs SMA200, +26.70% vs SMA50, +12.02% vs SMA20 |
+| Momentum | RSI(14) 60.3 (neutral) |
+| Volatility | ATR(14) 9.90 (~7.5% of price); beta 2.23 |
+| Setup perspective | -6.14% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +13.1% |
-| Month | +18.5% |
-| Quarter | +221.3% |
-| Half Y | +291.0% |
-| 1Y | +555.8% |
-| YTD | +257.9% |
+| Week | +3.5% |
+| Month | +11.6% |
+| Quarter | +200.6% |
+| Half Y | +264.6% |
+| 1Y | +527.5% |
+| YTD | +235.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,8 +67,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $53.76B | Revenue growth 7.20% y/y |
 | Profitability | Gross 37.20%, operating 6.88%, net -5.90% | ROA 0.63%, ROE -2.91% |
 | Balance sheet | Cash $32.79B, debt $45.03B | Current ratio 2.31, debt/equity 36.03 |
-| Valuation | P/E —, forward P/E 91.14, P/S 13.18, P/B 6.36 | EV/Sales 13.66, EV/EBITDA 51.80 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $94.14 (41 analysts) |
+| Valuation | P/E —, forward P/E 85.54, P/S 12.37, P/B 5.96 | EV/Sales 13.66, EV/EBITDA 51.80 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $94.75 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -94,8 +94,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Primecap Management Company | 75,761,968 | 1.51% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 91.14, EV/Sales 13.66. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.23, ATR 6.9% of price, short float 2.69%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 85.54, EV/Sales 13.66. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.23, ATR 7.5% of price, short float 2.69%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -112,25 +112,26 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $140.94 | EV/Sales | 13.66 |
-| Market cap | $708.36B | EV/EBITDA | 51.80 |
+| Price | $132.28 | EV/Sales | 13.66 |
+| Market cap | $664.84B | EV/EBITDA | 51.80 |
 | Beta | 2.23 | Gross margin | 37.20% |
-| RSI(14) | 67.3 | Operating margin | 6.88% |
-| ATR(14) | 9.69 | Profit margin | -5.90% |
-| SMA20 dist | +19.98% | ROA | 0.63% |
-| SMA50 dist | +36.82% | ROE | -2.91% |
-| SMA200 dist | +151.25% | Revenue (ttm) | $53.76B |
+| RSI(14) | 60.3 | Operating margin | 6.88% |
+| ATR(14) | 9.90 | Profit margin | -5.90% |
+| SMA20 dist | +12.02% | ROA | 0.63% |
+| SMA50 dist | +26.70% | ROE | -2.91% |
+| SMA200 dist | +133.57% | Revenue (ttm) | $53.76B |
 | 52W high | $140.94 | Revenue growth y/y | 7.20% |
 | 52W low | $19.31 | Inst. ownership | 64.04% |
 | P/E (ttm) | — | Insider ownership | 14.72% |
-| Forward P/E | 91.14 | Short float | 2.69% |
+| Forward P/E | 85.54 | Short float | 2.69% |
 | PEG (trailing) | — | Avg volume | 133,682,450 |
-| P/S | 13.18 | Employees | 85,100 |
-| P/B | 6.36 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/S | 12.37 | Employees | 85,100 |
+| P/B | 5.96 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-06-23 | main | B of A Securities | Buy → Buy |
 | 2026-06-11 | up | B of A Securities | Underperform → Buy |
 | 2026-06-01 | main | Barclays | Equal-Weight → Equal-Weight |
 | 2026-06-01 | main | Wells Fargo | Equal-Weight → Equal-Weight |
@@ -138,7 +139,6 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | 2026-05-18 | main | Citigroup | Buy → Buy |
 | 2026-05-18 | main | Benchmark | Buy → Buy |
 | 2026-05-12 | main | Mizuho | Neutral → Neutral |
-| 2026-05-04 | reit | RBC Capital | Sector Perform → Sector Perform |
 
 ## 9. Conclusion
 INTC: High momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

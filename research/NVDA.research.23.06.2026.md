@@ -4,8 +4,8 @@ Signed file: `NVDA.research.23.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $208.65 (2026-06-23, ~15-min delayed) |
-| Market cap | $5.05T |
+| Current price | $200.04 (2026-06-23, ~15-min delayed) |
+| Market cap | $4.85T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `NVDA.research.23.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +43.61%; price +9.89% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -11.39% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +39.25%; price +5.27% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -15.04% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 62.97%, revenue growth 85.20%. |
-| Value attractiveness | Reasonable | Forward P/E 16.39, EV/Sales 19.76. |
-| Risk level | High | Beta 2.20, ATR 3.6% of price, short float 1.22%. |
+| Value attractiveness | Reasonable | Forward P/E 15.72, EV/Sales 19.76. |
+| Risk level | High | Beta 2.20, ATR 3.8% of price, short float 1.22%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Stock market today: S&P 500, Nasdaq slide as Big Tech, SpaceX hammered | Yahoo Finance | 2026-06-21 |
-| 2 Incredibly Costly Mistakes Too Many Investors Are Making Right Now | Motley Fool | 2026-06-23 |
-| Fed Chair Kevin Warsh Dropped a Bombshell at the FOMC Meeting -- and It's What He Didn't Say That Matters Most | Motley Fool | 2026-06-23 |
-| Why China's Ban Gave a Boost to MP Materials and USA Rare Earth | Motley Fool | 2026-06-23 |
+| Nvidia, Micron, AMD lead tech sell-off as AI trade cools | Yahoo Finance | 2026-06-23 |
+| Tech stocks live: Google and other tech stocks extend losses as AI worries creep back in | Yahoo Finance | 2026-06-22 |
+| S&P, Nasdaq end lower on semiconductor selloff as AI spending concerns mount | Reuters | 2026-06-23 |
+| Apple and Intel Just Signed a Historic Chip Partnership. Is the Silicon Pioneer a No-Brainer Buy Today? | Motley Fool | 2026-06-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $208.65; 52w high $235.47 (-11.39%); 52w low $143.66 (+45.24%) |
-| Trend | +9.89% vs SMA200, -0.46% vs SMA50, -1.18% vs SMA20 |
-| Momentum | RSI(14) 48.8 (neutral) |
-| Volatility | ATR(14) 7.51 (~3.6% of price); beta 2.20 |
-| Setup perspective | -11.39% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $200.04; 52w high $235.47 (-15.04%); 52w low $143.98 (+38.94%) |
+| Trend | +5.27% vs SMA200, -4.68% vs SMA50, -4.92% vs SMA20 |
+| Momentum | RSI(14) 42.6 (neutral) |
+| Volatility | ATR(14) 7.59 (~3.8% of price); beta 2.20 |
+| Setup perspective | -15.04% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.7% |
-| Month | -6.5% |
-| Quarter | +21.0% |
-| Half Y | +22.2% |
-| 1Y | +43.6% |
-| YTD | +10.6% |
+| Week | -5.8% |
+| Month | -8.8% |
+| Quarter | +14.0% |
+| Half Y | +15.0% |
+| 1Y | +39.2% |
+| YTD | +6.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,7 +67,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $253.49B | Revenue growth 85.20% y/y |
 | Profitability | Gross 74.14%, operating 65.60%, net 62.97% | ROA 52.73%, ROE 114.29% |
 | Balance sheet | Cash $53.17B, debt $12.81B | Current ratio 3.44, debt/equity 6.55 |
-| Valuation | P/E 31.95, forward P/E 16.39, P/S 19.94, P/B 25.86 | EV/Sales 19.76, EV/EBITDA 30.26 |
+| Valuation | P/E 30.63, forward P/E 15.72, P/S 19.11, P/B 24.79 | EV/Sales 19.76, EV/EBITDA 30.26 |
 | Growth expectations | Earnings growth 214.50%, EPS q/q 210.60% | Analyst mean target $298.93 (59 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -94,7 +94,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Northern Trust Corporation | 252,741,836 | 1.04% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.20, ATR 3.6% of price, short float 1.22%. Size positions accordingly.
+- **Volatility risk:** Beta 2.20, ATR 3.8% of price, short float 1.22%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -109,21 +109,21 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $208.65 | EV/Sales | 19.76 |
-| Market cap | $5.05T | EV/EBITDA | 30.26 |
+| Price | $200.04 | EV/Sales | 19.76 |
+| Market cap | $4.85T | EV/EBITDA | 30.26 |
 | Beta | 2.20 | Gross margin | 74.14% |
-| RSI(14) | 48.8 | Operating margin | 65.60% |
-| ATR(14) | 7.51 | Profit margin | 62.97% |
-| SMA20 dist | -1.18% | ROA | 52.73% |
-| SMA50 dist | -0.46% | ROE | 114.29% |
-| SMA200 dist | +9.89% | Revenue (ttm) | $253.49B |
+| RSI(14) | 42.6 | Operating margin | 65.60% |
+| ATR(14) | 7.59 | Profit margin | 62.97% |
+| SMA20 dist | -4.92% | ROA | 52.73% |
+| SMA50 dist | -4.68% | ROE | 114.29% |
+| SMA200 dist | +5.27% | Revenue (ttm) | $253.49B |
 | 52W high | $235.47 | Revenue growth y/y | 85.20% |
-| 52W low | $143.66 | Inst. ownership | 70.87% |
-| P/E (ttm) | 31.95 | Insider ownership | 3.98% |
-| Forward P/E | 16.39 | Short float | 1.22% |
+| 52W low | $143.98 | Inst. ownership | 70.87% |
+| P/E (ttm) | 30.63 | Insider ownership | 3.98% |
+| Forward P/E | 15.72 | Short float | 1.22% |
 | PEG (trailing) | 0.64 | Avg volume | 161,827,462 |
-| P/S | 19.94 | Employees | 42,000 |
-| P/B | 25.86 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/S | 19.11 | Employees | 42,000 |
+| P/B | 24.79 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

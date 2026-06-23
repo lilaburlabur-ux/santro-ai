@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-06-23T00:31:58+00:00",
-  "as_of_local": "2026-06-23 00:31:58 UTC",
+  "as_of_utc": "2026-06-23T00:37:20+00:00",
+  "as_of_local": "2026-06-23 00:37:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEVA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-06-21T22:58:17Z"
         },
         {
-          "title": "Supermicro (SMCI) Joins Nvidia Vera Rubin Launch With Liquid Cooled AI Racks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/supermicro-smci-joins-nvidia-vera-001347671.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-06-23T00:13:47Z"
+          "title": "Why Intel (INTC) Stock Is Trading Up Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-intc-stock-trading-001919984.html",
+          "publisher": "StockStory",
+          "published": "2026-06-23T00:19:19Z"
         },
         {
-          "title": "What I Didn't Know About the ETF Liquidity Illusion",
-          "url": "https://finance.yahoo.com/markets/options/articles/didnt-know-etf-liquidity-illusion-235000389.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-22T23:50:00Z"
+          "title": "Qorvo and Skyworks Solutions Shares Skyrocket, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qorvo-skyworks-solutions-shares-skyrocket-001919922.html",
+          "publisher": "StockStory",
+          "published": "2026-06-23T00:19:19Z"
         }
       ]
     },
@@ -159,16 +161,16 @@
           "published": "2026-06-22T14:34:22Z"
         },
         {
+          "title": "Why Intel (INTC) Stock Is Trading Up Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-intc-stock-trading-001919984.html",
+          "publisher": "StockStory",
+          "published": "2026-06-23T00:19:19Z"
+        },
+        {
           "title": "Qualcomm Nears Deal for AI Chip Startup Modular",
           "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-nears-deal-ai-chip-210300507.html",
           "publisher": "Bloomberg",
           "published": "2026-06-22T21:03:00Z"
-        },
-        {
-          "title": "Intel Has a Warning for AMD Stock Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-warning-amd-stock-investors-204300979.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-22T20:43:00Z"
         }
       ]
     },
@@ -206,7 +208,7 @@
       "price": 307.86,
       "previous_close": 310.58,
       "change_pct": -0.88,
-      "market_cap": 269315915185.54688,
+      "market_cap": 269547787014.29407,
       "headlines": [
         {
           "title": "Beyond the Mag 7: Finding the Real Winners of the AI Boom",
@@ -339,34 +341,6 @@
           "published": "2026-05-20T16:00:03Z"
         }
       ]
-    },
-    {
-      "symbol": "CEVA",
-      "name": "CEVA",
-      "price": 48.41,
-      "previous_close": 49.72,
-      "change_pct": -2.63,
-      "market_cap": 1348672049.0389977,
-      "headlines": [
-        {
-          "title": "Ceva (CEVA) Surges 10.7%: Is This an Indication of Further Gains?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-ceva-surges-10-7-093100019.html",
-          "publisher": "Zacks",
-          "published": "2026-06-19T09:31:00Z"
-        },
-        {
-          "title": "Datadog upgraded, Accenture downgraded: Wall Street's top analyst calls",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/datadog-upgraded-accenture-downgraded-wall-134248909.html",
-          "publisher": "The Fly",
-          "published": "2026-06-15T13:42:48Z"
-        },
-        {
-          "title": "The AI Double-Tap That Lit Up Cadence",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-double-tap-lit-cadence-160633085.html",
-          "publisher": "Trefis",
-          "published": "2026-06-02T16:06:33Z"
-        }
-      ]
     }
   ],
   "etfs": [
@@ -390,8 +364,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 0.75,
-          "price": 2941000.0,
+          "change_pct": -0.92,
+          "price": 2892000.0,
           "currency": "KRW"
         },
         {
@@ -399,8 +373,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.42,
-          "price": 352000.0,
+          "change_pct": -1.27,
+          "price": 349000.0,
           "currency": "KRW"
         },
         {
@@ -408,8 +382,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 0.51,
-          "price": 109250.0,
+          "change_pct": 0.18,
+          "price": 108900.0,
           "currency": "JPY"
         },
         {
@@ -480,8 +454,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 0.75,
-        "price": 2941000.0,
+        "change_pct": -0.92,
+        "price": 2892000.0,
         "currency": "KRW"
       },
       {
@@ -489,8 +463,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.42,
-        "price": 352000.0,
+        "change_pct": -1.27,
+        "price": 349000.0,
         "currency": "KRW"
       },
       {
@@ -498,8 +472,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 0.51,
-        "price": 109250.0,
+        "change_pct": 0.18,
+        "price": 108900.0,
         "currency": "JPY"
       },
       {
@@ -557,13 +531,13 @@
     },
     {
       "label": "BTC",
-      "price": 63916.09,
-      "change_pct": 1.07
+      "price": 63900.12,
+      "change_pct": 1.05
     },
     {
       "label": "Gold",
-      "price": 4200.7,
-      "change_pct": -0.55
+      "price": 4201.3,
+      "change_pct": -0.54
     },
     {
       "label": "Nasdaq100",

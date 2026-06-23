@@ -21,10 +21,10 @@ window.SANTRO_CONFIG = Object.assign(
   {
     // "live"  → talk to the FastAPI backend at apiBase (cookies, credentials:include)
     // "mock"  → in-memory fixture so the full UX works with no backend (local/demo)
-    apiMode: "mock",
+    apiMode: "live",
 
     // Backend origin. Empty = same origin. Example: "https://api.santroai.tech"
-    apiBase: "",
+    apiBase: "https://santro-accounts.onrender.com",
 
     // Valuation math source. "real" → POST {apiBase}/valuation/run.
     // "mock" → typed local mock (swap to "real" the moment the endpoint ships).

@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
+| Tech stocks live: Stocks fall on AI trade concerns | Yahoo Finance | 2026-06-22 |
 | Nvidia, Micron, AMD lead tech sell-off as AI trade cools | Yahoo Finance | 2026-06-23 |
-| Tech stocks live: Google and other tech stocks extend losses as AI worries creep back in | Yahoo Finance | 2026-06-22 |
-| S&P, Nasdaq end lower on semiconductor selloff as AI spending concerns mount | Reuters | 2026-06-23 |
-| Apple and Intel Just Signed a Historic Chip Partnership. Is the Silicon Pioneer a No-Brainer Buy Today? | Motley Fool | 2026-06-23 |
+| If the Fed Cuts Again, IEFA Could Rally Further. Here’s Your Monitoring Checklist. | 24/7 Wall St. | 2026-06-23 |
+| Up 290% YTD, How High Can Seagate Rally? | 24/7 Wall St. | 2026-06-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

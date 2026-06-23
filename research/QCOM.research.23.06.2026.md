@@ -36,7 +36,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech stocks live: Google and other tech stocks extend losses as AI worries creep back in | Yahoo Finance | 2026-06-22 |
+| Tech stocks live: Stocks fall on AI trade concerns | Yahoo Finance | 2026-06-22 |
 | Marvell Stock And The Custom Chip Story The Market Underestimated | Trefis | 2026-06-23 |
 | Qualcomm Nears $4 Billion Deal for AI Chip Startup Modular | GuruFocus.com | 2026-06-23 |
 | 📉 These Tech Stocks Are Falling the Most Today | The Wall Street Journal | 2026-06-23 |

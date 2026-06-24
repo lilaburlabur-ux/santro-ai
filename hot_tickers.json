@@ -1,59 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-24T18:03:10+00:00",
+  "as_of": "2026-06-24T18:18:09+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "ORCL",
-   "company": "Oracle Corp",
-   "move_pct": -5.63,
-   "price": 155.86,
-   "volume": 23282328,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 39,
-   "direction": "down",
-   "why": "Oracle Stock's New Identity Is Hiding In Its Old Story's Silence",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/articles/oracle-stocks-identity-hiding-old-170732686.html",
-   "published": "2026-06-24T17:07:32Z",
-   "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
-   "rank": 2,
-   "ticker": "OKLO",
-   "company": "Oklo Inc",
-   "move_pct": -6.29,
-   "price": 53.59,
-   "volume": 5374973,
-   "volume_vs_avg": "~0.4x",
-   "heat_score": 39,
-   "direction": "down",
-   "why": "Why Oklo Stock Keeps Going Down",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-oklo-stock-keeps-going-155025712.html",
-   "published": "2026-06-24T15:50:25Z",
-   "sector": "Data Center, Power & Energy"
-  },
-  {
-   "rank": 3,
-   "ticker": "BBAI",
-   "company": "BigBear.ai Holdings Inc",
-   "move_pct": -5.84,
-   "price": 3.55,
-   "volume": 28368143,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 39,
-   "direction": "down",
-   "why": "Is BigBear.ai Becoming a Pure-Play Government GenAI Stock?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/bigbear-ai-becoming-pure-play-164000788.html",
-   "published": "2026-06-24T16:40:00Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  }
- ]
+ "hot_tickers": []
 }

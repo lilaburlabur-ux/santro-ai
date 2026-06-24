@@ -4,8 +4,8 @@ Signed file: `QCOM.research.24.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $204.13 (2026-06-24, ~15-min delayed) |
-| Market cap | $215.15B |
+| Current price | $197.41 (2026-06-24, ~15-min delayed) |
+| Market cap | $208.07B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `QCOM.research.24.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +37.74%; price +23.06% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -18.38% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +31.63%; price +18.86% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -21.07% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 22.31%, revenue growth -3.50%. |
-| Value attractiveness | Reasonable | Forward P/E 19.13, EV/Sales 4.96. |
-| Risk level | High | Beta 1.60, ATR 8.3% of price, short float 4.78%. |
+| Value attractiveness | Reasonable | Forward P/E 18.50, EV/Sales 4.96. |
+| Risk level | High | Beta 1.60, ATR 8.5% of price, short float 4.78%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech stocks live: Stocks fall on AI trade concerns | Yahoo Finance | 2026-06-22 |
-| Qualcomm in talks to provide custom chip-design services to ByteDance, sources say | Reuters | 2026-06-24 |
-| Qualcomm (QCOM) Is In Talks To Buy Modular And Push Further Into AI Chips | Simply Wall St. | 2026-06-24 |
-| Lam Research, Qualcomm, and Western Digital Stocks Trade Down, What You Need To Know | StockStory | 2026-06-23 |
+| Tech stocks live: Micron beats estimates, pushing shares of chip stocks broadly higher after tumbling earlier this week | Yahoo Finance | 2026-06-22 |
+| Qualcomm debuts line of AI data center chips and systems, increasing competition with Nvidia | Yahoo Finance | 2026-06-24 |
+| Qualcomm Strikes $3.9 Billion Deal for AI Software Firm Modular | MT Newswires | 2026-06-24 |
+| AI Chip Stocks Stage Rebound: Nvidia, AMD Lead Recovery Ahead of Micron Earnings Shock | GuruFocus.com | 2026-06-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $204.13; 52w high $250.10 (-18.38%); 52w low $123.61 (+65.14%) |
-| Trend | +23.06% vs SMA200, +5.05% vs SMA50, -8.82% vs SMA20 |
-| Momentum | RSI(14) 47.0 (neutral) |
-| Volatility | ATR(14) 17.03 (~8.3% of price); beta 1.60 |
-| Setup perspective | -18.38% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $197.41; 52w high $250.10 (-21.07%); 52w low $123.61 (+59.70%) |
+| Trend | +18.86% vs SMA200, +0.90% vs SMA50, -10.82% vs SMA20 |
+| Momentum | RSI(14) 44.8 (neutral) |
+| Volatility | ATR(14) 16.75 (~8.5% of price); beta 1.60 |
+| Setup perspective | -21.07% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -7.6% |
-| Month | -4.0% |
-| Quarter | +59.6% |
-| Half Y | +18.4% |
-| 1Y | +37.7% |
-| YTD | +19.2% |
+| Week | -7.8% |
+| Month | -16.8% |
+| Quarter | +54.0% |
+| Half Y | +13.8% |
+| 1Y | +31.6% |
+| YTD | +15.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,7 +67,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $44.49B | Revenue growth -3.50% y/y |
 | Profitability | Gross 54.80%, operating 22.06%, net 22.31% | ROA 12.69%, ROE 36.08% |
 | Balance sheet | Cash $9.80B, debt $15.27B | Current ratio 2.37, debt/equity 55.98 |
-| Valuation | P/E 21.93, forward P/E 19.13, P/S 4.84, P/B 7.92 | EV/Sales 4.96, EV/EBITDA 16.97 |
+| Valuation | P/E 21.20, forward P/E 18.50, P/S 4.68, P/B 7.66 | EV/Sales 4.96, EV/EBITDA 16.97 |
 | Growth expectations | Earnings growth 173.00%, EPS q/q 162.10% | Analyst mean target $186.50 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -94,7 +94,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC | 12,113,406 | 1.15% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.60, ATR 8.3% of price, short float 4.78%. Size positions accordingly.
+- **Volatility risk:** Beta 1.60, ATR 8.5% of price, short float 4.78%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -109,21 +109,21 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $204.13 | EV/Sales | 4.96 |
-| Market cap | $215.15B | EV/EBITDA | 16.97 |
+| Price | $197.41 | EV/Sales | 4.96 |
+| Market cap | $208.07B | EV/EBITDA | 16.97 |
 | Beta | 1.60 | Gross margin | 54.80% |
-| RSI(14) | 47.0 | Operating margin | 22.06% |
-| ATR(14) | 17.03 | Profit margin | 22.31% |
-| SMA20 dist | -8.82% | ROA | 12.69% |
-| SMA50 dist | +5.05% | ROE | 36.08% |
-| SMA200 dist | +23.06% | Revenue (ttm) | $44.49B |
+| RSI(14) | 44.8 | Operating margin | 22.06% |
+| ATR(14) | 16.75 | Profit margin | 22.31% |
+| SMA20 dist | -10.82% | ROA | 12.69% |
+| SMA50 dist | +0.90% | ROE | 36.08% |
+| SMA200 dist | +18.86% | Revenue (ttm) | $44.49B |
 | 52W high | $250.10 | Revenue growth y/y | -3.50% |
 | 52W low | $123.61 | Inst. ownership | 84.88% |
-| P/E (ttm) | 21.93 | Insider ownership | 0.13% |
-| Forward P/E | 19.13 | Short float | 4.78% |
-| PEG (trailing) | 0.86 | Avg volume | 21,039,544 |
-| P/S | 4.84 | Employees | 52,000 |
-| P/B | 7.92 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/E (ttm) | 21.20 | Insider ownership | 0.13% |
+| Forward P/E | 18.50 | Short float | 4.78% |
+| PEG (trailing) | 0.86 | Avg volume | 21,083,125 |
+| P/S | 4.68 | Employees | 52,000 |
+| P/B | 7.66 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

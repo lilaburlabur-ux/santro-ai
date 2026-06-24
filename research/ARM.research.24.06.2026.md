@@ -4,8 +4,8 @@ Signed file: `ARM.research.24.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $366.39 (2026-06-24, ~15-min delayed) |
-| Market cap | $391.33B |
+| Current price | $359.08 (2026-06-24, ~15-min delayed) |
+| Market cap | $383.53B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: low (expensive), risk: high. |
@@ -15,11 +15,11 @@ Signed file: `ARM.research.24.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +152.61%; price +115.06% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -16.63% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +140.46%; price +109.41% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -18.29% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 18.37%, revenue growth 20.10%. |
-| Value attractiveness | Low (expensive) | Forward P/E 118.80, EV/Sales 78.91. |
-| Risk level | High | Beta 3.79, ATR 9.9% of price, short float 12.74%. |
+| Value attractiveness | Low (expensive) | Forward P/E 116.34, EV/Sales 78.91. |
+| Risk level | High | Beta 3.79, ATR 10.0% of price, short float 12.74%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: low (expensive), risk: high.
 
@@ -36,30 +36,30 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
-| Update: US Equity Indexes Decline Amid Hard Sell-Off in Chipmakers | MT Newswires | 2026-06-23 |
-| US Equity Markets End Lower as Tech Stocks Fall | MT Newswires | 2026-06-23 |
-| Update: US Equity Indexes Mixed Amid Hard Sell-Off in Chipmakers | MT Newswires | 2026-06-23 |
-| Arm Stock Is Up 235% in 2026: Is Today’s 10% Drawdown a Take-Profits Signal? | 24/7 Wall St. | 2026-06-23 |
+| Bernstein Raises its Price Target on Arm Holdings (ARM) | Insider Monkey | 2026-06-24 |
+| AMD Gets a Big Agentic AI Boost | GuruFocus.com | 2026-06-24 |
+| UBS flags these 2 stocks as key beneficiaries of standalone CPU | Investing.com | 2026-06-24 |
+| AMD and Arm Emerge as Key Winners in the Next AI Wave | GuruFocus.com | 2026-06-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $366.39; 52w high $439.46 (-16.63%); 52w low $104.55 (+250.44%) |
-| Trend | +115.06% vs SMA200, +33.70% vs SMA50, -1.18% vs SMA20 |
-| Momentum | RSI(14) 54.0 (neutral) |
-| Volatility | ATR(14) 36.36 (~9.9% of price); beta 3.79 |
-| Setup perspective | -16.63% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $359.08; 52w high $439.46 (-18.29%); 52w low $104.55 (+243.45%) |
+| Trend | +109.41% vs SMA200, +29.13% vs SMA50, -3.64% vs SMA20 |
+| Momentum | RSI(14) 52.7 (neutral) |
+| Volatility | ATR(14) 35.93 (~10.0% of price); beta 3.79 |
+| Setup perspective | -18.29% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -11.2% |
-| Month | +22.9% |
-| Quarter | +167.7% |
-| Half Y | +222.8% |
-| 1Y | +152.6% |
-| YTD | +219.3% |
+| Week | -9.4% |
+| Month | +17.2% |
+| Quarter | +166.1% |
+| Half Y | +214.9% |
+| 1Y | +140.5% |
+| YTD | +213.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,7 +67,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Revenue (ttm) | $4.92B | Revenue growth 20.10% y/y |
 | Profitability | Gross 97.54%, operating 29.53%, net 18.37% | ROA 5.78%, ROE 11.95% |
 | Balance sheet | Cash $3.60B, debt $491.00M | Current ratio 6.00, debt/equity 5.93 |
-| Valuation | P/E 436.18, forward P/E 118.80, P/S 79.54, P/B 47.05 | EV/Sales 78.91, EV/EBITDA 364.63 |
+| Valuation | P/E 427.48, forward P/E 116.34, P/S 77.95, P/B 46.11 | EV/Sales 78.91, EV/EBITDA 364.63 |
 | Growth expectations | Earnings growth 47.90%, EPS q/q 49.00% | Analyst mean target $281.58 (38 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -94,8 +94,8 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Altimeter Capital Management, LP | 1,715,440 | 0.16% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 118.80, EV/Sales 78.91. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 3.79, ATR 9.9% of price, short float 12.74%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 116.34, EV/Sales 78.91. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 3.79, ATR 10.0% of price, short float 12.74%. Size positions accordingly.
 - **Short interest risk:** short float 12.74% can fuel squeezes both ways around news.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,33 +111,33 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $366.39 | EV/Sales | 78.91 |
-| Market cap | $391.33B | EV/EBITDA | 364.63 |
+| Price | $359.08 | EV/Sales | 78.91 |
+| Market cap | $383.53B | EV/EBITDA | 364.63 |
 | Beta | 3.79 | Gross margin | 97.54% |
-| RSI(14) | 54.0 | Operating margin | 29.53% |
-| ATR(14) | 36.36 | Profit margin | 18.37% |
-| SMA20 dist | -1.18% | ROA | 5.78% |
-| SMA50 dist | +33.70% | ROE | 11.95% |
-| SMA200 dist | +115.06% | Revenue (ttm) | $4.92B |
+| RSI(14) | 52.7 | Operating margin | 29.53% |
+| ATR(14) | 35.93 | Profit margin | 18.37% |
+| SMA20 dist | -3.64% | ROA | 5.78% |
+| SMA50 dist | +29.13% | ROE | 11.95% |
+| SMA200 dist | +109.41% | Revenue (ttm) | $4.92B |
 | 52W high | $439.46 | Revenue growth y/y | 20.10% |
 | 52W low | $104.55 | Inst. ownership | 95.42% |
-| P/E (ttm) | 436.18 | Insider ownership | 0.07% |
-| Forward P/E | 118.80 | Short float | 12.74% |
-| PEG (trailing) | 3.18 | Avg volume | 11,641,360 |
-| P/S | 79.54 | Employees | 9,584 |
-| P/B | 47.05 | Analyst rec (1=buy..5=sell) | 1.9 |
+| P/E (ttm) | 427.48 | Insider ownership | 0.07% |
+| Forward P/E | 116.34 | Short float | 12.74% |
+| PEG (trailing) | 3.18 | Avg volume | 11,631,422 |
+| P/S | 77.95 | Employees | 9,584 |
+| P/B | 46.11 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-06-24 | main | TD Cowen | Buy → Buy |
+| 2026-06-24 | main | UBS | Buy → Buy |
 | 2026-06-23 | main | B of A Securities | Neutral → Neutral |
 | 2026-06-18 | down | New Street Research | Buy → Neutral |
 | 2026-06-11 | main | B of A Securities | Neutral → Neutral |
 | 2026-06-04 | main | Mizuho | Outperform → Outperform |
 | 2026-06-01 | main | Barclays | Overweight → Overweight |
 | 2026-06-01 | main | Wells Fargo | Overweight → Overweight |
-| 2026-06-01 | main | Mizuho | Outperform → Outperform |
-| 2026-05-28 | main | Mizuho | Outperform → Outperform |
 
 ## 9. Conclusion
 ARM: High momentum / strong fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

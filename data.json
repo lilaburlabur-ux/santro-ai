@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-24T05:35:21+00:00",
-  "as_of_local": "2026-06-24 05:35:21 UTC",
+  "as_of_utc": "2026-06-24T05:50:28+00:00",
+  "as_of_local": "2026-06-24 05:50:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -75,16 +75,16 @@
           "published": "2026-06-24T03:29:01Z"
         },
         {
+          "title": "AMEN Properties Just Announced a 25% Dividend Increase. What This Means for the High-Yield Royalty Stock.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amen-properties-just-announced-25-233002685.html",
+          "publisher": "Barchart",
+          "published": "2026-06-23T23:30:02Z"
+        },
+        {
           "title": "Broadcom (AVGO) Stock Trades Down, Here Is Why",
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-trades-down-223246211.html",
           "publisher": "StockStory",
           "published": "2026-06-23T22:32:46Z"
-        },
-        {
-          "title": "Nvidia Stock Falls as Tech Selloff Catches Up With Chips",
-          "url": "https://www.barrons.com/articles/nvidia-stock-price-chip-selloff-ca80d4cc?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-06-23T20:05:00Z"
         }
       ]
     },
@@ -153,6 +153,12 @@
       "market_cap": 664839273864.7461,
       "headlines": [
         {
+          "title": "BofA Says Apple\u2019s (AAPL) New Siri Strategy Could Strengthen its AI Position",
+          "url": "https://finance.yahoo.com/technology/ai/articles/bofa-says-apple-aapl-siri-053634927.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-06-24T05:36:34Z"
+        },
+        {
           "title": "Why Intel (INTC) Stock Is Nosediving",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-intc-stock-nosediving-231246035.html",
           "publisher": "StockStory",
@@ -163,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/world-indices/articles/nasdaq-tumbles-more-than-2-in-opening-trading-as-global-tech-sell-off-deepens-150452438.html",
           "publisher": "Washington Post",
           "published": "2026-06-23T22:48:57Z"
-        },
-        {
-          "title": "Wall Street ends lower as AI spending concerns mount",
-          "url": "https://finance.yahoo.com/video/wall-street-ends-lower-ai-224633427.html",
-          "publisher": "Reuters Videos",
-          "published": "2026-06-23T22:46:33Z"
         }
       ]
     },
@@ -206,7 +206,7 @@
       "price": 279.04,
       "previous_close": 307.86,
       "change_pct": -9.36,
-      "market_cap": 244104199475.09766,
+      "market_cap": 244314364875.45346,
       "headlines": [
         {
           "title": "Wall Street ends lower as AI spending concerns mount",
@@ -390,8 +390,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.5,
-          "price": 2619000.0,
+          "change_pct": 2.31,
+          "price": 2614000.0,
           "currency": "KRW"
         },
         {
@@ -399,8 +399,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 8.23,
-          "price": 335500.0,
+          "change_pct": 8.15,
+          "price": 335250.0,
           "currency": "KRW"
         },
         {
@@ -408,8 +408,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 2.28,
-          "price": 94390.0,
+          "change_pct": 3.87,
+          "price": 95860.0,
           "currency": "JPY"
         },
         {
@@ -444,8 +444,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -2.64,
-          "price": 442.5,
+          "change_pct": -2.42,
+          "price": 443.5,
           "currency": "TWD"
         },
         {
@@ -480,8 +480,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.5,
-        "price": 2619000.0,
+        "change_pct": 2.31,
+        "price": 2614000.0,
         "currency": "KRW"
       },
       {
@@ -489,8 +489,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 8.23,
-        "price": 335500.0,
+        "change_pct": 8.15,
+        "price": 335250.0,
         "currency": "KRW"
       },
       {
@@ -498,8 +498,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 2.28,
-        "price": 94390.0,
+        "change_pct": 3.87,
+        "price": 95860.0,
         "currency": "JPY"
       },
       {
@@ -534,8 +534,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -2.64,
-        "price": 442.5,
+        "change_pct": -2.42,
+        "price": 443.5,
         "currency": "TWD"
       },
       {
@@ -557,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 62815.84,
-      "change_pct": -1.78
+      "price": 62825.31,
+      "change_pct": -1.76
     },
     {
       "label": "Gold",
-      "price": 4089.2,
-      "change_pct": -0.99
+      "price": 4092.4,
+      "change_pct": -0.91
     },
     {
       "label": "Nasdaq100",

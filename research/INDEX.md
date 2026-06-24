@@ -1,5 +1,5 @@
-# Watchlist Research Index — 23.06.2026
-> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-06-23.
+# Watchlist Research Index — 24.06.2026
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-06-24.
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
@@ -10,7 +10,7 @@
 | AMD | $847.67B | +305% | 39.7 | 13% | High | Low (expensive) | High |
 | INTC | $664.84B | +528% | 85.5 | -6% | High | Low (expensive) | High |
 | ARM | $391.33B | +153% | 118.8 | 18% | High | Low (expensive) | High |
-| MRVL | $244.31B | +281% | 45.2 | 29% | High | Low (expensive) | High |
+| MRVL | $244.10B | +281% | 45.2 | 29% | High | Low (expensive) | High |
 | QCOM | $215.15B | +38% | 19.1 | 22% | Moderate | Reasonable | High |
 | NXPI | $75.73B | +46% | 16.9 | 21% | High | Reasonable | High |
 | LSCC | $19.81B | +187% | 62.6 | 3% | High | Low (expensive) | High |

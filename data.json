@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-06-24T00:02:41+00:00",
-  "as_of_local": "2026-06-24 00:02:41 UTC",
+  "as_of_utc": "2026-06-24T00:07:40+00:00",
+  "as_of_local": "2026-06-24 00:07:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NXPI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -255,6 +253,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-tech-stocks-getting-hammered-214226305.html",
           "publisher": "LA Times",
           "published": "2026-06-23T21:42:26Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors",
+      "price": 299.94,
+      "previous_close": 323.24,
+      "change_pct": -7.21,
+      "market_cap": 75726176051.64447,
+      "headlines": [
+        {
+          "title": "NXP Semiconductors and Universal Display Shares Are Falling, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-universal-display-shares-233646222.html",
+          "publisher": "StockStory",
+          "published": "2026-06-23T23:36:46Z"
+        },
+        {
+          "title": "Qualcomm Nears Deal for AI Chip Startup Modular",
+          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-nears-deal-ai-chip-210300507.html",
+          "publisher": "Bloomberg",
+          "published": "2026-06-22T21:03:00Z"
+        },
+        {
+          "title": "NXP Semiconductors N.V. (NXPI) Reports Quarterly Dividend",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-n-v-nxpi-114136459.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-06-21T11:41:36Z"
         }
       ]
     },
@@ -531,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 62718.0,
-      "change_pct": -1.93
+      "price": 62705.69,
+      "change_pct": -1.95
     },
     {
       "label": "Gold",
-      "price": 4114.5,
-      "change_pct": -1.61
+      "price": 4118.0,
+      "change_pct": -1.53
     },
     {
       "label": "Nasdaq100",

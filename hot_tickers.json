@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-24T14:29:01+00:00",
+  "as_of": "2026-06-24T14:44:16+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "OKLO",
-   "company": "Oklo Inc",
-   "move_pct": -5.14,
-   "price": 54.25,
-   "volume": 2620448,
-   "volume_vs_avg": "~0.2x",
-   "heat_score": 34,
-   "direction": "down",
-   "why": "OKLO's Licensing Strategy Aims to Support Reactor Rollout",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/energy/articles/oklos-licensing-strategy-aims-support-122000432.html",
-   "published": "2026-06-24T12:20:00Z",
-   "sector": "Data Center, Power & Energy"
-  }
- ]
+ "hot_tickers": []
 }

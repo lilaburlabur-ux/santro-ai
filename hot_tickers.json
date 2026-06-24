@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-24T19:44:29+00:00",
+  "as_of": "2026-06-24T19:59:37+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,9 +11,9 @@
    "rank": 1,
    "ticker": "BBAI",
    "company": "BigBear.ai Holdings Inc",
-   "move_pct": -6.59,
-   "price": 3.52,
-   "volume": 38356801,
+   "move_pct": -6.37,
+   "price": 3.53,
+   "volume": 40641668,
    "volume_vs_avg": "~0.9x",
    "heat_score": 42,
    "direction": "down",
@@ -22,38 +22,6 @@
    "source_url": "https://finance.yahoo.com/technology/ai/articles/bigbear-ai-becoming-pure-play-164000788.html",
    "published": "2026-06-24T16:40:00Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 2,
-   "ticker": "OKLO",
-   "company": "Oklo Inc",
-   "move_pct": -6.55,
-   "price": 53.44,
-   "volume": 7124815,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 41,
-   "direction": "down",
-   "why": "Why Oklo Stock Keeps Going Down",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-oklo-stock-keeps-going-155025712.html",
-   "published": "2026-06-24T15:50:25Z",
-   "sector": "Data Center, Power & Energy"
-  },
-  {
-   "rank": 3,
-   "ticker": "ORCL",
-   "company": "Oracle Corp",
-   "move_pct": -5.31,
-   "price": 156.39,
-   "volume": 31126034,
-   "volume_vs_avg": "~1.3x",
-   "heat_score": 40,
-   "direction": "down",
-   "why": "Retail Investors Sold NVIDIA, Microsoft, and Oracle to Fund SpaceX Buys. What\u2019s the Next \u2018Mega-Cap Tech Stock?\u2019",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/retail-investors-sold-nvidia-microsoft-183145367.html",
-   "published": "2026-06-24T18:31:45Z",
-   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

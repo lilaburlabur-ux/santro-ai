@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-24T06:05:39+00:00",
-  "as_of_local": "2026-06-24 06:05:39 UTC",
+  "as_of_utc": "2026-06-24T06:20:40+00:00",
+  "as_of_local": "2026-06-24 06:20:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -19,16 +19,16 @@
           "published": "2026-06-22T14:34:22Z"
         },
         {
+          "title": "Is SpaceX a Buy Right Now While It's Down from Its Peak? Here's My Honest Take.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-buy-now-while-down-060500537.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-24T06:05:00Z"
+        },
+        {
           "title": "SpaceX Stock Soared on Day One. Is the Stock a Buy at $2 Trillion?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-soared-day-one-052500087.html",
           "publisher": "Motley Fool",
           "published": "2026-06-24T05:25:00Z"
-        },
-        {
-          "title": "Qualcomm in talks to provide custom chip-design services to ByteDance, sources say",
-          "url": "https://finance.yahoo.com/technology/articles/qualcomm-talks-custom-chip-design-043638832.html",
-          "publisher": "Reuters",
-          "published": "2026-06-24T04:36:38Z"
         }
       ]
     },
@@ -41,6 +41,12 @@
       "market_cap": 2263325470506.8105,
       "headlines": [
         {
+          "title": "TSM Stock Jumps Overnight On Reports Of Foundry Price Hike Amid Massive Capacity Expansion",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsm-stock-jumps-overnight-reports-052844936.html",
+          "publisher": "Stocktwits",
+          "published": "2026-06-24T05:28:44Z"
+        },
+        {
           "title": "Morning Bid: Time to cash in your chips?",
           "url": "https://finance.yahoo.com/markets/articles/morning-bid-time-cash-chips-043418320.html",
           "publisher": "Reuters",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-manufacturing-nyse-tsm-043006965.html",
           "publisher": "Simply Wall St.",
           "published": "2026-06-24T04:30:06Z"
-        },
-        {
-          "title": "Chip Stocks Tumble From Record Heights, Lead Tech Wreck",
-          "url": "https://www.investors.com/news/technology/chip-stocks-tumble-from-record-heights-micron-sandisk-nvidia/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-06-23T20:36:57Z"
         }
       ]
     },
@@ -103,16 +103,16 @@
           "published": "2026-06-23T23:00:00Z"
         },
         {
+          "title": "KOSPI\u2019s Recovery Fades as Early Gains Evaporate from SK Hynix",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/kospi-recovery-fades-early-gains-051648376.html",
+          "publisher": "BeInCrypto",
+          "published": "2026-06-24T05:16:48Z"
+        },
+        {
           "title": "Morning Bid: Time to cash in your chips?",
           "url": "https://finance.yahoo.com/markets/articles/morning-bid-time-cash-chips-043418320.html",
           "publisher": "Reuters",
           "published": "2026-06-24T04:34:18Z"
-        },
-        {
-          "title": "Will Micron Soar on Wednesday? Watch These 3 Things When It Reports Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-soar-wednesday-watch-3-032000166.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-24T03:20:00Z"
         }
       ]
     },
@@ -390,8 +390,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.31,
-          "price": 2614000.0,
+          "change_pct": 1.45,
+          "price": 2592000.0,
           "currency": "KRW"
         },
         {
@@ -399,8 +399,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 8.39,
-          "price": 336000.0,
+          "change_pct": 8.71,
+          "price": 337000.0,
           "currency": "KRW"
         },
         {
@@ -408,8 +408,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 4.32,
-          "price": 96280.0,
+          "change_pct": 1.9,
+          "price": 94040.0,
           "currency": "JPY"
         },
         {
@@ -480,8 +480,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.31,
-        "price": 2614000.0,
+        "change_pct": 1.45,
+        "price": 2592000.0,
         "currency": "KRW"
       },
       {
@@ -489,8 +489,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 8.39,
-        "price": 336000.0,
+        "change_pct": 8.71,
+        "price": 337000.0,
         "currency": "KRW"
       },
       {
@@ -498,8 +498,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 4.32,
-        "price": 96280.0,
+        "change_pct": 1.9,
+        "price": 94040.0,
         "currency": "JPY"
       },
       {
@@ -557,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 62697.97,
-      "change_pct": -1.96
+      "price": 62715.34,
+      "change_pct": -1.93
     },
     {
       "label": "Gold",
-      "price": 4090.0,
-      "change_pct": -0.97
+      "price": 4108.9,
+      "change_pct": -0.51
     },
     {
       "label": "Nasdaq100",

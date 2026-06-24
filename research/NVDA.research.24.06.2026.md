@@ -36,7 +36,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech stocks live: Micron beats estimates, pushing shares of chip stocks broadly higher after tumbling earlier this week | Yahoo Finance | 2026-06-22 |
+| Tech stocks live: Micron stock jumps over 12% on earnings beat after tumbling earlier this week | Yahoo Finance | 2026-06-22 |
 | Alphabet makes the Dow look more like the Nasdaq | Yahoo Finance | 2026-06-24 |
 | OpenAI, Broadcom form new partnership to make an AI inference chip | Yahoo Finance Video | 2026-06-24 |
 | Big Tech's $2.7 trillion AI bill comes due: Chart of the Day | Yahoo Finance | 2026-06-24 |

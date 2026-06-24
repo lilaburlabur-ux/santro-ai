@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech stocks live: Micron stock jumps over 12% on earnings beat after tumbling earlier this week | Yahoo Finance | 2026-06-22 |
+| Micron's 'phenomenal' Q3 earnings: Analyst takeaways | Yahoo Finance Video | 2026-06-24 |
+| Micron's blowout earnings just reset the AI memory trade | Yahoo Finance | 2026-06-24 |
 | Big Tech ETF flows have been 'absolutely bananas' this year. Here's why. | Yahoo Finance Video | 2026-06-24 |
 | Micron to report Q3 earnings after market close: What to expect | Yahoo Finance Video | 2026-06-24 |
-| Micron earnings, US new home sales: What to Watch | Yahoo Finance Video | 2026-06-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Profitability | Gross 58.44%, operating 67.62%, net 41.49% | ROA 20.14%, ROE 39.82% |
 | Balance sheet | Cash $14.59B, debt $10.80B | Current ratio 2.90, debt/equity 14.90 |
 | Valuation | P/E 49.60, forward P/E 8.61, P/S 20.35, P/B 16.32 | EV/Sales 20.34, EV/EBITDA 32.13 |
-| Growth expectations | Earnings growth 756.00%, EPS q/q 770.80% | Analyst mean target $1,022.92 (39 analysts) |
+| Growth expectations | Earnings growth 756.00%, EPS q/q 770.80% | Analyst mean target $1,048.21 (39 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

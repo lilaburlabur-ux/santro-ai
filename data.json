@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-06-23T23:57:34+00:00",
-  "as_of_local": "2026-06-23 23:57:34 UTC",
+  "as_of_utc": "2026-06-24T00:02:41+00:00",
+  "as_of_local": "2026-06-24 00:02:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-06-22T14:34:22Z"
         },
         {
-          "title": "SpaceX Just Inked a New AI Deal Worth Up to $6.3 Billion",
-          "url": "https://finance.yahoo.com/technology/ai/articles/spacex-just-inked-ai-deal-234053524.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-23T23:40:53Z"
+          "title": "Why Seagate (STX) Stock Is Falling Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-seagate-stx-stock-falling-235246236.html",
+          "publisher": "StockStory",
+          "published": "2026-06-23T23:52:46Z"
         },
         {
-          "title": "NXP Semiconductors and Universal Display Shares Are Falling, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-universal-display-shares-233646222.html",
-          "publisher": "StockStory",
-          "published": "2026-06-23T23:36:46Z"
+          "title": "SpaceX Won't Use Traditional Wire Services to Share Financial Results. What That Means for Investors.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-wont-traditional-wire-services-235000340.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-23T23:50:00Z"
         }
       ]
     },
@@ -129,6 +131,18 @@
           "url": "https://finance.yahoo.com/technology/live/tech-stocks-live-stocks-fall-on-ai-trade-concerns-143422690.html",
           "publisher": "Yahoo Finance",
           "published": "2026-06-22T14:34:22Z"
+        },
+        {
+          "title": "SOXL\u2019s 23% Single-Day Collapse Exposes the Real Price of 3X Leverage",
+          "url": "https://finance.yahoo.com/markets/options/articles/soxl-23-single-day-collapse-225726238.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-06-23T22:57:26Z"
+        },
+        {
+          "title": "Why AMD (AMD) Stock Is Trading Lower Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-amd-amd-stock-trading-225646127.html",
+          "publisher": "StockStory",
+          "published": "2026-06-23T22:56:46Z"
         }
       ]
     },
@@ -241,34 +255,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-tech-stocks-getting-hammered-214226305.html",
           "publisher": "LA Times",
           "published": "2026-06-23T21:42:26Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 299.94,
-      "previous_close": 323.24,
-      "change_pct": -7.21,
-      "market_cap": 75726176051.64447,
-      "headlines": [
-        {
-          "title": "NXP Semiconductors and Universal Display Shares Are Falling, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-universal-display-shares-233646222.html",
-          "publisher": "StockStory",
-          "published": "2026-06-23T23:36:46Z"
-        },
-        {
-          "title": "Qualcomm Nears Deal for AI Chip Startup Modular",
-          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-nears-deal-ai-chip-210300507.html",
-          "publisher": "Bloomberg",
-          "published": "2026-06-22T21:03:00Z"
-        },
-        {
-          "title": "NXP Semiconductors N.V. (NXPI) Reports Quarterly Dividend",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-n-v-nxpi-114136459.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-21T11:41:36Z"
         }
       ]
     },
@@ -545,13 +531,13 @@
     },
     {
       "label": "BTC",
-      "price": 62655.05,
-      "change_pct": -2.03
+      "price": 62718.0,
+      "change_pct": -1.93
     },
     {
       "label": "Gold",
-      "price": 4111.8,
-      "change_pct": -1.68
+      "price": 4114.5,
+      "change_pct": -1.61
     },
     {
       "label": "Nasdaq100",

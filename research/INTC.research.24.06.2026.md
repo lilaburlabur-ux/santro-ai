@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Why tech stock turmoil makes a lot of sense, in one chart | Yahoo Finance | 2026-06-24 |
+| Synopsys (SNPS) Stock Gets Fair Value Trim As Analysts Weigh Ansys And IP Recovery | Simply Wall St. | 2026-06-24 |
 | AI Chip Stocks Stage Rebound: Nvidia, AMD Lead Recovery Ahead of Micron Earnings Shock | GuruFocus.com | 2026-06-24 |
 | Intel Is Up 570% in the Past Year. Time to Buy the Comeback Story or Take Profits? | Motley Fool | 2026-06-24 |
-| Why Nancy Pelosi Is Betting Big on Intel and Uber Right Now | GuruFocus.com | 2026-06-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

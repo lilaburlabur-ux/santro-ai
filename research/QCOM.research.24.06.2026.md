@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech stocks live: Micron beats estimates, pushing shares of chip stocks broadly higher after tumbling earlier this week | Yahoo Finance | 2026-06-22 |
 | Qualcomm debuts line of AI data center chips and systems, increasing competition with Nvidia | Yahoo Finance | 2026-06-24 |
 | Qualcomm Strikes $3.9 Billion Deal for AI Software Firm Modular | MT Newswires | 2026-06-24 |
 | AI Chip Stocks Stage Rebound: Nvidia, AMD Lead Recovery Ahead of Micron Earnings Shock | GuruFocus.com | 2026-06-24 |
+| QUALCOMM Inc. (QCOM) Is One Of Billionaire David Tepper’s Oldest AI Stocks | Insider Monkey | 2026-06-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

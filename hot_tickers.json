@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-25T11:26:41+00:00",
+  "as_of": "2026-06-25T11:41:48+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "MU",
    "company": "Micron Technology Inc",
-   "move_pct": 18.02,
-   "price": 1237.4,
+   "move_pct": 17.45,
+   "price": 1231.5,
    "volume": 66708100,
    "volume_vs_avg": "~1.2x",
    "heat_score": 84,
@@ -20,23 +20,23 @@
    "why": "Dow Jones Futures Rise As Micron Earnings Send Sandisk, Techs Soaring; Fed Inflation Data Due",
    "catalyst_type": "earnings",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-micron-earnings-sandisk-memory-chip-stocks-fed-inflation-data/?src=A00220&yptr=yahoo",
-   "published": "2026-06-25T10:49:37Z",
+   "published": "2026-06-25T11:24:06Z",
    "sector": "AI Chips & Compute"
   },
   {
    "rank": 2,
    "ticker": "QCOM",
    "company": "Qualcomm Inc",
-   "move_pct": 10.16,
-   "price": 217.47,
+   "move_pct": 10.32,
+   "price": 217.79,
    "volume": 25160000,
    "volume_vs_avg": "~1.1x",
    "heat_score": 66,
    "direction": "up",
-   "why": "Micron, Qualcomm surge premarket; Hertz slips",
+   "why": "Qualcomm Stock Surges After Chip Maker Reveals Mystery Big Tech Customer",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/micron-qualcomm-surge-premarket-hertz-095432966.html",
-   "published": "2026-06-25T09:54:32Z",
+   "source_url": "https://www.barrons.com/articles/qualcomm-stock-price-meta-microsoft-b8a1e776?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-06-25T10:02:00Z",
    "sector": "AI Chips & Compute"
   }
  ]

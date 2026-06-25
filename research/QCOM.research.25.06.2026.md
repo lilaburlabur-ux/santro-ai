@@ -38,8 +38,8 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 |---|---|---|
 | Sandisk, Western Digital, and others soar as Micron results  'justify elevated valuations' | Yahoo Finance | 2026-06-25 |
 | Qualcomm raises data center outlook on AI demand | Yahoo Finance Video | 2026-06-25 |
-| Nasdaq, S&P end lower as tech megacap declines outweigh upbeat chip outlook | Reuters | 2026-06-25 |
-| World stocks climb on chip rally; dollar steadies near one-year high | Reuters | 2026-06-25 |
+| Qualcomm Stock Rises As Chipmaker Jumps Into AI Data Center Market | Investor's Business Daily | 2026-06-25 |
+| Wall St ends mixed as tech megacap declines outweigh upbeat chip outlook | Reuters | 2026-06-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -128,6 +128,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-06-25 | main | Barclays | Underweight → Underweight |
 | 2026-06-25 | main | UBS | Neutral → Neutral |
 | 2026-06-25 | main | Citigroup | Neutral → Neutral |
 | 2026-06-25 | up | Morgan Stanley | Underweight → Equal-Weight |
@@ -135,7 +136,6 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | 2026-06-25 | main | Wells Fargo | Equal-Weight → Equal-Weight |
 | 2026-06-25 | main | RBC Capital | Sector Perform → Sector Perform |
 | 2026-06-25 | reit | TD Cowen | Buy → Buy |
-| 2026-06-25 | main | Susquehanna | Neutral → Neutral |
 
 ## 9. Conclusion
 QCOM: Moderate momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

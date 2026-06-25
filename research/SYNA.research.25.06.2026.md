@@ -36,10 +36,10 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 
 | Headline | Source | Date |
 |---|---|---|
+| Onsemi to buy Synaptics in $7 billion all-stock deal | Reuters | 2026-06-25 |
 | Will Synaptics' (SYNA) Edge AI UAV Collaboration Redefine Its Core IoT Investment Narrative? | Simply Wall St. | 2026-06-04 |
 | Northland Raises its Price Target on Synaptics (SYNA) | Insider Monkey | 2026-05-22 |
 | Synaptics (SYNA) Is Up 2.23% in One Week: What You Should Know | Zacks | 2026-05-20 |
-| A Look At Synaptics (SYNA) Valuation After A Sharp Momentum-Driven Share Price Move | Simply Wall St. | 2026-05-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -126,7 +126,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Forward P/E | 23.82 | Short float | 19.77% |
 | PEG (trailing) | — | Avg volume | 870,879 |
 | P/S | 4.14 | Employees | 1,700 |
-| P/B | 3.58 | Analyst rec (1=buy..5=sell) | 1.7 |
+| P/B | 3.58 | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

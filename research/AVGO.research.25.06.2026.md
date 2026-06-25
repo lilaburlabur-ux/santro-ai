@@ -36,15 +36,15 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Battle of the Artificial Intelligence (AI) Computing Companies: Is AMD, Broadcom, Nvidia, or Marvell the Best Stock to Buy Now? | Motley Fool | 2026-06-25 |
+| Melius Research: “Buy the chip dip, skip hyperscalers” until AI payoff becomes clear | 24/7 Wall St. | 2026-06-25 |
 | Nvidia Stock Slips Below $200. Competition Fears Are Growing. | Barrons.com | 2026-06-25 |
 | The Supply-Chain Bet That Underpins The NVIDIA Stock Story | Trefis | 2026-06-25 |
-| BofA Says Micron Is Trading Under 10x Earnings and Wall Street Is Completely Missing the Story | 24/7 Wall St. | 2026-06-25 |
-| Why Goldman is cautious on outperforming Intel stock | Investing.com | 2026-06-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $378.91; 52w high $480.81 (-21.19%); 52w low $262.73 (+44.22%) |
+| Price vs 52-week range | Close $378.91; 52w high $480.81 (-21.19%); 52w low $262.72 (+44.22%) |
 | Trend | +5.29% vs SMA200, -8.03% vs SMA50, -6.73% vs SMA20 |
 | Momentum | RSI(14) 43.4 (neutral) |
 | Volatility | ATR(14) 19.86 (~5.2% of price); beta 1.43 |
@@ -118,7 +118,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | SMA50 dist | -8.03% | ROE | 37.28% |
 | SMA200 dist | +5.29% | Revenue (ttm) | $75.46B |
 | 52W high | $480.81 | Revenue growth y/y | 47.90% |
-| 52W low | $262.73 | Inst. ownership | 79.91% |
+| 52W low | $262.72 | Inst. ownership | 79.91% |
 | P/E (ttm) | 63.15 | Insider ownership | 1.94% |
 | Forward P/E | 19.54 | Short float | 1.25% |
 | PEG (trailing) | 0.69 | Avg volume | 26,050,798 |

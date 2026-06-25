@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Sandisk, Western Digital, and others soar as Micron results  'justify elevated valuations' | Yahoo Finance | 2026-06-25 |
+| Breakout Watch: This Firm Helps Nvidia, TSM And Intel Bring AI Ideas To Market | Investor's Business Daily | 2026-06-25 |
 | Intel vs. TSMC: Which is the Better Semiconductor Stock to Buy Right Now? | Motley Fool | 2026-06-25 |
-| Apple Doesn't Risk Customer Churn Following Price Increases, Wedbush Says | MT Newswires | 2026-06-25 |
-| The Supply-Chain Bet That Underpins The NVIDIA Stock Story | Trefis | 2026-06-25 |
+| US Invests $250 Million in Billionaire’s Startup for Chip Making | Bloomberg | 2026-06-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

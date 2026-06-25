@@ -39,7 +39,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Sandisk, Western Digital, and others soar as Micron results  'justify elevated valuations' | Yahoo Finance | 2026-06-25 |
 | Big Tech stocks tumble while Micron continues to gain on Q3 earnings | Yahoo Finance Video | 2026-06-25 |
 | Micron stock soars after blowout earnings expose AI's memory bottleneck | Yahoo Finance | 2026-06-24 |
-| Micron's 'phenomenal' Q3 earnings: Analyst takeaways | Yahoo Finance Video | 2026-06-24 |
+| Amazon Stock Slips Below Key Level. Why It's A Rough Day For Cloud Hyperscaler Stocks. | Investor's Business Daily | 2026-06-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -129,6 +129,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-06-25 | main | Barclays | Overweight → Overweight |
 | 2026-06-25 | main | Citigroup | Buy → Buy |
 | 2026-06-25 | main | Goldman Sachs | Neutral → Neutral |
 | 2026-06-25 | main | Morgan Stanley | Overweight → Overweight |
@@ -136,7 +137,6 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | 2026-06-25 | main | Deutsche Bank | Buy → Buy |
 | 2026-06-25 | main | Wedbush | Outperform → Outperform |
 | 2026-06-25 | main | Mizuho | Outperform → Outperform |
-| 2026-06-25 | main | DA Davidson | Buy → Buy |
 
 ## 9. Conclusion
 MU: High momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

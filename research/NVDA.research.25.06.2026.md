@@ -39,7 +39,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Qualcomm jumps as it looks beyond smartphones to cash in on the AI boom | Yahoo Finance | 2026-06-24 |
 | Qualcomm debuts line of AI data center chips and systems, increasing competition with Nvidia | Yahoo Finance | 2026-06-24 |
 | Micron Q3 earnings: How much higher can this chip stock run? | Yahoo Finance Video | 2026-06-24 |
-| Is NVIDIA (NVDA) One of the Most Promising AI Stocks to Buy and Hold for the Next 2 Years? | Insider Monkey | 2026-06-25 |
+| SpaceX Stock Is Down 23% From Its Post-IPO High. History Says This Will Happen Next. (Hint: It's a Big Move.) | Motley Fool | 2026-06-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -121,7 +121,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | 52W low | $147.70 | Inst. ownership | 70.87% |
 | P/E (ttm) | 30.47 | Insider ownership | 3.98% |
 | Forward P/E | 15.63 | Short float | 1.22% |
-| PEG (trailing) | 0.61 | Avg volume | 161,916,554 |
+| PEG (trailing) | 0.61 | Avg volume | 161,737,354 |
 | P/S | 19.01 | Employees | 42,000 |
 | P/B | 24.66 | Analyst rec (1=buy..5=sell) | 1.3 |
 

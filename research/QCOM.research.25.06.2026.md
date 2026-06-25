@@ -67,7 +67,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $44.49B | Revenue growth -3.50% y/y |
 | Profitability | Gross 54.80%, operating 22.06%, net 22.31% | ROA 12.69%, ROE 36.08% |
 | Balance sheet | Cash $9.80B, debt $15.27B | Current ratio 2.37, debt/equity 55.98 |
-| Valuation | P/E 21.23, forward P/E 18.51, P/S 4.68, P/B 7.66 | EV/Sales 4.80, EV/EBITDA 16.42 |
+| Valuation | P/E 21.23, forward P/E 18.51, P/S 4.68, P/B 7.66 | EV/Sales 4.80, EV/EBITDA 16.43 |
 | Growth expectations | Earnings growth 173.00%, EPS q/q 162.10% | Analyst mean target $186.50 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,7 +110,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $197.41 | EV/Sales | 4.80 |
-| Market cap | $208.07B | EV/EBITDA | 16.42 |
+| Market cap | $208.07B | EV/EBITDA | 16.43 |
 | Beta | 1.60 | Gross margin | 54.80% |
 | RSI(14) | 44.8 | Operating margin | 22.06% |
 | ATR(14) | 16.75 | Profit margin | 22.31% |

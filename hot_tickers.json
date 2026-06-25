@@ -1,10 +1,59 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-25T00:50:24+00:00",
+  "as_of": "2026-06-25T08:03:45+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "MU",
+   "company": "Micron Technology Inc",
+   "move_pct": 17.79,
+   "price": 1235.0,
+   "volume": 66708100,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 84,
+   "direction": "up",
+   "why": "Japan's Nikkei Hits Record High After Micron's Blockbuster Results Soothe Investor Concerns",
+   "catalyst_type": "earnings",
+   "source_url": "https://www.barrons.com/livecoverage/stock-market-news-today-062526/card/japan-s-nikkei-hits-record-high-after-micron-s-blockbuster-results-soothe-investor-concerns-JVObi4NMtoGy6Bh3fu93?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-06-25T07:51:40Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
+   "ticker": "QCOM",
+   "company": "Qualcomm Inc",
+   "move_pct": 12.96,
+   "price": 223.0,
+   "volume": 25160000,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 76,
+   "direction": "up",
+   "why": "Nasdaq futures jump 2% as Micron, Qualcomm forecasts relieve investors",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-jump-2-micron-073003123.html",
+   "published": "2026-06-25T07:30:03Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 3,
+   "ticker": "INTC",
+   "company": "Intel Corp",
+   "move_pct": 5.89,
+   "price": 139.4,
+   "volume": 103472200,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 39,
+   "direction": "up",
+   "why": "Mizuho Raises Price Target on Intel (INTC) to $135 from $128",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/mizuho-raises-price-target-intel-062411594.html",
+   "published": "2026-06-25T06:24:11Z",
+   "sector": "AI Chips & Compute"
+  }
+ ]
 }

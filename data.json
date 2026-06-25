@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-25T21:23:23+00:00",
-  "as_of_local": "2026-06-25 21:23:23 UTC",
+  "as_of_utc": "2026-06-25T21:27:56+00:00",
+  "as_of_local": "2026-06-25 21:27:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -206,7 +206,7 @@
       "price": 281.26,
       "previous_close": 276.7,
       "change_pct": 1.65,
-      "market_cap": 246046256542.96875,
+      "market_cap": 246258093988.30396,
       "headlines": [
         {
           "title": "Sandisk, Western Digital, and others soar as Micron results  'justify elevated valuations'",
@@ -321,6 +321,12 @@
       "market_cap": 4853666095.821571,
       "headlines": [
         {
+          "title": "Onsemi bets on physical AI with $7 billion Synaptics acquisition",
+          "url": "https://finance.yahoo.com/technology/ai/articles/onsemi-bets-physical-ai-7-212251711.html",
+          "publisher": "Investing.com",
+          "published": "2026-06-25T21:22:51Z"
+        },
+        {
           "title": "Onsemi to buy Synaptics in $7 billion all-stock deal",
           "url": "https://finance.yahoo.com/technology/ai/articles/onsemi-buy-synaptics-7-billion-202231775.html",
           "publisher": "Reuters",
@@ -331,12 +337,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-edge-ai-uav-160949095.html",
           "publisher": "Simply Wall St.",
           "published": "2026-06-04T16:09:49Z"
-        },
-        {
-          "title": "Northland Raises its Price Target on Synaptics (SYNA)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/northland-raises-price-target-synaptics-164801380.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-05-22T16:48:01Z"
         }
       ]
     },
@@ -390,8 +390,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 11.29,
-          "price": 2917000.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "KRW"
         },
         {
@@ -480,8 +480,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 11.29,
-        "price": 2917000.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "KRW"
       },
       {
@@ -557,8 +557,8 @@
     },
     {
       "label": "BTC",
-      "price": 59519.06,
-      "change_pct": -2.42
+      "price": 59566.0,
+      "change_pct": -2.34
     },
     {
       "label": "Gold",

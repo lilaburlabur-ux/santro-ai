@@ -4,8 +4,8 @@ Signed file: `SYNA.research.25.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $130.11 (2026-06-25, ~15-min delayed) |
-| Market cap | $5.03B |
+| Current price | $125.62 (2026-06-25, ~15-min delayed) |
+| Market cap | $4.85B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `SYNA.research.25.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +104.67%; price +51.63% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -11.83% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +90.65%; price +45.93% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -14.87% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-4.10%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 24.67, EV/Sales 4.70. |
-| Risk level | High | Beta 1.96, ATR 7.0% of price, short float 19.77%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 23.82, EV/Sales 4.70. |
+| Risk level | High | Beta 1.96, ATR 7.5% of price, short float 19.77%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
 
@@ -44,22 +44,22 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $130.11; 52w high $147.57 (-11.83%); 52w low $58.52 (+122.33%) |
-| Trend | +51.63% vs SMA200, +9.91% vs SMA50, -5.03% vs SMA20 |
-| Momentum | RSI(14) 49.1 (neutral) |
-| Volatility | ATR(14) 9.11 (~7.0% of price); beta 1.96 |
-| Setup perspective | -11.83% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $125.62; 52w high $147.57 (-14.87%); 52w low $58.52 (+114.66%) |
+| Trend | +45.93% vs SMA200, +5.25% vs SMA50, -7.77% vs SMA20 |
+| Momentum | RSI(14) 46.2 (neutral) |
+| Volatility | ATR(14) 9.40 (~7.5% of price); beta 1.96 |
+| Setup perspective | -14.87% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.6% |
-| Month | -9.5% |
-| Quarter | +70.9% |
-| Half Y | +75.5% |
-| 1Y | +104.7% |
-| YTD | +71.8% |
+| Week | -5.9% |
+| Month | -14.9% |
+| Quarter | +67.6% |
+| Half Y | +68.7% |
+| 1Y | +90.7% |
+| YTD | +65.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,7 +67,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Revenue (ttm) | $1.17B | Revenue growth 10.40% y/y |
 | Profitability | Gross 43.61%, operating -4.32%, net -4.10% | ROA -1.75%, ROE -3.50% |
 | Balance sheet | Cash $404.40M, debt $879.40M | Current ratio 3.04, debt/equity 64.72 |
-| Valuation | P/E —, forward P/E 24.67, P/S 4.29, P/B 3.71 | EV/Sales 4.70, EV/EBITDA 62.45 |
+| Valuation | P/E —, forward P/E 23.82, P/S 4.14, P/B 3.58 | EV/Sales 4.70, EV/EBITDA 62.45 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $129.64 (11 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -94,8 +94,8 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Geode Capital Management, LLC | 1,033,212 | 2.67% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 24.67, EV/Sales 4.70. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.96, ATR 7.0% of price, short float 19.77%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 23.82, EV/Sales 4.70. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.96, ATR 7.5% of price, short float 19.77%. Size positions accordingly.
 - **Short interest risk:** short float 19.77% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -112,21 +112,21 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $130.11 | EV/Sales | 4.70 |
-| Market cap | $5.03B | EV/EBITDA | 62.45 |
+| Price | $125.62 | EV/Sales | 4.70 |
+| Market cap | $4.85B | EV/EBITDA | 62.45 |
 | Beta | 1.96 | Gross margin | 43.61% |
-| RSI(14) | 49.1 | Operating margin | -4.32% |
-| ATR(14) | 9.11 | Profit margin | -4.10% |
-| SMA20 dist | -5.03% | ROA | -1.75% |
-| SMA50 dist | +9.91% | ROE | -3.50% |
-| SMA200 dist | +51.63% | Revenue (ttm) | $1.17B |
+| RSI(14) | 46.2 | Operating margin | -4.32% |
+| ATR(14) | 9.40 | Profit margin | -4.10% |
+| SMA20 dist | -7.77% | ROA | -1.75% |
+| SMA50 dist | +5.25% | ROE | -3.50% |
+| SMA200 dist | +45.93% | Revenue (ttm) | $1.17B |
 | 52W high | $147.57 | Revenue growth y/y | 10.40% |
 | 52W low | $58.52 | Inst. ownership | 110.73% |
 | P/E (ttm) | — | Insider ownership | 2.03% |
-| Forward P/E | 24.67 | Short float | 19.77% |
+| Forward P/E | 23.82 | Short float | 19.77% |
 | PEG (trailing) | — | Avg volume | 870,879 |
-| P/S | 4.29 | Employees | 1,700 |
-| P/B | 3.71 | Analyst rec (1=buy..5=sell) | 1.7 |
+| P/S | 4.14 | Employees | 1,700 |
+| P/B | 3.58 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

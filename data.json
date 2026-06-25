@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-06-25T21:07:42+00:00",
-  "as_of_local": "2026-06-25 21:07:42 UTC",
+  "as_of_utc": "2026-06-25T21:12:50+00:00",
+  "as_of_local": "2026-06-25 21:12:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-tsmc-better-semiconductor-200800378.html",
           "publisher": "Motley Fool",
           "published": "2026-06-25T20:08:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 347.71,
-      "previous_close": 359.08,
-      "change_pct": -3.17,
-      "market_cap": 369982145007.6532,
-      "headlines": [
-        {
-          "title": "Forget the Cellphones: BlackBerry Shares Jump 23% as an AI Play",
-          "url": "https://www.barrons.com/articles/blackberry-stock-ai-2be27207?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-06-25T19:13:00Z"
-        },
-        {
-          "title": "Is Arm Holdings a Buy Near $347? The Case for Double-Digit Upside",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-buy-near-347-183534957.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-06-25T18:35:34Z"
-        },
-        {
-          "title": "Micron and Qualcomm forecasts ignite $400 billion AI chip stock rally",
-          "url": "https://finance.yahoo.com/technology/ai/articles/micron-qualcomm-forecasts-ignite-400-230933990.html",
-          "publisher": "Reuters",
-          "published": "2026-06-24T23:09:33Z"
         }
       ]
     },
@@ -557,12 +531,12 @@
     },
     {
       "label": "BTC",
-      "price": 59413.99,
-      "change_pct": -2.59
+      "price": 59440.09,
+      "change_pct": -2.55
     },
     {
       "label": "Gold",
-      "price": 4041.8,
+      "price": 4041.6,
       "change_pct": 1.29
     },
     {

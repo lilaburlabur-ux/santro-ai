@@ -1,0 +1,151 @@
+# MU Research Report
+**Micron Technology, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+Signed file: `MU.research.25.06.2026`
+
+| Field | Value |
+|---|---|
+| Current price | $1,048.51 (2026-06-25, ~15-min delayed) |
+| Market cap | $1.18T |
+| Sector / Industry | Technology / Semiconductors |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
+
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-06-25.
+
+## 1. Executive Summary
+| Area | Score / Read | Reason |
+|---|---|---|
+| Technical momentum | High | 1Y +760.93%; price +152.46% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -13.44% from 52w high; no clean fresh pivot by default. |
+| Fundamental quality | Strong | Profit margin 41.49%, revenue growth 196.30%. |
+| Value attractiveness | Reasonable | Forward P/E 8.11, EV/Sales 20.28. |
+| Risk level | High | Beta 2.17, ATR 8.3% of price, short float 3.34%. |
+
+**Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
+
+**Key questions before any trade (standard):**
+- Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
+- Where is the actual invalidation level? If that level is too far away, the setup is not clean.
+- Is the move supported by new institutional demand or just retail/short-covering momentum?
+- Can earnings convert fast enough to justify the valuation?
+
+## 2. Company Overview and Recent Catalysts
+Micron Technology, Inc. designs, develops, manufactures, and sells memory and storage products in the United States, Taiwan, Japan, Mainland China, Hong Kong, Europe, and internationally. It operates through the Cloud Memory Business Unit; Core Data Center Business Unit; Mobile and Client Business Unit; and Automotive and Embedded Business Unit segments.
+
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Stock market today: Dow, S&P 500, Nasdaq futures rise as Micron, Qualcomm ease AI jitters | Yahoo Finance | 2026-06-24 |
+| Tech stocks live: Micron stock jumps over 12% on earnings beat after tumbling earlier this week | Yahoo Finance | 2026-06-22 |
+| Big Tech ETF flows have been 'absolutely bananas' this year. Here's why. | Yahoo Finance Video | 2026-06-24 |
+| Micron to report Q3 earnings after market close: What to expect | Yahoo Finance Video | 2026-06-24 |
+
+## 3. Technical Analysis
+| Technical item | Read |
+|---|---|
+| Price vs 52-week range | Close $1,048.51; 52w high $1,211.38 (-13.44%); 52w low $104.73 (+901.17%) |
+| Trend | +152.46% vs SMA200, +35.53% vs SMA50, +3.74% vs SMA20 |
+| Momentum | RSI(14) 56.8 (neutral) |
+| Volatility | ATR(14) 86.86 (~8.3% of price); beta 2.17 |
+| Setup perspective | -13.44% from 52w high; no clean fresh pivot by default. |
+
+**Performance snapshot:**
+
+| Window | Return |
+|---|---|
+| Week | +2.7% |
+| Month | +39.6% |
+| Quarter | +165.2% |
+| Half Y | +294.6% |
+| 1Y | +760.9% |
+| YTD | +232.6% |
+
+## 4. Fundamental Analysis
+| Factor | Observation | Implication / extra |
+|---|---|---|
+| Revenue (ttm) | $58.12B | Revenue growth 196.30% y/y |
+| Profitability | Gross 58.44%, operating 67.62%, net 41.49% | ROA 20.14%, ROE 39.82% |
+| Balance sheet | Cash $14.59B, debt $10.80B | Current ratio 2.90, debt/equity 14.90 |
+| Valuation | P/E 23.70, forward P/E 8.11, P/S 20.35, P/B 16.32 | EV/Sales 20.28, EV/EBITDA 32.03 |
+| Growth expectations | Earnings growth 756.00%, EPS q/q 770.80% | Analyst mean target $1,048.21 (39 analysts) |
+
+## 5. Institutional Investors and Ownership
+| Metric | Value |
+|---|---|
+| Institutional ownership | 81.65% |
+| Insider ownership | 0.25% |
+| Short float | 3.34% |
+| Short ratio (days to cover) | 0.7 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 103,147,586 | 9.15% | 2026-03-31 |
+| Vanguard Capital Management LLC | 73,137,283 | 6.49% | 2026-03-31 |
+| State Street Corporation | 52,239,483 | 4.63% | 2026-03-31 |
+| Capital World Investors | 42,054,392 | 3.73% | 2026-03-31 |
+| FMR, LLC | 32,054,565 | 2.84% | 2026-03-31 |
+| Geode Capital Management, LLC | 27,432,757 | 2.43% | 2026-03-31 |
+| Vanguard Portfolio Management LLC | 23,024,614 | 2.04% | 2026-03-31 |
+| Primecap Management Company | 21,874,204 | 1.94% | 2026-03-31 |
+| Morgan Stanley | 16,842,006 | 1.49% | 2026-03-31 |
+| JPMORGAN CHASE & CO | 15,775,296 | 1.40% | 2026-03-31 |
+
+## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 2.17, ATR 8.3% of price, short float 3.34%. Size positions accordingly.
+- **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
+
+### Setup checklist for your journal
+| Question | Pass condition |
+|---|---|
+| Is there a new base? | Tight sideways action near highs, declining volume, clear resistance. |
+| Is the pivot obvious? | A clean level that multiple traders can see; not a random candle high. |
+| Is risk defined? | Stop based on structure and less than the expected first upside target. |
+| Is volume confirming? | Breakout volume expands; pullback volume dries up. |
+| Is position size small enough? | A normal shakeout should not cause emotional decision-making. |
+
+## 7. Full Data Snapshot
+| Metric | Value | Metric | Value |
+|---|---|---|---|
+| Price | $1,048.51 | EV/Sales | 20.28 |
+| Market cap | $1.18T | EV/EBITDA | 32.03 |
+| Beta | 2.17 | Gross margin | 58.44% |
+| RSI(14) | 56.8 | Operating margin | 67.62% |
+| ATR(14) | 86.86 | Profit margin | 41.49% |
+| SMA20 dist | +3.74% | ROA | 20.14% |
+| SMA50 dist | +35.53% | ROE | 39.82% |
+| SMA200 dist | +152.46% | Revenue (ttm) | $58.12B |
+| 52W high | $1,211.38 | Revenue growth y/y | 196.30% |
+| 52W low | $104.73 | Inst. ownership | 81.65% |
+| P/E (ttm) | 23.70 | Insider ownership | 0.25% |
+| Forward P/E | 8.11 | Short float | 3.34% |
+| PEG (trailing) | 0.31 | Avg volume | 51,095,566 |
+| P/S | 20.35 | Employees | 53,000 |
+| P/B | 16.32 | Analyst rec (1=buy..5=sell) | 1.5 |
+
+## 8. Analyst Actions
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-06-23 | main | B of A Securities | Buy → Buy |
+| 2026-06-22 | main | Needham | Buy → Buy |
+| 2026-06-18 | main | Rosenblatt | Buy → Buy |
+| 2026-06-18 | main | Stifel | Buy → Buy |
+| 2026-06-18 | main | Wedbush | Outperform → Outperform |
+| 2026-06-17 | main | Citigroup | Buy → Buy |
+| 2026-06-17 | main | Deutsche Bank | Buy → Buy |
+| 2026-06-15 | main | TD Cowen | Buy → Buy |
+
+## 9. Conclusion
+MU: High momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+
+## Sources
+| Source | URL | Used for |
+|---|---|---|
+| Yahoo Finance quote/profile/statistics for MU | https://finance.yahoo.com/quote/MU | Snapshot metrics, ownership, analyst data |
+| Yahoo Finance price history (via yfinance) | https://finance.yahoo.com/quote/MU/history | SMA/RSI/ATR/performance calculations |
+| Yahoo Finance news feed | https://finance.yahoo.com/quote/MU/news | Catalyst headlines |
+| Method template | AEHR.research.31.05.2026.pdf (user's Cowork method) | Report structure, scoring areas, checklist |
+
+_Note: the template's native Finviz/Fintel/ADVFN pages block automated retrieval; equivalent metrics above are computed from Yahoo Finance data instead and labeled accordingly._

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-06-25T10:35:51+00:00",
-  "as_of_local": "2026-06-25 10:35:51 UTC",
+  "as_of_utc": "2026-06-25T10:41:02+00:00",
+  "as_of_local": "2026-06-25 10:41:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/video/micron-q3-earnings-much-higher-140000676.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-06-24T14:00:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 440.83,
-      "previous_close": 436.39,
-      "change_pct": 1.02,
-      "market_cap": 2286353269508.195,
-      "headlines": [
-        {
-          "title": "Zacks.com featured highlights Dell, Hewlett and Taiwan",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-dell-081900006.html",
-          "publisher": "Zacks",
-          "published": "2026-06-25T08:19:00Z"
-        },
-        {
-          "title": "Bill Ackman, David Tepper, and other billionaire fund managers are quietly piling into Amazon",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-david-tepper-other-070500344.html",
-          "publisher": "Fortune",
-          "published": "2026-06-25T07:05:00Z"
-        },
-        {
-          "title": "What Makes Taiwan Semiconductor Manufacturing Company (TSM) One of the Best AI Chip Stock to Buy for the Long Term",
-          "url": "https://finance.yahoo.com/technology/ai/articles/makes-taiwan-semiconductor-manufacturing-company-062357543.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-25T06:23:57Z"
         }
       ]
     },
@@ -159,16 +133,16 @@
           "published": "2026-06-24T12:31:07Z"
         },
         {
+          "title": "AI Weekly: Micron boosts chip stocks, firms mull AI-related cuts",
+          "url": "https://finance.yahoo.com/video/ai-weekly-micron-boosts-chip-102106142.html",
+          "publisher": "Reuters Videos",
+          "published": "2026-06-25T10:21:06Z"
+        },
+        {
           "title": "Super Micro Computer (SMCI) Is Up 5.8% After New Edge AI And Sovereign Infrastructure Push",
           "url": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-5-080932278.html",
           "publisher": "Simply Wall St.",
           "published": "2026-06-25T08:09:32Z"
-        },
-        {
-          "title": "Will Nvidia Continue to Dominate in AI? This One Number Offers a Strikingly Clear Answer.",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-continue-dominate-ai-one-071500510.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-25T07:15:00Z"
         }
       ]
     },
@@ -249,10 +223,10 @@
           "published": "2026-06-24T19:30:00Z"
         },
         {
-          "title": "Micron, Qualcomm surge premarket; Hertz slips",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-qualcomm-surge-premarket-hertz-095432966.html",
-          "publisher": "Investing.com",
-          "published": "2026-06-25T09:54:32Z"
+          "title": "AI Weekly: Micron boosts chip stocks, firms mull AI-related cuts",
+          "url": "https://finance.yahoo.com/video/ai-weekly-micron-boosts-chip-102106142.html",
+          "publisher": "Reuters Videos",
+          "published": "2026-06-25T10:21:06Z"
         }
       ]
     },
@@ -557,13 +531,13 @@
     },
     {
       "label": "BTC",
-      "price": 61459.04,
-      "change_pct": 0.76
+      "price": 61409.01,
+      "change_pct": 0.68
     },
     {
       "label": "Gold",
-      "price": 4002.5,
-      "change_pct": 0.31
+      "price": 4002.2,
+      "change_pct": 0.3
     },
     {
       "label": "Nasdaq100",

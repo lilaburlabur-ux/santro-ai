@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-25T13:08:09+00:00",
-  "as_of_local": "2026-06-25 13:08:09 UTC",
+  "as_of_utc": "2026-06-25T13:13:10+00:00",
+  "as_of_local": "2026-06-25 13:13:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,16 +41,16 @@
       "market_cap": 2286353269508.195,
       "headlines": [
         {
+          "title": "IBM Stock Surges After Research Division Unveils a Sub-1-Nanometer Chip Prototype",
+          "url": "https://www.barrons.com/articles/ibm-stock-sub-1-nanometer-chip-prototype-89a8e5e4?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-06-25T12:02:00Z"
+        },
+        {
           "title": "Breakout Watch: This Firm Helps Nvidia, TSM And Intel Bring AI Ideas To Market",
           "url": "https://www.investors.com/research/ibd-stock-analysis/breakout-watch-this-firm-helps-nvidia-tsm-and-intel-bring-ai-ideas-to-market/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-06-25T12:00:31Z"
-        },
-        {
-          "title": "IBM Knows How to Make the World\u2019s Tiniest AI Chip. This Is Big.",
-          "url": "https://www.barrons.com/articles/ibm-ai-chip-nano-89a8e5e4?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-06-25T10:34:00Z"
         },
         {
           "title": "SK Hynix ADR Plans Leave Arb Traders Waiting on One Key Answer",
@@ -75,16 +75,16 @@
           "published": "2026-06-24T19:47:22Z"
         },
         {
+          "title": "Nvidia Stock Gains but AI Chip Rivals Are Circling",
+          "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-chips-8a703dd9?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-06-25T12:17:00Z"
+        },
+        {
           "title": "2 of Wall Street\u2019s Favorite Stocks with Exciting Potential and 1 Facing Challenges",
           "url": "https://finance.yahoo.com/markets/stocks/articles/2-wall-street-favorite-stocks-114550215.html",
           "publisher": "StockStory",
           "published": "2026-06-25T11:45:50Z"
-        },
-        {
-          "title": "Nvidia Stock Gains Even as AI Chip Competition Hots Up",
-          "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-chips-8a703dd9?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-06-25T10:16:00Z"
         }
       ]
     },
@@ -131,16 +131,16 @@
           "published": "2026-06-24T22:53:01Z"
         },
         {
+          "title": "Analysts Love Micron\u2019s Earnings Almost as Much as the Stock Market Does",
+          "url": "https://www.barrons.com/articles/micron-mu-earnings-analyst-reaction-3c18cb6c?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-06-25T11:34:00Z"
+        },
+        {
           "title": "AMD vs. Intel: Which Stock Is the Better Buy Right Now?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-vs-intel-stock-better-112600711.html",
           "publisher": "Motley Fool",
           "published": "2026-06-25T11:26:00Z"
-        },
-        {
-          "title": "Advanced Micro Devices (AMD) and Rackspace Technology Sign a Definitive Agreement",
-          "url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-rackspace-081904520.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-25T08:19:04Z"
         }
       ]
     },
@@ -209,6 +209,12 @@
       "market_cap": 242057170678.71094,
       "headlines": [
         {
+          "title": "Analysts Love Micron\u2019s Earnings Almost as Much as the Stock Market Does",
+          "url": "https://www.barrons.com/articles/micron-mu-earnings-analyst-reaction-3c18cb6c?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-06-25T11:34:00Z"
+        },
+        {
           "title": "BofA Raises Marvell Technology (MRVL) Price Target to $365 from $240",
           "url": "https://finance.yahoo.com/technology/ai/articles/bofa-raises-marvell-technology-mrvl-062412208.html",
           "publisher": "Insider Monkey",
@@ -219,12 +225,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-vs-marvell-technology-next-043500694.html",
           "publisher": "Motley Fool",
           "published": "2026-06-25T04:35:00Z"
-        },
-        {
-          "title": "MRVL Stock Jumps Overnight: MU, QCOM Boost Outweigh CFO\u2019s Share Sale",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mrvl-stock-jumps-overnight-mu-041044849.html",
-          "publisher": "Stocktwits",
-          "published": "2026-06-25T04:10:44Z"
         }
       ]
     },
@@ -444,8 +444,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 7.55,
-          "price": 477.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "TWD"
         },
         {
@@ -534,8 +534,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 7.55,
-        "price": 477.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "TWD"
       },
       {
@@ -557,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 61104.72,
-      "change_pct": 0.18
+      "price": 61215.74,
+      "change_pct": 0.36
     },
     {
       "label": "Gold",
-      "price": 4027.2,
-      "change_pct": 0.92
+      "price": 4049.1,
+      "change_pct": 1.47
     },
     {
       "label": "Nasdaq100",

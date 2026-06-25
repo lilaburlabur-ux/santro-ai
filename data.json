@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-25T02:31:32+00:00",
-  "as_of_local": "2026-06-25 02:31:32 UTC",
+  "as_of_utc": "2026-06-25T02:46:19+00:00",
+  "as_of_local": "2026-06-25 02:46:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -159,16 +159,16 @@
           "published": "2026-06-24T12:31:07Z"
         },
         {
+          "title": "Bank of America resets Marvell stock price target",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-resets-marvell-stock-023300822.html",
+          "publisher": "TheStreet",
+          "published": "2026-06-25T02:33:00Z"
+        },
+        {
           "title": "Chip stocks surge after-hours on Micron\u2019s record quarter",
           "url": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-surge-hours-micron-215200610.html",
           "publisher": "Investing.com",
           "published": "2026-06-24T21:52:00Z"
-        },
-        {
-          "title": "Micron, Alphabet, Builders FirstSource, Sunrun, Wendy\u2019s, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-361233bf?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-06-24T20:33:00Z"
         }
       ]
     },
@@ -206,8 +206,14 @@
       "price": 276.7,
       "previous_close": 279.04,
       "change_pct": -0.84,
-      "market_cap": 242057160000.0,
+      "market_cap": 242057170678.71094,
       "headlines": [
+        {
+          "title": "Bank of America resets Marvell stock price target",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-resets-marvell-stock-023300822.html",
+          "publisher": "TheStreet",
+          "published": "2026-06-25T02:33:00Z"
+        },
         {
           "title": "Why Marvell Technology (MRVL) Shares Are Trading Lower Today",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-technology-mrvl-shares-000825018.html",
@@ -219,12 +225,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/micron-qualcomm-forecasts-ignite-400-230933990.html",
           "publisher": "Reuters",
           "published": "2026-06-24T23:09:33Z"
-        },
-        {
-          "title": "The Real Price of Broadcom Stock Is Hidden Two Years Out",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/real-price-broadcom-stock-hidden-213130260.html",
-          "publisher": "Trefis",
-          "published": "2026-06-24T21:31:30Z"
         }
       ]
     },
@@ -249,10 +249,10 @@
           "published": "2026-06-24T19:30:00Z"
         },
         {
-          "title": "Asian stocks surge as Micron earnings ease AI fears",
-          "url": "https://finance.yahoo.com/news/asian-stocks-surge-micron-earnings-012554974.html",
+          "title": "Indian shares set to rise after oil slips to pre-Iran war levels",
+          "url": "https://finance.yahoo.com/news/indian-shares-set-rise-oil-022615941.html",
           "publisher": "Reuters",
-          "published": "2026-06-25T01:25:54Z"
+          "published": "2026-06-25T02:26:15Z"
         }
       ]
     },
@@ -390,8 +390,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 7.67,
-          "price": 2822000.0,
+          "change_pct": 7.55,
+          "price": 2819000.0,
           "currency": "KRW"
         },
         {
@@ -399,8 +399,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 4.92,
-          "price": 357250.0,
+          "change_pct": 4.41,
+          "price": 355500.0,
           "currency": "KRW"
         },
         {
@@ -408,8 +408,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 7.57,
-          "price": 99500.0,
+          "change_pct": 8.03,
+          "price": 99930.0,
           "currency": "JPY"
         },
         {
@@ -444,8 +444,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 5.86,
-          "price": 469.5,
+          "change_pct": 5.07,
+          "price": 466.0,
           "currency": "TWD"
         },
         {
@@ -453,8 +453,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 5.61,
-          "price": 216.5,
+          "change_pct": 6.1,
+          "price": 217.5,
           "currency": "TWD"
         }
       ]
@@ -480,8 +480,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 7.67,
-        "price": 2822000.0,
+        "change_pct": 7.55,
+        "price": 2819000.0,
         "currency": "KRW"
       },
       {
@@ -489,8 +489,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 4.92,
-        "price": 357250.0,
+        "change_pct": 4.41,
+        "price": 355500.0,
         "currency": "KRW"
       },
       {
@@ -498,8 +498,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 7.57,
-        "price": 99500.0,
+        "change_pct": 8.03,
+        "price": 99930.0,
         "currency": "JPY"
       },
       {
@@ -534,8 +534,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 5.86,
-        "price": 469.5,
+        "change_pct": 5.07,
+        "price": 466.0,
         "currency": "TWD"
       },
       {
@@ -543,8 +543,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 5.61,
-        "price": 216.5,
+        "change_pct": 6.1,
+        "price": 217.5,
         "currency": "TWD"
       }
     ]
@@ -557,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 60820.16,
-      "change_pct": -2.95
+      "price": 60652.31,
+      "change_pct": -3.22
     },
     {
       "label": "Gold",
-      "price": 3997.8,
-      "change_pct": -3.2
+      "price": 4002.5,
+      "change_pct": -3.08
     },
     {
       "label": "Nasdaq100",

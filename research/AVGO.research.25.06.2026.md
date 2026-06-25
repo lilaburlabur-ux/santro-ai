@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Nvidia Stock Slips Below $200. Competition Fears Are Growing. | Barrons.com | 2026-06-25 |
 | The Supply-Chain Bet That Underpins The NVIDIA Stock Story | Trefis | 2026-06-25 |
 | BofA Says Micron Is Trading Under 10x Earnings and Wall Street Is Completely Missing the Story | 24/7 Wall St. | 2026-06-25 |
 | Why Goldman is cautious on outperforming Intel stock | Investing.com | 2026-06-25 |
-| Nvidia Stock Slips Below $200, and the Competition Fears Are Growing | Barrons.com | 2026-06-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -39,7 +39,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Sandisk, Western Digital, and others soar as Micron results  'justify elevated valuations' | Yahoo Finance | 2026-06-25 |
 | Qualcomm CFO talks Modular acquisition's significance for AI data centers | Yahoo Finance Video | 2026-06-25 |
 | Top AI Data Center Stock Pick of Leopold Aschenbrenner’s Situational Awareness Everyone’s Ignoring | Insider Monkey | 2026-06-25 |
-| AMD Is Trading at 97 Times Forward Earnings While Nvidia Trades at 21 Times -- Someone's Valuation Model Is Wrong. Here's Who I Think It Is. | Motley Fool | 2026-06-25 |
+| Forget the Cellphones: BlackBerry Shares Jump 23% as an AI Play | Barrons.com | 2026-06-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

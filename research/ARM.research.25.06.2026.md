@@ -36,10 +36,10 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
+| Forget the Cellphones: BlackBerry Shares Jump 23% as an AI Play | Barrons.com | 2026-06-25 |
 | Is Arm Holdings a Buy Near $347? The Case for Double-Digit Upside | 24/7 Wall St. | 2026-06-25 |
 | Micron and Qualcomm forecasts ignite $400 billion AI chip stock rally | Reuters | 2026-06-24 |
 | Arm Holdings vs Advanced Micro Devices: One Winner of The AI Data Center Showdown | 24/7 Wall St. | 2026-06-24 |
-| Bernstein Raises its Price Target on Arm Holdings (ARM) | Insider Monkey | 2026-06-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

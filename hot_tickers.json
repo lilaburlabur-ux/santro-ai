@@ -1,75 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-26T00:54:47+00:00",
+  "as_of": "2026-06-26T08:08:06+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "MU",
-   "company": "Micron Technology Inc",
-   "move_pct": 15.74,
-   "price": 1213.56,
-   "volume": 79552392,
-   "volume_vs_avg": "~1.4x",
-   "heat_score": 85,
-   "direction": "up",
-   "why": "Dow Jones Futures Rise Amid Mixed Market Signals; Micron's Gain Is Apple's Pain",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-mixed-signals-micron-flies-apple-dives/?src=A00220&yptr=yahoo",
-   "published": "2026-06-26T00:28:30Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 2,
-   "ticker": "AAPL",
-   "company": "Apple Inc",
-   "move_pct": -6.12,
-   "price": 275.15,
-   "volume": 102383867,
-   "volume_vs_avg": "~2x",
-   "heat_score": 47,
-   "direction": "down",
-   "why": "Dow Jones Futures Rise Amid Mixed Market Signals; Micron's Gain Is Apple's Pain",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-mixed-signals-micron-flies-apple-dives/?src=A00220&yptr=yahoo",
-   "published": "2026-06-26T00:28:30Z",
-   "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 3,
-   "ticker": "PLTR",
-   "company": "Palantir Technologies Inc",
-   "move_pct": -5.49,
-   "price": 107.27,
-   "volume": 59167305,
-   "volume_vs_avg": "~1.5x",
-   "heat_score": 42,
-   "direction": "down",
-   "why": "Michael Burry Buys Long-Dated Microsoft Calls, Adds To JD And Adobe \u2014 Trims Palantir Short",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/options/articles/michael-burry-buys-long-dated-000610362.html",
-   "published": "2026-06-26T00:06:10Z",
-   "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
-   "rank": 4,
-   "ticker": "OKLO",
-   "company": "Oklo Inc",
-   "move_pct": -5.64,
-   "price": 51.01,
-   "volume": 9633737,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 38,
-   "direction": "down",
-   "why": "Oklo Is Using AI to Design Nuclear Reactors Faster. Here's Why OKLO Stock Deserves a Second Look.",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/oklo-using-ai-design-nuclear-002500669.html",
-   "published": "2026-06-26T00:25:00Z",
-   "sector": "Data Center, Power & Energy"
-  }
- ]
+ "hot_tickers": []
 }

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-06-26T08:28:30+00:00",
-  "as_of_local": "2026-06-26 08:28:30 UTC",
+  "as_of_utc": "2026-06-26T08:33:38+00:00",
+  "as_of_local": "2026-06-26 08:33:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -31,6 +29,34 @@
           "url": "https://finance.yahoo.com/markets/article/alphabet-makes-the-dow-look-more-like-the-nasdaq-155236659.html",
           "publisher": "Yahoo Finance",
           "published": "2026-06-24T15:52:36Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 434.99,
+      "previous_close": 440.83,
+      "change_pct": -1.32,
+      "market_cap": 2256064280265.71,
+      "headlines": [
+        {
+          "title": "Qualcomm raises data center outlook on AI demand",
+          "url": "https://finance.yahoo.com/video/qualcomm-raises-data-center-outlook-165000920.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-06-25T16:50:00Z"
+        },
+        {
+          "title": "IBM stock surged again: The reason sounds like sci-fi",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ibm-stock-surged-again-reason-235710916.html",
+          "publisher": "TheStreet",
+          "published": "2026-06-25T23:57:10Z"
+        },
+        {
+          "title": "Breakout Watch: This Firm Helps Nvidia, TSM And Intel Bring AI Ideas To Market",
+          "url": "https://www.investors.com/research/ibd-stock-analysis/breakout-watch-this-firm-helps-nvidia-tsm-and-intel-bring-ai-ideas-to-market/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-06-25T20:37:19Z"
         }
       ]
     },
@@ -531,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 60211.62,
-      "change_pct": 0.82
+      "price": 60110.45,
+      "change_pct": 0.65
     },
     {
       "label": "Gold",
-      "price": 4048.9,
-      "change_pct": 0.46
+      "price": 4047.2,
+      "change_pct": 0.41
     },
     {
       "label": "Nasdaq100",

@@ -4,8 +4,8 @@ Signed file: `AVGO.research.26.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $378.91 (2026-06-26, ~15-min delayed) |
-| Market cap | $1.80T |
+| Current price | $365.02 (2026-06-26, ~15-min delayed) |
+| Market cap | $1.74T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `AVGO.research.26.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +44.70%; price +5.29% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -21.19% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +38.94%; price +1.39% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -24.08% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 38.85%, revenue growth 47.90%. |
-| Value attractiveness | Reasonable | Forward P/E 19.54, EV/Sales 24.49. |
-| Risk level | High | Beta 1.43, ATR 5.2% of price, short float 1.32%. |
+| Value attractiveness | Reasonable | Forward P/E 18.82, EV/Sales 24.49. |
+| Risk level | High | Beta 1.43, ATR 5.3% of price, short float 1.32%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
-| OpenAI, Broadcom (AVGO) Unveil “Jalapeño” AI Accelerator for Enhanced LLM Inference | Insider Monkey | 2026-06-26 |
-| 3 Market-Beating Stocks with Solid Fundamentals | StockStory | 2026-06-26 |
-| Broadcom, OpenAI deal hit as infrastructure costs take center stage | TheStreet | 2026-06-26 |
-| What Qualcomm Stock Was Saying About Its Multibillion-Dollar Data Center Plan | Trefis | 2026-06-26 |
+| Semiconductor stocks retreat over worries about memory costs | Yahoo Finance | 2026-06-26 |
+| OpenAI Just Signaled It Might Delay Its IPO. AI Stocks Are Tumbling. Is the Bubble Bursting? | Motley Fool | 2026-06-26 |
+| Is The Growth Baked Into Advanced Micro Devices Stock Believable? | Trefis | 2026-06-26 |
+| How Much Upside Can NVDA Stock's Growth Deliver? | Trefis | 2026-06-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $378.91; 52w high $480.81 (-21.19%); 52w low $262.72 (+44.22%) |
-| Trend | +5.29% vs SMA200, -8.03% vs SMA50, -6.73% vs SMA20 |
-| Momentum | RSI(14) 43.4 (neutral) |
-| Volatility | ATR(14) 19.86 (~5.2% of price); beta 1.43 |
-| Setup perspective | -21.19% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $365.02; 52w high $480.81 (-24.08%); 52w low $262.81 (+38.89%) |
+| Trend | +1.39% vs SMA200, -11.27% vs SMA50, -9.47% vs SMA20 |
+| Momentum | RSI(14) 39.9 (neutral) |
+| Volatility | ATR(14) 19.52 (~5.3% of price); beta 1.43 |
+| Setup perspective | -24.08% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.4% |
-| Month | -10.1% |
-| Quarter | +19.0% |
-| Half Y | +11.4% |
-| 1Y | +44.7% |
-| YTD | +9.4% |
+| Week | -11.1% |
+| Month | -13.3% |
+| Quarter | +18.2% |
+| Half Y | +4.9% |
+| 1Y | +38.9% |
+| YTD | +5.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,7 +67,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $75.46B | Revenue growth 47.90% y/y |
 | Profitability | Gross 76.28%, operating 48.99%, net 38.85% | ROA 12.12%, ROE 37.28% |
 | Balance sheet | Cash $19.63B, debt $64.91B | Current ratio 2.24, debt/equity 74.02 |
-| Valuation | P/E 62.94, forward P/E 19.54, P/S 23.89, P/B 20.56 | EV/Sales 24.49, EV/EBITDA 43.91 |
+| Valuation | P/E 60.63, forward P/E 18.82, P/S 23.01, P/B 19.81 | EV/Sales 24.49, EV/EBITDA 43.91 |
 | Growth expectations | Earnings growth 85.40%, EPS q/q 87.50% | Analyst mean target $523.73 (45 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -94,7 +94,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Price (T.Rowe) Associates Inc | 84,470,754 | 1.78% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.43, ATR 5.2% of price, short float 1.32%. Size positions accordingly.
+- **Volatility risk:** Beta 1.43, ATR 5.3% of price, short float 1.32%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -109,21 +109,21 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $378.91 | EV/Sales | 24.49 |
-| Market cap | $1.80T | EV/EBITDA | 43.91 |
+| Price | $365.02 | EV/Sales | 24.49 |
+| Market cap | $1.74T | EV/EBITDA | 43.91 |
 | Beta | 1.43 | Gross margin | 76.28% |
-| RSI(14) | 43.4 | Operating margin | 48.99% |
-| ATR(14) | 19.86 | Profit margin | 38.85% |
-| SMA20 dist | -6.73% | ROA | 12.12% |
-| SMA50 dist | -8.03% | ROE | 37.28% |
-| SMA200 dist | +5.29% | Revenue (ttm) | $75.46B |
+| RSI(14) | 39.9 | Operating margin | 48.99% |
+| ATR(14) | 19.52 | Profit margin | 38.85% |
+| SMA20 dist | -9.47% | ROA | 12.12% |
+| SMA50 dist | -11.27% | ROE | 37.28% |
+| SMA200 dist | +1.39% | Revenue (ttm) | $75.46B |
 | 52W high | $480.81 | Revenue growth y/y | 47.90% |
-| 52W low | $262.72 | Inst. ownership | 79.91% |
-| P/E (ttm) | 62.94 | Insider ownership | 1.94% |
-| Forward P/E | 19.54 | Short float | 1.32% |
+| 52W low | $262.81 | Inst. ownership | 79.91% |
+| P/E (ttm) | 60.63 | Insider ownership | 1.94% |
+| Forward P/E | 18.82 | Short float | 1.32% |
 | PEG (trailing) | 0.69 | Avg volume | 26,101,237 |
-| P/S | 23.89 | Employees | 33,000 |
-| P/B | 20.56 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/S | 23.01 | Employees | 33,000 |
+| P/B | 19.81 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

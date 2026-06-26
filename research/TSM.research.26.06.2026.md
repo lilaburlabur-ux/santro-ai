@@ -4,8 +4,8 @@ Signed file: `TSM.research.26.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $434.99 (2026-06-26, ~15-min delayed) |
-| Market cap | $2.26T |
+| Current price | $432.35 (2026-06-26, ~15-min delayed) |
+| Market cap | $2.24T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `TSM.research.26.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +99.83%; price +28.82% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -6.99% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +96.25%; price +27.69% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -7.55% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 46.51%, revenue growth 35.10%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 21.79, EV/Sales 3.85. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 21.66, EV/Sales 3.85. |
 | Risk level | Elevated | Beta 1.25, ATR 4.3% of price, short float 0.51%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated.
@@ -36,30 +36,30 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
-| Qualcomm raises data center outlook on AI demand | Yahoo Finance Video | 2026-06-25 |
-| IBM stock surged again: The reason sounds like sci-fi | TheStreet | 2026-06-25 |
-| Breakout Watch: This Firm Helps Nvidia, TSM And Intel Bring AI Ideas To Market | Investor's Business Daily | 2026-06-25 |
-| Intel vs. TSMC: Which is the Better Semiconductor Stock to Buy Right Now? | Motley Fool | 2026-06-25 |
+| Breakout Watch: This Firm Helps Nvidia, TSM And Intel Bring AI Ideas To Market | Investor's Business Daily | 2026-06-26 |
+| A VC Says the ‘All Your Eggs in the AI Basket’ Trade Is Finally Cracking — Here’s Where the Money Goes Next | 24/7 Wall St. | 2026-06-26 |
+| Big Tech’s Quiet Diversification Out of Taiwan Is the Ultimate Catalyst for Intel’s Turnaround | 24/7 Wall St. | 2026-06-26 |
+| Here's Why Taiwan Semiconductor (TSM) May Be the Smartest AI Infrastructure Buy Right Now | Motley Fool | 2026-06-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $434.99; 52w high $467.67 (-6.99%); 52w low $220.30 (+97.45%) |
-| Trend | +28.82% vs SMA200, +5.90% vs SMA50, +0.43% vs SMA20 |
-| Momentum | RSI(14) 52.7 (neutral) |
-| Volatility | ATR(14) 18.77 (~4.3% of price); beta 1.25 |
-| Setup perspective | -6.99% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $432.35; 52w high $467.67 (-7.55%); 52w low $221.56 (+95.14%) |
+| Trend | +27.69% vs SMA200, +4.96% vs SMA50, -0.27% vs SMA20 |
+| Momentum | RSI(14) 51.8 (neutral) |
+| Volatility | ATR(14) 18.64 (~4.3% of price); beta 1.25 |
+| Setup perspective | -7.55% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.7% |
-| Month | +5.7% |
-| Quarter | +25.4% |
-| Half Y | +49.1% |
-| 1Y | +99.8% |
-| YTD | +36.8% |
+| Week | -6.4% |
+| Month | +2.5% |
+| Quarter | +32.9% |
+| Half Y | +46.3% |
+| 1Y | +96.3% |
+| YTD | +36.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,7 +67,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.10T | Revenue growth 35.10% y/y |
 | Profitability | Gross 61.87%, operating 58.10%, net 46.51% | ROA 17.32%, ROE 36.21% |
 | Balance sheet | Cash $3.38T, debt $1.09T | Current ratio 2.49, debt/equity 18.45 |
-| Valuation | P/E 37.47, forward P/E 21.79, P/S 0.55, P/B 96.73 | EV/Sales 3.85, EV/EBITDA 5.53 |
+| Valuation | P/E 37.24, forward P/E 21.66, P/S 0.55, P/B 96.14 | EV/Sales 3.85, EV/EBITDA 5.53 |
 | Growth expectations | Earnings growth 58.40%, EPS q/q 58.30% | Analyst mean target $478.95 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -94,7 +94,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Jennison Associates LLC | 12,021,825 | 0.23% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 21.79, EV/Sales 3.85. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 21.66, EV/Sales 3.85. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.25, ATR 4.3% of price, short float 0.51%. Size positions accordingly.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -111,21 +111,21 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $434.99 | EV/Sales | 3.85 |
-| Market cap | $2.26T | EV/EBITDA | 5.53 |
+| Price | $432.35 | EV/Sales | 3.85 |
+| Market cap | $2.24T | EV/EBITDA | 5.53 |
 | Beta | 1.25 | Gross margin | 61.87% |
-| RSI(14) | 52.7 | Operating margin | 58.10% |
-| ATR(14) | 18.77 | Profit margin | 46.51% |
-| SMA20 dist | +0.43% | ROA | 17.32% |
-| SMA50 dist | +5.90% | ROE | 36.21% |
-| SMA200 dist | +28.82% | Revenue (ttm) | $4.10T |
+| RSI(14) | 51.8 | Operating margin | 58.10% |
+| ATR(14) | 18.64 | Profit margin | 46.51% |
+| SMA20 dist | -0.27% | ROA | 17.32% |
+| SMA50 dist | +4.96% | ROE | 36.21% |
+| SMA200 dist | +27.69% | Revenue (ttm) | $4.10T |
 | 52W high | $467.67 | Revenue growth y/y | 35.10% |
-| 52W low | $220.30 | Inst. ownership | 15.64% |
-| P/E (ttm) | 37.47 | Insider ownership | 0.04% |
-| Forward P/E | 21.79 | Short float | 0.51% |
+| 52W low | $221.56 | Inst. ownership | 15.64% |
+| P/E (ttm) | 37.24 | Insider ownership | 0.04% |
+| Forward P/E | 21.66 | Short float | 0.51% |
 | PEG (trailing) | 1.36 | Avg volume | 13,660,020 |
 | P/S | 0.55 | Employees | 76,907 |
-| P/B | 96.73 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/B | 96.14 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

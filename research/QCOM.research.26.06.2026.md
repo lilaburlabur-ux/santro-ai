@@ -4,8 +4,8 @@ Signed file: `QCOM.research.26.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $204.90 (2026-06-26, ~15-min delayed) |
-| Market cap | $215.96B |
+| Current price | $189.39 (2026-06-26, ~15-min delayed) |
+| Market cap | $199.62B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `QCOM.research.26.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +34.36%; price +23.20% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -18.07% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +24.02%; price +13.76% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -24.27% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 22.31%, revenue growth -3.50%. |
-| Value attractiveness | Reasonable | Forward P/E 18.68, EV/Sales 4.98. |
-| Risk level | High | Beta 1.60, ATR 8.4% of price, short float 4.74%. |
+| Value attractiveness | Reasonable | Forward P/E 17.26, EV/Sales 4.98. |
+| Risk level | High | Beta 1.60, ATR 9.2% of price, short float 4.74%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
-| Sandisk, Western Digital, and others soar as Micron results  'justify elevated valuations' | Yahoo Finance | 2026-06-25 |
-| Qualcomm raises data center outlook on AI demand | Yahoo Finance Video | 2026-06-25 |
-| BB Stock Eyes Weekly Gain: BlackBerry CEO Says Alloy Kore Could Unlock Higher Software Revenue | Stocktwits | 2026-06-26 |
-| QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm’s AI Momentum | Stocktwits | 2026-06-26 |
+| Semiconductor stocks retreat over worries about memory costs | Yahoo Finance | 2026-06-26 |
+| How Qualcomm is evolving to grab a piece of the AI data center explosion | Yahoo Finance | 2026-06-25 |
+| Sector Update: Tech Stocks Fall Late Afternoon | MT Newswires | 2026-06-26 |
+| Is The Growth Baked Into Advanced Micro Devices Stock Believable? | Trefis | 2026-06-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $204.90; 52w high $250.10 (-18.07%); 52w low $123.61 (+65.76%) |
-| Trend | +23.20% vs SMA200, +3.96% vs SMA50, -6.85% vs SMA20 |
-| Momentum | RSI(14) 47.8 (neutral) |
-| Volatility | ATR(14) 17.12 (~8.4% of price); beta 1.60 |
-| Setup perspective | -18.07% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $189.39; 52w high $250.10 (-24.27%); 52w low $123.61 (+53.21%) |
+| Trend | +13.76% vs SMA200, -4.46% vs SMA50, -12.86% vs SMA20 |
+| Momentum | RSI(14) 42.6 (neutral) |
+| Volatility | ATR(14) 17.51 (~9.2% of price); beta 1.60 |
+| Setup perspective | -24.27% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.8% |
-| Month | -17.3% |
-| Quarter | +57.8% |
-| Half Y | +18.8% |
-| 1Y | +34.4% |
-| YTD | +19.7% |
+| Week | -16.2% |
+| Month | -18.6% |
+| Quarter | +45.6% |
+| Half Y | +9.5% |
+| 1Y | +24.0% |
+| YTD | +10.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,7 +67,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $44.49B | Revenue growth -3.50% y/y |
 | Profitability | Gross 54.80%, operating 22.06%, net 22.31% | ROA 12.69%, ROE 36.08% |
 | Balance sheet | Cash $9.80B, debt $15.27B | Current ratio 2.37, debt/equity 55.98 |
-| Valuation | P/E 22.03, forward P/E 18.68, P/S 4.85, P/B 7.95 | EV/Sales 4.98, EV/EBITDA 17.04 |
+| Valuation | P/E 20.36, forward P/E 17.26, P/S 4.49, P/B 7.35 | EV/Sales 4.98, EV/EBITDA 17.04 |
 | Growth expectations | Earnings growth 173.00%, EPS q/q 162.10% | Analyst mean target $213.00 (31 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -94,7 +94,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC | 12,113,406 | 1.15% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.60, ATR 8.4% of price, short float 4.74%. Size positions accordingly.
+- **Volatility risk:** Beta 1.60, ATR 9.2% of price, short float 4.74%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -109,21 +109,21 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $204.90 | EV/Sales | 4.98 |
-| Market cap | $215.96B | EV/EBITDA | 17.04 |
+| Price | $189.39 | EV/Sales | 4.98 |
+| Market cap | $199.62B | EV/EBITDA | 17.04 |
 | Beta | 1.60 | Gross margin | 54.80% |
-| RSI(14) | 47.8 | Operating margin | 22.06% |
-| ATR(14) | 17.12 | Profit margin | 22.31% |
-| SMA20 dist | -6.85% | ROA | 12.69% |
-| SMA50 dist | +3.96% | ROE | 36.08% |
-| SMA200 dist | +23.20% | Revenue (ttm) | $44.49B |
+| RSI(14) | 42.6 | Operating margin | 22.06% |
+| ATR(14) | 17.51 | Profit margin | 22.31% |
+| SMA20 dist | -12.86% | ROA | 12.69% |
+| SMA50 dist | -4.46% | ROE | 36.08% |
+| SMA200 dist | +13.76% | Revenue (ttm) | $44.49B |
 | 52W high | $250.10 | Revenue growth y/y | -3.50% |
 | 52W low | $123.61 | Inst. ownership | 84.89% |
-| P/E (ttm) | 22.03 | Insider ownership | 0.13% |
-| Forward P/E | 18.68 | Short float | 4.74% |
+| P/E (ttm) | 20.36 | Insider ownership | 0.13% |
+| Forward P/E | 17.26 | Short float | 4.74% |
 | PEG (trailing) | 0.87 | Avg volume | 21,756,854 |
-| P/S | 4.85 | Employees | 52,000 |
-| P/B | 7.95 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/S | 4.49 | Employees | 52,000 |
+| P/B | 7.35 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,24 +4,24 @@ Signed file: `NXPI.research.26.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $298.64 (2026-06-26, ~15-min delayed) |
-| Market cap | $75.40B |
+| Current price | $277.02 (2026-06-26, ~15-min delayed) |
+| Market cap | $69.94B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-06-26.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +39.75%; price +27.93% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -9.92% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +30.36%; price +18.52% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -16.45% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 21.03%, revenue growth 12.20%. |
-| Value attractiveness | Reasonable | Forward P/E 16.86, EV/Sales 6.64. |
-| Risk level | High | Beta 1.79, ATR 5.3% of price, short float 4.05%. |
+| Value attractiveness | Reasonable | Forward P/E 15.64, EV/Sales 6.64. |
+| Risk level | High | Beta 1.79, ATR 5.9% of price, short float 4.05%. |
 
-**Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $298.64; 52w high $331.55 (-9.92%); 52w low $181.81 (+64.26%) |
-| Trend | +27.93% vs SMA200, +3.78% vs SMA50, -2.81% vs SMA20 |
-| Momentum | RSI(14) 49.4 (neutral) |
-| Volatility | ATR(14) 15.76 (~5.3% of price); beta 1.79 |
-| Setup perspective | -9.92% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $277.02; 52w high $331.55 (-16.45%); 52w low $181.81 (+52.37%) |
+| Trend | +18.52% vs SMA200, -4.19% vs SMA50, -9.07% vs SMA20 |
+| Momentum | RSI(14) 41.9 (neutral) |
+| Volatility | ATR(14) 16.31 (~5.9% of price); beta 1.79 |
+| Setup perspective | -16.45% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.5% |
-| Month | -9.9% |
-| Quarter | +51.6% |
-| Half Y | +31.6% |
-| 1Y | +39.7% |
-| YTD | +36.1% |
+| Week | -11.3% |
+| Month | -15.6% |
+| Quarter | +41.2% |
+| Half Y | +23.6% |
+| 1Y | +30.4% |
+| YTD | +26.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,7 +67,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Revenue (ttm) | $12.62B | Revenue growth 12.20% y/y |
 | Profitability | Gross 55.63%, operating 27.66%, net 21.03% | ROA 8.14%, ROE 25.81% |
 | Balance sheet | Cash $3.71B, debt $11.72B | Current ratio 2.24, debt/equity 103.99 |
-| Valuation | P/E 28.52, forward P/E 16.86, P/S 5.98, P/B 6.90 | EV/Sales 6.64, EV/EBITDA 20.13 |
+| Valuation | P/E 26.51, forward P/E 15.64, P/S 5.54, P/B 6.40 | EV/Sales 6.64, EV/EBITDA 20.13 |
 | Growth expectations | Earnings growth 130.70%, EPS q/q 129.00% | Analyst mean target $307.38 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -94,7 +94,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Van Eck Associates Corporation | 4,378,316 | 1.73% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.79, ATR 5.3% of price, short float 4.05%. Size positions accordingly.
+- **Volatility risk:** Beta 1.79, ATR 5.9% of price, short float 4.05%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -109,21 +109,21 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $298.64 | EV/Sales | 6.64 |
-| Market cap | $75.40B | EV/EBITDA | 20.13 |
+| Price | $277.02 | EV/Sales | 6.64 |
+| Market cap | $69.94B | EV/EBITDA | 20.13 |
 | Beta | 1.79 | Gross margin | 55.63% |
-| RSI(14) | 49.4 | Operating margin | 27.66% |
-| ATR(14) | 15.76 | Profit margin | 21.03% |
-| SMA20 dist | -2.81% | ROA | 8.14% |
-| SMA50 dist | +3.78% | ROE | 25.81% |
-| SMA200 dist | +27.93% | Revenue (ttm) | $12.62B |
+| RSI(14) | 41.9 | Operating margin | 27.66% |
+| ATR(14) | 16.31 | Profit margin | 21.03% |
+| SMA20 dist | -9.07% | ROA | 8.14% |
+| SMA50 dist | -4.19% | ROE | 25.81% |
+| SMA200 dist | +18.52% | Revenue (ttm) | $12.62B |
 | 52W high | $331.55 | Revenue growth y/y | 12.20% |
 | 52W low | $181.81 | Inst. ownership | 100.73% |
-| P/E (ttm) | 28.52 | Insider ownership | 0.14% |
-| Forward P/E | 16.86 | Short float | 4.05% |
+| P/E (ttm) | 26.51 | Insider ownership | 0.14% |
+| Forward P/E | 15.64 | Short float | 4.05% |
 | PEG (trailing) | 0.76 | Avg volume | 3,895,070 |
-| P/S | 5.98 | Employees | 32,169 |
-| P/B | 6.90 | Analyst rec (1=buy..5=sell) | 1.7 |
+| P/S | 5.54 | Employees | 32,169 |
+| P/B | 6.40 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -138,7 +138,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | 2026-04-29 | main | Bernstein | Market Perform → Market Perform |
 
 ## 9. Conclusion
-NXPI: High momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+NXPI: Moderate momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

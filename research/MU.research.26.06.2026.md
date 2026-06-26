@@ -4,8 +4,8 @@ Signed file: `MU.research.26.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $1,213.56 (2026-06-26, ~15-min delayed) |
-| Market cap | $1.37T |
+| Current price | $1,132.33 (2026-06-26, ~15-min delayed) |
+| Market cap | $1.28T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `MU.research.26.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +851.03%; price +188.45% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Strong | Profit margin 41.49%, revenue growth 196.30%. |
-| Value attractiveness | Reasonable | Forward P/E 8.16, EV/Sales 20.28. |
-| Risk level | High | Beta 2.17, ATR 7.9% of price, short float 3.34%. |
+| Technical momentum | High | 1Y +791.98%; price +165.99% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -6.69% from 52w high; no clean fresh pivot by default. |
+| Fundamental quality | Strong | Profit margin 55.91%, revenue growth 345.70%. |
+| Value attractiveness | Reasonable | Forward P/E 7.61, EV/Sales 14.95. |
+| Risk level | High | Beta 2.17, ATR 8.4% of price, short float 3.69%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,47 +36,47 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
-| Stock market today: Dow, S&P 500, Nasdaq futures drop as tech struggles to find its footing | Yahoo Finance | 2026-06-25 |
-| Microsoft stock tumbles, Micron sparks memory chip rally, Qualcomm's data center venture | Yahoo Finance Video | 2026-06-25 |
-| Employers, governments join forces to address AI job loss concerns | Yahoo Finance Video | 2026-06-25 |
-| AI trade: Making sense of Micron's massive Q3 earnings boost | Yahoo Finance Video | 2026-06-25 |
+| Is the cost of AI catching up to markets? | Yahoo Finance Video | 2026-06-26 |
+| Fed likely to 'stay put' on rates in 2026 after hot inflation data | Yahoo Finance Video | 2026-06-26 |
+| How To Invest: 5 Tips For Dealing With This Stock Market | Investor's Business Daily | 2026-06-26 |
+| Stock Market Today: Nasdaq Sinks Again; Granite Rallies But Electronics Firms Get Crushed (Live Coverage) | Investor's Business Daily | 2026-06-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $1,213.56; 52w high $1,213.56 (+0.00%); 52w low $104.73 (+1058.77%) |
-| Trend | +188.45% vs SMA200, +53.88% vs SMA50, +18.40% vs SMA20 |
-| Momentum | RSI(14) 64.5 (neutral) |
-| Volatility | ATR(14) 95.41 (~7.9% of price); beta 2.17 |
-| Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $1,132.33; 52w high $1,213.56 (-6.69%); 52w low $104.73 (+981.21%) |
+| Trend | +165.99% vs SMA200, +41.16% vs SMA50, +9.36% vs SMA20 |
+| Momentum | RSI(14) 59.0 (neutral) |
+| Volatility | ATR(14) 95.16 (~8.4% of price); beta 2.17 |
+| Setup perspective | -6.69% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +16.3% |
-| Month | +35.5% |
-| Quarter | +217.7% |
-| Half Y | +339.1% |
-| 1Y | +851.0% |
-| YTD | +284.9% |
+| Week | -0.1% |
+| Month | +22.0% |
+| Quarter | +218.7% |
+| Half Y | +310.2% |
+| 1Y | +792.0% |
+| YTD | +259.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Revenue (ttm) | $58.12B | Revenue growth 196.30% y/y |
-| Profitability | Gross 58.44%, operating 67.62%, net 41.49% | ROA 20.14%, ROE 39.82% |
-| Balance sheet | Cash $14.59B, debt $10.80B | Current ratio 2.90, debt/equity 14.90 |
-| Valuation | P/E 27.40, forward P/E 8.16, P/S 23.58, P/B 18.89 | EV/Sales 20.28, EV/EBITDA 32.03 |
-| Growth expectations | Earnings growth 756.00%, EPS q/q 770.80% | Analyst mean target $1,365.08 (40 analysts) |
+| Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
+| Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
+| Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
+| Valuation | P/E 25.57, forward P/E 7.61, P/S 14.17, P/B 17.63 | EV/Sales 14.95, EV/EBITDA 19.78 |
+| Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,365.08 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 81.65% |
+| Institutional ownership | 81.53% |
 | Insider ownership | 0.25% |
-| Short float | 3.34% |
-| Short ratio (days to cover) | 0.7 |
+| Short float | 3.69% |
+| Short ratio (days to cover) | 0.8 |
 
 **Top institutional holders:**
 
@@ -94,7 +94,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | JPMORGAN CHASE & CO | 15,775,296 | 1.40% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.17, ATR 7.9% of price, short float 3.34%. Size positions accordingly.
+- **Volatility risk:** Beta 2.17, ATR 8.4% of price, short float 3.69%. Size positions accordingly.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -110,21 +110,21 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $1,213.56 | EV/Sales | 20.28 |
-| Market cap | $1.37T | EV/EBITDA | 32.03 |
-| Beta | 2.17 | Gross margin | 58.44% |
-| RSI(14) | 64.5 | Operating margin | 67.62% |
-| ATR(14) | 95.41 | Profit margin | 41.49% |
-| SMA20 dist | +18.40% | ROA | 20.14% |
-| SMA50 dist | +53.88% | ROE | 39.82% |
-| SMA200 dist | +188.45% | Revenue (ttm) | $58.12B |
-| 52W high | $1,213.56 | Revenue growth y/y | 196.30% |
-| 52W low | $104.73 | Inst. ownership | 81.65% |
-| P/E (ttm) | 27.40 | Insider ownership | 0.25% |
-| Forward P/E | 8.16 | Short float | 3.34% |
+| Price | $1,132.33 | EV/Sales | 14.95 |
+| Market cap | $1.28T | EV/EBITDA | 19.78 |
+| Beta | 2.17 | Gross margin | 72.57% |
+| RSI(14) | 59.0 | Operating margin | 80.37% |
+| ATR(14) | 95.16 | Profit margin | 55.91% |
+| SMA20 dist | +9.36% | ROA | 34.87% |
+| SMA50 dist | +41.16% | ROE | 66.64% |
+| SMA200 dist | +165.99% | Revenue (ttm) | $90.27B |
+| 52W high | $1,213.56 | Revenue growth y/y | 345.70% |
+| 52W low | $104.73 | Inst. ownership | 81.53% |
+| P/E (ttm) | 25.57 | Insider ownership | 0.25% |
+| Forward P/E | 7.61 | Short float | 3.69% |
 | PEG (trailing) | 0.36 | Avg volume | 51,577,108 |
-| P/S | 23.58 | Employees | 53,000 |
-| P/B | 18.89 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/S | 14.17 | Employees | 53,000 |
+| P/B | 17.63 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

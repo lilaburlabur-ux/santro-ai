@@ -4,8 +4,8 @@ Signed file: `SYNA.research.26.06.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $125.62 (2026-06-26, ~15-min delayed) |
-| Market cap | $4.85B |
+| Current price | $121.00 (2026-06-26, ~15-min delayed) |
+| Market cap | $4.68B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `SYNA.research.26.06.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +90.65%; price +45.93% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -14.87% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +85.13%; price +40.15% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -18.01% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-4.10%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 23.82, EV/Sales 4.55. |
-| Risk level | High | Beta 1.96, ATR 7.5% of price, short float 18.89%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 22.95, EV/Sales 4.55. |
+| Risk level | High | Beta 1.96, ATR 7.8% of price, short float 18.89%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
 
@@ -36,30 +36,30 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 
 | Headline | Source | Date |
 |---|---|---|
-| Onsemi announces $7bn all-stock agreement to buy Synaptics | Verdict | 2026-06-26 |
-| ON Semiconductor Joins ‘Edge AI’ Market With $7 Billion Acquisition. The Stock Falls. | Barrons.com | 2026-06-25 |
-| ON Stock Falls 9% After-Hours While SYNA Soars 12% On $7B Synaptics Takeover | Stocktwits | 2026-06-25 |
-| Onsemi bets on physical AI with $7 billion Synaptics acquisition | Investing.com | 2026-06-25 |
+| Trending: Netflix stock bounces back, Moderna surges post–investor day, ON Semi plummets | Yahoo Finance Video | 2026-06-26 |
+| Sector Update: Tech Stocks Fall Late Afternoon | MT Newswires | 2026-06-26 |
+| Here's Why ON Semiconductor Stock Crashed Hard Today | Motley Fool | 2026-06-26 |
+| Stocks to Watch: ON Semiconductor, Apple, Micron | The Wall Street Journal | 2026-06-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $125.62; 52w high $147.57 (-14.87%); 52w low $58.52 (+114.66%) |
-| Trend | +45.93% vs SMA200, +5.25% vs SMA50, -7.77% vs SMA20 |
-| Momentum | RSI(14) 46.2 (neutral) |
-| Volatility | ATR(14) 9.40 (~7.5% of price); beta 1.96 |
-| Setup perspective | -14.87% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $121.00; 52w high $147.57 (-18.01%); 52w low $58.52 (+106.77%) |
+| Trend | +40.15% vs SMA200, +0.65% vs SMA50, -10.43% vs SMA20 |
+| Momentum | RSI(14) 43.3 (neutral) |
+| Volatility | ATR(14) 9.42 (~7.8% of price); beta 1.96 |
+| Setup perspective | -18.01% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.9% |
-| Month | -14.9% |
-| Quarter | +67.6% |
-| Half Y | +68.7% |
-| 1Y | +90.7% |
-| YTD | +65.9% |
+| Week | -14.1% |
+| Month | -14.6% |
+| Quarter | +65.3% |
+| Half Y | +64.8% |
+| 1Y | +85.1% |
+| YTD | +59.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,7 +67,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Revenue (ttm) | $1.17B | Revenue growth 10.40% y/y |
 | Profitability | Gross 43.61%, operating -4.32%, net -4.10% | ROA -1.75%, ROE -3.50% |
 | Balance sheet | Cash $404.40M, debt $879.40M | Current ratio 3.04, debt/equity 64.72 |
-| Valuation | P/E —, forward P/E 23.82, P/S 4.14, P/B 3.58 | EV/Sales 4.55, EV/EBITDA 60.48 |
+| Valuation | P/E —, forward P/E 22.95, P/S 3.99, P/B 3.45 | EV/Sales 4.55, EV/EBITDA 60.48 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $129.64 (11 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -94,8 +94,8 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Geode Capital Management, LLC | 1,033,212 | 2.67% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 23.82, EV/Sales 4.55. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.96, ATR 7.5% of price, short float 18.89%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 22.95, EV/Sales 4.55. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.96, ATR 7.8% of price, short float 18.89%. Size positions accordingly.
 - **Short interest risk:** short float 18.89% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -112,33 +112,33 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $125.62 | EV/Sales | 4.55 |
-| Market cap | $4.85B | EV/EBITDA | 60.48 |
+| Price | $121.00 | EV/Sales | 4.55 |
+| Market cap | $4.68B | EV/EBITDA | 60.48 |
 | Beta | 1.96 | Gross margin | 43.61% |
-| RSI(14) | 46.2 | Operating margin | -4.32% |
-| ATR(14) | 9.40 | Profit margin | -4.10% |
-| SMA20 dist | -7.77% | ROA | -1.75% |
-| SMA50 dist | +5.25% | ROE | -3.50% |
-| SMA200 dist | +45.93% | Revenue (ttm) | $1.17B |
+| RSI(14) | 43.3 | Operating margin | -4.32% |
+| ATR(14) | 9.42 | Profit margin | -4.10% |
+| SMA20 dist | -10.43% | ROA | -1.75% |
+| SMA50 dist | +0.65% | ROE | -3.50% |
+| SMA200 dist | +40.15% | Revenue (ttm) | $1.17B |
 | 52W high | $147.57 | Revenue growth y/y | 10.40% |
 | 52W low | $58.52 | Inst. ownership | 110.73% |
 | P/E (ttm) | — | Insider ownership | 2.03% |
-| Forward P/E | 23.82 | Short float | 18.89% |
+| Forward P/E | 22.95 | Short float | 18.89% |
 | PEG (trailing) | — | Avg volume | 880,856 |
-| P/S | 4.14 | Employees | 1,700 |
-| P/B | 3.58 | Analyst rec (1=buy..5=sell) | — |
+| P/S | 3.99 | Employees | 1,700 |
+| P/B | 3.45 | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-06-26 | main | Wells Fargo | Overweight → Overweight |
+| 2026-06-26 | down | Rosenblatt | Buy → Neutral |
+| 2026-06-26 | down | Susquehanna | Positive → Neutral |
+| 2026-06-26 | down | Needham | Buy → Hold |
 | 2026-06-09 | main | Wells Fargo | Overweight → Overweight |
 | 2026-05-20 | main | Rosenblatt | Buy → Buy |
 | 2026-05-08 | main | JP Morgan | Overweight → Overweight |
 | 2026-05-08 | main | Barclays | Overweight → Overweight |
-| 2026-05-08 | main | Susquehanna | Positive → Positive |
-| 2026-02-06 | main | JP Morgan | Overweight → Overweight |
-| 2026-02-06 | main | Mizuho | Outperform → Outperform |
-| 2026-02-06 | main | Needham | Buy → Buy |
 
 ## 9. Conclusion
 SYNA: High momentum / weak fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

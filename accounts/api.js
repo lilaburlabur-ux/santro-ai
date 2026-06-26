@@ -14,6 +14,27 @@
   const CFG = window.SANTRO_CONFIG || {};
   const BASE = (CFG.apiBase || "").replace(/\/+$/, "");
 
+  // Anonymous metering id. The browser mints one random id and reuses it, sent
+  // as X-Santro-Anon so the backend can count free runs per browser WITHOUT a
+  // cross-site cookie (dropped as third-party) or the client IP (which rotates
+  // on carrier NAT / VPN / iCloud Private Relay and so leaked the limit). It is
+  // NOT a credential — clearing it merely resets the free-run count — so
+  // first-party localStorage is the right home; real auth stays in httpOnly
+  // cookies. If storage is blocked (private mode) the backend falls back to IP.
+  const ANON_ID = (function () {
+    const K = "santro_anon_id", ok = (v) => v && /^[A-Za-z0-9_-]{8,64}$/.test(v);
+    try {
+      let v = localStorage.getItem(K);
+      if (!ok(v)) {
+        v = (crypto.randomUUID ? crypto.randomUUID()
+              : "a" + Math.random().toString(36).slice(2) + Date.now().toString(36))
+            .replace(/[^A-Za-z0-9_-]/g, "").slice(0, 64);
+        localStorage.setItem(K, v);
+      }
+      return v;
+    } catch (_) { return null; }
+  })();
+
   // Backend routes in one place — adjust here if the backend differs.
   const R = {
     me: "/account/me",
@@ -52,7 +73,10 @@
           method,
           credentials: "include",
           cache: "no-store",
-          headers: body ? { "content-type": "application/json" } : undefined,
+          headers: Object.assign(
+            ANON_ID ? { "x-santro-anon": ANON_ID } : {},
+            body ? { "content-type": "application/json" } : {}
+          ),
           body: body ? JSON.stringify(body) : undefined,
         });
       } catch (e) {

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-26T09:19:19+00:00",
+  "as_of": "2026-06-26T09:34:25+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,13 +9,29 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "MU",
+   "company": "Micron Technology Inc",
+   "move_pct": -5.2,
+   "price": 1150.44,
+   "volume": 82143900,
+   "volume_vs_avg": "~1.5x",
+   "heat_score": 41,
+   "direction": "down",
+   "why": "Micron Beats Meta in Market Cap: Can It Catch Nvidia Next?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/micron-beats-meta-market-cap-055906218.html",
+   "published": "2026-06-26T05:59:06Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
    "ticker": "SYNA",
    "company": "Synaptics Inc",
-   "move_pct": 5.87,
-   "price": 133.0,
+   "move_pct": 5.25,
+   "price": 132.21,
    "volume": 1136400,
    "volume_vs_avg": "~1.3x",
-   "heat_score": 42,
+   "heat_score": 40,
    "direction": "up",
    "why": "Onsemi announces $7bn all-stock agreement to buy Synaptics",
    "catalyst_type": "momentum_narrative",

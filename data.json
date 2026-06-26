@@ -1,16 +1,16 @@
 {
-  "as_of_utc": "2026-06-26T18:40:03+00:00",
-  "as_of_local": "2026-06-26 18:40:03 UTC",
+  "as_of_utc": "2026-06-26T18:45:12+00:00",
+  "as_of_local": "2026-06-26 18:45:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 193.97,
+      "price": 193.99,
       "previous_close": 195.74,
-      "change_pct": -0.9,
-      "market_cap": 4698147399566.65,
+      "change_pct": -0.89,
+      "market_cap": 4697905322616.577,
       "headlines": [
         {
           "title": "What turning AI compute into a financial asset would look like",
@@ -35,11 +35,17 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 431.38,
+      "price": 431.26,
       "previous_close": 434.99,
-      "change_pct": -0.83,
-      "market_cap": 2237756033330.965,
+      "change_pct": -0.86,
+      "market_cap": 2236718833495.54,
       "headlines": [
+        {
+          "title": "A VC Says the \u2018All Your Eggs in the AI Basket\u2019 Trade Is Finally Cracking \u2014 Here\u2019s Where the Money Goes Next",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vc-says-eggs-ai-basket-182526868.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-06-26T18:25:26Z"
+        },
         {
           "title": "Big Tech\u2019s Quiet Diversification Out of Taiwan Is the Ultimate Catalyst for Intel\u2019s Turnaround",
           "url": "https://finance.yahoo.com/technology/articles/big-tech-quiet-diversification-taiwan-140620620.html",
@@ -51,22 +57,16 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/heres-why-taiwan-semiconductor-tsm-114500354.html",
           "publisher": "Motley Fool",
           "published": "2026-06-26T11:45:00Z"
-        },
-        {
-          "title": "Aletheia Capital Raises Price Target on Taiwan Semiconductor (TSM) on Advanced Node Growth Expectations",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aletheia-capital-raises-price-target-105024440.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-26T10:50:24Z"
         }
       ]
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 368.96,
+      "price": 368.71,
       "previous_close": 378.91,
-      "change_pct": -2.63,
-      "market_cap": 1755737436923.071,
+      "change_pct": -2.69,
+      "market_cap": 1753572656626.679,
       "headlines": [
         {
           "title": "Semiconductor stocks retreat over worries about memory costs",
@@ -91,10 +91,10 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 1148.93,
+      "price": 1144.57,
       "previous_close": 1213.56,
-      "change_pct": -5.33,
-      "market_cap": 1298056685568.0352,
+      "change_pct": -5.68,
+      "market_cap": 1290975368452.8052,
       "headlines": [
         {
           "title": "Tech stocks sell-off, but the momentum trade is just 'taking a breather'",
@@ -119,10 +119,10 @@
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 518.75,
+      "price": 518.92,
       "previous_close": 532.57,
-      "change_pct": -2.59,
-      "market_cap": 846289892606.1122,
+      "change_pct": -2.56,
+      "market_cap": 845743605563.4199,
       "headlines": [
         {
           "title": "Semiconductor stocks retreat over worries about memory costs",
@@ -147,10 +147,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 127.84,
+      "price": 127.9,
       "previous_close": 132.87,
-      "change_pct": -3.79,
-      "market_cap": 642875678405.7617,
+      "change_pct": -3.74,
+      "market_cap": 642373047729.4922,
       "headlines": [
         {
           "title": "Semiconductor stocks retreat over worries about memory costs",
@@ -175,10 +175,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 327.68,
+      "price": 328.14,
       "previous_close": 347.71,
-      "change_pct": -5.76,
-      "market_cap": 348881972025.0553,
+      "change_pct": -5.63,
+      "market_cap": 349030922674.3756,
       "headlines": [
         {
           "title": "Nvidia, Micron, AMD Lead Chip Selloff on OpenAI IPO Delay Report Rattles Tech",
@@ -203,10 +203,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 264.14,
+      "price": 264.5,
       "previous_close": 281.26,
-      "change_pct": -6.09,
-      "market_cap": 231417457018.049,
+      "change_pct": -5.96,
+      "market_cap": 231183386389.16016,
       "headlines": [
         {
           "title": "Semiconductor stocks retreat over worries about memory costs",
@@ -231,10 +231,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 196.22,
+      "price": 195.84,
       "previous_close": 204.9,
-      "change_pct": -4.24,
-      "market_cap": 206952906433.10547,
+      "change_pct": -4.42,
+      "market_cap": 206367928070.06836,
       "headlines": [
         {
           "title": "Semiconductor stocks retreat over worries about memory costs",
@@ -259,10 +259,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 278.52,
+      "price": 278.5,
       "previous_close": 298.64,
       "change_pct": -6.74,
-      "market_cap": 70300575029.47235,
+      "market_cap": 70237457259.72235,
       "headlines": [
         {
           "title": "Analog Devices Stock Is More Market, More Punch",
@@ -287,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 137.95,
+      "price": 137.97,
       "previous_close": 144.2,
-      "change_pct": -4.33,
-      "market_cap": 18927634608.320404,
+      "change_pct": -4.32,
+      "market_cap": 18890643992.143677,
       "headlines": [
         {
           "title": "Why Lattice Semiconductor (LSCC) Shares Are Trading Lower Today",
@@ -315,10 +315,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 125.71,
+      "price": 125.7,
       "previous_close": 125.62,
-      "change_pct": 0.07,
-      "market_cap": 4854438719.817429,
+      "change_pct": 0.06,
+      "market_cap": 4852893177.043571,
       "headlines": [
         {
           "title": "Wall Street Little Changed as Trump Accuses Iran of Violating Ceasefire Agreement",
@@ -343,10 +343,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 42.31,
+      "price": 42.28,
       "previous_close": 43.9,
-      "change_pct": -3.62,
-      "market_cap": 1178729940.6490211,
+      "change_pct": -3.68,
+      "market_cap": 1178033413.9139977,
       "headlines": [
         {
           "title": "All You Need to Know About Ceva (CEVA) Rating Upgrade to Buy",
@@ -373,16 +373,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 72.83,
-      "change_pct": -5.27,
+      "price": 72.71,
+      "change_pct": -5.44,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -5.33,
-          "price": 1148.93,
+          "change_pct": -5.68,
+          "price": 1144.57,
           "currency": "USD"
         },
         {
@@ -417,8 +417,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -9.47,
-          "price": 2113.9,
+          "change_pct": -9.49,
+          "price": 2113.5,
           "currency": "USD"
         },
         {
@@ -426,8 +426,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -10.23,
-          "price": 920.45,
+          "change_pct": -10.49,
+          "price": 917.75,
           "currency": "USD"
         },
         {
@@ -435,8 +435,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -13.47,
-          "price": 584.44,
+          "change_pct": -13.53,
+          "price": 584.03,
           "currency": "USD"
         },
         {
@@ -463,16 +463,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 72.83,
-    "change_pct": -5.27,
+    "price": 72.71,
+    "change_pct": -5.44,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -5.33,
-        "price": 1148.93,
+        "change_pct": -5.68,
+        "price": 1144.57,
         "currency": "USD"
       },
       {
@@ -507,8 +507,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -9.47,
-        "price": 2113.9,
+        "change_pct": -9.49,
+        "price": 2113.5,
         "currency": "USD"
       },
       {
@@ -516,8 +516,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -10.23,
-        "price": 920.45,
+        "change_pct": -10.49,
+        "price": 917.75,
         "currency": "USD"
       },
       {
@@ -525,8 +525,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -13.47,
-        "price": 584.44,
+        "change_pct": -13.53,
+        "price": 584.03,
         "currency": "USD"
       },
       {
@@ -552,23 +552,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7356.72,
-      "change_pct": -0.01
+      "price": 7356.38,
+      "change_pct": -0.02
     },
     {
       "label": "BTC",
-      "price": 59668.62,
+      "price": 59666.94,
       "change_pct": -0.09
     },
     {
       "label": "Gold",
-      "price": 4087.7,
-      "change_pct": 1.42
+      "price": 4089.3,
+      "change_pct": 1.46
     },
     {
       "label": "Nasdaq100",
-      "price": 29177.74,
-      "change_pct": -0.89
+      "price": 29180.52,
+      "change_pct": -0.88
     }
   ]
 }

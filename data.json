@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-06-26T06:27:18+00:00",
-  "as_of_local": "2026-06-26 06:27:18 UTC",
+  "as_of_utc": "2026-06-26T06:32:25+00:00",
+  "as_of_local": "2026-06-26 06:32:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -229,34 +231,6 @@
       ]
     },
     {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 204.9,
-      "previous_close": 197.41,
-      "change_pct": 3.79,
-      "market_cap": 215964593566.89453,
-      "headlines": [
-        {
-          "title": "Sandisk, Western Digital, and others soar as Micron results  'justify elevated valuations'",
-          "url": "https://finance.yahoo.com/markets/article/sandisk-western-digital-and-others-soar-as-micron-results-justify-elevated-valuations-140642825.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-06-25T14:06:42Z"
-        },
-        {
-          "title": "Qualcomm raises data center outlook on AI demand",
-          "url": "https://finance.yahoo.com/video/qualcomm-raises-data-center-outlook-165000920.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-06-25T16:50:00Z"
-        },
-        {
-          "title": "Asian shares plunge as traders sell to lock in profits after recent rallies driven by AI",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-plunge-traders-sell-043204996.html",
-          "publisher": "Associated Press",
-          "published": "2026-06-26T04:32:04Z"
-        }
-      ]
-    },
-    {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
       "price": 298.64,
@@ -390,8 +364,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -9.67,
-          "price": 2635000.0,
+          "change_pct": -9.39,
+          "price": 2643000.0,
           "currency": "KRW"
         },
         {
@@ -408,8 +382,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -12.44,
-          "price": 90930.0,
+          "change_pct": -11.66,
+          "price": 91740.0,
           "currency": "JPY"
         },
         {
@@ -480,8 +454,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -9.67,
-        "price": 2635000.0,
+        "change_pct": -9.39,
+        "price": 2643000.0,
         "currency": "KRW"
       },
       {
@@ -498,8 +472,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -12.44,
-        "price": 90930.0,
+        "change_pct": -11.66,
+        "price": 91740.0,
         "currency": "JPY"
       },
       {
@@ -557,13 +531,13 @@
     },
     {
       "label": "BTC",
-      "price": 59897.79,
-      "change_pct": 0.29
+      "price": 59932.01,
+      "change_pct": 0.35
     },
     {
       "label": "Gold",
-      "price": 4024.9,
-      "change_pct": -0.14
+      "price": 4035.6,
+      "change_pct": 0.13
     },
     {
       "label": "Nasdaq100",

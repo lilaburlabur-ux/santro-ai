@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-06-26T20:36:36+00:00",
-  "as_of_local": "2026-06-26 20:36:36 UTC",
+  "as_of_utc": "2026-06-26T20:41:46+00:00",
+  "as_of_local": "2026-06-26 20:41:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEVA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -234,7 +236,7 @@
       "price": 189.39,
       "previous_close": 204.9,
       "change_pct": -7.57,
-      "market_cap": 199617059356.68945,
+      "market_cap": 199617060000.0,
       "headlines": [
         {
           "title": "Semiconductor stocks retreat over worries about memory costs",
@@ -337,34 +339,6 @@
           "url": "https://www.investors.com/news/technology/onsemi-stock-falls-on-synaptics-acquisition/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-06-26T20:17:05Z"
-        }
-      ]
-    },
-    {
-      "symbol": "CEVA",
-      "name": "CEVA",
-      "price": 42.32,
-      "previous_close": 43.9,
-      "change_pct": -3.6,
-      "market_cap": 1179008487.5779953,
-      "headlines": [
-        {
-          "title": "All You Need to Know About Ceva (CEVA) Rating Upgrade to Buy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/know-ceva-ceva-rating-upgrade-160005922.html",
-          "publisher": "Zacks",
-          "published": "2026-06-23T16:00:05Z"
-        },
-        {
-          "title": "Ceva (CEVA) Surges 10.7%: Is This an Indication of Further Gains?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-ceva-surges-10-7-093100019.html",
-          "publisher": "Zacks",
-          "published": "2026-06-19T09:31:00Z"
-        },
-        {
-          "title": "Datadog upgraded, Accenture downgraded: Wall Street's top analyst calls",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/datadog-upgraded-accenture-downgraded-wall-134248909.html",
-          "publisher": "The Fly",
-          "published": "2026-06-15T13:42:48Z"
         }
       ]
     }
@@ -557,13 +531,13 @@
     },
     {
       "label": "BTC",
-      "price": 59538.42,
-      "change_pct": -0.31
+      "price": 59588.01,
+      "change_pct": -0.22
     },
     {
       "label": "Gold",
-      "price": 4087.0,
-      "change_pct": 1.4
+      "price": 4083.4,
+      "change_pct": 1.31
     },
     {
       "label": "Nasdaq100",

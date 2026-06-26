@@ -37,9 +37,9 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Headline | Source | Date |
 |---|---|---|
 | Trending: Netflix stock bounces back, Moderna surges post–investor day, ON Semi plummets | Yahoo Finance Video | 2026-06-26 |
+| Onsemi Acquisition Seen Diluting Its Data Center Focus | Investor's Business Daily | 2026-06-26 |
 | Sector Update: Tech Stocks Fall Late Afternoon | MT Newswires | 2026-06-26 |
 | Here's Why ON Semiconductor Stock Crashed Hard Today | Motley Fool | 2026-06-26 |
-| Stocks to Watch: ON Semiconductor, Apple, Micron | The Wall Street Journal | 2026-06-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

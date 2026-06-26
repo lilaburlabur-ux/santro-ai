@@ -36,10 +36,10 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Stocks making big moves this week: Qualcomm, Accenture, 10x Genomics, Seagate, and Lattice Semiconductor | StockStory | 2026-06-26 |
 | Why Lattice Semiconductor (LSCC) Shares Are Trading Lower Today | StockStory | 2026-06-23 |
 | Can Lattice's Robust Industrial Portfolio Enhance Its Market Position? | Zacks | 2026-06-23 |
 | 2 Cash-Heavy Stocks with Exciting Potential and 1 We Find Risky | StockStory | 2026-06-19 |
-| Power Integrations, Lattice Semiconductor, and onsemi Stocks Trade Up, What You Need To Know | StockStory | 2026-06-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Why Tower Semiconductor Took a Dive Today | Motley Fool | 2026-06-26 |
 | Breakout Watch: This Firm Helps Nvidia, TSM And Intel Bring AI Ideas To Market | Investor's Business Daily | 2026-06-26 |
 | A VC Says the ‘All Your Eggs in the AI Basket’ Trade Is Finally Cracking — Here’s Where the Money Goes Next | 24/7 Wall St. | 2026-06-26 |
 | Big Tech’s Quiet Diversification Out of Taiwan Is the Ultimate Catalyst for Intel’s Turnaround | 24/7 Wall St. | 2026-06-26 |
-| Here's Why Taiwan Semiconductor (TSM) May Be the Smartest AI Infrastructure Buy Right Now | Motley Fool | 2026-06-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

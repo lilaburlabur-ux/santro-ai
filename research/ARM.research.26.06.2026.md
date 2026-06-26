@@ -37,9 +37,9 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Headline | Source | Date |
 |---|---|---|
 | Nvidia, Micron, AMD Lead Chip Selloff on OpenAI IPO Delay Report Rattles Tech | GuruFocus.com | 2026-06-26 |
-| Stocks Pressured by Weakness in Chipmakers | Barchart | 2026-06-26 |
 | Arm (ARM) Wants To Be The Next Full Stack AI Infrastructure Provider | Simply Wall St. | 2026-06-26 |
 | Forget the Cellphones: BlackBerry Shares Jump 23% as an AI Play | Barrons.com | 2026-06-25 |
+| Is Arm Holdings a Buy Near $347? The Case for Double-Digit Upside | 24/7 Wall St. | 2026-06-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

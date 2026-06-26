@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | What turning AI compute into a financial asset would look like | Yahoo Finance Video | 2026-06-26 |
-| Tesla Stock Is Down This Year, and SpaceX Is Volatile. Are Either Worth Owning Right Now? | Motley Fool | 2026-06-26 |
-| How To Invest: 5 Tips For Dealing With This Stock Market | Investor's Business Daily | 2026-06-26 |
-| Breakout Watch: This Firm Helps Nvidia, TSM And Intel Bring AI Ideas To Market | Investor's Business Daily | 2026-06-26 |
+| Is Hyperliquid Actually Worth the Hype? | Motley Fool | 2026-06-26 |
+| SpaceX Got $90 Billion in Orders for a $25 Billion Bond Sale Less Than 2 Weeks After Its IPO. Is That a Good Sign or a Warning? | Motley Fool | 2026-06-26 |
+| Nvidia isn’t enough — here’s how to build a diversified AI portfolio | TheStreet | 2026-06-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

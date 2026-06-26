@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
-| Is the cost of AI catching up to markets? | Yahoo Finance Video | 2026-06-26 |
-| Fed likely to 'stay put' on rates in 2026 after hot inflation data | Yahoo Finance Video | 2026-06-26 |
-| How To Invest: 5 Tips For Dealing With This Stock Market | Investor's Business Daily | 2026-06-26 |
-| Stock Market Today: Nasdaq Sinks Again; Granite Rallies But Electronics Firms Get Crushed (Live Coverage) | Investor's Business Daily | 2026-06-26 |
+| Stock market today: S&P 500, Nasdaq snap 2-week win streak as AI jitters pressure tech | Yahoo Finance | 2026-06-25 |
+| Semiconductor stocks retreat over worries about memory costs | Yahoo Finance | 2026-06-26 |
+| Micron is looking to end the memory industry's boom-bust cycle | Yahoo Finance | 2026-06-25 |
+| Stocks making big moves this week: Qualcomm, Accenture, 10x Genomics, Seagate, and Lattice Semiconductor | StockStory | 2026-06-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -18,7 +18,7 @@ Signed file: `AVGO.research.26.06.2026`
 | Technical momentum | Moderate | 1Y +38.94%; price +1.39% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -24.08% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 38.85%, revenue growth 47.90%. |
-| Value attractiveness | Reasonable | Forward P/E 18.82, EV/Sales 24.49. |
+| Value attractiveness | Reasonable | Forward P/E 18.82, EV/Sales 23.61. |
 | Risk level | High | Beta 1.43, ATR 5.3% of price, short float 1.32%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -37,9 +37,9 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Headline | Source | Date |
 |---|---|---|
 | Semiconductor stocks retreat over worries about memory costs | Yahoo Finance | 2026-06-26 |
-| OpenAI Just Signaled It Might Delay Its IPO. AI Stocks Are Tumbling. Is the Bubble Bursting? | Motley Fool | 2026-06-26 |
-| Is The Growth Baked Into Advanced Micro Devices Stock Believable? | Trefis | 2026-06-26 |
-| How Much Upside Can NVDA Stock's Growth Deliver? | Trefis | 2026-06-26 |
+| OpenAI Is Building Its Own AI Chip With Broadcom. Should Nvidia Investors Be Worried? | Motley Fool | 2026-06-26 |
+| What If The Real Power Behind Marvell Stock Isn't Just Growth? | Trefis | 2026-06-26 |
+| Stock Market Today, June 26: Sandisk Tumbles and Tech Weakness Weighs on Markets | Motley Fool | 2026-06-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -67,7 +67,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $75.46B | Revenue growth 47.90% y/y |
 | Profitability | Gross 76.28%, operating 48.99%, net 38.85% | ROA 12.12%, ROE 37.28% |
 | Balance sheet | Cash $19.63B, debt $64.91B | Current ratio 2.24, debt/equity 74.02 |
-| Valuation | P/E 60.63, forward P/E 18.82, P/S 23.01, P/B 19.81 | EV/Sales 24.49, EV/EBITDA 43.91 |
+| Valuation | P/E 60.63, forward P/E 18.82, P/S 23.01, P/B 19.81 | EV/Sales 23.61, EV/EBITDA 42.34 |
 | Growth expectations | Earnings growth 85.40%, EPS q/q 87.50% | Analyst mean target $523.73 (45 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,8 +109,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $365.02 | EV/Sales | 24.49 |
-| Market cap | $1.74T | EV/EBITDA | 43.91 |
+| Price | $365.02 | EV/Sales | 23.61 |
+| Market cap | $1.74T | EV/EBITDA | 42.34 |
 | Beta | 1.43 | Gross margin | 76.28% |
 | RSI(14) | 39.9 | Operating margin | 48.99% |
 | ATR(14) | 19.52 | Profit margin | 38.85% |

@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Semiconductor stocks retreat over worries about memory costs | Yahoo Finance | 2026-06-26 |
+| What If The Real Power Behind Marvell Stock Isn't Just Growth? | Trefis | 2026-06-26 |
+| Intel (INTC) Lands Kontron Partnership For Core Ultra Edge AI Systems | Simply Wall St. | 2026-06-26 |
 | Breakout Watch: This Firm Helps Nvidia, TSM And Intel Bring AI Ideas To Market | Investor's Business Daily | 2026-06-26 |
-| Nancy Pelosi's Husband Just Bought Jim Cramer's Favorite Artificial Intelligence (AI) Chip Stock | Motley Fool | 2026-06-26 |
-| Nancy Pelosi bets up to $6 million on Intel and Uber, public disclosures show | Moneywise | 2026-06-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

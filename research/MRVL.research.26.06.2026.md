@@ -37,9 +37,9 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Headline | Source | Date |
 |---|---|---|
 | Semiconductor stocks retreat over worries about memory costs | Yahoo Finance | 2026-06-26 |
+| Marvell Technology (NasdaqGS:MRVL) Expands AI Push With Nvidia Deal And Two Acquisitions | Simply Wall St. | 2026-06-26 |
+| What If The Real Power Behind Marvell Stock Isn't Just Growth? | Trefis | 2026-06-26 |
 | Is The Growth Baked Into Advanced Micro Devices Stock Believable? | Trefis | 2026-06-26 |
-| How Much Upside Can NVDA Stock's Growth Deliver? | Trefis | 2026-06-26 |
-| Marvell’s New Chief Financial Officer Sold Stock. Then the AI Rout Hit. | Barrons.com | 2026-06-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -5,7 +5,7 @@ Signed file: `SYNA.research.26.06.2026`
 | Field | Value |
 |---|---|
 | Current price | $121.00 (2026-06-26, ~15-min delayed) |
-| Market cap | $4.68B |
+| Market cap | $4.73B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
@@ -39,7 +39,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Trending: Netflix stock bounces back, Moderna surges post–investor day, ON Semi plummets | Yahoo Finance Video | 2026-06-26 |
 | Why onsemi (ON) Shares Are Falling Today | StockStory | 2026-06-26 |
 | Update: Equity Markets Fall as Trump Says Iran Violated Ceasefire | MT Newswires | 2026-06-26 |
-| US Equity Markets End Lower Amid Technology Stocks Sell-Off | MT Newswires | 2026-06-26 |
+| Stocks to Watch Recap: Micron, Wendy’s, Apple, ON Semiconductor | The Wall Street Journal | 2026-06-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -67,7 +67,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Revenue (ttm) | $1.17B | Revenue growth 10.40% y/y |
 | Profitability | Gross 43.61%, operating -4.32%, net -4.10% | ROA -1.75%, ROE -3.50% |
 | Balance sheet | Cash $404.40M, debt $879.40M | Current ratio 3.04, debt/equity 64.72 |
-| Valuation | P/E —, forward P/E 22.95, P/S 3.99, P/B 3.45 | EV/Sales 4.55, EV/EBITDA 60.48 |
+| Valuation | P/E —, forward P/E 22.95, P/S 4.03, P/B 3.45 | EV/Sales 4.55, EV/EBITDA 60.48 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $129.64 (11 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -113,7 +113,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $121.00 | EV/Sales | 4.55 |
-| Market cap | $4.68B | EV/EBITDA | 60.48 |
+| Market cap | $4.73B | EV/EBITDA | 60.48 |
 | Beta | 1.96 | Gross margin | 43.61% |
 | RSI(14) | 43.3 | Operating margin | -4.32% |
 | ATR(14) | 9.42 | Profit margin | -4.10% |
@@ -125,7 +125,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | P/E (ttm) | — | Insider ownership | 2.03% |
 | Forward P/E | 22.95 | Short float | 18.89% |
 | PEG (trailing) | — | Avg volume | 880,856 |
-| P/S | 3.99 | Employees | 1,700 |
+| P/S | 4.03 | Employees | 1,700 |
 | P/B | 3.45 | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions

@@ -18,7 +18,7 @@ Signed file: `MU.research.26.06.2026`
 | Technical momentum | High | 1Y +791.98%; price +165.99% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -6.69% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 55.91%, revenue growth 345.70%. |
-| Value attractiveness | Reasonable | Forward P/E 7.61, EV/Sales 14.95. |
+| Value attractiveness | Reasonable | Forward P/E 7.61, EV/Sales 13.93. |
 | Risk level | High | Beta 2.17, ATR 8.4% of price, short float 3.69%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -39,7 +39,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Stock market today: S&P 500, Nasdaq snap 2-week win streak as AI jitters pressure tech | Yahoo Finance | 2026-06-25 |
 | Semiconductor stocks retreat over worries about memory costs | Yahoo Finance | 2026-06-26 |
 | Micron is looking to end the memory industry's boom-bust cycle | Yahoo Finance | 2026-06-25 |
-| Stocks making big moves this week: Qualcomm, Accenture, 10x Genomics, Seagate, and Lattice Semiconductor | StockStory | 2026-06-26 |
+| Stock Rally Collides With a New Slate of Worries | The Wall Street Journal | 2026-06-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -67,7 +67,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
-| Valuation | P/E 25.57, forward P/E 7.61, P/S 14.17, P/B 17.63 | EV/Sales 14.95, EV/EBITDA 19.78 |
+| Valuation | P/E 25.57, forward P/E 7.61, P/S 14.17, P/B 17.63 | EV/Sales 13.93, EV/EBITDA 18.43 |
 | Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,365.08 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $1,132.33 | EV/Sales | 14.95 |
-| Market cap | $1.28T | EV/EBITDA | 19.78 |
+| Price | $1,132.33 | EV/Sales | 13.93 |
+| Market cap | $1.28T | EV/EBITDA | 18.43 |
 | Beta | 2.17 | Gross margin | 72.57% |
 | RSI(14) | 59.0 | Operating margin | 80.37% |
 | ATR(14) | 95.16 | Profit margin | 55.91% |

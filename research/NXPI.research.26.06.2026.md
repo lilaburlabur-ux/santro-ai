@@ -36,10 +36,10 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
+| NXP Semiconductors (NXPI) Registers a Bigger Fall Than the Market: Important Facts to Note | Zacks | 2026-06-26 |
 | Analog Devices Stock Is More Market, More Punch | Trefis | 2026-06-26 |
 | NXP Semiconductors and Universal Display Shares Are Falling, What You Need To Know | StockStory | 2026-06-23 |
 | Qualcomm Nears Deal for AI Chip Startup Modular | Bloomberg | 2026-06-22 |
-| NXP Semiconductors N.V. (NXPI) Reports Quarterly Dividend | Insider Monkey | 2026-06-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

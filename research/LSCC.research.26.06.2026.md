@@ -36,10 +36,10 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Lattice Semiconductor (LSCC) Wins AI Edge Solution Of The Year For sensAI | Simply Wall St. | 2026-06-26 |
 | Stocks making big moves this week: Qualcomm, Accenture, 10x Genomics, Seagate, and Lattice Semiconductor | StockStory | 2026-06-26 |
 | Why Lattice Semiconductor (LSCC) Shares Are Trading Lower Today | StockStory | 2026-06-23 |
 | Can Lattice's Robust Industrial Portfolio Enhance Its Market Position? | Zacks | 2026-06-23 |
-| 2 Cash-Heavy Stocks with Exciting Potential and 1 We Find Risky | StockStory | 2026-06-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

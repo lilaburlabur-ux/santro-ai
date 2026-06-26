@@ -37,9 +37,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | Semiconductor stocks retreat over worries about memory costs | Yahoo Finance | 2026-06-26 |
+| What If The Real Power Behind Marvell Stock Isn't Just Growth? | Trefis | 2026-06-26 |
 | OpenAI Just Signaled It Might Delay Its IPO. AI Stocks Are Tumbling. Is the Bubble Bursting? | Motley Fool | 2026-06-26 |
 | Is The Growth Baked Into Advanced Micro Devices Stock Believable? | Trefis | 2026-06-26 |
-| How Much Upside Can NVDA Stock's Growth Deliver? | Trefis | 2026-06-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

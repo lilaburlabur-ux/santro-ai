@@ -14,7 +14,7 @@
 | QCOM | $199.62B | +24% | 17.3 | 22% | Moderate | Reasonable | High |
 | NXPI | $69.94B | +30% | 15.6 | 21% | Moderate | Reasonable | High |
 | LSCC | $19.01B | +173% | 60.0 | 3% | High | Low (expensive) | High |
-| SYNA | $4.68B | +85% | 22.9 | -4% | High | Fair-to-demanding | High |
+| SYNA | $4.73B | +85% | 22.9 | -4% | High | Fair-to-demanding | High |
 | CEVA | $1.18B | +94% | 51.6 | -10% | High | Low (expensive) | High |
 
 13 reports generated; failed: none.

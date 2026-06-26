@@ -38,8 +38,8 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 |---|---|---|
 | Semiconductor stocks retreat over worries about memory costs | Yahoo Finance | 2026-06-26 |
 | How Qualcomm is evolving to grab a piece of the AI data center explosion | Yahoo Finance | 2026-06-25 |
+| What If The Real Power Behind Marvell Stock Isn't Just Growth? | Trefis | 2026-06-26 |
 | Stocks making big moves this week: Qualcomm, Accenture, 10x Genomics, Seagate, and Lattice Semiconductor | StockStory | 2026-06-26 |
-| Sector Update: Tech Stocks Fall Late Afternoon | MT Newswires | 2026-06-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

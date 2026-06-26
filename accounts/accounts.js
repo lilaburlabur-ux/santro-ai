@@ -141,7 +141,7 @@
       if (!email || !password) return; toggle(w, true);
       try { await API.login({ email, password }); closeModal(); await refreshUser(); if (ctx) SantroCalc.render(ctx); }
       catch (e) {
-        const txt = e.status === 403 ? "Please verify your email first." : "Invalid email or password.";
+        const txt = e.status === 403 ? (e.detail || "This account can't sign in.") : "Invalid email or password.";
         w.querySelector("#err").innerHTML = msg(txt, "err"); toggle(w, false);
       }
     };
@@ -166,8 +166,10 @@
       toggle(w, true);
       try {
         await API.register({ email, password, consent });
-        if (API.mode === "live") openAuthView("verifyNotice", email);
-        else { await API.login({ email, password }); closeModal(); await refreshUser(); if (ctx) SantroCalc.render(ctx); }
+        // Instant access: registration grants access immediately (no email
+        // verification step), so sign straight in instead of waiting on a link.
+        await API.login({ email, password });
+        closeModal(); await refreshUser(); if (ctx) SantroCalc.render(ctx);
       } catch (e) { w.querySelector("#err").innerHTML = msg(e.detail || "Couldn't create the account.", "err"); toggle(w, false); }
     };
     return w;

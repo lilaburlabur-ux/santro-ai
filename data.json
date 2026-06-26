@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-06-26T06:32:25+00:00",
-  "as_of_local": "2026-06-26 06:32:25 UTC",
+  "as_of_utc": "2026-06-26T06:47:30+00:00",
+  "as_of_local": "2026-06-26 06:47:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "QCOM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -208,7 +206,7 @@
       "price": 281.26,
       "previous_close": 276.7,
       "change_pct": 1.65,
-      "market_cap": 246258093988.30396,
+      "market_cap": 246046256542.96875,
       "headlines": [
         {
           "title": "Sandisk, Western Digital, and others soar as Micron results  'justify elevated valuations'",
@@ -227,6 +225,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-trillion-dollar-potential-190500588.html",
           "publisher": "Motley Fool",
           "published": "2026-06-25T19:05:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "price": 204.9,
+      "previous_close": 197.41,
+      "change_pct": 3.79,
+      "market_cap": 215964593566.89453,
+      "headlines": [
+        {
+          "title": "Sandisk, Western Digital, and others soar as Micron results  'justify elevated valuations'",
+          "url": "https://finance.yahoo.com/markets/article/sandisk-western-digital-and-others-soar-as-micron-results-justify-elevated-valuations-140642825.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-06-25T14:06:42Z"
+        },
+        {
+          "title": "Qualcomm raises data center outlook on AI demand",
+          "url": "https://finance.yahoo.com/video/qualcomm-raises-data-center-outlook-165000920.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-06-25T16:50:00Z"
+        },
+        {
+          "title": "Asian shares plunge as traders sell to lock in profits after recent rallies driven by AI",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-plunge-traders-sell-043204996.html",
+          "publisher": "Associated Press",
+          "published": "2026-06-26T04:32:04Z"
         }
       ]
     },
@@ -364,8 +390,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -9.39,
-          "price": 2643000.0,
+          "change_pct": -8.95,
+          "price": 2656000.0,
           "currency": "KRW"
         },
         {
@@ -373,8 +399,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -7.81,
-          "price": 330500.0,
+          "change_pct": -6.28,
+          "price": 336000.0,
           "currency": "KRW"
         },
         {
@@ -382,8 +408,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -11.66,
-          "price": 91740.0,
+          "change_pct": -11.24,
+          "price": 92180.0,
           "currency": "JPY"
         },
         {
@@ -418,8 +444,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -5.87,
-          "price": 449.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "TWD"
         },
         {
@@ -454,8 +480,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -9.39,
-        "price": 2643000.0,
+        "change_pct": -8.95,
+        "price": 2656000.0,
         "currency": "KRW"
       },
       {
@@ -463,8 +489,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -7.81,
-        "price": 330500.0,
+        "change_pct": -6.28,
+        "price": 336000.0,
         "currency": "KRW"
       },
       {
@@ -472,8 +498,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -11.66,
-        "price": 91740.0,
+        "change_pct": -11.24,
+        "price": 92180.0,
         "currency": "JPY"
       },
       {
@@ -508,8 +534,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -5.87,
-        "price": 449.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "TWD"
       },
       {
@@ -531,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 59932.01,
-      "change_pct": 0.35
+      "price": 60323.14,
+      "change_pct": 1.01
     },
     {
       "label": "Gold",
-      "price": 4035.6,
-      "change_pct": 0.13
+      "price": 4039.9,
+      "change_pct": 0.23
     },
     {
       "label": "Nasdaq100",

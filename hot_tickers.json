@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-26T00:19:35+00:00",
+  "as_of": "2026-06-26T00:34:33+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,10 +17,10 @@
    "volume_vs_avg": "~1.4x",
    "heat_score": 85,
    "direction": "up",
-   "why": "Dow Jones Futures: Mixed Market Signals As Micron's Gain Is Apple's Pain",
+   "why": "Dow Jones Futures Rise Amid Mixed Market Signals; Micron's Gain Is Apple's Pain",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-mixed-signals-micron-flies-apple-dives/?src=A00220&yptr=yahoo",
-   "published": "2026-06-25T23:52:09Z",
+   "published": "2026-06-26T00:10:51Z",
    "sector": "AI Chips & Compute"
   },
   {
@@ -49,11 +49,27 @@
    "volume_vs_avg": "~2x",
    "heat_score": 47,
    "direction": "down",
-   "why": "Dow Jones Futures: Mixed Market Signals As Micron's Gain Is Apple's Pain",
+   "why": "Decibel brings Apple, Meta and Microsoft to onchain trading with no market hours",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-mixed-signals-micron-flies-apple-dives/?src=A00220&yptr=yahoo",
-   "published": "2026-06-25T23:52:09Z",
+   "source_url": "https://finance.yahoo.com/markets/crypto/articles/decibel-brings-apple-meta-microsoft-001500782.html",
+   "published": "2026-06-26T00:15:00Z",
    "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 4,
+   "ticker": "PLTR",
+   "company": "Palantir Technologies Inc",
+   "move_pct": -5.49,
+   "price": 107.27,
+   "volume": 59167305,
+   "volume_vs_avg": "~1.5x",
+   "heat_score": 42,
+   "direction": "down",
+   "why": "Michael Burry Buys Long-Dated Microsoft Calls, Adds To JD And Adobe \u2014 Trims Palantir Short",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/options/articles/michael-burry-buys-long-dated-000610362.html",
+   "published": "2026-06-26T00:06:10Z",
+   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

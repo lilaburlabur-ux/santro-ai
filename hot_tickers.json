@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-26T12:19:56+00:00",
+  "as_of": "2026-06-26T12:35:06+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,32 @@
    "rank": 1,
    "ticker": "MU",
    "company": "Micron Technology Inc",
-   "move_pct": -5.38,
-   "price": 1148.22,
+   "move_pct": -5.98,
+   "price": 1141.0,
    "volume": 82143900,
    "volume_vs_avg": "~1.5x",
-   "heat_score": 41,
+   "heat_score": 43,
    "direction": "down",
    "why": "Micron Leads Tech Stocks Rally on Blowout Earnings",
    "catalyst_type": "earnings",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/micron-leads-tech-stocks-rally-113529692.html",
    "published": "2026-06-26T11:35:29Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
+   "ticker": "SYNA",
+   "company": "Synaptics Inc",
+   "move_pct": 5.08,
+   "price": 132.0,
+   "volume": 1136400,
+   "volume_vs_avg": "~1.3x",
+   "heat_score": 39,
+   "direction": "up",
+   "why": "This Week In AI Chips - Onsemi Expands Into Physical AI With Synaptics Acquisition",
+   "catalyst_type": "mna",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/week-ai-chips-onsemi-expands-113808382.html",
+   "published": "2026-06-26T11:38:08Z",
    "sector": "AI Chips & Compute"
   }
  ]

@@ -1,17 +1,23 @@
 {
-  "as_of_utc": "2026-06-27T15:59:12+00:00",
-  "as_of_local": "2026-06-27 15:59:12 UTC",
+  "as_of_utc": "2026-06-27T16:14:13+00:00",
+  "as_of_local": "2026-06-27 16:14:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 195.74,
-      "previous_close": 199.0,
+      "price": 192.53,
+      "previous_close": 195.74,
       "change_pct": -1.64,
       "market_cap": 4663269100433.35,
       "headlines": [
+        {
+          "title": "2 Oil Stocks Still Worth Buying With Oil Down to $70 a Barrel",
+          "url": "https://finance.yahoo.com/energy/articles/2-oil-stocks-still-worth-155000830.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-27T15:50:00Z"
+        },
         {
           "title": "The Average Dividend Yield is 1%. Want More Income? These 3 Stocks Offer Yields of Up 5.9%",
           "url": "https://finance.yahoo.com/markets/stocks/articles/average-dividend-yield-1-want-153500778.html",
@@ -23,21 +29,15 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-one-best-153245819.html",
           "publisher": "Insider Monkey",
           "published": "2026-06-27T15:32:45Z"
-        },
-        {
-          "title": "Is This the Best Tech ETF to Buy With $1,000 Right Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/best-tech-etf-buy-1-152000050.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-27T15:20:00Z"
         }
       ]
     },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 434.99,
-      "previous_close": 440.83,
-      "change_pct": -1.32,
+      "price": 432.35,
+      "previous_close": 434.99,
+      "change_pct": -0.61,
       "market_cap": 2242372071176.2754,
       "headlines": [
         {
@@ -287,9 +287,9 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 144.2,
-      "previous_close": 143.93,
-      "change_pct": 0.19,
+      "price": 138.76,
+      "previous_close": 144.2,
+      "change_pct": -3.77,
       "market_cap": 19011209484.713364,
       "headlines": [
         {
@@ -557,8 +557,8 @@
     },
     {
       "label": "BTC",
-      "price": 60716.52,
-      "change_pct": 1.17
+      "price": 60658.02,
+      "change_pct": 1.07
     },
     {
       "label": "Gold",

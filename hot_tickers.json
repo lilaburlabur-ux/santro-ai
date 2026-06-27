@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-27T08:11:06+00:00",
+  "as_of": "2026-06-27T09:19:35+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,10 +17,10 @@
    "volume_vs_avg": "~2x",
    "heat_score": 85,
    "direction": "up",
-   "why": "Micron (MU) Lands $100 Billion In Customer Deals After Blowout Q3",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-lands-100-billion-050641920.html",
-   "published": "2026-06-27T05:06:41Z",
+   "why": "Micron's Explosive Earnings Report: The 1 Mind-Boggling Number You Won't Want to Miss. (Hint: It Beats Nvidia.)",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/microns-explosive-earnings-report-1-083500698.html",
+   "published": "2026-06-27T08:35:00Z",
    "sector": "AI Chips & Compute"
   },
   {
@@ -37,6 +37,22 @@
    "catalyst_type": "no_news_mover",
    "source_url": "",
    "published": "",
+   "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 3,
+   "ticker": "GOOGL",
+   "company": "Alphabet Inc",
+   "move_pct": -0.46,
+   "price": 343.71,
+   "volume": 110924370,
+   "volume_vs_avg": "~3x",
+   "heat_score": 33,
+   "direction": "down",
+   "why": "SpaceX Has Landed Data Center Deals With Anthropic, Google, and Reflection That Could Be Worth Over $76 Billion Through 2029. Is That Enough to Justify Its Valuation?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/spacex-landed-data-center-deals-081500849.html",
+   "published": "2026-06-27T08:15:00Z",
    "sector": "AI Platforms, Internet & AdTech"
   }
  ]

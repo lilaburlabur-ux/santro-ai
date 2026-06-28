@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-28T07:02:20+00:00",
-  "as_of_local": "2026-06-28 07:02:20 UTC",
+  "as_of_utc": "2026-06-28T07:17:19+00:00",
+  "as_of_local": "2026-06-28 07:17:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -147,10 +147,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 132.87,
-      "previous_close": 131.65,
-      "change_pct": 0.93,
-      "market_cap": 644936320000.0,
+      "price": 128.32,
+      "previous_close": 132.87,
+      "change_pct": -3.42,
+      "market_cap": 644936356811.5234,
       "headlines": [
         {
           "title": "Amkor Technology, Inc. (AMKR) Is A \u201cSecret Weapon,\u201d Says Newsletter",
@@ -237,6 +237,12 @@
       "market_cap": 199617060000.0,
       "headlines": [
         {
+          "title": "Qualcomm Showed Up Late to the Data Center Game, but Came Ready to Play",
+          "url": "https://www.barrons.com/articles/qualcomm-data-centers-chips-ai-f88b5117?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-06-28T07:00:00Z"
+        },
+        {
           "title": "Qualcomm (QCOM) Unveils AI Data Center Push With Meta Microsoft And Modular",
           "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-unveils-ai-data-041507851.html",
           "publisher": "Simply Wall St.",
@@ -247,12 +253,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/dz-bank-backs-qualcomm-qcom-032927327.html",
           "publisher": "Insider Monkey",
           "published": "2026-06-28T03:29:27Z"
-        },
-        {
-          "title": "BofA Lifts PT on QUALCOMM (QCOM) \u2013 Here\u2019s Why",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-lifts-pt-qualcomm-qcom-183855527.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-27T18:38:55Z"
         }
       ]
     },
@@ -435,8 +435,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 4.9,
-          "price": 675.39,
+          "change_pct": -13.17,
+          "price": 586.45,
           "currency": "USD"
         },
         {
@@ -525,8 +525,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 4.9,
-        "price": 675.39,
+        "change_pct": -13.17,
+        "price": 586.45,
         "currency": "USD"
       },
       {
@@ -552,13 +552,13 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7357.49,
-      "change_pct": -0.01
+      "price": 7354.02,
+      "change_pct": -0.05
     },
     {
       "label": "BTC",
-      "price": 60077.72,
-      "change_pct": 0.23
+      "price": 60052.09,
+      "change_pct": 0.19
     },
     {
       "label": "Gold",
@@ -567,8 +567,8 @@
     },
     {
       "label": "Nasdaq100",
-      "price": 29440.32,
-      "change_pct": 0.75
+      "price": 29118.24,
+      "change_pct": -1.09
     }
   ]
 }

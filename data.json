@@ -1,17 +1,23 @@
 {
-  "as_of_utc": "2026-06-28T01:45:03+00:00",
-  "as_of_local": "2026-06-28 01:45:03 UTC",
+  "as_of_utc": "2026-06-28T02:00:07+00:00",
+  "as_of_local": "2026-06-28 02:00:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 195.74,
-      "previous_close": 199.0,
+      "price": 192.53,
+      "previous_close": 195.74,
       "change_pct": -1.64,
       "market_cap": 4663269100433.35,
       "headlines": [
+        {
+          "title": "Amazon quietly raises price tag on the AI boom",
+          "url": "https://finance.yahoo.com/technology/ai/articles/amazon-quietly-raises-price-tag-013700526.html",
+          "publisher": "TheStreet",
+          "published": "2026-06-28T01:37:00Z"
+        },
         {
           "title": "Intel's AI Bet Is Finally Paying Off -- Is It Time to Reconsider This Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/intels-ai-bet-finally-paying-012000142.html",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-thinks-ai-capex-005000997.html",
           "publisher": "Motley Fool",
           "published": "2026-06-28T00:50:00Z"
-        },
-        {
-          "title": "This Little-Known Biotech Just Delivered a Bigger IPO Pop Than SpaceX -- and Regeneron Is Already Invested",
-          "url": "https://finance.yahoo.com/healthcare/articles/little-known-biotech-just-delivered-002000722.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-28T00:20:00Z"
         }
       ]
     },
@@ -315,9 +315,9 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 125.62,
-      "previous_close": 130.11,
-      "change_pct": -3.45,
+      "price": 121.0,
+      "previous_close": 125.62,
+      "change_pct": -3.68,
       "market_cap": 4726583796.0,
       "headlines": [
         {
@@ -557,8 +557,8 @@
     },
     {
       "label": "BTC",
-      "price": 60170.85,
-      "change_pct": 0.26
+      "price": 60130.64,
+      "change_pct": 0.19
     },
     {
       "label": "Gold",

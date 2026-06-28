@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-28T07:52:42+00:00",
-  "as_of_local": "2026-06-28 07:52:42 UTC",
+  "as_of_utc": "2026-06-28T08:07:48+00:00",
+  "as_of_local": "2026-06-28 08:07:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -63,10 +63,10 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 378.91,
-      "previous_close": 382.07,
-      "change_pct": -0.83,
-      "market_cap": 1736611923873.96,
+      "price": 365.02,
+      "previous_close": 378.91,
+      "change_pct": -3.67,
+      "market_cap": 1736611871605.6228,
       "headlines": [
         {
           "title": "Broadcom (AVGO) And OpenAI Launch Jalape\u00f1o AI Chip In Nine Months",
@@ -206,7 +206,7 @@
       "price": 266.77,
       "previous_close": 281.26,
       "change_pct": -5.15,
-      "market_cap": 233571310342.09555,
+      "market_cap": 233370386389.16016,
       "headlines": [
         {
           "title": "Stifel Raises its Price Target on Marvell Technology (MRVL)",
@@ -231,10 +231,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 204.9,
-      "previous_close": 197.41,
-      "change_pct": 3.79,
-      "market_cap": 199617060000.0,
+      "price": 189.39,
+      "previous_close": 204.9,
+      "change_pct": -7.57,
+      "market_cap": 199617059356.68945,
       "headlines": [
         {
           "title": "Qualcomm Showed Up Late to the Data Center Game, but Came Ready to Play",
@@ -259,10 +259,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 298.64,
-      "previous_close": 294.06,
-      "change_pct": 1.56,
-      "market_cap": 69939538304.58,
+      "price": 277.02,
+      "previous_close": 298.64,
+      "change_pct": -7.24,
+      "market_cap": 69939535530.84988,
       "headlines": [
         {
           "title": "Citi Raises its Price Target on NXP Semiconductors (NXPI)",
@@ -287,11 +287,30 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 144.2,
-      "previous_close": 143.93,
-      "change_pct": 0.19,
-      "market_cap": 19011210237.32,
-      "headlines": []
+      "price": 138.76,
+      "previous_close": 144.2,
+      "change_pct": -3.77,
+      "market_cap": 19011209484.713364,
+      "headlines": [
+        {
+          "title": "Lattice Semiconductor (LSCC) Wins AI Edge Solution Of The Year For sensAI",
+          "url": "https://finance.yahoo.com/technology/ai/articles/lattice-semiconductor-lscc-wins-ai-210927485.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-06-26T21:09:27Z"
+        },
+        {
+          "title": "Stocks making big moves this week: Qualcomm, Accenture, 10x Genomics, Seagate, and Lattice Semiconductor",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-week-204825313.html",
+          "publisher": "StockStory",
+          "published": "2026-06-26T20:48:25Z"
+        },
+        {
+          "title": "Why Lattice Semiconductor (LSCC) Shares Are Trading Lower Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-lattice-semiconductor-lscc-shares-232046560.html",
+          "publisher": "StockStory",
+          "published": "2026-06-23T23:20:46Z"
+        }
+      ]
     },
     {
       "symbol": "SYNA",
@@ -538,8 +557,8 @@
     },
     {
       "label": "BTC",
-      "price": 60119.83,
-      "change_pct": 0.3
+      "price": 60077.87,
+      "change_pct": 0.23
     },
     {
       "label": "Gold",

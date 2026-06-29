@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-29T11:54:54+00:00",
+  "as_of": "2026-06-29T12:10:08+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,26 +9,10 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "AMZN",
-   "company": "Amazon.com Inc",
-   "move_pct": 1.16,
-   "price": 235.39,
-   "volume": 248291300,
-   "volume_vs_avg": "~5x",
-   "heat_score": 46,
-   "direction": "up",
-   "why": "Amazon Explores External Trainium Chip Sales, Putting Marvell (MRVL) in Focus",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/amazon-explores-external-trainium-chip-101801747.html",
-   "published": "2026-06-29T10:18:01Z",
-   "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 2,
    "ticker": "MSFT",
    "company": "Microsoft Corp",
-   "move_pct": 1.78,
-   "price": 379.63,
+   "move_pct": 1.74,
+   "price": 379.46,
    "volume": 186112200,
    "volume_vs_avg": "~5x",
    "heat_score": 45,
@@ -40,11 +24,27 @@
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
+   "rank": 2,
+   "ticker": "AMZN",
+   "company": "Amazon.com Inc",
+   "move_pct": 0.95,
+   "price": 234.9,
+   "volume": 248291300,
+   "volume_vs_avg": "~5x",
+   "heat_score": 45,
+   "direction": "up",
+   "why": "Amazon Explores External Trainium Chip Sales, Putting Marvell (MRVL) in Focus",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/amazon-explores-external-trainium-chip-101801747.html",
+   "published": "2026-06-29T10:18:01Z",
+   "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
    "rank": 3,
    "ticker": "AAPL",
    "company": "Apple Inc",
-   "move_pct": 0.22,
-   "price": 284.4,
+   "move_pct": 0.25,
+   "price": 284.49,
    "volume": 261693600,
    "volume_vs_avg": "~5x",
    "heat_score": 41,
@@ -59,16 +59,16 @@
    "rank": 4,
    "ticker": "GOOGL",
    "company": "Alphabet Inc",
-   "move_pct": 0.92,
-   "price": 340.5,
+   "move_pct": 0.83,
+   "price": 340.2,
    "volume": 114642600,
    "volume_vs_avg": "~3x",
    "heat_score": 35,
    "direction": "up",
-   "why": "Alphabet Stock Gains on First Day as a Dow Member",
+   "why": "Latest News In AI Chips - WNSTN Joins Google Marketplace Elevating Financial AI Compliance",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.barrons.com/articles/alphabet-stock-price-google-dow-index-7f7838ff?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-06-29T11:14:00Z",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/latest-news-ai-chips-wnstn-113738370.html",
+   "published": "2026-06-29T11:37:38Z",
    "sector": "AI Platforms, Internet & AdTech"
   }
  ]

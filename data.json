@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-06-29T06:15:20+00:00",
-  "as_of_local": "2026-06-29 06:15:20 UTC",
+  "as_of_utc": "2026-06-29T06:30:27+00:00",
+  "as_of_local": "2026-06-29 06:30:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NXPI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -208,7 +206,7 @@
       "price": 266.77,
       "previous_close": 281.26,
       "change_pct": -5.15,
-      "market_cap": 233370386389.16016,
+      "market_cap": 233571310342.09555,
       "headlines": [
         {
           "title": "5 AI Hardware Stocks Create a New \u2018MANIA\u2019 Trade That Replaces the Magnificent 7. Hedge Your Bets on the Hot Tickers with These 2 Leveraged ETFs.",
@@ -255,6 +253,34 @@
           "url": "https://www.barrons.com/articles/qualcomm-data-centers-chips-ai-f88b5117?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-06-28T07:00:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors",
+      "price": 277.02,
+      "previous_close": 298.64,
+      "change_pct": -7.24,
+      "market_cap": 69939535530.84988,
+      "headlines": [
+        {
+          "title": "Citi Raises its Price Target on NXP Semiconductors (NXPI)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/citi-raises-price-target-nxp-193233902.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-06-27T19:32:33Z"
+        },
+        {
+          "title": "What Analog Devices Stock Was Saying By Intentionally Selling Less",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-stock-saying-intentionally-013728666.html",
+          "publisher": "Trefis",
+          "published": "2026-06-27T01:37:28Z"
+        },
+        {
+          "title": "NXP Semiconductors (NXPI) Registers a Bigger Fall Than the Market: Important Facts to Note",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-registers-bigger-221502813.html",
+          "publisher": "Zacks",
+          "published": "2026-06-26T22:15:02Z"
         }
       ]
     },
@@ -364,8 +390,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 0.49,
-          "price": 2686000.0,
+          "change_pct": -1.87,
+          "price": 2623000.0,
           "currency": "KRW"
         },
         {
@@ -373,8 +399,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -2.65,
-          "price": 330500.0,
+          "change_pct": -3.98,
+          "price": 326000.0,
           "currency": "KRW"
         },
         {
@@ -382,8 +408,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -5.52,
-          "price": 87090.0,
+          "change_pct": -4.81,
+          "price": 87750.0,
           "currency": "JPY"
         },
         {
@@ -454,8 +480,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 0.49,
-        "price": 2686000.0,
+        "change_pct": -1.87,
+        "price": 2623000.0,
         "currency": "KRW"
       },
       {
@@ -463,8 +489,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -2.65,
-        "price": 330500.0,
+        "change_pct": -3.98,
+        "price": 326000.0,
         "currency": "KRW"
       },
       {
@@ -472,8 +498,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -5.52,
-        "price": 87090.0,
+        "change_pct": -4.81,
+        "price": 87750.0,
         "currency": "JPY"
       },
       {
@@ -531,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 60044.01,
-      "change_pct": 0.17
+      "price": 60092.26,
+      "change_pct": 0.94
     },
     {
       "label": "Gold",
-      "price": 4072.5,
-      "change_pct": -0.15
+      "price": 4073.6,
+      "change_pct": -0.13
     },
     {
       "label": "Nasdaq100",

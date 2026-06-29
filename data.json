@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-29T04:34:32+00:00",
-  "as_of_local": "2026-06-29 04:34:32 UTC",
+  "as_of_utc": "2026-06-29T04:49:46+00:00",
+  "as_of_local": "2026-06-29 04:49:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 4663269100433.35,
       "headlines": [
         {
+          "title": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Join the $1 Trillion Club by 2028",
+          "url": "https://finance.yahoo.com/technology/ai/articles/prediction-artificial-intelligence-ai-semiconductor-042000326.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-29T04:20:00Z"
+        },
+        {
           "title": "Apple Raised Prices on Almost Everything. Is the iPhone Next?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/apple-raised-prices-almost-everything-041600690.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-next-1-trillion-opportunity-032000770.html",
           "publisher": "Motley Fool",
           "published": "2026-06-29T03:20:00Z"
-        },
-        {
-          "title": "SpaceX Stock Has Pulled Back 32%. Time to Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-pulled-back-32-025100540.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-29T02:51:00Z"
         }
       ]
     },
@@ -206,7 +206,7 @@
       "price": 266.77,
       "previous_close": 281.26,
       "change_pct": -5.15,
-      "market_cap": 233571310342.09555,
+      "market_cap": 233370386389.16016,
       "headlines": [
         {
           "title": "5 AI Hardware Stocks Create a New \u2018MANIA\u2019 Trade That Replaces the Magnificent 7. Hedge Your Bets on the Hot Tickers with These 2 Leveraged ETFs.",
@@ -390,8 +390,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -3.85,
-          "price": 2570000.0,
+          "change_pct": -4.41,
+          "price": 2555000.0,
           "currency": "KRW"
         },
         {
@@ -399,8 +399,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -5.3,
-          "price": 321500.0,
+          "change_pct": -6.11,
+          "price": 318750.0,
           "currency": "KRW"
         },
         {
@@ -408,8 +408,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -6.58,
-          "price": 86110.0,
+          "change_pct": -7.53,
+          "price": 85240.0,
           "currency": "JPY"
         },
         {
@@ -444,8 +444,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 1.56,
-          "price": 456.0,
+          "change_pct": 1.34,
+          "price": 455.0,
           "currency": "TWD"
         },
         {
@@ -453,8 +453,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -0.73,
-          "price": 205.0,
+          "change_pct": -0.97,
+          "price": 204.5,
           "currency": "TWD"
         }
       ]
@@ -480,8 +480,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -3.85,
-        "price": 2570000.0,
+        "change_pct": -4.41,
+        "price": 2555000.0,
         "currency": "KRW"
       },
       {
@@ -489,8 +489,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -5.3,
-        "price": 321500.0,
+        "change_pct": -6.11,
+        "price": 318750.0,
         "currency": "KRW"
       },
       {
@@ -498,8 +498,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -6.58,
-        "price": 86110.0,
+        "change_pct": -7.53,
+        "price": 85240.0,
         "currency": "JPY"
       },
       {
@@ -534,8 +534,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 1.56,
-        "price": 456.0,
+        "change_pct": 1.34,
+        "price": 455.0,
         "currency": "TWD"
       },
       {
@@ -543,8 +543,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -0.73,
-        "price": 205.0,
+        "change_pct": -0.97,
+        "price": 204.5,
         "currency": "TWD"
       }
     ]
@@ -557,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 59792.4,
-      "change_pct": -0.25
+      "price": 59697.53,
+      "change_pct": -0.4
     },
     {
       "label": "Gold",
-      "price": 4077.2,
-      "change_pct": -0.04
+      "price": 4070.6,
+      "change_pct": -0.2
     },
     {
       "label": "Nasdaq100",

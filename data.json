@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-06-29T09:01:57+00:00",
-  "as_of_local": "2026-06-29 09:01:57 UTC",
+  "as_of_utc": "2026-06-29T09:07:00+00:00",
+  "as_of_local": "2026-06-29 09:07:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -285,34 +287,6 @@
       ]
     },
     {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 138.76,
-      "previous_close": 144.2,
-      "change_pct": -3.77,
-      "market_cap": 19011209484.713364,
-      "headlines": [
-        {
-          "title": "Lattice Semiconductor (LSCC) Wins AI Edge Solution Of The Year For sensAI",
-          "url": "https://finance.yahoo.com/technology/ai/articles/lattice-semiconductor-lscc-wins-ai-210927485.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-06-26T21:09:27Z"
-        },
-        {
-          "title": "Stocks making big moves this week: Qualcomm, Accenture, 10x Genomics, Seagate, and Lattice Semiconductor",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-week-204825313.html",
-          "publisher": "StockStory",
-          "published": "2026-06-26T20:48:25Z"
-        },
-        {
-          "title": "Why Lattice Semiconductor (LSCC) Shares Are Trading Lower Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-lattice-semiconductor-lscc-shares-232046560.html",
-          "publisher": "StockStory",
-          "published": "2026-06-23T23:20:46Z"
-        }
-      ]
-    },
-    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 121.0,
@@ -557,13 +531,13 @@
     },
     {
       "label": "BTC",
-      "price": 59762.0,
-      "change_pct": 0.39
+      "price": 59747.48,
+      "change_pct": 0.36
     },
     {
       "label": "Gold",
-      "price": 4068.4,
-      "change_pct": -0.25
+      "price": 4063.9,
+      "change_pct": -0.36
     },
     {
       "label": "Nasdaq100",

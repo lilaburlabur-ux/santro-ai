@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-06-29T00:47:48+00:00",
-  "as_of_local": "2026-06-29 00:47:48 UTC",
+  "as_of_utc": "2026-06-29T00:52:38+00:00",
+  "as_of_local": "2026-06-29 00:52:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -229,34 +231,6 @@
       ]
     },
     {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 189.39,
-      "previous_close": 204.9,
-      "change_pct": -7.57,
-      "market_cap": 199617059356.68945,
-      "headlines": [
-        {
-          "title": "Is QUALCOMM Incorporated (QCOM) Set to Acquire a Startup?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-incorporated-qcom-set-acquire-184622398.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-28T18:46:22Z"
-        },
-        {
-          "title": "5 big analyst AI moves: Micron price targets hiked, cautious on SpaceX valuation",
-          "url": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-093002704.html",
-          "publisher": "Investing.com",
-          "published": "2026-06-28T09:30:02Z"
-        },
-        {
-          "title": "Qualcomm Showed Up Late to the Data Center Game, but Came Ready to Play",
-          "url": "https://www.barrons.com/articles/qualcomm-data-centers-chips-ai-f88b5117?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-06-28T07:00:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
       "price": 277.02,
@@ -390,8 +364,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -4.0,
-          "price": 2566000.0,
+          "change_pct": -5.31,
+          "price": 2531000.0,
           "currency": "KRW"
         },
         {
@@ -399,8 +373,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -4.86,
-          "price": 323000.0,
+          "change_pct": -5.3,
+          "price": 321500.0,
           "currency": "KRW"
         },
         {
@@ -408,8 +382,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -7.03,
-          "price": 85700.0,
+          "change_pct": -9.41,
+          "price": 83510.0,
           "currency": "JPY"
         },
         {
@@ -480,8 +454,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -4.0,
-        "price": 2566000.0,
+        "change_pct": -5.31,
+        "price": 2531000.0,
         "currency": "KRW"
       },
       {
@@ -489,8 +463,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -4.86,
-        "price": 323000.0,
+        "change_pct": -5.3,
+        "price": 321500.0,
         "currency": "KRW"
       },
       {
@@ -498,8 +472,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -7.03,
-        "price": 85700.0,
+        "change_pct": -9.41,
+        "price": 83510.0,
         "currency": "JPY"
       },
       {
@@ -557,13 +531,13 @@
     },
     {
       "label": "BTC",
-      "price": 59193.75,
-      "change_pct": -1.25
+      "price": 59357.88,
+      "change_pct": -0.97
     },
     {
       "label": "Gold",
-      "price": 4074.3,
-      "change_pct": -0.11
+      "price": 4078.3,
+      "change_pct": -0.01
     },
     {
       "label": "Nasdaq100",

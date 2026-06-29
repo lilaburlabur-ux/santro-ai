@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-29T02:38:44+00:00",
-  "as_of_local": "2026-06-29 02:38:44 UTC",
+  "as_of_utc": "2026-06-29T02:53:45+00:00",
+  "as_of_local": "2026-06-29 02:53:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 4663269100433.35,
       "headlines": [
         {
+          "title": "Gaming ETF Becomes Growth Fund; Trailing Dividend Payout No Longer Reflects New Holdings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/gaming-etf-becomes-growth-fund-023511835.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-06-29T02:35:11Z"
+        },
+        {
           "title": "Do Meme Coins Such as Dogecoin Have a Legitimate Case as a Long-Term Investment?",
           "url": "https://finance.yahoo.com/markets/crypto/articles/meme-coins-dogecoin-legitimate-case-022000334.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/commodities/articles/stock-market-crash-coming-buy-013500561.html",
           "publisher": "Motley Fool",
           "published": "2026-06-29T01:35:00Z"
-        },
-        {
-          "title": "SpaceX Made a Huge Pivot in Its Business, but the Market Hasn't Caught on Yet",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-made-huge-pivot-business-010500914.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-29T01:05:00Z"
         }
       ]
     },
@@ -103,16 +103,16 @@
           "published": "2026-06-28T11:56:42Z"
         },
         {
+          "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, MU, MSFT, INFQ, RKLB",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-retail-traders-couldn-t-020501655.html",
+          "publisher": "Stocktwits",
+          "published": "2026-06-29T02:05:01Z"
+        },
+        {
           "title": "Why Is Micron Stock Rising Nearly 1% Overnight?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-stock-rising-nearly-015600331.html",
           "publisher": "Stocktwits",
           "published": "2026-06-29T01:56:00Z"
-        },
-        {
-          "title": "Is Micron Stock the New Nvidia?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-nvidia-223000302.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-28T22:30:00Z"
         }
       ]
     },
@@ -390,8 +390,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -3.59,
-          "price": 2577000.0,
+          "change_pct": -3.7,
+          "price": 2574000.0,
           "currency": "KRW"
         },
         {
@@ -399,8 +399,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -5.38,
-          "price": 321250.0,
+          "change_pct": -5.45,
+          "price": 321000.0,
           "currency": "KRW"
         },
         {
@@ -408,8 +408,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -7.45,
-          "price": 85310.0,
+          "change_pct": -7.56,
+          "price": 85210.0,
           "currency": "JPY"
         },
         {
@@ -444,8 +444,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 1.45,
-          "price": 455.5,
+          "change_pct": 1.78,
+          "price": 457.0,
           "currency": "TWD"
         },
         {
@@ -453,8 +453,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 0.97,
-          "price": 208.5,
+          "change_pct": 1.45,
+          "price": 209.5,
           "currency": "TWD"
         }
       ]
@@ -480,8 +480,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -3.59,
-        "price": 2577000.0,
+        "change_pct": -3.7,
+        "price": 2574000.0,
         "currency": "KRW"
       },
       {
@@ -489,8 +489,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -5.38,
-        "price": 321250.0,
+        "change_pct": -5.45,
+        "price": 321000.0,
         "currency": "KRW"
       },
       {
@@ -498,8 +498,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -7.45,
-        "price": 85310.0,
+        "change_pct": -7.56,
+        "price": 85210.0,
         "currency": "JPY"
       },
       {
@@ -534,8 +534,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 1.45,
-        "price": 455.5,
+        "change_pct": 1.78,
+        "price": 457.0,
         "currency": "TWD"
       },
       {
@@ -543,8 +543,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 0.97,
-        "price": 208.5,
+        "change_pct": 1.45,
+        "price": 209.5,
         "currency": "TWD"
       }
     ]
@@ -557,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 59509.85,
-      "change_pct": -0.72
+      "price": 59618.02,
+      "change_pct": -0.54
     },
     {
       "label": "Gold",
-      "price": 4084.0,
-      "change_pct": 0.13
+      "price": 4075.6,
+      "change_pct": -0.08
     },
     {
       "label": "Nasdaq100",

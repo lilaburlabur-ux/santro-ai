@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-06-29T20:18:13+00:00",
-  "as_of_local": "2026-06-29 20:18:13 UTC",
+  "as_of_utc": "2026-06-29T20:22:01+00:00",
+  "as_of_local": "2026-06-29 20:22:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -193,10 +195,10 @@
           "published": "2026-06-29T14:31:49Z"
         },
         {
-          "title": "Arm Holdings (ARM) Expands Its Agentic-AI CPU Ecosystem With Oracle Cloud Infrastructure",
-          "url": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-arm-expands-agentic-101632634.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-29T10:16:32Z"
+          "title": "Stock Indexes Supported by Strength in Megacap Tech Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-indexes-supported-strength-megacap-141417416.html",
+          "publisher": "Barchart",
+          "published": "2026-06-29T14:14:17Z"
         }
       ]
     },
@@ -281,34 +283,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-stock-saying-intentionally-013728666.html",
           "publisher": "Trefis",
           "published": "2026-06-27T01:37:28Z"
-        }
-      ]
-    },
-    {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 146.78,
-      "previous_close": 138.76,
-      "change_pct": 5.78,
-      "market_cap": 20110013083.21408,
-      "headlines": [
-        {
-          "title": "Lattice Semiconductor (LSCC) Wins AI Edge Solution Of The Year For sensAI",
-          "url": "https://finance.yahoo.com/technology/ai/articles/lattice-semiconductor-lscc-wins-ai-210927485.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-06-26T21:09:27Z"
-        },
-        {
-          "title": "Stocks making big moves this week: Qualcomm, Accenture, 10x Genomics, Seagate, and Lattice Semiconductor",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-week-204825313.html",
-          "publisher": "StockStory",
-          "published": "2026-06-26T20:48:25Z"
-        },
-        {
-          "title": "Why Lattice Semiconductor (LSCC) Shares Are Trading Lower Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-lattice-semiconductor-lscc-shares-232046560.html",
-          "publisher": "StockStory",
-          "published": "2026-06-23T23:20:46Z"
         }
       ]
     },
@@ -557,13 +531,13 @@
     },
     {
       "label": "BTC",
-      "price": 60312.73,
-      "change_pct": 1.31
+      "price": 60290.82,
+      "change_pct": 1.27
     },
     {
       "label": "Gold",
-      "price": 4027.5,
-      "change_pct": -1.26
+      "price": 4029.1,
+      "change_pct": -1.22
     },
     {
       "label": "Nasdaq100",

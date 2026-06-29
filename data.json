@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-06-29T20:22:24+00:00",
-  "as_of_local": "2026-06-29 20:22:24 UTC",
+  "as_of_utc": "2026-06-29T20:27:15+00:00",
+  "as_of_local": "2026-06-29 20:27:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LSCC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -208,7 +206,7 @@
       "price": 277.75,
       "previous_close": 266.77,
       "change_pct": 4.12,
-      "market_cap": 243184893800.75,
+      "market_cap": 242975700000.0,
       "headlines": [
         {
           "title": "Micron and Intel Lead Chip Selloff",
@@ -283,6 +281,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-stock-saying-intentionally-013728666.html",
           "publisher": "Trefis",
           "published": "2026-06-27T01:37:28Z"
+        }
+      ]
+    },
+    {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 146.78,
+      "previous_close": 138.76,
+      "change_pct": 5.78,
+      "market_cap": 20110013083.21408,
+      "headlines": [
+        {
+          "title": "Lattice Semiconductor (LSCC) Wins AI Edge Solution Of The Year For sensAI",
+          "url": "https://finance.yahoo.com/technology/ai/articles/lattice-semiconductor-lscc-wins-ai-210927485.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-06-26T21:09:27Z"
+        },
+        {
+          "title": "Stocks making big moves this week: Qualcomm, Accenture, 10x Genomics, Seagate, and Lattice Semiconductor",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-week-204825313.html",
+          "publisher": "StockStory",
+          "published": "2026-06-26T20:48:25Z"
+        },
+        {
+          "title": "Why Lattice Semiconductor (LSCC) Shares Are Trading Lower Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-lattice-semiconductor-lscc-shares-232046560.html",
+          "publisher": "StockStory",
+          "published": "2026-06-23T23:20:46Z"
         }
       ]
     },
@@ -531,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 60304.13,
-      "change_pct": 1.3
+      "price": 60340.96,
+      "change_pct": 1.36
     },
     {
       "label": "Gold",
-      "price": 4028.7,
-      "change_pct": -1.23
+      "price": 4030.5,
+      "change_pct": -1.18
     },
     {
       "label": "Nasdaq100",

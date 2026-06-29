@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-29T11:34:30+00:00",
+  "as_of": "2026-06-29T11:49:37+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "AMZN",
    "company": "Amazon.com Inc",
-   "move_pct": 1.12,
-   "price": 235.3,
+   "move_pct": 1.13,
+   "price": 235.32,
    "volume": 248291300,
    "volume_vs_avg": "~5x",
    "heat_score": 46,
@@ -27,16 +27,16 @@
    "rank": 2,
    "ticker": "MSFT",
    "company": "Microsoft Corp",
-   "move_pct": 1.93,
-   "price": 380.15,
+   "move_pct": 1.78,
+   "price": 379.61,
    "volume": 186112200,
    "volume_vs_avg": "~5x",
    "heat_score": 45,
    "direction": "up",
-   "why": "Stifel Lowers PT on Microsoft (MSFT), Maintains a Hold Rating",
+   "why": "Comcast, Alphabet, Palantir, SpaceX, Microsoft, and More Stocks That Explain Today\u2019s Market",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/stifel-lowers-pt-microsoft-msft-075430039.html",
-   "published": "2026-06-29T07:54:30Z",
+   "source_url": "https://www.barrons.com/articles/stock-movers-bb996027?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-06-29T10:25:00Z",
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
@@ -59,16 +59,16 @@
    "rank": 4,
    "ticker": "GOOGL",
    "company": "Alphabet Inc",
-   "move_pct": 0.95,
-   "price": 340.6,
+   "move_pct": 0.97,
+   "price": 340.65,
    "volume": 114642600,
    "volume_vs_avg": "~3x",
    "heat_score": 36,
    "direction": "up",
-   "why": "GOOGL Stock Falls Out Of Favor In June \u2013 Analysts See More Upside In These Big Tech",
+   "why": "Alphabet Stock Gains on First Day as a Dow Member",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/googl-stock-falls-favor-june-091001225.html",
-   "published": "2026-06-29T09:10:01Z",
+   "source_url": "https://www.barrons.com/articles/alphabet-stock-price-google-dow-index-7f7838ff?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-06-29T11:14:00Z",
    "sector": "AI Platforms, Internet & AdTech"
   }
  ]

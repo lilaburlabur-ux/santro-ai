@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-06-29T23:47:34+00:00",
-  "as_of_local": "2026-06-29 23:47:34 UTC",
+  "as_of_utc": "2026-06-29T23:52:30+00:00",
+  "as_of_local": "2026-06-29 23:52:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SYNA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -208,7 +206,7 @@
       "price": 277.75,
       "previous_close": 266.77,
       "change_pct": 4.12,
-      "market_cap": 243184893800.75,
+      "market_cap": 242975700000.0,
       "headlines": [
         {
           "title": "Micron and Intel Lead Chip Selloff",
@@ -311,6 +309,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-lattice-semiconductor-lscc-shares-232046560.html",
           "publisher": "StockStory",
           "published": "2026-06-23T23:20:46Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SYNA",
+      "name": "Synaptics",
+      "price": 117.38,
+      "previous_close": 121.0,
+      "change_pct": -2.99,
+      "market_cap": 4585176801.591156,
+      "headlines": [
+        {
+          "title": "ON Semiconductor, Synaptics Combined Entity Likely to Pursue Physical AI\nContent Opportunities, UBS Says",
+          "url": "https://finance.yahoo.com/technology/ai/articles/semiconductor-synaptics-combined-entity-likely-190819021.html",
+          "publisher": "MT Newswires",
+          "published": "2026-06-29T19:08:19Z"
+        },
+        {
+          "title": "Adobe downgraded, Roblox upgraded: Wall Street's top analyst calls",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-downgraded-roblox-upgraded-wall-134400216.html",
+          "publisher": "The Fly",
+          "published": "2026-06-29T13:44:00Z"
+        },
+        {
+          "title": "Company News for Jun 29, 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-jun-29-2026-133400393.html",
+          "publisher": "Zacks",
+          "published": "2026-06-29T13:34:00Z"
         }
       ]
     },
@@ -531,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 60177.79,
-      "change_pct": 1.08
+      "price": 60149.98,
+      "change_pct": 1.04
     },
     {
       "label": "Gold",
-      "price": 4033.2,
-      "change_pct": -1.12
+      "price": 4028.1,
+      "change_pct": -1.24
     },
     {
       "label": "Nasdaq100",

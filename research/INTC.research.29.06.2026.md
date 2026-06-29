@@ -18,7 +18,7 @@ Signed file: `INTC.research.29.06.2026`
 | Technical momentum | High | 1Y +485.42%; price +124.14% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -6.54% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-5.90%). |
-| Value attractiveness | Low (expensive) | Forward P/E 84.71, EV/Sales 12.48. |
+| Value attractiveness | Low (expensive) | Forward P/E 84.71, EV/Sales 12.79. |
 | Risk level | High | Beta 2.23, ATR 7.8% of price, short float 2.86%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: low (expensive), risk: high.
@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
+| Why Intel (INTC) Outpaced the Stock Market Today | Zacks | 2026-06-29 |
 | The Margin Squeeze Threatening Intel Stock | Trefis | 2026-06-29 |
 | Micron and Intel Lead Chip Selloff | GuruFocus.com | 2026-06-29 |
 | What Was AMD Stock Really Saying Before Its AI Breakout? | Trefis | 2026-06-29 |
-| The Real Price Of Intel Stock Is Three Years Away | Trefis | 2026-06-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -67,7 +67,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $53.76B | Revenue growth 7.20% y/y |
 | Profitability | Gross 37.20%, operating 6.88%, net -5.90% | ROA 0.63%, ROE -2.91% |
 | Balance sheet | Cash $32.79B, debt $45.03B | Current ratio 2.31, debt/equity 36.03 |
-| Valuation | P/E —, forward P/E 84.71, P/S 12.31, P/B 5.94 | EV/Sales 12.48, EV/EBITDA 47.32 |
+| Valuation | P/E —, forward P/E 84.71, P/S 12.31, P/B 5.94 | EV/Sales 12.79, EV/EBITDA 48.52 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $98.50 (42 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -94,7 +94,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Primecap Management Company | 75,761,968 | 1.51% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 84.71, EV/Sales 12.48. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 84.71, EV/Sales 12.79. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.23, ATR 7.8% of price, short float 2.86%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
@@ -112,8 +112,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $131.72 | EV/Sales | 12.48 |
-| Market cap | $662.02B | EV/EBITDA | 47.32 |
+| Price | $131.72 | EV/Sales | 12.79 |
+| Market cap | $662.02B | EV/EBITDA | 48.52 |
 | Beta | 2.23 | Gross margin | 37.20% |
 | RSI(14) | 58.8 | Operating margin | 6.88% |
 | ATR(14) | 10.21 | Profit margin | -5.90% |

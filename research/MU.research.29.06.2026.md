@@ -38,8 +38,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 |---|---|---|
 | Why Samsung & SK Hynix are investing so much in South Korea's AI build-out | Yahoo Finance Video | 2026-06-29 |
 | Nvidia, Micron, and Broadcom hold the stock market's fate in the palm of their hands | Yahoo Finance | 2026-06-29 |
-| The Margin Squeeze Threatening Intel Stock | Trefis | 2026-06-29 |
-| Micron Wobbles. Are Memory-Chip Makers Illegally Price-Gouging Customers? | Investor's Business Daily | 2026-06-29 |
+| Micron Stock Faces $500 Billion Memory Threat From SK Hynix, Samsung | Barrons.com | 2026-06-29 |
+| Inside SOXX: The Few Names Behind The Fund's Big Year | Trefis | 2026-06-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
 | Valuation | P/E 25.87, forward P/E 7.67, P/S 14.33, P/B 17.83 | EV/Sales 13.95, EV/EBITDA 18.46 |
-| Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,410.45 (40 analysts) |
+| Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,454.12 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

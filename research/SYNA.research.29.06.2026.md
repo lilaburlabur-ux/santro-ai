@@ -18,7 +18,7 @@ Signed file: `SYNA.research.29.06.2026`
 | Technical momentum | High | 1Y +78.85%; price +35.58% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -20.46% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-4.10%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 22.26, EV/Sales 4.39. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 22.26, EV/Sales 4.28. |
 | Risk level | High | Beta 1.96, ATR 7.9% of price, short float 18.89%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
@@ -68,7 +68,7 @@ Content Opportunities, UBS Says | MT Newswires | 2026-06-29 |
 | Revenue (ttm) | $1.17B | Revenue growth 10.40% y/y |
 | Profitability | Gross 43.61%, operating -4.32%, net -4.10% | ROA -1.75%, ROE -3.50% |
 | Balance sheet | Cash $404.40M, debt $879.40M | Current ratio 3.04, debt/equity 64.72 |
-| Valuation | P/E —, forward P/E 22.26, P/S 3.91, P/B 3.35 | EV/Sales 4.39, EV/EBITDA 58.46 |
+| Valuation | P/E —, forward P/E 22.26, P/S 3.91, P/B 3.35 | EV/Sales 4.28, EV/EBITDA 56.87 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $140.11 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Content Opportunities, UBS Says | MT Newswires | 2026-06-29 |
 | Geode Capital Management, LLC | 1,033,212 | 2.67% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 22.26, EV/Sales 4.39. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 22.26, EV/Sales 4.28. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.96, ATR 7.9% of price, short float 18.89%. Size positions accordingly.
 - **Short interest risk:** short float 18.89% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
@@ -113,8 +113,8 @@ Content Opportunities, UBS Says | MT Newswires | 2026-06-29 |
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $117.38 | EV/Sales | 4.39 |
-| Market cap | $4.59B | EV/EBITDA | 58.46 |
+| Price | $117.38 | EV/Sales | 4.28 |
+| Market cap | $4.59B | EV/EBITDA | 56.87 |
 | Beta | 1.96 | Gross margin | 43.61% |
 | RSI(14) | 41.1 | Operating margin | -4.32% |
 | ATR(14) | 9.29 | Profit margin | -4.10% |

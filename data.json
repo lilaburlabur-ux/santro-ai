@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-06-29T06:00:18+00:00",
-  "as_of_local": "2026-06-29 06:00:18 UTC",
+  "as_of_utc": "2026-06-29T06:15:20+00:00",
+  "as_of_local": "2026-06-29 06:15:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": -1.64,
       "market_cap": 4663269100433.35,
       "headlines": [
+        {
+          "title": "XRP\u2019s ETF Inflow Streak Hit 8 Weeks but It\u2019s Not Moving the XRP Price",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-etf-inflow-streak-hit-060010817.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-06-29T06:00:10Z"
+        },
         {
           "title": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Join the $1 Trillion Club by 2028",
           "url": "https://finance.yahoo.com/technology/ai/articles/prediction-artificial-intelligence-ai-semiconductor-042000326.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/apple-raised-prices-almost-everything-041600690.html",
           "publisher": "Motley Fool",
           "published": "2026-06-29T04:16:00Z"
-        },
-        {
-          "title": "Nvidia's Next $1 Trillion Opportunity May Have Nothing to Do With GPUs",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-next-1-trillion-opportunity-032000770.html",
-          "publisher": "Motley Fool",
-          "published": "2026-06-29T03:20:00Z"
         }
       ]
     },
@@ -206,7 +208,7 @@
       "price": 266.77,
       "previous_close": 281.26,
       "change_pct": -5.15,
-      "market_cap": 233571310342.09555,
+      "market_cap": 233370386389.16016,
       "headlines": [
         {
           "title": "5 AI Hardware Stocks Create a New \u2018MANIA\u2019 Trade That Replaces the Magnificent 7. Hedge Your Bets on the Hot Tickers with These 2 Leveraged ETFs.",
@@ -253,34 +255,6 @@
           "url": "https://www.barrons.com/articles/qualcomm-data-centers-chips-ai-f88b5117?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-06-28T07:00:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 277.02,
-      "previous_close": 298.64,
-      "change_pct": -7.24,
-      "market_cap": 69939535530.84988,
-      "headlines": [
-        {
-          "title": "Citi Raises its Price Target on NXP Semiconductors (NXPI)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/citi-raises-price-target-nxp-193233902.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-27T19:32:33Z"
-        },
-        {
-          "title": "What Analog Devices Stock Was Saying By Intentionally Selling Less",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-stock-saying-intentionally-013728666.html",
-          "publisher": "Trefis",
-          "published": "2026-06-27T01:37:28Z"
-        },
-        {
-          "title": "NXP Semiconductors (NXPI) Registers a Bigger Fall Than the Market: Important Facts to Note",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-registers-bigger-221502813.html",
-          "publisher": "Zacks",
-          "published": "2026-06-26T22:15:02Z"
         }
       ]
     },
@@ -390,8 +364,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -1.87,
-          "price": 2623000.0,
+          "change_pct": 0.49,
+          "price": 2686000.0,
           "currency": "KRW"
         },
         {
@@ -399,8 +373,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -4.27,
-          "price": 325000.0,
+          "change_pct": -2.65,
+          "price": 330500.0,
           "currency": "KRW"
         },
         {
@@ -408,8 +382,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -6.42,
-          "price": 86260.0,
+          "change_pct": -5.52,
+          "price": 87090.0,
           "currency": "JPY"
         },
         {
@@ -480,8 +454,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -1.87,
-        "price": 2623000.0,
+        "change_pct": 0.49,
+        "price": 2686000.0,
         "currency": "KRW"
       },
       {
@@ -489,8 +463,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -4.27,
-        "price": 325000.0,
+        "change_pct": -2.65,
+        "price": 330500.0,
         "currency": "KRW"
       },
       {
@@ -498,8 +472,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -6.42,
-        "price": 86260.0,
+        "change_pct": -5.52,
+        "price": 87090.0,
         "currency": "JPY"
       },
       {
@@ -557,13 +531,13 @@
     },
     {
       "label": "BTC",
-      "price": 60012.69,
-      "change_pct": 0.12
+      "price": 60044.01,
+      "change_pct": 0.17
     },
     {
       "label": "Gold",
-      "price": 4064.8,
-      "change_pct": -0.34
+      "price": 4072.5,
+      "change_pct": -0.15
     },
     {
       "label": "Nasdaq100",

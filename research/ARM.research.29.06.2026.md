@@ -38,8 +38,8 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 |---|---|---|
 | Arm Holdings Expands Its AI Data Center Push With AGI CPU | Zacks | 2026-06-29 |
 | ByteDance targets CPU mass production in H2 2027 to power AI push - SCMP | Investing.com | 2026-06-29 |
+| Stock Indexes Supported by Strength in Megacap Tech Stocks | Barchart | 2026-06-29 |
 | Arm Holdings (ARM) Expands Its Agentic-AI CPU Ecosystem With Oracle Cloud Infrastructure | Insider Monkey | 2026-06-29 |
-| US Equity Investors to Watch Out for Big-Tech Performance This Week While Awaiting Nonfarm Payrolls, Warsh's Speech | MT Newswires | 2026-06-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

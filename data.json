@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-29T08:41:44+00:00",
-  "as_of_local": "2026-06-29 08:41:44 UTC",
+  "as_of_utc": "2026-06-29T08:46:49+00:00",
+  "as_of_local": "2026-06-29 08:46:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 4663269100433.35,
       "headlines": [
         {
+          "title": "Stock market today: S&P 500, Nasdaq, Dow futures rise as US and Iran reportedly call a halt to attacks",
+          "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-29-224230573.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-06-28T22:42:30Z"
+        },
+        {
           "title": "The Dow Jones Industrial Average Changes Forever Today: Google Parent Alphabet Is In, Verizon Is Out, and a Longtime Component Is on Thin Ice",
           "url": "https://finance.yahoo.com/markets/stocks/articles/dow-jones-industrial-average-changes-082600499.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/google-stock-down-double-digits-081200962.html",
           "publisher": "Motley Fool",
           "published": "2026-06-29T08:12:00Z"
-        },
-        {
-          "title": "NVIDIA (NVDA) CEO Says National Security Takes Priority Over Commercial Opportunity",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-ceo-says-national-075441754.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-06-29T07:54:41Z"
         }
       ]
     },
@@ -97,12 +97,6 @@
       "market_cap": 1278845697040.295,
       "headlines": [
         {
-          "title": "'We don't view this as a bubble' that will pop soon: Wall Street weighs surging AI costs on stock market rally",
-          "url": "https://finance.yahoo.com/markets/article/we-dont-view-this-as-a-bubble-that-will-pop-soon-wall-street-weighs-surging-ai-costs-on-stock-market-rally-115642288.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-06-28T11:56:42Z"
-        },
-        {
           "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, MU, MSFT, INFQ, RKLB",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-retail-traders-couldn-t-020501655.html",
           "publisher": "Stocktwits",
@@ -113,6 +107,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-stock-rising-nearly-015600331.html",
           "publisher": "Stocktwits",
           "published": "2026-06-29T01:56:00Z"
+        },
+        {
+          "title": "Is Micron Stock the New Nvidia?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-nvidia-223000302.html",
+          "publisher": "Motley Fool",
+          "published": "2026-06-28T22:30:00Z"
         }
       ]
     },
@@ -557,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 59778.45,
-      "change_pct": 0.41
+      "price": 59793.28,
+      "change_pct": 0.44
     },
     {
       "label": "Gold",
-      "price": 4080.0,
-      "change_pct": 0.03
+      "price": 4078.4,
+      "change_pct": -0.01
     },
     {
       "label": "Nasdaq100",

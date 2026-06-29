@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Bitcoin ETFs see worst month of outflows as investors pile into AI trade | Yahoo Finance Video | 2026-06-29 |
-| Why AI is the core of the 'Back to the Future' trade | Yahoo Finance Video | 2026-06-29 |
+| Stock market today: Dow closes above 52,000 for first time, S&P 500 and Nasdaq rally as tech gains | Yahoo Finance | 2026-06-28 |
+| Why Samsung & SK Hynix are investing so much in South Korea's AI build-out | Yahoo Finance Video | 2026-06-29 |
+| 'Magnificent 7' stocks are having a dreadful year | Yahoo Finance | 2026-06-29 |
 | Nvidia, Micron, and Broadcom hold the stock market's fate in the palm of their hands | Yahoo Finance | 2026-06-29 |
-| Wall Street Has Entirely Abandoned This Absolute $11 Billion Dividend King—Here Is the 1 Aggressive Bargain I Am Accumulating on Repeat | 24/7 Wall St. | 2026-06-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -37,9 +37,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | Why Samsung & SK Hynix are investing so much in South Korea's AI build-out | Yahoo Finance Video | 2026-06-29 |
+| Tech rebound lifts Dow to record, yen hits 40-year low against dollar | AFP | 2026-06-29 |
+| The Margin Squeeze Threatening Intel Stock | Trefis | 2026-06-29 |
 | Micron and Intel Lead Chip Selloff | GuruFocus.com | 2026-06-29 |
-| What Was AMD Stock Really Saying Before Its AI Breakout? | Trefis | 2026-06-29 |
-| The Real Price Of Intel Stock Is Three Years Away | Trefis | 2026-06-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

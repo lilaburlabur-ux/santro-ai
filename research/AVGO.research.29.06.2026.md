@@ -37,9 +37,9 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Headline | Source | Date |
 |---|---|---|
 | Nvidia, Micron, and Broadcom hold the stock market's fate in the palm of their hands | Yahoo Finance | 2026-06-29 |
+| The Margin Squeeze Threatening Intel Stock | Trefis | 2026-06-29 |
 | What Was AMD Stock Really Saying Before Its AI Breakout? | Trefis | 2026-06-29 |
 | The Real Price Of Intel Stock Is Three Years Away | Trefis | 2026-06-29 |
-| Wall Street Just Supersized Its Price Target on Intel. Is the Stock Still Too Cheap? | 24/7 Wall St. | 2026-06-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

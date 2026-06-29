@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| The Margin Squeeze Threatening Intel Stock | Trefis | 2026-06-29 |
 | What Was AMD Stock Really Saying Before Its AI Breakout? | Trefis | 2026-06-29 |
 | The Real Price Of Intel Stock Is Three Years Away | Trefis | 2026-06-29 |
 | V&E Appoints Michael Jay as New IP Litigation Partner in LA | CorpGov.com | 2026-06-29 |
-| Qualcomm Price Prediction: The Forecast Is Far More Bullish Than Analysts | 24/7 Wall St. | 2026-06-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

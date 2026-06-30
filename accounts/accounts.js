@@ -18,9 +18,13 @@
   function headerSlot() {
     let slot = document.getElementById("santro-auth-slot");
     if (!slot) {
-      const right = document.querySelector(".topbar .right") || document.querySelector(".pageheader .pageright");
+      // Prefer the market-tape row's right side (terminal top-right corner);
+      // fall back to the section-page header, then the controls row.
+      const right = document.querySelector(".topstrip .langs")
+        || document.querySelector(".pageheader .pageright")
+        || document.querySelector(".topbar .right");
       if (!right) return null;
-      slot = node('<span id="santro-auth-slot" style="position:relative;display:inline-flex"></span>');
+      slot = node('<span id="santro-auth-slot" style="position:relative;display:inline-flex;margin-right:6px"></span>');
       right.insertBefore(slot, right.firstChild);
     }
     return slot;

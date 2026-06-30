@@ -31,9 +31,8 @@ check("has all required top-level fields",
 const SAFE = ["verified_filing","reputable_media_reported","santro_verified_manual"];
 const mapH = (B ? B.holdings : []).filter(h => h.include_in_main_bubble_map);
 console.log("\nSource-gating rules");
-check("main bubble map non-empty OR empty-state present",
-  mapH.length > 0 || /No reported public positions currently meet/.test(html));
-check("every map holding has a SAFE source_status", mapH.every(h => SAFE.includes(h.source_status)));
+check("main holdings list non-empty", mapH.length > 0);
+check("every main holding has a SAFE source_status", mapH.every(h => SAFE.includes(h.source_status)));
 check("no needs_verification in map", !mapH.some(h => h.source_status === "needs_verification"));
 check("no hypothesis_watchlist in map", !mapH.some(h => h.source_status === "hypothesis_watchlist"));
 check("no excluded_short_or_hedge in map", !mapH.some(h => h.source_status === "excluded_short_or_hedge"));
@@ -58,8 +57,10 @@ console.log("\nPage structure (crawlable)");
 check("exactly one <h1>", (html.match(/<h1[\s>]/g) || []).length === 1);
 check("hero copy present", /source-gated Santro basket/i.test(html));
 check("data-integrity banner present", /separates/i.test(html) && /delayed and incomplete/i.test(html));
-check("bubble map container", /id="bmap"/.test(html));
-check("time filters (1D/1W/1M/YTD/1Y)", ["1D","1W","1M","YTD","1Y"].every(w => html.includes('data-w="' + w + '"')));
+check("bubble map REMOVED (no #bmap, no estimated positions)", !/id="bmap"/.test(html));
+check("disclosure-basis section present", />Disclosure basis/.test(html));
+check("date-of-disclosure column present", /Date disclosed/.test(html));
+check("every main holding shows a disclosure date", mapH.every(h => /^\d{4}-\d{2}-\d{2}$/.test(h.source_date)));
 check("holdings table", /class="btbl"/.test(html));
 check("needs-verification section", />Needs verification<\/h2>/.test(html));
 check("excluded/hedge section", /Excluded \/ hedge mentions/.test(html));
@@ -67,7 +68,7 @@ check("basket read section", />Basket read<\/h2>/.test(html));
 check("source methodology section", />Source methodology<\/h2>/.test(html));
 check("disclaimer", /This page is based on public disclosures/.test(html));
 check("delayed-data disclaimer", /delayed ~15 min/.test(html));
-check("no invented price values (uses needs price verification)", /needs price verification/i.test(html));
+check("does not invent position sizes", /does not estimate position sizes/i.test(html));
 
 console.log("\nSEO / metadata");
 check("title", /<title>Aschenbrenner Public AI Infrastructure Basket \| Santro AI<\/title>/.test(html));

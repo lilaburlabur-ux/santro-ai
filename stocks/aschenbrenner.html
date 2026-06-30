@@ -9,7 +9,7 @@
 <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png" />
 <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
-<meta name="description" content="Track publicly disclosed and reputable-media-reported AI infrastructure and power/energy positions linked to Leopold Aschenbrenner and Situational Awareness LP — Nebius, CoreWeave, IREN, Bloom Energy, Vistra, Constellation — with Santro AI's source-gated bubble map. Not a complete or current portfolio. Not financial advice." />
+<meta name="description" content="Track publicly disclosed and reputable-media-reported AI infrastructure and power/energy positions linked to Leopold Aschenbrenner and Situational Awareness LP — Nebius, CoreWeave, IREN, Bloom Energy, Vistra, Constellation — with disclosure dates and source links. Not a complete or current portfolio. Not financial advice." />
 <link rel="canonical" href="https://santroai.tech/stocks/aschenbrenner" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Santro AI" />
@@ -21,7 +21,7 @@
 <meta property="og:image:height" content="630" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Aschenbrenner Public AI Infrastructure Basket" />
-<meta name="twitter:description" content="Publicly disclosed & reputable-media-reported AI infrastructure + power/energy positions — source-gated. Not a complete or current portfolio." />
+<meta name="twitter:description" content="Publicly disclosed & reputable-media-reported AI infrastructure + power/energy positions — with disclosure dates. Not a complete or current portfolio." />
 <meta name="twitter:image" content="https://santroai.tech/assets/og-map.png" />
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebPage","@id":"https://santroai.tech/stocks/aschenbrenner#webpage",
@@ -40,7 +40,7 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Dataset",
  "name":"Aschenbrenner Public AI Infrastructure Basket — publicly disclosed & reported holdings",
- "description":"A source-gated list of publicly disclosed and reputable-media-reported AI infrastructure and power/energy positions linked to Leopold Aschenbrenner / Situational Awareness LP. Each holding carries a source status, confidence level and a source link. Speculative names are separated and hedge/short mentions are excluded from long holdings. Not a complete or current portfolio.",
+ "description":"A source-gated list of publicly disclosed and reputable-media-reported AI infrastructure and power/energy positions linked to Leopold Aschenbrenner / Situational Awareness LP. Each holding carries a source status, confidence level, disclosure date and a source link. Speculative names are separated and hedge/short mentions are excluded from long holdings. Not a complete or current portfolio.",
  "url":"https://santroai.tech/stocks/aschenbrenner",
  "isAccessibleForFree":true,
  "license":"https://santroai.tech/terms",
@@ -68,32 +68,14 @@
   section{padding:26px 0;border-top:1px solid var(--border-soft);}
   section h2{font-size:19px;margin:0 0 6px;}
   .sub{color:var(--faint);font-size:13.5px;margin:0 0 16px;line-height:1.55;max-width:820px;}
-  .datalabel{font-size:11.5px;color:var(--faint);margin:10px 0 0;font-style:italic;}
 
-  .tf{display:flex;gap:6px;flex-wrap:wrap;margin:2px 0 14px;}
-  .tf button{background:var(--elev);border:1px solid var(--border);color:var(--muted);font:inherit;font-size:12px;
-    font-weight:700;padding:6px 12px;border-radius:999px;cursor:pointer;}
-  .tf button.on{background:var(--accent-soft);border-color:var(--accent-border);color:var(--accent-2);}
-
-  .bmap{display:flex;flex-wrap:wrap;gap:18px;align-items:flex-end;padding:10px 4px 4px;min-height:120px;}
-  .bub{display:flex;flex-direction:column;align-items:center;gap:7px;cursor:pointer;background:none;border:0;font:inherit;}
-  .bub .circle{border-radius:50%;display:flex;flex-direction:column;align-items:center;justify-content:center;
-    border:2px solid var(--border);background:var(--panel-2);color:var(--text);text-align:center;line-height:1.1;}
-  .bub .circle .tk{font-weight:800;font-size:13px;}
-  .bub .circle .mv{font-size:10px;margin-top:2px;font-variant-numeric:tabular-nums;}
-  .bub.up .circle{border-color:rgba(34,197,94,.65);background:rgba(34,197,94,.10);} .bub.up .mv{color:#22c55e;}
-  .bub.dn .circle{border-color:rgba(240,89,110,.65);background:rgba(240,89,110,.10);} .bub.dn .mv{color:#f0596e;}
-  .bub.flat .circle{border-color:var(--border);} .bub.flat .mv{color:var(--faint);}
-  .bub .conf{font-size:9px;font-weight:800;text-transform:uppercase;letter-spacing:.4px;padding:2px 7px;border-radius:999px;
-    background:var(--elev);border:1px solid var(--border);color:var(--muted);}
-  .bub .conf.high{color:#22c55e;border-color:rgba(34,197,94,.35);}
-  .bub .conf.medium{color:#e0a73f;border-color:rgba(224,167,63,.35);}
-  .bub .conf.low{color:var(--faint);}
-  #bub-detail{margin-top:14px;}
-  .bcard{background:var(--panel);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:12px;
-    padding:14px 16px;font-size:13.5px;color:var(--muted);line-height:1.6;max-width:620px;}
-  .bcard h3{margin:0 0 4px;font-size:15px;color:var(--text);}
-  .bcard b{color:var(--text);} .bcard a{color:var(--accent-2);}
+  /* disclosure basis */
+  .dates{display:grid;gap:8px;max-width:680px;}
+  .drow{display:flex;justify-content:space-between;gap:14px;align-items:baseline;background:var(--panel);
+    border:1px solid var(--border);border-radius:10px;padding:11px 14px;}
+  .drow .dk{font-size:13.5px;color:var(--text);font-weight:600;}
+  .drow .dv{font-size:13px;color:var(--accent-2);font-weight:700;font-variant-numeric:tabular-nums;white-space:nowrap;}
+  .asof{font-size:12px;color:var(--faint);margin:12px 0 0;}
 
   .btbl{width:100%;border-collapse:collapse;font-size:13px;margin-top:2px;}
   .btbl th{font-size:9.5px;text-transform:uppercase;letter-spacing:.5px;color:var(--faint);text-align:left;
@@ -101,15 +83,13 @@
   .btbl td{padding:10px 9px;border-bottom:1px solid var(--border-soft);color:var(--muted);vertical-align:top;}
   .btbl td.tk b{color:var(--text);} .btbl td.tk a{color:var(--text);text-decoration:none;} .btbl td.tk a:hover{color:var(--accent-2);}
   .btbl a{color:var(--accent-2);text-decoration:none;} .btbl a:hover{text-decoration:underline;}
-  .btbl .mv{font-variant-numeric:tabular-nums;white-space:nowrap;}
+  .btbl td.dt{color:var(--text);font-weight:600;font-variant-numeric:tabular-nums;white-space:nowrap;}
   .needsverify{color:var(--faint);font-style:italic;font-size:12px;}
   .pill{display:inline-block;font-size:10px;font-weight:700;padding:2px 8px;border-radius:999px;white-space:nowrap;}
-  .pill.verified{background:rgba(34,197,94,.12);color:#22c55e;border:1px solid rgba(34,197,94,.3);}
   .pill.reported{background:rgba(34,197,94,.08);color:#34d399;border:1px solid rgba(52,211,153,.28);}
   .pill.needs{background:rgba(224,167,63,.10);color:#e0a73f;border:1px solid rgba(224,167,63,.3);}
   .pill.excluded{background:rgba(240,89,110,.10);color:#f0596e;border:1px solid rgba(240,89,110,.3);}
-  .pill.thesis{background:rgba(91,157,240,.10);color:#7fb2f0;border:1px solid rgba(91,157,240,.3);}
-  .conf-h{color:#22c55e;font-weight:700;} .conf-m{color:#e0a73f;font-weight:700;} .conf-l{color:var(--faint);font-weight:700;}
+  .conf-h{color:#22c55e;font-weight:700;} .conf-m{color:#e0a73f;font-weight:700;}
   .tag-energy{font-size:9px;font-weight:800;text-transform:uppercase;letter-spacing:.4px;color:#e0a73f;
     border:1px solid rgba(224,167,63,.35);border-radius:999px;padding:1px 6px;margin-left:6px;}
 
@@ -117,7 +97,6 @@
   .read{background:var(--panel);border:1px solid var(--border);border-radius:12px;padding:13px 15px;}
   .read .k{font-size:10px;text-transform:uppercase;letter-spacing:.5px;color:var(--faint);font-weight:700;}
   .read .v{font-size:14px;color:var(--text);margin-top:4px;line-height:1.45;}
-  .read .v .nd{color:var(--faint);font-style:italic;font-weight:400;}
 
   .hyp{background:rgba(91,157,240,.05);border:1px solid rgba(91,157,240,.22);border-radius:12px;padding:14px 16px;margin-top:4px;}
   .hyp .chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;}
@@ -175,7 +154,8 @@
       isn't models — it's <b style="color:var(--text)">electricity and compute</b>, so the basket spans
       power producers as well as data-center and cloud names.</p>
       <p class="lede">This is <b style="color:var(--text)">not a complete or current portfolio</b>. It is
-      a public market tracker built from filings, reputable reporting, and Santro verification.</p>
+      a public market tracker built from filings, reputable reporting, and Santro verification — we list
+      <b style="color:var(--text)">what was disclosed and when</b>, not estimated position sizes.</p>
       <p class="hot">Hot means attention, not direction.</p>
       <div class="ctas">
         <a class="cta-green" href="/">Open AI Terminal →</a>
@@ -188,124 +168,115 @@
       <span class="bi">⚠</span>
       <span>This basket separates <b>verified or reported positions</b> from <b>hypotheses</b>. 13F and 13G
       filings and media reports may be delayed and incomplete. They may not show shorts, derivatives,
-      private holdings, or current real-time exposure. Notably, the fund's <b>largest reported 13F lines
-      are put options</b> (a chipmaker short book) — those are listed under Excluded, not as long holdings.</span>
+      private holdings, or current real-time exposure, and Santro does not estimate position sizes.
+      Notably, the fund's <b>largest reported 13F lines are put options</b> (a chipmaker short book) —
+      those are listed under Excluded, not as long holdings.</span>
     </div>
 
     <section>
-      <h2>Bubble map — reported public positions</h2>
-      <p class="sub">Only holdings reported by official filings or reputable media are shown here.
-      Bubble color and size reflect the selected window's price move. Where Santro doesn't yet carry a
-      live quote for a name, the bubble shows <b>“needs price verification”</b> rather than a fake value.</p>
-      <div class="tf" id="tf" role="group" aria-label="Time window">
-        <button data-w="1D" class="on">1D</button><button data-w="1W">1W</button>
-        <button data-w="1M">1M</button><button data-w="YTD">YTD</button><button data-w="1Y">1Y</button>
+      <h2>Disclosure basis &amp; dates</h2>
+      <p class="sub">What this basket is built on, and when each position was disclosed or reported. We
+      track the <b>date of disclosure</b>, not an estimated weight or live position.</p>
+      <div class="dates">
+        <div class="drow"><span class="dk">SEC 13G — Nebius (NBIS), 5.6% stake</span><span class="dv">reported 2026-06-01</span></div>
+        <div class="drow"><span class="dk">13F-based reporting — power &amp; AI-infra names</span><span class="dv">2026-03-05</span></div>
+        <div class="drow"><span class="dk">Most recent 13F covered</span><span class="dv">Q1 2026 (filed 2026-05-18)</span></div>
+        <div class="drow"><span class="dk">Last reviewed by Santro</span><span class="dv">2026-07-01</span></div>
       </div>
-      <div class="bmap" id="bmap"></div>
-      <div id="bub-detail"></div>
-      <p class="datalabel">Quotes delayed ~15 min. Real-time data planned for Pro. Not financial advice.</p>
+      <p class="asof">Per-holding disclosure dates are in the <b>Date disclosed</b> column below.</p>
     </section>
 
     <section>
       <h2>Holdings — publicly disclosed &amp; reputable-media-reported</h2>
-      <p class="sub">Reported public positions with a source link and a confidence level. Power/energy
-      names carry an <span class="tag-energy">energy</span> tag. Move data is shown only where Santro
-      carries a live quote; otherwise it reads “needs price verification”.</p>
+      <p class="sub">Reported public positions with a source link, a confidence level and the date each was
+      disclosed or reported. Power/energy names carry an <span class="tag-energy">energy</span> tag. We do
+      not show or estimate position sizes or live moves.</p>
       <div style="overflow-x:auto">
       <table class="btbl">
         <thead><tr>
-          <th>Ticker</th><th>Company</th><th>Sector</th><th>AI relevance</th><th class="mv">Move</th>
-          <th>Confidence</th><th>Source status</th><th>Source</th><th>Source date</th><th>Notes</th>
+          <th>Ticker</th><th>Company</th><th>Sector</th><th>AI relevance</th>
+          <th>Confidence</th><th>Source status</th><th>Source</th><th>Date disclosed</th><th>Notes</th>
         </tr></thead>
         <tbody>
           <tr>
             <td class="tk"><a href="/t?sym=NBIS"><b>NBIS</b></a></td><td>Nebius Group</td><td>AI cloud / compute</td>
             <td>AI infrastructure, cloud compute, data centers (neocloud)</td>
-            <td class="mv" data-ticker="NBIS"><span class="needsverify">needs price verification</span></td>
             <td><span class="conf-h">High</span></td>
             <td><span class="pill reported">reputable media reported</span></td>
             <td><a href="https://www.fool.com/investing/2026/06/01/hyperscalers-why-leopold-aschenbrenner-nebius/" target="_blank" rel="noopener nofollow">The Motley Fool</a></td>
-            <td>2026-06-01</td>
+            <td class="dt">2026-06-01</td>
             <td>Reported 5.6% stake (12.4M Class A shares) via an SEC 13G filing by Situational Awareness LP.</td>
           </tr>
           <tr>
             <td class="tk"><a href="/t?sym=BE"><b>BE</b></a> <span class="tag-energy">energy</span></td><td>Bloom Energy</td><td>On-site power / fuel cells</td>
             <td>On-site power generation for AI data centers</td>
-            <td class="mv" data-ticker="BE"><span class="needsverify">needs price verification</span></td>
             <td><span class="conf-h">High</span></td>
             <td><span class="pill reported">reputable media reported</span></td>
             <td><a href="https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/" target="_blank" rel="noopener nofollow">Fortune</a></td>
-            <td>2026-03-05</td>
+            <td class="dt">2026-03-05</td>
             <td>Reported as the fund's single largest holding; stake raised sharply (≈+1,488% shares) in Q1 2026.</td>
           </tr>
           <tr>
             <td class="tk"><a href="/t?sym=VST"><b>VST</b></a> <span class="tag-energy">energy</span></td><td>Vistra</td><td>Power generation (gas + nuclear)</td>
             <td>Electricity for AI data-center build-outs</td>
-            <td class="mv" data-ticker="VST"><span class="needsverify">needs price verification</span></td>
             <td><span class="conf-m">Medium</span></td>
             <td><span class="pill reported">reputable media reported</span></td>
             <td><a href="https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/" target="_blank" rel="noopener nofollow">Fortune</a></td>
-            <td>2026-03-05</td>
-            <td>Named among the fund's major power-producer positions (a ~23% weight in the prior quarter's filing).</td>
+            <td class="dt">2026-03-05</td>
+            <td>Named among the fund's major power-producer positions (~23% weight in the prior quarter's filing).</td>
           </tr>
           <tr>
             <td class="tk"><a href="/t?sym=CEG"><b>CEG</b></a> <span class="tag-energy">energy</span></td><td>Constellation Energy</td><td>Nuclear power</td>
             <td>Baseload electricity for AI compute</td>
-            <td class="mv" data-ticker="CEG"><span class="needsverify">needs price verification</span></td>
             <td><span class="conf-m">Medium</span></td>
             <td><span class="pill reported">reputable media reported</span></td>
             <td><a href="https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/" target="_blank" rel="noopener nofollow">Fortune</a></td>
-            <td>2026-03-05</td>
-            <td>Named among the fund's major power-producer positions (a ~8% weight in the prior quarter's filing).</td>
+            <td class="dt">2026-03-05</td>
+            <td>Named among the fund's major power-producer positions (~8% weight in the prior quarter's filing).</td>
           </tr>
           <tr>
             <td class="tk"><a href="/t?sym=CRWV"><b>CRWV</b></a></td><td>CoreWeave</td><td>AI cloud / compute</td>
             <td>Neocloud GPU compute, AI infrastructure</td>
-            <td class="mv" data-ticker="CRWV"><span class="needsverify">needs price verification</span></td>
             <td><span class="conf-m">Medium</span></td>
             <td><span class="pill reported">reputable media reported</span></td>
             <td><a href="https://www.fool.com/investing/2026/06/01/hyperscalers-why-leopold-aschenbrenner-nebius/" target="_blank" rel="noopener nofollow">The Motley Fool</a></td>
-            <td>2026-06-01</td>
+            <td class="dt">2026-06-01</td>
             <td>Named as a meaningful position in competing neoclouds alongside IREN.</td>
           </tr>
           <tr>
             <td class="tk"><a href="/t?sym=IREN"><b>IREN</b></a></td><td>IREN Limited</td><td>AI / HPC infrastructure</td>
             <td>AI/HPC infrastructure, power &amp; data-center exposure</td>
-            <td class="mv" data-ticker="IREN"><span class="needsverify">needs price verification</span></td>
             <td><span class="conf-m">Medium</span></td>
             <td><span class="pill reported">reputable media reported</span></td>
             <td><a href="https://www.fool.com/investing/2026/06/01/hyperscalers-why-leopold-aschenbrenner-nebius/" target="_blank" rel="noopener nofollow">The Motley Fool</a></td>
-            <td>2026-06-01</td>
+            <td class="dt">2026-06-01</td>
             <td>Named as a meaningful position in competing neoclouds alongside CoreWeave.</td>
           </tr>
           <tr>
             <td class="tk"><a href="/stocks/corz"><b>CORZ</b></a></td><td>Core Scientific</td><td>Data center / compute</td>
             <td>Crypto-mining capacity converting to AI hosting</td>
-            <td class="mv" data-ticker="CORZ"><span class="needsverify">needs price verification</span></td>
             <td><span class="conf-m">Medium</span></td>
             <td><span class="pill reported">reputable media reported</span></td>
             <td><a href="https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/" target="_blank" rel="noopener nofollow">Fortune</a></td>
-            <td>2026-03-05</td>
+            <td class="dt">2026-03-05</td>
             <td>Named among data-infrastructure / crypto-mining firms in the fund's reported book.</td>
           </tr>
           <tr>
             <td class="tk"><a href="/stocks/apld"><b>APLD</b></a></td><td>Applied Digital</td><td>Data center / AI hosting</td>
             <td>Data-center capacity / AI hosting build-out</td>
-            <td class="mv" data-ticker="APLD"><span class="needsverify">needs price verification</span></td>
             <td><span class="conf-m">Medium</span></td>
             <td><span class="pill reported">reputable media reported</span></td>
             <td><a href="https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/" target="_blank" rel="noopener nofollow">Fortune</a></td>
-            <td>2026-03-05</td>
+            <td class="dt">2026-03-05</td>
             <td>Named among data-infrastructure / crypto-mining firms in the fund's reported book.</td>
           </tr>
           <tr>
             <td class="tk"><a href="/t?sym=CIFR"><b>CIFR</b></a></td><td>Cipher Mining</td><td>Compute / AI hosting</td>
             <td>Mining capacity converting to AI / HPC hosting</td>
-            <td class="mv" data-ticker="CIFR"><span class="needsverify">needs price verification</span></td>
             <td><span class="conf-m">Medium</span></td>
             <td><span class="pill reported">reputable media reported</span></td>
             <td><a href="https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/" target="_blank" rel="noopener nofollow">Fortune</a></td>
-            <td>2026-03-05</td>
+            <td class="dt">2026-03-05</td>
             <td>Named as another large crypto-mining firm in the fund's reported book.</td>
           </tr>
         </tbody>
@@ -316,7 +287,7 @@
     <section>
       <h2>Needs verification</h2>
       <p class="sub">Reported or discussed in connection with the same thesis, but awaiting a stronger
-      source before being treated as a main basket holding. <b>Not</b> shown in the bubble map above.</p>
+      source before being treated as a main basket holding.</p>
       <div style="overflow-x:auto">
       <table class="btbl">
         <thead><tr><th>Ticker</th><th>Company</th><th>Sector</th><th>AI relevance</th><th>Confidence</th><th>Source status</th><th>Notes</th></tr></thead>
@@ -345,7 +316,7 @@
           <span>Data-center cooling</span><span>Fibre &amp; interconnect</span><span>Land + grid capacity</span>
         </div>
       </div>
-      <p class="datalabel">Thesis context from public talks/essays — Santro does not assert these as positions.</p>
+      <p class="asof">Thesis context from public talks/essays — Santro does not assert these as positions.</p>
     </section>
 
     <section>
@@ -379,13 +350,13 @@
 
     <section>
       <h2>Basket read</h2>
-      <p class="sub">A quick read of the reported public positions. Where Santro doesn't yet carry live
-      quotes, the move-based reads show “needs live data verification” instead of an invented number.</p>
+      <p class="sub">A quick read of the reported public positions — based on what was disclosed, not on
+      estimated position sizes or live prices.</p>
       <div class="read-grid">
-        <div class="read"><div class="k">Strongest mover</div><div class="v" id="r-strong"><span class="nd">Needs live data verification</span></div></div>
-        <div class="read"><div class="k">Weakest mover</div><div class="v" id="r-weak"><span class="nd">Needs live data verification</span></div></div>
+        <div class="read"><div class="k">Reported holdings</div><div class="v"><b>9</b> names, source-gated</div></div>
         <div class="read"><div class="k">Highest-confidence holding</div><div class="v"><b>NBIS</b> · <b>BE</b> — Nebius (5.6% 13G) &amp; Bloom Energy (largest holding)</div></div>
         <div class="read"><div class="k">Energy / power core</div><div class="v"><b>BE · VST · CEG</b> — on-site power, gas &amp; nuclear generation</div></div>
+        <div class="read"><div class="k">Most recent disclosure</div><div class="v"><b>NBIS</b> — 13G, 2026-06-01</div></div>
         <div class="read"><div class="k">Most infrastructure-pure name</div><div class="v"><b>IREN</b> — AI/HPC infrastructure &amp; power</div></div>
         <div class="read"><div class="k">Needs verification</div><div class="v">SNDK</div></div>
         <div class="read"><div class="k">Main thesis risk</div><div class="v">Long power + neocloud / AI-infra build-out vs a reported chipmaker put/short book — crowding, rate-sensitive capex &amp; power-permitting timelines.</div></div>
@@ -397,8 +368,9 @@
       <p class="prose">Santro prioritizes <b>official filings first</b> (13F / 13G on SEC EDGAR), then
       <b>reputable financial media</b> (e.g. Fortune, The Motley Fool), then <b>manually reviewed source
       notes</b>. Unsourced social-media lists and retail "portfolio tracker" pages are <b>not</b> treated
-      as holdings. If a source is unclear, the name is marked as <b>needs verification</b> or excluded from
-      the main bubble map. Accuracy beats fullness.</p>
+      as holdings. We record <b>what was disclosed and when</b> — not estimated weights or live positions,
+      which filings and reports don't reliably show. If a source is unclear, the name is marked as
+      <b>needs verification</b> or excluded. Accuracy beats fullness.</p>
     </section>
 
     <section>
@@ -419,7 +391,7 @@
       source notes. It may not represent the complete or current portfolio of Leopold Aschenbrenner,
       Situational Awareness LP, or related entities. 13F / 13G data and media-reported positions may be
       delayed and incomplete, and may not reflect shorts, options, private holdings or current exposure.
-      <span class="nfa">Not financial advice.</span></p>
+      Santro does not estimate position sizes. <span class="nfa">Not financial advice.</span></p>
     </section>
   </main>
 
@@ -434,14 +406,15 @@
 <script>
 // ── Source-gated data model — Aschenbrenner Public AI Infrastructure Basket ──
 // Accuracy beats fullness. Only verified_filing / reputable_media_reported /
-// santro_verified_manual holdings may appear in the main bubble map.
+// santro_verified_manual holdings appear in the main holdings list. We record
+// what was disclosed and when — not estimated position sizes or live prices.
 window.ASCHENBRENNER_BASKET = {
   basket_id: "aschenbrenner-public-ai-infra",
   basket_name: "Aschenbrenner Public AI Infrastructure Basket",
   page_route: "/stocks/aschenbrenner",
   last_reviewed: "2026-07-01",
   full_portfolio_verified: false,
-  disclaimer: "Based on public disclosures, reputable reporting, and Santro-reviewed source notes. May not represent the complete or current portfolio of Leopold Aschenbrenner, Situational Awareness LP, or related entities. 13F/13G data and media-reported positions may be delayed and incomplete and may not reflect shorts, options or private holdings. Not financial advice.",
+  disclaimer: "Based on public disclosures, reputable reporting, and Santro-reviewed source notes. May not represent the complete or current portfolio of Leopold Aschenbrenner, Situational Awareness LP, or related entities. 13F/13G data and media-reported positions may be delayed and incomplete and may not reflect shorts, options or private holdings. Santro does not estimate position sizes. Not financial advice.",
   holdings: [
     { ticker:"NBIS", company_name:"Nebius Group", asset_type:"stock", sector:"AI cloud / compute", energy:false,
       ai_relevance:"AI infrastructure, cloud compute, data centers (neocloud)",
@@ -544,105 +517,6 @@ window.ASCHENBRENNER_BASKET = {
     { theme:"Land + grid capacity", note:"Sites with power that models and chips cannot run without." }
   ]
 };
-
-(function(){
-  "use strict";
-  var B = window.ASCHENBRENNER_BASKET;
-  var SAFE = ["verified_filing","reputable_media_reported","santro_verified_manual"];
-  var bmap = document.getElementById("bmap");
-  var detail = document.getElementById("bub-detail");
-  var win = "1D";
-  var moves = {};        // ticker -> 1D change_pct, from the live feed (if present)
-
-  var safeHoldings = B.holdings.filter(function(h){
-    return h.include_in_main_bubble_map && SAFE.indexOf(h.source_status) !== -1;
-  });
-
-  function moveFor(tk){
-    if (win === "1D" && typeof moves[tk] === "number") return moves[tk];
-    return null;
-  }
-  function fmtPct(v){ return (v>=0?"+":"") + v.toFixed(1) + "%"; }
-
-  function render(){
-    bmap.innerHTML = "";
-    safeHoldings.forEach(function(h){
-      var mv = moveFor(h.ticker);
-      var cls = mv==null ? "flat" : (mv>0 ? "up" : (mv<0 ? "dn" : "flat"));
-      var size = mv==null ? 92 : Math.max(76, Math.min(150, 88 + Math.abs(mv)*4));
-      var mvTxt = mv==null ? "needs price<br>verification" : fmtPct(mv);
-      var b = document.createElement("button");
-      b.className = "bub " + cls;
-      b.innerHTML =
-        '<div class="circle" style="width:'+size+'px;height:'+size+'px">' +
-          '<span class="tk">'+h.ticker+'</span>' +
-          '<span class="mv">'+mvTxt+'</span>' +
-        '</div>' +
-        '<span class="conf '+h.confidence_level+'">'+h.confidence_level+(h.energy?' · energy':'')+'</span>';
-      b.setAttribute("aria-label", h.ticker + " " + h.company_name);
-      b.onclick = function(){ showCard(h, mv); };
-      bmap.appendChild(b);
-    });
-    if (!safeHoldings.length){
-      bmap.innerHTML = '<p class="needsverify">No reported public positions currently meet the source bar for the bubble map.</p>';
-    }
-  }
-  function showCard(h, mv){
-    var mvLine = mv==null ? '<span class="needsverify">needs price verification</span>' :
-      ('<b style="color:'+(mv>=0?"#22c55e":"#f0596e")+'">'+fmtPct(mv)+'</b> ('+win+')');
-    detail.innerHTML =
-      '<div class="bcard"><h3>'+h.ticker+' · '+h.company_name+(h.energy?' <span class="tag-energy">energy</span>':'')+'</h3>' +
-      '<div><b>Sector:</b> '+h.sector+' &nbsp;·&nbsp; <b>Move:</b> '+mvLine+'</div>' +
-      '<div><b>AI relevance:</b> '+h.ai_relevance+'</div>' +
-      '<div><b>Confidence:</b> '+h.confidence_level+' &nbsp;·&nbsp; <b>Source:</b> '+
-        (h.source_url ? '<a href="'+h.source_url+'" target="_blank" rel="noopener nofollow">'+h.source_name+'</a>' : 'pending verification') +
-        (h.source_date ? ' ('+h.source_date+')' : '') + '</div>' +
-      '<div style="margin-top:4px">'+h.notes+'</div></div>';
-  }
-
-  document.getElementById("tf").addEventListener("click", function(e){
-    var btn = e.target.closest("button"); if(!btn) return;
-    win = btn.getAttribute("data-w");
-    [].forEach.call(this.querySelectorAll("button"), function(b){ b.classList.toggle("on", b===btn); });
-    render(); detail.innerHTML = "";
-  });
-
-  function ingest(json, path){
-    try{
-      if(path==="universe" && json && json.bubbles){
-        json.bubbles.forEach(function(bb){ (bb.tickers||[]).forEach(function(t){
-          if(t && t.ticker && typeof t.change_pct==="number") moves[t.ticker]=t.change_pct; }); });
-      } else if(json){
-        ["stocks","etfs"].forEach(function(k){ (json[k]||[]).forEach(function(t){
-          if(t && t.ticker && typeof t.change_pct==="number") moves[t.ticker]=t.change_pct; }); });
-      }
-    }catch(_){}
-  }
-  function applyToTable(){
-    document.querySelectorAll('.btbl td.mv[data-ticker]').forEach(function(td){
-      var tk = td.getAttribute("data-ticker");
-      if(typeof moves[tk]==="number"){
-        var v = moves[tk];
-        td.innerHTML = '<span style="color:'+(v>=0?"#22c55e":"#f0596e")+'">'+fmtPct(v)+'</span> <span class="needsverify">(1D)</span>';
-      }
-    });
-  }
-  function readMovers(){
-    var withMv = safeHoldings.map(function(h){ return {h:h, mv:moves[h.ticker]}; })
-      .filter(function(x){ return typeof x.mv==="number"; });
-    if(!withMv.length) return;
-    withMv.sort(function(a,b){ return b.mv-a.mv; });
-    var s=withMv[0], w=withMv[withMv.length-1];
-    document.getElementById("r-strong").innerHTML = '<b>'+s.h.ticker+'</b> '+fmtPct(s.mv);
-    document.getElementById("r-weak").innerHTML = '<b>'+w.h.ticker+'</b> '+fmtPct(w.mv);
-  }
-  Promise.allSettled([
-    fetch("/universe.json?t="+Date.now()).then(function(r){return r.json();}).then(function(j){ingest(j,"universe");}),
-    fetch("/data.json?t="+Date.now()).then(function(r){return r.json();}).then(function(j){ingest(j,"data");})
-  ]).then(function(){ render(); applyToTable(); readMovers(); });
-
-  render();
-})();
 </script>
 </body>
 </html>

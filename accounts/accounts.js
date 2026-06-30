@@ -419,6 +419,11 @@
   // ── boot ──────────────────────────────────────────────────────────────
   window.SantroCalc = SantroCalc;
   API.onUnauthorized(() => { user = null; renderHeader(); openAuth("home"); });
-  function boot() { renderHeader(); refreshUser(); }
+  function boot() {
+    renderHeader(); refreshUser();
+    // Deep-link from "Create a free account" CTAs across the site (/?auth=register).
+    const v = new URLSearchParams(location.search).get("auth");
+    if (v === "register" || v === "login") openAuth(v === "register" ? "register" : "email");
+  }
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", boot); else boot();
 })();

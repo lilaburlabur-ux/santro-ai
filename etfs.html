@@ -74,6 +74,18 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Dataset","name":"AI ETF universe","description":"A curated map of the major investable AI ETF universe, sorted into 8 buckets (pure-play AI, semiconductors, robotics, humanoids, leveraged/inverse, income/covered-call, adjacent), with issuer, theme, fee, AUM and status where available. Coverage is expanding.","url":"https://santroai.tech/etfs","isAccessibleForFree":true,"license":"https://santroai.tech/terms","creator":{"@type":"Organization","name":"Santro AI","url":"https://santroai.tech"},"keywords":["AI ETFs","semiconductor ETFs","robotics ETFs","AI funds","thematic ETFs"]}
 </script>
+<style>
+.sa-crumb{max-width:920px;margin:14px auto 0;padding:0 20px;font-size:13px;color:var(--faint,#6b7684);}
+.sa-crumb a{color:var(--muted,#9aa6b2);text-decoration:none;} .sa-crumb a:hover{color:var(--accent,#5b9df0);}
+.sa-grow{max-width:920px;margin:20px auto 0;padding:24px 20px 8px;border-top:1px solid var(--border-soft,#1c2230);display:grid;grid-template-columns:1fr 1fr;gap:14px 28px;}
+@media(max-width:680px){.sa-grow{grid-template-columns:1fr;}}
+.sa-grow h3{font-size:14px;margin:0 0 8px;color:var(--text,#e6edf3);letter-spacing:.02em;}
+.sa-grow ul{margin:0;padding-left:18px;} .sa-grow li{color:var(--muted,#9aa6b2);font-size:14.5px;line-height:1.7;margin-bottom:3px;} .sa-grow a{color:var(--accent,#5b9df0);}
+.sa-cta-box{grid-column:1/-1;margin-top:8px;padding:18px 20px;border:1px solid rgba(91,157,240,.28);border-radius:12px;background:rgba(91,157,240,.06);}
+.sa-cta-box b{color:var(--text,#e6edf3);font-size:15.5px;} .sa-cta-box p{color:var(--muted,#9aa6b2);font-size:14px;margin:6px 0 12px;line-height:1.6;}
+.sa-cta-btn{display:inline-block;background:var(--accent,#5b9df0);color:#fff;padding:9px 17px;border-radius:8px;font-weight:600;font-size:14px;text-decoration:none;}
+.sa-tickers{max-width:920px;margin:6px auto 0;padding:0 20px;font-size:13.5px;color:var(--faint,#6b7684);} .sa-tickers a{color:var(--accent,#5b9df0);}
+</style>
 </head>
 <body>
   <header class="pageheader">
@@ -103,6 +115,7 @@
   </header>
 
   <main>
+  <nav class="sa-crumb" aria-label="Breadcrumb"><a href="/">Home</a> › AI ETFs</nav>
     <h1>AI ETFs <span class="badge" id="count">41 funds · 8 buckets</span></h1>
     <p class="lede">Every investable AI ETF, sorted into eight buckets so nothing hides — what's
     actually inside each fund, the fee, and the size. Tap any ticker for its own page. Figures
@@ -465,6 +478,31 @@
     <span class="rb income">income</span> <span class="rb spec">speculative</span>) are editorial flags,
     not ratings. Not financial advice.</p>
   </main>
+
+<section class="sa-grow">
+    <div>
+      <h3>RELATED READING</h3>
+      <ul>
+        <li><a href="/blog/ai-junk-bonds">AI's $32 Billion IOU: the data-center junk-bond table</a></li>
+        <li><a href="/blog/spacex-attention-ai-infrastructure">SpaceX is the attention magnet — the real trade is AI infrastructure</a></li>
+      </ul>
+    </div>
+    <div>
+      <h3>SANTRO AI TOOLS</h3>
+      <ul>
+        <li><a href="/bubble">Check the AI bubble-risk index</a></li>
+        <li><a href="/etfs">Compare AI ETFs</a></li>
+        <li><a href="/crypto">AI crypto movers</a></li>
+        <li><a href="/stocks">AI stocks bubble map</a></li>
+        <li><a href="/share">Create a share card</a></li>
+      </ul>
+    </div>
+    <div class="sa-cta-box">
+      <b>Run the numbers yourself — free.</b>
+      <p>Create a free Santro AI account to run unlimited fair-value valuations, save a watchlist, and keep your valuation history. Five free runs even without an account; no card required.</p>
+      <a class="sa-cta-btn" href="/?auth=register">Create a free account &rarr;</a>
+    </div>
+  </section>
 
   <footer>
     <nav class="foot-nav" style="margin-bottom:6px"><a href="/">Terminal</a> · <a href="/stocks">Stocks</a> · <a href="/ipos">IPOs</a> · <a href="/etfs">ETFs</a> · <a href="/crypto">Crypto</a> · <a href="/news">News</a> · <a href="/research">Research</a> · <a href="/blog">Blog</a> · <a href="/about">About</a> · <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a></nav>

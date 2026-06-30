@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-30T11:15:56+00:00",
+  "as_of": "2026-06-30T11:28:01+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "AVAV",
    "company": "AeroVironment Inc",
-   "move_pct": 30.07,
-   "price": 180.8,
+   "move_pct": 30.58,
+   "price": 181.5,
    "volume": 3009200,
    "volume_vs_avg": "~2x",
    "heat_score": 88,
    "direction": "up",
-   "why": "AVAV Q4 Earnings Call Centers on Capacity and Timing",
+   "why": "AeroVironment (AVAV) Is Down 8.1% After Record Revenue But Weak Profit Outlook And Index Shift",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/avav-q4-earnings-call-centers-093400002.html",
-   "published": "2026-06-30T09:34:00Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-down-8-1-110806610.html",
+   "published": "2026-06-30T11:08:06Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]

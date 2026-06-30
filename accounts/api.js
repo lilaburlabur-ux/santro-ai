@@ -38,6 +38,8 @@
   // Backend routes in one place — adjust here if the backend differs.
   const R = {
     me: "/account/me",
+    profile: "/account/profile",
+    preferences: "/account/preferences",
     register: "/auth/register",
     login: "/auth/login",
     magicRequest: "/auth/magic/request",
@@ -102,6 +104,9 @@
     },
     me() { return Live._fetch(R.me, { silent401: true }).catch((e) => { if (e.status === 401) return null; throw e; }); },
     methods() { return Live._fetch(R.methods); },
+    updateProfile(b) { return Live._fetch(R.profile, { method: "PATCH", body: b }); },
+    getPreferences() { return Live._fetch(R.preferences); },
+    updatePreferences(b) { return Live._fetch(R.preferences, { method: "PATCH", body: b }); },
     register(b) { return Live._fetch(R.register, { method: "POST", body: b }); },
     login(b) { return Live._fetch(R.login, { method: "POST", body: b }); },
     magicRequest(email) { return Live._fetch(R.magicRequest, { method: "POST", body: { email } }); },
@@ -130,6 +135,10 @@
     let userUsed = 0;
     const wl = new Map();            // ticker -> {id,ticker,created_at}
     const vals = [];                 // saved valuations
+    const MOCK_PREFS = { show_all_data: true, show_stocks: true, show_crypto: true, show_etfs: true,
+      show_news: true, show_research: true, show_bubble_risk: true, show_fair_value_calculator: true,
+      show_watchlist: true, default_terminal_view: "all", theme: "system", preferred_sectors: [], preferred_tickers: [] };
+    let _mockPrefs = {};
     const id = () => "m_" + Math.random().toString(36).slice(2, 10);
     const ensureUser = (email) => ({ id: id(), email: email.toLowerCase(), email_verified: true,
       display_name: null, consented_at: new Date().toISOString(), created_at: new Date().toISOString() });
@@ -138,6 +147,9 @@
     return {
       async me() { return user; },
       async methods() { return { email_password: true, google: false, magic_link: false, password_reset: false }; },
+      async updateProfile(b) { if (user) Object.assign(user, b); return user || {}; },
+      async getPreferences() { return Object.assign({}, MOCK_PREFS, _mockPrefs); },
+      async updatePreferences(b) { Object.assign(_mockPrefs, b || {}); return Object.assign({}, MOCK_PREFS, _mockPrefs); },
       async register(b) { return { detail: "If an account exists, we've sent a message." }; },
       async login(b) { user = ensureUser(b.email); return { ok: true }; },
       async magicRequest() { return { detail: "If an account exists, we've sent a login link." }; },
@@ -240,6 +252,9 @@
 
     me: () => backend.me(),
     methods: () => backend.methods(),
+    updateProfile: (b) => backend.updateProfile(b),
+    getPreferences: () => backend.getPreferences(),
+    updatePreferences: (b) => backend.updatePreferences(b),
     register: (b) => backend.register(b),
     login: (b) => backend.login(b),
     magicRequest: (email) => backend.magicRequest(email),

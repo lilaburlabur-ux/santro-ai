@@ -41,7 +41,8 @@
   function renderHeader() {
     const slot = headerSlot(); if (!slot) return;
     if (user) {
-      const initial = (user.email || "?")[0].toUpperCase();
+      const label = (user.display_name || user.first_name || user.email || "?");
+      const initial = label[0].toUpperCase();
       slot.innerHTML = `<button class="sa-authbtn" id="sa-acct" aria-haspopup="true" aria-expanded="false">
         <span class="sa-dot"></span>${esc(initial)} · Account ▾</button>`;
       slot.querySelector("#sa-acct").onclick = toggleMenu;
@@ -54,12 +55,15 @@
     e.stopPropagation();
     const slot = headerSlot(); let m = slot.querySelector(".sa-menu");
     if (m) { m.remove(); return; }
+    const nm = (user.display_name || user.first_name || "").trim();
     m = node(`<div class="sa-menu" role="menu">
-      <div class="sa-email">${esc(user.email)}</div>
+      <div class="sa-email" style="white-space:normal">${nm ? `<b style="color:var(--text);font-size:12.5px">${esc(nm)}</b><br>` : ""}${esc(user.email)}</div>
+      <button data-a="dashboard">⚙ Account &amp; settings</button>
       <button data-a="watchlist">★ My watchlist</button>
       <button data-a="history">🕘 Saved valuations</button>
       <button data-a="logout">Log out</button></div>`);
     slot.appendChild(m);
+    m.querySelector('[data-a="dashboard"]').onclick = () => { location.href = "/dashboard"; };
     m.querySelector('[data-a="watchlist"]').onclick = () => { m.remove(); openSaved("watchlist"); };
     m.querySelector('[data-a="history"]').onclick = () => { m.remove(); openSaved("history"); };
     m.querySelector('[data-a="logout"]').onclick = async () => { m.remove(); await doLogout(); };
@@ -161,7 +165,8 @@
       ${hasAlts ? '<div class="sa-or">or</div><button class="sa-btn" id="back">← all sign-in options</button>' : ""}
     </div>`);
     const back = w.querySelector("#back"); if (back) back.onclick = () => openAuthView("home");
-    w.querySelector("#reg").onclick = () => openAuthView("register");
+    // Signup is a dedicated page (collects a profile) — keep it separate from sign-in.
+    w.querySelector("#reg").onclick = () => { location.href = "/signup"; };
     const forgotBtn = w.querySelector("#forgot"); if (forgotBtn) forgotBtn.onclick = () => openAuthView("reset");
     w.querySelector("#go").onclick = async () => {
       const email = w.querySelector("#em").value.trim(), password = w.querySelector("#pw").value;
@@ -448,9 +453,11 @@
   API.onUnauthorized(() => { user = null; renderHeader(); openAuth("home"); });
   function boot() {
     renderHeader(); refreshUser(); ensureMethods();
-    // Deep-link from "Create a free account" CTAs across the site (/?auth=register).
+    // "Create a free account" CTAs across the site (/?auth=register) now go to the
+    // dedicated pages so signup (with profile) and sign-in are clearly separate.
     const v = new URLSearchParams(location.search).get("auth");
-    if (v === "register" || v === "login") openAuth(v === "register" ? "register" : "email");
+    if (v === "register") location.href = "/signup";
+    else if (v === "login") location.href = "/signin";
   }
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", boot); else boot();
 })();

@@ -203,10 +203,10 @@
   // ── the calculator on the detail card ─────────────────────────────────
   const SantroCalc = {
     render(t, hostEl) {
-      ctx = { ticker: t.ticker, company: t.company, price: t.price, pe: t.pe, change_pct: t.change_pct };
+      ctx = { ticker: t.ticker, company: t.company, price: t.price, pe: t.pe, fwdEps: t.fwd_eps, change_pct: t.change_pct };
       const host = hostEl || document.getElementById("detail"); if (!host) return;
       const old = host.querySelector(".sa-calc"); if (old) old.remove();
-      const stat = API.staticValuation(t.ticker, { price: t.price, pe: t.pe });
+      const stat = API.staticValuation(t.ticker, { price: t.price, pe: t.pe, fwdEps: t.fwd_eps });
       const block = node(`<div class="sa-calc"></div>`);
       block.innerHTML = staticHtml(stat) + runRowHtml(stat) + `<div class="sa-out" id="sa-out"></div>` + nfaLine();
       host.appendChild(block);
@@ -224,29 +224,41 @@
     },
   };
 
+  function growthRead(g) {
+    if (g >= 30) return "demanding — priced for a lot to go right";
+    if (g >= 18) return "punchy expectations";
+    if (g >= 8) return "moderate expectations";
+    if (g >= 2) return "modest expectations";
+    return "very low — priced for flat-to-declining earnings (looks cheap)";
+  }
   function staticHtml(stat) {
     if (stat.storyStockFlag) {
-      return `<div class="sa-lbl">Fair value</div>
-        <div class="sa-story"><b>No positive trailing earnings — fair value N/A.</b> There's no positive trailing
-        EPS to anchor an earnings-based DCF, so we won't print a number — a limit of the model, not a knock on
-        the company. The price reflects forward expectations, not current profits.</div>`;
+      return `<div class="sa-lbl">What the price implies</div>
+        <div class="sa-story"><b>No earnings to value on yet.</b> This name has neither positive trailing nor
+        forward earnings, so there's nothing to anchor a growth read — it's priced on revenue and story, not
+        profits. Watch the path to profitability, not a multiple.</div>`;
     }
-    const over = stat.premiumPct >= 0;
-    return `<div class="sa-lbl">Fair value <span class="badge live">Free</span></div>
+    const g = stat.impliedGrowth;
+    const hot = g >= 18;                       // demanding = caution (red); modest = cheap (green)
+    const basis = stat.basis === "forward" ? "forward earnings" : "trailing earnings";
+    return `<div class="sa-lbl">What the price implies <span class="badge live">Free</span></div>
       <div class="sa-static">
-        <span class="fv">${fmtUSD(stat.fairValue)}</span>
-        <span class="sa-prem ${over ? "over" : "under"}">${fmtPct(stat.premiumPct)} ${over ? "above" : "below"} fair value</span>
-        <span class="sa-basis">DCF · ${stat.assumedGrowth}% growth, ${stat.discount}% discount</span>
+        <span class="fv">~${Math.max(0, g).toFixed(0)}%<span class="sa-unit"> / yr</span></span>
+        <span class="sa-prem ${hot ? "over" : "under"}">${growthRead(g)}</span>
+        <span class="sa-basis">Annual earnings growth the price bakes in · reverse-DCF on ${basis}</span>
       </div>`;
   }
   function runRowHtml(stat) {
     const pinBtn = user ? `<button class="sa-pin" id="sa-pin">☆ Pin</button>` : "";
     if (stat && stat.storyStockFlag) {
-      // No interactive valuation without positive trailing EPS — don't let a click burn a run.
-      return pinBtn ? `<div class="sa-runrow"><span class="sa-remaining">Interactive valuation N/A — no positive trailing earnings.</span>${pinBtn}</div>` : "";
+      // No interactive valuation without an earnings base — don't let a click burn a run.
+      return pinBtn ? `<div class="sa-runrow"><span class="sa-remaining">Interactive valuation N/A — no earnings to value on yet.</span>${pinBtn}</div>` : "";
     }
+    // Pre-fill growth with what the price implies, so the user starts from the
+    // market's own assumption and adjusts from there (not an arbitrary 12%).
+    const g0 = stat.impliedGrowth != null ? Math.max(0, Math.round(stat.impliedGrowth)) : 12;
     const assume = user ? `<div class="sa-assume" id="sa-assume">
-        <div class="f"><label>Growth % / yr</label><input id="sa-g" type="number" step="0.5" value="12"></div>
+        <div class="f"><label>Growth % / yr</label><input id="sa-g" type="number" step="0.5" value="${g0}"></div>
         <div class="f"><label>Discount rate %</label><input id="sa-r" type="number" step="0.25" value="9"></div>
       </div>` : "";
     return assume + `<div class="sa-runrow">
@@ -279,7 +291,7 @@
     out.innerHTML = skeletonResults();
     const growth = num(block.querySelector("#sa-g"), 12), discount = num(block.querySelector("#sa-r"), 9);
     try {
-      const res = await API.runValuation(ctx.ticker, { price: ctx.price, pe: ctx.pe, growth, discount });
+      const res = await API.runValuation(ctx.ticker, { price: ctx.price, pe: ctx.pe, fwdEps: ctx.fwdEps, growth, discount });
       out.innerHTML = resultsHtml(res, { growth, discount });
       cache[ctx.ticker] = { res, a: { growth, discount } };   // survive panel re-renders
       wireSensRerun(block, stat);
@@ -298,8 +310,8 @@
 
   function resultsHtml(res, a) {
     if (res.storyStockFlag) {
-      return `<div class="sa-story"><b>No positive trailing earnings — fair value N/A.</b> An earnings-based DCF
-        needs positive trailing EPS. The price reflects forward expectations, not current profits.</div>`;
+      return `<div class="sa-story"><b>No earnings to value on yet.</b> Neither trailing nor forward earnings are
+        positive, so there's no base for an earnings model. This name is priced on revenue and story, not profits.</div>`;
     }
     const over = res.premiumPct >= 0;
     return `<div class="sa-res">

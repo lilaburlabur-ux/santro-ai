@@ -187,17 +187,26 @@
     return (lo + hi) / 2;
   }
   const MockValuation = {
-    _eps(price, pe) { return pe && pe > 0 ? price / pe : null; },
-    static_(ticker, { price, pe }) {
-      const eps = this._eps(price, pe);
-      if (eps == null) return { ticker, basis: "DCF", storyStockFlag: true, fairValue: null, premiumPct: null };
-      // Free read = DCF at the default 12% growth / 9% discount (matches Run valuation).
-      const fair = dcf(eps, 0.12, 0.09, 10, 0.025);
-      return { ticker, basis: "DCF", storyStockFlag: false, fairValue: fair,
-        premiumPct: (price / fair - 1) * 100, assumedGrowth: 12, discount: 9 };
+    // Earnings base for the model: prefer FORWARD EPS (normalized — handles
+    // names that are unprofitable on a trailing basis but profitable looking
+    // forward), fall back to trailing EPS (price/PE). Null only when neither is
+    // positive (nothing to anchor a growth read on).
+    _eps(price, pe, fwdEps) {
+      if (fwdEps && fwdEps > 0) return fwdEps;
+      return pe && pe > 0 ? price / pe : null;
     },
-    run(ticker, { price, pe, growth, discount }) {
-      const eps = this._eps(price, pe);
+    static_(ticker, { price, pe, fwdEps }) {
+      const eps = this._eps(price, pe, fwdEps);
+      if (eps == null) return { ticker, storyStockFlag: true, impliedGrowth: null, basis: null };
+      // Free read = the annual earnings growth the current price ALREADY implies
+      // (reverse-DCF). We don't guess a growth rate for the whole universe (that
+      // produced nonsense) — we report the one the market has baked into price.
+      return { ticker, storyStockFlag: false,
+        impliedGrowth: impliedGrowth(eps, price, 0.09, 10, 0.025) * 100,
+        basis: (fwdEps && fwdEps > 0) ? "forward" : "trailing" };
+    },
+    run(ticker, { price, pe, fwdEps, growth, discount }) {
+      const eps = this._eps(price, pe, fwdEps);
       if (eps == null) return { ticker, storyStockFlag: true, fairValue: null, premiumPct: null, pricedInGrowth: null, sensitivityGrid: null };
       const years = 10, tg = 0.025;
       const g = growth / 100, r = discount / 100;
@@ -210,6 +219,7 @@
       return {
         ticker, storyStockFlag: false, fairValue: fair, premiumPct: (price / fair - 1) * 100,
         pricedInGrowth: impliedGrowth(eps, price, r, years, tg) * 100, sensitivityGrid: grid,
+        basis: (fwdEps && fwdEps > 0) ? "forward" : "trailing",
       };
     },
   };

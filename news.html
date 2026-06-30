@@ -74,6 +74,40 @@
     </section>
   </main>
 
+<style>
+.sa-explainer{max-width:920px;margin:8px auto 0;padding:26px 20px 6px;border-top:1px solid var(--border-soft,#1c2230);}
+.sa-explainer h2{font-size:21px;margin:22px 0 8px;}
+.sa-explainer h3{font-size:16px;margin:18px 0 4px;}
+.sa-explainer p,.sa-explainer li{color:var(--muted,#9aa6b2);font-size:15px;line-height:1.65;}
+.sa-explainer li{margin-bottom:5px;}
+.sa-explainer b{color:var(--text,#e6edf3);}
+.sa-explainer a{color:var(--accent,#5b9df0);}
+.sa-explainer .cta{margin-top:16px;}
+.sa-explainer .nfa-note{color:var(--faint,#6b7684);font-size:13px;margin-top:14px;}
+</style>
+<section class="sa-explainer">
+  <h2>How the AI news feed works</h2>
+  <p>We cover every headline that touches the <b>~83-name AI stock universe</b> plus AI ETFs &mdash; but we do
+    <b>not</b> trust the feed a story arrived on. Vendor per-ticker feeds are noisy (an Nvidia feed carries syndicated
+    macro stories that have nothing to do with Nvidia), so every story is <b>re-tagged by which of our companies its
+    headline actually names</b> &mdash; by ticker ($NVDA, "(NVDA)") or by company name. Stories that name none of our
+    companies are dropped.</p>
+  <h3>What that gets you</h3>
+  <ul>
+    <li><b>Accurate ticker tags</b> &mdash; a headline pitting Amazon against Microsoft is tagged to both, not to whatever
+      feed it happened to appear in.</li>
+    <li><b>Deduplication</b> &mdash; the same syndicated story collapses to one entry, tagged with every company it names
+      and its sector.</li>
+    <li><b>Timestamps</b> on every item; the feed refreshes through the trading day.</li>
+  </ul>
+  <p>Headlines are <b>delayed and third-party</b> &mdash; a starting point for research, not a real-time wire. Click a tag
+    to jump to that name on the <a href="/stocks">bubble map</a>.</p>
+  <p class="cta">Pair the news with daily <a href="/research">signed research reports</a>, the
+    <a href="/bubble">bubble-risk index</a>, or the day's <a href="/share">movers card</a>.</p>
+  <p class="nfa-note">Delayed, third-party headlines. Not financial advice.</p>
+</section>
+
+
   <footer>
     <nav class="foot-nav" style="margin-bottom:6px"><a href="/">Terminal</a> · <a href="/stocks">Stocks</a> · <a href="/ipos">IPOs</a> · <a href="/etfs">ETFs</a> · <a href="/crypto">Crypto</a> · <a href="/news">News</a> · <a href="/research">Research</a> · <a href="/blog">Blog</a> · <a href="/about">About</a> · <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a></nav>
     Santro AI — AI bubble map &amp; research journal for the AI narrative. Beta version.<br>

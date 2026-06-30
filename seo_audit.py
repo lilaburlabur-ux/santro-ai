@@ -52,6 +52,8 @@ ROUTES = [
     ("/blog/ai-junk-bonds", "blog/ai-junk-bonds.html", True),
     ("/blog/ai-trading-prompt-engineering", "blog/ai-trading-prompt-engineering.html", True),
     ("/blog/spacex-attention-ai-infrastructure", "blog/spacex-attention-ai-infrastructure.html", True),
+    ("/blog/ai-market-cape-valuation", "blog/ai-market-cape-valuation.html", True),
+    ("/blog/ai-bubble-inflation-adjusted", "blog/ai-bubble-inflation-adjusted.html", True),
     ("/blog/ai-bubble-vs-dotcom", "blog/ai-bubble-vs-dotcom.html", True),
     ("/blog/why-expensive-isnt-a-short", "blog/why-expensive-isnt-a-short.html", True),
     ("/privacy", "privacy.html", True), ("/terms", "terms.html", True),

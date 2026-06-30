@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-30T11:36:29+00:00",
+  "as_of": "2026-06-30T11:51:24+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "AVAV",
    "company": "AeroVironment Inc",
-   "move_pct": 34.15,
-   "price": 186.47,
+   "move_pct": 33.61,
+   "price": 185.72,
    "volume": 3009200,
    "volume_vs_avg": "~2x",
    "heat_score": 88,
    "direction": "up",
-   "why": "AeroVironment (AVAV) Is Down 8.1% After Record Revenue But Weak Profit Outlook And Index Shift",
+   "why": "AeroVironment Fiscal Fourth-Quarter Results Top Views; Issues Upbeat Revenue Outlook",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-down-8-1-110806610.html",
-   "published": "2026-06-30T11:08:06Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-fiscal-fourth-quarter-results-111957987.html",
+   "published": "2026-06-30T11:19:57Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]

@@ -174,7 +174,7 @@
   @media (max-width:560px){ .brief-grid{grid-template-columns:1fr 1fr;} .bt.risk{grid-column:span 2;} }
   .grid{display:grid; gap:14px; padding:14px;
     grid-template-columns:1.55fr 1fr 1fr;
-    grid-template-rows:474px minmax(392px, auto);
+    grid-template-rows:474px minmax(392px, 640px);
     grid-template-areas:"heat news small" "detail ipo takeaways";}
   @media (max-width:1100px){.grid{grid-template-columns:1fr 1fr; grid-template-rows:auto;
     grid-template-areas:"heat heat" "detail news" "small ipo" "takeaways takeaways";}}
@@ -510,7 +510,7 @@
 
   <section class="term-static" style="margin:8px 16px 0;padding:14px 16px;background:var(--panel);border:1px solid var(--border);border-radius:12px;">
     <p style="margin:0;font-size:12.5px;line-height:1.65;color:var(--muted)">
-    Today's AI terminal tracks <b style="color:var(--text)">83 AI tickers across 7 sectors</b>, plus
+    Today's AI terminal tracks <b style="color:var(--text)"><span id="trk-tickers">89</span> AI tickers across <span id="trk-sectors">7</span> sectors</b>, plus
     <a href="/crypto" style="color:var(--accent-2);text-decoration:none">AI crypto</a>,
     <a href="/etfs" style="color:var(--accent-2);text-decoration:none">AI ETFs</a>,
     <a href="/news" style="color:var(--accent-2);text-decoration:none">news</a>,
@@ -574,7 +574,7 @@ let takeaways=null;                // takeaways/takeaways.json (4-hour cycle)
 let tkExpanded=false;              // "See more" state — survives the 60s auto-refresh
 let hotData=null;                  // hot_tickers.json — 15-min hot-tickers scan (hot-tickers/SPEC.md)
 let bubbleIx=null;                  // bubble_index.json — AI bubble-risk index + history (homepage band)
-let universe=null, uniGroup=null;  // universe.json — 83-ticker AI universe in 7 themed bubbles
+let universe=null, uniGroup=null;  // universe.json — AI universe (count from meta.total_tickers) in 7 themed bubbles
 let eco=null;                      // ecosystem.json — 30-name NVIDIA Ecosystem basket
 let newsFeed=null;                 // news.json — deduped headlines for the FULL scope (universe + ETFs)
 let tweets=null;                   // tweets.json — @DeItaone SPCX squawk via Telegram mirror
@@ -1164,6 +1164,9 @@ function applyHeat(){
     document.getElementById("heat-title").textContent = uniGroup
       ? `${uniGroup.label} · sized by day move`
       : `AI Universe · ${universe.meta.total_tickers} names · ${universe.bubbles.length} sectors`;
+    // Keep the bottom summary blurb's count in sync with the live universe.
+    const _trk=document.getElementById("trk-tickers"); if(_trk) _trk.textContent = universe.meta.total_tickers;
+    const _trs=document.getElementById("trk-sectors"); if(_trs) _trs.textContent = universe.bubbles.length;
     render();
     if(uniGroup){
       const t = uniGroup.tickers.find(x=>x.ticker===selectedSymbol);

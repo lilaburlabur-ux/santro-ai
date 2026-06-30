@@ -40,8 +40,15 @@ check("no excluded_short_or_hedge in map", !mapH.some(h => h.source_status === "
 check("no low-confidence in map", !mapH.some(h => h.confidence_level === "low"));
 check("every map holding has a source_url", mapH.every(h => h.source_url && /^https?:\/\//.test(h.source_url)));
 const excluded = (B ? B.excluded_or_hedge_mentions : []).map(e => e.ticker);
-check("excluded tickers (NVDA/ASML) NOT in holdings", !(B && B.holdings.some(h => excluded.includes(h.ticker))));
-check("NVDA + ASML present as excluded mentions", excluded.includes("NVDA") && excluded.includes("ASML"));
+check("excluded tickers NOT in holdings", !(B && B.holdings.some(h => excluded.includes(h.ticker))));
+check("Q1 put names all excluded (NVDA/AVGO/ORCL/SMH/ASML)",
+  ["NVDA","AVGO","ORCL","SMH","ASML"].every(t => excluded.includes(t)));
+check("energy/power names in map (BE/VST/CEG)",
+  ["BE","VST","CEG"].every(t => B.holdings.some(h => h.ticker===t && h.include_in_main_bubble_map && SAFE.includes(h.source_status))));
+check("hypothesis_watchlist populated + visually separated section",
+  B.hypothesis_watchlist.length > 0 && /Hypothesis watchlist/.test(html) && /class="hyp"/.test(html));
+check("hypothesis themes are NOT presented as held tickers",
+  B.hypothesis_watchlist.every(x => !x.ticker));
 
 console.log("\nSafe wording (full_portfolio_verified=false)");
 [/full\s+portfolio/i, /complete\s+portfolio/i, /all\s+holdings/i, /everything\s+he\s+owns/i]

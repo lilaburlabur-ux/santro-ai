@@ -9,24 +9,24 @@
 <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png" />
 <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
-<meta name="description" content="Track publicly disclosed and reputable-media-reported AI infrastructure positions linked to Leopold Aschenbrenner and Situational Awareness LP with Santro AI's source-gated bubble map. Not a complete or current portfolio. Not financial advice." />
+<meta name="description" content="Track publicly disclosed and reputable-media-reported AI infrastructure and power/energy positions linked to Leopold Aschenbrenner and Situational Awareness LP — Nebius, CoreWeave, IREN, Bloom Energy, Vistra, Constellation — with Santro AI's source-gated bubble map. Not a complete or current portfolio. Not financial advice." />
 <link rel="canonical" href="https://santroai.tech/stocks/aschenbrenner" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Santro AI" />
 <meta property="og:title" content="Aschenbrenner Public AI Infrastructure Basket | Santro AI" />
-<meta property="og:description" content="A source-gated tracker of publicly disclosed and reputable-media-reported AI infrastructure positions linked to Leopold Aschenbrenner and Situational Awareness LP. Hot means attention, not direction." />
+<meta property="og:description" content="A source-gated tracker of publicly disclosed and reputable-media-reported AI infrastructure and power/energy positions linked to Leopold Aschenbrenner and Situational Awareness LP. Hot means attention, not direction." />
 <meta property="og:url" content="https://santroai.tech/stocks/aschenbrenner" />
 <meta property="og:image" content="https://santroai.tech/assets/og-map.png" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Aschenbrenner Public AI Infrastructure Basket" />
-<meta name="twitter:description" content="Publicly disclosed & reputable-media-reported AI infrastructure positions — source-gated. Not a complete or current portfolio." />
+<meta name="twitter:description" content="Publicly disclosed & reputable-media-reported AI infrastructure + power/energy positions — source-gated. Not a complete or current portfolio." />
 <meta name="twitter:image" content="https://santroai.tech/assets/og-map.png" />
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebPage","@id":"https://santroai.tech/stocks/aschenbrenner#webpage",
  "name":"Aschenbrenner Public AI Infrastructure Basket",
- "description":"A source-gated tracker of publicly disclosed and reputable-media-reported AI infrastructure positions linked to Leopold Aschenbrenner and Situational Awareness LP.",
+ "description":"A source-gated tracker of publicly disclosed and reputable-media-reported AI infrastructure and power/energy positions linked to Leopold Aschenbrenner and Situational Awareness LP.",
  "url":"https://santroai.tech/stocks/aschenbrenner",
  "isPartOf":{"@type":"WebSite","name":"Santro AI","url":"https://santroai.tech"},
  "publisher":{"@type":"Organization","name":"Santro AI","url":"https://santroai.tech"}}
@@ -40,12 +40,12 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Dataset",
  "name":"Aschenbrenner Public AI Infrastructure Basket — publicly disclosed & reported holdings",
- "description":"A source-gated list of publicly disclosed and reputable-media-reported AI infrastructure positions linked to Leopold Aschenbrenner / Situational Awareness LP. Each holding carries a source status, confidence level and a source link. Speculative names are separated and hedge/short mentions are excluded from long holdings. Not a complete or current portfolio.",
+ "description":"A source-gated list of publicly disclosed and reputable-media-reported AI infrastructure and power/energy positions linked to Leopold Aschenbrenner / Situational Awareness LP. Each holding carries a source status, confidence level and a source link. Speculative names are separated and hedge/short mentions are excluded from long holdings. Not a complete or current portfolio.",
  "url":"https://santroai.tech/stocks/aschenbrenner",
  "isAccessibleForFree":true,
  "license":"https://santroai.tech/terms",
  "creator":{"@type":"Organization","name":"Santro AI","url":"https://santroai.tech"},
- "keywords":["AI infrastructure","Situational Awareness LP","Leopold Aschenbrenner","neocloud","Nebius","CoreWeave","IREN","13F","13G"]}
+ "keywords":["AI infrastructure","power stocks","energy","Situational Awareness LP","Leopold Aschenbrenner","neocloud","Nebius","CoreWeave","IREN","Bloom Energy","Vistra","Constellation Energy","13F","13G"]}
 </script>
 <script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
 <link rel="stylesheet" href="/site.css?v=9" />
@@ -70,23 +70,21 @@
   .sub{color:var(--faint);font-size:13.5px;margin:0 0 16px;line-height:1.55;max-width:820px;}
   .datalabel{font-size:11.5px;color:var(--faint);margin:10px 0 0;font-style:italic;}
 
-  /* time filter */
   .tf{display:flex;gap:6px;flex-wrap:wrap;margin:2px 0 14px;}
   .tf button{background:var(--elev);border:1px solid var(--border);color:var(--muted);font:inherit;font-size:12px;
     font-weight:700;padding:6px 12px;border-radius:999px;cursor:pointer;}
   .tf button.on{background:var(--accent-soft);border-color:var(--accent-border);color:var(--accent-2);}
 
-  /* bubble map */
   .bmap{display:flex;flex-wrap:wrap;gap:18px;align-items:flex-end;padding:10px 4px 4px;min-height:120px;}
   .bub{display:flex;flex-direction:column;align-items:center;gap:7px;cursor:pointer;background:none;border:0;font:inherit;}
   .bub .circle{border-radius:50%;display:flex;flex-direction:column;align-items:center;justify-content:center;
     border:2px solid var(--border);background:var(--panel-2);color:var(--text);text-align:center;line-height:1.1;}
-  .bub .circle .tk{font-weight:800;font-size:14px;}
-  .bub .circle .mv{font-size:11px;margin-top:2px;font-variant-numeric:tabular-nums;}
+  .bub .circle .tk{font-weight:800;font-size:13px;}
+  .bub .circle .mv{font-size:10px;margin-top:2px;font-variant-numeric:tabular-nums;}
   .bub.up .circle{border-color:rgba(34,197,94,.65);background:rgba(34,197,94,.10);} .bub.up .mv{color:#22c55e;}
   .bub.dn .circle{border-color:rgba(240,89,110,.65);background:rgba(240,89,110,.10);} .bub.dn .mv{color:#f0596e;}
   .bub.flat .circle{border-color:var(--border);} .bub.flat .mv{color:var(--faint);}
-  .bub .conf{font-size:9.5px;font-weight:800;text-transform:uppercase;letter-spacing:.4px;padding:2px 7px;border-radius:999px;
+  .bub .conf{font-size:9px;font-weight:800;text-transform:uppercase;letter-spacing:.4px;padding:2px 7px;border-radius:999px;
     background:var(--elev);border:1px solid var(--border);color:var(--muted);}
   .bub .conf.high{color:#22c55e;border-color:rgba(34,197,94,.35);}
   .bub .conf.medium{color:#e0a73f;border-color:rgba(224,167,63,.35);}
@@ -97,12 +95,12 @@
   .bcard h3{margin:0 0 4px;font-size:15px;color:var(--text);}
   .bcard b{color:var(--text);} .bcard a{color:var(--accent-2);}
 
-  /* tables */
   .btbl{width:100%;border-collapse:collapse;font-size:13px;margin-top:2px;}
   .btbl th{font-size:9.5px;text-transform:uppercase;letter-spacing:.5px;color:var(--faint);text-align:left;
     font-weight:700;padding:7px 9px;border-bottom:1px solid var(--border);white-space:nowrap;}
   .btbl td{padding:10px 9px;border-bottom:1px solid var(--border-soft);color:var(--muted);vertical-align:top;}
-  .btbl td.tk b{color:var(--text);} .btbl a{color:var(--accent-2);text-decoration:none;} .btbl a:hover{text-decoration:underline;}
+  .btbl td.tk b{color:var(--text);} .btbl td.tk a{color:var(--text);text-decoration:none;} .btbl td.tk a:hover{color:var(--accent-2);}
+  .btbl a{color:var(--accent-2);text-decoration:none;} .btbl a:hover{text-decoration:underline;}
   .btbl .mv{font-variant-numeric:tabular-nums;white-space:nowrap;}
   .needsverify{color:var(--faint);font-style:italic;font-size:12px;}
   .pill{display:inline-block;font-size:10px;font-weight:700;padding:2px 8px;border-radius:999px;white-space:nowrap;}
@@ -110,7 +108,10 @@
   .pill.reported{background:rgba(34,197,94,.08);color:#34d399;border:1px solid rgba(52,211,153,.28);}
   .pill.needs{background:rgba(224,167,63,.10);color:#e0a73f;border:1px solid rgba(224,167,63,.3);}
   .pill.excluded{background:rgba(240,89,110,.10);color:#f0596e;border:1px solid rgba(240,89,110,.3);}
+  .pill.thesis{background:rgba(91,157,240,.10);color:#7fb2f0;border:1px solid rgba(91,157,240,.3);}
   .conf-h{color:#22c55e;font-weight:700;} .conf-m{color:#e0a73f;font-weight:700;} .conf-l{color:var(--faint);font-weight:700;}
+  .tag-energy{font-size:9px;font-weight:800;text-transform:uppercase;letter-spacing:.4px;color:#e0a73f;
+    border:1px solid rgba(224,167,63,.35);border-radius:999px;padding:1px 6px;margin-left:6px;}
 
   .read-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin-top:6px;}
   .read{background:var(--panel);border:1px solid var(--border);border-radius:12px;padding:13px 15px;}
@@ -118,8 +119,14 @@
   .read .v{font-size:14px;color:var(--text);margin-top:4px;line-height:1.45;}
   .read .v .nd{color:var(--faint);font-style:italic;font-weight:400;}
 
+  .hyp{background:rgba(91,157,240,.05);border:1px solid rgba(91,157,240,.22);border-radius:12px;padding:14px 16px;margin-top:4px;}
+  .hyp .chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;}
+  .hyp .chips span{font-size:12.5px;font-weight:600;color:var(--text);background:var(--elev);
+    border:1px solid var(--border);border-radius:999px;padding:6px 12px;}
+  .hyp p{margin:0;color:var(--muted);font-size:13.5px;line-height:1.6;}
+
   .prose{color:var(--muted);font-size:14.5px;line-height:1.7;max-width:820px;}
-  .prose b{color:var(--text);}
+  .prose b{color:var(--text);} .prose a{color:var(--accent-2);}
   .related{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px;}
   .related a{font-size:12.5px;font-weight:700;text-decoration:none;padding:7px 13px;border-radius:999px;
     background:var(--elev);border:1px solid var(--border);color:var(--muted);}
@@ -162,10 +169,13 @@
       <span class="badge amber">Source-gated basket</span>
       <h1>Aschenbrenner Public AI Infrastructure Basket</h1>
       <p class="lede">A source-gated Santro basket tracking publicly disclosed and
-      reputable-media-reported AI infrastructure positions linked to <b style="color:var(--text)">Leopold
-      Aschenbrenner</b> and <b style="color:var(--text)">Situational Awareness LP</b>.</p>
-      <p class="lede">This is <b style="color:var(--text)">not a complete or current portfolio</b>. It is a public
-      market tracker built from filings, reputable reporting, and Santro verification.</p>
+      reputable-media-reported <b style="color:var(--text)">AI infrastructure and power/energy</b>
+      positions linked to <b style="color:var(--text)">Leopold Aschenbrenner</b> and
+      <b style="color:var(--text)">Situational Awareness LP</b>. His public thesis: the AI bottleneck
+      isn't models — it's <b style="color:var(--text)">electricity and compute</b>, so the basket spans
+      power producers as well as data-center and cloud names.</p>
+      <p class="lede">This is <b style="color:var(--text)">not a complete or current portfolio</b>. It is
+      a public market tracker built from filings, reputable reporting, and Santro verification.</p>
       <p class="hot">Hot means attention, not direction.</p>
       <div class="ctas">
         <a class="cta-green" href="/">Open AI Terminal →</a>
@@ -178,7 +188,8 @@
       <span class="bi">⚠</span>
       <span>This basket separates <b>verified or reported positions</b> from <b>hypotheses</b>. 13F and 13G
       filings and media reports may be delayed and incomplete. They may not show shorts, derivatives,
-      private holdings, or current real-time exposure.</span>
+      private holdings, or current real-time exposure. Notably, the fund's <b>largest reported 13F lines
+      are put options</b> (a chipmaker short book) — those are listed under Excluded, not as long holdings.</span>
     </div>
 
     <section>
@@ -197,8 +208,9 @@
 
     <section>
       <h2>Holdings — publicly disclosed &amp; reputable-media-reported</h2>
-      <p class="sub">Reported public positions with a source link and a confidence level. Move data is
-      shown only where Santro carries a live quote; otherwise it reads “needs price verification”.</p>
+      <p class="sub">Reported public positions with a source link and a confidence level. Power/energy
+      names carry an <span class="tag-energy">energy</span> tag. Move data is shown only where Santro
+      carries a live quote; otherwise it reads “needs price verification”.</p>
       <div style="overflow-x:auto">
       <table class="btbl">
         <thead><tr>
@@ -207,7 +219,7 @@
         </tr></thead>
         <tbody>
           <tr>
-            <td class="tk"><b>NBIS</b></td><td>Nebius Group</td><td>AI cloud / compute</td>
+            <td class="tk"><a href="/t?sym=NBIS"><b>NBIS</b></a></td><td>Nebius Group</td><td>AI cloud / compute</td>
             <td>AI infrastructure, cloud compute, data centers (neocloud)</td>
             <td class="mv" data-ticker="NBIS"><span class="needsverify">needs price verification</span></td>
             <td><span class="conf-h">High</span></td>
@@ -217,7 +229,37 @@
             <td>Reported 5.6% stake (12.4M Class A shares) via an SEC 13G filing by Situational Awareness LP.</td>
           </tr>
           <tr>
-            <td class="tk"><b>CRWV</b></td><td>CoreWeave</td><td>AI cloud / compute</td>
+            <td class="tk"><a href="/t?sym=BE"><b>BE</b></a> <span class="tag-energy">energy</span></td><td>Bloom Energy</td><td>On-site power / fuel cells</td>
+            <td>On-site power generation for AI data centers</td>
+            <td class="mv" data-ticker="BE"><span class="needsverify">needs price verification</span></td>
+            <td><span class="conf-h">High</span></td>
+            <td><span class="pill reported">reputable media reported</span></td>
+            <td><a href="https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/" target="_blank" rel="noopener nofollow">Fortune</a></td>
+            <td>2026-03-05</td>
+            <td>Reported as the fund's single largest holding; stake raised sharply (≈+1,488% shares) in Q1 2026.</td>
+          </tr>
+          <tr>
+            <td class="tk"><a href="/t?sym=VST"><b>VST</b></a> <span class="tag-energy">energy</span></td><td>Vistra</td><td>Power generation (gas + nuclear)</td>
+            <td>Electricity for AI data-center build-outs</td>
+            <td class="mv" data-ticker="VST"><span class="needsverify">needs price verification</span></td>
+            <td><span class="conf-m">Medium</span></td>
+            <td><span class="pill reported">reputable media reported</span></td>
+            <td><a href="https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/" target="_blank" rel="noopener nofollow">Fortune</a></td>
+            <td>2026-03-05</td>
+            <td>Named among the fund's major power-producer positions (a ~23% weight in the prior quarter's filing).</td>
+          </tr>
+          <tr>
+            <td class="tk"><a href="/t?sym=CEG"><b>CEG</b></a> <span class="tag-energy">energy</span></td><td>Constellation Energy</td><td>Nuclear power</td>
+            <td>Baseload electricity for AI compute</td>
+            <td class="mv" data-ticker="CEG"><span class="needsverify">needs price verification</span></td>
+            <td><span class="conf-m">Medium</span></td>
+            <td><span class="pill reported">reputable media reported</span></td>
+            <td><a href="https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/" target="_blank" rel="noopener nofollow">Fortune</a></td>
+            <td>2026-03-05</td>
+            <td>Named among the fund's major power-producer positions (a ~8% weight in the prior quarter's filing).</td>
+          </tr>
+          <tr>
+            <td class="tk"><a href="/t?sym=CRWV"><b>CRWV</b></a></td><td>CoreWeave</td><td>AI cloud / compute</td>
             <td>Neocloud GPU compute, AI infrastructure</td>
             <td class="mv" data-ticker="CRWV"><span class="needsverify">needs price verification</span></td>
             <td><span class="conf-m">Medium</span></td>
@@ -227,7 +269,7 @@
             <td>Named as a meaningful position in competing neoclouds alongside IREN.</td>
           </tr>
           <tr>
-            <td class="tk"><b>IREN</b></td><td>IREN Limited</td><td>AI / HPC infrastructure</td>
+            <td class="tk"><a href="/t?sym=IREN"><b>IREN</b></a></td><td>IREN Limited</td><td>AI / HPC infrastructure</td>
             <td>AI/HPC infrastructure, power &amp; data-center exposure</td>
             <td class="mv" data-ticker="IREN"><span class="needsverify">needs price verification</span></td>
             <td><span class="conf-m">Medium</span></td>
@@ -236,6 +278,36 @@
             <td>2026-06-01</td>
             <td>Named as a meaningful position in competing neoclouds alongside CoreWeave.</td>
           </tr>
+          <tr>
+            <td class="tk"><a href="/stocks/corz"><b>CORZ</b></a></td><td>Core Scientific</td><td>Data center / compute</td>
+            <td>Crypto-mining capacity converting to AI hosting</td>
+            <td class="mv" data-ticker="CORZ"><span class="needsverify">needs price verification</span></td>
+            <td><span class="conf-m">Medium</span></td>
+            <td><span class="pill reported">reputable media reported</span></td>
+            <td><a href="https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/" target="_blank" rel="noopener nofollow">Fortune</a></td>
+            <td>2026-03-05</td>
+            <td>Named among data-infrastructure / crypto-mining firms in the fund's reported book.</td>
+          </tr>
+          <tr>
+            <td class="tk"><a href="/stocks/apld"><b>APLD</b></a></td><td>Applied Digital</td><td>Data center / AI hosting</td>
+            <td>Data-center capacity / AI hosting build-out</td>
+            <td class="mv" data-ticker="APLD"><span class="needsverify">needs price verification</span></td>
+            <td><span class="conf-m">Medium</span></td>
+            <td><span class="pill reported">reputable media reported</span></td>
+            <td><a href="https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/" target="_blank" rel="noopener nofollow">Fortune</a></td>
+            <td>2026-03-05</td>
+            <td>Named among data-infrastructure / crypto-mining firms in the fund's reported book.</td>
+          </tr>
+          <tr>
+            <td class="tk"><a href="/t?sym=CIFR"><b>CIFR</b></a></td><td>Cipher Mining</td><td>Compute / AI hosting</td>
+            <td>Mining capacity converting to AI / HPC hosting</td>
+            <td class="mv" data-ticker="CIFR"><span class="needsverify">needs price verification</span></td>
+            <td><span class="conf-m">Medium</span></td>
+            <td><span class="pill reported">reputable media reported</span></td>
+            <td><a href="https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/" target="_blank" rel="noopener nofollow">Fortune</a></td>
+            <td>2026-03-05</td>
+            <td>Named as another large crypto-mining firm in the fund's reported book.</td>
+          </tr>
         </tbody>
       </table>
       </div>
@@ -243,43 +315,62 @@
 
     <section>
       <h2>Needs verification</h2>
-      <p class="sub">These names have been reported or discussed in connection with the same AI
-      infrastructure thesis, but need stronger source confirmation before they are treated as main
-      basket holdings. They are <b>not</b> shown in the bubble map above.</p>
+      <p class="sub">Reported or discussed in connection with the same thesis, but awaiting a stronger
+      source before being treated as a main basket holding. <b>Not</b> shown in the bubble map above.</p>
       <div style="overflow-x:auto">
       <table class="btbl">
         <thead><tr><th>Ticker</th><th>Company</th><th>Sector</th><th>AI relevance</th><th>Confidence</th><th>Source status</th><th>Notes</th></tr></thead>
         <tbody>
-          <tr><td class="tk"><b>BE</b></td><td>Bloom Energy</td><td>Power infrastructure</td>
-            <td>On-site power infrastructure for AI data centers</td><td><span class="conf-m">Medium</span></td>
-            <td><span class="pill needs">needs verification</span></td>
-            <td>Discussed in connection with the AI-infrastructure power thesis; not confirmed in a reputable primary source Santro has reviewed. <span class="needsverify">source pending</span></td></tr>
-          <tr><td class="tk"><b>SNDK</b></td><td>Sandisk</td><td>Memory / storage</td>
+          <tr><td class="tk"><a href="/t?sym=SNDK"><b>SNDK</b></a></td><td>Sandisk</td><td>Memory / storage</td>
             <td>Memory &amp; storage infrastructure for AI</td><td><span class="conf-m">Medium</span></td>
             <td><span class="pill needs">needs verification</span></td>
-            <td>Mentioned in connection with the thesis; not confirmed in a reputable primary source Santro has reviewed. <span class="needsverify">source pending</span></td></tr>
-          <tr><td class="tk"><b>CORZ</b></td><td>Core Scientific</td><td>Data center / compute</td>
-            <td>Data-center / AI-compute conversion</td><td><span class="conf-m">Medium</span></td>
-            <td><span class="pill needs">needs verification</span></td>
-            <td>Mentioned in connection with the thesis; not confirmed in a reputable primary source Santro has reviewed. <span class="needsverify">source pending</span></td></tr>
+            <td>Listed as a top position by 13F aggregators, but not yet named in a reputable narrative source Santro has reviewed. <span class="needsverify">awaiting reputable confirmation</span></td></tr>
         </tbody>
       </table>
       </div>
     </section>
 
     <section>
+      <h2>Hypothesis watchlist — the energy thesis</h2>
+      <p class="sub">Aschenbrenner argues publicly (his <a href="https://situational-awareness.ai/" target="_blank" rel="noopener nofollow">Situational Awareness</a>
+      essay; the <a href="https://www.dwarkesh.com/p/leopold-aschenbrenner" target="_blank" rel="noopener nofollow">Dwarkesh</a> interview) that <b>electricity is the real AI bottleneck</b> — a
+      100GW cluster could need ~20% of US power. These are <b>thesis areas</b>, not confirmed individual
+      positions, and are kept separate from the holdings above.</p>
+      <div class="hyp">
+        <p>What the thesis points at — <b>"what models and chips cannot run without"</b>: electricity
+        generation, grid interconnects and long-term capacity contracts, cooling, fibre, and land. He has
+        publicly flagged <b>natural gas</b> and <b>nuclear</b> as the most build-able paths to AI-scale power.</p>
+        <div class="chips">
+          <span>Natural-gas power</span><span>Nuclear / SMRs</span><span>Grid &amp; transmission</span>
+          <span>Data-center cooling</span><span>Fibre &amp; interconnect</span><span>Land + grid capacity</span>
+        </div>
+      </div>
+      <p class="datalabel">Thesis context from public talks/essays — Santro does not assert these as positions.</p>
+    </section>
+
+    <section>
       <h2>Excluded / hedge mentions</h2>
-      <p class="sub">These names may appear in reporting as hedges, shorts, or comparison points. They are
-      <b>not</b> shown as long basket holdings unless verified separately.</p>
+      <p class="sub">These names appear in reporting as <b>hedges, shorts or put options</b>, not as long
+      positions. They are <b>not</b> shown as long basket holdings. The fund's largest reported 13F lines
+      are puts on this group.</p>
       <div style="overflow-x:auto">
       <table class="btbl">
         <thead><tr><th>Ticker</th><th>Company</th><th>Why excluded</th><th>Status</th></tr></thead>
         <tbody>
-          <tr><td class="tk"><b>NVDA</b></td><td>Nvidia</td>
-            <td>Reporting indicates the fund's chipmaker exposure is largely <b>put / short</b> (notional put exposure across semis), not a disclosed long position.</td>
+          <tr><td class="tk"><a href="/stocks/nvda"><b>NVDA</b></a></td><td>Nvidia</td>
+            <td>Reported as a large <b>put</b> position (chipmaker short book), not a disclosed long.</td>
             <td><span class="pill excluded">excluded — short / hedge</span></td></tr>
-          <tr><td class="tk"><b>ASML</b></td><td>ASML Holding</td>
-            <td>Semiconductor-equipment name that falls inside the reported chipmaker short / hedge book, not a disclosed long.</td>
+          <tr><td class="tk"><a href="/stocks/avgo"><b>AVGO</b></a></td><td>Broadcom</td>
+            <td>Reported among the fund's largest <b>put</b> lines in the Q1 2026 13F.</td>
+            <td><span class="pill excluded">excluded — short / hedge</span></td></tr>
+          <tr><td class="tk"><a href="/t?sym=ORCL"><b>ORCL</b></a></td><td>Oracle</td>
+            <td>Reported among the fund's largest <b>put</b> lines in the Q1 2026 13F.</td>
+            <td><span class="pill excluded">excluded — short / hedge</span></td></tr>
+          <tr><td class="tk"><a href="/t?sym=SMH"><b>SMH</b></a></td><td>VanEck Semiconductor ETF</td>
+            <td>Reported as a large <b>put</b> position — a broad semiconductor short, not a long.</td>
+            <td><span class="pill excluded">excluded — short / hedge</span></td></tr>
+          <tr><td class="tk"><a href="/t?sym=ASML"><b>ASML</b></a></td><td>ASML Holding</td>
+            <td>Semiconductor-equipment name within the reported chipmaker short / hedge book, not a disclosed long.</td>
             <td><span class="pill excluded">excluded — short / hedge</span></td></tr>
         </tbody>
       </table>
@@ -293,20 +384,21 @@
       <div class="read-grid">
         <div class="read"><div class="k">Strongest mover</div><div class="v" id="r-strong"><span class="nd">Needs live data verification</span></div></div>
         <div class="read"><div class="k">Weakest mover</div><div class="v" id="r-weak"><span class="nd">Needs live data verification</span></div></div>
-        <div class="read"><div class="k">Highest-confidence holding</div><div class="v"><b>NBIS</b> — Nebius (reported 5.6% 13G stake)</div></div>
+        <div class="read"><div class="k">Highest-confidence holding</div><div class="v"><b>NBIS</b> · <b>BE</b> — Nebius (5.6% 13G) &amp; Bloom Energy (largest holding)</div></div>
+        <div class="read"><div class="k">Energy / power core</div><div class="v"><b>BE · VST · CEG</b> — on-site power, gas &amp; nuclear generation</div></div>
         <div class="read"><div class="k">Most infrastructure-pure name</div><div class="v"><b>IREN</b> — AI/HPC infrastructure &amp; power</div></div>
-        <div class="read"><div class="k">Names needing verification</div><div class="v">BE · SNDK · CORZ</div></div>
-        <div class="read"><div class="k">Main thesis risk</div><div class="v">Long neocloud / AI-infra build-out vs a reported chipmaker short book — crowding &amp; rate-sensitive capex.</div></div>
+        <div class="read"><div class="k">Needs verification</div><div class="v">SNDK</div></div>
+        <div class="read"><div class="k">Main thesis risk</div><div class="v">Long power + neocloud / AI-infra build-out vs a reported chipmaker put/short book — crowding, rate-sensitive capex &amp; power-permitting timelines.</div></div>
       </div>
     </section>
 
     <section>
       <h2>Source methodology</h2>
       <p class="prose">Santro prioritizes <b>official filings first</b> (13F / 13G on SEC EDGAR), then
-      <b>reputable financial media</b>, then <b>manually reviewed source notes</b>. Unsourced
-      social-media lists are not treated as holdings. If a source is unclear, the name is marked as
-      <b>needs verification</b> or excluded from the main bubble map. Accuracy beats fullness — we would
-      rather show three sourced names than ten guesses.</p>
+      <b>reputable financial media</b> (e.g. Fortune, The Motley Fool), then <b>manually reviewed source
+      notes</b>. Unsourced social-media lists and retail "portfolio tracker" pages are <b>not</b> treated
+      as holdings. If a source is unclear, the name is marked as <b>needs verification</b> or excluded from
+      the main bubble map. Accuracy beats fullness.</p>
     </section>
 
     <section>
@@ -326,7 +418,8 @@
       <p class="disc">This page is based on public disclosures, reputable reporting, and Santro-reviewed
       source notes. It may not represent the complete or current portfolio of Leopold Aschenbrenner,
       Situational Awareness LP, or related entities. 13F / 13G data and media-reported positions may be
-      delayed and incomplete. <span class="nfa">Not financial advice.</span></p>
+      delayed and incomplete, and may not reflect shorts, options, private holdings or current exposure.
+      <span class="nfa">Not financial advice.</span></p>
     </section>
   </main>
 
@@ -348,9 +441,9 @@ window.ASCHENBRENNER_BASKET = {
   page_route: "/stocks/aschenbrenner",
   last_reviewed: "2026-07-01",
   full_portfolio_verified: false,
-  disclaimer: "Based on public disclosures, reputable reporting, and Santro-reviewed source notes. May not represent the complete or current portfolio of Leopold Aschenbrenner, Situational Awareness LP, or related entities. 13F/13G data and media-reported positions may be delayed and incomplete. Not financial advice.",
+  disclaimer: "Based on public disclosures, reputable reporting, and Santro-reviewed source notes. May not represent the complete or current portfolio of Leopold Aschenbrenner, Situational Awareness LP, or related entities. 13F/13G data and media-reported positions may be delayed and incomplete and may not reflect shorts, options or private holdings. Not financial advice.",
   holdings: [
-    { ticker:"NBIS", company_name:"Nebius Group", asset_type:"stock", sector:"AI cloud / compute",
+    { ticker:"NBIS", company_name:"Nebius Group", asset_type:"stock", sector:"AI cloud / compute", energy:false,
       ai_relevance:"AI infrastructure, cloud compute, data centers (neocloud)",
       source_status:"reputable_media_reported", confidence_level:"high",
       source_type:"reputable_media", source_name:"The Motley Fool",
@@ -358,7 +451,31 @@ window.ASCHENBRENNER_BASKET = {
       source_date:"2026-06-01",
       notes:"Reported 5.6% stake (12.4M Class A shares) via an SEC 13G filing by Situational Awareness LP.",
       include_in_main_bubble_map:true },
-    { ticker:"CRWV", company_name:"CoreWeave", asset_type:"stock", sector:"AI cloud / compute",
+    { ticker:"BE", company_name:"Bloom Energy", asset_type:"stock", sector:"On-site power / fuel cells", energy:true,
+      ai_relevance:"On-site power generation for AI data centers",
+      source_status:"reputable_media_reported", confidence_level:"high",
+      source_type:"reputable_media", source_name:"Fortune",
+      source_url:"https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/",
+      source_date:"2026-03-05",
+      notes:"Reported as the fund's single largest holding; stake raised sharply (~+1,488% shares) in Q1 2026.",
+      include_in_main_bubble_map:true },
+    { ticker:"VST", company_name:"Vistra", asset_type:"stock", sector:"Power generation (gas + nuclear)", energy:true,
+      ai_relevance:"Electricity for AI data-center build-outs",
+      source_status:"reputable_media_reported", confidence_level:"medium",
+      source_type:"reputable_media", source_name:"Fortune",
+      source_url:"https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/",
+      source_date:"2026-03-05",
+      notes:"Named among the fund's major power-producer positions (~23% weight in the prior quarter's filing).",
+      include_in_main_bubble_map:true },
+    { ticker:"CEG", company_name:"Constellation Energy", asset_type:"stock", sector:"Nuclear power", energy:true,
+      ai_relevance:"Baseload electricity for AI compute",
+      source_status:"reputable_media_reported", confidence_level:"medium",
+      source_type:"reputable_media", source_name:"Fortune",
+      source_url:"https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/",
+      source_date:"2026-03-05",
+      notes:"Named among the fund's major power-producer positions (~8% weight in the prior quarter's filing).",
+      include_in_main_bubble_map:true },
+    { ticker:"CRWV", company_name:"CoreWeave", asset_type:"stock", sector:"AI cloud / compute", energy:false,
       ai_relevance:"Neocloud GPU compute, AI infrastructure",
       source_status:"reputable_media_reported", confidence_level:"medium",
       source_type:"reputable_media", source_name:"The Motley Fool",
@@ -366,7 +483,7 @@ window.ASCHENBRENNER_BASKET = {
       source_date:"2026-06-01",
       notes:"Named as a meaningful position in competing neoclouds alongside IREN.",
       include_in_main_bubble_map:true },
-    { ticker:"IREN", company_name:"IREN Limited", asset_type:"stock", sector:"AI / HPC infrastructure",
+    { ticker:"IREN", company_name:"IREN Limited", asset_type:"stock", sector:"AI / HPC infrastructure", energy:false,
       ai_relevance:"AI/HPC infrastructure, power & data-center exposure",
       source_status:"reputable_media_reported", confidence_level:"medium",
       source_type:"reputable_media", source_name:"The Motley Fool",
@@ -374,33 +491,58 @@ window.ASCHENBRENNER_BASKET = {
       source_date:"2026-06-01",
       notes:"Named as a meaningful position in competing neoclouds alongside CoreWeave.",
       include_in_main_bubble_map:true },
-    { ticker:"BE", company_name:"Bloom Energy", asset_type:"stock", sector:"Power infrastructure",
-      ai_relevance:"On-site power infrastructure for AI data centers",
-      source_status:"needs_verification", confidence_level:"medium",
-      source_type:"reputable_media", source_name:"", source_url:"", source_date:"",
-      notes:"Discussed in connection with the AI-infrastructure power thesis; not confirmed in a reputable primary source Santro has reviewed.",
-      include_in_main_bubble_map:false },
-    { ticker:"SNDK", company_name:"Sandisk", asset_type:"stock", sector:"Memory / storage",
+    { ticker:"CORZ", company_name:"Core Scientific", asset_type:"stock", sector:"Data center / compute", energy:false,
+      ai_relevance:"Crypto-mining capacity converting to AI hosting",
+      source_status:"reputable_media_reported", confidence_level:"medium",
+      source_type:"reputable_media", source_name:"Fortune",
+      source_url:"https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/",
+      source_date:"2026-03-05",
+      notes:"Named among data-infrastructure / crypto-mining firms in the fund's reported book.",
+      include_in_main_bubble_map:true },
+    { ticker:"APLD", company_name:"Applied Digital", asset_type:"stock", sector:"Data center / AI hosting", energy:false,
+      ai_relevance:"Data-center capacity / AI hosting build-out",
+      source_status:"reputable_media_reported", confidence_level:"medium",
+      source_type:"reputable_media", source_name:"Fortune",
+      source_url:"https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/",
+      source_date:"2026-03-05",
+      notes:"Named among data-infrastructure / crypto-mining firms in the fund's reported book.",
+      include_in_main_bubble_map:true },
+    { ticker:"CIFR", company_name:"Cipher Mining", asset_type:"stock", sector:"Compute / AI hosting", energy:false,
+      ai_relevance:"Mining capacity converting to AI / HPC hosting",
+      source_status:"reputable_media_reported", confidence_level:"medium",
+      source_type:"reputable_media", source_name:"Fortune",
+      source_url:"https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/",
+      source_date:"2026-03-05",
+      notes:"Named as another large crypto-mining firm in the fund's reported book.",
+      include_in_main_bubble_map:true },
+    { ticker:"SNDK", company_name:"Sandisk", asset_type:"stock", sector:"Memory / storage", energy:false,
       ai_relevance:"Memory & storage infrastructure for AI",
       source_status:"needs_verification", confidence_level:"medium",
-      source_type:"reputable_media", source_name:"", source_url:"", source_date:"",
-      notes:"Mentioned in connection with the thesis; not confirmed in a reputable primary source Santro has reviewed.",
-      include_in_main_bubble_map:false },
-    { ticker:"CORZ", company_name:"Core Scientific", asset_type:"stock", sector:"Data center / compute",
-      ai_relevance:"Data-center / AI-compute conversion",
-      source_status:"needs_verification", confidence_level:"medium",
-      source_type:"reputable_media", source_name:"", source_url:"", source_date:"",
-      notes:"Mentioned in connection with the thesis; not confirmed in a reputable primary source Santro has reviewed.",
+      source_type:"aggregator", source_name:"", source_url:"", source_date:"",
+      notes:"Listed as a top position by 13F aggregators, but not yet named in a reputable narrative source Santro has reviewed.",
       include_in_main_bubble_map:false }
   ],
-  needs_verification: ["BE","SNDK","CORZ"],
+  needs_verification: ["SNDK"],
   excluded_or_hedge_mentions: [
     { ticker:"NVDA", company_name:"Nvidia", source_status:"excluded_short_or_hedge",
-      reason:"Reporting indicates chipmaker exposure is largely put/short (notional put exposure across semis), not a disclosed long." },
+      reason:"Reported as a large put position (chipmaker short book), not a disclosed long." },
+    { ticker:"AVGO", company_name:"Broadcom", source_status:"excluded_short_or_hedge",
+      reason:"Among the fund's largest reported put lines in the Q1 2026 13F." },
+    { ticker:"ORCL", company_name:"Oracle", source_status:"excluded_short_or_hedge",
+      reason:"Among the fund's largest reported put lines in the Q1 2026 13F." },
+    { ticker:"SMH", company_name:"VanEck Semiconductor ETF", source_status:"excluded_short_or_hedge",
+      reason:"Reported as a large put position — a broad semiconductor short, not a long." },
     { ticker:"ASML", company_name:"ASML Holding", source_status:"excluded_short_or_hedge",
-      reason:"Semiconductor-equipment name inside the reported chipmaker short/hedge book, not a disclosed long." }
+      reason:"Semiconductor-equipment name within the reported chipmaker short/hedge book, not a disclosed long." }
   ],
-  hypothesis_watchlist: []
+  hypothesis_watchlist: [
+    { theme:"Natural-gas power", note:"Flagged publicly as the most build-able path to AI-scale power." },
+    { theme:"Nuclear / SMRs", note:"Baseload electricity for sustained AI compute." },
+    { theme:"Grid & transmission", note:"Interconnects and long-term capacity contracts." },
+    { theme:"Data-center cooling", note:"A physical bottleneck the thesis emphasizes." },
+    { theme:"Fibre & interconnect", note:"Connectivity between compute clusters." },
+    { theme:"Land + grid capacity", note:"Sites with power that models and chips cannot run without." }
+  ]
 };
 
 (function(){
@@ -417,8 +559,6 @@ window.ASCHENBRENNER_BASKET = {
   });
 
   function moveFor(tk){
-    // Only the 1D window can be sourced from Santro's live feed today; other
-    // windows aren't carried, so they honestly read "needs price verification".
     if (win === "1D" && typeof moves[tk] === "number") return moves[tk];
     return null;
   }
@@ -429,7 +569,7 @@ window.ASCHENBRENNER_BASKET = {
     safeHoldings.forEach(function(h){
       var mv = moveFor(h.ticker);
       var cls = mv==null ? "flat" : (mv>0 ? "up" : (mv<0 ? "dn" : "flat"));
-      var size = mv==null ? 96 : Math.max(78, Math.min(150, 92 + Math.abs(mv)*4));
+      var size = mv==null ? 92 : Math.max(76, Math.min(150, 88 + Math.abs(mv)*4));
       var mvTxt = mv==null ? "needs price<br>verification" : fmtPct(mv);
       var b = document.createElement("button");
       b.className = "bub " + cls;
@@ -438,7 +578,7 @@ window.ASCHENBRENNER_BASKET = {
           '<span class="tk">'+h.ticker+'</span>' +
           '<span class="mv">'+mvTxt+'</span>' +
         '</div>' +
-        '<span class="conf '+h.confidence_level+'">'+h.confidence_level+' confidence</span>';
+        '<span class="conf '+h.confidence_level+'">'+h.confidence_level+(h.energy?' · energy':'')+'</span>';
       b.setAttribute("aria-label", h.ticker + " " + h.company_name);
       b.onclick = function(){ showCard(h, mv); };
       bmap.appendChild(b);
@@ -451,7 +591,7 @@ window.ASCHENBRENNER_BASKET = {
     var mvLine = mv==null ? '<span class="needsverify">needs price verification</span>' :
       ('<b style="color:'+(mv>=0?"#22c55e":"#f0596e")+'">'+fmtPct(mv)+'</b> ('+win+')');
     detail.innerHTML =
-      '<div class="bcard"><h3>'+h.ticker+' · '+h.company_name+'</h3>' +
+      '<div class="bcard"><h3>'+h.ticker+' · '+h.company_name+(h.energy?' <span class="tag-energy">energy</span>':'')+'</h3>' +
       '<div><b>Sector:</b> '+h.sector+' &nbsp;·&nbsp; <b>Move:</b> '+mvLine+'</div>' +
       '<div><b>AI relevance:</b> '+h.ai_relevance+'</div>' +
       '<div><b>Confidence:</b> '+h.confidence_level+' &nbsp;·&nbsp; <b>Source:</b> '+
@@ -460,7 +600,6 @@ window.ASCHENBRENNER_BASKET = {
       '<div style="margin-top:4px">'+h.notes+'</div></div>';
   }
 
-  // time-window buttons
   document.getElementById("tf").addEventListener("click", function(e){
     var btn = e.target.closest("button"); if(!btn) return;
     win = btn.getAttribute("data-w");
@@ -468,8 +607,6 @@ window.ASCHENBRENNER_BASKET = {
     render(); detail.innerHTML = "";
   });
 
-  // Try to enrich 1D moves from Santro's live feed (forward-compatible: if these
-  // tickers get added to the universe, the bubbles + table light up automatically).
   function ingest(json, path){
     try{
       if(path==="universe" && json && json.bubbles){
@@ -504,7 +641,7 @@ window.ASCHENBRENNER_BASKET = {
     fetch("/data.json?t="+Date.now()).then(function(r){return r.json();}).then(function(j){ingest(j,"data");})
   ]).then(function(){ render(); applyToTable(); readMovers(); });
 
-  render(); // initial paint (honest "needs price verification" state before feeds resolve)
+  render();
 })();
 </script>
 </body>

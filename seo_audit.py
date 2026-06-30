@@ -34,6 +34,7 @@ ROUTES = [
     ("/news", "news.html", True), ("/research", "research.html", True),
     ("/share", "share.html", True), ("/ipos", "ipos.html", True),
     ("/blog", "blog.html", True),
+    ("/evaluate-prompt", "evaluate-prompt.html", True),
     ("/blog/ai-junk-bonds", "blog/ai-junk-bonds.html", True),
     ("/blog/ai-trading-prompt-engineering", "blog/ai-trading-prompt-engineering.html", True),
     ("/blog/spacex-attention-ai-infrastructure", "blog/spacex-attention-ai-infrastructure.html", True),

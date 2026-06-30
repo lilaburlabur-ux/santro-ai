@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Evaluate Your AI Trading Prompt — Free Prompt Scorer | Santro AI</title>
+<meta name="description" content="Paste a trading prompt and score it across direction, context, format, examples, verification, live-data honesty, risk framing and hallucination risk — free, in your browser, nothing stored. See what's missing before you trade on the answer.">
+<link rel="canonical" href="https://santroai.tech/evaluate-prompt">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Evaluate Your AI Trading Prompt — Free Prompt Scorer">
+<meta property="og:description" content="Score your AI trading prompt across 9 dimensions and catch hallucination risk before you trade on it. Free, local, private.">
+<meta property="og:url" content="https://santroai.tech/evaluate-prompt">
+<meta property="og:image" content="https://santroai.tech/assets/og-map.png">
+<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://santroai.tech/assets/og-map.png">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebApplication","name":"Santro AI — Trading Prompt Scorer",
+ "url":"https://santroai.tech/evaluate-prompt","applicationCategory":"FinanceApplication","operatingSystem":"Web browser",
+ "description":"A free, in-browser tool that scores an AI trading prompt across 9 dimensions and flags hallucination risk. No data leaves the browser; no rewritten prompt is generated.",
+ "offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"isAccessibleForFree":true,
+ "publisher":{"@type":"Organization","name":"Santro AI","url":"https://santroai.tech"}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+ {"@type":"ListItem","position":1,"name":"Home","item":"https://santroai.tech/"},
+ {"@type":"ListItem","position":2,"name":"Evaluate your trading prompt","item":"https://santroai.tech/evaluate-prompt"}]}
+</script>
+<style>
+  :root{
+    --bg:#0a0e13; --surface:#111822; --card:#16202b;
+    --text:#e7edf3; --muted:#9aa7b5; --hint:#6b7686;
+    --border:rgba(255,255,255,.10); --border-strong:rgba(255,255,255,.20);
+    --accent:#7cb0f5; --teal:#22c55e; --amber:#e0a73f; --danger:#f05a6e; --gray:#8895a4;
+    --radius:14px; --radius-sm:9px;
+    --serif:Georgia,'Times New Roman',serif;
+    --sans:-apple-system,BlinkMacSystemFont,'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+    --mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.7;font-size:18px;-webkit-font-smoothing:antialiased}
+  .sa-head{display:flex;align-items:center;gap:14px;flex-wrap:wrap;max-width:1040px;margin:0 auto;padding:16px 22px;border-bottom:1px solid var(--border)}
+  .sa-logo{display:flex;align-items:center;gap:6px;text-decoration:none}
+  .sa-s{position:relative;font-size:24px;font-weight:800;line-height:.85;padding-right:12px;background:linear-gradient(165deg,#4ade80 10%,#15803d 90%);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .sa-ai{position:absolute;top:-3px;right:0;font-size:8px;font-weight:800;-webkit-text-fill-color:#22c55e}
+  .sa-name{font-size:13px;font-weight:800;letter-spacing:.28em;color:var(--text)}
+  .sa-nav{margin-left:auto;display:flex;gap:4px;flex-wrap:wrap}
+  .sa-nav a{font-size:13px;font-weight:600;color:var(--muted);text-decoration:none;padding:5px 9px;border-radius:7px}
+  .sa-nav a:hover{color:var(--text)}
+  .sa-nav a.on{color:var(--accent)}
+  .sa-nav a.back{color:var(--accent);font-weight:700}
+  .wrap{max-width:1040px;margin:0 auto;padding:32px 22px 80px}
+  .kicker{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--teal);font-weight:700;margin:0 0 10px}
+  h1{font-family:var(--serif);font-size:38px;line-height:1.15;font-weight:700;margin:0 0 14px}
+  h2{font-size:26px;line-height:1.25;font-weight:600;margin:48px 0 12px}
+  p{margin:0 0 18px}
+  strong{color:var(--text)}
+  .lede{font-size:20px;color:var(--muted);font-style:italic;font-family:var(--serif);margin-bottom:22px}
+  .byline{font-size:14px;color:var(--hint);border-top:1px solid var(--border);border-bottom:1px solid var(--border);padding:12px 0;margin:0 0 28px;display:flex;flex-wrap:wrap;gap:6px 16px;align-items:center}
+  a{color:var(--accent)}
+  figure{margin:30px 0}
+  figcaption{font-size:13px;color:var(--hint);margin-top:10px;text-align:center;font-style:italic}
+  /* formula hero */
+  .fhero{position:relative;border-radius:var(--radius);overflow:hidden;border:1px solid var(--border);
+    background:radial-gradient(130% 140% at 26% 6%,#0f3322 0%,#0c2a3e 38%,#0a1322 70%,#070b12 100%);
+    min-height:260px;padding:30px 22px;display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:center}
+  .fchip{font-family:var(--sans);font-weight:800;letter-spacing:.04em;padding:9px 16px;border-radius:12px;
+    border:1px solid;background:rgba(8,14,20,.5);font-size:clamp(13px,2.1vw,18px);white-space:nowrap;color:#6ee7a8;border-color:#2f8f5c;box-shadow:0 0 16px rgba(40,200,120,.3)}
+  .fchip.blue{color:#7cc4ff;border-color:#2f6dbf;box-shadow:0 0 16px rgba(70,150,255,.3)}
+  .fchip.big{font-size:clamp(22px,4vw,36px);padding:13px 24px}
+  .fchip.plus{background:none;border:none;box-shadow:none;color:var(--hint);font-size:22px}
+  /* generic code block + copy */
+  .codewrap{margin:22px 0}
+  .codehead{display:flex;align-items:center;justify-content:space-between;gap:10px;background:#0d1622;border:1px solid var(--border);border-bottom:none;border-radius:10px 10px 0 0;padding:8px 14px;font-size:12px;color:var(--hint);font-family:var(--mono)}
+  .copybtn{font:inherit;font-family:var(--sans);font-size:12px;font-weight:700;cursor:pointer;border:1px solid var(--border-strong);background:var(--card);color:var(--accent);border-radius:7px;padding:6px 13px}
+  .copybtn:hover{border-color:var(--teal);color:var(--teal)}
+  pre.code{margin:0;background:#0b121c;border:1px solid var(--border);border-radius:0 0 10px 10px;padding:16px 18px;overflow:auto;max-height:600px}
+  pre.code code{font-family:var(--mono);font-size:13px;line-height:1.55;color:#cdd9e5;white-space:pre}
+  .cblock{background:#0b121c;border:1px solid var(--border);border-left:3px solid var(--gray);border-radius:0 9px 9px 0;padding:12px 15px;margin:18px 0;font-family:var(--mono);font-size:13.5px;color:#cdd9e5;white-space:pre-wrap;overflow:auto}
+  .cblock.warn{border-left-color:var(--amber);color:#f2d49a}
+  .bq{border-left:3px solid var(--danger);background:var(--surface);border-radius:0 9px 9px 0;padding:12px 16px;margin:18px 0;font-style:italic;color:var(--muted);font-family:var(--serif);font-size:18px}
+  /* mapping table */
+  .maptbl{width:100%;border-collapse:collapse;margin:18px 0;font-size:15px}
+  .maptbl th{text-align:left;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--hint);border-bottom:1px solid var(--border-strong);padding:8px 10px}
+  .maptbl td{border-bottom:1px solid var(--border);padding:9px 10px;color:var(--muted);vertical-align:top}
+  .maptbl td:first-child{color:var(--text);font-weight:700;white-space:nowrap}
+  .maptbl code{font-family:var(--mono);font-size:13px;color:#8fd6ad}
+  /* bad vs desk-grade */
+  .vs{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:24px 0}
+  .vs-card{border:1px solid var(--border);border-radius:12px;padding:16px 18px;background:var(--surface)}
+  .vs-card.bad{border-top:3px solid var(--danger)}
+  .vs-card.good{border-top:3px solid var(--teal)}
+  .vs-card .ptxt{font-family:var(--mono);font-size:13px;color:#cdd9e5;background:#0b121c;border:1px solid var(--border);border-radius:8px;padding:11px 13px;margin-bottom:12px;min-height:70px;line-height:1.5}
+  .vs-card .sc{font-size:34px;font-weight:800;line-height:1}
+  .vs-card.bad .sc{color:var(--danger)} .vs-card.good .sc{color:var(--teal)}
+  .vs-card .scl{font-size:12px;color:var(--hint);text-transform:uppercase;letter-spacing:.05em;font-weight:700;margin-top:4px}
+  /* interactive tool */
+  .tool{background:var(--surface);border:1px solid var(--border-strong);border-radius:14px;padding:20px;margin:22px 0}
+  .tool h3{margin:0 0 4px;font-size:20px;font-family:var(--serif)}
+  .tool .sub{color:var(--muted);font-size:14px;margin:0 0 14px}
+  .tool textarea{width:100%;min-height:120px;background:#0b121c;color:#cdd9e5;border:1px solid var(--border);border-radius:10px;padding:12px 14px;font-family:var(--mono);font-size:13.5px;line-height:1.5;resize:vertical}
+  .tool .run{margin-top:12px;font:inherit;font-family:var(--sans);font-weight:800;cursor:pointer;background:var(--teal);color:#04140b;border:none;border-radius:9px;padding:11px 20px;font-size:15px}
+  .tool .run:hover{filter:brightness(1.07)}
+  .tool .out{margin-top:20px;display:none}
+  .scorehead{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;margin-bottom:6px}
+  .scorebig{font-size:46px;font-weight:800;line-height:1}
+  .riskbadge{display:inline-block;font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.05em;padding:4px 10px;border-radius:999px}
+  .heat{display:grid;gap:8px;margin:16px 0}
+  .heat-row{display:grid;grid-template-columns:170px 1fr 44px;align-items:center;gap:10px;font-size:13px}
+  .heat-row .hl{color:var(--muted)}
+  .heat-row .ht{height:12px;border-radius:99px;background:#1b2735;overflow:hidden}
+  .heat-row .hf{height:100%;border-radius:99px;transition:width .4s}
+  .heat-row .hv{text-align:right;font-weight:800;font-variant-numeric:tabular-nums}
+  .missing{background:var(--card);border:1px solid var(--border);border-radius:9px;padding:12px 14px;margin:14px 0;font-size:14px;color:var(--muted)}
+  .missing b{color:var(--text)}
+  .missing ul{margin:6px 0 0;padding-left:18px}
+  /* shared boxes from the Santro article style */
+  .loopbox{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:14px 16px;margin:22px 0}
+  .loopbox .lbl{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--hint);font-weight:700;margin-bottom:9px}
+  .loopbox ul{margin:0;padding-left:18px}
+  .loopbox li{font-size:15px;margin:0 0 6px;color:var(--muted)}
+  .loopbox li b{color:var(--text)}
+  .loop-links{display:flex;flex-wrap:wrap;gap:8px}
+  .loop-links a{font-size:13.5px;font-weight:700;padding:9px 14px;border-radius:9px;border:1px solid var(--border);background:var(--card);color:var(--text);text-decoration:none}
+  .loop-links a:hover{border-color:var(--teal);color:var(--teal)}
+  .note{background:var(--surface);border-left:3px solid var(--teal);border-radius:0 9px 9px 0;padding:14px 16px;font-size:15px;color:var(--muted);margin:26px 0}
+  .slog{font-size:22px;font-weight:800;color:var(--teal);margin:28px 0 0}
+  .disclaimer{font-size:13px;color:var(--hint);font-style:italic;border-top:1px solid var(--border);padding-top:16px;margin-top:30px}
+  .sources{font-size:13px;color:var(--hint);margin-top:18px;line-height:1.8}
+  .sources a{color:var(--muted)}
+  .sa-foot{max-width:1040px;margin:0 auto;padding:26px 22px 60px;border-top:1px solid var(--border);font-size:13px;color:var(--hint);text-align:center;line-height:1.9}
+  .sa-foot a{color:var(--muted);text-decoration:none;font-weight:600}
+  @media (max-width:620px){.vs{grid-template-columns:1fr}.heat-row{grid-template-columns:120px 1fr 40px}}
+</style>
+<style>
+.sa-crumb{max-width:920px;margin:14px auto 0;padding:0 22px;font-size:13px;color:var(--hint,#6b7686);}
+.sa-crumb a{color:var(--muted,#9aa7b5);text-decoration:none;} .sa-crumb a:hover{color:var(--accent,#7cb0f5);}
+.sa-grow{max-width:920px;margin:26px auto 0;padding:24px 22px 8px;border-top:1px solid var(--border,rgba(255,255,255,.10));display:grid;grid-template-columns:1fr 1fr;gap:14px 28px;font-family:var(--sans);}
+@media(max-width:680px){.sa-grow{grid-template-columns:1fr;}}
+.sa-grow h3{font-size:13px;margin:0 0 8px;color:var(--text,#e7edf3);letter-spacing:.04em;}
+.sa-grow ul{margin:0;padding-left:18px;} .sa-grow li{color:var(--muted,#9aa7b5);font-size:15px;line-height:1.7;margin-bottom:4px;} .sa-grow a{color:var(--accent,#7cb0f5);}
+.sa-cta-box{grid-column:1/-1;margin-top:8px;padding:18px 20px;border:1px solid rgba(124,176,245,.3);border-radius:12px;background:rgba(124,176,245,.07);}
+.sa-cta-box b{color:var(--text,#e7edf3);font-size:16px;} .sa-cta-box p{color:var(--muted,#9aa7b5);font-size:14.5px;margin:6px 0 12px;line-height:1.6;}
+.sa-cta-btn{display:inline-block;background:var(--accent,#7cb0f5);color:#0a0e13;padding:9px 17px;border-radius:8px;font-weight:700;font-size:14px;text-decoration:none;}
+.tools-intro{max-width:760px;margin:0 auto;padding:0 22px;}
+.tools-intro h1{font-size:30px;margin:14px 0 8px;} .tools-intro .lede{color:var(--muted,#9aa7b5);font-size:17px;line-height:1.6;}
+.tools-intro p{color:var(--muted,#9aa7b5);font-size:15px;line-height:1.65;} .tools-intro a{color:var(--accent,#7cb0f5);}
+.tools-wrap{max-width:760px;margin:0 auto;padding:0 22px;}
+</style>
+</head>
+<body>
+<header class="sa-head">
+  <a class="sa-logo" href="/"><span class="sa-s">S<span class="sa-ai">AI</span></span><span class="sa-name">ANTRO</span></a>
+  <nav class="sa-nav">
+    <a href="/">Terminal</a><a href="/crypto">Crypto</a><a href="/bubble">Bubble risk</a>
+    <a href="/blog" class="on">Blog</a>
+    <a href="/blog" class="back">&larr; Back</a>
+  </nav>
+</header>
+<nav class="sa-crumb" aria-label="Breadcrumb"><a href="/">Home</a> &rsaquo; Evaluate your trading prompt</nav>
+<main class="tools-intro">
+  <h1>Evaluate Your AI Trading Prompt</h1>
+  <p class="lede">A good trading prompt is the difference between research and a fortune cookie. Paste yours below and the scorer grades it across nine dimensions — and tells you, bluntly, what is missing.</p>
+  <p>It checks <b>direction, context, output format, examples, verification, live-data honesty, risk framing, hallucination risk</b> and overall <b>trading usefulness</b>. The single most important check: whether your prompt asks the model for <b>current prices or news it cannot actually see</b> — the fastest way to get confident, fabricated market analysis. The scorer runs entirely in your browser; nothing is uploaded or stored, and it never rewrites your prompt — it shows you the gaps so you can fix them yourself.</p>
+</main>
+<div class="tools-wrap">
+  <div class="tool">
+    <h3>Prompt scorer</h3>
+    <p class="sub">Paste a trading prompt &rarr; get a score, a heat map, and what is missing. Nothing leaves your browser.</p>
+    <textarea id="ptin" placeholder="Paste your trading prompt here… e.g. &quot;analyse the whole crypto market and my portfolio and give me a strategy.&quot;"></textarea>
+    <button class="run" onclick="runScore()">Score my prompt</button>
+    <div class="out" id="ptout">
+      <div class="scorehead">
+        <span class="scorebig" id="ptscore">—</span>
+        <span style="color:var(--hint)">/100</span>
+        <span class="riskbadge" id="ptrisk"></span>
+      </div>
+      <div class="heat" id="ptheat"></div>
+      <div class="missing" id="ptmiss"></div>
+    </div>
+  </div>
+</div>
+<section class="sa-grow">
+    <div><h3>RELATED READING</h3>
+      <ul>
+        <li><a href="/blog/ai-trading-prompt-engineering">The Santro prompt formula (full article)</a></li>
+        <li><a href="/blog/why-expensive-isnt-a-short">Why 'expensive' doesn't mean 'short'</a></li>
+        <li><a href="/blog/ai-bubble-vs-dotcom">AI vs the dot-com bubble</a></li>
+      </ul></div>
+    <div><h3>SANTRO AI TOOLS</h3>
+      <ul>
+        <li><a href="/bubble">Check the AI bubble-risk index</a></li>
+        <li><a href="/stocks">AI stocks bubble map</a></li>
+        <li><a href="/etfs">Compare AI ETFs</a></li>
+        <li><a href="/crypto">AI crypto movers</a></li>
+        <li><a href="/share">Create a share card</a></li>
+      </ul></div>
+    <div class="sa-cta-box">
+      <b>Use Santro AI as your context source, not an oracle.</b>
+      <p>Create a free account to run unlimited fair-value valuations and save a watchlist — then feed real, delayed data into your prompts instead of asking the model to invent it.</p>
+      <a class="sa-cta-btn" href="/?auth=register">Create a free account &rarr;</a>
+    </div>
+  </section>
+<footer class="sa-foot">
+  <a href="/">Terminal</a> · <a href="/crypto">Crypto</a> · <a href="/bubble">Bubble risk</a> · <a href="/blog">Blog</a> · <a href="/about">About</a><br>
+  Santro AI — AI bubble map &amp; research journal for the AI narrative.<br>
+  © 2026 Santro AI. Not financial advice.
+</footer>
+<script>
+function flip(btn,txt){ const o=btn.textContent; btn.textContent=txt||"Copied ✓"; setTimeout(()=>btn.textContent=o,1600); }
+function copyStr(str,btn){
+  if(navigator.clipboard&&navigator.clipboard.writeText){
+    navigator.clipboard.writeText(str).then(()=>flip(btn)).catch(()=>fallbackCopy(str,btn));
+  } else fallbackCopy(str,btn);
+}
+function fallbackCopy(str,btn){
+  const ta=document.createElement("textarea"); ta.value=str; ta.style.position="fixed"; ta.style.opacity="0";
+  document.body.appendChild(ta); ta.select();
+  try{ document.execCommand("copy"); flip(btn); }catch(e){ flip(btn,"Copy failed"); }
+  document.body.removeChild(ta);
+}
+function copyEl(id,btn){ const el=document.getElementById(id); if(el) copyStr(el.textContent,btn); }
+
+/* ---- prompt scorer (local heuristic, nothing leaves the browser) ---- */
+function scorePrompt(p){
+  const t=(p||"").toLowerCase();
+  const has=(...res)=>res.some(r=>r.test(t));
+  const count=re=>(t.match(re)||[]).length;
+
+  const role=has(/\bact as\b/,/\byou are\b/,/\byour job\b/,/\brole\s*:/,/skeptical|analyst|trader|desk/);
+  const obj =has(/\bobjective\s*:/,/\bmap\b/,/\bidentif/,/\brank/,/\bgoal\b/,/analy[sz]e|analy[sz]ing/);
+  const direction=role&&obj?100:(role||obj?55:0);
+
+  const format=has(/\btable\b/,/\bcolumns?\b/,/output[_ ]format/,/\bjson\b/,/\bsections?\b/,/\bformat\s*:/)
+    ? (has(/\bcolumns?\b/,/output[_ ]format/,/\btable\b/)?100:60) : 0;
+
+  const examples=has(/example[_ ]row/,/\bexample\s*:/,/\bfor example\b/,/\be\.g\./,/\bsample\b/,/nvda\s*\|/)
+    ? (has(/example[_ ]row/,/nvda\s*\|/)?100:60) : 0;
+
+  const verif=has(/needs verification/,/\bobserved\b/,/\binferred\b/,/\bverify\b/,/\bcite\b/,/\bsource\b/,/claim[_ ]labels/);
+  const quality=verif ? (has(/needs verification/,/claim[_ ]labels/,/\bobserved\b/)?100:60) : 0;
+
+  const steps=count(/(^|\n)\s*\d+[\.\)]/g);
+  const labor=steps>=4?100:(steps>=2?65:(has(/\bscan\b/,/\bclassify\b/,/\bthen\b/,/\bstep\b/)?40:0));
+
+  const live=has(/live data|live feed|live-data/,/\bstale\b/,/do not invent|don'?t invent/,/needs verification/,/if no live|no live data|without.*live/,/\bdelayed\b/,/do not (pretend|fake)|don'?t (pretend|fake)/,/execution[_ ]assumption/);
+  const liveScore=live ? (has(/do not invent|needs verification|if no live|execution[_ ]assumption/)?100:55) : 0;
+
+  const ctx=has(/portfolio/,/time[_ ]horizon/,/risk[_ ]profile/,/\bholdings\b/,/\bpositions?\b/,/\bexposure\b/);
+
+  const asksLive=has(/\bcurrent\b/,/\btoday\b/,/\bthis week\b/,/\blast week\b/,/\bnow\b/,/\bprice\b/,/\bperformance\b/,/what moved|moved last/,/\bwhat should i (buy|sell)\b/,/give me a strategy/);
+  const lazy=has(/\bwhat should i buy\b/,/give me a strategy/,/analy[sz]e the whole|analy[sz]e everything/)&&!verif;
+  let risk="low";
+  if((asksLive&&!live)||lazy) risk="high";
+  else if(asksLive&&liveScore<100) risk="medium";
+
+  const dims=[
+    {key:"Direction / role",v:direction},
+    {key:"Output format",v:format},
+    {key:"Examples",v:examples},
+    {key:"Quality / verification",v:quality},
+    {key:"Divide labor",v:labor},
+    {key:"Live-data honesty",v:liveScore},
+  ];
+  let overall=Math.round(dims.reduce((a,d)=>a+d.v,0)/dims.length);
+  if(risk==="high") overall=Math.min(overall,45);
+
+  const missing=[];
+  if(direction<60) missing.push("a clear role and objective (who the model is, what decision frame you need)");
+  if(format<60) missing.push("an output format (a table with fixed columns)");
+  if(examples<60) missing.push("an example row showing the depth you expect");
+  if(quality<60) missing.push("verification labels — observed / inferred / [needs verification]");
+  if(labor<60) missing.push("divided labor — numbered steps: scan → classify → invalidate");
+  if(liveScore<60) missing.push("a live-data assumption so it can’t fake current prices");
+  if(!ctx) missing.push("context — portfolio, time horizon and risk profile");
+
+  return {dims,overall,risk,missing};
+}
+function heatColor(v){ return v>=70?"#22c55e":(v>=40?"#e0a73f":"#f05a6e"); }
+const RISK_STYLE={
+  low:{t:"Hallucination risk: low",bg:"rgba(34,197,94,.16)",c:"#22c55e"},
+  medium:{t:"Hallucination risk: medium",bg:"rgba(224,167,63,.16)",c:"#e0a73f"},
+  high:{t:"Hallucination risk: high",bg:"rgba(240,90,110,.16)",c:"#f05a6e"},
+};
+function runScore(){
+  const inp=document.getElementById("ptin").value;
+  const r=scorePrompt(inp);
+  document.getElementById("ptscore").textContent=r.overall;
+  document.getElementById("ptscore").style.color=heatColor(r.overall);
+  const rb=document.getElementById("ptrisk"), rs=RISK_STYLE[r.risk];
+  rb.textContent=rs.t; rb.style.background=rs.bg; rb.style.color=rs.c;
+  document.getElementById("ptheat").innerHTML=r.dims.map(d=>
+    `<div class="heat-row"><span class="hl">${d.key}</span>
+      <span class="ht"><span class="hf" style="width:${Math.max(3,d.v)}%;background:${heatColor(d.v)}"></span></span>
+      <span class="hv" style="color:${heatColor(d.v)}">${d.v}</span></div>`).join("");
+  const miss=document.getElementById("ptmiss");
+  if(r.missing.length){
+    miss.innerHTML=`<b>Missing:</b><ul>${r.missing.map(m=>`<li>${m}</li>`).join("")}</ul>`+
+      (r.risk==="high"?`<p style="margin:10px 0 0;color:#f05a6e"><b>Risk:</b> this prompt may produce fake current market analysis. Add a live-data assumption and verification labels.</p>`:"");
+    miss.style.display="block";
+  } else {
+    miss.innerHTML="<b>Solid.</b> This prompt gives direction, format, examples, verification, divided labor and live-data honesty. Research-ready.";
+    miss.style.display="block";
+  }
+  document.getElementById("ptout").style.display="block";
+}
+</script>
+</body>
+</html>

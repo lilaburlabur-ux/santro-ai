@@ -57,6 +57,11 @@ def main():
         slug = os.path.splitext(os.path.basename(f))[0]
         urls.append((f"{BASE}/blog/{slug}", git_date(f"blog/{os.path.basename(f)}"), "monthly", "0.6"))
 
+    # individual AI-stock landing pages
+    for f in sorted(glob.glob(os.path.join(HERE, "stocks", "*.html"))):
+        sym = os.path.splitext(os.path.basename(f))[0]
+        urls.append((f"{BASE}/stocks/{sym}", git_date(f"stocks/{os.path.basename(f)}"), "weekly", "0.6"))
+
     # individual AI-ETF landing pages
     for f in sorted(glob.glob(os.path.join(HERE, "etfs", "*.html"))):
         sym = os.path.splitext(os.path.basename(f))[0]

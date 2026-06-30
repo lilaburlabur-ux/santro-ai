@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-30T09:07:32+00:00",
+  "as_of": "2026-06-30T09:22:44+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "AVAV",
    "company": "AeroVironment Inc",
-   "move_pct": 20.07,
-   "price": 166.9,
+   "move_pct": 20.86,
+   "price": 167.99,
    "volume": 3009200,
    "volume_vs_avg": "~2x",
    "heat_score": 88,
    "direction": "up",
-   "why": "Is AeroVironment Inc a Buy After Its Latest Earnings Report?",
+   "why": "Nasdaq, S&P 500, Dow Futures Hold Steady Ahead Of JOLTS Report, Nike Earnings: Why SLS, TSLA, SPCX, SNDK, AVAV, JACK Are In Focus",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-inc-buy-latest-earnings-073928760.html",
-   "published": "2026-06-30T07:39:28Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-dow-futures-084655337.html",
+   "published": "2026-06-30T08:46:55Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-30T08:17:03+00:00",
+  "as_of": "2026-06-30T08:32:09+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "AVAV",
    "company": "AeroVironment Inc",
-   "move_pct": 19.14,
-   "price": 165.61,
+   "move_pct": 20.14,
+   "price": 167.0,
    "volume": 3009200,
    "volume_vs_avg": "~2x",
    "heat_score": 88,

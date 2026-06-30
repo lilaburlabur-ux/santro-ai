@@ -400,14 +400,62 @@ function cardSixty(){
   foot();
 }
 
-const RENDER={movers:cardMovers, hot:cardHot, risk:cardRisk, sixty:cardSixty, winlose:cardWinLose, crypto:cardCrypto};
-const GAL=[["movers","Today's AI movers"],["hot","Hot tickers"],["risk","AI bubble risk"],
+// Aschenbrenner Public AI Infrastructure Basket — source-gated summary card.
+// Curated names, kept in sync with /stocks/aschenbrenner. Top/weakest mover use
+// live feed data when available, else show an honest "needs live data" line —
+// never invented values. Public disclosures only.
+const ASCH_HOLDINGS=["NBIS","BE","VST","CEG","CRWV","IREN","CORZ","APLD","CIFR"];
+const ASCH_ENERGY={BE:1,VST:1,CEG:1};
+function aschMoves(){
+  const out={}; uniRows().forEach(t=>{
+    if(ASCH_HOLDINGS.indexOf(t.ticker)!==-1 && t.change_pct!=null) out[t.ticker]=t.change_pct; });
+  return out;
+}
+function aschChip(txt,x,y,energy){
+  X.font="700 18px "+F; const w=X.measureText(txt).width+26;
+  X.fillStyle=energy?"rgba(224,167,63,.12)":"#141c25"; rr(x,y,w,34,9); X.fill();
+  X.strokeStyle=energy?"rgba(224,167,63,.45)":"#26303c"; X.lineWidth=1.5; rr(x,y,w,34,9); X.stroke();
+  X.fillStyle=energy?"#e0a73f":"#e7edf3"; X.textAlign="left"; X.fillText(txt,x+13,y+23);
+  return x+w+10;
+}
+function cardAschenbrenner(){
+  bg(); frame("Aschenbrenner basket"); bigTitle("Aschenbrenner AI Infra Basket");
+  X.textAlign="left";
+  X.fillStyle="#8b97a5"; X.font="400 18px "+F;
+  X.fillText("Public disclosures & reputable-media-reported positions — source-gated.",46,186);
+
+  X.fillStyle="#4ade80"; X.font="800 46px "+F; X.fillText(String(ASCH_HOLDINGS.length),46,252);
+  X.fillStyle="#8b97a5"; X.font="700 16px "+F; X.fillText("reported holdings",110,252);
+
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("HIGHEST CONFIDENCE",46,292);
+  X.fillStyle="#e7edf3"; X.font="700 22px "+F; X.fillText("NBIS · Nebius — reported 5.6% 13G stake",46,320);
+  X.fillStyle="#e0a73f"; X.font="700 13px "+F; X.fillText("ENERGY / POWER CORE",46,356);
+  X.fillStyle="#e7edf3"; X.font="700 22px "+F; X.fillText("BE · VST · CEG — on-site, gas & nuclear power",46,384);
+
+  const mv=aschMoves(), keys=Object.keys(mv);
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("TOP / WEAKEST MOVER",46,420);
+  if(keys.length){
+    keys.sort((a,b)=>mv[b]-mv[a]); const s=keys[0], wk=keys[keys.length-1];
+    X.fillStyle="#22c55e"; X.font="800 22px "+F; X.fillText(s+" "+fmtPct1(mv[s]),46,448);
+    X.fillStyle="#f0596e"; X.fillText(wk+" "+fmtPct1(mv[wk]),320,448);
+  } else {
+    X.fillStyle="#8b97a5"; X.font="italic 18px "+F; X.fillText("Needs live data verification",46,447);
+  }
+
+  let cx=46; ASCH_HOLDINGS.forEach(tk=>{ cx=aschChip(tk,cx,476,ASCH_ENERGY[tk]); });
+  X.fillStyle="#5e6b78"; X.font="700 15px "+F; X.fillText("Public disclosures only.",46,540);
+  foot();
+}
+
+const RENDER={aschenbrenner:cardAschenbrenner, movers:cardMovers, hot:cardHot, risk:cardRisk, sixty:cardSixty, winlose:cardWinLose, crypto:cardCrypto};
+const GAL=[["aschenbrenner","Aschenbrenner basket"],["movers","Today's AI movers"],["hot","Hot tickers"],["risk","AI bubble risk"],
            ["winlose","Winners / losers"],["crypto","AI crypto movers"],["sixty","60 seconds"]];
 let current="movers";
 function render(){ try{ (RENDER[current]||cardMovers)(); }catch(e){ console.error(e); } updateTweet(); }
 
 const CAP={sixty:"The AI trade in 60 seconds", movers:"Today's AI movers", hot:"Today's hot AI tickers",
-  winlose:"Top 5 AI winners & losers", risk:"AI bubble-risk score", crypto:"Top AI crypto movers"};
+  winlose:"Top 5 AI winners & losers", risk:"AI bubble-risk score", crypto:"Top AI crypto movers",
+  aschenbrenner:"Aschenbrenner AI Infrastructure Basket"};
 function updateTweet(){
   const txt=CAP[current]+" — via Santro AI. Hot means attention, not direction.";
   document.getElementById("tw").href="https://twitter.com/intent/tweet?text="+encodeURIComponent(txt)+"&url="+encodeURIComponent("https://santroai.tech/share");

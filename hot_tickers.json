@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-30T12:26:55+00:00",
+  "as_of": "2026-06-30T12:42:05+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "AVAV",
    "company": "AeroVironment Inc",
-   "move_pct": 33.81,
-   "price": 186.0,
+   "move_pct": 30.14,
+   "price": 180.9,
    "volume": 3009200,
    "volume_vs_avg": "~2x",
    "heat_score": 88,
    "direction": "up",
-   "why": "AeroVironment Fiscal Fourth-Quarter Results Top Views; Issues Upbeat Revenue Outlook",
+   "why": "Stock Market Today: Dow Rises Ahead Of Key Economic Data; AeroVironment Soars On Earnings (Live Coverage)",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-fiscal-fourth-quarter-results-111957987.html",
-   "published": "2026-06-30T11:19:57Z",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-economic-data-aerovironment-avav/?src=A00220&yptr=yahoo",
+   "published": "2026-06-30T12:09:03Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]

@@ -254,6 +254,15 @@ def build_report(sym):
     s = scores(info, i)
     name = info.get("longName") or NAMES.get(sym, sym)
 
+    # Upcoming earnings date (best-effort; never break a report if it's absent).
+    next_earnings = None
+    try:
+        cal = tk.calendar
+        ed = cal.get("Earnings Date") if isinstance(cal, dict) else None
+        next_earnings = ed[0] if isinstance(ed, (list, tuple)) and ed else (ed or None)
+    except Exception:
+        pass
+
     # news (catalysts)
     news = []
     try:
@@ -311,7 +320,15 @@ def build_report(sym):
         risks.append("**Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.")
     elif off_high is not None and off_high < -25:
         risks.append("**Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.")
-    risks.append("**Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.")
+    _ind = (info.get("industry", "") + " " + info.get("sector", "")).lower()
+    if "defen" in _ind or "aerospace" in _ind:
+        risks.append("**Macro/sector risk:** defense/aerospace names live and die on government budgets, "
+                     "appropriations timing, and program/contract awards — revenue is policy-driven and lumpy.")
+    elif "semicon" in _ind:
+        risks.append("**Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.")
+    else:
+        risks.append("**Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move "
+                     "the whole group regardless of company-specific execution.")
 
     m = []
     m.append(f"# {sym} Research Report")
@@ -357,6 +374,7 @@ def build_report(sym):
 
     m.append("\n## 4. Fundamental Analysis")
     m.append(md_table([
+        ("Next earnings", str(next_earnings) if next_earnings else "—", "Next scheduled report (Yahoo estimate)"),
         ("Revenue (ttm)", fcap(info.get("totalRevenue")), f"Revenue growth {fpct(info.get('revenueGrowth'))} y/y"),
         ("Profitability", f"Gross {fpct(info.get('grossMargins'))}, operating {fpct(info.get('operatingMargins'))}, "
                           f"net {fpct(info.get('profitMargins'))}",

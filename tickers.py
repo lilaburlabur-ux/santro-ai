@@ -20,6 +20,9 @@ TICKERS = [
     "LSCC",
     "SYNA",
     "CEVA",
+
+    # Aerospace & defense (drones / autonomous systems).
+    "AVAV",
 ]
 
 # Optional: nicer company names shown in the tooltip / details panel.
@@ -37,6 +40,7 @@ NAMES = {
     "LSCC": "Lattice Semiconductor",
     "SYNA": "Synaptics",
     "CEVA": "CEVA",
+    "AVAV": "AeroVironment",
 }
 
 # =====================================================================

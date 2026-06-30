@@ -16,7 +16,8 @@
 | LSCC | $20.11B | +191% | 63.5 | 3% | High | Low (expensive) | High |
 | SYNA | $4.59B | +79% | 22.3 | -4% | High | Fair-to-demanding | High |
 | CEVA | $1.20B | +91% | 52.5 | -10% | High | Low (expensive) | High |
+| AVAV | $8.70B | -38% | 31.9 | -14% | Low | Fair-to-demanding | High |
 
-13 reports generated; failed: none.
+14 reports generated; failed: none.
 
 Method: AEHR.research template (Cowork). One signed file per ticker in this folder.

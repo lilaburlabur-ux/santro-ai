@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-06-30T09:17:41+00:00",
-  "as_of_local": "2026-06-30 09:17:41 UTC",
+  "as_of_utc": "2026-06-30T09:22:48+00:00",
+  "as_of_local": "2026-06-30 09:22:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -199,6 +197,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-arm-expands-agentic-101632634.html",
           "publisher": "Insider Monkey",
           "published": "2026-06-29T10:16:32Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 277.75,
+      "previous_close": 266.77,
+      "change_pct": 4.12,
+      "market_cap": 243184893800.75,
+      "headlines": [
+        {
+          "title": "Micron and Intel Lead Chip Selloff",
+          "url": "https://finance.yahoo.com/technology/articles/micron-intel-lead-chip-selloff-192501898.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-06-29T19:25:01Z"
+        },
+        {
+          "title": "What Was AMD Stock Really Saying Before Its AI Breakout?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-really-saying-ai-191227869.html",
+          "publisher": "Trefis",
+          "published": "2026-06-29T19:12:27Z"
+        },
+        {
+          "title": "Wall Street Just Supersized Its Price Target on Intel. Is the Stock Still Too Cheap?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-just-supersized-price-174919388.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-06-29T17:49:19Z"
         }
       ]
     },
@@ -531,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 59205.46,
+      "price": 59203.86,
       "change_pct": -1.55
     },
     {
       "label": "Gold",
-      "price": 4034.9,
-      "change_pct": 0.31
+      "price": 4031.4,
+      "change_pct": 0.23
     },
     {
       "label": "Nasdaq100",

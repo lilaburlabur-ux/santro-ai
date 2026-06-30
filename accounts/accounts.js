@@ -227,9 +227,9 @@
   function staticHtml(stat) {
     if (stat.storyStockFlag) {
       return `<div class="sa-lbl">Fair value</div>
-        <div class="sa-story"><b>Story stock — no earnings, valuation N/A.</b> No positive EPS to anchor a
-        fair value, so we won't print a number. Read the bear case: the price is paying for a
-        narrative, not current profits.</div>`;
+        <div class="sa-story"><b>No positive trailing earnings — fair value N/A.</b> There's no positive trailing
+        EPS to anchor an earnings-based DCF, so we won't print a number — a limit of the model, not a knock on
+        the company. The price reflects forward expectations, not current profits.</div>`;
     }
     const over = stat.premiumPct >= 0;
     return `<div class="sa-lbl">Fair value <span class="badge live">Free</span></div>
@@ -242,8 +242,8 @@
   function runRowHtml(stat) {
     const pinBtn = user ? `<button class="sa-pin" id="sa-pin">☆ Pin</button>` : "";
     if (stat && stat.storyStockFlag) {
-      // No interactive valuation for a no-earnings name — don't let a click burn a run.
-      return pinBtn ? `<div class="sa-runrow"><span class="sa-remaining">Interactive valuation N/A — story stock.</span>${pinBtn}</div>` : "";
+      // No interactive valuation without positive trailing EPS — don't let a click burn a run.
+      return pinBtn ? `<div class="sa-runrow"><span class="sa-remaining">Interactive valuation N/A — no positive trailing earnings.</span>${pinBtn}</div>` : "";
     }
     const assume = user ? `<div class="sa-assume" id="sa-assume">
         <div class="f"><label>Growth % / yr</label><input id="sa-g" type="number" step="0.5" value="12"></div>
@@ -298,8 +298,8 @@
 
   function resultsHtml(res, a) {
     if (res.storyStockFlag) {
-      return `<div class="sa-story"><b>Story stock — no earnings, valuation N/A.</b> A discounted-earnings model
-        needs positive EPS. Treat this name as narrative risk, not a number.</div>`;
+      return `<div class="sa-story"><b>No positive trailing earnings — fair value N/A.</b> An earnings-based DCF
+        needs positive trailing EPS. The price reflects forward expectations, not current profits.</div>`;
     }
     const over = res.premiumPct >= 0;
     return `<div class="sa-res">

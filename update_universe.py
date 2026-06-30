@@ -127,6 +127,24 @@ def main():
                 step = max(1, len(tail) // 30)
                 idx = list(range(len(tail) - 1, -1, -step))[::-1]
                 t["spark"] = [round(float(tail.iloc[i]), 2) for i in idx]
+                # Forward EPS + trailing P/E for the fair-value calculator's
+                # implied-growth read. Forward EPS lets unprofitable-trailing
+                # names (negative P/E) still get a read. Re-anchor per-share
+                # figures to the repaired close (info can be priced off a stale
+                # pre-split quote). Best-effort: keep the prior value on failure.
+                try:
+                    info = yf.Ticker(t["ticker"]).get_info() or {}
+                    ipx = info.get("regularMarketPrice") or info.get("currentPrice")
+                    rr = (last / ipx) if ipx and ipx > 0 else 1.0
+                    fe = info.get("forwardEps")
+                    if fe:
+                        t["fwd_eps"] = round(fe * rr, 2)
+                    pe = info.get("trailingPE")
+                    if pe:
+                        t["pe"] = round(pe * rr, 2)
+                    time.sleep(0.15)   # be polite to Yahoo across ~80 names
+                except Exception:
+                    pass
                 ok += 1
             except Exception as e:
                 fail += 1

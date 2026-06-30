@@ -67,6 +67,8 @@ def main():
                 ipx = info.get("regularMarketPrice") or info.get("currentPrice")
                 ratio = (now / ipx) if ipx and ipx > 0 else 1.0
                 row["market_cap_b"] = round((info.get("marketCap") or 0) * ratio / 1e9, 2) or None
+                fe = info.get("forwardEps")   # for the calculator's implied-growth read
+                row["fwd_eps"] = round(fe * ratio, 2) if fe else None
             except Exception:
                 row["market_cap_b"] = None
             row["volume"] = int(v.iloc[-1]) if len(v) else None

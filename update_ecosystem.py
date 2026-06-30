@@ -89,6 +89,9 @@ def main():
             pe = info.get("trailingPE")
             if pe:
                 pe = pe * ratio
+            fe = info.get("forwardEps")          # for the calculator's implied-growth read
+            if fe:
+                fe = fe * ratio
 
             def perf(n):
                 return round((last / vals[-1 - n] - 1) * 100, 1) if len(vals) > n else None
@@ -105,6 +108,7 @@ def main():
                 "change_pct": round(chg, 2),
                 "market_cap_b": round(mcap / 1e9, 2) or None,
                 "pe": round(pe, 2) if pe else None,
+                "fwd_eps": round(fe, 2) if fe else None,
                 "volume": int(v.iloc[-1]) if len(v) else None,
                 "perf": {"1W": perf(5), "1M": perf(21),
                          "1Y": round((last / vals[0] - 1) * 100, 1) if len(vals) > 200 else None},

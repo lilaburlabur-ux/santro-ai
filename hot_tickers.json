@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-06-30T13:32:44+00:00",
+  "as_of": "2026-06-30T13:47:58+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,17 +11,33 @@
    "rank": 1,
    "ticker": "AVAV",
    "company": "AeroVironment Inc",
-   "move_pct": 22.63,
-   "price": 170.45,
-   "volume": 1357469,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 82,
+   "move_pct": 20.21,
+   "price": 167.1,
+   "volume": 2494539,
+   "volume_vs_avg": "~2x",
+   "heat_score": 86,
    "direction": "up",
    "why": "Stock Market Today: Dow Wobbles Ahead Of Key Economic Data; AeroVironment Soars On Earnings (Live Coverage)",
    "catalyst_type": "earnings",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-economic-data-aerovironment-avav/?src=A00220&yptr=yahoo",
    "published": "2026-06-30T12:55:00Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 2,
+   "ticker": "TTD",
+   "company": "Trade Desk Inc",
+   "move_pct": -5.04,
+   "price": 17.71,
+   "volume": 2975668,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 33,
+   "direction": "down",
+   "why": "Trade Desk shares decline after Arete cuts rating to Sell (TTD)",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/media-advertising/articles/trade-desk-shares-decline-arete-123821007.html",
+   "published": "2026-06-30T12:38:21Z",
+   "sector": "AI Platforms, Internet & AdTech"
   }
  ]
 }

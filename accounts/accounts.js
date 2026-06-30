@@ -8,6 +8,15 @@
   let user = null;            // current account (from /me) or null
   let ctx = null;            // last selected stock {ticker,company,price,pe}
   let usage = null;          // cached /usage/status
+  // Which auth methods this deployment can actually offer (from /auth/methods).
+  // Default: email+password only — the one path that always works — so the UI
+  // never shows a Google/magic/reset button that would dead-end.
+  let authMethods = { email_password: true, google: false, magic_link: false, password_reset: false };
+  async function ensureMethods() {
+    try { const m = await API.methods(); if (m && typeof m === "object") authMethods = m; }
+    catch (_) { /* keep the safe email-only default */ }
+    return authMethods;
+  }
   const cache = {};          // ticker -> {res, a} last interactive result (survives panel re-renders)
   const fmtUSD = (v) => v == null ? "—" : "$" + Number(v).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
   const fmtPct = (v) => v == null ? "—" : (v >= 0 ? "+" : "") + Number(v).toFixed(1) + "%";
@@ -80,7 +89,14 @@
   const msg = (txt, kind) => `<div class="sa-msg ${kind}">${esc(txt)}</div>`;
 
   // ── auth views ────────────────────────────────────────────────────────
-  function openAuth(view) { openAuthView(view || "home"); }
+  async function openAuth(view) {
+    await ensureMethods();
+    view = view || "home";
+    // With no alternative methods, the "home" chooser would hold a single
+    // button — skip it and open the sign-in form directly.
+    if (view === "home" && !authMethods.google && !authMethods.magic_link) view = "email";
+    openAuthView(view);
+  }
   function openAuthView(view, data) {
     const v = {
       home: authHome, email: authEmail, register: authRegister, magicLink: authMagic, reset: authReset,
@@ -91,19 +107,25 @@
     showModal(v());
   }
   function authHome() {
+    // Only render methods this deployment can actually fulfil (from /auth/methods),
+    // so no button leads to a 503 or a fake "check your email".
+    const alts =
+      (authMethods.google ? `<button class="sa-btn google" id="g">${googleSvg()} Continue with Google</button>` : "") +
+      (authMethods.magic_link ? `<button class="sa-btn" id="m">✉️ Email me a sign-in link</button>` : "");
     const w = node(`<div>
       <h2>Sign in to Santro AI</h2>
       <p class="sa-sub">${API.mode === "mock"
         ? "🧪 Preview — sign-in is simulated until accounts launch; nothing is saved yet. The valuation calculator runs for real."
         : "Unlimited valuations, a saved watchlist, and your valuation history. No spam."}</p>
-      <button class="sa-btn google" id="g">${googleSvg()} Continue with Google</button>
-      <button class="sa-btn" id="m">✉️ Email me a sign-in link</button>
-      <div class="sa-or">or</div>
+      ${alts}
+      ${alts ? '<div class="sa-or">or</div>' : ""}
       <button class="sa-btn primary" id="e">Continue with email & password</button>
       <p class="sa-nfa">Not financial advice. We use cookies to keep you signed in.</p>
     </div>`);
-    w.querySelector("#g").onclick = () => { const u = API.googleLoginUrl(); if (u && u.startsWith("http")) location.href = u; else mockGoogle(); };
-    w.querySelector("#m").onclick = () => openAuthView("magicLink");
+    const g = w.querySelector("#g");
+    if (g) g.onclick = () => { const u = API.googleLoginUrl(); if (u && u.startsWith("http")) location.href = u; else mockGoogle(); };
+    const m = w.querySelector("#m");
+    if (m) m.onclick = () => openAuthView("magicLink");
     w.querySelector("#e").onclick = () => openAuthView("email");
     return w;
   }
@@ -126,6 +148,8 @@
     return w;
   }
   function authEmail() {
+    const hasAlts = authMethods.google || authMethods.magic_link;
+    const forgot = authMethods.password_reset ? `<button class="sa-link" id="forgot">Forgot password?</button>` : "";
     const w = node(`<div>
       <h2>Sign in</h2>
       <p class="sa-sub">Use your email and password.</p>
@@ -133,13 +157,12 @@
       <div class="sa-field"><label>Email</label><input class="sa-input" id="em" type="email" autocomplete="email"></div>
       <div class="sa-field"><label>Password</label><input class="sa-input" id="pw" type="password" autocomplete="current-password"></div>
       <button class="sa-btn primary" id="go">Sign in</button>
-      <div class="sa-row"><button class="sa-link" id="reg">Create an account</button><button class="sa-link" id="forgot">Forgot password?</button></div>
-      <div class="sa-or">or</div>
-      <button class="sa-btn" id="back">← all sign-in options</button>
+      <div class="sa-row"><button class="sa-link" id="reg">Create an account</button>${forgot}</div>
+      ${hasAlts ? '<div class="sa-or">or</div><button class="sa-btn" id="back">← all sign-in options</button>' : ""}
     </div>`);
-    w.querySelector("#back").onclick = () => openAuthView("home");
+    const back = w.querySelector("#back"); if (back) back.onclick = () => openAuthView("home");
     w.querySelector("#reg").onclick = () => openAuthView("register");
-    w.querySelector("#forgot").onclick = () => openAuthView("reset");
+    const forgotBtn = w.querySelector("#forgot"); if (forgotBtn) forgotBtn.onclick = () => openAuthView("reset");
     w.querySelector("#go").onclick = async () => {
       const email = w.querySelector("#em").value.trim(), password = w.querySelector("#pw").value;
       if (!email || !password) return; toggle(w, true);
@@ -157,7 +180,7 @@
       <p class="sa-sub">Unlimited runs, saved watchlist & history.</p>
       <div id="err"></div>
       <div class="sa-field"><label>Email</label><input class="sa-input" id="em" type="email" autocomplete="email"></div>
-      <div class="sa-field"><label>Password</label><input class="sa-input" id="pw" type="password" autocomplete="new-password" placeholder="At least 10 characters"></div>
+      <div class="sa-field"><label>Password</label><input class="sa-input" id="pw" type="password" autocomplete="new-password" placeholder="At least 8 characters, with a letter and a number"></div>
       <label class="sa-consent"><input type="checkbox" id="cons"> I agree to the Terms and Privacy Policy.</label>
       <button class="sa-btn primary" id="go">Create account</button>
       <button class="sa-link" id="back">← I already have an account</button>
@@ -166,7 +189,7 @@
     w.querySelector("#go").onclick = async () => {
       const email = w.querySelector("#em").value.trim(), password = w.querySelector("#pw").value, consent = w.querySelector("#cons").checked;
       if (!consent) { w.querySelector("#err").innerHTML = msg("Please accept the terms to continue.", "err"); return; }
-      if (password.length < 10) { w.querySelector("#err").innerHTML = msg("Password must be at least 10 characters.", "err"); return; }
+      if (password.length < 8) { w.querySelector("#err").innerHTML = msg("Password must be at least 8 characters.", "err"); return; }
       toggle(w, true);
       try {
         await API.register({ email, password, consent });
@@ -424,7 +447,7 @@
   window.SantroCalc = SantroCalc;
   API.onUnauthorized(() => { user = null; renderHeader(); openAuth("home"); });
   function boot() {
-    renderHeader(); refreshUser();
+    renderHeader(); refreshUser(); ensureMethods();
     // Deep-link from "Create a free account" CTAs across the site (/?auth=register).
     const v = new URLSearchParams(location.search).get("auth");
     if (v === "register" || v === "login") openAuth(v === "register" ? "register" : "email");

@@ -46,6 +46,7 @@
     requestReset: "/auth/request-password-reset",
     resetPassword: "/auth/reset-password",
     googleLogin: "/auth/google/login",
+    methods: "/auth/methods",
     refresh: "/auth/refresh",
     logout: "/auth/logout",
     usageStatus: "/usage/status",
@@ -100,6 +101,7 @@
       return data;
     },
     me() { return Live._fetch(R.me, { silent401: true }).catch((e) => { if (e.status === 401) return null; throw e; }); },
+    methods() { return Live._fetch(R.methods); },
     register(b) { return Live._fetch(R.register, { method: "POST", body: b }); },
     login(b) { return Live._fetch(R.login, { method: "POST", body: b }); },
     magicRequest(email) { return Live._fetch(R.magicRequest, { method: "POST", body: { email } }); },
@@ -135,6 +137,7 @@
     const nextMidnight = () => { const d = new Date(); d.setUTCHours(24, 0, 0, 0); return d.toISOString(); };
     return {
       async me() { return user; },
+      async methods() { return { email_password: true, google: false, magic_link: false, password_reset: false }; },
       async register(b) { return { detail: "If an account exists, we've sent a message." }; },
       async login(b) { user = ensureUser(b.email); return { ok: true }; },
       async magicRequest() { return { detail: "If an account exists, we've sent a login link." }; },
@@ -236,6 +239,7 @@
     onUnauthorized(cb) { _onUnauthorized = cb; },
 
     me: () => backend.me(),
+    methods: () => backend.methods(),
     register: (b) => backend.register(b),
     login: (b) => backend.login(b),
     magicRequest: (email) => backend.magicRequest(email),

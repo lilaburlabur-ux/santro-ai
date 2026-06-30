@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-06-30T08:21:59+00:00",
-  "as_of_local": "2026-06-30 08:21:59 UTC",
+  "as_of_utc": "2026-06-30T08:27:00+00:00",
+  "as_of_local": "2026-06-30 08:27:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,12 +41,6 @@
       "market_cap": 2360364354972.0254,
       "headlines": [
         {
-          "title": "Emerging markets are now an AI chip trade: Chart of the Day",
-          "url": "https://finance.yahoo.com/markets/article/emerging-markets-are-now-an-ai-chip-trade-chart-of-the-day-115540648.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-06-28T11:55:40Z"
-        },
-        {
           "title": "Super Micro Office Raided as Taiwan Expands Chip Smuggling Probe",
           "url": "https://finance.yahoo.com/technology/ai/articles/super-micro-office-raided-taiwan-175946955.html",
           "publisher": "Bloomberg",
@@ -57,6 +51,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-ltd-130007396.html",
           "publisher": "Zacks",
           "published": "2026-06-29T13:00:07Z"
+        },
+        {
+          "title": "Wall Street Firm Says Intel (INTC) Has a Cost Edge Over TSMC in the Advanced Chip Packaging Race",
+          "url": "https://finance.yahoo.com/technology/articles/wall-street-firm-says-intel-101834662.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-06-29T10:18:34Z"
         }
       ]
     },
@@ -206,7 +206,7 @@
       "price": 277.75,
       "previous_close": 266.77,
       "change_pct": 4.12,
-      "market_cap": 243184893800.75,
+      "market_cap": 242975700000.0,
       "headlines": [
         {
           "title": "Micron and Intel Lead Chip Selloff",
@@ -557,13 +557,13 @@
     },
     {
       "label": "BTC",
-      "price": 59284.68,
-      "change_pct": -1.42
+      "price": 59289.3,
+      "change_pct": -1.41
     },
     {
       "label": "Gold",
-      "price": 4039.1,
-      "change_pct": 0.42
+      "price": 4036.0,
+      "change_pct": 0.34
     },
     {
       "label": "Nasdaq100",

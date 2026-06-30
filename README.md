@@ -29,4 +29,26 @@ local cron because GitHub's scheduler alone is unreliable.
 .venv/bin/python fetch.py              # refresh watchlist data
 ```
 
+## SEO
+
+```bash
+.venv/bin/python seo_audit.py          # gate: title/desc/canonical/H1/JSON-LD on every public page
+.venv/bin/python seo_audit.py --live   # also check HTTP 200s + that a bogus path 404s
+.venv/bin/python gen_sitemap.py        # regenerate sitemap.xml (fresh lastmod; auto-discovers blog posts)
+```
+
+`seo_audit.py` exits non-zero if any indexable page is missing an essential — run it before deploying (and it's safe to wire into CI). Re-run `gen_sitemap.py` whenever pages are added so `lastmod` stays honest.
+
+**Indexing model.** Content pages (`/`, `/about`, `/stocks`, `/crypto`, `/etfs`, `/bubble`, `/news`, `/research`, `/ipos`, `/share`, `/blog`, `/blog/*`, `/privacy`, `/terms`) ship real static HTML — title, description, canonical, OG/Twitter, one H1, explanatory copy and footer links — before any JS runs. The parameterized client-rendered detail shells (`/t`, `/e`, `/c`, `/ipo`) are `noindex,follow` on purpose: they share one static template, so indexing them would create thin/duplicate pages. To make ticker pages indexable later, prerender per-symbol static HTML at build time.
+
+**Post-deploy checklist (Google Search Console).**
+1. Submit `https://santroai.tech/sitemap.xml`.
+2. URL-inspect `/`, `/blog`, the newest article, `/etfs`, `/bubble`, `/crypto`, `/stocks` → Request indexing.
+3. Pages report: watch "Crawled – currently not indexed", "Discovered – currently not indexed", "Duplicate without user-selected canonical".
+4. Rich Results Test on `/` (WebApplication/Organization), `/etfs` (Dataset + Breadcrumb), a blog post (Article).
+5. Check Mobile Usability and Core Web Vitals (mobile).
+6. Confirm no important URL is `noindex`; confirm the `noindex` shells (`/t`, `/e`, `/c`, `/ipo`) stay excluded.
+
+Data is delayed ~15 min — pages must say "delayed", never "live/real-time". Not financial advice.
+
 Contact: hello@santroai.tech

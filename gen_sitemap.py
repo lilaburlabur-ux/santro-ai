@@ -56,6 +56,11 @@ def main():
         slug = os.path.splitext(os.path.basename(f))[0]
         urls.append((f"{BASE}/blog/{slug}", git_date(f"blog/{os.path.basename(f)}"), "monthly", "0.6"))
 
+    # individual AI-ETF landing pages
+    for f in sorted(glob.glob(os.path.join(HERE, "etfs", "*.html"))):
+        sym = os.path.splitext(os.path.basename(f))[0]
+        urls.append((f"{BASE}/etfs/{sym}", git_date(f"etfs/{os.path.basename(f)}"), "weekly", "0.5"))
+
     lines = ['<?xml version="1.0" encoding="UTF-8"?>',
              '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for loc, lm, cf, pr in urls:

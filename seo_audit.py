@@ -40,6 +40,12 @@ ROUTES = [
     ("/blog/ai-bubble-vs-dotcom", "blog/ai-bubble-vs-dotcom.html", True),
     ("/blog/why-expensive-isnt-a-short", "blog/why-expensive-isnt-a-short.html", True),
     ("/privacy", "privacy.html", True), ("/terms", "terms.html", True),
+    ("/etfs/smh", "etfs/smh.html", True),
+    ("/etfs/soxx", "etfs/soxx.html", True),
+    ("/etfs/aiq", "etfs/aiq.html", True),
+    ("/etfs/botz", "etfs/botz.html", True),
+    ("/etfs/robt", "etfs/robt.html", True),
+    ("/etfs/arkq", "etfs/arkq.html", True),
     # parameterized client-rendered shells: must be noindex, metadata relaxed
     ("/t", "t.html", False), ("/e", "e.html", False),
     ("/c", "c.html", False), ("/ipo", "ipo.html", False),

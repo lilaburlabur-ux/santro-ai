@@ -24,7 +24,9 @@ window.SANTRO_CONFIG = Object.assign(
     apiMode: "live",
 
     // Backend origin. Empty = same origin. Example: "https://api.santroai.tech"
-    apiBase: "https://santro-accounts.onrender.com",
+    // Same-site subdomain of santroai.tech → session cookies are first-party
+    // (no third-party-cookie blocking by Safari/ITP or Chrome's 3p phase-out).
+    apiBase: "https://api.santroai.tech",
 
     // Valuation math source. "real" → POST {apiBase}/valuation/run.
     // "mock" → typed local mock (swap to "real" the moment the endpoint ships).

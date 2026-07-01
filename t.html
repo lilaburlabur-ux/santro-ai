@@ -197,7 +197,11 @@ async function load(){
       ?`<span class="nocat">No clear catalyst found</span>`:hotRow.catalyst_type.replace(/_/g," ")):"";
   const whySrc=hotRow&&hotRow.source_url?` · <a href="${hotRow.source_url}" target="_blank" rel="noopener">source ↗</a>`:"";
   const whyWhen=hotRow&&hotRow.published?` · ${timeAgo(hotRow.published)}`:"";
-  const whySection=(hotRow && !JUNK_WHY.test(hotRow.why||""))?`
+  // Only claim a "why it's moving" when there's a GENUINE classified catalyst —
+  // an auto-matched freshest headline (momentum_narrative / no_news_mover) is not
+  // a cause and often contradicts the move, so we don't surface it here.
+  const REAL_CAT=["analyst_action","earnings","financing","contract_win","mna","regulatory"];
+  const whySection=(hotRow && REAL_CAT.includes(hotRow.catalyst_type) && !JUNK_WHY.test(hotRow.why||""))?`
     <div class="sec-label">Why it's moving</div>
     <div class="whybox"><div class="wt">${hotRow.why}</div>
       <div class="wm">${catLabel}${whyWhen}${whySrc}</div></div>`:"";

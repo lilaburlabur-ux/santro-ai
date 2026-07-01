@@ -54,6 +54,7 @@
     usageStatus: "/usage/status",
     usageRun: "/usage/run",
     watchlist: "/watchlist",
+    alerts: "/alerts",
     valuations: "/valuations",
     valuationRun: "/valuation/run",
   };
@@ -120,6 +121,10 @@
     listWatchlist() { return Live._fetch(R.watchlist); },
     pin(ticker) { return Live._fetch(R.watchlist, { method: "POST", body: { ticker } }); },
     unpin(ticker) { return Live._fetch(R.watchlist + "/" + encodeURIComponent(ticker), { method: "DELETE" }); },
+    listAlerts() { return Live._fetch(R.alerts); },
+    createAlert(b) { return Live._fetch(R.alerts, { method: "POST", body: b }); },
+    updateAlert(id, b) { return Live._fetch(R.alerts + "/" + encodeURIComponent(id), { method: "PATCH", body: b }); },
+    deleteAlert(id) { return Live._fetch(R.alerts + "/" + encodeURIComponent(id), { method: "DELETE" }); },
     listValuations() { return Live._fetch(R.valuations); },
     saveValuation(rec) { return Live._fetch(R.valuations, { method: "POST", body: rec }); },
     removeValuation(id) { return Live._fetch(R.valuations + "/" + encodeURIComponent(id), { method: "DELETE" }); },
@@ -134,6 +139,7 @@
     let anonUsed = 0;
     let userUsed = 0;
     const wl = new Map();            // ticker -> {id,ticker,created_at}
+    const al = new Map();            // id -> alert
     const vals = [];                 // saved valuations
     const MOCK_PREFS = { show_all_data: true, show_stocks: true, show_crypto: true, show_etfs: true,
       show_news: true, show_research: true, show_bubble_risk: true, show_fair_value_calculator: true,
@@ -175,6 +181,10 @@
       async pin(ticker) { requireUser(); const k = ticker.toUpperCase();
         if (!wl.has(k)) wl.set(k, { id: id(), ticker: k, created_at: new Date().toISOString() }); return wl.get(k); },
       async unpin(ticker) { requireUser(); wl.delete(ticker.toUpperCase()); return null; },
+      async listAlerts() { requireUser(); return [...al.values()].sort((a, b) => b.created_at.localeCompare(a.created_at)); },
+      async createAlert(b) { requireUser(); const a = { id: id(), ticker: (b.ticker || "").toUpperCase(), kind: b.kind, threshold: b.threshold, active: true, note: b.note || null, last_triggered_at: null, created_at: new Date().toISOString() }; al.set(a.id, a); return a; },
+      async updateAlert(aid, b) { requireUser(); const a = al.get(aid); if (!a) return null; if (b.active != null) a.active = b.active; if (b.triggered) a.last_triggered_at = new Date().toISOString(); return a; },
+      async deleteAlert(aid) { requireUser(); al.delete(aid); return { detail: "Alert deleted." }; },
       async listValuations() { requireUser(); return vals.slice().sort((a, b) => b.created_at.localeCompare(a.created_at)); },
       async saveValuation(rec) { requireUser(); const v = Object.assign({ id: id(), created_at: new Date().toISOString() }, rec); vals.push(v); return v; },
       async removeValuation(vid) { requireUser(); const i = vals.findIndex((v) => v.id === vid); if (i >= 0) vals.splice(i, 1); return null; },
@@ -277,6 +287,10 @@
     listWatchlist: () => backend.listWatchlist(),
     pin: (t) => backend.pin(t),
     unpin: (t) => backend.unpin(t),
+    listAlerts: () => backend.listAlerts(),
+    createAlert: (b) => backend.createAlert(b),
+    updateAlert: (id, b) => backend.updateAlert(id, b),
+    deleteAlert: (id) => backend.deleteAlert(id),
     listValuations: () => backend.listValuations(),
     saveValuation: (rec) => backend.saveValuation(rec),
     removeValuation: (id) => backend.removeValuation(id),

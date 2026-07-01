@@ -70,8 +70,8 @@
     setTimeout(() => document.addEventListener("click", function h() { m.remove(); document.removeEventListener("click", h); }), 0);
   }
 
-  async function refreshUser() { try { user = await API.me(); } catch (_) { user = null; } renderHeader(); }
-  async function doLogout() { try { await API.logout(); } catch (_) {} user = null; renderHeader(); if (ctx) SantroCalc.render(ctx); }
+  async function refreshUser() { try { user = await API.me(); } catch (_) { user = null; } renderHeader(); if (user) startAlertLoop(); }
+  async function doLogout() { try { await API.logout(); } catch (_) {} user = null; stopAlertLoop(); renderHeader(); if (ctx) SantroCalc.render(ctx); }
 
   // ── modal scaffolding ─────────────────────────────────────────────────
   let backdrop = null;
@@ -418,11 +418,9 @@
     const box = w.querySelector("#sa-saved");
     try {
       if (name === "watchlist") {
-        const wl = await API.listWatchlist();
-        box.innerHTML = wl.length ? `<div class="sa-list">${wl.map((i) => `<div class="sa-li"><span class="tk" data-tk="${esc(i.ticker)}">${esc(i.ticker)}</span><button class="x" data-un="${esc(i.ticker)}" title="Unpin">×</button></div>`).join("")}</div>`
-          : `<div class="sa-empty">No pinned tickers yet. Open a stock and tap <b>Pin</b>.</div>`;
-        box.querySelectorAll("[data-un]").forEach((b) => b.onclick = async () => { await API.unpin(b.dataset.un); loadSaved(w, "watchlist"); });
-        box.querySelectorAll("[data-tk]").forEach((b) => b.onclick = () => { closeModal(); jumpTo(b.dataset.tk); });
+        box.innerHTML = `<div class="sa-skel" style="height:120px"></div>`;
+        const [wl] = await Promise.all([API.listWatchlist(), loadPrices(), loadAlerts(true)]);
+        renderWatchlist(w, box, wl);
       } else {
         const vs = await API.listValuations();
         box.innerHTML = vs.length ? `<div class="sa-list">${vs.map((v) => {
@@ -442,6 +440,141 @@
     if (typeof window.openTicker === "function") { try { window.openTicker(ticker); return; } catch (_) {} }
     location.href = "t?sym=" + encodeURIComponent(ticker);
   }
+
+  // ── watchlist terminal: live prices + alerts ───────────────────────────
+  let _px = null, _pxAt = 0, _alerts = null, alertTimer = null;
+  async function loadPrices(force) {
+    if (_px && !force && Date.now() - _pxAt < 45000) return _px;
+    const map = {};
+    const add = (t) => { if (t && t.ticker && (t.price != null || t.change_pct != null))
+      map[t.ticker] = { price: t.price, change_pct: t.change_pct, company: t.company, pe: t.pe, fwdEps: t.fwd_eps }; };
+    const grab = (u) => fetch(u + "?t=" + Date.now()).then((r) => r.json()).catch(() => null);
+    const [d, u, e] = await Promise.all([grab("/data.json"), grab("/universe.json"), grab("/ecosystem.json")]);
+    if (u && u.bubbles) u.bubbles.forEach((b) => (b.tickers || []).forEach(add));
+    if (e && e.tickers) e.tickers.forEach(add);
+    if (d) ["stocks", "etfs"].forEach((k) => (d[k] || []).forEach(add));
+    _px = map; _pxAt = Date.now(); return map;
+  }
+  async function loadAlerts(force) { if (_alerts && !force) return _alerts; try { _alerts = await API.listAlerts(); } catch (_) { _alerts = []; } return _alerts; }
+  function alertsFor(tk) { return (_alerts || []).filter((a) => a.ticker === tk); }
+  function alertDesc(a) {
+    if (a.kind === "price_above") return "Price ≥ $" + a.threshold;
+    if (a.kind === "price_below") return "Price ≤ $" + a.threshold;
+    if (a.kind === "pct_up") return "Day move ≥ +" + a.threshold + "%";
+    if (a.kind === "pct_down") return "Day move ≤ −" + a.threshold + "%";
+    return a.kind;
+  }
+  function alertMet(a, p) {
+    if (!p) return false;
+    if (a.kind === "price_above") return p.price != null && p.price >= a.threshold;
+    if (a.kind === "price_below") return p.price != null && p.price <= a.threshold;
+    if (a.kind === "pct_up") return p.change_pct != null && p.change_pct >= a.threshold;
+    if (a.kind === "pct_down") return p.change_pct != null && p.change_pct <= -a.threshold;
+    return false;
+  }
+
+  function renderWatchlist(w, box, wl) {
+    const px = _px || {};
+    if (!wl.length) { box.innerHTML = `<div class="sa-empty">No pinned tickers yet. Open a stock and tap <b>Pin</b>.</div>`; return; }
+    const rows = wl.map((i) => {
+      const p = px[i.ticker] || {};
+      const mv = p.change_pct;
+      const mvHtml = typeof mv === "number" ? `<span class="wl-mv ${mv >= 0 ? "up" : "dn"}">${fmtPct(mv)}</span>` : `<span class="wl-mv na">—</span>`;
+      const na = alertsFor(i.ticker).filter((a) => a.active).length;
+      return `<div class="wl-row">
+        <button class="wl-tk" data-tk="${esc(i.ticker)}">${esc(i.ticker)}</button>
+        <span class="wl-co">${esc(p.company || "")}</span>
+        <span class="wl-px">${p.price != null ? fmtUSD(p.price) : "—"}</span>
+        ${mvHtml}
+        <button class="wl-bell${na ? " on" : ""}" data-al="${esc(i.ticker)}" title="Alerts">🔔${na ? `<span class="wl-badge">${na}</span>` : ""}</button>
+        <button class="wl-x" data-un="${esc(i.ticker)}" title="Unpin">×</button>
+      </div>`;
+    }).join("");
+    box.innerHTML = `<div class="wl-head"><span>Ticker</span><span>Company</span><span>Price</span><span>1D</span><span></span><span></span></div>
+      <div class="wl-list">${rows}</div><div id="wl-panel"></div>
+      <p class="sa-nfa">Live-ish quotes (~15 min delayed). Alerts are checked while this site is open. Not financial advice.</p>`;
+    box.querySelectorAll("[data-tk]").forEach((b) => b.onclick = () => { closeModal(); jumpTo(b.dataset.tk); });
+    box.querySelectorAll("[data-un]").forEach((b) => b.onclick = async () => { await API.unpin(b.dataset.un); loadSaved(w, "watchlist"); });
+    box.querySelectorAll("[data-al]").forEach((b) => b.onclick = () => renderAlertPanel(w, b.dataset.al));
+  }
+  function updateBell(w, tk) {
+    const bell = w.querySelector('.wl-bell[data-al="' + tk + '"]'); if (!bell) return;
+    const na = alertsFor(tk).filter((a) => a.active).length;
+    bell.classList.toggle("on", na > 0);
+    bell.innerHTML = "🔔" + (na ? `<span class="wl-badge">${na}</span>` : "");
+  }
+  function renderAlertPanel(w, tk) {
+    const panel = w.querySelector("#wl-panel"); if (!panel) return;
+    const p = (_px || {})[tk] || {};
+    const existing = alertsFor(tk);
+    const rows = existing.length ? existing.map((a) => `<div class="al-row ${a.active ? "" : "off"}">
+        <span class="al-desc">${esc(alertDesc(a))}</span>
+        <button class="al-toggle" data-tog="${esc(a.id)}">${a.active ? "On" : "Off"}</button>
+        <button class="al-del" data-del="${esc(a.id)}" title="Delete">×</button></div>`).join("")
+      : `<div class="al-empty">No alerts on ${esc(tk)} yet.</div>`;
+    const notif = window.Notification && Notification.permission !== "granted"
+      ? `<button class="sa-link" id="al-notif">🔔 Enable browser notifications</button>` : "";
+    panel.innerHTML = `<div class="al-box">
+      <div class="al-h">Alerts · <b>${esc(tk)}</b>${p.price != null ? ` <span class="al-now">now ${fmtUSD(p.price)}${p.change_pct != null ? " · " + fmtPct(p.change_pct) : ""}</span>` : ""}
+        <button class="al-close" id="al-close" title="Close">×</button></div>
+      <div class="al-list">${rows}</div>
+      <div class="al-form">
+        <select id="al-kind" class="sa-input">
+          <option value="price_above">Price ≥ $</option><option value="price_below">Price ≤ $</option>
+          <option value="pct_up">Day move ≥ +%</option><option value="pct_down">Day move ≤ −%</option>
+        </select>
+        <input id="al-th" class="sa-input" type="number" step="0.01" min="0" placeholder="value" aria-label="Alert threshold">
+        <button class="sa-btn primary" id="al-add">Add alert</button>
+      </div>
+      <div id="al-err"></div>${notif}</div>`;
+    panel.querySelector("#al-close").onclick = () => { panel.innerHTML = ""; };
+    panel.querySelectorAll("[data-del]").forEach((b) => b.onclick = async () => { await API.deleteAlert(b.dataset.del); _alerts = await API.listAlerts(); renderAlertPanel(w, tk); updateBell(w, tk); });
+    panel.querySelectorAll("[data-tog]").forEach((b) => b.onclick = async () => { const a = alertsFor(tk).find((x) => x.id === b.dataset.tog); if (a) { await API.updateAlert(a.id, { active: !a.active }); _alerts = await API.listAlerts(); renderAlertPanel(w, tk); updateBell(w, tk); } });
+    const nb = panel.querySelector("#al-notif"); if (nb) nb.onclick = () => { try { Notification.requestPermission().then(() => renderAlertPanel(w, tk)); } catch (_) {} };
+    panel.querySelector("#al-add").onclick = async () => {
+      const kind = panel.querySelector("#al-kind").value, th = parseFloat(panel.querySelector("#al-th").value);
+      const err = panel.querySelector("#al-err");
+      if (!(th > 0)) { err.innerHTML = msg("Enter a value greater than 0.", "err"); return; }
+      try {
+        await API.createAlert({ ticker: tk, kind: kind, threshold: th });
+        _alerts = await API.listAlerts();
+        try { if (window.Notification && Notification.permission === "default") Notification.requestPermission(); } catch (_) {}
+        renderAlertPanel(w, tk); updateBell(w, tk);
+      } catch (e) { err.innerHTML = msg(e.detail || "Couldn't add that alert.", "err"); }
+    };
+  }
+
+  // ── client-side alert checker (runs while the terminal is open) ─────────
+  async function checkAlerts() {
+    if (!user) return;
+    let alerts, px;
+    try { [alerts, px] = await Promise.all([loadAlerts(true), loadPrices(true)]); } catch (_) { return; }
+    const now = Date.now(), DEDUPE = 4 * 3600 * 1000;
+    for (const a of alerts) {
+      if (!a.active || !alertMet(a, px[a.ticker])) continue;
+      const last = a.last_triggered_at ? new Date(a.last_triggered_at).getTime() : 0;
+      if (now - last < DEDUPE) continue;
+      fireAlert(a, px[a.ticker]);
+      a.last_triggered_at = new Date().toISOString();
+      API.updateAlert(a.id, { triggered: true }).catch(() => {});
+    }
+  }
+  function fireAlert(a, p) {
+    const msgTxt = `${a.ticker} · ${alertDesc(a)} — now ${p.price != null ? fmtUSD(p.price) : ""}${p.change_pct != null ? " (" + fmtPct(p.change_pct) + ")" : ""}`;
+    toast(msgTxt);
+    try { if (window.Notification && Notification.permission === "granted") new Notification("Santro AI alert", { body: msgTxt }); } catch (_) {}
+  }
+  function toast(txt) {
+    let host = document.getElementById("sa-toasts");
+    if (!host) { host = node('<div id="sa-toasts"></div>'); document.body.appendChild(host); }
+    const t = node(`<div class="sa-toast">🔔 <span>${esc(txt)}</span></div>`);
+    host.appendChild(t);
+    requestAnimationFrame(() => t.classList.add("show"));
+    const kill = () => { t.classList.remove("show"); setTimeout(() => t.remove(), 400); };
+    t.onclick = kill; setTimeout(kill, 9000);
+  }
+  function startAlertLoop() { if (alertTimer) return; setTimeout(checkAlerts, 4000); alertTimer = setInterval(checkAlerts, 90000); }
+  function stopAlertLoop() { if (alertTimer) { clearInterval(alertTimer); alertTimer = null; } _alerts = null; }
 
   // ── helpers ───────────────────────────────────────────────────────────
   function num(input, dflt) { if (!input) return dflt; const v = parseFloat(input.value); return isNaN(v) ? dflt : v; }

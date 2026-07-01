@@ -133,7 +133,7 @@ const UNI_SHORT={
 const SESSION_LBL={pre:"premarket", regular:"market open", post:"after hours", closed:"market closed"};
 
 const SYM=(new URLSearchParams(location.search).get("sym")||"NVDA").toUpperCase();
-const JUNK_WHY=/if you'?d invested|here'?s how much|you'?d have (today|now)|\$[\d,]+ (in|invested)\b|should you buy|is it too late|\b\d+ reasons?\b|\bbest (ai |growth )?stocks?\b|\b\d+ (ai |growth |tech |top )?stocks? (to|you|that|worth)\b|where will .+ be in|here'?s why .+ (could|will|might|would)/i;
+const JUNK_WHY=/if you'?d invested|here'?s how much|you'?d have (today|now)|\$[\d,]+ (in|invested)\b|should you buy|is it too late|\b\d+ reasons?\b|\bbest (ai |growth )?stocks?\b|\b\d+ (ai |growth |tech |top )?stocks? (to|you|that|worth)\b|where will .+ be in|here'?s why .+ (could|will|might|would)|investors? (lost|who lost)|lead plaintiff|shareholder (alert|rights)|law (firm|offices)|investigation on behalf|recover (your |their )?losses|deadline alert|securities fraud lawsuit/i;
 
 function bigChart(s){
   if(!s||s.length<3) return "";

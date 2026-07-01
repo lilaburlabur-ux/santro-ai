@@ -59,7 +59,10 @@ JUNK_HEADLINE = re.compile(
     r"if you'?d invested|here'?s how much|you'?d have (today|now)|\$[\d,]+ (in|invested)\b"
     r"|should you buy|is it too late|\b\d+ reasons?\b|\bbest (ai |growth )?stocks?\b"
     r"|\b\d+ (ai |growth |tech |top )?stocks? (to|you|that|worth)\b|where will .+ be in"
-    r"|here'?s why .+ (could|will|might|would)", re.I)
+    r"|here'?s why .+ (could|will|might|would)"
+    r"|investors? (lost|who lost)|lead plaintiff|shareholder (alert|rights)"
+    r"|law (firm|offices)|investigation on behalf|recover (your |their )?losses"
+    r"|deadline alert|securities fraud lawsuit", re.I)
 
 
 def fresh_news(hours=4):

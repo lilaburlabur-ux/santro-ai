@@ -13,6 +13,7 @@
 <meta name="description" content="AI ticker page on Santro AI: price, move, why it's moving, sector and AI bubble context, chart and related news. Quotes delayed ~15 min. Not financial advice." />
 <script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
 <link rel="stylesheet" href="site.css?v=10" />
+<script src="ticker-about.js?v=1"></script>
 <style>
   .tp-head{display:flex; align-items:center; gap:16px; flex-wrap:wrap; padding:6px 0 18px;}
   .tp-head img{width:54px; height:54px; border-radius:50%;}
@@ -33,6 +34,7 @@
     color:var(--faint); font-weight:700;}
   .bigchart{background:var(--panel); border:1px solid var(--border); border-radius:12px; padding:18px;}
   .thesis{color:var(--muted); font-size:13.5px; font-style:italic; margin:8px 0 0; max-width:760px;}
+  .tp-about p{color:var(--muted); font-size:14px; line-height:1.62; max-width:820px; margin:6px 0 4px;}
   .newsrow{padding:10px 0; border-bottom:1px solid var(--border-soft); font-size:13.5px; max-width:860px;}
   .newsrow:last-child{border-bottom:0;}
   .newsrow a{color:var(--text); text-decoration:none;}
@@ -156,10 +158,10 @@ async function load(){
   try{ tweets=await (await fetch("tweets.json?t="+Date.now())).json(); }catch(e){}
 
   // find the ticker in the baskets; universe entry wins (has sector context)
-  let t=null, sectorLabel="", sectorMove=null; const baskets=[];
+  let t=null, sectorLabel="", sectorMove=null, basketId=""; const baskets=[];
   if(universe) for(const b of universe.bubbles){
     const x=b.tickers.find(x=>x.ticker===SYM);
-    if(x){ t=x; sectorLabel=UNI_SHORT[b.id]||b.label; sectorMove=b.avg_change_pct;
+    if(x){ t=x; sectorLabel=UNI_SHORT[b.id]||b.label; sectorMove=b.avg_change_pct; basketId=b.id;
       baskets.push("AI Universe: "+sectorLabel); break; }
   }
   if(eco && eco.tickers.some(x=>x.ticker===SYM)){
@@ -205,6 +207,11 @@ async function load(){
   const shareBtns=`<div class="tp-share">
     <a class="primary" href="/share?card=hot">Share card ↗</a>
     <button class="ghost" onclick="copyLink(this)">⧉ Copy link</button></div>`;
+  const ab=window.TICKER_ABOUT&&window.TICKER_ABOUT[SYM];
+  const io=window.INDUSTRY_ABOUT&&window.INDUSTRY_ABOUT[basketId];
+  const aboutSection=
+    (ab?`<div class="sec-label">About ${ab.name}</div><div class="tp-about"><p>${ab.about}</p></div>`:"")
+   +(io?`<div class="sec-label">${io.heading}</div><div class="tp-about"><p>${io.text}</p></div>`:"");
 
   el.innerHTML=`
     <div class="tp-head">
@@ -231,6 +238,7 @@ async function load(){
     ${ipoRow?`<div class="sec-label">IPO debut · priced $${ipoRow.ipo_price} on ${ipoRow.ipo_date_fmt||ipoRow.ipo_date}</div><div>
       ${pchip("Day 1",ipoRow.day1)}${pchip("Week 1",ipoRow.week1)}${pchip("Month 1",ipoRow.month1)}${pchip("Since IPO",ipoRow.since_ipo)}
     </div>`:""}
+    ${aboutSection}
     <div id="sa-calc-mount" style="margin-top:18px"></div>
     <div class="sec-label">Chart · TradingView</div>
     <div class="tradingview-widget-container" id="tvchart"><div class="tradingview-widget-container__widget"></div></div>

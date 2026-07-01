@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-01T09:17:11+00:00",
+  "as_of": "2026-07-01T09:32:13+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,35 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "AVAV",
-   "company": "AeroVironment Inc",
-   "move_pct": 0.2,
-   "price": 165.4,
-   "volume": 8019500,
-   "volume_vs_avg": "~5x",
-   "heat_score": 43,
-   "direction": "up",
-   "why": "AVAV, KTOS Stocks Gain Overnight: Wedbush Calls AeroVironment, Kratos Long-Term Winners In Defense Tech",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/avav-ktos-stocks-gain-overnight-064531331.html",
-   "published": "2026-07-01T06:45:31Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 2,
    "ticker": "DLR",
    "company": "Digital Realty Trust Inc",
-   "move_pct": 0.84,
-   "price": 181.08,
+   "move_pct": 2.68,
+   "price": 184.39,
    "volume": 11443200,
    "volume_vs_avg": "~5x",
-   "heat_score": 41,
+   "heat_score": 47,
    "direction": "up",
    "why": "Is Digital Realty (DLR) Quietly Shifting From Landlord To AI Infrastructure Platform With Its Latest Move?",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/technology/ai/articles/digital-realty-dlr-quietly-shifting-081912073.html",
    "published": "2026-07-01T08:19:12Z",
    "sector": "Data Center, Power & Energy"
+  },
+  {
+   "rank": 2,
+   "ticker": "AVAV",
+   "company": "AeroVironment Inc",
+   "move_pct": -0.0,
+   "price": 165.07,
+   "volume": 8019500,
+   "volume_vs_avg": "~5x",
+   "heat_score": 42,
+   "direction": "down",
+   "why": "AVAV, KTOS Stocks Gain Overnight: Wedbush Calls AeroVironment, Kratos Long-Term Winners In Defense Tech",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/avav-ktos-stocks-gain-overnight-064531331.html",
+   "published": "2026-07-01T06:45:31Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

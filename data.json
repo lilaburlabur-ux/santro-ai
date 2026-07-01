@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-01T13:13:48+00:00",
-  "as_of_local": "2026-07-01 13:13:48 UTC",
+  "as_of_utc": "2026-07-01T13:18:49+00:00",
+  "as_of_local": "2026-07-01 13:18:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -113,34 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-micron-dominated-first-half-125200469.html",
           "publisher": "Motley Fool",
           "published": "2026-07-01T12:52:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 580.91,
-      "previous_close": 539.49,
-      "change_pct": 7.68,
-      "market_cap": 947232173410.9456,
-      "headlines": [
-        {
-          "title": "Big Tech's first half was a story of hardware versus software",
-          "url": "https://finance.yahoo.com/technology/article/big-techs-first-half-was-a-story-of-hardware-versus-software-120311290.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-01T12:03:11Z"
-        },
-        {
-          "title": "AMD stock jumps, Circle plummets on stablecoin competition",
-          "url": "https://finance.yahoo.com/video/amd-stock-jumps-circle-plummets-on-stablecoin-competition-192026614.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-06-30T19:20:26Z"
-        },
-        {
-          "title": "Micron, Intel, AMD stock surge Q2 2026 AI chip rally",
-          "url": "https://finance.yahoo.com/technology/ai/articles/micron-intel-amd-stock-surge-115828932.html",
-          "publisher": "Quartz",
-          "published": "2026-07-01T11:58:28Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 58614.51,
-      "change_pct": 0.1
+      "price": 58658.58,
+      "change_pct": 0.17
     },
     {
       "label": "Gold",
-      "price": 4035.1,
-      "change_pct": 0.3
+      "price": 4027.7,
+      "change_pct": 0.12
     },
     {
       "label": "Nasdaq100",

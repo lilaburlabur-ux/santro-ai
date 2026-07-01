@@ -38,8 +38,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 |---|---|---|
 | What's next for AI and Big Tech in the second half of 2026? | Yahoo Finance Video | 2026-07-01 |
 | Scared of an AI stock bubble? Then don't look at this chart. | Yahoo Finance | 2026-07-01 |
+| The $95-a-Year Fee Nobody Notices: Why SPXL Underperforms Its Own Math | 24/7 Wall St. | 2026-07-01 |
 | Meta AI Cloud Push Sends Nvidia, AMD, Intel, Micron Stocks Sinking | GuruFocus.com | 2026-07-01 |
-| AMD Stock Falls From Record High—and a $1 Trillion Market Cap Is Suddenly Far Away | Barrons.com | 2026-07-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

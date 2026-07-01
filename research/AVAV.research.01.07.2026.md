@@ -36,10 +36,10 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 | Headline | Source | Date |
 |---|---|---|
+| AeroVironment CEO warns global warfare faces a historic inflection point | TheStreet | 2026-07-01 |
 | Why Is Kratos (KTOS) Stock Rocketing Higher Today | StockStory | 2026-07-01 |
 | Stocks making big moves yesterday: Cogent, Vishay Intertechnology, AeroVironment, Intel, and Coty | StockStory | 2026-07-01 |
 | Company News for July 1, 2026 | Zacks | 2026-07-01 |
-| AVAV, KTOS Stocks Gain Overnight: Wedbush Calls AeroVironment, Kratos Long-Term Winners In Defense Tech | Stocktwits | 2026-07-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

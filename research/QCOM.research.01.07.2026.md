@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| QCOM Stock Slips Toward Fourth Straight Loss After Elon Musk Dismisses Reports Of SpaceX AI Phone Using Qualcomm Chips | Stocktwits | 2026-07-01 |
 | Elon Musk Sends SpaceX Shares Lower With Two-Word AI Device Denial | BeInCrypto | 2026-07-01 |
 | SpaceX teases AI device post-IPO; QCOM gains, Apple unfazed | Investing.com | 2026-07-01 |
 | Marvell Stock And The High-Stakes Forecast Behind The AI Story | Trefis | 2026-06-30 |
-| Qualcomm (QCOM) Stock Sinks As Market Gains: Here's Why | Zacks | 2026-06-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

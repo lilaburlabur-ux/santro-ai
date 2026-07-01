@@ -36,10 +36,10 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 
 | Headline | Source | Date |
 |---|---|---|
+| Needham Initiates CEVA (CEVA) With A Buy Rating | Insider Monkey | 2026-07-01 |
 | Is Amkor Technology (AMKR) Stock Outpacing Its Computer and Technology Peers This Year? | Zacks | 2026-06-29 |
 | All You Need to Know About Ceva (CEVA) Rating Upgrade to Buy | Zacks | 2026-06-23 |
 | Ceva (CEVA) Surges 10.7%: Is This an Indication of Further Gains? | Zacks | 2026-06-19 |
-| Datadog upgraded, Accenture downgraded: Wall Street's top analyst calls | The Fly | 2026-06-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

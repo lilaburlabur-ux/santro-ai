@@ -38,8 +38,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 |---|---|---|
 | Why investors should 'complement' their SpaceX ETFs with these other themes | Yahoo Finance Video | 2026-07-01 |
 | Big Tech's first half was a story of hardware versus software | Yahoo Finance | 2026-07-01 |
-| Top analysts set jaw-dropping Micron stock target after surge | TheStreet | 2026-07-01 |
-| Bank of America Revamps Sandisk Stock Price Target for 2027 | GuruFocus.com | 2026-07-01 |
+| Dow Jones Futures: Meta Jumps But Hits SpaceX, Micron; Tesla, Jobs Report Ahead | Investor's Business Daily | 2026-07-01 |
+| Stock Market Today: Nasdaq Ends Lower As Chip Names Dive; Meta Soars On This News | Investor's Business Daily | 2026-07-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

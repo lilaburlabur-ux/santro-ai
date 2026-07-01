@@ -132,3 +132,10 @@
     }
   });
 })();
+
+// ── PWA: conservative service worker (static assets only; data stays live) ──
+if ("serviceWorker" in navigator && location.protocol === "https:") {
+  window.addEventListener("load", function () {
+    navigator.serviceWorker.register("/sw.js").catch(function () {});
+  });
+}

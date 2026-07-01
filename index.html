@@ -2,7 +2,12 @@
 <html lang="en">
 <head>
 <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#0a0e13" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="Santro AI" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 <title>Santro AI — AI Bubble Terminal For Stocks, ETFs &amp; Crypto</title>
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
 <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png" />
@@ -179,6 +184,22 @@
   .brief-note b{color:var(--accent-2); font-weight:700;}
   @media (max-width:900px){ .brief-grid{grid-template-columns:1fr 1fr 1fr;} .bt.risk{grid-column:span 3;} }
   @media (max-width:560px){ .brief-grid{grid-template-columns:1fr 1fr;} .bt.risk{grid-column:span 2;} }
+  /* terminal mobile: compact topbar controls, no overflow */
+  @media (max-width:640px){
+    .topbar{padding:7px 10px; padding-top:calc(7px + env(safe-area-inset-top));}
+    .topbar .right{gap:8px; font-size:11px; flex-wrap:wrap; justify-content:flex-end; row-gap:6px;}
+    #theme-toggle{width:66px;}
+    #theme-toggle .tt-label{display:none;}
+    #theme-toggle.day .tt-knob{left:calc(100% - 32px);}
+    #asof{font-size:10px; max-width:150px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
+    #reload{font-size:0; padding:9px 11px;}
+    #reload::before{content:"↻"; font-size:15px; line-height:1;}
+    .mainnav{overflow-x:auto; -webkit-overflow-scrolling:touch; flex-wrap:nowrap; max-width:100%;
+      scrollbar-width:none;}
+    .mainnav::-webkit-scrollbar{display:none;}
+    .nav-link{padding:11px 10px; white-space:nowrap;}
+    .sect-tbl{display:block; overflow-x:auto; -webkit-overflow-scrolling:touch;}
+  }
   .grid{display:grid; gap:14px; padding:14px;
     grid-template-columns:1.55fr 1fr 1fr;
     grid-template-rows:474px minmax(392px, 640px);
@@ -1293,7 +1314,7 @@ let savedTheme="dark"; try{ savedTheme=localStorage.getItem("santro-theme")||"da
 applyTheme(savedTheme, false);
 loadData();
 </script>
-<script src="site.js?v=9"></script>
+<script src="site.js?v=10"></script>
 <!-- Gated fair-value calculator + user accounts (extends the terminal) -->
 <script src="accounts/config.js?v=3"></script>
 <script src="accounts/api.js?v=11"></script>

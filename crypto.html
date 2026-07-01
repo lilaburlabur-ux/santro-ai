@@ -2,7 +2,12 @@
 <html lang="en">
 <head>
 <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#0a0e13" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="Santro AI" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 <title>AI Crypto Tokens — 1h &amp; 24h Movers | Santro AI</title>
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
 <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png" />
@@ -25,7 +30,7 @@
 <meta name="twitter:description" content="The AI token market on one screen, sized by 1h or 24h move. Open any token for its own page." />
 <meta name="twitter:image" content="https://santroai.tech/assets/og-crypto.png" />
 <script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
-<link rel="stylesheet" href="site.css?v=10" />
+<link rel="stylesheet" href="site.css?v=11" />
 <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
 <style>
   .ctrlbar{display:flex; flex-wrap:wrap; align-items:center; gap:22px; margin:4px 0 14px;}
@@ -51,6 +56,7 @@
   .detail{margin-top:14px;}
   /* basket table — landing state of the detail card */
   .sect-tbl{width:100%; border-collapse:collapse; font-size:13px;}
+  @media (max-width:640px){ .sect-tbl{display:block; overflow-x:auto; -webkit-overflow-scrolling:touch;} }
   .sect-tbl th{font-size:9.5px; text-transform:uppercase; letter-spacing:.6px; color:var(--faint);
     text-align:left; font-weight:700; padding:2px 10px 7px; border-bottom:1px solid var(--border);}
   .sect-tbl td{padding:6px 10px; border-bottom:1px solid var(--border-soft);}
@@ -520,6 +526,6 @@ async function loadTOANews(){
 
 load(); setInterval(load, 60000);
 </script>
-<script src="site.js?v=9"></script>
+<script src="site.js?v=10"></script>
 </body>
 </html>

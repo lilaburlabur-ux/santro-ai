@@ -2,7 +2,12 @@
 <html lang="en">
 <head>
 <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#0a0e13" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="Santro AI" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 <meta name="robots" content="noindex,follow" />
 <title>Ticker | Santro AI</title>
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
@@ -13,7 +18,7 @@
 <link rel="manifest" href="/manifest.json" />
 <meta name="description" content="AI ticker page on Santro AI: price, move, why it's moving, sector and AI bubble context, chart and related news. Quotes delayed ~15 min. Not financial advice." />
 <script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
-<link rel="stylesheet" href="site.css?v=10" />
+<link rel="stylesheet" href="site.css?v=11" />
 <script src="ticker-about.js?v=1"></script>
 <style>
   .tp-head{display:flex; align-items:center; gap:16px; flex-wrap:wrap; padding:6px 0 18px;}
@@ -305,7 +310,7 @@ async function refresh(){
 }
 load(); setInterval(refresh, 60000);
 </script>
-<script src="site.js?v=9"></script>
+<script src="site.js?v=10"></script>
 <script src="accounts/config.js?v=3"></script>
 <script src="accounts/api.js?v=11"></script>
 <script src="accounts/accounts.js?v=13"></script>

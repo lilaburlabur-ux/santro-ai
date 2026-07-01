@@ -10,7 +10,7 @@
 | AMD | $881.96B | +281% | 41.0 | 13% | High | Low (expensive) | High |
 | INTC | $638.40B | +467% | 81.7 | -6% | High | Low (expensive) | High |
 | ARM | $360.44B | +109% | 109.3 | 18% | High | Low (expensive) | High |
-| MRVL | $237.99B | +252% | 44.0 | 29% | High | Low (expensive) | High |
+| MRVL | $238.19B | +252% | 44.0 | 29% | High | Low (expensive) | High |
 | QCOM | $191.74B | +17% | 16.6 | 22% | Moderate | Reasonable | High |
 | NXPI | $70.48B | +30% | 15.8 | 21% | Moderate | Reasonable | High |
 | LSCC | $20.04B | +199% | 63.3 | 3% | High | Low (expensive) | High |

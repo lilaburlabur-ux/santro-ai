@@ -36,10 +36,10 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
+| SoftBank reportedly reopens talks for $10bn loan backed by OpenAI stake | Investing.com | 2026-07-01 |
 | Meta Cloud Report Hits AI Infrastructure Stocks | GuruFocus.com | 2026-07-01 |
 | Nvidia, AMD, Intel Lead AI Chip Stock Rally as Wall Street Rebounds | GuruFocus.com | 2026-06-30 |
 | Chip Stocks’ Best Quarter Ever Is Ending With Some Wild Swings | Bloomberg | 2026-06-30 |
-| Arm Holdings Expands Its AI Data Center Push With AGI CPU | Zacks | 2026-06-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

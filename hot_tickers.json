@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-01T00:16:57+00:00",
+  "as_of": "2026-07-01T00:32:11+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,22 +9,6 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "AMBA",
-   "company": "Ambarella Inc",
-   "move_pct": 28.04,
-   "price": 85.8,
-   "volume": 6951621,
-   "volume_vs_avg": "~4x",
-   "heat_score": 99,
-   "direction": "up",
-   "why": "Ambarella Stock Rockets As AI Chipmaker Scores 'Top Pick' Rating",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/news/technology/ambarella-stock-rockets-ai-chipmaker-top-pick-rating/?src=A00220&yptr=yahoo",
-   "published": "2026-06-30T20:24:52Z",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 2,
    "ticker": "AVAV",
    "company": "AeroVironment Inc",
    "move_pct": 18.76,
@@ -38,6 +22,22 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-end-higher-225735047.html",
    "published": "2026-06-30T22:57:35Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 2,
+   "ticker": "AMBA",
+   "company": "Ambarella Inc",
+   "move_pct": 28.04,
+   "price": 85.8,
+   "volume": 6951621,
+   "volume_vs_avg": "~4x",
+   "heat_score": 84,
+   "direction": "up",
+   "why": "Moving up 28.0% on ~4x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
+   "sector": "Chip Equipment & AI Hardware"
   },
   {
    "rank": 3,

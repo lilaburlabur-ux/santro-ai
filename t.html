@@ -244,7 +244,7 @@ async function load(){
     <div class="sec-label">Chart · TradingView</div>
     <div class="tradingview-widget-container" id="tvchart"><div class="tradingview-widget-container__widget"></div></div>
     ${bigChart(t.spark)}
-    ${r?`<div class="sec-label">Method scores · signed ${research.signed} (research journal, not advice)</div>
+    ${r?`<div class="sec-label">Method scores · signed ${research.signed} (research notes, not advice)</div>
       ${r.thesis?`<div class="thesis">${r.thesis}</div><div style="height:8px"></div>`:""}
       <div class="chips">
         ${chip("Technical",r.scores.technical)}${chip("Narrative",r.scores.narrative)}

@@ -38,8 +38,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 |---|---|---|
 | Tech stocks post best 6 months since 2023 — even with much of the 'Magnificent 7' in the 'penalty box': Chart of the Day | Yahoo Finance | 2026-06-30 |
 | Were the Mag 7 more like the Lag 7 in Q2 2026? | Yahoo Finance Video | 2026-06-30 |
-| MU, SNDK, STX, WDC Stocks Slide Premarket: Is The Red-Hot Memory Rally Cooling? | Stocktwits | 2026-07-01 |
-| Jim Cramer Names 5 Top AI Spending Cycle Stocks | BeInCrypto | 2026-07-01 |
+| This Semiconductor ETF’s 96% Gain Hinges on a Single $1 Trillion Question | 24/7 Wall St. | 2026-07-01 |
+| Nasdaq, S&P 500, Dow Futures Slip After Historic First-Half Rally As Investors Await Labor Data, Fed Signals: Why NKE, TSLA, NIO, MU, LUNR, CVKD Are In Focus | Stocktwits | 2026-07-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,7 +74,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 81.53% |
+| Institutional ownership | 81.46% |
 | Insider ownership | 0.25% |
 | Short float | 3.69% |
 | Short ratio (days to cover) | 0.8 |
@@ -120,7 +120,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | SMA50 dist | +39.09% | ROE | 66.64% |
 | SMA200 dist | +164.89% | Revenue (ttm) | $90.27B |
 | 52W high | $1,213.56 | Revenue growth y/y | 345.70% |
-| 52W low | $104.73 | Inst. ownership | 81.53% |
+| 52W low | $104.73 | Inst. ownership | 81.46% |
 | P/E (ttm) | 26.11 | Insider ownership | 0.25% |
 | Forward P/E | 7.71 | Short float | 3.69% |
 | PEG (trailing) | 0.17 | Avg volume | 52,020,003 |

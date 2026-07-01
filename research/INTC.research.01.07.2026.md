@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Tech stocks post best 6 months since 2023 — even with much of the 'Magnificent 7' in the 'penalty box': Chart of the Day | Yahoo Finance | 2026-06-30 |
+| Alpha & Omega Semiconductor (AOSL) Launches Multiphase Controllers for Next-Gen Intel Processors | Insider Monkey | 2026-07-01 |
 | Jim Cramer Names 5 Top AI Spending Cycle Stocks | BeInCrypto | 2026-07-01 |
 | Could Lam Research Be the Next $1 Trillion Company? | Motley Fool | 2026-07-01 |
-| Why Did INTC, AMD, BB Stocks Surge To 52-Week Highs? | Stocktwits | 2026-07-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

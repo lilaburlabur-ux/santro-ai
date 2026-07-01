@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Nvidia stock is sagging. Here's what's behind the negative short-term trend. | Yahoo Finance | 2026-06-30 |
-| Companies trying to challenge Nvidia's AI chip dominance | Quartz | 2026-07-01 |
-| Which Financial Stocks Actually Benefit When Interest Rates Stay High? | Motley Fool | 2026-07-01 |
-| Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. | Motley Fool | 2026-07-01 |
+| Nvidia's CEO Jensen Huang Just Called Marvell Technology The Next Trillion-Dollar Company. But Is It the Better Stock to Buy? | Motley Fool | 2026-07-01 |
+| XRP Investment Potential: What $10,000 Could Grow Into Over the Next 5 Years | Motley Fool | 2026-07-01 |
+| The Smartest S&P 500 ETF to Buy With $1,000 Right Now | Motley Fool | 2026-07-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,7 +74,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 70.88% |
+| Institutional ownership | 70.84% |
 | Insider ownership | 3.98% |
 | Short float | 1.29% |
 | Short ratio (days to cover) | 1.7 |
@@ -119,7 +119,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | SMA50 dist | -4.64% | ROE | 114.29% |
 | SMA200 dist | +4.96% | Revenue (ttm) | $253.49B |
 | 52W high | $235.47 | Revenue growth y/y | 85.20% |
-| 52W low | $153.10 | Inst. ownership | 70.88% |
+| 52W low | $153.10 | Inst. ownership | 70.84% |
 | P/E (ttm) | 30.69 | Insider ownership | 3.98% |
 | Forward P/E | 15.68 | Short float | 1.29% |
 | PEG (trailing) | 0.62 | Avg volume | 160,296,779 |

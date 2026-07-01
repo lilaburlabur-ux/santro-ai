@@ -37,9 +37,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | AMD stock jumps, Circle plummets on stablecoin competition | Yahoo Finance Video | 2026-06-30 |
+| AMD Nears $1 Trillion Mark Proving Nvidia’s Huang Wrong | Barrons.com | 2026-07-01 |
 | Jim Cramer Names 5 Top AI Spending Cycle Stocks | BeInCrypto | 2026-07-01 |
 | Could Lam Research Be the Next $1 Trillion Company? | Motley Fool | 2026-07-01 |
-| Why Did INTC, AMD, BB Stocks Surge To 52-Week Highs? | Stocktwits | 2026-07-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -124,7 +124,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | 52W low | $134.80 | Inst. ownership | 72.09% |
 | P/E (ttm) | 192.35 | Insider ownership | 0.40% |
 | Forward P/E | 44.09 | Short float | 2.88% |
-| PEG (trailing) | 1.29 | Avg volume | 37,347,598 |
+| PEG (trailing) | 1.39 | Avg volume | 37,347,598 |
 | P/S | 25.29 | Employees | 31,000 |
 | P/B | 14.69 | Analyst rec (1=buy..5=sell) | 1.5 |
 

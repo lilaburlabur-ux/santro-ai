@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Alphabet’s $2 Trillion Gain Turns ‘Rock Star’ Into Question Mark | Bloomberg | 2026-07-01 |
 | Taiwan Semiconductor Manufacturing (TSM) Stock May Still Look Cheap On Record AI Earnings | Simply Wall St. | 2026-07-01 |
 | Mizuho lifts TSMC CoWoS capacity forecasts as server CPU demand surges | Investing.com | 2026-06-30 |
 | Etched Raises $800 Million as AI Chip Race Intensifies | GuruFocus.com | 2026-06-30 |
-| TSMC targets 2029 for panel-level CoPoS packaging in AI chip push - DigiTimes | Investing.com | 2026-06-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,7 +74,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 15.64% |
+| Institutional ownership | 15.62% |
 | Insider ownership | 0.04% |
 | Short float | 0.51% |
 | Short ratio (days to cover) | 2.0 |
@@ -121,7 +121,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | SMA50 dist | +14.82% | ROE | 36.21% |
 | SMA200 dist | +40.17% | Revenue (ttm) | $4.10T |
 | 52W high | $477.57 | Revenue growth y/y | 35.10% |
-| 52W low | $222.22 | Inst. ownership | 15.64% |
+| 52W low | $222.22 | Inst. ownership | 15.62% |
 | P/E (ttm) | 41.49 | Insider ownership | 0.04% |
 | Forward P/E | 23.73 | Short float | 0.51% |
 | PEG (trailing) | 1.50 | Avg volume | 13,702,456 |

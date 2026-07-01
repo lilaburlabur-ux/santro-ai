@@ -5,7 +5,7 @@ Signed file: `MRVL.research.01.07.2026`
 | Field | Value |
 |---|---|
 | Current price | $297.89 (2026-07-01, ~15-min delayed) |
-| Market cap | $260.59B |
+| Market cap | $260.82B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: low (expensive), risk: high. |
@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Dow Jones Futures Fall, Bloom Energy Jumps; SpaceX's First Buy Point | Investor's Business Daily | 2026-07-01 |
+| Nvidia's CEO Jensen Huang Just Called Marvell Technology The Next Trillion-Dollar Company. But Is It the Better Stock to Buy? | Motley Fool | 2026-07-01 |
+| AMD Nears $1 Trillion Mark Proving Nvidia’s Huang Wrong | Barrons.com | 2026-07-01 |
 | Jim Cramer Names 5 Top AI Spending Cycle Stocks | BeInCrypto | 2026-07-01 |
-| Could Lam Research Be the Next $1 Trillion Company? | Motley Fool | 2026-07-01 |
-| Dow Jones Futures Fall, Bloom Energy Soars Late; SpaceX's First Buy Point | Investor's Business Daily | 2026-07-01 |
-| Marvell (MRVL) Stock Looks Overvalued On Earnings But Strong On Returns | Simply Wall St. | 2026-07-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $8.72B | Revenue growth 27.60% y/y |
 | Profitability | Gross 51.50%, operating 14.48%, net 28.99% | ROA 3.81%, ROE 16.03% |
 | Balance sheet | Cash $3.84B, debt $5.28B | Current ratio 3.28, debt/equity 28.97 |
-| Valuation | P/E 102.02, forward P/E 48.22, P/S 29.89, P/B 14.32 | EV/Sales 30.06, EV/EBITDA 96.62 |
+| Valuation | P/E 102.02, forward P/E 48.22, P/S 29.92, P/B 14.32 | EV/Sales 30.06, EV/EBITDA 96.62 |
 | Growth expectations | Earnings growth -80.40%, EPS q/q -80.60% | Analyst mean target $249.33 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -114,7 +114,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $297.89 | EV/Sales | 30.06 |
-| Market cap | $260.59B | EV/EBITDA | 96.62 |
+| Market cap | $260.82B | EV/EBITDA | 96.62 |
 | Beta | 2.28 | Gross margin | 51.50% |
 | RSI(14) | 59.3 | Operating margin | 14.48% |
 | ATR(14) | 26.67 | Profit margin | 28.99% |
@@ -126,7 +126,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | P/E (ttm) | 102.02 | Insider ownership | 0.69% |
 | Forward P/E | 48.22 | Short float | 5.26% |
 | PEG (trailing) | 1.68 | Avg volume | 42,974,319 |
-| P/S | 29.89 | Employees | 7,480 |
+| P/S | 29.92 | Employees | 7,480 |
 | P/B | 14.32 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions

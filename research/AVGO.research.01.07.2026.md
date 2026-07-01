@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| This Semiconductor ETF’s 96% Gain Hinges on a Single $1 Trillion Question | 24/7 Wall St. | 2026-07-01 |
+| AMD Nears $1 Trillion Mark Proving Nvidia’s Huang Wrong | Barrons.com | 2026-07-01 |
 | This Blue-Chip Dividend Stock Just Boosted Its Payout by 200% to $0.60 Per Share | Barchart | 2026-06-30 |
 | S&P 500, Nasdaq Rode AI Boom to First-Half Records | The Wall Street Journal | 2026-06-30 |
-| Marvell Stock And The High-Stakes Forecast Behind The AI Story | Trefis | 2026-06-30 |
-| Broadcom’s Stock Has Slumped Over 20% From Its Highs. These Experts Say They Would Buy the Dip | Investopedia | 2026-06-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

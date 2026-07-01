@@ -10,7 +10,7 @@ const sitemap = fs.readFileSync(path.join(HERE, "sitemap.xml"), "utf8");
 const m = html.match(/window\.BURRY_SHORT_WATCH\s*=\s*(\{[\s\S]*?\n\};)/);
 let B = null; try { if (m) B = (new Function("return " + m[1]))(); } catch (e) { console.log("model err", e.message); }
 
-const SAFE = ["confirmed_primary_source", "substack_reported", "sec_filing_reported", "reputable_media_reported"];
+const SAFE = ["confirmed_primary_source", "substack_reported", "sec_filing_verified", "sec_filing_reported", "reputable_media_reported"];
 const main = (B ? B.positions : []).filter(p => p.include_in_main_bubble_map);
 
 console.log("\nData model + source-gating");

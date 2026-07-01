@@ -93,6 +93,7 @@
   .needsverify{color:var(--faint);font-style:italic;}
   .pill{display:inline-block;font-size:9.5px;font-weight:700;padding:2px 7px;border-radius:999px;white-space:nowrap;}
   .pill.reported{background:rgba(34,197,94,.08);color:#34d399;border:1px solid rgba(52,211,153,.28);}
+  .pill.verified{background:rgba(34,197,94,.16);color:#22c55e;border:1px solid rgba(34,197,94,.5);}
   .pill.needs{background:rgba(224,167,63,.10);color:#e0a73f;border:1px solid rgba(224,167,63,.3);}
   .pill.context{background:rgba(91,157,240,.10);color:#7fb2f0;border:1px solid rgba(91,157,240,.3);}
   .pill.inst{background:var(--elev);color:var(--muted);border:1px solid var(--border);}
@@ -182,9 +183,10 @@
 
     <section>
       <h2>Positions — reported bearish exposure</h2>
-      <p class="sub">Reported via Scion's filings and reputable media. Notional is the value of the underlying,
-      not capital at risk. Current status runs through the Substack (not supplied here), so treat these as
-      reported as-of their source date.</p>
+      <p class="sub">Verified against Scion Asset Management's SEC 13F filings (CIK 0001649339). Notional is the
+      value of the underlying, not capital at risk, and 13Fs don't disclose strike or expiry. Scion's most recent
+      13F is Q3 2025 (filed 2025-11-03); <b style="color:var(--text)">no 13F has been filed since</b> — consistent
+      with the reported late-2025 wind-down — so these are as-of 30 Sep 2025 and the current status is not disclosed.</p>
       <div style="overflow-x:auto">
       <table class="btbl">
         <thead><tr>
@@ -195,18 +197,18 @@
           <tr>
             <td class="tk"><a href="/stocks/nvda">NVDA</a></td><td>Nvidia</td><td>Bearish</td>
             <td><span class="pill inst">PUT</span></td>
-            <td><span class="pill reported">reputable media reported</span></td><td><span class="conf-h">High</span></td>
-            <td><a href="https://www.fool.com/investing/2025/11/10/big-short-michael-burry-wager-ai-nvidia-palantir/" target="_blank" rel="noopener nofollow">The Motley Fool</a></td>
-            <td class="dt">2025-11-10</td><td class="dt">2026-07-01</td>
-            <td>Reported put position (~$186.5M notional; $110 strike, exp Dec 17 2027) — an AI/GPU-valuation bet. From Scion's Q3 2025 filing + 2026 reporting; fund since wound down — current status via Substack, not supplied.</td>
+            <td><span class="pill verified">SEC 13F · verified</span></td><td><span class="conf-h">High</span></td>
+            <td><a href="https://www.sec.gov/Archives/edgar/data/1649339/000164933925000007/0001649339-25-000007-index.html" target="_blank" rel="noopener nofollow">Scion 13F-HR (Q3 2025)</a></td>
+            <td class="dt">2025-11-03</td><td class="dt">2026-07-01</td>
+            <td>Verified in Scion's Q3 2025 13F (filed 2025-11-03, period 30 Sep 2025): a <b style="color:var(--text)">put on 1,000,000 NVDA shares, ~$186.58M notional</b> — an AI/GPU-valuation bet. 13F filings don't disclose strike or expiry. No 13F has been filed since (Scion reported wound down); current status not disclosed.</td>
           </tr>
           <tr>
             <td class="tk"><a href="/t?sym=PLTR">PLTR</a></td><td>Palantir</td><td>Bearish</td>
             <td><span class="pill inst">PUT</span></td>
-            <td><span class="pill reported">reputable media reported</span></td><td><span class="conf-h">High</span></td>
-            <td><a href="https://www.fool.com/investing/2025/11/10/big-short-michael-burry-wager-ai-nvidia-palantir/" target="_blank" rel="noopener nofollow">The Motley Fool</a></td>
-            <td class="dt">2025-11-10</td><td class="dt">2026-07-01</td>
-            <td>Reported put position (~$912M notional) — AI-software valuation bet. Reporting notes PLTR down materially in 2026. As-of the source date; current status via Substack, not supplied.</td>
+            <td><span class="pill verified">SEC 13F · verified</span></td><td><span class="conf-h">High</span></td>
+            <td><a href="https://www.sec.gov/Archives/edgar/data/1649339/000164933925000007/0001649339-25-000007-index.html" target="_blank" rel="noopener nofollow">Scion 13F-HR (Q3 2025)</a></td>
+            <td class="dt">2025-11-03</td><td class="dt">2026-07-01</td>
+            <td>Verified in Scion's Q3 2025 13F (filed 2025-11-03): a <b style="color:var(--text)">put on 5,000,000 PLTR Class A shares, ~$912.1M notional</b> — an AI-software valuation bet. No 13F has been filed since; current status not disclosed.</td>
           </tr>
         </tbody>
       </table>
@@ -320,7 +322,7 @@
 
 <script>
 // ── Source-gated data model — Michael Burry AI Short Watch ──
-// Only reputable_media_reported / substack_reported / sec_filing_reported /
+// Only reputable_media_reported / substack_reported / sec_filing_verified / sec_filing_reported /
 // confirmed_primary_source items enter the main bubble map. We hold NO Substack
 // text (paywalled, not supplied), so nothing is marked substack_reported/confirmed.
 window.BURRY_SHORT_WATCH = {
@@ -331,25 +333,26 @@ window.BURRY_SHORT_WATCH = {
   main_source_policy: "Cassandra Unchained Substack as primary when supplied; SEC filings + reputable media for context/verification.",
   last_updated: "2026-07-01",
   last_source_reviewed: "2026-07-01",
+  sec_edgar_verified: "2026-07-01 — Scion Asset Management (CIK 0001649339): latest 13F is Q3 2025, filed 2025-11-03 (accession 0001649339-25-000007); no 13F filed since. NVDA + PLTR puts confirmed in the information table.",
   full_position_list_verified: false,
   disclaimer: "May not represent Michael Burry's complete or current positions. Puts, shorts, valuation commentary and historical positions are labeled separately. Scion was reported wound down in late 2025. Not financial advice.",
   positions: [
     { ticker:"NVDA", company_name:"Nvidia", asset_type:"stock", directional_view:"bearish", instrument_type:"put_option",
-      position_status:"reputable_media_reported", confidence_level:"high", source_type:"reputable_media",
-      source_name:"The Motley Fool", source_url:"https://www.fool.com/investing/2025/11/10/big-short-michael-burry-wager-ai-nvidia-palantir/",
-      source_date:"2025-11-10", substack_post_title:null, substack_post_date:null,
-      reported_entry_or_reference_price:null, option_expiry:"2027-12-17",
-      thesis_summary:"Reported put (~$186.5M notional; $110 strike, exp Dec 2027) — AI/GPU-valuation bet.",
+      position_status:"sec_filing_verified", confidence_level:"high", source_type:"sec_filing",
+      source_name:"SEC EDGAR — Scion 13F-HR (Q3 2025)", source_url:"https://www.sec.gov/Archives/edgar/data/1649339/000164933925000007/0001649339-25-000007-index.html",
+      source_date:"2025-11-03", substack_post_title:null, substack_post_date:null,
+      reported_entry_or_reference_price:null, option_expiry:null, underlying_shares:1000000, reported_notional_usd:186580000,
+      thesis_summary:"Disclosed put on 1,000,000 NVDA shares (~$186.58M notional) in Scion's Q3 2025 13F — AI/GPU-valuation bet.",
       ai_relevance:"GPU leader / AI infrastructure", ticker_page_url:"/stocks/nvda",
-      include_in_main_bubble_map:true, notes:"From Scion Q3 2025 filing + 2026 reporting; fund since wound down.", last_updated:"2026-07-01" },
+      include_in_main_bubble_map:true, notes:"Verified in Scion's Q3 2025 13F (filed 2025-11-03). 13Fs don't disclose strike/expiry. No 13F filed since; Scion reported wound down — current status not disclosed.", last_updated:"2026-07-01" },
     { ticker:"PLTR", company_name:"Palantir", asset_type:"stock", directional_view:"bearish", instrument_type:"put_option",
-      position_status:"reputable_media_reported", confidence_level:"high", source_type:"reputable_media",
-      source_name:"The Motley Fool", source_url:"https://www.fool.com/investing/2025/11/10/big-short-michael-burry-wager-ai-nvidia-palantir/",
-      source_date:"2025-11-10", substack_post_title:null, substack_post_date:null,
-      reported_entry_or_reference_price:null, option_expiry:null,
-      thesis_summary:"Reported put (~$912M notional) — AI-software valuation bet.",
+      position_status:"sec_filing_verified", confidence_level:"high", source_type:"sec_filing",
+      source_name:"SEC EDGAR — Scion 13F-HR (Q3 2025)", source_url:"https://www.sec.gov/Archives/edgar/data/1649339/000164933925000007/0001649339-25-000007-index.html",
+      source_date:"2025-11-03", substack_post_title:null, substack_post_date:null,
+      reported_entry_or_reference_price:null, option_expiry:null, underlying_shares:5000000, reported_notional_usd:912100000,
+      thesis_summary:"Disclosed put on 5,000,000 PLTR Class A shares (~$912.1M notional) in Scion's Q3 2025 13F.",
       ai_relevance:"AI software / narrative valuation risk", ticker_page_url:"/t?sym=PLTR",
-      include_in_main_bubble_map:true, notes:"As-of source date; current status via Substack, not supplied.", last_updated:"2026-07-01" },
+      include_in_main_bubble_map:true, notes:"Verified in Scion's Q3 2025 13F (filed 2025-11-03). No 13F filed since.", last_updated:"2026-07-01" },
     { ticker:"SOXX", company_name:"iShares Semiconductor ETF", asset_type:"etf", directional_view:"bearish", instrument_type:"etf_put",
       position_status:"needs_verification", confidence_level:"medium", source_type:"reputable_media",
       source_name:"", source_url:"", source_date:"", substack_post_title:null, substack_post_date:null,
@@ -393,7 +396,7 @@ window.BURRY_SHORT_WATCH = {
 (function(){
   "use strict";
   var B = window.BURRY_SHORT_WATCH;
-  var SAFE = ["confirmed_primary_source","substack_reported","sec_filing_reported","reputable_media_reported"];
+  var SAFE = ["confirmed_primary_source","substack_reported","sec_filing_verified","sec_filing_reported","reputable_media_reported"];
   var INST = { put_option:"PUT", short_stock:"SHORT", etf_put:"ETF PUT", valuation_commentary:"VALUATION", source_needed:"VERIFY", unknown:"VERIFY" };
   var bmap = document.getElementById("bmap"), detail = document.getElementById("bub-detail");
   var win = "1D", moves = {};

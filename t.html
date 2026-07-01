@@ -133,6 +133,7 @@ const UNI_SHORT={
 const SESSION_LBL={pre:"premarket", regular:"market open", post:"after hours", closed:"market closed"};
 
 const SYM=(new URLSearchParams(location.search).get("sym")||"NVDA").toUpperCase();
+const JUNK_WHY=/if you'?d invested|here'?s how much|you'?d have (today|now)|\$[\d,]+ (in|invested)\b|should you buy|is it too late|\b\d+ reasons?\b|\bbest (ai |growth )?stocks?\b|\b\d+ (ai |growth |tech |top )?stocks? (to|you|that|worth)\b|where will .+ be in|here'?s why .+ (could|will|might|would)/i;
 
 function bigChart(s){
   if(!s||s.length<3) return "";
@@ -189,14 +190,14 @@ async function load(){
   const session=(universe&&universe.meta.session)||(eco&&eco.meta.session)||"";
   const r=research&&research.stocks?research.stocks[SYM]:null;
   const hl=(SYM==="SPCX"&&tweets&&tweets.meta&&tweets.meta.hyperliquid)?Number(tweets.meta.hyperliquid):null;
-  const items=(news&&news.items?news.items:[]).filter(it=>(it.tickers||[]).includes(SYM)).slice(0,6);
+  const items=(news&&news.items?news.items:[]).filter(it=>(it.tickers||[]).includes(SYM) && !JUNK_WHY.test(it.title||"")).slice(0,6);
   const hotRow=(hot&&hot.hot_tickers||[]).find(x=>x.ticker===SYM)||null;
   const ix=(bubbleIx&&bubbleIx.index)||null;
   const catLabel=hotRow?(hotRow.catalyst_type==="no_news_mover"
       ?`<span class="nocat">No clear catalyst found</span>`:hotRow.catalyst_type.replace(/_/g," ")):"";
   const whySrc=hotRow&&hotRow.source_url?` · <a href="${hotRow.source_url}" target="_blank" rel="noopener">source ↗</a>`:"";
   const whyWhen=hotRow&&hotRow.published?` · ${timeAgo(hotRow.published)}`:"";
-  const whySection=hotRow?`
+  const whySection=(hotRow && !JUNK_WHY.test(hotRow.why||""))?`
     <div class="sec-label">Why it's moving</div>
     <div class="whybox"><div class="wt">${hotRow.why}</div>
       <div class="wm">${catLabel}${whyWhen}${whySrc}</div></div>`:"";

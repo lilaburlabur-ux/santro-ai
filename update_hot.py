@@ -20,6 +20,7 @@ Output: hot_tickers.json
 import os
 import sys
 import json
+import re
 import datetime as dt
 from zoneinfo import ZoneInfo
 
@@ -53,6 +54,13 @@ CATALYST_KEYWORDS = [
     ("regulatory", ["regulat", "antitrust", "probe", "export", "ban", "tariff", "curbs", "license"]),
 ]
 
+# Clickbait / listicle / promo headlines are NOT catalysts — never use as a "why".
+JUNK_HEADLINE = re.compile(
+    r"if you'?d invested|here'?s how much|you'?d have (today|now)|\$[\d,]+ (in|invested)\b"
+    r"|should you buy|is it too late|\b\d+ reasons?\b|\bbest (ai |growth )?stocks?\b"
+    r"|\b\d+ (ai |growth |tech |top )?stocks? (to|you|that|worth)\b|where will .+ be in"
+    r"|here'?s why .+ (could|will|might|would)", re.I)
+
 
 def fresh_news(hours=4):
     """ticker -> freshest story within the window."""
@@ -65,6 +73,8 @@ def fresh_news(hours=4):
             except Exception:
                 continue
             if (now - ts).total_seconds() <= hours * 3600:
+                if JUNK_HEADLINE.search(it.get("title") or ""):
+                    continue   # skip clickbait/listicle — not a real catalyst
                 for tk in it.get("tickers", []):
                     out.setdefault(tk, {"title": it["title"], "url": it.get("url", ""),
                                         "published": it["published"]})

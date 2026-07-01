@@ -5,7 +5,7 @@ Signed file: `MRVL.research.01.07.2026`
 | Field | Value |
 |---|---|
 | Current price | $272.05 (2026-07-01, ~15-min delayed) |
-| Market cap | $238.19B |
+| Market cap | $237.99B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: low (expensive), risk: high. |
@@ -113,7 +113,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $272.05 | EV/Sales | 30.06 |
-| Market cap | $238.19B | EV/EBITDA | 96.62 |
+| Market cap | $237.99B | EV/EBITDA | 96.62 |
 | Beta | 2.28 | Gross margin | 51.50% |
 | RSI(14) | 52.5 | Operating margin | 14.48% |
 | ATR(14) | 26.66 | Profit margin | 28.99% |

@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Why investors should 'complement' their SpaceX ETFs with these other themes | Yahoo Finance Video | 2026-07-01 |
+| Big Tech's first half was a story of hardware versus software | Yahoo Finance | 2026-07-01 |
 | Meta AI Cloud Push Sends Nvidia, AMD, Intel, Micron Stocks Sinking | GuruFocus.com | 2026-07-01 |
 | Meta Cloud Report Hits AI Infrastructure Stocks | GuruFocus.com | 2026-07-01 |
-| Stocks making big moves yesterday: Cogent, Vishay Intertechnology, AeroVironment, Intel, and Coty | StockStory | 2026-07-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

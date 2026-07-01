@@ -291,14 +291,40 @@
     // market's own assumption and adjusts from there (not an arbitrary 12%).
     const g0 = stat.impliedGrowth != null ? Math.round(stat.impliedGrowth * 10) / 10 : 12;
     const gi = stat.impliedGrowth;
-    const assume = user ? `<div class="sa-presets" id="sa-presets"><span class="sa-preset-lbl">Scenario:</span>
+    const eps0 = ctx.fwdEps && ctx.fwdEps > 0 ? ctx.fwdEps : (ctx.pe && ctx.pe > 0 ? Math.round(ctx.price / ctx.pe * 100) / 100 : "");
+    const assume = user ? `
+      <div class="sa-modeltabs" id="sa-modeltabs">
+        <button type="button" class="sa-mtab on" data-m="dcf" title="10-yr two-stage discounted cash flow on EPS">DCF</button>
+        <button type="button" class="sa-mtab" data-m="pe" title="Fair value = EPS × a target P/E multiple">Fair P/E</button>
+        <button type="button" class="sa-mtab" data-m="graham" title="Graham 1974: EPS × (8.5 + 2g) × 4.4 / AAA yield">Graham</button>
+        <button type="button" class="sa-mtab" data-m="peg" title="Lynch: fair P/E = PEG × growth">PEG</button>
+      </div>
+      <div class="sa-assume sa-epsrow">
+        <div class="f"><label>Earnings base $/sh <span class="sa-hint">(default: forward EPS — lower it to normalize peak-cycle earnings)</span></label>
+          <input id="sa-eps" type="number" step="0.01" value="${eps0}"></div>
+      </div>
+      <div class="sa-presets" id="sa-presets" data-for="dcf graham peg"><span class="sa-preset-lbl">Growth:</span>
         <button type="button" class="sa-chipbtn" data-g="${gi != null ? Math.round(gi * 10) / 10 : 0}">Market-implied ${gi != null ? (gi >= 0 ? "+" : "") + gi.toFixed(1) + "%" : "—"}</button>
         <button type="button" class="sa-chipbtn" data-g="4">Conservative 4%</button>
         <button type="button" class="sa-chipbtn" data-g="8">Moderate 8%</button>
         <button type="button" class="sa-chipbtn" data-g="14">Aggressive 14%</button>
-      </div><div class="sa-assume" id="sa-assume">
-        <div class="f"><label>Growth % / yr <span class="sa-hint">(custom — negative allowed)</span></label><input id="sa-g" type="number" step="0.5" value="${g0}"></div>
+      </div>
+      <div class="sa-assume" data-for="dcf graham peg" style="display:flex">
+        <div class="f"><label>Growth % / yr <span class="sa-hint">(negative allowed)</span></label><input id="sa-g" type="number" step="0.5" value="${g0}"></div>
+      </div>
+      <div class="sa-assume" data-for="dcf" style="display:flex">
         <div class="f"><label>Discount rate %</label><input id="sa-r" type="number" step="0.25" value="9"></div>
+        <div class="f"><label>Years</label><input id="sa-y" type="number" step="1" min="3" max="15" value="10"></div>
+        <div class="f"><label>Terminal growth %</label><input id="sa-tg" type="number" step="0.25" value="2.5"></div>
+      </div>
+      <div class="sa-assume" data-for="pe" style="display:none">
+        <div class="f"><label>Target P/E × <span class="sa-hint">(current ${ctx.pe && ctx.pe > 0 ? "~" + ctx.pe.toFixed(0) + "×" : "n/a"})</span></label><input id="sa-mult" type="number" step="0.5" value="18"></div>
+      </div>
+      <div class="sa-assume" data-for="graham" style="display:none">
+        <div class="f"><label>AAA bond yield %</label><input id="sa-aaa" type="number" step="0.1" value="5.0"></div>
+      </div>
+      <div class="sa-assume" data-for="peg" style="display:none">
+        <div class="f"><label>Target PEG ×</label><input id="sa-peg" type="number" step="0.1" value="1.0"></div>
       </div>` : "";
     return assume + `<div class="sa-runrow">
         <button class="sa-run" id="sa-run">▶ Run valuation</button>
@@ -307,10 +333,18 @@
   }
   function nfaLine() { return `<div class="sa-nfa">Reverse-DCF &amp; sensitivity are scenarios, not forecasts. Premiums describe price vs. an assumption — a condition, not a recommendation. Not financial advice.</div>`; }
 
+  function activeModel(block) { return block.querySelector(".sa-mtab.on")?.dataset.m || "dcf"; }
   function wireRunRow(block, stat) {
     block.querySelectorAll(".sa-chipbtn").forEach((c) => { c.onclick = () => {
       const g = block.querySelector("#sa-g"); if (g) g.value = c.dataset.g;
       block.querySelectorAll(".sa-chipbtn").forEach((x) => x.classList.toggle("on", x === c));
+    }; });
+    block.querySelectorAll(".sa-mtab").forEach((t) => { t.onclick = () => {
+      block.querySelectorAll(".sa-mtab").forEach((x) => x.classList.toggle("on", x === t));
+      const m = t.dataset.m;
+      block.querySelectorAll("[data-for]").forEach((d) => {
+        d.style.display = d.dataset.for.split(" ").includes(m) ? "flex" : "none";
+      });
     }; });
     const runBtn = block.querySelector("#sa-run");
     if (runBtn) runBtn.onclick = () => doRun(block, stat);
@@ -332,15 +366,26 @@
     const out = block.querySelector("#sa-out");
     const runBtn = block.querySelector("#sa-run"); runBtn.disabled = true;
     out.innerHTML = skeletonResults();
-    const growth = num(block.querySelector("#sa-g"), 12), discount = num(block.querySelector("#sa-r"), 9);
+    const model = activeModel(block);
+    const a = { model,
+      epsBase: num(block.querySelector("#sa-eps"), null),
+      growth: num(block.querySelector("#sa-g"), 12), discount: num(block.querySelector("#sa-r"), 9),
+      years: num(block.querySelector("#sa-y"), 10), tgrowth: num(block.querySelector("#sa-tg"), 2.5),
+      mult: num(block.querySelector("#sa-mult"), 18), aaayield: num(block.querySelector("#sa-aaa"), 5.0),
+      peg: num(block.querySelector("#sa-peg"), 1.0) };
     try {
-      const res = await API.runValuation(ctx.ticker, { price: ctx.price, pe: ctx.pe, fwdEps: ctx.fwdEps, growth, discount });
-      out.innerHTML = resultsHtml(res, { growth, discount });
-      cache[ctx.ticker] = { res, a: { growth, discount } };   // survive panel re-renders
+      const res = await API.runValuation(ctx.ticker, Object.assign({ price: ctx.price, pe: ctx.pe, fwdEps: ctx.fwdEps }, a));
+      out.innerHTML = resultsHtml(res, a);
+      cache[ctx.ticker] = { res, a };   // survive panel re-renders
       wireSensRerun(block, stat);
       await refreshUsage(block);
       if (user && !res.storyStockFlag) {
-        API.saveValuation({ ticker: ctx.ticker, inputs: { growth, discount }, fair_value: res.fairValue, premium_pct: res.premiumPct })
+        const saved = { model, eps: res.epsUsed };
+        if (model === "pe") saved.mult = a.mult;
+        else if (model === "graham") { saved.growth = a.growth; saved.aaayield = a.aaayield; }
+        else if (model === "peg") { saved.growth = a.growth; saved.peg = a.peg; }
+        else { saved.growth = a.growth; saved.discount = a.discount; saved.years = a.years; }
+        API.saveValuation({ ticker: ctx.ticker, inputs: saved, fair_value: res.fairValue, premium_pct: res.premiumPct })
           .catch(() => {});
       }
     } catch (e) {
@@ -357,15 +402,21 @@
         positive, so there's no base for an earnings model. This name is priced on revenue and story, not profits.</div>`;
     }
     const over = res.premiumPct >= 0;
+    const MODEL_NOTE = {
+      dcf: `10-yr two-stage DCF on $${(res.epsUsed || 0).toFixed(2)}/sh: <b>${a.growth}%</b> growth for ${a.years || 10} yrs, ${a.tgrowth != null ? a.tgrowth : 2.5}% terminal, <b>${a.discount}%</b> discount.`,
+      pe: `Fair P/E multiple: $${(res.epsUsed || 0).toFixed(2)}/sh × <b>${a.mult}×</b> target multiple.`,
+      graham: `Graham (1974 revised): $${(res.epsUsed || 0).toFixed(2)}/sh × (8.5 + 2×<b>${a.growth}</b>) × 4.4 / <b>${a.aaayield}</b>% AAA yield.`,
+      peg: `Lynch PEG: fair P/E = <b>${a.peg}</b> PEG × <b>${a.growth}%</b> growth on $${(res.epsUsed || 0).toFixed(2)}/sh.`,
+    };
     return `<div class="sa-res">
       <div class="sa-resgrid">
-        <div class="sa-card"><div class="k">Fair value · your inputs</div><div class="v">${fmtUSD(res.fairValue)}</div></div>
+        <div class="sa-card"><div class="k">Fair value · ${(res.model || "dcf").toUpperCase()} · your inputs</div><div class="v">${fmtUSD(res.fairValue)}</div></div>
         <div class="sa-card"><div class="k">Premium vs price</div><div class="v ${over ? "over" : "under"}">${fmtPct(res.premiumPct)}</div></div>
       </div>
-      <div class="sa-priced">What the market is pricing in: about <b>${res.pricedInGrowth == null ? "—" : res.pricedInGrowth.toFixed(1) + "%"}</b>
-        annual earnings growth (reverse-DCF). Your run assumed <b>${a.growth}%</b> growth at a <b>${a.discount}%</b> discount rate.
-        If that priced-in pace looks demanding versus history, the premium is the market's optimism — a condition to watch, not advice.</div>
-      ${res.pricedInGrowth != null && res.pricedInGrowth < 2 && (a.growth - res.pricedInGrowth) >= 6 ? `<div class="sa-cycwarn">⚠ <b>Cyclical check:</b> the market prices in ~${res.pricedInGrowth.toFixed(1)}%/yr, but this run assumed ${a.growth}%. On names at peak earnings (very low forward P/E — often cyclicals like memory), growing peak EPS at a constant rate inflates fair value, so a large "discount" usually reflects the earnings cycle — not a mispricing.</div>` : ""}
+      <div class="sa-priced">${MODEL_NOTE[res.model || "dcf"] || ""} For reference, the market itself is pricing in about
+        <b>${res.pricedInGrowth == null ? "—" : res.pricedInGrowth.toFixed(1) + "%"}</b> annual earnings growth (reverse-DCF).
+        Premiums describe price vs. your assumption — a condition to watch, not advice.</div>
+      ${res.model !== "pe" && res.pricedInGrowth != null && res.pricedInGrowth < 2 && (a.growth - res.pricedInGrowth) >= 6 ? `<div class="sa-cycwarn">⚠ <b>Cyclical check:</b> the market prices in ~${res.pricedInGrowth.toFixed(1)}%/yr, but this run assumed ${a.growth}%. On names at peak earnings (very low forward P/E — often cyclicals like memory), growing peak EPS at a constant rate inflates fair value, so a large "discount" usually reflects the earnings cycle — not a mispricing.</div>` : ""}
       ${sensitivityHtml(res.sensitivityGrid, ctx.price)}
     </div>`;
   }
@@ -438,7 +489,11 @@
         box.innerHTML = vs.length ? `<div class="sa-list">${vs.map((v) => {
           const over = (v.premium_pct || 0) >= 0;
           return `<div class="sa-li"><span class="tk" data-tk="${esc(v.ticker)}">${esc(v.ticker)}</span>
-            <span class="meta">${fmtUSD(v.fair_value)} · <span class="${over ? "" : ""}">${fmtPct(v.premium_pct)}</span> · g ${esc((v.inputs || {}).growth)}% r ${esc((v.inputs || {}).discount)}%</span>
+            <span class="meta">${fmtUSD(v.fair_value)} · <span class="${over ? "" : ""}">${fmtPct(v.premium_pct)}</span> · ${(function(i){ i = i || {};
+              if (i.model === "pe") return "P/E " + esc(i.mult) + "×";
+              if (i.model === "graham") return "Graham g" + esc(i.growth) + "% Y" + esc(i.aaayield) + "%";
+              if (i.model === "peg") return "PEG " + esc(i.peg) + "× g" + esc(i.growth) + "%";
+              return "DCF g" + esc(i.growth) + "% r" + esc(i.discount) + "%"; })(v.inputs)}</span>
             <span class="meta sp">${new Date(v.created_at).toLocaleDateString()}</span>
             <button class="x" data-del="${esc(v.id)}" title="Delete">×</button></div>`;
         }).join("")}</div>` : `<div class="sa-empty">No saved valuations yet. Run one and it lands here.</div>`;

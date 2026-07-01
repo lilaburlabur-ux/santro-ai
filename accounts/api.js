@@ -202,6 +202,13 @@
     pv += terminal / Math.pow(1 + r, years);
     return pv;
   }
+  // Traditional single-shot models (assumption-based, educational)
+  function grahamValue(eps, g, aaa) {           // Graham 1974 revised: EPS x (8.5 + 2g) x 4.4 / Y
+    if (!aaa || aaa <= 0) aaa = 4.4;
+    return eps * (8.5 + 2 * Math.max(0, g)) * 4.4 / aaa;
+  }
+  function multipleValue(eps, mult) { return eps * mult; }
+  function pegValue(eps, g, peg) { return eps * Math.max(0, g) * peg; } // fair P/E = PEG x g
   function impliedGrowth(eps, price, r, years, tg) {
     // bisection: find g such that dcf == price
     let lo = -0.30, hi = 0.6;
@@ -230,21 +237,36 @@
         impliedGrowth: impliedGrowth(eps, price, 0.09, 10, 0.025) * 100,
         basis: (fwdEps && fwdEps > 0) ? "forward" : "trailing" };
     },
-    run(ticker, { price, pe, fwdEps, growth, discount }) {
-      const eps = this._eps(price, pe, fwdEps);
+    run(ticker, a) {
+      const { price, pe, fwdEps } = a;
+      const model = a.model || "dcf";
+      const eps = (a.epsBase != null && a.epsBase > 0) ? a.epsBase : this._eps(price, pe, fwdEps);
       if (eps == null) return { ticker, storyStockFlag: true, fairValue: null, premiumPct: null, pricedInGrowth: null, sensitivityGrid: null };
-      const years = 10, tg = 0.025;
-      const g = growth / 100, r = discount / 100;
-      const fair = dcf(eps, g, r, years, tg);
-      const grid = { growth: [], discount: [], cells: [] };
-      const gs = [growth - 4, growth - 2, growth, growth + 2, growth + 4];
-      const rs = [discount - 1.5, discount - 0.75, discount, discount + 0.75, discount + 1.5];
-      grid.growth = gs; grid.discount = rs;
-      gs.forEach((gg) => grid.cells.push(rs.map((rr) => dcf(eps, gg / 100, rr / 100, years, tg))));
+      const growth = a.growth != null ? a.growth : 8;
+      const discount = a.discount != null ? a.discount : 9;
+      const years = Math.min(15, Math.max(3, a.years != null ? a.years : 10));
+      const tg = (a.tgrowth != null ? a.tgrowth : 2.5) / 100;
+      let fair = null, grid = null;
+      if (model === "pe") {
+        fair = multipleValue(eps, a.mult != null ? a.mult : 18);
+      } else if (model === "graham") {
+        fair = grahamValue(eps, growth, a.aaayield != null ? a.aaayield : 5.0);
+      } else if (model === "peg") {
+        fair = pegValue(eps, growth, a.peg != null ? a.peg : 1.0);
+      } else {                                   // dcf (default)
+        fair = dcf(eps, growth / 100, discount / 100, years, tg);
+        grid = { growth: [], discount: [], cells: [] };
+        const gs = [growth - 4, growth - 2, growth, growth + 2, growth + 4];
+        const rs = [discount - 1.5, discount - 0.75, discount, discount + 0.75, discount + 1.5];
+        grid.growth = gs; grid.discount = rs;
+        gs.forEach((gg) => grid.cells.push(rs.map((rr) => dcf(eps, gg / 100, rr / 100, years, tg))));
+      }
       return {
-        ticker, storyStockFlag: false, fairValue: fair, premiumPct: (price / fair - 1) * 100,
-        pricedInGrowth: impliedGrowth(eps, price, r, years, tg) * 100, sensitivityGrid: grid,
-        basis: (fwdEps && fwdEps > 0) ? "forward" : "trailing",
+        ticker, storyStockFlag: false, model, epsUsed: eps,
+        fairValue: fair, premiumPct: fair > 0 ? (price / fair - 1) * 100 : null,
+        pricedInGrowth: impliedGrowth(eps, price, discount / 100, years, tg) * 100,
+        sensitivityGrid: grid,
+        basis: (a.epsBase != null && a.epsBase > 0) ? "custom" : ((fwdEps && fwdEps > 0) ? "forward" : "trailing"),
       };
     },
   };

@@ -466,6 +466,25 @@
 
   <section class="brief" id="brief"></section>
 
+  <style>
+    .new-strip{margin:0 16px 14px;}
+    .new-strip .nl{font-size:10px;text-transform:uppercase;letter-spacing:.6px;color:var(--accent-2);font-weight:800;margin:0 0 7px;}
+    .new-strip .ng{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:9px;}
+    .new-strip .nc{position:relative;display:block;background:var(--panel);border:1px solid var(--border);border-radius:11px;padding:10px 13px;text-decoration:none;}
+    .new-strip .nc:hover{border-color:var(--accent-border);}
+    .new-strip .nc b{color:var(--text);font-size:13px;} .new-strip .nc .tag{font-size:8.5px;font-weight:800;text-transform:uppercase;letter-spacing:.4px;color:#22c55e;border:1px solid rgba(34,197,94,.4);border-radius:999px;padding:1px 6px;margin-left:6px;vertical-align:middle;}
+    .new-strip .nc.bear .tag{color:#f0596e;border-color:rgba(240,89,110,.4);}
+    .new-strip .nc p{margin:3px 0 0;color:var(--muted);font-size:11.5px;line-height:1.4;}
+  </style>
+  <section class="new-strip" aria-label="Newly added">
+    <div class="nl">✦ Newly added</div>
+    <div class="ng">
+      <a class="nc" href="/stocks/aschenbrenner"><b>Aschenbrenner AI infrastructure basket</b><span class="tag">Bull</span><p>Disclosed &amp; reported AI-infra + power positions, source-gated.</p></a>
+      <a class="nc bear" href="/stocks/burry"><b>Michael Burry's reported AI shorts</b><span class="tag">Bear</span><p>Disclosed puts vs Nvidia &amp; Palantir, with the 13F caveat.</p></a>
+      <a class="nc" href="/signup"><b>Watchlist &amp; price alerts</b><span class="tag">New</span><p>Pin AI tickers, get price/move alerts. Free account.</p></a>
+    </div>
+  </section>
+
   <div class="grid">
     <section class="panel area-heat">
       <h2>
@@ -521,26 +540,6 @@
     <span class="nfa">Not financial advice.</span></p>
   </section>
 
-  <style>
-    .new-strip{max-width:1180px;margin:16px auto 0;padding:0 16px;}
-    .new-strip .nl{font-size:11px;text-transform:uppercase;letter-spacing:.6px;color:var(--accent-2);font-weight:800;margin:0 0 10px;}
-    .new-strip .ng{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px;}
-    .new-strip .nc{position:relative;display:block;background:var(--panel);border:1px solid var(--border);border-radius:12px;padding:13px 15px 14px;text-decoration:none;}
-    .new-strip .nc:hover{border-color:var(--accent-border);}
-    .new-strip .nc b{display:block;color:var(--text);font-size:14px;margin-bottom:4px;}
-    .new-strip .nc span{color:var(--muted);font-size:12.5px;line-height:1.5;}
-    .new-strip .nc .tag{position:absolute;top:11px;right:12px;font-size:9px;font-weight:800;text-transform:uppercase;letter-spacing:.4px;
-      color:#22c55e;border:1px solid rgba(34,197,94,.4);border-radius:999px;padding:1px 7px;}
-    .new-strip .nc.bear .tag{color:#f0596e;border-color:rgba(240,89,110,.4);}
-  </style>
-  <section class="new-strip" aria-label="Newly added">
-    <div class="nl">✦ Newly added</div>
-    <div class="ng">
-      <a class="nc" href="/stocks/aschenbrenner"><span class="tag">Bull</span><b>Aschenbrenner AI infrastructure basket</b><span>Publicly disclosed &amp; reputable-media-reported AI-infrastructure and power positions — source-gated.</span></a>
-      <a class="nc bear" href="/stocks/burry"><span class="tag">Bear</span><b>Michael Burry's reported AI shorts</b><span>Disclosed put positions vs Nvidia &amp; Palantir, with the 13F notional-vs-capital caveat.</span></a>
-      <a class="nc" href="/signup"><span class="tag">New</span><b>Watchlist &amp; price alerts</b><span>Pin AI tickers and get price / move alerts while the terminal is open. Free account.</span></a>
-    </div>
-  </section>
 
   <footer>
     <div class="foot-text">

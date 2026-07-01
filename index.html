@@ -148,26 +148,28 @@
   #theme-toggle.day .ic-moon{display:none;}
 
 
-  .intro-line{padding:12px 16px 2px;}
-  .intro-line h1{margin:0; font-size:19px; font-weight:800; color:var(--text); letter-spacing:-.2px;}
-  .intro-line .slogan{margin:4px 0 0; font-size:12.5px; font-weight:700; color:var(--accent-2);
-    letter-spacing:.3px;}
-  .intro-line p{margin:5px 0 0; font-size:11.5px; line-height:1.55; color:var(--faint); max-width:980px;}
+  .intro-line{padding:22px 16px 8px;}
+  .intro-line h1{margin:0; font-size:clamp(22px,2.3vw,30px); font-weight:800; color:var(--text); letter-spacing:-.5px; line-height:1.15;}
+  .intro-line .slogan{margin:7px 0 0; font-size:clamp(13px,1.1vw,15px); font-weight:700; color:var(--accent-2);
+    letter-spacing:.2px;}
+  .intro-line p{margin:9px 0 0; font-size:13px; line-height:1.65; color:var(--muted); max-width:880px;}
   .intro-line p a{color:var(--accent-2); text-decoration:none;}
   .intro-line p a:hover{text-decoration:underline;}
   /* AI trade in 60 seconds — homepage intelligence band (#6 + #10) */
-  .brief{margin:0 16px 14px; background:var(--panel); border:1px solid var(--border); border-radius:14px; padding:13px 15px;}
+  .brief{margin:6px 16px 16px; background:var(--panel); border:1px solid var(--border); border-radius:16px; padding:16px 18px;}
   .brief-head{display:flex; align-items:center; gap:9px; margin-bottom:11px;}
   .brief-head .t{font-size:12px; font-weight:800; letter-spacing:.5px; text-transform:uppercase; color:var(--text);}
   .brief-head .clk{font-size:10px; color:var(--faint);}
   .brief-head .sh{margin-left:auto; font-size:11px; font-weight:700; color:var(--accent-2); text-decoration:none;}
   .brief-head .sh:hover{color:var(--accent);}
-  .brief-grid{display:grid; grid-template-columns:1.7fr 1fr 1fr 1fr 1fr 1fr; gap:9px;}
-  .bt{background:var(--elev); border:1px solid var(--border-soft); border-radius:10px; padding:9px 11px; min-width:0;}
-  .bt .k{font-size:9px; text-transform:uppercase; letter-spacing:.6px; color:var(--faint); font-weight:700;}
-  .bt .v{font-size:16px; font-weight:800; margin-top:3px; line-height:1.12; white-space:nowrap;
-    overflow:hidden; text-overflow:ellipsis;}
-  .bt .s{font-size:10.5px; color:var(--muted); margin-top:2px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+  .brief-grid{display:grid; grid-template-columns:1.7fr repeat(5,1fr); gap:11px;}
+  .bt{background:var(--elev); border:1px solid var(--border-soft); border-radius:12px; padding:12px 14px; min-width:0;
+    transition:border-color .15s ease, transform .15s ease;}
+  .bt:hover{border-color:var(--accent-border,#2b4a75); transform:translateY(-1px);}
+  .bt .k{font-size:9.5px; text-transform:uppercase; letter-spacing:.7px; color:var(--faint); font-weight:700;}
+  .bt .v{font-size:clamp(15px,1.25vw,19px); font-weight:800; margin-top:5px; line-height:1.18;
+    display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;}
+  .bt .s{font-size:11px; color:var(--muted); margin-top:3px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
   .bt.risk .top{display:flex; align-items:baseline; gap:7px; flex-wrap:wrap;}
   .bt.risk .num{font-size:30px; font-weight:800; line-height:1;}
   .bt.risk .spark{margin-top:5px;}
@@ -1066,8 +1068,8 @@ function renderBrief(){
     <div class="brief-grid">
       ${riskTile}
       <div class="bt"><div class="k">Market mood</div><div class="v ${moodCls}">${mood}</div><div class="s">${breadth}% of ${tot} up</div></div>
-      <div class="bt"><div class="k">Strongest sector</div><div class="v up">${strong?strong.label:"—"}</div><div class="s up">${strong?fmtPct(strong.avg_change_pct):""}</div></div>
-      <div class="bt"><div class="k">Weakest sector</div><div class="v down">${weak?weak.label:"—"}</div><div class="s down">${weak?fmtPct(weak.avg_change_pct):""}</div></div>
+      <div class="bt" title="${strong?strong.label:""}"><div class="k">Strongest sector</div><div class="v up">${strong?(UNI_SHORT[strong.id]||strong.label):"—"}</div><div class="s up">${strong?fmtPct(strong.avg_change_pct):""}</div></div>
+      <div class="bt" title="${weak?weak.label:""}"><div class="k">Weakest sector</div><div class="v down">${weak?(UNI_SHORT[weak.id]||weak.label):"—"}</div><div class="s down">${weak?fmtPct(weak.avg_change_pct):""}</div></div>
       <div class="bt"><div class="k">Top mover</div><div class="v ${top.change_pct>=0?'up':'down'}" style="cursor:pointer" onclick="openTicker('${top.ticker}')">${top.ticker}</div><div class="s ${top.change_pct>=0?'up':'down'}">${fmtPct(top.change_pct)}</div></div>
       <div class="bt"><div class="k">Weirdest mover</div><div class="v ${weird.change_pct>=0?'up':'down'}" style="cursor:pointer" onclick="openTicker('${weird.ticker}')">${weird.ticker}</div><div class="s">${fmtPct(weird.change_pct)} · ${weirdTag}</div></div>
     </div>

@@ -447,15 +447,47 @@ function cardAschenbrenner(){
   foot();
 }
 
-const RENDER={aschenbrenner:cardAschenbrenner, movers:cardMovers, hot:cardHot, risk:cardRisk, sixty:cardSixty, winlose:cardWinLose, crypto:cardCrypto};
-const GAL=[["aschenbrenner","Aschenbrenner basket"],["movers","Today's AI movers"],["hot","Hot tickers"],["risk","AI bubble risk"],
+// Michael Burry — reported AI short (put) positions. Source-gated; notional
+// figures are the reported underlying-share value, NOT capital at risk. Not a
+// prediction. Kept in sync with /stocks/burry.
+const BURRY_SHORTS=[
+  {tk:"PLTR", co:"Palantir", type:"put options", notional:"~$912M"},
+  {tk:"NVDA", co:"Nvidia",   type:"put options", notional:"~$187M"}
+];
+function cardBurry(){
+  bg(); frame("Michael Burry · AI shorts"); bigTitle("Burry's Reported AI Shorts");
+  X.textAlign="left";
+  X.fillStyle="#8b97a5"; X.font="400 18px "+F;
+  X.fillText("Publicly disclosed (13F) put positions vs AI stocks — source-gated.",46,186);
+
+  X.fillStyle="#f0596e"; X.font="800 46px "+F; X.fillText(String(BURRY_SHORTS.length),46,258);
+  X.fillStyle="#8b97a5"; X.font="700 16px "+F; X.fillText("reported AI shorts",112,258);
+
+  let y=312;
+  BURRY_SHORTS.forEach(function(p){
+    X.textAlign="left";
+    X.fillStyle="#e7edf3"; X.font="800 27px "+F; X.fillText(p.tk,46,y);
+    X.fillStyle="#8b97a5"; X.font="400 16px "+F; X.fillText(p.co+" · "+p.type,150,y-1);
+    X.fillStyle="#f0596e"; X.font="800 26px "+F; X.textAlign="right"; X.fillText(p.notional+" notional",W-44,y); X.textAlign="left";
+    y+=54;
+  });
+
+  X.fillStyle="#e0a73f"; X.font="700 14px "+F;
+  X.fillText("Notional ≠ capital at risk  ·  puts may be hedges  ·  quarter-end snapshot",46,y+22);
+  X.fillStyle="#8b97a5"; X.font="italic 17px "+F; X.fillText("Q3 2025 13F · not a prediction.",46,y+48);
+  X.fillStyle="#5e6b78"; X.font="700 15px "+F; X.fillText("Public disclosures only.",46,540);
+  foot();
+}
+
+const RENDER={burry:cardBurry, aschenbrenner:cardAschenbrenner, movers:cardMovers, hot:cardHot, risk:cardRisk, sixty:cardSixty, winlose:cardWinLose, crypto:cardCrypto};
+const GAL=[["burry","Michael Burry AI shorts"],["aschenbrenner","Aschenbrenner basket"],["movers","Today's AI movers"],["hot","Hot tickers"],["risk","AI bubble risk"],
            ["winlose","Winners / losers"],["crypto","AI crypto movers"],["sixty","60 seconds"]];
 let current="movers";
 function render(){ try{ (RENDER[current]||cardMovers)(); }catch(e){ console.error(e); } updateTweet(); }
 
 const CAP={sixty:"The AI trade in 60 seconds", movers:"Today's AI movers", hot:"Today's hot AI tickers",
   winlose:"Top 5 AI winners & losers", risk:"AI bubble-risk score", crypto:"Top AI crypto movers",
-  aschenbrenner:"Aschenbrenner AI Infrastructure Basket"};
+  aschenbrenner:"Aschenbrenner AI Infrastructure Basket", burry:"Michael Burry's reported AI shorts"};
 function updateTweet(){
   const txt=CAP[current]+" — via Santro AI. Hot means attention, not direction.";
   document.getElementById("tw").href="https://twitter.com/intent/tweet?text="+encodeURIComponent(txt)+"&url="+encodeURIComponent("https://santroai.tech/share");

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-01T00:32:11+00:00",
+  "as_of": "2026-07-01T00:37:17+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -41,22 +41,6 @@
   },
   {
    "rank": 3,
-   "ticker": "DLR",
-   "company": "Digital Realty Trust Inc",
-   "move_pct": -5.77,
-   "price": 179.58,
-   "volume": 9024914,
-   "volume_vs_avg": "~4x",
-   "heat_score": 53,
-   "direction": "down",
-   "why": "Digital Realty Buys $3.5 Billion in Blackstone Data Centers",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/articles/digital-realty-buys-3-5-203431749.html",
-   "published": "2026-06-30T20:34:31Z",
-   "sector": "Data Center, Power & Energy"
-  },
-  {
-   "rank": 4,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
    "move_pct": 7.68,
@@ -72,7 +56,7 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
    "move_pct": 7.25,
@@ -88,23 +72,7 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 6,
-   "ticker": "LRCX",
-   "company": "Lam Research Corp",
-   "move_pct": 5.46,
-   "price": 433.33,
-   "volume": 16833431,
-   "volume_vs_avg": "~1.4x",
-   "heat_score": 41,
-   "direction": "up",
-   "why": "Lam Research Stock, Chip Gear Peers Hit Record Highs",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/news/technology/lam-research-stock-chip-gear-peers-hit-record-highs/?src=A00220&yptr=yahoo",
-   "published": "2026-06-30T20:36:57Z",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 7,
+   "rank": 5,
    "ticker": "INTC",
    "company": "Intel Corp",
    "move_pct": 6.01,
@@ -118,6 +86,22 @@
    "source_url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-asus-unveil-ai-231033905.html",
    "published": "2026-06-30T23:10:33Z",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 6,
+   "ticker": "DLR",
+   "company": "Digital Realty Trust Inc",
+   "move_pct": -5.77,
+   "price": 179.58,
+   "volume": 9024914,
+   "volume_vs_avg": "~4x",
+   "heat_score": 38,
+   "direction": "down",
+   "why": "Moving down 5.8% on ~4x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
+   "sector": "Data Center, Power & Energy"
   }
  ]
 }

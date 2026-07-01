@@ -3,15 +3,15 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Share cards — AI movers, hot tickers & bubble risk | Santro AI</title>
+<title>AI Market Share Cards — Movers, Bubble Risk &amp; Tickers | Santro AI</title>
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
 <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png" />
 <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
-<meta name="description" content="Export shareable Santro AI cards: today's AI movers, hot tickers, top winners/losers, the AI bubble-risk score and AI crypto movers. Hot means attention, not direction. Not financial advice." />
+<meta name="description" content="Create Santro AI share cards for market movers, bubble risk, AI crypto, ETFs and ticker stories. Hot means attention, not direction. Not financial advice." />
 <link rel="canonical" href="https://santroai.tech/share" />
-<meta property="og:title" content="Santro AI — shareable AI market cards" />
-<meta property="og:description" content="Export AI movers, hot tickers and bubble-risk cards. Hot means attention, not direction." />
+<meta property="og:title" content="AI Market Share Cards — Movers, Bubble Risk &amp; Tickers | Santro AI" />
+<meta property="og:description" content="Create Santro AI share cards for market movers, bubble risk, AI crypto, ETFs and ticker stories. Hot means attention, not direction. Not financial advice." />
 <meta property="og:url" content="https://santroai.tech/share" />
 <meta property="og:image" content="https://santroai.tech/assets/og-map.png" />
 <meta property="og:image:width" content="1200" />
@@ -103,7 +103,7 @@
   <nav class="sa-crumb" aria-label="Breadcrumb"><a href="/">Home</a> › Share Cards</nav>
     <h1>Share cards <span class="badge" id="asof">…</span></h1>
     <p class="lede">Finished, branded market cards — ready to screenshot or post.
-    <b>Hot means attention, not direction.</b> Auto-built from the live tape; quotes delayed ~15 min. Not financial advice.</p>
+    <b>Hot means attention, not direction.</b> Auto-built from the delayed market tape; quotes delayed ~15 min. Not financial advice.</p>
 
     <div class="cardstage">
       <canvas id="card" width="1200" height="630" role="img" aria-label="Shareable Santro AI card"></canvas>
@@ -191,8 +191,8 @@
   </section>
 
   <footer>
-    <nav class="foot-nav" style="margin-bottom:6px"><a href="/">Terminal</a> · <a href="/stocks">Stocks</a> · <a href="/ipos">IPOs</a> · <a href="/etfs">ETFs</a> · <a href="/crypto">Crypto</a> · <a href="/news">News</a> · <a href="/research">Research</a> · <a href="/blog">Blog</a> · <a href="/about">About</a> · <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a></nav>
-    Santro AI — AI bubble map &amp; research journal for the AI narrative. Beta version.<br>
+    <nav class="foot-nav" style="margin-bottom:6px"><a href="/">Terminal</a> · <a href="/stocks">Stocks</a> · <a href="/crypto">Crypto</a> · <a href="/bubble">Bubble risk</a> · <a href="/etfs">ETFs</a> · <a href="/ipos">IPOs</a> · <a href="/news">News</a> · <a href="/research">Research</a> · <a href="/blog">Blog</a> · <a href="/share">Share</a> · <a href="/about">About</a> · <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a></nav>
+    Santro AI — the AI bubble terminal for AI stocks, ETFs, crypto, hot tickers, research and bubble-risk signals. Beta version.<br>
     Quotes delayed ~15 min. Real-time data planned for Pro. <span class="nfa">Not financial advice.</span><br>
     Contact us: <a href="mailto:hello@santroai.tech">hello@santroai.tech</a><br>
     © 2026 Santro AI. All rights reserved. Uses custom models.
@@ -546,7 +546,7 @@ async function load(){
   buildGallery();
   render();
 }
-// Keep the cards on the live tape: re-fetch + redraw every 60s so a tab left
+// Keep the cards on the delayed market tape: re-fetch + redraw every 60s so a tab left
 // open never freezes on a stale snapshot (an open share page used to show the
 // previous session's moves until manually reloaded). Preserves the selected card.
 async function refresh(){ await fetchData(); buildGallery(); render(); }

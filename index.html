@@ -11,7 +11,7 @@
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
 <meta name="description" content="The AI bubble terminal: AI stocks, ETFs and crypto tokens on one bubble map, the day's hot movers with sourced reasons, and an AI bubble-risk signal. Hot means attention, not direction. Quotes delayed ~15 min. Free, no signup. Not financial advice." />
 <link rel="canonical" href="https://santroai.tech/" />
-<meta property="og:title" content="Santro AI — Live AI Stock Bubble Map, IPOs &amp; Research" />
+<meta property="og:title" content="Santro AI — AI Bubble Terminal for Stocks, ETFs &amp; Crypto" />
 <meta property="og:description" content="The entire AI trade on one screen: live bubble map, NVIDIA ecosystem, AI IPOs, crypto and daily research. Free, no signup." />
 <meta property="og:url" content="https://santroai.tech/" />
 <meta property="og:image" content="https://santroai.tech/assets/og-map.png" />
@@ -26,7 +26,7 @@
   "url":"https://santroai.tech/",
   "logo":{"@type":"ImageObject","url":"https://santroai.tech/assets/brand/logo-1024.png","width":1024,"height":1024},
   "email":"hello@santroai.tech",
-  "description":"Bubble map and research journal for the AI narrative: live AI-sector bubbles, hot tickers with the why, signed research and market news."},
+  "description":"The AI bubble terminal: AI-sector bubbles, hot tickers with the sourced why, ETFs, AI crypto, research, valuation tools and a bubble-risk signal. Quotes delayed ~15 min."},
  {"@type":"WebSite","name":"Santro AI","url":"https://santroai.tech/",
   "publisher":{"@id":"https://santroai.tech/#org"},
   "description":"AI stocks bubble map, daily signed research and market news for the AI narrative."}]}
@@ -521,10 +521,31 @@
     <span class="nfa">Not financial advice.</span></p>
   </section>
 
+  <style>
+    .new-strip{max-width:1180px;margin:16px auto 0;padding:0 16px;}
+    .new-strip .nl{font-size:11px;text-transform:uppercase;letter-spacing:.6px;color:var(--accent-2);font-weight:800;margin:0 0 10px;}
+    .new-strip .ng{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px;}
+    .new-strip .nc{position:relative;display:block;background:var(--panel);border:1px solid var(--border);border-radius:12px;padding:13px 15px 14px;text-decoration:none;}
+    .new-strip .nc:hover{border-color:var(--accent-border);}
+    .new-strip .nc b{display:block;color:var(--text);font-size:14px;margin-bottom:4px;}
+    .new-strip .nc span{color:var(--muted);font-size:12.5px;line-height:1.5;}
+    .new-strip .nc .tag{position:absolute;top:11px;right:12px;font-size:9px;font-weight:800;text-transform:uppercase;letter-spacing:.4px;
+      color:#22c55e;border:1px solid rgba(34,197,94,.4);border-radius:999px;padding:1px 7px;}
+    .new-strip .nc.bear .tag{color:#f0596e;border-color:rgba(240,89,110,.4);}
+  </style>
+  <section class="new-strip" aria-label="Newly added">
+    <div class="nl">✦ Newly added</div>
+    <div class="ng">
+      <a class="nc" href="/stocks/aschenbrenner"><span class="tag">Bull</span><b>Aschenbrenner AI infrastructure basket</b><span>Publicly disclosed &amp; reputable-media-reported AI-infrastructure and power positions — source-gated.</span></a>
+      <a class="nc bear" href="/stocks/burry"><span class="tag">Bear</span><b>Michael Burry's reported AI shorts</b><span>Disclosed put positions vs Nvidia &amp; Palantir, with the 13F notional-vs-capital caveat.</span></a>
+      <a class="nc" href="/signup"><span class="tag">New</span><b>Watchlist &amp; price alerts</b><span>Pin AI tickers and get price / move alerts while the terminal is open. Free account.</span></a>
+    </div>
+  </section>
+
   <footer>
     <div class="foot-text">
-      <nav class="foot-nav" style="margin-bottom:4px"><a href="/">Terminal</a> · <a href="/stocks">Stocks</a> · <a href="/ipos">IPOs</a> · <a href="/etfs">ETFs</a> · <a href="/crypto">Crypto</a> · <a href="/news">News</a> · <a href="/research">Research</a> · <a href="/blog">Blog</a> · <a href="/about">About</a> · <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a></nav>
-      <span class="bn">Santro AI</span> — AI bubble map &amp; research journal for the AI narrative. Beta version.<br>
+      <nav class="foot-nav" style="margin-bottom:4px"><a href="/">Terminal</a> · <a href="/stocks">Stocks</a> · <a href="/crypto">Crypto</a> · <a href="/bubble">Bubble risk</a> · <a href="/etfs">ETFs</a> · <a href="/ipos">IPOs</a> · <a href="/news">News</a> · <a href="/research">Research</a> · <a href="/blog">Blog</a> · <a href="/share">Share</a> · <a href="/about">About</a> · <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a></nav>
+      <span class="bn">Santro AI</span> — the AI bubble terminal for AI stocks, ETFs, crypto, hot tickers, research and bubble-risk signals. Beta version.<br>
       Quotes delayed ~15 min. Real-time data planned for Pro. <span class="nfa">Not financial advice.</span><br>
       Contact us: <a href="mailto:hello@santroai.tech">hello@santroai.tech</a><br>
       <span class="rights">© 2026 Santro AI. All rights reserved. Uses custom models.</span>

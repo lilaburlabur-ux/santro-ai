@@ -4,8 +4,8 @@ Signed file: `SYNA.research.01.07.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $124.23 (2026-07-01, ~15-min delayed) |
-| Market cap | $4.85B |
+| Current price | $126.68 (2026-07-01, ~15-min delayed) |
+| Market cap | $4.95B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `SYNA.research.01.07.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +91.77%; price +43.05% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -15.82% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +95.43%; price +45.40% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -14.16% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-4.10%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 23.56, EV/Sales 4.50. |
-| Risk level | High | Beta 1.96, ATR 7.4% of price, short float 18.89%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 24.02, EV/Sales 4.50. |
+| Risk level | High | Beta 1.96, ATR 7.1% of price, short float 18.89%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
 
@@ -36,31 +36,30 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 
 | Headline | Source | Date |
 |---|---|---|
+| Strength Seen in Synaptics (SYNA): Can Its 5.8% Jump Turn into More Strength? | Zacks | 2026-07-01 |
 | Chipmaker's biggest-ever deal triggers brutal sell-off | TheStreet | 2026-06-30 |
 | Onsemi agrees to buy Synaptics for about $7B | Manufacturing Dive | 2026-06-30 |
 | ON Semiconductor’s (ON) Synaptics Acquisition Draws Caution From TD Cowen | Insider Monkey | 2026-06-30 |
-| ON Semiconductor, Synaptics Combined Entity Likely to Pursue Physical AI
-Content Opportunities, UBS Says | MT Newswires | 2026-06-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $124.23; 52w high $147.57 (-15.82%); 52w low $58.52 (+112.29%) |
-| Trend | +43.05% vs SMA200, +1.94% vs SMA50, -6.99% vs SMA20 |
-| Momentum | RSI(14) 46.6 (neutral) |
-| Volatility | ATR(14) 9.18 (~7.4% of price); beta 1.96 |
-| Setup perspective | -15.82% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $126.68; 52w high $147.57 (-14.16%); 52w low $58.52 (+116.47%) |
+| Trend | +45.40% vs SMA200, +3.21% vs SMA50, -4.46% vs SMA20 |
+| Momentum | RSI(14) 48.4 (neutral) |
+| Volatility | ATR(14) 8.98 (~7.1% of price); beta 1.96 |
+| Setup perspective | -14.16% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -7.6% |
-| Month | -9.5% |
-| Quarter | +90.9% |
-| Half Y | +69.1% |
-| 1Y | +91.8% |
-| YTD | +64.0% |
+| Week | -2.6% |
+| Month | -6.1% |
+| Quarter | +80.9% |
+| Half Y | +68.8% |
+| 1Y | +95.4% |
+| YTD | +67.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -69,7 +68,7 @@ Content Opportunities, UBS Says | MT Newswires | 2026-06-29 |
 | Revenue (ttm) | $1.17B | Revenue growth 10.40% y/y |
 | Profitability | Gross 43.61%, operating -4.32%, net -4.10% | ROA -1.75%, ROE -3.50% |
 | Balance sheet | Cash $404.40M, debt $879.40M | Current ratio 3.04, debt/equity 64.72 |
-| Valuation | P/E —, forward P/E 23.56, P/S 4.14, P/B 3.54 | EV/Sales 4.50, EV/EBITDA 59.88 |
+| Valuation | P/E —, forward P/E 24.02, P/S 4.22, P/B 3.61 | EV/Sales 4.50, EV/EBITDA 59.88 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $140.67 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -96,8 +95,8 @@ Content Opportunities, UBS Says | MT Newswires | 2026-06-29 |
 | Geode Capital Management, LLC | 1,033,212 | 2.67% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 23.56, EV/Sales 4.50. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.96, ATR 7.4% of price, short float 18.89%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 24.02, EV/Sales 4.50. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.96, ATR 7.1% of price, short float 18.89%. Size positions accordingly.
 - **Short interest risk:** short float 18.89% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -114,25 +113,26 @@ Content Opportunities, UBS Says | MT Newswires | 2026-06-29 |
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $124.23 | EV/Sales | 4.50 |
-| Market cap | $4.85B | EV/EBITDA | 59.88 |
+| Price | $126.68 | EV/Sales | 4.50 |
+| Market cap | $4.95B | EV/EBITDA | 59.88 |
 | Beta | 1.96 | Gross margin | 43.61% |
-| RSI(14) | 46.6 | Operating margin | -4.32% |
-| ATR(14) | 9.18 | Profit margin | -4.10% |
-| SMA20 dist | -6.99% | ROA | -1.75% |
-| SMA50 dist | +1.94% | ROE | -3.50% |
-| SMA200 dist | +43.05% | Revenue (ttm) | $1.17B |
+| RSI(14) | 48.4 | Operating margin | -4.32% |
+| ATR(14) | 8.98 | Profit margin | -4.10% |
+| SMA20 dist | -4.46% | ROA | -1.75% |
+| SMA50 dist | +3.21% | ROE | -3.50% |
+| SMA200 dist | +45.40% | Revenue (ttm) | $1.17B |
 | 52W high | $147.57 | Revenue growth y/y | 10.40% |
 | 52W low | $58.52 | Inst. ownership | 109.80% |
 | P/E (ttm) | — | Insider ownership | 2.01% |
-| Forward P/E | 23.56 | Short float | 18.89% |
-| PEG (trailing) | — | Avg volume | 1,014,901 |
-| P/S | 4.14 | Employees | 1,700 |
-| P/B | 3.54 | Analyst rec (1=buy..5=sell) | 2.5 |
+| Forward P/E | 24.02 | Short float | 18.89% |
+| PEG (trailing) | — | Avg volume | 1,038,050 |
+| P/S | 4.22 | Employees | 1,700 |
+| P/B | 3.61 | Analyst rec (1=buy..5=sell) | 2.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-07-01 | main | Mizuho | Outperform → Outperform |
 | 2026-06-29 | down | Deutsche Bank | Buy → Hold |
 | 2026-06-29 | down | Barclays | Overweight → Equal-Weight |
 | 2026-06-26 | main | Wells Fargo | Overweight → Overweight |
@@ -140,7 +140,6 @@ Content Opportunities, UBS Says | MT Newswires | 2026-06-29 |
 | 2026-06-26 | down | Susquehanna | Positive → Neutral |
 | 2026-06-26 | down | Needham | Buy → Hold |
 | 2026-06-09 | main | Wells Fargo | Overweight → Overweight |
-| 2026-05-20 | main | Rosenblatt | Buy → Buy |
 
 ## 9. Conclusion
 SYNA: High momentum / weak fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

@@ -4,8 +4,8 @@ Signed file: `AVGO.research.01.07.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $377.75 (2026-07-01, ~15-min delayed) |
-| Market cap | $1.80T |
+| Current price | $369.34 (2026-07-01, ~15-min delayed) |
+| Market cap | $1.76T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `AVGO.research.01.07.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +41.27%; price +4.89% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -21.43% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +34.97%; price +2.54% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -23.18% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 38.85%, revenue growth 47.90%. |
-| Value attractiveness | Reasonable | Forward P/E 19.48, EV/Sales 24.41. |
-| Risk level | Elevated | Beta 1.43, ATR 4.9% of price, short float 1.32%. |
+| Value attractiveness | Reasonable | Forward P/E 19.04, EV/Sales 24.41. |
+| Risk level | Elevated | Beta 1.43, ATR 4.8% of price, short float 1.32%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
-| This Semiconductor ETF’s 96% Gain Hinges on a Single $1 Trillion Question | 24/7 Wall St. | 2026-07-01 |
-| AMD Nears $1 Trillion Mark Proving Nvidia’s Huang Wrong | Barrons.com | 2026-07-01 |
-| This Blue-Chip Dividend Stock Just Boosted Its Payout by 200% to $0.60 Per Share | Barchart | 2026-06-30 |
-| S&P 500, Nasdaq Rode AI Boom to First-Half Records | The Wall Street Journal | 2026-06-30 |
+| What's next for AI and Big Tech in the second half of 2026? | Yahoo Finance Video | 2026-07-01 |
+| Scared of an AI stock bubble? Then don't look at this chart. | Yahoo Finance | 2026-07-01 |
+| Meta AI Cloud Push Sends Nvidia, AMD, Intel, Micron Stocks Sinking | GuruFocus.com | 2026-07-01 |
+| AMD Stock Falls From Record High—and a $1 Trillion Market Cap Is Suddenly Far Away | Barrons.com | 2026-07-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $377.75; 52w high $480.81 (-21.43%); 52w low $262.81 (+43.73%) |
-| Trend | +4.89% vs SMA200, -7.93% vs SMA50, -4.48% vs SMA20 |
-| Momentum | RSI(14) 44.4 (neutral) |
-| Volatility | ATR(14) 18.52 (~4.9% of price); beta 1.43 |
-| Setup perspective | -21.43% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $369.34; 52w high $480.81 (-23.18%); 52w low $262.81 (+40.53%) |
+| Trend | +2.54% vs SMA200, -9.85% vs SMA50, -5.27% vs SMA20 |
+| Momentum | RSI(14) 42.1 (neutral) |
+| Volatility | ATR(14) 17.89 (~4.8% of price); beta 1.43 |
+| Setup perspective | -23.18% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.6% |
-| Month | -15.3% |
-| Quarter | +28.9% |
-| Half Y | +7.7% |
-| 1Y | +41.3% |
-| YTD | +9.1% |
+| Week | -3.3% |
+| Month | -19.6% |
+| Quarter | +19.5% |
+| Half Y | +6.1% |
+| 1Y | +35.0% |
+| YTD | +6.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $75.46B | Revenue growth 47.90% y/y |
 | Profitability | Gross 76.28%, operating 48.99%, net 38.85% | ROA 12.12%, ROE 37.28% |
 | Balance sheet | Cash $19.63B, debt $64.91B | Current ratio 2.24, debt/equity 74.02 |
-| Valuation | P/E 62.85, forward P/E 19.48, P/S 23.81, P/B 20.50 | EV/Sales 24.41, EV/EBITDA 43.78 |
+| Valuation | P/E 61.45, forward P/E 19.04, P/S 23.28, P/B 20.04 | EV/Sales 24.41, EV/EBITDA 43.78 |
 | Growth expectations | Earnings growth 85.40%, EPS q/q 87.50% | Analyst mean target $523.73 (45 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Price (T.Rowe) Associates Inc | 84,470,754 | 1.78% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.43, ATR 4.9% of price, short float 1.32%. Size positions accordingly.
+- **Volatility risk:** Beta 1.43, ATR 4.8% of price, short float 1.32%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $377.75 | EV/Sales | 24.41 |
-| Market cap | $1.80T | EV/EBITDA | 43.78 |
+| Price | $369.34 | EV/Sales | 24.41 |
+| Market cap | $1.76T | EV/EBITDA | 43.78 |
 | Beta | 1.43 | Gross margin | 76.28% |
-| RSI(14) | 44.4 | Operating margin | 48.99% |
-| ATR(14) | 18.52 | Profit margin | 38.85% |
-| SMA20 dist | -4.48% | ROA | 12.12% |
-| SMA50 dist | -7.93% | ROE | 37.28% |
-| SMA200 dist | +4.89% | Revenue (ttm) | $75.46B |
+| RSI(14) | 42.1 | Operating margin | 48.99% |
+| ATR(14) | 17.89 | Profit margin | 38.85% |
+| SMA20 dist | -5.27% | ROA | 12.12% |
+| SMA50 dist | -9.85% | ROE | 37.28% |
+| SMA200 dist | +2.54% | Revenue (ttm) | $75.46B |
 | 52W high | $480.81 | Revenue growth y/y | 47.90% |
 | 52W low | $262.81 | Inst. ownership | 79.86% |
-| P/E (ttm) | 62.85 | Insider ownership | 1.94% |
-| Forward P/E | 19.48 | Short float | 1.32% |
-| PEG (trailing) | 0.69 | Avg volume | 26,221,819 |
-| P/S | 23.81 | Employees | 33,000 |
-| P/B | 20.50 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/E (ttm) | 61.45 | Insider ownership | 1.94% |
+| Forward P/E | 19.04 | Short float | 1.32% |
+| PEG (trailing) | 0.69 | Avg volume | 26,324,254 |
+| P/S | 23.28 | Employees | 33,000 |
+| P/B | 20.04 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

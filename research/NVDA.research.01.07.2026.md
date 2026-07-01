@@ -4,8 +4,8 @@ Signed file: `NVDA.research.01.07.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $200.09 (2026-07-01, ~15-min delayed) |
-| Market cap | $4.85T |
+| Current price | $197.58 (2026-07-01, ~15-min delayed) |
+| Market cap | $4.79T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `NVDA.research.01.07.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +27.01%; price +4.96% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -15.02% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +25.23%; price +3.59% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -16.09% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 62.97%, revenue growth 85.20%. |
-| Value attractiveness | Reasonable | Forward P/E 15.68, EV/Sales 18.94. |
+| Value attractiveness | Reasonable | Forward P/E 15.48, EV/Sales 18.94. |
 | Risk level | High | Beta 2.20, ATR 3.6% of price, short float 1.29%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -36,30 +36,30 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia stock is sagging. Here's what's behind the negative short-term trend. | Yahoo Finance | 2026-06-30 |
-| Nvidia's CEO Jensen Huang Just Called Marvell Technology The Next Trillion-Dollar Company. But Is It the Better Stock to Buy? | Motley Fool | 2026-07-01 |
-| XRP Investment Potential: What $10,000 Could Grow Into Over the Next 5 Years | Motley Fool | 2026-07-01 |
-| The Smartest S&P 500 ETF to Buy With $1,000 Right Now | Motley Fool | 2026-07-01 |
+| What's next for AI and Big Tech in the second half of 2026? | Yahoo Finance Video | 2026-07-01 |
+| 2 Super-Safe Dividend Stocks to Buy With $3,000 and Hold for a Lifetime | Motley Fool | 2026-07-01 |
+| Wall Street Thinks This High-Flying Biotech Stock Can Soar Another 57% | Motley Fool | 2026-07-01 |
+| Palantir Stock Jumps After Nvidia Deal, Michael Burry Pulls Back Bearish Bet | GuruFocus.com | 2026-07-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $200.09; 52w high $235.47 (-15.02%); 52w low $153.10 (+30.70%) |
-| Trend | +4.96% vs SMA200, -4.64% vs SMA50, -2.74% vs SMA20 |
-| Momentum | RSI(14) 45.3 (neutral) |
-| Volatility | ATR(14) 7.11 (~3.6% of price); beta 2.20 |
-| Setup perspective | -15.02% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $197.58; 52w high $235.47 (-16.09%); 52w low $153.10 (+29.06%) |
+| Trend | +3.59% vs SMA200, -5.80% vs SMA50, -3.37% vs SMA20 |
+| Momentum | RSI(14) 43.3 (neutral) |
+| Volatility | ATR(14) 7.08 (~3.6% of price); beta 2.20 |
+| Setup perspective | -16.09% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.0% |
-| Month | -5.1% |
-| Quarter | +21.3% |
+| Week | -0.7% |
+| Month | -11.8% |
+| Quarter | +13.4% |
 | Half Y | +5.1% |
-| 1Y | +27.0% |
-| YTD | +6.1% |
+| 1Y | +25.2% |
+| YTD | +4.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $253.49B | Revenue growth 85.20% y/y |
 | Profitability | Gross 74.14%, operating 65.60%, net 62.97% | ROA 52.73%, ROE 114.29% |
 | Balance sheet | Cash $53.17B, debt $12.81B | Current ratio 3.44, debt/equity 6.55 |
-| Valuation | P/E 30.69, forward P/E 15.68, P/S 19.12, P/B 24.79 | EV/Sales 18.94, EV/EBITDA 29.01 |
+| Valuation | P/E 30.30, forward P/E 15.48, P/S 18.88, P/B 24.48 | EV/Sales 18.94, EV/EBITDA 29.01 |
 | Growth expectations | Earnings growth 214.50%, EPS q/q 210.60% | Analyst mean target $301.62 (58 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $200.09 | EV/Sales | 18.94 |
-| Market cap | $4.85T | EV/EBITDA | 29.01 |
+| Price | $197.58 | EV/Sales | 18.94 |
+| Market cap | $4.79T | EV/EBITDA | 29.01 |
 | Beta | 2.20 | Gross margin | 74.14% |
-| RSI(14) | 45.3 | Operating margin | 65.60% |
-| ATR(14) | 7.11 | Profit margin | 62.97% |
-| SMA20 dist | -2.74% | ROA | 52.73% |
-| SMA50 dist | -4.64% | ROE | 114.29% |
-| SMA200 dist | +4.96% | Revenue (ttm) | $253.49B |
+| RSI(14) | 43.3 | Operating margin | 65.60% |
+| ATR(14) | 7.08 | Profit margin | 62.97% |
+| SMA20 dist | -3.37% | ROA | 52.73% |
+| SMA50 dist | -5.80% | ROE | 114.29% |
+| SMA200 dist | +3.59% | Revenue (ttm) | $253.49B |
 | 52W high | $235.47 | Revenue growth y/y | 85.20% |
 | 52W low | $153.10 | Inst. ownership | 70.84% |
-| P/E (ttm) | 30.69 | Insider ownership | 3.98% |
-| Forward P/E | 15.68 | Short float | 1.29% |
-| PEG (trailing) | 0.62 | Avg volume | 160,296,779 |
-| P/S | 19.12 | Employees | 42,000 |
-| P/B | 24.79 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/E (ttm) | 30.30 | Insider ownership | 3.98% |
+| Forward P/E | 15.48 | Short float | 1.29% |
+| PEG (trailing) | 0.62 | Avg volume | 159,181,457 |
+| P/S | 18.88 | Employees | 42,000 |
+| P/B | 24.48 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

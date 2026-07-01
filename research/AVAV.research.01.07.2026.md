@@ -4,8 +4,8 @@ Signed file: `AVAV.research.01.07.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $165.07 (2026-07-01, ~15-min delayed) |
-| Market cap | $8.35B |
+| Current price | $172.44 (2026-07-01, ~15-min delayed) |
+| Market cap | $8.73B |
 | Sector / Industry | Industrials / Aerospace & Defense |
 | Main theme | Aerospace & Defense — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `AVAV.research.01.07.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-35.26%) with negative half-year (-35.27%). |
-| Fresh setup quality | Poor / broken | -59.72% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-32.28%) with negative half-year (-30.79%). |
+| Fresh setup quality | Poor / broken | -57.92% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-13.41%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 30.59, EV/Sales 4.31. |
-| Risk level | High | Beta 1.36, ATR 7.6% of price, short float 12.57%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 31.95, EV/Sales 4.31. |
+| Risk level | High | Beta 1.36, ATR 7.5% of price, short float 12.57%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
 
@@ -36,30 +36,30 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 | Headline | Source | Date |
 |---|---|---|
+| Why Is Kratos (KTOS) Stock Rocketing Higher Today | StockStory | 2026-07-01 |
+| Stocks making big moves yesterday: Cogent, Vishay Intertechnology, AeroVironment, Intel, and Coty | StockStory | 2026-07-01 |
+| Company News for July 1, 2026 | Zacks | 2026-07-01 |
 | AVAV, KTOS Stocks Gain Overnight: Wedbush Calls AeroVironment, Kratos Long-Term Winners In Defense Tech | Stocktwits | 2026-07-01 |
-| Why Unusual Machines Stock Jumped Today | Motley Fool | 2026-07-01 |
-| Why AeroVironment Stock Skyrocketed Today | Motley Fool | 2026-07-01 |
-| AeroVironment (AVAV) Shares Skyrocket, What You Need To Know | StockStory | 2026-06-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $165.07; 52w high $409.83 (-59.72%); 52w low $136.68 (+20.77%) |
-| Trend | -35.26% vs SMA200, -6.51% vs SMA50, -2.07% vs SMA20 |
-| Momentum | RSI(14) 49.4 (neutral) |
-| Volatility | ATR(14) 12.57 (~7.6% of price); beta 1.36 |
-| Setup perspective | -59.72% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $172.44; 52w high $409.83 (-57.92%); 52w low $136.68 (+26.16%) |
+| Trend | -32.28% vs SMA200, -2.06% vs SMA50, +3.28% vs SMA20 |
+| Momentum | RSI(14) 52.9 (neutral) |
+| Volatility | ATR(14) 12.91 (~7.5% of price); beta 1.36 |
+| Setup perspective | -57.92% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +10.7% |
-| Month | -20.3% |
-| Quarter | -6.7% |
-| Half Y | -35.3% |
-| 1Y | -40.6% |
-| YTD | -35.6% |
+| Week | +21.3% |
+| Month | -15.5% |
+| Quarter | -5.8% |
+| Half Y | -30.8% |
+| 1Y | -39.5% |
+| YTD | -32.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,8 +68,8 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Revenue (ttm) | $1.98B | Revenue growth 133.30% y/y |
 | Profitability | Gross 25.32%, operating 2.81%, net -13.41% | ROA -1.29%, ROE -10.03% |
 | Balance sheet | Cash $632.30M, debt $834.79M | Current ratio 4.30, debt/equity 18.97 |
-| Valuation | P/E —, forward P/E 30.59, P/S 4.23, P/B 1.92 | EV/Sales 4.31, EV/EBITDA 43.80 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $285.99 (16 analysts) |
+| Valuation | P/E —, forward P/E 31.95, P/S 4.41, P/B 2.01 | EV/Sales 4.31, EV/EBITDA 43.80 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $247.35 (17 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -83,20 +83,20 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 4,959,699 | 9.93% | 2026-03-31 |
-| State Street Corporation | 2,289,357 | 4.58% | 2026-03-31 |
-| Vanguard Portfolio Management LLC | 1,693,775 | 3.39% | 2026-03-31 |
-| Vanguard Capital Management LLC | 1,616,315 | 3.24% | 2026-03-31 |
-| BAILLIE GIFFORD & CO | 1,026,741 | 2.06% | 2026-03-31 |
-| Mirae Asset Global ETFs Holdings Ltd. | 937,460 | 1.88% | 2026-03-31 |
-| Geode Capital Management, LLC | 913,893 | 1.83% | 2026-03-31 |
-| Alyeska Investment Group, L.p. | 721,436 | 1.44% | 2026-03-31 |
-| Heard Capital LLC | 721,352 | 1.44% | 2026-03-31 |
-| Van Eck Associates Corporation | 687,977 | 1.38% | 2026-03-31 |
+| Blackrock Inc. | 4,959,699 | 9.80% | 2026-03-31 |
+| State Street Corporation | 2,289,357 | 4.52% | 2026-03-31 |
+| Vanguard Portfolio Management LLC | 1,693,775 | 3.35% | 2026-03-31 |
+| Vanguard Capital Management LLC | 1,616,315 | 3.19% | 2026-03-31 |
+| BAILLIE GIFFORD & CO | 1,026,741 | 2.03% | 2026-03-31 |
+| Mirae Asset Global ETFs Holdings Ltd. | 937,460 | 1.85% | 2026-03-31 |
+| Geode Capital Management, LLC | 913,893 | 1.81% | 2026-03-31 |
+| Alyeska Investment Group, L.p. | 721,436 | 1.43% | 2026-03-31 |
+| Heard Capital LLC | 721,352 | 1.43% | 2026-03-31 |
+| Van Eck Associates Corporation | 687,977 | 1.36% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 30.59, EV/Sales 4.31. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.36, ATR 7.6% of price, short float 12.57%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 31.95, EV/Sales 4.31. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.36, ATR 7.5% of price, short float 12.57%. Size positions accordingly.
 - **Short interest risk:** short float 12.57% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -114,33 +114,33 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $165.07 | EV/Sales | 4.31 |
-| Market cap | $8.35B | EV/EBITDA | 43.80 |
+| Price | $172.44 | EV/Sales | 4.31 |
+| Market cap | $8.73B | EV/EBITDA | 43.80 |
 | Beta | 1.36 | Gross margin | 25.32% |
-| RSI(14) | 49.4 | Operating margin | 2.81% |
-| ATR(14) | 12.57 | Profit margin | -13.41% |
-| SMA20 dist | -2.07% | ROA | -1.29% |
-| SMA50 dist | -6.51% | ROE | -10.03% |
-| SMA200 dist | -35.26% | Revenue (ttm) | $1.98B |
+| RSI(14) | 52.9 | Operating margin | 2.81% |
+| ATR(14) | 12.91 | Profit margin | -13.41% |
+| SMA20 dist | +3.28% | ROA | -1.29% |
+| SMA50 dist | -2.06% | ROE | -10.03% |
+| SMA200 dist | -32.28% | Revenue (ttm) | $1.98B |
 | 52W high | $409.83 | Revenue growth y/y | 133.30% |
 | 52W low | $136.68 | Inst. ownership | 89.16% |
 | P/E (ttm) | — | Insider ownership | 0.77% |
-| Forward P/E | 30.59 | Short float | 12.57% |
-| PEG (trailing) | — | Avg volume | 1,305,925 |
-| P/S | 4.23 | Employees | 3,991 |
-| P/B | 1.92 | Analyst rec (1=buy..5=sell) | 1.7 |
+| Forward P/E | 31.95 | Short float | 12.57% |
+| PEG (trailing) | — | Avg volume | 1,422,057 |
+| P/S | 4.41 | Employees | 3,991 |
+| P/B | 2.01 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-07-01 | main | Jefferies | Buy → Buy |
+| 2026-07-01 | init | Wedbush | — → Outperform |
+| 2026-07-01 | main | Canaccord Genuity | Buy → Buy |
 | 2026-06-30 | main | UBS | Neutral → Neutral |
 | 2026-06-30 | main | Needham | Buy → Buy |
 | 2026-06-30 | reit | Citizens | Market Outperform → Market Outperform |
 | 2026-06-30 | main | Stifel | Buy → Buy |
 | 2026-06-30 | main | RBC Capital | Outperform → Outperform |
-| 2026-06-30 | reit | BTIG | Buy → Buy |
-| 2026-06-26 | main | Keybanc | Overweight → Overweight |
-| 2026-06-26 | main | Piper Sandler | Overweight → Overweight |
 
 ## 9. Conclusion
 AVAV: Low momentum / weak fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

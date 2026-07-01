@@ -261,7 +261,8 @@
     if (g >= 18) return "punchy expectations";
     if (g >= 8) return "moderate expectations";
     if (g >= 2) return "modest expectations";
-    return "very low — priced for flat-to-declining earnings (looks cheap)";
+    if (g >= -1) return "very low — priced for near-flat earnings";
+    return "negative — priced for declining earnings; on cyclicals that's the cycle speaking, not automatically cheap";
   }
   function staticHtml(stat) {
     if (stat.storyStockFlag) {
@@ -271,11 +272,11 @@
         profits. Watch the path to profitability, not a multiple.</div>`;
     }
     const g = stat.impliedGrowth;
-    const hot = g >= 18;                       // demanding = caution (red); modest = cheap (green)
+    const hot = g >= 18 || g <= -1;            // demanding OR negative = caution (red); modest = green
     const basis = stat.basis === "forward" ? "forward earnings" : "trailing earnings";
     return `<div class="sa-lbl">What the price implies <span class="badge live">Free</span></div>
       <div class="sa-static">
-        <span class="fv">~${Math.max(0, g).toFixed(0)}%<span class="sa-unit"> / yr</span></span>
+        <span class="fv">~${g >= 0 ? g.toFixed(0) : g.toFixed(1)}%<span class="sa-unit"> / yr</span></span>
         <span class="sa-prem ${hot ? "over" : "under"}">${growthRead(g)}</span>
         <span class="sa-basis">Annual earnings growth the price bakes in · reverse-DCF on ${basis}</span>
       </div>`;
@@ -288,9 +289,15 @@
     }
     // Pre-fill growth with what the price implies, so the user starts from the
     // market's own assumption and adjusts from there (not an arbitrary 12%).
-    const g0 = stat.impliedGrowth != null ? Math.max(0, Math.round(stat.impliedGrowth)) : 12;
-    const assume = user ? `<div class="sa-assume" id="sa-assume">
-        <div class="f"><label>Growth % / yr</label><input id="sa-g" type="number" step="0.5" value="${g0}"></div>
+    const g0 = stat.impliedGrowth != null ? Math.round(stat.impliedGrowth * 10) / 10 : 12;
+    const gi = stat.impliedGrowth;
+    const assume = user ? `<div class="sa-presets" id="sa-presets"><span class="sa-preset-lbl">Scenario:</span>
+        <button type="button" class="sa-chipbtn" data-g="${gi != null ? Math.round(gi * 10) / 10 : 0}">Market-implied ${gi != null ? (gi >= 0 ? "+" : "") + gi.toFixed(1) + "%" : "—"}</button>
+        <button type="button" class="sa-chipbtn" data-g="4">Conservative 4%</button>
+        <button type="button" class="sa-chipbtn" data-g="8">Moderate 8%</button>
+        <button type="button" class="sa-chipbtn" data-g="14">Aggressive 14%</button>
+      </div><div class="sa-assume" id="sa-assume">
+        <div class="f"><label>Growth % / yr <span class="sa-hint">(custom — negative allowed)</span></label><input id="sa-g" type="number" step="0.5" value="${g0}"></div>
         <div class="f"><label>Discount rate %</label><input id="sa-r" type="number" step="0.25" value="9"></div>
       </div>` : "";
     return assume + `<div class="sa-runrow">
@@ -301,6 +308,10 @@
   function nfaLine() { return `<div class="sa-nfa">Reverse-DCF &amp; sensitivity are scenarios, not forecasts. Premiums describe price vs. an assumption — a condition, not a recommendation. Not financial advice.</div>`; }
 
   function wireRunRow(block, stat) {
+    block.querySelectorAll(".sa-chipbtn").forEach((c) => { c.onclick = () => {
+      const g = block.querySelector("#sa-g"); if (g) g.value = c.dataset.g;
+      block.querySelectorAll(".sa-chipbtn").forEach((x) => x.classList.toggle("on", x === c));
+    }; });
     const runBtn = block.querySelector("#sa-run");
     if (runBtn) runBtn.onclick = () => doRun(block, stat);
     const pin = block.querySelector("#sa-pin");
@@ -354,6 +365,7 @@
       <div class="sa-priced">What the market is pricing in: about <b>${res.pricedInGrowth == null ? "—" : res.pricedInGrowth.toFixed(1) + "%"}</b>
         annual earnings growth (reverse-DCF). Your run assumed <b>${a.growth}%</b> growth at a <b>${a.discount}%</b> discount rate.
         If that priced-in pace looks demanding versus history, the premium is the market's optimism — a condition to watch, not advice.</div>
+      ${res.pricedInGrowth != null && res.pricedInGrowth < 2 && (a.growth - res.pricedInGrowth) >= 6 ? `<div class="sa-cycwarn">⚠ <b>Cyclical check:</b> the market prices in ~${res.pricedInGrowth.toFixed(1)}%/yr, but this run assumed ${a.growth}%. On names at peak earnings (very low forward P/E — often cyclicals like memory), growing peak EPS at a constant rate inflates fair value, so a large "discount" usually reflects the earnings cycle — not a mispricing.</div>` : ""}
       ${sensitivityHtml(res.sensitivityGrid, ctx.price)}
     </div>`;
   }

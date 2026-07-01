@@ -204,7 +204,7 @@
   }
   function impliedGrowth(eps, price, r, years, tg) {
     // bisection: find g such that dcf == price
-    let lo = -0.05, hi = 0.6;
+    let lo = -0.30, hi = 0.6;
     for (let i = 0; i < 60; i++) {
       const mid = (lo + hi) / 2;
       (dcf(eps, mid, r, years, tg) > price ? (hi = mid) : (lo = mid));

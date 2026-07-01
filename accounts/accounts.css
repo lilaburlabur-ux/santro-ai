@@ -208,3 +208,15 @@ select.sa-input{cursor:pointer;}
   cursor:pointer;opacity:0;transform:translateX(12px);transition:opacity .35s,transform .35s;line-height:1.45;}
 .sa-toast.show{opacity:1;transform:none;}
 @media (max-width:560px){ .wl-head,.wl-row{grid-template-columns:52px 1fr 62px 54px 30px 22px;} #sa-toasts{left:14px;right:14px;max-width:none;} }
+
+/* growth-scenario presets + cyclical warning (calculator honesty pass) */
+.sa-presets{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:10px 0 2px;}
+.sa-preset-lbl{font-size:10.5px;color:var(--faint,#6b7684);text-transform:uppercase;letter-spacing:.5px;font-weight:700;}
+.sa-chipbtn{font:inherit;font-size:12px;font-weight:600;padding:4px 10px;border-radius:999px;cursor:pointer;
+  background:var(--panel-2,#10151d);color:var(--muted,#9aa6b2);border:1px solid var(--border-soft,#1c2230);}
+.sa-chipbtn:hover{border-color:var(--accent-border,#2b4a75);color:var(--text,#e6edf3);}
+.sa-chipbtn.on{background:rgba(91,157,240,.14);color:var(--accent-2,#7cb0f5);border-color:var(--accent-border,#2b4a75);}
+.sa-hint{font-weight:400;color:var(--faint,#6b7684);font-size:10px;}
+.sa-cycwarn{margin:10px 0 2px;padding:10px 14px;border-left:3px solid #e0a73f;border-radius:8px;
+  background:rgba(224,167,63,.08);color:var(--muted,#9aa6b2);font-size:12.5px;line-height:1.55;}
+.sa-cycwarn b{color:#e0a73f;}

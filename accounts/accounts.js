@@ -279,6 +279,7 @@
         <span class="fv">~${g >= 0 ? g.toFixed(0) : g.toFixed(1)}%<span class="sa-unit"> / yr</span></span>
         <span class="sa-prem ${hot ? "over" : "under"}">${growthRead(g)}</span>
         <span class="sa-basis">Annual earnings growth the price bakes in · reverse-DCF on ${basis}</span>
+        ${g <= -1 ? `<span class="sa-basis" style="color:#e0a73f">After a big run-up, current ${basis} can be peak-cycle — scenario values built on them look inflated. Lower the earnings base below to normalize.</span>` : ""}
       </div>`;
   }
   function runRowHtml(stat) {
@@ -292,7 +293,7 @@
     const g0 = stat.impliedGrowth != null ? Math.round(stat.impliedGrowth * 10) / 10 : 12;
     const gi = stat.impliedGrowth;
     const eps0 = ctx.fwdEps && ctx.fwdEps > 0 ? ctx.fwdEps : (ctx.pe && ctx.pe > 0 ? Math.round(ctx.price / ctx.pe * 100) / 100 : "");
-    const assume = user ? `
+    const assume = `
       <div class="sa-modeltabs" id="sa-modeltabs">
         <button type="button" class="sa-mtab on" data-m="dcf" title="10-yr two-stage discounted cash flow on EPS">DCF</button>
         <button type="button" class="sa-mtab" data-m="pe" title="Fair value = EPS × a target P/E multiple">Fair P/E</button>
@@ -325,7 +326,7 @@
       </div>
       <div class="sa-assume" data-for="peg" style="display:none">
         <div class="f"><label>Target PEG ×</label><input id="sa-peg" type="number" step="0.1" value="1.0"></div>
-      </div>` : "";
+      </div>`;
     return assume + `<div class="sa-runrow">
         <button class="sa-run" id="sa-run">▶ Run valuation</button>
         <span class="sa-remaining" id="sa-rem"></span>${pinBtn}
@@ -369,7 +370,7 @@
     const model = activeModel(block);
     const a = { model,
       epsBase: num(block.querySelector("#sa-eps"), null),
-      growth: num(block.querySelector("#sa-g"), 12), discount: num(block.querySelector("#sa-r"), 9),
+      growth: num(block.querySelector("#sa-g"), stat && stat.impliedGrowth != null ? Math.round(stat.impliedGrowth * 10) / 10 : 8), discount: num(block.querySelector("#sa-r"), 9),
       years: num(block.querySelector("#sa-y"), 10), tgrowth: num(block.querySelector("#sa-tg"), 2.5),
       mult: num(block.querySelector("#sa-mult"), 18), aaayield: num(block.querySelector("#sa-aaa"), 5.0),
       peg: num(block.querySelector("#sa-peg"), 1.0) };
@@ -409,14 +410,14 @@
       peg: `Lynch PEG: fair P/E = <b>${a.peg}</b> PEG × <b>${a.growth}%</b> growth on $${(res.epsUsed || 0).toFixed(2)}/sh.`,
     };
     return `<div class="sa-res">
+      ${res.model !== "pe" && res.pricedInGrowth != null && res.pricedInGrowth < 2 && (a.growth - res.pricedInGrowth) >= 6 ? `<div class="sa-cycwarn">⚠ <b>Cyclical check:</b> the market prices in ~${res.pricedInGrowth.toFixed(1)}%/yr, but this run assumed ${a.growth}%. On names at peak earnings (very low forward P/E — often cyclicals like memory), growing peak EPS at a constant rate inflates fair value, so a large "discount" usually reflects the earnings cycle — not a mispricing.</div>` : ""}
       <div class="sa-resgrid">
-        <div class="sa-card"><div class="k">Fair value · ${(res.model || "dcf").toUpperCase()} · your inputs</div><div class="v">${fmtUSD(res.fairValue)}</div></div>
+        <div class="sa-card"><div class="k">Scenario value · ${(res.model || "dcf").toUpperCase()} · your inputs</div><div class="v">${fmtUSD(res.fairValue)}</div></div>
         <div class="sa-card"><div class="k">Premium vs price</div><div class="v ${over ? "over" : "under"}">${fmtPct(res.premiumPct)}</div></div>
       </div>
       <div class="sa-priced">${MODEL_NOTE[res.model || "dcf"] || ""} For reference, the market itself is pricing in about
         <b>${res.pricedInGrowth == null ? "—" : res.pricedInGrowth.toFixed(1) + "%"}</b> annual earnings growth (reverse-DCF).
         Premiums describe price vs. your assumption — a condition to watch, not advice.</div>
-      ${res.model !== "pe" && res.pricedInGrowth != null && res.pricedInGrowth < 2 && (a.growth - res.pricedInGrowth) >= 6 ? `<div class="sa-cycwarn">⚠ <b>Cyclical check:</b> the market prices in ~${res.pricedInGrowth.toFixed(1)}%/yr, but this run assumed ${a.growth}%. On names at peak earnings (very low forward P/E — often cyclicals like memory), growing peak EPS at a constant rate inflates fair value, so a large "discount" usually reflects the earnings cycle — not a mispricing.</div>` : ""}
       ${sensitivityHtml(res.sensitivityGrid, ctx.price)}
     </div>`;
   }

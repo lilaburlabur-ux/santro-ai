@@ -210,7 +210,6 @@
     #topbar-search .tsearch{width:100%;}
     #topbar-search .tsearch input{width:100%;}
     .m-only.m-cta{display:flex;}
-    .m-only.m-snap{display:grid;}
     .m-only.m-note{display:block;}
   }
   /* mobile-only cards (hidden on desktop) */
@@ -219,11 +218,6 @@
   .m-btn{flex:1; text-align:center; padding:13px 10px; border-radius:11px; font-weight:700; font-size:14px;
     text-decoration:none; background:var(--elev); color:var(--text); border:1px solid var(--border);}
   .m-btn.primary{background:var(--accent-soft); color:var(--accent-2); border-color:var(--accent-border);}
-  .m-snap{grid-template-columns:repeat(4,minmax(0,1fr)); gap:8px; margin:10px 16px 0;}
-  .m-snap .ms{background:var(--panel); border:1px solid var(--border-soft); border-radius:10px; padding:9px 6px; text-align:center; text-decoration:none; min-width:0; overflow:hidden;}
-  .m-snap .ms .k{font-size:9px; text-transform:uppercase; letter-spacing:.5px; color:var(--faint); font-weight:700;}
-  .m-snap .ms .v{font-size:12.5px; font-weight:800; color:var(--text); margin-top:3px; font-variant-numeric:tabular-nums; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
-  .m-snap .ms .c{font-size:10.5px; font-weight:700; margin-top:1px;}
   .m-note{margin:10px 16px 2px; padding:12px 14px; background:var(--panel); border:1px solid var(--border-soft);
     border-radius:11px; font-size:12px; line-height:1.6; color:var(--muted);}
   .m-note b{color:var(--text);}
@@ -524,7 +518,6 @@
     <a class="m-btn primary" href="/stocks">View AI stocks</a>
     <a class="m-btn" href="/bubble">Check bubble risk</a>
   </div>
-  <div class="m-only m-snap" id="m-snap"></div>
   <p class="m-only m-note"><b>Santro AI mobile</b> is a lighter view of the AI trade. For full tables,
     advanced filters and the complete market tape, open Santro on desktop.
     <span class="m-soon">iOS app coming soon</span> — until then you can add Santro to your Home Screen
@@ -1319,21 +1312,6 @@ async function loadData(){
           `<span class="lbl">AI Bubble risk</span>`+
           `<span class="val" style="color:${col}">${Math.round(ix.overall)}</span>`+
           `<span style="color:${col};font-weight:600">${ix.label||""}</span></a>`;
-      }
-    }
-    // compact mobile market snapshot (4 tiles max; tape is hidden on mobile)
-    const ms=document.getElementById("m-snap");
-    if(ms && d.tape){
-      const pick={SPX:"SPX",Nasdaq100:"NDX",BTC:"BTC"};
-      ms.innerHTML=d.tape.filter(t=>pick[t.label]).slice(0,3).map(t=>
-        `<span class="ms"><span class="k">${pick[t.label]}</span><span class="v">${Math.round(t.price).toLocaleString()}</span>`+
-        `<span class="c ${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</span></span>`).join("");
-      if(bubbleIx && bubbleIx.index && bubbleIx.index.overall!=null){
-        const ix=bubbleIx.index;
-        const col=ix.overall<25?"#22c55e":ix.overall<45?"#69cd91":ix.overall<60?"#e0a73f":ix.overall<80?"#f05a6e":"#b91c1c";
-        ms.innerHTML+=`<a class="ms" href="/bubble"><span class="k">AI risk</span>`+
-          `<span class="v" style="color:${col}">${Math.round(ix.overall)}</span>`+
-          `<span class="c" style="color:${col}">${ix.label||""}</span></a>`;
       }
     }
     renderBrief(); renderNews(); renderSamples(); renderTakeaways();

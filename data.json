@@ -1,16 +1,18 @@
 {
-  "as_of_utc": "2026-07-02T16:02:22+00:00",
-  "as_of_local": "2026-07-02 16:02:22 UTC",
+  "as_of_utc": "2026-07-02T16:07:29+00:00",
+  "as_of_local": "2026-07-02 16:07:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 194.24,
+      "price": 194.26,
       "previous_close": 197.58,
-      "change_pct": -1.69,
-      "market_cap": 4704687173049.927,
+      "change_pct": -1.68,
+      "market_cap": 4705171326950.073,
       "headlines": [
         {
           "title": "Palantir stock jumps on analyst upgrade 'as profits have soared'",
@@ -25,20 +27,20 @@
           "published": "2026-07-02T12:02:04Z"
         },
         {
-          "title": "BYD Achieved a New Record and It's About to Go on the Offensive",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/byd-achieved-record-offensive-154900473.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-02T15:49:00Z"
+          "title": "Super Micro Faces Export-Control Scrutiny in Taiwan",
+          "url": "https://finance.yahoo.com/technology/ai/articles/super-micro-faces-export-control-160153444.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-07-02T16:01:53Z"
         }
       ]
     },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 441.25,
+      "price": 441.02,
       "previous_close": 444.23,
-      "change_pct": -0.67,
-      "market_cap": 2288531658236.25,
+      "change_pct": -0.72,
+      "market_cap": 2287598130900.7803,
       "headlines": [
         {
           "title": "This 40%-a-Year Fund Manager Says Semis Are STILL the Place to Be After a 100% Run",
@@ -63,11 +65,17 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 363.39,
+      "price": 363.0,
       "previous_close": 369.34,
-      "change_pct": -1.61,
-      "market_cap": 1728857137842.3362,
+      "change_pct": -1.72,
+      "market_cap": 1726478347743.3362,
       "headlines": [
+        {
+          "title": "The Nasdaq Was Up 26% in the First Half of 2026 \u2014 These 3 AI Stocks Are Just Getting Started",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-26-first-half-2026-155218290.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-07-02T15:52:18Z"
+        },
         {
           "title": "This 40%-a-Year Fund Manager Says Semis Are STILL the Place to Be After a 100% Run",
           "url": "https://finance.yahoo.com/technology/articles/40-fund-manager-says-semis-153107696.html",
@@ -79,12 +87,6 @@
           "url": "https://finance.yahoo.com/markets/options/articles/wide-divide-priced-advanced-micro-152952749.html",
           "publisher": "Trefis",
           "published": "2026-07-02T15:29:52Z"
-        },
-        {
-          "title": "Anthropic explores Samsung 2nm chip partnership - The Information",
-          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-explores-samsung-2nm-chip-144844786.html",
-          "publisher": "Investing.com",
-          "published": "2026-07-02T14:48:44Z"
         }
       ]
     },
@@ -94,36 +96,42 @@
       "price": 985.5,
       "previous_close": 1032.28,
       "change_pct": -4.53,
-      "market_cap": 1114135038500.76,
+      "market_cap": 1112350578021.0276,
       "headlines": [
+        {
+          "title": "Follow Stock Market Leaders To Stay In Step With Broader Market Health",
+          "url": "https://www.investors.com/how-to-invest/investors-corner/stock-market-leaders-micron-amat-dell-sp500-health/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-07-02T15:59:07Z"
+        },
+        {
+          "title": "The First Major Robotics IPO Is Here: 5 Robotics Stocks That Could Run in the Second Half of 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/first-major-robotics-ipo-5-155354756.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-07-02T15:53:54Z"
+        },
         {
           "title": "Applied Materials Is Silently Powering the AI Boom. Here's Why.",
           "url": "https://finance.yahoo.com/technology/ai/articles/applied-materials-silently-powering-ai-153600415.html",
           "publisher": "Motley Fool",
           "published": "2026-07-02T15:36:00Z"
-        },
-        {
-          "title": "This 40%-a-Year Fund Manager Says Semis Are STILL the Place to Be After a 100% Run",
-          "url": "https://finance.yahoo.com/technology/articles/40-fund-manager-says-semis-153107696.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-07-02T15:31:07Z"
-        },
-        {
-          "title": "Does Intel pay dividends? How the chipmaker spends its money",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/does-intel-pay-dividends-chipmaker-152300634.html",
-          "publisher": "TheStreet",
-          "published": "2026-07-02T15:23:00Z"
         }
       ]
     },
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 516.72,
+      "price": 517.15,
       "previous_close": 540.88,
-      "change_pct": -4.47,
-      "market_cap": 843542334510.3557,
+      "change_pct": -4.39,
+      "market_cap": 842849349143.5737,
       "headlines": [
+        {
+          "title": "The Nasdaq Was Up 26% in the First Half of 2026 \u2014 These 3 AI Stocks Are Just Getting Started",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-26-first-half-2026-155218290.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-07-02T15:52:18Z"
+        },
         {
           "title": "This 40%-a-Year Fund Manager Says Semis Are STILL the Place to Be After a 100% Run",
           "url": "https://finance.yahoo.com/technology/articles/40-fund-manager-says-semis-153107696.html",
@@ -135,22 +143,16 @@
           "url": "https://finance.yahoo.com/markets/options/articles/wide-divide-priced-advanced-micro-152952749.html",
           "publisher": "Trefis",
           "published": "2026-07-02T15:29:52Z"
-        },
-        {
-          "title": "Price Prediction: Nvidia Could Hit $250 in 12 Months Despite AI Selloff",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-nvidia-could-hit-145718276.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-07-02T14:57:18Z"
         }
       ]
     },
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 122.81,
+      "price": 122.34,
       "previous_close": 127.02,
-      "change_pct": -3.31,
-      "market_cap": 617469246871.9482,
+      "change_pct": -3.68,
+      "market_cap": 614730047729.4922,
       "headlines": [
         {
           "title": "Trump administration may get a 5% stake in OpenAI. What would this mean for markets?",
@@ -175,10 +177,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 320.57,
+      "price": 320.21,
       "previous_close": 337.47,
-      "change_pct": -5.01,
-      "market_cap": 341348452787.86176,
+      "change_pct": -5.11,
+      "market_cap": 340635554912.3053,
       "headlines": [
         {
           "title": "Arm (ARM) Stock Looks Expensive Despite Fresh Agentic AI Demand News",
@@ -203,11 +205,17 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 249.62,
+      "price": 249.27,
       "previous_close": 272.05,
-      "change_pct": -8.24,
-      "market_cap": 218418575921.63086,
+      "change_pct": -8.37,
+      "market_cap": 217965171203.61328,
       "headlines": [
+        {
+          "title": "Follow Stock Market Leaders To Stay In Step With Broader Market Health",
+          "url": "https://www.investors.com/how-to-invest/investors-corner/stock-market-leaders-micron-amat-dell-sp500-health/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-07-02T15:59:07Z"
+        },
         {
           "title": "The Wide Divide Priced Into Advanced Micro Devices Stock",
           "url": "https://finance.yahoo.com/markets/options/articles/wide-divide-priced-advanced-micro-152952749.html",
@@ -219,22 +227,16 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-mrvl-gains-ai-141751528.html",
           "publisher": "Insider Monkey",
           "published": "2026-07-02T14:17:51Z"
-        },
-        {
-          "title": "PENG's CXL Bet Expands: Can It Become a Future Revenue Catalyst?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/pengs-cxl-bet-expands-become-125100535.html",
-          "publisher": "Zacks",
-          "published": "2026-07-02T12:51:00Z"
         }
       ]
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 174.49,
+      "price": 174.39,
       "previous_close": 181.92,
-      "change_pct": -4.08,
-      "market_cap": 183954618713.3789,
+      "change_pct": -4.14,
+      "market_cap": 183886106140.13672,
       "headlines": [
         {
           "title": "The Wide Divide Priced Into Advanced Micro Devices Stock",
@@ -259,11 +261,17 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 271.75,
+      "price": 272.27,
       "previous_close": 279.18,
-      "change_pct": -2.66,
-      "market_cap": 68630473602.619354,
+      "change_pct": -2.47,
+      "market_cap": 68740929699.68185,
       "headlines": [
+        {
+          "title": "Q1 Earnings Highlights: NXP Semiconductors (NASDAQ:NXPI) Vs The Rest Of The Analog Semiconductors Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/q1-earnings-highlights-nxp-semiconductors-155624067.html",
+          "publisher": "StockStory",
+          "published": "2026-07-02T15:56:24Z"
+        },
         {
           "title": "Will NXP (NXPI)\u02bcs New Investor Relations Leader Subtly Reframe Its Automotive and AI-Edge Story?",
           "url": "https://finance.yahoo.com/technology/ai/articles/nxp-nxpi-investor-relations-leader-153047816.html",
@@ -275,22 +283,16 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-avoid-nxpi-1-125700927.html",
           "publisher": "StockStory",
           "published": "2026-07-01T12:57:00Z"
-        },
-        {
-          "title": "1 Unpopular Stock That Should Get More Attention and 2 Facing Headwinds",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-unpopular-stock-more-attention-104900938.html",
-          "publisher": "StockStory",
-          "published": "2026-07-01T10:49:00Z"
         }
       ]
     },
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 134.9,
+      "price": 134.73,
       "previous_close": 146.3,
-      "change_pct": -7.79,
-      "market_cap": 18482359073.070404,
+      "change_pct": -7.91,
+      "market_cap": 18463863764.98204,
       "headlines": [
         {
           "title": "Lam Research Stock Surges 154% in H1'26: Should You Buy More or Exit?",
@@ -313,40 +315,12 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 193.71,
-      "previous_close": 172.44,
-      "change_pct": 12.33,
-      "market_cap": 9803281831.075592,
-      "headlines": [
-        {
-          "title": "AeroVironment (AVAV) Stock Fair Value Falls As Analysts Cut Targets On Program Risks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-stock-fair-value-151441882.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-02T15:14:41Z"
-        },
-        {
-          "title": "Earnings Calendar and Analysis for This Week (July 6-10)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-calendar-analysis-week-june-162434561.html",
-          "publisher": "Kiplinger",
-          "published": "2026-07-02T13:41:45Z"
-        },
-        {
-          "title": "AeroVironment Stock Soared on a Blowout Quarter. Is the Drone Boom Just Getting Started?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-stock-soared-blowout-quarter-014600372.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-02T01:46:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 122.04,
+      "price": 121.83,
       "previous_close": 126.68,
-      "change_pct": -3.66,
-      "market_cap": 4767404220.894104,
+      "change_pct": -3.83,
+      "market_cap": 4766232388.298035,
       "headlines": [
         {
           "title": "Cantor Fitzgerald Raises Price Target on ON Semiconductor Corporation (ON)",
@@ -371,10 +345,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 41.19,
+      "price": 41.08,
       "previous_close": 45.51,
-      "change_pct": -9.49,
-      "market_cap": 1157556760.6949883,
+      "change_pct": -9.73,
+      "market_cap": 1144462929.5320282,
       "headlines": [
         {
           "title": "Needham Initiates CEVA (CEVA) With A Buy Rating",
@@ -401,8 +375,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 61.16,
-      "change_pct": -7.14,
+      "price": 61.08,
+      "change_pct": -7.25,
       "holdings": [
         {
           "symbol": "MU",
@@ -445,8 +419,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -11.3,
-          "price": 1802.48,
+          "change_pct": -11.04,
+          "price": 1807.96,
           "currency": "USD"
         },
         {
@@ -454,8 +428,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -7.41,
-          "price": 847.39,
+          "change_pct": -7.58,
+          "price": 845.85,
           "currency": "USD"
         },
         {
@@ -463,8 +437,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -7.44,
-          "price": 553.84,
+          "change_pct": -7.68,
+          "price": 552.43,
           "currency": "USD"
         },
         {
@@ -491,8 +465,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 61.16,
-    "change_pct": -7.14,
+    "price": 61.08,
+    "change_pct": -7.25,
     "holdings": [
       {
         "symbol": "MU",
@@ -535,8 +509,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -11.3,
-        "price": 1802.48,
+        "change_pct": -11.04,
+        "price": 1807.96,
         "currency": "USD"
       },
       {
@@ -544,8 +518,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -7.41,
-        "price": 847.39,
+        "change_pct": -7.58,
+        "price": 845.85,
         "currency": "USD"
       },
       {
@@ -553,8 +527,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -7.44,
-        "price": 553.84,
+        "change_pct": -7.68,
+        "price": 552.43,
         "currency": "USD"
       },
       {
@@ -580,23 +554,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7467.17,
-      "change_pct": -0.21
+      "price": 7469.08,
+      "change_pct": -0.19
     },
     {
       "label": "BTC",
-      "price": 61487.9,
-      "change_pct": 2.47
+      "price": 61569.95,
+      "change_pct": 2.61
     },
     {
       "label": "Gold",
-      "price": 4138.4,
-      "change_pct": 1.72
+      "price": 4140.2,
+      "change_pct": 1.77
     },
     {
       "label": "Nasdaq100",
-      "price": 29369.34,
-      "change_pct": -1.48
+      "price": 29373.71,
+      "change_pct": -1.46
     }
   ]
 }

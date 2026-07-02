@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-02T20:21:53+00:00",
+  "as_of": "2026-07-02T20:27:12+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,29 +9,13 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "AVAV",
-   "company": "AeroVironment Inc",
-   "move_pct": 11.05,
-   "price": 191.5,
-   "volume": 4082210,
-   "volume_vs_avg": "~2x",
-   "heat_score": 75,
-   "direction": "up",
-   "why": "AeroVironment Stock Jumps. Sometimes Disabling Drones Is Worth More Than Making Them.",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.barrons.com/articles/aerovironment-stock-price-anti-drone-deal-46350e89?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-07-02T17:57:00Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 2,
    "ticker": "AMBA",
    "company": "Ambarella Inc",
-   "move_pct": -10.01,
-   "price": 79.5,
+   "move_pct": -10.54,
+   "price": 79.03,
    "volume": 2290704,
    "volume_vs_avg": "~1.2x",
-   "heat_score": 66,
+   "heat_score": 68,
    "direction": "down",
    "why": "Ambarella (AMBA) Stock Looks Fairly Valued Despite Expensive Sales Pricing",
    "catalyst_type": "momentum_narrative",
@@ -40,11 +24,11 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "ticker": "TSLA",
    "company": "Tesla Inc",
-   "move_pct": -7.57,
-   "price": 393.1,
+   "move_pct": -7.49,
+   "price": 393.46,
    "volume": 70934596,
    "volume_vs_avg": "~2x",
    "heat_score": 49,
@@ -56,7 +40,7 @@
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "ticker": "CGNX",
    "company": "Cognex Corp",
    "move_pct": -6.4,
@@ -72,11 +56,11 @@
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "MU",
    "company": "Micron Technology Inc",
-   "move_pct": -5.39,
-   "price": 976.6,
+   "move_pct": -5.4,
+   "price": 976.5,
    "volume": 60131971,
    "volume_vs_avg": "~1.1x",
    "heat_score": 39,
@@ -88,11 +72,11 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": -5.29,
-   "price": 120.3,
+   "move_pct": -5.32,
+   "price": 120.26,
    "volume": 122319394,
    "volume_vs_avg": "~0.9x",
    "heat_score": 38,
@@ -102,22 +86,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/1-major-warning-flag-amd-182600467.html",
    "published": "2026-07-02T18:26:00Z",
    "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 7,
-   "ticker": "META",
-   "company": "Meta Platforms Inc",
-   "move_pct": -5.0,
-   "price": 582.24,
-   "volume": 20851640,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 38,
-   "direction": "down",
-   "why": "Meta Eyes Cloud Business for AI Capacity",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/meta-eyes-cloud-business-ai-183605460.html",
-   "published": "2026-07-02T18:36:05Z",
-   "sector": "AI Platforms, Internet & AdTech"
   }
  ]
 }

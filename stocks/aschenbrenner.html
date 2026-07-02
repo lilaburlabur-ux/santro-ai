@@ -92,6 +92,7 @@
   .btbl td.dt{color:var(--text);font-weight:600;font-variant-numeric:tabular-nums;white-space:nowrap;}
   .needsverify{color:var(--faint);font-style:italic;font-size:12px;}
   .pill{display:inline-block;font-size:10px;font-weight:700;padding:2px 8px;border-radius:999px;white-space:nowrap;}
+  .pill.verified{background:rgba(34,197,94,.16);color:#22c55e;border:1px solid rgba(34,197,94,.5);}
   .pill.reported{background:rgba(34,197,94,.08);color:#34d399;border:1px solid rgba(52,211,153,.28);}
   .pill.needs{background:rgba(224,167,63,.10);color:#e0a73f;border:1px solid rgba(224,167,63,.3);}
   .pill.excluded{background:rgba(240,89,110,.10);color:#f0596e;border:1px solid rgba(240,89,110,.3);}
@@ -284,6 +285,15 @@
             <td><a href="https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/" target="_blank" rel="noopener nofollow">Fortune</a></td>
             <td class="dt">2026-03-05</td>
             <td>Named as another large crypto-mining firm in the fund's reported book.</td>
+          </tr>
+          <tr>
+            <td class="tk"><a href="/t?sym=BTDR"><b>BTDR</b></a></td><td>Bitdeer Technologies</td><td>Compute / AI hosting</td>
+            <td>Bitcoin miner pivoting to AI cloud/HPC; designs its in-house SEALMINER ASICs</td>
+            <td><span class="conf-h">High</span></td>
+            <td><span class="pill verified">SEC 13F · verified</span></td>
+            <td><a href="https://www.sec.gov/Archives/edgar/data/2045724/000204572426000008/0002045724-26-000008-index.html" target="_blank" rel="noopener nofollow">Situational Awareness 13F-HR (Q1 2026)</a></td>
+            <td class="dt">2026-05-18</td>
+            <td>Verified across three consecutive 13Fs: <b>929,600</b> sh (Q3 2025) → <b>1,788,000</b> (Q4 2025) → <b>3,439,450</b> (Q1 2026, ~$29.8M) — roughly doubled, then doubled again. As-of the filing period; current position not disclosed.</td>
           </tr>
         </tbody>
       </table>
@@ -494,6 +504,14 @@ window.ASCHENBRENNER_BASKET = {
       source_url:"https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/",
       source_date:"2026-03-05",
       notes:"Named as another large crypto-mining firm in the fund's reported book.",
+      include_in_main_bubble_map:true },
+    { ticker:"BTDR", company_name:"Bitdeer Technologies", asset_type:"stock", sector:"Compute / AI hosting", energy:false,
+      ai_relevance:"Bitcoin miner pivoting to AI cloud/HPC; in-house SEALMINER ASICs",
+      source_status:"verified_filing", confidence_level:"high",
+      source_type:"sec_filing", source_name:"SEC EDGAR — Situational Awareness LP 13F-HR (Q1 2026)",
+      source_url:"https://www.sec.gov/Archives/edgar/data/2045724/000204572426000008/0002045724-26-000008-index.html",
+      source_date:"2026-05-18", shares_progression:[["2025-09-30",929600],["2025-12-31",1788000],["2026-03-31",3439450]],
+      notes:"Verified across three consecutive 13Fs: 929,600 -> 1,788,000 -> 3,439,450 shares (~doubled, then ~doubled again; ~$29.8M as of Q1 2026). As-of filing periods; current position not disclosed.",
       include_in_main_bubble_map:true },
     { ticker:"SNDK", company_name:"Sandisk", asset_type:"stock", sector:"Memory / storage", energy:false,
       ai_relevance:"Memory & storage infrastructure for AI",

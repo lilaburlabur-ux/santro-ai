@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-02T02:29:04+00:00",
-  "as_of_local": "2026-07-02 02:29:04 UTC",
+  "as_of_utc": "2026-07-02T02:44:04+00:00",
+  "as_of_local": "2026-07-02 02:44:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/vgt-0-09-fee-hides-011911104.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-07-02T01:19:11Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 1032.28,
+      "previous_close": 1154.29,
+      "change_pct": -10.57,
+      "market_cap": 1165849995001.97,
+      "headlines": [
+        {
+          "title": "Why investors should 'complement' their SpaceX ETFs with these other themes",
+          "url": "https://finance.yahoo.com/video/why-investors-should-complement-their-spacex-etfs-with-these-other-themes-152831294.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-01T15:28:31Z"
+        },
+        {
+          "title": "Big Tech's first half was a story of hardware versus software",
+          "url": "https://finance.yahoo.com/technology/article/big-techs-first-half-was-a-story-of-hardware-versus-software-120311290.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-01T12:03:11Z"
+        },
+        {
+          "title": "Dow Jones Futures: Techs Rise With Tesla, Jobs Report Ahead; Meta Jumps On AI Move",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-meta-jumps-spacex-micron-tesla-deliveries-jobs-report/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-07-02T02:23:22Z"
         }
       ]
     },
@@ -180,7 +206,7 @@
       "price": 272.05,
       "previous_close": 297.89,
       "change_pct": -8.67,
-      "market_cap": 238194230026.74506,
+      "market_cap": 237989329321.28906,
       "headlines": [
         {
           "title": "Marvell Technology (MRVL) Could Gain If Amazon Sells Trainium Beyond AWS",
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -10.57,
+          "price": 1032.28,
           "currency": "USD"
         },
         {
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -4.69,
-          "price": 2440000.0,
+          "change_pct": -5.78,
+          "price": 2412000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -3.82,
-          "price": 302500.0,
+          "change_pct": -4.77,
+          "price": 299500.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -9.1,
-          "price": 80110.0,
+          "change_pct": -11.27,
+          "price": 78200.0,
           "currency": "JPY"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -3.56,
-          "price": 406.0,
+          "change_pct": -2.97,
+          "price": 408.5,
           "currency": "TWD"
         },
         {
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -3.16,
-          "price": 184.0,
+          "change_pct": -2.89,
+          "price": 184.5,
           "currency": "TWD"
         }
       ]
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -10.57,
+        "price": 1032.28,
         "currency": "USD"
       },
       {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -4.69,
-        "price": 2440000.0,
+        "change_pct": -5.78,
+        "price": 2412000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -3.82,
-        "price": 302500.0,
+        "change_pct": -4.77,
+        "price": 299500.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -9.1,
-        "price": 80110.0,
+        "change_pct": -11.27,
+        "price": 78200.0,
         "currency": "JPY"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -3.56,
-        "price": 406.0,
+        "change_pct": -2.97,
+        "price": 408.5,
         "currency": "TWD"
       },
       {
@@ -545,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -3.16,
-        "price": 184.0,
+        "change_pct": -2.89,
+        "price": 184.5,
         "currency": "TWD"
       }
     ]
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 60129.72,
-      "change_pct": 2.68
+      "price": 60315.97,
+      "change_pct": 3.0
     },
     {
       "label": "Gold",
-      "price": 4066.0,
-      "change_pct": 1.07
+      "price": 4063.5,
+      "change_pct": 1.01
     },
     {
       "label": "Nasdaq100",

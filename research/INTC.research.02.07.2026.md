@@ -18,7 +18,7 @@ Signed file: `INTC.research.02.07.2026`
 | Technical momentum | High | 1Y +426.70%; price +99.47% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -14.61% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-5.90%). |
-| Value attractiveness | Low (expensive) | Forward P/E 77.06, EV/Sales 12.36. |
+| Value attractiveness | Low (expensive) | Forward P/E 77.06, EV/Sales 11.73. |
 | Risk level | High | Beta 2.23, ATR 8.8% of price, short float 2.86%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: low (expensive), risk: high.
@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Trump administration may get a 5% stake in OpenAI. What would this mean for markets? | Yahoo Finance Video | 2026-07-02 |
+| Wall Street flees software plays for triple-digit chipmaker boom | TheStreet | 2026-07-02 |
+| Intel Stock Fell 9% in a Day After Soaring About 270% in the First Half. Buy the Dip Before July 23? | Motley Fool | 2026-07-02 |
 | Marvell Stock: A Faster Lane On The Same Highway | Trefis | 2026-07-02 |
-| Jim Cramer Just Named His Favorite Stock, and It’s the Comeback Nobody Saw Coming | 24/7 Wall St. | 2026-07-02 |
-| Trump Calls Micron a ‘Great’ Company but Can’t Stop the Stock From Falling | Barrons.com | 2026-07-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $53.76B | Revenue growth 7.20% y/y |
 | Profitability | Gross 37.20%, operating 6.88%, net -5.90% | ROA 0.63%, ROE -2.91% |
 | Balance sheet | Cash $32.79B, debt $45.03B | Current ratio 2.31, debt/equity 36.03 |
-| Valuation | P/E —, forward P/E 77.06, P/S 11.25, P/B 5.43 | EV/Sales 12.36, EV/EBITDA 46.86 |
+| Valuation | P/E —, forward P/E 77.06, P/S 11.25, P/B 5.43 | EV/Sales 11.73, EV/EBITDA 44.49 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $98.50 (42 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Primecap Management Company | 75,761,968 | 1.51% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 77.06, EV/Sales 12.36. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 77.06, EV/Sales 11.73. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.23, ATR 8.8% of price, short float 2.86%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -112,8 +112,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $120.35 | EV/Sales | 12.36 |
-| Market cap | $604.88B | EV/EBITDA | 46.86 |
+| Price | $120.35 | EV/Sales | 11.73 |
+| Market cap | $604.88B | EV/EBITDA | 44.49 |
 | Beta | 2.23 | Gross margin | 37.20% |
 | RSI(14) | 49.1 | Operating margin | 6.88% |
 | ATR(14) | 10.65 | Profit margin | -5.90% |

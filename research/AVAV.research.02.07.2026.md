@@ -36,10 +36,10 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 | Headline | Source | Date |
 |---|---|---|
+| Why Is AeroVironment (AVAV) Stock Rocketing Higher Today | StockStory | 2026-07-02 |
 | AEVEX Lands A New Deal, And A New Narrative | Trefis | 2026-07-02 |
-| Defense Contractors Stocks Q1 In Review: AeroVironment (NASDAQ:AVAV) Vs Peers | StockStory | 2026-07-02 |
 | AeroVironment Stock Jumps. Sometimes Disabling Drones Is Worth More Than Making Them. | Barrons.com | 2026-07-02 |
-| AVAV Stock On Track For A Five-Day Green Spell – Analysts Cheer AeroVironment’s Recent Government Award For Counterattacking Drones | Stocktwits | 2026-07-02 |
+| Defense Contractors Stocks Q1 In Review: AeroVironment (NASDAQ:AVAV) Vs Peers | StockStory | 2026-07-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -18,7 +18,7 @@ Signed file: `MRVL.research.02.07.2026`
 | Technical momentum | High | 1Y +222.60%; price +100.12% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -22.48% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 28.99%, revenue growth 27.60%. |
-| Value attractiveness | Low (expensive) | Forward P/E 39.70, EV/Sales 27.47. |
+| Value attractiveness | Low (expensive) | Forward P/E 39.70, EV/Sales 24.78. |
 | Risk level | High | Beta 2.28, ATR 11.2% of price, short float 5.26%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: low (expensive), risk: high.
@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Fed's Beth Hammack Warns AI Spending Could Keep Inflation Hot and Force Interest Rates Higher: 'Not Seeing A Lot Of Restraint...' | Benzinga | 2026-07-02 |
 | Marvell Stock: A Faster Lane On The Same Highway | Trefis | 2026-07-02 |
 | Jim Cramer Just Named His Favorite Stock, and It’s the Comeback Nobody Saw Coming | 24/7 Wall St. | 2026-07-02 |
 | Should You Buy, Sell, or Hold Astera Labs Stock at 40.16X PS? | Zacks | 2026-07-02 |
-| Follow Stock Market Leaders To Stay In Step With Broader Market Health | Investor's Business Daily | 2026-07-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $8.72B | Revenue growth 27.60% y/y |
 | Profitability | Gross 51.50%, operating 14.48%, net 28.99% | ROA 3.81%, ROE 16.03% |
 | Balance sheet | Cash $3.84B, debt $5.28B | Current ratio 3.28, debt/equity 28.97 |
-| Valuation | P/E 84.29, forward P/E 39.70, P/S 24.62, P/B 11.79 | EV/Sales 27.47, EV/EBITDA 88.28 |
+| Valuation | P/E 84.29, forward P/E 39.70, P/S 24.62, P/B 11.79 | EV/Sales 24.78, EV/EBITDA 79.65 |
 | Growth expectations | Earnings growth -80.40%, EPS q/q -80.60% | Analyst mean target $249.33 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Van Eck Associates Corporation | 10,745,703 | 1.23% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 39.70, EV/Sales 27.47. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 39.70, EV/Sales 24.78. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.28, ATR 11.2% of price, short float 5.26%. Size positions accordingly.
 - **Short interest risk:** short float 5.26% can fuel squeezes both ways around news.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -112,8 +112,8 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $245.29 | EV/Sales | 27.47 |
-| Market cap | $214.58B | EV/EBITDA | 88.28 |
+| Price | $245.29 | EV/Sales | 24.78 |
+| Market cap | $214.58B | EV/EBITDA | 79.65 |
 | Beta | 2.28 | Gross margin | 51.50% |
 | RSI(14) | 46.5 | Operating margin | 14.48% |
 | ATR(14) | 27.45 | Profit margin | 28.99% |

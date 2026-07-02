@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| Dow Closes At Record High As Weak Jobs Data Calm Rate Hike Fears, While Chipmakers Weigh On S&P 500, Nasdaq —  WMT, META, GM, KR, QCOM In Focus | Stocktwits | 2026-07-02 |
 | Marvell Stock: A Faster Lane On The Same Highway | Trefis | 2026-07-02 |
 | Amazon Builds More AI Device Chips | GuruFocus.com | 2026-07-02 |
 | The Wide Divide Priced Into Advanced Micro Devices Stock | Trefis | 2026-07-02 |
-| Will Microsoft's New Surface Devices Reignite the Hardware Business? | Zacks | 2026-07-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

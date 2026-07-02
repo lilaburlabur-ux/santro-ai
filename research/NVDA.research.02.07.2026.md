@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Palantir upgraded to Buy, Rivian lifts delivery outlook, Robinhood's new product | Yahoo Finance Video | 2026-07-02 |
-| Why Rivian Stock Popped Today | Motley Fool | 2026-07-02 |
-| Update: Dow Rises to Record as Wall Street Logs Weekly Gains | MT Newswires | 2026-07-02 |
-| Got $1,000 to Invest? Buy These 2 Stocks Right Now and Hold Them for Decades. | Motley Fool | 2026-07-02 |
+| The average investor is running away from 'Magnificent 7' stocks | Yahoo Finance | 2026-07-02 |
+| 3 Growth Stocks to Buy on the Dip | Motley Fool | 2026-07-02 |
+| Palantir Technologies (PLTR) Stock Trades Up, Here Is Why | StockStory | 2026-07-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

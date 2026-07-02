@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Wall Street flees software plays for triple-digit chipmaker boom | TheStreet | 2026-07-02 |
 | Marvell Stock: A Faster Lane On The Same Highway | Trefis | 2026-07-02 |
 | Jim Cramer Just Named His Favorite Stock, and It’s the Comeback Nobody Saw Coming | 24/7 Wall St. | 2026-07-02 |
 | 1 Major Warning Flag AMD and Intel Investors Can't Afford to Ignore | Motley Fool | 2026-07-02 |
-| Google, Disney Intellectual Property Licensing Partner Teases Breakout. Top Funds Buy In. | Investor's Business Daily | 2026-07-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

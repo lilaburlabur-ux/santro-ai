@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-02T21:00:41+00:00",
-  "as_of_local": "2026-07-02 21:00:41 UTC",
+  "as_of_utc": "2026-07-02T21:05:50+00:00",
+  "as_of_local": "2026-07-02 21:05:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVAV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -315,6 +313,34 @@
       ]
     },
     {
+      "symbol": "AVAV",
+      "name": "AeroVironment",
+      "price": 190.89,
+      "previous_close": 172.44,
+      "change_pct": 10.7,
+      "market_cap": 9660566815.81131,
+      "headlines": [
+        {
+          "title": "AEVEX Lands A New Deal, And A New Narrative",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/aevex-lands-deal-narrative-204156115.html",
+          "publisher": "Trefis",
+          "published": "2026-07-02T20:41:56Z"
+        },
+        {
+          "title": "Defense Contractors Stocks Q1 In Review: AeroVironment (NASDAQ:AVAV) Vs Peers",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/defense-contractors-stocks-q1-review-202824904.html",
+          "publisher": "StockStory",
+          "published": "2026-07-02T20:28:24Z"
+        },
+        {
+          "title": "AeroVironment Stock Jumps. Sometimes Disabling Drones Is Worth More Than Making Them.",
+          "url": "https://www.barrons.com/articles/aerovironment-stock-price-anti-drone-deal-46350e89?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-07-02T17:57:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 119.52,
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61502.98,
-      "change_pct": 2.5
+      "price": 61487.66,
+      "change_pct": 2.47
     },
     {
       "label": "Gold",
-      "price": 4132.7,
-      "change_pct": 1.58
+      "price": 4135.4,
+      "change_pct": 1.65
     },
     {
       "label": "Nasdaq100",

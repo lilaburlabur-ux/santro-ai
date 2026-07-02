@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Marvell Stock: A Faster Lane On The Same Highway | Trefis | 2026-07-02 |
+| Broadcom vs. ON Semiconductor: Which Technology Stock Is a Better Buy in 2026? | Motley Fool | 2026-07-02 |
 | The 2 Signals That Will Determine EWY’s Next 12 Months: AI Memory Demand and Samsung Concentration | 24/7 Wall St. | 2026-07-02 |
 | 3 AI Stocks to Still Buy If Inflation Stays Sticky | Motley Fool | 2026-07-02 |
-| Trump Financial Disclosure Shows 21,000 Trades in 2025 | Bloomberg | 2026-07-02 |
-| Broadcom vs. Navitas Semiconductor: Which AI Chip Maker Stock Is a Better Buy in 2026? | Motley Fool | 2026-07-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

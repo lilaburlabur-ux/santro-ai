@@ -37,8 +37,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Trump administration may get a 5% stake in OpenAI. What would this mean for markets? | Yahoo Finance Video | 2026-07-02 |
+| Marvell Stock: A Faster Lane On The Same Highway | Trefis | 2026-07-02 |
 | Jim Cramer Just Named His Favorite Stock, and It’s the Comeback Nobody Saw Coming | 24/7 Wall St. | 2026-07-02 |
-| Stock Market Today: Nasdaq Leads Broad Tech Drop But Dow Rises; Fiber Optic Stocks Whacked (Live Coverage) | Investor's Business Daily | 2026-07-02 |
 | Trump Calls Micron a ‘Great’ Company but Can’t Stop the Stock From Falling | Barrons.com | 2026-07-02 |
 
 ## 3. Technical Analysis

@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Dow Jones Futures: Dow Hits High But AI Tumbles; Apple, Robinhood Are Buys As Tesla, Sandisk Dive | Investor's Business Daily | 2026-07-02 |
 | This 40%-a-Year Fund Manager Says Semis Are STILL the Place to Be After a 100% Run | 24/7 Wall St. | 2026-07-02 |
-| Does Intel pay dividends? How the chipmaker spends its money | TheStreet | 2026-07-02 |
+| Does Intel pay dividends? History & future prospects explained | TheStreet | 2026-07-02 |
 | Anthropic explores Samsung 2nm chip partnership - The Information | Investing.com | 2026-07-02 |
-| The ‘Michael Burry Bear Case’ for AI Chips Is Back, and This GPU Math Problem Won’t Go Away | 24/7 Wall St. | 2026-07-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

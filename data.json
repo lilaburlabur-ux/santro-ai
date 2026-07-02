@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-02T10:32:25+00:00",
-  "as_of_local": "2026-07-02 10:32:25 UTC",
+  "as_of_utc": "2026-07-02T10:37:28+00:00",
+  "as_of_local": "2026-07-02 10:37:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -31,6 +29,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/309-2026-micron-stock-still-100600184.html",
           "publisher": "Motley Fool",
           "published": "2026-07-02T10:06:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 444.23,
+      "previous_close": 477.57,
+      "change_pct": -6.98,
+      "market_cap": 2303987407775.2954,
+      "headlines": [
+        {
+          "title": "Asian stocks slide on chip sell-off as markets await US jobs data",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-slide-chip-sell-073936037.html",
+          "publisher": "Euronews",
+          "published": "2026-07-02T07:39:36Z"
+        },
+        {
+          "title": "Stocks Surged in Q2 2026, but Is the Market Getting Too Expensive?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-surged-q2-2026-market-214900729.html",
+          "publisher": "Zacks",
+          "published": "2026-07-01T21:49:00Z"
+        },
+        {
+          "title": "TSMC (TSM) Falls More Steeply Than Broader Market: What Investors Need to Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-falls-more-steeply-214506709.html",
+          "publisher": "Zacks",
+          "published": "2026-07-01T21:45:06Z"
         }
       ]
     },
@@ -180,7 +206,7 @@
       "price": 272.05,
       "previous_close": 297.89,
       "change_pct": -8.67,
-      "market_cap": 238194230026.74506,
+      "market_cap": 237989329321.28906,
       "headlines": [
         {
           "title": "2 Cash-Producing Stocks with Competitive Advantages and 1 That Underwhelm",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61163.94,
-      "change_pct": 1.93
+      "price": 61203.74,
+      "change_pct": 2.0
     },
     {
       "label": "Gold",
-      "price": 4080.0,
-      "change_pct": 0.29
+      "price": 4079.6,
+      "change_pct": 0.28
     },
     {
       "label": "Nasdaq100",

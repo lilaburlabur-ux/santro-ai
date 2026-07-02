@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-02T05:35:27+00:00",
-  "as_of_local": "2026-07-02 05:35:27 UTC",
+  "as_of_utc": "2026-07-02T05:50:32+00:00",
+  "as_of_local": "2026-07-02 05:50:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-07-01T14:19:12Z"
         },
         {
+          "title": "Why has Wall Street fallen out of love with the 'Magnificent Seven'?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-wall-street-fallen-love-053042496.html",
+          "publisher": "Euronews",
+          "published": "2026-07-02T05:30:42Z"
+        },
+        {
           "title": "The Stock Market Is on the Verge of Doing Something for the First Time in 155 Years, and History Is Crystal Clear on What It Could Mean for Investors",
           "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-verge-doing-something-052000302.html",
           "publisher": "Motley Fool",
           "published": "2026-07-02T05:20:00Z"
-        },
-        {
-          "title": "1 Artificial Intelligence Stock You Can Buy and Hold for the Next Decade",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-artificial-intelligence-stock-buy-042000432.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-02T04:20:00Z"
         }
       ]
     },
@@ -109,10 +111,10 @@
           "published": "2026-07-01T12:03:11Z"
         },
         {
-          "title": "MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-stx-wdc-stocks-040040987.html",
-          "publisher": "Stocktwits",
-          "published": "2026-07-02T04:00:40Z"
+          "title": "AI Funds Were Unstoppable in the Second Quarter",
+          "url": "https://www.barrons.com/articles/ai-funds-17351462?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-07-02T05:00:00Z"
         }
       ]
     },
@@ -197,34 +199,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/softbank-reportedly-reopens-talks-10bn-211430744.html",
           "publisher": "Investing.com",
           "published": "2026-07-01T21:14:30Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 272.05,
-      "previous_close": 297.89,
-      "change_pct": -8.67,
-      "market_cap": 237989329321.28906,
-      "headlines": [
-        {
-          "title": "Marvell Technology (MRVL) Could Gain If Amazon Sells Trainium Beyond AWS",
-          "url": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-mrvl-could-gain-021158920.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-02T02:11:58Z"
-        },
-        {
-          "title": "Here\u2019s Why POET Technologies (POET) Has Declined Recently, Wall Street Continues to See Huge Upside",
-          "url": "https://finance.yahoo.com/technology/ai/articles/why-poet-technologies-poet-declined-210508374.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-07-01T21:05:08Z"
-        },
-        {
-          "title": "AMD Stock Falls From Record High\u2014and a $1 Trillion Market Cap Is Suddenly Far Away",
-          "url": "https://www.barrons.com/articles/amd-stock-price-trillion-market-value-marvell-c4c6541e?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-07-01T18:38:00Z"
         }
       ]
     },
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -8.71,
-          "price": 2337000.0,
+          "change_pct": -9.65,
+          "price": 2313000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -6.92,
-          "price": 292750.0,
+          "change_pct": -7.47,
+          "price": 291000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -11.02,
-          "price": 78420.0,
+          "change_pct": -11.52,
+          "price": 77980.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -4.04,
-          "price": 404.0,
+          "change_pct": -3.33,
+          "price": 407.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -3.95,
-          "price": 182.5,
+          "change_pct": -3.42,
+          "price": 183.5,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -8.71,
-        "price": 2337000.0,
+        "change_pct": -9.65,
+        "price": 2313000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -6.92,
-        "price": 292750.0,
+        "change_pct": -7.47,
+        "price": 291000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -11.02,
-        "price": 78420.0,
+        "change_pct": -11.52,
+        "price": 77980.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -4.04,
-        "price": 404.0,
+        "change_pct": -3.33,
+        "price": 407.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -3.95,
-        "price": 182.5,
+        "change_pct": -3.42,
+        "price": 183.5,
         "currency": "TWD"
       }
     ]
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 60699.94,
-      "change_pct": 3.66
+      "price": 60457.27,
+      "change_pct": 3.24
     },
     {
       "label": "Gold",

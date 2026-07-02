@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-02T11:23:15+00:00",
-  "as_of_local": "2026-07-02 11:23:15 UTC",
+  "as_of_utc": "2026-07-02T11:28:21+00:00",
+  "as_of_local": "2026-07-02 11:28:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -147,6 +145,34 @@
       ]
     },
     {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 127.02,
+      "previous_close": 139.63,
+      "change_pct": -9.03,
+      "market_cap": 638402503128.0518,
+      "headlines": [
+        {
+          "title": "Why investors should 'complement' their SpaceX ETFs with these other themes",
+          "url": "https://finance.yahoo.com/video/why-investors-should-complement-their-spacex-etfs-with-these-other-themes-152831294.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-01T15:28:31Z"
+        },
+        {
+          "title": "Big Tech's first half was a story of hardware versus software",
+          "url": "https://finance.yahoo.com/technology/article/big-techs-first-half-was-a-story-of-hardware-versus-software-120311290.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-01T12:03:11Z"
+        },
+        {
+          "title": "Chip Wreck Roils Asian Stock Markets",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/chip-wreck-roils-asian-stock-103729383.html",
+          "publisher": "MT Newswires",
+          "published": "2026-07-02T10:37:29Z"
+        }
+      ]
+    },
+    {
       "symbol": "ARM",
       "name": "Arm Holdings",
       "price": 337.47,
@@ -211,6 +237,12 @@
       "market_cap": 191743678070.06836,
       "headlines": [
         {
+          "title": "QUALCOMM (QCOM) Stock Just Lost Its Place In Several Russell Indices",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-just-lost-111028928.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-07-02T11:10:28Z"
+        },
+        {
           "title": "S&P 500, Nasdaq End Lower As Investors Continue Rotation Out Of Tech And Chipmakers \u2014  WMT, META, GM, KR, QCOM In Focus",
           "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-end-lower-215106659.html",
           "publisher": "Stocktwits",
@@ -221,12 +253,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/qcom-stock-slips-toward-fourth-201043903.html",
           "publisher": "Stocktwits",
           "published": "2026-07-01T20:10:43Z"
-        },
-        {
-          "title": "Elon Musk Sends SpaceX Shares Lower With Two-Word AI Device Denial",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-sends-spacex-shares-194119661.html",
-          "publisher": "BeInCrypto",
-          "published": "2026-07-01T19:41:19Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61229.72,
-      "change_pct": 2.04
+      "price": 61252.07,
+      "change_pct": 2.08
     },
     {
       "label": "Gold",
-      "price": 4074.1,
-      "change_pct": 0.14
+      "price": 4076.1,
+      "change_pct": 0.19
     },
     {
       "label": "Nasdaq100",

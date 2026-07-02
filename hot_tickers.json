@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-02T20:45:32+00:00",
+  "as_of": "2026-07-02T20:46:10+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -43,8 +43,8 @@
    "rank": 3,
    "ticker": "TSLA",
    "company": "Tesla Inc",
-   "move_pct": -7.54,
-   "price": 393.25,
+   "move_pct": -7.55,
+   "price": 393.2,
    "volume": 70934596,
    "volume_vs_avg": "~2x",
    "heat_score": 49,
@@ -91,8 +91,8 @@
    "rank": 6,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": -5.32,
-   "price": 120.26,
+   "move_pct": -5.31,
+   "price": 120.27,
    "volume": 122319394,
    "volume_vs_avg": "~0.9x",
    "heat_score": 38,

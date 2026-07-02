@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-02T14:10:38+00:00",
+  "as_of": "2026-07-02T14:25:52+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "TSLA",
+   "company": "Tesla Inc",
+   "move_pct": -5.51,
+   "price": 401.89,
+   "volume": 19225411,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 36,
+   "direction": "down",
+   "why": "Tesla Eyes 3% Delivery Growth as Europe Sales Jump 57%",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/tesla-eyes-3-delivery-growth-140457824.html",
+   "published": "2026-07-02T14:04:57Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  }
+ ]
 }

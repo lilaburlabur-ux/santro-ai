@@ -1157,6 +1157,15 @@ function renderSamples(){
           <div class="fire">🔥 ${t.heat_score}</div>
         </div>`;}).join("")
       + `<div class="runner-note">${hotData.meta.heat_criteria}<br>${hotData.meta.disclaimer}</div>`;
+  } else if(hotData && hotData.meta){
+    // feed is HEALTHY, just nothing qualifies this cycle (common in premarket/
+    // quiet tape) — say that honestly instead of pretending we're offline
+    if(rb){ rb.textContent=`Auto · ${timeAgo(hotData.meta.as_of)}`; rb.className="badge live"; }
+    document.getElementById("small").innerHTML=
+      `<div class="hot-slogan">Hot = attention, not direction</div>`+
+      `<div class="runner-note"><b style="color:var(--text)">Nothing is hot this cycle.</b> No ticker currently
+       meets 2 of 3: |day move| &gt; 5%, volume &gt; 3× its 30-day average, or a fresh catalyst.
+       A quiet tape is information too — we never pad this list. Re-scans every 15 minutes.</div>`;
   } else {
     // no fake fallbacks — an honest empty state beats stale sample data
     if(rb){ rb.textContent="Offline"; rb.className="badge sample"; }

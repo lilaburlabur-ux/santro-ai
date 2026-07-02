@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | What's next for AI and Big Tech in the second half of 2026? | Yahoo Finance Video | 2026-07-01 |
+| Amazon Reportedly Plans In-House Processors For Consumer Devices In Major Shift, Analyst Says | Stocktwits | 2026-07-02 |
 | SpaceX Stock Is Down 22% From Its Peak. History Says This Is How Low It Will Go -- and What Comes Next. | Motley Fool | 2026-07-02 |
 | Want a Lifetime of Passive Income? Buy Realty Income Stock in July and Never Sell. | Motley Fool | 2026-07-02 |
-| This Once-Booming Stock Is Down 78% From Its All-Time High. Here's 1 Reason to Consider Buying Now. | Motley Fool | 2026-07-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-03T01:13:39+00:00",
-  "as_of_local": "2026-07-03 01:13:39 UTC",
+  "as_of_utc": "2026-07-03T01:28:43+00:00",
+  "as_of_local": "2026-07-03 01:28:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVAV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -239,6 +237,12 @@
       "market_cap": 185767500000.0,
       "headlines": [
         {
+          "title": "Why Qualcomm (QCOM) Shares Are Trading Lower Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-shares-trading-011624811.html",
+          "publisher": "StockStory",
+          "published": "2026-07-03T01:16:24Z"
+        },
+        {
           "title": "Dow Closes At Record High As Weak Jobs Data Calm Rate Hike Fears, While Chipmakers Weigh On S&P 500, Nasdaq \u2014  WMT, META, GM, KR, QCOM In Focus",
           "url": "https://finance.yahoo.com/markets/stocks/articles/dow-closes-record-high-weak-220532979.html",
           "publisher": "Stocktwits",
@@ -249,12 +253,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-faster-lane-same-202239476.html",
           "publisher": "Trefis",
           "published": "2026-07-02T20:22:39Z"
-        },
-        {
-          "title": "Amazon Builds More AI Device Chips",
-          "url": "https://finance.yahoo.com/technology/ai/articles/amazon-builds-more-ai-device-183522186.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-07-02T18:35:22Z"
         }
       ]
     },
@@ -311,6 +309,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/supported-lattice-semiconductor-corp-lscc-125706772.html",
           "publisher": "Insider Monkey",
           "published": "2026-07-01T12:57:06Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVAV",
+      "name": "AeroVironment",
+      "price": 190.89,
+      "previous_close": 172.44,
+      "change_pct": 10.7,
+      "market_cap": 9660566815.81131,
+      "headlines": [
+        {
+          "title": "Why AeroVironment Stock Climbed Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-aerovironment-stock-climbed-today-003644650.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-03T00:36:44Z"
+        },
+        {
+          "title": "Why Is AeroVironment (AVAV) Stock Rocketing Higher Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-aerovironment-avav-stock-rocketing-233224912.html",
+          "publisher": "StockStory",
+          "published": "2026-07-02T23:32:24Z"
+        },
+        {
+          "title": "AEVEX Lands A New Deal, And A New Narrative",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/aevex-lands-deal-narrative-204156115.html",
+          "publisher": "Trefis",
+          "published": "2026-07-02T20:41:56Z"
         }
       ]
     },
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -4.12,
-          "price": 2097000.0,
+          "change_pct": -1.87,
+          "price": 2146000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.52,
-          "price": 287500.0,
+          "change_pct": 2.71,
+          "price": 293750.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -0.29,
-          "price": 76040.0,
+          "change_pct": 1.38,
+          "price": 77310.0,
           "currency": "JPY"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -3.33,
-          "price": 407.0,
+          "change_pct": -1.23,
+          "price": 402.0,
           "currency": "TWD"
         },
         {
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -3.42,
-          "price": 183.5,
+          "change_pct": -0.54,
+          "price": 182.5,
           "currency": "TWD"
         }
       ]
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -4.12,
-        "price": 2097000.0,
+        "change_pct": -1.87,
+        "price": 2146000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.52,
-        "price": 287500.0,
+        "change_pct": 2.71,
+        "price": 293750.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -0.29,
-        "price": 76040.0,
+        "change_pct": 1.38,
+        "price": 77310.0,
         "currency": "JPY"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -3.33,
-        "price": 407.0,
+        "change_pct": -1.23,
+        "price": 402.0,
         "currency": "TWD"
       },
       {
@@ -545,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -3.42,
-        "price": 183.5,
+        "change_pct": -0.54,
+        "price": 182.5,
         "currency": "TWD"
       }
     ]
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61497.67,
+      "price": 61497.98,
       "change_pct": 2.49
     },
     {
       "label": "Gold",
-      "price": 4169.3,
-      "change_pct": 2.48
+      "price": 4188.9,
+      "change_pct": 2.96
     },
     {
       "label": "Nasdaq100",

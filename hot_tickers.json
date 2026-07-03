@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-03T00:23:05+00:00",
+  "as_of": "2026-07-03T00:38:13+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -65,10 +65,10 @@
    "volume_vs_avg": "~2x",
    "heat_score": 49,
    "direction": "down",
-   "why": "Dow Jones Futures: Dow Hits High But AI Tumbles; Apple, Robinhood Are Buys As Tesla, Sandisk Dive",
+   "why": "Why Tesla (TSLA) Shares Are Getting Obliterated Today",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-tumbles-apple-robinhood-buy-signals-tesla-sandisk-dive/?src=A00220&yptr=yahoo",
-   "published": "2026-07-02T23:51:19Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-shares-getting-001224073.html",
+   "published": "2026-07-03T00:12:24Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
@@ -113,10 +113,10 @@
    "volume_vs_avg": "~0.9x",
    "heat_score": 38,
    "direction": "down",
-   "why": "Intel Stock Fell 9% in a Day After Soaring About 270% in the First Half. Buy the Dip Before July 23?",
+   "why": "Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-fell-9-day-212600327.html",
-   "published": "2026-07-02T21:26:00Z",
+   "source_url": "https://finance.yahoo.com/economy/policy/articles/trump-weighs-elon-musk-openai-232657285.html",
+   "published": "2026-07-02T23:26:57Z",
    "sector": "AI Chips & Compute"
   }
  ]

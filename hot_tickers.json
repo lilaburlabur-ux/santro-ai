@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-03T16:15:48+00:00",
+  "as_of": "2026-07-03T16:30:57+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -68,7 +68,7 @@
    "why": "Dow Jones Futures: Techs Rebound After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-tumbles-apple-robinhood-buy-signals-tesla-sandisk-dive/?src=A00220&yptr=yahoo",
-   "published": "2026-07-03T15:54:26Z",
+   "published": "2026-07-03T16:05:26Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
@@ -113,10 +113,10 @@
    "volume_vs_avg": "~1.1x",
    "heat_score": 40,
    "direction": "down",
-   "why": "Michael Burry Shorts Micron, Adding to His NVIDIA and Applied Materials Short Bets Against Chip Stocks",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-shorts-micron-adding-141819112.html",
-   "published": "2026-07-03T14:18:19Z",
+   "why": "This Is the Single Most Important Number from Micron's Monster Earnings Report",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/single-most-important-number-microns-155000279.html",
+   "published": "2026-07-03T15:50:00Z",
    "sector": "AI Chips & Compute"
   },
   {

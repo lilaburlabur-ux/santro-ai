@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-03T11:41:40+00:00",
-  "as_of_local": "2026-07-03 11:41:40 UTC",
+  "as_of_utc": "2026-07-03T11:46:42+00:00",
+  "as_of_local": "2026-07-03 11:46:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -175,12 +173,40 @@
       ]
     },
     {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 315.28,
+      "previous_close": 337.47,
+      "change_pct": -6.58,
+      "market_cap": 335474887385.9862,
+      "headlines": [
+        {
+          "title": "Why a Hot July CPI Print Could Hit This Semiconductor Chip Hard",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-hot-july-cpi-print-162013321.html",
+          "publisher": "BeInCrypto",
+          "published": "2026-07-02T16:20:13Z"
+        },
+        {
+          "title": "ARM Stock Soars 118% in a Year: Is the Buying Opportunity Gone?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-soars-118-buying-161800461.html",
+          "publisher": "Zacks",
+          "published": "2026-07-02T16:18:00Z"
+        },
+        {
+          "title": "Arm (ARM) Stock Looks Expensive Despite Fresh Agentic AI Demand News",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-arm-stock-looks-expensive-001823946.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-07-02T00:18:23Z"
+        }
+      ]
+    },
+    {
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "price": 245.29,
       "previous_close": 272.05,
       "change_pct": -9.84,
-      "market_cap": 214579686126.70898,
+      "market_cap": 214764431926.82227,
       "headlines": [
         {
           "title": "Jim Cramer Says If Jensen Huang Is Right, Marvell Has \u201cA Lot More Upside\u201d",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61815.49,
-      "change_pct": 0.54
+      "price": 61843.22,
+      "change_pct": 0.58
     },
     {
       "label": "Gold",
-      "price": 4195.8,
-      "change_pct": 2.02
+      "price": 4197.7,
+      "change_pct": 2.07
     },
     {
       "label": "Nasdaq100",

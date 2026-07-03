@@ -19,7 +19,7 @@ Signed file: `NVDA.research.03.07.2026`
 | Fresh setup quality | Moderate / wait | -17.26% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 62.97%, revenue growth 85.20%. |
 | Value attractiveness | Reasonable | Forward P/E 15.26, EV/Sales 18.44. |
-| Risk level | High | Beta 2.20, ATR 3.7% of price, short float 1.29%. |
+| Risk level | High | Beta 2.21, ATR 3.7% of price, short float 1.29%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Palantir stock jumps on analyst upgrade 'as profits have soared' | Yahoo Finance | 2026-07-02 |
-| Jim Cramer Explains How NVIDIA Can Change “Direction of the Price” | Insider Monkey | 2026-07-03 |
-| Apple Just Made a Controversial Move. Is the Stock One to Avoid or Is Now the Time to Buy? | Motley Fool | 2026-07-03 |
-| Members of Congress Are Loading Up on Johnson & Johnson and UnitedHealth. Here's Why Retail Investors Should Pay Attention. | Motley Fool | 2026-07-03 |
+| Is Solana the Best Ethereum Alternative Right Now? | Motley Fool | 2026-07-03 |
+| Prediction: This Oil Stock Will Beat the S&P 500 in the Second Half of 2026 | Motley Fool | 2026-07-03 |
+| 3 Things I Wish I Knew About Retirement Savings When I Started Working | Motley Fool | 2026-07-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -47,7 +47,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Price vs 52-week range | Close $194.83; 52w high $235.47 (-17.26%); 52w low $157.04 (+24.06%) |
 | Trend | +2.10% vs SMA200, -7.07% vs SMA50, -4.25% vs SMA20 |
 | Momentum | RSI(14) 41.2 (neutral) |
-| Volatility | ATR(14) 7.12 (~3.7% of price); beta 2.20 |
+| Volatility | ATR(14) 7.12 (~3.7% of price); beta 2.21 |
 | Setup perspective | -17.26% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -95,7 +95,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Northern Trust Corporation | 252,741,836 | 1.04% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.20, ATR 3.7% of price, short float 1.29%. Size positions accordingly.
+- **Volatility risk:** Beta 2.21, ATR 3.7% of price, short float 1.29%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -112,7 +112,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|---|
 | Price | $194.83 | EV/Sales | 18.44 |
 | Market cap | $4.72T | EV/EBITDA | 28.24 |
-| Beta | 2.20 | Gross margin | 74.14% |
+| Beta | 2.21 | Gross margin | 74.14% |
 | RSI(14) | 41.2 | Operating margin | 65.60% |
 | ATR(14) | 7.12 | Profit margin | 62.97% |
 | SMA20 dist | -4.25% | ROA | 52.73% |

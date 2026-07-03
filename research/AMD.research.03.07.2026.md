@@ -19,7 +19,7 @@ Signed file: `AMD.research.03.07.2026`
 | Fresh setup quality | Moderate / wait | -10.86% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.37%, revenue growth 37.80%. |
 | Value attractiveness | Low (expensive) | Forward P/E 39.30, EV/Sales 22.32. |
-| Risk level | High | Beta 2.49, ATR 6.9% of price, short float 2.88%. |
+| Risk level | High | Beta 2.47, ATR 6.9% of price, short float 2.88%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: low (expensive), risk: high.
 
@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| Intel, Marvell Technology, and AMD Stocks Trade Down, What You Need To Know | StockStory | 2026-07-03 |
-| Wall Street flees software plays for triple-digit chipmaker boom | TheStreet | 2026-07-02 |
-| Marvell Stock: A Faster Lane On The Same Highway | Trefis | 2026-07-02 |
-| Jim Cramer Just Named His Favorite Stock, and It’s the Comeback Nobody Saw Coming | 24/7 Wall St. | 2026-07-02 |
+| Top Invesco Analyst: The AI Trade That “Lifted All Boats” Is Over. Now Profitability Decides Winners As “Capacity Will Catch Up” | 24/7 Wall St. | 2026-07-03 |
+| AMD's Valuation is Stretched at 54.08X P/E: Buy, Sell or Hold the Stock? | Zacks | 2026-07-03 |
+| Up 140% YTD, Three Catalysts Will Take AMD to New Highs In 2026 | 24/7 Wall St. | 2026-07-03 |
+| Arm Holdings' Robust Licensing Business Drives AI-Fueled Growth | Zacks | 2026-07-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -47,7 +47,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Price vs 52-week range | Close $517.82; 52w high $580.91 (-10.86%); 52w low $134.80 (+284.14%) |
 | Trend | +86.14% vs SMA200, +12.48% vs SMA50, +0.19% vs SMA20 |
 | Momentum | RSI(14) 52.3 (neutral) |
-| Volatility | ATR(14) 35.87 (~6.9% of price); beta 2.49 |
+| Volatility | ATR(14) 35.87 (~6.9% of price); beta 2.47 |
 | Setup perspective | -10.86% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -96,7 +96,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 39.30, EV/Sales 22.32. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.49, ATR 6.9% of price, short float 2.88%. Size positions accordingly.
+- **Volatility risk:** Beta 2.47, ATR 6.9% of price, short float 2.88%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -113,7 +113,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 |---|---|---|---|
 | Price | $517.82 | EV/Sales | 22.32 |
 | Market cap | $844.36B | EV/EBITDA | 112.50 |
-| Beta | 2.49 | Gross margin | 53.06% |
+| Beta | 2.47 | Gross margin | 53.06% |
 | RSI(14) | 52.3 | Operating margin | 14.40% |
 | ATR(14) | 35.87 | Profit margin | 13.37% |
 | SMA20 dist | +0.19% | ROA | 3.65% |
@@ -123,7 +123,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | 52W low | $134.80 | Inst. ownership | 72.08% |
 | P/E (ttm) | 172.61 | Insider ownership | 0.40% |
 | Forward P/E | 39.30 | Short float | 2.88% |
-| PEG (trailing) | 1.30 | Avg volume | 36,853,079 |
+| PEG (trailing) | 1.24 | Avg volume | 36,853,079 |
 | P/S | 22.54 | Employees | 31,000 |
 | P/B | 13.09 | Analyst rec (1=buy..5=sell) | 1.5 |
 

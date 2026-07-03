@@ -19,7 +19,7 @@ Signed file: `CEVA.research.03.07.2026`
 | Fresh setup quality | Moderate / wait | -19.26% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-10.47%). |
 | Value attractiveness | Low (expensive) | Forward P/E 49.30, EV/Sales 8.25. |
-| Risk level | High | Beta 2.01, ATR 9.6% of price, short float 6.90%. |
+| Risk level | High | Beta 1.97, ATR 9.6% of price, short float 6.90%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: low (expensive), risk: high.
 
@@ -47,7 +47,7 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 | Price vs 52-week range | Close $40.42; 52w high $50.06 (-19.26%); 52w low $17.21 (+134.86%) |
 | Trend | +49.26% vs SMA200, +2.06% vs SMA50, -10.64% vs SMA20 |
 | Momentum | RSI(14) 45.1 (neutral) |
-| Volatility | ATR(14) 3.86 (~9.6% of price); beta 2.01 |
+| Volatility | ATR(14) 3.86 (~9.6% of price); beta 1.97 |
 | Setup perspective | -19.26% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -96,7 +96,7 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 49.30, EV/Sales 8.25. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.01, ATR 9.6% of price, short float 6.90%. Size positions accordingly.
+- **Volatility risk:** Beta 1.97, ATR 9.6% of price, short float 6.90%. Size positions accordingly.
 - **Short interest risk:** short float 6.90% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -115,7 +115,7 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 |---|---|---|---|
 | Price | $40.42 | EV/Sales | 8.25 |
 | Market cap | $1.13B | EV/EBITDA | -119.22 |
-| Beta | 2.01 | Gross margin | 87.19% |
+| Beta | 1.97 | Gross margin | 87.19% |
 | RSI(14) | 45.1 | Operating margin | -18.82% |
 | ATR(14) | 3.86 | Profit margin | -10.47% |
 | SMA20 dist | -10.64% | ROA | -2.16% |
@@ -125,7 +125,7 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 | 52W low | $17.21 | Inst. ownership | 92.47% |
 | P/E (ttm) | — | Insider ownership | 3.11% |
 | Forward P/E | 49.30 | Short float | 6.90% |
-| PEG (trailing) | 4.46 | Avg volume | 843,988 |
+| PEG (trailing) | 3.96 | Avg volume | 843,988 |
 | P/S | 10.02 | Employees | 400 |
 | P/B | 3.33 | Analyst rec (1=buy..5=sell) | 1.3 |
 

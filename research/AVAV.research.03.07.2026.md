@@ -19,7 +19,7 @@ Signed file: `AVAV.research.03.07.2026`
 | Fresh setup quality | Poor / broken | -53.42% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-13.41%). |
 | Value attractiveness | Low (expensive) | Forward P/E 41.29, EV/Sales 4.97. |
-| Risk level | High | Beta 1.40, ATR 7.3% of price, short float 12.57%. |
+| Risk level | High | Beta 1.40, ATR 7.3% of price, short float 12.56%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: low (expensive), risk: high.
 
@@ -36,10 +36,10 @@ AeroVironment, Inc. designs, develops, produces, delivers, and supports a portfo
 
 | Headline | Source | Date |
 |---|---|---|
+| AeroVironment’s Big Bet Gets a Pentagon Payday | Trefis | 2026-07-03 |
 | Why AeroVironment Stock Climbed Today | Motley Fool | 2026-07-03 |
 | Why Is AeroVironment (AVAV) Stock Rocketing Higher Today | StockStory | 2026-07-02 |
 | AEVEX Lands A New Deal, And A New Narrative | Trefis | 2026-07-02 |
-| AeroVironment Stock Jumps. Sometimes Disabling Drones Is Worth More Than Making Them. | Barrons.com | 2026-07-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,9 +74,9 @@ AeroVironment, Inc. designs, develops, produces, delivers, and supports a portfo
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 89.10% |
+| Institutional ownership | 89.11% |
 | Insider ownership | 0.77% |
-| Short float | 12.57% |
+| Short float | 12.56% |
 | Short ratio (days to cover) | 3.9 |
 
 **Top institutional holders:**
@@ -96,8 +96,8 @@ AeroVironment, Inc. designs, develops, produces, delivers, and supports a portfo
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 41.29, EV/Sales 4.97. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.40, ATR 7.3% of price, short float 12.57%. Size positions accordingly.
-- **Short interest risk:** short float 12.57% can fuel squeezes both ways around news.
+- **Volatility risk:** Beta 1.40, ATR 7.3% of price, short float 12.56%. Size positions accordingly.
+- **Short interest risk:** short float 12.56% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** defense/aerospace names live and die on government budgets, appropriations timing, and program/contract awards — revenue is policy-driven and lumpy.
@@ -123,9 +123,9 @@ AeroVironment, Inc. designs, develops, produces, delivers, and supports a portfo
 | SMA50 dist | +8.66% | ROE | -10.03% |
 | SMA200 dist | -24.94% | Revenue (ttm) | $1.98B |
 | 52W high | $409.83 | Revenue growth y/y | 133.30% |
-| 52W low | $136.68 | Inst. ownership | 89.10% |
+| 52W low | $136.68 | Inst. ownership | 89.11% |
 | P/E (ttm) | — | Insider ownership | 0.77% |
-| Forward P/E | 41.29 | Short float | 12.57% |
+| Forward P/E | 41.29 | Short float | 12.56% |
 | PEG (trailing) | — | Avg volume | 1,502,635 |
 | P/S | 4.89 | Employees | 3,991 |
 | P/B | 2.22 | Analyst rec (1=buy..5=sell) | 1.6 |

@@ -19,7 +19,7 @@ Signed file: `LSCC.research.03.07.2026`
 | Fresh setup quality | Moderate / wait | -12.07% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 3.46%, revenue growth 42.20%. |
 | Value attractiveness | Low (expensive) | Forward P/E 59.07, EV/Sales 32.41. |
-| Risk level | High | Beta 1.79, ATR 7.2% of price, short float 7.90%. |
+| Risk level | High | Beta 1.78, ATR 7.2% of price, short float 7.90%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: low (expensive), risk: high.
 
@@ -47,7 +47,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Price vs 52-week range | Close $136.53; 52w high $155.27 (-12.07%); 52w low $48.73 (+180.18%) |
 | Trend | +43.00% vs SMA200, +0.56% vs SMA50, -5.29% vs SMA20 |
 | Momentum | RSI(14) 46.2 (neutral) |
-| Volatility | ATR(14) 9.88 (~7.2% of price); beta 1.79 |
+| Volatility | ATR(14) 9.88 (~7.2% of price); beta 1.78 |
 | Setup perspective | -12.07% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -96,7 +96,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 59.07, EV/Sales 32.41. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.79, ATR 7.2% of price, short float 7.90%. Size positions accordingly.
+- **Volatility risk:** Beta 1.78, ATR 7.2% of price, short float 7.90%. Size positions accordingly.
 - **Short interest risk:** short float 7.90% can fuel squeezes both ways around news.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -114,7 +114,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 |---|---|---|---|
 | Price | $136.53 | EV/Sales | 32.41 |
 | Market cap | $18.71B | EV/EBITDA | 265.20 |
-| Beta | 1.79 | Gross margin | 68.44% |
+| Beta | 1.78 | Gross margin | 68.44% |
 | RSI(14) | 46.2 | Operating margin | 15.61% |
 | ATR(14) | 9.88 | Profit margin | 3.46% |
 | SMA20 dist | -5.29% | ROA | 2.48% |

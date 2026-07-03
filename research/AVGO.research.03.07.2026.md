@@ -19,7 +19,7 @@ Signed file: `AVGO.research.03.07.2026`
 | Fresh setup quality | Poor / broken | -25.03% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 38.85%, revenue growth 47.90%. |
 | Value attractiveness | Reasonable | Forward P/E 18.58, EV/Sales 23.32. |
-| Risk level | Elevated | Beta 1.43, ATR 5.0% of price, short float 1.32%. |
+| Risk level | Elevated | Beta 1.46, ATR 5.0% of price, short float 1.32%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
-| Jim Cramer Explains How NVIDIA Can Change “Direction of the Price” | Insider Monkey | 2026-07-03 |
-| Broadcom (AVGO) Stock Gets Fair Value Boost As Analysts Split On AI Outlook | Simply Wall St. | 2026-07-03 |
-| Nvidia revealed missing puzzle piece of its long-term strategy | TheStreet | 2026-07-03 |
-| Why Broadcom Stock Slumped Today | Motley Fool | 2026-07-03 |
+| Jim Cramer Explains Why You Need to Own NVIDIA Now | Insider Monkey | 2026-07-03 |
+| AMD's Valuation is Stretched at 54.08X P/E: Buy, Sell or Hold the Stock? | Zacks | 2026-07-03 |
+| JPMorgan names 2 Strong Buy picks for the rest of 2026 | TheStreet | 2026-07-03 |
+| The Economy Is Losing Steam After Adding Just 57,000 Jobs in June — But I’m Still Bullish On These 3 Unstoppable AI Stocks | 24/7 Wall St. | 2026-07-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -47,7 +47,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Price vs 52-week range | Close $360.45; 52w high $480.81 (-25.03%); 52w low $267.94 (+34.53%) |
 | Trend | +0.07% vs SMA200, -11.85% vs SMA50, -6.13% vs SMA20 |
 | Momentum | RSI(14) 39.7 (neutral) |
-| Volatility | ATR(14) 17.86 (~5.0% of price); beta 1.43 |
+| Volatility | ATR(14) 17.86 (~5.0% of price); beta 1.46 |
 | Setup perspective | -25.03% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -95,7 +95,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Price (T.Rowe) Associates Inc | 84,470,754 | 1.78% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.43, ATR 5.0% of price, short float 1.32%. Size positions accordingly.
+- **Volatility risk:** Beta 1.46, ATR 5.0% of price, short float 1.32%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -113,7 +113,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 |---|---|---|---|
 | Price | $360.45 | EV/Sales | 23.32 |
 | Market cap | $1.71T | EV/EBITDA | 41.83 |
-| Beta | 1.43 | Gross margin | 76.28% |
+| Beta | 1.46 | Gross margin | 76.28% |
 | RSI(14) | 39.7 | Operating margin | 48.99% |
 | ATR(14) | 17.86 | Profit margin | 38.85% |
 | SMA20 dist | -6.13% | ROA | 12.12% |

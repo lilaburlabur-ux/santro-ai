@@ -19,7 +19,7 @@ Signed file: `SYNA.research.03.07.2026`
 | Fresh setup quality | Moderate / wait | -19.01% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-4.10%). |
 | Value attractiveness | Fair-to-demanding | Forward P/E 22.67, EV/Sales 4.35. |
-| Risk level | High | Beta 1.96, ATR 7.7% of price, short float 18.89%. |
+| Risk level | High | Beta 1.98, ATR 7.7% of price, short float 18.89%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
 
@@ -47,7 +47,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Price vs 52-week range | Close $119.52; 52w high $147.57 (-19.01%); 52w low $58.52 (+104.24%) |
 | Trend | +36.80% vs SMA200, -3.14% vs SMA50, -8.99% vs SMA20 |
 | Momentum | RSI(14) 43.7 (neutral) |
-| Volatility | ATR(14) 9.26 (~7.7% of price); beta 1.96 |
+| Volatility | ATR(14) 9.26 (~7.7% of price); beta 1.98 |
 | Setup perspective | -19.01% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -96,7 +96,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 22.67, EV/Sales 4.35. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.96, ATR 7.7% of price, short float 18.89%. Size positions accordingly.
+- **Volatility risk:** Beta 1.98, ATR 7.7% of price, short float 18.89%. Size positions accordingly.
 - **Short interest risk:** short float 18.89% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -115,7 +115,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 |---|---|---|---|
 | Price | $119.52 | EV/Sales | 4.35 |
 | Market cap | $4.67B | EV/EBITDA | 57.81 |
-| Beta | 1.96 | Gross margin | 43.61% |
+| Beta | 1.98 | Gross margin | 43.61% |
 | RSI(14) | 43.7 | Operating margin | -4.32% |
 | ATR(14) | 9.26 | Profit margin | -4.10% |
 | SMA20 dist | -8.99% | ROA | -1.75% |

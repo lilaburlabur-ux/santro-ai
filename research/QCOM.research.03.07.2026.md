@@ -19,7 +19,7 @@ Signed file: `QCOM.research.03.07.2026`
 | Fresh setup quality | Poor / broken | -29.53% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 22.31%, revenue growth -3.50%. |
 | Value attractiveness | Reasonable | Forward P/E 16.07, EV/Sales 4.30. |
-| Risk level | High | Beta 1.60, ATR 9.0% of price, short float 4.74%. |
+| Risk level | High | Beta 1.64, ATR 9.0% of price, short float 4.74%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| Stocks making big moves this week: IPG Photonics, Micron, CarGurus, Qualcomm, and Qualys | StockStory | 2026-07-03 |
+| Qualcomm Lags Industry in the Past Year: An Opportunity to Buy? | Zacks | 2026-07-03 |
+| The Toughest Questions MU Faced On Its Latest Call | Trefis | 2026-07-03 |
 | Why Qualcomm (QCOM) Shares Are Trading Lower Today | StockStory | 2026-07-03 |
-| Dow Closes At Record High As Weak Jobs Data Calm Rate Hike Fears, While Chipmakers Weigh On S&P 500, Nasdaq —  WMT, META, GM, KR, QCOM In Focus | Stocktwits | 2026-07-02 |
-| Marvell Stock: A Faster Lane On The Same Highway | Trefis | 2026-07-02 |
-| Amazon Builds More AI Device Chips | GuruFocus.com | 2026-07-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -47,7 +47,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Price vs 52-week range | Close $176.25; 52w high $250.10 (-29.53%); 52w low $123.61 (+42.58%) |
 | Trend | +5.56% vs SMA200, -12.76% vs SMA50, -14.25% vs SMA20 |
 | Momentum | RSI(14) 38.2 (neutral) |
-| Volatility | ATR(14) 15.87 (~9.0% of price); beta 1.60 |
+| Volatility | ATR(14) 15.87 (~9.0% of price); beta 1.64 |
 | Setup perspective | -29.53% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -95,7 +95,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC | 12,113,406 | 1.15% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.60, ATR 9.0% of price, short float 4.74%. Size positions accordingly.
+- **Volatility risk:** Beta 1.64, ATR 9.0% of price, short float 4.74%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -113,7 +113,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 |---|---|---|---|
 | Price | $176.25 | EV/Sales | 4.30 |
 | Market cap | $185.77B | EV/EBITDA | 14.71 |
-| Beta | 1.60 | Gross margin | 54.80% |
+| Beta | 1.64 | Gross margin | 54.80% |
 | RSI(14) | 38.2 | Operating margin | 22.06% |
 | ATR(14) | 15.87 | Profit margin | 22.31% |
 | SMA20 dist | -14.25% | ROA | 12.69% |

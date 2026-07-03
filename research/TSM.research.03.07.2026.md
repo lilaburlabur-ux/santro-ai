@@ -18,7 +18,7 @@ Signed file: `TSM.research.03.07.2026`
 | Technical momentum | High | 1Y +95.37%; price +26.76% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -9.09% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 46.51%, revenue growth 35.10%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 21.57, EV/Sales 3.84. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 21.40, EV/Sales 3.84. |
 | Risk level | Elevated | Beta 1.25, ATR 4.9% of price, short float 0.51%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated.
@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
-| Dow Jones Futures Rise After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals | Investor's Business Daily | 2026-07-03 |
-| Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections | TechCrunch | 2026-07-02 |
-| This 40%-a-Year Fund Manager Says Semis Are STILL the Place to Be After a 100% Run | 24/7 Wall St. | 2026-07-02 |
-| Does Intel pay dividends? History & future prospects explained | TheStreet | 2026-07-02 |
+| Top Invesco Analyst: The AI Trade That “Lifted All Boats” Is Over. Now Profitability Decides Winners As “Capacity Will Catch Up” | 24/7 Wall St. | 2026-07-03 |
+| Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals | Investor's Business Daily | 2026-07-03 |
+| Meta Could Hand Samsung Its Biggest AI Chip Order Yet in $6.5 Billion Deal | GuruFocus.com | 2026-07-03 |
+| Meta's AI Chip Roadmap May Shift | GuruFocus.com | 2026-07-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,13 +68,13 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.10T | Revenue growth 35.10% y/y |
 | Profitability | Gross 61.87%, operating 58.10%, net 46.51% | ROA 17.32%, ROE 36.21% |
 | Balance sheet | Cash $3.38T, debt $1.09T | Current ratio 2.49, debt/equity 18.45 |
-| Valuation | P/E 37.72, forward P/E 21.57, P/S 0.55, P/B 97.54 | EV/Sales 3.84, EV/EBITDA 5.52 |
+| Valuation | P/E 37.72, forward P/E 21.40, P/S 0.55, P/B 97.54 | EV/Sales 3.84, EV/EBITDA 5.52 |
 | Growth expectations | Earnings growth 58.40%, EPS q/q 58.30% | Analyst mean target $487.56 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 15.62% |
+| Institutional ownership | 15.63% |
 | Insider ownership | 0.04% |
 | Short float | 0.51% |
 | Short ratio (days to cover) | 2.0 |
@@ -95,7 +95,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Jennison Associates LLC | 12,021,825 | 0.23% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 21.57, EV/Sales 3.84. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 21.40, EV/Sales 3.84. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.25, ATR 4.9% of price, short float 0.51%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -120,9 +120,9 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | SMA50 dist | +3.66% | ROE | 36.21% |
 | SMA200 dist | +26.76% | Revenue (ttm) | $4.10T |
 | 52W high | $477.57 | Revenue growth y/y | 35.10% |
-| 52W low | $224.84 | Inst. ownership | 15.62% |
+| 52W low | $224.84 | Inst. ownership | 15.63% |
 | P/E (ttm) | 37.72 | Insider ownership | 0.04% |
-| Forward P/E | 21.57 | Short float | 0.51% |
+| Forward P/E | 21.40 | Short float | 0.51% |
 | PEG (trailing) | 1.40 | Avg volume | 13,855,519 |
 | P/S | 0.55 | Employees | 76,907 |
 | P/B | 97.54 | Analyst rec (1=buy..5=sell) | 1.5 |

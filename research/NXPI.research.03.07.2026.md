@@ -19,7 +19,7 @@ Signed file: `NXPI.research.03.07.2026`
 | Fresh setup quality | Moderate / wait | -17.55% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 21.03%, revenue growth 12.20%. |
 | Value attractiveness | Reasonable | Forward P/E 15.44, EV/Sales 6.13. |
-| Risk level | High | Beta 1.79, ATR 5.6% of price, short float 4.05%. |
+| Risk level | High | Beta 1.80, ATR 5.6% of price, short float 4.05%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,10 +36,10 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
+| What to Expect From NXP Semiconductors’ Q2 2026 Earnings Report | Barchart | 2026-07-03 |
 | Q1 Earnings Highlights: NXP Semiconductors (NASDAQ:NXPI) Vs The Rest Of The Analog Semiconductors Stocks | StockStory | 2026-07-02 |
 | Will NXP (NXPI)ʼs New Investor Relations Leader Subtly Reframe Its Automotive and AI-Edge Story? | Simply Wall St. | 2026-07-01 |
 | 2 Reasons to Avoid NXPI and 1 Stock to Buy Instead | StockStory | 2026-07-01 |
-| 1 Unpopular Stock That Should Get More Attention and 2 Facing Headwinds | StockStory | 2026-07-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -47,7 +47,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Price vs 52-week range | Close $273.36; 52w high $331.55 (-17.55%); 52w low $181.81 (+50.36%) |
 | Trend | +16.34% vs SMA200, -7.00% vs SMA50, -7.83% vs SMA20 |
 | Momentum | RSI(14) 40.9 (neutral) |
-| Volatility | ATR(14) 15.21 (~5.6% of price); beta 1.79 |
+| Volatility | ATR(14) 15.21 (~5.6% of price); beta 1.80 |
 | Setup perspective | -17.55% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -95,7 +95,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Van Eck Associates Corporation | 4,378,316 | 1.73% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.79, ATR 5.6% of price, short float 4.05%. Size positions accordingly.
+- **Volatility risk:** Beta 1.80, ATR 5.6% of price, short float 4.05%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -112,7 +112,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 |---|---|---|---|
 | Price | $273.36 | EV/Sales | 6.13 |
 | Market cap | $69.02B | EV/EBITDA | 18.60 |
-| Beta | 1.79 | Gross margin | 55.63% |
+| Beta | 1.80 | Gross margin | 55.63% |
 | RSI(14) | 40.9 | Operating margin | 27.66% |
 | ATR(14) | 15.21 | Profit margin | 21.03% |
 | SMA20 dist | -7.83% | ROA | 8.14% |

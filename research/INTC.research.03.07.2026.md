@@ -19,7 +19,7 @@ Signed file: `INTC.research.03.07.2026`
 | Fresh setup quality | Moderate / wait | -14.61% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-5.90%). |
 | Value attractiveness | Low (expensive) | Forward P/E 77.06, EV/Sales 11.73. |
-| Risk level | High | Beta 2.23, ATR 8.8% of price, short float 2.86%. |
+| Risk level | High | Beta 2.19, ATR 8.8% of price, short float 2.86%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: low (expensive), risk: high.
 
@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| Trump administration may get a 5% stake in OpenAI. What would this mean for markets? | Yahoo Finance Video | 2026-07-02 |
 | Jim Cramer Highlights Intel’s “Three Major Growth Opportunities” | Insider Monkey | 2026-07-03 |
-| Intel, Marvell Technology, and AMD Stocks Trade Down, What You Need To Know | StockStory | 2026-07-03 |
-| Trump Weighs In On Elon Musk, OpenAI, Intel — And Takes Aim At The 'Hostile' Fed Board | Stocktwits | 2026-07-02 |
+| AMD's Valuation is Stretched at 54.08X P/E: Buy, Sell or Hold the Stock? | Zacks | 2026-07-03 |
+| Broadcom Has Barely Moved in 2026. Should You Switch to AMD or Intel Now? | 24/7 Wall St. | 2026-07-03 |
+| The Toughest Questions MU Faced On Its Latest Call | Trefis | 2026-07-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -47,7 +47,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Price vs 52-week range | Close $120.35; 52w high $140.94 (-14.61%); 52w low $19.31 (+523.25%) |
 | Trend | +99.47% vs SMA200, +6.15% vs SMA50, -2.25% vs SMA20 |
 | Momentum | RSI(14) 49.1 (neutral) |
-| Volatility | ATR(14) 10.65 (~8.8% of price); beta 2.23 |
+| Volatility | ATR(14) 10.65 (~8.8% of price); beta 2.19 |
 | Setup perspective | -14.61% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -96,7 +96,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 77.06, EV/Sales 11.73. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.23, ATR 8.8% of price, short float 2.86%. Size positions accordingly.
+- **Volatility risk:** Beta 2.19, ATR 8.8% of price, short float 2.86%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -114,7 +114,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 |---|---|---|---|
 | Price | $120.35 | EV/Sales | 11.73 |
 | Market cap | $604.88B | EV/EBITDA | 44.50 |
-| Beta | 2.23 | Gross margin | 37.20% |
+| Beta | 2.19 | Gross margin | 37.20% |
 | RSI(14) | 49.1 | Operating margin | 6.88% |
 | ATR(14) | 10.65 | Profit margin | -5.90% |
 | SMA20 dist | -2.25% | ROA | 0.63% |

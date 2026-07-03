@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
+| SpaceX's Next Big Business Isn't Rockets. It's Computer Chips. | Motley Fool | 2026-07-03 |
 | Jim Cramer Highlights Intel’s “Three Major Growth Opportunities” | Insider Monkey | 2026-07-03 |
 | AMD's Valuation is Stretched at 54.08X P/E: Buy, Sell or Hold the Stock? | Zacks | 2026-07-03 |
 | Broadcom Has Barely Moved in 2026. Should You Switch to AMD or Intel Now? | 24/7 Wall St. | 2026-07-03 |
-| The Toughest Questions MU Faced On Its Latest Call | Trefis | 2026-07-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -69,7 +69,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Profitability | Gross 37.20%, operating 6.88%, net -5.90% | ROA 0.63%, ROE -2.91% |
 | Balance sheet | Cash $32.79B, debt $45.03B | Current ratio 2.31, debt/equity 36.03 |
 | Valuation | P/E —, forward P/E 77.06, P/S 11.25, P/B 5.43 | EV/Sales 11.73, EV/EBITDA 44.50 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $98.50 (42 analysts) |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $100.88 (42 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

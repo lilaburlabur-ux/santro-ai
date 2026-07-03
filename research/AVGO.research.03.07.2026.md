@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Broadcom (AVGO) Backs DriveNets Tomahawk 6 Push For Open Ethernet AI Data Centers | Simply Wall St. | 2026-07-03 |
 | Jim Cramer Explains Why You Need to Own NVIDIA Now | Insider Monkey | 2026-07-03 |
+| Five July 4th Fireworks: Unusual Options Activity Flags Cheap Lottery-Ticket Calls in CHWY, AVGO, PYPL, STLA and WMT | Barchart | 2026-07-03 |
 | AMD's Valuation is Stretched at 54.08X P/E: Buy, Sell or Hold the Stock? | Zacks | 2026-07-03 |
-| JPMorgan names 2 Strong Buy picks for the rest of 2026 | TheStreet | 2026-07-03 |
-| The Economy Is Losing Steam After Adding Just 57,000 Jobs in June — But I’m Still Bullish On These 3 Unstoppable AI Stocks | 24/7 Wall St. | 2026-07-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

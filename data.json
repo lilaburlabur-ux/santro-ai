@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-03T19:43:27+00:00",
-  "as_of_local": "2026-07-03 19:43:27 UTC",
+  "as_of_utc": "2026-07-03T19:48:28+00:00",
+  "as_of_local": "2026-07-03 19:48:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/140-ytd-three-catalysts-amd-155718973.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-07-03T15:57:18Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 120.35,
-      "previous_close": 127.02,
-      "change_pct": -5.25,
-      "market_cap": 604879092330.9326,
-      "headlines": [
-        {
-          "title": "Jim Cramer Highlights Intel\u2019s \u201cThree Major Growth Opportunities\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-intel-three-081619089.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-07-03T18:02:19Z"
-        },
-        {
-          "title": "AMD's Valuation is Stretched at 54.08X P/E: Buy, Sell or Hold the Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amds-valuation-stretched-54-08x-165000812.html",
-          "publisher": "Zacks",
-          "published": "2026-07-03T16:50:00Z"
-        },
-        {
-          "title": "Broadcom Has Barely Moved in 2026. Should You Switch to AMD or Intel Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-barely-moved-2026-switch-131325870.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-07-03T13:13:25Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 62208.27,
-      "change_pct": 1.18
+      "price": 62145.75,
+      "change_pct": 1.07
     },
     {
       "label": "Gold",

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-03T17:57:08+00:00",
+  "as_of": "2026-07-03T18:12:17+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,6 +9,22 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "TER",
+   "company": "Teradyne Inc",
+   "move_pct": -13.63,
+   "price": 369.09,
+   "volume": 5932300,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 79,
+   "direction": "down",
+   "why": "Teradyne (TER) Stock Sees Fair Value Lift As Analysts Raise AI Driven Forecasts",
+   "catalyst_type": "financing",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-stock-sees-fair-171447923.html",
+   "published": "2026-07-03T17:14:47Z",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 2,
    "ticker": "KLAC",
    "company": "KLA Corp",
    "move_pct": -11.51,
@@ -21,22 +37,6 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/vltava-fund-exited-kla-corporation-142543142.html",
    "published": "2026-07-03T14:25:43Z",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 2,
-   "ticker": "LRCX",
-   "company": "Lam Research Corp",
-   "move_pct": -10.19,
-   "price": 351.41,
-   "volume": 18954700,
-   "volume_vs_avg": "~2x",
-   "heat_score": 68,
-   "direction": "down",
-   "why": "Vltava Fund: Lam Research (LRCX) Is Overvalued",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/vltava-fund-sold-lam-research-140359032.html",
-   "published": "2026-07-03T14:03:59Z",
    "sector": "Chip Equipment & AI Hardware"
   },
   {
@@ -105,22 +105,6 @@
   },
   {
    "rank": 7,
-   "ticker": "ARM",
-   "company": "Arm Holdings Plc ADR",
-   "move_pct": -6.58,
-   "price": 315.28,
-   "volume": 7553900,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 41,
-   "direction": "down",
-   "why": "Arm Holdings' Robust Licensing Business Drives AI-Fueled Growth",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-robust-licensing-business-140600801.html",
-   "published": "2026-07-03T14:06:00Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 8,
    "ticker": "MU",
    "company": "Micron Technology Inc",
    "move_pct": -5.49,

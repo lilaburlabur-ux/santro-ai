@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-07-03T00:18:02+00:00",
-  "as_of_local": "2026-07-03 00:18:02 UTC",
+  "as_of_utc": "2026-07-03T00:23:05+00:00",
+  "as_of_local": "2026-07-03 00:23:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 194.83,
-      "previous_close": 197.58,
-      "change_pct": -1.39,
-      "market_cap": 4718977474349.976,
-      "headlines": [
-        {
-          "title": "Palantir upgraded to Buy, Rivian lifts delivery outlook, Robinhood's new product",
-          "url": "https://finance.yahoo.com/video/palantir-upgraded-to-buy-rivian-lifts-delivery-outlook-robinhoods-new-product-193145290.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-02T19:31:45Z"
-        },
-        {
-          "title": "The average investor is running away from 'Magnificent 7' stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/article/the-average-investor-is-running-away-from-magnificent-7-stocks-120204013.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-02T12:02:04Z"
-        },
-        {
-          "title": "Could SpaceX Become the First $10 Trillion Company? Here's What Would Need to Happen.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/could-spacex-become-first-10-235000512.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-02T23:50:00Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -69,6 +43,12 @@
       "market_cap": 1714869840445.0303,
       "headlines": [
         {
+          "title": "Why Broadcom Stock Slumped Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-stock-slumped-today-001326783.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-03T00:13:26Z"
+        },
+        {
           "title": "Marvell Stock: A Faster Lane On The Same Highway",
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-faster-lane-same-202239476.html",
           "publisher": "Trefis",
@@ -79,12 +59,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-vs-semiconductor-technology-stock-201900429.html",
           "publisher": "Motley Fool",
           "published": "2026-07-02T20:19:00Z"
-        },
-        {
-          "title": "The 2 Signals That Will Determine EWY\u2019s Next 12 Months: AI Memory Demand and Samsung Concentration",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-signals-determine-ewy-next-185605957.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-07-02T18:56:05Z"
         }
       ]
     },
@@ -206,7 +180,7 @@
       "price": 245.29,
       "previous_close": 272.05,
       "change_pct": -9.84,
-      "market_cap": 214579686126.70898,
+      "market_cap": 214764431926.82227,
       "headlines": [
         {
           "title": "Fed's Beth Hammack Warns AI Spending Could Keep Inflation Hot and Force Interest Rates Higher: 'Not Seeing A Lot Of Restraint...'",
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -14.57,
-          "price": 2187000.0,
+          "change_pct": 0.05,
+          "price": 2188000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -9.06,
-          "price": 286000.0,
+          "change_pct": 1.75,
+          "price": 291000.0,
           "currency": "KRW"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -14.57,
-        "price": 2187000.0,
+        "change_pct": 0.05,
+        "price": 2188000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -9.06,
-        "price": 286000.0,
+        "change_pct": 1.75,
+        "price": 291000.0,
         "currency": "KRW"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61312.64,
-      "change_pct": 2.18
+      "price": 61290.0,
+      "change_pct": 2.14
     },
     {
       "label": "Gold",
-      "price": 4139.9,
-      "change_pct": 1.76
+      "price": 4140.7,
+      "change_pct": 1.78
     },
     {
       "label": "Nasdaq100",

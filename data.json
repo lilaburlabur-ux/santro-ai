@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-03T23:07:04+00:00",
-  "as_of_local": "2026-07-03 23:07:04 UTC",
+  "as_of_utc": "2026-07-03T23:11:54+00:00",
+  "as_of_local": "2026-07-03 23:11:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -175,12 +173,40 @@
       ]
     },
     {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 315.28,
+      "previous_close": 337.47,
+      "change_pct": -6.58,
+      "market_cap": 335474887385.9862,
+      "headlines": [
+        {
+          "title": "Arm Holdings' Robust Licensing Business Drives AI-Fueled Growth",
+          "url": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-robust-licensing-business-140600801.html",
+          "publisher": "Zacks",
+          "published": "2026-07-03T14:06:00Z"
+        },
+        {
+          "title": "Why a Hot July CPI Print Could Hit This Semiconductor Chip Hard",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-hot-july-cpi-print-162013321.html",
+          "publisher": "BeInCrypto",
+          "published": "2026-07-02T16:20:13Z"
+        },
+        {
+          "title": "ARM Stock Soars 118% in a Year: Is the Buying Opportunity Gone?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-soars-118-buying-161800461.html",
+          "publisher": "Zacks",
+          "published": "2026-07-02T16:18:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "price": 245.29,
       "previous_close": 272.05,
       "change_pct": -9.84,
-      "market_cap": 214764431926.82227,
+      "market_cap": 214579686126.70898,
       "headlines": [
         {
           "title": "Jim Cramer\u2019s Thoughts on Marvell (MRVL) and Why It May Still Have A Lot More Upside",
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 62505.52,
-      "change_pct": 1.66
+      "price": 62489.7,
+      "change_pct": 1.63
     },
     {
       "label": "Gold",

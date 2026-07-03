@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-03T17:21:40+00:00",
+  "as_of": "2026-07-03T17:36:42+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -33,7 +33,7 @@
    "volume_vs_avg": "~2x",
    "heat_score": 68,
    "direction": "down",
-   "why": "Vltava Fund Sold Lam Research Due (LRCX) to Overvaluation",
+   "why": "Vltava Fund: Lam Research (LRCX) Is Overvalued",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/vltava-fund-sold-lam-research-140359032.html",
    "published": "2026-07-03T14:03:59Z",
@@ -118,22 +118,6 @@
    "source_url": "https://finance.yahoo.com/technology/ai/articles/micron-remains-buy-ai-memory-165903321.html",
    "published": "2026-07-03T16:59:03Z",
    "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 8,
-   "ticker": "HPE",
-   "company": "Hewlett Packard Enterprise Co",
-   "move_pct": -6.19,
-   "price": 41.23,
-   "volume": 18968400,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 39,
-   "direction": "down",
-   "why": "Forget Hewlett Packard Enterprise: 1 Dividend-Rich Tech Giant to Buy Hand Over Fist on the Structural Pivot",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/forget-hewlett-packard-enterprise-1-133542371.html",
-   "published": "2026-07-03T13:35:42Z",
-   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

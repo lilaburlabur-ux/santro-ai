@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-03T22:31:17+00:00",
+  "as_of": "2026-07-03T22:46:31+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -41,6 +41,22 @@
   },
   {
    "rank": 3,
+   "ticker": "ISRG",
+   "company": "Intuitive Surgical Inc",
+   "move_pct": 5.85,
+   "price": 425.91,
+   "volume": 3141700,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 42,
+   "direction": "up",
+   "why": "Q1 Surgical Equipment & Consumables - Specialty Earnings Review: First Prize Goes to Intuitive Surgical (NASDAQ:ISRG)",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/healthcare/articles/q1-surgical-equipment-consumables-specialty-223406826.html",
+   "published": "2026-07-03T22:34:06Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 4,
    "ticker": "MU",
    "company": "Micron Technology Inc",
    "move_pct": -5.36,

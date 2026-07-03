@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-03T21:40:42+00:00",
+  "as_of": "2026-07-03T21:55:52+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -25,22 +25,6 @@
   },
   {
    "rank": 2,
-   "ticker": "MRVL",
-   "company": "Marvell Technology Inc",
-   "move_pct": -9.48,
-   "price": 246.27,
-   "volume": 38579900,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 61,
-   "direction": "down",
-   "why": "Jim Cramer\u2019s Thoughts on Marvell (MRVL) and Why It May Still Have A Lot More Upside",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-jensen-huang-081754859.html",
-   "published": "2026-07-03T17:53:54Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 3,
    "ticker": "TSLA",
    "company": "Tesla Inc",
    "move_pct": -7.27,
@@ -54,6 +38,22 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tesla-think-ll-081553609.html",
    "published": "2026-07-03T18:05:53Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 3,
+   "ticker": "APP",
+   "company": "Applovin Corp",
+   "move_pct": -6.66,
+   "price": 527.0,
+   "volume": 6002600,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 44,
+   "direction": "down",
+   "why": "How AppLovin Corporation\u2019s (APP) E-Commerce Ad Push Could Broaden Its Growth Beyond Mobile Apps",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/applovin-corporation-app-e-commerce-213313251.html",
+   "published": "2026-07-03T21:33:13Z",
+   "sector": "AI Platforms, Internet & AdTech"
   },
   {
    "rank": 4,

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-07-03T01:48:53+00:00",
-  "as_of_local": "2026-07-03 01:48:53 UTC",
+  "as_of_utc": "2026-07-03T02:04:01+00:00",
+  "as_of_local": "2026-07-03 02:04:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -19,16 +19,16 @@
           "published": "2026-07-02T14:12:51Z"
         },
         {
-          "title": "OpenAI Is Now Considering a 2027 IPO With a $1 Trillion Valuation. Should Investors Expect the Same Volatility as the SpaceX IPO?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/openai-now-considering-2027-ipo-013300058.html",
+          "title": "Meta Wants In on the Cloud. Is Amazon Stock Still a Buy?",
+          "url": "https://finance.yahoo.com/technology/articles/meta-wants-cloud-amazon-stock-014800916.html",
           "publisher": "Motley Fool",
-          "published": "2026-07-03T01:33:00Z"
+          "published": "2026-07-03T01:48:00Z"
         },
         {
-          "title": "Micron Day Is Here!",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-day-005319097.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-03T00:53:19Z"
+          "title": "Nvidia revealed missing puzzle piece of its long-term strategy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-revealed-missing-puzzle-piece-013700562.html",
+          "publisher": "TheStreet",
+          "published": "2026-07-03T01:37:00Z"
         }
       ]
     },
@@ -69,6 +69,12 @@
       "market_cap": 1714869840445.0303,
       "headlines": [
         {
+          "title": "Nvidia revealed missing puzzle piece of its long-term strategy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-revealed-missing-puzzle-piece-013700562.html",
+          "publisher": "TheStreet",
+          "published": "2026-07-03T01:37:00Z"
+        },
+        {
           "title": "Why Broadcom Stock Slumped Today",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-stock-slumped-today-001326783.html",
           "publisher": "Motley Fool",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-faster-lane-same-202239476.html",
           "publisher": "Trefis",
           "published": "2026-07-02T20:22:39Z"
-        },
-        {
-          "title": "Broadcom vs. ON Semiconductor: Which Technology Stock Is a Better Buy in 2026?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-vs-semiconductor-technology-stock-201900429.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-02T20:19:00Z"
         }
       ]
     },
@@ -206,7 +206,7 @@
       "price": 245.29,
       "previous_close": 272.05,
       "change_pct": -9.84,
-      "market_cap": 214579686126.70898,
+      "market_cap": 214764431926.82227,
       "headlines": [
         {
           "title": "Fed's Beth Hammack Warns AI Spending Could Keep Inflation Hot and Force Interest Rates Higher: 'Not Seeing A Lot Of Restraint...'",
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 60.63,
-      "change_pct": -7.94,
+      "price": null,
+      "change_pct": 0.0,
       "holdings": [
         {
           "symbol": "MU",
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 0.73,
-          "price": 2203000.0,
+          "change_pct": 2.7,
+          "price": 2246000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 4.2,
-          "price": 298000.0,
+          "change_pct": 4.37,
+          "price": 298500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 3.66,
-          "price": 79050.0,
+          "change_pct": 4.81,
+          "price": 79930.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 1.11,
-          "price": 411.5,
+          "change_pct": 0.98,
+          "price": 411.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 0.27,
-          "price": 184.0,
+          "change_pct": 0.0,
+          "price": 183.5,
           "currency": "TWD"
         }
       ]
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 60.63,
-    "change_pct": -7.94,
+    "price": null,
+    "change_pct": 0.0,
     "holdings": [
       {
         "symbol": "MU",
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 0.73,
-        "price": 2203000.0,
+        "change_pct": 2.7,
+        "price": 2246000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 4.2,
-        "price": 298000.0,
+        "change_pct": 4.37,
+        "price": 298500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 3.66,
-        "price": 79050.0,
+        "change_pct": 4.81,
+        "price": 79930.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 1.11,
-        "price": 411.5,
+        "change_pct": 0.98,
+        "price": 411.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 0.27,
-        "price": 184.0,
+        "change_pct": 0.0,
+        "price": 183.5,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61555.37,
-      "change_pct": 2.59
+      "price": 61491.18,
+      "change_pct": 2.48
     },
     {
       "label": "Gold",
-      "price": 4197.9,
-      "change_pct": 3.19
+      "price": 4189.0,
+      "change_pct": 2.97
     },
     {
       "label": "Nasdaq100",

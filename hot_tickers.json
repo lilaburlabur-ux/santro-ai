@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-03T15:04:14+00:00",
+  "as_of": "2026-07-03T15:19:17+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,6 +9,22 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "KLAC",
+   "company": "KLA Corp",
+   "move_pct": -11.51,
+   "price": 235.55,
+   "volume": 23622500,
+   "volume_vs_avg": "~2x",
+   "heat_score": 74,
+   "direction": "down",
+   "why": "Vltava Fund Exited KLA Corporation (KLAC) Amid Price-Quality Imbalance",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/vltava-fund-exited-kla-corporation-142543142.html",
+   "published": "2026-07-03T14:25:43Z",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 2,
    "ticker": "AVAV",
    "company": "AeroVironment Inc",
    "move_pct": 10.7,
@@ -24,7 +40,7 @@
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
-   "rank": 2,
+   "rank": 3,
    "ticker": "LRCX",
    "company": "Lam Research Corp",
    "move_pct": -10.19,
@@ -40,7 +56,7 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 3,
+   "rank": 4,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
    "move_pct": -9.84,
@@ -56,7 +72,7 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 4,
+   "rank": 5,
    "ticker": "TSLA",
    "company": "Tesla Inc",
    "move_pct": -7.49,
@@ -65,14 +81,14 @@
    "volume_vs_avg": "~2x",
    "heat_score": 49,
    "direction": "down",
-   "why": "Dow Jones Futures Fall Techs Rise After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals",
+   "why": "Tesla rolls out robotaxi service in Miami",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-tumbles-apple-robinhood-buy-signals-tesla-sandisk-dive/?src=A00220&yptr=yahoo",
-   "published": "2026-07-03T14:36:11Z",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/tesla-rolls-robotaxi-miami-145913748.html",
+   "published": "2026-07-03T14:59:13Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
-   "rank": 5,
+   "rank": 6,
    "ticker": "AMAT",
    "company": "Applied Materials Inc",
    "move_pct": -7.35,
@@ -88,7 +104,23 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 6,
+   "rank": 7,
+   "ticker": "ARM",
+   "company": "Arm Holdings Plc ADR",
+   "move_pct": -6.58,
+   "price": 315.28,
+   "volume": 7553900,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 41,
+   "direction": "down",
+   "why": "Arm Holdings' Robust Licensing Business Drives AI-Fueled Growth",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-robust-licensing-business-140600801.html",
+   "published": "2026-07-03T14:06:00Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 8,
    "ticker": "MU",
    "company": "Micron Technology Inc",
    "move_pct": -5.49,
@@ -101,38 +133,6 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-shorts-micron-adding-141819112.html",
    "published": "2026-07-03T14:18:19Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 7,
-   "ticker": "HPE",
-   "company": "Hewlett Packard Enterprise Co",
-   "move_pct": -6.19,
-   "price": 41.23,
-   "volume": 18968400,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 39,
-   "direction": "down",
-   "why": "Forget Hewlett Packard Enterprise: 1 Dividend-Rich Tech Giant to Buy Hand Over Fist on the Structural Pivot",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/forget-hewlett-packard-enterprise-1-133542371.html",
-   "published": "2026-07-03T13:35:42Z",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 8,
-   "ticker": "INTC",
-   "company": "Intel Corp",
-   "move_pct": -5.25,
-   "price": 120.35,
-   "volume": 124577600,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 38,
-   "direction": "down",
-   "why": "Broadcom Has Barely Moved in 2026. Should You Switch to AMD or Intel Now?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-barely-moved-2026-switch-131325870.html",
-   "published": "2026-07-03T13:13:25Z",
    "sector": "AI Chips & Compute"
   }
  ]

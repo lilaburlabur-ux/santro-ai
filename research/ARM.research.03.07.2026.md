@@ -69,7 +69,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Profitability | Gross 97.54%, operating 29.53%, net 18.37% | ROA 5.78%, ROE 11.95% |
 | Balance sheet | Cash $3.60B, debt $491.00M | Current ratio 6.00, debt/equity 5.93 |
 | Valuation | P/E 370.92, forward P/E 102.33, P/S 68.44, P/B 40.49 | EV/Sales 67.81, EV/EBITDA 313.36 |
-| Growth expectations | Earnings growth 47.90%, EPS q/q 49.00% | Analyst mean target $295.95 (37 analysts) |
+| Growth expectations | Earnings growth 47.90%, EPS q/q 49.00% | Analyst mean target $297.03 (37 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

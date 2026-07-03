@@ -36,8 +36,8 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
-| Top Invesco Analyst: The AI Trade That “Lifted All Boats” Is Over. Now Profitability Decides Winners As “Capacity Will Catch Up” | 24/7 Wall St. | 2026-07-03 |
 | Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals | Investor's Business Daily | 2026-07-03 |
+| Top Invesco Analyst: The AI Trade That “Lifted All Boats” Is Over. Now Profitability Decides Winners As “Capacity Will Catch Up” | 24/7 Wall St. | 2026-07-03 |
 | Meta Could Hand Samsung Its Biggest AI Chip Order Yet in $6.5 Billion Deal | GuruFocus.com | 2026-07-03 |
 | Meta's AI Chip Roadmap May Shift | GuruFocus.com | 2026-07-03 |
 

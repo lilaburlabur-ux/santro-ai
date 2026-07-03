@@ -69,7 +69,7 @@ AeroVironment, Inc. designs, develops, produces, delivers, and supports a portfo
 | Profitability | Gross 25.32%, operating 2.81%, net -13.41% | ROA -1.29%, ROE -10.03% |
 | Balance sheet | Cash $632.30M, debt $834.79M | Current ratio 4.30, debt/equity 18.97 |
 | Valuation | P/E —, forward P/E 41.29, P/S 4.89, P/B 2.22 | EV/Sales 4.97, EV/EBITDA 50.49 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $247.35 (17 analysts) |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $258.61 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

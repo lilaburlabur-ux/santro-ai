@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-03T14:33:50+00:00",
+  "as_of": "2026-07-03T14:49:06+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -73,6 +73,22 @@
   },
   {
    "rank": 5,
+   "ticker": "AMAT",
+   "company": "Applied Materials Inc",
+   "move_pct": -7.35,
+   "price": 603.04,
+   "volume": 15071700,
+   "volume_vs_avg": "~1.4x",
+   "heat_score": 48,
+   "direction": "down",
+   "why": "Michael Burry Shorts Micron, Adding to His NVIDIA and Applied Materials Short Bets Against Chip Stocks",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-shorts-micron-adding-141819112.html",
+   "published": "2026-07-03T14:18:19Z",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 6,
    "ticker": "MU",
    "company": "Micron Technology Inc",
    "move_pct": -5.49,
@@ -81,14 +97,14 @@
    "volume_vs_avg": "~1.1x",
    "heat_score": 40,
    "direction": "down",
-   "why": "Michael Burry Shorts Micron After Massive Rally",
+   "why": "Michael Burry Shorts Micron, Adding to His NVIDIA and Applied Materials Short Bets Against Chip Stocks",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-shorts-micron-massive-134827628.html",
-   "published": "2026-07-03T13:48:27Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-shorts-micron-adding-141819112.html",
+   "published": "2026-07-03T14:18:19Z",
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "ticker": "HPE",
    "company": "Hewlett Packard Enterprise Co",
    "move_pct": -6.19,
@@ -104,7 +120,7 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "ticker": "INTC",
    "company": "Intel Corp",
    "move_pct": -5.25,

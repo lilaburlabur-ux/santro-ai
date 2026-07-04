@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-04T16:44:16+00:00",
-  "as_of_local": "2026-07-04 16:44:16 UTC",
+  "as_of_utc": "2026-07-04T16:59:17+00:00",
+  "as_of_local": "2026-07-04 16:59:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,6 +12,12 @@
       "change_pct": -1.39,
       "market_cap": 4718977474349.976,
       "headlines": [
+        {
+          "title": "3 Under-the-Radar AI Energy Stocks to Buy Right Now",
+          "url": "https://finance.yahoo.com/energy/articles/3-under-radar-ai-energy-165000337.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-04T16:50:00Z"
+        },
         {
           "title": "Why Arm Is a Strong Buy Despite the 35% Pullback From Peak Levels",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-arm-strong-buy-despite-163056546.html",
@@ -25,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-strategy-stock-better-162700393.html",
           "publisher": "Motley Fool",
           "published": "2026-07-04T16:27:00Z"
-        },
-        {
-          "title": "Why Is Everyone Talking About SentinelOne Stock Right Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-everyone-talking-sentinelone-stock-162000886.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-04T16:20:00Z"
         }
       ]
     },
@@ -147,6 +145,34 @@
       ]
     },
     {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 120.35,
+      "previous_close": 127.02,
+      "change_pct": -5.25,
+      "market_cap": 604879092330.9326,
+      "headlines": [
+        {
+          "title": "Small Stocks Are Having Their Biggest Run in Decades",
+          "url": "https://www.wsj.com/finance/stocks/russell-2000-small-stocks-gains-83fade43?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-07-04T01:00:00Z"
+        },
+        {
+          "title": "Micron vs. Intel: Which AI Stock Is the Better Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-intel-ai-stock-005000096.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-04T00:50:00Z"
+        },
+        {
+          "title": "SpaceX's Next Big Business Isn't Rockets. It's Computer Chips.",
+          "url": "https://finance.yahoo.com/technology/articles/spacexs-next-big-business-isnt-220200363.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-03T22:02:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "ARM",
       "name": "Arm Holdings",
       "price": 315.28,
@@ -180,7 +206,7 @@
       "price": 245.29,
       "previous_close": 272.05,
       "change_pct": -9.84,
-      "market_cap": 214579686126.70898,
+      "market_cap": 214764431926.82227,
       "headlines": [
         {
           "title": "Cantor Fitzgerald Raises PT on Marvell Technology (MRVL) Stock",
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 62850.47,
-      "change_pct": 0.49
+      "price": 62877.11,
+      "change_pct": 0.53
     },
     {
       "label": "Gold",

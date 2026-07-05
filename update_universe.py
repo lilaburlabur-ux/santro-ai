@@ -152,6 +152,11 @@ def main():
 
         # bubble aggregates follow the fresh ticker data (None-safe: a ticker
         # that failed this cycle keeps old values and must not crash the bubble)
+        dedup = {}
+        for t in b["tickers"]:
+            dedup[t.get("ticker")] = t   # merge races can duplicate rows — keep freshest
+        if len(dedup) != len(b["tickers"]):
+            b["tickers"] = list(dedup.values())
         b["count"] = len(b["tickers"])   # self-heal: merge races have corrupted counts
         b["total_market_cap_b"] = round(sum(t.get("market_cap_b") or 0 for t in b["tickers"]), 1)
         b["avg_change_pct"] = round(sum(t.get("change_pct") or 0 for t in b["tickers"]) / len(b["tickers"]), 2)

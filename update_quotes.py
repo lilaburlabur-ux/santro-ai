@@ -159,6 +159,14 @@ def main():
         for b in universe.get("bubbles", []):
             members = b.get("tickers", [])
             if members:
+                # self-heal: merge races can also DUPLICATE ticker rows — dedupe
+                # by symbol (keep the last, freshest row) before aggregating
+                dedup = {}
+                for t in members:
+                    dedup[t.get("ticker")] = t
+                if len(dedup) != len(members):
+                    members = list(dedup.values())
+                    b["tickers"] = members
                 b["count"] = len(members)   # self-heal: merge races have corrupted counts
                 b["avg_change_pct"] = round(
                     sum(t.get("change_pct") or 0 for t in members) / len(members), 2)

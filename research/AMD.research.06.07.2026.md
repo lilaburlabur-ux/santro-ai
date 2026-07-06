@@ -37,9 +37,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | Tech stocks on track for record annual inflows as investors pile into the AI trade | Yahoo Finance | 2026-07-06 |
+| US Equity Markets Higher as Chipmakers Rally; Dow Rises to Record | MT Newswires | 2026-07-06 |
 | Sector Update: Tech Stocks Gain Late Afternoon | MT Newswires | 2026-07-06 |
 | Update: US Equity Indexes Rise as Growth Areas Top Sector Charts | MT Newswires | 2026-07-06 |
-| AMD (AMD) Stock Trades Up, Here Is Why | StockStory | 2026-07-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

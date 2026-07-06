@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-06T20:05:02+00:00",
+  "as_of": "2026-07-06T20:10:28+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,10 +9,26 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "INOD",
+   "company": "Innodata Inc",
+   "move_pct": 8.35,
+   "price": 74.63,
+   "volume": 1411396,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 58,
+   "direction": "up",
+   "why": "Is Innodata Stock Finally Worth Buying After a 33% Plunge in a Month?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/innodata-stock-finally-worth-buying-165000565.html",
+   "published": "2026-07-06T16:50:00Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 2,
    "ticker": "TSLA",
    "company": "Tesla Inc",
-   "move_pct": 6.63,
-   "price": 419.55,
+   "move_pct": 6.64,
+   "price": 419.59,
    "volume": 51648644,
    "volume_vs_avg": "~1.1x",
    "heat_score": 44,
@@ -24,11 +40,11 @@
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
-   "rank": 2,
+   "rank": 3,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
-   "move_pct": 6.47,
-   "price": 551.32,
+   "move_pct": 6.46,
+   "price": 551.25,
    "volume": 28912551,
    "volume_vs_avg": "~0.9x",
    "heat_score": 42,
@@ -38,22 +54,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/amd-amd-stock-trades-why-193201753.html",
    "published": "2026-07-06T19:32:01Z",
    "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 3,
-   "ticker": "INOD",
-   "company": "Innodata Inc",
-   "move_pct": 6.16,
-   "price": 73.12,
-   "volume": 1411396,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 41,
-   "direction": "up",
-   "why": "Is Innodata Stock Finally Worth Buying After a 33% Plunge in a Month?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/innodata-stock-finally-worth-buying-165000565.html",
-   "published": "2026-07-06T16:50:00Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

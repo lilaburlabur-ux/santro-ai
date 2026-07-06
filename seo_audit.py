@@ -140,7 +140,22 @@ def main():
         print(f"SEO AUDIT FAILED — {len(fails)} issue(s):")
         for f in fails: print("  ✗", f)
         sys.exit(1)
-    print("SEO AUDIT PASSED — all core pages have title/description/canonical/H1/valid schema.")
+    
+# ── landing-first guard: the quiz hero must stay ABOVE the terminal/tape ──
+_idx = open("index.html", encoding="utf-8").read()
+_checks = [
+    ("landing hero present", 'id="landing-hero"' in _idx),
+    ("hero before tape", _idx.find('id="landing-hero"') < _idx.find('class="topstrip"')),
+    ("hero before terminal grid", _idx.find('id="landing-hero"') < _idx.find('class="grid"')),
+    ("exactly one h1 on homepage", _idx.count("<h1") == 1),
+]
+for _name, _ok in _checks:
+    if not _ok:
+        print(f"LANDING GUARD FAILED: {_name}")
+        sys.exit(1)
+print("landing-first guard: hero above terminal, single h1 — OK")
+
+print("SEO AUDIT PASSED — all core pages have title/description/canonical/H1/valid schema.")
 
 
 if __name__ == "__main__":

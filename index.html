@@ -15,7 +15,7 @@
 <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
 <link rel="manifest" href="/manifest.json" />
-<meta name="description" content="Santro AI is the AI bubble terminal for AI stocks, ETFs, AI crypto tokens, hot tickers, research, valuation tools, share cards, and bubble-risk signals. At santroai.tech. Quotes delayed ~15 min. Not financial advice." />
+<meta name="description" content="Take the AI bubble check, get your market profile, and track AI stocks, ETFs, AI crypto, hot tickers, fair-value tools, watchlists, alerts, and bubble-risk signals. Santro AI at santroai.tech — hot means attention, not direction. Quotes delayed ~15 min. Not financial advice." />
 <link rel="canonical" href="https://santroai.tech/" />
 <meta property="og:site_name" content="Santro AI" />
 <meta property="og:title" content="Santro AI — The AI Bubble Terminal" />
@@ -213,6 +213,80 @@
     .m-only.m-cta{display:flex;}
     .m-only.m-note{display:block;}
   }
+
+  /* ══ quiz-first landing ══ */
+  .land-hero{display:grid;grid-template-columns:1.25fr .75fr;gap:26px;align-items:center;padding:34px 22px 10px;max-width:1180px;margin:0 auto;}
+  .land-hero h1{font-size:clamp(26px,3.2vw,40px);margin:0;letter-spacing:-.6px;line-height:1.12;}
+  .lh-sub{font-size:clamp(15px,1.4vw,18px);color:var(--text);margin:12px 0 0;font-weight:600;}
+  .lh-support{font-size:14px;color:var(--muted);margin:8px 0 0;line-height:1.6;max-width:560px;}
+  .lh-brand{font-size:12.5px;color:var(--faint);margin:10px 0 0;line-height:1.6;max-width:600px;}
+  .lh-brand b{color:var(--muted);}
+  .lh-slogan{color:var(--accent-2);font-weight:700;}
+  .lh-cta{display:flex;gap:10px;margin:16px 0 0;flex-wrap:wrap;}
+  .lh-btn{padding:13px 20px;border-radius:11px;font-weight:700;font-size:14.5px;text-decoration:none;
+    background:var(--elev);color:var(--text);border:1px solid var(--border);min-height:48px;display:inline-flex;align-items:center;}
+  .lh-btn.primary{background:var(--accent,#5b9df0);color:#fff;border-color:var(--accent,#5b9df0);}
+  .lh-micro{font-size:12px;color:var(--faint);margin:12px 0 0;}
+  .lh-micro a{color:var(--accent-2);text-decoration:none;font-weight:600;}
+  .mockcard{background:var(--panel);border:1px solid var(--border);border-radius:16px;padding:18px;max-width:330px;margin-left:auto;}
+  .mc-tag{font-size:9.5px;letter-spacing:.8px;text-transform:uppercase;color:var(--faint);font-weight:700;}
+  .mc-name{font-size:24px;font-weight:800;letter-spacing:-.4px;color:var(--accent-2);margin:6px 0 12px;}
+  .mc-row{display:flex;justify-content:space-between;font-size:12px;color:var(--muted);}
+  .mc-hi{color:#e0a73f;font-weight:700;}
+  .mc-bar{height:7px;background:var(--elev);border-radius:999px;margin:6px 0 12px;overflow:hidden;}
+  .mc-bar i{display:block;height:100%;background:#e0a73f;border-radius:999px;}
+  .mc-tools{display:flex;gap:6px;flex-wrap:wrap;margin:0 0 10px;}
+  .mc-tools span{font-size:11px;font-weight:700;padding:5px 9px;border-radius:999px;background:var(--elev);color:var(--muted);border:1px solid var(--border-soft);}
+  .mc-first{font-size:12.5px;color:var(--text);border-left:3px solid #22c55e;padding-left:9px;}
+  .mc-wm{margin-top:12px;padding-top:10px;border-top:1px solid var(--border-soft);font-size:10px;color:var(--faint);}
+  .land-quiz,.land-grid,.land-why,.land-loop,.land-term{max-width:1180px;margin:0 auto;padding:26px 22px 6px;}
+  .land-quiz{max-width:720px;}
+  .lq-head h2,.land-grid h2,.land-why h2,.land-loop h2,.land-term h2{font-size:clamp(19px,2vw,25px);margin:0 0 6px;letter-spacing:-.3px;}
+  .lq-sup,.lg-sub{font-size:13px;color:var(--muted);line-height:1.6;margin:0 0 12px;max-width:680px;}
+  .lg-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px;}
+  .lg-card{display:block;background:var(--panel);border:1px solid var(--border-soft);border-radius:12px;padding:14px 15px;text-decoration:none;transition:border-color .12s;}
+  .lg-card:hover{border-color:var(--accent-border);}
+  .lg-card b{color:var(--text);font-size:14.5px;display:block;margin:6px 0 4px;}
+  .lg-card p{color:var(--muted);font-size:12.5px;line-height:1.55;margin:0;}
+  .lg-ic{font-size:15px;font-weight:800;}
+  .lg-ic.up{color:#22c55e;} .lg-ic.dn{color:#f0596e;} .lg-ic.am{color:#e0a73f;} .lg-ic.bl{color:var(--accent-2);} .lg-ic.ok{color:#69cd91;}
+  .lw-flow{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:6px 0 8px;}
+  .lw-flow span{background:var(--elev);border:1px solid var(--border-soft);border-radius:999px;padding:8px 14px;font-size:12.5px;font-weight:700;color:var(--text);}
+  .lw-flow i{color:var(--faint);font-style:normal;}
+  .ll-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:9px;margin:4px 0 10px;}
+  .ll-c{background:var(--panel);border:1px solid var(--border-soft);border-radius:11px;padding:12px 13px;font-size:12.5px;color:var(--muted);}
+  .ll-c b{display:block;color:#22c55e;font-size:15px;margin-bottom:3px;}
+  .land-term{border-top:1px solid var(--border-soft);margin-top:22px;padding-top:26px;}
+  /* quiz engine styles (source of truth mirrors quiz.html) */
+  .qbar{height:5px;background:var(--elev);border-radius:999px;margin:14px 0 6px;overflow:hidden;}
+  .qbar i{display:block;height:100%;background:linear-gradient(90deg,var(--accent,#5b9df0),#e0a73f);border-radius:999px;transition:width .25s ease;}
+  .qstep{font-size:11px;color:var(--faint);text-transform:uppercase;letter-spacing:.6px;font-weight:700;}
+  .qcard{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:18px 18px 14px;margin-top:10px;}
+  .qcard h2{font-size:18px;margin:0 0 12px;line-height:1.35;}
+  .qopt{display:block;width:100%;text-align:left;font:inherit;font-size:14.5px;color:var(--text);background:var(--elev);
+    border:1px solid var(--border-soft);border-radius:10px;padding:13px 14px;margin:7px 0;cursor:pointer;min-height:48px;}
+  .qopt:hover{border-color:var(--accent-border,#2b4a75);}
+  .qback{background:none;border:0;color:var(--faint);font:inherit;font-size:12.5px;cursor:pointer;padding:8px 0;}
+  .rcard{background:var(--panel);border:1px solid var(--border);border-radius:16px;padding:22px 20px;margin-top:14px;}
+  .rcard .tag{font-size:10px;letter-spacing:.8px;text-transform:uppercase;color:var(--faint);font-weight:700;}
+  .rcard .pname{font-size:clamp(24px,5vw,32px);font-weight:800;letter-spacing:-.5px;margin:6px 0 8px;color:var(--text);}
+  .rcard .pdesc{color:var(--muted);font-size:14.5px;line-height:1.65;}
+  .rmeter{margin:16px 0 4px;} .rmeter .k{font-size:11px;color:var(--faint);text-transform:uppercase;letter-spacing:.6px;font-weight:700;display:flex;justify-content:space-between;}
+  .rmeter .bar{height:8px;background:var(--elev);border-radius:999px;margin-top:6px;overflow:hidden;}
+  .rmeter .bar i{display:block;height:100%;border-radius:999px;}
+  .rtools{margin:14px 0 2px;display:flex;flex-wrap:wrap;gap:7px;}
+  .rtools a{font-size:12.5px;font-weight:700;padding:8px 12px;border-radius:999px;text-decoration:none;background:var(--elev);color:var(--accent-2);border:1px solid var(--border-soft);}
+  .rfirst{margin-top:12px;font-size:13.5px;color:var(--muted);} .rfirst b{color:var(--text);}
+  .rcta{display:flex;gap:9px;margin-top:18px;flex-wrap:wrap;}
+  .rcta a{flex:1;min-width:150px;text-align:center;padding:13px 12px;border-radius:11px;font-weight:700;font-size:14px;text-decoration:none;}
+  .rcta .primary{background:var(--accent,#5b9df0);color:#fff;} .rcta .ghost{background:var(--elev);color:var(--text);border:1px solid var(--border);}
+  .rios{margin-top:14px;padding:12px 14px;border:1px solid var(--border-soft);border-radius:10px;font-size:12.5px;color:var(--muted);} .rios b{color:var(--accent-2);}
+  .rbrand{margin-top:16px;padding-top:12px;border-top:1px solid var(--border-soft);font-size:11px;color:var(--faint);display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px;}
+  .rshare{font:inherit;font-size:12px;font-weight:700;background:none;border:1px solid var(--border-soft);border-radius:8px;color:var(--accent-2);padding:6px 12px;cursor:pointer;}
+  .retake{background:none;border:0;color:var(--faint);font:inherit;font-size:12px;cursor:pointer;text-decoration:underline;padding:0;}
+  @media (max-width:900px){ .land-hero{grid-template-columns:1fr;gap:16px;padding-top:22px;} .mockcard{margin:0 auto;} }
+  @media (max-width:640px){ .lg-card.m-hide{display:none;} .land-hero{padding:18px 14px 4px;} .land-quiz,.land-grid,.land-why,.land-loop,.land-term{padding:20px 14px 4px;} }
+
   /* mobile-only cards (hidden on desktop) */
   .m-only{display:none;}
   .m-cta{gap:9px; margin:12px 16px 0;}
@@ -445,15 +519,6 @@
 </head>
 <body>
 
-  <div class="topstrip">
-    <div class="ts-stats" id="tape-stats">Loading market tape…</div>
-    <div class="langs">
-      <a class="x-link" href="https://x.com/SantroAI" target="_blank" rel="noopener" title="@SantroAI on X">
-        <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true">
-          <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
-      </a>
-    </div>
-  </div>
 
   <div class="topbar">
     <div class="brand">
@@ -485,6 +550,7 @@
       </details>
     </nav>
     <div class="right">
+      <span id="santro-auth-slot"></span>
       <div id="topbar-search"></div>
       <span id="asof">loading…</span>
       <button id="theme-toggle" title="Switch day / night mode" aria-label="Toggle day or night mode">
@@ -505,8 +571,96 @@
     </div>
   </div>
 
+
+  <!-- ══ QUIZ-FIRST LANDING (guard: this must stay ABOVE the terminal/tape in DOM) ══ -->
+  <section class="land-hero" id="landing-hero">
+    <div class="lh-copy">
+      <h1>What kind of AI-market trader are you?</h1>
+      <p class="lh-sub">Take the <b>60-second AI bubble check</b> and get your Santro market profile.</p>
+      <p class="lh-support">See whether you chase heat, map infrastructure, watch valuation, or track bubble
+      risk before the narrative gets crowded.</p>
+      <p class="lh-brand"><b>Santro AI</b> is the AI bubble terminal at <b>santroai.tech</b> — AI stocks, AI ETFs,
+      AI crypto, hot tickers, fair-value calculator, watchlists, alerts, share cards, research and a bubble-risk
+      signal. <span class="lh-slogan">Hot means attention, not direction.</span></p>
+      <div class="lh-cta">
+        <a class="lh-btn primary" href="#quiz">Start the AI bubble check</a>
+        <a class="lh-btn" href="#terminal">Open terminal</a>
+      </div>
+      <p class="lh-micro">Already know what you want? <a href="/stocks">View AI stocks</a> ·
+      <a href="/etfs">AI ETFs</a> · <a href="/crypto">AI crypto</a> · <a href="/bubble">Bubble risk</a></p>
+    </div>
+    <div class="lh-visual" aria-hidden="true">
+      <div class="mockcard">
+        <span class="mc-tag">Santro market profile</span>
+        <div class="mc-name">Infrastructure Mapper</div>
+        <div class="mc-row"><span>Bubble-risk sensitivity</span><span class="mc-hi">High</span></div>
+        <div class="mc-bar"><i style="width:78%"></i></div>
+        <div class="mc-tools"><span>AI stocks</span><span>Bubble risk</span><span>Valuation calc</span></div>
+        <div class="mc-first">First move: check compute + power names</div>
+        <div class="mc-wm">santroai.tech · hot means attention, not direction</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="land-quiz" id="quiz">
+    <div class="lq-head"><h2>Start your AI bubble check</h2>
+      <span class="lq-sup">7 quick reads of how you trade — no signup needed, no buy/sell signals.</span></div>
+    <div class="qbar" aria-hidden="true"><i id="qfill" style="width:0%"></i></div>
+    <div class="qstep" id="qstep">Question 1 of 8</div>
+    <div id="qmount"></div>
+  </section>
+
+  <section class="land-grid">
+    <h2>The AI trade is not one trade anymore</h2>
+    <p class="lg-sub">It moves through compute, power, cloud, software, ETFs, crypto, valuation and attention.
+    Which lens is yours?</p>
+    <div class="lg-cards">
+      <a class="lg-card" href="#quiz"><span class="lg-ic up">▲</span><b>Heat chaser</b><p>You see green candles first. Santro shows whether the move has a catalyst.</p></a>
+      <a class="lg-card" href="#quiz"><span class="lg-ic ok">≈</span><b>Valuation skeptic</b><p>You ask if the story is already priced in.</p></a>
+      <a class="lg-card" href="#quiz"><span class="lg-ic bl">▦</span><b>Infrastructure mapper</b><p>You follow chips, power, data centers and second-order AI names.</p></a>
+      <a class="lg-card m-hide" href="#quiz"><span class="lg-ic am">◔</span><b>Bubble-risk watcher</b><p>You care when the trade gets crowded.</p></a>
+      <a class="lg-card m-hide" href="#quiz"><span class="lg-ic dn">🔥</span><b>Narrative trader</b><p>You track attention before the headline becomes consensus.</p></a>
+      <a class="lg-card m-hide" href="#quiz"><span class="lg-ic bl">▣</span><b>Daily terminal user</b><p>You want one clean AI market check every day.</p></a>
+    </div>
+  </section>
+
+  <section class="land-why">
+    <h2>Because AI market heat is not the same as direction</h2>
+    <p class="lg-sub">A ticker can be hot because of real earnings, sector sympathy, liquidity, social attention —
+    or no clear catalyst at all. Santro separates movement from explanation so you can research faster.</p>
+    <div class="lw-flow"><span>move</span><i>→</i><span>catalyst</span><i>→</i><span>crowding</span><i>→</i><span>valuation</span><i>→</i><span>verification</span></div>
+  </section>
+
+  <section class="land-loop">
+    <h2>Your daily AI market loop</h2>
+    <div class="ll-cards">
+      <span class="ll-c"><b>1</b>See what moved</span>
+      <span class="ll-c"><b>2</b>Check why it may have moved</span>
+      <span class="ll-c"><b>3</b>Measure bubble risk</span>
+      <span class="ll-c"><b>4</b>Run a fair-value check</span>
+      <span class="ll-c"><b>5</b>Save a watchlist · get alerts</span>
+    </div>
+    <p class="lg-sub">The quiz tells Santro what kind of market workflow fits you. The terminal gives you the
+    tools to repeat it — watchlists, price alerts, saved valuations. <b>iOS app coming soon.</b></p>
+  </section>
+
+  <section class="land-term" id="terminal">
+    <h2>Then open the terminal</h2>
+    <p class="lg-sub">The full AI bubble terminal — stocks, ETFs, crypto, hot tickers and bubble-risk signals.
+    Everything below is the live product, quotes delayed ~15 min.</p>
+  </section>
+  <div class="topstrip">
+    <div class="ts-stats" id="tape-stats">Loading market tape…</div>
+    <div class="langs">
+      <a class="x-link" href="https://x.com/SantroAI" target="_blank" rel="noopener" title="@SantroAI on X">
+        <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true">
+          <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+      </a>
+    </div>
+  </div>
+
   <div class="intro-line">
-    <h1>Santro AI — The AI Bubble Terminal</h1>
+    <h2 style="font-size:clamp(20px,2vw,26px);margin:0">Santro AI — The AI Bubble Terminal</h2>
     <p class="slogan">Hot means attention, not direction.</p>
     <p><b>Santro AI</b> is an AI market terminal at <b>santroai.tech</b>. It tracks <a href="/stocks">AI stocks</a>,
     <a href="/etfs">AI ETFs</a>, <a href="/crypto">AI crypto tokens</a>, hot tickers, research, valuation tools,
@@ -1357,6 +1511,8 @@ let savedTheme="dark"; try{ savedTheme=localStorage.getItem("santro-theme")||"da
 applyTheme(savedTheme, false);
 loadData();
 </script>
+<script src="/quiz.js?v=1"></script>
+<script>if(window.SantroQuiz) SantroQuiz.mount({mount:"qmount",fill:"qfill",step:"qstep"});</script>
 <script src="site.js?v=10"></script>
 <!-- Gated fair-value calculator + user accounts (extends the terminal) -->
 <script src="accounts/config.js?v=3"></script>

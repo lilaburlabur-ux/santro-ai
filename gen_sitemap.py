@@ -29,6 +29,7 @@ ROUTES = [
     ("/news",     "news.html",     "0.8", "hourly",  True),
     ("/research", "research.html", "0.8", "daily",   True),
     ("/blog",     "blog.html",     "0.7", "weekly",  True),
+    ("/quiz",     "quiz.html",     "0.7", "monthly", False),
     ("/evaluate-prompt","evaluate-prompt.html","0.6","monthly",False),
     ("/share",    "share.html",    "0.6", "weekly",  False),
     ("/about",    "about.html",    "0.6", "monthly", False),

@@ -1,0 +1,226 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
+<meta name="theme-color" content="#0a0e13" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="Santro AI" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<title>What Kind of AI-Market Trader Are You? — 60-Second Bubble Check | Santro AI</title>
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"/>
+<link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png"/>
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"/>
+<link rel="manifest" href="/manifest.json" />
+<meta name="description" content="Take the 60-second AI bubble check and get your Santro market profile — how you read AI stocks, ETFs and crypto, and which tools fit: bubble risk, fair-value calculator, watchlist, alerts. No buy/sell signals. Not financial advice."/>
+<link rel="canonical" href="https://santroai.tech/quiz"/>
+<meta property="og:type" content="website"/><meta property="og:site_name" content="Santro AI"/>
+<meta property="og:title" content="What kind of AI-market trader are you?"/>
+<meta property="og:description" content="The 60-second AI bubble check — get your Santro market profile. No buy/sell signals, just a cleaner way to read the AI trade."/>
+<meta property="og:url" content="https://santroai.tech/quiz"/>
+<meta property="og:image" content="https://santroai.tech/assets/og-map.png"/>
+<meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="What kind of AI-market trader are you?"/>
+<meta name="twitter:description" content="Take the 60-second AI bubble check and get your Santro market profile."/>
+<meta name="twitter:image" content="https://santroai.tech/assets/og-map.png"/>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+ {"@type":"ListItem","position":1,"name":"Home","item":"https://santroai.tech/"},
+ {"@type":"ListItem","position":2,"name":"AI Bubble Check","item":"https://santroai.tech/quiz"}]}
+</script>
+<link rel="stylesheet" href="/site.css?v=11"/>
+<style>
+  .qz{max-width:640px;margin:0 auto;padding:10px 18px 60px;}
+  .qz .lede{color:var(--muted);font-size:14.5px;line-height:1.6;max-width:560px;}
+  .qz .sup{color:var(--faint);font-size:12px;margin-top:6px;}
+  .qz h1{font-size:clamp(23px,4.5vw,30px);margin:18px 0 6px;letter-spacing:-.4px;}
+  /* progress */
+  .qbar{height:5px;background:var(--elev);border-radius:999px;margin:20px 0 6px;overflow:hidden;}
+  .qbar i{display:block;height:100%;background:linear-gradient(90deg,var(--accent,#5b9df0),#e0a73f);border-radius:999px;transition:width .25s ease;}
+  .qstep{font-size:11px;color:var(--faint);text-transform:uppercase;letter-spacing:.6px;font-weight:700;}
+  /* question card */
+  .qcard{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:18px 18px 14px;margin-top:10px;}
+  .qcard h2{font-size:18px;margin:0 0 12px;line-height:1.35;}
+  .qopt{display:block;width:100%;text-align:left;font:inherit;font-size:14.5px;color:var(--text);
+    background:var(--elev);border:1px solid var(--border-soft);border-radius:10px;
+    padding:13px 14px;margin:7px 0;cursor:pointer;min-height:48px;transition:border-color .12s ease;}
+  .qopt:hover{border-color:var(--accent-border,#2b4a75);}
+  .qback{background:none;border:0;color:var(--faint);font:inherit;font-size:12.5px;cursor:pointer;padding:8px 0;}
+  .qback:hover{color:var(--muted);}
+  /* result */
+  .rcard{background:var(--panel);border:1px solid var(--border);border-radius:16px;padding:22px 20px;margin-top:14px;position:relative;overflow:hidden;}
+  .rcard .tag{font-size:10px;letter-spacing:.8px;text-transform:uppercase;color:var(--faint);font-weight:700;}
+  .rcard .pname{font-size:clamp(24px,5vw,32px);font-weight:800;letter-spacing:-.5px;margin:6px 0 8px;color:var(--text);}
+  .rcard .pdesc{color:var(--muted);font-size:14.5px;line-height:1.65;}
+  .rmeter{margin:16px 0 4px;}
+  .rmeter .k{font-size:11px;color:var(--faint);text-transform:uppercase;letter-spacing:.6px;font-weight:700;display:flex;justify-content:space-between;}
+  .rmeter .bar{height:8px;background:var(--elev);border-radius:999px;margin-top:6px;overflow:hidden;}
+  .rmeter .bar i{display:block;height:100%;border-radius:999px;}
+  .rtools{margin:14px 0 2px;display:flex;flex-wrap:wrap;gap:7px;}
+  .rtools a{font-size:12.5px;font-weight:700;padding:8px 12px;border-radius:999px;text-decoration:none;
+    background:var(--elev);color:var(--accent-2);border:1px solid var(--border-soft);}
+  .rtools a:hover{border-color:var(--accent-border);}
+  .rfirst{margin-top:12px;font-size:13.5px;color:var(--muted);}
+  .rfirst b{color:var(--text);}
+  .rcta{display:flex;gap:9px;margin-top:18px;flex-wrap:wrap;}
+  .rcta a{flex:1;min-width:150px;text-align:center;padding:13px 12px;border-radius:11px;font-weight:700;font-size:14px;text-decoration:none;}
+  .rcta .primary{background:var(--accent,#5b9df0);color:#fff;}
+  .rcta .ghost{background:var(--elev);color:var(--text);border:1px solid var(--border);}
+  .rios{margin-top:14px;padding:12px 14px;border:1px solid var(--border-soft);border-radius:10px;font-size:12.5px;color:var(--muted);}
+  .rios b{color:var(--accent-2);}
+  .rbrand{margin-top:16px;padding-top:12px;border-top:1px solid var(--border-soft);font-size:11px;color:var(--faint);display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px;}
+  .rshare{font:inherit;font-size:12px;font-weight:700;background:none;border:1px solid var(--border-soft);border-radius:8px;color:var(--accent-2);padding:6px 12px;cursor:pointer;}
+  .qz .nfa{color:var(--faint);font-size:12px;margin-top:22px;line-height:1.6;}
+  .retake{background:none;border:0;color:var(--faint);font:inherit;font-size:12px;cursor:pointer;text-decoration:underline;padding:0;}
+</style>
+</head><body>
+<header class="pageheader">
+    <a class="logo" href="/" title="Santro AI — terminal">
+      <span class="logo-s">S<span class="logo-ai">AI</span></span>
+      <span class="logo-rest"><span class="logo-antro">ANTRO</span>
+        <span class="logo-tagline">AI&nbsp;RESEARCH&nbsp;·&nbsp;MARKETS</span></span>
+    </a>
+    <nav class="pagenav">
+      <a class="nav-link" href="/">Terminal</a>
+      <a class="nav-link" href="/stocks">Stocks</a>
+      <a class="nav-link" href="/crypto">Crypto</a>
+      <a class="nav-link" href="/bubble">Bubble risk</a>
+      <a class="nav-link" href="/research">Research</a>
+      <a class="nav-link" href="/about">About</a>
+    </nav>
+  </header>
+  <main class="qz">
+    <h1>What kind of AI-market trader are you?</h1>
+    <p class="lede">Take the <b style="color:var(--text)">60-second AI bubble check</b> and get your Santro
+    market profile — how you actually read the AI trade, and which tools fit the way you think.</p>
+    <p class="sup">No buy/sell signals. No fake certainty. Just a cleaner way to read the AI trade.</p>
+
+    <div class="qbar" aria-hidden="true"><i id="qfill" style="width:0%"></i></div>
+    <div class="qstep" id="qstep">Question 1 of 8</div>
+    <div id="qmount"></div>
+
+    <p class="nfa">Your answers stay in your browser (we don't collect them without an account).
+    Quotes may be delayed by approximately 15 minutes. Real-time data planned for Pro.
+    Education, not financial advice — no buy or sell recommendations, ever.</p>
+  </main>
+  <footer>
+    <nav class="foot-nav" style="margin-bottom:6px"><a href="/">Terminal</a> · <a href="/stocks">Stocks</a> · <a href="/crypto">Crypto</a> · <a href="/bubble">Bubble risk</a> · <a href="/etfs">ETFs</a> · <a href="/ipos">IPOs</a> · <a href="/news">News</a> · <a href="/research">Research</a> · <a href="/blog">Blog</a> · <a href="/share">Share</a> · <a href="/about">About</a> · <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a></nav>
+    Santro AI — the AI bubble terminal for AI stocks, ETFs, crypto, hot tickers, research and bubble-risk signals. Beta version.<br>
+    Quotes delayed ~15 min. Real-time data planned for Pro. <span class="nfa">Not financial advice.</span><br>
+    Contact us: <a href="mailto:hello@santroai.tech">hello@santroai.tech</a><br>
+    © 2026 Santro AI. All rights reserved. Uses custom models.
+  </footer>
+<script>
+/* Santro AI bubble check — fully client-side. Answers live in memory; only the
+   final profile is kept (localStorage) so the terminal/dashboard can greet it.
+   TODO(v2): save profile to the account via a backend endpoint once one exists. */
+const Q=[
+ {q:"What do you mostly track?",o:[
+  ["AI stocks",{IM:1,DT:1}],["AI ETFs",{VS:1,IM:1}],["AI crypto",{NH:2}],
+  ["Semiconductors",{IM:2}],["Power & data centers",{IM:2}],["Everything AI",{DT:2}]]},
+ {q:"What's your usual time horizon?",o:[
+  ["Intraday",{NH:2}],["Swing trades (days–weeks)",{NH:1,DT:1}],["1–3 months",{DT:1,VS:1}],
+  ["6–12 months",{VS:1,IM:1}],["Long-term investing",{VS:2}]]},
+ {q:"What do you care about most?",o:[
+  ["Hot movers",{NH:2}],["Valuation",{VS:2}],["News & catalysts",{NH:1,DT:1}],
+  ["Bubble risk",{RW:2}],["Watchlist alerts",{DT:2}],["Research context",{IM:1,VS:1}]]},
+ {q:"A ticker is up 30% today. You…",o:[
+  ["Chase it",{NH:2,sens:-10}],["Check the catalyst first",{NH:1,DT:1,sens:5}],
+  ["Check the valuation",{VS:2,sens:10}],["Wait for a pullback",{VS:1,RW:1,sens:5}],
+  ["Compare it to its sector",{IM:2,sens:5}],["Avoid crowded trades",{RW:2,sens:15}]]},
+ {q:"What scares you most in the AI trade?",o:[
+  ["Missing the move",{NH:2,sens:-10}],["Buying the top",{RW:1,VS:1,sens:10}],
+  ["Fake catalysts",{NH:1,RW:1,sens:5}],["Overvaluation",{VS:2,sens:10}],
+  ["A liquidity reversal",{RW:2,sens:15}],["Not knowing what matters",{DT:2,sens:0}]]},
+ {q:"Which AI narrative feels most important right now?",o:[
+  ["Compute & GPUs",{IM:2}],["Power & energy",{IM:2}],["Data centers",{IM:2}],
+  ["AI software",{VS:1,DT:1}],["AI crypto",{NH:2}],["Robotics",{IM:1,NH:1}],["Cybersecurity",{DT:1,VS:1}]]},
+ {q:"How much structure do you want?",o:[
+  ["Just show me hot tickers",{NH:2}],["Give me risk context",{RW:2}],
+  ["Calculator + saved valuations",{VS:2}],["Alerts on my names",{DT:2}],["The full terminal",{DT:2,IM:1}]]},
+ {q:"Want iPhone alerts when the iOS app lands?",o:[
+  ["Yes — count me in",{ios:1}],["Maybe later",{}],["No thanks",{}]]}
+];
+const PROFILES={
+ NH:{name:"Narrative Hunter",color:"#e0a73f",
+  desc:"You follow attention before the story becomes consensus. Your edge is speed — your risk is chasing a move after the crowd already owns it. Santro's job for you: show the move AND whether it's already crowded.",
+  tools:[["Hot tickers","/"],["AI crypto movers","/crypto"],["Share cards","/share"],["Research notes","/research"]],
+  first:"Open the terminal and read today's hot list — then check each mover's catalyst before anything else."},
+ VS:{name:"Valuation Skeptic",color:"#22c55e",
+  desc:"You want to know whether the story is already priced in. Narratives don't move you — the gap between price and assumptions does. Santro's reverse-DCF shows you what growth the price already bakes in.",
+  tools:[["Fair-value calculator","/t?sym=NVDA"],["Saved valuations","/dashboard"],["Bubble risk","/bubble"],["AI ETF comparison","/etfs"]],
+  first:"Pick any ticker and run the calculator — start from the market-implied growth, not a guess."},
+ IM:{name:"Infrastructure Mapper",color:"#5b9df0",
+  desc:"You think the AI trade moves through compute, power, data centers and second-order beneficiaries — not just the famous names. Sub-theme structure is your map.",
+  tools:[["AI stocks by sub-theme","/stocks"],["AI ETFs","/etfs"],["Research","/research"],["Ticker deep dives","/stocks/nvda"]],
+  first:"Open the AI stocks map and walk the sectors: Chips → Equipment → DC Power → Applied AI."},
+ RW:{name:"Risk Watcher",color:"#f0596e",
+  desc:"You don't just want upside — you want to know when the trade gets crowded. You read froth the way others read momentum. The bubble-risk gauge and the short-watch pages were built for you.",
+  tools:[["AI bubble-risk index","/bubble"],["Burry short watch","/stocks/burry-short-watch"],["Aschenbrenner basket","/stocks/aschenbrenner"],["Price alerts","/dashboard"]],
+  first:"Check today's bubble-risk score and its top driver — then set an alert on the name you're most worried about."},
+ DT:{name:"Daily Terminal User",color:"#7cb0f5",
+  desc:"You want one screen to check the AI market every day — what moved, why, and whether it matters. Consistency beats intensity; your loop is the product.",
+  tools:[["The terminal","/"],["Watchlist + alerts","/dashboard"],["AI trade in 60 seconds","/"],["iOS app (coming soon)","#ios"]],
+  first:"Open the terminal, read 'AI trade in 60 seconds', and pin your first watchlist ticker."}
+};
+let step=0, score={NH:0,VS:0,IM:0,RW:0,DT:0}, sens=50, ios=false;
+const mount=document.getElementById("qmount"), fill=document.getElementById("qfill"), stepEl=document.getElementById("qstep");
+function renderQ(){
+  const item=Q[step];
+  fill.style.width=Math.round(step/Q.length*100)+"%";
+  stepEl.textContent=`Question ${step+1} of ${Q.length}`;
+  const opts=item.o.map((o,i)=>`<button class="qopt" data-i="${i}">${o[0]}</button>`).join("");
+  mount.innerHTML=`<div class="qcard"><h2>${item.q}</h2>${opts}
+    ${step>0?'<button class="qback" id="qback">← Back</button>':""}</div>`;
+  mount.querySelectorAll(".qopt").forEach(b=>b.onclick=()=>answer(+b.dataset.i));
+  const back=mount.querySelector("#qback"); if(back) back.onclick=()=>{ step--; undo[step]&&undo[step](); renderQ(); };
+}
+const undo=[];
+function answer(i){
+  const w=Q[step].o[i][1];
+  const before={score:{...score},sens,ios};
+  undo[step]=()=>{ score=before.score; sens=before.sens; ios=before.ios; };
+  for(const k in w){ if(k==="sens") sens+=w[k]; else if(k==="ios") ios=true; else score[k]+=w[k]; }
+  step++;
+  if(step<Q.length) renderQ(); else renderResult();
+}
+function renderResult(){
+  fill.style.width="100%"; stepEl.textContent="Your Santro market profile";
+  sens=Math.max(5,Math.min(95,sens));
+  const order=["RW","VS","IM","DT","NH"];               // tie-break: risk-aware first (honest default)
+  const top=Object.keys(score).sort((a,b)=>score[b]-score[a]||order.indexOf(a)-order.indexOf(b))[0];
+  const p=PROFILES[top];
+  try{ localStorage.setItem("santro_quiz", JSON.stringify({profile:top,name:p.name,sens,ios,at:new Date().toISOString()})); }catch(e){}
+  const senCol=sens>=66?"#f0596e":sens>=40?"#e0a73f":"#22c55e";
+  const senLbl=sens>=66?"high — you watch for crowding":sens>=40?"balanced":"low — you lean into momentum";
+  mount.innerHTML=`<div class="rcard">
+    <span class="tag">Santro market profile</span>
+    <div class="pname" style="color:${p.color}">${p.name}</div>
+    <p class="pdesc">${p.desc}</p>
+    <div class="rmeter"><span class="k"><span>Bubble-risk sensitivity</span><span style="color:${senCol}">${sens}/100 · ${senLbl}</span></span>
+      <div class="bar"><i style="width:${sens}%;background:${senCol}"></i></div></div>
+    <div class="rtools">${p.tools.map(t=>`<a href="${t[1]}">${t[0]}</a>`).join("")}</div>
+    <p class="rfirst"><b>First move:</b> ${p.first}</p>
+    <div class="rcta">
+      <a class="primary" href="/signup">Create a free account</a>
+      <a class="ghost" href="/">Open the terminal</a>
+    </div>
+    <p class="rfirst" style="font-size:12px;color:var(--faint)">A free account saves your watchlist, alerts,
+    valuation history and terminal preferences — so your profile becomes a daily loop, not a one-off.</p>
+    <div class="rios" id="ios">${ios?"<b>iOS alerts: noted.</b> The iPhone app is coming soon — ":"<b>iOS app coming soon.</b> "}Mobile alerts,
+    watchlists, valuation history and a daily AI bubble brief are being prepared for iPhone. Until then you can
+    add Santro to your Home Screen from the browser share menu.</div>
+    <div class="rbrand"><span>santroai.tech · hot means attention, not direction</span>
+      <button class="rshare" id="rshare">Share result ↗</button></div>
+  </div>
+  <p style="margin-top:10px"><button class="retake" id="retake">Retake the check</button></p>`;
+  document.getElementById("retake").onclick=()=>{ step=0; score={NH:0,VS:0,IM:0,RW:0,DT:0}; sens=50; ios=false; renderQ(); };
+  document.getElementById("rshare").onclick=async()=>{
+    const txt=`My Santro AI market profile: ${p.name} (bubble-risk sensitivity ${sens}/100). Take the 60-second AI bubble check:`;
+    const url="https://santroai.tech/quiz";
+    if(navigator.share){ try{ await navigator.share({title:"Santro AI bubble check",text:txt,url}); return;}catch(e){} }
+    try{ await navigator.clipboard.writeText(txt+" "+url);
+      const b=document.getElementById("rshare"); b.textContent="Copied ✓"; setTimeout(()=>b.textContent="Share result ↗",1600); }catch(e){}
+  };
+}
+renderQ();
+</script>
+<script src="/site.js?v=10"></script>
+</body></html>

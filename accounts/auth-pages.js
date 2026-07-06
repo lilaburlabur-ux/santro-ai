@@ -133,6 +133,10 @@
   async function renderDashboard() {
     let user = null;
     try { user = await API.me(); } catch (_) { user = null; }
+    // Santro market profile from the /quiz check (localStorage only for now;
+    // TODO(v2): persist to the account once a profile endpoint exists)
+    let quizProfile = null;
+    try { quizProfile = JSON.parse(localStorage.getItem("santro_quiz") || "null"); } catch (_) {}
     if (!user) { location.href = "/signin?next=/dashboard"; return; }
     let prefs = {};
     try { prefs = (await API.getPreferences()) || {}; } catch (_) { prefs = {}; }
@@ -148,6 +152,10 @@
       <header class="dash-head">
         <div>
           <h1>${greeting}</h1>
+          ${quizProfile && quizProfile.name ? `<p style="margin:4px 0 0;font-size:13px;color:var(--muted,#9aa6b2)">Your Santro market profile:
+            <b style="color:var(--accent-2,#7cb0f5)">${esc(quizProfile.name)}</b>
+            · bubble-risk sensitivity ${Number(quizProfile.sens) || "—"}/100
+            · <a href="/quiz" style="color:var(--accent-2,#7cb0f5)">retake</a></p>` : `<p style="margin:4px 0 0;font-size:13px;color:var(--muted,#9aa6b2)"><a href="/quiz" style="color:var(--accent-2,#7cb0f5)">Take the 60-second AI bubble check</a> to get your market profile.</p>`}
           <p class="auth-sub">${esc(name)} · <span class="dash-mail">${esc(user.email)}</span></p>
         </div>
         <div class="dash-actions">

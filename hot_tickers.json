@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-06T13:37:23+00:00",
+  "as_of": "2026-07-06T13:52:44+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,51 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings Co",
-   "move_pct": 6.73,
-   "price": 320.77,
-   "volume": 484632,
-   "volume_vs_avg": "~0.1x",
-   "heat_score": 39,
+   "ticker": "AMD",
+   "company": "Advanced Micro Devices Inc",
+   "move_pct": 7.89,
+   "price": 558.69,
+   "volume": 5209535,
+   "volume_vs_avg": "~0.2x",
+   "heat_score": 43,
    "direction": "up",
-   "why": "Here\u2019s Why Vertiv (VRT) is Among the 10 Best Pick and Shovel AI Stocks to Invest In",
+   "why": "Western Digital, Sandisk, AMD, ASML, TeraWulf, Strategy, and More Stocks That Explain Today\u2019s Market",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/why-vertiv-vrt-among-10-094217432.html",
-   "published": "2026-07-06T09:42:17Z",
-   "sector": "Data Center, Power & Energy"
+   "source_url": "https://www.barrons.com/articles/stock-movers-a817c1db?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-07-06T13:22:00Z",
+   "sector": "AI Chips & Compute"
   },
   {
    "rank": 2,
    "ticker": "AVGO",
    "company": "Broadcom Inc",
-   "move_pct": 5.47,
-   "price": 380.16,
-   "volume": 2777885,
+   "move_pct": 5.27,
+   "price": 379.43,
+   "volume": 4308880,
    "volume_vs_avg": "~0.1x",
-   "heat_score": 35,
+   "heat_score": 34,
    "direction": "up",
-   "why": "Broadcom stock pops 4% as Apple silicon deal gets extended through 2031",
+   "why": "AVGO Stock Is Rising Today \u2013 What's The Apple Connection?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-pops-4-apple-131039879.html",
-   "published": "2026-07-06T13:10:39Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/avgo-stock-rising-today-whats-133748839.html",
+   "published": "2026-07-06T13:37:48Z",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 3,
+   "ticker": "HPE",
+   "company": "Hewlett Packard Enterprise Co",
+   "move_pct": 5.09,
+   "price": 43.33,
+   "volume": 1470996,
+   "volume_vs_avg": "~0.0x",
+   "heat_score": 33,
+   "direction": "up",
+   "why": "Here\u2019s Why HP (HPE) is Among the 15 Best Data Center Stocks to Buy and Hold for the Next Decade",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-hp-hpe-among-15-105057987.html",
+   "published": "2026-07-06T10:50:57Z",
+   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

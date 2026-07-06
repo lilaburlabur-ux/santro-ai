@@ -39,7 +39,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Micron-Ford chip deal, TeraWulf stock gets lift, private equity takes over easyJet | Yahoo Finance Video | 2026-07-06 |
 | Micron is like the 'bottleneck within the bottleneck' of memory trade | Yahoo Finance Video | 2026-07-06 |
 | Micron stock has now plunged to a surprising level | Yahoo Finance | 2026-07-06 |
-| Tepper’s Appaloosa soars 32% in H1 on prescient memory-chip bets - report | Investing.com | 2026-07-06 |
+| Meet the Unstoppable Memory ETF With 74.7% of Its Portfolio Parked in Micron, Samsung, and SK Hynix | Motley Fool | 2026-07-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

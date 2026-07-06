@@ -36,8 +36,8 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
-| 3 Robotics ETFs Positioned to Capitalize on America’s Reshoring Boom in 2026 | 24/7 Wall St. | 2026-07-06 |
 | Credo Leads Rebound For Semiconductor Stocks | Investor's Business Daily | 2026-07-06 |
+| 3 Robotics ETFs Positioned to Capitalize on America’s Reshoring Boom in 2026 | 24/7 Wall St. | 2026-07-06 |
 | The AI Trade Is Off to a Hot Start This Week as Chip, Memory Stocks Surge | Investopedia | 2026-07-06 |
 | Goldman Sachs turns its back on major semiconductor stock | TheStreet | 2026-07-06 |
 

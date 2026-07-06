@@ -37,9 +37,9 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Headline | Source | Date |
 |---|---|---|
 | Software's strongest pocket is back near records: Chart of the Day | Yahoo Finance | 2026-07-06 |
+| Update: Dow Crosses 53,000, Nasdaq Rebounds as Tech Advances | MT Newswires | 2026-07-06 |
+| Broadcom Is 24% Off Its High and Just Unveiled a Custom AI Chip With OpenAI. Time to Buy the Dip? | Motley Fool | 2026-07-06 |
 | S&P 500, Nasdaq close sharply higher as Broadcom rallies | Reuters | 2026-07-06 |
-| Sector Update: Tech Stocks Gain Late Afternoon | MT Newswires | 2026-07-06 |
-| Marvell Is Quietly Chasing Broadcom’s AI Jackpot, and Wall Street Is Finally Waking Up | 24/7 Wall St. | 2026-07-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Nvidia denies report its next-generation AI server faces delays, says roadmap is intact | Yahoo Finance | 2026-07-06 |
-| The Russell 2000 Just Did Something for the First Time Since 1991. Here's Why Investors Should Pay Attention. | Motley Fool | 2026-07-06 |
-| How to Use the Summer Months to Build a Stronger Retirement Income Strategy | Motley Fool | 2026-07-06 |
-| Was Michael Burry Right About Palantir? PLTR Is Still Down Over the Past Year | 24/7 Wall St. | 2026-07-06 |
+| 2 Brilliant Stocks to Buy and Hold for 10 Years | Motley Fool | 2026-07-06 |
+| Why Oracle Stock Slipped 35% in June | Motley Fool | 2026-07-06 |
+| Update: Dow Crosses 53,000, Nasdaq Rebounds as Tech Advances | MT Newswires | 2026-07-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

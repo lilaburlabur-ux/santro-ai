@@ -18,7 +18,7 @@ Signed file: `AMD.research.06.07.2026`
 | Technical momentum | High | 1Y +298.53%; price +97.06% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -4.97% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.37%, revenue growth 37.80%. |
-| Value attractiveness | Low (expensive) | Forward P/E 41.89, EV/Sales 22.32. |
+| Value attractiveness | Low (expensive) | Forward P/E 41.82, EV/Sales 22.32. |
 | Risk level | High | Beta 2.47, ATR 6.7% of price, short float 2.88%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: low (expensive), risk: high.
@@ -37,9 +37,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | Tech stocks on track for record annual inflows as investors pile into the AI trade | Yahoo Finance | 2026-07-06 |
-| US Equity Markets Higher as Chipmakers Rally; Dow Rises to Record | MT Newswires | 2026-07-06 |
-| Sector Update: Tech Stocks Gain Late Afternoon | MT Newswires | 2026-07-06 |
-| Update: US Equity Indexes Rise as Growth Areas Top Sector Charts | MT Newswires | 2026-07-06 |
+| Update: Dow Crosses 53,000, Nasdaq Rebounds as Tech Advances | MT Newswires | 2026-07-06 |
+| Stock Market Today: Dow Up, AI Stock Tests Entry; SpaceX Tumbles As Elon Musk Makes This Boast (Live Coverage) | Investor's Business Daily | 2026-07-06 |
+| Credo Leads Rebound For Semiconductor Stocks | Investor's Business Daily | 2026-07-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Revenue (ttm) | $37.45B | Revenue growth 37.80% y/y |
 | Profitability | Gross 53.06%, operating 14.40%, net 13.37% | ROA 3.65%, ROE 8.06% |
 | Balance sheet | Cash $12.35B, debt $3.87B | Current ratio 2.73, debt/equity 6.00 |
-| Valuation | P/E 184.02, forward P/E 41.89, P/S 24.03, P/B 13.96 | EV/Sales 22.32, EV/EBITDA 112.50 |
+| Valuation | P/E 184.02, forward P/E 41.82, P/S 24.03, P/B 13.96 | EV/Sales 22.32, EV/EBITDA 112.50 |
 | Growth expectations | Earnings growth 91.20%, EPS q/q 95.10% | Analyst mean target $508.31 (48 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Northern Trust Corporation | 16,427,217 | 1.01% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 41.89, EV/Sales 22.32. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 41.82, EV/Sales 22.32. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.47, ATR 6.7% of price, short float 2.88%. Size positions accordingly.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -123,7 +123,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | 52W high | $580.91 | Revenue growth y/y | 37.80% |
 | 52W low | $134.80 | Inst. ownership | 72.07% |
 | P/E (ttm) | 184.02 | Insider ownership | 0.40% |
-| Forward P/E | 41.89 | Short float | 2.88% |
+| Forward P/E | 41.82 | Short float | 2.88% |
 | PEG (trailing) | 1.24 | Avg volume | 36,952,532 |
 | P/S | 24.03 | Employees | 31,000 |
 | P/B | 13.96 | Analyst rec (1=buy..5=sell) | 1.5 |

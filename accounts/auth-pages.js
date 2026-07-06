@@ -159,7 +159,7 @@
           <p class="auth-sub">${esc(name)} · <span class="dash-mail">${esc(user.email)}</span></p>
         </div>
         <div class="dash-actions">
-          <a class="sa-btn" href="/" style="width:auto">← Back to terminal</a>
+          <a class="sa-btn" href="/terminal" style="width:auto">← Back to terminal</a>
           <button class="sa-btn" id="logout" style="width:auto">Log out</button>
         </div>
       </header>

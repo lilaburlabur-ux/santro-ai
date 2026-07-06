@@ -141,19 +141,24 @@ def main():
         for f in fails: print("  ✗", f)
         sys.exit(1)
     
-# ── landing-first guard: the quiz hero must stay ABOVE the terminal/tape ──
+# ── landing/terminal split guard: / is quiz-only, /terminal holds the product ──
 _idx = open("index.html", encoding="utf-8").read()
+_term = open("terminal.html", encoding="utf-8").read()
 _checks = [
     ("landing hero present", 'id="landing-hero"' in _idx),
-    ("hero before tape", _idx.find('id="landing-hero"') < _idx.find('class="topstrip"')),
-    ("hero before terminal grid", _idx.find('id="landing-hero"') < _idx.find('class="grid"')),
-    ("exactly one h1 on homepage", _idx.count("<h1") == 1),
+    ("landing has NO market tape", 'class="topstrip"' not in _idx),
+    ("landing has NO terminal grid", 'class="grid"' not in _idx),
+    ("landing links the terminal", 'href="/terminal"' in _idx),
+    ("exactly one h1 on landing", _idx.count("<h1") == 1),
+    ("terminal page has the tape", 'class="topstrip"' in _term),
+    ("terminal page has the grid", 'class="grid"' in _term),
+    ("exactly one h1 on terminal", _term.count("<h1") == 1),
 ]
 for _name, _ok in _checks:
     if not _ok:
         print(f"LANDING GUARD FAILED: {_name}")
         sys.exit(1)
-print("landing-first guard: hero above terminal, single h1 — OK")
+print("landing/terminal split guard — OK")
 
 print("SEO AUDIT PASSED — all core pages have title/description/canonical/H1/valid schema.")
 

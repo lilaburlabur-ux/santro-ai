@@ -21,6 +21,7 @@ TODAY = dt.date.today().isoformat()
 # (url path, file, priority, changefreq, dynamic?) — dynamic ⇒ lastmod = today
 ROUTES = [
     ("/",         "index.html",    "1.0", "hourly",  True),
+    ("/terminal", "terminal.html", "0.9", "hourly",  True),
     ("/stocks",   "stocks.html",   "0.9", "hourly",  True),
     ("/crypto",   "crypto.html",   "0.8", "hourly",  True),
     ("/etfs",     "etfs.html",     "0.8", "daily",   True),

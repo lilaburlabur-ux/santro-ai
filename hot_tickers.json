@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-06T13:22:45+00:00",
+  "as_of": "2026-07-06T13:37:23+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,19 +9,35 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "KLAC",
-   "company": "KLA Corp",
-   "move_pct": 5.4,
-   "price": 248.26,
-   "volume": 23622500,
-   "volume_vs_avg": "~2x",
-   "heat_score": 43,
+   "ticker": "VRT",
+   "company": "Vertiv Holdings Co",
+   "move_pct": 6.73,
+   "price": 320.77,
+   "volume": 484632,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 39,
    "direction": "up",
-   "why": "Cantor Fitzgerald Raises its Price Target on KLA (KLAC)",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-raises-price-target-094225261.html",
-   "published": "2026-07-06T09:42:25Z",
-   "sector": "Chip Equipment & AI Hardware"
+   "why": "Here\u2019s Why Vertiv (VRT) is Among the 10 Best Pick and Shovel AI Stocks to Invest In",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/why-vertiv-vrt-among-10-094217432.html",
+   "published": "2026-07-06T09:42:17Z",
+   "sector": "Data Center, Power & Energy"
+  },
+  {
+   "rank": 2,
+   "ticker": "AVGO",
+   "company": "Broadcom Inc",
+   "move_pct": 5.47,
+   "price": 380.16,
+   "volume": 2777885,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 35,
+   "direction": "up",
+   "why": "Broadcom stock pops 4% as Apple silicon deal gets extended through 2031",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-pops-4-apple-131039879.html",
+   "published": "2026-07-06T13:10:39Z",
+   "sector": "AI Chips & Compute"
   }
  ]
 }

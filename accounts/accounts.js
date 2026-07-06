@@ -47,7 +47,7 @@
         <span class="sa-dot"></span>${esc(initial)} · Account ▾</button>`;
       slot.querySelector("#sa-acct").onclick = toggleMenu;
     } else {
-      slot.innerHTML = `<button class="sa-authbtn" id="sa-signin">Sign in</button>`;
+      slot.innerHTML = `<button class="sa-authbtn" id="sa-signin">Sign in</button><a class="sa-authbtn sa-signupbtn" href="/signup">Sign up</a>`;
       slot.querySelector("#sa-signin").onclick = () => openAuth("home");
     }
   }
@@ -124,6 +124,8 @@
       ${alts}
       ${alts ? '<div class="sa-or">or</div>' : ""}
       <button class="sa-btn primary" id="e">Continue with email & password</button>
+      <div class="sa-row" style="justify-content:center;margin-top:10px">
+        <button class="sa-link" id="reg0">New here? Create a free account</button></div>
       <p class="sa-nfa">Not financial advice. We use cookies to keep you signed in.</p>
     </div>`);
     const g = w.querySelector("#g");
@@ -131,6 +133,7 @@
     const m = w.querySelector("#m");
     if (m) m.onclick = () => openAuthView("magicLink");
     w.querySelector("#e").onclick = () => openAuthView("email");
+    w.querySelector("#reg0").onclick = () => { location.href = "/signup"; };
     return w;
   }
   function authMagic() {
@@ -143,6 +146,9 @@
       <button class="sa-link" id="back">← other options</button>
     </div>`);
     w.querySelector("#back").onclick = () => openAuthView("home");
+    const regRow = node(`<div class="sa-row" style="justify-content:center;margin-top:8px"><button class="sa-link" id="regM">No account yet? Create one</button></div>`);
+    w.appendChild(regRow);
+    regRow.querySelector("#regM").onclick = () => { location.href = "/signup"; };
     w.querySelector("#go").onclick = async () => {
       const email = w.querySelector("#em").value.trim();
       if (!email) return; toggle(w, true);

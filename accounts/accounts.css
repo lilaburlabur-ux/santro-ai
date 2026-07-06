@@ -228,3 +228,8 @@ select.sa-input{cursor:pointer;}
 .sa-mtab:hover{color:var(--text,#e6edf3);border-color:var(--accent-border,#2b4a75);}
 .sa-mtab.on{background:rgba(91,157,240,.14);color:var(--accent-2,#7cb0f5);border-color:var(--accent-border,#2b4a75);}
 .sa-epsrow .f{min-width:260px;}
+
+/* header Sign-up button (logged-out pair) */
+a.sa-authbtn.sa-signupbtn{margin-left:6px;text-decoration:none;display:inline-flex;align-items:center;
+  background:var(--accent-soft,rgba(91,157,240,.12));color:var(--accent-2,#7cb0f5);border-color:var(--accent-border,#2b4a75);}
+a.sa-authbtn.sa-signupbtn:hover{color:var(--text,#e6edf3);}

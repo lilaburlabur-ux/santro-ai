@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
+| Why this AI chip startup could rival Nvidia | Yahoo Finance Video | 2026-07-06 |
 | Nvidia denies report its next-generation AI server faces delays, says roadmap is intact | Yahoo Finance | 2026-07-06 |
-| 2 Brilliant Stocks to Buy and Hold for 10 Years | Motley Fool | 2026-07-06 |
-| Why Oracle Stock Slipped 35% in June | Motley Fool | 2026-07-06 |
-| Update: Dow Crosses 53,000, Nasdaq Rebounds as Tech Advances | MT Newswires | 2026-07-06 |
+| Dow Jones Futures: AI Stocks Astera, Bloom, Tesla Rebound; SpaceX Slides Ahead Of Nasdaq-100 Inclusion | Investor's Business Daily | 2026-07-06 |
+| Why Hycroft Mining Was a Tarnished Stock Last Month | Motley Fool | 2026-07-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

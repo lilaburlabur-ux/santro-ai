@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-07-06T03:03:07+00:00",
-  "as_of_local": "2026-07-06 03:03:07 UTC",
+  "as_of_utc": "2026-07-06T03:18:15+00:00",
+  "as_of_local": "2026-07-06 03:18:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -44,7 +44,7 @@
           "title": "Dow Jones Futures Rise, Techs Jump; Apple, SpaceX, Sandisk, Robinhood In Focus",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-07-06T02:47:18Z"
+          "published": "2026-07-06T03:05:31Z"
         },
         {
           "title": "What Makes Taiwan Semiconductor Manufacturing (TSM) One of BlackRock\u2019s 30 Most Important Picks",
@@ -97,12 +97,6 @@
       "market_cap": 1101790779632.2524,
       "headlines": [
         {
-          "title": "Stock market today: S&P 500, Nasdaq, Dow futures climb after record-setting week",
-          "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-july-7-225645420.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-05T22:56:45Z"
-        },
-        {
           "title": "AI bubble fears, the endless K-shaped economy, and insane hyperscaler capex spending",
           "url": "https://finance.yahoo.com/markets/article/ai-bubble-fears-the-endless-k-shaped-economy-and-insane-hyperscaler-capex-spending-123000856.html",
           "publisher": "Yahoo Finance",
@@ -113,6 +107,12 @@
           "url": "https://finance.yahoo.com/technology/articles/micron-technology-mu-enters-strategic-004549924.html",
           "publisher": "Insider Monkey",
           "published": "2026-07-06T00:45:49Z"
+        },
+        {
+          "title": "Chip Stock Bulls Count on Samsung to Soothe AI Trade Jitters",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/chip-stock-bulls-count-samsung-235318720.html",
+          "publisher": "Bloomberg",
+          "published": "2026-07-05T23:53:18Z"
         }
       ]
     },
@@ -206,7 +206,7 @@
       "price": 245.29,
       "previous_close": 272.05,
       "change_pct": -9.84,
-      "market_cap": 214579686126.70898,
+      "market_cap": 214764431926.82227,
       "headlines": [
         {
           "title": "UBS Raises Price Target for Marvell Technology (MRVL)",
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -5.11,
-          "price": 2301000.0,
+          "change_pct": -3.92,
+          "price": 2330000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -1.62,
-          "price": 304500.0,
+          "change_pct": -0.65,
+          "price": 307500.0,
           "currency": "KRW"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 4.52,
-          "price": 428.0,
+          "change_pct": 5.13,
+          "price": 430.5,
           "currency": "TWD"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 1.36,
-          "price": 187.0,
+          "change_pct": 1.63,
+          "price": 187.5,
           "currency": "TWD"
         }
       ]
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -5.11,
-        "price": 2301000.0,
+        "change_pct": -3.92,
+        "price": 2330000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -1.62,
-        "price": 304500.0,
+        "change_pct": -0.65,
+        "price": 307500.0,
         "currency": "KRW"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 4.52,
-        "price": 428.0,
+        "change_pct": 5.13,
+        "price": 430.5,
         "currency": "TWD"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 1.36,
-        "price": 187.0,
+        "change_pct": 1.63,
+        "price": 187.5,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63409.14,
-      "change_pct": 0.51
+      "price": 63340.73,
+      "change_pct": 0.4
     },
     {
       "label": "Gold",
-      "price": 4187.0,
-      "change_pct": 1.81
+      "price": 4178.9,
+      "change_pct": 1.61
     },
     {
       "label": "Nasdaq100",

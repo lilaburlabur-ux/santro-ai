@@ -92,7 +92,8 @@
           .then((r) => r.ok).catch(() => false);
         if (ok) return Live._fetch(path, { method, body, silent401 }, true);
         if (!silent401) _onUnauthorized();
-        throw new ApiError(401, "Authentication required.");
+        let d401 = null; try { d401 = await res.json(); } catch (_) {}
+        throw new ApiError(401, (d401 && d401.detail) || "Authentication required.");
       }
       if (res.status === 402) {
         let p = {}; try { p = await res.json(); } catch (_) {}

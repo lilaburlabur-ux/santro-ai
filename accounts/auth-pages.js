@@ -77,7 +77,15 @@
       busy(w, true);
       try {
         await API.register(body);
-        await API.login({ email, password });   // instant access — straight in
+        try {
+          await API.login({ email, password });   // instant access — straight in
+        } catch (e) {
+          if (e && e.status === 401) {
+            err.innerHTML = `<div class="sa-msg err">An account with this email already exists, and this password doesn't match it. <a href="/signin">Sign in instead</a> — or use a different email.</div>`;
+            busy(w, false); return;
+          }
+          throw e;
+        }
         location.href = "/dashboard";
       } catch (e) {
         err.innerHTML = msg(e.detail || "Couldn't create the account. Try a different email.", "err");

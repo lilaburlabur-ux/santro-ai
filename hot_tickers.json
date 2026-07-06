@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-06T19:49:54+00:00",
+  "as_of": "2026-07-06T20:05:02+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,13 +9,29 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "TSLA",
+   "company": "Tesla Inc",
+   "move_pct": 6.63,
+   "price": 419.55,
+   "volume": 51648644,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 44,
+   "direction": "up",
+   "why": "Tesla Just Delivered Fantastic News for Investors, but Don't Rush Out and Buy the Stock",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/tesla-just-delivered-fantastic-news-190500782.html",
+   "published": "2026-07-06T19:05:00Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 2,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
-   "move_pct": 7.73,
-   "price": 557.84,
-   "volume": 24585025,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 46,
+   "move_pct": 6.47,
+   "price": 551.32,
+   "volume": 28912551,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 42,
    "direction": "up",
    "why": "AMD (AMD) Stock Trades Up, Here Is Why",
    "catalyst_type": "momentum_narrative",
@@ -24,35 +40,19 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 2,
+   "rank": 3,
    "ticker": "INOD",
    "company": "Innodata Inc",
-   "move_pct": 7.28,
-   "price": 73.89,
-   "volume": 1066235,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 44,
+   "move_pct": 6.16,
+   "price": 73.12,
+   "volume": 1411396,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 41,
    "direction": "up",
    "why": "Is Innodata Stock Finally Worth Buying After a 33% Plunge in a Month?",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/innodata-stock-finally-worth-buying-165000565.html",
    "published": "2026-07-06T16:50:00Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 3,
-   "ticker": "TSLA",
-   "company": "Tesla Inc",
-   "move_pct": 6.17,
-   "price": 417.74,
-   "volume": 44080359,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 41,
-   "direction": "up",
-   "why": "Tesla Just Delivered Fantastic News for Investors, but Don't Rush Out and Buy the Stock",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/tesla-just-delivered-fantastic-news-190500782.html",
-   "published": "2026-07-06T19:05:00Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]

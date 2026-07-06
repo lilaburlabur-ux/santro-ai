@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-06T11:48:52+00:00",
+  "as_of": "2026-07-06T12:04:00+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "KLAC",
+   "company": "KLA Corp",
+   "move_pct": 5.26,
+   "price": 247.94,
+   "volume": 23622500,
+   "volume_vs_avg": "~2x",
+   "heat_score": 42,
+   "direction": "up",
+   "why": "Cantor Fitzgerald Raises its Price Target on KLA (KLAC)",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-raises-price-target-094225261.html",
+   "published": "2026-07-06T09:42:25Z",
+   "sector": "Chip Equipment & AI Hardware"
+  }
+ ]
 }

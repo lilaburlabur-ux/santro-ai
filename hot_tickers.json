@@ -1,59 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-06T00:52:17+00:00",
+  "as_of": "2026-07-06T08:05:37+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "APP",
-   "company": "Applovin Corp",
-   "move_pct": -6.65,
-   "price": 527.06,
-   "volume": 5996900,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 44,
-   "direction": "down",
-   "why": "Advertising Growth Affirm AppLovin Corporation (APP) as Top AI Stock to Buy According to Billionaire Philippe Laffont",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/advertising-growth-affirm-applovin-corporation-225044375.html",
-   "published": "2026-07-05T22:50:44Z",
-   "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 2,
-   "ticker": "MU",
-   "company": "Micron Technology Inc",
-   "move_pct": -5.49,
-   "price": 975.56,
-   "volume": 61316900,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 40,
-   "direction": "down",
-   "why": "Micron Technology Inc. (MU) Sued Over Skyrocketing DRAM Prices amid AI Boom",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/micron-technology-inc-mu-sued-225110494.html",
-   "published": "2026-07-05T22:51:10Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 3,
-   "ticker": "INTC",
-   "company": "Intel Corp",
-   "move_pct": -5.25,
-   "price": 120.35,
-   "volume": 124577600,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 38,
-   "direction": "down",
-   "why": "AMD Stock and Intel Crushed Nvidia in the First Half. Here's My Prediction for the Second Half.",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-intel-crushed-nvidia-223000800.html",
-   "published": "2026-07-05T22:30:00Z",
-   "sector": "AI Chips & Compute"
-  }
- ]
+ "hot_tickers": []
 }

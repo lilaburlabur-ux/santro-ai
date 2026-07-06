@@ -133,6 +133,28 @@
     <p class="src">Source: <a href="https://aibubblemonitor.com" target="_blank" rel="noopener">aibubblemonitor.com</a>
     — the AI Bubble Index and its methodology belong to AI Bubble Monitor; Santro AI mirrors the
     published values with attribution. Index updates daily.</p>
+
+    <!-- ── portfolio stress test ─────────────────────────────────────── -->
+    <section id="stress" style="margin-top:34px">
+      <h2 style="font-size:20px;margin:0 0 4px">Test your portfolio if the AI bubble bursts</h2>
+      <p style="color:var(--muted);font-size:13.5px;line-height:1.6;max-width:720px;margin:0 0 4px">
+        Paste your tickers (with optional weights) and Santro classifies your AI exposure and runs
+        bad-weather scenarios inspired by dot-com, 2008, the 2022 rate shock and crypto risk-off —
+        all computed in your browser.</p>
+      <p style="color:var(--faint);font-size:11.5px;margin:0 0 10px">Portfolio inputs are used only to
+        generate this stress test, right here in your browser — nothing is uploaded or stored. Never
+        enter brokerage credentials; Santro doesn't need them.</p>
+      <textarea id="st-in" rows="3" placeholder="NVDA 20%, SMH 15%, TAO 10%, MSFT 20%, CASH 35%  —  or just: NVDA, AMD, SPY"
+        style="width:100%;box-sizing:border-box;background:var(--panel);border:1px solid var(--border);border-radius:11px;color:var(--text);font:13.5px/1.5 ui-monospace,monospace;padding:12px 14px;resize:vertical"></textarea>
+      <div style="display:flex;gap:9px;margin-top:9px;flex-wrap:wrap">
+        <button id="st-run" style="font:inherit;font-weight:700;font-size:14px;background:var(--accent,#5b9df0);color:#fff;border:0;border-radius:10px;padding:12px 20px;cursor:pointer;min-height:46px">Run stress test</button>
+        <button id="st-share" style="display:none;font:inherit;font-weight:700;font-size:13px;background:var(--elev);color:var(--accent-2);border:1px solid var(--border);border-radius:10px;padding:12px 16px;cursor:pointer">Copy shareable result</button>
+      </div>
+      <div id="st-out" style="margin-top:14px"></div>
+      <p style="color:var(--faint);font-size:12px;margin-top:10px">This is a stress test, not a forecast.
+        Historical scenarios are simplified and may not repeat. Not financial advice.</p>
+    </section>
+
   </main>
 
 <style>
@@ -276,6 +298,64 @@ async function loadBubbleNews(){
       <div class="m">${it.src}${it.published?" · "+timeAgo(it.published):""}</div></div>`).join("");
 }
 load(); setInterval(load, 300000);
+</script>
+<script src="/stress-test.js?v=1"></script>
+<script>
+(function(){
+  const $=id=>document.getElementById(id);
+  let last=null;
+  const pretty=b=>(b||"").replace(/_/g," ").replace("ai ","AI ");
+  const BCOL={ai_semis:"#f0596e",ai_semis_equipment:"#f08a5a",ai_cloud:"#5b9df0",ai_data_centers:"#7cb0f5",
+    ai_power_energy:"#e0a73f",ai_software:"#c05af0",ai_cybersecurity:"#5af0c0",ai_robotics:"#f05aa8",
+    ai_etf_concentrated:"#9d5af0",ai_crypto:"#f0d05a",mega_cap_tech:"#69cd91",broad_market:"#22c55e",
+    high_duration_growth:"#f0596e",small_cap_speculative:"#b91c1c",defensive_or_cash:"#6b7684",unknown_asset:"#3a4556"};
+  $("st-run").onclick=()=>{
+    const r=SantroStress.run($("st-in").value);
+    if(r.error){ $("st-out").innerHTML=`<div style="color:#e0a73f;font-size:13px">${r.error} Try: NVDA 20%, SMH 15%, CASH 65%</div>`; return; }
+    last=r;
+    const col=r.risk_label==="extreme"?"#b91c1c":r.risk_label==="high"?"#f0596e":r.risk_label==="moderate"?"#e0a73f":"#22c55e";
+    const bar=Object.entries(r.bucket_weights).sort((a,b)=>b[1]-a[1]).map(([b,w])=>
+      `<i title="${pretty(b)} ${w}%" style="width:${w}%;background:${BCOL[b]||"#444"}"></i>`).join("");
+    const legend=Object.entries(r.bucket_weights).sort((a,b)=>b[1]-a[1]).slice(0,8).map(([b,w])=>
+      `<span style="font-size:11px;color:var(--muted)"><i style="display:inline-block;width:8px;height:8px;border-radius:2px;background:${BCOL[b]||"#444"};margin-right:4px"></i>${pretty(b)} ${w}%</span>`).join(" ");
+    const scen=r.scenario_results.map(s=>`
+      <div style="background:var(--panel);border:1px solid var(--border-soft);border-radius:12px;padding:13px 15px">
+        <b style="font-size:13.5px;color:var(--text)">${s.scenario_name}</b>
+        <div style="font-size:20px;font-weight:800;margin:5px 0;color:#f0596e">${s.estimated_portfolio_drawdown_range[1]}% <span style="font-size:12px;color:var(--faint);font-weight:600">to</span> ${s.estimated_portfolio_drawdown_range[0]}%</div>
+        <div style="font-size:11.5px;color:var(--muted);line-height:1.55">${s.interpretation}</div>
+      </div>`).join("");
+    const frag=r.fragility_map.filter(f=>f.risk_flag!=="ok").slice(0,8).map(f=>
+      `<span style="font-size:12px;background:var(--elev);border:1px solid var(--border-soft);border-radius:999px;padding:6px 11px;color:var(--muted)"><b style="color:var(--text)">${f.symbol}</b> ${f.weight_pct}% · ${pretty(f.risk_flag)}</span>`).join(" ");
+    $("st-out").innerHTML=`
+      <div style="background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:18px">
+        <div style="display:flex;gap:16px;align-items:baseline;flex-wrap:wrap">
+          <span style="font-size:34px;font-weight:800;color:${col}">${r.portfolio_risk_score}/100</span>
+          <span style="font-weight:800;color:${col};text-transform:uppercase;letter-spacing:.5px">${r.risk_label}</span>
+          <span style="font-size:12.5px;color:var(--muted)">AI exposure ${r.ai_exposure_pct}% · top-5 concentration ${r.concentration_score}%${r.unknown_weight_pct?` · unknown ${r.unknown_weight_pct}%`:""}</span>
+        </div>
+        <p style="font-size:13px;color:var(--muted);line-height:1.65;margin:10px 0 0">${r.plain_english_summary}</p>
+        ${r.assumptions.length?`<p style="font-size:11.5px;color:#e0a73f;margin:8px 0 0">Assumptions: ${r.assumptions.join(" ")}</p>`:""}
+        <div style="height:14px;border-radius:999px;overflow:hidden;display:flex;margin:14px 0 6px;background:var(--elev)">${bar}</div>
+        <div style="display:flex;gap:10px;flex-wrap:wrap">${legend}</div>
+      </div>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px;margin-top:12px">${scen}</div>
+      ${frag?`<div style="margin-top:12px"><b style="font-size:12px;text-transform:uppercase;letter-spacing:.6px;color:var(--faint)">Fragility flags</b><div style="display:flex;gap:7px;flex-wrap:wrap;margin-top:7px">${frag}</div></div>`:""}
+      <div style="margin-top:12px;font-size:12.5px;color:var(--muted)"><b style="color:var(--text)">Before trusting this:</b> ${r.what_to_verify.join(" · ")}</div>
+      <div style="margin-top:12px;font-size:12.5px"><a href="/signup" style="color:var(--accent-2);font-weight:700">Create a free account</a> <span style="color:var(--faint)">to build a watchlist and set alerts on your most fragile names (saved stress tests coming soon).</span></div>`;
+    $("st-share").style.display="inline-block";
+  };
+  $("st-share").onclick=async()=>{
+    if(!last) return;
+    const w=last.scenario_results.find(s=>/AI-specific/.test(s.scenario_name));
+    const themes=last.repeated_exposures.slice(0,3).map(t=>pretty(t.theme)).join(", ")||"diversified";
+    // privacy: score + ranges + themes only — never the holdings
+    const txt=`My AI bubble stress score: ${last.portfolio_risk_score}/100 (${last.risk_label}). `+
+      `AI-burst scenario range: ${w.estimated_portfolio_drawdown_range[1]}% to ${w.estimated_portfolio_drawdown_range[0]}%. `+
+      `Top exposure: ${themes}. Test yours at santroai.tech/bubble — not financial advice.`;
+    try{ await navigator.clipboard.writeText(txt); $("st-share").textContent="Copied ✓";
+      setTimeout(()=>$("st-share").textContent="Copy shareable result",1600);}catch(e){}
+  };
+})();
 </script>
 <script src="site.js?v=10"></script>
 </body>

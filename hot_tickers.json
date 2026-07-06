@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-06T21:01:20+00:00",
+  "as_of": "2026-07-06T21:16:19+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
-   "move_pct": 6.84,
-   "price": 553.25,
+   "move_pct": 6.94,
+   "price": 553.75,
    "volume": 29556990,
    "volume_vs_avg": "~0.9x",
    "heat_score": 44,
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "TSLA",
    "company": "Tesla Inc",
-   "move_pct": 6.53,
-   "price": 419.16,
+   "move_pct": 6.56,
+   "price": 419.25,
    "volume": 51648644,
    "volume_vs_avg": "~1.1x",
    "heat_score": 43,
@@ -43,8 +43,8 @@
    "rank": 3,
    "ticker": "VRT",
    "company": "Vertiv Holdings Co",
-   "move_pct": 6.16,
-   "price": 319.04,
+   "move_pct": 6.14,
+   "price": 318.99,
    "volume": 6415191,
    "volume_vs_avg": "~0.9x",
    "heat_score": 41,
@@ -54,22 +54,6 @@
    "source_url": "https://finance.yahoo.com/technology/ai/articles/vertiv-stock-saying-ai-factory-201551009.html",
    "published": "2026-07-06T20:15:51Z",
    "sector": "Data Center, Power & Energy"
-  },
-  {
-   "rank": 4,
-   "ticker": "MSFT",
-   "company": "Microsoft Corp",
-   "move_pct": -6.19,
-   "price": 366.31,
-   "volume": 32621401,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 40,
-   "direction": "down",
-   "why": "Microsoft Is Cutting 4,800 Jobs to Feed the AI Machine. Should You Still Own It?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/microsoft-cutting-4-800-jobs-195858792.html",
-   "published": "2026-07-06T19:58:58Z",
-   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-06T09:46:59+00:00",
+  "as_of": "2026-07-06T10:02:16+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "EQIX",
+   "company": "Equinix Inc",
+   "move_pct": 8.81,
+   "price": 1090.32,
+   "volume": 720100,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 61,
+   "direction": "up",
+   "why": "Barclays Raises its Price Target on Equinix (EQIX)",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/barclays-raises-price-target-equinix-094135225.html",
+   "published": "2026-07-06T09:41:35Z",
+   "sector": "Data Center, Power & Energy"
+  }
+ ]
 }

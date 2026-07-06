@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-06T22:44:47+00:00",
+  "as_of": "2026-07-06T22:57:45+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
-   "move_pct": 6.96,
-   "price": 553.85,
+   "move_pct": 6.54,
+   "price": 551.68,
    "volume": 29556990,
    "volume_vs_avg": "~0.9x",
-   "heat_score": 44,
+   "heat_score": 43,
    "direction": "up",
    "why": "AMD, TER Stocks Jump After Goldman Sachs Lifts Price Targets",
    "catalyst_type": "analyst_action",
@@ -25,26 +25,10 @@
   },
   {
    "rank": 2,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings Co",
-   "move_pct": 6.35,
-   "price": 319.61,
-   "volume": 6415191,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 42,
-   "direction": "up",
-   "why": "What Vertiv Stock Was Saying About The AI Factory Build-Out",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/vertiv-stock-saying-ai-factory-201551009.html",
-   "published": "2026-07-06T20:15:51Z",
-   "sector": "Data Center, Power & Energy"
-  },
-  {
-   "rank": 3,
    "ticker": "TSLA",
    "company": "Tesla Inc",
-   "move_pct": 6.24,
-   "price": 418.01,
+   "move_pct": 6.19,
+   "price": 417.82,
    "volume": 51648644,
    "volume_vs_avg": "~1.1x",
    "heat_score": 42,
@@ -56,20 +40,20 @@
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
-   "rank": 4,
-   "ticker": "OKTA",
-   "company": "Okta Inc",
-   "move_pct": 5.08,
-   "price": 148.6,
-   "volume": 2587571,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 36,
+   "rank": 3,
+   "ticker": "VRT",
+   "company": "Vertiv Holdings Co",
+   "move_pct": 6.05,
+   "price": 318.71,
+   "volume": 6415191,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 41,
    "direction": "up",
-   "why": "Why Okta (OKTA) Stock Is Trading Up Today",
+   "why": "What Vertiv Stock Was Saying About The AI Factory Build-Out",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-okta-okta-stock-trading-201201656.html",
-   "published": "2026-07-06T20:12:01Z",
-   "sector": "AI Software & Cloud Infrastructure"
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/vertiv-stock-saying-ai-factory-201551009.html",
+   "published": "2026-07-06T20:15:51Z",
+   "sector": "Data Center, Power & Energy"
   }
  ]
 }

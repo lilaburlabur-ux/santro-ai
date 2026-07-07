@@ -87,21 +87,28 @@ BADGE = {"live": '<em class="mn-b mn-b-live">Live</em>',
          "soon": '<em class="mn-b mn-b-soon">Coming soon</em>'}
 
 CSS = """
+/* santro brand tokens — green is the identity color; blue stays a muted
+   secondary for body links only. Do NOT let these drift back to blue. */
+header.meganav{--sg:#22c55e;--sg-hi:#4ade80;--sg-deep:#15803d;
+  --sg-soft:rgba(34,197,94,.12);--sg-border:rgba(34,197,94,.45);
+  --ramber:#d9a13c;--ramber-border:rgba(217,161,60,.45);}
 header.meganav{display:block;position:relative;z-index:60;background:var(--panel-2,#0c121a);border-bottom:1px solid var(--border,#1d2733);font-family:-apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif;text-align:left;}
 .meganav *{box-sizing:border-box;}
 .meganav .mn-in{max-width:1280px;margin:0 auto;padding:0 18px;display:flex;align-items:center;gap:18px;height:56px;}
 .meganav a{text-decoration:none;}
 .meganav .mn-logo{display:flex;align-items:center;gap:8px;flex:0 0 auto;}
-.meganav .mn-ls{font-weight:900;font-size:19px;letter-spacing:.5px;color:var(--text,#e7edf3);}
-.meganav .mn-ls span{color:var(--accent,#5b9df0);font-size:12px;vertical-align:top;}
-.meganav .mn-lr{display:flex;flex-direction:column;line-height:1.05;}
-.meganav .mn-lr b{font-weight:800;font-size:13px;letter-spacing:2.5px;color:var(--text,#e7edf3);}
-.meganav .mn-lr i{font-style:normal;font-size:7.5px;letter-spacing:1.6px;color:var(--faint,#5a6573);font-weight:700;}
-.meganav .mn-beta{font-style:normal;font-size:9px;font-weight:800;letter-spacing:.8px;color:var(--accent-2,#7cb0f5);border:1px solid var(--accent-border,#22436a);border-radius:5px;padding:2px 5px;margin-left:2px;}
+.meganav .mn-ls{font-weight:900;font-size:24px;line-height:.9;
+  background:linear-gradient(165deg,var(--sg-hi) 10%,var(--sg-deep) 90%);
+  -webkit-background-clip:text;background-clip:text;color:transparent;}
+html[data-theme="light"] .meganav .mn-ls{background:linear-gradient(165deg,#16a34a 10%,#14532d 90%);-webkit-background-clip:text;background-clip:text;}
+.meganav .mn-lr{display:flex;flex-direction:column;line-height:1.1;}
+.meganav .mn-lr b{font-weight:800;font-size:14.5px;letter-spacing:.02em;color:var(--text,#e7edf3);}
+.meganav .mn-lr i{font-style:normal;font-size:7.5px;letter-spacing:1.4px;color:var(--faint,#5a6573);font-weight:700;}
+.meganav .mn-beta{font-style:normal;font-size:9px;font-weight:800;letter-spacing:.8px;color:var(--ramber);border:1px solid var(--ramber-border);border-radius:5px;padding:2px 5px;margin-left:2px;}
 .meganav .mn-nav{display:flex;align-items:center;gap:2px;flex:1 1 auto;min-width:0;}
 .meganav .mn-top{appearance:none;background:none;border:0;font:inherit;cursor:pointer;padding:19px 11px;font-size:13.5px;font-weight:600;color:var(--muted,#8895a4);letter-spacing:.2px;border-bottom:2px solid transparent;white-space:nowrap;}
 .meganav .mn-item:hover>.mn-top,.meganav .mn-item.open>.mn-top{color:var(--text,#e7edf3);}
-.meganav .mn-item.on>.mn-top{color:var(--text,#e7edf3);border-bottom-color:var(--accent,#5b9df0);}
+.meganav .mn-item.on>.mn-top{color:var(--text,#e7edf3);border-bottom-color:var(--sg);}
 .meganav .mn-item{position:static;}
 .meganav .mn-panel{display:none;position:absolute;left:0;right:0;top:56px;background:var(--panel,#111822);border-bottom:1px solid var(--border,#1d2733);box-shadow:0 18px 40px rgba(0,0,0,.45);padding:20px 0 22px;}
 .meganav .mn-item.open>.mn-panel{display:block;}
@@ -140,10 +147,11 @@ html[data-theme="light"] .meganav .mn-theme .ic-sun{display:block;}
 html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 .meganav .mn-signin{font-size:13px;font-weight:700;color:var(--muted,#8895a4);padding:7px 4px;}
 .meganav .mn-signin:hover{color:var(--text,#e7edf3);}
-.meganav .mn-signup{font-size:13px;font-weight:700;color:var(--accent-2,#7cb0f5);background:var(--accent-soft,#12233a);border:1px solid var(--accent-border,#22436a);border-radius:9px;padding:7px 13px;white-space:nowrap;}
-.meganav .mn-signup:hover{background:var(--accent-border,#22436a);color:var(--text,#e7edf3);}
+.meganav .mn-signup{font-size:13px;font-weight:700;color:var(--sg);background:var(--sg-soft);border:1px solid var(--sg-border);border-radius:9px;padding:7px 13px;white-space:nowrap;}
+.meganav .mn-signup:hover{background:var(--sg);color:#04140b;}
 .meganav .mn-burger{appearance:none;background:none;border:1px solid var(--border,#1d2733);border-radius:9px;width:38px;height:36px;display:none;align-items:center;justify-content:center;cursor:pointer;color:var(--text,#e7edf3);}
-.meganav :is(a,button):focus-visible{outline:2px solid var(--accent,#5b9df0);outline-offset:2px;border-radius:6px;}
+.meganav :is(a,button):focus-visible{outline:2px solid var(--sg);outline-offset:2px;border-radius:6px;}
+.meganav .mn-search .box:focus-within{border-color:var(--sg-border);}
 /* drawer */
 .meganav .mn-drawer{display:none;position:fixed;inset:0;z-index:80;background:var(--bg,#0a0e13);overflow-y:auto;padding:0 16px 28px;}
 .meganav .mn-drawer.open{display:block;}
@@ -161,7 +169,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 .meganav .mnd-sec .mn-off{padding:9px 2px 9px 10px;font-size:14px;}
 .meganav .mnd-cta{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin:18px 0 10px;}
 .meganav .mnd-cta a{display:block;text-align:center;padding:12px 8px;border-radius:10px;font-size:14px;font-weight:700;}
-.meganav .mnd-cta .a1{background:var(--accent-soft,#12233a);border:1px solid var(--accent-border,#22436a);color:var(--accent-2,#7cb0f5);}
+.meganav .mnd-cta .a1{background:var(--sg-soft);border:1px solid var(--sg-border);color:var(--sg);}
 .meganav .mnd-cta .a2{border:1px solid var(--border,#1d2733);color:var(--text,#e7edf3);}
 .meganav .mnd-foot{font-size:11px;color:var(--faint,#5a6573);line-height:1.6;margin-top:6px;}
 @media(max-width:1280px){
@@ -254,8 +262,8 @@ def render_header(active, utils, is_terminal=False):
 </style>
 <div class="mn-in">
   <a class="mn-logo" href="/" aria-label="Santro AI — home">
-    <span class="mn-ls">S<span>AI</span></span>
-    <span class="mn-lr"><b>ANTRO</b><i>THE&nbsp;AI&nbsp;BUBBLE&nbsp;TERMINAL</i></span>
+    <span class="mn-ls">S</span>
+    <span class="mn-lr"><b>Santro&nbsp;AI</b><i>THE&nbsp;AI&nbsp;BUBBLE&nbsp;TERMINAL</i></span>
     <em class="mn-beta">Beta</em>
   </a>
   <nav class="mn-nav" aria-label="Main">
@@ -271,7 +279,7 @@ def render_header(active, utils, is_terminal=False):
 </div>
 <div class="mn-drawer" id="mn-drawer" role="dialog" aria-label="Menu" aria-modal="true">
   <div class="mnd-head">
-    <span class="mn-ls">S<span>AI</span></span>
+    <span class="mn-ls">S</span>
     <button class="mnd-close" type="button" aria-label="Close menu">✕</button>
   </div>
   <div class="mnd-quick">

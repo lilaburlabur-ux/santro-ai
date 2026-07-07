@@ -231,5 +231,5 @@ select.sa-input{cursor:pointer;}
 
 /* header Sign-up button (logged-out pair) */
 a.sa-authbtn.sa-signupbtn{margin-left:6px;text-decoration:none;display:inline-flex;align-items:center;
-  background:var(--accent-soft,rgba(91,157,240,.12));color:var(--accent-2,#7cb0f5);border-color:var(--accent-border,#2b4a75);}
+  background:rgba(34,197,94,.12);color:#22c55e;border-color:rgba(34,197,94,.45);}
 a.sa-authbtn.sa-signupbtn:hover{color:var(--text,#e6edf3);}

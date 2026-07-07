@@ -1,0 +1,25 @@
+/* Santro lock system — ONE padlock token, one blur treatment (contract
+   rules 3+6). Uses legacy var names so it renders correctly in both the
+   ds_v2 (remapped) and legacy-light themes. Values are variables only. */
+.ds-lock{display:inline-block;width:12px;height:12px;flex:0 0 auto;vertical-align:-1px;
+  background-color:var(--faint);
+  -webkit-mask:url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6 10V8a6 6 0 1 1 12 0v2h1a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V11a1 1 0 0 1 1-1h1zm2 0h8V8a4 4 0 1 0-8 0v2z"/></svg>') center/contain no-repeat;
+          mask:url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6 10V8a6 6 0 1 1 12 0v2h1a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V11a1 1 0 0 1 1-1h1zm2 0h8V8a4 4 0 1 0-8 0v2z"/></svg>') center/contain no-repeat;}
+.ds-blur{filter:blur(5px);user-select:none;pointer-events:none;}
+.ds-lockrow{cursor:pointer;}
+.ds-lockrow:hover .ds-locknote{color:var(--text);}
+.ds-locknote{display:inline-flex;align-items:center;gap:7px;font-size:12px;font-weight:600;color:var(--muted);}
+.ds-comp-chip{display:inline-block;font-size:10.5px;font-weight:700;letter-spacing:.04em;color:var(--faint);
+  border:1px solid var(--border);border-radius:999px;padding:3px 9px;}
+/* signup modal (registration-funnel.md: compact, contextual, never ambushes) */
+.ds-gate-scrim{position:fixed;inset:0;z-index:95;background:var(--bg);opacity:.78;}
+.ds-gate{position:fixed;z-index:96;left:50%;top:50%;transform:translate(-50%,-50%);
+  width:360px;max-width:calc(100vw - 32px);background:var(--panel);border:1px solid var(--border);
+  border-radius:14px;padding:22px;}
+.ds-gate h3{margin:0 0 8px;font-size:17px;color:var(--text);display:flex;align-items:center;gap:9px;}
+.ds-gate p{margin:0 0 14px;font-size:13px;line-height:1.55;color:var(--muted);}
+.ds-gate .ds-gate-cta{display:block;text-align:center;padding:12px;border-radius:10px;font-weight:700;
+  font-size:14px;background:var(--green);color:var(--bg);margin-bottom:8px;}
+.ds-gate .ds-gate-alt{display:block;text-align:center;padding:10px;border-radius:10px;font-weight:600;
+  font-size:13px;border:1px solid var(--border);color:var(--muted);}
+.ds-gate .ds-gate-foot{margin:12px 0 0;font-size:11px;color:var(--faint);text-align:center;}

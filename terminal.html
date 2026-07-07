@@ -524,6 +524,12 @@
 <link rel="stylesheet" href="/ds-v2/primitives.css?v=1">
 <link rel="stylesheet" href="/ds-v2/shell.css?v=1">
 <link rel="stylesheet" href="/ds-v2/remap.css?v=1">
+<link rel="stylesheet" href="/ds-v2/lock.css?v=1">
+<script src="/ds-v2/compliance.js?v=1" defer></script>
+<script src="/ds-v2/gates.js?v=1" defer></script>
+<script src="/ds-v2/lock-copy.js?v=1" defer></script>
+<script src="/ds-v2/events.js?v=1" defer></script>
+<script src="/ds-v2/locks.js?v=1" defer></script>
 <script src="/ds-v2/flags.js?v=3"></script>
 <header class="meganav" id="meganav">
 <style>
@@ -672,7 +678,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     <div class="mn-item on" data-menu="terminal">
       <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Terminal</button>
       <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">The main Santro market view across AI stocks, ETFs, crypto, hot tickers, and bubble-risk signals.</p><div class="mn-links">
-        <a class="mn-link" href="/terminal"><b>AI Terminal<em class="mn-b mn-b-live">Live</em></b><span>Bubble map, market tape, hot tickers, and the daily brief.</span></a>
+        <a class="mn-link" href="/terminal"><b>AI Terminal<em class="mn-b mn-b-live">Beta</em></b><span>Bubble map, market tape, hot tickers, and the daily brief.</span></a>
         <a class="mn-link" href="/stocks"><b>AI Stocks</b><span>84 AI names ranked by heat, research on every ticker.</span></a>
         <a class="mn-link" href="/crypto"><b>AI Crypto</b><span>AI tokens and rotating crypto baskets.</span></a>
         <a class="mn-link" href="/etfs"><b>AI ETFs</b><span>40 AI &amp; tech ETFs, broad tech to pure-play robotics.</span></a>
@@ -681,12 +687,12 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     </div><div class="mn-item" data-menu="tools">
       <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Tools</button>
       <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Every tool is free while Santro is in beta. Scenario outputs, not price targets.</p><div class="mn-links">
-        <a class="mn-link" href="/bubble"><b>AI Bubble Risk<em class="mn-b mn-b-live">Live</em></b><span>Valuation, momentum, and crowding signals in one gauge.</span></a>
-        <a class="mn-link" href="/bubble#stress"><b>Portfolio Stress Test<em class="mn-b mn-b-live">Live</em></b><span>Six historical crash scenarios against your portfolio.</span></a>
-        <a class="mn-link" href="/tools/fair-value-calculator"><b>Fair-Value Calculator<em class="mn-b mn-b-live">Live</em></b><span>DCF, P/E, Graham, and PEG scenario values for any AI ticker.</span></a>
-        <a class="mn-link" href="/quiz"><b>60-Second Bubble Check<em class="mn-b mn-b-live">Live</em></b><span>Eight questions to profile your AI-bubble exposure.</span></a>
-        <a class="mn-link" href="/share"><b>Share Cards<em class="mn-b mn-b-live">Live</em></b><span>Terminal-grade market cards you can post anywhere.</span></a>
-        <a class="mn-link" href="/evaluate-prompt"><b>Prompt Quality Check<em class="mn-b mn-b-live">Live</em></b><span>Score any AI trading prompt before you trust it.</span></a>
+        <a class="mn-link" href="/bubble"><b>AI Bubble Risk<em class="mn-b mn-b-live">Beta</em></b><span>Valuation, momentum, and crowding signals in one gauge.</span></a>
+        <a class="mn-link" href="/bubble#stress"><b>Portfolio Stress Test<em class="mn-b mn-b-live">Beta</em></b><span>Six historical crash scenarios against your portfolio.</span></a>
+        <a class="mn-link" href="/tools/fair-value-calculator"><b>Fair-Value Calculator<em class="mn-b mn-b-live">Beta</em></b><span>DCF, P/E, Graham, and PEG scenario values for any AI ticker.</span></a>
+        <a class="mn-link" href="/quiz"><b>Exposure Check<em class="mn-b mn-b-acct">Account</em></b><span>Calibrate your terminal — universe, concentration, valuation lens, risk watch.</span></a>
+        <a class="mn-link" href="/share"><b>Share Cards<em class="mn-b mn-b-live">Beta</em></b><span>Terminal-grade market cards you can post anywhere.</span></a>
+        <a class="mn-link" href="/evaluate-prompt"><b>Prompt Quality Check<em class="mn-b mn-b-live">Beta</em></b><span>Score any AI trading prompt before you trust it.</span></a>
         <a class="mn-link" href="/signup"><b>Watchlists &amp; Alerts<em class="mn-b mn-b-acct">Account</em></b><span>Track tickers and get level alerts with a free account.</span></a>
       </div></div></div>
     </div><div class="mn-item" data-menu="research">
@@ -769,18 +775,18 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     <a href="/crypto">AI Crypto</a><a href="/etfs">AI ETFs</a>
   </div>
   <details class="mnd-sec"><summary>Terminal</summary>
-      <a href="/terminal">AI Terminal<em class="mn-b mn-b-live">Live</em></a>
+      <a href="/terminal">AI Terminal<em class="mn-b mn-b-live">Beta</em></a>
         <a href="/stocks">AI Stocks</a>
         <a href="/crypto">AI Crypto</a>
         <a href="/etfs">AI ETFs</a>
         <a href="/news">Market News</a>
     </details><details class="mnd-sec"><summary>Tools</summary>
-      <a href="/bubble">AI Bubble Risk<em class="mn-b mn-b-live">Live</em></a>
-        <a href="/bubble#stress">Portfolio Stress Test<em class="mn-b mn-b-live">Live</em></a>
-        <a href="/tools/fair-value-calculator">Fair-Value Calculator<em class="mn-b mn-b-live">Live</em></a>
-        <a href="/quiz">60-Second Bubble Check<em class="mn-b mn-b-live">Live</em></a>
-        <a href="/share">Share Cards<em class="mn-b mn-b-live">Live</em></a>
-        <a href="/evaluate-prompt">Prompt Quality Check<em class="mn-b mn-b-live">Live</em></a>
+      <a href="/bubble">AI Bubble Risk<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/bubble#stress">Portfolio Stress Test<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/tools/fair-value-calculator">Fair-Value Calculator<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/quiz">Exposure Check<em class="mn-b mn-b-acct">Account</em></a>
+        <a href="/share">Share Cards<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/evaluate-prompt">Prompt Quality Check<em class="mn-b mn-b-live">Beta</em></a>
         <a href="/signup">Watchlists &amp; Alerts<em class="mn-b mn-b-acct">Account</em></a>
     </details><details class="mnd-sec"><summary>Research</summary>
       <a href="/research">Research Feed</a>
@@ -942,6 +948,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 <!-- mega-footer v1 -->
 <!-- mega-footer v1 -->
 <!-- mega-footer v1 -->
+<!-- mega-footer v1 -->
 <footer class="mega">
 <style>
 footer.mega{display:block;text-align:left;margin-top:48px;padding:0;border-top:1px solid var(--border,#1d2733);background:transparent;font-family:-apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
@@ -1028,7 +1035,7 @@ footer.mega{display:block;text-align:left;margin-top:48px;padding:0;border-top:1
       <h4>Tools</h4>
       <ul>
         <li><a href="/bubble#stress">Portfolio Stress Test</a></li>
-        <li><a href="/quiz">60-Second Bubble Check</a></li>
+        <li><a href="/quiz">Exposure Check</a></li>
         <li><a href="/share">Share Cards</a></li>
         <li><a href="/evaluate-prompt">Prompt Quality Check</a></li>
         <li><a href="/signup">Watchlists &amp; Alerts — free account</a></li>
@@ -1060,6 +1067,8 @@ footer.mega{display:block;text-align:left;margin-top:48px;padding:0;border-top:1
       <h4>Company</h4>
       <ul>
         <li><a href="/about">About Santro AI</a></li>
+        <li><a href="/about">Methodology</a></li>
+        <li><a href="/research">Data &amp; sources</a></li>
         <li><a href="mailto:hello@santroai.tech">Contact</a></li>
         <li><a href="/privacy">Privacy Policy</a></li>
         <li><a href="/terms">Terms of Use</a></li>

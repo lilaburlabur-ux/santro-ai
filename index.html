@@ -8,18 +8,18 @@
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-title" content="Santro AI" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-<title>Santro AI — AI Bubble Terminal For Stocks, ETFs &amp; Crypto</title>
+<title>Santro AI — The AI Bubble Terminal: Heat, Crowding &amp; Bubble Risk for AI Stocks, ETFs, Crypto</title>
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
 <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png" />
 <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png" />
 <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
 <link rel="manifest" href="/manifest.json" />
-<meta name="description" content="Take the AI bubble check, get your market profile, and track AI stocks, ETFs, AI crypto, hot tickers, fair-value tools, watchlists, alerts, and bubble-risk signals. Santro AI at santroai.tech — hot means attention, not direction. Quotes delayed ~15 min. Not financial advice." />
+<meta name="description" content="The AI bubble terminal — heat, crowding and bubble-risk signals across 84 AI stocks, 40 ETFs and AI crypto. Sourced reasons for every mover. Quotes delayed ~15 min. Not financial advice." />
 <link rel="canonical" href="https://santroai.tech/" />
 <meta property="og:site_name" content="Santro AI" />
 <meta property="og:title" content="Santro AI — The AI Bubble Terminal" />
-<meta property="og:description" content="Track AI stocks, ETFs, AI crypto, hot tickers, research, valuation tools, share cards, and bubble-risk signals." />
+<meta property="og:description" content="Heat, crowding and bubble-risk across the AI trade. Hot means attention, not direction." />
 <meta property="og:url" content="https://santroai.tech/" />
 <meta property="og:image" content="https://santroai.tech/assets/og-map.png" />
 <meta property="og:image:width" content="1200" />
@@ -587,6 +587,12 @@
 <link rel="stylesheet" href="/ds-v2/primitives.css?v=1">
 <link rel="stylesheet" href="/ds-v2/shell.css?v=1">
 <link rel="stylesheet" href="/ds-v2/remap.css?v=1">
+<link rel="stylesheet" href="/ds-v2/lock.css?v=1">
+<script src="/ds-v2/compliance.js?v=1" defer></script>
+<script src="/ds-v2/gates.js?v=1" defer></script>
+<script src="/ds-v2/lock-copy.js?v=1" defer></script>
+<script src="/ds-v2/events.js?v=1" defer></script>
+<script src="/ds-v2/locks.js?v=1" defer></script>
 <script src="/ds-v2/flags.js?v=3"></script>
 <header class="meganav" id="meganav">
 <style>
@@ -735,7 +741,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     <div class="mn-item" data-menu="terminal">
       <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Terminal</button>
       <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">The main Santro market view across AI stocks, ETFs, crypto, hot tickers, and bubble-risk signals.</p><div class="mn-links">
-        <a class="mn-link" href="/terminal"><b>AI Terminal<em class="mn-b mn-b-live">Live</em></b><span>Bubble map, market tape, hot tickers, and the daily brief.</span></a>
+        <a class="mn-link" href="/terminal"><b>AI Terminal<em class="mn-b mn-b-live">Beta</em></b><span>Bubble map, market tape, hot tickers, and the daily brief.</span></a>
         <a class="mn-link" href="/stocks"><b>AI Stocks</b><span>84 AI names ranked by heat, research on every ticker.</span></a>
         <a class="mn-link" href="/crypto"><b>AI Crypto</b><span>AI tokens and rotating crypto baskets.</span></a>
         <a class="mn-link" href="/etfs"><b>AI ETFs</b><span>40 AI &amp; tech ETFs, broad tech to pure-play robotics.</span></a>
@@ -744,12 +750,12 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     </div><div class="mn-item" data-menu="tools">
       <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Tools</button>
       <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Every tool is free while Santro is in beta. Scenario outputs, not price targets.</p><div class="mn-links">
-        <a class="mn-link" href="/bubble"><b>AI Bubble Risk<em class="mn-b mn-b-live">Live</em></b><span>Valuation, momentum, and crowding signals in one gauge.</span></a>
-        <a class="mn-link" href="/bubble#stress"><b>Portfolio Stress Test<em class="mn-b mn-b-live">Live</em></b><span>Six historical crash scenarios against your portfolio.</span></a>
-        <a class="mn-link" href="/tools/fair-value-calculator"><b>Fair-Value Calculator<em class="mn-b mn-b-live">Live</em></b><span>DCF, P/E, Graham, and PEG scenario values for any AI ticker.</span></a>
-        <a class="mn-link" href="/quiz"><b>60-Second Bubble Check<em class="mn-b mn-b-live">Live</em></b><span>Eight questions to profile your AI-bubble exposure.</span></a>
-        <a class="mn-link" href="/share"><b>Share Cards<em class="mn-b mn-b-live">Live</em></b><span>Terminal-grade market cards you can post anywhere.</span></a>
-        <a class="mn-link" href="/evaluate-prompt"><b>Prompt Quality Check<em class="mn-b mn-b-live">Live</em></b><span>Score any AI trading prompt before you trust it.</span></a>
+        <a class="mn-link" href="/bubble"><b>AI Bubble Risk<em class="mn-b mn-b-live">Beta</em></b><span>Valuation, momentum, and crowding signals in one gauge.</span></a>
+        <a class="mn-link" href="/bubble#stress"><b>Portfolio Stress Test<em class="mn-b mn-b-live">Beta</em></b><span>Six historical crash scenarios against your portfolio.</span></a>
+        <a class="mn-link" href="/tools/fair-value-calculator"><b>Fair-Value Calculator<em class="mn-b mn-b-live">Beta</em></b><span>DCF, P/E, Graham, and PEG scenario values for any AI ticker.</span></a>
+        <a class="mn-link" href="/quiz"><b>Exposure Check<em class="mn-b mn-b-acct">Account</em></b><span>Calibrate your terminal — universe, concentration, valuation lens, risk watch.</span></a>
+        <a class="mn-link" href="/share"><b>Share Cards<em class="mn-b mn-b-live">Beta</em></b><span>Terminal-grade market cards you can post anywhere.</span></a>
+        <a class="mn-link" href="/evaluate-prompt"><b>Prompt Quality Check<em class="mn-b mn-b-live">Beta</em></b><span>Score any AI trading prompt before you trust it.</span></a>
         <a class="mn-link" href="/signup"><b>Watchlists &amp; Alerts<em class="mn-b mn-b-acct">Account</em></b><span>Track tickers and get level alerts with a free account.</span></a>
       </div></div></div>
     </div><div class="mn-item" data-menu="research">
@@ -831,18 +837,18 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     <a href="/crypto">AI Crypto</a><a href="/etfs">AI ETFs</a>
   </div>
   <details class="mnd-sec"><summary>Terminal</summary>
-      <a href="/terminal">AI Terminal<em class="mn-b mn-b-live">Live</em></a>
+      <a href="/terminal">AI Terminal<em class="mn-b mn-b-live">Beta</em></a>
         <a href="/stocks">AI Stocks</a>
         <a href="/crypto">AI Crypto</a>
         <a href="/etfs">AI ETFs</a>
         <a href="/news">Market News</a>
     </details><details class="mnd-sec"><summary>Tools</summary>
-      <a href="/bubble">AI Bubble Risk<em class="mn-b mn-b-live">Live</em></a>
-        <a href="/bubble#stress">Portfolio Stress Test<em class="mn-b mn-b-live">Live</em></a>
-        <a href="/tools/fair-value-calculator">Fair-Value Calculator<em class="mn-b mn-b-live">Live</em></a>
-        <a href="/quiz">60-Second Bubble Check<em class="mn-b mn-b-live">Live</em></a>
-        <a href="/share">Share Cards<em class="mn-b mn-b-live">Live</em></a>
-        <a href="/evaluate-prompt">Prompt Quality Check<em class="mn-b mn-b-live">Live</em></a>
+      <a href="/bubble">AI Bubble Risk<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/bubble#stress">Portfolio Stress Test<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/tools/fair-value-calculator">Fair-Value Calculator<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/quiz">Exposure Check<em class="mn-b mn-b-acct">Account</em></a>
+        <a href="/share">Share Cards<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/evaluate-prompt">Prompt Quality Check<em class="mn-b mn-b-live">Beta</em></a>
         <a href="/signup">Watchlists &amp; Alerts<em class="mn-b mn-b-acct">Account</em></a>
     </details><details class="mnd-sec"><summary>Research</summary>
       <a href="/research">Research Feed</a>
@@ -885,94 +891,286 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 <script src="/nav.js?v=5" defer></script>
 </header>
 
-  <!-- ══ QUIZ-FIRST LANDING (guard: this must stay ABOVE the terminal/tape in DOM) ══ -->
-  <section class="land-hero" id="landing-hero">
-    <div class="lh-copy">
-      <h1>What kind of AI-market trader are you?</h1>
-      <p class="lh-sub">Take the <b>60-second AI bubble check</b> and get your Santro market profile.</p>
-      <p class="lh-support">See whether you chase heat, map infrastructure, watch valuation, or track bubble
-      risk before the narrative gets crowded.</p>
-      <p class="lh-brand"><b>Santro AI</b> is the AI bubble terminal at <b>santroai.tech</b> — AI stocks, AI ETFs,
-      AI crypto, hot tickers, fair-value calculator, watchlists, alerts, share cards, research and a bubble-risk
-      signal. <span class="lh-slogan">Hot means attention, not direction.</span></p>
-      <div class="lh-cta">
-        <a class="lh-btn primary" href="#quiz">Start the AI bubble check</a>
-        <a class="lh-btn" href="/terminal">Open terminal</a>
+<style>
+/* Route-1 rebuild (homepage-structure.md). Legacy var names -> themed by
+   remap under ds_v2 and by legacy palette in light. */
+.hp{max-width:1400px;margin:0 auto;padding:0 clamp(18px,2.5vw,40px);}
+.hp-tape{display:flex;gap:18px;align-items:center;flex-wrap:wrap;font-size:12.5px;color:var(--muted);
+  border-bottom:1px solid var(--border-soft);padding:9px clamp(18px,2.5vw,40px);font-variant-numeric:tabular-nums;}
+.hp-tape b{color:var(--text);} .hp-tape .up{color:var(--green);} .hp-tape .down{color:var(--red);}
+.hp-hero{display:grid;grid-template-columns:2fr 3fr;gap:clamp(26px,3vw,52px);padding:44px 0 30px;align-items:start;}
+.hp-hero h1{font-size:clamp(38px,3.2vw,54px);line-height:1.07;letter-spacing:-.5px;margin:0 0 14px;color:var(--text);}
+.hp-sub{font-size:16.5px;line-height:1.6;color:var(--muted);margin:0 0 18px;max-width:46ch;}
+.hp-cred{display:flex;flex-wrap:wrap;border:1px solid var(--border);border-radius:11px;overflow:hidden;width:fit-content;margin:0 0 20px;}
+.hp-cred span{padding:9px 16px;font-size:12px;color:var(--muted);border-right:1px solid var(--border);white-space:nowrap;font-variant-numeric:tabular-nums;}
+.hp-cred span:last-child{border-right:0;} .hp-cred b{color:var(--text);margin-right:4px;}
+.hp-ctas{display:flex;gap:10px;flex-wrap:wrap;margin:0 0 12px;}
+.hp-btn{display:inline-flex;align-items:center;min-height:48px;padding:0 22px;border-radius:11px;font-weight:700;font-size:14.5px;
+  background:var(--elev);color:var(--text);border:1px solid var(--border);}
+.hp-btn.primary{background:var(--green);color:var(--bg);border-color:var(--green);}
+.hp-trust{font-size:12px;color:var(--faint);}
+.hp-panel{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:16px 18px;}
+.hp-gauge{display:flex;gap:18px;align-items:center;margin-bottom:14px;}
+.hp-gauge .val{font-size:42px;font-weight:800;font-variant-numeric:tabular-nums;color:var(--text);line-height:1;}
+.hp-gauge .lbl{font-size:12px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;}
+.hp-gauge svg{flex:1;min-width:0;}
+.hp-klabel{font-size:10.5px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--faint);margin:0 0 8px;}
+.hp-hot{width:100%;border-collapse:collapse;font-size:13.5px;font-variant-numeric:tabular-nums;}
+.hp-hot td{padding:8px 8px;border-top:1px solid var(--border-soft);vertical-align:middle;}
+.hp-hot .tk{font-weight:800;color:var(--text);white-space:nowrap;}
+.hp-hot .why{color:var(--muted);font-size:12.5px;}
+.hp-heatbar{height:6px;border-radius:999px;background:var(--elev);overflow:hidden;min-width:64px;}
+.hp-heatbar i{display:block;height:100%;border-radius:999px;background:var(--amber,#e0a73f);}
+.hp-lockband{display:flex;align-items:center;gap:9px;padding:11px 8px 3px;}
+.hp-sec{padding:44px 0 8px;}
+.hp-sec h2{font-size:clamp(26px,2vw,34px);margin:0 0 8px;color:var(--text);}
+.hp-sec .k{display:block;font-size:11px;font-weight:800;letter-spacing:.16em;text-transform:uppercase;color:var(--faint);margin-bottom:9px;}
+.hp-sec .lead{color:var(--muted);max-width:70ch;margin:0 0 18px;line-height:1.6;}
+.hp-grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;}
+.hp-card{background:var(--panel);border:1px solid var(--border);border-radius:13px;padding:18px;}
+.hp-card h4{margin:0 0 6px;font-size:15px;color:var(--text);}
+.hp-card p{margin:0;font-size:13px;color:var(--muted);line-height:1.55;}
+.hp-themes{display:flex;gap:9px;flex-wrap:wrap;margin:14px 0;}
+.hp-theme{border:1px solid var(--border);border-radius:999px;padding:8px 14px;font-size:12.5px;font-weight:700;color:var(--text);
+  display:inline-flex;gap:8px;align-items:center;font-variant-numeric:tabular-nums;}
+.hp-scn{display:grid;grid-template-columns:2fr 3fr;gap:20px;align-items:start;}
+.hp-presets{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 14px;}
+.hp-preset{border:1px solid var(--border);background:var(--elev);border-radius:999px;padding:9px 15px;font-size:13px;font-weight:700;color:var(--muted);cursor:pointer;min-height:44px;}
+.hp-preset.on{border-color:var(--green);color:var(--green);}
+.hp-scnrow{display:flex;justify-content:space-between;gap:12px;padding:9px 2px;border-top:1px solid var(--border-soft);font-size:13.5px;font-variant-numeric:tabular-nums;}
+.hp-scnrow b{color:var(--text);font-weight:600;} .hp-scnrow .v{font-weight:800;color:var(--red);}
+.hp-band{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:26px;text-align:center;margin:48px 0 40px;}
+.hp-band p{margin:0 0 14px;color:var(--muted);font-size:14.5px;}
+.hp-stickycta{display:none;}
+@media(max-width:960px){
+  .hp-hero{grid-template-columns:1fr;padding-top:26px;}
+  .hp-grid3{grid-template-columns:1fr;}
+  .hp-scn{grid-template-columns:1fr;}
+  .hp-hot .why{display:none;}
+  .hp-stickycta{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:60;gap:8px;padding:10px 14px calc(10px + env(safe-area-inset-bottom));
+    background:var(--panel);border-top:1px solid var(--border);}
+  .hp-stickycta a{flex:1;text-align:center;}
+  body{padding-bottom:76px;}
+}
+</style>
+
+<div class="hp-tape" id="hp-tape">
+  <span>AI universe <b id="tp-uni">—</b></span>
+  <span>Hottest theme: <b id="tp-theme">—</b></span>
+  <span>Bubble Index <b id="tp-bi">—</b></span>
+  <span class="ds-comp-chip">Quotes delayed ~15 min</span>
+</div>
+
+<main class="hp">
+  <!-- 1 · hero: prove the product in 3 seconds -->
+  <section class="hp-hero" id="hero">
+    <div>
+      <h1>The AI trade is crowded. See&nbsp;where.</h1>
+      <p class="hp-sub">Santro measures attention, crowding and valuation pressure across 84 AI stocks,
+      40 ETFs and AI crypto — one terminal, updated through the day. Hot means attention, not direction.</p>
+      <div class="hp-cred"><span><b>84</b> tickers</span><span><b>7</b> themes</span><span><b>40</b> ETFs</span><span><b>6</b> stress scenarios</span></div>
+      <div class="hp-ctas">
+        <a class="hp-btn primary" href="/terminal">Open the terminal</a>
+        <a class="hp-btn" href="#bubble-index">See today's Bubble Index</a>
       </div>
-      <div class="lh-stats d-only" aria-hidden="true">
-      <span><b>84</b> AI tickers</span><span><b>7</b> themes</span>
-      <span><b>40</b> ETFs</span><span><b>6</b> crash scenarios</span>
-      <span><b>~15 min</b> delayed · honest</span>
+      <p class="hp-trust">Filing-verified research · Not financial advice</p>
     </div>
-    <p class="lh-micro">Already know what you want? <a href="/stocks">View AI stocks</a> ·
-      <a href="/etfs">AI ETFs</a> · <a href="/crypto">AI crypto</a> · <a href="/bubble">Bubble risk</a></p>
-    </div>
-    <div class="lh-visual" aria-hidden="true">
-      <div class="mockcard">
-        <span class="mc-tag">Santro market profile</span>
-        <div class="mc-name">Infrastructure Mapper</div>
-        <div class="mc-row"><span>Bubble-risk sensitivity</span><span class="mc-hi">High</span></div>
-        <div class="mc-bar"><i style="width:78%"></i></div>
-        <div class="mc-tools"><span>AI stocks</span><span>Bubble risk</span><span>Valuation calc</span></div>
-        <div class="mc-first">First move: check compute + power names</div>
-        <div class="mc-wm">santroai.tech · hot means attention, not direction</div>
+    <div class="hp-panel">
+      <p class="hp-klabel">AI Bubble Risk</p>
+      <div class="hp-gauge"><span class="val" id="hg-val">—</span>
+        <div><span class="lbl" id="hg-lbl">loading</span><div style="font-size:11px;color:var(--faint)">valuation · capital flows · adoption · sentiment · systemic risk</div></div>
+        <svg id="hg-spark" viewBox="0 0 120 34" width="120" height="34" aria-label="7-day trend"></svg></div>
+      <p class="hp-klabel">Hot AI tickers · sourced reasons</p>
+      <table class="hp-hot"><tbody id="hh-rows"><tr><td colspan="4" style="color:var(--faint)">Loading the heat table…</td></tr></tbody></table>
+      <div class="hp-lockband" data-lock="table" id="hh-lock" role="button" tabindex="0">
+        <span class="ds-lock"></span><span class="ds-locknote">Rows 6–25 — create a free account to see the full heat table.</span>
       </div>
     </div>
   </section>
 
-  <section class="land-quiz" id="quiz">
-    <div class="lq-head"><h2>Start your AI bubble check</h2>
-      <span class="lq-sup">7 quick reads of how you trade — no signup needed, no buy/sell signals.</span></div>
-    <div class="qbar" aria-hidden="true"><i id="qfill" style="width:0%"></i></div>
-    <div class="qstep" id="qstep">Question 1 of 8</div>
-    <div id="qmount"></div>
-  </section>
-
-  <section class="land-grid">
-    <h2>The AI trade is not one trade anymore</h2>
-    <p class="lg-sub">It moves through compute, power, cloud, software, ETFs, crypto, valuation and attention.
-    Which lens is yours?</p>
-    <div class="lg-cards">
-      <a class="lg-card" href="#quiz"><span class="lg-ic up">▲</span><b>Heat chaser</b><p>You see green candles first. Santro shows whether the move has a catalyst.</p></a>
-      <a class="lg-card" href="#quiz"><span class="lg-ic ok">≈</span><b>Valuation skeptic</b><p>You ask if the story is already priced in.</p></a>
-      <a class="lg-card" href="#quiz"><span class="lg-ic bl">▦</span><b>Infrastructure mapper</b><p>You follow chips, power, data centers and second-order AI names.</p></a>
-      <a class="lg-card m-hide" href="#quiz"><span class="lg-ic am">◔</span><b>Bubble-risk watcher</b><p>You care when the trade gets crowded.</p></a>
-      <a class="lg-card m-hide" href="#quiz"><span class="lg-ic dn">🔥</span><b>Narrative trader</b><p>You track attention before the headline becomes consensus.</p></a>
-      <a class="lg-card m-hide" href="#quiz"><span class="lg-ic bl">▣</span><b>Daily terminal user</b><p>You want one clean AI market check every day.</p></a>
+  <!-- 2 · Bubble Index preview -->
+  <section class="hp-sec" id="bubble-index">
+    <span class="k">The daily dial</span>
+    <h2>One dial for the whole AI trade.</h2>
+    <p class="lead">Valuation, momentum and crowding — weighted, published, updated daily.
+    Risk context, not a crash prediction.</p>
+    <div class="hp-scn">
+      <div class="hp-panel"><p class="hp-klabel">Today</p>
+        <div class="hp-gauge"><span class="val" id="bi-val">—</span>
+          <div><span class="lbl" id="bi-lbl"></span><div style="font-size:11px;color:var(--faint)" id="bi-delta"></div></div></div>
+        <a class="hp-btn" data-lock="alert" href="/bubble" style="min-height:42px">Track the index</a></div>
+      <div class="hp-panel"><p class="hp-klabel">30-day history</p>
+        <svg id="bi-hist" viewBox="0 0 560 120" width="100%" height="120"></svg>
+        <div class="hp-lockband" data-lock="table"><span class="ds-lock"></span>
+          <span class="ds-locknote">History beyond 30 days is available on a free account.</span></div>
+        <p style="font-size:11.5px;color:var(--faint);margin:8px 0 0">Components: <span id="bi-comp">valuation · capital flows · adoption · sentiment · systemic risk</span>
+        · <a href="/bubble" style="font-weight:600">methodology</a></p></div>
     </div>
   </section>
 
-  <section class="land-why">
-    <h2>Because AI market heat is not the same as direction</h2>
-    <p class="lg-sub">A ticker can be hot because of real earnings, sector sympathy, liquidity, social attention —
-    or no clear catalyst at all. Santro separates movement from explanation so you can research faster.</p>
-    <div class="lw-flow"><span>move</span><i>→</i><span>catalyst</span><i>→</i><span>crowding</span><i>→</i><span>valuation</span><i>→</i><span>verification</span></div>
+  <!-- 4 · universe map preview -->
+  <section class="hp-sec" id="universe">
+    <span class="k">The map</span>
+    <h2>The AI trade is not one trade anymore.</h2>
+    <p class="lead">It moves through compute, power, cloud, software, ETFs and crypto.
+    84 bubbles, sized by cap, colored by heat — the whole map is free to explore.</p>
+    <div class="hp-themes" id="hp-themes"></div>
+    <a class="hp-btn" href="/terminal">Explore the full map</a>
   </section>
 
-  <section class="land-loop">
-    <h2>Your daily AI market loop</h2>
-    <div class="ll-cards">
-      <span class="ll-c"><b>1</b>See what moved</span>
-      <span class="ll-c"><b>2</b>Check why it may have moved</span>
-      <span class="ll-c"><b>3</b>Measure bubble risk</span>
-      <span class="ll-c"><b>4</b>Run a fair-value check</span>
-      <span class="ll-c"><b>5</b>Save a watchlist · get alerts</span>
+  <!-- 5 · portfolio stress hook (Concept C embedded) -->
+  <section class="hp-sec" id="stress-hook">
+    <span class="k">Skin in the game</span>
+    <h2>If the AI trade cracks, what happens to your portfolio?</h2>
+    <p class="lead">Six historical scenarios. Hypothetical, not a forecast. Quotes delayed ~15 min.</p>
+    <div class="hp-scn">
+      <div>
+        <div class="hp-presets" id="hp-presets">
+          <button class="hp-preset on" data-p="NVDA 25, MSFT 20, GOOGL 15, META 15, AAPL 15, AMZN 10">Mag-7 heavy</button>
+          <button class="hp-preset" data-p="SMH 30, AIQ 25, BOTZ 15, QQQ 20, CASH 10">AI ETF core</button>
+          <button class="hp-preset" data-p="BTC 25, ETH 15, TAO 15, FET 10, NVDA 20, CASH 15">AI crypto tilt</button>
+        </div>
+        <a class="hp-btn primary" data-lock="stress" href="/bubble#stress">Run it on your portfolio — free account</a>
+      </div>
+      <div class="hp-panel">
+        <p class="hp-klabel" id="hs-title">Scenario 1 · Dot-com style AI de-rating</p>
+        <div class="hp-gauge"><span class="val" id="hs-val" style="color:var(--red)">—</span>
+          <div style="font-size:12px;color:var(--muted)">modeled drawdown range<br>on the selected sample portfolio</div></div>
+        <div id="hs-locked"></div>
+        <div class="hp-lockband" data-lock="stress"><span class="ds-lock"></span>
+          <span class="ds-locknote">Scenario 1 shown. Unlock all six with a free account.</span></div>
+      </div>
     </div>
-    <p class="lg-sub">The quiz tells Santro what kind of market workflow fits you. The terminal gives you the
-    tools to repeat it — watchlists, price alerts, saved valuations. <b>iOS app coming soon.</b></p>
   </section>
 
-  <section class="land-term" id="terminal">
-    <h2>Then open the terminal</h2>
-    <p class="lg-sub">The full AI bubble terminal — AI stocks, ETFs, crypto, hot tickers, share cards and
-    bubble-risk signals on one screen. Quotes delayed ~15 min. Not financial advice.</p>
-    <div class="lh-cta" style="margin-top:4px">
-      <a class="lh-btn primary" href="/terminal">Open the terminal</a>
-      <a class="lh-btn" href="/stocks">View AI stocks</a>
-      <a class="lh-btn" href="/signup">Create a free account</a>
+  <!-- 6 · watchlist & alerts -->
+  <section class="hp-sec" id="workflow">
+    <span class="k">Your workflow</span>
+    <h2>Your AI universe, watched.</h2>
+    <div class="hp-grid3">
+      <div class="hp-card"><h4>Watchlist</h4><p>Save up to 30 tickers. Your list opens with the terminal, sorted by heat.</p></div>
+      <div class="hp-card"><h4>Alerts</h4><p>Level and heat alerts on any ticker or the Bubble Index itself.</p></div>
+      <div class="hp-card"><h4>Daily brief</h4><p>Email brief — coming soon, opt-in. We'd rather ship it late than broken.</p></div>
+    </div>
+    <p style="margin:16px 0 0"><a class="hp-btn" data-lock="watch" href="/signup">Create a free account</a></p>
+  </section>
+
+  <!-- 7 · research credibility -->
+  <section class="hp-sec" id="research">
+    <span class="k">Filing-verified</span>
+    <h2>Tweets are leads. Filings are sources.</h2>
+    <div class="hp-grid3">
+      <a class="hp-card" href="/stocks/burry-short-watch"><h4>Burry Short Watch</h4><p>Disclosed AI puts, position by position — SEC-verified, never guessed.</p></a>
+      <a class="hp-card" href="/stocks/aschenbrenner"><h4>Aschenbrenner Basket</h4><p>Situational Awareness LP's 13F, tracked quarter by quarter.</p></a>
+      <a class="hp-card" href="/ipos"><h4>IPO Watch</h4><p>Ten AI filings on EDGAR watch — Anthropic to SK hynix.</p></a>
+    </div>
+    <p style="margin:14px 0 0;font-size:13px;color:var(--muted)">Latest research note: <b id="rs-note" style="color:var(--text)">—</b>
+      <span class="ds-locknote" data-lock="alert" style="margin-left:10px"><span class="ds-lock"></span> Get filing-change alerts — free account.</span></p>
+  </section>
+
+  <!-- 8 · share cards -->
+  <section class="hp-sec" id="cards">
+    <span class="k">Distribution</span>
+    <h2>Terminal-grade market cards.</h2>
+    <p class="lead">Post the day's heat, your stress result, or the Bubble Index — sourced and timestamped.</p>
+    <div class="hp-grid3">
+      <div class="hp-card"><p class="hp-klabel">Bubble Index card</p><div class="hp-gauge"><span class="val" id="sc-bi">—</span><span class="lbl">today</span></div><p style="font-size:11px;color:var(--faint)">santroai.tech · watermark on preview</p></div>
+      <div class="hp-card"><p class="hp-klabel">Heat leader card</p><div class="hp-gauge"><span class="val" id="sc-hot" style="font-size:30px">—</span></div><p style="font-size:11px;color:var(--faint)">sourced reason included</p></div>
+      <div class="hp-card"><h4>Make your own</h4><p>Stress-test result cards in three formats.</p>
+        <p style="margin:10px 0 0"><a class="hp-btn" href="/share" style="min-height:42px">Make a card</a></p></div>
     </div>
   </section>
-  <!-- mega-footer v1 -->
+
+  <!-- 9 · registration band -->
+  <div class="hp-band">
+    <p><b style="color:var(--text)">Free account:</b> full tables, watchlists, alerts, saved stress tests.<br>
+    Pro later: faster refresh and deeper history — when it's ready, not before.</p>
+    <a class="hp-btn primary" href="/signup">Create free account</a>
+  </div>
+</main>
+
+<div class="hp-stickycta"><a class="hp-btn primary" href="/terminal">Open the terminal</a><a class="hp-btn" href="#bubble-index">Bubble Index</a></div>
+
+<script src="/stress-test.js?v=9"></script>
+<script>
+(function(){
+"use strict";
+function $(id){return document.getElementById(id);}
+function pct(x){return (x>=0?"+":"")+Number(x).toFixed(2)+"%";}
+function pretty(x){return String(x).replace(/_/g," ").replace(/\b[a-z]/g,function(c){return c.toUpperCase();}).replace(/\bAi\b/g,"AI").replace(/\bAnd\b/g,"&");}
+function spark(el,vals,color){if(!vals||vals.length<2)return;const w=el.viewBox.baseVal.width,h=el.viewBox.baseVal.height;
+  const mn=Math.min.apply(null,vals),mx=Math.max.apply(null,vals),sp=(mx-mn)||1;
+  const pts=vals.map((v,i)=>((i/(vals.length-1))*w).toFixed(1)+","+((h-4)-((v-mn)/sp)*(h-8)).toFixed(1)).join(" ");
+  el.innerHTML='<polyline fill="none" stroke="'+color+'" stroke-width="2" points="'+pts+'"/>';}
+// bubble index
+fetch("/bubble_index.json?t="+Date.now()).then(r=>r.json()).then(d=>{
+  const v=Math.round(d.index?d.index.overall:d.value);
+  const lbl=(d.index&&d.index.label)||d.label||"";
+  const hist=(d.history||[]).map(x=>x.v!=null?x.v:(x.value!=null?x.value:x)).slice(-30);
+  const col=v>=85?"var(--red)":v>=70?"var(--amber,#e0a73f)":"var(--green)";
+  ["hg-val","bi-val","sc-bi","tp-bi"].forEach(id=>{if($(id))$(id).textContent=v;});
+  $("hg-lbl").textContent=lbl;$("hg-lbl").style.color=col;$("bi-lbl").textContent=lbl;$("bi-lbl").style.color=col;
+  if(hist.length>1){const d7=v-hist[Math.max(0,hist.length-8)];$("bi-delta").textContent=(d7>=0?"+":"")+Math.round(d7)+" over 7 days";
+    $("tp-bi").textContent=v+" ("+(d7>=0?"+":"")+Math.round(d7)+" d/d7)";}
+  spark($("hg-spark"),hist.slice(-7),"currentColor");$("hg-spark").style.color=col;
+  spark($("bi-hist"),hist,"currentColor");$("bi-hist").style.color=col;
+}).catch(()=>{ var m=$("bubble-index"); if(m) m.hidden=true; });
+// hot tickers: top-5 open, 6-10 real symbols blurred
+Promise.all([
+ fetch("/hot_tickers.json?t="+Date.now()).then(r=>r.json()).catch(()=>null),
+ fetch("/universe.json?t="+Date.now()).then(r=>r.json())
+]).then(function(res){
+  const hot=(res[0]&&(res[0].hot_tickers||res[0].items))||[]; const uni=res[1];
+  let rows=hot.slice(0,5).map(h=>({tk:h.ticker,heat:h.heat_score||0,why:(h.why||"").split(/[.—]/)[0].slice(0,90),move:h.move_pct!=null?h.move_pct:h.change_pct}));
+  const all=[];uni.bubbles.forEach(b=>b.tickers.forEach(t=>all.push(t)));
+  all.sort((a,b)=>Math.abs(b.change_pct||0)-Math.abs(a.change_pct||0));
+  for(const t of all){ if(rows.length>=5) break; if(!rows.some(r=>r.tk===t.ticker))
+    rows.push({tk:t.ticker,heat:Math.min(99,Math.round(Math.abs(t.change_pct||0)*12)),why:"biggest move in "+(t.industry||"the universe"),move:t.change_pct}); }
+  const locked=all.filter(t=>!rows.some(r=>r.tk===t.ticker)).slice(0,5);
+  $("hh-rows").innerHTML=rows.map((r,i)=>'<tr><td style="color:var(--faint)">'+(i+1)+'</td><td class="tk"><a href="/t?sym='+r.tk+'">'+r.tk+'</a></td>'+
+    '<td><div class="hp-heatbar"><i style="width:'+Math.min(100,r.heat)+'%"></i></div></td>'+
+    '<td class="why">'+r.why+'</td></tr>').join("")+
+   locked.map((t,i)=>'<tr class="ds-lockrow" data-lock="table"><td style="color:var(--faint)">'+(i+6)+'</td><td class="tk">'+t.ticker+'</td>'+
+    '<td><div class="hp-heatbar ds-blur"><i style="width:'+(40+i*9)+'%"></i></div></td>'+
+    '<td class="why ds-blur">crowding and theme rotation continue</td></tr>').join("");
+  // tape + themes + share teaser
+  let cap=0,mv=0;uni.bubbles.forEach(b=>b.tickers.forEach(t=>{const c=t.market_cap_b||0;cap+=c;mv+=c*(t.change_pct||0);}));
+  const um=cap?mv/cap:0;$("tp-uni").textContent=pct(um);$("tp-uni").className=um>=0?"up":"down";
+  const themes=uni.bubbles.map(b=>{let c=0,m=0;b.tickers.forEach(t=>{const cc=t.market_cap_b||0;c+=cc;m+=cc*(t.change_pct||0);});
+    return {name:pretty(b.name||b.id),move:c?m/c:0};}).sort((a,b)=>b.move-a.move);
+  $("tp-theme").textContent=themes[0].name;
+  $("hp-themes").innerHTML=themes.map(t=>'<span class="hp-theme">'+t.name+' <b class="'+(t.move>=0?"up":"down")+'" style="color:var(--'+(t.move>=0?"green":"red")+')">'+pct(t.move)+"</b></span>").join("");
+  if(rows[0]) $("sc-hot").textContent=rows[0].tk+" · "+Math.round(rows[0].heat);
+});
+// research note
+fetch("/research/research.json?t="+Date.now()).then(r=>r.json()).then(d=>{
+  const ks=Object.keys(d.stocks||{});
+  if(ks.length&&$("rs-note")){const st=d.stocks[ks[0]];
+    $("rs-note").textContent=ks[0]+" — "+((st.thesis||"").slice(0,70))+" · signed "+d.signed;}
+}).catch(()=>{});
+// stress presets: scenario 1 real, 2-6 locked (names + blurred values)
+function runPreset(p){
+  if(!window.SantroStress)return;
+  const r=window.SantroStress.run(p); if(r.error)return;
+  const sc=r.scenario_results;
+  const s1=sc.find(s=>/dot-com/i.test(s.scenario_name))||sc[0];
+  $("hs-title").textContent="Scenario 1 · "+s1.scenario_name;
+  $("hs-val").textContent=Math.round((s1.estimated_portfolio_drawdown_range[0]+s1.estimated_portfolio_drawdown_range[1])/2)+"%";
+  $("hs-locked").innerHTML=sc.filter(s=>s!==s1).slice(0,5).map(s=>
+    '<div class="hp-scnrow"><b>'+s.scenario_name+'</b><span class="v ds-blur">'+s.estimated_portfolio_drawdown_range[1]+'%</span></div>').join("");
+}
+document.querySelectorAll(".hp-preset").forEach(b=>b.addEventListener("click",function(){
+  document.querySelectorAll(".hp-preset").forEach(x=>x.classList.remove("on"));
+  b.classList.add("on");runPreset(b.dataset.p);
+  if(window.SantroEvents)SantroEvents.track("stress_preset",{p:b.textContent});
+}));
+var boot=setInterval(function(){if(window.SantroStress){clearInterval(boot);runPreset(document.querySelector(".hp-preset.on").dataset.p);}},150);
+})();
+</script>
+<noscript><p style="padding:20px;color:var(--muted)">Santro AI — the AI bubble terminal. Data modules need JavaScript; the <a href="/terminal">terminal</a>, <a href="/stocks">stocks</a>, <a href="/bubble">bubble risk</a> and <a href="/blog">research</a> pages carry full crawlable content. Quotes delayed ~15 min. Not financial advice.</p></noscript>
+
+<!-- mega-footer v1 -->
+<!-- mega-footer v1 -->
 <!-- mega-footer v1 -->
 <!-- mega-footer v1 -->
 <!-- mega-footer v1 -->
@@ -1069,7 +1267,7 @@ footer.mega{display:block;text-align:left;margin-top:48px;padding:0;border-top:1
       <h4>Tools</h4>
       <ul>
         <li><a href="/bubble#stress">Portfolio Stress Test</a></li>
-        <li><a href="/quiz">60-Second Bubble Check</a></li>
+        <li><a href="/quiz">Exposure Check</a></li>
         <li><a href="/share">Share Cards</a></li>
         <li><a href="/evaluate-prompt">Prompt Quality Check</a></li>
         <li><a href="/signup">Watchlists &amp; Alerts — free account</a></li>
@@ -1101,6 +1299,8 @@ footer.mega{display:block;text-align:left;margin-top:48px;padding:0;border-top:1
       <h4>Company</h4>
       <ul>
         <li><a href="/about">About Santro AI</a></li>
+        <li><a href="/about">Methodology</a></li>
+        <li><a href="/research">Data &amp; sources</a></li>
         <li><a href="mailto:hello@santroai.tech">Contact</a></li>
         <li><a href="/privacy">Privacy Policy</a></li>
         <li><a href="/terms">Terms of Use</a></li>
@@ -1124,7 +1324,6 @@ h.addEventListener("click",t);h.addEventListener("keydown",function(e){if(e.key=
 arm();mq.addEventListener?mq.addEventListener("change",arm):mq.addListener(arm);})();</script>
 </footer>
 
-<script src="/quiz.js?v=1"></script>
 <script>if(window.SantroQuiz) SantroQuiz.mount({mount:"qmount",fill:"qfill",step:"qstep"});</script>
 <!-- Gated fair-value calculator + user accounts (extends the terminal) -->
 <script src="accounts/config.js?v=3"></script>

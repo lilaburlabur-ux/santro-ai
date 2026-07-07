@@ -169,14 +169,18 @@ def main():
         for f in fails: print("  ✗", f)
         sys.exit(1)
     
-# ── landing/terminal split guard: / is quiz-only, /terminal holds the product ──
+# ── landing guard v2 (rebuild contract): / is DATA-FIRST, quiz lives behind
+#    the /quiz gate; /terminal holds the full product ──
 _idx = open("index.html", encoding="utf-8").read()
 _term = open("terminal.html", encoding="utf-8").read()
+import re as _re
 _checks = [
-    ("landing hero present", 'id="landing-hero"' in _idx),
-    ("landing has NO market tape", 'class="topstrip"' not in _idx),
-    ("landing has NO terminal grid", 'class="grid"' not in _idx),
+    ("data-first hero present", 'class="hp-hero"' in _idx),
+    ("landing has ZERO quiz language", not _re.search(r"what kind of|question 1 of|persona", _idx, _re.I)),
+    ("landing does not load quiz.js", "/quiz.js" not in _idx),
     ("landing links the terminal", 'href="/terminal"' in _idx),
+    ("landing carries the delayed chip", "Quotes delayed ~15 min" in _idx),
+    ("locks use the copy map (no freestyle)", "create a free account to see the full heat table" in _idx),
     ("exactly one h1 on landing", _idx.count("<h1") == 1),
     ("terminal page has the tape", 'class="topstrip"' in _term),
     ("terminal page has the grid", 'class="grid"' in _term),

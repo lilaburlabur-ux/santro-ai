@@ -33,7 +33,7 @@ NAV = [
          ("AI Bubble Risk", "/bubble", "Valuation, momentum, and crowding signals in one gauge.", "live"),
          ("Portfolio Stress Test", "/bubble#stress", "Six historical crash scenarios against your portfolio.", "live"),
          ("Fair-Value Calculator", "/tools/fair-value-calculator", "DCF, P/E, Graham, and PEG scenario values for any AI ticker.", "live"),
-         ("60-Second Bubble Check", "/quiz", "Eight questions to profile your AI-bubble exposure.", "live"),
+         ("Exposure Check", "/quiz", "Calibrate your terminal — universe, concentration, valuation lens, risk watch.", "account"),
          ("Share Cards", "/share", "Terminal-grade market cards you can post anywhere.", "live"),
          ("Prompt Quality Check", "/evaluate-prompt", "Score any AI trading prompt before you trust it.", "live"),
          ("Watchlists & Alerts", "/signup", "Track tickers and get level alerts with a free account.", "account"),
@@ -82,7 +82,7 @@ NAV = [
        ]),
 ]
 
-BADGE = {"live": '<em class="mn-b mn-b-live">Live</em>',
+BADGE = {"live": '<em class="mn-b mn-b-live">Beta</em>',
          "account": '<em class="mn-b mn-b-acct">Account</em>',
          "soon": '<em class="mn-b mn-b-soon">Coming soon</em>'}
 
@@ -287,6 +287,12 @@ def render_header(active, utils, is_terminal=False):
 <link rel="stylesheet" href="/ds-v2/primitives.css?v=1">
 <link rel="stylesheet" href="/ds-v2/shell.css?v=1">
 <link rel="stylesheet" href="/ds-v2/remap.css?v=1">
+<link rel="stylesheet" href="/ds-v2/lock.css?v=1">
+<script src="/ds-v2/compliance.js?v=1" defer></script>
+<script src="/ds-v2/gates.js?v=1" defer></script>
+<script src="/ds-v2/lock-copy.js?v=1" defer></script>
+<script src="/ds-v2/events.js?v=1" defer></script>
+<script src="/ds-v2/locks.js?v=1" defer></script>
 <script src="/ds-v2/flags.js?v=3"></script>
 <header class="meganav" id="meganav">
 <style>

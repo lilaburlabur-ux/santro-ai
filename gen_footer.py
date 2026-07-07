@@ -100,7 +100,7 @@ FOOTER = """<!-- mega-footer v1 -->
       <h4>Tools</h4>
       <ul>
         <li><a href="/bubble#stress">Portfolio Stress Test</a></li>
-        <li><a href="/quiz">60-Second Bubble Check</a></li>
+        <li><a href="/quiz">Exposure Check</a></li>
         <li><a href="/share">Share Cards</a></li>
         <li><a href="/evaluate-prompt">Prompt Quality Check</a></li>
         <li><a href="/signup">Watchlists &amp; Alerts — free account</a></li>
@@ -132,6 +132,8 @@ FOOTER = """<!-- mega-footer v1 -->
       <h4>Company</h4>
       <ul>
         <li><a href="/about">About Santro AI</a></li>
+        <li><a href="/about">Methodology</a></li>
+        <li><a href="/research">Data &amp; sources</a></li>
         <li><a href="mailto:hello@santroai.tech">Contact</a></li>
         <li><a href="/privacy">Privacy Policy</a></li>
         <li><a href="/terms">Terms of Use</a></li>

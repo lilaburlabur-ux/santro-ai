@@ -91,7 +91,7 @@ function page(e){
  {"@type":"ListItem","position":2,"name":"AI ETFs","item":"https://santroai.tech/etfs"},
  {"@type":"ListItem","position":3,"name":"${esc(e.t)}","item":"https://santroai.tech/etfs/${e.t.toLowerCase()}"}]}
 </script>
-<link rel="stylesheet" href="/site.css?v=9"/>
+<link rel="stylesheet" href="/site.css?v=12"/>
 ${CSS}
 </head><body>
 ${HEADER}

@@ -1,953 +1,16 @@
 {
   "base": "https://santroai.tech",
   "checked": 175,
-  "passed": 0,
-  "failed": 175,
-  "at": "2026-07-07T21:22:23.805Z",
+  "passed": 135,
+  "failed": 40,
+  "at": "2026-07-07T21:24:58.238Z",
   "fails": [
-    {
-      "path": "/",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/terminal",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/crypto",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/etfs",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/bubble",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/ipos",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/news",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/research",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/blog",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/quiz",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/evaluate-prompt",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/share",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/about",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/privacy",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/terms",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/blog/ai-bubble-valuation-history",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/blog/ai-junk-bonds",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/blog/ai-trading-prompt-engineering",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/blog/spacex-attention-ai-infrastructure",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/aapl",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/adbe",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/aes",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/ai",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/amat",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/amba",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/amd",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/amzn",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/anet",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/apld",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/app",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/arm",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/aschenbrenner",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/asml",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/asts",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/avav",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/avgo",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/baba",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/bbai",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/bidu",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/burry-short-watch",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/burry",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/ceva",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/cgnx",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/chkp",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/corz",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/crm",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/crnc",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/crwd",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/csco",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/d",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/ddog",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/dell",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/dlr",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/dv",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/eqix",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/ftnt",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/googl",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/hon",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/hpe",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/ibm",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/inod",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/intc",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/intu",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/isrg",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/kioxia",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/klac",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/lrcx",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/lscc",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/mdb",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/meta",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/mgni",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/mrvl",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/msft",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/mu",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/nanya",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/net",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/now",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/nvda",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/nxpi",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/oklo",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/okta",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/orcl",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/panw",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/path",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/pins",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/pl",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/pltr",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/pubm",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/pwr",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/qcom",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/rklb",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/rok",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/rxrx",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/s",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/samsung",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/sap",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/sk-hynix",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/smci",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/smr",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/snap",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/snow",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/soun",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/spcx",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/sym",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/syna",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/ter",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/tln",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/tsla",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/tsm",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/ttd",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/upst",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/vrt",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/wday",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/winbond",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/zbra",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/zs",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
     {
       "path": "/etfs/agix",
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -955,8 +18,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -964,8 +26,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -973,8 +34,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -982,8 +42,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -991,8 +50,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1000,8 +58,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1009,8 +66,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1018,8 +74,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1027,8 +82,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1036,8 +90,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1045,8 +98,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1054,8 +106,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1063,8 +114,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1072,8 +122,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1081,8 +130,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1090,8 +138,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1099,8 +146,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1108,8 +154,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1117,8 +162,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1126,8 +170,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1135,8 +178,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1144,8 +186,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1153,8 +194,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1162,8 +202,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1171,8 +210,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1180,8 +218,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1189,8 +226,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1198,8 +234,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1207,8 +242,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1216,8 +250,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1225,8 +258,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1234,8 +266,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1243,8 +274,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1252,8 +282,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1261,8 +290,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1270,8 +298,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1279,8 +306,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1288,8 +314,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     },
     {
@@ -1297,152 +322,7 @@
       "status": 200,
       "ok": false,
       "problems": [
-        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/",
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/themes/ai-applications-and-data-software",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/themes/ai-chips-and-compute",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/themes/ai-platforms-internet-and-adtech",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/themes/ai-software-and-cloud-infrastructure",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/themes/applied-ai-industrial-defense-and-vertical",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/themes/chip-equipment-and-ai-hardware",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/stocks/themes/data-center-power-and-energy",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/ipos/anduril",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/ipos/anthropic",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/ipos/cerebras",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/ipos/csquare",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/ipos/databricks",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/ipos/mistral",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/ipos/openai",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/ipos/sk-hynix-adr",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/ipos/syntiant",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/ipos/xai",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
-      ]
-    },
-    {
-      "path": "/tools/fair-value-calculator",
-      "status": 200,
-      "ok": false,
-      "problems": [
-        "stale asset: /nav\\.js\\?v=[12]\\b/"
+        "stale asset: /site\\.css\\?v=(?:[0-9]|1[01])\\b/"
       ]
     }
   ]

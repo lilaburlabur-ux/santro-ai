@@ -286,6 +286,7 @@ def render_header(active, utils, is_terminal=False):
 <link rel="stylesheet" href="/ds-v2/tokens.css?v=1">
 <link rel="stylesheet" href="/ds-v2/primitives.css?v=1">
 <link rel="stylesheet" href="/ds-v2/shell.css?v=1">
+<link rel="stylesheet" href="/ds-v2/remap.css?v=1">
 <script src="/ds-v2/flags.js?v=3"></script>
 <header class="meganav" id="meganav">
 <style>

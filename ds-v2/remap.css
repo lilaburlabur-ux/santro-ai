@@ -1,0 +1,36 @@
+/* ============================================================
+   Santro ds_v2 — legacy variable bridge (template-level migration).
+   Every legacy/generated page styles itself through the variable
+   families below; re-pointing them at approved tokens migrates ALL
+   route templates at once. html.ds-v2 (0-1-1) outranks page :root
+   (0-1-0), and this file loads after page styles. Flag off = legacy
+   values untouched. Tokens only.
+   ============================================================ */
+html.ds-v2 {
+  /* core surface + text (site.css family, index/terminal inline family) */
+  --bg: var(--st-bg-0);
+  --panel: var(--st-bg-1);
+  --panel-2: var(--st-bg-1);
+  --elev: var(--st-bg-2);
+  --border: var(--st-border);
+  --border-soft: var(--st-border);
+  --text: var(--st-ink);
+  --muted: var(--st-ink-dim);
+  --faint: var(--st-ink-faint);
+  /* accent: blue dies here — approved green everywhere */
+  --accent: var(--st-green);
+  --accent-2: var(--st-green);
+  --accent-soft: color-mix(in srgb, var(--st-green) 12%, transparent);
+  --accent-border: var(--st-focus-ring);
+  --green: var(--st-green);
+  --red: var(--st-red);
+  /* article/editorial family (blog shells) */
+  --surface: var(--st-bg-1);
+  --card: var(--st-bg-2);
+  --hint: var(--st-ink-faint);
+  --border-strong: var(--st-border-strong);
+  --teal: var(--st-green);
+  --danger: var(--st-red);
+  --gray: var(--st-ink-dim);
+  --amber: var(--st-amber);
+}

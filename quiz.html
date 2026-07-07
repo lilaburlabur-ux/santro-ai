@@ -33,7 +33,7 @@
   .qz h1{font-size:clamp(23px,4.5vw,30px);margin:18px 0 6px;letter-spacing:-.4px;}
   /* progress */
   .qbar{height:5px;background:var(--elev);border-radius:999px;margin:20px 0 6px;overflow:hidden;}
-  .qbar i{display:block;height:100%;background:linear-gradient(90deg,var(--accent,#5b9df0),#e0a73f);border-radius:999px;transition:width .25s ease;}
+  .qbar i{display:block;height:100%;background:linear-gradient(90deg,var(--accent,var(--accent,#5b9df0)),#e0a73f);border-radius:999px;transition:width .25s ease;}
   .qstep{font-size:11px;color:var(--faint);text-transform:uppercase;letter-spacing:.6px;font-weight:700;}
   /* question card */
   .qcard{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:18px 18px 14px;margin-top:10px;}
@@ -61,7 +61,7 @@
   .rfirst b{color:var(--text);}
   .rcta{display:flex;gap:9px;margin-top:18px;flex-wrap:wrap;}
   .rcta a{flex:1;min-width:150px;text-align:center;padding:13px 12px;border-radius:11px;font-weight:700;font-size:14px;text-decoration:none;}
-  .rcta .primary{background:var(--accent,#5b9df0);color:#fff;}
+  .rcta .primary{background:var(--accent,var(--accent,#5b9df0));color:#fff;}
   .rcta .ghost{background:var(--elev);color:var(--text);border:1px solid var(--border);}
   .rios{margin-top:14px;padding:12px 14px;border:1px solid var(--border-soft);border-radius:10px;font-size:12.5px;color:var(--muted);}
   .rios b{color:var(--accent-2);}
@@ -75,6 +75,7 @@
 <link rel="stylesheet" href="/ds-v2/tokens.css?v=1">
 <link rel="stylesheet" href="/ds-v2/primitives.css?v=1">
 <link rel="stylesheet" href="/ds-v2/shell.css?v=1">
+<link rel="stylesheet" href="/ds-v2/remap.css?v=1">
 <script src="/ds-v2/flags.js?v=3"></script>
 <header class="meganav" id="meganav">
 <style>

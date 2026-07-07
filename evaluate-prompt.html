@@ -40,7 +40,7 @@
     --bg:#0a0e13; --surface:#111822; --card:#16202b;
     --text:#e7edf3; --muted:#9aa7b5; --hint:#6b7686;
     --border:rgba(255,255,255,.10); --border-strong:rgba(255,255,255,.20);
-    --accent:#7cb0f5; --teal:#22c55e; --amber:#e0a73f; --danger:#f05a6e; --gray:#8895a4;
+    --accent:var(--accent-2,#7cb0f5); --teal:#22c55e; --amber:#e0a73f; --danger:#f05a6e; --gray:#8895a4;
     --radius:14px; --radius-sm:9px;
     --serif:Georgia,'Times New Roman',serif;
     --sans:-apple-system,BlinkMacSystemFont,'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif;
@@ -143,17 +143,17 @@
 </style>
 <style>
 .sa-crumb{max-width:920px;margin:14px auto 0;padding:0 22px;font-size:13px;color:var(--hint,#6b7686);}
-.sa-crumb a{color:var(--muted,#9aa7b5);text-decoration:none;} .sa-crumb a:hover{color:var(--accent,#7cb0f5);}
+.sa-crumb a{color:var(--muted,#9aa7b5);text-decoration:none;} .sa-crumb a:hover{color:var(--accent,var(--accent-2,#7cb0f5));}
 .sa-grow{max-width:920px;margin:26px auto 0;padding:24px 22px 8px;border-top:1px solid var(--border,rgba(255,255,255,.10));display:grid;grid-template-columns:1fr 1fr;gap:14px 28px;font-family:var(--sans);}
 @media(max-width:680px){.sa-grow{grid-template-columns:1fr;}}
 .sa-grow h3{font-size:13px;margin:0 0 8px;color:var(--text,#e7edf3);letter-spacing:.04em;}
-.sa-grow ul{margin:0;padding-left:18px;} .sa-grow li{color:var(--muted,#9aa7b5);font-size:15px;line-height:1.7;margin-bottom:4px;} .sa-grow a{color:var(--accent,#7cb0f5);}
+.sa-grow ul{margin:0;padding-left:18px;} .sa-grow li{color:var(--muted,#9aa7b5);font-size:15px;line-height:1.7;margin-bottom:4px;} .sa-grow a{color:var(--accent,var(--accent-2,#7cb0f5));}
 .sa-cta-box{grid-column:1/-1;margin-top:8px;padding:18px 20px;border:1px solid rgba(124,176,245,.3);border-radius:12px;background:rgba(124,176,245,.07);}
 .sa-cta-box b{color:var(--text,#e7edf3);font-size:16px;} .sa-cta-box p{color:var(--muted,#9aa7b5);font-size:14.5px;margin:6px 0 12px;line-height:1.6;}
-.sa-cta-btn{display:inline-block;background:var(--accent,#7cb0f5);color:#0a0e13;padding:9px 17px;border-radius:8px;font-weight:700;font-size:14px;text-decoration:none;}
+.sa-cta-btn{display:inline-block;background:var(--accent,var(--accent-2,#7cb0f5));color:#0a0e13;padding:9px 17px;border-radius:8px;font-weight:700;font-size:14px;text-decoration:none;}
 .tools-intro{max-width:760px;margin:0 auto;padding:0 22px;}
 .tools-intro h1{font-size:30px;margin:14px 0 8px;} .tools-intro .lede{color:var(--muted,#9aa7b5);font-size:17px;line-height:1.6;}
-.tools-intro p{color:var(--muted,#9aa7b5);font-size:15px;line-height:1.65;} .tools-intro a{color:var(--accent,#7cb0f5);}
+.tools-intro p{color:var(--muted,#9aa7b5);font-size:15px;line-height:1.65;} .tools-intro a{color:var(--accent,var(--accent-2,#7cb0f5));}
 .tools-wrap{max-width:760px;margin:0 auto;padding:0 22px;}
 </style>
 </head>
@@ -162,6 +162,7 @@
 <link rel="stylesheet" href="/ds-v2/tokens.css?v=1">
 <link rel="stylesheet" href="/ds-v2/primitives.css?v=1">
 <link rel="stylesheet" href="/ds-v2/shell.css?v=1">
+<link rel="stylesheet" href="/ds-v2/remap.css?v=1">
 <script src="/ds-v2/flags.js?v=3"></script>
 <header class="meganav" id="meganav">
 <style>

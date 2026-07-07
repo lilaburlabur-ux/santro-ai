@@ -47,7 +47,7 @@
     --bg:#0a0e13; --panel:#111822; --panel-2:#0c121a; --elev:#16202b;
     --border:#1d2733; --border-soft:#161e28;
     --text:#e7edf3; --muted:#8895a4; --faint:#5a6573;
-    --accent:#5b9df0; --accent-2:#7cb0f5; --accent-soft:#12233a; --accent-border:#22436a;
+    --accent:var(--accent,#5b9df0); --accent-2:var(--accent-2,#7cb0f5); --accent-soft:#12233a; --accent-border:#22436a;
     --green:#22c55e; --red:#f05a6e;
     --radius:14px; --radius-sm:9px; --radius-tile:6px;
   }
@@ -258,7 +258,7 @@
   .land-term{border-top:1px solid var(--border-soft);margin-top:22px;padding-top:26px;}
   /* quiz engine styles (source of truth mirrors quiz.html) */
   .qbar{height:5px;background:var(--elev);border-radius:999px;margin:14px 0 6px;overflow:hidden;}
-  .qbar i{display:block;height:100%;background:linear-gradient(90deg,var(--accent,#5b9df0),#e0a73f);border-radius:999px;transition:width .25s ease;}
+  .qbar i{display:block;height:100%;background:linear-gradient(90deg,var(--accent,var(--accent,#5b9df0)),#e0a73f);border-radius:999px;transition:width .25s ease;}
   .qstep{font-size:11px;color:var(--faint);text-transform:uppercase;letter-spacing:.6px;font-weight:700;}
   .qcard{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:18px 18px 14px;margin-top:10px;}
   .qcard h2{font-size:18px;margin:0 0 12px;line-height:1.35;}
@@ -278,7 +278,7 @@
   .rfirst{margin-top:12px;font-size:13.5px;color:var(--muted);} .rfirst b{color:var(--text);}
   .rcta{display:flex;gap:9px;margin-top:18px;flex-wrap:wrap;}
   .rcta a{flex:1;min-width:150px;text-align:center;padding:13px 12px;border-radius:11px;font-weight:700;font-size:14px;text-decoration:none;}
-  .rcta .primary{background:var(--accent,#5b9df0);color:#fff;} .rcta .ghost{background:var(--elev);color:var(--text);border:1px solid var(--border);}
+  .rcta .primary{background:var(--accent,var(--accent,#5b9df0));color:#fff;} .rcta .ghost{background:var(--elev);color:var(--text);border:1px solid var(--border);}
   .rios{margin-top:14px;padding:12px 14px;border:1px solid var(--border-soft);border-radius:10px;font-size:12.5px;color:var(--muted);} .rios b{color:var(--accent-2);}
   .rbrand{margin-top:16px;padding-top:12px;border-top:1px solid var(--border-soft);font-size:11px;color:var(--faint);display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px;}
   .rshare{font:inherit;font-size:12px;font-weight:700;background:none;border:1px solid var(--border-soft);border-radius:8px;color:var(--accent-2);padding:6px 12px;cursor:pointer;}
@@ -586,6 +586,7 @@
 <link rel="stylesheet" href="/ds-v2/tokens.css?v=1">
 <link rel="stylesheet" href="/ds-v2/primitives.css?v=1">
 <link rel="stylesheet" href="/ds-v2/shell.css?v=1">
+<link rel="stylesheet" href="/ds-v2/remap.css?v=1">
 <script src="/ds-v2/flags.js?v=3"></script>
 <header class="meganav" id="meganav">
 <style>

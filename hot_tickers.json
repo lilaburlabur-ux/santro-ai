@@ -1,59 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-07T00:47:07+00:00",
+  "as_of": "2026-07-07T08:05:33+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "TSLA",
-   "company": "Tesla Inc",
-   "move_pct": 6.69,
-   "price": 419.77,
-   "volume": 51648644,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 44,
-   "direction": "up",
-   "why": "Tesla (TSLA) Shares Skyrocket, What You Need To Know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-shares-skyrocket-know-000401435.html",
-   "published": "2026-07-07T00:04:01Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 2,
-   "ticker": "AMD",
-   "company": "Advanced Micro Devices Inc",
-   "move_pct": 6.61,
-   "price": 552.05,
-   "volume": 29556990,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 43,
-   "direction": "up",
-   "why": "Will AMD Be a $1 Trillion Company Before 2026 Is Over?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/amd-1-trillion-company-2026-224500988.html",
-   "published": "2026-07-06T22:45:00Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 3,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings Co",
-   "move_pct": 5.97,
-   "price": 318.47,
-   "volume": 6415191,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 41,
-   "direction": "up",
-   "why": "Why Vertiv (VRT) Stock Is Up Today",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-vertiv-vrt-stock-today-231601283.html",
-   "published": "2026-07-06T23:16:01Z",
-   "sector": "Data Center, Power & Energy"
-  }
- ]
+ "hot_tickers": []
 }

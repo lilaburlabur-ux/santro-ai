@@ -908,12 +908,12 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     </section>
 
     <section class="panel area-ipo">
-      <h2><span class="ic">🚀</span> SpaceX IPO tracker <span class="badge live" id="spcx-badge">Delayed ~15m</span></h2>
+      <h2><span class="ic"></span> SpaceX IPO tracker <span class="badge live" id="spcx-badge">Delayed ~15m</span></h2>
       <div class="body" id="ipo"></div>
     </section>
 
     <section class="panel area-small">
-      <h2><span class="ic">🔥</span> Hot tickers <span class="badge live" id="runners-badge">Auto</span><a href="/share?card=hot" title="Share the hot tickers" style="margin-left:10px;font-size:11px;font-weight:700;color:var(--accent-2);text-decoration:none">Share ↗</a></h2>
+      <h2><span class="ic"></span> Hot tickers <span class="badge live" id="runners-badge">Auto</span><a href="/share?card=hot" title="Share the hot tickers" style="margin-left:10px;font-size:11px;font-weight:700;color:var(--accent-2);text-decoration:none">Share ↗</a></h2>
       <div class="body" id="small">Scanning the AI tape…</div>
     </section>
 
@@ -1628,7 +1628,7 @@ function renderSamples(){
           <span class="chip-mv ${cls}">${fmtPct(t.move_pct)}</span>
           <div class="hwhy">${t.why}
             <div class="hmeta">${sect}${t.company} · vol ${fmtVol(t.volume)} (${t.volume_vs_avg} avg) · ${cat}${when}${src}</div></div>
-          <div class="fire">🔥 ${t.heat_score}</div>
+          <div class="fire"> ${t.heat_score}</div>
         </div>`;}).join("")
       + `<div class="runner-note">${hotData.meta.heat_criteria}<br>${hotData.meta.disclaimer}</div>`;
   } else if(hotData && hotData.meta){

@@ -1,36 +1,61 @@
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
 <meta name="theme-color" content="#0a0e13" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-title" content="Santro AI" />
-<title>xAI IPO — status, valuation &amp; AI relevance | Santro AI</title>
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<title>AI Stock Fair-Value Calculator — DCF, P/E, Graham &amp; PEG Scenarios | Santro AI</title>
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"/>
+<link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png"/>
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"/>
 <link rel="manifest" href="/manifest.json" />
-<meta name="description" content="xAI IPO watch: Grok, integrated with X. Status: Private · pre-IPO. Reported valuation ~$200B (approximate, from public reporting). Related listed names and AI context. Not financial advice."/>
-<link rel="canonical" href="https://santroai.tech/ipos/xai"/>
+<meta name="description" content="Free fair-value calculator for AI stocks: reverse DCF, P/E multiple, Graham number, and PEG scenario values for any of the 84 tickers in the Santro AI universe. Scenario outputs, not price targets. Not financial advice."/>
+<link rel="canonical" href="https://santroai.tech/tools/fair-value-calculator"/>
 <meta property="og:type" content="website"/><meta property="og:site_name" content="Santro AI"/>
-<meta property="og:title" content="xAI IPO watch | Santro AI"/>
-<meta property="og:description" content="Private · pre-IPO · reported ~$200B"/>
-<meta property="og:url" content="https://santroai.tech/ipos/xai"/>
+<meta property="og:title" content="AI Stock Fair-Value Calculator — DCF, P/E, Graham &amp; PEG"/>
+<meta property="og:description" content="Scenario values for any AI ticker under your own growth assumptions. The market-implied read shows what today's price already assumes."/>
+<meta property="og:url" content="https://santroai.tech/tools/fair-value-calculator"/>
 <meta property="og:image" content="https://santroai.tech/assets/og-map.png"/>
-<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="AI Stock Fair-Value Calculator | Santro AI"/>
+<meta name="twitter:description" content="Reverse DCF, P/E, Graham and PEG scenario values for the AI trade."/>
+<meta name="twitter:image" content="https://santroai.tech/assets/og-map.png"/>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
  {"@type":"ListItem","position":1,"name":"Home","item":"https://santroai.tech/"},
- {"@type":"ListItem","position":2,"name":"AI IPOs","item":"https://santroai.tech/ipos"},
- {"@type":"ListItem","position":3,"name":"xAI","item":"https://santroai.tech/ipos/xai"}]}
+ {"@type":"ListItem","position":2,"name":"Tools","item":"https://santroai.tech/bubble"},
+ {"@type":"ListItem","position":3,"name":"Fair-Value Calculator","item":"https://santroai.tech/tools/fair-value-calculator"}]}
 </script>
 <link rel="stylesheet" href="/site.css?v=11"/>
+<link rel="stylesheet" href="/accounts/accounts.css?v=7"/>
 <style>
-  .tkp{max-width:780px;margin:0 auto;padding:6px 20px 50px;}
-  .tkp h1{font-size:27px;margin:14px 0 4px;} .tkp .sub{color:var(--muted);font-size:14.5px;margin:0 0 16px;}
-  .tkp h2{font-size:18px;margin:26px 0 8px;} .tkp p{color:var(--muted);font-size:15px;line-height:1.65;}
-  .tkp b{color:var(--text);} .tkp a{color:var(--accent,#5b9df0);}
-  .stat{display:inline-block;background:var(--panel);border:1px solid var(--border-soft);border-radius:10px;padding:10px 15px;margin:0 8px 8px 0;font-size:13.5px;color:var(--muted);}
-  .stat b{display:block;font-size:16px;}
-  .badge2{display:inline-block;font-size:11px;font-weight:800;letter-spacing:.5px;text-transform:uppercase;padding:3px 9px;border-radius:6px;
-    background:rgba(224,167,63,.12);color:#e0a73f;}
-  .relx a{display:inline-block;margin:0 8px 6px 0;padding:5px 11px;border:1px solid var(--border-soft);border-radius:7px;font-size:13.5px;text-decoration:none;}
-  .nfax{color:var(--faint);font-size:12.5px;margin-top:16px;line-height:1.6;}
+.fv-wrap{max-width:860px;margin:0 auto;padding:26px 18px 40px;}
+.fv-wrap h1{font-size:26px;margin:0 0 8px;}
+.fv-lede{color:var(--muted);font-size:14.5px;max-width:640px;margin:0 0 22px;}
+.fv-pick{background:var(--panel);border:1px solid var(--border);border-radius:var(--radius);padding:16px 18px;margin-bottom:6px;}
+.fv-pick label{display:block;font-size:11px;font-weight:800;letter-spacing:1px;text-transform:uppercase;color:var(--faint);margin-bottom:8px;}
+.fv-pickrow{position:relative;max-width:420px;}
+.fv-pickrow input{width:100%;background:var(--elev);border:1px solid var(--border);border-radius:10px;color:var(--text);font:inherit;font-size:15px;padding:10px 12px;outline:none;}
+.fv-pickrow input:focus{border-color:var(--accent-border);}
+.fv-sugg{position:absolute;left:0;right:0;top:46px;background:var(--panel);border:1px solid var(--border);border-radius:11px;box-shadow:0 16px 34px rgba(0,0,0,.5);overflow:hidden;z-index:30;display:none;}
+.fv-sugg .row{display:flex;gap:10px;align-items:center;padding:9px 12px;cursor:pointer;font-size:13.5px;}
+.fv-sugg .row:hover,.fv-sugg .row.active{background:var(--elev);}
+.fv-sugg .tk{font-weight:800;min-width:56px;}
+.fv-sugg .nm{color:var(--muted);flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.fv-cur{display:flex;gap:14px;align-items:baseline;flex-wrap:wrap;margin-top:12px;font-size:13.5px;color:var(--muted);}
+.fv-cur b{font-size:17px;color:var(--text);}
+.fv-note{font-size:12px;color:var(--faint);margin-top:8px;}
+.fv-how{margin-top:26px;}
+.fv-how h2{font-size:17px;margin:22px 0 8px;}
+.fv-how p,.fv-how li{font-size:13.5px;color:var(--muted);line-height:1.65;}
+.fv-models{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:12px 0;}
+.fv-models div{background:var(--panel-2);border:1px solid var(--border-soft);border-radius:10px;padding:11px 13px;font-size:12.5px;color:var(--muted);line-height:1.55;}
+.fv-models b{display:block;color:var(--text);font-size:13px;margin-bottom:3px;}
+.fv-rel{display:flex;gap:9px;flex-wrap:wrap;margin-top:10px;}
+.fv-rel a{border:1px solid var(--border);border-radius:999px;padding:6px 13px;font-size:12.5px;color:var(--muted);}
+.fv-rel a:hover{color:var(--text);border-color:var(--accent-border);}
+.fv-disc{margin-top:24px;font-size:11.5px;color:var(--faint);border-top:1px solid var(--border-soft);padding-top:14px;line-height:1.6;}
+@media(max-width:640px){.fv-models{grid-template-columns:1fr;}.fv-wrap h1{font-size:22px;}}
 </style>
 </head><body>
 <!-- meganav v1 — generated by gen_nav.py; edit NAV there, not here -->
@@ -151,7 +176,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
         <a class="mn-link" href="/etfs"><b>AI ETFs</b><span>40 AI &amp; tech ETFs, broad tech to pure-play robotics.</span></a>
         <a class="mn-link" href="/news"><b>Market News</b><span>Headlines that move the AI trade.</span></a>
       </div></div></div>
-    </div><div class="mn-item" data-menu="tools">
+    </div><div class="mn-item on" data-menu="tools">
       <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Tools</button>
       <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Every tool is free while Santro is in beta. Scenario outputs, not price targets.</p><div class="mn-links">
         <a class="mn-link" href="/bubble"><b>AI Bubble Risk<em class="mn-b mn-b-live">Live</em></b><span>Valuation, momentum, and crowding signals in one gauge.</span></a>
@@ -162,7 +187,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
         <a class="mn-link" href="/evaluate-prompt"><b>Prompt Quality Check<em class="mn-b mn-b-live">Live</em></b><span>Score any AI trading prompt before you trust it.</span></a>
         <a class="mn-link" href="/signup"><b>Watchlists &amp; Alerts<em class="mn-b mn-b-acct">Account</em></b><span>Track tickers and get level alerts with a free account.</span></a>
       </div></div></div>
-    </div><div class="mn-item on" data-menu="research">
+    </div><div class="mn-item" data-menu="research">
       <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Research</button>
       <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Filing-verified research. Tweets are leads; filings are sources.</p><div class="mn-links">
         <a class="mn-link" href="/research"><b>Research Feed</b><span>Curated notes on the AI trade, updated through the day.</span></a>
@@ -276,29 +301,46 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 </div>
 <script src="/nav.js?v=1" defer></script>
 </header>
-  <main class="tkp">
-    <nav style="font-size:13px;color:var(--faint);margin:14px 0 4px"><a href="/" style="color:var(--muted);text-decoration:none">Home</a> › <a href="/ipos" style="color:var(--muted);text-decoration:none">AI IPOs</a> › xAI</nav>
-    <h1>xAI — AI IPO watch</h1>
-    <p class="sub">Grok, integrated with X</p>
-    <span class="badge2">Private · pre-IPO</span>
-    <div style="margin-top:14px">
-      <span class="stat"><b>~$200B</b>reported valuation · approximate</span>
-      <span class="stat"><b>No filing</b>listing status</span>
+
+<main class="fv-wrap">
+  <h1>AI Stock Fair-Value Calculator</h1>
+  <p class="fv-lede">Scenario values for any of the 84 tickers in the Santro universe, under assumptions you control — a reverse DCF, a P/E multiple read, the Graham number, and a PEG check. The market-implied default shows what today's price already assumes, so the starting point is never a fantasy number.</p>
+
+  <section class="fv-pick" aria-label="Choose a ticker">
+    <label for="fv-input">Ticker or company</label>
+    <div class="fv-pickrow">
+      <input id="fv-input" placeholder="NVDA, Micron, Palantir…" autocomplete="off" spellcheck="false"/>
+      <div class="fv-sugg" id="fv-sugg"></div>
     </div>
-    <h2>What it is</h2>
-    <p>xAI builds the Grok models, distributed through X and standalone apps, with its own large training clusters. Reported raises are large but private-market valuations are indicative, not market prices.</p>
-    <h2>Status, honestly labeled</h2>
-    <p>This company is private. The valuation above comes from public reporting on private funding rounds — an indicative figure, not a market price. No filing, date or listing is confirmed.
-    Santro tracks it because retail demand for AI listings is a real market signal in itself.</p>
-    <h2>Listed names in the same lane</h2>
-    <p class="relx"><a href="/stocks/tsla">TSLA</a><a href="/stocks/nvda">NVDA</a><a href="/stocks/meta">META</a></p>
-    <p>Watch the whole space on the <a href="/ipos">AI IPO tracker</a>, see today's tape on the
-    <a href="/terminal">terminal</a>, or gauge froth with the <a href="/bubble">AI bubble-risk index</a>.</p>
-    <p class="nfax">Valuations are approximate and sourced from public reporting; nothing here is an offer,
-    a prediction of a listing, or financial advice.</p>
-  </main>
-<!-- mega-footer v1 -->
-<!-- mega-footer v1 -->
+    <div class="fv-cur" id="fv-cur"></div>
+    <div class="fv-note">Quotes delayed ~15 min. Prices refresh with the terminal feed.</div>
+  </section>
+
+  <div id="sa-calc-mount"></div>
+
+  <section class="fv-how">
+    <h2>What this calculator does</h2>
+    <p>Every output is a <b>scenario value</b> — what the stock would be worth <i>if</i> your growth, margin, and multiple assumptions play out. It is not a price target and not a prediction. The most useful number is often the <b>market-implied growth</b> line: the growth rate today's price already requires. If that number looks impossible, the price is doing the talking.</p>
+    <div class="fv-models">
+      <div><b>Reverse DCF</b>Discounts future earnings back to today and solves for the growth rate the current price implies.</div>
+      <div><b>P/E multiple</b>Applies your chosen future multiple to projected earnings — the simplest sanity check.</div>
+      <div><b>Graham number</b>Ben Graham's conservative floor from earnings and book value. Harsh on growth names by design.</div>
+      <div><b>PEG check</b>Relates the multiple to growth. A PEG far above 2 means you are paying heavily for the story.</div>
+    </div>
+    <h2>How to use it</h2>
+    <p>Pick a ticker above, choose a model, and adjust the assumptions. Presets cover conservative, base, and aggressive cases. For cyclical names (memory, semis) the calculator warns you: peak-earnings multiples flatter them, so lean on the conservative case.</p>
+    <h2>Related tools</h2>
+    <div class="fv-rel">
+      <a href="/bubble">AI Bubble Risk</a>
+      <a href="/bubble#stress">Portfolio Stress Test</a>
+      <a href="/quiz">60-Second Bubble Check</a>
+      <a href="/stocks">All AI stocks</a>
+    </div>
+  </section>
+
+  <p class="fv-disc">Quotes may be delayed by approximately 15 minutes. Real-time data planned for Pro. Scenario outputs depend entirely on the assumptions you enter and can be wrong. Nothing here is investment advice or a recommendation to buy or sell any security. Not financial advice.</p>
+</main>
+
 <!-- mega-footer v1 -->
 <!-- mega-footer v1 -->
 <footer class="mega">
@@ -441,23 +483,97 @@ function t(){if(!mq.matches)return;var c=h.parentElement;c.classList.toggle("ope
 h.addEventListener("click",t);h.addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){e.preventDefault();t();}});});}
 arm();mq.addEventListener?mq.addEventListener("change",arm):mq.addListener(arm);})();</script>
 </footer>
+
 <script>
-/* live-patch the static Key data from universe.json at view time; crawlable
-   static values remain the fallback if this fails */
-(async()=>{try{
-  const SYM=document.querySelector(".kv b").textContent.trim();
-  const u=await (await fetch("/universe.json?t="+Date.now())).json();
-  let x=null; for(const b of u.bubbles){ x=b.tickers.find(t=>t.ticker===SYM); if(x) break; }
-  if(!x||x.price==null) return;
-  const fmt=v=>v==null?"—":(v>=0?"+":"")+v.toFixed(1)+"%";
-  const rows=[...document.querySelectorAll(".kv tr")];
-  const cell=l=>{const r=rows.find(r=>r.cells[0].textContent.trim()===l); return r?r.cells[1]:null;};
-  const pc=cell("Price");
-  if(pc){const ch=x.change_pct; pc.innerHTML="$"+x.price.toFixed(2)+(ch!=null?' <span style="color:'+(ch>=0?"#22c55e":"#f05a6e")+';font-weight:700">'+fmt(ch)+" today</span>":"");}
-  const mc=cell("Market cap"); if(mc&&x.market_cap_b) mc.textContent="$"+x.market_cap_b.toFixed(2)+"B";
-  const pf=cell("Performance"); if(pf&&x.perf) pf.textContent="1W "+fmt(x.perf["1W"])+" · 1M "+fmt(x.perf["1M"])+" · 1Y "+fmt(x.perf["1Y"]);
-  const sp=document.querySelector(".tkp h2 span");
-  if(sp&&u.meta&&u.meta.as_of) sp.textContent="· delayed ~15 min · "+u.meta.as_of;
-}catch(e){}})();
+(function(){
+  "use strict";
+  var input=document.getElementById("fv-input"), sugg=document.getElementById("fv-sugg"),
+      cur=document.getElementById("fv-cur"), mount=document.getElementById("sa-calc-mount");
+  var idx=[], sel=0, rows=[], current=null;
+
+  function fmtCap(b){ return b>=1000 ? "$"+(b/1000).toFixed(2)+"T" : "$"+Math.round(b)+"B"; }
+  function mountCalc(t){
+    // accounts.js may still be downloading when the universe fetch resolves —
+    // wait for SantroCalc instead of silently skipping the render
+    if(window.SantroCalc){ window.SantroCalc.render(t, mount); return; }
+    var tries=0, iv=setInterval(function(){
+      if(window.SantroCalc || ++tries>50){
+        clearInterval(iv);
+        if(window.SantroCalc && current===t) window.SantroCalc.render(t, mount);
+      }
+    },100);
+  }
+  function show(t){
+    current=t;
+    cur.innerHTML="<b>"+t.ticker+"</b> "+t.company+
+      (t.price!=null?" · $"+Number(t.price).toFixed(2):"")+
+      (t.pe!=null?" · P/E "+t.pe:"")+
+      (t.market_cap_b?" · "+fmtCap(t.market_cap_b):"")+
+      ' · <a href="/t?sym='+encodeURIComponent(t.ticker)+'">full ticker page →</a>';
+    mountCalc(t);
+    try{ history.replaceState(null,"","/tools/fair-value-calculator?sym="+encodeURIComponent(t.ticker)); }catch(e){}
+  }
+  function load(){
+    return Promise.all([
+      fetch("/universe.json?t="+Date.now()).then(function(r){return r.json();}).catch(function(){return {bubbles:[]};}),
+      fetch("/ecosystem.json?t="+Date.now()).then(function(r){return r.json();}).catch(function(){return {tickers:[]};})
+    ]).then(function(res){
+      var seen={};
+      var add=function(t){ if(t.ticker && !seen[t.ticker]){ seen[t.ticker]=1; idx.push(t); } };
+      (res[0].bubbles||[]).forEach(function(b){ (b.tickers||[]).forEach(add); });
+      (res[1].tickers||[]).forEach(add);
+    });
+  }
+  function score(t,q){
+    var tk=t.ticker.toLowerCase(), nm=(t.company||"").toLowerCase();
+    if(tk===q) return 0; if(tk.indexOf(q)===0) return 1;
+    if(nm.indexOf(q)===0) return 2; if(tk.indexOf(q)>-1) return 3;
+    if(nm.indexOf(q)>-1) return 4; return 9;
+  }
+  function render(){
+    var q=input.value.trim().toLowerCase();
+    if(!q){ sugg.style.display="none"; rows=[]; return; }
+    rows=idx.map(function(t){return [score(t,q),t];}).filter(function(x){return x[0]<9;})
+      .sort(function(a,b){return a[0]-b[0]||(b[1].market_cap_b||0)-(a[1].market_cap_b||0);})
+      .slice(0,8).map(function(x){return x[1];});
+    if(!rows.length){ sugg.style.display="none"; return; }
+    sel=Math.min(sel,rows.length-1);
+    sugg.innerHTML=rows.map(function(t,i){
+      return '<div class="row'+(i===sel?" active":"")+'" data-tk="'+t.ticker+'">'+
+        '<span class="tk">'+t.ticker+'</span><span class="nm">'+(t.company||"")+'</span>'+
+        (t.price!=null?'<span>$'+Number(t.price).toFixed(2)+'</span>':'')+'</div>';
+    }).join("");
+    sugg.style.display="block";
+    [].forEach.call(sugg.querySelectorAll(".row"),function(el){
+      el.addEventListener("mousedown",function(e){ e.preventDefault(); pick(el.dataset.tk); });
+    });
+  }
+  function pick(tk){
+    var t=null; idx.some(function(x){ if(x.ticker===tk){t=x;return true;} });
+    if(!t) return;
+    input.value=""; sugg.style.display="none"; show(t);
+  }
+  input.addEventListener("input",function(){ sel=0; render(); });
+  input.addEventListener("blur",function(){ setTimeout(function(){ sugg.style.display="none"; },150); });
+  input.addEventListener("keydown",function(e){
+    if(e.key==="ArrowDown"){ sel=Math.min(sel+1,rows.length-1); render(); e.preventDefault(); }
+    else if(e.key==="ArrowUp"){ sel=Math.max(sel-1,0); render(); e.preventDefault(); }
+    else if(e.key==="Enter"){ if(rows[sel]) pick(rows[sel].ticker); }
+    else if(e.key==="Escape"){ input.value=""; sugg.style.display="none"; }
+  });
+
+  load().then(function(){
+    var want=null;
+    try{ want=new URLSearchParams(location.search).get("sym"); }catch(e){}
+    var t=null;
+    if(want) idx.some(function(x){ if(x.ticker.toUpperCase()===want.toUpperCase()){t=x;return true;} });
+    if(!t) idx.some(function(x){ if(x.ticker==="NVDA"){t=x;return true;} });
+    if(!t) t=idx[0];
+    if(t) show(t);
+  });
+})();
 </script>
+<script src="/accounts/config.js?v=3"></script>
+<script src="/accounts/api.js?v=12"></script>
+<script src="/accounts/accounts.js?v=15"></script>
 </body></html>

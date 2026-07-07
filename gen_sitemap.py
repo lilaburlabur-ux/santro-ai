@@ -79,6 +79,11 @@ def main():
         slug = os.path.splitext(os.path.basename(f))[0]
         urls.append((f"{BASE}/ipos/{slug}", git_date(f"ipos/{os.path.basename(f)}"), "weekly", "0.6"))
 
+    # standalone tool pages
+    for f in sorted(glob.glob(os.path.join(HERE, "tools", "*.html"))):
+        slug = os.path.splitext(os.path.basename(f))[0]
+        urls.append((f"{BASE}/tools/{slug}", git_date(f"tools/{os.path.basename(f)}"), "monthly", "0.7"))
+
     lines = ['<?xml version="1.0" encoding="UTF-8"?>',
              '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for loc, lm, cf, pr in urls:

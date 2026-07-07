@@ -72,7 +72,8 @@ ROUTES = [
 import glob as _g
 _known = {f for _, f, _i in ROUTES}
 for _dir, _pref in (("stocks", "/stocks"), ("etfs", "/etfs"), ("blog", "/blog"),
-                    ("ipos", "/ipos"), (os.path.join("stocks", "themes"), "/stocks/themes")):
+                    ("ipos", "/ipos"), ("tools", "/tools"),
+                    (os.path.join("stocks", "themes"), "/stocks/themes")):
     for _f in sorted(_g.glob(os.path.join(HERE, _dir, "*.html"))):
         _rel = os.path.relpath(_f, HERE)
         if _rel in _known:
@@ -88,8 +89,9 @@ _counts = {
     "etfs":   sum(1 for r, _, _i in ROUTES if r.startswith("/etfs/")),
     "ipos":   sum(1 for r, _, _i in ROUTES if r.startswith("/ipos/")),
     "blog":   sum(1 for r, _, _i in ROUTES if r.startswith("/blog/")),
+    "tools":  sum(1 for r, _, _i in ROUTES if r.startswith("/tools/")),
 }
-_EXPECT = {"stocks": 95, "themes": 7, "etfs": 40, "ipos": 7, "blog": 7}
+_EXPECT = {"stocks": 95, "themes": 7, "etfs": 40, "ipos": 7, "blog": 7, "tools": 1}
 for _k, _min in _EXPECT.items():
     if _counts[_k] < _min:
         print(f"COUNT GUARD FAILED: {_k}={_counts[_k]} expected >= {_min}")

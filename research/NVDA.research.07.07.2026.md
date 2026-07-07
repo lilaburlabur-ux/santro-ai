@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | DeepSeek looks to reduce reliance on Nvidia with own AI chip | Yahoo Finance Video | 2026-07-07 |
-| Jim Cramer sends strong signal to Nvidia stock investors amid rumors | TheStreet | 2026-07-07 |
-| Why Tilray Stock Tumbled Last Month | Motley Fool | 2026-07-07 |
-| Trump Just Made An Obscure Pentagon Office Bigger Than The Marine Corps. Here Are 5 Stocks For This $1.5 Trillion Defense Opportunity | 24/7 Wall St. | 2026-07-07 |
+| Rivian Is Raising Around $1.5 Billion By Offering 75 Million Shares. Here’s Why the Stock Is Tanking. | Motley Fool | 2026-07-07 |
+| Why Wheaton Precious Metals Stock Slumped by Nearly 14% in June | Motley Fool | 2026-07-07 |
+| Why Richtech Robotics Stock Fell off a Cliff in June | Motley Fool | 2026-07-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

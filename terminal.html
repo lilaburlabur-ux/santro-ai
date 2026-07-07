@@ -504,6 +504,15 @@
   footer .foot-text .bn{color:var(--accent-2); font-weight:600;}
   footer .foot-text .nfa{color:#e0a73f; font-weight:600;}
   footer .foot-text .rights{font-size:11px; color:var(--faint);}
+
+  /* terminal page: hero is a compact full-width strip, not a landing hero */
+  @media (min-width:900px){
+    .intro-line{display:flex;align-items:baseline;gap:10px 22px;flex-wrap:wrap;padding:14px 16px 4px;}
+    .intro-line h1{font-size:23px;letter-spacing:-.3px;}
+    .intro-line .slogan{font-size:12.5px;margin:0;}
+    .intro-line p{flex:1 1 100%;max-width:1500px;font-size:12.5px;margin:4px 0 0;color:var(--faint);}
+    .intro-line p:last-of-type{flex:0 0 auto;margin:2px 0 0;}
+  }
 </style>
 <link rel="stylesheet" href="accounts/accounts.css?v=7" />
 </head>

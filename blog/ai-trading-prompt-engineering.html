@@ -274,7 +274,9 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
   .meganav .mn-in{gap:8px;padding:0 12px;}
   .meganav .mn-right{gap:7px;}
 }
-@media(max-width:389px){
+@media(max-width:479px){
+  /* compact logo for ALL phone widths — the old 389px cutoff missed 390px
+     (iPhone 12-15) by one pixel and the right cluster overflowed the page */
   .meganav .mn-beta{display:none;}
   .meganav .mn-lr i{display:none;}
   .meganav .mn-search input{width:52px;}

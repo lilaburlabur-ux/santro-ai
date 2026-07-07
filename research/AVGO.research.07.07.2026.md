@@ -38,8 +38,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 |---|---|---|
 | Why does Apple still need Broadcom? The story behind their new AI deal | Yahoo Finance Video | 2026-07-06 |
 | Software's strongest pocket is back near records: Chart of the Day | Yahoo Finance | 2026-07-06 |
+| Broadcom signs multi-year chip supply deal with Apple until 2031 | Verdict | 2026-07-07 |
 | SpaceX Is in the Nasdaq-100, Now Brace for Volatility | Barrons.com | 2026-07-07 |
-| Broadcom (AVGO) Extends Apple Deal Following A Fresh Look At Its Fair Value | Simply Wall St. | 2026-07-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

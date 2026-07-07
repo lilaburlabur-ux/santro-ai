@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
+| MU, SNDK, WDC Stocks Fall Premarket: Samsung, SK Hynix Briefly Drag South Korea's Kospi Into Brief Bear | Stocktwits | 2026-07-07 |
 | Intel (INTC) Following 18A Progress And AI Optimism Looks Pricey On DCF | Simply Wall St. | 2026-07-07 |
 | After Cerebras Listing, Intel-Backed AI Chip Firm Syntiant Files For IPO | Stocktwits | 2026-07-07 |
 | Intel-Backed Syntiant, Maker of AI Chips for Earbuds and Cars, Files for IPO on Nasdaq | Benzinga | 2026-07-07 |
-| This ESG ETF Owns Google and Intel but Won’t Touch Meta, and It’s Up 22% in a Year | 24/7 Wall St. | 2026-07-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

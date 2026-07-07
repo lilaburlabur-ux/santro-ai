@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Why this AI chip startup could rival Nvidia | Yahoo Finance Video | 2026-07-06 |
 | Nvidia denies report its next-generation AI server faces delays, says roadmap is intact | Yahoo Finance | 2026-07-06 |
-| President Donald Trump Took a Direct Jab at the Fed, Yet Again -- and It's a Disaster in the Making for Wall Street | Motley Fool | 2026-07-07 |
-| SpaceX Is Joining the Nasdaq-100 This Week. What This Means for Invesco QQQ Investors. | Motley Fool | 2026-07-07 |
+| Micron Technology Just Dropped a $50 Billion Revenue Bombshell. Time to Buy the Stock? | Motley Fool | 2026-07-07 |
+| Is Meta Platforms About to Follow in the Footsteps of Elon Musk's SpaceX? | Motley Fool | 2026-07-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -37,9 +37,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | Tech stocks on track for record annual inflows as investors pile into the AI trade | Yahoo Finance | 2026-07-06 |
+| MU, SNDK, WDC Stocks Fall Premarket: Samsung, SK Hynix Briefly Drag South Korea's Kospi Into Brief Bear | Stocktwits | 2026-07-07 |
 | AMD Is 11% Away From Joining the $1 Trillion Club. Could It Get There This Year? | Motley Fool | 2026-07-07 |
 | Here’s Why EyePoint, Inc. (EYPT) Is Among the Best Get Rich Quick Stocks | Insider Monkey | 2026-07-07 |
-| This Unstoppable Artificial Intelligence (AI) Stock Just Hit a New All-Time High. Is It Too Late to Buy? | Motley Fool | 2026-07-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Revenue (ttm) | $37.45B | Revenue growth 37.80% y/y |
 | Profitability | Gross 53.06%, operating 14.40%, net 13.37% | ROA 3.65%, ROE 8.06% |
 | Balance sheet | Cash $12.35B, debt $3.87B | Current ratio 2.73, debt/equity 6.00 |
-| Valuation | P/E 184.02, forward P/E 41.82, P/S 24.03, P/B 13.96 | EV/Sales 23.81, EV/EBITDA 120.01 |
+| Valuation | P/E 185.25, forward P/E 41.82, P/S 24.03, P/B 13.96 | EV/Sales 23.81, EV/EBITDA 120.01 |
 | Growth expectations | Earnings growth 91.20%, EPS q/q 95.10% | Analyst mean target $508.31 (48 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -122,7 +122,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | SMA200 dist | +97.06% | Revenue (ttm) | $37.45B |
 | 52W high | $580.91 | Revenue growth y/y | 37.80% |
 | 52W low | $134.80 | Inst. ownership | 72.07% |
-| P/E (ttm) | 184.02 | Insider ownership | 0.40% |
+| P/E (ttm) | 185.25 | Insider ownership | 0.40% |
 | Forward P/E | 41.82 | Short float | 2.88% |
 | PEG (trailing) | 1.24 | Avg volume | 36,952,532 |
 | P/S | 24.03 | Employees | 31,000 |

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-07T20:45:51+00:00",
-  "as_of_local": "2026-07-07 20:45:51 UTC",
+  "as_of_utc": "2026-07-07T20:51:02+00:00",
+  "as_of_local": "2026-07-07 20:51:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -145,34 +147,6 @@
       ]
     },
     {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 110.39,
-      "previous_close": 122.2,
-      "change_pct": -9.66,
-      "market_cap": 554820136932.373,
-      "headlines": [
-        {
-          "title": "Samsung saw a record quarter, but it's not enough for investors. Here's why.",
-          "url": "https://finance.yahoo.com/video/samsung-saw-a-record-quarter-but-its-not-enough-for-investors-heres-why-203148500.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-07T20:31:48Z"
-        },
-        {
-          "title": "Update: Dow Snaps Record Run Amid Tech Sell-Off, Oil Price Jump",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dow-snaps-record-run-amid-202322498.html",
-          "publisher": "MT Newswires",
-          "published": "2026-07-07T20:23:22Z"
-        },
-        {
-          "title": "US Equity Markets Lower as Semiconductor Stocks Fall, Crude Oil Prices Rise",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-lower-semiconductor-200946448.html",
-          "publisher": "MT Newswires",
-          "published": "2026-07-07T20:09:46Z"
-        }
-      ]
-    },
-    {
       "symbol": "ARM",
       "name": "Arm Holdings",
       "price": 300.43,
@@ -206,7 +180,7 @@
       "price": 230.7,
       "previous_close": 249.27,
       "change_pct": -7.45,
-      "market_cap": 201990114339.12378,
+      "market_cap": 201816357330.32227,
       "headlines": [
         {
           "title": "Update: Dow Snaps Record Run Amid Tech Sell-Off, Oil Price Jump",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 63631.77,
-      "change_pct": -0.57
+      "price": 63588.15,
+      "change_pct": -0.64
     },
     {
       "label": "Gold",
-      "price": 4117.4,
-      "change_pct": -0.91
+      "price": 4115.7,
+      "change_pct": -0.95
     },
     {
       "label": "Nasdaq100",

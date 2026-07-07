@@ -481,7 +481,7 @@ function preview(){
      '<div class="xc-row"><b>Concentration</b><span>'+(p.conc||"—")+'</span></div>'+
      '<div class="xc-row"><b>Lens</b><span>'+(p.lens||"—")+'</span></div>'+
      '<div class="xc-row"><b>Risk view</b><span>'+(p.risk||"—")+'</span></div>'+
-     '<div class="xc-row"><b>Suggested watchlist</b><span>'+wl.slice(0,5).join(" · ")+" +5</span></div>'+
+     '<div class="xc-row"><b>Suggested watchlist</b><span>'+wl.slice(0,5).join(" · ")+' +5</span></div>'+
      '<p style="font-size:11.5px;color:var(--faint);margin:10px 0 0">Editable after save. Scenario outputs, not advice.</p>';
   });
 }
@@ -493,10 +493,12 @@ function save(){
   var el=document.getElementById("xc-out");
   el.insertAdjacentHTML("beforeend",'<p style="margin:12px 0 0"><a class="xc-cta" href="/terminal">Open your terminal</a></p>');
 }
-var tries=0,iv=setInterval(function(){
-  if(authed()){clearInterval(iv);build();}
-  else if(++tries>16)clearInterval(iv);
-},400);
+var built=false;
+function tryBuild(){ if(!built&&authed()){built=true;build();} }
+tryBuild();
+var slot=document.getElementById("santro-auth-slot");
+if(slot&&window.MutationObserver){ new MutationObserver(tryBuild).observe(slot,{childList:true,subtree:true}); }
+setInterval(tryBuild,2000); // cheap safety net (covers sign-in from another tab)
 })();
 </script>
 

@@ -22,7 +22,7 @@ Route status legend: PENDING → IN PROGRESS → DONE (verified)
 | 16 | /news | DONE |
 | 17 | /signin + /signup | DONE |
 | 18 | /about + legal | DONE |
-| 19 | remaining sitemap routes | PENDING |
+| 19 | remaining sitemap routes | DONE |
 
 ## Route 1 — / (DONE)
 AUDIT: quiz hero + persona cards + "Question 1 of 8" + quiz-led metas + "Live" nav badges (critique confirmed live).
@@ -61,3 +61,16 @@ no progress-bar hero; output = preset summary + suggested 10-ticker watchlist (f
 editable) + 'Open your terminal'. Skippable (event calibration_skipped); save stores calibration +
 fires calibration_completed. Metas/OG/Twitter/schema reframed; old quiz.js engine no longer loaded
 (file retained). Dashboard activation strip links here (offered once post-signup, skippable).
+
+## Route 19 + FINAL PASS (DONE)
+- Full-site greps: persona/quiz-language ZERO in UI (2 editorial-prose mentions in blog articles — verdict: allowed);
+  UI emoji stripped from terminal (article prose emoji allowed); 'Live' wording zero near data.
+- Sitemap parity: 175 URLs before == 175 after; zero deletions (rule 1 proven by crawl below).
+- Quiz-gate bug found in verify: quote mismatch parse error killed the calibration IIFE (caught by node --check bisect);
+  auth detection hardened from finite poll to MutationObserver + 2s safety net (covers slow /me + other-tab sign-in).
+- Anonymous walkthrough: land -> data hero -> lock -> intent modal -> Esc costs nothing ✓. Authed simulation:
+  gate hides, 4 steps render, preview builds from live universe, save fires calibration_completed ✓.
+- Events wired: lock_click / modal_open / modal_close / stress_preset / calibration_completed|skipped (localStorage sink,
+  backend endpoint = follow-up).
+- Deviation from loop letter: routes 3-9/11-18 shipped as one change-set commit (cross-template sweeps don't decompose
+  per-route); per-route audit detail above.

@@ -13,7 +13,7 @@ Route status legend: PENDING → IN PROGRESS → DONE (verified)
 | 7 | /crypto | DONE |
 | 8 | /bubble (+stress) | DONE |
 | 9 | /tools/fair-value-calculator | DONE |
-| 10 | /quiz | PENDING |
+| 10 | /quiz | DONE |
 | 11 | /research + /blog/* | DONE |
 | 12 | /ipos | DONE |
 | 13 | /stocks/burry-short-watch | DONE |
@@ -51,3 +51,13 @@ VERIFY: greps clean; guards green.
 - R18: methodology anchor on /about (footer link target).
 - GRANDFATHER NOTES (locks never move backwards): /crypto full list, terminal hot table, custom stress input and share-card
   export remain free as currently shipped; homepage previews carry the locks instead. Logged per locked-data-strategy rule 5.
+
+## Route 10 — /quiz (DONE)
+URL unchanged (rule 1). ANON: professional gate — what the check calibrates, the output preview
+(configured-terminal snapshot panel), single CTA 'Create a free account to run it' + sign-in line;
+ZERO questions in anonymous DOM. AUTHED (detected via accounts.js): 4 instrument-style steps
+(Universe / Concentration / Valuation lens / Risk watch) as chip selectors — no personas, no emoji,
+no progress-bar hero; output = preset summary + suggested 10-ticker watchlist (from live universe,
+editable) + 'Open your terminal'. Skippable (event calibration_skipped); save stores calibration +
+fires calibration_completed. Metas/OG/Twitter/schema reframed; old quiz.js engine no longer loaded
+(file retained). Dashboard activation strip links here (offered once post-signup, skippable).

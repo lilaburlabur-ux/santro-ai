@@ -5,25 +5,25 @@
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-title" content="Santro AI" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-<title>What Kind of AI-Market Trader Are You? — 60-Second Bubble Check | Santro AI</title>
+<title>Exposure Check — calibrate your Santro terminal | Santro AI</title>
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"/>
 <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png"/>
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"/>
 <link rel="manifest" href="/manifest.json" />
-<meta name="description" content="Take the 60-second AI bubble check and get your Santro market profile — how you read AI stocks, ETFs and crypto, and which tools fit: bubble risk, fair-value calculator, watchlist, alerts. No buy/sell signals. Not financial advice."/>
+<meta name="description" content="The Exposure Check calibrates your Santro terminal — universe, concentration, valuation lens and risk watch. Output: a configured terminal snapshot with a suggested watchlist. Free account required to run it."/>
 <link rel="canonical" href="https://santroai.tech/quiz"/>
 <meta property="og:type" content="website"/><meta property="og:site_name" content="Santro AI"/>
-<meta property="og:title" content="What kind of AI-market trader are you?"/>
-<meta property="og:description" content="The 60-second AI bubble check — get your Santro market profile. No buy/sell signals, just a cleaner way to read the AI trade."/>
+<meta property="og:title" content="Exposure Check — calibrate your Santro terminal"/>
+<meta property="og:description" content="Four instrument-style steps. Output: preset dashboard + suggested watchlist. Scenario outputs, not advice."/>
 <meta property="og:url" content="https://santroai.tech/quiz"/>
 <meta property="og:image" content="https://santroai.tech/assets/og-map.png"/>
-<meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="What kind of AI-market trader are you?"/>
-<meta name="twitter:description" content="Take the 60-second AI bubble check and get your Santro market profile."/>
+<meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Exposure Check — calibrate your Santro terminal"/>
+<meta name="twitter:description" content="Four instrument-style steps; output is a configured terminal snapshot. Free account."/>
 <meta name="twitter:image" content="https://santroai.tech/assets/og-map.png"/>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
  {"@type":"ListItem","position":1,"name":"Home","item":"https://santroai.tech/"},
- {"@type":"ListItem","position":2,"name":"AI Bubble Check","item":"https://santroai.tech/quiz"}]}
+ {"@type":"ListItem","position":2,"name":"Exposure Check","item":"https://santroai.tech/quiz"}]}
 </script>
 <link rel="stylesheet" href="/site.css?v=13"/>
 <style>
@@ -379,31 +379,128 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 </div>
 <script src="/nav.js?v=5" defer></script>
 </header>
-  <main class="qz">
-    <h1>What kind of AI-market trader are you?</h1>
-    <p class="lede">Take the <b style="color:var(--text)">60-second AI bubble check</b> and get your Santro
-    market profile — how you actually read the AI trade, and which tools fit the way you think.</p>
-    <p class="sup">No buy/sell signals. No fake certainty. Just a cleaner way to read the AI trade.</p>
 
-    <div class="qbar" aria-hidden="true"><i id="qfill" style="width:0%"></i></div>
-    <div class="qstep" id="qstep">Question 1 of 8</div>
-    <div id="qmount"></div>
+<style>
+.xc{max-width:1240px;margin:0 auto;padding:26px clamp(18px,2vw,32px) 60px;}
+.xc .k{display:block;font-size:11px;font-weight:800;letter-spacing:.16em;text-transform:uppercase;color:var(--faint);margin-bottom:9px;}
+.xc h1{font-size:clamp(30px,2.6vw,40px);margin:0 0 10px;color:var(--text);}
+.xc .lead{color:var(--muted);max-width:62ch;line-height:1.65;margin:0 0 22px;font-size:15.5px;}
+.xc-grid{display:grid;grid-template-columns:3fr 2fr;gap:26px;align-items:start;}
+.xc-panel{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:20px;}
+.xc-klabel{font-size:10.5px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--faint);margin:0 0 10px;}
+.xc-row{display:flex;justify-content:space-between;gap:10px;padding:9px 2px;border-top:1px solid var(--border-soft);font-size:13.5px;font-variant-numeric:tabular-nums;}
+.xc-row b{color:var(--text);} .xc-row span{color:var(--muted);}
+.xc-cta{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:0 24px;border-radius:11px;font-weight:700;font-size:14.5px;background:var(--green);color:var(--bg);border:1px solid var(--green);}
+.xc-alt{display:inline-flex;align-items:center;min-height:48px;padding:0 18px;border-radius:11px;font-weight:600;font-size:13.5px;border:1px solid var(--border);color:var(--muted);}
+.xc-step{margin:0 0 18px;}
+.xc-step h3{font-size:14px;color:var(--text);margin:0 0 4px;}
+.xc-step p{font-size:12.5px;color:var(--faint);margin:0 0 10px;}
+.xc-chips{display:flex;gap:8px;flex-wrap:wrap;}
+.xc-chip{border:1px solid var(--border);background:var(--elev);border-radius:999px;padding:10px 16px;
+  font-size:13px;font-weight:700;color:var(--muted);cursor:pointer;min-height:44px;}
+.xc-chip.on{border-color:var(--green);color:var(--green);}
+.xc-bars .bar{height:8px;border-radius:999px;background:var(--elev);overflow:hidden;margin:6px 0 12px;}
+.xc-bars .bar i{display:block;height:100%;background:var(--green);border-radius:999px;}
+@media(max-width:900px){.xc-grid{grid-template-columns:1fr;}}
+</style>
 
-    <section style="margin-top:26px">
-      <h2 style="font-size:16px;margin:0 0 6px">The five Santro market profiles</h2>
-      <p class="lede" style="font-size:13px"><b style="color:var(--text)">Narrative Hunter</b> — follows attention
-      before the story becomes consensus; hot tickers and AI crypto movers are the toolkit.
-      <b style="color:var(--text)">Valuation Skeptic</b> — asks whether the story is already priced in; lives in the
-      fair-value calculator and bubble-risk gauge. <b style="color:var(--text)">Infrastructure Mapper</b> — reads the
-      AI trade through chips, power, data centers and second-order names. <b style="color:var(--text)">Risk
-      Watcher</b> — tracks crowding, short-watch pages and alerts. <b style="color:var(--text)">Daily Terminal
-      User</b> — wants one clean AI market check every day: terminal, watchlist, daily brief.</p>
-    </section>
-    <p class="nfa">Your answers stay in your browser (we don't collect them without an account).
-    Quotes may be delayed by approximately 15 minutes. Real-time data planned for Pro.
-    Education, not financial advice — no buy or sell recommendations, ever.</p>
-  </main>
-  <!-- mega-footer v1 -->
+<main class="xc">
+  <span class="k">Tools · account feature</span>
+  <h1>Exposure Check</h1>
+
+  <!-- anonymous gate: professional, no questions in the DOM -->
+  <section id="xc-gate">
+    <p class="lead">The Exposure Check calibrates your terminal. Four instrument-style steps — universe,
+    concentration, valuation lens, risk watch — and the output is a configured terminal snapshot:
+    a preset dashboard and a suggested watchlist you can edit. It takes about a minute, and it's
+    offered once after signup too, skippable.</p>
+    <div class="xc-grid">
+      <div>
+        <p style="margin:0 0 14px"><a class="xc-cta" href="/signup">Create a free account to run it</a></p>
+        <p style="font-size:12.5px;color:var(--faint)">Already have one? <a href="/signin" style="font-weight:700">Sign in</a> — this page unlocks in place.
+        Scenario outputs, not advice. Quotes delayed ~15 min.</p>
+      </div>
+      <div class="xc-panel" aria-label="Example output — configured terminal snapshot">
+        <p class="xc-klabel">Your output — a configured terminal</p>
+        <div class="xc-row"><b>Preset dashboard</b><span>bubble gauge · your themes first</span></div>
+        <div class="xc-row"><b>Suggested watchlist</b><span>10 names, editable</span></div>
+        <div class="xc-row"><b>Default risk view</b><span>scenarios or index, your pick</span></div>
+        <div class="xc-bars" style="margin-top:12px">
+          <div style="font-size:11px;color:var(--faint)">theme weighting preview</div>
+          <div class="bar"><i style="width:62%"></i></div>
+          <div class="bar"><i style="width:38%"></i></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- calibration renders ONLY for authenticated users (built by JS) -->
+  <section id="xc-run" hidden></section>
+</main>
+
+<script src="/accounts/config.js?v=3"></script>
+<script src="/accounts/api.js?v=12"></script>
+<script src="/accounts/accounts.js?v=15"></script>
+<script>
+(function(){
+"use strict";
+var STEPS=[
+ {id:"universe",t:"Universe",p:"What does your AI exposure live in?",o:["AI stocks","AI ETFs","AI crypto","All of it"]},
+ {id:"conc",t:"Concentration",p:"How is it distributed?",o:["A few concentrated names","Spread across themes","Mostly ETFs","Holdings plus cash buffer"]},
+ {id:"lens",t:"Valuation lens",p:"How do you read a price?",o:["Growth-forward","Value-sensitive","Implied-growth checker"]},
+ {id:"risk",t:"Risk watch",p:"Which risk view opens first?",o:["Bubble Index","Drawdown scenarios","Filing trackers"]}];
+var THEME_BY_UNIVERSE={"AI stocks":["ai_chips","software"],"AI ETFs":["etf"],"AI crypto":["crypto"],"All of it":["ai_chips","power"]};
+function authed(){return !!document.getElementById("sa-acct");}
+function build(){
+  var run=document.getElementById("xc-run"),gate=document.getElementById("xc-gate");
+  gate.hidden=true; run.hidden=false;
+  run.innerHTML='<p class="lead">Four steps. No personas — the output is a terminal configuration.</p>'+
+   '<div class="xc-grid"><div class="xc-panel">'+
+   STEPS.map(function(st){return '<div class="xc-step" data-step="'+st.id+'"><h3>'+st.t+'</h3><p>'+st.p+'</p>'+
+     '<div class="xc-chips">'+st.o.map(function(o){return '<button class="xc-chip" data-v="'+o+'">'+o+'</button>';}).join("")+'</div></div>';}).join("")+
+   '<p style="margin:14px 0 0"><button class="xc-cta" id="xc-save">Save calibration</button> '+
+   '<a class="xc-alt" href="/terminal" id="xc-skip">Skip — open the terminal</a></p></div>'+
+   '<div class="xc-panel" id="xc-out"><p class="xc-klabel">Output preview</p><p style="font-size:13px;color:var(--muted)">Pick options to preview your configuration.</p></div></div>';
+  run.addEventListener("click",function(e){
+    var c=e.target.closest(".xc-chip"); if(c){var g=c.closest(".xc-step");
+      g.querySelectorAll(".xc-chip").forEach(function(x){x.classList.remove("on");}); c.classList.add("on"); preview();}
+  });
+  document.getElementById("xc-save").addEventListener("click",save);
+  document.getElementById("xc-skip").addEventListener("click",function(){ if(window.SantroEvents)SantroEvents.track("calibration_skipped",{});});
+}
+function picks(){var out={};document.querySelectorAll(".xc-step").forEach(function(g){
+  var on=g.querySelector(".xc-chip.on"); if(on)out[g.dataset.step]=on.dataset.v;});return out;}
+function preview(){
+  var p=picks(), el=document.getElementById("xc-out");
+  fetch("/universe.json?t="+Date.now()).then(function(r){return r.json();}).then(function(u){
+    var all=[];u.bubbles.forEach(function(b){b.tickers.forEach(function(t){t._b=b.id;all.push(t);});});
+    all.sort(function(a,b){return (b.market_cap_b||0)-(a.market_cap_b||0);});
+    var wl=all.slice(0,10).map(function(t){return t.ticker;});
+    el.innerHTML='<p class="xc-klabel">Output preview</p>'+
+     '<div class="xc-row"><b>Universe</b><span>'+(p.universe||"—")+'</span></div>'+
+     '<div class="xc-row"><b>Concentration</b><span>'+(p.conc||"—")+'</span></div>'+
+     '<div class="xc-row"><b>Lens</b><span>'+(p.lens||"—")+'</span></div>'+
+     '<div class="xc-row"><b>Risk view</b><span>'+(p.risk||"—")+'</span></div>'+
+     '<div class="xc-row"><b>Suggested watchlist</b><span>'+wl.slice(0,5).join(" · ")+" +5</span></div>'+
+     '<p style="font-size:11.5px;color:var(--faint);margin:10px 0 0">Editable after save. Scenario outputs, not advice.</p>';
+  });
+}
+function save(){
+  var p=picks();
+  if(Object.keys(p).length<4){alert("Pick one option in each step.");return;}
+  try{localStorage.setItem("santro_calibration",JSON.stringify({v:1,at:Date.now(),picks:p}));}catch(e){}
+  if(window.SantroEvents)SantroEvents.track("calibration_completed",{});
+  var el=document.getElementById("xc-out");
+  el.insertAdjacentHTML("beforeend",'<p style="margin:12px 0 0"><a class="xc-cta" href="/terminal">Open your terminal</a></p>');
+}
+var tries=0,iv=setInterval(function(){
+  if(authed()){clearInterval(iv);build();}
+  else if(++tries>16)clearInterval(iv);
+},400);
+})();
+</script>
+
+<!-- mega-footer v1 -->
 <!-- mega-footer v1 -->
 <!-- mega-footer v1 -->
 <!-- mega-footer v1 -->
@@ -557,6 +654,5 @@ function t(){if(!mq.matches)return;var c=h.parentElement;c.classList.toggle("ope
 h.addEventListener("click",t);h.addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){e.preventDefault();t();}});});}
 arm();mq.addEventListener?mq.addEventListener("change",arm):mq.addListener(arm);})();</script>
 </footer>
-<script src="/quiz.js?v=1"></script>
 <script>SantroQuiz.mount({mount:"qmount",fill:"qfill",step:"qstep"});</script>
 </body></html>

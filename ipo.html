@@ -444,8 +444,12 @@ async function load(){
     el.innerHTML=`<div style="padding:50px 0;color:var(--muted)"><h1>Not found</h1>
       <p>That company isn't on our pre-IPO watchlist. <a class="btn" href="/ipos">← Back to AI IPOs</a></p></div>`; return; }
   document.title=`${c.name} — pre-IPO | Santro AI`;
-  // recent coverage matching the company name — ZeroHedge + general news, merged
-  const rx=new RegExp(c.name.replace(/[^a-z0-9 ]/gi,"").split(/\s+/)[0], "i");
+  // recent coverage matching the company — whole-phrase, word-boundary matching
+  // against curated aliases (never a bare first-word substring: "SK" must not
+  // match Zelensky/Sandisk/TaskUs). Falls back to the full company name.
+  const names=(c.aliases&&c.aliases.length?c.aliases:[c.name]);
+  const rx=new RegExp(names.map(a=>"\\b"+a.trim()
+      .replace(/[.*+?^${}()|[\]\\]/g,"\\$&").replace(/\s+/g,"\\s+")+"\\b").join("|"), "i");
   const cov=[], seen=new Set();
   const add=(title,link,published,src)=>{
     const k=(title||"").toLowerCase().slice(0,50);
@@ -460,15 +464,18 @@ async function load(){
     <div class="pi-head"><h1>${c.name}</h1>
       <span class="pi-status${/filed/i.test(c.status)?" filed":""}">${c.status}</span></div>
     <p class="lede" style="margin-top:-6px">${c.what}</p>
-    <div class="valbox"><div class="k">Last valuation (approx)</div><div class="v">${c.valuation}</div></div>
-    <p style="color:var(--muted);max-width:760px;font-size:13.5px">${c.name} has no public ticker yet —
+    ${c.valuation&&c.valuation!=="\u2014"?`<div class="valbox"><div class="k">Last valuation (approx)</div><div class="v">${c.valuation}</div></div>`:""}
+    <p style="color:var(--muted);max-width:760px;font-size:13.5px">${c.name} has no U.S. public ticker yet —
     this is a watch profile. Valuation is approximate, drawn from public reporting, and the company is
     not affiliated with Santro AI. When it lists, it moves to the <a class="btn" href="/ipos">recently
     listed</a> table with delayed market data (~15 min).</p>
     ${items.length?`<div class="sec-label">News coverage</div>`+items.map(it=>`
       <div class="newsrow"><a href="${it.link||"#"}" target="_blank" rel="noopener">${it.title}</a>
-        <div class="m">${it.src||"News"}${it.published?" · "+timeAgo(it.published):""}</div></div>`).join(""):""}
-    <p style="margin-top:18px"><a class="btn" href="/ipos">← All AI IPOs</a></p>`;
+        <div class="m">${it.src||"News"}${it.published?" · "+timeAgo(it.published):""}</div></div>`).join("")
+      :`<div class="sec-label">News coverage</div>
+      <p style="color:var(--muted);font-size:13.5px">No coverage naming ${c.name} in the current feed —
+      we only show stories that actually mention the company, never filler.</p>`}
+    <p style="margin-top:18px">${c.brief?`<a class="btn" href="${c.brief}">Read the Santro filing brief →</a>&nbsp;&nbsp;`:""}<a class="btn" href="/ipos">← All AI IPOs</a></p>`;
 }
 load();
 </script>

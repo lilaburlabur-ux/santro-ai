@@ -83,7 +83,13 @@ def main():
             print(f"  partial {ticker}: {e}")
         listed.append(row)
 
-    preipo = [{"name": n, "slug": s, "what": w, "valuation": val, "status": st}
+    try:
+        from ipos import ALIASES
+    except ImportError:
+        ALIASES = {}
+    preipo = [{"name": n, "slug": s, "what": w, "valuation": val, "status": st,
+               "aliases": ALIASES.get(s, [n]),
+               **({"brief": f"/ipos/{s}"} if os.path.exists(os.path.join(HERE, "ipos", f"{s}.html")) else {})}
               for n, s, w, val, st in PREIPO]
 
     json.dump({

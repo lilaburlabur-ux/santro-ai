@@ -25,10 +25,18 @@ FEEDS = [
 ]
 UA = {"User-Agent": "SantroAI/1.0 (+https://santroai.tech; hello@santroai.tech)"}
 
-# company name -> match regex (first distinctive word of the name)
-_NAMES = [c[1] for c in LISTED] + [p[0] for p in PREIPO]
-NAMES = {name: re.compile(r"\b" + re.escape(name.split()[0]) + r"\b", re.I)
-         for name in _NAMES}
+# company name -> match regex: whole-name phrase with word boundaries, plus
+# curated aliases for pre-IPO names (first-word matching mistagged "SK hynix
+# US ADS" onto any headline containing an "SK" word)
+try:
+    from ipos import ALIASES
+except ImportError:
+    ALIASES = {}
+def _rx(phrases):
+    parts = [r"\b" + re.escape(p.strip()).replace(r"\ ", r"\s+") + r"\b" for p in phrases]
+    return re.compile("|".join(parts), re.I)
+NAMES = {c[1]: _rx([c[1]]) for c in LISTED}
+NAMES.update({p[0]: _rx(ALIASES.get(p[1], [p[0]])) for p in PREIPO})
 
 
 def main():

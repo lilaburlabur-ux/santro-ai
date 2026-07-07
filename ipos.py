@@ -11,6 +11,24 @@ are approximate, from public reporting; maintain them like a watchlist.
 """
 
 # ticker, company, ipo_date (YYYY-MM-DD), ipo_price (offering $)
+
+# slug -> title-match aliases for news coverage (word/phrase-boundary matched).
+# Keep tight: company name variants + reported tickers only — a bad alias
+# re-creates the "Zelensky matched SK" bug this map exists to prevent.
+ALIASES = {
+    "anthropic":    ["Anthropic", "Claude"],
+    "openai":       ["OpenAI", "ChatGPT", "Sam Altman"],
+    "xai":          ["xAI", "Grok"],
+    "databricks":   ["Databricks"],
+    "anduril":      ["Anduril", "Palmer Luckey"],
+    "mistral":      ["Mistral"],
+    "cerebras":     ["Cerebras"],
+    "syntiant":     ["Syntiant", "SYTN"],
+    "sk-hynix-adr": ["SK hynix", "SKHY", "Hynix"],
+    "csquare":      ["Csquare", "CSQR"],
+    "genxai":       ["GenXAI"],
+}
+
 LISTED = [
     ("SPCX", "SpaceX",            "2026-06-12", 135.00),
     ("QNT",  "Quantinuum",        "2026-06-04", 60.00),

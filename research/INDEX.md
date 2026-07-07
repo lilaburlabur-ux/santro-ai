@@ -1,9 +1,9 @@
-# Watchlist Research Index — 06.07.2026
-> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-07-06.
+# Watchlist Research Index — 07.07.2026
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-07-07.
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
-| NVDA | $4.74T | +25% | 15.3 | 63% | Moderate | Reasonable | High |
+| NVDA | $4.74T | +24% | 15.3 | 63% | Moderate | Reasonable | High |
 | TSM | $2.34T | +96% | 22.3 | 47% | High | Fair-to-demanding | Elevated |
 | AVGO | $1.78T | +40% | 19.3 | 39% | Moderate | Reasonable | Elevated |
 | MU | $1.11T | +711% | 6.6 | 56% | High | Reasonable | High |

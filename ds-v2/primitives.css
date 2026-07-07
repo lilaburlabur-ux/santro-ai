@@ -1,0 +1,193 @@
+/* ============================================================
+   Santro AI — ds_v2 primitives (Phase 1)
+   Tokens only (var --st- / --gl- / --sc-). Every rule scoped to
+   .ds-v2 — inert while the flag is off. Enforced by stylelint +
+   ci/audit-colors.mjs. Spec: docs/ds-v2 + design-lab gallery.
+   ============================================================ */
+@layer ds-v2 {
+
+  /* 00 · box model — ds_v2 surfaces may render without legacy global CSS */
+  .ds-v2 *, .ds-v2 *::before, .ds-v2 *::after { box-sizing: border-box; }
+
+  /* 01 · link (base rule lives in tokens.css; this adds variants) */
+  .ds-v2 .ds-link-dim { color: var(--st-ink-dim); }
+  .ds-v2 .ds-link-dim:hover { color: var(--st-ink); }
+
+  /* 02 · button — primary / secondary / ghost / destructive · 28/36/44 */
+  .ds-v2 .ds-btn {
+    display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+    height: 36px; padding: 0 16px; border-radius: var(--r-control);
+    font: 600 14px/1 var(--font-sans); cursor: pointer; white-space: nowrap;
+    border: 1px solid transparent; background: none; color: var(--st-ink);
+    transition: background .12s, color .12s, border-color .12s;
+  }
+  .ds-v2 .ds-btn--sm { height: 28px; padding: 0 12px; font-size: 12px; }
+  .ds-v2 .ds-btn--lg { height: 44px; padding: 0 20px; font-size: 15px; }
+  .ds-v2 .ds-btn--primary { background: var(--st-green); color: var(--st-green-ink); }
+  .ds-v2 .ds-btn--primary:hover { background: var(--st-link-hover); }
+  .ds-v2 .ds-btn--secondary { border-color: var(--st-border-strong); color: var(--st-ink); }
+  .ds-v2 .ds-btn--secondary:hover { background: var(--st-bg-2); }
+  .ds-v2 .ds-btn--ghost { color: var(--st-green); }
+  .ds-v2 .ds-btn--ghost:hover { background: var(--st-bg-2); }
+  .ds-v2 .ds-btn--destructive { border-color: var(--st-red); color: var(--st-red); }
+  .ds-v2 .ds-btn--destructive:hover { background: var(--st-bg-2); }
+  .ds-v2 .ds-btn[disabled], .ds-v2 .ds-btn--disabled { opacity: .4; pointer-events: none; }
+  .ds-v2 .ds-btn--loading { pointer-events: none; }
+  .ds-v2 .ds-spinner {
+    width: 12px; height: 12px; border-radius: 999px;
+    border: 2px solid var(--st-border-strong); border-top-color: var(--st-green);
+    animation: ds-spin .7s linear infinite;
+  }
+  @keyframes ds-spin { to { transform: rotate(360deg); } }
+  @media (max-width: 720px) { .ds-v2 .ds-btn { height: 44px; } .ds-v2 .ds-btn--sm { height: 36px; } }
+
+  /* 03 · card — panel / interactive / empty */
+  .ds-v2 .ds-card {
+    background: var(--st-bg-1); border: 1px solid var(--st-border);
+    border-radius: var(--r-card); padding: var(--sp-4);
+  }
+  .ds-v2 .ds-card--interactive { display: block; color: inherit; }
+  .ds-v2 .ds-card--interactive:hover { background: var(--st-bg-2); border-color: var(--st-border-strong); }
+  .ds-v2 .ds-card--empty {
+    border-style: dashed; border-color: var(--st-border-strong);
+    display: flex; flex-direction: column; align-items: center; gap: var(--sp-3);
+    color: var(--st-ink-dim); text-align: center; padding: var(--sp-6);
+  }
+
+  /* 04 · stat card — mono label + num + heat bar */
+  .ds-v2 .ds-stat { background: var(--st-bg-1); border: 1px solid var(--st-border); border-radius: var(--r-card); padding: var(--sp-4); }
+  .ds-v2 .ds-stat__label { font: 600 10px/1 var(--font-mono); letter-spacing: .14em; text-transform: uppercase; color: var(--st-ink-dim); }
+  .ds-v2 .ds-stat__num { font: 600 32px/1.1 var(--font-mono); font-variant-numeric: tabular-nums; color: var(--st-ink); margin: var(--sp-2) 0; }
+  .ds-v2 .ds-stat__num--up { color: var(--st-green); }
+  .ds-v2 .ds-stat__num--down { color: var(--st-red); }
+  .ds-v2 .ds-heatbar { height: 4px; border-radius: 999px; background: var(--st-border); overflow: hidden; }
+  .ds-v2 .ds-heatbar > i { display: block; height: 100%; border-radius: 999px; background: var(--st-green); }
+  .ds-v2 .ds-heatbar--warm > i { background: var(--st-amber); }
+  .ds-v2 .ds-heatbar--hot > i { background: var(--st-red); }
+  .ds-v2 .ds-stat--error { border-color: var(--st-red); }
+  .ds-v2 .ds-stat--error .ds-stat__label { color: var(--st-red); }
+
+  /* 05 · table / watchlist row — desktop only, cards below 720px */
+  .ds-v2 .ds-table { width: 100%; border-collapse: collapse; }
+  .ds-v2 .ds-row {
+    display: grid; grid-template-columns: 1.2fr 1fr 1fr 1fr .6fr;
+    align-items: center; height: 36px; padding: 0 var(--sp-3);
+    border-bottom: 1px solid var(--st-border); font: 500 13px/1 var(--font-sans);
+  }
+  .ds-v2 .ds-row:hover { background: var(--st-bg-2); }
+  .ds-v2 .ds-row .num { text-align: right; }
+  .ds-v2 .ds-row__sym { font: 600 13px/1 var(--font-mono); color: var(--st-ink); }
+  @media (max-width: 720px) { .ds-v2 .ds-row { display: none; } }
+
+  /* 06 · mobile ticker card — 52px touch row, shown under 720px */
+  .ds-v2 .ds-tickercard {
+    display: none; align-items: center; gap: var(--sp-3); min-height: 52px;
+    padding: var(--sp-2) var(--sp-3); border-bottom: 1px solid var(--st-border);
+  }
+  .ds-v2 .ds-tickercard:active { background: var(--st-bg-2); }
+  @media (max-width: 720px) { .ds-v2 .ds-tickercard { display: flex; } }
+
+  /* 07 · ticker chip — true pill at any height */
+  .ds-v2 .ds-chip {
+    display: inline-flex; align-items: center; gap: 6px;
+    height: 28px; padding: 0 12px; border-radius: var(--r-pill);
+    background: var(--st-bg-1); border: 1px solid var(--st-border);
+    font: 600 12px/1 var(--font-mono); font-variant-numeric: tabular-nums; color: var(--st-ink);
+  }
+  .ds-v2 .ds-chip--up { border-color: var(--st-green); color: var(--st-green); }
+  .ds-v2 .ds-chip--down { border-color: var(--st-red); color: var(--st-red); }
+  @media (max-width: 720px) { .ds-v2 .ds-chip { height: 44px; padding: 0 16px; } }
+
+  /* 08 · modal & mobile drawer */
+  .ds-v2 .ds-scrim { position: fixed; inset: 0; z-index: 90; background: var(--st-bg-0); opacity: .75; }
+  .ds-v2 .ds-modal {
+    position: fixed; z-index: 91; left: 50%; top: 50%; transform: translate(-50%, -50%);
+    width: 400px; max-width: calc(100vw - 32px);
+    background: var(--st-bg-1); border: 1px solid var(--st-border-strong);
+    border-radius: var(--r-card); padding: var(--sp-5);
+  }
+  @media (max-width: 720px) {
+    .ds-v2 .ds-modal {
+      top: auto; bottom: 0; left: 0; transform: none; width: 100%; max-width: none;
+      border-radius: var(--r-card) var(--r-card) 0 0; padding-bottom: var(--sp-6);
+    }
+    .ds-v2 .ds-modal::before {
+      content: ""; display: block; width: 36px; height: 4px; border-radius: 999px;
+      background: var(--st-border-strong); margin: 0 auto var(--sp-4);
+    }
+  }
+
+  /* 09 · inputs / select / textarea */
+  .ds-v2 .ds-input, .ds-v2 .ds-select, .ds-v2 .ds-textarea {
+    width: 100%; background: var(--st-bg-0); border: 1px solid var(--st-border-strong);
+    border-radius: var(--r-control); color: var(--st-ink);
+    font: 500 14px/1.4 var(--font-sans); padding: 10px 12px;
+  }
+  .ds-v2 .ds-input { height: 36px; padding: 0 12px; }
+  .ds-v2 .ds-select { height: 36px; padding: 0 32px 0 12px; appearance: none; }
+  .ds-v2 .ds-textarea { min-height: 96px; resize: vertical; font-family: var(--font-mono); font-size: 13px; }
+  .ds-v2 .ds-input::placeholder, .ds-v2 .ds-textarea::placeholder { color: var(--st-ink-faint); }
+  .ds-v2 :is(.ds-input, .ds-select, .ds-textarea):hover { border-color: var(--st-ink-faint); }
+  .ds-v2 :is(.ds-input, .ds-select, .ds-textarea):focus { outline: 2px solid var(--st-focus-ring); outline-offset: 1px; }
+  .ds-v2 :is(.ds-input, .ds-select, .ds-textarea)[disabled] { opacity: .4; }
+  .ds-v2 .ds-input--error, .ds-v2 .ds-textarea--error { border-color: var(--st-red); }
+  .ds-v2 .ds-field__hint { font: 500 12px/1.4 var(--font-sans); color: var(--st-ink-dim); margin-top: 4px; }
+  .ds-v2 .ds-field__hint--error { color: var(--st-red); }
+  .ds-v2 .ds-selectwrap { position: relative; }
+  .ds-v2 .ds-selectwrap::after {
+    content: ""; position: absolute; right: 12px; top: 50%; margin-top: -3px;
+    border-left: 4px solid transparent; border-right: 4px solid transparent;
+    border-top: 5px solid var(--st-ink-dim); pointer-events: none;
+  }
+  @media (max-width: 720px) { .ds-v2 .ds-input, .ds-v2 .ds-select { height: 44px; } }
+
+  /* 10 · badge / status pill */
+  .ds-v2 .ds-badge {
+    display: inline-flex; align-items: center; gap: 5px; height: 20px; padding: 0 8px;
+    border-radius: var(--r-pill); font: 600 10px/1 var(--font-mono);
+    letter-spacing: .1em; text-transform: uppercase;
+    border: 1px solid var(--st-border-strong); color: var(--st-ink-dim);
+  }
+  .ds-v2 .ds-badge--live { border-color: var(--st-green); color: var(--st-green); }
+  .ds-v2 .ds-badge--warn { border-color: var(--st-amber); color: var(--st-amber); }
+  .ds-v2 .ds-badge--risk { border-color: var(--st-red); color: var(--st-red); }
+
+  /* 11 · empty / error / loading states */
+  .ds-v2 .ds-empty { color: var(--st-ink-dim); text-align: center; padding: var(--sp-6); font: 500 14px/1.6 var(--font-sans); }
+  .ds-v2 .ds-error {
+    border: 1px solid var(--st-red); border-radius: var(--r-card);
+    padding: var(--sp-4); color: var(--st-ink); font: 500 13px/1.5 var(--font-sans);
+  }
+  .ds-v2 .ds-error__tag { font: 600 10px/1 var(--font-mono); letter-spacing: .12em; color: var(--st-red); }
+  .ds-v2 .ds-skeleton {
+    position: relative; overflow: hidden; border-radius: var(--r-control);
+    background: var(--st-bg-2); color: transparent; user-select: none;
+  }
+  .ds-v2 .ds-skeleton::after {
+    content: ""; position: absolute; inset: 0; transform: translateX(-100%);
+    background: var(--st-bg-1); opacity: .6;
+    animation: ds-shimmer 1.4s infinite;
+  }
+  @keyframes ds-shimmer { to { transform: translateX(100%); } }
+
+  /* 12 · share-card frame — glass + contrarian heat (export surfaces only) */
+  .ds-v2 .ds-glassframe {
+    background: var(--gl-bg); border: 1px solid var(--gl-border);
+    border-radius: var(--r-glass); box-shadow: var(--gl-glow);
+    color: var(--st-ink); padding: var(--sp-5);
+  }
+  .ds-v2 .ds-glassframe__panel { background: var(--gl-panel); border: 1px solid var(--gl-border); border-radius: var(--r-card); padding: var(--sp-3); }
+  .ds-v2 .ds-heat--calm { color: var(--sc-heat-green); }
+  .ds-v2 .ds-heat--warm { color: var(--sc-heat-amber); }
+  .ds-v2 .ds-heat--hot { color: var(--sc-heat-red); }
+
+  /* 13 · stress-test result frame */
+  .ds-v2 .ds-stress { border: 1px solid var(--st-border); border-radius: var(--r-card); background: var(--st-bg-1); padding: var(--sp-4); }
+  .ds-v2 .ds-stress__cell { border: 1px solid var(--st-border); border-radius: var(--r-control); padding: var(--sp-3); }
+  .ds-v2 .ds-stress__cell--drawdown { border-color: var(--st-red); }
+  .ds-v2 .ds-stress__bar { height: 6px; border-radius: 999px; background: var(--st-border); overflow: hidden; }
+  .ds-v2 .ds-stress__bar > i { display: block; height: 100%; background: var(--st-red); }
+
+  /* 14 · chart theme hooks (consumed by JS chart config in Phase 5) */
+  .ds-v2 .ds-chart { --chart-line: var(--st-green); --chart-down: var(--st-red); --chart-threshold: var(--st-amber); --chart-grid: var(--st-border); --chart-axis: var(--st-ink-dim); }
+}

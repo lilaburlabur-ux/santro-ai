@@ -23,7 +23,14 @@
   /* Adds .ds-v2 to <html> only when enabled — tokens.css rules are all
      scoped to that class (variables on :root are inert by definition). */
   function applyDesignFlags(root) {
-    (root || document.documentElement).classList.toggle("ds-v2", isEnabled("ds_v2"));
+    var on = isEnabled("ds_v2");
+    (root || document.documentElement).classList.toggle("ds-v2", on);
+    // fonts load ONLY when ds_v2 is active (handoff: no font cost flag-off)
+    if (on && !document.querySelector("link[data-ds-fonts]")) {
+      var l = document.createElement("link");
+      l.rel = "stylesheet"; l.href = "/ds-v2/fonts.css"; l.setAttribute("data-ds-fonts", "1");
+      (document.head || document.documentElement).appendChild(l);
+    }
   }
   window.SantroFlags = { isEnabled: isEnabled, flagOn: flagOn, flagOff: flagOff, applyDesignFlags: applyDesignFlags };
   applyDesignFlags();

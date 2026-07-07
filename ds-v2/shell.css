@@ -1,0 +1,67 @@
+/* ============================================================
+   Santro AI — ds_v2 shell skin (Phase 2)
+   Restyles the existing generated header/footer when the flag is
+   on. Deliberately UNLAYERED: the legacy header/footer styles are
+   unlayered inline <style> blocks, and unlayered CSS always beats
+   @layer ds-v2 — so this file must fight in the same (unlayered)
+   cascade. All selectors are .ds-v2-scoped: inert flag-off.
+   Tokens only. Structure/behavior (menus, drawer, search, auth)
+   is untouched — this is a skin, per Phase 2 scope.
+   ============================================================ */
+
+/* ── page base ── */
+.ds-v2 body { background: var(--st-bg-0); color: var(--st-ink); font-family: var(--font-sans); }
+
+/* ── header ── */
+.ds-v2 header.meganav { background: var(--st-bg-1); border-bottom: 1px solid var(--st-border); font-family: var(--font-sans); }
+.ds-v2 .meganav .mn-ls {
+  background: none; -webkit-text-fill-color: currentColor; color: var(--st-green);
+  font-family: var(--font-mono); font-weight: 700; letter-spacing: .04em;
+}
+.ds-v2 .meganav .mn-lr b { color: var(--st-ink); font-family: var(--font-mono); font-weight: 700; }
+.ds-v2 .meganav .mn-lr i { color: var(--st-ink-faint); }
+.ds-v2 .meganav .mn-beta { color: var(--st-amber); border-color: var(--st-amber); }
+.ds-v2 .meganav .mn-top { color: var(--st-ink-dim); font-family: var(--font-sans); }
+.ds-v2 .meganav .mn-item:hover > .mn-top, .ds-v2 .meganav .mn-item.open > .mn-top { color: var(--st-ink); }
+.ds-v2 .meganav .mn-item.on > .mn-top { color: var(--st-ink); border-bottom-color: var(--st-green); }
+.ds-v2 .meganav .mn-panel { background: var(--st-bg-1); border-bottom: 1px solid var(--st-border); box-shadow: none; }
+.ds-v2 .meganav .mn-link:hover { background: var(--st-bg-2); }
+.ds-v2 .meganav .mn-link b { color: var(--st-ink); }
+.ds-v2 .meganav .mn-link span { color: var(--st-ink-dim); }
+.ds-v2 .meganav .mn-desc { color: var(--st-ink-faint); }
+.ds-v2 .meganav .mn-b-live { color: var(--st-green); border-color: var(--st-green); }
+.ds-v2 .meganav .mn-b-acct { color: var(--st-amber); border-color: var(--st-amber); }
+.ds-v2 .meganav .mn-search .box { background: var(--st-bg-0); border-color: var(--st-border-strong); color: var(--st-ink-faint); }
+.ds-v2 .meganav .mn-search input { color: var(--st-ink); font-family: var(--font-mono); }
+.ds-v2 .meganav .mn-search .box:focus-within { border-color: var(--st-green); }
+.ds-v2 .meganav .mn-signin { color: var(--st-ink-dim); }
+.ds-v2 .meganav .mn-signin:hover { color: var(--st-ink); }
+.ds-v2 .meganav .mn-signup { background: var(--st-green); border-color: var(--st-green); color: var(--st-green-ink); white-space: nowrap; }
+.ds-v2 .meganav .mn-signup:hover { background: var(--st-link-hover); color: var(--st-green-ink); }
+.ds-v2 .meganav :is(a, button):focus-visible { outline: 2px solid var(--st-focus-ring); }
+.ds-v2 .meganav .mn-drawer { background: var(--st-bg-0); }
+.ds-v2 .meganav .mnd-quick a { background: var(--st-bg-1); border-color: var(--st-border); color: var(--st-ink); }
+.ds-v2 .meganav details.mnd-sec summary { color: var(--st-ink-dim); font-family: var(--font-mono); }
+.ds-v2 .meganav .mnd-sec a { color: var(--st-ink-dim); }
+.ds-v2 .meganav .mnd-cta .a1 { background: var(--st-green); border-color: var(--st-green); color: var(--st-green-ink); }
+.ds-v2 .meganav .mnd-cta .a2 { border-color: var(--st-border-strong); color: var(--st-ink); }
+.ds-v2 .meganav .mnd-foot { color: var(--st-ink-faint); }
+
+/* ── footer ── */
+.ds-v2 footer.mega { background: var(--st-bg-1); border-top: 1px solid var(--st-border); font-family: var(--font-sans); }
+.ds-v2 .mega .mg-logo { color: var(--st-ink); font-family: var(--font-mono); }
+.ds-v2 .mega .mg-logo span { color: var(--st-green); }
+.ds-v2 .mega .mg-tag, .ds-v2 .mega .mg-slogan { color: var(--st-ink-faint); }
+.ds-v2 .mega .mg-line, .ds-v2 .mega .mg-bsub { color: var(--st-ink-dim); }
+.ds-v2 .mega .mg-btitle { color: var(--st-ink); }
+.ds-v2 .mega a.mg-cta { background: var(--st-green); border-color: var(--st-green); color: var(--st-green-ink); }
+.ds-v2 .mega a.mg-cta:hover { background: var(--st-link-hover); }
+.ds-v2 .mega .mg-soon { color: var(--st-ink-faint); border-color: var(--st-border-strong); }
+.ds-v2 .mega .mg-col h4 { color: var(--st-ink-faint); font-family: var(--font-mono); }
+.ds-v2 .mega .mg-col a { color: var(--st-ink-dim); }
+.ds-v2 .mega .mg-col a:hover { color: var(--st-ink); }
+.ds-v2 .mega .mg-bottom { color: var(--st-ink-faint); }
+.ds-v2 .mega .mg-bottom a { color: var(--st-ink-dim); }
+.ds-v2 .mega .mg-bottom a:hover { color: var(--st-ink); }
+.ds-v2 .mega .mg-nfa { color: var(--st-ink-dim); }
+.ds-v2 .mega a:focus-visible { outline: 2px solid var(--st-focus-ring); }

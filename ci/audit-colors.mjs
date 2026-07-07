@@ -9,7 +9,7 @@
 import { readdirSync, readFileSync, statSync } from 'node:fs';
 import { join } from 'node:path';
 
-const ALLOWLIST = [/tokens\.css$/, /fonts(-editorial)?\.css$/, /tokens\.json$/, /audit-colors\.mjs$/];
+const ALLOWLIST = [/tokens\.css$/, /fonts(-editorial)?\.css$/, /tokens\.json$/, /audit-colors\.mjs$/, /gallery\.html$/ /* embeds the generated LEGACY shell for QA parity */];
 const EXTS = /\.(css|scss|less|js|jsx|ts|tsx|html|vue|svelte)$/;
 
 const HEX = /#[0-9a-fA-F]{3,8}\b/g;

@@ -39,6 +39,12 @@ PREIPO = [
      "~$14B",  "Private · pre-IPO"),
     ("Cerebras",   "cerebras",   "Wafer-scale AI training chips",
      "~$8B",   "Filed · S-1"),
+    ("Syntiant",   "syntiant",   "Ultra-low-power edge-AI chips (filed S-1, 2026-07-06)",
+     "—",      "Filed · S-1"),
+    ("SK hynix US ADS", "sk-hynix-adr", "HBM leader listing ADSs on Nasdaq — reported ~$28B raise",
+     "—",      "Filed · F-1"),
+    ("Csquare",    "csquare",    "Brookfield-backed AI data centers — reported $23–27 range",
+     "~$4.2B", "Filed · S-1"),
     ("GenXAI",     "genxai",     "AI analytics platform",
      "—",      "Private · pre-IPO"),
 ]

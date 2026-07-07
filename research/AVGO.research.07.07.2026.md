@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
-| Why does Apple still need Broadcom? The story behind their new AI deal | Yahoo Finance Video | 2026-07-06 |
+| A Circuit Board Problem Just Delayed Nvidia’s Next AI System to 2028 And Chip Stocks Are Already Feeling the Fallout | 24/7 Wall St. | 2026-07-07 |
+| 📉 Which Tech Stocks Fell the Most Today? | The Wall Street Journal | 2026-07-07 |
 | Semtech, Power Integrations, Amkor, Entegris, and Kulicke and Soffa Stocks Trade Down, What You Need To Know | StockStory | 2026-07-07 |
 | FormFactor, Penguin Solutions, Western Digital, Applied Materials, and KLA Corporation Shares Plummet, What You Need To Know | StockStory | 2026-07-07 |
-| DeepSeek Reportedly Develops AI Chip as Nvidia Shares Drop 2.2% | GuruFocus.com | 2026-07-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| 📉 Which Tech Stocks Fell the Most Today? | The Wall Street Journal | 2026-07-07 |
 | Update: Dow Snaps Record Run Amid Tech Sell-Off, Oil Price Jump | MT Newswires | 2026-07-07 |
-| US Equity Markets Lower as Semiconductor Stocks Fall, Crude Oil Prices Rise | MT Newswires | 2026-07-07 |
-| 📉 Which Tech Stocks Are Falling the Most Today? | The Wall Street Journal | 2026-07-07 |
-| Update: Chip Stocks Weigh on Equities Intraday; Oil Rises on Hormuz Tensions | MT Newswires | 2026-07-07 |
+| Intel, Micron, SpaceX, GE Vernova, Caterpillar, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-07 |
+| Samsung Fails To Impress | The Wall Street Journal | 2026-07-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -69,7 +69,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Profitability | Gross 51.50%, operating 14.48%, net 28.99% | ROA 3.81%, ROE 16.03% |
 | Balance sheet | Cash $3.84B, debt $5.28B | Current ratio 3.28, debt/equity 28.97 |
 | Valuation | P/E 79.01, forward P/E 37.34, P/S 23.15, P/B 11.09 | EV/Sales 25.18, EV/EBITDA 80.94 |
-| Growth expectations | Earnings growth -80.40%, EPS q/q -80.60% | Analyst mean target $249.33 (41 analysts) |
+| Growth expectations | Earnings growth -80.40%, EPS q/q -80.60% | Analyst mean target $252.26 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

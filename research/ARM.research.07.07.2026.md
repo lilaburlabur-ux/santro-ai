@@ -18,7 +18,7 @@ Signed file: `ARM.research.07.07.2026`
 | Technical momentum | High | 1Y +93.71%; price +68.07% vs SMA200. |
 | Fresh setup quality | Poor / broken | -31.64% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 18.37%, revenue growth 20.10%. |
-| Value attractiveness | Low (expensive) | Forward P/E 97.51, EV/Sales 69.32. |
+| Value attractiveness | Low (expensive) | Forward P/E 97.51, EV/Sales 64.59. |
 | Risk level | High | Beta 3.77, ATR 11.2% of price, short float 11.26%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: low (expensive), risk: high.
@@ -36,7 +36,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
-| 📉 Which Tech Stocks Are Falling the Most Today? | The Wall Street Journal | 2026-07-07 |
+| 📉 Which Tech Stocks Fell the Most Today? | The Wall Street Journal | 2026-07-07 |
 | AMD Feels Goldman’s Love, and the Stock Jumps | Barrons.com | 2026-07-06 |
 | UBS Remains Bullish on Arm Holdings (ARM) – Here’s Why | Insider Monkey | 2026-07-06 |
 | Why Arm Is a Strong Buy Despite the 35% Pullback From Peak Levels | 24/7 Wall St. | 2026-07-04 |
@@ -68,8 +68,8 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Revenue (ttm) | $4.92B | Revenue growth 20.10% y/y |
 | Profitability | Gross 97.54%, operating 29.53%, net 18.37% | ROA 5.78%, ROE 11.95% |
 | Balance sheet | Cash $3.60B, debt $491.00M | Current ratio 6.00, debt/equity 5.93 |
-| Valuation | P/E 357.65, forward P/E 97.51, P/S 65.22, P/B 38.58 | EV/Sales 69.32, EV/EBITDA 320.34 |
-| Growth expectations | Earnings growth 47.90%, EPS q/q 49.00% | Analyst mean target $297.03 (37 analysts) |
+| Valuation | P/E 357.65, forward P/E 97.51, P/S 65.22, P/B 38.58 | EV/Sales 64.59, EV/EBITDA 298.46 |
+| Growth expectations | Earnings growth 47.90%, EPS q/q 49.00% | Analyst mean target $298.84 (37 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -95,7 +95,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Altimeter Capital Management, LP | 1,715,440 | 0.16% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 97.51, EV/Sales 69.32. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 97.51, EV/Sales 64.59. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 3.77, ATR 11.2% of price, short float 11.26%. Size positions accordingly.
 - **Short interest risk:** short float 11.26% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,8 +113,8 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $300.43 | EV/Sales | 69.32 |
-| Market cap | $320.88B | EV/EBITDA | 320.34 |
+| Price | $300.43 | EV/Sales | 64.59 |
+| Market cap | $320.88B | EV/EBITDA | 298.46 |
 | Beta | 3.77 | Gross margin | 97.54% |
 | RSI(14) | 42.5 | Operating margin | 29.53% |
 | ATR(14) | 33.53 | Profit margin | 18.37% |

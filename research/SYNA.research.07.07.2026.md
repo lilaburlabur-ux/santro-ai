@@ -18,7 +18,7 @@ Signed file: `SYNA.research.07.07.2026`
 | Technical momentum | High | 1Y +73.73%; price +35.86% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -19.11% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-4.10%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 22.64, EV/Sales 4.50. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 22.64, EV/Sales 4.34. |
 | Risk level | High | Beta 1.98, ATR 7.7% of price, short float 18.89%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
@@ -68,7 +68,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Revenue (ttm) | $1.17B | Revenue growth 10.40% y/y |
 | Profitability | Gross 43.61%, operating -4.32%, net -4.10% | ROA -1.75%, ROE -3.50% |
 | Balance sheet | Cash $404.40M, debt $879.40M | Current ratio 3.04, debt/equity 64.72 |
-| Valuation | P/E —, forward P/E 22.64, P/S 3.98, P/B 3.40 | EV/Sales 4.50, EV/EBITDA 59.87 |
+| Valuation | P/E —, forward P/E 22.64, P/S 3.98, P/B 3.40 | EV/Sales 4.34, EV/EBITDA 57.74 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $145.33 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Geode Capital Management, LLC | 1,033,212 | 2.67% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 22.64, EV/Sales 4.50. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 22.64, EV/Sales 4.34. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.98, ATR 7.7% of price, short float 18.89%. Size positions accordingly.
 - **Short interest risk:** short float 18.89% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
@@ -113,8 +113,8 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $119.37 | EV/Sales | 4.50 |
-| Market cap | $4.66B | EV/EBITDA | 59.87 |
+| Price | $119.37 | EV/Sales | 4.34 |
+| Market cap | $4.66B | EV/EBITDA | 57.74 |
 | Beta | 1.98 | Gross margin | 43.61% |
 | RSI(14) | 44.1 | Operating margin | -4.32% |
 | ATR(14) | 9.24 | Profit margin | -4.10% |

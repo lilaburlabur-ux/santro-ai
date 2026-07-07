@@ -37,9 +37,9 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Headline | Source | Date |
 |---|---|---|
 | Samsung saw a record quarter, but it's not enough for investors. Here's why. | Yahoo Finance Video | 2026-07-07 |
-| Micron, Chip Stocks Fall Despite Samsung Profit Surge | Investor's Business Daily | 2026-07-07 |
-| Michael Burry Just Revealed His Next Big Short, and It's a Bet Against Nvidia, Micron, and AMD | Motley Fool | 2026-07-07 |
-| Dow Jones Futures: Nasdaq Slumps As Samsung Fans AI Fears, Oil Prices Jump On Iran News | Investor's Business Daily | 2026-07-07 |
+| Dow Jones Futures: Oil Prices Keep Rising On Iran News After Samsung Fans AI Fears | Investor's Business Daily | 2026-07-07 |
+| Why Sandisk Stock Jumped 34% in June | Motley Fool | 2026-07-07 |
+| Micron's Upbeat Forecast Lifts SPMO's Outlook | Trefis | 2026-07-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

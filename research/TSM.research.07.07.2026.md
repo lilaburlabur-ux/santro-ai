@@ -38,8 +38,8 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 |---|---|---|
 | DeepSeek looks to reduce reliance on Nvidia with own AI chip | Yahoo Finance Video | 2026-07-07 |
 | Samsung saw a record quarter, but it's not enough for investors. Here's why. | Yahoo Finance Video | 2026-07-07 |
-| This Semiconductor ETF Is Up 58% This Year and Doesn’t Own TSMC | 24/7 Wall St. | 2026-07-07 |
-| Up 102% in 2026, This Chip ETF Mysteriously Avoids Taiwan Semiconductor | 24/7 Wall St. | 2026-07-07 |
+| Amkor (AMKR) Stock Still Looks Like A Bargain On A 205% Run | Simply Wall St. | 2026-07-07 |
+| TSMC (TSM) Falls More Steeply Than Broader Market: What Investors Need to Know | Zacks | 2026-07-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

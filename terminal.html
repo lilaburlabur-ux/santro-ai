@@ -523,7 +523,7 @@
 <link rel="stylesheet" href="/ds-v2/tokens.css?v=1">
 <link rel="stylesheet" href="/ds-v2/primitives.css?v=1">
 <link rel="stylesheet" href="/ds-v2/shell.css?v=1">
-<script src="/ds-v2/flags.js?v=2"></script>
+<script src="/ds-v2/flags.js?v=3"></script>
 <header class="meganav" id="meganav">
 <style>
 /* santro brand tokens — green is the identity color; blue stays a muted
@@ -568,7 +568,7 @@ html[data-theme="light"] .meganav .mn-ls{background:linear-gradient(165deg,#16a3
 .meganav .mn-right{display:flex;align-items:center;gap:10px;flex:0 0 auto;margin-left:auto;}
 .meganav .mn-search{position:relative;}
 .meganav .mn-search .box{display:flex;align-items:center;gap:7px;background:var(--elev,#16202b);border:1px solid var(--border,#1d2733);border-radius:9px;padding:6px 10px;color:var(--faint,#5a6573);}
-.meganav .mn-search input{background:none;border:0;outline:0;color:var(--text,#e7edf3);font:inherit;font-size:13px;width:120px;}
+.meganav .mn-search input{background:none;border:0;outline:0;color:var(--text,#e7edf3);font:inherit;font-size:13px;width:180px;max-width:220px;}
 .meganav .mn-search .kbd{font-size:10px;border:1px solid var(--border,#1d2733);border-radius:4px;padding:0 5px;color:var(--faint,#5a6573);}
 .meganav .mn-search .drop{position:absolute;right:0;top:40px;width:330px;max-width:calc(100vw - 24px);background:var(--panel,#111822);border:1px solid var(--border,#1d2733);border-radius:11px;box-shadow:0 16px 34px rgba(0,0,0,.5);overflow:hidden;z-index:70;}
 .meganav .mn-search .sg{display:flex;align-items:center;gap:9px;padding:8px 11px;cursor:pointer;font-size:13px;}
@@ -611,21 +611,29 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 .meganav .mnd-cta .a1{background:var(--sg-soft);border:1px solid var(--sg-border);color:var(--sg);}
 .meganav .mnd-cta .a2{border:1px solid var(--border,#1d2733);color:var(--text,#e7edf3);}
 .meganav .mnd-foot{font-size:11px;color:var(--faint,#5a6573);line-height:1.6;margin-top:6px;}
-@media(max-width:1280px){
-  /* terminal's native pill: knob-only when the bar gets tight (its .day knob
-     position is calc(100%-32px), so it adapts to any width) */
-  .meganav #theme-toggle{width:46px;}
-  .meganav .tt-label{display:none;}
-}
-@media(max-width:1240px){
-  .meganav .mn-top{padding:19px 8px;font-size:13px;}
-  .meganav .mn-search input{width:92px;}
+.meganav .mn-search--drawer{display:none;margin:0 0 14px;}
+.meganav .mn-search--drawer .box{width:100%;}
+.meganav .mn-search--drawer input{width:100%;}
+@media(max-width:1023px){.meganav .mn-drawer.open .mn-search--drawer{display:block;}}
+.meganav .mnd-theme{appearance:none;width:100%;margin:10px 0 0;padding:12px;border:1px solid var(--border,#1d2733);border-radius:10px;background:var(--panel,#111822);color:var(--muted,#8895a4);font:600 13.5px -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,sans-serif;cursor:pointer;}
+.meganav .mnd-theme:hover{color:var(--text,#e7edf3);}
+@media(max-width:1279px){
+  .meganav .mn-beta{display:none;}
+  .meganav .mn-top{padding:19px 9px;font-size:13px;}
   .meganav .mn-in{gap:12px;}
+  /* search collapses to an icon button; nav.js expands it on demand */
+  .meganav .mn-search:not(.open) input,
+  .meganav .mn-search:not(.open) .kbd{display:none;}
+  .meganav .mn-search:not(.open) .box{width:34px;height:34px;justify-content:center;padding:0;cursor:pointer;}
+  .meganav .mn-search.open input{width:150px;}
 }
-@media(max-width:1100px){
+@media(max-width:1023px){
   .meganav .mn-nav{display:none;}
   .meganav .mn-burger{display:flex;}
   .meganav .mn-signin{display:none;}
+  .meganav .mn-search{display:none;}
+  .meganav .mn-theme{display:none;}
+  .meganav #reload{display:none;}
 }
 @media(max-width:760px){
   .meganav .mn-asof{display:none;}
@@ -695,18 +703,14 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
         <a class="mn-link" href="/stocks/themes/ai-applications-and-data-software"><b>AI Apps &amp; Data Software</b><span>Applied AI and the data layer.</span></a>
         <a class="mn-link" href="/stocks/themes/applied-ai-industrial-defense-and-vertical"><b>Applied AI, Industrial &amp; Defense</b><span>Robotics, defense, and vertical AI.</span></a>
       </div></div></div>
-    </div><div class="mn-item" data-menu="maps">
-      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Market Maps</button>
-      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Visual entry points into the same delayed data.</p><div class="mn-links mn-w2">
+    </div><div class="mn-item" data-menu="more">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">More</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Maps, company and legal.</p><div class="mn-links">
         <a class="mn-link" href="/terminal"><b>Stock Bubble Map</b><span>84 bubbles sized by cap, colored by heat.</span></a>
         <a class="mn-link" href="/crypto"><b>Crypto Movers</b><span>AI tokens ranked by momentum.</span></a>
         <a class="mn-link" href="/etfs"><b>ETF Map</b><span>Overlap-aware list of the AI ETF complex.</span></a>
         <a class="mn-link" href="/bubble"><b>Bubble-Risk Gauge</b><span>One dial for the whole AI trade.</span></a>
         <a class="mn-link" href="/ipos"><b>IPO Pipeline</b><span>Who is filing, who is rumored, who is priced.</span></a>
-      </div></div></div>
-    </div><div class="mn-item" data-menu="company">
-      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Company</button>
-      <div class="mn-panel"><div class="mn-pin"><div class="mn-links mn-w2">
         <a href="/about">About Santro AI</a>
         <a href="mailto:hello@santroai.tech">Contact</a>
         <a href="/privacy">Privacy Policy</a>
@@ -720,11 +724,8 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
   <div class="mn-right">
     <div class="mn-search"></div>
     <span id="asof" class="mn-asof"></span>
-    <button id="reload" title="Reloads saved data.">↻</button>
-      <button id="theme-toggle" class="mn-theme-native" data-native="1" title="Switch day / night mode" aria-label="Toggle day or night mode">
-        <span class="tt-label" id="tt-label">NIGHTMODE</span>
-        <span class="tt-knob"><svg class="ic-moon" viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4 8.5 8.5 0 1 0 20 14.5Z"/></svg><svg class="ic-sun" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4.1"/><path d="M12 2.6v2.1M12 19.3v2.1M2.6 12h2.1M19.3 12h2.1M5.2 5.2l1.5 1.5M17.3 17.3l1.5 1.5M18.8 5.2l-1.5 1.5M6.7 17.3l-1.5 1.5"/></svg></span>
-      </button>
+    <button id="reload" title="Reloads saved data." style="width:34px;height:34px;padding:0;border-radius:9px;font-size:15px;line-height:1">↻</button>
+      <button id="theme-toggle" class="mn-theme" data-native="1" style="width:34px;height:34px" title="Switch day / night mode" aria-label="Toggle day or night mode"><svg class="ic-moon" viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4 8.5 8.5 0 1 0 20 14.5Z"/></svg><svg class="ic-sun" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4.1"/><path d="M12 2.6v2.1M12 19.3v2.1M2.6 12h2.1M19.3 12h2.1M5.2 5.2l1.5 1.5M17.3 17.3l1.5 1.5M18.8 5.2l-1.5 1.5M6.7 17.3l-1.5 1.5"/></svg></button>
     <span id="santro-auth-slot"><a class="mn-signin" href="/signin">Sign in</a><a class="mn-signup" href="/signup">Sign up</a></span>
     <button class="mn-burger" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="mn-drawer"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button>
   </div>
@@ -734,6 +735,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     <span class="mn-ls">S</span>
     <button class="mnd-close" type="button" aria-label="Close menu">✕</button>
   </div>
+  <div class="mn-search mn-search--drawer"></div>
   <div class="mnd-quick">
     <a href="/terminal">AI Terminal</a><a href="/stocks">AI Stocks</a>
     <a href="/crypto">AI Crypto</a><a href="/etfs">AI ETFs</a>
@@ -787,6 +789,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     <a class="a1" href="/signup">Create free account</a>
     <a class="a2" href="/signin">Sign in</a>
   </div>
+  <button class="mnd-theme" type="button">Switch day / night mode</button>
   <p class="mnd-foot">Hot means attention, not direction.<br>Quotes delayed ~15 min. Real-time data planned for Pro. Not financial advice.</p>
 </div>
 <script src="/nav.js?v=2" defer></script>
@@ -901,6 +904,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 
 
   <!-- mega-footer v1 -->
+<!-- mega-footer v1 -->
 <!-- mega-footer v1 -->
 <!-- mega-footer v1 -->
 <!-- mega-footer v1 -->

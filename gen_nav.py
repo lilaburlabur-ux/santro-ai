@@ -60,7 +60,7 @@ NAV = [
          ("AI Apps & Data Software", "/stocks/themes/ai-applications-and-data-software", "Applied AI and the data layer.", None),
          ("Applied AI, Industrial & Defense", "/stocks/themes/applied-ai-industrial-defense-and-vertical", "Robotics, defense, and vertical AI.", None),
        ]),
-  dict(key="maps", label="Market Maps",
+  dict(key="maps", label="Market Maps", more=True,
        desc="Visual entry points into the same delayed data.",
        links=[
          ("Stock Bubble Map", "/terminal", "84 bubbles sized by cap, colored by heat.", None),
@@ -69,7 +69,7 @@ NAV = [
          ("Bubble-Risk Gauge", "/bubble", "One dial for the whole AI trade.", None),
          ("IPO Pipeline", "/ipos", "Who is filing, who is rumored, who is priced.", None),
        ]),
-  dict(key="company", label="Company",
+  dict(key="company", label="Company", more=True,
        desc=None,
        links=[
          ("About Santro AI", "/about", None, None),
@@ -129,7 +129,7 @@ html[data-theme="light"] .meganav .mn-ls{background:linear-gradient(165deg,#16a3
 .meganav .mn-right{display:flex;align-items:center;gap:10px;flex:0 0 auto;margin-left:auto;}
 .meganav .mn-search{position:relative;}
 .meganav .mn-search .box{display:flex;align-items:center;gap:7px;background:var(--elev,#16202b);border:1px solid var(--border,#1d2733);border-radius:9px;padding:6px 10px;color:var(--faint,#5a6573);}
-.meganav .mn-search input{background:none;border:0;outline:0;color:var(--text,#e7edf3);font:inherit;font-size:13px;width:120px;}
+.meganav .mn-search input{background:none;border:0;outline:0;color:var(--text,#e7edf3);font:inherit;font-size:13px;width:180px;max-width:220px;}
 .meganav .mn-search .kbd{font-size:10px;border:1px solid var(--border,#1d2733);border-radius:4px;padding:0 5px;color:var(--faint,#5a6573);}
 .meganav .mn-search .drop{position:absolute;right:0;top:40px;width:330px;max-width:calc(100vw - 24px);background:var(--panel,#111822);border:1px solid var(--border,#1d2733);border-radius:11px;box-shadow:0 16px 34px rgba(0,0,0,.5);overflow:hidden;z-index:70;}
 .meganav .mn-search .sg{display:flex;align-items:center;gap:9px;padding:8px 11px;cursor:pointer;font-size:13px;}
@@ -172,21 +172,29 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 .meganav .mnd-cta .a1{background:var(--sg-soft);border:1px solid var(--sg-border);color:var(--sg);}
 .meganav .mnd-cta .a2{border:1px solid var(--border,#1d2733);color:var(--text,#e7edf3);}
 .meganav .mnd-foot{font-size:11px;color:var(--faint,#5a6573);line-height:1.6;margin-top:6px;}
-@media(max-width:1280px){
-  /* terminal's native pill: knob-only when the bar gets tight (its .day knob
-     position is calc(100%-32px), so it adapts to any width) */
-  .meganav #theme-toggle{width:46px;}
-  .meganav .tt-label{display:none;}
-}
-@media(max-width:1240px){
-  .meganav .mn-top{padding:19px 8px;font-size:13px;}
-  .meganav .mn-search input{width:92px;}
+.meganav .mn-search--drawer{display:none;margin:0 0 14px;}
+.meganav .mn-search--drawer .box{width:100%;}
+.meganav .mn-search--drawer input{width:100%;}
+@media(max-width:1023px){.meganav .mn-drawer.open .mn-search--drawer{display:block;}}
+.meganav .mnd-theme{appearance:none;width:100%;margin:10px 0 0;padding:12px;border:1px solid var(--border,#1d2733);border-radius:10px;background:var(--panel,#111822);color:var(--muted,#8895a4);font:600 13.5px -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,sans-serif;cursor:pointer;}
+.meganav .mnd-theme:hover{color:var(--text,#e7edf3);}
+@media(max-width:1279px){
+  .meganav .mn-beta{display:none;}
+  .meganav .mn-top{padding:19px 9px;font-size:13px;}
   .meganav .mn-in{gap:12px;}
+  /* search collapses to an icon button; nav.js expands it on demand */
+  .meganav .mn-search:not(.open) input,
+  .meganav .mn-search:not(.open) .kbd{display:none;}
+  .meganav .mn-search:not(.open) .box{width:34px;height:34px;justify-content:center;padding:0;cursor:pointer;}
+  .meganav .mn-search.open input{width:150px;}
 }
-@media(max-width:1100px){
+@media(max-width:1023px){
   .meganav .mn-nav{display:none;}
   .meganav .mn-burger{display:flex;}
   .meganav .mn-signin{display:none;}
+  .meganav .mn-search{display:none;}
+  .meganav .mn-theme{display:none;}
+  .meganav #reload{display:none;}
 }
 @media(max-width:760px){
   .meganav .mn-asof{display:none;}
@@ -214,11 +222,11 @@ SUN = '<svg class="ic-sun" viewBox="0 0 24 24" width="15" height="15" fill="none
 # terminal.html keeps its native pill + reload (its inline JS owns them,
 # including the ECharts repaint on theme change) — see data-native handling
 # in nav.js
-TERMINAL_UTILS = """<button id="reload" title="Reloads saved data.">↻</button>
-      <button id="theme-toggle" class="mn-theme-native" data-native="1" title="Switch day / night mode" aria-label="Toggle day or night mode">
-        <span class="tt-label" id="tt-label">NIGHTMODE</span>
-        <span class="tt-knob">""" + MOON + SUN + """</span>
-      </button>"""
+TERMINAL_UTILS = ('<button id="reload" title="Reloads saved data." '
+    'style="width:34px;height:34px;padding:0;border-radius:9px;font-size:15px;line-height:1">\u21bb</button>\n'
+    '      <button id="theme-toggle" class="mn-theme" data-native="1" '
+    'style="width:34px;height:34px" title="Switch day / night mode" '
+    'aria-label="Toggle day or night mode">' + MOON + SUN + '</button>')
 
 DEFAULT_UTILS = ('<button class="mn-theme" title="Switch day / night mode" '
                  'aria-label="Toggle day or night mode">' + MOON + SUN + '</button>')
@@ -240,9 +248,17 @@ def render_links(menu, drawer=False):
     return "\n        ".join(out)
 
 def render_header(active, utils, is_terminal=False):
-    items = []
+    more_keys = [m["key"] for m in NAV if m.get("more")]
+    bar_items = [m for m in NAV if not m.get("more")]
+    more_links = []
     for m in NAV:
-        on = " on" if m["key"] == active else ""
+        if m.get("more"):
+            more_links.extend(m["links"])
+    bar_items = bar_items + [dict(key="more", label="More",
+        desc="Maps, company and legal.", links=more_links)]
+    items = []
+    for m in bar_items:
+        on = " on" if (m["key"] == active or (m["key"] == "more" and active in more_keys)) else ""
         desc = f'<p class="mn-desc">{esc(m["desc"])}</p>' if m["desc"] else ""
         wide = "" if len(m["links"]) > 5 and any(l[2] for l in m["links"]) else " mn-w2"
         grid = "" if m["key"] == "company" else ""
@@ -261,7 +277,7 @@ def render_header(active, utils, is_terminal=False):
 <link rel="stylesheet" href="/ds-v2/tokens.css?v=1">
 <link rel="stylesheet" href="/ds-v2/primitives.css?v=1">
 <link rel="stylesheet" href="/ds-v2/shell.css?v=1">
-<script src="/ds-v2/flags.js?v=2"></script>
+<script src="/ds-v2/flags.js?v=3"></script>
 <header class="meganav" id="meganav">
 <style>
 {CSS}
@@ -288,6 +304,7 @@ def render_header(active, utils, is_terminal=False):
     <span class="mn-ls">S</span>
     <button class="mnd-close" type="button" aria-label="Close menu">✕</button>
   </div>
+  <div class="mn-search mn-search--drawer"></div>
   <div class="mnd-quick">
     <a href="/terminal">AI Terminal</a><a href="/stocks">AI Stocks</a>
     <a href="/crypto">AI Crypto</a><a href="/etfs">AI ETFs</a>
@@ -297,6 +314,7 @@ def render_header(active, utils, is_terminal=False):
     <a class="a1" href="/signup">Create free account</a>
     <a class="a2" href="/signin">Sign in</a>
   </div>
+  <button class="mnd-theme" type="button">Switch day / night mode</button>
   <p class="mnd-foot">Hot means attention, not direction.<br>Quotes delayed ~15 min. Real-time data planned for Pro. Not financial advice.</p>
 </div>
 <script src="/nav.js?v={V}" defer></script>

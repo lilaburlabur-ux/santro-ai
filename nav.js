@@ -78,9 +78,21 @@
       if (el && d.as_of_local && !el.textContent) el.textContent = "As of " + d.as_of_local;
     }).catch(function () {});
 
-  // ── ticker search (from site.js, with absolute paths) ──────────────────
-  var mount = HDR.querySelector(".mn-search");
-  if (mount) (function () {
+  var idxPromise = null; // shared ticker-index fetch for all search mounts
+
+  // ── drawer theme proxy: clicks the bar toggle so native owners
+  //    (terminal repaints its chart) keep working ──────────────────────────
+  var mndTheme = HDR.querySelector(".mnd-theme");
+  if (mndTheme) mndTheme.addEventListener("click", function () {
+    var t = HDR.querySelector('.mn-theme[data-native]') || themeBtn;
+    if (t) t.click();
+  });
+
+  // ── ticker search: mounted in the bar AND the drawer (shared index).
+  //    Below 1280px the bar instance collapses to an icon and expands
+  //    on click. ─────────────────────────────────────────────────────────
+  HDR.querySelectorAll(".mn-search").forEach(function (mount) { mountSearch(mount); });
+  function mountSearch(mount) {
     mount.innerHTML =
       '<div class="box">' +
         '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4">' +
@@ -91,10 +103,10 @@
     var input = mount.querySelector("input"), drop = mount.querySelector(".drop"),
         kbd = mount.querySelector(".kbd");
     var idx = null, sel = 0, rows = [];
+    // (idxPromise is shared below so bar+drawer mounts fetch once)
     var logoUrl = function (s) { return s === "SPCX" ? "/assets/spacex.png"
       : "https://assets.parqet.com/logos/symbol/" + encodeURIComponent(s.split(".")[0]) + "?format=png&size=64"; };
     var fmtPct = function (x) { return (x >= 0 ? "+" : "") + Number(x).toFixed(2) + "%"; };
-    var idxPromise = null;
     function loadIndex() {
       if (!idxPromise) idxPromise = (async function () {
         var list = [], seen = {};
@@ -152,11 +164,20 @@
     });
     document.addEventListener("keydown", function (e) {
       if (e.key === "/" && document.activeElement !== input &&
-          !/INPUT|TEXTAREA|SELECT/.test((document.activeElement || {}).tagName || "")) {
-        e.preventDefault(); input.focus();
+          !/INPUT|TEXTAREA|SELECT/.test((document.activeElement || {}).tagName || "") &&
+          mount.offsetParent !== null) {
+        e.preventDefault();
+        mount.classList.add("open"); input.focus();
       }
     });
-  })();
+    // icon-mode: clicking the collapsed box expands and focuses
+    mount.querySelector(".box").addEventListener("click", function () {
+      if (!mount.classList.contains("open")) { mount.classList.add("open"); input.focus(); }
+    });
+    input.addEventListener("blur", function () {
+      setTimeout(function () { mount.classList.remove("open"); }, 200);
+    });
+  }
 
   // ── PWA (moved from site.js; static assets only, data stays live) ──────
   if ("serviceWorker" in navigator && location.protocol === "https:") {

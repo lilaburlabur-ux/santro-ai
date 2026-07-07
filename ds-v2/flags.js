@@ -8,13 +8,18 @@
 (function () {
   "use strict";
   var FLAGS = {
-    ds_v2: false // master switch for the v2 design system
+    ds_v2: true // RELEASED 2026-07-08 — production default ON (dark theme)
   };
   function isEnabled(name) {
     try {
       var override = localStorage.getItem("flag:" + name);
       if (override !== null) return override === "1";
     } catch (e) { /* storage blocked — fall through to default */ }
+    if (name === "ds_v2") {
+      // ds_v2 is dark-first: light-theme sessions keep the legacy skin until
+      // light tokens exist. Rollback = set this flag default to false.
+      try { if (localStorage.getItem("santro-theme") === "light") return false; } catch (e) {}
+    }
     return !!FLAGS[name];
   }
   /* QA helpers: SantroFlags.flagOn('ds_v2') / .flagOff('ds_v2') in the console */

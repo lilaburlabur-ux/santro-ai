@@ -81,5 +81,27 @@ try {
   t("bare number is not mistaken for a symbol", bare.holdings.length === 1);
 } catch (err) { console.log("  (site-coverage skipped: " + err.message.slice(0, 40) + ")"); }
 
+
+// ---- share card data (v3): cash logic, truncation, robustness -------------
+{
+  const d = S.shareCardData(S.run("CASH 45, NVDA 25, SMH 20, AMD 10"));
+  t("card: cash NOT in what-hurts", !d.hurts.some(h => /^(CASH|USD)$/.test(h.symbol)));
+  t("card: no defensive bucket in hurts", !d.hurts.some(h => /defensive|broad/.test(h.bucket)));
+  t("card: cash buffer 45 in cushions", d.cushions.length === 1 && d.cushions[0].weight === 45);
+  t("card: buffer pct matches", d.buffer_pct === 45);
+  t("card: top risk position is NVDA not CASH", d.top_risk_position && d.top_risk_position.symbol === "NVDA");
+  t("card: scenarios sorted worst-first", d.scenarios[0].mid <= d.scenarios[d.scenarios.length-1].mid && d.scenarios[0].worst === true);
+}
+{
+  const d = S.shareCardData(S.run("NVDA,AMD,MSFT,GOOGL,META,AVGO,TSM,MU,ARM,QCOM,INTC,SPY"));
+  t("card: chips cap at 6", d.chips.length === 6);
+  t("card: +more count", d.more === 6);
+  t("card: equal-weight flag", d.equal_weight === true);
+}
+{
+  const d = S.shareCardData(S.run("ZZZFAKE 50, NVDA 50"));
+  t("card: unknown ticker does not break card data", !!d && d.unknown_pct > 0);
+}
+
 console.log(`\n${pass} passed, ${fail} failed`);
 process.exit(fail ? 1 : 0);

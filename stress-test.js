@@ -196,5 +196,39 @@
         if(s&&!EXPOSURE_MAP[s]) EXPOSURE_MAP[s]={b:"ai_crypto",e:"narrative",c:"extreme",t:"crypto"}; }));
     }catch(e){}
   }
-  return {parse, classify, run, compressForModel, enrichFromFeeds, SCENARIOS, EXPOSURE_MAP, DISCLAIMER};
+
+  // ── share-card data: pure, display-ready derivation from a run() result ──
+  // Rules (see share card spec): defensive/broad buckets NEVER rank in
+  // "what hurts" — cash belongs in cushions. Chips truncate at 6. Scenarios
+  // sorted worst-first by midpoint.
+  const _DEFENSIVE = { defensive_or_cash: 1, broad_market: 1 };
+  function shareCardData(r){
+    if(!r || r.error) return null;
+    const holds = (r.fragility_map || []).slice().sort((a,b)=>b.weight_pct-a.weight_pct);
+    const chips = holds.slice(0,6).map(h=>({symbol:h.symbol,
+      weight_pct:Math.round(h.weight_pct), bucket:h.primary_bucket}));
+    const worst = (r.scenario_results || []).slice()
+      .sort((a,b)=>a.estimated_portfolio_drawdown_range[1]-b.estimated_portfolio_drawdown_range[1])[0] || null;
+    const hurts = ((worst && worst.top_contributors_to_loss) || [])
+      .filter(c=>!_DEFENSIVE[c.bucket])
+      .slice(0,3).map(c=>({symbol:c.symbol, weight:Math.round(c.weight), bucket:c.bucket}));
+    const cashW = Math.round(r.bucket_weights.defensive_or_cash || 0);
+    const broadW = Math.round(r.bucket_weights.broad_market || 0);
+    const cushions = [];
+    if(cashW > 0) cushions.push({label:"cash & defensive buffer", weight:cashW});
+    if(broadW > 0) cushions.push({label:"broad-market ballast", weight:broadW});
+    const risky = holds.filter(h=>!_DEFENSIVE[h.primary_bucket]);
+    const scenarios = (r.scenario_results || []).map(s=>({
+      name:s.scenario_name, range:s.estimated_portfolio_drawdown_range,
+      mid:Math.round((s.estimated_portfolio_drawdown_range[0]+s.estimated_portfolio_drawdown_range[1])/2),
+      worst:s===((r.scenario_results||[]).slice().sort((a,b)=>a.estimated_portfolio_drawdown_range[1]-b.estimated_portfolio_drawdown_range[1])[0])
+    })).sort((a,b)=>a.mid-b.mid);
+    return { chips, more:Math.max(0, holds.length-chips.length), hurts, cushions, worst,
+      scenarios, buffer_pct:cashW+broadW,
+      top_risk_position: risky[0] ? {symbol:risky[0].symbol, weight_pct:Math.round(risky[0].weight_pct)} : null,
+      unknown_pct: r.unknown_weight_pct || 0,
+      equal_weight: /equal/i.test((r.assumptions||[]).join(" ")) };
+  }
+
+  return {parse, classify, run, compressForModel, enrichFromFeeds, shareCardData, SCENARIOS, EXPOSURE_MAP, DISCLAIMER};
 });

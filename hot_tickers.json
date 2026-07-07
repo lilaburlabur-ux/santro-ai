@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-07T11:08:03+00:00",
+  "as_of": "2026-07-07T11:22:00+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "MU",
    "company": "Micron Technology Inc",
-   "move_pct": -5.44,
-   "price": 931.2,
+   "move_pct": -5.31,
+   "price": 932.5,
    "volume": 36265700,
    "volume_vs_avg": "~0.6x",
    "heat_score": 37,
    "direction": "down",
-   "why": "Micron Technology Just Dropped a $50 Billion Revenue Bombshell. Time to Buy the Stock?",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-just-dropped-50-102000860.html",
-   "published": "2026-07-07T10:20:00Z",
+   "why": "Samsung Dives After Huge Jump in Profit, Micron Rival Sinks Tech Stocks",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.barrons.com/articles/samsung-stock-micron-sk-hynix-kospi-27b6be7c?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-07-07T10:51:00Z",
    "sector": "AI Chips & Compute"
   }
  ]

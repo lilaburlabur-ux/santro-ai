@@ -11,7 +11,7 @@ import glob, re, sys
 
 CSS = """
 footer.mega{display:block;text-align:left;margin-top:48px;padding:0;border-top:1px solid var(--border,#1d2733);background:transparent;font-family:-apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
-.mega .mg-in{max-width:1180px;margin:0 auto;padding:34px 22px 26px;}
+.mega .mg-in{max-width:1680px;margin:0 auto;padding:34px clamp(16px,2vw,40px) 26px;}
 .mega .mg-top{display:flex;justify-content:space-between;align-items:flex-start;gap:28px;flex-wrap:wrap;padding-bottom:26px;border-bottom:1px solid var(--border-soft,#161e28);}
 .mega .mg-logo{font-size:17px;font-weight:800;letter-spacing:.4px;color:var(--text,#e7edf3);}
 .mega .mg-logo span{color:#22c55e;}

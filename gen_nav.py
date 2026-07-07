@@ -94,7 +94,7 @@ header.meganav{--sg:#22c55e;--sg-hi:#4ade80;--sg-deep:#15803d;
   --ramber:#d9a13c;--ramber-border:rgba(217,161,60,.45);}
 header.meganav{display:block;position:relative;z-index:60;background:var(--panel-2,#0c121a);border-bottom:1px solid var(--border,#1d2733);font-family:-apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif;text-align:left;}
 .meganav *{box-sizing:border-box;}
-.meganav .mn-in{max-width:1280px;margin:0 auto;padding:0 18px;display:flex;align-items:center;gap:18px;height:56px;}
+.meganav .mn-in{max-width:1680px;margin:0 auto;padding:0 clamp(16px,2vw,40px);display:flex;align-items:center;gap:18px;height:56px;}
 .meganav a{text-decoration:none;}
 .meganav .mn-logo{display:flex;align-items:center;gap:8px;flex:0 0 auto;}
 .meganav .mn-ls{font-weight:900;font-size:24px;line-height:.9;
@@ -113,7 +113,7 @@ html[data-theme="light"] .meganav .mn-ls{background:linear-gradient(165deg,#16a3
 .meganav .mn-panel{display:none;position:absolute;left:0;right:0;top:56px;background:var(--panel,#111822);border-bottom:1px solid var(--border,#1d2733);box-shadow:0 18px 40px rgba(0,0,0,.45);padding:20px 0 22px;}
 .meganav .mn-item.open>.mn-panel{display:block;}
 @media(hover:hover) and (min-width:1021px){.meganav .mn-item:hover>.mn-panel{display:block;}}
-.meganav .mn-pin{max-width:1280px;margin:0 auto;padding:0 18px;}
+.meganav .mn-pin{max-width:1680px;margin:0 auto;padding:0 clamp(16px,2vw,40px);}
 .meganav .mn-desc{margin:0 0 14px;font-size:12px;color:var(--faint,#5a6573);font-weight:500;max-width:640px;}
 .meganav .mn-links{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:4px 26px;}
 .meganav .mn-links.mn-w2{grid-template-columns:repeat(2,minmax(0,1fr));max-width:640px;}
@@ -129,7 +129,7 @@ html[data-theme="light"] .meganav .mn-ls{background:linear-gradient(165deg,#16a3
 .meganav .mn-right{display:flex;align-items:center;gap:10px;flex:0 0 auto;margin-left:auto;}
 .meganav .mn-search{position:relative;}
 .meganav .mn-search .box{display:flex;align-items:center;gap:7px;background:var(--elev,#16202b);border:1px solid var(--border,#1d2733);border-radius:9px;padding:6px 10px;color:var(--faint,#5a6573);}
-.meganav .mn-search input{background:none;border:0;outline:0;color:var(--text,#e7edf3);font:inherit;font-size:13px;width:180px;max-width:220px;}
+.meganav .mn-search input{background:none;border:0;outline:0;color:var(--text,#e7edf3);font:inherit;font-size:13px;width:clamp(140px,14vw,220px);}
 .meganav .mn-search .kbd{font-size:10px;border:1px solid var(--border,#1d2733);border-radius:4px;padding:0 5px;color:var(--faint,#5a6573);}
 .meganav .mn-search .drop{position:absolute;right:0;top:40px;width:330px;max-width:calc(100vw - 24px);background:var(--panel,#111822);border:1px solid var(--border,#1d2733);border-radius:11px;box-shadow:0 16px 34px rgba(0,0,0,.5);overflow:hidden;z-index:70;}
 .meganav .mn-search .sg{display:flex;align-items:center;gap:9px;padding:8px 11px;cursor:pointer;font-size:13px;}
@@ -178,6 +178,13 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 @media(max-width:1023px){.meganav .mn-drawer.open .mn-search--drawer{display:block;}}
 .meganav .mnd-theme{appearance:none;width:100%;margin:10px 0 0;padding:12px;border:1px solid var(--border,#1d2733);border-radius:10px;background:var(--panel,#111822);color:var(--muted,#8895a4);font:600 13.5px -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,sans-serif;cursor:pointer;}
 .meganav .mnd-theme:hover{color:var(--text,#e7edf3);}
+/* nav collapse ladder: >=1366 shows all six groups; 1024-1365 folds
+   Market Maps + Company into More (they stay in the drawer + footer) */
+.meganav .mn-moreitem{display:none;}
+@media(max-width:1365px){
+  .meganav .mn-collapsible{display:none;}
+  .meganav .mn-moreitem{display:block;}
+}
 @media(max-width:1279px){
   .meganav .mn-beta{display:none;}
   .meganav .mn-top{padding:19px 9px;font-size:13px;}
@@ -249,12 +256,13 @@ def render_links(menu, drawer=False):
 
 def render_header(active, utils, is_terminal=False):
     more_keys = [m["key"] for m in NAV if m.get("more")]
-    bar_items = [m for m in NAV if not m.get("more")]
     more_links = []
     for m in NAV:
         if m.get("more"):
             more_links.extend(m["links"])
-    bar_items = bar_items + [dict(key="more", label="More",
+    # wide desktop shows every group; 1024-1365px hides the "more"-flagged
+    # groups and shows the synthesized More instead (pure CSS switch)
+    bar_items = list(NAV) + [dict(key="more", label="More",
         desc="Maps, company and legal.", links=more_links)]
     items = []
     for m in bar_items:
@@ -262,7 +270,8 @@ def render_header(active, utils, is_terminal=False):
         desc = f'<p class="mn-desc">{esc(m["desc"])}</p>' if m["desc"] else ""
         wide = "" if len(m["links"]) > 5 and any(l[2] for l in m["links"]) else " mn-w2"
         grid = "" if m["key"] == "company" else ""
-        items.append(f'''<div class="mn-item{on}" data-menu="{m['key']}">
+        collapse = " mn-collapsible" if m.get("more") else (" mn-moreitem" if m["key"] == "more" else "")
+        items.append(f'''<div class="mn-item{on}{collapse}" data-menu="{m['key']}">
       <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">{esc(m['label'])}</button>
       <div class="mn-panel"><div class="mn-pin">{desc}<div class="mn-links{wide if m['key']=='company' or m['key']=='maps' else ''}">
         {render_links(m)}

@@ -46,7 +46,13 @@ nav.pagenav{display:flex; gap:2px; flex-wrap:wrap;}
 .nav-link.active{color:var(--accent-2); background:var(--accent-soft);}
 .nav-link.soon{opacity:.5; pointer-events:none;}
 
-main{max-width:1080px; margin:0 auto; padding:26px 22px 60px;}
+/* layout shells — width by page TYPE (ds_v2 layout fix 2026-07-08):
+   default = terminal/data shell (wide); overrides via body class.
+   Article width is for articles only. */
+main{max-width:1560px; margin:0 auto; padding:26px clamp(16px,2vw,32px) 60px;}
+body.shell-article main{max-width:1080px;}
+body.shell-tool main{max-width:1240px;}
+body.shell-marketing main{max-width:1400px;}
 h1{font-size:24px; margin:0 0 6px;}
 .lede{color:var(--muted); max-width:740px; margin:0 0 22px;}
 .badge{font-size:10px; letter-spacing:.4px; padding:3px 9px; border-radius:999px; font-weight:600;

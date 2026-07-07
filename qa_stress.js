@@ -103,5 +103,18 @@ try {
   t("card: unknown ticker does not break card data", !!d && d.unknown_pct > 0);
 }
 
+
+// ---- index shorthand & S&P spellings ---------------------------------------
+{
+  t("SPX -> broad_market", S.classify({symbol:"SPX",weight_pct:1}).bucket === "broad_market");
+  t("IVV -> broad_market", S.classify({symbol:"IVV",weight_pct:1}).bucket === "broad_market");
+  t("NDX -> mega_cap_tech", S.classify({symbol:"NDX",weight_pct:1}).bucket === "mega_cap_tech");
+  const p = S.parse("S&P 500 40, NVDA 30, CASH 30");
+  t("'S&P 500 40' parses as SPX 40", p.holdings.some(h => h.symbol === "SPX" && h.weight_pct === 40));
+  t("no skip note for S&P spelling", !p.notes.some(n => /Couldn't read/.test(n)));
+  const r = S.run("SPX 60, NVDA 40");
+  t("SPX book has no unknown weight", r.unknown_weight_pct === 0);
+}
+
 console.log(`\n${pass} passed, ${fail} failed`);
 process.exit(fail ? 1 : 0);

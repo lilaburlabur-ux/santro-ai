@@ -4,8 +4,8 @@ Signed file: `QCOM.research.07.07.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $186.48 (2026-07-07, ~15-min delayed) |
-| Market cap | $196.55B |
+| Current price | $182.97 (2026-07-07, ~15-min delayed) |
+| Market cap | $192.85B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `QCOM.research.07.07.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +16.87%; price +11.24% vs SMA200. |
-| Fresh setup quality | Poor / broken | -25.71% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +14.75%; price +9.09% vs SMA200. |
+| Fresh setup quality | Poor / broken | -27.11% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 22.31%, revenue growth -3.50%. |
-| Value attractiveness | Reasonable | Forward P/E 16.93, EV/Sales 4.54. |
-| Risk level | High | Beta 1.64, ATR 8.4% of price, short float 4.74%. |
+| Value attractiveness | Reasonable | Forward P/E 16.62, EV/Sales 4.54. |
+| Risk level | High | Beta 1.64, ATR 8.2% of price, short float 4.74%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
-| S&P 500, Nasdaq, Dow Futures Mixed After Record Session: Why MU, SNDK, RIVN, SPCX Stocks Are Trending Overnight | Stocktwits | 2026-07-07 |
-| This Semiconductor ETF Is Up 54% This Year and Refuses to Own Intel | 24/7 Wall St. | 2026-07-06 |
-| Update: Dow Crosses 53,000, Nasdaq Rebounds as Tech Advances | MT Newswires | 2026-07-06 |
-| Credo Leads Rebound For Semiconductor Stocks | Investor's Business Daily | 2026-07-06 |
+| Chip Stocks Just Flashed a Warning Even Wall Street’s Bulls Can’t Ignore | 24/7 Wall St. | 2026-07-07 |
+| Chief Market Strategist Says Japan and South Korea Could Be Flashing Early Warning Signs for Investors | 24/7 Wall St. | 2026-07-07 |
+| This Semiconductor ETF Is Up 58% This Year and Doesn’t Own TSMC | 24/7 Wall St. | 2026-07-07 |
+| Up 14.81% in a Year, COWZ Proves You Don’t Need Apple | 24/7 Wall St. | 2026-07-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $186.48; 52w high $251.02 (-25.71%); 52w low $124.07 (+50.30%) |
-| Trend | +11.24% vs SMA200, -8.36% vs SMA50, -8.02% vs SMA20 |
-| Momentum | RSI(14) 43.4 (neutral) |
-| Volatility | ATR(14) 15.65 (~8.4% of price); beta 1.64 |
-| Setup perspective | -25.71% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $182.97; 52w high $251.02 (-27.11%); 52w low $124.07 (+47.47%) |
+| Trend | +9.09% vs SMA200, -10.52% vs SMA50, -9.01% vs SMA20 |
+| Momentum | RSI(14) 42.1 (neutral) |
+| Volatility | ATR(14) 15.07 (~8.2% of price); beta 1.64 |
+| Setup perspective | -27.11% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.5% |
-| Month | -25.4% |
-| Quarter | +47.1% |
-| Half Y | +9.7% |
-| 1Y | +16.9% |
-| YTD | +8.5% |
+| Week | -3.0% |
+| Month | -24.6% |
+| Quarter | +45.5% |
+| Half Y | +6.5% |
+| 1Y | +14.8% |
+| YTD | +6.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $44.49B | Revenue growth -3.50% y/y |
 | Profitability | Gross 54.80%, operating 22.06%, net 22.31% | ROA 12.69%, ROE 36.08% |
 | Balance sheet | Cash $9.80B, debt $15.27B | Current ratio 2.37, debt/equity 55.98 |
-| Valuation | P/E 20.03, forward P/E 16.93, P/S 4.42, P/B 7.24 | EV/Sales 4.54, EV/EBITDA 15.54 |
+| Valuation | P/E 19.65, forward P/E 16.62, P/S 4.34, P/B 7.10 | EV/Sales 4.54, EV/EBITDA 15.54 |
 | Growth expectations | Earnings growth 173.00%, EPS q/q 162.10% | Analyst mean target $215.42 (31 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC | 12,113,406 | 1.15% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.64, ATR 8.4% of price, short float 4.74%. Size positions accordingly.
+- **Volatility risk:** Beta 1.64, ATR 8.2% of price, short float 4.74%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,21 +111,21 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $186.48 | EV/Sales | 4.54 |
-| Market cap | $196.55B | EV/EBITDA | 15.54 |
+| Price | $182.97 | EV/Sales | 4.54 |
+| Market cap | $192.85B | EV/EBITDA | 15.54 |
 | Beta | 1.64 | Gross margin | 54.80% |
-| RSI(14) | 43.4 | Operating margin | 22.06% |
-| ATR(14) | 15.65 | Profit margin | 22.31% |
-| SMA20 dist | -8.02% | ROA | 12.69% |
-| SMA50 dist | -8.36% | ROE | 36.08% |
-| SMA200 dist | +11.24% | Revenue (ttm) | $44.49B |
+| RSI(14) | 42.1 | Operating margin | 22.06% |
+| ATR(14) | 15.07 | Profit margin | 22.31% |
+| SMA20 dist | -9.01% | ROA | 12.69% |
+| SMA50 dist | -10.52% | ROE | 36.08% |
+| SMA200 dist | +9.09% | Revenue (ttm) | $44.49B |
 | 52W high | $251.02 | Revenue growth y/y | -3.50% |
 | 52W low | $124.07 | Inst. ownership | 84.72% |
-| P/E (ttm) | 20.03 | Insider ownership | 0.12% |
-| Forward P/E | 16.93 | Short float | 4.74% |
-| PEG (trailing) | 0.56 | Avg volume | 23,149,486 |
-| P/S | 4.42 | Employees | 52,000 |
-| P/B | 7.24 | Analyst rec (1=buy..5=sell) | 2.5 |
+| P/E (ttm) | 19.65 | Insider ownership | 0.12% |
+| Forward P/E | 16.62 | Short float | 4.74% |
+| PEG (trailing) | 0.59 | Avg volume | 23,258,526 |
+| P/S | 4.34 | Employees | 52,000 |
+| P/B | 7.10 | Analyst rec (1=buy..5=sell) | 2.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `INTC.research.07.07.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $122.20 (2026-07-07, ~15-min delayed) |
-| Market cap | $614.18B |
+| Current price | $110.39 (2026-07-07, ~15-min delayed) |
+| Market cap | $554.82B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, weak fundamentals, value: low (expensive), risk: high. |
@@ -15,11 +15,11 @@ Signed file: `INTC.research.07.07.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +458.50%; price +100.92% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -13.30% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +390.84%; price +80.24% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -21.68% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-5.90%). |
-| Value attractiveness | Low (expensive) | Forward P/E 78.24, EV/Sales 11.90. |
-| Risk level | High | Beta 2.19, ATR 8.5% of price, short float 2.86%. |
+| Value attractiveness | Low (expensive) | Forward P/E 70.68, EV/Sales 11.90. |
+| Risk level | High | Beta 2.19, ATR 9.6% of price, short float 2.86%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: low (expensive), risk: high.
 
@@ -36,30 +36,30 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| MU, SNDK, WDC Stocks Fall Premarket: Samsung, SK Hynix Briefly Drag South Korea's Kospi Into Brief Bear | Stocktwits | 2026-07-07 |
-| Intel (INTC) Following 18A Progress And AI Optimism Looks Pricey On DCF | Simply Wall St. | 2026-07-07 |
-| After Cerebras Listing, Intel-Backed AI Chip Firm Syntiant Files For IPO | Stocktwits | 2026-07-07 |
-| Intel-Backed Syntiant, Maker of AI Chips for Earbuds and Cars, Files for IPO on Nasdaq | Benzinga | 2026-07-07 |
+| Memory chip stocks fall into a bull market amid latest tech sell-off | Yahoo Finance Video | 2026-07-07 |
+| Micron, Samsung, SK Hynix just dragged memory stocks into a bear market | Yahoo Finance | 2026-07-07 |
+| US Equity Markets Lower as Semiconductor Stocks Fall, Crude Oil Prices Rise | MT Newswires | 2026-07-07 |
+| Update: US Equity Indexes Dive After Sell-Off in Mega-Cap Chipmakers, Revocation of Iran's Authorization to Sell Crude Oil | MT Newswires | 2026-07-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $122.20; 52w high $140.94 (-13.30%); 52w low $19.31 (+532.83%) |
-| Trend | +100.92% vs SMA200, +6.71% vs SMA50, -1.17% vs SMA20 |
-| Momentum | RSI(14) 50.3 (neutral) |
-| Volatility | ATR(14) 10.38 (~8.5% of price); beta 2.19 |
-| Setup perspective | -13.30% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $110.39; 52w high $140.94 (-21.68%); 52w low $19.31 (+471.67%) |
+| Trend | +80.24% vs SMA200, -4.33% vs SMA50, -11.12% vs SMA20 |
+| Momentum | RSI(14) 43.3 (neutral) |
+| Volatility | ATR(14) 10.64 (~9.6% of price); beta 2.19 |
+| Setup perspective | -21.68% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.8% |
-| Month | +8.4% |
-| Quarter | +142.6% |
-| Half Y | +231.2% |
-| 1Y | +458.5% |
-| YTD | +210.3% |
+| Week | -16.2% |
+| Month | -1.2% |
+| Quarter | +117.4% |
+| Half Y | +180.3% |
+| 1Y | +390.8% |
+| YTD | +180.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $53.76B | Revenue growth 7.20% y/y |
 | Profitability | Gross 37.20%, operating 6.88%, net -5.90% | ROA 0.63%, ROE -2.91% |
 | Balance sheet | Cash $32.79B, debt $45.03B | Current ratio 2.31, debt/equity 36.03 |
-| Valuation | P/E —, forward P/E 78.24, P/S 11.42, P/B 5.51 | EV/Sales 11.90, EV/EBITDA 45.15 |
+| Valuation | P/E —, forward P/E 70.68, P/S 10.32, P/B 4.98 | EV/Sales 11.90, EV/EBITDA 45.15 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $100.88 (42 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 64.01% |
+| Institutional ownership | 64.02% |
 | Insider ownership | 14.72% |
 | Short float | 2.86% |
 | Short ratio (days to cover) | 1.1 |
@@ -95,8 +95,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Primecap Management Company | 75,761,968 | 1.51% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 78.24, EV/Sales 11.90. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.19, ATR 8.5% of price, short float 2.86%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 70.68, EV/Sales 11.90. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.19, ATR 9.6% of price, short float 2.86%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -112,21 +112,21 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $122.20 | EV/Sales | 11.90 |
-| Market cap | $614.18B | EV/EBITDA | 45.15 |
+| Price | $110.39 | EV/Sales | 11.90 |
+| Market cap | $554.82B | EV/EBITDA | 45.15 |
 | Beta | 2.19 | Gross margin | 37.20% |
-| RSI(14) | 50.3 | Operating margin | 6.88% |
-| ATR(14) | 10.38 | Profit margin | -5.90% |
-| SMA20 dist | -1.17% | ROA | 0.63% |
-| SMA50 dist | +6.71% | ROE | -2.91% |
-| SMA200 dist | +100.92% | Revenue (ttm) | $53.76B |
+| RSI(14) | 43.3 | Operating margin | 6.88% |
+| ATR(14) | 10.64 | Profit margin | -5.90% |
+| SMA20 dist | -11.12% | ROA | 0.63% |
+| SMA50 dist | -4.33% | ROE | -2.91% |
+| SMA200 dist | +80.24% | Revenue (ttm) | $53.76B |
 | 52W high | $140.94 | Revenue growth y/y | 7.20% |
-| 52W low | $19.31 | Inst. ownership | 64.01% |
+| 52W low | $19.31 | Inst. ownership | 64.02% |
 | P/E (ttm) | — | Insider ownership | 14.72% |
-| Forward P/E | 78.24 | Short float | 2.86% |
-| PEG (trailing) | — | Avg volume | 137,506,732 |
-| P/S | 11.42 | Employees | 85,100 |
-| P/B | 5.51 | Analyst rec (1=buy..5=sell) | 2.6 |
+| Forward P/E | 70.68 | Short float | 2.86% |
+| PEG (trailing) | — | Avg volume | 136,799,404 |
+| P/S | 10.32 | Employees | 85,100 |
+| P/B | 4.98 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

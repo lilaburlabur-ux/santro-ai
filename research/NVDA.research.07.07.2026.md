@@ -4,8 +4,8 @@ Signed file: `NVDA.research.07.07.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $195.55 (2026-07-07, ~15-min delayed) |
-| Market cap | $4.74T |
+| Current price | $196.93 (2026-07-07, ~15-min delayed) |
+| Market cap | $4.77T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `NVDA.research.07.07.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +24.38%; price +2.32% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -17.05% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +23.61%; price +2.97% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -16.46% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 62.97%, revenue growth 85.20%. |
-| Value attractiveness | Reasonable | Forward P/E 15.32, EV/Sales 18.51. |
+| Value attractiveness | Reasonable | Forward P/E 15.43, EV/Sales 18.51. |
 | Risk level | High | Beta 2.21, ATR 3.5% of price, short float 1.29%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -36,30 +36,30 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
+| Tech stocks live: Chip stocks sell off, SpaceX joins Nasdaq-100 | Yahoo Finance | 2026-07-06 |
 | Why this AI chip startup could rival Nvidia | Yahoo Finance Video | 2026-07-06 |
-| Nvidia denies report its next-generation AI server faces delays, says roadmap is intact | Yahoo Finance | 2026-07-06 |
-| Micron Technology Just Dropped a $50 Billion Revenue Bombshell. Time to Buy the Stock? | Motley Fool | 2026-07-07 |
-| Is Meta Platforms About to Follow in the Footsteps of Elon Musk's SpaceX? | Motley Fool | 2026-07-07 |
+| US Equity Markets Lower as Semiconductor Stocks Fall, Crude Oil Prices Rise | MT Newswires | 2026-07-07 |
+| Why Micron Outweighs Meta 2-to-1 in the Nasdaq 100, Even Though Meta Is Way Bigger | 24/7 Wall St. | 2026-07-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $195.55; 52w high $235.74 (-17.05%); 52w low $158.21 (+23.60%) |
-| Trend | +2.32% vs SMA200, -6.73% vs SMA50, -3.35% vs SMA20 |
-| Momentum | RSI(14) 42.0 (neutral) |
-| Volatility | ATR(14) 6.87 (~3.5% of price); beta 2.21 |
-| Setup perspective | -17.05% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $196.93; 52w high $235.74 (-16.46%); 52w low $158.21 (+24.47%) |
+| Trend | +2.97% vs SMA200, -6.05% vs SMA50, -2.47% vs SMA20 |
+| Momentum | RSI(14) 43.5 (neutral) |
+| Volatility | ATR(14) 6.90 (~3.5% of price); beta 2.21 |
+| Setup perspective | -16.46% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.6% |
-| Month | -8.9% |
-| Quarter | +10.2% |
-| Half Y | +4.9% |
-| 1Y | +24.4% |
-| YTD | +3.6% |
+| Week | +1.0% |
+| Month | -9.9% |
+| Quarter | +10.9% |
+| Half Y | +4.3% |
+| 1Y | +23.6% |
+| YTD | +4.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $253.49B | Revenue growth 85.20% y/y |
 | Profitability | Gross 74.14%, operating 65.60%, net 62.97% | ROA 52.73%, ROE 114.29% |
 | Balance sheet | Cash $53.17B, debt $12.81B | Current ratio 3.44, debt/equity 6.55 |
-| Valuation | P/E 29.95, forward P/E 15.32, P/S 18.68, P/B 24.23 | EV/Sales 18.51, EV/EBITDA 28.35 |
+| Valuation | P/E 30.16, forward P/E 15.43, P/S 18.82, P/B 24.40 | EV/Sales 18.51, EV/EBITDA 28.35 |
 | Growth expectations | Earnings growth 214.50%, EPS q/q 210.60% | Analyst mean target $301.62 (58 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $195.55 | EV/Sales | 18.51 |
-| Market cap | $4.74T | EV/EBITDA | 28.35 |
+| Price | $196.93 | EV/Sales | 18.51 |
+| Market cap | $4.77T | EV/EBITDA | 28.35 |
 | Beta | 2.21 | Gross margin | 74.14% |
-| RSI(14) | 42.0 | Operating margin | 65.60% |
-| ATR(14) | 6.87 | Profit margin | 62.97% |
-| SMA20 dist | -3.35% | ROA | 52.73% |
-| SMA50 dist | -6.73% | ROE | 114.29% |
-| SMA200 dist | +2.32% | Revenue (ttm) | $253.49B |
+| RSI(14) | 43.5 | Operating margin | 65.60% |
+| ATR(14) | 6.90 | Profit margin | 62.97% |
+| SMA20 dist | -2.47% | ROA | 52.73% |
+| SMA50 dist | -6.05% | ROE | 114.29% |
+| SMA200 dist | +2.97% | Revenue (ttm) | $253.49B |
 | 52W high | $235.74 | Revenue growth y/y | 85.20% |
 | 52W low | $158.21 | Inst. ownership | 70.80% |
-| P/E (ttm) | 29.95 | Insider ownership | 3.98% |
-| Forward P/E | 15.32 | Short float | 1.29% |
-| PEG (trailing) | 0.60 | Avg volume | 159,804,467 |
-| P/S | 18.68 | Employees | 42,000 |
-| P/B | 24.23 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/E (ttm) | 30.16 | Insider ownership | 3.98% |
+| Forward P/E | 15.43 | Short float | 1.29% |
+| PEG (trailing) | 0.60 | Avg volume | 159,413,006 |
+| P/S | 18.82 | Employees | 42,000 |
+| P/B | 24.40 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

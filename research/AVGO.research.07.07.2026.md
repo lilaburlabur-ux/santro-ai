@@ -4,8 +4,8 @@ Signed file: `AVGO.research.07.07.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $373.90 (2026-07-07, ~15-min delayed) |
-| Market cap | $1.78T |
+| Current price | $370.78 (2026-07-07, ~15-min delayed) |
+| Market cap | $1.76T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `AVGO.research.07.07.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +39.55%; price +3.78% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -22.24% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +35.73%; price +2.88% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -22.88% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 38.85%, revenue growth 47.90%. |
-| Value attractiveness | Reasonable | Forward P/E 19.28, EV/Sales 24.17. |
-| Risk level | Elevated | Beta 1.46, ATR 4.9% of price, short float 1.32%. |
+| Value attractiveness | Reasonable | Forward P/E 19.12, EV/Sales 24.17. |
+| Risk level | Elevated | Beta 1.46, ATR 4.8% of price, short float 1.32%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -37,29 +37,29 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Headline | Source | Date |
 |---|---|---|
 | Why does Apple still need Broadcom? The story behind their new AI deal | Yahoo Finance Video | 2026-07-06 |
-| Software's strongest pocket is back near records: Chart of the Day | Yahoo Finance | 2026-07-06 |
-| Broadcom signs multi-year chip supply deal with Apple until 2031 | Verdict | 2026-07-07 |
-| SpaceX Is in the Nasdaq-100, Now Brace for Volatility | Barrons.com | 2026-07-07 |
+| Semtech, Power Integrations, Amkor, Entegris, and Kulicke and Soffa Stocks Trade Down, What You Need To Know | StockStory | 2026-07-07 |
+| FormFactor, Penguin Solutions, Western Digital, Applied Materials, and KLA Corporation Shares Plummet, What You Need To Know | StockStory | 2026-07-07 |
+| DeepSeek Reportedly Develops AI Chip as Nvidia Shares Drop 2.2% | GuruFocus.com | 2026-07-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $373.90; 52w high $480.81 (-22.24%); 52w low $269.82 (+38.57%) |
-| Trend | +3.78% vs SMA200, -8.34% vs SMA50, -2.06% vs SMA20 |
-| Momentum | RSI(14) 44.8 (neutral) |
-| Volatility | ATR(14) 18.21 (~4.9% of price); beta 1.46 |
-| Setup perspective | -22.24% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $370.78; 52w high $480.81 (-22.88%); 52w low $269.82 (+37.42%) |
+| Trend | +2.88% vs SMA200, -8.89% vs SMA50, -2.69% vs SMA20 |
+| Momentum | RSI(14) 43.9 (neutral) |
+| Volatility | ATR(14) 17.76 (~4.8% of price); beta 1.46 |
+| Setup perspective | -22.88% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.4% |
-| Month | -21.9% |
-| Quarter | +19.1% |
-| Half Y | +8.4% |
-| 1Y | +39.5% |
-| YTD | +8.0% |
+| Week | -0.4% |
+| Month | -11.3% |
+| Quarter | +18.1% |
+| Half Y | +7.1% |
+| 1Y | +35.7% |
+| YTD | +7.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $75.46B | Revenue growth 47.90% y/y |
 | Profitability | Gross 76.28%, operating 48.99%, net 38.85% | ROA 12.12%, ROE 37.28% |
 | Balance sheet | Cash $19.63B, debt $64.91B | Current ratio 2.24, debt/equity 74.02 |
-| Valuation | P/E 62.11, forward P/E 19.28, P/S 23.57, P/B 20.29 | EV/Sales 24.17, EV/EBITDA 43.34 |
+| Valuation | P/E 61.59, forward P/E 19.12, P/S 23.38, P/B 20.12 | EV/Sales 24.17, EV/EBITDA 43.34 |
 | Growth expectations | Earnings growth 85.40%, EPS q/q 87.50% | Analyst mean target $523.73 (45 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Price (T.Rowe) Associates Inc | 84,470,754 | 1.78% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.46, ATR 4.9% of price, short float 1.32%. Size positions accordingly.
+- **Volatility risk:** Beta 1.46, ATR 4.8% of price, short float 1.32%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,25 +110,26 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $373.90 | EV/Sales | 24.17 |
-| Market cap | $1.78T | EV/EBITDA | 43.34 |
+| Price | $370.78 | EV/Sales | 24.17 |
+| Market cap | $1.76T | EV/EBITDA | 43.34 |
 | Beta | 1.46 | Gross margin | 76.28% |
-| RSI(14) | 44.8 | Operating margin | 48.99% |
-| ATR(14) | 18.21 | Profit margin | 38.85% |
-| SMA20 dist | -2.06% | ROA | 12.12% |
-| SMA50 dist | -8.34% | ROE | 37.28% |
-| SMA200 dist | +3.78% | Revenue (ttm) | $75.46B |
+| RSI(14) | 43.9 | Operating margin | 48.99% |
+| ATR(14) | 17.76 | Profit margin | 38.85% |
+| SMA20 dist | -2.69% | ROA | 12.12% |
+| SMA50 dist | -8.89% | ROE | 37.28% |
+| SMA200 dist | +2.88% | Revenue (ttm) | $75.46B |
 | 52W high | $480.81 | Revenue growth y/y | 47.90% |
 | 52W low | $269.82 | Inst. ownership | 79.84% |
-| P/E (ttm) | 62.11 | Insider ownership | 1.94% |
-| Forward P/E | 19.28 | Short float | 1.32% |
-| PEG (trailing) | 0.41 | Avg volume | 26,723,596 |
-| P/S | 23.57 | Employees | 33,000 |
-| P/B | 20.29 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/E (ttm) | 61.59 | Insider ownership | 1.94% |
+| Forward P/E | 19.12 | Short float | 1.32% |
+| PEG (trailing) | 0.41 | Avg volume | 26,579,240 |
+| P/S | 23.38 | Employees | 33,000 |
+| P/B | 20.12 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-07-07 | down | Erste Group | Buy → Hold |
 | 2026-06-04 | main | UBS | Buy → Buy |
 | 2026-06-04 | main | B of A Securities | Buy → Buy |
 | 2026-06-04 | main | Mizuho | Outperform → Outperform |
@@ -136,7 +137,6 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | 2026-06-04 | down | Macquarie | Outperform → Neutral |
 | 2026-06-04 | main | JP Morgan | Overweight → Overweight |
 | 2026-06-04 | main | Jefferies | Buy → Buy |
-| 2026-06-04 | main | DA Davidson | Neutral → Neutral |
 
 ## 9. Conclusion
 AVGO: Moderate momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

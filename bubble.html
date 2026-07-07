@@ -134,25 +134,123 @@
     — the AI Bubble Index and its methodology belong to AI Bubble Monitor; Santro AI mirrors the
     published values with attribution. Index updates daily.</p>
 
-    <!-- ── portfolio stress test ─────────────────────────────────────── -->
-    <section id="stress" style="margin-top:34px">
-      <h2 style="font-size:20px;margin:0 0 4px">Test your portfolio if the AI bubble bursts</h2>
-      <p style="color:var(--muted);font-size:13.5px;line-height:1.6;max-width:720px;margin:0 0 4px">
-        Paste your tickers (with optional weights) and Santro classifies your AI exposure and runs
-        bad-weather scenarios inspired by dot-com, 2008, the 2022 rate shock and crypto risk-off —
-        all computed in your browser.</p>
-      <p style="color:var(--faint);font-size:11.5px;margin:0 0 10px">Portfolio inputs are used only to
-        generate this stress test, right here in your browser — nothing is uploaded or stored. Never
-        enter brokerage credentials; Santro doesn't need them.</p>
-      <textarea id="st-in" rows="3" placeholder="NVDA 20%, SMH 15%, TAO 10%, MSFT 20%, CASH 35%  —  or just: NVDA, AMD, SPY"
-        style="width:100%;box-sizing:border-box;background:var(--panel);border:1px solid var(--border);border-radius:11px;color:var(--text);font:13.5px/1.5 ui-monospace,monospace;padding:12px 14px;resize:vertical"></textarea>
-      <div style="display:flex;gap:9px;margin-top:9px;flex-wrap:wrap">
-        <button id="st-run" style="font:inherit;font-weight:700;font-size:14px;background:var(--accent,#5b9df0);color:#fff;border:0;border-radius:10px;padding:12px 20px;cursor:pointer;min-height:46px">Run stress test</button>
-        <button id="st-share" style="display:none;font:inherit;font-weight:700;font-size:13px;background:var(--elev);color:var(--accent-2);border:1px solid var(--border);border-radius:10px;padding:12px 16px;cursor:pointer">Copy shareable result</button>
-      </div>
-      <div id="st-out" style="margin-top:14px"></div>
-      <p style="color:var(--faint);font-size:12px;margin-top:10px">This is a stress test, not a forecast.
-        Historical scenarios are simplified and may not repeat. Not financial advice.</p>
+
+    <!-- ── portfolio AI bubble stress test (premium module; engine: /stress-test.js) ── -->
+    <style>
+      #stress{margin-top:38px;}
+      #stress .st-h2{font-size:21px;margin:0 0 3px;letter-spacing:-.3px;}
+      #stress .st-sub{color:var(--muted);font-size:13.5px;line-height:1.6;max-width:760px;margin:0 0 3px;}
+      #stress .st-priv{color:var(--faint);font-size:11.5px;margin:0 0 14px;}
+      .st-wrap{display:grid;grid-template-columns:1.15fr .85fr;gap:14px;}
+      .st-panel{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:16px 17px;}
+      .st-lbl{font-size:10px;letter-spacing:.7px;text-transform:uppercase;color:var(--faint);font-weight:700;margin:0 0 9px;}
+      .st-tabs{display:flex;gap:6px;margin-bottom:11px;flex-wrap:wrap;}
+      .st-tab{font:inherit;font-size:12px;font-weight:700;padding:7px 13px;border-radius:8px;cursor:pointer;
+        background:var(--elev);color:var(--muted);border:1px solid var(--border-soft);}
+      .st-tab.on{background:rgba(224,167,63,.12);color:#e0a73f;border-color:rgba(224,167,63,.4);}
+      .st-ta{width:100%;box-sizing:border-box;background:#0d1117;border:1px solid var(--border);border-radius:10px;
+        color:var(--text);font:13px/1.6 ui-monospace,SFMono-Regular,Menlo,monospace;padding:12px 13px;resize:vertical;min-height:84px;}
+      html[data-theme="light"] .st-ta{background:#f2f4f8;}
+      .st-ta:focus{outline:none;border-color:rgba(224,167,63,.5);}
+      .st-help{font-size:11px;color:var(--faint);margin:7px 0 0;line-height:1.6;}
+      .st-help code{color:var(--muted);background:var(--elev);padding:1px 5px;border-radius:4px;}
+      .st-chips{display:flex;gap:6px;flex-wrap:wrap;margin:10px 0 0;}
+      .st-chip{font:inherit;font-size:11.5px;font-weight:700;padding:7px 11px;border-radius:999px;cursor:pointer;
+        background:var(--elev);color:var(--muted);border:1px solid var(--border-soft);}
+      .st-chip:hover{color:#e0a73f;border-color:rgba(224,167,63,.4);}
+      .st-check{display:flex;gap:8px;flex-wrap:wrap;margin:11px 0 0;min-height:22px;}
+      .st-pill{font-size:11px;font-weight:700;padding:4px 10px;border-radius:999px;background:var(--elev);
+        color:var(--muted);border:1px solid var(--border-soft);}
+      .st-pill.warn{color:#e0a73f;border-color:rgba(224,167,63,.35);}
+      .st-pill.bad{color:#f0596e;border-color:rgba(240,89,110,.35);}
+      .st-pill.ok{color:#22c55e;border-color:rgba(34,197,94,.3);}
+      .st-actions{display:flex;gap:9px;margin-top:13px;flex-wrap:wrap;}
+      .st-run{font:inherit;font-weight:800;font-size:14px;letter-spacing:.2px;background:linear-gradient(135deg,#e0a73f,#c98a1e);
+        color:#171205;border:0;border-radius:10px;padding:13px 22px;cursor:pointer;min-height:47px;}
+      .st-run:hover{filter:brightness(1.07);}
+      .st-ghost{font:inherit;font-weight:700;font-size:13px;background:var(--elev);color:var(--muted);
+        border:1px solid var(--border-soft);border-radius:10px;padding:12px 16px;cursor:pointer;}
+      .st-prev{display:grid;gap:8px;}
+      .st-prevcard{background:var(--elev);border:1px solid var(--border-soft);border-radius:10px;padding:10px 12px;}
+      .st-prevcard b{font-size:12.5px;color:var(--text);}
+      .st-prevcard p{font-size:11px;color:var(--muted);margin:3px 0 0;line-height:1.5;}
+      .st-sev{float:right;font-size:9.5px;font-weight:800;letter-spacing:.5px;text-transform:uppercase;padding:2px 7px;border-radius:5px;}
+      .st-sev.mod{background:rgba(224,167,63,.12);color:#e0a73f;}
+      .st-sev.high{background:rgba(240,89,110,.12);color:#f0596e;}
+      .st-sev.tail{background:rgba(185,28,28,.18);color:#f08a8a;}
+      /* manual rows */
+      .st-rows{display:grid;gap:6px;}
+      .st-row{display:grid;grid-template-columns:1.2fr .9fr .7fr 34px;gap:6px;}
+      .st-row input,.st-row select{font:inherit;font-size:12.5px;background:#0d1117;border:1px solid var(--border-soft);
+        border-radius:8px;color:var(--text);padding:9px 10px;min-width:0;}
+      html[data-theme="light"] .st-row input,html[data-theme="light"] .st-row select{background:#f2f4f8;}
+      .st-row button{background:var(--elev);border:1px solid var(--border-soft);border-radius:8px;color:#f0596e;cursor:pointer;font-size:14px;}
+      .st-addrow{font:inherit;font-size:12px;font-weight:700;background:none;border:1px dashed var(--border);border-radius:8px;
+        color:var(--muted);padding:9px;cursor:pointer;margin-top:6px;width:100%;}
+      /* analyzing */
+      .st-scan{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:22px;}
+      .st-scanbar{height:6px;background:var(--elev);border-radius:999px;overflow:hidden;margin:14px 0 12px;}
+      .st-scanbar i{display:block;height:100%;background:linear-gradient(90deg,#e0a73f,#f0596e);border-radius:999px;width:0%;transition:width .28s ease;}
+      .st-steps{display:grid;gap:6px;font:12px ui-monospace,monospace;color:var(--faint);}
+      .st-steps .done{color:#22c55e;}
+      .st-steps .cur{color:#e0a73f;}
+      /* dashboard */
+      .st-stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:12px;}
+      .st-stat{background:var(--panel);border:1px solid var(--border);border-radius:13px;padding:14px 15px;min-width:0;}
+      .st-stat .k{font-size:9.5px;letter-spacing:.7px;text-transform:uppercase;color:var(--faint);font-weight:700;}
+      .st-stat .v{font-size:clamp(20px,2vw,28px);font-weight:800;margin-top:5px;letter-spacing:-.5px;}
+      .st-stat .s{font-size:11px;color:var(--muted);margin-top:3px;line-height:1.45;}
+      .st-gauge{height:8px;background:var(--elev);border-radius:999px;overflow:hidden;margin-top:8px;}
+      .st-gauge i{display:block;height:100%;border-radius:999px;}
+      .st-sec{margin-top:16px;}
+      .st-sec h3{font-size:11px;letter-spacing:.7px;text-transform:uppercase;color:var(--faint);font-weight:800;margin:0 0 8px;}
+      .st-matrix{display:grid;gap:8px;}
+      .st-mrow{display:grid;grid-template-columns:1.1fr .9fr 1fr 1.6fr;gap:12px;align-items:center;
+        background:var(--panel);border:1px solid var(--border-soft);border-radius:11px;padding:12px 15px;}
+      .st-mrow .nm{font-size:13px;font-weight:700;color:var(--text);}
+      .st-mrow .rng{font-size:17px;font-weight:800;color:#f0596e;white-space:nowrap;}
+      .st-mrow .rng small{font-size:11px;color:var(--faint);font-weight:600;}
+      .st-rbar{height:5px;background:var(--elev);border-radius:999px;overflow:hidden;margin-top:5px;max-width:150px;}
+      .st-rbar i{display:block;height:100%;background:linear-gradient(90deg,#e0a73f,#b91c1c);border-radius:999px;}
+      .st-mrow .src{font-size:11px;color:var(--muted);line-height:1.5;}
+      .st-mrow .why{font-size:11px;color:var(--faint);line-height:1.55;}
+      .st-buckets{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:8px;}
+      .st-bk{background:var(--panel);border:1px solid var(--border-soft);border-radius:11px;padding:11px 13px;min-width:0;}
+      .st-bk b{font-size:12.5px;color:var(--text);display:flex;justify-content:space-between;}
+      .st-bk .tk{font-size:10.5px;color:var(--faint);margin-top:4px;line-height:1.5;word-break:break-word;}
+      .st-stack{height:16px;border-radius:999px;overflow:hidden;display:flex;background:var(--elev);margin:4px 0 12px;}
+      .st-frag{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:8px;}
+      .st-fg{background:var(--panel);border:1px solid var(--border-soft);border-radius:11px;padding:11px 13px;border-left:3px solid #e0a73f;}
+      .st-fg.bad{border-left-color:#f0596e;}
+      .st-fg b{color:var(--text);font-size:13px;} .st-fg .w{color:#e0a73f;font-weight:700;font-size:12px;}
+      .st-fg p{font-size:11px;color:var(--muted);margin:4px 0 0;line-height:1.5;}
+      .st-verify{background:var(--panel);border:1px solid var(--border-soft);border-radius:11px;padding:13px 15px;}
+      .st-verify li{font-size:12px;color:var(--muted);line-height:1.9;}
+      .st-verify li::marker{content:"☐  ";color:#e0a73f;}
+      .st-bar2{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px;}
+      .st-bar2 a,.st-bar2 button{font:inherit;font-size:12.5px;font-weight:700;padding:11px 15px;border-radius:10px;
+        cursor:pointer;text-decoration:none;background:var(--elev);color:var(--text);border:1px solid var(--border-soft);}
+      .st-bar2 .amber{background:rgba(224,167,63,.12);color:#e0a73f;border-color:rgba(224,167,63,.4);}
+      .st-note{font-size:11.5px;color:#e0a73f;margin:8px 0 0;}
+      .st-disc{color:var(--faint);font-size:11.5px;margin-top:12px;line-height:1.6;}
+      @media (max-width:860px){
+        .st-wrap{grid-template-columns:1fr;}
+        .st-stats{grid-template-columns:1fr 1fr;}
+        .st-mrow{grid-template-columns:1fr 1fr;row-gap:8px;}
+        .st-mrow .why{grid-column:1/-1;}
+      }
+      @media (max-width:480px){ .st-stats{grid-template-columns:1fr 1fr;} .st-mrow{grid-template-columns:1fr;} }
+    </style>
+    <section id="stress">
+      <h2 class="st-h2">Portfolio AI bubble stress test</h2>
+      <p class="st-sub">Paste your holdings and Santro classifies AI exposure, repeated risk, and scenario
+        drawdowns under bad-weather market conditions — AI bubble burst, dot-com de-rating, 2008 liquidity,
+        2022 rate shock, crypto risk-off, and a depression-style tail.</p>
+      <p class="st-priv">Stress test, not forecast · computed locally in your browser · no brokerage login,
+        no passwords — paste tickers only.</p>
+      <div id="st-stage"></div>
+      <p class="st-disc">This is a stress test, not a forecast. Scenarios are simplified and may not repeat.
+        Weights are optional — if missing, Santro assumes equal weight and labels the assumption. Not financial advice.</p>
     </section>
 
   </main>
@@ -299,62 +397,210 @@ async function loadBubbleNews(){
 }
 load(); setInterval(load, 300000);
 </script>
-<script src="/stress-test.js?v=1"></script>
+<script src="/stress-test.js?v=2"></script>
 <script>
 (function(){
-  const $=id=>document.getElementById(id);
-  let last=null;
-  const pretty=b=>(b||"").replace(/_/g," ").replace("ai ","AI ");
+  const stage=document.getElementById("st-stage");
+  if(!stage||!window.SantroStress) return;
+  const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+  const pretty=b=>(b||"").replace(/_/g," ").replace(/^ai /,"AI ");
   const BCOL={ai_semis:"#f0596e",ai_semis_equipment:"#f08a5a",ai_cloud:"#5b9df0",ai_data_centers:"#7cb0f5",
     ai_power_energy:"#e0a73f",ai_software:"#c05af0",ai_cybersecurity:"#5af0c0",ai_robotics:"#f05aa8",
     ai_etf_concentrated:"#9d5af0",ai_crypto:"#f0d05a",mega_cap_tech:"#69cd91",broad_market:"#22c55e",
     high_duration_growth:"#f0596e",small_cap_speculative:"#b91c1c",defensive_or_cash:"#6b7684",unknown_asset:"#3a4556"};
-  $("st-run").onclick=()=>{
-    const r=SantroStress.run($("st-in").value);
-    if(r.error){ $("st-out").innerHTML=`<div style="color:#e0a73f;font-size:13px">${r.error} Try: NVDA 20%, SMH 15%, CASH 65%</div>`; return; }
-    last=r;
-    const col=r.risk_label==="extreme"?"#b91c1c":r.risk_label==="high"?"#f0596e":r.risk_label==="moderate"?"#e0a73f":"#22c55e";
-    const bar=Object.entries(r.bucket_weights).sort((a,b)=>b[1]-a[1]).map(([b,w])=>
-      `<i title="${pretty(b)} ${w}%" style="width:${w}%;background:${BCOL[b]||"#444"}"></i>`).join("");
-    const legend=Object.entries(r.bucket_weights).sort((a,b)=>b[1]-a[1]).slice(0,8).map(([b,w])=>
-      `<span style="font-size:11px;color:var(--muted)"><i style="display:inline-block;width:8px;height:8px;border-radius:2px;background:${BCOL[b]||"#444"};margin-right:4px"></i>${pretty(b)} ${w}%</span>`).join(" ");
-    const scen=r.scenario_results.map(s=>`
-      <div style="background:var(--panel);border:1px solid var(--border-soft);border-radius:12px;padding:13px 15px">
-        <b style="font-size:13.5px;color:var(--text)">${s.scenario_name}</b>
-        <div style="font-size:20px;font-weight:800;margin:5px 0;color:#f0596e">${s.estimated_portfolio_drawdown_range[1]}% <span style="font-size:12px;color:var(--faint);font-weight:600">to</span> ${s.estimated_portfolio_drawdown_range[0]}%</div>
-        <div style="font-size:11.5px;color:var(--muted);line-height:1.55">${s.interpretation}</div>
-      </div>`).join("");
-    const frag=r.fragility_map.filter(f=>f.risk_flag!=="ok").slice(0,8).map(f=>
-      `<span style="font-size:12px;background:var(--elev);border:1px solid var(--border-soft);border-radius:999px;padding:6px 11px;color:var(--muted)"><b style="color:var(--text)">${f.symbol}</b> ${f.weight_pct}% · ${pretty(f.risk_flag)}</span>`).join(" ");
-    $("st-out").innerHTML=`
-      <div style="background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:18px">
-        <div style="display:flex;gap:16px;align-items:baseline;flex-wrap:wrap">
-          <span style="font-size:34px;font-weight:800;color:${col}">${r.portfolio_risk_score}/100</span>
-          <span style="font-weight:800;color:${col};text-transform:uppercase;letter-spacing:.5px">${r.risk_label}</span>
-          <span style="font-size:12.5px;color:var(--muted)">AI exposure ${r.ai_exposure_pct}% · top-5 concentration ${r.concentration_score}%${r.unknown_weight_pct?` · unknown ${r.unknown_weight_pct}%`:""}</span>
+  const SEV={"AI-specific bubble burst":["high","AI narrative"],"Dot-com style AI de-rating":["high","growth multiples"],
+    "2008-style liquidity shock":["high","everything correlated"],"2022-style rate shock":["mod","long duration"],
+    "Crypto risk-off":["mod","AI tokens"],"Extreme tail stress (depression-style)":["tail","tail scenario"]};
+  const SAMPLES=[["AI semis","NVDA 25%, AMD 10%, SMH 20%, CASH 45%"],
+    ["AI crypto","TAO 30%, RENDER 20%, NVDA 20%, CASH 30%"],
+    ["Balanced","SPY 40%, QQQ 20%, NVDA 10%, SMH 10%, CASH 20%"],
+    ["Defensive check","MSFT 20%, GOOGL 15%, SPY 40%, CASH 25%"]];
+  let mode="paste", rowsData=[{s:"",t:"stock",w:""}], lastText="", last=null;
+
+  function inputState(){
+    const prev=SantroStress.SCENARIOS.map(sc=>{
+      const [cls,what]=SEV[sc.name]||["mod",""];
+      return `<div class="st-prevcard"><span class="st-sev ${cls}">${cls==="tail"?"tail risk":cls==="high"?"severe":"moderate"}</span>
+        <b>${esc(sc.name)}</b><p>Stresses ${esc(what)} — ${esc(sc.desc)}</p></div>`;}).join("");
+    stage.innerHTML=`
+    <div class="st-wrap">
+      <div class="st-panel">
+        <p class="st-lbl">Paste portfolio</p>
+        <div class="st-tabs">
+          <button class="st-tab ${mode==="paste"?"on":""}" data-m="paste">Quick paste</button>
+          <button class="st-tab ${mode==="rows"?"on":""}" data-m="rows">Manual rows</button>
         </div>
-        <p style="font-size:13px;color:var(--muted);line-height:1.65;margin:10px 0 0">${r.plain_english_summary}</p>
-        ${r.assumptions.length?`<p style="font-size:11.5px;color:#e0a73f;margin:8px 0 0">Assumptions: ${r.assumptions.join(" ")}</p>`:""}
-        <div style="height:14px;border-radius:999px;overflow:hidden;display:flex;margin:14px 0 6px;background:var(--elev)">${bar}</div>
-        <div style="display:flex;gap:10px;flex-wrap:wrap">${legend}</div>
+        <div id="st-inmode"></div>
+        <div class="st-chips" id="st-samples">
+          ${SAMPLES.map((s,i)=>`<button class="st-chip" data-i="${i}" title="${esc(s[1])}">⚗ ${esc(s[0])} <span style="opacity:.6">· sample</span></button>`).join("")}
+        </div>
+        <div class="st-check" id="st-check"></div>
+        <div class="st-actions">
+          <button class="st-run" id="st-run">Run stress test</button>
+          <button class="st-ghost" id="st-clear">Clear</button>
+        </div>
       </div>
-      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px;margin-top:12px">${scen}</div>
-      ${frag?`<div style="margin-top:12px"><b style="font-size:12px;text-transform:uppercase;letter-spacing:.6px;color:var(--faint)">Fragility flags</b><div style="display:flex;gap:7px;flex-wrap:wrap;margin-top:7px">${frag}</div></div>`:""}
-      <div style="margin-top:12px;font-size:12.5px;color:var(--muted)"><b style="color:var(--text)">Before trusting this:</b> ${r.what_to_verify.join(" · ")}</div>
-      <div style="margin-top:12px;font-size:12.5px"><a href="/signup" style="color:var(--accent-2);font-weight:700">Create a free account</a> <span style="color:var(--faint)">to build a watchlist and set alerts on your most fragile names (saved stress tests coming soon).</span></div>`;
-    $("st-share").style.display="inline-block";
-  };
-  $("st-share").onclick=async()=>{
-    if(!last) return;
-    const w=last.scenario_results.find(s=>/AI-specific/.test(s.scenario_name));
-    const themes=last.repeated_exposures.slice(0,3).map(t=>pretty(t.theme)).join(", ")||"diversified";
-    // privacy: score + ranges + themes only — never the holdings
-    const txt=`My AI bubble stress score: ${last.portfolio_risk_score}/100 (${last.risk_label}). `+
-      `AI-burst scenario range: ${w.estimated_portfolio_drawdown_range[1]}% to ${w.estimated_portfolio_drawdown_range[0]}%. `+
-      `Top exposure: ${themes}. Test yours at santroai.tech/bubble — not financial advice.`;
-    try{ await navigator.clipboard.writeText(txt); $("st-share").textContent="Copied ✓";
-      setTimeout(()=>$("st-share").textContent="Copy shareable result",1600);}catch(e){}
-  };
+      <div class="st-panel">
+        <p class="st-lbl">What you get · 6 bad-weather scenarios</p>
+        <div class="st-prev">${prev}
+          <div class="st-prevcard"><b>🔒 Privacy</b><p>No brokerage credentials. Your input is used only to
+          generate this stress test, locally in the browser — nothing is uploaded, stored or logged.</p></div>
+        </div>
+      </div>
+    </div>`;
+    renderInMode();
+    stage.querySelectorAll(".st-tab").forEach(t=>t.onclick=()=>{mode=t.dataset.m;inputState();});
+    stage.querySelector("#st-samples").querySelectorAll(".st-chip").forEach(c=>c.onclick=()=>{
+      mode="paste"; lastText=SAMPLES[+c.dataset.i][1]; inputState();});
+    stage.querySelector("#st-run").onclick=runFlow;
+    stage.querySelector("#st-clear").onclick=()=>{lastText="";rowsData=[{s:"",t:"stock",w:""}];inputState();};
+  }
+  function renderInMode(){
+    const box=stage.querySelector("#st-inmode");
+    if(mode==="paste"){
+      box.innerHTML=`<textarea class="st-ta" id="st-in" rows="3"
+        placeholder="NVDA 20%, SMH 15%, TAO 10%, MSFT 20%, CASH 35%">${esc(lastText)}</textarea>
+        <p class="st-help">Accepted: <code>NVDA 20%, SMH 15%</code> · <code>NVDA, AMD, SPY</code> ·
+        <code>NVDA:20 SMH:15 CASH:35</code> · one per line also works. Weights optional.</p>`;
+      const ta=box.querySelector("#st-in");
+      ta.addEventListener("input",()=>{lastText=ta.value;feedback();});
+    } else {
+      box.innerHTML=`<div class="st-rows" id="st-rows"></div>
+        <button class="st-addrow" id="st-add">+ add row</button>`;
+      drawRows();
+      box.querySelector("#st-add").onclick=()=>{rowsData.push({s:"",t:"stock",w:""});drawRows();};
+    }
+    feedback();
+  }
+  function drawRows(){
+    const host=stage.querySelector("#st-rows");
+    host.innerHTML=rowsData.map((r,i)=>`
+      <div class="st-row">
+        <input placeholder="Symbol" value="${esc(r.s)}" data-i="${i}" data-f="s" style="text-transform:uppercase">
+        <select data-i="${i}" data-f="t">
+          ${["stock","etf","crypto","cash"].map(t=>`<option ${r.t===t?"selected":""}>${t}</option>`).join("")}
+        </select>
+        <input placeholder="wt %" inputmode="decimal" value="${esc(r.w)}" data-i="${i}" data-f="w">
+        <button data-del="${i}" title="Remove">×</button>
+      </div>`).join("");
+    host.querySelectorAll("input,select").forEach(el=>el.addEventListener("input",()=>{
+      rowsData[+el.dataset.i][el.dataset.f]=el.value; syncRows(); feedback();}));
+    host.querySelectorAll("[data-del]").forEach(b=>b.onclick=()=>{rowsData.splice(+b.dataset.del,1);drawRows();syncRows();feedback();});
+    syncRows();
+  }
+  function syncRows(){ lastText=rowsData.filter(r=>r.s.trim())
+      .map(r=>r.s.trim().toUpperCase()+(r.w?" "+r.w:"")).join(", "); }
+  function feedback(){
+    const box=stage.querySelector("#st-check"); if(!box) return;
+    if(!lastText.trim()){ box.innerHTML=`<span class="st-pill">waiting for input…</span>`; return; }
+    const p=SantroStress.parse(lastText);
+    const cls=p.holdings.map(h=>SantroStress.classify(h));
+    const unk=cls.filter(c=>c.unknown);
+    const total=p.holdings.reduce((a,h)=>a+h.weight_pct,0);
+    box.innerHTML=[
+      `<span class="st-pill ok">${p.holdings.length} position${p.holdings.length===1?"":"s"}</span>`,
+      `<span class="st-pill ${Math.abs(total-100)<1?"ok":"warn"}">weights ${total.toFixed(0)}%</span>`,
+      unk.length?`<span class="st-pill warn">${unk.length} unknown: ${unk.slice(0,3).map(u=>u.symbol).join(", ")}${unk.length>3?"…":""}</span>`:"",
+      p.notes.length?`<span class="st-pill warn">${esc(p.notes[0])}</span>`:""
+    ].join("");
+  }
+  function runFlow(){
+    if(!lastText.trim()){ feedback(); return; }
+    const steps=["classifying exposure…","mapping AI themes…","checking repeated risk…","running bad-weather scenarios…","building stress report…"];
+    stage.innerHTML=`<div class="st-scan"><p class="st-lbl">Stress engine</p>
+      <div class="st-scanbar"><i id="st-fill"></i></div>
+      <div class="st-steps" id="st-steps">${steps.map(s=>`<span>· ${s}</span>`).join("")}</div></div>`;
+    const fill=stage.querySelector("#st-fill"), els=[...stage.querySelectorAll("#st-steps span")];
+    let i=0;
+    const tick=()=>{ if(i>0){els[i-1].className="done";els[i-1].textContent="✓ "+steps[i-1];}
+      if(i<steps.length){ els[i].className="cur"; fill.style.width=((i+1)/steps.length*100)+"%"; i++; setTimeout(tick,190); }
+      else { last=SantroStress.run(lastText); dashboard(); } };
+    tick();
+  }
+  function dashboard(){
+    const r=last;
+    if(r.error){ inputState(); return; }
+    const col=r.risk_label==="extreme"?"#b91c1c":r.risk_label==="high"?"#f0596e":r.risk_label==="moderate"?"#e0a73f":"#22c55e";
+    const worst=r.scenario_results.slice().sort((a,b)=>a.estimated_portfolio_drawdown_range[1]-b.estimated_portfolio_drawdown_range[1])[0];
+    const stack=Object.entries(r.bucket_weights).sort((a,b)=>b[1]-a[1]).map(([b,w])=>
+      `<i title="${pretty(b)} ${w}%" style="width:${w}%;background:${BCOL[b]||"#444"}"></i>`).join("");
+    const bkCards=Object.entries(r.bucket_weights).sort((a,b)=>b[1]-a[1]).map(([b,w])=>{
+      const syms=r.fragility_map.filter(f=>f.primary_bucket===b).map(f=>f.symbol).slice(0,6);
+      return `<div class="st-bk"><b><span style="color:${BCOL[b]||"#888"}">${pretty(b)}</span><span>${w}%</span></b>
+        <div class="tk">${syms.join(" · ")||"—"}</div></div>`;}).join("");
+    const matrix=r.scenario_results.map(s=>{
+      const [cls]=SEV[s.scenario_name]||["mod"];
+      const width=Math.min(100,Math.abs(s.estimated_portfolio_drawdown_range[1]));
+      return `<div class="st-mrow">
+        <div><span class="st-sev ${cls}" style="float:none;margin-right:7px">${cls==="tail"?"tail":cls==="high"?"severe":"moderate"}</span>
+          <span class="nm">${esc(s.scenario_name)}</span></div>
+        <div><span class="rng">${s.estimated_portfolio_drawdown_range[1]}% <small>to ${s.estimated_portfolio_drawdown_range[0]}%</small></span>
+          <div class="st-rbar"><i style="width:${width}%"></i></div></div>
+        <div class="src"><b style="color:var(--text)">Damage:</b> ${s.main_damage_sources.map(pretty).join(", ")}<br>
+          <b style="color:var(--text)">Most exposed:</b> ${s.top_contributors_to_loss.slice(0,3).map(c=>c.symbol).join(", ")||"—"}</div>
+        <div class="why">${esc(s.interpretation)}</div>
+      </div>`;}).join("");
+    const FLAGDESC={crowded_ai_beta:"Large weight in crowded AI beta — verify concentration.",
+      crowded_speculative:"Small/speculative name — check liquidity before trusting the range.",
+      single_name_concentration:"Single position dominates the book — review overlap.",
+      unknown_asset:"Santro couldn't classify this — verify exposure manually."};
+    const frag=r.fragility_map.filter(f=>f.risk_flag!=="ok").slice(0,9).map(f=>
+      `<div class="st-fg ${/unknown|speculative/.test(f.risk_flag)?"bad":""}">
+        <b>${esc(f.symbol)}</b> <span class="w">${f.weight_pct}%</span>
+        <span style="font-size:10.5px;color:var(--faint)"> · ${pretty(f.primary_bucket)}</span>
+        <p>${FLAGDESC[f.risk_flag]||pretty(f.risk_flag)}</p></div>`).join("");
+    const rep=r.repeated_exposures.slice(0,4).map(t=>
+      `<div class="st-fg"><b>${pretty(t.theme)}</b> <span class="w">${t.total_weight_pct}%</span>
+        <p>Repeated through ${t.symbols.join(", ")} — the same theme may hit you ${t.symbols.length}× at once. Review overlap.</p></div>`).join("");
+    stage.innerHTML=`
+      <div class="st-stats">
+        <div class="st-stat"><span class="k">Portfolio AI bubble risk</span>
+          <div class="v" style="color:${col}">${r.portfolio_risk_score}/100</div>
+          <div class="s" style="color:${col};font-weight:800;text-transform:uppercase">${r.risk_label}</div>
+          <div class="st-gauge"><i style="width:${r.portfolio_risk_score}%;background:${col}"></i></div></div>
+        <div class="st-stat"><span class="k">Worst scenario</span>
+          <div class="v" style="color:#f0596e">${worst.estimated_portfolio_drawdown_range[1]}%</div>
+          <div class="s">${esc(worst.scenario_name)} · to ${worst.estimated_portfolio_drawdown_range[0]}% · modeled range, not a forecast</div></div>
+        <div class="st-stat"><span class="k">AI exposure</span>
+          <div class="v" style="color:#e0a73f">${r.ai_exposure_pct}%</div>
+          <div class="s">top-5 concentration ${r.concentration_score}%</div></div>
+        <div class="st-stat"><span class="k">Needs verification</span>
+          <div class="v" style="color:${r.unknown_weight_pct?"#f0596e":"#22c55e"}">${r.unknown_weight_pct}%</div>
+          <div class="s">${r.unknown_weight_pct?"unrecognized assets excluded from the math":"all holdings classified"}</div></div>
+      </div>
+      <p style="font-size:12.5px;color:var(--muted);line-height:1.6;margin:0 0 6px">${esc(r.plain_english_summary)}</p>
+      ${r.assumptions.length?`<p class="st-note">Assumptions: ${r.assumptions.map(esc).join(" ")}</p>`:""}
+      <div class="st-sec"><h3>Exposure breakdown</h3>
+        <div class="st-stack">${stack}</div>
+        <div class="st-buckets">${bkCards}</div></div>
+      <div class="st-sec"><h3>Scenario matrix</h3><div class="st-matrix">${matrix}</div></div>
+      ${frag?`<div class="st-sec"><h3>Where the portfolio breaks first</h3><div class="st-frag">${frag}</div></div>`:""}
+      ${rep?`<div class="st-sec"><h3>Hidden repeated exposure</h3><div class="st-frag">${rep}</div></div>`:""}
+      <div class="st-sec"><h3>Before trusting this, verify</h3>
+        <div class="st-verify"><ul style="margin:0;padding-left:18px">
+          ${r.what_to_verify.map(v=>`<li>${esc(v)}</li>`).join("")}
+          <li>options/leverage exposure this test can't see</li>
+          <li>whether your cash is actually cash</li>
+        </ul></div></div>
+      <div class="st-bar2">
+        <button class="amber" id="st-copy">Copy summary</button>
+        <button id="st-again">Run another portfolio</button>
+        <a href="/signup">Create account to save stress tests</a>
+        <a href="/bubble#top">AI bubble risk</a>
+        <a href="/terminal">Open terminal</a>
+      </div>`;
+    stage.querySelector("#st-again").onclick=inputState;
+    stage.querySelector("#st-copy").onclick=async()=>{
+      const themes=r.repeated_exposures.slice(0,3).map(t=>pretty(t.theme)).join(", ")||"diversified";
+      const txt=`My AI bubble stress score: ${r.portfolio_risk_score}/100 (${r.risk_label}). `+
+        `Worst scenario "${worst.scenario_name}": ${worst.estimated_portfolio_drawdown_range[1]}% to ${worst.estimated_portfolio_drawdown_range[0]}%. `+
+        `Top exposure: ${themes}. Test yours at santroai.tech/bubble — not financial advice.`;
+      try{ await navigator.clipboard.writeText(txt);
+        const b=stage.querySelector("#st-copy"); b.textContent="Copied ✓"; setTimeout(()=>b.textContent="Copy summary",1500);}catch(e){}
+    };
+    stage.scrollIntoView({behavior:"smooth",block:"start"});
+  }
+  inputState();
 })();
 </script>
 <script src="site.js?v=10"></script>

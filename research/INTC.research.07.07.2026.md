@@ -36,8 +36,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| Memory chip stocks fall into a bull market amid latest tech sell-off | Yahoo Finance Video | 2026-07-07 |
-| Micron, Samsung, SK Hynix just dragged memory stocks into a bear market | Yahoo Finance | 2026-07-07 |
+| Samsung saw a record quarter, but it's not enough for investors. Here's why. | Yahoo Finance Video | 2026-07-07 |
+| Update: Dow Snaps Record Run Amid Tech Sell-Off, Oil Price Jump | MT Newswires | 2026-07-07 |
 | US Equity Markets Lower as Semiconductor Stocks Fall, Crude Oil Prices Rise | MT Newswires | 2026-07-07 |
 | Update: US Equity Indexes Dive After Sell-Off in Mega-Cap Chipmakers, Revocation of Iran's Authorization to Sell Crude Oil | MT Newswires | 2026-07-07 |
 

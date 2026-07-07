@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Samsung saw a record quarter, but it's not enough for investors. Here's why. | Yahoo Finance Video | 2026-07-07 |
+| Michael Burry Just Revealed His Next Big Short, and It's a Bet Against Nvidia, Micron, and AMD | Motley Fool | 2026-07-07 |
+| Update: Dow Snaps Record Run Amid Tech Sell-Off, Oil Price Jump | MT Newswires | 2026-07-07 |
 | US Equity Markets Lower as Semiconductor Stocks Fall, Crude Oil Prices Rise | MT Newswires | 2026-07-07 |
-| Chip Stocks Just Flashed a Warning Even Wall Street’s Bulls Can’t Ignore | 24/7 Wall St. | 2026-07-07 |
-| Nvidia and AMD Face China Chip Pressure | GuruFocus.com | 2026-07-07 |
-| 📉 Which Tech Stocks Are Falling the Most Today? | The Wall Street Journal | 2026-07-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

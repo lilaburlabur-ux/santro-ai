@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Update: Dow Snaps Record Run Amid Tech Sell-Off, Oil Price Jump | MT Newswires | 2026-07-07 |
 | US Equity Markets Lower as Semiconductor Stocks Fall, Crude Oil Prices Rise | MT Newswires | 2026-07-07 |
 | 📉 Which Tech Stocks Are Falling the Most Today? | The Wall Street Journal | 2026-07-07 |
 | Update: Chip Stocks Weigh on Equities Intraday; Oil Rises on Hormuz Tensions | MT Newswires | 2026-07-07 |
-| Intel, Micron, SpaceX, GE Vernova, Caterpillar, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

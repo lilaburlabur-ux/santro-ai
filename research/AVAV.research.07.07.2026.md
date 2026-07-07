@@ -36,10 +36,10 @@ AeroVironment, Inc. designs, develops, produces, delivers, and supports a portfo
 
 | Headline | Source | Date |
 |---|---|---|
+| Trump Just Made An Obscure Pentagon Office Bigger Than The Marine Corps. Here Are 5 Stocks For This $1.5 Trillion Defense Opportunity | 24/7 Wall St. | 2026-07-07 |
 | Lockheed Martin and 7 More Stocks That Could Benefit From the NATO Meeting in Turkey | Barrons.com | 2026-07-07 |
 | AeroVironment's Investors Focused on Mid-Term Organic Growth Outlook, RBC Capital Markets Says | MT Newswires | 2026-07-07 |
 | AeroVironment (AVAV) Secures $80.5 Million Titan MS Order Under Domestic Shield | Simply Wall St. | 2026-07-07 |
-| KTOS Stock Jumps 23.6% in a Year: Is the Momentum Sustainable? | Zacks | 2026-07-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
-| Samsung and AI chip stocks fall after 19-fold rise in profit fails to impress investors | Yahoo Finance | 2026-07-07 |
-| US Equity Markets Lower as Semiconductor Stocks Fall, Crude Oil Prices Rise | MT Newswires | 2026-07-07 |
-| Why Micron Outweighs Meta 2-to-1 in the Nasdaq 100, Even Though Meta Is Way Bigger | 24/7 Wall St. | 2026-07-07 |
-| S&P 500 ends down as AI worries hit chipmakers | Reuters | 2026-07-07 |
+| Samsung saw a record quarter, but it's not enough for investors. Here's why. | Yahoo Finance Video | 2026-07-07 |
+| Micron, Chip Stocks Fall Despite Samsung Profit Surge | Investor's Business Daily | 2026-07-07 |
+| Michael Burry Just Revealed His Next Big Short, and It's a Bet Against Nvidia, Micron, and AMD | Motley Fool | 2026-07-07 |
+| Dow Jones Futures: Nasdaq Slumps As Samsung Fans AI Fears, Oil Prices Jump On Iran News | Investor's Business Daily | 2026-07-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

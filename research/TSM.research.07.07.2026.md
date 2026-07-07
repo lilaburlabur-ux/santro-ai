@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| DeepSeek looks to reduce reliance on Nvidia with own AI chip | Yahoo Finance Video | 2026-07-07 |
+| Samsung saw a record quarter, but it's not enough for investors. Here's why. | Yahoo Finance Video | 2026-07-07 |
 | This Semiconductor ETF Is Up 58% This Year and Doesn’t Own TSMC | 24/7 Wall St. | 2026-07-07 |
 | Up 102% in 2026, This Chip ETF Mysteriously Avoids Taiwan Semiconductor | 24/7 Wall St. | 2026-07-07 |
-| Bank of America Analyst: AI Is Becoming “Deeply Embedded in Enterprise Workflows” as AI Spending Could Reach $1.5 Trillion | 24/7 Wall St. | 2026-07-07 |
-| Wall Street tech analyst explains why investors should look past Samsung selloff | Investing.com | 2026-07-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

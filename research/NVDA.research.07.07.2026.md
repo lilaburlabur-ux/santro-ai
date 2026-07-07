@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech stocks live: Chip stocks sell off, SpaceX joins Nasdaq-100 | Yahoo Finance | 2026-07-06 |
-| Why this AI chip startup could rival Nvidia | Yahoo Finance Video | 2026-07-06 |
-| US Equity Markets Lower as Semiconductor Stocks Fall, Crude Oil Prices Rise | MT Newswires | 2026-07-07 |
-| Why Micron Outweighs Meta 2-to-1 in the Nasdaq 100, Even Though Meta Is Way Bigger | 24/7 Wall St. | 2026-07-07 |
+| DeepSeek looks to reduce reliance on Nvidia with own AI chip | Yahoo Finance Video | 2026-07-07 |
+| Jim Cramer sends strong signal to Nvidia stock investors amid rumors | TheStreet | 2026-07-07 |
+| Why Tilray Stock Tumbled Last Month | Motley Fool | 2026-07-07 |
+| Trump Just Made An Obscure Pentagon Office Bigger Than The Marine Corps. Here Are 5 Stocks For This $1.5 Trillion Defense Opportunity | 24/7 Wall St. | 2026-07-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

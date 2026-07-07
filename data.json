@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-07T21:11:15+00:00",
-  "as_of_local": "2026-07-07 21:11:15 UTC",
+  "as_of_utc": "2026-07-07T21:16:46+00:00",
+  "as_of_local": "2026-07-07 21:16:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -21,16 +19,44 @@
           "published": "2026-07-07T20:33:13Z"
         },
         {
-          "title": "Why this AI chip startup could rival Nvidia",
-          "url": "https://finance.yahoo.com/video/why-this-ai-chip-startup-could-rival-nvidia-211438725.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-06T21:14:38Z"
-        },
-        {
           "title": "Jim Cramer sends strong signal to Nvidia stock investors amid rumors",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-strong-signal-210300408.html",
           "publisher": "TheStreet",
           "published": "2026-07-07T21:03:00Z"
+        },
+        {
+          "title": "Why Tilray Stock Tumbled Last Month",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-tilray-stock-tumbled-last-205955262.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-07T20:59:55Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 432.57,
+      "previous_close": 451.79,
+      "change_pct": -4.25,
+      "market_cap": 2243513101790.2803,
+      "headlines": [
+        {
+          "title": "DeepSeek looks to reduce reliance on Nvidia with own AI chip",
+          "url": "https://finance.yahoo.com/video/deepseek-looks-to-reduce-reliance-on-nvidia-with-own-ai-chip-203313261.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-07T20:33:13Z"
+        },
+        {
+          "title": "Samsung saw a record quarter, but it's not enough for investors. Here's why.",
+          "url": "https://finance.yahoo.com/video/samsung-saw-a-record-quarter-but-its-not-enough-for-investors-heres-why-203148500.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-07T20:31:48Z"
+        },
+        {
+          "title": "This Semiconductor ETF Is Up 58% This Year and Doesn\u2019t Own TSMC",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-etf-58-doesn-t-173020398.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-07-07T17:30:20Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 63734.29,
-      "change_pct": -0.41
+      "price": 63666.65,
+      "change_pct": -0.51
     },
     {
       "label": "Gold",

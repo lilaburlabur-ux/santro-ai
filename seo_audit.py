@@ -68,6 +68,34 @@ ROUTES = [
     ("/c", "c.html", False), ("/ipo", "ipo.html", False),
 ]
 
+# ── dynamic expansion: audit EVERY generated page (single source of truth) ──
+import glob as _g
+_known = {f for _, f, _i in ROUTES}
+for _dir, _pref in (("stocks", "/stocks"), ("etfs", "/etfs"), ("blog", "/blog"),
+                    ("ipos", "/ipos"), (os.path.join("stocks", "themes"), "/stocks/themes")):
+    for _f in sorted(_g.glob(os.path.join(HERE, _dir, "*.html"))):
+        _rel = os.path.relpath(_f, HERE)
+        if _rel in _known:
+            continue
+        _slug = os.path.splitext(os.path.basename(_f))[0]
+        ROUTES.append((f"{_pref}/{_slug}", _rel, True))
+        _known.add(_rel)
+
+# expected-count enforcement (fails loudly instead of silently shipping less)
+_counts = {
+    "stocks": sum(1 for r, _, _i in ROUTES if r.startswith("/stocks/") and "/themes/" not in r),
+    "themes": sum(1 for r, _, _i in ROUTES if r.startswith("/stocks/themes/")),
+    "etfs":   sum(1 for r, _, _i in ROUTES if r.startswith("/etfs/")),
+    "ipos":   sum(1 for r, _, _i in ROUTES if r.startswith("/ipos/")),
+    "blog":   sum(1 for r, _, _i in ROUTES if r.startswith("/blog/")),
+}
+_EXPECT = {"stocks": 95, "themes": 7, "etfs": 40, "ipos": 7, "blog": 7}
+for _k, _min in _EXPECT.items():
+    if _counts[_k] < _min:
+        print(f"COUNT GUARD FAILED: {_k}={_counts[_k]} expected >= {_min}")
+        sys.exit(1)
+print("page counts:", ", ".join(f"{k}={v}" for k, v in _counts.items()))
+
 
 def parse(fn):
     html = open(os.path.join(HERE, fn), encoding="utf-8", errors="ignore").read()

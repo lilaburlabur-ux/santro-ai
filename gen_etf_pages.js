@@ -8,7 +8,7 @@ eval(fs.readFileSync("etf-data.js", "utf8"));
 const ETFS = window.ETFS, BUCKETS = window.ETF_BUCKETS;
 const bmap = Object.fromEntries(BUCKETS.map(b => [b.id, b]));
 
-const TARGET = ["SMH","SOXX","AIQ","BOTZ","ROBT","ARKQ"];   // present + not closed
+const TARGET = ETFS.filter(e=>e.risk!=="closed").map(e=>e.t);   // ALL curated non-closed funds
 const esc = s => String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
 function issuer(name){

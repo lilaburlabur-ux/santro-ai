@@ -69,6 +69,16 @@ def main():
         sym = os.path.splitext(os.path.basename(f))[0]
         urls.append((f"{BASE}/etfs/{sym}", git_date(f"etfs/{os.path.basename(f)}"), "weekly", "0.5"))
 
+    # AI sub-theme landing pages
+    for f in sorted(glob.glob(os.path.join(HERE, "stocks", "themes", "*.html"))):
+        slug = os.path.splitext(os.path.basename(f))[0]
+        urls.append((f"{BASE}/stocks/themes/{slug}", git_date(f"stocks/themes/{os.path.basename(f)}"), "weekly", "0.7"))
+
+    # AI IPO watch pages
+    for f in sorted(glob.glob(os.path.join(HERE, "ipos", "*.html"))):
+        slug = os.path.splitext(os.path.basename(f))[0]
+        urls.append((f"{BASE}/ipos/{slug}", git_date(f"ipos/{os.path.basename(f)}"), "weekly", "0.6"))
+
     lines = ['<?xml version="1.0" encoding="UTF-8"?>',
              '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for loc, lm, cf, pr in urls:
@@ -76,7 +86,24 @@ def main():
                      f'<changefreq>{cf}</changefreq><priority>{pr}</priority></url>')
     lines.append('</urlset>')
     open(os.path.join(HERE, "sitemap.xml"), "w").write("\n".join(lines) + "\n")
+    # ── single source of truth summary + guards ──
+    locs = [u[0] for u in urls]
+    assert len(locs) == len(set(locs)), "DUPLICATE sitemap locs!"
+    PRIVATE = ("/signin", "/signup", "/dashboard", "/account", "/api/", "/auth/", "/t?", "/e?", "/c?", "/ipo?")
+    leaked = [l for l in locs if any(p in l for p in PRIVATE)]
+    assert not leaked, f"PRIVATE routes leaked into sitemap: {leaked}"
+    def n(pref, excl=()):
+        return sum(1 for l in locs if pref in l and not any(x in l for x in excl))
+    counts = {
+        "static": sum(1 for l in locs if l.rstrip("/").count("/") <= 3 and "/blog/" not in l),
+        "stocks": n("/stocks/", ("/themes/",)),
+        "stock-themes": n("/stocks/themes/"),
+        "etfs": n("/etfs/"),
+        "ipos": n("/ipos/"),
+        "blog": n("/blog/"),
+    }
     print(f"sitemap.xml — {len(urls)} URLs (refreshed {TODAY})")
+    print("  by type:", ", ".join(f"{k}={v}" for k, v in counts.items()))
 
 
 if __name__ == "__main__":

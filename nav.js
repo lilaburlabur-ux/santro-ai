@@ -72,7 +72,9 @@
   // ── as-of stamp (terminal overwrites with its own richer clock) ────────
   fetch("/data.json?t=" + Date.now()).then(function (r) { return r.json(); })
     .then(function (d) {
-      var el = document.getElementById("asof");
+      // class-scoped to the header: pages like /crypto own a separate #asof
+      // badge that must not be hijacked by a duplicate id
+      var el = HDR.querySelector(".mn-asof");
       if (el && d.as_of_local && !el.textContent) el.textContent = "As of " + d.as_of_local;
     }).catch(function () {});
 

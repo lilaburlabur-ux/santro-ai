@@ -13,7 +13,7 @@ Run after adding/removing a route:  python3 gen_nav.py
 """
 import glob, html, os, re, sys
 
-V = "1"  # bump with nav.js?v=
+V = "2"  # bump with nav.js?v=
 
 # ── the navigation config ──────────────────────────────────────────────────
 # label/href/desc/badge per link; badge: live | account | soon | None
@@ -132,7 +132,7 @@ header.meganav{display:block;position:relative;z-index:60;background:var(--panel
 .meganav .mn-search .sg .nm{color:var(--muted,#8895a4);flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
 .meganav .mn-search .sg .pc{font-weight:700;font-variant-numeric:tabular-nums;}
 .meganav .mn-search .sg .pc.up{color:var(--green,#22c55e);}.meganav .mn-search .sg .pc.down{color:var(--red,#f05a6e);}
-.meganav .mn-asof{font-size:10.5px;color:var(--faint,#5a6573);white-space:nowrap;}
+.meganav .mn-asof{display:none;}
 .meganav .mn-theme{appearance:none;background:var(--elev,#16202b);border:1px solid var(--border,#1d2733);border-radius:9px;width:34px;height:34px;display:flex;align-items:center;justify-content:center;cursor:pointer;color:var(--muted,#8895a4);}
 .meganav .mn-theme:hover{color:var(--text,#e7edf3);border-color:var(--accent-border,#22436a);}
 .meganav .mn-theme .ic-sun{display:none;}
@@ -164,7 +164,18 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 .meganav .mnd-cta .a1{background:var(--accent-soft,#12233a);border:1px solid var(--accent-border,#22436a);color:var(--accent-2,#7cb0f5);}
 .meganav .mnd-cta .a2{border:1px solid var(--border,#1d2733);color:var(--text,#e7edf3);}
 .meganav .mnd-foot{font-size:11px;color:var(--faint,#5a6573);line-height:1.6;margin-top:6px;}
-@media(max-width:1020px){
+@media(max-width:1280px){
+  /* terminal's native pill: knob-only when the bar gets tight (its .day knob
+     position is calc(100%-32px), so it adapts to any width) */
+  .meganav #theme-toggle{width:46px;}
+  .meganav .tt-label{display:none;}
+}
+@media(max-width:1240px){
+  .meganav .mn-top{padding:19px 8px;font-size:13px;}
+  .meganav .mn-search input{width:92px;}
+  .meganav .mn-in{gap:12px;}
+}
+@media(max-width:1100px){
   .meganav .mn-nav{display:none;}
   .meganav .mn-burger{display:flex;}
   .meganav .mn-signin{display:none;}
@@ -218,7 +229,7 @@ def render_links(menu, drawer=False):
             out.append(f'<a class="mn-link" href="{href}"{ext}><b>{esc(label)}{b}</b><span>{esc(desc)}</span></a>')
     return "\n        ".join(out)
 
-def render_header(active, utils):
+def render_header(active, utils, is_terminal=False):
     items = []
     for m in NAV:
         on = " on" if m["key"] == active else ""
@@ -252,7 +263,7 @@ def render_header(active, utils):
   </nav>
   <div class="mn-right">
     <div class="mn-search"></div>
-    <span id="asof" class="mn-asof"></span>
+    {'<span id="asof" class="mn-asof"></span>' if is_terminal else '<span class="mn-asof"></span>'}
     {utils}
     <span id="santro-auth-slot"><a class="mn-signin" href="/signin">Sign in</a><a class="mn-signup" href="/signup">Sign up</a></span>
     <button class="mn-burger" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="mn-drawer"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button>
@@ -307,7 +318,7 @@ def sweep():
         if 'name="robots" content="noindex' in s and 'http-equiv="refresh"' in s:
             continue  # retired-slug redirect stub — no header/footer chrome
         utils = TERMINAL_UTILS if f == "terminal.html" else DEFAULT_UTILS
-        hdr = render_header(section_for(f), utils)
+        hdr = render_header(section_for(f), utils, is_terminal=(f == "terminal.html"))
         if RE_MEGA.search(s):
             s2 = RE_MEGA.sub(lambda m: hdr, s, count=1); stats["mega"] += 1
         elif RE_PAGEH.search(s):

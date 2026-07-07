@@ -442,6 +442,20 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
       .st-fg.bad{border-left-color:#f0596e;}
       .st-fg b{color:var(--text);font-size:13px;} .st-fg .w{color:#e0a73f;font-weight:700;font-size:12px;}
       .st-fg p{font-size:11px;color:var(--muted);margin:4px 0 0;line-height:1.5;}
+      .st-duo{display:grid;grid-template-columns:1fr 1fr;gap:12px;}
+      .st-duo .pane{background:var(--panel);border:1px solid var(--border-soft);border-radius:11px;padding:13px 15px;}
+      .st-duo .pane h4{margin:0 0 9px;font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;}
+      .st-duo .hurt h4{color:#f0596e;} .st-duo .cush h4{color:#22c55e;}
+      .st-duo .row{display:flex;justify-content:space-between;gap:10px;padding:7px 0;border-bottom:1px solid var(--border-soft);font-size:12.5px;}
+      .st-duo .row:last-child{border-bottom:0;}
+      .st-duo .row b{color:var(--text);} .st-duo .row span{color:var(--muted);}
+      .st-rel{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:14px;}
+      .st-rel a{display:block;background:var(--panel);border:1px solid var(--border-soft);border-radius:11px;padding:13px 15px;}
+      .st-rel a:hover{border-color:var(--accent-border);}
+      .st-rel .tg{font-size:10px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;}
+      .st-rel b{display:block;color:var(--text);font-size:13.5px;margin:4px 0 3px;}
+      .st-rel p{margin:0;font-size:11.5px;color:var(--muted);line-height:1.5;}
+      @media(max-width:700px){.st-duo{grid-template-columns:1fr;}.st-rel{grid-template-columns:1fr;}}
       .st-verify{background:var(--panel);border:1px solid var(--border-soft);border-radius:11px;padding:13px 15px;}
       .st-verify li{font-size:12px;color:var(--muted);line-height:1.9;}
       .st-verify li::marker{content:"☐  ";color:#e0a73f;}
@@ -931,6 +945,19 @@ load(); setInterval(load, 300000);
         <div class="st-stack">${stack}</div>
         <div class="st-buckets">${bkCards}</div></div>
       <div class="st-sec"><h3>Scenario matrix</h3><div class="st-matrix">${matrix}</div></div>
+      <div class="st-sec"><h3>What hurts · what cushions</h3><div class="st-duo">
+        <div class="pane hurt"><h4>What hurts most</h4>
+          ${(worst.top_contributors_to_loss||[]).slice(0,3).map(c=>
+            `<div class="row"><b>${esc(c.symbol)}</b><span>${Math.round(c.weight)}% · ${pretty(c.bucket)}</span></div>`).join("")
+            ||'<div class="row"><span>no dominant single-name driver in the worst scenario</span></div>'}
+        </div>
+        <div class="pane cush"><h4>What cushions</h4>
+          ${[["defensive_or_cash","cash & defensive"],["broad_market","broad-market ballast"]]
+            .filter(c=>(r.bucket_weights[c[0]]||0)>0)
+            .map(c=>`<div class="row"><b>${Math.round(r.bucket_weights[c[0]])}%</b><span>${c[1]}</span></div>`).join("")
+            ||'<div class="row"><span>no defensive ballast detected — every holding leans on the same weather</span></div>'}
+        </div>
+      </div></div>
       ${frag?`<div class="st-sec"><h3>Where the portfolio breaks first</h3><div class="st-frag">${frag}</div></div>`:""}
       ${rep?`<div class="st-sec"><h3>Hidden repeated exposure</h3><div class="st-frag">${rep}</div></div>`:""}
       <div class="st-sec"><h3>Before trusting this, verify</h3>
@@ -939,6 +966,14 @@ load(); setInterval(load, 300000);
           <li>options/leverage exposure this test can't see</li>
           <li>whether your cash is actually cash</li>
         </ul></div></div>
+      <div class="st-rel">
+        <a href="/stocks/burry-short-watch"><span class="tg" style="color:#f0596e">Bearish lens</span>
+          <b>Michael Burry AI Short Watch</b><p>Filing-verified AI puts — a risk signal, not a command.</p></a>
+        <a href="/stocks/aschenbrenner"><span class="tg" style="color:#22c55e">Bullish lens</span>
+          <b>Aschenbrenner AI Infrastructure Basket</b><p>How a thesis-driven AI fund positions, hedges included.</p></a>
+        <a href="/terminal"><span class="tg" style="color:#7cb0f5">Terminal</span>
+          <b>Open the AI bubble map</b><p>84 names ranked by heat. Hot means attention, not direction.</p></a>
+      </div>
       <div class="st-bar2">
         <button class="amber" id="st-card">Create share card</button>
         <button class="amber" id="st-copy">Copy summary</button>
@@ -948,20 +983,38 @@ load(); setInterval(load, 300000);
         <a href="/terminal">Open terminal</a>
       </div>
       <div id="st-cardbox" style="display:none;margin-top:14px">
+        <div class="st-bar2" id="st-fmt" style="margin-bottom:9px">
+          <button class="amber" data-fmt="land">Landscape</button>
+          <button data-fmt="sq">Square</button>
+          <button data-fmt="story">Story 9:16</button>
+        </div>
         <canvas id="st-canvas" width="1200" height="630" style="width:100%;max-width:600px;border-radius:12px;border:1px solid var(--border);display:block"></canvas>
         <div class="st-bar2" style="margin-top:9px">
           <a class="amber" id="st-dl" download="santro-stress-card.png">Download PNG</a>
-          <span style="font-size:11px;color:var(--faint);align-self:center">On iPhone: press and hold the card → Save Image. Card shows score, range and themes only — never your holdings.</span>
+          <span style="font-size:11px;color:var(--faint);align-self:center">On iPhone: press and hold the card → Save Image.
+          The card shows your entered tickers and weights — remove anything you'd rather keep private and re-run.</span>
         </div>
       </div>`;
     stage.querySelector("#st-again").onclick=inputState;
-    stage.querySelector("#st-card").onclick=()=>{
-      const box=stage.querySelector("#st-cardbox"); box.style.display="block";
-      drawCard(stage.querySelector("#st-canvas"), r, worst);
+    let cardFmt="land";
+    async function renderCard(){
+      const cv=stage.querySelector("#st-canvas");
+      await drawCard(cv, r, worst, cardFmt);
       const dl=stage.querySelector("#st-dl");
-      dl.href=stage.querySelector("#st-canvas").toDataURL("image/png");
+      try{ dl.href=cv.toDataURL("image/png"); }
+      catch(e){ // tainted canvas (logo CDN without CORS) — redraw with monogram chips only
+        await drawCard(cv, r, worst, cardFmt, true);
+        dl.href=cv.toDataURL("image/png");
+      }
+      dl.setAttribute("download","santro-stress-"+cardFmt+".png");
+      stage.querySelectorAll("#st-fmt button").forEach(b=>b.classList.toggle("amber", b.dataset.fmt===cardFmt));
+    }
+    stage.querySelector("#st-card").onclick=async()=>{
+      const box=stage.querySelector("#st-cardbox"); box.style.display="block";
+      await renderCard();
       box.scrollIntoView({behavior:"smooth",block:"center"});
     };
+    stage.querySelectorAll("#st-fmt button").forEach(b=>b.onclick=async()=>{ cardFmt=b.dataset.fmt; await renderCard(); });
     stage.querySelector("#st-copy").onclick=async()=>{
       const themes=r.repeated_exposures.slice(0,3).map(t=>pretty(t.theme)).join(", ")||"diversified";
       const txt=`My AI bubble stress score: ${r.portfolio_risk_score}/100 (${r.risk_label}). `+
@@ -972,44 +1025,146 @@ load(); setInterval(load, 300000);
     };
     stage.scrollIntoView({behavior:"smooth",block:"start"});
   }
-  function drawCard(cv, r, worst){
-    const x=cv.getContext("2d");
-    const col=r.risk_label==="extreme"?"#b91c1c":r.risk_label==="high"?"#f0596e":r.risk_label==="moderate"?"#e0a73f":"#22c55e";
-    // bg + frame
-    x.fillStyle="#0a0e13"; x.fillRect(0,0,1200,630);
-    x.strokeStyle="#1c2230"; x.lineWidth=2; x.strokeRect(24,24,1152,582);
-    // brand
-    x.fillStyle="#22c55e"; x.font="800 34px -apple-system,Segoe UI,Roboto,sans-serif";
-    x.fillText("SANTRO AI",64,92);
-    x.fillStyle="#6b7684"; x.font="600 20px -apple-system,Segoe UI,Roboto,sans-serif";
-    x.fillText("PORTFOLIO AI BUBBLE STRESS TEST",64,124);
-    // score
-    x.fillStyle=col; x.font="800 130px -apple-system,Segoe UI,Roboto,sans-serif";
-    x.fillText(r.portfolio_risk_score+"/100",64,280);
-    x.font="800 34px -apple-system,Segoe UI,Roboto,sans-serif";
-    x.fillText(r.risk_label.toUpperCase()+" STRESS PROFILE",64,330);
-    // gauge
-    x.fillStyle="#1c2230"; roundRect(x,64,354,1072,16,8); x.fill();
-    x.fillStyle=col; roundRect(x,64,354,Math.max(24,1072*r.portfolio_risk_score/100),16,8); x.fill();
-    // worst scenario
-    x.fillStyle="#9aa6b2"; x.font="700 22px -apple-system,Segoe UI,Roboto,sans-serif";
-    x.fillText("WORST SCENARIO · "+worst.scenario_name.toUpperCase(),64,424);
-    x.fillStyle="#f0596e"; x.font="800 48px -apple-system,Segoe UI,Roboto,sans-serif";
-    x.fillText(worst.estimated_portfolio_drawdown_range[1]+"%  to  "+worst.estimated_portfolio_drawdown_range[0]+"%",64,476);
-    // themes
-    const themes=r.repeated_exposures.slice(0,3).map(t=>pretty(t.theme)+" "+t.total_weight_pct+"%");
-    x.fillStyle="#9aa6b2"; x.font="700 22px -apple-system,Segoe UI,Roboto,sans-serif";
-    x.fillText("TOP EXPOSURE · "+(themes.join("  ·  ")||"diversified").toUpperCase(),64,530);
-    // ai exposure pill right side
-    x.fillStyle="#e0a73f"; x.font="800 40px -apple-system,Segoe UI,Roboto,sans-serif";
-    const ae="AI "+r.ai_exposure_pct+"%"; x.fillText(ae,1136-x.measureText(ae).width,110);
-    // footer
-    x.fillStyle="#6b7684"; x.font="600 19px -apple-system,Segoe UI,Roboto,sans-serif";
-    x.fillText("hot means attention, not direction · santroai.tech/bubble",64,578);
-    const nfa="stress test, not a forecast · not financial advice";
-    x.fillText(nfa,1136-x.measureText(nfa).width,578);
+  // ── share card v2: multi-format, holdings-aware, engine-derived ──────────
+  // formats: land 1200x630, sq 1080x1080, story 1080x1920. Every element comes
+  // from the run() result — chips (fragility_map), tiles (scores), bubbles
+  // (scenario ranges), hurts (worst top_contributors_to_loss), cushions
+  // (bucket_weights) — nothing invented.
+  const SCEN_SHORT=[[/dot-com/i,"Dot-com"],[/2008|liquidity/i,"2008 credit"],[/rate/i,"Rate shock"],
+    [/ai-specific|capex|burst/i,"AI burst"],[/crypto/i,"Crypto risk-off"],[/depression|tail/i,"Tail stress"]];
+  const shortScen=n=>{for(const [rx,l] of SCEN_SHORT) if(rx.test(n)) return l; return n.slice(0,12);};
+  const BUCKET_COL={ai_semis:"#f0596e",ai_cloud:"#e0a73f",ai_software:"#e0a73f",ai_etf_concentrated:"#c084fc",
+    ai_crypto:"#f97316",ai_power_energy:"#e0a73f",ai_robotics:"#e0a73f",ai_semis_equipment:"#f0596e",
+    mega_cap_tech:"#7cb0f5",high_duration_growth:"#e0a73f",small_cap_speculative:"#f0596e",
+    broad_market:"#22c55e",defensive_or_cash:"#22c55e",unknown:"#8895a4"};
+  function loadLogos(syms){
+    return Promise.all(syms.map(sym=>new Promise(res=>{
+      if(/^(CASH|USD)$/.test(sym)) return res([sym,null]);
+      const img=new Image(); img.crossOrigin="anonymous";
+      const t=setTimeout(()=>res([sym,null]),900);
+      img.onload=()=>{clearTimeout(t);res([sym,img])};
+      img.onerror=()=>{clearTimeout(t);res([sym,null])};
+      img.src=sym==="SPCX"?"/assets/spacex.png"
+        :"https://assets.parqet.com/logos/symbol/"+encodeURIComponent(sym.split(".")[0])+"?format=png&size=64";
+    }))).then(Object.fromEntries);
   }
-  function roundRect(x,px,py,w,h,r2){x.beginPath();x.moveTo(px+r2,py);x.arcTo(px+w,py,px+w,py+h,r2);x.arcTo(px+w,py+h,px,py+h,r2);x.arcTo(px,py+h,px,py,r2);x.arcTo(px,py,px+w,py,r2);x.closePath();}
+  const FMT={land:{W:1200,H:630,pad:56,base:1},sq:{W:1080,H:1080,pad:60,base:1.02},story:{W:1080,H:1920,pad:64,base:1.15}};
+  async function drawCard(cv, r, worst, fmt, noLogos){
+    const F=FMT[fmt||"land"], W=F.W, H=F.H, P=F.pad, k=F.base;
+    cv.width=W; cv.height=H;
+    cv.style.maxWidth=(fmt==="story"?"340px":fmt==="sq"?"480px":"600px");
+    const x=cv.getContext("2d");
+    const SANS="-apple-system,Segoe UI,Roboto,sans-serif";
+    const col=r.risk_label==="extreme"?"#b91c1c":r.risk_label==="high"?"#f0596e":r.risk_label==="moderate"?"#e0a73f":"#22c55e";
+    const holds=r.fragility_map.slice().sort((a,b)=>b.weight_pct-a.weight_pct);
+    const maxChips=fmt==="land"?7:fmt==="sq"?6:8;
+    const logos=noLogos?{}:await loadLogos(holds.slice(0,maxChips).map(h=>h.symbol));
+    // bg: near-black with a faint risk-tinted glow top-left
+    x.fillStyle="#080c12"; x.fillRect(0,0,W,H);
+    const g=x.createRadialGradient(W*.22,H*.12,40,W*.22,H*.12,W*.75);
+    g.addColorStop(0,col+"22"); g.addColorStop(1,"transparent");
+    x.fillStyle=g; x.fillRect(0,0,W,H);
+    x.strokeStyle="#1c2230"; x.lineWidth=2; x.strokeRect(18,18,W-36,H-36);
+    let y=P+8;
+    const rr=(px,py,w,h,r2)=>{x.beginPath();x.moveTo(px+r2,py);x.arcTo(px+w,py,px+w,py+h,r2);
+      x.arcTo(px+w,py+h,px,py+h,r2);x.arcTo(px,py+h,px,py,r2);x.arcTo(px,py,px+w,py,r2);x.closePath();};
+    // header
+    x.fillStyle="#22c55e"; x.font="800 "+(26*k)+"px "+SANS; x.fillText("SANTRO AI",P,y);
+    x.fillStyle="#6b7684"; x.font="700 "+(15*k)+"px "+SANS;
+    const sub="BAD-WEATHER CHECK"; x.fillText(sub,W-P-x.measureText(sub).width,y);
+    y+=44*k;
+    x.fillStyle="#e7edf3"; x.font="800 "+(fmt==="land"?46:54*k)+"px "+SANS;
+    x.fillText("IF THE AI BUBBLE BURSTS",P,y);
+    y+=26*k;
+    // holdings chips (the user's actual book)
+    y+=16*k;
+    const chipH=44*k; let cx=P;
+    x.font="800 "+(17*k)+"px "+SANS;
+    const chips=holds.slice(0,maxChips);
+    for(const h of chips){
+      const label=h.symbol+" "+Math.round(h.weight_pct)+"%";
+      const tw=x.measureText(label).width, cw=chipH+tw+26*k;
+      if(cx+cw>W-P){ if(fmt!=="story") break; cx=P; y+=chipH+10*k; }
+      x.fillStyle="#10161f"; rr(cx,y,cw,chipH,chipH/2); x.fill();
+      x.strokeStyle="#242c3a"; x.lineWidth=1.5; rr(cx,y,cw,chipH,chipH/2); x.stroke();
+      const img=logos[h.symbol], cyc=y+chipH/2, rad=chipH/2-7*k;
+      x.save(); x.beginPath(); x.arc(cx+chipH/2,cyc,rad,0,7); x.clip();
+      if(img){ x.fillStyle="#fff"; x.fillRect(cx+chipH/2-rad,cyc-rad,rad*2,rad*2);
+        x.drawImage(img,cx+chipH/2-rad,cyc-rad,rad*2,rad*2); }
+      else{ x.fillStyle=BUCKET_COL[h.primary_bucket]||"#8895a4";
+        x.fillRect(cx+chipH/2-rad,cyc-rad,rad*2,rad*2);
+        x.fillStyle="#0a0e13"; x.font="800 "+(15*k)+"px "+SANS; x.textAlign="center";
+        x.fillText(h.symbol[0],cx+chipH/2,cyc+5*k); x.textAlign="left"; x.font="800 "+(17*k)+"px "+SANS; }
+      x.restore();
+      x.fillStyle="#e7edf3"; x.fillText(label,cx+chipH+2,cyc+6*k);
+      cx+=cw+9*k;
+    }
+    if(holds.length>chips.length){ x.fillStyle="#6b7684"; x.font="700 "+(15*k)+"px "+SANS;
+      x.fillText("+"+(holds.length-chips.length)+" more",Math.min(cx,W-P-90),y+chipH/2+5*k); }
+    y+=chipH+30*k;
+    // score tiles
+    const buf=Math.round((r.bucket_weights.defensive_or_cash||0)+(r.bucket_weights.broad_market||0));
+    const tiles=[["STRESS SCORE",r.portfolio_risk_score+"/100",col],
+                 ["AI EXPOSURE",r.ai_exposure_pct+"%","#e0a73f"],
+                 ["CONCENTRATION",r.concentration_score+"/100",r.concentration_score>=60?"#f0596e":"#e0a73f"],
+                 ["BUFFER",buf+"%",buf>=25?"#22c55e":"#8895a4"]];
+    const tcols=fmt==="story"?2:4, tw2=(W-2*P-(tcols-1)*12)/tcols, th=92*k;
+    tiles.forEach((t,i)=>{
+      const tx=P+(i%tcols)*(tw2+12), ty=y+Math.floor(i/tcols)*(th+12);
+      x.fillStyle="#0d131c"; rr(tx,ty,tw2,th,14); x.fill();
+      x.strokeStyle="#1c2230"; rr(tx,ty,tw2,th,14); x.stroke();
+      x.fillStyle="#6b7684"; x.font="700 "+(12*k)+"px "+SANS; x.fillText(t[0],tx+16,ty+26*k);
+      x.fillStyle=t[2]; x.font="800 "+(34*k)+"px "+SANS; x.fillText(t[1],tx+16,ty+68*k);
+    });
+    y+=(fmt==="story"?2:1)*(th+12)+18*k;
+    // scenario bubbles (midpoint of modeled range; worst ringed)
+    x.fillStyle="#6b7684"; x.font="700 "+(13*k)+"px "+SANS;
+    x.fillText("SCENARIO DRAWDOWN RANGES · MIDPOINTS",P,y); y+=14*k;
+    const scens=r.scenario_results.slice().sort((a,b)=>a.estimated_portfolio_drawdown_range[1]-b.estimated_portfolio_drawdown_range[1]);
+    const show=fmt==="land"?5:6, bandH=(fmt==="story"?200:150)*k;
+    const bw=(W-2*P)/show;
+    scens.slice(0,show).forEach((sc,i)=>{
+      const mid=(sc.estimated_portfolio_drawdown_range[0]+sc.estimated_portfolio_drawdown_range[1])/2;
+      const sev=-mid, rad=Math.min(bandH/2-10,(18+sev*0.9)*k);
+      const bx=P+bw*i+bw/2, by=y+bandH/2;
+      const c2=sev>=40?"#f0596e":sev>=20?"#e0a73f":"#8895a4";
+      x.beginPath(); x.arc(bx,by,rad,0,7);
+      x.fillStyle=c2+"26"; x.fill(); x.strokeStyle=c2; x.lineWidth=sc===worst?3:1.5; x.stroke();
+      x.fillStyle=c2; x.textAlign="center"; x.font="800 "+(20*k)+"px "+SANS;
+      x.fillText(Math.round(mid)+"%",bx,by+7*k);
+      x.fillStyle="#9aa6b2"; x.font="600 "+(12*k)+"px "+SANS;
+      x.fillText(shortScen(sc.scenario_name),bx,y+bandH+2);
+      x.textAlign="left";
+    });
+    y+=bandH+30*k;
+    // hurts / cushions
+    const hurt=(worst.top_contributors_to_loss||[]).slice(0,3);
+    const cush=[["defensive_or_cash","cash & defensive"],["broad_market","broad-market ballast"]]
+      .filter(c=>(r.bucket_weights[c[0]]||0)>0).map(c=>Math.round(r.bucket_weights[c[0]])+"% "+c[1]);
+    const half=(W-2*P-16)/2;
+    const listBox=(bx,title,tcol,lines)=>{
+      const bh=(34+lines.length*26)*k;
+      x.fillStyle="#0d131c"; rr(bx,y,half,bh,14); x.fill(); x.strokeStyle="#1c2230"; rr(bx,y,half,bh,14); x.stroke();
+      x.fillStyle=tcol; x.font="800 "+(13*k)+"px "+SANS; x.fillText(title,bx+16,y+24*k);
+      x.fillStyle="#c5cedb"; x.font="600 "+(15*k)+"px "+SANS;
+      lines.forEach((l,i)=>x.fillText(l,bx+16,y+(48+i*26)*k));
+      return bh;
+    };
+    const h1=listBox(P,"WHAT HURTS MOST","#f0596e",
+      hurt.length?hurt.map(h=>h.symbol+" · "+Math.round(h.weight)+"% · "+pretty(h.bucket)):["no dominant single-name driver"]);
+    const h2=listBox(P+half+16,"WHAT CUSHIONS","#22c55e",
+      cush.length?cush:["no defensive ballast detected"]);
+    y+=Math.max(h1,h2)+26*k;
+    // footer
+    x.strokeStyle="#1c2230"; x.beginPath(); x.moveTo(P,H-P-26*k); x.lineTo(W-P,H-P-26*k); x.stroke();
+    x.fillStyle="#6b7684"; x.font="600 "+(15*k)+"px "+SANS;
+    x.fillText("hot means attention, not direction",P,H-P);
+    const cta="run yours: santroai.tech/bubble";
+    x.fillStyle="#7cb0f5"; x.fillText(cta,W-P-x.measureText(cta).width,H-P);
+    x.fillStyle="#4a5462"; x.font="600 "+(12*k)+"px "+SANS;
+    const nfa="quotes delayed ~15 min · stress test, not a forecast · not financial advice";
+    x.fillText(nfa,P,H-P+(fmt==="land"?0:0)-40*k);
+  }
   inputState();
 })();
 </script>

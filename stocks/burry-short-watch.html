@@ -114,6 +114,26 @@
   .related a:hover{border-color:var(--accent-border);color:var(--accent-2);}
   .disc{font-size:12.5px;color:var(--faint);line-height:1.65;max-width:860px;}
   @media (max-width:640px){ .btbl{font-size:11.5px;} .hero h1{font-size:25px;} .btbl th:nth-child(7),.btbl td:nth-child(7){display:none;} }
+
+  .pcard{display:flex;gap:16px;align-items:center;background:var(--panel);border:1px solid var(--border);
+    border-radius:14px;padding:16px 18px;margin:14px 0 18px;}
+  .pavatar{width:76px;height:76px;border-radius:50%;flex:0 0 auto;display:flex;align-items:center;
+    justify-content:center;font-weight:900;font-size:26px;letter-spacing:.5px;color:#0a0e13;}
+  .pmeta{min-width:0;}
+  .pname{font-size:17px;font-weight:800;color:var(--text);}
+  .prole{font-size:12px;color:var(--muted);margin:2px 0 8px;line-height:1.5;}
+  .pchips{display:flex;gap:7px;flex-wrap:wrap;}
+  .pchip{font-size:10.5px;font-weight:700;letter-spacing:.03em;border:1px solid var(--border);
+    border-radius:999px;padding:4px 10px;color:var(--muted);}
+  .pchip.hotc{color:#f0596e;border-color:rgba(240,90,110,.4);}
+  .pchip.coolc{color:#22c55e;border-color:rgba(34,197,94,.4);}
+  .relx{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:10px 0 0;}
+  .relx a{display:block;background:var(--panel);border:1px solid var(--border);border-radius:12px;padding:14px 16px;}
+  .relx a:hover{border-color:var(--accent-border);}
+  .relx .tg{font-size:10px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;}
+  .relx b{display:block;color:var(--text);font-size:13.5px;margin:4px 0 3px;}
+  .relx p{margin:0;font-size:11.5px;color:var(--muted);line-height:1.5;}
+  @media(max-width:700px){.pcard{align-items:flex-start;}.pavatar{width:54px;height:54px;font-size:19px;}.relx{grid-template-columns:1fr;}}
 </style>
 </head>
 <body>
@@ -367,6 +387,23 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     <div class="hero">
       <span class="badge amber">Source-gated · bubble-risk watch</span>
       <h1>Michael Burry AI Short Watch</h1>
+      <!-- portrait strategy: no licensed photograph cleared for reuse — monogram
+           avatar until a licensed or officially provided asset exists. Do not
+           hotlink press photos. -->
+      <div class="pcard">
+        <div class="pavatar" style="background:radial-gradient(circle at 30% 25%,#f9a8b4 0%,#f0596e 70%);box-shadow:0 0 26px rgba(240,90,110,.3)">MB</div>
+        <div class="pmeta">
+          <div class="pname">Michael Burry</div>
+          <div class="prole">Scion Asset Management (reported wound down late 2025) · now publishing via the
+            "Cassandra Unchained" Substack</div>
+          <div class="pchips">
+            <span class="pchip hotc">Stance: bearish on AI/semis, as reported</span>
+            <span class="pchip">Instrument: put options (13F notionals)</span>
+            <span class="pchip">Sources: SEC filings · dated Substack posts</span>
+            <span class="pchip">Not a trade signal</span>
+          </div>
+        </div>
+      </div>
       <p class="lede">A Santro source-gated tracker for publicly disclosed and reputable-media-reported
       <b style="color:var(--text)">Michael Burry</b> bearish views on AI, semiconductor and bubble-risk
       names. It tracks <b style="color:var(--text)">bearish exposure</b>, <b style="color:var(--text)">put-option
@@ -383,6 +420,14 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
         <a class="cta-ghost" href="/stocks">View AI Stocks</a>
         <a class="cta-ghost" href="/share?card=burry">Create Share Card ↗</a>
       </div>
+    </div>
+    <div class="relx">
+      <a href="/bubble#stress"><span class="tg" style="color:#e0a73f">Tool</span>
+        <b>Portfolio Stress Test</b><p>What a Burry-style scenario does to your actual book.</p></a>
+      <a href="/bubble"><span class="tg" style="color:#7cb0f5">Signal</span>
+        <b>AI Bubble Risk Index</b><p>Valuation, concentration, momentum — one composite dial.</p></a>
+      <a href="/stocks/aschenbrenner"><span class="tg" style="color:#22c55e">Opposite lens</span>
+        <b>Aschenbrenner AI Infrastructure Basket</b><p>The bull side of the same debate, filing-verified.</p></a>
     </div>
 
     <div class="banner">

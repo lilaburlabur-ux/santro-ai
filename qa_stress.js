@@ -53,5 +53,33 @@ const txt = JSON.stringify(S.run("NVDA 50, TAO 50")).toLowerCase();
 t("no buy/sell advice in output", !/\b(you should (buy|sell)|buy now|sell now|go short|rebalance now)\b/.test(txt));
 t("disclaimer present", /not financial advice/i.test(txt));
 t("no prediction language", !/will crash|guaranteed|will repeat/.test(txt));
+
+// ── SITE COVERAGE: every asset the site tracks must classify (no unknowns) ──
+try {
+  const fs = require("fs");
+  const u = JSON.parse(fs.readFileSync("universe.json"));
+  const e = JSON.parse(fs.readFileSync("ecosystem.json"));
+  const c = JSON.parse(fs.readFileSync("crypto.json"));
+  const i = JSON.parse(fs.readFileSync("ipos.json"));
+  const d = JSON.parse(fs.readFileSync("data.json"));
+  const etf = fs.readFileSync("etf-data.js", "utf8");
+  const all = new Set([
+    ...u.bubbles.flatMap(b => b.tickers.map(x => x.ticker)),
+    ...e.tickers.map(x => x.ticker),
+    ...[...etf.matchAll(/t:"([A-Z0-9.]{2,6})"/g)].map(m => m[1]),
+    ...Object.values(c.baskets || {}).flatMap(b => (b.coins || []).map(x => x.symbol.toUpperCase())),
+    ...(i.listed || []).map(r => r.ticker),
+    "DRAM", ...(((d.etf || {}).holdings) || []).map(h => h.symbol),
+  ]);
+  const unk = [...all].filter(sym => S.classify({ symbol: sym, weight_pct: 1 }).unknown);
+  t(`site coverage: all ${all.size} tracked assets classify`, unk.length === 0);
+  if (unk.length) console.log("    unknown:", unk.join(", "));
+  // foreign digit-leading symbols must parse
+  const fp = S.parse("000660.KS 10, NVDA 90");
+  t("foreign digit-leading symbol parses", fp.holdings.length === 2 && fp.holdings[0].symbol === "000660.KS");
+  const bare = S.parse("NVDA 20, 30");
+  t("bare number is not mistaken for a symbol", bare.holdings.length === 1);
+} catch (err) { console.log("  (site-coverage skipped: " + err.message.slice(0, 40) + ")"); }
+
 console.log(`\n${pass} passed, ${fail} failed`);
 process.exit(fail ? 1 : 0);

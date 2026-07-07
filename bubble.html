@@ -397,11 +397,12 @@ async function loadBubbleNews(){
 }
 load(); setInterval(load, 300000);
 </script>
-<script src="/stress-test.js?v=2"></script>
+<script src="/stress-test.js?v=3"></script>
 <script>
 (function(){
   const stage=document.getElementById("st-stage");
   if(!stage||!window.SantroStress) return;
+  SantroStress.enrichFromFeeds();   // live universe/crypto merge — rotation-proof
   const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
   const pretty=b=>(b||"").replace(/_/g," ").replace(/^ai /,"AI ");
   const BCOL={ai_semis:"#f0596e",ai_semis_equipment:"#f08a5a",ai_cloud:"#5b9df0",ai_data_centers:"#7cb0f5",

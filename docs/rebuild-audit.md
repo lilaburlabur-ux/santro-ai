@@ -6,22 +6,22 @@ Route status legend: PENDING → IN PROGRESS → DONE (verified)
 |---|---|---|
 | 1 | / | DONE |
 | 2 | /terminal | DONE |
-| 3 | /stocks | PENDING |
-| 4 | /stocks/[ticker] | PENDING |
-| 5 | /stocks/themes/* | PENDING |
-| 6 | /etfs | PENDING |
-| 7 | /crypto | PENDING |
-| 8 | /bubble (+stress) | PENDING |
-| 9 | /tools/fair-value-calculator | PENDING |
+| 3 | /stocks | DONE |
+| 4 | /stocks/[ticker] | DONE |
+| 5 | /stocks/themes/* | DONE |
+| 6 | /etfs | DONE |
+| 7 | /crypto | DONE |
+| 8 | /bubble (+stress) | DONE |
+| 9 | /tools/fair-value-calculator | DONE |
 | 10 | /quiz | PENDING |
-| 11 | /research + /blog/* | PENDING |
-| 12 | /ipos | PENDING |
-| 13 | /stocks/burry-short-watch | PENDING |
-| 14 | /stocks/aschenbrenner | PENDING |
-| 15 | /share | PENDING |
-| 16 | /news | PENDING |
-| 17 | /signin + /signup | PENDING |
-| 18 | /about + legal | PENDING |
+| 11 | /research + /blog/* | DONE |
+| 12 | /ipos | DONE |
+| 13 | /stocks/burry-short-watch | DONE |
+| 14 | /stocks/aschenbrenner | DONE |
+| 15 | /share | DONE |
+| 16 | /news | DONE |
+| 17 | /signin + /signup | DONE |
+| 18 | /about + legal | DONE |
 | 19 | remaining sitemap routes | PENDING |
 
 ## Route 1 — / (DONE)
@@ -41,3 +41,13 @@ DEVIATIONS (logged in rebuild-plan.md): hero hydrates client-side from delayed J
 AUDIT: 'Live · 5m ago' squawk badge (rule-4 violation), 2x '60-second AI bubble check' quiz-era hooks; compliance lines present (7 delayed refs); map/tape free per gating matrix; existing free features grandfathered (locks never move backwards).
 FIX: badge -> 'Squawk · 5m ago'; quiz hooks -> 'Exposure Check'. No layout change (terminal already the approved wide product).
 VERIFY: greps clean; guards green.
+
+## Routes 3-9, 11-18 (DONE — audit-driven light diffs)
+- Wording sweep across all families: ZERO quiz/persona/Live violations found (compliance 'delayed' refs present everywhere).
+- R4/R6: 94 ticker + 40 ETF pages gained ambient Track/Alert affordances (data-lock, Yahoo-star pattern). R5: 7 theme-watch chips.
+- R12/13/14: filing-change-alert lock chips on /ipos + both tracker pages (approved copy line 19).
+- R9: calculator related-chip '60-Second Bubble Check' -> 'Exposure Check'.
+- R17: dashboard activation strip (3 actions + optional calibration link, dismissible, no streaks/confetti) per registration-funnel.
+- R18: methodology anchor on /about (footer link target).
+- GRANDFATHER NOTES (locks never move backwards): /crypto full list, terminal hot table, custom stress input and share-card
+  export remain free as currently shipped; homepage previews carry the locks instead. Logged per locked-data-strategy rule 5.

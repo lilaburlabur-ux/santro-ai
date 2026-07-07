@@ -328,6 +328,16 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 </header>
 
   <main>
+<div id="ds-activation" class="ds-actrow" style="margin:14px 0;padding:14px;border:1px solid var(--border);border-radius:12px;display:none;flex-direction:column;align-items:flex-start;gap:10px">
+  <b style="color:var(--text);font-size:14px">You're in. Three things worth doing:</b>
+  <div class="ds-actrow" style="margin:0">
+    <a class="ds-act" href="/stocks">★ Track a ticker</a>
+    <a class="ds-act" href="/bubble#stress">Run your stress test</a>
+    <a class="ds-act" href="/bubble">Set an alert</a>
+    <a class="ds-act" href="/quiz">Calibrate your terminal — optional, 60 seconds</a>
+    <button class="ds-act" onclick="localStorage.setItem('santro_act_done','1');this.closest('#ds-activation').style.display='none'">Dismiss</button>
+  </div></div>
+<script>try{if(!localStorage.getItem("santro_act_done")){var a=document.getElementById("ds-activation");if(a)a.style.display="flex";}}catch(e){}</script>
     <div id="auth-root"></div>
   </main>
 

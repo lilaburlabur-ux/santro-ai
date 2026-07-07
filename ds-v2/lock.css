@@ -23,3 +23,10 @@
 .ds-gate .ds-gate-alt{display:block;text-align:center;padding:10px;border-radius:10px;font-weight:600;
   font-size:13px;border:1px solid var(--border);color:var(--muted);}
 .ds-gate .ds-gate-foot{margin:12px 0 0;font-size:11px;color:var(--faint);text-align:center;}
+/* ambient watch/alert affordances (Yahoo-star pattern; gating matrix rows
+   watchlist/alerts). Visible to everyone; anonymous click -> intent modal. */
+.ds-act{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--border);
+  background:var(--elev);color:var(--muted);border-radius:999px;padding:8px 14px;
+  font-size:12.5px;font-weight:700;cursor:pointer;min-height:40px;}
+.ds-act:hover{color:var(--text);border-color:var(--accent-border);}
+.ds-actrow{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 4px;}

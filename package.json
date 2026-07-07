@@ -1,0 +1,14 @@
+{
+  "name": "santro-ai",
+  "private": true,
+  "description": "Dev tooling only — the site itself is static (GitHub Pages). ds_v2 style enforcement + QA guards.",
+  "scripts": {
+    "lint:styles": "stylelint \"ds-v2/**/*.css\" --allow-empty-input",
+    "audit:colors": "node ci/audit-colors.mjs ds-v2 design",
+    "qa": "node qa_stress.js && npm run lint:styles && npm run audit:colors"
+  },
+  "devDependencies": {
+    "stylelint": "^16.8.0",
+    "stylelint-declaration-strict-value": "^1.10.6"
+  }
+}

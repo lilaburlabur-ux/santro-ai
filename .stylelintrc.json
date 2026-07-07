@@ -1,0 +1,30 @@
+{
+  "plugins": ["stylelint-declaration-strict-value"],
+  "rules": {
+    "color-no-hex": [true, { "message": "Raw hex colors are banned — use var(--st-*/--gl-*/--sc-*) from tokens.css" }],
+    "color-named": ["never", { "message": "Named colors are banned — use tokens" }],
+    "function-disallowed-list": [
+      ["rgb", "rgba", "hsl", "hsla", "oklch", "color"],
+      { "message": "Raw color functions are banned — use tokens" }
+    ],
+    "scale-unlimited/declaration-strict-value": [
+      ["/color$/", "fill", "stroke", "background", "background-color", "border-color", "outline-color", "caret-color", "box-shadow"],
+      {
+        "ignoreValues": ["transparent", "currentColor", "inherit", "initial", "unset", "none", "0"],
+        "message": "Color-bearing properties must reference a CSS variable from tokens.css"
+      }
+    ],
+    "font-family-no-missing-generic-family-keyword": true
+  },
+  "overrides": [
+    {
+      "files": ["**/tokens.css"],
+      "rules": {
+        "color-no-hex": null,
+        "color-named": null,
+        "function-disallowed-list": null,
+        "scale-unlimited/declaration-strict-value": null
+      }
+    }
+  ]
+}

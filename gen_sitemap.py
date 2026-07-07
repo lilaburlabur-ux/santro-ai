@@ -56,6 +56,8 @@ def main():
         urls.append((BASE + path, lm, cf, pr))
     # blog posts — real post date (git), never faked fresh
     for f in sorted(glob.glob(os.path.join(HERE, "blog", "*.html"))):
+        if 'http-equiv="refresh"' in open(f, encoding="utf-8").read():
+            continue  # retired slug -> canonical redirect stub, keep out of sitemap
         slug = os.path.splitext(os.path.basename(f))[0]
         urls.append((f"{BASE}/blog/{slug}", git_date(f"blog/{os.path.basename(f)}"), "monthly", "0.6"))
 

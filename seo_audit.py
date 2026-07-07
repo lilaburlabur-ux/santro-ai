@@ -52,10 +52,6 @@ ROUTES = [
     ("/blog/ai-junk-bonds", "blog/ai-junk-bonds.html", True),
     ("/blog/ai-trading-prompt-engineering", "blog/ai-trading-prompt-engineering.html", True),
     ("/blog/spacex-attention-ai-infrastructure", "blog/spacex-attention-ai-infrastructure.html", True),
-    ("/blog/ai-market-cape-valuation", "blog/ai-market-cape-valuation.html", True),
-    ("/blog/ai-bubble-inflation-adjusted", "blog/ai-bubble-inflation-adjusted.html", True),
-    ("/blog/ai-bubble-vs-dotcom", "blog/ai-bubble-vs-dotcom.html", True),
-    ("/blog/why-expensive-isnt-a-short", "blog/why-expensive-isnt-a-short.html", True),
     ("/privacy", "privacy.html", True), ("/terms", "terms.html", True),
     ("/etfs/smh", "etfs/smh.html", True),
     ("/etfs/soxx", "etfs/soxx.html", True),
@@ -75,6 +71,8 @@ for _dir, _pref in (("stocks", "/stocks"), ("etfs", "/etfs"), ("blog", "/blog"),
                     ("ipos", "/ipos"), ("tools", "/tools"),
                     (os.path.join("stocks", "themes"), "/stocks/themes")):
     for _f in sorted(_g.glob(os.path.join(HERE, _dir, "*.html"))):
+        if 'http-equiv="refresh"' in open(_f, encoding="utf-8").read():
+            continue  # retired-slug redirect stub (noindex + canonical)
         _rel = os.path.relpath(_f, HERE)
         if _rel in _known:
             continue
@@ -91,7 +89,7 @@ _counts = {
     "blog":   sum(1 for r, _, _i in ROUTES if r.startswith("/blog/")),
     "tools":  sum(1 for r, _, _i in ROUTES if r.startswith("/tools/")),
 }
-_EXPECT = {"stocks": 95, "themes": 7, "etfs": 40, "ipos": 7, "blog": 7, "tools": 1}
+_EXPECT = {"stocks": 95, "themes": 7, "etfs": 40, "ipos": 7, "blog": 4, "tools": 1}
 for _k, _min in _EXPECT.items():
     if _counts[_k] < _min:
         print(f"COUNT GUARD FAILED: {_k}={_counts[_k]} expected >= {_min}")

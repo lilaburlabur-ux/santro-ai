@@ -43,7 +43,7 @@ NAV = [
        links=[
          ("Research Feed", "/research", "Curated notes on the AI trade, updated through the day.", None),
          ("Blog", "/blog", "Long-form pieces on bubbles, valuation, and AI credit.", None),
-         ("AI Bubble vs Dot-com", "/blog/ai-bubble-vs-dotcom", "The flagship comparison, inflation-adjusted.", None),
+         ("AI Bubble or Market Reset?", "/blog/ai-bubble-valuation-history", "The flagship read: CAPE, real-terms history, dot-com lessons.", None),
          ("IPO Watch", "/ipos", "Anthropic to SK hynix — 10 filings tracked on EDGAR.", None),
          ("Aschenbrenner Basket", "/stocks/aschenbrenner", "Situational Awareness LP's 13F, position by position.", None),
          ("Burry Short Watch", "/stocks/burry-short-watch", "Scion's disclosed AI puts, verified in filings.", None),
@@ -304,6 +304,8 @@ def sweep():
     stats = dict(mega=0, pageheader=0, sahead=0, topbar=0, none=0, sitejs=0)
     for f in files:
         s = open(f, encoding="utf-8").read()
+        if 'name="robots" content="noindex' in s and 'http-equiv="refresh"' in s:
+            continue  # retired-slug redirect stub — no header/footer chrome
         utils = TERMINAL_UTILS if f == "terminal.html" else DEFAULT_UTILS
         hdr = render_header(section_for(f), utils)
         if RE_MEGA.search(s):

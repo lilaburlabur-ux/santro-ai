@@ -111,7 +111,7 @@ FOOTER = """<!-- mega-footer v1 -->
       <ul>
         <li><a href="/research">Research Feed</a></li>
         <li><a href="/blog">Blog</a></li>
-        <li><a href="/blog/ai-bubble-vs-dotcom">AI Bubble vs Dot-com</a></li>
+        <li><a href="/blog/ai-bubble-valuation-history">AI Bubble or Market Reset?</a></li>
         <li><a href="/ipos">IPO Watch</a></li>
         <li><a href="/stocks/aschenbrenner">Aschenbrenner Basket</a></li>
         <li><a href="/stocks/burry-short-watch">Burry Short Watch</a></li>
@@ -165,6 +165,8 @@ files = sorted(set(glob.glob("*.html") + glob.glob("*/*.html") + glob.glob("*/*/
 replaced = inserted = skipped = 0
 for f in files:
     s = open(f, encoding="utf-8").read()
+    if 'name="robots" content="noindex' in s and 'http-equiv="refresh"' in s:
+        continue  # retired-slug redirect stub
     foot = FOOTER
     if f == "index.html":
         foot = foot.replace("<!--MG_EXTRA-->", INDEX_EXTRA)

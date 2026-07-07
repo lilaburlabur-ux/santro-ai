@@ -5,7 +5,7 @@ Route status legend: PENDING → IN PROGRESS → DONE (verified)
 | # | route | status |
 |---|---|---|
 | 1 | / | DONE |
-| 2 | /terminal | PENDING |
+| 2 | /terminal | DONE |
 | 3 | /stocks | PENDING |
 | 4 | /stocks/[ticker] | PENDING |
 | 5 | /stocks/themes/* | PENDING |
@@ -36,3 +36,8 @@ VERIFY: hydration from real feeds (BI 57 Heating Up + 30d history + real compone
   mobile 375 ov=0, sticky CTA 48px, presets 44px · stylelint/audit:colors/qa_stress 43-43/seo_audit green.
 DEVIATIONS (logged in rebuild-plan.md): hero hydrates client-side from delayed JSONs (static hosting); auth = email+password
   (the verified method; Google absent, not broken); events queue to localStorage pending backend.
+
+## Route 2 — /terminal (DONE)
+AUDIT: 'Live · 5m ago' squawk badge (rule-4 violation), 2x '60-second AI bubble check' quiz-era hooks; compliance lines present (7 delayed refs); map/tape free per gating matrix; existing free features grandfathered (locks never move backwards).
+FIX: badge -> 'Squawk · 5m ago'; quiz hooks -> 'Exposure Check'. No layout change (terminal already the approved wide product).
+VERIFY: greps clean; guards green.

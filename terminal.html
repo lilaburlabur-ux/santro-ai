@@ -847,7 +847,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     share cards and an <a href="/bubble">AI bubble-risk signal</a> — one screen for the whole AI trade, sized by
     the day's move. Auto-refreshing through premarket, market hours and after-hours; quotes delayed ~15 min.
     <a href="/about">How it works</a> · not financial advice.</p>
-    <p style="margin:10px 0 0"><a href="/quiz" style="display:inline-block;background:var(--accent-soft);color:var(--accent-2);border:1px solid var(--accent-border);border-radius:10px;padding:10px 16px;font-weight:700;font-size:13.5px;text-decoration:none">⚡ Take the 60-second AI bubble check</a>
+    <p style="margin:10px 0 0"><a href="/quiz" style="display:inline-block;background:var(--accent-soft);color:var(--accent-2);border:1px solid var(--accent-border);border-radius:10px;padding:10px 16px;font-weight:700;font-size:13.5px;text-decoration:none">⚡ Run the Exposure Check</a>
     <span style="font-size:11.5px;color:var(--faint);margin-left:8px">get your market profile — no signup needed</span></p>
   </div>
 
@@ -877,7 +877,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     <div class="ng">
       <a class="nc" href="/stocks/aschenbrenner"><b>Aschenbrenner AI infrastructure basket</b><span class="tag">Bull</span><p>Disclosed &amp; reported AI-infra + power positions, source-gated.</p></a>
       <a class="nc bear" href="/stocks/burry"><b>Michael Burry's reported AI shorts</b><span class="tag">Bear</span><p>Disclosed puts vs Nvidia &amp; Palantir, with the 13F caveat.</p></a>
-      <a class="nc" href="/quiz"><b>The 60-second AI bubble check</b><span class="tag">New</span><p>What kind of AI-market trader are you? Get your Santro profile.</p></a>
+      <a class="nc" href="/quiz"><b>Exposure Check</b><span class="tag">New</span><p>Calibrate your terminal — universe, concentration, valuation lens, risk watch. Free account.</p></a>
     </div>
   </section>
 
@@ -1656,7 +1656,7 @@ function renderSpaceX(){
   const s = universe ? universe.bubbles.flatMap(b=>b.tickers).find(t=>t.ticker==="SPCX") : null;
   const badge=document.getElementById("spcx-badge");
   if(badge){
-    // freshness stamp, same style as the Hot Tickers badge ("Live · 5m ago");
+    // freshness stamp, same style as the Hot Tickers badge ("Squawk · 5m ago");
     // the squawk feed's as_of is the panel's fastest-moving timestamp
     const ts=(tweets&&tweets.meta&&tweets.meta.as_of)||(universe&&universe.meta.as_of)||null;
     const ago=ts?timeAgo(ts.replace(" UTC","Z").replace(" ","T")):"";

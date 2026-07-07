@@ -142,7 +142,7 @@
     try { prefs = (await API.getPreferences()) || {}; } catch (_) { prefs = {}; }
 
     const fn = (user.first_name || "").trim();
-    const greeting = fn ? `Hello, darling, ${esc(fn)}.` : "Hello, darling.";
+    const greeting = fn ? `Hello, ${esc(fn)}.` : "Welcome back.";
     const name = (user.display_name || fn || user.email || "").trim();
 
     const toggleRow = ([k, label]) =>
@@ -208,7 +208,7 @@
       try {
         const u = await API.updateProfile(body);
         const nf = (u.first_name || "").trim();
-        w.querySelector("h1").textContent = nf ? `Hello, darling, ${nf}.` : "Hello, darling.";
+        w.querySelector("h1").textContent = nf ? `Hello, ${nf}.` : "Welcome back.";
         perr.innerHTML = msg("Profile saved.", "ok");
       } catch (e) { perr.innerHTML = msg(e.detail || "Couldn't save your profile.", "err"); }
     };

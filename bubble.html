@@ -583,13 +583,28 @@ load(); setInterval(load, 300000);
           <li>whether your cash is actually cash</li>
         </ul></div></div>
       <div class="st-bar2">
+        <button class="amber" id="st-card">Create share card</button>
         <button class="amber" id="st-copy">Copy summary</button>
         <button id="st-again">Run another portfolio</button>
         <a href="/signup">Create account to save stress tests</a>
         <a href="/bubble#top">AI bubble risk</a>
         <a href="/terminal">Open terminal</a>
+      </div>
+      <div id="st-cardbox" style="display:none;margin-top:14px">
+        <canvas id="st-canvas" width="1200" height="630" style="width:100%;max-width:600px;border-radius:12px;border:1px solid var(--border);display:block"></canvas>
+        <div class="st-bar2" style="margin-top:9px">
+          <a class="amber" id="st-dl" download="santro-stress-card.png">Download PNG</a>
+          <span style="font-size:11px;color:var(--faint);align-self:center">On iPhone: press and hold the card → Save Image. Card shows score, range and themes only — never your holdings.</span>
+        </div>
       </div>`;
     stage.querySelector("#st-again").onclick=inputState;
+    stage.querySelector("#st-card").onclick=()=>{
+      const box=stage.querySelector("#st-cardbox"); box.style.display="block";
+      drawCard(stage.querySelector("#st-canvas"), r, worst);
+      const dl=stage.querySelector("#st-dl");
+      dl.href=stage.querySelector("#st-canvas").toDataURL("image/png");
+      box.scrollIntoView({behavior:"smooth",block:"center"});
+    };
     stage.querySelector("#st-copy").onclick=async()=>{
       const themes=r.repeated_exposures.slice(0,3).map(t=>pretty(t.theme)).join(", ")||"diversified";
       const txt=`My AI bubble stress score: ${r.portfolio_risk_score}/100 (${r.risk_label}). `+
@@ -600,6 +615,44 @@ load(); setInterval(load, 300000);
     };
     stage.scrollIntoView({behavior:"smooth",block:"start"});
   }
+  function drawCard(cv, r, worst){
+    const x=cv.getContext("2d");
+    const col=r.risk_label==="extreme"?"#b91c1c":r.risk_label==="high"?"#f0596e":r.risk_label==="moderate"?"#e0a73f":"#22c55e";
+    // bg + frame
+    x.fillStyle="#0a0e13"; x.fillRect(0,0,1200,630);
+    x.strokeStyle="#1c2230"; x.lineWidth=2; x.strokeRect(24,24,1152,582);
+    // brand
+    x.fillStyle="#22c55e"; x.font="800 34px -apple-system,Segoe UI,Roboto,sans-serif";
+    x.fillText("SANTRO AI",64,92);
+    x.fillStyle="#6b7684"; x.font="600 20px -apple-system,Segoe UI,Roboto,sans-serif";
+    x.fillText("PORTFOLIO AI BUBBLE STRESS TEST",64,124);
+    // score
+    x.fillStyle=col; x.font="800 130px -apple-system,Segoe UI,Roboto,sans-serif";
+    x.fillText(r.portfolio_risk_score+"/100",64,280);
+    x.font="800 34px -apple-system,Segoe UI,Roboto,sans-serif";
+    x.fillText(r.risk_label.toUpperCase()+" STRESS PROFILE",64,330);
+    // gauge
+    x.fillStyle="#1c2230"; roundRect(x,64,354,1072,16,8); x.fill();
+    x.fillStyle=col; roundRect(x,64,354,Math.max(24,1072*r.portfolio_risk_score/100),16,8); x.fill();
+    // worst scenario
+    x.fillStyle="#9aa6b2"; x.font="700 22px -apple-system,Segoe UI,Roboto,sans-serif";
+    x.fillText("WORST SCENARIO · "+worst.scenario_name.toUpperCase(),64,424);
+    x.fillStyle="#f0596e"; x.font="800 48px -apple-system,Segoe UI,Roboto,sans-serif";
+    x.fillText(worst.estimated_portfolio_drawdown_range[1]+"%  to  "+worst.estimated_portfolio_drawdown_range[0]+"%",64,476);
+    // themes
+    const themes=r.repeated_exposures.slice(0,3).map(t=>pretty(t.theme)+" "+t.total_weight_pct+"%");
+    x.fillStyle="#9aa6b2"; x.font="700 22px -apple-system,Segoe UI,Roboto,sans-serif";
+    x.fillText("TOP EXPOSURE · "+(themes.join("  ·  ")||"diversified").toUpperCase(),64,530);
+    // ai exposure pill right side
+    x.fillStyle="#e0a73f"; x.font="800 40px -apple-system,Segoe UI,Roboto,sans-serif";
+    const ae="AI "+r.ai_exposure_pct+"%"; x.fillText(ae,1136-x.measureText(ae).width,110);
+    // footer
+    x.fillStyle="#6b7684"; x.font="600 19px -apple-system,Segoe UI,Roboto,sans-serif";
+    x.fillText("hot means attention, not direction · santroai.tech/bubble",64,578);
+    const nfa="stress test, not a forecast · not financial advice";
+    x.fillText(nfa,1136-x.measureText(nfa).width,578);
+  }
+  function roundRect(x,px,py,w,h,r2){x.beginPath();x.moveTo(px+r2,py);x.arcTo(px+w,py,px+w,py+h,r2);x.arcTo(px+w,py+h,px,py+h,r2);x.arcTo(px,py+h,px,py,r2);x.arcTo(px,py,px+w,py,r2);x.closePath();}
   inputState();
 })();
 </script>

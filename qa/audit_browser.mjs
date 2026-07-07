@@ -177,3 +177,76 @@ if (mode === "tools") {
   console.log(results.map(r => `${r.pass ? "PASS" : "FAIL"} ${r.test}`).join("\n"));
 }
 await browser.close();
+
+// ── appended modes: theme + width (frontend-debug pass) ────────────────────
+if (mode === "theme") {
+  const browser2 = await chromium.launch();
+  const ctx = await browser2.newContext({ viewport: { width: 1440, height: 900 } });
+  const page = await ctx.newPage();
+  const out = [];
+  for (const u of urls) {
+    let rec = { url: u };
+    try {
+      await page.goto(BASE + u, { timeout: 20000, waitUntil: "domcontentloaded" });
+      await page.waitForTimeout(500);
+      const s0 = await page.evaluate(() => ({ theme: document.documentElement.dataset.theme || "dark",
+        bg: getComputedStyle(document.body).backgroundColor, ds: document.documentElement.classList.contains("ds-v2"),
+        toggle: !!document.querySelector(".mn-theme") }));
+      Object.assign(rec, s0);
+      if (s0.toggle) {
+        await page.click(".mn-theme", { force: true });
+        await page.waitForTimeout(350);
+        const s1 = await page.evaluate(() => ({ theme: document.documentElement.dataset.theme,
+          bg: getComputedStyle(document.body).backgroundColor }));
+        rec.attrChanged = s1.theme !== s0.theme;
+        rec.visualChanged = s1.bg !== s0.bg;
+        await page.reload({ waitUntil: "domcontentloaded" });
+        await page.waitForTimeout(400);
+        const sR = await page.evaluate(() => ({ theme: document.documentElement.dataset.theme || "dark",
+          bg: getComputedStyle(document.body).backgroundColor }));
+        rec.persisted = sR.theme === s1.theme;
+      }
+      await page.evaluate(() => { localStorage.setItem("santro-theme", "dark"); localStorage.removeItem("flag:ds_v2"); });
+      rec.pass = !!(rec.toggle && rec.attrChanged && rec.visualChanged && rec.persisted);
+      if (!rec.pass) console.log("THEME-FAIL", u, JSON.stringify({ a: rec.attrChanged, v: rec.visualChanged, p: rec.persisted, t: rec.toggle }));
+    } catch (e) { rec.error = String(e).slice(0, 120); console.log("THEME-ERR", u, rec.error); }
+    out.push(rec);
+  }
+  await ctx.close(); await browser2.close();
+  const fails = out.filter(r => !r.pass);
+  writeFileSync("qa/frontend-debug/theme-toggle-audit.json", JSON.stringify(out, null, 1));
+  writeFileSync("qa/frontend-debug/theme-toggle-audit.md",
+    `# Theme toggle audit — ${BASE}\n\n${new Date().toISOString()}\n\nURLs tested: **${out.length}** @1440 (click -> attr + computed bg -> reload persist)\n\n**failures: ${fails.length}**\n\n` +
+    (fails.length ? "|url|toggle|attr|visual|persisted|\n|---|---|---|---|---|\n" +
+     fails.slice(0, 60).map(f => `|${f.url}|${f.toggle}|${f.attrChanged}|${f.visualChanged}|${f.persisted}|`).join("\n") : "All pass."));
+  console.log(`theme: ${out.length} tested, ${fails.length} FAIL`);
+}
+
+if (mode === "width") {
+  const browser2 = await chromium.launch();
+  const ctx = await browser2.newContext({ viewport: { width: 1920, height: 950 } });
+  const page = await ctx.newPage();
+  const out = [];
+  for (const u of urls) {
+    try {
+      await page.goto(BASE + u, { timeout: 20000, waitUntil: "domcontentloaded" });
+      await page.waitForTimeout(500);
+      const d = await page.evaluate(() => {
+        const vw = window.innerWidth;
+        const main = document.querySelector("main") || document.querySelector(".land-hero") || document.querySelector(".area-heat") || document.body;
+        const r = main.getBoundingClientRect();
+        let widest = null, ww = 0;
+        for (const el of main.children) {
+          const w = el.getBoundingClientRect().width;
+          if (w > ww) { ww = w; widest = el.tagName + (el.className && el.className.split ? "." + String(el.className).split(" ")[0] : ""); }
+        }
+        return { vw, mainW: Math.round(r.width), gutterL: Math.round(r.left), gutterR: Math.round(vw - r.right),
+          innerW: Math.round(ww), widest, shell: document.body.className || "(terminal-default)" };
+      });
+      out.push({ url: u, ...d });
+    } catch (e) { out.push({ url: u, error: String(e).slice(0, 120) }); }
+  }
+  await ctx.close(); await browser2.close();
+  writeFileSync("qa/frontend-debug/width-shell-audit.json", JSON.stringify(out, null, 1));
+  console.log("width: measured", out.length, "URLs @1920");
+}

@@ -49,7 +49,7 @@ const FOOTER = `  <footer>
     © 2026 Santro AI. All rights reserved. Uses custom models.
   </footer>`;
 const CSS = `<style>
-  .etfp{max-width:820px;margin:0 auto;padding:6px 20px 50px;}
+  .etfp{max-width:1240px;margin:0 auto;padding:6px 20px 50px;}
   .etfp .crumb{font-size:13px;color:var(--faint,#6b7684);margin:14px 0 4px;} .etfp .crumb a{color:var(--muted,#9aa6b2);text-decoration:none;}
   .etfp h1{font-size:28px;margin:10px 0 4px;} .etfp .sub{color:var(--muted,#9aa6b2);font-size:15px;margin:0 0 18px;}
   .etfp h2{font-size:19px;margin:28px 0 8px;} .etfp p,.etfp li{color:var(--muted,#9aa6b2);font-size:15.5px;line-height:1.65;}

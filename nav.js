@@ -53,19 +53,32 @@
     if (e.target.closest("a")) closeDrawer(); // navigating away
   });
 
-  // ── theme (skipped where the page owns its own toggle, e.g. terminal) ──
+  // ── theme: ONE global system (window.SantroTheme) ──────────────────────
+  // Root cause of "toggle changes nothing": remap.css pins dark tokens at
+  // html.ds-v2, which outranks the legacy light overrides — the attribute
+  // changed but pixels didn't until a reload re-evaluated the flag. The fix:
+  // every theme change ALSO re-applies design flags in the same tick, so
+  // light = legacy-light instantly and dark = ds_v2 instantly, on every page.
   var native = HDR.querySelector('[data-native]');
   var themeBtn = HDR.querySelector(".mn-theme");
-  function applyTheme(mode, save) {
+  function setTheme(mode, save) {
     document.documentElement.dataset.theme = mode;
-    if (save) try { localStorage.setItem("santro-theme", mode); } catch (e) {}
+    if (save !== false) try { localStorage.setItem("santro-theme", mode); } catch (e) {}
+    if (window.SantroFlags) window.SantroFlags.applyDesignFlags();
   }
+  window.SantroTheme = { set: setTheme,
+    toggle: function () { setTheme(document.documentElement.dataset.theme === "light" ? "dark" : "light"); } };
   if (!native) {
     var saved = "dark";
     try { saved = localStorage.getItem("santro-theme") || "dark"; } catch (e) {}
-    applyTheme(saved, false);
-    if (themeBtn) themeBtn.addEventListener("click", function () {
-      applyTheme(document.documentElement.dataset.theme === "light" ? "dark" : "light", true);
+    setTheme(saved, false);
+    if (themeBtn) themeBtn.addEventListener("click", function () { window.SantroTheme.toggle(); });
+  } else {
+    // native owners (terminal) run their own handler + chart repaint first;
+    // we sync the design flag right after, on the same click
+    document.addEventListener("click", function (e) {
+      if (e.target.closest && e.target.closest('.mn-theme[data-native]'))
+        setTimeout(function () { if (window.SantroFlags) window.SantroFlags.applyDesignFlags(); }, 0);
     });
   }
 

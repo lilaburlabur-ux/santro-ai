@@ -515,6 +515,69 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebApplication","name":"Santro AI","url":"https://santroai.tech/","applicationCategory":"FinanceApplication","operatingSystem":"Web browser","description":"AI-markets terminal: bubble maps of AI stocks, ETFs and crypto, hot tickers with sourced reasons, a composite bubble-risk index, research notes and a fair-value calculator. Market data is delayed ~15 minutes.","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"isAccessibleForFree":true,"publisher":{"@id":"https://santroai.tech/#org"}}
 </script>
+
+<style id="lp-desktop">
+/* landing premium pass — DESKTOP ONLY (2026-07-08). Mobile rules untouched. */
+.d-only{display:none;}
+@media(min-width:1024px){
+  .d-only{display:flex;}
+  /* hero: terminal backdrop — faint grid + green glow, layered depth */
+  .land-hero{position:relative;padding-top:64px;padding-bottom:44px;}
+  .land-hero::before{content:"";position:absolute;inset:0;pointer-events:none;
+    background:
+      radial-gradient(52% 70% at 18% 12%, rgba(34,197,94,.07) 0%, transparent 60%),
+      radial-gradient(40% 60% at 88% 30%, rgba(124,176,245,.05) 0%, transparent 65%),
+      repeating-linear-gradient(0deg, rgba(255,255,255,.018) 0 1px, transparent 1px 56px),
+      repeating-linear-gradient(90deg, rgba(255,255,255,.018) 0 1px, transparent 1px 56px);
+    -webkit-mask-image:linear-gradient(180deg,#000 0%,#000 70%,transparent 100%);
+            mask-image:linear-gradient(180deg,#000 0%,#000 70%,transparent 100%);}
+  .land-hero>*{position:relative;}
+  .land-hero h1{font-size:clamp(44px,3.4vw,60px);line-height:1.06;letter-spacing:-.5px;}
+  .land-hero .lh-sub{font-size:19px;}
+  .lh-btn{height:52px;padding:0 26px;font-size:15.5px;border-radius:12px;}
+  .lh-btn.primary{box-shadow:0 0 34px rgba(34,197,94,.22);}
+  .lh-btn.primary:hover{box-shadow:0 0 44px rgba(34,197,94,.34);transform:translateY(-1px);}
+  .lh-stats{gap:0;margin:26px 0 0;border:1px solid var(--border);border-radius:12px;
+    background:rgba(255,255,255,.015);overflow:hidden;width:fit-content;}
+  .lh-stats span{padding:12px 20px;font-size:12px;color:var(--muted);
+    border-right:1px solid var(--border);white-space:nowrap;font-variant-numeric:tabular-nums;}
+  .lh-stats span:last-child{border-right:0;}
+  .lh-stats b{color:var(--text);font-size:15px;margin-right:5px;}
+  /* profile card: elevate */
+  .land-hero .mcard{border:1px solid rgba(34,197,94,.28);border-radius:16px;
+    box-shadow:0 0 44px rgba(34,197,94,.10), 0 24px 60px rgba(0,0,0,.45);
+    transform:scale(1.04);}
+  /* quiz: framed band, not a floating form */
+  .land-quiz{position:relative;background:linear-gradient(180deg, rgba(255,255,255,.022), rgba(255,255,255,.008));
+    border-block:1px solid var(--border);padding:56px 22px 64px;margin-top:26px;}
+  .land-quiz .lq-head{max-width:860px;margin:0 auto;}
+  .land-quiz .lq-head::before{content:"PROFILE ENGINE · 8 QUESTIONS · NO SIGNUP";
+    display:block;font-size:11px;font-weight:800;letter-spacing:.16em;color:#22c55e;
+    margin-bottom:10px;font-family:ui-monospace,Menlo,monospace;}
+  .land-quiz h2{font-size:clamp(28px,2.2vw,36px);}
+  .land-quiz .qbar,.land-quiz .qstep{max-width:860px;margin-left:auto;margin-right:auto;}
+  .land-quiz #qmount{max-width:860px;margin:0 auto;background:var(--panel);
+    border:1px solid var(--border);border-radius:16px;padding:26px 28px;
+    box-shadow:0 18px 50px rgba(0,0,0,.35);}
+  /* section rhythm: kickers + alternating bands + bigger headings */
+  .land-grid,.land-why,.land-loop,.land-term{padding-top:64px;padding-bottom:56px;}
+  .land-grid h2,.land-why h2,.land-loop h2,.land-term h2{font-size:clamp(28px,2.2vw,38px);}
+  .land-grid h2::before,.land-why h2::before,.land-loop h2::before,.land-term h2::before{
+    display:block;font-size:11px;font-weight:800;letter-spacing:.16em;color:var(--faint);
+    font-family:ui-monospace,Menlo,monospace;margin-bottom:10px;}
+  .land-grid h2::before{content:"THE MAP";}
+  .land-why h2::before{content:"HEAT \2260 DIRECTION";color:#e0a73f;}
+  .land-loop h2::before{content:"THE DAILY LOOP";}
+  .land-term h2::before{content:"THE TERMINAL";color:#22c55e;}
+  .land-loop{background:rgba(255,255,255,.014);border-block:1px solid var(--border);}
+  .land-term{border-top:1px solid rgba(34,197,94,.25);}
+  .lg-cards>*{transition:transform .15s,border-color .15s;}
+  .lg-cards>*:hover{transform:translateY(-3px);border-color:var(--accent-border);}
+}
+@media(min-width:1440px){
+  .land-hero{padding-top:84px;padding-bottom:56px;}
+}
+</style>
 </head>
 <body>
 
@@ -835,7 +898,12 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
         <a class="lh-btn primary" href="#quiz">Start the AI bubble check</a>
         <a class="lh-btn" href="/terminal">Open terminal</a>
       </div>
-      <p class="lh-micro">Already know what you want? <a href="/stocks">View AI stocks</a> ·
+      <div class="lh-stats d-only" aria-hidden="true">
+      <span><b>84</b> AI tickers</span><span><b>7</b> themes</span>
+      <span><b>40</b> ETFs</span><span><b>6</b> crash scenarios</span>
+      <span><b>~15 min</b> delayed · honest</span>
+    </div>
+    <p class="lh-micro">Already know what you want? <a href="/stocks">View AI stocks</a> ·
       <a href="/etfs">AI ETFs</a> · <a href="/crypto">AI crypto</a> · <a href="/bubble">Bubble risk</a></p>
     </div>
     <div class="lh-visual" aria-hidden="true">

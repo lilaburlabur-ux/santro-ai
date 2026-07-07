@@ -1,10 +1,43 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-07T12:45:47+00:00",
+  "as_of": "2026-07-07T13:01:02+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "MU",
+   "company": "Micron Technology Inc",
+   "move_pct": -5.1,
+   "price": 934.49,
+   "volume": 36265700,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 36,
+   "direction": "down",
+   "why": "Stock Market Today: Tech Futures Sell Off As Samsung Falls On Earnings; Micron, Sandisk Dive (Live Coverage)",
+   "catalyst_type": "earnings",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-sandisk-samsung/?src=A00220&yptr=yahoo",
+   "published": "2026-07-07T12:19:48Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
+   "ticker": "MRVL",
+   "company": "Marvell Technology Inc",
+   "move_pct": -5.08,
+   "price": 236.6,
+   "volume": 25551300,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 35,
+   "direction": "down",
+   "why": "Marvell Technology Poised to Sustain 40%+ Growth for Next 3 Years on Strong AI Demand, RBC Says",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-poised-sustain-40-124450118.html",
+   "published": "2026-07-07T12:44:50Z",
+   "sector": "AI Chips & Compute"
+  }
+ ]
 }

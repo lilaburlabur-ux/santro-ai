@@ -1,0 +1,182 @@
+# Design consistency — https://santroai.tech
+
+2026-07-07T21:22:23.812Z
+
+**0/175 URLs pass.**
+
+## Failures
+- `/` — stale asset: /nav\.js\?v=[12]\b/
+- `/terminal` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks` — stale asset: /nav\.js\?v=[12]\b/
+- `/crypto` — stale asset: /nav\.js\?v=[12]\b/
+- `/etfs` — stale asset: /nav\.js\?v=[12]\b/
+- `/bubble` — stale asset: /nav\.js\?v=[12]\b/
+- `/ipos` — stale asset: /nav\.js\?v=[12]\b/
+- `/news` — stale asset: /nav\.js\?v=[12]\b/
+- `/research` — stale asset: /nav\.js\?v=[12]\b/
+- `/blog` — stale asset: /nav\.js\?v=[12]\b/
+- `/quiz` — stale asset: /nav\.js\?v=[12]\b/
+- `/evaluate-prompt` — stale asset: /nav\.js\?v=[12]\b/
+- `/share` — stale asset: /nav\.js\?v=[12]\b/
+- `/about` — stale asset: /nav\.js\?v=[12]\b/
+- `/privacy` — stale asset: /nav\.js\?v=[12]\b/
+- `/terms` — stale asset: /nav\.js\?v=[12]\b/
+- `/blog/ai-bubble-valuation-history` — stale asset: /nav\.js\?v=[12]\b/
+- `/blog/ai-junk-bonds` — stale asset: /nav\.js\?v=[12]\b/
+- `/blog/ai-trading-prompt-engineering` — stale asset: /nav\.js\?v=[12]\b/
+- `/blog/spacex-attention-ai-infrastructure` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/aapl` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/adbe` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/aes` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/ai` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/amat` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/amba` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/amd` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/amzn` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/anet` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/apld` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/app` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/arm` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/aschenbrenner` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/asml` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/asts` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/avav` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/avgo` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/baba` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/bbai` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/bidu` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/burry-short-watch` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/burry` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/ceva` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/cgnx` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/chkp` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/corz` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/crm` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/crnc` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/crwd` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/csco` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/d` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/ddog` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/dell` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/dlr` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/dv` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/eqix` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/ftnt` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/googl` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/hon` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/hpe` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/ibm` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/inod` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/intc` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/intu` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/isrg` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/kioxia` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/klac` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/lrcx` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/lscc` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/mdb` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/meta` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/mgni` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/mrvl` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/msft` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/mu` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/nanya` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/net` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/now` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/nvda` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/nxpi` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/oklo` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/okta` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/orcl` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/panw` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/path` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/pins` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/pl` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/pltr` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/pubm` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/pwr` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/qcom` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/rklb` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/rok` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/rxrx` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/s` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/samsung` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/sap` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/sk-hynix` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/smci` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/smr` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/snap` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/snow` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/soun` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/spcx` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/sym` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/syna` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/ter` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/tln` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/tsla` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/tsm` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/ttd` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/upst` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/vrt` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/wday` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/winbond` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/zbra` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/zs` — stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/agix` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/aipi` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/aiq` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/aivi` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/aivl` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/aiyy` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/arkq` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/arty` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/avgx` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/bai` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/botz` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/chat` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/dtcr` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/dtec` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/fdtx` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/fepi` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/ftxl` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/humn` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/igpt` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/ives` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/koid` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/komp` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/loup` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/lrnz` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/nvdl` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/psi` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/qqqi` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/qtum` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/robo` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/robt` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/smh` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/soxl` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/soxq` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/soxs` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/soxx` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/thnq` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/ubot` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/vgt` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/wtai` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/etfs/xsd` — stale asset: /site\.css\?v=(?:[0-9]|1[01])\b/; stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/themes/ai-applications-and-data-software` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/themes/ai-chips-and-compute` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/themes/ai-platforms-internet-and-adtech` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/themes/ai-software-and-cloud-infrastructure` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/themes/applied-ai-industrial-defense-and-vertical` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/themes/chip-equipment-and-ai-hardware` — stale asset: /nav\.js\?v=[12]\b/
+- `/stocks/themes/data-center-power-and-energy` — stale asset: /nav\.js\?v=[12]\b/
+- `/ipos/anduril` — stale asset: /nav\.js\?v=[12]\b/
+- `/ipos/anthropic` — stale asset: /nav\.js\?v=[12]\b/
+- `/ipos/cerebras` — stale asset: /nav\.js\?v=[12]\b/
+- `/ipos/csquare` — stale asset: /nav\.js\?v=[12]\b/
+- `/ipos/databricks` — stale asset: /nav\.js\?v=[12]\b/
+- `/ipos/mistral` — stale asset: /nav\.js\?v=[12]\b/
+- `/ipos/openai` — stale asset: /nav\.js\?v=[12]\b/
+- `/ipos/sk-hynix-adr` — stale asset: /nav\.js\?v=[12]\b/
+- `/ipos/syntiant` — stale asset: /nav\.js\?v=[12]\b/
+- `/ipos/xai` — stale asset: /nav\.js\?v=[12]\b/
+- `/tools/fair-value-calculator` — stale asset: /nav\.js\?v=[12]\b/

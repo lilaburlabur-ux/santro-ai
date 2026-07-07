@@ -27,7 +27,7 @@ for (const path of locs) {
   const url = base + path;
   let status = 0, body = "";
   try {
-    const res = await fetch(url, { redirect: "manual" });
+    const res = await fetch(url + (url.includes("?") ? "&" : "?") + "cb=" + Date.now(), { redirect: "manual" });
     status = res.status; body = await res.text();
   } catch (e) { status = -1; }
   const problems = [];

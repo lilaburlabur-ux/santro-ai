@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-08T16:45:53+00:00",
+  "as_of": "2026-07-08T17:01:07+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,9 +11,9 @@
    "rank": 1,
    "ticker": "BABA",
    "company": "Alibaba Group Holding Ltd ADR",
-   "move_pct": 11.08,
-   "price": 109.01,
-   "volume": 25998735,
+   "move_pct": 10.91,
+   "price": 108.85,
+   "volume": 26509696,
    "volume_vs_avg": "~2x",
    "heat_score": 74,
    "direction": "up",
@@ -25,11 +25,27 @@
   },
   {
    "rank": 2,
+   "ticker": "AVGO",
+   "company": "Broadcom Inc",
+   "move_pct": 6.23,
+   "price": 393.87,
+   "volume": 17610929,
+   "volume_vs_avg": "~0.5x",
+   "heat_score": 39,
+   "direction": "up",
+   "why": "Broadcom Stock Jumps After Apple Extends Multibillion-Dollar Chip Deal",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-jumps-apple-extends-162500170.html",
+   "published": "2026-07-08T16:25:00Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 3,
    "ticker": "ANET",
    "company": "Arista Networks Inc",
-   "move_pct": 5.8,
-   "price": 176.11,
-   "volume": 5764920,
+   "move_pct": 6.0,
+   "price": 176.44,
+   "volume": 5997001,
    "volume_vs_avg": "~0.7x",
    "heat_score": 39,
    "direction": "up",
@@ -38,22 +54,6 @@
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-ceasefire-micron-sandisk/?src=A00220&yptr=yahoo",
    "published": "2026-07-08T15:55:13Z",
    "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 3,
-   "ticker": "AVGO",
-   "company": "Broadcom Inc",
-   "move_pct": 5.84,
-   "price": 392.42,
-   "volume": 16803999,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 38,
-   "direction": "up",
-   "why": "Broadcom Stock Jumps After Apple Extends Multibillion-Dollar Chip Deal",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-jumps-apple-extends-162500170.html",
-   "published": "2026-07-08T16:25:00Z",
-   "sector": "AI Chips & Compute"
   }
  ]
 }

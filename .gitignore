@@ -7,3 +7,14 @@ __pycache__/
 research/_charts/
 .claude/
 node_modules/
+
+# internal QA/audit reports & screenshots — never publish (kept local/private only)
+audit/
+qa/audit/*
+!qa/audit/sitemap-urls.txt
+qa/frontend-debug/
+qa/full-consistency/
+qa/theme-color-integrity/
+qa/about-redesign/
+qa/screenshots/
+qa/design-consistency-report.*

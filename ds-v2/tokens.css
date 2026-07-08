@@ -115,6 +115,9 @@
   .ds-v2 a { color: var(--st-green); text-decoration: none; }
   .ds-v2 a:hover { color: var(--st-link-hover); }
   .ds-v2 :focus-visible { outline: 2px solid var(--st-focus-ring); outline-offset: 1px; }
+  /* belt-and-suspenders: any UA-drawn focus ring (plain :focus, programmatic
+     focus) is recolored green — the browser default is #005FCC blue. */
+  .ds-v2 :focus { outline-color: var(--st-focus-ring); }
   .ds-v2 ::selection { background: var(--st-focus-ring); }
 
   /* numbers: always mono + tabular */

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-08T12:26:42+00:00",
+  "as_of": "2026-07-08T12:41:51+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "BABA",
    "company": "Alibaba Group Holding Ltd ADR",
-   "move_pct": 8.42,
-   "price": 106.4,
+   "move_pct": 8.44,
+   "price": 106.42,
    "volume": 10187700,
    "volume_vs_avg": "~0.8x",
    "heat_score": 59,
    "direction": "up",
-   "why": "Alibaba jumps premarket; Rivian, Bath & Body Works fall",
+   "why": "Cathie Wood Sold $54 Million of Alibaba Stock in a Single Day. Is Alibaba a Sell?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-jumps-premarket-rivian-bath-112846720.html",
-   "published": "2026-07-08T11:28:46Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sold-54-million-121500119.html",
+   "published": "2026-07-08T12:15:00Z",
    "sector": "AI Platforms, Internet & AdTech"
   }
  ]

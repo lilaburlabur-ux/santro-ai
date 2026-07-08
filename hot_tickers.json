@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-08T13:32:33+00:00",
+  "as_of": "2026-07-08T13:47:49+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "BABA",
    "company": "Alibaba Group Holding Ltd ADR",
-   "move_pct": 8.1,
-   "price": 106.09,
-   "volume": 7074839,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 56,
+   "move_pct": 8.9,
+   "price": 106.87,
+   "volume": 10553275,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 60,
    "direction": "up",
    "why": "Alibaba Jumps Nearly 10% As China AI Stocks Rally",
    "catalyst_type": "momentum_narrative",

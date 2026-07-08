@@ -1,11 +1,8 @@
 {
-  "as_of_utc": "2026-07-08T11:05:22+00:00",
-  "as_of_local": "2026-07-08 11:05:22 UTC",
+  "as_of_utc": "2026-07-08T11:10:25+00:00",
+  "as_of_local": "2026-07-08 11:10:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO",
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -64,6 +61,34 @@
       ]
     },
     {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 370.78,
+      "previous_close": 373.9,
+      "change_pct": -0.83,
+      "market_cap": 1764015580006.847,
+      "headlines": [
+        {
+          "title": "Apple announces chip deal with Broadcom worth more than $30 billion",
+          "url": "https://finance.yahoo.com/technology/article/apple-announces-chip-deal-with-broadcom-worth-more-than-30-billion-100000097.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-08T10:00:00Z"
+        },
+        {
+          "title": "Apple commits over $30 billion to Broadcom chip deal",
+          "url": "https://finance.yahoo.com/technology/articles/apple-commits-over-30-billion-104155710.html",
+          "publisher": "Investing.com",
+          "published": "2026-07-08T10:41:55Z"
+        },
+        {
+          "title": "The Dividend Growth Formula That Turns $500,000 Into a Six-Figure Income Stream",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-growth-formula-turns-500-101146928.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-07-08T10:11:46Z"
+        }
+      ]
+    },
+    {
       "symbol": "MU",
       "name": "Micron Technology",
       "price": 938.38,
@@ -88,6 +113,34 @@
           "url": "https://www.barrons.com/articles/micron-stock-price-bear-market-0e7a6756?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-07-08T10:17:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 516.11,
+      "previous_close": 552.05,
+      "change_pct": -6.51,
+      "market_cap": 841569271908.5385,
+      "headlines": [
+        {
+          "title": "Samsung saw a record quarter, but it's not enough for investors. Here's why.",
+          "url": "https://finance.yahoo.com/video/samsung-saw-a-record-quarter-but-its-not-enough-for-investors-heres-why-203148500.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-07T20:31:48Z"
+        },
+        {
+          "title": "Stocks to Watch: Micron, Chevron, Levi Strauss",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-08-2026/card/stocks-to-watch-micron-chevron-levi-strauss-qowXmV2vcTgrgwbwQIJg?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-07-08T09:28:13Z"
+        },
+        {
+          "title": "Nvidia Lands Crunch Perplexity Deal But the Stock Is Falling",
+          "url": "https://www.barrons.com/articles/nvidia-stock-perplexity-deal-f4958fdc?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-07-08T08:57:00Z"
         }
       ]
     },
@@ -153,7 +206,7 @@
       "price": 230.7,
       "previous_close": 249.27,
       "change_pct": -7.45,
-      "market_cap": 201990114339.12378,
+      "market_cap": 201816357330.32227,
       "headlines": [
         {
           "title": "Stocks to Watch: Micron, Chevron, Levi Strauss",
@@ -348,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": null,
-      "change_pct": 0.0,
+      "price": 60.59,
+      "change_pct": -6.44,
       "holdings": [
         {
           "symbol": "MU",
@@ -438,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": null,
-    "change_pct": 0.0,
+    "price": 60.59,
+    "change_pct": -6.44,
     "holdings": [
       {
         "symbol": "MU",
@@ -532,13 +585,18 @@
     },
     {
       "label": "BTC",
-      "price": 62086.34,
-      "change_pct": -1.91
+      "price": 62107.99,
+      "change_pct": -1.88
     },
     {
       "label": "Gold",
-      "price": 4066.6,
-      "change_pct": -1.9
+      "price": 4064.0,
+      "change_pct": -1.96
+    },
+    {
+      "label": "Nasdaq100",
+      "price": 29173.02,
+      "change_pct": -1.77
     }
   ]
 }

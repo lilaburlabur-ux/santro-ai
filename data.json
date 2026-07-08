@@ -1,8 +1,16 @@
 {
-  "as_of_utc": "2026-07-08T08:12:57+00:00",
-  "as_of_local": "2026-07-08 08:12:57 UTC",
+  "as_of_utc": "2026-07-08T08:18:05+00:00",
+  "as_of_local": "2026-07-08 08:18:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM",
+    "INTC",
+    "MRVL",
+    "QCOM",
+    "LSCC",
+    "SYNA",
+    "CEVA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,34 +37,6 @@
           "url": "https://finance.yahoo.com/healthcare/articles/vertex-paying-102-premium-acquire-074853536.html",
           "publisher": "Motley Fool",
           "published": "2026-07-08T07:48:53Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 432.57,
-      "previous_close": 451.79,
-      "change_pct": -4.25,
-      "market_cap": 2243513101790.2803,
-      "headlines": [
-        {
-          "title": "DeepSeek looks to reduce reliance on Nvidia with own AI chip",
-          "url": "https://finance.yahoo.com/video/deepseek-looks-to-reduce-reliance-on-nvidia-with-own-ai-chip-203313261.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-07T20:33:13Z"
-        },
-        {
-          "title": "Samsung saw a record quarter, but it's not enough for investors. Here's why.",
-          "url": "https://finance.yahoo.com/video/samsung-saw-a-record-quarter-but-its-not-enough-for-investors-heres-why-203148500.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-07T20:31:48Z"
-        },
-        {
-          "title": "Amkor (AMKR) Stock Still Looks Like A Bargain On A 205% Run",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amkor-amkr-stock-still-looks-231059268.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-07T23:10:59Z"
         }
       ]
     },
@@ -145,34 +125,6 @@
       ]
     },
     {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 110.39,
-      "previous_close": 122.2,
-      "change_pct": -9.66,
-      "market_cap": 554820136932.373,
-      "headlines": [
-        {
-          "title": "Samsung saw a record quarter, but it's not enough for investors. Here's why.",
-          "url": "https://finance.yahoo.com/video/samsung-saw-a-record-quarter-but-its-not-enough-for-investors-heres-why-203148500.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-07T20:31:48Z"
-        },
-        {
-          "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-chip-maker-sambanova-raises-071600183.html",
-          "publisher": "TechCrunch",
-          "published": "2026-07-08T07:16:00Z"
-        },
-        {
-          "title": "INTC, WDC, SNDK, AMD: Red-Hot AI Chip Stocks Lose Sheen In Samsung-Triggered Selloff",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intc-wdc-sndk-amd-red-024007702.html",
-          "publisher": "Stocktwits",
-          "published": "2026-07-08T02:40:07Z"
-        }
-      ]
-    },
-    {
       "symbol": "ARM",
       "name": "Arm Holdings",
       "price": 300.43,
@@ -197,62 +149,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-remains-bullish-arm-holdings-163555863.html",
           "publisher": "Insider Monkey",
           "published": "2026-07-06T16:35:55Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 230.7,
-      "previous_close": 249.27,
-      "change_pct": -7.45,
-      "market_cap": 201816357330.32227,
-      "headlines": [
-        {
-          "title": "3 Soaring Stocks That May Have More Upside Ahead",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-soaring-stocks-may-more-233500836.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-07T23:35:00Z"
-        },
-        {
-          "title": "\ud83d\udcc9 Which Tech Stocks Fell the Most Today?",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-07-2026/card/-which-tech-stocks-are-falling-the-most-today--ZJ8L41EcRW26zRtVSy9v?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-07-07T20:53:46Z"
-        },
-        {
-          "title": "Update: Dow Snaps Record Run Amid Tech Sell-Off, Oil Price Jump",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dow-snaps-record-run-amid-202322498.html",
-          "publisher": "MT Newswires",
-          "published": "2026-07-07T20:23:22Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 182.97,
-      "previous_close": 186.48,
-      "change_pct": -1.88,
-      "market_cap": 192850381286.6211,
-      "headlines": [
-        {
-          "title": "Qualcomm (QCOM) Stock Looks Fairly Valued After Fresh AI Demand News",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-looks-fairly-220957120.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-07T22:09:57Z"
-        },
-        {
-          "title": "Qualcomm (QCOM) Falls More Steeply Than Broader Market: What Investors Need to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-falls-more-steeply-214504109.html",
-          "publisher": "Zacks",
-          "published": "2026-07-07T21:45:04Z"
-        },
-        {
-          "title": "QUALCOMM (QCOM) Leaves Russell Growth Indexes, Is The Stock Cheap Or Pricey?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-leaves-russell-growth-211604841.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-07T21:16:04Z"
         }
       ]
     },
@@ -285,34 +181,6 @@
       ]
     },
     {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 130.6,
-      "previous_close": 137.31,
-      "change_pct": -4.89,
-      "market_cap": 17893226960.429596,
-      "headlines": [
-        {
-          "title": "Lattice Semiconductor (LSCC) Stock Trades Up, Here Is Why",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-lscc-stock-trades-225201400.html",
-          "publisher": "StockStory",
-          "published": "2026-07-06T22:52:01Z"
-        },
-        {
-          "title": "Western Digital, MACOM, and Lattice Semiconductor Shares Are Falling, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-macom-lattice-semiconductor-022824236.html",
-          "publisher": "StockStory",
-          "published": "2026-07-03T02:28:24Z"
-        },
-        {
-          "title": "Lam Research Stock Surges 154% in H1'26: Should You Buy More or Exit?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-stock-surges-154-141100491.html",
-          "publisher": "Zacks",
-          "published": "2026-07-01T14:11:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 162.53,
@@ -337,62 +205,6 @@
           "url": "https://www.barrons.com/articles/lockheed-martin-stock-nato-meeting-turkey-buy-a3400719?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-07-07T17:34:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 119.37,
-      "previous_close": 124.21,
-      "change_pct": -3.9,
-      "market_cap": 4662911741.408844,
-      "headlines": [
-        {
-          "title": "ON Semiconductor (ON) Stock Faces Investor Investigation After Synaptics Deal",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stock-faces-investor-investigation-021059390.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-03T02:10:59Z"
-        },
-        {
-          "title": "Cantor Fitzgerald Raises Price Target on ON Semiconductor Corporation (ON)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-raises-price-target-063834689.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-07-02T06:38:34Z"
-        },
-        {
-          "title": "Strength Seen in Synaptics (SYNA): Can Its 5.8% Jump Turn into More Strength?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/strength-seen-synaptics-syna-5-165400243.html",
-          "publisher": "Zacks",
-          "published": "2026-07-01T16:54:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "CEVA",
-      "name": "CEVA",
-      "price": 42.76,
-      "previous_close": 44.64,
-      "change_pct": -4.21,
-      "market_cap": 1191266571.6789742,
-      "headlines": [
-        {
-          "title": "Needham Initiates CEVA (CEVA) With A Buy Rating",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/needham-initiates-ceva-ceva-buy-210441807.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-07-01T21:04:41Z"
-        },
-        {
-          "title": "Is Amkor Technology (AMKR) Stock Outpacing Its Computer and Technology Peers This Year?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-stock-outpacing-134006232.html",
-          "publisher": "Zacks",
-          "published": "2026-06-29T13:40:06Z"
-        },
-        {
-          "title": "All You Need to Know About Ceva (CEVA) Rating Upgrade to Buy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/know-ceva-ceva-rating-upgrade-160005922.html",
-          "publisher": "Zacks",
-          "published": "2026-06-23T16:00:05Z"
         }
       ]
     }
@@ -427,8 +239,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -6.25,
-          "price": 277500.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "KRW"
         },
         {
@@ -445,8 +257,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -7.26,
-          "price": 1617.7,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -454,8 +266,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -4.68,
-          "price": 827.64,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -463,8 +275,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -7.86,
-          "price": 532.1,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -481,8 +293,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -3.16,
-          "price": 168.5,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "TWD"
         }
       ]
@@ -517,8 +329,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -6.25,
-        "price": 277500.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "KRW"
       },
       {
@@ -535,8 +347,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -7.26,
-        "price": 1617.7,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -544,8 +356,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -4.68,
-        "price": 827.64,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -553,8 +365,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -7.86,
-        "price": 532.1,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -571,8 +383,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -3.16,
-        "price": 168.5,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "TWD"
       }
     ]
@@ -585,13 +397,13 @@
     },
     {
       "label": "BTC",
-      "price": 62737.76,
-      "change_pct": -0.88
+      "price": 62452.3,
+      "change_pct": -1.34
     },
     {
       "label": "Gold",
-      "price": 4128.4,
-      "change_pct": -0.41
+      "price": 4130.3,
+      "change_pct": -0.36
     },
     {
       "label": "Nasdaq100",

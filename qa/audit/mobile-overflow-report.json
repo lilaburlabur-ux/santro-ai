@@ -142,7 +142,9 @@
   "headers": 1,
   "footers": 1,
   "ds": true,
-  "consoleErrors": []
+  "consoleErrors": [
+   "Failed to load resource: the server responded with a status of 401 ()"
+  ]
  },
  {
   "url": "/evaluate-prompt",
@@ -2302,9 +2304,7 @@
   "headers": 1,
   "footers": 1,
   "ds": true,
-  "consoleErrors": [
-   "Failed to load resource: the server responded with a status of 401 ()"
-  ]
+  "consoleErrors": []
  },
  {
   "url": "/stocks",
@@ -2421,7 +2421,9 @@
   "headers": 1,
   "footers": 1,
   "ds": true,
-  "consoleErrors": []
+  "consoleErrors": [
+   "Failed to load resource: the server responded with a status of 401 ()"
+  ]
  },
  {
   "url": "/evaluate-prompt",
@@ -4553,6 +4555,8 @@
   "headers": 1,
   "footers": 1,
   "ds": true,
-  "consoleErrors": []
+  "consoleErrors": [
+   "Failed to load resource: the server responded with a status of 401 ()"
+  ]
  }
 ]

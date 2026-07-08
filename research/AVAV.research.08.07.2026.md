@@ -4,24 +4,24 @@ Signed file: `AVAV.research.08.07.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $162.53 (2026-07-08, ~15-min delayed) |
-| Market cap | $8.23B |
+| Current price | $157.78 (2026-07-08, ~15-min delayed) |
+| Market cap | $7.98B |
 | Sector / Industry | Industrials / Aerospace & Defense |
 | Main theme | Aerospace & Defense — see catalysts below |
-| Current stance | Low technical momentum, weak fundamentals, value: low (expensive), risk: high. |
+| Current stance | Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-07-08.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-35.84%) with negative half-year (-36.56%). |
-| Fresh setup quality | Poor / broken | -60.34% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-37.56%) with negative half-year (-46.95%). |
+| Fresh setup quality | Poor / broken | -61.50% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-13.41%). |
-| Value attractiveness | Low (expensive) | Forward P/E 35.16, EV/Sales 4.25. |
-| Risk level | High | Beta 1.40, ATR 8.7% of price, short float 12.56%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 34.13, EV/Sales 4.25. |
+| Risk level | High | Beta 1.40, ATR 8.9% of price, short float 12.56%. |
 
-**Bottom line:** Low technical momentum, weak fundamentals, value: low (expensive), risk: high.
+**Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ AeroVironment, Inc. designs, develops, produces, delivers, and supports a portfo
 
 | Headline | Source | Date |
 |---|---|---|
-| Why AeroVironment Stock Dived by More Than 20% Last Month | Motley Fool | 2026-07-07 |
-| Trump Just Made An Obscure Pentagon Office Bigger Than The Marine Corps. Here Are 5 Stocks For This $1.5 Trillion Defense Opportunity | 24/7 Wall St. | 2026-07-07 |
-| Lockheed Martin and 7 More Stocks That Could Benefit From the NATO Meeting in Turkey | Barrons.com | 2026-07-07 |
-| AeroVironment's Investors Focused on Mid-Term Organic Growth Outlook, RBC Capital Markets Says | MT Newswires | 2026-07-07 |
+| Ondas Just Built Autonomous Defense Powerhouse With This Major Acquisition | IPO-Edge.com | 2026-07-08 |
+| AeroVironment Shares Rise After Unveiling Long-Term Growth Targets at Investor Day (AVAV) | InvestorsHub | 2026-07-08 |
+| Northrop, Lockheed, Other Defense Stocks Fall as Trump Sparks Iran War Fears | Barrons.com | 2026-07-08 |
+| AeroVironment stock jumps 7% on investor day outlook | Investing.com | 2026-07-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $162.53; 52w high $409.83 (-60.34%); 52w low $136.68 (+18.91%) |
-| Trend | -35.84% vs SMA200, -6.71% vs SMA50, -1.13% vs SMA20 |
-| Momentum | RSI(14) 47.5 (neutral) |
-| Volatility | ATR(14) 14.14 (~8.7% of price); beta 1.40 |
-| Setup perspective | -60.34% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $157.78; 52w high $409.83 (-61.50%); 52w low $136.68 (+15.44%) |
+| Trend | -37.56% vs SMA200, -9.04% vs SMA50, -3.23% vs SMA20 |
+| Momentum | RSI(14) 45.6 (neutral) |
+| Volatility | ATR(14) 13.98 (~8.9% of price); beta 1.40 |
+| Setup perspective | -61.50% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +16.9% |
-| Month | -20.5% |
-| Quarter | -14.1% |
-| Half Y | -36.6% |
-| 1Y | -34.0% |
-| YTD | -36.6% |
+| Week | -4.4% |
+| Month | -15.1% |
+| Quarter | -15.6% |
+| Half Y | -46.9% |
+| 1Y | -34.5% |
+| YTD | -38.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ AeroVironment, Inc. designs, develops, produces, delivers, and supports a portfo
 | Revenue (ttm) | $1.98B | Revenue growth 133.30% y/y |
 | Profitability | Gross 25.32%, operating 2.81%, net -13.41% | ROA -1.29%, ROE -10.03% |
 | Balance sheet | Cash $632.30M, debt $834.79M | Current ratio 4.30, debt/equity 18.97 |
-| Valuation | P/E —, forward P/E 35.16, P/S 4.16, P/B 1.89 | EV/Sales 4.25, EV/EBITDA 43.14 |
+| Valuation | P/E —, forward P/E 34.13, P/S 4.04, P/B 1.81 | EV/Sales 4.25, EV/EBITDA 43.14 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $258.61 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 89.12% |
+| Institutional ownership | 89.31% |
 | Insider ownership | 0.77% |
 | Short float | 12.56% |
 | Short ratio (days to cover) | 3.9 |
@@ -95,8 +95,8 @@ AeroVironment, Inc. designs, develops, produces, delivers, and supports a portfo
 | Van Eck Associates Corporation | 687,977 | 1.36% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 35.16, EV/Sales 4.25. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.40, ATR 8.7% of price, short float 12.56%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 34.13, EV/Sales 4.25. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.40, ATR 8.9% of price, short float 12.56%. Size positions accordingly.
 - **Short interest risk:** short float 12.56% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -114,21 +114,21 @@ AeroVironment, Inc. designs, develops, produces, delivers, and supports a portfo
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $162.53 | EV/Sales | 4.25 |
-| Market cap | $8.23B | EV/EBITDA | 43.14 |
+| Price | $157.78 | EV/Sales | 4.25 |
+| Market cap | $7.98B | EV/EBITDA | 43.14 |
 | Beta | 1.40 | Gross margin | 25.32% |
-| RSI(14) | 47.5 | Operating margin | 2.81% |
-| ATR(14) | 14.14 | Profit margin | -13.41% |
-| SMA20 dist | -1.13% | ROA | -1.29% |
-| SMA50 dist | -6.71% | ROE | -10.03% |
-| SMA200 dist | -35.84% | Revenue (ttm) | $1.98B |
+| RSI(14) | 45.6 | Operating margin | 2.81% |
+| ATR(14) | 13.98 | Profit margin | -13.41% |
+| SMA20 dist | -3.23% | ROA | -1.29% |
+| SMA50 dist | -9.04% | ROE | -10.03% |
+| SMA200 dist | -37.56% | Revenue (ttm) | $1.98B |
 | 52W high | $409.83 | Revenue growth y/y | 133.30% |
-| 52W low | $136.68 | Inst. ownership | 89.12% |
+| 52W low | $136.68 | Inst. ownership | 89.31% |
 | P/E (ttm) | — | Insider ownership | 0.77% |
-| Forward P/E | 35.16 | Short float | 12.56% |
-| PEG (trailing) | — | Avg volume | 1,556,475 |
-| P/S | 4.16 | Employees | 3,991 |
-| P/B | 1.89 | Analyst rec (1=buy..5=sell) | 1.6 |
+| Forward P/E | 34.13 | Short float | 12.56% |
+| PEG (trailing) | — | Avg volume | 1,557,406 |
+| P/S | 4.04 | Employees | 3,991 |
+| P/B | 1.81 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -143,7 +143,7 @@ AeroVironment, Inc. designs, develops, produces, delivers, and supports a portfo
 | 2026-06-30 | reit | Citizens | Market Outperform → Market Outperform |
 
 ## 9. Conclusion
-AVAV: Low momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+AVAV: Low momentum / weak fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

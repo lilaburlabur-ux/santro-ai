@@ -4,8 +4,8 @@ Signed file: `NVDA.research.08.07.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $196.93 (2026-07-08, ~15-min delayed) |
-| Market cap | $4.77T |
+| Current price | $204.12 (2026-07-08, ~15-min delayed) |
+| Market cap | $4.94T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `NVDA.research.08.07.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +23.61%; price +2.97% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -16.46% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +29.02%; price +6.65% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -13.41% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 62.97%, revenue growth 85.20%. |
-| Value attractiveness | Reasonable | Forward P/E 15.43, EV/Sales 18.64. |
+| Value attractiveness | Reasonable | Forward P/E 15.99, EV/Sales 18.64. |
 | Risk level | High | Beta 2.21, ATR 3.5% of price, short float 1.29%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -36,30 +36,30 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| DeepSeek looks to reduce reliance on Nvidia with own AI chip | Yahoo Finance Video | 2026-07-07 |
-| Got $1,000? 2 Red-Hot Tech Stocks Setting the Market on Fire in 2026 | Motley Fool | 2026-07-08 |
-| Warren Buffett's Hand-Picked Successor, Greg Abel, Has 58% of Berkshire Hathaway's Portfolio Invested in Just 5 Dow Stocks. Here's My Top Pick for July. | Motley Fool | 2026-07-08 |
-| Why Figma Stock Lost 29% in June | Motley Fool | 2026-07-08 |
+| Broadcom stock jumps on Apple AI chip deal, while Nvidia's relative stock price drops | Yahoo Finance Video | 2026-07-08 |
+| Nvidia market cap sheds $1 trillion: It's more of a rotation than a correction | Yahoo Finance Video | 2026-07-08 |
+| BofA Initiates SpaceX Coverage at $235 Price Target, Sees Multiple Billion-Dollar Businesses | 24/7 Wall St. | 2026-07-08 |
+| 3 High-Yield Dividends That Pay You Soon (But You Must Act Quickly) | 24/7 Wall St. | 2026-07-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $196.93; 52w high $235.74 (-16.46%); 52w low $158.21 (+24.47%) |
-| Trend | +2.97% vs SMA200, -6.05% vs SMA50, -2.47% vs SMA20 |
-| Momentum | RSI(14) 43.5 (neutral) |
-| Volatility | ATR(14) 6.90 (~3.5% of price); beta 2.21 |
-| Setup perspective | -16.46% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $204.12; 52w high $235.74 (-13.41%); 52w low $159.97 (+27.60%) |
+| Trend | +6.65% vs SMA200, -2.58% vs SMA50, +1.20% vs SMA20 |
+| Momentum | RSI(14) 51.0 (neutral) |
+| Volatility | ATR(14) 7.12 (~3.5% of price); beta 2.21 |
+| Setup perspective | -13.41% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.0% |
-| Month | -9.9% |
-| Quarter | +10.9% |
-| Half Y | +4.3% |
-| 1Y | +23.6% |
-| YTD | +4.3% |
+| Week | +2.0% |
+| Month | -0.5% |
+| Quarter | +14.6% |
+| Half Y | +8.5% |
+| 1Y | +29.0% |
+| YTD | +8.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $253.49B | Revenue growth 85.20% y/y |
 | Profitability | Gross 74.14%, operating 65.60%, net 62.97% | ROA 52.73%, ROE 114.29% |
 | Balance sheet | Cash $53.17B, debt $12.81B | Current ratio 3.44, debt/equity 6.55 |
-| Valuation | P/E 30.16, forward P/E 15.43, P/S 18.82, P/B 24.40 | EV/Sales 18.64, EV/EBITDA 28.55 |
+| Valuation | P/E 31.21, forward P/E 15.99, P/S 19.50, P/B 25.29 | EV/Sales 18.64, EV/EBITDA 28.55 |
 | Growth expectations | Earnings growth 214.50%, EPS q/q 210.60% | Analyst mean target $301.62 (58 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 70.80% |
+| Institutional ownership | 70.78% |
 | Insider ownership | 3.98% |
 | Short float | 1.29% |
 | Short ratio (days to cover) | 1.7 |
@@ -110,21 +110,21 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $196.93 | EV/Sales | 18.64 |
-| Market cap | $4.77T | EV/EBITDA | 28.55 |
+| Price | $204.12 | EV/Sales | 18.64 |
+| Market cap | $4.94T | EV/EBITDA | 28.55 |
 | Beta | 2.21 | Gross margin | 74.14% |
-| RSI(14) | 43.5 | Operating margin | 65.60% |
-| ATR(14) | 6.90 | Profit margin | 62.97% |
-| SMA20 dist | -2.47% | ROA | 52.73% |
-| SMA50 dist | -6.05% | ROE | 114.29% |
-| SMA200 dist | +2.97% | Revenue (ttm) | $253.49B |
+| RSI(14) | 51.0 | Operating margin | 65.60% |
+| ATR(14) | 7.12 | Profit margin | 62.97% |
+| SMA20 dist | +1.20% | ROA | 52.73% |
+| SMA50 dist | -2.58% | ROE | 114.29% |
+| SMA200 dist | +6.65% | Revenue (ttm) | $253.49B |
 | 52W high | $235.74 | Revenue growth y/y | 85.20% |
-| 52W low | $158.21 | Inst. ownership | 70.80% |
-| P/E (ttm) | 30.16 | Insider ownership | 3.98% |
-| Forward P/E | 15.43 | Short float | 1.29% |
-| PEG (trailing) | 0.60 | Avg volume | 158,844,308 |
-| P/S | 18.82 | Employees | 42,000 |
-| P/B | 24.40 | Analyst rec (1=buy..5=sell) | 1.3 |
+| 52W low | $159.97 | Inst. ownership | 70.78% |
+| P/E (ttm) | 31.21 | Insider ownership | 3.98% |
+| Forward P/E | 15.99 | Short float | 1.29% |
+| PEG (trailing) | 0.60 | Avg volume | 159,026,465 |
+| P/S | 19.50 | Employees | 42,000 |
+| P/B | 25.29 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

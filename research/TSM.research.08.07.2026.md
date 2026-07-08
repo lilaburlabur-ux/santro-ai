@@ -4,24 +4,24 @@ Signed file: `TSM.research.08.07.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $432.57 (2026-07-08, ~15-min delayed) |
-| Market cap | $2.24T |
+| Current price | $436.98 (2026-07-08, ~15-min delayed) |
+| Market cap | $2.27T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
+| Current stance | High technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-07-08.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +86.27%; price +25.63% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -9.42% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +92.79%; price +26.59% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -8.50% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 46.51%, revenue growth 35.10%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 21.32, EV/Sales 3.83. |
-| Risk level | High | Beta 1.25, ATR 5.1% of price, short float 0.51%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 21.54, EV/Sales 3.83. |
+| Risk level | Elevated | Beta 1.25, ATR 4.8% of price, short float 0.51%. |
 
-**Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -38,28 +38,28 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 |---|---|---|
 | DeepSeek looks to reduce reliance on Nvidia with own AI chip | Yahoo Finance Video | 2026-07-07 |
 | Samsung saw a record quarter, but it's not enough for investors. Here's why. | Yahoo Finance Video | 2026-07-07 |
-| Amkor (AMKR) Stock Still Looks Like A Bargain On A 205% Run | Simply Wall St. | 2026-07-07 |
-| TSMC (TSM) Falls More Steeply Than Broader Market: What Investors Need to Know | Zacks | 2026-07-07 |
+| Veteran analyst drops massive Micron valuation prediction | TheStreet | 2026-07-08 |
+| Revenue and Growth Outlook Affirm Why Taiwan Semiconductor Manufacturing Co. (TSM) is a Top AI Stock on Wall Street’s Radar | Insider Monkey | 2026-07-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $432.57; 52w high $477.57 (-9.42%); 52w low $224.84 (+92.39%) |
-| Trend | +25.63% vs SMA200, +2.71% vs SMA50, -1.40% vs SMA20 |
-| Momentum | RSI(14) 49.5 (neutral) |
-| Volatility | ATR(14) 21.89 (~5.1% of price); beta 1.25 |
-| Setup perspective | -9.42% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $436.98; 52w high $477.57 (-8.50%); 52w low $224.84 (+94.35%) |
+| Trend | +26.59% vs SMA200, +3.58% vs SMA50, -0.53% vs SMA20 |
+| Momentum | RSI(14) 50.6 (neutral) |
+| Volatility | ATR(14) 21.17 (~4.8% of price); beta 1.25 |
+| Setup perspective | -8.50% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.0% |
-| Month | -2.5% |
-| Quarter | +26.9% |
-| Half Y | +36.0% |
-| 1Y | +86.3% |
-| YTD | +36.0% |
+| Week | -8.5% |
+| Month | +5.5% |
+| Quarter | +26.8% |
+| Half Y | +36.3% |
+| 1Y | +92.8% |
+| YTD | +37.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.10T | Revenue growth 35.10% y/y |
 | Profitability | Gross 61.87%, operating 58.10%, net 46.51% | ROA 17.32%, ROE 36.21% |
 | Balance sheet | Cash $3.38T, debt $1.09T | Current ratio 2.49, debt/equity 18.45 |
-| Valuation | P/E 39.22, forward P/E 21.32, P/S 0.55, P/B 97.37 | EV/Sales 3.83, EV/EBITDA 5.50 |
+| Valuation | P/E 37.97, forward P/E 21.54, P/S 0.55, P/B 98.75 | EV/Sales 3.83, EV/EBITDA 5.50 |
 | Growth expectations | Earnings growth 58.40%, EPS q/q 58.30% | Analyst mean target $490.34 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 15.62% |
+| Institutional ownership | 15.64% |
 | Insider ownership | 0.04% |
 | Short float | 0.51% |
 | Short ratio (days to cover) | 2.0 |
@@ -95,8 +95,8 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Jennison Associates LLC | 12,021,825 | 0.23% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 21.32, EV/Sales 3.83. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.25, ATR 5.1% of price, short float 0.51%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 21.54, EV/Sales 3.83. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.25, ATR 4.8% of price, short float 0.51%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -111,21 +111,21 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $432.57 | EV/Sales | 3.83 |
-| Market cap | $2.24T | EV/EBITDA | 5.50 |
+| Price | $436.98 | EV/Sales | 3.83 |
+| Market cap | $2.27T | EV/EBITDA | 5.50 |
 | Beta | 1.25 | Gross margin | 61.87% |
-| RSI(14) | 49.5 | Operating margin | 58.10% |
-| ATR(14) | 21.89 | Profit margin | 46.51% |
-| SMA20 dist | -1.40% | ROA | 17.32% |
-| SMA50 dist | +2.71% | ROE | 36.21% |
-| SMA200 dist | +25.63% | Revenue (ttm) | $4.10T |
+| RSI(14) | 50.6 | Operating margin | 58.10% |
+| ATR(14) | 21.17 | Profit margin | 46.51% |
+| SMA20 dist | -0.53% | ROA | 17.32% |
+| SMA50 dist | +3.58% | ROE | 36.21% |
+| SMA200 dist | +26.59% | Revenue (ttm) | $4.10T |
 | 52W high | $477.57 | Revenue growth y/y | 35.10% |
-| 52W low | $224.84 | Inst. ownership | 15.62% |
-| P/E (ttm) | 39.22 | Insider ownership | 0.04% |
-| Forward P/E | 21.32 | Short float | 0.51% |
-| PEG (trailing) | 1.42 | Avg volume | 14,096,527 |
+| 52W low | $224.84 | Inst. ownership | 15.64% |
+| P/E (ttm) | 37.97 | Insider ownership | 0.04% |
+| Forward P/E | 21.54 | Short float | 0.51% |
+| PEG (trailing) | 1.42 | Avg volume | 14,059,472 |
 | P/S | 0.55 | Employees | 76,907 |
-| P/B | 97.37 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/B | 98.75 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -140,7 +140,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | 2026-01-16 | main | Barclays | Overweight → Overweight |
 
 ## 9. Conclusion
-TSM: High momentum / strong fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+TSM: High momentum / strong fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

@@ -4,8 +4,8 @@ Signed file: `MU.research.08.07.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $938.38 (2026-07-08, ~15-min delayed) |
-| Market cap | $1.06T |
+| Current price | $948.80 (2026-07-08, ~15-min delayed) |
+| Market cap | $1.07T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `MU.research.08.07.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +669.29%; price +107.52% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -22.66% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +692.46%; price +108.03% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -21.80% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 55.91%, revenue growth 345.70%. |
-| Value attractiveness | Reasonable | Forward P/E 6.27, EV/Sales 11.52. |
-| Risk level | High | Beta 2.14, ATR 9.9% of price, short float 3.69%. |
+| Value attractiveness | Reasonable | Forward P/E 6.34, EV/Sales 11.52. |
+| Risk level | High | Beta 2.14, ATR 9.6% of price, short float 3.69%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| AI memory stocks trim losses as investors buy the dip | Yahoo Finance | 2026-07-08 |
 | Samsung saw a record quarter, but it's not enough for investors. Here's why. | Yahoo Finance Video | 2026-07-07 |
-| Got $1,000? 2 Red-Hot Tech Stocks Setting the Market on Fire in 2026 | Motley Fool | 2026-07-08 |
-| Dow Jones Futures: Oil Prices Keep Rising On Iran News After Samsung Fans AI Fears | Investor's Business Daily | 2026-07-08 |
-| Samsung's Preliminary Quarterly Profit Just Jumped 19-Fold -- and Micron Stock Fell on the News. Here's Why. | Motley Fool | 2026-07-08 |
+| Nvidia Stock Is Cheaper Than It's Been Since the AI Boom Began | GuruFocus.com | 2026-07-08 |
+| Micron Technology (MU) CEO on How Tough Price Negotiations by Customers Contributed to Memory Shortage | Insider Monkey | 2026-07-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $938.38; 52w high $1,213.37 (-22.66%); 52w low $104.71 (+796.15%) |
-| Trend | +107.52% vs SMA200, +7.73% vs SMA50, -10.31% vs SMA20 |
-| Momentum | RSI(14) 46.3 (neutral) |
-| Volatility | ATR(14) 93.08 (~9.9% of price); beta 2.14 |
-| Setup perspective | -22.66% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $948.80; 52w high $1,213.37 (-21.80%); 52w low $104.71 (+806.10%) |
+| Trend | +108.03% vs SMA200, +7.81% vs SMA50, -9.32% vs SMA20 |
+| Momentum | RSI(14) 47.0 (neutral) |
+| Volatility | ATR(14) 90.61 (~9.6% of price); beta 2.14 |
+| Setup perspective | -21.80% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -18.1% |
-| Month | -5.8% |
-| Quarter | +148.4% |
-| Half Y | +197.7% |
-| 1Y | +669.3% |
-| YTD | +197.7% |
+| Week | -17.8% |
+| Month | +9.8% |
+| Quarter | +151.3% |
+| Half Y | +204.1% |
+| 1Y | +692.5% |
+| YTD | +201.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
-| Valuation | P/E 22.27, forward P/E 6.27, P/S 11.74, P/B 14.61 | EV/Sales 11.52, EV/EBITDA 15.25 |
+| Valuation | P/E 21.47, forward P/E 6.34, P/S 11.87, P/B 14.77 | EV/Sales 11.52, EV/EBITDA 15.25 |
 | Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,486.00 (42 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 81.39% |
+| Institutional ownership | 81.30% |
 | Insider ownership | 0.25% |
 | Short float | 3.69% |
 | Short ratio (days to cover) | 0.8 |
@@ -95,7 +95,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | JPMORGAN CHASE & CO | 15,775,296 | 1.40% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.14, ATR 9.9% of price, short float 3.69%. Size positions accordingly.
+- **Volatility risk:** Beta 2.14, ATR 9.6% of price, short float 3.69%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $938.38 | EV/Sales | 11.52 |
-| Market cap | $1.06T | EV/EBITDA | 15.25 |
+| Price | $948.80 | EV/Sales | 11.52 |
+| Market cap | $1.07T | EV/EBITDA | 15.25 |
 | Beta | 2.14 | Gross margin | 72.57% |
-| RSI(14) | 46.3 | Operating margin | 80.37% |
-| ATR(14) | 93.08 | Profit margin | 55.91% |
-| SMA20 dist | -10.31% | ROA | 34.87% |
-| SMA50 dist | +7.73% | ROE | 66.64% |
-| SMA200 dist | +107.52% | Revenue (ttm) | $90.27B |
+| RSI(14) | 47.0 | Operating margin | 80.37% |
+| ATR(14) | 90.61 | Profit margin | 55.91% |
+| SMA20 dist | -9.32% | ROA | 34.87% |
+| SMA50 dist | +7.81% | ROE | 66.64% |
+| SMA200 dist | +108.03% | Revenue (ttm) | $90.27B |
 | 52W high | $1,213.37 | Revenue growth y/y | 345.70% |
-| 52W low | $104.71 | Inst. ownership | 81.39% |
-| P/E (ttm) | 22.27 | Insider ownership | 0.25% |
-| Forward P/E | 6.27 | Short float | 3.69% |
-| PEG (trailing) | 0.14 | Avg volume | 51,419,891 |
-| P/S | 11.74 | Employees | 53,000 |
-| P/B | 14.61 | Analyst rec (1=buy..5=sell) | 1.4 |
+| 52W low | $104.71 | Inst. ownership | 81.30% |
+| P/E (ttm) | 21.47 | Insider ownership | 0.25% |
+| Forward P/E | 6.34 | Short float | 3.69% |
+| PEG (trailing) | 0.14 | Avg volume | 51,456,011 |
+| P/S | 11.87 | Employees | 53,000 |
+| P/B | 14.77 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

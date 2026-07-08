@@ -1,12 +1,37 @@
 {
-  "as_of_utc": "2026-07-08T11:46:04+00:00",
-  "as_of_local": "2026-07-08 11:46:04 UTC",
+  "as_of_utc": "2026-07-08T11:51:02+00:00",
+  "as_of_local": "2026-07-08 11:51:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA",
-    "CEVA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 196.93,
+      "previous_close": 195.55,
+      "change_pct": 0.71,
+      "market_cap": 4769841352600.098,
+      "headlines": [
+        {
+          "title": "DeepSeek looks to reduce reliance on Nvidia with own AI chip",
+          "url": "https://finance.yahoo.com/video/deepseek-looks-to-reduce-reliance-on-nvidia-with-own-ai-chip-203313261.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-07T20:33:13Z"
+        },
+        {
+          "title": "The \u2018Magic Number\u2019 To Retire Comfortably Just Rose 15%. Most Americans Aren\u2019t Even Close.",
+          "url": "https://finance.yahoo.com/markets/articles/magic-number-retire-comfortably-just-113756749.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-07-08T11:37:56Z"
+        },
+        {
+          "title": "1 Unstoppable Cryptocurrency to Buy Before It Soars 3,442%, According to Tom Lee of Fundstrat",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/1-unstoppable-cryptocurrency-buy-soars-113300718.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-08T11:33:00Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -342,6 +367,34 @@
           "published": "2026-07-01T16:54:00Z"
         }
       ]
+    },
+    {
+      "symbol": "CEVA",
+      "name": "CEVA",
+      "price": 42.76,
+      "previous_close": 44.64,
+      "change_pct": -4.21,
+      "market_cap": 1191266571.6789742,
+      "headlines": [
+        {
+          "title": "Needham Initiates CEVA (CEVA) With A Buy Rating",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/needham-initiates-ceva-ceva-buy-210441807.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-07-01T21:04:41Z"
+        },
+        {
+          "title": "Is Amkor Technology (AMKR) Stock Outpacing Its Computer and Technology Peers This Year?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-stock-outpacing-134006232.html",
+          "publisher": "Zacks",
+          "published": "2026-06-29T13:40:06Z"
+        },
+        {
+          "title": "All You Need to Know About Ceva (CEVA) Rating Upgrade to Buy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/know-ceva-ceva-rating-upgrade-160005922.html",
+          "publisher": "Zacks",
+          "published": "2026-06-23T16:00:05Z"
+        }
+      ]
     }
   ],
   "etfs": [
@@ -532,13 +585,18 @@
     },
     {
       "label": "BTC",
-      "price": 62242.0,
-      "change_pct": -1.67
+      "price": 62197.95,
+      "change_pct": -1.74
     },
     {
       "label": "Gold",
-      "price": 4056.5,
-      "change_pct": -2.14
+      "price": 4054.1,
+      "change_pct": -2.2
+    },
+    {
+      "label": "Nasdaq100",
+      "price": 29173.02,
+      "change_pct": -1.77
     }
   ]
 }

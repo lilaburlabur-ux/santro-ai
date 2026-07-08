@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-08T08:28:07+00:00",
-  "as_of_local": "2026-07-08 08:28:07 UTC",
+  "as_of_utc": "2026-07-08T08:33:17+00:00",
+  "as_of_local": "2026-07-08 08:33:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-07-07T20:33:13Z"
         },
         {
-          "title": "The SK Hynix Form F-1 Is Here. 3 Things Smart Investors Need to Know About Its $28 Billion U.S. IPO.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-form-f-1-080800641.html",
+          "title": "The Federal Reserve's Initial July Inflation Forecast Looks Fantastic on the Surface, but Something Sinister Lurks in the Details",
+          "url": "https://finance.yahoo.com/economy/policy/articles/federal-reserves-initial-july-inflation-082600456.html",
           "publisher": "Motley Fool",
-          "published": "2026-07-08T08:08:00Z"
+          "published": "2026-07-08T08:26:00Z"
         },
         {
-          "title": "SpaceX Bonds Are Trading Like Junk Bonds. What Does That Mean for Investors?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-bonds-trading-junk-bonds-080200736.html",
+          "title": "SpaceX IPO: The Last Time a Company This Big Went Public, Here's What Happened to Investors 1 Year Later",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-last-time-company-082500803.html",
           "publisher": "Motley Fool",
-          "published": "2026-07-08T08:02:00Z"
+          "published": "2026-07-08T08:25:00Z"
         }
       ]
     },
@@ -117,34 +119,6 @@
       ]
     },
     {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 516.11,
-      "previous_close": 552.05,
-      "change_pct": -6.51,
-      "market_cap": 841569271908.5385,
-      "headlines": [
-        {
-          "title": "Samsung saw a record quarter, but it's not enough for investors. Here's why.",
-          "url": "https://finance.yahoo.com/video/samsung-saw-a-record-quarter-but-its-not-enough-for-investors-heres-why-203148500.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-07T20:31:48Z"
-        },
-        {
-          "title": "INTC, WDC, SNDK, AMD: Red-Hot AI Chip Stocks Lose Sheen In Samsung-Triggered Selloff",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intc-wdc-sndk-amd-red-024007702.html",
-          "publisher": "Stocktwits",
-          "published": "2026-07-08T02:40:07Z"
-        },
-        {
-          "title": "Why Advanced Micro Devices Stock Tanked on Tuesday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-advanced-micro-devices-stock-233413462.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-07T23:34:13Z"
-        }
-      ]
-    },
-    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 110.39,
@@ -206,7 +180,7 @@
       "price": 230.7,
       "previous_close": 249.27,
       "change_pct": -7.45,
-      "market_cap": 201816357330.32227,
+      "market_cap": 201990114339.12378,
       "headlines": [
         {
           "title": "3 Soaring Stocks That May Have More Upside Ahead",
@@ -463,8 +437,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -7.86,
-          "price": 532.1,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -553,8 +527,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -7.86,
-        "price": 532.1,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62099.7,
-      "change_pct": -1.89
+      "price": 61960.02,
+      "change_pct": -2.11
     },
     {
       "label": "Gold",
-      "price": 4097.4,
-      "change_pct": -1.16
+      "price": 4097.0,
+      "change_pct": -1.17
     },
     {
       "label": "Nasdaq100",

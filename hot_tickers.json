@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-08T18:57:37+00:00",
+  "as_of": "2026-07-08T19:12:44+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,9 +11,9 @@
    "rank": 1,
    "ticker": "BABA",
    "company": "Alibaba Group Holding Ltd ADR",
-   "move_pct": 11.44,
-   "price": 109.37,
-   "volume": 31139162,
+   "move_pct": 11.41,
+   "price": 109.33,
+   "volume": 32294206,
    "volume_vs_avg": "~3x",
    "heat_score": 78,
    "direction": "up",
@@ -27,17 +27,33 @@
    "rank": 2,
    "ticker": "AVGO",
    "company": "Broadcom Inc",
-   "move_pct": 5.13,
-   "price": 389.79,
-   "volume": 21121796,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 36,
+   "move_pct": 5.35,
+   "price": 390.62,
+   "volume": 21687785,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 37,
    "direction": "up",
    "why": "Broadcom Spikes 5% on Expanded Apple Chip Deal; Intel and AMD Drift Lower",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-spikes-5-expanded-apple-181534593.html",
    "published": "2026-07-08T18:15:34Z",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 3,
+   "ticker": "SMCI",
+   "company": "Super Micro Computer Inc",
+   "move_pct": 5.31,
+   "price": 27.65,
+   "volume": 26646186,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 36,
+   "direction": "up",
+   "why": "Why Super Micro Computer Fell Over 36% in June",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-super-micro-computer-fell-152000929.html",
+   "published": "2026-07-08T15:20:00Z",
+   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

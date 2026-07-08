@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-08T20:43:22+00:00",
-  "as_of_local": "2026-07-08 20:43:22 UTC",
+  "as_of_utc": "2026-07-08T20:45:27+00:00",
+  "as_of_local": "2026-07-08 20:45:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -85,34 +87,6 @@
           "url": "https://www.investors.com/news/technology/apple-stock-broadcom-deal-bolsters-made-in-usa-efforts/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-07-08T20:25:30Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 948.8,
-      "previous_close": 938.38,
-      "change_pct": 1.11,
-      "market_cap": 1071568207882.2625,
-      "headlines": [
-        {
-          "title": "AI memory stocks trim losses as investors buy the dip",
-          "url": "https://finance.yahoo.com/markets/stocks/article/ai-memory-stocks-trim-losses-as-investors-buy-the-dip-122848703.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-08T12:28:48Z"
-        },
-        {
-          "title": "Nvidia Stock Is Cheaper Than It's Been Since the AI Boom Began",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-cheaper-since-ai-193252581.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-07-08T19:32:52Z"
-        },
-        {
-          "title": "Micron Technology (MU) CEO on How Tough Price Negotiations by Customers Contributed to Memory Shortage",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-inc-mu-ceo-184811657.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-07-08T19:32:11Z"
         }
       ]
     },
@@ -206,7 +180,7 @@
       "price": 231.71,
       "previous_close": 230.7,
       "change_pct": 0.44,
-      "market_cap": 202699913873.29102,
+      "market_cap": 202874431594.17773,
       "headlines": [
         {
           "title": "The MediaTek Ghost Story Just Dropped the World\u2019s Most Powerful Custom-Silicon Juggernaut Into a 25% Discount Zone",
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 1.11,
-          "price": 948.8,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 1.11,
-        "price": 948.8,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62160.97,
-      "change_pct": -1.8
+      "price": 62144.0,
+      "change_pct": -1.82
     },
     {
       "label": "Gold",
-      "price": 4085.3,
-      "change_pct": -1.45
+      "price": 4083.6,
+      "change_pct": -1.49
     },
     {
       "label": "Nasdaq100",

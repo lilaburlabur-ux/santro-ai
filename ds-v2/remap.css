@@ -33,4 +33,11 @@ html.ds-v2 {
   --danger: var(--st-red);
   --gray: var(--st-ink-dim);
   --amber: var(--st-amber);
+  /* typography bridge: legacy stacks now read var(--font-sans/--font-mono)
+     (tokens); article display serif becomes Newsreader under ds_v2 only —
+     the --serif var exists solely on article shells, so no leakage.
+     NOTE: --font-serif-display is a NEW token (reported): approved editorial
+     face for article display headings. */
+  --font-serif-display: 'Newsreader', Georgia, 'Times New Roman', serif;
+  --serif: var(--font-serif-display);
 }

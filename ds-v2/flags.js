@@ -36,6 +36,13 @@
       l.rel = "stylesheet"; l.href = "/ds-v2/fonts.css"; l.setAttribute("data-ds-fonts", "1");
       (document.head || document.documentElement).appendChild(l);
     }
+    // Newsreader ONLY on editorial shells (contract: article display headings)
+    if (on && document.body && document.body.classList.contains("shell-article") &&
+        !document.querySelector("link[data-ds-fonts-ed]")) {
+      var e = document.createElement("link");
+      e.rel = "stylesheet"; e.href = "/ds-v2/fonts-editorial.css"; e.setAttribute("data-ds-fonts-ed", "1");
+      document.head.appendChild(e);
+    }
   }
   window.SantroFlags = { isEnabled: isEnabled, flagOn: flagOn, flagOff: flagOff, applyDesignFlags: applyDesignFlags };
   applyDesignFlags();

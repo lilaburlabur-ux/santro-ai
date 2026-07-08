@@ -72,7 +72,7 @@
   html[data-theme="light"] .panel{box-shadow:0 1px 3px rgba(20,30,45,.08);}
   *{box-sizing:border-box;}
   body{margin:0; background:var(--bg); color:var(--text);
-    font-family:-apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    font-family:var(--font-sans, -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif);
     font-size:14px; font-variant-numeric:tabular-nums; -webkit-font-smoothing:antialiased;}
   a{color:inherit;}
   .up{color:var(--green);} .down{color:var(--red);}
@@ -553,7 +553,7 @@
   .land-quiz .lq-head{max-width:860px;margin:0 auto;}
   .land-quiz .lq-head::before{content:"PROFILE ENGINE · 8 QUESTIONS · NO SIGNUP";
     display:block;font-size:11px;font-weight:800;letter-spacing:.16em;color:#22c55e;
-    margin-bottom:10px;font-family:ui-monospace,Menlo,monospace;}
+    margin-bottom:10px;font-family:var(--font-mono, ui-monospace,Menlo,monospace);}
   .land-quiz h2{font-size:clamp(28px,2.2vw,36px);}
   .land-quiz .qbar,.land-quiz .qstep{max-width:860px;margin-left:auto;margin-right:auto;}
   .land-quiz #qmount{max-width:860px;margin:0 auto;background:var(--panel);
@@ -564,7 +564,7 @@
   .land-grid h2,.land-why h2,.land-loop h2,.land-term h2{font-size:clamp(28px,2.2vw,38px);}
   .land-grid h2::before,.land-why h2::before,.land-loop h2::before,.land-term h2::before{
     display:block;font-size:11px;font-weight:800;letter-spacing:.16em;color:var(--faint);
-    font-family:ui-monospace,Menlo,monospace;margin-bottom:10px;}
+    font-family:var(--font-mono, ui-monospace,Menlo,monospace);margin-bottom:10px;}
   .land-grid h2::before{content:"THE MAP";}
   .land-why h2::before{content:"HEAT \2260 DIRECTION";color:#e0a73f;}
   .land-loop h2::before{content:"THE DAILY LOOP";}
@@ -593,7 +593,7 @@
 <script src="/ds-v2/lock-copy.js?v=1" defer></script>
 <script src="/ds-v2/events.js?v=1" defer></script>
 <script src="/ds-v2/locks.js?v=1" defer></script>
-<script src="/ds-v2/flags.js?v=3"></script>
+<script src="/ds-v2/flags.js?v=4"></script>
 <header class="meganav" id="meganav">
 <style>
 /* santro brand tokens — green is the identity color; blue stays a muted
@@ -601,7 +601,7 @@
 header.meganav{--sg:#22c55e;--sg-hi:#4ade80;--sg-deep:#15803d;
   --sg-soft:rgba(34,197,94,.12);--sg-border:rgba(34,197,94,.45);
   --ramber:#d9a13c;--ramber-border:rgba(217,161,60,.45);}
-header.meganav{display:block;position:relative;z-index:60;background:var(--panel-2,#0c121a);border-bottom:1px solid var(--border,#1d2733);font-family:-apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif;text-align:left;}
+header.meganav{display:block;position:relative;z-index:60;background:var(--panel-2,#0c121a);border-bottom:1px solid var(--border,#1d2733);font-family:var(--font-sans, -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif);text-align:left;}
 .meganav *{box-sizing:border-box;}
 .meganav .mn-in{max-width:1680px;margin:0 auto;padding:0 clamp(16px,2vw,40px);display:flex;align-items:center;gap:18px;height:56px;}
 .meganav a{text-decoration:none;}
@@ -1181,9 +1181,10 @@ var boot=setInterval(function(){if(window.SantroStress){clearInterval(boot);runP
 <!-- mega-footer v1 -->
 <!-- mega-footer v1 -->
 <!-- mega-footer v1 -->
+<!-- mega-footer v1 -->
 <footer class="mega">
 <style>
-footer.mega{display:block;text-align:left;margin-top:48px;padding:0;border-top:1px solid var(--border,#1d2733);background:transparent;font-family:-apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
+footer.mega{display:block;text-align:left;margin-top:48px;padding:0;border-top:1px solid var(--border,#1d2733);background:transparent;font-family:var(--font-sans, -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif);}
 .mega .mg-in{max-width:1680px;margin:0 auto;padding:34px clamp(16px,2vw,40px) 26px;}
 .mega .mg-top{display:flex;justify-content:space-between;align-items:flex-start;gap:28px;flex-wrap:wrap;padding-bottom:26px;border-bottom:1px solid var(--border-soft,#161e28);}
 .mega .mg-logo{font-size:17px;font-weight:800;letter-spacing:.4px;color:var(--text,#e7edf3);}

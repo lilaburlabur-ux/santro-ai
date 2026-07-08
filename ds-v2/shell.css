@@ -65,3 +65,8 @@
 .ds-v2 .mega .mg-bottom a:hover { color: var(--st-ink); }
 .ds-v2 .mega .mg-nfa { color: var(--st-ink-dim); }
 .ds-v2 .mega a:focus-visible { outline: 2px solid var(--st-focus-ring); }
+
+/* numeric surfaces: mono + tabular under ds_v2 (tape, stats, tickers, stamps) */
+.ds-v2 :is(.hp-tape,.hp-cred,.hp-hot td,.mn-asof,#asof,.st-stat .v,.st-mrow .rng,
+  .num,[data-num],.tk,.pc,.xc-row span,.hp-gauge .val,.ds-comp-chip){
+  font-family:var(--font-mono);font-variant-numeric:tabular-nums;}

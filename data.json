@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-08T20:39:01+00:00",
-  "as_of_local": "2026-07-08 20:39:01 UTC",
+  "as_of_utc": "2026-07-08T20:40:23+00:00",
+  "as_of_local": "2026-07-08 20:40:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -313,34 +315,6 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 157.78,
-      "previous_close": 162.53,
-      "change_pct": -2.92,
-      "market_cap": 7984934911.62262,
-      "headlines": [
-        {
-          "title": "Ondas Just Built Autonomous Defense Powerhouse With This Major Acquisition",
-          "url": "https://finance.yahoo.com/technology/articles/ondas-just-built-autonomous-defense-152539794.html",
-          "publisher": "IPO-Edge.com",
-          "published": "2026-07-08T15:25:39Z"
-        },
-        {
-          "title": "AeroVironment Shares Rise After Unveiling Long-Term Growth Targets at Investor Day (AVAV)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-shares-rise-unveiling-long-141033351.html",
-          "publisher": "InvestorsHub",
-          "published": "2026-07-08T14:10:33Z"
-        },
-        {
-          "title": "Northrop, Lockheed, Other Defense Stocks Fall as Trump Sparks Iran War Fears",
-          "url": "https://www.barrons.com/articles/northrop-grumman-lockheed-defense-stocks-trump-iran-war-e63c1079?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-07-08T13:55:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 123.37,
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62063.66,
-      "change_pct": -1.95
+      "price": 62113.59,
+      "change_pct": -1.87
     },
     {
       "label": "Gold",
-      "price": 4085.1,
-      "change_pct": -1.45
+      "price": 4087.4,
+      "change_pct": -1.4
     },
     {
       "label": "Nasdaq100",

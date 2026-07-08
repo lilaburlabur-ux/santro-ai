@@ -289,10 +289,12 @@
       </div>`;
   }
   function runRowHtml(stat) {
-    const pinBtn = user ? `<button class="sa-pin" id="sa-pin">☆ Pin</button>` : "";
+    // Pin renders for EVERYONE — anonymous clicks open the signup/sign-in modal
+    // (togglePin handles it), never a silently missing button.
+    const pinBtn = `<button class="sa-pin" id="sa-pin" title="${user ? "Pin to watchlist" : "Create a free account to pin tickers to your watchlist"}">☆ Pin</button>`;
     if (stat && stat.storyStockFlag) {
       // No interactive valuation without an earnings base — don't let a click burn a run.
-      return pinBtn ? `<div class="sa-runrow"><span class="sa-remaining">Interactive valuation N/A — no earnings to value on yet.</span>${pinBtn}</div>` : "";
+      return `<div class="sa-runrow"><span class="sa-remaining">Interactive valuation N/A — no earnings to value on yet.</span>${pinBtn}</div>`;
     }
     // Pre-fill growth with what the price implies, so the user starts from the
     // market's own assumption and adjusts from there (not an arbitrary 12%).

@@ -14,10 +14,11 @@
     export_card: "Your card is ready. Create an account to export it.",
     save_view: "Sign in to save this view.",
     filing_alert: "Get notified when this filing changes — free account.",
-    modal_body: "Free account. Watchlists, alerts, full tables and saved stress tests. Quotes stay delayed ~15 min — Pro real-time comes later.",
+    modal_body: "Free account. Watchlists, alerts, full tables and saved valuations. Quotes stay delayed ~15 min — Pro real-time comes later.",
     modal_footer: "No card. No spam. Unsubscribe anything, anytime.",
     modal_titles: { table: "Unlock the full table", note: "Read the full note",
       stress: "See the full scenario breakdown", watch: "Start your watchlist",
-      alert: "Set this alert", export: "Export your card", calibrate: "Calibrate your terminal" }
+      alert: "Set this alert", export: "Export your card", calibrate: "Calibrate your terminal",
+      customize: "Save your terminal setup" }
   };
 })();

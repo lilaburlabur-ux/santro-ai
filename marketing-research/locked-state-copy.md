@@ -52,6 +52,8 @@ Tone rules: finance-terminal register; one sentence; verb-first where possible; 
 
 ## Signup modal (paired copy)
 - Title: **Unlock the full table** (mirrors whatever was clicked: "Save this stress test", "Set this alert").
-- Body: "Free account. Watchlists, alerts, full tables and saved stress tests. Quotes stay delayed ~15 min — Pro real-time comes later."
+- Body: "Free account. Watchlists, alerts, full tables and saved valuations. Quotes stay delayed ~15 min — Pro real-time comes later."
+  (2026-07-08 truth pass: "saved stress tests" removed — no such feature exists yet; restore only when it ships.)
+- Modal title addition (2026-07-08): **Save your terminal setup** — used by the terminal ⚙ Customize button for anonymous users.
 - Buttons: `Continue with Google` · `Continue with email` (only if the email backend is live).
 - Footer: "No card. No spam. Unsubscribe anything, anytime."

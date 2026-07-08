@@ -10,15 +10,15 @@
 <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png"/>
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"/>
 <link rel="manifest" href="/manifest.json" />
-<meta name="description" content="The Exposure Check calibrates your Santro terminal — universe, concentration, valuation lens and risk watch. Output: a configured terminal snapshot with a suggested watchlist. Free account required to run it."/>
+<meta name="description" content="The Exposure Check saves terminal preferences to your Santro account — universe, concentration, valuation lens and risk watch. Output: a default view and focus sectors, applied on /terminal. Free account required to run it."/>
 <link rel="canonical" href="https://santroai.tech/quiz"/>
 <meta property="og:type" content="website"/><meta property="og:site_name" content="Santro AI"/>
 <meta property="og:title" content="Exposure Check — calibrate your Santro terminal"/>
-<meta property="og:description" content="Four instrument-style steps. Output: preset dashboard + suggested watchlist. Scenario outputs, not advice."/>
+<meta property="og:description" content="Four instrument-style steps. Output: saved terminal preferences, applied on /terminal. Scenario outputs, not advice."/>
 <meta property="og:url" content="https://santroai.tech/quiz"/>
 <meta property="og:image" content="https://santroai.tech/assets/og-map.png"/>
 <meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Exposure Check — calibrate your Santro terminal"/>
-<meta name="twitter:description" content="Four instrument-style steps; output is a configured terminal snapshot. Free account."/>
+<meta name="twitter:description" content="Four instrument-style steps; output is saved terminal preferences. Free account."/>
 <meta name="twitter:image" content="https://santroai.tech/assets/og-map.png"/>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
@@ -79,9 +79,9 @@
 <link rel="stylesheet" href="/ds-v2/lock.css?v=1">
 <script src="/ds-v2/compliance.js?v=1" defer></script>
 <script src="/ds-v2/gates.js?v=1" defer></script>
-<script src="/ds-v2/lock-copy.js?v=1" defer></script>
+<script src="/ds-v2/lock-copy.js?v=2" defer></script>
 <script src="/ds-v2/events.js?v=1" defer></script>
-<script src="/ds-v2/locks.js?v=1" defer></script>
+<script src="/ds-v2/locks.js?v=2" defer></script>
 <script src="/ds-v2/flags.js?v=4"></script>
 <header class="meganav" id="meganav">
 <style>
@@ -410,21 +410,21 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 
   <!-- anonymous gate: professional, no questions in the DOM -->
   <section id="xc-gate">
-    <p class="lead">The Exposure Check calibrates your terminal. Four instrument-style steps — universe,
-    concentration, valuation lens, risk watch — and the output is a configured terminal snapshot:
-    a preset dashboard and a suggested watchlist you can edit. It takes about a minute, and it's
-    offered once after signup too, skippable.</p>
+    <p class="lead">The Exposure Check saves terminal preferences to your account. Four instrument-style
+    steps — universe, concentration, valuation lens, risk watch — and the output is saved straight
+    to your terminal: a default view and focus sectors, applied the next time it loads. It takes
+    about a minute, and it's skippable.</p>
     <div class="xc-grid">
       <div>
-        <p style="margin:0 0 14px"><a class="xc-cta" href="/signup">Create a free account to run it</a></p>
-        <p style="font-size:12.5px;color:var(--faint)">Already have one? <a href="/signin" style="font-weight:700">Sign in</a> — this page unlocks in place.
+        <p style="margin:0 0 14px"><a class="xc-cta" href="/signup?next=/quiz">Create a free account to run it</a></p>
+        <p style="font-size:12.5px;color:var(--faint)">Already have one? <a href="/signin?next=/quiz" style="font-weight:700">Sign in</a> — this page unlocks in place.
         Scenario outputs, not advice. Quotes delayed ~15 min.</p>
       </div>
-      <div class="xc-panel" aria-label="Example output — configured terminal snapshot">
-        <p class="xc-klabel">Your output — a configured terminal</p>
-        <div class="xc-row"><b>Preset dashboard</b><span>bubble gauge · your themes first</span></div>
-        <div class="xc-row"><b>Suggested watchlist</b><span>10 names, editable</span></div>
-        <div class="xc-row"><b>Default risk view</b><span>scenarios or index, your pick</span></div>
+      <div class="xc-panel" aria-label="Example output — saved terminal preferences">
+        <p class="xc-klabel">Your output — saved terminal preferences</p>
+        <div class="xc-row"><b>Default view</b><span>the terminal section that opens first</span></div>
+        <div class="xc-row"><b>Focus sectors</b><span>saved to your account</span></div>
+        <div class="xc-row"><b>Watchlist</b><span>pin tickers any time from the terminal strip</span></div>
         <div class="xc-bars" style="margin-top:12px">
           <div style="font-size:11px;color:var(--faint)">theme weighting preview</div>
           <div class="bar"><i style="width:62%"></i></div>
@@ -439,8 +439,8 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 </main>
 
 <script src="/accounts/config.js?v=3"></script>
-<script src="/accounts/api.js?v=12"></script>
-<script src="/accounts/accounts.js?v=15"></script>
+<script src="/accounts/api.js?v=13"></script>
+<script src="/accounts/accounts.js?v=16"></script>
 <script>
 (function(){
 "use strict";
@@ -481,17 +481,33 @@ function preview(){
      '<div class="xc-row"><b>Concentration</b><span>'+(p.conc||"—")+'</span></div>'+
      '<div class="xc-row"><b>Lens</b><span>'+(p.lens||"—")+'</span></div>'+
      '<div class="xc-row"><b>Risk view</b><span>'+(p.risk||"—")+'</span></div>'+
-     '<div class="xc-row"><b>Suggested watchlist</b><span>'+wl.slice(0,5).join(" · ")+' +5</span></div>'+
-     '<p style="font-size:11.5px;color:var(--faint);margin:10px 0 0">Editable after save. Scenario outputs, not advice.</p>';
+     '<div class="xc-row"><b>Ideas to pin</b><span>'+wl.slice(0,5).join(" · ")+' +5 — add them from the terminal watchlist strip</span></div>'+
+     '<p style="font-size:11.5px;color:var(--faint);margin:10px 0 0">Saved to your account on save, applied to /terminal. Scenario outputs, not advice.</p>';
   });
+}
+// Picks → account preferences (the ONLY store; localStorage calibration is retired).
+// Additive mapping: never hides sections — sets the view that opens first + focus sectors.
+function mapPicks(p){
+  var view = p.risk==="Bubble Index" ? "bubble" : (p.universe==="AI stocks" ? "stocks" : "all");
+  return { default_terminal_view:view, preferred_sectors:(THEME_BY_UNIVERSE[p.universe]||[]), show_bubble_risk:true };
 }
 function save(){
   var p=picks();
   if(Object.keys(p).length<4){alert("Pick one option in each step.");return;}
-  try{localStorage.setItem("santro_calibration",JSON.stringify({v:1,at:Date.now(),picks:p}));}catch(e){}
-  if(window.SantroEvents)SantroEvents.track("calibration_completed",{});
-  var el=document.getElementById("xc-out");
-  el.insertAdjacentHTML("beforeend",'<p style="margin:12px 0 0"><a class="xc-cta" href="/terminal">Open your terminal</a></p>');
+  var btn=document.getElementById("xc-save"), el=document.getElementById("xc-out");
+  btn.disabled=true; btn.textContent="Saving…";
+  window.SantroAPI.updatePreferences(mapPicks(p)).then(function(){
+    try{localStorage.removeItem("santro_calibration");localStorage.removeItem("santro_quiz");}catch(e){}
+    if(window.SantroEvents)SantroEvents.track("calibration_completed",{});
+    btn.textContent="Saved ✓";
+    el.insertAdjacentHTML("beforeend",
+      '<p style="margin:12px 0 0;font-size:12.5px;color:var(--green,#22c55e);font-weight:700">Saved to your terminal preferences.</p>'+
+      '<p style="margin:8px 0 0"><a class="xc-cta" href="/terminal">Open your terminal</a></p>');
+  }).catch(function(e){
+    btn.disabled=false; btn.textContent="Save calibration";
+    el.insertAdjacentHTML("beforeend",
+      '<p style="margin:12px 0 0;font-size:12.5px;color:#e0a73f">'+((e&&e.detail)||"Couldn’t save right now — try again in a moment.")+"</p>");
+  });
 }
 var built=false;
 function tryBuild(){ if(!built&&authed()){built=true;build();} }

@@ -7,7 +7,7 @@
  * calculator turns into a register prompt.
  *
  * Swap mock→real backend: SANTRO_CONFIG.apiMode = "live".
- * Swap mock→real valuation: SANTRO_CONFIG.valuationProvider = "real".  (one line each)
+ * Valuation math is client-side (no server valuation endpoint exists).
  */
 (function () {
   "use strict";
@@ -56,7 +56,6 @@
     watchlist: "/watchlist",
     alerts: "/alerts",
     valuations: "/valuations",
-    valuationRun: "/valuation/run",
   };
 
   class ApiError extends Error {
@@ -271,16 +270,15 @@
       };
     },
   };
-  const RealValuation = {
-    static_(ticker, ctx) { return MockValuation.static_(ticker, ctx); }, // free read stays client-side
-    run(ticker, a) { return Live._fetch(R.valuationRun, { method: "POST", body: { ticker, growth: a.growth, discount: a.discount } }); },
-  };
-  const valuation = CFG.valuationProvider === "real" ? RealValuation : MockValuation;
+  // Valuation math runs CLIENT-SIDE by design. There is no server /valuation/run
+  // endpoint; the former RealValuation stub pointed at that missing route and was
+  // removed so nothing can ever issue a request to it. Metering stays server-side.
+  const valuation = MockValuation;
 
   // ── Public surface ──────────────────────────────────────────────────────
   window.SantroAPI = {
     ApiError, GateError,
-    mode: CFG.apiMode, valuationMode: CFG.valuationProvider,
+    mode: CFG.apiMode, valuationMode: "local",
     onUnauthorized(cb) { _onUnauthorized = cb; },
 
     me: () => backend.me(),

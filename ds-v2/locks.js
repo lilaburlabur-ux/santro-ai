@@ -20,10 +20,13 @@
     var scrim = document.createElement("div"); scrim.className = "ds-gate-scrim";
     var m = document.createElement("div"); m.className = "ds-gate";
     m.setAttribute("role", "dialog"); m.setAttribute("aria-modal", "true");
+    // Return context: signup/signin honor ?next=, so the user comes back to the
+    // page they were on instead of being stranded on /dashboard.
+    var next = encodeURIComponent(location.pathname + location.search);
     m.innerHTML = '<h3><span class="ds-lock"></span>' + title + "</h3>" +
       "<p>" + C.modal_body + "</p>" +
-      '<a class="ds-gate-cta" href="/signup">Create free account</a>' +
-      '<a class="ds-gate-alt" href="/signin">Sign in</a>' +
+      '<a class="ds-gate-cta" href="/signup?next=' + next + '">Create free account</a>' +
+      '<a class="ds-gate-alt" href="/signin?next=' + next + '">Sign in</a>' +
       '<p class="ds-gate-foot">' + C.modal_footer + "</p>";
     function close() { scrim.remove(); m.remove(); document.removeEventListener("keydown", esc);
       if (E) E.track("modal_close", { context: intent }); }

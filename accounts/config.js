@@ -28,9 +28,8 @@ window.SANTRO_CONFIG = Object.assign(
     // (no third-party-cookie blocking by Safari/ITP or Chrome's 3p phase-out).
     apiBase: "https://api.santroai.tech",
 
-    // Valuation math source. "real" → POST {apiBase}/valuation/run.
-    // "mock" → typed local mock (swap to "real" the moment the endpoint ships).
-    valuationProvider: "mock",
+    // Valuation math runs client-side (scenario outputs on delayed data).
+    // There is no server valuation endpoint; metering IS server-side (/usage).
 
     // Only used by the dev mock so the demo behaves like a real meter.
     // The LIVE app never reads this — it reads remaining runs from /usage/status.

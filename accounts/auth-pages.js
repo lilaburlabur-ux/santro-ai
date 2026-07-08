@@ -14,7 +14,9 @@
   const node = (html) => { const t = document.createElement("template"); t.innerHTML = html.trim(); return t.content.firstElementChild; };
   const msg = (txt, kind) => `<div class="sa-msg ${kind}">${esc(txt)}</div>`;
   const qs = (k) => { try { return new URLSearchParams(location.search).get(k); } catch (_) { return null; } };
-  const safeNext = (n) => (n && /^\/[A-Za-z0-9/_-]*$/.test(n) ? n : null); // same-site path only
+  // Same-site path only. Must start with a single "/" — a leading "//" would be
+  // a protocol-relative external redirect, so it is rejected explicitly.
+  const safeNext = (n) => (n && /^\/(?!\/)[A-Za-z0-9/_.\-]*$/.test(n) ? n : null);
 
   // ── controlled vocabularies (must mirror the backend Literal enums) ───────
   const PROF = [["individual_trader", "Individual trader"], ["investor", "Investor"],
@@ -25,13 +27,21 @@
     ["advanced", "Advanced"], ["professional", "Professional"]];
   const INTEREST = [["ai_stocks", "AI stocks"], ["ai_crypto", "AI crypto"], ["ai_etfs", "AI ETFs"],
     ["all", "All markets"], ["valuation_tools", "Valuation tools"], ["research_articles", "Research & articles"]];
-  const VIEW = [["all", "Everything"], ["stocks", "Stocks"], ["crypto", "Crypto"], ["etfs", "ETFs"],
-    ["news", "News"], ["research", "Research"], ["bubble", "Bubble risk"], ["calculator", "Calculator"],
-    ["watchlist", "Watchlist"]];
+  // Only views the terminal actually honors today (crypto/etfs have no terminal
+  // section yet — offering them here would be a dead control).
+  const VIEW = [["all", "Everything"], ["stocks", "Bubble map"], ["news", "News"],
+    ["research", "Key takeaways"], ["bubble", "Bubble-risk brief"], ["watchlist", "Watchlist"]];
   const THEME = [["system", "Match system"], ["light", "Light"], ["dark", "Dark"]];
-  const TOGGLES = [["show_stocks", "Stocks"], ["show_crypto", "Crypto"], ["show_etfs", "ETFs"],
-    ["show_news", "News"], ["show_research", "Research"], ["show_bubble_risk", "Bubble-risk index"],
-    ["show_fair_value_calculator", "Fair-value calculator"], ["show_watchlist", "Watchlist"]];
+  // Toggles that hide/show real /terminal sections (labels = the section names).
+  const TOGGLES = [["show_stocks", "Bubble map (stocks)"], ["show_news", "News"],
+    ["show_research", "Key takeaways"], ["show_bubble_risk", "Bubble-risk brief"],
+    ["show_fair_value_calculator", "Fair-value calculator"], ["show_watchlist", "Watchlist strip"]];
+  // Saved to the account but with no terminal section yet — labeled honestly.
+  const TOGGLES_SOON = [["show_crypto", "Crypto"], ["show_etfs", "ETFs"]];
+  const PREF_DEFAULTS = { show_all_data: true, show_stocks: true, show_crypto: true, show_etfs: true,
+    show_news: true, show_research: true, show_bubble_risk: true, show_fair_value_calculator: true,
+    show_watchlist: true, default_terminal_view: "all", theme: "system",
+    preferred_sectors: [], preferred_tickers: [] };
 
   const options = (pairs, sel, placeholder) =>
     (placeholder ? `<option value="">${esc(placeholder)}</option>` : "") +
@@ -42,6 +52,9 @@
 
   // ── /signup ───────────────────────────────────────────────────────────────
   function renderSignup() {
+    // Honor ?next= like /signin does, so locked actions return the user to
+    // where they were instead of stranding them on /dashboard.
+    const next = safeNext(qs("next"));
     const w = node(`<div class="auth-card">
       <h1>Create your account</h1>
       <p class="auth-sub">Unlimited valuations, a saved watchlist, and your own terminal. No spam.</p>
@@ -59,7 +72,7 @@
       <div class="sa-field"><label>Main market interest</label>${select("mi", INTEREST, "", "Select (optional)")}</div>
       <label class="sa-consent"><input type="checkbox" id="cons"> I agree to the <a href="/terms" target="_blank" rel="noopener">Terms</a> and <a href="/privacy" target="_blank" rel="noopener">Privacy Policy</a>.</label>
       <button class="sa-btn primary" id="go">Sign up</button>
-      <p class="auth-alt">Already have an account? <a href="/signin">Sign in</a></p>
+      <p class="auth-alt">Already have an account? <a href="/signin${next ? "?next=" + encodeURIComponent(next) : ""}">Sign in</a></p>
     </div>`);
     const val = (id) => w.querySelector("#" + id).value.trim();
     w.querySelector("#go").onclick = async () => {
@@ -86,7 +99,7 @@
           }
           throw e;
         }
-        location.href = "/dashboard";
+        location.href = next || "/dashboard";
       } catch (e) {
         err.innerHTML = msg(e.detail || "Couldn't create the account. Try a different email.", "err");
         busy(w, false);
@@ -113,7 +126,7 @@
       <div class="sa-field"><label>Password</label><input class="sa-input" id="pw" type="password" autocomplete="current-password"></div>
       <button class="sa-btn primary" id="go">Sign in</button>
       <div class="sa-row" style="margin-top:12px">${forgot || "<span></span>"}</div>
-      <p class="auth-alt">New to Santro AI? <a href="/signup">Create an account</a></p>
+      <p class="auth-alt">New to Santro AI? <a href="/signup${next ? "?next=" + encodeURIComponent(next) : ""}">Create an account</a></p>
     </div>`);
     w.querySelector("#go").onclick = async () => {
       const err = w.querySelector("#err");
@@ -133,11 +146,9 @@
   async function renderDashboard() {
     let user = null;
     try { user = await API.me(); } catch (_) { user = null; }
-    // Santro market profile from the /quiz check (localStorage only for now;
-    // TODO(v2): persist to the account once a profile endpoint exists)
-    let quizProfile = null;
-    try { quizProfile = JSON.parse(localStorage.getItem("santro_quiz") || "null"); } catch (_) {}
     if (!user) { location.href = "/signin?next=/dashboard"; return; }
+    // Where "view on terminal" style links should land (?next=/terminal etc.)
+    const backTo = safeNext(qs("next")) || "/terminal";
     let prefs = {};
     try { prefs = (await API.getPreferences()) || {}; } catch (_) { prefs = {}; }
 
@@ -152,10 +163,7 @@
       <header class="dash-head">
         <div>
           <h1>${greeting}</h1>
-          ${quizProfile && quizProfile.name ? `<p style="margin:4px 0 0;font-size:13px;color:var(--muted,#9aa6b2)">Your Santro market profile:
-            <b style="color:var(--accent-2,#7cb0f5)">${esc(quizProfile.name)}</b>
-            · bubble-risk sensitivity ${Number(quizProfile.sens) || "—"}/100
-            · <a href="/quiz" style="color:var(--accent-2,#7cb0f5)">retake</a></p>` : `<p style="margin:4px 0 0;font-size:13px;color:var(--muted,#9aa6b2)"><a href="/quiz" style="color:var(--accent-2,#7cb0f5)">Take the 60-second AI bubble check</a> to get your market profile.</p>`}
+          <p style="margin:4px 0 0;font-size:13px;color:var(--muted,#9aa6b2)"><a href="/quiz" style="color:var(--accent-2,#7ce8b1)">Run the Exposure Check</a> — four steps that save straight into the preferences below.</p>
           <p class="auth-sub">${esc(name)} · <span class="dash-mail">${esc(user.email)}</span></p>
         </div>
         <div class="dash-actions">
@@ -180,18 +188,23 @@
         <button class="sa-btn primary" id="saveProfile" style="width:auto">Save profile</button>
       </section>
 
-      <section class="dash-card">
+      <section class="dash-card" id="customize">
         <h2>Customize your terminal</h2>
-        <p class="auth-sub">Choose what shows up, your default view and theme. Saved to your account.</p>
+        <p class="auth-sub">Choose what appears on your terminal, your default view and theme. Saved to your account and applied on <a href="/terminal" style="color:var(--accent-2,#7ce8b1)">/terminal</a>.</p>
         <div id="prerr"></div>
         <div class="dash-toggles">${TOGGLES.map(toggleRow).join("")}</div>
+        <p class="auth-sub" style="margin:10px 0 4px;font-size:11.5px">Saved for later — these don't have a terminal section yet:</p>
+        <div class="dash-toggles">${TOGGLES_SOON.map(toggleRow).join("")}</div>
         <div class="auth-grid2" style="margin-top:14px">
-          <div class="sa-field"><label>Default terminal view</label>${select("dview", VIEW, prefs.default_terminal_view || "all")}</div>
+          <div class="sa-field"><label>Default terminal view (opens first)</label>${select("dview", VIEW, prefs.default_terminal_view || "all")}</div>
           <div class="sa-field"><label>Theme</label>${select("theme", THEME, prefs.theme || "system")}</div>
         </div>
-        <div class="sa-field"><label>Preferred tickers (comma-separated)</label><input class="sa-input" id="ptk" value="${esc((prefs.preferred_tickers || []).join(", "))}" placeholder="NVDA, MU, ASML"></div>
-        <div class="sa-field"><label>Preferred sectors (comma-separated)</label><input class="sa-input" id="psec" value="${esc((prefs.preferred_sectors || []).join(", "))}" placeholder="semis, cloud, robotics"></div>
-        <button class="sa-btn primary" id="savePrefs" style="width:auto">Save preferences</button>
+        <div class="sa-field"><label>Preferred tickers (comma-separated — shown in your terminal watchlist strip)</label><input class="sa-input" id="ptk" value="${esc((prefs.preferred_tickers || []).join(", "))}" placeholder="NVDA, MU, ASML"></div>
+        <div class="sa-field"><label>Preferred sectors (comma-separated — used by the Exposure Check; terminal highlighting coming soon)</label><input class="sa-input" id="psec" value="${esc((prefs.preferred_sectors || []).join(", "))}" placeholder="semis, cloud, robotics"></div>
+        <div class="sa-row" style="gap:10px;flex-wrap:wrap">
+          <button class="sa-btn primary" id="savePrefs" style="width:auto">Save preferences</button>
+          <button class="sa-btn" id="resetPrefs" style="width:auto" title="Back to the default terminal">Reset to defaults</button>
+        </div>
       </section>
     </div>`);
 
@@ -222,8 +235,19 @@
       body.theme = val("theme");
       body.preferred_tickers = toList(val("ptk")).map((t) => t.toUpperCase());
       body.preferred_sectors = toList(val("psec"));
-      try { await API.updatePreferences(body); prerr.innerHTML = msg("Preferences saved.", "ok"); }
+      try {
+        await API.updatePreferences(body);
+        prerr.innerHTML = `<div class="sa-msg ok">Saved — your terminal now uses these settings. <a href="${esc(backTo)}" style="font-weight:700">View on terminal →</a></div>`;
+      }
       catch (e) { prerr.innerHTML = msg(e.detail || "Couldn't save your preferences.", "err"); }
+    };
+    w.querySelector("#resetPrefs").onclick = async () => {
+      const prerr = w.querySelector("#prerr");
+      try {
+        await API.updatePreferences(PREF_DEFAULTS);
+        prerr.innerHTML = `<div class="sa-msg ok">Back to defaults. <a href="${esc(backTo)}" style="font-weight:700">View on terminal →</a></div>`;
+        setTimeout(() => location.reload(), 900);
+      } catch (e) { prerr.innerHTML = msg(e.detail || "Couldn't reset right now.", "err"); }
     };
 
     root.appendChild(w);

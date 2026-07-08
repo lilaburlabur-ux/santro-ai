@@ -527,9 +527,9 @@
 <link rel="stylesheet" href="/ds-v2/lock.css?v=1">
 <script src="/ds-v2/compliance.js?v=1" defer></script>
 <script src="/ds-v2/gates.js?v=1" defer></script>
-<script src="/ds-v2/lock-copy.js?v=1" defer></script>
+<script src="/ds-v2/lock-copy.js?v=2" defer></script>
 <script src="/ds-v2/events.js?v=1" defer></script>
-<script src="/ds-v2/locks.js?v=1" defer></script>
+<script src="/ds-v2/locks.js?v=2" defer></script>
 <script src="/ds-v2/flags.js?v=4"></script>
 <header class="meganav" id="meganav">
 <style>
@@ -832,12 +832,61 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
   <div class="topstrip">
     <div class="ts-stats" id="tape-stats">Loading market tape…</div>
     <div class="langs">
+      <button class="ts-customize" id="ts-customize" type="button" title="Choose what appears on your terminal">⚙ Customize</button>
       <a class="x-link" href="https://x.com/SantroAI" target="_blank" rel="noopener" title="@SantroAI on X">
         <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true">
           <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
       </a>
     </div>
   </div>
+
+  <style>
+    /* ── watchlist strip (ds_v2 tokens w/ legacy fallbacks) ─────────────── */
+    .ts-customize{display:inline-flex;align-items:center;gap:5px;min-height:34px;padding:0 12px;margin-right:8px;
+      background:var(--panel,#101613);border:1px solid var(--border,#26302a);border-radius:9px;cursor:pointer;
+      color:var(--text,#e7edf3);font:700 12px/1 var(--font-sans,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif);}
+    .ts-customize:hover{border-color:var(--accent-border,rgba(59,224,143,.45));color:var(--accent-2,#7ce8b1);}
+    .wl-strip{margin:10px 16px 0;background:var(--panel,#101613);border:1px solid var(--border,#26302a);border-radius:12px;padding:10px 14px;}
+    .wl-strip[hidden]{display:none;}
+    .wl-head-row{display:flex;align-items:center;gap:10px;flex-wrap:wrap;}
+    .wl-label{font-size:10.5px;font-weight:800;letter-spacing:.6px;text-transform:uppercase;color:var(--accent-2,#7ce8b1);white-space:nowrap;}
+    .wl-chips{display:flex;align-items:center;gap:8px;flex:1;min-width:0;overflow-x:auto;padding:2px 0;scrollbar-width:thin;}
+    .wl-chip{display:inline-flex;align-items:center;gap:7px;min-height:34px;padding:0 5px 0 12px;border-radius:999px;white-space:nowrap;
+      background:var(--elev,#161d18);border:1px solid var(--border,#26302a);color:var(--text,#e7edf3);
+      font-family:var(--font-mono,'SF Mono',Menlo,Consolas,monospace);font-variant-numeric:tabular-nums;font-size:12px;font-weight:700;cursor:pointer;}
+    .wl-chip:hover{border-color:var(--accent-border,rgba(59,224,143,.45));}
+    .wl-chip .mv{font-weight:600;} .wl-chip .mv.up{color:var(--green,#22c55e);} .wl-chip .mv.dn{color:#f0596e;} .wl-chip .mv.na{color:var(--faint,#5b6771);}
+    .wl-chip .unpin{display:inline-flex;align-items:center;justify-content:center;width:24px;height:24px;border:0;border-radius:50%;
+      background:transparent;color:var(--faint,#5b6771);font-size:13px;cursor:pointer;}
+    .wl-chip .unpin:hover{color:#f0596e;background:rgba(240,89,110,.12);}
+    .wl-chip.sug{border-style:dashed;background:transparent;color:var(--muted,#9aa6b2);}
+    .wl-chip.sug .pinit{display:inline-flex;align-items:center;justify-content:center;width:24px;height:24px;border:0;border-radius:50%;
+      background:transparent;color:var(--accent-2,#7ce8b1);font-size:14px;cursor:pointer;}
+    .wl-add{display:flex;align-items:center;gap:6px;white-space:nowrap;}
+    .wl-add input{width:96px;min-height:34px;padding:0 10px;background:var(--elev,#161d18);border:1px solid var(--border,#26302a);
+      border-radius:9px;color:var(--text,#e7edf3);font-family:var(--font-mono,'SF Mono',Menlo,Consolas,monospace);font-size:12px;text-transform:uppercase;}
+    .wl-add input:focus{outline:none;border-color:var(--accent-border,rgba(59,224,143,.45));}
+    .wl-add button{min-height:34px;padding:0 12px;background:var(--accent-soft,rgba(59,224,143,.12));border:1px solid var(--accent-border,rgba(59,224,143,.45));
+      border-radius:9px;color:var(--accent-2,#7ce8b1);font:700 12px/1 var(--font-sans,-apple-system,sans-serif);cursor:pointer;}
+    .wl-add button:hover{color:var(--text,#e7edf3);}
+    .wl-note{font-size:11px;color:var(--faint,#5b6771);white-space:nowrap;}
+    .wl-err{font-size:11.5px;color:#e0a73f;margin:6px 0 0;}
+    .wl-locked{display:flex;align-items:center;gap:12px;flex-wrap:wrap;}
+    .wl-locked p{margin:0;font-size:12.5px;color:var(--muted,#9aa6b2);}
+    .wl-locked .wl-cta{min-height:34px;display:inline-flex;align-items:center;padding:0 14px;border-radius:9px;text-decoration:none;
+      background:var(--accent-soft,rgba(59,224,143,.12));border:1px solid var(--accent-border,rgba(59,224,143,.45));
+      color:var(--accent-2,#7ce8b1);font-size:12px;font-weight:700;cursor:pointer;}
+    .wl-skel{height:34px;border-radius:999px;background:var(--elev,#161d18);animation:wlp 1.1s ease-in-out infinite alternate;width:120px;}
+    @keyframes wlp{from{opacity:.45}to{opacity:.9}}
+    @media (max-width:760px){
+      .wl-strip{margin:8px 10px 0;padding:10px 12px;}
+      .wl-chip,.wl-add input,.wl-add button,.ts-customize,.wl-locked .wl-cta{min-height:44px;}
+      .wl-chip .unpin,.wl-chip .sug .pinit{width:34px;height:34px;}
+      .wl-note{display:none;}
+      .wl-add input{width:88px;}
+    }
+  </style>
+  <section class="wl-strip" id="wl-strip" data-pref-section="watchlist" aria-label="Your watchlist" hidden></section>
 
   <div class="intro-line">
     <h1>Santro AI — The AI Bubble Terminal</h1>
@@ -860,7 +909,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     <span class="m-soon">iOS app coming soon</span> — until then you can add Santro to your Home Screen
     from the browser share menu. Quotes delayed ~15 min. Not financial advice.</p>
 
-  <section class="brief" id="brief"></section>
+  <section class="brief" id="brief" data-pref-section="bubble_risk"></section>
 
   <style>
     .new-strip{margin:0 16px 14px;}
@@ -882,7 +931,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
   </section>
 
   <div class="grid">
-    <section class="panel area-heat">
+    <section class="panel area-heat" data-pref-section="stocks">
       <h2>
         <span class="ic">▦</span>
         <span id="heat-title">Loading market bubbles…</span>
@@ -901,7 +950,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
       <div class="body" id="detail">Click a bubble for details…</div>
     </section>
 
-    <section class="panel area-news">
+    <section class="panel area-news" data-pref-section="news">
       <h2><span class="ic">✦</span> News with AI <span class="badge live">Auto</span>
         <button class="refresh-btn" id="news-refresh" title="Pull the latest news now" onclick="refreshNews(this)">↻</button></h2>
       <div class="body" id="news">Checking what moved and why…</div>
@@ -917,7 +966,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
       <div class="body" id="small">Scanning the AI tape…</div>
     </section>
 
-    <section class="panel area-takeaways">
+    <section class="panel area-takeaways" data-pref-section="research">
       <h2><span class="ic">✓</span> Key takeaways <span class="badge live" id="tk-badge">Auto</span></h2>
       <div class="body" id="takeaways">Reading the session…</div>
     </section>
@@ -1469,7 +1518,8 @@ function showUniverseDetail(t){
       <a class="see-more" href="t?sym=${encodeURIComponent(t.ticker)}">Ticker page ↗</a>
       <a class="see-more" href="https://finance.yahoo.com/quote/${t.ticker}" target="_blank" rel="noopener">Yahoo Finance →</a>
     </div>`;
-  if(window.SantroCalc) SantroCalc.render(t);   // gated fair-value calculator (accounts/)
+  // gated fair-value calculator (accounts/) — respects the account preference
+  if(window.SantroCalc && !(window.SantroPrefs && SantroPrefs.current().show_fair_value_calculator===false)) SantroCalc.render(t);
 }
 
 function allHeadlines(){
@@ -1838,10 +1888,136 @@ loadData();
 </script>
 <!-- Gated fair-value calculator + user accounts (extends the terminal) -->
 <script src="accounts/config.js?v=3"></script>
-<script src="accounts/api.js?v=12"></script>
-<script src="accounts/accounts.js?v=15"></script>
+<script src="accounts/api.js?v=13"></script>
+<script src="accounts/accounts.js?v=16"></script>
+<script src="accounts/prefs.js?v=1"></script>
 <script>
 setInterval(loadData, 60000);
+
+/* ── preferences + watchlist strip (progressive; never blocks the public render) ── */
+(function(){
+"use strict";
+var API=window.SantroAPI, Prefs=window.SantroPrefs;
+if(!Prefs) return;
+var strip=document.getElementById("wl-strip");
+var VIEW_TARGET={stocks:'[data-pref-section="stocks"]',news:'[data-pref-section="news"]',
+  research:'[data-pref-section="research"]',bubble:'[data-pref-section="bubble_risk"]',
+  watchlist:"#wl-strip",calculator:".area-detail"};
+var esc=function(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"})[c];});};
+var authed=function(){return !!document.getElementById("sa-acct");};
+
+var _px=null;
+function stripPrices(){
+  if(_px) return Promise.resolve(_px);
+  var grab=function(u){return fetch(u+"?t="+Date.now()).then(function(r){return r.json();}).catch(function(){return null;});};
+  return Promise.all([grab("/universe.json"),grab("/ecosystem.json")]).then(function(res){
+    var map={};
+    var add=function(t){if(t&&t.ticker)map[t.ticker]={price:t.price,mv:t.change_pct};};
+    if(res[0]&&res[0].bubbles)res[0].bubbles.forEach(function(b){(b.tickers||[]).forEach(add);});
+    if(res[1]&&res[1].tickers)res[1].tickers.forEach(add);
+    _px=map;return map;});
+}
+function chipHtml(sym,px,pinned){
+  var mv=px&&typeof px.mv==="number"?px.mv:null;
+  var mvHtml=mv==null?'<span class="mv na">—</span>':'<span class="mv '+(mv>=0?"up":"dn")+'">'+(mv>=0?"+":"")+mv.toFixed(1)+"%</span>";
+  var act=pinned?'<button class="unpin" data-un="'+esc(sym)+'" title="Remove from watchlist" aria-label="Remove '+esc(sym)+' from watchlist">×</button>'
+               :'<button class="pinit" data-pin="'+esc(sym)+'" title="Pin to watchlist" aria-label="Pin '+esc(sym)+' to watchlist">+</button>';
+  return '<span class="wl-chip'+(pinned?"":" sug")+'"><span data-open="'+esc(sym)+'">'+esc(sym)+" "+mvHtml+"</span>"+act+"</span>";
+}
+function renderLocked(){
+  strip.innerHTML='<div class="wl-locked"><span class="wl-label">★ Watchlist</span>'+
+    '<p>Pin tickers to your watchlist — they open with your terminal. Quotes delayed ~15 min.</p>'+
+    '<button class="wl-cta" id="wl-signup" type="button">Create free account</button>'+
+    '<a class="wl-cta" href="/signin?next=/terminal" style="background:transparent">Sign in</a></div>';
+  var b=document.getElementById("wl-signup");
+  if(b) b.onclick=function(){ if(window.SantroLocks) SantroLocks.open("watch","wl-strip");
+    else location.href="/signup?next=/terminal"; };
+}
+function renderAuthed(){
+  strip.innerHTML='<div class="wl-head-row"><span class="wl-label">★ Watchlist</span><span class="wl-skel"></span></div>';
+  Promise.all([API.listWatchlist(),stripPrices()]).then(function(res){
+    var wl=res[0]||[],px=res[1]||{};
+    var pinned=wl.map(function(w){return w.ticker;});
+    var pref=Prefs.getPreferredTickers().filter(function(t){return pinned.indexOf(t)<0;}).slice(0,8);
+    pinned.sort(function(a,b){var A=px[a],B=px[b];return Math.abs(B&&B.mv||0)-Math.abs(A&&A.mv||0);});
+    var chips=pinned.map(function(s){return chipHtml(s,px[s],true);}).join("")+
+              pref.map(function(s){return chipHtml(s,px[s],false);}).join("");
+    var known=Object.keys(px).sort().map(function(s){return '<option value="'+esc(s)+'">';}).join("");
+    strip.innerHTML='<div class="wl-head-row"><span class="wl-label">★ Watchlist</span>'+
+      '<div class="wl-chips">'+(chips||'<span style="font-size:12.5px;color:var(--muted)">No pinned tickers yet — add one:</span>')+"</div>"+
+      '<form class="wl-add" id="wl-add-form"><input id="wl-add-input" list="wl-known" maxlength="12" placeholder="Add ticker" '+
+      'autocomplete="off" spellcheck="false" aria-label="Add ticker to watchlist"><button type="submit">＋ Add</button></form>'+
+      '<span class="wl-note">Delayed ~15 min · not financial advice</span></div>'+
+      '<datalist id="wl-known">'+known+"</datalist>"+'<p class="wl-err" id="wl-err" hidden></p>';
+    wire();
+  }).catch(function(e){
+    console.warn("watchlist strip:",e);
+    strip.innerHTML='<div class="wl-head-row"><span class="wl-label">★ Watchlist</span>'+
+      '<p class="wl-err" style="margin:0">Couldn’t load your watchlist right now — the terminal below is unaffected.</p></div>';
+  });
+}
+function err(msg){var el=document.getElementById("wl-err");if(!el)return;el.textContent=msg||"";el.hidden=!msg;}
+function wire(){
+  var form=document.getElementById("wl-add-form"),input=document.getElementById("wl-add-input");
+  if(form)form.onsubmit=function(ev){
+    ev.preventDefault();
+    var sym=(input.value||"").trim().toUpperCase();
+    if(!/^[A-Z0-9.\-]{1,12}$/.test(sym)){err("Tickers are 1–12 letters/numbers, like NVDA.");return;}
+    err("");input.disabled=true;
+    API.pin(sym).then(function(){input.value="";renderAuthed();})
+      .catch(function(e){input.disabled=false;err(e&&e.detail?e.detail:"Couldn’t add "+sym+" right now.");});
+  };
+  strip.querySelectorAll("[data-un]").forEach(function(b){b.onclick=function(){
+    b.disabled=true;API.unpin(b.dataset.un).then(renderAuthed).catch(function(){b.disabled=false;err("Couldn’t remove that right now.");});};});
+  strip.querySelectorAll("[data-pin]").forEach(function(b){b.onclick=function(){
+    b.disabled=true;API.pin(b.dataset.pin).then(renderAuthed).catch(function(){b.disabled=false;err("Couldn’t pin that right now.");});};});
+  strip.querySelectorAll("[data-open]").forEach(function(el){el.onclick=function(){
+    if(typeof window.openTicker==="function")window.openTicker(el.dataset.open);
+    else location.href="t?sym="+encodeURIComponent(el.dataset.open);};});
+}
+function renderStrip(){ strip.hidden=false; if(authed())renderAuthed(); else renderLocked(); }
+
+/* customize button */
+var cust=document.getElementById("ts-customize");
+if(cust)cust.onclick=function(){
+  if(authed()){ location.href="/dashboard?next=/terminal"; return; }
+  if(window.SantroLocks) SantroLocks.open("customize","ts-customize");
+  else location.href="/signup?next=/terminal";
+};
+
+/* boot: default public render is already underway; prefs apply progressively.
+   Wait for accounts.js to resolve auth (it renders the slot either way) so an
+   anonymous visitor triggers ZERO extra API calls (no new 401 console noise). */
+function waitAuthSettled(ms){
+  return new Promise(function(res){
+    var t0=Date.now();
+    (function tick(){
+      var slot=document.getElementById("santro-auth-slot");
+      if(slot&&(slot.querySelector("#sa-acct")||slot.querySelector("#sa-signin")))return res();
+      if(Date.now()-t0>ms)return res();
+      setTimeout(tick,150);
+    })();
+  });
+}
+waitAuthSettled(6000).then(function(){ return authed()?Prefs.load():Promise.resolve(Prefs.DEFAULTS); })
+.then(function(p){
+  Prefs.apply(p);
+  if(p.show_watchlist===false){ strip.hidden=true; } else renderStrip();
+  var tgt=VIEW_TARGET[p.default_terminal_view];
+  if(tgt&&p.default_terminal_view!=="all"){
+    var el=document.querySelector(tgt);
+    if(el&&!el.hidden)setTimeout(function(){try{el.scrollIntoView({block:"start",behavior:"smooth"});}catch(_){el.scrollIntoView();}},600);
+  }
+  /* Watch for auth CHANGES only (login/logout via the in-page modal). Armed
+     AFTER boot with the settled state, so the header's initial render can't
+     trigger a duplicate strip render racing the first one. */
+  var slot=document.getElementById("santro-auth-slot"),was=authed();
+  if(slot&&window.MutationObserver)new MutationObserver(function(){
+    var is=authed();
+    if(is!==was){was=is;Prefs.reset();Prefs.load().then(function(np){Prefs.apply(np);if(np.show_watchlist!==false){strip.hidden=false;renderStrip();}});}
+  }).observe(slot,{childList:true,subtree:true});
+}).catch(function(e){ console.warn("prefs load:",e); renderStrip(); });
+})();
 </script>
 </body>
 </html>

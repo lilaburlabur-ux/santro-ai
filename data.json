@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-08T21:59:31+00:00",
-  "as_of_local": "2026-07-08 21:59:31 UTC",
+  "as_of_utc": "2026-07-08T22:00:31+00:00",
+  "as_of_local": "2026-07-08 22:00:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -206,7 +208,7 @@
       "price": 231.71,
       "previous_close": 230.7,
       "change_pct": 0.44,
-      "market_cap": 202699913873.29102,
+      "market_cap": 202874431594.17773,
       "headlines": [
         {
           "title": "Top financial expert declares Marvell 'no longer a marvelous buy'",
@@ -253,34 +255,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/3-beaten-down-ai-semiconductor-124200713.html",
           "publisher": "Zacks",
           "published": "2026-07-08T12:42:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 283.81,
-      "previous_close": 273.15,
-      "change_pct": 3.9,
-      "market_cap": 71653816314.60553,
-      "headlines": [
-        {
-          "title": "Texas Instruments Stock Is Running On A Bold Promise",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-stock-running-bold-183738468.html",
-          "publisher": "Trefis",
-          "published": "2026-07-08T18:37:38Z"
-        },
-        {
-          "title": "4 Semiconductor Stocks to Benefit as Cars Become AI-Powered",
-          "url": "https://finance.yahoo.com/technology/articles/4-semiconductor-stocks-benefit-cars-140300450.html",
-          "publisher": "Zacks",
-          "published": "2026-07-08T14:03:00Z"
-        },
-        {
-          "title": "Marvell Technology and NXP Semiconductors Shares Are Soaring, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-nxp-semiconductors-shares-224401386.html",
-          "publisher": "StockStory",
-          "published": "2026-07-06T22:44:01Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 62136.81,
-      "change_pct": -1.83
+      "price": 62123.99,
+      "change_pct": -1.85
     },
     {
       "label": "Gold",

@@ -39,5 +39,7 @@ html.ds-v2 {
      NOTE: --font-serif-display is a NEW token (reported): approved editorial
      face for article display headings. */
   --font-serif-display: 'Newsreader', Georgia, 'Times New Roman', serif;
-  --serif: var(--font-serif-display);
 }
+/* serif bridge is ARTICLE-ONLY: --serif also exists on tool pages built from
+   the article shell heritage (found: /evaluate-prompt) — scope, don't global */
+html.ds-v2 body.shell-article { --serif: var(--font-serif-display); }

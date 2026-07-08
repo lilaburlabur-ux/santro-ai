@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-08T20:53:29+00:00",
-  "as_of_local": "2026-07-08 20:53:29 UTC",
+  "as_of_utc": "2026-07-08T20:55:22+00:00",
+  "as_of_local": "2026-07-08 20:55:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEVA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -81,10 +83,10 @@
           "published": "2026-07-08T15:56:11Z"
         },
         {
-          "title": "Apple Deal With Broadcom Bolsters Its Made-In-America Goals",
-          "url": "https://www.investors.com/news/technology/apple-stock-broadcom-deal-bolsters-made-in-usa-efforts/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-07-08T20:25:30Z"
+          "title": "Update: Dow Logs Worst Day in 4 Weeks Amid Renewed US-Iran Tensions",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dow-logs-worst-day-4-204002072.html",
+          "publisher": "MT Newswires",
+          "published": "2026-07-08T20:40:02Z"
         }
       ]
     },
@@ -367,34 +369,6 @@
           "published": "2026-07-02T06:38:34Z"
         }
       ]
-    },
-    {
-      "symbol": "CEVA",
-      "name": "CEVA",
-      "price": 44.56,
-      "previous_close": 42.76,
-      "change_pct": 4.21,
-      "market_cap": 1241413520.8990211,
-      "headlines": [
-        {
-          "title": "Needham Initiates CEVA (CEVA) With A Buy Rating",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/needham-initiates-ceva-ceva-buy-210441807.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-07-01T21:04:41Z"
-        },
-        {
-          "title": "Is Amkor Technology (AMKR) Stock Outpacing Its Computer and Technology Peers This Year?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-stock-outpacing-134006232.html",
-          "publisher": "Zacks",
-          "published": "2026-06-29T13:40:06Z"
-        },
-        {
-          "title": "All You Need to Know About Ceva (CEVA) Rating Upgrade to Buy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/know-ceva-ceva-rating-upgrade-160005922.html",
-          "publisher": "Zacks",
-          "published": "2026-06-23T16:00:05Z"
-        }
-      ]
     }
   ],
   "etfs": [
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62126.04,
-      "change_pct": -1.85
+      "price": 62067.0,
+      "change_pct": -1.94
     },
     {
       "label": "Gold",
-      "price": 4085.2,
-      "change_pct": -1.45
+      "price": 4084.6,
+      "change_pct": -1.46
     },
     {
       "label": "Nasdaq100",

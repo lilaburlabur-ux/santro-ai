@@ -1,43 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-08T07:42:52+00:00",
+  "as_of": "2026-07-08T08:12:56+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "SYM",
-   "company": "Symbotic Inc",
-   "move_pct": -7.06,
-   "price": 41.32,
-   "volume": 1601300,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 43,
-   "direction": "down",
-   "why": "Symbotic (SYM) Stock Still Looks Cheap Following Its 315% Run",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/symbotic-sym-stock-still-looks-050928923.html",
-   "published": "2026-07-08T05:09:28Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 2,
-   "ticker": "SPCX",
-   "company": "SpaceX",
-   "move_pct": -6.83,
-   "price": 149.47,
-   "volume": 83440300,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 41,
-   "direction": "down",
-   "why": "Buy SpaceX Stock Before It Soars 435% to $10 Trillion, According to 1 Wall Street Analyst",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/buy-spacex-stock-soars-435-070000052.html",
-   "published": "2026-07-08T07:00:00Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  }
- ]
+ "hot_tickers": []
 }

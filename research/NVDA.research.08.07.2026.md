@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Broadcom stock jumps on Apple AI chip deal, while Nvidia's relative stock price drops | Yahoo Finance Video | 2026-07-08 |
-| Nvidia market cap sheds $1 trillion: It's more of a rotation than a correction | Yahoo Finance Video | 2026-07-08 |
-| BofA Initiates SpaceX Coverage at $235 Price Target, Sees Multiple Billion-Dollar Businesses | 24/7 Wall St. | 2026-07-08 |
-| 3 High-Yield Dividends That Pay You Soon (But You Must Act Quickly) | 24/7 Wall St. | 2026-07-08 |
+| China warned that Anthropic's Claude Code puts your data at risk. Is that true? | Yahoo Finance Video | 2026-07-08 |
+| Nvidia's valuation just hit a multiyear low — even as revenue sets records | Yahoo Finance | 2026-07-08 |
+| Dow Jones Futures: Oil Spikes On Iran News, But Nvidia, Valero, Dell Rise; SpaceX Hits New Low | Investor's Business Daily | 2026-07-08 |
+| SpaceXAI launches Grok 4.5 model for coding, agentic tasks | Reuters | 2026-07-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

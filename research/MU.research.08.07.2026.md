@@ -37,9 +37,9 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Headline | Source | Date |
 |---|---|---|
 | AI memory stocks trim losses as investors buy the dip | Yahoo Finance | 2026-07-08 |
-| Samsung saw a record quarter, but it's not enough for investors. Here's why. | Yahoo Finance Video | 2026-07-07 |
-| Nvidia Stock Is Cheaper Than It's Been Since the AI Boom Began | GuruFocus.com | 2026-07-08 |
-| Micron Technology (MU) CEO on How Tough Price Negotiations by Customers Contributed to Memory Shortage | Insider Monkey | 2026-07-08 |
+| Micron, Broadcom, Palantir, Delta, SpaceX, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-08 |
+| Is Micron (MU) One of the Most Profitable Cheap Stocks to Buy Right Now? | Insider Monkey | 2026-07-08 |
+| Stock Market Today: Nasdaq Swings To Score A Win; Fed Minutes Show Split On Direction | Investor's Business Daily | 2026-07-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

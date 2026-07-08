@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
-| DeepSeek looks to reduce reliance on Nvidia with own AI chip | Yahoo Finance Video | 2026-07-07 |
-| Samsung saw a record quarter, but it's not enough for investors. Here's why. | Yahoo Finance Video | 2026-07-07 |
 | Veteran analyst drops massive Micron valuation prediction | TheStreet | 2026-07-08 |
 | Revenue and Growth Outlook Affirm Why Taiwan Semiconductor Manufacturing Co. (TSM) is a Top AI Stock on Wall Street’s Radar | Insider Monkey | 2026-07-08 |
+| Wall Street Thinks AI Is Slowing. Wall Street Is Wrong | 24/7 Wall St. | 2026-07-08 |
+| TSMC Outpaces Sector & Peers in a Year: Is the Stock Still a Buy? | Zacks | 2026-07-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

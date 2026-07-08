@@ -37,9 +37,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | AI memory stocks trim losses as investors buy the dip | Yahoo Finance | 2026-07-08 |
+| Nvidia's valuation just hit a multiyear low — even as revenue sets records | Yahoo Finance | 2026-07-08 |
+| AMD (AMD) Stock Looks Fully Valued Despite Strong AI Growth Hopes | Simply Wall St. | 2026-07-08 |
 | Nvidia Stock Is Cheaper Than It's Been Since the AI Boom Began | GuruFocus.com | 2026-07-08 |
-| Bull vs Bear case of Advanced Micro Devices, Inc. (AMD) | Insider Monkey | 2026-07-08 |
-| Cerebras Stock: Wafer-Scale AI Offers Big Potential, Big Risks? | Zacks | 2026-07-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

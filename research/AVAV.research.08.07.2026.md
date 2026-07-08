@@ -36,10 +36,10 @@ AeroVironment, Inc. designs, develops, produces, delivers, and supports a portfo
 
 | Headline | Source | Date |
 |---|---|---|
+| Northrop, Lockheed, Other Defense Stocks Fall as Trump Sparks Iran War Fears | Barrons.com | 2026-07-08 |
+| AEVEX Announces A Win, And Investors Sell | Trefis | 2026-07-08 |
 | Ondas Just Built Autonomous Defense Powerhouse With This Major Acquisition | IPO-Edge.com | 2026-07-08 |
 | AeroVironment Shares Rise After Unveiling Long-Term Growth Targets at Investor Day (AVAV) | InvestorsHub | 2026-07-08 |
-| Northrop, Lockheed, Other Defense Stocks Fall as Trump Sparks Iran War Fears | Barrons.com | 2026-07-08 |
-| AeroVironment stock jumps 7% on investor day outlook | Investing.com | 2026-07-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

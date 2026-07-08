@@ -1,8 +1,11 @@
 {
-  "as_of_utc": "2026-07-08T10:40:05+00:00",
-  "as_of_local": "2026-07-08 10:40:05 UTC",
+  "as_of_utc": "2026-07-08T10:45:09+00:00",
+  "as_of_local": "2026-07-08 10:45:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD",
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -117,34 +120,6 @@
       ]
     },
     {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 516.11,
-      "previous_close": 552.05,
-      "change_pct": -6.51,
-      "market_cap": 841569271908.5385,
-      "headlines": [
-        {
-          "title": "Samsung saw a record quarter, but it's not enough for investors. Here's why.",
-          "url": "https://finance.yahoo.com/video/samsung-saw-a-record-quarter-but-its-not-enough-for-investors-heres-why-203148500.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-07T20:31:48Z"
-        },
-        {
-          "title": "Stocks to Watch: Micron, Chevron, Levi Strauss",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-08-2026/card/stocks-to-watch-micron-chevron-levi-strauss-qowXmV2vcTgrgwbwQIJg?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-07-08T09:28:13Z"
-        },
-        {
-          "title": "Nvidia Lands Crunch Perplexity Deal But the Stock Is Falling",
-          "url": "https://www.barrons.com/articles/nvidia-stock-perplexity-deal-f4958fdc?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-07-08T08:57:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 110.39,
@@ -173,40 +148,12 @@
       ]
     },
     {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 300.43,
-      "previous_close": 322.24,
-      "change_pct": -6.77,
-      "market_cap": 319673681649.66705,
-      "headlines": [
-        {
-          "title": "\ud83d\udcc9 Which Tech Stocks Fell the Most Today?",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-07-2026/card/-which-tech-stocks-are-falling-the-most-today--ZJ8L41EcRW26zRtVSy9v?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-07-07T20:53:46Z"
-        },
-        {
-          "title": "AMD Feels Goldman\u2019s Love, and the Stock Jumps",
-          "url": "https://www.barrons.com/articles/amd-stock-goldmans-sachs-price-target-8ae8b2f6?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-07-06T19:01:00Z"
-        },
-        {
-          "title": "UBS Remains Bullish on Arm Holdings (ARM) \u2013 Here\u2019s Why",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-remains-bullish-arm-holdings-163555863.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-07-06T16:35:55Z"
-        }
-      ]
-    },
-    {
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "price": 230.7,
       "previous_close": 249.27,
       "change_pct": -7.45,
-      "market_cap": 201816357330.32227,
+      "market_cap": 201990114339.12378,
       "headlines": [
         {
           "title": "Stocks to Watch: Micron, Chevron, Levi Strauss",
@@ -427,8 +374,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -6.25,
-          "price": 277500.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "KRW"
         },
         {
@@ -517,8 +464,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -6.25,
-        "price": 277500.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "KRW"
       },
       {
@@ -585,13 +532,8 @@
     },
     {
       "label": "BTC",
-      "price": 62069.35,
-      "change_pct": -1.94
-    },
-    {
-      "label": "Gold",
-      "price": 4061.0,
-      "change_pct": -2.03
+      "price": 62086.01,
+      "change_pct": -1.91
     },
     {
       "label": "Nasdaq100",

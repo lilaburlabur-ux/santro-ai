@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-08T22:24:38+00:00",
-  "as_of_local": "2026-07-08 22:24:38 UTC",
+  "as_of_utc": "2026-07-08T22:25:24+00:00",
+  "as_of_local": "2026-07-08 22:25:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -206,7 +208,7 @@
       "price": 231.71,
       "previous_close": 230.7,
       "change_pct": 0.44,
-      "market_cap": 202699913873.29102,
+      "market_cap": 202874431594.17773,
       "headlines": [
         {
           "title": "Top financial expert declares Marvell 'no longer a marvelous buy'",
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-down-22-6-171116041.html",
           "publisher": "Simply Wall St.",
           "published": "2026-07-08T17:11:16Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 186.56,
-      "previous_close": 182.97,
-      "change_pct": 1.96,
-      "market_cap": 196634237426.7578,
-      "headlines": [
-        {
-          "title": "Qualcomm AI Factory Bet Comes as the Semiconductor Pendulum Swings",
-          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-ai-factory-bet-comes-180700653.html",
-          "publisher": "Zacks",
-          "published": "2026-07-08T18:07:00Z"
-        },
-        {
-          "title": "Nvidia, Micron, AMD Lead Chip Stock Selloff After Trump Said U.S.-Iran 'Truce Is Over'",
-          "url": "https://finance.yahoo.com/technology/articles/nvidia-micron-amd-lead-chip-132126893.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-07-08T13:21:26Z"
-        },
-        {
-          "title": "3 Beaten Down AI Semiconductor Giants of 1H 2026 That Could Soar in 2H",
-          "url": "https://finance.yahoo.com/technology/ai/articles/3-beaten-down-ai-semiconductor-124200713.html",
-          "publisher": "Zacks",
-          "published": "2026-07-08T12:42:00Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62212.58,
-      "change_pct": -1.71
+      "price": 62240.14,
+      "change_pct": -1.67
     },
     {
       "label": "Gold",
-      "price": 4086.4,
-      "change_pct": -1.42
+      "price": 4086.2,
+      "change_pct": -1.43
     },
     {
       "label": "Nasdaq100",

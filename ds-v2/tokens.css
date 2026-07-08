@@ -75,6 +75,30 @@
     --r-glass: 18px; /* iOS + share cards only — never web terminal */
   }
 
+  /* ---- Santro DAYLIGHT palette (light mode) ----
+     Same semantic tokens, light values: green-graphite institutional — never
+     blue. html.ds-v2[data-theme="light"] (0-2-1) outranks the :root defaults
+     above AND every legacy html[data-theme="light"] palette (0-1-1), so light
+     mode stays Santro regardless of stylesheet load order. AA on --st-bg-0:
+     green #128A52 ≈4.7:1, ink #17201A ≈14:1, amber #8F6A14 ≈4.8:1, red ≈4.6:1. */
+  html.ds-v2[data-theme="light"] {
+    color-scheme: light;
+    --st-bg-0: #F5F7F4;
+    --st-bg-1: #ECF0EB;
+    --st-bg-2: #E3E9E2;
+    --st-border: #D3DBD2;
+    --st-border-strong: #B9C4B8;
+    --st-ink: #17201A;
+    --st-ink-dim: #4E5C52;
+    --st-ink-faint: #78847B;
+    --st-green: #128A52;
+    --st-green-ink: #FFFFFF;
+    --st-red: #C2413D;       /* risk only — never decoration */
+    --st-amber: #8F6A14;
+    --st-link-hover: #0B6B3D;
+    --st-focus-ring: rgba(18, 138, 82, 0.4);
+  }
+
   /* Everything below applies ONLY inside a .ds-v2 scope
      (set on <html> by flags.js when ds_v2 is enabled). */
 
@@ -83,13 +107,15 @@
     color: var(--st-ink);
     font: var(--t-body);
     font-family: var(--font-sans);
+    /* native controls (checkbox/radio/progress/range) follow the brand — never blue */
+    accent-color: var(--st-green);
   }
 
   /* links: santro green, never browser blue */
   .ds-v2 a { color: var(--st-green); text-decoration: none; }
   .ds-v2 a:hover { color: var(--st-link-hover); }
   .ds-v2 :focus-visible { outline: 2px solid var(--st-focus-ring); outline-offset: 1px; }
-  .ds-v2 ::selection { background: rgba(59, 224, 143, 0.25); }
+  .ds-v2 ::selection { background: var(--st-focus-ring); }
 
   /* numbers: always mono + tabular */
   .ds-v2 .num,

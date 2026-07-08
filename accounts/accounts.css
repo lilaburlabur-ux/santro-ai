@@ -214,8 +214,8 @@ select.sa-input{cursor:pointer;}
 .sa-preset-lbl{font-size:10.5px;color:var(--faint,#6b7684);text-transform:uppercase;letter-spacing:.5px;font-weight:700;}
 .sa-chipbtn{font:inherit;font-size:12px;font-weight:600;padding:4px 10px;border-radius:999px;cursor:pointer;
   background:var(--panel-2,#10151d);color:var(--muted,#9aa6b2);border:1px solid var(--border-soft,#1c2230);}
-.sa-chipbtn:hover{border-color:var(--accent-border,#2b4a75);color:var(--text,#e6edf3);}
-.sa-chipbtn.on{background:rgba(91,157,240,.14);color:var(--accent-2,#7cb0f5);border-color:var(--accent-border,#2b4a75);}
+.sa-chipbtn:hover{border-color:var(--accent-border,#2c5a44);color:var(--text,#e6edf3);}
+.sa-chipbtn.on{background:rgba(34,197,94,.14);color:var(--accent-2,#7ce8b1);border-color:var(--accent-border,#2c5a44);}
 .sa-hint{font-weight:400;color:var(--faint,#6b7684);font-size:10px;}
 .sa-cycwarn{margin:10px 0 2px;padding:10px 14px;border-left:3px solid #e0a73f;border-radius:8px;
   background:rgba(224,167,63,.08);color:var(--muted,#9aa6b2);font-size:12.5px;line-height:1.55;}
@@ -225,8 +225,8 @@ select.sa-input{cursor:pointer;}
 .sa-modeltabs{display:flex;gap:6px;margin:12px 0 4px;flex-wrap:wrap;}
 .sa-mtab{font:inherit;font-size:12.5px;font-weight:700;padding:6px 14px;border-radius:8px;cursor:pointer;
   background:var(--panel-2,#10151d);color:var(--muted,#9aa6b2);border:1px solid var(--border-soft,#1c2230);}
-.sa-mtab:hover{color:var(--text,#e6edf3);border-color:var(--accent-border,#2b4a75);}
-.sa-mtab.on{background:rgba(91,157,240,.14);color:var(--accent-2,#7cb0f5);border-color:var(--accent-border,#2b4a75);}
+.sa-mtab:hover{color:var(--text,#e6edf3);border-color:var(--accent-border,#2c5a44);}
+.sa-mtab.on{background:rgba(34,197,94,.14);color:var(--accent-2,#7ce8b1);border-color:var(--accent-border,#2c5a44);}
 .sa-epsrow .f{min-width:260px;}
 
 /* header Sign-up button (logged-out pair) */

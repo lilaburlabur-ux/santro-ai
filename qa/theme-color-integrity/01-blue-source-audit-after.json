@@ -1,0 +1,82 @@
+{
+ "./evaluate-prompt.html": [
+  [
+   78,
+   "rgba(70,150,255)",
+   ".fchip.blue{color:#7cc4ff;border-color:#2f6dbf;box-shadow:0 0 16px rgba(70,150,255,.3)}"
+  ]
+ ],
+ "./design/tokens.json": [
+  [
+   51,
+   "rgba(125,160,255)",
+   "\"panel\":     { \"value\": \"rgba(125,160,255,0.06)\", \"use\": \"frosted panel fill\" },"
+  ],
+  [
+   52,
+   "rgba(140,175,255)",
+   "\"border\":    { \"value\": \"rgba(140,175,255,0.16)\", \"use\": \"frosted panel border\" },"
+  ],
+  [
+   55,
+   "#6ED2FF",
+   "\"accent\":    { \"value\": \"#6ED2FF\", \"use\": \"glass accent\" },"
+  ],
+  [
+   60,
+   "rgba(110,210,255)",
+   "\"glow\":      { \"value\": \"0 0 60px rgba(110,210,255,0.10)\", \"use\": \"hero glow \u2014 max 3 glass layers pe"
+  ]
+ ],
+ "./ds-v2/tokens.css": [
+  [
+   29,
+   "rgba(125, 160, 255)",
+   "--gl-panel: rgba(125, 160, 255, 0.06);"
+  ],
+  [
+   30,
+   "rgba(140, 175, 255)",
+   "--gl-border: rgba(140, 175, 255, 0.16);"
+  ],
+  [
+   33,
+   "#6ED2FF",
+   "--gl-accent: #6ED2FF;"
+  ],
+  [
+   38,
+   "rgba(110, 210, 255)",
+   "--gl-glow: 0 0 60px rgba(110, 210, 255, 0.10);"
+  ]
+ ],
+ "./blog/spacex-attention-ai-infrastructure.html": [
+  [
+   78,
+   "rgba(70,150,255)",
+   ".tkchip.blue{color:#7cc4ff;border-color:#2f6dbf;box-shadow:0 0 16px rgba(70,150,255,.35)}"
+  ],
+  [
+   79,
+   "rgba(150,90,240)",
+   ".tkchip.purple{color:#c79bff;border-color:#7a4bd0;box-shadow:0 0 16px rgba(150,90,240,.35)}"
+  ],
+  [
+   114,
+   "rgba(70,150,255)",
+   ".bk.space h4{color:#7cc4ff} .bk.space .c{color:#7cc4ff;border-color:#2f6dbf;background:rgba(70,150,2"
+  ],
+  [
+   115,
+   "rgba(150,90,240)",
+   ".bk.infra h4{color:#c79bff} .bk.infra .c{color:#c79bff;border-color:#7a4bd0;background:rgba(150,90,2"
+  ]
+ ],
+ "./blog/ai-trading-prompt-engineering.html": [
+  [
+   77,
+   "rgba(70,150,255)",
+   ".fchip.blue{color:#7cc4ff;border-color:#2f6dbf;box-shadow:0 0 16px rgba(70,150,255,.3)}"
+  ]
+ ]
+}

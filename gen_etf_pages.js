@@ -53,12 +53,12 @@ const CSS = `<style>
   .etfp .crumb{font-size:13px;color:var(--faint,#6b7684);margin:14px 0 4px;} .etfp .crumb a{color:var(--muted,#9aa6b2);text-decoration:none;}
   .etfp h1{font-size:28px;margin:10px 0 4px;} .etfp .sub{color:var(--muted,#9aa6b2);font-size:15px;margin:0 0 18px;}
   .etfp h2{font-size:19px;margin:28px 0 8px;} .etfp p,.etfp li{color:var(--muted,#9aa6b2);font-size:15.5px;line-height:1.65;}
-  .etfp b{color:var(--text,#e6edf3);} .etfp a{color:var(--accent,#5b9df0);}
+  .etfp b{color:var(--text,#e6edf3);} .etfp a{color:var(--accent,#22c55e);}
   .kv{width:100%;border-collapse:collapse;margin:8px 0 4px;} .kv td{padding:8px 10px;border-bottom:1px solid var(--border-soft,#1c2230);font-size:14.5px;color:var(--muted);} .kv td:first-child{color:var(--faint,#6b7684);width:38%;}
   .rbx{display:inline-block;font-size:11px;font-weight:700;padding:2px 7px;border-radius:5px;background:rgba(240,90,110,.14);color:#f0596e;margin-left:6px;}
   .relx a{display:inline-block;margin:0 8px 6px 0;padding:5px 11px;border:1px solid var(--border-soft,#1c2230);border-radius:7px;font-size:13.5px;text-decoration:none;}
-  .ctaE{margin-top:22px;padding:18px 20px;border:1px solid rgba(91,157,240,.28);border-radius:12px;background:rgba(91,157,240,.06);}
-  .ctaE a{display:inline-block;background:var(--accent,#5b9df0);color:#fff;padding:9px 16px;border-radius:8px;font-weight:600;text-decoration:none;font-size:14px;margin-top:8px;}
+  .ctaE{margin-top:22px;padding:18px 20px;border:1px solid rgba(34,197,94,.28);border-radius:12px;background:rgba(34,197,94,.06);}
+  .ctaE a{display:inline-block;background:var(--accent,#22c55e);color:#fff;padding:9px 16px;border-radius:8px;font-weight:600;text-decoration:none;font-size:14px;margin-top:8px;}
   .nfax{color:var(--faint,#6b7684);font-size:13px;margin-top:18px;}
 </style>`;
 
@@ -91,7 +91,7 @@ function page(e){
  {"@type":"ListItem","position":2,"name":"AI ETFs","item":"https://santroai.tech/etfs"},
  {"@type":"ListItem","position":3,"name":"${esc(e.t)}","item":"https://santroai.tech/etfs/${e.t.toLowerCase()}"}]}
 </script>
-<link rel="stylesheet" href="/site.css?v=13"/>
+<link rel="stylesheet" href="/site.css?v=14"/>
 ${CSS}
 </head><body>
 ${HEADER}

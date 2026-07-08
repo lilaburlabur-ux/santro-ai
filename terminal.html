@@ -42,16 +42,16 @@
     --bg:#0a0e13; --panel:#111822; --panel-2:#0c121a; --elev:#16202b;
     --border:#1d2733; --border-soft:#161e28;
     --text:#e7edf3; --muted:#8895a4; --faint:#5a6573;
-    --accent:var(--accent,#5b9df0); --accent-2:var(--accent-2,#7cb0f5); --accent-soft:#12233a; --accent-border:#22436a;
+    --accent:var(--accent,#22c55e); --accent-2:var(--accent-2,#7ce8b1); --accent-soft:#10241a; --accent-border:#1e4634;
     --green:#22c55e; --red:#f05a6e;
     --radius:14px; --radius-sm:9px; --radius-tile:6px;
   }
   html[data-theme="light"]{
     color-scheme: light;
-    --bg:#f3f5f8; --panel:#ffffff; --panel-2:#eef1f5; --elev:#e8edf3;
-    --border:#d9dfe7; --border-soft:#e5eaf0;
-    --text:#1b242f; --muted:#5b6675; --faint:#8a94a3;
-    --accent:#2f6fd0; --accent-2:#2059b8; --accent-soft:#e7effb; --accent-border:#bcd3f1;
+    --bg:#f4f6f3; --panel:#ffffff; --panel-2:#eef1ec; --elev:#e7ede7;
+    --border:#d7ded6; --border-soft:#e4eae3;
+    --text:#1a231d; --muted:#5b6659; --faint:#8a9488;
+    --accent:#157a4a; --accent-2:#0f6b41; --accent-soft:#e7f5ec; --accent-border:#bfdcc9;
     --green:#178244; --red:#d23b52;
   }
   /* light-mode touch-ups for colors that aren't variables */
@@ -164,7 +164,7 @@
   .brief-grid{display:grid; grid-template-columns:1.7fr repeat(5,1fr); gap:11px;}
   .bt{background:var(--elev); border:1px solid var(--border-soft); border-radius:12px; padding:12px 14px; min-width:0;
     transition:border-color .15s ease, transform .15s ease;}
-  .bt:hover{border-color:var(--accent-border,#2b4a75); transform:translateY(-1px);}
+  .bt:hover{border-color:var(--accent-border,#2c5a44); transform:translateY(-1px);}
   .bt .k{font-size:9.5px; text-transform:uppercase; letter-spacing:.7px; color:var(--faint); font-weight:700;}
   .bt .v{font-size:clamp(15px,1.25vw,19px); font-weight:800; margin-top:5px; line-height:1.18;
     display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;}
@@ -218,7 +218,7 @@
   .lh-cta{display:flex;gap:10px;margin:16px 0 0;flex-wrap:wrap;}
   .lh-btn{padding:13px 20px;border-radius:11px;font-weight:700;font-size:14.5px;text-decoration:none;
     background:var(--elev);color:var(--text);border:1px solid var(--border);min-height:48px;display:inline-flex;align-items:center;}
-  .lh-btn.primary{background:var(--accent,var(--accent,#5b9df0));color:#fff;border-color:var(--accent,var(--accent,#5b9df0));}
+  .lh-btn.primary{background:var(--accent,var(--accent,#22c55e));color:#fff;border-color:var(--accent,var(--accent,#22c55e));}
   .lh-micro{font-size:12px;color:var(--faint);margin:12px 0 0;}
   .lh-micro a{color:var(--accent-2);text-decoration:none;font-weight:600;}
   .mockcard{background:var(--panel);border:1px solid var(--border);border-radius:16px;padding:18px;max-width:330px;margin-left:auto;}
@@ -252,13 +252,13 @@
   .land-term{border-top:1px solid var(--border-soft);margin-top:22px;padding-top:26px;}
   /* quiz engine styles (source of truth mirrors quiz.html) */
   .qbar{height:5px;background:var(--elev);border-radius:999px;margin:14px 0 6px;overflow:hidden;}
-  .qbar i{display:block;height:100%;background:linear-gradient(90deg,var(--accent,var(--accent,#5b9df0)),#e0a73f);border-radius:999px;transition:width .25s ease;}
+  .qbar i{display:block;height:100%;background:linear-gradient(90deg,var(--accent,var(--accent,#22c55e)),#e0a73f);border-radius:999px;transition:width .25s ease;}
   .qstep{font-size:11px;color:var(--faint);text-transform:uppercase;letter-spacing:.6px;font-weight:700;}
   .qcard{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:18px 18px 14px;margin-top:10px;}
   .qcard h2{font-size:18px;margin:0 0 12px;line-height:1.35;}
   .qopt{display:block;width:100%;text-align:left;font:inherit;font-size:14.5px;color:var(--text);background:var(--elev);
     border:1px solid var(--border-soft);border-radius:10px;padding:13px 14px;margin:7px 0;cursor:pointer;min-height:48px;}
-  .qopt:hover{border-color:var(--accent-border,#2b4a75);}
+  .qopt:hover{border-color:var(--accent-border,#2c5a44);}
   .qback{background:none;border:0;color:var(--faint);font:inherit;font-size:12.5px;cursor:pointer;padding:8px 0;}
   .rcard{background:var(--panel);border:1px solid var(--border);border-radius:16px;padding:22px 20px;margin-top:14px;}
   .rcard .tag{font-size:10px;letter-spacing:.8px;text-transform:uppercase;color:var(--faint);font-weight:700;}
@@ -272,7 +272,7 @@
   .rfirst{margin-top:12px;font-size:13.5px;color:var(--muted);} .rfirst b{color:var(--text);}
   .rcta{display:flex;gap:9px;margin-top:18px;flex-wrap:wrap;}
   .rcta a{flex:1;min-width:150px;text-align:center;padding:13px 12px;border-radius:11px;font-weight:700;font-size:14px;text-decoration:none;}
-  .rcta .primary{background:var(--accent,var(--accent,#5b9df0));color:#fff;} .rcta .ghost{background:var(--elev);color:var(--text);border:1px solid var(--border);}
+  .rcta .primary{background:var(--accent,var(--accent,#22c55e));color:#fff;} .rcta .ghost{background:var(--elev);color:var(--text);border:1px solid var(--border);}
   .rios{margin-top:14px;padding:12px 14px;border:1px solid var(--border-soft);border-radius:10px;font-size:12.5px;color:var(--muted);} .rios b{color:var(--accent-2);}
   .rbrand{margin-top:16px;padding-top:12px;border-top:1px solid var(--border-soft);font-size:11px;color:var(--faint);display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px;}
   .rshare{font:inherit;font-size:12px;font-weight:700;background:none;border:1px solid var(--border-soft);border-radius:8px;color:var(--accent-2);padding:6px 12px;cursor:pointer;}
@@ -520,7 +520,7 @@
 
 
   <!-- meganav v5 — generated by gen_nav.py; edit NAV there, not here -->
-<link rel="stylesheet" href="/ds-v2/tokens.css?v=1">
+<link rel="stylesheet" href="/ds-v2/tokens.css?v=2">
 <link rel="stylesheet" href="/ds-v2/primitives.css?v=1">
 <link rel="stylesheet" href="/ds-v2/shell.css?v=1">
 <link rel="stylesheet" href="/ds-v2/remap.css?v=1">
@@ -530,7 +530,7 @@
 <script src="/ds-v2/lock-copy.js?v=2" defer></script>
 <script src="/ds-v2/events.js?v=1" defer></script>
 <script src="/ds-v2/locks.js?v=2" defer></script>
-<script src="/ds-v2/flags.js?v=4"></script>
+<script src="/ds-v2/flags.js?v=5"></script>
 <header class="meganav" id="meganav">
 <style>
 /* santro brand tokens — green is the identity color; blue stays a muted
@@ -587,7 +587,7 @@ html[data-theme="light"] .meganav .mn-ls{background:linear-gradient(165deg,#16a3
 .meganav .mn-search .sg .pc.up{color:var(--green,#22c55e);}.meganav .mn-search .sg .pc.down{color:var(--red,#f05a6e);}
 .meganav .mn-asof{display:none;}
 .meganav .mn-theme{appearance:none;background:var(--elev,#16202b);border:1px solid var(--border,#1d2733);border-radius:9px;width:34px;height:34px;display:flex;align-items:center;justify-content:center;cursor:pointer;color:var(--muted,#8895a4);}
-.meganav .mn-theme:hover{color:var(--text,#e7edf3);border-color:var(--accent-border,#22436a);}
+.meganav .mn-theme:hover{color:var(--text,#e7edf3);border-color:var(--accent-border,#1e4634);}
 .meganav .mn-theme .ic-sun{display:none;}
 html[data-theme="light"] .meganav .mn-theme .ic-sun{display:block;}
 html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
@@ -1327,8 +1327,8 @@ function chartTheme(){            // chart colors that CSS variables can't reach
   const l = currentTheme()==="light";
   return {
     bubbleBorder: l ? "#f3f5f8" : "rgba(10,14,19,.9)",
-    ring:         l ? "#2f6fd0" : "#5b9df0",
-    ringHover:    l ? "#2059b8" : "#7cb0f5",
+    ring:         l ? "#157a4a" : "#22c55e",
+    ringHover:    l ? "#0f6b41" : "#7ce8b1",
     ttBg:         l ? "#ffffff" : "#111822",
     ttBorder:     l ? "#d9dfe7" : "#1d2733",
     ttText:       l ? "#1b242f" : "#e7edf3",

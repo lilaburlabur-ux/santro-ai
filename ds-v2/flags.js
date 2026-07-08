@@ -8,18 +8,16 @@
 (function () {
   "use strict";
   var FLAGS = {
-    ds_v2: true // RELEASED 2026-07-08 — production default ON (dark theme)
+    ds_v2: true // RELEASED 2026-07-08 — production default ON, BOTH themes.
+    // Light tokens shipped same day (html.ds-v2[data-theme="light"] in
+    // tokens.css). The old "light sessions stay legacy" bail-out that lived
+    // here was the ROOT CAUSE of blue light mode — do not reintroduce it.
   };
   function isEnabled(name) {
     try {
       var override = localStorage.getItem("flag:" + name);
       if (override !== null) return override === "1";
     } catch (e) { /* storage blocked — fall through to default */ }
-    if (name === "ds_v2") {
-      // ds_v2 is dark-first: light-theme sessions keep the legacy skin until
-      // light tokens exist. Rollback = set this flag default to false.
-      try { if (localStorage.getItem("santro-theme") === "light") return false; } catch (e) {}
-    }
     return !!FLAGS[name];
   }
   /* QA helpers: SantroFlags.flagOn('ds_v2') / .flagOff('ds_v2') in the console */

@@ -4,7 +4,7 @@
   --bg:#0a0e13; --panel:#111822; --panel-2:#0c121a; --elev:#16202b;
   --border:#1d2733; --border-soft:#161e28;
   --text:#e7edf3; --muted:#8895a4; --faint:#5a6573;
-  --accent:#5b9df0; --accent-2:#7cb0f5; --accent-soft:#12233a; --accent-border:#22436a;
+  --accent:#22c55e; --accent-2:#7ce8b1; --accent-soft:#10241a; --accent-border:#1e4634;
   --green:#22c55e; --red:#f05a6e; --radius:14px;
   /* santro brand tokens — green is the primary identity; --accent (blue)
      is a SECONDARY link color only and must not drive logos/CTAs/active nav */
@@ -14,10 +14,10 @@
 }
 html[data-theme="light"]{
   color-scheme: light;
-  --bg:#f3f5f8; --panel:#ffffff; --panel-2:#eef1f5; --elev:#e8edf3;
-  --border:#d9dfe7; --border-soft:#e5eaf0;
-  --text:#1b242f; --muted:#5b6675; --faint:#8a94a3;
-  --accent:#2f6fd0; --accent-2:#2059b8; --accent-soft:#e7effb; --accent-border:#bcd3f1;
+  --bg:#f4f6f3; --panel:#ffffff; --panel-2:#eef1ec; --elev:#e7ede7;
+  --border:#d7ded6; --border-soft:#e4eae3;
+  --text:#1a231d; --muted:#5b6659; --faint:#8a9488;
+  --accent:#157a4a; --accent-2:#0f6b41; --accent-soft:#e7f5ec; --accent-border:#bfdcc9;
   --green:#178244; --red:#d23b52;
 }
 *{box-sizing:border-box;}

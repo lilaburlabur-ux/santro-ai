@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-08T02:25:34+00:00",
-  "as_of_local": "2026-07-08 02:25:34 UTC",
+  "as_of_utc": "2026-07-08T02:40:40+00:00",
+  "as_of_local": "2026-07-08 02:40:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-07-07T20:33:13Z"
         },
         {
-          "title": "McCormick Is Shifting From the Spice Rack to the Refrigerator With This $45 Billion Deal",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mccormick-shifting-spice-rack-refrigerator-012500940.html",
+          "title": "Better Buy: SpaceX vs. These 2 AI Stocks",
+          "url": "https://finance.yahoo.com/technology/ai/articles/better-buy-spacex-vs-2-022000529.html",
           "publisher": "Motley Fool",
-          "published": "2026-07-08T01:25:00Z"
+          "published": "2026-07-08T02:20:00Z"
         },
         {
-          "title": "Oracle Stock Plummeted by 25% in the First Half of 2026, and This Dire AI Warning Might Be Why",
-          "url": "https://finance.yahoo.com/technology/ai/articles/oracle-stock-plummeted-25-first-012000513.html",
+          "title": "Why Eli Lilly Stock Climbed to a Record High Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-eli-lilly-stock-climbed-021337610.html",
           "publisher": "Motley Fool",
-          "published": "2026-07-08T01:20:00Z"
+          "published": "2026-07-08T02:13:37Z"
         }
       ]
     },
@@ -106,7 +108,7 @@
           "title": "Dow Jones Futures: Oil Prices Keep Rising On Iran News After Samsung Fans AI Fears",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-samsung-ai-fears-oil-prices-jump-iran-news/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-07-08T02:04:07Z"
+          "published": "2026-07-08T02:34:44Z"
         },
         {
           "title": "Korean chip stocks rebound after overnight US selloff, as chip supply remains tight",
@@ -173,40 +175,12 @@
       ]
     },
     {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 300.43,
-      "previous_close": 322.24,
-      "change_pct": -6.77,
-      "market_cap": 319673681649.66705,
-      "headlines": [
-        {
-          "title": "\ud83d\udcc9 Which Tech Stocks Fell the Most Today?",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-07-2026/card/-which-tech-stocks-are-falling-the-most-today--ZJ8L41EcRW26zRtVSy9v?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-07-07T20:53:46Z"
-        },
-        {
-          "title": "AMD Feels Goldman\u2019s Love, and the Stock Jumps",
-          "url": "https://www.barrons.com/articles/amd-stock-goldmans-sachs-price-target-8ae8b2f6?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-07-06T19:01:00Z"
-        },
-        {
-          "title": "UBS Remains Bullish on Arm Holdings (ARM) \u2013 Here\u2019s Why",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-remains-bullish-arm-holdings-163555863.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-07-06T16:35:55Z"
-        }
-      ]
-    },
-    {
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "price": 230.7,
       "previous_close": 249.27,
       "change_pct": -7.45,
-      "market_cap": 201816357330.32227,
+      "market_cap": 201990114339.12378,
       "headlines": [
         {
           "title": "3 Soaring Stocks That May Have More Upside Ahead",
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -0.05,
-          "price": 2200000.0,
+          "change_pct": 1.95,
+          "price": 2244000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -3.72,
-          "price": 285000.0,
+          "change_pct": -3.04,
+          "price": 287000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 1.7,
-          "price": 73630.0,
+          "change_pct": 2.67,
+          "price": 74330.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -1.49,
-          "price": 397.0,
+          "change_pct": -0.5,
+          "price": 401.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -4.31,
-          "price": 166.5,
+          "change_pct": -3.74,
+          "price": 167.5,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -0.05,
-        "price": 2200000.0,
+        "change_pct": 1.95,
+        "price": 2244000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -3.72,
-        "price": 285000.0,
+        "change_pct": -3.04,
+        "price": 287000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 1.7,
-        "price": 73630.0,
+        "change_pct": 2.67,
+        "price": 74330.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -1.49,
-        "price": 397.0,
+        "change_pct": -0.5,
+        "price": 401.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -4.31,
-        "price": 166.5,
+        "change_pct": -3.74,
+        "price": 167.5,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62890.96,
-      "change_pct": -1.73
+      "price": 62759.42,
+      "change_pct": -1.93
     },
     {
       "label": "Gold",
-      "price": 4124.6,
-      "change_pct": -0.73
+      "price": 4129.3,
+      "change_pct": -0.62
     },
     {
       "label": "Nasdaq100",

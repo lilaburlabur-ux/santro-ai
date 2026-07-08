@@ -250,3 +250,42 @@ if (mode === "width") {
   writeFileSync("qa/frontend-debug/width-shell-audit.json", JSON.stringify(out, null, 1));
   console.log("width: measured", out.length, "URLs @1920");
 }
+
+if (mode === "fonts") {
+  const browser3 = await chromium.launch();
+  const ctx = await browser3.newContext({ viewport: { width: 1440, height: 900 } });
+  const page = await ctx.newPage();
+  const out = [];
+  const SEL = { body: "body", h1: "h1", h2: "h2", nav: ".mn-top", button: "button, .hp-btn, .cta",
+    link: "main a, article a", number: ".hp-tape, #asof, .mn-asof, .num, .hp-cred, .st-stat .v",
+    articleH1: "main.wrap h1, .art h1" };
+  for (const u of urls) {
+    try {
+      await page.goto(BASE + u, { timeout: 20000, waitUntil: "domcontentloaded" });
+      await page.waitForTimeout(700);
+      const d = await page.evaluate((SEL) => {
+        const first = s => { for (const part of s.split(",")) { const el = document.querySelector(part.trim()); if (el) return el; } return null; };
+        const fam = s => { const el = first(s); return el ? getComputedStyle(el).fontFamily.split(",")[0].replace(/["']/g, "").trim() : null; };
+        const o = {}; for (const k in SEL) o[k] = fam(SEL[k]); return o;
+      }, SEL);
+      out.push({ url: u, ...d });
+    } catch (e) { out.push({ url: u, error: String(e).slice(0, 100) }); }
+  }
+  await ctx.close(); await browser3.close();
+  writeFileSync("qa/full-consistency/02-rendered-font-audit.json", JSON.stringify(out, null, 1));
+  // grade: body/h1/h2/nav/button should be IBM Plex Sans; number surfaces IBM Plex Mono;
+  // articleH1 Newsreader only on article routes
+  const isArt = u => /^\/blog\/|^\/blog$|^\/about$|^\/privacy$|^\/terms$/.test(u);
+  let fails = 0; const rows = [];
+  for (const r of out) {
+    if (r.error) { fails++; rows.push([r.url, "load", r.error]); continue; }
+    for (const k of ["body", "h1", "nav", "button"])
+      if (r[k] && r[k] !== "IBM Plex Sans") { fails++; rows.push([r.url, k, r[k]]); }
+    if (r.number && r.number !== "IBM Plex Mono") { fails++; rows.push([r.url, "number", r.number]); }
+    if (r.articleH1 && isArt(r.url) && !/Newsreader/.test(r.articleH1)) { fails++; rows.push([r.url, "articleH1", r.articleH1]); }
+  }
+  writeFileSync("qa/full-consistency/02-rendered-font-audit.md",
+    `# Rendered font audit — ${BASE}\n\n${new Date().toISOString()}\n\nURLs: **${out.length}** · selector checks failing: **${fails}**\n\n` +
+    (rows.length ? "|url|selector|computed|\n|---|---|---|\n" + rows.slice(0, 80).map(r => `|${r[0]}|${r[1]}|${r[2]}|`).join("\n") : "All pass."));
+  console.log(`fonts: ${out.length} URLs, ${fails} failing selector checks`);
+}

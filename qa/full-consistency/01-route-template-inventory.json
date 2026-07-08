@@ -1,0 +1,218 @@
+{
+ "total": 175,
+ "groups": [
+  {
+   "template": "/stocks/[ticker]",
+   "count": 94,
+   "examples": [
+    "/stocks/aapl",
+    "/stocks/adbe"
+   ],
+   "shell": "terminal",
+   "ds_v2": "flag-on default"
+  },
+  {
+   "template": "/etfs/[ticker]",
+   "count": 40,
+   "examples": [
+    "/etfs/agix",
+    "/etfs/aipi"
+   ],
+   "shell": "terminal",
+   "ds_v2": "flag-on default"
+  },
+  {
+   "template": "/ipos/[slug]",
+   "count": 10,
+   "examples": [
+    "/ipos/anduril",
+    "/ipos/anthropic"
+   ],
+   "shell": "terminal",
+   "ds_v2": "flag-on default"
+  },
+  {
+   "template": "/stocks/themes/[slug]",
+   "count": 7,
+   "examples": [
+    "/stocks/themes/ai-applications-and-data-software",
+    "/stocks/themes/ai-chips-and-compute"
+   ],
+   "shell": "terminal",
+   "ds_v2": "flag-on default"
+  },
+  {
+   "template": "/blog/[slug]",
+   "count": 4,
+   "examples": [
+    "/blog/ai-bubble-valuation-history",
+    "/blog/ai-junk-bonds"
+   ],
+   "shell": "article",
+   "ds_v2": "flag-on default"
+  },
+  {
+   "template": "tracker pages",
+   "count": 3,
+   "examples": [
+    "/stocks/aschenbrenner",
+    "/stocks/burry-short-watch"
+   ],
+   "shell": "terminal",
+   "ds_v2": "flag-on default"
+  },
+  {
+   "template": "/",
+   "count": 1,
+   "examples": [
+    "/"
+   ],
+   "shell": "marketing",
+   "ds_v2": "flag-on default"
+  },
+  {
+   "template": "/terminal",
+   "count": 1,
+   "examples": [
+    "/terminal"
+   ],
+   "shell": "terminal",
+   "ds_v2": "flag-on default"
+  },
+  {
+   "template": "/stocks",
+   "count": 1,
+   "examples": [
+    "/stocks"
+   ],
+   "shell": "terminal",
+   "ds_v2": "flag-on default"
+  },
+  {
+   "template": "/crypto",
+   "count": 1,
+   "examples": [
+    "/crypto"
+   ],
+   "shell": "terminal",
+   "ds_v2": "flag-on default"
+  },
+  {
+   "template": "/etfs",
+   "count": 1,
+   "examples": [
+    "/etfs"
+   ],
+   "shell": "terminal",
+   "ds_v2": "flag-on default"
+  },
+  {
+   "template": "/bubble",
+   "count": 1,
+   "examples": [
+    "/bubble"
+   ],
+   "shell": "terminal",
+   "ds_v2": "flag-on default"
+  },
+  {
+   "template": "/ipos",
+   "count": 1,
+   "examples": [
+    "/ipos"
+   ],
+   "shell": "terminal",
+   "ds_v2": "flag-on default"
+  },
+  {
+   "template": "/news",
+   "count": 1,
+   "examples": [
+    "/news"
+   ],
+   "shell": "terminal",
+   "ds_v2": "flag-on default"
+  },
+  {
+   "template": "/research",
+   "count": 1,
+   "examples": [
+    "/research"
+   ],
+   "shell": "terminal",
+   "ds_v2": "flag-on default"
+  },
+  {
+   "template": "/blog",
+   "count": 1,
+   "examples": [
+    "/blog"
+   ],
+   "shell": "article",
+   "ds_v2": "flag-on default"
+  },
+  {
+   "template": "/quiz",
+   "count": 1,
+   "examples": [
+    "/quiz"
+   ],
+   "shell": "terminal",
+   "ds_v2": "flag-on default"
+  },
+  {
+   "template": "/evaluate-prompt",
+   "count": 1,
+   "examples": [
+    "/evaluate-prompt"
+   ],
+   "shell": "terminal",
+   "ds_v2": "flag-on default"
+  },
+  {
+   "template": "/share",
+   "count": 1,
+   "examples": [
+    "/share"
+   ],
+   "shell": "terminal",
+   "ds_v2": "flag-on default"
+  },
+  {
+   "template": "/about",
+   "count": 1,
+   "examples": [
+    "/about"
+   ],
+   "shell": "article",
+   "ds_v2": "flag-on default"
+  },
+  {
+   "template": "/privacy",
+   "count": 1,
+   "examples": [
+    "/privacy"
+   ],
+   "shell": "article",
+   "ds_v2": "flag-on default"
+  },
+  {
+   "template": "/terms",
+   "count": 1,
+   "examples": [
+    "/terms"
+   ],
+   "shell": "article",
+   "ds_v2": "flag-on default"
+  },
+  {
+   "template": "/tools/[tool]",
+   "count": 1,
+   "examples": [
+    "/tools/fair-value-calculator"
+   ],
+   "shell": "tool",
+   "ds_v2": "flag-on default"
+  }
+ ]
+}

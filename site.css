@@ -22,7 +22,7 @@ html[data-theme="light"]{
 }
 *{box-sizing:border-box;}
 body{margin:0; background:var(--bg); color:var(--text); font-size:14.5px;
-  font-family:-apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  font-family:var(--font-sans, -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif);
   font-variant-numeric:tabular-nums; -webkit-font-smoothing:antialiased; line-height:1.55;}
 a{color:var(--accent-2);font-weight:600;text-decoration:none;}
 .up{color:var(--green);} .down{color:var(--red);}

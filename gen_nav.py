@@ -92,7 +92,7 @@ CSS = """
 header.meganav{--sg:#22c55e;--sg-hi:#4ade80;--sg-deep:#15803d;
   --sg-soft:rgba(34,197,94,.12);--sg-border:rgba(34,197,94,.45);
   --ramber:#d9a13c;--ramber-border:rgba(217,161,60,.45);}
-header.meganav{display:block;position:relative;z-index:60;background:var(--panel-2,#0c121a);border-bottom:1px solid var(--border,#1d2733);font-family:-apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif;text-align:left;}
+header.meganav{display:block;position:relative;z-index:60;background:var(--panel-2,#0c121a);border-bottom:1px solid var(--border,#1d2733);font-family:var(--font-sans, -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif);text-align:left;}
 .meganav *{box-sizing:border-box;}
 .meganav .mn-in{max-width:1680px;margin:0 auto;padding:0 clamp(16px,2vw,40px);display:flex;align-items:center;gap:18px;height:56px;}
 .meganav a{text-decoration:none;}
@@ -293,7 +293,7 @@ def render_header(active, utils, is_terminal=False):
 <script src="/ds-v2/lock-copy.js?v=1" defer></script>
 <script src="/ds-v2/events.js?v=1" defer></script>
 <script src="/ds-v2/locks.js?v=1" defer></script>
-<script src="/ds-v2/flags.js?v=3"></script>
+<script src="/ds-v2/flags.js?v=4"></script>
 <header class="meganav" id="meganav">
 <style>
 {CSS}

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-08T19:17:57+00:00",
+  "as_of": "2026-07-08T19:33:10+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -12,10 +12,10 @@
    "ticker": "BABA",
    "company": "Alibaba Group Holding Ltd ADR",
    "move_pct": 11.48,
-   "price": 109.41,
-   "volume": 32482793,
+   "price": 109.4,
+   "volume": 33171953,
    "volume_vs_avg": "~3x",
-   "heat_score": 78,
+   "heat_score": 79,
    "direction": "up",
    "why": "Stock Market Today: Dow Droops As Ceasefire In Iran Ends; Alibaba Hits Rally Mode (Live Coverage)",
    "catalyst_type": "momentum_narrative",
@@ -27,33 +27,17 @@
    "rank": 2,
    "ticker": "AVGO",
    "company": "Broadcom Inc",
-   "move_pct": 5.34,
-   "price": 390.57,
-   "volume": 21894958,
+   "move_pct": 5.28,
+   "price": 390.35,
+   "volume": 22821419,
    "volume_vs_avg": "~0.7x",
    "heat_score": 37,
    "direction": "up",
-   "why": "Broadcom Spikes 5% on Expanded Apple Chip Deal; Intel and AMD Drift Lower",
+   "why": "Apple and Broadcom Shake Up Tech Sector With $30 Billion Deal",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-spikes-5-expanded-apple-181534593.html",
-   "published": "2026-07-08T18:15:34Z",
+   "source_url": "https://www.barrons.com/articles/apple-stock-price-broadcom-chip-deal-fb8c6dd9?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-07-08T18:49:00Z",
    "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 3,
-   "ticker": "SMCI",
-   "company": "Super Micro Computer Inc",
-   "move_pct": 5.18,
-   "price": 27.61,
-   "volume": 26908279,
-   "volume_vs_avg": "~0.4x",
-   "heat_score": 35,
-   "direction": "up",
-   "why": "Why Super Micro Computer Fell Over 36% in June",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-super-micro-computer-fell-152000929.html",
-   "published": "2026-07-08T15:20:00Z",
-   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

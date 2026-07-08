@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-08T19:48:16+00:00",
+  "as_of": "2026-07-08T20:03:27+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,33 +11,17 @@
    "rank": 1,
    "ticker": "BABA",
    "company": "Alibaba Group Holding Ltd ADR",
-   "move_pct": 11.55,
-   "price": 109.48,
-   "volume": 34296324,
+   "move_pct": 11.25,
+   "price": 109.18,
+   "volume": 36629654,
    "volume_vs_avg": "~3x",
-   "heat_score": 79,
+   "heat_score": 64,
    "direction": "up",
-   "why": "Alibaba Jumps 10% Ahead of Earnings",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-jumps-10-ahead-earnings-173908162.html",
-   "published": "2026-07-08T17:39:08Z",
+   "why": "Moving up 11.2% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
    "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 2,
-   "ticker": "AVGO",
-   "company": "Broadcom Inc",
-   "move_pct": 5.22,
-   "price": 390.12,
-   "volume": 23627887,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "Broadcom Vs. Apple: AVGO Just Locked in Apple Through 2031 Which is Why You Should Buy it Over AAPL",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/broadcom-vs-apple-avgo-just-191511419.html",
-   "published": "2026-07-08T19:15:11Z",
-   "sector": "AI Chips & Compute"
   }
  ]
 }

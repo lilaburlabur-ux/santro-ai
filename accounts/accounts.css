@@ -233,3 +233,22 @@ select.sa-input{cursor:pointer;}
 a.sa-authbtn.sa-signupbtn{margin-left:6px;text-decoration:none;display:inline-flex;align-items:center;
   background:rgba(34,197,94,.12);color:#22c55e;border-color:rgba(34,197,94,.45);}
 a.sa-authbtn.sa-signupbtn:hover{color:var(--text,#e6edf3);}
+
+/* ── SantroWatch ticker star + toast + valuation actions (2026-07-08) ── */
+.sa-watch{display:inline-flex;align-items:center;gap:6px;vertical-align:middle;cursor:pointer;
+  font:700 12.5px/1 var(--font-sans,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif);
+  min-height:34px;padding:0 12px;border-radius:999px;background:transparent;
+  border:1px solid var(--accent-border,rgba(34,197,94,.45));color:var(--accent-2,#7ce8b1);}
+.sa-watch:hover{background:var(--accent-soft,rgba(34,197,94,.12));}
+.sa-watch.on{background:var(--accent-soft,rgba(34,197,94,.12));color:var(--accent,#22c55e);border-color:var(--accent,#22c55e);}
+.sa-watch.icon{min-width:34px;justify-content:center;padding:0;font-size:16px;}
+.sa-watch:disabled{opacity:.6;cursor:wait;}
+@media(max-width:760px){.sa-watch{min-height:44px;}.sa-watch.icon{min-width:44px;}}
+.sa-toast{position:fixed;left:50%;bottom:26px;transform:translateX(-50%) translateY(16px);opacity:0;pointer-events:none;
+  background:var(--panel,#101613);border:1px solid var(--accent-border,rgba(34,197,94,.45));color:var(--text,#e7edf3);
+  font:600 13px/1.3 var(--font-sans,-apple-system,sans-serif);padding:10px 16px;border-radius:10px;z-index:400;
+  transition:opacity .18s ease,transform .18s ease;box-shadow:0 8px 30px rgba(0,0,0,.35);}
+.sa-toast.show{opacity:1;transform:translateX(-50%) translateY(0);}
+.sa-valacts{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:12px;}
+.sa-valacts .sa-btn{margin:0;width:auto;}
+.sa-valsaved{font-size:12.5px;font-weight:700;color:var(--accent,#22c55e);}

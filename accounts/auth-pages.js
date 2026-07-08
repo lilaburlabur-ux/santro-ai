@@ -14,9 +14,10 @@
   const node = (html) => { const t = document.createElement("template"); t.innerHTML = html.trim(); return t.content.firstElementChild; };
   const msg = (txt, kind) => `<div class="sa-msg ${kind}">${esc(txt)}</div>`;
   const qs = (k) => { try { return new URLSearchParams(location.search).get(k); } catch (_) { return null; } };
-  // Same-site path only. Must start with a single "/" — a leading "//" would be
-  // a protocol-relative external redirect, so it is rejected explicitly.
-  const safeNext = (n) => (n && /^\/(?!\/)[A-Za-z0-9/_.\-]*$/.test(n) ? n : null);
+  // Same-site path (query allowed — ticker pages are /t?sym=X). Must start with
+  // a single "/" — a leading "//" would be a protocol-relative external
+  // redirect, so it is rejected explicitly. No scheme, no host, no backslash.
+  const safeNext = (n) => (n && /^\/(?!\/)[A-Za-z0-9/_.\-?=&%]*$/.test(n) ? n : null);
 
   // ── controlled vocabularies (must mirror the backend Literal enums) ───────
   const PROF = [["individual_trader", "Individual trader"], ["investor", "Investor"],

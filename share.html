@@ -94,8 +94,8 @@
 <script src="/ds-v2/flags.js?v=5"></script>
 <header class="meganav" id="meganav">
 <style>
-/* santro brand tokens — green is the identity color; blue stays a muted
-   secondary for body links only. Do NOT let these drift back to blue. */
+/* santro brand tokens — green is the identity color. Blue is NOT a Santro
+   UI color anywhere (2026-07-08 rule) — never reintroduce it. */
 header.meganav{--sg:#22c55e;--sg-hi:#4ade80;--sg-deep:#15803d;
   --sg-soft:rgba(34,197,94,.12);--sg-border:rgba(34,197,94,.45);
   --ramber:#d9a13c;--ramber-border:rgba(217,161,60,.45);}
@@ -917,6 +917,90 @@ function cardBurry(){
   foot();
 }
 
+// ── CONTEXT CARDS: stock + valuation (opened from ticker pages) ──────────
+// /share?type=stock&ticker=VRT      → card about THAT stock (never generic)
+// /share?type=valuation&ticker=VRT&state=<localStorage key> → the valuation just run
+let CTX={tk:null}, eco=null;
+function findTicker(tk){
+  let row=uniRows().find(t=>t.ticker===tk)||null, basket=null;
+  ((universe&&universe.bubbles)||[]).forEach(b=>{ if((b.tickers||[]).some(t=>t.ticker===tk)) basket=b.label||b.id; });
+  if(!row && eco && eco.tickers) row=(eco.tickers||[]).find(t=>t.ticker===tk)||null;
+  return {row, basket};
+}
+function cardStock(){
+  bg(); frame("Stock snapshot");
+  const tk=CTX.tk||"—", f=findTicker(tk), t=f.row;
+  if(!t){ bigTitle(tk); X.fillStyle="#8b97a5"; X.font="400 20px "+F;
+    X.fillText("No live data for this ticker right now — try again in a minute.",44,210); foot(); return; }
+  X.fillStyle="#e7edf3"; X.font="800 62px "+F; X.fillText(tk,44,196);
+  const tkw=X.measureText(tk).width;   // measured at 62px BEFORE the font changes
+  X.fillStyle="#8b97a5"; X.font="600 25px "+F; X.fillText((t.company||"").slice(0,34),44+tkw+18,196);
+  const priceStr="$"+Number(t.price||0).toFixed(2);
+  X.fillStyle="#e7edf3"; X.font="800 44px "+F; X.fillText(priceStr,44,258);
+  const up=(t.change_pct||0)>=0;
+  X.fillStyle=up?"#22c55e":"#f0596e"; X.font="800 34px "+F;
+  X.fillText(fmtPct(t.change_pct),44+(function(){X.font="800 44px "+F;return X.measureText(priceStr).width;})()+20,254);
+  const perf=t.perf||{}; let px=44;
+  [["1D",t.change_pct],["1W",perf["1W"]],["1M",perf["1M"]],["1Y",perf["1Y"]]].forEach(([k,v])=>{
+    if(v==null)return; const c=v>=0?"#22c55e":"#f0596e";
+    X.font="700 18px "+F; const label=k+" "+fmtPct1(v); const w=X.measureText(label).width+26;
+    X.fillStyle="#141c25"; rr(px,284,w,36,9); X.fill(); X.strokeStyle="#26303c"; X.lineWidth=1.5; rr(px,284,w,36,9); X.stroke();
+    X.fillStyle=c; X.fillText(label,px+13,309); px+=w+10; });
+  const stat=(x,k,v)=>{ X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText(k.toUpperCase(),x,378);
+    X.fillStyle="#e7edf3"; X.font="800 26px "+F; X.fillText(String(v).slice(0,22),x,410); };
+  const cap=t.market_cap_b?(t.market_cap_b>=1000?"$"+(t.market_cap_b/1000).toFixed(2)+"T":"$"+Math.round(t.market_cap_b)+"B"):"—";
+  stat(44,"Market cap",cap);
+  stat(300,"P/E",t.pe==null?"—":t.pe);
+  stat(470,"Volume",t.volume?(t.volume>=1e9?(t.volume/1e9).toFixed(1)+"B":(t.volume/1e6).toFixed(1)+"M"):"—");
+  stat(680,"AI theme",(f.basket||"—"));
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("INDUSTRY",44,462);
+  X.fillStyle="#c4ccd6"; X.font="600 21px "+F; X.fillText(((t.industry||"—")+(t.sector?" · "+t.sector:"")).slice(0,60),44,492);
+  const ix=bubbleIx&&bubbleIx.index;
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("AI BUBBLE CONTEXT",680,462);
+  if(ix){ X.fillStyle=riskColor(ix.overall); X.font="800 27px "+F; X.fillText(Math.round(ix.overall)+"/100 · "+(ix.label||""),680,494); }
+  else { X.fillStyle="#8b97a5"; X.font="400 19px "+F; X.fillText("Index unavailable",680,492); }
+  foot();
+}
+const MODEL_NM={dcf:"DCF · 10-yr two-stage",pe:"Fair P/E multiple",graham:"Graham (1974 revised)",peg:"Lynch PEG"};
+function valPayload(){
+  try{
+    const key=new URLSearchParams(location.search).get("state")||"santro_share_val";
+    if(!/^[A-Za-z0-9_-]{1,64}$/.test(key)) return null;
+    const p=JSON.parse(localStorage.getItem(key)||"null");
+    if(p && p.tk && (!CTX.tk || p.tk===CTX.tk)) return p;
+  }catch(e){}
+  return null;
+}
+function cardValuation(){
+  bg(); frame("Valuation scenario");
+  const p=valPayload();
+  if(!p){ bigTitle(CTX.tk||"Valuation"); X.fillStyle="#8b97a5"; X.font="400 20px "+F;
+    X.fillText("No valuation to show — run one on the ticker page, then press Share valuation card.",44,210); foot(); return; }
+  X.fillStyle="#e7edf3"; X.font="800 52px "+F; X.fillText(p.tk,44,188);
+  X.fillStyle="#8b97a5"; X.font="600 24px "+F;
+  X.fillText((p.co||"").slice(0,36),44+(function(){X.font="800 52px "+F;return X.measureText(p.tk).width;})()+16,188);
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("MODEL",44,234);
+  X.fillStyle="#e7edf3"; X.font="700 24px "+F; X.fillText(MODEL_NM[p.model]||String(p.model||"").toUpperCase(),44,264);
+  const asmp=["Earnings base $"+Number(p.eps||0).toFixed(2)+"/sh"];
+  if(p.model==="pe") asmp.push("Target multiple "+p.mult+"×");
+  else if(p.model==="graham"){ asmp.push("Growth "+p.growth+"%"); asmp.push("AAA yield "+p.aaayield+"%"); }
+  else if(p.model==="peg"){ asmp.push("PEG "+p.peg+"×"); asmp.push("Growth "+p.growth+"%"); }
+  else { asmp.push("Growth "+p.growth+"%/yr · "+(p.years||10)+" yrs"); asmp.push("Discount "+p.discount+"%"); }
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("YOUR ASSUMPTIONS",44,306);
+  X.fillStyle="#c4ccd6"; X.font="600 21px "+F; X.fillText(asmp.join("  ·  ").slice(0,88),44,336);
+  const over=(p.prem||0)>=0;
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("SCENARIO FAIR VALUE",44,392);
+  X.fillStyle="#22c55e"; X.font="800 56px "+F; X.fillText("$"+Number(p.fair||0).toFixed(2),44,448);
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("PRICE VS SCENARIO",430,392);
+  X.fillStyle=over?"#f0596e":"#22c55e"; X.font="800 42px "+F;
+  X.fillText(fmtPct(p.prem)+(over?" premium":" discount"),430,442);
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("LAST PRICE",880,392);
+  X.fillStyle="#e7edf3"; X.font="800 42px "+F; X.fillText("$"+Number(p.price||0).toFixed(2),880,442);
+  X.fillStyle="#e0a73f"; X.font="700 16px "+F;
+  X.fillText("Scenario, not a forecast — the output follows your inputs.",44,516);
+  foot();
+}
+
 const RENDER={burry:cardBurry, aschenbrenner:cardAschenbrenner, movers:cardMovers, hot:cardHot, risk:cardRisk, sixty:cardSixty, winlose:cardWinLose, crypto:cardCrypto};
 const GAL=[["burry","Michael Burry AI shorts"],["aschenbrenner","Aschenbrenner basket"],["movers","Today's AI movers"],["hot","Hot tickers"],["risk","AI bubble risk"],
            ["winlose","Winners / losers"],["crypto","AI crypto movers"],["sixty","60 seconds"]];
@@ -933,7 +1017,7 @@ function updateTweet(){
 
 function flash(msg){ const f=document.getElementById("flash"); f.textContent=msg; f.classList.add("show");
   setTimeout(()=>f.classList.remove("show"),1800); }
-function fname(){ return "santro-"+current+"-"+new Date().toISOString().slice(0,10)+".png"; }
+function fname(){ return "santro-"+(CTX.tk?CTX.tk.toLowerCase()+"-":"")+current+"-"+new Date().toISOString().slice(0,10)+".png"; }
 document.getElementById("dl").addEventListener("click",()=>{
   C.toBlob(b=>{ const a=document.createElement("a"); a.href=URL.createObjectURL(b); a.download=fname();
     a.click(); setTimeout(()=>URL.revokeObjectURL(a.href),3000); flash("Downloaded ✓"); },"image/png");
@@ -970,16 +1054,26 @@ function buildGallery(){
 
 async function getJSON(u){ try{ return await (await fetch(u+"?t="+Date.now())).json(); }catch(e){ return null; } }
 async function fetchData(){
-  const [d,u,b,c,h]=await Promise.all([
+  const [d,u,b,c,h,e]=await Promise.all([
     getJSON("data.json"), getJSON("universe.json"), getJSON("bubble_index.json"),
-    getJSON("crypto.json"), getJSON("hot_tickers.json")]);
-  if(u) universe=u; if(b) bubbleIx=b; if(c) crypto=c; if(h) hot=h;
+    getJSON("crypto.json"), getJSON("hot_tickers.json"), getJSON("ecosystem.json")]);
+  if(u) universe=u; if(b) bubbleIx=b; if(c) crypto=c; if(h) hot=h; if(e) eco=e;
   if(d&&d.as_of_local) asof=d.as_of_local;
   document.getElementById("asof").textContent = asof ? "As of "+asof : "Live data";
 }
 async function load(){
   await fetchData();
-  const q=new URLSearchParams(location.search).get("card");
+  const Q=new URLSearchParams(location.search);
+  // context cards from ticker pages — the ticker's card, never the generic one
+  const type=Q.get("type"), tk=(Q.get("ticker")||"").toUpperCase().replace(/[^A-Z0-9.\-]/g,"");
+  if(type==="stock" && tk){
+    CTX.tk=tk; RENDER.stock=cardStock; CAP.stock=tk+" stock snapshot";
+    GAL.unshift(["stock",tk+" stock card"]); current="stock";
+  } else if(type==="valuation" && tk){
+    CTX.tk=tk; RENDER.valuation=cardValuation; CAP.valuation=tk+" valuation scenario";
+    GAL.unshift(["valuation",tk+" valuation card"]); current="valuation";
+  }
+  const q=Q.get("card");
   if(q && RENDER[q]) current=q;
   buildGallery();
   render();

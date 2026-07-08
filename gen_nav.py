@@ -87,8 +87,8 @@ BADGE = {"live": '<em class="mn-b mn-b-live">Beta</em>',
          "soon": '<em class="mn-b mn-b-soon">Coming soon</em>'}
 
 CSS = """
-/* santro brand tokens — green is the identity color; blue stays a muted
-   secondary for body links only. Do NOT let these drift back to blue. */
+/* santro brand tokens — green is the identity color. Blue is NOT a Santro
+   UI color anywhere (2026-07-08 rule) — never reintroduce it. */
 header.meganav{--sg:#22c55e;--sg-hi:#4ade80;--sg-deep:#15803d;
   --sg-soft:rgba(34,197,94,.12);--sg-border:rgba(34,197,94,.45);
   --ramber:#d9a13c;--ramber-border:rgba(217,161,60,.45);}

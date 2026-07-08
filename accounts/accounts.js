@@ -70,8 +70,13 @@
     setTimeout(() => document.addEventListener("click", function h() { m.remove(); document.removeEventListener("click", h); }), 0);
   }
 
-  async function refreshUser() { try { user = await API.me(); } catch (_) { user = null; } renderHeader(); if (user) startAlertLoop(); }
-  async function doLogout() { try { await API.logout(); } catch (_) {} user = null; stopAlertLoop(); renderHeader(); if (ctx) SantroCalc.render(ctx); }
+  async function refreshUser() {
+    try { user = await API.me(); } catch (_) { user = null; }
+    renderHeader(); if (user) startAlertLoop();
+    _wlSet = null; rerenderWatch();          // stars reflect the (new) auth state
+    if (user) completePending();             // finish the action that triggered signup
+  }
+  async function doLogout() { try { await API.logout(); } catch (_) {} user = null; stopAlertLoop(); renderHeader(); _wlSet = null; rerenderWatch(); if (ctx) SantroCalc.render(ctx); }
 
   // ── modal scaffolding ─────────────────────────────────────────────────
   let backdrop = null;
@@ -250,7 +255,6 @@
       host.appendChild(block);
       wireRunRow(block, stat);
       refreshUsage(block);
-      if (user) reflectPin(block);
       // Restore the last interactive result for this ticker (never a bare panel).
       const cached = cache[t.ticker];
       if (cached) {
@@ -258,6 +262,7 @@
         const gi = block.querySelector("#sa-g"), ri = block.querySelector("#sa-r");
         if (gi) gi.value = cached.a.growth; if (ri) ri.value = cached.a.discount;
         wireSensRerun(block);
+        wireValActs(block, cached.res, cached.a);
       }
     },
   };
@@ -289,12 +294,13 @@
       </div>`;
   }
   function runRowHtml(stat) {
-    // Pin renders for EVERYONE — anonymous clicks open the signup/sign-in modal
-    // (togglePin handles it), never a silently missing button.
-    const pinBtn = `<button class="sa-pin" id="sa-pin" title="${user ? "Pin to watchlist" : "Create a free account to pin tickers to your watchlist"}">☆ Pin</button>`;
+    // The ticker watchlist star does NOT live here — the star is a TICKER
+    // action and renders next to the ticker identity (page hero, terminal
+    // detail header, calculator tool header) via SantroWatch. This panel owns
+    // VALUATION actions only: Run → Save valuation → Share valuation card.
     if (stat && stat.storyStockFlag) {
       // No interactive valuation without an earnings base — don't let a click burn a run.
-      return `<div class="sa-runrow"><span class="sa-remaining">Interactive valuation N/A — no earnings to value on yet.</span>${pinBtn}</div>`;
+      return `<div class="sa-runrow"><span class="sa-remaining">Interactive valuation N/A — no earnings to value on yet.</span></div>`;
     }
     // Pre-fill growth with what the price implies, so the user starts from the
     // market's own assumption and adjusts from there (not an arbitrary 12%).
@@ -337,7 +343,7 @@
       </div>`;
     return assume + `<div class="sa-runrow">
         <button class="sa-run" id="sa-run">▶ Run valuation</button>
-        <span class="sa-remaining" id="sa-rem"></span>${pinBtn}
+        <span class="sa-remaining" id="sa-rem"></span>
       </div>`;
   }
   function nfaLine() { return `<div class="sa-nfa">Reverse-DCF &amp; sensitivity are scenarios, not forecasts. Premiums describe price vs. an assumption — a condition, not a recommendation. Not financial advice.</div>`; }
@@ -357,8 +363,6 @@
     }; });
     const runBtn = block.querySelector("#sa-run");
     if (runBtn) runBtn.onclick = () => doRun(block, stat);
-    const pin = block.querySelector("#sa-pin");
-    if (pin) pin.onclick = () => togglePin(block);
   }
 
   async function refreshUsage(block) {
@@ -369,6 +373,37 @@
       if (usage.authenticated) rem.innerHTML = `<b>${usage.remaining}</b> runs left today`;
       else rem.innerHTML = `<b>${usage.remaining}</b> of ${usage.limit} free runs left`;
     } catch (_) { rem.textContent = ""; }
+  }
+
+  // valuation-level actions: Save valuation (anon → account) + Share valuation card
+  function savedInputs(res, a) {
+    const model = res.model || a.model || "dcf";
+    const s = { model, eps: res.epsUsed };
+    if (model === "pe") s.mult = a.mult;
+    else if (model === "graham") { s.growth = a.growth; s.aaayield = a.aaayield; }
+    else if (model === "peg") { s.growth = a.growth; s.peg = a.peg; }
+    else { s.growth = a.growth; s.discount = a.discount; s.years = a.years; }
+    return s;
+  }
+  function wireValActs(block, res, a) {
+    if (!res || res.storyStockFlag) return;
+    const share = block.querySelector("#sa-share-val");
+    if (share) share.onclick = () => {
+      const payload = { tk: ctx.ticker, co: ctx.company || "", price: ctx.price,
+        model: res.model || a.model || "dcf", eps: res.epsUsed,
+        growth: a.growth, discount: a.discount, years: a.years, tgrowth: a.tgrowth,
+        mult: a.mult, aaayield: a.aaayield, peg: a.peg,
+        fair: res.fairValue, prem: res.premiumPct, pricedIn: res.pricedInGrowth,
+        at: new Date().toISOString() };
+      try { localStorage.setItem("santro_share_val", JSON.stringify(payload)); } catch (_) {}
+      location.href = "/share?type=valuation&ticker=" + encodeURIComponent(ctx.ticker) + "&state=santro_share_val";
+    };
+    const save = block.querySelector("#sa-save-val");
+    if (save) save.onclick = () => {
+      setPendingPayload("save_val", ctx.ticker,
+        { ticker: ctx.ticker, inputs: savedInputs(res, a), fair_value: res.fairValue, premium_pct: res.premiumPct });
+      openAuth("register");
+    };
   }
 
   async function doRun(block, stat) {
@@ -387,14 +422,11 @@
       out.innerHTML = resultsHtml(res, a);
       cache[ctx.ticker] = { res, a };   // survive panel re-renders
       wireSensRerun(block, stat);
+      wireValActs(block, res, a);
       await refreshUsage(block);
       if (user && !res.storyStockFlag) {
-        const saved = { model, eps: res.epsUsed };
-        if (model === "pe") saved.mult = a.mult;
-        else if (model === "graham") { saved.growth = a.growth; saved.aaayield = a.aaayield; }
-        else if (model === "peg") { saved.growth = a.growth; saved.peg = a.peg; }
-        else { saved.growth = a.growth; saved.discount = a.discount; saved.years = a.years; }
-        API.saveValuation({ ticker: ctx.ticker, inputs: saved, fair_value: res.fairValue, premium_pct: res.premiumPct })
+        // history save — surfaced by the "✓ Saved to your valuation history" line
+        API.saveValuation({ ticker: ctx.ticker, inputs: savedInputs(res, a), fair_value: res.fairValue, premium_pct: res.premiumPct })
           .catch(() => {});
       }
     } catch (e) {
@@ -427,6 +459,12 @@
         <b>${res.pricedInGrowth == null ? "—" : res.pricedInGrowth.toFixed(1) + "%"}</b> annual earnings growth (reverse-DCF).
         Premiums describe price vs. your assumption — a condition to watch, not advice.</div>
       ${sensitivityHtml(res.sensitivityGrid, ctx.price)}
+      <div class="sa-valacts">
+        ${user
+          ? `<span class="sa-valsaved">✓ Saved to your valuation history</span>`
+          : `<button type="button" class="sa-btn" id="sa-save-val" style="width:auto">Save valuation — free account</button>`}
+        <button type="button" class="sa-btn primary" id="sa-share-val" style="width:auto">Share valuation card ↗</button>
+      </div>
     </div>`;
   }
   function sensitivityHtml(grid, price) {
@@ -463,19 +501,93 @@
   }
   function wireGate(block) { const b = block.querySelector("#sa-gate-go"); if (b) b.onclick = () => openAuth("register"); }
 
+  // ── toast (small, self-dismissing) ────────────────────────────────────
+  function toast(txt) {
+    let t = document.getElementById("sa-toast");
+    if (!t) { t = node(`<div id="sa-toast" class="sa-toast" role="status"></div>`); document.body.appendChild(t); }
+    t.textContent = txt; t.classList.add("show");
+    clearTimeout(t._tm); t._tm = setTimeout(() => t.classList.remove("show"), 2200);
+  }
+
+  // ── TickerWatchlistButton (window.SantroWatch) ────────────────────────
+  // THE star. One component, mounted next to the ticker identity everywhere
+  // (stock hero, terminal detail header, calculator tool). The star always
+  // means "ticker → watchlist", never "save valuation".
+  const _watchMounts = [];        // re-render targets on auth change
+  let _wlSet = null;              // Set of pinned tickers (page-lifetime cache)
+  async function wlSet(force) {
+    if (_wlSet && !force) return _wlSet;
+    try { _wlSet = new Set((await API.listWatchlist()).map((w) => w.ticker)); }
+    catch (_) { _wlSet = new Set(); }
+    return _wlSet;
+  }
+  const PENDING_KEY = "santro_pending_action";
+  function setPending(action, ticker) {
+    try { sessionStorage.setItem(PENDING_KEY, JSON.stringify({ action, ticker, url: location.pathname + location.search, at: Date.now() })); } catch (_) {}
+  }
+  async function completePending() {
+    let p = null;
+    try { p = JSON.parse(sessionStorage.getItem(PENDING_KEY) || "null"); if (p) sessionStorage.removeItem(PENDING_KEY); } catch (_) {}
+    if (!p || !user || Date.now() - (p.at || 0) > 15 * 60 * 1000) return;
+    if (p.action === "pin" && p.ticker) {
+      try { await API.pin(p.ticker); await wlSet(true); toast(p.ticker + " added to your watchlist ✓"); rerenderWatch(); } catch (_) {}
+    } else if (p.action === "alert" && p.ticker) { openAlertsFor(p.ticker); }
+    else if (p.action === "save_val" && p.payload) {
+      try { await API.saveValuation(p.payload); toast("Valuation saved to your history ✓"); } catch (_) {}
+    }
+  }
+  function setPendingPayload(action, ticker, payload) {
+    try { sessionStorage.setItem(PENDING_KEY, JSON.stringify({ action, ticker, payload, url: location.pathname + location.search, at: Date.now() })); } catch (_) {}
+  }
+  function watchLabel(pinned, variant) { return pinned ? (variant === "icon" ? "★" : "★ Pinned") : (variant === "icon" ? "☆" : "☆ Add to watchlist"); }
+  async function renderWatchInto(el) {
+    const tk = el._watchTk, variant = el._watchVariant;
+    const pinned = user ? (await wlSet()).has(tk) : false;
+    const title = pinned ? `Remove ${tk} from watchlist` : `Add ${tk} to watchlist${user ? "" : " — free account"}`;
+    el.innerHTML = `<button type="button" class="sa-watch ${variant}${pinned ? " on" : ""}"
+      title="${esc(title)}" aria-label="${esc(title)}" aria-pressed="${pinned}">${watchLabel(pinned, variant)}</button>`;
+    const btn = el.firstElementChild;
+    btn.onclick = async () => {
+      if (!user) { setPending("pin", tk); openAuth("register"); return; }
+      const was = btn.classList.contains("on");
+      // optimistic flip; rollback on API failure
+      btn.classList.toggle("on", !was); btn.setAttribute("aria-pressed", String(!was));
+      btn.textContent = watchLabel(!was, variant); btn.disabled = true;
+      try {
+        if (was) { await API.unpin(tk); (await wlSet()).delete(tk); toast(tk + " removed from watchlist"); }
+        else { await API.pin(tk); (await wlSet()).add(tk); toast(tk + " added to your watchlist ✓"); }
+      } catch (e) {
+        btn.classList.toggle("on", was); btn.setAttribute("aria-pressed", String(was));
+        btn.textContent = watchLabel(was, variant);
+        toast("Couldn't update your watchlist right now.");
+      } finally { btn.disabled = false; }
+    };
+  }
+  function rerenderWatch() { _watchMounts.forEach((el) => { if (document.contains(el)) renderWatchInto(el); }); }
+  window.SantroWatch = {
+    mount(el, ticker, opts) {
+      if (!el || !ticker) return;
+      el._watchTk = String(ticker).toUpperCase(); el._watchVariant = (opts && opts.variant) || "button";
+      if (_watchMounts.indexOf(el) < 0) _watchMounts.push(el);
+      renderWatchInto(el);
+    },
+    refresh: rerenderWatch,
+  };
+
+  // ── Create alert entry point (hero button) ────────────────────────────
+  function openAlertsFor(tk) {
+    if (!user) { setPending("alert", tk); openAuth("register"); return; }
+    openSaved("watchlist");
+    // the modal loads async — open the alert editor for this ticker once ready
+    let n = 0; const iv = setInterval(() => {
+      const w = document.querySelector(".sa-modal > div");
+      if (w && w.querySelector("#wl-panel")) { clearInterval(iv); renderAlertPanel(w, tk); }
+      else if (++n > 30) clearInterval(iv);
+    }, 200);
+  }
+  window.SantroAlerts = { openFor: openAlertsFor };
+
   // ── watchlist / saved valuations modal ────────────────────────────────
-  async function togglePin(block) {
-    if (!user) { openAuth("home"); return; }
-    const btn = block.querySelector("#sa-pin"); const on = btn.classList.contains("on");
-    btn.disabled = true;
-    try { if (on) { await API.unpin(ctx.ticker); btn.classList.remove("on"); btn.textContent = "☆ Pin"; }
-      else { await API.pin(ctx.ticker); btn.classList.add("on"); btn.textContent = "★ Pinned"; } }
-    catch (_) {} finally { btn.disabled = false; }
-  }
-  async function reflectPin(block) {
-    const btn = block.querySelector("#sa-pin"); if (!btn) return;
-    try { const wl = await API.listWatchlist(); if (wl.some((w) => w.ticker === ctx.ticker)) { btn.classList.add("on"); btn.textContent = "★ Pinned"; } } catch (_) {}
-  }
   function openSaved(tab) {
     const w = node(`<div>
       <h2>Your saved data</h2>

@@ -1,0 +1,36 @@
+# Files to copy/paste to ChatGPT for the second opinion (in this order).
+# Frontend repo = santro-ai, backend repo = santro-accounts. No secrets in any of these.
+
+## Must share (the broken flows)
+santro-ai/accounts/auth-pages.js
+santro-ai/accounts/accounts.js
+santro-ai/accounts/api.js
+santro-ai/accounts/config.js
+santro-ai/quiz.html            (the <script> block, lines ~437-505, + the #xc-gate section)
+santro-ai/terminal.html        (script portion only, lines ~1280-1900; whole file is huge)
+santro-accounts/app/routers/account.py
+santro-accounts/app/schemas.py (preferences section, lines ~130-190)
+
+## Strongly recommended context
+santro-ai/ds-v2/gates.js
+santro-ai/ds-v2/locks.js
+santro-ai/ds-v2/lock-copy.js
+santro-ai/ds-v2/events.js
+santro-ai/dashboard.html
+santro-ai/index.html           (watchlist/alerts section lines ~1046-1090 + any [data-lock] row)
+santro-accounts/app/models.py
+santro-accounts/app/main.py
+santro-accounts/app/routers/watchlist.py
+santro-accounts/app/routers/usage.py
+santro-accounts/tests/test_profile_prefs.py
+santro-accounts/tests/test_saved_data.py
+
+## Optional
+santro-ai/gen_nav.py           (header/auth-slot generation, lines ~140-340)
+santro-accounts/app/routers/valuations.py
+santro-accounts/app/routers/alerts.py
+
+## Plus the audit itself
+santro-ai/audit/backend-discovery/DIAGNOSIS.md
+santro-ai/audit/backend-discovery/04-terminal-customization-flow.md
+santro-ai/audit/backend-discovery/03-sticker-flow-audit.md

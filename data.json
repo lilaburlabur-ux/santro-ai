@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-08T08:33:17+00:00",
-  "as_of_local": "2026-07-08 08:33:17 UTC",
+  "as_of_utc": "2026-07-08T08:38:15+00:00",
+  "as_of_local": "2026-07-08 08:38:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -119,6 +117,34 @@
       ]
     },
     {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 516.11,
+      "previous_close": 552.05,
+      "change_pct": -6.51,
+      "market_cap": 841569271908.5385,
+      "headlines": [
+        {
+          "title": "Samsung saw a record quarter, but it's not enough for investors. Here's why.",
+          "url": "https://finance.yahoo.com/video/samsung-saw-a-record-quarter-but-its-not-enough-for-investors-heres-why-203148500.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-07T20:31:48Z"
+        },
+        {
+          "title": "INTC, WDC, SNDK, AMD: Red-Hot AI Chip Stocks Lose Sheen In Samsung-Triggered Selloff",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intc-wdc-sndk-amd-red-024007702.html",
+          "publisher": "Stocktwits",
+          "published": "2026-07-08T02:40:07Z"
+        },
+        {
+          "title": "Why Advanced Micro Devices Stock Tanked on Tuesday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-advanced-micro-devices-stock-233413462.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-07T23:34:13Z"
+        }
+      ]
+    },
+    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 110.39,
@@ -180,7 +206,7 @@
       "price": 230.7,
       "previous_close": 249.27,
       "change_pct": -7.45,
-      "market_cap": 201990114339.12378,
+      "market_cap": 201816357330.32227,
       "headlines": [
         {
           "title": "3 Soaring Stocks That May Have More Upside Ahead",
@@ -437,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -7.86,
+          "price": 532.1,
           "currency": "USD"
         },
         {
@@ -527,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -7.86,
+        "price": 532.1,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61960.02,
-      "change_pct": -2.11
+      "price": 61856.59,
+      "change_pct": -2.28
     },
     {
       "label": "Gold",
-      "price": 4097.0,
-      "change_pct": -1.17
+      "price": 4101.1,
+      "change_pct": -1.07
     },
     {
       "label": "Nasdaq100",

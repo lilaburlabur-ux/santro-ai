@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-08T18:22:05+00:00",
+  "as_of": "2026-07-08T18:25:23+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,9 +11,9 @@
    "rank": 1,
    "ticker": "BABA",
    "company": "Alibaba Group Holding Ltd ADR",
-   "move_pct": 11.65,
-   "price": 109.57,
-   "volume": 29683146,
+   "move_pct": 11.63,
+   "price": 109.55,
+   "volume": 29807526,
    "volume_vs_avg": "~2x",
    "heat_score": 78,
    "direction": "up",
@@ -22,22 +22,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-jumps-10-ahead-earnings-173908162.html",
    "published": "2026-07-08T17:39:08Z",
    "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 2,
-   "ticker": "AVGO",
-   "company": "Broadcom Inc",
-   "move_pct": 5.15,
-   "price": 389.87,
-   "volume": 20207258,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 36,
-   "direction": "up",
-   "why": "Stocks to Watch: Broadcom, Alibaba, Chevron, Levi Strauss",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-08-2026/card/stocks-to-watch-micron-chevron-levi-strauss-qowXmV2vcTgrgwbwQIJg?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-07-08T17:33:51Z",
-   "sector": "AI Chips & Compute"
   }
  ]
 }

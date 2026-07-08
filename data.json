@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-08T23:35:35+00:00",
-  "as_of_local": "2026-07-08 23:35:35 UTC",
+  "as_of_utc": "2026-07-08T23:40:36+00:00",
+  "as_of_local": "2026-07-08 23:40:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/video/ai-spending-becoming-more-capital-120000916.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-07-08T12:00:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 436.98,
-      "previous_close": 432.57,
-      "change_pct": 1.02,
-      "market_cap": 2266385471181.0454,
-      "headlines": [
-        {
-          "title": "Veteran analyst drops massive Micron valuation prediction",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/veteran-analyst-drops-massive-micron-173300767.html",
-          "publisher": "TheStreet",
-          "published": "2026-07-08T17:33:00Z"
-        },
-        {
-          "title": "Revenue and Growth Outlook Affirm Why Taiwan Semiconductor Manufacturing Co. (TSM) is a Top AI Stock on Wall Street\u2019s Radar",
-          "url": "https://finance.yahoo.com/technology/ai/articles/revenue-growth-outlook-affirm-why-153912617.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-07-08T15:39:12Z"
-        },
-        {
-          "title": "Wall Street Thinks AI Is Slowing. Wall Street Is Wrong",
-          "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-thinks-ai-slowing-153414199.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-07-08T15:34:14Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62167.84,
-      "change_pct": -1.78
+      "price": 62146.25,
+      "change_pct": -1.82
     },
     {
       "label": "Gold",
-      "price": 4085.7,
-      "change_pct": -1.44
+      "price": 4085.4,
+      "change_pct": -1.45
     },
     {
       "label": "Nasdaq100",

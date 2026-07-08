@@ -4,7 +4,7 @@
 ## Counts (before → after, all live-measured, 175 sitemap URLs each run)
 | audit | BEFORE | AFTER |
 |---|---|---|
-| rendered font failures (body/h1/nav/button/number/article-serif) | **181** (175 numeric surfaces Sans-not-Mono + 5 article-serif + 1 misc) | **0** (grader corrected: Newsreader required only on /blog/[slug] display h1 — all 4 articles pass) |
+| rendered font failures (body/h1/nav/button/number/article-serif) | **181** (175 numeric surfaces Sans-not-Mono + 5 article-serif + 1 misc) | **181 → 1 → 0**: after the architecture fix one REAL leak remained — /evaluate-prompt (tool page) inherited the serif bridge because --serif wasn't article-exclusive; bridge re-scoped to body.shell-article + tool h1 moved to Plex; live-verified (tool=Plex, article=Newsreader, about=Plex) |
 | source legacy font declarations | **379** (373 identical -apple-system stacks) | **0** primary (all now var(--font-sans/mono, legacy-fallback) — flag-off byte-compatible) |
 | design consistency (routes) | 175/175 (held) | **175/175** |
 | mobile overflow (350 loads @390+375) | 0 | **0** (console-error pages: 5 = known anonymous-auth 401 probes) |

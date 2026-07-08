@@ -1,26 +1,47 @@
 #!/usr/bin/env bash
 # Santro external data-refresh runner (B2).
 # Runs the data scripts OUTSIDE GitHub Actions and pushes JSON to main; native
-# GitHub Pages serves the push (0 Actions minutes). Intended for a Render Cron
-# Job (Linux). Reads secrets from env — NEVER prints them.
+# GitHub Pages serves the push (0 Actions minutes). NEVER prints secrets.
 #
-# Env (names only): SANTRO_REPO_DIR (clone with push auth), SANTRO_PY (python
-# with yfinance/requests/pillow), CMC_API_KEY (crypto only). Git push auth is
-# whatever the runner's clone is configured with.
+# Two repo modes (pick one via env):
+#   SANTRO_REPO_DIR  — existing clone with push auth (Mac/local mode)
+#   GITHUB_TOKEN     — Render mode: shallow-clones the repo itself using a git
+#                      credential helper. The token is read from env at push
+#                      time only — never embedded in the URL, argv, or config.
+#     optional: REPO_OWNER (default lilaburlabur-ux), REPO_NAME (default
+#     santro-ai), BRANCH (default main)
+# Other env: SANTRO_PY (python with -r requirements.txt; default python3),
+#            CMC_API_KEY (crypto only, read by fetch_crypto.py itself)
 #
 # Usage: scripts/refresh_all.sh [frequent|daily]   (default: frequent)
 set -uo pipefail
 
-LOCK="${SANTRO_LOCK:-/tmp/santro_refresh.lock}"
+MODE="${1:-frequent}"
+PY="${SANTRO_PY:-python3}"
+BRANCH="${BRANCH:-main}"
+
+LOCK="${SANTRO_LOCK:-/tmp/santro_refresh_${MODE}.lock}"
 if command -v flock >/dev/null 2>&1; then
-  exec 9>"$LOCK"; flock -n 9 || { echo "$(date -u +%T) another run in progress; skip"; exit 0; }
+  exec 9>"$LOCK"; flock -n 9 || { echo "$(date -u +%T) another $MODE run in progress; skip"; exit 0; }
 fi
 
-cd "${SANTRO_REPO_DIR:?set SANTRO_REPO_DIR to a santro-ai clone with push auth}"
-PY="${SANTRO_PY:-python3}"
-MODE="${1:-frequent}"
+# credential helper: reads GITHUB_TOKEN from env when git needs it. The single
+# quotes keep the placeholder UNEXPANDED in config/argv — no secret at rest.
+CRED='!f(){ echo "username=x-access-token"; echo "password=${GITHUB_TOKEN}"; };f'
 
-git pull --rebase -X theirs origin main || true
+if [ -n "${SANTRO_REPO_DIR:-}" ]; then
+  cd "$SANTRO_REPO_DIR"
+else
+  : "${GITHUB_TOKEN:?set SANTRO_REPO_DIR or GITHUB_TOKEN}"
+  OWNER="${REPO_OWNER:-lilaburlabur-ux}"; NAME="${REPO_NAME:-santro-ai}"
+  WORK="$(mktemp -d)"; trap 'rm -rf "$WORK"' EXIT
+  git -c credential.helper="$CRED" clone -q --depth 50 --branch "$BRANCH" \
+    "https://github.com/${OWNER}/${NAME}.git" "$WORK/repo" || { echo "clone failed" >&2; exit 1; }
+  cd "$WORK/repo"
+  git config credential.helper "$CRED"   # placeholder only; value stays in env
+fi
+
+git pull -q --rebase --autostash -X theirs origin "$BRANCH" || true
 
 if [ "$MODE" = "daily" ]; then
   "$PY" update_universe.py  || true
@@ -46,9 +67,13 @@ if git diff --cached --quiet; then
   echo "$(date -u +'%F %H:%M UTC') no data changes [$MODE]"; exit 0
 fi
 git -c user.name=santro-data-bot -c user.email=actions@users.noreply.github.com \
-  commit -m "data refresh $(date -u +'%F %H:%M UTC') [$MODE]" || exit 0
+  commit -q -m "data refresh $(date -u +'%F %H:%M UTC') [$MODE]" || exit 0
+# Unstaged leftovers block rebase ("cannot pull with rebase"). In the DISPOSABLE
+# self-clone the tree is ours: discard noise after committing. In a persistent
+# SANTRO_REPO_DIR clone never discard (could eat human WIP) — autostash instead.
+if [ -z "${SANTRO_REPO_DIR:-}" ]; then git checkout -q -- . 2>/dev/null || true; fi
 for i in $(seq 1 6); do
-  if git pull --rebase -X theirs origin main && git push; then
+  if git pull -q --rebase --autostash -X theirs origin "$BRANCH" && git push -q origin "HEAD:$BRANCH"; then
     echo "$(date -u +'%F %H:%M UTC') pushed on attempt $i [$MODE]"; exit 0
   fi
   git rebase --abort 2>/dev/null || true

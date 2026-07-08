@@ -1,0 +1,6 @@
+# Runtime deps for the data-refresh scripts (scripts/refresh_all.sh).
+# Verified against actual imports across all 14 data scripts — nothing else.
+yfinance
+requests
+beautifulsoup4
+pillow

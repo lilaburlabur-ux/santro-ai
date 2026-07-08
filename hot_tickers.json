@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-08T11:35:53+00:00",
+  "as_of": "2026-07-08T11:51:05+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "BABA",
    "company": "Alibaba Group Holding Ltd ADR",
-   "move_pct": 9.11,
-   "price": 107.08,
+   "move_pct": 9.23,
+   "price": 107.2,
    "volume": 10187700,
    "volume_vs_avg": "~0.8x",
    "heat_score": 61,
    "direction": "up",
-   "why": "Cathie Wood Buys $7 Million of SpaceX Stock After Unloading Alibaba",
+   "why": "Alibaba jumps premarket; Rivian, Bath & Body Works fall",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-7-million-103500203.html",
-   "published": "2026-07-08T10:35:00Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-jumps-premarket-rivian-bath-112846720.html",
+   "published": "2026-07-08T11:28:46Z",
    "sector": "AI Platforms, Internet & AdTech"
   }
  ]

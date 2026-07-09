@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-09T01:36:58+00:00",
-  "as_of_local": "2026-07-09 01:36:58 UTC",
+  "as_of_utc": "2026-07-09T01:40:24+00:00",
+  "as_of_local": "2026-07-09 01:40:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -206,7 +208,7 @@
       "price": 231.71,
       "previous_close": 230.7,
       "change_pct": 0.44,
-      "market_cap": 202699913873.29102,
+      "market_cap": 202874431594.17773,
       "headlines": [
         {
           "title": "Top financial expert declares Marvell 'no longer a marvelous buy'",
@@ -253,34 +255,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/3-beaten-down-ai-semiconductor-124200713.html",
           "publisher": "Zacks",
           "published": "2026-07-08T12:42:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 283.81,
-      "previous_close": 273.15,
-      "change_pct": 3.9,
-      "market_cap": 71653816314.60553,
-      "headlines": [
-        {
-          "title": "Nvidia, Chip Stocks Rally Despite U.S.-Iran War Flare-Up",
-          "url": "https://www.investors.com/news/technology/nvidia-stock-chip-stocks-waver-sox/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-07-08T20:45:18Z"
-        },
-        {
-          "title": "Texas Instruments Stock Is Running On A Bold Promise",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-stock-running-bold-183738468.html",
-          "publisher": "Trefis",
-          "published": "2026-07-08T18:37:38Z"
-        },
-        {
-          "title": "4 Semiconductor Stocks to Benefit as Cars Become AI-Powered",
-          "url": "https://finance.yahoo.com/technology/articles/4-semiconductor-stocks-benefit-cars-140300450.html",
-          "publisher": "Zacks",
-          "published": "2026-07-08T14:03:00Z"
         }
       ]
     },
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 8.38,
-          "price": 2250000.0,
+          "change_pct": 8.91,
+          "price": 2261000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 3.96,
-          "price": 288500.0,
+          "change_pct": 4.05,
+          "price": 288750.0,
           "currency": "KRW"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 6.57,
-          "price": 422.0,
+          "change_pct": 8.84,
+          "price": 431.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 3.26,
-          "price": 174.0,
+          "change_pct": 5.04,
+          "price": 177.0,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 8.38,
-        "price": 2250000.0,
+        "change_pct": 8.91,
+        "price": 2261000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 3.96,
-        "price": 288500.0,
+        "change_pct": 4.05,
+        "price": 288750.0,
         "currency": "KRW"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 6.57,
-        "price": 422.0,
+        "change_pct": 8.84,
+        "price": 431.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 3.26,
-        "price": 174.0,
+        "change_pct": 5.04,
+        "price": 177.0,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62248.39,
-      "change_pct": -1.66
+      "price": 62201.42,
+      "change_pct": -1.73
     },
     {
       "label": "Gold",
-      "price": 4080.2,
-      "change_pct": -1.57
+      "price": 4077.1,
+      "change_pct": -1.65
     },
     {
       "label": "Nasdaq100",

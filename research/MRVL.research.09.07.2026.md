@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| U.S. chip stocks rebound, tracking China semiconductor rally | Investing.com | 2026-07-09 |
 | Zacks Investment Ideas feature highlights: Marvell Technology, Amazon, Alphabet and NVIDIA | Zacks | 2026-07-09 |
 | Top financial expert declares Marvell 'no longer a marvelous buy' | TheStreet | 2026-07-08 |
 | The MediaTek Ghost Story Just Dropped the World’s Most Powerful Custom-Silicon Juggernaut Into a 25% Discount Zone | 24/7 Wall St. | 2026-07-08 |
-| Marvell (MRVL) Is Down 22.6% After NVIDIA’s $2 Billion AI Bet And Index Exit - What's Changed | Simply Wall St. | 2026-07-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,7 +74,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 85.50% |
+| Institutional ownership | 85.52% |
 | Insider ownership | 0.69% |
 | Short float | 5.26% |
 | Short ratio (days to cover) | 0.7 |
@@ -122,7 +122,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | SMA50 dist | +1.58% | ROE | 16.03% |
 | SMA200 dist | +85.28% | Revenue (ttm) | $8.72B |
 | 52W high | $316.43 | Revenue growth y/y | 27.60% |
-| 52W low | $62.19 | Inst. ownership | 85.50% |
+| 52W low | $62.19 | Inst. ownership | 85.52% |
 | P/E (ttm) | 79.63 | Insider ownership | 0.69% |
 | Forward P/E | 37.51 | Short float | 5.26% |
 | PEG (trailing) | 1.39 | Avg volume | 43,086,185 |

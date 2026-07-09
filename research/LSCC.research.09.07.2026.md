@@ -74,7 +74,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 108.52% |
+| Institutional ownership | 102.47% |
 | Insider ownership | 0.63% |
 | Short float | 7.90% |
 | Short ratio (days to cover) | 2.5 |
@@ -121,7 +121,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | SMA50 dist | -3.05% | ROE | 2.75% |
 | SMA200 dist | +37.35% | Revenue (ttm) | $574.01M |
 | 52W high | $155.27 | Revenue growth y/y | 42.20% |
-| 52W low | $48.73 | Inst. ownership | 108.52% |
+| 52W low | $48.73 | Inst. ownership | 102.47% |
 | P/E (ttm) | 883.20 | Insider ownership | 0.63% |
 | Forward P/E | 57.32 | Short float | 7.90% |
 | PEG (trailing) | — | Avg volume | 2,201,535 |

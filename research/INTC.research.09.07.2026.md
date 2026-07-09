@@ -38,8 +38,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 |---|---|---|
 | AI memory stocks trim losses as investors buy the dip | Yahoo Finance | 2026-07-08 |
 | Nvidia's valuation just hit a multiyear low — even as revenue sets records | Yahoo Finance | 2026-07-08 |
-| Is This The Big Tech Resurgence Investors Have Been Waiting For? AI Chip Stocks Step Back, Mag 7 Steps Up In July | Stocktwits | 2026-07-09 |
-| Should You Buy Intel Stock Before July 23? | Motley Fool | 2026-07-08 |
+| U.S. chip stocks rebound, tracking China semiconductor rally | Investing.com | 2026-07-09 |
+| President Donald Trump Is Buying Dell. Should You? | Motley Fool | 2026-07-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,7 +74,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 63.98% |
+| Institutional ownership | 64.07% |
 | Insider ownership | 14.72% |
 | Short float | 2.86% |
 | Short ratio (days to cover) | 1.1 |
@@ -121,7 +121,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | SMA50 dist | -4.92% | ROE | -2.91% |
 | SMA200 dist | +78.83% | Revenue (ttm) | $53.76B |
 | 52W high | $140.94 | Revenue growth y/y | 7.20% |
-| 52W low | $19.31 | Inst. ownership | 63.98% |
+| 52W low | $19.31 | Inst. ownership | 64.07% |
 | P/E (ttm) | — | Insider ownership | 14.72% |
 | Forward P/E | 70.58 | Short float | 2.86% |
 | PEG (trailing) | — | Avg volume | 135,583,637 |

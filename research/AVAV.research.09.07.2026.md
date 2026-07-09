@@ -74,8 +74,8 @@ AeroVironment, Inc. designs, develops, produces, delivers, and supports a portfo
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 89.31% |
-| Insider ownership | 0.77% |
+| Institutional ownership | 89.32% |
+| Insider ownership | 0.90% |
 | Short float | 12.56% |
 | Short ratio (days to cover) | 3.9 |
 
@@ -123,8 +123,8 @@ AeroVironment, Inc. designs, develops, produces, delivers, and supports a portfo
 | SMA50 dist | -9.04% | ROE | -10.03% |
 | SMA200 dist | -37.56% | Revenue (ttm) | $1.98B |
 | 52W high | $409.83 | Revenue growth y/y | 133.30% |
-| 52W low | $136.68 | Inst. ownership | 89.31% |
-| P/E (ttm) | — | Insider ownership | 0.77% |
+| 52W low | $136.68 | Inst. ownership | 89.32% |
+| P/E (ttm) | — | Insider ownership | 0.90% |
 | Forward P/E | 34.32 | Short float | 12.56% |
 | PEG (trailing) | — | Avg volume | 1,570,654 |
 | P/S | 4.04 | Employees | 3,991 |

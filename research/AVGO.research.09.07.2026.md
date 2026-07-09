@@ -38,8 +38,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 |---|---|---|
 | Broadcom stock jumps on Apple AI chip deal, while Nvidia's relative stock price drops | Yahoo Finance Video | 2026-07-08 |
 | Apple & Broadcom ramp up American manufacturing with $30B AI chip partnership | Yahoo Finance Video | 2026-07-08 |
-| Apple announces chip deal with Broadcom worth more than $30 billion | Yahoo Finance | 2026-07-08 |
-| Why Broadcom Stock Rose Today | Motley Fool | 2026-07-09 |
+| Prediction: TSMC Stock Is Going to Soar After July 16 | Motley Fool | 2026-07-09 |
+| Apple signs $30bn Broadcom deal to boost US chip production | Verdict | 2026-07-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

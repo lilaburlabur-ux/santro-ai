@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| Wall Street's next AI trade is smaller than a grain of rice: One Big Idea | Yahoo Finance | 2026-07-09 |
 | AI memory stocks trim losses as investors buy the dip | Yahoo Finance | 2026-07-08 |
-| Is This The Big Tech Resurgence Investors Have Been Waiting For? AI Chip Stocks Step Back, Mag 7 Steps Up In July | Stocktwits | 2026-07-09 |
-| Zacks Investment Ideas feature highlights: Micron Technology and Qualcomm | Zacks | 2026-07-09 |
-| Micron vs. SK Hynix: Futurum's Shay Boloor Picks MU Over Nvidia's 'Biggest' Provider, Citing 'Wonky' Korean Markets | Benzinga | 2026-07-09 |
+| U.S. chip stocks rebound, tracking China semiconductor rally | Investing.com | 2026-07-09 |
+| Micron Stock Steadies After Memory Selloff, BofA Says It’s Time to Buy | Barrons.com | 2026-07-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

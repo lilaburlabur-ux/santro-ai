@@ -38,8 +38,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 |---|---|---|
 | AI memory stocks trim losses as investors buy the dip | Yahoo Finance | 2026-07-08 |
 | Nvidia's valuation just hit a multiyear low — even as revenue sets records | Yahoo Finance | 2026-07-08 |
-| Cathie Wood Sold $8 Million of AMD Stock in a Single Day | Motley Fool | 2026-07-09 |
-| AMD (AMD) Stock Looks Fully Valued Despite Strong AI Growth Hopes | Simply Wall St. | 2026-07-08 |
+| Prediction: TSMC Stock Is Going to Soar After July 16 | Motley Fool | 2026-07-09 |
+| U.S. chip stocks rebound, tracking China semiconductor rally | Investing.com | 2026-07-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,7 +74,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 71.96% |
+| Institutional ownership | 71.98% |
 | Insider ownership | 0.40% |
 | Short float | 2.88% |
 | Short ratio (days to cover) | 1.5 |
@@ -120,7 +120,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | SMA50 dist | +9.40% | ROE | 8.06% |
 | SMA200 dist | +82.36% | Revenue (ttm) | $37.45B |
 | 52W high | $580.91 | Revenue growth y/y | 37.80% |
-| 52W low | $137.82 | Inst. ownership | 71.96% |
+| 52W low | $137.82 | Inst. ownership | 71.98% |
 | P/E (ttm) | 172.47 | Insider ownership | 0.40% |
 | Forward P/E | 39.20 | Short float | 2.88% |
 | PEG (trailing) | 1.24 | Avg volume | 36,704,770 |

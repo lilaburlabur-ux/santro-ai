@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | China warned that Anthropic's Claude Code puts your data at risk. Is that true? | Yahoo Finance Video | 2026-07-08 |
 | Nvidia's valuation just hit a multiyear low — even as revenue sets records | Yahoo Finance | 2026-07-08 |
-| Here's Why This Unstoppable Vanguard ETF Could Be a Great Buy With AI Stocks Pulling Back | Motley Fool | 2026-07-09 |
-| Some Good and Bad News for Tesla Investors | Motley Fool | 2026-07-09 |
+| Prediction: TSMC Stock Is Going to Soar After July 16 | Motley Fool | 2026-07-09 |
+| Jamie Dimon Said the Clarity Act's Stablecoin Rules Will "Blow Up" the System. JPMorgan Chase's June 29 Position Paper Explains Why. | Motley Fool | 2026-07-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $253.49B | Revenue growth 85.20% y/y |
 | Profitability | Gross 74.14%, operating 65.60%, net 62.97% | ROA 52.73%, ROE 114.29% |
 | Balance sheet | Cash $53.17B, debt $12.81B | Current ratio 3.44, debt/equity 6.55 |
-| Valuation | P/E 30.11, forward P/E 15.99, P/S 19.50, P/B 25.29 | EV/Sales 19.33, EV/EBITDA 29.60 |
+| Valuation | P/E 31.26, forward P/E 15.99, P/S 19.50, P/B 25.29 | EV/Sales 19.33, EV/EBITDA 29.60 |
 | Growth expectations | Earnings growth 214.50%, EPS q/q 210.60% | Analyst mean target $301.62 (58 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | SMA200 dist | +6.65% | Revenue (ttm) | $253.49B |
 | 52W high | $235.74 | Revenue growth y/y | 85.20% |
 | 52W low | $159.97 | Inst. ownership | 70.81% |
-| P/E (ttm) | 30.11 | Insider ownership | 3.98% |
+| P/E (ttm) | 31.26 | Insider ownership | 3.98% |
 | Forward P/E | 15.99 | Short float | 1.29% |
 | PEG (trailing) | 0.60 | Avg volume | 158,836,500 |
 | P/S | 19.50 | Employees | 42,000 |

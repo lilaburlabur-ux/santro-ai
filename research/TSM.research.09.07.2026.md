@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Prediction: TSMC Stock Is Going to Soar After July 16 | Motley Fool | 2026-07-09 |
 | Veteran analyst drops massive Micron valuation prediction | TheStreet | 2026-07-08 |
 | Revenue and Growth Outlook Affirm Why Taiwan Semiconductor Manufacturing Co. (TSM) is a Top AI Stock on Wall Street’s Radar | Insider Monkey | 2026-07-08 |
 | Wall Street Thinks AI Is Slowing. Wall Street Is Wrong | 24/7 Wall St. | 2026-07-08 |
-| TSMC Outpaces Sector & Peers in a Year: Is the Stock Still a Buy? | Zacks | 2026-07-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.10T | Revenue growth 35.10% y/y |
 | Profitability | Gross 61.87%, operating 58.10%, net 46.51% | ROA 17.32%, ROE 36.21% |
 | Balance sheet | Cash $3.38T, debt $1.09T | Current ratio 2.49, debt/equity 18.45 |
-| Valuation | P/E 37.61, forward P/E 21.54, P/S 0.55, P/B 99.00 | EV/Sales 3.87, EV/EBITDA 5.56 |
+| Valuation | P/E 38.03, forward P/E 21.54, P/S 0.55, P/B 99.00 | EV/Sales 3.87, EV/EBITDA 5.56 |
 | Growth expectations | Earnings growth 58.40%, EPS q/q 58.30% | Analyst mean target $490.34 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | SMA200 dist | +26.59% | Revenue (ttm) | $4.10T |
 | 52W high | $477.57 | Revenue growth y/y | 35.10% |
 | 52W low | $224.84 | Inst. ownership | 15.66% |
-| P/E (ttm) | 37.61 | Insider ownership | 0.04% |
+| P/E (ttm) | 38.03 | Insider ownership | 0.04% |
 | Forward P/E | 21.54 | Short float | 0.51% |
 | PEG (trailing) | 1.42 | Avg volume | 14,016,801 |
 | P/S | 0.55 | Employees | 76,907 |

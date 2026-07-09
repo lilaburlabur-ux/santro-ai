@@ -74,7 +74,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 96.03% |
+| Institutional ownership | 96.05% |
 | Insider ownership | 0.07% |
 | Short float | 11.26% |
 | Short ratio (days to cover) | 1.3 |
@@ -122,10 +122,10 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | SMA50 dist | -1.39% | ROE | 11.95% |
 | SMA200 dist | +67.25% | Revenue (ttm) | $4.92B |
 | 52W high | $439.46 | Revenue growth y/y | 20.10% |
-| 52W low | $104.55 | Inst. ownership | 96.03% |
+| 52W low | $104.55 | Inst. ownership | 96.05% |
 | P/E (ttm) | 357.43 | Insider ownership | 0.07% |
 | Forward P/E | 97.45 | Short float | 11.26% |
-| PEG (trailing) | 2.60 | Avg volume | 11,031,961 |
+| PEG (trailing) | 2.48 | Avg volume | 11,031,961 |
 | P/S | 65.18 | Employees | 9,584 |
 | P/B | 38.56 | Analyst rec (1=buy..5=sell) | 1.9 |
 

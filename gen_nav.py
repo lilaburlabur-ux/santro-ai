@@ -22,7 +22,7 @@ NAV = [
        desc="The main Santro market view across AI stocks, ETFs, crypto, hot tickers, and bubble-risk signals.",
        links=[
          ("AI Terminal", "/terminal", "Bubble map, market tape, hot tickers, and the daily brief.", "live"),
-         ("AI Stocks", "/stocks", "84 AI names ranked by heat, research on every ticker.", None),
+         ("AI Stocks", "/stocks", "99 AI names ranked by heat, research on every ticker.", None),
          ("AI Crypto", "/crypto", "AI tokens and rotating crypto baskets.", None),
          ("AI ETFs", "/etfs", "40 AI & tech ETFs, broad tech to pure-play robotics.", None),
          ("Market News", "/news", "Headlines that move the AI trade.", None),
@@ -49,11 +49,12 @@ NAV = [
          ("Burry Short Watch", "/stocks/burry-short-watch", "Scion's disclosed AI puts, verified in filings.", None),
        ]),
   dict(key="universe", label="AI Universe",
-       desc="84 tickers across seven themes. Hot means attention, not direction.",
+       desc="99 tickers across eight themes. Hot means attention, not direction.",
        links=[
          ("All AI Stocks", "/stocks", "The full universe, ranked by heat.", None),
          ("AI Chips & Compute", "/stocks/themes/ai-chips-and-compute", "NVDA, AMD, AVGO and the accelerator complex.", None),
          ("AI Software & Cloud", "/stocks/themes/ai-software-and-cloud-infrastructure", "Hyperscalers and the model platforms.", None),
+         ("Powering AI", "/stocks/themes/powering-ai", "Nuclear, turbines, uranium & the grid behind AI.", None),
          ("Data-Center Power & Energy", "/stocks/themes/data-center-power-and-energy", "The electrons behind the GPUs.", None),
          ("Chip Equipment & AI Hardware", "/stocks/themes/chip-equipment-and-ai-hardware", "ASML, memory, and the fab supply chain.", None),
          ("AI Platforms & Adtech", "/stocks/themes/ai-platforms-internet-and-adtech", "Internet platforms monetizing AI.", None),
@@ -63,7 +64,7 @@ NAV = [
   dict(key="maps", label="Market Maps", more=True,
        desc="Visual entry points into the same delayed data.",
        links=[
-         ("Stock Bubble Map", "/terminal", "84 bubbles sized by cap, colored by heat.", None),
+         ("Stock Bubble Map", "/terminal", "99 bubbles sized by cap, colored by heat.", None),
          ("Crypto Movers", "/crypto", "AI tokens ranked by momentum.", None),
          ("ETF Map", "/etfs", "Overlap-aware list of the AI ETF complex.", None),
          ("Bubble-Risk Gauge", "/bubble", "One dial for the whole AI trade.", None),

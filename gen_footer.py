@@ -122,6 +122,7 @@ FOOTER = """<!-- mega-footer v1 -->
       <ul>
         <li><a href="/stocks/themes/ai-chips-and-compute">AI Chips &amp; Compute</a></li>
         <li><a href="/stocks/themes/ai-software-and-cloud-infrastructure">AI Software &amp; Cloud</a></li>
+        <li><a href="/stocks/themes/powering-ai">Powering AI</a></li>
         <li><a href="/stocks/themes/data-center-power-and-energy">Data-Center Power &amp; Energy</a></li>
         <li><a href="/stocks/themes/chip-equipment-and-ai-hardware">Chip Equipment &amp; AI Hardware</a></li>
         <li><a href="/stocks/themes/ai-platforms-internet-and-adtech">AI Platforms &amp; Adtech</a></li>
@@ -161,7 +162,8 @@ INDEX_EXTRA = ('<span class="mg-note">Santro AI is available at santroai.tech. '
                'Santro AI is an AI market research terminal and is not affiliated with '
                'Hyundai Santro, Santara Tech, or santro-tech.com.</span>')
 
-FOOT_RE = re.compile(r"<footer[^>]*>.*?</footer>", re.S)
+# swallow any previously stacked marker comments so reruns don't accumulate them
+FOOT_RE = re.compile(r"(?:<!--\s*mega-footer v1\s*-->\s*)*<footer[^>]*>.*?</footer>", re.S)
 
 files = sorted(set(glob.glob("*.html") + glob.glob("*/*.html") + glob.glob("*/*/*.html")))
 replaced = inserted = skipped = 0

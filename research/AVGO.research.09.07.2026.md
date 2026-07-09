@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Broadcom Stock Investors Just Got Incredible News from Apple CEO Tim Cook | Motley Fool | 2026-07-09 |
 | Nvidia owns the AI chips market. Google, Amazon, and others are coming | Quartz | 2026-07-09 |
 | Meta Stock Jumps As AI Battle Heats Up. Zuckerberg Says Cloud Business 'Make Sense.' | Investor's Business Daily | 2026-07-09 |
 | Three Enticing Clues Put This Broadcom Partner, Nvidia Rival In Focus | Investor's Business Daily | 2026-07-09 |
-| $35 Billion AI Credit Deal Nears Trading as Broadcom Financing Advances | GuruFocus.com | 2026-07-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

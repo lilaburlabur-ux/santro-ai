@@ -13,7 +13,7 @@ Run after adding/removing a route:  python3 gen_nav.py
 """
 import glob, html, os, re, sys
 
-V = "5"  # bump with nav.js?v= — ALWAYS bump here; the src tag uses {V}
+V = "6"  # bump with nav.js?v= — ALWAYS bump here; the src tag uses {V}
 
 # ── the navigation config ──────────────────────────────────────────────────
 # label/href/desc/badge per link; badge: live | account | soon | None
@@ -45,6 +45,7 @@ NAV = [
          ("Blog", "/blog", "Long-form pieces on bubbles, valuation, and AI credit.", None),
          ("AI Bubble or Market Reset?", "/blog/ai-bubble-valuation-history", "The flagship read: CAPE, real-terms history, dot-com lessons.", None),
          ("IPO Watch", "/ipos", "Anthropic to SK hynix — 10 filings tracked on EDGAR.", None),
+         ("Investor Signal Library", "/investor-signals", "Publicly disclosed positioning, mapped to AI market context.", "live"),
          ("Aschenbrenner Basket", "/stocks/aschenbrenner", "Situational Awareness LP's 13F, position by position.", None),
          ("Burry Short Watch", "/stocks/burry-short-watch", "Scion's disclosed AI puts, verified in filings.", None),
        ]),

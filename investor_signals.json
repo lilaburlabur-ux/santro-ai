@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "feature": "Investor Signal Library",
+    "positioning": "Publicly disclosed trades, baskets and market theses — mapped against AI sector heat, valuation pressure and bubble risk.",
+    "methodology": "Signals are based on public filings, public reports, fund letters or human research. Santro turns them into structured market context. Not financial advice.",
+    "rules": [
+      "No signal without source_quality and status.",
+      "Media-only sourcing is labeled 'reported', never 'confirmed'.",
+      "13F-based signals always carry the delay warning.",
+      "Interpretation is labeled santro_interpretation, never attributed to the investor.",
+      "Holdings are never asserted as current beyond the latest dated source."
+    ],
+    "last_reviewed": "2026-07-09"
+  },
+  "signals": [
+    {
+      "id": "burry-ai-short-watch",
+      "title": "Michael Burry AI Short Watch",
+      "investor": "Michael Burry",
+      "fund": "Scion Asset Management",
+      "signal_type": "short_watch",
+      "status": "historical",
+      "source_quality": "filing",
+      "disclosure_date": "2025-11-03",
+      "period": "Q3 2025 (period 2025-09-30)",
+      "source_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1649339/000164933925000007/0001649339-25-000007-index.html"
+      ],
+      "source_notes": "Q3 2025 Form 13F, filed 2025-11-03. 13Fs disclose put option notionals but not strike or expiry. No 13F filed since; Scion has reportedly wound down operations — current positioning unknown.",
+      "delay_warning": "Public filings may be delayed and may not reflect current holdings.",
+      "theme": "AI valuation pressure",
+      "thesis_summary": "The Q3 2025 13F disclosed put options against NVDA and PLTR — a defined-risk position against AI/GPU valuation. Not a prediction; a filed, dated position.",
+      "santro_interpretation": "Santro tracks the names the filing touched: chip-sector heat and crowding, NVDA/PLTR moves, and the AI bubble-risk gauge. The signal is historical context, not a live book.",
+      "tickers": ["NVDA", "PLTR"],
+      "etfs": [],
+      "crypto": [],
+      "sectors": ["ai_chips_and_compute", "ai_applications_and_data_software"],
+      "page": "/stocks/burry-short-watch",
+      "related_santro_features": ["bubble_risk", "hot_tickers", "fair_value", "portfolio_stress", "bubble_map"],
+      "risk_lens": ["valuation", "crowding", "single-name concentration"],
+      "not_financial_advice": true,
+      "last_reviewed": "2026-07-09"
+    },
+    {
+      "id": "aschenbrenner-ai-infrastructure",
+      "title": "Aschenbrenner AI Infrastructure Basket",
+      "investor": "Leopold Aschenbrenner",
+      "fund": "Situational Awareness LP",
+      "signal_type": "infrastructure_basket",
+      "status": "publicly_disclosed",
+      "source_quality": "filing",
+      "disclosure_date": "2026-05-18",
+      "period": "Q1 2026 (period 2026-03-31)",
+      "source_urls": [
+        "https://www.sec.gov/Archives/edgar/data/2045724/000204572426000008/0002045724-26-000008-index.html",
+        "https://fortune.com/2026/03/05/leopold-aschenbrenner-ai-hedge-fund-superintelligence-agi-power-companies-crypto-miners/",
+        "https://situational-awareness.ai/"
+      ],
+      "source_notes": "Q1 2026 Form 13F (SEC EDGAR, CIK 2045724) plus reputable-media coverage (Fortune) and the fund's public thesis essays. NBIS stake separately reported via 13G (~5.6%).",
+      "delay_warning": "Public filings may be delayed and may not reflect current holdings.",
+      "theme": "AI infrastructure — compute, power, memory",
+      "thesis_summary": "A concentrated public book behind one thesis: AI capability scaling is bottlenecked by physical infrastructure — GPU compute, electricity, and the fab/memory chain.",
+      "santro_interpretation": "Santro maps the disclosed names against the Powering AI theme, data-center power heat, and chip-equipment rotation. Position sizes are as-of the filing period only.",
+      "tickers": ["NBIS", "CRWV", "IREN", "CIFR", "BTDR", "BE", "CEG", "VST", "ORCL", "ASML", "SNDK"],
+      "etfs": ["SMH"],
+      "crypto": [],
+      "sectors": ["powering_ai", "data_center_power_and_energy", "chip_equipment_and_ai_hardware"],
+      "page": "/stocks/aschenbrenner",
+      "related_santro_features": ["bubble_risk", "hot_tickers", "fair_value", "portfolio_stress", "bubble_map"],
+      "risk_lens": ["concentration", "power-buildout execution", "filing lag"],
+      "not_financial_advice": true,
+      "last_reviewed": "2026-07-09"
+    }
+  ]
+}

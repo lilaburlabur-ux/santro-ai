@@ -134,12 +134,28 @@
           var e2 = await (await fetch("/ecosystem.json?t=" + Date.now())).json();
           e2.tickers.forEach(add);
         } catch (e) {}
+        // feature/research pages — searchable by name and keywords
+        [
+          { page: 1, nm: "Investor Signal Library", url: "/investor-signals",
+            kw: "investor signals signal library verified investor plays smart money conviction disclosed positioning" },
+          { page: 1, nm: "Michael Burry — AI Short Watch", url: "/stocks/burry-short-watch",
+            kw: "burry michael burry scion ai short watch puts shorts 13f" },
+          { page: 1, nm: "Aschenbrenner — AI Infrastructure Basket", url: "/stocks/aschenbrenner",
+            kw: "aschenbrenner leopold situational awareness ai infrastructure basket 13f powering" },
+          { page: 1, nm: "Powering AI — energy theme", url: "/stocks/themes/powering-ai",
+            kw: "powering ai energy nuclear uranium grid turbines power" }
+        ].forEach(function (p) { list.push(p); });
         idx = list;
         return list;
       })();
       return idxPromise;
     }
     function score(t, q) {
+      if (t.page) {   // feature/research pages — matched on name + keywords
+        var pn = t.nm.toLowerCase();
+        if (pn.indexOf(q) === 0) return 2; if (pn.indexOf(q) > -1) return 4;
+        if (t.kw.indexOf(q) > -1) return 5; return 9;
+      }
       var tk = t.tk.toLowerCase(), nm = t.nm.toLowerCase();
       if (tk === q) return 0; if (tk.indexOf(q) === 0) return 1;
       if (nm.indexOf(q) === 0) return 2; if (tk.indexOf(q) > -1) return 3;
@@ -150,29 +166,38 @@
       if (!q || !idx) { drop.style.display = "none"; rows = []; return; }
       rows = idx.map(function (t) { return [score(t, q), t]; })
         .filter(function (x) { return x[0] < 9; })
-        .sort(function (a, b) { return a[0] - b[0] || b[1].mc - a[1].mc; })
+        .sort(function (a, b) { return a[0] - b[0] || (b[1].mc || 0) - (a[1].mc || 0); })
         .slice(0, 8).map(function (x) { return x[1]; });
       if (!rows.length) { drop.style.display = "none"; return; }
       sel = Math.min(sel, rows.length - 1);
       drop.innerHTML = rows.map(function (t, i) {
-        return '<div class="sg' + (i === sel ? " active" : "") + '" data-tk="' + t.tk + '">' +
+        if (t.page) {
+          return '<div class="sg' + (i === sel ? " active" : "") + '" data-i="' + i + '">' +
+            '<img src="/assets/favicon-48.png" alt="">' +
+            '<span class="nm" style="grid-column:span 2">' + t.nm + '</span>' +
+            '<span class="pc" style="color:var(--faint,#5a6573);font-size:9px;letter-spacing:.08em">PAGE</span></div>';
+        }
+        return '<div class="sg' + (i === sel ? " active" : "") + '" data-i="' + i + '">' +
           '<img src="' + logoUrl(t.tk) + '" onerror="this.style.visibility=\'hidden\'" alt="">' +
           '<span class="tk">' + t.tk + '</span><span class="nm">' + t.nm + '</span>' +
           '<span class="pc ' + (t.pc >= 0 ? "up" : "down") + '">' + fmtPct(t.pc) + '</span></div>';
       }).join("");
       drop.style.display = "";
       [].forEach.call(drop.querySelectorAll(".sg"), function (el) {
-        el.addEventListener("mousedown", function (e) { e.preventDefault(); go(el.dataset.tk); });
+        el.addEventListener("mousedown", function (e) { e.preventDefault(); go(rows[+el.dataset.i]); });
       });
     }
-    var go = function (tk) { location.href = "/t?sym=" + encodeURIComponent(tk); };
+    var go = function (t) {
+      if (!t) return;
+      location.href = t.page ? t.url : "/t?sym=" + encodeURIComponent(t.tk);
+    };
     input.addEventListener("focus", async function () { kbd.textContent = "esc"; await loadIndex(); render(); });
     input.addEventListener("blur", function () { kbd.textContent = "/"; setTimeout(function () { drop.style.display = "none"; }, 150); });
     input.addEventListener("input", async function () { sel = 0; await loadIndex(); render(); });
     input.addEventListener("keydown", function (e) {
       if (e.key === "ArrowDown") { sel = Math.min(sel + 1, rows.length - 1); render(); e.preventDefault(); }
       else if (e.key === "ArrowUp") { sel = Math.max(sel - 1, 0); render(); e.preventDefault(); }
-      else if (e.key === "Enter") { if (rows[sel]) go(rows[sel].tk); }
+      else if (e.key === "Enter") { if (rows[sel]) go(rows[sel]); }
       else if (e.key === "Escape") { input.value = ""; drop.style.display = "none"; input.blur(); }
     });
     document.addEventListener("keydown", function (e) {

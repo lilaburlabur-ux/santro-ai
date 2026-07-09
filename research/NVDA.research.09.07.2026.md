@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Nvidia's stock valuation fell to pre–AI boom lows, but this strategist still isn't bullish | Yahoo Finance Video | 2026-07-09 |
 | Dow Jones Futures: Micron, Sandisk Jump As Nasdaq Tops Key Level; Delta, Taiwan Semi, SK Hynix Due | Investor's Business Daily | 2026-07-09 |
+| Are AI Agents SoFi Stock's Next Big Catalyst? | Motley Fool | 2026-07-09 |
 | Entegris, onsemi, and Power Integrations Shares Are Soaring, What You Need To Know | StockStory | 2026-07-09 |
-| Nvidia owns the AI chips market. Google, Amazon, and others are coming | Quartz | 2026-07-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

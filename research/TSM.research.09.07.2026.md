@@ -36,9 +36,9 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Dow Jones Futures: Micron, Sandisk Jump As Nasdaq Tops Key Level; Delta, Taiwan Semi, SK Hynix Due | Investor's Business Daily | 2026-07-09 |
 | Semiconductor chip plants cost a ton of money. Here's why | Quartz | 2026-07-09 |
 | Nvidia owns the AI chips market. Google, Amazon, and others are coming | Quartz | 2026-07-09 |
-| Dow Jones Futures: Micron, Sandisk Jump As Nasdaq Tops Key Level; Delta, Taiwan Semi, SK Hynix Due | Investor's Business Daily | 2026-07-09 |
 | SK Hynix’s $26.5 Billion Listing Reopens Asia Route to US Market | Bloomberg | 2026-07-09 |
 
 ## 3. Technical Analysis

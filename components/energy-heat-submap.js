@@ -1,4 +1,8 @@
-/* Santro — Energy heat sub-map (Powering AI section). v3
+/* DEPRECATED — replaced by components/sector-bubble-map.js (the shared premium
+   sector renderer). Kept only so cached HTML referencing this file does not 404.
+   Do not mount on new pages.
+
+   Santro — Energy heat sub-map (Powering AI section). v3
    Self-contained, no ECharts dependency. Renders the AI-power/energy names as
    SVG bubbles: area ∝ market cap, color ∝ heat (day move), deterministic
    spiral + relaxation packing. ds_v2 tokens only (green/red/amber, never blue).

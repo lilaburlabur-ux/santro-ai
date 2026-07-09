@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-07-09T01:55:22+00:00",
-  "as_of_local": "2026-07-09 01:55:22 UTC",
+  "as_of_utc": "2026-07-09T02:00:23+00:00",
+  "as_of_local": "2026-07-09 02:00:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 204.12,
+      "previous_close": 196.93,
+      "change_pct": 3.65,
+      "market_cap": 4943990401733.398,
+      "headlines": [
+        {
+          "title": "China warned that Anthropic's Claude Code puts your data at risk. Is that true?",
+          "url": "https://finance.yahoo.com/video/china-warned-that-anthropics-claude-code-puts-your-data-at-risk-is-that-true-203951387.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-08T20:39:51Z"
+        },
+        {
+          "title": "Nvidia market cap sheds $1 trillion: It's more of a rotation than a correction",
+          "url": "https://finance.yahoo.com/video/nvidia-market-cap-sheds-1-trillion-its-more-of-a-rotation-than-a-correction-143213433.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-08T14:32:13Z"
+        },
+        {
+          "title": "AI spending is becoming more capital market 'sensitive': Portfolio mgr.",
+          "url": "https://finance.yahoo.com/video/ai-spending-becoming-more-capital-120000916.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-08T12:00:00Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 7.37,
-          "price": 2229000.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 2.52,
-          "price": 284500.0,
+          "change_pct": 2.43,
+          "price": 284250.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 10.49,
-          "price": 79410.0,
+          "change_pct": 10.53,
+          "price": 79440.0,
           "currency": "JPY"
         },
         {
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 7.72,
-          "price": 181.5,
+          "change_pct": 7.42,
+          "price": 181.0,
           "currency": "TWD"
         }
       ]
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 7.37,
-        "price": 2229000.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 2.52,
-        "price": 284500.0,
+        "change_pct": 2.43,
+        "price": 284250.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 10.49,
-        "price": 79410.0,
+        "change_pct": 10.53,
+        "price": 79440.0,
         "currency": "JPY"
       },
       {
@@ -545,22 +571,27 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 7.72,
-        "price": 181.5,
+        "change_pct": 7.42,
+        "price": 181.0,
         "currency": "TWD"
       }
     ]
   },
   "tape": [
     {
+      "label": "SPX",
+      "price": 7482.71,
+      "change_pct": -0.28
+    },
+    {
       "label": "BTC",
-      "price": 61874.05,
-      "change_pct": -2.25
+      "price": 61858.44,
+      "change_pct": -2.27
     },
     {
       "label": "Gold",
-      "price": 4082.2,
-      "change_pct": -1.52
+      "price": 4082.5,
+      "change_pct": -1.51
     },
     {
       "label": "Nasdaq100",

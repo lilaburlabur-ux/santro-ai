@@ -37,9 +37,9 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Headline | Source | Date |
 |---|---|---|
 | Micron, Sandisk, Marvell stocks jump, leading chip sector gains | Yahoo Finance | 2026-07-09 |
+| Update: US Equities Rise, Oil Prices Fall as Traders Look Past Middle East Tensions | MT Newswires | 2026-07-09 |
 | MACOM and Marvell Technology Stocks Trade Up, What You Need To Know | StockStory | 2026-07-09 |
 | Update: US Equities Rise Intraday in Tech-Led Advance as Oil Prices Ease | MT Newswires | 2026-07-09 |
-| Tower Semiconductor (TSEM) Advances AI Data Center Connectivity With Photonics Milestone | Insider Monkey | 2026-07-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

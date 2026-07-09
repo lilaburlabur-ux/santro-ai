@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Nvidia owns the AI chips market. Google, Amazon, and others are coming | Quartz | 2026-07-09 |
+| Meta Stock Jumps As AI Battle Heats Up. Zuckerberg Says Cloud Business 'Make Sense.' | Investor's Business Daily | 2026-07-09 |
 | Three Enticing Clues Put This Broadcom Partner, Nvidia Rival In Focus | Investor's Business Daily | 2026-07-09 |
 | $35 Billion AI Credit Deal Nears Trading as Broadcom Financing Advances | GuruFocus.com | 2026-07-09 |
-| CPU Competition Gearing Up to Cool AMD’s Massive Run | Barrons.com | 2026-07-09 |
-| A Gigawatt Jolt for Meta Stock | Barrons.com | 2026-07-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

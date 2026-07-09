@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
-| TSMC Q2 Earnings Preview: Why Should You Buy TSM Stock Before July 16? | Zacks | 2026-07-09 |
-| Taiwan Dollar Hits April 2025 Low as NT$2.5 Trillion Dividend Season Begins | GuruFocus.com | 2026-07-09 |
-| ASML Holdings (ASML): Best QQQ Stocks to Invest in | Insider Monkey | 2026-07-09 |
-| Meta’s new AI chips will begin production in September | TechCrunch | 2026-07-09 |
+| Semiconductor chip plants cost a ton of money. Here's why | Quartz | 2026-07-09 |
+| Nvidia owns the AI chips market. Google, Amazon, and others are coming | Quartz | 2026-07-09 |
+| Dow Jones Futures: Micron, Sandisk Jump As Nasdaq Tops Key Level; Delta, Taiwan Semi, SK Hynix Due | Investor's Business Daily | 2026-07-09 |
+| SK Hynix’s $26.5 Billion Listing Reopens Asia Route to US Market | Bloomberg | 2026-07-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| How Investors Are Reacting To QUALCOMM (QCOM) Index Removal And New On-Device AI Deepfake Partnership | Simply Wall St. | 2026-07-09 |
 | Six Months In, AZA Law Firm’s Dallas Office Tracks Toward Its Year-One Plan | Exec Edge | 2026-07-09 |
 | CPU Competition Gearing Up to Cool AMD’s Massive Run | Barrons.com | 2026-07-09 |
 | Will Qualcomm's Automotive Business Continue Driving Top-Line Growth? | Zacks | 2026-07-09 |
-| MU, AMD, MRVL, QCOM Stocks Surge — Bernstein’s Stacy Rasgon Says AI Demand Is Exploding, Memory Capacity Is 'Very Tight' | Stocktwits | 2026-07-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

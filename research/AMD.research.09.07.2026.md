@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Update: US Equities Rise, Oil Prices Fall as Traders Look Past Middle East Tensions | MT Newswires | 2026-07-09 |
 | Six Months In, AZA Law Firm’s Dallas Office Tracks Toward Its Year-One Plan | Exec Edge | 2026-07-09 |
 | AMD's AI Infrastructure Push Gets Bigger | GuruFocus.com | 2026-07-09 |
 | AMD Shares Soar After Landing Major AI Infrastructure Alliance | GuruFocus.com | 2026-07-09 |
-| Nvidia's Vera CPU Could Expand Beyond x86, Wedbush Says | GuruFocus.com | 2026-07-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

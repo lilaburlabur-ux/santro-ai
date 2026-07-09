@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-09T11:05:22+00:00",
-  "as_of_local": "2026-07-09 11:05:22 UTC",
+  "as_of_utc": "2026-07-09T11:10:23+00:00",
+  "as_of_local": "2026-07-09 11:10:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -30,7 +28,7 @@
           "title": "Dow Jones Futures Fall, Techs Rise Amid Iran News; Nvidia, Valero, Dell, SpaceX In Focus",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-spikes-iran-news-nvidia-valero-dell-spacex-low/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-07-09T10:55:03Z"
+          "published": "2026-07-09T11:05:07Z"
         }
       ]
     },
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-tsmc-stock-going-soar-101900231.html",
           "publisher": "Motley Fool",
           "published": "2026-07-09T10:19:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 948.8,
+      "previous_close": 938.38,
+      "change_pct": 1.11,
+      "market_cap": 1071568207882.2625,
+      "headlines": [
+        {
+          "title": "Wall Street's next AI trade is smaller than a grain of rice: One Big Idea",
+          "url": "https://finance.yahoo.com/markets/article/wall-streets-next-ai-trade-is-smaller-than-a-grain-of-rice-one-big-idea-100100993.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-09T10:02:00Z"
+        },
+        {
+          "title": "AI memory stocks trim losses as investors buy the dip",
+          "url": "https://finance.yahoo.com/markets/stocks/article/ai-memory-stocks-trim-losses-as-investors-buy-the-dip-122848703.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-08T12:28:48Z"
+        },
+        {
+          "title": "Memory monthly sales hit record $74.6B as analysts see price surge ahead",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/memory-monthly-sales-hit-record-102526305.html",
+          "publisher": "Investing.com",
+          "published": "2026-07-09T10:25:26Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 1.11,
+          "price": 948.8,
           "currency": "USD"
         },
         {
@@ -419,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 6.77,
-          "price": 1727.18,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 1.11,
+        "price": 948.8,
         "currency": "USD"
       },
       {
@@ -509,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 6.77,
-        "price": 1727.18,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 62740.38,
-      "change_pct": 0.78
+      "price": 62724.21,
+      "change_pct": 0.75
     },
     {
       "label": "Gold",
-      "price": 4105.4,
-      "change_pct": 0.85
+      "price": 4107.6,
+      "change_pct": 0.9
     },
     {
       "label": "Nasdaq100",

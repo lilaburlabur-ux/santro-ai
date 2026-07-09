@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-07-09T01:16:43+00:00",
-  "as_of_local": "2026-07-09 01:16:43 UTC",
+  "as_of_utc": "2026-07-09T01:20:25+00:00",
+  "as_of_local": "2026-07-09 01:20:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -367,6 +367,34 @@
           "published": "2026-07-02T06:38:34Z"
         }
       ]
+    },
+    {
+      "symbol": "CEVA",
+      "name": "CEVA",
+      "price": 44.56,
+      "previous_close": 42.76,
+      "change_pct": 4.21,
+      "market_cap": 1241413520.8990211,
+      "headlines": [
+        {
+          "title": "Needham Initiates CEVA (CEVA) With A Buy Rating",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/needham-initiates-ceva-ceva-buy-210441807.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-07-01T21:04:41Z"
+        },
+        {
+          "title": "Is Amkor Technology (AMKR) Stock Outpacing Its Computer and Technology Peers This Year?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-stock-outpacing-134006232.html",
+          "publisher": "Zacks",
+          "published": "2026-06-29T13:40:06Z"
+        },
+        {
+          "title": "All You Need to Know About Ceva (CEVA) Rating Upgrade to Buy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/know-ceva-ceva-rating-upgrade-160005922.html",
+          "publisher": "Zacks",
+          "published": "2026-06-23T16:00:05Z"
+        }
+      ]
     }
   ],
   "etfs": [
@@ -390,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 6.65,
-          "price": 2214000.0,
+          "change_pct": 6.79,
+          "price": 2217000.0,
           "currency": "KRW"
         },
         {
@@ -399,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 2.61,
-          "price": 284750.0,
+          "change_pct": 2.88,
+          "price": 285500.0,
           "currency": "KRW"
         },
         {
@@ -408,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 9.64,
-          "price": 78800.0,
+          "change_pct": 10.03,
+          "price": 79080.0,
           "currency": "JPY"
         },
         {
@@ -417,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 6.77,
-          "price": 1727.18,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -444,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -1.74,
-          "price": 396.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "TWD"
         },
         {
@@ -453,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -3.16,
-          "price": 168.5,
+          "change_pct": 2.37,
+          "price": 172.5,
           "currency": "TWD"
         }
       ]
@@ -480,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 6.65,
-        "price": 2214000.0,
+        "change_pct": 6.79,
+        "price": 2217000.0,
         "currency": "KRW"
       },
       {
@@ -489,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 2.61,
-        "price": 284750.0,
+        "change_pct": 2.88,
+        "price": 285500.0,
         "currency": "KRW"
       },
       {
@@ -498,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 9.64,
-        "price": 78800.0,
+        "change_pct": 10.03,
+        "price": 79080.0,
         "currency": "JPY"
       },
       {
@@ -507,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 6.77,
-        "price": 1727.18,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -534,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -1.74,
-        "price": 396.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "TWD"
       },
       {
@@ -543,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -3.16,
-        "price": 168.5,
+        "change_pct": 2.37,
+        "price": 172.5,
         "currency": "TWD"
       }
     ]
@@ -557,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 62314.46,
-      "change_pct": -1.55
+      "price": 62474.99,
+      "change_pct": -1.3
     },
     {
       "label": "Gold",
-      "price": 4079.5,
-      "change_pct": -1.59
+      "price": 4081.9,
+      "change_pct": -1.53
     },
     {
       "label": "Nasdaq100",

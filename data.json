@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-09T01:45:26+00:00",
-  "as_of_local": "2026-07-09 01:45:26 UTC",
+  "as_of_utc": "2026-07-09T01:50:25+00:00",
+  "as_of_local": "2026-07-09 01:50:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -59,6 +57,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-thinks-ai-slowing-153414199.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-07-08T15:34:14Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 388.69,
+      "previous_close": 370.78,
+      "change_pct": 4.83,
+      "market_cap": 1849223858775.8062,
+      "headlines": [
+        {
+          "title": "Broadcom stock jumps on Apple AI chip deal, while Nvidia's relative stock price drops",
+          "url": "https://finance.yahoo.com/video/broadcom-stock-jumps-on-apple-ai-chip-deal-while-nvidias-relative-stock-price-drops-200428968.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-08T20:04:28Z"
+        },
+        {
+          "title": "Apple & Broadcom ramp up American manufacturing with $30B AI chip partnership",
+          "url": "https://finance.yahoo.com/video/apple--broadcom-ramp-up-american-manufacturing-with-30b-ai-chip-partnership-155611706.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-08T15:56:11Z"
+        },
+        {
+          "title": "Apple announces chip deal with Broadcom worth more than $30 billion",
+          "url": "https://finance.yahoo.com/technology/article/apple-announces-chip-deal-with-broadcom-worth-more-than-30-billion-100000097.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-08T10:00:00Z"
         }
       ]
     },
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 8.43,
-          "price": 2251000.0,
+          "change_pct": 8.24,
+          "price": 2247000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 3.6,
-          "price": 287500.0,
+          "change_pct": 3.24,
+          "price": 286500.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 10.78,
-          "price": 79620.0,
+          "change_pct": 9.77,
+          "price": 78890.0,
           "currency": "JPY"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 9.6,
-          "price": 434.0,
+          "change_pct": 9.97,
+          "price": 435.5,
           "currency": "TWD"
         },
         {
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 5.93,
-          "price": 178.5,
+          "change_pct": 8.9,
+          "price": 183.5,
           "currency": "TWD"
         }
       ]
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 8.43,
-        "price": 2251000.0,
+        "change_pct": 8.24,
+        "price": 2247000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 3.6,
-        "price": 287500.0,
+        "change_pct": 3.24,
+        "price": 286500.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 10.78,
-        "price": 79620.0,
+        "change_pct": 9.77,
+        "price": 78890.0,
         "currency": "JPY"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 9.6,
-        "price": 434.0,
+        "change_pct": 9.97,
+        "price": 435.5,
         "currency": "TWD"
       },
       {
@@ -545,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 5.93,
-        "price": 178.5,
+        "change_pct": 8.9,
+        "price": 183.5,
         "currency": "TWD"
       }
     ]
@@ -559,13 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 62041.6,
-      "change_pct": -1.98
-    },
-    {
-      "label": "Gold",
-      "price": 4081.8,
-      "change_pct": -1.53
+      "price": 61934.31,
+      "change_pct": -2.15
     },
     {
       "label": "Nasdaq100",

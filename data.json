@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-09T10:33:05+00:00",
-  "as_of_local": "2026-07-09 10:33:05 UTC",
+  "as_of_utc": "2026-07-09T10:35:22+00:00",
+  "as_of_local": "2026-07-09 10:35:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -197,34 +199,6 @@
           "url": "https://www.barrons.com/articles/amd-stock-goldmans-sachs-price-target-8ae8b2f6?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-07-06T19:01:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 231.71,
-      "previous_close": 230.7,
-      "change_pct": 0.44,
-      "market_cap": 202874431594.17773,
-      "headlines": [
-        {
-          "title": "U.S. chip stocks rebound, tracking China semiconductor rally",
-          "url": "https://finance.yahoo.com/technology/articles/u-chip-stocks-rebound-tracking-101714825.html",
-          "publisher": "Investing.com",
-          "published": "2026-07-09T10:17:14Z"
-        },
-        {
-          "title": "Zacks Investment Ideas feature highlights: Marvell Technology, Amazon, Alphabet and NVIDIA",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-063800191.html",
-          "publisher": "Zacks",
-          "published": "2026-07-09T06:38:00Z"
-        },
-        {
-          "title": "Top financial expert declares Marvell 'no longer a marvelous buy'",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-financial-expert-declares-marvell-213300848.html",
-          "publisher": "TheStreet",
-          "published": "2026-07-08T21:33:00Z"
         }
       ]
     },
@@ -585,18 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62816.01,
-      "change_pct": 0.9
+      "price": 62832.0,
+      "change_pct": 0.92
     },
     {
       "label": "Gold",
-      "price": 4115.0,
-      "change_pct": 1.08
-    },
-    {
-      "label": "Nasdaq100",
-      "price": 29252.56,
-      "change_pct": 0.27
+      "price": 4113.8,
+      "change_pct": 1.05
     }
   ]
 }

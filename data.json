@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-09T12:45:25+00:00",
-  "as_of_local": "2026-07-09 12:45:25 UTC",
+  "as_of_utc": "2026-07-09T12:49:24+00:00",
+  "as_of_local": "2026-07-09 12:49:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -27,10 +25,10 @@
           "published": "2026-07-08T19:00:00Z"
         },
         {
-          "title": "The Market Had a Fantastic Second Quarter. But Here's the Warning No One Is Talking About.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/market-had-fantastic-second-quarter-123500067.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-09T12:35:00Z"
+          "title": "Why Investors Are Watching These 3 Retail Meme Stocks Right Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-investors-watching-3-retail-124055688.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-07-09T12:40:55Z"
         }
       ]
     },
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/meta-start-production-iris-ai-122141801.html",
           "publisher": "Quartz",
           "published": "2026-07-09T12:21:41Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 948.8,
+      "previous_close": 938.38,
+      "change_pct": 1.11,
+      "market_cap": 1071568207882.2625,
+      "headlines": [
+        {
+          "title": "Nvidia's nearly $1 trillion wipeout could prompt this bullish action",
+          "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-nearly-1-trillion-wipeout-could-prompt-this-bullish-action-122707475.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-09T12:27:07Z"
+        },
+        {
+          "title": "Micron to invest up to $3 billion in US chip supply chain",
+          "url": "https://finance.yahoo.com/technology/articles/micron-invest-3-billion-us-123435996.html",
+          "publisher": "Reuters",
+          "published": "2026-07-09T12:34:35Z"
+        },
+        {
+          "title": "Stock Market Today: Dow Falls Amid U.S.-Iran News; Micron Stock, Sandisk Rally (Live Coverage)",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-micron-sandisk/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-07-09T12:09:30Z"
         }
       ]
     },
@@ -153,7 +179,26 @@
       "previous_close": 300.43,
       "change_pct": -0.06,
       "market_cap": 319471508825.8894,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Arm Holdings' Licensing Momentum Continues to Fuel Revenue Growth",
+          "url": "https://finance.yahoo.com/technology/articles/arm-holdings-licensing-momentum-continues-152600229.html",
+          "publisher": "Zacks",
+          "published": "2026-07-08T15:26:00Z"
+        },
+        {
+          "title": "\ud83d\udcc9 Which Tech Stocks Fell the Most Today?",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-07-2026/card/-which-tech-stocks-are-falling-the-most-today--ZJ8L41EcRW26zRtVSy9v?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-07-07T20:53:46Z"
+        },
+        {
+          "title": "AMD Feels Goldman\u2019s Love, and the Stock Jumps",
+          "url": "https://www.barrons.com/articles/amd-stock-goldmans-sachs-price-target-8ae8b2f6?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-07-06T19:01:00Z"
+        }
+      ]
     },
     {
       "symbol": "MRVL",
@@ -161,7 +206,7 @@
       "price": 231.71,
       "previous_close": 230.7,
       "change_pct": 0.44,
-      "market_cap": 202874431594.17773,
+      "market_cap": 202699913873.29102,
       "headlines": [
         {
           "title": "Broadcom, Intel, Corning, Salesforce, and More Stocks That Explain Today\u2019s Market",
@@ -364,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 1.11,
+          "price": 948.8,
           "currency": "USD"
         },
         {
@@ -454,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 1.11,
+        "price": 948.8,
         "currency": "USD"
       },
       {
@@ -540,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 62520.41,
-      "change_pct": 0.42
+      "price": 62485.87,
+      "change_pct": 0.37
     },
     {
       "label": "Gold",
-      "price": 4125.1,
-      "change_pct": 1.33
+      "price": 4127.7,
+      "change_pct": 1.4
     },
     {
       "label": "Nasdaq100",

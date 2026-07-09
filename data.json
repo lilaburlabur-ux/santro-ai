@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-09T08:11:55+00:00",
-  "as_of_local": "2026-07-09 08:11:55 UTC",
+  "as_of_utc": "2026-07-09T08:15:24+00:00",
+  "as_of_local": "2026-07-09 08:15:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -171,6 +169,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/big-tech-resurgence-investors-waiting-072037591.html",
           "publisher": "Stocktwits",
           "published": "2026-07-09T07:20:37Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 300.24,
+      "previous_close": 300.43,
+      "change_pct": -0.06,
+      "market_cap": 319471508825.8894,
+      "headlines": [
+        {
+          "title": "Arm Holdings' Licensing Momentum Continues to Fuel Revenue Growth",
+          "url": "https://finance.yahoo.com/technology/articles/arm-holdings-licensing-momentum-continues-152600229.html",
+          "publisher": "Zacks",
+          "published": "2026-07-08T15:26:00Z"
+        },
+        {
+          "title": "\ud83d\udcc9 Which Tech Stocks Fell the Most Today?",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-07-2026/card/-which-tech-stocks-are-falling-the-most-today--ZJ8L41EcRW26zRtVSy9v?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-07-07T20:53:46Z"
+        },
+        {
+          "title": "AMD Feels Goldman\u2019s Love, and the Stock Jumps",
+          "url": "https://www.barrons.com/articles/amd-stock-goldmans-sachs-price-target-8ae8b2f6?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-07-06T19:01:00Z"
         }
       ]
     },
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 9.97,
-          "price": 435.5,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "TWD"
         },
         {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 9.97,
-        "price": 435.5,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "TWD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 62897.82,
-      "change_pct": 1.03
+      "price": 62904.59,
+      "change_pct": 1.04
     },
     {
       "label": "Gold",
-      "price": 4115.6,
-      "change_pct": 1.1
+      "price": 4117.4,
+      "change_pct": 1.14
     },
     {
       "label": "Nasdaq100",

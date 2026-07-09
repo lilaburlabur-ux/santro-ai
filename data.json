@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-09T08:17:07+00:00",
-  "as_of_local": "2026-07-09 08:17:07 UTC",
+  "as_of_utc": "2026-07-09T08:20:23+00:00",
+  "as_of_local": "2026-07-09 08:20:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -206,7 +208,7 @@
       "price": 231.71,
       "previous_close": 230.7,
       "change_pct": 0.44,
-      "market_cap": 202699913873.29102,
+      "market_cap": 202874431594.17773,
       "headlines": [
         {
           "title": "Zacks Investment Ideas feature highlights: Marvell Technology, Amazon, Alphabet and NVIDIA",
@@ -281,34 +283,6 @@
           "url": "https://finance.yahoo.com/technology/articles/4-semiconductor-stocks-benefit-cars-140300450.html",
           "publisher": "Zacks",
           "published": "2026-07-08T14:03:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 132.48,
-      "previous_close": 130.6,
-      "change_pct": 1.44,
-      "market_cap": 18150800309.999283,
-      "headlines": [
-        {
-          "title": "Lattice Semiconductor (LSCC) Stock Trades Up, Here Is Why",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-lscc-stock-trades-225201400.html",
-          "publisher": "StockStory",
-          "published": "2026-07-06T22:52:01Z"
-        },
-        {
-          "title": "Western Digital, MACOM, and Lattice Semiconductor Shares Are Falling, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-macom-lattice-semiconductor-022824236.html",
-          "publisher": "StockStory",
-          "published": "2026-07-03T02:28:24Z"
-        },
-        {
-          "title": "Lam Research Stock Surges 154% in H1'26: Should You Buy More or Exit?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-stock-surges-154-141100491.html",
-          "publisher": "Zacks",
-          "published": "2026-07-01T14:11:00Z"
         }
       ]
     },
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 9.97,
+          "price": 435.5,
           "currency": "TWD"
         },
         {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 9.97,
+        "price": 435.5,
         "currency": "TWD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62911.23,
-      "change_pct": 1.05
+      "price": 62927.77,
+      "change_pct": 1.08
     },
     {
       "label": "Gold",
-      "price": 4117.9,
-      "change_pct": 1.15
+      "price": 4119.4,
+      "change_pct": 1.19
     },
     {
       "label": "Nasdaq100",

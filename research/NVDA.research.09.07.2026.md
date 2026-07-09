@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Nvidia's stock valuation fell to pre–AI boom lows, but this strategist still isn't bullish | Yahoo Finance Video | 2026-07-09 |
-| Broadcom Stock Investors Just Got Incredible News from Apple CEO Tim Cook | Motley Fool | 2026-07-09 |
 | Dow Jones Futures: Micron, Sandisk Jump As Nasdaq Tops Key Level; Delta, Taiwan Semi, SK Hynix Due | Investor's Business Daily | 2026-07-09 |
-| Want $1,000 in Annual Passive Income? Invest This Much in This Ultra-High-Yield Energy Stock. | Motley Fool | 2026-07-09 |
+| Alphabet vs. Meta: Which AI Stock Is the Better Buy Right Now? | Motley Fool | 2026-07-09 |
+| Micron Technology Is Quietly Setting Up for a Strong Earnings Catalyst | Motley Fool | 2026-07-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

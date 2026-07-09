@@ -36,9 +36,9 @@ AeroVironment, Inc. designs, develops, produces, delivers, and supports a portfo
 
 | Headline | Source | Date |
 |---|---|---|
+| This Drone Maker’s Stock Is Falling on a Contrarian Downgrade | Barrons.com | 2026-07-09 |
 | AeroVironment (AVAV) Wins German Drone Order As Valuation Debate Deepens | Simply Wall St. | 2026-07-09 |
 | Is AeroVironment (AVAV) Still Expensive After Its Latest Contract Wins? | Simply Wall St. | 2026-07-09 |
-| This Drone Maker’s Stock Is Falling on a Contrarian Downgrade | Barrons.com | 2026-07-09 |
 | Tractor Supply downgrade, Five Below upgraded: Wall Street's top analyst calls | The Fly | 2026-07-09 |
 
 ## 3. Technical Analysis

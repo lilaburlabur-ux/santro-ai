@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia's stock valuation fell to pre–AI boom lows, but this strategist still isn't bullish | Yahoo Finance Video | 2026-07-09 |
+| Micron, Sandisk, Marvell stocks jump, leading chip sector gains | Yahoo Finance | 2026-07-09 |
+| Nvidia's nearly $1 trillion wipeout could prompt this bullish action | Yahoo Finance | 2026-07-09 |
 | Wall Street's next AI trade is smaller than a grain of rice: One Big Idea | Yahoo Finance | 2026-07-09 |
 | Dow Jones Futures: Micron, Sandisk Jump As Nasdaq Tops Key Level; Delta, Taiwan Semi, SK Hynix Due | Investor's Business Daily | 2026-07-09 |
-| Update: US Equity Indexes Jump as Washington's Strikes to Prevent Iran From Controlling Hormuz Drive Crude Oil Lower | MT Newswires | 2026-07-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

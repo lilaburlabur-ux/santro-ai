@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
+| Micron, Sandisk, Marvell stocks jump, leading chip sector gains | Yahoo Finance | 2026-07-09 |
 | Memory chip stocks fall into a bear market amid latest tech sell-off | Yahoo Finance Video | 2026-07-07 |
 | Update: US Equities Rise, Oil Prices Fall as Traders Look Past Middle East Tensions | MT Newswires | 2026-07-09 |
-| Six Months In, AZA Law Firm’s Dallas Office Tracks Toward Its Year-One Plan | Exec Edge | 2026-07-09 |
-| ASML Holdings (ASML): Best QQQ Stocks to Invest in | Insider Monkey | 2026-07-09 |
+| State Capitalism Ventures Into AI. What Could Go Wrong? | Barrons.com | 2026-07-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

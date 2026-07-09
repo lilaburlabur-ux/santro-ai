@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-09T03:50:20+00:00",
-  "as_of_local": "2026-07-09 03:50:20 UTC",
+  "as_of_utc": "2026-07-09T03:52:53+00:00",
+  "as_of_local": "2026-07-09 03:52:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -145,34 +147,6 @@
       ]
     },
     {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 110.24,
-      "previous_close": 110.39,
-      "change_pct": -0.14,
-      "market_cap": 554066229263.3057,
-      "headlines": [
-        {
-          "title": "AI memory stocks trim losses as investors buy the dip",
-          "url": "https://finance.yahoo.com/markets/stocks/article/ai-memory-stocks-trim-losses-as-investors-buy-the-dip-122848703.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-08T12:28:48Z"
-        },
-        {
-          "title": "Nvidia's valuation just hit a multiyear low \u2014 even as revenue sets records",
-          "url": "https://finance.yahoo.com/technology/article/nvidias-valuation-just-hit-a-multiyear-low--even-as-revenue-sets-records-155948933.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-08T15:59:48Z"
-        },
-        {
-          "title": "Should You Buy Intel Stock Before July 23?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-intel-stock-july-23-194300560.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-08T19:43:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "ARM",
       "name": "Arm Holdings",
       "price": 300.24,
@@ -206,7 +180,7 @@
       "price": 231.71,
       "previous_close": 230.7,
       "change_pct": 0.44,
-      "market_cap": 202874431594.17773,
+      "market_cap": 202699913873.29102,
       "headlines": [
         {
           "title": "Top financial expert declares Marvell 'no longer a marvelous buy'",
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 3.85,
-          "price": 2156000.0,
+          "change_pct": 4.29,
+          "price": 2165000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.81,
-          "price": 275250.0,
+          "change_pct": -0.36,
+          "price": 276500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 7.61,
-          "price": 77340.0,
+          "change_pct": 7.04,
+          "price": 76930.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 9.85,
-          "price": 435.0,
+          "change_pct": 9.97,
+          "price": 435.5,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 6.23,
-          "price": 179.0,
+          "change_pct": 6.53,
+          "price": 179.5,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 3.85,
-        "price": 2156000.0,
+        "change_pct": 4.29,
+        "price": 2165000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.81,
-        "price": 275250.0,
+        "change_pct": -0.36,
+        "price": 276500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 7.61,
-        "price": 77340.0,
+        "change_pct": 7.04,
+        "price": 76930.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 9.85,
-        "price": 435.0,
+        "change_pct": 9.97,
+        "price": 435.5,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 6.23,
-        "price": 179.0,
+        "change_pct": 6.53,
+        "price": 179.5,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61877.97,
+      "price": 61882.23,
       "change_pct": -2.24
     },
     {
       "label": "Gold",
-      "price": 4069.8,
-      "change_pct": -1.82
+      "price": 4069.5,
+      "change_pct": -1.83
     },
     {
       "label": "Nasdaq100",

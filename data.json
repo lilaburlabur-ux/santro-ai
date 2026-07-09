@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-07-09T01:25:21+00:00",
-  "as_of_local": "2026-07-09 01:25:21 UTC",
+  "as_of_utc": "2026-07-09T01:30:27+00:00",
+  "as_of_local": "2026-07-09 01:30:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "AVGO"
+    "LSCC"
   ],
   "stocks": [
     {
@@ -59,6 +59,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-thinks-ai-slowing-153414199.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-07-08T15:34:14Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 388.69,
+      "previous_close": 370.78,
+      "change_pct": 4.83,
+      "market_cap": 1849223858775.8062,
+      "headlines": [
+        {
+          "title": "Broadcom stock jumps on Apple AI chip deal, while Nvidia's relative stock price drops",
+          "url": "https://finance.yahoo.com/video/broadcom-stock-jumps-on-apple-ai-chip-deal-while-nvidias-relative-stock-price-drops-200428968.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-08T20:04:28Z"
+        },
+        {
+          "title": "Apple & Broadcom ramp up American manufacturing with $30B AI chip partnership",
+          "url": "https://finance.yahoo.com/video/apple--broadcom-ramp-up-american-manufacturing-with-30b-ai-chip-partnership-155611706.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-08T15:56:11Z"
+        },
+        {
+          "title": "Apple announces chip deal with Broadcom worth more than $30 billion",
+          "url": "https://finance.yahoo.com/technology/article/apple-announces-chip-deal-with-broadcom-worth-more-than-30-billion-100000097.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-08T10:00:00Z"
         }
       ]
     },
@@ -259,34 +287,6 @@
       ]
     },
     {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 132.48,
-      "previous_close": 130.6,
-      "change_pct": 1.44,
-      "market_cap": 18150800309.999283,
-      "headlines": [
-        {
-          "title": "Lattice Semiconductor (LSCC) Stock Trades Up, Here Is Why",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-lscc-stock-trades-225201400.html",
-          "publisher": "StockStory",
-          "published": "2026-07-06T22:52:01Z"
-        },
-        {
-          "title": "Western Digital, MACOM, and Lattice Semiconductor Shares Are Falling, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-macom-lattice-semiconductor-022824236.html",
-          "publisher": "StockStory",
-          "published": "2026-07-03T02:28:24Z"
-        },
-        {
-          "title": "Lam Research Stock Surges 154% in H1'26: Should You Buy More or Exit?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-stock-surges-154-141100491.html",
-          "publisher": "Zacks",
-          "published": "2026-07-01T14:11:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 157.78,
@@ -392,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 7.37,
-          "price": 2229000.0,
+          "change_pct": 8.14,
+          "price": 2245000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 3.15,
-          "price": 286250.0,
+          "change_pct": 3.6,
+          "price": 287500.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 11.09,
-          "price": 79840.0,
+          "change_pct": 10.8,
+          "price": 79630.0,
           "currency": "JPY"
         },
         {
@@ -446,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 4.42,
-          "price": 413.5,
+          "change_pct": 5.93,
+          "price": 419.5,
           "currency": "TWD"
         },
         {
@@ -455,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 1.19,
-          "price": 170.5,
+          "change_pct": 2.67,
+          "price": 173.0,
           "currency": "TWD"
         }
       ]
@@ -482,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 7.37,
-        "price": 2229000.0,
+        "change_pct": 8.14,
+        "price": 2245000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 3.15,
-        "price": 286250.0,
+        "change_pct": 3.6,
+        "price": 287500.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 11.09,
-        "price": 79840.0,
+        "change_pct": 10.8,
+        "price": 79630.0,
         "currency": "JPY"
       },
       {
@@ -536,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 4.42,
-        "price": 413.5,
+        "change_pct": 5.93,
+        "price": 419.5,
         "currency": "TWD"
       },
       {
@@ -545,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 1.19,
-        "price": 170.5,
+        "change_pct": 2.67,
+        "price": 173.0,
         "currency": "TWD"
       }
     ]
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62398.51,
-      "change_pct": -1.42
+      "price": 62341.73,
+      "change_pct": -1.51
     },
     {
       "label": "Gold",
-      "price": 4083.0,
-      "change_pct": -1.5
+      "price": 4084.9,
+      "change_pct": -1.46
     },
     {
       "label": "Nasdaq100",

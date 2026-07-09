@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-09T20:18:19+00:00",
-  "as_of_local": "2026-07-09 20:18:19 UTC",
+  "as_of_utc": "2026-07-09T20:21:33+00:00",
+  "as_of_local": "2026-07-09 20:21:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "QCOM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -111,10 +109,10 @@
           "published": "2026-07-09T10:02:00Z"
         },
         {
-          "title": "Nasdaq rallies to sharply higher close; chip surge offsets Iran worries",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-set-open-higher-131606821.html",
-          "publisher": "Reuters",
-          "published": "2026-07-09T20:00:43Z"
+          "title": "Tech Stocks Led Today's Rally and the Rest of the Market Followed",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-070926/card/tech-stocks-led-today-s-rally-and-the-rest-of-the-market-followed-5Sqis68bkYksR9XFIiaB?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-07-09T20:02:20Z"
         }
       ]
     },
@@ -227,6 +225,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/us-equities-rise-intraday-tech-174615663.html",
           "publisher": "MT Newswires",
           "published": "2026-07-09T17:46:15Z"
+        }
+      ]
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "price": 191.11,
+      "previous_close": 186.56,
+      "change_pct": 2.44,
+      "market_cap": 201429940643.31055,
+      "headlines": [
+        {
+          "title": "Six Months In, AZA Law Firm\u2019s Dallas Office Tracks Toward Its Year-One Plan",
+          "url": "https://finance.yahoo.com/small-business/articles/six-months-aza-law-firm-190607304.html",
+          "publisher": "Exec Edge",
+          "published": "2026-07-09T19:06:07Z"
+        },
+        {
+          "title": "CPU Competition Gearing Up to Cool AMD\u2019s Massive Run",
+          "url": "https://www.barrons.com/articles/amd-stock-price-analyst-sell-intel-cd026a13?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-07-09T17:58:00Z"
+        },
+        {
+          "title": "Will Qualcomm's Automotive Business Continue Driving Top-Line Growth?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomms-automotive-business-continue-driving-171500765.html",
+          "publisher": "Zacks",
+          "published": "2026-07-09T17:15:00Z"
         }
       ]
     },
@@ -559,12 +585,12 @@
     },
     {
       "label": "BTC",
-      "price": 63169.96,
-      "change_pct": 1.47
+      "price": 63166.1,
+      "change_pct": 1.46
     },
     {
       "label": "Gold",
-      "price": 4131.5,
+      "price": 4131.4,
       "change_pct": 1.49
     },
     {

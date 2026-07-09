@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-09T10:02:31+00:00",
-  "as_of_local": "2026-07-09 10:02:31 UTC",
+  "as_of_utc": "2026-07-09T10:05:23+00:00",
+  "as_of_local": "2026-07-09 10:05:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -97,6 +99,12 @@
       "market_cap": 1071568207882.2625,
       "headlines": [
         {
+          "title": "Wall Street's next AI trade is smaller than a grain of rice: One Big Idea",
+          "url": "https://finance.yahoo.com/markets/article/wall-streets-next-ai-trade-is-smaller-than-a-grain-of-rice-one-big-idea-100100993.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-09T10:02:00Z"
+        },
+        {
           "title": "AI memory stocks trim losses as investors buy the dip",
           "url": "https://finance.yahoo.com/markets/stocks/article/ai-memory-stocks-trim-losses-as-investors-buy-the-dip-122848703.html",
           "publisher": "Yahoo Finance",
@@ -107,12 +115,6 @@
           "url": "https://www.barrons.com/articles/micron-stock-price-memory-chip-selloff-buy-19ebab1a?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-07-09T08:00:00Z"
-        },
-        {
-          "title": "Is This The Big Tech Resurgence Investors Have Been Waiting For? AI Chip Stocks Step Back, Mag 7 Steps Up In July",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/big-tech-resurgence-investors-waiting-072037591.html",
-          "publisher": "Stocktwits",
-          "published": "2026-07-09T07:20:37Z"
         }
       ]
     },
@@ -253,34 +255,6 @@
           "url": "https://finance.yahoo.com/technology/articles/nvidia-micron-amd-lead-chip-132126893.html",
           "publisher": "GuruFocus.com",
           "published": "2026-07-08T13:21:26Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 283.81,
-      "previous_close": 273.15,
-      "change_pct": 3.9,
-      "market_cap": 71653816314.60553,
-      "headlines": [
-        {
-          "title": "Nvidia, Chip Stocks Rally Despite U.S.-Iran War Flare-Up",
-          "url": "https://www.investors.com/news/technology/nvidia-stock-chip-stocks-waver-sox/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-07-08T20:45:18Z"
-        },
-        {
-          "title": "Texas Instruments Stock Is Running On A Bold Promise",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-stock-running-bold-183738468.html",
-          "publisher": "Trefis",
-          "published": "2026-07-08T18:37:38Z"
-        },
-        {
-          "title": "4 Semiconductor Stocks to Benefit as Cars Become AI-Powered",
-          "url": "https://finance.yahoo.com/technology/articles/4-semiconductor-stocks-benefit-cars-140300450.html",
-          "publisher": "Zacks",
-          "published": "2026-07-08T14:03:00Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62872.37,
-      "change_pct": 0.99
+      "price": 62886.24,
+      "change_pct": 1.01
     },
     {
       "label": "Gold",
-      "price": 4114.0,
-      "change_pct": 1.06
+      "price": 4115.1,
+      "change_pct": 1.09
     },
     {
       "label": "Nasdaq100",

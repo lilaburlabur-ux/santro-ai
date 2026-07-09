@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-07-09T05:00:28+00:00",
-  "as_of_local": "2026-07-09 05:00:28 UTC",
+  "as_of_utc": "2026-07-09T05:05:24+00:00",
+  "as_of_local": "2026-07-09 05:05:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -25,10 +25,10 @@
           "published": "2026-07-08T15:59:48Z"
         },
         {
-          "title": "Dow Jones Futures, Oil Prices Rise Amid Iran News; Nvidia, Valero, Dell, SpaceX In Focus",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-spikes-iran-news-nvidia-valero-dell-spacex-low/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-07-09T04:46:46Z"
+          "title": "Bitcoin's Most Prominent Holder Is Selling Some. Should You?",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoins-most-prominent-holder-selling-045000115.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-09T04:50:00Z"
         }
       ]
     },
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 62.04,
-      "change_pct": 2.39,
+      "price": null,
+      "change_pct": 0.0,
       "holdings": [
         {
           "symbol": "MU",
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 4.14,
-          "price": 2162000.0,
+          "change_pct": 3.71,
+          "price": 2153000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.36,
-          "price": 276500.0,
+          "change_pct": -0.72,
+          "price": 275500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 6.97,
-          "price": 76880.0,
+          "change_pct": 6.64,
+          "price": 76640.0,
           "currency": "JPY"
         },
         {
@@ -463,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 3.42,
+          "price": 550.3,
           "currency": "USD"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 6.53,
-          "price": 179.5,
+          "change_pct": 6.23,
+          "price": 179.0,
           "currency": "TWD"
         }
       ]
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 62.04,
-    "change_pct": 2.39,
+    "price": null,
+    "change_pct": 0.0,
     "holdings": [
       {
         "symbol": "MU",
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 4.14,
-        "price": 2162000.0,
+        "change_pct": 3.71,
+        "price": 2153000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.36,
-        "price": 276500.0,
+        "change_pct": -0.72,
+        "price": 275500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 6.97,
-        "price": 76880.0,
+        "change_pct": 6.64,
+        "price": 76640.0,
         "currency": "JPY"
       },
       {
@@ -553,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 3.42,
+        "price": 550.3,
         "currency": "USD"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 6.53,
-        "price": 179.5,
+        "change_pct": 6.23,
+        "price": 179.0,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 62386.04,
+      "price": 62382.76,
       "change_pct": -1.44
     },
     {
       "label": "Gold",
-      "price": 4071.0,
-      "change_pct": 0.0
+      "price": 4072.8,
+      "change_pct": 0.05
     },
     {
       "label": "Nasdaq100",

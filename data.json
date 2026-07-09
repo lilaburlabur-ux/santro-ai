@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-09T02:27:16+00:00",
-  "as_of_local": "2026-07-09 02:27:16 UTC",
+  "as_of_utc": "2026-07-09T02:30:31+00:00",
+  "as_of_local": "2026-07-09 02:30:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/technology/article/apple-announces-chip-deal-with-broadcom-worth-more-than-30-billion-100000097.html",
           "publisher": "Yahoo Finance",
           "published": "2026-07-08T10:00:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 948.8,
-      "previous_close": 938.38,
-      "change_pct": 1.11,
-      "market_cap": 1071568207882.2625,
-      "headlines": [
-        {
-          "title": "AI memory stocks trim losses as investors buy the dip",
-          "url": "https://finance.yahoo.com/markets/stocks/article/ai-memory-stocks-trim-losses-as-investors-buy-the-dip-122848703.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-08T12:28:48Z"
-        },
-        {
-          "title": "$130 Billion in AI Data Centers were Just Blocked. Where Does the AI Boom Go Now",
-          "url": "https://finance.yahoo.com/technology/ai/articles/130-billion-ai-data-centers-000000041.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-07-09T00:00:00Z"
-        },
-        {
-          "title": "Ford Joins Its Partner Micron on the Coveted Zacks Rank #1 (Strong Buy) List",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ford-joins-partner-micron-coveted-224900770.html",
-          "publisher": "Zacks",
-          "published": "2026-07-08T22:49:00Z"
         }
       ]
     },
@@ -206,7 +180,7 @@
       "price": 231.71,
       "previous_close": 230.7,
       "change_pct": 0.44,
-      "market_cap": 202699913873.29102,
+      "market_cap": 202874431594.17773,
       "headlines": [
         {
           "title": "Top financial expert declares Marvell 'no longer a marvelous buy'",
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 1.11,
-          "price": 948.8,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 5.11,
-          "price": 2182000.0,
+          "change_pct": 5.73,
+          "price": 2195000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.54,
-          "price": 279000.0,
+          "change_pct": 1.08,
+          "price": 280500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 8.88,
-          "price": 78250.0,
+          "change_pct": 8.63,
+          "price": 78070.0,
           "currency": "JPY"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 6.82,
-          "price": 180.0,
+          "change_pct": 7.72,
+          "price": 181.5,
           "currency": "TWD"
         }
       ]
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 1.11,
-        "price": 948.8,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 5.11,
-        "price": 2182000.0,
+        "change_pct": 5.73,
+        "price": 2195000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.54,
-        "price": 279000.0,
+        "change_pct": 1.08,
+        "price": 280500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 8.88,
-        "price": 78250.0,
+        "change_pct": 8.63,
+        "price": 78070.0,
         "currency": "JPY"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 6.82,
-        "price": 180.0,
+        "change_pct": 7.72,
+        "price": 181.5,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61975.18,
-      "change_pct": -2.09
+      "price": 61966.98,
+      "change_pct": -2.1
     },
     {
       "label": "Gold",
-      "price": 4087.9,
-      "change_pct": -1.38
+      "price": 4089.0,
+      "change_pct": -1.36
     },
     {
       "label": "Nasdaq100",

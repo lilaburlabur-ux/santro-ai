@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-09T04:00:44+00:00",
-  "as_of_local": "2026-07-09 04:00:44 UTC",
+  "as_of_utc": "2026-07-09T04:05:23+00:00",
+  "as_of_local": "2026-07-09 04:05:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -203,6 +201,34 @@
       ]
     },
     {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 231.71,
+      "previous_close": 230.7,
+      "change_pct": 0.44,
+      "market_cap": 202874431594.17773,
+      "headlines": [
+        {
+          "title": "Top financial expert declares Marvell 'no longer a marvelous buy'",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-financial-expert-declares-marvell-213300848.html",
+          "publisher": "TheStreet",
+          "published": "2026-07-08T21:33:00Z"
+        },
+        {
+          "title": "The MediaTek Ghost Story Just Dropped the World\u2019s Most Powerful Custom-Silicon Juggernaut Into a 25% Discount Zone",
+          "url": "https://finance.yahoo.com/technology/ai/articles/mediatek-ghost-story-just-dropped-193629940.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-07-08T19:36:29Z"
+        },
+        {
+          "title": "Marvell (MRVL) Is Down 22.6% After NVIDIA\u2019s $2 Billion AI Bet And Index Exit - What's Changed",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-down-22-6-171116041.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-07-08T17:11:16Z"
+        }
+      ]
+    },
+    {
       "symbol": "QCOM",
       "name": "Qualcomm",
       "price": 186.56,
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 3.23,
-          "price": 2143000.0,
+          "change_pct": 4.29,
+          "price": 2165000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -1.26,
-          "price": 274000.0,
+          "change_pct": -0.18,
+          "price": 277000.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 6.57,
-          "price": 76590.0,
+          "change_pct": 6.79,
+          "price": 76750.0,
           "currency": "JPY"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 3.23,
-        "price": 2143000.0,
+        "change_pct": 4.29,
+        "price": 2165000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -1.26,
-        "price": 274000.0,
+        "change_pct": -0.18,
+        "price": 277000.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 6.57,
-        "price": 76590.0,
+        "change_pct": 6.79,
+        "price": 76750.0,
         "currency": "JPY"
       },
       {
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 61970.81,
-      "change_pct": -2.1
+      "price": 61974.99,
+      "change_pct": -2.09
     },
     {
       "label": "Gold",

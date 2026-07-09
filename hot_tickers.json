@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-09T04:00:59+00:00",
+  "as_of": "2026-07-09T04:05:38+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -22,6 +22,22 @@
    "source_url": "",
    "published": "",
    "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 2,
+   "ticker": "ANET",
+   "company": "Arista Networks Inc",
+   "move_pct": 8.76,
+   "price": 181.05,
+   "volume": 11885300,
+   "volume_vs_avg": "~1.4x",
+   "heat_score": 62,
+   "direction": "up",
+   "why": "Why Did PENG, ANET, BCRX Shares Surge To 52-Week Highs?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-did-peng-anet-bcrx-033939173.html",
+   "published": "2026-07-09T03:39:39Z",
+   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

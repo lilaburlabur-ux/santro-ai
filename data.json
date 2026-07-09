@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-09T10:43:04+00:00",
-  "as_of_local": "2026-07-09 10:43:04 UTC",
+  "as_of_utc": "2026-07-09T10:45:22+00:00",
+  "as_of_local": "2026-07-09 10:45:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -57,34 +59,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/revenue-growth-outlook-affirm-why-153912617.html",
           "publisher": "Insider Monkey",
           "published": "2026-07-08T15:39:12Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 388.69,
-      "previous_close": 370.78,
-      "change_pct": 4.83,
-      "market_cap": 1849223858775.8062,
-      "headlines": [
-        {
-          "title": "Broadcom stock jumps on Apple AI chip deal, while Nvidia's relative stock price drops",
-          "url": "https://finance.yahoo.com/video/broadcom-stock-jumps-on-apple-ai-chip-deal-while-nvidias-relative-stock-price-drops-200428968.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-08T20:04:28Z"
-        },
-        {
-          "title": "Apple & Broadcom ramp up American manufacturing with $30B AI chip partnership",
-          "url": "https://finance.yahoo.com/video/apple--broadcom-ramp-up-american-manufacturing-with-30b-ai-chip-partnership-155611706.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-08T15:56:11Z"
-        },
-        {
-          "title": "Prediction: TSMC Stock Is Going to Soar After July 16",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-tsmc-stock-going-soar-101900231.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-09T10:19:00Z"
         }
       ]
     },
@@ -206,7 +180,7 @@
       "price": 231.71,
       "previous_close": 230.7,
       "change_pct": 0.44,
-      "market_cap": 202699913873.29102,
+      "market_cap": 202874431594.17773,
       "headlines": [
         {
           "title": "U.S. chip stocks rebound, tracking China semiconductor rally",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62813.25,
-      "change_pct": 0.89
+      "price": 62826.93,
+      "change_pct": 0.91
     },
     {
       "label": "Gold",
-      "price": 4112.1,
-      "change_pct": 1.01
+      "price": 4113.6,
+      "change_pct": 1.05
     },
     {
       "label": "Nasdaq100",

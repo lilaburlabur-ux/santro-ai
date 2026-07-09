@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-07-09T02:30:31+00:00",
-  "as_of_local": "2026-07-09 02:30:31 UTC",
+  "as_of_utc": "2026-07-09T02:35:23+00:00",
+  "as_of_local": "2026-07-09 02:35:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "MU"
+    "TSM"
   ],
   "stocks": [
     {
@@ -31,34 +31,6 @@
           "url": "https://finance.yahoo.com/video/ai-spending-becoming-more-capital-120000916.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-07-08T12:00:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 436.98,
-      "previous_close": 432.57,
-      "change_pct": 1.02,
-      "market_cap": 2266385471181.0454,
-      "headlines": [
-        {
-          "title": "Veteran analyst drops massive Micron valuation prediction",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/veteran-analyst-drops-massive-micron-173300767.html",
-          "publisher": "TheStreet",
-          "published": "2026-07-08T17:33:00Z"
-        },
-        {
-          "title": "Revenue and Growth Outlook Affirm Why Taiwan Semiconductor Manufacturing Co. (TSM) is a Top AI Stock on Wall Street\u2019s Radar",
-          "url": "https://finance.yahoo.com/technology/ai/articles/revenue-growth-outlook-affirm-why-153912617.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-07-08T15:39:12Z"
-        },
-        {
-          "title": "Wall Street Thinks AI Is Slowing. Wall Street Is Wrong",
-          "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-thinks-ai-slowing-153414199.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-07-08T15:34:14Z"
         }
       ]
     },
@@ -91,6 +63,34 @@
       ]
     },
     {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 948.8,
+      "previous_close": 938.38,
+      "change_pct": 1.11,
+      "market_cap": 1071568207882.2625,
+      "headlines": [
+        {
+          "title": "AI memory stocks trim losses as investors buy the dip",
+          "url": "https://finance.yahoo.com/markets/stocks/article/ai-memory-stocks-trim-losses-as-investors-buy-the-dip-122848703.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-08T12:28:48Z"
+        },
+        {
+          "title": "$130 Billion in AI Data Centers were Just Blocked. Where Does the AI Boom Go Now",
+          "url": "https://finance.yahoo.com/technology/ai/articles/130-billion-ai-data-centers-000000041.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-07-09T00:00:00Z"
+        },
+        {
+          "title": "Ford Joins Its Partner Micron on the Coveted Zacks Rank #1 (Strong Buy) List",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ford-joins-partner-micron-coveted-224900770.html",
+          "publisher": "Zacks",
+          "published": "2026-07-08T22:49:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 517.41,
@@ -111,10 +111,10 @@
           "published": "2026-07-08T15:59:48Z"
         },
         {
-          "title": "AMD (AMD) Stock Looks Fully Valued Despite Strong AI Growth Hopes",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-amd-stock-looks-fully-201233352.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-08T20:12:33Z"
+          "title": "Cathie Wood Sold $8 Million of AMD Stock in a Single Day",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sold-8-million-022000685.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-09T02:20:00Z"
         }
       ]
     },
@@ -383,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 1.11,
+          "price": 948.8,
           "currency": "USD"
         },
         {
@@ -392,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 5.73,
-          "price": 2195000.0,
+          "change_pct": 6.07,
+          "price": 2202000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 1.08,
-          "price": 280500.0,
+          "change_pct": 1.44,
+          "price": 281500.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 8.63,
-          "price": 78070.0,
+          "change_pct": 8.45,
+          "price": 77940.0,
           "currency": "JPY"
         },
         {
@@ -473,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 1.11,
+        "price": 948.8,
         "currency": "USD"
       },
       {
@@ -482,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 5.73,
-        "price": 2195000.0,
+        "change_pct": 6.07,
+        "price": 2202000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 1.08,
-        "price": 280500.0,
+        "change_pct": 1.44,
+        "price": 281500.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 8.63,
-        "price": 78070.0,
+        "change_pct": 8.45,
+        "price": 77940.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61966.98,
-      "change_pct": -2.1
+      "price": 61788.1,
+      "change_pct": -2.38
     },
     {
       "label": "Gold",
-      "price": 4089.0,
-      "change_pct": -1.36
+      "price": 4090.0,
+      "change_pct": -1.33
     },
     {
       "label": "Nasdaq100",

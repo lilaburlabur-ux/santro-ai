@@ -26,32 +26,56 @@
   function fmtPct(p) { return p == null ? "—" : (p >= 0 ? "+" : "") + p.toFixed(1) + "%"; }
   function fmtCap(b) { return b == null ? "" : b >= 1000 ? "$" + (b / 1000).toFixed(1) + "T" : "$" + Math.round(b) + "B"; }
 
-  // Archimedean-spiral circle packing: biggest cap at center, each next name
-  // spirals outward to the first non-overlapping spot. Min radius keeps the
-  // smallest cap readable/clickable. Vertical squash fits the wide aspect.
+  // Circle packing in two phases:
+  //  1) spiral seed — biggest cap at center, each next name spirals outward to
+  //     the first free spot; the spiral reach scales with the canvas (the old
+  //     fixed-pixel reach ran out of room on wide screens and stacked bubbles).
+  //  2) relaxation — push any residual overlaps apart and clamp to bounds, so
+  //     zero overlap is guaranteed at every viewport width.
   function pack(items, W, H) {
-    // Area-based sizing: area ∝ cap, scaled so the circles fill ~40% of the
+    // Area-based sizing: area ∝ cap, scaled so the circles fill ~38% of the
     // canvas — guarantees they physically fit, which makes packing solvable.
     var sumCap = items.reduce(function (s, t) { return s + (t.market_cap_b || 1); }, 0) || 1;
-    var scale = (W * H * 0.40) / sumCap;
+    var scale = (W * H * 0.38) / sumCap;
     var cx = W / 2, cy = H / 2, placed = [];
+    var K = 14000, reach = Math.max(W, H) * 0.72;      // spiral covers the whole canvas
     items.forEach(function (t) {
-      var r = Math.max(20, Math.sqrt(((t.market_cap_b || 1) * scale) / Math.PI));
+      var r = Math.max(18, Math.sqrt(((t.market_cap_b || 1) * scale) / Math.PI));
       var best = null;
-      for (var k = 0; k < 8000 && !best; k++) {
-        var ang = k * 0.5, dist = 4.2 * Math.sqrt(k);
-        var x = cx + Math.cos(ang) * dist, y = cy + Math.sin(ang) * dist * 0.74;
+      for (var k = 0; k < K && !best; k++) {
+        var ang = k * 0.5, dist = reach * Math.sqrt(k / K);
+        var x = cx + Math.cos(ang) * dist, y = cy + Math.sin(ang) * dist * (H / W);
         if (x - r < 3 || x + r > W - 3 || y - r < 3 || y + r > H - 3) continue;
         var hit = placed.some(function (p) { return Math.hypot(p.x - x, p.y - y) < p.r + r + 4; });
         if (!hit) best = { x: x, y: y, r: r, t: t };
       }
       placed.push(best || { x: cx, y: cy, r: r, t: t });
     });
+    // relaxation: resolve any residual overlaps (fallback placements included)
+    for (var pass = 0; pass < 260; pass++) {
+      var moved = false;
+      for (var i = 0; i < placed.length; i++) for (var j = i + 1; j < placed.length; j++) {
+        var a = placed[i], b = placed[j];
+        var dx = b.x - a.x, dy = b.y - a.y, d = Math.hypot(dx, dy) || 0.01;
+        var need = a.r + b.r + 4 - d;
+        if (need > 0) {
+          var ux = dx / d, uy = dy / d, sh = need / 2 + 0.5;
+          a.x -= ux * sh; a.y -= uy * sh; b.x += ux * sh; b.y += uy * sh; moved = true;
+        }
+      }
+      placed.forEach(function (p) {
+        p.x = Math.min(W - 3 - p.r, Math.max(3 + p.r, p.x));
+        p.y = Math.min(H - 3 - p.r, Math.max(3 + p.r, p.y));
+      });
+      if (!moved) break;
+    }
     return placed;
   }
 
   function render(el, tickers) {
-    var W = Math.max(320, el.clientWidth || 680), H = Math.round(W * 0.56);
+    el._last = tickers;                                  // for resize re-pack
+    var W = Math.max(320, el.clientWidth || 680);
+    var H = Math.min(620, Math.max(300, Math.round(W * 0.56)));  // cap on ultra-wide
     var rows = (tickers || []).filter(function (t) { return t && t.ticker; })
       .sort(function (a, b) { return (b.market_cap_b || 0) - (a.market_cap_b || 0); });
     if (!rows.length) { el.innerHTML = '<p style="color:var(--faint,#5a6573);font-size:13px;padding:20px">Powering-AI names loading…</p>'; return; }

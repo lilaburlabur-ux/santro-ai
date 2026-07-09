@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-09T11:51:36+00:00",
-  "as_of_local": "2026-07-09 11:51:36 UTC",
+  "as_of_utc": "2026-07-09T11:55:23+00:00",
+  "as_of_local": "2026-07-09 11:55:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEVA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -367,34 +369,6 @@
           "published": "2026-07-02T06:38:34Z"
         }
       ]
-    },
-    {
-      "symbol": "CEVA",
-      "name": "CEVA",
-      "price": 44.56,
-      "previous_close": 42.76,
-      "change_pct": 4.21,
-      "market_cap": 1241413520.8990211,
-      "headlines": [
-        {
-          "title": "Needham Initiates CEVA (CEVA) With A Buy Rating",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/needham-initiates-ceva-ceva-buy-210441807.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-07-01T21:04:41Z"
-        },
-        {
-          "title": "Is Amkor Technology (AMKR) Stock Outpacing Its Computer and Technology Peers This Year?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-stock-outpacing-134006232.html",
-          "publisher": "Zacks",
-          "published": "2026-06-29T13:40:06Z"
-        },
-        {
-          "title": "All You Need to Know About Ceva (CEVA) Rating Upgrade to Buy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/know-ceva-ceva-rating-upgrade-160005922.html",
-          "publisher": "Zacks",
-          "published": "2026-06-23T16:00:05Z"
-        }
-      ]
     }
   ],
   "etfs": [
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62630.01,
-      "change_pct": 0.6
+      "price": 62683.28,
+      "change_pct": 0.68
     },
     {
       "label": "Gold",
-      "price": 4116.8,
-      "change_pct": 1.13
+      "price": 4116.3,
+      "change_pct": 1.12
     },
     {
       "label": "Nasdaq100",

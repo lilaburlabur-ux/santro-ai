@@ -4,8 +4,8 @@ Signed file: `MU.research.09.07.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $948.80 (2026-07-09, ~15-min delayed) |
-| Market cap | $1.07T |
+| Current price | $991.64 (2026-07-09, ~15-min delayed) |
+| Market cap | $1.12T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `MU.research.09.07.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +692.46%; price +108.03% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -21.80% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +698.29%; price +115.47% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -18.27% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 55.91%, revenue growth 345.70%. |
-| Value attractiveness | Reasonable | Forward P/E 6.34, EV/Sales 11.65. |
-| Risk level | High | Beta 2.14, ATR 9.6% of price, short float 3.69%. |
+| Value attractiveness | Reasonable | Forward P/E 6.63, EV/Sales 11.65. |
+| Risk level | High | Beta 2.14, ATR 9.1% of price, short float 3.69%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| Nvidia's stock valuation fell to pre–AI boom lows, but this strategist still isn't bullish | Yahoo Finance Video | 2026-07-09 |
 | Wall Street's next AI trade is smaller than a grain of rice: One Big Idea | Yahoo Finance | 2026-07-09 |
-| AI memory stocks trim losses as investors buy the dip | Yahoo Finance | 2026-07-08 |
-| U.S. chip stocks rebound, tracking China semiconductor rally | Investing.com | 2026-07-09 |
-| Micron Stock Steadies After Memory Selloff, BofA Says It’s Time to Buy | Barrons.com | 2026-07-09 |
+| Nasdaq rallies to sharply higher close; chip surge offsets Iran worries | Reuters | 2026-07-09 |
+| Sector Update: Tech Stocks Gain Late Afternoon | MT Newswires | 2026-07-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $948.80; 52w high $1,213.37 (-21.80%); 52w low $104.71 (+806.10%) |
-| Trend | +108.03% vs SMA200, +7.81% vs SMA50, -9.32% vs SMA20 |
-| Momentum | RSI(14) 47.0 (neutral) |
-| Volatility | ATR(14) 90.61 (~9.6% of price); beta 2.14 |
-| Setup perspective | -21.80% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $991.64; 52w high $1,213.37 (-18.27%); 52w low $104.71 (+847.02%) |
+| Trend | +115.47% vs SMA200, +11.49% vs SMA50, -5.47% vs SMA20 |
+| Momentum | RSI(14) 50.0 (neutral) |
+| Volatility | ATR(14) 90.33 (~9.1% of price); beta 2.14 |
+| Setup perspective | -18.27% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -17.8% |
-| Month | +9.8% |
-| Quarter | +151.3% |
-| Half Y | +204.1% |
-| 1Y | +692.5% |
-| YTD | +201.0% |
+| Week | -3.9% |
+| Month | +4.5% |
+| Quarter | +143.8% |
+| Half Y | +188.9% |
+| 1Y | +698.3% |
+| YTD | +214.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
-| Valuation | P/E 21.23, forward P/E 6.34, P/S 11.87, P/B 14.77 | EV/Sales 11.65, EV/EBITDA 15.42 |
+| Valuation | P/E 22.43, forward P/E 6.63, P/S 12.41, P/B 15.44 | EV/Sales 11.65, EV/EBITDA 15.42 |
 | Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,486.00 (42 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | JPMORGAN CHASE & CO | 15,775,296 | 1.40% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.14, ATR 9.6% of price, short float 3.69%. Size positions accordingly.
+- **Volatility risk:** Beta 2.14, ATR 9.1% of price, short float 3.69%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $948.80 | EV/Sales | 11.65 |
-| Market cap | $1.07T | EV/EBITDA | 15.42 |
+| Price | $991.64 | EV/Sales | 11.65 |
+| Market cap | $1.12T | EV/EBITDA | 15.42 |
 | Beta | 2.14 | Gross margin | 72.57% |
-| RSI(14) | 47.0 | Operating margin | 80.37% |
-| ATR(14) | 90.61 | Profit margin | 55.91% |
-| SMA20 dist | -9.32% | ROA | 34.87% |
-| SMA50 dist | +7.81% | ROE | 66.64% |
-| SMA200 dist | +108.03% | Revenue (ttm) | $90.27B |
+| RSI(14) | 50.0 | Operating margin | 80.37% |
+| ATR(14) | 90.33 | Profit margin | 55.91% |
+| SMA20 dist | -5.47% | ROA | 34.87% |
+| SMA50 dist | +11.49% | ROE | 66.64% |
+| SMA200 dist | +115.47% | Revenue (ttm) | $90.27B |
 | 52W high | $1,213.37 | Revenue growth y/y | 345.70% |
 | 52W low | $104.71 | Inst. ownership | 81.31% |
-| P/E (ttm) | 21.23 | Insider ownership | 0.25% |
-| Forward P/E | 6.34 | Short float | 3.69% |
-| PEG (trailing) | 0.14 | Avg volume | 51,319,543 |
-| P/S | 11.87 | Employees | 53,000 |
-| P/B | 14.77 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/E (ttm) | 22.43 | Insider ownership | 0.25% |
+| Forward P/E | 6.63 | Short float | 3.69% |
+| PEG (trailing) | 0.14 | Avg volume | 51,454,273 |
+| P/S | 12.41 | Employees | 53,000 |
+| P/B | 15.44 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

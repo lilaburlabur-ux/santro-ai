@@ -4,8 +4,8 @@ Signed file: `SYNA.research.09.07.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $123.37 (2026-07-09, ~15-min delayed) |
-| Market cap | $4.82B |
+| Current price | $129.50 (2026-07-09, ~15-min delayed) |
+| Market cap | $5.06B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `SYNA.research.09.07.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +85.44%; price +40.02% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -16.40% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +89.11%; price +46.50% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -12.25% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-4.10%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 23.40, EV/Sales 4.47. |
-| Risk level | High | Beta 1.98, ATR 7.3% of price, short float 18.89%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 24.56, EV/Sales 4.47. |
+| Risk level | High | Beta 1.98, ATR 7.2% of price, short float 18.89%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
 
@@ -36,30 +36,30 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 
 | Headline | Source | Date |
 |---|---|---|
+| Onsemi’s Synaptics acquisition could unlock long-term synergies, says Bank of America | Proactive | 2026-07-09 |
+| Is ON Semiconductor (ON) Fully Valued Following Index Inclusion And Its Synaptics Deal? | Simply Wall St. | 2026-07-09 |
 | Cantor Fitzgerald Updates Call on ON Semiconductor Corp (ON) Stock | Insider Monkey | 2026-07-08 |
 | ON Semiconductor (ON) Stock Faces Investor Investigation After Synaptics Deal | Simply Wall St. | 2026-07-03 |
-| Cantor Fitzgerald Raises Price Target on ON Semiconductor Corporation (ON) | Insider Monkey | 2026-07-02 |
-| Strength Seen in Synaptics (SYNA): Can Its 5.8% Jump Turn into More Strength? | Zacks | 2026-07-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $123.37; 52w high $147.57 (-16.40%); 52w low $58.52 (+110.82%) |
-| Trend | +40.02% vs SMA200, -1.67% vs SMA50, -4.86% vs SMA20 |
-| Momentum | RSI(14) 47.3 (neutral) |
-| Volatility | ATR(14) 9.03 (~7.3% of price); beta 1.98 |
-| Setup perspective | -16.40% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $129.50; 52w high $147.57 (-12.25%); 52w low $58.52 (+121.29%) |
+| Trend | +46.50% vs SMA200, +2.60% vs SMA50, -0.08% vs SMA20 |
+| Momentum | RSI(14) 51.8 (neutral) |
+| Volatility | ATR(14) 9.27 (~7.2% of price); beta 1.98 |
+| Setup perspective | -12.25% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.7% |
-| Month | +0.5% |
-| Quarter | +69.1% |
-| Half Y | +55.8% |
-| 1Y | +85.4% |
-| YTD | +62.9% |
+| Week | +2.2% |
+| Month | -4.8% |
+| Quarter | +70.5% |
+| Half Y | +49.0% |
+| 1Y | +89.1% |
+| YTD | +71.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Revenue (ttm) | $1.17B | Revenue growth 10.40% y/y |
 | Profitability | Gross 43.61%, operating -4.32%, net -4.10% | ROA -1.75%, ROE -3.50% |
 | Balance sheet | Cash $404.40M, debt $879.40M | Current ratio 3.04, debt/equity 64.72 |
-| Valuation | P/E —, forward P/E 23.40, P/S 4.11, P/B 3.52 | EV/Sales 4.47, EV/EBITDA 59.50 |
+| Valuation | P/E —, forward P/E 24.56, P/S 4.32, P/B 3.69 | EV/Sales 4.47, EV/EBITDA 59.50 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $145.33 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,8 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Geode Capital Management, LLC | 1,033,212 | 2.67% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 23.40, EV/Sales 4.47. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.98, ATR 7.3% of price, short float 18.89%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 24.56, EV/Sales 4.47. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.98, ATR 7.2% of price, short float 18.89%. Size positions accordingly.
 - **Short interest risk:** short float 18.89% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -113,21 +113,21 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $123.37 | EV/Sales | 4.47 |
-| Market cap | $4.82B | EV/EBITDA | 59.50 |
+| Price | $129.50 | EV/Sales | 4.47 |
+| Market cap | $5.06B | EV/EBITDA | 59.50 |
 | Beta | 1.98 | Gross margin | 43.61% |
-| RSI(14) | 47.3 | Operating margin | -4.32% |
-| ATR(14) | 9.03 | Profit margin | -4.10% |
-| SMA20 dist | -4.86% | ROA | -1.75% |
-| SMA50 dist | -1.67% | ROE | -3.50% |
-| SMA200 dist | +40.02% | Revenue (ttm) | $1.17B |
+| RSI(14) | 51.8 | Operating margin | -4.32% |
+| ATR(14) | 9.27 | Profit margin | -4.10% |
+| SMA20 dist | -0.08% | ROA | -1.75% |
+| SMA50 dist | +2.60% | ROE | -3.50% |
+| SMA200 dist | +46.50% | Revenue (ttm) | $1.17B |
 | 52W high | $147.57 | Revenue growth y/y | 10.40% |
 | 52W low | $58.52 | Inst. ownership | 110.33% |
 | P/E (ttm) | — | Insider ownership | 2.01% |
-| Forward P/E | 23.40 | Short float | 18.89% |
-| PEG (trailing) | — | Avg volume | 1,097,833 |
-| P/S | 4.11 | Employees | 1,700 |
-| P/B | 3.52 | Analyst rec (1=buy..5=sell) | 2.7 |
+| Forward P/E | 24.56 | Short float | 18.89% |
+| PEG (trailing) | — | Avg volume | 1,104,391 |
+| P/S | 4.32 | Employees | 1,700 |
+| P/B | 3.69 | Analyst rec (1=buy..5=sell) | 2.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

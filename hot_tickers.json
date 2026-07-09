@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-09T12:45:50+00:00",
+  "as_of": "2026-07-09T12:46:34+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "MU",
    "company": "Micron Technology Inc",
-   "move_pct": 6.19,
-   "price": 1007.49,
+   "move_pct": 6.01,
+   "price": 1005.81,
    "volume": 42626500,
    "volume_vs_avg": "~0.8x",
    "heat_score": 40,
@@ -21,22 +21,6 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-micron-sandisk/?src=A00220&yptr=yahoo",
    "published": "2026-07-09T12:09:30Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 2,
-   "ticker": "INTC",
-   "company": "Intel Corp",
-   "move_pct": 5.02,
-   "price": 115.77,
-   "volume": 105062400,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "Wedbush Has a Stark Message for Intel Stock Fans",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/wedbush-stark-message-intel-stock-122639740.html",
-   "published": "2026-07-09T12:26:39Z",
    "sector": "AI Chips & Compute"
   }
  ]

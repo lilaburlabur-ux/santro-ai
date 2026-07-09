@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-09T08:41:39+00:00",
-  "as_of_local": "2026-07-09 08:41:39 UTC",
+  "as_of_utc": "2026-07-09T08:45:24+00:00",
+  "as_of_local": "2026-07-09 08:45:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -341,34 +343,6 @@
       ]
     },
     {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 123.37,
-      "previous_close": 119.37,
-      "change_pct": 3.35,
-      "market_cap": 4819162445.408844,
-      "headlines": [
-        {
-          "title": "Cantor Fitzgerald Updates Call on ON Semiconductor Corp (ON) Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-updates-call-semiconductor-153237889.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-07-08T15:32:37Z"
-        },
-        {
-          "title": "ON Semiconductor (ON) Stock Faces Investor Investigation After Synaptics Deal",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stock-faces-investor-investigation-021059390.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-03T02:10:59Z"
-        },
-        {
-          "title": "Cantor Fitzgerald Raises Price Target on ON Semiconductor Corporation (ON)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-raises-price-target-063834689.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-07-02T06:38:34Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 44.56,
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 8.33,
-          "price": 77860.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "JPY"
         },
         {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 8.33,
-        "price": 77860.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62991.47,
-      "change_pct": 1.18
+      "price": 62974.86,
+      "change_pct": 1.15
     },
     {
       "label": "Gold",
-      "price": 4125.4,
-      "change_pct": 1.34
+      "price": 4121.1,
+      "change_pct": 1.23
     },
     {
       "label": "Nasdaq100",

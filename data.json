@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-09T11:41:44+00:00",
-  "as_of_local": "2026-07-09 11:41:44 UTC",
+  "as_of_utc": "2026-07-09T11:45:26+00:00",
+  "as_of_local": "2026-07-09 11:45:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/ultra-clean-holdings-uctt-appoints-111538771.html",
           "publisher": "Simply Wall St.",
           "published": "2026-07-09T11:15:38Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 300.24,
-      "previous_close": 300.43,
-      "change_pct": -0.06,
-      "market_cap": 319471508825.8894,
-      "headlines": [
-        {
-          "title": "Arm Holdings' Licensing Momentum Continues to Fuel Revenue Growth",
-          "url": "https://finance.yahoo.com/technology/articles/arm-holdings-licensing-momentum-continues-152600229.html",
-          "publisher": "Zacks",
-          "published": "2026-07-08T15:26:00Z"
-        },
-        {
-          "title": "\ud83d\udcc9 Which Tech Stocks Fell the Most Today?",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-07-2026/card/-which-tech-stocks-are-falling-the-most-today--ZJ8L41EcRW26zRtVSy9v?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-07-07T20:53:46Z"
-        },
-        {
-          "title": "AMD Feels Goldman\u2019s Love, and the Stock Jumps",
-          "url": "https://www.barrons.com/articles/amd-stock-goldmans-sachs-price-target-8ae8b2f6?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-07-06T19:01:00Z"
         }
       ]
     },
@@ -579,14 +553,19 @@
   },
   "tape": [
     {
+      "label": "SPX",
+      "price": 7482.71,
+      "change_pct": -0.28
+    },
+    {
       "label": "BTC",
-      "price": 62589.6,
+      "price": 62587.92,
       "change_pct": 0.53
     },
     {
       "label": "Gold",
-      "price": 4110.2,
-      "change_pct": 0.97
+      "price": 4110.8,
+      "change_pct": 0.98
     },
     {
       "label": "Nasdaq100",

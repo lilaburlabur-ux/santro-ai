@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-07-09T02:15:23+00:00",
-  "as_of_local": "2026-07-09 02:15:23 UTC",
+  "as_of_utc": "2026-07-09T02:20:29+00:00",
+  "as_of_local": "2026-07-09 02:20:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "ARM"
+    "TSM"
   ],
   "stocks": [
     {
@@ -31,34 +31,6 @@
           "url": "https://finance.yahoo.com/video/ai-spending-becoming-more-capital-120000916.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-07-08T12:00:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 436.98,
-      "previous_close": 432.57,
-      "change_pct": 1.02,
-      "market_cap": 2266385471181.0454,
-      "headlines": [
-        {
-          "title": "Veteran analyst drops massive Micron valuation prediction",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/veteran-analyst-drops-massive-micron-173300767.html",
-          "publisher": "TheStreet",
-          "published": "2026-07-08T17:33:00Z"
-        },
-        {
-          "title": "Revenue and Growth Outlook Affirm Why Taiwan Semiconductor Manufacturing Co. (TSM) is a Top AI Stock on Wall Street\u2019s Radar",
-          "url": "https://finance.yahoo.com/technology/ai/articles/revenue-growth-outlook-affirm-why-153912617.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-07-08T15:39:12Z"
-        },
-        {
-          "title": "Wall Street Thinks AI Is Slowing. Wall Street Is Wrong",
-          "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-thinks-ai-slowing-153414199.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-07-08T15:34:14Z"
         }
       ]
     },
@@ -171,6 +143,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-intel-stock-july-23-194300560.html",
           "publisher": "Motley Fool",
           "published": "2026-07-08T19:43:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 300.24,
+      "previous_close": 300.43,
+      "change_pct": -0.06,
+      "market_cap": 319471508825.8894,
+      "headlines": [
+        {
+          "title": "Arm Holdings' Licensing Momentum Continues to Fuel Revenue Growth",
+          "url": "https://finance.yahoo.com/technology/articles/arm-holdings-licensing-momentum-continues-152600229.html",
+          "publisher": "Zacks",
+          "published": "2026-07-08T15:26:00Z"
+        },
+        {
+          "title": "\ud83d\udcc9 Which Tech Stocks Fell the Most Today?",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-07-2026/card/-which-tech-stocks-are-falling-the-most-today--ZJ8L41EcRW26zRtVSy9v?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-07-07T20:53:46Z"
+        },
+        {
+          "title": "AMD Feels Goldman\u2019s Love, and the Stock Jumps",
+          "url": "https://www.barrons.com/articles/amd-stock-goldmans-sachs-price-target-8ae8b2f6?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-07-06T19:01:00Z"
         }
       ]
     },
@@ -392,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 5.54,
-          "price": 2191000.0,
+          "change_pct": 4.91,
+          "price": 2178000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 1.26,
-          "price": 281000.0,
+          "change_pct": 0.9,
+          "price": 280000.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 8.58,
-          "price": 78040.0,
+          "change_pct": 8.43,
+          "price": 77930.0,
           "currency": "JPY"
         },
         {
@@ -455,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 6.82,
-          "price": 180.0,
+          "change_pct": 6.23,
+          "price": 179.0,
           "currency": "TWD"
         }
       ]
@@ -482,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 5.54,
-        "price": 2191000.0,
+        "change_pct": 4.91,
+        "price": 2178000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 1.26,
-        "price": 281000.0,
+        "change_pct": 0.9,
+        "price": 280000.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 8.58,
-        "price": 78040.0,
+        "change_pct": 8.43,
+        "price": 77930.0,
         "currency": "JPY"
       },
       {
@@ -545,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 6.82,
-        "price": 180.0,
+        "change_pct": 6.23,
+        "price": 179.0,
         "currency": "TWD"
       }
     ]
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62029.85,
-      "change_pct": -2.0
+      "price": 62018.09,
+      "change_pct": -2.02
     },
     {
       "label": "Gold",
-      "price": 4083.6,
-      "change_pct": -1.49
+      "price": 4084.8,
+      "change_pct": -1.46
     },
     {
       "label": "Nasdaq100",

@@ -721,7 +721,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     </div><div class="mn-item mn-collapsible" data-menu="maps">
       <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Market Maps</button>
       <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Visual entry points into the same delayed data.</p><div class="mn-links mn-w2">
-        <a class="mn-link" href="/terminal"><b>Stock Bubble Map</b><span>99 bubbles sized by cap, colored by heat.</span></a>
+        <a class="mn-link" href="/terminal"><b>Stock Bubble Map</b><span>99 bubbles sized by the day&#x27;s move, colored by direction.</span></a>
         <a class="mn-link" href="/crypto"><b>Crypto Movers</b><span>AI tokens ranked by momentum.</span></a>
         <a class="mn-link" href="/etfs"><b>ETF Map</b><span>Overlap-aware list of the AI ETF complex.</span></a>
         <a class="mn-link" href="/bubble"><b>Bubble-Risk Gauge</b><span>One dial for the whole AI trade.</span></a>
@@ -741,7 +741,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     </div><div class="mn-item mn-moreitem" data-menu="more">
       <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">More</button>
       <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Maps, company and legal.</p><div class="mn-links">
-        <a class="mn-link" href="/terminal"><b>Stock Bubble Map</b><span>99 bubbles sized by cap, colored by heat.</span></a>
+        <a class="mn-link" href="/terminal"><b>Stock Bubble Map</b><span>99 bubbles sized by the day&#x27;s move, colored by direction.</span></a>
         <a class="mn-link" href="/crypto"><b>Crypto Movers</b><span>AI tokens ranked by momentum.</span></a>
         <a class="mn-link" href="/etfs"><b>ETF Map</b><span>Overlap-aware list of the AI ETF complex.</span></a>
         <a class="mn-link" href="/bubble"><b>Bubble-Risk Gauge</b><span>One dial for the whole AI trade.</span></a>
@@ -1192,6 +1192,8 @@ const UNI_SHORT={
   applied_ai_industrial_defense_and_vertical:"Applied AI",
   powering_ai:"Powering AI",
 };
+// chart labels use the site's numeric type standard (canvas rich text can't read CSS vars)
+const MONO="'IBM Plex Mono', ui-monospace, monospace";
 // sector icons (lucide-style line art, white stroke) as SVG data-URIs
 const UNI_ICONS=(()=>{
   const wrap=p=>"data:image/svg+xml;utf8,"+encodeURIComponent(
@@ -1252,11 +1254,11 @@ function bubbleItem(n){
     const isz=Math.max(14, Math.min(26, Math.round(n.r*0.26)));
     const icon=showIcon ? UNI_ICONS[g.id] : null;
     const rich={
-      nm:{color:"#fff",fontWeight:700,fontSize:fs,lineHeight:Math.round(fs*1.6),align:"center"},
-      pc:{color:heatText(avg),fontWeight:700,fontSize:Math.max(9,Math.round(fs*0.85)),lineHeight:Math.round(fs*1.35),align:"center"}};
+      nm:{color:"#fff",fontWeight:700,fontSize:fs,lineHeight:Math.round(fs*1.6),align:"center",fontFamily:MONO},
+      pc:{color:heatText(avg),fontWeight:700,fontSize:Math.max(9,Math.round(fs*0.85)),lineHeight:Math.round(fs*1.35),align:"center",fontFamily:MONO}};
     let fmt=`{nm|${name}}`;
     if(icon){ rich.ic={backgroundColor:{image:icon},width:isz,height:isz,align:"center"}; fmt=`{ic|}\n`+fmt; }
-    if(showCap){ rich.cap={color:"rgba(255,255,255,.55)",fontWeight:600,fontSize:Math.max(8,Math.round(fs*0.8)),lineHeight:Math.round(fs*1.25),align:"center"}; fmt+=`\n{cap|${fmtCap(g.total_market_cap_b*1e9)}}`; }
+    if(showCap){ rich.cap={color:"rgba(255,255,255,.55)",fontWeight:600,fontSize:Math.max(8,Math.round(fs*0.8)),lineHeight:Math.round(fs*1.25),align:"center",fontFamily:MONO}; fmt+=`\n{cap|${fmtCap(g.total_market_cap_b*1e9)}}`; }
     fmt+=`\n{pc|${fmtPct(avg)}}`;
     return {value:[n.x,n.y], symbolSize:n.r*2, group:g,
       itemStyle:{color:core, borderColor:heat, borderWidth:2, shadowBlur:0},
@@ -1268,25 +1270,30 @@ function bubbleItem(n){
   // font fits BOTH the radius and the text's width across the circle
   const fs=Math.min(Math.max(9, Math.round(n.r*0.30)), fitFs(txt.length, n.r, 22));
   const pcFs=Math.max(8, Math.round(fs*0.82));
-  const showLabel = n.r>=13 && fs>=8;
+  const showLabel = n.r>=13 && fs>=9;
+  // the percent line renders only when it FITS the circle chord at its offset —
+  // canvas text is not clipped, so an unchecked line spills onto neighbours
+  const pcTxt=fmtPct(pct);
+  const showPct = showLabel && n.r>=17 &&
+    pcTxt.length*0.62*pcFs <= 2*Math.sqrt(Math.max(0, n.r*n.r - Math.pow(fs*0.7+pcFs*0.65, 2))) - 6;
   const ls=Math.round(n.r*0.5);
   const showLogo = n.r>30 && !sym.includes(".")
     && (ls + fs*1.35 + pcFs*1.2) < n.r*1.7;   // whole stack must fit vertically
   const sel=sym===selectedSymbol;
   const rich={
-    tk:{color:"#fff",fontWeight:700,fontSize:fs,lineHeight:Math.round(fs*1.35),align:"center"},
-    pc:{color:heatText(pct),fontWeight:600,fontSize:pcFs,lineHeight:Math.round(pcFs*1.3),align:"center"}};
+    tk:{color:"#fff",fontWeight:700,fontSize:fs,lineHeight:Math.round(fs*1.35),align:"center",fontFamily:MONO},
+    pc:{color:heatText(pct),fontWeight:600,fontSize:pcFs,lineHeight:Math.round(pcFs*1.3),align:"center",fontFamily:MONO}};
   let fmt="";
   if(showLogo){
     rich.lg={backgroundColor:{image:logoUrl(sym)},width:ls,height:ls,borderRadius:ls/2,align:"center"};
     fmt+="{lg|}\n";
   }
-  fmt+=`{tk|${txt}}\n{pc|${fmtPct(pct)}}`;
+  fmt+=showPct ? `{tk|${txt}}\n{pc|${pcTxt}}` : `{tk|${txt}}`;
   return {value:[n.x,n.y], symbolSize:n.r*2, uniTicker:x,
     itemStyle:{color:heatDark(pct),
       borderColor:sel?"#ffffff":heat,
-      borderWidth:sel?3.5:Math.max(2,Math.round(n.r*0.09)),
-      shadowColor:heat, shadowBlur:Math.max(8,Math.round(n.r*0.35))},
+      borderWidth:sel?3:Math.max(1.5,Math.min(3.5,n.r*0.05)),
+      shadowColor:heat, shadowBlur:Math.min(12,Math.max(5,Math.round(n.r*0.16)))},
     label:{show:showLabel, position:"inside", align:"center", verticalAlign:"middle",
       formatter:fmt, rich}};
 }
@@ -1414,7 +1421,7 @@ function render(){
            + `<span style="opacity:.7">click to drill into members ↓</span>`;}
     if(p.data.uniTicker){const t=p.data.uniTicker; const c=t.change_pct>=0?"#22c55e":"#f05a6e";
       return `<b>${t.ticker}</b> · ${t.company}<br/>`
-           + `<span style="color:${c}">${fmtPct(t.change_pct)}</span> &nbsp; $${(t.price??0).toFixed(2)}<br/>`
+           + `<span style="color:${c}">${fmtPct(t.change_pct)}</span> &nbsp; ${t.price==null?"—":"$"+t.price.toFixed(2)}<br/>`
            + `Cap ${fmtCap(t.market_cap_b*1e9)} · Vol ${fmtVol(t.volume)} · P/E ${t.pe==null?"—":t.pe}<br/>`
            + `<span style="opacity:.7">${t.industry}</span>`;}
     return "";
@@ -1457,7 +1464,7 @@ function showGroupDetail(g){
     `Sector — ${UNI_SHORT[g.id]||g.label} <span class="badge live">AI Universe</span>`;
   const rows=g.tickers.map(t=>`
       <tr><td><a href="t?sym=${encodeURIComponent(t.ticker)}" title="Open the ${t.ticker} page">${t.ticker}</a></td>
-        <td class="num">$${(t.price??0).toFixed(2)}</td>
+        <td class="num">${t.price==null?"—":"$"+t.price.toFixed(2)}</td>
         <td class="num ${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</td>
         <td class="num">${t.market_cap_b?fmtCap(t.market_cap_b*1e9):"—"}</td></tr>`).join("");
   document.getElementById("detail").innerHTML=`
@@ -1480,7 +1487,7 @@ function showEcoOverview(){
     `NVIDIA Ecosystem <span class="badge live">${eco.tickers.length} names</span>`;
   const rows=eco.tickers.map(t=>`
       <tr><td><a href="t?sym=${encodeURIComponent(t.ticker)}" title="Open the ${t.ticker} page">${t.ticker}</a></td>
-        <td class="num">$${(t.price??0).toFixed(2)}</td>
+        <td class="num">${t.price==null?"—":"$"+t.price.toFixed(2)}</td>
         <td class="num ${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</td>
         <td class="num">${t.market_cap_b?fmtCap(t.market_cap_b*1e9):"—"}</td></tr>`).join("");
   document.getElementById("detail").innerHTML=`
@@ -1498,7 +1505,7 @@ function showUniverseDetail(t){
       <span id="d-watch" style="margin-left:2px"></span>
       <span class="d-pct ${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</span></div>
     <div class="d-stats">
-      <div class="d-stat"><div class="k">Price</div><div class="v">$${(t.price??0).toFixed(2)}</div></div>
+      <div class="d-stat"><div class="k">Price</div><div class="v">${t.price==null?"—":"$"+t.price.toFixed(2)}</div></div>
       <div class="d-stat"><div class="k">Market cap</div><div class="v">${fmtCap(t.market_cap_b*1e9)}</div></div>
       <div class="d-stat"><div class="k">Finviz industry</div><div class="v" style="font-size:13px">${t.industry}</div></div>
       <div class="d-stat"><div class="k">P/E · Volume</div><div class="v">${t.pe==null?"—":t.pe} · ${fmtVol(t.volume)}</div></div>

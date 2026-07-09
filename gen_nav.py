@@ -64,7 +64,7 @@ NAV = [
   dict(key="maps", label="Market Maps", more=True,
        desc="Visual entry points into the same delayed data.",
        links=[
-         ("Stock Bubble Map", "/terminal", "99 bubbles sized by cap, colored by heat.", None),
+         ("Stock Bubble Map", "/terminal", "99 bubbles sized by the day's move, colored by direction.", None),
          ("Crypto Movers", "/crypto", "AI tokens ranked by momentum.", None),
          ("ETF Map", "/etfs", "Overlap-aware list of the AI ETF complex.", None),
          ("Bubble-Risk Gauge", "/bubble", "One dial for the whole AI trade.", None),

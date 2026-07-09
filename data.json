@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-07-09T01:10:26+00:00",
-  "as_of_local": "2026-07-09 01:10:26 UTC",
+  "as_of_utc": "2026-07-09T01:15:25+00:00",
+  "as_of_local": "2026-07-09 01:15:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "AMD"
+    "CEVA"
   ],
   "stocks": [
     {
@@ -115,6 +115,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ford-joins-partner-micron-coveted-224900770.html",
           "publisher": "Zacks",
           "published": "2026-07-08T22:49:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 517.41,
+      "previous_close": 516.11,
+      "change_pct": 0.25,
+      "market_cap": 843680971393.2981,
+      "headlines": [
+        {
+          "title": "AI memory stocks trim losses as investors buy the dip",
+          "url": "https://finance.yahoo.com/markets/stocks/article/ai-memory-stocks-trim-losses-as-investors-buy-the-dip-122848703.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-08T12:28:48Z"
+        },
+        {
+          "title": "Nvidia's valuation just hit a multiyear low \u2014 even as revenue sets records",
+          "url": "https://finance.yahoo.com/technology/article/nvidias-valuation-just-hit-a-multiyear-low--even-as-revenue-sets-records-155948933.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-08T15:59:48Z"
+        },
+        {
+          "title": "AMD (AMD) Stock Looks Fully Valued Despite Strong AI Growth Hopes",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-amd-stock-looks-fully-201233352.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-07-08T20:12:33Z"
         }
       ]
     },
@@ -341,34 +369,6 @@
           "published": "2026-07-02T06:38:34Z"
         }
       ]
-    },
-    {
-      "symbol": "CEVA",
-      "name": "CEVA",
-      "price": 44.56,
-      "previous_close": 42.76,
-      "change_pct": 4.21,
-      "market_cap": 1241413520.8990211,
-      "headlines": [
-        {
-          "title": "Needham Initiates CEVA (CEVA) With A Buy Rating",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/needham-initiates-ceva-ceva-buy-210441807.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-07-01T21:04:41Z"
-        },
-        {
-          "title": "Is Amkor Technology (AMKR) Stock Outpacing Its Computer and Technology Peers This Year?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-stock-outpacing-134006232.html",
-          "publisher": "Zacks",
-          "published": "2026-06-29T13:40:06Z"
-        },
-        {
-          "title": "All You Need to Know About Ceva (CEVA) Rating Upgrade to Buy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/know-ceva-ceva-rating-upgrade-160005922.html",
-          "publisher": "Zacks",
-          "published": "2026-06-23T16:00:05Z"
-        }
-      ]
     }
   ],
   "etfs": [
@@ -392,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 8.04,
-          "price": 2243000.0,
+          "change_pct": 6.41,
+          "price": 2209000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 3.78,
-          "price": 288000.0,
+          "change_pct": 2.34,
+          "price": 284000.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 8.49,
-          "price": 77970.0,
+          "change_pct": 9.36,
+          "price": 78600.0,
           "currency": "JPY"
         },
         {
@@ -482,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 8.04,
-        "price": 2243000.0,
+        "change_pct": 6.41,
+        "price": 2209000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 3.78,
-        "price": 288000.0,
+        "change_pct": 2.34,
+        "price": 284000.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 8.49,
-        "price": 77970.0,
+        "change_pct": 9.36,
+        "price": 78600.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62480.03,
-      "change_pct": -1.29
+      "price": 62346.49,
+      "change_pct": -1.5
     },
     {
       "label": "Gold",
-      "price": 4085.0,
-      "change_pct": -1.45
+      "price": 4077.1,
+      "change_pct": -1.65
     },
     {
       "label": "Nasdaq100",

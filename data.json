@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-07-09T12:16:56+00:00",
-  "as_of_local": "2026-07-09 12:16:56 UTC",
+  "as_of_utc": "2026-07-09T12:20:26+00:00",
+  "as_of_local": "2026-07-09 12:20:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 204.12,
+      "previous_close": 196.93,
+      "change_pct": 3.65,
+      "market_cap": 4943990401733.398,
+      "headlines": [
+        {
+          "title": "China warned that Anthropic's Claude Code puts your data at risk. Is that true?",
+          "url": "https://finance.yahoo.com/video/china-warned-that-anthropics-claude-code-puts-your-data-at-risk-is-that-true-203951387.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-08T20:39:51Z"
+        },
+        {
+          "title": "Nvidia's valuation just hit a multiyear low \u2014 even as revenue sets records",
+          "url": "https://finance.yahoo.com/technology/article/nvidias-valuation-just-hit-a-multiyear-low--even-as-revenue-sets-records-155948933.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-08T15:59:48Z"
+        },
+        {
+          "title": "Nvidia market cap sheds $1 trillion: It's more of a rotation than a correction",
+          "url": "https://finance.yahoo.com/video/nvidia-market-cap-sheds-1-trillion-its-more-of-a-rotation-than-a-correction-143213433.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-08T14:32:13Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -83,10 +109,10 @@
           "published": "2026-07-08T12:28:48Z"
         },
         {
-          "title": "Chip stocks rise as Trump says Iran called for a deal",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-rise-trump-says-113718438.html",
-          "publisher": "Quartz",
-          "published": "2026-07-09T11:37:18Z"
+          "title": "Stock Market Today: Dow Falls Amid U.S.-Iran News; Micron Stock, Sandisk Rally (Live Coverage)",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-micron-sandisk/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-07-09T12:09:30Z"
         }
       ]
     },
@@ -428,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 3.91,
+          "price": 860.02,
           "currency": "USD"
         },
         {
@@ -518,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 3.91,
+        "price": 860.02,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 62705.21,
-      "change_pct": 0.72
+      "price": 62718.35,
+      "change_pct": 0.74
     },
     {
       "label": "Gold",
-      "price": 4118.4,
-      "change_pct": 1.17
+      "price": 4123.9,
+      "change_pct": 1.3
     },
     {
       "label": "Nasdaq100",

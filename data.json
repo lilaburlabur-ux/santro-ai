@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-09T02:12:11+00:00",
-  "as_of_local": "2026-07-09 02:12:11 UTC",
+  "as_of_utc": "2026-07-09T02:15:23+00:00",
+  "as_of_local": "2026-07-09 02:15:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -173,40 +175,12 @@
       ]
     },
     {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 300.24,
-      "previous_close": 300.43,
-      "change_pct": -0.06,
-      "market_cap": 319471508825.8894,
-      "headlines": [
-        {
-          "title": "Arm Holdings' Licensing Momentum Continues to Fuel Revenue Growth",
-          "url": "https://finance.yahoo.com/technology/articles/arm-holdings-licensing-momentum-continues-152600229.html",
-          "publisher": "Zacks",
-          "published": "2026-07-08T15:26:00Z"
-        },
-        {
-          "title": "\ud83d\udcc9 Which Tech Stocks Fell the Most Today?",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-07-2026/card/-which-tech-stocks-are-falling-the-most-today--ZJ8L41EcRW26zRtVSy9v?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-07-07T20:53:46Z"
-        },
-        {
-          "title": "AMD Feels Goldman\u2019s Love, and the Stock Jumps",
-          "url": "https://www.barrons.com/articles/amd-stock-goldmans-sachs-price-target-8ae8b2f6?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-07-06T19:01:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "price": 231.71,
       "previous_close": 230.7,
       "change_pct": 0.44,
-      "market_cap": 202699913873.29102,
+      "market_cap": 202874431594.17773,
       "headlines": [
         {
           "title": "Top financial expert declares Marvell 'no longer a marvelous buy'",
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 6.6,
-          "price": 2213000.0,
+          "change_pct": 5.54,
+          "price": 2191000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 2.25,
-          "price": 283750.0,
+          "change_pct": 1.26,
+          "price": 281000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 9.18,
-          "price": 78470.0,
+          "change_pct": 8.58,
+          "price": 78040.0,
           "currency": "JPY"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 8.01,
-          "price": 182.0,
+          "change_pct": 6.82,
+          "price": 180.0,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 6.6,
-        "price": 2213000.0,
+        "change_pct": 5.54,
+        "price": 2191000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 2.25,
-        "price": 283750.0,
+        "change_pct": 1.26,
+        "price": 281000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 9.18,
-        "price": 78470.0,
+        "change_pct": 8.58,
+        "price": 78040.0,
         "currency": "JPY"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 8.01,
-        "price": 182.0,
+        "change_pct": 6.82,
+        "price": 180.0,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61998.91,
-      "change_pct": -2.05
+      "price": 62029.85,
+      "change_pct": -2.0
     },
     {
       "label": "Gold",
-      "price": 4083.0,
-      "change_pct": -1.5
+      "price": 4083.6,
+      "change_pct": -1.49
     },
     {
       "label": "Nasdaq100",

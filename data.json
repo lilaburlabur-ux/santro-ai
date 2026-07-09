@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-09T10:05:23+00:00",
-  "as_of_local": "2026-07-09 10:05:23 UTC",
+  "as_of_utc": "2026-07-09T10:10:27+00:00",
+  "as_of_local": "2026-07-09 10:10:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NXPI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -27,10 +25,10 @@
           "published": "2026-07-08T15:59:48Z"
         },
         {
-          "title": "VUG vs. IWO: Can This Small-Cap ETF Keep Outperforming Major Growth Stocks?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vug-vs-iwo-small-cap-095200821.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-09T09:52:00Z"
+          "title": "AI Weekly: Samsung's massive profits, Microsoft's big lays off",
+          "url": "https://finance.yahoo.com/video/ai-weekly-samsungs-massive-profits-095459626.html",
+          "publisher": "Reuters Videos",
+          "published": "2026-07-09T09:54:59Z"
         }
       ]
     },
@@ -259,6 +257,34 @@
       ]
     },
     {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors",
+      "price": 283.81,
+      "previous_close": 273.15,
+      "change_pct": 3.9,
+      "market_cap": 71653816314.60553,
+      "headlines": [
+        {
+          "title": "Nvidia, Chip Stocks Rally Despite U.S.-Iran War Flare-Up",
+          "url": "https://www.investors.com/news/technology/nvidia-stock-chip-stocks-waver-sox/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-07-08T20:45:18Z"
+        },
+        {
+          "title": "Texas Instruments Stock Is Running On A Bold Promise",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-stock-running-bold-183738468.html",
+          "publisher": "Trefis",
+          "published": "2026-07-08T18:37:38Z"
+        },
+        {
+          "title": "4 Semiconductor Stocks to Benefit as Cars Become AI-Powered",
+          "url": "https://finance.yahoo.com/technology/articles/4-semiconductor-stocks-benefit-cars-140300450.html",
+          "publisher": "Zacks",
+          "published": "2026-07-08T14:03:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
       "price": 132.48,
@@ -419,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 6.77,
-          "price": 1727.18,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -509,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 6.77,
-        "price": 1727.18,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 62886.24,
-      "change_pct": 1.01
+      "price": 62953.85,
+      "change_pct": 1.12
     },
     {
       "label": "Gold",
-      "price": 4115.1,
-      "change_pct": 1.09
+      "price": 4114.8,
+      "change_pct": 1.08
     },
     {
       "label": "Nasdaq100",

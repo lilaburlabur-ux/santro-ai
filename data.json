@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-09T02:45:26+00:00",
-  "as_of_local": "2026-07-09 02:45:26 UTC",
+  "as_of_utc": "2026-07-09T02:50:30+00:00",
+  "as_of_local": "2026-07-09 02:50:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -313,34 +315,6 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 157.78,
-      "previous_close": 162.53,
-      "change_pct": -2.92,
-      "market_cap": 7984934911.62262,
-      "headlines": [
-        {
-          "title": "Northrop, Lockheed, Other Defense Stocks Fall as Trump Sparks Iran War Fears",
-          "url": "https://www.barrons.com/articles/northrop-grumman-lockheed-defense-stocks-trump-iran-war-e63c1079?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-07-08T20:27:00Z"
-        },
-        {
-          "title": "AEVEX Announces A Win, And Investors Sell",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aevex-announces-win-investors-sell-202136657.html",
-          "publisher": "Trefis",
-          "published": "2026-07-08T20:21:36Z"
-        },
-        {
-          "title": "Ondas Just Built Autonomous Defense Powerhouse With This Major Acquisition",
-          "url": "https://finance.yahoo.com/technology/articles/ondas-just-built-autonomous-defense-152539794.html",
-          "publisher": "IPO-Edge.com",
-          "published": "2026-07-08T15:25:39Z"
-        }
-      ]
-    },
-    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 123.37,
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 1.8,
-          "price": 282500.0,
+          "change_pct": 1.44,
+          "price": 281500.0,
           "currency": "KRW"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 8.01,
-          "price": 182.0,
+          "change_pct": 7.72,
+          "price": 181.5,
           "currency": "TWD"
         }
       ]
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 1.8,
-        "price": 282500.0,
+        "change_pct": 1.44,
+        "price": 281500.0,
         "currency": "KRW"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 8.01,
-        "price": 182.0,
+        "change_pct": 7.72,
+        "price": 181.5,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61765.09,
-      "change_pct": -2.42
+      "price": 61721.54,
+      "change_pct": -2.49
     },
     {
       "label": "Gold",
-      "price": 4080.7,
-      "change_pct": -1.56
+      "price": 4082.1,
+      "change_pct": -1.52
     },
     {
       "label": "Nasdaq100",

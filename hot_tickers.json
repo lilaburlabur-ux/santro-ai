@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-09T13:25:50+00:00",
+  "as_of": "2026-07-09T13:30:41+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,51 +9,51 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "MU",
-   "company": "Micron Technology Inc",
-   "move_pct": 7.1,
-   "price": 1016.14,
-   "volume": 42626500,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 44,
+   "ticker": "AMAT",
+   "company": "Applied Materials Inc",
+   "move_pct": 8.63,
+   "price": 619.74,
+   "volume": 850390,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 56,
    "direction": "up",
-   "why": "Micron Technology (MU) Gains from Growing AI Infrastructure Investment",
+   "why": "Applied Materials surges as CEO signals multi-year chip boom",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-gains-growing-130441916.html",
-   "published": "2026-07-09T13:04:41Z",
-   "sector": "AI Chips & Compute"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-surges-ceo-signals-130650073.html",
+   "published": "2026-07-09T13:06:50Z",
+   "sector": "Chip Equipment & AI Hardware"
   },
   {
    "rank": 2,
+   "ticker": "MU",
+   "company": "Micron Technology Inc",
+   "move_pct": 6.37,
+   "price": 1009.21,
+   "volume": 4839794,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 38,
+   "direction": "up",
+   "why": "Stock Market Today: Dow Rises Amid U.S.-Iran News; Micron Stock, Sandisk Rally (Live Coverage)",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-micron-sandisk/?src=A00220&yptr=yahoo",
+   "published": "2026-07-09T13:21:49Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 3,
    "ticker": "IBM",
    "company": "International Business Machines Corp",
-   "move_pct": -5.32,
-   "price": 285.97,
-   "volume": 7411400,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 37,
+   "move_pct": -5.04,
+   "price": 286.84,
+   "volume": 614736,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 33,
    "direction": "down",
    "why": "IBM Upgrades Bob With Multi-Agent AI",
    "catalyst_type": "analyst_action",
    "source_url": "https://finance.yahoo.com/technology/ai/articles/ibm-upgrades-bob-multi-agent-124848910.html",
    "published": "2026-07-09T12:48:48Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 3,
-   "ticker": "NOW",
-   "company": "ServiceNow Inc",
-   "move_pct": -5.04,
-   "price": 102.35,
-   "volume": 14833200,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 35,
-   "direction": "down",
-   "why": "ServiceNow (NOW) Sold Off Despite a Solid Result",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-now-sold-off-despite-124224765.html",
-   "published": "2026-07-09T12:42:24Z",
-   "sector": "AI Applications & Data Software"
   }
  ]
 }

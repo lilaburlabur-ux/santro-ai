@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-09T10:35:22+00:00",
-  "as_of_local": "2026-07-09 10:35:22 UTC",
+  "as_of_utc": "2026-07-09T10:38:31+00:00",
+  "as_of_local": "2026-07-09 10:38:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -111,10 +109,10 @@
           "published": "2026-07-08T12:28:48Z"
         },
         {
-          "title": "U.S. chip stocks rebound, tracking China semiconductor rally",
-          "url": "https://finance.yahoo.com/technology/articles/u-chip-stocks-rebound-tracking-101714825.html",
+          "title": "Memory monthly sales hit record $74.6B as analysts see price surge ahead",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/memory-monthly-sales-hit-record-102526305.html",
           "publisher": "Investing.com",
-          "published": "2026-07-09T10:17:14Z"
+          "published": "2026-07-09T10:25:26Z"
         }
       ]
     },
@@ -199,6 +197,34 @@
           "url": "https://www.barrons.com/articles/amd-stock-goldmans-sachs-price-target-8ae8b2f6?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-07-06T19:01:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 231.71,
+      "previous_close": 230.7,
+      "change_pct": 0.44,
+      "market_cap": 202699913873.29102,
+      "headlines": [
+        {
+          "title": "U.S. chip stocks rebound, tracking China semiconductor rally",
+          "url": "https://finance.yahoo.com/technology/articles/u-chip-stocks-rebound-tracking-101714825.html",
+          "publisher": "Investing.com",
+          "published": "2026-07-09T10:17:14Z"
+        },
+        {
+          "title": "Zacks Investment Ideas feature highlights: Marvell Technology, Amazon, Alphabet and NVIDIA",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-063800191.html",
+          "publisher": "Zacks",
+          "published": "2026-07-09T06:38:00Z"
+        },
+        {
+          "title": "Top financial expert declares Marvell 'no longer a marvelous buy'",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-financial-expert-declares-marvell-213300848.html",
+          "publisher": "TheStreet",
+          "published": "2026-07-08T21:33:00Z"
         }
       ]
     },
@@ -559,13 +585,18 @@
     },
     {
       "label": "BTC",
-      "price": 62832.0,
-      "change_pct": 0.92
+      "price": 62836.5,
+      "change_pct": 0.93
     },
     {
       "label": "Gold",
-      "price": 4113.8,
-      "change_pct": 1.05
+      "price": 4114.1,
+      "change_pct": 1.06
+    },
+    {
+      "label": "Nasdaq100",
+      "price": 29252.56,
+      "change_pct": 0.27
     }
   ]
 }

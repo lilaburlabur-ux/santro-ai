@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-09T03:10:21+00:00",
-  "as_of_local": "2026-07-09 03:10:21 UTC",
+  "as_of_utc": "2026-07-09T03:15:26+00:00",
+  "as_of_local": "2026-07-09 03:15:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -171,6 +169,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-intel-stock-july-23-194300560.html",
           "publisher": "Motley Fool",
           "published": "2026-07-08T19:43:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 300.24,
+      "previous_close": 300.43,
+      "change_pct": -0.06,
+      "market_cap": 319471508825.8894,
+      "headlines": [
+        {
+          "title": "Arm Holdings' Licensing Momentum Continues to Fuel Revenue Growth",
+          "url": "https://finance.yahoo.com/technology/articles/arm-holdings-licensing-momentum-continues-152600229.html",
+          "publisher": "Zacks",
+          "published": "2026-07-08T15:26:00Z"
+        },
+        {
+          "title": "\ud83d\udcc9 Which Tech Stocks Fell the Most Today?",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-07-2026/card/-which-tech-stocks-are-falling-the-most-today--ZJ8L41EcRW26zRtVSy9v?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-07-07T20:53:46Z"
+        },
+        {
+          "title": "AMD Feels Goldman\u2019s Love, and the Stock Jumps",
+          "url": "https://www.barrons.com/articles/amd-stock-goldmans-sachs-price-target-8ae8b2f6?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-07-06T19:01:00Z"
         }
       ]
     },
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 3.08,
-          "price": 2140000.0,
+          "change_pct": 1.93,
+          "price": 2116000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -1.26,
-          "price": 274000.0,
+          "change_pct": -2.34,
+          "price": 271000.0,
           "currency": "KRW"
         },
         {
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 6.23,
-          "price": 179.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "TWD"
         }
       ]
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 3.08,
-        "price": 2140000.0,
+        "change_pct": 1.93,
+        "price": 2116000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -1.26,
-        "price": 274000.0,
+        "change_pct": -2.34,
+        "price": 271000.0,
         "currency": "KRW"
       },
       {
@@ -545,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 6.23,
-        "price": 179.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "TWD"
       }
     ]
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61742.01,
-      "change_pct": -2.46
+      "price": 61803.97,
+      "change_pct": -2.36
     },
     {
       "label": "Gold",
-      "price": 4075.0,
-      "change_pct": 0.1
+      "price": 4075.5,
+      "change_pct": -1.68
     },
     {
       "label": "Nasdaq100",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-09T04:21:58+00:00",
-  "as_of_local": "2026-07-09 04:21:58 UTC",
+  "as_of_utc": "2026-07-09T04:25:21+00:00",
+  "as_of_local": "2026-07-09 04:25:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -206,7 +208,7 @@
       "price": 231.71,
       "previous_close": 230.7,
       "change_pct": 0.44,
-      "market_cap": 202699913873.29102,
+      "market_cap": 202874431594.17773,
       "headlines": [
         {
           "title": "Top financial expert declares Marvell 'no longer a marvelous buy'",
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-down-22-6-171116041.html",
           "publisher": "Simply Wall St.",
           "published": "2026-07-08T17:11:16Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 186.56,
-      "previous_close": 182.97,
-      "change_pct": 1.96,
-      "market_cap": 196634237426.7578,
-      "headlines": [
-        {
-          "title": "Qualcomm AI Factory Bet Comes as the Semiconductor Pendulum Swings",
-          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-ai-factory-bet-comes-180700653.html",
-          "publisher": "Zacks",
-          "published": "2026-07-08T18:07:00Z"
-        },
-        {
-          "title": "Nvidia, Micron, AMD Lead Chip Stock Selloff After Trump Said U.S.-Iran 'Truce Is Over'",
-          "url": "https://finance.yahoo.com/technology/articles/nvidia-micron-amd-lead-chip-132126893.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-07-08T13:21:26Z"
-        },
-        {
-          "title": "3 Beaten Down AI Semiconductor Giants of 1H 2026 That Could Soar in 2H",
-          "url": "https://finance.yahoo.com/technology/ai/articles/3-beaten-down-ai-semiconductor-124200713.html",
-          "publisher": "Zacks",
-          "published": "2026-07-08T12:42:00Z"
         }
       ]
     },
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 4.72,
-          "price": 2174000.0,
+          "change_pct": 4.34,
+          "price": 2166000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.18,
-          "price": 277000.0,
+          "change_pct": -0.27,
+          "price": 276750.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 6.92,
-          "price": 76840.0,
+          "change_pct": 7.43,
+          "price": 77210.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 4.72,
-        "price": 2174000.0,
+        "change_pct": 4.34,
+        "price": 2166000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.18,
-        "price": 277000.0,
+        "change_pct": -0.27,
+        "price": 276750.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 6.92,
-        "price": 76840.0,
+        "change_pct": 7.43,
+        "price": 77210.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61974.99,
+      "price": 61973.68,
       "change_pct": -2.09
     },
     {
       "label": "Gold",
-      "price": 4072.1,
-      "change_pct": 0.03
+      "price": 4068.6,
+      "change_pct": -0.06
     },
     {
       "label": "Nasdaq100",

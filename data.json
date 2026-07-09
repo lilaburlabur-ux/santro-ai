@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-07-09T05:30:22+00:00",
-  "as_of_local": "2026-07-09 05:30:22 UTC",
+  "as_of_utc": "2026-07-09T05:35:25+00:00",
+  "as_of_local": "2026-07-09 05:35:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 204.12,
-      "previous_close": 196.93,
-      "change_pct": 3.65,
-      "market_cap": 4943990401733.398,
-      "headlines": [
-        {
-          "title": "China warned that Anthropic's Claude Code puts your data at risk. Is that true?",
-          "url": "https://finance.yahoo.com/video/china-warned-that-anthropics-claude-code-puts-your-data-at-risk-is-that-true-203951387.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-08T20:39:51Z"
-        },
-        {
-          "title": "Nvidia's valuation just hit a multiyear low \u2014 even as revenue sets records",
-          "url": "https://finance.yahoo.com/technology/article/nvidias-valuation-just-hit-a-multiyear-low--even-as-revenue-sets-records-155948933.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-08T15:59:48Z"
-        },
-        {
-          "title": "Dow Jones Futures, Oil Prices Rise Amid Iran News; Nvidia, Valero, Dell, SpaceX In Focus",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-spikes-iran-news-nvidia-valero-dell-spacex-low/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-07-09T05:13:33Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 3.37,
-          "price": 2146000.0,
+          "change_pct": 4.12,
+          "price": 2161500.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -1.44,
-          "price": 273500.0,
+          "change_pct": -0.81,
+          "price": 275250.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 7.42,
-          "price": 77200.0,
+          "change_pct": 7.01,
+          "price": 76910.0,
           "currency": "JPY"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 5.64,
-          "price": 178.0,
+          "change_pct": 5.93,
+          "price": 178.5,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 3.37,
-        "price": 2146000.0,
+        "change_pct": 4.12,
+        "price": 2161500.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -1.44,
-        "price": 273500.0,
+        "change_pct": -0.81,
+        "price": 275250.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 7.42,
-        "price": 77200.0,
+        "change_pct": 7.01,
+        "price": 76910.0,
         "currency": "JPY"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 5.64,
-        "price": 178.0,
+        "change_pct": 5.93,
+        "price": 178.5,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62245.1,
-      "change_pct": -1.66
+      "price": 62234.0,
+      "change_pct": -1.68
     },
     {
       "label": "Gold",
-      "price": 4076.9,
-      "change_pct": 0.15
+      "price": 4077.4,
+      "change_pct": 0.16
     },
     {
       "label": "Nasdaq100",

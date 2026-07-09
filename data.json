@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-09T02:20:29+00:00",
-  "as_of_local": "2026-07-09 02:20:29 UTC",
+  "as_of_utc": "2026-07-09T02:25:22+00:00",
+  "as_of_local": "2026-07-09 02:25:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -31,6 +29,34 @@
           "url": "https://finance.yahoo.com/video/ai-spending-becoming-more-capital-120000916.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-07-08T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 436.98,
+      "previous_close": 432.57,
+      "change_pct": 1.02,
+      "market_cap": 2266385471181.0454,
+      "headlines": [
+        {
+          "title": "Veteran analyst drops massive Micron valuation prediction",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/veteran-analyst-drops-massive-micron-173300767.html",
+          "publisher": "TheStreet",
+          "published": "2026-07-08T17:33:00Z"
+        },
+        {
+          "title": "Revenue and Growth Outlook Affirm Why Taiwan Semiconductor Manufacturing Co. (TSM) is a Top AI Stock on Wall Street\u2019s Radar",
+          "url": "https://finance.yahoo.com/technology/ai/articles/revenue-growth-outlook-affirm-why-153912617.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-07-08T15:39:12Z"
+        },
+        {
+          "title": "Wall Street Thinks AI Is Slowing. Wall Street Is Wrong",
+          "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-thinks-ai-slowing-153414199.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-07-08T15:34:14Z"
         }
       ]
     },
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 4.91,
-          "price": 2178000.0,
+          "change_pct": 4.24,
+          "price": 2164000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.9,
-          "price": 280000.0,
+          "change_pct": 0.18,
+          "price": 278000.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 8.43,
-          "price": 77930.0,
+          "change_pct": 8.93,
+          "price": 78290.0,
           "currency": "JPY"
         },
         {
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 6.23,
-          "price": 179.0,
+          "change_pct": 6.53,
+          "price": 179.5,
           "currency": "TWD"
         }
       ]
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 4.91,
-        "price": 2178000.0,
+        "change_pct": 4.24,
+        "price": 2164000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.9,
-        "price": 280000.0,
+        "change_pct": 0.18,
+        "price": 278000.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 8.43,
-        "price": 77930.0,
+        "change_pct": 8.93,
+        "price": 78290.0,
         "currency": "JPY"
       },
       {
@@ -545,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 6.23,
-        "price": 179.0,
+        "change_pct": 6.53,
+        "price": 179.5,
         "currency": "TWD"
       }
     ]
@@ -559,13 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 62018.09,
+      "price": 62019.4,
       "change_pct": -2.02
-    },
-    {
-      "label": "Gold",
-      "price": 4084.8,
-      "change_pct": -1.46
     },
     {
       "label": "Nasdaq100",

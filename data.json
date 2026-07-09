@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-09T06:45:24+00:00",
-  "as_of_local": "2026-07-09 06:45:24 UTC",
+  "as_of_utc": "2026-07-09T06:50:19+00:00",
+  "as_of_local": "2026-07-09 06:50:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -27,10 +25,10 @@
           "published": "2026-07-08T15:59:48Z"
         },
         {
-          "title": "SpaceX Lost $4.28 Billion on $4.7 Billion in Revenue Last Quarter. Here's What's Going On.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-lost-4-28-billion-062500998.html",
+          "title": "Billionaire Steve Cohen Sold Amazon and Nvidia but Loaded Up on This Beaten-Down Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-steve-cohen-sold-amazon-063500726.html",
           "publisher": "Motley Fool",
-          "published": "2026-07-09T06:25:00Z"
+          "published": "2026-07-09T06:35:00Z"
         }
       ]
     },
@@ -59,6 +57,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-thinks-ai-slowing-153414199.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-07-08T15:34:14Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 388.69,
+      "previous_close": 370.78,
+      "change_pct": 4.83,
+      "market_cap": 1849223858775.8062,
+      "headlines": [
+        {
+          "title": "Broadcom stock jumps on Apple AI chip deal, while Nvidia's relative stock price drops",
+          "url": "https://finance.yahoo.com/video/broadcom-stock-jumps-on-apple-ai-chip-deal-while-nvidias-relative-stock-price-drops-200428968.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-08T20:04:28Z"
+        },
+        {
+          "title": "Apple & Broadcom ramp up American manufacturing with $30B AI chip partnership",
+          "url": "https://finance.yahoo.com/video/apple--broadcom-ramp-up-american-manufacturing-with-30b-ai-chip-partnership-155611706.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-08T15:56:11Z"
+        },
+        {
+          "title": "Apple announces chip deal with Broadcom worth more than $30 billion",
+          "url": "https://finance.yahoo.com/technology/article/apple-announces-chip-deal-with-broadcom-worth-more-than-30-billion-100000097.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-08T10:00:00Z"
         }
       ]
     },
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 5.92,
-          "price": 2199000.0,
+          "change_pct": 5.3,
+          "price": 2186000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.45,
-          "price": 278750.0,
+          "change_pct": 0.18,
+          "price": 278000.0,
           "currency": "KRW"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 5.92,
-        "price": 2199000.0,
+        "change_pct": 5.3,
+        "price": 2186000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.45,
-        "price": 278750.0,
+        "change_pct": 0.18,
+        "price": 278000.0,
         "currency": "KRW"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 62796.0,
+      "price": 62792.69,
       "change_pct": 0.86
     },
     {
       "label": "Gold",
-      "price": 4112.8,
-      "change_pct": 1.03
+      "price": 4107.9,
+      "change_pct": 0.91
     },
     {
       "label": "Nasdaq100",

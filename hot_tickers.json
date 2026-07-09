@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-09T01:20:40+00:00",
+  "as_of": "2026-07-09T01:25:36+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -15,12 +15,12 @@
    "price": 108.98,
    "volume": 38329486,
    "volume_vs_avg": "~3x",
-   "heat_score": 79,
+   "heat_score": 64,
    "direction": "up",
-   "why": "Stocks to Watch Wednesday Recap: Broadcom, Alibaba, Chevron, Levi Strauss",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-08-2026/card/stocks-to-watch-micron-chevron-levi-strauss-qowXmV2vcTgrgwbwQIJg?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-07-08T21:24:17Z",
+   "why": "Moving up 11.0% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
    "sector": "AI Platforms, Internet & AdTech"
   }
  ]

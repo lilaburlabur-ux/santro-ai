@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-09T02:10:25+00:00",
-  "as_of_local": "2026-07-09 02:10:25 UTC",
+  "as_of_utc": "2026-07-09T02:12:11+00:00",
+  "as_of_local": "2026-07-09 02:12:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -59,6 +57,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-thinks-ai-slowing-153414199.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-07-08T15:34:14Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 388.69,
+      "previous_close": 370.78,
+      "change_pct": 4.83,
+      "market_cap": 1849223858775.8062,
+      "headlines": [
+        {
+          "title": "Broadcom stock jumps on Apple AI chip deal, while Nvidia's relative stock price drops",
+          "url": "https://finance.yahoo.com/video/broadcom-stock-jumps-on-apple-ai-chip-deal-while-nvidias-relative-stock-price-drops-200428968.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-08T20:04:28Z"
+        },
+        {
+          "title": "Apple & Broadcom ramp up American manufacturing with $30B AI chip partnership",
+          "url": "https://finance.yahoo.com/video/apple--broadcom-ramp-up-american-manufacturing-with-30b-ai-chip-partnership-155611706.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-08T15:56:11Z"
+        },
+        {
+          "title": "Apple announces chip deal with Broadcom worth more than $30 billion",
+          "url": "https://finance.yahoo.com/technology/article/apple-announces-chip-deal-with-broadcom-worth-more-than-30-billion-100000097.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-08T10:00:00Z"
         }
       ]
     },
@@ -180,7 +206,7 @@
       "price": 231.71,
       "previous_close": 230.7,
       "change_pct": 0.44,
-      "market_cap": 202874431594.17773,
+      "market_cap": 202699913873.29102,
       "headlines": [
         {
           "title": "Top financial expert declares Marvell 'no longer a marvelous buy'",
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 7.08,
-          "price": 2223000.0,
+          "change_pct": 6.6,
+          "price": 2213000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 2.16,
-          "price": 283500.0,
+          "change_pct": 2.25,
+          "price": 283750.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 9.11,
-          "price": 78420.0,
+          "change_pct": 9.18,
+          "price": 78470.0,
           "currency": "JPY"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 7.08,
-        "price": 2223000.0,
+        "change_pct": 6.6,
+        "price": 2213000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 2.16,
-        "price": 283500.0,
+        "change_pct": 2.25,
+        "price": 283750.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 9.11,
-        "price": 78420.0,
+        "change_pct": 9.18,
+        "price": 78470.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61976.12,
-      "change_pct": -2.09
+      "price": 61998.91,
+      "change_pct": -2.05
     },
     {
       "label": "Gold",
-      "price": 4082.4,
-      "change_pct": -1.52
+      "price": 4083.0,
+      "change_pct": -1.5
     },
     {
       "label": "Nasdaq100",

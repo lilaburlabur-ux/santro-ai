@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-09T09:05:50+00:00",
+  "as_of": "2026-07-09T09:10:46+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "BABA",
    "company": "Alibaba Group Holding Ltd ADR",
-   "move_pct": 0.46,
-   "price": 109.48,
+   "move_pct": 0.41,
+   "price": 109.42,
    "volume": 38726500,
    "volume_vs_avg": "~3x",
    "heat_score": 32,

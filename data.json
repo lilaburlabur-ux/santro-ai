@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-09T12:38:07+00:00",
-  "as_of_local": "2026-07-09 12:38:07 UTC",
+  "as_of_utc": "2026-07-09T12:40:25+00:00",
+  "as_of_local": "2026-07-09 12:40:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-07-08T19:00:00Z"
         },
         {
-          "title": "How a $1 Million Dividend Portfolio Can Generate $100,000 Annually",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-million-dividend-portfolio-generate-123034860.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-07-09T12:30:34Z"
+          "title": "Jim Cramer on IREN: \u201cIt\u2019s Growing Like a Weed\u201d",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-iren-growing-weed-123253115.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-07-09T12:32:53Z"
         }
       ]
     },
@@ -57,34 +59,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-tsmc-stock-going-soar-101900231.html",
           "publisher": "Motley Fool",
           "published": "2026-07-09T10:19:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 388.69,
-      "previous_close": 370.78,
-      "change_pct": 4.83,
-      "market_cap": 1849223858775.8062,
-      "headlines": [
-        {
-          "title": "Broadcom stock jumps on Apple AI chip deal, while Nvidia's relative stock price drops",
-          "url": "https://finance.yahoo.com/video/broadcom-stock-jumps-on-apple-ai-chip-deal-while-nvidias-relative-stock-price-drops-200428968.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-08T20:04:28Z"
-        },
-        {
-          "title": "Apple & Broadcom ramp up American manufacturing with $30B AI chip partnership",
-          "url": "https://finance.yahoo.com/video/apple--broadcom-ramp-up-american-manufacturing-with-30b-ai-chip-partnership-155611706.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-08T15:56:11Z"
-        },
-        {
-          "title": "Meta to start production of Iris AI chip in September 2026",
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-start-production-iris-ai-122141801.html",
-          "publisher": "Quartz",
-          "published": "2026-07-09T12:21:41Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62896.0,
-      "change_pct": 1.03
+      "price": 62862.58,
+      "change_pct": 0.97
     },
     {
       "label": "Gold",
-      "price": 4115.5,
-      "change_pct": 1.1
+      "price": 4118.4,
+      "change_pct": 1.17
     },
     {
       "label": "Nasdaq100",

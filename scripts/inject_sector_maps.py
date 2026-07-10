@@ -5,8 +5,8 @@ with the canonical AI Universe dataset (universe.json, what /terminal reads).
 Responsibilities (all idempotent, marker-delimited — rerun anytime):
   1. sector-map block  — shared premium renderer (components/sector-bubble-map.js),
      terminal sizing semantics (|day move|).
-  2. members table     — REGENERATED from universe.json: canonical /t?sym= links
-     (works for every ticker; /stocks/<sym> doesn't exist for newer names),
+  2. members table     — REGENERATED from universe.json: canonical /stocks/<slug>
+     links (every universe ticker now has a static profile page),
      1D + Cap columns baked at generation time and live-refreshed in the browser
      from the SAME universe.json fetch the map makes (santro:universe event —
      zero extra requests).
@@ -56,7 +56,7 @@ def table_block(b):
     grouped = any(t.get("sub_theme") for t in tks)
     def row(t):
         tk = t["ticker"]
-        return (f'<tr><td class="tk"><a href="/t?sym={tk}"><b>{tk}</b></a></td>'
+        return (f'<tr><td class="tk"><a href="/stocks/{tk.lower()}"><b>{tk}</b></a></td>'
                 f'<td>{esc(t.get("company"))}</td><td>{esc(t.get("industry"))}</td>'
                 f'<td class="num" data-move-for="{tk}">{fpct(t.get("change_pct"))}</td>'
                 f'<td class="num" data-cap-for="{tk}">{fcap(t.get("market_cap_b"))}</td></tr>')

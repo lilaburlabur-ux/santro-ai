@@ -70,8 +70,8 @@ FOOTER = """<!-- mega-footer v1 -->
   <div class="mg-top">
     <div class="mg-brand">
       <div class="mg-logo">Santro <span>AI</span></div>
-      <div class="mg-tag">The AI Bubble Terminal</div>
-      <p class="mg-line">The AI bubble terminal for stocks, ETFs, crypto, hot tickers, valuation tools, and bubble-risk signals.</p>
+      <div class="mg-tag">The AI Trade Terminal</div>
+      <p class="mg-line">The AI trade terminal for stocks, ETFs, crypto, hot tickers, valuation tools, and bubble-risk signals.</p>
       <p class="mg-slogan">Hot means attention, not direction.</p>
     </div>
     <div class="mg-brief">

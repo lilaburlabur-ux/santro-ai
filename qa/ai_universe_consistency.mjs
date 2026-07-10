@@ -44,13 +44,13 @@ for (const f of files) {
 
   const tbl = (s.match(/<table class="tt">[\s\S]*?<\/table>/) || [""])[0];
   const canon = new Set(b.tickers.map(t => t.ticker));
-  const inTable = new Set([...tbl.matchAll(/href="\/t\?sym=([A-Z.]+)"/g)].map(m => m[1]));
+  const inTable = new Set([...tbl.matchAll(/href="\/stocks\/([a-z.]+)"/g)].map(m => m[1].toUpperCase()));
   const missing = [...canon].filter(t => !inTable.has(t));
   const extra = [...inTable].filter(t => !canon.has(t));
   check(`${slug}: table set == universe set (${canon.size})`, !missing.length && !extra.length,
         `missing=[${missing}] extra=[${extra}]`);
-  const stockLinks = (tbl.match(/href="?\/stocks\/[a-z.]+"?/g) || []).length;
-  check(`${slug}: canonical /t?sym= links only`, stockLinks === 0, `${stockLinks} legacy /stocks/ links`);
+  const tsym = (tbl.match(/href="\/t\?sym=/g) || []).length;
+  check(`${slug}: canonical /stocks/ links only`, tsym === 0, `${tsym} noindex /t?sym= links`);
   check(`${slug}: live-refresh hooks`, tbl.includes("data-move-for") && tbl.includes("data-cap-for"));
 }
 

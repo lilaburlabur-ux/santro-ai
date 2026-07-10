@@ -45,7 +45,7 @@
   }
   var heatText = function (pct) { return pct == null ? "#aeb9c4" : pct >= 0 ? "#8df0b4" : "#ff9aa2"; };
   var fmtPct = function (p) { return p == null ? "—" : (p >= 0 ? "+" : "") + Number(p).toFixed(2) + "%"; };
-  var fmtCap = function (b) { return b == null ? "—" : b >= 1000 ? "$" + (b / 1000).toFixed(2) + "T" : "$" + Math.round(b) + "B"; };
+  var fmtCap = function (b) { return b == null ? "—" : b >= 1000 ? "$" + (b / 1000).toFixed(2) + "T" : b >= 10 ? "$" + Math.round(b) + "B" : "$" + b.toFixed(1) + "B"; };
   var fmtVol = function (v) { return v == null ? "—" : v >= 1e9 ? (v / 1e9).toFixed(1) + "B" : v >= 1e6 ? (v / 1e6).toFixed(1) + "M" : v >= 1e3 ? (v / 1e3).toFixed(0) + "K" : "" + v; };
   var esc = function (s) { return String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;"); };
 
@@ -58,15 +58,25 @@
   var tkSize = function (r) { return Math.max(10, Math.min(22, Math.round(r * 0.34))); };
   var pcSize = function (r) { return Math.max(9, Math.min(15, Math.round(tkSize(r) * 0.74))); };
 
+  // ---- sizing weight: TERMINAL SEMANTICS by default --------------------------
+  // /terminal is the source of truth and sizes by |day move| + 0.5 (flat names
+  // stay visible). Sector pages must match, so the same bubbles look the same.
+  // sizeBy:'cap' remains available for explicitly-documented uses.
+  function weightOf(t, sizeBy) {
+    if (sizeBy === "cap") return t.market_cap_b || 1;
+    return Math.abs(t.change_pct != null ? t.change_pct : 0) + 0.5;
+  }
+
   // ---- deterministic packing (spiral seed + relaxation, zero overlap) ------
-  function pack(items, W, H) {
-    var sumCap = items.reduce(function (s, t) { return s + (t.market_cap_b || 1); }, 0) || 1;
-    var scale = (W * H * 0.40) / sumCap;
+  function pack(items, W, H, sizeBy) {
+    var wOf = function (t) { return weightOf(t, sizeBy); };
+    var sumW = items.reduce(function (s, t) { return s + wOf(t); }, 0) || 1;
+    var scale = (W * H * 0.40) / sumW;
     var rMax = Math.min(W, H) * 0.34;
     var cx = W / 2, cy = H / 2, placed = [];
     var K = 14000, reach = Math.max(W, H) * 0.72;
     items.forEach(function (t) {
-      var r = Math.sqrt(((t.market_cap_b || 1) * scale) / Math.PI);
+      var r = Math.sqrt((wOf(t) * scale) / Math.PI);
       r = Math.max(14, Math.min(rMax, r));
       var best = null;
       for (var k = 0; k < K && !best; k++) {
@@ -123,6 +133,7 @@
     ".sbm-leg i{display:block;width:120px;height:7px;border-radius:999px;background:linear-gradient(to right,#700f19,#b91c1c,#ef4444,#f77b7b,#d6dce3,#69cd91,#22c55e,#15803d,#0a522d)}" +
     ".sbm-map{background:radial-gradient(ellipse at 50% 42%,rgba(34,197,94,.045),transparent 65%),var(--bg,#0a0e13)}" +
     ".sbm-g{cursor:pointer;transition:filter .12s ease}.sbm-g:hover{filter:brightness(1.22)}.sbm-g:focus{outline:none}" +
+    ".sbm-a{cursor:pointer}.sbm-a:hover text,.sbm-a:focus text{text-decoration:underline}" +
     ".sbm-dt{display:flex;gap:18px;align-items:center;flex-wrap:wrap;padding:12px 16px;border-top:1px solid var(--border-soft,#161e28)}" +
     ".sbm-dt .sym{font-family:" + MONO + ";font-size:17px;font-weight:800;color:var(--text,#e7edf3)}" +
     ".sbm-dt .co{font-size:12px;color:var(--muted,#8895a4);max-width:240px}" +
@@ -145,11 +156,14 @@
     ensureCss();
     var W = Math.max(320, el.clientWidth || 680);
     var H = Math.min(600, Math.max(320, Math.round(W * 0.58)));
+    var sizeBy = opts.sizeBy || "move";
     var rows = (tickers || []).filter(function (t) { return t && t.ticker; })
-      .sort(function (a, b) { return (b.market_cap_b || 0) - (a.market_cap_b || 0); });
+      .sort(function (a, b) { return weightOf(b, sizeBy) - weightOf(a, sizeBy); });
     var label = esc(opts.label || "Sector");
+    var sizedTxt = sizeBy === "cap" ? "sized by market cap · colored by day move"
+                                    : "sized by the day&#39;s move · colored by direction";
     var head = '<div class="sbm-hd">' +
-      '<span class="sbm-lab"><b>' + label + '</b> · sized by market cap · colored by day move</span>' +
+      '<span class="sbm-lab"><b>' + label + '</b> · ' + sizedTxt + '</span>' +
       '<div class="sbm-tabs">' +
         '<a class="sbm-tab on" href="/terminal">AI Universe</a>' +
         '<a class="sbm-tab" href="/terminal" title="NVIDIA Ecosystem view lives on the terminal">NVIDIA Ecosystem</a>' +
@@ -161,7 +175,7 @@
         '<p style="padding:26px 16px;font-family:' + MONO + ';font-size:12px;color:var(--faint,#5a6573)">Sector data loading — refresh in a moment.</p></div>';
       return;
     }
-    var packed = pack(rows, W, H);
+    var packed = pack(rows, W, H, sizeBy);
     var svg = ['<svg class="sbm-map" viewBox="0 0 ' + W + ' ' + H + '" width="100%" role="img" aria-label="' + label + ' bubble map" style="display:block">'];
     var clips = [], imgs = [];
     packed.forEach(function (p, idx) {
@@ -190,14 +204,19 @@
       var block2 = (useLogo ? ls + G : 0) + tkFs + (pcFs ? G + pcFs : 0);
       var top = p.y - block2 / 2;
       var tip = t.ticker + " · " + fmtPct(pct) + " · " + fmtCap(t.market_cap_b);
-      svg.push('<g class="sbm-g" role="button" tabindex="0" data-tk="' + esc(t.ticker) + '" aria-label="' + esc(tip) + '"><title>' + esc(tip) + '</title>');
+      var href = "/t?sym=" + encodeURIComponent(t.ticker);
+      svg.push('<g class="sbm-g" role="button" tabindex="0" data-tk="' + esc(t.ticker) + '" aria-label="' + esc(tip) + ' — click to inspect"><title>' + esc(tip) + '</title>');
       svg.push('<circle cx="' + p.x.toFixed(1) + '" cy="' + p.y.toFixed(1) + '" r="' + r.toFixed(1) + '" fill="' + core + '" stroke="' + (sel ? "#ffffff" : heat) + '" stroke-width="' + sw + '" style="filter:drop-shadow(0 0 ' + glow + 'px ' + heat + ')"/>');
+      // ticker text + logo are REAL links to the ticker page (canonical /t?sym=);
+      // the bubble body selects into the detail panel. stopPropagation in JS below.
+      svg.push('<a class="sbm-a" href="' + href + '" aria-label="Open ' + esc(t.ticker) + ' ticker page">');
       if (useLogo) {
         var cid = "sbmc" + idx;
         clips.push('<clipPath id="' + cid + '"><circle cx="' + (p.x).toFixed(1) + '" cy="' + (top + ls / 2).toFixed(1) + '" r="' + (ls / 2).toFixed(1) + '"/></clipPath>');
         svg.push('<image class="sbm-logo" href="' + LOGO(t.ticker) + '" x="' + (p.x - ls / 2).toFixed(1) + '" y="' + top.toFixed(1) + '" width="' + ls + '" height="' + ls + '" clip-path="url(#' + cid + ')" preserveAspectRatio="xMidYMid slice"/>');
       }
-      if (tkFs) svg.push('<text x="' + p.x.toFixed(1) + '" y="' + (top + (useLogo ? ls + G : 0) + tkFs * 0.86).toFixed(1) + '" text-anchor="middle" font-family="' + MONO + '" font-weight="700" font-size="' + tkFs + '" fill="#ffffff" style="pointer-events:none">' + esc(t.ticker) + '</text>');
+      if (tkFs) svg.push('<text x="' + p.x.toFixed(1) + '" y="' + (top + (useLogo ? ls + G : 0) + tkFs * 0.86).toFixed(1) + '" text-anchor="middle" font-family="' + MONO + '" font-weight="700" font-size="' + tkFs + '" fill="#ffffff" text-decoration="none">' + esc(t.ticker) + '</text>');
+      svg.push('</a>');
       if (pcFs) svg.push('<text x="' + p.x.toFixed(1) + '" y="' + (top + (useLogo ? ls + G : 0) + tkFs + G + pcFs * 0.86).toFixed(1) + '" text-anchor="middle" font-family="' + MONO + '" font-weight="600" font-size="' + pcFs + '" fill="' + heatText(pct) + '" style="pointer-events:none">' + fmtPct(pct) + '</text>');
       svg.push('</g>');
     });
@@ -207,7 +226,7 @@
     var selTk = opts._sel || rows[0].ticker;
     var st = rows.find(function (t) { return t.ticker === selTk; }) || rows[0];
     var detail = '<div class="sbm-dt">' +
-      '<span class="sym">' + esc(st.ticker) + '</span>' +
+      '<a class="sym" style="text-decoration:none;color:inherit" href="/t?sym=' + encodeURIComponent(st.ticker) + '" aria-label="Open ' + esc(st.ticker) + ' ticker page">' + esc(st.ticker) + '</a>' +
       '<span class="co">' + esc(st.company || "") + '</span>' +
       '<span class="kv">Price<b>' + (st.price == null ? "—" : "$" + Number(st.price).toFixed(2)) + '</b></span>' +
       '<span class="kv">1D<b class="pc ' + ((st.change_pct || 0) >= 0 ? "up" : "down") + '">' + fmtPct(st.change_pct) + '</b></span>' +
@@ -219,11 +238,17 @@
 
     el.innerHTML = '<div class="sbm">' + head + svg.join("") + detail + '</div>';
 
-    // interactions: click/Enter selects (re-render with white ring + panel)
+    // interactions: bubble click/Enter selects (white ring + panel); ticker
+    // text/logo links navigate — stop propagation so a link click doesn't
+    // just re-select, and Enter on the focused link follows it natively.
     el.querySelectorAll(".sbm-g").forEach(function (g) {
       var pick = function () { opts._sel = g.dataset.tk; render(el, tickers, opts); };
       g.addEventListener("click", pick);
-      g.addEventListener("keydown", function (e) { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); pick(); } });
+      g.addEventListener("keydown", function (e) {
+        if ((e.key === "Enter" || e.key === " ") && e.target === g) { e.preventDefault(); pick(); }
+      });
+      var a = g.querySelector("a.sbm-a");
+      if (a) a.addEventListener("click", function (e) { e.stopPropagation(); });
     });
     // logos that 404 disappear cleanly — ticker text always remains
     el.querySelectorAll(".sbm-logo").forEach(function (im) {
@@ -236,10 +261,14 @@
     opts = opts || {};
     el.setAttribute("data-santro-sectormap", "1");
     if (opts.tickers) { render(el, opts.tickers, opts); return; }
-    fetch("/universe.json?t=" + Date.now()).then(function (r) { return r.json(); }).then(function (u) {
+    window.__santroUniP = window.__santroUniP || fetch("/universe.json?t=" + Date.now()).then(function (r) { return r.json(); });
+    window.__santroUniP.then(function (u) {
       var b = (u.bubbles || []).find(function (x) { return x.id === opts.bubbleId; });
       if (b && !opts.label) opts.label = b.label;
       render(el, (b && b.tickers) || [], opts);
+      // broadcast the SAME response so page tables can live-refresh without a
+      // second request (see scripts/inject_sector_maps.py listener)
+      try { document.dispatchEvent(new CustomEvent("santro:universe", { detail: u })); } catch (e) {}
     }).catch(function () { render(el, [], opts); });
     if (!mount._resize) { mount._resize = true; window.addEventListener("resize", function () {
       document.querySelectorAll('[data-santro-sectormap]').forEach(function (n) {

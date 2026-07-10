@@ -7,7 +7,8 @@
     "audit:colors": "node ci/audit-colors.mjs ds-v2 design",
     "qa": "node qa_stress.js && npm run lint:styles && npm run audit:colors && npm run audit:theme-colors",
     "qa:routes": "node qa/qa_routes.mjs",
-    "audit:theme-colors": "node ci/audit-theme-colors.mjs"
+    "audit:theme-colors": "node ci/audit-theme-colors.mjs",
+    "qa:ai-universe": "node qa/ai_universe_consistency.mjs"
   },
   "devDependencies": {
     "playwright": "^1.61.1",

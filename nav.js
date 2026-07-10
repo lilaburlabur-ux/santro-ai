@@ -127,7 +127,8 @@
           list.push({ tk: t.ticker, nm: t.company || t.ticker, pc: t.change_pct || 0,
                       mc: t.market_cap_b || 0 }); } };
         try {
-          var u = await (await fetch("/universe.json?t=" + Date.now())).json();
+          window.__santroUniP = window.__santroUniP || fetch("/universe.json?t=" + Date.now()).then(function (r) { return r.json(); });
+          var u = await window.__santroUniP;
           u.bubbles.forEach(function (b) { b.tickers.forEach(add); });
         } catch (e) {}
         try {

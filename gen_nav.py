@@ -13,7 +13,7 @@ Run after adding/removing a route:  python3 gen_nav.py
 """
 import glob, html, os, re, sys
 
-V = "6"  # bump with nav.js?v= — ALWAYS bump here; the src tag uses {V}
+V = "7"  # bump with nav.js?v= — ALWAYS bump here; the src tag uses {V}
 
 # ── the navigation config ──────────────────────────────────────────────────
 # label/href/desc/badge per link; badge: live | account | soon | None

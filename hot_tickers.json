@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-10T20:26:06+00:00",
+  "as_of": "2026-07-10T20:32:52+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "META",
    "company": "Meta Platforms Inc",
-   "move_pct": 6.02,
-   "price": 669.47,
+   "move_pct": 5.92,
+   "price": 668.88,
    "volume": 39408342,
    "volume_vs_avg": "~2x",
    "heat_score": 46,
    "direction": "up",
-   "why": "Meta Faces EU Addiction Design Scrutiny",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/media-advertising/articles/meta-faces-eu-addiction-design-200154194.html",
-   "published": "2026-07-10T20:01:54Z",
+   "why": "Amazon, Microsoft and Meta Among HSBC Earnings Picks",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/amazon-microsoft-meta-among-hsbc-201634977.html",
+   "published": "2026-07-10T20:16:34Z",
    "sector": "AI Platforms, Internet & AdTech"
   }
  ]

@@ -57,6 +57,12 @@ for (const f of files) {
 
 // homepage hero stat chips must match the dataset (split-markup counts have
 // gone stale before: 84/7 survived a text-level sweep)
+{
+  const total = u.bubbles.reduce((s, b) => s + b.tickers.length, 0);
+  const nav = readFileSync("index.html", "utf8");
+  check("nav copy: ticker count matches universe", nav.includes(`${total} tickers across ${u.bubbles.length} themes`),
+        "gen_nav.py count drift — rerun gen_nav.py");
+}
 for (const page of ["index.html", "stocks.html"]) {
   const idx = readFileSync(page, "utf8");
   const total = u.bubbles.reduce((s, b) => s + b.tickers.length, 0);

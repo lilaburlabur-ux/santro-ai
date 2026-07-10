@@ -17,12 +17,16 @@ V = "7"  # bump with nav.js?v= — ALWAYS bump here; the src tag uses {V}
 
 # ── the navigation config ──────────────────────────────────────────────────
 # label/href/desc/badge per link; badge: live | account | soon | None
+import json as _json
+_U = _json.load(open("universe.json"))
+UNIVERSE_TOTAL = sum(len(b["tickers"]) for b in _U["bubbles"])
+UNIVERSE_THEMES = len(_U["bubbles"])
 NAV = [
   dict(key="terminal", label="Terminal",
        desc="The main Santro market view across AI stocks, ETFs, crypto, hot tickers, and bubble-risk signals.",
        links=[
          ("AI Terminal", "/terminal", "Bubble map, market tape, hot tickers, and the daily brief.", "live"),
-         ("AI Stocks", "/stocks", "99 AI names ranked by heat, research on every ticker.", None),
+         ("AI Stocks", "/stocks", f"{UNIVERSE_TOTAL} AI names ranked by heat, research on every ticker.", None),
          ("AI Crypto", "/crypto", "AI tokens and rotating crypto baskets.", None),
          ("AI ETFs", "/etfs", "40 AI & tech ETFs, broad tech to pure-play robotics.", None),
          ("Market News", "/news", "Headlines that move the AI trade.", None),
@@ -50,7 +54,7 @@ NAV = [
          ("Burry Short Watch", "/stocks/burry-short-watch", "Scion's disclosed AI puts, verified in filings.", None),
        ]),
   dict(key="universe", label="AI Universe",
-       desc="99 tickers across eight themes. Hot means attention, not direction.",
+       desc=f"{UNIVERSE_TOTAL} tickers across {UNIVERSE_THEMES} themes. Hot means attention, not direction.",
        links=[
          ("All AI Stocks", "/stocks", "The full universe, ranked by heat.", None),
          ("AI Chips & Compute", "/stocks/themes/ai-chips-and-compute", "NVDA, AMD, AVGO and the accelerator complex.", None),
@@ -65,7 +69,7 @@ NAV = [
   dict(key="maps", label="Market Maps", more=True,
        desc="Visual entry points into the same delayed data.",
        links=[
-         ("Stock Bubble Map", "/terminal", "99 bubbles sized by the day's move, colored by direction.", None),
+         ("Stock Bubble Map", "/terminal", f"{UNIVERSE_TOTAL} bubbles sized by the day's move, colored by direction.", None),
          ("Crypto Movers", "/crypto", "AI tokens ranked by momentum.", None),
          ("ETF Map", "/etfs", "Overlap-aware list of the AI ETF complex.", None),
          ("Bubble-Risk Gauge", "/bubble", "One dial for the whole AI trade.", None),

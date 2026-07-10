@@ -113,4 +113,14 @@ for f in sorted(glob.glob("stocks/themes/*.html")):
     if s != orig:
         open(f, "w", encoding="utf-8").write(s); changed += 1
         print(f"regenerated {f} -> {bid} ({len(b['tickers'])} tickers)")
+
+# 4) hero/landing stat counts — keep data-stat numbers synced with the dataset
+for page in ("index.html", "stocks.html"):
+    idx = open(page, encoding="utf-8").read()
+    idx2 = re.sub(r'(data-stat="tickers">)\d+(<)', rf'\g<1>{TOTAL}\g<2>', idx)
+    idx2 = re.sub(r'(data-stat="themes">)\d+(<)', rf'\g<1>{len(bubbles)}\g<2>', idx2)
+    if idx2 != idx:
+        open(page, "w", encoding="utf-8").write(idx2)
+        print(f"{page} stat counts synced: {TOTAL} tickers / {len(bubbles)} themes")
+
 print(f"done: {changed} pages, V={V}, universe={TOTAL} tickers")

@@ -54,5 +54,17 @@ for (const f of files) {
   check(`${slug}: live-refresh hooks`, tbl.includes("data-move-for") && tbl.includes("data-cap-for"));
 }
 
+
+// homepage hero stat chips must match the dataset (split-markup counts have
+// gone stale before: 84/7 survived a text-level sweep)
+for (const page of ["index.html", "stocks.html"]) {
+  const idx = readFileSync(page, "utf8");
+  const total = u.bubbles.reduce((s, b) => s + b.tickers.length, 0);
+  const mT = idx.match(/data-stat="tickers">(\d+)</);
+  const mH = idx.match(/data-stat="themes">(\d+)</);
+  check(`${page}: tickers stat matches universe`, !!mT && +mT[1] === total, mT && mT[1] + " vs " + total);
+  check(`${page}: themes stat matches universe`, !!mH && +mH[1] === u.bubbles.length, mH && mH[1] + " vs " + u.bubbles.length);
+}
+
 console.log(`\n${pass} passed, ${fail} failed`);
 process.exit(fail ? 1 : 0);

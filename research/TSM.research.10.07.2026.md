@@ -38,8 +38,8 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 |---|---|---|
 | SK Hynix's US listing, Delta earnings, housing bill: What to Watch | Yahoo Finance Video | 2026-07-09 |
 | Why Is Meta (META) Stock Soaring Today | StockStory | 2026-07-10 |
-| Stock Market Today: Dow Ends Higher; SK Hynix Jumps In U.S. Trading Debut; Moderna Tumbles | Investor's Business Daily | 2026-07-10 |
 | Dow Jones Futures: Big Earnings Due As Market Sets Up; Nvidia, Micron, Sandisk, Robinhood, SpaceX In Focus | Investor's Business Daily | 2026-07-10 |
+| What's Going On With Nvidia Stock Friday | GuruFocus.com | 2026-07-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.10T | Revenue growth 35.10% y/y |
 | Profitability | Gross 61.87%, operating 58.10%, net 46.51% | ROA 17.32%, ROE 36.21% |
 | Balance sheet | Cash $3.38T, debt $1.09T | Current ratio 2.49, debt/equity 18.45 |
-| Valuation | P/E 37.78, forward P/E 21.40, P/S 0.55, P/B 98.10 | EV/Sales 3.87, EV/EBITDA 5.56 |
+| Valuation | P/E 37.78, forward P/E 21.40, P/S 0.55, P/B 98.35 | EV/Sales 3.87, EV/EBITDA 5.56 |
 | Growth expectations | Earnings growth 58.40%, EPS q/q 58.30% | Analyst mean target $490.34 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -125,7 +125,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Forward P/E | 21.40 | Short float | 0.51% |
 | PEG (trailing) | 1.37 | Avg volume | 14,066,962 |
 | P/S | 0.55 | Employees | 76,907 |
-| P/B | 98.10 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/B | 98.35 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -15,8 +15,8 @@ Signed file: `QCOM.research.10.07.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +20.76%; price +12.55% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -24.64% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +21.21%; price +12.90% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -24.37% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 22.31%, revenue growth -3.50%. |
 | Value attractiveness | Reasonable | Forward P/E 17.19, EV/Sales 4.65. |
 | Risk level | High | Beta 1.64, ATR 7.1% of price, short float 4.74%. |
@@ -44,11 +44,11 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $189.16; 52w high $251.02 (-24.64%); 52w low $124.07 (+52.46%) |
-| Trend | +12.55% vs SMA200, -8.54% vs SMA50, -4.81% vs SMA20 |
-| Momentum | RSI(14) 45.4 (neutral) |
-| Volatility | ATR(14) 13.49 (~7.1% of price); beta 1.64 |
-| Setup perspective | -24.64% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $189.16; 52w high $250.10 (-24.37%); 52w low $123.61 (+53.03%) |
+| Trend | +12.90% vs SMA200, -8.37% vs SMA50, -4.81% vs SMA20 |
+| Momentum | RSI(14) 45.5 (neutral) |
+| Volatility | ATR(14) 13.47 (~7.1% of price); beta 1.64 |
+| Setup perspective | -24.37% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -56,10 +56,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 |---|---|
 | Week | +7.3% |
 | Month | -7.9% |
-| Quarter | +48.1% |
-| Half Y | +5.7% |
-| 1Y | +20.8% |
-| YTD | +10.1% |
+| Quarter | +48.6% |
+| Half Y | +6.0% |
+| 1Y | +21.2% |
+| YTD | +10.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -113,13 +113,13 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Price | $189.16 | EV/Sales | 4.65 |
 | Market cap | $199.37B | EV/EBITDA | 15.92 |
 | Beta | 1.64 | Gross margin | 54.80% |
-| RSI(14) | 45.4 | Operating margin | 22.06% |
-| ATR(14) | 13.49 | Profit margin | 22.31% |
+| RSI(14) | 45.5 | Operating margin | 22.06% |
+| ATR(14) | 13.47 | Profit margin | 22.31% |
 | SMA20 dist | -4.81% | ROA | 12.69% |
-| SMA50 dist | -8.54% | ROE | 36.08% |
-| SMA200 dist | +12.55% | Revenue (ttm) | $44.49B |
-| 52W high | $251.02 | Revenue growth y/y | -3.50% |
-| 52W low | $124.07 | Inst. ownership | 84.57% |
+| SMA50 dist | -8.37% | ROE | 36.08% |
+| SMA200 dist | +12.90% | Revenue (ttm) | $44.49B |
+| 52W high | $250.10 | Revenue growth y/y | -3.50% |
+| 52W low | $123.61 | Inst. ownership | 84.57% |
 | P/E (ttm) | 20.32 | Insider ownership | 0.12% |
 | Forward P/E | 17.19 | Short float | 4.74% |
 | PEG (trailing) | 0.60 | Avg volume | 23,408,513 |

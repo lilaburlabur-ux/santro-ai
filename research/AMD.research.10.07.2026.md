@@ -39,7 +39,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Chip stocks regain some ground after whipsaw of a trading week | Yahoo Finance Video | 2026-07-10 |
 | Nasdaq's hottest winners just fell behind: Chart of the Day | Yahoo Finance | 2026-07-10 |
 | Why Is Meta (META) Stock Soaring Today | StockStory | 2026-07-10 |
-| Why the Pure Bitcoin-Miner Fund Crushed the Blockchain Basket, Up 184% | 24/7 Wall St. | 2026-07-10 |
+| South Korean Memory Chip Maker’s Historic U.S. Debut Jolts Stocks | The Wall Street Journal | 2026-07-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -652,8 +652,11 @@ async function load(){
       <td>${r.price==null?"—":"$"+r.price.toFixed(2)}</td>
       <td class="${cls(r.since_ipo)}" style="font-weight:700">${fmtPct(r.since_ipo)}</td>
       <td>${fmtCap(r.market_cap_b)}</td></tr>`).join("");
+  // static /ipos/<slug> profiles are canonical (FAQ + schema); the dynamic
+  // ipo?co= view is only a fallback for slugs without a static page yet
+  const STATIC_IPO_PAGES=new Set(["anduril","anthropic","cerebras","csquare","databricks","mistral","openai","sk-hynix-adr","syntiant","xai"]);
   document.getElementById("preipo").innerHTML=d.preipo.map(c=>`
-    <a class="pcard" href="ipo?co=${encodeURIComponent(c.slug)}">
+    <a class="pcard" href="${STATIC_IPO_PAGES.has(c.slug)?"/ipos/"+encodeURIComponent(c.slug):"ipo?co="+encodeURIComponent(c.slug)}">
       <div class="nm">${c.name}</div><div class="wd">${c.what}</div>
       <div class="vk">Last valuation</div><div class="val">${c.valuation}</div>
       <span class="st${/filed/i.test(c.status)?" filed":""}">${c.status}</span></a>`).join("");

@@ -453,10 +453,12 @@
   .spcx-logo{width:42px;height:42px;border-radius:11px;background:var(--accent-soft);
     border:1px solid var(--accent-border); display:grid;place-items:center;
     font-weight:700;color:var(--accent-2);flex:0 0 auto; font-size:13px;}
-  .spcx-main{flex:1 1 auto; min-width:0;}
-  .spcx-nm{font-weight:700; font-size:15px;}
-  .spcx-tk{color:var(--muted); font-size:11.5px; margin-top:1px; transition:.12s;}
-  .spcx-px{text-align:right; flex:0 0 auto;}
+  .spcx-logo>*{grid-area:1/1;}   /* monogram sits behind the img; shows if it 404s */
+  .spcx-main{flex:1 1 auto; min-width:110px;}
+  .spcx-nm{font-weight:700; font-size:15px; white-space:nowrap;}
+  .spcx-tk{color:var(--muted); font-size:11.5px; margin-top:1px; transition:.12s; line-height:1.45;}
+  .spcx-px{text-align:right; flex:0 1 auto; max-width:60%;}
+  .spcx-px .ref{white-space:normal; line-height:1.5;}
   .spcx-px .big{font-size:27px; font-weight:800; letter-spacing:-.5px; line-height:1.05;
     font-variant-numeric:tabular-nums;}
   .spcx-px .chg{font-size:14px; font-weight:700; margin-top:2px;}
@@ -1626,9 +1628,9 @@ function renderSpaceX(){
   const live = s && s.price!=null;
   const traded = live && (s.change_pct!==0 || s.price!==SKHY_ADS);
   h+=`<div class="spcx-head" onclick="${live?"openTicker('SKHY')":"location.href='/ipos/sk-hynix-adr'"}" title="${live?"Open SKHY in the bubble map":"Open the SK hynix IPO watch profile"}">
-    <div class="spcx-logo"><img src="https://assets.parqet.com/logos/symbol/SKHY?format=png&size=64" alt="SK hynix" onerror="this.style.display='none'"></div>
+    <div class="spcx-logo"><span>SK</span><img src="https://assets.parqet.com/logos/symbol/SKHY?format=png&size=64" alt="SK hynix" onerror="this.remove()"></div>
     <div class="spcx-main"><div class="spcx-nm">SK hynix</div>
-      <div class="spcx-tk">${live?"SKHY":"SKHYV → SKHY Mon"} · Nasdaq ADR · ${s&&s.market_cap_b?fmtCap(s.market_cap_b*1e9):"reported ~$1.05T"} · Memory / HBM</div></div>
+      <div class="spcx-tk">${live?"SKHY":"SKHYV → SKHY Mon"} · Nasdaq ADR · ${s&&s.market_cap_b?fmtCap(s.market_cap_b*1e9):"~$1.05T"} · Memory/HBM</div></div>
     <div class="spcx-px">${live?`<div class="big">$${s.price.toFixed(2)}</div>
       <div class="chg ${pctClass(s.change_pct)}">${fmtPct(s.change_pct)}</div>
       <div class="ref">${traded?`vs ADS $${SKHY_ADS.toFixed(2)} (${fmtPct((s.price/SKHY_ADS-1)*100)})`:"ADS price · awaiting first trade"}${universe&&universe.meta.session?` · ${({pre:"premarket",post:"after hours",regular:"market open",closed:"market closed"})[universe.meta.session]||""}`:""}</div>`

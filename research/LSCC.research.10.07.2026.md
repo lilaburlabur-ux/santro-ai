@@ -18,7 +18,7 @@ Signed file: `LSCC.research.10.07.2026`
 | Technical momentum | High | 1Y +155.51%; price +41.53% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -11.48% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 3.46%, revenue growth 42.20%. |
-| Value attractiveness | Low (expensive) | Forward P/E 59.47, EV/Sales 33.13. |
+| Value attractiveness | Low (expensive) | Forward P/E 59.30, EV/Sales 33.13. |
 | Risk level | High | Beta 1.78, ATR 6.5% of price, short float 7.90%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: low (expensive), risk: high.
@@ -68,7 +68,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Revenue (ttm) | $574.01M | Revenue growth 42.20% y/y |
 | Profitability | Gross 68.44%, operating 15.61%, net 3.46% | ROA 2.48%, ROE 2.75% |
 | Balance sheet | Cash $139.96M, debt $39.90M | Current ratio 3.48, debt/equity 5.39 |
-| Valuation | P/E 981.71, forward P/E 59.47, P/S 32.80, P/B 25.41 | EV/Sales 33.13, EV/EBITDA 271.06 |
+| Valuation | P/E 981.71, forward P/E 59.30, P/S 32.80, P/B 25.41 | EV/Sales 33.13, EV/EBITDA 271.06 |
 | Growth expectations | Earnings growth 337.20%, EPS q/q 334.40% | Analyst mean target $146.92 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Artisan Partners Limited Partnership | 3,004,182 | 2.19% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 59.47, EV/Sales 33.13. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 59.30, EV/Sales 33.13. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.78, ATR 6.5% of price, short float 7.90%. Size positions accordingly.
 - **Short interest risk:** short float 7.90% can fuel squeezes both ways around news.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -123,7 +123,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | 52W high | $155.27 | Revenue growth y/y | 42.20% |
 | 52W low | $48.73 | Inst. ownership | 102.48% |
 | P/E (ttm) | 981.71 | Insider ownership | 0.63% |
-| Forward P/E | 59.47 | Short float | 7.90% |
+| Forward P/E | 59.30 | Short float | 7.90% |
 | PEG (trailing) | — | Avg volume | 2,223,516 |
 | P/S | 32.80 | Employees | 1,174 |
 | P/B | 25.41 | Analyst rec (1=buy..5=sell) | — |

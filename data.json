@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-10T13:21:36+00:00",
-  "as_of_local": "2026-07-10 13:21:36 UTC",
+  "as_of_utc": "2026-07-10T13:26:44+00:00",
+  "as_of_local": "2026-07-10 13:26:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -47,16 +49,16 @@
           "published": "2026-07-09T23:00:00Z"
         },
         {
-          "title": "TSM Price Prediction: The Stock Will End The Year at This Price",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsm-price-prediction-stock-end-130003531.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-07-10T13:00:03Z"
+          "title": "Stock Market Today: Dow Rises, But Nasdaq Falls Ahead Of SK Hynix Stock Debut (Live Coverage)",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-sk-hynix-stock/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-07-10T13:17:58Z"
         },
         {
-          "title": "AMD Stock Looks Strong. One Supply Chain Bottleneck Could Change That",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-looks-strong-one-124352416.html",
-          "publisher": "Trefis",
-          "published": "2026-07-10T12:43:52Z"
+          "title": "What Makes Taiwan Semiconductor Manufacturing (TSM) Central to the AI Infrastructure Buildout?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/makes-taiwan-semiconductor-manufacturing-tsm-131558841.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-07-10T13:15:58Z"
         }
       ]
     },
@@ -281,34 +283,6 @@
           "url": "https://finance.yahoo.com/technology/articles/4-semiconductor-stocks-benefit-cars-140300450.html",
           "publisher": "Zacks",
           "published": "2026-07-08T14:03:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 139.53,
-      "previous_close": 132.48,
-      "change_pct": 5.32,
-      "market_cap": 19116706119.96408,
-      "headlines": [
-        {
-          "title": "Lattice Semiconductor (LSCC) Stock Trades Up, Here Is Why",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-lscc-stock-trades-225201400.html",
-          "publisher": "StockStory",
-          "published": "2026-07-06T22:52:01Z"
-        },
-        {
-          "title": "Western Digital, MACOM, and Lattice Semiconductor Shares Are Falling, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-macom-lattice-semiconductor-022824236.html",
-          "publisher": "StockStory",
-          "published": "2026-07-03T02:28:24Z"
-        },
-        {
-          "title": "Lam Research Stock Surges 154% in H1'26: Should You Buy More or Exit?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-stock-surges-154-141100491.html",
-          "publisher": "Zacks",
-          "published": "2026-07-01T14:11:00Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64165.89,
-      "change_pct": 1.54
+      "price": 64131.95,
+      "change_pct": 1.49
     },
     {
       "label": "Gold",
-      "price": 4110.9,
-      "change_pct": -0.48
+      "price": 4114.8,
+      "change_pct": -0.38
     },
     {
       "label": "Nasdaq100",

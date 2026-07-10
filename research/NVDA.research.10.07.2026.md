@@ -18,7 +18,7 @@ Signed file: `NVDA.research.10.07.2026`
 | Technical momentum | Moderate | 1Y +29.54%; price +10.07% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -10.51% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 62.97%, revenue growth 85.20%. |
-| Value attractiveness | Reasonable | Forward P/E 16.53, EV/Sales 19.20. |
+| Value attractiveness | Reasonable | Forward P/E 16.49, EV/Sales 19.20. |
 | Risk level | High | Beta 2.21, ATR 3.4% of price, short float 1.29%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Stock market today: Dow, S&P 500, Nasdaq rise to cap choppy week as SK Hynix pops in US debut | Yahoo Finance | 2026-07-10 |
 | Chip stocks regain some ground after whipsaw of a trading week | Yahoo Finance Video | 2026-07-10 |
+| Three Enticing Clues Put This Broadcom Partner, Nvidia Rival In Focus | Investor's Business Daily | 2026-07-10 |
 | A $28 Billion AI IPO Trading at Just 7x Earnings: Too Cheap or Too Cyclical to Trust? | 24/7 Wall St. | 2026-07-10 |
-| Here's Why Remitly Global Jumped 62.4% In The First Half of 2026 | Motley Fool | 2026-07-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $253.49B | Revenue growth 85.20% y/y |
 | Profitability | Gross 74.14%, operating 65.60%, net 62.97% | ROA 52.73%, ROE 114.29% |
 | Balance sheet | Cash $53.17B, debt $12.81B | Current ratio 3.44, debt/equity 6.55 |
-| Valuation | P/E 32.31, forward P/E 16.53, P/S 20.16, P/B 26.14 | EV/Sales 19.20, EV/EBITDA 29.41 |
+| Valuation | P/E 32.31, forward P/E 16.49, P/S 20.16, P/B 26.14 | EV/Sales 19.20, EV/EBITDA 29.41 |
 | Growth expectations | Earnings growth 214.50%, EPS q/q 210.60% | Analyst mean target $301.62 (58 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | 52W high | $235.74 | Revenue growth y/y | 85.20% |
 | 52W low | $164.04 | Inst. ownership | 70.81% |
 | P/E (ttm) | 32.31 | Insider ownership | 3.98% |
-| Forward P/E | 16.53 | Short float | 1.29% |
+| Forward P/E | 16.49 | Short float | 1.29% |
 | PEG (trailing) | 0.62 | Avg volume | 159,067,854 |
 | P/S | 20.16 | Employees | 42,000 |
 | P/B | 26.14 | Analyst rec (1=buy..5=sell) | 1.3 |

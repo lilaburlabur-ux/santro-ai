@@ -9,7 +9,8 @@
    ticker detail panel, click/selection wiring and resize re-packing.
 
    Interaction model (same as terminal): bubble click/Enter selects into the
-   detail panel; the panel's symbol and "Open →" navigate to /t?sym= (canonical
+   detail panel (shared SantroTickerPanel — the rich card, same as the terminal);
+   its "Open full ticker page" button navigates to /stocks/<slug> (canonical
    ticker URL). Requires window.echarts + window.SantroBubbleEngine.
 
    Usage: SantroSectorMap.mount(el, { bubbleId:"powering_ai", label:"Powering AI" });
@@ -35,7 +36,7 @@
     ".sbm-leg{display:flex;align-items:center;gap:6px;font-family:" + MONOF + ";font-size:9.5px;color:var(--faint,#5a6573)}" +
     ".sbm-leg i{display:block;width:120px;height:7px;border-radius:999px;background:linear-gradient(to right,#700f19,#b91c1c,#ef4444,#f77b7b,#d6dce3,#69cd91,#22c55e,#15803d,#0a522d)}" +
     ".sbm-chart{background:radial-gradient(ellipse at 50% 42%,rgba(34,197,94,.045),transparent 65%),var(--bg,#0a0e13);cursor:pointer}" +
-    ".sbm-dt{display:flex;gap:18px;align-items:center;flex-wrap:wrap;padding:12px 16px;border-top:1px solid var(--border-soft,#161e28)}" +
+    ".sbm-dt{}" +   /* container only; SantroTickerPanel renders the rich .stp card */
     ".sbm-dt .sym{font-family:" + MONOF + ";font-size:17px;font-weight:800;color:var(--text,#e7edf3);text-decoration:none}" +
     ".sbm-dt .sym:hover{color:var(--accent-2,#22c55e)}" +
     ".sbm-dt .co{font-size:12px;color:var(--muted,#8895a4);max-width:240px}" +
@@ -53,14 +54,14 @@
   }
 
   function panelHtml(t) {
-    return '<a class="sym" href="/t?sym=' + encodeURIComponent(t.ticker) + '" aria-label="Open ' + esc(t.ticker) + ' ticker page">' + esc(t.ticker) + '</a>' +
+    return '<a class="sym" href="/stocks/' + encodeURIComponent(String(t.ticker).toLowerCase()) + '" aria-label="Open ' + esc(t.ticker) + ' ticker page">' + esc(t.ticker) + '</a>' +
       '<span class="co">' + esc(t.company || "") + '</span>' +
       '<span class="kv">Price<b>' + (t.price == null ? "—" : "$" + Number(t.price).toFixed(2)) + '</b></span>' +
       '<span class="kv">1D<b class="pc ' + ((t.change_pct || 0) >= 0 ? "up" : "down") + '">' + fmtPct(t.change_pct) + '</b></span>' +
       '<span class="kv">Cap<b>' + fmtCap(t.market_cap_b) + '</b></span>' +
       '<span class="kv">Vol<b>' + fmtVol(t.volume) + '</b></span>' +
       (t.industry ? '<span class="kv">Industry<b style="font-size:11.5px;font-weight:600">' + esc(t.industry) + '</b></span>' : '') +
-      '<a class="sbm-open" href="/t?sym=' + encodeURIComponent(t.ticker) + '">Open ' + esc(t.ticker) + ' &#8594;</a>';
+      '<a class="sbm-open" href="/stocks/' + encodeURIComponent(String(t.ticker).toLowerCase()) + '">Open ' + esc(t.ticker) + ' &#8594;</a>';
   }
 
   function mount(el, opts) {
@@ -81,9 +82,10 @@
           '<a class="sbm-all" href="/stocks">&#8592; All sectors</a>' +
           '<span class="sbm-leg">-10%<i></i>+10%</span>' +
         '</div></div>' +
-      '<div class="sbm-chart" role="img" aria-label="' + label + ' bubble map — bubbles drift live; click one for detail"></div>' +
+      '<div class="sbm-chart" role="img" aria-label="' + label + ' bubble map — bubbles drift live; click any bubble to open its detail panel"></div>' +
       '<div class="sbm-dt"></div></div>';
     var chartEl = el.querySelector(".sbm-chart"), panelEl = el.querySelector(".sbm-dt");
+    function renderPanel(t){ if (window.SantroTickerPanel) SantroTickerPanel.render(panelEl, t); else panelEl.innerHTML = panelHtml(t); }
 
     var state = { sel: null, nodes: null, bounds: null, chart: null, items: [] };
     var build = function (n) { return SBE.tickerItem(n, state.sel); };
@@ -134,12 +136,12 @@
       layout();
       // default selection: the day's biggest mover (= biggest bubble — the terminal read)
       var top = rows.slice().sort(function (a, b) { return Math.abs(b.change_pct || 0) - Math.abs(a.change_pct || 0); })[0];
-      state.sel = top.ticker; panelEl.innerHTML = panelHtml(top);
+      state.sel = top.ticker; renderPanel(top);
       state.chart.setOption({ series: [{ animation: false, data: state.nodes.map(build) }] });
       state.chart.on("click", function (p) {
         if (p.data && p.data.uniTicker) {
           var t = p.data.uniTicker;
-          state.sel = t.ticker; panelEl.innerHTML = panelHtml(t);
+          state.sel = t.ticker; renderPanel(t);
           state.chart.setOption({ series: [{ animation: false, data: state.nodes.map(build) }] });
         }
       });

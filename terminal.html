@@ -1405,6 +1405,7 @@ function showEcoOverview(){
       <tbody>${rows}</tbody></table>`;
 }
 
+function stockPageUrl(sym){ var u=(window.universe||universe); var has=u&&u.bubbles&&u.bubbles.some(function(b){return b.tickers.some(function(x){return x.ticker===sym;});}); return has?"/stocks/"+String(sym).toLowerCase():"t?sym="+encodeURIComponent(sym); }
 function showUniverseDetail(t){
   document.getElementById("detail-title").innerHTML=
     `Selected — ${t.ticker} <span class="badge live">${uniGroup?(UNI_SHORT[uniGroup.id]||uniGroup.label):(heatMode==="eco"?"NVIDIA Ecosystem":"AI Universe")}</span>`;
@@ -1424,7 +1425,7 @@ function showUniverseDetail(t){
     ${t.spark&&t.spark.length>2?sparkSvg(t.spark):""}
     ${researchExtras(t.ticker)}
     <div class="links">
-      <a class="see-more" href="t?sym=${encodeURIComponent(t.ticker)}">Ticker page ↗</a>
+      <a class="see-more" href="${stockPageUrl(t.ticker)}">Open full ${t.ticker} page ↗</a>
       <a class="see-more" href="https://finance.yahoo.com/quote/${t.ticker}" target="_blank" rel="noopener">Yahoo Finance →</a>
     </div>`;
   // gated fair-value calculator (accounts/) — respects the account preference

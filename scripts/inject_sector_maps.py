@@ -19,7 +19,7 @@ import glob, json, os, re, sys
 
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(HERE)
-V = "6"   # cache-bust: bump on every sector-bubble-map.js / engine edit
+V = "7"   # cache-bust: bump on every sector-bubble-map.js / engine edit
 EV = "1"  # engine version (components/santro-bubble-engine.js)
 
 MAP_S, MAP_E = "<!-- sector-map:start -->", "<!-- sector-map:end -->"
@@ -43,10 +43,11 @@ def map_block(bid, label):
     return f"""{MAP_S}
     <figure style="margin:18px 0 8px;margin-inline:0">
       <div id="sector-map" data-bubble="{bid}"></div>
-      <figcaption style="font-size:11.5px;color:var(--faint);margin-top:6px;font-family:var(--font-mono,monospace)">Live heat — sized by the day's move, colored by direction (same live engine as the <a href="/terminal" style="color:inherit">terminal</a>). Bubble selects; ticker text opens its page. Quotes delayed ~15 min<span data-asof></span>.</figcaption>
+      <figcaption style="font-size:11.5px;color:var(--faint);margin-top:6px;font-family:var(--font-mono,monospace)">Live heat — sized by the day's move, colored by direction (same live engine as the <a href="/terminal" style="color:inherit">terminal</a>). Click any bubble to open its detail panel. Quotes delayed ~15 min<span data-asof></span>.</figcaption>
     </figure>
     <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
     <script src="/components/santro-bubble-engine.js?v={EV}"></script>
+    <script src="/ds-v2/ticker-detail-panel.js?v=1"></script>
     <script src="/components/sector-bubble-map.js?v={V}"></script>
     <script>SantroSectorMap.mount(document.getElementById('sector-map'),{{bubbleId:'{bid}',label:{json.dumps(label)}}});</script>
     {MAP_E}"""

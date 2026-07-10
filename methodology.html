@@ -1,39 +1,152 @@
-<!DOCTYPE html><html lang="en"><head>
-<meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AIVL ETF — WisdomTree U.S. AI-Enhanced Value: holdings, fee &amp; AI exposure | Santro AI</title>
-<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"/>
-<link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png"/>
-<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"/>
-<meta name="description" content="AIVL (WisdomTree U.S. AI-Enhanced Value): the “ai-washing” trap AI ETF. Expense ratio —, AUM —, — holdings (A value fund that uses AI to pick stocks). What it is, its AI relevance and the risks — delayed data, not advice."/>
-<link rel="canonical" href="https://santroai.tech/etfs/aivl"/>
-<meta property="og:type" content="website"/><meta property="og:site_name" content="Santro AI"/>
-<meta property="og:title" content="AIVL — WisdomTree U.S. AI-Enhanced Value"/>
-<meta property="og:description" content="The “AI-washing” trap AI ETF · fee — · AUM —"/>
-<meta property="og:url" content="https://santroai.tech/etfs/aivl"/>
-<meta property="og:image" content="https://santroai.tech/assets/og-map.png"/>
-<meta name="twitter:card" content="summary_large_image"/><meta name="twitter:image" content="https://santroai.tech/assets/og-map.png"/>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0a0e13" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="Santro AI" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<title>Methodology — How Santro AI Measures the AI Market | Santro AI</title>
+<meta name="description" content="How Santro AI builds its AI market data: sources, ~15-minute delay policy, the filing-verified research standard, how the AI Bubble Risk Index is used, and why hot means attention, not direction. Not financial advice.">
+<link rel="canonical" href="https://santroai.tech/methodology">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.json" />
+<meta property="og:site_name" content="Santro AI" />
+<meta property="og:type" content="article">
+<meta property="og:title" content="Methodology — How Santro AI Measures the AI Market">
+<meta property="og:description" content="The AI trade is no longer one trade. Learn how to read heat, rotation, valuation pressure and bubble risk across AI stocks, ETFs and crypto.">
+<meta property="og:url" content="https://santroai.tech/methodology">
+<meta property="og:image" content="https://santroai.tech/assets/blog/how-to-read-the-ai-market.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://santroai.tech/assets/blog/how-to-read-the-ai-market.png">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
- {"@type":"ListItem","position":1,"name":"Home","item":"https://santroai.tech/"},
- {"@type":"ListItem","position":2,"name":"AI ETFs","item":"https://santroai.tech/etfs"},
- {"@type":"ListItem","position":3,"name":"AIVL","item":"https://santroai.tech/etfs/aivl"}]}
+{"@context":"https://schema.org","@type":"Article",
+ "headline":"How to Read the AI Market Without Getting Lost in the Noise",
+ "description":"A trader's guide to the AI market: heat, sector rotation, bubble risk, valuation pressure, ETFs, crypto and the bottlenecks that decide leadership. Context, not signals.",
+ "image":"https://santroai.tech/assets/blog/how-to-read-the-ai-market.png",
+ "datePublished":"2026-07-10","dateModified":"2026-07-10",
+ "author":{"@type":"Organization","name":"Santro AI","url":"https://santroai.tech"},
+ "publisher":{"@type":"Organization","name":"Santro AI","logo":{"@type":"ImageObject","url":"https://santroai.tech/assets/brand/logo-1024.png"}},
+ "mainEntityOfPage":{"@type":"WebPage","@id":"https://santroai.tech/blog/how-to-read-the-ai-market"},
+ "keywords":"SK Hynix IPO, SKHY, HBM, high bandwidth memory, AI memory, Nasdaq ADS, Micron, MU, NVDA, DRAM ETF, memory supercycle, AI infrastructure"}
 </script>
-<link rel="stylesheet" href="/site.css?v=14"/>
 <style>
-  .etfp{max-width:1240px;margin:0 auto;padding:6px 20px 50px;}
-  .etfp .crumb{font-size:13px;color:var(--faint,#6b7684);margin:14px 0 4px;} .etfp .crumb a{color:var(--muted,#9aa6b2);text-decoration:none;}
-  .etfp h1{font-size:28px;margin:10px 0 4px;} .etfp .sub{color:var(--muted,#9aa6b2);font-size:15px;margin:0 0 18px;}
-  .etfp h2{font-size:19px;margin:28px 0 8px;} .etfp p,.etfp li{color:var(--muted,#9aa6b2);font-size:15.5px;line-height:1.65;}
-  .etfp b{color:var(--text,#e6edf3);} .etfp a{color:var(--accent,#22c55e);}
-  .kv{width:100%;border-collapse:collapse;margin:8px 0 4px;} .kv td{padding:8px 10px;border-bottom:1px solid var(--border-soft,#1c2230);font-size:14.5px;color:var(--muted);} .kv td:first-child{color:var(--faint,#6b7684);width:38%;}
-  .rbx{display:inline-block;font-size:11px;font-weight:700;padding:2px 7px;border-radius:5px;background:rgba(240,90,110,.14);color:#f0596e;margin-left:6px;}
-  .relx a{display:inline-block;margin:0 8px 6px 0;padding:5px 11px;border:1px solid var(--border-soft,#1c2230);border-radius:7px;font-size:13.5px;text-decoration:none;}
-  .ctaE{margin-top:22px;padding:18px 20px;border:1px solid rgba(34,197,94,.28);border-radius:12px;background:rgba(34,197,94,.06);}
-  .ctaE a{display:inline-block;background:var(--accent,#22c55e);color:#fff;padding:9px 16px;border-radius:8px;font-weight:600;text-decoration:none;font-size:14px;margin-top:8px;}
-  .nfax{color:var(--faint,#6b7684);font-size:13px;margin-top:18px;}
+  :root{
+    /* Santro dark-first palette */
+    --bg:#0a0e13; --surface:#111822; --card:#16202b;
+    --text:#e7edf3; --muted:#9aa7b5; --hint:#6b7686;
+    --border:rgba(255,255,255,.10); --border-strong:rgba(255,255,255,.20);
+    --accent:var(--accent-2,#7ce8b1); --accent-soft:#10241a;
+    --teal:#22c55e; --gray:#8895a4; --danger:#f05a6e; --danger-soft:#2a1418;
+    --radius:14px; --radius-sm:9px;
+    --serif:Georgia,'Times New Roman',serif;
+    --sans:-apple-system,BlinkMacSystemFont,'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.7;font-size:18px;-webkit-font-smoothing:antialiased}
+  /* Santro header */
+  .sa-head{display:flex;align-items:center;gap:14px;flex-wrap:wrap;max-width:1040px;margin:0 auto;
+    padding:16px 22px;border-bottom:1px solid var(--border)}
+  .sa-logo{display:flex;align-items:center;gap:6px;text-decoration:none}
+  .sa-s{position:relative;font-size:24px;font-weight:800;line-height:.85;padding-right:12px;
+    background:linear-gradient(165deg,#4ade80 10%,#15803d 90%);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .sa-ai{position:absolute;top:-3px;right:0;font-size:8px;font-weight:800;-webkit-text-fill-color:#22c55e}
+  .sa-name{font-size:13px;font-weight:800;letter-spacing:.28em;color:var(--text)}
+  .sa-nav{margin-left:auto;display:flex;gap:4px;flex-wrap:wrap}
+  .sa-nav a{font-size:13px;font-weight:600;color:var(--muted);text-decoration:none;padding:5px 9px;border-radius:7px}
+  .sa-nav a:hover{color:var(--text)}
+  .sa-nav a.on{color:var(--accent)}
+  .wrap{max-width:1040px;margin:0 auto;padding:32px 22px 80px}
+  .sa-nav a.back{color:var(--accent);font-weight:700}
+  .kicker{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--teal);font-weight:700;margin:0 0 10px}
+  h1{font-family:var(--serif);font-size:38px;line-height:1.15;font-weight:700;margin:0 0 14px}
+  h2{font-size:26px;line-height:1.25;font-weight:600;margin:48px 0 12px}
+  h3{font-size:19px;font-weight:600;margin:28px 0 4px}
+  p{margin:0 0 18px}
+  .lede{font-size:20px;color:var(--muted);font-style:italic;font-family:var(--serif);margin-bottom:22px}
+  .byline{font-size:14px;color:var(--hint);border-top:1px solid var(--border);border-bottom:1px solid var(--border);padding:12px 0;margin:0 0 28px;display:flex;flex-wrap:wrap;gap:6px 16px;align-items:center}
+  .byline a{color:var(--accent);text-decoration:none}
+  .byline a:hover{text-decoration:underline}
+  a{color:var(--accent)}
+  figure{margin:28px 0}
+  /* self-contained burning hero (swap for the real meme by setting --meme bg image) */
+  .hero{position:relative;border-radius:var(--radius);overflow:hidden;border:1px solid var(--border);
+    background:radial-gradient(120% 90% at 50% 120%,#ff5e00 0%,#7a1d00 38%,#1a0a06 72%,#0a0e13 100%);
+    min-height:300px;display:flex;align-items:center;justify-content:center;text-align:center;padding:34px 20px}
+  .hero .fine{font-family:var(--serif);font-size:30px;font-weight:700;color:#fff8ec;line-height:1.3;
+    text-shadow:0 2px 14px rgba(0,0,0,.6);max-width:440px}
+  .hero .fine small{display:block;font-family:var(--sans);font-size:13px;font-weight:600;color:#ffd9a8;margin-top:10px;letter-spacing:.04em}
+  .burn{position:absolute;z-index:2;line-height:1;font-family:'Arial Black',Impact,var(--sans);font-weight:800;text-transform:uppercase;letter-spacing:.4px;color:#ffe9bf;text-align:center;pointer-events:none;text-shadow:0 0 5px #ffae3d,0 0 12px #ff5e00,0 0 22px #ff2a00,0 1px 2px rgba(0,0,0,.85);font-size:clamp(15px,3.6vw,26px)}
+  .burn small{display:block;font-size:.62em;font-weight:700;color:#ffd27a;letter-spacing:0}
+  .b1{top:14%;left:6%;transform:rotate(-8deg)}
+  .b2{bottom:16%;left:9%;transform:rotate(-4deg)}
+  .b3{top:13%;right:6%;transform:rotate(7deg)}
+  .b4{bottom:18%;right:6%;transform:rotate(5deg)}
+  figcaption{font-size:13px;color:var(--hint);margin-top:10px;text-align:center}
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:26px 0}
+  .stat{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-sm);padding:16px}
+  .stat .l{font-size:13px;color:var(--muted)}
+  .stat .v{font-size:26px;font-weight:700;margin-top:2px}
+  .stat .s{font-size:12px;color:var(--hint)}
+  .panel{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:20px;margin:24px 0}
+  .panel h3{margin-top:0}
+  .chips{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0 16px}
+  .chip{font-family:var(--sans);font-size:14px;font-weight:600;padding:7px 13px;border-radius:999px;border:1px solid var(--border-strong);background:transparent;color:var(--text);cursor:pointer;transition:.12s}
+  .chip:hover{background:var(--card)}
+  .chip.on{background:var(--accent);color:#0a0e13;border-color:var(--accent)}
+  .detail{background:var(--card);border:1px solid var(--border);border-radius:var(--radius-sm);padding:18px}
+  .drow{display:flex;justify-content:space-between;gap:14px;padding:8px 0;border-top:1px solid var(--border);font-size:15px}
+  .drow:first-of-type{border-top:none}
+  .drow .dl{color:var(--muted)}
+  .drow .dl small{display:block;color:var(--hint);font-size:11.5px;line-height:1.3}
+  .drow .dv{font-weight:600;text-align:right}
+  .legend{display:flex;flex-wrap:wrap;gap:16px;font-size:13px;color:var(--muted);margin:6px 0 10px}
+  .legend span{display:flex;align-items:center;gap:6px}
+  .dot{width:12px;height:12px;border-radius:3px;display:inline-block}
+  .chartbox{position:relative;width:100%;height:330px}
+  .ladder-row{display:flex;gap:14px;align-items:flex-start;padding:11px 14px;margin-bottom:7px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--card)}
+  .ladder-row.ig{background:var(--surface)}
+  .ladder-row .g{min-width:104px;font-weight:700;font-size:14px}
+  .ladder-row .n{font-weight:600;font-size:15px}
+  .ladder-row .d{font-size:13.5px;color:var(--muted)}
+  .igline{border-top:2px dashed var(--border-strong);margin:14px 0 16px;text-align:center}
+  .igline span{position:relative;top:-11px;background:var(--bg);padding:0 10px;font-size:12px;color:var(--hint)}
+  .tk{border-left:3px solid var(--border-strong);padding:2px 0 2px 16px;margin:0 0 22px}
+  .tk h3{margin-top:0}
+  .tk.scary{border-left-color:var(--danger)}
+  .tk.calm{border-left-color:var(--teal)}
+  .verdict{font-size:15px}
+  .verdict b{color:var(--text)}
+  .tag{display:inline-block;font-size:12px;font-weight:600;padding:2px 9px;border-radius:999px;margin-left:8px;vertical-align:middle}
+  .tag.s{background:var(--danger-soft);color:var(--danger)}
+  .tag.c{background:#0f3a2e;color:#5dcaa5}
+  @media (prefers-color-scheme: light){.tag.c{background:#e1f5ee;color:#0f6e56}}
+  .note{background:var(--accent-soft);border:1px solid var(--border);border-radius:var(--radius-sm);padding:16px 18px;font-size:15.5px;margin:24px 0}
+  .disclaimer{font-size:13px;color:var(--hint);border-top:1px solid var(--border);margin-top:48px;padding-top:18px;font-style:italic}
+  .sa-foot{max-width:1040px;margin:0 auto;padding:22px 20px 40px;border-top:1px solid var(--border);font-size:12.5px;color:var(--hint);text-align:center;line-height:1.9}
+  .sa-foot a{color:var(--muted);font-weight:600;text-decoration:none}
+  @media (max-width:560px){h1{font-size:30px}body{font-size:17px}}
 </style>
-</head><body>
-  <!-- meganav v9 — generated by gen_nav.py; edit NAV there, not here -->
+<style>
+.sa-crumb{max-width:920px;margin:14px auto 0;padding:0 20px;font-size:13px;color:var(--faint,#6b7684);}
+.sa-crumb a{color:var(--muted,#9aa6b2);text-decoration:none;} .sa-crumb a:hover{color:var(--accent,var(--accent,#22c55e));}
+.sa-grow{max-width:920px;margin:20px auto 0;padding:24px 20px 8px;border-top:1px solid var(--border-soft,#1c2230);display:grid;grid-template-columns:1fr 1fr;gap:14px 28px;}
+@media(max-width:680px){.sa-grow{grid-template-columns:1fr;}}
+.sa-grow h3{font-size:14px;margin:0 0 8px;color:var(--text,#e6edf3);letter-spacing:.02em;}
+.sa-grow ul{margin:0;padding-left:18px;} .sa-grow li{color:var(--muted,#9aa6b2);font-size:14.5px;line-height:1.7;margin-bottom:3px;} .sa-grow a{color:var(--accent,var(--accent,#22c55e));}
+.sa-cta-box{grid-column:1/-1;margin-top:8px;padding:18px 20px;border:1px solid rgba(34,197,94,.28);border-radius:12px;background:rgba(34,197,94,.06);}
+.sa-cta-box b{color:var(--text,#e6edf3);font-size:15.5px;} .sa-cta-box p{color:var(--muted,#9aa6b2);font-size:14px;margin:6px 0 12px;line-height:1.6;}
+.sa-cta-box .sa-cta-btn{display:inline-block;background:var(--accent,var(--accent,#22c55e));color:#fff;padding:9px 17px;border-radius:8px;font-weight:600;font-size:14px;text-decoration:none;}
+.sa-tickers{max-width:920px;margin:6px auto 0;padding:0 20px;font-size:13.5px;color:var(--faint,#6b7684);} .sa-tickers a{color:var(--accent,var(--accent,#22c55e));}
+</style>
+</head>
+<body class="shell-article">
+
+<!-- meganav v9 — generated by gen_nav.py; edit NAV there, not here -->
 <link rel="stylesheet" href="/ds-v2/tokens.css?v=3">
 <link rel="stylesheet" href="/ds-v2/primitives.css?v=1">
 <link rel="stylesheet" href="/ds-v2/shell.css?v=1">
@@ -189,7 +302,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     <em class="mn-beta">Beta</em>
   </a>
   <nav class="mn-nav" aria-label="Main">
-    <div class="mn-item on" data-menu="terminal">
+    <div class="mn-item" data-menu="terminal">
       <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Terminal</button>
       <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">The main Santro market view across AI stocks, ETFs, crypto, hot tickers, and bubble-risk signals.</p><div class="mn-links">
         <a class="mn-link" href="/terminal"><b>AI Terminal<em class="mn-b mn-b-live">Beta</em></b><span>Bubble map, market tape, hot tickers, and the daily brief.</span></a>
@@ -345,48 +458,103 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 </div>
 <script src="/nav.js?v=9" defer></script>
 </header>
-  <main class="etfp">
-    <nav class="crumb" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/etfs">AI ETFs</a> › AIVL</nav>
-    <h1>AIVL — WisdomTree U.S. AI-Enhanced Value<span class="rbx">trap</span></h1>
-    <div class="ds-actrow"><button class="ds-act" data-lock="watch">★ Track AIVL</button><button class="ds-act" data-lock="alert">Set alert</button></div>
-    <p class="sub">The “AI-washing” trap · Sound like AI, aren’t. Read the word order.</p>
 
-    <p>NOT an AI fund. “AI-Enhanced Value” = a value fund using AI as a tool — you’d own banks and industrials, not AI. Read the label carefully — this fund's AI exposure is incidental, not its mandate.</p>
+<style>
+/* .art-* — reusable editorial components (ds_v2 vars, article-scoped) */
+.art-panel{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:16px 18px;margin:22px 0}
+.art-kick{font-family:var(--font-mono,monospace);font-size:10.5px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--hint);margin-bottom:12px}
+.art-hero-panel{display:grid;grid-template-columns:repeat(5,1fr);gap:10px}
+.art-hero-panel a{display:block;border:1px solid var(--border);border-radius:10px;padding:12px 12px;text-decoration:none;background:rgba(34,197,94,.04)}
+.art-hero-panel b{display:block;font-family:var(--font-mono,monospace);font-size:12.5px;color:var(--accent);margin-bottom:4px}
+.art-hero-panel span{font-size:11.5px;color:var(--hint);line-height:1.45;display:block}
+.art-layers{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:22px 0}
+.art-layers i{font-style:normal;font-family:var(--font-mono,monospace);font-size:12.5px;font-weight:700;color:var(--fg);border:1px solid var(--border-strong);background:var(--surface);border-radius:999px;padding:7px 13px}
+.art-layers em{font-style:normal;color:var(--accent);font-weight:700}
+.art-quote{border-left:3px solid var(--accent);margin:30px 0;padding:8px 0 8px 22px}
+.art-quote p{font-size:27px;line-height:1.25;font-weight:800;color:var(--fg);margin:0;letter-spacing:-.3px}
+.art-quote small{display:block;margin-top:8px;font-family:var(--font-mono,monospace);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--hint)}
+.art-rotmap{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:22px 0}
+.art-rotmap a{border:1px solid var(--border);border-radius:10px;padding:12px 13px;text-decoration:none;background:var(--surface)}
+.art-rotmap b{display:block;font-size:13.5px;color:var(--fg);margin-bottom:3px}
+.art-rotmap span{font-size:11.5px;color:var(--hint);line-height:1.45;display:block}
+.art-rotmap a:hover b{color:var(--accent)}
+.art-risk div{display:flex;justify-content:space-between;gap:14px;padding:8px 0;border-bottom:1px solid var(--border);font-size:13.5px}
+.art-risk div:last-of-type{border-bottom:0}
+.art-risk b{font-family:var(--font-mono,monospace);font-size:12.5px;color:var(--fg);white-space:nowrap}
+.art-risk span{color:var(--hint);text-align:right}
+.art-check ul{list-style:none;margin:8px 0 0;padding:0}
+.art-check li{padding:7px 0 7px 30px;position:relative;font-size:14.5px;color:var(--fg);border-bottom:1px solid var(--border)}
+.art-check li:last-child{border-bottom:0}
+.art-check li::before{content:"☐";position:absolute;left:4px;color:var(--accent);font-family:var(--font-mono,monospace)}
+.art-steps{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:22px 0}
+.art-steps a{display:flex;gap:12px;border:1px solid var(--border);border-radius:10px;padding:12px 13px;text-decoration:none;background:var(--surface)}
+.art-steps i{font-style:normal;font-family:var(--font-mono,monospace);font-weight:800;color:var(--accent);font-size:15px}
+.art-steps b{display:block;font-size:13.5px;color:var(--fg)}
+.art-steps span{font-size:12px;color:var(--hint);line-height:1.45;display:block;margin-top:2px}
+.art-cta{display:flex;gap:10px;flex-wrap:wrap;margin:26px 0 6px}
+.art-cta a{text-decoration:none;font-weight:700;font-size:14px;border-radius:10px;padding:11px 18px;border:1px solid var(--border-strong);color:var(--accent)}
+.art-cta a.pri{background:var(--accent);color:#04140b;border-color:var(--accent)}
+.art-cta a:not(.pri):hover{border-color:var(--accent)}
+@media(max-width:760px){.art-hero-panel{grid-template-columns:repeat(2,1fr)}.art-rotmap{grid-template-columns:repeat(2,1fr)}.art-steps{grid-template-columns:1fr}.art-quote p{font-size:22px}}
+@media(max-width:430px){.art-hero-panel{grid-template-columns:1fr 1fr}.art-rotmap{grid-template-columns:1fr}}
+</style><article class="wrap">
+  <p class="kicker">Company &middot; Methodology</p>
+  <nav class="sa-crumb" aria-label="Breadcrumb"><a href="/">Home</a> › Methodology</nav>
+  <h1>How Santro AI measures the market</h1>
+  <p class="lede">Santro is an AI Trade Terminal: it reads heat, crowding, valuation pressure and sector rotation across the AI trade. This page explains where the data comes from, how fresh it is, and the standards behind every number. It exists so nothing on the site is a black box.</p>
+  <p class="byline"><span>By <strong>Santro AI</strong></span><span>&middot;</span><span>Updated July 2026</span></p>
 
-    <h2>Key facts</h2>
-    <table class="kv">
-      <tr><td>Ticker</td><td><b>AIVL</b></td></tr>
-      <tr><td>Fund</td><td>WisdomTree U.S. AI-Enhanced Value</td></tr>
-      <tr><td>Issuer</td><td>WisdomTree</td></tr>
-      <tr><td>Theme</td><td>The “AI-washing” trap</td></tr>
-      <tr><td>Expense ratio</td><td>—</td></tr>
-      <tr><td>AUM</td><td>—</td></tr>
-      <tr><td>Holdings</td><td>—</td></tr>
-      <tr><td>What's inside</td><td>A value fund that uses AI to pick stocks</td></tr>
-    </table>
-    <p class="nfax">AUM and expense ratio are point-in-time (curated June 2026) and move with the fund — the issuer's own page is the source of record.</p>
+  <h2>The data</h2>
+  <p>Quotes, market caps and day moves come from public market-data feeds and are <strong>delayed by roughly 15 minutes</strong>. The terminal is built for reading the day — where attention and pressure are building — not for split-second execution. Every page that shows a price says so.</p>
+  <p>The AI universe is a curated set of names across eight sub-themes — semiconductors, powering AI, data centers, software and cloud, chip equipment, platforms, applied AI, and applications. Membership is deliberate and versioned, not scraped; each ticker is placed in the layer of the AI trade it actually belongs to.</p>
 
-    <h2>What's inside &amp; AI relevance</h2>
-    <p>Top exposure: A value fund that uses AI to pick stocks. Read the label carefully — this fund's AI exposure is incidental, not its mandate.</p>
+  <h2>Heat, and what it does not mean</h2>
+  <p>On the bubble map, size reflects the day's move and color reflects direction. That is a measure of <em>attention</em> — a large move, unusual volume, a crowded headline. It is a reason to look, never a direction call.</p>
+  <div class="art-quote" style="border-left:3px solid var(--accent);margin:24px 0;padding:8px 0 8px 22px"><p style="font-size:24px;font-weight:800;margin:0">Hot means attention, not direction.</p></div>
 
-    <h2>Chart</h2>
-    <div class="tradingview-widget-container"><div id="tv_AIVL"></div></div>
-    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-overview.js" async>
-    {"symbols":[["AIVL"]],"chartOnly":false,"width":"100%","height":300,"colorTheme":"dark","isTransparent":true,"autosize":false}
-    </script>
+  <h2>Bubble risk</h2>
+  <p>The <a href="/bubble">AI Bubble Risk Index</a> condenses signals about how expensive, crowded and fast-moving the AI trade is into one number with history. The underlying index and its methodology belong to <strong>AI Bubble Monitor</strong>; Santro mirrors the published values with attribution. A high reading measures pressure — it does not schedule a crash, and markets can stay hot for a long time.</p>
 
-    <h2>Related AI ETFs</h2>
-    <p class="relx"><a href="/etfs/aivi">AIVI</a><a href="/etfs/vgt">VGT</a></p>
-    <p>See all funds, sorted into 8 buckets, on the <a href="/etfs">AI ETF universe</a> page, or gauge the wider market with the <a href="/bubble">AI bubble-risk index</a>.</p>
+  <h2>Research and filings</h2>
+  <p>Research on Santro is <strong>filing-verified</strong>: where a claim rests on a public filing, we verify the filing's existence, form type and date on SEC EDGAR, and reported deal terms are clearly labeled as reported and subject to change until confirmed. Tweets and headlines are treated as leads, not sources. Interpretation is labeled as Santro's own and is never attributed to an investor as endorsement or affiliation.</p>
 
-    <div class="ctaE">
-      <b>Track AI ETFs &amp; run fair-value on their top holdings.</b>
-      <p>Create a free Santro AI account to save a watchlist and run unlimited valuations on the names inside these funds.</p>
-      <a href="/?auth=register">Create a free account →</a>
+  <h2>The tools</h2>
+  <p>The <a href="/tools/fair-value-calculator">fair-value calculator</a> produces <strong>scenario outputs under your own assumptions</strong> — a reverse-DCF, P/E, Graham and PEG read — not price targets. The <a href="/bubble#stress">portfolio stress test</a> runs your holdings against historical bad-weather scenarios and computes locally in your browser; it needs no brokerage login. Neither is a recommendation.</p>
+
+  <h2>What Santro does not do</h2>
+  <p>Santro does not give buy or sell signals, does not manage money, does not execute trades, and does not claim real-time data. It provides market context. <strong>Nothing on the site is financial advice.</strong></p>
+
+  <div class="art-cta" style="display:flex;gap:10px;flex-wrap:wrap;margin:26px 0"><a class="pri" href="/terminal" style="text-decoration:none;font-weight:700;border-radius:10px;padding:11px 18px;background:var(--accent);color:#04140b">Open the terminal</a><a href="/about" style="text-decoration:none;font-weight:700;border-radius:10px;padding:11px 18px;border:1px solid var(--border-strong);color:var(--accent)">About Santro AI</a></div>
+  <p style="font-size:13px;color:var(--hint);border-top:1px solid var(--border);padding-top:16px;margin-top:20px">Market data is delayed ~15 minutes and provided for education. Hot means attention, not direction. Not financial advice.</p>
+</article>
+<p class="sa-tickers"><b>Tickers mentioned:</b> <a href="/ipos/sk-hynix-adr">SKHY</a>, <a href="/t?sym=NVDA">NVDA</a>, <a href="/t?sym=MU">MU</a>, <a href="/e?sym=DRAM">DRAM</a>, <a href="/t?sym=WDC">WDC</a>, <a href="/t?sym=STX">STX</a>, <a href="/t?sym=SNDK">SNDK</a>, <a href="/e?sym=SMH">SMH</a></p>
+<section class="sa-grow">
+    <div>
+      <h3>RELATED READING</h3>
+      <ul>
+        <li><a href="/ipos/sk-hynix-adr">SK hynix US listing — the AI IPO watch profile</a></li>
+        <li><a href="/blog/ai-junk-bonds">AI's $32B IOU: the data-center junk-bond table</a></li>
+        <li><a href="/blog/spacex-attention-ai-infrastructure">SpaceX is the attention magnet — the real trade is AI infrastructure</a></li>
+      </ul>
     </div>
-    <p class="nfax">Market data is delayed ~15 minutes and provided for education, not as financial advice. ETFs carry risk; read the fund's prospectus.</p>
-  </main>
-  <!-- mega-footer v1 -->
+    <div>
+      <h3>SANTRO AI TOOLS</h3>
+      <ul>
+        <li><a href="/bubble">Check the AI bubble-risk index</a></li>
+        <li><a href="/etfs">Compare AI ETFs</a></li>
+        <li><a href="/crypto">AI crypto movers</a></li>
+        <li><a href="/stocks">AI stocks bubble map</a></li>
+        <li><a href="/share">Create a share card</a></li>
+      </ul>
+    </div>
+    <div class="sa-cta-box">
+      <b>Run the numbers yourself — free.</b>
+      <p>Create a free Santro AI account to run unlimited fair-value valuations, save a watchlist, and keep your valuation history. Five free runs even without an account; no card required.</p>
+      <a class="sa-cta-btn" href="/?auth=register">Create a free account &rarr;</a>
+    </div>
+  </section>
+
+<!-- mega-footer v1 -->
 <footer class="mega">
 <style>
 footer.mega{display:block;text-align:left;margin-top:48px;padding:0;border-top:1px solid var(--border,#1d2733);background:transparent;font-family:var(--font-sans, -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif);}
@@ -530,4 +698,8 @@ function t(){if(!mq.matches)return;var c=h.parentElement;c.classList.toggle("ope
 h.addEventListener("click",t);h.addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){e.preventDefault();t();}});});}
 arm();mq.addEventListener?mq.addEventListener("change",arm):mq.addListener(arm);})();</script>
 </footer>
-</body></html>
+
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+
+</body>
+</html>

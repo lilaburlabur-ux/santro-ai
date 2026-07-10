@@ -35,6 +35,7 @@ ROUTES = [
     ("/evaluate-prompt","evaluate-prompt.html","0.6","monthly",False),
     ("/share",    "share.html",    "0.6", "weekly",  False),
     ("/about",    "about.html",    "0.6", "monthly", False),
+    ("/methodology", "methodology.html", "0.6", "monthly", False),
     ("/privacy",  "privacy.html",  "0.3", "yearly",  False),
     ("/terms",    "terms.html",    "0.3", "yearly",  False),
 ]

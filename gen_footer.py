@@ -133,7 +133,7 @@ FOOTER = """<!-- mega-footer v1 -->
       <h4>Company</h4>
       <ul>
         <li><a href="/about">About Santro AI</a></li>
-        <li><a href="/about">Methodology</a></li>
+        <li><a href="/methodology">Methodology</a></li>
         <li><a href="/research">Data &amp; sources</a></li>
         <li><a href="mailto:hello@santroai.tech">Contact</a></li>
         <li><a href="/privacy">Privacy Policy</a></li>

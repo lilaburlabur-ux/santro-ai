@@ -24,7 +24,7 @@ from bs4 import BeautifulSoup
 
 MIRROR = "https://t.me/s/walter_bloomberg"
 HANDLE = "@DeItaone"
-TOPIC = re.compile(r"spacex|spcx|space exploration", re.I)
+TOPIC = re.compile(r"spacex|spcx|space exploration|sk\s*hynix|hynix|skhyv?\b", re.I)
 BOILER = re.compile(r"\s*@walter_bloomberg\s*\|?\s*(Source)?\s*$", re.I)
 
 
@@ -67,7 +67,7 @@ def main():
 
     json.dump({
         "meta": {"handle": HANDLE, "mirror": "t.me/walter_bloomberg",
-                 "topic": "SpaceX / $SPCX", "hyperliquid": hl,
+                 "topic": "SpaceX / $SPCX + SK hynix / $SKHY", "hyperliquid": hl,
                  "as_of": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")},
         "items": items,
     }, open("tweets.json", "w"), indent=1)

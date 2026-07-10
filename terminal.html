@@ -962,7 +962,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     </section>
 
     <section class="panel area-ipo">
-      <h2><span class="ic"></span> SpaceX IPO tracker <span class="badge live" id="spcx-badge">Delayed ~15m</span></h2>
+      <h2><span class="ic"></span> SK hynix ADR tracker <span class="badge live" id="spcx-badge">Delayed ~15m</span></h2>
       <div class="body" id="ipo"></div>
     </section>
 
@@ -1608,34 +1608,36 @@ function renderSamples(){
   }
   renderSpaceX();
 }
-// SpaceX IPO feature — the panel's only IPO: big live SPCX price (universe.json,
-// extended-session aware) + running SpaceX headlines from the news feed
+// SK hynix ADR tracker — the panel's IPO feature: big live SKHY price
+// (universe.json, yf-aliased to SKHYV until Monday's ticker conversion),
+// premium vs the $149 ADS pricing, @DeItaone squawk + headlines.
+const SKHY_ADS = 149.00;   // priced ADS reference (reported), like SPCX's 135 seed
 function renderSpaceX(){
   const el=document.getElementById("ipo");
   if(!el) return;
-  const s = universe ? universe.bubbles.flatMap(b=>b.tickers).find(t=>t.ticker==="SPCX") : null;
+  const s = universe ? universe.bubbles.flatMap(b=>b.tickers).find(t=>t.ticker==="SKHY") : null;
   const badge=document.getElementById("spcx-badge");
   if(badge){
-    // freshness stamp, same style as the Hot Tickers badge ("Squawk · 5m ago");
-    // the squawk feed's as_of is the panel's fastest-moving timestamp
     const ts=(tweets&&tweets.meta&&tweets.meta.as_of)||(universe&&universe.meta.as_of)||null;
     const ago=ts?timeAgo(ts.replace(" UTC","Z").replace(" ","T")):"";
     badge.textContent="Auto"+(ago?" · "+ago:"");
   }
   let h="";
-  if(s){
-    const traded = s.change_pct!==0 || s.price!==135;
-    h+=`<div class="spcx-head" onclick="openTicker('SPCX')" title="Open SPCX in the bubble map">
-      <div class="spcx-logo"><img src="assets/spacex.png" alt="SpaceX"></div>
-      <div class="spcx-main"><div class="spcx-nm">SpaceX</div>
-        <div class="spcx-tk">SPCX · Nasdaq · ${fmtCap(s.market_cap_b*1e9)} · Aerospace &amp; Defense</div></div>
-      <div class="spcx-px"><div class="big">$${s.price.toFixed(2)}</div>
-        <div class="chg ${pctClass(s.change_pct)}">${fmtPct(s.change_pct)}</div>
-        <div class="ref">${traded?"vs IPO $135.00":"IPO price · awaiting first trade"}${universe&&universe.meta.session?` · ${({pre:"premarket",post:"after hours",regular:"market open",closed:"market closed"})[universe.meta.session]||""}`:""}</div>
-        ${tweets&&tweets.meta&&tweets.meta.hyperliquid?`<div class="ref hl">Hyperliquid perp $${Number(tweets.meta.hyperliquid).toFixed(2)}</div>`:""}</div>
-    </div>`;
-  }
-  const tw=(tweets&&tweets.items?tweets.items:[]).slice(0,4);
+  const live = s && s.price!=null;
+  const traded = live && (s.change_pct!==0 || s.price!==SKHY_ADS);
+  h+=`<div class="spcx-head" onclick="${live?"openTicker('SKHY')":"location.href='/ipos/sk-hynix-adr'"}" title="${live?"Open SKHY in the bubble map":"Open the SK hynix IPO watch profile"}">
+    <div class="spcx-logo"><img src="https://assets.parqet.com/logos/symbol/SKHY?format=png&size=64" alt="SK hynix" onerror="this.style.display='none'"></div>
+    <div class="spcx-main"><div class="spcx-nm">SK hynix</div>
+      <div class="spcx-tk">${live?"SKHY":"SKHYV → SKHY Mon"} · Nasdaq ADR · ${s&&s.market_cap_b?fmtCap(s.market_cap_b*1e9):"reported ~$1.05T"} · Memory / HBM</div></div>
+    <div class="spcx-px">${live?`<div class="big">$${s.price.toFixed(2)}</div>
+      <div class="chg ${pctClass(s.change_pct)}">${fmtPct(s.change_pct)}</div>
+      <div class="ref">${traded?`vs ADS $${SKHY_ADS.toFixed(2)} (${fmtPct((s.price/SKHY_ADS-1)*100)})`:"ADS price · awaiting first trade"}${universe&&universe.meta.session?` · ${({pre:"premarket",post:"after hours",regular:"market open",closed:"market closed"})[universe.meta.session]||""}`:""}</div>`
+      :`<div class="big">$${SKHY_ADS.toFixed(2)}</div>
+      <div class="ref">priced / ADS · reported</div>
+      <div class="ref">awaiting live prints — day one trades as $SKHYV</div>`}</div>
+  </div>`;
+  const isHynix = x => /sk\s*hynix|hynix|skhy/i.test(x||"");
+  const tw=(tweets&&tweets.items?tweets.items:[]).filter(it=>isHynix(it.text)).slice(0,4);
   if(tw.length){
     h+=`<div class="spcx-srclbl">𝕏 ${tweets.meta.handle} · live squawk</div>`
       +tw.map(it=>`
@@ -1643,13 +1645,14 @@ function renderSpaceX(){
         <div class="m">${timeAgo(it.time)}</div></div>`).join("");
   }
   const items=(newsFeed&&newsFeed.items?newsFeed.items:[])
-    .filter(it=>(it.tickers||[]).includes("SPCX") || /spacex|space exploration/i.test(it.title||""))
+    .filter(it=>(it.tickers||[]).includes("SKHY") || isHynix(it.title))
     .slice(0,4);
   h+=`<div class="spcx-news">${items.length?`<div class="spcx-srclbl">Headlines</div>`:""}`
     +(items.length?items.map(it=>`
     <div class="spcx-item"><a href="${it.link||"#"}" target="_blank" rel="noopener">${it.title}</a>
       <div class="m">${it.publisher||""}${it.published?" · "+timeAgo(it.published):""}</div></div>`).join("")
-    :(tw.length?"":`<div class="spcx-wait">Waiting for fresh SpaceX headlines — feed updates every 20 minutes…</div>`))+`</div>`;
+    :(tw.length?"":`<div class="spcx-wait">Waiting for fresh SK hynix headlines — feed updates every 20 minutes…</div>`))+`</div>`;
+  h+=`<div class="spcx-srclbl" style="margin-top:8px"><a href="/ipos/sk-hynix-adr" style="color:inherit">Deal profile: reported terms, FAQ →</a> · <a href="/blog/sk-hynix-adr-etf-flows" style="color:inherit">ETF-flow analysis →</a></div>`;
   el.innerHTML=h;
 }
 function renderTakeaways(){

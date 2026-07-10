@@ -61,10 +61,17 @@ def main():
             refs += b.get("tickers", [])
     if eco:
         refs += eco.get("tickers", [])
-    symbols = sorted({t["ticker"] for t in refs})
+    # yfinance symbol aliases — e.g. fresh ADRs trading under a temporary
+    # ticker (SKHYV day one -> SKHY from conversion). Data-only: set/remove the
+    # "yf" field on the universe ticker; no code change needed later.
+    yf_alias = {t["ticker"]: t["yf"] for t in refs if t.get("yf")}
+    symbols = sorted({yf_alias.get(t["ticker"], t["ticker"]) for t in refs})
     # fresh IPOs have a single daily bar and no previous close — their seeded
     # base_close (the IPO reference price) anchors the day move instead
     base_ref = {t["ticker"]: t["base_close"] for t in refs if t.get("base_close")}
+    for t in refs:
+        if t.get("yf") and t.get("base_close"):
+            base_ref[t["yf"]] = t["base_close"]
 
     px = yf.download(symbols, period="5d", interval="1d", auto_adjust=True,
                      progress=False, group_by="ticker", threads=True)
@@ -132,6 +139,11 @@ def main():
             quotes[sym] = (last, chg, int(v.iloc[-1]) if len(v) else None)
         except Exception:
             continue
+
+    # map alias quotes back to the canonical ticker (e.g. SKHYV -> SKHY)
+    for tk, ysym in yf_alias.items():
+        if ysym in quotes and tk not in quotes:
+            quotes[tk] = quotes[ysym]
 
     patched = 0
     for t in refs:

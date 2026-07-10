@@ -1,47 +1,152 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="theme-color" content="#0a0e13" />
 <meta name="mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-title" content="Santro AI" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-<title>Santro AI Blog — AI Market Research &amp; Bubble Analysis</title>
-<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
-<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png" />
-<link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png" />
-<link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
-<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+<title>How to Read the AI Market in Five Minutes a Day — a Beginner's Tour | Santro AI</title>
+<meta name="description" content="A plain-English tour of Santro AI: read the bubble map, check a sector, open a company page, and gauge market froth — free, in about five minutes a day.">
+<link rel="canonical" href="https://santroai.tech/blog/how-to-read-the-ai-market">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 <link rel="manifest" href="/manifest.json" />
-<meta name="description" content="The Santro AI blog — traders breaking down the AI trade: junk bonds, IPOs, the data behind the headlines. Not financial advice." />
-<link rel="canonical" href="https://santroai.tech/blog" />
 <meta property="og:site_name" content="Santro AI" />
-<meta property="og:title" content="Blog — Santro AI" />
-<meta property="og:description" content="Traders breaking down the AI trade — the data behind the headlines." />
-<meta property="og:url" content="https://santroai.tech/blog" />
-<meta property="og:image" content="https://santroai.tech/assets/og-map.png" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="https://santroai.tech/assets/og-map.png" />
-<script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
-<link rel="stylesheet" href="site.css?v=14" />
-<style>
-  .post{display:block; background:var(--panel); border:1px solid var(--border); border-radius:var(--radius);
-    padding:22px 24px; margin-bottom:16px; text-decoration:none; transition:.15s;}
-  .post:hover{border-color:var(--accent-border); transform:translateY(-2px);}
-  .post .kick{font-size:11px; letter-spacing:.08em; text-transform:uppercase; color:#22c55e; font-weight:700;}
-  .post h2{margin:7px 0 6px; font-size:22px; color:var(--text); line-height:1.2;}
-  .post .ex{color:var(--muted); font-size:14.5px; margin:0;}
-  .post .meta{color:var(--faint); font-size:12px; margin-top:12px;}
-</style>
+<meta property="og:type" content="article">
+<meta property="og:title" content="How to Read the AI Market in Five Minutes a Day">
+<meta property="og:description" content="Color is direction, size is attention — the whole AI market on one screen, explained without jargon.">
+<meta property="og:url" content="https://santroai.tech/blog/how-to-read-the-ai-market">
+<meta property="og:image" content="https://santroai.tech/assets/blog/how-to-read-the-ai-market.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://santroai.tech/assets/blog/how-to-read-the-ai-market.png">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://santroai.tech/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://santroai.tech/blog"}]}
+{"@context":"https://schema.org","@type":"Article",
+ "headline":"How to Read the AI Market in Five Minutes a Day",
+ "description":"A plain-English tour of Santro AI: the bubble map, sector pages, company pages, the bubble-risk dial and the fair-value calculator. Free; not financial advice.",
+ "image":"https://santroai.tech/assets/blog/how-to-read-the-ai-market.png",
+ "datePublished":"2026-07-10","dateModified":"2026-07-10",
+ "author":{"@type":"Organization","name":"Santro AI","url":"https://santroai.tech"},
+ "publisher":{"@type":"Organization","name":"Santro AI","logo":{"@type":"ImageObject","url":"https://santroai.tech/assets/brand/logo-1024.png"}},
+ "mainEntityOfPage":{"@type":"WebPage","@id":"https://santroai.tech/blog/how-to-read-the-ai-market"},
+ "keywords":"SK Hynix IPO, SKHY, HBM, high bandwidth memory, AI memory, Nasdaq ADS, Micron, MU, NVDA, DRAM ETF, memory supercycle, AI infrastructure"}
 </script>
+<style>
+  :root{
+    /* Santro dark-first palette */
+    --bg:#0a0e13; --surface:#111822; --card:#16202b;
+    --text:#e7edf3; --muted:#9aa7b5; --hint:#6b7686;
+    --border:rgba(255,255,255,.10); --border-strong:rgba(255,255,255,.20);
+    --accent:var(--accent-2,#7ce8b1); --accent-soft:#10241a;
+    --teal:#22c55e; --gray:#8895a4; --danger:#f05a6e; --danger-soft:#2a1418;
+    --radius:14px; --radius-sm:9px;
+    --serif:Georgia,'Times New Roman',serif;
+    --sans:-apple-system,BlinkMacSystemFont,'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.7;font-size:18px;-webkit-font-smoothing:antialiased}
+  /* Santro header */
+  .sa-head{display:flex;align-items:center;gap:14px;flex-wrap:wrap;max-width:1040px;margin:0 auto;
+    padding:16px 22px;border-bottom:1px solid var(--border)}
+  .sa-logo{display:flex;align-items:center;gap:6px;text-decoration:none}
+  .sa-s{position:relative;font-size:24px;font-weight:800;line-height:.85;padding-right:12px;
+    background:linear-gradient(165deg,#4ade80 10%,#15803d 90%);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .sa-ai{position:absolute;top:-3px;right:0;font-size:8px;font-weight:800;-webkit-text-fill-color:#22c55e}
+  .sa-name{font-size:13px;font-weight:800;letter-spacing:.28em;color:var(--text)}
+  .sa-nav{margin-left:auto;display:flex;gap:4px;flex-wrap:wrap}
+  .sa-nav a{font-size:13px;font-weight:600;color:var(--muted);text-decoration:none;padding:5px 9px;border-radius:7px}
+  .sa-nav a:hover{color:var(--text)}
+  .sa-nav a.on{color:var(--accent)}
+  .wrap{max-width:1040px;margin:0 auto;padding:32px 22px 80px}
+  .sa-nav a.back{color:var(--accent);font-weight:700}
+  .kicker{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--teal);font-weight:700;margin:0 0 10px}
+  h1{font-family:var(--serif);font-size:38px;line-height:1.15;font-weight:700;margin:0 0 14px}
+  h2{font-size:26px;line-height:1.25;font-weight:600;margin:48px 0 12px}
+  h3{font-size:19px;font-weight:600;margin:28px 0 4px}
+  p{margin:0 0 18px}
+  .lede{font-size:20px;color:var(--muted);font-style:italic;font-family:var(--serif);margin-bottom:22px}
+  .byline{font-size:14px;color:var(--hint);border-top:1px solid var(--border);border-bottom:1px solid var(--border);padding:12px 0;margin:0 0 28px;display:flex;flex-wrap:wrap;gap:6px 16px;align-items:center}
+  .byline a{color:var(--accent);text-decoration:none}
+  .byline a:hover{text-decoration:underline}
+  a{color:var(--accent)}
+  figure{margin:28px 0}
+  /* self-contained burning hero (swap for the real meme by setting --meme bg image) */
+  .hero{position:relative;border-radius:var(--radius);overflow:hidden;border:1px solid var(--border);
+    background:radial-gradient(120% 90% at 50% 120%,#ff5e00 0%,#7a1d00 38%,#1a0a06 72%,#0a0e13 100%);
+    min-height:300px;display:flex;align-items:center;justify-content:center;text-align:center;padding:34px 20px}
+  .hero .fine{font-family:var(--serif);font-size:30px;font-weight:700;color:#fff8ec;line-height:1.3;
+    text-shadow:0 2px 14px rgba(0,0,0,.6);max-width:440px}
+  .hero .fine small{display:block;font-family:var(--sans);font-size:13px;font-weight:600;color:#ffd9a8;margin-top:10px;letter-spacing:.04em}
+  .burn{position:absolute;z-index:2;line-height:1;font-family:'Arial Black',Impact,var(--sans);font-weight:800;text-transform:uppercase;letter-spacing:.4px;color:#ffe9bf;text-align:center;pointer-events:none;text-shadow:0 0 5px #ffae3d,0 0 12px #ff5e00,0 0 22px #ff2a00,0 1px 2px rgba(0,0,0,.85);font-size:clamp(15px,3.6vw,26px)}
+  .burn small{display:block;font-size:.62em;font-weight:700;color:#ffd27a;letter-spacing:0}
+  .b1{top:14%;left:6%;transform:rotate(-8deg)}
+  .b2{bottom:16%;left:9%;transform:rotate(-4deg)}
+  .b3{top:13%;right:6%;transform:rotate(7deg)}
+  .b4{bottom:18%;right:6%;transform:rotate(5deg)}
+  figcaption{font-size:13px;color:var(--hint);margin-top:10px;text-align:center}
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:26px 0}
+  .stat{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-sm);padding:16px}
+  .stat .l{font-size:13px;color:var(--muted)}
+  .stat .v{font-size:26px;font-weight:700;margin-top:2px}
+  .stat .s{font-size:12px;color:var(--hint)}
+  .panel{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:20px;margin:24px 0}
+  .panel h3{margin-top:0}
+  .chips{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0 16px}
+  .chip{font-family:var(--sans);font-size:14px;font-weight:600;padding:7px 13px;border-radius:999px;border:1px solid var(--border-strong);background:transparent;color:var(--text);cursor:pointer;transition:.12s}
+  .chip:hover{background:var(--card)}
+  .chip.on{background:var(--accent);color:#0a0e13;border-color:var(--accent)}
+  .detail{background:var(--card);border:1px solid var(--border);border-radius:var(--radius-sm);padding:18px}
+  .drow{display:flex;justify-content:space-between;gap:14px;padding:8px 0;border-top:1px solid var(--border);font-size:15px}
+  .drow:first-of-type{border-top:none}
+  .drow .dl{color:var(--muted)}
+  .drow .dl small{display:block;color:var(--hint);font-size:11.5px;line-height:1.3}
+  .drow .dv{font-weight:600;text-align:right}
+  .legend{display:flex;flex-wrap:wrap;gap:16px;font-size:13px;color:var(--muted);margin:6px 0 10px}
+  .legend span{display:flex;align-items:center;gap:6px}
+  .dot{width:12px;height:12px;border-radius:3px;display:inline-block}
+  .chartbox{position:relative;width:100%;height:330px}
+  .ladder-row{display:flex;gap:14px;align-items:flex-start;padding:11px 14px;margin-bottom:7px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--card)}
+  .ladder-row.ig{background:var(--surface)}
+  .ladder-row .g{min-width:104px;font-weight:700;font-size:14px}
+  .ladder-row .n{font-weight:600;font-size:15px}
+  .ladder-row .d{font-size:13.5px;color:var(--muted)}
+  .igline{border-top:2px dashed var(--border-strong);margin:14px 0 16px;text-align:center}
+  .igline span{position:relative;top:-11px;background:var(--bg);padding:0 10px;font-size:12px;color:var(--hint)}
+  .tk{border-left:3px solid var(--border-strong);padding:2px 0 2px 16px;margin:0 0 22px}
+  .tk h3{margin-top:0}
+  .tk.scary{border-left-color:var(--danger)}
+  .tk.calm{border-left-color:var(--teal)}
+  .verdict{font-size:15px}
+  .verdict b{color:var(--text)}
+  .tag{display:inline-block;font-size:12px;font-weight:600;padding:2px 9px;border-radius:999px;margin-left:8px;vertical-align:middle}
+  .tag.s{background:var(--danger-soft);color:var(--danger)}
+  .tag.c{background:#0f3a2e;color:#5dcaa5}
+  @media (prefers-color-scheme: light){.tag.c{background:#e1f5ee;color:#0f6e56}}
+  .note{background:var(--accent-soft);border:1px solid var(--border);border-radius:var(--radius-sm);padding:16px 18px;font-size:15.5px;margin:24px 0}
+  .disclaimer{font-size:13px;color:var(--hint);border-top:1px solid var(--border);margin-top:48px;padding-top:18px;font-style:italic}
+  .sa-foot{max-width:1040px;margin:0 auto;padding:22px 20px 40px;border-top:1px solid var(--border);font-size:12.5px;color:var(--hint);text-align:center;line-height:1.9}
+  .sa-foot a{color:var(--muted);font-weight:600;text-decoration:none}
+  @media (max-width:560px){h1{font-size:30px}body{font-size:17px}}
+</style>
+<style>
+.sa-crumb{max-width:920px;margin:14px auto 0;padding:0 20px;font-size:13px;color:var(--faint,#6b7684);}
+.sa-crumb a{color:var(--muted,#9aa6b2);text-decoration:none;} .sa-crumb a:hover{color:var(--accent,var(--accent,#22c55e));}
+.sa-grow{max-width:920px;margin:20px auto 0;padding:24px 20px 8px;border-top:1px solid var(--border-soft,#1c2230);display:grid;grid-template-columns:1fr 1fr;gap:14px 28px;}
+@media(max-width:680px){.sa-grow{grid-template-columns:1fr;}}
+.sa-grow h3{font-size:14px;margin:0 0 8px;color:var(--text,#e6edf3);letter-spacing:.02em;}
+.sa-grow ul{margin:0;padding-left:18px;} .sa-grow li{color:var(--muted,#9aa6b2);font-size:14.5px;line-height:1.7;margin-bottom:3px;} .sa-grow a{color:var(--accent,var(--accent,#22c55e));}
+.sa-cta-box{grid-column:1/-1;margin-top:8px;padding:18px 20px;border:1px solid rgba(34,197,94,.28);border-radius:12px;background:rgba(34,197,94,.06);}
+.sa-cta-box b{color:var(--text,#e6edf3);font-size:15.5px;} .sa-cta-box p{color:var(--muted,#9aa6b2);font-size:14px;margin:6px 0 12px;line-height:1.6;}
+.sa-cta-box .sa-cta-btn{display:inline-block;background:var(--accent,var(--accent,#22c55e));color:#fff;padding:9px 17px;border-radius:8px;font-weight:600;font-size:14px;text-decoration:none;}
+.sa-tickers{max-width:920px;margin:6px auto 0;padding:0 20px;font-size:13.5px;color:var(--faint,#6b7684);} .sa-tickers a{color:var(--accent,var(--accent,#22c55e));}
+</style>
 </head>
 <body class="shell-article">
-  <!-- meganav v7 — generated by gen_nav.py; edit NAV there, not here -->
+
+<!-- meganav v7 — generated by gen_nav.py; edit NAV there, not here -->
 <link rel="stylesheet" href="/ds-v2/tokens.css?v=3">
 <link rel="stylesheet" href="/ds-v2/primitives.css?v=1">
 <link rel="stylesheet" href="/ds-v2/shell.css?v=1">
@@ -354,76 +459,109 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 <script src="/nav.js?v=7" defer></script>
 </header>
 
-  <main>
-    <h1>Blog</h1>
-    <p class="lede">Traders breaking down the AI trade — the data behind the headlines, read row by row.
-    Not financial advice.</p>
+<article class="wrap">
 
-    <a class="post" href="/blog/how-to-read-the-ai-market">
-      <div class="kick">Guides &middot; Getting Started</div>
-      <h2>How to Read the AI Market in Five Minutes a Day</h2>
-      <p class="ex">The AI market moves fast and speaks in jargon. A plain-English tour of the whole
-      terminal: the bubble map (color is direction, size is attention), sector pages, company pages,
-      the bubble-risk dial and the fair-value calculator &mdash; free, no account needed.</p>
-      <div class="meta">Santro AI &middot; July 10, 2026 &middot; New</div>
-    </a>
+  <p class="kicker">Guides &middot; Getting Started</p>
+  <nav class="sa-crumb" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/blog">Blog</a> › How to read the AI market …</nav>
+  <h1>How to Read the AI Market in Five Minutes a Day</h1>
+  <p class="lede">The AI market moves fast and speaks in jargon. Santro AI turns it into one screen you can actually read. Here's the whole site, explained the way we'd explain it to a friend.</p>
+  <p class="byline">
+    <span>By <strong>Santro AI</strong></span><span>&middot;</span><span>July 2026</span><span>&middot;</span>
+    <span><a href="/terminal">Open the terminal ↗</a></span>
+  </p>
 
-    <a class="post" href="/blog/sk-hynix-adr-etf-flows">
-      <div class="kick">AI IPO Watch &middot; ETF Mechanics</div>
-      <h2>What Happens When the Same Company Becomes Easier to Buy in the U.S.?</h2>
-      <p class="ex">ETFs don't automatically rotate from Seoul-listed SK Hynix into $SKHY. The four ways
-      flows can actually change &mdash; index rules, thematic switches, semi-index eligibility, and the
-      ADR premium tape &mdash; plus the TSMC playbook and the read for MU, DRAM, NVDA and the storage names.</p>
-      <div class="meta">Santro AI &middot; July 10, 2026 &middot; New</div>
-    </a>
+  <figure>
+    <img src="/assets/blog/how-to-read-the-ai-market.png" alt="Santro AI guide: how to read the AI market in five minutes a day — color is direction, size is attention" style="display:block;width:100%;border-radius:var(--radius);border:1px solid var(--border)">
+    <figcaption>The whole trick on one card: color is direction, size is attention.</figcaption>
+  </figure>
 
-    <a class="post" href="/blog/sk-hynix-us-listing">
-      <div class="kick">AI IPO Watch &middot; Memory &amp; HBM</div>
-      <h2>SK Hynix's U.S. Listing Isn't "Another AI IPO." It's a Ticker on the Memory Bottleneck.</h2>
-      <p class="ex">The HBM leader lists ADSs on Nasdaq (reported ticker $SKHY, reported ~$26–28B raise).
-      SK Hynix is already the AI-memory trade &mdash; Nvidia's critical supplier. The bull case, the bear
-      case, and the read-through for NVDA, MU, DRAM, WDC, STX, SNDK and SMH. Scarcity, or peak-margin scarcity?</p>
-      <div class="meta">Santro AI &middot; July 9, 2026</div>
-    </a>
+  <p>Most market websites assume you already speak the language. Charts everywhere, abbreviations nobody defines, and twelve tabs before you learn a single useful thing.</p>
+  <p>Santro AI was built the other way around. Everything starts from one picture, and every click after it answers a question you'd actually ask. This is the full tour — what each screen shows, what to look for, and what to ignore.</p>
 
-    <a class="post" href="/blog/ai-bubble-valuation-history">
-      <div class="kick">Bubble Watch &middot; Valuation &middot; History</div>
-      <h2>AI Bubble Or Market Reset? What Valuation History Actually Says</h2>
-      <p class="ex">CAPE, inflation-adjusted bubbles, dot-com comparisons, and why expensive does not
-      automatically mean short &mdash; with Santro's AI bubble risk and portfolio stress tools.</p>
-      <div class="meta">Santro AI &middot; Updated July 7, 2026 &middot; Flagship research</div>
-    </a>
+  <h2>1. Start at the terminal: the whole AI market as bubbles</h2>
+  <figure><img src="/assets/blog/guide/terminal-map.jpg" alt="Santro AI terminal bubble map — the AI market shown as floating bubbles, one per sector, green for up and red for down" loading="lazy" style="display:block;width:100%;border-radius:var(--radius);border:1px solid var(--border)"><figcaption>The terminal: every bubble is a group of AI companies, drifting live.</figcaption></figure>
+  <p>Open the <a href="/terminal">terminal</a>. The floating bubbles are the heart of the site — each one is a group of AI companies: chipmakers, cloud platforms, the energy companies powering data centers, and so on.</p>
+  <p>Two rules and you can read the whole thing:</p>
+  <ul>
+    <li><strong>Color is direction.</strong> Green means the group is up today; red means it's down. The deeper the color, the bigger the move.</li>
+    <li><strong>Size is attention.</strong> Bigger bubbles are moving more today. A big bubble isn't "good" — it's <em>loud</em>. Something is happening there.</li>
+  </ul>
+  <p>That's it. In ten seconds you know where today's action is. If the whole screen leans red except one green corner, you've just read the market's mood — no headlines required.</p>
+  <p>One honest note you'll see repeated across the site: <strong>hot means attention, not direction.</strong> A bubble being big and bright tells you people care. It doesn't tell you whether they're right.</p>
 
+  <h2>2. Click a sector: meet the companies inside</h2>
+  <figure><img src="/assets/blog/guide/sector-page.jpg" alt="A Santro AI sector page showing individual company bubbles with logos and daily moves, plus a detail panel" loading="lazy" style="display:block;width:100%;border-radius:var(--radius);border:1px solid var(--border)"><figcaption>A sector page: same living map, now one bubble per company — click any of them.</figcaption></figure>
+  <p>Click any sector bubble and you land on its own page — same living map, but now every bubble is a single company, with its logo, its ticker (the short code it trades under), and today's move.</p>
+  <p>Click a company bubble and the panel below fills in the basics: today's price, how much it moved, how big the company is, and what industry it's in. The table further down lists every company in the group, and each name is a link.</p>
+  <p>Try it with the <a href="/stocks/themes/powering-ai">"Powering AI" sector</a> — the power plants, turbine makers, and uranium miners that keep AI data centers running. Most people have never heard of half these companies. That's rather the point.</p>
 
-    <a class="post" href="/blog/ai-trading-prompt-engineering">
-      <div class="kick">Prompt Engineering · AI Trading Process</div>
-      <h2>If Your AI Trading Prompt Is Garbage, Your Strategy Will Be Garbage Too</h2>
-      <p class="ex">Vague prompts give vague trades. The Santro prompt formula — context, objective,
-      example, format, verification — turns AI from a market fortune cookie into a research desk.
-      One copy-ready prompt, plus a tool that scores your own.</p>
-      <div class="meta">Santro AI · June 19, 2026</div>
-    </a>
+  <h2>3. Open a company page: one name, everything on it</h2>
+  <figure><img src="/assets/blog/guide/ticker-page.jpg" alt="A Santro AI company page for NVIDIA showing price, day move, news, and context" loading="lazy" style="display:block;width:100%;border-radius:var(--radius);border:1px solid var(--border)"><figcaption>A company page gathers what you'd otherwise open six tabs for.</figcaption></figure>
+  <p>Every company has its own page — reachable from any bubble, any table, or the search box in the top bar. It gathers the things you'd otherwise open six tabs for: the current price, recent news with sources, how the company fits into the AI story, and links to its sector.</p>
+  <p>The prices across the site update automatically and run about fifteen minutes behind the live market. For reading the day, that's plenty. For split-second trading, this isn't the tool — on purpose.</p>
 
-    <a class="post" href="/blog/spacex-attention-ai-infrastructure">
-      <div class="kick">Premarket Note · Space + AI Infrastructure</div>
-      <h2>SpaceX Is the Attention Magnet. The Real Premarket Trade Is Broader AI Infrastructure.</h2>
-      <p class="ex">$SPCX carries the attention, but the June 15 premarket bid spread across the whole AI
-      stack — memory, testing, semicap, programmable chips and AI data infrastructure. A capital-flow
-      map, not one trade.</p>
-      <div class="meta">Santro AI · June 15, 2026</div>
-    </a>
+  <h2>4. Check the mood: the bubble-risk dial</h2>
+  <figure><img src="/assets/blog/guide/bubble-gauge.jpg" alt="Santro AI bubble risk gauge — a single dial summarizing how stretched the AI market looks" loading="lazy" style="display:block;width:100%;border-radius:var(--radius);border:1px solid var(--border)"><figcaption>One dial for the question everyone asks: is all of this a bubble?</figcaption></figure>
+  <p>Is all of this a bubble? That's the question everyone asks, so we gave it <a href="/bubble">its own page</a>. The dial condenses signals about how expensive, how crowded, and how excited the AI market looks into one number, updated through the day, with the history below it.</p>
+  <p>It won't tell you the future — nothing will. What it does is give you a calm reference point on loud days. When every headline screams, the dial moving from 49 to 52 is useful perspective.</p>
 
-    <a class="post" href="/blog/ai-junk-bonds">
-      <div class="kick">Leveraged Finance · AI Build-Out</div>
-      <h2>AI's $32 Billion IOU: The Junk-Bond Table That Should Keep You Up At Night</h2>
-      <p class="ex">Our model squawked on a Morgan Stanley table ZeroHedge flagged: 12 AI data-center
-      junk-bond deals worth $32bn. We crack open every row — who's really on the hook, and how thin
-      some of these promises are.</p>
-      <div class="meta">Santro AI · June 2026</div>
-    </a>
-  </main>
+  <h2>5. Test a price yourself: the fair-value calculator</h2>
+  <figure><img src="/assets/blog/guide/fair-value.jpg" alt="Santro AI fair-value calculator showing scenario values for a stock under user-chosen assumptions" loading="lazy" style="display:block;width:100%;border-radius:var(--radius);border:1px solid var(--border)"><figcaption>Change the assumptions, watch the answer move — scenarios, not predictions.</figcaption></figure>
+  <p>The <a href="/tools/fair-value-calculator">calculator</a> answers a simple question: <em>what would this company need to achieve for today's price to make sense?</em> Pick any name from the map, and it shows what today's price already assumes — then lets you change the assumptions and watch the answer move.</p>
+  <p>You don't get "the right price." You get something better: a feel for how much optimism is already baked in. The numbers it produces are scenarios, not predictions — the site is careful about that distinction everywhere.</p>
 
-  <!-- mega-footer v1 -->
+  <h2>6. Follow the stories: IPO trackers and the library</h2>
+  <figure><img src="/assets/blog/guide/skhy-tracker.jpg" alt="SK hynix ADR tracker on the Santro AI terminal showing the listing price and live headlines" loading="lazy" style="display:block;width:100%;border-radius:var(--radius);border:1px solid var(--border)"><figcaption>When something big happens, the terminal grows a tracker for it.</figcaption></figure>
+  <p>When something big happens — like SK hynix, the company that makes the memory chips AI runs on, listing in the U.S. this week — the terminal grows a dedicated tracker: the price against its debut level, plus live headlines, in one card.</p>
+  <p>The same spirit runs through the <a href="/ipos">IPO watch pages</a> (who might go public, what's actually been filed versus merely rumored — always labeled which is which) and the <a href="/investor-signals">Investor Signal Library</a>, which maps publicly disclosed positions from well-known investors onto the same bubbles you've been reading.</p>
+
+  <h2>A five-minute routine, if you want one</h2>
+  <ol>
+    <li><strong>Terminal</strong> — thirty seconds on the map. Where's the color? Where's the size?</li>
+    <li><strong>One sector</strong> — click the loudest bubble. Which company inside is driving it?</li>
+    <li><strong>One company page</strong> — read the news behind the move. There usually is some.</li>
+    <li><strong>The dial</strong> — one glance. Is the market's mood drifting?</li>
+    <li>Done. You know more than most people scrolling headlines.</li>
+  </ol>
+  <p>Everything above is free while the site is in beta, and none of it needs an account. A <a href="/signup">free account</a> adds the personal layer: star companies to build a watchlist, get alerts, and take a short quiz that arranges the terminal around what you actually care about.</p>
+
+  <h2>Frequently asked</h2>
+  <h3 style="font-size:16px;margin:18px 0 4px">Is Santro AI free?</h3><p style="margin-top:0">Yes. Every tool described here is free while the site is in beta, and no account is needed to browse. A free account adds watchlists, alerts, and a personalized terminal.</p><h3 style="font-size:16px;margin:18px 0 4px">Are the prices live?</h3><p style="margin-top:0">Prices update automatically and run roughly 15 minutes behind the market — built for reading the day, not split-second trading.</p><h3 style="font-size:16px;margin:18px 0 4px">What does bubble size mean?</h3><p style="margin-top:0">Size reflects how much a company or sector is moving today — attention, not quality. Color shows direction: green up, red down.</p><h3 style="font-size:16px;margin:18px 0 4px">Does Santro AI tell me what to buy?</h3><p style="margin-top:0">No. It shows what's moving, why it might be moving, and what today's prices assume. Decisions stay yours; nothing on the site is financial advice.</p>
+
+  <p style="font-size:13px;color:var(--hint);border-top:1px solid var(--border);padding-top:16px;margin-top:26px">Santro AI shows delayed prices (about 15 minutes) and is built for learning and research. Nothing on the site or in this guide is financial advice — <strong>hot means attention, not direction.</strong></p>
+
+</article>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Is Santro AI free?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Every tool described here is free while the site is in beta, and no account is needed to browse. A free account adds watchlists, alerts, and a personalized terminal."}}, {"@type": "Question", "name": "Are the prices live?", "acceptedAnswer": {"@type": "Answer", "text": "Prices update automatically and run roughly 15 minutes behind the market — built for reading the day, not split-second trading."}}, {"@type": "Question", "name": "What does bubble size mean?", "acceptedAnswer": {"@type": "Answer", "text": "Size reflects how much a company or sector is moving today — attention, not quality. Color shows direction: green up, red down."}}, {"@type": "Question", "name": "Does Santro AI tell me what to buy?", "acceptedAnswer": {"@type": "Answer", "text": "No. It shows what's moving, why it might be moving, and what today's prices assume. Decisions stay yours; nothing on the site is financial advice."}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "HowTo", "name": "Read the AI market in five minutes", "step": [{"@type": "HowToStep", "name": "Scan the terminal map", "text": "Open santroai.tech/terminal and spend thirty seconds on the bubble map: where is the color, where is the size?"}, {"@type": "HowToStep", "name": "Open the loudest sector", "text": "Click the biggest, brightest sector bubble to see which company inside is driving it."}, {"@type": "HowToStep", "name": "Read one company page", "text": "Click the leading company and read the news behind the move."}, {"@type": "HowToStep", "name": "Glance at the bubble-risk dial", "text": "Check santroai.tech/bubble to see if the market's overall mood is drifting."}]}</script>
+
+<p class="sa-tickers"><b>Tickers mentioned:</b> <a href="/ipos/sk-hynix-adr">SKHY</a>, <a href="/t?sym=NVDA">NVDA</a>, <a href="/t?sym=MU">MU</a>, <a href="/e?sym=DRAM">DRAM</a>, <a href="/t?sym=WDC">WDC</a>, <a href="/t?sym=STX">STX</a>, <a href="/t?sym=SNDK">SNDK</a>, <a href="/e?sym=SMH">SMH</a></p>
+<section class="sa-grow">
+    <div>
+      <h3>RELATED READING</h3>
+      <ul>
+        <li><a href="/ipos/sk-hynix-adr">SK hynix US listing — the AI IPO watch profile</a></li>
+        <li><a href="/blog/ai-junk-bonds">AI's $32B IOU: the data-center junk-bond table</a></li>
+        <li><a href="/blog/spacex-attention-ai-infrastructure">SpaceX is the attention magnet — the real trade is AI infrastructure</a></li>
+      </ul>
+    </div>
+    <div>
+      <h3>SANTRO AI TOOLS</h3>
+      <ul>
+        <li><a href="/bubble">Check the AI bubble-risk index</a></li>
+        <li><a href="/etfs">Compare AI ETFs</a></li>
+        <li><a href="/crypto">AI crypto movers</a></li>
+        <li><a href="/stocks">AI stocks bubble map</a></li>
+        <li><a href="/share">Create a share card</a></li>
+      </ul>
+    </div>
+    <div class="sa-cta-box">
+      <b>Run the numbers yourself — free.</b>
+      <p>Create a free Santro AI account to run unlimited fair-value valuations, save a watchlist, and keep your valuation history. Five free runs even without an account; no card required.</p>
+      <a class="sa-cta-btn" href="/?auth=register">Create a free account &rarr;</a>
+    </div>
+  </section>
+
+<!-- mega-footer v1 -->
 <footer class="mega">
 <style>
 footer.mega{display:block;text-align:left;margin-top:48px;padding:0;border-top:1px solid var(--border,#1d2733);background:transparent;font-family:var(--font-sans, -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif);}
@@ -567,5 +705,8 @@ function t(){if(!mq.matches)return;var c=h.parentElement;c.classList.toggle("ope
 h.addEventListener("click",t);h.addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){e.preventDefault();t();}});});}
 arm();mq.addEventListener?mq.addEventListener("change",arm):mq.addListener(arm);})();</script>
 </footer>
+
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+
 </body>
 </html>

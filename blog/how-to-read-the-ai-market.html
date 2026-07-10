@@ -8,8 +8,8 @@
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-title" content="Santro AI" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-<title>How to Read the AI Market in Five Minutes a Day — a Beginner's Tour | Santro AI</title>
-<meta name="description" content="A plain-English tour of Santro AI: read the bubble map, check a sector, open a company page, and gauge market froth — free, in about five minutes a day.">
+<title>How to Read the AI Market — Santro AI</title>
+<meta name="description" content="A trader&#39;s guide to reading the AI market across AI stocks, ETFs, crypto, hot tickers, sector rotation, bubble risk, valuation pressure and AI infrastructure themes.">
 <link rel="canonical" href="https://santroai.tech/blog/how-to-read-the-ai-market">
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png">
@@ -17,16 +17,16 @@
 <link rel="manifest" href="/manifest.json" />
 <meta property="og:site_name" content="Santro AI" />
 <meta property="og:type" content="article">
-<meta property="og:title" content="How to Read the AI Market in Five Minutes a Day">
-<meta property="og:description" content="Color is direction, size is attention — the whole AI market on one screen, explained without jargon.">
+<meta property="og:title" content="How to Read the AI Market">
+<meta property="og:description" content="The AI trade is no longer one trade. Learn how to read heat, rotation, valuation pressure and bubble risk across AI stocks, ETFs and crypto.">
 <meta property="og:url" content="https://santroai.tech/blog/how-to-read-the-ai-market">
 <meta property="og:image" content="https://santroai.tech/assets/blog/how-to-read-the-ai-market.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://santroai.tech/assets/blog/how-to-read-the-ai-market.png">
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Article",
- "headline":"How to Read the AI Market in Five Minutes a Day",
- "description":"A plain-English tour of Santro AI: the bubble map, sector pages, company pages, the bubble-risk dial and the fair-value calculator. Free; not financial advice.",
+ "headline":"How to Read the AI Market Without Getting Lost in the Noise",
+ "description":"A trader's guide to the AI market: heat, sector rotation, bubble risk, valuation pressure, ETFs, crypto and the bottlenecks that decide leadership. Context, not signals.",
  "image":"https://santroai.tech/assets/blog/how-to-read-the-ai-market.png",
  "datePublished":"2026-07-10","dateModified":"2026-07-10",
  "author":{"@type":"Organization","name":"Santro AI","url":"https://santroai.tech"},
@@ -459,81 +459,161 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 <script src="/nav.js?v=7" defer></script>
 </header>
 
-<article class="wrap">
+<style>
+/* .art-* — reusable editorial components (ds_v2 vars, article-scoped) */
+.art-panel{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:16px 18px;margin:22px 0}
+.art-kick{font-family:var(--font-mono,monospace);font-size:10.5px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--hint);margin-bottom:12px}
+.art-hero-panel{display:grid;grid-template-columns:repeat(5,1fr);gap:10px}
+.art-hero-panel a{display:block;border:1px solid var(--border);border-radius:10px;padding:12px 12px;text-decoration:none;background:rgba(34,197,94,.04)}
+.art-hero-panel b{display:block;font-family:var(--font-mono,monospace);font-size:12.5px;color:var(--accent);margin-bottom:4px}
+.art-hero-panel span{font-size:11.5px;color:var(--hint);line-height:1.45;display:block}
+.art-layers{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:22px 0}
+.art-layers i{font-style:normal;font-family:var(--font-mono,monospace);font-size:12.5px;font-weight:700;color:var(--fg);border:1px solid var(--border-strong);background:var(--surface);border-radius:999px;padding:7px 13px}
+.art-layers em{font-style:normal;color:var(--accent);font-weight:700}
+.art-quote{border-left:3px solid var(--accent);margin:30px 0;padding:8px 0 8px 22px}
+.art-quote p{font-size:27px;line-height:1.25;font-weight:800;color:var(--fg);margin:0;letter-spacing:-.3px}
+.art-quote small{display:block;margin-top:8px;font-family:var(--font-mono,monospace);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--hint)}
+.art-rotmap{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:22px 0}
+.art-rotmap a{border:1px solid var(--border);border-radius:10px;padding:12px 13px;text-decoration:none;background:var(--surface)}
+.art-rotmap b{display:block;font-size:13.5px;color:var(--fg);margin-bottom:3px}
+.art-rotmap span{font-size:11.5px;color:var(--hint);line-height:1.45;display:block}
+.art-rotmap a:hover b{color:var(--accent)}
+.art-risk div{display:flex;justify-content:space-between;gap:14px;padding:8px 0;border-bottom:1px solid var(--border);font-size:13.5px}
+.art-risk div:last-of-type{border-bottom:0}
+.art-risk b{font-family:var(--font-mono,monospace);font-size:12.5px;color:var(--fg);white-space:nowrap}
+.art-risk span{color:var(--hint);text-align:right}
+.art-check ul{list-style:none;margin:8px 0 0;padding:0}
+.art-check li{padding:7px 0 7px 30px;position:relative;font-size:14.5px;color:var(--fg);border-bottom:1px solid var(--border)}
+.art-check li:last-child{border-bottom:0}
+.art-check li::before{content:"☐";position:absolute;left:4px;color:var(--accent);font-family:var(--font-mono,monospace)}
+.art-steps{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:22px 0}
+.art-steps a{display:flex;gap:12px;border:1px solid var(--border);border-radius:10px;padding:12px 13px;text-decoration:none;background:var(--surface)}
+.art-steps i{font-style:normal;font-family:var(--font-mono,monospace);font-weight:800;color:var(--accent);font-size:15px}
+.art-steps b{display:block;font-size:13.5px;color:var(--fg)}
+.art-steps span{font-size:12px;color:var(--hint);line-height:1.45;display:block;margin-top:2px}
+.art-cta{display:flex;gap:10px;flex-wrap:wrap;margin:26px 0 6px}
+.art-cta a{text-decoration:none;font-weight:700;font-size:14px;border-radius:10px;padding:11px 18px;border:1px solid var(--border-strong);color:var(--accent)}
+.art-cta a.pri{background:var(--accent);color:#04140b;border-color:var(--accent)}
+.art-cta a:not(.pri):hover{border-color:var(--accent)}
+@media(max-width:760px){.art-hero-panel{grid-template-columns:repeat(2,1fr)}.art-rotmap{grid-template-columns:repeat(2,1fr)}.art-steps{grid-template-columns:1fr}.art-quote p{font-size:22px}}
+@media(max-width:430px){.art-hero-panel{grid-template-columns:1fr 1fr}.art-rotmap{grid-template-columns:1fr}}
+</style><article class="wrap">
 
-  <p class="kicker">Guides &middot; Getting Started</p>
-  <nav class="sa-crumb" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/blog">Blog</a> › How to read the AI market …</nav>
-  <h1>How to Read the AI Market in Five Minutes a Day</h1>
-  <p class="lede">The AI market moves fast and speaks in jargon. Santro AI turns it into one screen you can actually read. Here's the whole site, explained the way we'd explain it to a friend.</p>
+  <p class="kicker">Guides &middot; Reading the Market</p>
+  <nav class="sa-crumb" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/blog">Blog</a> › How to read the AI market</nav>
+  <h1>How to read the AI market</h1>
+  <p class="lede">The AI trade is no longer one trade. It moves through chips, power, data centers, software, ETFs, crypto, IPOs and liquidity. Santro turns that messy tape into a readable market map.</p>
   <p class="byline">
     <span>By <strong>Santro AI</strong></span><span>&middot;</span><span>July 2026</span><span>&middot;</span>
     <span><a href="/terminal">Open the terminal ↗</a></span>
   </p>
 
-  <figure>
-    <img src="/assets/blog/how-to-read-the-ai-market.png" alt="Santro AI guide: how to read the AI market in five minutes a day — color is direction, size is attention" style="display:block;width:100%;border-radius:var(--radius);border:1px solid var(--border)">
-    <figcaption>The whole trick on one card: color is direction, size is attention.</figcaption>
-  </figure>
+  <div class="art-panel">
+    <div class="art-kick">One screen, five reads</div>
+    <div class="art-hero-panel">
+      <a href="/terminal"><b>AI Universe</b><span>100 names, 8 sectors, one living map</span></a>
+      <a href="/terminal"><b>Hot tickers</b><span>attention, ranked through the day</span></a>
+      <a href="/bubble"><b>Bubble risk</b><span>pressure in the system, one dial</span></a>
+      <a href="/stocks"><b>Sector heat</b><span>which layer of the trade leads</span></a>
+      <a href="/signup"><b>Watchlist</b><span>your names, with alerts — free</span></a>
+    </div>
+  </div>
 
-  <p>Most market websites assume you already speak the language. Charts everywhere, abbreviations nobody defines, and twelve tabs before you learn a single useful thing.</p>
-  <p>Santro AI was built the other way around. Everything starts from one picture, and every click after it answers a question you'd actually ask. This is the full tour — what each screen shows, what to look for, and what to ignore.</p>
+  <h2>1. The AI market is not one chart</h2>
+  <p>Most people read the AI market by watching one stock. If Nvidia is up, AI is "working." If it's down, the bubble is "bursting."</p>
+  <p>That read stopped being useful a long time ago. The AI market now spans a hundred names across eight sectors on Santro's map alone — chipmakers, the utilities powering data centers, memory suppliers, cloud platforms, software, and a ring of ETFs and crypto around all of it. On plenty of days, chunks of the map move against each other.</p>
+  <p>One chart can't carry that. A map can.</p>
 
-  <h2>1. Start at the terminal: the whole AI market as bubbles</h2>
-  <figure><img src="/assets/blog/guide/terminal-map.jpg" alt="Santro AI terminal bubble map — the AI market shown as floating bubbles, one per sector, green for up and red for down" loading="lazy" style="display:block;width:100%;border-radius:var(--radius);border:1px solid var(--border)"><figcaption>The terminal: every bubble is a group of AI companies, drifting live.</figcaption></figure>
-  <p>Open the <a href="/terminal">terminal</a>. The floating bubbles are the heart of the site — each one is a group of AI companies: chipmakers, cloud platforms, the energy companies powering data centers, and so on.</p>
-  <p>Two rules and you can read the whole thing:</p>
-  <ul>
-    <li><strong>Color is direction.</strong> Green means the group is up today; red means it's down. The deeper the color, the bigger the move.</li>
-    <li><strong>Size is attention.</strong> Bigger bubbles are moving more today. A big bubble isn't "good" — it's <em>loud</em>. Something is happening there.</li>
-  </ul>
-  <p>That's it. In ten seconds you know where today's action is. If the whole screen leans red except one green corner, you've just read the market's mood — no headlines required.</p>
-  <p>One honest note you'll see repeated across the site: <strong>hot means attention, not direction.</strong> A bubble being big and bright tells you people care. It doesn't tell you whether they're right.</p>
+  <h2>2. Start with heat, not opinion</h2>
+  <p>Every session, some corner of the AI market gets loud — a big day move, unusual volume, a crowded headline. Santro's <a href="/terminal">AI trade terminal</a> renders that as heat: every bubble is a sector or a stock, sized by the day's move, colored by direction.</p>
+  <p>Heat is the honest starting point because it's a fact, not a take. Something is moving and attracting attention. What it means comes second.</p>
+  <div class="art-quote"><p>Hot means attention, not direction.</p><small>The Santro rule</small></div>
+  <p>Obvious, and routinely ignored. The <a href="/terminal">hot tickers feed</a> ranks names by attention — day move, volume against average, narrative momentum. None of that says <em>up from here</em>. It says <em>look here</em>.</p>
 
-  <h2>2. Click a sector: meet the companies inside</h2>
-  <figure><img src="/assets/blog/guide/sector-page.jpg" alt="A Santro AI sector page showing individual company bubbles with logos and daily moves, plus a detail panel" loading="lazy" style="display:block;width:100%;border-radius:var(--radius);border:1px solid var(--border)"><figcaption>A sector page: same living map, now one bubble per company — click any of them.</figcaption></figure>
-  <p>Click any sector bubble and you land on its own page — same living map, but now every bubble is a single company, with its logo, its ticker (the short code it trades under), and today's move.</p>
-  <p>Click a company bubble and the panel below fills in the basics: today's price, how much it moved, how big the company is, and what industry it's in. The table further down lists every company in the group, and each name is a link.</p>
-  <p>Try it with the <a href="/stocks/themes/powering-ai">"Powering AI" sector</a> — the power plants, turbine makers, and uranium miners that keep AI data centers running. Most people have never heard of half these companies. That's rather the point.</p>
+  <h2>3. Separate the layers of the AI trade</h2>
+  <p>Stop treating "AI" as one sector. It's a stack, and money moves through it in stages.</p>
+  <div class="art-layers"><i>Chips</i><em>→</em><i>Power</i><em>→</em><i>Data centers</i><em>→</em><i>Cloud &amp; software</i><em>→</em><i>ETFs</i><em>→</em><i>Crypto</i><em>→</em><i>IPOs</i></div>
+  <p>Compute sits at the bottom — GPUs, memory, the fabs and equipment behind them. Power feeds it: utilities, turbines, nuclear, the grid. Data centers turn electricity and silicon into capacity.</p>
+  <p>Then comes the paper. Cloud and software sell that capacity as products. ETFs package the whole story for money that wants exposure without stock-picking. Crypto trades the narrative around the clock. IPOs are how new names enter the tape.</p>
+  <p>Each layer has its own economics, its own cycle, and its own way of disappointing. Reading them separately is the difference between a map and a mood.</p>
 
-  <h2>3. Open a company page: one name, everything on it</h2>
-  <figure><img src="/assets/blog/guide/ticker-page.jpg" alt="A Santro AI company page for NVIDIA showing price, day move, news, and context" loading="lazy" style="display:block;width:100%;border-radius:var(--radius);border:1px solid var(--border)"><figcaption>A company page gathers what you'd otherwise open six tabs for.</figcaption></figure>
-  <p>Every company has its own page — reachable from any bubble, any table, or the search box in the top bar. It gathers the things you'd otherwise open six tabs for: the current price, recent news with sources, how the company fits into the AI story, and links to its sector.</p>
-  <p>The prices across the site update automatically and run about fifteen minutes behind the live market. For reading the day, that's plenty. For split-second trading, this isn't the tool — on purpose.</p>
+  <h2>4. Watch sector rotation</h2>
+  <p>On the terminal's map, watch which sector bubble leads over days, not hours. One pattern has repeated often: money runs the chip trade until valuation pressure builds, then tends to find the same story cheaper one layer over — power producers signing data-center deals, then the data centers themselves, then the software that monetizes the capacity, and eventually the speculative fringe.</p>
+  <p>Rotation is not a malfunction; it's how a large trade digests itself. When <a href="/stocks/themes/ai-chips-and-compute">semiconductors</a> stall while <a href="/stocks/themes/powering-ai">Powering AI</a> runs, that isn't necessarily the AI trade dying — it may be the AI trade moving. The <a href="/stocks">sector pages</a> exist so you can check each layer's tape in one click.</p>
+  <div class="art-rotmap">
+    <a href="/stocks/themes/ai-chips-and-compute"><b>Semiconductors</b><span>GPUs, memory, the accelerator complex</span></a>
+    <a href="/stocks/themes/powering-ai"><b>Powering AI</b><span>nuclear, turbines, uranium &amp; the grid</span></a>
+    <a href="/stocks/themes/data-center-power-and-energy"><b>Data centers</b><span>the electrons and buildings behind compute</span></a>
+    <a href="/stocks/themes/ai-software-and-cloud-infrastructure"><b>Software &amp; cloud</b><span>where capacity becomes product</span></a>
+    <a href="/etfs"><b>AI ETFs</b><span>the packaged version of the trade</span></a>
+    <a href="/crypto"><b>AI crypto</b><span>the 24/7 attention tape</span></a>
+  </div>
 
-  <h2>4. Check the mood: the bubble-risk dial</h2>
-  <figure><img src="/assets/blog/guide/bubble-gauge.jpg" alt="Santro AI bubble risk gauge — a single dial summarizing how stretched the AI market looks" loading="lazy" style="display:block;width:100%;border-radius:var(--radius);border:1px solid var(--border)"><figcaption>One dial for the question everyone asks: is all of this a bubble?</figcaption></figure>
-  <p>Is all of this a bubble? That's the question everyone asks, so we gave it <a href="/bubble">its own page</a>. The dial condenses signals about how expensive, how crowded, and how excited the AI market looks into one number, updated through the day, with the history below it.</p>
-  <p>It won't tell you the future — nothing will. What it does is give you a calm reference point on loud days. When every headline screams, the dial moving from 49 to 52 is useful perspective.</p>
+  <h2>5. Read bubble risk as pressure</h2>
+  <p>"Is this a bubble?" is the wrong question for a Tuesday. The useful question is: how much pressure is in the system right now?</p>
+  <div class="art-panel art-risk">
+    <div class="art-kick">What a crowding gauge condenses</div>
+    <div><b>Valuation pressure</b><span>how expensive the trade is versus its own history</span></div>
+    <div><b>Crowding</b><span>how much money sits in the same names</span></div>
+    <div><b>Momentum</b><span>how fast and one-sided the run has been</span></div>
+    <div><b>Breadth</b><span>whether the move is broad or carried by a few names</span></div>
+    <div><b>Sentiment</b><span>how loud the narrative has become</span></div>
+  </div>
+  <p>The <a href="/bubble">bubble-risk dial</a> condenses signals of that kind into one number with history. (The underlying index comes from AI Bubble Monitor; Santro mirrors it with attribution.) High readings don't schedule a crash — markets can run hot for quarters. Low readings don't promise safety. What the dial gives you is a calm reference point: when the number drifts higher for weeks while breadth narrows, the trade is more crowded than it was — and crowded trades exit through narrow doors.</p>
+  <p><strong>Pressure, not prophecy.</strong></p>
 
-  <h2>5. Test a price yourself: the fair-value calculator</h2>
-  <figure><img src="/assets/blog/guide/fair-value.jpg" alt="Santro AI fair-value calculator showing scenario values for a stock under user-chosen assumptions" loading="lazy" style="display:block;width:100%;border-radius:var(--radius);border:1px solid var(--border)"><figcaption>Change the assumptions, watch the answer move — scenarios, not predictions.</figcaption></figure>
-  <p>The <a href="/tools/fair-value-calculator">calculator</a> answers a simple question: <em>what would this company need to achieve for today's price to make sense?</em> Pick any name from the map, and it shows what today's price already assumes — then lets you change the assumptions and watch the answer move.</p>
-  <p>You don't get "the right price." You get something better: a feel for how much optimism is already baked in. The numbers it produces are scenarios, not predictions — the site is careful about that distinction everywhere.</p>
+  <h2>6. Use ETFs to see what Wall Street is packaging</h2>
+  <p>The <a href="/etfs">AI ETF shelf</a> is a market read of its own. Every thematic fund is a bet that someone will pay for packaged exposure — and the packaging tells you which story is being sold: broad tech, pure-play robotics, memory, AI infrastructure.</p>
+  <p>Two practical uses. Overlap: many "different" AI ETFs hold the same five names, so a basket can be less diversified than it looks — Santro's ETF pages show holdings so you can check. Access: funds also hold what's hard to buy directly, which is why baskets sometimes move before their theme becomes obvious in single names.</p>
 
-  <h2>6. Follow the stories: IPO trackers and the library</h2>
-  <figure><img src="/assets/blog/guide/skhy-tracker.jpg" alt="SK hynix ADR tracker on the Santro AI terminal showing the listing price and live headlines" loading="lazy" style="display:block;width:100%;border-radius:var(--radius);border:1px solid var(--border)"><figcaption>When something big happens, the terminal grows a tracker for it.</figcaption></figure>
-  <p>When something big happens — like SK hynix, the company that makes the memory chips AI runs on, listing in the U.S. this week — the terminal grows a dedicated tracker: the price against its debut level, plus live headlines, in one card.</p>
-  <p>The same spirit runs through the <a href="/ipos">IPO watch pages</a> (who might go public, what's actually been filed versus merely rumored — always labeled which is which) and the <a href="/investor-signals">Investor Signal Library</a>, which maps publicly disclosed positions from well-known investors onto the same bubbles you've been reading.</p>
+  <h2>7. Use AI crypto differently</h2>
+  <p><a href="/crypto">AI crypto</a> is not equity exposure and shouldn't be read as if it were. Its use is different: it trades around the clock. When something hits the AI narrative on a Saturday, tokens reprice while stock futures sleep.</p>
+  <p>That makes the crypto tape a speculative-attention gauge — often the fastest one. Treat it as a sentiment thermometer with the volume turned up, not as a cleaner way to own the theme.</p>
 
-  <h2>A five-minute routine, if you want one</h2>
-  <ol>
-    <li><strong>Terminal</strong> — thirty seconds on the map. Where's the color? Where's the size?</li>
-    <li><strong>One sector</strong> — click the loudest bubble. Which company inside is driving it?</li>
-    <li><strong>One company page</strong> — read the news behind the move. There usually is some.</li>
-    <li><strong>The dial</strong> — one glance. Is the market's mood drifting?</li>
-    <li>Done. You know more than most people scrolling headlines.</li>
-  </ol>
-  <p>Everything above is free while the site is in beta, and none of it needs an account. A <a href="/signup">free account</a> adds the personal layer: star companies to build a watchlist, get alerts, and take a short quiz that arranges the terminal around what you actually care about.</p>
+  <h2>8. Look for bottlenecks</h2>
+  <p>Every layer of the stack has a constraint, and constraints are where pricing power lives: power generation and grid interconnects, high-bandwidth memory, advanced packaging, cooling, GPU supply itself. When a bottleneck tightens, the names that own it often re-rate — memory-supply squeezes are the textbook example.</p>
+  <p>Bottlenecks migrate. Chips were the headline constraint; increasingly, the conversation has shifted to power demand. Watching where the constraint sits — and which <a href="/stocks">sector</a> owns it — can offer clues about where the next leadership rotation might come from.</p>
+
+  <h2>9. Turn a hot ticker into a research question</h2>
+  <p>Heat tells you where to look. These five questions tell you what you're looking at:</p>
+  <div class="art-panel art-check">
+    <div class="art-kick">The five-question read</div>
+    <ul>
+      <li>What moved — the stock, its sector, or the whole tape?</li>
+      <li>Why now — news, earnings, a filing, or nothing you can find?</li>
+      <li>Is it isolated or sector-wide?</li>
+      <li>Is the driver valuation, flows, or narrative?</li>
+      <li>What else is exposed to the same driver?</li>
+    </ul>
+  </div>
+  <p>Five minutes of this beats an hour of scrolling takes. A <a href="/share">share card</a> of the setup also travels better than a screenshot of somebody's opinion.</p>
+
+  <h2>10. The Santro workflow</h2>
+  <div class="art-steps">
+    <a href="/terminal"><i>1</i><div><b>Open the terminal</b><span>read the sector heat</span></div></a>
+    <a href="/stocks"><i>2</i><div><b>Scan the AI universe</b><span>who leads, who lags</span></div></a>
+    <a href="/stocks"><i>3</i><div><b>Drill into the loudest sector</b><span>find the driver</span></div></a>
+    <a href="/terminal"><i>4</i><div><b>Check hot tickers</b><span>attention, ranked</span></div></a>
+    <a href="/bubble"><i>5</i><div><b>Glance at bubble risk</b><span>pressure in the system</span></div></a>
+    <a href="/tools/fair-value-calculator"><i>6</i><div><b>Pressure-test a name</b><span>fair value scenarios; <u>stress test</u> a book at /bubble#stress</span></div></a>
+    <a href="/signup"><i>7</i><div><b>Save a watchlist</b><span>free account, alerts included</span></div></a>
+    <a href="/share"><i>8</i><div><b>Share or monitor</b><span>cards, research feed, investor signals</span></div></a>
+  </div>
+  <p>Steps six and eight fan out: run a <a href="/bubble#stress">portfolio stress test</a> against six bad-weather scenarios, browse the <a href="/research">research feed</a>, or check <a href="/investor-signals">investor signals</a> to see how publicly disclosed positions map onto the same bubbles.</p>
+
+  <div class="art-cta">
+    <a class="pri" href="/terminal">Open the terminal</a>
+    <a href="/stocks">View AI stocks</a>
+    <a href="/bubble">Check bubble risk</a>
+  </div>
+
+  <p style="font-size:13px;color:var(--hint);border-top:1px solid var(--border);padding-top:16px;margin-top:26px">Santro AI shows delayed quotes (~15 min) and provides market context, not buy or sell signals. <strong>Hot means attention, not direction.</strong> Not financial advice.</p>
 
   <h2>Frequently asked</h2>
-  <h3 style="font-size:16px;margin:18px 0 4px">Is Santro AI free?</h3><p style="margin-top:0">Yes. Every tool described here is free while the site is in beta, and no account is needed to browse. A free account adds watchlists, alerts, and a personalized terminal.</p><h3 style="font-size:16px;margin:18px 0 4px">Are the prices live?</h3><p style="margin-top:0">Prices update automatically and run roughly 15 minutes behind the market — built for reading the day, not split-second trading.</p><h3 style="font-size:16px;margin:18px 0 4px">What does bubble size mean?</h3><p style="margin-top:0">Size reflects how much a company or sector is moving today — attention, not quality. Color shows direction: green up, red down.</p><h3 style="font-size:16px;margin:18px 0 4px">Does Santro AI tell me what to buy?</h3><p style="margin-top:0">No. It shows what's moving, why it might be moving, and what today's prices assume. Decisions stay yours; nothing on the site is financial advice.</p>
-
-  <p style="font-size:13px;color:var(--hint);border-top:1px solid var(--border);padding-top:16px;margin-top:26px">Santro AI shows delayed prices (about 15 minutes) and is built for learning and research. Nothing on the site or in this guide is financial advice — <strong>hot means attention, not direction.</strong></p>
-
+<h3 style="font-size:16px;margin:18px 0 4px">What does "hot" mean on Santro?</h3><p style="margin-top:0">Attention — a large day move, unusual volume, or narrative momentum. It is a reason to look, not a direction call.</p><h3 style="font-size:16px;margin:18px 0 4px">Is the AI market the same as AI stocks?</h3><p style="margin-top:0">No. The AI trade spans semiconductors, power, data centers, software, ETFs, crypto and IPOs — each layer trades on its own cycle.</p><h3 style="font-size:16px;margin:18px 0 4px">Does a high bubble-risk reading mean a crash is coming?</h3><p style="margin-top:0">No. The dial measures pressure — valuation, crowding, momentum — not timing. Markets can run hot for long stretches.</p><h3 style="font-size:16px;margin:18px 0 4px">Is Santro AI free?</h3><p style="margin-top:0">Yes — the terminal, sector maps, bubble-risk dial and calculators are free in beta. A free account adds watchlists and alerts.</p>
 </article>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Is Santro AI free?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Every tool described here is free while the site is in beta, and no account is needed to browse. A free account adds watchlists, alerts, and a personalized terminal."}}, {"@type": "Question", "name": "Are the prices live?", "acceptedAnswer": {"@type": "Answer", "text": "Prices update automatically and run roughly 15 minutes behind the market — built for reading the day, not split-second trading."}}, {"@type": "Question", "name": "What does bubble size mean?", "acceptedAnswer": {"@type": "Answer", "text": "Size reflects how much a company or sector is moving today — attention, not quality. Color shows direction: green up, red down."}}, {"@type": "Question", "name": "Does Santro AI tell me what to buy?", "acceptedAnswer": {"@type": "Answer", "text": "No. It shows what's moving, why it might be moving, and what today's prices assume. Decisions stay yours; nothing on the site is financial advice."}}]}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "HowTo", "name": "Read the AI market in five minutes", "step": [{"@type": "HowToStep", "name": "Scan the terminal map", "text": "Open santroai.tech/terminal and spend thirty seconds on the bubble map: where is the color, where is the size?"}, {"@type": "HowToStep", "name": "Open the loudest sector", "text": "Click the biggest, brightest sector bubble to see which company inside is driving it."}, {"@type": "HowToStep", "name": "Read one company page", "text": "Click the leading company and read the news behind the move."}, {"@type": "HowToStep", "name": "Glance at the bubble-risk dial", "text": "Check santroai.tech/bubble to see if the market's overall mood is drifting."}]}</script>
-
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What does \"hot\" mean on Santro?", "acceptedAnswer": {"@type": "Answer", "text": "Attention — a large day move, unusual volume, or narrative momentum. It is a reason to look, not a direction call."}}, {"@type": "Question", "name": "Is the AI market the same as AI stocks?", "acceptedAnswer": {"@type": "Answer", "text": "No. The AI trade spans semiconductors, power, data centers, software, ETFs, crypto and IPOs — each layer trades on its own cycle."}}, {"@type": "Question", "name": "Does a high bubble-risk reading mean a crash is coming?", "acceptedAnswer": {"@type": "Answer", "text": "No. The dial measures pressure — valuation, crowding, momentum — not timing. Markets can run hot for long stretches."}}, {"@type": "Question", "name": "Is Santro AI free?", "acceptedAnswer": {"@type": "Answer", "text": "Yes — the terminal, sector maps, bubble-risk dial and calculators are free in beta. A free account adds watchlists and alerts."}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "HowTo", "name": "Read the AI market with Santro", "step": [{"@type": "HowToStep", "name": "Open the terminal", "text": "Read the sector heat on the AI trade terminal.", "url": "https://santroai.tech/terminal"}, {"@type": "HowToStep", "name": "Scan the AI universe", "text": "See which AI stocks lead and which lag.", "url": "https://santroai.tech/stocks"}, {"@type": "HowToStep", "name": "Drill into the loudest sector", "text": "Find the name driving the sector's move.", "url": "https://santroai.tech/stocks"}, {"@type": "HowToStep", "name": "Check hot tickers", "text": "Attention, ranked — day move, volume, narrative.", "url": "https://santroai.tech/terminal"}, {"@type": "HowToStep", "name": "Glance at bubble risk", "text": "How much pressure is in the system.", "url": "https://santroai.tech/bubble"}, {"@type": "HowToStep", "name": "Pressure-test", "text": "Fair value for one name; stress test for a portfolio.", "url": "https://santroai.tech/tools/fair-value-calculator"}, {"@type": "HowToStep", "name": "Save a watchlist", "text": "Free account; alerts included.", "url": "https://santroai.tech/signup"}, {"@type": "HowToStep", "name": "Share or monitor", "text": "Share cards, research feed, investor signals.", "url": "https://santroai.tech/share"}]}</script>
 <p class="sa-tickers"><b>Tickers mentioned:</b> <a href="/ipos/sk-hynix-adr">SKHY</a>, <a href="/t?sym=NVDA">NVDA</a>, <a href="/t?sym=MU">MU</a>, <a href="/e?sym=DRAM">DRAM</a>, <a href="/t?sym=WDC">WDC</a>, <a href="/t?sym=STX">STX</a>, <a href="/t?sym=SNDK">SNDK</a>, <a href="/e?sym=SMH">SMH</a></p>
 <section class="sa-grow">
     <div>

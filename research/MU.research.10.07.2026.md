@@ -37,9 +37,9 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Headline | Source | Date |
 |---|---|---|
 | AI cash flow is booming for chipmakers & plummeting for Big Tech: Charts of the Day | Yahoo Finance Video | 2026-07-10 |
+| It’s SK Hynix Stock’s Big Day. Just Look at Micron Shares. | Barrons.com | 2026-07-10 |
+| SK Hynix, Micron, Meta, Delta, Circle Internet, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-10 |
 | Dow Jones Futures: Big Earnings Due As Market Sets Up; Nvidia, Micron, Sandisk, Robinhood, SpaceX In Focus | Investor's Business Daily | 2026-07-10 |
-| Micron Jumps as Chip Sentiment Improves | GuruFocus.com | 2026-07-10 |
-| Wall Street gets small boost from SK hynix debut | AFP | 2026-07-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

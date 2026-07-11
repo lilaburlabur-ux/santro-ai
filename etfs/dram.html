@@ -1,75 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-<meta name="theme-color" content="#0a0e13" />
-<meta name="mobile-web-app-capable" content="yes" />
-<meta name="apple-mobile-web-app-capable" content="yes" />
-<meta name="apple-mobile-web-app-title" content="Santro AI" />
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-<meta name="robots" content="noindex,follow" />
-<title>AI ETF | Santro AI</title>
-<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
-<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png" />
-<link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png" />
-<link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
-<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
-<link rel="manifest" href="/manifest.json" />
-<meta name="description" content="AI ETF page on Santro AI: what's actually inside the fund, AUM, expense ratio, how concentrated it is, and the trade-offs to know. Figures point-in-time. Not financial advice." />
-<script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
-<link rel="stylesheet" href="site.css?v=14" />
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>DRAM ETF — Roundhill Memory ETF: holdings, fee &amp; AI exposure | Santro AI</title>
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"/>
+<link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png"/>
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"/>
+<meta name="description" content="DRAM (Roundhill Memory ETF): semiconductors / ai chips AI ETF. Expense ratio 0.65%, AUM ~$23B, 21 holdings (SK Hynix, Samsung, Micron, SanDisk, WDC — pure memory (DRAM/NAND/HBM)). What it is, its AI relevance and the risks — delayed data, not advice."/>
+<link rel="canonical" href="https://santroai.tech/etfs/dram"/>
+<meta property="og:type" content="website"/><meta property="og:site_name" content="Santro AI"/>
+<meta property="og:title" content="DRAM — Roundhill Memory ETF"/>
+<meta property="og:description" content="Semiconductors / AI chips AI ETF · fee 0.65% · AUM ~$23B"/>
+<meta property="og:url" content="https://santroai.tech/etfs/dram"/>
+<meta property="og:image" content="https://santroai.tech/assets/og-map.png"/>
+<meta name="twitter:card" content="summary_large_image"/><meta name="twitter:image" content="https://santroai.tech/assets/og-map.png"/>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+ {"@type":"ListItem","position":1,"name":"Home","item":"https://santroai.tech/"},
+ {"@type":"ListItem","position":2,"name":"AI ETFs","item":"https://santroai.tech/etfs"},
+ {"@type":"ListItem","position":3,"name":"DRAM","item":"https://santroai.tech/etfs/dram"}]}
+</script>
+<link rel="stylesheet" href="/site.css?v=14"/>
 <style>
-  .tp-head{display:flex; align-items:center; gap:16px; flex-wrap:wrap; padding:6px 0 14px;}
-  .tp-head img{width:54px; height:54px; border-radius:12px; background:var(--elev);}
-  .tp-title h1{margin:0; font-size:26px; letter-spacing:.3px;}
-  .tp-title .sub{color:var(--text); font-size:14px; margin-top:4px; font-weight:600; max-width:620px;}
-  .tp-badges{display:flex; gap:7px; flex-wrap:wrap; margin-top:8px;}
-  .bk{font-size:10px; font-weight:800; text-transform:uppercase; letter-spacing:.5px; padding:4px 10px; border-radius:999px;
-    background:var(--elev); border:1px solid var(--border); color:var(--accent-2);}
-  .rb{font-size:10px; font-weight:800; text-transform:uppercase; letter-spacing:.5px; padding:4px 10px; border-radius:999px;}
-  .rb.trap{background:rgba(240,90,110,.16); color:#f05a6e;}
-  .rb.lev{background:rgba(224,167,63,.16); color:#e0a73f;}
-  .rb.income{background:rgba(74,222,128,.16); color:#4ade80;}
-  .rb.spec{background:rgba(224,167,63,.18); color:#e0a73f;}
-  .rb.closed{background:var(--elev); color:var(--faint);}
-  .rb.spv{background:rgba(34,197,94,.14); color:#22c55e;}
-  .sec-label{margin:22px 0 8px; font-size:10px; letter-spacing:.7px; text-transform:uppercase; color:var(--faint); font-weight:700;}
-  .inside-txt{font-size:15px; color:var(--text); line-height:1.6; max-width:760px;}
-  .callout{border:1px solid var(--border); border-left:3px solid var(--accent); background:var(--panel);
-    border-radius:12px; padding:14px 16px; max-width:820px; margin-top:6px;}
-  .callout .ct{font-size:10px; text-transform:uppercase; letter-spacing:.6px; font-weight:800; margin-bottom:6px; color:var(--accent-2);}
-  .callout .cx{font-size:14px; color:var(--text); line-height:1.62;}
-  .callout.trap{border-left-color:#f05a6e;} .callout.trap .ct{color:#f05a6e;}
-  .callout.lev{border-left-color:#e0a73f;} .callout.lev .ct{color:#e0a73f;}
-  .callout.income{border-left-color:#4ade80;} .callout.income .ct{color:#4ade80;}
-  .callout.spec{border-left-color:#e0a73f;} .callout.spec .ct{color:#e0a73f;}
-  .sibs{display:flex; flex-wrap:wrap; gap:7px; max-width:820px;}
-  .sibs a{font-size:12.5px; font-weight:700; text-decoration:none; padding:6px 11px; border-radius:8px;
-    background:var(--panel-2); border:1px solid var(--border-soft); color:var(--text);}
-  .sibs a:hover{border-color:var(--accent-border); color:var(--accent-2);}
-  .sibs a b{color:var(--accent-2);}
-  .htbl{width:100%; border-collapse:collapse; max-width:580px; margin-top:2px;}
-  .htbl td{padding:7px 8px; border-bottom:1px solid var(--border-soft); font-size:13px; vertical-align:middle;}
-  .htbl tr:last-child td{border-bottom:0;}
-  .htbl .hn{color:var(--faint); width:20px; text-align:right; font-variant-numeric:tabular-nums;}
-  .htbl .hnm{color:var(--text); font-weight:600; padding-right:10px;}
-  .htbl .hbar{width:38%;}
-  .htbl .hbar span{display:block; height:7px; border-radius:99px; min-width:3px;
-    background:linear-gradient(90deg,var(--accent),var(--accent-2));}
-  .htbl .hw{color:var(--muted); text-align:right; font-variant-numeric:tabular-nums; width:52px; font-weight:700;}
-  .hmeta{color:var(--faint); font-weight:400; text-transform:none; letter-spacing:0; font-size:11px; margin-left:4px;}
-  .hextra{font-size:12.5px; color:var(--accent-2); margin:9px 0 0; max-width:580px; line-height:1.5;}
-  .hsrc{display:inline-block; margin-top:9px; font-size:12px; font-weight:700; color:var(--accent-2); text-decoration:none;}
-  .hsrc:hover{text-decoration:underline;}
-  #tvchart{margin-bottom:6px; border:1px solid var(--border); border-radius:12px; overflow:hidden;}
-  #tvchart iframe{display:block; width:100%!important;}
-  .notfound{padding:60px 0; color:var(--muted);}
-  .backlinks{margin-top:20px; font-size:13.5px;}
-  .backlinks a{color:var(--accent-2); text-decoration:none;}
+  .etfp{max-width:1240px;margin:0 auto;padding:6px 20px 50px;}
+  .etfp .crumb{font-size:13px;color:var(--faint,#6b7684);margin:14px 0 4px;} .etfp .crumb a{color:var(--muted,#9aa6b2);text-decoration:none;}
+  .etfp h1{font-size:28px;margin:10px 0 4px;} .etfp .sub{color:var(--muted,#9aa6b2);font-size:15px;margin:0 0 18px;}
+  .etfp h2{font-size:19px;margin:28px 0 8px;} .etfp p,.etfp li{color:var(--muted,#9aa6b2);font-size:15.5px;line-height:1.65;}
+  .etfp b{color:var(--text,#e6edf3);} .etfp a{color:var(--accent,#22c55e);}
+  .kv{width:100%;border-collapse:collapse;margin:8px 0 4px;} .kv td{padding:8px 10px;border-bottom:1px solid var(--border-soft,#1c2230);font-size:14.5px;color:var(--muted);} .kv td:first-child{color:var(--faint,#6b7684);width:38%;}
+  .rbx{display:inline-block;font-size:11px;font-weight:700;padding:2px 7px;border-radius:5px;background:rgba(240,90,110,.14);color:#f0596e;margin-left:6px;}
+  .relx a{display:inline-block;margin:0 8px 6px 0;padding:5px 11px;border:1px solid var(--border-soft,#1c2230);border-radius:7px;font-size:13.5px;text-decoration:none;}
+  .ctaE{margin-top:22px;padding:18px 20px;border:1px solid rgba(34,197,94,.28);border-radius:12px;background:rgba(34,197,94,.06);}
+  .ctaE a{display:inline-block;background:var(--accent,#22c55e);color:#fff;padding:9px 16px;border-radius:8px;font-weight:600;text-decoration:none;font-size:14px;margin-top:8px;}
+  .nfax{color:var(--faint,#6b7684);font-size:13px;margin-top:18px;}
 </style>
-</head>
-<body>
+</head><body>
   <!-- meganav v9 — generated by gen_nav.py; edit NAV there, not here -->
 <link rel="stylesheet" href="/ds-v2/tokens.css?v=3">
 <link rel="stylesheet" href="/ds-v2/primitives.css?v=1">
@@ -382,9 +345,46 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 </div>
 <script src="/nav.js?v=9" defer></script>
 </header>
+  <main class="etfp">
+    <nav class="crumb" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/etfs">AI ETFs</a> › DRAM</nav>
+    <h1>DRAM — Roundhill Memory ETF</h1>
+    <p class="sub">Semiconductors / AI chips · The picks-and-shovels of the AI build-out.</p>
 
-  <main id="tp">Loading…</main>
+    <p>The first pure memory-chip ETF — DRAM, NAND and the HBM stacks that feed AI training. It rocketed past $20B in weeks (the fastest-growing launch on record), which tells you how crowded the memory trade has become. One clean ticker for the SK Hynix / Samsung / Micron supercycle — but three names are ~70% of it, it runs on total-return swaps, and memory is a brutally cyclical, boom-and-bust business. A theme bet, not a diversified core. Semiconductors are the picks-and-shovels of the AI build-out: an infrastructure-level AI bet rather than a pure software one.</p>
 
+    <h2>Key facts</h2>
+    <table class="kv">
+      <tr><td>Ticker</td><td><b>DRAM</b></td></tr>
+      <tr><td>Fund</td><td>Roundhill Memory ETF</td></tr>
+      <tr><td>Issuer</td><td>Roundhill</td></tr>
+      <tr><td>Theme</td><td>Semiconductors / AI chips</td></tr>
+      <tr><td>Expense ratio</td><td>0.65%</td></tr>
+      <tr><td>AUM</td><td>~$23B</td></tr>
+      <tr><td>Holdings</td><td>21</td></tr>
+      <tr><td>What's inside</td><td>SK Hynix, Samsung, Micron, SanDisk, WDC — pure memory (DRAM/NAND/HBM)</td></tr>
+    </table>
+    <p class="nfax">AUM and expense ratio are point-in-time (curated June 2026) and move with the fund — the issuer's own page is the source of record.</p>
+
+    <h2>What's inside &amp; AI relevance</h2>
+    <p>Top exposure: SK Hynix, Samsung, Micron, SanDisk, WDC — pure memory (DRAM/NAND/HBM). Semiconductors are the picks-and-shovels of the AI build-out: an infrastructure-level AI bet rather than a pure software one.</p>
+
+    <h2>Chart</h2>
+    <div class="tradingview-widget-container"><div id="tv_DRAM"></div></div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-overview.js" async>
+    {"symbols":[["DRAM"]],"chartOnly":false,"width":"100%","height":300,"colorTheme":"dark","isTransparent":true,"autosize":false}
+    </script>
+
+    <h2>Related AI ETFs</h2>
+    <p class="relx"><a href="/etfs/smh">SMH</a><a href="/etfs/soxx">SOXX</a><a href="/etfs/soxq">SOXQ</a><a href="/etfs/xsd">XSD</a><a href="/etfs/psi">PSI</a></p>
+    <p>See all funds, sorted into 8 buckets, on the <a href="/etfs">AI ETF universe</a> page, or gauge the wider market with the <a href="/bubble">AI bubble-risk index</a>.</p>
+
+    <div class="ctaE">
+      <b>Track AI ETFs &amp; run fair-value on their top holdings.</b>
+      <p>Create a free Santro AI account to save a watchlist and run unlimited valuations on the names inside these funds.</p>
+      <a href="/?auth=register">Create a free account →</a>
+    </div>
+    <p class="nfax">Market data is delayed ~15 minutes and provided for education, not as financial advice. ETFs carry risk; read the fund's prospectus.</p>
+  </main>
   <!-- mega-footer v1 -->
 <footer class="mega">
 <style>
@@ -529,128 +529,4 @@ function t(){if(!mq.matches)return;var c=h.parentElement;c.classList.toggle("ope
 h.addEventListener("click",t);h.addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){e.preventDefault();t();}});});}
 arm();mq.addEventListener?mq.addEventListener("change",arm):mq.addListener(arm);})();</script>
 </footer>
-
-<script src="etf-data.js?v=2"></script>
-<script>
-const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const SYM=(new URLSearchParams(location.search).get("sym")||"").toUpperCase();
-const RB={trap:"AI-washing",lev:"leveraged · decays",income:"income · caps upside",spec:"speculative",closed:"closed"};
-const CT={trap:"Why this is NOT what you want",lev:"Trader warning",income:"Income, not growth",spec:"Speculative — size small"};
-const logoUrl=s=>`https://assets.parqet.com/logos/symbol/${encodeURIComponent(s.split(".")[0])}?format=png&size=64`;
-
-function statChip(k,v){ return v?`<div><div class="k">${k}</div><div class="v">${esc(v)}</div></div>`:""; }
-
-function holdingsSection(sym){
-  const h=(window.ETF_HOLDINGS||{})[sym];
-  if(!h||!h.top||!h.top.length) return "";
-  const maxw=Math.max(...h.top.map(x=>x.w));
-  const meta = h.partial
-    ? `top ${h.top.length} shown — composition mirrors its peers`
-    : `${h.nh} positions` + (h.c10!=null?` · top 10 = ${h.c10}%`:"")
-      + (h.foreign==="heavy"?" · heavily foreign":h.foreign?` · ${h.foreign} foreign`:"")
-      + (h.asof?` · as of ${h.asof}`:"");
-  const rows=h.top.map((x,i)=>`<tr>
-    <td class="hn">${i+1}</td><td class="hnm">${esc(x.n)}</td>
-    <td class="hbar"><span style="width:${Math.max(3,Math.round(x.w/maxw*100))}%"></span></td>
-    <td class="hw">${x.w.toFixed(2)}%</td></tr>`).join("");
-  return `<div class="sec-label">Top holdings <span class="hmeta">${meta}</span></div>
-    <table class="htbl"><tbody>${rows}</tbody></table>
-    ${h.extra?`<p class="hextra">${esc(h.extra)}</p>`:""}
-    ${h.src?`<a class="hsrc" href="${h.src}" target="_blank" rel="noopener">Full holdings ↗</a>`:""}`;
-}
-
-function load(){
-  const el=document.getElementById("tp");
-  const e=(window.ETFS||[]).find(x=>x.t===SYM);
-  const bucket=e?(window.ETF_BUCKETS||[]).find(b=>b.id===e.bucket):null;
-
-  if(!e){
-    document.title="ETF not found | Santro AI";
-    el.innerHTML=`<div class="notfound"><h1>${esc(SYM||"ETF")}</h1>
-      <p>This ticker isn't in our tracked AI-ETF universe.</p>
-      <p class="backlinks"><a href="/etfs">← Back to all AI ETFs</a></p></div>`;
-    return;
-  }
-
-  document.title=`${e.t} — ${e.name} | Santro AI`;
-  const md=document.querySelector('meta[name="description"]');
-  if(md) md.setAttribute("content",`${e.t} — ${e.name}. ${e.inside||""} AUM ${e.aum||"—"}, fee ${e.er||"—"}. Not financial advice. (Santro AI)`);
-
-  const badges=[`<span class="bk">${esc(bucket?bucket.name:"")}</span>`];
-  if(e.risk) badges.push(`<span class="rb ${e.risk}">${RB[e.risk]||e.risk}</span>`);
-  if(e.spv) badges.push(`<span class="rb spv">pre-IPO exposure</span>`);
-
-  const h=(window.ETF_HOLDINGS||{})[SYM];
-  const concChip = (h&&h.c10!=null) ? statChip("Top-10 concentration", Math.round(h.c10)+"%")
-                                    : statChip("Holdings", e.holds);
-  const stats=[
-    statChip("AUM", e.aum),
-    statChip("Expense ratio", e.er),
-    concChip,
-    statChip("Distribution yield", e.yield)
-  ].join("");
-
-  // coaching callout — styled as a warning for risk funds, neutral "Santro read" otherwise
-  let callout="";
-  if(e.note){
-    const cls=(e.risk&&CT[e.risk])?e.risk:"";
-    const title=(e.risk&&CT[e.risk])?CT[e.risk]:"The Santro read";
-    callout=`<div class="callout ${cls}"><div class="ct">${title}</div><div class="cx">${esc(e.note)}</div></div>`;
-  }
-
-  // siblings in the same bucket
-  const sibs=(window.ETFS||[]).filter(x=>x.bucket===e.bucket && x.t!==e.t);
-  const sibsHtml=sibs.length?`<div class="sec-label">Others in “${esc(bucket.name)}”</div>
-    <div class="sibs">${sibs.map(s=>`<a href="/e?sym=${encodeURIComponent(s.t)}"><b>${esc(s.t)}</b> · ${esc(s.name.split(" ").slice(0,3).join(" "))}</a>`).join("")}</div>`:"";
-
-  const chartSection = e.risk==="closed" ? "" :
-    `<div class="sec-label">Chart · TradingView</div>
-     <div class="tradingview-widget-container" id="tvchart"><div class="tradingview-widget-container__widget"></div></div>`;
-
-  el.innerHTML=`
-    <div class="tp-head">
-      <img src="${logoUrl(e.t)}" onerror="this.style.visibility='hidden'" alt="">
-      <div class="tp-title"><h1>${esc(e.t)}</h1>
-        <div class="sub">${esc(e.name)}</div>
-        <div class="tp-badges">${badges.join("")}</div></div>
-    </div>
-
-    <div class="sec-label">What's inside</div>
-    <p class="inside-txt">${esc(e.inside||"—")}</p>
-    ${bucket&&bucket.blurb?`<p class="inside-txt" style="color:var(--muted);font-size:13.5px;margin-top:8px">${esc(bucket.blurb)}</p>`:""}
-
-    <div class="kv" style="max-width:760px;margin-top:14px">${stats}</div>
-
-    ${holdingsSection(SYM)}
-
-    ${callout?`<div class="sec-label">The trade-off</div>${callout}`:""}
-
-    ${chartSection}
-    ${sibsHtml}
-
-    <p class="backlinks">
-      <a href="https://finance.yahoo.com/quote/${encodeURIComponent(e.t)}" target="_blank" rel="noopener">Yahoo Finance →</a>
-      &nbsp;·&nbsp; <a href="/etfs">← Back to all AI ETFs</a></p>`;
-
-  if(e.risk!=="closed") mountTV();
-}
-
-function mountTV(){
-  const host=document.getElementById("tvchart");
-  if(!host) return;
-  const dark=document.documentElement.dataset.theme!=="light";
-  const s=document.createElement("script");
-  s.src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js";
-  s.async=true;
-  const H=Math.max(480, Math.min(1100, Math.round(window.innerHeight*0.78)));
-  s.innerHTML=JSON.stringify({
-    symbol:SYM, theme:dark?"dark":"light", autosize:false, width:"100%", height:H,
-    interval:"D", timezone:"Etc/UTC", style:"1", locale:"en", hide_side_toolbar:false,
-    allow_symbol_change:true, save_image:false, backgroundColor:dark?"#0a0e13":"#ffffff"
-  });
-  host.appendChild(s);
-}
-load();
-</script>
-</body>
-</html>
+</body></html>

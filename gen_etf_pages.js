@@ -158,8 +158,9 @@ const sec = `<section class="sa-deepdives" style="max-width:920px;margin:24px au
     </section>
 `;
 let etfs = fs.readFileSync("etfs.html","utf8");
-if(!etfs.includes("sa-deepdives"))
-  etfs = etfs.replace(/(\n[ \t]*<footer)/, "\n    "+sec+"$1");
+const secRe = /[ \t]*<section class="sa-deepdives"[\s\S]*?<\/section>\n?/;   // idempotent: refresh the list so new funds get linked
+if(secRe.test(etfs)) etfs = etfs.replace(secRe, "    "+sec);
+else                 etfs = etfs.replace(/(\n[ \t]*<footer)/, "\n    "+sec+"$1");
 fs.writeFileSync("etfs.html", etfs);
 console.log(`  injected deep-dives section into etfs.html (${built.length} funds)`);
 console.log("done");

@@ -49,6 +49,8 @@ window.ETFS = [
    note:"Equal-weight — the near-opposite of SMH. This is “spread across the small chip names,” not ride Nvidia."},
   {t:"PSI",  name:"Invesco Semiconductors", bucket:"semis", aum:"smaller", er:"0.56%", holds:"30", inside:"Momentum / quality screened"},
   {t:"FTXL", name:"First Trust Nasdaq Semiconductor", bucket:"semis", aum:"smaller", er:"~0.60%", holds:"30+", inside:"Modified equal-weight, mid-cap tilt"},
+  {t:"DRAM", name:"Roundhill Memory ETF", bucket:"semis", aum:"~$23B", er:"0.65%", holds:"21", inside:"SK Hynix, Samsung, Micron, SanDisk, WDC — pure memory (DRAM/NAND/HBM)",
+   note:"The first pure memory-chip ETF — DRAM, NAND and the HBM stacks that feed AI training. It rocketed past $20B in weeks (the fastest-growing launch on record), which tells you how crowded the memory trade has become. One clean ticker for the SK Hynix / Samsung / Micron supercycle — but three names are ~70% of it, it runs on total-return swaps, and memory is a brutally cyclical, boom-and-bust business. A theme bet, not a diversified core."},
 
   // ── Robotics & automation ─────────────────────────────────────────────────
   {t:"BOTZ", name:"Global X Robotics & Artificial Intelligence", bucket:"robotics", aum:"~$3.0B", er:"0.68%", holds:"~68", inside:"Nvidia, Intuitive Surgical, AeroVironment, Cognex"},
@@ -125,6 +127,10 @@ window.ETF_HOLDINGS = {
   SOXX: {nh:34,  c10:62.12, src:"https://stockanalysis.com/etf/soxx/holdings/", top:[
     {n:"Micron",w:11.55},{n:"AMD",w:8.70},{n:"Marvell",w:8.22},{n:"Intel",w:6.13},{n:"Broadcom",w:5.77},
     {n:"Nvidia",w:5.53},{n:"Applied Materials",w:5.30},{n:"KLA",w:3.78},{n:"Lam Research",w:3.71},{n:"Qualcomm",w:3.41}]},
+  DRAM: {nh:21, src:"https://stockanalysis.com/etf/dram/holdings/",
+    extra:"Synthetic structure: DRAM takes its memory exposure through total-return swaps backed by a ~25% U.S. Treasury-bill collateral sleeve, so the raw filing grosses past 100%. Weights below consolidate each maker's direct + swap lines into its true economic exposure — three names are ~70% of the fund.", top:[
+    {n:"Samsung Electronics",w:24.95},{n:"SK Hynix",w:23.69},{n:"Micron Technology",w:22.44},{n:"SanDisk",w:4.94},
+    {n:"Western Digital",w:4.52},{n:"Seagate Technology",w:4.49}]},
   BOTZ: {nh:66,  c10:59.07, foreign:"68%", src:"https://stockanalysis.com/etf/botz/holdings/", top:[
     {n:"ABB (Switzerland)",w:9.18},{n:"Keyence (Japan)",w:9.12},{n:"Nvidia",w:8.70},{n:"Fanuc (Japan)",w:8.68},{n:"Intuitive Surgical",w:6.29},
     {n:"Shenzhen Inovance",w:4.23},{n:"SMC Corp (Japan)",w:4.23},{n:"Daifuku (Japan)",w:3.47},{n:"RoboTechnik",w:2.84},{n:"Yaskawa Electric (Japan)",w:2.33}]},

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-11T08:49:51+00:00",
-  "as_of_local": "2026-07-11 08:49:51 UTC",
+  "as_of_utc": "2026-07-11T08:55:42+00:00",
+  "as_of_local": "2026-07-11 08:55:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -341,34 +343,6 @@
       ]
     },
     {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 126.76,
-      "previous_close": 129.5,
-      "change_pct": -2.12,
-      "market_cap": 4951584893.206879,
-      "headlines": [
-        {
-          "title": "Onsemi\u2019s Synaptics acquisition could unlock long-term synergies, says Bank of America",
-          "url": "https://finance.yahoo.com/technology/articles/onsemi-synaptics-acquisition-could-unlock-200200733.html",
-          "publisher": "Proactive",
-          "published": "2026-07-09T20:02:00Z"
-        },
-        {
-          "title": "Is ON Semiconductor (ON) Fully Valued Following Index Inclusion And Its Synaptics Deal?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-fully-valued-following-index-171337383.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-09T17:13:37Z"
-        },
-        {
-          "title": "Cantor Fitzgerald Updates Call on ON Semiconductor Corp (ON) Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-updates-call-semiconductor-153237889.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-07-08T15:32:37Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 45.54,
@@ -585,7 +559,7 @@
     },
     {
       "label": "BTC",
-      "price": 64198.84,
+      "price": 64195.2,
       "change_pct": 0.11
     },
     {

@@ -91,10 +91,6 @@ for f in sorted(glob.glob("stocks/themes/*.html")):
         print(f"SKIP {f}: no universe bubble '{bid}'"); continue
     b = bubbles[bid]
     s = open(f, encoding="utf-8").read(); orig = s
-    # legacy powering-ai sub-map leftovers
-    s = re.sub(r'<figure class="emap-wrap".*?</figure>\s*', "", s, flags=re.S)
-    s = re.sub(r'<script src="/components/energy-heat-submap\.js[^"]*"></script>\s*', "", s)
-    s = re.sub(r"<script>SantroEnergyMap\.mount[^<]*</script>\s*", "", s)
     # 1) map block
     if MAP_S in s:
         s = re.sub(re.escape(MAP_S) + r".*?" + re.escape(MAP_E), lambda m: map_block(bid, b["label"]), s, flags=re.S)

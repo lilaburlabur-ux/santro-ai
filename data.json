@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-11T05:25:59+00:00",
-  "as_of_local": "2026-07-11 05:25:59 UTC",
+  "as_of_utc": "2026-07-11T05:41:05+00:00",
+  "as_of_local": "2026-07-11 05:41:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-jumps-chip-sentiment-improves-202514381.html",
           "publisher": "GuruFocus.com",
           "published": "2026-07-10T20:25:14Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 189.16,
-      "previous_close": 191.11,
-      "change_pct": -1.02,
-      "market_cap": 199374643859.86328,
-      "headlines": [
-        {
-          "title": "Monolithic vs. Qualcomm: Which Semiconductor Stock Has More Upside?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/monolithic-vs-qualcomm-semiconductor-stock-153000532.html",
-          "publisher": "Zacks",
-          "published": "2026-07-10T15:30:00Z"
-        },
-        {
-          "title": "What Is The Market Really Expecting From AVGO Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/market-really-expecting-avgo-stock-145919344.html",
-          "publisher": "Trefis",
-          "published": "2026-07-10T14:59:19Z"
-        },
-        {
-          "title": "The Pentagon Just Handed nLight A New Story",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pentagon-just-handed-nlight-story-144948385.html",
-          "publisher": "Trefis",
-          "published": "2026-07-10T14:49:48Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 64148.44,
-      "change_pct": 1.51
+      "price": 64133.15,
+      "change_pct": 1.49
     },
     {
       "label": "Gold",

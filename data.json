@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-11T13:24:04+00:00",
-  "as_of_local": "2026-07-11 13:24:04 UTC",
+  "as_of_utc": "2026-07-11T13:39:06+00:00",
+  "as_of_local": "2026-07-11 13:39:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -41,7 +43,7 @@
       "market_cap": 2251500157809.6895,
       "headlines": [
         {
-          "title": "Stock Market Week Ahead: Watching Big Banks, GE, TSMC For Signals",
+          "title": "Stock Market Week Ahead: Watching Big Banks, Warsh, TSMC For Signals",
           "url": "https://www.investors.com/research/investing-action-plan/stock-market-big-banks-ge-tsmc-asml-sp-500-nasdaq/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-07-11T13:10:05Z"
@@ -257,34 +259,6 @@
       ]
     },
     {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 292.26,
-      "previous_close": 290.54,
-      "change_pct": 0.59,
-      "market_cap": 73787200014.07788,
-      "headlines": [
-        {
-          "title": "Can TXN's Embedded Business Extend Its Double-Digit Growth Run?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/txns-embedded-business-extend-double-153200942.html",
-          "publisher": "Zacks",
-          "published": "2026-07-10T15:32:00Z"
-        },
-        {
-          "title": "Nvidia, Chip Stocks Rally Despite U.S.-Iran War Flare-Up",
-          "url": "https://www.investors.com/news/technology/nvidia-stock-chip-stocks-waver-sox/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-07-08T20:45:18Z"
-        },
-        {
-          "title": "Texas Instruments Stock Is Running On A Bold Promise",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-stock-running-bold-183738468.html",
-          "publisher": "Trefis",
-          "published": "2026-07-08T18:37:38Z"
-        }
-      ]
-    },
-    {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
       "price": 137.44,
@@ -377,6 +351,12 @@
       "market_cap": 1268715689.766014,
       "headlines": [
         {
+          "title": "CEVA (CEVA) Lands A New AI Deal, Does It Look Fully Valued?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-ceva-lands-ai-deal-131105879.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-07-11T13:11:05Z"
+        },
+        {
           "title": "Analysts Think AI Demand Has No Ceiling And Raised AMD\u2019s Price Target Again",
           "url": "https://finance.yahoo.com/technology/ai/articles/analysts-think-ai-demand-no-160100629.html",
           "publisher": "24/7 Wall St.",
@@ -387,12 +367,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/needham-initiates-ceva-ceva-buy-210441807.html",
           "publisher": "Insider Monkey",
           "published": "2026-07-01T21:04:41Z"
-        },
-        {
-          "title": "Is Amkor Technology (AMKR) Stock Outpacing Its Computer and Technology Peers This Year?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-stock-outpacing-134006232.html",
-          "publisher": "Zacks",
-          "published": "2026-06-29T13:40:06Z"
         }
       ]
     }
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 64162.8,
-      "change_pct": 0.06
+      "price": 64169.99,
+      "change_pct": 0.07
     },
     {
       "label": "Gold",

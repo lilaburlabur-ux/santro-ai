@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-11T08:55:42+00:00",
-  "as_of_local": "2026-07-11 08:55:42 UTC",
+  "as_of_utc": "2026-07-11T09:10:42+00:00",
+  "as_of_local": "2026-07-11 09:10:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SYNA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -105,16 +103,16 @@
           "published": "2026-07-10T19:43:25Z"
         },
         {
+          "title": "Micron's Biggest Long-Term Growth Catalyst Has Nothing to Do With AI Data Centers",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microns-biggest-long-term-growth-084900923.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-11T08:49:00Z"
+        },
+        {
           "title": "Micron CEO Sanjay Mehrotra Announces $250 Billion Investment for Expanded Artificial Intelligence (AI) Memory Chip Development",
           "url": "https://finance.yahoo.com/technology/ai/articles/micron-ceo-sanjay-mehrotra-announces-065500804.html",
           "publisher": "Motley Fool",
           "published": "2026-07-11T06:55:00Z"
-        },
-        {
-          "title": "SK Hynix ETFs Are Coming. Exactly Who Should Own Them.",
-          "url": "https://www.barrons.com/articles/hynix-etfs-leveraged-inverse-stock-02ea2851?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-07-11T06:00:00Z"
         }
       ]
     },
@@ -343,6 +341,34 @@
       ]
     },
     {
+      "symbol": "SYNA",
+      "name": "Synaptics",
+      "price": 126.76,
+      "previous_close": 129.5,
+      "change_pct": -2.12,
+      "market_cap": 4951584893.206879,
+      "headlines": [
+        {
+          "title": "Onsemi\u2019s Synaptics acquisition could unlock long-term synergies, says Bank of America",
+          "url": "https://finance.yahoo.com/technology/articles/onsemi-synaptics-acquisition-could-unlock-200200733.html",
+          "publisher": "Proactive",
+          "published": "2026-07-09T20:02:00Z"
+        },
+        {
+          "title": "Is ON Semiconductor (ON) Fully Valued Following Index Inclusion And Its Synaptics Deal?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-fully-valued-following-index-171337383.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-07-09T17:13:37Z"
+        },
+        {
+          "title": "Cantor Fitzgerald Updates Call on ON Semiconductor Corp (ON) Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-updates-call-semiconductor-153237889.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-07-08T15:32:37Z"
+        }
+      ]
+    },
+    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 45.54,
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 64195.2,
-      "change_pct": 0.11
+      "price": 64208.13,
+      "change_pct": 0.13
     },
     {
       "label": "Gold",

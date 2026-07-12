@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-12T21:47:28+00:00",
-  "as_of_local": "2026-07-12 21:47:28 UTC",
+  "as_of_utc": "2026-07-12T21:52:36+00:00",
+  "as_of_local": "2026-07-12 21:52:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -21,16 +19,44 @@
           "published": "2026-07-12T12:30:00Z"
         },
         {
+          "title": "Meet the Vanguard ETF That Has Crushed the S&P 500 Over the Last 10 Years",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meet-vanguard-etf-crushed-p-214300315.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-12T21:43:00Z"
+        },
+        {
           "title": "Billionaire Ken Griffin Boosted His Stake in This Dividend King by 146%. Here's Why It's a Dream Stock for Risk-Averse Investors.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-ken-griffin-boosted-stake-213000472.html",
           "publisher": "Motley Fool",
           "published": "2026-07-12T21:30:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 434.11,
+      "previous_close": 436.96,
+      "change_pct": -0.65,
+      "market_cap": 2251500157809.6895,
+      "headlines": [
+        {
+          "title": "Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-attacks-nvidia-micron-sandisk-taiwan-semiconductor/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-07-12T20:20:36Z"
         },
         {
-          "title": "Is PayPal Stock a Bargain or a Value Trap?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-stock-bargain-value-trap-212000461.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-12T21:20:00Z"
+          "title": "Inflation, Bank of America, Wells Fargo, Goldman, ASML, J&J, and More to Watch This Week",
+          "url": "https://www.barrons.com/articles/inflation-bank-of-america-wells-fargo-goldman-asml-j-j-and-more-to-watch-this-week-71bddc40?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-07-12T18:00:00Z"
+        },
+        {
+          "title": "Ken Griffin Warns Losing TSMC Chips Could Trigger a 'Great Depression:' They're in 'Every High-End Product'",
+          "url": "https://finance.yahoo.com/economy/articles/ken-griffin-warns-losing-tsmc-163121216.html",
+          "publisher": "Benzinga",
+          "published": "2026-07-12T16:31:21Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 63943.57,
-      "change_pct": 0.22
+      "price": 63910.0,
+      "change_pct": 0.17
     },
     {
       "label": "Gold",

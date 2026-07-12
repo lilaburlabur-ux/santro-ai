@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-12T23:45:38+00:00",
-  "as_of_local": "2026-07-12 23:45:38 UTC",
+  "as_of_utc": "2026-07-12T23:50:50+00:00",
+  "as_of_local": "2026-07-12 23:50:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVAV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -315,6 +313,34 @@
       ]
     },
     {
+      "symbol": "AVAV",
+      "name": "AeroVironment",
+      "price": 144.58,
+      "previous_close": 148.4,
+      "change_pct": -2.57,
+      "market_cap": 7316909070.066071,
+      "headlines": [
+        {
+          "title": "AeroVironment Flies Under Wall Street\u2019s Radar Toward a $4 Billion Target",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-flies-under-wall-street-154500859.html",
+          "publisher": "MarketBeat",
+          "published": "2026-07-10T15:45:00Z"
+        },
+        {
+          "title": "AeroVironment Plots Revenue Doubling to $4 Billion on Defense Drone Demand",
+          "url": "https://finance.yahoo.com/technology/articles/aerovironment-plots-revenue-doubling-4-020205014.html",
+          "publisher": "MarketBeat",
+          "published": "2026-07-10T02:02:05Z"
+        },
+        {
+          "title": "RBC Capital Just Downgraded AVAV Stock. Here's Why.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-just-downgraded-avav-204228146.html",
+          "publisher": "Barchart",
+          "published": "2026-07-09T20:42:28Z"
+        }
+      ]
+    },
+    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 126.76,
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63750.97,
-      "change_pct": -0.08
+      "price": 63778.34,
+      "change_pct": -0.04
     },
     {
       "label": "Gold",
-      "price": 4081.1,
-      "change_pct": -0.56
+      "price": 4086.0,
+      "change_pct": -0.44
     },
     {
       "label": "Nasdaq100",

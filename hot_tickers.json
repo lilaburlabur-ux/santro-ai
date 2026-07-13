@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-13T13:27:55+00:00",
+  "as_of": "2026-07-13T13:32:40+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "MU",
    "company": "Micron Technology Inc",
-   "move_pct": -5.24,
-   "price": 927.99,
-   "volume": 31563700,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 36,
+   "move_pct": -5.4,
+   "price": 926.4,
+   "volume": 3602712,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 34,
    "direction": "down",
    "why": "Micron Shares Slide as Semiconductor Selloff Weighs on Memory Stocks (MU)",
    "catalyst_type": "momentum_narrative",

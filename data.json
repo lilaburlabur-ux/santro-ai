@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-13T22:24:13+00:00",
-  "as_of_local": "2026-07-13 22:24:13 UTC",
+  "as_of_utc": "2026-07-13T22:29:16+00:00",
+  "as_of_local": "2026-07-13 22:29:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-fubotv-stock-rallied-today-215514398.html",
           "publisher": "Motley Fool",
           "published": "2026-07-13T21:55:14Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 421.58,
-      "previous_close": 434.11,
-      "change_pct": -2.89,
-      "market_cap": 2186513644757.9446,
-      "headlines": [
-        {
-          "title": "TSMC Sales Jump 36% as Memory Stocks Plunge. What It Means for NVIDIA and AMD",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-sales-jump-36-memory-214500837.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-07-13T21:45:00Z"
-        },
-        {
-          "title": "Stock Market Today: Dow, Nasdaq Close Lower As Oil Prices Spike; This Memory ETF In Bear Market",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-sk-hynix-stock-skhy/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-07-13T20:52:43Z"
-        },
-        {
-          "title": "Arm And Marvell Tumble As Chip Stocks Sell Off",
-          "url": "https://www.investors.com/news/technology/chip-stocks-sox-arm-marvell-sell-off/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-07-13T20:49:00Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62091.88,
-      "change_pct": -2.61
+      "price": 62109.1,
+      "change_pct": -2.59
     },
     {
       "label": "Gold",
-      "price": 4010.9,
-      "change_pct": -2.27
+      "price": 4012.4,
+      "change_pct": -2.23
     },
     {
       "label": "Nasdaq100",

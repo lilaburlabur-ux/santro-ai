@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
-| Is MaxLinear Stock a Buy Now or a Hold at Current Levels? | Zacks | 2026-07-13 |
-| MaxLinear Stock Outlook Hinges on Optics, Broadband and AI Demand | Zacks | 2026-07-13 |
 | Arm And Marvell Tumble As Chip Stocks Sell Off | Investor's Business Daily | 2026-07-13 |
-| Tech View: Record Profits, Insider buying, & Cheap Valuations | Zacks | 2026-07-13 |
+| Stocks to Watch: SK Hynix, SpaceX, Intel | The Wall Street Journal | 2026-07-13 |
+| U.S. Stocks Fall as AI Selloff, Oil Jump Rattle Markets | The Wall Street Journal | 2026-07-13 |
+| Is MaxLinear Stock a Buy Now or a Hold at Current Levels? | Zacks | 2026-07-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

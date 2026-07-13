@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | SK Hynix stock falls, leads broader chip sector declines as AI trade angst returns | Yahoo Finance | 2026-07-13 |
-| Intel Expands Ireland Chip Plant | GuruFocus.com | 2026-07-13 |
-| Intel Deepens Its European Chip Push | GuruFocus.com | 2026-07-13 |
-| Sector Update: Tech Stocks Fall Late Afternoon | MT Newswires | 2026-07-13 |
+| Stocks to Watch: SK Hynix, SpaceX, Intel | The Wall Street Journal | 2026-07-13 |
+| U.S. Stocks Fall as AI Selloff, Oil Jump Rattle Markets | The Wall Street Journal | 2026-07-13 |
+| Intel Investors Who Bought During the Peak of the Dot-Com Bubble Are Finally Out of the Red. It's a Painful Reminder of Why Valuations Matter | Motley Fool | 2026-07-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

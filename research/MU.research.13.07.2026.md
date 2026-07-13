@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
-| Chip stocks may be selling off, but profits are set to triple by 2027: Chart of the Day | Yahoo Finance Video | 2026-07-13 |
-| Tech Sell-Off: How investors should navigate the market | Yahoo Finance Video | 2026-07-13 |
-| SK Hynix stock falls, leads broader chip sector declines as AI trade angst returns | Yahoo Finance | 2026-07-13 |
-| Stock Market Today: Dow Lower As Oil Spikes On Hormuz Conflict; Memory ETF In Bear Market (Live Coverage) | Investor's Business Daily | 2026-07-13 |
+| What investors can expect this earnings season | Yahoo Finance Video | 2026-07-13 |
+| Nvidia, Micron, and other chip players are poised to become cash-producing machines | Yahoo Finance | 2026-07-13 |
+| Dow Jones Futures: Nasdaq Sells Off, Oil Prices Spike On Trump Blockade; Micron, Sandisk, SK Hynix, SpaceX Dive | Investor's Business Daily | 2026-07-13 |
+| Stock Market Today: Dow, Nasdaq Close Lower As Oil Prices Spike; This Memory ETF In Bear Market | Investor's Business Daily | 2026-07-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

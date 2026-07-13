@@ -1,16 +1,16 @@
 {
-  "as_of_utc": "2026-07-13T18:29:50+00:00",
-  "as_of_local": "2026-07-13 18:29:50 UTC",
+  "as_of_utc": "2026-07-13T18:34:53+00:00",
+  "as_of_local": "2026-07-13 18:34:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 203.67,
+      "price": 203.9,
       "previous_close": 210.96,
-      "change_pct": -3.46,
-      "market_cap": 4933091025650.024,
+      "change_pct": -3.35,
+      "market_cap": 4938056375000.0,
       "headlines": [
         {
           "title": "Retail investors are cashing out of Apple, Tesla, and chip stocks: Chart of the Day",
@@ -35,11 +35,17 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 422.82,
+      "price": 423.26,
       "previous_close": 434.11,
-      "change_pct": -2.6,
-      "market_cap": 2192919022468.885,
+      "change_pct": -2.5,
+      "market_cap": 2195330713891.4949,
       "headlines": [
+        {
+          "title": "Arm And Marvell Tumble As Chip Stocks Sell Off",
+          "url": "https://www.investors.com/news/technology/chip-stocks-sox-arm-marvell-sell-off/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-07-13T18:21:53Z"
+        },
         {
           "title": "Taiwan Semiconductor Posts Stronger-Than-Expected June Sales",
           "url": "https://www.investors.com/news/technology/tsm-stock-taiwan-semiconductor-june-2026-sales/?src=A00220&yptr=yahoo",
@@ -51,22 +57,16 @@
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-sk-hynix-stock-skhy/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-07-13T18:04:29Z"
-        },
-        {
-          "title": "TSMC Revenue Tops Forecasts on AI Strength",
-          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-revenue-tops-forecasts-ai-171945309.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-07-13T17:19:45Z"
         }
       ]
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 385.73,
+      "price": 385.82,
       "previous_close": 399.97,
-      "change_pct": -3.56,
-      "market_cap": 1834998740444.5303,
+      "change_pct": -3.54,
+      "market_cap": 1835593437969.2803,
       "headlines": [
         {
           "title": "Nvidia, Micron, and other chip players are poised to become cash-producing machines",
@@ -91,10 +91,10 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 924.43,
+      "price": 925.92,
       "previous_close": 979.3,
-      "change_pct": -5.6,
-      "market_cap": 1044197381411.6226,
+      "change_pct": -5.45,
+      "market_cap": 1045705146083.975,
       "headlines": [
         {
           "title": "These overlooked chip stocks are getting an AI boost",
@@ -119,10 +119,10 @@
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 535.83,
+      "price": 535.76,
       "previous_close": 557.89,
-      "change_pct": -3.96,
-      "market_cap": 873716607296.968,
+      "change_pct": -3.97,
+      "market_cap": 873414950159.7115,
       "headlines": [
         {
           "title": "SK Hynix stock falls, leads broader chip sector declines as AI trade angst returns",
@@ -149,8 +149,8 @@
       "name": "Intel",
       "price": 102.39,
       "previous_close": 109.84,
-      "change_pct": -6.78,
-      "market_cap": 514612136932.37305,
+      "change_pct": -6.79,
+      "market_cap": 514561866195.6787,
       "headlines": [
         {
           "title": "SK Hynix stock falls, leads broader chip sector declines as AI trade angst returns",
@@ -175,10 +175,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 297.38,
+      "price": 297.0,
       "previous_close": 323.39,
-      "change_pct": -8.04,
-      "market_cap": 316087825468.47235,
+      "change_pct": -8.16,
+      "market_cap": 316023984837.0,
       "headlines": [
         {
           "title": "SK Hynix stock falls, leads broader chip sector declines as AI trade angst returns",
@@ -190,7 +190,7 @@
           "title": "Arm And Marvell Tumble As Chip Stocks Sell Off",
           "url": "https://www.investors.com/news/technology/chip-stocks-sox-arm-marvell-sell-off/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-07-13T15:46:18Z"
+          "published": "2026-07-13T18:21:53Z"
         },
         {
           "title": "Intel, AMD, and Applied Materials Drop 4% as SK Hynix Rout and Oil Spike Hit Chip Stocks",
@@ -203,10 +203,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 184.91,
+      "price": 185.1,
       "previous_close": 189.16,
-      "change_pct": -2.24,
-      "market_cap": 194932037719.72656,
+      "change_pct": -2.14,
+      "market_cap": 195100665496.82617,
       "headlines": [
         {
           "title": "Congress Is Trading on Laws They\u2019re About to Pass \u2014 And It\u2019s Perfectly Legal",
@@ -234,19 +234,19 @@
       "price": 215.96,
       "previous_close": 235.81,
       "change_pct": -8.42,
-      "market_cap": 193829207512.4179,
+      "market_cap": 193788819656.83585,
       "headlines": [
+        {
+          "title": "Arm And Marvell Tumble As Chip Stocks Sell Off",
+          "url": "https://www.investors.com/news/technology/chip-stocks-sox-arm-marvell-sell-off/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-07-13T18:21:53Z"
+        },
         {
           "title": "Stocks to Watch: SK Hynix, SpaceX, Intel",
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-13-2026/card/stocks-to-watch-sk-hynix-intel-akzo-nobel-Kz6QtkxLQjQNjN4ji1kT?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-07-13T17:12:34Z"
-        },
-        {
-          "title": "Arm And Marvell Tumble As Chip Stocks Sell Off",
-          "url": "https://www.investors.com/news/technology/chip-stocks-sox-arm-marvell-sell-off/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-07-13T15:46:18Z"
         },
         {
           "title": "Why investors dashed for AI bottlenecks during Q2",
@@ -259,10 +259,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 280.3,
+      "price": 280.04,
       "previous_close": 292.26,
-      "change_pct": -4.09,
-      "market_cap": 70786578774.625,
+      "change_pct": -4.18,
+      "market_cap": 70700739532.3417,
       "headlines": [
         {
           "title": "5 Analog Chip Stocks Set to Rebound as the Cycle Changes",
@@ -287,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 130.19,
+      "price": 130.42,
       "previous_close": 137.44,
-      "change_pct": -5.28,
-      "market_cap": 17837053237.32184,
+      "change_pct": -5.11,
+      "market_cap": 17857603579.642242,
       "headlines": [
         {
           "title": "Lattice Semiconductor (LSCC) Stock Trades Up, Here Is Why",
@@ -315,10 +315,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 141.61,
+      "price": 141.65,
       "previous_close": 144.58,
-      "change_pct": -2.05,
-      "market_cap": 7166856446.448212,
+      "change_pct": -2.02,
+      "market_cap": 7168880427.87262,
       "headlines": [
         {
           "title": "AeroVironment Flies Under Wall Street\u2019s Radar Toward a $4 Billion Target",
@@ -343,10 +343,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 119.24,
+      "price": 119.42,
       "previous_close": 126.76,
-      "change_pct": -5.93,
-      "market_cap": 4657833402.793121,
+      "change_pct": -5.79,
+      "market_cap": 4664864696.394104,
       "headlines": [
         {
           "title": "The 5 Smartphone Chip Stocks Poised for the Next Handset Upgrade Wave",
@@ -374,7 +374,7 @@
       "price": 43.01,
       "previous_close": 45.54,
       "change_pct": -5.56,
-      "market_cap": 1193773919.1399765,
+      "market_cap": 1198231413.9289742,
       "headlines": [
         {
           "title": "Why CEVA (CEVA) Is Up 12.7% After Securing Landmark Edge AI Licensing Deal With Platform Giant",
@@ -401,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 56.76,
-      "change_pct": -9.97,
+      "price": 56.7,
+      "change_pct": -10.06,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -5.6,
-          "price": 924.43,
+          "change_pct": -5.45,
+          "price": 925.92,
           "currency": "USD"
         },
         {
@@ -445,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -13.04,
-          "price": 1666.08,
+          "change_pct": -12.94,
+          "price": 1668.02,
           "currency": "USD"
         },
         {
@@ -463,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -6.26,
-          "price": 546.11,
+          "change_pct": -6.37,
+          "price": 545.45,
           "currency": "USD"
         },
         {
@@ -491,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 56.76,
-    "change_pct": -9.97,
+    "price": 56.7,
+    "change_pct": -10.06,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -5.6,
-        "price": 924.43,
+        "change_pct": -5.45,
+        "price": 925.92,
         "currency": "USD"
       },
       {
@@ -535,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -13.04,
-        "price": 1666.08,
+        "change_pct": -12.94,
+        "price": 1668.02,
         "currency": "USD"
       },
       {
@@ -553,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -6.26,
-        "price": 546.11,
+        "change_pct": -6.37,
+        "price": 545.45,
         "currency": "USD"
       },
       {
@@ -580,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7518.18,
-      "change_pct": -0.76
+      "price": 7519.25,
+      "change_pct": -0.74
     },
     {
       "label": "BTC",
-      "price": 61860.79,
-      "change_pct": -2.98
+      "price": 64171.99,
+      "change_pct": 0.65
     },
     {
       "label": "Gold",
-      "price": 3993.9,
-      "change_pct": -2.69
+      "price": 4001.0,
+      "change_pct": -2.51
     },
     {
       "label": "Nasdaq100",
-      "price": 29266.3,
-      "change_pct": -1.87
+      "price": 29273.31,
+      "change_pct": -1.85
     }
   ]
 }

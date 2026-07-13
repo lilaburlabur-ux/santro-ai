@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-07-13T09:23:50+00:00",
-  "as_of_local": "2026-07-13 09:23:50 UTC",
+  "as_of_utc": "2026-07-13T09:28:12+00:00",
+  "as_of_local": "2026-07-13 09:28:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -19,16 +19,16 @@
           "published": "2026-07-12T12:30:00Z"
         },
         {
+          "title": "Advanced Micro Devices (AMD): Turing Inc. is being backed by AMD Ventures, Reports Bloomberg",
+          "url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-turing-092121852.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-07-13T09:21:21Z"
+        },
+        {
           "title": "Taiwan Semiconductor Reports Earnings July 16. Here's What to Watch.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-reports-earnings-july-091000460.html",
           "publisher": "Motley Fool",
           "published": "2026-07-13T09:10:00Z"
-        },
-        {
-          "title": "Will the Stock Market Crash in 2026? History Says It May Happen as This Event Draws Near.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-2026-history-090800924.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-13T09:08:00Z"
         }
       ]
     },
@@ -125,6 +125,12 @@
       "market_cap": 909695814377.4615,
       "headlines": [
         {
+          "title": "Advanced Micro Devices (AMD): Turing Inc. is being backed by AMD Ventures, Reports Bloomberg",
+          "url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-turing-092121852.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-07-13T09:21:21Z"
+        },
+        {
           "title": "Taiwan Semiconductor Reports Earnings July 16. Here's What to Watch.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-reports-earnings-july-091000460.html",
           "publisher": "Motley Fool",
@@ -135,12 +141,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsm-stock-dips-premarket-36-082658057.html",
           "publisher": "Stocktwits",
           "published": "2026-07-13T08:26:58Z"
-        },
-        {
-          "title": "INTC, AMD, NVDA, AVGO: Chip Stocks Slide As Fresh US-Iran Strikes Test Peace Deal",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intc-amd-nvda-avgo-chip-045819398.html",
-          "publisher": "Stocktwits",
-          "published": "2026-07-13T04:58:19Z"
         }
       ]
     },
@@ -579,13 +579,18 @@
   },
   "tape": [
     {
+      "label": "SPX",
+      "price": 7575.39,
+      "change_pct": 0.42
+    },
+    {
       "label": "BTC",
-      "price": 63758.22,
-      "change_pct": -0.07
+      "price": 63050.72,
+      "change_pct": -1.11
     },
     {
       "label": "Gold",
-      "price": 4081.4,
+      "price": 4081.7,
       "change_pct": -0.55
     },
     {

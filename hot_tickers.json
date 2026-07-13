@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-13T15:10:27+00:00",
+  "as_of": "2026-07-13T15:25:33+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "MRVL",
-   "company": "Marvell Technology Inc",
-   "move_pct": -5.78,
-   "price": 222.18,
-   "volume": 9149639,
-   "volume_vs_avg": "~0.2x",
-   "heat_score": 36,
-   "direction": "down",
-   "why": "Broadcom and Marvell Are Bigger Threats to Nvidia Than You Know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/broadcom-marvell-bigger-threats-nvidia-124351072.html",
-   "published": "2026-07-13T12:43:51Z",
-   "sector": "AI Chips & Compute"
-  }
- ]
+ "hot_tickers": []
 }

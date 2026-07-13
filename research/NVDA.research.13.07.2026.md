@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Retail investors are cashing out of Apple, Tesla, and chip stocks: Chart of the Day | Yahoo Finance | 2026-07-13 |
+| Why Bitmine Immersion Stock Collapsed 51% In The First Half of 2026 | Motley Fool | 2026-07-13 |
 | Sector Update: Tech Stocks Fall Late Afternoon | MT Newswires | 2026-07-13 |
 | Citi Has a Stark Message for Nvidia Stock Fans | GuruFocus.com | 2026-07-13 |
-| Why AI Investors Can Finally Buy the World's Top HBM Maker Directly | Motley Fool | 2026-07-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

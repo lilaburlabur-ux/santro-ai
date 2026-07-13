@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-13T09:58:36+00:00",
+  "as_of": "2026-07-13T10:03:49+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "MU",
+   "company": "Micron Technology Inc",
+   "move_pct": -5.06,
+   "price": 929.75,
+   "volume": 31563700,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 36,
+   "direction": "down",
+   "why": "Zacks.com featured highlights Flowserve, Micron and Duke Energy",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-flowserve-081100980.html",
+   "published": "2026-07-13T08:11:00Z",
+   "sector": "AI Chips & Compute"
+  }
+ ]
 }

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-11T02:02:39+00:00",
+  "as_of": "2026-07-13T00:03:47+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -13,31 +13,15 @@
    "company": "Meta Platforms Inc",
    "move_pct": 5.97,
    "price": 669.21,
-   "volume": 39408342,
+   "volume": 40563100,
    "volume_vs_avg": "~2x",
    "heat_score": 46,
    "direction": "up",
-   "why": "Has Meta ever had a stock split? What sets this \u2018Mag 7\u2019 stock apart",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/meta-ever-had-stock-split-014754437.html",
-   "published": "2026-07-11T01:47:54Z",
+   "why": "Meta (META) Faces $2 Billion AI Deal Reversal And EU App Design Probe",
+   "catalyst_type": "regulatory",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/meta-meta-faces-2-billion-210801965.html",
+   "published": "2026-07-12T21:08:01Z",
    "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 2,
-   "ticker": "MDB",
-   "company": "MongoDB Inc",
-   "move_pct": -5.73,
-   "price": 342.08,
-   "volume": 1401270,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 38,
-   "direction": "down",
-   "why": "MongoDB (MDB) Stock Sinks As Market Gains: Here's Why",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/mongodb-mdb-stock-sinks-market-221503240.html",
-   "published": "2026-07-10T22:15:03Z",
-   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

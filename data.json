@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-07-13T00:54:37+00:00",
-  "as_of_local": "2026-07-13 00:54:37 UTC",
+  "as_of_utc": "2026-07-13T00:59:37+00:00",
+  "as_of_local": "2026-07-13 00:59:37 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -19,16 +19,16 @@
           "published": "2026-07-12T12:30:00Z"
         },
         {
+          "title": "Why Strategy Stock Collapsed In The First Half of 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-strategy-stock-collapsed-first-005021025.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-13T00:50:21Z"
+        },
+        {
           "title": "Dow Jones Futures Fall, Oil Prices Rise Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-attacks-nvidia-micron-sandisk-taiwan-semiconductor/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-07-13T00:48:10Z"
-        },
-        {
-          "title": "401(k) Champions and Soaring Value Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/401-k-champions-soaring-value-003248557.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-13T00:32:48Z"
         }
       ]
     },
@@ -153,12 +153,6 @@
       "market_cap": 552055821594.2383,
       "headlines": [
         {
-          "title": "Nvidia Stock Hasn\u2019t Been This Cheap Since Before 2019. How to Play NVDA Stock Here.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-hasn-t-cheap-183317589.html",
-          "publisher": "Barchart",
-          "published": "2026-07-12T18:33:17Z"
-        },
-        {
           "title": "Wall Street Is Bullish on 1 of These Chip Stocks and Bearish on the Other",
           "url": "https://finance.yahoo.com/technology/articles/wall-street-bullish-1-chip-171800473.html",
           "publisher": "Motley Fool",
@@ -169,6 +163,12 @@
           "url": "https://www.wsj.com/tech/ai/intels-insiders-1fdaa97f?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-07-12T13:28:00Z"
+        },
+        {
+          "title": "SK Hynix Joins the Nasdaq. But This Nasdaq-100 Semiconductor Stock Could Be an Even Better Buy for the Second Half of 2026.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-joins-nasdaq-nasdaq-125700343.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-12T12:57:00Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -5.5,
-          "price": 2060000.0,
+          "change_pct": -6.56,
+          "price": 2037000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.18,
-          "price": 285500.0,
+          "change_pct": -0.88,
+          "price": 282500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -3.51,
-          "price": 74300.0,
+          "change_pct": -4.44,
+          "price": 73580.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -5.5,
-        "price": 2060000.0,
+        "change_pct": -6.56,
+        "price": 2037000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.18,
-        "price": 285500.0,
+        "change_pct": -0.88,
+        "price": 282500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -3.51,
-        "price": 74300.0,
+        "change_pct": -4.44,
+        "price": 73580.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63981.65,
-      "change_pct": 0.28
+      "price": 63802.03,
+      "change_pct": -0.51
     },
     {
       "label": "Gold",
-      "price": 4079.4,
-      "change_pct": -0.6
+      "price": 4080.5,
+      "change_pct": -0.58
     },
     {
       "label": "Nasdaq100",

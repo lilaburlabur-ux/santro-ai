@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-13T05:46:20+00:00",
-  "as_of_local": "2026-07-13 05:46:20 UTC",
+  "as_of_utc": "2026-07-13T06:01:20+00:00",
+  "as_of_local": "2026-07-13 06:01:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CEVA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -21,16 +19,16 @@
           "published": "2026-07-12T12:30:00Z"
         },
         {
+          "title": "TSMC Q2 revenue jumps 36% from a year earlier, beating market expectations",
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-q2-revenue-jumps-36-053756945.html",
+          "publisher": "Reuters",
+          "published": "2026-07-13T05:37:56Z"
+        },
+        {
           "title": "Avoid This Hidden Risk of Index Funds",
           "url": "https://finance.yahoo.com/markets/options/articles/avoid-hidden-risk-index-funds-052000657.html",
           "publisher": "Motley Fool",
           "published": "2026-07-13T05:20:00Z"
-        },
-        {
-          "title": "My Top 3 Software Stocks to Buy on the Dip",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-software-stocks-buy-050500630.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-13T05:05:00Z"
         }
       ]
     },
@@ -43,6 +41,12 @@
       "market_cap": 2251500157809.6895,
       "headlines": [
         {
+          "title": "TSMC Q2 revenue jumps 36% from a year earlier, beating market expectations",
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-q2-revenue-jumps-36-053756945.html",
+          "publisher": "Reuters",
+          "published": "2026-07-13T05:37:56Z"
+        },
+        {
           "title": "TSMC to add 2 advanced chip packaging plants in Chiayi, Taiwan minister says",
           "url": "https://finance.yahoo.com/technology/articles/tsmc-add-2-advanced-chip-034251421.html",
           "publisher": "Reuters",
@@ -53,12 +57,6 @@
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-attacks-nvidia-micron-sandisk-taiwan-semiconductor/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-07-13T03:11:41Z"
-        },
-        {
-          "title": "Taiwan Semi Stock Is Approaching Fair Value Ahead of July 16. How to Play TSM Here.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semi-stock-approaching-fair-194605952.html",
-          "publisher": "Barchart",
-          "published": "2026-07-12T19:46:05Z"
         }
       ]
     },
@@ -369,6 +367,34 @@
           "published": "2026-07-09T17:13:37Z"
         }
       ]
+    },
+    {
+      "symbol": "CEVA",
+      "name": "CEVA",
+      "price": 45.54,
+      "previous_close": 46.82,
+      "change_pct": -2.73,
+      "market_cap": 1268715689.766014,
+      "headlines": [
+        {
+          "title": "Why CEVA (CEVA) Is Up 12.7% After Securing Landmark Edge AI Licensing Deal With Platform Giant",
+          "url": "https://finance.yahoo.com/technology/ai/articles/why-ceva-ceva-12-7-160735099.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-07-11T16:07:35Z"
+        },
+        {
+          "title": "CEVA (CEVA) Lands A New AI Deal, Does It Look Fully Valued?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-ceva-lands-ai-deal-131105879.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-07-11T13:11:05Z"
+        },
+        {
+          "title": "Analysts Think AI Demand Has No Ceiling And Raised AMD\u2019s Price Target Again",
+          "url": "https://finance.yahoo.com/technology/ai/articles/analysts-think-ai-demand-no-160100629.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-07-10T16:01:00Z"
+        }
+      ]
     }
   ],
   "etfs": [
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -14.17,
-          "price": 1871000.0,
+          "change_pct": -12.34,
+          "price": 1911000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -10.35,
-          "price": 255500.0,
+          "change_pct": -9.12,
+          "price": 259000.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -13.69,
-          "price": 66460.0,
+          "change_pct": -10.36,
+          "price": 69020.0,
           "currency": "JPY"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -2.53,
-          "price": 424.5,
+          "change_pct": -2.87,
+          "price": 423.0,
           "currency": "TWD"
         },
         {
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -5.1,
-          "price": 167.5,
+          "change_pct": -5.38,
+          "price": 167.0,
           "currency": "TWD"
         }
       ]
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -14.17,
-        "price": 1871000.0,
+        "change_pct": -12.34,
+        "price": 1911000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -10.35,
-        "price": 255500.0,
+        "change_pct": -9.12,
+        "price": 259000.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -13.69,
-        "price": 66460.0,
+        "change_pct": -10.36,
+        "price": 69020.0,
         "currency": "JPY"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -2.53,
-        "price": 424.5,
+        "change_pct": -2.87,
+        "price": 423.0,
         "currency": "TWD"
       },
       {
@@ -545,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -5.1,
-        "price": 167.5,
+        "change_pct": -5.38,
+        "price": 167.0,
         "currency": "TWD"
       }
     ]
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 62743.85,
-      "change_pct": -1.66
+      "price": 63802.03,
+      "change_pct": -0.51
     },
     {
       "label": "Gold",
-      "price": 4070.5,
-      "change_pct": -0.82
+      "price": 4071.6,
+      "change_pct": -0.79
     },
     {
       "label": "Nasdaq100",

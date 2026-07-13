@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-13T08:07:00+00:00",
-  "as_of_local": "2026-07-13 08:07:00 UTC",
+  "as_of_utc": "2026-07-13T08:12:02+00:00",
+  "as_of_local": "2026-07-13 08:12:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-marvell-trade-price-154221602.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-07-12T15:42:21Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 189.16,
-      "previous_close": 191.11,
-      "change_pct": -1.02,
-      "market_cap": 199374643859.86328,
-      "headlines": [
-        {
-          "title": "QUALCOMM (QCOM) Unveils Snapdragon Reality Elite For On Device AI And Spatial Computing",
-          "url": "https://finance.yahoo.com/technology/articles/qualcomm-qcom-unveils-snapdragon-reality-031245134.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-13T03:12:45Z"
-        },
-        {
-          "title": "Taiwan Semi Stock Is Approaching Fair Value Ahead of July 16. How to Play TSM Here.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semi-stock-approaching-fair-194605952.html",
-          "publisher": "Barchart",
-          "published": "2026-07-12T19:46:05Z"
-        },
-        {
-          "title": "Is Qualcomm (QCOM) is One of the Best Quality Stocks to Buy According to Wall Street Analysts?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-one-best-quality-124410921.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-07-12T16:38:10Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62985.99,
-      "change_pct": -1.21
+      "price": 62904.07,
+      "change_pct": -1.34
     },
     {
       "label": "Gold",
-      "price": 4069.1,
-      "change_pct": -0.85
+      "price": 4074.1,
+      "change_pct": -0.73
     },
     {
       "label": "Nasdaq100",

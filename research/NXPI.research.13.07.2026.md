@@ -36,10 +36,10 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
+| Stocks Retreat on Chipmaker Weakness and US-Iran Standoff | Barchart | 2026-07-13 |
 | 5 Analog Chip Stocks Set to Rebound as the Cycle Changes | 24/7 Wall St. | 2026-07-12 |
 | Can TXN's Embedded Business Extend Its Double-Digit Growth Run? | Zacks | 2026-07-10 |
 | Nvidia, Chip Stocks Rally Despite U.S.-Iran War Flare-Up | Investor's Business Daily | 2026-07-08 |
-| Texas Instruments Stock Is Running On A Bold Promise | Trefis | 2026-07-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

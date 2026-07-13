@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-13T12:22:10+00:00",
-  "as_of_local": "2026-07-13 12:22:10 UTC",
+  "as_of_utc": "2026-07-13T12:27:05+00:00",
+  "as_of_local": "2026-07-13 12:27:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -59,6 +57,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/equity-futures-down-amid-middle-115445280.html",
           "publisher": "MT Newswires",
           "published": "2026-07-13T11:54:45Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 399.97,
+      "previous_close": 401.11,
+      "change_pct": -0.28,
+      "market_cap": 1902889357601.653,
+      "headlines": [
+        {
+          "title": "SK Hynix stock drops, chip sector declines as AI trade angst returns",
+          "url": "https://finance.yahoo.com/markets/article/sk-hynix-stock-drops-chip-sector-declines-as-ai-trade-angst-returns-120751185.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-13T12:07:51Z"
+        },
+        {
+          "title": "Apple Heads Into Earnings This Month With This Analyst Seeing Margin Expansion, 16% Upside Ahead",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-heads-earnings-month-analyst-114401031.html",
+          "publisher": "Stocktwits",
+          "published": "2026-07-13T11:44:01Z"
+        },
+        {
+          "title": "AI Chips Today - AI Advancements Revolutionize Drug Discovery and Cancer Treatment",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-today-ai-advancements-113732044.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-07-13T11:37:32Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 62717.98,
-      "change_pct": -1.63
+      "price": 62789.2,
+      "change_pct": -1.52
     },
     {
       "label": "Gold",
-      "price": 4064.0,
-      "change_pct": -0.98
+      "price": 4066.7,
+      "change_pct": -0.91
     },
     {
       "label": "Nasdaq100",

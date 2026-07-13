@@ -38,8 +38,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 |---|---|---|
 | What investors can expect this earnings season | Yahoo Finance Video | 2026-07-13 |
 | Nvidia, Micron, and other chip players are poised to become cash-producing machines | Yahoo Finance | 2026-07-13 |
+| Micron (MU) Just Put $3 Billion Into GlobalWafers To Secure AI Supply | Simply Wall St. | 2026-07-13 |
 | Dow Jones Futures: Nasdaq Sells Off, Oil Prices Spike On Trump Blockade; Micron, Sandisk, SK Hynix, SpaceX Dive | Investor's Business Daily | 2026-07-13 |
-| Stock Market Today: Dow, Nasdaq Close Lower As Oil Prices Spike; This Memory ETF In Bear Market | Investor's Business Daily | 2026-07-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -37,9 +37,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | SK Hynix stock falls, leads broader chip sector declines as AI trade angst returns | Yahoo Finance | 2026-07-13 |
+| TSMC Sales Jump 36% as Memory Stocks Plunge. What It Means for NVIDIA and AMD | 24/7 Wall St. | 2026-07-13 |
 | Stocks to Watch: SK Hynix, SpaceX, Intel | The Wall Street Journal | 2026-07-13 |
 | U.S. Stocks Fall as AI Selloff, Oil Jump Rattle Markets | The Wall Street Journal | 2026-07-13 |
-| SK Hynix, Sandisk, AppLovin, Intuit, Meta, SpaceX, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

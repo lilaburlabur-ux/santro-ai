@@ -18,7 +18,7 @@ Signed file: `NXPI.research.13.07.2026`
 | Technical momentum | Moderate | 1Y +21.51%; price +17.55% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -16.03% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 21.03%, revenue growth 12.20%. |
-| Value attractiveness | Reasonable | Forward P/E 15.72, EV/Sales 6.51. |
+| Value attractiveness | Reasonable | Forward P/E 15.69, EV/Sales 6.51. |
 | Risk level | High | Beta 1.80, ATR 5.2% of price, short float 3.87%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -36,10 +36,10 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
-| Stocks Retreat on Chipmaker Weakness and US-Iran Standoff | Barchart | 2026-07-13 |
 | 5 Analog Chip Stocks Set to Rebound as the Cycle Changes | 24/7 Wall St. | 2026-07-12 |
 | Can TXN's Embedded Business Extend Its Double-Digit Growth Run? | Zacks | 2026-07-10 |
 | Nvidia, Chip Stocks Rally Despite U.S.-Iran War Flare-Up | Investor's Business Daily | 2026-07-08 |
+| Texas Instruments Stock Is Running On A Bold Promise | Trefis | 2026-07-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Revenue (ttm) | $12.62B | Revenue growth 12.20% y/y |
 | Profitability | Gross 55.63%, operating 27.66%, net 21.03% | ROA 8.14%, ROE 25.81% |
 | Balance sheet | Cash $3.71B, debt $11.72B | Current ratio 2.24, debt/equity 103.99 |
-| Valuation | P/E 26.61, forward P/E 15.72, P/S 5.57, P/B 6.44 | EV/Sales 6.51, EV/EBITDA 19.74 |
+| Valuation | P/E 26.61, forward P/E 15.69, P/S 5.57, P/B 6.44 | EV/Sales 6.51, EV/EBITDA 19.74 |
 | Growth expectations | Earnings growth 130.70%, EPS q/q 129.00% | Analyst mean target $308.07 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | 52W high | $331.55 | Revenue growth y/y | 12.20% |
 | 52W low | $181.81 | Inst. ownership | 100.82% |
 | P/E (ttm) | 26.61 | Insider ownership | 0.14% |
-| Forward P/E | 15.72 | Short float | 3.87% |
+| Forward P/E | 15.69 | Short float | 3.87% |
 | PEG (trailing) | 0.75 | Avg volume | 4,135,191 |
 | P/S | 5.57 | Employees | 32,169 |
 | P/B | 6.44 | Analyst rec (1=buy..5=sell) | 1.7 |

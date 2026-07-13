@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| TSMC Sales Jump 36% as Memory Stocks Plunge. What It Means for NVIDIA and AMD | 24/7 Wall St. | 2026-07-13 |
 | Stock Market Today: Dow, Nasdaq Close Lower As Oil Prices Spike; This Memory ETF In Bear Market | Investor's Business Daily | 2026-07-13 |
 | Arm And Marvell Tumble As Chip Stocks Sell Off | Investor's Business Daily | 2026-07-13 |
 | Taiwan Semiconductor Posts Stronger-Than-Expected June Sales | Investor's Business Daily | 2026-07-13 |
-| SK Hynix, Sandisk, AppLovin, Intuit, Meta, SpaceX, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

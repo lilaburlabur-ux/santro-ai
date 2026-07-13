@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Retail investors are cashing out of Apple, Tesla, and chip stocks: Chart of the Day | Yahoo Finance | 2026-07-13 |
-| President Trump Moves to Reinstate a Blockade of the Strait of Hormuz as Oil Prices Jump Above $79 a Barrel. Are Oil Stocks Worth Buying Now? | Motley Fool | 2026-07-13 |
-| SpaceX Just Did Something NuScale Power Investors Should Be Watching | Motley Fool | 2026-07-13 |
-| Stocks to Watch: SK Hynix, SpaceX, Intel | The Wall Street Journal | 2026-07-13 |
+| Why FuboTV Stock Rallied Today | Motley Fool | 2026-07-13 |
+| Here's Why USA Rare Earth Stock Rocketed 81% Higher in the First Half of 2026 | Motley Fool | 2026-07-13 |
+| TSMC Sales Jump 36% as Memory Stocks Plunge. What It Means for NVIDIA and AMD | 24/7 Wall St. | 2026-07-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

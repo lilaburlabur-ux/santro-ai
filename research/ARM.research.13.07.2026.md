@@ -38,8 +38,8 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 |---|---|---|
 | SK Hynix stock falls, leads broader chip sector declines as AI trade angst returns | Yahoo Finance | 2026-07-13 |
 | Arm And Marvell Tumble As Chip Stocks Sell Off | Investor's Business Daily | 2026-07-13 |
-| Stocks Retreat on Chipmaker Weakness and US-Iran Standoff | Barchart | 2026-07-13 |
 | Intel, AMD, and Applied Materials Drop 4% as SK Hynix Rout and Oil Spike Hit Chip Stocks | 24/7 Wall St. | 2026-07-13 |
+| 5 Under the Radar AI Chip Stocks Powering the Data Center Boom | 24/7 Wall St. | 2026-07-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

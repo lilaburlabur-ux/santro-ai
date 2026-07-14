@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia, Intel and Micron Rebound as Chip Stocks Shake Off War Fears | GuruFocus.com | 2026-07-14 |
-| Why AMD (AMD) Stock Is Up Today | StockStory | 2026-07-14 |
-| These Chip Stocks Are Staying Strong In A Choppy Market | Investor's Business Daily | 2026-07-14 |
-| Sector Update: Tech Stocks Rise Late Afternoon | MT Newswires | 2026-07-14 |
+| Why FormFactor (FORM) Stock Is Trading Up Today | StockStory | 2026-07-14 |
+| Advanced Micro Devices, Inc. (AMD) Stock Surges as Goldman Sees Big Earnings Coming | Insider Monkey | 2026-07-14 |
+| The Real Risk Inside Broadcom Stock | Trefis | 2026-07-14 |
+| NVIDIA Stock Amplifies Your Market Ride | Trefis | 2026-07-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

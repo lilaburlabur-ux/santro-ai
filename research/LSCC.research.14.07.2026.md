@@ -36,10 +36,10 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 
 | Headline | Source | Date |
 |---|---|---|
+| MACOM, Lattice Semiconductor, and Amtech Shares Skyrocket, What You Need To Know | StockStory | 2026-07-14 |
 | Lattice Semiconductor CEO Ford Tamer Sells Shares. What Does This Mean for Investors? | Motley Fool | 2026-07-14 |
 | Lattice Semiconductor (LSCC) Stock Trades Up, Here Is Why | StockStory | 2026-07-06 |
 | Western Digital, MACOM, and Lattice Semiconductor Shares Are Falling, What You Need To Know | StockStory | 2026-07-03 |
-| Lam Research Stock Surges 154% in H1'26: Should You Buy More or Exit? | Zacks | 2026-07-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

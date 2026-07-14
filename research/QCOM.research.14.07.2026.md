@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| The Real Risk Inside Broadcom Stock | Trefis | 2026-07-14 |
+| NVIDIA Stock Amplifies Your Market Ride | Trefis | 2026-07-14 |
+| QCOM: A Cash Gusher At A Marked-Down Price | Trefis | 2026-07-14 |
 | TYLSemi raises $43 million to create building blocks of custom AI chips | Reuters | 2026-07-14 |
-| Intel, ARM face near-term pain while AMD rides server boom: BofA | Proactive | 2026-07-14 |
-| Micron Stock Looks Transformed. One Number Shows The Old Risk Lingers. | Trefis | 2026-07-14 |
-| What Intel Stock's Data Center Was Saying Before The Surge | Trefis | 2026-07-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

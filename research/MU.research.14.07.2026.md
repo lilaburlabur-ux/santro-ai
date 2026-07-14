@@ -18,7 +18,7 @@ Signed file: `MU.research.14.07.2026`
 | Technical momentum | High | 1Y +690.73%; price +108.17% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -18.98% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 55.91%, revenue growth 345.70%. |
-| Value attractiveness | Reasonable | Forward P/E 6.57, EV/Sales 11.51. |
+| Value attractiveness | Reasonable | Forward P/E 6.53, EV/Sales 11.51. |
 | Risk level | High | Beta 2.14, ATR 8.6% of price, short float 2.81%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -38,8 +38,6 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 |---|---|---|
 | GraniteShares launches new SK Hynix ETFs | Yahoo Finance Video | 2026-07-14 |
 | Micron and Nvidia are powering a $700 billion chip profit boom: Chart of the Day | Yahoo Finance | 2026-07-14 |
-| Samsung Eyes Broader U.S. Investor Base | GuruFocus.com | 2026-07-14 |
-| Nvidia, Intel and Micron Rebound as Chip Stocks Shake Off War Fears | GuruFocus.com | 2026-07-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +66,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
-| Valuation | P/E 22.23, forward P/E 6.57, P/S 12.30, P/B 15.30 | EV/Sales 11.51, EV/EBITDA 15.22 |
+| Valuation | P/E 22.23, forward P/E 6.53, P/S 12.30, P/B 15.30 | EV/Sales 11.51, EV/EBITDA 15.22 |
 | Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,486.00 (42 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +119,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | 52W high | $1,213.37 | Revenue growth y/y | 345.70% |
 | 52W low | $104.71 | Inst. ownership | 81.31% |
 | P/E (ttm) | 22.23 | Insider ownership | 0.25% |
-| Forward P/E | 6.57 | Short float | 2.81% |
+| Forward P/E | 6.53 | Short float | 2.81% |
 | PEG (trailing) | 0.14 | Avg volume | 51,167,021 |
 | P/S | 12.30 | Employees | 53,000 |
 | P/B | 15.30 | Analyst rec (1=buy..5=sell) | 1.4 |

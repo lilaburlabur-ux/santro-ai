@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
-| TYLSemi raises $43 million to create building blocks of custom AI chips | Reuters | 2026-07-14 |
-| Broadcom Inc. (AVGO) Secures Role as Key Apple Supplier with Chip Deal through 2031 | Insider Monkey | 2026-07-14 |
-| Most Stocks in the S&P 500 Are Actually Trading Lower | Barrons.com | 2026-07-14 |
-| AVGO Dragged You Through a 30% Plunge for 16%. QQQ Just Went Up 18% | 24/7 Wall St. | 2026-07-14 |
+| Broadcom Inc. (AVGO) Agreement a Strategic Positive for Apple, says Evercore ISI | Insider Monkey | 2026-07-14 |
+| The Real Risk Inside Broadcom Stock | Trefis | 2026-07-14 |
+| NVIDIA Stock Amplifies Your Market Ride | Trefis | 2026-07-14 |
+| QCOM: A Cash Gusher At A Marked-Down Price | Trefis | 2026-07-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

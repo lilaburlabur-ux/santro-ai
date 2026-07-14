@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Taiwan Semiconductor Manufacturing Company Limited (TSM) Not at Risk of Losing Competitive Edge, CEO Says | Insider Monkey | 2026-07-14 |
+| ASML Stock Rises Ahead of Earnings with Eyes on Potential Sales Boost | Barrons.com | 2026-07-14 |
 | Wedbush Delivers an Urgent Message for TSMC Stock Investors | GuruFocus.com | 2026-07-14 |
 | The Great Tech Rotation Just Triggered a Flawless Entry Point Into the World’s Ultimate Hardware Play | 24/7 Wall St. | 2026-07-14 |
-| Buying TSMC Stock Before July 16 Just Became a No-Brainer Due to This Massive News | Motley Fool | 2026-07-14 |
-| The 1 Number That Sets the Record Straight on AI Chip Demand: $75 Billion | 24/7 Wall St. | 2026-07-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
+| NVIDIA Stock Amplifies Your Market Ride | Trefis | 2026-07-14 |
 | Nvidia, Intel and Micron Rebound as Chip Stocks Shake Off War Fears | GuruFocus.com | 2026-07-14 |
+| QCOM: A Cash Gusher At A Marked-Down Price | Trefis | 2026-07-14 |
 | Jim Cramer Compared Intel Corporation (INTC) & Pepsi | Insider Monkey | 2026-07-14 |
-| AMD Stock Jumps. Why This Analyst Sees 31% Upside. | Barrons.com | 2026-07-14 |
-| UBS Raises its Price Target on Astera Labs, Inc. (ALAB) | Insider Monkey | 2026-07-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

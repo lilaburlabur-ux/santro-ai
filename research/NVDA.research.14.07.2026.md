@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Chinese AI model developer DeepSeek preps for IPO: What to know | Yahoo Finance Video | 2026-07-14 |
+| New York enacts statewide moratorium on AI data center construction: A closer look | Yahoo Finance Video | 2026-07-14 |
+| Why Fortune 500 companies are flocking to open source AI | Yahoo Finance Video | 2026-07-13 |
 | Nvidia Slashes AI Chip Buyer List as China Crackdown Intensifies | GuruFocus.com | 2026-07-14 |
 | Nvidia's China Compliance Push Gets Tougher | GuruFocus.com | 2026-07-14 |
-| Nvidia, Intel and Micron Rebound as Chip Stocks Shake Off War Fears | GuruFocus.com | 2026-07-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

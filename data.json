@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-14T21:05:20+00:00",
-  "as_of_local": "2026-07-14 21:05:20 UTC",
+  "as_of_utc": "2026-07-14T21:07:52+00:00",
+  "as_of_local": "2026-07-14 21:07:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVAV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -315,6 +313,34 @@
       ]
     },
     {
+      "symbol": "AVAV",
+      "name": "AeroVironment",
+      "price": 143.47,
+      "previous_close": 141.8,
+      "change_pct": 1.18,
+      "market_cap": 7260734125.87738,
+      "headlines": [
+        {
+          "title": "Drone Stocks Are Back In Play: Why RCAT, AVAV, KTOS, UMAC Stocks Are Climbing",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/drone-stocks-back-play-why-051944484.html",
+          "publisher": "Stocktwits",
+          "published": "2026-07-14T05:19:44Z"
+        },
+        {
+          "title": "AeroVironment Flies Under Wall Street\u2019s Radar Toward a $4 Billion Target",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-flies-under-wall-street-154500859.html",
+          "publisher": "MarketBeat",
+          "published": "2026-07-10T15:45:00Z"
+        },
+        {
+          "title": "AeroVironment Plots Revenue Doubling to $4 Billion on Defense Drone Demand",
+          "url": "https://finance.yahoo.com/technology/articles/aerovironment-plots-revenue-doubling-4-020205014.html",
+          "publisher": "MarketBeat",
+          "published": "2026-07-10T02:02:05Z"
+        }
+      ]
+    },
+    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 122.84,
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64506.73,
-      "change_pct": 3.64
+      "price": 64534.19,
+      "change_pct": 3.69
     },
     {
       "label": "Gold",
-      "price": 4058.4,
-      "change_pct": 1.54
+      "price": 4059.5,
+      "change_pct": 1.56
     },
     {
       "label": "Nasdaq100",

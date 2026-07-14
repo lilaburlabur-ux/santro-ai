@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Micron and Nvidia are powering a $700 billion chip profit boom: Chart of the Day | Yahoo Finance | 2026-07-14 |
-| Why Fortune 500 companies are flocking to open source AI | Yahoo Finance Video | 2026-07-13 |
-| 3 Rock-Solid Dividend Stocks to Buy and Hold for Decades | Motley Fool | 2026-07-14 |
-| Chevron Entered The AI Power Business. The Oil Patch Won't Be The Same. | Investor's Business Daily | 2026-07-14 |
+| Chinese AI model developer DeepSeek preps for IPO: What to know | Yahoo Finance Video | 2026-07-14 |
+| Nvidia Slashes AI Chip Buyer List as China Crackdown Intensifies | GuruFocus.com | 2026-07-14 |
+| Nvidia's China Compliance Push Gets Tougher | GuruFocus.com | 2026-07-14 |
+| Nvidia, Intel and Micron Rebound as Chip Stocks Shake Off War Fears | GuruFocus.com | 2026-07-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

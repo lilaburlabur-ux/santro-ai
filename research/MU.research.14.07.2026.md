@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| GraniteShares launches new SK Hynix ETFs | Yahoo Finance Video | 2026-07-14 |
 | Micron and Nvidia are powering a $700 billion chip profit boom: Chart of the Day | Yahoo Finance | 2026-07-14 |
-| What investors can expect this earnings season | Yahoo Finance Video | 2026-07-13 |
-| Micron Stock Jumps—Why It Can Rise Another 90% | Barrons.com | 2026-07-14 |
-| SK Hynix Stock Surges More Than 20%—and Is Now Worth 40% More Than South Korean Shares | Barrons.com | 2026-07-14 |
+| Samsung Eyes Broader U.S. Investor Base | GuruFocus.com | 2026-07-14 |
+| Nvidia, Intel and Micron Rebound as Chip Stocks Shake Off War Fears | GuruFocus.com | 2026-07-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

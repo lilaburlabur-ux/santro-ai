@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Nvidia, Intel and Micron Rebound as Chip Stocks Shake Off War Fears | GuruFocus.com | 2026-07-14 |
+| Why AMD (AMD) Stock Is Up Today | StockStory | 2026-07-14 |
+| These Chip Stocks Are Staying Strong In A Choppy Market | Investor's Business Daily | 2026-07-14 |
 | Sector Update: Tech Stocks Rise Late Afternoon | MT Newswires | 2026-07-14 |
-| AMD Stock Jumps. Why This Analyst Sees 31% Upside. | Barrons.com | 2026-07-14 |
-| UBS Raises its Price Target on Astera Labs, Inc. (ALAB) | Insider Monkey | 2026-07-14 |
-| Goldman Sachs Raises its Price Target on Advanced Micro Devices, Inc. (AMD) | Insider Monkey | 2026-07-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

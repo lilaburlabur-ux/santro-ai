@@ -38,8 +38,8 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 |---|---|---|
 | TYLSemi raises $43 million to create building blocks of custom AI chips | Reuters | 2026-07-14 |
 | Stocks to Watch: Goldman Sachs, Citi, BP | The Wall Street Journal | 2026-07-14 |
-| Stocks Rally on Fed-Friendly CPI Report | Barchart | 2026-07-14 |
 | AXTI Falls Below 50-Day SMA: Is It Time to Hold or Exit the Stock? | Zacks | 2026-07-14 |
+| NVIDIA's AI Partnerships Expand: Can This Keep NVDA Ahead of Rivals? | Zacks | 2026-07-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

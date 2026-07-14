@@ -36,10 +36,10 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
-| Stocks Rally on Fed-Friendly CPI Report | Barchart | 2026-07-14 |
 | Price Prediction: ON Semiconductor’s Rally May Be Far From Over | 24/7 Wall St. | 2026-07-14 |
 | Power Integrations, NXP Semiconductors, and Universal Display Shares Are Falling, What You Need To Know | StockStory | 2026-07-14 |
 | 5 Analog Chip Stocks Set to Rebound as the Cycle Changes | 24/7 Wall St. | 2026-07-12 |
+| Can TXN's Embedded Business Extend Its Double-Digit Growth Run? | Zacks | 2026-07-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

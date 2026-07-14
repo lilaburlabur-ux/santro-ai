@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-14T21:05:23+00:00",
+  "as_of": "2026-07-14T21:10:50+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "IBM",
    "company": "International Business Machines Corp",
-   "move_pct": -24.57,
-   "price": 218.93,
+   "move_pct": -24.48,
+   "price": 219.18,
    "volume": 66683527,
    "volume_vs_avg": "~7x",
    "heat_score": 99,
@@ -25,29 +25,13 @@
   },
   {
    "rank": 2,
-   "ticker": "SKHY",
-   "company": "SK hynix Inc (ADR)",
-   "move_pct": 21.27,
-   "price": 186.17,
-   "volume": 68533119,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 82,
-   "direction": "up",
-   "why": "Jim Cramer Discusses Key Supply Issue For SK Hynix (SKHY)",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-key-supply-203554016.html",
-   "published": "2026-07-14T20:35:54Z",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 3,
    "ticker": "CRWD",
    "company": "Crowdstrike Holdings Inc",
-   "move_pct": 12.87,
-   "price": 212.1,
+   "move_pct": 12.81,
+   "price": 211.98,
    "volume": 11893962,
    "volume_vs_avg": "~0.9x",
-   "heat_score": 75,
+   "heat_score": 74,
    "direction": "up",
    "why": "Dow Jones Futures: Goldman, CrowdStrike Jump, AI Stocks Need To Do This; ASML, Morgan Stanley Due",
    "catalyst_type": "momentum_narrative",
@@ -56,14 +40,14 @@
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "ticker": "OKTA",
    "company": "Okta Inc",
-   "move_pct": 10.87,
-   "price": 154.69,
+   "move_pct": 11.06,
+   "price": 154.96,
    "volume": 4517498,
    "volume_vs_avg": "~1.0x",
-   "heat_score": 68,
+   "heat_score": 69,
    "direction": "up",
    "why": "Okta and Palo Alto Networks Stocks Trade Up, What You Need To Know",
    "catalyst_type": "momentum_narrative",
@@ -72,11 +56,11 @@
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "ISRG",
    "company": "Intuitive Surgical Inc",
-   "move_pct": -6.62,
-   "price": 380.15,
+   "move_pct": -6.6,
+   "price": 380.25,
    "volume": 5668144,
    "volume_vs_avg": "~2x",
    "heat_score": 49,
@@ -88,11 +72,11 @@
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "ticker": "S",
    "company": "SentinelOne Inc",
-   "move_pct": 6.9,
-   "price": 19.83,
+   "move_pct": 6.95,
+   "price": 19.84,
    "volume": 13474584,
    "volume_vs_avg": "~2x",
    "heat_score": 48,
@@ -104,14 +88,14 @@
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "ticker": "ZS",
    "company": "Zscaler Inc",
-   "move_pct": 7.0,
-   "price": 151.75,
+   "move_pct": 6.83,
+   "price": 151.5,
    "volume": 3657861,
    "volume_vs_avg": "~0.8x",
-   "heat_score": 44,
+   "heat_score": 43,
    "direction": "up",
    "why": "Why Are Zscaler (ZS) Shares Soaring Today",
    "catalyst_type": "momentum_narrative",
@@ -120,11 +104,11 @@
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
-   "rank": 8,
+   "rank": 7,
    "ticker": "DELL",
    "company": "Dell Technologies Inc",
-   "move_pct": 7.03,
-   "price": 457.14,
+   "move_pct": 6.9,
+   "price": 456.6,
    "volume": 7160327,
    "volume_vs_avg": "~0.7x",
    "heat_score": 43,
@@ -134,6 +118,22 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/dell-hewlett-packard-enterprise-shares-193511620.html",
    "published": "2026-07-14T19:35:11Z",
    "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 8,
+   "ticker": "PANW",
+   "company": "Palo Alto Networks Inc",
+   "move_pct": 6.88,
+   "price": 353.01,
+   "volume": 5863860,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 42,
+   "direction": "up",
+   "why": "Jim Cramer Reveals Why Palo Alto Networks, Inc. (PANW) Is \u201cUnbelievable\u201d",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-reveals-why-palo-203727289.html",
+   "published": "2026-07-14T20:37:27Z",
+   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

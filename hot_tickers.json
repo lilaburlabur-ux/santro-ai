@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-14T12:15:09+00:00",
+  "as_of": "2026-07-14T12:20:28+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "IBM",
    "company": "International Business Machines Corp",
-   "move_pct": -22.48,
-   "price": 225.0,
+   "move_pct": -22.78,
+   "price": 224.11,
    "volume": 4998500,
    "volume_vs_avg": "~0.5x",
    "heat_score": 80,
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "INTU",
    "company": "Intuit Inc",
-   "move_pct": -6.38,
-   "price": 271.26,
+   "move_pct": -6.47,
+   "price": 271.0,
    "volume": 6555800,
    "volume_vs_avg": "~1.1x",
    "heat_score": 43,

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-14T22:13:40+00:00",
+  "as_of": "2026-07-14T22:18:47+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,30 +17,14 @@
    "volume_vs_avg": "~7x",
    "heat_score": 99,
    "direction": "down",
-   "why": "IBM Loses $69 Billion of Market Value in One Day in Latest AI-Fueled Selloff",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.wsj.com/tech/ai/ibm-stock-profit-warning-earnings-software-8652c06e?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-07-14T21:18:00Z",
+   "why": "Stock Market Today, July 14: IBM Plunges on Second-Quarter Warning as AI Shifts Enterprise Spending",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-july-14-220139791.html",
+   "published": "2026-07-14T22:01:39Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
    "rank": 2,
-   "ticker": "SKHY",
-   "company": "SK hynix Inc (ADR)",
-   "move_pct": 18.76,
-   "price": 182.31,
-   "volume": 68533119,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 82,
-   "direction": "up",
-   "why": "S&P 500, Nasdaq End Higher On Support From Chipmakers, Cybersecurity Stocks And Soft Inflation Data \u2014 NVDA, GS, SKHY, VZ, LCID In Focus",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-end-higher-214304263.html",
-   "published": "2026-07-14T21:43:04Z",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 3,
    "ticker": "CRWD",
    "company": "Crowdstrike Holdings Inc",
    "move_pct": 12.6,
@@ -52,11 +36,11 @@
    "why": "Dow Jones Futures: Goldman, CrowdStrike Jump, AI Stocks Need To Do This; ASML, Morgan Stanley Due",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-goldman-crowdstrike-ai-stocks-asml-morgan-stanley/?src=A00220&yptr=yahoo",
-   "published": "2026-07-14T20:59:20Z",
+   "published": "2026-07-14T21:54:54Z",
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "ticker": "OKTA",
    "company": "Okta Inc",
    "move_pct": 11.0,
@@ -72,7 +56,7 @@
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "S",
    "company": "SentinelOne Inc",
    "move_pct": 7.39,
@@ -88,11 +72,11 @@
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "ticker": "ISRG",
    "company": "Intuitive Surgical Inc",
-   "move_pct": -6.46,
-   "price": 380.8,
+   "move_pct": -6.44,
+   "price": 380.89,
    "volume": 5668144,
    "volume_vs_avg": "~2x",
    "heat_score": 49,
@@ -104,7 +88,7 @@
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "ticker": "ZS",
    "company": "Zscaler Inc",
    "move_pct": 7.26,
@@ -120,20 +104,36 @@
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
-   "rank": 8,
+   "rank": 7,
    "ticker": "ARM",
    "company": "Arm Holdings Plc ADR",
-   "move_pct": -6.82,
-   "price": 278.6,
+   "move_pct": -6.53,
+   "price": 279.47,
    "volume": 8314663,
    "volume_vs_avg": "~0.8x",
-   "heat_score": 43,
+   "heat_score": 42,
    "direction": "down",
    "why": "Arm Holdings plc (ARM) CEO says US would have Difficulty Banning AI CPU chip Exports to China",
    "catalyst_type": "regulatory",
    "source_url": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-plc-arm-ceo-185557648.html",
    "published": "2026-07-14T18:55:57Z",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 8,
+   "ticker": "PANW",
+   "company": "Palo Alto Networks Inc",
+   "move_pct": 6.77,
+   "price": 352.66,
+   "volume": 5863860,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 42,
+   "direction": "up",
+   "why": "CRWD, PANW, ZS, OKTA In Focus \u2014 Cybersecurity Stocks Get Boost As IBM CEO Flags Rising Concerns",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/crwd-panw-zs-okta-focus-204247235.html",
+   "published": "2026-07-14T20:42:47Z",
+   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-14T00:14:27+00:00",
+  "as_of": "2026-07-14T00:19:50+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -121,19 +121,19 @@
   },
   {
    "rank": 8,
-   "ticker": "INTU",
-   "company": "Intuit Inc",
-   "move_pct": 5.38,
-   "price": 289.76,
-   "volume": 5664517,
-   "volume_vs_avg": "~1.0x",
+   "ticker": "LRCX",
+   "company": "Lam Research Corp",
+   "move_pct": -5.83,
+   "price": 329.92,
+   "volume": 9756011,
+   "volume_vs_avg": "~0.7x",
    "heat_score": 39,
-   "direction": "up",
-   "why": "SK Hynix, Sandisk, AppLovin, Intuit, Meta, SpaceX, and More Stocks That Explain Today\u2019s Market",
+   "direction": "down",
+   "why": "Lam Research (LRCX) Suffers a Larger Drop Than the General Market: Key Insights",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.barrons.com/articles/stock-movers-8959cfe7?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-07-13T20:16:00Z",
-   "sector": "AI Applications & Data Software"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-lrcx-suffers-larger-215005370.html",
+   "published": "2026-07-13T21:50:05Z",
+   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

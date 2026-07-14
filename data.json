@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-07-14T00:40:01+00:00",
-  "as_of_local": "2026-07-14 00:40:01 UTC",
+  "as_of_utc": "2026-07-14T00:44:57+00:00",
+  "as_of_local": "2026-07-14 00:44:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -25,10 +25,10 @@
           "published": "2026-07-13T13:53:19Z"
         },
         {
-          "title": "Why Thomson Reuters Stock Crushed it on Monday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-thomson-reuters-stock-crushed-001202016.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-14T00:12:02Z"
+          "title": "The whole chip trade is waiting on one report",
+          "url": "https://finance.yahoo.com/technology/ai/articles/whole-chip-trade-waiting-one-003700565.html",
+          "publisher": "TheStreet",
+          "published": "2026-07-14T00:37:00Z"
         }
       ]
     },
@@ -41,6 +41,12 @@
       "market_cap": 2186513644757.9446,
       "headlines": [
         {
+          "title": "The whole chip trade is waiting on one report",
+          "url": "https://finance.yahoo.com/technology/ai/articles/whole-chip-trade-waiting-one-003700565.html",
+          "publisher": "TheStreet",
+          "published": "2026-07-14T00:37:00Z"
+        },
+        {
           "title": "Analyst Dan Ives Calls Memory Chips the \u201cGolden Child\u201d of the AI Revolution with \u201c15-to-1\u201d Demand-to-Supply Imbalance",
           "url": "https://finance.yahoo.com/technology/ai/articles/analyst-dan-ives-calls-memory-223425937.html",
           "publisher": "24/7 Wall St.",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-sales-jump-36-memory-214500837.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-07-13T21:45:00Z"
-        },
-        {
-          "title": "Stock Market Today: Dow, Nasdaq Close Lower As Oil Prices Spike; This Memory ETF In Bear Market",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-sk-hynix-stock-skhy/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-07-13T20:52:43Z"
         }
       ]
     },
@@ -131,16 +131,16 @@
           "published": "2026-07-13T12:07:51Z"
         },
         {
+          "title": "The whole chip trade is waiting on one report",
+          "url": "https://finance.yahoo.com/technology/ai/articles/whole-chip-trade-waiting-one-003700565.html",
+          "publisher": "TheStreet",
+          "published": "2026-07-14T00:37:00Z"
+        },
+        {
           "title": "Trump Reinstates the Iran Blockade and Demands a 20% Toll as America Becomes Hormuz\u2019s \u201cGuardian\u201d",
           "url": "https://finance.yahoo.com/energy/articles/trump-reinstates-iran-blockade-demands-001638461.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-07-14T00:16:38Z"
-        },
-        {
-          "title": "Advanced Micro Devices (AMD) Suffers a Larger Drop Than the General Market: Key Insights",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-suffers-214501805.html",
-          "publisher": "Zacks",
-          "published": "2026-07-13T21:45:01Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -0.27,
-          "price": 1840000.0,
+          "change_pct": 0.81,
+          "price": 1860000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 1.38,
-          "price": 258000.0,
+          "change_pct": 2.75,
+          "price": 261500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -1.88,
-          "price": 65840.0,
+          "change_pct": -2.85,
+          "price": 65190.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -0.27,
-        "price": 1840000.0,
+        "change_pct": 0.81,
+        "price": 1860000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 1.38,
-        "price": 258000.0,
+        "change_pct": 2.75,
+        "price": 261500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -1.88,
-        "price": 65840.0,
+        "change_pct": -2.85,
+        "price": 65190.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 62291.25,
-      "change_pct": -2.3
+      "price": 63758.22,
+      "change_pct": -0.07
     },
     {
       "label": "Gold",
-      "price": 4002.8,
-      "change_pct": -2.47
+      "price": 4012.5,
+      "change_pct": -2.23
     },
     {
       "label": "Nasdaq100",

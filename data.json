@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-07-15T06:00:21+00:00",
-  "as_of_local": "2026-07-15 06:00:21 UTC",
+  "as_of_utc": "2026-07-15T06:08:11+00:00",
+  "as_of_local": "2026-07-15 06:08:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -237,6 +237,12 @@
       "market_cap": 187717400000.0,
       "headlines": [
         {
+          "title": "QCOM Stock Suffers 3-Day Slide: Short Seller Flags \u2018Hidden\u2019 Anthropic Partnership Code \u2014 Then Finds Deal Wasn\u2019t Real",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qcom-stock-suffers-3-day-055033259.html",
+          "publisher": "Stocktwits",
+          "published": "2026-07-15T05:50:33Z"
+        },
+        {
           "title": "Qualcomm (QCOM) Stock Falls Amid Market Uptick: What Investors Need to Know",
           "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-falls-amid-214503144.html",
           "publisher": "Zacks",
@@ -247,12 +253,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/real-risk-inside-broadcom-stock-212246307.html",
           "publisher": "Trefis",
           "published": "2026-07-14T21:22:46Z"
-        },
-        {
-          "title": "NVIDIA Stock Amplifies Your Market Ride",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-amplifies-market-ride-211111927.html",
-          "publisher": "Trefis",
-          "published": "2026-07-14T21:11:11Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 10.25,
-          "price": 2109000.0,
+          "change_pct": 9.57,
+          "price": 2096000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 6.08,
-          "price": 279000.0,
+          "change_pct": 5.89,
+          "price": 278500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 5.25,
-          "price": 72730.0,
+          "change_pct": 5.5,
+          "price": 72900.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 10.25,
-        "price": 2109000.0,
+        "change_pct": 9.57,
+        "price": 2096000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 6.08,
-        "price": 279000.0,
+        "change_pct": 5.89,
+        "price": 278500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 5.25,
-        "price": 72730.0,
+        "change_pct": 5.5,
+        "price": 72900.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64890.55,
-      "change_pct": 4.26
+      "price": 64926.68,
+      "change_pct": 4.32
     },
     {
       "label": "Gold",
-      "price": 4035.4,
-      "change_pct": -0.63
+      "price": 4039.9,
+      "change_pct": -0.52
     },
     {
       "label": "Nasdaq100",

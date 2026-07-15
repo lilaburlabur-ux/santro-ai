@@ -1,10 +1,9 @@
 {
-  "as_of_utc": "2026-07-15T04:12:37+00:00",
-  "as_of_local": "2026-07-15 04:12:37 UTC",
+  "as_of_utc": "2026-07-15T04:27:32+00:00",
+  "as_of_local": "2026-07-15 04:27:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "NVDA",
-    "MU"
+    "NVDA"
   ],
   "stocks": [
     {
@@ -60,6 +59,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/real-risk-inside-broadcom-stock-212246307.html",
           "publisher": "Trefis",
           "published": "2026-07-14T21:22:46Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 937.0,
+      "previous_close": 979.3,
+      "change_pct": -4.32,
+      "market_cap": 1110328994611.12,
+      "headlines": [
+        {
+          "title": "GraniteShares launches new SK Hynix ETFs",
+          "url": "https://finance.yahoo.com/video/graniteshares-launches-new-sk-hynix-etfs-203436945.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-14T20:34:36Z"
+        },
+        {
+          "title": "Micron and Nvidia are powering a $700 billion chip profit boom: Chart of the Day",
+          "url": "https://finance.yahoo.com/markets/article/micron-and-nvidia-are-powering-a-700-billion-chip-profit-boom-chart-of-the-day-100000068.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-14T10:00:00Z"
+        },
+        {
+          "title": "Micron (MU) Stock May Look Reasonable Despite Fresh AI Expansion Plans",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-stock-may-look-032629369.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-07-15T03:26:29Z"
         }
       ]
     },
@@ -365,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 13.17,
-          "price": 2165000.0,
+          "change_pct": 13.02,
+          "price": 2162000.0,
           "currency": "KRW"
         },
         {
@@ -374,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 7.79,
-          "price": 283500.0,
+          "change_pct": 7.89,
+          "price": 283750.0,
           "currency": "KRW"
         },
         {
@@ -383,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 5.75,
-          "price": 73070.0,
+          "change_pct": 5.46,
+          "price": 72870.0,
           "currency": "JPY"
         },
         {
@@ -419,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 6.81,
-          "price": 478.5,
+          "change_pct": 7.48,
+          "price": 481.5,
           "currency": "TWD"
         },
         {
@@ -455,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 13.17,
-        "price": 2165000.0,
+        "change_pct": 13.02,
+        "price": 2162000.0,
         "currency": "KRW"
       },
       {
@@ -464,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 7.79,
-        "price": 283500.0,
+        "change_pct": 7.89,
+        "price": 283750.0,
         "currency": "KRW"
       },
       {
@@ -473,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 5.75,
-        "price": 73070.0,
+        "change_pct": 5.46,
+        "price": 72870.0,
         "currency": "JPY"
       },
       {
@@ -509,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 6.81,
-        "price": 478.5,
+        "change_pct": 7.48,
+        "price": 481.5,
         "currency": "TWD"
       },
       {
@@ -532,12 +559,12 @@
     },
     {
       "label": "BTC",
-      "price": 64764.49,
-      "change_pct": 4.06
+      "price": 64745.92,
+      "change_pct": 4.03
     },
     {
       "label": "Gold",
-      "price": 4038.9,
+      "price": 4038.8,
       "change_pct": -0.55
     },
     {

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-15T14:44:44+00:00",
+  "as_of": "2026-07-15T14:51:34+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,10 +11,10 @@
    "rank": 1,
    "ticker": "IBM",
    "company": "International Business Machines Corp",
-   "move_pct": -25.64,
-   "price": 215.8,
-   "volume": 10294005,
-   "volume_vs_avg": "~1.0x",
+   "move_pct": -25.79,
+   "price": 215.38,
+   "volume": 10751544,
+   "volume_vs_avg": "~1.1x",
    "heat_score": 83,
    "direction": "down",
    "why": "What\u2019s Next for IBM Stock After 25% Collapse",
@@ -27,10 +27,10 @@
    "rank": 2,
    "ticker": "DELL",
    "company": "Dell Technologies Inc",
-   "move_pct": -12.25,
-   "price": 401.5,
-   "volume": 3722175,
-   "volume_vs_avg": "~0.4x",
+   "move_pct": -12.09,
+   "price": 402.24,
+   "volume": 4136586,
+   "volume_vs_avg": "~0.5x",
    "heat_score": 70,
    "direction": "down",
    "why": "Dell Stock Lit The Afterburners. Is There Enough Fuel For The Trip?",
@@ -43,9 +43,9 @@
    "rank": 3,
    "ticker": "BABA",
    "company": "Alibaba Group Holding Ltd ADR",
-   "move_pct": 6.14,
+   "move_pct": 6.13,
    "price": 119.21,
-   "volume": 10566160,
+   "volume": 10812054,
    "volume_vs_avg": "~0.8x",
    "heat_score": 40,
    "direction": "up",
@@ -54,22 +54,6 @@
    "source_url": "https://finance.yahoo.com/technology/ai/articles/apple-intelligence-approved-china-alibaba-131501096.html",
    "published": "2026-07-15T13:15:01Z",
    "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 4,
-   "ticker": "ANET",
-   "company": "Arista Networks Inc",
-   "move_pct": -5.13,
-   "price": 173.21,
-   "volume": 1886875,
-   "volume_vs_avg": "~0.2x",
-   "heat_score": 34,
-   "direction": "down",
-   "why": "Beyond The Sticker Price: What Arista Networks Stock Really Costs",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/beyond-sticker-price-arista-networks-130344240.html",
-   "published": "2026-07-15T13:03:44Z",
-   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

@@ -560,7 +560,7 @@ arm();mq.addEventListener?mq.addEventListener("change",arm):mq.addListener(arm);
   "use strict";
   var input=document.getElementById("fv-input"), sugg=document.getElementById("fv-sugg"),
       cur=document.getElementById("fv-cur"), mount=document.getElementById("sa-calc-mount");
-  var idx=[], sel=0, rows=[], current=null;
+  var idx=[], sel=0, rows=[], current=null, uniSet={};
 
   function fmtCap(b){ return b>=1000 ? "$"+(b/1000).toFixed(2)+"T" : "$"+Math.round(b)+"B"; }
   function mountCalc(t){
@@ -580,7 +580,7 @@ arm();mq.addEventListener?mq.addEventListener("change",arm):mq.addListener(arm);
       (t.price!=null?" · $"+Number(t.price).toFixed(2):"")+
       (t.pe!=null?" · P/E "+t.pe:"")+
       (t.market_cap_b?" · "+fmtCap(t.market_cap_b):"")+
-      ' · <a href="/t?sym='+encodeURIComponent(t.ticker)+'">full ticker page →</a>'+
+      ' · <a href="'+(uniSet[t.ticker]?"/stocks/"+t.ticker.toLowerCase():"/t?sym="+encodeURIComponent(t.ticker))+'">full ticker page →</a>'+
       ' <span id="fvc-watch" style="margin-left:6px"></span>';
     if(window.SantroWatch) SantroWatch.mount(document.getElementById("fvc-watch"), t.ticker, {variant:"button"});
     mountCalc(t);
@@ -593,7 +593,8 @@ arm();mq.addEventListener?mq.addEventListener("change",arm):mq.addListener(arm);
     ]).then(function(res){
       var seen={};
       var add=function(t){ if(t.ticker && !seen[t.ticker]){ seen[t.ticker]=1; idx.push(t); } };
-      (res[0].bubbles||[]).forEach(function(b){ (b.tickers||[]).forEach(add); });
+      // universe tickers all have canonical /stocks/<sym> pages; ecosystem extras may not
+      (res[0].bubbles||[]).forEach(function(b){ (b.tickers||[]).forEach(function(t){ uniSet[t.ticker]=1; add(t); }); });
       (res[1].tickers||[]).forEach(add);
     });
   }

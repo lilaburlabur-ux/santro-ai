@@ -1006,8 +1006,11 @@ function row(e){
   const h = (window.ETF_HOLDINGS||{})[e.t];
   const holdsCell = (h&&h.nh) ? String(h.nh) : (e.holds||"—");
   const c10 = (h&&h.c10!=null) ? Math.round(h.c10)+"%" : "—";
+  // canonical /etfs/<sym> page exists for every non-closed fund; the noindexed
+  // /e?sym= twin remains only for closed funds with no static page (e.g. IRBO)
+  const url = e.risk==="closed" ? `/e?sym=${encodeURIComponent(e.t)}` : `/etfs/${e.t.toLowerCase()}`;
   return `<tr>
-    <td><a class="tk" href="/e?sym=${encodeURIComponent(e.t)}">${esc(e.t)}</a>${rbadge(e.risk)}${spv}</td>
+    <td><a class="tk" href="${url}">${esc(e.t)}</a>${rbadge(e.risk)}${spv}</td>
     <td><span class="nm">${esc(e.name)}</span><span class="ins">${esc(e.inside||"")}</span></td>
     <td class="num hide">${esc(e.aum||"—")}</td>
     <td class="num hide">${esc(e.er||"—")}</td>

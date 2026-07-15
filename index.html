@@ -1147,9 +1147,11 @@ Promise.all([
     rows.push({tk:t.ticker,heat:Math.min(99,Math.round(Math.abs(t.change_pct||0)*12)),why:"biggest move in "+(t.industry||"the universe"),move:t.change_pct}); }
   const lockedRows=all.filter(t=>!rows.some(r=>r.tk===t.ticker)).slice(0,5)
     .map((t,i)=>({tk:t.ticker,heat:40+i*9,why:"crowding and theme rotation continue"}));
-  // Canonical ticker URL: /t?sym=X is the dynamic detail page — it 200s for every
-  // ticker (the /stocks/X SEO pages only exist for a subset). One helper, no #.
-  function tickerUrl(tk){ return tk?("/t?sym="+encodeURIComponent(tk)):null; }
+  // Canonical ticker URL: every universe ticker has a static /stocks/<sym> page
+  // (the SEO canonical). /t?sym=X remains ONLY as the fallback for exotic hot
+  // tickers outside the universe (that route is noindexed). One helper, no #.
+  const uniTk=new Set(all.map(t=>t.ticker));
+  function tickerUrl(tk){ return tk?(uniTk.has(tk)?"/stocks/"+tk.toLowerCase():"/t?sym="+encodeURIComponent(tk)):null; }
   // Reusable row. Three explicit states — never a dead active-looking row:
   //  unlocked → whole row is a link (real <a> in the ticker cell for keyboard/SEO,
   //             delegated nav for the rest of the row surface)

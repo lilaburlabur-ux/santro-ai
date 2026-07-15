@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-15T23:03:55+00:00",
+  "as_of": "2026-07-15T23:18:57+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,10 +9,26 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "SKHY",
+   "company": "SK hynix Inc (ADR)",
+   "move_pct": -12.0,
+   "price": 170.64,
+   "volume": 74079707,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 72,
+   "direction": "down",
+   "why": "S&P 500, Dow Edge Higher As Bank Earnings Offset Middle East Oil Concerns \u2014 AAPL, SKHY, ASML, PYPL In Focus",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-edge-higher-214106057.html",
+   "published": "2026-07-15T21:41:06Z",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 2,
    "ticker": "DELL",
    "company": "Dell Technologies Inc",
-   "move_pct": -10.77,
-   "price": 408.26,
+   "move_pct": -10.76,
+   "price": 408.31,
    "volume": 12231829,
    "volume_vs_avg": "~1.3x",
    "heat_score": 69,
@@ -20,23 +36,23 @@
    "why": "Dow Jones Futures: Apple, Google Mask Dell, Sandisk, Micron Sell-Off; J.B. Hunt Jumps Late",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-google-dell-sandisk-micron-sell-off-spacex-ipo-price-taiwan-semiconductor-ge-aero/?src=A00220&yptr=yahoo",
-   "published": "2026-07-15T22:36:49Z",
+   "published": "2026-07-15T23:03:05Z",
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 2,
+   "rank": 3,
    "ticker": "MU",
    "company": "Micron Technology Inc",
-   "move_pct": -8.67,
-   "price": 897.85,
+   "move_pct": -8.38,
+   "price": 900.7,
    "volume": 54188069,
    "volume_vs_avg": "~1.0x",
-   "heat_score": 60,
+   "heat_score": 59,
    "direction": "down",
-   "why": "Dow Jones Futures: Apple, Google Mask Dell, Sandisk, Micron Sell-Off; J.B. Hunt Jumps Late",
+   "why": "Why Micron (MU) Stock Is Trading Lower Today",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-google-dell-sandisk-micron-sell-off-spacex-ipo-price-taiwan-semiconductor-ge-aero/?src=A00220&yptr=yahoo",
-   "published": "2026-07-15T22:36:49Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-mu-stock-trading-230421565.html",
+   "published": "2026-07-15T23:04:21Z",
    "sector": "AI Chips & Compute"
   }
  ]

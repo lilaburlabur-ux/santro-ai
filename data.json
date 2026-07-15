@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-15T03:37:08+00:00",
-  "as_of_local": "2026-07-15 03:37:08 UTC",
+  "as_of_utc": "2026-07-15T03:41:23+00:00",
+  "as_of_local": "2026-07-15 03:41:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/real-risk-inside-broadcom-stock-212246307.html",
           "publisher": "Trefis",
           "published": "2026-07-14T21:22:46Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 983.12,
+      "previous_close": 937.0,
+      "change_pct": 4.92,
+      "market_cap": 1110328989096.505,
+      "headlines": [
+        {
+          "title": "GraniteShares launches new SK Hynix ETFs",
+          "url": "https://finance.yahoo.com/video/graniteshares-launches-new-sk-hynix-etfs-203436945.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-14T20:34:36Z"
+        },
+        {
+          "title": "Micron and Nvidia are powering a $700 billion chip profit boom: Chart of the Day",
+          "url": "https://finance.yahoo.com/markets/article/micron-and-nvidia-are-powering-a-700-billion-chip-profit-boom-chart-of-the-day-100000068.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-14T10:00:00Z"
+        },
+        {
+          "title": "Micron (MU) Stock May Look Reasonable Despite Fresh AI Expansion Plans",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-stock-may-look-032629369.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-07-15T03:26:29Z"
         }
       ]
     },
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 6.56,
-          "price": 280250.0,
+          "change_pct": 6.75,
+          "price": 280750.0,
           "currency": "KRW"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 6.25,
-          "price": 476.0,
+          "change_pct": 6.58,
+          "price": 477.5,
           "currency": "TWD"
         },
         {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 6.56,
-        "price": 280250.0,
+        "change_pct": 6.75,
+        "price": 280750.0,
         "currency": "KRW"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 6.25,
-        "price": 476.0,
+        "change_pct": 6.58,
+        "price": 477.5,
         "currency": "TWD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64670.03,
-      "change_pct": 3.91
+      "price": 64635.93,
+      "change_pct": 3.85
     },
     {
       "label": "Gold",
-      "price": 4038.0,
-      "change_pct": 1.03
+      "price": 4035.1,
+      "change_pct": 0.95
     },
     {
       "label": "Nasdaq100",

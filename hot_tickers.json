@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-15T23:24:11+00:00",
+  "as_of": "2026-07-15T23:33:48+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "SKHY",
    "company": "SK hynix Inc (ADR)",
-   "move_pct": -11.66,
-   "price": 171.3,
+   "move_pct": -11.87,
+   "price": 170.9,
    "volume": 74079707,
    "volume_vs_avg": "~0.9x",
    "heat_score": 71,
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "DELL",
    "company": "Dell Technologies Inc",
-   "move_pct": -10.77,
-   "price": 408.26,
+   "move_pct": -10.78,
+   "price": 408.21,
    "volume": 12231829,
    "volume_vs_avg": "~1.3x",
    "heat_score": 69,
@@ -36,23 +36,23 @@
    "why": "Dow Jones Futures: Apple, Google Mask Dell, Sandisk, Micron Sell-Off; J.B. Hunt Jumps Late",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-google-dell-sandisk-micron-sell-off-spacex-ipo-price-taiwan-semiconductor-ge-aero/?src=A00220&yptr=yahoo",
-   "published": "2026-07-15T23:03:05Z",
+   "published": "2026-07-15T23:18:10Z",
    "sector": "Chip Equipment & AI Hardware"
   },
   {
    "rank": 3,
    "ticker": "MU",
    "company": "Micron Technology Inc",
-   "move_pct": -8.38,
-   "price": 900.7,
+   "move_pct": -8.32,
+   "price": 901.3,
    "volume": 54188069,
    "volume_vs_avg": "~1.0x",
    "heat_score": 59,
    "direction": "down",
-   "why": "Why Micron (MU) Stock Is Trading Lower Today",
+   "why": "Dow Jones Futures: Apple, Google Mask Dell, Sandisk, Micron Sell-Off; J.B. Hunt Jumps Late",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-mu-stock-trading-230421565.html",
-   "published": "2026-07-15T23:04:21Z",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-google-dell-sandisk-micron-sell-off-spacex-ipo-price-taiwan-semiconductor-ge-aero/?src=A00220&yptr=yahoo",
+   "published": "2026-07-15T23:18:10Z",
    "sector": "AI Chips & Compute"
   }
  ]

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-15T03:26:17+00:00",
-  "as_of_local": "2026-07-15 03:26:17 UTC",
+  "as_of_utc": "2026-07-15T03:37:08+00:00",
+  "as_of_local": "2026-07-15 03:37:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/real-risk-inside-broadcom-stock-212246307.html",
           "publisher": "Trefis",
           "published": "2026-07-14T21:22:46Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 983.12,
-      "previous_close": 937.0,
-      "change_pct": 4.92,
-      "market_cap": 1110328989096.505,
-      "headlines": [
-        {
-          "title": "GraniteShares launches new SK Hynix ETFs",
-          "url": "https://finance.yahoo.com/video/graniteshares-launches-new-sk-hynix-etfs-203436945.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-14T20:34:36Z"
-        },
-        {
-          "title": "Micron and Nvidia are powering a $700 billion chip profit boom: Chart of the Day",
-          "url": "https://finance.yahoo.com/markets/article/micron-and-nvidia-are-powering-a-700-billion-chip-profit-boom-chart-of-the-day-100000068.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-14T10:00:00Z"
-        },
-        {
-          "title": "Micron stock jumps as investors look beyond GPUs in AI chip trade",
-          "url": "https://finance.yahoo.com/technology/ai/articles/micron-stock-jumps-investors-look-011700499.html",
-          "publisher": "TheStreet",
-          "published": "2026-07-15T01:17:00Z"
         }
       ]
     },
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 11.0,
-          "price": 2123500.0,
+          "change_pct": 11.34,
+          "price": 2130000.0,
           "currency": "KRW"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 4.58,
-          "price": 468.5,
+          "change_pct": 6.25,
+          "price": 476.0,
           "currency": "TWD"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 11.0,
-        "price": 2123500.0,
+        "change_pct": 11.34,
+        "price": 2130000.0,
         "currency": "KRW"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 4.58,
-        "price": 468.5,
+        "change_pct": 6.25,
+        "price": 476.0,
         "currency": "TWD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64548.29,
-      "change_pct": 3.71
+      "price": 64670.03,
+      "change_pct": 3.91
     },
     {
       "label": "Gold",
-      "price": 4041.0,
-      "change_pct": 1.1
+      "price": 4038.0,
+      "change_pct": 1.03
     },
     {
       "label": "Nasdaq100",

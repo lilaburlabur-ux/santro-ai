@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | YieldMax launches a new SpaceX options ETF: What investors should know | Yahoo Finance Video | 2026-07-15 |
 | Why ASML's sales forecast lift is a 'real vote of confidence' for the AI trade | Yahoo Finance Video | 2026-07-15 |
-| Chinese AI model developer DeepSeek preps for IPO: What to know | Yahoo Finance Video | 2026-07-14 |
-| Why Progressive Insurance Fell Today | Motley Fool | 2026-07-15 |
+| One chart reveals why investors are concerned about earnings from Microsoft, Amazon, and other hyperscalers | Yahoo Finance | 2026-07-15 |
+| Dow Jones Futures: Apple, Google Mask Dell, Sandisk, Micron Sell-Off; J.B. Hunt Jumps Late | Investor's Business Daily | 2026-07-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

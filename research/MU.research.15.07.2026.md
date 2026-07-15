@@ -37,9 +37,9 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Headline | Source | Date |
 |---|---|---|
 | Is Micron indicative of a possible chip bubble to come? | Yahoo Finance Video | 2026-07-15 |
-| GraniteShares launches new SK Hynix ETFs | Yahoo Finance Video | 2026-07-14 |
-| Why Micron Stock Just Dropped Again | Motley Fool | 2026-07-15 |
-| I Keep Buying Seagate Because It Has One Massive Cost Advantage Others Don’t | 24/7 Wall St. | 2026-07-15 |
+| Dow Jones Futures: Apple, Google Mask Dell, Sandisk, Micron Sell-Off; J.B. Hunt Jumps Late | Investor's Business Daily | 2026-07-15 |
+| Is This Why Memory Stocks Are Plunging? | Investor's Business Daily | 2026-07-15 |
+| Micron, PayPal, IBM, SpaceX, BlackRock, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,9 +36,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
+| Stock Market Today: Nasdaq Rises Despite Tumble Among Chip Leaders; Apple Paces Mag 7 Rally | Investor's Business Daily | 2026-07-15 |
 | Intel Begins Using ASML's Most Advanced Chipmaking Machine | GuruFocus.com | 2026-07-15 |
 | Applied Optoelectronics Falls 12%, Coherent and Lumentum Slide as AI Optics Trade Cools | 24/7 Wall St. | 2026-07-15 |
-| Stock Market Today: Nasdaq Gains Steam; PayPal Surges, But Sandisk, Chip Stocks Tumble (Live Coverage) | Investor's Business Daily | 2026-07-15 |
 | Is NVIDIA’s Next Big Bet A Massive Pivot? | Trefis | 2026-07-15 |
 
 ## 3. Technical Analysis

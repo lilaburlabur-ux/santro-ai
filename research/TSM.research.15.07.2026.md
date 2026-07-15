@@ -37,9 +37,9 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Headline | Source | Date |
 |---|---|---|
 | From bubbles to bottlenecks, what Wall Street is thinking about AI | Yahoo Finance Video | 2026-07-15 |
+| Dow Jones Futures: Apple, Google Mask Dell, Sandisk, Micron Sell-Off; J.B. Hunt Jumps Late | Investor's Business Daily | 2026-07-15 |
 | TSMC Earnings Will Be a Crucial Test for AI Thursday | Barrons.com | 2026-07-15 |
 | Sector Update: Tech Stocks Decline in Afternoon Trading | MT Newswires | 2026-07-15 |
-| Taiwan Semiconductor Manufacturing Company heads into earnings with Wedbush expecting continued AI-driven growth | Proactive | 2026-07-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

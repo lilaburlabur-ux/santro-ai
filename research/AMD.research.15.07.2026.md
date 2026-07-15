@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Megacap Tech Lifts U.S. Stocks | The Wall Street Journal | 2026-07-15 |
 | AMD’s hidden AI weapon may finally be exposed | TheStreet | 2026-07-15 |
 | Bank of America Says Long Semiconductors is the “Most Crowded Trade Ever” | 24/7 Wall St. | 2026-07-15 |
 | Arista, Seagate and Astera Lead AI Picks | GuruFocus.com | 2026-07-15 |
-| TSMC Earnings Will Be a Crucial Test for AI Thursday | Barrons.com | 2026-07-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

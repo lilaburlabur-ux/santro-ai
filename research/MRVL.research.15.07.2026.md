@@ -36,7 +36,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
-| Stock Market Today: Nasdaq Gains Steam; PayPal Surges, But Sandisk, Chip Stocks Tumble (Live Coverage) | Investor's Business Daily | 2026-07-15 |
+| Stock Market Today: Nasdaq Rises Despite Tumble Among Chip Leaders; Apple Paces Mag 7 Rally | Investor's Business Daily | 2026-07-15 |
 | Price Prediction: Broadcom Stock Will End The Year at This Price | 24/7 Wall St. | 2026-07-15 |
 | Micron vs. Marvell: Which Pullback Is a Buy? | Zacks | 2026-07-15 |
 | Is NVIDIA’s Next Big Bet A Massive Pivot? | Trefis | 2026-07-15 |

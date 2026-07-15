@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-15T21:41:25+00:00",
+  "as_of": "2026-07-15T21:54:04+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "DELL",
    "company": "Dell Technologies Inc",
-   "move_pct": -10.61,
-   "price": 409.0,
+   "move_pct": -10.6,
+   "price": 409.05,
    "volume": 12231829,
    "volume_vs_avg": "~1.3x",
    "heat_score": 69,
@@ -20,15 +20,15 @@
    "why": "Dow Jones Futures: Apple, Google Mask Dell, Sandisk, Micron Sell-Off; J.B. Hunt Jumps Late",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-google-dell-sandisk-micron-sell-off-spacex-ipo-price-taiwan-semiconductor-ge-aero/?src=A00220&yptr=yahoo",
-   "published": "2026-07-15T21:15:52Z",
+   "published": "2026-07-15T21:39:55Z",
    "sector": "Chip Equipment & AI Hardware"
   },
   {
    "rank": 2,
    "ticker": "MU",
    "company": "Micron Technology Inc",
-   "move_pct": -8.17,
-   "price": 902.8,
+   "move_pct": -8.18,
+   "price": 902.7,
    "volume": 54188069,
    "volume_vs_avg": "~1.0x",
    "heat_score": 59,
@@ -36,7 +36,7 @@
    "why": "Dow Jones Futures: Apple, Google Mask Dell, Sandisk, Micron Sell-Off; J.B. Hunt Jumps Late",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-google-dell-sandisk-micron-sell-off-spacex-ipo-price-taiwan-semiconductor-ge-aero/?src=A00220&yptr=yahoo",
-   "published": "2026-07-15T21:15:52Z",
+   "published": "2026-07-15T21:39:55Z",
    "sector": "AI Chips & Compute"
   },
   {
@@ -59,11 +59,11 @@
    "rank": 4,
    "ticker": "ANET",
    "company": "Arista Networks Inc",
-   "move_pct": -6.03,
-   "price": 171.56,
+   "move_pct": -5.84,
+   "price": 171.91,
    "volume": 8077834,
    "volume_vs_avg": "~1.0x",
-   "heat_score": 41,
+   "heat_score": 40,
    "direction": "down",
    "why": "Arista, Seagate and Astera Lead AI Picks",
    "catalyst_type": "momentum_narrative",

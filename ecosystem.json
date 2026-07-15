@@ -1,28 +1,25 @@
 {
  "meta": {
   "label": "NVIDIA Ecosystem",
-  "count": 29,
-  "as_of": "2026-07-15 15:10 UTC",
-  "failed": [
-   "FLEX"
-  ],
-  "session": "regular"
+  "count": 30,
+  "as_of": "2026-07-15 15:13 UTC",
+  "failed": []
  },
  "tickers": [
   {
    "ticker": "TSM",
    "company": "Taiwan Semiconductor Manufacturing Company Limited",
    "industry": "Semiconductors",
-   "price": 420.14,
-   "change_pct": -0.34,
-   "market_cap_b": 2178.99,
-   "pe": 36.76,
-   "fwd_eps": 20.29,
-   "volume": 5398506,
+   "price": 418.95,
+   "change_pct": -0.62,
+   "market_cap_b": 2172.87,
+   "pe": 36.37,
+   "fwd_eps": 20.26,
+   "volume": 5474080,
    "perf": {
-    "1W": -2.1,
-    "1M": 0.6,
-    "1Y": 80.7
+    "1W": -3.1,
+    "1M": -0.5,
+    "1Y": 78.8
    },
    "spark": [
     365.38,
@@ -54,23 +51,23 @@
     451.79,
     436.98,
     434.11,
-    423.42
+    418.95
    ]
   },
   {
    "ticker": "MU",
    "company": "Micron Technology, Inc.",
    "industry": "Semiconductors",
-   "price": 913.29,
-   "change_pct": -2.53,
-   "market_cap_b": 1031.46,
-   "pe": 20.59,
-   "fwd_eps": 150.41,
-   "volume": 16311935,
+   "price": 908.03,
+   "change_pct": -3.09,
+   "market_cap_b": 1025.52,
+   "pe": 20.53,
+   "fwd_eps": 150.44,
+   "volume": 16731165,
    "perf": {
-    "1W": 1.8,
-    "1M": -4.1,
-    "1Y": 696.7
+    "1W": -3.2,
+    "1M": -8.8,
+    "1Y": 657.2
    },
    "spark": [
     448.35,
@@ -102,23 +99,23 @@
     984.75,
     948.8,
     979.3,
-    955.36
+    908.03
    ]
   },
   {
    "ticker": "ASML",
    "company": "ASML Holding N.V.",
    "industry": "Semiconductor Equipment & Materials",
-   "price": 1774.63,
-   "change_pct": 2.82,
-   "market_cap_b": 683.96,
-   "pe": 60.36,
-   "fwd_eps": 50.19,
-   "volume": 2097570,
+   "price": 1772.09,
+   "change_pct": 2.67,
+   "market_cap_b": 682.99,
+   "pe": 60.11,
+   "fwd_eps": 50.03,
+   "volume": 2130225,
    "perf": {
-    "1W": 1.8,
-    "1M": -6.3,
-    "1Y": 117.9
+    "1W": 1.4,
+    "1M": -6.7,
+    "1Y": 117.0
    },
    "spark": [
     1473.28,
@@ -150,23 +147,23 @@
     1825.07,
     1768.65,
     1797.32,
-    1779.53
+    1772.09
    ]
   },
   {
    "ticker": "INTC",
    "company": "Intel Corporation",
    "industry": "Semiconductors",
-   "price": 102.43,
-   "change_pct": -0.66,
-   "market_cap_b": 514.85,
+   "price": 101.92,
+   "change_pct": -1.16,
+   "market_cap_b": 512.25,
    "pe": null,
    "fwd_eps": 1.59,
-   "volume": 40889638,
+   "volume": 41538312,
    "perf": {
-    "1W": -3.2,
-    "1M": -8.7,
-    "1Y": 366.1
+    "1W": -7.7,
+    "1M": -12.9,
+    "1Y": 344.7
    },
    "spark": [
     65.7,
@@ -198,23 +195,23 @@
     122.2,
     110.24,
     109.84,
-    106.82
+    101.92
    ]
   },
   {
    "ticker": "LRCX",
    "company": "Lam Research Corporation",
    "industry": "Semiconductor Equipment & Materials",
-   "price": 332.76,
-   "change_pct": 0.86,
-   "market_cap_b": 416.14,
-   "pe": 64.34,
-   "fwd_eps": 8.06,
-   "volume": 2586225,
+   "price": 331.41,
+   "change_pct": 0.45,
+   "market_cap_b": 414.45,
+   "pe": 62.53,
+   "fwd_eps": 8.07,
+   "volume": 2634767,
    "perf": {
-    "1W": 4.6,
-    "1M": -5.9,
-    "1Y": 239.3
+    "1W": 1.6,
+    "1M": -8.5,
+    "1Y": 229.7
    },
    "spark": [
     262.97,
@@ -246,23 +243,23 @@
     350.2,
     333.15,
     350.33,
-    341.01
+    331.41
    ]
   },
   {
    "ticker": "ARM",
    "company": "Arm Holdings plc",
    "industry": "Semiconductors",
-   "price": 275.37,
-   "change_pct": -2.06,
-   "market_cap_b": 294.09,
-   "pe": 338.62,
+   "price": 273.55,
+   "change_pct": -2.71,
+   "market_cap_b": 292.17,
+   "pe": 325.65,
    "fwd_eps": 3.08,
-   "volume": 2189463,
+   "volume": 2215521,
    "perf": {
-    "1W": -5.3,
-    "1M": -25.3,
-    "1Y": 93.4
+    "1W": -8.9,
+    "1M": -28.2,
+    "1Y": 85.9
    },
    "spark": [
     175.49,
@@ -294,23 +291,23 @@
     300.43,
     327.87,
     298.99,
-    284.44
+    273.55
    ]
   },
   {
    "ticker": "KLAC",
    "company": "KLA Corporation",
    "industry": "Semiconductor Equipment & Materials",
-   "price": 221.66,
-   "change_pct": -0.26,
-   "market_cap_b": 289.56,
-   "pe": 64.21,
-   "fwd_eps": 5.13,
-   "volume": 2668746,
+   "price": 220.7,
+   "change_pct": -0.7,
+   "market_cap_b": 288.29,
+   "pe": 62.7,
+   "fwd_eps": 5.12,
+   "volume": 2717159,
    "perf": {
-    "1W": 4.4,
-    "1M": -6.3,
-    "1Y": 142.9
+    "1W": 2.0,
+    "1M": -8.5,
+    "1Y": 137.2
    },
    "spark": [
     180.3,
@@ -342,23 +339,23 @@
     233.31,
     221.18,
     231.52,
-    226.01
+    220.7
    ]
   },
   {
    "ticker": "DELL",
    "company": "Dell Technologies Inc.",
    "industry": "Computer Hardware",
-   "price": 410.4,
-   "change_pct": -10.3,
-   "market_cap_b": 265.18,
-   "pe": 35.7,
-   "fwd_eps": 21.51,
-   "volume": 4805069,
+   "price": 408.62,
+   "change_pct": -10.69,
+   "market_cap_b": 264.03,
+   "pe": 32.59,
+   "fwd_eps": 21.43,
+   "volume": 4915970,
    "perf": {
-    "1W": 3.6,
-    "1M": 13.2,
-    "1Y": 261.6
+    "1W": -5.4,
+    "1M": 3.3,
+    "1Y": 230.0
    },
    "spark": [
     212.36,
@@ -390,23 +387,23 @@
     417.28,
     450.22,
     427.11,
-    447.7
+    408.62
    ]
   },
   {
    "ticker": "SNDK",
    "company": "Sandisk Corporation",
    "industry": "Computer Hardware",
-   "price": 1548.92,
-   "change_pct": -11.88,
-   "market_cap_b": 229.38,
-   "pe": 57.28,
-   "fwd_eps": 207.91,
-   "volume": 6744099,
+   "price": 1544.41,
+   "change_pct": -12.14,
+   "market_cap_b": 228.71,
+   "pe": 52.93,
+   "fwd_eps": 209.28,
+   "volume": 6922040,
    "perf": {
-    "1W": -3.2,
-    "1M": -15.6,
-    "1Y": 3812.8
+    "1W": -10.6,
+    "1M": -22.0,
+    "1Y": 3515.2
    },
    "spark": [
     903.49,
@@ -438,23 +435,23 @@
     1617.7,
     1858.27,
     1673.97,
-    1671.56
+    1544.41
    ]
   },
   {
    "ticker": "ADI",
    "company": "Analog Devices, Inc.",
    "industry": "Semiconductors",
-   "price": 389.71,
-   "change_pct": 0.96,
-   "market_cap_b": 189.83,
-   "pe": 58.64,
-   "fwd_eps": 14.91,
-   "volume": 765696,
+   "price": 388.14,
+   "change_pct": 0.55,
+   "market_cap_b": 189.06,
+   "pe": 57.76,
+   "fwd_eps": 14.99,
+   "volume": 794854,
    "perf": {
-    "1W": 4.0,
-    "1M": -4.4,
-    "1Y": 66.1
+    "1W": 2.4,
+    "1M": -5.8,
+    "1Y": 63.6
    },
    "spark": [
     380.01,
@@ -486,23 +483,23 @@
     388.83,
     385.4,
     395.65,
-    394.09
+    388.14
    ]
   },
   {
    "ticker": "WDC",
    "company": "Western Digital Corporation",
    "industry": "Computer Hardware",
-   "price": 520.43,
-   "change_pct": -6.32,
-   "market_cap_b": 179.38,
-   "pe": 32.55,
-   "fwd_eps": 18.52,
-   "volume": 2375988,
+   "price": 518.16,
+   "change_pct": -6.73,
+   "market_cap_b": 178.6,
+   "pe": 30.97,
+   "fwd_eps": 18.55,
+   "volume": 2410766,
    "perf": {
-    "1W": 2.3,
-    "1M": 2.9,
-    "1Y": 708.6
+    "1W": -2.6,
+    "1M": -2.1,
+    "1Y": 669.4
    },
    "spark": [
     374.01,
@@ -534,23 +531,23 @@
     577.46,
     550.3,
     582.59,
-    544.56
+    518.16
    ]
   },
   {
    "ticker": "ETN",
    "company": "Eaton Corporation plc",
    "industry": "Specialty Industrial Machinery",
-   "price": 411.51,
-   "change_pct": 2.15,
-   "market_cap_b": 159.77,
-   "pe": 40.54,
-   "fwd_eps": 15.78,
-   "volume": 468204,
+   "price": 410.08,
+   "change_pct": 1.79,
+   "market_cap_b": 159.23,
+   "pe": 40.13,
+   "fwd_eps": 15.76,
+   "volume": 475202,
    "perf": {
-    "1W": 4.7,
-    "1M": 5.2,
-    "1Y": 15.7
+    "1W": 3.6,
+    "1M": 4.2,
+    "1Y": 14.6
    },
    "spark": [
     406.45,
@@ -582,23 +579,23 @@
     413.42,
     399.56,
     407.28,
-    414.27
+    410.08
    ]
   },
   {
    "ticker": "GLW",
    "company": "Corning Incorporated",
    "industry": "Electronic Components",
-   "price": 173.49,
-   "change_pct": -5.26,
-   "market_cap_b": 149.3,
-   "pe": 87.14,
-   "fwd_eps": 4.29,
-   "volume": 5289332,
+   "price": 172.86,
+   "change_pct": -5.6,
+   "market_cap_b": 148.77,
+   "pe": 83.11,
+   "fwd_eps": 4.28,
+   "volume": 5386657,
    "perf": {
-    "1W": -2.2,
-    "1M": 2.7,
-    "1Y": 248.9
+    "1W": -6.8,
+    "1M": -2.1,
+    "1Y": 232.7
    },
    "spark": [
     165.13,
@@ -630,23 +627,23 @@
     194.8,
     184.03,
     190.89,
-    181.25
+    172.86
    ]
   },
   {
    "ticker": "VRT",
    "company": "Vertiv Holdings Co",
    "industry": "Electrical Equipment & Parts",
-   "price": 299.33,
-   "change_pct": -1.4,
-   "market_cap_b": 114.98,
-   "pe": 77.1,
+   "price": 297.81,
+   "change_pct": -1.9,
+   "market_cap_b": 114.39,
+   "pe": 74.83,
    "fwd_eps": 8.87,
-   "volume": 1375973,
+   "volume": 1390328,
    "perf": {
-    "1W": -3.4,
-    "1M": 1.3,
-    "1Y": 141.2
+    "1W": -6.3,
+    "1M": -1.7,
+    "1Y": 134.1
    },
    "spark": [
     312.38,
@@ -678,23 +675,23 @@
     305.58,
     323.92,
     305.87,
-    306.86
+    297.81
    ]
   },
   {
    "ticker": "ASX",
    "company": "ASE Technology Holding Co., Ltd.",
    "industry": "Semiconductors",
-   "price": 40.31,
-   "change_pct": -0.62,
-   "market_cap_b": 88.48,
-   "pe": 64.89,
+   "price": 40.26,
+   "change_pct": -0.74,
+   "market_cap_b": 88.33,
+   "pe": 62.91,
    "fwd_eps": 1.99,
-   "volume": 2543752,
+   "volume": 2587176,
    "perf": {
-    "1W": 4.7,
-    "1M": 14.0,
-    "1Y": 308.1
+    "1W": 1.5,
+    "1M": 10.5,
+    "1Y": 295.6
    },
    "spark": [
     28.99,
@@ -726,23 +723,23 @@
     43.32,
     39.93,
     42.66,
-    41.53
+    40.26
    ]
   },
   {
    "ticker": "MPWR",
    "company": "Monolithic Power Systems, Inc.",
    "industry": "Semiconductors",
-   "price": 1350.76,
-   "change_pct": 4.6,
-   "market_cap_b": 66.37,
-   "pe": 99.48,
-   "fwd_eps": 30.29,
-   "volume": 133363,
+   "price": 1343.2,
+   "change_pct": 4.01,
+   "market_cap_b": 65.99,
+   "pe": 96.63,
+   "fwd_eps": 30.3,
+   "volume": 134811,
    "perf": {
-    "1W": 8.6,
-    "1M": -12.9,
-    "1Y": 94.0
+    "1W": 5.5,
+    "1M": -15.4,
+    "1Y": 88.5
    },
    "spark": [
     1488.59,
@@ -774,23 +771,23 @@
     1346.13,
     1315.51,
     1352.74,
-    1382.71
+    1343.2
    ]
   },
   {
    "ticker": "NOK",
    "company": "Nokia Oyj",
    "industry": "Communication Equipment",
-   "price": 11.19,
-   "change_pct": -4.23,
-   "market_cap_b": 62.44,
-   "pe": 72.06,
+   "price": 11.15,
+   "change_pct": -4.62,
+   "market_cap_b": 62.25,
+   "pe": 69.69,
    "fwd_eps": 0.49,
-   "volume": 45836495,
+   "volume": 46548099,
    "perf": {
-    "1W": -2.7,
-    "1M": -18.2,
-    "1Y": 145.4
+    "1W": -5.9,
+    "1M": -20.9,
+    "1Y": 137.4
    },
    "spark": [
     10.6,
@@ -822,23 +819,23 @@
     12.51,
     11.95,
     12.44,
-    11.53
+    11.15
    ]
   },
   {
    "ticker": "STM",
    "company": "STMicroelectronics N.V.",
    "industry": "Semiconductors",
-   "price": 67.33,
-   "change_pct": -1.66,
-   "market_cap_b": 60.07,
-   "pe": 431.41,
+   "price": 67.03,
+   "change_pct": -2.1,
+   "market_cap_b": 59.82,
+   "pe": 418.94,
    "fwd_eps": 2.49,
-   "volume": 4130864,
+   "volume": 4224597,
    "perf": {
-    "1W": 2.6,
-    "1M": -11.5,
-    "1Y": 121.3
+    "1W": -0.4,
+    "1M": -14.1,
+    "1Y": 114.9
    },
    "spark": [
     44.41,
@@ -870,23 +867,23 @@
     71.39,
     68.54,
     71.46,
-    69.03
+    67.03
    ]
   },
   {
    "ticker": "LITE",
    "company": "Lumentum Holdings Inc.",
    "industry": "Communication Equipment",
-   "price": 751.26,
-   "change_pct": -7.8,
-   "market_cap_b": 58.47,
-   "pe": 137.65,
-   "fwd_eps": 18.21,
-   "volume": 1599462,
+   "price": 749.5,
+   "change_pct": -8.01,
+   "market_cap_b": 58.31,
+   "pe": 131.49,
+   "fwd_eps": 18.2,
+   "volume": 1622749,
    "perf": {
-    "1W": 11.0,
-    "1M": -14.9,
-    "1Y": 699.5
+    "1W": 6.0,
+    "1M": -18.7,
+    "1Y": 663.7
    },
    "spark": [
     836.92,
@@ -918,23 +915,23 @@
     698.91,
     785.77,
     768.15,
-    784.6
+    749.5
    ]
   },
   {
    "ticker": "COHR",
    "company": "Coherent Corp.",
    "industry": "Scientific & Technical Instruments",
-   "price": 295.97,
-   "change_pct": -3.72,
-   "market_cap_b": 57.9,
-   "pe": 144.57,
-   "fwd_eps": 8.25,
-   "volume": 1483633,
+   "price": 294.1,
+   "change_pct": -4.32,
+   "market_cap_b": 57.54,
+   "pe": 139.38,
+   "fwd_eps": 8.21,
+   "volume": 1511352,
    "perf": {
-    "1W": -2.9,
-    "1M": -16.1,
-    "1Y": 217.5
+    "1W": -6.4,
+    "1M": -19.1,
+    "1Y": 206.1
    },
    "spark": [
     347.51,
@@ -966,23 +963,23 @@
     335.7,
     317.05,
     324.5,
-    305.05
+    294.1
    ]
   },
   {
    "ticker": "KEYS",
    "company": "Keysight Technologies, Inc.",
    "industry": "Scientific & Technical Instruments",
-   "price": 323.46,
-   "change_pct": -0.7,
-   "market_cap_b": 55.24,
-   "pe": 52.24,
-   "fwd_eps": 11.88,
-   "volume": 355029,
+   "price": 321.84,
+   "change_pct": -1.19,
+   "market_cap_b": 55.0,
+   "pe": 51.74,
+   "fwd_eps": 11.87,
+   "volume": 359473,
    "perf": {
-    "1W": 2.4,
-    "1M": -7.3,
-    "1Y": 100.6
+    "1W": 1.5,
+    "1M": -8.2,
+    "1Y": 98.7
    },
    "spark": [
     339.3,
@@ -1014,23 +1011,23 @@
     309.12,
     322.17,
     320.83,
-    324.95
+    321.84
    ]
   },
   {
    "ticker": "NBIS",
    "company": "NBIS",
    "industry": "Internet Content & Information",
-   "price": 198.4,
-   "change_pct": 2.22,
-   "market_cap_b": 50.39,
-   "pe": 77.46,
+   "price": 197.04,
+   "change_pct": 1.52,
+   "market_cap_b": 50.03,
+   "pe": 76.37,
    "fwd_eps": 0.36,
-   "volume": 5987853,
+   "volume": 6089953,
    "perf": {
-    "1W": -7.7,
-    "1M": -14.0,
-    "1Y": 273.3
+    "1W": -9.0,
+    "1M": -15.2,
+    "1Y": 268.1
    },
    "spark": [
     156.55,
@@ -1062,23 +1059,71 @@
     195.19,
     216.2,
     210.51,
-    199.83
+    197.04
+   ]
+  },
+  {
+   "ticker": "FLEX",
+   "company": "Flex Ltd.",
+   "industry": "Electronic Components",
+   "price": 127.54,
+   "change_pct": -1.51,
+   "market_cap_b": 46.73,
+   "pe": 54.74,
+   "fwd_eps": 6.92,
+   "volume": 959935,
+   "perf": {
+    "1W": -3.0,
+    "1M": -16.1,
+    "1Y": 147.4
+   },
+   "spark": [
+    84.28,
+    85.42,
+    91.41,
+    87.16,
+    91.55,
+    91.84,
+    134.73,
+    142.17,
+    139.69,
+    143.6,
+    129.73,
+    131.52,
+    132.47,
+    145.79,
+    150.78,
+    159.43,
+    159.51,
+    150.83,
+    139.49,
+    149.71,
+    146.93,
+    147.61,
+    151.85,
+    161.28,
+    159.56,
+    153.53,
+    138.65,
+    133.37,
+    135.8,
+    127.54
    ]
   },
   {
    "ticker": "CRWV",
    "company": "CoreWeave, Inc.",
    "industry": "Software - Infrastructure",
-   "price": 77.77,
-   "change_pct": -2.72,
-   "market_cap_b": 42.43,
+   "price": 77.38,
+   "change_pct": -3.2,
+   "market_cap_b": 42.22,
    "pe": null,
    "fwd_eps": -1.27,
-   "volume": 8341870,
+   "volume": 8443773,
    "perf": {
-    "1W": -11.5,
-    "1M": -20.8,
-    "1Y": -43.4
+    "1W": -14.0,
+    "1M": -23.0,
+    "1Y": -45.0
    },
    "spark": [
     115.16,
@@ -1110,23 +1155,23 @@
     83.53,
     89.7,
     83.31,
-    79.61
+    77.38
    ]
   },
   {
    "ticker": "ON",
    "company": "ON Semiconductor Corporation",
    "industry": "Semiconductors",
-   "price": 92.51,
-   "change_pct": 2.37,
-   "market_cap_b": 36.0,
-   "pe": 68.89,
+   "price": 92.1,
+   "change_pct": 1.91,
+   "market_cap_b": 35.84,
+   "pe": 67.72,
    "fwd_eps": 4.34,
-   "volume": 2329373,
+   "volume": 2352263,
    "perf": {
-    "1W": 2.8,
-    "1M": -19.2,
-    "1Y": 59.0
+    "1W": 1.1,
+    "1M": -20.6,
+    "1Y": 56.3
    },
    "spark": [
     85.56,
@@ -1158,23 +1203,23 @@
     94.69,
     93.79,
     95.96,
-    93.69
+    92.1
    ]
   },
   {
    "ticker": "JBL",
    "company": "Jabil Inc.",
    "industry": "Electronic Components",
-   "price": 321.33,
-   "change_pct": -0.2,
-   "market_cap_b": 33.68,
-   "pe": 41.08,
-   "fwd_eps": 16.71,
-   "volume": 150242,
+   "price": 319.8,
+   "change_pct": -0.67,
+   "market_cap_b": 33.51,
+   "pe": 40.13,
+   "fwd_eps": 16.74,
+   "volume": 154164,
    "perf": {
-    "1W": 2.0,
-    "1M": -13.1,
-    "1Y": 49.8
+    "1W": -0.4,
+    "1M": -15.1,
+    "1Y": 46.4
    },
    "spark": [
     330.21,
@@ -1206,71 +1251,23 @@
     338.22,
     325.21,
     330.29,
-    327.38
-   ]
-  },
-  {
-   "ticker": "AMKR",
-   "company": "Amkor Technology, Inc.",
-   "industry": "Semiconductor Equipment & Materials",
-   "price": 66.86,
-   "change_pct": 1.21,
-   "market_cap_b": 16.59,
-   "pe": 40.09,
-   "fwd_eps": 2.45,
-   "volume": 933732,
-   "perf": {
-    "1W": 6.8,
-    "1M": -8.4,
-    "1Y": 226.3
-   },
-   "spark": [
-    69.36,
-    72.17,
-    78.01,
-    71.28,
-    69.67,
-    70.88,
-    77.13,
-    76.52,
-    73.37,
-    72.01,
-    65.97,
-    68.41,
-    65.68,
-    72.11,
-    69.48,
-    74.66,
-    73.82,
-    68.29,
-    69.61,
-    82.78,
-    86.55,
-    90.46,
-    86.72,
-    85.62,
-    82.34,
-    79.99,
-    69.88,
-    66.91,
-    70.47,
-    69.75
+    319.8
    ]
   },
   {
    "ticker": "FN",
    "company": "Fabrinet",
    "industry": "Electronic Components",
-   "price": 479.89,
-   "change_pct": 1.11,
-   "market_cap_b": 17.2,
-   "pe": 41.27,
-   "fwd_eps": 17.27,
-   "volume": 229574,
+   "price": 476.28,
+   "change_pct": 0.35,
+   "market_cap_b": 17.06,
+   "pe": 40.95,
+   "fwd_eps": 17.28,
+   "volume": 231450,
    "perf": {
-    "1W": 2.5,
-    "1M": -17.6,
-    "1Y": 59.2
+    "1W": 1.7,
+    "1M": -18.2,
+    "1Y": 58.0
    },
    "spark": [
     700.01,
@@ -1302,23 +1299,71 @@
     500.75,
     480.07,
     471.13,
-    480.0
+    476.28
+   ]
+  },
+  {
+   "ticker": "AMKR",
+   "company": "Amkor Technology, Inc.",
+   "industry": "Semiconductor Equipment & Materials",
+   "price": 66.47,
+   "change_pct": 0.62,
+   "market_cap_b": 16.48,
+   "pe": 38.2,
+   "fwd_eps": 2.45,
+   "volume": 962558,
+   "perf": {
+    "1W": 1.7,
+    "1M": -12.7,
+    "1Y": 211.0
+   },
+   "spark": [
+    69.36,
+    72.17,
+    78.01,
+    71.28,
+    69.67,
+    70.88,
+    77.13,
+    76.52,
+    73.37,
+    72.01,
+    65.97,
+    68.41,
+    65.68,
+    72.11,
+    69.48,
+    74.66,
+    73.82,
+    68.29,
+    69.61,
+    82.78,
+    86.55,
+    90.46,
+    86.72,
+    85.62,
+    82.34,
+    79.99,
+    69.88,
+    66.91,
+    70.47,
+    66.47
    ]
   },
   {
    "ticker": "CAMT",
    "company": "Camtek Ltd.",
    "industry": "Semiconductor Equipment & Materials",
-   "price": 147.72,
-   "change_pct": 8.0,
-   "market_cap_b": 6.9,
-   "pe": 157.43,
+   "price": 147.5,
+   "change_pct": 7.84,
+   "market_cap_b": 6.88,
+   "pe": 152.06,
    "fwd_eps": 4.52,
-   "volume": 137732,
+   "volume": 141986,
    "perf": {
-    "1W": 14.6,
-    "1M": -17.1,
-    "1Y": 67.9
+    "1W": 10.7,
+    "1M": -19.9,
+    "1Y": 62.2
    },
    "spark": [
     184.63,
@@ -1350,23 +1395,23 @@
     141.84,
     140.05,
     143.79,
-    152.71
+    147.5
    ]
   },
   {
    "ticker": "NVTS",
    "company": "Navitas Semiconductor Corporation",
    "industry": "Semiconductors",
-   "price": 13.16,
-   "change_pct": 0.57,
-   "market_cap_b": 3.23,
+   "price": 13.06,
+   "change_pct": -0.23,
+   "market_cap_b": 3.18,
    "pe": null,
    "fwd_eps": -0.14,
-   "volume": 3756274,
+   "volume": 3889263,
    "perf": {
-    "1W": -1.3,
-    "1M": -43.7,
-    "1Y": 111.6
+    "1W": -2.2,
+    "1M": -44.2,
+    "1Y": 109.6
    },
    "spark": [
     15.33,
@@ -1398,7 +1443,7 @@
     13.99,
     14.18,
     12.87,
-    13.18
+    13.06
    ]
   }
  ]

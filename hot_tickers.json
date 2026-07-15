@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-15T11:27:54+00:00",
+  "as_of": "2026-07-15T11:43:20+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "IBM",
    "company": "International Business Machines Corp",
-   "move_pct": -24.43,
-   "price": 219.32,
+   "move_pct": -24.3,
+   "price": 219.69,
    "volume": 67422893,
    "volume_vs_avg": "~7x",
    "heat_score": 99,
@@ -27,16 +27,16 @@
    "rank": 2,
    "ticker": "ASML",
    "company": "ASML Holding NV",
-   "move_pct": 6.3,
-   "price": 1834.84,
+   "move_pct": 6.89,
+   "price": 1845.0,
    "volume": 2528275,
    "volume_vs_avg": "~1.2x",
-   "heat_score": 43,
+   "heat_score": 45,
    "direction": "up",
    "why": "Dow Jones Futures: Oil Prices Hit $80 On Iran News, ASML Pops On Earnings With Nasdaq At Key Level",
    "catalyst_type": "earnings",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-oil-prices-80-iran-news-asml-morgan-stanley/?src=A00220&yptr=yahoo",
-   "published": "2026-07-15T11:05:15Z",
+   "published": "2026-07-15T11:14:27Z",
    "sector": "Chip Equipment & AI Hardware"
   }
  ]

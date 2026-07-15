@@ -170,7 +170,8 @@ LIVE_PATCH = """<script>
 def page(sym, cfg, d, asof):
     slug = sym.lower()
     co, sector, ind = d["company"], d.get("sector") or "—", d.get("industry") or "—"
-    rel = "".join(f'<a href="/stocks/{r}">{r.upper() if os.path.exists(f"stocks/{r}.html") and len(r)<=5 else r.replace("-", " ").title()}</a>' for r in cfg["rel"])
+    REL_LABELS = {"sk-hynix": "SK Hynix", "burry-short-watch": "Burry Short Watch"}
+    rel = "".join(f'<a href="/stocks/{r}">{REL_LABELS.get(r, r.upper() if len(r)<=5 else r.replace("-", " ").title())}</a>' for r in cfg["rel"])
     # key data rows (only real fields)
     rows = [f'<tr><td>Ticker</td><td><b>{sym}</b></td></tr>',
             f'<tr><td>Company</td><td>{esc(co)}</td></tr>']
@@ -261,8 +262,8 @@ def main():
     asof = datetime.date.today().strftime("%-d %B %Y")
     built, skipped = [], []
     for sym, cfg in NEW_TICKERS.items():
-        if os.path.exists(f"stocks/{sym.lower()}.html"):
-            print(f"SKIP {sym}: page already exists"); skipped.append(sym); continue
+        # idempotent like the other generators: re-running refreshes the baked
+        # quotes/analyst rows on the pages this script owns (NEW_TICKERS only)
         try:
             i = yf.Ticker(sym).info
         except Exception as e:

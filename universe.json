@@ -1977,9 +1977,8 @@
      "change_pct": 27.47,
      "volume": 69572875,
      "base_close": 149.0,
-     "yf": "SKHYV",
      "seed": true,
-     "_note": "ADR listed 2026-07-10; yf alias SKHYV until ticker converts to SKHY (remove yf field then). base_close = $149 ADS pricing (reported); cap seed reported ~$1.05T.",
+     "_note": "ADR converted to SKHY (was SKHYV until 2026-07-13). base_close = $149 ADS pricing (reported).",
      "perf": {
       "1W": null,
       "1M": null,

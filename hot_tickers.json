@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-15T09:34:02+00:00",
+  "as_of": "2026-07-15T09:48:56+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -27,11 +27,11 @@
    "rank": 2,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": 8.61,
-   "price": 112.0,
+   "move_pct": 8.48,
+   "price": 111.86,
    "volume": 91105659,
    "volume_vs_avg": "~0.7x",
-   "heat_score": 59,
+   "heat_score": 58,
    "direction": "up",
    "why": "ASML Holding (NasdaqGS:ASML) Lifts 2026 Outlook As Intel Puts High NA EUV To Work",
    "catalyst_type": "earnings",
@@ -43,16 +43,16 @@
    "rank": 3,
    "ticker": "ASML",
    "company": "ASML Holding NV",
-   "move_pct": 6.95,
-   "price": 1845.94,
+   "move_pct": 6.84,
+   "price": 1844.18,
    "volume": 2528275,
    "volume_vs_avg": "~1.2x",
    "heat_score": 45,
    "direction": "up",
-   "why": "Nasdaq, S&P 500 Futures Rise, Wall Street Eyes PPI After CPI Surprise: Why PYPL, ORCL, ASML, NOK, LCID, TSLA Are In Focus",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-rise-084302785.html",
-   "published": "2026-07-15T08:43:02Z",
+   "why": "ASML raises 2026 forecast, expands capacity on AI chip demand",
+   "catalyst_type": "financing",
+   "source_url": "https://finance.yahoo.com/video/asml-raises-2026-forecast-expands-091838488.html",
+   "published": "2026-07-15T09:28:44Z",
    "sector": "Chip Equipment & AI Hardware"
   }
  ]

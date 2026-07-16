@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-16T15:11:09+00:00",
+  "as_of": "2026-07-16T15:20:43+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
-   "move_pct": -7.26,
-   "price": 191.29,
-   "volume": 11115354,
+   "move_pct": -7.53,
+   "price": 190.73,
+   "volume": 11863386,
    "volume_vs_avg": "~0.2x",
-   "heat_score": 41,
+   "heat_score": 42,
    "direction": "down",
    "why": "Marvell Technology, Inc. (MRVL) is Attracting Investor Attention: Here is What You Should Know",
    "catalyst_type": "momentum_narrative",
@@ -27,17 +27,33 @@
    "rank": 2,
    "ticker": "SMCI",
    "company": "Super Micro Computer Inc",
-   "move_pct": -5.21,
-   "price": 25.49,
-   "volume": 9574059,
+   "move_pct": -5.93,
+   "price": 25.3,
+   "volume": 10724170,
    "volume_vs_avg": "~0.2x",
-   "heat_score": 34,
+   "heat_score": 37,
    "direction": "down",
    "why": "Can Super Micro Computer's RDHx Expansion Fuel AI Data Center Demand?",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/technology/ai/articles/super-micro-computers-rdhx-expansion-133800077.html",
    "published": "2026-07-16T13:38:00Z",
    "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 3,
+   "ticker": "MU",
+   "company": "Micron Technology Inc",
+   "move_pct": -5.63,
+   "price": 853.36,
+   "volume": 17539292,
+   "volume_vs_avg": "~0.3x",
+   "heat_score": 36,
+   "direction": "down",
+   "why": "Why Is Micron Stock Still Falling?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-stock-still-falling-145616533.html",
+   "published": "2026-07-16T14:56:16Z",
+   "sector": "AI Chips & Compute"
   }
  ]
 }

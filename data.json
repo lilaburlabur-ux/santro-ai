@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-07-16T20:25:11+00:00",
-  "as_of_local": "2026-07-16 20:25:11 UTC",
+  "as_of_utc": "2026-07-16T20:27:49+00:00",
+  "as_of_local": "2026-07-16 20:27:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -53,10 +53,10 @@
           "published": "2026-07-14T12:07:18Z"
         },
         {
-          "title": "Update: US Equity Indexes Decline Amid Sell-Off in Chipmakers, Iran's Warning on Red Sea Route",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-decline-amid-195650873.html",
-          "publisher": "MT Newswires",
-          "published": "2026-07-16T19:56:50Z"
+          "title": "Chip Stocks Fall as AI Trade Loses Steam",
+          "url": "https://www.wsj.com/finance/stocks/chip-stocks-fall-as-ai-trade-loses-steam-809fbc62?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-07-16T20:18:00Z"
         }
       ]
     },
@@ -125,6 +125,12 @@
       "market_cap": 816833088081.6187,
       "headlines": [
         {
+          "title": "Chip Stocks Fall as AI Trade Loses Steam",
+          "url": "https://www.wsj.com/finance/stocks/chip-stocks-fall-as-ai-trade-loses-steam-809fbc62?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-07-16T20:18:00Z"
+        },
+        {
           "title": "AI Has Upended Chip Stocks. This Chart Shows How Much.",
           "url": "https://www.barrons.com/articles/taiwan-semiconductor-manufacturing-chip-stocks-ai-bb1a044a?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -135,12 +141,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/q1-rundown-amd-nasdaq-amd-192122824.html",
           "publisher": "StockStory",
           "published": "2026-07-16T19:21:22Z"
-        },
-        {
-          "title": "UBS Raises AMD Target on Stronger AI Outlook",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ubs-raises-amd-target-stronger-190745665.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-07-16T19:07:45Z"
         }
       ]
     },
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 7.37,
-          "price": 481.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "TWD"
         },
         {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 7.37,
-        "price": 481.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "TWD"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64140.31,
-      "change_pct": -0.88
+      "price": 64156.42,
+      "change_pct": -0.86
     },
     {
       "label": "Gold",
-      "price": 3979.8,
-      "change_pct": -1.59
+      "price": 3978.0,
+      "change_pct": -1.63
     },
     {
       "label": "Nasdaq100",

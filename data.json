@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-16T00:49:47+00:00",
-  "as_of_local": "2026-07-16 00:49:47 UTC",
+  "as_of_utc": "2026-07-16T00:54:52+00:00",
+  "as_of_local": "2026-07-16 00:54:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -201,34 +203,6 @@
       ]
     },
     {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 177.98,
-      "previous_close": 178.1,
-      "change_pct": -0.07,
-      "market_cap": 187590915496.82617,
-      "headlines": [
-        {
-          "title": "The Real Risk Inside Marvell Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/real-risk-inside-marvell-stock-001243939.html",
-          "publisher": "Trefis",
-          "published": "2026-07-16T00:12:43Z"
-        },
-        {
-          "title": "Qualcomm Might Be a Hot AI Stock Next Year",
-          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-might-hot-ai-stock-231100046.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-15T23:11:00Z"
-        },
-        {
-          "title": "Bank of America Says Long Semiconductors is the \u201cMost Crowded Trade Ever\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-long-semiconductors-184652554.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-07-15T18:46:52Z"
-        }
-      ]
-    },
-    {
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "price": 206.26,
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -9.56,
-          "price": 1883000.0,
+          "change_pct": -10.23,
+          "price": 1869000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -7.33,
-          "price": 259000.0,
+          "change_pct": -7.6,
+          "price": 258250.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -11.42,
-          "price": 64750.0,
+          "change_pct": -12.31,
+          "price": 64100.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -9.56,
-        "price": 1883000.0,
+        "change_pct": -10.23,
+        "price": 1869000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -7.33,
-        "price": 259000.0,
+        "change_pct": -7.6,
+        "price": 258250.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -11.42,
-        "price": 64750.0,
+        "change_pct": -12.31,
+        "price": 64100.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64518.25,
-      "change_pct": -0.67
+      "price": 64588.59,
+      "change_pct": -0.57
     },
     {
       "label": "Gold",
-      "price": 4064.8,
-      "change_pct": 0.09
+      "price": 4060.2,
+      "change_pct": -0.02
     },
     {
       "label": "Nasdaq100",

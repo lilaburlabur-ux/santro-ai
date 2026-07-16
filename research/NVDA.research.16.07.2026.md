@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | TSMC raises capex and revenue forecast, highlighting growing AI chip demand | Yahoo Finance | 2026-07-16 |
 | $3.2 trillion rotation from chips to the 'Magnificent 7' has left the S&P 500 going nowhere: Chart of the Day | Yahoo Finance | 2026-07-16 |
+| Taiwan Semiconductor Commits To Investing Another $100 Billion In The United States | Motley Fool | 2026-07-16 |
 | Alex Karp Grouped Palantir With These 3 Unstoppable Stocks as the Only True Artificial Intelligence (AI) Infrastructure Winners | Motley Fool | 2026-07-16 |
-| JPMorgan Just Reported $21.2 Billion in Q2 Net Income -- Up 41% -- and CEO Jamie Dimon Said the Economy Is "Close to as Good as It Gets." | Motley Fool | 2026-07-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

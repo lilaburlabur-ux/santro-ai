@@ -38,8 +38,8 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 |---|---|---|
 | Earnings live: Netflix stock falls on Q3 revenue outlook and uninspiring engagement trends | Yahoo Finance | 2026-07-14 |
 | Is the chip stock sell-off becoming a 'chicken or the egg' situation? | Yahoo Finance Video | 2026-07-16 |
+| Taiwan Semiconductor Commits To Investing Another $100 Billion In The United States | Motley Fool | 2026-07-16 |
 | Why Marvell Technology (MRVL) Stock Is Down Today | StockStory | 2026-07-16 |
-| Update: US Equity Indexes Drop as Chipmakers Push Technology Lower, Iran Warns on Red Sea Chokepoint | MT Newswires | 2026-07-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

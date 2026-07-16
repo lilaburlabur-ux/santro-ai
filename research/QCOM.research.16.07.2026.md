@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| How Long-Term Auto Supply Deals And US Fab Build-Out At Micron (MU) Has Changed Its Investment Story | Simply Wall St. | 2026-07-16 |
 | AI Has Upended Chip Stocks. This Chart Shows How Much. | Barrons.com | 2026-07-16 |
 | Micron Signs Long-Term Auto Chip Deals | GuruFocus.com | 2026-07-16 |
 | Marvell Stock's AI Bet Is Even Bigger Than You Think | Trefis | 2026-07-16 |
-| Arm’s Recent Pullback Is a Gift for Long-Term Investors at Current Levels | 24/7 Wall St. | 2026-07-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

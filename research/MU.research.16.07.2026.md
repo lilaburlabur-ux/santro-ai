@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| Alex Karp Grouped Palantir With These 3 Unstoppable Stocks as the Only True Artificial Intelligence (AI) Infrastructure Winners | Motley Fool | 2026-07-16 |
+| Dow Jones Futures: Micron, Sandisk, Google Lead AI Sell-Off, But These Groups Are Strong; SpaceX Starship Launch Due | Investor's Business Daily | 2026-07-16 |
+| How Long-Term Auto Supply Deals And US Fab Build-Out At Micron (MU) Has Changed Its Investment Story | Simply Wall St. | 2026-07-16 |
 | Micron Signs Long-Term Auto Chip Deals | GuruFocus.com | 2026-07-16 |
-| Micron’s AI Boom: Wall Street Breaks Down How High Earnings Can Go | Barrons.com | 2026-07-16 |
-| 3 Reasons Why Micron Stock Keeps Falling | Barrons.com | 2026-07-16 |
-| IBM's worst day since 1968 handed Micron a gift | TheStreet | 2026-07-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

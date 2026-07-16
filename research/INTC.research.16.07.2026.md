@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Big Tech earnings will put focus on AI spending | Yahoo Finance | 2026-07-16 |
+| Teradyne and Intel Shares Are Falling, What You Need To Know | StockStory | 2026-07-16 |
 | Chip Stocks Fall as AI Trade Loses Steam | The Wall Street Journal | 2026-07-16 |
 | AI Has Upended Chip Stocks. This Chart Shows How Much. | Barrons.com | 2026-07-16 |
-| Intel Target Raised Ahead of Q2 | GuruFocus.com | 2026-07-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

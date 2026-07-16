@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
-| Stock market today: Dow, S&P 500, Nasdaq drop as chip stocks tumble, Alphabet stock sinks | Yahoo Finance | 2026-07-16 |
-| Earnings live: United Airlines stock falls on fuel costs, GE Aerospace posts strong quarter | Yahoo Finance | 2026-07-14 |
-| Update: US Equity Indexes Decline Amid Sell-Off in Chipmakers, Iran's Warning on Red Sea Route | MT Newswires | 2026-07-16 |
-| AI Has Upended Chip Stocks. This Chart Shows How Much. | Barrons.com | 2026-07-16 |
+| Earnings live: Netflix stock falls on Q3 revenue outlook and uninspiring engagement trends | Yahoo Finance | 2026-07-14 |
+| Is the chip stock sell-off becoming a 'chicken or the egg' situation? | Yahoo Finance Video | 2026-07-16 |
+| Why Marvell Technology (MRVL) Stock Is Down Today | StockStory | 2026-07-16 |
+| Update: US Equity Indexes Drop as Chipmakers Push Technology Lower, Iran Warns on Red Sea Chokepoint | MT Newswires | 2026-07-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

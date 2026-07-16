@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Why Marvell Technology (MRVL) Stock Is Down Today | StockStory | 2026-07-16 |
 | Nasdaq Falls Sharply as Chip-Stock Slump Overshadows TSMC Record | The Wall Street Journal | 2026-07-16 |
 | Nasdaq Declines as Chip Stocks Come Under Pressure | The Wall Street Journal | 2026-07-16 |
 | Marvell Stock's AI Bet Is Even Bigger Than You Think | Trefis | 2026-07-16 |
-| Marvell Drops 8% as AI Capex Slowdown Fears Weigh on Chips; Broadcom, AMD, and Intel Slide | 24/7 Wall St. | 2026-07-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

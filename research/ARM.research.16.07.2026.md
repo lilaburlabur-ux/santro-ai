@@ -36,10 +36,10 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
+| Chip Stocks Pummeled. SK Hynix Dives. SOX Socked Again. | Investor's Business Daily | 2026-07-16 |
 | Arm (ARM) Stock May Be Priced For Perfection With P B At 35.7x | Simply Wall St. | 2026-07-16 |
 | Arm’s Recent Pullback Is a Gift for Long-Term Investors at Current Levels | 24/7 Wall St. | 2026-07-16 |
 | Arm (ARM) CEO Flags China Export Hurdles As AGI CPU Demand Builds | Simply Wall St. | 2026-07-16 |
-| ARM's Expanding Royalty Opportunity Is Powering Its AI Growth Story | Zacks | 2026-07-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

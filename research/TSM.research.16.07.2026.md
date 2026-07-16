@@ -18,7 +18,7 @@ Signed file: `TSM.research.16.07.2026`
 | Technical momentum | High | 1Y +74.83%; price +17.17% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -14.20% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 46.51%, revenue growth 35.10%. |
-| Value attractiveness | Reasonable | Forward P/E 19.76, EV/Sales 3.69. |
+| Value attractiveness | Reasonable | Forward P/E 19.58, EV/Sales 3.69. |
 | Risk level | Elevated | Beta 1.25, ATR 4.6% of price, short float 0.57%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -38,8 +38,8 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 |---|---|---|
 | Earnings live: Netflix stock falls on Q3 revenue outlook and uninspiring engagement trends | Yahoo Finance | 2026-07-14 |
 | Is the chip stock sell-off becoming a 'chicken or the egg' situation? | Yahoo Finance Video | 2026-07-16 |
-| Taiwan Semiconductor Commits To Investing Another $100 Billion In The United States | Motley Fool | 2026-07-16 |
-| Why Marvell Technology (MRVL) Stock Is Down Today | StockStory | 2026-07-16 |
+| Why Reddit (RDDT) Stock Is Falling Today | StockStory | 2026-07-16 |
+| Here’s What Is Happening Behind the Market’s Swings, in Charts | The Wall Street Journal | 2026-07-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.10T | Revenue growth 35.10% y/y |
 | Profitability | Gross 61.87%, operating 58.10%, net 46.51% | ROA 17.32%, ROE 36.21% |
 | Balance sheet | Cash $3.38T, debt $1.09T | Current ratio 2.49, debt/equity 18.45 |
-| Valuation | P/E 35.66, forward P/E 19.76, P/S 0.52, P/B 92.72 | EV/Sales 3.69, EV/EBITDA 5.31 |
+| Valuation | P/E 35.66, forward P/E 19.58, P/S 0.52, P/B 92.72 | EV/Sales 3.69, EV/EBITDA 5.31 |
 | Growth expectations | Earnings growth 58.40%, EPS q/q 58.30% | Analyst mean target $498.24 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | 52W high | $477.57 | Revenue growth y/y | 35.10% |
 | 52W low | $224.84 | Inst. ownership | 15.54% |
 | P/E (ttm) | 35.66 | Insider ownership | 0.04% |
-| Forward P/E | 19.76 | Short float | 0.57% |
+| Forward P/E | 19.58 | Short float | 0.57% |
 | PEG (trailing) | 1.31 | Avg volume | 13,924,500 |
 | P/S | 0.52 | Employees | 76,907 |
 | P/B | 92.72 | Analyst rec (1=buy..5=sell) | 1.5 |

@@ -37,9 +37,9 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Headline | Source | Date |
 |---|---|---|
 | AVAV Stock Has Slumped Over 40% YTD — Why Raymond James Thinks This Beaten-Down Drone Stock Can Soar 49% | Stocktwits | 2026-07-16 |
-| Stocks Mixed as Weakness in Chipmakers Weighs | Barchart | 2026-07-16 |
 | 1 of Wall Street’s Favorite Stocks for Long-Term Investors and 2 Facing Headwinds | StockStory | 2026-07-16 |
 | SpaceX initiated, Lululemon downgraded: Wall Street's top analyst calls | The Fly | 2026-07-16 |
+| AeroVironment (AVAV) Stock Dips While Market Gains: Key Facts | Zacks | 2026-07-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

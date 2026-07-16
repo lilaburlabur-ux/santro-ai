@@ -37,9 +37,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | Chip Stocks Fall as AI Trade Loses Steam | The Wall Street Journal | 2026-07-16 |
+| Sandisk, Micron, TSMC, Abbott, AST SpaceMobile, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-16 |
+| Stocks to Watch Recap: TSMC, UnitedHealth, SpaceX, Netflix | The Wall Street Journal | 2026-07-16 |
 | AI Has Upended Chip Stocks. This Chart Shows How Much. | Barrons.com | 2026-07-16 |
-| Q1 Rundown: AMD (NASDAQ:AMD) Vs Other Processors and Graphics Chips Stocks | StockStory | 2026-07-16 |
-| UBS Raises AMD Target on Stronger AI Outlook | GuruFocus.com | 2026-07-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

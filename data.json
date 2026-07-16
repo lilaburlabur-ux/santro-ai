@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-16T00:54:52+00:00",
-  "as_of_local": "2026-07-16 00:54:52 UTC",
+  "as_of_utc": "2026-07-16T00:57:01+00:00",
+  "as_of_local": "2026-07-16 00:57:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "QCOM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -71,6 +69,12 @@
       "market_cap": 1875818714659.847,
       "headlines": [
         {
+          "title": "Can You Stomach The Plunge In Applied Optoelectronics Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stomach-plunge-applied-optoelectronics-stock-002625371.html",
+          "publisher": "Trefis",
+          "published": "2026-07-16T00:26:25Z"
+        },
+        {
           "title": "The Real Risk Inside Marvell Stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/real-risk-inside-marvell-stock-001243939.html",
           "publisher": "Trefis",
@@ -81,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/xntk-vs-qqq-does-35-235619565.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-07-15T23:56:19Z"
-        },
-        {
-          "title": "Broadcom (AVGO) Stock Looks Fairly Priced After Its 8x Five Year Run",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-looks-fairly-231521639.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-15T23:15:21Z"
         }
       ]
     },
@@ -203,6 +201,34 @@
       ]
     },
     {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "price": 177.98,
+      "previous_close": 178.1,
+      "change_pct": -0.07,
+      "market_cap": 187590915496.82617,
+      "headlines": [
+        {
+          "title": "The Real Risk Inside Marvell Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/real-risk-inside-marvell-stock-001243939.html",
+          "publisher": "Trefis",
+          "published": "2026-07-16T00:12:43Z"
+        },
+        {
+          "title": "Qualcomm Might Be a Hot AI Stock Next Year",
+          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-might-hot-ai-stock-231100046.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-15T23:11:00Z"
+        },
+        {
+          "title": "Bank of America Says Long Semiconductors is the \u201cMost Crowded Trade Ever\u201d",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-long-semiconductors-184652554.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-07-15T18:46:52Z"
+        }
+      ]
+    },
+    {
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "price": 206.26,
@@ -210,6 +236,12 @@
       "change_pct": -7.27,
       "market_cap": 185127507757.62122,
       "headlines": [
+        {
+          "title": "Can You Stomach The Plunge In Applied Optoelectronics Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stomach-plunge-applied-optoelectronics-stock-002625371.html",
+          "publisher": "Trefis",
+          "published": "2026-07-16T00:26:25Z"
+        },
         {
           "title": "The Real Risk Inside Marvell Stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/real-risk-inside-marvell-stock-001243939.html",
@@ -221,12 +253,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/why-nvidia-invest-2-billion-000700842.html",
           "publisher": "Motley Fool",
           "published": "2026-07-16T00:07:00Z"
-        },
-        {
-          "title": "Stock Market Today: Nasdaq Rises Despite Tumble Among Chip Leaders; Apple Paces Mag 7 Rally",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-ppi-inflation-data-asml-stock/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-07-15T20:31:15Z"
         }
       ]
     },
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -10.23,
-          "price": 1869000.0,
+          "change_pct": -10.57,
+          "price": 1862000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -7.6,
-          "price": 258250.0,
+          "change_pct": -7.69,
+          "price": 258000.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -12.31,
-          "price": 64100.0,
+          "change_pct": -12.68,
+          "price": 63830.0,
           "currency": "JPY"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -10.23,
-        "price": 1869000.0,
+        "change_pct": -10.57,
+        "price": 1862000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -7.6,
-        "price": 258250.0,
+        "change_pct": -7.69,
+        "price": 258000.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -12.31,
-        "price": 64100.0,
+        "change_pct": -12.68,
+        "price": 63830.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64588.59,
-      "change_pct": -0.57
+      "price": 64531.86,
+      "change_pct": -0.65
     },
     {
       "label": "Gold",
-      "price": 4060.2,
-      "change_pct": -0.02
+      "price": 4063.6,
+      "change_pct": 0.06
     },
     {
       "label": "Nasdaq100",

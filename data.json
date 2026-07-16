@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-16T08:05:34+00:00",
-  "as_of_local": "2026-07-16 08:05:34 UTC",
+  "as_of_utc": "2026-07-16T08:10:45+00:00",
+  "as_of_local": "2026-07-16 08:10:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -253,34 +255,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/why-nvidia-invest-2-billion-000700842.html",
           "publisher": "Motley Fool",
           "published": "2026-07-16T00:07:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 279.01,
-      "previous_close": 283.87,
-      "change_pct": -1.71,
-      "market_cap": 70441958217.32788,
-      "headlines": [
-        {
-          "title": "NXP Semiconductors (NXPI) Falls With Chip Selloff, Is It Still 8% Undervalued?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-falls-chip-002240702.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-16T00:22:40Z"
-        },
-        {
-          "title": "How Investors May Respond To NXP Semiconductors (NXPI) Sector-Wide Profit Taking And Geopolitical Tensions",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-nxp-semiconductors-171003780.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-15T17:10:03Z"
-        },
-        {
-          "title": "Texas Instruments' CapEx Moderates: Can Cash Flow Improve Further?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-capex-moderates-cash-131700083.html",
-          "publisher": "Zacks",
-          "published": "2026-07-15T13:17:00Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64132.64,
-      "change_pct": -0.9
+      "price": 64023.7,
+      "change_pct": -1.06
     },
     {
       "label": "Gold",
-      "price": 4033.9,
-      "change_pct": -0.25
+      "price": 4035.4,
+      "change_pct": -0.21
     },
     {
       "label": "Nasdaq100",

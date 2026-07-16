@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-16T22:39:57+00:00",
-  "as_of_local": "2026-07-16 22:39:57 UTC",
+  "as_of_utc": "2026-07-16T22:42:52+00:00",
+  "as_of_local": "2026-07-16 22:42:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -57,34 +59,6 @@
           "url": "https://finance.yahoo.com/video/wall-st-ends-lower-chip-223110982.html",
           "publisher": "Reuters Videos",
           "published": "2026-07-16T22:31:10Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 374.45,
-      "previous_close": 394.28,
-      "change_pct": -5.03,
-      "market_cap": 1781475963217.0303,
-      "headlines": [
-        {
-          "title": "1 Critical Reason to Buy Broadcom Stock on the Dip",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-critical-reason-buy-broadcom-215300002.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-16T21:53:00Z"
-        },
-        {
-          "title": "Most Stocks Gained, but Chip Selloff Drags Market",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-071626/card/most-stocks-gained-but-chip-selloff-drags-market-i0I4NTWo7q5InmwR6KFh?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-07-16T20:01:34Z"
-        },
-        {
-          "title": "AI Has Upended Chip Stocks. This Chart Shows How Much.",
-          "url": "https://www.barrons.com/articles/taiwan-semiconductor-manufacturing-chip-stocks-ai-bb1a044a?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-07-16T19:49:00Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64072.05,
-      "change_pct": -0.99
+      "price": 64042.49,
+      "change_pct": -1.04
     },
     {
       "label": "Gold",
-      "price": 3978.8,
-      "change_pct": -1.61
+      "price": 3979.9,
+      "change_pct": -1.59
     },
     {
       "label": "Nasdaq100",

@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-16T13:38:52+00:00",
+  "as_of": "2026-07-16T13:50:22+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "MU",
+   "company": "Micron Technology Inc",
+   "move_pct": -5.12,
+   "price": 857.99,
+   "volume": 8076156,
+   "volume_vs_avg": "~0.2x",
+   "heat_score": 34,
+   "direction": "down",
+   "why": "SK Hynix and SanDisk Sink 7%, Micron Falls 5% as China\u2019s CXMT Readies an $8.6B Memory IPO",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-sandisk-sink-7-132549500.html",
+   "published": "2026-07-16T13:25:49Z",
+   "sector": "AI Chips & Compute"
+  }
+ ]
 }

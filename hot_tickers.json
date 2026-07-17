@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-17T01:11:13+00:00",
+  "as_of": "2026-07-17T02:04:12+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,30 +17,14 @@
    "volume_vs_avg": "~0.6x",
    "heat_score": 59,
    "direction": "down",
-   "why": "Marvell Technology (MRVL) Falls More Steeply Than Broader Market: What Investors Need to Know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-mrvl-falls-more-215006892.html",
-   "published": "2026-07-16T21:50:06Z",
+   "why": "Nasdaq, Dow, S&P 500 Futures Slip As Chip Selloff Overshadows Strong Earnings Season: NFLX, SNDK, SPCX, MRVL Stocks In Focus",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dow-p-500-futures-013642708.html",
+   "published": "2026-07-17T01:36:42Z",
    "sector": "AI Chips & Compute"
   },
   {
    "rank": 2,
-   "ticker": "ORCL",
-   "company": "Oracle Corp",
-   "move_pct": -6.25,
-   "price": 124.21,
-   "volume": 54322695,
-   "volume_vs_avg": "~2x",
-   "heat_score": 45,
-   "direction": "down",
-   "why": "Oracle (ORCL) Suffers a Larger Drop Than the General Market: Key Insights",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-suffers-larger-drop-214503049.html",
-   "published": "2026-07-16T21:45:03Z",
-   "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
-   "rank": 3,
    "ticker": "BBAI",
    "company": "BigBear.ai Holdings Inc",
    "move_pct": -7.01,
@@ -56,7 +40,7 @@
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "ticker": "LSCC",
    "company": "Lattice Semiconductor Corp",
    "move_pct": -6.01,
@@ -72,7 +56,7 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "MU",
    "company": "Micron Technology Inc",
    "move_pct": -5.65,
@@ -84,27 +68,11 @@
    "why": "Dow Jones Futures: Micron, Sandisk, Google Lead AI Sell-Off, Netflix Dives Late; SpaceX Starship Launch Scrubbed",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-micron-sandisk-google-ai-sell-off-spacex-starship-launch/?src=A00220&yptr=yahoo",
-   "published": "2026-07-17T00:56:33Z",
+   "published": "2026-07-17T01:36:37Z",
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 6,
-   "ticker": "TER",
-   "company": "Teradyne Inc",
-   "move_pct": -5.79,
-   "price": 322.3,
-   "volume": 3610894,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 39,
-   "direction": "down",
-   "why": "Teradyne (TER) Is Rebuilding Around AI And More Demanding Chip Tests",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/teradyne-ter-rebuilding-around-ai-211405655.html",
-   "published": "2026-07-16T21:14:05Z",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 7,
+   "rank": 5,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
    "move_pct": -5.33,
@@ -120,7 +88,7 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 8,
+   "rank": 6,
    "ticker": "AVGO",
    "company": "Broadcom Inc",
    "move_pct": -5.03,

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-17T00:36:02+00:00",
+  "as_of": "2026-07-17T00:51:10+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -73,22 +73,6 @@
   },
   {
    "rank": 5,
-   "ticker": "INTC",
-   "company": "Intel Corp",
-   "move_pct": -5.84,
-   "price": 96.98,
-   "volume": 105837548,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 40,
-   "direction": "down",
-   "why": "Teradyne and Intel Shares Are Falling, What You Need To Know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/teradyne-intel-shares-falling-know-204922993.html",
-   "published": "2026-07-16T20:49:22Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 6,
    "ticker": "MU",
    "company": "Micron Technology Inc",
    "move_pct": -5.65,
@@ -100,11 +84,11 @@
    "why": "Dow Jones Futures: Micron, Sandisk, Google Lead AI Sell-Off, Netflix Dives Late; SpaceX Starship Launch Scrubbed",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-micron-sandisk-google-ai-sell-off-spacex-starship-launch/?src=A00220&yptr=yahoo",
-   "published": "2026-07-17T00:09:52Z",
+   "published": "2026-07-17T00:36:48Z",
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "ticker": "TER",
    "company": "Teradyne Inc",
    "move_pct": -5.79,
@@ -120,7 +104,7 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 8,
+   "rank": 7,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
    "move_pct": -5.33,
@@ -133,6 +117,22 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-amd-qualcomm-shares-224922431.html",
    "published": "2026-07-16T22:49:22Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 8,
+   "ticker": "AVGO",
+   "company": "Broadcom Inc",
+   "move_pct": -5.03,
+   "price": 374.45,
+   "volume": 22216413,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 36,
+   "direction": "down",
+   "why": "NXP Semiconductors and Broadcom Shares Plummet, What You Need To Know",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-broadcom-shares-plummet-225722986.html",
+   "published": "2026-07-16T22:57:22Z",
    "sector": "AI Chips & Compute"
   }
  ]

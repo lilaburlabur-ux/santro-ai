@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Semiconductor stocks trim losses as investors buy the dip | Yahoo Finance | 2026-07-17 |
-| Nvidia Narrowly Holds Off Apple to Keep World’s Most Valuable Company Title | Barrons.com | 2026-07-17 |
-| Tech share selloff rolls on, oil prices jump on Mideast clashes | AFP | 2026-07-17 |
-| Why Pentair Stock Suddenly Plunged to a 52-Week Low This Week | Motley Fool | 2026-07-17 |
+| Jim Cramer Says Semiconductor Stocks Are “Going Down.” Buy These 2 Dividend Stocks Instead | 24/7 Wall St. | 2026-07-17 |
+| Jim Cramer Says the Market Is “Dead Wrong” About These 5 Oversold Stocks | 24/7 Wall St. | 2026-07-17 |
+| Jim Cramer Says Oracle Is “Going Down” and Avoid Every Liquor Stock. Here’s What He’d Buy Instead | 24/7 Wall St. | 2026-07-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

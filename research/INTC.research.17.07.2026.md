@@ -38,8 +38,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 |---|---|---|
 | Semiconductor stocks trim losses as investors buy the dip | Yahoo Finance | 2026-07-17 |
 | Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off | Investor's Business Daily | 2026-07-17 |
+| Micron, Nvidia, Netflix, SK Hynix, Alphabet, Intuitive Surgical, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-17 |
 | Intel Braces for a 15% Swing Ahead of Q2 Earnings | GuruFocus.com | 2026-07-17 |
-| Nvidia and AMD Hit by AI Selloff | GuruFocus.com | 2026-07-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

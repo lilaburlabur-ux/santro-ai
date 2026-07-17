@@ -37,9 +37,9 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Headline | Source | Date |
 |---|---|---|
 | Semiconductor stocks trim losses as investors buy the dip | Yahoo Finance | 2026-07-17 |
-| AI-driven memory crunch jolts India’s smartphone market | TechCrunch | 2026-07-17 |
-| Nvidia and AMD Hit by AI Selloff | GuruFocus.com | 2026-07-17 |
-| Qualcomm (QCOM) Secures Long Term Auto Supply Deals To Back AI Vehicles | Simply Wall St. | 2026-07-17 |
+| Here’s What Can End Micron’s Stock Pain | Barrons.com | 2026-07-17 |
+| Long-Term Investors Should Listen Up | Barrons.com | 2026-07-17 |
+| Micron, Nvidia, Netflix, SK Hynix, Alphabet, Intuitive Surgical, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

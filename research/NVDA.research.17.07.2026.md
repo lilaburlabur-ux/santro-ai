@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Semiconductor stocks trim losses as investors buy the dip | Yahoo Finance | 2026-07-17 |
+| Nvidia Narrowly Holds Off Apple to Keep World’s Most Valuable Company Title | Barrons.com | 2026-07-17 |
 | Tech share selloff rolls on, oil prices jump on Mideast clashes | AFP | 2026-07-17 |
 | Why Pentair Stock Suddenly Plunged to a 52-Week Low This Week | Motley Fool | 2026-07-17 |
-| Meta Platforms: AI Return on Invested Capital Is Uncertain (NASDAQ:META) | Motley Fool | 2026-07-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

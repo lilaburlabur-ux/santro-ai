@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-17T16:22:54+00:00",
+  "as_of": "2026-07-17T16:37:57+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,32 @@
    "rank": 1,
    "ticker": "ISRG",
    "company": "Intuitive Surgical Inc",
-   "move_pct": -12.69,
-   "price": 351.26,
-   "volume": 6345968,
+   "move_pct": -12.89,
+   "price": 350.45,
+   "volume": 6533848,
    "volume_vs_avg": "~2x",
-   "heat_score": 81,
+   "heat_score": 82,
    "direction": "down",
    "why": "Micron, Nvidia, Netflix, SK Hynix, Intuitive Surgical, and More Stocks That Explain Today\u2019s Market",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.barrons.com/articles/stock-movers-34bb7bed?siteid=yhoof2&yptr=yahoo",
    "published": "2026-07-17T15:45:00Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 2,
+   "ticker": "SPCX",
+   "company": "SpaceX",
+   "move_pct": -5.03,
+   "price": 124.52,
+   "volume": 46175495,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 34,
+   "direction": "down",
+   "why": "SpaceX Falls After Starship Launch Abort",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/spacex-falls-starship-launch-abort-161734598.html",
+   "published": "2026-07-17T16:17:34Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]

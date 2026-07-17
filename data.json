@@ -1,16 +1,16 @@
 {
-  "as_of_utc": "2026-07-17T17:41:39+00:00",
-  "as_of_local": "2026-07-17 17:41:39 UTC",
+  "as_of_utc": "2026-07-17T17:46:44+00:00",
+  "as_of_local": "2026-07-17 17:46:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 205.26,
+      "price": 205.28,
       "previous_close": 207.4,
-      "change_pct": -1.03,
-      "market_cap": 4971602326950.073,
+      "change_pct": -1.02,
+      "market_cap": 4972086850433.35,
       "headlines": [
         {
           "title": "Apple reclaims world's most valuable company as Nvidia slips",
@@ -35,10 +35,10 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 401.52,
+      "price": 401.12,
       "previous_close": 409.74,
-      "change_pct": -2.0,
-      "market_cap": 2082498946414.0999,
+      "change_pct": -2.1,
+      "market_cap": 2080398430769.98,
       "headlines": [
         {
           "title": "Semiconductor stocks keep falling as investors go risk-off, Chinese startup releases powerful new AI model",
@@ -63,11 +63,17 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 375.04,
+      "price": 375.59,
       "previous_close": 374.45,
-      "change_pct": 0.16,
-      "market_cap": 1784639649512.026,
+      "change_pct": 0.3,
+      "market_cap": 1786209732283.668,
       "headlines": [
+        {
+          "title": "Chip Stocks, Tech IPOs, and Wildfire Smoke Are All Clouding the Outlook",
+          "url": "https://www.barrons.com/articles/tech-chip-stocks-ipos-ai-selloff-e9257eb1?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-07-17T17:27:00Z"
+        },
         {
           "title": "SK Hynix Jumps 8% on Bargain-Hunting Rebound as HSBC Reaffirms SKHY as a Top Chip Pick",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-jumps-8-bargain-165150406.html",
@@ -79,50 +85,44 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/4-tech-stocks-throwing-off-154743717.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-07-17T15:47:43Z"
-        },
-        {
-          "title": "Meta, Tesla, Nvidia: This ETF Went All-In on the Magnificent Seven. Is It Paying Off?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-tesla-nvidia-etf-went-153020388.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-07-17T15:30:20Z"
         }
       ]
     },
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 887.15,
+      "price": 888.53,
       "previous_close": 853.2,
-      "change_pct": 3.98,
-      "market_cap": 1001229638282.98,
+      "change_pct": 4.14,
+      "market_cap": 1003081790661.7776,
       "headlines": [
         {
-          "title": "Micron Is Quietly Becoming a More Reliable Long-Term Growth Play",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-quietly-becoming-more-reliable-164300314.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-17T16:43:00Z"
-        },
-        {
-          "title": "Micron, Nvidia, Netflix, SK Hynix, Intuitive Surgical, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-34bb7bed?siteid=yhoof2&yptr=yahoo",
+          "title": "The Chip Selloff Has 'Gone Too Far.' The SOX Index Turns Positive.",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-071726/card/the-chip-selloff-has-gone-too-far-the-sox-index-turns-positive--dXKMv5ZY1UywY4rjITbc?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
-          "published": "2026-07-17T15:45:00Z"
+          "published": "2026-07-17T17:40:42Z"
         },
         {
-          "title": "Can You Stomach A Real Micron Stock Crash?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stomach-real-micron-stock-crash-153306234.html",
-          "publisher": "Trefis",
-          "published": "2026-07-17T15:33:06Z"
+          "title": "Chip Stocks, Tech IPOs, and Wildfire Smoke Are All Clouding the Outlook",
+          "url": "https://www.barrons.com/articles/tech-chip-stocks-ipos-ai-selloff-e9257eb1?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-07-17T17:27:00Z"
+        },
+        {
+          "title": "SK Hynix Is Today\u2019s Standout Chip Stock for an Unusual Reason",
+          "url": "https://www.barrons.com/articles/sk-hynix-stock-price-chips-4ea14bb1?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-07-17T17:26:00Z"
         }
       ]
     },
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 502.67,
+      "price": 503.19,
       "previous_close": 500.94,
-      "change_pct": 0.35,
-      "market_cap": 819702961130.093,
+      "change_pct": 0.45,
+      "market_cap": 819621401240.9535,
       "headlines": [
         {
           "title": "AMD: Jefferies eyes Anthropic deal as Advancing AI 2026 event nears",
@@ -147,10 +147,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 96.82,
+      "price": 96.67,
       "previous_close": 96.98,
-      "change_pct": -0.17,
-      "market_cap": 486717821594.2383,
+      "change_pct": -0.32,
+      "market_cap": 485658378280.63965,
       "headlines": [
         {
           "title": "SK Hynix Jumps 8% on Bargain-Hunting Rebound as HSBC Reaffirms SKHY as a Top Chip Pick",
@@ -175,10 +175,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 270.9,
+      "price": 270.93,
       "previous_close": 262.01,
-      "change_pct": 3.39,
-      "market_cap": 288401156736.0968,
+      "change_pct": 3.4,
+      "market_cap": 288135143280.8468,
       "headlines": [
         {
           "title": "Arm Holdings chief says AI boom is being hampered by supply constraints",
@@ -203,10 +203,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 170.13,
+      "price": 170.35,
       "previous_close": 170.61,
-      "change_pct": -0.28,
-      "market_cap": 179364453216.55273,
+      "change_pct": -0.15,
+      "market_cap": 179501462280.27344,
       "headlines": [
         {
           "title": "Can INTC's Google Cloud AI Deal Expansion Boost its Enterprise Growth?",
@@ -231,38 +231,38 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 192.02,
+      "price": 192.2,
       "previous_close": 188.3,
-      "change_pct": 1.98,
-      "market_cap": 172355454453.05472,
+      "change_pct": 2.07,
+      "market_cap": 172463155401.2736,
       "headlines": [
+        {
+          "title": "Chip Stocks, Tech IPOs, and Wildfire Smoke Are All Clouding the Outlook",
+          "url": "https://www.barrons.com/articles/tech-chip-stocks-ipos-ai-selloff-e9257eb1?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-07-17T17:27:00Z"
+        },
+        {
+          "title": "The 'Invisible Speculative Bear Market' Is Coming Out of Hiding",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-071726/card/the-invisible-speculative-bear-market-is-coming-out-of-hiding-K6VAYSFJ3aTVA2vIwSXf?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-07-17T16:39:41Z"
+        },
         {
           "title": "2 Stocks to Buy in the Chip Stock Sell-Off",
           "url": "https://finance.yahoo.com/markets/stocks/articles/2-stocks-buy-chip-stock-155000206.html",
           "publisher": "Motley Fool",
           "published": "2026-07-17T15:50:00Z"
-        },
-        {
-          "title": "AMD Stock Is On Sale, But Is It A Bargain?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-sale-bargain-150639930.html",
-          "publisher": "Trefis",
-          "published": "2026-07-17T15:06:39Z"
-        },
-        {
-          "title": "Credo's Free Cash Flow Soars: Can the Momentum Continue?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/credos-free-cash-flow-soars-144300383.html",
-          "publisher": "Zacks",
-          "published": "2026-07-17T14:43:00Z"
         }
       ]
     },
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 268.01,
+      "price": 268.55,
       "previous_close": 270.66,
-      "change_pct": -0.98,
-      "market_cap": 67662249172.0,
+      "change_pct": -0.78,
+      "market_cap": 67802368771.69159,
       "headlines": [
         {
           "title": "NXP Semiconductors and Broadcom Shares Plummet, What You Need To Know",
@@ -287,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 125.66,
+      "price": 125.83,
       "previous_close": 124.5,
-      "change_pct": 0.93,
-      "market_cap": 17216407812.357758,
+      "change_pct": 1.07,
+      "market_cap": 17228738017.75,
       "headlines": [
         {
           "title": "Lattice Semiconductor, AMD, and Qualcomm Shares Are Falling, What You Need To Know",
@@ -315,10 +315,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 146.8,
+      "price": 146.83,
       "previous_close": 149.29,
-      "change_pct": -1.67,
-      "market_cap": 7419137506.886902,
+      "change_pct": -1.65,
+      "market_cap": 7430777137.566071,
       "headlines": [
         {
           "title": "AVAV Stock Has Slumped Over 40% YTD \u2014 Why Raymond James Thinks This Beaten-Down Drone Stock Can Soar 49%",
@@ -343,10 +343,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 115.84,
+      "price": 116.14,
       "previous_close": 115.55,
-      "change_pct": 0.25,
-      "market_cap": 4525020244.788208,
+      "change_pct": 0.51,
+      "market_cap": 4530489293.610809,
       "headlines": [
         {
           "title": "Here's Why ON Semiconductor Just Made a $7 Billion Bet on AI",
@@ -371,10 +371,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 38.45,
+      "price": 38.44,
       "previous_close": 38.52,
-      "change_pct": -0.18,
-      "market_cap": 1071471306.2339859,
+      "change_pct": -0.19,
+      "market_cap": 1071053432.7029953,
       "headlines": [
         {
           "title": "Ceva (CEVA) Launches RealSpace Elevate Spatial Audio for Gaming Headsets",
@@ -401,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 54.62,
-      "change_pct": 4.36,
+      "price": 54.65,
+      "change_pct": 4.41,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 3.98,
-          "price": 887.15,
+          "change_pct": 4.14,
+          "price": 888.53,
           "currency": "USD"
         },
         {
@@ -445,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 3.3,
-          "price": 1457.61,
+          "change_pct": 3.5,
+          "price": 1460.46,
           "currency": "USD"
         },
         {
@@ -454,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 7.01,
-          "price": 797.74,
+          "change_pct": 6.83,
+          "price": 796.41,
           "currency": "USD"
         },
         {
@@ -463,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 4.49,
-          "price": 487.79,
+          "change_pct": 4.58,
+          "price": 488.2,
           "currency": "USD"
         },
         {
@@ -491,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 54.62,
-    "change_pct": 4.36,
+    "price": 54.65,
+    "change_pct": 4.41,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 3.98,
-        "price": 887.15,
+        "change_pct": 4.14,
+        "price": 888.53,
         "currency": "USD"
       },
       {
@@ -535,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 3.3,
-        "price": 1457.61,
+        "change_pct": 3.5,
+        "price": 1460.46,
         "currency": "USD"
       },
       {
@@ -544,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 7.01,
-        "price": 797.74,
+        "change_pct": 6.83,
+        "price": 796.41,
         "currency": "USD"
       },
       {
@@ -553,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 4.49,
-        "price": 487.79,
+        "change_pct": 4.58,
+        "price": 488.2,
         "currency": "USD"
       },
       {
@@ -580,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7481.75,
+      "price": 7481.97,
       "change_pct": -0.69
     },
     {
       "label": "BTC",
-      "price": 63982.55,
-      "change_pct": 0.3
+      "price": 64046.4,
+      "change_pct": 0.4
     },
     {
       "label": "Gold",
-      "price": 4018.4,
-      "change_pct": 0.82
+      "price": 4016.1,
+      "change_pct": 0.77
     },
     {
       "label": "Nasdaq100",
-      "price": 28773.24,
-      "change_pct": -0.87
+      "price": 28775.79,
+      "change_pct": -0.86
     }
   ]
 }

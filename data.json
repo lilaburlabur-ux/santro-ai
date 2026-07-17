@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-17T09:18:01+00:00",
-  "as_of_local": "2026-07-17 09:18:01 UTC",
+  "as_of_utc": "2026-07-17T09:22:13+00:00",
+  "as_of_local": "2026-07-17 09:22:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-07-16T10:00:00Z"
         },
         {
-          "title": "Sandisk Stock Is Up More Than 3,700% From Its 52-Week Low. Is the Memory Rally Still Investable, or Is This Stock Priced for Perfection?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stock-more-3-700-085100719.html",
+          "title": "Small-Cap Stocks Are Crushing the S&P 500. This ETF Could Be the Smartest Buy of 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/small-cap-stocks-crushing-p-091200695.html",
           "publisher": "Motley Fool",
-          "published": "2026-07-17T08:51:00Z"
+          "published": "2026-07-17T09:12:00Z"
         }
       ]
     },
@@ -341,34 +343,6 @@
       ]
     },
     {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 115.55,
-      "previous_close": 121.59,
-      "change_pct": -4.97,
-      "market_cap": 4513692331.009827,
-      "headlines": [
-        {
-          "title": "Is ON Semiconductor (ON) Fully Priced After Its 151% Run?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-fully-priced-151-run-161348064.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-16T16:13:48Z"
-        },
-        {
-          "title": "ON Jumps 67% Year to Date: Buy, Sell or Hold the Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jumps-67-date-buy-sell-155400695.html",
-          "publisher": "Zacks",
-          "published": "2026-07-14T15:54:00Z"
-        },
-        {
-          "title": "The 5 Smartphone Chip Stocks Poised for the Next Handset Upgrade Wave",
-          "url": "https://finance.yahoo.com/technology/articles/5-smartphone-chip-stocks-poised-123035239.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-07-11T12:30:35Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 38.52,
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62822.73,
+      "price": 62822.02,
       "change_pct": -1.52
     },
     {
       "label": "Gold",
-      "price": 4001.5,
-      "change_pct": 0.4
+      "price": 4000.7,
+      "change_pct": 0.38
     },
     {
       "label": "Nasdaq100",

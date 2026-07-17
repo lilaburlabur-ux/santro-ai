@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-17T08:34:44+00:00",
+  "as_of": "2026-07-17T08:40:06+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "ARM",
+   "company": "Arm Holdings Plc ADR",
+   "move_pct": -5.2,
+   "price": 248.38,
+   "volume": 9753800,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 38,
+   "direction": "down",
+   "why": "Arm Holdings chief says AI boom is being hampered by supply constraints",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-chief-says-ai-065600970.html",
+   "published": "2026-07-17T06:56:00Z",
+   "sector": "AI Chips & Compute"
+  }
+ ]
 }

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-17T17:41:38+00:00",
+  "as_of": "2026-07-17T17:56:46+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,9 +11,9 @@
    "rank": 1,
    "ticker": "ISRG",
    "company": "Intuitive Surgical Inc",
-   "move_pct": -13.3,
-   "price": 348.8,
-   "volume": 7482745,
+   "move_pct": -13.12,
+   "price": 349.55,
+   "volume": 7691557,
    "volume_vs_avg": "~3x",
    "heat_score": 85,
    "direction": "down",
@@ -22,22 +22,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/intuitive-surgical-falls-52-week-172357513.html",
    "published": "2026-07-17T17:23:57Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 2,
-   "ticker": "SKHY",
-   "company": "SK hynix Inc (ADR)",
-   "move_pct": 5.49,
-   "price": 160.66,
-   "volume": 50827124,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 38,
-   "direction": "up",
-   "why": "SK Hynix Jumps 8% on Bargain-Hunting Rebound as HSBC Reaffirms SKHY as a Top Chip Pick",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-jumps-8-bargain-165150406.html",
-   "published": "2026-07-17T16:51:50Z",
-   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

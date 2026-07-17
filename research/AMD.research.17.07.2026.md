@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Semiconductor stocks trim losses as investors buy the dip | Yahoo Finance | 2026-07-17 |
+| Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off | Investor's Business Daily | 2026-07-17 |
 | AMD's AI Event Faces Customer Test | GuruFocus.com | 2026-07-17 |
 | AMD AI Event Puts Spotlight on MI500 | GuruFocus.com | 2026-07-17 |
-| Nvidia and AMD Hit by AI Selloff | GuruFocus.com | 2026-07-17 |
-| Meet TMGN, the 0.88% Fee ETF Betting on Tech Giants and Options Income | 24/7 Wall St. | 2026-07-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

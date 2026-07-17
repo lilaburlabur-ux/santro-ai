@@ -37,9 +37,9 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Headline | Source | Date |
 |---|---|---|
 | Nvidia and AMD Hit by AI Selloff | GuruFocus.com | 2026-07-17 |
-| Stocks Tumble as the Rout in Chipmakers Deepens | Barchart | 2026-07-17 |
 | Arm Holdings chief says AI boom is being hampered by supply constraints | Proactive | 2026-07-17 |
 | Chip Stocks Pummeled. SK Hynix Dives. SOX Socked Again. | Investor's Business Daily | 2026-07-16 |
+| Arm (ARM) Stock May Be Priced For Perfection With P B At 35.7x | Simply Wall St. | 2026-07-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

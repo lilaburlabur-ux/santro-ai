@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Semiconductor stocks trim losses as investors buy the dip | Yahoo Finance | 2026-07-17 |
 | Nvidia and AMD Hit by AI Selloff | GuruFocus.com | 2026-07-17 |
 | Apollo Likens Risky Private Credit to Mere ‘Sprinkle’ on Cupcake | Bloomberg | 2026-07-17 |
 | Chip Stocks, Tech IPOs, and Wildfire Smoke Are All Clouding the Outlook | Barrons.com | 2026-07-17 |
-| SK Hynix Jumps 8% on Bargain-Hunting Rebound as HSBC Reaffirms SKHY as a Top Chip Pick | 24/7 Wall St. | 2026-07-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

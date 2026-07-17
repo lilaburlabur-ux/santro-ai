@@ -36,10 +36,10 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
-| Stocks Tumble as the Rout in Chipmakers Deepens | Barchart | 2026-07-17 |
 | NXP Semiconductors and Broadcom Shares Plummet, What You Need To Know | StockStory | 2026-07-16 |
 | NXP Semiconductors (NXPI) Falls With Chip Selloff, Is It Still 8% Undervalued? | Simply Wall St. | 2026-07-16 |
 | How Investors May Respond To NXP Semiconductors (NXPI) Sector-Wide Profit Taking And Geopolitical Tensions | Simply Wall St. | 2026-07-15 |
+| Texas Instruments' CapEx Moderates: Can Cash Flow Improve Further? | Zacks | 2026-07-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

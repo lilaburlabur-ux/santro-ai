@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
-| Semiconductor stocks trim losses as investors buy the dip | Yahoo Finance | 2026-07-17 |
+| Earnings live: Netflix stock falls on Q3 revenue outlook and uninspiring engagement trends | Yahoo Finance | 2026-07-14 |
+| Stock market today: Dow, S&P 500, Nasdaq drop as chip stocks tumble, Alphabet stock sinks | Yahoo Finance | 2026-07-16 |
 | Nvidia and AMD Hit by AI Selloff | GuruFocus.com | 2026-07-17 |
 | Micron vs. TSMC: Which AI Semiconductor Stock Is a Better Buy Now? | Zacks | 2026-07-17 |
-| Intel Stock Back In Growth Mode, But Sellers Still Smack Shares Ahead Of Q2 Report | Investor's Business Daily | 2026-07-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

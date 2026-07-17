@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| Semiconductor stocks trim losses as investors buy the dip | Yahoo Finance | 2026-07-17 |
 | Qualcomm (QCOM) Slips 2% After GF Securities Starts Coverage With Hold Rating | GuruFocus.com | 2026-07-17 |
 | Qualcomm (QCOM) Secures Long Term Auto Supply Deals To Back AI Vehicles | Simply Wall St. | 2026-07-17 |
 | Can INTC's Google Cloud AI Deal Expansion Boost its Enterprise Growth? | Zacks | 2026-07-17 |
-| 4 Tech Stocks Throwing Off Dividends | 24/7 Wall St. | 2026-07-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

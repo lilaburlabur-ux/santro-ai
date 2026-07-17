@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-17T12:45:11+00:00",
+  "as_of": "2026-07-17T13:00:33+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "ISRG",
    "company": "Intuitive Surgical Inc",
-   "move_pct": -9.63,
-   "price": 363.57,
+   "move_pct": -9.45,
+   "price": 364.3,
    "volume": 5599500,
    "volume_vs_avg": "~2x",
    "heat_score": 69,
    "direction": "down",
-   "why": "Intuitive Surgical Shares Fall as US da Vinci Procedure Growth Slows",
+   "why": "Netflix, Intuitive Surgical tumble premarket",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/healthcare/articles/intuitive-surgical-shares-fall-us-105204800.html",
-   "published": "2026-07-17T10:52:04Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/netflix-intuitive-surgical-tumble-premarket-123416601.html",
+   "published": "2026-07-17T12:34:16Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]

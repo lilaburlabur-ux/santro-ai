@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Nvidia CEO's iconic leather jacket fetches $960,000 at auction | Yahoo Finance Video | 2026-07-17 |
 | Apple reclaims world's most valuable company as Nvidia slips | Yahoo Finance Video | 2026-07-17 |
+| Jensen Huang Denied Delay Reports for Nvidia's Vera Rubin AI Systems | Motley Fool | 2026-07-17 |
 | The Hidden Danger in Leveraged Gold ETFs Like UGL and GLL | 24/7 Wall St. | 2026-07-17 |
-| AMD's AI Event Faces Customer Test | GuruFocus.com | 2026-07-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

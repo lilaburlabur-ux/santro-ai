@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-17T14:06:11+00:00",
+  "as_of": "2026-07-17T14:15:57+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "ISRG",
    "company": "Intuitive Surgical Inc",
-   "move_pct": -11.47,
-   "price": 356.2,
-   "volume": 2778653,
-   "volume_vs_avg": "~1.0x",
+   "move_pct": -11.11,
+   "price": 357.63,
+   "volume": 3263578,
+   "volume_vs_avg": "~1.2x",
    "heat_score": 70,
    "direction": "down",
-   "why": "Netflix, Intuitive Surgical tumble premarket",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/netflix-intuitive-surgical-tumble-premarket-123416601.html",
-   "published": "2026-07-17T12:34:16Z",
+   "why": "ISRG Stock Gets A Barrage Of Price Target Cuts From Wall Street \u2014 Citi Removes It From \u2018Upside 90-Day Catalyst Watch\u2019",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/isrg-stock-gets-barrage-price-134710421.html",
+   "published": "2026-07-17T13:47:10Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]

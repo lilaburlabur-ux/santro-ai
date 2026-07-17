@@ -1,5 +1,5 @@
 # MU Research Report
-**Micron Technology, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Micron Technology** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `MU.research.17.07.2026`
 
 | Field | Value |
@@ -38,8 +38,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 |---|---|---|
 | Semiconductor stocks trim losses as investors buy the dip | Yahoo Finance | 2026-07-17 |
 | Here’s What Can End Micron’s Stock Pain | Barrons.com | 2026-07-17 |
-| Long-Term Investors Should Listen Up | Barrons.com | 2026-07-17 |
-| Micron, Nvidia, Netflix, SK Hynix, Alphabet, Intuitive Surgical, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-17 |
+| China’s Moonshot AI Adds to Chip Investors’ Worries | The Wall Street Journal | 2026-07-17 |
+| Stocks to Watch Recap: Intel, Netflix, SpaceX, Burberry | The Wall Street Journal | 2026-07-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

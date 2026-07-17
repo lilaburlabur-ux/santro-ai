@@ -37,9 +37,9 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Headline | Source | Date |
 |---|---|---|
 | Semiconductor stocks trim losses as investors buy the dip | Yahoo Finance | 2026-07-17 |
+| Stocks to Watch Recap: Intel, Netflix, SpaceX, Burberry | The Wall Street Journal | 2026-07-17 |
 | Micron, Nvidia, Netflix, SK Hynix, Alphabet, Intuitive Surgical, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-17 |
 | Chip Stocks, Tech IPOs, and Wildfire Smoke Are All Clouding the Outlook | Barrons.com | 2026-07-17 |
-| The 'Invisible Speculative Bear Market' Is Coming Out of Hiding | Barrons.com | 2026-07-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

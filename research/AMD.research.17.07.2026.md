@@ -37,9 +37,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | Semiconductor stocks trim losses as investors buy the dip | Yahoo Finance | 2026-07-17 |
+| Stock Market Today, July 17: Stocks Slide as Semiconductor Rout Deepens | Motley Fool | 2026-07-17 |
 | Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off | Investor's Business Daily | 2026-07-17 |
-| Long-Term Investors Should Listen Up | Barrons.com | 2026-07-17 |
-| Micron, Nvidia, Netflix, SK Hynix, Alphabet, Intuitive Surgical, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-17 |
+| Stocks to Watch Recap: Intel, Netflix, SpaceX, Burberry | The Wall Street Journal | 2026-07-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

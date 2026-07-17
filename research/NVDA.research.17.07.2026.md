@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Semiconductor stocks trim losses as investors buy the dip | Yahoo Finance | 2026-07-17 |
-| Jim Cramer Says Semiconductor Stocks Are “Going Down.” Buy These 2 Dividend Stocks Instead | 24/7 Wall St. | 2026-07-17 |
-| Jim Cramer Says the Market Is “Dead Wrong” About These 5 Oversold Stocks | 24/7 Wall St. | 2026-07-17 |
-| Jim Cramer Says Oracle Is “Going Down” and Avoid Every Liquor Stock. Here’s What He’d Buy Instead | 24/7 Wall St. | 2026-07-17 |
+| CrowdStrike vs. NVIDIA: Which Growth Tech Stock Is a Better Buy in 2026, the Cybersecurity Giant or AI Leader? | Motley Fool | 2026-07-17 |
+| UiPath Vs. ServiceNow: Which Agentic AI Stock Is the Better Buy? | Motley Fool | 2026-07-17 |
+| Stock Market Today, July 17: Stocks Slide as Semiconductor Rout Deepens | Motley Fool | 2026-07-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

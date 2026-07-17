@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-17T09:22:13+00:00",
-  "as_of_local": "2026-07-17 09:22:13 UTC",
+  "as_of_utc": "2026-07-17T09:27:15+00:00",
+  "as_of_local": "2026-07-17 09:27:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SYNA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -343,6 +341,34 @@
       ]
     },
     {
+      "symbol": "SYNA",
+      "name": "Synaptics",
+      "price": 115.55,
+      "previous_close": 121.59,
+      "change_pct": -4.97,
+      "market_cap": 4513692331.009827,
+      "headlines": [
+        {
+          "title": "Is ON Semiconductor (ON) Fully Priced After Its 151% Run?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-fully-priced-151-run-161348064.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-07-16T16:13:48Z"
+        },
+        {
+          "title": "ON Jumps 67% Year to Date: Buy, Sell or Hold the Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jumps-67-date-buy-sell-155400695.html",
+          "publisher": "Zacks",
+          "published": "2026-07-14T15:54:00Z"
+        },
+        {
+          "title": "The 5 Smartphone Chip Stocks Poised for the Next Handset Upgrade Wave",
+          "url": "https://finance.yahoo.com/technology/articles/5-smartphone-chip-stocks-poised-123035239.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-07-11T12:30:35Z"
+        }
+      ]
+    },
+    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 38.52,
@@ -559,12 +585,12 @@
     },
     {
       "label": "BTC",
-      "price": 62822.02,
-      "change_pct": -1.52
+      "price": 62899.56,
+      "change_pct": -1.39
     },
     {
       "label": "Gold",
-      "price": 4000.7,
+      "price": 4000.9,
       "change_pct": 0.38
     },
     {

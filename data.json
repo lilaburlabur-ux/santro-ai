@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-18T17:24:18+00:00",
-  "as_of_local": "2026-07-18 17:24:18 UTC",
+  "as_of_utc": "2026-07-18T17:39:23+00:00",
+  "as_of_local": "2026-07-18 17:39:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-07-18T13:16:54Z"
         },
         {
+          "title": "1 Dividend ETF I'm Loading Up on Before 2027",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-dividend-etf-im-loading-172000046.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-18T17:20:00Z"
+        },
+        {
           "title": "2 Space Stocks You Should Buy Before Piling Into SpaceX",
           "url": "https://finance.yahoo.com/markets/stocks/articles/2-space-stocks-buy-piling-170500246.html",
           "publisher": "Motley Fool",
           "published": "2026-07-18T17:05:00Z"
-        },
-        {
-          "title": "Here's Why The Metals Company Stock Plunged 28.2% in the First Half of 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-metals-company-stock-170409021.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-18T17:04:09Z"
         }
       ]
     },
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-qualcomm-over-50-163021342.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-07-18T16:30:21Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 188.68,
-      "previous_close": 188.3,
-      "change_pct": 0.2,
-      "market_cap": 169348675157.8283,
-      "headlines": [
-        {
-          "title": "Semiconductor stocks trim losses as investors buy the dip",
-          "url": "https://finance.yahoo.com/markets/article/semiconductor-stocks-trim-losses-as-investors-buy-the-dip-130920103.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-17T13:09:20Z"
-        },
-        {
-          "title": "Stock Market Week Ahead: Navigating Uncertainty",
-          "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-navigating-uncertainty/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-07-18T15:15:50Z"
-        },
-        {
-          "title": "Rambus Gains Momentum on Rising AI Memory Bandwidth Needs",
-          "url": "https://finance.yahoo.com/technology/ai/articles/rambus-gains-momentum-rising-ai-130052383.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-07-18T13:00:52Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 64243.21,
-      "change_pct": 0.54
+      "price": 64343.26,
+      "change_pct": 0.69
     },
     {
       "label": "Gold",

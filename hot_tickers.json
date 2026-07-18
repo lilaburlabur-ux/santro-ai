@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-18T01:04:48+00:00",
+  "as_of": "2026-07-18T01:53:25+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -25,22 +25,6 @@
   },
   {
    "rank": 2,
-   "ticker": "PUBM",
-   "company": "PubMatic Inc",
-   "move_pct": -6.6,
-   "price": 12.73,
-   "volume": 835578,
-   "volume_vs_avg": "~2x",
-   "heat_score": 46,
-   "direction": "down",
-   "why": "Cadence Design Systems, Domo, and PubMatic Shares Plummet, What You Need To Know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-domo-pubmatic-214546308.html",
-   "published": "2026-07-17T21:45:46Z",
-   "sector": "AI Applications & Data Software"
-  },
-  {
-   "rank": 3,
    "ticker": "SPCX",
    "company": "SpaceX",
    "move_pct": -5.43,

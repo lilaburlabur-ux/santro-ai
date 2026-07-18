@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-18T10:52:39+00:00",
-  "as_of_local": "2026-07-18 10:52:39 UTC",
+  "as_of_utc": "2026-07-18T11:07:53+00:00",
+  "as_of_local": "2026-07-18 11:07:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -51,34 +53,6 @@
           "url": "https://finance.yahoo.com/video/wall-st-ends-lower-day-221449448.html",
           "publisher": "Reuters Videos",
           "published": "2026-07-17T22:14:49Z"
-        },
-        {
-          "title": "Nvidia and AMD Hit by AI Selloff",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-hit-ai-selloff-200109203.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-07-17T20:01:09Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 370.83,
-      "previous_close": 374.45,
-      "change_pct": -0.97,
-      "market_cap": 1764253400940.817,
-      "headlines": [
-        {
-          "title": "Semiconductor stocks trim losses as investors buy the dip",
-          "url": "https://finance.yahoo.com/markets/article/semiconductor-stocks-trim-losses-as-investors-buy-the-dip-130920103.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-17T13:09:20Z"
-        },
-        {
-          "title": "China\u2019s Kimi K3 Hits US Stock Markets. Is the American AI Boom Over?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/china-kimi-k3-hits-us-225728395.html",
-          "publisher": "BeInCrypto",
-          "published": "2026-07-17T22:57:28Z"
         },
         {
           "title": "Nvidia and AMD Hit by AI Selloff",
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 63960.65,
-      "change_pct": 0.1
+      "price": 63975.98,
+      "change_pct": 0.12
     },
     {
       "label": "Gold",

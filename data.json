@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-19T19:37:51+00:00",
-  "as_of_local": "2026-07-19 19:37:51 UTC",
+  "as_of_utc": "2026-07-19T19:45:43+00:00",
+  "as_of_local": "2026-07-19 19:45:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -21,16 +19,16 @@
           "published": "2026-07-19T12:08:41Z"
         },
         {
+          "title": "Elon Musk's Tesla Remains One of the Last Great Founder-Led Tech Giants. Is the Stock a Buy Before July 22?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-tesla-remains-one-192500823.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-19T19:25:00Z"
+        },
+        {
           "title": "Analysts Project the Oklo Stock Price Will Reach $87 in 2027 -- Is the Risk-to-Reward Scenario Worth It?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-project-oklo-stock-price-192100654.html",
           "publisher": "Motley Fool",
           "published": "2026-07-19T19:21:00Z"
-        },
-        {
-          "title": "If You'd Put $10,000 in Palantir at Its IPO, Here's What You'd Have Now -- Even After a 37% Drop",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/youd-put-10-000-palantir-191300453.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-19T19:13:00Z"
         }
       ]
     },
@@ -143,6 +141,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-just-passed-nvidia-top-130100471.html",
           "publisher": "Motley Fool",
           "published": "2026-07-19T13:01:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 95.04,
+      "previous_close": 96.98,
+      "change_pct": -2.0,
+      "market_cap": 477671044601.4404,
+      "headlines": [
+        {
+          "title": "Big Tech earnings test tech's big rotation: What to watch this week",
+          "url": "https://finance.yahoo.com/markets/article/big-tech-earnings-test-techs-big-rotation-what-to-watch-this-week-122359843.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-19T12:23:59Z"
+        },
+        {
+          "title": "Jobs, GM, Tesla, Alphabet, Intel, Verizon, and More to Watch This Week",
+          "url": "https://www.barrons.com/articles/jobs-gm-tesla-alphabet-intel-verizon-and-more-to-watch-this-week-3dd9de07?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-07-19T18:00:00Z"
+        },
+        {
+          "title": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-07-19T16:04:39Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 64387.05,
-      "change_pct": -0.63
+      "price": 64366.88,
+      "change_pct": -0.66
     },
     {
       "label": "Gold",

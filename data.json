@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-19T02:47:43+00:00",
-  "as_of_local": "2026-07-19 02:47:43 UTC",
+  "as_of_utc": "2026-07-19T03:02:54+00:00",
+  "as_of_local": "2026-07-19 03:02:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -59,6 +57,34 @@
           "url": "https://finance.yahoo.com/technology/articles/tsmc-pouring-100-billion-more-193035757.html",
           "publisher": "Benzinga",
           "published": "2026-07-18T19:30:35Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 370.83,
+      "previous_close": 374.45,
+      "change_pct": -0.97,
+      "market_cap": 1764253400940.817,
+      "headlines": [
+        {
+          "title": "AI Investors Are Becoming Pickier. 2 Stocks Still Stand Out.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-investors-becoming-pickier-2-173001259.html",
+          "publisher": "Barchart",
+          "published": "2026-07-18T17:30:01Z"
+        },
+        {
+          "title": "Price Prediction: Qualcomm Has Over 50% Upside as AI Data Center Push Accelerates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-qualcomm-over-50-163021342.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-07-18T16:30:21Z"
+        },
+        {
+          "title": "History Says Buying Chip Stocks After a 20% Drawdown Has Usually Worked in This Cycle. Will It Work Again?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/history-says-buying-chip-stocks-110500517.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-18T11:05:00Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 64790.0,
-      "change_pct": 1.39
+      "price": 64754.52,
+      "change_pct": 1.34
     },
     {
       "label": "Gold",

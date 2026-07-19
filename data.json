@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-19T02:32:40+00:00",
-  "as_of_local": "2026-07-19 02:32:40 UTC",
+  "as_of_utc": "2026-07-19T02:47:43+00:00",
+  "as_of_local": "2026-07-19 02:47:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-07-18T13:16:54Z"
         },
         {
-          "title": "The White House Is Renewing Its Push for a Strategic Bitcoin Reserve. Here's What That Could Mean for Bitcoin.",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/white-house-renewing-push-strategic-015000613.html",
+          "title": "SpaceX Stock Just Quietly Fell to $124 a Share -- and It's Still Not a Buy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-just-quietly-fell-023400040.html",
           "publisher": "Motley Fool",
-          "published": "2026-07-19T01:50:00Z"
+          "published": "2026-07-19T02:34:00Z"
         },
         {
-          "title": "Chubb Trades at Just 12 Times Earnings, Well Below the Broader Market. Is One of the World's Biggest Insurers a Bargain?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chubb-trades-just-12-times-005000250.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-19T00:50:00Z"
+          "title": "South Korean stocks emerge as key gauge for global AI sentiment",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/south-korean-stocks-emerge-key-022758936.html",
+          "publisher": "Investing.com",
+          "published": "2026-07-19T02:27:58Z"
         }
       ]
     },
@@ -57,34 +59,6 @@
           "url": "https://finance.yahoo.com/technology/articles/tsmc-pouring-100-billion-more-193035757.html",
           "publisher": "Benzinga",
           "published": "2026-07-18T19:30:35Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 370.83,
-      "previous_close": 374.45,
-      "change_pct": -0.97,
-      "market_cap": 1764253400940.817,
-      "headlines": [
-        {
-          "title": "AI Investors Are Becoming Pickier. 2 Stocks Still Stand Out.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-investors-becoming-pickier-2-173001259.html",
-          "publisher": "Barchart",
-          "published": "2026-07-18T17:30:01Z"
-        },
-        {
-          "title": "Price Prediction: Qualcomm Has Over 50% Upside as AI Data Center Push Accelerates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-qualcomm-over-50-163021342.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-07-18T16:30:21Z"
-        },
-        {
-          "title": "History Says Buying Chip Stocks After a 20% Drawdown Has Usually Worked in This Cycle. Will It Work Again?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/history-says-buying-chip-stocks-110500517.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-18T11:05:00Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 64806.75,
-      "change_pct": 1.42
+      "price": 64790.0,
+      "change_pct": 1.39
     },
     {
       "label": "Gold",

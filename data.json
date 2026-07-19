@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-19T21:59:22+00:00",
-  "as_of_local": "2026-07-19 21:59:22 UTC",
+  "as_of_utc": "2026-07-19T22:01:32+00:00",
+  "as_of_local": "2026-07-19 22:01:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NXPI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -255,6 +253,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ai-investors-becoming-pickier-2-173001259.html",
           "publisher": "Barchart",
           "published": "2026-07-18T17:30:01Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors",
+      "price": 266.53,
+      "previous_close": 270.66,
+      "change_pct": -1.53,
+      "market_cap": 67291116377.677765,
+      "headlines": [
+        {
+          "title": "NXP Semiconductors and Broadcom Shares Plummet, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-broadcom-shares-plummet-225722986.html",
+          "publisher": "StockStory",
+          "published": "2026-07-16T22:57:22Z"
+        },
+        {
+          "title": "NXP Semiconductors (NXPI) Falls With Chip Selloff, Is It Still 8% Undervalued?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-falls-chip-002240702.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-07-16T00:22:40Z"
+        },
+        {
+          "title": "How Investors May Respond To NXP Semiconductors (NXPI) Sector-Wide Profit Taking And Geopolitical Tensions",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-nxp-semiconductors-171003780.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-07-15T17:10:03Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 64355.14,
-      "change_pct": -0.68
+      "price": 64451.19,
+      "change_pct": -0.53
     },
     {
       "label": "Gold",

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-20T17:46:41+00:00",
+  "as_of": "2026-07-20T18:01:50+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "BABA",
    "company": "Alibaba Group Holding Ltd ADR",
-   "move_pct": 5.77,
-   "price": 121.6,
-   "volume": 10343836,
+   "move_pct": 5.79,
+   "price": 121.63,
+   "volume": 10627009,
    "volume_vs_avg": "~0.8x",
    "heat_score": 39,
    "direction": "up",
-   "why": "Alibaba Stock Climbs. China AI Models Seen 'Narrowing' Gap Against Anthropic, OpenAI.",
+   "why": "Stocks to Watch: Alibaba, AMC, Domino\u2019s, Paramount",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/news/technology/alibaba-stock-qwen-ai-model-anthropic/?src=A00220&yptr=yahoo",
-   "published": "2026-07-20T15:37:17Z",
+   "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-20-2026/card/stocks-to-watch-alibaba-ryanair-amc-entertainment-micron-Y2vsWyUq5FXtaxnM7yVV?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-07-20T17:33:49Z",
    "sector": "AI Platforms, Internet & AdTech"
   }
  ]

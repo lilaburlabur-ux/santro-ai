@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-20T22:17:19+00:00",
+  "as_of": "2026-07-20T22:32:43+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "BABA",
-   "company": "Alibaba Group Holding Ltd ADR",
-   "move_pct": 5.02,
-   "price": 120.74,
-   "volume": 14673804,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 38,
-   "direction": "up",
-   "why": "Stocks to Watch Recap: Alibaba, AMC, Domino\u2019s, Paramount",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-20-2026/card/stocks-to-watch-alibaba-ryanair-amc-entertainment-micron-Y2vsWyUq5FXtaxnM7yVV?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-07-20T20:30:39Z",
-   "sector": "AI Platforms, Internet & AdTech"
-  }
- ]
+ "hot_tickers": []
 }

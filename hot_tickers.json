@@ -1,10 +1,43 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-20T13:26:35+00:00",
+  "as_of": "2026-07-20T13:41:38+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "MU",
+   "company": "Micron Technology Inc",
+   "move_pct": 5.39,
+   "price": 894.71,
+   "volume": 5068933,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 34,
+   "direction": "up",
+   "why": "The One Deal That Could End Micron Stock's Old Boom-and-Bust Cycle",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/one-deal-could-end-micron-125458184.html",
+   "published": "2026-07-20T12:54:58Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
+   "ticker": "INTC",
+   "company": "Intel Corp",
+   "move_pct": 5.37,
+   "price": 100.14,
+   "volume": 12761128,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 34,
+   "direction": "up",
+   "why": "How Much Track Is Left For INTC Stock?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/much-track-left-intc-stock-125534614.html",
+   "published": "2026-07-20T12:55:34Z",
+   "sector": "AI Chips & Compute"
+  }
+ ]
 }

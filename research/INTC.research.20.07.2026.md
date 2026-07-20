@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| Earnings live: AMC stock soars 26% on 'superb' Q2, Domino's stock rises | Yahoo Finance | 2026-07-20 |
 | Tech stocks live: Chip stocks recover from last week's losses on Google, AMD news | Yahoo Finance | 2026-07-20 |
+| AMD, Micron, SK Hynix climb as semiconductor complex attempt recovery | Yahoo Finance | 2026-07-20 |
 | Tesla, Alphabet, Intel, GM: Earnings to watch this week | Yahoo Finance Video | 2026-07-20 |
-| Intel and AMD Get AI Earnings Setup | GuruFocus.com | 2026-07-20 |
+| Strong earnings growth needed to justify tech valuations, says expert | Reuters Videos | 2026-07-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

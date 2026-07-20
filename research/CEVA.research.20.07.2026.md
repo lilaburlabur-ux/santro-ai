@@ -36,10 +36,10 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 
 | Headline | Source | Date |
 |---|---|---|
+| Does This Dip In Cadence Design Systems Stock Signal An Opening? | Trefis | 2026-07-20 |
 | Ceva (CEVA) Launches RealSpace Elevate Spatial Audio for Gaming Headsets | Insider Monkey | 2026-07-15 |
 | Why CEVA (CEVA) Is Up 12.7% After Securing Landmark Edge AI Licensing Deal With Platform Giant | Simply Wall St. | 2026-07-11 |
 | CEVA (CEVA) Lands A New AI Deal, Does It Look Fully Valued? | Simply Wall St. | 2026-07-11 |
-| Analysts Think AI Demand Has No Ceiling And Raised AMD’s Price Target Again | 24/7 Wall St. | 2026-07-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| AMD sets sights on Nvidia with Helios AI racks | Yahoo Finance Video | 2026-07-20 |
 | Tech stocks live: Chip stocks recover from last week's losses on Google, AMD news | Yahoo Finance | 2026-07-20 |
-| Bristol Myers Expands NVIDIA Partnership to Build Top Life Sciences AI Supercomputer | GuruFocus.com | 2026-07-20 |
-| Intel and AMD Get AI Earnings Setup | GuruFocus.com | 2026-07-20 |
+| Cultural memorabilia is heating up as Nvidia CEO Jensen Huang's iconic leather jacket auctioned for $960,000 | Yahoo Finance | 2026-07-20 |
+| Jensen Huang's staggering $4 trillion bet shifts Nvidia | TheStreet | 2026-07-20 |
+| Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX, Tesla Tumble | Investor's Business Daily | 2026-07-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

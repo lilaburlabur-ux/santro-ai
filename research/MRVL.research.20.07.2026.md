@@ -37,8 +37,8 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Headline | Source | Date |
 |---|---|---|
 | AMD, Micron, SK Hynix climb as semiconductor complex attempt recovery | Yahoo Finance | 2026-07-20 |
-| Nasdaq 100 Jumps 1% as Chip Stocks Rebound Before Big Tech Earnings | GuruFocus.com | 2026-07-20 |
 | Micron, Lumentum, Sweetgreen, AMC, Domino’s, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-20 |
+| Nasdaq 100 Jumps 1% as Chip Stocks Rebound Before Big Tech Earnings | GuruFocus.com | 2026-07-20 |
 | Stocks to Watch: Alibaba, AMC, Domino’s, Paramount | The Wall Street Journal | 2026-07-20 |
 
 ## 3. Technical Analysis

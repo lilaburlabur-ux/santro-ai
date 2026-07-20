@@ -63,6 +63,9 @@ NEW_TICKERS = {
     "CAT":  {"group": "applied_ai_industrial_defense_and_vertical", "h2": "Applied AI: industrials &amp; heavy machinery",
              "rel": ["burry-short-watch", "gev", "etn", "pwr"],
              "ctx": "Caterpillar's link to the AI trade is indirect: its engines and generator sets supply data-center backup and prime power, and the name sits on Santro's Burry short watch as a valuation-risk name rather than an AI pure-play."},
+    "CBRS": {"group": "ai_chips_and_compute", "h2": "The AI chips &amp; compute industry",
+             "rel": ["nvda", "amd", "arm", "mu"],
+             "ctx": "Cerebras builds wafer-scale AI training chips — a genuinely different architecture from GPU clusters — and listed on Nasdaq in 2026 after a long run on Santro's IPO watch."},
 }
 
 # ── published editorial industry texts (single source: ticker-about.js) ──────

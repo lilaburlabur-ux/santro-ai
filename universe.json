@@ -18,7 +18,7 @@
    "label": "AI Chips & Compute",
    "color": "#4F8EF7",
    "count": 13,
-   "total_market_cap_b": 11770.59,
+   "total_market_cap_b": 11809.11,
    "avg_change_pct": 2.6,
    "industries_included": [
     "Semiconductors"
@@ -673,6 +673,28 @@
       37.97
      ],
      "fwd_eps": 0.82
+    },
+    {
+     "ticker": "CBRS",
+     "company": "Cerebras Systems Inc",
+     "sector": "Technology",
+     "industry": "Semiconductors",
+     "country": "USA",
+     "market_cap_b": 38.52,
+     "pe": 384.13,
+     "price": 172.86,
+     "change_pct": -4.21,
+     "volume": 5278306,
+     "fwd_eps": 0.96,
+     "perf": {
+      "1W": null,
+      "1M": null,
+      "1Y": null
+     },
+     "spark": [
+      172.86
+     ],
+     "_note": "Wafer-scale AI training chips; Nasdaq listing 2026 (was /ipos/cerebras watch). Seeded 2026-07-20; quotes maintained by update_quotes.py."
     }
    ]
   },

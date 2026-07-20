@@ -64,11 +64,11 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Next earnings | 2026-08-04 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $37.45B | Revenue growth 37.80% y/y |
 | Profitability | Gross 53.06%, operating 14.40%, net 13.37% | ROA 3.65%, ROE 8.06% |
 | Balance sheet | Cash $12.35B, debt $3.87B | Current ratio 2.73, debt/equity 6.00 |
-| Valuation | P/E 166.75, forward P/E 37.40, P/S —, P/B 12.73 | EV/Sales 21.36, EV/EBITDA 107.66 |
+| Valuation | P/E 166.75, forward P/E 37.40, P/S 21.92, P/B 12.73 | EV/Sales 21.36, EV/EBITDA 107.66 |
 | Growth expectations | Earnings growth 91.20%, EPS q/q 95.10% | Analyst mean target $541.66 (47 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -124,7 +124,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | P/E (ttm) | 166.75 | Insider ownership | 0.40% |
 | Forward P/E | 37.40 | Short float | 2.56% |
 | PEG (trailing) | 1.16 | Avg volume | 35,778,354 |
-| P/S | — | Employees | 31,000 |
+| P/S | 21.92 | Employees | 31,000 |
 | P/B | 12.73 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions

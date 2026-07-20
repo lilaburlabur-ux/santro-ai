@@ -1,78 +1,78 @@
 {
- "signed": "17.07.2026",
- "generated_utc": "2026-07-17T22:08:56+00:00",
+ "signed": "20.07.2026",
+ "generated_utc": "2026-07-20T20:18:03+00:00",
  "macro": {
   "score": "Tailwind",
-  "note": "Watchlist median 1Y +71%; 13/14 names positive. Sector-level proxy."
+  "note": "Watchlist median 1Y +68%; 13/14 names positive. Sector-level proxy."
  },
  "stocks": {
   "NVDA": {
    "name": "NVIDIA Corporation",
    "thesis": "Strong fundamentals (63% net margin, 85% growth) at 16x forward; moderate momentum \u2014 pullback zone forming.",
-   "close": 207.4,
-   "close_date": "2026-07-16",
-   "pe_ttm": 31.058191,
-   "fwd_pe": 15.80593,
+   "close": 202.81,
+   "close_date": "2026-07-17",
+   "pe_ttm": 31.130167,
+   "fwd_pe": 15.827301,
    "short_float": 1.33,
-   "market_cap": 4912260841472,
-   "target": 301.9655,
+   "market_cap": 4923644706816,
+   "target": 302.31033,
    "analysts": 58,
    "scores": {
     "technical": "Moderate",
     "narrative": "Strong",
     "entry_zone": "Pullback zone forming",
-    "rr": 7.6
+    "rr": 7.3
    },
-   "report": "NVDA.research.17.07.2026.md"
+   "report": "NVDA.research.20.07.2026.md"
   },
   "TSM": {
    "name": "Taiwan Semiconductor Manufacturing Company Limited",
-   "thesis": "Strong fundamentals (47% net margin, 35% growth) at 19x forward; high momentum \u2014 pullback zone forming.",
-   "close": 409.74,
-   "close_date": "2026-07-16",
-   "pe_ttm": 29.818113,
-   "fwd_pe": 18.759014,
+   "thesis": "Strong fundamentals (50% net margin, 36% growth) at 19x forward; high momentum \u2014 pullback zone forming.",
+   "close": 398.37,
+   "close_date": "2026-07-17",
+   "pe_ttm": 30.13483,
+   "fwd_pe": 18.895512,
    "short_float": 0.57,
-   "market_cap": 2066135646208,
-   "target": 520.3715,
+   "market_cap": 2086518390784,
+   "target": 522.816,
    "analysts": 18,
    "scores": {
     "technical": "High",
     "narrative": "Strong",
     "entry_zone": "Pullback zone forming",
-    "rr": 6.4
+    "rr": 6.5
    },
-   "report": "TSM.research.17.07.2026.md"
+   "report": "TSM.research.20.07.2026.md"
   },
   "AVGO": {
    "name": "Broadcom Inc.",
    "thesis": "Strong fundamentals (39% net margin, 48% growth) at 19x forward; moderate momentum \u2014 deep pullback \u2014 needs base.",
-   "close": 374.45,
-   "close_date": "2026-07-16",
-   "pe_ttm": 61.496685,
-   "fwd_pe": 19.098053,
+   "close": 370.83,
+   "close_date": "2026-07-17",
+   "pe_ttm": 62.921795,
+   "fwd_pe": 19.475817,
    "short_float": 1.5,
-   "market_cap": 1764229775360,
+   "market_cap": 1799126515712,
    "target": 524.5067,
    "analysts": 45,
    "scores": {
     "technical": "Moderate",
     "narrative": "Strong",
     "entry_zone": "Deep pullback \u2014 needs base",
-    "rr": 8.9
+    "rr": 6.7
    },
-   "report": "AVGO.research.17.07.2026.md"
+   "report": "AVGO.research.20.07.2026.md"
   },
   "MU": {
-   "name": "Micron Technology",
+   "name": "Micron Technology, Inc.",
    "thesis": "Strong fundamentals (56% net margin, 346% growth) at 6x forward; high momentum \u2014 deep pullback \u2014 needs base.",
-   "close": 853.2,
-   "close_date": "2026-07-16",
-   "pe_ttm": 19.172314,
-   "fwd_pe": 5.630772,
+   "close": 848.95,
+   "close_date": "2026-07-17",
+   "pe_ttm": 19.567263,
+   "fwd_pe": 5.7348666,
    "short_float": 2.81,
-   "market_cap": 958798299136,
-   "target": 1489.5714,
+   "market_cap": 977444601856,
+   "target": 1491.9524,
    "analysts": 42,
    "scores": {
     "technical": "High",
@@ -80,56 +80,56 @@
     "entry_zone": "Deep pullback \u2014 needs base",
     "rr": 7.5
    },
-   "report": "MU.research.17.07.2026.md"
+   "report": "MU.research.20.07.2026.md"
   },
   "AMD": {
    "name": "Advanced Micro Devices, Inc.",
    "thesis": "Mixed fundamentals (13% net margin, 38% growth) at 37x forward; high momentum \u2014 pullback zone forming.",
-   "close": 500.94,
-   "close_date": "2026-07-16",
-   "pe_ttm": 164.70432,
-   "fwd_pe": 36.81913,
+   "close": 495.76,
+   "close_date": "2026-07-17",
+   "pe_ttm": 166.74504,
+   "fwd_pe": 37.399162,
    "short_float": 2.56,
-   "market_cap": 808386560000,
-   "target": 537.0,
+   "market_cap": 821121515520,
+   "target": 541.65955,
    "analysts": 47,
    "scores": {
     "technical": "High",
     "narrative": "Supportive",
     "entry_zone": "Pullback zone forming",
-    "rr": 1.1
+    "rr": 0.9
    },
-   "report": "AMD.research.17.07.2026.md"
+   "report": "AMD.research.20.07.2026.md"
   },
   "INTC": {
    "name": "Intel Corporation",
-   "thesis": "Weak fundamentals (-6% net margin, 7% growth) at 59x forward; high momentum \u2014 deep pullback \u2014 needs base.",
-   "close": 96.98,
-   "close_date": "2026-07-16",
+   "thesis": "Weak fundamentals (-6% net margin, 7% growth) at 60x forward; high momentum \u2014 deep pullback \u2014 needs base.",
+   "close": 95.04,
+   "close_date": "2026-07-17",
    "pe_ttm": null,
-   "fwd_pe": 58.897167,
+   "fwd_pe": 60.14898,
    "short_float": 2.54,
-   "market_cap": 477671030784,
-   "target": 105.84878,
+   "market_cap": 487823540224,
+   "target": 106.70244,
    "analysts": 41,
    "scores": {
     "technical": "High",
     "narrative": "Neutral",
     "entry_zone": "Deep pullback \u2014 needs base",
-    "rr": 1.2
+    "rr": 1.1
    },
-   "report": "INTC.research.17.07.2026.md"
+   "report": "INTC.research.20.07.2026.md"
   },
   "ARM": {
    "name": "Arm Holdings plc",
-   "thesis": "Strong fundamentals (18% net margin, 20% growth) at 87x forward; high momentum \u2014 deep pullback \u2014 needs base.",
-   "close": 262.01,
-   "close_date": "2026-07-16",
-   "pe_ttm": 318.08334,
-   "fwd_pe": 86.76127,
+   "thesis": "Strong fundamentals (18% net margin, 20% growth) at 88x forward; high momentum \u2014 deep pullback \u2014 needs base.",
+   "close": 267.19,
+   "close_date": "2026-07-17",
+   "pe_ttm": 313.49997,
+   "fwd_pe": 87.61279,
    "short_float": 11.85,
-   "market_cap": 285379985408,
-   "target": 303.9735,
+   "market_cap": 287964692480,
+   "target": 304.78433,
    "analysts": 37,
    "scores": {
     "technical": "High",
@@ -137,140 +137,140 @@
     "entry_zone": "Deep pullback \u2014 needs base",
     "rr": 1.2
    },
-   "report": "ARM.research.17.07.2026.md"
+   "report": "ARM.research.20.07.2026.md"
   },
   "MRVL": {
    "name": "Marvell Technology, Inc.",
-   "thesis": "Strong fundamentals (29% net margin, 28% growth) at 30x forward; high momentum \u2014 deep pullback \u2014 needs base.",
-   "close": 188.3,
-   "close_date": "2026-07-16",
-   "pe_ttm": 64.61643,
-   "fwd_pe": 30.435202,
+   "thesis": "Strong fundamentals (29% net margin, 28% growth) at 31x forward; high momentum \u2014 deep pullback \u2014 needs base.",
+   "close": 188.68,
+   "close_date": "2026-07-17",
+   "pe_ttm": 66.98969,
+   "fwd_pe": 31.334791,
    "short_float": 4.56,
-   "market_cap": 169348677632,
+   "market_cap": 174967324672,
    "target": 253.68922,
    "analysts": 40,
    "scores": {
     "technical": "High",
     "narrative": "Strong",
     "entry_zone": "Deep pullback \u2014 needs base",
-    "rr": 2.9
+    "rr": 2.7
    },
-   "report": "MRVL.research.17.07.2026.md"
+   "report": "MRVL.research.20.07.2026.md"
   },
   "QCOM": {
    "name": "QUALCOMM Incorporated",
-   "thesis": "Mixed fundamentals (22% net margin, -4% growth) at 16x forward; moderate momentum \u2014 deep pullback \u2014 needs base.",
-   "close": 170.61,
-   "close_date": "2026-07-16",
-   "pe_ttm": 18.470966,
-   "fwd_pe": 15.542775,
+   "thesis": "Mixed fundamentals (22% net margin, -4% growth) at 15x forward; moderate momentum \u2014 deep pullback \u2014 needs base.",
+   "close": 171.78,
+   "close_date": "2026-07-17",
+   "pe_ttm": 18.333693,
+   "fwd_pe": 15.484045,
    "short_float": 4.27,
-   "market_cap": 181056110592,
+   "market_cap": 179517292544,
    "target": 222.73334,
    "analysts": 30,
    "scores": {
     "technical": "Moderate",
     "narrative": "Neutral",
     "entry_zone": "Deep pullback \u2014 needs base",
-    "rr": 4.3
+    "rr": 4.6
    },
-   "report": "QCOM.research.17.07.2026.md"
+   "report": "QCOM.research.20.07.2026.md"
   },
   "NXPI": {
    "name": "NXP Semiconductors N.V.",
    "thesis": "Strong fundamentals (21% net margin, 12% growth) at 15x forward; moderate momentum \u2014 deep pullback \u2014 needs base.",
-   "close": 270.66,
-   "close_date": "2026-07-16",
-   "pe_ttm": 26.259113,
-   "fwd_pe": 14.93649,
+   "close": 266.53,
+   "close_date": "2026-07-17",
+   "pe_ttm": 25.567465,
+   "fwd_pe": 14.956821,
    "short_float": 3.87,
-   "market_cap": 67291115520,
+   "market_cap": 67455217664,
    "target": 310.65518,
    "analysts": 29,
    "scores": {
     "technical": "Moderate",
     "narrative": "Strong",
     "entry_zone": "Deep pullback \u2014 needs base",
-    "rr": 3.1
+    "rr": 3.2
    },
-   "report": "NXPI.research.17.07.2026.md"
+   "report": "NXPI.research.20.07.2026.md"
   },
   "LSCC": {
    "name": "Lattice Semiconductor Corporation",
    "thesis": "Mixed fundamentals (3% net margin, 42% growth) at 54x forward; high momentum \u2014 deep pullback \u2014 needs base.",
-   "close": 124.5,
-   "close_date": "2026-07-16",
-   "pe_ttm": 894.5,
-   "fwd_pe": 53.854954,
+   "close": 125.23,
+   "close_date": "2026-07-17",
+   "pe_ttm": 896.8571,
+   "fwd_pe": 53.99687,
    "short_float": 7.23,
-   "market_cap": 17157493760,
+   "market_cap": 17202706432,
    "target": 148.33333,
    "analysts": 12,
    "scores": {
     "technical": "High",
     "narrative": "Strong",
     "entry_zone": "Deep pullback \u2014 needs base",
-    "rr": 2.4
+    "rr": 2.3
    },
-   "report": "LSCC.research.17.07.2026.md"
+   "report": "LSCC.research.20.07.2026.md"
   },
   "SYNA": {
    "name": "Synaptics Incorporated",
    "thesis": "Weak fundamentals (-4% net margin, 10% growth) at 22x forward; high momentum \u2014 deep pullback \u2014 needs base.",
-   "close": 115.55,
-   "close_date": "2026-07-16",
+   "close": 114.05,
+   "close_date": "2026-07-17",
    "pe_ttm": null,
-   "fwd_pe": 21.627613,
+   "fwd_pe": 21.543222,
    "short_float": 16.64,
-   "market_cap": 4454902784,
+   "market_cap": 4437519872,
    "target": 145.33333,
    "analysts": 9,
    "scores": {
     "technical": "High",
     "narrative": "\u2014",
     "entry_zone": "Deep pullback \u2014 needs base",
-    "rr": 3.8
+    "rr": 4.0
    },
-   "report": "SYNA.research.17.07.2026.md"
+   "report": "SYNA.research.20.07.2026.md"
   },
   "CEVA": {
    "name": "CEVA, Inc.",
-   "thesis": "Weak fundamentals (-10% net margin, 12% growth) at 46x forward; high momentum \u2014 deep pullback \u2014 needs base.",
-   "close": 38.52,
-   "close_date": "2026-07-16",
+   "thesis": "Weak fundamentals (-10% net margin, 12% growth) at 45x forward; high momentum \u2014 deep pullback \u2014 needs base.",
+   "close": 37.97,
+   "close_date": "2026-07-17",
    "pe_ttm": null,
-   "fwd_pe": 46.170307,
+   "fwd_pe": 45.39209,
    "short_float": 6.57,
-   "market_cap": 1057820224,
-   "target": 48.875,
+   "market_cap": 1039990272,
+   "target": 50.0,
    "analysts": 8,
    "scores": {
     "technical": "High",
     "narrative": "Strong",
     "entry_zone": "Deep pullback \u2014 needs base",
-    "rr": 2.9
+    "rr": 3.5
    },
-   "report": "CEVA.research.17.07.2026.md"
+   "report": "CEVA.research.20.07.2026.md"
   },
   "AVAV": {
    "name": "AeroVironment, Inc.",
    "thesis": "Weak fundamentals (-13% net margin, 133% growth) at 31x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 149.29,
-   "close_date": "2026-07-16",
+   "close": 142.2,
+   "close_date": "2026-07-17",
    "pe_ttm": null,
-   "fwd_pe": 31.379784,
+   "fwd_pe": 31.468054,
    "short_float": 10.73,
-   "market_cap": 7196462080,
-   "target": 232.8839,
-   "analysts": 18,
+   "market_cap": 7216705536,
+   "target": 231.67947,
+   "analysts": 19,
    "scores": {
     "technical": "Low",
     "narrative": "Strong",
     "entry_zone": "Broken \u2014 no zone",
-    "rr": 7.9
+    "rr": 8.0
    },
-   "report": "AVAV.research.17.07.2026.md"
+   "report": "AVAV.research.20.07.2026.md"
   }
  }
 }

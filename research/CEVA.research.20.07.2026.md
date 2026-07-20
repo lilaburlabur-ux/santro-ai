@@ -131,16 +131,7 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 | P/B | 3.08 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-07-16 | init | Benchmark | — → Hold |
-| 2026-07-13 | main | TD Cowen | Buy → Buy |
-| 2026-07-10 | main | Stifel | Buy → Buy |
-| 2026-06-15 | init | Needham | — → Buy |
-| 2026-05-12 | main | UBS | Buy → Buy |
-| 2026-05-12 | main | Rosenblatt | Buy → Buy |
-| 2026-05-12 | main | Oppenheimer | Outperform → Outperform |
-| 2026-05-12 | main | TD Cowen | Buy → Buy |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
 CEVA: High momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

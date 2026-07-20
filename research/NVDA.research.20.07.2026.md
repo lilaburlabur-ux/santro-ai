@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech stocks live: Chip stocks recover from last week's losses on Google, AMD news | Yahoo Finance | 2026-07-20 |
-| Cultural memorabilia is heating up as Nvidia CEO Jensen Huang's iconic leather jacket auctioned for $960,000 | Yahoo Finance | 2026-07-20 |
-| 3 Reasons I’m Buying Amazon Over and Over Until Late 2026 | 24/7 Wall St. | 2026-07-20 |
-| What History Reveals About the Road Ahead for Memory Sector Giants | Motley Fool | 2026-07-20 |
+| Trump Media pitches $100K-a-month Truth Social feed | Yahoo Finance Video | 2026-07-20 |
+| AMD, Micron, SK Hynix climb as semiconductor complex attempt recovery | Yahoo Finance | 2026-07-20 |
+| MicroStrategy holds 843K bitcoin as cash reserves reach $3.2B | Yahoo Finance Video | 2026-07-20 |
+| Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX, Tesla Tumble | Investor's Business Daily | 2026-07-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

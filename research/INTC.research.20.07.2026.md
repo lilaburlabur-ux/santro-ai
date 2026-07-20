@@ -36,8 +36,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| Closing bell: The biggest market movers today | Yahoo Finance Video | 2026-07-20 |
-| What it will take for Big Tech to wow investors this earnings season | Yahoo Finance Video | 2026-07-20 |
+| Earnings live: AMC stock soars 26% on 'superb' Q2, Domino's stock rises | Yahoo Finance | 2026-07-20 |
+| Tech stocks live: Chip stocks recover from last week's losses on Google, AMD news | Yahoo Finance | 2026-07-20 |
 | Tesla, Alphabet, Intel, GM: Earnings to watch this week | Yahoo Finance Video | 2026-07-20 |
 | Intel and AMD Get AI Earnings Setup | GuruFocus.com | 2026-07-20 |
 

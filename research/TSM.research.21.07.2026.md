@@ -47,7 +47,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Price vs 52-week range | Close $424.61; 52w high $477.57 (-11.09%); 52w low $224.84 (+88.85%) |
 | Trend | +20.74% vs SMA200, -0.11% vs SMA50, -1.76% vs SMA20 |
 | Momentum | RSI(14) 49.5 (neutral) |
-| Volatility | ATR(14) 18.97 (~4.5% of price); beta 1.25 |
+| Volatility | ATR(14) 18.96 (~4.5% of price); beta 1.25 |
 | Setup perspective | -11.09% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -114,7 +114,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Market cap | $2.20T | EV/EBITDA | 4.47 |
 | Beta | 1.25 | Gross margin | 64.23% |
 | RSI(14) | 49.5 | Operating margin | 60.34% |
-| ATR(14) | 18.97 | Profit margin | 49.92% |
+| ATR(14) | 18.96 | Profit margin | 49.92% |
 | SMA20 dist | -1.76% | ROA | 19.01% |
 | SMA50 dist | -0.11% | ROE | 39.97% |
 | SMA200 dist | +20.74% | Revenue (ttm) | $4.44T |

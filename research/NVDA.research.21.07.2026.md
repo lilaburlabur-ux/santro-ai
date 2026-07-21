@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Trump Media pitches $100K-a-month Truth Social feed | Yahoo Finance Video | 2026-07-20 |
+| How major US stock indexes fared Tuesday 7/21/2026 | Associated Press | 2026-07-21 |
 | Why MSCI Stock Is Plummeting Lower Today | Motley Fool | 2026-07-21 |
 | Beyond GLD: The 0.40% Fee Drag That Is Slowly Bleeding Your Gold Returns | 24/7 Wall St. | 2026-07-21 |
-| “We Must Act Now”: 16 Nobel Laureates Issue Stark Warning About AI Job Threats | 24/7 Wall St. | 2026-07-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

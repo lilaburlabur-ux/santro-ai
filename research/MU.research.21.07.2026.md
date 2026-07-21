@@ -38,8 +38,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 |---|---|---|
 | Why GM's memory chip guidance could help stabilize stocks like Micron and Sandisk | Yahoo Finance | 2026-07-21 |
 | AI capex to Pass $1 trillion by 2027: Strategist | Yahoo Finance Video | 2026-07-20 |
+| How major US stock indexes fared Tuesday 7/21/2026 | Associated Press | 2026-07-21 |
 | Stock Market Today: Nasdaq Pops As S&P 500 Finds Key Support; This Medical Player Craters (Live Coverage) | Investor's Business Daily | 2026-07-21 |
-| Nasdaq, Dow and S&P 500 Jumps as Chip Stocks Power Wall Street Higher | GuruFocus.com | 2026-07-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -64,11 +64,11 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Next earnings | 2026-09-23 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
-| Valuation | P/E 21.95, forward P/E 6.43, P/S —, P/B 10.88 | EV/Sales 10.61, EV/EBITDA 14.04 |
+| Valuation | P/E 21.95, forward P/E 6.43, P/S 12.15, P/B 15.11 | EV/Sales 10.61, EV/EBITDA 14.04 |
 | Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,491.95 (42 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -123,8 +123,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | P/E (ttm) | 21.95 | Insider ownership | 0.25% |
 | Forward P/E | 6.43 | Short float | 2.81% |
 | PEG (trailing) | 0.13 | Avg volume | 52,255,178 |
-| P/S | — | Employees | 53,000 |
-| P/B | 10.88 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/S | 12.15 | Employees | 53,000 |
+| P/B | 15.11 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

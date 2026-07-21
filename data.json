@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-21T12:32:08+00:00",
-  "as_of_local": "2026-07-21 12:32:08 UTC",
+  "as_of_utc": "2026-07-21T12:37:10+00:00",
+  "as_of_local": "2026-07-21 12:37:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/2-glorious-growth-stocks-bucking-105000248.html",
           "publisher": "Motley Fool",
           "published": "2026-07-21T10:50:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 865.46,
+      "previous_close": 848.95,
+      "change_pct": 1.94,
+      "market_cap": 977444621280.2275,
+      "headlines": [
+        {
+          "title": "Why GM's memory chip guidance could help stabilize stocks like Micron and Sandisk",
+          "url": "https://finance.yahoo.com/markets/stocks/article/why-gms-memory-chip-guidance-could-help-stabilize-stocks-like-micron-and-sandisk-120313927.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-21T12:03:13Z"
+        },
+        {
+          "title": "Alphabet, Tesla kick off Big Tech earnings",
+          "url": "https://finance.yahoo.com/video/alphabet-tesla-kick-off-big-tech-earnings-141349480.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-20T14:13:49Z"
+        },
+        {
+          "title": "Chip stocks fight to rebound as semiconductors slip into bear market",
+          "url": "https://finance.yahoo.com/video/chip-stocks-fight-to-rebound-as-semiconductors-slip-into-bear-market-135658468.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-20T13:56:58Z"
         }
       ]
     },
@@ -217,16 +243,16 @@
           "published": "2026-07-20T13:31:10Z"
         },
         {
+          "title": "Wall Street Keeps Warming to Rambus Stock. Here\u2019s Our Price Target",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-keeps-warming-rambus-123037586.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-07-21T12:30:37Z"
+        },
+        {
           "title": "Nvidia Returns to NZS Growth Fund",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-returns-nzs-growth-fund-122207528.html",
           "publisher": "GuruFocus.com",
           "published": "2026-07-21T12:22:07Z"
-        },
-        {
-          "title": "Chip stocks rebound, earnings beat as Iran ceasefire talks begin",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-rebound-earnings-beat-113032208.html",
-          "publisher": "Quartz",
-          "published": "2026-07-21T11:30:32Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 1.94,
+          "price": 865.46,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 1.94,
+        "price": 865.46,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 66445.32,
-      "change_pct": 1.86
+      "price": 66506.64,
+      "change_pct": 1.96
     },
     {
       "label": "Gold",
-      "price": 4065.2,
-      "change_pct": 1.37
+      "price": 4067.7,
+      "change_pct": 1.43
     },
     {
       "label": "Nasdaq100",

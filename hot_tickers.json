@@ -1,10 +1,43 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-21T02:03:24+00:00",
+  "as_of": "2026-07-21T08:05:12+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "MU",
+   "company": "Micron Technology Inc",
+   "move_pct": 6.16,
+   "price": 918.8,
+   "volume": 37486400,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 40,
+   "direction": "up",
+   "why": "Micron Technology (MU) Could Be 41% Above Fair Value As AI Memory Deals Draw Focus",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-could-41-061159666.html",
+   "published": "2026-07-21T06:11:59Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
+   "ticker": "MRVL",
+   "company": "Marvell Technology Inc",
+   "move_pct": 6.19,
+   "price": 207.0,
+   "volume": 24992200,
+   "volume_vs_avg": "~0.5x",
+   "heat_score": 39,
+   "direction": "up",
+   "why": "Marvell Technology: The Stock Is Down 39% From Its High. Time to Buy the Dip? (NASDAQ: MRVL)",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-stock-down-39-060100958.html",
+   "published": "2026-07-21T06:01:00Z",
+   "sector": "AI Chips & Compute"
+  }
+ ]
 }

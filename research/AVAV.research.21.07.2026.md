@@ -36,10 +36,10 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 | Headline | Source | Date |
 |---|---|---|
+| Stock Market Today, July 21: Micron Surges 12% as Semiconductor Strength Lifts Nasdaq | Motley Fool | 2026-07-21 |
 | Cathie Wood Adds $18 Million Worth Of SpaceX, These Defense Names | Investor's Business Daily | 2026-07-20 |
 | AeroVironment stock rises after securing $117.3 million U.S. Army drone contract | InvestorsHub | 2026-07-20 |
 | ONDS, AVAV, RCAT, RDW Rise Premarket: Investors Pour $10.7B Into Drone Stocks – S3 Sees 'More Fireworks' Ahead | Stocktwits | 2026-07-20 |
-| The Bull Case For AeroVironment (AVAV) Could Change Following New NATO UAS Contracts And MQ-31A Status | Simply Wall St. | 2026-07-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

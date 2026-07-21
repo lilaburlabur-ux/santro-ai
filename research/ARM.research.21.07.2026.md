@@ -37,9 +37,9 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Headline | Source | Date |
 |---|---|---|
 | Prediction: Up 144% YTD, Is Arm Holdings The Next Nvidia? | 24/7 Wall St. | 2026-07-21 |
-| Strength in Chipmakers Boosts Stocks | Barchart | 2026-07-21 |
 | Should You Be Bullish on Arm Holdings plc (ARM)? | Insider Monkey | 2026-07-21 |
 | Arm receives higher price target from Jefferies on stronger AI-driven demand outlook | Proactive | 2026-07-20 |
+| ARM, QCOM, KLAC Stocks Rise Despite Price Target Cuts By UBS Amid Chip Stocks’ Pullback | Stocktwits | 2026-07-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

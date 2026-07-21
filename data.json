@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-21T12:27:12+00:00",
-  "as_of_local": "2026-07-21 12:27:12 UTC",
+  "as_of_utc": "2026-07-21T12:32:08+00:00",
+  "as_of_local": "2026-07-21 12:32:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -89,34 +91,6 @@
       ]
     },
     {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 865.46,
-      "previous_close": 848.95,
-      "change_pct": 1.94,
-      "market_cap": 977444621280.2275,
-      "headlines": [
-        {
-          "title": "Why GM's memory chip guidance could help stabilize stocks like Micron and Sandisk",
-          "url": "https://finance.yahoo.com/markets/stocks/article/why-gms-memory-chip-guidance-could-help-stabilize-stocks-like-micron-and-sandisk-120313927.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-21T12:03:13Z"
-        },
-        {
-          "title": "Alphabet, Tesla kick off Big Tech earnings",
-          "url": "https://finance.yahoo.com/video/alphabet-tesla-kick-off-big-tech-earnings-141349480.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-20T14:13:49Z"
-        },
-        {
-          "title": "Chip stocks fight to rebound as semiconductors slip into bear market",
-          "url": "https://finance.yahoo.com/video/chip-stocks-fight-to-rebound-as-semiconductors-slip-into-bear-market-135658468.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-20T13:56:58Z"
-        }
-      ]
-    },
-    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 503.57,
@@ -140,7 +114,7 @@
           "title": "Stock Market Today: Sandisk, Micron, AMD Jump As AI Rebounds; GM, 3M Lead Earnings Movers",
           "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-nasdaq-sandisk-micron-amd-jump-ai-rebounds-gm-3m-lead-earnings-movers/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-07-21T12:12:47Z"
+          "published": "2026-07-21T12:17:16Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 1.94,
-          "price": 865.46,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 1.94,
-        "price": 865.46,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 66391.79,
-      "change_pct": 1.78
+      "price": 66445.32,
+      "change_pct": 1.86
     },
     {
       "label": "Gold",
-      "price": 4061.9,
-      "change_pct": 1.29
+      "price": 4065.2,
+      "change_pct": 1.37
     },
     {
       "label": "Nasdaq100",

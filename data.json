@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-21T13:12:50+00:00",
-  "as_of_local": "2026-07-21 13:12:50 UTC",
+  "as_of_utc": "2026-07-21T13:17:52+00:00",
+  "as_of_local": "2026-07-21 13:17:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CEVA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -369,6 +367,34 @@
           "published": "2026-07-14T15:54:00Z"
         }
       ]
+    },
+    {
+      "symbol": "CEVA",
+      "name": "CEVA",
+      "price": 37.33,
+      "previous_close": 37.97,
+      "change_pct": -1.69,
+      "market_cap": 1039990295.7820282,
+      "headlines": [
+        {
+          "title": "Does This Dip In Cadence Design Systems Stock Signal An Opening?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-dip-cadence-design-systems-201856242.html",
+          "publisher": "Trefis",
+          "published": "2026-07-20T20:18:56Z"
+        },
+        {
+          "title": "Ceva (CEVA) Launches RealSpace Elevate Spatial Audio for Gaming Headsets",
+          "url": "https://tech.yahoo.com/audio/articles/ceva-ceva-launches-realspace-elevate-121101509.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-07-15T12:11:01Z"
+        },
+        {
+          "title": "Why CEVA (CEVA) Is Up 12.7% After Securing Landmark Edge AI Licensing Deal With Platform Giant",
+          "url": "https://finance.yahoo.com/technology/ai/articles/why-ceva-ceva-12-7-160735099.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-07-11T16:07:35Z"
+        }
+      ]
     }
   ],
   "etfs": [
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 66517.04,
-      "change_pct": 1.97
+      "price": 66562.22,
+      "change_pct": 2.04
     },
     {
       "label": "Gold",
-      "price": 4063.6,
-      "change_pct": 1.33
+      "price": 4063.1,
+      "change_pct": 1.32
     },
     {
       "label": "Nasdaq100",

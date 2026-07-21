@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
-| Stock Market Today: Nasdaq Pops As S&P 500 Finds Key Support; This Medical Player Craters (Live Coverage) | Investor's Business Daily | 2026-07-21 |
-| Nasdaq, Dow and S&P 500 Jumps as Chip Stocks Power Wall Street Higher | GuruFocus.com | 2026-07-21 |
+| Intel, KLA Corporation, Lam Research, Marvell Technology, and Micron Shares Skyrocket, What You Need To Know | StockStory | 2026-07-21 |
+| Stocks to Watch: GM, BAE Systems, Novartis, Swatch | The Wall Street Journal | 2026-07-21 |
 | SpaceX, Micron, Western Digital, Sandisk, Danaher, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-21 |
-| Why Marvell Jumped 251% in the First Half of the Year | Motley Fool | 2026-07-21 |
+| Stock Market Today: Nasdaq Pops As S&P 500 Finds Key Support; Micron, Sandisk Shares Soar (Live Coverage) | Investor's Business Daily | 2026-07-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

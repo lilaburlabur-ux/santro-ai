@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
-| Stock Market Today: Nasdaq Pops As S&P 500 Finds Key Support; This Medical Player Craters (Live Coverage) | Investor's Business Daily | 2026-07-21 |
-| Sector Update: Tech Stocks Gain Late Afternoon | MT Newswires | 2026-07-21 |
-| Why Applied Materials (AMAT) Stock Is Up Today | StockStory | 2026-07-21 |
-| NVIDIA Isn't Leading AI Stocks in 2026 - These 2 Are Up Over 180% | Zacks | 2026-07-21 |
+| Intel, KLA Corporation, Lam Research, Marvell Technology, and Micron Shares Skyrocket, What You Need To Know | StockStory | 2026-07-21 |
+| Seagate, Western Digital, FormFactor, Amkor, and Teradyne Shares Are Soaring, What You Need To Know | StockStory | 2026-07-21 |
+| Morgan Stanley Warns Europe Is Falling Behind: U.S. Will Spend 20 Times More on AI Than All of Europe | 24/7 Wall St. | 2026-07-21 |
+| This Is My Favorite Artificial Intelligence Stock to Buy Right Now (Hint: Not Nvidia, Broadcom, or Alphabet) | Motley Fool | 2026-07-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

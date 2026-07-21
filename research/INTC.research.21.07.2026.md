@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
+| Tech stocks live: Tech-heavy Nasdaq climbs ahead of Big Tech earnings kickoff | Yahoo Finance | 2026-07-20 |
 | Earnings live: Danaher stock plunges on trimmed forecast, 3M stock surges | Yahoo Finance | 2026-07-20 |
-| Update: US Equity Indexes Rise as Chipmakers Lift Technology Amid Worsening Iran Geopolitics | MT Newswires | 2026-07-21 |
-| Sector Update: Tech Stocks Gain Late Afternoon | MT Newswires | 2026-07-21 |
-| Nasdaq, Dow and S&P 500 Jumps as Chip Stocks Power Wall Street Higher | GuruFocus.com | 2026-07-21 |
+| Intel makes another painful move in one of its key businesses | TheStreet | 2026-07-21 |
+| Intel, KLA Corporation, Lam Research, Marvell Technology, and Micron Shares Skyrocket, What You Need To Know | StockStory | 2026-07-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| NVIDIA Isn't Leading AI Stocks in 2026 - These 2 Are Up Over 180% | Zacks | 2026-07-21 |
-| TSMC Is Raising Prices. Can Big Tech’s AI Boom Afford the Bill? | Barrons.com | 2026-07-21 |
-| AMD just landed its biggest AI deal yet | TheStreet | 2026-07-21 |
-| Chip Stocks Surge as SK hynix, Micron Lead AI-Fueled Rally | GuruFocus.com | 2026-07-21 |
+| Tech stocks live: Tech-heavy Nasdaq climbs ahead of Big Tech earnings kickoff | Yahoo Finance | 2026-07-20 |
+| Stocks to Watch: GM, BAE Systems, Novartis, Swatch | The Wall Street Journal | 2026-07-21 |
+| Advanced Micro Devices (AMD) Following Microsoft AI Deal Faces A Fully Valued Debate | Simply Wall St. | 2026-07-21 |
+| Chip Stocks Are Rebounding - Should Investors Buy Intel (INTC) Before Q2 Earnings? | Zacks | 2026-07-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -64,11 +64,11 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-08-04 | Next scheduled report (Yahoo estimate) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $37.45B | Revenue growth 37.80% y/y |
 | Profitability | Gross 53.06%, operating 14.40%, net 13.37% | ROA 3.65%, ROE 8.06% |
 | Balance sheet | Cash $12.35B, debt $3.87B | Current ratio 2.73, debt/equity 6.00 |
-| Valuation | P/E 180.27, forward P/E 40.43, P/S 23.70, P/B 13.77 | EV/Sales 21.70, EV/EBITDA 109.37 |
+| Valuation | P/E 180.27, forward P/E 40.43, P/S —, P/B 13.77 | EV/Sales 21.70, EV/EBITDA 109.37 |
 | Growth expectations | Earnings growth 91.20%, EPS q/q 95.10% | Analyst mean target $541.66 (47 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -125,7 +125,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | P/E (ttm) | 180.27 | Insider ownership | 0.40% |
 | Forward P/E | 40.43 | Short float | 2.56% |
 | PEG (trailing) | 1.18 | Avg volume | 35,523,326 |
-| P/S | 23.70 | Employees | 31,000 |
+| P/S | — | Employees | 31,000 |
 | P/B | 13.77 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions

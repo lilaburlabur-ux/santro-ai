@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-21T10:20:08+00:00",
+  "as_of": "2026-07-21T10:21:12+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,6 +9,22 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "MU",
+   "company": "Micron Technology Inc",
+   "move_pct": 6.61,
+   "price": 922.69,
+   "volume": 37486400,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 42,
+   "direction": "up",
+   "why": "Stocks to Watch: GM, Novartis, Swatch, Micron",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-21-2026/card/stocks-to-watch-gm-novartis-swatch-micron-TDbyzf46n3fovkKH4Nxc?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-07-21T09:26:25Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
    "ticker": "PWR",
    "company": "Quanta Services Inc",
    "move_pct": 6.86,
@@ -24,27 +40,11 @@
    "sector": "Data Center, Power & Energy"
   },
   {
-   "rank": 2,
-   "ticker": "MU",
-   "company": "Micron Technology Inc",
-   "move_pct": 6.42,
-   "price": 921.05,
-   "volume": 37486400,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 41,
-   "direction": "up",
-   "why": "Stocks to Watch: GM, Novartis, Swatch, Micron",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-21-2026/card/stocks-to-watch-gm-novartis-swatch-micron-TDbyzf46n3fovkKH4Nxc?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-07-21T09:26:25Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
    "rank": 3,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": 5.47,
-   "price": 102.37,
+   "move_pct": 5.49,
+   "price": 102.39,
    "volume": 89425800,
    "volume_vs_avg": "~0.7x",
    "heat_score": 38,

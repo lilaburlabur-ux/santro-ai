@@ -36,10 +36,10 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Q1 Earnings Recap: Lattice Semiconductor (NASDAQ:LSCC) Tops Processors and Graphics Chips Stocks | StockStory | 2026-07-21 |
 | Nvidia Returns to NZS Growth Fund | GuruFocus.com | 2026-07-21 |
 | Is Lattice Semiconductor (LSCC) Undervalued Following Its Strong Buy Upgrade? | Simply Wall St. | 2026-07-21 |
 | All You Need to Know About Lattice (LSCC) Rating Upgrade to Strong Buy | Zacks | 2026-07-20 |
-| Lattice Semiconductor, AMD, and Qualcomm Shares Are Falling, What You Need To Know | StockStory | 2026-07-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

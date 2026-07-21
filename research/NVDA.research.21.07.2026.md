@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Big Tech's big AI spending is 'a good thing' right now | Yahoo Finance Video | 2026-07-21 |
-| Trump Media pitches $100K-a-month Truth Social feed | Yahoo Finance Video | 2026-07-20 |
-| Prediction: This Dividend ETF's Yield Won't Stay Under 3.5% for Long | Motley Fool | 2026-07-21 |
-| Why Sandisk Shares Are Tumbling and What Investors Should Know | Motley Fool | 2026-07-21 |
+| "Deceptive Advertising!" Claims Novo Nordisk in Explosive New GLP-1 Lawsuit Against Eli Lilly. Here's What That Means for Both Stocks. | Motley Fool | 2026-07-21 |
+| Why Sabra Health Care REIT Stock Soared Today | Motley Fool | 2026-07-21 |
+| Rocket Lab CEO Peter Beck Says Watch the Test Stands. Here's Why the Neutron Timeline Means Everything for Investors. | Motley Fool | 2026-07-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

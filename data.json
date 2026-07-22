@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-22T21:14:07+00:00",
-  "as_of_local": "2026-07-22 21:14:07 UTC",
+  "as_of_utc": "2026-07-22T21:19:07+00:00",
+  "as_of_local": "2026-07-22 21:19:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -137,10 +139,10 @@
           "published": "2026-07-21T22:30:37Z"
         },
         {
-          "title": "AMD inks blockbuster multi-billion-dollar Anthropic AI deal",
-          "url": "https://finance.yahoo.com/technology/ai/articles/amd-inks-blockbuster-multi-billion-210217144.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-07-22T21:02:17Z"
+          "title": "Dow Jones Futures Rise Amid Google, Tesla Earnings",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-tesla-earnings/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-07-22T21:09:20Z"
         }
       ]
     },
@@ -281,34 +283,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-broadcom-shares-plummet-225722986.html",
           "publisher": "StockStory",
           "published": "2026-07-16T22:57:22Z"
-        }
-      ]
-    },
-    {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 137.17,
-      "previous_close": 135.83,
-      "change_pct": 0.99,
-      "market_cap": 18793367493.82112,
-      "headlines": [
-        {
-          "title": "Q1 Earnings Recap: Lattice Semiconductor (NASDAQ:LSCC) Tops Processors and Graphics Chips Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/q1-earnings-recap-lattice-semiconductor-215026627.html",
-          "publisher": "StockStory",
-          "published": "2026-07-21T21:50:26Z"
-        },
-        {
-          "title": "Nvidia Returns to NZS Growth Fund",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-returns-nzs-growth-fund-122207528.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-07-21T12:22:07Z"
-        },
-        {
-          "title": "Is Lattice Semiconductor (LSCC) Undervalued Following Its Strong Buy Upgrade?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-lscc-undervalued-following-091117160.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-21T09:11:17Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 65889.09,
-      "change_pct": -0.93
+      "price": 65882.43,
+      "change_pct": -0.94
     },
     {
       "label": "Gold",

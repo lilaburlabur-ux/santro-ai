@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Super Micro, ServiceNow, GE Vernova, Pegasystems, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-22 |
 | Astera Labs Rides on Strong Taurus Demand: More Upside Ahead? | Zacks | 2026-07-22 |
 | Wall Street is Bullish on Marvell. Here’s Our Price Target. | 24/7 Wall St. | 2026-07-22 |
 | AMD Just Changed The Rules Of The AI Game | Trefis | 2026-07-22 |
-| The Divergent Paths Priced Into Advanced Micro Devices Stock | Trefis | 2026-07-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

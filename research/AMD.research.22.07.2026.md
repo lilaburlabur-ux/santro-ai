@@ -38,8 +38,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 |---|---|---|
 | Anthropic and AMD are signing a major AI chip deal. What could this mean for Nvidia? | Yahoo Finance Video | 2026-07-22 |
 | Supermicro stock jumps on gross margin raise amid record $60 billion backlog | Yahoo Finance | 2026-07-21 |
-| Dow Jones Futures: Google, Tesla Fall On Earnings, But Strong CapEx Lifts AI Stocks | Investor's Business Daily | 2026-07-22 |
-| AMD inks blockbuster multi-billion-dollar Anthropic AI deal | GuruFocus.com | 2026-07-22 |
+| AMD, Cerebras Strike AI Chip Deals | Investor's Business Daily | 2026-07-22 |
+| Dow Jones Futures: Google, Tesla Fall On Earnings, But Strong Capex Lifts AI Stocks | Investor's Business Daily | 2026-07-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

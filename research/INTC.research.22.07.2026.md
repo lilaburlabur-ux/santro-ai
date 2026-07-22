@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| Earnings live: Google stock drops on capex concerns, ServiceNow pops | Yahoo Finance | 2026-07-20 |
+| Intel earnings loom as investors watch jobs data and corporate results | Yahoo Finance Video | 2026-07-22 |
+| Intel to report Q2 earnings as chip stocks bounce off recent losses | Yahoo Finance | 2026-07-22 |
+| Intel mulls partnership for Ohio chip fab, SK Hynix among candidates - report | Investing.com | 2026-07-22 |
 | Intel Earnings Face Sky-High Expectations | GuruFocus.com | 2026-07-22 |
-| Intel Earnings Test AI-Fueled Rally | GuruFocus.com | 2026-07-22 |
-| Arm Gains Ground in AI Servers | GuruFocus.com | 2026-07-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

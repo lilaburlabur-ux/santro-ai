@@ -36,10 +36,10 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 | Headline | Source | Date |
 |---|---|---|
+| Stock Market Today, July 22: Ondas Secures $70 Million in New Orders, Rises 28% Over the Last Week | Motley Fool | 2026-07-22 |
 | Red Cat Just Dropped 26% in a Month: Are Drone Stocks Like RCAT, Ondas, Redwire, and AeroVironment Out of Fuel? | 24/7 Wall St. | 2026-07-22 |
+| AeroVironment Just Scored a New Army Contract. What It Means for AVAV Stock. | Barchart | 2026-07-22 |
 | Stock Market Today, July 21: Micron Surges 12% as Semiconductor Strength Lifts Nasdaq | Motley Fool | 2026-07-21 |
-| AeroVironment’s Stock Is Down, But Drone Demand Is Taking Off | MarketBeat | 2026-07-21 |
-| Cathie Wood Adds $18 Million Worth Of SpaceX, These Defense Names | Investor's Business Daily | 2026-07-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

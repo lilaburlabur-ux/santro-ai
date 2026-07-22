@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-07-22T13:14:34+00:00",
-  "as_of_local": "2026-07-22 13:14:34 UTC",
+  "as_of_utc": "2026-07-22T13:19:30+00:00",
+  "as_of_local": "2026-07-22 13:19:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 207.29,
+      "previous_close": 203.28,
+      "change_pct": 1.97,
+      "market_cap": 5020770927383.423,
+      "headlines": [
+        {
+          "title": "How to tap real-time options data with Yahoo Finance AlphaSpace",
+          "url": "https://finance.yahoo.com/video/how-to-tap-real-time-options-data-with-yahoo-finance-alphaspace-130000714.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-22T12:33:09Z"
+        },
+        {
+          "title": "How Robinhood is pioneering agentic AI trading: Senior VP of crypto explains",
+          "url": "https://finance.yahoo.com/video/robinhood-pioneering-agentic-ai-trading-120000375.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-22T12:00:00Z"
+        },
+        {
+          "title": "AMD challenges Nvidia with massive Anthropic deal, though shares dip pre-market",
+          "url": "https://finance.yahoo.com/technology/ai/articles/amd-challenges-nvidia-massive-anthropic-131225747.html",
+          "publisher": "Investing.com",
+          "published": "2026-07-22T13:12:25Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -105,16 +131,16 @@
           "published": "2026-07-21T22:30:37Z"
         },
         {
-          "title": "What the Options Market Is Signaling About Marvell Technology Stock's Next Big Swing",
-          "url": "https://finance.yahoo.com/markets/options/articles/options-market-signaling-marvell-technology-123903253.html",
-          "publisher": "Trefis",
-          "published": "2026-07-22T12:39:03Z"
+          "title": "AMD challenges Nvidia with massive Anthropic deal, though shares dip pre-market",
+          "url": "https://finance.yahoo.com/technology/ai/articles/amd-challenges-nvidia-massive-anthropic-131225747.html",
+          "publisher": "Investing.com",
+          "published": "2026-07-22T13:12:25Z"
         },
         {
-          "title": "AMD to invest up to $5 billion in Anthropic, WSJ reports",
-          "url": "https://finance.yahoo.com/technology/ai/articles/amd-invest-5-billion-anthropic-123753765.html",
-          "publisher": "Reuters",
-          "published": "2026-07-22T12:37:53Z"
+          "title": "A $10,000 Investment in AMD When Lisa Su Became CEO Is Worth This Much Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/10-000-investment-amd-lisa-131011564.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-07-22T13:10:11Z"
         }
       ]
     },
@@ -139,10 +165,10 @@
           "published": "2026-07-21T22:30:37Z"
         },
         {
-          "title": "Update: US Equity Futures Drop Pre-Bell as Oil Prices Jump Amid Lack of Progress in US-Iran Talks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-drop-pre-125324960.html",
-          "publisher": "MT Newswires",
-          "published": "2026-07-22T12:53:24Z"
+          "title": "A $10,000 Investment in AMD When Lisa Su Became CEO Is Worth This Much Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/10-000-investment-amd-lisa-131011564.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-07-22T13:10:11Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 65603.02,
-      "change_pct": -1.36
+      "price": 65548.85,
+      "change_pct": -1.44
     },
     {
       "label": "Gold",
-      "price": 4122.5,
-      "change_pct": 1.26
+      "price": 4125.3,
+      "change_pct": 1.33
     },
     {
       "label": "Nasdaq100",

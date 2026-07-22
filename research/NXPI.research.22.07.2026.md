@@ -79,6 +79,21 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Short float | 3.87% |
 | Short ratio (days to cover) | 1.9 |
 
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| FMR, LLC | 25,141,418 | 9.96% | 2026-03-31 |
+| Blackrock Inc. | 22,692,250 | 8.99% | 2026-03-31 |
+| JPMORGAN CHASE & CO | 20,261,543 | 8.03% | 2026-03-31 |
+| Wellington Management Group, LLP | 13,643,966 | 5.40% | 2026-03-31 |
+| Invesco Ltd. | 11,102,153 | 4.40% | 2026-03-31 |
+| State Street Corporation | 10,997,044 | 4.36% | 2026-03-31 |
+| Vanguard Capital Management LLC | 8,077,896 | 3.20% | 2026-03-31 |
+| Massachusetts Financial Services Co. | 7,574,965 | 3.00% | 2026-03-31 |
+| Geode Capital Management, LLC | 5,577,258 | 2.21% | 2026-03-31 |
+| Van Eck Associates Corporation | 4,378,316 | 1.73% | 2026-03-31 |
+
 ## 6. Risk Review and Setup Plan
 - **Volatility risk:** Beta 1.80, ATR 4.7% of price, short float 3.87%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.

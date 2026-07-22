@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-22T08:37:15+00:00",
+  "as_of": "2026-07-22T08:52:28+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "SMCI",
+   "company": "Super Micro Computer Inc",
+   "move_pct": 15.63,
+   "price": 29.49,
+   "volume": 47823000,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 81,
+   "direction": "up",
+   "why": "Nasdaq, S&P 500 Futures Slip Ahead Of TSLA, GOOGL Earnings: Why SMCI, INTC, SLS, BATL, OKLO, RKLB Are In Focus",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-slip-083011921.html",
+   "published": "2026-07-22T08:30:11Z",
+   "sector": "Chip Equipment & AI Hardware"
+  }
+ ]
 }

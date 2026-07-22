@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-22T00:23:36+00:00",
+  "as_of": "2026-07-22T00:38:38+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -97,10 +97,10 @@
    "volume_vs_avg": "~0.4x",
    "heat_score": 42,
    "direction": "up",
-   "why": "Supermicro (SMCI) Stock Still Looks Undervalued Despite Legal Risks",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/supermicro-smci-stock-still-looks-231250101.html",
-   "published": "2026-07-21T23:12:50Z",
+   "why": "DELL, HPE Stock Gain After-Hours As SMCI's Strong Margin Outlook Lifts Server Peers",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/dell-hpe-stock-gain-hours-235527492.html",
+   "published": "2026-07-21T23:55:27Z",
    "sector": "Chip Equipment & AI Hardware"
   },
   {

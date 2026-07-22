@@ -7,7 +7,6 @@
 | TSM | $2.18T | +78% | 19.8 | 50% | High | Reasonable | Elevated |
 | AVGO | $1.89T | +39% | 20.4 | 39% | Moderate | Fair-to-demanding | Elevated |
 | MU | $1.08T | +749% | 6.2 | 56% | High | Reasonable | High |
-| AMD | $900.63B | +252% | 41.0 | 13% | High | Low (expensive) | High |
 | INTC | $515.77B | +341% | 63.2 | -6% | High | Low (expensive) | High |
 | ARM | $302.69B | +75% | 92.1 | 18% | High | Low (expensive) | High |
 | MRVL | $189.37B | +189% | 33.9 | 29% | High | Fair-to-demanding | High |
@@ -18,6 +17,6 @@
 | CEVA | $1.12B | +70% | 48.7 | -10% | High | Low (expensive) | High |
 | AVAV | $7.61B | -45% | 33.2 | -13% | Low | Fair-to-demanding | High |
 
-14 reports generated; failed: none.
+13 reports generated; failed: AMD.
 
 Method: AEHR.research template (Cowork). One signed file per ticker in this folder.

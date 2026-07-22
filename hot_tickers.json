@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-22T11:09:37+00:00",
+  "as_of": "2026-07-22T11:25:08+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "SMCI",
    "company": "Super Micro Computer Inc",
-   "move_pct": 16.16,
-   "price": 29.62,
+   "move_pct": 17.45,
+   "price": 29.95,
    "volume": 47823000,
    "volume_vs_avg": "~0.8x",
    "heat_score": 81,
@@ -27,16 +27,16 @@
    "rank": 2,
    "ticker": "GEV",
    "company": "GE Vernova Inc",
-   "move_pct": -7.77,
-   "price": 995.0,
+   "move_pct": -7.4,
+   "price": 998.97,
    "volume": 3516200,
    "volume_vs_avg": "~1.1x",
-   "heat_score": 48,
+   "heat_score": 47,
    "direction": "down",
-   "why": "GE Vernova\u2019s (NYSE:GEV) Q2 CY2026 Sales Top Estimates, Full-Year Outlook Slightly Exceeds Expectations",
+   "why": "GE Vernova shares fall as second quarter earnings misses expectations",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-nyse-gev-q2-103244171.html",
-   "published": "2026-07-22T10:32:44Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-shares-fall-second-110954608.html",
+   "published": "2026-07-22T11:09:54Z",
    "sector": "Powering AI"
   }
  ]

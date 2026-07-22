@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-07-22T00:53:47+00:00",
-  "as_of_local": "2026-07-22 00:53:47 UTC",
+  "as_of_utc": "2026-07-22T00:58:54+00:00",
+  "as_of_local": "2026-07-22 00:58:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 207.29,
+      "previous_close": 203.28,
+      "change_pct": 1.97,
+      "market_cap": 5020770927383.423,
+      "headlines": [
+        {
+          "title": "Supermicro stock jumps on gross margin raise amid record $60 billion backlog",
+          "url": "https://finance.yahoo.com/markets/article/supermicro-stock-jumps-on-gross-margin-raise-amid-record-60-billion-backlog-223037795.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-21T22:30:37Z"
+        },
+        {
+          "title": "Big Tech's big AI spending is 'a good thing' right now",
+          "url": "https://finance.yahoo.com/video/big-techs-big-ai-spending-is-a-good-thing-right-now-203258720.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-21T20:32:58Z"
+        },
+        {
+          "title": "SpaceX Is Down 20%: Here's Why I'm Still Not Buying",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-down-20-heres-why-002500488.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-22T00:25:00Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 8.06,
-          "price": 1984000.0,
+          "change_pct": 8.33,
+          "price": 1989000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 5.41,
-          "price": 273000.0,
+          "change_pct": 5.6,
+          "price": 273500.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 9.01,
-          "price": 66560.0,
+          "change_pct": 10.09,
+          "price": 67220.0,
           "currency": "JPY"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 8.06,
-        "price": 1984000.0,
+        "change_pct": 8.33,
+        "price": 1989000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 5.41,
-        "price": 273000.0,
+        "change_pct": 5.6,
+        "price": 273500.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 9.01,
-        "price": 66560.0,
+        "change_pct": 10.09,
+        "price": 67220.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 66617.93,
+      "price": 66621.64,
       "change_pct": 2.13
     },
     {
       "label": "Gold",
-      "price": 4097.7,
-      "change_pct": 2.18
+      "price": 4101.0,
+      "change_pct": 2.26
     },
     {
       "label": "Nasdaq100",

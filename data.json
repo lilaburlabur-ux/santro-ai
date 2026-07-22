@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-07-22T20:01:50+00:00",
-  "as_of_local": "2026-07-22 20:01:50 UTC",
+  "as_of_utc": "2026-07-22T20:06:43+00:00",
+  "as_of_local": "2026-07-22 20:06:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 1887855386753.1938,
       "headlines": [
         {
+          "title": "S&P 500, Nasdaq close lower as investors await technology earnings",
+          "url": "https://finance.yahoo.com/news/wall-st-futures-edge-lower-095915371.html",
+          "publisher": "Reuters",
+          "published": "2026-07-22T20:01:11Z"
+        },
+        {
           "title": "AMD\u2019s Microsoft Win Signals Dominance Over NVIDIA and Our Price Target Reflects It",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-microsoft-win-signals-dominance-163036134.html",
           "publisher": "24/7 Wall St.",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-marvell-price-160044830.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-07-22T16:00:44Z"
-        },
-        {
-          "title": "AMD Just Changed The Rules Of The AI Game",
-          "url": "https://finance.yahoo.com/technology/ai/articles/amd-just-changed-rules-ai-155707843.html",
-          "publisher": "Trefis",
-          "published": "2026-07-22T15:57:07Z"
         }
       ]
     },
@@ -97,6 +97,12 @@
       "market_cap": 1083630118463.02,
       "headlines": [
         {
+          "title": "The Memory Chip Shortage Sent Micron Stock Up More Than 7x. Natural Gas Shortage Looks Like Memory 12 Months Ago.",
+          "url": "https://finance.yahoo.com/energy/articles/memory-chip-shortage-sent-micron-194612177.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-07-22T19:46:12Z"
+        },
+        {
           "title": "Memory Prices Are Still Skyrocketing. Is the Next Rally for Micron, SanDisk, and SK Hynix Just Beginning?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/memory-prices-still-skyrocketing-next-193300184.html",
           "publisher": "24/7 Wall St.",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/bank-america-doubles-down-micron-191300926.html",
           "publisher": "TheStreet",
           "published": "2026-07-22T19:13:00Z"
-        },
-        {
-          "title": "The \u2018Pattern Day Trader Rule\u2019 Is Dead. The Result Is a Massive Surge in Risky Leverage.",
-          "url": "https://www.barrons.com/articles/volatility-margin-stocks-pattern-day-trading-micron-d39cb249?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-07-22T19:08:00Z"
         }
       ]
     },
@@ -137,10 +137,10 @@
           "published": "2026-07-21T22:30:37Z"
         },
         {
-          "title": "AMD Lands Multibillion-Dollar Anthropic Deal",
-          "url": "https://finance.yahoo.com/technology/ai/articles/amd-lands-multibillion-dollar-anthropic-195759430.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-07-22T19:57:59Z"
+          "title": "S&P 500, Nasdaq close lower as investors await technology earnings",
+          "url": "https://finance.yahoo.com/news/wall-st-futures-edge-lower-095915371.html",
+          "publisher": "Reuters",
+          "published": "2026-07-22T20:01:11Z"
         }
       ]
     },
@@ -580,18 +580,18 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7499.04,
+      "price": 7498.96,
       "change_pct": -0.14
     },
     {
       "label": "BTC",
-      "price": 65880.23,
-      "change_pct": -0.94
+      "price": 65758.12,
+      "change_pct": -1.12
     },
     {
       "label": "Gold",
-      "price": 4137.8,
-      "change_pct": 1.64
+      "price": 4135.6,
+      "change_pct": 1.58
     },
     {
       "label": "Nasdaq100",

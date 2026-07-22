@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-22T01:06:38+00:00",
+  "as_of": "2026-07-22T02:01:34+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -41,22 +41,6 @@
   },
   {
    "rank": 3,
-   "ticker": "LSCC",
-   "company": "Lattice Semiconductor Corp",
-   "move_pct": 8.18,
-   "price": 135.83,
-   "volume": 1276265,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 57,
-   "direction": "up",
-   "why": "Q1 Earnings Recap: Lattice Semiconductor (NASDAQ:LSCC) Tops Processors and Graphics Chips Stocks",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/q1-earnings-recap-lattice-semiconductor-215026627.html",
-   "published": "2026-07-21T21:50:26Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 4,
    "ticker": "SMCI",
    "company": "Super Micro Computer Inc",
    "move_pct": 7.01,
@@ -72,7 +56,7 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "OKLO",
    "company": "Oklo Inc",
    "move_pct": 6.31,
@@ -88,14 +72,14 @@
    "sector": "Data Center, Power & Energy"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "ticker": "DELL",
    "company": "Dell Technologies Inc",
-   "move_pct": 5.83,
+   "move_pct": 6.01,
    "price": 404.15,
    "volume": 4956612,
    "volume_vs_avg": "~0.6x",
-   "heat_score": 38,
+   "heat_score": 39,
    "direction": "up",
    "why": "DELL, HPE Stock Gain After-Hours As SMCI's Strong Margin Outlook Lifts Server Peers",
    "catalyst_type": "earnings",
@@ -104,7 +88,7 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "ticker": "SYNA",
    "company": "Synaptics Inc",
    "move_pct": 5.04,
@@ -113,10 +97,10 @@
    "volume_vs_avg": "~0.4x",
    "heat_score": 35,
    "direction": "up",
-   "why": "Synaptics Is Leaning Into IoT. Its Strategy Officer Kept $7 Million in Stock",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-leaning-iot-strategy-officer-003847208.html",
-   "published": "2026-07-22T00:38:47Z",
+   "why": "What This Synaptics CFO Filing Signals for Long-Term Investors With Revenue Up 10%",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-cfo-filing-signals-long-012057342.html",
+   "published": "2026-07-22T01:20:57Z",
    "sector": "AI Chips & Compute"
   }
  ]

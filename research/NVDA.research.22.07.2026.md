@@ -39,7 +39,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Anthropic and AMD are signing a major AI chip deal. What could this mean for Nvidia? | Yahoo Finance Video | 2026-07-22 |
 | OpenAI hack: For 'every dollar' spent on AI, another should be spent on cybersecurity | Yahoo Finance Video | 2026-07-22 |
 | How Robinhood is pioneering agentic AI trading: Senior VP of crypto explains | Yahoo Finance Video | 2026-07-22 |
-| CoreWeave, Nebius shares jump after Baird launches bullish coverage | GuruFocus.com | 2026-07-22 |
+| A violent AI unwind is hiding beneath a resilient stock market: Chart of the Day | Yahoo Finance | 2026-07-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -38,8 +38,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 |---|---|---|
 | Supermicro stock jumps on gross margin raise amid record $60 billion backlog | Yahoo Finance | 2026-07-21 |
 | Intel to report Q2 earnings as chip stocks bounce off recent losses | Yahoo Finance | 2026-07-22 |
+| Intel Earnings Face Sky-High Expectations | GuruFocus.com | 2026-07-22 |
 | Intel Earnings Test AI-Fueled Rally | GuruFocus.com | 2026-07-22 |
-| Arm Gains Ground in AI Servers | GuruFocus.com | 2026-07-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

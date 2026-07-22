@@ -36,7 +36,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
-| S&P 500, Nasdaq close lower as investors await technology earnings | Reuters | 2026-07-22 |
+| This $222 Billion Vanguard ETF Is Trailing the S&P 500. That Almost Never Happens. | 24/7 Wall St. | 2026-07-22 |
 | AMD’s Microsoft Win Signals Dominance Over NVIDIA and Our Price Target Reflects It | 24/7 Wall St. | 2026-07-22 |
 | Wall Street is Bullish on Marvell. Here’s Our Price Target. | 24/7 Wall St. | 2026-07-22 |
 | AMD Just Changed The Rules Of The AI Game | Trefis | 2026-07-22 |

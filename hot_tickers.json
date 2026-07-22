@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-22T13:04:26+00:00",
+  "as_of": "2026-07-22T13:19:34+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "SMCI",
    "company": "Super Micro Computer Inc",
-   "move_pct": 12.71,
-   "price": 28.74,
+   "move_pct": 13.16,
+   "price": 28.86,
    "volume": 47823000,
    "volume_vs_avg": "~0.8x",
-   "heat_score": 73,
+   "heat_score": 75,
    "direction": "up",
    "why": "Stock Market Today: Dow Falls As Oil Prices Jump; SMCI Surges With Alphabet, Tesla Earnings Next (Live Coverage)",
    "catalyst_type": "earnings",

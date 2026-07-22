@@ -32,15 +32,6 @@ Signed file: `MU.research.22.07.2026`
 ## 2. Company Overview and Recent Catalysts
 Micron Technology, Inc. designs, develops, manufactures, and sells memory and storage products in the United States, Taiwan, Japan, Mainland China, Hong Kong, Europe, and internationally. It operates through the Cloud Memory Business Unit; Core Data Center Business Unit; Mobile and Client Business Unit; and Automotive and Embedded Business Unit segments.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| The Memory Chip Shortage Sent Micron Stock Up More Than 7x. Natural Gas Shortage Looks Like Memory 12 Months Ago. | 24/7 Wall St. | 2026-07-22 |
-| Memory Prices Are Still Skyrocketing. Is the Next Rally for Micron, SanDisk, and SK Hynix Just Beginning? | 24/7 Wall St. | 2026-07-22 |
-| Bank of America doubles down on Micron stock after AI bombshell | TheStreet | 2026-07-22 |
-| The ‘Pattern Day Trader Rule’ Is Dead. The Result Is a Massive Surge in Risky Leverage. | Barrons.com | 2026-07-22 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|

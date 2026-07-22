@@ -37,9 +37,9 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Headline | Source | Date |
 |---|---|---|
 | TSMC Can't Make Chips Fast Enough, and Rivals Are Pouncing | Motley Fool | 2026-07-22 |
+| 2 AI Infrastructure Stocks That Could Outperform NVIDIA | Zacks | 2026-07-22 |
 | Can Economic Growth Boost PNW Stock's Long-Term Earnings Prospects? | Zacks | 2026-07-22 |
 | TSMC Just Increased Its Investment in America by $100 Billion. Here's What That Means for the AI Semiconductor Stock Trade. | Motley Fool | 2026-07-22 |
-| Prediction: TSMC Stock Will Outperform the S&P 500 Over the Next Five Years | 24/7 Wall St. | 2026-07-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-07-22T09:58:17+00:00",
-  "as_of_local": "2026-07-22 09:58:17 UTC",
+  "as_of_utc": "2026-07-22T10:03:56+00:00",
+  "as_of_local": "2026-07-22 10:03:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 207.29,
+      "previous_close": 203.28,
+      "change_pct": 1.97,
+      "market_cap": 5020770927383.423,
+      "headlines": [
+        {
+          "title": "Supermicro stock jumps on gross margin raise amid record $60 billion backlog",
+          "url": "https://finance.yahoo.com/markets/article/supermicro-stock-jumps-on-gross-margin-raise-amid-record-60-billion-backlog-223037795.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-21T22:30:37Z"
+        },
+        {
+          "title": "Big Tech's big AI spending is 'a good thing' right now",
+          "url": "https://finance.yahoo.com/video/big-techs-big-ai-spending-is-a-good-thing-right-now-203258720.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-21T20:32:58Z"
+        },
+        {
+          "title": "Quantum Computing Stocks IonQ, Rigetti, and D-Wave Are Sending Shockwaves Through Wall Street With This $988 Million Warning",
+          "url": "https://finance.yahoo.com/news/quantum-computing-stocks-ionq-rigetti-092600690.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-22T09:26:00Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 65899.73,
+      "price": 65902.4,
       "change_pct": -0.91
     },
     {
       "label": "Gold",
-      "price": 4121.4,
-      "change_pct": 1.24
+      "price": 4119.3,
+      "change_pct": 1.18
     },
     {
       "label": "Nasdaq100",

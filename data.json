@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-07-22T13:09:28+00:00",
-  "as_of_local": "2026-07-22 13:09:28 UTC",
+  "as_of_utc": "2026-07-22T13:14:34+00:00",
+  "as_of_local": "2026-07-22 13:14:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 207.29,
-      "previous_close": 203.28,
-      "change_pct": 1.97,
-      "market_cap": 5020770927383.423,
-      "headlines": [
-        {
-          "title": "How to tap real-time options data with Yahoo Finance AlphaSpace",
-          "url": "https://finance.yahoo.com/video/how-to-tap-real-time-options-data-with-yahoo-finance-alphaspace-130000714.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-22T12:33:09Z"
-        },
-        {
-          "title": "How Robinhood is pioneering agentic AI trading: Senior VP of crypto explains",
-          "url": "https://finance.yahoo.com/video/robinhood-pioneering-agentic-ai-trading-120000375.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-22T12:00:00Z"
-        },
-        {
-          "title": "Nvidia Supplier Wistron Opens First U.S. AI Server Factory",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-supplier-wistron-opens-first-125614752.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-07-22T12:56:14Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 65601.43,
+      "price": 65603.02,
       "change_pct": -1.36
     },
     {
       "label": "Gold",
-      "price": 4118.5,
-      "change_pct": 1.16
+      "price": 4122.5,
+      "change_pct": 1.26
     },
     {
       "label": "Nasdaq100",

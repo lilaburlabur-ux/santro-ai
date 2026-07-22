@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-07-22T09:53:16+00:00",
-  "as_of_local": "2026-07-22 09:53:16 UTC",
+  "as_of_utc": "2026-07-22T09:58:17+00:00",
+  "as_of_local": "2026-07-22 09:58:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 207.29,
-      "previous_close": 203.28,
-      "change_pct": 1.97,
-      "market_cap": 5020770927383.423,
-      "headlines": [
-        {
-          "title": "Supermicro stock jumps on gross margin raise amid record $60 billion backlog",
-          "url": "https://finance.yahoo.com/markets/article/supermicro-stock-jumps-on-gross-margin-raise-amid-record-60-billion-backlog-223037795.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-21T22:30:37Z"
-        },
-        {
-          "title": "Big Tech's big AI spending is 'a good thing' right now",
-          "url": "https://finance.yahoo.com/video/big-techs-big-ai-spending-is-a-good-thing-right-now-203258720.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-21T20:32:58Z"
-        },
-        {
-          "title": "SpaceX Stock Is Down 36% From Its Post-IPO Peak. History Says a $10,000 Investment Will Be Worth This Much by June 2027.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-down-36-post-090900549.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-22T09:09:00Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 65805.0,
-      "change_pct": -1.05
+      "price": 65899.73,
+      "change_pct": -0.91
     },
     {
       "label": "Gold",
-      "price": 4122.2,
-      "change_pct": 1.26
+      "price": 4121.4,
+      "change_pct": 1.24
     },
     {
       "label": "Nasdaq100",

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-22T12:13:30+00:00",
+  "as_of": "2026-07-22T12:28:41+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,32 +11,32 @@
    "rank": 1,
    "ticker": "SMCI",
    "company": "Super Micro Computer Inc",
-   "move_pct": 14.55,
-   "price": 29.21,
+   "move_pct": 14.9,
+   "price": 29.3,
    "volume": 47823000,
    "volume_vs_avg": "~0.8x",
-   "heat_score": 80,
+   "heat_score": 81,
    "direction": "up",
-   "why": "Supermicro shares jump as margin outlook and record backlog impress investors (NASDAQ:SMCI)",
+   "why": "Super Micro Computer Q4 2026 margins beat guidance, stock surges",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/supermicro-shares-jump-margin-outlook-104415769.html",
-   "published": "2026-07-22T10:44:15Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-q4-2026-120820347.html",
+   "published": "2026-07-22T12:08:20Z",
    "sector": "Chip Equipment & AI Hardware"
   },
   {
    "rank": 2,
    "ticker": "GEV",
    "company": "GE Vernova Inc",
-   "move_pct": -6.47,
-   "price": 1009.0,
+   "move_pct": -5.78,
+   "price": 1016.5,
    "volume": 3516200,
    "volume_vs_avg": "~1.1x",
-   "heat_score": 43,
+   "heat_score": 41,
    "direction": "down",
-   "why": "GE Vernova shares slip despite higher revenue and raised full-year outlook (NYSE:GEV)",
+   "why": "GE Vernova raises 2026 revenue guidance after Q2 earnings beat",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-shares-slip-despite-111139336.html",
-   "published": "2026-07-22T11:11:39Z",
+   "source_url": "https://finance.yahoo.com/energy/articles/ge-vernova-raises-2026-revenue-120300089.html",
+   "published": "2026-07-22T12:03:00Z",
    "sector": "Powering AI"
   }
  ]

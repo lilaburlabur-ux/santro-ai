@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-22T11:25:08+00:00",
+  "as_of": "2026-07-22T11:40:15+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,32 +11,32 @@
    "rank": 1,
    "ticker": "SMCI",
    "company": "Super Micro Computer Inc",
-   "move_pct": 17.45,
-   "price": 29.95,
+   "move_pct": 15.95,
+   "price": 29.57,
    "volume": 47823000,
    "volume_vs_avg": "~0.8x",
    "heat_score": 81,
    "direction": "up",
-   "why": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Wednesday; Super Micro Computer to Advance, Micron Technology to Decline",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-103546956.html",
-   "published": "2026-07-22T10:35:46Z",
+   "why": "Supermicro shares jump as margin outlook and record backlog impress investors (NASDAQ:SMCI)",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/supermicro-shares-jump-margin-outlook-104415769.html",
+   "published": "2026-07-22T10:44:15Z",
    "sector": "Chip Equipment & AI Hardware"
   },
   {
    "rank": 2,
    "ticker": "GEV",
    "company": "GE Vernova Inc",
-   "move_pct": -7.4,
-   "price": 998.97,
+   "move_pct": -6.31,
+   "price": 1010.69,
    "volume": 3516200,
    "volume_vs_avg": "~1.1x",
-   "heat_score": 47,
+   "heat_score": 43,
    "direction": "down",
-   "why": "GE Vernova shares fall as second quarter earnings misses expectations",
+   "why": "GE Vernova Earnings Miss. The AI Energy Stock Is Plunging.",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-shares-fall-second-110954608.html",
-   "published": "2026-07-22T11:09:54Z",
+   "source_url": "https://www.investors.com/news/ge-vernova-earnings-gas-turbine-orders-backlog-ai-data-centers/?src=A00220&yptr=yahoo",
+   "published": "2026-07-22T11:11:24Z",
    "sector": "Powering AI"
   }
  ]

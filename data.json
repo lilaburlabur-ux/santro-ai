@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-07-22T00:48:54+00:00",
-  "as_of_local": "2026-07-22 00:48:54 UTC",
+  "as_of_utc": "2026-07-22T00:53:47+00:00",
+  "as_of_local": "2026-07-22 00:53:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 207.29,
-      "previous_close": 203.28,
-      "change_pct": 1.97,
-      "market_cap": 5020770927383.423,
-      "headlines": [
-        {
-          "title": "Supermicro stock jumps on gross margin raise amid record $60 billion backlog",
-          "url": "https://finance.yahoo.com/markets/article/supermicro-stock-jumps-on-gross-margin-raise-amid-record-60-billion-backlog-223037795.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-21T22:30:37Z"
-        },
-        {
-          "title": "Big Tech's big AI spending is 'a good thing' right now",
-          "url": "https://finance.yahoo.com/video/big-techs-big-ai-spending-is-a-good-thing-right-now-203258720.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-21T20:32:58Z"
-        },
-        {
-          "title": "SpaceX Is Down 20%: Here's Why I'm Still Not Buying",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-down-20-heres-why-002500488.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-22T00:25:00Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -349,6 +323,12 @@
       "market_cap": 4660958488.399017,
       "headlines": [
         {
+          "title": "Synaptics Is Leaning Into IoT. Its Strategy Officer Kept $7 Million in Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-leaning-iot-strategy-officer-003847208.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-22T00:38:47Z"
+        },
+        {
           "title": "What This Synaptics CEO Filing Signals to Investors as Core IoT Sales Grow 31%",
           "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-ceo-filing-signals-investors-001219102.html",
           "publisher": "Motley Fool",
@@ -359,12 +339,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-insider-filing-signals-long-223222187.html",
           "publisher": "Motley Fool",
           "published": "2026-07-21T22:32:22Z"
-        },
-        {
-          "title": "Here's Why ON Semiconductor Just Made a $7 Billion Bet on AI",
-          "url": "https://finance.yahoo.com/technology/ai/articles/heres-why-semiconductor-just-made-113000581.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-17T11:30:00Z"
         }
       ]
     },
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 8.22,
-          "price": 1987000.0,
+          "change_pct": 8.06,
+          "price": 1984000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 5.6,
-          "price": 273500.0,
+          "change_pct": 5.41,
+          "price": 273000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 8.29,
-          "price": 66120.0,
+          "change_pct": 9.01,
+          "price": 66560.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 8.22,
-        "price": 1987000.0,
+        "change_pct": 8.06,
+        "price": 1984000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 5.6,
-        "price": 273500.0,
+        "change_pct": 5.41,
+        "price": 273000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 8.29,
-        "price": 66120.0,
+        "change_pct": 9.01,
+        "price": 66560.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 66580.02,
-      "change_pct": 2.07
+      "price": 66617.93,
+      "change_pct": 2.13
     },
     {
       "label": "Gold",
-      "price": 4100.9,
-      "change_pct": 2.26
+      "price": 4097.7,
+      "change_pct": 2.18
     },
     {
       "label": "Nasdaq100",

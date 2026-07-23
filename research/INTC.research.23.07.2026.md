@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech stocks live: Intel reports blowout earnings as Tesla and Google fall | Yahoo Finance | 2026-07-20 |
-| Intel sales, profit forecast beat estimates, boosts spending plans on AI boom | Reuters | 2026-07-23 |
+| Intel's Q2 earnings blow past Wall Street's estimates, with an upbeat Q3 outlook to boot | Yahoo Finance Video | 2026-07-23 |
+| Intel Stock Jumps On Chipmaker's Big Q2 Earnings Beat | Investor's Business Daily | 2026-07-23 |
+| Intel sales, profit forecast beat estimates; company boosts spending plans on AI boom | Reuters | 2026-07-23 |
 | Update: US Equity Indexes Slump, Crude Oil Soars as Iran-Backed Houthis Hit Tankers in Red Sea Chokepoint | MT Newswires | 2026-07-23 |
-| Sector Update: Tech Stocks Fall Late Afternoon | MT Newswires | 2026-07-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

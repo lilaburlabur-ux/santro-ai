@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech stocks live: Intel reports blowout earnings as Tesla and Google fall | Yahoo Finance | 2026-07-20 |
+| 'Magnificent 7' stocks erase $797 billion in market value in worst day since April 2025 | Yahoo Finance | 2026-07-23 |
+| Could AMD's new Helios AI rack system push it to outperform Nvidia? | Yahoo Finance Video | 2026-07-23 |
 | AMD launches Helios system in direct challenge to Nvidia's AI dominance | Yahoo Finance | 2026-07-23 |
-| Nebius Group (NBIS) Draws Nvidia Backing, Is It Still Below Fair Value? | Simply Wall St. | 2026-07-23 |
-| Is an S&P 500 ETF a Safe Investment During a Market Crash? | Motley Fool | 2026-07-23 |
+| NVIDIA vs. UiPath: Which Artificial Intelligence Stock Is a Better Buy in 2026? | Motley Fool | 2026-07-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

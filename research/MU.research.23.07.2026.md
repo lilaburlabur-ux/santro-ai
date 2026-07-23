@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| 'Magnificent 7' stocks erase $797 billion in market value in worst day since April 2025 | Yahoo Finance | 2026-07-23 |
 | 2 reasons why Microsoft belongs in your portfolio: D.A. Davidson's Gil Luria | Yahoo Finance Video | 2026-07-23 |
 | Micron gains as Musk thanks it for  ’significant’ memory chip allocation | Investing.com | 2026-07-23 |
 | Stock Market Today: Nasdaq Pounded As Oil Surges; Metals Firm Hits New Entry (Live Coverage) | Investor's Business Daily | 2026-07-23 |
-| Why Micron Stock Popped Today | Motley Fool | 2026-07-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
-| Valuation | P/E 22.39, forward P/E 6.44, P/S 12.39, P/B 15.41 | EV/Sales 11.79, EV/EBITDA 15.60 |
+| Valuation | P/E 22.39, forward P/E 6.44, P/S —, P/B 11.10 | EV/Sales 11.79, EV/EBITDA 15.60 |
 | Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,507.38 (42 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -123,8 +123,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | P/E (ttm) | 22.39 | Insider ownership | 0.25% |
 | Forward P/E | 6.44 | Short float | 2.81% |
 | PEG (trailing) | 0.14 | Avg volume | 52,199,070 |
-| P/S | 12.39 | Employees | 53,000 |
-| P/B | 15.41 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/S | — | Employees | 53,000 |
+| P/B | 11.10 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

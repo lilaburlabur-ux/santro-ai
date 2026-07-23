@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-23T14:25:14+00:00",
+  "as_of": "2026-07-23T14:25:59+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,9 +11,9 @@
    "rank": 1,
    "ticker": "TSLA",
    "company": "Tesla Inc",
-   "move_pct": -13.38,
-   "price": 323.97,
-   "volume": 36533128,
+   "move_pct": -13.35,
+   "price": 324.07,
+   "volume": 36889228,
    "volume_vs_avg": "~0.9x",
    "heat_score": 76,
    "direction": "down",
@@ -27,9 +27,9 @@
    "rank": 2,
    "ticker": "GOOGL",
    "company": "Alphabet Inc",
-   "move_pct": -7.18,
-   "price": 317.54,
-   "volume": 23843921,
+   "move_pct": -7.14,
+   "price": 317.66,
+   "volume": 23989672,
    "volume_vs_avg": "~0.7x",
    "heat_score": 44,
    "direction": "down",
@@ -41,11 +41,27 @@
   },
   {
    "rank": 3,
+   "ticker": "SKHY",
+   "company": "SK hynix Inc (ADR)",
+   "move_pct": 6.73,
+   "price": 176.4,
+   "volume": 13418265,
+   "volume_vs_avg": "~0.2x",
+   "heat_score": 40,
+   "direction": "up",
+   "why": "SK Hynix shares rise as Big Tech AI investment boosts semiconductor outlook (NASDAQ:SKHY)",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-shares-rise-big-103529258.html",
+   "published": "2026-07-23T10:35:29Z",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 4,
    "ticker": "HON",
    "company": "Honeywell International Inc",
    "move_pct": 6.67,
-   "price": 248.54,
-   "volume": 1672416,
+   "price": 248.52,
+   "volume": 1674289,
    "volume_vs_avg": "~0.3x",
    "heat_score": 40,
    "direction": "up",
@@ -54,22 +70,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/honeywell-international-q2-earnings-call-140658431.html",
    "published": "2026-07-23T14:06:58Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 4,
-   "ticker": "SKHY",
-   "company": "SK hynix Inc (ADR)",
-   "move_pct": 5.93,
-   "price": 175.07,
-   "volume": 13298198,
-   "volume_vs_avg": "~0.2x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "SK Hynix shares rise as Big Tech AI investment boosts semiconductor outlook (NASDAQ:SKHY)",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-shares-rise-big-103529258.html",
-   "published": "2026-07-23T10:35:29Z",
-   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

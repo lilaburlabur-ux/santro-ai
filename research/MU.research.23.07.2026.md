@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
-| 'Magnificent 7' stocks erase $797 billion in market value in worst day since April 2025 | Yahoo Finance | 2026-07-23 |
 | 2 reasons why Microsoft belongs in your portfolio: D.A. Davidson's Gil Luria | Yahoo Finance Video | 2026-07-23 |
-| Micron gains as Musk thanks it for  ’significant’ memory chip allocation | Investing.com | 2026-07-23 |
-| Stock Market Today: Nasdaq Pounded As Oil Surges; Metals Firm Hits New Entry (Live Coverage) | Investor's Business Daily | 2026-07-23 |
+| Stock Market Today: Nasdaq Plunges To 4-Week Low; Metals Firm Kaiser Hits New Entry (Live Coverage) | Investor's Business Daily | 2026-07-23 |
+| Why Nvidia Stock Isn’t Rallying as It Should After Alphabet Earnings | Barrons.com | 2026-07-23 |
+| Micron, SK Hynix Stocks Rise After Google Earnings. Here’s Why. | Barrons.com | 2026-07-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

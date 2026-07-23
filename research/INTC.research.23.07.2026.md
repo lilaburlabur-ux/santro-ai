@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| Intel's Q2 earnings blow past Wall Street's estimates, with an upbeat Q3 outlook to boot | Yahoo Finance Video | 2026-07-23 |
-| Intel Stock Jumps On Chipmaker's Big Q2 Earnings Beat | Investor's Business Daily | 2026-07-23 |
-| Intel sales, profit forecast beat estimates; company boosts spending plans on AI boom | Reuters | 2026-07-23 |
-| Update: US Equity Indexes Slump, Crude Oil Soars as Iran-Backed Houthis Hit Tankers in Red Sea Chokepoint | MT Newswires | 2026-07-23 |
+| Intel's PC business will be dictated by AI data center momentum: CFRA | Yahoo Finance Video | 2026-07-23 |
+| Dow Jones Futures: Market Sells Off On Oil Prices, Google, Tesla; Intel Jumps Late, SpaceX Starship Launch Due | Investor's Business Daily | 2026-07-23 |
+| Update: US Equity Indexes Slump, Crude Oil Soars as Trump Warns of Big Iran Attack | MT Newswires | 2026-07-23 |
+| Intel Tops Quarterly Estimates as Data Center Boost Drives Fastest Revenue Growth in 15 Years | MT Newswires | 2026-07-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

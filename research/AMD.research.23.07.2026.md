@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| Could AMD's new Helios AI rack system push it to outperform Nvidia? | Yahoo Finance Video | 2026-07-23 |
+| Intel's PC business will be dictated by AI data center momentum: CFRA | Yahoo Finance Video | 2026-07-23 |
+| AMD launches Helios system in direct challenge to Nvidia's AI dominance | Yahoo Finance | 2026-07-23 |
+| AMD CEO Lisa Su delivers keynote with big AI update for tech investors | Yahoo Finance | 2026-07-23 |
 | AMD Stock Gets Jaw Dropping Price Target Hike from Benchmark | GuruFocus.com | 2026-07-23 |
-| Advanced Micro Devices Unveils Helios AI Rack, Sees $1.4 Trillion Accelerator Market | MarketBeat | 2026-07-23 |
-| Sector Update: Tech Stocks Fall Late Afternoon | MT Newswires | 2026-07-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

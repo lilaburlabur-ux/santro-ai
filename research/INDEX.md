@@ -16,7 +16,7 @@
 | LSCC | $18.92B | +163% | 59.5 | 3% | High | Low (expensive) | High |
 | SYNA | $4.59B | +75% | 22.3 | -4% | High | Fair-to-demanding | High |
 | CEVA | $1.08B | +65% | 47.1 | -10% | High | Low (expensive) | High |
-| AVAV | $8.03B | -40% | 35.0 | -13% | Low | Low (expensive) | High |
+| AVAV | $8.03B | -40% | 35.9 | -13% | Low | Low (expensive) | High |
 
 14 reports generated; failed: none.
 

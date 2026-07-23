@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-23T02:41:16+00:00",
-  "as_of_local": "2026-07-23 02:41:16 UTC",
+  "as_of_utc": "2026-07-23T02:46:27+00:00",
+  "as_of_local": "2026-07-23 02:46:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -119,6 +117,34 @@
       ]
     },
     {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 552.33,
+      "previous_close": 544.43,
+      "change_pct": 1.45,
+      "market_cap": 900629678805.5801,
+      "headlines": [
+        {
+          "title": "Anthropic and AMD are signing a major AI chip deal. What could this mean for Nvidia?",
+          "url": "https://finance.yahoo.com/video/anthropic-amd-signing-major-ai-180000308.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-22T18:00:00Z"
+        },
+        {
+          "title": "Supermicro stock jumps on gross margin raise amid record $60 billion backlog",
+          "url": "https://finance.yahoo.com/markets/article/supermicro-stock-jumps-on-gross-margin-raise-amid-record-60-billion-backlog-223037795.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-21T22:30:37Z"
+        },
+        {
+          "title": "Dow Jones Futures: Google, Tesla Fall On Earnings, Capex, But AI Stocks Climb",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-tesla-earnings/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-07-23T02:26:46Z"
+        }
+      ]
+    },
+    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 102.62,
@@ -195,10 +221,10 @@
           "published": "2026-07-22T21:50:02Z"
         },
         {
-          "title": "Super Micro, ServiceNow, GE Vernova, Pegasystems, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-c14bcf85?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-07-22T20:31:00Z"
+          "title": "Stocks Settle Lower as Crude Oil Prices Jump",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-crude-oil-203527045.html",
+          "publisher": "Barchart",
+          "published": "2026-07-22T20:35:27Z"
         }
       ]
     },
@@ -223,10 +249,10 @@
           "published": "2026-07-22T20:54:00Z"
         },
         {
-          "title": "QUALCOMM (QCOM) Stock Looks Below Fair Value On Earnings Yet Near Fair Value On Cash Flow",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-looks-below-161121934.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-22T16:11:21Z"
+          "title": "Stocks Settle Lower as Crude Oil Prices Jump",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-crude-oil-203527045.html",
+          "publisher": "Barchart",
+          "published": "2026-07-22T20:35:27Z"
         }
       ]
     },
@@ -239,6 +265,12 @@
       "market_cap": 70388933743.27765,
       "headlines": [
         {
+          "title": "Stocks Settle Lower as Crude Oil Prices Jump",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-crude-oil-203527045.html",
+          "publisher": "Barchart",
+          "published": "2026-07-22T20:35:27Z"
+        },
+        {
           "title": "3 Cash-Producing Stocks We Find Risky",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-cash-producing-stocks-risky-103027016.html",
           "publisher": "StockStory",
@@ -249,12 +281,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-rises-higher-221504862.html",
           "publisher": "Zacks",
           "published": "2026-07-21T22:15:04Z"
-        },
-        {
-          "title": "NXP Semiconductors and Broadcom Shares Plummet, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-broadcom-shares-plummet-225722986.html",
-          "publisher": "StockStory",
-          "published": "2026-07-16T22:57:22Z"
         }
       ]
     },
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.13,
-          "price": 1869000.0,
+          "change_pct": 0.98,
+          "price": 1848000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 2.4,
-          "price": 266750.0,
+          "change_pct": 1.15,
+          "price": 263500.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 0.48,
-          "price": 64580.0,
+          "change_pct": 0.76,
+          "price": 64760.0,
           "currency": "JPY"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -3.03,
-          "price": 432.0,
+          "change_pct": -4.26,
+          "price": 426.5,
           "currency": "TWD"
         },
         {
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -3.8,
-          "price": 164.5,
+          "change_pct": -5.85,
+          "price": 161.0,
           "currency": "TWD"
         }
       ]
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.13,
-        "price": 1869000.0,
+        "change_pct": 0.98,
+        "price": 1848000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 2.4,
-        "price": 266750.0,
+        "change_pct": 1.15,
+        "price": 263500.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 0.48,
-        "price": 64580.0,
+        "change_pct": 0.76,
+        "price": 64760.0,
         "currency": "JPY"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -3.03,
-        "price": 432.0,
+        "change_pct": -4.26,
+        "price": 426.5,
         "currency": "TWD"
       },
       {
@@ -545,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -3.8,
-        "price": 164.5,
+        "change_pct": -5.85,
+        "price": 161.0,
         "currency": "TWD"
       }
     ]
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 65714.25,
-      "change_pct": -1.19
+      "price": 65777.66,
+      "change_pct": -1.09
     },
     {
       "label": "Gold",
-      "price": 4121.4,
-      "change_pct": 1.24
+      "price": 4118.3,
+      "change_pct": 1.16
     },
     {
       "label": "Nasdaq100",

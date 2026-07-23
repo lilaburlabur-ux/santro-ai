@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-23T09:07:00+00:00",
-  "as_of_local": "2026-07-23 09:07:00 UTC",
+  "as_of_utc": "2026-07-23T09:12:11+00:00",
+  "as_of_local": "2026-07-23 09:12:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -341,34 +343,6 @@
       ]
     },
     {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 120.62,
-      "previous_close": 119.32,
-      "change_pct": 1.09,
-      "market_cap": 4711740086.408844,
-      "headlines": [
-        {
-          "title": "What This Synaptics CFO Filing Signals for Long-Term Investors With Revenue Up 10%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-cfo-filing-signals-long-012057342.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-22T01:20:57Z"
-        },
-        {
-          "title": "Synaptics Has 35-Plus Robotics Customers. Its Product Chief Just Held His Stake",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-35-plus-robotics-customers-010047708.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-22T01:00:47Z"
-        },
-        {
-          "title": "Synaptics Is Leaning Into IoT. Its Strategy Officer Kept $7 Million in Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-leaning-iot-strategy-officer-003847208.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-22T00:38:47Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 40.06,
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 65672.12,
-      "change_pct": -0.65
+      "price": 65664.82,
+      "change_pct": -0.66
     },
     {
       "label": "Gold",
-      "price": 4095.9,
-      "change_pct": -1.23
+      "price": 4097.7,
+      "change_pct": -1.19
     },
     {
       "label": "Nasdaq100",

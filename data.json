@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-23T20:35:38+00:00",
-  "as_of_local": "2026-07-23 20:35:38 UTC",
+  "as_of_utc": "2026-07-23T20:37:24+00:00",
+  "as_of_local": "2026-07-23 20:37:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/best-monthly-dividend-etfs-consistent-173153528.html",
           "publisher": "Kiplinger",
           "published": "2026-07-23T17:31:53Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 990.21,
-      "previous_close": 959.48,
-      "change_pct": 3.2,
-      "market_cap": 1118336416867.4775,
-      "headlines": [
-        {
-          "title": "'Magnificent 7' stocks erase $797 billion in market value in worst day since April 2025",
-          "url": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-erase-797-billion-in-market-value-in-worst-day-since-april-2025-201930579.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-23T20:19:30Z"
-        },
-        {
-          "title": "2 reasons why Microsoft belongs in your portfolio: D.A. Davidson's Gil Luria",
-          "url": "https://finance.yahoo.com/video/2-reasons-why-microsoft-belongs-in-your-portfolio-da-davidsons-gil-luria-200819568.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-23T20:08:19Z"
-        },
-        {
-          "title": "Micron gains as Musk thanks it for  \u2019significant\u2019 memory chip allocation",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-gains-musk-thanks-significant-192751987.html",
-          "publisher": "Investing.com",
-          "published": "2026-07-23T19:27:51Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 3.2,
-          "price": 990.21,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 3.2,
-        "price": 990.21,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 65079.0,
-      "change_pct": -1.55
+      "price": 65093.0,
+      "change_pct": -1.52
     },
     {
       "label": "Gold",
-      "price": 4051.5,
-      "change_pct": -2.3
+      "price": 4051.8,
+      "change_pct": -2.29
     },
     {
       "label": "Nasdaq100",

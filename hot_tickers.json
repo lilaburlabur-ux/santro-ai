@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-23T08:01:30+00:00",
+  "as_of": "2026-07-23T08:16:18+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,17 +11,33 @@
    "rank": 1,
    "ticker": "NOW",
    "company": "ServiceNow Inc",
-   "move_pct": 5.31,
-   "price": 100.53,
+   "move_pct": 6.55,
+   "price": 101.71,
    "volume": 42880000,
    "volume_vs_avg": "~2x",
-   "heat_score": 43,
+   "heat_score": 48,
    "direction": "up",
    "why": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
    "catalyst_type": "regulatory",
    "source_url": "https://finance.yahoo.com/technology/articles/servicenow-bets-40-million-indian-060913817.html",
    "published": "2026-07-23T06:09:13Z",
    "sector": "AI Applications & Data Software"
+  },
+  {
+   "rank": 2,
+   "ticker": "TSLA",
+   "company": "Tesla Inc",
+   "move_pct": -5.08,
+   "price": 355.0,
+   "volume": 29828100,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 36,
+   "direction": "down",
+   "why": "Tesla's record quarter costs $71bn after Musk spending spree. Is there a silver lining?",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/teslas-record-quarter-costs-71bn-070800461.html",
+   "published": "2026-07-23T07:08:00Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

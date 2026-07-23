@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Tech stocks live: Intel reports blowout earnings as Tesla and Google fall | Yahoo Finance | 2026-07-20 |
 | AMD launches Helios system in direct challenge to Nvidia's AI dominance | Yahoo Finance | 2026-07-23 |
-| Meet the Only Vanguard ETF That Has a Higher SpaceX Weighting Than the QQQ Nasdaq-100 ETF | Motley Fool | 2026-07-23 |
-| Union Pacific Corporation Q2 2026 Earnings Call Summary | Moby | 2026-07-23 |
+| Prediction: $1,000 Invested in SpaceX Stock Will Be Worth This Amount in 3 Years | Motley Fool | 2026-07-23 |
+| Is Pfizer's 7% Dividend Yield Too Good to Be True? Here's the Straight Answer | Motley Fool | 2026-07-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

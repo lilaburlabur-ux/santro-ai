@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-23T11:44:10+00:00",
+  "as_of": "2026-07-23T11:58:10+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,35 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "NOW",
-   "company": "ServiceNow Inc",
-   "move_pct": 5.96,
-   "price": 101.15,
-   "volume": 42880000,
-   "volume_vs_avg": "~2x",
-   "heat_score": 46,
-   "direction": "up",
-   "why": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Thursday; ServiceNow to Advance, Tesla to Decline",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-103604401.html",
-   "published": "2026-07-23T10:36:04Z",
-   "sector": "AI Applications & Data Software"
-  },
-  {
-   "rank": 2,
    "ticker": "TSLA",
    "company": "Tesla Inc",
-   "move_pct": -6.65,
-   "price": 349.15,
+   "move_pct": -7.02,
+   "price": 347.77,
    "volume": 29828100,
    "volume_vs_avg": "~0.7x",
-   "heat_score": 42,
+   "heat_score": 43,
    "direction": "down",
    "why": "Dow Jones Futures Fall As Oil Prices Top $90; Google, Tesla Skid On Earnings, Capital Spending",
    "catalyst_type": "earnings",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-tesla-earnings/?src=A00220&yptr=yahoo",
    "published": "2026-07-23T11:17:25Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 2,
+   "ticker": "NOW",
+   "company": "ServiceNow Inc",
+   "move_pct": 5.07,
+   "price": 100.3,
+   "volume": 42880000,
+   "volume_vs_avg": "~2x",
+   "heat_score": 42,
+   "direction": "up",
+   "why": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Thursday; ServiceNow to Advance, Tesla to Decline",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-103604401.html",
+   "published": "2026-07-23T10:36:04Z",
+   "sector": "AI Applications & Data Software"
   }
  ]
 }

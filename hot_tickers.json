@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-23T08:31:39+00:00",
+  "as_of": "2026-07-23T08:46:51+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "NOW",
    "company": "ServiceNow Inc",
-   "move_pct": 7.11,
-   "price": 102.25,
+   "move_pct": 6.63,
+   "price": 101.79,
    "volume": 42880000,
    "volume_vs_avg": "~2x",
-   "heat_score": 50,
+   "heat_score": 48,
    "direction": "up",
    "why": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
    "catalyst_type": "regulatory",
@@ -27,16 +27,16 @@
    "rank": 2,
    "ticker": "TSLA",
    "company": "Tesla Inc",
-   "move_pct": -5.46,
-   "price": 353.59,
+   "move_pct": -5.5,
+   "price": 353.45,
    "volume": 29828100,
    "volume_vs_avg": "~0.7x",
    "heat_score": 38,
    "direction": "down",
-   "why": "Tesla's record quarter costs $71bn after Musk spending spree. Is there a silver lining?",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/teslas-record-quarter-costs-71bn-070800461.html",
-   "published": "2026-07-23T07:08:00Z",
+   "why": "Update: Tesla Q2 Adjusted Earnings Fall, Sales Rise; Truist Cuts Price Target as Pressure on Margins, Free Cash Flow to Continue",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/tesla-q2-adjusted-earnings-fall-083116832.html",
+   "published": "2026-07-23T08:31:16Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]

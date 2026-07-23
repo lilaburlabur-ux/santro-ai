@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-23T20:37:24+00:00",
-  "as_of_local": "2026-07-23 20:37:24 UTC",
+  "as_of_utc": "2026-07-23T20:40:17+00:00",
+  "as_of_local": "2026-07-23 20:40:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -91,6 +89,34 @@
       ]
     },
     {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 990.21,
+      "previous_close": 959.48,
+      "change_pct": 3.2,
+      "market_cap": 1118336416867.4775,
+      "headlines": [
+        {
+          "title": "'Magnificent 7' stocks erase $797 billion in market value in worst day since April 2025",
+          "url": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-erase-797-billion-in-market-value-in-worst-day-since-april-2025-201930579.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-23T20:19:30Z"
+        },
+        {
+          "title": "2 reasons why Microsoft belongs in your portfolio: D.A. Davidson's Gil Luria",
+          "url": "https://finance.yahoo.com/video/2-reasons-why-microsoft-belongs-in-your-portfolio-da-davidsons-gil-luria-200819568.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-23T20:08:19Z"
+        },
+        {
+          "title": "Micron gains as Musk thanks it for  \u2019significant\u2019 memory chip allocation",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-gains-musk-thanks-significant-192751987.html",
+          "publisher": "Investing.com",
+          "published": "2026-07-23T19:27:51Z"
+        }
+      ]
+    },
+    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 539.69,
@@ -139,10 +165,10 @@
           "published": "2026-07-22T22:00:00Z"
         },
         {
-          "title": "Intel Stock Jumps On Chipmaker's Big Q2 Earnings Beat",
-          "url": "https://www.investors.com/news/technology/intel-stock-intc-q2-2026-earnings/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-07-23T20:14:16Z"
+          "title": "Intel Faces Earnings Test After 28% July Drop Despite Strong Q2 Expectations",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-faces-earnings-test-28-203653720.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-07-23T20:36:53Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 3.2,
+          "price": 990.21,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 3.2,
+        "price": 990.21,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 65093.0,
-      "change_pct": -1.52
+      "price": 65076.29,
+      "change_pct": -1.55
     },
     {
       "label": "Gold",
-      "price": 4051.8,
-      "change_pct": -2.29
+      "price": 4052.9,
+      "change_pct": -2.27
     },
     {
       "label": "Nasdaq100",

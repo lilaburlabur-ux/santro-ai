@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-23T17:52:28+00:00",
+  "as_of": "2026-07-23T17:57:16+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "TSLA",
    "company": "Tesla Inc",
-   "move_pct": -14.07,
-   "price": 321.38,
-   "volume": 78761885,
+   "move_pct": -14.17,
+   "price": 321.02,
+   "volume": 79133250,
    "volume_vs_avg": "~2x",
-   "heat_score": 83,
+   "heat_score": 84,
    "direction": "down",
    "why": "Update: Equity Markets Fall Intraday as Brent Crosses $100; Alphabet, Tesla Tumble",
    "catalyst_type": "momentum_narrative",
@@ -27,33 +27,17 @@
    "rank": 2,
    "ticker": "GOOGL",
    "company": "Alphabet Inc",
-   "move_pct": -6.68,
-   "price": 319.24,
-   "volume": 48371691,
+   "move_pct": -6.61,
+   "price": 319.49,
+   "volume": 48630225,
    "volume_vs_avg": "~1.5x",
-   "heat_score": 46,
+   "heat_score": 45,
    "direction": "down",
    "why": "Update: Equity Markets Fall Intraday as Brent Crosses $100; Alphabet, Tesla Tumble",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/equity-markets-fall-intraday-brent-174444299.html",
    "published": "2026-07-23T17:44:44Z",
    "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 3,
-   "ticker": "CBRS",
-   "company": "Cerebras Systems Inc",
-   "move_pct": 7.12,
-   "price": 224.74,
-   "volume": 5098442,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 44,
-   "direction": "up",
-   "why": "Cerebras Scores With CrowdStrike Deal: What it Means for Investors",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/cerebras-scores-crowdstrike-deal-means-155700503.html",
-   "published": "2026-07-23T15:57:00Z",
-   "sector": "AI Chips & Compute"
   }
  ]
 }

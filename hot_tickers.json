@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-23T13:04:07+00:00",
+  "as_of": "2026-07-23T13:19:24+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,29 +9,13 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "TSLA",
-   "company": "Tesla Inc",
-   "move_pct": -7.9,
-   "price": 344.48,
-   "volume": 29828100,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 46,
-   "direction": "down",
-   "why": "Micron Secures Major Tesla Memory Chip Allocation",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/articles/micron-secures-major-tesla-memory-124716023.html",
-   "published": "2026-07-23T12:47:16Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 2,
    "ticker": "NOW",
    "company": "ServiceNow Inc",
-   "move_pct": 5.47,
-   "price": 100.68,
+   "move_pct": 6.17,
+   "price": 101.35,
    "volume": 42880000,
    "volume_vs_avg": "~2x",
-   "heat_score": 44,
+   "heat_score": 46,
    "direction": "up",
    "why": "ServiceNow Raises Forecast as AI Demand Grows",
    "catalyst_type": "financing",
@@ -40,19 +24,35 @@
    "sector": "AI Applications & Data Software"
   },
   {
+   "rank": 2,
+   "ticker": "TSLA",
+   "company": "Tesla Inc",
+   "move_pct": -7.84,
+   "price": 344.7,
+   "volume": 29828100,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 46,
+   "direction": "down",
+   "why": "Stock Market Today: Dow Jones Index Falls 500 Points As Alphabet, Tesla Dive On Earnings News (Live Coverage)",
+   "catalyst_type": "earnings",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-alphabet-googl-tesla-tsla/?src=A00220&yptr=yahoo",
+   "published": "2026-07-23T13:04:44Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
    "rank": 3,
    "ticker": "GOOGL",
    "company": "Alphabet Inc",
-   "move_pct": -5.14,
-   "price": 324.52,
+   "move_pct": -5.36,
+   "price": 323.77,
    "volume": 38215500,
    "volume_vs_avg": "~1.2x",
-   "heat_score": 39,
+   "heat_score": 40,
    "direction": "down",
-   "why": "Alphabet Lifts Capex to $205 Billion as Cash Flow Turns Negative",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-lifts-capex-205-billion-123356486.html",
-   "published": "2026-07-23T12:33:56Z",
+   "why": "Stock Market Today: Dow Jones Index Falls 500 Points As Alphabet, Tesla Dive On Earnings News (Live Coverage)",
+   "catalyst_type": "earnings",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-alphabet-googl-tesla-tsla/?src=A00220&yptr=yahoo",
+   "published": "2026-07-23T13:04:44Z",
    "sector": "AI Platforms, Internet & AdTech"
   }
  ]

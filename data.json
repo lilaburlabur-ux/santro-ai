@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-23T02:26:21+00:00",
-  "as_of_local": "2026-07-23 02:26:21 UTC",
+  "as_of_utc": "2026-07-23T02:41:16+00:00",
+  "as_of_local": "2026-07-23 02:41:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -97,6 +99,12 @@
       "market_cap": 1083630118463.02,
       "headlines": [
         {
+          "title": "MU, SNDK, SKHY Stocks Jump: Google's AI Hunger, Elon Musk's Micron Shoutout Send Memory Bulls Charging",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-skhy-stocks-jump-021837742.html",
+          "publisher": "Stocktwits",
+          "published": "2026-07-23T02:18:37Z"
+        },
+        {
           "title": "The Ultimate Bull Run for NVIDIA, Micron, and SanDisk May Be Closer Than Investors Think",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ultimate-bull-run-nvidia-micron-215348964.html",
           "publisher": "24/7 Wall St.",
@@ -107,40 +115,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/chinese-ai-model-became-popular-213109229.html",
           "publisher": "Benzinga",
           "published": "2026-07-22T21:31:09Z"
-        },
-        {
-          "title": "Super Micro, ServiceNow, GE Vernova, Pegasystems, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-c14bcf85?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-07-22T20:31:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 552.33,
-      "previous_close": 544.43,
-      "change_pct": 1.45,
-      "market_cap": 900629678805.5801,
-      "headlines": [
-        {
-          "title": "Anthropic and AMD are signing a major AI chip deal. What could this mean for Nvidia?",
-          "url": "https://finance.yahoo.com/video/anthropic-amd-signing-major-ai-180000308.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-22T18:00:00Z"
-        },
-        {
-          "title": "Supermicro stock jumps on gross margin raise amid record $60 billion backlog",
-          "url": "https://finance.yahoo.com/markets/article/supermicro-stock-jumps-on-gross-margin-raise-amid-record-60-billion-backlog-223037795.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-21T22:30:37Z"
-        },
-        {
-          "title": "Dow Jones Futures: Google, Tesla Fall On Earnings, Capex, But AI Stocks Climb",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-tesla-earnings/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-07-23T02:19:29Z"
         }
       ]
     },
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 3.17,
-          "price": 1888000.0,
+          "change_pct": 2.13,
+          "price": 1869000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 3.07,
-          "price": 268500.0,
+          "change_pct": 2.4,
+          "price": 266750.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 0.61,
-          "price": 64660.0,
+          "change_pct": 0.48,
+          "price": 64580.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -1.23,
-          "price": 440.0,
+          "change_pct": -3.03,
+          "price": 432.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -2.63,
-          "price": 166.5,
+          "change_pct": -3.8,
+          "price": 164.5,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 3.17,
-        "price": 1888000.0,
+        "change_pct": 2.13,
+        "price": 1869000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 3.07,
-        "price": 268500.0,
+        "change_pct": 2.4,
+        "price": 266750.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 0.61,
-        "price": 64660.0,
+        "change_pct": 0.48,
+        "price": 64580.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -1.23,
-        "price": 440.0,
+        "change_pct": -3.03,
+        "price": 432.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -2.63,
-        "price": 166.5,
+        "change_pct": -3.8,
+        "price": 164.5,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 65675.77,
-      "change_pct": -1.25
+      "price": 65714.25,
+      "change_pct": -1.19
     },
     {
       "label": "Gold",
-      "price": 4117.5,
-      "change_pct": 1.14
+      "price": 4121.4,
+      "change_pct": 1.24
     },
     {
       "label": "Nasdaq100",

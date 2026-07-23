@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-23T23:32:18+00:00",
+  "as_of": "2026-07-23T23:47:22+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "TSLA",
    "company": "Tesla Inc",
-   "move_pct": -13.43,
-   "price": 323.79,
+   "move_pct": -13.37,
+   "price": 323.99,
    "volume": 115037671,
    "volume_vs_avg": "~3x",
    "heat_score": 85,
@@ -20,15 +20,15 @@
    "why": "Dow Jones Futures: Market Sells Off On Oil Prices, Google, Tesla; Intel Rises Late, SpaceX Starship Launch Delayed",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-sells-off-oil-prices-google-tesla-intel-spacex-starship-launch/?src=A00220&yptr=yahoo",
-   "published": "2026-07-23T23:15:18Z",
+   "published": "2026-07-23T23:18:18Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
    "rank": 2,
    "ticker": "GOOGL",
    "company": "Alphabet Inc",
-   "move_pct": -6.63,
-   "price": 319.4,
+   "move_pct": -6.66,
+   "price": 319.29,
    "volume": 69055767,
    "volume_vs_avg": "~2x",
    "heat_score": 49,
@@ -36,24 +36,8 @@
    "why": "Dow Jones Futures: Market Sells Off On Oil Prices, Google, Tesla; Intel Rises Late, SpaceX Starship Launch Delayed",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-sells-off-oil-prices-google-tesla-intel-spacex-starship-launch/?src=A00220&yptr=yahoo",
-   "published": "2026-07-23T23:15:18Z",
+   "published": "2026-07-23T23:18:18Z",
    "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 3,
-   "ticker": "HON",
-   "company": "Honeywell International Inc",
-   "move_pct": 6.87,
-   "price": 248.99,
-   "volume": 6303982,
-   "volume_vs_avg": "~1.3x",
-   "heat_score": 45,
-   "direction": "up",
-   "why": "Honeywell International Inc (HON) Q2 2026 Earnings Call Highlights: Strong Organic Growth and ...",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/honeywell-international-inc-hon-q2-210125377.html",
-   "published": "2026-07-23T21:01:25Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

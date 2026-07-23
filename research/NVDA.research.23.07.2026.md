@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Tech stocks live: Intel reports blowout earnings as Tesla and Google fall | Yahoo Finance | 2026-07-20 |
-| AMD launches Helios system in direct challenge to Nvidia's AI dominance | Yahoo Finance | 2026-07-23 |
-| Prediction: $1,000 Invested in SpaceX Stock Will Be Worth This Amount in 3 Years | Motley Fool | 2026-07-23 |
-| Is Pfizer's 7% Dividend Yield Too Good to Be True? Here's the Straight Answer | Motley Fool | 2026-07-23 |
+| AI Chip Stocks Just Got Crushed. 3 Semiconductor ETFs to Buy the Dip On | 24/7 Wall St. | 2026-07-23 |
+| Ripple Just Solved RLUSD’s Two Biggest Problems With Ripple Mint and Notabene Deal | 24/7 Wall St. | 2026-07-23 |
+| Amkor Technology surges 16% on $1.5B Nvidia deal | Investing.com | 2026-07-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

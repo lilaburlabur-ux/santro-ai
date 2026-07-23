@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Tech stocks live: Intel reports blowout earnings as Tesla and Google fall | Yahoo Finance | 2026-07-20 |
-| Intel earnings loom as investors watch jobs data and corporate results | Yahoo Finance Video | 2026-07-22 |
-| Intel Stock Jumps On Chipmaker's Big Q2 Earnings Beat | Investor's Business Daily | 2026-07-23 |
 | Dow Jones Futures: Market Sells Off On Oil Prices, Google, Tesla; Intel Jumps Late, SpaceX Starship Launch Due | Investor's Business Daily | 2026-07-23 |
+| Stock Market Today, July 23: Tesla Drops 15%, Leading Tech Stock Slide | Motley Fool | 2026-07-23 |
+| AMD, Arm gain after hours following blowout results from Intel | Investing.com | 2026-07-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

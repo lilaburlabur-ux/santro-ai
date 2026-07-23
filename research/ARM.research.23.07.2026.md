@@ -37,9 +37,9 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Headline | Source | Date |
 |---|---|---|
 | These high-flying tech stocks are down 60% — here's how to shop the sell-off: One Big Investment Idea | Yahoo Finance | 2026-07-23 |
+| AMD, Arm gain after hours following blowout results from Intel | Investing.com | 2026-07-23 |
 | An Emboldened AMD Is Taking Direct Aim at Nvidia | Barrons.com | 2026-07-23 |
 | Why ARM's AI Opportunity Could Extend Beyond Market Hype | Zacks | 2026-07-23 |
-| Arm Gains Ground in AI Servers | GuruFocus.com | 2026-07-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

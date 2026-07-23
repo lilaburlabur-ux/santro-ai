@@ -37,9 +37,9 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Headline | Source | Date |
 |---|---|---|
 | Lisa Su unveils AMD's AI roadmap, calling Helios 'the best AI rack in the world' | Yahoo Finance Video | 2026-07-23 |
+| AI Chip Stocks Just Got Crushed. 3 Semiconductor ETFs to Buy the Dip On | 24/7 Wall St. | 2026-07-23 |
+| Nvidia, Amkor strike $1.5 billion chip packaging deal | Reuters | 2026-07-23 |
 | Advanced Micro Devices Bets on Helios, Agentic AI to Drive Data Center Growth | MarketBeat | 2026-07-23 |
-| Intel Tops Quarterly Estimates as Data Center Boost Drives Fastest Revenue Growth in 15 Years | MT Newswires | 2026-07-23 |
-| Better-Buy Chip Stock: Taiwan Semiconductor vs. Nvidia | Motley Fool | 2026-07-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

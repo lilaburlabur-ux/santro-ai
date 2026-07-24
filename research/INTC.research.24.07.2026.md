@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| Stock market today: Nasdaq slips, Dow and S&P 500 recover to close a volatile week on Wall Street | Yahoo Finance | 2026-07-24 |
-| Intel's PC business will be dictated by AI data center momentum: CFRA | Yahoo Finance Video | 2026-07-23 |
-| Intel's Q2 earnings blow past Wall Street's estimates, with an upbeat Q3 outlook to boot | Yahoo Finance Video | 2026-07-23 |
+| Is Wall Street buying Intel's comeback story after blowout Q2 earnings? | Yahoo Finance Video | 2026-07-24 |
 | Stock Market Today: Nasdaq Slips As Sellers Hit Memory Chips; Oil, Yields Slide (Live Coverage) | Investor's Business Daily | 2026-07-24 |
+| INTC Stock Set To End Fifth Week Lower — Intel And Lens Technology Partner To Advance Semiconductor Packaging | Stocktwits | 2026-07-24 |
+| Intel Wins Over Analysts, But Not Everyone Is Buying | GuruFocus.com | 2026-07-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

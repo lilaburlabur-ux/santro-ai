@@ -68,7 +68,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
-| Valuation | P/E 20.81, forward P/E 5.99, P/S —, P/B 10.32 | EV/Sales 12.17, EV/EBITDA 16.11 |
+| Valuation | P/E 20.81, forward P/E 5.99, P/S 11.52, P/B 14.34 | EV/Sales 12.17, EV/EBITDA 16.11 |
 | Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,507.38 (42 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -123,8 +123,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | P/E (ttm) | 20.81 | Insider ownership | 0.25% |
 | Forward P/E | 5.99 | Short float | 2.81% |
 | PEG (trailing) | 0.15 | Avg volume | 52,281,885 |
-| P/S | — | Employees | 53,000 |
-| P/B | 10.32 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/S | 11.52 | Employees | 53,000 |
+| P/B | 14.34 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

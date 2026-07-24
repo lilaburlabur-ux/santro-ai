@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-24T13:26:37+00:00",
+  "as_of": "2026-07-24T13:31:50+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,13 +9,29 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "DLR",
+   "company": "Digital Realty Trust Inc",
+   "move_pct": 7.22,
+   "price": 192.29,
+   "volume": 402769,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 41,
+   "direction": "up",
+   "why": "Digital Realty Trust (DLR) Stock May Trade At A Discount On Cash Flow But A Premium On Earnings",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/digital-realty-trust-dlr-stock-121307517.html",
+   "published": "2026-07-24T12:13:07Z",
+   "sector": "Data Center, Power & Energy"
+  },
+  {
+   "rank": 2,
    "ticker": "SAP",
    "company": "Sap SE ADR",
-   "move_pct": 5.51,
-   "price": 154.44,
-   "volume": 4390600,
-   "volume_vs_avg": "~2x",
-   "heat_score": 42,
+   "move_pct": 5.05,
+   "price": 153.77,
+   "volume": 688497,
+   "volume_vs_avg": "~0.3x",
+   "heat_score": 34,
    "direction": "up",
    "why": "AI Spending Raises Questions Over SAP's 'SaaSPocalypse' Recovery",
    "catalyst_type": "financing",

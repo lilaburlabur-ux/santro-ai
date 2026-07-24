@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-24T00:02:37+00:00",
+  "as_of": "2026-07-24T00:17:33+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,10 +17,10 @@
    "volume_vs_avg": "~3x",
    "heat_score": 89,
    "direction": "down",
-   "why": "Is Tesla\u2019s Earnings Miss and Negative Free Cash Flow a Red Flag for Rivian and Lucid Investors?",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/tesla-earnings-miss-negative-free-234001315.html",
-   "published": "2026-07-23T23:40:01Z",
+   "why": "Dow Jones Futures: Market Sells Off On Oil Prices, Google, Tesla; Intel Rises Late, SpaceX Starship Launch Delayed",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-sells-off-oil-prices-google-tesla-intel-spacex-starship-launch/?src=A00220&yptr=yahoo",
+   "published": "2026-07-24T00:01:58Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
@@ -36,7 +36,7 @@
    "why": "Dow Jones Futures: Market Sells Off On Oil Prices, Google, Tesla; Intel Rises Late, SpaceX Starship Launch Delayed",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-sells-off-oil-prices-google-tesla-intel-spacex-starship-launch/?src=A00220&yptr=yahoo",
-   "published": "2026-07-23T23:18:18Z",
+   "published": "2026-07-24T00:01:58Z",
    "sector": "AI Platforms, Internet & AdTech"
   },
   {

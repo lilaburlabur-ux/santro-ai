@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-24T05:08:29+00:00",
-  "as_of_local": "2026-07-24 05:08:29 UTC",
+  "as_of_utc": "2026-07-24T05:13:35+00:00",
+  "as_of_local": "2026-07-24 05:13:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LSCC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -287,6 +285,34 @@
       ]
     },
     {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 138.13,
+      "previous_close": 137.17,
+      "change_pct": 0.7,
+      "market_cap": 18924895956.393677,
+      "headlines": [
+        {
+          "title": "Q1 Earnings Recap: Lattice Semiconductor (NASDAQ:LSCC) Tops Processors and Graphics Chips Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/q1-earnings-recap-lattice-semiconductor-215026627.html",
+          "publisher": "StockStory",
+          "published": "2026-07-21T21:50:26Z"
+        },
+        {
+          "title": "Nvidia Returns to NZS Growth Fund",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-returns-nzs-growth-fund-122207528.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-07-21T12:22:07Z"
+        },
+        {
+          "title": "Is Lattice Semiconductor (LSCC) Undervalued Following Its Strong Buy Upgrade?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-lscc-undervalued-following-091117160.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-07-21T09:11:17Z"
+        }
+      ]
+    },
+    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 158.73,
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -8.05,
-          "price": 1764500.0,
+          "change_pct": -7.61,
+          "price": 1773000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -7.87,
-          "price": 248750.0,
+          "change_pct": -7.78,
+          "price": 249000.0,
           "currency": "KRW"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -4.93,
-          "price": 405.0,
+          "change_pct": -5.16,
+          "price": 404.0,
           "currency": "TWD"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -8.05,
-        "price": 1764500.0,
+        "change_pct": -7.61,
+        "price": 1773000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -7.87,
-        "price": 248750.0,
+        "change_pct": -7.78,
+        "price": 249000.0,
         "currency": "KRW"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -4.93,
-        "price": 405.0,
+        "change_pct": -5.16,
+        "price": 404.0,
         "currency": "TWD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 65332.88,
-      "change_pct": -1.16
+      "price": 65310.73,
+      "change_pct": -1.2
     },
     {
       "label": "Gold",
-      "price": 4030.5,
-      "change_pct": -0.4
+      "price": 4028.9,
+      "change_pct": -0.44
     },
     {
       "label": "Nasdaq100",

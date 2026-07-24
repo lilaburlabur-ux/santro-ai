@@ -8,7 +8,7 @@
 | AVGO | $1.82T | +36% | 19.6 | 39% | Moderate | Reasonable | Elevated |
 | MU | $1.04T | +740% | 6.0 | 56% | High | Reasonable | High |
 | AMD | $851.09B | +229% | 38.6 | 13% | High | Low (expensive) | High |
-| INTC | $464.00B | +293% | 52.8 | -6% | High | Low (expensive) | High |
+| INTC | $464.00B | +293% | 47.6 | -6% | High | Low (expensive) | High |
 | ARM | $277.71B | +63% | 84.5 | 18% | High | Low (expensive) | High |
 | MRVL | $174.33B | +166% | 31.1 | 29% | High | Fair-to-demanding | High |
 | QCOM | $175.99B | +7% | 15.2 | 22% | Moderate | Reasonable | High |

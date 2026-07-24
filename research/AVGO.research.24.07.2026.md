@@ -37,9 +37,9 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Headline | Source | Date |
 |---|---|---|
 | Why Big Tech barnings could define the market next week | Yahoo Finance Video | 2026-07-24 |
+| Missed Out on Nvidia's Historic Run? These 2 Tech Winners Are Just Getting Started. | Motley Fool | 2026-07-24 |
+| MRVL Has Momentum. The Question Is The Price | Trefis | 2026-07-24 |
 | AMD Stock Scores Price-Target Hikes On AI Computer News | Investor's Business Daily | 2026-07-24 |
-| AI Memory Stocks Lead Chip Selloff | GuruFocus.com | 2026-07-24 |
-| FDVV’s 2.8% yield hides tech mega-cap risk in dividend portfolio | 24/7 Wall St. | 2026-07-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

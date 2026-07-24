@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| TSMC might set up a price hike that could come straight for your next phone, laptop, or tablet | Digital Trends | 2026-07-24 |
+| MRVL Has Momentum. The Question Is The Price | Trefis | 2026-07-24 |
+| Qualcomm (QCOM) Raises Product Prices And Deepens Samsung Snapdragon Ties | Simply Wall St. | 2026-07-24 |
 | QCOM Stock Drops 2% — Qualcomm Reportedly Plans Chip Price Hikes Amid Rising Supply Costs | Stocktwits | 2026-07-24 |
-| Sector Update: Tech Stocks Fall Late Afternoon | MT Newswires | 2026-07-24 |
-| Sector Update: Tech Stocks Decline Friday Afternoon | MT Newswires | 2026-07-24 |
-| Qualcomm tells customers of double-digit price increases, Bloomberg News reports | Reuters | 2026-07-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

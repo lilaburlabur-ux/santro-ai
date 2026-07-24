@@ -18,7 +18,7 @@ Signed file: `INTC.research.24.07.2026`
 | Technical momentum | High | 1Y +293.02%; price +40.39% vs SMA200. |
 | Fresh setup quality | Poor / broken | -34.50% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-5.90%). |
-| Value attractiveness | Low (expensive) | Forward P/E 52.79, EV/Sales 9.85. |
+| Value attractiveness | Low (expensive) | Forward P/E 47.61, EV/Sales 9.85. |
 | Risk level | High | Beta 2.19, ATR 9.3% of price, short float 2.54%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: low (expensive), risk: high.
@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Intel stock falls nearly 8% despite big Q2 earnings beat | Yahoo Finance | 2026-07-22 |
+| Stock Market Today, July 24: Intel Reverses Gains on Foundry and AI Spending Concerns | Motley Fool | 2026-07-24 |
 | Stocks to Watch: Bank of America, Intel, SAP, Oracle | The Wall Street Journal | 2026-07-24 |
 | Stock Market Today, July 24: Dow Recovers and Sandisk Tumbles 11% as Tech Stocks Fall Further | Motley Fool | 2026-07-24 |
-| S&P 500 Posts Weekly Decline Amid Mixed Earnings, US-Iran Turmoil | MT Newswires | 2026-07-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $53.76B | Revenue growth 7.20% y/y |
 | Profitability | Gross 37.20%, operating 6.88%, net -5.90% | ROA 0.63%, ROE -2.91% |
 | Balance sheet | Cash $32.79B, debt $45.03B | Current ratio 2.31, debt/equity 36.03 |
-| Valuation | P/E —, forward P/E 52.79, P/S 8.63, P/B 4.16 | EV/Sales 9.85, EV/EBITDA 37.36 |
+| Valuation | P/E —, forward P/E 47.61, P/S 8.63, P/B 4.16 | EV/Sales 9.85, EV/EBITDA 37.36 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $115.40 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Capital Research Global Investors | 77,301,863 | 1.54% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 52.79, EV/Sales 9.85. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 47.61, EV/Sales 9.85. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.19, ATR 9.3% of price, short float 2.54%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -124,7 +124,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | 52W high | $140.94 | Revenue growth y/y | 7.20% |
 | 52W low | $19.31 | Inst. ownership | 66.22% |
 | P/E (ttm) | — | Insider ownership | 14.72% |
-| Forward P/E | 52.79 | Short float | 2.54% |
+| Forward P/E | 47.61 | Short float | 2.54% |
 | PEG (trailing) | — | Avg volume | 131,460,934 |
 | P/S | 8.63 | Employees | 85,100 |
 | P/B | 4.16 | Analyst rec (1=buy..5=sell) | 2.6 |

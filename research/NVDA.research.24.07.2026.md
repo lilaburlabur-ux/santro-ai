@@ -39,7 +39,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Tech stocks live: Huang, Nadella, and other CEOs defend open-source AI as US threatens crackdown | Yahoo Finance | 2026-07-20 |
 | OpenAI president Greg Brockman: 'We will remain in this compute shortage no matter what' | Yahoo Finance | 2026-07-24 |
 | Is Wall Street buying Intel's comeback story after blowout Q2 earnings? | Yahoo Finance Video | 2026-07-24 |
-| Interactive Brokers Has Posted a Pre-Tax Margin Above 70% for 7 Straight Quarters. Why Rivals Struggle to Copy It | Motley Fool | 2026-07-24 |
+| Missed Out on Nvidia's Historic Run? These 2 Tech Winners Are Just Getting Started. | Motley Fool | 2026-07-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

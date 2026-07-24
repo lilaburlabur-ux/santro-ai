@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| MRVL Has Momentum. The Question Is The Price | Trefis | 2026-07-24 |
 | Marvell (MRVL) Stock Sees Fair Value Lift As AI Data Center Optimism Builds | Simply Wall St. | 2026-07-24 |
 | Nvidia is Winning AI Capex Wars So I Continue Loading Up | 24/7 Wall St. | 2026-07-24 |
 | Price Prediction: Micron, AMD & Marvell- Our Bold Price Predictions for 2028 | 24/7 Wall St. | 2026-07-24 |
-| Momentum Crash Hits YOLO Traders’ Returns by Most in Four Years | Bloomberg | 2026-07-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

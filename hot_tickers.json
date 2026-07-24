@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-24T02:04:34+00:00",
+  "as_of": "2026-07-24T08:03:10+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,51 +9,19 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "TSLA",
-   "company": "Tesla Inc",
-   "move_pct": -14.52,
-   "price": 319.69,
-   "volume": 115037671,
-   "volume_vs_avg": "~3x",
-   "heat_score": 89,
-   "direction": "down",
-   "why": "Dow Jones Futures: Market Sells Off On Oil Prices, Google, Tesla; Intel Jumps Late",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-sells-off-oil-prices-google-tesla-intel-spacex-starship-launch/?src=A00220&yptr=yahoo",
-   "published": "2026-07-24T01:44:03Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 2,
-   "ticker": "GOOGL",
-   "company": "Alphabet Inc",
-   "move_pct": -7.13,
-   "price": 317.69,
-   "volume": 69055767,
+   "ticker": "SAP",
+   "company": "Sap SE ADR",
+   "move_pct": 6.14,
+   "price": 155.37,
+   "volume": 4390600,
    "volume_vs_avg": "~2x",
-   "heat_score": 50,
-   "direction": "down",
-   "why": "Dow Jones Futures: Market Sells Off On Oil Prices, Google, Tesla; Intel Jumps Late",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-sells-off-oil-prices-google-tesla-intel-spacex-starship-launch/?src=A00220&yptr=yahoo",
-   "published": "2026-07-24T01:44:03Z",
-   "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 3,
-   "ticker": "HON",
-   "company": "Honeywell International Inc",
-   "move_pct": 5.7,
-   "price": 246.27,
-   "volume": 6303982,
-   "volume_vs_avg": "~1.3x",
-   "heat_score": 41,
+   "heat_score": 45,
    "direction": "up",
-   "why": "Honeywell (HON) Q2 2026 Earnings Call Transcript",
+   "why": "SAP (XTRA:SAP) Leans On AI And Q2 Results As Undervalued Narrative Holds",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/honeywell-hon-q2-2026-earnings-002954911.html",
-   "published": "2026-07-24T00:29:54Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/sap-xtra-sap-leans-ai-060955610.html",
+   "published": "2026-07-24T06:09:55Z",
+   "sector": "AI Applications & Data Software"
   }
  ]
 }

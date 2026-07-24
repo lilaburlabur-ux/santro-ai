@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-24T23:47:01+00:00",
-  "as_of_local": "2026-07-24 23:47:01 UTC",
+  "as_of_utc": "2026-07-24T23:49:35+00:00",
+  "as_of_local": "2026-07-24 23:49:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/mrvl-momentum-price-211444915.html",
           "publisher": "Trefis",
           "published": "2026-07-24T21:14:44Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 920.95,
+      "previous_close": 990.21,
+      "change_pct": -6.99,
+      "market_cap": 1040114636199.9875,
+      "headlines": [
+        {
+          "title": "Why Tesla, Google, and other Mag 7 stocks are losing billions in valuation",
+          "url": "https://finance.yahoo.com/video/why-tesla-google-and-other-mag-7-stocks-are-losing-billions-in-valuation-200043787.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-24T20:00:43Z"
+        },
+        {
+          "title": "Micron, onsemi, Seagate, Western Digital, and Vishay Intertechnology Shares Are Falling, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-onsemi-seagate-western-digital-220908037.html",
+          "publisher": "StockStory",
+          "published": "2026-07-24T22:09:08Z"
+        },
+        {
+          "title": "Missed Out on Nvidia's Historic Run? These 2 Tech Winners Are Just Getting Started.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/missed-nvidias-historic-run-2-215000475.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-24T21:50:00Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -6.99,
+          "price": 920.95,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -6.99,
+        "price": 920.95,
         "currency": "USD"
       },
       {
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 64109.41,
-      "change_pct": -1.44
+      "price": 64097.44,
+      "change_pct": -1.46
     },
     {
       "label": "Gold",

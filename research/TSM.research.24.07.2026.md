@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
-| Lisa Su unveils AMD's AI roadmap, calling Helios 'the best AI rack in the world' | Yahoo Finance Video | 2026-07-23 |
 | Intel’s Strong Earnings Couldn’t Save the Stock From an AI Spending Panic | Barrons.com | 2026-07-24 |
 | Chip Stocks Slide Friday—Memory Favorites Micron, Sandisk Among the Big Decliners | Investopedia | 2026-07-24 |
 | Qualcomm Tells Customers That Prices Are Going Up by Double Digits | Bloomberg | 2026-07-24 |
+| Intel Rises 3% on Q2 Earnings Beat, Upbeat Q3 Outlook as Chip Sector Stays Flat | 24/7 Wall St. | 2026-07-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

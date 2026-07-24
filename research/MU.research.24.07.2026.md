@@ -37,9 +37,9 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Headline | Source | Date |
 |---|---|---|
 | Why Tesla, Google, and other Mag 7 stocks are losing billions in valuation | Yahoo Finance Video | 2026-07-24 |
-| Stock Market Today: Nasdaq Slips As Sellers Hit Memory Chips; Oil, Yields Slide (Live Coverage) | Investor's Business Daily | 2026-07-24 |
+| Stock Market Today: Nasdaq Sinks As Sellers Hit Memory Chips; Oil, Yields Slide (Live Coverage) | Investor's Business Daily | 2026-07-24 |
 | SpaceX, Micron, SAP, Verizon, Amex, Tenet, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-24 |
-| AI Memory Stocks Lead Chip Selloff | GuruFocus.com | 2026-07-24 |
+| Micron Stock Falls to End Strong Week. What Comes Next Could Define the Memory Boom. | Barrons.com | 2026-07-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

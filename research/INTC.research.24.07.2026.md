@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| Is Wall Street buying Intel's comeback story after blowout Q2 earnings? | Yahoo Finance Video | 2026-07-24 |
-| Stock Market Today: Nasdaq Slips As Sellers Hit Memory Chips; Oil, Yields Slide (Live Coverage) | Investor's Business Daily | 2026-07-24 |
-| INTC Stock Set To End Fifth Week Lower — Intel And Lens Technology Partner To Advance Semiconductor Packaging | Stocktwits | 2026-07-24 |
-| Intel Wins Over Analysts, But Not Everyone Is Buying | GuruFocus.com | 2026-07-24 |
+| Intel stock falls nearly 8% despite big Q2 earnings beat | Yahoo Finance | 2026-07-22 |
+| S&P 500 Posts Weekly Decline Amid Mixed Earnings, US-Iran Turmoil | MT Newswires | 2026-07-24 |
+| Intel Just Posted Its Fastest Revenue Growth in More Than 15 Years, but the Stock Is Falling. Here's What's Going On. | Motley Fool | 2026-07-24 |
+| Intel Beat Earnings by $1.7 Billion and Fell 11% as Cramer Turned Bullish | BeInCrypto | 2026-07-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

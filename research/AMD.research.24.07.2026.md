@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| AMD CEO Lisa Su isn't worried about an AI house of cards | Yahoo Finance | 2026-07-24 |
+| Tech stocks live: Huang, Nadella, and other CEOs defend open-source AI as US threatens crackdown | Yahoo Finance | 2026-07-20 |
 | AMD CEO Lisa Su on AI demand and hyperscaler spending: 'We're seeing the returns' | Yahoo Finance | 2026-07-24 |
 | Capex fears trigger biggest Tech sell-off since 'Liberation Day' | Yahoo Finance Video | 2026-07-24 |
-| Advanced Micro Devices vs. Alphabet: What Do the Revenue Trajectories of These Artificial Intelligence Companies Tell Investors? | Motley Fool | 2026-07-24 |
+| Intel Beat Earnings by $1.7 Billion and Fell 11% as Cramer Turned Bullish | BeInCrypto | 2026-07-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

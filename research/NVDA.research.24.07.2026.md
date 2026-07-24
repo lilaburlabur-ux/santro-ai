@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Why Tesla, Google, and other Mag 7 stocks are losing billions in valuation | Yahoo Finance Video | 2026-07-24 |
+| Tech stocks live: Huang, Nadella, and other CEOs defend open-source AI as US threatens crackdown | Yahoo Finance | 2026-07-20 |
 | OpenAI president Greg Brockman: 'We will remain in this compute shortage no matter what' | Yahoo Finance | 2026-07-24 |
 | Is Wall Street buying Intel's comeback story after blowout Q2 earnings? | Yahoo Finance Video | 2026-07-24 |
-| Investing $5,000 in SCHD Now Could Generate Serious Passive Income Over 20 Years | Motley Fool | 2026-07-24 |
+| Sensient Technologies Corporation Q2 2026 Earnings Call Summary | Moby | 2026-07-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

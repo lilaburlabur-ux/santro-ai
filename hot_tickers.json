@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-24T11:40:15+00:00",
+  "as_of": "2026-07-24T11:50:43+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "SAP",
-   "company": "Sap SE ADR",
-   "move_pct": 5.0,
-   "price": 153.7,
-   "volume": 4390600,
-   "volume_vs_avg": "~2x",
-   "heat_score": 41,
-   "direction": "up",
-   "why": "Stocks to Watch: Intel, SAP, Oracle, Volkswagen",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-24-2026/card/stocks-to-watch-intel-sap-oracle-volkswagen-QAXyap0AAf1RLcGzwJYI?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-07-24T09:19:31Z",
-   "sector": "AI Applications & Data Software"
-  }
- ]
+ "hot_tickers": []
 }

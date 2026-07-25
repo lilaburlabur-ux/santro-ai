@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-07-25T03:46:58+00:00",
-  "as_of_local": "2026-07-25 03:46:58 UTC",
+  "as_of_utc": "2026-07-25T04:01:58+00:00",
+  "as_of_local": "2026-07-25 04:01:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -66,7 +66,7 @@
       "price": 381.92,
       "previous_close": 392.47,
       "change_pct": -2.69,
-      "market_cap": 1817015093103.683,
+      "market_cap": 1817015029220.1602,
       "headlines": [
         {
           "title": "Why Big Tech barnings could define the market next week",
@@ -91,9 +91,9 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 920.95,
-      "previous_close": 990.21,
-      "change_pct": -6.99,
+      "price": 990.21,
+      "previous_close": 959.48,
+      "change_pct": 3.2,
       "market_cap": 1040114636199.9875,
       "headlines": [
         {
@@ -122,7 +122,7 @@
       "price": 521.95,
       "previous_close": 539.69,
       "change_pct": -3.29,
-      "market_cap": 851092023430.843,
+      "market_cap": 851092003526.05,
       "headlines": [
         {
           "title": "Tech stocks live: Huang, Nadella, and other CEOs defend open-source AI as US threatens crackdown",
@@ -147,10 +147,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 92.32,
-      "previous_close": 100.23,
-      "change_pct": -7.89,
-      "market_cap": 465662078460.69336,
+      "price": 100.23,
+      "previous_close": 102.62,
+      "change_pct": -2.33,
+      "market_cap": 465662079999.99994,
       "headlines": [
         {
           "title": "Intel stock falls nearly 8% despite big Q2 earnings beat",
@@ -206,7 +206,7 @@
       "price": 166.97,
       "previous_close": 171.11,
       "change_pct": -2.42,
-      "market_cap": 175986381286.6211,
+      "market_cap": 175986380000.0,
       "headlines": [
         {
           "title": "S&P 500, Dow, Nasdaq End Second Week Lower Over Elevated Oil Prices, Chipmaker Rout \u2014 PSKY, UBER, QCOM, VZ, INTC In Focus",
@@ -290,7 +290,7 @@
       "price": 128.42,
       "previous_close": 138.13,
       "change_pct": -7.03,
-      "market_cap": 17594548745.07112,
+      "market_cap": 17594548995.94,
       "headlines": [
         {
           "title": "Lattice Semiconductor, Allegro MicroSystems, Monolithic Power Systems, Marvell Technology, and MACOM Shares Are Falling, What You Need To Know",
@@ -401,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 53.2,
-      "change_pct": -8.75,
+      "price": 58.3,
+      "change_pct": 0.92,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -6.99,
-          "price": 920.95,
+          "change_pct": 3.2,
+          "price": 990.21,
           "currency": "USD"
         },
         {
@@ -454,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -6.75,
-          "price": 851.69,
+          "change_pct": 0.58,
+          "price": 913.36,
           "currency": "USD"
         },
         {
@@ -463,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -6.9,
-          "price": 519.8,
+          "change_pct": 0.29,
+          "price": 558.3,
           "currency": "USD"
         },
         {
@@ -491,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 53.2,
-    "change_pct": -8.75,
+    "price": 58.3,
+    "change_pct": 0.92,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -6.99,
-        "price": 920.95,
+        "change_pct": 3.2,
+        "price": 990.21,
         "currency": "USD"
       },
       {
@@ -544,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -6.75,
-        "price": 851.69,
+        "change_pct": 0.58,
+        "price": 913.36,
         "currency": "USD"
       },
       {
@@ -553,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -6.9,
-        "price": 519.8,
+        "change_pct": 0.29,
+        "price": 558.3,
         "currency": "USD"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64026.71,
-      "change_pct": -1.57
+      "price": 64035.21,
+      "change_pct": -1.55
     },
     {
       "label": "Gold",
-      "price": 4055.7,
-      "change_pct": 0.22
+      "price": 4067.6,
+      "change_pct": 0.52
     },
     {
       "label": "Nasdaq100",

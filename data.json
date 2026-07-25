@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-07-25T14:25:21+00:00",
-  "as_of_local": "2026-07-25 14:25:21 UTC",
+  "as_of_utc": "2026-07-25T14:39:40+00:00",
+  "as_of_local": "2026-07-25 14:39:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -10,7 +10,7 @@
       "price": 206.84,
       "previous_close": 208.76,
       "change_pct": -0.92,
-      "market_cap": 5009871551300.049,
+      "market_cap": 5009871640000.0,
       "headlines": [
         {
           "title": "Google and Tesla lost half a trillion dollars this week as their suppliers cashed in: Chart of the Day",
@@ -131,16 +131,16 @@
           "published": "2026-07-20T16:43:34Z"
         },
         {
-          "title": "AMD CEO Lisa Su on AI demand and hyperscaler spending: 'We're seeing the returns'",
-          "url": "https://finance.yahoo.com/technology/article/amd-ceo-lisa-su-on-ai-demand-and-hyperscaler-spending-were-seeing-the-returns-143905473.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-24T14:39:05Z"
-        },
-        {
           "title": "Is Riot Platforms (RIOT) Too Pricey For Its AI Data Center Push?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/riot-platforms-riot-too-pricey-011108545.html",
           "publisher": "Simply Wall St.",
           "published": "2026-07-25T01:11:08Z"
+        },
+        {
+          "title": "Texas Instruments vs. Qualcomm: One Pays Out 94% of Earnings. The Better Dividend Chip Stock Is Clear.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-vs-qualcomm-one-230002513.html",
+          "publisher": "Barchart",
+          "published": "2026-07-24T23:00:02Z"
         }
       ]
     },
@@ -374,7 +374,7 @@
       "price": 36.35,
       "previous_close": 38.76,
       "change_pct": -6.22,
-      "market_cap": 1012688020.6399765,
+      "market_cap": 1012688063.1500001,
       "headlines": [
         {
           "title": "Does This Dip In Cadence Design Systems Stock Signal An Opening?",
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": null,
-      "change_pct": 0.0,
+      "price": 58.3,
+      "change_pct": 0.92,
       "holdings": [
         {
           "symbol": "MU",
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": null,
-    "change_pct": 0.0,
+    "price": 58.3,
+    "change_pct": 0.92,
     "holdings": [
       {
         "symbol": "MU",
@@ -585,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 64089.81,
-      "change_pct": -0.01
+      "price": 64131.36,
+      "change_pct": 0.05
     },
     {
       "label": "Gold",
@@ -595,8 +595,8 @@
     },
     {
       "label": "Nasdaq100",
-      "price": 28128.34,
-      "change_pct": -1.15
+      "price": 28454.81,
+      "change_pct": -1.87
     }
   ]
 }

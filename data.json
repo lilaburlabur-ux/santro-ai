@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-07-26T14:27:04+00:00",
-  "as_of_local": "2026-07-26 14:27:04 UTC",
+  "as_of_utc": "2026-07-26T14:42:08+00:00",
+  "as_of_local": "2026-07-26 14:42:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5009871551300.049,
       "headlines": [
         {
+          "title": "The 1 Vanguard ETF I'd Tell You to Buy Right Now in a Heartbeat",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-vanguard-etf-id-tell-143100947.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-26T14:31:00Z"
+        },
+        {
           "title": "Wall Street Thinks Teva Can Soar Over 60%. Here's Why Analysts Are Right.",
           "url": "https://finance.yahoo.com/healthcare/articles/wall-street-thinks-teva-soar-140500614.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-better-artificial-intelligence-ai-135700180.html",
           "publisher": "Motley Fool",
           "published": "2026-07-26T13:57:00Z"
-        },
-        {
-          "title": "Why GE Vernova Investors Should Ignore the Wind",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-ge-vernova-investors-ignore-135000520.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-26T13:50:00Z"
         }
       ]
     },
@@ -175,9 +175,9 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 283.04,
-      "previous_close": 283.4,
-      "change_pct": -0.13,
+      "price": 260.01,
+      "previous_close": 283.04,
+      "change_pct": -8.14,
       "market_cap": 276664644389.3606,
       "headlines": [
         {
@@ -234,7 +234,7 @@
       "price": 194.23,
       "previous_close": 209.32,
       "change_pct": -7.21,
-      "market_cap": 174330053279.28998,
+      "market_cap": 174330049444.56653,
       "headlines": [
         {
           "title": "Down 34% From Its Highs, Is Marvell Technology a Buy on the Dip?",
@@ -585,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 64594.17,
-      "change_pct": 0.44
+      "price": 64644.66,
+      "change_pct": 0.52
     },
     {
       "label": "Gold",

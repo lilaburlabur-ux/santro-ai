@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-26T17:11:45+00:00",
-  "as_of_local": "2026-07-26 17:11:45 UTC",
+  "as_of_utc": "2026-07-26T17:27:01+00:00",
+  "as_of_local": "2026-07-26 17:27:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,50 +15,22 @@
       "market_cap": 5009871551300.049,
       "headlines": [
         {
+          "title": "Wingstop Is Down 68% From Its All-Time High. Should You Buy Before July 29?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wingstop-down-68-time-high-171100053.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-26T17:11:00Z"
+        },
+        {
+          "title": "Did Citigroup's Latest Earnings Change the Investment Case?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/did-citigroups-latest-earnings-change-170500656.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-26T17:05:00Z"
+        },
+        {
           "title": "If I Were Starting Over With $500 to Invest, I'd Begin by Building a Portfolio Around This Unstoppable Stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/were-starting-over-500-invest-165000119.html",
           "publisher": "Motley Fool",
           "published": "2026-07-26T16:50:00Z"
-        },
-        {
-          "title": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/neocloud-stocks-vs-hyperscalers-actually-163500706.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-26T16:35:00Z"
-        },
-        {
-          "title": "The Magic Number for a \"Comfortable\" Retirement is $1.2 Million. Here's How Much You Might Need to Invest Each Month to Be on Track for That",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/magic-number-comfortable-retirement-1-162000761.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-26T16:20:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 403.41,
-      "previous_close": 415.58,
-      "change_pct": -2.93,
-      "market_cap": 2092275500577.7651,
-      "headlines": [
-        {
-          "title": "Samsung Wins $200 Billion Order to Supply Chips to Broadcom",
-          "url": "https://finance.yahoo.com/technology/ai/articles/samsung-wins-200-billion-order-063012683.html",
-          "publisher": "Bloomberg",
-          "published": "2026-07-25T06:30:12Z"
-        },
-        {
-          "title": "TSMC might set up a price hike that could come straight for your next phone, laptop, or tablet",
-          "url": "https://finance.yahoo.com/technology/articles/tsmc-might-set-price-hike-213102472.html",
-          "publisher": "Digital Trends",
-          "published": "2026-07-24T21:31:02Z"
-        },
-        {
-          "title": "Intel\u2019s Strong Earnings Couldn\u2019t Save the Stock From an AI Spending Panic",
-          "url": "https://www.barrons.com/articles/intel-stock-price-earnings-ai-panic-0c53fe8c?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-07-24T20:31:00Z"
         }
       ]
     },
@@ -91,9 +65,9 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 920.95,
-      "previous_close": 990.21,
-      "change_pct": -6.99,
+      "price": 990.21,
+      "previous_close": 959.48,
+      "change_pct": 3.2,
       "market_cap": 1040114636199.9875,
       "headlines": [
         {
@@ -206,7 +180,7 @@
       "price": 166.97,
       "previous_close": 171.11,
       "change_pct": -2.42,
-      "market_cap": 175986380000.0,
+      "market_cap": 175986381286.6211,
       "headlines": [
         {
           "title": "No Matter Who Wins the Smartphone and AI Chip Races, ARM Stock Still Benefits",
@@ -231,9 +205,9 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 194.23,
-      "previous_close": 209.32,
-      "change_pct": -7.21,
+      "price": 209.32,
+      "previous_close": 210.99,
+      "change_pct": -0.79,
       "market_cap": 174330049444.56653,
       "headlines": [
         {
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -6.99,
-          "price": 920.95,
+          "change_pct": 3.2,
+          "price": 990.21,
           "currency": "USD"
         },
         {
@@ -445,8 +419,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -10.79,
-          "price": 1436.56,
+          "change_pct": 0.69,
+          "price": 1610.33,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -6.99,
-        "price": 920.95,
+        "change_pct": 3.2,
+        "price": 990.21,
         "currency": "USD"
       },
       {
@@ -535,8 +509,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -10.79,
-        "price": 1436.56,
+        "change_pct": 0.69,
+        "price": 1610.33,
         "currency": "USD"
       },
       {
@@ -580,13 +554,13 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7411.98,
-      "change_pct": 0.05
+      "price": 7408.3,
+      "change_pct": -1.21
     },
     {
       "label": "BTC",
-      "price": 64648.12,
-      "change_pct": 0.52
+      "price": 64659.96,
+      "change_pct": 0.54
     },
     {
       "label": "Gold",

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-26T22:40:02+00:00",
-  "as_of_local": "2026-07-26 22:40:02 UTC",
+  "as_of_utc": "2026-07-26T22:42:49+00:00",
+  "as_of_local": "2026-07-26 22:42:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVAV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -315,6 +313,34 @@
       ]
     },
     {
+      "symbol": "AVAV",
+      "name": "AeroVironment",
+      "price": 149.51,
+      "previous_close": 158.73,
+      "change_pct": -5.81,
+      "market_cap": 7566406287.301788,
+      "headlines": [
+        {
+          "title": "1 Cash-Burning Stock to Consider Right Now and 2 We Brush Off",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-cash-burning-stock-consider-152908955.html",
+          "publisher": "StockStory",
+          "published": "2026-07-24T15:29:08Z"
+        },
+        {
+          "title": "AeroVironment (AVAV) Gains As Market Dips: What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-gains-market-dips-221501926.html",
+          "publisher": "Zacks",
+          "published": "2026-07-22T22:15:01Z"
+        },
+        {
+          "title": "Stock Market Today, July 22: Ondas Secures $70 Million in New Orders, Rises 28% Over the Last Week",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-july-22-212541591.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-22T21:25:41Z"
+        }
+      ]
+    },
+    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 113.0,
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 65362.49,
-      "change_pct": 1.63
+      "price": 65399.99,
+      "change_pct": 1.69
     },
     {
       "label": "Gold",
-      "price": 4089.4,
-      "change_pct": 0.54
+      "price": 4093.3,
+      "change_pct": 0.63
     },
     {
       "label": "Nasdaq100",

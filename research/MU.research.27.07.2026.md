@@ -15,11 +15,11 @@ Signed file: `MU.research.27.07.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +706.99%; price +78.09% vs SMA200. |
+| Technical momentum | High | 1Y +720.95%; price +79.40% vs SMA200. |
 | Fresh setup quality | Poor / broken | -25.81% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 55.91%, revenue growth 345.70%. |
 | Value attractiveness | Reasonable | Forward P/E 5.86, EV/Sales 11.30. |
-| Risk level | High | Beta 2.14, ATR 9.0% of price, short float 3.21%. |
+| Risk level | High | Beta 2.14, ATR 9.4% of price, short float 3.21%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -37,7 +37,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Headline | Source | Date |
 |---|---|---|
 | Elon Musk's Tesla, SpaceX shed $1.2T in July, while Apple sprints ahead: Chart of the Day | Yahoo Finance Video | 2026-07-27 |
-| Chinese memory chipmaker CXMT booms in IPO. Does US memory stand a chance? | Yahoo Finance Video | 2026-07-27 |
+| Dow Jones Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off | Investor's Business Daily | 2026-07-27 |
 | Stock Market Today, July 27: Dow Rises on Oil Retreat, and Sandisk Plunges 11% on Memory Weakness | Motley Fool | 2026-07-27 |
 | Prediction: Micron Stock Will Be Worth This Much by Late 2027 (Hint: The Time to Buy Is Now) | Motley Fool | 2026-07-27 |
 
@@ -45,20 +45,20 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $900.20; 52w high $1,213.37 (-25.81%); 52w low $104.71 (+759.69%) |
-| Trend | +78.09% vs SMA200, -5.96% vs SMA50, -6.63% vs SMA20 |
-| Momentum | RSI(14) 45.6 (neutral) |
-| Volatility | ATR(14) 80.98 (~9.0% of price); beta 2.14 |
+| Trend | +79.40% vs SMA200, -5.73% vs SMA50, -7.65% vs SMA20 |
+| Momentum | RSI(14) 45.7 (neutral) |
+| Volatility | ATR(14) 84.56 (~9.4% of price); beta 2.14 |
 | Setup perspective | -25.81% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +4.0% |
-| Month | -25.8% |
-| Quarter | +81.3% |
-| Half Y | +125.4% |
-| 1Y | +707.0% |
+| Week | +6.0% |
+| Month | -14.1% |
+| Quarter | +86.9% |
+| Half Y | +126.5% |
+| 1Y | +720.9% |
 | YTD | +185.6% |
 
 ## 4. Fundamental Analysis
@@ -68,7 +68,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
-| Valuation | P/E 20.36, forward P/E 5.86, P/S —, P/B 10.09 | EV/Sales 11.30, EV/EBITDA 14.96 |
+| Valuation | P/E 20.36, forward P/E 5.86, P/S 11.26, P/B 14.01 | EV/Sales 11.30, EV/EBITDA 14.96 |
 | Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,507.38 (42 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Morgan Stanley | 16,842,006 | 1.49% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.14, ATR 9.0% of price, short float 3.21%. Size positions accordingly.
+- **Volatility risk:** Beta 2.14, ATR 9.4% of price, short float 3.21%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -114,18 +114,18 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Price | $900.20 | EV/Sales | 11.30 |
 | Market cap | $1.02T | EV/EBITDA | 14.96 |
 | Beta | 2.14 | Gross margin | 72.57% |
-| RSI(14) | 45.6 | Operating margin | 80.37% |
-| ATR(14) | 80.98 | Profit margin | 55.91% |
-| SMA20 dist | -6.63% | ROA | 34.87% |
-| SMA50 dist | -5.96% | ROE | 66.64% |
-| SMA200 dist | +78.09% | Revenue (ttm) | $90.27B |
+| RSI(14) | 45.7 | Operating margin | 80.37% |
+| ATR(14) | 84.56 | Profit margin | 55.91% |
+| SMA20 dist | -7.65% | ROA | 34.87% |
+| SMA50 dist | -5.73% | ROE | 66.64% |
+| SMA200 dist | +79.40% | Revenue (ttm) | $90.27B |
 | 52W high | $1,213.37 | Revenue growth y/y | 345.70% |
 | 52W low | $104.71 | Inst. ownership | 83.17% |
 | P/E (ttm) | 20.36 | Insider ownership | 0.25% |
 | Forward P/E | 5.86 | Short float | 3.21% |
 | PEG (trailing) | 0.14 | Avg volume | 52,272,872 |
-| P/S | — | Employees | 53,000 |
-| P/B | 10.09 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/S | 11.26 | Employees | 53,000 |
+| P/B | 14.01 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

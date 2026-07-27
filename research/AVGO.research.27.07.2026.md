@@ -15,11 +15,11 @@ Signed file: `AVGO.research.27.07.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +33.71%; price +5.26% vs SMA200. |
+| Technical momentum | Moderate | 1Y +36.07%; price +5.33% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -20.30% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 38.85%, revenue growth 47.90%. |
 | Value attractiveness | Reasonable | Forward P/E 19.64, EV/Sales 24.68. |
-| Risk level | Elevated | Beta 1.46, ATR 4.2% of price, short float 1.47%. |
+| Risk level | Elevated | Beta 1.46, ATR 4.3% of price, short float 1.47%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -45,20 +45,20 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $383.22; 52w high $480.81 (-20.30%); 52w low $286.54 (+33.74%) |
-| Trend | +5.26% vs SMA200, -3.80% vs SMA50, +0.24% vs SMA20 |
-| Momentum | RSI(14) 48.4 (neutral) |
-| Volatility | ATR(14) 16.22 (~4.2% of price); beta 1.46 |
+| Trend | +5.33% vs SMA200, -3.96% vs SMA50, +0.46% vs SMA20 |
+| Momentum | RSI(14) 48.3 (neutral) |
+| Volatility | ATR(14) 16.58 (~4.3% of price); beta 1.46 |
 | Setup perspective | -20.30% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.3% |
-| Month | +1.1% |
-| Quarter | -9.2% |
-| Half Y | +20.2% |
-| 1Y | +33.7% |
+| Week | +3.3% |
+| Month | +0.3% |
+| Quarter | -8.6% |
+| Half Y | +18.2% |
+| 1Y | +36.1% |
 | YTD | +10.6% |
 
 ## 4. Fundamental Analysis
@@ -95,7 +95,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Price (T.Rowe) Associates Inc | 84,470,754 | 1.78% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.46, ATR 4.2% of price, short float 1.47%. Size positions accordingly.
+- **Volatility risk:** Beta 1.46, ATR 4.3% of price, short float 1.47%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -113,11 +113,11 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Price | $383.22 | EV/Sales | 24.68 |
 | Market cap | $1.82T | EV/EBITDA | 44.25 |
 | Beta | 1.46 | Gross margin | 76.28% |
-| RSI(14) | 48.4 | Operating margin | 48.99% |
-| ATR(14) | 16.22 | Profit margin | 38.85% |
-| SMA20 dist | +0.24% | ROA | 12.12% |
-| SMA50 dist | -3.80% | ROE | 37.28% |
-| SMA200 dist | +5.26% | Revenue (ttm) | $75.46B |
+| RSI(14) | 48.3 | Operating margin | 48.99% |
+| ATR(14) | 16.58 | Profit margin | 38.85% |
+| SMA20 dist | +0.46% | ROA | 12.12% |
+| SMA50 dist | -3.96% | ROE | 37.28% |
+| SMA200 dist | +5.33% | Revenue (ttm) | $75.46B |
 | 52W high | $480.81 | Revenue growth y/y | 47.90% |
 | 52W low | $286.54 | Inst. ownership | 80.58% |
 | P/E (ttm) | 63.87 | Insider ownership | 1.94% |

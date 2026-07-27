@@ -15,11 +15,11 @@ Signed file: `AMD.research.27.07.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +205.30%; price +61.17% vs SMA200. |
+| Technical momentum | High | 1Y +211.98%; price +61.99% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -14.80% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.37%, revenue growth 37.80%. |
 | Value attractiveness | Low (expensive) | Forward P/E 36.07, EV/Sales 22.50. |
-| Risk level | High | Beta 2.47, ATR 7.6% of price, short float 2.45%. |
+| Risk level | High | Beta 2.47, ATR 7.8% of price, short float 2.45%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: low (expensive), risk: high.
 
@@ -36,29 +36,29 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Nvidia drops nearly 5%, leading chip stocks lower amid renewed worries of circular financing | Yahoo Finance | 2026-07-27 |
 | Nvidia Invests in Ilya Sutskever's AI Startup | GuruFocus.com | 2026-07-27 |
 | Sandisk and More Chip Stocks Hit China Roadblocks | Barrons.com | 2026-07-27 |
 | Nvidia in Talks to Finance OpenAI, Report Says. What It Means for the Stock. | Barrons.com | 2026-07-27 |
-| CXMT, Sandisk, ASML, SpaceX, D-Wave Quantum, Workday, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $494.95; 52w high $580.91 (-14.80%); 52w low $151.14 (+227.48%) |
-| Trend | +61.17% vs SMA200, -2.85% vs SMA50, -6.92% vs SMA20 |
-| Momentum | RSI(14) 45.2 (neutral) |
-| Volatility | ATR(14) 37.49 (~7.6% of price); beta 2.47 |
+| Trend | +61.99% vs SMA200, -2.56% vs SMA50, -6.91% vs SMA20 |
+| Momentum | RSI(14) 45.5 (neutral) |
+| Volatility | ATR(14) 38.72 (~7.8% of price); beta 2.47 |
 | Setup perspective | -14.80% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.7% |
-| Month | -7.1% |
-| Quarter | +42.3% |
-| Half Y | +90.6% |
-| 1Y | +205.3% |
+| Week | -0.2% |
+| Month | -4.8% |
+| Quarter | +62.1% |
+| Half Y | +95.1% |
+| 1Y | +212.0% |
 | YTD | +121.5% |
 
 ## 4. Fundamental Analysis
@@ -68,7 +68,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Revenue (ttm) | $37.45B | Revenue growth 37.80% y/y |
 | Profitability | Gross 53.06%, operating 14.40%, net 13.37% | ROA 3.65%, ROE 8.06% |
 | Balance sheet | Cash $12.35B, debt $3.87B | Current ratio 2.73, debt/equity 6.00 |
-| Valuation | P/E 166.09, forward P/E 36.07, P/S —, P/B 12.52 | EV/Sales 22.50, EV/EBITDA 113.41 |
+| Valuation | P/E 166.09, forward P/E 36.07, P/S 21.55, P/B 12.52 | EV/Sales 22.50, EV/EBITDA 113.41 |
 | Growth expectations | Earnings growth 91.20%, EPS q/q 95.10% | Analyst mean target $573.15 (47 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -96,7 +96,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 36.07, EV/Sales 22.50. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.47, ATR 7.6% of price, short float 2.45%. Size positions accordingly.
+- **Volatility risk:** Beta 2.47, ATR 7.8% of price, short float 2.45%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -114,17 +114,17 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Price | $494.95 | EV/Sales | 22.50 |
 | Market cap | $807.07B | EV/EBITDA | 113.41 |
 | Beta | 2.47 | Gross margin | 53.06% |
-| RSI(14) | 45.2 | Operating margin | 14.40% |
-| ATR(14) | 37.49 | Profit margin | 13.37% |
-| SMA20 dist | -6.92% | ROA | 3.65% |
-| SMA50 dist | -2.85% | ROE | 8.06% |
-| SMA200 dist | +61.17% | Revenue (ttm) | $37.45B |
+| RSI(14) | 45.5 | Operating margin | 14.40% |
+| ATR(14) | 38.72 | Profit margin | 13.37% |
+| SMA20 dist | -6.91% | ROA | 3.65% |
+| SMA50 dist | -2.56% | ROE | 8.06% |
+| SMA200 dist | +61.99% | Revenue (ttm) | $37.45B |
 | 52W high | $580.91 | Revenue growth y/y | 37.80% |
 | 52W low | $151.14 | Inst. ownership | 74.12% |
 | P/E (ttm) | 166.09 | Insider ownership | 0.40% |
 | Forward P/E | 36.07 | Short float | 2.45% |
 | PEG (trailing) | 1.25 | Avg volume | 33,577,931 |
-| P/S | — | Employees | 31,000 |
+| P/S | 21.55 | Employees | 31,000 |
 | P/B | 12.52 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions

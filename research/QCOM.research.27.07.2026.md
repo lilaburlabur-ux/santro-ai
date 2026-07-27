@@ -15,11 +15,11 @@ Signed file: `QCOM.research.27.07.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +9.31%; price +1.23% vs SMA200. |
+| Technical momentum | Moderate | 1Y +8.60%; price +1.24% vs SMA200. |
 | Fresh setup quality | Poor / broken | -32.01% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 22.31%, revenue growth -3.50%. |
 | Value attractiveness | Reasonable | Forward P/E 15.47, EV/Sales 4.08. |
-| Risk level | High | Beta 1.64, ATR 5.8% of price, short float 3.84%. |
+| Risk level | High | Beta 1.64, ATR 6.0% of price, short float 3.84%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -45,20 +45,20 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $170.04; 52w high $250.10 (-32.01%); 52w low $123.61 (+37.56%) |
-| Trend | +1.23% vs SMA200, -15.80% vs SMA50, -4.95% vs SMA20 |
-| Momentum | RSI(14) 39.6 (neutral) |
-| Volatility | ATR(14) 9.92 (~5.8% of price); beta 1.64 |
+| Trend | +1.24% vs SMA200, -16.17% vs SMA50, -5.54% vs SMA20 |
+| Momentum | RSI(14) 38.5 (neutral) |
+| Volatility | ATR(14) 10.27 (~6.0% of price); beta 1.64 |
 | Setup perspective | -32.01% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.2% |
-| Month | -17.0% |
-| Quarter | +14.7% |
-| Half Y | +10.2% |
-| 1Y | +9.3% |
+| Week | -1.0% |
+| Month | -13.9% |
+| Quarter | +27.4% |
+| Half Y | +8.8% |
+| 1Y | +8.6% |
 | YTD | -0.7% |
 
 ## 4. Fundamental Analysis
@@ -95,7 +95,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC | 12,113,406 | 1.15% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.64, ATR 5.8% of price, short float 3.84%. Size positions accordingly.
+- **Volatility risk:** Beta 1.64, ATR 6.0% of price, short float 3.84%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -114,11 +114,11 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Price | $170.04 | EV/Sales | 4.08 |
 | Market cap | $179.22B | EV/EBITDA | 13.96 |
 | Beta | 1.64 | Gross margin | 54.80% |
-| RSI(14) | 39.6 | Operating margin | 22.06% |
-| ATR(14) | 9.92 | Profit margin | 22.31% |
-| SMA20 dist | -4.95% | ROA | 12.69% |
-| SMA50 dist | -15.80% | ROE | 36.08% |
-| SMA200 dist | +1.23% | Revenue (ttm) | $44.49B |
+| RSI(14) | 38.5 | Operating margin | 22.06% |
+| ATR(14) | 10.27 | Profit margin | 22.31% |
+| SMA20 dist | -5.54% | ROA | 12.69% |
+| SMA50 dist | -16.17% | ROE | 36.08% |
+| SMA200 dist | +1.24% | Revenue (ttm) | $44.49B |
 | 52W high | $250.10 | Revenue growth y/y | -3.50% |
 | 52W low | $123.61 | Inst. ownership | 86.51% |
 | P/E (ttm) | 18.28 | Insider ownership | 0.12% |

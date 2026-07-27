@@ -15,11 +15,11 @@ Signed file: `INTC.research.27.07.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +305.08%; price +38.83% vs SMA200. |
+| Technical momentum | High | 1Y +290.25%; price +39.41% vs SMA200. |
 | Fresh setup quality | Poor / broken | -34.96% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-19.79%). |
 | Value attractiveness | Low (expensive) | Forward P/E 45.75, EV/Sales 8.80. |
-| Risk level | High | Beta 2.19, ATR 9.3% of price, short float 2.40%. |
+| Risk level | High | Beta 2.19, ATR 9.6% of price, short float 2.40%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: low (expensive), risk: high.
 
@@ -45,20 +45,20 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $91.67; 52w high $140.94 (-34.96%); 52w low $19.31 (+374.73%) |
-| Trend | +38.83% vs SMA200, -20.07% vs SMA50, -15.87% vs SMA20 |
+| Trend | +39.41% vs SMA200, -20.46% vs SMA50, -17.23% vs SMA20 |
 | Momentum | RSI(14) 36.8 (neutral) |
-| Volatility | ATR(14) 8.55 (~9.3% of price); beta 2.19 |
+| Volatility | ATR(14) 8.81 (~9.6% of price); beta 2.19 |
 | Setup perspective | -34.96% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.6% |
-| Month | -31.0% |
-| Quarter | +11.1% |
-| Half Y | +103.4% |
-| 1Y | +305.1% |
+| Week | -3.5% |
+| Month | -30.4% |
+| Quarter | +37.3% |
+| Half Y | +68.8% |
+| 1Y | +290.3% |
 | YTD | +132.8% |
 
 ## 4. Fundamental Analysis
@@ -96,7 +96,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 45.75, EV/Sales 8.80. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.19, ATR 9.3% of price, short float 2.40%. Size positions accordingly.
+- **Volatility risk:** Beta 2.19, ATR 9.6% of price, short float 2.40%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -117,10 +117,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Market cap | $462.38B | EV/EBITDA | 29.81 |
 | Beta | 2.19 | Gross margin | 38.87% |
 | RSI(14) | 36.8 | Operating margin | 12.19% |
-| ATR(14) | 8.55 | Profit margin | -19.79% |
-| SMA20 dist | -15.87% | ROA | 1.41% |
-| SMA50 dist | -20.07% | ROE | -10.71% |
-| SMA200 dist | +38.83% | Revenue (ttm) | $57.03B |
+| ATR(14) | 8.81 | Profit margin | -19.79% |
+| SMA20 dist | -17.23% | ROA | 1.41% |
+| SMA50 dist | -20.46% | ROE | -10.71% |
+| SMA200 dist | +39.41% | Revenue (ttm) | $57.03B |
 | 52W high | $140.94 | Revenue growth y/y | 25.40% |
 | 52W low | $19.31 | Inst. ownership | 66.01% |
 | P/E (ttm) | — | Insider ownership | 14.67% |

@@ -15,7 +15,7 @@ Signed file: `NXPI.research.27.07.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +21.39%; price +11.85% vs SMA200. |
+| Technical momentum | Moderate | 1Y +21.24%; price +11.98% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -19.27% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 21.03%, revenue growth 12.20%. |
 | Value attractiveness | Reasonable | Forward P/E 14.95, EV/Sales 6.05. |
@@ -45,20 +45,20 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $267.67; 52w high $331.55 (-19.27%); 52w low $181.81 (+47.23%) |
-| Trend | +11.85% vs SMA200, -9.06% vs SMA50, -3.44% vs SMA20 |
-| Momentum | RSI(14) 41.9 (neutral) |
-| Volatility | ATR(14) 13.09 (~4.9% of price); beta 1.80 |
+| Trend | +11.98% vs SMA200, -9.23% vs SMA50, -3.57% vs SMA20 |
+| Momentum | RSI(14) 42.0 (neutral) |
+| Volatility | ATR(14) 13.25 (~4.9% of price); beta 1.80 |
 | Setup perspective | -19.27% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.2% |
-| Month | -10.4% |
-| Quarter | +10.1% |
-| Half Y | +16.1% |
-| 1Y | +21.4% |
+| Week | +0.4% |
+| Month | -9.0% |
+| Quarter | +11.4% |
+| Half Y | +14.0% |
+| 1Y | +21.2% |
 | YTD | +22.0% |
 
 ## 4. Fundamental Analysis
@@ -113,11 +113,11 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Price | $267.67 | EV/Sales | 6.05 |
 | Market cap | $67.58B | EV/EBITDA | 18.35 |
 | Beta | 1.80 | Gross margin | 55.63% |
-| RSI(14) | 41.9 | Operating margin | 27.66% |
-| ATR(14) | 13.09 | Profit margin | 21.03% |
-| SMA20 dist | -3.44% | ROA | 8.14% |
-| SMA50 dist | -9.06% | ROE | 25.81% |
-| SMA200 dist | +11.85% | Revenue (ttm) | $12.62B |
+| RSI(14) | 42.0 | Operating margin | 27.66% |
+| ATR(14) | 13.25 | Profit margin | 21.03% |
+| SMA20 dist | -3.57% | ROA | 8.14% |
+| SMA50 dist | -9.23% | ROE | 25.81% |
+| SMA200 dist | +11.98% | Revenue (ttm) | $12.62B |
 | 52W high | $331.55 | Revenue growth y/y | 12.20% |
 | 52W low | $181.81 | Inst. ownership | 103.01% |
 | P/E (ttm) | 254.92 | Insider ownership | 0.14% |

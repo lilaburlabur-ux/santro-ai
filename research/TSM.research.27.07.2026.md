@@ -15,11 +15,11 @@ Signed file: `TSM.research.27.07.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +67.01%; price +12.73% vs SMA200. |
+| Technical momentum | High | 1Y +67.90%; price +12.91% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -16.43% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 49.92%, revenue growth 36.00%. |
 | Value attractiveness | Reasonable | Forward P/E 18.50, EV/Sales 3.21. |
-| Risk level | Elevated | Beta 1.25, ATR 4.4% of price, short float 0.69%. |
+| Risk level | Elevated | Beta 1.25, ATR 4.6% of price, short float 0.69%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -37,28 +37,28 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Headline | Source | Date |
 |---|---|---|
 | Semiconductor stock charts just formed this bearish shape that signals more potential losses | Yahoo Finance | 2026-07-27 |
+| Amkor Technology Q2 Earnings Call Highlights | MarketBeat | 2026-07-27 |
 | Cadence Stock Can Be an AI Winner. The Earnings Prove It. | Barrons.com | 2026-07-27 |
 | Missed NVIDIA? This AI Infrastructure Stock Has More Room to Run | Zacks | 2026-07-27 |
-| NVIDIA Plans a $750 Billion Spending Spree. Is This the Dot-Com All Over or the Beginning of a Massive AI Boom? | 24/7 Wall St. | 2026-07-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $399.09; 52w high $477.57 (-16.43%); 52w low $224.84 (+77.50%) |
-| Trend | +12.73% vs SMA200, -6.25% vs SMA50, -6.53% vs SMA20 |
-| Momentum | RSI(14) 41.1 (neutral) |
-| Volatility | ATR(14) 17.60 (~4.4% of price); beta 1.25 |
+| Trend | +12.91% vs SMA200, -6.23% vs SMA50, -6.84% vs SMA20 |
+| Momentum | RSI(14) 41.2 (neutral) |
+| Volatility | ATR(14) 18.37 (~4.6% of price); beta 1.25 |
 | Setup perspective | -16.43% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.8% |
-| Month | -8.3% |
-| Quarter | -0.6% |
-| Half Y | +19.8% |
-| 1Y | +67.0% |
+| Week | +0.2% |
+| Month | -9.5% |
+| Quarter | +4.5% |
+| Half Y | +22.5% |
+| 1Y | +67.9% |
 | YTD | +25.5% |
 
 ## 4. Fundamental Analysis
@@ -95,7 +95,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Jennison Associates LLC | 12,021,825 | 0.23% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.25, ATR 4.4% of price, short float 0.69%. Size positions accordingly.
+- **Volatility risk:** Beta 1.25, ATR 4.6% of price, short float 0.69%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -113,11 +113,11 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Price | $399.09 | EV/Sales | 3.21 |
 | Market cap | $2.07T | EV/EBITDA | 4.49 |
 | Beta | 1.25 | Gross margin | 64.23% |
-| RSI(14) | 41.1 | Operating margin | 60.34% |
-| ATR(14) | 17.60 | Profit margin | 49.92% |
-| SMA20 dist | -6.53% | ROA | 19.01% |
-| SMA50 dist | -6.25% | ROE | 39.97% |
-| SMA200 dist | +12.73% | Revenue (ttm) | $4.44T |
+| RSI(14) | 41.2 | Operating margin | 60.34% |
+| ATR(14) | 18.37 | Profit margin | 49.92% |
+| SMA20 dist | -6.84% | ROA | 19.01% |
+| SMA50 dist | -6.23% | ROE | 39.97% |
+| SMA200 dist | +12.91% | Revenue (ttm) | $4.44T |
 | 52W high | $477.57 | Revenue growth y/y | 36.00% |
 | 52W low | $224.84 | Inst. ownership | 15.54% |
 | P/E (ttm) | 35.19 | Insider ownership | 0.04% |

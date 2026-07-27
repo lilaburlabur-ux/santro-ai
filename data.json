@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-07-27T13:20:26+00:00",
-  "as_of_local": "2026-07-27 13:20:26 UTC",
+  "as_of_utc": "2026-07-27T13:25:43+00:00",
+  "as_of_local": "2026-07-27 13:25:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5009871551300.049,
       "headlines": [
         {
+          "title": "Ford\u2019s Recalls Are a Headache for Shareholders. Here\u2019s Who Actually Cashes In.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ford-recalls-headache-shareholders-actually-131535704.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-07-27T13:15:35Z"
+        },
+        {
           "title": "Chinese AI Cuts U.S. Performance Gap to Record 6% in June",
           "url": "https://finance.yahoo.com/technology/ai/articles/chinese-ai-cuts-u-performance-131104090.html",
           "publisher": "GuruFocus.com",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/1-incredible-reason-buy-roblox-131000146.html",
           "publisher": "Motley Fool",
           "published": "2026-07-27T13:10:00Z"
-        },
-        {
-          "title": "SpaceX Stock Is Down 48% From Its High. Here's Why ETFs Are Loading Up Anyway.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-down-48-high-130600317.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-27T13:06:00Z"
         }
       ]
     },
@@ -119,11 +119,17 @@
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 521.95,
-      "previous_close": 539.69,
-      "change_pct": -3.29,
+      "price": 539.69,
+      "previous_close": 552.33,
+      "change_pct": -2.29,
       "market_cap": 851092023430.843,
       "headlines": [
+        {
+          "title": "3 Market-Beating Stocks with Competitive Advantages",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-market-beating-stocks-competitive-131702228.html",
+          "publisher": "StockStory",
+          "published": "2026-07-27T13:17:02Z"
+        },
         {
           "title": "Update: US Equity Futures Rise Pre-Bell as Oil Prices Drop Amid Pause in Middle East Hostilities",
           "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-125212777.html",
@@ -135,12 +141,6 @@
           "url": "https://www.barrons.com/articles/nvidia-stock-openai-sk-hynix-chip-b9c8993b?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-07-27T10:50:00Z"
-        },
-        {
-          "title": "Sandisk, Marvell, Chevron, Broadcom, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-ed57540c?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-07-27T10:38:00Z"
         }
       ]
     },
@@ -165,9 +165,9 @@
           "published": "2026-07-27T11:14:22Z"
         },
         {
-          "title": "Nvidia Eyes OpenAI, SK Hynix Deals\u2014Why the Stock Still Looks Like a Chip Laggard",
-          "url": "https://www.barrons.com/articles/nvidia-stock-openai-sk-hynix-chip-b9c8993b?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
+          "title": "Micron, Sandisk, and Intel Have Dominated 2026. Which Is the Best Buy Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-intel-dominated-2026-105000706.html",
+          "publisher": "Motley Fool",
           "published": "2026-07-27T10:50:00Z"
         }
       ]
@@ -209,6 +209,12 @@
       "market_cap": 175986381286.6211,
       "headlines": [
         {
+          "title": "QUALCOMM (QCOM) Could Be 25% Below Fair Value As Auto And Data Center Hopes Build",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-could-25-below-131023436.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-07-27T13:10:23Z"
+        },
+        {
           "title": "Update: US Equity Futures Rise Pre-Bell as Oil Prices Drop Amid Pause in Middle East Hostilities",
           "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-125212777.html",
           "publisher": "MT Newswires",
@@ -219,12 +225,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-us-120146044.html",
           "publisher": "MT Newswires",
           "published": "2026-07-27T12:01:46Z"
-        },
-        {
-          "title": "US Equity Futures Rise Pre-Bell as Oil Prices Drop Amid Pause in Middle East Hostilities",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-115715216.html",
-          "publisher": "MT Newswires",
-          "published": "2026-07-27T11:57:15Z"
         }
       ]
     },
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64949.44,
-      "change_pct": -0.6
+      "price": 64856.31,
+      "change_pct": -0.74
     },
     {
       "label": "Gold",
-      "price": 4084.4,
-      "change_pct": 0.41
+      "price": 4088.0,
+      "change_pct": 0.5
     },
     {
       "label": "Nasdaq100",

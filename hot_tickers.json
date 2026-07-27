@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-27T00:18:27+00:00",
+  "as_of": "2026-07-27T00:23:49+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,51 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "TSLA",
-   "company": "Tesla Inc",
-   "move_pct": -14.52,
-   "price": 319.69,
-   "volume": 62648724,
-   "volume_vs_avg": "~1.4x",
-   "heat_score": 83,
-   "direction": "down",
-   "why": "Ross Gerber Questions Tesla's Optimus Bet: 'There's No Revenue Coming Anytime Soon'",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/ross-gerber-questions-teslas-optimus-223020232.html",
-   "published": "2026-07-26T22:30:20Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
+   "ticker": "DLR",
+   "company": "Digital Realty Trust Inc",
+   "move_pct": 11.01,
+   "price": 199.08,
+   "volume": 10762800,
+   "volume_vs_avg": "~3x",
+   "heat_score": 64,
+   "direction": "up",
+   "why": "Moving up 11.0% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
+   "sector": "Data Center, Power & Energy"
   },
   {
    "rank": 2,
-   "ticker": "GOOGL",
-   "company": "Alphabet Inc",
-   "move_pct": -7.13,
-   "price": 317.69,
-   "volume": 31766773,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 45,
+   "ticker": "MRVL",
+   "company": "Marvell Technology Inc",
+   "move_pct": -7.21,
+   "price": 194.23,
+   "volume": 19771300,
+   "volume_vs_avg": "~0.5x",
+   "heat_score": 43,
    "direction": "down",
-   "why": "Prediction: Alphabet Will Beat Apple to a $5 Trillion Market Cap",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/prediction-alphabet-beat-apple-5-212000337.html",
-   "published": "2026-07-26T21:20:00Z",
-   "sector": "AI Platforms, Internet & AdTech"
+   "why": "Marvell Technology vs. UiPath: What Do the Quarterly Revenue Trends of These Artificial Intelligence Companies Tell Investors?",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-vs-uipath-quarterly-205801759.html",
+   "published": "2026-07-26T20:58:01Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 3,
+   "ticker": "PATH",
+   "company": "UiPath Inc",
+   "move_pct": 6.27,
+   "price": 10.84,
+   "volume": 66118700,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 41,
+   "direction": "up",
+   "why": "Marvell Technology vs. UiPath: What Do the Quarterly Revenue Trends of These Artificial Intelligence Companies Tell Investors?",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-vs-uipath-quarterly-205801759.html",
+   "published": "2026-07-26T20:58:01Z",
+   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

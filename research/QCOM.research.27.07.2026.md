@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| Update: Wall Street Wavers as Oil Slides; Fed Decision, Major Earnings in Focus | MT Newswires | 2026-07-27 |
 | Is Qualcomm Stock a Buy Ahead of July 29 Q3 Earnings? | 24/7 Wall St. | 2026-07-27 |
 | Update: Equities Mixed Intraday as Markets Await Fed Decision, More Earnings Reports | MT Newswires | 2026-07-27 |
 | Arm Holdings Has Fallen 28% in the Past Month. Should You Buy Before July 29 Earnings? | 24/7 Wall St. | 2026-07-27 |
-| Week ahead: Wall Street's biggest summer test is here with Big Tech, Fed on deck | Proactive | 2026-07-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| Elon Musk's Tesla, SpaceX shed $1.2T in July, while Apple sprints ahead: Chart of the Day | Yahoo Finance Video | 2026-07-27 |
 | Chinese memory chipmaker CXMT booms in IPO. Does US memory stand a chance? | Yahoo Finance Video | 2026-07-27 |
-| CXMT’s Blockbuster IPO Hits MU, SNDK and WDC—Is the Memory Rally at Risk? | Insider Monkey | 2026-07-27 |
-| Still Down 26% in 2026, Is Palantir’s Rebound Just Getting Started? | 24/7 Wall St. | 2026-07-27 |
-| AMD Data Center Growth Seen Beating Expectations Through 2027 | GuruFocus.com | 2026-07-27 |
+| Dow Jones Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off | Investor's Business Daily | 2026-07-27 |
+| Memory-Chip Stocks Micron, SK Hynix Drop After China Rival's IPO | Investor's Business Daily | 2026-07-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -37,8 +37,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Headline | Source | Date |
 |---|---|---|
 | Semiconductor stock charts just formed this bearish shape that signals more potential losses | Yahoo Finance | 2026-07-27 |
-| The Big AI Capex Question: Should Investors Buy Nvidia or Broadcom This Week? | 24/7 Wall St. | 2026-07-27 |
 | Nvidia in Talks to Finance OpenAI, Report Says. What It Means for the Stock. | Barrons.com | 2026-07-27 |
+| The Big AI Capex Question: Should Investors Buy Nvidia or Broadcom This Week? | 24/7 Wall St. | 2026-07-27 |
 | Should You Buy Broadcom Stock While It's Under $400? | Motley Fool | 2026-07-27 |
 
 ## 3. Technical Analysis

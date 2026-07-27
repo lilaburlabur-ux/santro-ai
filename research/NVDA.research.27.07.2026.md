@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Stock market today: Dow rises, Nasdaq slips as Nvidia leads chip stocks lower, oil prices plunge | Yahoo Finance | 2026-07-27 |
-| Will Helios Be the Catalyst AMD's Stock Needs to Hit a $1 Trillion Market Cap in 2026? | Motley Fool | 2026-07-27 |
-| Alphabet's Massive AI Investment Push Signals More Gains Ahead for Nvidia | Motley Fool | 2026-07-27 |
-| Why ASML Holdings Plunged Today | Motley Fool | 2026-07-27 |
+| Nvidia reportedly in talks to finance OpenAI's massive Ohio data center | Yahoo Finance Video | 2026-07-27 |
+| Semiconductor stock charts just formed this bearish shape that signals more potential losses | Yahoo Finance | 2026-07-27 |
+| NVIDIA Pursues $750 Billion in New AI Deals Despite Financing Scrutiny | GuruFocus.com | 2026-07-27 |
+| SpaceX Stock Plummets 50% Below Its Post-IPO High. History Says a $5,000 Investment Will Be Worth This Much by June 2027. | Motley Fool | 2026-07-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

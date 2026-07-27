@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| AMD’s Microsoft Partnership Validates This Transition So I’m Loading Up | 24/7 Wall St. | 2026-07-27 |
+| Intel's Server Pricing Power Shows Sharp Improvement | GuruFocus.com | 2026-07-27 |
+| Intel Just Secured a Huge Customer for Its Foundry Business | Motley Fool | 2026-07-27 |
 | Sandisk and More Chip Stocks Hit China Roadblocks | Barrons.com | 2026-07-27 |
 | Nvidia in Talks to Finance OpenAI, Report Says. What It Means for the Stock. | Barrons.com | 2026-07-27 |
-| CXMT, Sandisk, ASML, SpaceX, D-Wave Quantum, Workday, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -37,9 +37,9 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Headline | Source | Date |
 |---|---|---|
 | Semiconductor stock charts just formed this bearish shape that signals more potential losses | Yahoo Finance | 2026-07-27 |
+| Cadence Stock Can Be an AI Winner. The Earnings Prove It. | Barrons.com | 2026-07-27 |
 | Missed NVIDIA? This AI Infrastructure Stock Has More Room to Run | Zacks | 2026-07-27 |
 | NVIDIA Plans a $750 Billion Spending Spree. Is This the Dot-Com All Over or the Beginning of a Massive AI Boom? | 24/7 Wall St. | 2026-07-27 |
-| SanDisk’s $42 Billion Backlog Is Real — So Is the Valuation Question Now Hitting Every Memory Stock | Insider Monkey | 2026-07-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

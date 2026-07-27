@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-07-27T06:19:29+00:00",
-  "as_of_local": "2026-07-27 06:19:29 UTC",
+  "as_of_utc": "2026-07-27T06:34:34+00:00",
+  "as_of_local": "2026-07-27 06:34:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5009871640000.0,
       "headlines": [
         {
+          "title": "Should Nebius and CoreWeave Investors Be Worried About Meta's Latest AI Infrastructure Plans?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nebius-coreweave-investors-worried-metas-062000438.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-27T06:20:00Z"
+        },
+        {
           "title": "NVDA Stock Rises Overnight: Chip Giant\u2019s Deals With South Korea\u2019s SK Hynix, Naver Revive \u2018Breakout\u2019 View",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-rises-overnight-chip-055332018.html",
           "publisher": "Stocktwits",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-buy-ai-revenue-055000681.html",
           "publisher": "Motley Fool",
           "published": "2026-07-27T05:50:00Z"
-        },
-        {
-          "title": "Warren Buffett's Favorite Stock Market Indicator Is Sounding the Alarm. History Suggests Investors Are \"Playing With Fire.\"",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-favorite-stock-market-052000345.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-27T05:20:00Z"
         }
       ]
     },
@@ -159,16 +159,16 @@
           "published": "2026-07-27T05:50:00Z"
         },
         {
+          "title": "CXMT Becomes China's Most Valuable Listed Company After Memory Chipmaker Surges 500% on Debut",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cxmt-becomes-chinas-most-valuable-052132806.html",
+          "publisher": "Benzinga",
+          "published": "2026-07-27T05:21:32Z"
+        },
+        {
           "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: NVDA, GOOGL, ORCL, TSLA, INTC",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-retail-traders-couldn-t-020525579.html",
           "publisher": "Stocktwits",
           "published": "2026-07-27T02:05:25Z"
-        },
-        {
-          "title": "Intel (INTC) Teams With Lens Technology On AI Chip Packaging",
-          "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-teams-lens-technology-190906650.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-26T19:09:06Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.39,
-          "price": 1801000.0,
+          "change_pct": 3.18,
+          "price": 1815000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -6.52,
-          "price": 52360.0,
+          "change_pct": -4.09,
+          "price": 53720.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.39,
-        "price": 1801000.0,
+        "change_pct": 3.18,
+        "price": 1815000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -6.52,
-        "price": 52360.0,
+        "change_pct": -4.09,
+        "price": 53720.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 65516.54,
-      "change_pct": 1.87
+      "price": 65478.1,
+      "change_pct": 0.21
     },
     {
       "label": "Gold",
-      "price": 4095.3,
-      "change_pct": 0.68
+      "price": 4095.6,
+      "change_pct": 0.69
     },
     {
       "label": "Nasdaq100",

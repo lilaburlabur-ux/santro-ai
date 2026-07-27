@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-27T09:02:48+00:00",
-  "as_of_local": "2026-07-27 09:02:48 UTC",
+  "as_of_utc": "2026-07-27T09:07:54+00:00",
+  "as_of_local": "2026-07-27 09:07:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -125,6 +127,12 @@
       "market_cap": 851092023430.843,
       "headlines": [
         {
+          "title": "Why Cheap QCOM Stock Fails Part Of The Value Test",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-cheap-qcom-stock-fails-084604262.html",
+          "publisher": "Trefis",
+          "published": "2026-07-27T08:46:04Z"
+        },
+        {
           "title": "How Lisa Su Has Positioned AMD to Be a Big AI Winner and Why the Stock Is a Buy",
           "url": "https://finance.yahoo.com/markets/stocks/articles/lisa-su-positioned-amd-big-065000893.html",
           "publisher": "Motley Fool",
@@ -135,40 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-hurries-reset-amd-stock-130300886.html",
           "publisher": "TheStreet",
           "published": "2026-07-26T13:03:00Z"
-        },
-        {
-          "title": "What a Major Anthropic Chip Deal Really Means for AMD Stock",
-          "url": "https://finance.yahoo.com/technology/ai/articles/major-anthropic-chip-deal-really-130002547.html",
-          "publisher": "Barchart",
-          "published": "2026-07-26T13:00:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 92.32,
-      "previous_close": 100.23,
-      "change_pct": -7.89,
-      "market_cap": 465662078460.69336,
-      "headlines": [
-        {
-          "title": "Is Intel Stock a Buy as AI Revenue Surges Nearly 60%?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-buy-ai-revenue-055000681.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-27T05:50:00Z"
-        },
-        {
-          "title": "CXMT Becomes China's Most Valuable Listed Company After Memory Chipmaker Surges 500% on Debut",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cxmt-becomes-chinas-most-valuable-052132806.html",
-          "publisher": "Benzinga",
-          "published": "2026-07-27T05:21:32Z"
-        },
-        {
-          "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: NVDA, GOOGL, ORCL, TSLA, INTC",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-retail-traders-couldn-t-020525579.html",
-          "publisher": "Stocktwits",
-          "published": "2026-07-27T02:05:25Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 65055.04,
-      "change_pct": -0.44
+      "price": 65077.8,
+      "change_pct": -0.4
     },
     {
       "label": "Gold",
-      "price": 4093.5,
-      "change_pct": 0.64
+      "price": 4098.4,
+      "change_pct": 0.76
     },
     {
       "label": "Nasdaq100",

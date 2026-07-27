@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-27T12:00:10+00:00",
+  "as_of": "2026-07-27T12:15:24+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "DLR",
-   "company": "Digital Realty Trust Inc",
-   "move_pct": 0.81,
-   "price": 200.7,
-   "volume": 10762800,
-   "volume_vs_avg": "~3x",
-   "heat_score": 33,
-   "direction": "up",
-   "why": "Is Digital Realty Trust (DLR) Fully Priced As Higher Guidance Lifts Optimism?",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/digital-realty-trust-dlr-fully-080844827.html",
-   "published": "2026-07-27T08:08:44Z",
-   "sector": "Data Center, Power & Energy"
-  }
- ]
+ "hot_tickers": []
 }

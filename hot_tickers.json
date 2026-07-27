@@ -1,91 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-27T12:20:50+00:00",
+  "as_of": "2026-07-27T12:34:54+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "DLR",
-   "company": "Digital Realty Trust Inc",
-   "move_pct": 11.87,
-   "price": 200.63,
-   "volume": 10741889,
-   "volume_vs_avg": "~3x",
-   "heat_score": 67,
-   "direction": "up",
-   "why": "Moving up 11.9% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": "Data Center, Power & Energy"
-  },
-  {
-   "rank": 2,
-   "ticker": "INTC",
-   "company": "Intel Corp",
-   "move_pct": -6.76,
-   "price": 93.45,
-   "volume": 180657060,
-   "volume_vs_avg": "~2x",
-   "heat_score": 46,
-   "direction": "down",
-   "why": "Micron, Sandisk, and Intel Have Dominated 2026. Which Is the Best Buy Now?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-intel-dominated-2026-105000706.html",
-   "published": "2026-07-27T10:50:00Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 3,
-   "ticker": "INTU",
-   "company": "Intuit Inc",
-   "move_pct": 7.12,
-   "price": 301.57,
-   "volume": 3456820,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 43,
-   "direction": "up",
-   "why": "Intuit (INTU) Lost Appeal on AI Disruption and Earnings Concerns",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/intuit-intu-lost-appeal-ai-115638804.html",
-   "published": "2026-07-27T11:56:38Z",
-   "sector": "AI Applications & Data Software"
-  },
-  {
-   "rank": 4,
-   "ticker": "CRM",
-   "company": "Salesforce Inc",
-   "move_pct": 6.01,
-   "price": 166.36,
-   "volume": 10615091,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 40,
-   "direction": "up",
-   "why": "Salesforce Invests in Brunello Cucinelli\u2019s AI Platform",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/salesforce-invests-brunello-cucinelli-ai-105141651.html",
-   "published": "2026-07-27T10:51:41Z",
-   "sector": "AI Applications & Data Software"
-  },
-  {
-   "rank": 5,
-   "ticker": "MU",
-   "company": "Micron Technology Inc",
-   "move_pct": -5.44,
-   "price": 936.38,
-   "volume": 40626435,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 38,
-   "direction": "down",
-   "why": "Micron\u2019s New Chinese Rival CXMT Surged 466% After IPO. What It Means for the Stock.",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.barrons.com/articles/micron-stock-cxmt-memory-chip-834b55db?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-07-27T10:54:00Z",
-   "sector": "AI Chips & Compute"
-  }
- ]
+ "hot_tickers": []
 }

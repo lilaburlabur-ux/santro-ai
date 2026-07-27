@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-07-27T05:59:15+00:00",
-  "as_of_local": "2026-07-27 05:59:15 UTC",
+  "as_of_utc": "2026-07-27T06:14:15+00:00",
+  "as_of_local": "2026-07-27 06:14:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -10,8 +10,14 @@
       "price": 206.84,
       "previous_close": 208.76,
       "change_pct": -0.92,
-      "market_cap": 5009871551300.049,
+      "market_cap": 5009871640000.0,
       "headlines": [
+        {
+          "title": "Is Intel Stock a Buy as AI Revenue Surges Nearly 60%?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-buy-ai-revenue-055000681.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-27T05:50:00Z"
+        },
         {
           "title": "Warren Buffett's Favorite Stock Market Indicator Is Sounding the Alarm. History Suggests Investors Are \"Playing With Fire.\"",
           "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-favorite-stock-market-052000345.html",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/whats-next-rigetti-computing-stock-045000905.html",
           "publisher": "Motley Fool",
           "published": "2026-07-27T04:50:00Z"
-        },
-        {
-          "title": "Prediction: CEO Andy Jassy Will Raise Amazon's Full-Year 2026 Capex Guide on July 30",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-ceo-andy-jassy-raise-042000428.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-27T04:20:00Z"
         }
       ]
     },
@@ -38,7 +38,7 @@
       "price": 403.41,
       "previous_close": 415.58,
       "change_pct": -2.93,
-      "market_cap": 2092275500577.7651,
+      "market_cap": 2092275481584.33,
       "headlines": [
         {
           "title": "Samsung Wins $200 Billion Order to Supply Chips to Broadcom",
@@ -318,7 +318,7 @@
       "price": 149.51,
       "previous_close": 158.73,
       "change_pct": -5.81,
-      "market_cap": 7566406287.301788,
+      "market_cap": 7566406565.299999,
       "headlines": [
         {
           "title": "1 Cash-Burning Stock to Consider Right Now and 2 We Brush Off",
@@ -347,7 +347,26 @@
       "previous_close": 117.6,
       "change_pct": -3.91,
       "market_cap": 4414082388.0,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "What This Synaptics CFO Filing Signals for Long-Term Investors With Revenue Up 10%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-cfo-filing-signals-long-012057342.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-22T01:20:57Z"
+        },
+        {
+          "title": "Synaptics Has 35-Plus Robotics Customers. Its Product Chief Just Held His Stake",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-35-plus-robotics-customers-010047708.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-22T01:00:47Z"
+        },
+        {
+          "title": "Synaptics Is Leaning Into IoT. Its Strategy Officer Kept $7 Million in Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-leaning-iot-strategy-officer-003847208.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-22T00:38:47Z"
+        }
+      ]
     },
     {
       "symbol": "CEVA",
@@ -399,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.39,
-          "price": 1801000.0,
+          "change_pct": 2.19,
+          "price": 1797500.0,
           "currency": "KRW"
         },
         {
@@ -417,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -8.0,
-          "price": 51530.0,
+          "change_pct": -7.73,
+          "price": 51680.0,
           "currency": "JPY"
         },
         {
@@ -489,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.39,
-        "price": 1801000.0,
+        "change_pct": 2.19,
+        "price": 1797500.0,
         "currency": "KRW"
       },
       {
@@ -507,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -8.0,
-        "price": 51530.0,
+        "change_pct": -7.73,
+        "price": 51680.0,
         "currency": "JPY"
       },
       {
@@ -566,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 65412.39,
-      "change_pct": 1.71
+      "price": 65532.65,
+      "change_pct": 1.9
     },
     {
       "label": "Gold",
-      "price": 4087.8,
-      "change_pct": 0.5
+      "price": 4095.1,
+      "change_pct": 0.68
     },
     {
       "label": "Nasdaq100",

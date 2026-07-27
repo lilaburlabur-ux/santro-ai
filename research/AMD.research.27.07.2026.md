@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Nvidia Invests in Ilya Sutskever's AI Startup | GuruFocus.com | 2026-07-27 |
 | Sandisk and More Chip Stocks Hit China Roadblocks | Barrons.com | 2026-07-27 |
 | Nvidia in Talks to Finance OpenAI, Report Says. What It Means for the Stock. | Barrons.com | 2026-07-27 |
 | CXMT, Sandisk, ASML, SpaceX, D-Wave Quantum, Workday, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-27 |
-| Will Helios Be the Catalyst AMD's Stock Needs to Hit a $1 Trillion Market Cap in 2026? | Motley Fool | 2026-07-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

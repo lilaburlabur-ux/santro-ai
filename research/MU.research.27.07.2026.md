@@ -38,8 +38,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 |---|---|---|
 | Elon Musk's Tesla, SpaceX shed $1.2T in July, while Apple sprints ahead: Chart of the Day | Yahoo Finance Video | 2026-07-27 |
 | Chinese memory chipmaker CXMT booms in IPO. Does US memory stand a chance? | Yahoo Finance Video | 2026-07-27 |
-| Dow Jones Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off | Investor's Business Daily | 2026-07-27 |
-| Memory-Chip Stocks Micron, SK Hynix Drop After China Rival's IPO | Investor's Business Daily | 2026-07-27 |
+| Stock Market Today, July 27: Dow Rises on Oil Retreat, and Sandisk Plunges 11% on Memory Weakness | Motley Fool | 2026-07-27 |
+| Prediction: Micron Stock Will Be Worth This Much by Late 2027 (Hint: The Time to Buy Is Now) | Motley Fool | 2026-07-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Nvidia reportedly in talks to finance OpenAI's massive Ohio data center | Yahoo Finance Video | 2026-07-27 |
 | Semiconductor stock charts just formed this bearish shape that signals more potential losses | Yahoo Finance | 2026-07-27 |
-| NVIDIA Pursues $750 Billion in New AI Deals Despite Financing Scrutiny | GuruFocus.com | 2026-07-27 |
-| SpaceX Stock Plummets 50% Below Its Post-IPO High. History Says a $5,000 Investment Will Be Worth This Much by June 2027. | Motley Fool | 2026-07-27 |
+| Nvidia Invests in Ilya Sutskever's AI Startup | GuruFocus.com | 2026-07-27 |
+| Stock Market Today, July 27: Dow Rises on Oil Retreat, and Sandisk Plunges 11% on Memory Weakness | Motley Fool | 2026-07-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

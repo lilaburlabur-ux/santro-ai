@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-07-28T09:19:59+00:00",
-  "as_of_local": "2026-07-28 09:19:59 UTC",
+  "as_of_utc": "2026-07-28T09:25:17+00:00",
+  "as_of_local": "2026-07-28 09:25:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -55,10 +53,10 @@
           "published": "2026-07-28T08:59:03Z"
         },
         {
-          "title": "Why are tech stocks tanking?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-tech-stocks-tanking-063735847.html",
-          "publisher": "AFP",
-          "published": "2026-07-28T06:37:35Z"
+          "title": "Cadence Stock Can Be an AI Winner. The Earnings Prove It.",
+          "url": "https://www.barrons.com/articles/cadence-stock-ai-chips-earnings-a7b17581?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-07-28T08:52:00Z"
         }
       ]
     },
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/technology/articles/big-tech-credit-risks-rise-205503982.html",
           "publisher": "Financial Times",
           "published": "2026-07-27T20:55:03Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 900.2,
+      "previous_close": 920.95,
+      "change_pct": -2.25,
+      "market_cap": 1016679728316.7375,
+      "headlines": [
+        {
+          "title": "Elon Musk's Tesla, SpaceX shed $1.2T in July, while Apple sprints ahead: Chart of the Day",
+          "url": "https://finance.yahoo.com/video/elon-musks-tesla-spacex-shed-12t-in-july-while-apple-sprints-ahead-chart-of-the-day-202410236.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-27T20:24:10Z"
+        },
+        {
+          "title": "1 AI Stock to Buy Before It Soars 150%, According to a Wall Street Analyst (Hint: Not Micron or Sandisk)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-ai-stock-buy-soars-090800929.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-28T09:08:00Z"
+        },
+        {
+          "title": "Nasdaq futures drop on AI chip worries ahead of pivotal earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-ai-chip-085903477.html",
+          "publisher": "Reuters",
+          "published": "2026-07-28T08:59:03Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -2.25,
+          "price": 900.2,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -2.25,
+        "price": 900.2,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63371.35,
-      "change_pct": -0.55
+      "price": 63401.69,
+      "change_pct": -0.51
     },
     {
       "label": "Gold",
-      "price": 4042.8,
-      "change_pct": -0.78
+      "price": 4043.2,
+      "change_pct": -0.77
     },
     {
       "label": "Nasdaq100",

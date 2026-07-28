@@ -1,44 +1,18 @@
 {
-  "as_of_utc": "2026-07-28T15:34:11+00:00",
-  "as_of_local": "2026-07-28 15:34:11 UTC",
+  "as_of_utc": "2026-07-28T15:35:52+00:00",
+  "as_of_local": "2026-07-28 15:35:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 196.9,
-      "previous_close": 196.51,
-      "change_pct": 0.2,
-      "market_cap": 4772021523483.276,
-      "headlines": [
-        {
-          "title": "Stock market today: Nasdaq pares losses as chip stocks sell off, S&P 500 and Dow rise",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-chip-stocks-082832371.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-28T08:28:32Z"
-        },
-        {
-          "title": "Semiconductor stock charts just formed this bearish shape that signals more potential losses",
-          "url": "https://finance.yahoo.com/markets/article/semiconductor-stock-charts-just-formed-this-bearish-shape-that-signals-more-potential-losses-145440205.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-27T14:54:40Z"
-        },
-        {
-          "title": "Apple overtakes Nvidia as most valuable company as iPhone maker avoids 'capex pitfalls'",
-          "url": "https://finance.yahoo.com/markets/article/apple-overtakes-nvidia-as-most-valuable-company-as-iphone-maker-avoids-capex-pitfalls-150316032.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-27T15:03:16Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 390.77,
+      "price": 390.7,
       "previous_close": 399.09,
-      "change_pct": -2.08,
-      "market_cap": 2027029568858.1946,
+      "change_pct": -2.1,
+      "market_cap": 2026355460190.5503,
       "headlines": [
         {
           "title": "Semiconductor stock charts just formed this bearish shape that signals more potential losses",
@@ -63,10 +37,10 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 381.26,
+      "price": 382.09,
       "previous_close": 383.22,
-      "change_pct": -0.51,
-      "market_cap": 1815040656668.362,
+      "change_pct": -0.29,
+      "market_cap": 1817823800431.041,
       "headlines": [
         {
           "title": "Micron, SK Hynix stocks sink as AI chip sell-off deepens",
@@ -91,10 +65,10 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 822.38,
+      "price": 821.19,
       "previous_close": 900.2,
-      "change_pct": -8.64,
-      "market_cap": 930106063239.1426,
+      "change_pct": -8.78,
+      "market_cap": 927118934161.6624,
       "headlines": [
         {
           "title": "Micron, SK Hynix stocks sink as AI chip sell-off deepens",
@@ -119,10 +93,10 @@
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 457.4,
+      "price": 458.01,
       "previous_close": 494.95,
-      "change_pct": -7.59,
-      "market_cap": 746162862358.7965,
+      "change_pct": -7.46,
+      "market_cap": 746912924719.3813,
       "headlines": [
         {
           "title": "Micron, SK Hynix stocks sink as AI chip sell-off deepens",
@@ -147,10 +121,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 86.87,
+      "price": 87.06,
       "previous_close": 91.67,
-      "change_pct": -5.24,
-      "market_cap": 438575784606.9336,
+      "change_pct": -5.03,
+      "market_cap": 439256735382.0801,
       "headlines": [
         {
           "title": "Micron, SK Hynix stocks sink as AI chip sell-off deepens",
@@ -175,10 +149,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 247.09,
+      "price": 246.9,
       "previous_close": 266.33,
-      "change_pct": -7.22,
-      "market_cap": 262917054734.20853,
+      "change_pct": -7.3,
+      "market_cap": 263380662412.50494,
       "headlines": [
         {
           "title": "SpaceX stock plunge sends a big reminder to those who want to get in on or near IPO day",
@@ -206,7 +180,7 @@
       "price": 167.18,
       "previous_close": 170.04,
       "change_pct": -1.68,
-      "market_cap": 176244606140.13672,
+      "market_cap": 176202453216.55273,
       "headlines": [
         {
           "title": "Micron, SK Hynix stocks sink as AI chip sell-off deepens",
@@ -231,10 +205,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 177.58,
+      "price": 177.95,
       "previous_close": 189.17,
-      "change_pct": -6.13,
-      "market_cap": 159520566465.06653,
+      "change_pct": -5.93,
+      "market_cap": 159713548924.5467,
       "headlines": [
         {
           "title": "Micron, SK Hynix stocks sink as AI chip sell-off deepens",
@@ -259,10 +233,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 263.53,
+      "price": 263.56,
       "previous_close": 267.67,
-      "change_pct": -1.55,
-      "market_cap": 66563998437.388824,
+      "change_pct": -1.54,
+      "market_cap": 66609441382.455414,
       "headlines": [
         {
           "title": "Stocks Mostly Down Pre-Bell Amid Chip Sell-Off; Traders Await More Earnings",
@@ -287,10 +261,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 120.04,
+      "price": 120.17,
       "previous_close": 122.91,
-      "change_pct": -2.34,
-      "market_cap": 16446423279.71444,
+      "change_pct": -2.23,
+      "market_cap": 16462864598.857758,
       "headlines": [
         {
           "title": "Lattice Semiconductor, Allegro MicroSystems, Monolithic Power Systems, Marvell Technology, and MACOM Shares Are Falling, What You Need To Know",
@@ -318,7 +292,7 @@
       "price": 153.68,
       "previous_close": 154.24,
       "change_pct": -0.36,
-      "market_cap": 7777694966.995239,
+      "market_cap": 7793636620.0,
       "headlines": [
         {
           "title": "AeroVironment (AVAV) Stock Looks Reasonable On Cash Flow But Rich On Sales",
@@ -343,10 +317,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 112.04,
+      "price": 112.19,
       "previous_close": 116.42,
-      "change_pct": -3.77,
-      "market_cap": 4376387048.711792,
+      "change_pct": -3.63,
+      "market_cap": 4382441715.807861,
       "headlines": [
         {
           "title": "Amkor Technology (AMKR) Q2 Earnings and Revenues Beat Estimates",
@@ -371,10 +345,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 32.8,
+      "price": 32.95,
       "previous_close": 35.17,
-      "change_pct": -6.74,
-      "market_cap": 913787281.9449883,
+      "change_pct": -6.32,
+      "market_cap": 919637723.9289742,
       "headlines": [
         {
           "title": "Does This Dip In Cadence Design Systems Stock Signal An Opening?",
@@ -401,16 +375,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 48.17,
-      "change_pct": -8.13,
+      "price": 48.07,
+      "change_pct": -8.32,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -8.64,
-          "price": 822.38,
+          "change_pct": -8.78,
+          "price": 821.19,
           "currency": "USD"
         },
         {
@@ -445,8 +419,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -14.0,
-          "price": 1099.27,
+          "change_pct": -14.13,
+          "price": 1097.66,
           "currency": "USD"
         },
         {
@@ -454,8 +428,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -10.82,
-          "price": 728.61,
+          "change_pct": -10.68,
+          "price": 729.72,
           "currency": "USD"
         },
         {
@@ -463,8 +437,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -11.14,
-          "price": 442.45,
+          "change_pct": -11.41,
+          "price": 441.13,
           "currency": "USD"
         },
         {
@@ -491,16 +465,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 48.17,
-    "change_pct": -8.13,
+    "price": 48.07,
+    "change_pct": -8.32,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -8.64,
-        "price": 822.38,
+        "change_pct": -8.78,
+        "price": 821.19,
         "currency": "USD"
       },
       {
@@ -535,8 +509,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -14.0,
-        "price": 1099.27,
+        "change_pct": -14.13,
+        "price": 1097.66,
         "currency": "USD"
       },
       {
@@ -544,8 +518,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -10.82,
-        "price": 728.61,
+        "change_pct": -10.68,
+        "price": 729.72,
         "currency": "USD"
       },
       {
@@ -553,8 +527,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -11.14,
-        "price": 442.45,
+        "change_pct": -11.41,
+        "price": 441.13,
         "currency": "USD"
       },
       {
@@ -580,23 +554,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7438.46,
-      "change_pct": 0.34
+      "price": 7437.86,
+      "change_pct": 0.33
     },
     {
       "label": "BTC",
-      "price": 63682.68,
-      "change_pct": -0.07
+      "price": 63714.48,
+      "change_pct": -0.02
     },
     {
       "label": "Gold",
-      "price": 4036.5,
-      "change_pct": -0.93
+      "price": 4036.9,
+      "change_pct": -0.92
     },
     {
       "label": "Nasdaq100",
-      "price": 27833.84,
-      "change_pct": -0.73
+      "price": 27841.38,
+      "change_pct": -0.71
     }
   ]
 }

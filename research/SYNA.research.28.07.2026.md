@@ -15,11 +15,11 @@ Signed file: `SYNA.research.28.07.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +67.43%; price +21.39% vs SMA200. |
+| Technical momentum | High | 1Y +66.85%; price +21.09% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -24.87% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-4.10%). |
 | Value attractiveness | Fair-to-demanding | Forward P/E 21.03, EV/Sales 4.24. |
-| Risk level | High | Beta 1.98, ATR 6.9% of price, short float 14.96%. |
+| Risk level | High | Beta 1.98, ATR 6.7% of price, short float 14.96%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
 
@@ -45,20 +45,20 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $110.87; 52w high $147.57 (-24.87%); 52w low $58.52 (+89.46%) |
-| Trend | +21.39% vs SMA200, -13.97% vs SMA50, -7.71% vs SMA20 |
-| Momentum | RSI(14) 39.9 (neutral) |
-| Volatility | ATR(14) 7.61 (~6.9% of price); beta 1.98 |
+| Trend | +21.09% vs SMA200, -13.74% vs SMA50, -7.54% vs SMA20 |
+| Momentum | RSI(14) 40.9 (neutral) |
+| Volatility | ATR(14) 7.46 (~6.7% of price); beta 1.98 |
 | Setup perspective | -24.87% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -2.4% |
-| Month | -11.7% |
-| Quarter | +18.1% |
-| Half Y | +29.5% |
-| 1Y | +67.4% |
+| Week | -7.1% |
+| Month | -8.4% |
+| Quarter | +20.9% |
+| Half Y | +31.5% |
+| 1Y | +66.8% |
 | YTD | +46.4% |
 
 ## 4. Fundamental Analysis
@@ -96,7 +96,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 21.03, EV/Sales 4.24. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.98, ATR 6.9% of price, short float 14.96%. Size positions accordingly.
+- **Volatility risk:** Beta 1.98, ATR 6.7% of price, short float 14.96%. Size positions accordingly.
 - **Short interest risk:** short float 14.96% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -116,11 +116,11 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Price | $110.87 | EV/Sales | 4.24 |
 | Market cap | $4.33B | EV/EBITDA | 56.45 |
 | Beta | 1.98 | Gross margin | 43.61% |
-| RSI(14) | 39.9 | Operating margin | -4.32% |
-| ATR(14) | 7.61 | Profit margin | -4.10% |
-| SMA20 dist | -7.71% | ROA | -1.75% |
-| SMA50 dist | -13.97% | ROE | -3.50% |
-| SMA200 dist | +21.39% | Revenue (ttm) | $1.17B |
+| RSI(14) | 40.9 | Operating margin | -4.32% |
+| ATR(14) | 7.46 | Profit margin | -4.10% |
+| SMA20 dist | -7.54% | ROA | -1.75% |
+| SMA50 dist | -13.74% | ROE | -3.50% |
+| SMA200 dist | +21.09% | Revenue (ttm) | $1.17B |
 | 52W high | $147.57 | Revenue growth y/y | 10.40% |
 | 52W low | $58.52 | Inst. ownership | 111.21% |
 | P/E (ttm) | — | Insider ownership | 1.95% |

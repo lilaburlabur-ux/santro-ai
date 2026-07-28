@@ -37,9 +37,9 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Headline | Source | Date |
 |---|---|---|
 | Micron, SK Hynix stocks sink as AI chip sell-off deepens | Yahoo Finance | 2026-07-28 |
+| Marvell Technology (MRVL) Stock Slides As AI Funding Doubts Hit Chip Stocks | Simply Wall St. | 2026-07-28 |
+| Chip Stocks Extend Pullback Amid AI Bubble Fears | Investopedia | 2026-07-28 |
 | AI Chip Stocks Tumble as Nvidia, AMD Lead Market Selloff Over Spending Fears | GuruFocus.com | 2026-07-28 |
-| Corning, ASML, SK Hynix, PayPal, UPS, Dell, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-28 |
-| AMD Stock's Surge Was Already Visible In Its Own Earnings Calls | Trefis | 2026-07-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

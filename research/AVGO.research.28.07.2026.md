@@ -38,8 +38,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 |---|---|---|
 | Semiconductor stock charts just formed this bearish shape that signals more potential losses | Yahoo Finance | 2026-07-27 |
 | Qualcomm’s (QCOM) Samsung Expansion and AI Deals Could Reshape Its Growth Story | Insider Monkey | 2026-07-28 |
+| Chip Stocks Extend Pullback Amid AI Bubble Fears | Investopedia | 2026-07-28 |
 | Intel Posted A Big Beat And Still Fell, And Its Spending Plan Is Why | Trefis | 2026-07-28 |
-| AMD Stock's Surge Was Already Visible In Its Own Earnings Calls | Trefis | 2026-07-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

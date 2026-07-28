@@ -37,9 +37,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | Micron, SK Hynix stocks sink as AI chip sell-off deepens | Yahoo Finance | 2026-07-28 |
+| AMD's Core Scientific Deal Hints at AI's Next Race | GuruFocus.com | 2026-07-28 |
 | Why the Dow Gained 500 Points, but the Nasdaq Struggled | Barrons.com | 2026-07-28 |
 | AI Chip Stocks Tumble as Nvidia, AMD Lead Market Selloff Over Spending Fears | GuruFocus.com | 2026-07-28 |
-| What's Going On With AMD Stock Tuesday | GuruFocus.com | 2026-07-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -37,9 +37,9 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Headline | Source | Date |
 |---|---|---|
 | Micron, SK Hynix stocks sink as AI chip sell-off deepens | Yahoo Finance | 2026-07-28 |
+| How Far Could Marvell Technology Stock Actually Fall From Here? | Trefis | 2026-07-28 |
 | Qualcomm’s (QCOM) Samsung Expansion and AI Deals Could Reshape Its Growth Story | Insider Monkey | 2026-07-28 |
 | Qualcomm faces crucial test after brutal 35% slide | TheStreet | 2026-07-28 |
-| Intel Posted A Big Beat And Still Fell, And Its Spending Plan Is Why | Trefis | 2026-07-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

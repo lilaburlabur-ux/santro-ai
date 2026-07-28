@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-28T11:01:45+00:00",
+  "as_of": "2026-07-28T11:16:44+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,32 @@
    "rank": 1,
    "ticker": "MU",
    "company": "Micron Technology Inc",
-   "move_pct": -6.02,
-   "price": 846.0,
+   "move_pct": -6.87,
+   "price": 838.37,
    "volume": 47298100,
    "volume_vs_avg": "~0.9x",
-   "heat_score": 41,
+   "heat_score": 44,
    "direction": "down",
    "why": "Forget Micron Stock at $920 Per Share. Buy This Memory-Focused Artificial Intelligence (AI) ETF Instead.",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/forget-micron-stock-920-per-094200642.html",
    "published": "2026-07-28T09:42:00Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
+   "ticker": "INTC",
+   "company": "Intel Corp",
+   "move_pct": -5.11,
+   "price": 86.99,
+   "volume": 132752400,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 38,
+   "direction": "down",
+   "why": "Chinese DRAM Maker CXMT Is Now Worth More Than Intel After Blistering Shanghai Debut: SanDisk, Micron Feel The Heat",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/chinese-dram-maker-cxmt-now-081114162.html",
+   "published": "2026-07-28T08:11:14Z",
    "sector": "AI Chips & Compute"
   }
  ]

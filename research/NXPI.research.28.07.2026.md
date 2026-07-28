@@ -15,11 +15,11 @@ Signed file: `NXPI.research.28.07.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +18.11%; price +8.20% vs SMA200. |
+| Technical momentum | Moderate | 1Y +17.51%; price +8.30% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -21.84% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 21.03%, revenue growth 12.20%. |
 | Value attractiveness | Reasonable | Forward P/E 14.48, EV/Sales 6.02. |
-| Risk level | Elevated | Beta 1.80, ATR 4.9% of price, short float 3.86%. |
+| Risk level | Elevated | Beta 1.80, ATR 5.0% of price, short float 3.86%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -36,29 +36,29 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
+| NXP Semiconductors Fails To Impress With Beat-And-Raise Report | Investor's Business Daily | 2026-07-28 |
+| NXP Semiconductors (NASDAQ:NXPI) Q2: Beats On Revenue But Stock Drops | StockStory | 2026-07-28 |
 | Update: Equities Mostly Rise Intraday as Fed Meeting Begins | MT Newswires | 2026-07-28 |
 | Wall Street’s Top AI Bull Dan Ives Says the Revolution Is Only in the Third Inning. Here’s What That Means for Your Portfolio. | 24/7 Wall St. | 2026-07-28 |
-| Stocks Mostly Down Pre-Bell Amid Chip Sell-Off; Traders Await More Earnings | MT Newswires | 2026-07-28 |
-| NXP Semiconductors (NXPI) Q2 Earnings: What To Expect | StockStory | 2026-07-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $259.12; 52w high $331.55 (-21.84%); 52w low $181.81 (+42.52%) |
-| Trend | +8.20% vs SMA200, -11.76% vs SMA50, -6.20% vs SMA20 |
-| Momentum | RSI(14) 37.9 (neutral) |
-| Volatility | ATR(14) 12.77 (~4.9% of price); beta 1.80 |
+| Trend | +8.30% vs SMA200, -11.90% vs SMA50, -6.35% vs SMA20 |
+| Momentum | RSI(14) 38.2 (neutral) |
+| Volatility | ATR(14) 12.92 (~5.0% of price); beta 1.80 |
 | Setup perspective | -21.84% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.1% |
-| Month | -6.5% |
-| Quarter | +9.8% |
-| Half Y | +13.1% |
-| 1Y | +18.1% |
+| Week | -3.0% |
+| Month | -13.2% |
+| Quarter | +6.5% |
+| Half Y | +12.4% |
+| 1Y | +17.5% |
 | YTD | +18.1% |
 
 ## 4. Fundamental Analysis
@@ -95,7 +95,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Van Eck Associates Corporation | 4,378,316 | 1.73% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.80, ATR 4.9% of price, short float 3.86%. Size positions accordingly.
+- **Volatility risk:** Beta 1.80, ATR 5.0% of price, short float 3.86%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -113,11 +113,11 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Price | $259.12 | EV/Sales | 6.02 |
 | Market cap | $65.42B | EV/EBITDA | 18.25 |
 | Beta | 1.80 | Gross margin | 55.63% |
-| RSI(14) | 37.9 | Operating margin | 27.66% |
-| ATR(14) | 12.77 | Profit margin | 21.03% |
-| SMA20 dist | -6.20% | ROA | 8.14% |
-| SMA50 dist | -11.76% | ROE | 25.81% |
-| SMA200 dist | +8.20% | Revenue (ttm) | $12.62B |
+| RSI(14) | 38.2 | Operating margin | 27.66% |
+| ATR(14) | 12.92 | Profit margin | 21.03% |
+| SMA20 dist | -6.35% | ROA | 8.14% |
+| SMA50 dist | -11.90% | ROE | 25.81% |
+| SMA200 dist | +8.30% | Revenue (ttm) | $12.62B |
 | 52W high | $331.55 | Revenue growth y/y | 12.20% |
 | 52W low | $181.81 | Inst. ownership | 103.00% |
 | P/E (ttm) | 24.75 | Insider ownership | 0.14% |

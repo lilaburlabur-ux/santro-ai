@@ -38,8 +38,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 |---|---|---|
 | Assessing the chip sector's damage: Chart of the Day | Yahoo Finance Video | 2026-07-28 |
 | CME launches 23-hour single-stock futures to trade stocks like SpaceX, Micron | Yahoo Finance Video | 2026-07-28 |
-| Why the Dow Gained 500 Points, but the Nasdaq Struggled | Barrons.com | 2026-07-28 |
-| S&P 500 ends higher as investors await tech earnings | Reuters | 2026-07-28 |
+| CLARITY Act hits summer roadblock | Yahoo Finance Video | 2026-07-28 |
+| Stock Market Today: Dow Gains 500 Points; SpaceX, SK Hynix Make These Moves (Live Coverage) | Investor's Business Daily | 2026-07-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
-| Valuation | P/E 18.56, forward P/E 5.34, P/S —, P/B 9.20 | EV/Sales 11.04, EV/EBITDA 14.62 |
+| Valuation | P/E 18.56, forward P/E 5.34, P/S 10.27, P/B 12.77 | EV/Sales 11.04, EV/EBITDA 14.62 |
 | Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,507.38 (42 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -124,8 +124,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | P/E (ttm) | 18.56 | Insider ownership | 0.25% |
 | Forward P/E | 5.34 | Short float | 3.21% |
 | PEG (trailing) | 0.13 | Avg volume | 52,317,519 |
-| P/S | — | Employees | 53,000 |
-| P/B | 9.20 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/S | 10.27 | Employees | 53,000 |
+| P/B | 12.77 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Micron, SK Hynix stocks sink as AI chip sell-off deepens | Yahoo Finance | 2026-07-28 |
 | CLARITY Act hits summer roadblock | Yahoo Finance Video | 2026-07-28 |
-| Nvidia reportedly in talks to finance OpenAI's massive Ohio data center | Yahoo Finance Video | 2026-07-27 |
-| Nvidia Takes a $5 Billion Stake in Sutskever's Lab | GuruFocus.com | 2026-07-28 |
+| Why Did Palantir Technologies Stock Drop Again? | Motley Fool | 2026-07-28 |
+| Franklin Electric Co., Inc. Q2 2026 Earnings Call Summary | Moby | 2026-07-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

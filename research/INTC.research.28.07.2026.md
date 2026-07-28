@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
+| Why cyclical stocks are poised for a comeback | Yahoo Finance Video | 2026-07-28 |
 | Micron, SK Hynix stocks sink as AI chip sell-off deepens | Yahoo Finance | 2026-07-28 |
-| S&P 500 ends higher as investors await tech earnings | Reuters | 2026-07-28 |
+| Update: Dow Extends Advance Following Strong Earnings Reports | MT Newswires | 2026-07-28 |
 | Intel Posted A Big Beat And Still Fell, And Its Spending Plan Is Why | Trefis | 2026-07-28 |
-| Corning, ASML, SK Hynix, PayPal, UPS, Dell, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -132,6 +132,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-07-28 | main | B of A Securities | Buy → Buy |
 | 2026-07-27 | main | Baird | Neutral → Neutral |
 | 2026-07-25 | main | DA Davidson | Neutral → Neutral |
 | 2026-07-24 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
@@ -139,7 +140,6 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | 2026-07-24 | main | JP Morgan | Underweight → Underweight |
 | 2026-07-24 | main | Roth Capital | Buy → Buy |
 | 2026-07-24 | main | Stifel | Hold → Hold |
-| 2026-07-24 | main | Wedbush | Neutral → Neutral |
 
 ## 9. Conclusion
 INTC: High momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-29T09:55:48+00:00",
+  "as_of": "2026-07-29T10:11:00+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "NXPI",
+   "company": "NXP Semiconductors NV",
+   "move_pct": -5.55,
+   "price": 252.81,
+   "volume": 6477325,
+   "volume_vs_avg": "~2x",
+   "heat_score": 42,
+   "direction": "down",
+   "why": "NXP Semiconductors (NXPI) Stock Looks Stretched On Cash Flow But Reasonable On Earnings",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-stock-looks-091026978.html",
+   "published": "2026-07-29T09:10:26Z",
+   "sector": "AI Chips & Compute"
+  }
+ ]
 }

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-29T13:38:53+00:00",
+  "as_of": "2026-07-29T13:54:07+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,35 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "VRT",
+   "company": "Vertiv Holdings Co",
+   "move_pct": -14.23,
+   "price": 231.19,
+   "volume": 3911372,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 78,
+   "direction": "down",
+   "why": "Should You Ignore Vertiv? Why ON Semiconductor May Be The Better AI Infrastructure Stock Today",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/ignore-vertiv-why-semiconductor-may-132500663.html",
+   "published": "2026-07-29T13:25:00Z",
+   "sector": "Data Center, Power & Energy"
+  },
+  {
+   "rank": 2,
    "ticker": "TER",
    "company": "Teradyne Inc",
-   "move_pct": 12.68,
-   "price": 361.31,
-   "volume": 1064087,
-   "volume_vs_avg": "~0.2x",
-   "heat_score": 70,
+   "move_pct": 8.48,
+   "price": 347.84,
+   "volume": 1633358,
+   "volume_vs_avg": "~0.3x",
+   "heat_score": 56,
    "direction": "up",
    "why": "TER Stock Gains After Q2 Beat \u2013 CEO Says AI Demand Remains 'Robust,' Sees Growth Extending Into 2027",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/ter-stock-gains-q2-beat-112952430.html",
    "published": "2026-07-29T11:29:52Z",
    "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 2,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings Co",
-   "move_pct": -11.45,
-   "price": 238.7,
-   "volume": 2456974,
-   "volume_vs_avg": "~0.4x",
-   "heat_score": 67,
-   "direction": "down",
-   "why": "Vertiv Shares Fall Despite Earnings Beat and Higher Full-Year Forecast",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-shares-fall-despite-earnings-121327116.html",
-   "published": "2026-07-29T12:13:27Z",
-   "sector": "Data Center, Power & Energy"
   }
  ]
 }

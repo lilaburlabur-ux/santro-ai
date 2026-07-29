@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-07-29T20:01:01+00:00",
-  "as_of_local": "2026-07-29 20:01:01 UTC",
+  "as_of_utc": "2026-07-29T20:03:10+00:00",
+  "as_of_local": "2026-07-29 20:03:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -175,9 +175,9 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 224.52,
+      "price": 224.89,
       "previous_close": 244.74,
-      "change_pct": -8.26,
+      "change_pct": -8.11,
       "market_cap": 239295063155.2431,
       "headlines": [
         {
@@ -187,16 +187,16 @@
           "published": "2026-07-27T11:52:07Z"
         },
         {
+          "title": "Update: US Equity Indexes Slide as Fed on Pause for Fifth Meeting; Investors Await Big Tech Results Amid Mounting Middle East Tensions",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slide-fed-195310379.html",
+          "publisher": "MT Newswires",
+          "published": "2026-07-29T19:53:10Z"
+        },
+        {
           "title": "Update: US Equity Indexes Slump Ahead of Fed Policy Moves, Big-Tech Results; Crude Oil Soars as Trump Vows to Hit Iran Hard",
           "url": "https://finance.yahoo.com/markets/articles/us-equity-indexes-slump-ahead-175807087.html",
           "publisher": "MT Newswires",
           "published": "2026-07-29T17:58:07Z"
-        },
-        {
-          "title": "Update: US Equity Indexes Slide Ahead of Warsh's Press Briefing, Big-Tech Results While Trump Vows to Hit Iran Hard",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slide-ahead-165633062.html",
-          "publisher": "MT Newswires",
-          "published": "2026-07-29T16:56:33Z"
         }
       ]
     },
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -18.33,
+          "price": 44550.0,
           "currency": "JPY"
         },
         {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -18.33,
+        "price": 44550.0,
         "currency": "JPY"
       },
       {
@@ -580,18 +580,18 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7316.4,
+      "price": 7316.38,
       "change_pct": -1.51
     },
     {
       "label": "BTC",
-      "price": 63475.03,
-      "change_pct": -0.62
+      "price": 63433.01,
+      "change_pct": -0.69
     },
     {
       "label": "Gold",
-      "price": 4128.5,
-      "change_pct": 2.28
+      "price": 4127.2,
+      "change_pct": 2.25
     },
     {
       "label": "Nasdaq100",

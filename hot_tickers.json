@@ -1,43 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-29T09:20:11+00:00",
+  "as_of": "2026-07-29T09:35:21+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "MU",
-   "company": "Micron Technology Inc",
-   "move_pct": -8.33,
-   "price": 825.25,
-   "volume": 58476265,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 60,
-   "direction": "down",
-   "why": "Why China\u2019s DUV Push Hit ASML (ASML) and Micron (MU) for Different Reasons",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-china-duv-push-hit-075914910.html",
-   "published": "2026-07-29T07:59:14Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 2,
-   "ticker": "PLTR",
-   "company": "Palantir Technologies Inc",
-   "move_pct": -5.97,
-   "price": 123.68,
-   "volume": 42804212,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 41,
-   "direction": "down",
-   "why": "Prediction: Palantir's Stock Will Make a Huge Move on Aug. 3",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantirs-stock-huge-move-071200932.html",
-   "published": "2026-07-29T07:12:00Z",
-   "sector": "AI Software & Cloud Infrastructure"
-  }
- ]
+ "hot_tickers": []
 }

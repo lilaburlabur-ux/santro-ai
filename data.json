@@ -1,15 +1,15 @@
 {
-  "as_of_utc": "2026-07-29T10:18:52+00:00",
-  "as_of_local": "2026-07-29 10:18:52 UTC",
+  "as_of_utc": "2026-07-29T10:23:54+00:00",
+  "as_of_local": "2026-07-29 10:23:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 197.01,
-      "previous_close": 196.51,
-      "change_pct": 0.25,
+      "price": 196.51,
+      "previous_close": 206.84,
+      "change_pct": -4.99,
       "market_cap": 4771779076950.073,
       "headlines": [
         {
@@ -131,16 +131,16 @@
           "published": "2026-07-28T12:56:22Z"
         },
         {
+          "title": "The Zacks Analyst Blog Highlights Alphabet, Advanced Micro Devices and RTX",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-alphabet-091300399.html",
+          "publisher": "Zacks",
+          "published": "2026-07-29T09:13:00Z"
+        },
+        {
           "title": "Core Scientific (CORZ) Stock Looks Above Fair Value After A Big AI Deal",
           "url": "https://finance.yahoo.com/markets/stocks/articles/core-scientific-corz-stock-looks-050650193.html",
           "publisher": "Simply Wall St.",
           "published": "2026-07-29T05:06:50Z"
-        },
-        {
-          "title": "Dow Jones Futures: Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Earnings Late",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-seagate-sk-hynix-kla-bloom-energy-earnings-fed-meeting/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-07-29T03:06:28Z"
         }
       ]
     },
@@ -175,9 +175,9 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 244.74,
-      "previous_close": 266.33,
-      "change_pct": -8.11,
+      "price": 266.33,
+      "previous_close": 260.01,
+      "change_pct": 2.43,
       "market_cap": 260416537996.5622,
       "headlines": [
         {
@@ -259,9 +259,9 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 259.12,
-      "previous_close": 267.67,
-      "change_pct": -3.19,
+      "price": 267.67,
+      "previous_close": 277.29,
+      "change_pct": -3.47,
       "market_cap": 65420304757.71106,
       "headlines": [
         {
@@ -585,18 +585,18 @@
     },
     {
       "label": "BTC",
-      "price": 64595.0,
-      "change_pct": 1.13
+      "price": 64586.99,
+      "change_pct": 1.12
     },
     {
       "label": "Gold",
-      "price": 4091.5,
-      "change_pct": 1.37
+      "price": 4090.6,
+      "change_pct": 1.35
     },
     {
       "label": "Nasdaq100",
-      "price": 27763.13,
-      "change_pct": -0.98
+      "price": 28039.21,
+      "change_pct": -1.46
     }
   ]
 }

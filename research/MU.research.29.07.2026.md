@@ -1,11 +1,11 @@
 # MU Research Report
-**Micron Technology, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Micron Technology** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `MU.research.29.07.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $739.00 (2026-07-29, ~15-min delayed) |
-| Market cap | $834.62B |
+| Market cap | — |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -68,13 +68,13 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
-| Valuation | P/E 16.71, forward P/E 4.81, P/S 9.25, P/B 8.28 | EV/Sales 10.05, EV/EBITDA 13.30 |
+| Valuation | P/E 16.71, forward P/E 4.81, P/S —, P/B 8.28 | EV/Sales 10.05, EV/EBITDA 13.30 |
 | Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,507.38 (42 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 81.04% |
+| Institutional ownership | 83.16% |
 | Insider ownership | 0.25% |
 | Short float | 3.21% |
 | Short ratio (days to cover) | 0.7 |
@@ -112,7 +112,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $739.00 | EV/Sales | 10.05 |
-| Market cap | $834.62B | EV/EBITDA | 13.30 |
+| Market cap | — | EV/EBITDA | 13.30 |
 | Beta | 2.14 | Gross margin | 72.57% |
 | RSI(14) | 35.7 | Operating margin | 80.37% |
 | ATR(14) | 84.62 | Profit margin | 55.91% |
@@ -120,11 +120,11 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | SMA50 dist | -22.89% | ROE | 66.64% |
 | SMA200 dist | +44.53% | Revenue (ttm) | $90.27B |
 | 52W high | $1,213.37 | Revenue growth y/y | 345.70% |
-| 52W low | $104.71 | Inst. ownership | 81.04% |
+| 52W low | $104.71 | Inst. ownership | 83.16% |
 | P/E (ttm) | 16.71 | Insider ownership | 0.25% |
 | Forward P/E | 4.81 | Short float | 3.21% |
 | PEG (trailing) | 0.12 | Avg volume | 52,691,573 |
-| P/S | 9.25 | Employees | 53,000 |
+| P/S | — | Employees | 53,000 |
 | P/B | 8.28 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions

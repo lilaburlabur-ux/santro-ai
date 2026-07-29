@@ -74,7 +74,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 71.53% |
+| Institutional ownership | 70.76% |
 | Insider ownership | 3.98% |
 | Short float | 1.39% |
 | Short ratio (days to cover) | 2.2 |
@@ -119,7 +119,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | SMA50 dist | -8.23% | ROE | 114.29% |
 | SMA200 dist | -1.45% | Revenue (ttm) | $253.49B |
 | 52W high | $235.47 | Revenue growth y/y | 85.20% |
-| 52W low | $164.98 | Inst. ownership | 71.53% |
+| 52W low | $164.98 | Inst. ownership | 70.76% |
 | P/E (ttm) | 29.14 | Insider ownership | 3.98% |
 | Forward P/E | 14.76 | Short float | 1.39% |
 | PEG (trailing) | 0.54 | Avg volume | 154,252,880 |

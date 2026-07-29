@@ -68,13 +68,13 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
-| Valuation | P/E 16.71, forward P/E 4.81, P/S —, P/B 8.28 | EV/Sales 10.05, EV/EBITDA 13.30 |
+| Valuation | P/E 16.71, forward P/E 4.81, P/S 9.25, P/B 8.28 | EV/Sales 10.05, EV/EBITDA 13.30 |
 | Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,507.38 (42 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 83.16% |
+| Institutional ownership | 81.04% |
 | Insider ownership | 0.25% |
 | Short float | 3.21% |
 | Short ratio (days to cover) | 0.7 |
@@ -120,11 +120,11 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | SMA50 dist | -22.89% | ROE | 66.64% |
 | SMA200 dist | +44.53% | Revenue (ttm) | $90.27B |
 | 52W high | $1,213.37 | Revenue growth y/y | 345.70% |
-| 52W low | $104.71 | Inst. ownership | 83.16% |
+| 52W low | $104.71 | Inst. ownership | 81.04% |
 | P/E (ttm) | 16.71 | Insider ownership | 0.25% |
 | Forward P/E | 4.81 | Short float | 3.21% |
 | PEG (trailing) | 0.12 | Avg volume | 52,691,573 |
-| P/S | — | Employees | 53,000 |
+| P/S | 9.25 | Employees | 53,000 |
 | P/B | 8.28 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions

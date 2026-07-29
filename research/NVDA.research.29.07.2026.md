@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Tech stocks today: Microsoft, Meta, Qualcomm report earnings as chip stocks struggle | Yahoo Finance | 2026-07-27 |
 | Meet the Stock That's Obliterating Eli Lilly, Johnson & Johnson, and AbbVie Right Now | Motley Fool | 2026-07-29 |
+| Reynolds Consumer Products Inc. Q2 2026 Earnings Call Summary | Moby | 2026-07-29 |
 | Tesla Closed Tuesday 3% Above Its 52-Week Low. Here's What Happened the Last 3 Times It Got This Close. | Motley Fool | 2026-07-29 |
-| NextEra and Brookfield Are Building a $100 Billion Data Center Campus in Kentucky. Here's What Investors Need to Know. | Motley Fool | 2026-07-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

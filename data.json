@@ -1,15 +1,15 @@
 {
-  "as_of_utc": "2026-07-29T11:29:51+00:00",
-  "as_of_local": "2026-07-29 11:29:51 UTC",
+  "as_of_utc": "2026-07-29T11:34:48+00:00",
+  "as_of_local": "2026-07-29 11:34:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 197.01,
-      "previous_close": 196.51,
-      "change_pct": 0.25,
+      "price": 196.51,
+      "previous_close": 206.84,
+      "change_pct": -4.99,
       "market_cap": 4771779076950.073,
       "headlines": [
         {
@@ -38,7 +38,7 @@
       "price": 392.31,
       "previous_close": 399.09,
       "change_pct": -1.7,
-      "market_cap": 2034705607377.74,
+      "market_cap": 2034705620040.03,
       "headlines": [
         {
           "title": "Amkor (AMKR) Lands 10 Year TSMC Arizona Deal After Record Q2 Revenue",
@@ -66,7 +66,7 @@
       "price": 380.91,
       "previous_close": 383.22,
       "change_pct": -0.6,
-      "market_cap": 1812209890642.959,
+      "market_cap": 1812209873220.1802,
       "headlines": [
         {
           "title": "Chip stocks are crashing as the rest of the market barely flinches: AlphaCheck",
@@ -122,7 +122,7 @@
       "price": 454.62,
       "previous_close": 494.95,
       "change_pct": -8.15,
-      "market_cap": 741303654540.2628,
+      "market_cap": 741303662502.18,
       "headlines": [
         {
           "title": "Micron, SK Hynix stocks sink as AI chip sell-off deepens",
@@ -134,7 +134,7 @@
           "title": "Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Are AI Earnings Movers",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-seagate-sk-hynix-kla-bloom-energy-earnings-fed-meeting/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-07-29T11:13:32Z"
+          "published": "2026-07-29T11:25:01Z"
         },
         {
           "title": "Prediction: AMD Stock Could Double by 2028. Here's Why",
@@ -147,9 +147,9 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 86.3,
-      "previous_close": 91.67,
-      "change_pct": -5.86,
+      "price": 91.67,
+      "previous_close": 92.32,
+      "change_pct": -0.7,
       "market_cap": 435297215393.0664,
       "headlines": [
         {
@@ -315,10 +315,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 156.35,
-      "previous_close": 154.24,
-      "change_pct": 1.37,
-      "market_cap": 7912565799.386902,
+      "price": 154.24,
+      "previous_close": 149.51,
+      "change_pct": 3.16,
+      "market_cap": 7912565490.5,
       "headlines": [
         {
           "title": "AeroVironment (AVAV) Surpasses Market Returns: Some Facts Worth Knowing",
@@ -343,9 +343,9 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 110.87,
-      "previous_close": 116.42,
-      "change_pct": -4.77,
+      "price": 116.42,
+      "previous_close": 117.6,
+      "change_pct": -1.0,
       "market_cap": 4330878995.408844,
       "headlines": [
         {
@@ -371,9 +371,9 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 31.7,
-      "previous_close": 35.17,
-      "change_pct": -9.87,
+      "price": 35.17,
+      "previous_close": 38.76,
+      "change_pct": -9.26,
       "market_cap": 883142018.5550117,
       "headlines": [
         {
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 47.77,
-      "change_pct": -8.89,
+      "price": 52.43,
+      "change_pct": -1.45,
       "holdings": [
         {
           "symbol": "MU",
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 47.77,
-    "change_pct": -8.89,
+    "price": 52.43,
+    "change_pct": -1.45,
     "holdings": [
       {
         "symbol": "MU",
@@ -580,13 +580,13 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7428.78,
-      "change_pct": 0.21
+      "price": 7413.18,
+      "change_pct": 0.07
     },
     {
       "label": "BTC",
-      "price": 64438.42,
-      "change_pct": 0.89
+      "price": 64360.49,
+      "change_pct": 0.77
     },
     {
       "label": "Gold",
@@ -595,8 +595,8 @@
     },
     {
       "label": "Nasdaq100",
-      "price": 27763.13,
-      "change_pct": -0.98
+      "price": 28039.21,
+      "change_pct": -1.46
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-07-29T02:44:54+00:00",
-  "as_of_local": "2026-07-29 02:44:54 UTC",
+  "as_of_utc": "2026-07-29T03:00:04+00:00",
+  "as_of_local": "2026-07-29 03:00:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -47,16 +47,16 @@
           "published": "2026-07-27T14:54:40Z"
         },
         {
+          "title": "Japan Quake Leads to Mall Collapse; Death Toll Rises to 13",
+          "url": "https://www.wsj.com/world/asia/japan-quake-causes-explosion-at-mall-traps-shoppers-7a1d5591?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-07-29T01:51:00Z"
+        },
+        {
           "title": "What Will SK Hynix\u2019s Share Conversion Mean for Its US Premium?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-share-conversion-mean-005605511.html",
           "publisher": "Bloomberg",
           "published": "2026-07-29T00:56:05Z"
-        },
-        {
-          "title": "Japan Quake Leads to Mall Collapse, Trapping People Inside",
-          "url": "https://www.wsj.com/world/asia/japan-quake-causes-explosion-at-mall-traps-shoppers-7a1d5591?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-07-29T00:31:00Z"
         }
       ]
     },
@@ -134,7 +134,7 @@
           "title": "Dow Jones Futures: Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Earnings Late",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-seagate-sk-hynix-kla-bloom-energy-earnings-fed-meeting/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-07-29T02:29:29Z"
+          "published": "2026-07-29T02:38:14Z"
         },
         {
           "title": "Advanced Micro Devices vs. BigBear.ai: Which Technology Stock Is a Better Buy in 2026?",
@@ -181,12 +181,6 @@
       "market_cap": 260416537996.5622,
       "headlines": [
         {
-          "title": "Stocks Settle Mostly Higher on Positive Earnings Results",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-mostly-higher-positive-203351910.html",
-          "publisher": "Barchart",
-          "published": "2026-07-28T20:33:51Z"
-        },
-        {
           "title": "AMD Sinks 8%, Marvell Sinks 7%, Intel Fall 6% as AI Chip Trade Narrows to NVIDIA",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-sinks-8-marvell-sinks-152843154.html",
           "publisher": "24/7 Wall St.",
@@ -197,6 +191,12 @@
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-28-2026/card/tech-earnings-fed-rate-decision-what-to-watch-this-week-vAmRtjs9MVjLnKiNblP5?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-07-28T06:36:42Z"
+        },
+        {
+          "title": "Arm Holdings (ARM) Could Be 40% Undervalued As Earnings Near",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-could-40-210918847.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-07-27T21:09:18Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -9.61,
-          "price": 1401000.0,
+          "change_pct": -9.68,
+          "price": 1400000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -4.55,
-          "price": 210000.0,
+          "change_pct": -5.34,
+          "price": 208250.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -7.97,
-          "price": 41000.0,
+          "change_pct": -7.99,
+          "price": 40990.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -9.61,
-        "price": 1401000.0,
+        "change_pct": -9.68,
+        "price": 1400000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -4.55,
-        "price": 210000.0,
+        "change_pct": -5.34,
+        "price": 208250.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -7.97,
-        "price": 41000.0,
+        "change_pct": -7.99,
+        "price": 40990.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63943.45,
-      "change_pct": 0.34
+      "price": 63879.97,
+      "change_pct": 0.24
     },
     {
       "label": "Gold",
-      "price": 4030.8,
-      "change_pct": -1.07
+      "price": 4031.6,
+      "change_pct": -1.05
     },
     {
       "label": "Nasdaq100",

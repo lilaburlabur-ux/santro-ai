@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-07-29T09:45:33+00:00",
-  "as_of_local": "2026-07-29 09:45:33 UTC",
+  "as_of_utc": "2026-07-29T09:50:25+00:00",
+  "as_of_local": "2026-07-29 09:50:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 197.01,
-      "previous_close": 196.51,
-      "change_pct": 0.25,
-      "market_cap": 4771779076950.073,
-      "headlines": [
-        {
-          "title": "Micron, SK Hynix stocks sink as AI chip sell-off deepens",
-          "url": "https://finance.yahoo.com/markets/article/micron-sk-hynix-stocks-sink-as-ai-chip-sell-off-deepens-125622548.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-28T12:56:22Z"
-        },
-        {
-          "title": "Chip stocks are crashing as the rest of the market barely flinches: AlphaCheck",
-          "url": "https://finance.yahoo.com/markets/article/chip-stocks-are-crashing-as-the-rest-of-the-market-barely-flinches-alphacheck-161342600.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-28T16:13:42Z"
-        },
-        {
-          "title": "\"Hope Is Not an Investment Strategy,\" Says the Lone Wall Street Analyst Who Hasn't Been Wrong About SpaceX",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hope-not-investment-strategy-says-092600681.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-29T09:26:00Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -75,16 +49,16 @@
           "published": "2026-07-28T16:13:42Z"
         },
         {
+          "title": "Prediction: 3 Unstoppable Artificial Intelligence (AI) Stocks That Will Join the $2 Trillion Club by 2027 (Hint: Not SpaceX)",
+          "url": "https://finance.yahoo.com/technology/ai/articles/prediction-3-unstoppable-artificial-intelligence-093500551.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-29T09:35:00Z"
+        },
+        {
           "title": "3 Stocks I'm Buying Over SpaceX Right Now",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-im-buying-over-072000526.html",
           "publisher": "Motley Fool",
           "published": "2026-07-29T07:20:00Z"
-        },
-        {
-          "title": "EXCLUSIVE: After Nvidia And SK Hynix, These 3 AI Stocks Could Be The Next Winners, CEO Says",
-          "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-nvidia-sk-hynix-3-220027741.html",
-          "publisher": "Benzinga",
-          "published": "2026-07-28T22:00:27Z"
         }
       ]
     },
@@ -109,10 +83,10 @@
           "published": "2026-07-28T16:30:00Z"
         },
         {
-          "title": "Why China\u2019s DUV Push Hit ASML (ASML) and Micron (MU) for Different Reasons",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-china-duv-push-hit-075914910.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-07-29T07:59:14Z"
+          "title": "Prediction: 3 Unstoppable Artificial Intelligence (AI) Stocks That Will Join the $2 Trillion Club by 2027 (Hint: Not SpaceX)",
+          "url": "https://finance.yahoo.com/technology/ai/articles/prediction-3-unstoppable-artificial-intelligence-093500551.html",
+          "publisher": "Motley Fool",
+          "published": "2026-07-29T09:35:00Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64520.04,
-      "change_pct": 1.02
+      "price": 64478.87,
+      "change_pct": 0.95
     },
     {
       "label": "Gold",
-      "price": 4093.4,
-      "change_pct": 1.41
+      "price": 4091.7,
+      "change_pct": 1.37
     },
     {
       "label": "Nasdaq100",

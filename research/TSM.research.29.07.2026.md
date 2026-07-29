@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Qualcomm Gives Tepid Profit Forecast in Sign of Phone Woes | Bloomberg | 2026-07-29 |
 | TSMC Stock Drops 4.1% as $2 Trillion AI Rout Spreads | GuruFocus.com | 2026-07-29 |
 | Sector Update: Tech Stocks Fall Wednesday Afternoon | MT Newswires | 2026-07-29 |
 | Update: Market Chatter: Taiwan Semiconductor Manufacturing, Toyota Operations Hit by Japan Earthquake | MT Newswires | 2026-07-29 |
-| Amkor (AMKR) Lands 10 Year TSMC Arizona Deal After Record Q2 Revenue | Simply Wall St. | 2026-07-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,7 +74,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 15.54% |
+| Institutional ownership | 15.55% |
 | Insider ownership | 0.04% |
 | Short float | 0.69% |
 | Short ratio (days to cover) | 2.3 |
@@ -119,7 +119,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | SMA50 dist | -11.76% | ROE | 39.97% |
 | SMA200 dist | +5.58% | Revenue (ttm) | $4.44T |
 | 52W high | $477.57 | Revenue growth y/y | 36.00% |
-| 52W low | $224.84 | Inst. ownership | 15.54% |
+| 52W low | $224.84 | Inst. ownership | 15.55% |
 | P/E (ttm) | 32.92 | Insider ownership | 0.04% |
 | Forward P/E | 17.37 | Short float | 0.69% |
 | PEG (trailing) | 0.95 | Avg volume | 14,141,263 |

@@ -37,8 +37,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Headline | Source | Date |
 |---|---|---|
 | Kospi sell-off deepens, Why leveraged ETFs are under fire | Yahoo Finance Video | 2026-07-29 |
+| Tesla Stock Breaks $300. How Far It Needs to Fall to Lose Trillion-Dollar Status. | Barrons.com | 2026-07-29 |
 | Intel Stock Is Up 124% This Year and AMD Is Up 100%: Is the NASDAQ Correction a Take-Profit Signal? | 24/7 Wall St. | 2026-07-29 |
-| How Far Tesla Stock Needs to Fall to Lose Trillion-Dollar Status | Barrons.com | 2026-07-29 |
 | The AI Trade Is Still On: Why Nvidia Remains at the Center of It | 24/7 Wall St. | 2026-07-29 |
 
 ## 3. Technical Analysis

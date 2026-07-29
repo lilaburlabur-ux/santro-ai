@@ -38,8 +38,8 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 |---|---|---|
 | Earnings live: Qualcomm stock slides, Arm Holdings little changed after results exceed expectations | Yahoo Finance | 2026-07-27 |
 | Qualcomm Q3 earnings top revenue expectations as smartphone market slows | Yahoo Finance | 2026-07-29 |
-| Qualcomm falls on weak fourth quarter earnings guidance | Investing.com | 2026-07-29 |
-| Qualcomm Profit Declines, Dented by Higher Costs | The Wall Street Journal | 2026-07-29 |
+| Qualcomm and Arm Forecasts Fail to Impress Investors | Bloomberg | 2026-07-29 |
+| Qualcomm’s Shares Fall After Earnings Miss | Barrons.com | 2026-07-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

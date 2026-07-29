@@ -37,9 +37,9 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Headline | Source | Date |
 |---|---|---|
 | NXP Semiconductors Q2 Earnings Beat Estimates, Revenues Rise Y/Y | Zacks | 2026-07-29 |
-| Stocks Pressured by Renewed US-Iran Hostilities | Barchart | 2026-07-29 |
 | NXPI Q2 Earnings Call Highlights Physical AI Growth | Zacks | 2026-07-29 |
 | NXP Semiconductors (NXPI) Stock Looks Stretched On Cash Flow But Reasonable On Earnings | Simply Wall St. | 2026-07-29 |
+| NXPI Stock Falls As Dutch Chipmaker's Outlook Fails To Impress | Stocktwits | 2026-07-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

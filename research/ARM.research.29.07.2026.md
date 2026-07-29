@@ -36,10 +36,10 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
-| Earnings live: Humana stock falls, Procter & Gamble dips, with Big Tech earnings on deck | Yahoo Finance | 2026-07-27 |
-| Arm forecasts quarterly revenue above estimates on AI-driven chip demand | Reuters | 2026-07-29 |
-| Update: US Equity Indexes Slide as Fed on Pause for Fifth Meeting; Investors Await Big Tech Results Amid Mounting Middle East Tensions | MT Newswires | 2026-07-29 |
-| Update: US Equity Indexes Slump Ahead of Fed Policy Moves, Big-Tech Results; Crude Oil Soars as Trump Vows to Hit Iran Hard | MT Newswires | 2026-07-29 |
+| Earnings live: Qualcomm stock slides, Arm Holdings little changed after results exceed expectations | Yahoo Finance | 2026-07-27 |
+| Robinhood, Arm, Carvana: Stocks moving on earnings in after-hours | Yahoo Finance Video | 2026-07-29 |
+| Arm Holdings beats Q1 estimates, shares fall in after-hours | Investing.com | 2026-07-29 |
+| Arm Posts Higher Revenue, Profit as AI Demand Drives Growth | The Wall Street Journal | 2026-07-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia, Micron, AMD sink after SK Hynix results fail to impress, AI trade unwinds | Yahoo Finance | 2026-07-29 |
-| Kospi sell-off deepens, Why leveraged ETFs are under fire | Yahoo Finance Video | 2026-07-29 |
-| Why Avis Budget Stock Crashed Today | Motley Fool | 2026-07-29 |
-| Why VF Corp Stock Tumbled Today | Motley Fool | 2026-07-29 |
+| Tech stocks today: Microsoft, Meta, Qualcomm report earnings as chip stocks struggle | Yahoo Finance | 2026-07-27 |
+| NextEra and Brookfield Are Building a $100 Billion Data Center Campus in Kentucky. Here's What Investors Need to Know. | Motley Fool | 2026-07-29 |
+| 3 Beaten-Down Stocks With GLP-1 Exposure to Buy and Hold | Motley Fool | 2026-07-29 |
+| Cracker Barrel Is Up 104%. Here's Why the CEO Is Stepping Down Anyway. | Motley Fool | 2026-07-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

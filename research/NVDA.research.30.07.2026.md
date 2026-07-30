@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day | Yahoo Finance | 2026-07-30 |
 | Qualcomm's automotive segment is the highlight of Q3: CFO | Yahoo Finance Video | 2026-07-30 |
-| Is Amazon a Buy After Its Latest Earnings Report? | Motley Fool | 2026-07-30 |
-| Should You Buy McDonald's Stock Before Aug. 4? | Motley Fool | 2026-07-30 |
+| Federal Signal Corporation Q2 2026 Earnings Call Summary | Moby | 2026-07-30 |
+| Exelon Corporation Q2 2026 Earnings Call Summary | Moby | 2026-07-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

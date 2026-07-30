@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Astera Labs vs. CoreWeave: Which Technology Stock Is a Better Buy in 2026? | Motley Fool | 2026-07-30 |
+| What is the Current U.S. Macro Set-Up? | Zacks | 2026-07-30 |
 | Intel Scores Needed Win, But Bigger Test Remains | GuruFocus.com | 2026-07-30 |
 | Lam Research Stock Soars 18.9% on $8.1 Billion AI Forecast | GuruFocus.com | 2026-07-30 |
-| TSMC's next AI chip move sends Intel stock soaring | GuruFocus.com | 2026-07-30 |
-| TSMC Stock Jumps 7% as Microsoft Revives AI-Chip Trade | GuruFocus.com | 2026-07-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

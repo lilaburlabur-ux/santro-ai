@@ -38,8 +38,8 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 |---|---|---|
 | Qualcomm's automotive segment is the highlight of Q3: CFO | Yahoo Finance Video | 2026-07-30 |
 | Qualcomm's Data Center Bet Meets Harsh Reality | GuruFocus.com | 2026-07-30 |
+| NVDA Stock: Where Compounding Could Take The Price | Trefis | 2026-07-30 |
 | Qualcomm Stock Falls 3.1% as Nine Analysts Cut Targets | GuruFocus.com | 2026-07-30 |
-| Qualcomm Stock Falls on Weak Q4 Outlook Despite Revenue Beat | GuruFocus.com | 2026-07-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

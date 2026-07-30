@@ -39,7 +39,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Qualcomm's automotive segment is the highlight of Q3: CFO | Yahoo Finance Video | 2026-07-30 |
 | Nvidia, Micron, AMD sink after SK Hynix results fail to impress, AI trade unwinds | Yahoo Finance | 2026-07-29 |
 | Nvidia-Backed Stock Opens Door to Classified AI Work | GuruFocus.com | 2026-07-30 |
-| NVIDIA Stock Rises as Microsoft Sustains Massive AI Spending | GuruFocus.com | 2026-07-30 |
+| Looking To Diversify Away From AI? This Surging Stock Deserves a Look | Motley Fool | 2026-07-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

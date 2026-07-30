@@ -38,8 +38,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 |---|---|---|
 | Nvidia, Micron, AMD sink after SK Hynix results fail to impress, AI trade unwinds | Yahoo Finance | 2026-07-29 |
 | AMD Gets a Fresh Boost From Wall Street | GuruFocus.com | 2026-07-30 |
+| NVDA Stock: Where Compounding Could Take The Price | Trefis | 2026-07-30 |
 | TSMC's next AI chip move sends Intel stock soaring | GuruFocus.com | 2026-07-30 |
-| AMD Stock Has Surged 364% in 5 Years. History Suggests That It Will Become a Multibagger By 2030 | Motley Fool | 2026-07-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-30T22:59:55+00:00",
+  "as_of": "2026-07-30T23:11:16+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "MSFT",
    "company": "Microsoft Corp",
-   "move_pct": 15.01,
-   "price": 449.16,
+   "move_pct": 14.84,
+   "price": 448.51,
    "volume": 109342280,
    "volume_vs_avg": "~3x",
-   "heat_score": 91,
+   "heat_score": 90,
    "direction": "up",
    "why": "S&P 500, Nasdaq End Best Day In A Month On Support From Microsoft Gains, AI Stocks  \u2014 ORCL, GOOGL, MSFT, BE, TSLA Stock In Focus",
    "catalyst_type": "momentum_narrative",
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "LRCX",
    "company": "Lam Research Corp",
-   "move_pct": 20.25,
-   "price": 303.45,
+   "move_pct": 20.36,
+   "price": 303.74,
    "volume": 21913107,
    "volume_vs_avg": "~2x",
    "heat_score": 86,
@@ -41,10 +41,26 @@
   },
   {
    "rank": 3,
+   "ticker": "TER",
+   "company": "Teradyne Inc",
+   "move_pct": 17.4,
+   "price": 375.0,
+   "volume": 6952697,
+   "volume_vs_avg": "~1.4x",
+   "heat_score": 85,
+   "direction": "up",
+   "why": "Why Teradyne (TER) Stock Is Trading Up Today",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-teradyne-ter-stock-trading-223702095.html",
+   "published": "2026-07-30T22:37:02Z",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 4,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
-   "move_pct": 15.97,
-   "price": 498.15,
+   "move_pct": 15.81,
+   "price": 497.49,
    "volume": 35105728,
    "volume_vs_avg": "~1.2x",
    "heat_score": 84,
@@ -56,11 +72,11 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 4,
+   "rank": 5,
    "ticker": "MU",
    "company": "Micron Technology Inc",
-   "move_pct": 22.5,
-   "price": 905.28,
+   "move_pct": 20.85,
+   "price": 893.09,
    "volume": 59596897,
    "volume_vs_avg": "~1.2x",
    "heat_score": 83,
@@ -72,11 +88,11 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 5,
+   "rank": 6,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": 16.02,
-   "price": 95.0,
+   "move_pct": 15.72,
+   "price": 94.75,
    "volume": 133597656,
    "volume_vs_avg": "~1.1x",
    "heat_score": 83,
@@ -88,11 +104,11 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "ticker": "AMAT",
    "company": "Applied Materials Inc",
-   "move_pct": 17.79,
-   "price": 514.1,
+   "move_pct": 17.89,
+   "price": 514.51,
    "volume": 12120342,
    "volume_vs_avg": "~1.1x",
    "heat_score": 83,
@@ -104,11 +120,11 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
-   "move_pct": 18.86,
-   "price": 194.22,
+   "move_pct": 18.42,
+   "price": 193.5,
    "volume": 28995831,
    "volume_vs_avg": "~0.8x",
    "heat_score": 81,
@@ -118,22 +134,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-stock-looks-stretched-221121829.html",
    "published": "2026-07-30T22:11:21Z",
    "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 8,
-   "ticker": "AMZN",
-   "company": "Amazon.com Inc",
-   "move_pct": 13.5,
-   "price": 257.25,
-   "volume": 78755052,
-   "volume_vs_avg": "~1.5x",
-   "heat_score": 80,
-   "direction": "up",
-   "why": "Amazon beats expectations with cloud and AI growth",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/amazon-beats-expectations-cloud-ai-223959271.html",
-   "published": "2026-07-30T22:39:59Z",
-   "sector": "AI Platforms, Internet & AdTech"
   }
  ]
 }

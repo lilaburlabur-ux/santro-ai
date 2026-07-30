@@ -39,7 +39,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Apple earnings: iPhone prices are 'not immune' to rising memory costs | Yahoo Finance Video | 2026-07-30 |
 | Qualcomm's automotive segment is the highlight of Q3: CFO | Yahoo Finance Video | 2026-07-30 |
 | Chip stocks are rebounding — except for Qualcomm: Why it might just be a 'one off' | Yahoo Finance Video | 2026-07-30 |
-| The Growth That Has To Land For Advanced Micro Devices Stock to Make Sense | Trefis | 2026-07-30 |
+| Are Micron’s (MU) New Auto AI Deals Quietly Redefining Its Competitive Moat? | Simply Wall St. | 2026-07-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

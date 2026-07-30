@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-30T08:48:41+00:00",
-  "as_of_local": "2026-07-30 08:48:41 UTC",
+  "as_of_utc": "2026-07-30T08:53:46+00:00",
+  "as_of_local": "2026-07-30 08:53:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -285,34 +287,6 @@
       ]
     },
     {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 112.96,
-      "previous_close": 120.06,
-      "change_pct": -5.91,
-      "market_cap": 16011990518.864723,
-      "headlines": [
-        {
-          "title": "Impinj (PI) Tops Q2 Earnings and Revenue Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/impinj-pi-tops-q2-earnings-222514952.html",
-          "publisher": "Zacks",
-          "published": "2026-07-29T22:25:14Z"
-        },
-        {
-          "title": "Lattice to Report Q2 Earnings: Can Strong Revenues Drive Growth?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-report-q2-earnings-strong-160300221.html",
-          "publisher": "Zacks",
-          "published": "2026-07-29T16:03:00Z"
-        },
-        {
-          "title": "1 Profitable Stock with Impressive Fundamentals and 2 Facing Headwinds",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-impressive-fundamentals-191702187.html",
-          "publisher": "StockStory",
-          "published": "2026-07-28T19:17:02Z"
-        }
-      ]
-    },
-    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 142.12,
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64234.59,
-      "change_pct": 0.51
+      "price": 64211.06,
+      "change_pct": 0.47
     },
     {
       "label": "Gold",
-      "price": 4124.2,
-      "change_pct": 2.22
+      "price": 4122.9,
+      "change_pct": 2.19
     },
     {
       "label": "Nasdaq100",

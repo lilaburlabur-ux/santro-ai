@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-30T01:01:36+00:00",
+  "as_of": "2026-07-30T01:50:40+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -15,12 +15,12 @@
    "price": 223.04,
    "volume": 21107703,
    "volume_vs_avg": "~4x",
-   "heat_score": 95,
+   "heat_score": 80,
    "direction": "down",
-   "why": "Vertiv, SoFi, GE HealthCare, Micron, SK Hynix, Garmin, and More Stocks That Explain Today\u2019s Market",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.barrons.com/articles/stock-movers-96def795?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-07-29T21:12:00Z",
+   "why": "Moving down 17.3% on ~4x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
    "sector": "Data Center, Power & Energy"
   },
   {
@@ -57,6 +57,22 @@
   },
   {
    "rank": 4,
+   "ticker": "SMCI",
+   "company": "Super Micro Computer Inc",
+   "move_pct": -9.67,
+   "price": 25.7,
+   "volume": 39299285,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 63,
+   "direction": "down",
+   "why": "Super Micro (SMCI) Faces ITC Patent Investigation Over Netlist Memory Tech",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-smci-faces-itc-010853627.html",
+   "published": "2026-07-30T01:08:53Z",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 5,
    "ticker": "LRCX",
    "company": "Lam Research Corp",
    "move_pct": -6.4,
@@ -70,22 +86,6 @@
    "source_url": "https://finance.yahoo.com/technology/articles/lam-research-q4-earnings-call-230406093.html",
    "published": "2026-07-29T23:04:06Z",
    "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 5,
-   "ticker": "OKLO",
-   "company": "Oklo Inc",
-   "move_pct": -6.92,
-   "price": 36.84,
-   "volume": 7126166,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 43,
-   "direction": "down",
-   "why": "Oklo vs. Plug Power: Which Utilities Stock Is a Better Buy in 2026?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/energy/articles/oklo-vs-plug-power-utilities-213718572.html",
-   "published": "2026-07-29T21:37:18Z",
-   "sector": "Data Center, Power & Energy"
   },
   {
    "rank": 6,

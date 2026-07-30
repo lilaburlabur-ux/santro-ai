@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-30T00:31:31+00:00",
-  "as_of_local": "2026-07-30 00:31:31 UTC",
+  "as_of_utc": "2026-07-30T00:36:30+00:00",
+  "as_of_local": "2026-07-30 00:36:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-07-27T13:46:11Z"
         },
         {
-          "title": "Why JPMorgan Chase Stock Tumbled Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-jpmorgan-chase-stock-tumbled-001423875.html",
+          "title": "Rocket Lab Stock Keeps Dropping. Here's Exactly When I'd Buy The Dip.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-keeps-dropping-002500120.html",
           "publisher": "Motley Fool",
-          "published": "2026-07-30T00:14:23Z"
+          "published": "2026-07-30T00:25:00Z"
         },
         {
-          "title": "Why Biogen Stock Topped the Market Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-biogen-stock-topped-market-234300976.html",
+          "title": "2 Words From Fed Chair Kevin Warsh Sent the Stock Market Tumbling, and This May Be Just the Beginning",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-words-fed-chair-kevin-002200100.html",
           "publisher": "Motley Fool",
-          "published": "2026-07-29T23:43:00Z"
+          "published": "2026-07-30T00:22:00Z"
         }
       ]
     },
@@ -313,34 +315,6 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 142.12,
-      "previous_close": 156.35,
-      "change_pct": -9.1,
-      "market_cap": 7192412976.4904785,
-      "headlines": [
-        {
-          "title": "AeroVironment (AVAV) Surpasses Market Returns: Some Facts Worth Knowing",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-surpasses-market-returns-221502761.html",
-          "publisher": "Zacks",
-          "published": "2026-07-28T22:15:02Z"
-        },
-        {
-          "title": "Is AeroVironment (AVAV) Cheap After Its Army Contract And Legal Headlines?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-cheap-army-contract-190734430.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-28T19:07:34Z"
-        },
-        {
-          "title": "AeroVironment (AVAV) Stock Looks Reasonable On Cash Flow But Rich On Sales",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-stock-looks-reasonable-121352459.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-28T12:13:52Z"
-        }
-      ]
-    },
-    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 103.64,
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -2.86,
-          "price": 1361000.0,
+          "change_pct": -5.07,
+          "price": 1330000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 2.4,
-          "price": 213500.0,
+          "change_pct": 1.68,
+          "price": 212000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -0.86,
-          "price": 38050.0,
+          "change_pct": -0.52,
+          "price": 38180.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -2.86,
-        "price": 1361000.0,
+        "change_pct": -5.07,
+        "price": 1330000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 2.4,
-        "price": 213500.0,
+        "change_pct": 1.68,
+        "price": 212000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -0.86,
-        "price": 38050.0,
+        "change_pct": -0.52,
+        "price": 38180.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 63871.27,
-      "change_pct": -0.0
+      "price": 63752.23,
+      "change_pct": -0.19
     },
     {
       "label": "Gold",
-      "price": 4135.1,
-      "change_pct": 2.45
+      "price": 4133.4,
+      "change_pct": 2.41
     },
     {
       "label": "Nasdaq100",

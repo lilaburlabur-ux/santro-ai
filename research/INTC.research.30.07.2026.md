@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| Intel Scores Needed Win, But Bigger Test Remains | GuruFocus.com | 2026-07-30 |
-| TSMC's next AI chip move sends Intel stock soaring | GuruFocus.com | 2026-07-30 |
-| Intel's Rare AI Advantage Faces a New Threat | GuruFocus.com | 2026-07-30 |
-| Marvell Stock Sits Far Below Its High, But Its Operating Margin Has Kept Climbing | Trefis | 2026-07-30 |
+| The Growth That Has To Land For Advanced Micro Devices Stock to Make Sense | Trefis | 2026-07-30 |
+| Update: Nasdaq Composite Snaps 6-Day Slump as Microsoft Soars | MT Newswires | 2026-07-30 |
+| Nvidia Stock Is Showing Signs of Life. What’s Driving the Rebound. | Barrons.com | 2026-07-30 |
+| US Equity Markets End Higher on Microsoft's Cloud Gains, Semiconductor Rebound | MT Newswires | 2026-07-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| The Growth That Has To Land For Advanced Micro Devices Stock to Make Sense | Trefis | 2026-07-30 |
 | NVDA Stock: Where Compounding Could Take The Price | Trefis | 2026-07-30 |
 | Google To Guarantee Billions For Anthropic's Lease Of Data Centers | MediaPost | 2026-07-30 |
-| Marvell Stock Sits Far Below Its High, But Its Operating Margin Has Kept Climbing | Trefis | 2026-07-30 |
-| Citadel buys most of Situational's stock holdings after AI share rout, sources say | Reuters | 2026-07-30 |
+| GOOGL Backs $15B Financing For Anthropic-Linked Texas AI Campus — Project Reportedly Includes 1.6GW Power Plant | Stocktwits | 2026-07-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

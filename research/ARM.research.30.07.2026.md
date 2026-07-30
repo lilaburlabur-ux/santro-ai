@@ -36,7 +36,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
-| Robinhood, Arm, Carvana: Stocks moving on earnings in after-hours | Yahoo Finance Video | 2026-07-29 |
+| Update: US Equity Indexes Surge as Microsoft Triggers Rebound in Chipmakers While Inflation Rate Falls in June | MT Newswires | 2026-07-30 |
 | Arm Stock Rises 4% After Revenue and Profit Forecast Beats | GuruFocus.com | 2026-07-30 |
 | Arm remains key AI infrastructure beneficiary despite softer handset outlook, Citi says | Proactive | 2026-07-30 |
 | Wall Street Just Sent Mixed Signals on Arm Stock | GuruFocus.com | 2026-07-30 |
@@ -69,7 +69,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Profitability | Gross 97.54%, operating 29.53%, net 18.37% | ROA 5.78%, ROE 11.95% |
 | Balance sheet | Cash $3.60B, debt $491.00M | Current ratio 6.00, debt/equity 5.93 |
 | Valuation | P/E 243.98, forward P/E 78.58, P/S 52.44, P/B 31.02 | EV/Sales 48.19, EV/EBITDA 222.68 |
-| Growth expectations | Earnings growth 47.90%, EPS q/q 49.00% | Analyst mean target $301.97 (37 analysts) |
+| Growth expectations | Earnings growth 47.90%, EPS q/q 49.00% | Analyst mean target $286.03 (37 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

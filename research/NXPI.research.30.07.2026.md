@@ -69,7 +69,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Profitability | Gross 56.10%, operating 30.41%, net 22.56% | ROA 10.46%, ROE 27.92% |
 | Balance sheet | Cash $3.22B, debt $10.98B | Current ratio 2.04, debt/equity 93.33 |
 | Valuation | P/E 48.93, forward P/E 13.49, P/S 4.69, P/B 5.67 | EV/Sales 5.22, EV/EBITDA 13.59 |
-| Growth expectations | Earnings growth 72.60%, EPS q/q 72.40% | Analyst mean target $314.10 (29 analysts) |
+| Growth expectations | Earnings growth 72.60%, EPS q/q 72.40% | Analyst mean target $312.31 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

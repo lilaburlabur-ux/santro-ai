@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia, Micron, AMD sink after SK Hynix results fail to impress, AI trade unwinds | Yahoo Finance | 2026-07-29 |
-| Micron Stock Surges 14.9% as Samsung Warns Shortage Through 2028 | GuruFocus.com | 2026-07-30 |
-| Micron Stock Gets Validation From Unexpected Source | GuruFocus.com | 2026-07-30 |
-| Microsoft Committed $190B CapEx and Pulled SanDisk Out of Their Slump | Moby | 2026-07-30 |
+| Sandisk Stock Is Having Its Best Day Since January. It Has Had a Tough Month. | Barrons.com | 2026-07-30 |
+| Update: Nasdaq Composite Snaps 6-Day Slump as Microsoft Soars | MT Newswires | 2026-07-30 |
+| Micron Stock Is Surging. Why a Samsung Warning Is Sparking a Memory Rebound. | Barrons.com | 2026-07-30 |
+| Sandisk, Micron, Apple, SpaceX, Samsung, Microsoft, Meta, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

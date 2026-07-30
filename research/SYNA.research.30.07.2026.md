@@ -36,10 +36,10 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 
 | Headline | Source | Date |
 |---|---|---|
+| 1 Options Trade to Make Now to Bet on ON Semiconductor Stock Bouncing Back | Barchart | 2026-07-30 |
 | Amkor Technology (AMKR) Q2 Earnings and Revenues Beat Estimates | Zacks | 2026-07-27 |
 | What This Synaptics CFO Filing Signals for Long-Term Investors With Revenue Up 10% | Motley Fool | 2026-07-22 |
 | Synaptics Has 35-Plus Robotics Customers. Its Product Chief Just Held His Stake | Motley Fool | 2026-07-22 |
-| Synaptics Is Leaning Into IoT. Its Strategy Officer Kept $7 Million in Stock | Motley Fool | 2026-07-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

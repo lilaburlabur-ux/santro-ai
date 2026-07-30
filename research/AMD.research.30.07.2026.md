@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia, Micron, AMD sink after SK Hynix results fail to impress, AI trade unwinds | Yahoo Finance | 2026-07-29 |
-| AMD Gets a Fresh Boost From Wall Street | GuruFocus.com | 2026-07-30 |
-| NVDA Stock: Where Compounding Could Take The Price | Trefis | 2026-07-30 |
-| TSMC's next AI chip move sends Intel stock soaring | GuruFocus.com | 2026-07-30 |
+| The Growth That Has To Land For Advanced Micro Devices Stock to Make Sense | Trefis | 2026-07-30 |
+| Update: Nasdaq Composite Snaps 6-Day Slump as Microsoft Soars | MT Newswires | 2026-07-30 |
+| AMD Stock Gets Powerful Vote of Confidence | GuruFocus.com | 2026-07-30 |
+| Nvidia Stock Is Showing Signs of Life. What’s Driving the Rebound. | Barrons.com | 2026-07-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

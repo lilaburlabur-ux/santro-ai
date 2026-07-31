@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
-| Apple commits more than $30 billion to US manufacturing | Yahoo Finance Video | 2026-07-30 |
 | These 3 Dividend ETFs Own Nvidia and Microsoft and Still Pay Up to 8 Percent | 24/7 Wall St. | 2026-07-31 |
 | Marvell Technology Is Betting More Of Its Revenue On One End Market | Trefis | 2026-07-31 |
 | The 5 Best Long-Term Investment Stocks to Buy for Steady Returns | Kiplinger | 2026-07-31 |
+| AMD is Down 10% Over a Month: Did Microsoft’s Catalyst Just Spark the 155% Upside Expected By Wall Street Pro? | 24/7 Wall St. | 2026-07-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

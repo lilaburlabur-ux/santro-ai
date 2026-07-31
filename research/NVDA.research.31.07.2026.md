@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | AI trade is a combination of 'perception and reality': Bradley Tusk | Yahoo Finance Video | 2026-07-31 |
 | Apple CEO Tim Cook says this '100-year flood' won't be receding anytime soon | Yahoo Finance | 2026-07-31 |
-| Novo Nordisk Shares Plunge After a Key Trial Fails. Should Investors Buy the Dip? | Motley Fool | 2026-07-31 |
-| Coinbase Just Took a Record 10.3% of Global Crypto Trading. It Still Posted Its Third Straight Quarterly Loss. | Motley Fool | 2026-07-31 |
+| Why CareDx Stock Jumped Today | Motley Fool | 2026-07-31 |
+| Fed Chair Kevin Warsh Plays the Hawk But May Have a Dove Up His Sleeve | Motley Fool | 2026-07-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

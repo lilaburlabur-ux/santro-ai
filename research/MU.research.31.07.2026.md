@@ -1,11 +1,11 @@
 # MU Research Report
-**Micron Technology, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Micron Technology** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `MU.research.31.07.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $823.03 (2026-07-31, ~15-min delayed) |
-| Market cap | $929.52B |
+| Market cap | — |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -68,7 +68,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
-| Valuation | P/E 18.60, forward P/E 5.35, P/S 10.30, P/B 9.23 | EV/Sales 10.72, EV/EBITDA 14.19 |
+| Valuation | P/E 18.60, forward P/E 5.35, P/S —, P/B 9.23 | EV/Sales 10.72, EV/EBITDA 14.19 |
 | Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,507.38 (42 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $823.03 | EV/Sales | 10.72 |
-| Market cap | $929.52B | EV/EBITDA | 14.19 |
+| Market cap | — | EV/EBITDA | 14.19 |
 | Beta | 2.14 | Gross margin | 72.57% |
 | RSI(14) | 43.6 | Operating margin | 80.37% |
 | ATR(14) | 90.54 | Profit margin | 55.91% |
@@ -124,7 +124,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | P/E (ttm) | 18.60 | Insider ownership | 0.26% |
 | Forward P/E | 5.35 | Short float | 3.21% |
 | PEG (trailing) | 0.13 | Avg volume | 53,414,659 |
-| P/S | 10.30 | Employees | 53,000 |
+| P/S | — | Employees | 53,000 |
 | P/B | 9.23 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions

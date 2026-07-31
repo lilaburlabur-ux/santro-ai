@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-31T21:53:09+00:00",
-  "as_of_local": "2026-07-31 21:53:09 UTC",
+  "as_of_utc": "2026-07-31T21:58:03+00:00",
+  "as_of_local": "2026-07-31 21:58:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -169,34 +171,6 @@
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-31-2026/card/stocks-to-watch-apple-amazon-sk-hynix-samsung-roblox-UVBiwSE6WbBhfL3eozHj?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-07-31T18:50:31Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 239.69,
-      "previous_close": 241.54,
-      "change_pct": -0.77,
-      "market_cap": 255988579611.02838,
-      "headlines": [
-        {
-          "title": "Delivering Measurable AI Strategies: ICR CEO Anton Nicholas, Live at Nasdaq",
-          "url": "https://finance.yahoo.com/technology/ai/articles/delivering-measurable-ai-strategies-icr-160414289.html",
-          "publisher": "IPO-Edge.com",
-          "published": "2026-07-31T16:04:14Z"
-        },
-        {
-          "title": "1 Key Metric To Watch That Could Send Arm Stock Soaring",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-key-metric-watch-could-123500979.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-31T12:35:00Z"
-        },
-        {
-          "title": "Arm (ARM) Stock Looks Pricey On Book Value Yet Strong On AI Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-arm-stock-looks-pricey-100650683.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-31T10:06:50Z"
         }
       ]
     },
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 9.91,
+          "price": 360.5,
           "currency": "TWD"
         },
         {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 9.91,
+        "price": 360.5,
         "currency": "TWD"
       },
       {
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 62949.45,
-      "change_pct": -2.74
+      "price": 62865.0,
+      "change_pct": -2.87
     },
     {
       "label": "Gold",

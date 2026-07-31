@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
-| Apple earnings: iPhone prices are 'not immune' to rising memory costs | Yahoo Finance Video | 2026-07-30 |
 | Marvell Technology Is Betting More Of Its Revenue On One End Market | Trefis | 2026-07-31 |
 | Qualcomm’s Next Growth Engine Could Send Shares Much Higher | 24/7 Wall St. | 2026-07-31 |
 | Rivian Sinks 8% Despite Q2 Beat and Raised Guidance; Lucid Falls 6% | 24/7 Wall St. | 2026-07-31 |
+| Broadcom No Longer Sells Itself As A Chip Cycle Story | Trefis | 2026-07-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $44.07B | Revenue growth -4.00% y/y |
 | Profitability | Gross 54.23%, operating 18.53%, net 21.01% | ROA 11.61%, ROE 33.75% |
 | Balance sheet | Cash $8.30B, debt $15.27B | Current ratio 2.02, debt/equity 55.21 |
-| Valuation | P/E 17.33, forward P/E 14.34, P/S 3.52, P/B 5.73 | EV/Sales 3.77, EV/EBITDA 13.85 |
+| Valuation | P/E 16.87, forward P/E 14.34, P/S 3.52, P/B 5.73 | EV/Sales 3.77, EV/EBITDA 13.85 |
 | Growth expectations | Earnings growth -23.00%, EPS q/q -24.90% | Analyst mean target $199.43 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | SMA200 dist | -12.07% | Revenue (ttm) | $44.07B |
 | 52W high | $250.10 | Revenue growth y/y | -4.00% |
 | 52W low | $123.61 | Inst. ownership | 84.55% |
-| P/E (ttm) | 17.33 | Insider ownership | 0.12% |
+| P/E (ttm) | 16.87 | Insider ownership | 0.12% |
 | Forward P/E | 14.34 | Short float | 3.84% |
 | PEG (trailing) | 0.48 | Avg volume | 21,781,511 |
 | P/S | 3.52 | Employees | 52,000 |

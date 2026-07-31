@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom | Investor's Business Daily | 2026-07-31 |
+| S&P 500 Posts Weekly Gain Amid AI Monetization Optimism | MT Newswires | 2026-07-31 |
 | AMD Stock Gains as Amazon Expands AI Spending to $220 Billion | GuruFocus.com | 2026-07-31 |
 | Amazon, Apple, Microsoft, Micron, Roblox, Reddit, SK Hynix, and More Stocks That Explain Today’s Market | Barrons.com | 2026-07-31 |
-| Marvell Technology Is Betting More Of Its Revenue On One End Market | Trefis | 2026-07-31 |
-| Nvidia’s Valuation Gap With AMD Just Got Bigger | Insider Monkey | 2026-07-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -68,7 +68,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $57.03B | Revenue growth 25.40% y/y |
 | Profitability | Gross 38.87%, operating 12.19%, net -19.79% | ROA 1.41%, ROE -10.71% |
 | Balance sheet | Cash $29.73B, debt $50.54B | Current ratio 1.60, debt/equity 49.00 |
-| Valuation | P/E —, forward P/E 44.27, P/S 7.98, P/B 4.07 | EV/Sales 8.70, EV/EBITDA 29.46 |
+| Valuation | P/E —, forward P/E 44.27, P/S 7.98, P/B 5.20 | EV/Sales 8.70, EV/EBITDA 29.46 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $115.27 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -127,7 +127,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Forward P/E | 44.27 | Short float | 2.40% |
 | PEG (trailing) | — | Avg volume | 130,044,198 |
 | P/S | 7.98 | Employees | 85,100 |
-| P/B | 4.07 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/B | 5.20 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

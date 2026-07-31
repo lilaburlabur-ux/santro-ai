@@ -36,10 +36,10 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 
 | Headline | Source | Date |
 |---|---|---|
+| 2 Mid-Cap Stocks with Promising Prospects and 1 We Turn Down | StockStory | 2026-07-31 |
 | Is Lattice Semiconductor (LSCC) Fully Priced After The AMI Deal? | Simply Wall St. | 2026-07-31 |
 | AXT (AXTI) Tops Q2 Earnings and Revenue Estimates | Zacks | 2026-07-30 |
 | Is Lattice Semiconductor's (LSCC) ESOP Shelf Filing Reframing Its Margin-Pressure Investment Story? | Simply Wall St. | 2026-07-30 |
-| Impinj (PI) Tops Q2 Earnings and Revenue Estimates | Zacks | 2026-07-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

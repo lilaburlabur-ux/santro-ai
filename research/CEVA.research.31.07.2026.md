@@ -74,7 +74,7 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 93.48% |
+| Institutional ownership | 93.47% |
 | Insider ownership | 3.11% |
 | Short float | 7.35% |
 | Short ratio (days to cover) | 2.6 |
@@ -123,7 +123,7 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 | SMA50 dist | -22.76% | ROE | -3.88% |
 | SMA200 dist | +15.40% | Revenue (ttm) | $112.38M |
 | 52W high | $50.06 | Revenue growth y/y | 11.50% |
-| 52W low | $17.21 | Inst. ownership | 93.48% |
+| 52W low | $17.21 | Inst. ownership | 93.47% |
 | P/E (ttm) | — | Insider ownership | 3.11% |
 | Forward P/E | 39.70 | Short float | 7.35% |
 | PEG (trailing) | 3.23 | Avg volume | 893,254 |

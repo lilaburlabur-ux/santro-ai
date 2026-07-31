@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Amazon's AWS business has taken on a life of its own: Earnings call takeaways | Yahoo Finance Video | 2026-07-31 |
-| Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day | Yahoo Finance | 2026-07-30 |
 | NVIDIA Stock Rises as Amazon Lifts AI Spending | GuruFocus.com | 2026-07-31 |
 | Alibaba's AI Bet Is Powering a Rival | GuruFocus.com | 2026-07-31 |
+| Why Wall Street Keeps Underestimating Micron | Motley Fool | 2026-07-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

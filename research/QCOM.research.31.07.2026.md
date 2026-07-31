@@ -39,7 +39,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Marvell Technology Is Betting More Of Its Revenue On One End Market | Trefis | 2026-07-31 |
 | Qualcomm’s Next Growth Engine Could Send Shares Much Higher | 24/7 Wall St. | 2026-07-31 |
 | Rivian Sinks 8% Despite Q2 Beat and Raised Guidance; Lucid Falls 6% | 24/7 Wall St. | 2026-07-31 |
-| Broadcom No Longer Sells Itself As A Chip Cycle Story | Trefis | 2026-07-31 |
+| Qualcomm Stock Is Down 44%, But Data Center Opportunities Could Fuel a Comeback | Barchart | 2026-07-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

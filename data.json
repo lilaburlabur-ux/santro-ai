@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-07-31T09:56:03+00:00",
-  "as_of_local": "2026-07-31 09:56:03 UTC",
+  "as_of_utc": "2026-07-31T10:01:08+00:00",
+  "as_of_local": "2026-07-31 10:01:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 195.04,
+      "previous_close": 190.01,
+      "change_pct": 2.65,
+      "market_cap": 4724063677383.423,
+      "headlines": [
+        {
+          "title": "Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day",
+          "url": "https://finance.yahoo.com/markets/article/microsofts-41-billion-ai-bet-just-cleared-a-major-test-chart-of-the-day-100000116.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-07-30T10:00:00Z"
+        },
+        {
+          "title": "Qualcomm's automotive segment is the highlight of Q3: CFO",
+          "url": "https://finance.yahoo.com/video/qualcomms-automotive-segment-highlight-q3-194042582.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-07-30T19:40:42Z"
+        },
+        {
+          "title": "A Can Of Coke Cost 35 Cents When Warren Buffett First Bought Shares in 1988. Here\u2019s How Much You\u2019d Have If You\u2019d Invested $10,000 In Coca-Cola Stock Then.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/coke-cost-35-cents-warren-095246000.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-07-31T09:52:46Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -223,10 +249,10 @@
           "published": "2026-07-30T14:06:56Z"
         },
         {
-          "title": "The Zacks Analyst Blog Highlights Arm Holdings, NVIDIA and Qualcomm",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-arm-063600954.html",
-          "publisher": "Zacks",
-          "published": "2026-07-31T06:36:00Z"
+          "title": "QCOM Q2 Deep Dive: Data Center and Automotive Growth Offset Smartphone Headwinds",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qcom-q2-deep-dive-data-095135497.html",
+          "publisher": "StockStory",
+          "published": "2026-07-31T09:51:35Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63640.93,
-      "change_pct": -1.68
+      "price": 63612.89,
+      "change_pct": -1.72
     },
     {
       "label": "Gold",
-      "price": 4109.1,
-      "change_pct": 0.22
+      "price": 4112.9,
+      "change_pct": 0.31
     },
     {
       "label": "Nasdaq100",

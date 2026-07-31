@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Amazon's AWS business has taken on a life of its own: Earnings call takeaways | Yahoo Finance Video | 2026-07-31 |
-| Market Talk: Apple sinks, Amazon soars in split verdict on AI winners | Reuters Videos | 2026-07-31 |
-| Balchem Corporation Q2 2026 Earnings Call Summary | Moby | 2026-07-31 |
-| A Supreme Court Ruling Against Trump's Tariffs Could Trigger Up to $175 Billion in Refunds, a Potential Tailwind for Import-Heavy Retailers | Motley Fool | 2026-07-31 |
+| Novo Nordisk Shares Plunge After a Key Trial Fails. Should Investors Buy the Dip? | Motley Fool | 2026-07-31 |
+| Coinbase Just Took a Record 10.3% of Global Crypto Trading. It Still Posted Its Third Straight Quarterly Loss. | Motley Fool | 2026-07-31 |
+| Why Perimeter Solutions Stock Is Crashing Today | Motley Fool | 2026-07-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

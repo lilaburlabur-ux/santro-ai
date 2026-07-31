@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-07-31T09:51:01+00:00",
-  "as_of_local": "2026-07-31 09:51:01 UTC",
+  "as_of_utc": "2026-07-31T09:56:03+00:00",
+  "as_of_local": "2026-07-31 09:56:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 195.04,
-      "previous_close": 190.01,
-      "change_pct": 2.65,
-      "market_cap": 4724063677383.423,
-      "headlines": [
-        {
-          "title": "Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day",
-          "url": "https://finance.yahoo.com/markets/article/microsofts-41-billion-ai-bet-just-cleared-a-major-test-chart-of-the-day-100000116.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-30T10:00:00Z"
-        },
-        {
-          "title": "Qualcomm's automotive segment is the highlight of Q3: CFO",
-          "url": "https://finance.yahoo.com/video/qualcomms-automotive-segment-highlight-q3-194042582.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-07-30T19:40:42Z"
-        },
-        {
-          "title": "Apple's New Leasing Program Could Spur More Upgrades. Here's What Investors Should Be Watching",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apples-leasing-program-could-spur-093500135.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-31T09:35:00Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 63667.23,
-      "change_pct": -1.63
+      "price": 63640.93,
+      "change_pct": -1.68
     },
     {
       "label": "Gold",
-      "price": 4108.4,
-      "change_pct": 0.2
+      "price": 4109.1,
+      "change_pct": 0.22
     },
     {
       "label": "Nasdaq100",

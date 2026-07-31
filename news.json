@@ -1,15 +1,44 @@
 {
- "as_of_utc": "2026-07-31T08:54:21+00:00",
+ "as_of_utc": "2026-07-31T09:14:53+00:00",
  "count": 80,
  "items": [
   {
    "title": "Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",
    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-amazon-earnings-microsoft-powers-ai-stock/?src=A00220&yptr=yahoo",
    "publisher": "Investor's Business Daily",
-   "published": "2026-07-31T08:32:08Z",
+   "published": "2026-07-31T09:04:06Z",
    "tickers": [
     "AAPL",
     "AMZN"
+   ],
+   "sectors": [
+    "ai_platforms_internet_and_adtech"
+   ]
+  },
+  {
+   "title": "MU, SKHY, NVDA, AMD, INTC Extend Rally Premarket, But Chip Stocks Still On Track For Worst Month Since 2002",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/mu-skhy-nvda-amd-intc-085017500.html",
+   "publisher": "Stocktwits",
+   "published": "2026-07-31T08:50:17Z",
+   "tickers": [
+    "AMD",
+    "INTC",
+    "NVDA",
+    "SKHY"
+   ],
+   "sectors": [
+    "ai_chips_and_compute",
+    "chip_equipment_and_ai_hardware"
+   ]
+  },
+  {
+   "title": "Will Warren Buffett and Greg Abel Make Alphabet Berkshire Hathaway's Next Apple?",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-greg-abel-alphabet-085000408.html",
+   "publisher": "Motley Fool",
+   "published": "2026-07-31T08:50:00Z",
+   "tickers": [
+    "AAPL",
+    "GOOGL"
    ],
    "sectors": [
     "ai_platforms_internet_and_adtech"
@@ -25,18 +54,6 @@
    ],
    "sectors": [
     "applied_ai_industrial_defense_and_vertical"
-   ]
-  },
-  {
-   "title": "Apple slides as supply snags cloud outlook, putting iPhone demand in focus",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/apple-slides-supply-snags-cloud-082812003.html",
-   "publisher": "Reuters",
-   "published": "2026-07-31T08:28:12Z",
-   "tickers": [
-    "AAPL"
-   ],
-   "sectors": [
-    "ai_platforms_internet_and_adtech"
    ]
   },
   {
@@ -74,18 +91,6 @@
    ],
    "sectors": [
     "ai_chips_and_compute",
-    "ai_software_and_cloud_infrastructure"
-   ]
-  },
-  {
-   "title": "Okta to acquire Permiso for cloud-native identity threat tools",
-   "url": "https://finance.yahoo.com/technology/ai/articles/okta-acquire-permiso-cloud-native-072404569.html",
-   "publisher": "Verdict",
-   "published": "2026-07-31T07:24:04Z",
-   "tickers": [
-    "OKTA"
-   ],
-   "sectors": [
     "ai_software_and_cloud_infrastructure"
    ]
   },
@@ -568,18 +573,6 @@
    ]
   },
   {
-   "title": "Micron Technology (MU) Stock Gets Fair Value Bump As AI Demand And Contracts Draw Praise",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-stock-gets-221028055.html",
-   "publisher": "Simply Wall St.",
-   "published": "2026-07-30T22:10:28Z",
-   "tickers": [
-    "MU"
-   ],
-   "sectors": [
-    "ai_chips_and_compute"
-   ]
-  },
-  {
    "title": "Has Lam Research (LRCX) Fallen Far Enough To Look Like A Bargain?",
    "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-lrcx-fallen-far-220937662.html",
    "publisher": "Simply Wall St.",
@@ -677,18 +670,6 @@
    "published": "2026-07-30T21:50:04Z",
    "tickers": [
     "AI"
-   ],
-   "sectors": [
-    "ai_software_and_cloud_infrastructure"
-   ]
-  },
-  {
-   "title": "Okta (OKTA) Rises Higher Than Market: Key Facts",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/okta-okta-rises-higher-market-215003560.html",
-   "publisher": "Zacks",
-   "published": "2026-07-30T21:50:03Z",
-   "tickers": [
-    "OKTA"
    ],
    "sectors": [
     "ai_software_and_cloud_infrastructure"
@@ -963,24 +944,24 @@
    ]
   },
   {
+   "title": "Apple exceeds Q3 earnings estimates, boasts $109.4 billion in revenue",
+   "url": "https://finance.yahoo.com/video/apple-exceeds-q3-earnings-estimates-boasts-1094-billion-in-revenue-203505015.html",
+   "publisher": "Yahoo Finance Video",
+   "published": "2026-07-30T20:35:05Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "sectors": [
+    "ai_platforms_internet_and_adtech"
+   ]
+  },
+  {
    "title": "AMD Stock Gets Powerful Vote of Confidence",
    "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-gets-powerful-vote-202832603.html",
    "publisher": "GuruFocus.com",
    "published": "2026-07-30T20:28:32Z",
    "tickers": [
     "AMD"
-   ],
-   "sectors": [
-    "ai_chips_and_compute"
-   ]
-  },
-  {
-   "title": "Nvidia Stock Is Showing Signs of Life. What\u2019s Driving the Rebound.",
-   "url": "https://www.barrons.com/articles/nvidia-stock-price-today-capex-aa091d3d?siteid=yhoof2&yptr=yahoo",
-   "publisher": "Barrons.com",
-   "published": "2026-07-30T20:28:00Z",
-   "tickers": [
-    "NVDA"
    ],
    "sectors": [
     "ai_chips_and_compute"
@@ -996,6 +977,32 @@
    ],
    "sectors": [
     "ai_software_and_cloud_infrastructure"
+   ]
+  },
+  {
+   "title": "GE Vernova vs. NuScale Power: Which Industrials Stock Is a Better Buy in 2026?",
+   "url": "https://finance.yahoo.com/energy/articles/ge-vernova-vs-nuscale-power-201117081.html",
+   "publisher": "Motley Fool",
+   "published": "2026-07-30T20:11:17Z",
+   "tickers": [
+    "GEV",
+    "SMR"
+   ],
+   "sectors": [
+    "applied_ai_industrial_defense_and_vertical",
+    "powering_ai"
+   ]
+  },
+  {
+   "title": "BigBear.ai Holdings (BBAI) Nears Q2 Results, Is The Stock A Bargain?",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/bigbear-ai-holdings-bbai-nears-200853387.html",
+   "publisher": "Simply Wall St.",
+   "published": "2026-07-30T20:08:53Z",
+   "tickers": [
+    "BBAI"
+   ],
+   "sectors": [
+    "applied_ai_industrial_defense_and_vertical"
    ]
   }
  ]

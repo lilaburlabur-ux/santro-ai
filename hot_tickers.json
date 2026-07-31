@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-31T00:27:31+00:00",
+  "as_of": "2026-07-31T00:42:41+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -89,6 +89,22 @@
   },
   {
    "rank": 6,
+   "ticker": "SKHY",
+   "company": "SK hynix Inc (ADR)",
+   "move_pct": 17.52,
+   "price": 149.0,
+   "volume": 50193854,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 82,
+   "direction": "up",
+   "why": "MU, SNDK, WDC, SKHY Stock Jump After-Hours \u2014 Memory Chipmakers Soar After Amazon, Apple Management Flag Soaring Costs, Supply Crunch",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-wdc-skhy-stock-000935089.html",
+   "published": "2026-07-31T00:09:35Z",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 7,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
    "move_pct": 13.0,
@@ -104,7 +120,7 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
    "move_pct": 12.18,
@@ -118,22 +134,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-stock-looks-stretched-221121829.html",
    "published": "2026-07-30T22:11:21Z",
    "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 8,
-   "ticker": "OKLO",
-   "company": "Oklo Inc",
-   "move_pct": 11.54,
-   "price": 41.09,
-   "volume": 9938787,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 71,
-   "direction": "up",
-   "why": "Oklo vs. NuScale: Which One Actually Has Paying Customers Lined Up?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/energy/articles/oklo-vs-nuscale-one-actually-222500998.html",
-   "published": "2026-07-30T22:25:00Z",
-   "sector": "Data Center, Power & Energy"
   }
  ]
 }

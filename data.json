@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-07-31T20:16:40+00:00",
-  "as_of_local": "2026-07-31 20:16:40 UTC",
+  "as_of_utc": "2026-07-31T20:21:17+00:00",
+  "as_of_local": "2026-07-31 20:21:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,44 +21,16 @@
           "published": "2026-07-31T14:38:24Z"
         },
         {
-          "title": "Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day",
-          "url": "https://finance.yahoo.com/markets/article/microsofts-41-billion-ai-bet-just-cleared-a-major-test-chart-of-the-day-100000116.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-07-30T10:00:00Z"
-        },
-        {
           "title": "NVIDIA Stock Rises as Amazon Lifts AI Spending",
           "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-rises-amazon-lifts-201324588.html",
           "publisher": "GuruFocus.com",
           "published": "2026-07-31T20:13:24Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 404.25,
-      "previous_close": 403.31,
-      "change_pct": 0.23,
-      "market_cap": 2096632119755.25,
-      "headlines": [
-        {
-          "title": "1 AI Stock I\u2019d Buy Before It Hits Another All-Time High",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-ai-stock-d-buy-180013623.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-07-31T18:00:13Z"
         },
         {
-          "title": "AI\u2019s Biggest Winners Today Will Share the Spotlight as Technology Spreads Across the Entire Market",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-biggest-winners-today-share-134333833.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-07-31T13:43:33Z"
-        },
-        {
-          "title": "Why Apple Needs Intel to Overcome Supply Worries",
-          "url": "https://www.barrons.com/livecoverage/apple-earnings-stock-price-ai-iphones-tim-cook/card/why-apple-needs-intel-to-overcome-supply-worries-tG3P2ZnqqxErgZ4vM28I?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-07-31T11:42:00Z"
+          "title": "Alibaba's AI Bet Is Powering a Rival",
+          "url": "https://finance.yahoo.com/technology/ai/articles/alibabas-ai-bet-powering-rival-195642545.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-07-31T19:56:42Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 62943.64,
-      "change_pct": -2.75
+      "price": 62948.61,
+      "change_pct": -2.74
     },
     {
       "label": "Gold",

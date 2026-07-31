@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-07-31T00:57:43+00:00",
+  "as_of": "2026-07-31T02:09:08+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,22 +9,6 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "MSFT",
-   "company": "Microsoft Corp",
-   "move_pct": 15.51,
-   "price": 451.1,
-   "volume": 109342280,
-   "volume_vs_avg": "~3x",
-   "heat_score": 91,
-   "direction": "up",
-   "why": "S&P 500, Nasdaq End Best Day In A Month On Support From Microsoft Gains, AI Stocks  \u2014 ORCL, GOOGL, MSFT, BE, TSLA Stock In Focus",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-end-best-215800993.html",
-   "published": "2026-07-30T21:58:00Z",
-   "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
-   "rank": 2,
    "ticker": "LRCX",
    "company": "Lam Research Corp",
    "move_pct": 17.98,
@@ -40,7 +24,7 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "ticker": "MU",
    "company": "Micron Technology Inc",
    "move_pct": 18.36,
@@ -56,23 +40,7 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 4,
-   "ticker": "AMAT",
-   "company": "Applied Materials Inc",
-   "move_pct": 14.97,
-   "price": 501.77,
-   "volume": 12120342,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 83,
-   "direction": "up",
-   "why": "Top Stock Reports for Applied Materials, Sandisk & Eaton",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-applied-materials-210600838.html",
-   "published": "2026-07-30T21:06:00Z",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 5,
+   "rank": 3,
    "ticker": "TER",
    "company": "Teradyne Inc",
    "move_pct": 14.43,
@@ -88,7 +56,7 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 6,
+   "rank": 4,
    "ticker": "SKHY",
    "company": "SK hynix Inc (ADR)",
    "move_pct": 17.52,
@@ -104,7 +72,7 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 7,
+   "rank": 5,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
    "move_pct": 13.0,
@@ -120,7 +88,7 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 8,
+   "rank": 6,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
    "move_pct": 12.18,
@@ -133,6 +101,38 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-stock-looks-stretched-221121829.html",
    "published": "2026-07-30T22:11:21Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 7,
+   "ticker": "OKLO",
+   "company": "Oklo Inc",
+   "move_pct": 11.54,
+   "price": 41.09,
+   "volume": 9938787,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 71,
+   "direction": "up",
+   "why": "Oklo vs. NuScale: Which One Actually Has Paying Customers Lined Up?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/energy/articles/oklo-vs-nuscale-one-actually-222500998.html",
+   "published": "2026-07-30T22:25:00Z",
+   "sector": "Data Center, Power & Energy"
+  },
+  {
+   "rank": 8,
+   "ticker": "INTC",
+   "company": "Intel Corp",
+   "move_pct": 11.3,
+   "price": 91.13,
+   "volume": 133597656,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 70,
+   "direction": "up",
+   "why": "Intel (INTC) Just Expanded Its Foundry Tool Kit For AI Chip Customers",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-just-expanded-foundry-221101344.html",
+   "published": "2026-07-30T22:11:01Z",
    "sector": "AI Chips & Compute"
   }
  ]

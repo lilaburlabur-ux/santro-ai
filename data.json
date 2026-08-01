@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-01T19:23:31+00:00",
-  "as_of_local": "2026-08-01 19:23:31 UTC",
+  "as_of_utc": "2026-08-01T19:38:34+00:00",
+  "as_of_local": "2026-08-01 19:38:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "QCOM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -21,16 +19,16 @@
           "published": "2026-07-31T21:21:36Z"
         },
         {
+          "title": "Why EPAM Systems Stock Rocketed Higher This Week",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-epam-systems-stock-rocketed-192926598.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-01T19:29:26Z"
+        },
+        {
           "title": "History Says That Bitcoin Is an Unbelievable Bargain Right Now",
           "url": "https://finance.yahoo.com/markets/crypto/articles/history-says-bitcoin-unbelievable-bargain-190300921.html",
           "publisher": "Motley Fool",
           "published": "2026-08-01T19:03:00Z"
-        },
-        {
-          "title": "Most Income Investors Have Never Heard of These 3 Bond ETFs Paying Over 10 Percent Monthly",
-          "url": "https://finance.yahoo.com/markets/options/articles/most-income-investors-never-heard-183352042.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-01T18:33:52Z"
         }
       ]
     },
@@ -227,6 +225,34 @@
           "url": "https://www.barrons.com/articles/stock-movers-e7d1ed18?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-07-31T21:06:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "price": 147.61,
+      "previous_close": 151.6,
+      "change_pct": -2.63,
+      "market_cap": 154990500640.86914,
+      "headlines": [
+        {
+          "title": "Marvell Technology Is Betting More Of Its Revenue On One End Market",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-betting-more-revenue-170929913.html",
+          "publisher": "Trefis",
+          "published": "2026-07-31T17:09:29Z"
+        },
+        {
+          "title": "Qualcomm\u2019s Next Growth Engine Could Send Shares Much Higher",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-next-growth-engine-could-160013428.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-07-31T16:00:13Z"
+        },
+        {
+          "title": "Rivian Sinks 8% Despite Q2 Beat and Raised Guidance; Lucid Falls 6%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rivian-sinks-8-despite-q2-151429091.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-07-31T15:14:29Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 62439.72,
-      "change_pct": -0.6
+      "price": 62425.68,
+      "change_pct": -0.62
     },
     {
       "label": "Gold",

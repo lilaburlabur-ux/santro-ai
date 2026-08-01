@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-01T19:56:58+00:00",
-  "as_of_local": "2026-08-01 19:56:58 UTC",
+  "as_of_utc": "2026-08-01T20:02:06+00:00",
+  "as_of_local": "2026-08-01 20:02:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-07-31T21:21:36Z"
         },
         {
+          "title": "3 Stocks Smart Quantum Computing Investors Are Buying",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-smart-quantum-computing-195500282.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-01T19:55:00Z"
+        },
+        {
           "title": "Why EPAM Systems Stock Rocketed Higher This Week",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-epam-systems-stock-rocketed-192926598.html",
           "publisher": "Motley Fool",
           "published": "2026-08-01T19:29:26Z"
-        },
-        {
-          "title": "History Says That Bitcoin Is an Unbelievable Bargain Right Now",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/history-says-bitcoin-unbelievable-bargain-190300921.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-01T19:03:00Z"
         }
       ]
     },
@@ -253,34 +255,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/rivian-sinks-8-despite-q2-151429091.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-07-31T15:14:29Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 229.16,
-      "previous_close": 245.16,
-      "change_pct": -6.53,
-      "market_cap": 57785943037.292786,
-      "headlines": [
-        {
-          "title": "AMBA Stock Rockets 18% On NXP Buyout Talks For Self-Driving Chip Maker",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amba-stock-rockets-18-nxp-005650499.html",
-          "publisher": "Stocktwits",
-          "published": "2026-08-01T00:56:50Z"
-        },
-        {
-          "title": "Sector Update: Tech Stocks Mixed Late Afternoon",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-afternoon-194133265.html",
-          "publisher": "MT Newswires",
-          "published": "2026-07-31T19:41:33Z"
-        },
-        {
-          "title": "Ambarella reportedly in talks to be acquired by NXP Semiconductors, shares spike",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ambarella-reportedly-talks-acquired-nxp-173701702.html",
-          "publisher": "Investing.com",
-          "published": "2026-07-31T17:37:01Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 62473.94,
-      "change_pct": -0.54
+      "price": 62437.06,
+      "change_pct": -0.6
     },
     {
       "label": "Gold",

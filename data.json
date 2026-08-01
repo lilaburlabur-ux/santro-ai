@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-01T06:19:18+00:00",
-  "as_of_local": "2026-08-01 06:19:18 UTC",
+  "as_of_utc": "2026-08-01T06:34:31+00:00",
+  "as_of_local": "2026-08-01 06:34:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-07-31T12:18:32Z"
         },
         {
-          "title": "Here's What Billionaire Bill Ackman Would Buy if He Were Just Getting Started With $1,000",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-billionaire-bill-ackman-buy-055000687.html",
+          "title": "Starbucks vs. Chipotle: Both Restaurants Are Seeing Turnarounds, but Which Stock Is the Better Buy Today?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/starbucks-vs-chipotle-both-restaurants-062500903.html",
           "publisher": "Motley Fool",
-          "published": "2026-08-01T05:50:00Z"
+          "published": "2026-08-01T06:25:00Z"
         }
       ]
     },
@@ -101,6 +103,18 @@
           "url": "https://finance.yahoo.com/technology/article/apple-ceo-tim-cook-says-this-100-year-flood-wont-be-receding-anytime-soon-121832016.html",
           "publisher": "Yahoo Finance",
           "published": "2026-07-31T12:18:32Z"
+        },
+        {
+          "title": "Amazon, Apple, Microsoft, Micron, Roblox, Reddit, SK Hynix, and More Stocks That Explain Today\u2019s Market",
+          "url": "https://www.barrons.com/articles/stock-movers-e7d1ed18?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-07-31T21:06:00Z"
+        },
+        {
+          "title": "Micron Stock Falls. Here\u2019s What\u2019s Overshadowing Big Tech Spending.",
+          "url": "https://www.barrons.com/articles/micron-stock-price-apple-cook-8ea028d6?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-07-31T20:41:00Z"
         }
       ]
     },
@@ -241,34 +255,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/rivian-sinks-8-despite-q2-151429091.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-07-31T15:14:29Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 229.16,
-      "previous_close": 245.16,
-      "change_pct": -6.53,
-      "market_cap": 57785943037.292786,
-      "headlines": [
-        {
-          "title": "AMBA Stock Rockets 18% On NXP Buyout Talks For Self-Driving Chip Maker",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amba-stock-rockets-18-nxp-005650499.html",
-          "publisher": "Stocktwits",
-          "published": "2026-08-01T00:56:50Z"
-        },
-        {
-          "title": "Sector Update: Tech Stocks Mixed Late Afternoon",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-afternoon-194133265.html",
-          "publisher": "MT Newswires",
-          "published": "2026-07-31T19:41:33Z"
-        },
-        {
-          "title": "Ambarella reportedly in talks to be acquired by NXP Semiconductors, shares spike",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ambarella-reportedly-talks-acquired-nxp-173701702.html",
-          "publisher": "Investing.com",
-          "published": "2026-07-31T17:37:01Z"
         }
       ]
     },
@@ -573,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 62950.02,
-      "change_pct": -2.74
+      "price": 62992.2,
+      "change_pct": -2.68
     },
     {
       "label": "Gold",

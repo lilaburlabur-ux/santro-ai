@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-01T17:40:47+00:00",
-  "as_of_local": "2026-08-01 17:40:47 UTC",
+  "as_of_utc": "2026-08-01T17:55:50+00:00",
+  "as_of_local": "2026-08-01 17:55:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/snowflake-snow-joins-cursor-program-170800547.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-01T17:08:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 404.25,
-      "previous_close": 403.31,
-      "change_pct": 0.23,
-      "market_cap": 2096632119755.25,
-      "headlines": [
-        {
-          "title": "Should You Buy Billionaire Investor Chase Coleman\u2019s Top 5 Growth Stocks in August?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-billionaire-investor-chase-coleman-143036832.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-01T14:30:36Z"
-        },
-        {
-          "title": "AI Isn\u2019t a Catch-All Trade for Stocks in This Earnings Season",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-isn-t-catch-trade-120000618.html",
-          "publisher": "Bloomberg",
-          "published": "2026-08-01T12:00:00Z"
-        },
-        {
-          "title": "TSMC is quietly borrowing a page from Intel's playbook",
-          "url": "https://finance.yahoo.com/technology/articles/tsmc-quietly-borrowing-page-intels-023300464.html",
-          "publisher": "TheStreet",
-          "published": "2026-08-01T02:33:00Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 62721.51,
-      "change_pct": -0.15
+      "price": 62643.16,
+      "change_pct": -0.27
     },
     {
       "label": "Gold",

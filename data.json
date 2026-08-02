@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-02T04:03:15+00:00",
-  "as_of_local": "2026-08-02 04:03:15 UTC",
+  "as_of_utc": "2026-08-02T04:18:10+00:00",
+  "as_of_local": "2026-08-02 04:18:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -151,7 +151,26 @@
       "previous_close": 91.13,
       "change_pct": -1.02,
       "market_cap": 454968784606.9336,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance",
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-reportedly-developing-advanced-chip-220022568.html",
+          "publisher": "Benzinga",
+          "published": "2026-08-01T22:00:22Z"
+        },
+        {
+          "title": "Here's What Morgan Stanley Says About Buying the AI Infrastructure Dip",
+          "url": "https://finance.yahoo.com/technology/ai/articles/heres-morgan-stanley-says-buying-161800106.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-01T16:18:00Z"
+        },
+        {
+          "title": "The 5 Most Interesting Analyst Questions From Intel\u2019s Q2 Earnings Call",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-155557123.html",
+          "publisher": "StockStory",
+          "published": "2026-08-01T15:55:57Z"
+        }
+      ]
     },
     {
       "symbol": "ARM",
@@ -566,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 63443.29,
-      "change_pct": 1.0
+      "price": 63448.22,
+      "change_pct": 1.01
     },
     {
       "label": "Gold",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-02T07:11:46+00:00",
-  "as_of_local": "2026-08-02 07:11:46 UTC",
+  "as_of_utc": "2026-08-02T07:26:42+00:00",
+  "as_of_local": "2026-08-02 07:26:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": 2.93,
       "market_cap": 4862365750000.0,
       "headlines": [
+        {
+          "title": "Don't Buy Strategy Stock When You Can Just Buy Bitcoin",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/dont-buy-strategy-stock-just-070500345.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-02T07:05:00Z"
+        },
         {
           "title": "If the $1.3 Trillion Chip Stock Sell-Off Was a Warning for the S&P 500, History Repeatedly Suggests 1 Move to Avoid",
           "url": "https://finance.yahoo.com/markets/stocks/articles/1-3-trillion-chip-stock-062000507.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-named-mark-zuckerbergs-055000601.html",
           "publisher": "Motley Fool",
           "published": "2026-08-02T05:50:00Z"
-        },
-        {
-          "title": "Cathie Wood Is Buying SpaceX Stock as it Sinks 50% Below Its Post-IPO High. Should You Follow Her?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buying-spacex-stock-045000285.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-02T04:50:00Z"
         }
       ]
     },
@@ -197,34 +199,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/1-key-metric-watch-could-123500979.html",
           "publisher": "Motley Fool",
           "published": "2026-07-31T12:35:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 187.56,
-      "previous_close": 183.3,
-      "change_pct": 2.32,
-      "market_cap": 168343429786.60944,
-      "headlines": [
-        {
-          "title": "Stocks to Watch: Apple, Amazon, SK Hynix, Roblox",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-31-2026/card/stocks-to-watch-apple-amazon-sk-hynix-samsung-roblox-UVBiwSE6WbBhfL3eozHj?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-07-31T21:58:44Z"
-        },
-        {
-          "title": "Marvell Technology (MRVL) Exceeds Market Returns: Some Facts to Consider",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-mrvl-exceeds-market-214503407.html",
-          "publisher": "Zacks",
-          "published": "2026-07-31T21:45:03Z"
-        },
-        {
-          "title": "Amazon, Apple, Microsoft, Micron, Roblox, Reddit, SK Hynix, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-e7d1ed18?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-07-31T21:06:00Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 63421.98,
-      "change_pct": 1.05
+      "price": 63414.0,
+      "change_pct": 1.04
     },
     {
       "label": "Gold",

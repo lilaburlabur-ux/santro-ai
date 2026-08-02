@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-02T01:13:07+00:00",
-  "as_of_local": "2026-08-02 01:13:07 UTC",
+  "as_of_utc": "2026-08-02T01:28:05+00:00",
+  "as_of_local": "2026-08-02 01:28:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-155557123.html",
           "publisher": "StockStory",
           "published": "2026-08-01T15:55:57Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 239.69,
-      "previous_close": 241.54,
-      "change_pct": -0.77,
-      "market_cap": 255988579611.02838,
-      "headlines": [
-        {
-          "title": "A $2 Billion Reason to Buy Arm Holdings Stock Now",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-billion-reason-buy-arm-140002670.html",
-          "publisher": "Barchart",
-          "published": "2026-08-01T14:00:02Z"
-        },
-        {
-          "title": "Delivering Measurable AI Strategies: ICR CEO Anton Nicholas, Live at Nasdaq",
-          "url": "https://finance.yahoo.com/technology/ai/articles/delivering-measurable-ai-strategies-icr-160414289.html",
-          "publisher": "IPO-Edge.com",
-          "published": "2026-07-31T16:04:14Z"
-        },
-        {
-          "title": "1 Key Metric To Watch That Could Send Arm Stock Soaring",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-key-metric-watch-could-123500979.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-31T12:35:00Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 62872.95,
-      "change_pct": 0.09
+      "price": 62917.69,
+      "change_pct": 0.17
     },
     {
       "label": "Gold",

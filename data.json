@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-03T10:16:46+00:00",
-  "as_of_local": "2026-08-03 10:16:46 UTC",
+  "as_of_utc": "2026-08-03T10:21:49+00:00",
+  "as_of_local": "2026-08-03 10:21:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 4862365750000.0,
       "headlines": [
         {
+          "title": "Oracle\u2019s Massive AI Bet Has Already Cost Larry Ellison $207 Billion. Analyst Warns the AI Bubble Is 17 Times Bigger Than the Dot-Com Bubble.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/oracle-massive-ai-bet-already-101853108.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-03T10:18:53Z"
+        },
+        {
           "title": "15% Of Israel Englander's $240 Billion Millennium Portfolio Sits in Just 10 Stocks",
           "url": "https://finance.yahoo.com/markets/stocks/articles/15-israel-englanders-240-billion-100100377.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/had-1-000-invest-today-093500140.html",
           "publisher": "Motley Fool",
           "published": "2026-08-03T09:35:00Z"
-        },
-        {
-          "title": "P&G Guided Below Estimates and Sits 5% Above a 52-Week Low. I'm Not Buying It Yet, and Here's What Would Change That.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-g-guided-below-estimates-092900052.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-03T09:29:00Z"
         }
       ]
     },
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": null,
-      "change_pct": 0.0,
+      "price": 50.37,
+      "change_pct": -3.76,
       "holdings": [
         {
           "symbol": "MU",
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": null,
-    "change_pct": 0.0,
+    "price": 50.37,
+    "change_pct": -3.76,
     "holdings": [
       {
         "symbol": "MU",
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 62710.41,
-      "change_pct": -1.22
+      "price": 62713.54,
+      "change_pct": -1.21
     },
     {
       "label": "Gold",
-      "price": 4110.9,
-      "change_pct": 1.53
+      "price": 4112.3,
+      "change_pct": 1.56
     },
     {
       "label": "Nasdaq100",

@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-03T09:56:28+00:00",
+  "as_of": "2026-08-03T10:11:46+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "AMBA",
-   "company": "Ambarella Inc",
-   "move_pct": -1.16,
-   "price": 85.0,
-   "volume": 9177800,
-   "volume_vs_avg": "~5x",
-   "heat_score": 44,
-   "direction": "down",
-   "why": "Strength Seen in Ambarella (AMBA): Can Its 16.1% Jump Turn into More Strength?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/strength-seen-ambarella-amba-16-060800443.html",
-   "published": "2026-08-03T06:08:00Z",
-   "sector": "Chip Equipment & AI Hardware"
-  }
- ]
+ "hot_tickers": []
 }

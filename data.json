@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-03T02:19:25+00:00",
-  "as_of_local": "2026-08-03 02:19:25 UTC",
+  "as_of_utc": "2026-08-03T02:34:24+00:00",
+  "as_of_local": "2026-08-03 02:34:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -313,34 +315,6 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 149.37,
-      "previous_close": 146.57,
-      "change_pct": 1.91,
-      "market_cap": 7559321193.9904785,
-      "headlines": [
-        {
-          "title": "AeroVironment (AVAV): Buy, Sell, or Hold Post Q1 Earnings?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-buy-sell-hold-085957116.html",
-          "publisher": "StockStory",
-          "published": "2026-08-01T08:59:57Z"
-        },
-        {
-          "title": "The U.S. Just Took A Big Step to Break China's Magnet Dominance",
-          "url": "https://finance.yahoo.com/energy/articles/u-just-took-big-step-000000238.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-07-31T00:00:00Z"
-        },
-        {
-          "title": "AeroVironment (AVAV) Surpasses Market Returns: Some Facts Worth Knowing",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-surpasses-market-returns-221502761.html",
-          "publisher": "Zacks",
-          "published": "2026-07-28T22:15:02Z"
-        }
-      ]
-    },
-    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 107.32,
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -6.81,
-          "price": 1601000.0,
+          "change_pct": -6.34,
+          "price": 1609000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -7.05,
-          "price": 244000.0,
+          "change_pct": -6.67,
+          "price": 245000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 8.56,
-          "price": 50480.0,
+          "change_pct": 7.83,
+          "price": 50140.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -6.81,
-        "price": 1601000.0,
+        "change_pct": -6.34,
+        "price": 1609000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -7.05,
-        "price": 244000.0,
+        "change_pct": -6.67,
+        "price": 245000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 8.56,
-        "price": 50480.0,
+        "change_pct": 7.83,
+        "price": 50140.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 63144.63,
-      "change_pct": 0.61
+      "price": 63065.35,
+      "change_pct": 0.48
     },
     {
       "label": "Gold",
-      "price": 4112.0,
-      "change_pct": 1.55
+      "price": 4111.0,
+      "change_pct": 1.53
     },
     {
       "label": "Nasdaq100",

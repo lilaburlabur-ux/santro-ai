@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-03T13:19:01+00:00",
+  "as_of": "2026-08-03T13:34:07+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "MU",
+   "company": "Micron Technology Inc",
+   "move_pct": -5.94,
+   "price": 774.16,
+   "volume": 5021312,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 36,
+   "direction": "down",
+   "why": "Micron Stock Falls as Chinese Memory Threat Intensifies",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.barrons.com/articles/micron-stock-price-memory-china-32e96f8f?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-08-03T11:05:00Z",
+   "sector": "AI Chips & Compute"
+  }
+ ]
 }

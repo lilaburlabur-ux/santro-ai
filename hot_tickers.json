@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-03T00:58:45+00:00",
+  "as_of": "2026-08-03T08:15:50+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,51 +9,19 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "AMZN",
-   "company": "Amazon.com Inc",
-   "move_pct": 15.32,
-   "price": 271.58,
-   "volume": 128881300,
-   "volume_vs_avg": "~2x",
-   "heat_score": 89,
-   "direction": "up",
-   "why": "Is Amazon Stock a Buy After CEO Andy Jassy's $1 Trillion AWS Revenue Prediction?",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-buy-ceo-andy-002000017.html",
-   "published": "2026-08-03T00:20:00Z",
-   "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 2,
    "ticker": "AMBA",
    "company": "Ambarella Inc",
-   "move_pct": 16.08,
-   "price": 86.0,
+   "move_pct": 0.2,
+   "price": 86.17,
    "volume": 9177800,
    "volume_vs_avg": "~5x",
-   "heat_score": 87,
+   "heat_score": 41,
    "direction": "up",
-   "why": "Moving up 16.1% on ~5x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 3,
-   "ticker": "AAPL",
-   "company": "Apple Inc",
-   "move_pct": -7.35,
-   "price": 308.91,
-   "volume": 132275300,
-   "volume_vs_avg": "~2x",
-   "heat_score": 51,
-   "direction": "down",
-   "why": "iPhone Prices to Go up as Memory Chip Costs Keep Climbing? Tim Cook Says Apple Is 'Evaluating All Options'",
+   "why": "Strength Seen in Ambarella (AMBA): Can Its 16.1% Jump Turn into More Strength?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/iphone-prices-memory-chip-costs-233015289.html",
-   "published": "2026-08-02T23:30:15Z",
-   "sector": "AI Platforms, Internet & AdTech"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/strength-seen-ambarella-amba-16-060800443.html",
+   "published": "2026-08-03T06:08:00Z",
+   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

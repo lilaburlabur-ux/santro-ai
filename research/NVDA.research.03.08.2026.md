@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech stocks today: Microsoft, Amazon jump after last week's strong earnings | Yahoo Finance | 2026-08-03 |
+| Tech stocks rally to kick off August. Can chipmakers keep up with demand? | Yahoo Finance Video | 2026-08-03 |
+| AMD vs. Sandisk: Which company will get some post-earnings market love? | Yahoo Finance Video | 2026-08-03 |
 | This valuation signal shows how investors are rethinking tech stocks | Yahoo Finance | 2026-08-03 |
 | Why The Bancorp Stock Popped Again Today | Motley Fool | 2026-08-03 |
-| Rivian Cuts Spending by $250 Million -- Here's What the New Guidance Means for Investors | Motley Fool | 2026-08-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

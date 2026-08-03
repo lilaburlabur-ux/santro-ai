@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-03T02:39:42+00:00",
-  "as_of_local": "2026-08-03 02:39:42 UTC",
+  "as_of_utc": "2026-08-03T02:54:42+00:00",
+  "as_of_local": "2026-08-03 02:54:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 4862365750000.0,
       "headlines": [
         {
+          "title": "Why Microsoft Stock Is Surging",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-microsoft-stock-surging-023519521.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-03T02:35:19Z"
+        },
+        {
           "title": "The Fed Held Interest Rates Steady for a 2nd Straight Meeting Under Kevin Warsh, With 3 Officials Dissenting. Here's What Investors Should Expect Next.",
           "url": "https://finance.yahoo.com/economy/policy/articles/fed-held-interest-rates-steady-015000677.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/greg-abels-berkshire-hathaway-next-013500121.html",
           "publisher": "Motley Fool",
           "published": "2026-08-03T01:35:00Z"
-        },
-        {
-          "title": "IonQ Is Worth $13 Billion and Sits 58% Below Its High. Here's What Has to Go Right.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-worth-13-billion-sits-011300610.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-03T01:13:00Z"
         }
       ]
     },
@@ -131,16 +131,16 @@
           "published": "2026-08-02T18:00:00Z"
         },
         {
+          "title": "Dow, S&P 500, Nasdaq Futures Climb As Markets Gear Up For Another Key Earnings Week: USO, PLTR, CRML, IONQ Stocks In Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-021728926.html",
+          "publisher": "Stocktwits",
+          "published": "2026-08-03T02:17:28Z"
+        },
+        {
           "title": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-08-03T01:59:56Z"
-        },
-        {
-          "title": "Jeff Bezos Backed a $2.6 Billion AI Startup That's Partnering With Nvidia and Meta on New Chip Materials",
-          "url": "https://finance.yahoo.com/technology/ai/articles/jeff-bezos-backed-2-6-233300700.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-02T23:33:00Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -6.64,
-          "price": 1604000.0,
+          "change_pct": -7.39,
+          "price": 1591000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -6.67,
-          "price": 245000.0,
+          "change_pct": -7.43,
+          "price": 243000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 6.54,
-          "price": 49540.0,
+          "change_pct": 6.86,
+          "price": 49690.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -6.64,
-        "price": 1604000.0,
+        "change_pct": -7.39,
+        "price": 1591000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -6.67,
-        "price": 245000.0,
+        "change_pct": -7.43,
+        "price": 243000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 6.54,
-        "price": 49540.0,
+        "change_pct": 6.86,
+        "price": 49690.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63106.91,
-      "change_pct": 0.55
+      "price": 63065.98,
+      "change_pct": 0.48
     },
     {
       "label": "Gold",
-      "price": 4113.6,
-      "change_pct": 1.59
+      "price": 4115.5,
+      "change_pct": 1.64
     },
     {
       "label": "Nasdaq100",

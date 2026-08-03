@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-03T00:28:21+00:00",
-  "as_of_local": "2026-08-03 00:28:21 UTC",
+  "as_of_utc": "2026-08-03T00:33:25+00:00",
+  "as_of_local": "2026-08-03 00:33:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 4862365750000.0,
       "headlines": [
         {
+          "title": "Is Amazon Stock a Buy After CEO Andy Jassy's $1 Trillion AWS Revenue Prediction?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-buy-ceo-andy-002000017.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-03T00:20:00Z"
+        },
+        {
           "title": "Stocks Are Overvalued. Cryptocurrencies Are Cheap, and Are Stacking Revenue. Is Now a Good Time to Buy?",
           "url": "https://finance.yahoo.com/markets/crypto/articles/stocks-overvalued-cryptocurrencies-cheap-stacking-235000208.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-huntington-ingalls-industries-stock-233405312.html",
           "publisher": "Motley Fool",
           "published": "2026-08-02T23:34:05Z"
-        },
-        {
-          "title": "Jeff Bezos Backed a $2.6 Billion AI Startup That's Partnering With Nvidia and Meta on New Chip Materials",
-          "url": "https://finance.yahoo.com/technology/ai/articles/jeff-bezos-backed-2-6-233300700.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-02T23:33:00Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -7.57,
-          "price": 1588000.0,
+          "change_pct": -7.33,
+          "price": 1592000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -7.62,
-          "price": 242500.0,
+          "change_pct": -7.52,
+          "price": 242750.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -0.32,
-          "price": 46350.0,
+          "change_pct": 7.1,
+          "price": 49800.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -7.57,
-        "price": 1588000.0,
+        "change_pct": -7.33,
+        "price": 1592000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -7.62,
-        "price": 242500.0,
+        "change_pct": -7.52,
+        "price": 242750.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -0.32,
-        "price": 46350.0,
+        "change_pct": 7.1,
+        "price": 49800.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63283.51,
-      "change_pct": 0.83
+      "price": 63221.93,
+      "change_pct": 0.73
     },
     {
       "label": "Gold",
-      "price": 4126.0,
-      "change_pct": 1.9
+      "price": 4124.0,
+      "change_pct": 1.85
     },
     {
       "label": "Nasdaq100",

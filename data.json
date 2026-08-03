@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-03T10:42:12+00:00",
-  "as_of_local": "2026-08-03 10:42:12 UTC",
+  "as_of_utc": "2026-08-03T10:47:12+00:00",
+  "as_of_local": "2026-08-03 10:47:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": 2.93,
       "market_cap": 4862365750000.0,
       "headlines": [
+        {
+          "title": "Apple Shed $426 Billion in Market Cap in 2 Days. Here's What Wall Street Is Getting Wrong.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-shed-426-billion-market-103300150.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-03T10:33:00Z"
+        },
         {
           "title": "3 Reasons to Buy Bloom Energy Stock -- and 3 Reasons to Wait",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-buy-bloom-energy-102500609.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-just-explained-why-102000559.html",
           "publisher": "Motley Fool",
           "published": "2026-08-03T10:20:00Z"
-        },
-        {
-          "title": "Oracle\u2019s Massive AI Bet Has Already Cost Larry Ellison $207 Billion. Analyst Warns the AI Bubble Is 17 Times Bigger Than the Dot-Com Bubble.",
-          "url": "https://finance.yahoo.com/technology/ai/articles/oracle-massive-ai-bet-already-101853108.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-03T10:18:53Z"
         }
       ]
     },
@@ -95,7 +97,26 @@
       "previous_close": 874.66,
       "change_pct": -5.9,
       "market_cap": 929524478155.22,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "MU Stock Falls Premarket After Worst Month In 11 Years: Analysts Say Memory Demand Intact, See 85% Upside",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mu-stock-falls-premarket-worst-093759484.html",
+          "publisher": "Stocktwits",
+          "published": "2026-08-03T09:37:59Z"
+        },
+        {
+          "title": "Some Investors Are Panicking About Memory Stocks. Micron Shareholders Should Keep a Cool Head.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-panicking-memory-stocks-micron-092000883.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-03T09:20:00Z"
+        },
+        {
+          "title": "MU, SNDK, SKHY, DRAM In Focus: Korean Stocks Dip Again, But Morgan Stanley Sees Sharp Growth Ahead",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-skhy-dram-focus-042525641.html",
+          "publisher": "Stocktwits",
+          "published": "2026-08-03T04:25:25Z"
+        }
+      ]
     },
     {
       "symbol": "AMD",
@@ -122,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/five-market-themes-investors-week-100615870.html",
           "publisher": "InvestorsHub",
           "published": "2026-08-03T10:06:15Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 90.2,
-      "previous_close": 91.13,
-      "change_pct": -1.02,
-      "market_cap": 454968784606.9336,
-      "headlines": [
-        {
-          "title": "1 Beaten-Down Semiconductor Stock That Could Make a Comeback",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-beaten-down-semiconductor-stock-133009099.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-02T13:30:09Z"
-        },
-        {
-          "title": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance",
-          "url": "https://finance.yahoo.com/technology/articles/tsmc-reportedly-developing-advanced-chip-220022568.html",
-          "publisher": "Benzinga",
-          "published": "2026-08-01T22:00:22Z"
-        },
-        {
-          "title": "Here's What Morgan Stanley Says About Buying the AI Infrastructure Dip",
-          "url": "https://finance.yahoo.com/technology/ai/articles/heres-morgan-stanley-says-buying-161800106.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-01T16:18:00Z"
         }
       ]
     },
@@ -566,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62614.5,
-      "change_pct": -1.37
+      "price": 62589.91,
+      "change_pct": -1.41
     },
     {
       "label": "Gold",
-      "price": 4109.8,
-      "change_pct": 1.5
+      "price": 4108.8,
+      "change_pct": 1.47
     },
     {
       "label": "Nasdaq100",

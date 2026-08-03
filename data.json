@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-03T11:30:21+00:00",
-  "as_of_local": "2026-08-03 11:30:21 UTC",
+  "as_of_utc": "2026-08-03T11:33:00+00:00",
+  "as_of_local": "2026-08-03 11:33:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -99,6 +97,12 @@
       "market_cap": 929524478155.22,
       "headlines": [
         {
+          "title": "The Zacks Analyst Blog Highlights Micron, Seagate, Western Digital, Sandisk and Vertiv",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-micron-101600919.html",
+          "publisher": "Zacks",
+          "published": "2026-08-03T10:16:00Z"
+        },
+        {
           "title": "Zacks.com featured highlights Micron, NVIDIA and TD SYNNEX",
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-micron-095800757.html",
           "publisher": "Zacks",
@@ -109,12 +113,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/mu-stock-falls-premarket-worst-093759484.html",
           "publisher": "Stocktwits",
           "published": "2026-08-03T09:37:59Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 476.15,
+      "previous_close": 485.39,
+      "change_pct": -1.9,
+      "market_cap": 776410484307.4535,
+      "headlines": [
+        {
+          "title": "AMD to report Q2 earnings as chip stocks continue to waver",
+          "url": "https://finance.yahoo.com/technology/article/amd-to-report-q2-earnings-as-chip-stocks-continue-to-waver-110000620.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-08-03T11:00:00Z"
         },
         {
-          "title": "Some Investors Are Panicking About Memory Stocks. Micron Shareholders Should Keep a Cool Head.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-panicking-memory-stocks-micron-092000883.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-03T09:20:00Z"
+          "title": "Earnings to watch this week: SpaceX's first earnings report, Disney, AMD, & McDonald's",
+          "url": "https://finance.yahoo.com/video/earnings-watch-week-spacexs-first-180000072.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-08-02T18:00:00Z"
+        },
+        {
+          "title": "Falling Oil Boosts Wall Street Pre-Bell; Asia Mixed, Europe Up",
+          "url": "https://finance.yahoo.com/markets/articles/falling-oil-boosts-wall-street-111121742.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-03T11:11:21Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 62619.55,
-      "change_pct": -1.36
+      "price": 62645.12,
+      "change_pct": -1.32
     },
     {
       "label": "Gold",
-      "price": 4104.1,
-      "change_pct": 1.36
+      "price": 4103.1,
+      "change_pct": 1.33
     },
     {
       "label": "Nasdaq100",

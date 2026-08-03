@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-03T01:13:59+00:00",
-  "as_of_local": "2026-08-03 01:13:59 UTC",
+  "as_of_utc": "2026-08-03T01:29:04+00:00",
+  "as_of_local": "2026-08-03 01:29:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 4862365750000.0,
       "headlines": [
         {
+          "title": "IonQ Is Worth $13 Billion and Sits 58% Below Its High. Here's What Has to Go Right.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-worth-13-billion-sits-011300610.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-03T01:13:00Z"
+        },
+        {
           "title": "Is Amazon Stock a Buy After CEO Andy Jassy's $1 Trillion AWS Revenue Prediction?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-buy-ceo-andy-002000017.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/crypto/articles/stocks-overvalued-cryptocurrencies-cheap-stacking-235000208.html",
           "publisher": "Motley Fool",
           "published": "2026-08-02T23:50:00Z"
-        },
-        {
-          "title": "Why Huntington Ingalls Industries Stock Is Heading Higher",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-huntington-ingalls-industries-stock-233405312.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-02T23:34:05Z"
         }
       ]
     },
@@ -134,7 +134,7 @@
           "title": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-08-03T01:06:08Z"
+          "published": "2026-08-03T01:21:33Z"
         },
         {
           "title": "Jeff Bezos Backed a $2.6 Billion AI Startup That's Partnering With Nvidia and Meta on New Chip Materials",
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -6.75,
-          "price": 1602000.0,
+          "change_pct": -6.64,
+          "price": 1604000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -7.05,
-          "price": 244000.0,
+          "change_pct": -6.86,
+          "price": 244500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 8.62,
-          "price": 50510.0,
+          "change_pct": 9.61,
+          "price": 50970.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 9.91,
-          "price": 360.5,
+          "change_pct": 8.6,
+          "price": 391.5,
           "currency": "TWD"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 9.7,
-          "price": 130.0,
+          "change_pct": 9.62,
+          "price": 142.5,
           "currency": "TWD"
         }
       ]
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -6.75,
-        "price": 1602000.0,
+        "change_pct": -6.64,
+        "price": 1604000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -7.05,
-        "price": 244000.0,
+        "change_pct": -6.86,
+        "price": 244500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 8.62,
-        "price": 50510.0,
+        "change_pct": 9.61,
+        "price": 50970.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 9.91,
-        "price": 360.5,
+        "change_pct": 8.6,
+        "price": 391.5,
         "currency": "TWD"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 9.7,
-        "price": 130.0,
+        "change_pct": 9.62,
+        "price": 142.5,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63150.01,
-      "change_pct": 0.62
+      "price": 63072.4,
+      "change_pct": 0.49
     },
     {
       "label": "Gold",
-      "price": 4113.4,
-      "change_pct": 1.59
+      "price": 4105.9,
+      "change_pct": 1.4
     },
     {
       "label": "Nasdaq100",

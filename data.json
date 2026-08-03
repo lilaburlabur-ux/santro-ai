@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-03T10:11:37+00:00",
-  "as_of_local": "2026-08-03 10:11:37 UTC",
+  "as_of_utc": "2026-08-03T10:16:46+00:00",
+  "as_of_local": "2026-08-03 10:16:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 4862365750000.0,
       "headlines": [
         {
+          "title": "15% Of Israel Englander's $240 Billion Millennium Portfolio Sits in Just 10 Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/15-israel-englanders-240-billion-100100377.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-03T10:01:00Z"
+        },
+        {
           "title": "If I Had $1,000 to Invest Today, Here's the Trillion-Dollar Stock I'd Buy Instead of SpaceX",
           "url": "https://finance.yahoo.com/markets/stocks/articles/had-1-000-invest-today-093500140.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/p-g-guided-below-estimates-092900052.html",
           "publisher": "Motley Fool",
           "published": "2026-08-03T09:29:00Z"
-        },
-        {
-          "title": "Warren Buffett's Successor, Greg Abel, Started His Tenure With a Bang by Slashing Berkshire's Chevron Stake and Making a Virtual Monopoly the New No. 5 Holding",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-successor-greg-abel-092600558.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-03T09:26:00Z"
         }
       ]
     },
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 50.37,
-      "change_pct": -3.76,
+      "price": null,
+      "change_pct": 0.0,
       "holdings": [
         {
           "symbol": "MU",
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 50.37,
-    "change_pct": -3.76,
+    "price": null,
+    "change_pct": 0.0,
     "holdings": [
       {
         "symbol": "MU",
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 62700.44,
-      "change_pct": -1.23
+      "price": 62710.41,
+      "change_pct": -1.22
     },
     {
       "label": "Gold",
-      "price": 4110.8,
-      "change_pct": 1.52
+      "price": 4110.9,
+      "change_pct": 1.53
     },
     {
       "label": "Nasdaq100",

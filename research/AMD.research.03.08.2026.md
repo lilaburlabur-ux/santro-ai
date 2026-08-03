@@ -1,11 +1,11 @@
 # AMD Research Report
-**AMD** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Advanced Micro Devices, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `AMD.research.03.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $484.64 (2026-08-03, ~15-min delayed) |
-| Market cap | — |
+| Market cap | $790.25B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
@@ -38,8 +38,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 |---|---|---|
 | Tech stocks rally to kick off August. Can chipmakers keep up with demand? | Yahoo Finance Video | 2026-08-03 |
 | Semiconductor stocks pare losses amid fears of increased competition from China | Yahoo Finance | 2026-08-03 |
+| S&P500, Nasdaq End Higher, Dow Hits Record High On Strong Mag 7 Performance And Falling Oil Prices — BA, XOM, CVX, HOOD, AMD In Focus | Stocktwits | 2026-08-03 |
 | Citi Has a Bullish Message for AMD Stock Investors | GuruFocus.com | 2026-08-03 |
-| Update: Dow Hits Record High as Oil Prices Slide on Iran Deal Hopes | MT Newswires | 2026-08-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Revenue (ttm) | $37.45B | Revenue growth 37.80% y/y |
 | Profitability | Gross 53.06%, operating 14.40%, net 13.37% | ROA 3.65%, ROE 8.06% |
 | Balance sheet | Cash $12.35B, debt $3.87B | Current ratio 2.73, debt/equity 6.00 |
-| Valuation | P/E 161.55, forward P/E 34.82, P/S —, P/B 12.25 | EV/Sales 20.50, EV/EBITDA 103.36 |
+| Valuation | P/E 161.55, forward P/E 34.82, P/S 21.10, P/B 12.25 | EV/Sales 20.50, EV/EBITDA 103.36 |
 | Growth expectations | Earnings growth 91.20%, EPS q/q 95.10% | Analyst mean target $579.11 (47 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $484.64 | EV/Sales | 20.50 |
-| Market cap | — | EV/EBITDA | 103.36 |
+| Market cap | $790.25B | EV/EBITDA | 103.36 |
 | Beta | 2.49 | Gross margin | 53.06% |
 | RSI(14) | 46.7 | Operating margin | 14.40% |
 | ATR(14) | 40.00 | Profit margin | 13.37% |
@@ -124,7 +124,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | P/E (ttm) | 161.55 | Insider ownership | 0.40% |
 | Forward P/E | 34.82 | Short float | 2.45% |
 | PEG (trailing) | 1.12 | Avg volume | 33,033,696 |
-| P/S | — | Employees | 31,000 |
+| P/S | 21.10 | Employees | 31,000 |
 | P/B | 12.25 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions

@@ -39,7 +39,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Tech stocks rally to kick off August. Can chipmakers keep up with demand? | Yahoo Finance Video | 2026-08-03 |
 | AMD vs. Sandisk: Which company will get some post-earnings market love? | Yahoo Finance Video | 2026-08-03 |
 | This valuation signal shows how investors are rethinking tech stocks | Yahoo Finance | 2026-08-03 |
-| Why The Bancorp Stock Popped Again Today | Motley Fool | 2026-08-03 |
+| The Most Important Number in Palantir's Earnings Report Was 134% | Motley Fool | 2026-08-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

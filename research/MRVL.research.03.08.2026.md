@@ -37,9 +37,9 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Headline | Source | Date |
 |---|---|---|
 | Semiconductor stocks pare losses amid fears of increased competition from China | Yahoo Finance | 2026-08-03 |
+| Top Research Reports for Amazon, Marvell & Starbucks | Zacks | 2026-08-03 |
+| Photonics: The Next Big AI Investment Opportunity? | Zacks | 2026-08-03 |
 | Marvell (MRVL) Is Putting $250 Million Into India To Grow AI Chip R and D | Simply Wall St. | 2026-08-03 |
-| FTSE 100 Live: London lagging as AstraZeneca plunges and commodities slip | Proactive | 2026-08-03 |
-| Stocks to Watch: Apple, Amazon, SK Hynix, Roblox | The Wall Street Journal | 2026-07-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

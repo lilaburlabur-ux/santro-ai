@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-03T14:00:22+00:00",
+  "as_of": "2026-08-03T14:15:28+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,83 +9,35 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "ORCL",
-   "company": "Oracle Corp",
-   "move_pct": 6.53,
-   "price": 138.35,
-   "volume": 10099119,
-   "volume_vs_avg": "~0.3x",
+   "ticker": "META",
+   "company": "Meta Platforms Inc",
+   "move_pct": 6.44,
+   "price": 592.54,
+   "volume": 7560545,
+   "volume_vs_avg": "~0.4x",
    "heat_score": 39,
    "direction": "up",
    "why": "Microsoft and Amazon Won the AI Spending Week. Alphabet, Meta, and Oracle Didn't. Now What?",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/technology/ai/articles/microsoft-amazon-won-ai-spending-125700641.html",
    "published": "2026-08-03T12:57:00Z",
-   "sector": "AI Software & Cloud Infrastructure"
+   "sector": "AI Platforms, Internet & AdTech"
   },
   {
    "rank": 2,
    "ticker": "UPST",
    "company": "Upstart Holdings Inc",
-   "move_pct": 6.49,
-   "price": 29.22,
-   "volume": 672771,
+   "move_pct": 5.65,
+   "price": 28.99,
+   "volume": 890792,
    "volume_vs_avg": "~0.2x",
-   "heat_score": 39,
+   "heat_score": 36,
    "direction": "up",
    "why": "Upstart (UPST) Reports Earnings Tomorrow: What To Expect",
    "catalyst_type": "earnings",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/upstart-upst-reports-earnings-tomorrow-130122949.html",
    "published": "2026-08-03T13:01:22Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 3,
-   "ticker": "META",
-   "company": "Meta Platforms Inc",
-   "move_pct": 5.91,
-   "price": 589.59,
-   "volume": 5873624,
-   "volume_vs_avg": "~0.3x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "Microsoft and Amazon Won the AI Spending Week. Alphabet, Meta, and Oracle Didn't. Now What?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/microsoft-amazon-won-ai-spending-125700641.html",
-   "published": "2026-08-03T12:57:00Z",
-   "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 4,
-   "ticker": "MSFT",
-   "company": "Microsoft Corp",
-   "move_pct": 5.35,
-   "price": 489.6,
-   "volume": 16210096,
-   "volume_vs_avg": "~0.4x",
-   "heat_score": 36,
-   "direction": "up",
-   "why": "678 Billion Reasons to Invest in Microsoft Stock",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/678-billion-reasons-invest-microsoft-133500366.html",
-   "published": "2026-08-03T13:35:00Z",
-   "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
-   "rank": 5,
-   "ticker": "BABA",
-   "company": "Alibaba Group Holding Ltd ADR",
-   "move_pct": 5.36,
-   "price": 128.8,
-   "volume": 4831225,
-   "volume_vs_avg": "~0.4x",
-   "heat_score": 36,
-   "direction": "up",
-   "why": "Alibaba shares climb 4% after launch of most powerful Qwen model yet",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/alibaba-shares-climb-4-launch-122600903.html",
-   "published": "2026-08-03T12:26:00Z",
-   "sector": "AI Platforms, Internet & AdTech"
   }
  ]
 }

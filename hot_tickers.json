@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-03T14:15:28+00:00",
+  "as_of": "2026-08-03T14:30:35+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,13 +9,45 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "UPST",
+   "company": "Upstart Holdings Inc",
+   "move_pct": 6.34,
+   "price": 29.18,
+   "volume": 1105483,
+   "volume_vs_avg": "~0.3x",
+   "heat_score": 39,
+   "direction": "up",
+   "why": "Upstart (UPST) Reports Earnings Tomorrow: What To Expect",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/upstart-upst-reports-earnings-tomorrow-130122949.html",
+   "published": "2026-08-03T13:01:22Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 2,
+   "ticker": "AMZN",
+   "company": "Amazon.com Inc",
+   "move_pct": 5.12,
+   "price": 285.49,
+   "volume": 34624033,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 36,
+   "direction": "up",
+   "why": "Amazon enters $3 trillion club as AI, cloud growth power rally",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/amazon-enters-3-trillion-club-134557825.html",
+   "published": "2026-08-03T13:45:57Z",
+   "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 3,
    "ticker": "META",
    "company": "Meta Platforms Inc",
-   "move_pct": 6.44,
-   "price": 592.54,
-   "volume": 7560545,
+   "move_pct": 5.44,
+   "price": 587.01,
+   "volume": 8782169,
    "volume_vs_avg": "~0.4x",
-   "heat_score": 39,
+   "heat_score": 36,
    "direction": "up",
    "why": "Microsoft and Amazon Won the AI Spending Week. Alphabet, Meta, and Oracle Didn't. Now What?",
    "catalyst_type": "momentum_narrative",
@@ -24,20 +56,20 @@
    "sector": "AI Platforms, Internet & AdTech"
   },
   {
-   "rank": 2,
-   "ticker": "UPST",
-   "company": "Upstart Holdings Inc",
-   "move_pct": 5.65,
-   "price": 28.99,
-   "volume": 890792,
-   "volume_vs_avg": "~0.2x",
-   "heat_score": 36,
+   "rank": 4,
+   "ticker": "BABA",
+   "company": "Alibaba Group Holding Ltd ADR",
+   "move_pct": 5.01,
+   "price": 128.38,
+   "volume": 6159451,
+   "volume_vs_avg": "~0.5x",
+   "heat_score": 35,
    "direction": "up",
-   "why": "Upstart (UPST) Reports Earnings Tomorrow: What To Expect",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/upstart-upst-reports-earnings-tomorrow-130122949.html",
-   "published": "2026-08-03T13:01:22Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
+   "why": "Alibaba shares climb 4% after launch of most powerful Qwen model yet",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/alibaba-shares-climb-4-launch-122600903.html",
+   "published": "2026-08-03T12:26:00Z",
+   "sector": "AI Platforms, Internet & AdTech"
   }
  ]
 }

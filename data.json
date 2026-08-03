@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-03T23:54:13+00:00",
-  "as_of_local": "2026-08-03 23:54:13 UTC",
+  "as_of_utc": "2026-08-03T23:59:21+00:00",
+  "as_of_local": "2026-08-03 23:59:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -313,34 +315,6 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 159.18,
-      "previous_close": 149.37,
-      "change_pct": 6.57,
-      "market_cap": 8055785844.735718,
-      "headlines": [
-        {
-          "title": "Amprius Technologies Set to Report Q2 Earnings: What's in the Cards?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amprius-technologies-set-report-q2-161500576.html",
-          "publisher": "Zacks",
-          "published": "2026-08-03T16:15:00Z"
-        },
-        {
-          "title": "AeroVironment (AVAV): Buy, Sell, or Hold Post Q1 Earnings?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-buy-sell-hold-085957116.html",
-          "publisher": "StockStory",
-          "published": "2026-08-01T08:59:57Z"
-        },
-        {
-          "title": "The U.S. Just Took A Big Step to Break China's Magnet Dominance",
-          "url": "https://finance.yahoo.com/energy/articles/u-just-took-big-step-000000238.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-07-31T00:00:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 105.72,
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 63436.46,
-      "change_pct": -0.07
+      "price": 63458.69,
+      "change_pct": -0.04
     },
     {
       "label": "Gold",
-      "price": 4107.9,
-      "change_pct": 1.45
+      "price": 4108.1,
+      "change_pct": 1.46
     },
     {
       "label": "Nasdaq100",

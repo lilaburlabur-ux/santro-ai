@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-03T05:45:25+00:00",
-  "as_of_local": "2026-08-03 05:45:25 UTC",
+  "as_of_utc": "2026-08-03T05:50:49+00:00",
+  "as_of_local": "2026-08-03 05:50:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 4862365750000.0,
       "headlines": [
         {
+          "title": "Greg Abel Is Spending Berkshire Hathaway's Cash on Whole Companies Instead of Stocks. Here's What That Changes for Shareholders.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/greg-abel-spending-berkshire-hathaways-053500518.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-03T05:35:00Z"
+        },
+        {
           "title": "Apple's Hardware Is Ready for On-Device AI and PrismML Just Delivered a Real Breakthrough",
           "url": "https://finance.yahoo.com/technology/ai/articles/apples-hardware-ready-device-ai-045000917.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/down-48-oracle-stock-buy-042000763.html",
           "publisher": "Motley Fool",
           "published": "2026-08-03T04:20:00Z"
-        },
-        {
-          "title": "The Bond Market Is Doing Something for the First Time in Nearly 20 Years. Here's What It Means for Investors.",
-          "url": "https://finance.yahoo.com/markets/articles/bond-market-doing-something-first-035000582.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-03T03:50:00Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -7.92,
-          "price": 1582000.0,
+          "change_pct": -7.51,
+          "price": 1589000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -8.67,
-          "price": 239750.0,
+          "change_pct": -8.38,
+          "price": 240500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 6.75,
-          "price": 49640.0,
+          "change_pct": 5.87,
+          "price": 49230.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -7.92,
-        "price": 1582000.0,
+        "change_pct": -7.51,
+        "price": 1589000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -8.67,
-        "price": 239750.0,
+        "change_pct": -8.38,
+        "price": 240500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 6.75,
-        "price": 49640.0,
+        "change_pct": 5.87,
+        "price": 49230.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 62719.15,
-      "change_pct": -0.07
+      "price": 62762.8,
+      "change_pct": -0.0
     },
     {
       "label": "Gold",
-      "price": 4111.1,
-      "change_pct": 1.53
+      "price": 4113.3,
+      "change_pct": 1.59
     },
     {
       "label": "Nasdaq100",

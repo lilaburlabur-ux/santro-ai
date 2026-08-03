@@ -37,9 +37,9 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Headline | Source | Date |
 |---|---|---|
 | Semiconductor stocks pare losses amid fears of increased competition from China | Yahoo Finance | 2026-08-03 |
+| Amazon, Apple, Boeing, Micron, Bristol Myers, GameStop, SpaceX, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-03 |
+| Micron Stock Rises Despite Rising Competition From Chinese Memory Chip | Barrons.com | 2026-08-03 |
 | Micron Stock Falls -- Apple Tests Chinese Memory Chips From Rising Rival | GuruFocus.com | 2026-08-03 |
-| 1 Thing Every Micron Stock Investor Needs To Understand Right Now | Motley Fool | 2026-08-03 |
-| Micron Stock Drops Nearly 4% as Chinese Rival Plans DRAM Expansion | GuruFocus.com | 2026-08-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

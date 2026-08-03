@@ -37,9 +37,9 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Headline | Source | Date |
 |---|---|---|
 | Arm Quietly Builds Its Next Big AI Advantage | GuruFocus.com | 2026-08-03 |
+| ARM Stock: A $1 Billion AGI CPU Opportunity Could End Up Being Much Bigger Than Wall Street Expects | Barchart | 2026-08-03 |
 | Is Arm Holdings Stock a Buy on the Bullish CPU Outlook? | Motley Fool | 2026-08-02 |
 | Advanced Micro Devices vs. Arm: Which Tech Stock Is a Better Buy in 2026? | Motley Fool | 2026-08-02 |
-| A $2 Billion Reason to Buy Arm Holdings Stock Now | Barchart | 2026-08-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

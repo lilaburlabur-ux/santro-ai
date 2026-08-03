@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Tech stocks today: Microsoft, Amazon jump after last week's strong earnings | Yahoo Finance | 2026-08-03 |
 | This valuation signal shows how investors are rethinking tech stocks | Yahoo Finance | 2026-08-03 |
-| Why IonQ Stock Popped Today | Motley Fool | 2026-08-03 |
-| Cathie Wood's Ark Invest Is Buying SpaceX Stock as Shares Sink Below Their IPO Price. Should Investors Follow Her in? | Motley Fool | 2026-08-03 |
+| Rivian Cuts Spending by $250 Million -- Here's What the New Guidance Means for Investors | Motley Fool | 2026-08-03 |
+| AI Power Demand Is Fueling a Nuclear Boom. This IPO Stock Just Joined the List. | Motley Fool | 2026-08-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

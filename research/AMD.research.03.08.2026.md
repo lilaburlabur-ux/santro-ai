@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| Earnings live updates: Marriott stock falls as Middle East drags, Trump brothers-backed American Bitcoin swings to loss | Yahoo Finance | 2026-08-03 |
+| Earnings live updates: Snap stock surges as World Cup ads boost revenue, Whirlpool falls | Yahoo Finance | 2026-08-03 |
 | AMD vs. Sandisk: Which company will get some post-earnings market love? | Yahoo Finance Video | 2026-08-03 |
 | AMD to report Q2 earnings as chip stocks continue to waver | Yahoo Finance | 2026-08-03 |
-| AMD results put AI spending boom under the microscope | Proactive | 2026-08-03 |
+| Citi Has a Bullish Message for AMD Stock Investors | GuruFocus.com | 2026-08-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-03T11:28:00+00:00",
-  "as_of_local": "2026-08-03 11:28:00 UTC",
+  "as_of_utc": "2026-08-03T11:30:21+00:00",
+  "as_of_local": "2026-08-03 11:30:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": 2.93,
       "market_cap": 4862365750000.0,
       "headlines": [
+        {
+          "title": "Wall Street Traders Quietly Line Up to Pay $100,000 for Early Access to Trump\u2019s Market-Moving Posts",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-traders-quietly-line-112506828.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-03T11:25:06Z"
+        },
         {
           "title": "Buy the SOXX Down 23% From Its Highs? Amazon, Alphabet, Meta Platforms, Microsoft, and Oracle Just Gave Investors 830 Billion Reasons to Do So.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-soxx-down-23-highs-112000613.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/qqq-worth-buying-now-spacex-110500643.html",
           "publisher": "Motley Fool",
           "published": "2026-08-03T11:05:00Z"
-        },
-        {
-          "title": "Top JPMorgan Strategist Michael Cembalest Is \"Cautious\" on AI Stocks. Should You Change Your Investments?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-jpmorgan-strategist-michael-cembalest-105000199.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-03T10:50:00Z"
         }
       ]
     },
@@ -113,34 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/investors-panicking-memory-stocks-micron-092000883.html",
           "publisher": "Motley Fool",
           "published": "2026-08-03T09:20:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 476.15,
-      "previous_close": 485.39,
-      "change_pct": -1.9,
-      "market_cap": 776410484307.4535,
-      "headlines": [
-        {
-          "title": "AMD to report Q2 earnings as chip stocks continue to waver",
-          "url": "https://finance.yahoo.com/technology/article/amd-to-report-q2-earnings-as-chip-stocks-continue-to-waver-110000620.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-03T11:00:00Z"
-        },
-        {
-          "title": "Earnings to watch this week: SpaceX's first earnings report, Disney, AMD, & McDonald's",
-          "url": "https://finance.yahoo.com/video/earnings-watch-week-spacexs-first-180000072.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-08-02T18:00:00Z"
-        },
-        {
-          "title": "Falling Oil Boosts Wall Street Pre-Bell; Asia Mixed, Europe Up",
-          "url": "https://finance.yahoo.com/markets/articles/falling-oil-boosts-wall-street-111121742.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-03T11:11:21Z"
         }
       ]
     },
@@ -585,12 +559,12 @@
     },
     {
       "label": "BTC",
-      "price": 62662.41,
-      "change_pct": -1.29
+      "price": 62619.55,
+      "change_pct": -1.36
     },
     {
       "label": "Gold",
-      "price": 4104.0,
+      "price": 4104.1,
       "change_pct": 1.36
     },
     {

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-04T02:08:59+00:00",
-  "as_of_local": "2026-08-04 02:08:59 UTC",
+  "as_of_utc": "2026-08-04T02:23:56+00:00",
+  "as_of_local": "2026-08-04 02:23:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SYNA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -343,6 +341,34 @@
       ]
     },
     {
+      "symbol": "SYNA",
+      "name": "Synaptics",
+      "price": 105.72,
+      "previous_close": 107.32,
+      "change_pct": -1.49,
+      "market_cap": 4129706154.4039307,
+      "headlines": [
+        {
+          "title": "On Semiconductor Rises on Solid Earnings Beat as AI Data Center Revenue Grows",
+          "url": "https://www.barrons.com/articles/on-semiconductor-earnings-stock-price-a057171e?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-08-03T20:30:00Z"
+        },
+        {
+          "title": "1 Options Trade to Make Now to Bet on ON Semiconductor Stock Bouncing Back",
+          "url": "https://finance.yahoo.com/markets/options/articles/1-options-trade-now-bet-142939886.html",
+          "publisher": "Barchart",
+          "published": "2026-07-30T14:29:39Z"
+        },
+        {
+          "title": "Amkor Technology (AMKR) Q2 Earnings and Revenues Beat Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-q2-earnings-213502773.html",
+          "publisher": "Zacks",
+          "published": "2026-07-27T21:35:02Z"
+        }
+      ]
+    },
+    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 33.27,
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -1.28,
-          "price": 1547000.0,
+          "change_pct": -0.51,
+          "price": 1559000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.84,
-          "price": 237500.0,
+          "change_pct": -1.04,
+          "price": 237000.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 3.17,
-          "price": 50720.0,
+          "change_pct": 2.93,
+          "price": 50600.0,
           "currency": "JPY"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 8.7,
-          "price": 431.0,
+          "change_pct": 9.21,
+          "price": 433.0,
           "currency": "TWD"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -1.28,
-        "price": 1547000.0,
+        "change_pct": -0.51,
+        "price": 1559000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.84,
-        "price": 237500.0,
+        "change_pct": -1.04,
+        "price": 237000.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 3.17,
-        "price": 50720.0,
+        "change_pct": 2.93,
+        "price": 50600.0,
         "currency": "JPY"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 8.7,
-        "price": 431.0,
+        "change_pct": 9.21,
+        "price": 433.0,
         "currency": "TWD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63704.95,
-      "change_pct": 0.35
+      "price": 63653.1,
+      "change_pct": 0.27
     },
     {
       "label": "Gold",
-      "price": 4115.6,
-      "change_pct": 1.64
+      "price": 4114.6,
+      "change_pct": 1.62
     },
     {
       "label": "Nasdaq100",

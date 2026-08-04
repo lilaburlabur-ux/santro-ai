@@ -37,7 +37,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Headline | Source | Date |
 |---|---|---|
 | Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs | Yahoo Finance | 2026-08-04 |
-| S&P 500 Posts a New Record High on Strong Tech Earnings | Barchart | 2026-08-04 |
+| Marvell Technology Stock Is On Sale, But Is It A Bargain? | Trefis | 2026-08-04 |
 | Should You Reconsider QCOM Stock Amid Downward Estimate Revisions? | Zacks | 2026-08-04 |
 | Just How Wide Is the Potential Swing in Micron Stock? | Trefis | 2026-08-04 |
 
@@ -68,13 +68,13 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $44.07B | Revenue growth -4.00% y/y |
 | Profitability | Gross 54.23%, operating 18.53%, net 21.01% | ROA 11.61%, ROE 33.75% |
 | Balance sheet | Cash $8.30B, debt $15.27B | Current ratio 2.02, debt/equity 55.21 |
-| Valuation | P/E 18.59, forward P/E 15.80, P/S 3.88, P/B 6.22 | EV/Sales 3.77, EV/EBITDA 13.85 |
+| Valuation | P/E 18.59, forward P/E 15.80, P/S 3.88, P/B 6.22 | EV/Sales 3.77, EV/EBITDA 13.84 |
 | Growth expectations | Earnings growth -23.00%, EPS q/q -24.90% | Analyst mean target $196.27 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 84.04% |
+| Institutional ownership | 84.53% |
 | Insider ownership | 0.12% |
 | Short float | 3.83% |
 | Short ratio (days to cover) | 1.8 |
@@ -112,7 +112,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $162.67 | EV/Sales | 3.77 |
-| Market cap | $170.80B | EV/EBITDA | 13.85 |
+| Market cap | $170.80B | EV/EBITDA | 13.84 |
 | Beta | 1.66 | Gross margin | 54.23% |
 | RSI(14) | 42.4 | Operating margin | 18.53% |
 | ATR(14) | 9.71 | Profit margin | 21.01% |
@@ -120,7 +120,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | SMA50 dist | -17.15% | ROE | 33.75% |
 | SMA200 dist | -3.08% | Revenue (ttm) | $44.07B |
 | 52W high | $250.10 | Revenue growth y/y | -4.00% |
-| 52W low | $123.61 | Inst. ownership | 84.04% |
+| 52W low | $123.61 | Inst. ownership | 84.53% |
 | P/E (ttm) | 18.59 | Insider ownership | 0.12% |
 | Forward P/E | 15.80 | Short float | 3.83% |
 | PEG (trailing) | 0.63 | Avg volume | 21,640,173 |

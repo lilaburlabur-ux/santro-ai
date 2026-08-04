@@ -36,10 +36,10 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Lattice Semiconductor (NASDAQ:LSCC) Reports Strong Q2 | StockStory | 2026-08-04 |
 | SpaceX’s First Earnings Offer a Chance to Reverse Stock’s Plunge | Bloomberg | 2026-08-04 |
 | UMC or LSCC: Which Is the Better Value Stock Right Now? | Zacks | 2026-08-03 |
 | Lattice Semiconductor Earnings: What To Look For From LSCC | StockStory | 2026-08-03 |
-| 2 Mid-Cap Stocks with Promising Prospects and 1 We Turn Down | StockStory | 2026-07-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

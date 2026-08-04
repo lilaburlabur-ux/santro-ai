@@ -74,7 +74,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 99.84% |
+| Institutional ownership | 100.62% |
 | Insider ownership | 0.14% |
 | Short float | 3.86% |
 | Short ratio (days to cover) | 2.0 |
@@ -120,7 +120,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | SMA50 dist | -17.37% | ROE | 27.92% |
 | SMA200 dist | -1.02% | Revenue (ttm) | $13.19B |
 | 52W high | $331.55 | Revenue growth y/y | 19.50% |
-| 52W low | $181.81 | Inst. ownership | 99.84% |
+| 52W low | $181.81 | Inst. ownership | 100.62% |
 | P/E (ttm) | 47.33 | Insider ownership | 0.14% |
 | Forward P/E | 13.13 | Short float | 3.86% |
 | PEG (trailing) | 0.55 | Avg volume | 4,309,722 |

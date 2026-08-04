@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech stocks today: SpaceX, AMD to report earnings after the bell | Yahoo Finance | 2026-08-03 |
-| Why AMD is a Yahoo Finance AlphaSpace rockstar | Yahoo Finance | 2026-08-04 |
+| Tech stocks today: SpaceX and AMD post quarterly results; investors weren't impressed. | Yahoo Finance | 2026-08-03 |
+| AMD beats on Q2 earnings estimates, but also reports massive capex spend | Yahoo Finance Video | 2026-08-04 |
+| SpaceX's first earnings, AMD Q2 results, JOLTS data: What to Watch | Yahoo Finance Video | 2026-08-04 |
 | Tech stocks rally to kick off August. Can chipmakers keep up with demand? | Yahoo Finance Video | 2026-08-03 |
-| Advanced Micro Devices vs. Intel: Which Technology Stock Is a Better Buy in 2026? | Motley Fool | 2026-08-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

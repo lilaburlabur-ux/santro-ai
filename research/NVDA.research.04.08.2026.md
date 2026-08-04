@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech stocks today: SpaceX, AMD to report earnings after the bell | Yahoo Finance | 2026-08-03 |
+| Tech stocks today: SpaceX and AMD post quarterly results; investors weren't impressed. | Yahoo Finance | 2026-08-03 |
+| Why AMD is a Yahoo Finance AlphaSpace rockstar | Yahoo Finance | 2026-08-04 |
 | Tech stocks rally to kick off August. Can chipmakers keep up with demand? | Yahoo Finance Video | 2026-08-03 |
-| Piper Sandler Names CoreWeave Its Top AI Cloud Pick Over Nebius | GuruFocus.com | 2026-08-04 |
-| Analyst Makes Bold Dell Call Ahead of Earnings | GuruFocus.com | 2026-08-04 |
+| Elon Musk says SpaceX will build exclusively with Nvidia, touts space-based AI servers | Yahoo Finance | 2026-08-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

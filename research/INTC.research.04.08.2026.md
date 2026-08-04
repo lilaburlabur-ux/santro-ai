@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech stocks today: SpaceX, AMD to report earnings after the bell | Yahoo Finance | 2026-08-03 |
-| Advanced Micro Devices vs. Intel: Which Technology Stock Is a Better Buy in 2026? | Motley Fool | 2026-08-04 |
-| Intel's Packaging Progress Points to Google | GuruFocus.com | 2026-08-04 |
-| Why Nvidia Stock Still Trades at a Heavy Discount to Chip Rivals | Barrons.com | 2026-08-04 |
+| Tech stocks today: SpaceX and AMD post quarterly results; investors weren't impressed. | Yahoo Finance | 2026-08-03 |
+| Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs | Yahoo Finance | 2026-08-04 |
+| Marvell Technology Stock Is On Sale, But Is It A Bargain? | Trefis | 2026-08-04 |
+| Intel, AMD Lead Powerful Chip Stocks Rally on AI Optimism | GuruFocus.com | 2026-08-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

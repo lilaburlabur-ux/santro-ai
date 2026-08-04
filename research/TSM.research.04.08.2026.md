@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Taiwan Semiconductor's AI Push Hits Surprising Milestone | GuruFocus.com | 2026-08-04 |
 | MediaTek Wants 20% of Custom AI Chips. Alphabet (GOOGL) Could Win Before Broadcom (AVGO) Loses | Insider Monkey | 2026-08-04 |
 | Secretive AI Lab Chasing ‘Superintelligence’ Announces Massive Investment From NVIDIA. Here’s Why it Matters. | 24/7 Wall St. | 2026-08-04 |
-| Stanley Druckenmiller Holds Taiwan Semiconductor After Its Q2 Beat, Betting Chip Demand From Nvidia and AMD Keeps Growing | Motley Fool | 2026-08-04 |
-| Asia Hedge Funds Suffer Widespread Losses in July Market Rout | Bloomberg | 2026-08-04 |
+| Intel vs. TSMC: Intel Is Winning an AI Battle Against TSMC That Few Investors Are Watching | Barchart | 2026-08-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -37,9 +37,9 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Headline | Source | Date |
 |---|---|---|
 | Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs | Yahoo Finance | 2026-08-04 |
+| Marvell Technology Stock Is On Sale, But Is It A Bargain? | Trefis | 2026-08-04 |
+| Intel, AMD Lead Powerful Chip Stocks Rally on AI Optimism | GuruFocus.com | 2026-08-04 |
 | Apollo Global Management Q2 Earnings Call Highlights | MarketBeat | 2026-08-04 |
-| MediaTek Wants 20% of Custom AI Chips. Alphabet (GOOGL) Could Win Before Broadcom (AVGO) Loses | Insider Monkey | 2026-08-04 |
-| Anthropic's Google Chip Procurement Could Lead To Another $36B Debt Financing Round | Stocktwits | 2026-08-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

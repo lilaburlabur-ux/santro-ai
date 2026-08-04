@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-04T01:05:23+00:00",
+  "as_of": "2026-08-04T01:55:10+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -41,22 +41,6 @@
   },
   {
    "rank": 3,
-   "ticker": "POWL",
-   "company": "Powell Industries Inc",
-   "move_pct": 5.29,
-   "price": 219.72,
-   "volume": 1333851,
-   "volume_vs_avg": "~2x",
-   "heat_score": 41,
-   "direction": "up",
-   "why": "Powell Industries (POWL) Misses Q3 Earnings and Revenue Estimates",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/powell-industries-powl-misses-q3-214505735.html",
-   "published": "2026-08-03T21:45:05Z",
-   "sector": "Powering AI"
-  },
-  {
-   "rank": 4,
    "ticker": "SPCX",
    "company": "SpaceX",
    "move_pct": 5.68,
@@ -65,27 +49,11 @@
    "volume_vs_avg": "~0.8x",
    "heat_score": 39,
    "direction": "up",
-   "why": "SpaceX\u2019s Blockbuster Earnings Report Is Coming. What to Watch.",
+   "why": "Dow Jones Futures: Trump Sparks Stock Market Rally; Palantir Soars On Earnings With SpaceX On Deck",
    "catalyst_type": "earnings",
-   "source_url": "https://www.barrons.com/articles/spacex-earnings-what-to-watch-b6121f03?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-08-03T23:32:00Z",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-stock-market-rally-palantir-earnings-spacex-on-deck/?src=A00220&yptr=yahoo",
+   "published": "2026-08-04T01:38:31Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 5,
-   "ticker": "DELL",
-   "company": "Dell Technologies Inc",
-   "move_pct": 5.83,
-   "price": 429.02,
-   "volume": 4051621,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 38,
-   "direction": "up",
-   "why": "Dell (NYSE:DELL) Just Got Closer To June AI Through Michael Dell's Investment",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/dell-nyse-dell-just-got-210802235.html",
-   "published": "2026-08-03T21:08:02Z",
-   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

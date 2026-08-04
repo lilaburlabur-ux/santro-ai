@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-04T22:31:34+00:00",
-  "as_of_local": "2026-08-04 22:31:34 UTC",
+  "as_of_utc": "2026-08-04T22:34:35+00:00",
+  "as_of_local": "2026-08-04 22:34:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -293,6 +293,12 @@
       "market_cap": 19561390842.0,
       "headlines": [
         {
+          "title": "Lattice Semiconductor (LSCC) Q2 Earnings and Revenues Beat Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-lscc-q2-earnings-211503472.html",
+          "publisher": "Zacks",
+          "published": "2026-08-04T21:15:03Z"
+        },
+        {
           "title": "Lattice Semiconductor (NASDAQ:LSCC) Reports Strong Q2",
           "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-nasdaq-lscc-reports-202921806.html",
           "publisher": "StockStory",
@@ -303,12 +309,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-first-earnings-offer-chance-082619954.html",
           "publisher": "Bloomberg",
           "published": "2026-08-04T08:26:19Z"
-        },
-        {
-          "title": "UMC or LSCC: Which Is the Better Value Stock Right Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/umc-lscc-better-value-stock-154003011.html",
-          "publisher": "Zacks",
-          "published": "2026-08-03T15:40:03Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -8.79,
-          "price": 1567000.0,
+          "change_pct": 0.64,
+          "price": 1577000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -8.76,
-          "price": 239500.0,
+          "change_pct": 0.21,
+          "price": 240000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 5.72,
-          "price": 49160.0,
+          "change_pct": 5.96,
+          "price": 52090.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 9.99,
-          "price": 396.5,
+          "change_pct": 9.96,
+          "price": 436.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 10.0,
-          "price": 143.0,
+          "change_pct": 9.79,
+          "price": 157.0,
           "currency": "TWD"
         }
       ]
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -8.79,
-        "price": 1567000.0,
+        "change_pct": 0.64,
+        "price": 1577000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -8.76,
-        "price": 239500.0,
+        "change_pct": 0.21,
+        "price": 240000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 5.72,
-        "price": 49160.0,
+        "change_pct": 5.96,
+        "price": 52090.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 9.99,
-        "price": 396.5,
+        "change_pct": 9.96,
+        "price": 436.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 10.0,
-        "price": 143.0,
+        "change_pct": 9.79,
+        "price": 157.0,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64236.8,
-      "change_pct": 1.22
+      "price": 64202.49,
+      "change_pct": 1.17
     },
     {
       "label": "Gold",
-      "price": 4132.6,
-      "change_pct": 2.45
+      "price": 4132.8,
+      "change_pct": 2.46
     },
     {
       "label": "Nasdaq100",

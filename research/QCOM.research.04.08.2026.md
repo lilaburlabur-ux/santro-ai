@@ -37,9 +37,9 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Headline | Source | Date |
 |---|---|---|
 | Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs | Yahoo Finance | 2026-08-04 |
+| S&P 500 Posts a New Record High on Strong Tech Earnings | Barchart | 2026-08-04 |
 | Should You Reconsider QCOM Stock Amid Downward Estimate Revisions? | Zacks | 2026-08-04 |
 | Just How Wide Is the Potential Swing in Micron Stock? | Trefis | 2026-08-04 |
-| What Could Push Broadcom Stock Higher Is Already Sitting In Its Order Book | Trefis | 2026-08-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

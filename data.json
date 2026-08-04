@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-04T20:59:32+00:00",
-  "as_of_local": "2026-08-04 20:59:32 UTC",
+  "as_of_utc": "2026-08-04T21:04:28+00:00",
+  "as_of_local": "2026-08-04 21:04:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,7 +16,7 @@
       "headlines": [
         {
           "title": "'This was not an exceptional result': Strategist talks AMD earnings & 'shocking' capex",
-          "url": "https://finance.yahoo.com/video/this-was-not-an-exceptional-result-strategist-talks-amd-earnings--shocking-capex-205254303.html",
+          "url": "https://finance.yahoo.com/video/not-exceptional-result-strategist-talks-205254303.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-08-04T20:52:54Z"
         },
@@ -126,7 +128,7 @@
       "headlines": [
         {
           "title": "'This was not an exceptional result': Strategist talks AMD earnings & 'shocking' capex",
-          "url": "https://finance.yahoo.com/video/this-was-not-an-exceptional-result-strategist-talks-amd-earnings--shocking-capex-205254303.html",
+          "url": "https://finance.yahoo.com/video/not-exceptional-result-strategist-talks-205254303.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-08-04T20:52:54Z"
         },
@@ -153,8 +155,8 @@
       "market_cap": 508737843078.6133,
       "headlines": [
         {
-          "title": "Tech stocks today: SpaceX, AMD to report earnings after the bell",
-          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-amd-to-report-earnings-after-the-bell-140419479.html",
+          "title": "Tech stocks today: SpaceX and AMD post quarterly results; investors weren't impressed.",
+          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-and-amd-post-quarterly-results-investors-werent-impressed-140419479.html",
           "publisher": "Yahoo Finance",
           "published": "2026-08-03T14:04:19Z"
         },
@@ -225,34 +227,6 @@
           "url": "https://www.barrons.com/articles/marvell-stock-price-corning-lumentum-china-ban-97074aa8?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-08-04T18:06:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 162.67,
-      "previous_close": 151.57,
-      "change_pct": 7.32,
-      "market_cap": 170803498077.39258,
-      "headlines": [
-        {
-          "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
-          "url": "https://finance.yahoo.com/markets/article/marvell-sandisk-sk-hynix-lead-semiconductor-stock-rally-as-sp-500-trades-at-record-highs-172216048.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-04T17:22:16Z"
-        },
-        {
-          "title": "Should You Reconsider QCOM Stock Amid Downward Estimate Revisions?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/reconsider-qcom-stock-amid-downward-135200289.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T13:52:00Z"
-        },
-        {
-          "title": "Just How Wide Is the Potential Swing in Micron Stock?",
-          "url": "https://finance.yahoo.com/markets/options/articles/just-wide-potential-swing-micron-133929633.html",
-          "publisher": "Trefis",
-          "published": "2026-08-04T13:39:29Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64293.67,
-      "change_pct": 1.31
+      "price": 64259.22,
+      "change_pct": 1.26
     },
     {
       "label": "Gold",
-      "price": 4133.4,
-      "change_pct": 2.47
+      "price": 4134.0,
+      "change_pct": 2.49
     },
     {
       "label": "Nasdaq100",

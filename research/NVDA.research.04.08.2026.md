@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech stocks today: SpaceX and AMD post quarterly results; investors weren't impressed. | Yahoo Finance | 2026-08-03 |
-| Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs | Yahoo Finance | 2026-08-04 |
 | Elon Musk says SpaceX will build exclusively with Nvidia, touts space-based AI servers | Yahoo Finance | 2026-08-04 |
-| Why Robinhood Stock Dropped 14% in July | Motley Fool | 2026-08-04 |
+| Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs | Yahoo Finance | 2026-08-04 |
+| Why AMD is a Yahoo Finance AlphaSpace rockstar | Yahoo Finance | 2026-08-04 |
+| SpaceX Second-Quarter Loss Narrows, Revenue Tops Views on Connectivity, AI Gains | MT Newswires | 2026-08-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -39,7 +39,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Tech stocks today: SpaceX and AMD post quarterly results; investors weren't impressed. | Yahoo Finance | 2026-08-03 |
 | AMD beats on Q2 earnings estimates, but also reports massive capex spend | Yahoo Finance Video | 2026-08-04 |
 | SpaceX's first earnings, AMD Q2 results, JOLTS data: What to Watch | Yahoo Finance Video | 2026-08-04 |
-| Tech stocks rally to kick off August. Can chipmakers keep up with demand? | Yahoo Finance Video | 2026-08-03 |
+| Dow Jones Futures: S&P 500 Jumps To High; SpaceX, AMD Lead Earnings Movers Late | Investor's Business Daily | 2026-08-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,7 +74,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 71.84% |
+| Institutional ownership | 72.00% |
 | Insider ownership | 0.40% |
 | Short float | 2.45% |
 | Short ratio (days to cover) | 1.4 |
@@ -120,7 +120,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | SMA50 dist | +0.83% | ROE | 8.06% |
 | SMA200 dist | +64.86% | Revenue (ttm) | $37.45B |
 | 52W high | $580.91 | Revenue growth y/y | 37.80% |
-| 52W low | $151.14 | Inst. ownership | 71.84% |
+| 52W low | $151.14 | Inst. ownership | 72.00% |
 | P/E (ttm) | 172.86 | Insider ownership | 0.40% |
 | Forward P/E | 37.26 | Short float | 2.45% |
 | PEG (trailing) | 1.12 | Avg volume | 32,886,704 |

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-04T13:03:25+00:00",
-  "as_of_local": "2026-08-04 13:03:25 UTC",
+  "as_of_utc": "2026-08-04T13:08:29+00:00",
+  "as_of_local": "2026-08-04 13:08:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -61,34 +63,6 @@
       ]
     },
     {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 392.23,
-      "previous_close": 389.28,
-      "change_pct": 0.76,
-      "market_cap": 1866065733329.8772,
-      "headlines": [
-        {
-          "title": "How Patience Re-Prices Marvell Technology Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/patience-prices-marvell-technology-stock-111806330.html",
-          "publisher": "Trefis",
-          "published": "2026-08-04T11:18:06Z"
-        },
-        {
-          "title": "Nvidia, Dell Back AI Cloud Startup Volta at $2.4 Billion Value",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-dell-back-ai-cloud-110004506.html",
-          "publisher": "Bloomberg",
-          "published": "2026-08-04T11:00:04Z"
-        },
-        {
-          "title": "Inside Google\u2019s $200bn Wall Street finance machine for Anthropic",
-          "url": "https://finance.yahoo.com/technology/ai/articles/inside-google-200bn-wall-street-040016935.html",
-          "publisher": "Financial Times",
-          "published": "2026-08-04T04:00:16Z"
-        }
-      ]
-    },
-    {
       "symbol": "MU",
       "name": "Micron Technology",
       "price": 829.5,
@@ -103,16 +77,16 @@
           "published": "2026-08-03T13:39:38Z"
         },
         {
+          "title": "Update: Palantir Earnings Beat, Tech Stock Rally Lift US Equity Futures Pre-Bell",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-earnings-beat-tech-stock-125626524.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-04T12:56:26Z"
+        },
+        {
           "title": "Micron\u2019s Sharp Pullback Hits These 3 Major Tech ETFs in Very Different Ways",
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-sharp-pullback-hits-3-123519875.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-04T12:35:19Z"
-        },
-        {
-          "title": "SK Hynix Stock Gets a Flurry of Buy Ratings. Why Analysts Love the Memory-Chip Maker.",
-          "url": "https://www.barrons.com/articles/why-sk-hynix-stock-memory-chip-sandisk-25416c02?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-08-04T12:31:00Z"
         }
       ]
     },
@@ -159,16 +133,16 @@
           "published": "2026-08-03T14:04:19Z"
         },
         {
+          "title": "Why Nvidia Stock Still Trades at a Heavy Discount to Chip Rivals",
+          "url": "https://www.barrons.com/articles/nvidia-stock-price-discount-chip-946426eb?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-08-04T12:17:00Z"
+        },
+        {
           "title": "How Patience Re-Prices Marvell Technology Stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/patience-prices-marvell-technology-stock-111806330.html",
           "publisher": "Trefis",
           "published": "2026-08-04T11:18:06Z"
-        },
-        {
-          "title": "INTC Q2 Deep Dive: Data Center and AI Strength Offset Market Concerns Amid Supply Constraints",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intc-q2-deep-dive-data-083722483.html",
-          "publisher": "StockStory",
-          "published": "2026-08-04T08:37:22Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 63828.44,
-      "change_pct": 0.55
+      "price": 63936.13,
+      "change_pct": 0.72
     },
     {
       "label": "Gold",
-      "price": 4132.1,
-      "change_pct": 2.44
+      "price": 4128.6,
+      "change_pct": 2.35
     },
     {
       "label": "Nasdaq100",

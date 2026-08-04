@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-04T00:34:57+00:00",
-  "as_of_local": "2026-08-04 00:34:57 UTC",
+  "as_of_utc": "2026-08-04T00:39:59+00:00",
+  "as_of_local": "2026-08-04 00:39:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 2106278885445.6895,
       "headlines": [
         {
+          "title": "Intel (INTC) Faces New AI And Packaging Pressure From China And TSMC",
+          "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-faces-ai-packaging-001514674.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-04T00:15:14Z"
+        },
+        {
           "title": "After Comparing Every AI ETF, These 3 Beat the Nasdaq Without Betting on a Single Stock",
           "url": "https://finance.yahoo.com/markets/crypto/articles/comparing-every-ai-etf-3-170639618.html",
           "publisher": "24/7 Wall St.",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-just-bet-26-165644982.html",
           "publisher": "GuruFocus.com",
           "published": "2026-08-03T16:56:44Z"
-        },
-        {
-          "title": "Cathie Wood Is Leaning Harder Into Her Highest-Conviction Themes",
-          "url": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-leaning-harder-her-162345430.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-03T16:23:45Z"
         }
       ]
     },
@@ -159,16 +159,16 @@
           "published": "2026-08-03T14:04:19Z"
         },
         {
+          "title": "Intel (INTC) Faces New AI And Packaging Pressure From China And TSMC",
+          "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-faces-ai-packaging-001514674.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-04T00:15:14Z"
+        },
+        {
           "title": "Is Intel\u2019s AI PC and Advanced Packaging Ecosystem Shift Altering The Investment Case For Intel (INTC)?",
           "url": "https://finance.yahoo.com/technology/ai/articles/intel-ai-pc-advanced-packaging-231529188.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-03T23:15:29Z"
-        },
-        {
-          "title": "For Micron Stock, The Growth That Justifies The Price Has To Arrive",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-growth-justifies-price-230038188.html",
-          "publisher": "Trefis",
-          "published": "2026-08-03T23:00:38Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 1.79,
-          "price": 1595000.0,
+          "change_pct": 0.45,
+          "price": 1574000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.0,
-          "price": 239500.0,
+          "change_pct": -0.63,
+          "price": 238000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 2.5,
-          "price": 50390.0,
+          "change_pct": 1.61,
+          "price": 49950.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 1.79,
-        "price": 1595000.0,
+        "change_pct": 0.45,
+        "price": 1574000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.0,
-        "price": 239500.0,
+        "change_pct": -0.63,
+        "price": 238000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 2.5,
-        "price": 50390.0,
+        "change_pct": 1.61,
+        "price": 49950.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63332.5,
-      "change_pct": -0.24
+      "price": 63306.2,
+      "change_pct": -0.28
     },
     {
       "label": "Gold",
-      "price": 4114.8,
-      "change_pct": 1.62
+      "price": 4115.4,
+      "change_pct": 1.64
     },
     {
       "label": "Nasdaq100",

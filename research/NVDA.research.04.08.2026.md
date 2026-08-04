@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Elon Musk says SpaceX will build exclusively with Nvidia, touts space-based AI servers | Yahoo Finance | 2026-08-04 |
-| Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs | Yahoo Finance | 2026-08-04 |
-| Why AMD is a Yahoo Finance AlphaSpace rockstar | Yahoo Finance | 2026-08-04 |
-| SpaceX Second-Quarter Loss Narrows, Revenue Tops Views on Connectivity, AI Gains | MT Newswires | 2026-08-04 |
+| SpaceX teams up with Nvidia: Musk says Vera Rubin is 'the best AI computer' | Yahoo Finance Video | 2026-08-04 |
+| 'This was not an exceptional result': Strategist talks AMD earnings & 'shocking' capex | Yahoo Finance Video | 2026-08-04 |
+| Hamilton Lane Incorporated Q1 2027 Earnings Call Summary | Moby | 2026-08-04 |
+| Spotify Just Reached 300 Million Paying Subscribers. No Audio Streaming Service Has Ever Done That. | Motley Fool | 2026-08-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

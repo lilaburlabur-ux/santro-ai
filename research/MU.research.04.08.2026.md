@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| Sandisk bulls are probably eyeing this number on earnings day: AlphaSpace stat of the evening | Yahoo Finance | 2026-08-04 |
 | Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs | Yahoo Finance | 2026-08-04 |
-| Micron pullback seen as buying opportunity amid solid end-demand, says BofA | Proactive | 2026-08-04 |
-| Micron Stock Soars After New AI Storage Platform Debut | GuruFocus.com | 2026-08-04 |
-| Samsung Retakes Lead as Micron Closes In | GuruFocus.com | 2026-08-04 |
+| Top Stock Reports for Berkshire Hathaway, Micron & Oracle | Zacks | 2026-08-04 |
+| SpaceX, Palantir, AMD, Marvell, Caterpillar, Pfizer, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

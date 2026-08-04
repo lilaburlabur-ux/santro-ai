@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-04T00:34:56+00:00",
+  "as_of": "2026-08-04T00:50:10+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -65,10 +65,10 @@
    "volume_vs_avg": "~0.8x",
    "heat_score": 39,
    "direction": "up",
-   "why": "SpaceX Stock Faces 2 Massive Tests This Week. One Could Triple Its Public Float",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-faces-2-massive-212853835.html",
-   "published": "2026-08-03T21:28:53Z",
+   "why": "SpaceX\u2019s Blockbuster Earnings Report Is Coming. What to Watch.",
+   "catalyst_type": "earnings",
+   "source_url": "https://www.barrons.com/articles/spacex-earnings-what-to-watch-b6121f03?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-08-03T23:32:00Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {

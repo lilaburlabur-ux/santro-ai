@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-04T13:08:29+00:00",
-  "as_of_local": "2026-08-04 13:08:29 UTC",
+  "as_of_utc": "2026-08-04T13:11:43+00:00",
+  "as_of_local": "2026-08-04 13:11:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -59,6 +57,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/palantirs-rule-40-score-hit-072113933.html",
           "publisher": "Stocktwits",
           "published": "2026-08-04T07:21:13Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 392.23,
+      "previous_close": 389.28,
+      "change_pct": 0.76,
+      "market_cap": 1866065733329.8772,
+      "headlines": [
+        {
+          "title": "Update: Palantir Earnings Beat, Tech Stock Rally Lift US Equity Futures Pre-Bell",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-earnings-beat-tech-stock-125626524.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-04T12:56:26Z"
+        },
+        {
+          "title": "How Patience Re-Prices Marvell Technology Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/patience-prices-marvell-technology-stock-111806330.html",
+          "publisher": "Trefis",
+          "published": "2026-08-04T11:18:06Z"
+        },
+        {
+          "title": "Nvidia, Dell Back AI Cloud Startup Volta at $2.4 Billion Value",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-dell-back-ai-cloud-110004506.html",
+          "publisher": "Bloomberg",
+          "published": "2026-08-04T11:00:04Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63936.13,
-      "change_pct": 0.72
+      "price": 63909.9,
+      "change_pct": 0.67
     },
     {
       "label": "Gold",
-      "price": 4128.6,
-      "change_pct": 2.35
+      "price": 4126.6,
+      "change_pct": 2.3
     },
     {
       "label": "Nasdaq100",

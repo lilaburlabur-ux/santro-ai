@@ -1,23 +1,17 @@
 {
-  "as_of_utc": "2026-08-04T17:26:19+00:00",
-  "as_of_local": "2026-08-04 17:26:19 UTC",
+  "as_of_utc": "2026-08-04T17:31:09+00:00",
+  "as_of_local": "2026-08-04 17:31:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 211.54,
+      "price": 211.4,
       "previous_close": 206.64,
-      "change_pct": 2.37,
-      "market_cap": 5123346877166.748,
+      "change_pct": 2.3,
+      "market_cap": 5120505891647.339,
       "headlines": [
-        {
-          "title": "Tech stocks today: SpaceX, AMD to report earnings after the bell",
-          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-amd-to-report-earnings-after-the-bell-140419479.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-03T14:04:19Z"
-        },
         {
           "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
           "url": "https://finance.yahoo.com/markets/article/marvell-sandisk-sk-hynix-lead-semiconductor-stock-rally-as-sp-500-trades-at-record-highs-172216048.html",
@@ -25,20 +19,26 @@
           "published": "2026-08-04T17:22:16Z"
         },
         {
-          "title": "Why Is Walmart Down Year to Date? This Is the Only Answer I Can Think Of.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-walmart-down-date-only-172000058.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-04T17:20:00Z"
+          "title": "Tech stocks rally to kick off August. Can chipmakers keep up with demand?",
+          "url": "https://finance.yahoo.com/video/tech-stocks-rally-kick-off-213000641.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-08-03T21:30:00Z"
+        },
+        {
+          "title": "Dell and Super Micro Rally 10%, Hewlett Packard Enterprise Climbs 6% as AI Server Stocks Surge",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dell-super-micro-rally-10-172012450.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-04T17:20:12Z"
         }
       ]
     },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 419.16,
+      "price": 419.29,
       "previous_close": 406.11,
-      "change_pct": 3.21,
-      "market_cap": 2173754963003.98,
+      "change_pct": 3.24,
+      "market_cap": 2174532902450.2046,
       "headlines": [
         {
           "title": "Stanley Druckenmiller Holds Taiwan Semiconductor After Its Q2 Beat, Betting Chip Demand From Nvidia and AMD Keeps Growing",
@@ -63,10 +63,10 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 418.51,
+      "price": 419.08,
       "previous_close": 392.23,
-      "change_pct": 6.7,
-      "market_cap": 1990999690600.276,
+      "change_pct": 6.85,
+      "market_cap": 1993616446823.071,
       "headlines": [
         {
           "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
@@ -91,10 +91,66 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 898.41,
+      "price": 896.28,
       "previous_close": 829.5,
-      "change_pct": 8.31,
-      "market_cap": 1014330571261.505,
+      "change_pct": 8.05,
+      "market_cap": 1011834587582.0276,
+      "headlines": [
+        {
+          "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
+          "url": "https://finance.yahoo.com/markets/article/marvell-sandisk-sk-hynix-lead-semiconductor-stock-rally-as-sp-500-trades-at-record-highs-172216048.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-08-04T17:22:16Z"
+        },
+        {
+          "title": "Dell and Super Micro Rally 10%, Hewlett Packard Enterprise Climbs 6% as AI Server Stocks Surge",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dell-super-micro-rally-10-172012450.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-04T17:20:12Z"
+        },
+        {
+          "title": "Semiconductor ETFs Surge up to 19% in Huge Rally as the AI Trade Ramps Back Up",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-etfs-surge-19-huge-171929374.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-04T17:19:29Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 525.5,
+      "previous_close": 484.64,
+      "change_pct": 8.43,
+      "market_cap": 856831670003.8269,
+      "headlines": [
+        {
+          "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
+          "url": "https://finance.yahoo.com/markets/article/marvell-sandisk-sk-hynix-lead-semiconductor-stock-rally-as-sp-500-trades-at-record-highs-172216048.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-08-04T17:22:16Z"
+        },
+        {
+          "title": "Why AMD is a Yahoo Finance AlphaSpace rockstar",
+          "url": "https://finance.yahoo.com/markets/article/why-amd-is-a-yahoo-finance-alphaspace-rockstar-131746048.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-08-04T13:17:46Z"
+        },
+        {
+          "title": "Tech stocks rally to kick off August. Can chipmakers keep up with demand?",
+          "url": "https://finance.yahoo.com/video/tech-stocks-rally-kick-off-213000641.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-08-03T21:30:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 100.33,
+      "previous_close": 91.0,
+      "change_pct": 10.25,
+      "market_cap": 506114441253.6621,
       "headlines": [
         {
           "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
@@ -109,76 +165,20 @@
           "published": "2026-08-04T16:36:11Z"
         },
         {
-          "title": "These 3 Chip Stocks Could Be Entering a New Growth Cycle",
-          "url": "https://finance.yahoo.com/technology/articles/3-chip-stocks-could-entering-163001257.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-04T16:30:01Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 526.6,
-      "previous_close": 484.64,
-      "change_pct": 8.66,
-      "market_cap": 858641712351.3301,
-      "headlines": [
-        {
-          "title": "Tech stocks today: SpaceX, AMD to report earnings after the bell",
-          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-amd-to-report-earnings-after-the-bell-140419479.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-03T14:04:19Z"
-        },
-        {
-          "title": "AMD to report Q2 earnings as chip stocks continue to waver",
-          "url": "https://finance.yahoo.com/technology/article/amd-to-report-q2-earnings-as-chip-stocks-continue-to-waver-110000620.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-03T11:00:00Z"
-        },
-        {
-          "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
-          "url": "https://finance.yahoo.com/markets/article/marvell-sandisk-sk-hynix-lead-semiconductor-stock-rally-as-sp-500-trades-at-record-highs-172216048.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-04T17:22:16Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 100.49,
-      "previous_close": 91.0,
-      "change_pct": 10.43,
-      "market_cap": 506673825286.86523,
-      "headlines": [
-        {
-          "title": "Tech stocks today: SpaceX, AMD to report earnings after the bell",
-          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-amd-to-report-earnings-after-the-bell-140419479.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-03T14:04:19Z"
-        },
-        {
-          "title": "AMD to report Q2 earnings as chip stocks continue to waver",
-          "url": "https://finance.yahoo.com/technology/article/amd-to-report-q2-earnings-as-chip-stocks-continue-to-waver-110000620.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-03T11:00:00Z"
-        },
-        {
-          "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
-          "url": "https://finance.yahoo.com/markets/article/marvell-sandisk-sk-hynix-lead-semiconductor-stock-rally-as-sp-500-trades-at-record-highs-172216048.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-04T17:22:16Z"
+          "title": "Why Intel Stock Fell 35% Last Month",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-fell-35-153000621.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-04T15:30:00Z"
         }
       ]
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 278.15,
+      "price": 277.83,
       "previous_close": 239.06,
-      "change_pct": 16.35,
-      "market_cap": 297021066380.0797,
+      "change_pct": 16.22,
+      "market_cap": 296716715469.5169,
       "headlines": [
         {
           "title": "Why Arm Holdings Stock Lost 34% in July",
@@ -203,10 +203,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 222.42,
+      "price": 221.82,
       "previous_close": 193.78,
-      "change_pct": 14.78,
-      "market_cap": 199694663603.62878,
+      "change_pct": 14.47,
+      "market_cap": 199093310483.6717,
       "headlines": [
         {
           "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
@@ -231,10 +231,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 162.38,
+      "price": 162.36,
       "previous_close": 151.57,
-      "change_pct": 7.13,
-      "market_cap": 170719496154.78516,
+      "change_pct": 7.12,
+      "market_cap": 170478000640.86914,
       "headlines": [
         {
           "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
@@ -259,10 +259,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 237.14,
+      "price": 236.68,
       "previous_close": 224.17,
-      "change_pct": 5.79,
-      "market_cap": 59878906451.03677,
+      "change_pct": 5.58,
+      "market_cap": 59682214855.41443,
       "headlines": [
         {
           "title": "Nvidia Stock Retakes Key Level As Chip Stocks Waver",
@@ -287,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 137.52,
+      "price": 137.87,
       "previous_close": 127.18,
-      "change_pct": 8.13,
-      "market_cap": 19491932950.93834,
+      "change_pct": 8.4,
+      "market_cap": 19542608033.605286,
       "headlines": [
         {
           "title": "SpaceX\u2019s First Earnings Offer a Chance to Reverse Stock\u2019s Plunge",
@@ -315,10 +315,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 169.37,
+      "price": 169.77,
       "previous_close": 159.18,
-      "change_pct": 6.4,
-      "market_cap": 8571481793.9904785,
+      "change_pct": 6.65,
+      "market_cap": 8591725469.320831,
       "headlines": [
         {
           "title": "Amprius Technologies Set to Report Q2 Earnings: What's in the Cards?",
@@ -343,10 +343,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 106.95,
+      "price": 106.97,
       "previous_close": 105.72,
-      "change_pct": 1.16,
-      "market_cap": 4177753078.9901733,
+      "change_pct": 1.19,
+      "market_cap": 4178729705.4950867,
       "headlines": [
         {
           "title": "ON Semiconductor (ON) Stock May Be 8% Overvalued Despite Earnings Nearing",
@@ -371,10 +371,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 36.3,
+      "price": 36.29,
       "previous_close": 33.27,
-      "change_pct": 9.11,
-      "market_cap": 1011852273.5779953,
+      "change_pct": 9.08,
+      "market_cap": 1011016526.5160141,
       "headlines": [
         {
           "title": "Does This Dip In Cadence Design Systems Stock Signal An Opening?",
@@ -401,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 55.17,
-      "change_pct": 7.91,
+      "price": 55.08,
+      "change_pct": 7.73,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 8.31,
-          "price": 898.41,
+          "change_pct": 8.05,
+          "price": 896.28,
           "currency": "USD"
         },
         {
@@ -446,7 +446,7 @@
           "short": "Sandisk",
           "weight_pct": 5.05,
           "change_pct": 11.81,
-          "price": 1440.09,
+          "price": 1440.14,
           "currency": "USD"
         },
         {
@@ -454,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 4.75,
-          "price": 870.57,
+          "change_pct": 4.63,
+          "price": 869.53,
           "currency": "USD"
         },
         {
@@ -463,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 5.56,
-          "price": 556.52,
+          "change_pct": 5.51,
+          "price": 556.26,
           "currency": "USD"
         },
         {
@@ -491,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 55.17,
-    "change_pct": 7.91,
+    "price": 55.08,
+    "change_pct": 7.73,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 8.31,
-        "price": 898.41,
+        "change_pct": 8.05,
+        "price": 896.28,
         "currency": "USD"
       },
       {
@@ -536,7 +536,7 @@
         "short": "Sandisk",
         "weight_pct": 5.05,
         "change_pct": 11.81,
-        "price": 1440.09,
+        "price": 1440.14,
         "currency": "USD"
       },
       {
@@ -544,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 4.75,
-        "price": 870.57,
+        "change_pct": 4.63,
+        "price": 869.53,
         "currency": "USD"
       },
       {
@@ -553,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 5.56,
-        "price": 556.52,
+        "change_pct": 5.51,
+        "price": 556.26,
         "currency": "USD"
       },
       {
@@ -580,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7738.31,
-      "change_pct": 1.81
+      "price": 7735.45,
+      "change_pct": 1.78
     },
     {
       "label": "BTC",
-      "price": 64025.18,
-      "change_pct": 0.89
+      "price": 64079.64,
+      "change_pct": 0.97
     },
     {
       "label": "Gold",
-      "price": 4155.8,
-      "change_pct": 3.03
+      "price": 4155.5,
+      "change_pct": 3.02
     },
     {
       "label": "Nasdaq100",
-      "price": 29696.69,
-      "change_pct": 3.2
+      "price": 29689.69,
+      "change_pct": 3.17
     }
   ]
 }

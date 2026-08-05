@@ -36,10 +36,10 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 
 | Headline | Source | Date |
 |---|---|---|
+| Cirrus Logic (CRUS) Q1 Earnings Surpass Estimates | Zacks | 2026-08-05 |
 | ON Semiconductor (ON) Stock May Be 8% Overvalued Despite Earnings Nearing | Simply Wall St. | 2026-08-04 |
 | On Semiconductor Rises on Solid Earnings Beat as AI Data Center Revenue Grows | Barrons.com | 2026-08-03 |
 | 1 Options Trade to Make Now to Bet on ON Semiconductor Stock Bouncing Back | Barchart | 2026-07-30 |
-| Amkor Technology (AMKR) Q2 Earnings and Revenues Beat Estimates | Zacks | 2026-07-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

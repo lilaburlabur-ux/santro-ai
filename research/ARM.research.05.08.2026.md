@@ -68,7 +68,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Revenue (ttm) | $5.16B | Revenue growth 22.40% y/y |
 | Profitability | Gross 97.54%, operating 7.60%, net 20.25% | ROA 5.42%, ROE 13.35% |
 | Balance sheet | Cash $3.89B, debt $485.00M | Current ratio 5.25, debt/equity 5.62 |
-| Valuation | P/E 280.18, forward P/E 89.46, P/S 56.88, P/B 35.26 | EV/Sales 48.86, EV/EBITDA 236.83 |
+| Valuation | P/E 280.18, forward P/E 89.46, P/S 56.88, P/B 33.98 | EV/Sales 48.86, EV/EBITDA 236.83 |
 | Growth expectations | Earnings growth 108.30%, EPS q/q 107.70% | Analyst mean target $286.79 (37 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -127,7 +127,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Forward P/E | 89.46 | Short float | 12.02% |
 | PEG (trailing) | 1.97 | Avg volume | 10,355,554 |
 | P/S | 56.88 | Employees | 9,584 |
-| P/B | 35.26 | Analyst rec (1=buy..5=sell) | 1.9 |
+| P/B | 33.98 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

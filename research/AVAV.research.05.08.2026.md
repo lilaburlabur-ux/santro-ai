@@ -36,10 +36,10 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 | Headline | Source | Date |
 |---|---|---|
+| Iren vs. AeroVironment: A Comparison of Recent Revenue Trajectories | Motley Fool | 2026-08-05 |
 | Amprius Technologies Set to Report Q2 Earnings: What's in the Cards? | Zacks | 2026-08-03 |
 | AeroVironment (AVAV): Buy, Sell, or Hold Post Q1 Earnings? | StockStory | 2026-08-01 |
 | The U.S. Just Took A Big Step to Break China's Magnet Dominance | Oilprice.com | 2026-07-31 |
-| AeroVironment (AVAV) Surpasses Market Returns: Some Facts Worth Knowing | Zacks | 2026-07-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

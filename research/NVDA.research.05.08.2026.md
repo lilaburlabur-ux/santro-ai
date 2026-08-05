@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech stocks today: Google shakes up AI leadership, SpaceX plunges | Yahoo Finance | 2026-08-03 |
-| AMD sinks on revenue forecasts as competition with Nvidia grows more apparent | Yahoo Finance Video | 2026-08-05 |
-| Dow Jones Futures: Nvidia Lifts Dow To High, But Google, SpaceX Skid; Sandisk, Western Digital Earnings Late | Investor's Business Daily | 2026-08-05 |
-| Nvidia no longer an AI 'darling' but still 'critical,' investor says | Reuters Videos | 2026-08-05 |
+| Nvidia stock rises after Musk says SpaceX will exclusively use company's chips | Yahoo Finance | 2026-08-04 |
+| SpaceX stock declines post-earnings. Are investors worried about AI spending? | Yahoo Finance Video | 2026-08-05 |
+| SpaceX teams up with Nvidia: Musk says Vera Rubin is 'the best AI computer' | Yahoo Finance Video | 2026-08-04 |
+| Part 1: How to Spot a Corporate Fraud Before It Makes the Headlines | Motley Fool | 2026-08-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

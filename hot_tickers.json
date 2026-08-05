@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-05T01:00:03+00:00",
+  "as_of": "2026-08-05T01:54:58+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -84,7 +84,7 @@
    "why": "Dow Jones Futures Rise; SpaceX, AMD, Arista Lead Earnings Movers After S&P 500 Jumps To High",
    "catalyst_type": "earnings",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-spacex-amd-arista-eli-lily-earnings/?src=A00220&yptr=yahoo",
-   "published": "2026-08-05T00:31:16Z",
+   "published": "2026-08-05T01:40:48Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
@@ -97,10 +97,10 @@
    "volume_vs_avg": "~2x",
    "heat_score": 64,
    "direction": "up",
-   "why": "Lattice Semiconductor (LSCC) Q2 Earnings and Revenues Beat Estimates",
+   "why": "Lattice Semiconductor Q2 Earnings Call Highlights",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-lscc-q2-earnings-211503472.html",
-   "published": "2026-08-04T21:15:03Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-q2-earnings-call-010403727.html",
+   "published": "2026-08-05T01:04:03Z",
    "sector": "AI Chips & Compute"
   },
   {
@@ -121,19 +121,19 @@
   },
   {
    "rank": 8,
-   "ticker": "ROK",
-   "company": "Rockwell Automation Inc",
-   "move_pct": -7.43,
-   "price": 445.23,
-   "volume": 2136822,
-   "volume_vs_avg": "~2x",
-   "heat_score": 53,
-   "direction": "down",
-   "why": "Rockwell Automation Inc (ROK) (Q3 2026) Earnings Call Highlights: Strong Growth and Raised ...",
+   "ticker": "AMD",
+   "company": "Advanced Micro Devices Inc",
+   "move_pct": 7.0,
+   "price": 518.58,
+   "volume": 37266340,
+   "volume_vs_avg": "~1.3x",
+   "heat_score": 46,
+   "direction": "up",
+   "why": "Dow Jones Futures Rise; SpaceX, AMD, Arista Lead Earnings Movers After S&P 500 Jumps To High",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/rockwell-automation-inc-rok-q3-210414646.html",
-   "published": "2026-08-04T21:04:14Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-spacex-amd-arista-eli-lily-earnings/?src=A00220&yptr=yahoo",
+   "published": "2026-08-05T01:40:48Z",
+   "sector": "AI Chips & Compute"
   }
  ]
 }

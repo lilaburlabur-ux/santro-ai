@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-05T11:08:10+00:00",
-  "as_of_local": "2026-08-05 11:08:10 UTC",
+  "as_of_utc": "2026-08-05T11:13:02+00:00",
+  "as_of_local": "2026-08-05 11:13:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "QCOM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -227,6 +225,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-stock-sale-bargain-205108627.html",
           "publisher": "Trefis",
           "published": "2026-08-04T20:51:08Z"
+        }
+      ]
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "price": 162.67,
+      "previous_close": 151.57,
+      "change_pct": 7.32,
+      "market_cap": 170803498077.39258,
+      "headlines": [
+        {
+          "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
+          "url": "https://finance.yahoo.com/markets/article/marvell-sandisk-sk-hynix-lead-semiconductor-stock-rally-as-sp-500-trades-at-record-highs-172216048.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-08-04T17:22:16Z"
+        },
+        {
+          "title": "Marvell Technology Stock Is On Sale, But Is It A Bargain?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-stock-sale-bargain-205108627.html",
+          "publisher": "Trefis",
+          "published": "2026-08-04T20:51:08Z"
+        },
+        {
+          "title": "Should You Reconsider QCOM Stock Amid Downward Estimate Revisions?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/reconsider-qcom-stock-amid-downward-135200289.html",
+          "publisher": "Zacks",
+          "published": "2026-08-04T13:52:00Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64007.87,
-      "change_pct": -0.08
+      "price": 64040.0,
+      "change_pct": -0.02
     },
     {
       "label": "Gold",
-      "price": 4220.2,
-      "change_pct": 3.05
+      "price": 4221.8,
+      "change_pct": 3.09
     },
     {
       "label": "Nasdaq100",

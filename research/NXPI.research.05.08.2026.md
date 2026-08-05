@@ -37,9 +37,9 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Headline | Source | Date |
 |---|---|---|
 | The companies emerging as new leaders in this renewed AI rally | Yahoo Finance Video | 2026-08-05 |
+| Stocks Supported by Stellar Earnings | Barchart | 2026-08-05 |
 | Nvidia Stock Retakes Key Level As Chip Stocks Waver | Investor's Business Daily | 2026-08-03 |
 | NXP downgraded by UBS as China and AI risks cloud growth | Proactive | 2026-08-03 |
-| UBS downgrades NXP to Neutral on China auto risks, trims PT to $270 | Investing.com | 2026-08-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Revenue (ttm) | $13.19B | Revenue growth 19.50% y/y |
 | Profitability | Gross 56.10%, operating 30.41%, net 22.56% | ROA 10.46%, ROE 27.92% |
 | Balance sheet | Cash $3.22B, debt $10.98B | Current ratio 2.04, debt/equity 93.33 |
-| Valuation | P/E 46.14, forward P/E 12.77, P/S 4.42, P/B 5.12 | EV/Sales 4.90, EV/EBITDA 12.76 |
+| Valuation | P/E 46.05, forward P/E 12.77, P/S 4.42, P/B 5.12 | EV/Sales 4.90, EV/EBITDA 12.76 |
 | Growth expectations | Earnings growth 72.60%, EPS q/q 72.40% | Analyst mean target $311.10 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | SMA200 dist | -3.74% | Revenue (ttm) | $13.19B |
 | 52W high | $331.55 | Revenue growth y/y | 19.50% |
 | 52W low | $181.81 | Inst. ownership | 99.84% |
-| P/E (ttm) | 46.14 | Insider ownership | 0.14% |
+| P/E (ttm) | 46.05 | Insider ownership | 0.14% |
 | Forward P/E | 12.77 | Short float | 3.86% |
 | PEG (trailing) | 0.55 | Avg volume | 4,327,581 |
 | P/S | 4.42 | Employees | 32,169 |

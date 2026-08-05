@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-05T02:20:43+00:00",
-  "as_of_local": "2026-08-05 02:20:43 UTC",
+  "as_of_utc": "2026-08-05T02:35:55+00:00",
+  "as_of_local": "2026-08-05 02:35:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-08-04T20:52:54Z"
         },
         {
-          "title": "AMD Stock Tumbles Overnight As CapEx Surge And SpaceX\u2019s Nvidia Switch Overshadow Q2 Beat",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-tumbles-overnight-capex-015858303.html",
-          "publisher": "Stocktwits",
-          "published": "2026-08-05T01:58:58Z"
+          "title": "Why Backblaze Stock Jumped Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-backblaze-stock-jumped-today-022434591.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-05T02:24:34Z"
         }
       ]
     },
@@ -257,34 +259,6 @@
       ]
     },
     {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 237.6,
-      "previous_close": 224.17,
-      "change_pct": 5.99,
-      "market_cap": 59914209281.487976,
-      "headlines": [
-        {
-          "title": "Nvidia Stock Retakes Key Level As Chip Stocks Waver",
-          "url": "https://www.investors.com/news/technology/nvidia-stock-up-chip-stocks-sox-index-wavers/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-03T20:36:24Z"
-        },
-        {
-          "title": "NXP downgraded by UBS as China and AI risks cloud growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-downgraded-ubs-china-ai-144300140.html",
-          "publisher": "Proactive",
-          "published": "2026-08-03T14:43:00Z"
-        },
-        {
-          "title": "UBS downgrades NXP to Neutral on China auto risks, trims PT to $270",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-downgrades-nxp-neutral-china-134311691.html",
-          "publisher": "Investing.com",
-          "published": "2026-08-03T13:43:11Z"
-        }
-      ]
-    },
-    {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
       "price": 138.0,
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 7.17,
-          "price": 1690000.0,
+          "change_pct": 5.83,
+          "price": 1669000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 3.75,
-          "price": 249000.0,
+          "change_pct": 2.92,
+          "price": 247000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 5.14,
-          "price": 54770.0,
+          "change_pct": 4.91,
+          "price": 54650.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 6.08,
-          "price": 462.5,
+          "change_pct": 6.54,
+          "price": 464.5,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 9.55,
-          "price": 172.0,
+          "change_pct": 9.87,
+          "price": 172.5,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 7.17,
-        "price": 1690000.0,
+        "change_pct": 5.83,
+        "price": 1669000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 3.75,
-        "price": 249000.0,
+        "change_pct": 2.92,
+        "price": 247000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 5.14,
-        "price": 54770.0,
+        "change_pct": 4.91,
+        "price": 54650.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 6.08,
-        "price": 462.5,
+        "change_pct": 6.54,
+        "price": 464.5,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 9.55,
-        "price": 172.0,
+        "change_pct": 9.87,
+        "price": 172.5,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64326.47,
-      "change_pct": 1.36
+      "price": 64419.19,
+      "change_pct": 1.51
     },
     {
       "label": "Gold",
-      "price": 4154.6,
-      "change_pct": 3.0
+      "price": 4160.5,
+      "change_pct": 3.14
     },
     {
       "label": "Nasdaq100",

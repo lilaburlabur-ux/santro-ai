@@ -37,9 +37,9 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Headline | Source | Date |
 |---|---|---|
 | Sandisk bulls are probably eyeing this number on earnings day: AlphaSpace stat of the evening | Yahoo Finance | 2026-08-04 |
+| Micron Drops Stunning Clue About Next Memory Cycle | GuruFocus.com | 2026-08-05 |
 | This Jacked-Up Tech ETF Demands a Strong Stomach | Barrons.com | 2026-08-05 |
 | SpaceX, Alphabet, Nvidia, Micron, AMD, Uber, CVS, Lilly, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-05 |
-| How To Bank 14% On MU Stock Before Buying A Single Share | Trefis | 2026-08-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -18,7 +18,7 @@ Signed file: `TSM.research.05.08.2026`
 | Technical momentum | High | 1Y +75.14%; price +15.73% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -13.31% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 49.92%, revenue growth 36.00%. |
-| Value attractiveness | Reasonable | Forward P/E 19.16, EV/Sales 3.23. |
+| Value attractiveness | Reasonable | Forward P/E 19.16, EV/Sales 3.34. |
 | Risk level | Elevated | Beta 1.26, ATR 4.3% of price, short float 0.69%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -68,13 +68,13 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.44T | Revenue growth 36.00% y/y |
 | Profitability | Gross 64.23%, operating 60.34%, net 49.92% | ROA 19.01%, ROE 39.97% |
 | Balance sheet | Cash $3.52T, debt $982.45B | Current ratio 2.46, debt/equity 15.17 |
-| Valuation | P/E 36.35, forward P/E 19.16, P/S 0.48, P/B 86.34 | EV/Sales 3.23, EV/EBITDA 4.52 |
+| Valuation | P/E 36.35, forward P/E 19.16, P/S 0.48, P/B 86.34 | EV/Sales 3.34, EV/EBITDA 4.67 |
 | Growth expectations | Earnings growth 77.40%, EPS q/q 77.40% | Analyst mean target $540.20 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 15.46% |
+| Institutional ownership | 15.47% |
 | Insider ownership | 0.04% |
 | Short float | 0.69% |
 | Short ratio (days to cover) | 2.3 |
@@ -110,8 +110,8 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $414.00 | EV/Sales | 3.23 |
-| Market cap | $2.15T | EV/EBITDA | 4.52 |
+| Price | $414.00 | EV/Sales | 3.34 |
+| Market cap | $2.15T | EV/EBITDA | 4.67 |
 | Beta | 1.26 | Gross margin | 64.23% |
 | RSI(14) | 49.9 | Operating margin | 60.34% |
 | ATR(14) | 17.64 | Profit margin | 49.92% |
@@ -119,7 +119,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | SMA50 dist | -2.72% | ROE | 39.97% |
 | SMA200 dist | +15.73% | Revenue (ttm) | $4.44T |
 | 52W high | $477.57 | Revenue growth y/y | 36.00% |
-| 52W low | $224.84 | Inst. ownership | 15.46% |
+| 52W low | $224.84 | Inst. ownership | 15.47% |
 | P/E (ttm) | 36.35 | Insider ownership | 0.04% |
 | Forward P/E | 19.16 | Short float | 0.69% |
 | PEG (trailing) | 0.98 | Avg volume | 14,412,878 |

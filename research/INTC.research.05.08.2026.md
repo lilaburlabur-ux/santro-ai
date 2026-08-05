@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech stocks today: SpaceX, AMD top quarterly results, but fail to impress Wall Street. Shares sink | Yahoo Finance | 2026-08-03 |
+| Tech stocks today: Google shakes up AI leadership, SpaceX plunges | Yahoo Finance | 2026-08-03 |
 | The companies defying macro uncertainty and raising guidance: AlphaCheck | Yahoo Finance | 2026-08-05 |
+| Tech, Media & Telecom Roundup: Market Talk | The Wall Street Journal | 2026-08-05 |
 | SpaceX, Alphabet, Nvidia, Micron, AMD, Uber, CVS, Lilly, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-05 |
-| How To Bank 14% On MU Stock Before Buying A Single Share | Trefis | 2026-08-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

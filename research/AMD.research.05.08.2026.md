@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech stocks today: SpaceX, AMD top quarterly results, but fail to impress Wall Street. Shares sink | Yahoo Finance | 2026-08-03 |
+| Tech stocks today: Google shakes up AI leadership, SpaceX plunges | Yahoo Finance | 2026-08-03 |
 | 7 numbers from AMD earnings reveal an ultra-bullish future: AlphaSpace stats to know | Yahoo Finance | 2026-08-05 |
-| Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq | Reuters | 2026-08-05 |
-| AMD Stock Drops 6.9% Despite Record $11.5 Billion Revenue | GuruFocus.com | 2026-08-05 |
+| Tech, Media & Telecom Roundup: Market Talk | The Wall Street Journal | 2026-08-05 |
+| Dow Jones Futures: Nvidia Lifts Dow To High, But Google, SpaceX Skid; Sandisk, Western Digital Earnings Late | Investor's Business Daily | 2026-08-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

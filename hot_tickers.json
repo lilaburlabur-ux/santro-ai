@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-05T15:29:25+00:00",
+  "as_of": "2026-08-05T15:44:31+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,13 +9,45 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "SPCX",
+   "company": "SpaceX",
+   "move_pct": -8.28,
+   "price": 114.96,
+   "volume": 91289633,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 60,
+   "direction": "down",
+   "why": "Starship is SpaceX's 'single most important' piece right now: Analyst",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/video/starship-spacexs-single-most-important-153000641.html",
+   "published": "2026-08-05T15:30:00Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 2,
+   "ticker": "PINS",
+   "company": "Pinterest Inc",
+   "move_pct": -7.76,
+   "price": 23.59,
+   "volume": 11945735,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 47,
+   "direction": "down",
+   "why": "Pinterest Q2 Earnings Call Highlights",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/pinterest-q2-earnings-call-highlights-120407275.html",
+   "published": "2026-08-05T12:04:07Z",
+   "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 3,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
-   "move_pct": -6.77,
-   "price": 483.47,
-   "volume": 27812978,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 43,
+   "move_pct": -6.32,
+   "price": 485.83,
+   "volume": 29110992,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 42,
    "direction": "down",
    "why": "Lisa Su Says Customers Want 'A Lot More Compute' \u2014 Sees 'Tremendous Momentum' In AMD\u2019s Data Center Business",
    "catalyst_type": "momentum_narrative",
@@ -24,28 +56,12 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 2,
-   "ticker": "SPCX",
-   "company": "SpaceX",
-   "move_pct": -6.54,
-   "price": 117.13,
-   "volume": 86694084,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 43,
-   "direction": "down",
-   "why": "Why SpaceX Stock Crashed After Earnings",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-spacex-stock-crashed-earnings-145910517.html",
-   "published": "2026-08-05T14:59:10Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 3,
+   "rank": 4,
    "ticker": "LSCC",
    "company": "Lattice Semiconductor Corp",
-   "move_pct": -5.8,
-   "price": 129.99,
-   "volume": 1487813,
+   "move_pct": -5.57,
+   "price": 130.31,
+   "volume": 1557118,
    "volume_vs_avg": "~0.8x",
    "heat_score": 39,
    "direction": "down",
@@ -54,22 +70,6 @@
    "source_url": "https://finance.yahoo.com/technology/ai/articles/lattice-q2-earnings-call-highlights-140000216.html",
    "published": "2026-08-05T14:00:00Z",
    "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 4,
-   "ticker": "PINS",
-   "company": "Pinterest Inc",
-   "move_pct": -5.77,
-   "price": 24.1,
-   "volume": 9722543,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 39,
-   "direction": "down",
-   "why": "Pinterest Q2 Earnings Call Highlights",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/pinterest-q2-earnings-call-highlights-120407275.html",
-   "published": "2026-08-05T12:04:07Z",
-   "sector": "AI Platforms, Internet & AdTech"
   }
  ]
 }

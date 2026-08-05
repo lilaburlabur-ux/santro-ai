@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-05T00:06:05+00:00",
+  "as_of": "2026-08-05T00:21:27+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -97,10 +97,10 @@
    "volume_vs_avg": "~1.4x",
    "heat_score": 65,
    "direction": "up",
-   "why": "Dow Jones Futures: SpaceX, AMD, Arista Lead Earnings Movers After S&P 500 Jumps To High",
+   "why": "Dow Jones Futures Rise; SpaceX, AMD, Arista Lead Earnings Movers After S&P 500 Jumps To High",
    "catalyst_type": "earnings",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-spacex-amd-arista-eli-lily-earnings/?src=A00220&yptr=yahoo",
-   "published": "2026-08-04T23:37:50Z",
+   "published": "2026-08-04T23:55:06Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
@@ -121,19 +121,19 @@
   },
   {
    "rank": 8,
-   "ticker": "DELL",
-   "company": "Dell Technologies Inc",
-   "move_pct": 8.92,
-   "price": 467.27,
-   "volume": 7399596,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 61,
+   "ticker": "CEVA",
+   "company": "Ceva Inc",
+   "move_pct": 8.87,
+   "price": 36.22,
+   "volume": 571434,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 60,
    "direction": "up",
-   "why": "Analyst Makes Bold Dell Call Ahead of Earnings",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/technology/articles/analyst-makes-bold-dell-call-201011330.html",
-   "published": "2026-08-04T20:10:11Z",
-   "sector": "Chip Equipment & AI Hardware"
+   "why": "Is CEVA (CEVA) Turning Early Bluetooth HDT Wins Into a Stronger Edge AI Story?",
+   "catalyst_type": "contract_win",
+   "source_url": "https://finance.yahoo.com/technology/articles/ceva-ceva-turning-early-bluetooth-221036978.html",
+   "published": "2026-08-04T22:10:36Z",
+   "sector": "AI Chips & Compute"
   }
  ]
 }

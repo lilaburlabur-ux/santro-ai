@@ -1,59 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-06T01:57:46+00:00",
+  "as_of": "2026-08-06T08:06:57+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "SPCX",
-   "company": "SpaceX",
-   "move_pct": -13.61,
-   "price": 108.27,
-   "volume": 202379662,
-   "volume_vs_avg": "~3x",
-   "heat_score": 85,
-   "direction": "down",
-   "why": "Dow Jones Futures: Nvidia Lifts Dow, But Google, SpaceX Skid; Sandisk, Western Digital Lead Earnings Losers Late",
-   "catalyst_type": "earnings",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-google-spacex-skid-sandisk-western-digital-earnings/?src=A00220&yptr=yahoo",
-   "published": "2026-08-06T01:35:49Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 2,
-   "ticker": "SNAP",
-   "company": "Snap Inc",
-   "move_pct": -7.94,
-   "price": 5.33,
-   "volume": 70319918,
-   "volume_vs_avg": "~2x",
-   "heat_score": 52,
-   "direction": "down",
-   "why": "Snap (SNAP) Stock Could Be Undervalued Even After Recent Gains",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/snap-snap-stock-could-undervalued-001725614.html",
-   "published": "2026-08-06T00:17:25Z",
-   "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 3,
-   "ticker": "AMD",
-   "company": "Advanced Micro Devices Inc",
-   "move_pct": -7.04,
-   "price": 482.05,
-   "volume": 47435209,
-   "volume_vs_avg": "~2x",
-   "heat_score": 48,
-   "direction": "down",
-   "why": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/video/dow-closes-record-mideast-optimism-224157101.html",
-   "published": "2026-08-05T22:41:57Z",
-   "sector": "AI Chips & Compute"
-  }
- ]
+ "hot_tickers": []
 }

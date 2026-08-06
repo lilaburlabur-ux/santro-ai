@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-06T11:35:12+00:00",
+  "as_of": "2026-08-06T11:50:31+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "UPST",
+   "company": "Upstart Holdings Inc",
+   "move_pct": 0.0,
+   "price": 30.2,
+   "volume": 12309300,
+   "volume_vs_avg": "~3x",
+   "heat_score": 30,
+   "direction": "down",
+   "why": "Upstart (UPST) Stock Still Looks Pricey Following Its 82% Five Year Slump",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/upstart-upst-stock-still-looks-111113979.html",
+   "published": "2026-08-06T11:11:13Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  }
+ ]
 }

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-05T23:56:58+00:00",
+  "as_of": "2026-08-06T00:02:12+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,45 +9,13 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "APP",
-   "company": "Applovin Corp",
-   "move_pct": -16.34,
-   "price": 351.11,
-   "volume": 9671794,
-   "volume_vs_avg": "~2x",
-   "heat_score": 86,
-   "direction": "down",
-   "why": "AppLovin Q2 Earnings Call Highlights",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/applovin-q2-earnings-call-highlights-220350104.html",
-   "published": "2026-08-05T22:03:50Z",
-   "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 2,
-   "ticker": "SOUN",
-   "company": "SoundHound AI Inc",
-   "move_pct": 20.29,
-   "price": 7.83,
-   "volume": 20831554,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 81,
-   "direction": "up",
-   "why": "SoundHound AI (NASDAQ:SOUN) Reports Bullish Q2 CY2026, Stock Jumps 23.4%",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-nasdaq-soun-reports-231945898.html",
-   "published": "2026-08-05T23:19:45Z",
-   "sector": "AI Applications & Data Software"
-  },
-  {
-   "rank": 3,
    "ticker": "SPCX",
    "company": "SpaceX",
-   "move_pct": -12.19,
-   "price": 110.06,
+   "move_pct": -13.61,
+   "price": 108.27,
    "volume": 202379662,
    "volume_vs_avg": "~3x",
-   "heat_score": 80,
+   "heat_score": 85,
    "direction": "down",
    "why": "Dow Jones Futures: Nvidia Lifts Dow, But Google, SpaceX Skid; Sandisk, Western Digital Lead Earnings Losers Late",
    "catalyst_type": "earnings",
@@ -56,11 +24,11 @@
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
-   "rank": 4,
+   "rank": 2,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
-   "move_pct": -7.06,
-   "price": 481.95,
+   "move_pct": -7.04,
+   "price": 482.05,
    "volume": 47435209,
    "volume_vs_avg": "~2x",
    "heat_score": 48,
@@ -70,38 +38,6 @@
    "source_url": "https://finance.yahoo.com/video/dow-closes-record-mideast-optimism-224157101.html",
    "published": "2026-08-05T22:41:57Z",
    "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 5,
-   "ticker": "MGNI",
-   "company": "Magnite Inc",
-   "move_pct": 7.86,
-   "price": 22.5,
-   "volume": 2232523,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 47,
-   "direction": "up",
-   "why": "Magnite (NASDAQ:MGNI) Misses Q2 CY2026 Revenue Estimates, But Stock Soars 8.6%",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/media-advertising/articles/magnite-nasdaq-mgni-misses-q2-214823642.html",
-   "published": "2026-08-05T21:48:23Z",
-   "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 6,
-   "ticker": "SYM",
-   "company": "Symbotic Inc",
-   "move_pct": -5.86,
-   "price": 44.68,
-   "volume": 1911982,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 41,
-   "direction": "down",
-   "why": "Symbotic Inc. (SYM) Misses Q3 Earnings Estimates",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/symbotic-inc-sym-misses-q3-221008946.html",
-   "published": "2026-08-05T22:10:08Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-06T10:35:04+00:00",
-  "as_of_local": "2026-08-06 10:35:04 UTC",
+  "as_of_utc": "2026-08-06T10:39:20+00:00",
+  "as_of_local": "2026-08-06 10:39:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -203,6 +201,34 @@
       ]
     },
     {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 211.02,
+      "previous_close": 218.59,
+      "change_pct": -3.46,
+      "market_cap": 189399827976.18347,
+      "headlines": [
+        {
+          "title": "The companies emerging as new leaders in this renewed AI rally",
+          "url": "https://finance.yahoo.com/video/companies-emerging-leaders-renewed-ai-191536658.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-08-05T19:15:36Z"
+        },
+        {
+          "title": "Why Marvell (MRVL) Is Up 29.1% After Launching Its New AI Memory Infrastructure Portfolio",
+          "url": "https://finance.yahoo.com/technology/ai/articles/why-marvell-mrvl-29-1-101417474.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-06T10:14:17Z"
+        },
+        {
+          "title": "S&P 500, Dow futures steady as MidEast deal in focus; chips stumble",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-steady-094518940.html",
+          "publisher": "Reuters",
+          "published": "2026-08-06T09:45:18Z"
+        }
+      ]
+    },
+    {
       "symbol": "QCOM",
       "name": "Qualcomm",
       "price": 157.53,
@@ -375,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": null,
-      "change_pct": 0.0,
+      "price": 53.74,
+      "change_pct": -2.1,
       "holdings": [
         {
           "symbol": "MU",
@@ -465,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": null,
-    "change_pct": 0.0,
+    "price": 53.74,
+    "change_pct": -2.1,
     "holdings": [
       {
         "symbol": "MU",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64600.01,
-      "change_pct": 0.0
+      "price": 64588.6,
+      "change_pct": -0.01
     },
     {
       "label": "Gold",
-      "price": 4330.1,
-      "change_pct": 1.99
+      "price": 4329.3,
+      "change_pct": 1.97
     },
     {
       "label": "Nasdaq100",

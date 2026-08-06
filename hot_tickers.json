@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-06T10:44:27+00:00",
+  "as_of": "2026-08-06T10:59:36+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,10 +9,26 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "APP",
+   "company": "Applovin Corp",
+   "move_pct": -17.92,
+   "price": 342.94,
+   "volume": 10529600,
+   "volume_vs_avg": "~2x",
+   "heat_score": 86,
+   "direction": "down",
+   "why": "AppLovin shares tumble as revenue miss and cautious outlook outweigh earnings beat",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/applovin-shares-tumble-revenue-miss-100819834.html",
+   "published": "2026-08-06T10:08:19Z",
+   "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 2,
    "ticker": "SOUN",
    "company": "SoundHound AI Inc",
-   "move_pct": 24.57,
-   "price": 8.01,
+   "move_pct": 25.35,
+   "price": 8.06,
    "volume": 30585300,
    "volume_vs_avg": "~1.0x",
    "heat_score": 82,

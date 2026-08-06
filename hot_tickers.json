@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-06T14:41:05+00:00",
+  "as_of": "2026-08-06T14:55:37+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,51 +9,51 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "SPCX",
-   "company": "SpaceX",
-   "move_pct": -13.61,
-   "price": 108.27,
-   "volume": 206590000,
-   "volume_vs_avg": "~3x",
+   "ticker": "MGNI",
+   "company": "Magnite Inc",
+   "move_pct": 21.79,
+   "price": 25.17,
+   "volume": 4110920,
+   "volume_vs_avg": "~2x",
    "heat_score": 86,
-   "direction": "down",
-   "why": "SpaceX stock below $100 is a buying opportunity: Panel on end of lockup period",
+   "direction": "up",
+   "why": "Is Magnite\u2019s H1 2026 Profit Surge With Modest Sales Growth Altering The Investment Case For Magnite (MGNI)?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/video/spacex-stock-below-100-buying-135755889.html",
-   "published": "2026-08-06T13:57:55Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/magnite-h1-2026-profit-surge-111153368.html",
+   "published": "2026-08-06T11:11:53Z",
+   "sector": "AI Platforms, Internet & AdTech"
   },
   {
    "rank": 2,
-   "ticker": "AMD",
-   "company": "Advanced Micro Devices Inc",
-   "move_pct": -7.04,
-   "price": 482.05,
-   "volume": 49458300,
+   "ticker": "DDOG",
+   "company": "Datadog Inc",
+   "move_pct": -14.56,
+   "price": 241.94,
+   "volume": 6678174,
    "volume_vs_avg": "~2x",
-   "heat_score": 48,
+   "heat_score": 84,
    "direction": "down",
-   "why": "MU, WDC, SKHY, AMD \u2014 VanEck\u2019s Nicholas Frasse Downplays Volatility In Semiconductor Stocks, Says Chip Trade Is Still Very Strong",
+   "why": "Software stocks sink, led by declines from Figma, Datadog",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/mu-wdc-skhy-amd-vaneck-125934125.html",
-   "published": "2026-08-06T12:59:34Z",
-   "sector": "AI Chips & Compute"
+   "source_url": "https://finance.yahoo.com/markets/article/software-stocks-sink-led-by-declines-from-figma-datadog-144104020.html",
+   "published": "2026-08-06T14:41:04Z",
+   "sector": "AI Applications & Data Software"
   },
   {
    "rank": 3,
-   "ticker": "UPST",
-   "company": "Upstart Holdings Inc",
-   "move_pct": -0.4,
-   "price": 30.2,
-   "volume": 12309300,
-   "volume_vs_avg": "~3x",
-   "heat_score": 32,
+   "ticker": "APP",
+   "company": "Applovin Corp",
+   "move_pct": -19.5,
+   "price": 336.31,
+   "volume": 6954024,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 83,
    "direction": "down",
-   "why": "Upstart (UPST) Stock Still Looks Pricey Following Its 82% Five Year Slump",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/upstart-upst-stock-still-looks-111113979.html",
-   "published": "2026-08-06T11:11:13Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
+   "why": "AppLovin (APP) Tumbled After Earnings, Is It Now A Bargain?",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/applovin-app-tumbled-earnings-now-141843614.html",
+   "published": "2026-08-06T14:18:43Z",
+   "sector": "AI Platforms, Internet & AdTech"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-06T13:19:39+00:00",
+  "as_of": "2026-08-06T13:34:49+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,19 +9,83 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "UPST",
-   "company": "Upstart Holdings Inc",
-   "move_pct": 0.0,
-   "price": 30.2,
-   "volume": 12309300,
-   "volume_vs_avg": "~3x",
-   "heat_score": 30,
+   "ticker": "DDOG",
+   "company": "Datadog Inc",
+   "move_pct": -17.88,
+   "price": 232.53,
+   "volume": 2993599,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 81,
    "direction": "down",
-   "why": "Upstart (UPST) Stock Still Looks Pricey Following Its 82% Five Year Slump",
+   "why": "Dow Jones Futures Rise But Techs Fall As Sandisk, Western Digital, Datadog Lead Earnings Losers",
+   "catalyst_type": "earnings",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-google-spacex-skid-sandisk-western-digital-earnings/?src=A00220&yptr=yahoo",
+   "published": "2026-08-06T12:04:49Z",
+   "sector": "AI Applications & Data Software"
+  },
+  {
+   "rank": 2,
+   "ticker": "MGNI",
+   "company": "Magnite Inc",
+   "move_pct": 20.22,
+   "price": 24.85,
+   "volume": 1451214,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 80,
+   "direction": "up",
+   "why": "Is Magnite\u2019s H1 2026 Profit Surge With Modest Sales Growth Altering The Investment Case For Magnite (MGNI)?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/upstart-upst-stock-still-looks-111113979.html",
-   "published": "2026-08-06T11:11:13Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/magnite-h1-2026-profit-surge-111153368.html",
+   "published": "2026-08-06T11:11:53Z",
+   "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 3,
+   "ticker": "APP",
+   "company": "Applovin Corp",
+   "move_pct": -16.97,
+   "price": 346.92,
+   "volume": 1979408,
+   "volume_vs_avg": "~0.3x",
+   "heat_score": 79,
+   "direction": "down",
+   "why": "AppLovin Stock Falls 17% Despite a 98 Rule of 40",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/applovin-stock-falls-17-despite-123621455.html",
+   "published": "2026-08-06T12:36:21Z",
+   "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 4,
+   "ticker": "SKHY",
+   "company": "SK hynix Inc (ADR)",
+   "move_pct": -7.83,
+   "price": 139.2,
+   "volume": 4195642,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 43,
+   "direction": "down",
+   "why": "MU, WDC, SKHY, AMD \u2014 VanEck\u2019s Nicholas Frasse Downplays Volatility In Semiconductor Stocks, Says Chip Trade Is Still Very Strong",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/mu-wdc-skhy-amd-vaneck-125934125.html",
+   "published": "2026-08-06T12:59:34Z",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 5,
+   "ticker": "MU",
+   "company": "Micron Technology Inc",
+   "move_pct": -6.28,
+   "price": 837.1,
+   "volume": 4353037,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 37,
+   "direction": "down",
+   "why": "Why Micron and Other Memory Stocks Are Taking Another Hit",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.barrons.com/articles/micron-stock-memory-chip-73cdf24e?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-08-06T11:44:00Z",
+   "sector": "AI Chips & Compute"
   }
  ]
 }

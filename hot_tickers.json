@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-06T09:02:54+00:00",
+  "as_of": "2026-08-06T09:17:57+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "SOUN",
+   "company": "SoundHound AI Inc",
+   "move_pct": 22.72,
+   "price": 7.89,
+   "volume": 30585300,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 82,
+   "direction": "up",
+   "why": "Why Is SOUN Stock Surging Over 20% Overnight?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-soun-stock-surging-over-055707413.html",
+   "published": "2026-08-06T05:57:07Z",
+   "sector": "AI Applications & Data Software"
+  }
+ ]
 }

@@ -1,15 +1,17 @@
 {
-  "as_of_utc": "2026-08-06T02:02:03+00:00",
-  "as_of_local": "2026-08-06 02:02:03 UTC",
+  "as_of_utc": "2026-08-06T02:17:33+00:00",
+  "as_of_local": "2026-08-06 02:17:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
       "price": 219.22,
-      "previous_close": 211.94,
-      "change_pct": 3.43,
+      "previous_close": 206.64,
+      "change_pct": 6.09,
       "market_cap": 5309727649566.65,
       "headlines": [
         {
@@ -28,7 +30,7 @@
           "title": "Dow Jones Futures: Nvidia Lifts Dow, But Google, SpaceX Skid; Sandisk, Western Digital Lead Earnings Losers Late",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-google-spacex-skid-sandisk-western-digital-earnings/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-08-06T01:50:23Z"
+          "published": "2026-08-06T02:08:30Z"
         }
       ]
     },
@@ -117,34 +119,6 @@
       ]
     },
     {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 482.05,
-      "previous_close": 518.58,
-      "change_pct": -7.04,
-      "market_cap": 786031018125.157,
-      "headlines": [
-        {
-          "title": "The companies defying macro uncertainty and raising guidance: AlphaCheck",
-          "url": "https://finance.yahoo.com/markets/article/the-companies-defying-macro-uncertainty-and-raising-guidance-alphacheck-140605238.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-05T14:06:05Z"
-        },
-        {
-          "title": "Dow Jones Futures: Nvidia Lifts Dow, But Google, SpaceX Skid; Sandisk, Western Digital Lead Earnings Losers Late",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-google-spacex-skid-sandisk-western-digital-earnings/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-06T01:50:23Z"
-        },
-        {
-          "title": "Asia shares ease on tech pullback, oil stable as Iran talks stay in focus",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-shares-ease-tech-pullback-012838047.html",
-          "publisher": "Reuters",
-          "published": "2026-08-06T01:28:38Z"
-        }
-      ]
-    },
-    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 101.06,
@@ -176,8 +150,8 @@
       "symbol": "ARM",
       "name": "Arm Holdings",
       "price": 274.58,
-      "previous_close": 280.56,
-      "change_pct": -2.13,
+      "previous_close": 239.06,
+      "change_pct": 14.86,
       "market_cap": 293251032735.2189,
       "headlines": [
         {
@@ -204,8 +178,8 @@
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "price": 211.02,
-      "previous_close": 218.59,
-      "change_pct": -3.46,
+      "previous_close": 193.78,
+      "change_pct": 8.9,
       "market_cap": 189399827976.18347,
       "headlines": [
         {
@@ -260,8 +234,8 @@
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
       "price": 231.15,
-      "previous_close": 237.6,
-      "change_pct": -2.71,
+      "previous_close": 224.17,
+      "change_pct": 3.11,
       "market_cap": 58287747281.012024,
       "headlines": [
         {
@@ -288,8 +262,8 @@
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
       "price": 128.31,
-      "previous_close": 138.0,
-      "change_pct": -7.02,
+      "previous_close": 127.18,
+      "change_pct": 0.89,
       "market_cap": 18223903853.566406,
       "headlines": [
         {
@@ -316,8 +290,8 @@
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 168.06,
-      "previous_close": 169.02,
-      "change_pct": -0.57,
+      "previous_close": 159.18,
+      "change_pct": 5.58,
       "market_cap": 8505185398.245239,
       "headlines": [
         {
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -8.33,
-          "price": 1529000.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -5.49,
-          "price": 232500.0,
+          "change_pct": -5.69,
+          "price": 232000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -10.09,
-          "price": 48820.0,
+          "change_pct": -1.32,
+          "price": 48510.0,
           "currency": "JPY"
         },
         {
@@ -445,7 +419,7 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -5.4,
+          "change_pct": 4.85,
           "price": 1350.5,
           "currency": "USD"
         },
@@ -454,7 +428,7 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -0.91,
+          "change_pct": 0.79,
           "price": 837.66,
           "currency": "USD"
         },
@@ -463,8 +437,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -5.36,
-          "price": 519.17,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 0.79,
-          "price": 448.5,
+          "change_pct": -0.45,
+          "price": 443.0,
           "currency": "TWD"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -8.33,
-        "price": 1529000.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -5.49,
-        "price": 232500.0,
+        "change_pct": -5.69,
+        "price": 232000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -10.09,
-        "price": 48820.0,
+        "change_pct": -1.32,
+        "price": 48510.0,
         "currency": "JPY"
       },
       {
@@ -535,7 +509,7 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -5.4,
+        "change_pct": 4.85,
         "price": 1350.5,
         "currency": "USD"
       },
@@ -544,7 +518,7 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -0.91,
+        "change_pct": 0.79,
         "price": 837.66,
         "currency": "USD"
       },
@@ -553,8 +527,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -5.36,
-        "price": 519.17,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 0.79,
-        "price": 448.5,
+        "change_pct": -0.45,
+        "price": 443.0,
         "currency": "TWD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64528.9,
-      "change_pct": 0.74
+      "price": 64473.49,
+      "change_pct": 0.65
     },
     {
       "label": "Gold",
-      "price": 4356.1,
-      "change_pct": 6.37
+      "price": 4362.6,
+      "change_pct": 6.52
     },
     {
       "label": "Nasdaq100",

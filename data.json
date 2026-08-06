@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-08-06T07:36:45+00:00",
-  "as_of_local": "2026-08-06 07:36:45 UTC",
+  "as_of_utc": "2026-08-06T07:51:44+00:00",
+  "as_of_local": "2026-08-06 07:51:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 219.22,
-      "previous_close": 211.94,
-      "change_pct": 3.43,
-      "market_cap": 5309727649566.65,
-      "headlines": [
-        {
-          "title": "Nvidia stock rises after Musk says SpaceX will exclusively use company's chips",
-          "url": "https://finance.yahoo.com/technology/article/nvidia-stock-rises-after-musk-says-spacex-will-exclusively-use-companys-chips-211803293.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-04T21:18:03Z"
-        },
-        {
-          "title": "SpaceX stock declines post-earnings. Are investors worried about AI spending?",
-          "url": "https://finance.yahoo.com/video/spacex-stock-declines-post-earnings-133053667.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-08-05T13:30:53Z"
-        },
-        {
-          "title": "Amazon, Alphabet, and Microsoft All Delivered Soaring Cloud Growth Thanks to AI. Here's the 1 I'd Buy Right Now",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-alphabet-microsoft-delivered-soaring-072201090.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-06T07:22:01Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64820.18,
-      "change_pct": 0.34
+      "price": 64768.5,
+      "change_pct": 0.26
     },
     {
       "label": "Gold",
-      "price": 4321.6,
-      "change_pct": 1.79
+      "price": 4315.8,
+      "change_pct": 1.65
     },
     {
       "label": "Nasdaq100",

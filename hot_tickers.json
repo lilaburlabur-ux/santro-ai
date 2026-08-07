@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-07T10:26:32+00:00",
+  "as_of": "2026-08-07T10:29:39+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "TTD",
    "company": "Trade Desk Inc",
-   "move_pct": -27.73,
-   "price": 12.77,
+   "move_pct": -27.89,
+   "price": 12.74,
    "volume": 88903400,
    "volume_vs_avg": "~6x",
    "heat_score": 99,
@@ -27,16 +27,16 @@
    "rank": 2,
    "ticker": "NET",
    "company": "Cloudflare Inc",
-   "move_pct": 15.35,
-   "price": 328.09,
+   "move_pct": 16.65,
+   "price": 331.79,
    "volume": 5499900,
    "volume_vs_avg": "~2x",
    "heat_score": 86,
    "direction": "up",
-   "why": "Update: Cloudflare Shares Surge Pre-Bell After Q2 Beat, Upgraded 2026 Guidance",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-shares-surge-pre-bell-090704969.html",
-   "published": "2026-08-07T09:07:04Z",
+   "why": "Dow Jones Futures: Cloudflare Leads 5 Software Earnings Winners Late; Jobs Report On Tap",
+   "catalyst_type": "earnings",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-jobs-report-cloudflare-sezzle-earnings-movers/?src=A00220&yptr=yahoo",
+   "published": "2026-08-07T10:16:28Z",
    "sector": "AI Software & Cloud Infrastructure"
   },
   {

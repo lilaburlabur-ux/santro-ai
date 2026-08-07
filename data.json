@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-07T10:06:00+00:00",
-  "as_of_local": "2026-08-07 10:06:00 UTC",
+  "as_of_utc": "2026-08-07T10:11:07+00:00",
+  "as_of_local": "2026-08-07 10:11:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "QCOM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -231,6 +229,34 @@
       ]
     },
     {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "price": 160.39,
+      "previous_close": 157.53,
+      "change_pct": 1.82,
+      "market_cap": 168409499359.13086,
+      "headlines": [
+        {
+          "title": "Earn 14% On MRVL Stock Now, Or Own It 60% Cheaper Later",
+          "url": "https://finance.yahoo.com/markets/options/articles/earn-14-mrvl-stock-now-014835622.html",
+          "publisher": "Trefis",
+          "published": "2026-08-07T01:48:35Z"
+        },
+        {
+          "title": "Qualcomm (QCOM) Stock Fair Value Moves Lower As Margin Pressure Offsets AI Ambitions",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-fair-value-231733386.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-06T23:17:33Z"
+        },
+        {
+          "title": "What You Actually Pay To Join The SITM Run",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/actually-pay-join-sitm-run-203500234.html",
+          "publisher": "Trefis",
+          "published": "2026-08-06T20:35:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
       "price": 231.78,
@@ -264,7 +290,7 @@
       "price": 128.7,
       "previous_close": 128.31,
       "change_pct": 0.3,
-      "market_cap": 18279295572.958008,
+      "market_cap": 18243122765.715744,
       "headlines": [
         {
           "title": "Lattice Semiconductor (LSCC) Posted Record Q2 Results, Is The Stock Still Undervalued?",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64800.27,
-      "change_pct": 0.84
+      "price": 64784.74,
+      "change_pct": 0.81
     },
     {
       "label": "Gold",
-      "price": 4378.4,
-      "change_pct": 3.22
+      "price": 4377.7,
+      "change_pct": 3.2
     },
     {
       "label": "Nasdaq100",

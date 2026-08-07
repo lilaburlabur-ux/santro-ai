@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-07T10:29:39+00:00",
+  "as_of": "2026-08-07T10:44:42+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "TTD",
    "company": "Trade Desk Inc",
-   "move_pct": -27.89,
-   "price": 12.74,
+   "move_pct": -27.33,
+   "price": 12.84,
    "volume": 88903400,
    "volume_vs_avg": "~6x",
    "heat_score": 99,
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "NET",
    "company": "Cloudflare Inc",
-   "move_pct": 16.65,
-   "price": 331.79,
+   "move_pct": 16.32,
+   "price": 330.85,
    "volume": 5499900,
    "volume_vs_avg": "~2x",
    "heat_score": 86,
@@ -43,8 +43,8 @@
    "rank": 3,
    "ticker": "PUBM",
    "company": "PubMatic Inc",
-   "move_pct": 31.68,
-   "price": 17.75,
+   "move_pct": 36.05,
+   "price": 18.34,
    "volume": 775900,
    "volume_vs_avg": "~2x",
    "heat_score": 85,
@@ -54,6 +54,22 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/pubmatic-q2-earnings-call-highlights-090402047.html",
    "published": "2026-08-07T09:04:02Z",
    "sector": "AI Applications & Data Software"
+  },
+  {
+   "rank": 4,
+   "ticker": "SPCX",
+   "company": "SpaceX",
+   "move_pct": 1.55,
+   "price": 116.7,
+   "volume": 254155500,
+   "volume_vs_avg": "~3x",
+   "heat_score": 36,
+   "direction": "up",
+   "why": "SpaceX and Tesla Are Building Their Own $119 Billion Chip Factory \u2014 and the Compute Landlord Thesis Just Got Its Most Expensive Chapter",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/spacex-tesla-building-own-119-102744643.html",
+   "published": "2026-08-07T10:27:44Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-07T10:49:48+00:00",
-  "as_of_local": "2026-08-07 10:49:48 UTC",
+  "as_of_utc": "2026-08-07T10:51:24+00:00",
+  "as_of_local": "2026-08-07 10:51:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -43,10 +41,10 @@
       "market_cap": 2168983495548.0503,
       "headlines": [
         {
-          "title": "Dow Jones Futures: Cloudflare Leads 5 Software Earnings Winners Late; Jobs Report On Tap",
+          "title": "Dow Jones Futures Rise As Cloudflare Leads Big Software Winners; Jobs Report On Tap",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-jobs-report-cloudflare-sezzle-earnings-movers/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-08-07T10:36:49Z"
+          "published": "2026-08-07T10:49:09Z"
         },
         {
           "title": "Lazard Fund Beating 93% of Peers Adds Samsung During Memory Rout",
@@ -199,6 +197,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-chipmakers-175735868.html",
           "publisher": "MT Newswires",
           "published": "2026-08-06T17:57:35Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 210.54,
+      "previous_close": 211.02,
+      "change_pct": -0.23,
+      "market_cap": 188968996792.42596,
+      "headlines": [
+        {
+          "title": "Insight Enterprises Q2 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/technology/ai/articles/insight-enterprises-q2-earnings-call-060408917.html",
+          "publisher": "MarketBeat",
+          "published": "2026-08-07T06:04:08Z"
+        },
+        {
+          "title": "Earn 14% On MRVL Stock Now, Or Own It 60% Cheaper Later",
+          "url": "https://finance.yahoo.com/markets/options/articles/earn-14-mrvl-stock-now-014835622.html",
+          "publisher": "Trefis",
+          "published": "2026-08-07T01:48:35Z"
+        },
+        {
+          "title": "Astera Labs Beat And Guided Higher, Then Fell Because The Rally Came First",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-beat-guided-higher-185144694.html",
+          "publisher": "Trefis",
+          "published": "2026-08-06T18:51:44Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64854.74,
-      "change_pct": 0.92
+      "price": 64869.43,
+      "change_pct": 0.95
     },
     {
       "label": "Gold",
-      "price": 4377.5,
-      "change_pct": 3.19
+      "price": 4376.0,
+      "change_pct": 3.16
     },
     {
       "label": "Nasdaq100",

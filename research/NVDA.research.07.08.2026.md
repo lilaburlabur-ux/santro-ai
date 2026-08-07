@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Call options explained: From opening trade to expiration | Yahoo Personal Finance | 2026-08-07 |
+| Why Fermi Stock Collapased 37.9% in July | Motley Fool | 2026-08-07 |
 | Nvidia’s (NVDA) Alpamayo Launch and the Robotaxi Bet | Insider Monkey | 2026-08-07 |
 | Nvidia, Microsoft Partner Tests Breakout. Three Clues Bode Well. | Investor's Business Daily | 2026-08-07 |
-| The Trade Desk Rebuilt Its C-Suite in Two Months. Its First Guidance Since Points to a 12% Revenue Decline. | Motley Fool | 2026-08-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

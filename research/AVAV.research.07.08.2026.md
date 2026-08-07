@@ -36,10 +36,10 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 | Headline | Source | Date |
 |---|---|---|
+| AVAV Stock Jumps 8% On Reported $400M Army Deal — Why Retail Sees AeroVironment’s Laser Weapons Moving Beyond Testing | Stocktwits | 2026-08-07 |
 | Stocks to Watch: Trade Desk, Under Armour, Atlassian, Airbnb | The Wall Street Journal | 2026-08-07 |
 | AeroVironment (AVAV) Advances While Market Declines: Some Information for Investors | Zacks | 2026-08-06 |
 | Ondas Stock Gains 21% in a Month: Is There More Upside Ahead? | Zacks | 2026-08-06 |
-| Fortinet  and Ecopetrol  have been highlighted as Zacks Bull and Bear of the Day | Zacks | 2026-08-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

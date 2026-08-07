@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-07T00:38:33+00:00",
-  "as_of_local": "2026-08-07 00:38:33 UTC",
+  "as_of_utc": "2026-08-07T00:43:19+00:00",
+  "as_of_local": "2026-08-07 00:43:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5304156923049.927,
       "headlines": [
         {
+          "title": "Jamie Dimon makes huge call on AI and U.S. economy",
+          "url": "https://finance.yahoo.com/economy/policy/articles/jamie-dimon-makes-huge-call-003700365.html",
+          "publisher": "TheStreet",
+          "published": "2026-08-07T00:37:00Z"
+        },
+        {
           "title": "2 Energy Stocks With More Hype Than Fundamentals Right Now",
           "url": "https://finance.yahoo.com/energy/articles/2-energy-stocks-more-hype-002500522.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/card-network-card-lender-business-002000834.html",
           "publisher": "Motley Fool",
           "published": "2026-08-07T00:20:00Z"
-        },
-        {
-          "title": "Four of Google's Top AI Researchers Just Left to Start One Company. Alphabet Is Investing in It.",
-          "url": "https://finance.yahoo.com/technology/ai/articles/four-googles-top-ai-researchers-000200653.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-07T00:02:00Z"
         }
       ]
     },
@@ -290,7 +290,7 @@
       "price": 128.7,
       "previous_close": 128.31,
       "change_pct": 0.3,
-      "market_cap": 18243122765.715744,
+      "market_cap": 18279295572.958008,
       "headlines": [
         {
           "title": "Lattice Semiconductor (LSCC) Posted Record Q2 Results, Is The Stock Still Undervalued?",
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 0.33,
-          "price": 1500000.0,
+          "change_pct": -0.8,
+          "price": 1483000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 2.17,
-          "price": 235500.0,
+          "change_pct": 1.3,
+          "price": 233500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -2.2,
-          "price": 47670.0,
+          "change_pct": -1.42,
+          "price": 48050.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 0.33,
-        "price": 1500000.0,
+        "change_pct": -0.8,
+        "price": 1483000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 2.17,
-        "price": 235500.0,
+        "change_pct": 1.3,
+        "price": 233500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -2.2,
-        "price": 47670.0,
+        "change_pct": -1.42,
+        "price": 48050.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64215.64,
-      "change_pct": -0.59
+      "price": 64232.76,
+      "change_pct": -0.56
     },
     {
       "label": "Gold",
-      "price": 4300.9,
-      "change_pct": 1.3
+      "price": 4300.6,
+      "change_pct": 1.29
     },
     {
       "label": "Nasdaq100",

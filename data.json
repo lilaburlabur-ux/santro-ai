@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-07T05:15:43+00:00",
-  "as_of_local": "2026-08-07 05:15:43 UTC",
+  "as_of_utc": "2026-08-07T05:18:28+00:00",
+  "as_of_local": "2026-08-07 05:18:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -57,34 +59,6 @@
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-jobs-report-cloudflare-sezzle-earnings-movers/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-08-07T03:05:45Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 420.57,
-      "previous_close": 418.28,
-      "change_pct": 0.55,
-      "market_cap": 2000895538718.418,
-      "headlines": [
-        {
-          "title": "Is Broadcom the Best Chip Stock to Own Now? Maybe",
-          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-best-chip-stock-own-045701492.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-07T04:57:01Z"
-        },
-        {
-          "title": "Where to Invest in AI in 2026: A Guide for Advisors",
-          "url": "https://finance.yahoo.com/technology/ai/articles/where-invest-ai-2026-guide-030049481.html",
-          "publisher": "etf.com",
-          "published": "2026-08-07T03:00:49Z"
-        },
-        {
-          "title": "Earn 14% On MRVL Stock Now, Or Own It 60% Cheaper Later",
-          "url": "https://finance.yahoo.com/markets/options/articles/earn-14-mrvl-stock-now-014835622.html",
-          "publisher": "Trefis",
-          "published": "2026-08-07T01:48:35Z"
         }
       ]
     },
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -1.99,
-          "price": 47770.0,
+          "change_pct": -0.86,
+          "price": 48320.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -1.53,
-          "price": 452.0,
+          "change_pct": -1.2,
+          "price": 453.5,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -5.26,
-          "price": 162.0,
+          "change_pct": -4.97,
+          "price": 162.5,
           "currency": "TWD"
         }
       ]
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -1.99,
-        "price": 47770.0,
+        "change_pct": -0.86,
+        "price": 48320.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -1.53,
-        "price": 452.0,
+        "change_pct": -1.2,
+        "price": 453.5,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -5.26,
-        "price": 162.0,
+        "change_pct": -4.97,
+        "price": 162.5,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64197.28,
-      "change_pct": -0.62
+      "price": 64162.01,
+      "change_pct": -0.67
     },
     {
       "label": "Gold",
-      "price": 4323.0,
-      "change_pct": 1.91
+      "price": 4322.2,
+      "change_pct": 1.89
     },
     {
       "label": "Nasdaq100",

@@ -1,11 +1,8 @@
 {
-  "as_of_utc": "2026-08-07T21:10:32+00:00",
-  "as_of_local": "2026-08-07 21:10:32 UTC",
+  "as_of_utc": "2026-08-07T21:15:44+00:00",
+  "as_of_local": "2026-08-07 21:15:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM",
-    "NXPI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -176,6 +173,34 @@
       ]
     },
     {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 282.57,
+      "previous_close": 286.68,
+      "change_pct": -1.43,
+      "market_cap": 301784363464.58514,
+      "headlines": [
+        {
+          "title": "SpaceX's influence ripples across markets: AlphaCheck",
+          "url": "https://finance.yahoo.com/markets/article/spacexs-influence-ripples-across-markets-alphacheck-144205821.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-08-07T14:42:05Z"
+        },
+        {
+          "title": "Update: US Equity Indexes Mixed as Technology, Energy Help Blunt Broad-Based Declines",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-technology-195530717.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-06T19:55:30Z"
+        },
+        {
+          "title": "Prediction: Arm Holdings Will Trade at This Price in 12 Months",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-arm-holdings-trade-price-180053180.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-06T18:00:53Z"
+        }
+      ]
+    },
+    {
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "price": 218.72,
@@ -228,6 +253,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/mu-stock-compound-way-higher-124725174.html",
           "publisher": "Trefis",
           "published": "2026-08-07T12:47:25Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors",
+      "price": 239.71,
+      "previous_close": 231.78,
+      "change_pct": 3.42,
+      "market_cap": 60446275842.53677,
+      "headlines": [
+        {
+          "title": "The companies emerging as new leaders in this renewed AI rally",
+          "url": "https://finance.yahoo.com/video/companies-emerging-leaders-renewed-ai-191536658.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-08-05T19:15:36Z"
+        },
+        {
+          "title": "Nvidia Stock Retakes Key Level As Chip Stocks Waver",
+          "url": "https://www.investors.com/news/technology/nvidia-stock-up-chip-stocks-sox-index-wavers/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-08-03T20:36:24Z"
+        },
+        {
+          "title": "NXP downgraded by UBS as China and AI risks cloud growth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-downgraded-ubs-china-ai-144300140.html",
+          "publisher": "Proactive",
+          "published": "2026-08-03T14:43:00Z"
         }
       ]
     },
@@ -532,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 64938.52,
-      "change_pct": 1.05
+      "price": 64972.12,
+      "change_pct": 1.1
     },
     {
       "label": "Gold",

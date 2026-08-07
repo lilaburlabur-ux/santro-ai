@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-07T13:15:56+00:00",
+  "as_of": "2026-08-07T13:31:00+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,45 +9,13 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "TTD",
-   "company": "Trade Desk Inc",
-   "move_pct": -29.21,
-   "price": 12.51,
-   "volume": 88903400,
-   "volume_vs_avg": "~6x",
-   "heat_score": 99,
-   "direction": "down",
-   "why": "Trade Desk Stock Crashes After Earnings Miss Shocks Wall Street",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/media-advertising/articles/trade-desk-stock-crashes-earnings-123858832.html",
-   "published": "2026-08-07T12:38:58Z",
-   "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 2,
-   "ticker": "NET",
-   "company": "Cloudflare Inc",
-   "move_pct": 14.62,
-   "price": 326.01,
-   "volume": 5499900,
-   "volume_vs_avg": "~2x",
-   "heat_score": 85,
-   "direction": "up",
-   "why": "Stock Market Today: Dow Rises On Surprise Jobs Report; AI Stock Cloudflare Soars On Earnings (Live Coverage)",
-   "catalyst_type": "earnings",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-july-jobs-report-cloudflare-stock/?src=A00220&yptr=yahoo",
-   "published": "2026-08-07T12:59:55Z",
-   "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
-   "rank": 3,
    "ticker": "DV",
    "company": "DoubleVerify Holdings Inc",
-   "move_pct": 12.98,
+   "move_pct": 12.94,
    "price": 13.23,
-   "volume": 4567600,
-   "volume_vs_avg": "~2x",
-   "heat_score": 78,
+   "volume": 12103901,
+   "volume_vs_avg": "~4x",
+   "heat_score": 91,
    "direction": "up",
    "why": "DoubleVerify's Fingerprints Are All Over This Takeover Profile",
    "catalyst_type": "mna",
@@ -56,20 +24,36 @@
    "sector": "AI Platforms, Internet & AdTech"
   },
   {
-   "rank": 4,
-   "ticker": "SPCX",
-   "company": "SpaceX",
-   "move_pct": 0.19,
-   "price": 115.14,
-   "volume": 254155500,
-   "volume_vs_avg": "~3x",
-   "heat_score": 31,
+   "rank": 2,
+   "ticker": "TTD",
+   "company": "Trade Desk Inc",
+   "move_pct": -25.95,
+   "price": 13.09,
+   "volume": 23204388,
+   "volume_vs_avg": "~1.3x",
+   "heat_score": 84,
+   "direction": "down",
+   "why": "The Trade Desk Shares Sink After Weak Results Trigger Wave of Analyst Downgrades",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/media-advertising/articles/trade-desk-shares-sink-weak-123958424.html",
+   "published": "2026-08-07T12:39:58Z",
+   "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 3,
+   "ticker": "NET",
+   "company": "Cloudflare Inc",
+   "move_pct": 11.71,
+   "price": 317.73,
+   "volume": 311817,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 66,
    "direction": "up",
-   "why": "Here Are Friday\u2019s Top Wall Street Analyst Research Calls: Baker Hughes, Etsy, HubSpot, Instacart, JetBlue, Roku, SpaceX, Tower Semiconductor, Trade Desk, and More",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/friday-top-wall-street-analyst-115124768.html",
-   "published": "2026-08-07T11:51:24Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
+   "why": "Cloudflare second quarter results boosted by strong AI demand",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/cloudflare-second-quarter-results-boosted-130400912.html",
+   "published": "2026-08-07T13:04:00Z",
+   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

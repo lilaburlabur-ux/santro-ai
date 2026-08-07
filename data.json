@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-07T05:18:28+00:00",
-  "as_of_local": "2026-08-07 05:18:28 UTC",
+  "as_of_utc": "2026-08-07T05:33:41+00:00",
+  "as_of_local": "2026-08-07 05:33:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,6 +12,12 @@
       "change_pct": -0.1,
       "market_cap": 5304156923049.927,
       "headlines": [
+        {
+          "title": "SpaceX (SPCX) Unveils Orbital AI Network And $16.8 Billion Chip Factory Plans",
+          "url": "https://finance.yahoo.com/technology/ai/articles/spacex-spcx-unveils-orbital-ai-051429949.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-07T05:14:29Z"
+        },
         {
           "title": "SharonAI Holdings Inc (SHAZ) (Q2 2026) Earnings Call Highlights: AI Capacity Surges to 212MW ...",
           "url": "https://finance.yahoo.com/technology/ai/articles/sharonai-holdings-inc-shaz-q2-050635678.html",
@@ -25,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/sofi-visa-earnings-point-consumer-050046903.html",
           "publisher": "Motley Fool",
           "published": "2026-08-07T05:00:46Z"
-        },
-        {
-          "title": "Is Broadcom the Best Chip Stock to Own Now? Maybe",
-          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-best-chip-stock-own-045701492.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-07T04:57:01Z"
         }
       ]
     },
@@ -59,6 +57,34 @@
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-jobs-report-cloudflare-sezzle-earnings-movers/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-08-07T03:05:45Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 420.57,
+      "previous_close": 418.28,
+      "change_pct": 0.55,
+      "market_cap": 2000895538718.418,
+      "headlines": [
+        {
+          "title": "Is Broadcom the Best Chip Stock to Own Now? Maybe",
+          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-best-chip-stock-own-045701492.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-07T04:57:01Z"
+        },
+        {
+          "title": "Where to Invest in AI in 2026: A Guide for Advisors",
+          "url": "https://finance.yahoo.com/technology/ai/articles/where-invest-ai-2026-guide-030049481.html",
+          "publisher": "etf.com",
+          "published": "2026-08-07T03:00:49Z"
+        },
+        {
+          "title": "Earn 14% On MRVL Stock Now, Or Own It 60% Cheaper Later",
+          "url": "https://finance.yahoo.com/markets/options/articles/earn-14-mrvl-stock-now-014835622.html",
+          "publisher": "Trefis",
+          "published": "2026-08-07T01:48:35Z"
         }
       ]
     },
@@ -264,7 +290,7 @@
       "price": 128.7,
       "previous_close": 128.31,
       "change_pct": 0.3,
-      "market_cap": 18243122765.715744,
+      "market_cap": 18279295572.958008,
       "headlines": [
         {
           "title": "Lattice Semiconductor (LSCC) Posted Record Q2 Results, Is The Stock Still Undervalued?",
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -5.28,
-          "price": 1416000.0,
+          "change_pct": -4.62,
+          "price": 1426000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.65,
-          "price": 232000.0,
+          "change_pct": 1.08,
+          "price": 233000.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -0.86,
-          "price": 48320.0,
+          "change_pct": -0.88,
+          "price": 48310.0,
           "currency": "JPY"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -1.2,
-          "price": 453.5,
+          "change_pct": -0.33,
+          "price": 457.5,
           "currency": "TWD"
         },
         {
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -4.97,
-          "price": 162.5,
+          "change_pct": -3.8,
+          "price": 164.5,
           "currency": "TWD"
         }
       ]
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -5.28,
-        "price": 1416000.0,
+        "change_pct": -4.62,
+        "price": 1426000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.65,
-        "price": 232000.0,
+        "change_pct": 1.08,
+        "price": 233000.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -0.86,
-        "price": 48320.0,
+        "change_pct": -0.88,
+        "price": 48310.0,
         "currency": "JPY"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -1.2,
-        "price": 453.5,
+        "change_pct": -0.33,
+        "price": 457.5,
         "currency": "TWD"
       },
       {
@@ -545,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -4.97,
-        "price": 162.5,
+        "change_pct": -3.8,
+        "price": 164.5,
         "currency": "TWD"
       }
     ]
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64162.01,
-      "change_pct": -0.67
+      "price": 64132.35,
+      "change_pct": -0.72
     },
     {
       "label": "Gold",
-      "price": 4322.2,
-      "change_pct": 1.89
+      "price": 4327.1,
+      "change_pct": 2.01
     },
     {
       "label": "Nasdaq100",

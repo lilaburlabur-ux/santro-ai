@@ -36,10 +36,10 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
+| Stocks Supported as Fed Rate Hike Fears Ease | Barchart | 2026-08-07 |
 | The companies emerging as new leaders in this renewed AI rally | Yahoo Finance Video | 2026-08-05 |
 | Nvidia Stock Retakes Key Level As Chip Stocks Waver | Investor's Business Daily | 2026-08-03 |
 | NXP downgraded by UBS as China and AI risks cloud growth | Proactive | 2026-08-03 |
-| UBS downgrades NXP to Neutral on China auto risks, trims PT to $270 | Investing.com | 2026-08-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Nvidia ends week up more than 10% as AI chip fears ease | Yahoo Finance | 2026-08-07 |
 | Call options explained: From opening trade to expiration | Yahoo Personal Finance | 2026-08-07 |
-| Telephone and Data Systems, Inc. Q2 2026 Earnings Call Summary | Moby | 2026-08-07 |
-| Treace Medical Concepts, Inc. Q2 2026 Earnings Call Summary | Moby | 2026-08-07 |
+| Why Redwire Stock Keeps Gaining | Motley Fool | 2026-08-07 |
+| Essent Group Ltd. Q2 2026 Earnings Call Summary | Moby | 2026-08-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| News of the day: Interfor's move to U.S., job gains, AMD buying Taalas, interest rate expectations, short-term investing and more | Financial Post | 2026-08-07 |
 | Nvidia, Microsoft Partner Tests Breakout. Three Clues Bode Well. | Investor's Business Daily | 2026-08-07 |
 | Jim Cramer Shares Reasons Behind Why NVIDIA Corporation (NASDAQ:NVDA)’s Shares Are Finally Rising | Insider Monkey | 2026-08-07 |
 | The Toughest Questions AMD Faced On Its Latest Call | Trefis | 2026-08-07 |
-| How To Earn 11% On NVDA Stock And Set A 30% Safety Net | Trefis | 2026-08-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

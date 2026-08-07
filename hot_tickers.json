@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-07T10:06:23+00:00",
+  "as_of": "2026-08-07T10:21:17+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "TTD",
    "company": "Trade Desk Inc",
-   "move_pct": -27.56,
-   "price": 12.8,
+   "move_pct": -27.34,
+   "price": 12.84,
    "volume": 88903400,
    "volume_vs_avg": "~6x",
-   "heat_score": 92,
+   "heat_score": 99,
    "direction": "down",
-   "why": "Moving down 27.6% on ~6x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
+   "why": "The Trade Desk hit by Wall St downgrades after disappointing Q2 results, outlook",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/media-advertising/articles/trade-desk-hit-wall-st-095121533.html",
+   "published": "2026-08-07T09:51:21Z",
    "sector": "AI Platforms, Internet & AdTech"
   },
   {
@@ -43,8 +43,8 @@
    "rank": 3,
    "ticker": "PUBM",
    "company": "PubMatic Inc",
-   "move_pct": 33.53,
-   "price": 18.0,
+   "move_pct": 36.05,
+   "price": 18.34,
    "volume": 775900,
    "volume_vs_avg": "~2x",
    "heat_score": 85,

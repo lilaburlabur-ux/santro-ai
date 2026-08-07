@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-07T09:56:48+00:00",
-  "as_of_local": "2026-08-07 09:56:48 UTC",
+  "as_of_utc": "2026-08-07T10:01:13+00:00",
+  "as_of_local": "2026-08-07 10:01:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,22 +15,22 @@
       "market_cap": 5304156923049.927,
       "headlines": [
         {
+          "title": "Prediction: This Unstoppable Vanguard ETF Will Crush the S&P 500 in the Remainder of 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-unstoppable-vanguard-etf-crush-095000970.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-07T09:50:00Z"
+        },
+        {
+          "title": "Tech Stocks Under Pressure: 1 Magnificent ETF to Buy on the Dip",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-under-pressure-1-094700654.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-07T09:47:00Z"
+        },
+        {
           "title": "Warren Buffett's Successor, Greg Abel, Has 63% of Berkshire Hathaway's $355 Billion Portfolio Invested in Just 5 Standout Stocks",
           "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-successor-greg-abel-092600740.html",
           "publisher": "Motley Fool",
           "published": "2026-08-07T09:26:00Z"
-        },
-        {
-          "title": "Amazon CEO Andy Jassy Just Gave Investors 220 Billion Reasons to Buy Micron Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-ceo-andy-jassy-just-092000123.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-07T09:20:00Z"
-        },
-        {
-          "title": "What Would Have to Go Wrong for Realty Income to Cut Its Dividend?",
-          "url": "https://finance.yahoo.com/real-estate/articles/wrong-realty-income-cut-dividend-090400578.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-07T09:04:00Z"
         }
       ]
     },
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/amd-focused-correctly-continue-loading-045352115.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-07T04:53:52Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 99.81,
-      "previous_close": 101.06,
-      "change_pct": -1.24,
-      "market_cap": 503441627685.5469,
-      "headlines": [
-        {
-          "title": "Is the Intel stock rally back? AlphaSpace stats to know.",
-          "url": "https://finance.yahoo.com/markets/article/is-the-intel-stock-rally-back-alphaspace-stats-to-know-145758235.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-06T14:57:58Z"
-        },
-        {
-          "title": "AMD Is Focused Correctly So I Continue Loading Up",
-          "url": "https://finance.yahoo.com/technology/ai/articles/amd-focused-correctly-continue-loading-045352115.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-07T04:53:52Z"
-        },
-        {
-          "title": "How Will Intel Really Be Able to Beat TSMC in The Next Year?",
-          "url": "https://finance.yahoo.com/technology/articles/intel-really-able-beat-tsmc-044653110.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-07T04:46:53Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64789.22,
-      "change_pct": 0.82
+      "price": 64780.53,
+      "change_pct": 0.81
     },
     {
       "label": "Gold",
-      "price": 4377.9,
-      "change_pct": 3.2
+      "price": 4378.2,
+      "change_pct": 3.21
     },
     {
       "label": "Nasdaq100",

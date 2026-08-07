@@ -1,11 +1,11 @@
 # MU Research Report
-**Micron Technology** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Micron Technology, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `MU.research.07.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $881.47 (2026-08-07, ~15-min delayed) |
-| Market cap | — |
+| Market cap | $995.53B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -68,7 +68,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
-| Valuation | P/E 19.90, forward P/E 5.67, P/S —, P/B 9.88 | EV/Sales 10.96, EV/EBITDA 14.50 |
+| Valuation | P/E 19.94, forward P/E 5.67, P/S 11.03, P/B 9.88 | EV/Sales 10.96, EV/EBITDA 14.50 |
 | Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,507.79 (43 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $881.47 | EV/Sales | 10.96 |
-| Market cap | — | EV/EBITDA | 14.50 |
+| Market cap | $995.53B | EV/EBITDA | 14.50 |
 | Beta | 2.21 | Gross margin | 72.57% |
 | RSI(14) | 47.9 | Operating margin | 80.37% |
 | ATR(14) | 84.95 | Profit margin | 55.91% |
@@ -121,10 +121,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | SMA200 dist | +65.84% | Revenue (ttm) | $90.27B |
 | 52W high | $1,213.37 | Revenue growth y/y | 345.70% |
 | 52W low | $108.61 | Inst. ownership | 80.80% |
-| P/E (ttm) | 19.90 | Insider ownership | 0.26% |
+| P/E (ttm) | 19.94 | Insider ownership | 0.26% |
 | Forward P/E | 5.67 | Short float | 3.21% |
 | PEG (trailing) | 0.12 | Avg volume | 53,395,198 |
-| P/S | — | Employees | 53,000 |
+| P/S | 11.03 | Employees | 53,000 |
 | P/B | 9.88 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions

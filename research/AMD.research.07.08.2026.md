@@ -1,11 +1,11 @@
 # AMD Research Report
-**AMD** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Advanced Micro Devices, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `AMD.research.07.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $489.28 (2026-08-07, ~15-min delayed) |
-| Market cap | — |
+| Market cap | $797.82B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: low (expensive), risk: high. |
@@ -68,7 +68,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Revenue (ttm) | $41.31B | Revenue growth 50.10% y/y |
 | Profitability | Gross 55.72%, operating 17.25%, net 15.58% | ROA 5.13%, ROE 10.20% |
 | Balance sheet | Cash $13.11B, debt $4.28B | Current ratio 2.61, debt/equity 6.36 |
-| Valuation | P/E 125.46, forward P/E 35.16, P/S —, P/B 11.88 | EV/Sales 19.12, EV/EBITDA 82.58 |
+| Valuation | P/E 125.46, forward P/E 35.16, P/S 19.32, P/B 11.88 | EV/Sales 19.12, EV/EBITDA 82.58 |
 | Growth expectations | Earnings growth 159.50%, EPS q/q 163.40% | Analyst mean target $579.11 (47 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $489.28 | EV/Sales | 19.12 |
-| Market cap | — | EV/EBITDA | 82.58 |
+| Market cap | $797.82B | EV/EBITDA | 82.58 |
 | Beta | 2.49 | Gross margin | 55.72% |
 | RSI(14) | 47.8 | Operating margin | 17.25% |
 | ATR(14) | 39.45 | Profit margin | 15.58% |
@@ -124,7 +124,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | P/E (ttm) | 125.46 | Insider ownership | 0.40% |
 | Forward P/E | 35.16 | Short float | 2.45% |
 | PEG (trailing) | 1.12 | Avg volume | 31,310,736 |
-| P/S | — | Employees | 31,000 |
+| P/S | 19.32 | Employees | 31,000 |
 | P/B | 11.88 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions

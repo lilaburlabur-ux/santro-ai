@@ -3,20 +3,20 @@
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
-| NVDA | $5.30T | +23% | 17.0 | 63% | Moderate | Reasonable | High |
-| TSM | $2.17T | +82% | 19.4 | 50% | High | Reasonable | Elevated |
-| AVGO | $2.00T | +45% | 21.6 | 39% | Moderate | Fair-to-demanding | Elevated |
-| MU | $995.53B | +710% | 5.7 | 56% | High | Reasonable | High |
-| AMD | $797.82B | +181% | 35.2 | 16% | High | Low (expensive) | High |
-| INTC | $503.44B | +394% | 48.5 | -20% | High | Low (expensive) | High |
-| ARM | $306.17B | +109% | 93.4 | 20% | High | Low (expensive) | High |
-| MRVL | $188.97B | +175% | 33.7 | 29% | High | Fair-to-demanding | High |
-| QCOM | $168.41B | +12% | 15.6 | 21% | Moderate | Reasonable | High |
-| NXPI | $58.45B | +13% | 12.8 | 23% | Moderate | Reasonable | High |
-| LSCC | $18.24B | +129% | 40.1 | 6% | High | Low (expensive) | High |
-| SYNA | $3.99B | +66% | 19.4 | -4% | High | Reasonable | High |
-| CEVA | $991.51M | +65% | 43.1 | -10% | High | Low (expensive) | High |
-| AVAV | $8.66B | -35% | 38.9 | -13% | Low | Low (expensive) | High |
+| NVDA | $5.42T | +25% | 17.4 | 63% | Moderate | Reasonable | High |
+| TSM | $2.18T | +84% | 19.4 | 50% | High | Reasonable | Elevated |
+| AVGO | $2.04T | +43% | 21.9 | 39% | Moderate | Fair-to-demanding | Elevated |
+| MU | $991.12B | +708% | 5.6 | 56% | High | Reasonable | High |
+| AMD | $789.07B | +196% | 31.3 | 16% | High | Fair-to-demanding | High |
+| INTC | $512.72B | +398% | 49.4 | -20% | High | Low (expensive) | High |
+| ARM | $301.78B | +108% | 92.1 | 20% | High | Low (expensive) | High |
+| MRVL | $196.31B | +191% | 35.0 | 29% | High | Low (expensive) | High |
+| QCOM | $176.25B | +18% | 16.3 | 21% | Moderate | Reasonable | High |
+| NXPI | $60.45B | +18% | 13.2 | 23% | Moderate | Reasonable | High |
+| LSCC | $18.43B | +126% | 40.5 | 6% | High | Low (expensive) | High |
+| SYNA | $4.15B | +77% | 16.2 | -4% | High | Reasonable | High |
+| CEVA | $1.08B | +80% | 46.8 | -10% | High | Low (expensive) | High |
+| AVAV | $9.45B | -29% | 42.4 | -13% | Low | Low (expensive) | High |
 
 14 reports generated; failed: none.
 

@@ -4,8 +4,8 @@ Signed file: `ARM.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $286.68 (2026-08-07, ~15-min delayed) |
-| Market cap | $306.17B |
+| Current price | $282.57 (2026-08-07, ~15-min delayed) |
+| Market cap | $301.78B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: low (expensive), risk: high. |
@@ -15,10 +15,10 @@ Signed file: `ARM.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +108.90%; price +49.39% vs SMA200. |
-| Fresh setup quality | Poor / broken | -34.77% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +107.59%; price +46.82% vs SMA200. |
+| Fresh setup quality | Poor / broken | -35.70% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 20.25%, revenue growth 22.40%. |
-| Value attractiveness | Low (expensive) | Forward P/E 93.40, EV/Sales 58.72. |
+| Value attractiveness | Low (expensive) | Forward P/E 92.06, EV/Sales 58.72. |
 | Risk level | High | Beta 3.91, ATR 9.3% of price, short float 12.02%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: low (expensive), risk: high.
@@ -36,30 +36,30 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
+| SpaceX's influence ripples across markets: AlphaCheck | Yahoo Finance | 2026-08-07 |
+| Stocks Rally on Earnings and Fed-Friendly US Payroll Report | Barchart | 2026-08-07 |
 | Update: US Equity Indexes Mixed as Technology, Energy Help Blunt Broad-Based Declines | MT Newswires | 2026-08-06 |
 | Prediction: Arm Holdings Will Trade at This Price in 12 Months | 24/7 Wall St. | 2026-08-06 |
-| Update: US Equity Indexes Mixed as Chipmakers Help Lift Technology While Crude Oil Jumps With Treasury Yields | MT Newswires | 2026-08-06 |
-| US Equity Indexes Decline, Crude Oil Rises in Midday Trading | MT Newswires | 2026-08-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $286.68; 52w high $439.46 (-34.77%); 52w low $104.55 (+174.20%) |
-| Trend | +49.39% vs SMA200, -11.14% vs SMA50, +6.30% vs SMA20 |
-| Momentum | RSI(14) 51.5 (neutral) |
-| Volatility | ATR(14) 26.59 (~9.3% of price); beta 3.91 |
-| Setup perspective | -34.77% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $282.57; 52w high $439.46 (-35.70%); 52w low $104.55 (+170.27%) |
+| Trend | +46.82% vs SMA200, -12.30% vs SMA50, +5.58% vs SMA20 |
+| Momentum | RSI(14) 50.3 (neutral) |
+| Volatility | ATR(14) 26.40 (~9.3% of price); beta 3.91 |
+| Setup perspective | -35.70% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +18.7% |
-| Month | -4.5% |
-| Quarter | +20.8% |
-| Half Y | +173.3% |
-| 1Y | +108.9% |
-| YTD | +149.9% |
+| Week | +17.9% |
+| Month | -13.8% |
+| Quarter | +32.5% |
+| Half Y | +154.8% |
+| 1Y | +107.6% |
+| YTD | +146.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Revenue (ttm) | $5.16B | Revenue growth 22.40% y/y |
 | Profitability | Gross 97.54%, operating 7.60%, net 20.25% | ROA 5.42%, ROE 13.35% |
 | Balance sheet | Cash $3.89B, debt $485.00M | Current ratio 5.25, debt/equity 5.62 |
-| Valuation | P/E 289.58, forward P/E 93.40, P/S 59.38, P/B 35.48 | EV/Sales 58.72, EV/EBITDA 284.64 |
+| Valuation | P/E 291.31, forward P/E 92.06, P/S 58.53, P/B 34.97 | EV/Sales 58.72, EV/EBITDA 284.64 |
 | Growth expectations | Earnings growth 108.30%, EPS q/q 107.70% | Analyst mean target $286.79 (37 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 95.47% |
+| Institutional ownership | 95.48% |
 | Insider ownership | 0.07% |
 | Short float | 12.02% |
 | Short ratio (days to cover) | 1.9 |
@@ -95,7 +95,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Altimeter Capital Management, LP | 1,715,440 | 0.16% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 93.40, EV/Sales 58.72. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 92.06, EV/Sales 58.72. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 3.91, ATR 9.3% of price, short float 12.02%. Size positions accordingly.
 - **Short interest risk:** short float 12.02% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,21 +113,21 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $286.68 | EV/Sales | 58.72 |
-| Market cap | $306.17B | EV/EBITDA | 284.64 |
+| Price | $282.57 | EV/Sales | 58.72 |
+| Market cap | $301.78B | EV/EBITDA | 284.64 |
 | Beta | 3.91 | Gross margin | 97.54% |
-| RSI(14) | 51.5 | Operating margin | 7.60% |
-| ATR(14) | 26.59 | Profit margin | 20.25% |
-| SMA20 dist | +6.30% | ROA | 5.42% |
-| SMA50 dist | -11.14% | ROE | 13.35% |
-| SMA200 dist | +49.39% | Revenue (ttm) | $5.16B |
+| RSI(14) | 50.3 | Operating margin | 7.60% |
+| ATR(14) | 26.40 | Profit margin | 20.25% |
+| SMA20 dist | +5.58% | ROA | 5.42% |
+| SMA50 dist | -12.30% | ROE | 13.35% |
+| SMA200 dist | +46.82% | Revenue (ttm) | $5.16B |
 | 52W high | $439.46 | Revenue growth y/y | 22.40% |
-| 52W low | $104.55 | Inst. ownership | 95.47% |
-| P/E (ttm) | 289.58 | Insider ownership | 0.07% |
-| Forward P/E | 93.40 | Short float | 12.02% |
-| PEG (trailing) | 1.97 | Avg volume | 10,090,661 |
-| P/S | 59.38 | Employees | 9,584 |
-| P/B | 35.48 | Analyst rec (1=buy..5=sell) | 1.9 |
+| 52W low | $104.55 | Inst. ownership | 95.48% |
+| P/E (ttm) | 291.31 | Insider ownership | 0.07% |
+| Forward P/E | 92.06 | Short float | 12.02% |
+| PEG (trailing) | 1.97 | Avg volume | 9,882,320 |
+| P/S | 58.53 | Employees | 9,584 |
+| P/B | 34.97 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

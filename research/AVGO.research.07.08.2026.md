@@ -4,8 +4,8 @@ Signed file: `AVGO.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $420.57 (2026-08-07, ~15-min delayed) |
-| Market cap | $2.00T |
+| Current price | $427.76 (2026-08-07, ~15-min delayed) |
+| Market cap | $2.04T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `AVGO.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +44.62%; price +14.85% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -12.53% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +42.84%; price +16.69% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.03% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 38.85%, revenue growth 47.90%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 21.58, EV/Sales 27.11. |
-| Risk level | Elevated | Beta 1.47, ATR 4.1% of price, short float 1.47%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 21.95, EV/Sales 27.11. |
+| Risk level | Elevated | Beta 1.47, ATR 3.9% of price, short float 1.47%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated.
 
@@ -36,30 +36,30 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
-| Anthropic SPVs Stack $71 Billion in Chip-Lease Debt in 60 Days | Forkast News | 2026-08-07 |
-| Synaptics (SYNA) Surpasses Q4 Earnings and Revenue Estimates | Zacks | 2026-08-06 |
-| Astera Labs Beat And Guided Higher, Then Fell Because The Rally Came First | Trefis | 2026-08-06 |
-| Qualcomm's Largest Revenue Line Is Shrinking From Both Sides | Trefis | 2026-08-06 |
+| Beyond NVIDIA and GPUs: The Next AI & Quantum Winners Leading 2026 | Zacks | 2026-08-07 |
+| The Toughest Questions AMD Faced On Its Latest Call | Trefis | 2026-08-07 |
+| How To Earn 11% On NVDA Stock And Set A 30% Safety Net | Trefis | 2026-08-07 |
+| AMD Drops 6% Post Q2 Earnings: Is the Stock a Buy on the Dip? | Zacks | 2026-08-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $420.57; 52w high $480.81 (-12.53%); 52w low $287.49 (+46.29%) |
-| Trend | +14.85% vs SMA200, +6.55% vs SMA50, +7.71% vs SMA20 |
-| Momentum | RSI(14) 62.6 (neutral) |
-| Volatility | ATR(14) 17.05 (~4.1% of price); beta 1.47 |
-| Setup perspective | -12.53% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $427.76; 52w high $480.81 (-11.03%); 52w low $287.49 (+48.79%) |
+| Trend | +16.69% vs SMA200, +8.34% vs SMA50, +9.16% vs SMA20 |
+| Momentum | RSI(14) 64.9 (neutral) |
+| Volatility | ATR(14) 16.60 (~3.9% of price); beta 1.47 |
+| Setup perspective | -11.03% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +8.4% |
-| Month | +8.2% |
-| Quarter | -1.0% |
-| Half Y | +37.0% |
-| 1Y | +44.6% |
-| YTD | +21.4% |
+| Week | +9.9% |
+| Month | +6.6% |
+| Quarter | +3.8% |
+| Half Y | +38.3% |
+| 1Y | +42.8% |
+| YTD | +23.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $75.46B | Revenue growth 47.90% y/y |
 | Profitability | Gross 76.28%, operating 48.99%, net 38.85% | ROA 12.12%, ROE 37.28% |
 | Balance sheet | Cash $19.63B, debt $64.91B | Current ratio 2.24, debt/equity 74.02 |
-| Valuation | P/E 69.86, forward P/E 21.58, P/S 26.51, P/B 22.82 | EV/Sales 27.11, EV/EBITDA 48.62 |
+| Valuation | P/E 71.17, forward P/E 21.95, P/S 26.97, P/B 23.21 | EV/Sales 27.11, EV/EBITDA 48.62 |
 | Growth expectations | Earnings growth 85.40%, EPS q/q 87.50% | Analyst mean target $527.88 (45 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 79.57% |
+| Institutional ownership | 79.60% |
 | Insider ownership | 1.95% |
 | Short float | 1.47% |
 | Short ratio (days to cover) | 2.5 |
@@ -95,8 +95,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Price (T.Rowe) Associates Inc | 84,470,754 | 1.78% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 21.58, EV/Sales 27.11. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.47, ATR 4.1% of price, short float 1.47%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 21.95, EV/Sales 27.11. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.47, ATR 3.9% of price, short float 1.47%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -111,21 +111,21 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $420.57 | EV/Sales | 27.11 |
-| Market cap | $2.00T | EV/EBITDA | 48.62 |
+| Price | $427.76 | EV/Sales | 27.11 |
+| Market cap | $2.04T | EV/EBITDA | 48.62 |
 | Beta | 1.47 | Gross margin | 76.28% |
-| RSI(14) | 62.6 | Operating margin | 48.99% |
-| ATR(14) | 17.05 | Profit margin | 38.85% |
-| SMA20 dist | +7.71% | ROA | 12.12% |
-| SMA50 dist | +6.55% | ROE | 37.28% |
-| SMA200 dist | +14.85% | Revenue (ttm) | $75.46B |
+| RSI(14) | 64.9 | Operating margin | 48.99% |
+| ATR(14) | 16.60 | Profit margin | 38.85% |
+| SMA20 dist | +9.16% | ROA | 12.12% |
+| SMA50 dist | +8.34% | ROE | 37.28% |
+| SMA200 dist | +16.69% | Revenue (ttm) | $75.46B |
 | 52W high | $480.81 | Revenue growth y/y | 47.90% |
-| 52W low | $287.49 | Inst. ownership | 79.57% |
-| P/E (ttm) | 69.86 | Insider ownership | 1.95% |
-| Forward P/E | 21.58 | Short float | 1.47% |
-| PEG (trailing) | 0.44 | Avg volume | 26,296,250 |
-| P/S | 26.51 | Employees | 33,000 |
-| P/B | 22.82 | Analyst rec (1=buy..5=sell) | 1.3 |
+| 52W low | $287.49 | Inst. ownership | 79.60% |
+| P/E (ttm) | 71.17 | Insider ownership | 1.95% |
+| Forward P/E | 21.95 | Short float | 1.47% |
+| PEG (trailing) | 0.44 | Avg volume | 26,355,649 |
+| P/S | 26.97 | Employees | 33,000 |
+| P/B | 23.21 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

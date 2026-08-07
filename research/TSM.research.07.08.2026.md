@@ -4,8 +4,8 @@ Signed file: `TSM.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $418.20 (2026-08-07, ~15-min delayed) |
-| Market cap | $2.17T |
+| Current price | $420.04 (2026-08-07, ~15-min delayed) |
+| Market cap | $2.18T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `TSM.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +81.88%; price +16.70% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -12.43% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +83.55%; price +17.01% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -12.05% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 49.92%, revenue growth 36.00%. |
-| Value attractiveness | Reasonable | Forward P/E 19.35, EV/Sales 3.31. |
-| Risk level | Elevated | Beta 1.26, ATR 4.2% of price, short float 0.69%. |
+| Value attractiveness | Reasonable | Forward P/E 19.44, EV/Sales 3.35. |
+| Risk level | Elevated | Beta 1.26, ATR 4.1% of price, short float 0.69%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
-| Dow Jones Futures: Cloudflare Leads 5 Software Earnings Winners Late; Jobs Report On Tap | Investor's Business Daily | 2026-08-07 |
-| TSMC’s $64 Billion Investment Signals Mega-Growth: Why Pivoting Away From The Titan Makes Little Sense | 24/7 Wall St. | 2026-08-06 |
-| Taiwan Semiconductor Manufacturing Company (TSM) Raised Its 2026 Outlook as AI Demand Accelerated | Insider Monkey | 2026-08-06 |
-| Cathie Wood invests a combined $28.7 million in TSMC, SpaceX after trimming investments in Amazon, Alphabet and Shopify | Moneywise | 2026-08-06 |
+| Jim Cramer Called Linde plc (NASDAQ:LIN)’s Share Price Movement “Stupid” | Insider Monkey | 2026-08-07 |
+| Forget Taiwan Semiconductor: 2 AI Semiconductor Equipment Stocks to Buy and Hold Instead | Motley Fool | 2026-08-07 |
+| BTQ and ITRI clear first milestone in quantum-security chip roadmap | TheStreet | 2026-08-07 |
+| Could Taiwan Semiconductor Manufacturing (TSM) Be the Most Critical Bottleneck in the AI Chip Boom? | Insider Monkey | 2026-08-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $418.20; 52w high $477.57 (-12.43%); 52w low $224.84 (+86.00%) |
-| Trend | +16.70% vs SMA200, -1.76% vs SMA50, +2.00% vs SMA20 |
-| Momentum | RSI(14) 51.5 (neutral) |
-| Volatility | ATR(14) 17.51 (~4.2% of price); beta 1.26 |
-| Setup perspective | -12.43% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $420.04; 52w high $477.57 (-12.05%); 52w low $224.84 (+86.81%) |
+| Trend | +17.01% vs SMA200, -1.32% vs SMA50, +2.63% vs SMA20 |
+| Momentum | RSI(14) 52.2 (neutral) |
+| Volatility | ATR(14) 17.10 (~4.1% of price); beta 1.26 |
+| Setup perspective | -12.05% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +3.7% |
-| Month | -4.3% |
-| Quarter | -0.1% |
-| Half Y | +29.0% |
-| 1Y | +81.9% |
-| YTD | +31.5% |
+| Week | +3.9% |
+| Month | -3.9% |
+| Quarter | +1.7% |
+| Half Y | +27.7% |
+| 1Y | +83.6% |
+| YTD | +32.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.44T | Revenue growth 36.00% y/y |
 | Profitability | Gross 64.23%, operating 60.34%, net 49.92% | ROA 19.01%, ROE 39.97% |
 | Balance sheet | Cash $3.52T, debt $982.45B | Current ratio 2.46, debt/equity 15.17 |
-| Valuation | P/E 36.49, forward P/E 19.35, P/S 0.49, P/B 87.22 | EV/Sales 3.31, EV/EBITDA 4.62 |
+| Valuation | P/E 37.07, forward P/E 19.44, P/S 0.49, P/B 87.60 | EV/Sales 3.35, EV/EBITDA 4.68 |
 | Growth expectations | Earnings growth 77.40%, EPS q/q 77.40% | Analyst mean target $540.20 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 15.48% |
+| Institutional ownership | 15.46% |
 | Insider ownership | 0.04% |
 | Short float | 0.69% |
 | Short ratio (days to cover) | 2.3 |
@@ -88,14 +88,14 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Sanders Capital, LLC | 28,060,092 | 0.54% | 2026-03-31 |
 | JPMORGAN CHASE & CO | 23,984,642 | 0.46% | 2026-03-31 |
 | Van Eck Associates Corporation | 19,262,004 | 0.37% | 2026-03-31 |
-| Fisher Asset Management, LLC | 18,617,691 | 0.36% | 2026-03-31 |
+| Fisher Asset Management, LLC | 18,866,198 | 0.36% | 2026-06-30 |
 | Blackrock Inc. | 18,224,186 | 0.35% | 2026-03-31 |
 | Morgan Stanley | 14,767,680 | 0.28% | 2026-03-31 |
 | Bank of America Corporation | 14,107,771 | 0.27% | 2026-03-31 |
 | Capital International Investors | 11,306,653 | 0.22% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.26, ATR 4.2% of price, short float 0.69%. Size positions accordingly.
+- **Volatility risk:** Beta 1.26, ATR 4.1% of price, short float 0.69%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $418.20 | EV/Sales | 3.31 |
-| Market cap | $2.17T | EV/EBITDA | 4.62 |
+| Price | $420.04 | EV/Sales | 3.35 |
+| Market cap | $2.18T | EV/EBITDA | 4.68 |
 | Beta | 1.26 | Gross margin | 64.23% |
-| RSI(14) | 51.5 | Operating margin | 60.34% |
-| ATR(14) | 17.51 | Profit margin | 49.92% |
-| SMA20 dist | +2.00% | ROA | 19.01% |
-| SMA50 dist | -1.76% | ROE | 39.97% |
-| SMA200 dist | +16.70% | Revenue (ttm) | $4.44T |
+| RSI(14) | 52.2 | Operating margin | 60.34% |
+| ATR(14) | 17.10 | Profit margin | 49.92% |
+| SMA20 dist | +2.63% | ROA | 19.01% |
+| SMA50 dist | -1.32% | ROE | 39.97% |
+| SMA200 dist | +17.01% | Revenue (ttm) | $4.44T |
 | 52W high | $477.57 | Revenue growth y/y | 36.00% |
-| 52W low | $224.84 | Inst. ownership | 15.48% |
-| P/E (ttm) | 36.49 | Insider ownership | 0.04% |
-| Forward P/E | 19.35 | Short float | 0.69% |
-| PEG (trailing) | 1.01 | Avg volume | 14,358,275 |
+| 52W low | $224.84 | Inst. ownership | 15.46% |
+| P/E (ttm) | 37.07 | Insider ownership | 0.04% |
+| Forward P/E | 19.44 | Short float | 0.69% |
+| PEG (trailing) | 1.01 | Avg volume | 14,374,462 |
 | P/S | 0.49 | Employees | 76,907 |
-| P/B | 87.22 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 87.60 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `MU.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $881.47 (2026-08-07, ~15-min delayed) |
-| Market cap | $995.53B |
+| Current price | $877.57 (2026-08-07, ~15-min delayed) |
+| Market cap | $991.12B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `MU.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +709.54%; price +65.84% vs SMA200. |
-| Fresh setup quality | Poor / broken | -27.35% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +708.03%; price +64.07% vs SMA200. |
+| Fresh setup quality | Poor / broken | -27.68% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 55.91%, revenue growth 345.70%. |
-| Value attractiveness | Reasonable | Forward P/E 5.67, EV/Sales 10.96. |
-| Risk level | High | Beta 2.21, ATR 9.6% of price, short float 3.21%. |
+| Value attractiveness | Reasonable | Forward P/E 5.64, EV/Sales 10.81. |
+| Risk level | High | Beta 2.21, ATR 9.5% of price, short float 3.21%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
-| Micron Pares Most of Its Losses Even as Other Memory Stocks Reel | Barrons.com | 2026-08-06 |
-| Micron Shares Surge: What's Driving the Sudden Momentum | Motley Fool | 2026-08-06 |
-| Micron & 2 Profitable Stocks Smart Investors Are Buying in August | Zacks | 2026-08-06 |
-| NVDA Reportedly Weighs Lower-Memory Rubin Ultra GPU Designs To Ease HBM Bottleneck — Why Retail Is Watching Micron | Stocktwits | 2026-08-06 |
+| SK Hynix invests $38B in new plants amid AI memory shortages | Yahoo Finance Video | 2026-08-07 |
+| Citi Revamps Micron Target Target With A Twist | GuruFocus.com | 2026-08-07 |
+| Micron Stock Falls After Citi Slashes Price Target on Memory Risks | GuruFocus.com | 2026-08-07 |
+| Michael Burry issues blunt warning as he bets against 2 AI favorites | TheStreet | 2026-08-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $881.47; 52w high $1,213.37 (-27.35%); 52w low $108.61 (+711.62%) |
-| Trend | +65.84% vs SMA200, -9.30% vs SMA50, -1.33% vs SMA20 |
-| Momentum | RSI(14) 47.9 (neutral) |
-| Volatility | ATR(14) 84.95 (~9.6% of price); beta 2.21 |
-| Setup perspective | -27.35% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $877.57; 52w high $1,213.37 (-27.68%); 52w low $111.69 (+685.71%) |
+| Trend | +64.07% vs SMA200, -9.61% vs SMA50, -1.20% vs SMA20 |
+| Momentum | RSI(14) 47.6 (neutral) |
+| Volatility | ATR(14) 83.00 (~9.5% of price); beta 2.21 |
+| Setup perspective | -27.68% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.8% |
-| Month | -7.1% |
-| Quarter | +32.3% |
-| Half Y | +132.5% |
-| 1Y | +709.5% |
-| YTD | +179.6% |
+| Week | +6.6% |
+| Month | -11.5% |
+| Quarter | +35.7% |
+| Half Y | +129.3% |
+| 1Y | +708.0% |
+| YTD | +178.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
-| Valuation | P/E 19.94, forward P/E 5.67, P/S 11.03, P/B 9.88 | EV/Sales 10.96, EV/EBITDA 14.50 |
+| Valuation | P/E 19.83, forward P/E 5.64, P/S 10.98, P/B 9.84 | EV/Sales 10.81, EV/EBITDA 14.30 |
 | Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,507.79 (43 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 80.80% |
+| Institutional ownership | 80.75% |
 | Insider ownership | 0.26% |
 | Short float | 3.21% |
 | Short ratio (days to cover) | 0.7 |
@@ -95,7 +95,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Morgan Stanley | 16,842,006 | 1.49% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.21, ATR 9.6% of price, short float 3.21%. Size positions accordingly.
+- **Volatility risk:** Beta 2.21, ATR 9.5% of price, short float 3.21%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,25 +111,26 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $881.47 | EV/Sales | 10.96 |
-| Market cap | $995.53B | EV/EBITDA | 14.50 |
+| Price | $877.57 | EV/Sales | 10.81 |
+| Market cap | $991.12B | EV/EBITDA | 14.30 |
 | Beta | 2.21 | Gross margin | 72.57% |
-| RSI(14) | 47.9 | Operating margin | 80.37% |
-| ATR(14) | 84.95 | Profit margin | 55.91% |
-| SMA20 dist | -1.33% | ROA | 34.87% |
-| SMA50 dist | -9.30% | ROE | 66.64% |
-| SMA200 dist | +65.84% | Revenue (ttm) | $90.27B |
+| RSI(14) | 47.6 | Operating margin | 80.37% |
+| ATR(14) | 83.00 | Profit margin | 55.91% |
+| SMA20 dist | -1.20% | ROA | 34.87% |
+| SMA50 dist | -9.61% | ROE | 66.64% |
+| SMA200 dist | +64.07% | Revenue (ttm) | $90.27B |
 | 52W high | $1,213.37 | Revenue growth y/y | 345.70% |
-| 52W low | $108.61 | Inst. ownership | 80.80% |
-| P/E (ttm) | 19.94 | Insider ownership | 0.26% |
-| Forward P/E | 5.67 | Short float | 3.21% |
-| PEG (trailing) | 0.12 | Avg volume | 53,395,198 |
-| P/S | 11.03 | Employees | 53,000 |
-| P/B | 9.88 | Analyst rec (1=buy..5=sell) | 1.4 |
+| 52W low | $111.69 | Inst. ownership | 80.75% |
+| P/E (ttm) | 19.83 | Insider ownership | 0.26% |
+| Forward P/E | 5.64 | Short float | 3.21% |
+| PEG (trailing) | 0.12 | Avg volume | 53,494,650 |
+| P/S | 10.98 | Employees | 53,000 |
+| P/B | 9.84 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-08-07 | main | Citigroup | Buy → Buy |
 | 2026-07-14 | main | Keybanc | Overweight → Overweight |
 | 2026-06-29 | main | Cantor Fitzgerald | Overweight → Overweight |
 | 2026-06-25 | main | Barclays | Overweight → Overweight |
@@ -137,7 +138,6 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | 2026-06-25 | main | Goldman Sachs | Neutral → Neutral |
 | 2026-06-25 | main | Morgan Stanley | Overweight → Overweight |
 | 2026-06-25 | main | Raymond James | Outperform → Outperform |
-| 2026-06-25 | main | Deutsche Bank | Buy → Buy |
 
 ## 9. Conclusion
 MU: High momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

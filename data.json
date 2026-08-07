@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-07T10:44:54+00:00",
-  "as_of_local": "2026-08-07 10:44:54 UTC",
+  "as_of_utc": "2026-08-07T10:49:48+00:00",
+  "as_of_local": "2026-08-07 10:49:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": -0.1,
       "market_cap": 5304156923049.927,
       "headlines": [
+        {
+          "title": "The Week in Numbers: BP's huge profit, Toyota moves fast",
+          "url": "https://finance.yahoo.com/video/week-numbers-bps-huge-profit-104138978.html",
+          "publisher": "Reuters Videos",
+          "published": "2026-08-07T10:41:38Z"
+        },
         {
           "title": "SpaceX Stock Is Down 50% From Its Peak. Here's 1 Reason to Buy the Dip, and 1 Reason to Run for the Hills.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-down-50-peak-103500961.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/energy/articles/hidden-winners-ai-power-crunch-102500554.html",
           "publisher": "Motley Fool",
           "published": "2026-08-07T10:25:00Z"
-        },
-        {
-          "title": "Why Amazon Stock Jumped 14% in July While the Market Was Flat",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-amazon-stock-jumped-14-102000264.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-07T10:20:00Z"
         }
       ]
     },
@@ -125,6 +127,12 @@
       "market_cap": 798737386556.9927,
       "headlines": [
         {
+          "title": "Morning Bid: Dealj\u00e0 vu",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-dealj-vu-104313750.html",
+          "publisher": "Reuters",
+          "published": "2026-08-07T10:43:13Z"
+        },
+        {
           "title": "AMD to acquire Taalas for specialised AI inference silicon",
           "url": "https://finance.yahoo.com/technology/ai/articles/amd-acquire-taalas-specialised-ai-083657301.html",
           "publisher": "Verdict",
@@ -135,12 +143,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-best-chip-stock-own-045701492.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-07T04:57:01Z"
-        },
-        {
-          "title": "AMD Is Focused Correctly So I Continue Loading Up",
-          "url": "https://finance.yahoo.com/technology/ai/articles/amd-focused-correctly-continue-loading-045352115.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-07T04:53:52Z"
         }
       ]
     },
@@ -197,34 +199,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-chipmakers-175735868.html",
           "publisher": "MT Newswires",
           "published": "2026-08-06T17:57:35Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 210.54,
-      "previous_close": 211.02,
-      "change_pct": -0.23,
-      "market_cap": 188968996792.42596,
-      "headlines": [
-        {
-          "title": "Insight Enterprises Q2 Earnings Call Highlights",
-          "url": "https://finance.yahoo.com/technology/ai/articles/insight-enterprises-q2-earnings-call-060408917.html",
-          "publisher": "MarketBeat",
-          "published": "2026-08-07T06:04:08Z"
-        },
-        {
-          "title": "Earn 14% On MRVL Stock Now, Or Own It 60% Cheaper Later",
-          "url": "https://finance.yahoo.com/markets/options/articles/earn-14-mrvl-stock-now-014835622.html",
-          "publisher": "Trefis",
-          "published": "2026-08-07T01:48:35Z"
-        },
-        {
-          "title": "Astera Labs Beat And Guided Higher, Then Fell Because The Rally Came First",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-beat-guided-higher-185144694.html",
-          "publisher": "Trefis",
-          "published": "2026-08-06T18:51:44Z"
         }
       ]
     },
@@ -290,7 +264,7 @@
       "price": 128.7,
       "previous_close": 128.31,
       "change_pct": 0.3,
-      "market_cap": 18279295572.958008,
+      "market_cap": 18243122765.715744,
       "headlines": [
         {
           "title": "Lattice Semiconductor (LSCC) Posted Record Q2 Results, Is The Stock Still Undervalued?",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64819.49,
-      "change_pct": 0.87
+      "price": 64854.74,
+      "change_pct": 0.92
     },
     {
       "label": "Gold",
-      "price": 4375.2,
-      "change_pct": 3.14
+      "price": 4377.5,
+      "change_pct": 3.19
     },
     {
       "label": "Nasdaq100",

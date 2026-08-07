@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
+| Nvidia ends week up more than 10% as AI chip fears ease | Yahoo Finance | 2026-08-07 |
 | Call options explained: From opening trade to expiration | Yahoo Personal Finance | 2026-08-07 |
-| Why Fermi Stock Collapased 37.9% in July | Motley Fool | 2026-08-07 |
-| Nvidia’s (NVDA) Alpamayo Launch and the Robotaxi Bet | Insider Monkey | 2026-08-07 |
-| Nvidia, Microsoft Partner Tests Breakout. Three Clues Bode Well. | Investor's Business Daily | 2026-08-07 |
+| S&P 500 Posts Weekly Gain as Tech Giants Surge | MT Newswires | 2026-08-07 |
+| Arko Corp. Q2 2026 Earnings Call Summary | Moby | 2026-08-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

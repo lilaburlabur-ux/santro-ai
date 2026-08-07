@@ -1,5 +1,5 @@
 # AMD Research Report
-**AMD** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Advanced Micro Devices, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `AMD.research.07.08.2026`
 
 | Field | Value |
@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech stocks today: Shares climb after rocky week | Yahoo Finance | 2026-08-03 |
 | Nvidia, Microsoft Partner Tests Breakout. Three Clues Bode Well. | Investor's Business Daily | 2026-08-07 |
 | Jim Cramer Shares Reasons Behind Why NVIDIA Corporation (NASDAQ:NVDA)’s Shares Are Finally Rising | Insider Monkey | 2026-08-07 |
 | The Toughest Questions AMD Faced On Its Latest Call | Trefis | 2026-08-07 |
+| How To Earn 11% On NVDA Stock And Set A 30% Safety Net | Trefis | 2026-08-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

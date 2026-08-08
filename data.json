@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-08T14:38:44+00:00",
-  "as_of_local": "2026-08-08 14:38:44 UTC",
+  "as_of_utc": "2026-08-08T14:40:43+00:00",
+  "as_of_local": "2026-08-08 14:40:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-08-07T16:56:04Z"
         },
         {
-          "title": "Everyone's Chasing AI Data Center Stocks. This 5%-Yielding Dividend Stock Already Owns a Piece of the Boom.",
-          "url": "https://finance.yahoo.com/real-estate/articles/everyones-chasing-ai-data-center-142000779.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-08T14:20:00Z"
+          "title": "AI\u2019s Biggest Opportunity by 2027: NVIDIA vs. Micron",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-biggest-opportunity-2027-nvidia-143000927.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-08T14:30:00Z"
         }
       ]
     },
@@ -341,34 +343,6 @@
       ]
     },
     {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 106.19,
-      "previous_close": 102.1,
-      "change_pct": 4.01,
-      "market_cap": 4148065659.8078613,
-      "headlines": [
-        {
-          "title": "Synaptics (SYNA) Reports Q4 Earnings: What Key Metrics Have to Say",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-reports-q4-earnings-003001070.html",
-          "publisher": "Zacks",
-          "published": "2026-08-07T00:30:01Z"
-        },
-        {
-          "title": "Synaptics (SYNA) Surpasses Q4 Earnings and Revenue Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-surpasses-q4-earnings-231017161.html",
-          "publisher": "Zacks",
-          "published": "2026-08-06T23:10:17Z"
-        },
-        {
-          "title": "Cirrus Logic (CRUS) Q1 Earnings Surpass Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cirrus-logic-crus-q1-earnings-211002567.html",
-          "publisher": "Zacks",
-          "published": "2026-08-05T21:10:02Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 38.67,
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 65139.77,
-      "change_pct": 0.4
+      "price": 65082.82,
+      "change_pct": 0.31
     },
     {
       "label": "Gold",

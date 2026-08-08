@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-08T18:51:57+00:00",
-  "as_of_local": "2026-08-08 18:51:57 UTC",
+  "as_of_utc": "2026-08-08T18:59:35+00:00",
+  "as_of_local": "2026-08-08 18:59:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-price-130011101.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-08T13:00:11Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 101.65,
-      "previous_close": 99.81,
-      "change_pct": 1.84,
-      "market_cap": 512722607696.5332,
-      "headlines": [
-        {
-          "title": "Ron Paul: Trump\u2019s New Policy Is \u2018As Dangerous to Liberty and Prosperity\u2019 as Mamdani\u2019s",
-          "url": "https://finance.yahoo.com/economy/policy/articles/ron-paul-trump-policy-dangerous-140008767.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-08T14:00:08Z"
-        },
-        {
-          "title": "This Analyst On Wall Street Thinks The CPU Trade Is Overdone, Should You Sell ARM (ARM) Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-wall-street-thinks-cpu-125533234.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-08-08T12:55:33Z"
-        },
-        {
-          "title": "What Does Intel (INTC) Gain From Its Texas Chip Facility Joint Venture?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/does-intel-intc-gain-texas-021111723.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-08T02:11:11Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 65008.45,
-      "change_pct": 0.2
+      "price": 64993.75,
+      "change_pct": 0.18
     },
     {
       "label": "Gold",

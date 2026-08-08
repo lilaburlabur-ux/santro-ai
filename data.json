@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-08T09:08:36+00:00",
-  "as_of_local": "2026-08-08 09:08:36 UTC",
+  "as_of_utc": "2026-08-08T09:23:47+00:00",
+  "as_of_local": "2026-08-08 09:23:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-08-07T16:56:04Z"
         },
         {
-          "title": "An Inflation Quadruple Whammy, Headlined by Trumpflation, Threatens to Crush the Stock Market",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/inflation-quadruple-whammy-headlined-trumpflation-082600599.html",
+          "title": "Amazon's Stock Just Soared 15%. Here's Why Now Is Just the Beginning.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazons-stock-just-soared-15-092000796.html",
           "publisher": "Motley Fool",
-          "published": "2026-08-08T08:26:00Z"
+          "published": "2026-08-08T09:20:00Z"
         }
       ]
     },
@@ -173,34 +175,6 @@
       ]
     },
     {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 282.57,
-      "previous_close": 286.68,
-      "change_pct": -1.43,
-      "market_cap": 301784363464.58514,
-      "headlines": [
-        {
-          "title": "SpaceX's influence ripples across markets: AlphaCheck",
-          "url": "https://finance.yahoo.com/markets/article/spacexs-influence-ripples-across-markets-alphacheck-144205821.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-07T14:42:05Z"
-        },
-        {
-          "title": "Arm (ARM) Q1 2027 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-arm-q1-2027-earnings-235847250.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-07T23:58:47Z"
-        },
-        {
-          "title": "Update: US Equity Indexes Mixed as Technology, Energy Help Blunt Broad-Based Declines",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-technology-195530717.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-06T19:55:30Z"
-        }
-      ]
-    },
-    {
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "price": 218.72,
@@ -290,7 +264,7 @@
       "price": 130.03,
       "previous_close": 128.7,
       "change_pct": 1.03,
-      "market_cap": 18431649473.236298,
+      "market_cap": 18468196094.783203,
       "headlines": [
         {
           "title": "Lattice Semiconductor (LSCC) Posted Record Q2 Results, Is The Stock Still Undervalued?",
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 64954.52,
-      "change_pct": 0.11
+      "price": 64975.39,
+      "change_pct": 0.15
     },
     {
       "label": "Gold",

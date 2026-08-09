@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-09T06:41:38+00:00",
-  "as_of_local": "2026-08-09 06:41:38 UTC",
+  "as_of_utc": "2026-08-09T06:56:52+00:00",
+  "as_of_local": "2026-08-09 06:56:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEVA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,22 +15,22 @@
       "market_cap": 5424535322616.577,
       "headlines": [
         {
+          "title": "Jeff Bezos' Amazon Stock Surged 14% After a Blowout Earnings Beat, Adding $25 Billion to His Fortune. Is the Stock Still a Buy After the Rally?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-amazon-stock-surged-063500691.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-09T06:35:00Z"
+        },
+        {
+          "title": "Humanoids are as much a compute story as a robotics one",
+          "url": "https://finance.yahoo.com/technology/ai/articles/humanoids-much-compute-story-robotics-063038029.html",
+          "publisher": "Investing.com",
+          "published": "2026-08-09T06:30:38Z"
+        },
+        {
           "title": "Intel Foundry Lands a Major New Client Worth Watching",
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-foundry-lands-major-client-063000357.html",
           "publisher": "Motley Fool",
           "published": "2026-08-09T06:30:00Z"
-        },
-        {
-          "title": "Dan Ives Says SpaceX Stock Is Worth This Much (Hint: Big Gains Ahead)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-says-spacex-stock-060500529.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-09T06:05:00Z"
-        },
-        {
-          "title": "Is the Worst Finally Over for Palantir Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/worst-finally-over-palantir-stock-055000238.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-09T05:50:00Z"
         }
       ]
     },
@@ -290,7 +292,7 @@
       "price": 130.03,
       "previous_close": 128.7,
       "change_pct": 1.03,
-      "market_cap": 18431649473.236298,
+      "market_cap": 18468196094.783203,
       "headlines": [
         {
           "title": "Lattice Semiconductor (LSCC) Posted Record Q2 Results, Is The Stock Still Undervalued?",
@@ -365,34 +367,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/cirrus-logic-crus-q1-earnings-211002567.html",
           "publisher": "Zacks",
           "published": "2026-08-05T21:10:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "CEVA",
-      "name": "CEVA",
-      "price": 38.67,
-      "previous_close": 35.59,
-      "change_pct": 8.65,
-      "market_cap": 1077321748.2179718,
-      "headlines": [
-        {
-          "title": "CEVA (CEVA) Lands Early Bluetooth HDT Win, Is The Upside Already Priced In?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-ceva-lands-early-bluetooth-231642151.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-06T23:16:42Z"
-        },
-        {
-          "title": "Astera Labs, Inc. (ALAB) Beats Q2 Earnings and Revenue Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-inc-alab-beats-230004229.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T23:00:04Z"
-        },
-        {
-          "title": "Is CEVA (CEVA) Turning Early Bluetooth HDT Wins Into a Stronger Edge AI Story?",
-          "url": "https://finance.yahoo.com/technology/articles/ceva-ceva-turning-early-bluetooth-221036978.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-04T22:10:36Z"
         }
       ]
     }
@@ -585,7 +559,7 @@
     },
     {
       "label": "BTC",
-      "price": 64801.3,
+      "price": 64800.37,
       "change_pct": -0.12
     },
     {

@@ -1,8 +1,11 @@
 {
-  "as_of_utc": "2026-08-09T04:47:49+00:00",
-  "as_of_local": "2026-08-09 04:47:49 UTC",
+  "as_of_utc": "2026-08-09T04:53:05+00:00",
+  "as_of_local": "2026-08-09 04:53:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA",
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -313,62 +316,6 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 186.73,
-      "previous_close": 171.12,
-      "change_pct": 9.12,
-      "market_cap": 9450037225.679169,
-      "headlines": [
-        {
-          "title": "Why AeroVironment (AVAV) Is Up 25.0% After US$400 Million Army Locust Contract News",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-aerovironment-avav-25-0-141218604.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-08T14:12:18Z"
-        },
-        {
-          "title": "Stocks to Watch Recap: Trade Desk, Under Armour, Atlassian, Airbnb",
-          "url": "https://www.wsj.com/livecoverage/july-jobs-report-stock-market-08-07-2026/card/stock-to-watch-trade-desk-atlassian-airbnb-under-armour-EelGff6t2A1oe6gWnVpR?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-08-07T20:55:35Z"
-        },
-        {
-          "title": "AVAV Stock Jumps 8% On Reported $400M Army Deal \u2014 Why Retail Sees AeroVironment\u2019s Laser Weapons Moving Beyond Testing",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/avav-stock-jumps-8-reported-193927534.html",
-          "publisher": "Stocktwits",
-          "published": "2026-08-07T19:39:27Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 106.19,
-      "previous_close": 102.1,
-      "change_pct": 4.01,
-      "market_cap": 4148065659.8078613,
-      "headlines": [
-        {
-          "title": "Synaptics (SYNA) Reports Q4 Earnings: What Key Metrics Have to Say",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-reports-q4-earnings-003001070.html",
-          "publisher": "Zacks",
-          "published": "2026-08-07T00:30:01Z"
-        },
-        {
-          "title": "Synaptics (SYNA) Surpasses Q4 Earnings and Revenue Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-surpasses-q4-earnings-231017161.html",
-          "publisher": "Zacks",
-          "published": "2026-08-06T23:10:17Z"
-        },
-        {
-          "title": "Cirrus Logic (CRUS) Q1 Earnings Surpass Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cirrus-logic-crus-q1-earnings-211002567.html",
-          "publisher": "Zacks",
-          "published": "2026-08-05T21:10:02Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 38.67,
@@ -585,8 +532,8 @@
     },
     {
       "label": "BTC",
-      "price": 64750.0,
-      "change_pct": -0.2
+      "price": 64731.91,
+      "change_pct": -0.23
     },
     {
       "label": "Gold",

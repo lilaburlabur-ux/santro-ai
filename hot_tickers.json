@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-10T14:30:39+00:00",
+  "as_of": "2026-08-10T14:45:40+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,17 +11,49 @@
    "rank": 1,
    "ticker": "CEVA",
    "company": "Ceva Inc",
-   "move_pct": -12.59,
-   "price": 33.8,
-   "volume": 275241,
+   "move_pct": -11.48,
+   "price": 34.23,
+   "volume": 300592,
    "volume_vs_avg": "~0.4x",
-   "heat_score": 71,
+   "heat_score": 67,
    "direction": "down",
-   "why": "Ceva Q2 Earnings Call Highlights",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ceva-q2-earnings-call-highlights-140429361.html",
-   "published": "2026-08-10T14:04:29Z",
+   "why": "Ceva Tops Q2 Targets On Edge AI Tech Licensing",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.investors.com/news/technology/ceva-stock-q2-2026-earnings/?src=A00220&yptr=yahoo",
+   "published": "2026-08-10T14:35:16Z",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
+   "ticker": "OKLO",
+   "company": "Oklo Inc",
+   "move_pct": -6.38,
+   "price": 45.33,
+   "volume": 5570861,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 40,
+   "direction": "down",
+   "why": "OKLO Q2 Loss Widens Y/Y, Misses Estimates on Higher Costs",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/energy/articles/oklo-q2-loss-widens-y-132000482.html",
+   "published": "2026-08-10T13:20:00Z",
+   "sector": "Data Center, Power & Energy"
+  },
+  {
+   "rank": 3,
+   "ticker": "SMCI",
+   "company": "Super Micro Computer Inc",
+   "move_pct": 5.01,
+   "price": 32.69,
+   "volume": 26252080,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 35,
+   "direction": "up",
+   "why": "Stocks to Watch: Berkshire Hathaway, Super Micro Computer, Sunrise Energy",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-10-2026/card/stocks-to-watch-berkshire-hathaway-super-micro-computer-sunrise-energy-lRwcXvs1cYkQcD4lv59a?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-08-10T13:44:28Z",
+   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

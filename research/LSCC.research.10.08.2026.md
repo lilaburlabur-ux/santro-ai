@@ -5,7 +5,7 @@ Signed file: `LSCC.research.10.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $128.32 (2026-08-10, ~15-min delayed) |
-| Market cap | $18.19B |
+| Market cap | $18.23B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
@@ -31,15 +31,6 @@ Signed file: `LSCC.research.10.08.2026`
 
 ## 2. Company Overview and Recent Catalysts
 Lattice Semiconductor Corporation, together with its subsidiaries, develops and sells semiconductor, silicon-based and silicon-enabling, evaluation boards, and development hardware products in Asia, Europe, and the Americas. It offers field programmable gate arrays (FPGA), which are regular arrays of logic that can be custom-configured by the user through software.
-
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| Lattice Semiconductor (LSCC) Posted Record Q2 Results, Is The Stock Still Undervalued? | Simply Wall St. | 2026-08-07 |
-| LSCC Stock Offers AI Growth but Demands a Premium Valuation Trade-Off | Zacks | 2026-08-06 |
-| How the AMI Deal Could Expand Lattice's AI Infrastructure Edge | Zacks | 2026-08-06 |
-| Lattice Q2 Earnings Call Highlights AI Growth and AMI Expansion | Zacks | 2026-08-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +59,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Revenue (ttm) | $651.12M | Revenue growth 62.20% y/y |
 | Profitability | Gross 69.02%, operating 13.33%, net 5.58% | ROA 3.87%, ROE 4.93% |
 | Balance sheet | Cash $173.30M, debt $38.08M | Current ratio 3.02, debt/equity 4.84 |
-| Valuation | P/E 513.28, forward P/E 39.99, P/S 27.94, P/B 23.72 | EV/Sales 28.16, EV/EBITDA 198.97 |
+| Valuation | P/E 513.28, forward P/E 39.99, P/S 27.99, P/B 23.72 | EV/Sales 28.16, EV/EBITDA 198.97 |
 | Growth expectations | Earnings growth 600.00%, EPS q/q 564.60% | Analyst mean target $164.92 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -113,7 +104,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $128.32 | EV/Sales | 28.16 |
-| Market cap | $18.19B | EV/EBITDA | 198.97 |
+| Market cap | $18.23B | EV/EBITDA | 198.97 |
 | Beta | 1.80 | Gross margin | 69.02% |
 | RSI(14) | 48.1 | Operating margin | 13.33% |
 | ATR(14) | 9.04 | Profit margin | 5.58% |
@@ -125,7 +116,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | P/E (ttm) | 513.28 | Insider ownership | 0.62% |
 | Forward P/E | 39.99 | Short float | 6.88% |
 | PEG (trailing) | — | Avg volume | 2,080,519 |
-| P/S | 27.94 | Employees | 1,174 |
+| P/S | 27.99 | Employees | 1,174 |
 | P/B | 23.72 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions

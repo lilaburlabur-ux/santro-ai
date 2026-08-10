@@ -37,9 +37,9 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Headline | Source | Date |
 |---|---|---|
 | Chip equipment stocks rise after Taiwan Semiconductor revenue surges 45% | Yahoo Finance | 2026-08-10 |
+| TSMC Sales Jump 45% On Strong AI Chip Demand But Investors Shrug | Investor's Business Daily | 2026-08-10 |
 | The ETFs Most Exposed to the 2026 Chip Supply Chain Crisis — Winners and Losers | etf.com | 2026-08-10 |
 | ASML Stock Rises 1.7% as AI Demand Signal Strengthens | GuruFocus.com | 2026-08-10 |
-| Why Intel Stock Is Falling Today | GuruFocus.com | 2026-08-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

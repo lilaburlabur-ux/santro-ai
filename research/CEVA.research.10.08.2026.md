@@ -18,7 +18,7 @@ Signed file: `CEVA.research.10.08.2026`
 | Technical momentum | Moderate | 1Y +50.71%; price +12.01% vs SMA200. |
 | Fresh setup quality | Poor / broken | -36.24% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-10.47%). |
-| Value attractiveness | Low (expensive) | Forward P/E 38.75, EV/Sales 7.82. |
+| Value attractiveness | Low (expensive) | Forward P/E 38.70, EV/Sales 7.82. |
 | Risk level | High | Beta 2.01, ATR 10.8% of price, short float 7.35%. |
 
 **Bottom line:** Moderate technical momentum, weak fundamentals, value: low (expensive), risk: high.
@@ -68,7 +68,7 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 | Revenue (ttm) | $112.38M | Revenue growth 11.50% y/y |
 | Profitability | Gross 87.19%, operating -18.82%, net -10.47% | ROA -2.16%, ROE -3.88% |
 | Balance sheet | Cash $215.69M, debt $16.88M | Current ratio 10.26, debt/equity 4.99 |
-| Valuation | P/E —, forward P/E 38.75, P/S 7.91, P/B 2.63 | EV/Sales 7.82, EV/EBITDA -112.95 |
+| Valuation | P/E —, forward P/E 38.70, P/S 7.91, P/B 2.63 | EV/Sales 7.82, EV/EBITDA -112.95 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $50.00 (8 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 | Deutsche Bank AG | 719,690 | 2.58% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 38.75, EV/Sales 7.82. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 38.70, EV/Sales 7.82. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.01, ATR 10.8% of price, short float 7.35%. Size positions accordingly.
 - **Short interest risk:** short float 7.35% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
@@ -125,7 +125,7 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 | 52W high | $50.06 | Revenue growth y/y | 11.50% |
 | 52W low | $17.21 | Inst. ownership | 97.50% |
 | P/E (ttm) | — | Insider ownership | 3.11% |
-| Forward P/E | 38.75 | Short float | 7.35% |
+| Forward P/E | 38.70 | Short float | 7.35% |
 | PEG (trailing) | 3.79 | Avg volume | 865,295 |
 | P/S | 7.91 | Employees | 400 |
 | P/B | 2.63 | Analyst rec (1=buy..5=sell) | 1.6 |

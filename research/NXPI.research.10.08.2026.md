@@ -36,10 +36,10 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
+| Why NXP Semiconductors Stock Dropped 18.5% in July | Motley Fool | 2026-08-10 |
 | Why One Prominent Analyst Expects 85% Returns for ON Semiconductor Despite Current Turmoil | 24/7 Wall St. | 2026-08-10 |
 | The companies emerging as new leaders in this renewed AI rally | Yahoo Finance Video | 2026-08-05 |
 | Nvidia Stock Retakes Key Level As Chip Stocks Waver | Investor's Business Daily | 2026-08-03 |
-| NXP downgraded by UBS as China and AI risks cloud growth | Proactive | 2026-08-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

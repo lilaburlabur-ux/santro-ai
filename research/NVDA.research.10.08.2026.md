@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | SpaceX’s next chapter: How AI is reshaping the company | Yahoo Finance Video | 2026-08-10 |
 | Memory chip crunch could last 2 more years, JPMorgan says | Yahoo Finance Video | 2026-08-10 |
-| Why ServiceNow Soared 12% Higher Last Month | Motley Fool | 2026-08-10 |
-| Trading Day: Strait talking | Reuters | 2026-08-10 |
+| Airbnb Is Starting To Think Like Amazon's Jeff Bezos, And It's Paying Off | Motley Fool | 2026-08-10 |
+| Why Kevin Warsh Might Raise Interest Rates at the Next FOMC Meeting, Despite a Weak Jobs Report | Motley Fool | 2026-08-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Stock market today: Dow, S&P 500, Nasdaq slip as oil prices climb, Nvidia stock pulls back | Yahoo Finance | 2026-08-10 |
+| Stock Market Today, Aug. 10: Markets Slip as Oil Gains Fuel Inflation Fears | Motley Fool | 2026-08-10 |
+| Intel (INTC) Tripled This Year, But Can a $15B Share Sale Stop the Momentum? | Insider Monkey | 2026-08-10 |
 | Trading Day: Strait talking | Reuters | 2026-08-10 |
-| Update: S&P 500 Retreats From Record, Oil Jumps as Hormuz Reopening Hopes Fade | MT Newswires | 2026-08-10 |
-| How the AI Trade Is Stealing Crypto’s Thunder | The Wall Street Journal | 2026-08-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -1,5 +1,5 @@
 # AMD Research Report
-**AMD** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Advanced Micro Devices, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `AMD.research.10.08.2026`
 
 | Field | Value |
@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Intel (INTC) Tripled This Year, But Can a $15B Share Sale Stop the Momentum? | Insider Monkey | 2026-08-10 |
 | Why AMD Stock Tumbled 18% in July | Motley Fool | 2026-08-10 |
 | What’s Driving TeraWulf (WULF) Stock, and Are Its Peers Moving Too? | 24/7 Wall St. | 2026-08-10 |
 | Marvell Technology Stock's Multiple Leans On Profit From Below The Operating Line | Trefis | 2026-08-10 |
-| AMD Brings Meta's New AI Model to PCs | GuruFocus.com | 2026-08-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

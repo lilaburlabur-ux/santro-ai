@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-10T22:09:59+00:00",
-  "as_of_local": "2026-08-10 22:09:59 UTC",
+  "as_of_utc": "2026-08-10T22:15:09+00:00",
+  "as_of_local": "2026-08-10 22:15:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 2009601846597.2349,
       "headlines": [
         {
+          "title": "VYM\u2019s 2.2% Yield Hides $141,000 in Decade-Long Underperformance Versus the S&P 500",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vym-2-2-yield-hides-220516921.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-10T22:05:16Z"
+        },
+        {
           "title": "Semiconductor Equipment Makers vs. Chip Designers: Who's Actually Winning the AI Cycle?",
           "url": "https://finance.yahoo.com/technology/ai/articles/semiconductor-equipment-makers-vs-chip-205000771.html",
           "publisher": "Motley Fool",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-stocks-multiple-leans-200113598.html",
           "publisher": "Trefis",
           "published": "2026-08-10T20:01:13Z"
-        },
-        {
-          "title": "Broadcom Boosts VCF Security: Can it Fend Off Nutanix and IBM?",
-          "url": "https://finance.yahoo.com/technology/articles/broadcom-boosts-vcf-security-fend-161900110.html",
-          "publisher": "Zacks",
-          "published": "2026-08-10T16:19:00Z"
         }
       ]
     },
@@ -585,13 +585,18 @@
     },
     {
       "label": "BTC",
-      "price": 63951.08,
-      "change_pct": -1.38
+      "price": 63979.98,
+      "change_pct": -1.33
     },
     {
       "label": "Gold",
-      "price": 4448.6,
+      "price": 4448.7,
       "change_pct": 2.49
+    },
+    {
+      "label": "Nasdaq100",
+      "price": 29621.8,
+      "change_pct": -0.34
     }
   ]
 }

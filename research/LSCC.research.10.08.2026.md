@@ -5,7 +5,7 @@ Signed file: `LSCC.research.10.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $128.32 (2026-08-10, ~15-min delayed) |
-| Market cap | $18.19B |
+| Market cap | $18.23B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
@@ -113,7 +113,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $128.32 | EV/Sales | 28.16 |
-| Market cap | $18.19B | EV/EBITDA | 198.97 |
+| Market cap | $18.23B | EV/EBITDA | 198.97 |
 | Beta | 1.80 | Gross margin | 69.02% |
 | RSI(14) | 48.1 | Operating margin | 13.33% |
 | ATR(14) | 9.04 | Profit margin | 5.58% |

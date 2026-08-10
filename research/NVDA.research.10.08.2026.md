@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | SpaceX’s next chapter: How AI is reshaping the company | Yahoo Finance Video | 2026-08-10 |
 | Memory chip crunch could last 2 more years, JPMorgan says | Yahoo Finance Video | 2026-08-10 |
-| Cathie Wood Invests $36.9 Million in Surging Stock | GuruFocus.com | 2026-08-10 |
-| Why National Energy Stock Climbed to a New All-Time High Today | Motley Fool | 2026-08-10 |
+| Why Garmin Stock Soared in July and Is at an All-Time High | Motley Fool | 2026-08-10 |
+| US Equity Markets End Lower After Crude Oil Prices Rise Following US-Iran Disagreements | MT Newswires | 2026-08-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

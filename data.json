@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-10T05:21:34+00:00",
-  "as_of_local": "2026-08-10 05:21:34 UTC",
+  "as_of_utc": "2026-08-10T05:36:40+00:00",
+  "as_of_local": "2026-08-10 05:36:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -125,6 +125,12 @@
       "market_cap": 789073112387.9114,
       "headlines": [
         {
+          "title": "Nvidia, Eli Lilly, and Disney Show It\u2019s Time to Back the Top Dogs",
+          "url": "https://www.barrons.com/articles/nvidia-stock-eli-lilly-disney-0133194f?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-08-10T05:00:00Z"
+        },
+        {
           "title": "US Export Control Meant to Cripple China\u2019s AI. But They Created Its Most Valuable Company",
           "url": "https://finance.yahoo.com/technology/ai/articles/us-export-control-meant-cripple-034300067.html",
           "publisher": "BeInCrypto",
@@ -135,12 +141,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-resets-amd-210300850.html",
           "publisher": "TheStreet",
           "published": "2026-08-09T21:03:00Z"
-        },
-        {
-          "title": "Core Scientific (CORZ) Shareholders Rejected a $9B Sale. Does the AMD Deal Vindicate Them?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/core-scientific-corz-shareholders-rejected-203304503.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-08-09T20:33:04Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -0.63,
-          "price": 1413000.0,
+          "change_pct": 0.42,
+          "price": 1428000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.65,
-          "price": 229500.0,
+          "change_pct": 0.22,
+          "price": 231500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 2.07,
-          "price": 48720.0,
+          "change_pct": 2.87,
+          "price": 49100.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -0.63,
-        "price": 1413000.0,
+        "change_pct": 0.42,
+        "price": 1428000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.65,
-        "price": 229500.0,
+        "change_pct": 0.22,
+        "price": 231500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 2.07,
-        "price": 48720.0,
+        "change_pct": 2.87,
+        "price": 49100.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64955.99,
-      "change_pct": 0.08
+      "price": 64993.93,
+      "change_pct": 0.14
     },
     {
       "label": "Gold",
-      "price": 4395.6,
-      "change_pct": 1.26
+      "price": 4394.2,
+      "change_pct": 1.23
     },
     {
       "label": "Nasdaq100",

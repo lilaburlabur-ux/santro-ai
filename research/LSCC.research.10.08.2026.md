@@ -32,6 +32,15 @@ Signed file: `LSCC.research.10.08.2026`
 ## 2. Company Overview and Recent Catalysts
 Lattice Semiconductor Corporation, together with its subsidiaries, develops and sells semiconductor, silicon-based and silicon-enabling, evaluation boards, and development hardware products in Asia, Europe, and the Americas. It offers field programmable gate arrays (FPGA), which are regular arrays of logic that can be custom-configured by the user through software.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Lattice Semiconductor (LSCC) Posted Record Q2 Results, Is The Stock Still Undervalued? | Simply Wall St. | 2026-08-07 |
+| LSCC Stock Offers AI Growth but Demands a Premium Valuation Trade-Off | Zacks | 2026-08-06 |
+| How the AMI Deal Could Expand Lattice's AI Infrastructure Edge | Zacks | 2026-08-06 |
+| Lattice Q2 Earnings Call Highlights AI Growth and AMI Expansion | Zacks | 2026-08-05 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|

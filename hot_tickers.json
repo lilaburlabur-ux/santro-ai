@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-10T20:49:00+00:00",
+  "as_of": "2026-08-10T21:00:52+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,13 +9,29 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "CEVA",
+   "company": "Ceva Inc",
+   "move_pct": -15.8,
+   "price": 32.56,
+   "volume": 1185510,
+   "volume_vs_avg": "~2x",
+   "heat_score": 85,
+   "direction": "down",
+   "why": "Ceva Tops Q2 Targets On Edge AI Tech Licensing",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.investors.com/news/technology/ceva-stock-q2-2026-earnings/?src=A00220&yptr=yahoo",
+   "published": "2026-08-10T20:53:05Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
    "ticker": "DDOG",
    "company": "Datadog Inc",
-   "move_pct": 11.37,
-   "price": 260.53,
+   "move_pct": 11.48,
+   "price": 260.78,
    "volume": 8413479,
    "volume_vs_avg": "~2x",
-   "heat_score": 73,
+   "heat_score": 74,
    "direction": "up",
    "why": "Datadog (DDOG) Grows Fast, Then Gets Punished For Slowing Down",
    "catalyst_type": "momentum_narrative",
@@ -24,11 +40,11 @@
    "sector": "AI Applications & Data Software"
   },
   {
-   "rank": 2,
+   "rank": 3,
    "ticker": "OKLO",
    "company": "Oklo Inc",
-   "move_pct": -8.61,
-   "price": 44.25,
+   "move_pct": -8.53,
+   "price": 44.29,
    "volume": 14092459,
    "volume_vs_avg": "~1.5x",
    "heat_score": 62,
@@ -40,14 +56,14 @@
    "sector": "Data Center, Power & Energy"
   },
   {
-   "rank": 3,
+   "rank": 4,
    "ticker": "SOUN",
    "company": "SoundHound AI Inc",
-   "move_pct": -7.11,
-   "price": 7.45,
+   "move_pct": -6.98,
+   "price": 7.46,
    "volume": 35019027,
    "volume_vs_avg": "~1.0x",
-   "heat_score": 45,
+   "heat_score": 44,
    "direction": "down",
    "why": "Is SoundHound AI Stock a Buy After Posting Massive Growth in Q2?",
    "catalyst_type": "momentum_narrative",
@@ -56,11 +72,11 @@
    "sector": "AI Applications & Data Software"
   },
   {
-   "rank": 4,
+   "rank": 5,
    "ticker": "PANW",
    "company": "Palo Alto Networks Inc",
-   "move_pct": 5.81,
-   "price": 385.0,
+   "move_pct": 5.72,
+   "price": 384.66,
    "volume": 5480576,
    "volume_vs_avg": "~0.8x",
    "heat_score": 39,

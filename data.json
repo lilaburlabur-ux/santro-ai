@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-10T04:46:20+00:00",
-  "as_of_local": "2026-08-10 04:46:20 UTC",
+  "as_of_utc": "2026-08-10T04:55:40+00:00",
+  "as_of_local": "2026-08-10 04:55:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 991121555794.9924,
       "headlines": [
         {
+          "title": "Why Micron is Decisively Better Positioned Than Intel Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-decisively-better-positioned-043213315.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-10T04:32:13Z"
+        },
+        {
           "title": "MU Outpaced SNDK, WDC This Week: Now, Retail Traders Bet On Outlook Raise At Key Analyst Event",
           "url": "https://finance.yahoo.com/markets/stocks/articles/mu-outpaced-sndk-wdc-week-020924359.html",
           "publisher": "Stocktwits",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-just-bounced-10-012000358.html",
           "publisher": "Motley Fool",
           "published": "2026-08-10T01:20:00Z"
-        },
-        {
-          "title": "SK Hynix and Samsung Just Sent a Major Warning to Micron Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-samsung-just-sent-235000164.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-09T23:50:00Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 0.49,
-          "price": 1429000.0,
+          "change_pct": 0.14,
+          "price": 1424000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.0,
-          "price": 231000.0,
+          "change_pct": -0.43,
+          "price": 230000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 1.99,
-          "price": 48680.0,
+          "change_pct": 1.59,
+          "price": 48490.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 0.49,
-        "price": 1429000.0,
+        "change_pct": 0.14,
+        "price": 1424000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.0,
-        "price": 231000.0,
+        "change_pct": -0.43,
+        "price": 230000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 1.99,
-        "price": 48680.0,
+        "change_pct": 1.59,
+        "price": 48490.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64979.01,
-      "change_pct": 0.11
+      "price": 64960.91,
+      "change_pct": 0.09
     },
     {
       "label": "Gold",
-      "price": 4395.8,
-      "change_pct": 1.27
+      "price": 4392.3,
+      "change_pct": 1.19
     },
     {
       "label": "Nasdaq100",

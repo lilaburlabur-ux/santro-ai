@@ -18,7 +18,7 @@ Signed file: `SYNA.research.10.08.2026`
 | Technical momentum | High | 1Y +75.39%; price +12.34% vs SMA200. |
 | Fresh setup quality | Poor / broken | -29.04% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-41.00%). |
-| Value attractiveness | Reasonable | Forward P/E 15.91, EV/Sales 3.77. |
+| Value attractiveness | Reasonable | Forward P/E 15.92, EV/Sales 3.77. |
 | Risk level | High | Beta 1.96, ATR 6.3% of price, short float 14.96%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -68,7 +68,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Revenue (ttm) | $1.20B | Revenue growth 8.90% y/y |
 | Profitability | Gross 53.63%, operating 7.86%, net -41.00% | ROA 1.63%, ROE -42.23% |
 | Balance sheet | Cash $442.50M, debt $837.30M | Current ratio 1.12, debt/equity 90.08 |
-| Valuation | P/E —, forward P/E 15.91, P/S 3.42, P/B 4.37 | EV/Sales 3.77, EV/EBITDA 61.43 |
+| Valuation | P/E —, forward P/E 15.92, P/S 3.42, P/B 4.37 | EV/Sales 3.77, EV/EBITDA 61.43 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $132.56 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -124,7 +124,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | 52W high | $147.57 | Revenue growth y/y | 8.90% |
 | 52W low | $58.52 | Inst. ownership | 109.64% |
 | P/E (ttm) | — | Insider ownership | 1.95% |
-| Forward P/E | 15.91 | Short float | 14.96% |
+| Forward P/E | 15.92 | Short float | 14.96% |
 | PEG (trailing) | — | Avg volume | 1,041,972 |
 | P/S | 3.42 | Employees | 0 |
 | P/B | 4.37 | Analyst rec (1=buy..5=sell) | 2.7 |

@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Semiconductor Equipment Makers vs. Chip Designers: Who's Actually Winning the AI Cycle? | Motley Fool | 2026-08-10 |
+| Marvell Technology Stock's Multiple Leans On Profit From Below The Operating Line | Trefis | 2026-08-10 |
 | Broadcom Boosts VCF Security: Can it Fend Off Nutanix and IBM? | Zacks | 2026-08-10 |
 | Cerebras Q2 Earnings Loom: Buy or Sell CBRS Stock Ahead of Results? | Zacks | 2026-08-10 |
-| Broadcom Stock Looks Like a Screaming Deal | Motley Fool | 2026-08-10 |
-| Qualcomm's Android Growth Number Has Left The Front Of The Story | Trefis | 2026-08-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

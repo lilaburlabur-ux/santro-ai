@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Marvell Technology Stock's Multiple Leans On Profit From Below The Operating Line | Trefis | 2026-08-10 |
 | Nvidia Stock Slips as Its AI Investments Draw Fresh Scrutiny | Barrons.com | 2026-08-10 |
 | Broadcom’s Brilliant Positioning is Why I Am Loading Up Over and Over | 24/7 Wall St. | 2026-08-10 |
 | Marvell (MRVL) vs. AVGO and NVDA: Can AI Interconnect Growth Deliver the Earnings Its Premium Valuation Demands? | Insider Monkey | 2026-08-09 |
-| Beyond NVIDIA and GPUs: The Next AI & Quantum Winners Leading 2026 | Zacks | 2026-08-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

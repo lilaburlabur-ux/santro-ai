@@ -36,10 +36,10 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 
 | Headline | Source | Date |
 |---|---|---|
+| CEVA Inc (CEVA) (Q2 2026) Earnings Call Highlights: Strong Licensing Growth and Raised ... | GuruFocus.com | 2026-08-10 |
 | Ceva Tops Q2 Targets On Edge AI Tech Licensing | Investor's Business Daily | 2026-08-10 |
 | Ceva Q2 Earnings Call Highlights | MarketBeat | 2026-08-10 |
 | Ceva shares slip despite Q2 earnings beat and stronger licensing revenue | InvestorsHub | 2026-08-10 |
-| Ceva (CEVA) Surpasses Q2 Earnings and Revenue Estimates | Zacks | 2026-08-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

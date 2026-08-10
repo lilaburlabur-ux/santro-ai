@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| Marvell Technology Stock's Multiple Leans On Profit From Below The Operating Line | Trefis | 2026-08-10 |
 | Qualcomm's Android Growth Number Has Left The Front Of The Story | Trefis | 2026-08-10 |
 | Micron Technology Stock Surged On A Shortage The Company Had Already Described | Trefis | 2026-08-10 |
 | What TSMC’s Surging Sales Growth Means for Apple and Nvidia Stocks | Barrons.com | 2026-08-10 |
-| Apple downgraded, HPE upgraded: Wall Street's top analyst calls | The Fly | 2026-08-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

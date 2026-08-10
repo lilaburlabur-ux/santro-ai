@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-10T20:49:19+00:00",
-  "as_of_local": "2026-08-10 20:49:19 UTC",
+  "as_of_utc": "2026-08-10T20:54:02+00:00",
+  "as_of_local": "2026-08-10 20:54:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -25,10 +25,10 @@
           "published": "2026-08-10T14:34:00Z"
         },
         {
-          "title": "Stock Market Today: Dow Dips, Nvidia Falls On This; Warren Buffett's Berkshire In Buy Zone (Live Coverage)",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-us-iran-spacex-stock-spcx/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-10T20:31:50Z"
+          "title": "Why AMD Stock Tumbled 18% in July",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-tumbled-18-203900917.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-10T20:39:00Z"
         }
       ]
     },
@@ -125,6 +125,12 @@
       "market_cap": 766544976735.9852,
       "headlines": [
         {
+          "title": "Why AMD Stock Tumbled 18% in July",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-tumbled-18-203900917.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-10T20:39:00Z"
+        },
+        {
           "title": "What\u2019s Driving TeraWulf (WULF) Stock, and Are Its Peers Moving Too?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/driving-terawulf-wulf-stock-peers-201959274.html",
           "publisher": "24/7 Wall St.",
@@ -135,12 +141,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-stocks-multiple-leans-200113598.html",
           "publisher": "Trefis",
           "published": "2026-08-10T20:01:13Z"
-        },
-        {
-          "title": "AMD Brings Meta's New AI Model to PCs",
-          "url": "https://finance.yahoo.com/technology/ai/articles/amd-brings-metas-ai-model-194558831.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-10T19:45:58Z"
         }
       ]
     },
@@ -290,7 +290,7 @@
       "price": 128.32,
       "previous_close": 130.03,
       "change_pct": -1.32,
-      "market_cap": 18225325543.30078,
+      "market_cap": 18189259537.082214,
       "headlines": [
         {
           "title": "Lattice Semiconductor (LSCC) Posted Record Q2 Results, Is The Stock Still Undervalued?",
@@ -454,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -1.45,
-          "price": 800.99,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -544,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -1.45,
-        "price": 800.99,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 64097.96,
-      "change_pct": -1.15
+      "price": 64111.11,
+      "change_pct": -1.13
     },
     {
       "label": "Gold",

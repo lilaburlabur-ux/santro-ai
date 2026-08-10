@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-10T00:25:29+00:00",
+  "as_of": "2026-08-10T00:30:39+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -54,22 +54,6 @@
    "source_url": "",
    "published": "",
    "sector": "AI Applications & Data Software"
-  },
-  {
-   "rank": 4,
-   "ticker": "MDB",
-   "company": "MongoDB Inc",
-   "move_pct": 7.78,
-   "price": 398.8,
-   "volume": 1708700,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 48,
-   "direction": "up",
-   "why": "MongoDB (MDB): Buy, Sell, or Hold Post Q1 Earnings?",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/mongodb-mdb-buy-sell-hold-202922421.html",
-   "published": "2026-08-09T20:29:22Z",
-   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

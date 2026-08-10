@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-10T12:31:30+00:00",
+  "as_of": "2026-08-10T12:41:13+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,33 +11,17 @@
    "rank": 1,
    "ticker": "CEVA",
    "company": "Ceva Inc",
-   "move_pct": -6.13,
-   "price": 36.3,
+   "move_pct": -8.97,
+   "price": 35.2,
    "volume": 1385400,
    "volume_vs_avg": "~2x",
-   "heat_score": 46,
+   "heat_score": 66,
    "direction": "down",
    "why": "Ceva Tops Q2 Targets On Edge AI Tech Licensing",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/news/technology/ceva-stock-q2-2026-earnings/?src=A00220&yptr=yahoo",
    "published": "2026-08-10T11:27:54Z",
    "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 2,
-   "ticker": "HPE",
-   "company": "Hewlett Packard Enterprise Co",
-   "move_pct": 5.13,
-   "price": 55.95,
-   "volume": 14031300,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "HPE Stock Jumps After Morgan Stanley Upgrade \u2014 Analyst Admits \u2018We\u2019ve Been On The Wrong Side\u2019 Of The Enterprise Hardware Trade",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/hpe-stock-jumps-morgan-stanley-115138767.html",
-   "published": "2026-08-10T11:51:38Z",
-   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

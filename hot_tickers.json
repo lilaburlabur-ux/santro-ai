@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-10T13:32:18+00:00",
+  "as_of": "2026-08-10T13:47:28+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,33 +11,17 @@
    "rank": 1,
    "ticker": "CEVA",
    "company": "Ceva Inc",
-   "move_pct": -7.86,
-   "price": 35.63,
-   "volume": 105765,
-   "volume_vs_avg": "~0.1x",
-   "heat_score": 43,
+   "move_pct": -11.62,
+   "price": 34.18,
+   "volume": 164607,
+   "volume_vs_avg": "~0.2x",
+   "heat_score": 67,
    "direction": "down",
    "why": "Ceva shares slip despite Q2 earnings beat and stronger licensing revenue",
    "catalyst_type": "earnings",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/ceva-shares-slip-despite-q2-125228127.html",
    "published": "2026-08-10T12:52:28Z",
    "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 2,
-   "ticker": "SMCI",
-   "company": "Super Micro Computer Inc",
-   "move_pct": 5.94,
-   "price": 32.98,
-   "volume": 8242058,
-   "volume_vs_avg": "~0.2x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "Super Micro Computer Continues Its 3-Month Fall: One Wall Street Bull\u2019s Thesis Predicts 55% Upside From Here",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-continues-3-113515356.html",
-   "published": "2026-08-10T11:35:15Z",
-   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

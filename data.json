@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-10T04:31:22+00:00",
-  "as_of_local": "2026-08-10 04:31:22 UTC",
+  "as_of_utc": "2026-08-10T04:46:20+00:00",
+  "as_of_local": "2026-08-10 04:46:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -153,6 +153,12 @@
       "market_cap": 512722607696.5332,
       "headlines": [
         {
+          "title": "Why Micron is Decisively Better Positioned Than Intel Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-decisively-better-positioned-043213315.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-10T04:32:13Z"
+        },
+        {
           "title": "1 Nasdaq 100 Stock for Long-Term Investors and 2 We Question",
           "url": "https://finance.yahoo.com/markets/stocks/articles/1-nasdaq-100-stock-long-221322614.html",
           "publisher": "StockStory",
@@ -163,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-foundry-lands-major-client-063000357.html",
           "publisher": "Motley Fool",
           "published": "2026-08-09T06:30:00Z"
-        },
-        {
-          "title": "Ron Paul: Trump\u2019s New Policy Is \u2018As Dangerous to Liberty and Prosperity\u2019 as Mamdani\u2019s",
-          "url": "https://finance.yahoo.com/economy/policy/articles/ron-paul-trump-policy-dangerous-140008767.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-08T14:00:08Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 1.05,
-          "price": 1437000.0,
+          "change_pct": 0.49,
+          "price": 1429000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 1.86,
-          "price": 48620.0,
+          "change_pct": 1.99,
+          "price": 48680.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 1.05,
-        "price": 1437000.0,
+        "change_pct": 0.49,
+        "price": 1429000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 1.86,
-        "price": 48620.0,
+        "change_pct": 1.99,
+        "price": 48680.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64975.0,
+      "price": 64979.01,
       "change_pct": 0.11
     },
     {
       "label": "Gold",
-      "price": 4395.2,
-      "change_pct": 1.26
+      "price": 4395.8,
+      "change_pct": 1.27
     },
     {
       "label": "Nasdaq100",

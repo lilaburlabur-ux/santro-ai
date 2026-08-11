@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-11T00:18:42+00:00",
+  "as_of": "2026-08-11T00:34:00+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -22,54 +22,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/ceva-inc-ceva-q2-2026-210150559.html",
    "published": "2026-08-10T21:01:50Z",
    "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 2,
-   "ticker": "OKLO",
-   "company": "Oklo Inc",
-   "move_pct": -8.12,
-   "price": 44.49,
-   "volume": 14092459,
-   "volume_vs_avg": "~1.5x",
-   "heat_score": 61,
-   "direction": "down",
-   "why": "Uranium Energy vs. Oklo: Which Nuclear Fuel Play Wins in 2026?",
-   "catalyst_type": "contract_win",
-   "source_url": "https://finance.yahoo.com/energy/articles/uranium-energy-vs-oklo-nuclear-202500894.html",
-   "published": "2026-08-10T20:25:00Z",
-   "sector": "Data Center, Power & Energy"
-  },
-  {
-   "rank": 3,
-   "ticker": "PANW",
-   "company": "Palo Alto Networks Inc",
-   "move_pct": 5.82,
-   "price": 385.04,
-   "volume": 5480576,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 39,
-   "direction": "up",
-   "why": "Cybersecurity Stocks Surge, With Palo Alto Networks and CrowdStrike Leading the Charge",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/cybersecurity-stocks-surge-palo-alto-202524523.html",
-   "published": "2026-08-10T20:25:24Z",
-   "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
-   "rank": 4,
-   "ticker": "CRWD",
-   "company": "Crowdstrike Holdings Inc",
-   "move_pct": 5.01,
-   "price": 225.16,
-   "volume": 8052909,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "Cybersecurity Stocks Surge, With Palo Alto Networks and CrowdStrike Leading the Charge",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/cybersecurity-stocks-surge-palo-alto-202524523.html",
-   "published": "2026-08-10T20:25:24Z",
-   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

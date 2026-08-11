@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Dow Jones Futures: Stocks Pause Before CPI Inflation; 3 Nvidia Partners Lead Earnings Movers Late | Investor's Business Daily | 2026-08-11 |
 | Microsoft New AI Chip Could Be a Big Win for Marvell and TSMC | GuruFocus.com | 2026-08-11 |
 | Microsoft Stock Slips as Custom AI-Chip Ambitions Accelerate | GuruFocus.com | 2026-08-11 |
 | ASML Holding (ENXTAM:ASML) Gains On TSMC Demand Signal, Is The Stock Now Too Expensive? | Simply Wall St. | 2026-08-11 |
-| Marvell Could Be Next Winner in Microsoft AI Bet | GuruFocus.com | 2026-08-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

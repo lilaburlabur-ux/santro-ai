@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-08-11T12:08:54+00:00",
-  "as_of_local": "2026-08-11 12:08:54 UTC",
+  "as_of_utc": "2026-08-11T12:10:04+00:00",
+  "as_of_local": "2026-08-11 12:10:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 217.55,
-      "previous_close": 223.96,
-      "change_pct": -2.86,
-      "market_cap": 5269278623916.626,
-      "headlines": [
-        {
-          "title": "SpaceX\u2019s next chapter: How AI is reshaping the company",
-          "url": "https://finance.yahoo.com/video/spacex-next-chapter-ai-reshaping-162900507.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-08-10T16:29:00Z"
-        },
-        {
-          "title": "Memory chip crunch could last 2 more years, JPMorgan says",
-          "url": "https://finance.yahoo.com/video/memory-chip-crunch-could-last-143400576.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-08-10T14:34:00Z"
-        },
-        {
-          "title": "Will Nvidia Split Its Stock Again in 2026?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-split-stock-again-2026-120000900.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-11T12:00:00Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -585,12 +559,12 @@
     },
     {
       "label": "BTC",
-      "price": 64387.16,
-      "change_pct": 0.75
+      "price": 64409.56,
+      "change_pct": 0.78
     },
     {
       "label": "Gold",
-      "price": 4445.9,
+      "price": 4446.1,
       "change_pct": 1.93
     },
     {

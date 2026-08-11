@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Intel's huge rally is helping pay for its AI comeback | Yahoo Finance Video | 2026-08-11 |
 | Put options explained: How trading puts pays off and when it doesn't | Yahoo Personal Finance | 2026-08-11 |
-| Ambiq Micro, Inc. Q2 2026 Earnings Call Summary | Moby | 2026-08-11 |
-| Dow Jones Futures: Stocks Pause Before CPI Inflation; 3 Nvidia Partners Lead Earnings Movers Late | Investor's Business Daily | 2026-08-11 |
+| Why NuScale Power Stock Plunged to a 52-Week Low in July | Motley Fool | 2026-08-11 |
+| Harvard Bioscience, Inc. Q2 2026 Earnings Call Summary | Moby | 2026-08-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

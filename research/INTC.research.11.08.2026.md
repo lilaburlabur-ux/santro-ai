@@ -38,8 +38,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 |---|---|---|
 | Tech stocks today: CoreWeave and Supermicro results win over investors | Yahoo Finance | 2026-08-10 |
 | Intel's huge rally is helping pay for its AI comeback | Yahoo Finance Video | 2026-08-11 |
+| Intel’s CFO called his shot, but shareholders pay the price | TheStreet | 2026-08-11 |
 | Intel Just Increased Its Stock Offering to $20B. Why That’s Good News for ASML. | Barrons.com | 2026-08-11 |
-| Sector Update: Tech Stocks Mixed Late Afternoon | MT Newswires | 2026-08-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-11T17:53:53+00:00",
+  "as_of": "2026-08-11T18:02:52+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,11 +9,27 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "SPCX",
+   "company": "SpaceX",
+   "move_pct": -5.6,
+   "price": 130.98,
+   "volume": 77464456,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 39,
+   "direction": "down",
+   "why": "A SpaceX-Tesla Deal Could Unlock Musk's $824 Billion Payday",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-deal-could-unlock-175005575.html",
+   "published": "2026-08-11T17:50:05Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 2,
    "ticker": "APP",
    "company": "Applovin Corp",
-   "move_pct": -5.25,
-   "price": 321.2,
-   "volume": 5109716,
+   "move_pct": -5.27,
+   "price": 321.13,
+   "volume": 5172987,
    "volume_vs_avg": "~0.8x",
    "heat_score": 37,
    "direction": "down",
@@ -22,22 +38,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/applovin-shares-drop-bank-america-173500523.html",
    "published": "2026-08-11T17:35:00Z",
    "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 2,
-   "ticker": "SPCX",
-   "company": "SpaceX",
-   "move_pct": -5.22,
-   "price": 131.5,
-   "volume": 74569464,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 37,
-   "direction": "down",
-   "why": "A SpaceX-Tesla Deal Could Unlock Musk's $824 Billion Payday",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-deal-could-unlock-175005575.html",
-   "published": "2026-08-11T17:50:05Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

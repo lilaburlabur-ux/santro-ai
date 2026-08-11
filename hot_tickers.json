@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-11T14:00:57+00:00",
+  "as_of": "2026-08-11T14:02:02+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "APP",
-   "company": "Applovin Corp",
-   "move_pct": -5.03,
-   "price": 321.95,
-   "volume": 1900250,
-   "volume_vs_avg": "~0.3x",
-   "heat_score": 34,
-   "direction": "down",
-   "why": "Here Are Tuesday\u2019s Top Wall Street Analyst Research Calls: Airbnb, AppLovin, Autodesk, Best Buy, BigBear.ai, Boeing, Fiserv, Jabil, Spotify Technology and More",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/tuesday-top-wall-street-analyst-120206169.html",
-   "published": "2026-08-11T12:02:06Z",
-   "sector": "AI Platforms, Internet & AdTech"
-  }
- ]
+ "hot_tickers": []
 }

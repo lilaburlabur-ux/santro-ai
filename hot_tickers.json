@@ -1,43 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-11T16:27:53+00:00",
+  "as_of": "2026-08-11T16:43:01+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "OKLO",
-   "company": "Oklo Inc",
-   "move_pct": 5.08,
-   "price": 46.75,
-   "volume": 5535246,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 36,
-   "direction": "up",
-   "why": "Cause for Concern or Routine Move? Oklo CEO Jacob DeWitte Sells 120,000 Shares for $4.9 Million",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cause-concern-routine-move-oklo-160501554.html",
-   "published": "2026-08-11T16:05:01Z",
-   "sector": "Data Center, Power & Energy"
-  },
-  {
-   "rank": 2,
-   "ticker": "SMR",
-   "company": "NuScale Power Corp",
-   "move_pct": 5.01,
-   "price": 9.64,
-   "volume": 11012685,
-   "volume_vs_avg": "~0.4x",
-   "heat_score": 34,
-   "direction": "up",
-   "why": "Wall Street Analysts Predict a 56.21% Upside in NuScale Power (SMR): Here's  What You Should Know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predict-56-135502176.html",
-   "published": "2026-08-11T13:55:02Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  }
- ]
+ "hot_tickers": []
 }

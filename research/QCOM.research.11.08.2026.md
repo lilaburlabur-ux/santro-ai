@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| What Is The Market Really Expecting From AVGO Stock? | Trefis | 2026-08-11 |
 | The Options Market Says Marvell Stock Could Halve Or More Than Double | Trefis | 2026-08-11 |
 | Apple Already Increased the Price of iPhones Up to $300. Their Price Hikes Might Be Just Starting. | 24/7 Wall St. | 2026-08-11 |
 | NVIDIA's Falling Multiple Is A Bill, Not A Bargain | Trefis | 2026-08-11 |
-| AMD's Bigger Risk Sits In Its Revenue Mix, Not Its Multiple | Trefis | 2026-08-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

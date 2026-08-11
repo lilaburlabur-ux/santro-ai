@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| What Is The Market Really Expecting From AVGO Stock? | Trefis | 2026-08-11 |
 | Financial Giants Jump Amid Nvidia AI Funding Deal; 1 Eyes Breakout | Investor's Business Daily | 2026-08-11 |
 | Elon Musk’s Newest Data Center ‘Moonshot’ Could Send NVIDIA Shares to $500. It Could Also Crash the Stock. | 24/7 Wall St. | 2026-08-11 |
 | Why Anthropic’s $9 Billion Deal With Riot Is a Watershed Moment for Bitcoin Miners | Barrons.com | 2026-08-11 |
-| The Options Market Says Marvell Stock Could Halve Or More Than Double | Trefis | 2026-08-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

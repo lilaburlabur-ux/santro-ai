@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| What Is The Market Really Expecting From AVGO Stock? | Trefis | 2026-08-11 |
 | The Options Market Says Marvell Stock Could Halve Or More Than Double | Trefis | 2026-08-11 |
 | Microsoft New AI Chip Could Be a Big Win for Marvell and TSMC | GuruFocus.com | 2026-08-11 |
 | Marvell Could Be Next Winner in Microsoft AI Bet | GuruFocus.com | 2026-08-11 |
-| NVIDIA's Falling Multiple Is A Bill, Not A Bargain | Trefis | 2026-08-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

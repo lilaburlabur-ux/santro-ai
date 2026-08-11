@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-11T00:54:20+00:00",
+  "as_of": "2026-08-11T01:11:57+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,22 +9,6 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "CEVA",
-   "company": "Ceva Inc",
-   "move_pct": -17.46,
-   "price": 31.92,
-   "volume": 1185510,
-   "volume_vs_avg": "~2x",
-   "heat_score": 85,
-   "direction": "down",
-   "why": "CEVA Inc (CEVA) (Q2 2026) Earnings Call Highlights: Strong Licensing Growth and Raised ...",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ceva-inc-ceva-q2-2026-210150559.html",
-   "published": "2026-08-10T21:01:50Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 2,
    "ticker": "OKLO",
    "company": "Oklo Inc",
    "move_pct": -8.12,

@@ -39,7 +39,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Nvidia partners with Goldman Sachs, BlackRock to fund AI build-out — but there's one big risk | Yahoo Finance Video | 2026-08-12 |
 | CoreWeave, Nebius soar as AI spending powers growth | Yahoo Finance Video | 2026-08-12 |
 | Michael Burry Is Short Nebius and Palantir. Both Are Now Soaring and His Short Thesis Looks Broken. | 24/7 Wall St. | 2026-08-12 |
-| Liquidia Corporation Q2 2026 Earnings Call Summary | Moby | 2026-08-12 |
+| Similarweb Ltd. Q2 2026 Earnings Call Summary | Moby | 2026-08-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

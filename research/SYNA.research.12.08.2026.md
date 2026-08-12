@@ -15,7 +15,7 @@ Signed file: `SYNA.research.12.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +71.62%; price +17.57% vs SMA200. |
+| Technical momentum | High | 1Y +84.32%; price +18.21% vs SMA200. |
 | Fresh setup quality | Poor / broken | -25.43% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-41.00%). |
 | Value attractiveness | Reasonable | Forward P/E 16.73, EV/Sales 3.79. |
@@ -45,9 +45,9 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $110.04; 52w high $147.57 (-25.43%); 52w low $58.52 (+88.04%) |
-| Trend | +17.57% vs SMA200, -9.91% vs SMA50, -0.11% vs SMA20 |
-| Momentum | RSI(14) 47.4 (neutral) |
-| Volatility | ATR(14) 6.26 (~5.7% of price); beta 1.96 |
+| Trend | +18.21% vs SMA200, -10.39% vs SMA50, -0.31% vs SMA20 |
+| Momentum | RSI(14) 47.3 (neutral) |
+| Volatility | ATR(14) 6.31 (~5.7% of price); beta 1.96 |
 | Setup perspective | -25.43% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Window | Return |
 |---|---|
 | Week | +9.9% |
-| Month | -10.4% |
-| Quarter | -8.0% |
-| Half Y | +28.0% |
-| 1Y | +71.6% |
+| Month | -13.2% |
+| Quarter | -12.3% |
+| Half Y | +23.3% |
+| 1Y | +84.3% |
 | YTD | +45.3% |
 
 ## 4. Fundamental Analysis
@@ -116,11 +116,11 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Price | $110.04 | EV/Sales | 3.79 |
 | Market cap | $4.30B | EV/EBITDA | 61.81 |
 | Beta | 1.96 | Gross margin | 53.63% |
-| RSI(14) | 47.4 | Operating margin | 7.86% |
-| ATR(14) | 6.26 | Profit margin | -41.00% |
-| SMA20 dist | -0.11% | ROA | 1.63% |
-| SMA50 dist | -9.91% | ROE | -42.23% |
-| SMA200 dist | +17.57% | Revenue (ttm) | $1.20B |
+| RSI(14) | 47.3 | Operating margin | 7.86% |
+| ATR(14) | 6.31 | Profit margin | -41.00% |
+| SMA20 dist | -0.31% | ROA | 1.63% |
+| SMA50 dist | -10.39% | ROE | -42.23% |
+| SMA200 dist | +18.21% | Revenue (ttm) | $1.20B |
 | 52W high | $147.57 | Revenue growth y/y | 8.90% |
 | 52W low | $58.52 | Inst. ownership | 109.64% |
 | P/E (ttm) | — | Insider ownership | 1.95% |

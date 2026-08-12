@@ -1,5 +1,5 @@
 # AMD Research Report
-**Advanced Micro Devices, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**AMD** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `AMD.research.12.08.2026`
 
 | Field | Value |
@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| AMD (AMD) Trades at a Premium: Phillip Securities Says AI Growth Justifies It | Insider Monkey | 2026-08-12 |
 | GF Securities Revisits AI Stock Rebound | GuruFocus.com | 2026-08-12 |
 | Intel Is Up 176% This Year. Is It Time to Take Profits on INTC, AMD, Broadcom, and NVIDIA? | 24/7 Wall St. | 2026-08-12 |
 | Jim Cramer Just Called Intel a Major Focus Name: Here’s What He Sees in Lip-Bu Tan’s Intel | 24/7 Wall St. | 2026-08-12 |
-| 5 Semiconductor Stocks Jim Cramer Could Be Talking About on Thursday | 24/7 Wall St. | 2026-08-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

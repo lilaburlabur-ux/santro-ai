@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Nvidia partners with Goldman Sachs, BlackRock to fund AI build-out — but there's one big risk | Yahoo Finance Video | 2026-08-12 |
 | CoreWeave, Nebius soar as AI spending powers growth | Yahoo Finance Video | 2026-08-12 |
+| Michael Burry Is Short Nebius and Palantir. Both Are Now Soaring and His Short Thesis Looks Broken. | 24/7 Wall St. | 2026-08-12 |
 | Liquidia Corporation Q2 2026 Earnings Call Summary | Moby | 2026-08-12 |
-| Amcor plc Q4 2026 Earnings Call Summary | Moby | 2026-08-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,7 +74,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 65.81% |
+| Institutional ownership | 65.87% |
 | Insider ownership | 3.99% |
 | Short float | 1.26% |
 | Short ratio (days to cover) | 2.2 |
@@ -120,7 +120,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | SMA50 dist | +8.65% | ROE | 114.29% |
 | SMA200 dist | +15.28% | Revenue (ttm) | $253.49B |
 | 52W high | $235.47 | Revenue growth y/y | 85.20% |
-| 52W low | $164.98 | Inst. ownership | 65.81% |
+| 52W low | $164.98 | Inst. ownership | 65.87% |
 | P/E (ttm) | 34.37 | Insider ownership | 3.99% |
 | Forward P/E | 17.38 | Short float | 1.26% |
 | PEG (trailing) | 0.60 | Avg volume | 149,666,624 |

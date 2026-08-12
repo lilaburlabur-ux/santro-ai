@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-12T13:35:56+00:00",
+  "as_of": "2026-08-12T13:44:12+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "SMCI",
    "company": "Super Micro Computer Inc",
-   "move_pct": 15.63,
-   "price": 36.54,
-   "volume": 24419488,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 80,
+   "move_pct": 15.33,
+   "price": 36.44,
+   "volume": 38385878,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 82,
    "direction": "up",
    "why": "Dell, HPE gain pre-market as SMCI posts blowout revenue guidance",
    "catalyst_type": "earnings",

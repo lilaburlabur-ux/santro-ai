@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-12T12:07:21+00:00",
+  "as_of": "2026-08-12T12:10:32+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "SMCI",
    "company": "Super Micro Computer Inc",
-   "move_pct": 8.77,
-   "price": 34.37,
+   "move_pct": 8.64,
+   "price": 34.33,
    "volume": 92621700,
    "volume_vs_avg": "~2x",
    "heat_score": 66,
@@ -22,54 +22,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/smci-stock-eyes-1-month-113246044.html",
    "published": "2026-08-12T11:32:46Z",
    "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 2,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings Co",
-   "move_pct": 8.59,
-   "price": 293.3,
-   "volume": 3677051,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 58,
-   "direction": "up",
-   "why": "Stronger Results, AI Deals, and Buybacks Could Be A Game Changer For Vertiv Holdings Co (VRT)",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/stronger-results-ai-deals-buybacks-111248821.html",
-   "published": "2026-08-12T11:12:48Z",
-   "sector": "Data Center, Power & Energy"
-  },
-  {
-   "rank": 3,
-   "ticker": "APP",
-   "company": "Applovin Corp",
-   "move_pct": -6.35,
-   "price": 317.46,
-   "volume": 7920149,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 43,
-   "direction": "down",
-   "why": "AppLovin Is Down Over 50% in 2026: Falling Knife or Fire Sale?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/applovin-down-over-50-2026-112031396.html",
-   "published": "2026-08-12T11:20:31Z",
-   "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 4,
-   "ticker": "TLN",
-   "company": "Talen Energy Corp",
-   "move_pct": 5.19,
-   "price": 361.0,
-   "volume": 767985,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 38,
-   "direction": "up",
-   "why": "Does Talen Energy\u2019s (TLN) Aggressive Buyback and PJM Bets Redefine Its Post-Loss Investment Story?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/does-talen-energy-tln-aggressive-101153717.html",
-   "published": "2026-08-12T10:11:53Z",
-   "sector": "Data Center, Power & Energy"
   }
  ]
 }

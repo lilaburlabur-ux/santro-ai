@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-12T10:38:20+00:00",
+  "as_of": "2026-08-12T10:53:34+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "SMCI",
    "company": "Super Micro Computer Inc",
-   "move_pct": 8.9,
-   "price": 34.41,
+   "move_pct": 8.99,
+   "price": 34.44,
    "volume": 92621700,
    "volume_vs_avg": "~2x",
    "heat_score": 67,
@@ -22,22 +22,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-smci-reports-earnings-092522554.html",
    "published": "2026-08-12T09:25:22Z",
    "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 2,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings Co",
-   "move_pct": 7.74,
-   "price": 291.0,
-   "volume": 3677051,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 45,
-   "direction": "up",
-   "why": "Better AI Infrastructure Stock: Vertiv vs. Eaton",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/better-ai-infrastructure-stock-vertiv-094000812.html",
-   "published": "2026-08-12T09:40:00Z",
-   "sector": "Data Center, Power & Energy"
   }
  ]
 }

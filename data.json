@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-12T21:04:56+00:00",
-  "as_of_local": "2026-08-12 21:04:56 UTC",
+  "as_of_utc": "2026-08-12T21:06:54+00:00",
+  "as_of_local": "2026-08-12 21:06:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LSCC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -287,6 +285,34 @@
       ]
     },
     {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 129.27,
+      "previous_close": 126.12,
+      "change_pct": 2.5,
+      "market_cap": 18360253868.25879,
+      "headlines": [
+        {
+          "title": "Lattice Semiconductor (LSCC) Q2 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-lscc-q2-2026-234636059.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-11T23:46:36Z"
+        },
+        {
+          "title": "Lattice Semiconductor (LSCC) Posted Record Q2 Results, Is The Stock Still Undervalued?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-lscc-posted-record-001623744.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-07T00:16:23Z"
+        },
+        {
+          "title": "LSCC Stock Offers AI Growth but Demands a Premium Valuation Trade-Off",
+          "url": "https://finance.yahoo.com/technology/ai/articles/lscc-stock-offers-ai-growth-153200830.html",
+          "publisher": "Zacks",
+          "published": "2026-08-06T15:32:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 193.81,
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63518.41,
-      "change_pct": -0.05
+      "price": 63506.12,
+      "change_pct": -0.07
     },
     {
       "label": "Gold",
-      "price": 4466.9,
-      "change_pct": 1.91
+      "price": 4468.1,
+      "change_pct": 1.94
     },
     {
       "label": "Nasdaq100",

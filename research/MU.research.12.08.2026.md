@@ -37,9 +37,9 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Headline | Source | Date |
 |---|---|---|
 | AI infrastructure stocks surge after strong earnings from CoreWeave, Supermicro | Yahoo Finance | 2026-08-12 |
+| Apple’s CXMT Bet Could Strengthen Its Memory Supply, But Risks Remain | Insider Monkey | 2026-08-12 |
 | Samsung Sends Fresh Signal to Micron Investors | GuruFocus.com | 2026-08-12 |
 | The Best Value Stocks to Buy | Kiplinger | 2026-08-12 |
-| Why Micron Stock Is Surging Today | Motley Fool | 2026-08-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

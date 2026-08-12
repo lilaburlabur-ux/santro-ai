@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Nvidia partners with Goldman Sachs, BlackRock to fund AI build-out — but there's one big risk | Yahoo Finance Video | 2026-08-12 |
 | CoreWeave, Nebius soar as AI spending powers growth | Yahoo Finance Video | 2026-08-12 |
-| Why CAVA Group Stock Popped Today | Motley Fool | 2026-08-12 |
-| Wells Fargo Has Fresh Message for Microsoft Investors | GuruFocus.com | 2026-08-12 |
+| Why IREN Stock Is Up Nearly 10% Today | Motley Fool | 2026-08-12 |
+| Supermicro Soars On Report. Why Nvidia Is Also Rallying. | Investor's Business Daily | 2026-08-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

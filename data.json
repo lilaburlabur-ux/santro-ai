@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-12T22:15:18+00:00",
-  "as_of_local": "2026-08-12 22:15:18 UTC",
+  "as_of_utc": "2026-08-12T22:20:08+00:00",
+  "as_of_local": "2026-08-12 22:20:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -109,10 +111,10 @@
           "published": "2026-08-12T22:06:38Z"
         },
         {
-          "title": "Why Micron Stock Is Being Outpaced by Memory Chip Rival SK Hynix",
-          "url": "https://www.barrons.com/articles/micron-stock-price-sk-hynix-samsung-memory-chip-a17de0ae?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-08-12T20:40:00Z"
+          "title": "Michael Burry Adds To NBIS, MU, ORCL Shorts \u2014 Says Nebius Is \u2018What The Top Of A Boom Looks Like\u2019",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-adds-nbis-mu-213309923.html",
+          "publisher": "Stocktwits",
+          "published": "2026-08-12T21:33:09Z"
         }
       ]
     },
@@ -173,34 +175,6 @@
       ]
     },
     {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 271.87,
-      "previous_close": 268.93,
-      "change_pct": 1.09,
-      "market_cap": 290356765739.19324,
-      "headlines": [
-        {
-          "title": "Why This ETF\u2019s 1,700% Return Isn\u2019t Attracting Buy-and-Hold Investors",
-          "url": "https://finance.yahoo.com/markets/options/articles/why-etf-1-700-return-040300290.html",
-          "publisher": "The Daily Upside",
-          "published": "2026-08-12T04:03:00Z"
-        },
-        {
-          "title": "Astera Labs vs. Arm: Which Technology Stock Is a Better Buy in 2026?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-vs-arm-technology-130003115.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-11T13:00:03Z"
-        },
-        {
-          "title": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/12-nasdaq-stocks-doubled-2026-052500188.html",
-          "publisher": "BeInCrypto",
-          "published": "2026-08-11T05:25:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "price": 217.08,
@@ -208,6 +182,12 @@
       "change_pct": 2.25,
       "market_cap": 194838944988.2929,
       "headlines": [
+        {
+          "title": "Alpha and Omega Semiconductor (AOSL) Reports Q4 Loss, Beats Revenue Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/alpha-omega-semiconductor-aosl-reports-211001432.html",
+          "publisher": "Zacks",
+          "published": "2026-08-12T21:10:01Z"
+        },
         {
           "title": "Broadcom is Overvalued at 23.8X P/E: Should You Still Buy the Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-overvalued-23-8x-p-165400587.html",
@@ -219,12 +199,6 @@
           "url": "https://finance.yahoo.com/technology/articles/alab-benefits-pcie-demand-stay-164100653.html",
           "publisher": "Zacks",
           "published": "2026-08-12T16:41:00Z"
-        },
-        {
-          "title": "Nvidia Will Be The World\u2019s First $10 Trillion Company",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-world-first-10-trillion-133730418.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-12T13:37:30Z"
         }
       ]
     },
@@ -290,7 +264,7 @@
       "price": 129.27,
       "previous_close": 126.12,
       "change_pct": 2.5,
-      "market_cap": 18323920853.04796,
+      "market_cap": 18360253868.25879,
       "headlines": [
         {
           "title": "Lattice Semiconductor (LSCC) Q2 2026 Earnings Call Transcript",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 63441.17,
-      "change_pct": -0.17
+      "price": 63433.0,
+      "change_pct": -0.19
     },
     {
       "label": "Gold",
-      "price": 4463.3,
-      "change_pct": 1.83
+      "price": 4462.8,
+      "change_pct": 1.82
     },
     {
       "label": "Nasdaq100",

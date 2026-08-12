@@ -1,10 +1,43 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-12T08:50:58+00:00",
+  "as_of": "2026-08-12T09:06:10+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "SMCI",
+   "company": "Super Micro Computer Inc",
+   "move_pct": 8.84,
+   "price": 34.39,
+   "volume": 92621700,
+   "volume_vs_avg": "~2x",
+   "heat_score": 66,
+   "direction": "up",
+   "why": "SMCI Stock Jumps Premarket: Super Micro Keeps Lid On $60B Orderbook, CFO Says \u2018Emerging Neoclouds And CSPs\u2019 In Mix",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/smci-stock-jumps-premarket-super-082515467.html",
+   "published": "2026-08-12T08:25:15Z",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 2,
+   "ticker": "SKHY",
+   "company": "SK hynix Inc (ADR)",
+   "move_pct": 8.49,
+   "price": 146.78,
+   "volume": 16588344,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 56,
+   "direction": "up",
+   "why": "MU, SNDK, SKHY: Memory Stocks Rise As Report Of Temasek\u2019s Planned Investments In Samsung, SK Hynix Boosts KOSPI",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-skhy-memory-stocks-062319318.html",
+   "published": "2026-08-12T06:23:19Z",
+   "sector": "Chip Equipment & AI Hardware"
+  }
+ ]
 }

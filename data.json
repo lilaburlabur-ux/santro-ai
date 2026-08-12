@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-12T08:25:26+00:00",
-  "as_of_local": "2026-08-12 08:25:26 UTC",
+  "as_of_utc": "2026-08-12T08:30:30+00:00",
+  "as_of_local": "2026-08-12 08:30:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -25,10 +25,10 @@
           "published": "2026-08-11T13:00:00Z"
         },
         {
-          "title": "Bechtle Q2 Earnings Call Highlights",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bechtle-q2-earnings-call-highlights-080213205.html",
-          "publisher": "MarketBeat",
-          "published": "2026-08-12T08:02:13Z"
+          "title": "The $1.3 Trillion Inference War Is Heating Up. 3 Stocks to Watch.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/1-3-trillion-inference-war-081500920.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-12T08:15:00Z"
         }
       ]
     },
@@ -125,6 +125,12 @@
       "market_cap": 774315573878.0443,
       "headlines": [
         {
+          "title": "The $1.3 Trillion Inference War Is Heating Up. 3 Stocks to Watch.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/1-3-trillion-inference-war-081500920.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-12T08:15:00Z"
+        },
+        {
           "title": "Ex-AMD Exec Says Nvidia Is Using Its Bigger War Chest To Counter AI Gains: \u2018I Experienced This Same Play\u2019 Against Intel",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ex-amd-exec-says-nvidia-065233806.html",
           "publisher": "Stocktwits",
@@ -135,12 +141,6 @@
           "url": "https://www.barrons.com/articles/cerebras-systems-earnings-stock-price-fac4c486?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-08-12T06:30:00Z"
-        },
-        {
-          "title": "AMD (AMD) Q2 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-amd-q2-2026-earnings-232859641.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-11T23:28:59Z"
         }
       ]
     },
@@ -175,10 +175,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 268.93,
-      "previous_close": 267.85,
-      "change_pct": 0.4,
-      "market_cap": 287216847338.91486,
+      "price": 267.85,
+      "previous_close": 282.57,
+      "change_pct": -5.21,
+      "market_cap": 287216855161.17,
       "headlines": [
         {
           "title": "Astera Labs vs. Arm: Which Technology Stock Is a Better Buy in 2026?",
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 50.89,
-      "change_pct": 2.6,
+      "price": 49.6,
+      "change_pct": -1.98,
       "holdings": [
         {
           "symbol": "MU",
@@ -445,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 2.68,
-          "price": 1271.05,
+          "change_pct": 2.12,
+          "price": 1237.92,
           "currency": "USD"
         },
         {
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 50.89,
-    "change_pct": 2.6,
+    "price": 49.6,
+    "change_pct": -1.98,
     "holdings": [
       {
         "symbol": "MU",
@@ -535,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 2.68,
-        "price": 1271.05,
+        "change_pct": 2.12,
+        "price": 1237.92,
         "currency": "USD"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63764.59,
-      "change_pct": 0.33
+      "price": 63745.21,
+      "change_pct": 0.3
     },
     {
       "label": "Gold",
-      "price": 4467.5,
-      "change_pct": 1.93
+      "price": 4468.3,
+      "change_pct": 1.95
     },
     {
       "label": "Nasdaq100",

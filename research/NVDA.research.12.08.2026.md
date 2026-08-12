@@ -18,7 +18,7 @@ Signed file: `NVDA.research.12.08.2026`
 | Technical momentum | Moderate | 1Y +23.25%; price +15.28% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -4.83% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 62.97%, revenue growth 85.20%. |
-| Value attractiveness | Reasonable | Forward P/E 17.38, EV/Sales 20.61. |
+| Value attractiveness | Reasonable | Forward P/E 17.48, EV/Sales 20.61. |
 | Risk level | High | Beta 2.21, ATR 3.4% of price, short float 1.26%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Nvidia partners with Goldman Sachs, BlackRock to fund AI build-out — but there's one big risk | Yahoo Finance Video | 2026-08-12 |
 | CoreWeave, Nebius soar as AI spending powers growth | Yahoo Finance Video | 2026-08-12 |
-| Michael Burry Is Short Nebius and Palantir. Both Are Now Soaring and His Short Thesis Looks Broken. | 24/7 Wall St. | 2026-08-12 |
-| Similarweb Ltd. Q2 2026 Earnings Call Summary | Moby | 2026-08-12 |
+| Nokia, Celestica, and Applied Optoelectronics Rally After Lumentum Sparks Broad Optics Rally | 24/7 Wall St. | 2026-08-12 |
+| Trump Media & Technology, Joby Aviation, and Archer Aviation Lead Small Cap Losers On Wednesday | 24/7 Wall St. | 2026-08-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,13 +68,13 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $253.49B | Revenue growth 85.20% y/y |
 | Profitability | Gross 74.14%, operating 65.60%, net 62.97% | ROA 52.73%, ROE 114.29% |
 | Balance sheet | Cash $53.17B, debt $12.81B | Current ratio 3.44, debt/equity 6.55 |
-| Valuation | P/E 34.37, forward P/E 17.38, P/S 21.41, P/B 27.77 | EV/Sales 20.61, EV/EBITDA 31.56 |
+| Valuation | P/E 34.37, forward P/E 17.48, P/S 21.41, P/B 27.77 | EV/Sales 20.61, EV/EBITDA 31.56 |
 | Growth expectations | Earnings growth 214.50%, EPS q/q 210.60% | Analyst mean target $302.83 (58 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 65.87% |
+| Institutional ownership | 65.81% |
 | Insider ownership | 3.99% |
 | Short float | 1.26% |
 | Short ratio (days to cover) | 2.2 |
@@ -120,9 +120,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | SMA50 dist | +8.65% | ROE | 114.29% |
 | SMA200 dist | +15.28% | Revenue (ttm) | $253.49B |
 | 52W high | $235.47 | Revenue growth y/y | 85.20% |
-| 52W low | $164.98 | Inst. ownership | 65.87% |
+| 52W low | $164.98 | Inst. ownership | 65.81% |
 | P/E (ttm) | 34.37 | Insider ownership | 3.99% |
-| Forward P/E | 17.38 | Short float | 1.26% |
+| Forward P/E | 17.48 | Short float | 1.26% |
 | PEG (trailing) | 0.60 | Avg volume | 149,666,624 |
 | P/S | 21.41 | Employees | 42,000 |
 | P/B | 27.77 | Analyst rec (1=buy..5=sell) | 1.3 |

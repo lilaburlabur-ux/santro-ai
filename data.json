@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-13T08:54:14+00:00",
-  "as_of_local": "2026-08-13 08:54:14 UTC",
+  "as_of_utc": "2026-08-13T08:59:18+00:00",
+  "as_of_local": "2026-08-13 08:59:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -341,34 +343,6 @@
       ]
     },
     {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 110.04,
-      "previous_close": 106.92,
-      "change_pct": 2.92,
-      "market_cap": 4303332775.243515,
-      "headlines": [
-        {
-          "title": "ON Semiconductor (ON) Sees AI Data Center Growth Surge, Is The Upside Already Priced In?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-sees-ai-data-center-231855941.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-11T23:18:55Z"
-        },
-        {
-          "title": "SYNA Q4 Earnings Beat Estimates, Strong Core IoT Sales Aid Revenues",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/syna-q4-earnings-beat-estimates-174700157.html",
-          "publisher": "Zacks",
-          "published": "2026-08-10T17:47:00Z"
-        },
-        {
-          "title": "Synaptics (SYNA) Reports Q4 Earnings: What Key Metrics Have to Say",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-reports-q4-earnings-003001070.html",
-          "publisher": "Zacks",
-          "published": "2026-08-07T00:30:01Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 30.44,
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 63683.31,
-      "change_pct": 0.44
+      "price": 63699.11,
+      "change_pct": 0.47
     },
     {
       "label": "Gold",
-      "price": 4431.0,
-      "change_pct": 0.5
+      "price": 4434.7,
+      "change_pct": 0.59
     },
     {
       "label": "Nasdaq100",

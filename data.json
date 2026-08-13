@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-13T23:30:09+00:00",
-  "as_of_local": "2026-08-13 23:30:09 UTC",
+  "as_of_utc": "2026-08-13T23:35:11+00:00",
+  "as_of_local": "2026-08-13 23:35:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -113,34 +115,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/micron-mu-using-ai-fund-221458959.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-13T22:14:58Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 483.01,
-      "previous_close": 482.93,
-      "change_pct": 0.02,
-      "market_cap": 788501785978.5591,
-      "headlines": [
-        {
-          "title": "Cerebras Stock PlummetsDespite Solid Earnings",
-          "url": "https://www.barrons.com/articles/cerebras-systems-earnings-stock-price-fac4c486?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-08-13T20:42:00Z"
-        },
-        {
-          "title": "AMD Stock Can Halve Or Nearly Double, And That Is The Calm Assumption",
-          "url": "https://finance.yahoo.com/markets/options/articles/amd-stock-halve-nearly-double-200753720.html",
-          "publisher": "Trefis",
-          "published": "2026-08-13T20:07:53Z"
-        },
-        {
-          "title": "AMD Investors Face a New Twist",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-investors-face-twist-191542507.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-13T19:15:42Z"
         }
       ]
     },
@@ -290,7 +264,7 @@
       "price": 128.43,
       "previous_close": 129.27,
       "change_pct": -0.65,
-      "market_cap": 18204849873.667786,
+      "market_cap": 18240946792.69922,
       "headlines": [
         {
           "title": "Lattice Semiconductor\u2019s Q2 Earnings Call: Our Top 5 Analyst Questions",
@@ -347,7 +321,26 @@
       "previous_close": 110.04,
       "change_pct": -2.48,
       "market_cap": 4196570572.18396,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "ON Semiconductor (ON) Sees AI Data Center Growth Surge, Is The Upside Already Priced In?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-sees-ai-data-center-231855941.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-11T23:18:55Z"
+        },
+        {
+          "title": "SYNA Q4 Earnings Beat Estimates, Strong Core IoT Sales Aid Revenues",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/syna-q4-earnings-beat-estimates-174700157.html",
+          "publisher": "Zacks",
+          "published": "2026-08-10T17:47:00Z"
+        },
+        {
+          "title": "Synaptics (SYNA) Reports Q4 Earnings: What Key Metrics Have to Say",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-reports-q4-earnings-003001070.html",
+          "publisher": "Zacks",
+          "published": "2026-08-07T00:30:01Z"
+        }
+      ]
     },
     {
       "symbol": "CEVA",
@@ -566,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 63416.95,
+      "price": 63414.62,
       "change_pct": 0.02
     },
     {
       "label": "Gold",
-      "price": 4413.9,
-      "change_pct": 0.11
+      "price": 4416.0,
+      "change_pct": 0.16
     },
     {
       "label": "Nasdaq100",

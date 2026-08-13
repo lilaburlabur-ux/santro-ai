@@ -8,20 +8,20 @@ Signed file: `SYNA.research.13.08.2026`
 | Market cap | $4.20B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | High technical momentum, weak fundamentals, value: reasonable, risk: high. |
+| Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-08-13.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +68.94%; price +15.04% vs SMA200. |
+| Technical momentum | Moderate | 1Y +59.00%; price +14.44% vs SMA200. |
 | Fresh setup quality | Poor / broken | -27.28% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-41.00%). |
 | Value attractiveness | Reasonable | Forward P/E 16.32, EV/Sales 3.90. |
 | Risk level | High | Beta 1.96, ATR 5.8% of price, short float 12.52%. |
 
-**Bottom line:** High technical momentum, weak fundamentals, value: reasonable, risk: high.
+**Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -45,9 +45,9 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $107.31; 52w high $147.57 (-27.28%); 52w low $58.52 (+83.37%) |
-| Trend | +15.04% vs SMA200, -12.18% vs SMA50, -2.10% vs SMA20 |
-| Momentum | RSI(14) 44.7 (neutral) |
-| Volatility | ATR(14) 6.23 (~5.8% of price); beta 1.96 |
+| Trend | +14.44% vs SMA200, -11.59% vs SMA50, -2.22% vs SMA20 |
+| Momentum | RSI(14) 44.8 (neutral) |
+| Volatility | ATR(14) 6.18 (~5.8% of price); beta 1.96 |
 | Setup perspective | -27.28% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Window | Return |
 |---|---|
 | Week | +5.1% |
-| Month | -9.9% |
-| Quarter | -15.2% |
-| Half Y | +22.8% |
-| 1Y | +68.9% |
+| Month | -11.7% |
+| Quarter | -18.1% |
+| Half Y | +18.2% |
+| 1Y | +59.0% |
 | YTD | +41.7% |
 
 ## 4. Fundamental Analysis
@@ -116,11 +116,11 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Price | $107.31 | EV/Sales | 3.90 |
 | Market cap | $4.20B | EV/EBITDA | 63.46 |
 | Beta | 1.96 | Gross margin | 53.63% |
-| RSI(14) | 44.7 | Operating margin | 7.86% |
-| ATR(14) | 6.23 | Profit margin | -41.00% |
-| SMA20 dist | -2.10% | ROA | 1.63% |
-| SMA50 dist | -12.18% | ROE | -42.23% |
-| SMA200 dist | +15.04% | Revenue (ttm) | $1.20B |
+| RSI(14) | 44.8 | Operating margin | 7.86% |
+| ATR(14) | 6.18 | Profit margin | -41.00% |
+| SMA20 dist | -2.22% | ROA | 1.63% |
+| SMA50 dist | -11.59% | ROE | -42.23% |
+| SMA200 dist | +14.44% | Revenue (ttm) | $1.20B |
 | 52W high | $147.57 | Revenue growth y/y | 8.90% |
 | 52W low | $58.52 | Inst. ownership | 107.16% |
 | P/E (ttm) | — | Insider ownership | 1.95% |
@@ -142,7 +142,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | 2026-06-26 | down | Rosenblatt | Buy → Neutral |
 
 ## 9. Conclusion
-SYNA: High momentum / weak fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+SYNA: Moderate momentum / weak fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

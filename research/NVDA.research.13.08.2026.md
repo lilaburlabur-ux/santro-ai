@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Nvidia bulls may have a small problem on their hands | Yahoo Finance | 2026-08-13 |
-| Bill Ackman's Pershing Square Has Delivered a 15.9% Annualized Return Since 2004, Beating the S&P 500 by Over 5 Points a Year. Can It Continue? | Motley Fool | 2026-08-13 |
-| Retail Investors Think This Under-$10 Drone Stock Can Double | Insider Monkey | 2026-08-13 |
-| Planning a Roth Conversion? Here's the One Thing You Need to Know. | Motley Fool | 2026-08-13 |
+| Cathie Wood Bought $59.9 Million of Nvidia Stock Before Earnings. Here's What Investors Should Know. | Motley Fool | 2026-08-13 |
+| Solo Brands, Inc. Q2 2026 Earnings Call Summary | Moby | 2026-08-13 |
+| Oil Is Up 86% in 2026. The 4% Toll-Collector Fund Beats Chasing Crude | 24/7 Wall St. | 2026-08-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

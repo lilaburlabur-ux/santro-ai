@@ -1,5 +1,5 @@
 # AMD Research Report
-**AMD** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Advanced Micro Devices, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `AMD.research.13.08.2026`
 
 | Field | Value |
@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Cerebras Stock PlummetsDespite Solid Earnings | Barrons.com | 2026-08-13 |
+| AMD Stock Can Halve Or Nearly Double, And That Is The Calm Assumption | Trefis | 2026-08-13 |
 | AMD Investors Face a New Twist | GuruFocus.com | 2026-08-13 |
 | AMD Gets a Bigger AI Opportunity as CPU Market Expands | GuruFocus.com | 2026-08-13 |
-| Cerebras Plummets 13% After Earnings. But Intel & AMD Barrel Ahead with Strong Gains. | 24/7 Wall St. | 2026-08-13 |
-| Sector Update: Tech Stocks Gain Thursday Afternoon | MT Newswires | 2026-08-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

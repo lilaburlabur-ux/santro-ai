@@ -47,7 +47,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Price vs 52-week range | Close $278.65; 52w high $439.46 (-36.59%); 52w low $104.55 (+166.52%) |
 | Trend | +43.24% vs SMA200, -11.24% vs SMA50, +4.74% vs SMA20 |
 | Momentum | RSI(14) 49.9 (neutral) |
-| Volatility | ATR(14) 23.63 (~8.5% of price); beta 3.91 |
+| Volatility | ATR(14) 23.64 (~8.5% of price); beta 3.91 |
 | Setup perspective | -36.59% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -74,7 +74,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 95.35% |
+| Institutional ownership | 95.80% |
 | Insider ownership | 0.07% |
 | Short float | 11.61% |
 | Short ratio (days to cover) | 2.7 |
@@ -117,12 +117,12 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Market cap | $297.60B | EV/EBITDA | 269.77 |
 | Beta | 3.91 | Gross margin | 97.54% |
 | RSI(14) | 49.9 | Operating margin | 7.60% |
-| ATR(14) | 23.63 | Profit margin | 20.25% |
+| ATR(14) | 23.64 | Profit margin | 20.25% |
 | SMA20 dist | +4.74% | ROA | 5.42% |
 | SMA50 dist | -11.24% | ROE | 13.35% |
 | SMA200 dist | +43.24% | Revenue (ttm) | $5.16B |
 | 52W high | $439.46 | Revenue growth y/y | 22.40% |
-| 52W low | $104.55 | Inst. ownership | 95.35% |
+| 52W low | $104.55 | Inst. ownership | 95.80% |
 | P/E (ttm) | 284.34 | Insider ownership | 0.07% |
 | Forward P/E | 91.11 | Short float | 11.61% |
 | PEG (trailing) | 2.20 | Avg volume | 9,300,138 |

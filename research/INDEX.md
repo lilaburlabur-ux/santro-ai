@@ -6,14 +6,14 @@
 | NVDA | $5.46T | +23% | 17.6 | 63% | Moderate | Reasonable | High |
 | TSM | $2.23T | +78% | 19.8 | 50% | High | Reasonable | Elevated |
 | AVGO | $1.99T | +35% | 21.4 | 39% | Moderate | Fair-to-demanding | Elevated |
-| MU | — | +645% | 6.1 | 56% | High | Reasonable | High |
+| MU | $1.07T | +645% | 6.1 | 56% | High | Reasonable | High |
 | AMD | $788.50B | +176% | 31.2 | 16% | High | Fair-to-demanding | High |
 | INTC | $549.41B | +379% | 51.3 | -20% | High | Low (expensive) | High |
 | ARM | $297.60B | +96% | 91.1 | 20% | High | Low (expensive) | High |
 | MRVL | $199.42B | +186% | 35.6 | 29% | High | Low (expensive) | High |
 | QCOM | $173.03B | +9% | 16.1 | 21% | Moderate | Reasonable | Elevated |
 | NXPI | $58.48B | +7% | 12.8 | 23% | Low | Reasonable | Elevated |
-| LSCC | $18.24B | +103% | 40.0 | 6% | High | Low (expensive) | High |
+| LSCC | $18.20B | +103% | 40.0 | 6% | High | Low (expensive) | High |
 | SYNA | $4.20B | +59% | 16.3 | -41% | Moderate | Reasonable | High |
 | CEVA | $855.04M | +29% | 38.2 | -9% | Moderate | Low (expensive) | High |
 | AVAV | $9.59B | -24% | 43.0 | -13% | Low | Low (expensive) | High |

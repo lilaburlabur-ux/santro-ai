@@ -36,10 +36,10 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
+| The Bull Market Is Almost Back for Chip Stocks | Investopedia | 2026-08-13 |
 | Why Arm Holdings Stock Popped Today | Motley Fool | 2026-08-13 |
 | Great Company, Full Price: What Arm’s Numbers Say About the Next 1 Year | 24/7 Wall St. | 2026-08-13 |
 | Why This ETF’s 1,700% Return Isn’t Attracting Buy-and-Hold Investors | The Daily Upside | 2026-08-12 |
-| Astera Labs vs. Arm: Which Technology Stock Is a Better Buy in 2026? | Motley Fool | 2026-08-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,7 +74,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 95.35% |
+| Institutional ownership | 95.80% |
 | Insider ownership | 0.07% |
 | Short float | 11.61% |
 | Short ratio (days to cover) | 2.7 |
@@ -122,7 +122,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | SMA50 dist | -11.24% | ROE | 13.35% |
 | SMA200 dist | +43.24% | Revenue (ttm) | $5.16B |
 | 52W high | $439.46 | Revenue growth y/y | 22.40% |
-| 52W low | $104.55 | Inst. ownership | 95.35% |
+| 52W low | $104.55 | Inst. ownership | 95.80% |
 | P/E (ttm) | 284.34 | Insider ownership | 0.07% |
 | Forward P/E | 91.11 | Short float | 11.61% |
 | PEG (trailing) | 2.20 | Avg volume | 9,300,138 |

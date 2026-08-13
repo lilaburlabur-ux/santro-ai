@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| The Bull Market Is Almost Back for Chip Stocks | Investopedia | 2026-08-13 |
 | AMD Stock Can Halve Or Nearly Double, And That Is The Calm Assumption | Trefis | 2026-08-13 |
 | ECARX Targets Global Growth With AI, Silicon and Automaker Partnerships | MarketBeat | 2026-08-13 |
 | The Hidden Cost Inside SCHD’s Screen: How DGRO’s Looser Filter Quietly Won the Decade | 24/7 Wall St. | 2026-08-12 |
-| 5 Semiconductor Stocks Jim Cramer Could Be Talking About on Thursday | 24/7 Wall St. | 2026-08-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -37,9 +37,9 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Headline | Source | Date |
 |---|---|---|
 | AMD Stock Can Halve Or Nearly Double, And That Is The Calm Assumption | Trefis | 2026-08-13 |
-| Millions of Americans Own Vanguard’s VFIAX and Have No Idea What They Actually Bought | 24/7 Wall St. | 2026-08-13 |
 | These 3 Tech Stocks Made Double-Digit Dividend Raises This Year | Motley Fool | 2026-08-13 |
 | Collect 13% On CIEN Stock Now, Own It 60% Cheaper If It Dips | Trefis | 2026-08-13 |
+| The Best Growth Stocks to Buy | Kiplinger | 2026-08-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,7 +74,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 80.06% |
+| Institutional ownership | 80.19% |
 | Insider ownership | 1.95% |
 | Short float | 1.31% |
 | Short ratio (days to cover) | 2.9 |
@@ -120,7 +120,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | SMA50 dist | +6.58% | ROE | 37.28% |
 | SMA200 dist | +13.51% | Revenue (ttm) | $75.46B |
 | 52W high | $480.81 | Revenue growth y/y | 47.90% |
-| 52W low | $287.49 | Inst. ownership | 80.06% |
+| 52W low | $287.49 | Inst. ownership | 80.19% |
 | P/E (ttm) | 69.75 | Insider ownership | 1.95% |
 | Forward P/E | 21.39 | Short float | 1.31% |
 | PEG (trailing) | 0.47 | Avg volume | 25,761,879 |

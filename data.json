@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-13T23:35:11+00:00",
-  "as_of_local": "2026-08-13 23:35:11 UTC",
+  "as_of_utc": "2026-08-13T23:40:11+00:00",
+  "as_of_local": "2026-08-13 23:40:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -119,6 +117,34 @@
       ]
     },
     {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 483.01,
+      "previous_close": 482.93,
+      "change_pct": 0.02,
+      "market_cap": 788501785978.5591,
+      "headlines": [
+        {
+          "title": "Cerebras Stock PlummetsDespite Solid Earnings",
+          "url": "https://www.barrons.com/articles/cerebras-systems-earnings-stock-price-fac4c486?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-08-13T20:42:00Z"
+        },
+        {
+          "title": "AMD Stock Can Halve Or Nearly Double, And That Is The Calm Assumption",
+          "url": "https://finance.yahoo.com/markets/options/articles/amd-stock-halve-nearly-double-200753720.html",
+          "publisher": "Trefis",
+          "published": "2026-08-13T20:07:53Z"
+        },
+        {
+          "title": "AMD Investors Face a New Twist",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-investors-face-twist-191542507.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-08-13T19:15:42Z"
+        }
+      ]
+    },
+    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 104.56,
@@ -183,6 +209,12 @@
       "market_cap": 199416413328.3283,
       "headlines": [
         {
+          "title": "Marvell (MRVL) Stock Trades At A Premium After A 290% Run",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-stock-trades-premium-231227889.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-13T23:12:27Z"
+        },
+        {
           "title": "Reddit Shares Surge on S&P 500 Inclusion Later This Month",
           "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-shares-surge-p-500-220937768.html",
           "publisher": "Bloomberg",
@@ -193,12 +225,6 @@
           "url": "https://finance.yahoo.com/markets/options/articles/amd-stock-halve-nearly-double-200753720.html",
           "publisher": "Trefis",
           "published": "2026-08-13T20:07:53Z"
-        },
-        {
-          "title": "Lumentum Puts The Insane Opportunity for Companies like Marvell and Ciena Into Focus With One Stunning Quote",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lumentum-puts-insane-opportunity-companies-183500695.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-13T18:35:00Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63414.62,
-      "change_pct": 0.02
+      "price": 63391.7,
+      "change_pct": -0.02
     },
     {
       "label": "Gold",
-      "price": 4416.0,
-      "change_pct": 0.16
+      "price": 4417.9,
+      "change_pct": 0.2
     },
     {
       "label": "Nasdaq100",

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-13T11:31:06+00:00",
-  "as_of_local": "2026-08-13 11:31:06 UTC",
+  "as_of_utc": "2026-08-13T11:34:07+00:00",
+  "as_of_local": "2026-08-13 11:34:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -59,6 +57,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-rises-2-2-172557376.html",
           "publisher": "GuruFocus.com",
           "published": "2026-08-12T17:25:57Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 416.05,
+      "previous_close": 416.08,
+      "change_pct": -0.01,
+      "market_cap": 1979391183301.9697,
+      "headlines": [
+        {
+          "title": "3 Semiconductor Stocks to Buy Before the Next AI Earnings Wave in August",
+          "url": "https://finance.yahoo.com/technology/ai/articles/3-semiconductor-stocks-buy-next-110048268.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-13T11:00:48Z"
+        },
+        {
+          "title": "Cathie Wood buys $16.2 million of popular semiconductor stock",
+          "url": "https://finance.yahoo.com/technology/articles/cathie-wood-buys-16-2-220700896.html",
+          "publisher": "TheStreet",
+          "published": "2026-08-12T22:07:00Z"
+        },
+        {
+          "title": "You Skipped the AI Rally Because Retirement Felt Too Close. These 3 ETFs Get You In Without Betting Your Nest Egg",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/skipped-ai-rally-because-retirement-213522102.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-12T21:35:22Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63382.31,
-      "change_pct": -0.03
+      "price": 63323.11,
+      "change_pct": -0.13
     },
     {
       "label": "Gold",
-      "price": 4451.0,
-      "change_pct": 0.95
+      "price": 4449.8,
+      "change_pct": 0.93
     },
     {
       "label": "Nasdaq100",

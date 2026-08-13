@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-13T10:00:22+00:00",
+  "as_of": "2026-08-13T10:15:30+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,18 +9,34 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "CBRS",
+   "company": "Cerebras Systems Inc",
+   "move_pct": -18.19,
+   "price": 214.4,
+   "volume": 11013600,
+   "volume_vs_avg": "~2x",
+   "heat_score": 88,
+   "direction": "down",
+   "why": "Why Are Nasdaq, S&P 500 Futures Subdued Ahead Of PPI, Jobless Claims? CRWV, NBIS, CBRS, CSCO, ONDS, SPCX Stocks In Focus",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-nasdaq-p-500-futures-085200108.html",
+   "published": "2026-08-13T08:52:00Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
    "ticker": "CSCO",
    "company": "Cisco Systems Inc",
-   "move_pct": -5.82,
-   "price": 116.67,
+   "move_pct": -6.14,
+   "price": 116.27,
    "volume": 35752300,
    "volume_vs_avg": "~2x",
-   "heat_score": 44,
+   "heat_score": 45,
    "direction": "down",
-   "why": "Cisco\u2019s AI-Driven Profit Jump; PPI Ahead \u2013 What\u2019s Moving Markets: Dow Jones, S&P, Nasdaq, Wall Street Futures",
+   "why": "Cisco Networking Sales Surge on AI Demand. Why the Stock Is Down.",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-ai-driven-profit-jump-091951312.html",
-   "published": "2026-08-13T09:19:51Z",
+   "source_url": "https://www.barrons.com/articles/cisco-systems-earnings-stock-price-ec1ea4f5?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-08-13T10:05:00Z",
    "sector": "Chip Equipment & AI Hardware"
   }
  ]

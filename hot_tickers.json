@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-13T11:54:25+00:00",
+  "as_of": "2026-08-13T12:06:57+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "CBRS",
    "company": "Cerebras Systems Inc",
-   "move_pct": -14.96,
-   "price": 222.87,
+   "move_pct": -15.1,
+   "price": 222.5,
    "volume": 11013600,
    "volume_vs_avg": "~2x",
    "heat_score": 88,
@@ -27,16 +27,16 @@
    "rank": 2,
    "ticker": "CSCO",
    "company": "Cisco Systems Inc",
-   "move_pct": -5.76,
-   "price": 116.75,
+   "move_pct": -5.96,
+   "price": 116.5,
    "volume": 35752300,
    "volume_vs_avg": "~2x",
    "heat_score": 44,
    "direction": "down",
-   "why": "Dow Jones Futures: Cisco, Coherent Are Earnings Losers After Nebius, Lumentum, CoreWeave Lead AI Rally",
+   "why": "Cisco Earnings Beat, But Shares Are Down. Here's Why.",
    "catalyst_type": "earnings",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cisco-coherent-earnings-movers-nebius-lumentum-coreweave-ai-rally/?src=A00220&yptr=yahoo",
-   "published": "2026-08-13T11:33:53Z",
+   "source_url": "https://www.investors.com/news/technology/cisco-stock-csco-cisco-earnings-q22026/?src=A00220&yptr=yahoo",
+   "published": "2026-08-13T11:48:06Z",
    "sector": "Chip Equipment & AI Hardware"
   }
  ]

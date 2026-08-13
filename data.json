@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-13T02:42:04+00:00",
-  "as_of_local": "2026-08-13 02:42:04 UTC",
+  "as_of_utc": "2026-08-13T02:57:09+00:00",
+  "as_of_local": "2026-08-13 02:57:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -25,10 +25,10 @@
           "published": "2026-08-12T14:12:00Z"
         },
         {
-          "title": "CoreWeave Has $104 Billion of Contracted Revenue and a $59 Billion Market Value",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-104-billion-contracted-revenue-013400878.html",
+          "title": "Michael Burry's Nebius Short Is Underwater After a 454% Revenue Quarter",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burrys-nebius-short-underwater-024300139.html",
           "publisher": "Motley Fool",
-          "published": "2026-08-13T01:34:00Z"
+          "published": "2026-08-13T02:43:00Z"
         }
       ]
     },
@@ -41,6 +41,12 @@
       "market_cap": 2225775291023.2246,
       "headlines": [
         {
+          "title": "Nvidia\u2019s biggest risk may be coming from inside its customer base",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-biggest-risk-may-coming-023700599.html",
+          "publisher": "TheStreet",
+          "published": "2026-08-13T02:37:00Z"
+        },
+        {
           "title": "TSMC Stock Rises 2.2% as $4.69 Billion Sony Venture Launches",
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-rises-2-2-172557376.html",
           "publisher": "GuruFocus.com",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/azure-foundries-accelerators-grading-ai-170031235.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-12T17:00:31Z"
-        },
-        {
-          "title": "ASML Holding N.V. (ASML) vs. Taiwan Semiconductor Manufacturing Company Limited (TSM): A Key Supplier Says it Can Keep Up With the AI Boom",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-n-v-asml-133846677.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-08-12T13:38:46Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 7.25,
-          "price": 1613000.0,
+          "change_pct": 6.65,
+          "price": 1604000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 5.28,
-          "price": 269000.0,
+          "change_pct": 4.99,
+          "price": 268250.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 10.13,
-          "price": 54920.0,
+          "change_pct": 10.69,
+          "price": 55200.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 9.22,
-          "price": 527.0,
+          "change_pct": 7.56,
+          "price": 519.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 3.11,
-          "price": 182.5,
+          "change_pct": 1.13,
+          "price": 179.0,
           "currency": "TWD"
         }
       ]
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 7.25,
-        "price": 1613000.0,
+        "change_pct": 6.65,
+        "price": 1604000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 5.28,
-        "price": 269000.0,
+        "change_pct": 4.99,
+        "price": 268250.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 10.13,
-        "price": 54920.0,
+        "change_pct": 10.69,
+        "price": 55200.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 9.22,
-        "price": 527.0,
+        "change_pct": 7.56,
+        "price": 519.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 3.11,
-        "price": 182.5,
+        "change_pct": 1.13,
+        "price": 179.0,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63370.79,
-      "change_pct": -0.28
+      "price": 63506.34,
+      "change_pct": -0.07
     },
     {
       "label": "Gold",
-      "price": 4460.6,
-      "change_pct": 1.77
+      "price": 4467.6,
+      "change_pct": 1.93
     },
     {
       "label": "Nasdaq100",

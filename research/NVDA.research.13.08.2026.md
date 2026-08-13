@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Nvidia bulls may have a small problem on their hands | Yahoo Finance | 2026-08-13 |
-| Cathie Wood Bought $59.9 Million of Nvidia Stock Before Earnings. Here's What Investors Should Know. | Motley Fool | 2026-08-13 |
-| Solo Brands, Inc. Q2 2026 Earnings Call Summary | Moby | 2026-08-13 |
-| Oil Is Up 86% in 2026. The 4% Toll-Collector Fund Beats Chasing Crude | 24/7 Wall St. | 2026-08-13 |
+| Why Cerebras Systems Stock Just Sank | Motley Fool | 2026-08-13 |
+| Birkenstock Holding plc Q3 2026 Earnings Call Summary | Moby | 2026-08-13 |
+| Beyond Air, Inc. Q1 2027 Earnings Call Summary | Moby | 2026-08-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

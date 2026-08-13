@@ -69,7 +69,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Profitability | Gross 51.50%, operating 14.48%, net 28.99% | ROA 3.81%, ROE 16.03% |
 | Balance sheet | Cash $3.84B, debt $5.28B | Current ratio 3.28, debt/equity 28.97 |
 | Valuation | P/E 76.35, forward P/E 35.59, P/S 22.88, P/B 10.68 | EV/Sales 21.95, EV/EBITDA 70.55 |
-| Growth expectations | Earnings growth -80.40%, EPS q/q -80.60% | Analyst mean target $257.29 (40 analysts) |
+| Growth expectations | Earnings growth -80.40%, EPS q/q -80.60% | Analyst mean target $256.91 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

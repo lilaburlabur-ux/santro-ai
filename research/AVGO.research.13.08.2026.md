@@ -74,7 +74,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 80.19% |
+| Institutional ownership | 80.06% |
 | Insider ownership | 1.95% |
 | Short float | 1.31% |
 | Short ratio (days to cover) | 2.9 |
@@ -120,7 +120,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | SMA50 dist | +6.58% | ROE | 37.28% |
 | SMA200 dist | +13.51% | Revenue (ttm) | $75.46B |
 | 52W high | $480.81 | Revenue growth y/y | 47.90% |
-| 52W low | $287.49 | Inst. ownership | 80.19% |
+| 52W low | $287.49 | Inst. ownership | 80.06% |
 | P/E (ttm) | 69.75 | Insider ownership | 1.95% |
 | Forward P/E | 21.39 | Short float | 1.31% |
 | PEG (trailing) | 0.47 | Avg volume | 25,761,879 |

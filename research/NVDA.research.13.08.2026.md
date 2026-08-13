@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Nvidia bulls may have a small problem on their hands | Yahoo Finance | 2026-08-13 |
+| Bill Ackman's Pershing Square Has Delivered a 15.9% Annualized Return Since 2004, Beating the S&P 500 by Over 5 Points a Year. Can It Continue? | Motley Fool | 2026-08-13 |
 | Retail Investors Think This Under-$10 Drone Stock Can Double | Insider Monkey | 2026-08-13 |
 | Planning a Roth Conversion? Here's the One Thing You Need to Know. | Motley Fool | 2026-08-13 |
-| Why Pan American Silver Stock Was Tumbling Today | Motley Fool | 2026-08-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

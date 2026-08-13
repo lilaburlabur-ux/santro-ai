@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-13T10:48:10+00:00",
+  "as_of": "2026-08-13T11:03:30+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,32 +11,32 @@
    "rank": 1,
    "ticker": "CBRS",
    "company": "Cerebras Systems Inc",
-   "move_pct": -18.72,
-   "price": 213.0,
+   "move_pct": -18.14,
+   "price": 214.52,
    "volume": 11013600,
    "volume_vs_avg": "~2x",
    "heat_score": 88,
    "direction": "down",
-   "why": "Why Are Nasdaq, S&P 500 Futures Subdued Ahead Of PPI, Jobless Claims? CRWV, NBIS, CBRS, CSCO, ONDS, SPCX Stocks In Focus",
+   "why": "Cerebras Systems Slides 17% After Q2 Miss, but Analysts See Buying Opportunity",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-nasdaq-p-500-futures-085200108.html",
-   "published": "2026-08-13T08:52:00Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-systems-slides-17-q2-102006914.html",
+   "published": "2026-08-13T10:20:06Z",
    "sector": "AI Chips & Compute"
   },
   {
    "rank": 2,
    "ticker": "CSCO",
    "company": "Cisco Systems Inc",
-   "move_pct": -6.0,
-   "price": 116.45,
+   "move_pct": -5.58,
+   "price": 116.97,
    "volume": 35752300,
    "volume_vs_avg": "~2x",
-   "heat_score": 44,
+   "heat_score": 43,
    "direction": "down",
-   "why": "Cisco Networking Sales Surge on AI Demand. Why the Stock Is Down.",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.barrons.com/articles/cisco-systems-earnings-stock-price-ec1ea4f5?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-08-13T10:05:00Z",
+   "why": "Dow Jones Futures: Cisco, Coherent Are Earnings Losers After Nebius, Lumentum, CoreWeave Lead AI Rally",
+   "catalyst_type": "earnings",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cisco-coherent-earnings-movers-nebius-lumentum-coreweave-ai-rally/?src=A00220&yptr=yahoo",
+   "published": "2026-08-13T10:39:23Z",
    "sector": "Chip Equipment & AI Hardware"
   }
  ]

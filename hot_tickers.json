@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-13T00:10:22+00:00",
+  "as_of": "2026-08-13T00:25:38+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -29,7 +29,7 @@
    "company": "Cerebras Systems Inc",
    "move_pct": 11.63,
    "price": 262.06,
-   "volume": 8133629,
+   "volume": 8060560,
    "volume_vs_avg": "~2x",
    "heat_score": 73,
    "direction": "up",

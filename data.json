@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-13T08:06:24+00:00",
-  "as_of_local": "2026-08-13 08:06:24 UTC",
+  "as_of_utc": "2026-08-13T08:11:20+00:00",
+  "as_of_local": "2026-08-13 08:11:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-08-12T14:12:00Z"
         },
         {
-          "title": "Uber Is Due for a Rally as Fundamentals Improve",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/uber-due-rally-fundamentals-improve-073000849.html",
+          "title": "Prediction: Greg Abel Will Continue Holding This Berkshire Hathaway Stock That Warren Buffett Backed for Decades",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-greg-abel-continue-holding-080500915.html",
           "publisher": "Motley Fool",
-          "published": "2026-08-13T07:30:00Z"
+          "published": "2026-08-13T08:05:00Z"
         }
       ]
     },
@@ -173,34 +175,6 @@
       ]
     },
     {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 271.87,
-      "previous_close": 268.93,
-      "change_pct": 1.09,
-      "market_cap": 290356765739.19324,
-      "headlines": [
-        {
-          "title": "Why This ETF\u2019s 1,700% Return Isn\u2019t Attracting Buy-and-Hold Investors",
-          "url": "https://finance.yahoo.com/markets/options/articles/why-etf-1-700-return-040300290.html",
-          "publisher": "The Daily Upside",
-          "published": "2026-08-12T04:03:00Z"
-        },
-        {
-          "title": "Astera Labs vs. Arm: Which Technology Stock Is a Better Buy in 2026?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-vs-arm-technology-130003115.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-11T13:00:03Z"
-        },
-        {
-          "title": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/12-nasdaq-stocks-doubled-2026-052500188.html",
-          "publisher": "BeInCrypto",
-          "published": "2026-08-11T05:25:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "price": 217.08,
@@ -290,7 +264,7 @@
       "price": 129.27,
       "previous_close": 126.12,
       "change_pct": 2.5,
-      "market_cap": 18360253868.25879,
+      "market_cap": 18323920853.04796,
       "headlines": [
         {
           "title": "Lattice Semiconductor\u2019s Q2 Earnings Call: Our Top 5 Analyst Questions",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 63833.54,
-      "change_pct": 0.68
+      "price": 63806.59,
+      "change_pct": 0.64
     },
     {
       "label": "Gold",
-      "price": 4426.4,
-      "change_pct": 0.4
+      "price": 4425.0,
+      "change_pct": 0.37
     },
     {
       "label": "Nasdaq100",

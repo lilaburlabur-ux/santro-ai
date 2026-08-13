@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-13T12:27:23+00:00",
+  "as_of": "2026-08-13T12:42:35+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,32 +11,32 @@
    "rank": 1,
    "ticker": "CBRS",
    "company": "Cerebras Systems Inc",
-   "move_pct": -16.24,
-   "price": 219.5,
+   "move_pct": -15.93,
+   "price": 220.31,
    "volume": 11013600,
    "volume_vs_avg": "~2x",
    "heat_score": 88,
    "direction": "down",
-   "why": "Cerebras Q2 2026 earnings: stock falls after guidance raise",
+   "why": "Cerebras slumps as mixed quarterly results test AI growth narrative",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-q2-2026-earnings-stock-113459711.html",
-   "published": "2026-08-13T11:34:59Z",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/cerebras-slumps-mixed-quarterly-results-121607873.html",
+   "published": "2026-08-13T12:16:07Z",
    "sector": "AI Chips & Compute"
   },
   {
    "rank": 2,
    "ticker": "CSCO",
    "company": "Cisco Systems Inc",
-   "move_pct": -6.49,
-   "price": 115.84,
+   "move_pct": -6.97,
+   "price": 115.25,
    "volume": 35752300,
    "volume_vs_avg": "~2x",
-   "heat_score": 46,
+   "heat_score": 48,
    "direction": "down",
-   "why": "Accelerant, Harmonic surge, Cisco slides premarket on margin outlook",
+   "why": "Stock Market Today: Dow Rises Ahead Of Inflation Data; Cisco, AI Name Cerebras Plunge On Earnings (Live Coverage)",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/accelerant-harmonic-surge-cisco-slides-120651514.html",
-   "published": "2026-08-13T12:06:51Z",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-cisco-cerebras-earnings/?src=A00220&yptr=yahoo",
+   "published": "2026-08-13T12:14:35Z",
    "sector": "Chip Equipment & AI Hardware"
   }
  ]

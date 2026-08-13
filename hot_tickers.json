@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-13T09:44:59+00:00",
+  "as_of": "2026-08-13T10:00:22+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "CSCO",
+   "company": "Cisco Systems Inc",
+   "move_pct": -5.82,
+   "price": 116.67,
+   "volume": 35752300,
+   "volume_vs_avg": "~2x",
+   "heat_score": 44,
+   "direction": "down",
+   "why": "Cisco\u2019s AI-Driven Profit Jump; PPI Ahead \u2013 What\u2019s Moving Markets: Dow Jones, S&P, Nasdaq, Wall Street Futures",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-ai-driven-profit-jump-091951312.html",
+   "published": "2026-08-13T09:19:51Z",
+   "sector": "Chip Equipment & AI Hardware"
+  }
+ ]
 }

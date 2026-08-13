@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-13T00:25:38+00:00",
+  "as_of": "2026-08-13T00:40:41+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -29,7 +29,7 @@
    "company": "Cerebras Systems Inc",
    "move_pct": 11.63,
    "price": 262.06,
-   "volume": 8060560,
+   "volume": 8133629,
    "volume_vs_avg": "~2x",
    "heat_score": 73,
    "direction": "up",
@@ -49,10 +49,10 @@
    "volume_vs_avg": "~2x",
    "heat_score": 67,
    "direction": "up",
-   "why": "Elon Musk Says AI Revenue Will Eclipse the Rest of SpaceX by September. Here\u2019s What Investors Need to Know",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-ai-revenue-225501203.html",
-   "published": "2026-08-12T22:55:01Z",
+   "why": "Are SpaceX Shares at the Beginning of a Trillion-Dollar Short Squeeze?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/spacex-shares-beginning-trillion-dollar-002454149.html",
+   "published": "2026-08-13T00:24:54Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
@@ -65,10 +65,10 @@
    "volume_vs_avg": "~1.2x",
    "heat_score": 40,
    "direction": "up",
-   "why": "Oracle (ORCL) Stock Looks Below Fair Value on Earnings Today",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-stock-looks-below-221051456.html",
-   "published": "2026-08-12T22:10:51Z",
+   "why": "Oracle sends another shocking message to employees",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/oracle-sends-another-shocking-message-000300682.html",
+   "published": "2026-08-13T00:03:00Z",
    "sector": "AI Software & Cloud Infrastructure"
   }
  ]

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-14T12:40:23+00:00",
-  "as_of_local": "2026-08-14 12:40:23 UTC",
+  "as_of_utc": "2026-08-14T12:45:23+00:00",
+  "as_of_local": "2026-08-14 12:45:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-stock-trades-premium-231227889.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-13T23:12:27Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 164.79,
-      "previous_close": 163.07,
-      "change_pct": 1.05,
-      "market_cap": 173029492950.43945,
-      "headlines": [
-        {
-          "title": "Here\u2019s What Jim Cramer Is Saying About Semis in August",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-saying-semis-august-120036665.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-14T12:00:36Z"
-        },
-        {
-          "title": "The Bull Market Is Almost Back for Chip Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bull-market-almost-back-chip-205554469.html",
-          "publisher": "Investopedia",
-          "published": "2026-08-13T20:55:54Z"
-        },
-        {
-          "title": "AMD Stock Can Halve Or Nearly Double, And That Is The Calm Assumption",
-          "url": "https://finance.yahoo.com/markets/options/articles/amd-stock-halve-nearly-double-200753720.html",
-          "publisher": "Trefis",
-          "published": "2026-08-13T20:07:53Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62749.76,
-      "change_pct": -1.03
+      "price": 62689.81,
+      "change_pct": -1.12
     },
     {
       "label": "Gold",
-      "price": 4437.6,
-      "change_pct": 1.7
+      "price": 4437.3,
+      "change_pct": 1.69
     },
     {
       "label": "Nasdaq100",

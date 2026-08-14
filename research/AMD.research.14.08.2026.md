@@ -1,5 +1,5 @@
 # AMD Research Report
-**Advanced Micro Devices, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**AMD** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `AMD.research.14.08.2026`
 
 | Field | Value |
@@ -74,7 +74,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 73.03% |
+| Institutional ownership | 74.13% |
 | Insider ownership | 0.40% |
 | Short float | 2.32% |
 | Short ratio (days to cover) | 1.3 |
@@ -120,7 +120,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | SMA50 dist | +0.78% | ROE | 10.20% |
 | SMA200 dist | +58.60% | Revenue (ttm) | $41.31B |
 | 52W high | $580.91 | Revenue growth y/y | 50.10% |
-| 52W low | $151.14 | Inst. ownership | 73.03% |
+| 52W low | $151.14 | Inst. ownership | 74.13% |
 | P/E (ttm) | 131.56 | Insider ownership | 0.40% |
 | Forward P/E | 33.27 | Short float | 2.32% |
 | PEG (trailing) | 1.01 | Avg volume | 29,972,203 |

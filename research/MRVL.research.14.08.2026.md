@@ -69,13 +69,13 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Profitability | Gross 51.50%, operating 14.48%, net 28.99% | ROA 3.81%, ROE 16.03% |
 | Balance sheet | Cash $3.84B, debt $5.28B | Current ratio 3.28, debt/equity 28.97 |
 | Valuation | P/E 76.30, forward P/E 35.57, P/S 22.86, P/B 10.67 | EV/Sales 22.46, EV/EBITDA 72.20 |
-| Growth expectations | Earnings growth -80.40%, EPS q/q -80.60% | Analyst mean target $257.29 (40 analysts) |
+| Growth expectations | Earnings growth -80.40%, EPS q/q -80.60% | Analyst mean target $256.91 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 96.53% |
-| Insider ownership | 0.70% |
+| Institutional ownership | 83.98% |
+| Insider ownership | 0.50% |
 | Short float | 4.79% |
 | Short ratio (days to cover) | 1.4 |
 
@@ -121,8 +121,8 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | SMA50 dist | -6.74% | ROE | 16.03% |
 | SMA200 dist | +57.04% | Revenue (ttm) | $8.72B |
 | 52W high | $316.35 | Revenue growth y/y | 27.60% |
-| 52W low | $62.18 | Inst. ownership | 96.53% |
-| P/E (ttm) | 76.30 | Insider ownership | 0.70% |
+| 52W low | $62.18 | Inst. ownership | 83.98% |
+| P/E (ttm) | 76.30 | Insider ownership | 0.50% |
 | Forward P/E | 35.57 | Short float | 4.79% |
 | PEG (trailing) | 1.18 | Avg volume | 41,246,248 |
 | P/S | 22.86 | Employees | 7,480 |

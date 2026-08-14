@@ -74,7 +74,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 83.74% |
+| Institutional ownership | 82.64% |
 | Insider ownership | 0.12% |
 | Short float | 3.69% |
 | Short ratio (days to cover) | 2.4 |
@@ -120,7 +120,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | SMA50 dist | -9.83% | ROE | 33.75% |
 | SMA200 dist | -1.12% | Revenue (ttm) | $44.07B |
 | 52W high | $250.10 | Revenue growth y/y | -4.00% |
-| 52W low | $123.61 | Inst. ownership | 83.74% |
+| 52W low | $123.61 | Inst. ownership | 82.64% |
 | P/E (ttm) | 18.95 | Insider ownership | 0.12% |
 | Forward P/E | 16.25 | Short float | 3.69% |
 | PEG (trailing) | 0.70 | Avg volume | 18,053,050 |

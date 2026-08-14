@@ -39,7 +39,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Why one analyst says investors should be cautious on the memory stock rally | Yahoo Finance Video | 2026-08-14 |
 | QCOM: A Cash Gusher At A Marked-Down Price | Trefis | 2026-08-14 |
 | S&P 500 ends lower as investors weigh data, Middle East tensions | Reuters | 2026-08-14 |
-| Kulicke and Soffa, AMD, Intel, and Nvidia Shares Are Soaring, What You Need To Know | StockStory | 2026-08-14 |
+| Intel Banks $150M Paper Gain As Joby And Mobileye Rally In Q2 | Stocktwits | 2026-08-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,8 +74,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 63.70% |
-| Insider ownership | 14.67% |
+| Institutional ownership | 61.59% |
+| Insider ownership | 13.99% |
 | Short float | 2.48% |
 | Short ratio (days to cover) | 1.1 |
 
@@ -122,8 +122,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | SMA50 dist | -6.31% | ROE | -10.71% |
 | SMA200 dist | +46.13% | Revenue (ttm) | $57.03B |
 | 52W high | $140.94 | Revenue growth y/y | 25.40% |
-| 52W low | $23.50 | Inst. ownership | 63.70% |
-| P/E (ttm) | — | Insider ownership | 14.67% |
+| 52W low | $23.50 | Inst. ownership | 61.59% |
+| P/E (ttm) | — | Insider ownership | 13.99% |
 | Forward P/E | 50.24 | Short float | 2.48% |
 | PEG (trailing) | — | Avg volume | 122,727,264 |
 | P/S | 9.50 | Employees | 85,100 |

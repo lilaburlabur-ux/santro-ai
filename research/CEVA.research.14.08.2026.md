@@ -69,7 +69,7 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 | Profitability | Gross 87.47%, operating -7.15%, net -9.48% | ROA -1.74%, ROE -3.62% |
 | Balance sheet | Cash $220.72M, debt $17.42M | Current ratio 10.12, debt/equity 5.12 |
 | Valuation | P/E —, forward P/E 41.82, P/S 8.10, P/B 2.75 | EV/Sales 5.63, EV/EBITDA -114.80 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $47.25 (8 analysts) |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $46.75 (8 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

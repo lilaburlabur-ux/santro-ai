@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-14T16:50:51+00:00",
+  "as_of": "2026-08-14T17:02:42+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,9 +11,9 @@
    "rank": 1,
    "ticker": "AVGO",
    "company": "Broadcom Inc",
-   "move_pct": -5.84,
-   "price": 393.43,
-   "volume": 13469790,
+   "move_pct": -5.94,
+   "price": 393.01,
+   "volume": 13882524,
    "volume_vs_avg": "~0.7x",
    "heat_score": 39,
    "direction": "down",
@@ -22,6 +22,22 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-down-over-3-months-154215417.html",
    "published": "2026-08-14T15:42:15Z",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
+   "ticker": "AMAT",
+   "company": "Applied Materials Inc",
+   "move_pct": -5.4,
+   "price": 505.68,
+   "volume": 8223412,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 39,
+   "direction": "down",
+   "why": "Stock Market Today: Dow Sinks After Surprise Retail Sales; Applied Materials Dives On Earnings (Live Coverage)",
+   "catalyst_type": "earnings",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/?src=A00220&yptr=yahoo",
+   "published": "2026-08-14T16:17:28Z",
+   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

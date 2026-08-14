@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-14T19:12:00+00:00",
+  "as_of": "2026-08-14T19:21:47+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,29 +9,13 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "CBRS",
-   "company": "Cerebras Systems Inc",
-   "move_pct": -5.23,
-   "price": 218.93,
-   "volume": 12770349,
-   "volume_vs_avg": "~2x",
-   "heat_score": 45,
-   "direction": "down",
-   "why": "Cerebras Drops 12% Post Q2 Earnings: Buy the Stock on the Dip?",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-drops-12-post-q2-151900254.html",
-   "published": "2026-08-14T15:19:00Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 2,
    "ticker": "AVGO",
    "company": "Broadcom Inc",
-   "move_pct": -6.41,
-   "price": 391.05,
-   "volume": 20186386,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 43,
+   "move_pct": -6.3,
+   "price": 391.51,
+   "volume": 20646241,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 42,
    "direction": "down",
    "why": "Broadcom Shares Plunge on Major VMware Security Threat",
    "catalyst_type": "momentum_narrative",
@@ -40,12 +24,12 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "ticker": "AMAT",
    "company": "Applied Materials Inc",
-   "move_pct": -5.34,
-   "price": 505.98,
-   "volume": 9702694,
+   "move_pct": -5.4,
+   "price": 505.7,
+   "volume": 9819134,
    "volume_vs_avg": "~1.2x",
    "heat_score": 40,
    "direction": "down",
@@ -56,12 +40,12 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
-   "move_pct": 5.26,
-   "price": 508.39,
-   "volume": 19611377,
+   "move_pct": 5.27,
+   "price": 508.45,
+   "volume": 19956666,
    "volume_vs_avg": "~0.7x",
    "heat_score": 37,
    "direction": "up",

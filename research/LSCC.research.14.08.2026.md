@@ -5,7 +5,7 @@ Signed file: `LSCC.research.14.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $130.46 (2026-08-14, ~15-min delayed) |
-| Market cap | $18.53B |
+| Market cap | $18.49B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
@@ -15,7 +15,7 @@ Signed file: `LSCC.research.14.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +112.10%; price +26.31% vs SMA200. |
+| Technical momentum | High | 1Y +100.03%; price +25.18% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -15.98% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 5.58%, revenue growth 62.20%. |
 | Value attractiveness | Low (expensive) | Forward P/E 40.66, EV/Sales 27.81. |
@@ -44,10 +44,10 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $130.46; 52w high $155.27 (-15.98%); 52w low $60.58 (+115.35%) |
-| Trend | +26.31% vs SMA200, -4.43% vs SMA50, +2.34% vs SMA20 |
-| Momentum | RSI(14) 50.1 (neutral) |
-| Volatility | ATR(14) 8.12 (~6.2% of price); beta 1.80 |
+| Price vs 52-week range | Close $130.46; 52w high $155.27 (-15.98%); 52w low $61.40 (+112.48%) |
+| Trend | +25.18% vs SMA200, -3.68% vs SMA50, +1.74% vs SMA20 |
+| Momentum | RSI(14) 50.3 (neutral) |
+| Volatility | ATR(14) 8.03 (~6.2% of price); beta 1.80 |
 | Setup perspective | -15.98% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Window | Return |
 |---|---|
 | Week | +0.3% |
-| Month | -0.2% |
-| Quarter | +1.2% |
-| Half Y | +49.0% |
-| 1Y | +112.1% |
+| Month | +4.8% |
+| Quarter | +4.5% |
+| Half Y | +30.7% |
+| 1Y | +100.0% |
 | YTD | +65.9% |
 
 ## 4. Fundamental Analysis
@@ -68,13 +68,13 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Revenue (ttm) | $651.12M | Revenue growth 62.20% y/y |
 | Profitability | Gross 69.02%, operating 13.33%, net 5.58% | ROA 3.87%, ROE 4.93% |
 | Balance sheet | Cash $173.30M, debt $38.08M | Current ratio 3.02, debt/equity 4.84 |
-| Valuation | P/E 543.58, forward P/E 40.66, P/S 28.46, P/B 24.12 | EV/Sales 27.81, EV/EBITDA 196.51 |
+| Valuation | P/E 543.58, forward P/E 40.66, P/S 28.40, P/B 24.12 | EV/Sales 27.81, EV/EBITDA 196.51 |
 | Growth expectations | Earnings growth 600.00%, EPS q/q 564.60% | Analyst mean target $164.92 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 99.78% |
+| Institutional ownership | 99.81% |
 | Insider ownership | 0.62% |
 | Short float | 6.52% |
 | Short ratio (days to cover) | 2.7 |
@@ -113,19 +113,19 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $130.46 | EV/Sales | 27.81 |
-| Market cap | $18.53B | EV/EBITDA | 196.51 |
+| Market cap | $18.49B | EV/EBITDA | 196.51 |
 | Beta | 1.80 | Gross margin | 69.02% |
-| RSI(14) | 50.1 | Operating margin | 13.33% |
-| ATR(14) | 8.12 | Profit margin | 5.58% |
-| SMA20 dist | +2.34% | ROA | 3.87% |
-| SMA50 dist | -4.43% | ROE | 4.93% |
-| SMA200 dist | +26.31% | Revenue (ttm) | $651.12M |
+| RSI(14) | 50.3 | Operating margin | 13.33% |
+| ATR(14) | 8.03 | Profit margin | 5.58% |
+| SMA20 dist | +1.74% | ROA | 3.87% |
+| SMA50 dist | -3.68% | ROE | 4.93% |
+| SMA200 dist | +25.18% | Revenue (ttm) | $651.12M |
 | 52W high | $155.27 | Revenue growth y/y | 62.20% |
-| 52W low | $60.58 | Inst. ownership | 99.78% |
+| 52W low | $61.40 | Inst. ownership | 99.81% |
 | P/E (ttm) | 543.58 | Insider ownership | 0.62% |
 | Forward P/E | 40.66 | Short float | 6.52% |
 | PEG (trailing) | — | Avg volume | 2,054,519 |
-| P/S | 28.46 | Employees | 1,174 |
+| P/S | 28.40 | Employees | 1,174 |
 | P/B | 24.12 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions

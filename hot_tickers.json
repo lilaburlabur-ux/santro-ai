@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-14T15:16:58+00:00",
+  "as_of": "2026-08-14T15:32:19+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,17 +11,33 @@
    "rank": 1,
    "ticker": "CBRS",
    "company": "Cerebras Systems Inc",
-   "move_pct": -5.62,
-   "price": 218.03,
-   "volume": 8650035,
+   "move_pct": -5.77,
+   "price": 217.68,
+   "volume": 9049723,
    "volume_vs_avg": "~2x",
-   "heat_score": 42,
+   "heat_score": 43,
    "direction": "down",
    "why": "Cathie Wood's ARK Invest Buys $28M Of Nvidia Rival Cerebras Amid Earnings Selloff",
    "catalyst_type": "earnings",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-invest-buys-140203048.html",
    "published": "2026-08-14T14:02:03Z",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
+   "ticker": "AMAT",
+   "company": "Applied Materials Inc",
+   "move_pct": -5.47,
+   "price": 505.3,
+   "volume": 6826614,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 38,
+   "direction": "down",
+   "why": "Stock Market Today: Dow Steady After Surprise Retail Sales; Applied Materials Dives On Earnings (Live Coverage)",
+   "catalyst_type": "earnings",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/?src=A00220&yptr=yahoo",
+   "published": "2026-08-14T14:20:28Z",
+   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

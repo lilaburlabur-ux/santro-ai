@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-14T13:31:14+00:00",
+  "as_of": "2026-08-14T13:46:27+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "AVAV",
-   "company": "AeroVironment Inc",
-   "move_pct": 8.21,
-   "price": 204.98,
-   "volume": 220306,
-   "volume_vs_avg": "~0.1x",
-   "heat_score": 54,
-   "direction": "up",
-   "why": "AeroVironment, Ondas, and Kratos Rising as Trump Levies Tariffs on Drone Imports",
-   "catalyst_type": "regulatory",
-   "source_url": "https://www.barrons.com/articles/aerovironment-ondas-drone-stocks-trump-tariffs-f4dbcfc8?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-08-14T11:45:00Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  }
- ]
+ "hot_tickers": []
 }

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-14T18:13:45+00:00",
+  "as_of": "2026-08-14T18:28:56+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,27 +9,11 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "CBRS",
-   "company": "Cerebras Systems Inc",
-   "move_pct": -5.8,
-   "price": 217.62,
-   "volume": 11630075,
-   "volume_vs_avg": "~2x",
-   "heat_score": 46,
-   "direction": "down",
-   "why": "Cerebras Drops 12% Post Q2 Earnings: Buy the Stock on the Dip?",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-drops-12-post-q2-151900254.html",
-   "published": "2026-08-14T15:19:00Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 2,
    "ticker": "AVGO",
    "company": "Broadcom Inc",
-   "move_pct": -6.92,
-   "price": 388.9,
-   "volume": 17662095,
+   "move_pct": -6.91,
+   "price": 388.94,
+   "volume": 18281736,
    "volume_vs_avg": "~0.9x",
    "heat_score": 44,
    "direction": "down",
@@ -40,19 +24,35 @@
    "sector": "AI Chips & Compute"
   },
   {
+   "rank": 2,
+   "ticker": "CBRS",
+   "company": "Cerebras Systems Inc",
+   "move_pct": -5.29,
+   "price": 218.79,
+   "volume": 12199789,
+   "volume_vs_avg": "~2x",
+   "heat_score": 44,
+   "direction": "down",
+   "why": "Cerebras Drops 12% Post Q2 Earnings: Buy the Stock on the Dip?",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-drops-12-post-q2-151900254.html",
+   "published": "2026-08-14T15:19:00Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
    "rank": 3,
    "ticker": "AMAT",
    "company": "Applied Materials Inc",
-   "move_pct": -5.44,
-   "price": 505.48,
-   "volume": 9088042,
+   "move_pct": -5.64,
+   "price": 504.38,
+   "volume": 9232669,
    "volume_vs_avg": "~1.1x",
    "heat_score": 40,
    "direction": "down",
-   "why": "Top Midday Stories: Silver Lake in Talks to Buy Workday; Applied Materials Q3 Tops Estimates But Shares Fall",
+   "why": "Stocks to Watch: Reddit, Applied Materials, Innventure",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-silver-lake-161631876.html",
-   "published": "2026-08-14T16:16:31Z",
+   "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-14-2026/card/stocks-to-watch-reddit-applied-materials-innventure-6zHfCerp4QFGvE88u0S8?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-08-14T17:54:56Z",
    "sector": "Chip Equipment & AI Hardware"
   }
  ]

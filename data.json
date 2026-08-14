@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-14T12:45:23+00:00",
-  "as_of_local": "2026-08-14 12:45:23 UTC",
+  "as_of_utc": "2026-08-14T12:50:27+00:00",
+  "as_of_local": "2026-08-14 12:50:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "QCOM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -152,7 +150,7 @@
       "price": 104.56,
       "previous_close": 100.95,
       "change_pct": 3.58,
-      "market_cap": 552715153289.1896,
+      "market_cap": 549413258667.9666,
       "headlines": [
         {
           "title": "AMD\u2019s Massive Upside: Why One Analyst Sees 160% Price Appreciation Ahead Following a Tough Month",
@@ -231,6 +229,34 @@
       ]
     },
     {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "price": 164.79,
+      "previous_close": 163.07,
+      "change_pct": 1.05,
+      "market_cap": 173029492950.43945,
+      "headlines": [
+        {
+          "title": "Here\u2019s What Jim Cramer Is Saying About Semis in August",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-saying-semis-august-120036665.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-14T12:00:36Z"
+        },
+        {
+          "title": "The Bull Market Is Almost Back for Chip Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bull-market-almost-back-chip-205554469.html",
+          "publisher": "Investopedia",
+          "published": "2026-08-13T20:55:54Z"
+        },
+        {
+          "title": "AMD Stock Can Halve Or Nearly Double, And That Is The Calm Assumption",
+          "url": "https://finance.yahoo.com/markets/options/articles/amd-stock-halve-nearly-double-200753720.html",
+          "publisher": "Trefis",
+          "published": "2026-08-13T20:07:53Z"
+        }
+      ]
+    },
+    {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
       "price": 231.91,
@@ -264,7 +290,7 @@
       "price": 128.43,
       "previous_close": 129.27,
       "change_pct": -0.65,
-      "market_cap": 18204849873.667786,
+      "market_cap": 18240946792.69922,
       "headlines": [
         {
           "title": "Lattice Semiconductor\u2019s Q2 Earnings Call: Our Top 5 Analyst Questions",
@@ -295,6 +321,12 @@
       "market_cap": 9586678752.235718,
       "headlines": [
         {
+          "title": "Drone Stocks Jump After Trump Targets Imports With Tariffs",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-14-2026/card/drone-stocks-jump-after-trump-targets-imports-with-tariffs-kHhD4jMUxSunYKjiJW73?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-08-14T12:27:01Z"
+        },
+        {
           "title": "AeroVironment (AVAV) Stock Sees Fair Value Cut As Analysts Weigh Contracts And Execution Risks",
           "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-stock-sees-fair-100937253.html",
           "publisher": "Simply Wall St.",
@@ -305,12 +337,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-could-16-undervalued-071412393.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-14T07:14:12Z"
-        },
-        {
-          "title": "AeroVironment (AVAV) Stock May Be Near Fair Value Despite Army Contract News",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-stock-may-near-061121269.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-14T06:11:21Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 62689.81,
-      "change_pct": -1.12
+      "price": 62718.01,
+      "change_pct": -1.08
     },
     {
       "label": "Gold",
-      "price": 4437.3,
-      "change_pct": 1.69
+      "price": 4433.4,
+      "change_pct": 1.6
     },
     {
       "label": "Nasdaq100",

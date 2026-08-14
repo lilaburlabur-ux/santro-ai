@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-14T21:44:35+00:00",
-  "as_of_local": "2026-08-14 21:44:35 UTC",
+  "as_of_utc": "2026-08-14T21:50:09+00:00",
+  "as_of_local": "2026-08-14 21:50:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 2211253227098.2754,
       "headlines": [
         {
+          "title": "How a Sony Veteran Is Overhauling the Company He Grew Up In",
+          "url": "https://www.wsj.com/business/media/sony-ceo-hiroki-totoki-efc8923f?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-08-14T21:40:00Z"
+        },
+        {
           "title": "Soros Capital Loads Up On MU, AMAT, AMD And TSM In Massive Semiconductor Pivot",
           "url": "https://finance.yahoo.com/markets/stocks/articles/soros-capital-loads-mu-amat-182532943.html",
           "publisher": "Stocktwits",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-sinks-6-bofa-flags-180738180.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-14T18:07:38Z"
-        },
-        {
-          "title": "SEC filing shows Softbank initiates stake in Capital One; sells 71.5% of its Taiwan Semi holdings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sec-filing-shows-softbank-initiates-165615828.html",
-          "publisher": "Reuters",
-          "published": "2026-08-14T16:56:15Z"
         }
       ]
     },
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -0.39,
-          "price": 512.0,
+          "change_pct": 6.53,
+          "price": 514.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 0.0,
-          "price": 177.0,
+          "change_pct": 3.67,
+          "price": 183.5,
           "currency": "TWD"
         }
       ]
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -0.39,
-        "price": 512.0,
+        "change_pct": 6.53,
+        "price": 514.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 0.0,
-        "price": 177.0,
+        "change_pct": 3.67,
+        "price": 183.5,
         "currency": "TWD"
       }
     ]
@@ -585,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 62812.62,
-      "change_pct": -0.93
+      "price": 62849.15,
+      "change_pct": -0.87
     },
     {
       "label": "Gold",

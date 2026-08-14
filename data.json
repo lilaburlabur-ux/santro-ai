@@ -1,18 +1,16 @@
 {
-  "as_of_utc": "2026-08-14T14:32:58+00:00",
-  "as_of_local": "2026-08-14 14:32:58 UTC",
+  "as_of_utc": "2026-08-14T14:38:07+00:00",
+  "as_of_local": "2026-08-14 14:38:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 225.0,
+      "price": 225.4,
       "previous_close": 225.3,
-      "change_pct": -0.13,
-      "market_cap": 5449725000000.0,
+      "change_pct": 0.05,
+      "market_cap": 5459653111618.042,
       "headlines": [
         {
           "title": "The AI build-out has a problem that $1 trillion in cash can't fix",
@@ -21,26 +19,54 @@
           "published": "2026-08-14T13:41:14Z"
         },
         {
-          "title": "Elon Musk Says SpaceX Will Generate $1 Trillion in Revenue by 2030. Time to Buy the Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-spacex-generate-142000398.html",
+          "title": "Vanguard Is \"Cautious\" on U.S. Growth Stocks. These 2 Value ETFs Could Be Smarter Buys for Long-Term Investors.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-cautious-u-growth-stocks-143500511.html",
           "publisher": "Motley Fool",
-          "published": "2026-08-14T14:20:00Z"
+          "published": "2026-08-14T14:35:00Z"
         },
         {
-          "title": "Intuitive Machines and Virgin Galactic Jump 10% While Rocket Lab, AST SpaceMobile Sit Out the Space Stock Rally",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-virgin-galactic-jump-141215618.html",
+          "title": "Stock Market Hits Highs; Cisco, Lumentum, Super Micro, Sandisk Key Movers: Weekly Review",
+          "url": "https://www.investors.com/news/stock-market-hits-highs-cisco-lumentum-super-micro-sandisk-key-movers-weekly-review/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-08-14T14:21:23Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 426.5,
+      "previous_close": 430.49,
+      "change_pct": -0.93,
+      "market_cap": 2212031166544.5,
+      "headlines": [
+        {
+          "title": "Taiwan Semiconductor (TSM) Remains at the Center of the AI Boom",
+          "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-tsm-remains-center-140337973.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-08-14T14:03:37Z"
+        },
+        {
+          "title": "Watch These Key Metrics After Applied Materials Dipped on Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/watch-key-metrics-applied-materials-130934463.html",
           "publisher": "24/7 Wall St.",
-          "published": "2026-08-14T14:12:15Z"
+          "published": "2026-08-14T13:09:34Z"
+        },
+        {
+          "title": "Cathie Wood picks up $44.7 million in shares of two highly watched tech stocks. Is it too late to follow along?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-picks-44-7-115500302.html",
+          "publisher": "Moneywise",
+          "published": "2026-08-14T11:55:00Z"
         }
       ]
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 397.34,
+      "price": 398.54,
       "previous_close": 417.82,
-      "change_pct": -4.9,
-      "market_cap": 1890495808917.526,
+      "change_pct": -4.61,
+      "market_cap": 1895705365041.929,
       "headlines": [
         {
           "title": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day",
@@ -65,10 +91,10 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 966.98,
+      "price": 969.18,
       "previous_close": 949.83,
-      "change_pct": 1.81,
-      "market_cap": 1092337764472.9976,
+      "change_pct": 2.04,
+      "market_cap": 1094461029111.4924,
       "headlines": [
         {
           "title": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day",
@@ -93,10 +119,10 @@
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 504.57,
+      "price": 509.46,
       "previous_close": 483.01,
-      "change_pct": 4.46,
-      "market_cap": 824024259557.8796,
+      "change_pct": 5.48,
+      "market_cap": 831822257251.486,
       "headlines": [
         {
           "title": "Why Cloudflare and these 3 AI sub-sectors are 'the place to be' for tech investors",
@@ -121,10 +147,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 104.33,
+      "price": 105.02,
       "previous_close": 104.56,
-      "change_pct": -0.22,
-      "market_cap": 548020812401.6,
+      "change_pct": 0.44,
+      "market_cap": 554856019467.5344,
       "headlines": [
         {
           "title": "Intel Stock's Real Opportunity Is Demand It Cannot Yet Ship",
@@ -149,10 +175,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 279.26,
+      "price": 281.04,
       "previous_close": 278.65,
-      "change_pct": 0.22,
-      "market_cap": 298281329461.97437,
+      "change_pct": 0.86,
+      "market_cap": 299955617990.09717,
       "headlines": [
         {
           "title": "The Bull Market Is Almost Back for Chip Stocks",
@@ -177,10 +203,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 219.64,
+      "price": 220.73,
       "previous_close": 222.18,
-      "change_pct": -1.14,
-      "market_cap": 197132164415.24622,
+      "change_pct": -0.65,
+      "market_cap": 198070096693.8283,
       "headlines": [
         {
           "title": "Reddit is Up 11% Premarket After S&P 500 Addition. Here\u2019s How Other New S&P 500 Stocks Performed.",
@@ -205,10 +231,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 165.49,
+      "price": 166.17,
       "previous_close": 164.79,
-      "change_pct": 0.42,
-      "market_cap": 173764505767.82227,
+      "change_pct": 0.84,
+      "market_cap": 174478498077.39258,
       "headlines": [
         {
           "title": "Intel Stock's Real Opportunity Is Demand It Cannot Yet Ship",
@@ -233,10 +259,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 231.77,
+      "price": 232.27,
       "previous_close": 231.91,
-      "change_pct": -0.06,
-      "market_cap": 58444091685.34158,
+      "change_pct": 0.16,
+      "market_cap": 58604214550.652405,
       "headlines": [
         {
           "title": "Prediction: This Chipmaker Could Be a Bigger Winner Than Investors Think",
@@ -261,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 130.73,
+      "price": 131.51,
       "previous_close": 128.43,
-      "change_pct": 1.79,
-      "market_cap": 18567972274.174805,
+      "change_pct": 2.4,
+      "market_cap": 18642147135.11815,
       "headlines": [
         {
           "title": "Lattice Semiconductor\u2019s Q2 Earnings Call: Our Top 5 Analyst Questions",
@@ -289,10 +315,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 193.0,
+      "price": 193.59,
       "previous_close": 189.43,
-      "change_pct": 1.88,
-      "market_cap": 9767349790.0,
+      "change_pct": 2.2,
+      "market_cap": 9797208342.367859,
       "headlines": [
         {
           "title": "Reddit Climbs, Applied Materials, Gemini Fall | Stock Movers",
@@ -317,10 +343,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 108.84,
+      "price": 109.33,
       "previous_close": 107.31,
-      "change_pct": 1.43,
-      "market_cap": 4256404213.02594,
+      "change_pct": 1.89,
+      "market_cap": 4275762278.506485,
       "headlines": [
         {
           "title": "ON Semiconductor (ON) Sees AI Data Center Growth Surge, Is The Upside Already Priced In?",
@@ -345,10 +371,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 31.07,
+      "price": 31.38,
       "previous_close": 30.37,
-      "change_pct": 2.3,
-      "market_cap": 874747008.4480591,
+      "change_pct": 3.32,
+      "market_cap": 885746787.1086578,
       "headlines": [
         {
           "title": "CEVA Handset, AI Momentum Seen Supporting Growth, UBS Says",
@@ -375,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 57.63,
-      "change_pct": 1.23,
+      "price": 57.87,
+      "change_pct": 1.64,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 1.81,
-          "price": 966.98,
+          "change_pct": 2.04,
+          "price": 969.18,
           "currency": "USD"
         },
         {
@@ -419,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 4.95,
-          "price": 1603.8,
+          "change_pct": 6.28,
+          "price": 1624.11,
           "currency": "USD"
         },
         {
@@ -428,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 3.82,
-          "price": 956.59,
+          "change_pct": 3.87,
+          "price": 957.05,
           "currency": "USD"
         },
         {
@@ -437,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 1.4,
-          "price": 494.11,
+          "change_pct": 0.91,
+          "price": 491.74,
           "currency": "USD"
         },
         {
@@ -465,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 57.63,
-    "change_pct": 1.23,
+    "price": 57.87,
+    "change_pct": 1.64,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 1.81,
-        "price": 966.98,
+        "change_pct": 2.04,
+        "price": 969.18,
         "currency": "USD"
       },
       {
@@ -509,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 4.95,
-        "price": 1603.8,
+        "change_pct": 6.28,
+        "price": 1624.11,
         "currency": "USD"
       },
       {
@@ -518,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 3.82,
-        "price": 956.59,
+        "change_pct": 3.87,
+        "price": 957.05,
         "currency": "USD"
       },
       {
@@ -527,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 1.4,
-        "price": 494.11,
+        "change_pct": 0.91,
+        "price": 491.74,
         "currency": "USD"
       },
       {
@@ -554,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7790.5,
-      "change_pct": -0.11
+      "price": 7793.68,
+      "change_pct": -0.07
     },
     {
       "label": "BTC",
-      "price": 62633.11,
-      "change_pct": -1.21
+      "price": 62694.51,
+      "change_pct": -1.12
     },
     {
       "label": "Gold",
-      "price": 4445.2,
-      "change_pct": 1.87
+      "price": 4450.2,
+      "change_pct": 1.98
     },
     {
       "label": "Nasdaq100",
-      "price": 30042.01,
-      "change_pct": -0.14
+      "price": 30072.31,
+      "change_pct": -0.04
     }
   ]
 }

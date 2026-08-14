@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-14T15:47:21+00:00",
+  "as_of": "2026-08-14T15:52:35+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,27 +9,11 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "CBRS",
-   "company": "Cerebras Systems Inc",
-   "move_pct": -5.18,
-   "price": 219.05,
-   "volume": 9328780,
-   "volume_vs_avg": "~2x",
-   "heat_score": 41,
-   "direction": "down",
-   "why": "Cathie Wood's ARK Invest Buys $28M Of Nvidia Rival Cerebras Amid Earnings Selloff",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-invest-buys-140203048.html",
-   "published": "2026-08-14T14:02:03Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 2,
    "ticker": "AMAT",
    "company": "Applied Materials Inc",
-   "move_pct": -5.54,
-   "price": 504.92,
-   "volume": 7147384,
+   "move_pct": -5.7,
+   "price": 504.08,
+   "volume": 7239606,
    "volume_vs_avg": "~0.9x",
    "heat_score": 39,
    "direction": "down",

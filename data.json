@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-14T12:55:33+00:00",
-  "as_of_local": "2026-08-14 12:55:33 UTC",
+  "as_of_utc": "2026-08-14T13:00:43+00:00",
+  "as_of_local": "2026-08-14 13:00:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -109,10 +111,10 @@
           "published": "2026-08-14T09:57:00Z"
         },
         {
-          "title": "A $250 Million Reason Why Micron Stock Is in Focus",
-          "url": "https://finance.yahoo.com/technology/ai/articles/250-million-reason-why-micron-125412977.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-14T12:54:12Z"
+          "title": "Could Intel return to the red-hot memory market after $20B raise and recent hire?",
+          "url": "https://finance.yahoo.com/technology/articles/could-intel-return-red-hot-125725820.html",
+          "publisher": "Investing.com",
+          "published": "2026-08-14T12:57:25Z"
         }
       ]
     },
@@ -150,8 +152,14 @@
       "price": 104.56,
       "previous_close": 100.95,
       "change_pct": 3.58,
-      "market_cap": 549413258667.9666,
+      "market_cap": 552715153289.1896,
       "headlines": [
+        {
+          "title": "Could Intel return to the red-hot memory market after $20B raise and recent hire?",
+          "url": "https://finance.yahoo.com/technology/articles/could-intel-return-red-hot-125725820.html",
+          "publisher": "Investing.com",
+          "published": "2026-08-14T12:57:25Z"
+        },
         {
           "title": "AMD\u2019s Massive Upside: Why One Analyst Sees 160% Price Appreciation Ahead Following a Tough Month",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-massive-upside-why-one-122945250.html",
@@ -163,12 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/rockwell-automation-rok-strength-lies-122346310.html",
           "publisher": "Insider Monkey",
           "published": "2026-08-14T12:23:46Z"
-        },
-        {
-          "title": "Energy Transfer (ET) Positions to Capitalize on the AI Power Surge",
-          "url": "https://finance.yahoo.com/energy/articles/energy-transfer-et-positions-capitalize-122126224.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-08-14T12:21:26Z"
         }
       ]
     },
@@ -281,34 +283,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/where-analysts-pushed-back-nxpis-003749124.html",
           "publisher": "Trefis",
           "published": "2026-08-12T00:37:49Z"
-        }
-      ]
-    },
-    {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 128.43,
-      "previous_close": 129.27,
-      "change_pct": -0.65,
-      "market_cap": 18240946792.69922,
-      "headlines": [
-        {
-          "title": "Lattice Semiconductor\u2019s Q2 Earnings Call: Our Top 5 Analyst Questions",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-q2-earnings-call-221322707.html",
-          "publisher": "StockStory",
-          "published": "2026-08-12T22:13:22Z"
-        },
-        {
-          "title": "Lattice Semiconductor (LSCC) Q2 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-lscc-q2-2026-234636059.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-11T23:46:36Z"
-        },
-        {
-          "title": "Lattice Semiconductor (LSCC) Posted Record Q2 Results, Is The Stock Still Undervalued?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-lscc-posted-record-001623744.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-07T00:16:23Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62709.85,
-      "change_pct": -1.09
+      "price": 62652.43,
+      "change_pct": -1.18
     },
     {
       "label": "Gold",
-      "price": 4429.7,
-      "change_pct": 1.51
+      "price": 4431.0,
+      "change_pct": 1.54
     },
     {
       "label": "Nasdaq100",

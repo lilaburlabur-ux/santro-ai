@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-14T22:47:56+00:00",
+  "as_of": "2026-08-14T22:48:40+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -12,7 +12,7 @@
    "ticker": "AVGO",
    "company": "Broadcom Inc",
    "move_pct": -5.78,
-   "price": 393.65,
+   "price": 393.67,
    "volume": 29203339,
    "volume_vs_avg": "~1.5x",
    "heat_score": 43,
@@ -27,9 +27,9 @@
    "rank": 2,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
-   "move_pct": 6.61,
-   "price": 514.94,
-   "volume": 24928819,
+   "move_pct": 6.6,
+   "price": 514.87,
+   "volume": 24905175,
    "volume_vs_avg": "~0.9x",
    "heat_score": 43,
    "direction": "up",

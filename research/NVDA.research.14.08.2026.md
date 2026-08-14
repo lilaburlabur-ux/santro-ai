@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia earnings preview: What’s next for Nvidia stock | Yahoo Finance Video | 2026-08-14 |
+| Wall Street's riskiest trades are suddenly back on top: Chart of the Day | Yahoo Finance | 2026-08-14 |
 | The next AI winners may look nothing like Nvidia or Micron: One Big Investment Idea | Yahoo Finance | 2026-08-14 |
-| US Equity Markets End Lower Amid Weak Retail Sales Data, Rise in Crude Oil Prices | MT Newswires | 2026-08-14 |
-| Kulicke and Soffa, AMD, Intel, and Nvidia Shares Are Soaring, What You Need To Know | StockStory | 2026-08-14 |
+| Vertex Pharmaceuticals Just Hit an All-Time High. Here's Why the Biotech Stock Could Soar Even More | Motley Fool | 2026-08-14 |
+| Nvidia CEO Jensen Huang Sells Wall Street on Compute as a Commodity | Coinage Coop | 2026-08-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

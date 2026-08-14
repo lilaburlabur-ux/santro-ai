@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Wall Street's riskiest trades are suddenly back on top: Chart of the Day | Yahoo Finance | 2026-08-14 |
+| Berkshire ups Alphabet stake under Greg Abel, making it a top-3 holding | Yahoo Finance Video | 2026-08-14 |
+| The AI build-out has a problem that $1 trillion in cash can't fix | Yahoo Finance | 2026-08-14 |
 | The next AI winners may look nothing like Nvidia or Micron: One Big Investment Idea | Yahoo Finance | 2026-08-14 |
 | Stock Market Today: Nasdaq Slips On Retail Sales Gloom; Nvidia Eyes Robotics Wave | Investor's Business Daily | 2026-08-14 |
-| Dow Jones Futures: Market Ready To Run? Sandisk Soars, Nvidia In Buy Area; Walmart, Target Due | Investor's Business Daily | 2026-08-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

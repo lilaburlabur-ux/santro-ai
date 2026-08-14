@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-14T15:07:45+00:00",
+  "as_of": "2026-08-14T15:16:58+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,19 +9,19 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "WDAY",
-   "company": "Workday Inc",
-   "move_pct": -5.01,
-   "price": 196.11,
-   "volume": 2503504,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 35,
+   "ticker": "CBRS",
+   "company": "Cerebras Systems Inc",
+   "move_pct": -5.62,
+   "price": 218.03,
+   "volume": 8650035,
+   "volume_vs_avg": "~2x",
+   "heat_score": 42,
    "direction": "down",
-   "why": "Who\u2019s next after Workday? Analyst names potential software M&A targets",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/articles/next-workday-analyst-names-potential-145025544.html",
-   "published": "2026-08-14T14:50:25Z",
-   "sector": "AI Applications & Data Software"
+   "why": "Cathie Wood's ARK Invest Buys $28M Of Nvidia Rival Cerebras Amid Earnings Selloff",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-invest-buys-140203048.html",
+   "published": "2026-08-14T14:02:03Z",
+   "sector": "AI Chips & Compute"
   }
  ]
 }

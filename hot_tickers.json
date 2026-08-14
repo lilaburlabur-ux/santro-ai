@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-14T13:16:09+00:00",
+  "as_of": "2026-08-14T13:31:14+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,67 +9,19 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "AMAT",
-   "company": "Applied Materials Inc",
-   "move_pct": -6.31,
-   "price": 500.8,
-   "volume": 12795200,
-   "volume_vs_avg": "~2x",
-   "heat_score": 45,
-   "direction": "down",
-   "why": "Applied Materials Extends Margin Streak to 13 Quarters but Shares Fall",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-extends-margin-streak-124959525.html",
-   "published": "2026-08-14T12:49:59Z",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 2,
    "ticker": "AVAV",
    "company": "AeroVironment Inc",
-   "move_pct": 5.72,
-   "price": 200.27,
-   "volume": 904600,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 38,
+   "move_pct": 8.21,
+   "price": 204.98,
+   "volume": 220306,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 54,
    "direction": "up",
    "why": "AeroVironment, Ondas, and Kratos Rising as Trump Levies Tariffs on Drone Imports",
    "catalyst_type": "regulatory",
    "source_url": "https://www.barrons.com/articles/aerovironment-ondas-drone-stocks-trump-tariffs-f4dbcfc8?siteid=yhoof2&yptr=yahoo",
    "published": "2026-08-14T11:45:00Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 3,
-   "ticker": "WDAY",
-   "company": "Workday Inc",
-   "move_pct": -0.7,
-   "price": 205.0,
-   "volume": 16311100,
-   "volume_vs_avg": "~4x",
-   "heat_score": 36,
-   "direction": "down",
-   "why": "A Workday Takeover Bid Could End the Software Stocks Selloff",
-   "catalyst_type": "mna",
-   "source_url": "https://www.barrons.com/articles/workday-stock-silver-lake-software-selloff-c6edad4a?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-08-14T12:13:00Z",
-   "sector": "AI Applications & Data Software"
-  },
-  {
-   "rank": 4,
-   "ticker": "CBRS",
-   "company": "Cerebras Systems Inc",
-   "move_pct": -0.82,
-   "price": 229.12,
-   "volume": 16530400,
-   "volume_vs_avg": "~3x",
-   "heat_score": 33,
-   "direction": "down",
-   "why": "Latest News In AI Chips - Cerebras Expands Amidst Rising Demand For AI Innovation",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/latest-news-ai-chips-cerebras-113751324.html",
-   "published": "2026-08-14T11:37:51Z",
-   "sector": "AI Chips & Compute"
   }
  ]
 }

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-14T10:35:53+00:00",
-  "as_of_local": "2026-08-14 10:35:53 UTC",
+  "as_of_utc": "2026-08-14T10:41:00+00:00",
+  "as_of_local": "2026-08-14 10:41:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -150,7 +152,7 @@
       "price": 104.56,
       "previous_close": 100.95,
       "change_pct": 3.58,
-      "market_cap": 549413258667.9666,
+      "market_cap": 552715153289.1896,
       "headlines": [
         {
           "title": "The Bull Market Is Almost Back for Chip Stocks",
@@ -257,40 +259,12 @@
       ]
     },
     {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 231.91,
-      "previous_close": 233.41,
-      "change_pct": -0.64,
-      "market_cap": 58479394515.792786,
-      "headlines": [
-        {
-          "title": "Prediction: This Chipmaker Could Be a Bigger Winner Than Investors Think",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-chipmaker-could-bigger-winner-143041101.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-12T14:30:41Z"
-        },
-        {
-          "title": "1 Semiconductor Stock for Long-Term Investors and 2 Facing Challenges",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-semiconductor-stock-long-term-060522696.html",
-          "publisher": "StockStory",
-          "published": "2026-08-12T06:05:22Z"
-        },
-        {
-          "title": "Where Analysts Pushed Back On NXPI's Latest Call",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/where-analysts-pushed-back-nxpis-003749124.html",
-          "publisher": "Trefis",
-          "published": "2026-08-12T00:37:49Z"
-        }
-      ]
-    },
-    {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
       "price": 128.43,
       "previous_close": 129.27,
       "change_pct": -0.65,
-      "market_cap": 18240946792.69922,
+      "market_cap": 18204849873.667786,
       "headlines": [
         {
           "title": "Lattice Semiconductor\u2019s Q2 Earnings Call: Our Top 5 Analyst Questions",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62841.9,
-      "change_pct": -0.88
+      "price": 62817.64,
+      "change_pct": -0.92
     },
     {
       "label": "Gold",
-      "price": 4409.7,
-      "change_pct": 1.06
+      "price": 4406.8,
+      "change_pct": 0.99
     },
     {
       "label": "Nasdaq100",

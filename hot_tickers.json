@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-14T00:57:56+00:00",
+  "as_of": "2026-08-14T01:20:40+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -20,27 +20,11 @@
    "why": "Dow Jones Futures: S&P 500 Hits High On Workday, Sandisk, Oil Prices; Applied Materials Earnings Late",
    "catalyst_type": "earnings",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-high-workday-sandisk-oil-prices-applied-materials-earnings/?src=A00220&yptr=yahoo",
-   "published": "2026-08-14T00:24:53Z",
+   "published": "2026-08-14T00:43:23Z",
    "sector": "AI Applications & Data Software"
   },
   {
    "rank": 2,
-   "ticker": "CBRS",
-   "company": "Cerebras Systems Inc",
-   "move_pct": -11.85,
-   "price": 231.01,
-   "volume": 16461897,
-   "volume_vs_avg": "~3x",
-   "heat_score": 82,
-   "direction": "down",
-   "why": "Why Cerebras Systems Stock Just Sank",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-cerebras-systems-stock-just-211102197.html",
-   "published": "2026-08-13T21:11:02Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 3,
    "ticker": "CSCO",
    "company": "Cisco Systems Inc",
    "move_pct": -8.4,
@@ -54,6 +38,22 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/number-cisco-stopped-leading-explains-232912762.html",
    "published": "2026-08-13T23:29:12Z",
    "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 3,
+   "ticker": "CBRS",
+   "company": "Cerebras Systems Inc",
+   "move_pct": -11.85,
+   "price": 231.01,
+   "volume": 16461897,
+   "volume_vs_avg": "~3x",
+   "heat_score": 67,
+   "direction": "down",
+   "why": "Moving down 11.8% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
+   "sector": "AI Chips & Compute"
   },
   {
    "rank": 4,
@@ -100,7 +100,7 @@
    "why": "Dow Jones Futures: S&P 500 Hits High On Workday, Sandisk, Oil Prices; Applied Materials Earnings Late",
    "catalyst_type": "earnings",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-high-workday-sandisk-oil-prices-applied-materials-earnings/?src=A00220&yptr=yahoo",
-   "published": "2026-08-14T00:24:53Z",
+   "published": "2026-08-14T00:43:23Z",
    "sector": "AI Software & Cloud Infrastructure"
   }
  ]

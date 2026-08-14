@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-14T00:27:46+00:00",
-  "as_of_local": "2026-08-14 00:27:46 UTC",
+  "as_of_utc": "2026-08-14T00:32:38+00:00",
+  "as_of_local": "2026-08-14 00:32:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -97,16 +99,16 @@
       "market_cap": 1072731515915.4824,
       "headlines": [
         {
-          "title": "Sandisk Stock Jumps On Bullish Outlook, Leads Memory Names Higher",
-          "url": "https://www.investors.com/news/technology/sandisk-stock-jumps-bullish-outlook-memory-names-follow/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-13T22:39:33Z"
-        },
-        {
           "title": "Dow Jones Futures: S&P 500 Hits High On Workday, Sandisk, Oil Prices; Applied Materials Earnings Late",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-high-workday-sandisk-oil-prices-applied-materials-earnings/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-08-14T00:24:53Z"
+        },
+        {
+          "title": "Sandisk Stock Jumps On Bullish Outlook, Leads Memory Names Higher",
+          "url": "https://www.investors.com/news/technology/sandisk-stock-jumps-bullish-outlook-memory-names-follow/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-08-13T22:39:33Z"
         },
         {
           "title": "Is Micron (MU) Using Its New AI Fund to Quietly Redefine Its Memory Strategy?",
@@ -285,34 +287,6 @@
       ]
     },
     {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 128.43,
-      "previous_close": 129.27,
-      "change_pct": -0.65,
-      "market_cap": 18204849873.667786,
-      "headlines": [
-        {
-          "title": "Lattice Semiconductor\u2019s Q2 Earnings Call: Our Top 5 Analyst Questions",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-q2-earnings-call-221322707.html",
-          "publisher": "StockStory",
-          "published": "2026-08-12T22:13:22Z"
-        },
-        {
-          "title": "Lattice Semiconductor (LSCC) Q2 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-lscc-q2-2026-234636059.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-11T23:46:36Z"
-        },
-        {
-          "title": "Lattice Semiconductor (LSCC) Posted Record Q2 Results, Is The Stock Still Undervalued?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-lscc-posted-record-001623744.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-07T00:16:23Z"
-        }
-      ]
-    },
-    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 189.43,
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 5.46,
-          "price": 1680000.0,
+          "change_pct": 6.47,
+          "price": 1696000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 1.49,
-          "price": 272000.0,
+          "change_pct": 1.87,
+          "price": 273000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 6.99,
-          "price": 55420.0,
+          "change_pct": 5.42,
+          "price": 54610.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 5.46,
-        "price": 1680000.0,
+        "change_pct": 6.47,
+        "price": 1696000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 1.49,
-        "price": 272000.0,
+        "change_pct": 1.87,
+        "price": 273000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 6.99,
-        "price": 55420.0,
+        "change_pct": 5.42,
+        "price": 54610.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 63382.32,
-      "change_pct": -0.03
+      "price": 63369.63,
+      "change_pct": -0.05
     },
     {
       "label": "Gold",
-      "price": 4404.9,
-      "change_pct": -0.09
+      "price": 4401.5,
+      "change_pct": -0.17
     },
     {
       "label": "Nasdaq100",

@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Why one analyst says investors should be cautious on the memory stock rally | Yahoo Finance Video | 2026-08-14 |
+| QCOM: A Cash Gusher At A Marked-Down Price | Trefis | 2026-08-14 |
 | S&P 500 ends lower as investors weigh data, Middle East tensions | Reuters | 2026-08-14 |
 | Kulicke and Soffa, AMD, Intel, and Nvidia Shares Are Soaring, What You Need To Know | StockStory | 2026-08-14 |
-| Broadcom Sinks 6% as BofA Flags $370B in AI Debt, AMD Climbs 4% on Baird’s $1,250 Call | 24/7 Wall St. | 2026-08-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

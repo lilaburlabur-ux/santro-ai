@@ -18,7 +18,7 @@ Signed file: `QCOM.research.14.08.2026`
 | Technical momentum | Moderate | 1Y +8.11%; price -1.12% vs SMA200. |
 | Fresh setup quality | Poor / broken | -33.71% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 21.01%, revenue growth -4.00%. |
-| Value attractiveness | Reasonable | Forward P/E 16.22, EV/Sales 4.08. |
+| Value attractiveness | Reasonable | Forward P/E 16.25, EV/Sales 4.08. |
 | Risk level | Elevated | Beta 1.66, ATR 4.7% of price, short float 3.69%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| QCOM: A Cash Gusher At A Marked-Down Price | Trefis | 2026-08-14 |
 | What Separates AVGO From Its Peers Right Now | Trefis | 2026-08-14 |
 | Broadcom Sinks 6% as BofA Flags $370B in AI Debt, AMD Climbs 4% on Baird’s $1,250 Call | 24/7 Wall St. | 2026-08-14 |
 | Marvell's Year Was Made In Interconnect, Not Yet In Custom Silicon | Trefis | 2026-08-14 |
-| Intel Stock's Real Opportunity Is Demand It Cannot Yet Ship | Trefis | 2026-08-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $44.07B | Revenue growth -4.00% y/y |
 | Profitability | Gross 54.23%, operating 18.53%, net 21.01% | ROA 11.61%, ROE 33.75% |
 | Balance sheet | Cash $8.30B, debt $15.27B | Current ratio 2.02, debt/equity 55.21 |
-| Valuation | P/E 18.95, forward P/E 16.22, P/S 3.95, P/B 6.34 | EV/Sales 4.08, EV/EBITDA 15.00 |
+| Valuation | P/E 18.95, forward P/E 16.25, P/S 3.95, P/B 6.34 | EV/Sales 4.08, EV/EBITDA 15.00 |
 | Growth expectations | Earnings growth -23.00%, EPS q/q -24.90% | Analyst mean target $194.77 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -122,7 +122,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | 52W high | $250.10 | Revenue growth y/y | -4.00% |
 | 52W low | $123.61 | Inst. ownership | 83.74% |
 | P/E (ttm) | 18.95 | Insider ownership | 0.12% |
-| Forward P/E | 16.22 | Short float | 3.69% |
+| Forward P/E | 16.25 | Short float | 3.69% |
 | PEG (trailing) | 0.70 | Avg volume | 18,053,050 |
 | P/S | 3.95 | Employees | 52,000 |
 | P/B | 6.34 | Analyst rec (1=buy..5=sell) | 2.5 |

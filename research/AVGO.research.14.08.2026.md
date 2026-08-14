@@ -37,9 +37,9 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Headline | Source | Date |
 |---|---|---|
 | Wall Street's riskiest trades are suddenly back on top: Chart of the Day | Yahoo Finance | 2026-08-14 |
+| QCOM: A Cash Gusher At A Marked-Down Price | Trefis | 2026-08-14 |
 | S&P 500 ends lower as investors weigh data, Middle East tensions | Reuters | 2026-08-14 |
 | Broadcom Falls 6% as AI Trade Cools | GuruFocus.com | 2026-08-14 |
-| Tiger Global Management cuts stakes in Big Tech, buys into SpaceX | Reuters | 2026-08-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

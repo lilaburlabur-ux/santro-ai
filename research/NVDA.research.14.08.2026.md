@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Wall Street's riskiest trades are suddenly back on top: Chart of the Day | Yahoo Finance | 2026-08-14 |
 | The next AI winners may look nothing like Nvidia or Micron: One Big Investment Idea | Yahoo Finance | 2026-08-14 |
-| Vertex Pharmaceuticals Just Hit an All-Time High. Here's Why the Biotech Stock Could Soar Even More | Motley Fool | 2026-08-14 |
-| Nvidia CEO Jensen Huang Sells Wall Street on Compute as a Commodity | Coinage Coop | 2026-08-14 |
+| Super League Enterprise, Inc. Q2 2026 Earnings Call Summary | Moby | 2026-08-14 |
+| PAVmed Inc. Q2 2026 Earnings Call Summary | Moby | 2026-08-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

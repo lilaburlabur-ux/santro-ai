@@ -37,9 +37,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | Why Cloudflare and these 3 AI sub-sectors are 'the place to be' for tech investors | Yahoo Finance Video | 2026-08-14 |
+| QCOM: A Cash Gusher At A Marked-Down Price | Trefis | 2026-08-14 |
 | Kulicke and Soffa, AMD, Intel, and Nvidia Shares Are Soaring, What You Need To Know | StockStory | 2026-08-14 |
 | AMD Stock Jumps 5.6% While $4.75 Billion Debt Deal Lands | GuruFocus.com | 2026-08-14 |
-| What Separates AVGO From Its Peers Right Now | Trefis | 2026-08-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

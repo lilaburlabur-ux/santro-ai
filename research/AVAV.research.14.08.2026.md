@@ -37,9 +37,9 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Headline | Source | Date |
 |---|---|---|
 | More Trump Tariffs Are Coming—and They Could Look Different | Barrons.com | 2026-08-14 |
-| Unusual Machines Soars 22%, Red Cat Climbs 8%, Ondas Gains 4% on Trump’s 100% Drone Tariff | 24/7 Wall St. | 2026-08-14 |
 | Unusual Machines, AeroVironment, and Ondas Rise as Trump Levies Tariffs on Drone Imports | Barrons.com | 2026-08-14 |
 | Drone stocks soar after Trump announces tariffs | Axios | 2026-08-14 |
+| Trump Family-Tied Dronemakers Get a Boost From New US Tariffs | Bloomberg | 2026-08-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

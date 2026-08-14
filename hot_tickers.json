@@ -1,10 +1,43 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-14T14:27:53+00:00",
+  "as_of": "2026-08-14T14:43:04+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "WDAY",
+   "company": "Workday Inc",
+   "move_pct": -5.18,
+   "price": 195.76,
+   "volume": 2132850,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 35,
+   "direction": "down",
+   "why": "A Workday Takeover Bid Could End the Software Stocks Selloff",
+   "catalyst_type": "mna",
+   "source_url": "https://www.barrons.com/articles/workday-stock-silver-lake-software-selloff-c6edad4a?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-08-14T12:13:00Z",
+   "sector": "AI Applications & Data Software"
+  },
+  {
+   "rank": 2,
+   "ticker": "AMD",
+   "company": "Advanced Micro Devices Inc",
+   "move_pct": 5.0,
+   "price": 507.17,
+   "volume": 9639487,
+   "volume_vs_avg": "~0.3x",
+   "heat_score": 34,
+   "direction": "up",
+   "why": "Bank of America\u2019s Top Pick for a $210B Market Is AMD, But Traders Prefer This Other Stock",
+   "catalyst_type": "regulatory",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-top-pick-210b-131716219.html",
+   "published": "2026-08-14T13:17:16Z",
+   "sector": "AI Chips & Compute"
+  }
+ ]
 }

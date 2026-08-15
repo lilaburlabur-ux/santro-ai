@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-15T14:52:22+00:00",
-  "as_of_local": "2026-08-15 14:52:22 UTC",
+  "as_of_utc": "2026-08-15T14:59:59+00:00",
+  "as_of_local": "2026-08-15 14:59:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-08-14T21:29:00Z"
         },
         {
+          "title": "Social Media Went Negative on Memory Stocks like SanDisk & Micron Last Weekend. Then They Rallied.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/social-media-went-negative-memory-144338731.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-15T14:43:38Z"
+        },
+        {
           "title": "Nvidia Is Looking to Own Another Layer of the AI Ecosystem",
           "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-looking-own-another-layer-143602047.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-15T14:36:02Z"
-        },
-        {
-          "title": "SpaceX vs. Micron: Which High-Growth Titan Is the Better Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-vs-micron-high-growth-143500471.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-15T14:35:00Z"
         }
       ]
     },
@@ -103,16 +105,16 @@
           "published": "2026-08-14T10:01:00Z"
         },
         {
+          "title": "Social Media Went Negative on Memory Stocks like SanDisk & Micron Last Weekend. Then They Rallied.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/social-media-went-negative-memory-144338731.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-15T14:43:38Z"
+        },
+        {
           "title": "SpaceX vs. Micron: Which High-Growth Titan Is the Better Buy?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-vs-micron-high-growth-143500471.html",
           "publisher": "Motley Fool",
           "published": "2026-08-15T14:35:00Z"
-        },
-        {
-          "title": "Prediction: These 3 Artificial Intelligence (AI) Stocks Will Rise More than 30% Before 2026 Is Over",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-3-artificial-intelligence-ai-120500736.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-15T12:05:00Z"
         }
       ]
     },
@@ -341,34 +343,6 @@
       ]
     },
     {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 108.63,
-      "previous_close": 107.31,
-      "change_pct": 1.23,
-      "market_cap": 4248191781.769455,
-      "headlines": [
-        {
-          "title": "ON Semiconductor (ON) Sees AI Data Center Growth Surge, Is The Upside Already Priced In?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-sees-ai-data-center-231855941.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-11T23:18:55Z"
-        },
-        {
-          "title": "SYNA Q4 Earnings Beat Estimates, Strong Core IoT Sales Aid Revenues",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/syna-q4-earnings-beat-estimates-174700157.html",
-          "publisher": "Zacks",
-          "published": "2026-08-10T17:47:00Z"
-        },
-        {
-          "title": "Synaptics (SYNA) Reports Q4 Earnings: What Key Metrics Have to Say",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-reports-q4-earnings-003001070.html",
-          "publisher": "Zacks",
-          "published": "2026-08-07T00:30:01Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 33.28,
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 62975.05,
-      "change_pct": -0.0
+      "price": 62966.43,
+      "change_pct": -0.01
     },
     {
       "label": "Gold",

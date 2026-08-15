@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-15T19:49:14+00:00",
-  "as_of_local": "2026-08-15 19:49:14 UTC",
+  "as_of_utc": "2026-08-15T19:58:16+00:00",
+  "as_of_local": "2026-08-15 19:58:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -75,44 +77,16 @@
           "published": "2026-08-14T10:01:00Z"
         },
         {
+          "title": "Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies",
+          "url": "https://finance.yahoo.com/technology/ai/articles/bond-traders-agonizing-over-70-190000845.html",
+          "publisher": "Bloomberg",
+          "published": "2026-08-15T19:00:00Z"
+        },
+        {
           "title": "Cisco vs. Broadcom: One Stock Looks Like the Better AI Play",
           "url": "https://finance.yahoo.com/technology/ai/articles/cisco-vs-broadcom-one-stock-153040244.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-15T15:30:40Z"
-        },
-        {
-          "title": "Review & Preview: Headline Fatigue",
-          "url": "https://www.barrons.com/articles/stocks-today-s-and-p-500-three-weeks-gains-885928ce?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-08-14T23:55:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 971.66,
-      "previous_close": 949.83,
-      "change_pct": 2.3,
-      "market_cap": 1097386118770.2776,
-      "headlines": [
-        {
-          "title": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day",
-          "url": "https://finance.yahoo.com/markets/article/wall-streets-riskiest-trades-are-suddenly-back-on-top-chart-of-the-day-100100027.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-14T10:01:00Z"
-        },
-        {
-          "title": "5-star analyst sets jaw-dropping Micron stock price target for 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-sets-jaw-153300236.html",
-          "publisher": "TheStreet",
-          "published": "2026-08-15T15:33:00Z"
-        },
-        {
-          "title": "Social Media Went Negative on Memory Stocks like SanDisk & Micron Last Weekend. Then They Rallied.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/social-media-went-negative-memory-144338731.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-15T14:43:38Z"
         }
       ]
     },
@@ -150,7 +124,7 @@
       "price": 102.5,
       "previous_close": 104.56,
       "change_pct": -1.97,
-      "market_cap": 541825789355.0,
+      "market_cap": 538588947287.5,
       "headlines": [
         {
           "title": "Nvidia\u2019s Secret $21 Billion SpaceX Windfall \u2014 How One Chip Deal Turned Into a Rocket Fortune",
@@ -290,7 +264,7 @@
       "price": 130.46,
       "previous_close": 128.43,
       "change_pct": 1.58,
-      "market_cap": 18492602757.825363,
+      "market_cap": 18529270238.692383,
       "headlines": [
         {
           "title": "Rambus Stock Has Been on a Wild Ride. Here\u2019s What Happens Next",
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 2.3,
-          "price": 971.66,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 2.3,
-        "price": 971.66,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 63046.41,
-      "change_pct": 0.11
+      "price": 63052.31,
+      "change_pct": 0.12
     },
     {
       "label": "Gold",

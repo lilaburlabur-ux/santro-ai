@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-15T22:32:04+00:00",
-  "as_of_local": "2026-08-15 22:32:04 UTC",
+  "as_of_utc": "2026-08-15T22:47:05+00:00",
+  "as_of_local": "2026-08-15 22:47:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": -0.06,
       "market_cap": 5453600448699.951,
       "headlines": [
+        {
+          "title": "Dara Khosrowshahi Just Delivered Fantastic News for Uber Stock Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dara-khosrowshahi-just-delivered-fantastic-222000993.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-15T22:20:00Z"
+        },
         {
           "title": "Palantir Makes Its Case Against Frontier AI",
           "url": "https://finance.yahoo.com/technology/ai/articles/palantir-makes-case-against-frontier-215019978.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-poised-hit-220-june-213500558.html",
           "publisher": "Motley Fool",
           "published": "2026-08-15T21:35:00Z"
-        },
-        {
-          "title": "3 of Bill Ackman's New Stock Picks Are Interesting: S&P Global Trades 28% Below Its High While Visa and Mastercard Sit Near Theirs",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-bill-ackmans-stock-picks-200700109.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-15T20:07:00Z"
         }
       ]
     },
@@ -150,7 +152,7 @@
       "price": 102.5,
       "previous_close": 104.56,
       "change_pct": -1.97,
-      "market_cap": 538588947287.5,
+      "market_cap": 541825789355.0,
       "headlines": [
         {
           "title": "Lip-Bu Tan Investing $12 Million of His Own Money into Intel Raise: Daniel Newman Calls It a \u2018Strong Sign of Confidence\u2019 in Chipmaker\u2019s Future",
@@ -229,34 +231,6 @@
       ]
     },
     {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 165.79,
-      "previous_close": 164.79,
-      "change_pct": 0.61,
-      "market_cap": 174079492950.43945,
-      "headlines": [
-        {
-          "title": "QCOM: A Cash Gusher At A Marked-Down Price",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qcom-cash-gusher-marked-down-202537632.html",
-          "publisher": "Trefis",
-          "published": "2026-08-14T20:25:37Z"
-        },
-        {
-          "title": "What Separates AVGO From Its Peers Right Now",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/separates-avgo-peers-now-191413440.html",
-          "publisher": "Trefis",
-          "published": "2026-08-14T19:14:13Z"
-        },
-        {
-          "title": "Broadcom Sinks 6% as BofA Flags $370B in AI Debt, AMD Climbs 4% on Baird\u2019s $1,250 Call",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-sinks-6-bofa-flags-180738180.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-14T18:07:38Z"
-        }
-      ]
-    },
-    {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
       "price": 234.71,
@@ -290,7 +264,7 @@
       "price": 130.46,
       "previous_close": 128.43,
       "change_pct": 1.58,
-      "market_cap": 18529270238.692383,
+      "market_cap": 18492602757.825363,
       "headlines": [
         {
           "title": "Rambus Stock Has Been on a Wild Ride. Here\u2019s What Happens Next",
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 63083.95,
-      "change_pct": 0.17
+      "price": 63086.53,
+      "change_pct": 0.18
     },
     {
       "label": "Gold",

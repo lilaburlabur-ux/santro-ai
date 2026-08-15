@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-15T11:00:31+00:00",
-  "as_of_local": "2026-08-15 11:00:31 UTC",
+  "as_of_utc": "2026-08-15T11:07:08+00:00",
+  "as_of_local": "2026-08-15 11:07:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -105,16 +103,16 @@
           "published": "2026-08-14T10:01:00Z"
         },
         {
-          "title": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
-          "url": "https://finance.yahoo.com/technology/ai/articles/us-presses-apple-avoid-chinese-092522511.html",
-          "publisher": "Investing.com",
-          "published": "2026-08-15T09:25:22Z"
-        },
-        {
           "title": "Should You Buy Micron Technology Stock Below $920 per Share? Wall Street Thinks It's Heading to $1,500.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-micron-technology-stock-below-083500960.html",
           "publisher": "Motley Fool",
           "published": "2026-08-15T08:35:00Z"
+        },
+        {
+          "title": "Druckenmiller loads up on Amazon and AMD while dumping some chipmakers, 13F shows",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/druckenmiller-loads-amazon-amd-while-215638635.html",
+          "publisher": "Investing.com",
+          "published": "2026-08-14T21:56:38Z"
         }
       ]
     },
@@ -171,6 +169,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-discloses-21b-stake-spacex-234954047.html",
           "publisher": "Stocktwits",
           "published": "2026-08-14T23:49:54Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 279.44,
+      "previous_close": 278.65,
+      "change_pct": 0.28,
+      "market_cap": 298441522728.7784,
+      "headlines": [
+        {
+          "title": "The Bull Market Is Almost Back for Chip Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bull-market-almost-back-chip-205554469.html",
+          "publisher": "Investopedia",
+          "published": "2026-08-13T20:55:54Z"
+        },
+        {
+          "title": "Why Arm Holdings Stock Popped Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-arm-holdings-stock-popped-172321188.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-13T17:23:21Z"
+        },
+        {
+          "title": "Great Company, Full Price: What Arm\u2019s Numbers Say About the Next 1 Year",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/great-company-full-price-arm-133007946.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-13T13:30:07Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 62965.68,
-      "change_pct": -0.02
+      "price": 62956.46,
+      "change_pct": -0.03
     },
     {
       "label": "Gold",

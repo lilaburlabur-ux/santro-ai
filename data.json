@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-15T01:33:19+00:00",
-  "as_of_local": "2026-08-15 01:33:19 UTC",
+  "as_of_utc": "2026-08-15T01:44:39+00:00",
+  "as_of_local": "2026-08-15 01:44:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -75,16 +77,16 @@
           "published": "2026-08-14T10:01:00Z"
         },
         {
+          "title": "Review & Preview: Headline Fatigue",
+          "url": "https://www.barrons.com/articles/stocks-today-s-and-p-500-three-weeks-gains-885928ce?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-08-14T23:55:00Z"
+        },
+        {
           "title": "Wall Street ends lower as investors weigh data, Middle East tensions",
           "url": "https://finance.yahoo.com/video/wall-street-ends-lower-investors-225242650.html",
           "publisher": "Reuters Videos",
           "published": "2026-08-14T22:53:02Z"
-        },
-        {
-          "title": "Third Point Exited Nvidia and Broadcom, Made New Bet on Warner Bros. Discovery in Second Quarter",
-          "url": "https://www.barrons.com/articles/third-point-nvidia-broadcom-warner-bros-discovery-stock-1f4560da?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-08-14T22:43:00Z"
         }
       ]
     },
@@ -150,7 +152,7 @@
       "price": 102.5,
       "previous_close": 104.56,
       "change_pct": -1.97,
-      "market_cap": 538588947287.5,
+      "market_cap": 541825789355.0,
       "headlines": [
         {
           "title": "Why one analyst says investors should be cautious on the memory stock rally",
@@ -281,34 +283,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/where-analysts-pushed-back-nxpis-003749124.html",
           "publisher": "Trefis",
           "published": "2026-08-12T00:37:49Z"
-        }
-      ]
-    },
-    {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 130.46,
-      "previous_close": 128.43,
-      "change_pct": 1.58,
-      "market_cap": 18529270238.692383,
-      "headlines": [
-        {
-          "title": "SIMO vs. LSCC: Which Semiconductor Stock is the Better Buy Today?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/simo-vs-lscc-semiconductor-stock-145200336.html",
-          "publisher": "Zacks",
-          "published": "2026-08-14T14:52:00Z"
-        },
-        {
-          "title": "Lattice Semiconductor\u2019s Q2 Earnings Call: Our Top 5 Analyst Questions",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-q2-earnings-call-221322707.html",
-          "publisher": "StockStory",
-          "published": "2026-08-12T22:13:22Z"
-        },
-        {
-          "title": "Lattice Semiconductor (LSCC) Q2 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-lscc-q2-2026-234636059.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-11T23:46:36Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 62952.92,
-      "change_pct": -0.71
+      "price": 62964.71,
+      "change_pct": -0.69
     },
     {
       "label": "Gold",

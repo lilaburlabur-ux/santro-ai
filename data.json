@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-15T19:58:16+00:00",
-  "as_of_local": "2026-08-15 19:58:16 UTC",
+  "as_of_utc": "2026-08-15T20:04:18+00:00",
+  "as_of_local": "2026-08-15 20:04:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/cisco-vs-broadcom-one-stock-153040244.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-15T15:30:40Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 971.66,
+      "previous_close": 949.83,
+      "change_pct": 2.3,
+      "market_cap": 1097386118770.2776,
+      "headlines": [
+        {
+          "title": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day",
+          "url": "https://finance.yahoo.com/markets/article/wall-streets-riskiest-trades-are-suddenly-back-on-top-chart-of-the-day-100100027.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-08-14T10:01:00Z"
+        },
+        {
+          "title": "5-star analyst sets jaw-dropping Micron stock price target for 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-sets-jaw-153300236.html",
+          "publisher": "TheStreet",
+          "published": "2026-08-15T15:33:00Z"
+        },
+        {
+          "title": "Social Media Went Negative on Memory Stocks like SanDisk & Micron Last Weekend. Then They Rallied.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/social-media-went-negative-memory-144338731.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-15T14:43:38Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 2.3,
+          "price": 971.66,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 2.3,
+        "price": 971.66,
         "currency": "USD"
       },
       {
@@ -553,14 +579,9 @@
   },
   "tape": [
     {
-      "label": "SPX",
-      "price": 7785.76,
-      "change_pct": -0.17
-    },
-    {
       "label": "BTC",
-      "price": 63052.31,
-      "change_pct": 0.12
+      "price": 63041.9,
+      "change_pct": 0.11
     },
     {
       "label": "Gold",

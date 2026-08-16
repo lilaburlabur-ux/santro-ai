@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-16T14:40:53+00:00",
-  "as_of_local": "2026-08-16 14:40:53 UTC",
+  "as_of_utc": "2026-08-16T14:47:18+00:00",
+  "as_of_local": "2026-08-16 14:47:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -117,40 +119,12 @@
       ]
     },
     {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 514.39,
-      "previous_close": 483.01,
-      "change_pct": 6.5,
-      "market_cap": 839728860767.5886,
-      "headlines": [
-        {
-          "title": "AMD Turned $10,000 Into More Than $700,000 in a Decade. The S&P 500 Turned It Into About $42,000.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-turned-10-000-more-125400982.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-16T12:54:00Z"
-        },
-        {
-          "title": "Broadcom vs. AMD: Which AI Chip Stock Is the Better Buy?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-vs-amd-ai-chip-105500056.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-16T10:55:00Z"
-        },
-        {
-          "title": "These 5 AI Stocks Have Returned 300%-Plus Over the Past 3 Years -- and 1 Still Looks Dirt Cheap",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-ai-stocks-returned-300-083300466.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-16T08:33:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 102.5,
       "previous_close": 104.56,
       "change_pct": -1.97,
-      "market_cap": 541825789355.0,
+      "market_cap": 538588947287.5,
       "headlines": [
         {
           "title": "Stanley Druckenmiller\u2019s Big Bet: New Broadcom, Intel and Arm Stakes in One Quarter",
@@ -290,7 +264,7 @@
       "price": 130.46,
       "previous_close": 128.43,
       "change_pct": 1.58,
-      "market_cap": 18492602757.825363,
+      "market_cap": 18529270238.692383,
       "headlines": [
         {
           "title": "Rambus Stock Has Been on a Wild Ride. Here\u2019s What Happens Next",
@@ -585,7 +559,7 @@
     },
     {
       "label": "BTC",
-      "price": 63032.33,
+      "price": 63030.65,
       "change_pct": 0.01
     },
     {

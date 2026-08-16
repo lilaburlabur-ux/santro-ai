@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-16T10:00:28+00:00",
-  "as_of_local": "2026-08-16 10:00:28 UTC",
+  "as_of_utc": "2026-08-16T10:10:20+00:00",
+  "as_of_local": "2026-08-16 10:10:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5453600448699.951,
       "headlines": [
         {
+          "title": "Here's How Much Money You'd Have Today If You Invested $1,000 in the S&P 500 During Every Stock Market Crash Since 1950 (Spoiler Alert: Wow!)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-much-money-youd-today-095000564.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-16T09:50:00Z"
+        },
+        {
           "title": "Open-Weight AI Won\u2019t Crimp Demand for Picks and Shovels",
           "url": "https://www.wsj.com/tech/ai/open-weight-ai-wont-crimp-demand-for-picks-and-shovels-523e6410?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/apple-investors-3-things-matter-092700688.html",
           "publisher": "Motley Fool",
           "published": "2026-08-16T09:27:00Z"
-        },
-        {
-          "title": "Peloton Just Posted Its First Full Year of Profits. Here's Why I'm Still Not Buying the Stock.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/peloton-just-posted-first-full-092000241.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-16T09:20:00Z"
         }
       ]
     },
@@ -454,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 5.65,
+          "price": 973.44,
           "currency": "USD"
         },
         {
@@ -544,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 5.65,
+        "price": 973.44,
         "currency": "USD"
       },
       {
@@ -585,7 +585,7 @@
     },
     {
       "label": "BTC",
-      "price": 62916.19,
+      "price": 62915.49,
       "change_pct": -0.17
     },
     {

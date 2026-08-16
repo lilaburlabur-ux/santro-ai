@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-16T02:47:12+00:00",
-  "as_of_local": "2026-08-16 02:47:12 UTC",
+  "as_of_utc": "2026-08-16T02:58:05+00:00",
+  "as_of_local": "2026-08-16 02:58:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5453600448699.951,
       "headlines": [
         {
+          "title": "AMD Just Borrowed $4.75 Billion, More Than Triple Its Last Bond Sale",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-just-borrowed-4-75-023900183.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-16T02:39:00Z"
+        },
+        {
           "title": "If You've Saved This Much for Retirement by Age 50, You're Ahead of the Game",
           "url": "https://finance.yahoo.com/markets/articles/youve-saved-much-retirement-age-022100947.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-awarded-orbital-contract-021052649.html",
           "publisher": "Motley Fool",
           "published": "2026-08-16T02:10:52Z"
-        },
-        {
-          "title": "Why Data Centers Are Turning Energy Stocks Into AI Plays",
-          "url": "https://finance.yahoo.com/energy/articles/why-data-centers-turning-energy-020500406.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-16T02:05:00Z"
         }
       ]
     },
@@ -125,6 +125,12 @@
       "market_cap": 839728860767.5886,
       "headlines": [
         {
+          "title": "AMD Just Borrowed $4.75 Billion, More Than Triple Its Last Bond Sale",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-just-borrowed-4-75-023900183.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-16T02:39:00Z"
+        },
+        {
           "title": "Prediction: Even After Soaring 180%, a Stock Split Isn't on the Horizon for AMD. Here's Why.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-even-soaring-180-stock-161100281.html",
           "publisher": "Motley Fool",
@@ -135,12 +141,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-566-million-spacex-stake-154113829.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-15T15:41:13Z"
-        },
-        {
-          "title": "Not Nvidia. Not AMD. This Chip Stock Will Be the Biggest Winner of the Historic AI Semiconductor Boom",
-          "url": "https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-amd-chip-134300878.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-15T13:43:00Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "price": 102.5,
       "previous_close": 104.56,
       "change_pct": -1.97,
-      "market_cap": 541825789355.0,
+      "market_cap": 538588947287.5,
       "headlines": [
         {
           "title": "Lip-Bu Tan Investing $12 Million of His Own Money into Intel Raise: Daniel Newman Calls It a \u2018Strong Sign of Confidence\u2019 in Chipmaker\u2019s Future",
@@ -290,7 +290,7 @@
       "price": 130.46,
       "previous_close": 128.43,
       "change_pct": 1.58,
-      "market_cap": 18492602757.825363,
+      "market_cap": 18529270238.692383,
       "headlines": [
         {
           "title": "Rambus Stock Has Been on a Wild Ride. Here\u2019s What Happens Next",
@@ -585,8 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63073.15,
-      "change_pct": 0.15
+      "price": 63053.44,
+      "change_pct": 0.12
+    },
+    {
+      "label": "Gold",
+      "price": 4380.4,
+      "change_pct": 0.38
     },
     {
       "label": "Nasdaq100",

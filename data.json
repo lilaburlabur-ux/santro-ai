@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-16T01:39:04+00:00",
-  "as_of_local": "2026-08-16 01:39:04 UTC",
+  "as_of_utc": "2026-08-16T01:45:30+00:00",
+  "as_of_local": "2026-08-16 01:45:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -143,6 +141,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-amd-chip-134300878.html",
           "publisher": "Motley Fool",
           "published": "2026-08-15T13:43:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 102.5,
+      "previous_close": 104.56,
+      "change_pct": -1.97,
+      "market_cap": 538588947287.5,
+      "headlines": [
+        {
+          "title": "Lip-Bu Tan Investing $12 Million of His Own Money into Intel Raise: Daniel Newman Calls It a \u2018Strong Sign of Confidence\u2019 in Chipmaker\u2019s Future",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lip-bu-tan-investing-12-203042032.html",
+          "publisher": "Benzinga",
+          "published": "2026-08-15T20:30:42Z"
+        },
+        {
+          "title": "Nvidia\u2019s Secret $21 Billion SpaceX Windfall \u2014 How One Chip Deal Turned Into a Rocket Fortune",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-secret-21-billion-spacex-134148201.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-15T13:41:48Z"
+        },
+        {
+          "title": "CEO Lip Bu-Tan Just Gave Intel a $10 Million Vote of Confidence",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceo-lip-bu-tan-just-125039590.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-15T12:50:39Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 62981.57,
-      "change_pct": 0.01
+      "price": 62995.88,
+      "change_pct": 0.03
     },
     {
       "label": "Gold",

@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-08-17T05:38:20+00:00",
-  "as_of_local": "2026-08-17 05:38:20 UTC",
+  "as_of_utc": "2026-08-17T05:42:33+00:00",
+  "as_of_local": "2026-08-17 05:42:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 225.16,
-      "previous_close": 225.3,
-      "change_pct": -0.06,
-      "market_cap": 5453600448699.951,
-      "headlines": [
-        {
-          "title": "Why This Memory Chip Boom May Have More Staying Power Than History Suggests",
-          "url": "https://finance.yahoo.com/technology/articles/why-memory-chip-boom-may-052000643.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-17T05:20:00Z"
-        },
-        {
-          "title": "Where Will Palantir Stock Be in 2030?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/where-palantir-stock-2030-035000478.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-17T03:50:00Z"
-        },
-        {
-          "title": "Jensen Huang Doubled Nvidia's Own Sales Forecast to $1 Trillion Through 2027. Here's What That Guidance Means for the Stock's Valuation.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-doubled-nvidias-own-032000622.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-17T03:20:00Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -150,7 +124,7 @@
       "price": 102.5,
       "previous_close": 104.56,
       "change_pct": -1.97,
-      "market_cap": 541825789355.0,
+      "market_cap": 538588947287.5,
       "headlines": [
         {
           "title": "AI Money Moves Put These Five Stocks In Spotlight Last Week: NVDA, INTC, ORCL, AMD, SNDK",
@@ -290,7 +264,7 @@
       "price": 130.46,
       "previous_close": 128.43,
       "change_pct": 1.58,
-      "market_cap": 18492602757.825363,
+      "market_cap": 18529270238.692383,
       "headlines": [
         {
           "title": "Wall Street\u2019s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the \u2018Smart Money?\u2019",
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 11.39,
-          "price": 59860.0,
+          "change_pct": 11.35,
+          "price": 59840.0,
           "currency": "JPY"
         },
         {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 11.39,
-        "price": 59860.0,
+        "change_pct": 11.35,
+        "price": 59840.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 63395.13,
-      "change_pct": 0.59
+      "price": 63406.45,
+      "change_pct": 0.61
     },
     {
       "label": "Gold",
-      "price": 4453.4,
-      "change_pct": 1.67
+      "price": 4456.7,
+      "change_pct": 1.74
     },
     {
       "label": "Nasdaq100",

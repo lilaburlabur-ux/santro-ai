@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Broadcom's AI Financing Could Reach $370 Billion. But It's Not as Bad as It Sounds. | Motley Fool | 2026-08-17 |
 | Stanley Druckenmiller Opens Positions in Hut 8, Riot Platforms And Bitdeer | CryptoProwl | 2026-08-17 |
 | MaxLinear Stock Sells At A Price Its Trailing Year Cannot Explain | Trefis | 2026-08-17 |
 | Druckenmiller dumps Micron, Intel, buys Amazon in Q2 2026 | Quartz | 2026-08-17 |
-| AI Networking Stocks Are Rallying on Monday. Marvell Up 8%, Credo Up 8%, Ciena Joins the Move | 24/7 Wall St. | 2026-08-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Nvidia's Next AI Infrastructure Bet Is Scaling Fast | GuruFocus.com | 2026-08-17 |
 | Four Reasons To Put This Nvidia, AMD Partner On Your Watchlist Right Now | Investor's Business Daily | 2026-08-17 |
 | Druckenmiller dumps Micron, Intel, buys Amazon in Q2 2026 | Quartz | 2026-08-17 |
-| Billionaire David Tepper Trimmed Micron and Sold out of SanDisk. Here’s the New AI Stocks He’s Buying | 24/7 Wall St. | 2026-08-17 |
-| 3 Ways to Protect Your Retirement Savings Ahead of the Market’s Most Volatile Months | Barrons.com | 2026-08-17 |
+| Why There Might Be a Case for Taiwan Semiconductor Stock at $450 in September | Barchart | 2026-08-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

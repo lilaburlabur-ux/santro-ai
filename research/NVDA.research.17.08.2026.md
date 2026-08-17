@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia inks $105 billion deal for OpenAI data center | Yahoo Finance | 2026-08-17 |
+| Nvidia to finance $105B for an OpenAI data center: What to know | Yahoo Finance Video | 2026-08-17 |
 | Micron stock heats up again, crossing $1,000 | Yahoo Finance | 2026-08-17 |
-| Groq Gets Brutal Valuation Reset After Nvidia Deal | GuruFocus.com | 2026-08-17 |
-| A $1.5 Billion Reason Why Nvidia Stock In Focus | GuruFocus.com | 2026-08-17 |
+| Morgan Stanley Delivers a Bullish Message for Nvidia Stock Investors | GuruFocus.com | 2026-08-17 |
+| Broadcom's AI Financing Could Reach $370 Billion. But It's Not as Bad as It Sounds. | Motley Fool | 2026-08-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

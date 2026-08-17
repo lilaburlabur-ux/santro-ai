@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech searches for gains as stocks teeter at the open: AlphaCheck | Yahoo Finance | 2026-08-17 |
-| Micron stock heats up again, crossing $1,000 | Yahoo Finance | 2026-08-17 |
+| Trump admin. urges Apple not to purchase Chinese memory chips, but this presents a problem | Yahoo Finance Video | 2026-08-17 |
+| Bank of America Sees 50% Upside in Micron | GuruFocus.com | 2026-08-17 |
+| US Equity Markets End Lower Amid Rise in Crude Oil Prices Following Trump's Threat to Attack Oman | MT Newswires | 2026-08-17 |
 | The Last Memory Boom Ended With Micron Losing $5.8 Billion in a Single Year | Motley Fool | 2026-08-17 |
-| SanDisk’s Analyst Day Just Strengthened Micron’s $1,550 Bull Case | Insider Monkey | 2026-08-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

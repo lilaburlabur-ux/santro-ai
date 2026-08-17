@@ -38,8 +38,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 |---|---|---|
 | Tech searches for gains as stocks teeter at the open: AlphaCheck | Yahoo Finance | 2026-08-17 |
 | Nvidia, Alphabet, Peter Thiel: SpaceX Top Shareholders Disclosed | Investor's Business Daily | 2026-08-17 |
+| Billionaire Masayoshi Son  Put 66% of His $18 Billion US Portfolio Into 1 Stock | 24/7 Wall St. | 2026-08-17 |
 | Billionaire Masayoshi Son  Put 66% of Its $18 Billion US Portfolio Into 1 Stock | 24/7 Wall St. | 2026-08-17 |
-| Sector Update: Tech Stocks Rise Late Afternoon | MT Newswires | 2026-08-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

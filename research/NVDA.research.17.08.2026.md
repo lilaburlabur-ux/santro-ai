@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia to finance $105B for an OpenAI data center: What to know | Yahoo Finance Video | 2026-08-17 |
+| Tech stocks today: Anthropic's huge haul, Meta trial to kick off | Yahoo Finance | 2026-08-17 |
+| WSJ reports $3T in AI spending commitments is kept off balance sheets: A full breakdown | Yahoo Finance Video | 2026-08-17 |
 | Micron stock heats up again, crossing $1,000 | Yahoo Finance | 2026-08-17 |
-| Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX Rallies | Investor's Business Daily | 2026-08-17 |
-| Penguin Solutions Highlights AI Factory Platform, MemoryAI for Inference Growth | MarketBeat | 2026-08-17 |
+| BlackRock (BLK) & NVIDIA Corporation (NVDA): BlackRock’s Larry Fink Says the US Alone Needs 70 Gigawatts of Power for AI | Insider Monkey | 2026-08-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Tech searches for gains as stocks teeter at the open: AlphaCheck | Yahoo Finance | 2026-08-17 |
+| Stocks to Watch Recap: Alibaba, L3Harris, Diana Shipping, BHP | The Wall Street Journal | 2026-08-17 |
 | Micron Stock Has A New Profit Floor, But Did It Build A Ceiling Too? | Trefis | 2026-08-17 |
 | Nvidia, Alphabet, Peter Thiel: SpaceX Top Shareholders Disclosed | Investor's Business Daily | 2026-08-17 |
-| Billionaire Masayoshi Son  Put 66% of His $18 Billion US Portfolio Into 1 Stock | 24/7 Wall St. | 2026-08-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-17T21:14:26+00:00",
+  "as_of": "2026-08-17T21:20:06+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "CBRS",
    "company": "Cerebras Systems Inc",
-   "move_pct": 15.23,
-   "price": 252.34,
+   "move_pct": 15.29,
+   "price": 252.47,
    "volume": 14717242,
    "volume_vs_avg": "~2x",
    "heat_score": 90,
@@ -25,26 +25,10 @@
   },
   {
    "rank": 2,
-   "ticker": "MSFT",
-   "company": "Microsoft Corp",
-   "move_pct": -7.19,
-   "price": 459.8,
-   "volume": 28250867,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 44,
-   "direction": "down",
-   "why": "Why Microsoft Stock Dropped Today",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-microsoft-stock-dropped-today-194852216.html",
-   "published": "2026-08-17T19:48:52Z",
-   "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
-   "rank": 3,
    "ticker": "TER",
    "company": "Teradyne Inc",
-   "move_pct": 5.92,
-   "price": 443.6,
+   "move_pct": 5.78,
+   "price": 443.0,
    "volume": 3100939,
    "volume_vs_avg": "~0.9x",
    "heat_score": 40,
@@ -56,14 +40,14 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
-   "move_pct": 5.4,
-   "price": 234.0,
+   "move_pct": 5.49,
+   "price": 234.2,
    "volume": 20909958,
    "volume_vs_avg": "~0.9x",
-   "heat_score": 38,
+   "heat_score": 39,
    "direction": "up",
    "why": "Marvell Stock Surges 6.1% as AI Memory Rally Spreads",
    "catalyst_type": "momentum_narrative",
@@ -72,11 +56,11 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "AMAT",
    "company": "Applied Materials Inc",
-   "move_pct": 5.04,
-   "price": 532.75,
+   "move_pct": 5.05,
+   "price": 532.78,
    "volume": 8048476,
    "volume_vs_avg": "~1.0x",
    "heat_score": 38,
@@ -88,11 +72,11 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "ticker": "TTD",
    "company": "Trade Desk Inc",
-   "move_pct": -5.11,
-   "price": 13.42,
+   "move_pct": -5.2,
+   "price": 13.4,
    "volume": 22506951,
    "volume_vs_avg": "~0.9x",
    "heat_score": 38,
@@ -102,22 +86,6 @@
    "source_url": "https://finance.yahoo.com/media-advertising/articles/trade-desk-falls-6-applovin-191233603.html",
    "published": "2026-08-17T19:12:33Z",
    "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 7,
-   "ticker": "NXE",
-   "company": "NexGen Energy Ltd",
-   "move_pct": 5.39,
-   "price": 10.95,
-   "volume": 14809308,
-   "volume_vs_avg": "~3x",
-   "heat_score": 34,
-   "direction": "up",
-   "why": "Moving up 5.4% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": "Powering AI"
   }
  ]
 }

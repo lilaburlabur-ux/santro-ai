@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-17T10:02:42+00:00",
-  "as_of_local": "2026-08-17 10:02:42 UTC",
+  "as_of_utc": "2026-08-17T10:07:26+00:00",
+  "as_of_local": "2026-08-17 10:07:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -31,6 +29,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-borrowed-25-billion-buy-091200447.html",
           "publisher": "Motley Fool",
           "published": "2026-08-17T09:12:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 426.35,
+      "previous_close": 430.49,
+      "change_pct": -0.96,
+      "market_cap": 2211253227098.2754,
+      "headlines": [
+        {
+          "title": "Wall Street\u2019s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the \u2018Smart Money?\u2019",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-biggest-funds-dumping-221314247.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-16T22:13:14Z"
+        },
+        {
+          "title": "SpaceX is Planning to Spend Up to $500 Billion on Data Centers. Here\u2019s Why Elon Musk is Pushing All-In",
+          "url": "https://finance.yahoo.com/technology/ai/articles/spacex-planning-spend-500-billion-133155872.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-16T13:31:55Z"
+        },
+        {
+          "title": "Should You Buy Taiwan Semiconductor Stock Below $440? Here's What History Says.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-taiwan-semiconductor-stock-below-115500690.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-16T11:55:00Z"
         }
       ]
     },
@@ -559,18 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63247.54,
-      "change_pct": 0.68
+      "price": 63254.06,
+      "change_pct": 0.69
     },
     {
       "label": "Gold",
-      "price": 4450.5,
-      "change_pct": 1.6
-    },
-    {
-      "label": "Nasdaq100",
-      "price": 30046.14,
-      "change_pct": -0.13
+      "price": 4451.0,
+      "change_pct": 1.61
     }
   ]
 }

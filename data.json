@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-17T22:49:00+00:00",
-  "as_of_local": "2026-08-17 22:49:00 UTC",
+  "as_of_utc": "2026-08-17T22:54:22+00:00",
+  "as_of_local": "2026-08-17 22:54:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -171,6 +169,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-profit-floor-did-203428815.html",
           "publisher": "Trefis",
           "published": "2026-08-17T20:34:28Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 271.43,
+      "previous_close": 279.44,
+      "change_pct": -2.87,
+      "market_cap": 289886843761.41486,
+      "headlines": [
+        {
+          "title": "ARM CFO Says \u2018Delivering Silicon Is Definitely More Complicated\u2019 As Chip Designer Eyes Deals To Go From Licensing To Making Chips: Report",
+          "url": "https://finance.yahoo.com/technology/ai/articles/arm-cfo-says-delivering-silicon-152335081.html",
+          "publisher": "Stocktwits",
+          "published": "2026-08-17T15:23:35Z"
+        },
+        {
+          "title": "Stanley Druckenmiller\u2019s Big Bet: New Broadcom, Intel and Arm Stakes in One Quarter",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-big-bet-broadcom-140036254.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-16T14:00:36Z"
+        },
+        {
+          "title": "The Bull Market Is Almost Back for Chip Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bull-market-almost-back-chip-205554469.html",
+          "publisher": "Investopedia",
+          "published": "2026-08-13T20:55:54Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64246.57,
-      "change_pct": 2.27
+      "price": 64236.52,
+      "change_pct": 2.26
     },
     {
       "label": "Gold",
-      "price": 4469.8,
-      "change_pct": 2.04
+      "price": 4471.0,
+      "change_pct": 2.07
     },
     {
       "label": "Nasdaq100",

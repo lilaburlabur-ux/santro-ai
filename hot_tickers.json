@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-15T00:52:17+00:00",
+  "as_of": "2026-08-17T00:04:46+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -13,14 +13,14 @@
    "company": "Broadcom Inc",
    "move_pct": -5.94,
    "price": 392.99,
-   "volume": 29203339,
-   "volume_vs_avg": "~1.5x",
+   "volume": 29432900,
+   "volume_vs_avg": "~2x",
    "heat_score": 43,
    "direction": "down",
-   "why": "Third Point Exited Nvidia and Broadcom, Made New Bet on Warner Bros. Discovery in Second Quarter",
-   "catalyst_type": "earnings",
-   "source_url": "https://www.barrons.com/articles/third-point-nvidia-broadcom-warner-bros-discovery-stock-1f4560da?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-08-14T22:43:00Z",
+   "why": "Wall Street\u2019s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the \u2018Smart Money?\u2019",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-biggest-funds-dumping-221314247.html",
+   "published": "2026-08-16T22:13:14Z",
    "sector": "AI Chips & Compute"
   },
   {
@@ -29,31 +29,15 @@
    "company": "Advanced Micro Devices Inc",
    "move_pct": 6.5,
    "price": 514.39,
-   "volume": 24928819,
+   "volume": 25481000,
    "volume_vs_avg": "~0.9x",
    "heat_score": 42,
    "direction": "up",
-   "why": "Druckenmiller loads up on Amazon and AMD while dumping some chipmakers, 13F shows",
+   "why": "1 Major Red Flag AMD Investors Can't Afford to Ignore",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/druckenmiller-loads-amazon-amd-while-215638635.html",
-   "published": "2026-08-14T21:56:38Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/1-major-red-flag-amd-201800600.html",
+   "published": "2026-08-16T20:18:00Z",
    "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 3,
-   "ticker": "AMAT",
-   "company": "Applied Materials Inc",
-   "move_pct": -5.12,
-   "price": 507.18,
-   "volume": 12513552,
-   "volume_vs_avg": "~2x",
-   "heat_score": 41,
-   "direction": "down",
-   "why": "Applied Materials (AMAT) Stock: A Top AI Pick After Record Q3 Results",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/applied-materials-amat-stock-top-213500557.html",
-   "published": "2026-08-14T21:35:00Z",
-   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

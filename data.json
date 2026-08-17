@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-17T20:44:57+00:00",
-  "as_of_local": "2026-08-17 20:44:57 UTC",
+  "as_of_utc": "2026-08-17T20:46:42+00:00",
+  "as_of_local": "2026-08-17 20:46:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -71,6 +69,12 @@
       "market_cap": 1867017162255.582,
       "headlines": [
         {
+          "title": "Broadcom's AI Financing Could Reach $370 Billion. But It's Not as Bad as It Sounds.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/broadcoms-ai-financing-could-reach-203701624.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-17T20:37:01Z"
+        },
+        {
           "title": "Stanley Druckenmiller Opens Positions in Hut 8, Riot Platforms And Bitdeer",
           "url": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-opens-positions-hut-194500376.html",
           "publisher": "CryptoProwl",
@@ -81,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/maxlinear-stock-sells-price-trailing-174824433.html",
           "publisher": "Trefis",
           "published": "2026-08-17T17:48:24Z"
-        },
-        {
-          "title": "Druckenmiller dumps Micron, Intel, buys Amazon in Q2 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/druckenmiller-dumps-micron-intel-buys-172050129.html",
-          "publisher": "Quartz",
-          "published": "2026-08-17T17:20:50Z"
         }
       ]
     },
@@ -152,7 +150,7 @@
       "price": 103.49,
       "previous_close": 102.5,
       "change_pct": 0.97,
-      "market_cap": 547059022272.0409,
+      "market_cap": 543790917114.47076,
       "headlines": [
         {
           "title": "Tech searches for gains as stocks teeter at the open: AlphaCheck",
@@ -171,6 +169,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-masayoshi-son-put-66-195424842.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-17T19:54:24Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 271.43,
+      "previous_close": 279.44,
+      "change_pct": -2.87,
+      "market_cap": 289886843761.41486,
+      "headlines": [
+        {
+          "title": "ARM CFO Says \u2018Delivering Silicon Is Definitely More Complicated\u2019 As Chip Designer Eyes Deals To Go From Licensing To Making Chips: Report",
+          "url": "https://finance.yahoo.com/technology/ai/articles/arm-cfo-says-delivering-silicon-152335081.html",
+          "publisher": "Stocktwits",
+          "published": "2026-08-17T15:23:35Z"
+        },
+        {
+          "title": "Stanley Druckenmiller\u2019s Big Bet: New Broadcom, Intel and Arm Stakes in One Quarter",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-big-bet-broadcom-140036254.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-16T14:00:36Z"
+        },
+        {
+          "title": "The Bull Market Is Almost Back for Chip Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bull-market-almost-back-chip-205554469.html",
+          "publisher": "Investopedia",
+          "published": "2026-08-13T20:55:54Z"
         }
       ]
     },
@@ -264,7 +290,7 @@
       "price": 132.67,
       "previous_close": 130.46,
       "change_pct": 1.69,
-      "market_cap": 18805867298.479446,
+      "market_cap": 18843155926.174805,
       "headlines": [
         {
           "title": "Wall Street\u2019s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the \u2018Smart Money?\u2019",
@@ -559,12 +585,12 @@
     },
     {
       "label": "BTC",
-      "price": 64345.31,
-      "change_pct": 2.43
+      "price": 64325.01,
+      "change_pct": 2.4
     },
     {
       "label": "Gold",
-      "price": 4471.6,
+      "price": 4471.4,
       "change_pct": 2.08
     },
     {

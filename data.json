@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-17T00:40:20+00:00",
-  "as_of_local": "2026-08-17 00:40:20 UTC",
+  "as_of_utc": "2026-08-17T00:45:18+00:00",
+  "as_of_local": "2026-08-17 00:45:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5453600448699.951,
       "headlines": [
         {
+          "title": "Mastercard CEO: Cybersecurity Is Our Fastest-Growing Business",
+          "url": "https://finance.yahoo.com/technology/ai/articles/mastercard-ceo-cybersecurity-fastest-growing-003437050.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-17T00:34:37Z"
+        },
+        {
           "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Needs This; Walmart Looms",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/nuscales-potential-tva-deal-could-002000195.html",
           "publisher": "Motley Fool",
           "published": "2026-08-17T00:20:00Z"
-        },
-        {
-          "title": "Home Depot's Customer Transactions Have Fallen for 5 Straight Quarters",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/home-depots-customer-transactions-fallen-001200431.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-17T00:12:00Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "price": 102.5,
       "previous_close": 104.56,
       "change_pct": -1.97,
-      "market_cap": 541825789355.0,
+      "market_cap": 538588947287.5,
       "headlines": [
         {
           "title": "Wall Street\u2019s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the \u2018Smart Money?\u2019",
@@ -290,7 +290,7 @@
       "price": 130.46,
       "previous_close": 128.43,
       "change_pct": 1.58,
-      "market_cap": 18492602757.825363,
+      "market_cap": 18529270238.692383,
       "headlines": [
         {
           "title": "Wall Street\u2019s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the \u2018Smart Money?\u2019",
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 4.06,
-          "price": 55920.0,
+          "change_pct": 4.21,
+          "price": 56000.0,
           "currency": "JPY"
         },
         {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 4.06,
-        "price": 55920.0,
+        "change_pct": 4.21,
+        "price": 56000.0,
         "currency": "JPY"
       },
       {
@@ -579,14 +579,19 @@
   },
   "tape": [
     {
+      "label": "SPX",
+      "price": 7785.76,
+      "change_pct": -0.17
+    },
+    {
       "label": "BTC",
-      "price": 62736.2,
-      "change_pct": -0.46
+      "price": 62863.15,
+      "change_pct": -0.26
     },
     {
       "label": "Gold",
-      "price": 4445.6,
-      "change_pct": 1.49
+      "price": 4449.1,
+      "change_pct": 1.57
     },
     {
       "label": "Nasdaq100",

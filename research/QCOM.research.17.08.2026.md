@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| Micron Stock Has A New Profit Floor, But Did It Build A Ceiling Too? | Trefis | 2026-08-17 |
 | MaxLinear Stock Sells At A Price Its Trailing Year Cannot Explain | Trefis | 2026-08-17 |
 | QUALCOMM (QCOM) Stock Looks Reasonable Even As Earnings Stay Cheap | Simply Wall St. | 2026-08-17 |
 | What Quadrupled Intel Stock Was Not Foundry Customers | Trefis | 2026-08-17 |
-| Billionaire David Tepper Trimmed Micron and Sold out of SanDisk. Here’s the New AI Stocks He’s Buying | 24/7 Wall St. | 2026-08-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

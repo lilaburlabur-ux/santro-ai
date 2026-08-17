@@ -37,9 +37,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | Micron stock heats up again, crossing $1,000 | Yahoo Finance | 2026-08-17 |
+| Penguin Solutions Highlights AI Factory Platform, MemoryAI for Inference Growth | MarketBeat | 2026-08-17 |
+| Micron Stock Has A New Profit Floor, But Did It Build A Ceiling Too? | Trefis | 2026-08-17 |
 | Nvidia, ASML Lead Five Stocks Near Buy Points With Roaring Growth | Investor's Business Daily | 2026-08-17 |
-| AMD filing reveals unexpected SpaceX and Nutanix bet | TheStreet | 2026-08-17 |
-| Four Reasons To Put This Nvidia, AMD Partner On Your Watchlist Right Now | Investor's Business Daily | 2026-08-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -37,9 +37,9 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Headline | Source | Date |
 |---|---|---|
 | Trump admin. urges Apple not to purchase Chinese memory chips, but this presents a problem | Yahoo Finance Video | 2026-08-17 |
-| Bank of America Sees 50% Upside in Micron | GuruFocus.com | 2026-08-17 |
-| US Equity Markets End Lower Amid Rise in Crude Oil Prices Following Trump's Threat to Attack Oman | MT Newswires | 2026-08-17 |
-| The Last Memory Boom Ended With Micron Losing $5.8 Billion in a Single Year | Motley Fool | 2026-08-17 |
+| Stock Market Today: Dow Falls As This Key Yield Hits 19-Year High; Warren Buffett Stock Falls (Live Coverage) | Investor's Business Daily | 2026-08-17 |
+| Investors Remember Why They Love Memory-Chip Stocks | Investor's Business Daily | 2026-08-17 |
+| Micron Stock Has A New Profit Floor, But Did It Build A Ceiling Too? | Trefis | 2026-08-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-17T14:02:36+00:00",
+  "as_of": "2026-08-17T14:17:45+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,50 +9,34 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "SPCX",
+   "company": "SpaceX",
+   "move_pct": 6.48,
+   "price": 149.07,
+   "volume": 39699137,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 40,
+   "direction": "up",
+   "why": "Space Exploration Technologies Corp. (SPCX) Says $100 Billion in Revenue Is Coming by December. Here\u2019s the Math Behind It: (ready for Vardah)",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/space-exploration-technologies-corp-spcx-140305877.html",
+   "published": "2026-08-17T14:03:05Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 2,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
-   "move_pct": 6.72,
-   "price": 236.95,
-   "volume": 5851545,
+   "move_pct": 5.8,
+   "price": 234.9,
+   "volume": 6780283,
    "volume_vs_avg": "~0.3x",
-   "heat_score": 40,
+   "heat_score": 37,
    "direction": "up",
    "why": "Who\u2019s Really The King of Custom Silicon, Broadcom or Marvell Technology?",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/technology/ai/articles/really-king-custom-silicon-broadcom-111719984.html",
    "published": "2026-08-17T11:17:19Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 2,
-   "ticker": "SPCX",
-   "company": "SpaceX",
-   "move_pct": 5.96,
-   "price": 148.34,
-   "volume": 29883365,
-   "volume_vs_avg": "~0.3x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "Nvidia just took a very serious step on SpaceX stock",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-took-very-serious-133300157.html",
-   "published": "2026-08-17T13:33:00Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 3,
-   "ticker": "MU",
-   "company": "Micron Technology Inc",
-   "move_pct": 5.0,
-   "price": 1020.27,
-   "volume": 8482347,
-   "volume_vs_avg": "~0.2x",
-   "heat_score": 34,
-   "direction": "up",
-   "why": "Sandisk Just Gave Micron Technology Investors Great News",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-just-gave-micron-technology-131502592.html",
-   "published": "2026-08-17T13:15:02Z",
    "sector": "AI Chips & Compute"
   }
  ]

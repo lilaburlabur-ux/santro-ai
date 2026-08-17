@@ -38,8 +38,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 |---|---|---|
 | Tech searches for gains as stocks teeter at the open: AlphaCheck | Yahoo Finance | 2026-08-17 |
 | Micron stock heats up again, crossing $1,000 | Yahoo Finance | 2026-08-17 |
+| The Last Memory Boom Ended With Micron Losing $5.8 Billion in a Single Year | Motley Fool | 2026-08-17 |
 | SanDisk’s Analyst Day Just Strengthened Micron’s $1,550 Bull Case | Insider Monkey | 2026-08-17 |
-| Micron Technology (MU) Gains as AI Boom Reshapes the Memory Industry | Insider Monkey | 2026-08-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
-| Valuation | P/E 22.89, forward P/E 6.53, P/S —, P/B 11.34 | EV/Sales 11.94, EV/EBITDA 15.80 |
+| Valuation | P/E 22.89, forward P/E 6.53, P/S 12.66, P/B 11.34 | EV/Sales 11.94, EV/EBITDA 15.80 |
 | Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,501.98 (43 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -123,7 +123,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | P/E (ttm) | 22.89 | Insider ownership | 0.24% |
 | Forward P/E | 6.53 | Short float | 2.65% |
 | PEG (trailing) | 0.14 | Avg volume | 50,030,500 |
-| P/S | — | Employees | 53,000 |
+| P/S | 12.66 | Employees | 53,000 |
 | P/B | 11.34 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions

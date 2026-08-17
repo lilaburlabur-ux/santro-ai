@@ -13,7 +13,7 @@
 | MRVL | $210.32B | +197% | 37.5 | 29% | High | Low (expensive) | High |
 | QCOM | $170.29B | +5% | 15.9 | 21% | Moderate | Reasonable | Elevated |
 | NXPI | $58.68B | +2% | 12.9 | 23% | Low | Reasonable | Elevated |
-| LSCC | $18.84B | +109% | 41.3 | 6% | High | Low (expensive) | High |
+| LSCC | $18.81B | +109% | 41.3 | 6% | High | Low (expensive) | High |
 | SYNA | $4.32B | +63% | 16.8 | -41% | High | Reasonable | High |
 | CEVA | $920.92M | +36% | 41.1 | -9% | Moderate | Low (expensive) | High |
 | AVAV | $9.17B | -27% | 41.1 | -13% | Low | Low (expensive) | High |

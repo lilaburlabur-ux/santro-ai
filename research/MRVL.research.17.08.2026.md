@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Marvell Stock Surges 6.1% as AI Memory Rally Spreads | GuruFocus.com | 2026-08-17 |
 | Why Marvell Technology Rallied Today | Motley Fool | 2026-08-17 |
 | Stock Market Today: Dow Falls, Oil Up After Trump Oman Threat; This Peter Thiel Stock Jumps (Live Coverage) | Investor's Business Daily | 2026-08-17 |
 | Stocks to Watch: Alibaba, L3Harris, Diana Shipping, BHP | The Wall Street Journal | 2026-08-17 |
-| Sandisk, Micron, Coherent, Boeing, Apple, Amazon, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

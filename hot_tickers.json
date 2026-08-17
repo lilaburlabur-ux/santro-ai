@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-17T15:13:10+00:00",
+  "as_of": "2026-08-17T15:28:18+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,13 +9,29 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "CBRS",
+   "company": "Cerebras Systems Inc",
+   "move_pct": 13.96,
+   "price": 249.54,
+   "volume": 9273168,
+   "volume_vs_avg": "~2x",
+   "heat_score": 82,
+   "direction": "up",
+   "why": "Does Cerebras (CBRS) Have the Potential to Rally 29.44% as Wall Street Analysts Expect?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/does-cerebras-cbrs-potential-rally-135503208.html",
+   "published": "2026-08-17T13:55:03Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
    "ticker": "MU",
    "company": "Micron Technology Inc",
-   "move_pct": 6.28,
-   "price": 1032.71,
-   "volume": 15827011,
+   "move_pct": 6.46,
+   "price": 1034.39,
+   "volume": 16745242,
    "volume_vs_avg": "~0.4x",
-   "heat_score": 39,
+   "heat_score": 40,
    "direction": "up",
    "why": "SanDisk Rallies 8%, Western Digital Rises 6%, Micron Gains 5% as Elon Musk Flags a Memory Bottleneck",
    "catalyst_type": "momentum_narrative",
@@ -24,19 +40,19 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 2,
+   "rank": 3,
    "ticker": "SPCX",
    "company": "SpaceX",
-   "move_pct": 5.95,
-   "price": 148.33,
-   "volume": 59491248,
+   "move_pct": 5.96,
+   "price": 148.35,
+   "volume": 62318648,
    "volume_vs_avg": "~0.6x",
    "heat_score": 39,
    "direction": "up",
-   "why": "Nvidia, Alphabet, Peter Thiel: SpaceX Top Shareholders Disclosed",
+   "why": "SpaceX shareholders include Google, Nvidia, BlackRock: Tracking the stock's volatility",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/news/spacex-stock-elon-musk-nvidia-alphabet-google-peter-thiel/?src=A00220&yptr=yahoo",
-   "published": "2026-08-17T14:58:57Z",
+   "source_url": "https://finance.yahoo.com/video/spacex-shareholders-google-nvidia-blackrock-150348057.html",
+   "published": "2026-08-17T15:03:48Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]

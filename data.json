@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-17T08:39:49+00:00",
-  "as_of_local": "2026-08-17 08:39:49 UTC",
+  "as_of_utc": "2026-08-17T08:44:51+00:00",
+  "as_of_local": "2026-08-17 08:44:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-openai-close-081931110.html",
           "publisher": "MT Newswires",
           "published": "2026-08-17T08:19:31Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 426.35,
-      "previous_close": 430.49,
-      "change_pct": -0.96,
-      "market_cap": 2211253227098.2754,
-      "headlines": [
-        {
-          "title": "Wall Street\u2019s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the \u2018Smart Money?\u2019",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-biggest-funds-dumping-221314247.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-16T22:13:14Z"
-        },
-        {
-          "title": "SpaceX is Planning to Spend Up to $500 Billion on Data Centers. Here\u2019s Why Elon Musk is Pushing All-In",
-          "url": "https://finance.yahoo.com/technology/ai/articles/spacex-planning-spend-500-billion-133155872.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-16T13:31:55Z"
-        },
-        {
-          "title": "Should You Buy Taiwan Semiconductor Stock Below $440? Here's What History Says.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-taiwan-semiconductor-stock-below-115500690.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-16T11:55:00Z"
         }
       ]
     },
@@ -150,7 +124,7 @@
       "price": 102.5,
       "previous_close": 104.56,
       "change_pct": -1.97,
-      "market_cap": 541825789355.0,
+      "market_cap": 538588947287.5,
       "headlines": [
         {
           "title": "Higgsfield Hits $5.4 Billion Valuation: Is AI Video Back?",
@@ -290,7 +264,7 @@
       "price": 130.46,
       "previous_close": 128.43,
       "change_pct": 1.58,
-      "market_cap": 18492602757.825363,
+      "market_cap": 18529270238.692383,
       "headlines": [
         {
           "title": "Wall Street\u2019s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the \u2018Smart Money?\u2019",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 63332.89,
-      "change_pct": 0.82
+      "price": 63301.37,
+      "change_pct": 0.77
     },
     {
       "label": "Gold",
-      "price": 4457.2,
-      "change_pct": 1.75
+      "price": 4456.4,
+      "change_pct": 1.74
     },
     {
       "label": "Nasdaq100",

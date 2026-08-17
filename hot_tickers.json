@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-17T19:07:13+00:00",
+  "as_of": "2026-08-17T19:15:39+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,9 +11,9 @@
    "rank": 1,
    "ticker": "CBRS",
    "company": "Cerebras Systems Inc",
-   "move_pct": 16.41,
-   "price": 254.91,
-   "volume": 12817631,
+   "move_pct": 15.74,
+   "price": 253.45,
+   "volume": 12939402,
    "volume_vs_avg": "~2x",
    "heat_score": 88,
    "direction": "up",
@@ -27,17 +27,33 @@
    "rank": 2,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
-   "move_pct": 5.74,
-   "price": 234.77,
-   "volume": 15370415,
+   "move_pct": 5.4,
+   "price": 234.02,
+   "volume": 15615154,
    "volume_vs_avg": "~0.7x",
-   "heat_score": 38,
+   "heat_score": 37,
    "direction": "up",
    "why": "Marvell Technology (MRVL) Deepens Its CPO Role In AI Data Center Buildouts",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-mrvl-deepens-cpo-171019289.html",
    "published": "2026-08-17T17:10:19Z",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 3,
+   "ticker": "TTD",
+   "company": "Trade Desk Inc",
+   "move_pct": -5.27,
+   "price": 13.4,
+   "volume": 16225529,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 37,
+   "direction": "down",
+   "why": "Why The Trade Desk Stock Plunged to (Another) 7-Year Low Today",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-trade-desk-stock-plunged-185511974.html",
+   "published": "2026-08-17T18:55:11Z",
+   "sector": "AI Platforms, Internet & AdTech"
   }
  ]
 }

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-17T00:09:42+00:00",
-  "as_of_local": "2026-08-17 00:09:42 UTC",
+  "as_of_utc": "2026-08-17T00:14:48+00:00",
+  "as_of_local": "2026-08-17 00:14:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -89,34 +91,6 @@
       ]
     },
     {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 971.66,
-      "previous_close": 949.83,
-      "change_pct": 2.3,
-      "market_cap": 1097386118770.2776,
-      "headlines": [
-        {
-          "title": "Wall Street\u2019s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the \u2018Smart Money?\u2019",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-biggest-funds-dumping-221314247.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-16T22:13:14Z"
-        },
-        {
-          "title": "Micron Is Worth $1.1 Trillion and Sits 23% Below Its 52-Week High. Is the Stock a Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-worth-1-1-trillion-214900136.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-16T21:49:00Z"
-        },
-        {
-          "title": "Billionaire Investor David Tepper Just Exited 12 Stocks. These 5 Are the Most Surprising.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-investor-david-tepper-just-214351429.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-16T21:43:51Z"
-        }
-      ]
-    },
-    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 514.39,
@@ -150,7 +124,7 @@
       "price": 102.5,
       "previous_close": 104.56,
       "change_pct": -1.97,
-      "market_cap": 538588947287.5,
+      "market_cap": 541825789355.0,
       "headlines": [
         {
           "title": "Wall Street\u2019s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the \u2018Smart Money?\u2019",
@@ -290,7 +264,7 @@
       "price": 130.46,
       "previous_close": 128.43,
       "change_pct": 1.58,
-      "market_cap": 18529270238.692383,
+      "market_cap": 18492602757.825363,
       "headlines": [
         {
           "title": "Wall Street\u2019s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the \u2018Smart Money?\u2019",
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 2.3,
-          "price": 971.66,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 2.3,
-        "price": 971.66,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62814.13,
-      "change_pct": -0.33
+      "price": 62820.8,
+      "change_pct": -0.32
     },
     {
       "label": "Gold",
-      "price": 4425.8,
-      "change_pct": 1.04
+      "price": 4429.7,
+      "change_pct": 1.13
     },
     {
       "label": "Nasdaq100",

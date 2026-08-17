@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-17T00:14:48+00:00",
-  "as_of_local": "2026-08-17 00:14:48 UTC",
+  "as_of_utc": "2026-08-17T00:19:48+00:00",
+  "as_of_local": "2026-08-17 00:19:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-big-bet-broadcom-140036254.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-16T14:00:36Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 971.66,
+      "previous_close": 949.83,
+      "change_pct": 2.3,
+      "market_cap": 1097386118770.2776,
+      "headlines": [
+        {
+          "title": "Wall Street\u2019s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the \u2018Smart Money?\u2019",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-biggest-funds-dumping-221314247.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-16T22:13:14Z"
+        },
+        {
+          "title": "Micron Is Worth $1.1 Trillion and Sits 23% Below Its 52-Week High. Is the Stock a Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-worth-1-1-trillion-214900136.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-16T21:49:00Z"
+        },
+        {
+          "title": "Billionaire Investor David Tepper Just Exited 12 Stocks. These 5 Are the Most Surprising.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-investor-david-tepper-just-214351429.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-16T21:43:51Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 2.3,
+          "price": 971.66,
           "currency": "USD"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 3.75,
-          "price": 53740.0,
+          "change_pct": 3.28,
+          "price": 55500.0,
           "currency": "JPY"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 2.3,
+        "price": 971.66,
         "currency": "USD"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 3.75,
-        "price": 53740.0,
+        "change_pct": 3.28,
+        "price": 55500.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 62820.8,
-      "change_pct": -0.32
+      "price": 62773.84,
+      "change_pct": -0.4
     },
     {
       "label": "Gold",
-      "price": 4429.7,
-      "change_pct": 1.13
+      "price": 4428.6,
+      "change_pct": 1.1
     },
     {
       "label": "Nasdaq100",

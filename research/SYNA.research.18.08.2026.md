@@ -15,7 +15,7 @@ Signed file: `SYNA.research.18.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +56.93%; price +11.14% vs SMA200. |
+| Technical momentum | Moderate | 1Y +52.52%; price +11.73% vs SMA200. |
 | Fresh setup quality | Poor / broken | -28.96% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-41.00%). |
 | Value attractiveness | Reasonable | Forward P/E 15.94, EV/Sales 3.98. |
@@ -45,9 +45,9 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $104.83; 52w high $147.57 (-28.96%); 52w low $58.52 (+79.14%) |
-| Trend | +11.14% vs SMA200, -12.41% vs SMA50, -3.47% vs SMA20 |
+| Trend | +11.73% vs SMA200, -12.76% vs SMA50, -3.16% vs SMA20 |
 | Momentum | RSI(14) 42.8 (neutral) |
-| Volatility | ATR(14) 6.06 (~5.8% of price); beta 1.96 |
+| Volatility | ATR(14) 6.09 (~5.8% of price); beta 1.96 |
 | Setup perspective | -28.96% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Window | Return |
 |---|---|
 | Week | -2.0% |
-| Month | -7.7% |
-| Quarter | -12.0% |
-| Half Y | +22.8% |
-| 1Y | +56.9% |
+| Month | -9.3% |
+| Quarter | -19.2% |
+| Half Y | +13.9% |
+| 1Y | +52.5% |
 | YTD | +38.4% |
 
 ## 4. Fundamental Analysis
@@ -117,10 +117,10 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Market cap | $4.10B | EV/EBITDA | 51.28 |
 | Beta | 1.96 | Gross margin | 44.72% |
 | RSI(14) | 42.8 | Operating margin | -2.79% |
-| ATR(14) | 6.06 | Profit margin | -41.00% |
-| SMA20 dist | -3.47% | ROA | -1.52% |
-| SMA50 dist | -12.41% | ROE | -42.23% |
-| SMA200 dist | +11.14% | Revenue (ttm) | $1.20B |
+| ATR(14) | 6.09 | Profit margin | -41.00% |
+| SMA20 dist | -3.16% | ROA | -1.52% |
+| SMA50 dist | -12.76% | ROE | -42.23% |
+| SMA200 dist | +11.73% | Revenue (ttm) | $1.20B |
 | 52W high | $147.57 | Revenue growth y/y | 8.90% |
 | 52W low | $58.52 | Inst. ownership | 108.36% |
 | P/E (ttm) | — | Insider ownership | 1.95% |

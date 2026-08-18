@@ -1,11 +1,11 @@
 # MU Research Report
-**Micron Technology, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Micron Technology** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `MU.research.18.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $940.76 (2026-08-18, ~15-min delayed) |
-| Market cap | $1.06T |
+| Market cap | — |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -37,9 +37,9 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Headline | Source | Date |
 |---|---|---|
 | Chip-stock bears are back in control. Here's how to play the downside with limited risk: Alpha Options Playbook | Yahoo Finance | 2026-08-18 |
+| Micron Stock Crashes 7% as AI Memory Trade Suddenly Reverses | GuruFocus.com | 2026-08-18 |
 | Stock Market Today: Nasdaq Hit Hard By Chip Names; Sandisk, Micron Slide As Biotech Soars (Live Coverage) | Investor's Business Daily | 2026-08-18 |
 | NVIDIA vs. Micron: Only One AI Stock Is a Clear Buy Right Now | Zacks | 2026-08-18 |
-| U.S.-China 2026 Tech Race: 2 AI Stocks & 2 Quantum Stocks to Watch | Zacks | 2026-08-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
-| Valuation | P/E 21.28, forward P/E 6.07, P/S 11.77, P/B 10.54 | EV/Sales 12.44, EV/EBITDA 16.46 |
+| Valuation | P/E 21.28, forward P/E 6.07, P/S —, P/B 10.54 | EV/Sales 12.44, EV/EBITDA 16.46 |
 | Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,501.98 (43 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,7 +111,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $940.76 | EV/Sales | 12.44 |
-| Market cap | $1.06T | EV/EBITDA | 16.46 |
+| Market cap | — | EV/EBITDA | 16.46 |
 | Beta | 2.21 | Gross margin | 72.57% |
 | RSI(14) | 52.2 | Operating margin | 80.37% |
 | ATR(14) | 73.09 | Profit margin | 55.91% |
@@ -123,7 +123,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | P/E (ttm) | 21.28 | Insider ownership | 0.24% |
 | Forward P/E | 6.07 | Short float | 2.65% |
 | PEG (trailing) | 0.15 | Avg volume | 49,599,901 |
-| P/S | 11.77 | Employees | 53,000 |
+| P/S | — | Employees | 53,000 |
 | P/B | 10.54 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions

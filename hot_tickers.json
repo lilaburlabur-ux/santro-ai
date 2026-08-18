@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-18T13:17:35+00:00",
+  "as_of": "2026-08-18T13:28:35+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "BIDU",
    "company": "Baidu Inc ADR",
-   "move_pct": -9.13,
-   "price": 94.2,
+   "move_pct": -9.02,
+   "price": 94.32,
    "volume": 3681278,
    "volume_vs_avg": "~2x",
    "heat_score": 65,
@@ -25,51 +25,19 @@
   },
   {
    "rank": 2,
-   "ticker": "UPST",
-   "company": "Upstart Holdings Inc",
-   "move_pct": -5.19,
-   "price": 28.85,
-   "volume": 3969389,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 38,
+   "ticker": "META",
+   "company": "Meta Platforms Inc",
+   "move_pct": -5.33,
+   "price": 558.4,
+   "volume": 17080805,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 39,
    "direction": "down",
-   "why": "Upstart CEO Outlines AI Lending Growth Push, Targets Profitable Home and Auto Expansion",
+   "why": "Meta's Latest Legal Fight Could Get Expensive",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/upstart-ceo-outlines-ai-lending-120202301.html",
-   "published": "2026-08-18T12:02:02Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 3,
-   "ticker": "AMD",
-   "company": "Advanced Micro Devices Inc",
-   "move_pct": -5.23,
-   "price": 487.5,
-   "volume": 19971079,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 37,
-   "direction": "down",
-   "why": "Cathie Wood's ARK Invest Adds Nvidia Stake, Sells AMD Stock Across Four ETFs",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-invest-adds-101429126.html",
-   "published": "2026-08-18T10:14:29Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 4,
-   "ticker": "ORCL",
-   "company": "Oracle Corp",
-   "move_pct": -5.35,
-   "price": 142.47,
-   "volume": 20578382,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 37,
-   "direction": "down",
-   "why": "Oracle Just Raised Its Dividend for a 12th Straight Year to $2 a Share, Even as AI Spending Pressures Free Cash Flow. Is Larry Ellison's Payout Still Safe?",
-   "catalyst_type": "financing",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/oracle-just-raised-dividend-12th-123500531.html",
-   "published": "2026-08-18T12:35:00Z",
-   "sector": "AI Software & Cloud Infrastructure"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/metas-latest-legal-fight-could-115935607.html",
+   "published": "2026-08-18T11:59:35Z",
+   "sector": "AI Platforms, Internet & AdTech"
   }
  ]
 }

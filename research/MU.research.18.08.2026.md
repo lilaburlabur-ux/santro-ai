@@ -1,11 +1,11 @@
 # MU Research Report
-**Micron Technology, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Micron Technology** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `MU.research.18.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $940.76 (2026-08-18, ~15-min delayed) |
-| Market cap | $1.06T |
+| Market cap | — |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -38,8 +38,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 |---|---|---|
 | Chip-stock bears are back in control. Here's how to play the downside with limited risk: Alpha Options Playbook | Yahoo Finance | 2026-08-18 |
 | Global bond sell-off pressures stocks: AlphaCheck | Yahoo Finance | 2026-08-18 |
+| Micron, Other Chip Stocks Drop During Dog Days Of Summer | Investor's Business Daily | 2026-08-18 |
 | Dow Jones Futures: Sandisk, Micron, Credo Lead AI Rug Pull; Target Earnings Due | Investor's Business Daily | 2026-08-18 |
-| Netflix, Salesforce, and Adobe Rally as Investors Rotate Out of Semiconductors and Into Beaten Down Stocks | 24/7 Wall St. | 2026-08-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -111,7 +111,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $940.76 | EV/Sales | 12.44 |
-| Market cap | $1.06T | EV/EBITDA | 16.46 |
+| Market cap | — | EV/EBITDA | 16.46 |
 | Beta | 2.21 | Gross margin | 72.57% |
 | RSI(14) | 52.2 | Operating margin | 80.37% |
 | ATR(14) | 73.09 | Profit margin | 55.91% |

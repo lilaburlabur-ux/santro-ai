@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Micron, Other Chip Stocks Drop During Dog Days Of Summer | Investor's Business Daily | 2026-08-18 |
 | Broadcom Stock Tumbles as $10.8 Billion AI Boom Meets Reality | GuruFocus.com | 2026-08-18 |
 | Nvidia, AMD, Micron Lead Chip Stocks Selloff as Iran Tensions Rattle Markets | GuruFocus.com | 2026-08-18 |
 | 4 Highly Rated Vanguard Dividend and Income Funds | Kiplinger | 2026-08-18 |
-| Will Strong Traction in AI Infrastructure Drive CLS's Revenue Growth? | Zacks | 2026-08-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

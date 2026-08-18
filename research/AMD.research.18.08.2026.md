@@ -1,5 +1,5 @@
 # AMD Research Report
-**Advanced Micro Devices, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**AMD** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `AMD.research.18.08.2026`
 
 | Field | Value |
@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Micron, Other Chip Stocks Drop During Dog Days Of Summer | Investor's Business Daily | 2026-08-18 |
 | AMD’s $1.3 Billion Portfolio Reveals Its Biggest Investments and Where AI Demand Lands Next | 24/7 Wall St. | 2026-08-18 |
 | AMD vs. Nvidia: 1 Metric Tells Me Which Is Clearly the Better Buy for 2026 | Motley Fool | 2026-08-18 |
 | Wedbush Has a Message for AMD Investors After Google Move | GuruFocus.com | 2026-08-18 |
-| Lisa Su Says AMD's Server Revenue Will Grow More Than 80% This Half -- and That's Not the AI Accelerator Business | Motley Fool | 2026-08-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-18T12:31:34+00:00",
-  "as_of_local": "2026-08-18 12:31:34 UTC",
+  "as_of_utc": "2026-08-18T12:36:35+00:00",
+  "as_of_local": "2026-08-18 12:36:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/video/wsj-reports-3t-ai-spending-144501122.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-08-17T14:45:01Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 426.35,
-      "previous_close": 430.49,
-      "change_pct": -0.96,
-      "market_cap": 2235214705382.6104,
-      "headlines": [
-        {
-          "title": "Situational Awareness 13F: Micron and Sandisk dominated fund before July collapse",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/situational-awareness-13f-micron-sandisk-113600565.html",
-          "publisher": "Quartz",
-          "published": "2026-08-18T11:36:00Z"
-        },
-        {
-          "title": "Billionaire David Tepper of Appaloosa Slashed His Micron Stake and Piled Into a \"Fabulous\" AI Stock for a 6th Consecutive Quarter",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-appaloosa-slashed-092600175.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-18T09:26:00Z"
-        },
-        {
-          "title": "Situational Awareness\u2019 13F Reveals an $11 Billion AI Bet That Unraveled in Under a Month",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/situational-awareness-13f-reveals-11-214819871.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-17T21:48:19Z"
         }
       ]
     },
@@ -150,7 +124,7 @@
       "price": 102.5,
       "previous_close": 104.56,
       "change_pct": -1.97,
-      "market_cap": 543790928339.35,
+      "market_cap": 547059033564.37994,
       "headlines": [
         {
           "title": "Tech searches for gains as stocks teeter at the open: AlphaCheck",
@@ -290,7 +264,7 @@
       "price": 130.46,
       "previous_close": 128.43,
       "change_pct": 1.58,
-      "market_cap": 18843156186.239998,
+      "market_cap": 18805867558.03,
       "headlines": [
         {
           "title": "Wall Street\u2019s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the \u2018Smart Money?\u2019",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64204.63,
-      "change_pct": -0.47
+      "price": 64225.01,
+      "change_pct": -0.44
     },
     {
       "label": "Gold",
-      "price": 4455.0,
-      "change_pct": 0.84
+      "price": 4451.4,
+      "change_pct": 0.76
     },
     {
       "label": "Nasdaq100",

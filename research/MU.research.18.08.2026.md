@@ -38,8 +38,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 |---|---|---|
 | Chip-stock bears are back in control. Here's how to play the downside with limited risk: Alpha Options Playbook | Yahoo Finance | 2026-08-18 |
 | Global bond sell-off pressures stocks: AlphaCheck | Yahoo Finance | 2026-08-18 |
+| Dow Jones Futures: Sandisk, Micron, Credo Lead AI Rug Pull; Indexes Near Critical Level | Investor's Business Daily | 2026-08-18 |
 | Micron, Other Chip Stocks Drop During Dog Days Of Summer | Investor's Business Daily | 2026-08-18 |
-| Dow Jones Futures: Sandisk, Micron, Credo Lead AI Rug Pull; Target Earnings Due | Investor's Business Daily | 2026-08-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

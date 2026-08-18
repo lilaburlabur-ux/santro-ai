@@ -38,8 +38,8 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 |---|---|---|
 | Tech Stocks Slide With Bond Yields at Decade Highs | The Wall Street Journal | 2026-08-18 |
 | ARM Stock: The $2 Billion AI Signal Investors Shouldn’t Ignore | 24/7 Wall St. | 2026-08-18 |
+| Chipmaker Sell-Off Weighs on Stock Indices | Barchart | 2026-08-18 |
 | ARM CFO Says ‘Delivering Silicon Is Definitely More Complicated’ As Chip Designer Eyes Deals To Go From Licensing To Making Chips: Report | Stocktwits | 2026-08-17 |
-| Stanley Druckenmiller’s Big Bet: New Broadcom, Intel and Arm Stakes in One Quarter | 24/7 Wall St. | 2026-08-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

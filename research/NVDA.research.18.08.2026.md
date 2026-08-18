@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Chip-stock bears are back in control. Here's how to play the downside with limited risk: Alpha Options Playbook | Yahoo Finance | 2026-08-18 |
+| Prediction: Microsoft Will Be Worth $5 Trillion by 2029. Here's the Math. | Motley Fool | 2026-08-18 |
+| Robotics Stocks Punished Tuesday in AI Sell-Off: Ouster Down 10%, Aeva Technologies Down 12%, Symbotic Down 4% | 24/7 Wall St. | 2026-08-18 |
 | Micron, Other Chip Stocks Drop During Dog Days Of Summer | Investor's Business Daily | 2026-08-18 |
-| AMD’s $1.3 Billion Portfolio Reveals Its Biggest Investments and Where AI Demand Lands Next | 24/7 Wall St. | 2026-08-18 |
-| China’s Favorite Budget Meal? Burgers | Moby | 2026-08-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

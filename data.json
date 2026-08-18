@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-18T22:49:19+00:00",
-  "as_of_local": "2026-08-18 22:49:19 UTC",
+  "as_of_utc": "2026-08-18T22:51:59+00:00",
+  "as_of_local": "2026-08-18 22:51:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LSCC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -287,6 +285,34 @@
       ]
     },
     {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 124.21,
+      "previous_close": 132.67,
+      "change_pct": -6.38,
+      "market_cap": 17641579955.087402,
+      "headlines": [
+        {
+          "title": "4 Famous Billionaire Investors Just Bought This Little Known Semiconductor Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/4-famous-billionaire-investors-just-144017638.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-18T14:40:17Z"
+        },
+        {
+          "title": "Here's How Much a $1000 Investment in Lattice Semiconductor Made 10 Years Ago Would Be Worth Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-much-1000-investment-lattice-123001428.html",
+          "publisher": "Zacks",
+          "published": "2026-08-18T12:30:01Z"
+        },
+        {
+          "title": "Wall Street\u2019s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the \u2018Smart Money?\u2019",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-biggest-funds-dumping-221314247.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-16T22:13:14Z"
+        }
+      ]
+    },
+    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 174.14,
@@ -559,12 +585,12 @@
     },
     {
       "label": "BTC",
-      "price": 64581.82,
+      "price": 64584.61,
       "change_pct": 0.12
     },
     {
       "label": "Gold",
-      "price": 4387.3,
+      "price": 4387.1,
       "change_pct": -0.69
     },
     {

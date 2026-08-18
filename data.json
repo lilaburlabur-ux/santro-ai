@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-18T21:33:08+00:00",
-  "as_of_local": "2026-08-18 21:33:08 UTC",
+  "as_of_utc": "2026-08-18T21:38:08+00:00",
+  "as_of_local": "2026-08-18 21:38:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-08-18T16:10:31Z"
         },
         {
+          "title": "Prediction: Microsoft Will Be Worth $5 Trillion by 2029. Here's the Math.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-microsoft-worth-5-trillion-213201451.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-18T21:32:01Z"
+        },
+        {
           "title": "Robotics Stocks Punished Tuesday in AI Sell-Off: Ouster Down 10%, Aeva Technologies Down 12%, Symbotic Down 4%",
           "url": "https://finance.yahoo.com/markets/stocks/articles/robotics-stocks-punished-tuesday-ai-212237935.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-18T21:22:37Z"
-        },
-        {
-          "title": "Micron, Other Chip Stocks Drop During Dog Days Of Summer",
-          "url": "https://www.investors.com/news/technology/chip-stocks-micron-nvidia-drop-dog-days-summer/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-18T21:11:07Z"
         }
       ]
     },
@@ -109,10 +111,10 @@
           "published": "2026-08-18T13:50:11Z"
         },
         {
-          "title": "Micron, Other Chip Stocks Drop During Dog Days Of Summer",
-          "url": "https://www.investors.com/news/technology/chip-stocks-micron-nvidia-drop-dog-days-summer/?src=A00220&yptr=yahoo",
+          "title": "Dow Jones Futures: Sandisk, Micron, Credo Lead AI Rug Pull; Indexes Near Critical Level",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-credo-ai-stocks-target-earnings/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-08-18T21:11:07Z"
+          "published": "2026-08-18T21:24:40Z"
         }
       ]
     },
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-vs-nvidia-1-metric-205700122.html",
           "publisher": "Motley Fool",
           "published": "2026-08-18T20:57:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 96.68,
-      "previous_close": 103.49,
-      "change_pct": -6.58,
-      "market_cap": 508033863937.3416,
-      "headlines": [
-        {
-          "title": "Global bond sell-off pressures stocks: AlphaCheck",
-          "url": "https://finance.yahoo.com/markets/article/global-bond-sell-off-pressures-stocks-alphacheck-135011383.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-18T13:50:11Z"
-        },
-        {
-          "title": "Micron, Coherent, SpaceX, Klarna, Amylyx, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-36984052?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-08-18T20:27:00Z"
-        },
-        {
-          "title": "Nvidia Reveals a $21 Billion Position in SpaceX. Here's How That Could Impact Its Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-reveals-21-billion-position-200601543.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-18T20:06:01Z"
         }
       ]
     },
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 3.26,
-          "price": 1645000.0,
+          "change_pct": 1.03,
+          "price": 1662000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 2.43,
-          "price": 274500.0,
+          "change_pct": -2.19,
+          "price": 268500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 15.07,
-          "price": 61840.0,
+          "change_pct": -7.58,
+          "price": 57150.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 2.34,
-          "price": 524.0,
+          "change_pct": -1.72,
+          "price": 515.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -1.09,
-          "price": 181.5,
+          "change_pct": -2.75,
+          "price": 176.5,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 3.26,
-        "price": 1645000.0,
+        "change_pct": 1.03,
+        "price": 1662000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 2.43,
-        "price": 274500.0,
+        "change_pct": -2.19,
+        "price": 268500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 15.07,
-        "price": 61840.0,
+        "change_pct": -7.58,
+        "price": 57150.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 2.34,
-        "price": 524.0,
+        "change_pct": -1.72,
+        "price": 515.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -1.09,
-        "price": 181.5,
+        "change_pct": -2.75,
+        "price": 176.5,
         "currency": "TWD"
       }
     ]
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 64568.66,
-      "change_pct": 0.1
+      "price": 64560.4,
+      "change_pct": 0.08
     },
     {
       "label": "Gold",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-18T12:57:00+00:00",
-  "as_of_local": "2026-08-18 12:57:00 UTC",
+  "as_of_utc": "2026-08-18T13:02:10+00:00",
+  "as_of_local": "2026-08-18 13:02:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/video/wsj-reports-3t-ai-spending-144501122.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-08-17T14:45:01Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 426.35,
-      "previous_close": 430.49,
-      "change_pct": -0.96,
-      "market_cap": 2235214705382.6104,
-      "headlines": [
-        {
-          "title": "Billionaire David Tepper\u2019s Top 5 Holdings Just Revealed",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-top-5-123610504.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-18T12:36:10Z"
-        },
-        {
-          "title": "Situational Awareness 13F: Micron and Sandisk dominated fund before July collapse",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/situational-awareness-13f-micron-sandisk-113600565.html",
-          "publisher": "Quartz",
-          "published": "2026-08-18T11:36:00Z"
-        },
-        {
-          "title": "Billionaire David Tepper of Appaloosa Slashed His Micron Stake and Piled Into a \"Fabulous\" AI Stock for a 6th Consecutive Quarter",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-appaloosa-slashed-092600175.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-18T09:26:00Z"
         }
       ]
     },
@@ -109,10 +83,10 @@
           "published": "2026-08-17T13:51:55Z"
         },
         {
-          "title": "Billionaire David Tepper\u2019s Top 5 Holdings Just Revealed",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-top-5-123610504.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-18T12:36:10Z"
+          "title": "Stock Market Today: Tech Futures Sink As Treasury Yields Jump; Nvidia, Micron, Sandisk All Tumble (Live Coverage)",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-nvidia-stock-nvda/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-08-18T12:54:05Z"
         }
       ]
     },
@@ -125,6 +99,12 @@
       "market_cap": 826032371252.0,
       "headlines": [
         {
+          "title": "Update: US Equity Futures Lower Pre-Bell as Middle East Peace Prospects Dim",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-lower-pre-125310980.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-18T12:53:10Z"
+        },
+        {
           "title": "Meet the Vanguard ETF That's Crushing the S&P 500 and Nasdaq-100 Despite Not Owning Micron, Sandisk, or Any of the \"Magnificent Seven\" Stocks",
           "url": "https://finance.yahoo.com/markets/stocks/articles/meet-vanguard-etf-thats-crushing-111000996.html",
           "publisher": "Motley Fool",
@@ -135,12 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-invest-adds-101429126.html",
           "publisher": "Stocktwits",
           "published": "2026-08-18T10:14:29Z"
-        },
-        {
-          "title": "Advanced Micro Devices (AMD) Unveils Instinct Coder For Private Enterprise AI",
-          "url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-unveils-043313270.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-18T04:33:13Z"
         }
       ]
     },
@@ -150,7 +124,7 @@
       "price": 102.5,
       "previous_close": 104.56,
       "change_pct": -1.97,
-      "market_cap": 543790928339.35,
+      "market_cap": 547059033564.37994,
       "headlines": [
         {
           "title": "Tech searches for gains as stocks teeter at the open: AlphaCheck",
@@ -290,7 +264,7 @@
       "price": 130.46,
       "previous_close": 128.43,
       "change_pct": 1.58,
-      "market_cap": 18843156186.239998,
+      "market_cap": 18805867558.03,
       "headlines": [
         {
           "title": "Wall Street\u2019s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the \u2018Smart Money?\u2019",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64173.55,
-      "change_pct": -0.52
+      "price": 64106.35,
+      "change_pct": -0.62
     },
     {
       "label": "Gold",
-      "price": 4450.3,
-      "change_pct": 0.74
+      "price": 4453.1,
+      "change_pct": 0.8
     },
     {
       "label": "Nasdaq100",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-18T08:32:48+00:00",
-  "as_of_local": "2026-08-18 08:32:48 UTC",
+  "as_of_utc": "2026-08-18T08:38:22+00:00",
+  "as_of_local": "2026-08-18 08:38:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -117,40 +119,12 @@
       ]
     },
     {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 514.39,
-      "previous_close": 483.01,
-      "change_pct": 6.5,
-      "market_cap": 826032371252.0,
-      "headlines": [
-        {
-          "title": "Micron stock heats up again, crossing $1,000",
-          "url": "https://finance.yahoo.com/markets/stocks/article/micron-stock-heats-up-again-crossing-1000-115304344.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-17T11:53:04Z"
-        },
-        {
-          "title": "Advanced Micro Devices (AMD) Unveils Instinct Coder For Private Enterprise AI",
-          "url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-unveils-043313270.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-18T04:33:13Z"
-        },
-        {
-          "title": "Microsoft Just Announced Great News for AMD Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-just-announced-great-news-042000299.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-18T04:20:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 102.5,
       "previous_close": 104.56,
       "change_pct": -1.97,
-      "market_cap": 543790928339.35,
+      "market_cap": 547059033564.37994,
       "headlines": [
         {
           "title": "Tech searches for gains as stocks teeter at the open: AlphaCheck",
@@ -290,7 +264,7 @@
       "price": 130.46,
       "previous_close": 128.43,
       "change_pct": 1.58,
-      "market_cap": 18843156186.239998,
+      "market_cap": 18805867558.03,
       "headlines": [
         {
           "title": "Wall Street\u2019s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the \u2018Smart Money?\u2019",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64170.0,
-      "change_pct": -0.52
+      "price": 64254.3,
+      "change_pct": -0.39
     },
     {
       "label": "Gold",
-      "price": 4445.4,
-      "change_pct": 0.62
+      "price": 4443.9,
+      "change_pct": 0.59
     },
     {
       "label": "Nasdaq100",

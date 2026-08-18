@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-18T03:49:13+00:00",
-  "as_of_local": "2026-08-18 03:49:13 UTC",
+  "as_of_utc": "2026-08-18T03:52:42+00:00",
+  "as_of_local": "2026-08-18 03:52:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -59,6 +57,34 @@
           "url": "https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/teradyne-stock-eyes-breakout-semiconductor-partners-nvidia-taiwan-semi-apple-tech-markets/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-08-17T20:07:13Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 392.43,
+      "previous_close": 392.99,
+      "change_pct": -0.14,
+      "market_cap": 1867017162255.582,
+      "headlines": [
+        {
+          "title": "Broadcom's AI Financing Could Reach $370 Billion. But It's Not as Bad as It Sounds.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/broadcoms-ai-financing-could-reach-203701624.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-17T20:37:01Z"
+        },
+        {
+          "title": "Stanley Druckenmiller Opens Positions in Hut 8, Riot Platforms And Bitdeer",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-opens-positions-hut-194500376.html",
+          "publisher": "CryptoProwl",
+          "published": "2026-08-17T19:45:00Z"
+        },
+        {
+          "title": "MaxLinear Stock Sells At A Price Its Trailing Year Cannot Explain",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/maxlinear-stock-sells-price-trailing-174824433.html",
+          "publisher": "Trefis",
+          "published": "2026-08-17T17:48:24Z"
         }
       ]
     },
@@ -124,7 +150,7 @@
       "price": 103.49,
       "previous_close": 102.5,
       "change_pct": 0.97,
-      "market_cap": 547059022272.0409,
+      "market_cap": 543790917114.47076,
       "headlines": [
         {
           "title": "Tech searches for gains as stocks teeter at the open: AlphaCheck",
@@ -264,7 +290,7 @@
       "price": 132.67,
       "previous_close": 130.46,
       "change_pct": 1.69,
-      "market_cap": 18805867298.479446,
+      "market_cap": 18843155926.174805,
       "headlines": [
         {
           "title": "Wall Street\u2019s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the \u2018Smart Money?\u2019",
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 1.52,
-          "price": 1670000.0,
+          "change_pct": 0.55,
+          "price": 1654000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -1.37,
-          "price": 270750.0,
+          "change_pct": -1.82,
+          "price": 269500.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -8.34,
-          "price": 56680.0,
+          "change_pct": -6.55,
+          "price": 57790.0,
           "currency": "JPY"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 0.57,
-          "price": 527.0,
+          "change_pct": 0.0,
+          "price": 524.0,
           "currency": "TWD"
         },
         {
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -1.1,
-          "price": 179.5,
+          "change_pct": -1.65,
+          "price": 178.5,
           "currency": "TWD"
         }
       ]
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 1.52,
-        "price": 1670000.0,
+        "change_pct": 0.55,
+        "price": 1654000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -1.37,
-        "price": 270750.0,
+        "change_pct": -1.82,
+        "price": 269500.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -8.34,
-        "price": 56680.0,
+        "change_pct": -6.55,
+        "price": 57790.0,
         "currency": "JPY"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 0.57,
-        "price": 527.0,
+        "change_pct": 0.0,
+        "price": 524.0,
         "currency": "TWD"
       },
       {
@@ -545,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -1.1,
-        "price": 179.5,
+        "change_pct": -1.65,
+        "price": 178.5,
         "currency": "TWD"
       }
     ]
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64079.41,
-      "change_pct": 2.01
+      "price": 64101.74,
+      "change_pct": 2.04
     },
     {
       "label": "Gold",
-      "price": 4451.8,
-      "change_pct": 1.63
+      "price": 4451.2,
+      "change_pct": 1.62
     },
     {
       "label": "Nasdaq100",

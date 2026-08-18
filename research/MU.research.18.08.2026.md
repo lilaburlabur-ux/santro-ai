@@ -37,9 +37,9 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Headline | Source | Date |
 |---|---|---|
 | Chip-stock bears are back in control. Here's how to play the downside with limited risk: Alpha Options Playbook | Yahoo Finance | 2026-08-18 |
+| Global bond sell-off pressures stocks: AlphaCheck | Yahoo Finance | 2026-08-18 |
+| Stock Market Today: Nasdaq Slides Along With Chip Names; Sandisk, Micron Lose Big | Investor's Business Daily | 2026-08-18 |
 | Micron Stock Crashes 7% as AI Memory Trade Suddenly Reverses | GuruFocus.com | 2026-08-18 |
-| Stock Market Today: Nasdaq Hit Hard By Chip Names; Sandisk, Micron Slide As Biotech Soars (Live Coverage) | Investor's Business Daily | 2026-08-18 |
-| NVIDIA vs. Micron: Only One AI Stock Is a Clear Buy Right Now | Zacks | 2026-08-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

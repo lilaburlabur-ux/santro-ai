@@ -1,5 +1,5 @@
 # AMD Research Report
-**AMD** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Advanced Micro Devices, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `AMD.research.18.08.2026`
 
 | Field | Value |
@@ -37,9 +37,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | AMD Stock Tumbles 5.5% Despite 107% Data-Center Growth | GuruFocus.com | 2026-08-18 |
+| AMD (AMD) Stock Gets Fair Value Boost As Analysts Rework AI Growth Expectations | Simply Wall St. | 2026-08-18 |
 | Nvidia, AMD, Micron Lead Chip Stocks Selloff as Iran Tensions Rattle Markets | GuruFocus.com | 2026-08-18 |
 | Cerebras, Intel, and AMD Shares Fall Ahead of Tonight’s ‘Supernova’ Event | 24/7 Wall St. | 2026-08-18 |
-| Techs Stocks Fall On War, Macro Woes. Is Anthropic Revenue Projection Also A Factor? | Investor's Business Daily | 2026-08-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

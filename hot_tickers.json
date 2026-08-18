@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-18T00:41:42+00:00",
+  "as_of": "2026-08-18T00:51:15+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -25,6 +25,22 @@
   },
   {
    "rank": 2,
+   "ticker": "S",
+   "company": "SentinelOne Inc",
+   "move_pct": -5.58,
+   "price": 21.82,
+   "volume": 8590252,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 41,
+   "direction": "down",
+   "why": "Why SentinelOne (S) Stock Is Trading Lower Today",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-sentinelone-stock-trading-lower-003020968.html",
+   "published": "2026-08-18T00:30:20Z",
+   "sector": "AI Software & Cloud Infrastructure"
+  },
+  {
+   "rank": 3,
    "ticker": "PWR",
    "company": "Quanta Services Inc",
    "move_pct": 5.33,

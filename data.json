@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-18T22:44:18+00:00",
-  "as_of_local": "2026-08-18 22:44:18 UTC",
+  "as_of_utc": "2026-08-18T22:49:19+00:00",
+  "as_of_local": "2026-08-18 22:49:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-08-18T16:10:31Z"
         },
         {
+          "title": "Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/broadcoms-artificial-intelligence-ai-revenues-224100052.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-18T22:41:00Z"
+        },
+        {
           "title": "A 4X S&P 500 ETN Now Exists. A 10% Market Drop Cuts It Nearly in Half and Investors Are Buying Anyway",
           "url": "https://finance.yahoo.com/markets/options/articles/4x-p-500-etn-now-222507765.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-18T22:25:07Z"
-        },
-        {
-          "title": "Rocket Lab Wins One of Its Biggest Contracts Ever",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-wins-one-biggest-215000629.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-18T21:50:00Z"
         }
       ]
     },
@@ -69,6 +71,12 @@
       "market_cap": 1807880475240.0,
       "headlines": [
         {
+          "title": "Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/broadcoms-artificial-intelligence-ai-revenues-224100052.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-18T22:41:00Z"
+        },
+        {
           "title": "Broadcom (AVGO) Faces Rising Hedge Fund Caution",
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-faces-rising-hedge-221059949.html",
           "publisher": "Simply Wall St.",
@@ -79,12 +87,6 @@
           "url": "https://www.investors.com/news/technology/chip-stocks-micron-nvidia-drop-dog-days-summer/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-08-18T21:11:07Z"
-        },
-        {
-          "title": "Broadcom Stock Tumbles as $10.8 Billion AI Boom Meets Reality",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-tumbles-10-8-185409371.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-18T18:54:09Z"
         }
       ]
     },
@@ -150,7 +152,7 @@
       "price": 96.68,
       "previous_close": 103.49,
       "change_pct": -6.58,
-      "market_cap": 511087074350.9396,
+      "market_cap": 508033863937.3416,
       "headlines": [
         {
           "title": "Global bond sell-off pressures stocks: AlphaCheck",
@@ -281,34 +283,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/1-semiconductor-stock-long-term-060522696.html",
           "publisher": "StockStory",
           "published": "2026-08-12T06:05:22Z"
-        }
-      ]
-    },
-    {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 124.21,
-      "previous_close": 132.67,
-      "change_pct": -6.38,
-      "market_cap": 17606669120.114723,
-      "headlines": [
-        {
-          "title": "4 Famous Billionaire Investors Just Bought This Little Known Semiconductor Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/4-famous-billionaire-investors-just-144017638.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-18T14:40:17Z"
-        },
-        {
-          "title": "Here's How Much a $1000 Investment in Lattice Semiconductor Made 10 Years Ago Would Be Worth Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-much-1000-investment-lattice-123001428.html",
-          "publisher": "Zacks",
-          "published": "2026-08-18T12:30:01Z"
-        },
-        {
-          "title": "Wall Street\u2019s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the \u2018Smart Money?\u2019",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-biggest-funds-dumping-221314247.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-16T22:13:14Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64592.29,
-      "change_pct": 0.13
+      "price": 64581.82,
+      "change_pct": 0.12
     },
     {
       "label": "Gold",
-      "price": 4389.3,
-      "change_pct": -0.65
+      "price": 4387.3,
+      "change_pct": -0.69
     },
     {
       "label": "Nasdaq100",

@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Global bond sell-off pressures stocks: AlphaCheck | Yahoo Finance | 2026-08-18 |
+| Micron, Coherent, SpaceX, Klarna, Amylyx, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-18 |
 | Nvidia Reveals a $21 Billion Position in SpaceX. Here's How That Could Impact Its Earnings | Motley Fool | 2026-08-18 |
 | Intel Stock Plunges 7% as UBS Cuts Price Target to $112 | GuruFocus.com | 2026-08-18 |
-| Why Intel Stock Is Falling Today | Motley Fool | 2026-08-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

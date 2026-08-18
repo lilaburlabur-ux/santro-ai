@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| AMD Stock Tumbles 5.5% Despite 107% Data-Center Growth | GuruFocus.com | 2026-08-18 |
-| AMD (AMD) Stock Gets Fair Value Boost As Analysts Rework AI Growth Expectations | Simply Wall St. | 2026-08-18 |
-| Nvidia, AMD, Micron Lead Chip Stocks Selloff as Iran Tensions Rattle Markets | GuruFocus.com | 2026-08-18 |
-| Cerebras, Intel, and AMD Shares Fall Ahead of Tonight’s ‘Supernova’ Event | 24/7 Wall St. | 2026-08-18 |
+| AMD’s $1.3 Billion Portfolio Reveals Its Biggest Investments and Where AI Demand Lands Next | 24/7 Wall St. | 2026-08-18 |
+| AMD vs. Nvidia: 1 Metric Tells Me Which Is Clearly the Better Buy for 2026 | Motley Fool | 2026-08-18 |
+| Wedbush Has a Message for AMD Investors After Google Move | GuruFocus.com | 2026-08-18 |
+| Lisa Su Says AMD's Server Revenue Will Grow More Than 80% This Half -- and That's Not the AI Accelerator Business | Motley Fool | 2026-08-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

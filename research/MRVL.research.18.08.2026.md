@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech Stocks Slide With Bond Yields at Decade Highs | The Wall Street Journal | 2026-08-18 |
-| Why Intel, Marvell Stocks Are Dropping After Chip Stocks Enter New Bull Market | Barrons.com | 2026-08-18 |
-| Fabrinet Drops After Earnings Dragging Down Peers Like Marvell and Amphenol | 24/7 Wall St. | 2026-08-18 |
-| Marvell Technology (MRVL) AI Memory Push Puts Its Valuation Narrative Back In Focus | Simply Wall St. | 2026-08-18 |
+| Marvell CEO Just Made a $1.8 Million Move | GuruFocus.com | 2026-08-18 |
+| Marvell Technology, Vishay Intertechnology, and Allegro MicroSystems Shares Plummet, What You Need To Know | StockStory | 2026-08-18 |
+| Netflix, Salesforce, and Adobe Rally as Investors Rotate Out of Semiconductors and Into Beaten Down Stocks | 24/7 Wall St. | 2026-08-18 |
+| Micron, Coherent, SpaceX, Klarna, Amylyx, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

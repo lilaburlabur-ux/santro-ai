@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Chip-stock bears are back in control. Here's how to play the downside with limited risk: Alpha Options Playbook | Yahoo Finance | 2026-08-18 |
-| Stock Market Today: Nasdaq Slides Along With Chip Names; Sandisk, Micron Lose Big | Investor's Business Daily | 2026-08-18 |
-| Space Stocks Fall Tuesday: SpaceX Down 2%, Rocket Lab Down 3%, AST SpaceMobile Down 6% | 24/7 Wall St. | 2026-08-18 |
-| Coherent, Teradyne, and Ciena Are the S&P 500’s 3 Biggest Decliners on Tuesday | 24/7 Wall St. | 2026-08-18 |
+| AMD’s $1.3 Billion Portfolio Reveals Its Biggest Investments and Where AI Demand Lands Next | 24/7 Wall St. | 2026-08-18 |
+| China’s Favorite Budget Meal? Burgers | Moby | 2026-08-18 |
+| Elauwit Connection, Inc. Common Stock Q2 2026 Earnings Call Summary | Moby | 2026-08-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Bank of America Has a Message for Taiwan Semi Investors | GuruFocus.com | 2026-08-18 |
+| BofA Sends Bullish Message For Taiwan Semiconductor Stock Fans | GuruFocus.com | 2026-08-18 |
 | TSMC Stock Slides Over 4% Despite 45% Revenue Surge | GuruFocus.com | 2026-08-18 |
 | United Microelectronics Falls 7%, Tower Semiconductor Sinks 10%, GlobalFoundries Drops 7% as AI Spending Fears Hit Foundries | 24/7 Wall St. | 2026-08-18 |
-| Famous Billionaires Were Rushing to Buy Taiwan Semiconductor (TSM). Here’s Why | Insider Monkey | 2026-08-18 |
-| Beyond Nvidia: Buy These ETFs to Capture AI's Optical Boom | Zacks | 2026-08-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

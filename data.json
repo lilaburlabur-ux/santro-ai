@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-08-19T10:33:53+00:00",
-  "as_of_local": "2026-08-19 10:33:53 UTC",
+  "as_of_utc": "2026-08-19T10:39:34+00:00",
+  "as_of_local": "2026-08-19 10:39:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 219.74,
-      "previous_close": 225.01,
-      "change_pct": -2.34,
-      "market_cap": 5322322673049.927,
-      "headlines": [
-        {
-          "title": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia",
-          "url": "https://finance.yahoo.com/technology/article/cerebras-says-latest-offering-is-fastest-ai-accelerator-in-the-industry-as-it-takes-aim-at-nvidia-000000090.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-19T00:00:00Z"
-        },
-        {
-          "title": "Global bond sell-off pressures stocks: AlphaCheck",
-          "url": "https://finance.yahoo.com/markets/article/global-bond-sell-off-pressures-stocks-alphacheck-135011383.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-18T13:50:11Z"
-        },
-        {
-          "title": "Is This a Buy-the-Dip Opportunity for XRP Right Now?",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/buy-dip-opportunity-xrp-now-102400517.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-19T10:24:00Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -150,7 +124,7 @@
       "price": 96.69,
       "previous_close": 103.49,
       "change_pct": -6.57,
-      "market_cap": 511113530688.3104,
+      "market_cap": 508060162225.7834,
       "headlines": [
         {
           "title": "Global bond sell-off pressures stocks: AlphaCheck",
@@ -290,7 +264,7 @@
       "price": 124.21,
       "previous_close": 132.67,
       "change_pct": -6.38,
-      "market_cap": 17606669120.114723,
+      "market_cap": 17641579955.087402,
       "headlines": [
         {
           "title": "2 Stocks to Buy That Stanley Druckenmiller Added While Exiting 5 Chip and Photonics Stocks",
@@ -585,13 +559,18 @@
     },
     {
       "label": "BTC",
-      "price": 64343.86,
-      "change_pct": -0.52
+      "price": 64358.33,
+      "change_pct": -0.5
     },
     {
       "label": "Gold",
-      "price": 4423.7,
-      "change_pct": 1.32
+      "price": 4423.4,
+      "change_pct": 1.31
+    },
+    {
+      "label": "Nasdaq100",
+      "price": 29490.96,
+      "change_pct": -1.68
     }
   ]
 }

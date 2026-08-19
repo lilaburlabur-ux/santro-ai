@@ -1,5 +1,5 @@
 # AMD Research Report
-**AMD** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Advanced Micro Devices, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `AMD.research.19.08.2026`
 
 | Field | Value |
@@ -38,8 +38,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 |---|---|---|
 | Is Nvidia stock too cheap right now? | Yahoo Finance Video | 2026-08-19 |
 | Tech sell-off resumes, counterbalancing bond yield relief: AlphaCheck | Yahoo Finance | 2026-08-19 |
+| Advanced Micro Devices vs. Salesforce: Which Technology Stock Is a Better Buy in 2026? | Motley Fool | 2026-08-19 |
 | Why Is NVDA The Discount Option Among Its Peers? | Trefis | 2026-08-19 |
-| Intel Stock Charges A Premium For Capacity Still Being Built | Trefis | 2026-08-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

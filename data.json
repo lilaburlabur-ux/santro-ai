@@ -1,15 +1,15 @@
 {
-  "as_of_utc": "2026-08-19T04:47:06+00:00",
-  "as_of_local": "2026-08-19 04:47:06 UTC",
+  "as_of_utc": "2026-08-19T05:00:51+00:00",
+  "as_of_local": "2026-08-19 05:00:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 225.01,
-      "previous_close": 225.16,
-      "change_pct": -0.07,
+      "price": 219.74,
+      "previous_close": 225.01,
+      "change_pct": -2.34,
       "market_cap": 5322322673049.927,
       "headlines": [
         {
@@ -25,21 +25,27 @@
           "published": "2026-08-18T13:50:11Z"
         },
         {
-          "title": "SpaceX, Micron, and Sandisk Are Getting All the Hype -- but This Stock Quietly Beats Them All for Long-Term Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-micron-sandisk-getting-hype-042000393.html",
+          "title": "Prediction: 3 Unstoppable Artificial Intelligence Stocks That Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club by 2028",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-3-unstoppable-artificial-intelligence-045000414.html",
           "publisher": "Motley Fool",
-          "published": "2026-08-19T04:20:00Z"
+          "published": "2026-08-19T04:50:00Z"
         }
       ]
     },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 430.97,
-      "previous_close": 426.35,
-      "change_pct": 1.08,
+      "price": 413.41,
+      "previous_close": 430.97,
+      "change_pct": -4.07,
       "market_cap": 2144140240707.7651,
       "headlines": [
+        {
+          "title": "Prediction: 3 Unstoppable Artificial Intelligence Stocks That Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club by 2028",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-3-unstoppable-artificial-intelligence-045000414.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-19T04:50:00Z"
+        },
         {
           "title": "Broadcom (AVGO) Faces Rising Hedge Fund Caution",
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-faces-rising-hedge-221059949.html",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/technology/articles/bank-america-message-taiwan-semi-205042603.html",
           "publisher": "GuruFocus.com",
           "published": "2026-08-18T20:50:42Z"
-        },
-        {
-          "title": "BofA Sends Bullish Message For Taiwan Semiconductor Stock Fans",
-          "url": "https://finance.yahoo.com/technology/articles/bofa-sends-bullish-message-taiwan-204702561.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-18T20:47:02Z"
         }
       ]
     },
@@ -147,10 +147,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 103.49,
-      "previous_close": 102.5,
-      "change_pct": 0.97,
-      "market_cap": 508060162225.7834,
+      "price": 96.69,
+      "previous_close": 103.49,
+      "change_pct": -6.57,
+      "market_cap": 511113530688.3104,
       "headlines": [
         {
           "title": "Global bond sell-off pressures stocks: AlphaCheck",
@@ -287,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 132.67,
-      "previous_close": 130.46,
-      "change_pct": 1.69,
-      "market_cap": 17641579955.087402,
+      "price": 124.21,
+      "previous_close": 132.67,
+      "change_pct": -6.38,
+      "market_cap": 17606669120.114723,
       "headlines": [
         {
           "title": "2 Stocks to Buy That Stanley Druckenmiller Added While Exiting 5 Chip and Photonics Stocks",
@@ -315,9 +315,9 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 181.13,
-      "previous_close": 192.81,
-      "change_pct": -6.06,
+      "price": 174.14,
+      "previous_close": 181.13,
+      "change_pct": -3.86,
       "market_cap": 8850250145.080338,
       "headlines": [
         {
@@ -343,9 +343,9 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 110.58,
-      "previous_close": 108.63,
-      "change_pct": 1.8,
+      "price": 104.83,
+      "previous_close": 110.58,
+      "change_pct": -5.2,
       "market_cap": 4099585413.98703,
       "headlines": [
         {
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -8.6,
-          "price": 1519000.0,
+          "change_pct": -9.15,
+          "price": 1510000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -7.08,
-          "price": 249500.0,
+          "change_pct": -7.45,
+          "price": 248500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -12.21,
-          "price": 50170.0,
+          "change_pct": -12.62,
+          "price": 49940.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -5.73,
-          "price": 485.5,
+          "change_pct": -6.21,
+          "price": 483.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -5.1,
-          "price": 167.5,
+          "change_pct": -5.38,
+          "price": 167.0,
           "currency": "TWD"
         }
       ]
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -8.6,
-        "price": 1519000.0,
+        "change_pct": -9.15,
+        "price": 1510000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -7.08,
-        "price": 249500.0,
+        "change_pct": -7.45,
+        "price": 248500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -12.21,
-        "price": 50170.0,
+        "change_pct": -12.62,
+        "price": 49940.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -5.73,
-        "price": 485.5,
+        "change_pct": -6.21,
+        "price": 483.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -5.1,
-        "price": 167.5,
+        "change_pct": -5.38,
+        "price": 167.0,
         "currency": "TWD"
       }
     ]
@@ -580,18 +580,18 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7745.06,
-      "change_pct": -0.52
+      "price": 7691.76,
+      "change_pct": -0.69
     },
     {
       "label": "BTC",
-      "price": 64316.26,
-      "change_pct": -0.29
+      "price": 64262.67,
+      "change_pct": -0.38
     },
     {
       "label": "Gold",
-      "price": 4403.5,
-      "change_pct": 0.86
+      "price": 4398.4,
+      "change_pct": 0.74
     },
     {
       "label": "Nasdaq100",

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-19T00:06:22+00:00",
+  "as_of": "2026-08-19T00:21:31+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -13,11 +13,11 @@
    "company": "Baidu Inc ADR",
    "move_pct": -12.73,
    "price": 90.87,
-   "volume": 16127990,
-   "volume_vs_avg": "~8x",
+   "volume": 16110614,
+   "volume_vs_avg": "~7x",
    "heat_score": 92,
    "direction": "down",
-   "why": "Moving down 12.7% on ~8x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "why": "Moving down 12.7% on ~7x average volume with no fresh headline this cycle \u2014 attention without a story.",
    "catalyst_type": "no_news_mover",
    "source_url": "",
    "published": "",
@@ -25,6 +25,22 @@
   },
   {
    "rank": 2,
+   "ticker": "CBRS",
+   "company": "Cerebras Systems Inc",
+   "move_pct": -12.69,
+   "price": 220.01,
+   "volume": 13245459,
+   "volume_vs_avg": "~2x",
+   "heat_score": 80,
+   "direction": "down",
+   "why": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia",
+   "catalyst_type": "financing",
+   "source_url": "https://finance.yahoo.com/technology/article/cerebras-says-latest-offering-is-fastest-ai-accelerator-in-the-industry-as-it-takes-aim-at-nvidia-000000090.html",
+   "published": "2026-08-19T00:00:00Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 3,
    "ticker": "TLN",
    "company": "Talen Energy Corp",
    "move_pct": -11.0,
@@ -40,7 +56,7 @@
    "sector": "Data Center, Power & Energy"
   },
   {
-   "rank": 3,
+   "rank": 4,
    "ticker": "TER",
    "company": "Teradyne Inc",
    "move_pct": -8.77,
@@ -56,7 +72,7 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 4,
+   "rank": 5,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
    "move_pct": -7.82,
@@ -72,7 +88,7 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 5,
+   "rank": 6,
    "ticker": "MU",
    "company": "Micron Technology Inc",
    "move_pct": -7.02,
@@ -88,7 +104,7 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "ticker": "GEV",
    "company": "GE Vernova Inc",
    "move_pct": -6.9,
@@ -104,7 +120,7 @@
    "sector": "Powering AI"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "ticker": "VRT",
    "company": "Vertiv Holdings Co",
    "move_pct": -6.8,

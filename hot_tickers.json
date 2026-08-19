@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-19T21:38:43+00:00",
+  "as_of": "2026-08-19T21:49:50+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
-   "move_pct": 10.54,
-   "price": 238.77,
+   "move_pct": 11.19,
+   "price": 240.18,
    "volume": 43562582,
    "volume_vs_avg": "~2x",
-   "heat_score": 71,
+   "heat_score": 74,
    "direction": "up",
    "why": "Marvell Technology (MRVL) Expands Google AI Partnership: What Investors Need to Know",
    "catalyst_type": "momentum_narrative",
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "NOW",
    "company": "ServiceNow Inc",
-   "move_pct": 6.26,
-   "price": 126.97,
+   "move_pct": 6.42,
+   "price": 127.16,
    "volume": 22396381,
    "volume_vs_avg": "~1.0x",
    "heat_score": 42,
@@ -38,6 +38,22 @@
    "source_url": "https://finance.yahoo.com/technology/ai/articles/servicenow-now-quietly-becoming-default-191029416.html",
    "published": "2026-08-19T19:10:29Z",
    "sector": "AI Applications & Data Software"
+  },
+  {
+   "rank": 3,
+   "ticker": "S",
+   "company": "SentinelOne Inc",
+   "move_pct": -5.11,
+   "price": 21.34,
+   "volume": 10707465,
+   "volume_vs_avg": "~2x",
+   "heat_score": 41,
+   "direction": "down",
+   "why": "Dow Jones Futures: S&P 500, Nasdaq Rise On Treasury Move; Moderna, Merck Spur Big Biopharma Gains",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-treasury-move-moderna-merck-spur-big-biopharma-gains/?src=A00220&yptr=yahoo",
+   "published": "2026-08-19T21:07:00Z",
+   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-19T13:35:03+00:00",
+  "as_of": "2026-08-19T13:50:24+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,32 @@
    "rank": 1,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
-   "move_pct": 11.01,
-   "price": 239.77,
-   "volume": 9943146,
-   "volume_vs_avg": "~0.4x",
-   "heat_score": 66,
+   "move_pct": 8.44,
+   "price": 234.23,
+   "volume": 14460418,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 58,
    "direction": "up",
-   "why": "Marvell Stock Jumps On Google Chip, Investment Deal",
+   "why": "Marvell Technology Rockets 13% on $12.2B Google Warrant; Broadcom Falls 3%, Alphabet Unmoved",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/news/technology/marvell-stock-jumps-on-google-chip-investment-deal/?src=A00220&yptr=yahoo",
-   "published": "2026-08-19T13:15:22Z",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-rockets-13-12-133226962.html",
+   "published": "2026-08-19T13:32:26Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
+   "ticker": "CBRS",
+   "company": "Cerebras Systems Inc",
+   "move_pct": -6.17,
+   "price": 206.43,
+   "volume": 2943114,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 39,
+   "direction": "down",
+   "why": "NVDA Rival Cerebras Unveils New AI System It Says Is Up to 30X Faster Than Nvidia GPUs",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://tech.yahoo.com/ai/articles/nvda-rival-cerebras-unveils-ai-132933694.html",
+   "published": "2026-08-19T13:29:33Z",
    "sector": "AI Chips & Compute"
   }
  ]

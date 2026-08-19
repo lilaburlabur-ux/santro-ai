@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-19T00:21:31+00:00",
+  "as_of": "2026-08-19T00:36:46+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -13,11 +13,11 @@
    "company": "Baidu Inc ADR",
    "move_pct": -12.73,
    "price": 90.87,
-   "volume": 16110614,
-   "volume_vs_avg": "~7x",
+   "volume": 16127990,
+   "volume_vs_avg": "~8x",
    "heat_score": 92,
    "direction": "down",
-   "why": "Moving down 12.7% on ~7x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "why": "Moving down 12.7% on ~8x average volume with no fresh headline this cycle \u2014 attention without a story.",
    "catalyst_type": "no_news_mover",
    "source_url": "",
    "published": "",
@@ -33,10 +33,10 @@
    "volume_vs_avg": "~2x",
    "heat_score": 80,
    "direction": "down",
-   "why": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia",
-   "catalyst_type": "financing",
-   "source_url": "https://finance.yahoo.com/technology/article/cerebras-says-latest-offering-is-fastest-ai-accelerator-in-the-industry-as-it-takes-aim-at-nvidia-000000090.html",
-   "published": "2026-08-19T00:00:00Z",
+   "why": "Cerebras Systems Introduces Superfast AI Accelerator",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.investors.com/news/technology/cerebras-systems-cbrs-cs-4-ai-accelerator/?src=A00220&yptr=yahoo",
+   "published": "2026-08-19T00:00:53Z",
    "sector": "AI Chips & Compute"
   },
   {
@@ -100,7 +100,7 @@
    "why": "Dow Jones Futures: Sandisk, Micron, Credo Lead Painful AI Losses; Market Rally Near Key Test",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-credo-ai-stocks-target-earnings/?src=A00220&yptr=yahoo",
-   "published": "2026-08-18T23:45:58Z",
+   "published": "2026-08-19T00:18:31Z",
    "sector": "AI Chips & Compute"
   },
   {

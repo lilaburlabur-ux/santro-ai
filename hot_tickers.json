@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-19T12:46:47+00:00",
+  "as_of": "2026-08-19T13:01:52+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,10 +9,26 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "MRVL",
+   "company": "Marvell Technology Inc",
+   "move_pct": 13.92,
+   "price": 246.07,
+   "volume": 25737800,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 79,
+   "direction": "up",
+   "why": "Marvell grants Google $12.2 billion stock warrant in custom chip deal",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/articles/marvell-grants-google-12-2-123812695.html",
+   "published": "2026-08-19T12:38:12Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
    "ticker": "BIDU",
    "company": "Baidu Inc ADR",
-   "move_pct": 0.5,
-   "price": 91.33,
+   "move_pct": 0.62,
+   "price": 91.43,
    "volume": 16214300,
    "volume_vs_avg": "~7x",
    "heat_score": 54,

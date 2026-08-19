@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-19T23:20:57+00:00",
-  "as_of_local": "2026-08-19 23:20:57 UTC",
+  "as_of_utc": "2026-08-19T23:25:57+00:00",
+  "as_of_local": "2026-08-19 23:25:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -97,6 +99,12 @@
       "market_cap": 1058359946709.395,
       "headlines": [
         {
+          "title": "Tech & Energy Fuel S&P 500 Growth Engine",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tech-energy-fuel-p-500-222300083.html",
+          "publisher": "Zacks",
+          "published": "2026-08-19T22:23:00Z"
+        },
+        {
           "title": "Micron Trades 59% Above GF Value as Semiconductor Selloff Deepens",
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-trades-59-above-gf-220234763.html",
           "publisher": "GuruFocus.com",
@@ -107,12 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-just-dumped-215200310.html",
           "publisher": "Motley Fool",
           "published": "2026-08-19T21:52:00Z"
-        },
-        {
-          "title": "Micron Gained Memory Market Share. The Stock Is Dropping Anyway.",
-          "url": "https://www.barrons.com/articles/micron-stock-price-memory-share-c4eea8c4?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-08-19T20:51:00Z"
         }
       ]
     },
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-just-dumped-215200310.html",
           "publisher": "Motley Fool",
           "published": "2026-08-19T21:52:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 249.34,
-      "previous_close": 253.32,
-      "change_pct": -1.57,
-      "market_cap": 266294759283.33243,
-      "headlines": [
-        {
-          "title": "Tech Stocks Slide With Bond Yields at Decade Highs",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-drop-global-111000778.html",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-08-18T18:06:00Z"
-        },
-        {
-          "title": "ARM Stock: The $2 Billion AI Signal Investors Shouldn\u2019t Ignore",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-2-billion-ai-173027890.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-18T17:30:27Z"
-        },
-        {
-          "title": "ARM CFO Says \u2018Delivering Silicon Is Definitely More Complicated\u2019 As Chip Designer Eyes Deals To Go From Licensing To Making Chips: Report",
-          "url": "https://finance.yahoo.com/technology/ai/articles/arm-cfo-says-delivering-silicon-152335081.html",
-          "publisher": "Stocktwits",
-          "published": "2026-08-17T15:23:35Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 69326.59,
-      "change_pct": 7.18
+      "price": 69255.77,
+      "change_pct": 7.07
     },
     {
       "label": "Gold",
-      "price": 4577.6,
-      "change_pct": 4.85
+      "price": 4576.9,
+      "change_pct": 4.83
     },
     {
       "label": "Nasdaq100",

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-19T12:05:54+00:00",
-  "as_of_local": "2026-08-19 12:05:54 UTC",
+  "as_of_utc": "2026-08-19T12:10:55+00:00",
+  "as_of_local": "2026-08-19 12:10:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -237,6 +237,12 @@
       "market_cap": 168236974369.03766,
       "headlines": [
         {
+          "title": "Samsung raises contract chip prices up to 15% on AI demand",
+          "url": "https://finance.yahoo.com/technology/ai/articles/samsung-raises-contract-chip-prices-115739332.html",
+          "publisher": "Quartz",
+          "published": "2026-08-19T11:57:39Z"
+        },
+        {
           "title": "After TSMC, Samsung Is Also Reportedly Planning To Hike Chip Prices Amid Demand Surge Fueled By Nvidia, Apple, Tesla And Others",
           "url": "https://finance.yahoo.com/technology/articles/tsmc-samsung-reportedly-planning-hike-110234557.html",
           "publisher": "Stocktwits",
@@ -247,12 +253,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/schd-27-embarrassing-every-growth-194017966.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-18T19:40:17Z"
-        },
-        {
-          "title": "ARM Stock: The $2 Billion AI Signal Investors Shouldn\u2019t Ignore",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-2-billion-ai-173027890.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-18T17:30:27Z"
         }
       ]
     },
@@ -585,13 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 64419.33,
-      "change_pct": -0.4
-    },
-    {
-      "label": "Gold",
-      "price": 4420.8,
-      "change_pct": 1.26
+      "price": 64449.35,
+      "change_pct": -0.36
     },
     {
       "label": "Nasdaq100",

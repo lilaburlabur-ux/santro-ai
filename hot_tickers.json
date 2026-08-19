@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-19T21:34:32+00:00",
+  "as_of": "2026-08-19T21:38:43+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
-   "move_pct": 10.46,
-   "price": 238.6,
+   "move_pct": 10.54,
+   "price": 238.77,
    "volume": 43562582,
    "volume_vs_avg": "~2x",
    "heat_score": 71,
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "NOW",
    "company": "ServiceNow Inc",
-   "move_pct": 6.16,
-   "price": 126.85,
+   "move_pct": 6.26,
+   "price": 126.97,
    "volume": 22396381,
    "volume_vs_avg": "~1.0x",
    "heat_score": 42,

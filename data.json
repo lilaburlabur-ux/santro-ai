@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-19T22:54:52+00:00",
-  "as_of_local": "2026-08-19 22:54:52 UTC",
+  "as_of_utc": "2026-08-19T22:55:40+00:00",
+  "as_of_local": "2026-08-19 22:55:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -253,34 +255,6 @@
           "url": "https://finance.yahoo.com/technology/articles/intcs-client-computing-business-gains-155100741.html",
           "publisher": "Zacks",
           "published": "2026-08-19T15:51:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 226.02,
-      "previous_close": 228.56,
-      "change_pct": -1.11,
-      "market_cap": 56994147684.84158,
-      "headlines": [
-        {
-          "title": "NXP Semiconductors Sees Demand Rebound as Auto, AI and Data Center Growth Accelerate",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nxp-semiconductors-sees-demand-rebound-000159221.html",
-          "publisher": "MarketBeat",
-          "published": "2026-08-16T00:01:59Z"
-        },
-        {
-          "title": "Prediction: This Chipmaker Could Be a Bigger Winner Than Investors Think",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-chipmaker-could-bigger-winner-143041101.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-12T14:30:41Z"
-        },
-        {
-          "title": "1 Semiconductor Stock for Long-Term Investors and 2 Facing Challenges",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-semiconductor-stock-long-term-060522696.html",
-          "publisher": "StockStory",
-          "published": "2026-08-12T06:05:22Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 69104.06,
-      "change_pct": 6.84
+      "price": 69180.0,
+      "change_pct": 6.96
     },
     {
       "label": "Gold",
-      "price": 4576.3,
-      "change_pct": 4.82
+      "price": 4575.9,
+      "change_pct": 4.81
     },
     {
       "label": "Nasdaq100",

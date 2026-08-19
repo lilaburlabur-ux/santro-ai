@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-19T00:51:55+00:00",
+  "as_of": "2026-08-19T00:57:07+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -41,22 +41,6 @@
   },
   {
    "rank": 3,
-   "ticker": "TLN",
-   "company": "Talen Energy Corp",
-   "move_pct": -11.0,
-   "price": 317.66,
-   "volume": 2166650,
-   "volume_vs_avg": "~3x",
-   "heat_score": 64,
-   "direction": "down",
-   "why": "Moving down 11.0% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": "Data Center, Power & Energy"
-  },
-  {
-   "rank": 4,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
    "move_pct": -7.82,
@@ -72,7 +56,7 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "MU",
    "company": "Micron Technology Inc",
    "move_pct": -7.02,
@@ -88,7 +72,7 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "ticker": "GEV",
    "company": "GE Vernova Inc",
    "move_pct": -6.9,
@@ -104,7 +88,7 @@
    "sector": "Powering AI"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "ticker": "VRT",
    "company": "Vertiv Holdings Co",
    "move_pct": -6.8,

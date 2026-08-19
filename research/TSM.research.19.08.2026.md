@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| U.S. Markets Prepare For AI Compute Derivatives Tied To TSMC, Nvidia GPU Prices | Investor's Business Daily | 2026-08-19 |
 | SoundHound AI vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026? | Motley Fool | 2026-08-19 |
 | Samsung Sinks 7.8% Even as AI Chip Prices Jump 15% | GuruFocus.com | 2026-08-19 |
 | One of Wall Street’s Best-Known Hedge Funds Just Loaded Up on These 5 Stocks | 24/7 Wall St. | 2026-08-19 |
-| Can Amkor Turn Advanced Packaging Into an Edge Over Competitors? | Zacks | 2026-08-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

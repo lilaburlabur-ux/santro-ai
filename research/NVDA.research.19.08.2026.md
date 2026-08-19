@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Is Nvidia stock too cheap right now? | Yahoo Finance Video | 2026-08-19 |
+| Target Just Delivered Its Strongest Evidence Yet That the Turnaround Is Working | 24/7 Wall St. | 2026-08-19 |
+| U.S. Markets Prepare For AI Compute Derivatives Tied To TSMC, Nvidia GPU Prices | Investor's Business Daily | 2026-08-19 |
 | Why Is Circle Internet Group Stock Up Today? | Motley Fool | 2026-08-19 |
-| Robinhood CEO: Tokenization Will Enable 24/7 Trading and “Take Over the Entire Financial System” | 24/7 Wall St. | 2026-08-19 |
-| Bloom Energy's New Product Just Made Its Biggest AI Advantage Even Stronger. Here's What Investors Need to Know. | Motley Fool | 2026-08-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,8 +36,8 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
-| Sector Update: Tech Stocks Fall Late Afternoon | MT Newswires | 2026-08-19 |
 | Marvell Stock Jumps On Google Deal, Broadcom Slides | Investor's Business Daily | 2026-08-19 |
+| Sector Update: Tech Stocks Fall Late Afternoon | MT Newswires | 2026-08-19 |
 | Marvell Stock Rises 10% on Google Warrant Deal | GuruFocus.com | 2026-08-19 |
 | Why Is NVDA The Discount Option Among Its Peers? | Trefis | 2026-08-19 |
 

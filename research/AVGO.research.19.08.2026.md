@@ -37,9 +37,9 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Headline | Source | Date |
 |---|---|---|
 | Tech sell-off resumes, counterbalancing bond yield relief: AlphaCheck | Yahoo Finance | 2026-08-19 |
+| U.S. Markets Prepare For AI Compute Derivatives Tied To TSMC, Nvidia GPU Prices | Investor's Business Daily | 2026-08-19 |
 | Marvell Stock Jumps On Google Deal, Broadcom Slides | Investor's Business Daily | 2026-08-19 |
 | Why Is NVDA The Discount Option Among Its Peers? | Trefis | 2026-08-19 |
-| NVIDIA vs. Broadcom: The AI Stock You Should Buy Right Now | Zacks | 2026-08-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

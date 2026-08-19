@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-19T22:35:04+00:00",
-  "as_of_local": "2026-08-19 22:35:04 UTC",
+  "as_of_utc": "2026-08-19T22:39:35+00:00",
+  "as_of_local": "2026-08-19 22:39:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NXPI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -21,16 +19,16 @@
           "published": "2026-08-19T14:40:36Z"
         },
         {
+          "title": "NEOS\u2019s \u2018Boosted\u2019 S&P Fund Pays 17% While the Nasdaq Version Pays 21%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/neos-boosted-p-fund-pays-222542988.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-19T22:25:42Z"
+        },
+        {
           "title": "Tesla's Model Y L Is Coming to America. Will It Reignite Sales Growth?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/teslas-model-y-l-coming-222500557.html",
           "publisher": "Motley Fool",
           "published": "2026-08-19T22:25:00Z"
-        },
-        {
-          "title": "Broadcom Gets Fresh Google Warning",
-          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-gets-fresh-google-warning-220417060.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-19T22:04:17Z"
         }
       ]
     },
@@ -152,7 +150,7 @@
       "price": 92.8,
       "previous_close": 96.69,
       "change_pct": -4.02,
-      "market_cap": 490550584445.51306,
+      "market_cap": 487620058067.54175,
       "headlines": [
         {
           "title": "Tech sell-off resumes, counterbalancing bond yield relief: AlphaCheck",
@@ -259,12 +257,40 @@
       ]
     },
     {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors",
+      "price": 226.02,
+      "previous_close": 228.56,
+      "change_pct": -1.11,
+      "market_cap": 56994147684.84158,
+      "headlines": [
+        {
+          "title": "NXP Semiconductors Sees Demand Rebound as Auto, AI and Data Center Growth Accelerate",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nxp-semiconductors-sees-demand-rebound-000159221.html",
+          "publisher": "MarketBeat",
+          "published": "2026-08-16T00:01:59Z"
+        },
+        {
+          "title": "Prediction: This Chipmaker Could Be a Bigger Winner Than Investors Think",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-chipmaker-could-bigger-winner-143041101.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-12T14:30:41Z"
+        },
+        {
+          "title": "1 Semiconductor Stock for Long-Term Investors and 2 Facing Challenges",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-semiconductor-stock-long-term-060522696.html",
+          "publisher": "StockStory",
+          "published": "2026-08-12T06:05:22Z"
+        }
+      ]
+    },
+    {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
       "price": 117.68,
       "previous_close": 124.21,
       "change_pct": -5.26,
-      "market_cap": 16681046958.378426,
+      "market_cap": 16714122452.3042,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 69025.48,
-      "change_pct": 6.72
+      "price": 69284.74,
+      "change_pct": 7.12
     },
     {
       "label": "Gold",
-      "price": 4578.6,
-      "change_pct": 4.87
+      "price": 4577.2,
+      "change_pct": 4.84
     },
     {
       "label": "Nasdaq100",

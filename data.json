@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-19T08:18:19+00:00",
-  "as_of_local": "2026-08-19 08:18:19 UTC",
+  "as_of_utc": "2026-08-19T08:23:25+00:00",
+  "as_of_local": "2026-08-19 08:23:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -59,6 +57,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-3-unstoppable-artificial-intelligence-045000414.html",
           "publisher": "Motley Fool",
           "published": "2026-08-19T04:50:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 380.0,
+      "previous_close": 392.43,
+      "change_pct": -3.17,
+      "market_cap": 1807880475240.0,
+      "headlines": [
+        {
+          "title": "SpaceX, Micron, and Sandisk Are Getting All the Hype -- but This Stock Quietly Beats Them All for Long-Term Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-micron-sandisk-getting-hype-042000393.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-19T04:20:00Z"
+        },
+        {
+          "title": "2 Stocks to Buy That Stanley Druckenmiller Added While Exiting 5 Chip and Photonics Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-stocks-buy-stanley-druckenmiller-035701945.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-19T03:57:01Z"
+        },
+        {
+          "title": "Dow, S&P 500, Nasdaq Futures Slip As Global Bond Rout Catches Up With Markets: LUNR, MSTR, WYFI, AMLX Stocks In Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-031732663.html",
+          "publisher": "Stocktwits",
+          "published": "2026-08-19T03:17:32Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64222.06,
-      "change_pct": -0.71
+      "price": 64212.83,
+      "change_pct": -0.72
     },
     {
       "label": "Gold",
-      "price": 4412.0,
-      "change_pct": 1.05
+      "price": 4414.9,
+      "change_pct": 1.12
     },
     {
       "label": "Nasdaq100",

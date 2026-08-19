@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-08-19T10:39:34+00:00",
-  "as_of_local": "2026-08-19 10:39:34 UTC",
+  "as_of_utc": "2026-08-19T10:43:41+00:00",
+  "as_of_local": "2026-08-19 10:43:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 219.74,
+      "previous_close": 225.01,
+      "change_pct": -2.34,
+      "market_cap": 5322322673049.927,
+      "headlines": [
+        {
+          "title": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia",
+          "url": "https://finance.yahoo.com/technology/article/cerebras-says-latest-offering-is-fastest-ai-accelerator-in-the-industry-as-it-takes-aim-at-nvidia-000000090.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-08-19T00:00:00Z"
+        },
+        {
+          "title": "Global bond sell-off pressures stocks: AlphaCheck",
+          "url": "https://finance.yahoo.com/markets/article/global-bond-sell-off-pressures-stocks-alphacheck-135011383.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-08-18T13:50:11Z"
+        },
+        {
+          "title": "Nebius Just Revealed the Most Important Number That Could Change the AI Stock's Investment Thesis",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nebius-just-revealed-most-important-103500948.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-19T10:35:00Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -83,10 +109,10 @@
           "published": "2026-08-18T13:50:11Z"
         },
         {
-          "title": "Dow Jones Futures Fall; After Sandisk, Micron, Credo Lead AI Losses, Market Rally Nears Key Test",
+          "title": "Dow Jones Futures Fall After Sandisk, Micron, Credo Lead AI Losses; Target Earnings Beat",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-credo-ai-stocks-target-earnings/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-08-19T10:23:08Z"
+          "published": "2026-08-19T10:33:28Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64358.33,
-      "change_pct": -0.5
+      "price": 64345.49,
+      "change_pct": -0.52
     },
     {
       "label": "Gold",
-      "price": 4423.4,
-      "change_pct": 1.31
+      "price": 4421.3,
+      "change_pct": 1.27
     },
     {
       "label": "Nasdaq100",

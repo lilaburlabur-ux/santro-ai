@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-19T23:56:55+00:00",
-  "as_of_local": "2026-08-19 23:56:55 UTC",
+  "as_of_utc": "2026-08-19T23:58:43+00:00",
+  "as_of_local": "2026-08-19 23:58:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -57,34 +59,6 @@
           "url": "https://www.investors.com/news/ai-compute-derivatives-nvidia-meta-tsmc-broadcom-microsoft-amazon-google/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-08-19T20:24:14Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 362.48,
-      "previous_close": 380.0,
-      "change_pct": -4.61,
-      "market_cap": 1724527722439.3772,
-      "headlines": [
-        {
-          "title": "Tech sell-off resumes, counterbalancing bond yield relief: AlphaCheck",
-          "url": "https://finance.yahoo.com/markets/article/tech-sell-off-resumes-counterbalancing-bond-yield-relief-alphacheck-141446892.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-19T14:14:46Z"
-        },
-        {
-          "title": "AMD and Intel Shares Plummet, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-shares-plummet-know-233402382.html",
-          "publisher": "StockStory",
-          "published": "2026-08-19T23:34:02Z"
-        },
-        {
-          "title": "Why Broadcom (AVGO) Stock Is Trading Lower Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-avgo-stock-trading-220602333.html",
-          "publisher": "StockStory",
-          "published": "2026-08-19T22:06:02Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 69252.47,
-      "change_pct": 7.07
+      "price": 69277.52,
+      "change_pct": 7.11
     },
     {
       "label": "Gold",
-      "price": 4572.2,
-      "change_pct": 4.72
+      "price": 4572.7,
+      "change_pct": 4.73
     },
     {
       "label": "Nasdaq100",

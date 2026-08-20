@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-20T23:00:04+00:00",
+  "as_of": "2026-08-20T23:03:25+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -43,8 +43,8 @@
    "rank": 3,
    "ticker": "CRWD",
    "company": "Crowdstrike Holdings Inc",
-   "move_pct": -5.32,
-   "price": 190.9,
+   "move_pct": -5.33,
+   "price": 190.88,
    "volume": 8886524,
    "volume_vs_avg": "~1.1x",
    "heat_score": 39,
@@ -52,15 +52,15 @@
    "why": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-triggers-bearish-signal-walmart-spacex-crowdstrike/?src=A00220&yptr=yahoo",
-   "published": "2026-08-20T22:35:54Z",
+   "published": "2026-08-20T22:55:21Z",
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
    "rank": 4,
    "ticker": "ZS",
    "company": "Zscaler Inc",
-   "move_pct": -5.25,
-   "price": 174.9,
+   "move_pct": -5.27,
+   "price": 174.88,
    "volume": 2132593,
    "volume_vs_avg": "~0.9x",
    "heat_score": 38,

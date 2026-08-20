@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-20T02:36:19+00:00",
-  "as_of_local": "2026-08-20 02:36:19 UTC",
+  "as_of_utc": "2026-08-20T02:51:15+00:00",
+  "as_of_local": "2026-08-20 02:51:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SYNA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -343,6 +341,34 @@
       ]
     },
     {
+      "symbol": "SYNA",
+      "name": "Synaptics",
+      "price": 100.98,
+      "previous_close": 104.83,
+      "change_pct": -3.67,
+      "market_cap": 3949023577.559555,
+      "headlines": [
+        {
+          "title": "Here's Why AXTI Stock Is a Buy Despite Its Premium 48.12X Valuation",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-axti-stock-buy-142400926.html",
+          "publisher": "Zacks",
+          "published": "2026-08-17T14:24:00Z"
+        },
+        {
+          "title": "onsemi Boosts Utilization as AI Data Center Revenue Set to More Than Double",
+          "url": "https://finance.yahoo.com/technology/ai/articles/onsemi-boosts-utilization-ai-data-040156881.html",
+          "publisher": "MarketBeat",
+          "published": "2026-08-16T04:01:56Z"
+        },
+        {
+          "title": "ON Semiconductor (ON) Sees AI Data Center Growth Surge, Is The Upside Already Priced In?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-sees-ai-data-center-231855941.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-11T23:18:55Z"
+        }
+      ]
+    },
+    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 29.9,
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 12.67,
-          "price": 1690000.0,
+          "change_pct": 12.07,
+          "price": 1681000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 9.49,
-          "price": 271000.0,
+          "change_pct": 8.89,
+          "price": 269500.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 4.58,
-          "price": 52240.0,
+          "change_pct": 4.7,
+          "price": 52300.0,
           "currency": "JPY"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 6.65,
-          "price": 513.0,
+          "change_pct": 7.9,
+          "price": 519.0,
           "currency": "TWD"
         },
         {
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 4.46,
-          "price": 175.5,
+          "change_pct": 4.76,
+          "price": 176.0,
           "currency": "TWD"
         }
       ]
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 12.67,
-        "price": 1690000.0,
+        "change_pct": 12.07,
+        "price": 1681000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 9.49,
-        "price": 271000.0,
+        "change_pct": 8.89,
+        "price": 269500.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 4.58,
-        "price": 52240.0,
+        "change_pct": 4.7,
+        "price": 52300.0,
         "currency": "JPY"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 6.65,
-        "price": 513.0,
+        "change_pct": 7.9,
+        "price": 519.0,
         "currency": "TWD"
       },
       {
@@ -545,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 4.46,
-        "price": 175.5,
+        "change_pct": 4.76,
+        "price": 176.0,
         "currency": "TWD"
       }
     ]
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 69376.63,
-      "change_pct": 7.26
+      "price": 69253.06,
+      "change_pct": 7.07
     },
     {
       "label": "Gold",
-      "price": 4550.3,
-      "change_pct": 4.22
+      "price": 4548.9,
+      "change_pct": 4.19
     },
     {
       "label": "Nasdaq100",

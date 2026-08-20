@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-20T12:12:54+00:00",
-  "as_of_local": "2026-08-20 12:12:54 UTC",
+  "as_of_utc": "2026-08-20T12:17:59+00:00",
+  "as_of_local": "2026-08-20 12:17:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-08-19T13:54:48Z"
         },
         {
-          "title": "Here Are Thursday\u2019s Top Wall Street Analyst Research Calls: Alphabet, Analog Devices, Crown Castle, Ebay, EPR Properties, Etsy, Merck & Co., Shopify, TJX Companies, and More",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/thursday-top-wall-street-analyst-120139380.html",
+          "title": "The $1 Trillion Stock Wall Street Says Could Grow Earnings 107% a Year",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-trillion-stock-wall-street-120450929.html",
           "publisher": "24/7 Wall St.",
-          "published": "2026-08-20T12:01:39Z"
+          "published": "2026-08-20T12:04:50Z"
         }
       ]
     },
@@ -89,34 +91,6 @@
       ]
     },
     {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 937.11,
-      "previous_close": 940.76,
-      "change_pct": -0.39,
-      "market_cap": 1058365599189.765,
-      "headlines": [
-        {
-          "title": "Why Micron Investors Are Missing Out on the Great Memory Stock Buy Back",
-          "url": "https://www.barrons.com/articles/micron-stock-memory-share-buy-back-468cc1ae?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-08-20T10:05:00Z"
-        },
-        {
-          "title": "Billionaire Stanley Druckenmiller May Have Just Repeated His \"Big Mistake\" With Nvidia -- This Time With a Chip Stock That Rose 300% in the First Half of 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-may-just-083200857.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-20T08:32:00Z"
-        },
-        {
-          "title": "Zacks Earnings Trends Highlights: Nvidia, Micron  and Alphabet",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-earnings-trends-highlights-nvidia-073000476.html",
-          "publisher": "Zacks",
-          "published": "2026-08-20T07:30:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 466.42,
@@ -150,7 +124,7 @@
       "price": 92.8,
       "previous_close": 96.69,
       "change_pct": -4.02,
-      "market_cap": 490550584445.51306,
+      "market_cap": 487620058067.54175,
       "headlines": [
         {
           "title": "Tech sell-off resumes, counterbalancing bond yield relief: AlphaCheck",
@@ -290,7 +264,7 @@
       "price": 117.68,
       "previous_close": 124.21,
       "change_pct": -5.26,
-      "market_cap": 16681046958.378426,
+      "market_cap": 16714122452.3042,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -0.39,
-          "price": 937.11,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -0.39,
-        "price": 937.11,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 71792.9,
-      "change_pct": 3.65
+      "price": 71654.42,
+      "change_pct": 3.45
     },
     {
       "label": "Gold",
-      "price": 4514.2,
-      "change_pct": 0.55
+      "price": 4510.8,
+      "change_pct": 0.48
     },
     {
       "label": "Nasdaq100",

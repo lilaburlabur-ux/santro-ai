@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-20T09:21:04+00:00",
-  "as_of_local": "2026-08-20 09:21:04 UTC",
+  "as_of_utc": "2026-08-20T09:26:09+00:00",
+  "as_of_local": "2026-08-20 09:26:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -59,6 +57,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-tumbled-nearly-8-seoul-211220540.html",
           "publisher": "Benzinga Prediction Markets",
           "published": "2026-08-19T21:12:20Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 362.48,
+      "previous_close": 380.0,
+      "change_pct": -4.61,
+      "market_cap": 1724527722439.3772,
+      "headlines": [
+        {
+          "title": "Tech sell-off resumes, counterbalancing bond yield relief: AlphaCheck",
+          "url": "https://finance.yahoo.com/markets/article/tech-sell-off-resumes-counterbalancing-bond-yield-relief-alphacheck-141446892.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-08-19T14:14:46Z"
+        },
+        {
+          "title": "Marvell Lands \u2018White Whale\u2019 Google, Raises Stakes Ahead Of Q2 Report: Analyst Says TPU Deal \u2018Greatly Expands\u2019 MRVL\u2019s Long-Term AI Opportunity",
+          "url": "https://finance.yahoo.com/technology/ai/articles/marvell-lands-white-whale-google-072339694.html",
+          "publisher": "Stocktwits",
+          "published": "2026-08-20T07:23:39Z"
+        },
+        {
+          "title": "AMD and Intel Shares Plummet, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-shares-plummet-know-233402382.html",
+          "publisher": "StockStory",
+          "published": "2026-08-19T23:34:02Z"
         }
       ]
     },
@@ -124,7 +150,7 @@
       "price": 92.8,
       "previous_close": 96.69,
       "change_pct": -4.02,
-      "market_cap": 487620058067.54175,
+      "market_cap": 490550584445.51306,
       "headlines": [
         {
           "title": "Tech sell-off resumes, counterbalancing bond yield relief: AlphaCheck",
@@ -264,7 +290,7 @@
       "price": 117.68,
       "previous_close": 124.21,
       "change_pct": -5.26,
-      "market_cap": 16714122452.3042,
+      "market_cap": 16681046958.378426,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 71834.15,
-      "change_pct": 3.71
+      "price": 71953.49,
+      "change_pct": 3.88
     },
     {
       "label": "Gold",
-      "price": 4550.7,
-      "change_pct": 1.37
+      "price": 4549.6,
+      "change_pct": 1.34
     },
     {
       "label": "Nasdaq100",

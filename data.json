@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-20T21:56:32+00:00",
-  "as_of_local": "2026-08-20 21:56:32 UTC",
+  "as_of_utc": "2026-08-20T21:57:36+00:00",
+  "as_of_local": "2026-08-20 21:57:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -150,7 +152,7 @@
       "price": 92.13,
       "previous_close": 92.8,
       "change_pct": -0.72,
-      "market_cap": 484099494968.96246,
+      "market_cap": 487008863269.33826,
       "headlines": [
         {
           "title": "The Engine Behind INTC Stock Has Real Parts",
@@ -290,7 +292,7 @@
       "price": 117.56,
       "previous_close": 117.68,
       "change_pct": -0.1,
-      "market_cap": 16697078429.566406,
+      "market_cap": 16664036663.972595,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -337,34 +339,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-industrials-stocks-fall-short-105915833.html",
           "publisher": "StockStory",
           "published": "2026-08-20T10:59:15Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 98.0,
-      "previous_close": 100.98,
-      "change_pct": -2.95,
-      "market_cap": 3832484628.0,
-      "headlines": [
-        {
-          "title": "Here's Why AXTI Stock Is a Buy Despite Its Premium 48.12X Valuation",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-axti-stock-buy-142400926.html",
-          "publisher": "Zacks",
-          "published": "2026-08-17T14:24:00Z"
-        },
-        {
-          "title": "onsemi Boosts Utilization as AI Data Center Revenue Set to More Than Double",
-          "url": "https://finance.yahoo.com/technology/ai/articles/onsemi-boosts-utilization-ai-data-040156881.html",
-          "publisher": "MarketBeat",
-          "published": "2026-08-16T04:01:56Z"
-        },
-        {
-          "title": "ON Semiconductor (ON) Sees AI Data Center Growth Surge, Is The Upside Already Priced In?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-sees-ai-data-center-231855941.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-11T23:18:55Z"
         }
       ]
     },
@@ -585,7 +559,7 @@
     },
     {
       "label": "BTC",
-      "price": 72744.4,
+      "price": 72741.69,
       "change_pct": 5.02
     },
     {

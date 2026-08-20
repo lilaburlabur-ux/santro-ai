@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-20T03:20:38+00:00",
-  "as_of_local": "2026-08-20 03:20:38 UTC",
+  "as_of_utc": "2026-08-20T03:35:47+00:00",
+  "as_of_local": "2026-08-20 03:35:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CEVA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -369,6 +367,34 @@
           "published": "2026-08-11T23:18:55Z"
         }
       ]
+    },
+    {
+      "symbol": "CEVA",
+      "name": "CEVA",
+      "price": 29.9,
+      "previous_close": 29.67,
+      "change_pct": 0.78,
+      "market_cap": 841806742.0600739,
+      "headlines": [
+        {
+          "title": "CEVA (CEVA) Q2 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-ceva-q2-2026-earnings-154343784.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-17T15:43:43Z"
+        },
+        {
+          "title": "CEVA Handset, AI Momentum Seen Supporting Growth, UBS Says",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ceva-handset-ai-momentum-seen-170234800.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-11T17:02:34Z"
+        },
+        {
+          "title": "CEVA Inc (CEVA) (Q2 2026) Earnings Call Highlights: Strong Licensing Growth and Raised ...",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-inc-ceva-q2-2026-210150559.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-08-10T21:01:50Z"
+        }
+      ]
     }
   ],
   "etfs": [
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 11.53,
-          "price": 1673000.0,
+          "change_pct": 12.27,
+          "price": 1684000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 8.38,
-          "price": 268250.0,
+          "change_pct": 8.69,
+          "price": 269000.0,
           "currency": "KRW"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 6.86,
-          "price": 514.0,
+          "change_pct": 7.07,
+          "price": 515.0,
           "currency": "TWD"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 11.53,
-        "price": 1673000.0,
+        "change_pct": 12.27,
+        "price": 1684000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 8.38,
-        "price": 268250.0,
+        "change_pct": 8.69,
+        "price": 269000.0,
         "currency": "KRW"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 6.86,
-        "price": 514.0,
+        "change_pct": 7.07,
+        "price": 515.0,
         "currency": "TWD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 69143.06,
-      "change_pct": 6.9
+      "price": 69027.71,
+      "change_pct": 6.72
     },
     {
       "label": "Gold",
-      "price": 4547.6,
-      "change_pct": 4.16
+      "price": 4552.0,
+      "change_pct": 4.26
     },
     {
       "label": "Nasdaq100",

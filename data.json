@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-20T10:39:39+00:00",
-  "as_of_local": "2026-08-20 10:39:39 UTC",
+  "as_of_utc": "2026-08-20T10:44:52+00:00",
+  "as_of_local": "2026-08-20 10:44:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/avgo-stock-recovers-premarket-marvell-090500069.html",
           "publisher": "Stocktwits",
           "published": "2026-08-20T09:05:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 937.11,
-      "previous_close": 940.76,
-      "change_pct": -0.39,
-      "market_cap": 1058365599189.765,
-      "headlines": [
-        {
-          "title": "Billionaire Stanley Druckenmiller May Have Just Repeated His \"Big Mistake\" With Nvidia -- This Time With a Chip Stock That Rose 300% in the First Half of 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-may-just-083200857.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-20T08:32:00Z"
-        },
-        {
-          "title": "Zacks Earnings Trends Highlights: Nvidia, Micron  and Alphabet",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-earnings-trends-highlights-nvidia-073000476.html",
-          "publisher": "Zacks",
-          "published": "2026-08-20T07:30:00Z"
-        },
-        {
-          "title": "S&P 500 Could Hit 8,000 Soon, Morningstar Says \u2014 CRM, NOW, WDAY And MSFT Lead The August Rebound",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-could-hit-8-065249593.html",
-          "publisher": "Stocktwits",
-          "published": "2026-08-20T06:52:49Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -0.39,
-          "price": 937.11,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -0.39,
-        "price": 937.11,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 71827.79,
-      "change_pct": 3.7
+      "price": 71747.17,
+      "change_pct": 3.58
     },
     {
       "label": "Gold",
-      "price": 4549.1,
-      "change_pct": 1.33
+      "price": 4550.6,
+      "change_pct": 1.36
     },
     {
       "label": "Nasdaq100",

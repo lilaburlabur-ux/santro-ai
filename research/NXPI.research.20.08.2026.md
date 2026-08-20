@@ -47,7 +47,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Price vs 52-week range | Close $222.97; 52w high $331.55 (-32.75%); 52w low $181.81 (+22.64%) |
 | Trend | -7.56% vs SMA200, -16.61% vs SMA50, -6.23% vs SMA20 |
 | Momentum | RSI(14) 33.7 (neutral) |
-| Volatility | ATR(14) 9.70 (~4.4% of price); beta 1.82 |
+| Volatility | ATR(14) 9.71 (~4.4% of price); beta 1.82 |
 | Setup perspective | -32.75% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -115,7 +115,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Market cap | $56.23B | EV/EBITDA | 12.85 |
 | Beta | 1.82 | Gross margin | 56.10% |
 | RSI(14) | 33.7 | Operating margin | 30.41% |
-| ATR(14) | 9.70 | Profit margin | 22.56% |
+| ATR(14) | 9.71 | Profit margin | 22.56% |
 | SMA20 dist | -6.23% | ROA | 10.46% |
 | SMA50 dist | -16.61% | ROE | 27.92% |
 | SMA200 dist | -7.56% | Revenue (ttm) | $13.19B |

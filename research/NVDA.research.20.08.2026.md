@@ -39,7 +39,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Tech stocks today: Anthropic's IPO plans come into focus, Nvidia earnings provide next test for AI trade | Yahoo Finance | 2026-08-17 |
 | Waymo is making its own AI chip for its robotaxi service | Yahoo Finance Video | 2026-08-20 |
 | Your Muni Income Is Invisible to One Tax Break and Fatal to Another | 24/7 Wall St. | 2026-08-20 |
-| The Biggest Risk Facing the First Trust Nasdaq Semiconductor ETF (FTXL) Right Now | 24/7 Wall St. | 2026-08-20 |
+| How Much of Your Portfolio Should Actually Be in FTXL | 24/7 Wall St. | 2026-08-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

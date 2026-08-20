@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-20T20:08:36+00:00",
+  "as_of": "2026-08-20T20:23:54+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
-   "move_pct": 5.79,
-   "price": 251.0,
-   "volume": 26786890,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 41,
+   "move_pct": 5.36,
+   "price": 249.99,
+   "volume": 28668066,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 40,
    "direction": "up",
    "why": "Broadcom Stabilizes After Google's $120 Billion Marvell Shock",
    "catalyst_type": "momentum_narrative",

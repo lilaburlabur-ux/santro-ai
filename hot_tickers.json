@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-20T22:28:01+00:00",
+  "as_of": "2026-08-20T22:36:57+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,6 +9,38 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "UPST",
+   "company": "Upstart Holdings Inc",
+   "move_pct": -6.11,
+   "price": 28.73,
+   "volume": 7804757,
+   "volume_vs_avg": "~2x",
+   "heat_score": 46,
+   "direction": "down",
+   "why": "Upstart Holdings (UPST) Could Be 28% Undervalued As Its Second Leg Story Takes Shape",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/upstart-holdings-upst-could-28-221119813.html",
+   "published": "2026-08-20T22:11:19Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 2,
+   "ticker": "MRVL",
+   "company": "Marvell Technology Inc",
+   "move_pct": 5.11,
+   "price": 249.4,
+   "volume": 29137608,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 39,
+   "direction": "up",
+   "why": "Broadcom Stabilizes After Google's $120 Billion Marvell Shock",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/articles/broadcom-stabilizes-googles-120-billion-193122196.html",
+   "published": "2026-08-20T19:31:22Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 3,
    "ticker": "CRWD",
    "company": "Crowdstrike Holdings Inc",
    "move_pct": -5.32,
@@ -20,7 +52,7 @@
    "why": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-triggers-bearish-signal-walmart-spacex-crowdstrike/?src=A00220&yptr=yahoo",
-   "published": "2026-08-20T22:14:04Z",
+   "published": "2026-08-20T22:23:08Z",
    "sector": "AI Software & Cloud Infrastructure"
   }
  ]

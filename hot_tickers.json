@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-20T23:34:23+00:00",
+  "as_of": "2026-08-20T23:38:20+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -27,16 +27,16 @@
    "rank": 2,
    "ticker": "CRWD",
    "company": "Crowdstrike Holdings Inc",
-   "move_pct": -5.22,
-   "price": 191.1,
+   "move_pct": -5.12,
+   "price": 191.3,
    "volume": 8886524,
    "volume_vs_avg": "~1.1x",
    "heat_score": 39,
    "direction": "down",
-   "why": "CrowdStrike Stock Is Down, But The Business Is Looking Up. What Gives?",
+   "why": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-stock-down-business-looking-225749768.html",
-   "published": "2026-08-20T22:57:49Z",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-triggers-bearish-signal-walmart-spacex-crowdstrike/?src=A00220&yptr=yahoo",
+   "published": "2026-08-20T23:20:29Z",
    "sector": "AI Software & Cloud Infrastructure"
   },
   {

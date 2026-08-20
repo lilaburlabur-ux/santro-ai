@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-20T05:32:14+00:00",
-  "as_of_local": "2026-08-20 05:32:14 UTC",
+  "as_of_utc": "2026-08-20T05:35:03+00:00",
+  "as_of_local": "2026-08-20 05:35:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -19,16 +19,16 @@
           "published": "2026-08-19T14:40:36Z"
         },
         {
+          "title": "Why Regeneron (REGN) Is Up 5.4% After FDA Approves Pasatru For Ultra-Rare FOP Therapy",
+          "url": "https://finance.yahoo.com/healthcare/articles/why-regeneron-regn-5-4-051056760.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-20T05:10:56Z"
+        },
+        {
           "title": "Masayoshi Son Has 67% of SoftBank's U.S. Stock Portfolio in Intel. He Didn't Buy a Single Share Last Quarter.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/masayoshi-son-67-softbanks-u-030701746.html",
           "publisher": "Motley Fool",
           "published": "2026-08-20T03:07:01Z"
-        },
-        {
-          "title": "Why Marvell Stock Surged Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-stock-surged-today-030529654.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-20T03:05:29Z"
         }
       ]
     },
@@ -97,6 +97,12 @@
       "market_cap": 1058365599189.765,
       "headlines": [
         {
+          "title": "Red-Hot Rivals: How Chinese Tech IPOs Are Outshining America\u2019s Biggest Debuts",
+          "url": "https://www.barrons.com/articles/china-ipos-stock-investors-13e7d166?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-08-20T05:15:00Z"
+        },
+        {
           "title": "Jim Cramer makes aggressive Micron prediction, lists top memory buys",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-makes-aggressive-micron-013700202.html",
           "publisher": "TheStreet",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/options/articles/10-most-popular-ai-etfs-002440472.html",
           "publisher": "etf.com",
           "published": "2026-08-20T00:24:40Z"
-        },
-        {
-          "title": "SanDisk Looks Cheap On Consensus, But The Payoff Sits In Its Contracts",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-looks-cheap-consensus-payoff-233540370.html",
-          "publisher": "Trefis",
-          "published": "2026-08-19T23:35:40Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 11.87,
-          "price": 1678000.0,
+          "change_pct": 12.0,
+          "price": 1680000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 7.78,
-          "price": 266750.0,
+          "change_pct": 8.08,
+          "price": 267500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 5.75,
-          "price": 52820.0,
+          "change_pct": 6.33,
+          "price": 53110.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 7.07,
-          "price": 515.0,
+          "change_pct": 7.28,
+          "price": 516.0,
           "currency": "TWD"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 11.87,
-        "price": 1678000.0,
+        "change_pct": 12.0,
+        "price": 1680000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 7.78,
-        "price": 266750.0,
+        "change_pct": 8.08,
+        "price": 267500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 5.75,
-        "price": 52820.0,
+        "change_pct": 6.33,
+        "price": 53110.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 7.07,
-        "price": 515.0,
+        "change_pct": 7.28,
+        "price": 516.0,
         "currency": "TWD"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 69569.89,
-      "change_pct": 7.56
+      "price": 69554.89,
+      "change_pct": 7.54
     },
     {
       "label": "Gold",
-      "price": 4543.7,
-      "change_pct": 1.21
+      "price": 4544.0,
+      "change_pct": 1.22
     },
     {
       "label": "Nasdaq100",

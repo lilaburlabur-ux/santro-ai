@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-20T18:53:05+00:00",
+  "as_of": "2026-08-20T18:57:41+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,27 +9,11 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "AVAV",
-   "company": "AeroVironment Inc",
-   "move_pct": -8.52,
-   "price": 158.02,
-   "volume": 1129919,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 59,
-   "direction": "down",
-   "why": "Can AeroVironment's Propulsion Capabilities Support Future Growth?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/articles/aerovironments-propulsion-capabilities-support-future-145400530.html",
-   "published": "2026-08-20T14:54:00Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 2,
    "ticker": "OKTA",
    "company": "Okta Inc",
-   "move_pct": -5.42,
-   "price": 133.56,
-   "volume": 1598371,
+   "move_pct": -5.41,
+   "price": 133.57,
+   "volume": 1615379,
    "volume_vs_avg": "~0.6x",
    "heat_score": 37,
    "direction": "down",
@@ -40,13 +24,13 @@
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "ticker": "LEU",
    "company": "Centrus Energy Corp",
-   "move_pct": -5.68,
-   "price": 173.24,
-   "volume": 254311,
-   "volume_vs_avg": "~0.3x",
+   "move_pct": -5.8,
+   "price": 173.03,
+   "volume": 260090,
+   "volume_vs_avg": "~0.4x",
    "heat_score": 37,
    "direction": "down",
    "why": "NuScale Power and Oklo Drop 5%, Centrus Energy Sinks 6%: What\u2019s Behind the Nuclear Stock Selloff?",

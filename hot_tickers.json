@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-20T10:14:14+00:00",
+  "as_of": "2026-08-20T10:29:20+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "SKHY",
-   "company": "SK hynix Inc (ADR)",
-   "move_pct": 5.13,
-   "price": 164.17,
-   "volume": 33580500,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "Why Are Nasdaq, S&P 500 Futures Falling Premarket? NVDA, SKHY, SPCX, TSLA, MRNA, MSTR, PURR, WMT Stocks In Focus",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-nasdaq-p-500-futures-085855064.html",
-   "published": "2026-08-20T08:58:55Z",
-   "sector": "Chip Equipment & AI Hardware"
-  }
- ]
+ "hot_tickers": []
 }

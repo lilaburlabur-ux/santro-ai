@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-20T21:24:59+00:00",
-  "as_of_local": "2026-08-20 21:24:59 UTC",
+  "as_of_utc": "2026-08-20T21:30:00+00:00",
+  "as_of_local": "2026-08-20 21:30:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 1731901913670.347,
       "headlines": [
         {
+          "title": "How Much of Your Portfolio Should Actually Be in FTXL",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/much-portfolio-actually-ftxl-211532063.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-20T21:15:32Z"
+        },
+        {
           "title": "Broadcom repoirtedly seeking to raise over $60 billion for AI chip deal",
           "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-repoirtedly-seeking-raise-over-204953745.html",
           "publisher": "Investing.com",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-more-60-billion-203818587.html",
           "publisher": "Reuters",
           "published": "2026-08-20T20:38:18Z"
-        },
-        {
-          "title": "AMD Just Split Two of Wall Street\u2019s Biggest Contrarian Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-just-split-two-wall-203344035.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-08-20T20:33:44Z"
         }
       ]
     },
@@ -585,13 +585,18 @@
     },
     {
       "label": "BTC",
-      "price": 72706.87,
-      "change_pct": 4.97
+      "price": 72648.46,
+      "change_pct": 4.88
     },
     {
       "label": "Gold",
       "price": 4575.1,
       "change_pct": 1.91
+    },
+    {
+      "label": "Nasdaq100",
+      "price": 29213.16,
+      "change_pct": -0.72
     }
   ]
 }

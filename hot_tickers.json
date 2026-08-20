@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-20T15:42:16+00:00",
+  "as_of": "2026-08-20T15:57:24+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "SPCX",
    "company": "SpaceX",
-   "move_pct": -6.21,
-   "price": 130.98,
-   "volume": 58329844,
+   "move_pct": -5.53,
+   "price": 131.93,
+   "volume": 63516498,
    "volume_vs_avg": "~0.6x",
-   "heat_score": 40,
+   "heat_score": 38,
    "direction": "down",
    "why": "SpaceX Drops 6%, Dips Below Its IPO Price as 319M Shares Unlock; Rocket Lab Falls 4%",
    "catalyst_type": "momentum_narrative",

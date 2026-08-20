@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
+| AMD Just Split Two of Wall Street’s Biggest Contrarian Investors | Insider Monkey | 2026-08-20 |
 | Moderna Is Yesterday's Top Gainer and Today's Biggest Loser | Barrons.com | 2026-08-20 |
 | Billionaire Stanley Druckenmiller Dumped Micron, Intel, and Broadcom: Here Are the AI Infrastructure Stocks He Bought Instead | 24/7 Wall St. | 2026-08-20 |
 | Intel (INTC) Stock Became 67% Of A Major Investor’s US Equity Portfolio | Simply Wall St. | 2026-08-20 |
-| NVIDIA Looks Expensive Until You Ask What Has To Ship | Trefis | 2026-08-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

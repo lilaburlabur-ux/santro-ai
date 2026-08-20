@@ -1,5 +1,5 @@
 # AMD Research Report
-**Advanced Micro Devices, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**AMD** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `AMD.research.20.08.2026`
 
 | Field | Value |
@@ -37,9 +37,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | Waymo is making its own AI chip for its robotaxi service | Yahoo Finance Video | 2026-08-20 |
+| AMD Just Split Two of Wall Street’s Biggest Contrarian Investors | Insider Monkey | 2026-08-20 |
 | The Line In The Sand For AVGO Stock | Trefis | 2026-08-20 |
 | Waymo Builds Its Own Chip and Reduces Its Nvidia Dependence | GuruFocus.com | 2026-08-20 |
-| Cathie Wood Sends Fresh Warning on AMD Stock | GuruFocus.com | 2026-08-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

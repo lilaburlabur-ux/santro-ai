@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
+| Tech stocks today: Anthropic's IPO plans come into focus, Nvidia earnings provide next test for AI trade | Yahoo Finance | 2026-08-17 |
 | Waymo is making its own AI chip for its robotaxi service | Yahoo Finance Video | 2026-08-20 |
-| Tech stocks today: OpenAI's growth disappoints, Nvidia earnings provide next test for AI trade | Yahoo Finance | 2026-08-17 |
-| Grok 4.6 Matches the Frontier Models at a 60% Discount. Now SpaceX Has the Developers to Use It. | Motley Fool | 2026-08-20 |
-| The Line In The Sand For AVGO Stock | Trefis | 2026-08-20 |
+| AMD Just Split Two of Wall Street’s Biggest Contrarian Investors | Insider Monkey | 2026-08-20 |
+| Billionaire Investor David Tepper Recently Dumped Appaloosa Management's Stake in Sandisk and Initiated a New Position In a Stock That Some Wall Street Experts Think Could Eventually Be Worth $10 Trillion | Motley Fool | 2026-08-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

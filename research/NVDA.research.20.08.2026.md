@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Tech stocks today: Anthropic's IPO plans come into focus, Nvidia earnings provide next test for AI trade | Yahoo Finance | 2026-08-17 |
 | Waymo is making its own AI chip for its robotaxi service | Yahoo Finance Video | 2026-08-20 |
-| AMD Just Split Two of Wall Street’s Biggest Contrarian Investors | Insider Monkey | 2026-08-20 |
-| Billionaire Investor David Tepper Recently Dumped Appaloosa Management's Stake in Sandisk and Initiated a New Position In a Stock That Some Wall Street Experts Think Could Eventually Be Worth $10 Trillion | Motley Fool | 2026-08-20 |
+| Goldman Sachs Just Paid $2.25 Billion for the Family Behind Your 14% Income Fund | 24/7 Wall St. | 2026-08-20 |
+| There’s a Black Market for Eli Lilly’s Unapproved GLP-1 Drug. Here’s Why That’s Bullish | Motley Fool | 2026-08-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -123,7 +123,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | 52W low | $164.98 | Inst. ownership | 71.31% |
 | P/E (ttm) | 33.21 | Insider ownership | 3.99% |
 | Forward P/E | 16.68 | Short float | 1.26% |
-| PEG (trailing) | 0.61 | Avg volume | 143,105,546 |
+| PEG (trailing) | 0.60 | Avg volume | 143,105,546 |
 | P/S | 20.72 | Employees | 42,000 |
 | P/B | 26.87 | Analyst rec (1=buy..5=sell) | 1.3 |
 

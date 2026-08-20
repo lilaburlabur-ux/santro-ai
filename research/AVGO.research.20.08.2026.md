@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Broadcom repoirtedly seeking to raise over $60 billion for AI chip deal | Investing.com | 2026-08-20 |
 | Broadcom seeks more than $60 billion in latest AI debt deal, Bloomberg News reports | Reuters | 2026-08-20 |
 | AMD Just Split Two of Wall Street’s Biggest Contrarian Investors | Insider Monkey | 2026-08-20 |
 | Billionaire Stanley Druckenmiller Sold Broadcom and Bought the Same Artificial Intelligence (AI) Stock Berkshire Piled $17 Billion Into | Motley Fool | 2026-08-20 |
-| The Line In The Sand For AVGO Stock | Trefis | 2026-08-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

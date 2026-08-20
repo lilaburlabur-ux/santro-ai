@@ -37,9 +37,9 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Headline | Source | Date |
 |---|---|---|
 | Waymo is making its own AI chip for its robotaxi service | Yahoo Finance Video | 2026-08-20 |
+| Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble | Investor's Business Daily | 2026-08-20 |
 | AMD Just Split Two of Wall Street’s Biggest Contrarian Investors | Insider Monkey | 2026-08-20 |
 | SK Hynix Climbs 4% on Record Buyback, Micron Ticks Up as Memory Defies the Tech Selloff | 24/7 Wall St. | 2026-08-20 |
-| Micron Quietly Pours $10 Billion Into Next Big Move | GuruFocus.com | 2026-08-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

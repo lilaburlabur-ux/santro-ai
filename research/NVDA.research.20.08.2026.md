@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Tech stocks today: Anthropic's IPO plans come into focus, Nvidia earnings provide next test for AI trade | Yahoo Finance | 2026-08-17 |
 | Waymo is making its own AI chip for its robotaxi service | Yahoo Finance Video | 2026-08-20 |
-| Goldman Sachs Just Paid $2.25 Billion for the Family Behind Your 14% Income Fund | 24/7 Wall St. | 2026-08-20 |
-| There’s a Black Market for Eli Lilly’s Unapproved GLP-1 Drug. Here’s Why That’s Bullish | Motley Fool | 2026-08-20 |
+| Your Muni Income Is Invisible to One Tax Break and Fatal to Another | 24/7 Wall St. | 2026-08-20 |
+| The Biggest Risk Facing the First Trust Nasdaq Semiconductor ETF (FTXL) Right Now | 24/7 Wall St. | 2026-08-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

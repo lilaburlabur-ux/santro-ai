@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Waymo is making its own AI chip for its robotaxi service | Yahoo Finance Video | 2026-08-20 |
 | Tech stocks today: OpenAI's growth disappoints, Nvidia earnings provide next test for AI trade | Yahoo Finance | 2026-08-17 |
+| Grok 4.6 Matches the Frontier Models at a 60% Discount. Now SpaceX Has the Developers to Use It. | Motley Fool | 2026-08-20 |
 | The Line In The Sand For AVGO Stock | Trefis | 2026-08-20 |
-| Waymo Builds Its Own Chip and Reduces Its Nvidia Dependence | GuruFocus.com | 2026-08-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

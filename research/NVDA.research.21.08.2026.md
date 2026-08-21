@@ -18,7 +18,7 @@ Signed file: `NVDA.research.21.08.2026`
 | Technical momentum | Moderate | 1Y +22.58%; price +10.04% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -8.81% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 62.97%, revenue growth 85.20%. |
-| Value attractiveness | Reasonable | Forward P/E 16.50, EV/Sales 20.54. |
+| Value attractiveness | Reasonable | Forward P/E 16.48, EV/Sales 20.54. |
 | Risk level | High | Beta 2.21, ATR 2.9% of price, short float 1.26%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -39,7 +39,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Stock market today: Dow, S&P 500, Nasdaq post weekly losses as bond volatility remains in focus, bitcoin soars | Yahoo Finance | 2026-08-21 |
 | Tech stocks today: Nvidia earnings on the horizon, as Anthropic prepares IPO plans | Yahoo Finance | 2026-08-17 |
 | Here's what Nvidia needs to do to unlock an even better stock valuation | Yahoo Finance | 2026-08-21 |
-| Wedbush Says Marvell Just Changed Its AI Story | GuruFocus.com | 2026-08-21 |
+| Why Clean Energy Fuels Stock Slumped This Week | Motley Fool | 2026-08-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $253.49B | Revenue growth 85.20% y/y |
 | Profitability | Gross 74.14%, operating 65.60%, net 62.97% | ROA 52.73%, ROE 114.29% |
 | Balance sheet | Cash $53.17B, debt $12.81B | Current ratio 3.44, debt/equity 6.55 |
-| Valuation | P/E 32.88, forward P/E 16.50, P/S 20.52, P/B 26.61 | EV/Sales 20.54, EV/EBITDA 31.46 |
+| Valuation | P/E 32.88, forward P/E 16.48, P/S 20.52, P/B 26.61 | EV/Sales 20.54, EV/EBITDA 31.46 |
 | Growth expectations | Earnings growth 214.50%, EPS q/q 210.60% | Analyst mean target $304.12 (58 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | 52W high | $235.47 | Revenue growth y/y | 85.20% |
 | 52W low | $164.98 | Inst. ownership | 71.27% |
 | P/E (ttm) | 32.88 | Insider ownership | 3.99% |
-| Forward P/E | 16.50 | Short float | 1.26% |
+| Forward P/E | 16.48 | Short float | 1.26% |
 | PEG (trailing) | 0.60 | Avg volume | 141,320,166 |
 | P/S | 20.52 | Employees | 42,000 |
 | P/B | 26.61 | Analyst rec (1=buy..5=sell) | 1.3 |

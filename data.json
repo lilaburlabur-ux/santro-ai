@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-08-21T21:51:28+00:00",
-  "as_of_local": "2026-08-21 21:51:28 UTC",
+  "as_of_utc": "2026-08-21T21:53:20+00:00",
+  "as_of_local": "2026-08-21 21:53:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 214.72,
+      "previous_close": 216.85,
+      "change_pct": -0.98,
+      "market_cap": 5200733149566.65,
+      "headlines": [
+        {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq post weekly losses as bond volatility remains in focus, bitcoin soars",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-08-21T08:05:33Z"
+        },
+        {
+          "title": "Tech stocks today: Nvidia earnings on the horizon, as Anthropic prepares IPO plans",
+          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-nvidia-earnings-on-the-horizon-as-anthropic-prepares-ipo-plans-132945569.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-08-17T13:29:45Z"
+        },
+        {
+          "title": "Here's what Nvidia needs to do to unlock an even better stock valuation",
+          "url": "https://finance.yahoo.com/markets/stocks/article/heres-what-nvidia-needs-to-do-to-unlock-an-even-better-stock-valuation-120651570.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-08-21T12:06:51Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -124,7 +150,7 @@
       "price": 90.07,
       "previous_close": 92.13,
       "change_pct": -2.24,
-      "market_cap": 473275183588.49585,
+      "market_cap": 476119499335.1487,
       "headlines": [
         {
           "title": "Elon Musk's SpaceX and Tesla Are Building a $16.8 Billion Chip Factory 5 Times Bigger Than Earth's Largest Building. What Does That Mean for Both Stocks?",
@@ -264,7 +290,7 @@
       "price": 117.69,
       "previous_close": 117.56,
       "change_pct": 0.11,
-      "market_cap": 16715543058.433594,
+      "market_cap": 16682464753.277405,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 78348.02,
-      "change_pct": 7.28
+      "price": 78432.22,
+      "change_pct": 7.39
     },
     {
       "label": "Gold",

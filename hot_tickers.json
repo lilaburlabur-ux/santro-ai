@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-21T00:24:40+00:00",
+  "as_of": "2026-08-21T00:39:55+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -36,7 +36,7 @@
    "why": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-triggers-bearish-signal-walmart-spacex-crowdstrike/?src=A00220&yptr=yahoo",
-   "published": "2026-08-21T00:03:42Z",
+   "published": "2026-08-21T00:18:29Z",
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
@@ -49,10 +49,10 @@
    "volume_vs_avg": "~0.9x",
    "heat_score": 38,
    "direction": "down",
-   "why": "MongoDB, Cloudflare, Okta, Zscaler, and Upstart Stocks Trade Down, What You Need To Know",
+   "why": "Can Zscaler\u2019s (ZS) Carahsoft SMB Push Quietly Redefine Its Core Zero Trust Investment Story?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/mongodb-cloudflare-okta-zscaler-upstart-223515889.html",
-   "published": "2026-08-20T22:35:15Z",
+   "source_url": "https://finance.yahoo.com/small-business/articles/zscaler-zs-carahsoft-smb-push-001935921.html",
+   "published": "2026-08-21T00:19:35Z",
    "sector": "AI Software & Cloud Infrastructure"
   }
  ]

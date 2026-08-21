@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-21T20:49:59+00:00",
+  "as_of": "2026-08-21T20:54:58+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -12,7 +12,7 @@
    "ticker": "TSLA",
    "company": "Tesla Inc",
    "move_pct": 5.04,
-   "price": 362.51,
+   "price": 362.52,
    "volume": 57808372,
    "volume_vs_avg": "~2x",
    "heat_score": 41,
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
-   "move_pct": -5.56,
-   "price": 237.06,
+   "move_pct": -5.5,
+   "price": 237.2,
    "volume": 24970547,
    "volume_vs_avg": "~1.1x",
    "heat_score": 40,
@@ -38,22 +38,6 @@
    "source_url": "https://finance.yahoo.com/technology/ai/articles/wedbush-says-marvell-just-changed-201708452.html",
    "published": "2026-08-21T20:17:08Z",
    "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 3,
-   "ticker": "BBAI",
-   "company": "BigBear.ai Holdings Inc",
-   "move_pct": 5.19,
-   "price": 3.23,
-   "volume": 19927575,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "Palantir Climbs 4% Through $180, BigBear.ai Rises 4%, ServiceNow Holds Flat: How Are Traders Picking the Software Winners?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/palantir-climbs-4-180-bigbear-171005603.html",
-   "published": "2026-08-21T17:10:05Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

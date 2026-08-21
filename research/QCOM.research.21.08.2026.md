@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| The $116 Billion That NVDA Quietly Paid Its Owners | Trefis | 2026-08-21 |
 | The Hidden Tax Cost of JEPI’s Monthly Income Machine | 24/7 Wall St. | 2026-08-21 |
 | Micron Technology Stock Has Become A Bet On Memory Prices | Trefis | 2026-08-21 |
 | Earn 17% On AMD Stock Now, For Capping Your Upside At 24% | Trefis | 2026-08-20 |
-| The Engine Behind INTC Stock Has Real Parts | Trefis | 2026-08-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

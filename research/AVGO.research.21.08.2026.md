@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| The $116 Billion That NVDA Quietly Paid Its Owners | Trefis | 2026-08-21 |
 | Sector Update: Tech Stocks Rise Late Afternoon | MT Newswires | 2026-08-21 |
 | TSMC Rises Ahead of Nvidia's Critical AI Demand Test | GuruFocus.com | 2026-08-21 |
 | BMO Spots a Bigger Nvidia Story | GuruFocus.com | 2026-08-21 |
-| US Equity Indexes Rise as Markets Attempt Rebound After Sharp Selloff Amid Elevated Oil Prices, Treasury Yields | MT Newswires | 2026-08-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

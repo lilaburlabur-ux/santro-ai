@@ -37,9 +37,9 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Headline | Source | Date |
 |---|---|---|
 | Advanced Micro Devices vs. Arm Holdings: Comparing Revenue Trends Between These Artificial Intelligence Companies | Motley Fool | 2026-08-21 |
+| Stocks Supported as Crude Oil Stabilizes | Barchart | 2026-08-21 |
 | Nvidia Eyes Deal With $2.3 Billion AI Chip Rival | GuruFocus.com | 2026-08-21 |
 | Tech Stocks Slide With Bond Yields at Decade Highs | The Wall Street Journal | 2026-08-18 |
-| ARM Stock: The $2 Billion AI Signal Investors Shouldn’t Ignore | 24/7 Wall St. | 2026-08-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

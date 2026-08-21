@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Dow Jones Futures: Market Rally Repairs Some Damage; Nvidia, CrowdStrike, Warsh In Focus | Investor's Business Daily | 2026-08-21 |
+| The $116 Billion That NVDA Quietly Paid Its Owners | Trefis | 2026-08-21 |
 | Wedbush Says Marvell Just Changed Its AI Story | GuruFocus.com | 2026-08-21 |
 | Marvell Stock Plunges After Two-Day Surge Despite Google AI Chip Catalyst | GuruFocus.com | 2026-08-21 |
-| Marvell Quarterly Results Poised for Upside Led by AI, Customer Wins, Oppenheimer Says | MT Newswires | 2026-08-21 |
-| Moderna, Robinhood, Marvell, Tesla, SpaceX, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

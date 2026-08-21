@@ -1,16 +1,16 @@
 {
-  "as_of_utc": "2026-08-21T17:37:46+00:00",
-  "as_of_local": "2026-08-21 17:37:46 UTC",
+  "as_of_utc": "2026-08-21T17:42:55+00:00",
+  "as_of_local": "2026-08-21 17:42:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 215.29,
+      "price": 215.54,
       "previous_close": 216.85,
-      "change_pct": -0.72,
-      "market_cap": 5214781373916.626,
+      "change_pct": -0.6,
+      "market_cap": 5220715400650.024,
       "headlines": [
         {
           "title": "Micron\u2019s AI boom rolls on with $10 billion Iowa data center",
@@ -35,10 +35,10 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 419.14,
+      "price": 419.38,
       "previous_close": 416.0,
-      "change_pct": 0.76,
-      "market_cap": 2173884593198.5796,
+      "change_pct": 0.81,
+      "market_cap": 2175466588064.3003,
       "headlines": [
         {
           "title": "Waymo is making its own AI chip for its robotaxi service",
@@ -63,11 +63,17 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 365.97,
+      "price": 366.08,
       "previous_close": 364.03,
-      "change_pct": 0.53,
-      "market_cap": 1741535984533.332,
+      "change_pct": 0.56,
+      "market_cap": 1741678706131.679,
       "headlines": [
+        {
+          "title": "Sector Update: Tech Stocks Mixed Friday Afternoon",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-friday-172901231.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-21T17:29:01Z"
+        },
         {
           "title": "Broadcom seeks up to $80 billion in debt for AI chip deal",
           "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-80-billion-debt-171925920.html",
@@ -79,22 +85,16 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-ai-boom-2x-stock-170014087.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-21T17:00:14Z"
-        },
-        {
-          "title": "US Equity Indexes Rise Despite Further Uptick in Treasury Yields, Firm Oil Prices",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-despite-165247483.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-21T16:52:47Z"
         }
       ]
     },
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 965.7,
+      "price": 966.03,
       "previous_close": 974.33,
-      "change_pct": -0.89,
-      "market_cap": 1090575913914.745,
+      "change_pct": -0.85,
+      "market_cap": 1091407931452.1333,
       "headlines": [
         {
           "title": "Micron\u2019s AI boom rolls on with $10 billion Iowa data center",
@@ -119,10 +119,10 @@
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 470.82,
+      "price": 470.49,
       "previous_close": 469.46,
-      "change_pct": 0.29,
-      "market_cap": 768634542796.9778,
+      "change_pct": 0.22,
+      "market_cap": 768063166568.4409,
       "headlines": [
         {
           "title": "Waymo is making its own AI chip for its robotaxi service",
@@ -147,10 +147,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 90.39,
+      "price": 90.4,
       "previous_close": 92.13,
-      "change_pct": -1.89,
-      "market_cap": 477996084448.26306,
+      "change_pct": -1.88,
+      "market_cap": 475035445093.3583,
       "headlines": [
         {
           "title": "Is Micron a Commodity or an AI Powerhouse? The Debate Driving Its Low Valuation.",
@@ -175,10 +175,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 244.73,
+      "price": 244.7,
       "previous_close": 250.72,
-      "change_pct": -2.39,
-      "market_cap": 261371285228.38782,
+      "change_pct": -2.4,
+      "market_cap": 261339246575.02704,
       "headlines": [
         {
           "title": "Nvidia Eyes Deal With $2.3 Billion AI Chip Rival",
@@ -203,10 +203,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 236.3,
+      "price": 236.02,
       "previous_close": 251.01,
-      "change_pct": -5.86,
-      "market_cap": 212089654025.90103,
+      "change_pct": -5.97,
+      "market_cap": 211842916960.3986,
       "headlines": [
         {
           "title": "Citi resets Marvell stock price target ahead of earnings",
@@ -231,10 +231,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 160.79,
+      "price": 160.73,
       "previous_close": 160.74,
-      "change_pct": 0.03,
-      "market_cap": 168867105106.45892,
+      "change_pct": -0.01,
+      "market_cap": 168798853362.84415,
       "headlines": [
         {
           "title": "The Hidden Tax Cost of JEPI\u2019s Monthly Income Machine",
@@ -259,10 +259,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 223.66,
+      "price": 223.91,
       "previous_close": 222.97,
-      "change_pct": 0.31,
-      "market_cap": 56414169315.097595,
+      "change_pct": 0.42,
+      "market_cap": 56462081123.792786,
       "headlines": [
         {
           "title": "3 of Wall Street\u2019s Favorite Stocks We\u2019re Skeptical Of",
@@ -287,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 117.8,
+      "price": 117.76,
       "previous_close": 117.56,
-      "change_pct": 0.2,
-      "market_cap": 16698057252.784256,
+      "change_pct": 0.17,
+      "market_cap": 16725485134.129395,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -315,10 +315,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 163.46,
+      "price": 162.67,
       "previous_close": 159.79,
-      "change_pct": 2.3,
-      "market_cap": 8307464989.116287,
+      "change_pct": 1.8,
+      "market_cap": 8267314688.991013,
       "headlines": [
         {
           "title": "Archer Aviation Has a New $200 Million Reason to Get Excited",
@@ -343,10 +343,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 96.95,
+      "price": 97.06,
       "previous_close": 98.0,
-      "change_pct": -1.07,
-      "market_cap": 3791422173.35495,
+      "change_pct": -0.96,
+      "market_cap": 3795528538.164505,
       "headlines": [
         {
           "title": "Synaptics CFO Resigns, Company Skips Successor Search Before Merger",
@@ -371,10 +371,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 27.77,
+      "price": 27.71,
       "previous_close": 28.13,
-      "change_pct": -1.28,
-      "market_cap": 781838592.3279114,
+      "change_pct": -1.49,
+      "market_cap": 780149309.3441772,
       "headlines": [
         {
           "title": "Bears are Losing Control Over Ceva (CEVA), Here's Why It's a 'Buy' Now",
@@ -401,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 57.9,
-      "change_pct": 0.56,
+      "price": 57.87,
+      "change_pct": 0.5,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -0.89,
-          "price": 965.7,
+          "change_pct": -0.85,
+          "price": 966.03,
           "currency": "USD"
         },
         {
@@ -445,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 0.19,
-          "price": 1603.6,
+          "change_pct": 0.16,
+          "price": 1603.16,
           "currency": "USD"
         },
         {
@@ -454,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 0.21,
-          "price": 852.02,
+          "change_pct": 0.4,
+          "price": 853.64,
           "currency": "USD"
         },
         {
@@ -463,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -0.72,
-          "price": 465.65,
+          "change_pct": -0.65,
+          "price": 466.0,
           "currency": "USD"
         },
         {
@@ -491,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 57.9,
-    "change_pct": 0.56,
+    "price": 57.87,
+    "change_pct": 0.5,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -0.89,
-        "price": 965.7,
+        "change_pct": -0.85,
+        "price": 966.03,
         "currency": "USD"
       },
       {
@@ -535,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 0.19,
-        "price": 1603.6,
+        "change_pct": 0.16,
+        "price": 1603.16,
         "currency": "USD"
       },
       {
@@ -544,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 0.21,
-        "price": 852.02,
+        "change_pct": 0.4,
+        "price": 853.64,
         "currency": "USD"
       },
       {
@@ -553,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -0.72,
-        "price": 465.65,
+        "change_pct": -0.65,
+        "price": 466.0,
         "currency": "USD"
       },
       {
@@ -580,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7676.58,
-      "change_pct": 0.46
+      "price": 7674.78,
+      "change_pct": 0.44
     },
     {
       "label": "BTC",
-      "price": 77530.17,
-      "change_pct": 6.16
+      "price": 77364.42,
+      "change_pct": 5.93
     },
     {
       "label": "Gold",
-      "price": 4676.1,
-      "change_pct": 3.54
+      "price": 4678.3,
+      "change_pct": 3.59
     },
     {
       "label": "Nasdaq100",
-      "price": 29321.2,
-      "change_pct": 0.37
+      "price": 29315.72,
+      "change_pct": 0.35
     }
   ]
 }

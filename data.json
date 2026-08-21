@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-21T22:03:23+00:00",
-  "as_of_local": "2026-08-21 22:03:23 UTC",
+  "as_of_utc": "2026-08-21T22:08:31+00:00",
+  "as_of_local": "2026-08-21 22:08:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -115,6 +113,34 @@
           "url": "https://www.investors.com/research/swing-trading/a-bounce-from-weakness-selling-into-strength-for-dram-etf-beat-a-round-trip/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-08-21T21:07:30Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 473.25,
+      "previous_close": 469.46,
+      "change_pct": 0.81,
+      "market_cap": 772568813626.5,
+      "headlines": [
+        {
+          "title": "NVIDIA Corporation (NVDA) & Advanced Micro Devices (AMD): Nvidia Might Ship AI Chips With Less Memory. AMD Says It\u2019s Not Worried",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-advanced-micro-204025825.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-08-21T20:40:25Z"
+        },
+        {
+          "title": "The $116 Billion That NVDA Quietly Paid Its Owners",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/116-billion-nvda-quietly-paid-203855032.html",
+          "publisher": "Trefis",
+          "published": "2026-08-21T20:38:55Z"
+        },
+        {
+          "title": "Goldman Sachs Sees Nvidia Setup Few Expect",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-sees-nvidia-setup-201703480.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-08-21T20:17:03Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 78396.82,
-      "change_pct": 7.34
+      "price": 78653.81,
+      "change_pct": 7.7
     },
     {
       "label": "Gold",

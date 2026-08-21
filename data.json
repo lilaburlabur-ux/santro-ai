@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-21T06:00:14+00:00",
-  "as_of_local": "2026-08-21 06:00:14 UTC",
+  "as_of_utc": "2026-08-21T06:15:15+00:00",
+  "as_of_local": "2026-08-21 06:15:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -35,9 +37,9 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 412.09,
-      "previous_close": 413.41,
-      "change_pct": -0.32,
+      "price": 416.0,
+      "previous_close": 412.09,
+      "change_pct": 0.95,
       "market_cap": 2157573189408.0,
       "headlines": [
         {
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/riot-platforms-riot-cleanspark-clsk-014919566.html",
           "publisher": "Insider Monkey",
           "published": "2026-08-21T01:49:19Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 92.13,
-      "previous_close": 92.8,
-      "change_pct": -0.72,
-      "market_cap": 484099494968.96246,
-      "headlines": [
-        {
-          "title": "Nvidia, AMD, and Intel: Wall Street Says to Buy 2 and Avoid 1. I Disagree.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-intel-wall-street-022000724.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-21T02:20:00Z"
-        },
-        {
-          "title": "Lenovo Group Limited (LNVGY) and Intel Corporation (INTC) are Both Riding the AI Hardware Boom. One Just Posted a Loss Anyway",
-          "url": "https://finance.yahoo.com/technology/ai/articles/lenovo-group-limited-lnvgy-intel-232453667.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-08-20T23:24:53Z"
-        },
-        {
-          "title": "Coatue Management Opens New Position in AMD Stock. View This as a Renewed Bet on the AI Trade.",
-          "url": "https://finance.yahoo.com/technology/ai/articles/coatue-management-opens-position-amd-214733476.html",
-          "publisher": "Barchart",
-          "published": "2026-08-20T21:47:33Z"
         }
       ]
     },
@@ -290,7 +264,7 @@
       "price": 117.56,
       "previous_close": 117.68,
       "change_pct": -0.1,
-      "market_cap": 16697078429.566406,
+      "market_cap": 16664036663.972595,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.84,
-          "price": 1739000.0,
+          "change_pct": 2.25,
+          "price": 1729000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 4.98,
-          "price": 284500.0,
+          "change_pct": 4.06,
+          "price": 282000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 2.57,
-          "price": 54310.0,
+          "change_pct": 2.83,
+          "price": 54450.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.84,
-        "price": 1739000.0,
+        "change_pct": 2.25,
+        "price": 1729000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 4.98,
-        "price": 284500.0,
+        "change_pct": 4.06,
+        "price": 282000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 2.57,
-        "price": 54310.0,
+        "change_pct": 2.83,
+        "price": 54450.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 75438.08,
-      "change_pct": 8.91
+      "price": 75272.4,
+      "change_pct": 8.67
     },
     {
       "label": "Gold",
-      "price": 4602.3,
-      "change_pct": 1.9
+      "price": 4605.0,
+      "change_pct": 1.96
     },
     {
       "label": "Nasdaq100",

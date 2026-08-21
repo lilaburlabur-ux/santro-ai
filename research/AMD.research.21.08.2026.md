@@ -1,5 +1,5 @@
 # AMD Research Report
-**AMD** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Advanced Micro Devices, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `AMD.research.21.08.2026`
 
 | Field | Value |
@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Goldman Sachs Sees Nvidia Setup Few Expect | GuruFocus.com | 2026-08-21 |
 | AMD Falls as Nvidia's Earnings Test Looms Over AI Chips | GuruFocus.com | 2026-08-21 |
 | Advanced Micro Devices vs. Arm Holdings: Comparing Revenue Trends Between These Artificial Intelligence Companies | Motley Fool | 2026-08-21 |
 | Advanced Micro Devices (AMD) Posts Record Sales, But Musk’s NVIDIA (NVDA) Pledge Sinks the Stock | Insider Monkey | 2026-08-21 |
-| TSMC Rises Ahead of Nvidia's Critical AI Demand Test | GuruFocus.com | 2026-08-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

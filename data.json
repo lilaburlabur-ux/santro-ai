@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-21T01:30:26+00:00",
-  "as_of_local": "2026-08-21 01:30:26 UTC",
+  "as_of_utc": "2026-08-21T01:35:39+00:00",
+  "as_of_local": "2026-08-21 01:35:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -119,12 +117,40 @@
       ]
     },
     {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 469.45,
+      "previous_close": 466.42,
+      "change_pct": 0.65,
+      "market_cap": 766373548921.6687,
+      "headlines": [
+        {
+          "title": "Waymo is making its own AI chip for its robotaxi service",
+          "url": "https://finance.yahoo.com/video/waymo-making-own-ai-chip-194318039.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-08-20T19:43:18Z"
+        },
+        {
+          "title": "History of TSMC & its stock: Company timeline, facts & milestones",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/history-tsmc-stock-company-timeline-220441294.html",
+          "publisher": "TheStreet",
+          "published": "2026-08-20T22:04:41Z"
+        },
+        {
+          "title": "Earn 17% On AMD Stock Now, For Capping Your Upside At 24%",
+          "url": "https://finance.yahoo.com/markets/options/articles/earn-17-amd-stock-now-214121302.html",
+          "publisher": "Trefis",
+          "published": "2026-08-20T21:41:21Z"
+        }
+      ]
+    },
+    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 92.13,
       "previous_close": 92.8,
       "change_pct": -0.72,
-      "market_cap": 487008863269.33826,
+      "market_cap": 484099494968.96246,
       "headlines": [
         {
           "title": "Lenovo Group Limited (LNVGY) and Intel Corporation (INTC) are Both Riding the AI Hardware Boom. One Just Posted a Loss Anyway",
@@ -264,7 +290,7 @@
       "price": 117.56,
       "previous_close": 117.68,
       "change_pct": -0.1,
-      "market_cap": 16664036663.972595,
+      "market_cap": 16697078429.566406,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 3.02,
-          "price": 1742000.0,
+          "change_pct": 3.78,
+          "price": 1755000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.0,
-          "price": 271000.0,
+          "change_pct": 0.74,
+          "price": 273000.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 1.72,
-          "price": 53860.0,
+          "change_pct": 2.32,
+          "price": 54180.0,
           "currency": "JPY"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -0.39,
-          "price": 515.0,
+          "change_pct": 0.39,
+          "price": 519.0,
           "currency": "TWD"
         },
         {
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 0.0,
-          "price": 176.5,
+          "change_pct": 0.28,
+          "price": 177.0,
           "currency": "TWD"
         }
       ]
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 3.02,
-        "price": 1742000.0,
+        "change_pct": 3.78,
+        "price": 1755000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.0,
-        "price": 271000.0,
+        "change_pct": 0.74,
+        "price": 273000.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 1.72,
-        "price": 53860.0,
+        "change_pct": 2.32,
+        "price": 54180.0,
         "currency": "JPY"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -0.39,
-        "price": 515.0,
+        "change_pct": 0.39,
+        "price": 519.0,
         "currency": "TWD"
       },
       {
@@ -545,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 0.0,
-        "price": 176.5,
+        "change_pct": 0.28,
+        "price": 177.0,
         "currency": "TWD"
       }
     ]
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 74691.24,
-      "change_pct": 7.83
+      "price": 74710.0,
+      "change_pct": 7.86
     },
     {
       "label": "Gold",
-      "price": 4580.1,
-      "change_pct": 2.02
+      "price": 4583.8,
+      "change_pct": 2.1
     },
     {
       "label": "Nasdaq100",

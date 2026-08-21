@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-21T09:46:56+00:00",
-  "as_of_local": "2026-08-21 09:46:56 UTC",
+  "as_of_utc": "2026-08-21T09:52:10+00:00",
+  "as_of_local": "2026-08-21 09:52:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -150,7 +152,7 @@
       "price": 92.13,
       "previous_close": 92.8,
       "change_pct": -0.72,
-      "market_cap": 484099494968.96246,
+      "market_cap": 487008863269.33826,
       "headlines": [
         {
           "title": "Nvidia in Talks With Chip Startup Rebellions for Potential Deal",
@@ -197,34 +199,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/arm-cfo-says-delivering-silicon-152335081.html",
           "publisher": "Stocktwits",
           "published": "2026-08-17T15:23:35Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 251.01,
-      "previous_close": 237.27,
-      "change_pct": 5.79,
-      "market_cap": 225292620686.87122,
-      "headlines": [
-        {
-          "title": "Google's Marvell Warrant Doesn't Fully Vest Until Google Buys $120 Billion of Chips",
-          "url": "https://finance.yahoo.com/technology/articles/googles-marvell-warrant-doesnt-fully-033801123.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-21T03:38:01Z"
-        },
-        {
-          "title": "MRVL Stock Jumps 6% As Top Wall Street Firms Furnish Bullish Signals Ahead Of Marvell Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mrvl-stock-jumps-6-top-233512306.html",
-          "publisher": "Stocktwits",
-          "published": "2026-08-20T23:35:12Z"
-        },
-        {
-          "title": "What Is Alphabet (GOOGL) Signaling With Its New AI Chip Stake Option?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-signaling-ai-chip-231221134.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-20T23:12:21Z"
         }
       ]
     },
@@ -290,7 +264,7 @@
       "price": 117.56,
       "previous_close": 117.68,
       "change_pct": -0.1,
-      "market_cap": 16697078429.566406,
+      "market_cap": 16664036663.972595,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78221.43,
-      "change_pct": 7.1
+      "price": 78129.48,
+      "change_pct": 6.98
     },
     {
       "label": "Gold",
-      "price": 4640.2,
-      "change_pct": 2.74
+      "price": 4643.9,
+      "change_pct": 2.83
     },
     {
       "label": "Nasdaq100",

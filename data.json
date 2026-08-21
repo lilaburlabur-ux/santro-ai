@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-08-21T21:48:19+00:00",
-  "as_of_local": "2026-08-21 21:48:19 UTC",
+  "as_of_utc": "2026-08-21T21:51:28+00:00",
+  "as_of_local": "2026-08-21 21:51:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 214.72,
-      "previous_close": 216.85,
-      "change_pct": -0.98,
-      "market_cap": 5200733149566.65,
-      "headlines": [
-        {
-          "title": "Stock market today: Dow, S&P 500, Nasdaq post weekly losses as bond volatility remains in focus, bitcoin soars",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-21T08:05:33Z"
-        },
-        {
-          "title": "Tech stocks today: Nvidia earnings on the horizon, as Anthropic prepares IPO plans",
-          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-nvidia-earnings-on-the-horizon-as-anthropic-prepares-ipo-plans-132945569.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-17T13:29:45Z"
-        },
-        {
-          "title": "Here's what Nvidia needs to do to unlock an even better stock valuation",
-          "url": "https://finance.yahoo.com/markets/stocks/article/heres-what-nvidia-needs-to-do-to-unlock-an-even-better-stock-valuation-120651570.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-21T12:06:51Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 78218.32,
-      "change_pct": 7.1
+      "price": 78348.02,
+      "change_pct": 7.28
     },
     {
       "label": "Gold",

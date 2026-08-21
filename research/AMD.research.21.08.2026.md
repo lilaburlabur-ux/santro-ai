@@ -1,5 +1,5 @@
 # AMD Research Report
-**Advanced Micro Devices, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**AMD** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `AMD.research.21.08.2026`
 
 | Field | Value |

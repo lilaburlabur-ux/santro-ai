@@ -39,7 +39,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Stock market today: Dow, S&P 500, Nasdaq post weekly losses as bond volatility remains in focus, bitcoin soars | Yahoo Finance | 2026-08-21 |
 | Tech stocks today: Nvidia earnings on the horizon, as Anthropic prepares IPO plans | Yahoo Finance | 2026-08-17 |
 | Here's what Nvidia needs to do to unlock an even better stock valuation | Yahoo Finance | 2026-08-21 |
-| Why BitMine Immersion Technologies Stock Skyrocketed by 26% This Week | Motley Fool | 2026-08-21 |
+| Anthropic hires ex-Google chip chief as AI lab pushes into hardware - Bloomberg | Investing.com | 2026-08-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-21T21:53:17+00:00",
+  "as_of": "2026-08-21T22:08:34+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,35 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "TSLA",
-   "company": "Tesla Inc",
-   "move_pct": 5.22,
-   "price": 363.15,
-   "volume": 57808372,
-   "volume_vs_avg": "~2x",
-   "heat_score": 41,
-   "direction": "up",
-   "why": "Stock Market Today, Aug. 21: Tesla Gains on Nevada Robotaxi Permit Approval",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-21-212200649.html",
-   "published": "2026-08-21T21:22:00Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 2,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
-   "move_pct": -5.64,
-   "price": 236.84,
+   "move_pct": -5.8,
+   "price": 236.45,
    "volume": 24970547,
    "volume_vs_avg": "~1.1x",
-   "heat_score": 40,
+   "heat_score": 41,
    "direction": "down",
    "why": "Marvell Technology (MRVL) Stock Fair Value Edges Higher After Google AI Partnership Expansion",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-mrvl-stock-fair-211042043.html",
    "published": "2026-08-21T21:10:42Z",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
+   "ticker": "TSLA",
+   "company": "Tesla Inc",
+   "move_pct": 5.22,
+   "price": 363.14,
+   "volume": 57808372,
+   "volume_vs_avg": "~2x",
+   "heat_score": 41,
+   "direction": "up",
+   "why": "US Stock Indices End Week Lower On Pressure From Elevated Long-Duration Treasury Yields \u2014 PSKY, MSTR, WMT, TSLA, NVDA In Focus",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-indices-end-week-214844698.html",
+   "published": "2026-08-21T21:48:44Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

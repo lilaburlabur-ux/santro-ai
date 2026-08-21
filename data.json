@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-21T06:30:16+00:00",
-  "as_of_local": "2026-08-21 06:30:16 UTC",
+  "as_of_utc": "2026-08-21T06:35:31+00:00",
+  "as_of_local": "2026-08-21 06:35:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -27,10 +25,10 @@
           "published": "2026-08-20T19:43:18Z"
         },
         {
-          "title": "The Dividend ETF That Generates Passive Income While You Sleep",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-etf-generates-passive-income-052000888.html",
+          "title": "Macy's Stock Trades at Just 10 Times Earnings. There's Only 1 Explanation for Why Macy's Is This Cheap.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/macys-stock-trades-just-10-062500161.html",
           "publisher": "Motley Fool",
-          "published": "2026-08-21T05:20:00Z"
+          "published": "2026-08-21T06:25:00Z"
         }
       ]
     },
@@ -152,7 +150,7 @@
       "price": 92.13,
       "previous_close": 92.8,
       "change_pct": -0.72,
-      "market_cap": 484099494968.96246,
+      "market_cap": 487008863269.33826,
       "headlines": [
         {
           "title": "Nvidia, AMD, and Intel: Wall Street Says to Buy 2 and Avoid 1. I Disagree.",
@@ -171,6 +169,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/coatue-management-opens-position-amd-214733476.html",
           "publisher": "Barchart",
           "published": "2026-08-20T21:47:33Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 250.72,
+      "previous_close": 249.34,
+      "change_pct": 0.55,
+      "market_cap": 267768602523.3892,
+      "headlines": [
+        {
+          "title": "Tech Stocks Slide With Bond Yields at Decade Highs",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-drop-global-111000778.html",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-08-18T18:06:00Z"
+        },
+        {
+          "title": "ARM Stock: The $2 Billion AI Signal Investors Shouldn\u2019t Ignore",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-2-billion-ai-173027890.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-18T17:30:27Z"
+        },
+        {
+          "title": "ARM CFO Says \u2018Delivering Silicon Is Definitely More Complicated\u2019 As Chip Designer Eyes Deals To Go From Licensing To Making Chips: Report",
+          "url": "https://finance.yahoo.com/technology/ai/articles/arm-cfo-says-delivering-silicon-152335081.html",
+          "publisher": "Stocktwits",
+          "published": "2026-08-17T15:23:35Z"
         }
       ]
     },
@@ -264,7 +290,7 @@
       "price": 117.56,
       "previous_close": 117.68,
       "change_pct": -0.1,
-      "market_cap": 16697078429.566406,
+      "market_cap": 16664036663.972595,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.07,
-          "price": 1726000.0,
+          "change_pct": 2.28,
+          "price": 1729500.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 3.23,
-          "price": 279750.0,
+          "change_pct": 3.78,
+          "price": 281250.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 2.1,
-          "price": 54060.0,
+          "change_pct": 2.3,
+          "price": 54170.0,
           "currency": "JPY"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.07,
-        "price": 1726000.0,
+        "change_pct": 2.28,
+        "price": 1729500.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 3.23,
-        "price": 279750.0,
+        "change_pct": 3.78,
+        "price": 281250.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 2.1,
-        "price": 54060.0,
+        "change_pct": 2.3,
+        "price": 54170.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 75302.85,
-      "change_pct": 8.72
+      "price": 75543.85,
+      "change_pct": 9.06
     },
     {
       "label": "Gold",
-      "price": 4612.5,
-      "change_pct": 2.13
+      "price": 4607.2,
+      "change_pct": 2.01
     },
     {
       "label": "Nasdaq100",

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-21T15:16:06+00:00",
+  "as_of": "2026-08-21T15:31:17+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,18 +9,34 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "BABA",
+   "company": "Alibaba Group Holding Ltd ADR",
+   "move_pct": -6.94,
+   "price": 121.46,
+   "volume": 16645916,
+   "volume_vs_avg": "~2x",
+   "heat_score": 47,
+   "direction": "down",
+   "why": "BABA Q1 Earnings Call Centers on AI Cloud Growth & CapEx",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/baba-q1-earnings-call-centers-140000759.html",
+   "published": "2026-08-21T14:00:00Z",
+   "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 2,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
-   "move_pct": -6.58,
-   "price": 234.5,
-   "volume": 11417787,
+   "move_pct": -6.47,
+   "price": 234.78,
+   "volume": 12372985,
    "volume_vs_avg": "~0.5x",
    "heat_score": 40,
    "direction": "down",
-   "why": "Marvell\u2019s $12.2 Billion Google Deal Changes the Bull Case for MRVL Stock",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-12-2-billion-google-150056156.html",
-   "published": "2026-08-21T15:00:56Z",
+   "why": "Marvell Faces a 12% Earnings Swing After Its 196% Rally",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-faces-12-earnings-swing-152518208.html",
+   "published": "2026-08-21T15:25:18Z",
    "sector": "AI Chips & Compute"
   }
  ]

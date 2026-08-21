@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-21T02:36:07+00:00",
-  "as_of_local": "2026-08-21 02:36:07 UTC",
+  "as_of_utc": "2026-08-21T02:41:22+00:00",
+  "as_of_local": "2026-08-21 02:41:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/markets/options/articles/earn-17-amd-stock-now-214121302.html",
           "publisher": "Trefis",
           "published": "2026-08-20T21:41:21Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 974.33,
+      "previous_close": 937.11,
+      "change_pct": 3.97,
+      "market_cap": 1100401648114.9824,
+      "headlines": [
+        {
+          "title": "Waymo is making its own AI chip for its robotaxi service",
+          "url": "https://finance.yahoo.com/video/waymo-making-own-ai-chip-194318039.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-08-20T19:43:18Z"
+        },
+        {
+          "title": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-triggers-bearish-signal-walmart-spacex-crowdstrike/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-08-21T02:34:42Z"
+        },
+        {
+          "title": "Jim Simons' Renaissance cuts $486 million from surging AI stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-simons-renaissance-cuts-486-223300362.html",
+          "publisher": "TheStreet",
+          "published": "2026-08-20T22:33:00Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 3.97,
+          "price": 974.33,
           "currency": "USD"
         },
         {
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 3.84,
-          "price": 1756000.0,
+          "change_pct": 3.73,
+          "price": 1754000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 3.32,
-          "price": 280000.0,
+          "change_pct": 3.14,
+          "price": 279500.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 3.98,
-          "price": 55060.0,
+          "change_pct": 3.7,
+          "price": 54910.0,
           "currency": "JPY"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 0.58,
-          "price": 520.0,
+          "change_pct": 0.19,
+          "price": 518.0,
           "currency": "TWD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 3.97,
+        "price": 974.33,
         "currency": "USD"
       },
       {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 3.84,
-        "price": 1756000.0,
+        "change_pct": 3.73,
+        "price": 1754000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 3.32,
-        "price": 280000.0,
+        "change_pct": 3.14,
+        "price": 279500.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 3.98,
-        "price": 55060.0,
+        "change_pct": 3.7,
+        "price": 54910.0,
         "currency": "JPY"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 0.58,
-        "price": 520.0,
+        "change_pct": 0.19,
+        "price": 518.0,
         "currency": "TWD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 74678.06,
-      "change_pct": 7.81
+      "price": 74743.44,
+      "change_pct": 7.91
     },
     {
       "label": "Gold",
-      "price": 4585.0,
-      "change_pct": 2.13
+      "price": 4583.7,
+      "change_pct": 2.1
     },
     {
       "label": "Nasdaq100",

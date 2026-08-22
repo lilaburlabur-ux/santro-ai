@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-22T07:46:54+00:00",
-  "as_of_local": "2026-08-22 07:46:54 UTC",
+  "as_of_utc": "2026-08-22T07:53:53+00:00",
+  "as_of_local": "2026-08-22 07:53:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -31,6 +29,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/article/heres-what-nvidia-needs-to-do-to-unlock-an-even-better-stock-valuation-120651570.html",
           "publisher": "Yahoo Finance",
           "published": "2026-08-21T12:06:51Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 418.95,
+      "previous_close": 416.0,
+      "change_pct": 0.71,
+      "market_cap": 2172873351057.8003,
+      "headlines": [
+        {
+          "title": "Taiwan Semiconductor (TSM) Sales Just Jumped 45%. Why is the Chip Sector Still Selling Off?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-tsm-sales-just-205844477.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-08-21T20:58:44Z"
+        },
+        {
+          "title": "Microsoft (MSFT)\u2019s Betting Big on Its Own AI Chips. Is It Already Too Late?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-betting-big-own-201414728.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-08-21T20:14:14Z"
+        },
+        {
+          "title": "TSMC Rises Ahead of Nvidia's Critical AI Demand Test",
+          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-rises-ahead-nvidias-critical-193930535.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-08-21T19:39:30Z"
         }
       ]
     },
@@ -124,7 +150,7 @@
       "price": 90.07,
       "previous_close": 92.13,
       "change_pct": -2.24,
-      "market_cap": 473275183588.49585,
+      "market_cap": 476119499335.1487,
       "headlines": [
         {
           "title": "Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93.",
@@ -264,7 +290,7 @@
       "price": 117.69,
       "previous_close": 117.56,
       "change_pct": 0.11,
-      "market_cap": 16715543058.433594,
+      "market_cap": 16682464753.277405,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 77389.39,
-      "change_pct": -1.21
+      "price": 77312.98,
+      "change_pct": -1.3
     },
     {
       "label": "Gold",

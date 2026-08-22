@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-22T05:27:26+00:00",
-  "as_of_local": "2026-08-22 05:27:26 UTC",
+  "as_of_utc": "2026-08-22T05:32:35+00:00",
+  "as_of_local": "2026-08-22 05:32:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -125,6 +125,12 @@
       "market_cap": 772568813626.5,
       "headlines": [
         {
+          "title": "AMD Investors Must Be Ready For Major News On Aug. 26",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-investors-must-ready-major-052000148.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-22T05:20:00Z"
+        },
+        {
           "title": "The Best Semiconductor Stock to Buy Isn't AMD or Qualcomm: It's Nvidia, and Our Data Proves It",
           "url": "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-stock-buy-isnt-231300431.html",
           "publisher": "Motley Fool",
@@ -135,12 +141,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-advanced-micro-204025825.html",
           "publisher": "Insider Monkey",
           "published": "2026-08-21T20:40:25Z"
-        },
-        {
-          "title": "The $116 Billion That NVDA Quietly Paid Its Owners",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/116-billion-nvda-quietly-paid-203855032.html",
-          "publisher": "Trefis",
-          "published": "2026-08-21T20:38:55Z"
         }
       ]
     },
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 2.59,
-          "price": 54320.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "JPY"
         },
         {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 2.59,
-        "price": 54320.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "JPY"
       },
       {
@@ -585,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 77217.48,
-      "change_pct": 5.73
+      "price": 77100.39,
+      "change_pct": 5.57
     },
     {
       "label": "Gold",

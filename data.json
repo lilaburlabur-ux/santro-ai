@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-22T01:28:04+00:00",
-  "as_of_local": "2026-08-22 01:28:04 UTC",
+  "as_of_utc": "2026-08-22T01:33:18+00:00",
+  "as_of_local": "2026-08-22 01:33:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -89,34 +91,6 @@
       ]
     },
     {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 966.78,
-      "previous_close": 974.33,
-      "change_pct": -0.77,
-      "market_cap": 1091874743611.47,
-      "headlines": [
-        {
-          "title": "Why higher yields aren't scaring off retail traders",
-          "url": "https://finance.yahoo.com/video/why-higher-yields-arent-scaring-201500563.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-08-21T20:15:00Z"
-        },
-        {
-          "title": "Micron\u2019s AI boom rolls on with $10 billion Iowa data center",
-          "url": "https://finance.yahoo.com/video/micron-ai-boom-rolls-10-144700739.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-08-21T14:47:00Z"
-        },
-        {
-          "title": "Micron (MU) Fell 7%. Is the AI Memory Trade Now Too Expensive?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/micron-mu-fell-7-ai-001235695.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-08-22T00:12:35Z"
-        }
-      ]
-    },
-    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 473.25,
@@ -150,7 +124,7 @@
       "price": 90.07,
       "previous_close": 92.13,
       "change_pct": -2.24,
-      "market_cap": 473275183588.49585,
+      "market_cap": 476119499335.1487,
       "headlines": [
         {
           "title": "Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93.",
@@ -237,6 +211,12 @@
       "market_cap": 168825102800.75,
       "headlines": [
         {
+          "title": "Qualcomm (QCOM) Hands Sergio Buniac A Bigger Role In Mobile And AI",
+          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-hands-sergio-buniac-011219390.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-22T01:12:19Z"
+        },
+        {
           "title": "The Best Semiconductor Stock to Buy Isn't AMD or Qualcomm: It's Nvidia, and Our Data Proves It",
           "url": "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-stock-buy-isnt-231300431.html",
           "publisher": "Motley Fool",
@@ -247,12 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/116-billion-nvda-quietly-paid-203855032.html",
           "publisher": "Trefis",
           "published": "2026-08-21T20:38:55Z"
-        },
-        {
-          "title": "The Hidden Tax Cost of JEPI\u2019s Monthly Income Machine",
-          "url": "https://finance.yahoo.com/markets/options/articles/hidden-tax-cost-jepi-monthly-163031968.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-21T16:30:31Z"
         }
       ]
     },
@@ -290,7 +264,7 @@
       "price": 117.69,
       "previous_close": 117.56,
       "change_pct": 0.11,
-      "market_cap": 16715543058.433594,
+      "market_cap": 16682464753.277405,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -0.77,
-          "price": 966.78,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -0.77,
-        "price": 966.78,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 78030.0,
-      "change_pct": 6.84
+      "price": 78164.85,
+      "change_pct": 7.03
     },
     {
       "label": "Gold",

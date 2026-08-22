@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-22T21:08:29+00:00",
-  "as_of_local": "2026-08-22 21:08:29 UTC",
+  "as_of_utc": "2026-08-22T21:23:33+00:00",
+  "as_of_local": "2026-08-22 21:23:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SYNA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,6 +12,12 @@
       "change_pct": -0.98,
       "market_cap": 5200733149566.65,
       "headlines": [
+        {
+          "title": "Nvidia customers face over 15% server price hikes as memory costs soar - report",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-customers-face-over-15-211744754.html",
+          "publisher": "Investing.com",
+          "published": "2026-08-22T21:17:44Z"
+        },
         {
           "title": "Active ETFs Now Take 42% of Every Dollar Flowing Into ETFs, Up From 26% in 2024",
           "url": "https://finance.yahoo.com/markets/stocks/articles/active-etfs-now-42-every-205000491.html",
@@ -25,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-grew-comparable-sales-204301377.html",
           "publisher": "Motley Fool",
           "published": "2026-08-22T20:43:01Z"
-        },
-        {
-          "title": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-just-sold-200400662.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-22T20:04:00Z"
         }
       ]
     },
@@ -99,6 +97,12 @@
       "market_cap": 1091874743611.47,
       "headlines": [
         {
+          "title": "Nvidia customers face over 15% server price hikes as memory costs soar - report",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-customers-face-over-15-211744754.html",
+          "publisher": "Investing.com",
+          "published": "2026-08-22T21:17:44Z"
+        },
+        {
           "title": "Palantir, Freeport Clear Buy Points, Lead Five Stocks To Watch",
           "url": "https://www.investors.com/news/palantir-stock-freeport-mcmoran-stocks-near-buy-points/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -109,12 +113,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-bought-both-113113447.html",
           "publisher": "Investing.com",
           "published": "2026-08-22T11:31:13Z"
-        },
-        {
-          "title": "Alphabet and Amazon Are Investing $420 Billion in Artificial Intelligence (AI) Infrastructure: 4 Hardware Stocks Set to Profit",
-          "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-amazon-investing-420-billion-103500198.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-22T10:35:00Z"
         }
       ]
     },
@@ -343,6 +341,34 @@
       ]
     },
     {
+      "symbol": "SYNA",
+      "name": "Synaptics",
+      "price": 97.66,
+      "previous_close": 98.0,
+      "change_pct": -0.35,
+      "market_cap": 3819188395.97406,
+      "headlines": [
+        {
+          "title": "Synaptics CFO Resigns, Company Skips Successor Search Before Merger",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-cfo-resigns-company-skips-115724601.html",
+          "publisher": "Benzinga",
+          "published": "2026-08-21T11:57:24Z"
+        },
+        {
+          "title": "Here's Why AXTI Stock Is a Buy Despite Its Premium 48.12X Valuation",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-axti-stock-buy-142400926.html",
+          "publisher": "Zacks",
+          "published": "2026-08-17T14:24:00Z"
+        },
+        {
+          "title": "onsemi Boosts Utilization as AI Data Center Revenue Set to More Than Double",
+          "url": "https://finance.yahoo.com/technology/ai/articles/onsemi-boosts-utilization-ai-data-040156881.html",
+          "publisher": "MarketBeat",
+          "published": "2026-08-16T04:01:56Z"
+        }
+      ]
+    },
+    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 27.99,
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 77121.84,
-      "change_pct": -1.55
+      "price": 77160.18,
+      "change_pct": -1.5
     },
     {
       "label": "Gold",

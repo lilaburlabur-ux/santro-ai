@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-22T06:12:52+00:00",
-  "as_of_local": "2026-08-22 06:12:52 UTC",
+  "as_of_utc": "2026-08-22T06:27:59+00:00",
+  "as_of_local": "2026-08-22 06:27:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CEVA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -127,6 +125,12 @@
       "market_cap": 772568813626.5,
       "headlines": [
         {
+          "title": "Advanced Micro Devices (AMD) Adds Tim Ryan To Board After Director Retirement",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-adds-061002113.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-22T06:10:02Z"
+        },
+        {
           "title": "AMD Investors Must Be Ready For Major News On Aug. 26",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-investors-must-ready-major-052000148.html",
           "publisher": "Motley Fool",
@@ -137,12 +141,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-stock-buy-isnt-231300431.html",
           "publisher": "Motley Fool",
           "published": "2026-08-21T23:13:00Z"
-        },
-        {
-          "title": "NVIDIA Corporation (NVDA) & Advanced Micro Devices (AMD): Nvidia Might Ship AI Chips With Less Memory. AMD Says It\u2019s Not Worried",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-advanced-micro-204025825.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-08-21T20:40:25Z"
         }
       ]
     },
@@ -152,7 +150,7 @@
       "price": 90.07,
       "previous_close": 92.13,
       "change_pct": -2.24,
-      "market_cap": 476119499335.1487,
+      "market_cap": 473275183588.49585,
       "headlines": [
         {
           "title": "Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93.",
@@ -292,7 +290,7 @@
       "price": 117.69,
       "previous_close": 117.56,
       "change_pct": 0.11,
-      "market_cap": 16682464753.277405,
+      "market_cap": 16715543058.433594,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -367,6 +365,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/onsemi-boosts-utilization-ai-data-040156881.html",
           "publisher": "MarketBeat",
           "published": "2026-08-16T04:01:56Z"
+        }
+      ]
+    },
+    {
+      "symbol": "CEVA",
+      "name": "CEVA",
+      "price": 27.99,
+      "previous_close": 28.13,
+      "change_pct": -0.5,
+      "market_cap": 788032468.8360443,
+      "headlines": [
+        {
+          "title": "Bears are Losing Control Over Ceva (CEVA), Here's Why It's a 'Buy' Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bears-losing-control-over-ceva-135502763.html",
+          "publisher": "Zacks",
+          "published": "2026-08-20T13:55:02Z"
+        },
+        {
+          "title": "Bull of the Day: Ceva (CEVA)",
+          "url": "https://finance.yahoo.com/technology/articles/bull-day-ceva-ceva-092000626.html",
+          "publisher": "Zacks",
+          "published": "2026-08-20T09:20:00Z"
+        },
+        {
+          "title": "CEVA (CEVA) Q2 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-ceva-q2-2026-earnings-154343784.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-17T15:43:43Z"
         }
       ]
     }
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 77236.58,
-      "change_pct": 5.76
+      "price": 77263.33,
+      "change_pct": 5.79
     },
     {
       "label": "Gold",

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-22T05:12:20+00:00",
-  "as_of_local": "2026-08-22 05:12:20 UTC",
+  "as_of_utc": "2026-08-22T05:27:26+00:00",
+  "as_of_local": "2026-08-22 05:27:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -199,6 +197,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-eyes-deal-2-3-145012820.html",
           "publisher": "GuruFocus.com",
           "published": "2026-08-21T14:50:12Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 237.04,
+      "previous_close": 251.01,
+      "change_pct": -5.57,
+      "market_cap": 212753924001.92596,
+      "headlines": [
+        {
+          "title": "Google Is Getting Paid in Marvell Stock Warrants for Buying Marvell's Chips",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/google-getting-paid-marvell-stock-034701817.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-22T03:47:01Z"
+        },
+        {
+          "title": "Dow Jones Futures: Market Rally Repairs Some Damage; Nvidia Earnings Loom",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-08-22T02:36:16Z"
+        },
+        {
+          "title": "Marvell vs. Broadcom: the custom silicon shift",
+          "url": "https://finance.yahoo.com/technology/ai/articles/marvell-vs-broadcom-custom-silicon-003700947.html",
+          "publisher": "TheStreet",
+          "published": "2026-08-22T00:37:00Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 77162.94,
-      "change_pct": 5.66
+      "price": 77217.48,
+      "change_pct": 5.73
     },
     {
       "label": "Gold",

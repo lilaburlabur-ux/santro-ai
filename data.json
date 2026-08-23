@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-23T06:23:59+00:00",
-  "as_of_local": "2026-08-23 06:23:59 UTC",
+  "as_of_utc": "2026-08-23T06:29:07+00:00",
+  "as_of_local": "2026-08-23 06:29:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -91,6 +89,34 @@
       ]
     },
     {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 966.78,
+      "previous_close": 974.33,
+      "change_pct": -0.77,
+      "market_cap": 1091874743611.47,
+      "headlines": [
+        {
+          "title": "Micron Stock Is Up 30% From Its Recent Low. Here's How Much a $5,000 Investment Today Could Be Worth by Next Year, According to Wall Street Analysts.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-30-recent-low-045000023.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-23T04:50:00Z"
+        },
+        {
+          "title": "Nvidia customers face over 15% server price hikes as memory costs soar - report",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-customers-face-over-15-211744754.html",
+          "publisher": "Investing.com",
+          "published": "2026-08-22T21:17:44Z"
+        },
+        {
+          "title": "Palantir, Freeport Clear Buy Points, Lead Five Stocks To Watch",
+          "url": "https://www.investors.com/news/palantir-stock-freeport-mcmoran-stocks-near-buy-points/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-08-22T12:00:19Z"
+        }
+      ]
+    },
+    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 473.25,
@@ -124,7 +150,7 @@
       "price": 90.07,
       "previous_close": 92.13,
       "change_pct": -2.24,
-      "market_cap": 476119499335.1487,
+      "market_cap": 473275183588.49585,
       "headlines": [
         {
           "title": "Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93.",
@@ -264,7 +290,7 @@
       "price": 117.69,
       "previous_close": 117.56,
       "change_pct": 0.11,
-      "market_cap": 16682464753.277405,
+      "market_cap": 16715543058.433594,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -0.77,
+          "price": 966.78,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -0.77,
+        "price": 966.78,
         "currency": "USD"
       },
       {
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 76286.53,
-      "change_pct": -2.62
+      "price": 76182.27,
+      "change_pct": -2.75
     },
     {
       "label": "Gold",

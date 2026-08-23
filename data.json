@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-23T07:40:27+00:00",
-  "as_of_local": "2026-08-23 07:40:27 UTC",
+  "as_of_utc": "2026-08-23T07:41:14+00:00",
+  "as_of_local": "2026-08-23 07:41:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -150,7 +152,7 @@
       "price": 90.07,
       "previous_close": 92.13,
       "change_pct": -2.24,
-      "market_cap": 473275183588.49585,
+      "market_cap": 476119499335.1487,
       "headlines": [
         {
           "title": "Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93.",
@@ -229,34 +231,6 @@
       ]
     },
     {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 160.75,
-      "previous_close": 160.74,
-      "change_pct": 0.01,
-      "market_cap": 168825102800.75,
-      "headlines": [
-        {
-          "title": "Qualcomm (QCOM) Hands Sergio Buniac A Bigger Role In Mobile And AI",
-          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-hands-sergio-buniac-011219390.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-22T01:12:19Z"
-        },
-        {
-          "title": "The Best Semiconductor Stock to Buy Isn't AMD or Qualcomm: It's Nvidia, and Our Data Proves It",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-stock-buy-isnt-231300431.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-21T23:13:00Z"
-        },
-        {
-          "title": "The $116 Billion That NVDA Quietly Paid Its Owners",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/116-billion-nvda-quietly-paid-203855032.html",
-          "publisher": "Trefis",
-          "published": "2026-08-21T20:38:55Z"
-        }
-      ]
-    },
-    {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
       "price": 225.56,
@@ -290,7 +264,7 @@
       "price": 117.69,
       "previous_close": 117.56,
       "change_pct": 0.11,
-      "market_cap": 16715543058.433594,
+      "market_cap": 16682464753.277405,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 76102.51,
-      "change_pct": -1.27
+      "price": 76068.68,
+      "change_pct": -1.32
     },
     {
       "label": "Gold",
-      "price": 4680.6,
-      "change_pct": 3.64
+      "price": 4624.1,
+      "change_pct": 2.39
     },
     {
       "label": "Nasdaq100",

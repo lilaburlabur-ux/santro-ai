@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-23T21:00:10+00:00",
-  "as_of_local": "2026-08-23 21:00:10 UTC",
+  "as_of_utc": "2026-08-23T21:08:22+00:00",
+  "as_of_local": "2026-08-23 21:08:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-buying-back-3-205701464.html",
           "publisher": "Motley Fool",
           "published": "2026-08-23T20:57:01Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 418.95,
-      "previous_close": 416.0,
-      "change_pct": 0.71,
-      "market_cap": 2172873351057.8003,
-      "headlines": [
-        {
-          "title": "AMD Is Investing More Than $10 Billion in Taiwan to Build Advanced Chip Packaging With TSMC. Here's What Lisa Su Is Actually Buying With That Money.",
-          "url": "https://finance.yahoo.com/technology/articles/amd-investing-more-10-billion-155000045.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T15:50:00Z"
-        },
-        {
-          "title": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-just-sold-200400662.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-22T20:04:00Z"
-        },
-        {
-          "title": "TSMC's $100 Billion Arizona Expansion Shows The Stock Is a No-Brainer Buy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-100-billion-arizona-expansion-190500179.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-22T19:05:00Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 77393.19,
-      "change_pct": 0.4
+      "price": 77613.3,
+      "change_pct": 0.69
     },
     {
       "label": "Gold",

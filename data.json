@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-23T07:41:14+00:00",
-  "as_of_local": "2026-08-23 07:41:14 UTC",
+  "as_of_utc": "2026-08-23T07:56:13+00:00",
+  "as_of_local": "2026-08-23 07:56:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "QCOM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -152,7 +150,7 @@
       "price": 90.07,
       "previous_close": 92.13,
       "change_pct": -2.24,
-      "market_cap": 476119499335.1487,
+      "market_cap": 473275183588.49585,
       "headlines": [
         {
           "title": "Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93.",
@@ -231,6 +229,34 @@
       ]
     },
     {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "price": 160.75,
+      "previous_close": 160.74,
+      "change_pct": 0.01,
+      "market_cap": 168825102800.75,
+      "headlines": [
+        {
+          "title": "Qualcomm (QCOM) Hands Sergio Buniac A Bigger Role In Mobile And AI",
+          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-hands-sergio-buniac-011219390.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-22T01:12:19Z"
+        },
+        {
+          "title": "The Best Semiconductor Stock to Buy Isn't AMD or Qualcomm: It's Nvidia, and Our Data Proves It",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-stock-buy-isnt-231300431.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-21T23:13:00Z"
+        },
+        {
+          "title": "The $116 Billion That NVDA Quietly Paid Its Owners",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/116-billion-nvda-quietly-paid-203855032.html",
+          "publisher": "Trefis",
+          "published": "2026-08-21T20:38:55Z"
+        }
+      ]
+    },
+    {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
       "price": 225.56,
@@ -264,7 +290,7 @@
       "price": 117.69,
       "previous_close": 117.56,
       "change_pct": 0.11,
-      "market_cap": 16682464753.277405,
+      "market_cap": 16715543058.433594,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -323,22 +349,22 @@
       "market_cap": 3819188395.97406,
       "headlines": [
         {
+          "title": "Synaptics' Chief Strategy Officer Disposed of Stock as 45,910 Shares Vested. Here's What to Know.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-chief-strategy-officer-disposed-074937543.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-23T07:49:37Z"
+        },
+        {
+          "title": "Synaptics' Top Lawyer Sold Stock as a $7 Billion Merger Moves Toward Closing. Here's What to Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-top-lawyer-sold-stock-073705778.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-23T07:37:05Z"
+        },
+        {
           "title": "Synaptics CFO Resigns, Company Skips Successor Search Before Merger",
           "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-cfo-resigns-company-skips-115724601.html",
           "publisher": "Benzinga",
           "published": "2026-08-21T11:57:24Z"
-        },
-        {
-          "title": "Here's Why AXTI Stock Is a Buy Despite Its Premium 48.12X Valuation",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-axti-stock-buy-142400926.html",
-          "publisher": "Zacks",
-          "published": "2026-08-17T14:24:00Z"
-        },
-        {
-          "title": "onsemi Boosts Utilization as AI Data Center Revenue Set to More Than Double",
-          "url": "https://finance.yahoo.com/technology/ai/articles/onsemi-boosts-utilization-ai-data-040156881.html",
-          "publisher": "MarketBeat",
-          "published": "2026-08-16T04:01:56Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 76068.68,
-      "change_pct": -1.32
+      "price": 75982.09,
+      "change_pct": -1.43
     },
     {
       "label": "Gold",
-      "price": 4624.1,
-      "change_pct": 2.39
+      "price": 4680.6,
+      "change_pct": 3.64
     },
     {
       "label": "Nasdaq100",

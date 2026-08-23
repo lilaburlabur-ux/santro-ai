@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-23T00:05:17+00:00",
-  "as_of_local": "2026-08-23 00:05:17 UTC",
+  "as_of_utc": "2026-08-23T00:20:15+00:00",
+  "as_of_local": "2026-08-23 00:20:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5200733149566.65,
       "headlines": [
         {
+          "title": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI",
+          "url": "https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-08-23T00:00:00Z"
+        },
+        {
           "title": "Is It Too Late to Buy Sandisk After Its 568% Run?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/too-buy-sandisk-568-run-235700343.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-entered-show-phase-234100406.html",
           "publisher": "Motley Fool",
           "published": "2026-08-22T23:41:00Z"
-        },
-        {
-          "title": "GE Vernova's Backlog Is Bigger Than Some Countries' GDP. Here's What's Actually Inside the $176 Billion.",
-          "url": "https://finance.yahoo.com/energy/articles/ge-vernovas-backlog-bigger-countries-232500776.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-22T23:25:00Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "price": 90.07,
       "previous_close": 92.13,
       "change_pct": -2.24,
-      "market_cap": 476119499335.1487,
+      "market_cap": 473275183588.49585,
       "headlines": [
         {
           "title": "Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93.",
@@ -290,7 +290,7 @@
       "price": 117.69,
       "previous_close": 117.56,
       "change_pct": 0.11,
-      "market_cap": 16682464753.277405,
+      "market_cap": 16715543058.433594,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -579,9 +579,14 @@
   },
   "tape": [
     {
+      "label": "SPX",
+      "price": 7674.37,
+      "change_pct": 0.43
+    },
+    {
       "label": "BTC",
-      "price": 77103.11,
-      "change_pct": -1.57
+      "price": 77093.06,
+      "change_pct": -1.59
     },
     {
       "label": "Gold",

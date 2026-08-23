@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-08-23T03:26:39+00:00",
-  "as_of_local": "2026-08-23 03:26:39 UTC",
+  "as_of_utc": "2026-08-23T03:41:43+00:00",
+  "as_of_local": "2026-08-23 03:41:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 214.72,
-      "previous_close": 216.85,
-      "change_pct": -0.98,
-      "market_cap": 5200733149566.65,
-      "headlines": [
-        {
-          "title": "Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-23T03:01:55Z"
-        },
-        {
-          "title": "Palantir Keeps 55 Cents of Every Revenue Dollar as Profit",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-keeps-55-cents-every-015801983.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T01:58:01Z"
-        },
-        {
-          "title": "Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/solana-beating-ethereum-tokenized-assets-013700957.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T01:37:00Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 77023.85,
-      "change_pct": -1.67
+      "price": 76891.73,
+      "change_pct": -1.84
     },
     {
       "label": "Gold",

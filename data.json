@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-23T18:05:50+00:00",
-  "as_of_local": "2026-08-23 18:05:50 UTC",
+  "as_of_utc": "2026-08-23T18:20:52+00:00",
+  "as_of_local": "2026-08-23 18:20:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-08-23T10:00:00Z"
         },
         {
-          "title": "The U.S. National Debt Officially Surpassed $40 Trillion in August: Here's What History Says This Means for the Stock Market",
-          "url": "https://finance.yahoo.com/economy/policy/articles/u-national-debt-officially-surpassed-175000428.html",
+          "title": "Target Just Reported Earnings. Here's Whether the Dividend King Is Still a Buy.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/target-just-reported-earnings-heres-180000119.html",
           "publisher": "Motley Fool",
-          "published": "2026-08-23T17:50:00Z"
+          "published": "2026-08-23T18:00:00Z"
         }
       ]
     },
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/marvell-investors-must-carefully-consider-191300245.html",
           "publisher": "TheStreet",
           "published": "2026-08-22T19:13:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 160.75,
-      "previous_close": 160.74,
-      "change_pct": 0.01,
-      "market_cap": 168825102800.75,
-      "headlines": [
-        {
-          "title": "Qualcomm (QCOM) Hands Sergio Buniac A Bigger Role In Mobile And AI",
-          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-hands-sergio-buniac-011219390.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-22T01:12:19Z"
-        },
-        {
-          "title": "The Best Semiconductor Stock to Buy Isn't AMD or Qualcomm: It's Nvidia, and Our Data Proves It",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-stock-buy-isnt-231300431.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-21T23:13:00Z"
-        },
-        {
-          "title": "The $116 Billion That NVDA Quietly Paid Its Owners",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/116-billion-nvda-quietly-paid-203855032.html",
-          "publisher": "Trefis",
-          "published": "2026-08-21T20:38:55Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 77152.37,
-      "change_pct": 0.09
+      "price": 77318.29,
+      "change_pct": 0.3
     },
     {
       "label": "Gold",

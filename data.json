@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-23T06:08:51+00:00",
-  "as_of_local": "2026-08-23 06:08:51 UTC",
+  "as_of_utc": "2026-08-23T06:23:59+00:00",
+  "as_of_local": "2026-08-23 06:23:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": -0.98,
       "market_cap": 5200733149566.65,
       "headlines": [
+        {
+          "title": "Got $500? 1 Cryptocurrency to Buy Hand Over Fist in the Second Half of 2026",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/got-500-1-cryptocurrency-buy-060500271.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-23T06:05:00Z"
+        },
         {
           "title": "Micron Stock Is Up 30% From Its Recent Low. Here's How Much a $5,000 Investment Today Could Be Worth by Next Year, According to Wall Street Analysts.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-30-recent-low-045000023.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-published-6-500-042000088.html",
           "publisher": "Motley Fool",
           "published": "2026-08-23T04:20:00Z"
-        },
-        {
-          "title": "Apple Cut Its Standard EU App Store Commission From 30% to 26%",
-          "url": "https://finance.yahoo.com/technology/articles/apple-cut-standard-eu-app-034301930.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T03:43:01Z"
         }
       ]
     },
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-david-tepper-sold-funds-142000411.html",
           "publisher": "Motley Fool",
           "published": "2026-08-22T14:20:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 966.78,
-      "previous_close": 974.33,
-      "change_pct": -0.77,
-      "market_cap": 1091874743611.47,
-      "headlines": [
-        {
-          "title": "Micron Stock Is Up 30% From Its Recent Low. Here's How Much a $5,000 Investment Today Could Be Worth by Next Year, According to Wall Street Analysts.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-30-recent-low-045000023.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T04:50:00Z"
-        },
-        {
-          "title": "Nvidia customers face over 15% server price hikes as memory costs soar - report",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-customers-face-over-15-211744754.html",
-          "publisher": "Investing.com",
-          "published": "2026-08-22T21:17:44Z"
-        },
-        {
-          "title": "Palantir, Freeport Clear Buy Points, Lead Five Stocks To Watch",
-          "url": "https://www.investors.com/news/palantir-stock-freeport-mcmoran-stocks-near-buy-points/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-22T12:00:19Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -0.77,
-          "price": 966.78,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -0.77,
-        "price": 966.78,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 75915.5,
-      "change_pct": -3.09
+      "price": 76286.53,
+      "change_pct": -2.62
     },
     {
       "label": "Gold",

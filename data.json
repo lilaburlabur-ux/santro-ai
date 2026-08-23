@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-23T18:20:52+00:00",
-  "as_of_local": "2026-08-23 18:20:52 UTC",
+  "as_of_utc": "2026-08-23T18:36:04+00:00",
+  "as_of_local": "2026-08-23 18:36:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "QCOM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -27,10 +25,10 @@
           "published": "2026-08-23T10:00:00Z"
         },
         {
-          "title": "Target Just Reported Earnings. Here's Whether the Dividend King Is Still a Buy.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/target-just-reported-earnings-heres-180000119.html",
+          "title": "I Love NuScale Stock for 1 Reason, and It's Not What You Think",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/love-nuscale-stock-1-reason-181400628.html",
           "publisher": "Motley Fool",
-          "published": "2026-08-23T18:00:00Z"
+          "published": "2026-08-23T18:14:00Z"
         }
       ]
     },
@@ -152,7 +150,7 @@
       "price": 90.07,
       "previous_close": 92.13,
       "change_pct": -2.24,
-      "market_cap": 476119499335.1487,
+      "market_cap": 473275183588.49585,
       "headlines": [
         {
           "title": "Alibaba Launches Record $10 Billion Share Sale to Enter the AI Race",
@@ -211,6 +209,12 @@
       "market_cap": 212753924001.92596,
       "headlines": [
         {
+          "title": "Nvidia, Fed Confab, Inflation, GDP, and More to Watch This Week",
+          "url": "https://www.barrons.com/articles/nvidia-fed-confab-inflation-gdp-and-more-to-watch-this-week-15bd2070?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-08-23T18:00:00Z"
+        },
+        {
           "title": "Dow Jones Futures Due With Nvidia Earnings, Tariffs, Warsh In Focus",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -221,12 +225,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-vs-marvell-technology-1-172600511.html",
           "publisher": "Motley Fool",
           "published": "2026-08-23T17:26:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "price": 160.75,
+      "previous_close": 160.74,
+      "change_pct": 0.01,
+      "market_cap": 168825102800.75,
+      "headlines": [
+        {
+          "title": "Qualcomm (QCOM) Hands Sergio Buniac A Bigger Role In Mobile And AI",
+          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-hands-sergio-buniac-011219390.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-22T01:12:19Z"
         },
         {
-          "title": "Marvell investors must carefully consider latest Google deal",
-          "url": "https://finance.yahoo.com/technology/ai/articles/marvell-investors-must-carefully-consider-191300245.html",
-          "publisher": "TheStreet",
-          "published": "2026-08-22T19:13:00Z"
+          "title": "The Best Semiconductor Stock to Buy Isn't AMD or Qualcomm: It's Nvidia, and Our Data Proves It",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-stock-buy-isnt-231300431.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-21T23:13:00Z"
+        },
+        {
+          "title": "The $116 Billion That NVDA Quietly Paid Its Owners",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/116-billion-nvda-quietly-paid-203855032.html",
+          "publisher": "Trefis",
+          "published": "2026-08-21T20:38:55Z"
         }
       ]
     },
@@ -264,7 +290,7 @@
       "price": 117.69,
       "previous_close": 117.56,
       "change_pct": 0.11,
-      "market_cap": 16682464753.277405,
+      "market_cap": 16715543058.433594,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 77318.29,
-      "change_pct": 0.3
+      "price": 77321.2,
+      "change_pct": 0.31
     },
     {
       "label": "Gold",

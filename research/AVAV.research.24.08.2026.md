@@ -36,10 +36,10 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 | Headline | Source | Date |
 |---|---|---|
+| nLIGHT, AAON, AeroVironment, Kratos, and ChargePoint Shares Are Falling, What You Need To Know | StockStory | 2026-08-24 |
 | Drone Stocks Slide as Risk Appetite Fades: Unusual Machines Tumbles 9%, Red Cat Falls 7%, Ondas Declines 5% | 24/7 Wall St. | 2026-08-24 |
 | Trump’s New Drone Tariffs Give AeroVironment, Kratos and Red Cat a Policy Tailwind | Insider Monkey | 2026-08-21 |
 | Archer Aviation Has a New $200 Million Reason to Get Excited | 24/7 Wall St. | 2026-08-21 |
-| AeroVironment (AVAV) Forms AV Eagle Joint Venture In Greece | Simply Wall St. | 2026-08-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-24T15:38:55+00:00",
+  "as_of": "2026-08-24T15:44:10+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,10 +11,10 @@
    "rank": 1,
    "ticker": "MU",
    "company": "Micron Technology Inc",
-   "move_pct": -6.47,
-   "price": 904.28,
-   "volume": 14084061,
-   "volume_vs_avg": "~0.3x",
+   "move_pct": -6.21,
+   "price": 906.76,
+   "volume": 14520832,
+   "volume_vs_avg": "~0.4x",
    "heat_score": 39,
    "direction": "down",
    "why": "Memory Stocks Slide on Report Apple May Source Chinese Chips: SanDisk Down 9%, Micron and Western Digital Down 7%",

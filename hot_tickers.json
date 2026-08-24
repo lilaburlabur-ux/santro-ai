@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-24T18:31:43+00:00",
+  "as_of": "2026-08-24T18:44:32+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,17 +11,49 @@
    "rank": 1,
    "ticker": "MDB",
    "company": "MongoDB Inc",
-   "move_pct": -5.84,
-   "price": 405.68,
-   "volume": 913190,
+   "move_pct": -5.61,
+   "price": 406.65,
+   "volume": 936587,
    "volume_vs_avg": "~0.6x",
-   "heat_score": 39,
+   "heat_score": 38,
    "direction": "down",
    "why": "MongoDB Faces Steady Growth, Limited AI Impact So Far, UBS Says",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/technology/ai/articles/mongodb-faces-steady-growth-limited-172830629.html",
    "published": "2026-08-24T17:28:30Z",
    "sector": "AI Software & Cloud Infrastructure"
+  },
+  {
+   "rank": 2,
+   "ticker": "MU",
+   "company": "Micron Technology Inc",
+   "move_pct": -5.2,
+   "price": 916.53,
+   "volume": 22014750,
+   "volume_vs_avg": "~0.5x",
+   "heat_score": 36,
+   "direction": "down",
+   "why": "Marvell, Micron, SpaceX, XPeng, Tesla, Moderna, and More Stocks That Explain Today\u2019s Market",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.barrons.com/articles/stock-movers-a25cb190?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-08-24T18:08:00Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 3,
+   "ticker": "SMCI",
+   "company": "Super Micro Computer Inc",
+   "move_pct": -5.03,
+   "price": 35.37,
+   "volume": 30746563,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 35,
+   "direction": "down",
+   "why": "Super Micro Computer (SMCI)\u2019s Guidance Just Crushed Estimates. Can it Outrun its Legal Troubles?",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-guidance-180916677.html",
+   "published": "2026-08-24T18:09:16Z",
+   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

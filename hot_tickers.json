@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-24T14:44:23+00:00",
+  "as_of": "2026-08-24T14:49:49+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "MU",
    "company": "Micron Technology Inc",
-   "move_pct": -6.69,
-   "price": 902.08,
-   "volume": 11106367,
+   "move_pct": -6.56,
+   "price": 903.36,
+   "volume": 11379520,
    "volume_vs_avg": "~0.3x",
-   "heat_score": 40,
+   "heat_score": 39,
    "direction": "down",
    "why": "Why Micron Stock Dropped This Morning",
    "catalyst_type": "momentum_narrative",

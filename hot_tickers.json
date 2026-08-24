@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-24T21:38:01+00:00",
+  "as_of": "2026-08-24T21:53:18+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -27,24 +27,24 @@
    "rank": 2,
    "ticker": "MU",
    "company": "Micron Technology Inc",
-   "move_pct": -5.9,
-   "price": 909.7,
+   "move_pct": -5.88,
+   "price": 909.91,
    "volume": 29794356,
    "volume_vs_avg": "~0.7x",
    "heat_score": 39,
    "direction": "down",
-   "why": "Micron, Seagate, Western Digital, Semtech, and Penguin Solutions Shares Are Falling, What You Need To Know",
+   "why": "Marvell, Micron, SpaceX, XPeng, Tesla, Moderna, and More Stocks That Explain Today\u2019s Market",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/micron-seagate-western-digital-semtech-200936690.html",
-   "published": "2026-08-24T20:09:36Z",
+   "source_url": "https://www.barrons.com/articles/stock-movers-a25cb190?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-08-24T20:37:00Z",
    "sector": "AI Chips & Compute"
   },
   {
    "rank": 3,
    "ticker": "SMCI",
    "company": "Super Micro Computer Inc",
-   "move_pct": -5.61,
-   "price": 35.15,
+   "move_pct": -5.49,
+   "price": 35.2,
    "volume": 39804131,
    "volume_vs_avg": "~0.7x",
    "heat_score": 38,
@@ -54,6 +54,22 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-smci-stock-trades-200136729.html",
    "published": "2026-08-24T20:01:36Z",
    "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 4,
+   "ticker": "CBRS",
+   "company": "Cerebras Systems Inc",
+   "move_pct": -5.07,
+   "price": 186.18,
+   "volume": 5715245,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 37,
+   "direction": "down",
+   "why": "Cerebras Systems (CBRS) Revenue Surges: Why Did CBRS Stock Crash, and What About AMD?",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-systems-cbrs-revenue-surges-185707172.html",
+   "published": "2026-08-24T18:57:07Z",
+   "sector": "AI Chips & Compute"
   }
  ]
 }

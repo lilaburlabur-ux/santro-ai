@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-24T00:46:25+00:00",
-  "as_of_local": "2026-08-24 00:46:25 UTC",
+  "as_of_utc": "2026-08-24T00:51:23+00:00",
+  "as_of_local": "2026-08-24 00:51:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-08-23T10:00:00Z"
         },
         {
-          "title": "UPS Stopped Carrying 2 Million Amazon Packages a Day. Amazon Still Has to Move Them.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ups-stopped-carrying-2-million-003401900.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-24T00:34:01Z"
+          "title": "Dow Jones Futures: Nvidia, Tariffs, Warsh In Focus",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-08-24T00:43:29Z"
         }
       ]
     },
@@ -145,34 +147,6 @@
       ]
     },
     {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 90.07,
-      "previous_close": 92.13,
-      "change_pct": -2.24,
-      "market_cap": 473275183588.49585,
-      "headlines": [
-        {
-          "title": "Alibaba Launches Record $10 Billion Share Sale to Enter the AI Race",
-          "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-launches-record-10-billion-140850469.html",
-          "publisher": "BeInCrypto",
-          "published": "2026-08-23T14:08:50Z"
-        },
-        {
-          "title": "Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-sold-20-billion-stock-003201276.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-22T00:32:01Z"
-        },
-        {
-          "title": "3 American Stocks Showing the Same Setup That Sent Moderna Up 177%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-american-stocks-showing-same-221405576.html",
-          "publisher": "BeInCrypto",
-          "published": "2026-08-21T22:14:05Z"
-        }
-      ]
-    },
-    {
       "symbol": "ARM",
       "name": "Arm Holdings",
       "price": 243.32,
@@ -212,7 +186,7 @@
           "title": "Dow Jones Futures: Nvidia, Tariffs, Warsh In Focus",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-08-24T00:32:30Z"
+          "published": "2026-08-24T00:43:29Z"
         },
         {
           "title": "How to Play MRVL Stock Now as Marvell Technology Expands Its Relationship With Google",
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 0.29,
-          "price": 1735000.0,
+          "change_pct": -0.2,
+          "price": 1726500.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -6.48,
-          "price": 263250.0,
+          "change_pct": -6.93,
+          "price": 262000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -2.01,
-          "price": 53230.0,
+          "change_pct": -1.66,
+          "price": 53420.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 0.29,
-        "price": 1735000.0,
+        "change_pct": -0.2,
+        "price": 1726500.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -6.48,
-        "price": 263250.0,
+        "change_pct": -6.93,
+        "price": 262000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -2.01,
-        "price": 53230.0,
+        "change_pct": -1.66,
+        "price": 53420.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 77217.49,
-      "change_pct": 0.17
+      "price": 77403.54,
+      "change_pct": 0.42
     },
     {
       "label": "Gold",
-      "price": 4663.9,
-      "change_pct": 0.86
+      "price": 4662.6,
+      "change_pct": 0.83
     },
     {
       "label": "Nasdaq100",

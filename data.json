@@ -1,16 +1,16 @@
 {
-  "as_of_utc": "2026-08-24T18:03:57+00:00",
-  "as_of_local": "2026-08-24 18:03:57 UTC",
+  "as_of_utc": "2026-08-24T18:08:56+00:00",
+  "as_of_local": "2026-08-24 18:08:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 209.82,
+      "price": 209.81,
       "previous_close": 214.72,
-      "change_pct": -2.28,
-      "market_cap": 5082050397399.902,
+      "change_pct": -2.29,
+      "market_cap": 5081805733367.92,
       "headlines": [
         {
           "title": "Tech stocks today: All eyes on Nvidia as Meta trial resumes",
@@ -35,10 +35,10 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 408.81,
+      "price": 409.15,
       "previous_close": 418.95,
-      "change_pct": -2.42,
-      "market_cap": 2120334343981.5303,
+      "change_pct": -2.34,
+      "market_cap": 2122305229431.0503,
       "headlines": [
         {
           "title": "GF Securities Picks 3 AI Chip Winners: Marvell and Intel Stand Out",
@@ -63,11 +63,17 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 360.65,
+      "price": 360.88,
       "previous_close": 368.45,
-      "change_pct": -2.12,
-      "market_cap": 1716082901436.067,
+      "change_pct": -2.06,
+      "market_cap": 1717177197149.9438,
       "headlines": [
+        {
+          "title": "Marvell Falls 4% Ahead of August 27 Earnings, Broadcom Slips",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-falls-4-ahead-august-180113718.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-24T18:01:13Z"
+        },
         {
           "title": "Broadcom Credit Risk Soars on Mega AI Debt Financing Backstops",
           "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-credit-risk-soars-mega-172116287.html",
@@ -79,50 +85,44 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-isn-t-only-way-170051207.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-24T17:00:51Z"
-        },
-        {
-          "title": "MRVL to Post Q2 Earnings: Time to Buy, Sell or Hold the Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mrvl-post-q2-earnings-time-153300468.html",
-          "publisher": "Zacks",
-          "published": "2026-08-24T15:33:00Z"
         }
       ]
     },
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 913.72,
+      "price": 916.84,
       "previous_close": 966.78,
-      "change_pct": -5.49,
-      "market_cap": 1031700643438.5,
+      "change_pct": -5.17,
+      "market_cap": 1035609471479.7266,
       "headlines": [
         {
-          "title": "Nvidia earnings may come down to guidance and Jensen Huang's confidence",
-          "url": "https://finance.yahoo.com/video/nvidia-earnings-may-come-down-140000999.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-08-24T14:00:00Z"
-        },
-        {
-          "title": "Semiconductor stocks drag S&P 500, Nasdaq lower: AlphaCheck",
-          "url": "https://finance.yahoo.com/markets/article/semiconductor-stocks-drag-sp-500-nasdaq-lower-alphacheck-135725875.html",
+          "title": "Wall Street is rotating out of 2026's biggest winners: Chart of the Day",
+          "url": "https://finance.yahoo.com/markets/article/wall-street-is-rotating-out-of-2026s-biggest-winners-chart-of-the-day-180639239.html",
           "publisher": "Yahoo Finance",
-          "published": "2026-08-24T13:57:25Z"
+          "published": "2026-08-24T18:06:39Z"
         },
         {
           "title": "The Nasdaq Slips as Micron Falls 6% to Kick Off Nvidia's Big Week",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-slips-micron-falls-6-170943624.html",
           "publisher": "Motley Fool",
           "published": "2026-08-24T17:09:43Z"
+        },
+        {
+          "title": "Stock Market Today: Dow Up As Trump Makes This Canada Warning; Steel Gains Melt (Live Coverage)",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-08-24T17:05:00Z"
         }
       ]
     },
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 458.25,
+      "price": 458.62,
       "previous_close": 473.25,
-      "change_pct": -3.17,
-      "market_cap": 748081538538.946,
+      "change_pct": -3.09,
+      "market_cap": 748816321693.0739,
       "headlines": [
         {
           "title": "How investors should approach Nvidia\u2019s earnings",
@@ -147,10 +147,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 87.25,
+      "price": 87.42,
       "previous_close": 90.07,
-      "change_pct": -3.13,
-      "market_cap": 458484200338.4437,
+      "change_pct": -2.95,
+      "market_cap": 462084896317.3039,
       "headlines": [
         {
           "title": "GF Securities Picks 3 AI Chip Winners: Marvell and Intel Stand Out",
@@ -175,10 +175,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 238.15,
+      "price": 238.65,
       "previous_close": 243.32,
-      "change_pct": -2.13,
-      "market_cap": 254338523777.48718,
+      "change_pct": -1.92,
+      "market_cap": 254878927533.38635,
       "headlines": [
         {
           "title": "Arm Holdings (ARM) Delivers Strong Growth, but Has the Valuation Run Too Far?",
@@ -203,10 +203,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 229.09,
+      "price": 229.77,
       "previous_close": 237.04,
-      "change_pct": -3.36,
-      "market_cap": 205645373815.21887,
+      "change_pct": -3.07,
+      "market_cap": 206248534733.39124,
       "headlines": [
         {
           "title": "Semiconductor stocks drag S&P 500, Nasdaq lower: AlphaCheck",
@@ -215,26 +215,26 @@
           "published": "2026-08-24T13:57:25Z"
         },
         {
+          "title": "Marvell Falls 4% Ahead of August 27 Earnings, Broadcom Slips",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-falls-4-ahead-august-180113718.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-24T18:01:13Z"
+        },
+        {
           "title": "GF Securities Picks 3 AI Chip Winners: Marvell and Intel Stand Out",
           "url": "https://finance.yahoo.com/technology/ai/articles/gf-securities-picks-3-ai-173809626.html",
           "publisher": "GuruFocus.com",
           "published": "2026-08-24T17:38:09Z"
-        },
-        {
-          "title": "Marvell's Next AI Opportunity Could Be Worth Billions",
-          "url": "https://finance.yahoo.com/technology/ai/articles/marvells-next-ai-opportunity-could-173548161.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-24T17:35:48Z"
         }
       ]
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 158.63,
+      "price": 158.85,
       "previous_close": 160.75,
-      "change_pct": -1.32,
-      "market_cap": 166598612016.32532,
+      "change_pct": -1.19,
+      "market_cap": 166829664760.96915,
       "headlines": [
         {
           "title": "NVIDIA Stock Can Fall By A Third Or Rise By Half And Still Be Normal",
@@ -259,10 +259,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 221.2,
+      "price": 221.52,
       "previous_close": 225.56,
-      "change_pct": -1.94,
-      "market_cap": 55777456314.83557,
+      "change_pct": -1.79,
+      "market_cap": 55859408901.84158,
       "headlines": [
         {
           "title": "3 of Wall Street\u2019s Favorite Stocks We\u2019re Skeptical Of",
@@ -287,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 114.8,
+      "price": 114.79,
       "previous_close": 117.69,
-      "change_pct": -2.46,
-      "market_cap": 16305075659.041992,
+      "change_pct": -2.47,
+      "market_cap": 16270683474.166107,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -315,10 +315,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 149.82,
+      "price": 150.46,
       "previous_close": 160.22,
-      "change_pct": -6.49,
-      "market_cap": 7613227882.098312,
+      "change_pct": -6.09,
+      "market_cap": 7646526714.274292,
       "headlines": [
         {
           "title": "Drone Stocks Slide as Risk Appetite Fades: Unusual Machines Tumbles 9%, Red Cat Falls 7%, Ondas Declines 5%",
@@ -343,10 +343,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 93.68,
+      "price": 93.91,
       "previous_close": 97.66,
-      "change_pct": -4.08,
-      "market_cap": 3663542460.414505,
+      "change_pct": -3.84,
+      "market_cap": 3672537198.47406,
       "headlines": [
         {
           "title": "Synaptics' CEO Sold Stock After a 120,000-Share Vest. Here's What to Know.",
@@ -371,10 +371,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 26.64,
+      "price": 26.68,
       "previous_close": 27.99,
-      "change_pct": -4.82,
-      "market_cap": 750024460.8961182,
+      "change_pct": -4.68,
+      "market_cap": 751150649.5519409,
       "headlines": [
         {
           "title": "Bears are Losing Control Over Ceva (CEVA), Here's Why It's a 'Buy' Now",
@@ -401,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 54.35,
-      "change_pct": -5.78,
+      "price": 54.5,
+      "change_pct": -5.51,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -5.49,
-          "price": 913.72,
+          "change_pct": -5.17,
+          "price": 916.84,
           "currency": "USD"
         },
         {
@@ -445,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -6.6,
-          "price": 1490.74,
+          "change_pct": -6.19,
+          "price": 1497.21,
           "currency": "USD"
         },
         {
@@ -455,7 +455,7 @@
           "short": "Seagate",
           "weight_pct": 4.09,
           "change_pct": -5.99,
-          "price": 799.1,
+          "price": 799.11,
           "currency": "USD"
         },
         {
@@ -463,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -5.14,
-          "price": 435.81,
+          "change_pct": -4.89,
+          "price": 436.99,
           "currency": "USD"
         },
         {
@@ -491,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 54.35,
-    "change_pct": -5.78,
+    "price": 54.5,
+    "change_pct": -5.51,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -5.49,
-        "price": 913.72,
+        "change_pct": -5.17,
+        "price": 916.84,
         "currency": "USD"
       },
       {
@@ -535,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -6.6,
-        "price": 1490.74,
+        "change_pct": -6.19,
+        "price": 1497.21,
         "currency": "USD"
       },
       {
@@ -545,7 +545,7 @@
         "short": "Seagate",
         "weight_pct": 4.09,
         "change_pct": -5.99,
-        "price": 799.1,
+        "price": 799.11,
         "currency": "USD"
       },
       {
@@ -553,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -5.14,
-        "price": 435.81,
+        "change_pct": -4.89,
+        "price": 436.99,
         "currency": "USD"
       },
       {
@@ -580,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7654.04,
-      "change_pct": -0.26
+      "price": 7655.99,
+      "change_pct": -0.24
     },
     {
       "label": "BTC",
-      "price": 78873.95,
-      "change_pct": 1.44
+      "price": 78848.87,
+      "change_pct": 1.41
     },
     {
       "label": "Gold",
-      "price": 4691.6,
-      "change_pct": 1.46
+      "price": 4693.2,
+      "change_pct": 1.49
     },
     {
       "label": "Nasdaq100",
-      "price": 29071.25,
-      "change_pct": -0.81
+      "price": 29095.34,
+      "change_pct": -0.73
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-08-24T21:01:25+00:00",
-  "as_of_local": "2026-08-24 21:01:25 UTC",
+  "as_of_utc": "2026-08-24T21:06:21+00:00",
+  "as_of_local": "2026-08-24 21:06:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "CEVA"
+    "MRVL"
   ],
   "stocks": [
     {
@@ -71,6 +71,12 @@
       "market_cap": 1706829518295.224,
       "headlines": [
         {
+          "title": "AVGO Stock Slips Nearly 3% \u2014 Broadcom\u2019s AI Spending Is Pushing Credit Risks Higher",
+          "url": "https://finance.yahoo.com/technology/ai/articles/avgo-stock-slips-nearly-3-204240291.html",
+          "publisher": "Stocktwits",
+          "published": "2026-08-24T20:42:40Z"
+        },
+        {
           "title": "Steve Cohen makes dramatic switch between 2 top AI giants",
           "url": "https://finance.yahoo.com/technology/ai/articles/steve-cohen-makes-dramatic-switch-202300729.html",
           "publisher": "TheStreet",
@@ -81,12 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/p-nasdaq-futures-slip-markets-100932666.html",
           "publisher": "Reuters",
           "published": "2026-08-24T20:09:01Z"
-        },
-        {
-          "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
-          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-slides-2-3-ai-194932749.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-24T19:49:32Z"
         }
       ]
     },
@@ -111,10 +111,10 @@
           "published": "2026-08-24T13:57:25Z"
         },
         {
-          "title": "Stock Market Today: Dow Up As Trump Says This On Canada; Nvidia Shares Skid Despite AI Move (Live Coverage)",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
+          "title": "Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses; Nvidia Sells Off Before Earnings",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-trump-bessent-nvidia-stock-nvda-earnings/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-08-24T20:43:08Z"
+          "published": "2026-08-24T20:59:29Z"
         }
       ]
     },
@@ -199,34 +199,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/arm-arm-stock-looks-above-021134452.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-22T02:11:34Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 229.29,
-      "previous_close": 237.04,
-      "change_pct": -3.27,
-      "market_cap": 205797954723.67596,
-      "headlines": [
-        {
-          "title": "Semiconductor stocks drag S&P 500, Nasdaq lower: AlphaCheck",
-          "url": "https://finance.yahoo.com/markets/article/semiconductor-stocks-drag-sp-500-nasdaq-lower-alphacheck-135725875.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-24T13:57:25Z"
-        },
-        {
-          "title": "Update: Nasdaq, S&P 500 Fall as New Sanctions Plan Targets Iran's Trading Partners",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-fall-sanctions-204112044.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-24T20:41:12Z"
-        },
-        {
-          "title": "The Shock Record Understates How Far Applied Optoelectronics Stock Can Fall",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/shock-record-understates-far-applied-191532126.html",
-          "publisher": "Trefis",
-          "published": "2026-08-24T19:15:32Z"
         }
       ]
     },
@@ -367,6 +339,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-insider-filing-lands-7-083001176.html",
           "publisher": "Motley Fool",
           "published": "2026-08-23T08:30:01Z"
+        }
+      ]
+    },
+    {
+      "symbol": "CEVA",
+      "name": "CEVA",
+      "price": 26.68,
+      "previous_close": 27.99,
+      "change_pct": -4.68,
+      "market_cap": 751150649.5519409,
+      "headlines": [
+        {
+          "title": "Bears are Losing Control Over Ceva (CEVA), Here's Why It's a 'Buy' Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bears-losing-control-over-ceva-135502763.html",
+          "publisher": "Zacks",
+          "published": "2026-08-20T13:55:02Z"
+        },
+        {
+          "title": "Bull of the Day: Ceva (CEVA)",
+          "url": "https://finance.yahoo.com/technology/articles/bull-day-ceva-ceva-092000626.html",
+          "publisher": "Zacks",
+          "published": "2026-08-20T09:20:00Z"
+        },
+        {
+          "title": "CEVA (CEVA) Q2 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-ceva-q2-2026-earnings-154343784.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-17T15:43:43Z"
         }
       ]
     }
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78941.76,
-      "change_pct": 1.53
+      "price": 78993.19,
+      "change_pct": 1.59
     },
     {
       "label": "Gold",
-      "price": 4706.4,
-      "change_pct": 1.78
+      "price": 4707.7,
+      "change_pct": 1.81
     },
     {
       "label": "Nasdaq100",

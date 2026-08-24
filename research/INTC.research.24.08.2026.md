@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
+| Micron, Seagate, Western Digital, Semtech, and Penguin Solutions Shares Are Falling, What You Need To Know | StockStory | 2026-08-24 |
 | Intel (INTC) Joins City Scale Open 5G And NextG Testing Push | Simply Wall St. | 2026-08-24 |
 | Nancy Pelosi Disclosure Reveals Two Fresh AI Stock Bets | GuruFocus.com | 2026-08-24 |
 | Nancy Pelosi Takes Long Positions In BE, INTC Stock | Stocktwits | 2026-08-24 |
-| Marvell’s $120 Billion Google Deal Changes Everything Ahead of Earnings | Barrons.com | 2026-08-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

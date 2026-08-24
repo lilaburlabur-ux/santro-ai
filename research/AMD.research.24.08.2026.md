@@ -1,5 +1,5 @@
 # AMD Research Report
-**Advanced Micro Devices, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**AMD** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `AMD.research.24.08.2026`
 
 | Field | Value |
@@ -37,9 +37,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | How investors should approach Nvidia’s earnings | Yahoo Finance Video | 2026-08-24 |
+| Micron, Seagate, Western Digital, Semtech, and Penguin Solutions Shares Are Falling, What You Need To Know | StockStory | 2026-08-24 |
 | AMD Sinks 2.9% Before Nvidia's Critical Earnings Test | GuruFocus.com | 2026-08-24 |
 | TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks | GuruFocus.com | 2026-08-24 |
-| Advanced Micro Devices (AMD) Is Down 6.5% After $4.75 Billion Debt Raise And Taiwan AI Push | Simply Wall St. | 2026-08-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

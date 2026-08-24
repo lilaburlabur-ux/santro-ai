@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-08-24T10:07:34+00:00",
-  "as_of_local": "2026-08-24 10:07:34 UTC",
+  "as_of_utc": "2026-08-24T10:13:20+00:00",
+  "as_of_local": "2026-08-24 10:13:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "SYNA"
+    "MRVL"
   ],
   "stocks": [
     {
@@ -203,34 +203,6 @@
       ]
     },
     {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 237.04,
-      "previous_close": 251.01,
-      "change_pct": -5.57,
-      "market_cap": 212753924001.92596,
-      "headlines": [
-        {
-          "title": "US Stock Market Today S&P 500 Futures Rise As Higher Yields Test Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080848022.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-24T08:08:48Z"
-        },
-        {
-          "title": "Dow Jones Futures Waver; Nvidia, Tariffs, Warsh In Focus",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-24T03:09:06Z"
-        },
-        {
-          "title": "Broadcom Has Seen Its Biggest Customer Drop a Key Chip Before. History Says What the Stock Did Next.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-seen-biggest-customer-drop-024601920.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-24T02:46:01Z"
-        }
-      ]
-    },
-    {
       "symbol": "QCOM",
       "name": "Qualcomm",
       "price": 160.75,
@@ -339,6 +311,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-forms-av-eagle-101527585.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-21T10:15:27Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SYNA",
+      "name": "Synaptics",
+      "price": 97.66,
+      "previous_close": 98.0,
+      "change_pct": -0.35,
+      "market_cap": 3819188395.97406,
+      "headlines": [
+        {
+          "title": "Synaptics' CEO Sold Stock After a 120,000-Share Vest. Here's What to Know.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-ceo-sold-stock-120-091014820.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-23T09:10:14Z"
+        },
+        {
+          "title": "Synaptics' CFO Disposed of Stock as an 88%-12% OnSemi Ownership Split Takes Shape. Here's What to Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-cfo-disposed-stock-88-085902653.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-23T08:59:02Z"
+        },
+        {
+          "title": "A Synaptics Insider Filing Lands as a $7.8 Billion Combined Company Takes Shape",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-insider-filing-lands-7-083001176.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-23T08:30:01Z"
         }
       ]
     },
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 77603.15,
-      "change_pct": -0.2
+      "price": 77764.29,
+      "change_pct": 0.01
     },
     {
       "label": "Gold",
-      "price": 4701.6,
-      "change_pct": 1.68
+      "price": 4703.6,
+      "change_pct": 1.72
     },
     {
       "label": "Nasdaq100",

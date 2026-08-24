@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-24T20:56:29+00:00",
-  "as_of_local": "2026-08-24 20:56:29 UTC",
+  "as_of_utc": "2026-08-24T21:01:25+00:00",
+  "as_of_local": "2026-08-24 21:01:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEVA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -150,7 +152,7 @@
       "price": 87.26,
       "previous_close": 90.07,
       "change_pct": -3.12,
-      "market_cap": 461265556454.4591,
+      "market_cap": 458509977471.77924,
       "headlines": [
         {
           "title": "Micron, Seagate, Western Digital, Semtech, and Penguin Solutions Shares Are Falling, What You Need To Know",
@@ -290,7 +292,7 @@
       "price": 114.15,
       "previous_close": 117.69,
       "change_pct": -3.01,
-      "market_cap": 16180672423.642128,
+      "market_cap": 16212755765.520996,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -365,34 +367,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-insider-filing-lands-7-083001176.html",
           "publisher": "Motley Fool",
           "published": "2026-08-23T08:30:01Z"
-        }
-      ]
-    },
-    {
-      "symbol": "CEVA",
-      "name": "CEVA",
-      "price": 26.68,
-      "previous_close": 27.99,
-      "change_pct": -4.68,
-      "market_cap": 751150649.5519409,
-      "headlines": [
-        {
-          "title": "Bears are Losing Control Over Ceva (CEVA), Here's Why It's a 'Buy' Now",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bears-losing-control-over-ceva-135502763.html",
-          "publisher": "Zacks",
-          "published": "2026-08-20T13:55:02Z"
-        },
-        {
-          "title": "Bull of the Day: Ceva (CEVA)",
-          "url": "https://finance.yahoo.com/technology/articles/bull-day-ceva-ceva-092000626.html",
-          "publisher": "Zacks",
-          "published": "2026-08-20T09:20:00Z"
-        },
-        {
-          "title": "CEVA (CEVA) Q2 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-ceva-q2-2026-earnings-154343784.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-17T15:43:43Z"
         }
       ]
     }
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78895.43,
-      "change_pct": 1.47
+      "price": 78941.76,
+      "change_pct": 1.53
     },
     {
       "label": "Gold",
-      "price": 4704.6,
-      "change_pct": 1.74
+      "price": 4706.4,
+      "change_pct": 1.78
     },
     {
       "label": "Nasdaq100",

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-24T22:19:54+00:00",
+  "as_of": "2026-08-24T22:23:32+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "AVAV",
    "company": "AeroVironment Inc",
-   "move_pct": -6.83,
-   "price": 149.27,
+   "move_pct": -6.95,
+   "price": 149.08,
    "volume": 1231715,
    "volume_vs_avg": "~1.0x",
    "heat_score": 44,
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "MU",
    "company": "Micron Technology Inc",
-   "move_pct": -5.89,
-   "price": 909.8,
+   "move_pct": -5.94,
+   "price": 909.35,
    "volume": 29794356,
    "volume_vs_avg": "~0.7x",
    "heat_score": 39,
@@ -43,8 +43,8 @@
    "rank": 3,
    "ticker": "SMCI",
    "company": "Super Micro Computer Inc",
-   "move_pct": -5.59,
-   "price": 35.16,
+   "move_pct": -5.61,
+   "price": 35.15,
    "volume": 39804131,
    "volume_vs_avg": "~0.7x",
    "heat_score": 38,
@@ -59,8 +59,8 @@
    "rank": 4,
    "ticker": "CBRS",
    "company": "Cerebras Systems Inc",
-   "move_pct": -5.22,
-   "price": 185.89,
+   "move_pct": -5.18,
+   "price": 185.97,
    "volume": 5715245,
    "volume_vs_avg": "~0.8x",
    "heat_score": 37,
@@ -70,6 +70,22 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-systems-cbrs-revenue-surges-185707172.html",
    "published": "2026-08-24T18:57:07Z",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 5,
+   "ticker": "SKHY",
+   "company": "SK hynix Inc (ADR)",
+   "move_pct": -5.08,
+   "price": 155.11,
+   "volume": 16513137,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 35,
+   "direction": "down",
+   "why": "SK Hynix (NasdaqGS:SKHY) Weighs Japan Memory Plant In Big Overseas Expansion",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/articles/sk-hynix-nasdaqgs-skhy-weighs-220926859.html",
+   "published": "2026-08-24T22:09:26Z",
+   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

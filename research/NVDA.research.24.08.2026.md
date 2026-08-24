@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Tesla to launch Cybercabs in Austin starting Sept. 3 | Yahoo Finance Video | 2026-08-24 |
-| Tech stocks today: All eyes on Nvidia as Meta trial resumes | Yahoo Finance | 2026-08-24 |
-| Nvidia, software giants' earnings: What to watch the week of August 24th | Yahoo Finance Video | 2026-08-24 |
-| Update: US Equity Indexes Mixed as Chipmakers Push Technology Lower, Bessent Unveils Plans to Choke Iran's Economy | MT Newswires | 2026-08-24 |
+| What's at stake for Paramount, the Ellisons in Warner Bros. takeover bid | Yahoo Finance Video | 2026-08-24 |
+| Nvidia's valuation looks surprisingly cheap heading into earnings. Could it be an issue for the stock? | Yahoo Finance | 2026-08-24 |
+| Nvidia earnings may come down to guidance and Jensen Huang's confidence | Yahoo Finance Video | 2026-08-24 |
+| Nvidia's Q2 earnings to test resurgent AI trade | Yahoo Finance | 2026-08-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

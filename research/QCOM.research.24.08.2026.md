@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| Marvell Technology Stock More Than Tripled On A Roadmap It Had Been Publishing All Along | Trefis | 2026-08-24 |
 | NVIDIA Stock Can Fall By A Third Or Rise By Half And Still Be Normal | Trefis | 2026-08-24 |
 | The AI Opportunity Qualcomm Investors May Be Underestimating | 24/7 Wall St. | 2026-08-24 |
 | Nvidia’s Trillion-Dollar Chip Market Has Friends and Foes Closing In | Bloomberg | 2026-08-24 |
-| Qualcomm (QCOM) Hands Sergio Buniac A Bigger Role In Mobile And AI | Simply Wall St. | 2026-08-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

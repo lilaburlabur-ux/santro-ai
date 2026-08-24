@@ -38,8 +38,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 |---|---|---|
 | Stock market today: S&P 500, Nasdaq fall as chip stocks sink, US unveils new Iran sanctions | Yahoo Finance | 2026-08-24 |
 | Semiconductor stocks drag S&P 500, Nasdaq lower: AlphaCheck | Yahoo Finance | 2026-08-24 |
+| Stock Market Today, Aug. 24: Nvidia Extends Losses as Tech Stocks Retreat | Motley Fool | 2026-08-24 |
 | Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses; Nvidia Sells Off Before Earnings | Investor's Business Daily | 2026-08-24 |
-| Stock Market Today: Dow Up As Trump Says This On Canada; Nvidia Shares Skid Despite AI Move (Live Coverage) | Investor's Business Daily | 2026-08-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

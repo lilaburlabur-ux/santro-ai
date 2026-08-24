@@ -37,9 +37,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | How investors should approach Nvidia’s earnings | Yahoo Finance Video | 2026-08-24 |
+| Marvell Technology Stock More Than Tripled On A Roadmap It Had Been Publishing All Along | Trefis | 2026-08-24 |
 | Tech, Media & Telecom Roundup: Market Talk | The Wall Street Journal | 2026-08-24 |
 | Micron, Seagate, Western Digital, Semtech, and Penguin Solutions Shares Are Falling, What You Need To Know | StockStory | 2026-08-24 |
-| AMD Sinks 2.9% Before Nvidia's Critical Earnings Test | GuruFocus.com | 2026-08-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

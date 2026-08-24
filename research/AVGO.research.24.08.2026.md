@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Marvell Technology Stock More Than Tripled On A Roadmap It Had Been Publishing All Along | Trefis | 2026-08-24 |
 | AVGO Stock Slips Nearly 3% — Broadcom’s AI Spending Is Pushing Credit Risks Higher | Stocktwits | 2026-08-24 |
 | Steve Cohen makes dramatic switch between 2 top AI giants | TheStreet | 2026-08-24 |
 | S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves | Reuters | 2026-08-24 |
-| TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks | GuruFocus.com | 2026-08-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

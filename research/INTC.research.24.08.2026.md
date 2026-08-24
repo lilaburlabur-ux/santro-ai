@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
+| Marvell Technology Stock More Than Tripled On A Roadmap It Had Been Publishing All Along | Trefis | 2026-08-24 |
 | Nasdaq’s Biggest Losers Today | The Wall Street Journal | 2026-08-24 |
 | Micron, Seagate, Western Digital, Semtech, and Penguin Solutions Shares Are Falling, What You Need To Know | StockStory | 2026-08-24 |
 | Intel (INTC) Joins City Scale Open 5G And NextG Testing Push | Simply Wall St. | 2026-08-24 |
-| Nancy Pelosi Disclosure Reveals Two Fresh AI Stock Bets | GuruFocus.com | 2026-08-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-24T00:51:23+00:00",
-  "as_of_local": "2026-08-24 00:51:23 UTC",
+  "as_of_utc": "2026-08-24T00:56:29+00:00",
+  "as_of_local": "2026-08-24 00:56:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -143,6 +141,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-doesn-t-look-153050991.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-22T15:30:50Z"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 90.07,
+      "previous_close": 92.13,
+      "change_pct": -2.24,
+      "market_cap": 473275183588.49585,
+      "headlines": [
+        {
+          "title": "Alibaba Launches Record $10 Billion Share Sale to Enter the AI Race",
+          "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-launches-record-10-billion-140850469.html",
+          "publisher": "BeInCrypto",
+          "published": "2026-08-23T14:08:50Z"
+        },
+        {
+          "title": "Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-sold-20-billion-stock-003201276.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-22T00:32:01Z"
+        },
+        {
+          "title": "3 American Stocks Showing the Same Setup That Sent Moderna Up 177%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-american-stocks-showing-same-221405576.html",
+          "publisher": "BeInCrypto",
+          "published": "2026-08-21T22:14:05Z"
         }
       ]
     },
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -0.2,
-          "price": 1726500.0,
+          "change_pct": 0.29,
+          "price": 1735000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -6.93,
-          "price": 262000.0,
+          "change_pct": -6.75,
+          "price": 262500.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -1.66,
-          "price": 53420.0,
+          "change_pct": -1.14,
+          "price": 53700.0,
           "currency": "JPY"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -0.2,
-        "price": 1726500.0,
+        "change_pct": 0.29,
+        "price": 1735000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -6.93,
-        "price": 262000.0,
+        "change_pct": -6.75,
+        "price": 262500.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -1.66,
-        "price": 53420.0,
+        "change_pct": -1.14,
+        "price": 53700.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 77403.54,
-      "change_pct": 0.42
+      "price": 77530.73,
+      "change_pct": 0.58
     },
     {
       "label": "Gold",
-      "price": 4662.6,
-      "change_pct": 0.83
+      "price": 4661.7,
+      "change_pct": 0.81
     },
     {
       "label": "Nasdaq100",

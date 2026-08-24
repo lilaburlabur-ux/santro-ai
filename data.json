@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-24T10:02:35+00:00",
-  "as_of_local": "2026-08-24 10:02:35 UTC",
+  "as_of_utc": "2026-08-24T10:07:34+00:00",
+  "as_of_local": "2026-08-24 10:07:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-08-24T08:03:06Z"
         },
         {
+          "title": "The One Line in Anthropic's S-1 That Amazon Investors Should Read First",
+          "url": "https://finance.yahoo.com/technology/ai/articles/one-line-anthropics-1-amazon-095000957.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-24T09:50:00Z"
+        },
+        {
           "title": "Should You Buy Dogecoin While It's Below $0.10? The Answer Might Shock You.",
           "url": "https://finance.yahoo.com/markets/crypto/articles/buy-dogecoin-while-below-0-094200365.html",
           "publisher": "Motley Fool",
           "published": "2026-08-24T09:42:00Z"
-        },
-        {
-          "title": "XRP vs Ethereum: Which Crypto Will Reach Its All-Time High First?",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-vs-ethereum-crypto-reach-093547844.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-24T09:35:47Z"
         }
       ]
     },
@@ -341,34 +343,6 @@
       ]
     },
     {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 97.66,
-      "previous_close": 98.0,
-      "change_pct": -0.35,
-      "market_cap": 3819188395.97406,
-      "headlines": [
-        {
-          "title": "Synaptics' CEO Sold Stock After a 120,000-Share Vest. Here's What to Know.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-ceo-sold-stock-120-091014820.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T09:10:14Z"
-        },
-        {
-          "title": "Synaptics' CFO Disposed of Stock as an 88%-12% OnSemi Ownership Split Takes Shape. Here's What to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-cfo-disposed-stock-88-085902653.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T08:59:02Z"
-        },
-        {
-          "title": "A Synaptics Insider Filing Lands as a $7.8 Billion Combined Company Takes Shape",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-insider-filing-lands-7-083001176.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T08:30:01Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 27.99,
@@ -579,14 +553,19 @@
   },
   "tape": [
     {
+      "label": "SPX",
+      "price": 7674.37,
+      "change_pct": 0.43
+    },
+    {
       "label": "BTC",
-      "price": 77536.63,
-      "change_pct": -0.28
+      "price": 77603.15,
+      "change_pct": -0.2
     },
     {
       "label": "Gold",
-      "price": 4698.7,
-      "change_pct": 1.61
+      "price": 4701.6,
+      "change_pct": 1.68
     },
     {
       "label": "Nasdaq100",

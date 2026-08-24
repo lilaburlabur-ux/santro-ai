@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-24T21:06:21+00:00",
-  "as_of_local": "2026-08-24 21:06:21 UTC",
+  "as_of_utc": "2026-08-24T21:11:46+00:00",
+  "as_of_local": "2026-08-24 21:11:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -199,6 +197,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/arm-arm-stock-looks-above-021134452.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-22T02:11:34Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 229.29,
+      "previous_close": 237.04,
+      "change_pct": -3.27,
+      "market_cap": 205797954723.67596,
+      "headlines": [
+        {
+          "title": "Semiconductor stocks drag S&P 500, Nasdaq lower: AlphaCheck",
+          "url": "https://finance.yahoo.com/markets/article/semiconductor-stocks-drag-sp-500-nasdaq-lower-alphacheck-135725875.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-08-24T13:57:25Z"
+        },
+        {
+          "title": "Update: Nasdaq, S&P 500 Fall as New Sanctions Plan Targets Iran's Trading Partners",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-fall-sanctions-204112044.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-24T20:41:12Z"
+        },
+        {
+          "title": "The Shock Record Understates How Far Applied Optoelectronics Stock Can Fall",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/shock-record-understates-far-applied-191532126.html",
+          "publisher": "Trefis",
+          "published": "2026-08-24T19:15:32Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 78993.19,
-      "change_pct": 1.59
+      "price": 79015.2,
+      "change_pct": 1.62
     },
     {
       "label": "Gold",
-      "price": 4707.7,
-      "change_pct": 1.81
+      "price": 4710.0,
+      "change_pct": 1.86
     },
     {
       "label": "Nasdaq100",

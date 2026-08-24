@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-24T23:13:16+00:00",
+  "as_of": "2026-08-24T23:17:52+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "AVAV",
    "company": "AeroVironment Inc",
-   "move_pct": -6.73,
-   "price": 149.44,
+   "move_pct": -6.69,
+   "price": 149.5,
    "volume": 1231715,
    "volume_vs_avg": "~1.0x",
    "heat_score": 43,
@@ -27,11 +27,11 @@
    "rank": 2,
    "ticker": "MU",
    "company": "Micron Technology Inc",
-   "move_pct": -6.22,
-   "price": 906.67,
+   "move_pct": -6.31,
+   "price": 905.75,
    "volume": 29794356,
    "volume_vs_avg": "~0.7x",
-   "heat_score": 40,
+   "heat_score": 41,
    "direction": "down",
    "why": "Prediction: Not Micron. This Artificial Intelligence (AI) Stock Could Be the Biggest Winner of the Next Infrastructure Bottleneck",
    "catalyst_type": "momentum_narrative",
@@ -57,19 +57,19 @@
   },
   {
    "rank": 4,
-   "ticker": "LEU",
-   "company": "Centrus Energy Corp",
-   "move_pct": -5.51,
-   "price": 176.0,
-   "volume": 539780,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 38,
+   "ticker": "SKHY",
+   "company": "SK hynix Inc (ADR)",
+   "move_pct": -5.17,
+   "price": 154.96,
+   "volume": 16513137,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 35,
    "direction": "down",
-   "why": "Green Plains, Liberty Energy, Nabors Industries, Centrus Energy, and Oceaneering Shares Are Falling, What You Need To Know",
+   "why": "SK Hynix (NasdaqGS:SKHY) Weighs Japan Memory Plant In Big Overseas Expansion",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/green-plains-liberty-energy-nabors-205736768.html",
-   "published": "2026-08-24T20:57:36Z",
-   "sector": "Powering AI"
+   "source_url": "https://finance.yahoo.com/technology/articles/sk-hynix-nasdaqgs-skhy-weighs-220926859.html",
+   "published": "2026-08-24T22:09:26Z",
+   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

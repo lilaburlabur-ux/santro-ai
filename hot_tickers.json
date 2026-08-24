@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-24T16:20:49+00:00",
+  "as_of": "2026-08-24T16:29:43+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "MU",
-   "company": "Micron Technology Inc",
-   "move_pct": -5.09,
-   "price": 917.58,
-   "volume": 16514059,
-   "volume_vs_avg": "~0.4x",
-   "heat_score": 35,
-   "direction": "down",
-   "why": "Memory Stocks Slide on Report Apple May Source Chinese Chips: SanDisk Down 9%, Micron and Western Digital Down 7%",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/memory-stocks-slide-report-apple-152936889.html",
-   "published": "2026-08-24T15:29:36Z",
-   "sector": "AI Chips & Compute"
-  }
- ]
+ "hot_tickers": []
 }

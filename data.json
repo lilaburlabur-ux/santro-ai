@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-24T10:34:48+00:00",
-  "as_of_local": "2026-08-24 10:34:48 UTC",
+  "as_of_utc": "2026-08-24T10:40:06+00:00",
+  "as_of_local": "2026-08-24 10:40:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -197,34 +199,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-eyes-deal-2-3-145012820.html",
           "publisher": "GuruFocus.com",
           "published": "2026-08-21T14:50:12Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 237.04,
-      "previous_close": 251.01,
-      "change_pct": -5.57,
-      "market_cap": 212753924001.92596,
-      "headlines": [
-        {
-          "title": "US Equity Investors to Focus on Nvidia's Earnings, Chair Warsh's Jackson Hole Speech, PCE Inflation This Week",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-investors-focus-nvidia-102436982.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-24T10:24:36Z"
-        },
-        {
-          "title": "Stocks to Watch: Alibaba, Marvell Technology, Coinbase",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/stocks-to-watch-alibaba-marvell-technology-coinbase-z7UifElg34jmJFA3YwzG?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-08-24T09:30:57Z"
-        },
-        {
-          "title": "US Stock Market Today S&P 500 Futures Rise As Higher Yields Test Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080848022.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-24T08:08:48Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 77976.01,
-      "change_pct": 0.28
+      "price": 77831.76,
+      "change_pct": 0.1
     },
     {
       "label": "Gold",
-      "price": 4701.7,
-      "change_pct": 1.68
+      "price": 4700.3,
+      "change_pct": 1.65
     },
     {
       "label": "Nasdaq100",

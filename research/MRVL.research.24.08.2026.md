@@ -38,8 +38,8 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 |---|---|---|
 | Semiconductor stocks drag S&P 500, Nasdaq lower: AlphaCheck | Yahoo Finance | 2026-08-24 |
 | Update: Nasdaq, S&P 500 Fall as New Sanctions Plan Targets Iran's Trading Partners | MT Newswires | 2026-08-24 |
+| Nasdaq’s Biggest Losers Today | The Wall Street Journal | 2026-08-24 |
 | The Shock Record Understates How Far Applied Optoelectronics Stock Can Fall | Trefis | 2026-08-24 |
-| Marvell’s $120 Billion Google Deal Changes Everything Ahead of Earnings | Barrons.com | 2026-08-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -69,7 +69,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Profitability | Gross 51.50%, operating 14.48%, net 28.99% | ROA 3.81%, ROE 16.03% |
 | Balance sheet | Cash $3.84B, debt $5.28B | Current ratio 3.28, debt/equity 28.97 |
 | Valuation | P/E 78.52, forward P/E 36.68, P/S 23.61, P/B 11.02 | EV/Sales 23.95, EV/EBITDA 76.99 |
-| Growth expectations | Earnings growth -80.40%, EPS q/q -80.60% | Analyst mean target $263.94 (41 analysts) |
+| Growth expectations | Earnings growth -80.40%, EPS q/q -80.60% | Analyst mean target $266.36 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

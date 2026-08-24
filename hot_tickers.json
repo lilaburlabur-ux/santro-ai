@@ -1,10 +1,43 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-24T13:22:06+00:00",
+  "as_of": "2026-08-24T13:36:26+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "MRVL",
+   "company": "Marvell Technology Inc",
+   "move_pct": -5.87,
+   "price": 223.13,
+   "volume": 2094856,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 36,
+   "direction": "down",
+   "why": "Marvell Could Give Investors A Reason To Celebrate On August 27th",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-could-investors-reason-celebrate-130556202.html",
+   "published": "2026-08-24T13:05:56Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
+   "ticker": "MU",
+   "company": "Micron Technology Inc",
+   "move_pct": -5.58,
+   "price": 912.79,
+   "volume": 3209561,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 35,
+   "direction": "down",
+   "why": "Dan Ives Says Nvidia's 15% AI Server Price Hike Is Bullish for Tech. Could Micron Be the Real Winner?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/dan-ives-says-nvidias-15-131601726.html",
+   "published": "2026-08-24T13:16:01Z",
+   "sector": "AI Chips & Compute"
+  }
+ ]
 }

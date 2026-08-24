@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-24T15:09:11+00:00",
+  "as_of": "2026-08-24T15:23:47+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,49 +11,17 @@
    "rank": 1,
    "ticker": "MU",
    "company": "Micron Technology Inc",
-   "move_pct": -7.11,
-   "price": 898.0,
-   "volume": 12542540,
+   "move_pct": -7.07,
+   "price": 898.41,
+   "volume": 13280137,
    "volume_vs_avg": "~0.3x",
    "heat_score": 41,
    "direction": "down",
-   "why": "Micron's Big AI Test Is Coming This Week",
+   "why": "Micron Stock Slips as Samsung's 9% Plunge Rattles Memory Trade",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/microns-big-ai-test-coming-144549533.html",
-   "published": "2026-08-24T14:45:49Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-slips-samsungs-9-150705778.html",
+   "published": "2026-08-24T15:07:05Z",
    "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 2,
-   "ticker": "MRVL",
-   "company": "Marvell Technology Inc",
-   "move_pct": -5.18,
-   "price": 224.76,
-   "volume": 7404852,
-   "volume_vs_avg": "~0.3x",
-   "heat_score": 35,
-   "direction": "down",
-   "why": "Marvell\u2019s $120 Billion Google Deal Changes Everything Ahead of Earnings",
-   "catalyst_type": "earnings",
-   "source_url": "https://www.barrons.com/articles/marvell-stock-price-earnings-google-deal-17f2cfdd?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-08-24T14:25:00Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 3,
-   "ticker": "OKLO",
-   "company": "Oklo Inc",
-   "move_pct": -5.11,
-   "price": 39.94,
-   "volume": 2914203,
-   "volume_vs_avg": "~0.3x",
-   "heat_score": 34,
-   "direction": "down",
-   "why": "Is Oklo (OKLO) Undervalued After First Revenue And A Reactor Milestone?",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/oklo-oklo-undervalued-first-revenue-140827868.html",
-   "published": "2026-08-24T14:08:27Z",
-   "sector": "Data Center, Power & Energy"
   }
  ]
 }

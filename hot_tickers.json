@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-24T13:36:57+00:00",
+  "as_of": "2026-08-24T13:52:14+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,12 +9,28 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "MU",
+   "company": "Micron Technology Inc",
+   "move_pct": -7.13,
+   "price": 897.85,
+   "volume": 5858631,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 41,
+   "direction": "down",
+   "why": "Dan Ives Says Nvidia's 15% AI Server Price Hike Is Bullish for Tech. Could Micron Be the Real Winner?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/dan-ives-says-nvidias-15-131601726.html",
+   "published": "2026-08-24T13:16:01Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
-   "move_pct": -5.73,
-   "price": 223.46,
-   "volume": 2167758,
-   "volume_vs_avg": "~0.1x",
+   "move_pct": -5.89,
+   "price": 223.08,
+   "volume": 3828447,
+   "volume_vs_avg": "~0.2x",
    "heat_score": 36,
    "direction": "down",
    "why": "Marvell Could Give Investors A Reason To Celebrate On August 27th",
@@ -24,20 +40,20 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 2,
-   "ticker": "MU",
-   "company": "Micron Technology Inc",
-   "move_pct": -5.57,
-   "price": 912.89,
-   "volume": 3266818,
-   "volume_vs_avg": "~0.1x",
+   "rank": 3,
+   "ticker": "OKLO",
+   "company": "Oklo Inc",
+   "move_pct": -5.6,
+   "price": 39.74,
+   "volume": 1483024,
+   "volume_vs_avg": "~0.2x",
    "heat_score": 35,
    "direction": "down",
-   "why": "Dan Ives Says Nvidia's 15% AI Server Price Hike Is Bullish for Tech. Could Micron Be the Real Winner?",
+   "why": "OKLO vs. TLN: Which Nuclear Energy Stock Looks Better Now?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/dan-ives-says-nvidias-15-131601726.html",
-   "published": "2026-08-24T13:16:01Z",
-   "sector": "AI Chips & Compute"
+   "source_url": "https://finance.yahoo.com/energy/articles/oklo-vs-tln-nuclear-energy-120000234.html",
+   "published": "2026-08-24T12:00:00Z",
+   "sector": "Data Center, Power & Energy"
   }
  ]
 }

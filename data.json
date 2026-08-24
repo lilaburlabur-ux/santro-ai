@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-24T02:06:48+00:00",
-  "as_of_local": "2026-08-24 02:06:48 UTC",
+  "as_of_utc": "2026-08-24T02:21:49+00:00",
+  "as_of_local": "2026-08-24 02:21:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -28,7 +30,7 @@
           "title": "Dow Jones Futures Waver; Nvidia, Tariffs, Warsh In Focus",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-08-24T01:53:42Z"
+          "published": "2026-08-24T02:09:38Z"
         }
       ]
     },
@@ -150,7 +152,7 @@
       "price": 90.07,
       "previous_close": 92.13,
       "change_pct": -2.24,
-      "market_cap": 473275183588.49585,
+      "market_cap": 476119499335.1487,
       "headlines": [
         {
           "title": "Alibaba shares fall 8% after $10 billion Hong Kong share sale",
@@ -212,7 +214,7 @@
           "title": "Dow Jones Futures Waver; Nvidia, Tariffs, Warsh In Focus",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-08-24T01:53:42Z"
+          "published": "2026-08-24T02:09:38Z"
         },
         {
           "title": "How to Play MRVL Stock Now as Marvell Technology Expands Its Relationship With Google",
@@ -290,7 +292,7 @@
       "price": 117.69,
       "previous_close": 117.56,
       "change_pct": 0.11,
-      "market_cap": 16715543058.433594,
+      "market_cap": 16682464753.277405,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -337,34 +339,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-forms-av-eagle-101527585.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-21T10:15:27Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 97.66,
-      "previous_close": 98.0,
-      "change_pct": -0.35,
-      "market_cap": 3819188395.97406,
-      "headlines": [
-        {
-          "title": "Synaptics' CEO Sold Stock After a 120,000-Share Vest. Here's What to Know.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-ceo-sold-stock-120-091014820.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T09:10:14Z"
-        },
-        {
-          "title": "Synaptics' CFO Disposed of Stock as an 88%-12% OnSemi Ownership Split Takes Shape. Here's What to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-cfo-disposed-stock-88-085902653.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T08:59:02Z"
-        },
-        {
-          "title": "A Synaptics Insider Filing Lands as a $7.8 Billion Combined Company Takes Shape",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-insider-filing-lands-7-083001176.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T08:30:01Z"
         }
       ]
     },
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 0.4,
-          "price": 1737000.0,
+          "change_pct": -0.98,
+          "price": 1713000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -6.84,
-          "price": 262250.0,
+          "change_pct": -7.64,
+          "price": 260000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -2.49,
-          "price": 52970.0,
+          "change_pct": -3.42,
+          "price": 52460.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -0.57,
-          "price": 525.0,
+          "change_pct": -1.14,
+          "price": 522.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 0.55,
-          "price": 182.0,
+          "change_pct": 0.0,
+          "price": 181.0,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 0.4,
-        "price": 1737000.0,
+        "change_pct": -0.98,
+        "price": 1713000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -6.84,
-        "price": 262250.0,
+        "change_pct": -7.64,
+        "price": 260000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -2.49,
-        "price": 52970.0,
+        "change_pct": -3.42,
+        "price": 52460.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -0.57,
-        "price": 525.0,
+        "change_pct": -1.14,
+        "price": 522.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 0.55,
-        "price": 182.0,
+        "change_pct": 0.0,
+        "price": 181.0,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 77098.86,
-      "change_pct": 0.02
+      "price": 77427.58,
+      "change_pct": 0.45
     },
     {
       "label": "Gold",
-      "price": 4688.6,
-      "change_pct": 1.39
+      "price": 4704.8,
+      "change_pct": 1.75
     },
     {
       "label": "Nasdaq100",

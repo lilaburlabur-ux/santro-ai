@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-24T15:23:47+00:00",
+  "as_of": "2026-08-24T15:38:55+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "MU",
    "company": "Micron Technology Inc",
-   "move_pct": -7.07,
-   "price": 898.41,
-   "volume": 13280137,
+   "move_pct": -6.47,
+   "price": 904.28,
+   "volume": 14084061,
    "volume_vs_avg": "~0.3x",
-   "heat_score": 41,
+   "heat_score": 39,
    "direction": "down",
-   "why": "Micron Stock Slips as Samsung's 9% Plunge Rattles Memory Trade",
+   "why": "Memory Stocks Slide on Report Apple May Source Chinese Chips: SanDisk Down 9%, Micron and Western Digital Down 7%",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-slips-samsungs-9-150705778.html",
-   "published": "2026-08-24T15:07:05Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/memory-stocks-slide-report-apple-152936889.html",
+   "published": "2026-08-24T15:29:36Z",
    "sector": "AI Chips & Compute"
   }
  ]

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-24T20:14:51+00:00",
-  "as_of_local": "2026-08-24 20:14:51 UTC",
+  "as_of_utc": "2026-08-24T20:20:17+00:00",
+  "as_of_local": "2026-08-24 20:20:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -35,11 +35,17 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 410.13,
+      "price": 410.12,
       "previous_close": 418.95,
       "change_pct": -2.11,
-      "market_cap": 2127128612276.27,
+      "market_cap": 2127076696886.98,
       "headlines": [
+        {
+          "title": "Micron, Seagate, Western Digital, Semtech, and Penguin Solutions Shares Are Falling, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-seagate-western-digital-semtech-200936690.html",
+          "publisher": "StockStory",
+          "published": "2026-08-24T20:09:36Z"
+        },
         {
           "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
           "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-slides-2-3-ai-194932749.html",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/technology/articles/xiaomi-takes-another-page-apple-191226312.html",
           "publisher": "GuruFocus.com",
           "published": "2026-08-24T19:12:26Z"
-        },
-        {
-          "title": "GF Securities Picks 3 AI Chip Winners: Marvell and Intel Stand Out",
-          "url": "https://finance.yahoo.com/technology/ai/articles/gf-securities-picks-3-ai-173809626.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-24T17:38:09Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "price": 87.26,
       "previous_close": 90.07,
       "change_pct": -3.12,
-      "market_cap": 458509977471.77924,
+      "market_cap": 461265556454.4591,
       "headlines": [
         {
           "title": "Intel (INTC) Joins City Scale Open 5G And NextG Testing Push",
@@ -290,7 +290,7 @@
       "price": 114.15,
       "previous_close": 117.69,
       "change_pct": -3.01,
-      "market_cap": 16212755765.520996,
+      "market_cap": 16180672423.642128,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 54.29,
-      "change_pct": -5.88,
+      "price": 54.28,
+      "change_pct": -5.89,
       "holdings": [
         {
           "symbol": "MU",
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 54.29,
-    "change_pct": -5.88,
+    "price": 54.28,
+    "change_pct": -5.89,
     "holdings": [
       {
         "symbol": "MU",
@@ -585,12 +585,12 @@
     },
     {
       "label": "BTC",
-      "price": 78653.46,
-      "change_pct": 1.16
+      "price": 78725.64,
+      "change_pct": 1.25
     },
     {
       "label": "Gold",
-      "price": 4710.4,
+      "price": 4710.7,
       "change_pct": 1.87
     },
     {

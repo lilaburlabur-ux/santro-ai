@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-24T04:24:26+00:00",
-  "as_of_local": "2026-08-24 04:24:26 UTC",
+  "as_of_utc": "2026-08-24T04:39:30+00:00",
+  "as_of_local": "2026-08-24 04:39:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CEVA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -369,6 +367,34 @@
           "published": "2026-08-23T08:30:01Z"
         }
       ]
+    },
+    {
+      "symbol": "CEVA",
+      "name": "CEVA",
+      "price": 27.99,
+      "previous_close": 28.13,
+      "change_pct": -0.5,
+      "market_cap": 788032468.8360443,
+      "headlines": [
+        {
+          "title": "Bears are Losing Control Over Ceva (CEVA), Here's Why It's a 'Buy' Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bears-losing-control-over-ceva-135502763.html",
+          "publisher": "Zacks",
+          "published": "2026-08-20T13:55:02Z"
+        },
+        {
+          "title": "Bull of the Day: Ceva (CEVA)",
+          "url": "https://finance.yahoo.com/technology/articles/bull-day-ceva-ceva-092000626.html",
+          "publisher": "Zacks",
+          "published": "2026-08-20T09:20:00Z"
+        },
+        {
+          "title": "CEVA (CEVA) Q2 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-ceva-q2-2026-earnings-154343784.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-17T15:43:43Z"
+        }
+      ]
     }
   ],
   "etfs": [
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -2.66,
-          "price": 1684000.0,
+          "change_pct": -1.79,
+          "price": 1699000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -9.06,
-          "price": 256000.0,
+          "change_pct": -8.88,
+          "price": 256500.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -6.26,
-          "price": 50920.0,
+          "change_pct": -6.08,
+          "price": 51020.0,
           "currency": "JPY"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -3.41,
-          "price": 510.0,
+          "change_pct": -3.22,
+          "price": 511.0,
           "currency": "TWD"
         },
         {
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -2.21,
-          "price": 177.0,
+          "change_pct": -1.66,
+          "price": 178.0,
           "currency": "TWD"
         }
       ]
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -2.66,
-        "price": 1684000.0,
+        "change_pct": -1.79,
+        "price": 1699000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -9.06,
-        "price": 256000.0,
+        "change_pct": -8.88,
+        "price": 256500.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -6.26,
-        "price": 50920.0,
+        "change_pct": -6.08,
+        "price": 51020.0,
         "currency": "JPY"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -3.41,
-        "price": 510.0,
+        "change_pct": -3.22,
+        "price": 511.0,
         "currency": "TWD"
       },
       {
@@ -545,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -2.21,
-        "price": 177.0,
+        "change_pct": -1.66,
+        "price": 178.0,
         "currency": "TWD"
       }
     ]
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 77194.57,
-      "change_pct": 0.14
+      "price": 77139.07,
+      "change_pct": 0.07
     },
     {
       "label": "Gold",
-      "price": 4693.9,
-      "change_pct": 1.51
+      "price": 4695.6,
+      "change_pct": 1.55
     },
     {
       "label": "Nasdaq100",

@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-08-25T23:42:55+00:00",
-  "as_of_local": "2026-08-25 23:42:55 UTC",
+  "as_of_utc": "2026-08-25T23:48:15+00:00",
+  "as_of_local": "2026-08-25 23:48:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 213.05,
-      "previous_close": 208.48,
-      "change_pct": 2.19,
-      "market_cap": 5160284123916.626,
-      "headlines": [
-        {
-          "title": "Earnings live updates: Intuit stock drops on soft guidance, Dick's Sporting Goods stock plummets 30%",
-          "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-25T11:53:14Z"
-        },
-        {
-          "title": "Nvidia earnings in focus: Why its networking segment is growing faster than compute",
-          "url": "https://finance.yahoo.com/video/nvidia-earnings-focus-why-networking-192016863.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-08-25T19:20:16Z"
-        },
-        {
-          "title": "Elon Musk says SpaceX's Nvidia-powered orbital data center could be ready next year",
-          "url": "https://finance.yahoo.com/video/elon-musk-says-spacexs-nvidia-135333519.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-08-25T13:53:33Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78525.87,
-      "change_pct": -0.56
+      "price": 78502.83,
+      "change_pct": -0.58
     },
     {
       "label": "Gold",
-      "price": 4718.3,
-      "change_pct": 1.67
+      "price": 4717.7,
+      "change_pct": 1.66
     },
     {
       "label": "Nasdaq100",

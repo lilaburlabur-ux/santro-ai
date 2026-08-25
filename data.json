@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-08-25T20:44:10+00:00",
-  "as_of_local": "2026-08-25 20:44:10 UTC",
+  "as_of_utc": "2026-08-25T20:47:34+00:00",
+  "as_of_local": "2026-08-25 20:47:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "AVAV"
+    "AMD"
   ],
   "stocks": [
     {
@@ -15,16 +15,16 @@
       "market_cap": 5160284123916.626,
       "headlines": [
         {
-          "title": "Stock market today: Dow, S&P 500, Nasdaq rise as US-Canada trade tensions heat up, investors await Nvidia earnings",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-tariffs-oil-080527092.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-25T08:05:27Z"
-        },
-        {
-          "title": "Earnings live updates: Dick's Sporting Goods stock plummets nearly 30%, management warns of 'pain' ahead",
+          "title": "Earnings live updates: Intuit stock drops on soft guidance, Dick's Sporting Goods stock plummets 30%",
           "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html",
           "publisher": "Yahoo Finance",
           "published": "2026-08-25T11:53:14Z"
+        },
+        {
+          "title": "Nvidia earnings in focus: Why its networking segment is growing faster than compute",
+          "url": "https://finance.yahoo.com/video/nvidia-earnings-focus-why-networking-192016863.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-08-25T19:20:16Z"
         },
         {
           "title": "Elon Musk says SpaceX's Nvidia-powered orbital data center could be ready next year",
@@ -115,34 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stock-sale-companys-strategy-194548852.html",
           "publisher": "Trefis",
           "published": "2026-08-25T19:45:48Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 479.18,
-      "previous_close": 456.75,
-      "change_pct": 4.91,
-      "market_cap": 782249378668.9557,
-      "headlines": [
-        {
-          "title": "Why Nvidia rival AMD may see a 40% rip in its stock",
-          "url": "https://finance.yahoo.com/markets/stocks/article/why-nvidia-rival-amd-may-see-a-40-rip-in-its-stock-164720676.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-25T16:47:20Z"
-        },
-        {
-          "title": "AMD Just Got a Major AI Vote of Confidence",
-          "url": "https://finance.yahoo.com/technology/ai/articles/amd-just-got-major-ai-195827847.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-25T19:58:27Z"
-        },
-        {
-          "title": "AMD, Marvell Technology, Semtech, Allegro MicroSystems, and MACOM Stocks Trade Up, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-marvell-technology-semtech-allegro-194244436.html",
-          "publisher": "StockStory",
-          "published": "2026-08-25T19:42:44Z"
         }
       ]
     },
@@ -311,6 +283,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/2-stocks-buy-stanley-druckenmiller-035701945.html",
           "publisher": "Motley Fool",
           "published": "2026-08-19T03:57:01Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVAV",
+      "name": "AeroVironment",
+      "price": 147.42,
+      "previous_close": 148.2,
+      "change_pct": -0.53,
+      "market_cap": 7492269810.241013,
+      "headlines": [
+        {
+          "title": "Here's Why AeroVironment (AVAV) Fell More Than Broader Market",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-aerovironment-avav-fell-221502410.html",
+          "publisher": "Zacks",
+          "published": "2026-08-24T22:15:02Z"
+        },
+        {
+          "title": "nLIGHT, AAON, AeroVironment, Kratos, and ChargePoint Shares Are Falling, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nlight-aaon-aerovironment-kratos-chargepoint-202536841.html",
+          "publisher": "StockStory",
+          "published": "2026-08-24T20:25:36Z"
+        },
+        {
+          "title": "Drone Stocks Slide as Risk Appetite Fades: Unusual Machines Tumbles 9%, Red Cat Falls 7%, Ondas Declines 5%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/drone-stocks-slide-risk-appetite-163543035.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-24T16:35:43Z"
         }
       ]
     },
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78508.48,
-      "change_pct": -0.58
+      "price": 78267.17,
+      "change_pct": -0.88
     },
     {
       "label": "Gold",
-      "price": 4719.7,
-      "change_pct": 1.7
+      "price": 4718.8,
+      "change_pct": 1.68
     },
     {
       "label": "Nasdaq100",

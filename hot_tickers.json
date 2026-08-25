@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-25T19:06:29+00:00",
+  "as_of": "2026-08-25T19:16:52+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,45 +9,13 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "OKLO",
-   "company": "Oklo Inc",
-   "move_pct": 10.33,
-   "price": 43.79,
-   "volume": 9641559,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 66,
-   "direction": "up",
-   "why": "Nuclear Stocks Rebound on an Oversold Bounce: Uranium Energy Jumps 6%, NuScale Power and Oklo Climb 5%",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stocks-rebound-oversold-bounce-151418970.html",
-   "published": "2026-08-25T15:14:18Z",
-   "sector": "Data Center, Power & Energy"
-  },
-  {
-   "rank": 2,
-   "ticker": "SMR",
-   "company": "NuScale Power Corp",
-   "move_pct": 8.21,
-   "price": 9.79,
-   "volume": 45578614,
-   "volume_vs_avg": "~1.5x",
-   "heat_score": 61,
-   "direction": "up",
-   "why": "Nuclear Stocks Rebound on an Oversold Bounce: Uranium Energy Jumps 6%, NuScale Power and Oklo Climb 5%",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stocks-rebound-oversold-bounce-151418970.html",
-   "published": "2026-08-25T15:14:18Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 3,
    "ticker": "SNAP",
    "company": "Snap Inc",
-   "move_pct": 7.05,
-   "price": 5.92,
-   "volume": 32376116,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 44,
+   "move_pct": 6.69,
+   "price": 5.9,
+   "volume": 33924614,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 43,
    "direction": "up",
    "why": "SNAP: Priced Like A Decline, Paying Like A Machine",
    "catalyst_type": "momentum_narrative",
@@ -56,28 +24,12 @@
    "sector": "AI Platforms, Internet & AdTech"
   },
   {
-   "rank": 4,
-   "ticker": "UEC",
-   "company": "Uranium Energy Corp",
-   "move_pct": 5.72,
-   "price": 13.23,
-   "volume": 7470247,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 40,
-   "direction": "up",
-   "why": "Nuclear Stocks Rebound on an Oversold Bounce: Uranium Energy Jumps 6%, NuScale Power and Oklo Climb 5%",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stocks-rebound-oversold-bounce-151418970.html",
-   "published": "2026-08-25T15:14:18Z",
-   "sector": "Powering AI"
-  },
-  {
-   "rank": 5,
+   "rank": 2,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
-   "move_pct": 5.05,
-   "price": 479.83,
-   "volume": 14808535,
+   "move_pct": 5.2,
+   "price": 480.52,
+   "volume": 15110682,
    "volume_vs_avg": "~0.6x",
    "heat_score": 36,
    "direction": "up",
@@ -86,22 +38,6 @@
    "source_url": "https://www.barrons.com/articles/amd-stock-price-upgrade-strong-buy-nvidia-3636f478?siteid=yhoof2&yptr=yahoo",
    "published": "2026-08-25T17:38:00Z",
    "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 6,
-   "ticker": "CRNC",
-   "company": "Cerence Inc",
-   "move_pct": 5.28,
-   "price": 7.97,
-   "volume": 315631,
-   "volume_vs_avg": "~0.4x",
-   "heat_score": 36,
-   "direction": "up",
-   "why": "SoundHound vs. Cerence: Which Voice AI Stock Is a Buy Now?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/soundhound-vs-cerence-voice-ai-151800263.html",
-   "published": "2026-08-25T15:18:00Z",
-   "sector": "AI Applications & Data Software"
   }
  ]
 }

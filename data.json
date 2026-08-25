@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-25T11:27:33+00:00",
-  "as_of_local": "2026-08-25 11:27:33 UTC",
+  "as_of_utc": "2026-08-25T11:32:50+00:00",
+  "as_of_local": "2026-08-25 11:32:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -117,40 +119,12 @@
       ]
     },
     {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 456.75,
-      "previous_close": 473.25,
-      "change_pct": -3.49,
-      "market_cap": 745632975433.5,
-      "headlines": [
-        {
-          "title": "How investors should approach Nvidia\u2019s earnings",
-          "url": "https://finance.yahoo.com/video/investors-approach-nvidia-earnings-145600454.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-08-24T14:56:00Z"
-        },
-        {
-          "title": "This Hedge Fund Just Sold Nvidia and Bought AMD Stock. Which Artificial Intelligence (AI) Chipmaker Is the Better Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hedge-fund-just-sold-nvidia-111000439.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-25T11:10:00Z"
-        },
-        {
-          "title": "These 8 chip stocks now offer enhanced buying opportunities, BofA says",
-          "url": "https://finance.yahoo.com/technology/articles/8-chip-stocks-now-offer-110248091.html",
-          "publisher": "Investing.com",
-          "published": "2026-08-25T11:02:48Z"
-        }
-      ]
-    },
-    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 87.26,
       "previous_close": 90.07,
       "change_pct": -3.12,
-      "market_cap": 461265556454.4591,
+      "market_cap": 458509977471.77924,
       "headlines": [
         {
           "title": "These 8 chip stocks now offer enhanced buying opportunities, BofA says",
@@ -290,7 +264,7 @@
       "price": 114.15,
       "previous_close": 117.69,
       "change_pct": -3.01,
-      "market_cap": 16180672423.642128,
+      "market_cap": 16212755765.520996,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 79243.56,
-      "change_pct": 0.35
+      "price": 79310.89,
+      "change_pct": 0.44
     },
     {
       "label": "Gold",
-      "price": 4696.3,
-      "change_pct": 1.2
+      "price": 4698.4,
+      "change_pct": 1.24
     },
     {
       "label": "Nasdaq100",

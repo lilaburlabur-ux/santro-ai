@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-25T19:16:52+00:00",
+  "as_of": "2026-08-25T19:21:35+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,9 +11,9 @@
    "rank": 1,
    "ticker": "SNAP",
    "company": "Snap Inc",
-   "move_pct": 6.69,
-   "price": 5.9,
-   "volume": 33924614,
+   "move_pct": 6.78,
+   "price": 5.91,
+   "volume": 34416300,
    "volume_vs_avg": "~0.9x",
    "heat_score": 43,
    "direction": "up",
@@ -22,22 +22,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/snap-priced-decline-paying-machine-172305849.html",
    "published": "2026-08-25T17:23:05Z",
    "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 2,
-   "ticker": "AMD",
-   "company": "Advanced Micro Devices Inc",
-   "move_pct": 5.2,
-   "price": 480.52,
-   "volume": 15110682,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 36,
-   "direction": "up",
-   "why": "AMD Stock Gets a \u2018Strong Buy\u2019 Upgrade: Why It Could Outperform Nvidia",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://www.barrons.com/articles/amd-stock-price-upgrade-strong-buy-nvidia-3636f478?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-08-25T17:38:00Z",
-   "sector": "AI Chips & Compute"
   }
  ]
 }

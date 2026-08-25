@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-25T03:56:13+00:00",
-  "as_of_local": "2026-08-25 03:56:13 UTC",
+  "as_of_utc": "2026-08-25T04:01:13+00:00",
+  "as_of_local": "2026-08-25 04:01:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 2127076696886.98,
       "headlines": [
         {
+          "title": "Are Emerging Markets Now An AI Trade? TSMC, Samsung, SK Hynix Drive More Than Half The Gains",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/emerging-markets-now-ai-trade-034521175.html",
+          "publisher": "Stocktwits",
+          "published": "2026-08-25T03:45:21Z"
+        },
+        {
           "title": "TSMC (TSM) Falls More Steeply Than Broader Market: What Investors Need to Know",
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-falls-more-steeply-214503484.html",
           "publisher": "Zacks",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-seagate-western-digital-semtech-200936690.html",
           "publisher": "StockStory",
           "published": "2026-08-24T20:09:36Z"
-        },
-        {
-          "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
-          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-slides-2-3-ai-194932749.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-24T19:49:32Z"
         }
       ]
     },
@@ -119,10 +119,10 @@
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 456.74,
+      "price": 456.75,
       "previous_close": 473.25,
       "change_pct": -3.49,
-      "market_cap": 745624805087.2205,
+      "market_cap": 745632975433.5,
       "headlines": [
         {
           "title": "How investors should approach Nvidia\u2019s earnings",
@@ -150,7 +150,7 @@
       "price": 87.26,
       "previous_close": 90.07,
       "change_pct": -3.12,
-      "market_cap": 461265556454.4591,
+      "market_cap": 458509977471.77924,
       "headlines": [
         {
           "title": "Berkshire Hathaway Rose While Every Major Chip Stock Fell Monday",
@@ -290,7 +290,7 @@
       "price": 114.15,
       "previous_close": 117.69,
       "change_pct": -3.01,
-      "market_cap": 16180672423.642128,
+      "market_cap": 16212755765.520996,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -3.11,
-          "price": 1619000.0,
+          "change_pct": -3.29,
+          "price": 1616000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -1.36,
-          "price": 253500.0,
+          "change_pct": -1.65,
+          "price": 252750.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -0.22,
-          "price": 50820.0,
+          "change_pct": -0.2,
+          "price": 50830.0,
           "currency": "JPY"
         },
         {
@@ -445,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -6.45,
-          "price": 1493.12,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -2.89,
-          "price": 486.5,
+          "change_pct": -2.79,
+          "price": 487.0,
           "currency": "TWD"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -3.11,
-        "price": 1619000.0,
+        "change_pct": -3.29,
+        "price": 1616000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -1.36,
-        "price": 253500.0,
+        "change_pct": -1.65,
+        "price": 252750.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -0.22,
-        "price": 50820.0,
+        "change_pct": -0.2,
+        "price": 50830.0,
         "currency": "JPY"
       },
       {
@@ -535,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -6.45,
-        "price": 1493.12,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -2.89,
-        "price": 486.5,
+        "change_pct": -2.79,
+        "price": 487.0,
         "currency": "TWD"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 80459.99,
-      "change_pct": 3.48
+      "price": 80501.12,
+      "change_pct": 3.53
     },
     {
       "label": "Gold",
-      "price": 4689.6,
-      "change_pct": 1.42
+      "price": 4640.8,
+      "change_pct": 0.36
     },
     {
       "label": "Nasdaq100",

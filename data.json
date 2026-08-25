@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-25T21:00:23+00:00",
-  "as_of_local": "2026-08-25 21:00:23 UTC",
+  "as_of_utc": "2026-08-25T21:04:20+00:00",
+  "as_of_local": "2026-08-25 21:04:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -199,6 +197,34 @@
           "url": "https://www.barrons.com/articles/amd-stock-price-upgrade-strong-buy-nvidia-3636f478?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-08-25T18:38:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 240.38,
+      "previous_close": 229.29,
+      "change_pct": 4.84,
+      "market_cap": 216030619261.14612,
+      "headlines": [
+        {
+          "title": "Investors rotate into tech stocks as inflation concerns ease: AlphaCheck",
+          "url": "https://finance.yahoo.com/markets/article/investors-rotate-into-tech-stocks-as-inflation-concerns-ease-alphacheck-135258775.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-08-25T13:52:58Z"
+        },
+        {
+          "title": "AMD, Marvell Technology, Semtech, Allegro MicroSystems, and MACOM Stocks Trade Up, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-marvell-technology-semtech-allegro-194244436.html",
+          "publisher": "StockStory",
+          "published": "2026-08-25T19:42:44Z"
+        },
+        {
+          "title": "5-Star Analyst Tweaks Marvell Stock Price Target Ahead of Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-tweaks-marvell-193635208.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-08-25T19:36:35Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 78152.44,
+      "price": 78154.56,
       "change_pct": -1.03
     },
     {
       "label": "Gold",
-      "price": 4718.5,
-      "change_pct": 1.67
+      "price": 4717.0,
+      "change_pct": 1.64
     },
     {
       "label": "Nasdaq100",

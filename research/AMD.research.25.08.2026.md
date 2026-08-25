@@ -37,9 +37,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | Why Nvidia rival AMD may see a 40% rip in its stock | Yahoo Finance | 2026-08-25 |
+| AMD Stock Upgraded To Strong Buy. Here's Why. | Investor's Business Daily | 2026-08-25 |
+| Moderna, Nvidia, Apple, Dick’s, Robinhood, AMD, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-25 |
 | AMD Just Got a Major AI Vote of Confidence | GuruFocus.com | 2026-08-25 |
-| AMD, Marvell Technology, Semtech, Allegro MicroSystems, and MACOM Stocks Trade Up, What You Need To Know | StockStory | 2026-08-25 |
-| AMD May Have Found Its Next Big AI Growth Engine | GuruFocus.com | 2026-08-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

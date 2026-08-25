@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Investors rotate into tech stocks as inflation concerns ease: AlphaCheck | Yahoo Finance | 2026-08-25 |
+| AMD Stock Upgraded To Strong Buy. Here's Why. | Investor's Business Daily | 2026-08-25 |
+| Moderna, Nvidia, Apple, Dick’s, Robinhood, AMD, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-25 |
 | Intel Rises as Pelosi's $1.5 Million Bet Meets $20 Billion Dilution | GuruFocus.com | 2026-08-25 |
-| AMD Just Got a Major AI Vote of Confidence | GuruFocus.com | 2026-08-25 |
-| AMD Jumps 3.9% as $641 Target Reprices Server CPUs | GuruFocus.com | 2026-08-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

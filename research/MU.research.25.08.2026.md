@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| Stock Market Today: Nasdaq Leads As Key Inflation Report Looms; Nvidia, Micron Gain | Investor's Business Daily | 2026-08-25 |
+| Moderna, Nvidia, Apple, Dick’s, Robinhood, AMD, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-25 |
 | Cramer Warns iPhone Prices Will Rise Without Chinese Memory — Here’s Why Apple Can’t Wait for U.S. Production | 24/7 Wall St. | 2026-08-25 |
 | Micron Rebounds 1.4% as $25 Billion Cash Engine Defies Memory Panic | GuruFocus.com | 2026-08-25 |
-| SanDisk Stock Is On Sale, But Is The Company's New Strategy The Real Story? | Trefis | 2026-08-25 |
-| AMD, Marvell Technology, Semtech, Allegro MicroSystems, and MACOM Stocks Trade Up, What You Need To Know | StockStory | 2026-08-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

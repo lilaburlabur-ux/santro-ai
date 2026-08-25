@@ -37,9 +37,9 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Headline | Source | Date |
 |---|---|---|
 | Investors rotate into tech stocks as inflation concerns ease: AlphaCheck | Yahoo Finance | 2026-08-25 |
+| Moderna, Nvidia, Apple, Dick’s, Robinhood, AMD, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-25 |
 | AMD, Marvell Technology, Semtech, Allegro MicroSystems, and MACOM Stocks Trade Up, What You Need To Know | StockStory | 2026-08-25 |
 | 5-Star Analyst Tweaks Marvell Stock Price Target Ahead of Earnings | GuruFocus.com | 2026-08-25 |
-| Moderna, Nvidia, Apple, Dick’s, Robinhood, AMD, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

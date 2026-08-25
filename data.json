@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-25T20:47:34+00:00",
-  "as_of_local": "2026-08-25 20:47:34 UTC",
+  "as_of_utc": "2026-08-25T20:49:00+00:00",
+  "as_of_local": "2026-08-25 20:49:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -119,12 +117,40 @@
       ]
     },
     {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 479.18,
+      "previous_close": 456.75,
+      "change_pct": 4.91,
+      "market_cap": 782249378668.9557,
+      "headlines": [
+        {
+          "title": "Why Nvidia rival AMD may see a 40% rip in its stock",
+          "url": "https://finance.yahoo.com/markets/stocks/article/why-nvidia-rival-amd-may-see-a-40-rip-in-its-stock-164720676.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-08-25T16:47:20Z"
+        },
+        {
+          "title": "AMD Just Got a Major AI Vote of Confidence",
+          "url": "https://finance.yahoo.com/technology/ai/articles/amd-just-got-major-ai-195827847.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-08-25T19:58:27Z"
+        },
+        {
+          "title": "AMD, Marvell Technology, Semtech, Allegro MicroSystems, and MACOM Stocks Trade Up, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-marvell-technology-semtech-allegro-194244436.html",
+          "publisher": "StockStory",
+          "published": "2026-08-25T19:42:44Z"
+        }
+      ]
+    },
+    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 87.48,
       "previous_close": 87.26,
       "change_pct": 0.25,
-      "market_cap": 462428506064.8643,
+      "market_cap": 459665979675.2959,
       "headlines": [
         {
           "title": "Investors rotate into tech stocks as inflation concerns ease: AlphaCheck",
@@ -264,7 +290,7 @@
       "price": 116.1,
       "previous_close": 114.15,
       "change_pct": 1.71,
-      "market_cap": 16457082948.607872,
+      "market_cap": 16489714362.479004,
       "headlines": [
         {
           "title": "UMC or LSCC: Which Is the Better Value Stock Right Now?",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 78267.17,
-      "change_pct": -0.88
+      "price": 78211.1,
+      "change_pct": -0.95
     },
     {
       "label": "Gold",
-      "price": 4718.8,
-      "change_pct": 1.68
+      "price": 4719.1,
+      "change_pct": 1.69
     },
     {
       "label": "Nasdaq100",

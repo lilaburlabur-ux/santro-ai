@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-25T10:42:16+00:00",
-  "as_of_local": "2026-08-25 10:42:16 UTC",
+  "as_of_utc": "2026-08-25T10:47:10+00:00",
+  "as_of_local": "2026-08-25 10:47:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-winning-nvidia-nvda-customers-043310331.html",
           "publisher": "Insider Monkey",
           "published": "2026-08-25T04:33:10Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 87.26,
-      "previous_close": 90.07,
-      "change_pct": -3.12,
-      "market_cap": 458509977471.77924,
-      "headlines": [
-        {
-          "title": "Coinbase\u2019s Tokenized Stocks Are Live on Base. The SEC\u2019s Framework Isn\u2019t.",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-tokenized-stocks-live-sec-094525267.html",
-          "publisher": "Forkast News",
-          "published": "2026-08-25T09:45:25Z"
-        },
-        {
-          "title": "Alibaba Is Selling $10.2 Billion of Stock to Fund AI. Alphabet and Intel Went First.",
-          "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-selling-10-2-billion-035801178.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-25T03:58:01Z"
-        },
-        {
-          "title": "Berkshire Hathaway Rose While Every Major Chip Stock Fell Monday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-rose-while-every-010701158.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-25T01:07:01Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 79288.04,
-      "change_pct": 0.41
+      "price": 79436.33,
+      "change_pct": 0.6
     },
     {
       "label": "Gold",
-      "price": 4691.9,
-      "change_pct": 1.1
+      "price": 4690.1,
+      "change_pct": 1.06
     },
     {
       "label": "Nasdaq100",

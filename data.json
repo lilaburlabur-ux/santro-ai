@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-25T04:41:18+00:00",
-  "as_of_local": "2026-08-25 04:41:18 UTC",
+  "as_of_utc": "2026-08-25T04:46:31+00:00",
+  "as_of_local": "2026-08-25 04:46:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 1706829518295.224,
       "headlines": [
         {
+          "title": "Trump Snapped Up SpaceX Shares 11 Days After $1.77 Trillion IPO: Here's What Else He Purchased",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/trump-snapped-spacex-shares-11-033507082.html",
+          "publisher": "Benzinga",
+          "published": "2026-08-25T03:35:07Z"
+        },
+        {
           "title": "Berkshire Hathaway Rose While Every Major Chip Stock Fell Monday",
           "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-rose-while-every-010701158.html",
           "publisher": "Motley Fool",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/reading-between-lines-adis-latest-001146763.html",
           "publisher": "Trefis",
           "published": "2026-08-25T00:11:46Z"
-        },
-        {
-          "title": "S&P 500, Nasdaq End Lower On Chipmaker Weakness, While Traders Position For Nvidia Earnings This Week \u2014 AVGO, INTC, BE, NVDA, PSKY In Focus",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-end-lower-215214754.html",
-          "publisher": "Stocktwits",
-          "published": "2026-08-24T21:52:14Z"
         }
       ]
     },
@@ -131,16 +131,16 @@
           "published": "2026-08-24T14:56:00Z"
         },
         {
+          "title": "AMD Is Winning Nvidia (NVDA) Customers But Investors May Be Missing The Catch",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-winning-nvidia-nvda-customers-043310331.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-08-25T04:33:10Z"
+        },
+        {
           "title": "Berkshire Hathaway Rose While Every Major Chip Stock Fell Monday",
           "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-rose-while-every-010701158.html",
           "publisher": "Motley Fool",
           "published": "2026-08-25T01:07:01Z"
-        },
-        {
-          "title": "What You Actually Pay To Join The MU Run",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/actually-pay-join-mu-run-214530215.html",
-          "publisher": "Trefis",
-          "published": "2026-08-24T21:45:30Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -1.86,
-          "price": 1640000.0,
+          "change_pct": -1.56,
+          "price": 1645000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.88,
-          "price": 254750.0,
+          "change_pct": -0.78,
+          "price": 255000.0,
           "currency": "KRW"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -0.5,
-          "price": 498.5,
+          "change_pct": -0.6,
+          "price": 498.0,
           "currency": "TWD"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -1.86,
-        "price": 1640000.0,
+        "change_pct": -1.56,
+        "price": 1645000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.88,
-        "price": 254750.0,
+        "change_pct": -0.78,
+        "price": 255000.0,
         "currency": "KRW"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -0.5,
-        "price": 498.5,
+        "change_pct": -0.6,
+        "price": 498.0,
         "currency": "TWD"
       },
       {
@@ -585,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 80313.04,
-      "change_pct": 3.29
+      "price": 80292.71,
+      "change_pct": 3.26
     },
     {
       "label": "Gold",

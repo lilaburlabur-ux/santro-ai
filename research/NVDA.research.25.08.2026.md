@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Stock market today: Dow, S&P 500, Nasdaq rise as US-Canada trade tensions heat up, investors await Nvidia earnings | Yahoo Finance | 2026-08-25 |
+| Earnings live updates: Intuit stock drops on soft guidance, Dick's Sporting Goods stock plummets 30% | Yahoo Finance | 2026-08-25 |
 | Nvidia earnings in focus: Why its networking segment is growing faster than compute | Yahoo Finance Video | 2026-08-25 |
-| The real question investors should be asking ahead of Nvidia earnings | Yahoo Finance Video | 2026-08-25 |
-| Nvidia stock hopes to snap seven-day losing streak ahead of earnings | Yahoo Finance Video | 2026-08-25 |
+| Elon Musk says SpaceX's Nvidia-powered orbital data center could be ready next year | Yahoo Finance Video | 2026-08-25 |
+| Software is crushing chips by a record margin: Chart of the Day | Yahoo Finance | 2026-08-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-25T13:19:46+00:00",
-  "as_of_local": "2026-08-25 13:19:46 UTC",
+  "as_of_utc": "2026-08-25T13:24:51+00:00",
+  "as_of_local": "2026-08-25 13:24:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -33,34 +35,6 @@
       ]
     },
     {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 410.12,
-      "previous_close": 418.95,
-      "change_pct": -2.11,
-      "market_cap": 2127076696886.98,
-      "headlines": [
-        {
-          "title": "Prediction: TSMC Stock Will Soar After Aug. 26 Thanks to Nvidia\u2019s Historic Quarter",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-tsmc-stock-soar-aug-074301218.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-25T07:43:01Z"
-        },
-        {
-          "title": "Are Emerging Markets Now An AI Trade? TSMC, Samsung, SK Hynix Drive More Than Half The Gains",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/emerging-markets-now-ai-trade-034521175.html",
-          "publisher": "Stocktwits",
-          "published": "2026-08-25T03:45:21Z"
-        },
-        {
-          "title": "TSMC (TSM) Falls More Steeply Than Broader Market: What Investors Need to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-falls-more-steeply-214503484.html",
-          "publisher": "Zacks",
-          "published": "2026-08-24T21:45:03Z"
-        }
-      ]
-    },
-    {
       "symbol": "AVGO",
       "name": "Broadcom",
       "price": 358.76,
@@ -68,6 +42,12 @@
       "change_pct": -2.63,
       "market_cap": 1706829518295.224,
       "headlines": [
+        {
+          "title": "AMD and Intel Rise 3% on a Strong Buy Upgrade and a Pelosi Disclosure, NVIDIA and Broadcom Tick Up",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-rise-3-strong-131800376.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-25T13:18:00Z"
+        },
         {
           "title": "These 3 Tech ETFs Can Beat the S&P 500 This Year",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-tech-etfs-beat-p-121500288.html",
@@ -79,12 +59,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-trouble-now-alphabet-getting-113500973.html",
           "publisher": "Motley Fool",
           "published": "2026-08-25T11:35:00Z"
-        },
-        {
-          "title": "Prediction: Marvell Technology Stock Could Go Parabolic After Its Next Custom Chip Deal. Here's Why.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-marvell-technology-stock-could-090900238.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-25T09:09:00Z"
         }
       ]
     },
@@ -131,16 +105,16 @@
           "published": "2026-08-24T14:56:00Z"
         },
         {
+          "title": "AMD and Intel Rise 3% on a Strong Buy Upgrade and a Pelosi Disclosure, NVIDIA and Broadcom Tick Up",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-rise-3-strong-131800376.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-25T13:18:00Z"
+        },
+        {
           "title": "Update: US Equity Futures Higher Pre-Bell as Tech Stocks Bounce Back From Selloff",
           "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-higher-pre-124719278.html",
           "publisher": "MT Newswires",
           "published": "2026-08-25T12:47:19Z"
-        },
-        {
-          "title": "Nvidia Vs. AMD: The New Narrative Upending The Challenger-Champion Dynamic",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-narrative-upending-124555795.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-25T12:45:55Z"
         }
       ]
     },
@@ -150,8 +124,14 @@
       "price": 87.26,
       "previous_close": 90.07,
       "change_pct": -3.12,
-      "market_cap": 461265556454.4591,
+      "market_cap": 458509977471.77924,
       "headlines": [
+        {
+          "title": "AMD and Intel Rise 3% on a Strong Buy Upgrade and a Pelosi Disclosure, NVIDIA and Broadcom Tick Up",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-rise-3-strong-131800376.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-25T13:18:00Z"
+        },
         {
           "title": "Bloom Energy Climbs 5% on Nancy Pelosi Disclosure, FuelCell Rises 4%, Plug Power Advances 2%",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-climbs-5-nancy-124220733.html",
@@ -163,12 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-jumps-nancy-pelosi-121849247.html",
           "publisher": "GuruFocus.com",
           "published": "2026-08-25T12:18:49Z"
-        },
-        {
-          "title": "Intel, AMD, Marvell, Dick\u2019s Sporting Goods, and Other Stocks That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-5e855b81?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-08-25T11:41:00Z"
         }
       ]
     },
@@ -290,7 +264,7 @@
       "price": 114.15,
       "previous_close": 117.69,
       "change_pct": -3.01,
-      "market_cap": 16180672423.642128,
+      "market_cap": 16212755765.520996,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78696.3,
-      "change_pct": -0.34
+      "price": 78784.33,
+      "change_pct": -0.23
     },
     {
       "label": "Gold",
-      "price": 4687.8,
-      "change_pct": 1.01
+      "price": 4680.9,
+      "change_pct": 0.86
     },
     {
       "label": "Nasdaq100",

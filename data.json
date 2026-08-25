@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-25T10:47:10+00:00",
-  "as_of_local": "2026-08-25 10:47:10 UTC",
+  "as_of_utc": "2026-08-25T10:52:22+00:00",
+  "as_of_local": "2026-08-25 10:52:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -147,6 +145,34 @@
       ]
     },
     {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 87.26,
+      "previous_close": 90.07,
+      "change_pct": -3.12,
+      "market_cap": 458509977471.77924,
+      "headlines": [
+        {
+          "title": "Coinbase\u2019s Tokenized Stocks Are Live on Base. The SEC\u2019s Framework Isn\u2019t.",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-tokenized-stocks-live-sec-094525267.html",
+          "publisher": "Forkast News",
+          "published": "2026-08-25T09:45:25Z"
+        },
+        {
+          "title": "Alibaba Is Selling $10.2 Billion of Stock to Fund AI. Alphabet and Intel Went First.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-selling-10-2-billion-035801178.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-25T03:58:01Z"
+        },
+        {
+          "title": "Berkshire Hathaway Rose While Every Major Chip Stock Fell Monday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-rose-while-every-010701158.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-25T01:07:01Z"
+        }
+      ]
+    },
+    {
       "symbol": "ARM",
       "name": "Arm Holdings",
       "price": 238.78,
@@ -237,26 +263,7 @@
       "previous_close": 225.56,
       "change_pct": -1.38,
       "market_cap": 56091399480.19519,
-      "headlines": [
-        {
-          "title": "Reading Between The Lines Of ADI's Latest Call",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/reading-between-lines-adis-latest-001146763.html",
-          "publisher": "Trefis",
-          "published": "2026-08-25T00:11:46Z"
-        },
-        {
-          "title": "Why the China-Led Weakness in NXP Semiconductors Stock Could Open Doors for Speculators",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-china-led-weakness-nxp-140310893.html",
-          "publisher": "Barchart",
-          "published": "2026-08-24T14:03:10Z"
-        },
-        {
-          "title": "3 of Wall Street\u2019s Favorite Stocks We\u2019re Skeptical Of",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-wall-street-favorite-stocks-133947705.html",
-          "publisher": "StockStory",
-          "published": "2026-08-21T13:39:47Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "LSCC",
@@ -559,13 +566,13 @@
     },
     {
       "label": "BTC",
-      "price": 79436.33,
-      "change_pct": 0.6
+      "price": 79344.29,
+      "change_pct": 0.48
     },
     {
       "label": "Gold",
-      "price": 4690.1,
-      "change_pct": 1.06
+      "price": 4696.5,
+      "change_pct": 1.2
     },
     {
       "label": "Nasdaq100",

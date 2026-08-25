@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-25T19:21:35+00:00",
+  "as_of": "2026-08-25T19:36:46+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,19 +9,51 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "LEU",
+   "company": "Centrus Energy Corp",
+   "move_pct": 8.44,
+   "price": 192.09,
+   "volume": 466315,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 58,
+   "direction": "up",
+   "why": "Is Centrus Energy (LEU) Fully Priced Despite Its $900m DOE Win?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/centrus-energy-leu-fully-priced-190556745.html",
+   "published": "2026-08-25T19:05:56Z",
+   "sector": "Powering AI"
+  },
+  {
+   "rank": 2,
    "ticker": "SNAP",
    "company": "Snap Inc",
-   "move_pct": 6.78,
-   "price": 5.91,
-   "volume": 34416300,
+   "move_pct": 6.15,
+   "price": 5.87,
+   "volume": 37022825,
    "volume_vs_avg": "~0.9x",
-   "heat_score": 43,
+   "heat_score": 41,
    "direction": "up",
    "why": "SNAP: Priced Like A Decline, Paying Like A Machine",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/snap-priced-decline-paying-machine-172305849.html",
    "published": "2026-08-25T17:23:05Z",
    "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 3,
+   "ticker": "AMD",
+   "company": "Advanced Micro Devices Inc",
+   "move_pct": 5.02,
+   "price": 479.69,
+   "volume": 15645020,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 36,
+   "direction": "up",
+   "why": "AMD Jumps 3.9% as $641 Target Reprices Server CPUs",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/articles/amd-jumps-3-9-641-192702008.html",
+   "published": "2026-08-25T19:27:02Z",
+   "sector": "AI Chips & Compute"
   }
  ]
 }

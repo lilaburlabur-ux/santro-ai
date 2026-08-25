@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-25T07:32:01+00:00",
-  "as_of_local": "2026-08-25 07:32:01 UTC",
+  "as_of_utc": "2026-08-25T07:47:10+00:00",
+  "as_of_local": "2026-08-25 07:47:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LSCC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -152,7 +150,7 @@
       "price": 87.26,
       "previous_close": 90.07,
       "change_pct": -3.12,
-      "market_cap": 458509977471.77924,
+      "market_cap": 461265556454.4591,
       "headlines": [
         {
           "title": "Alibaba Is Selling $10.2 Billion of Stock to Fund AI. Alphabet and Intel Went First.",
@@ -283,6 +281,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-wall-street-favorite-stocks-133947705.html",
           "publisher": "StockStory",
           "published": "2026-08-21T13:39:47Z"
+        }
+      ]
+    },
+    {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 114.15,
+      "previous_close": 117.69,
+      "change_pct": -3.01,
+      "market_cap": 16180672423.642128,
+      "headlines": [
+        {
+          "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-lscc-priced-perfection-211220139.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-19T21:12:20Z"
+        },
+        {
+          "title": "2 Stocks to Buy That Stanley Druckenmiller Added While Exiting 5 Chip and Photonics Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-stocks-buy-stanley-druckenmiller-035701945.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-19T03:57:01Z"
+        },
+        {
+          "title": "4 Famous Billionaire Investors Just Bought This Little Known Semiconductor Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/4-famous-billionaire-investors-just-144017638.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-18T14:40:17Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 80610.59,
-      "change_pct": 2.08
+      "price": 80398.53,
+      "change_pct": 1.82
     },
     {
       "label": "Gold",
-      "price": 4696.8,
-      "change_pct": 1.21
+      "price": 4690.7,
+      "change_pct": 1.08
     },
     {
       "label": "Nasdaq100",

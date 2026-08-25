@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-25T11:32:50+00:00",
-  "as_of_local": "2026-08-25 11:32:50 UTC",
+  "as_of_utc": "2026-08-25T11:34:03+00:00",
+  "as_of_local": "2026-08-25 11:34:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -109,6 +107,34 @@
           "url": "https://finance.yahoo.com/markets/article/semiconductor-stocks-drag-sp-500-nasdaq-lower-alphacheck-135725875.html",
           "publisher": "Yahoo Finance",
           "published": "2026-08-24T13:57:25Z"
+        },
+        {
+          "title": "These 8 chip stocks now offer enhanced buying opportunities, BofA says",
+          "url": "https://finance.yahoo.com/technology/articles/8-chip-stocks-now-offer-110248091.html",
+          "publisher": "Investing.com",
+          "published": "2026-08-25T11:02:48Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 456.75,
+      "previous_close": 473.25,
+      "change_pct": -3.49,
+      "market_cap": 745632975433.5,
+      "headlines": [
+        {
+          "title": "How investors should approach Nvidia\u2019s earnings",
+          "url": "https://finance.yahoo.com/video/investors-approach-nvidia-earnings-145600454.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-08-24T14:56:00Z"
+        },
+        {
+          "title": "This Hedge Fund Just Sold Nvidia and Bought AMD Stock. Which Artificial Intelligence (AI) Chipmaker Is the Better Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hedge-fund-just-sold-nvidia-111000439.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-25T11:10:00Z"
         },
         {
           "title": "These 8 chip stocks now offer enhanced buying opportunities, BofA says",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 79310.89,
-      "change_pct": 0.44
+      "price": 79299.42,
+      "change_pct": 0.42
     },
     {
       "label": "Gold",
-      "price": 4698.4,
-      "change_pct": 1.24
+      "price": 4697.5,
+      "change_pct": 1.22
     },
     {
       "label": "Nasdaq100",

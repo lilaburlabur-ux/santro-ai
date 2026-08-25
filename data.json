@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-25T08:37:51+00:00",
-  "as_of_local": "2026-08-25 08:37:51 UTC",
+  "as_of_utc": "2026-08-25T08:42:59+00:00",
+  "as_of_local": "2026-08-25 08:42:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -150,7 +152,7 @@
       "price": 87.26,
       "previous_close": 90.07,
       "change_pct": -3.12,
-      "market_cap": 461265556454.4591,
+      "market_cap": 458509977471.77924,
       "headlines": [
         {
           "title": "Alibaba Is Selling $10.2 Billion of Stock to Fund AI. Alphabet and Intel Went First.",
@@ -229,34 +231,6 @@
       ]
     },
     {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 158.53,
-      "previous_close": 160.75,
-      "change_pct": -1.38,
-      "market_cap": 166493582214.10617,
-      "headlines": [
-        {
-          "title": "2 S&P 500 Stocks to Research Further and 1 We Ignore",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-research-080644455.html",
-          "publisher": "StockStory",
-          "published": "2026-08-25T08:06:44Z"
-        },
-        {
-          "title": "Prediction: TSMC Stock Will Soar After Aug. 26 Thanks to Nvidia\u2019s Historic Quarter",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-tsmc-stock-soar-aug-074301218.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-25T07:43:01Z"
-        },
-        {
-          "title": "What You Actually Pay To Join The MU Run",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/actually-pay-join-mu-run-214530215.html",
-          "publisher": "Trefis",
-          "published": "2026-08-24T21:45:30Z"
-        }
-      ]
-    },
-    {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
       "price": 222.44,
@@ -290,7 +264,7 @@
       "price": 114.15,
       "previous_close": 117.69,
       "change_pct": -3.01,
-      "market_cap": 16180672423.642128,
+      "market_cap": 16212755765.520996,
       "headlines": [
         {
           "title": "Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns?",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 80107.66,
-      "change_pct": 1.45
+      "price": 79961.8,
+      "change_pct": 1.26
     },
     {
       "label": "Gold",
-      "price": 4692.3,
-      "change_pct": 1.11
+      "price": 4690.7,
+      "change_pct": 1.08
     },
     {
       "label": "Nasdaq100",

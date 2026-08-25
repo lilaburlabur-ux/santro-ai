@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-25T21:20:00+00:00",
-  "as_of_local": "2026-08-25 21:20:00 UTC",
+  "as_of_utc": "2026-08-25T21:24:40+00:00",
+  "as_of_local": "2026-08-25 21:24:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SYNA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -99,6 +97,12 @@
       "market_cap": 1053689895000.78,
       "headlines": [
         {
+          "title": "Prediction: This Memory Stock Will Soar 165% in 3 Years (Hint: It's not Micron or Sandisk)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-memory-stock-soar-165-212101555.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-25T21:21:01Z"
+        },
+        {
           "title": "Stock Market Today: Nasdaq Leads As Key Inflation Report Looms; Nvidia, Micron Gain",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-treasury-yields-nvidia-micron-sandisk/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -109,12 +113,6 @@
           "url": "https://www.barrons.com/articles/stock-movers-5e855b81?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-08-25T20:18:00Z"
-        },
-        {
-          "title": "Cramer Warns iPhone Prices Will Rise Without Chinese Memory \u2014 Here\u2019s Why Apple Can\u2019t Wait for U.S. Production",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cramer-warns-iphone-prices-rise-200021597.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-25T20:00:21Z"
         }
       ]
     },
@@ -152,7 +150,7 @@
       "price": 87.48,
       "previous_close": 87.26,
       "change_pct": 0.25,
-      "market_cap": 462428506064.8643,
+      "market_cap": 459665979675.2959,
       "headlines": [
         {
           "title": "Investors rotate into tech stocks as inflation concerns ease: AlphaCheck",
@@ -292,7 +290,7 @@
       "price": 116.1,
       "previous_close": 114.15,
       "change_pct": 1.71,
-      "market_cap": 16457082948.607872,
+      "market_cap": 16489714362.479004,
       "headlines": [
         {
           "title": "UMC or LSCC: Which Is the Better Value Stock Right Now?",
@@ -339,6 +337,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/drone-stocks-slide-risk-appetite-163543035.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-24T16:35:43Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SYNA",
+      "name": "Synaptics",
+      "price": 94.87,
+      "previous_close": 93.68,
+      "change_pct": 1.27,
+      "market_cap": 3710079869.230545,
+      "headlines": [
+        {
+          "title": "Synaptics' CEO Sold Stock After a 120,000-Share Vest. Here's What to Know.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-ceo-sold-stock-120-091014820.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-23T09:10:14Z"
+        },
+        {
+          "title": "Synaptics' CFO Disposed of Stock as an 88%-12% OnSemi Ownership Split Takes Shape. Here's What to Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-cfo-disposed-stock-88-085902653.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-23T08:59:02Z"
+        },
+        {
+          "title": "A Synaptics Insider Filing Lands as a $7.8 Billion Combined Company Takes Shape",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-insider-filing-lands-7-083001176.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-23T08:30:01Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 78424.32,
-      "change_pct": -0.68
+      "price": 78336.73,
+      "change_pct": -0.79
     },
     {
       "label": "Gold",

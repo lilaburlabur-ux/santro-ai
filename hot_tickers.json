@@ -1,59 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-25T00:57:09+00:00",
+  "as_of": "2026-08-25T08:07:17+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "AVAV",
-   "company": "AeroVironment Inc",
-   "move_pct": -7.5,
-   "price": 148.2,
-   "volume": 1231715,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 46,
-   "direction": "down",
-   "why": "Here's Why AeroVironment (AVAV) Fell More Than Broader Market",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-aerovironment-avav-fell-221502410.html",
-   "published": "2026-08-24T22:15:02Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 2,
-   "ticker": "MU",
-   "company": "Micron Technology Inc",
-   "move_pct": -5.83,
-   "price": 910.43,
-   "volume": 29794356,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 39,
-   "direction": "down",
-   "why": "Micron CEO Sounds Alarm on AI Memory Crunch \u2014 Supply May Not Catch Up Until 2028 as Demand Keeps Growing: MU Stock Falls 4% (UPDATED)",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/micron-ceo-sounds-alarm-ai-223107015.html",
-   "published": "2026-08-24T22:31:07Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 3,
-   "ticker": "OKLO",
-   "company": "Oklo Inc",
-   "move_pct": -5.7,
-   "price": 39.69,
-   "volume": 7567651,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 39,
-   "direction": "down",
-   "why": "Oklo's CEO Says Used Nuclear Fuel in the U.S. Is Worth More Than Saudi Arabia's Oil Reserves. Here's His Case.",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/energy/articles/oklos-ceo-says-used-nuclear-002000629.html",
-   "published": "2026-08-25T00:20:00Z",
-   "sector": "Data Center, Power & Energy"
-  }
- ]
+ "hot_tickers": []
 }

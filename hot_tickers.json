@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-25T15:11:09+00:00",
+  "as_of": "2026-08-25T15:26:15+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,13 +9,29 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "SMCI",
+   "company": "Super Micro Computer Inc",
+   "move_pct": 8.52,
+   "price": 38.17,
+   "volume": 23023993,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 57,
+   "direction": "up",
+   "why": "SMCI's Backlogs are Growing at a Record Pace: What's Ahead?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/smcis-backlogs-growing-record-pace-145400642.html",
+   "published": "2026-08-25T14:54:00Z",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 2,
    "ticker": "OKLO",
    "company": "Oklo Inc",
-   "move_pct": 7.53,
-   "price": 42.68,
-   "volume": 3224865,
-   "volume_vs_avg": "~0.4x",
-   "heat_score": 43,
+   "move_pct": 8.43,
+   "price": 43.03,
+   "volume": 4200987,
+   "volume_vs_avg": "~0.5x",
+   "heat_score": 57,
    "direction": "up",
    "why": "Is Oklo the Next Great AI Story -- Or Just Nuclear Hype?",
    "catalyst_type": "momentum_narrative",
@@ -24,19 +40,35 @@
    "sector": "Data Center, Power & Energy"
   },
   {
-   "rank": 2,
+   "rank": 3,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
-   "move_pct": 5.88,
-   "price": 242.78,
-   "volume": 10073675,
+   "move_pct": 6.16,
+   "price": 243.4,
+   "volume": 10568923,
    "volume_vs_avg": "~0.4x",
-   "heat_score": 38,
+   "heat_score": 39,
    "direction": "up",
    "why": "Intel, AMD, Marvell, Dick\u2019s Sporting Goods, and Other Stocks That Explain Today\u2019s Market",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.barrons.com/articles/stock-movers-5e855b81?siteid=yhoof2&yptr=yahoo",
    "published": "2026-08-25T11:41:00Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 4,
+   "ticker": "AMD",
+   "company": "Advanced Micro Devices Inc",
+   "move_pct": 5.03,
+   "price": 479.72,
+   "volume": 9166546,
+   "volume_vs_avg": "~0.3x",
+   "heat_score": 34,
+   "direction": "up",
+   "why": "AMD Stock Upgraded To Strong Buy. Here's Why.",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://www.investors.com/news/technology/amd-stock-upgraded-strong-buy-server-cpus-agentic-ai/?src=A00220&yptr=yahoo",
+   "published": "2026-08-25T14:00:32Z",
    "sector": "AI Chips & Compute"
   }
  ]

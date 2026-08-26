@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-26T22:05:13+00:00",
-  "as_of_local": "2026-08-26 22:05:13 UTC",
+  "as_of_utc": "2026-08-26T22:10:24+00:00",
+  "as_of_local": "2026-08-26 22:10:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -150,7 +152,7 @@
       "price": 88.24,
       "previous_close": 87.48,
       "change_pct": 0.87,
-      "market_cap": 463659390810.72076,
+      "market_cap": 466445917026.5409,
       "headlines": [
         {
           "title": "Nvidia is looking more like the central bank of AI",
@@ -290,7 +292,7 @@
       "price": 119.34,
       "previous_close": 116.1,
       "change_pct": 2.79,
-      "market_cap": 16949892140.34961,
+      "market_cap": 16916350082.958893,
       "headlines": [
         {
           "title": "Why Lattice Semiconductor (LSCC) Stock Is Up Today",
@@ -337,34 +339,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/drone-stocks-slide-risk-appetite-163543035.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-24T16:35:43Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 95.7,
-      "previous_close": 94.87,
-      "change_pct": 0.87,
-      "market_cap": 3742538440.85495,
-      "headlines": [
-        {
-          "title": "Synaptics' CEO Sold Stock After a 120,000-Share Vest. Here's What to Know.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-ceo-sold-stock-120-091014820.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T09:10:14Z"
-        },
-        {
-          "title": "Synaptics' CFO Disposed of Stock as an 88%-12% OnSemi Ownership Split Takes Shape. Here's What to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-cfo-disposed-stock-88-085902653.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T08:59:02Z"
-        },
-        {
-          "title": "A Synaptics Insider Filing Lands as a $7.8 Billion Combined Company Takes Shape",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-insider-filing-lands-7-083001176.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T08:30:01Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78861.69,
-      "change_pct": 0.38
+      "price": 78782.54,
+      "change_pct": 0.28
     },
     {
       "label": "Gold",
-      "price": 4647.8,
-      "change_pct": 0.21
+      "price": 4649.4,
+      "change_pct": 0.24
     },
     {
       "label": "Nasdaq100",

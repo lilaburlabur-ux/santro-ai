@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-26T12:31:23+00:00",
+  "as_of": "2026-08-26T12:39:45+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "INTU",
    "company": "Intuit Inc",
-   "move_pct": -9.59,
-   "price": 323.19,
+   "move_pct": -9.88,
+   "price": 322.14,
    "volume": 7062400,
    "volume_vs_avg": "~2x",
-   "heat_score": 68,
+   "heat_score": 69,
    "direction": "down",
    "why": "INTU Stock Plummets After Q4 Results Leave Wall Street Divided: \u2018Unsatisfying Growth\u2019 Meets \u2018Foundations Take Time\u2019",
    "catalyst_type": "earnings",

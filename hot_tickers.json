@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-26T18:36:27+00:00",
+  "as_of": "2026-08-26T18:51:34+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "SNAP",
    "company": "Snap Inc",
-   "move_pct": -8.43,
-   "price": 5.42,
-   "volume": 50758699,
+   "move_pct": -7.85,
+   "price": 5.45,
+   "volume": 52288173,
    "volume_vs_avg": "~1.3x",
-   "heat_score": 61,
+   "heat_score": 49,
    "direction": "down",
    "why": "Reddit Gains From Strong User Growth: Can It Outpace PINS & SNAP?",
    "catalyst_type": "momentum_narrative",
@@ -25,35 +25,35 @@
   },
   {
    "rank": 2,
-   "ticker": "SMR",
-   "company": "NuScale Power Corp",
-   "move_pct": -7.39,
-   "price": 9.09,
-   "volume": 36290562,
-   "volume_vs_avg": "~1.1x",
+   "ticker": "OKLO",
+   "company": "Oklo Inc",
+   "move_pct": -6.74,
+   "price": 41.29,
+   "volume": 14057346,
+   "volume_vs_avg": "~2x",
    "heat_score": 46,
    "direction": "down",
    "why": "NuScale Power Tumbles 7% Despite Deploying AI Tools, Oklo Slides 6%, Uranium Energy Dips",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-tumbles-7-despite-175425905.html",
    "published": "2026-08-26T17:54:25Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
+   "sector": "Data Center, Power & Energy"
   },
   {
    "rank": 3,
-   "ticker": "OKLO",
-   "company": "Oklo Inc",
-   "move_pct": -6.58,
-   "price": 41.35,
-   "volume": 13810103,
-   "volume_vs_avg": "~1.5x",
+   "ticker": "SMR",
+   "company": "NuScale Power Corp",
+   "move_pct": -6.94,
+   "price": 9.13,
+   "volume": 37139252,
+   "volume_vs_avg": "~1.1x",
    "heat_score": 45,
    "direction": "down",
    "why": "NuScale Power Tumbles 7% Despite Deploying AI Tools, Oklo Slides 6%, Uranium Energy Dips",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-tumbles-7-despite-175425905.html",
    "published": "2026-08-26T17:54:25Z",
-   "sector": "Data Center, Power & Energy"
+   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

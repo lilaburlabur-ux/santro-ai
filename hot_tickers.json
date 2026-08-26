@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-26T09:25:50+00:00",
+  "as_of": "2026-08-26T09:41:02+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "INTU",
    "company": "Intuit Inc",
-   "move_pct": -11.82,
-   "price": 315.2,
+   "move_pct": -11.46,
+   "price": 316.5,
    "volume": 7062400,
    "volume_vs_avg": "~2x",
-   "heat_score": 76,
+   "heat_score": 75,
    "direction": "down",
-   "why": "Update: Intuit Shares Drop Pre-Bell as Fiscal 2027 Guidance Lags Estimates While Fiscal Q4 Adjusted Earnings, Revenue Rise",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/intuit-shares-drop-pre-bell-081458703.html",
-   "published": "2026-08-26T08:14:58Z",
+   "why": "Stocks to Watch: Nvidia, Intuit, Meta",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/stocks-to-watch-nvidia-intuit-meta-8lhnGTlzHTeDfkPmYdMO?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-08-26T09:26:35Z",
    "sector": "AI Applications & Data Software"
   }
  ]

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-26T20:59:20+00:00",
-  "as_of_local": "2026-08-26 20:59:20 UTC",
+  "as_of_utc": "2026-08-26T21:04:23+00:00",
+  "as_of_local": "2026-08-26 21:04:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -57,34 +59,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/intel-may-found-opening-ai-144250683.html",
           "publisher": "GuruFocus.com",
           "published": "2026-08-26T14:42:50Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 355.59,
-      "previous_close": 356.74,
-      "change_pct": -0.32,
-      "market_cap": 1691747925184.041,
-      "headlines": [
-        {
-          "title": "Is Nvidia's AI data center dominance slipping as the market expands?",
-          "url": "https://finance.yahoo.com/video/nvidias-ai-data-center-dominance-120000341.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-08-26T12:00:00Z"
-        },
-        {
-          "title": "NVDA vs. AVGO: Which AI Chip Giant Actually Wins for Retirement Portfolios in 2026?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-vs-avgo-ai-chip-195949659.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-26T19:59:49Z"
-        },
-        {
-          "title": "OpenAI's New AI Chip Could Be Good News for Broadcom",
-          "url": "https://finance.yahoo.com/technology/ai/articles/openais-ai-chip-could-good-194049805.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-26T19:40:49Z"
         }
       ]
     },
@@ -319,7 +293,26 @@
       "previous_close": 147.42,
       "change_pct": -0.37,
       "market_cap": 7464825939.3573,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Here's Why AeroVironment (AVAV) Fell More Than Broader Market",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-aerovironment-avav-fell-221502410.html",
+          "publisher": "Zacks",
+          "published": "2026-08-24T22:15:02Z"
+        },
+        {
+          "title": "nLIGHT, AAON, AeroVironment, Kratos, and ChargePoint Shares Are Falling, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nlight-aaon-aerovironment-kratos-chargepoint-202536841.html",
+          "publisher": "StockStory",
+          "published": "2026-08-24T20:25:36Z"
+        },
+        {
+          "title": "Drone Stocks Slide as Risk Appetite Fades: Unusual Machines Tumbles 9%, Red Cat Falls 7%, Ondas Declines 5%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/drone-stocks-slide-risk-appetite-163543035.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-24T16:35:43Z"
+        }
+      ]
     },
     {
       "symbol": "SYNA",
@@ -566,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78449.99,
-      "change_pct": -0.15
+      "price": 78430.01,
+      "change_pct": -0.17
     },
     {
       "label": "Gold",
-      "price": 4646.9,
-      "change_pct": 0.19
+      "price": 4647.8,
+      "change_pct": 0.21
     },
     {
       "label": "Nasdaq100",

@@ -38,8 +38,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 |---|---|---|
 | Is Nvidia's AI data center dominance slipping as the market expands? | Yahoo Finance Video | 2026-08-26 |
 | 4 reasons Nvidia stock is lagging | Yahoo Finance | 2026-08-26 |
+| Investors Don’t Seem to Believe Nvidia’s Earnings Story | The Wall Street Journal | 2026-08-26 |
 | Qualcomm's Costs Are Inside The Guidance And Its Replacement Growth Is Not | Trefis | 2026-08-26 |
-| Prediction: AMD’s Next Move Could Be HUGE and Here’s Where The Stock is Going | 24/7 Wall St. | 2026-08-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

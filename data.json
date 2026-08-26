@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-26T22:15:24+00:00",
-  "as_of_local": "2026-08-26 22:15:24 UTC",
+  "as_of_utc": "2026-08-26T22:20:29+00:00",
+  "as_of_local": "2026-08-26 22:20:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -113,34 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/q3-earnings-outlook-positive-revisions-220600618.html",
           "publisher": "Zacks",
           "published": "2026-08-26T22:06:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 480.93,
-      "previous_close": 479.18,
-      "change_pct": 0.37,
-      "market_cap": 785106209992.4557,
-      "headlines": [
-        {
-          "title": "Nvidia crushed earnings but one analyst is rating it a \"sell\"",
-          "url": "https://finance.yahoo.com/video/nvidia-crushed-earnings-one-analyst-210118074.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-08-26T21:01:18Z"
-        },
-        {
-          "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-crowdstrike-okta-salesforce-earnings-movers/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-26T22:07:32Z"
-        },
-        {
-          "title": "Top analyst resets AMD stock price target for rest of 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-resets-amd-stock-213300157.html",
-          "publisher": "TheStreet",
-          "published": "2026-08-26T21:33:00Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78785.97,
-      "change_pct": 0.28
+      "price": 78905.93,
+      "change_pct": 0.43
     },
     {
       "label": "Gold",
-      "price": 4657.4,
-      "change_pct": 0.42
+      "price": 4658.5,
+      "change_pct": 0.44
     },
     {
       "label": "Nasdaq100",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-26T21:50:07+00:00",
-  "as_of_local": "2026-08-26 21:50:07 UTC",
+  "as_of_utc": "2026-08-26T21:55:09+00:00",
+  "as_of_local": "2026-08-26 21:55:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -41,6 +43,12 @@
       "market_cap": 2166338343152.26,
       "headlines": [
         {
+          "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers Late",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-crowdstrike-okta-salesforce-earnings-movers/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-08-26T21:49:12Z"
+        },
+        {
           "title": "Sony Group (SONY) and Taiwan Semiconductor (TSM) Are Betting $4.7 Billion on the \u201cEyes\u201d of AI Machines",
           "url": "https://finance.yahoo.com/technology/ai/articles/sony-group-sony-taiwan-semiconductor-190819185.html",
           "publisher": "Insider Monkey",
@@ -51,12 +59,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-july-surge-raises-bar-190325583.html",
           "publisher": "GuruFocus.com",
           "published": "2026-08-26T19:03:25Z"
-        },
-        {
-          "title": "Intel May Have Found a New Opening in the AI Chip Race",
-          "url": "https://finance.yahoo.com/technology/ai/articles/intel-may-found-opening-ai-144250683.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-26T14:42:50Z"
         }
       ]
     },
@@ -89,34 +91,6 @@
       ]
     },
     {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 938.4,
-      "previous_close": 932.97,
-      "change_pct": 0.58,
-      "market_cap": 1059822560471.475,
-      "headlines": [
-        {
-          "title": "Why the sustainability of the AI boom could be in focus after Nvidia's earnings call",
-          "url": "https://finance.yahoo.com/video/why-sustainability-ai-boom-could-135959475.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-08-26T13:59:59Z"
-        },
-        {
-          "title": "4 reasons Nvidia stock is lagging",
-          "url": "https://finance.yahoo.com/markets/stocks/article/4-reasons-nvidia-stock-is-lagging-093542775.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-26T09:35:42Z"
-        },
-        {
-          "title": "Prediction: Micron Stock Will Reach $1,300 by the End of 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-micron-stock-reach-1-211700760.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-26T21:17:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 480.93,
@@ -131,16 +105,16 @@
           "published": "2026-08-26T21:01:18Z"
         },
         {
+          "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers Late",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-crowdstrike-okta-salesforce-earnings-movers/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-08-26T21:49:12Z"
+        },
+        {
           "title": "Top analyst resets AMD stock price target for rest of 2026",
           "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-resets-amd-stock-213300157.html",
           "publisher": "TheStreet",
           "published": "2026-08-26T21:33:00Z"
-        },
-        {
-          "title": "Nvidia's Second-Quarter Results More Than Double Amid Record Data Center Sales",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-apos-second-quarter-results-210351793.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-26T21:03:51Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.58,
-          "price": 938.4,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.58,
-        "price": 938.4,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 78696.4,
-      "change_pct": 0.17
+      "price": 78783.2,
+      "change_pct": 0.28
     },
     {
       "label": "Gold",

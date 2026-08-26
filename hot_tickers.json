@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-26T10:59:33+00:00",
+  "as_of": "2026-08-26T11:14:47+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "INTU",
    "company": "Intuit Inc",
-   "move_pct": -11.78,
-   "price": 315.36,
+   "move_pct": -10.78,
+   "price": 318.93,
    "volume": 7062400,
    "volume_vs_avg": "~2x",
-   "heat_score": 76,
+   "heat_score": 72,
    "direction": "down",
-   "why": "Social Buzz: Wallstreetbets Stocks Mostly Declining Pre-Bell Wednesday; Intuit, Strategy to Open Lower",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mostly-103546038.html",
-   "published": "2026-08-26T10:35:46Z",
+   "why": "Intuit shares plunge as cautious fiscal 2027 guidance falls short of forecasts",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/intuit-shares-plunge-cautious-fiscal-104320782.html",
+   "published": "2026-08-26T10:43:20Z",
    "sector": "AI Applications & Data Software"
   }
  ]

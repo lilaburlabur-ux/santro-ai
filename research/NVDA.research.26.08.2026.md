@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia tops Q2 expectations, offers strong Q3 outlook | Yahoo Finance | 2026-08-23 |
-| Nvidia crushed earnings but one analyst is rating it a "sell" | Yahoo Finance Video | 2026-08-26 |
-| AI's next big bottleneck isn't infrastructure. It's regulatory red tape. | Yahoo Finance Video | 2026-08-26 |
-| Why investors should consider taking profits in AI stocks now | Yahoo Finance Video | 2026-08-26 |
+| Why Nvidia says its AI partnerships aren't 'circular financing' | Yahoo Finance Video | 2026-08-26 |
+| Tech stocks today: Meta agrees to settle social media case for $16.68 billion; Nvidia tops Q2 expectations | Yahoo Finance | 2026-08-24 |
+| Nvidia reports impressive Q2 earnings as AI boom rolls on | Yahoo Finance Video | 2026-08-26 |
+| Nvidia earnings countdown: 2 things investors need to see for the stock to climb higher | Yahoo Finance Video | 2026-08-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -69,7 +69,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Profitability | Gross 74.14%, operating 65.60%, net 62.97% | ROA 52.73%, ROE 114.29% |
 | Balance sheet | Cash $53.17B, debt $12.81B | Current ratio 3.44, debt/equity 6.55 |
 | Valuation | P/E 32.06, forward P/E 15.97, P/S 20.03, P/B 25.98 | EV/Sales 20.18, EV/EBITDA 30.91 |
-| Growth expectations | Earnings growth 214.50%, EPS q/q 210.60% | Analyst mean target $304.73 (59 analysts) |
+| Growth expectations | Earnings growth 214.50%, EPS q/q 210.60% | Analyst mean target $305.79 (58 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

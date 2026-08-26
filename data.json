@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-26T23:38:15+00:00",
-  "as_of_local": "2026-08-26 23:38:15 UTC",
+  "as_of_utc": "2026-08-26T23:42:56+00:00",
+  "as_of_local": "2026-08-26 23:42:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVAV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -43,12 +41,6 @@
       "market_cap": 2166338343152.26,
       "headlines": [
         {
-          "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-crowdstrike-okta-salesforce-earnings-movers/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-26T23:09:49Z"
-        },
-        {
           "title": "Sony Group (SONY) and Taiwan Semiconductor (TSM) Are Betting $4.7 Billion on the \u201cEyes\u201d of AI Machines",
           "url": "https://finance.yahoo.com/technology/ai/articles/sony-group-sony-taiwan-semiconductor-190819185.html",
           "publisher": "Insider Monkey",
@@ -59,6 +51,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-july-surge-raises-bar-190325583.html",
           "publisher": "GuruFocus.com",
           "published": "2026-08-26T19:03:25Z"
+        },
+        {
+          "title": "Intel Just Found an Opening in the AI Chip Race",
+          "url": "https://finance.yahoo.com/technology/ai/articles/intel-may-found-opening-ai-144250683.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-08-26T14:42:50Z"
         }
       ]
     },
@@ -133,16 +131,16 @@
           "published": "2026-08-26T21:01:18Z"
         },
         {
-          "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-crowdstrike-okta-salesforce-earnings-movers/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-26T23:09:49Z"
-        },
-        {
           "title": "Top analyst resets AMD stock price target for rest of 2026",
           "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-resets-amd-stock-213300157.html",
           "publisher": "TheStreet",
           "published": "2026-08-26T21:33:00Z"
+        },
+        {
+          "title": "Nvidia's Second-Quarter Results More Than Double Amid Record Data Center Sales",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-apos-second-quarter-results-210351793.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-26T21:03:51Z"
         }
       ]
     },
@@ -311,6 +309,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/umc-lscc-better-value-stock-154003747.html",
           "publisher": "Zacks",
           "published": "2026-08-25T15:40:03Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVAV",
+      "name": "AeroVironment",
+      "price": 146.88,
+      "previous_close": 147.42,
+      "change_pct": -0.37,
+      "market_cap": 7464825939.3573,
+      "headlines": [
+        {
+          "title": "Here's Why AeroVironment (AVAV) Fell More Than Broader Market",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-aerovironment-avav-fell-221502410.html",
+          "publisher": "Zacks",
+          "published": "2026-08-24T22:15:02Z"
+        },
+        {
+          "title": "nLIGHT, AAON, AeroVironment, Kratos, and ChargePoint Shares Are Falling, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nlight-aaon-aerovironment-kratos-chargepoint-202536841.html",
+          "publisher": "StockStory",
+          "published": "2026-08-24T20:25:36Z"
+        },
+        {
+          "title": "Drone Stocks Slide as Risk Appetite Fades: Unusual Machines Tumbles 9%, Red Cat Falls 7%, Ondas Declines 5%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/drone-stocks-slide-risk-appetite-163543035.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-24T16:35:43Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 78975.79,
-      "change_pct": 0.52
+      "price": 79037.77,
+      "change_pct": 0.6
     },
     {
       "label": "Gold",
-      "price": 4675.6,
-      "change_pct": 0.81
+      "price": 4672.2,
+      "change_pct": 0.74
     },
     {
       "label": "Nasdaq100",

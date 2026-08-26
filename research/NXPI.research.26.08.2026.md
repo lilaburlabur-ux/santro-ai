@@ -18,7 +18,7 @@ Signed file: `NXPI.research.26.08.2026`
 | Technical momentum | Low | Below SMA200 (-7.63%) with negative half-year (-4.25%). |
 | Fresh setup quality | Poor / broken | -32.69% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 22.56%, revenue growth 19.50%. |
-| Value attractiveness | Reasonable | Forward P/E 12.33, EV/Sales 4.91. |
+| Value attractiveness | Reasonable | Forward P/E 12.33, EV/Sales 4.88. |
 | Risk level | Elevated | Beta 1.82, ATR 3.8% of price, short float 4.13%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Revenue (ttm) | $13.19B | Revenue growth 19.50% y/y |
 | Profitability | Gross 56.10%, operating 30.41%, net 22.56% | ROA 10.46%, ROE 27.92% |
 | Balance sheet | Cash $3.22B, debt $10.98B | Current ratio 2.04, debt/equity 93.33 |
-| Valuation | P/E 19.06, forward P/E 12.33, P/S 4.27, P/B 4.94 | EV/Sales 4.91, EV/EBITDA 12.78 |
+| Valuation | P/E 19.06, forward P/E 12.33, P/S 4.27, P/B 4.94 | EV/Sales 4.88, EV/EBITDA 12.71 |
 | Growth expectations | Earnings growth 72.60%, EPS q/q 72.40% | Analyst mean target $311.10 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,8 +111,8 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $223.15 | EV/Sales | 4.91 |
-| Market cap | $56.27B | EV/EBITDA | 12.78 |
+| Price | $223.15 | EV/Sales | 4.88 |
+| Market cap | $56.27B | EV/EBITDA | 12.71 |
 | Beta | 1.82 | Gross margin | 56.10% |
 | RSI(14) | 35.8 | Operating margin | 30.41% |
 | ATR(14) | 8.42 | Profit margin | 22.56% |

@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Marvell Reports Thursday. Here's Where the Google Contract Would Actually Show Up in the Numbers. | Motley Fool | 2026-08-26 |
 | Rosenblatt Resets Marvell Stock Target Before Earnings | GuruFocus.com | 2026-08-26 |
 | MXL's AI Optical Growth Accelerates: Can It Challenge AVGO & MRVL? | Zacks | 2026-08-26 |
 | AMD vs. Marvell: Which Is the Better AI Chip Stock to Own for the Next 5 Years? | Motley Fool | 2026-08-26 |
-| Marvell Technology Sees AI Connectivity as Next Big Infrastructure Bottleneck | MarketBeat | 2026-08-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -38,8 +38,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 |---|---|---|
 | Why the sustainability of the AI boom could be in focus after Nvidia's earnings call | Yahoo Finance Video | 2026-08-26 |
 | 4 reasons Nvidia stock is lagging | Yahoo Finance | 2026-08-26 |
-| Stock Market Today: Dow Slides On Inflation; Nvidia Loses Ahead Of Earnings, Micron Climbs | Investor's Business Daily | 2026-08-26 |
-| Jim Cramer Is Bullish on Micron (MU) as AI Fuels Memory Demand | Insider Monkey | 2026-08-26 |
+| Q3 Earnings Outlook: Positive Revisions & Broad-Based Growth | Zacks | 2026-08-26 |
+| Prediction: Micron Stock Will Reach $1,300 by the End of 2026 | Motley Fool | 2026-08-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -64,12 +64,12 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-09-23 | Next scheduled report (Yahoo estimate) |
+| Next earnings | 2026-09-30 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
 | Valuation | P/E 21.22, forward P/E 6.05, P/S —, P/B 10.52 | EV/Sales 11.46, EV/EBITDA 15.16 |
-| Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,515.11 (44 analysts) |
+| Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,513.41 (44 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

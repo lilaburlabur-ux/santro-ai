@@ -18,7 +18,7 @@ Signed file: `INTC.research.26.08.2026`
 | Technical momentum | High | 1Y +259.43%; price +22.12% vs SMA200. |
 | Fresh setup quality | Poor / broken | -37.39% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-19.79%). |
-| Value attractiveness | Low (expensive) | Forward P/E 43.25, EV/Sales 8.38. |
+| Value attractiveness | Low (expensive) | Forward P/E 43.25, EV/Sales 8.44. |
 | Risk level | High | Beta 2.24, ATR 6.7% of price, short float 2.57%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: low (expensive), risk: high.
@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
+| Nvidia is looking more like the central bank of AI | Yahoo Finance | 2026-08-26 |
 | 4 reasons Nvidia stock is lagging | Yahoo Finance | 2026-08-26 |
-| Nvidia's Second-Quarter Results More Than Double Amid Record Data Center Sales | MT Newswires | 2026-08-26 |
-| Goldman Sachs (GS) & Intel (INTC) Just Backed the Same AI Video Startup | Insider Monkey | 2026-08-26 |
-| Jim Cramer Points to Government Stake for Intel (INTC) Drop | Insider Monkey | 2026-08-26 |
+| Is Intel (INTC) Stock Above Fair Value Or Still Below It? | Simply Wall St. | 2026-08-26 |
+| Nvidia, Meta, Revolution Medicines, Abercrombie, Intuit, Salesforce, Moderna, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $57.03B | Revenue growth 25.40% y/y |
 | Profitability | Gross 38.87%, operating 12.19%, net -19.79% | ROA 1.41%, ROE -10.71% |
 | Balance sheet | Cash $29.73B, debt $50.54B | Current ratio 1.60, debt/equity 49.00 |
-| Valuation | P/E —, forward P/E 43.25, P/S 8.18, P/B 5.08 | EV/Sales 8.38, EV/EBITDA 28.36 |
+| Valuation | P/E —, forward P/E 43.25, P/S 8.18, P/B 5.08 | EV/Sales 8.44, EV/EBITDA 28.59 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $114.88 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Primecap Management Company | 75,250,958 | 1.49% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 43.25, EV/Sales 8.38. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 43.25, EV/Sales 8.44. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.24, ATR 6.7% of price, short float 2.57%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,8 +113,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $88.24 | EV/Sales | 8.38 |
-| Market cap | $466.45B | EV/EBITDA | 28.36 |
+| Price | $88.24 | EV/Sales | 8.44 |
+| Market cap | $466.45B | EV/EBITDA | 28.59 |
 | Beta | 2.24 | Gross margin | 38.87% |
 | RSI(14) | 38.7 | Operating margin | 12.19% |
 | ATR(14) | 5.89 | Profit margin | -19.79% |

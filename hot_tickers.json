@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-26T10:43:01+00:00",
+  "as_of": "2026-08-26T10:44:24+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "INTU",
    "company": "Intuit Inc",
-   "move_pct": -12.27,
-   "price": 313.61,
+   "move_pct": -12.3,
+   "price": 313.5,
    "volume": 7062400,
    "volume_vs_avg": "~2x",
-   "heat_score": 77,
+   "heat_score": 78,
    "direction": "down",
-   "why": "Stocks to Watch: Nvidia, Intuit, Meta",
+   "why": "Social Buzz: Wallstreetbets Stocks Mostly Declining Pre-Bell Wednesday; Intuit, Strategy to Open Lower",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/stocks-to-watch-nvidia-intuit-meta-8lhnGTlzHTeDfkPmYdMO?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-08-26T09:26:35Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mostly-103546038.html",
+   "published": "2026-08-26T10:35:46Z",
    "sector": "AI Applications & Data Software"
   }
  ]

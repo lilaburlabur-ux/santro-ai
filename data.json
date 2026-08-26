@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-26T21:55:09+00:00",
-  "as_of_local": "2026-08-26 21:55:09 UTC",
+  "as_of_utc": "2026-08-26T22:00:15+00:00",
+  "as_of_local": "2026-08-26 22:00:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-vs-avgo-ai-chip-195949659.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-26T19:59:49Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 938.4,
+      "previous_close": 932.97,
+      "change_pct": 0.58,
+      "market_cap": 1059822560471.475,
+      "headlines": [
+        {
+          "title": "Why the sustainability of the AI boom could be in focus after Nvidia's earnings call",
+          "url": "https://finance.yahoo.com/video/why-sustainability-ai-boom-could-135959475.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-08-26T13:59:59Z"
+        },
+        {
+          "title": "4 reasons Nvidia stock is lagging",
+          "url": "https://finance.yahoo.com/markets/stocks/article/4-reasons-nvidia-stock-is-lagging-093542775.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-08-26T09:35:42Z"
+        },
+        {
+          "title": "Prediction: Micron Stock Will Reach $1,300 by the End of 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-micron-stock-reach-1-211700760.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-26T21:17:00Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 0.58,
+          "price": 938.4,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 0.58,
+        "price": 938.4,
         "currency": "USD"
       },
       {
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 78783.2,
-      "change_pct": 0.28
+      "price": 78718.61,
+      "change_pct": 0.2
     },
     {
       "label": "Gold",

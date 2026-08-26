@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-26T12:51:48+00:00",
+  "as_of": "2026-08-26T13:07:00+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "INTU",
    "company": "Intuit Inc",
-   "move_pct": -10.48,
-   "price": 320.01,
+   "move_pct": -10.46,
+   "price": 320.06,
    "volume": 7062400,
    "volume_vs_avg": "~2x",
    "heat_score": 71,
    "direction": "down",
-   "why": "INTU Stock Plummets After Q4 Results Leave Wall Street Divided: \u2018Unsatisfying Growth\u2019 Meets \u2018Foundations Take Time\u2019",
+   "why": "Intuit Inc (INTU) (Q4 2026) Earnings Call Highlights: Strategic Reset Amidst AI-Driven ...",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/intu-stock-plummets-q4-results-120314642.html",
-   "published": "2026-08-26T12:03:14Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/intuit-inc-intu-q4-2026-130104026.html",
+   "published": "2026-08-26T13:01:04Z",
    "sector": "AI Applications & Data Software"
   }
  ]

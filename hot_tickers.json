@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-26T18:00:48+00:00",
+  "as_of": "2026-08-26T18:15:58+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,9 +11,9 @@
    "rank": 1,
    "ticker": "SNAP",
    "company": "Snap Inc",
-   "move_pct": -8.87,
+   "move_pct": -8.95,
    "price": 5.39,
-   "volume": 47227844,
+   "volume": 48624676,
    "volume_vs_avg": "~1.2x",
    "heat_score": 62,
    "direction": "down",
@@ -22,6 +22,38 @@
    "source_url": "https://finance.yahoo.com/media-advertising/articles/reddit-gains-strong-user-growth-165100360.html",
    "published": "2026-08-26T16:51:00Z",
    "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 2,
+   "ticker": "SMR",
+   "company": "NuScale Power Corp",
+   "move_pct": -7.49,
+   "price": 9.07,
+   "volume": 35294150,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 47,
+   "direction": "down",
+   "why": "NuScale Power Tumbles 7% Despite Deploying AI Tools, Oklo Slides 6%, Uranium Energy Dips",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-tumbles-7-despite-175425905.html",
+   "published": "2026-08-26T17:54:25Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 3,
+   "ticker": "OKLO",
+   "company": "Oklo Inc",
+   "move_pct": -6.78,
+   "price": 41.27,
+   "volume": 13282708,
+   "volume_vs_avg": "~1.4x",
+   "heat_score": 46,
+   "direction": "down",
+   "why": "NuScale Power Tumbles 7% Despite Deploying AI Tools, Oklo Slides 6%, Uranium Energy Dips",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-tumbles-7-despite-175425905.html",
+   "published": "2026-08-26T17:54:25Z",
+   "sector": "Data Center, Power & Energy"
   }
  ]
 }

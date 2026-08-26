@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-26T22:20:29+00:00",
-  "as_of_local": "2026-08-26 22:20:29 UTC",
+  "as_of_utc": "2026-08-26T22:25:30+00:00",
+  "as_of_local": "2026-08-26 22:25:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -46,7 +44,7 @@
           "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-crowdstrike-okta-salesforce-earnings-movers/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-08-26T22:07:32Z"
+          "published": "2026-08-26T22:15:01Z"
         },
         {
           "title": "Sony Group (SONY) and Taiwan Semiconductor (TSM) Are Betting $4.7 Billion on the \u201cEyes\u201d of AI Machines",
@@ -119,12 +117,40 @@
       ]
     },
     {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 480.93,
+      "previous_close": 479.18,
+      "change_pct": 0.37,
+      "market_cap": 785106209992.4557,
+      "headlines": [
+        {
+          "title": "Nvidia crushed earnings but one analyst is rating it a \"sell\"",
+          "url": "https://finance.yahoo.com/video/nvidia-crushed-earnings-one-analyst-210118074.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-08-26T21:01:18Z"
+        },
+        {
+          "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-crowdstrike-okta-salesforce-earnings-movers/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-08-26T22:15:01Z"
+        },
+        {
+          "title": "Top analyst resets AMD stock price target for rest of 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-resets-amd-stock-213300157.html",
+          "publisher": "TheStreet",
+          "published": "2026-08-26T21:33:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 88.24,
       "previous_close": 87.48,
       "change_pct": 0.87,
-      "market_cap": 466445917026.5409,
+      "market_cap": 463659390810.72076,
       "headlines": [
         {
           "title": "Nvidia is looking more like the central bank of AI",
@@ -264,7 +290,7 @@
       "price": 119.34,
       "previous_close": 116.1,
       "change_pct": 2.79,
-      "market_cap": 16916350082.958893,
+      "market_cap": 16949892140.34961,
       "headlines": [
         {
           "title": "Why Lattice Semiconductor (LSCC) Stock Is Up Today",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 78905.93,
-      "change_pct": 0.43
+      "price": 78855.7,
+      "change_pct": 0.37
     },
     {
       "label": "Gold",
-      "price": 4658.5,
-      "change_pct": 0.44
+      "price": 4657.0,
+      "change_pct": 0.41
     },
     {
       "label": "Nasdaq100",

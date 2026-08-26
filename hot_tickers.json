@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-26T11:37:51+00:00",
+  "as_of": "2026-08-26T11:53:06+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "INTU",
    "company": "Intuit Inc",
-   "move_pct": -10.33,
-   "price": 320.53,
+   "move_pct": -9.51,
+   "price": 323.46,
    "volume": 7062400,
    "volume_vs_avg": "~2x",
-   "heat_score": 71,
+   "heat_score": 68,
    "direction": "down",
-   "why": "Wall Street downgrades Intuit after earnings as reset signals broader challenges",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-downgrades-intuit-earnings-112423306.html",
-   "published": "2026-08-26T11:24:23Z",
+   "why": "Premarket movers: Nvidia in focus, Intuit slides and Semtech surges",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-nvidia-focus-intuit-114017731.html",
+   "published": "2026-08-26T11:40:17Z",
    "sector": "AI Applications & Data Software"
   }
  ]

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-26T22:10:24+00:00",
-  "as_of_local": "2026-08-26 22:10:24 UTC",
+  "as_of_utc": "2026-08-26T22:15:24+00:00",
+  "as_of_local": "2026-08-26 22:15:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SYNA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -43,6 +41,12 @@
       "market_cap": 2166338343152.26,
       "headlines": [
         {
+          "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-crowdstrike-okta-salesforce-earnings-movers/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-08-26T22:07:32Z"
+        },
+        {
           "title": "Sony Group (SONY) and Taiwan Semiconductor (TSM) Are Betting $4.7 Billion on the \u201cEyes\u201d of AI Machines",
           "url": "https://finance.yahoo.com/technology/ai/articles/sony-group-sony-taiwan-semiconductor-190819185.html",
           "publisher": "Insider Monkey",
@@ -53,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-july-surge-raises-bar-190325583.html",
           "publisher": "GuruFocus.com",
           "published": "2026-08-26T19:03:25Z"
-        },
-        {
-          "title": "Intel Just Found an Opening in the AI Chip Race",
-          "url": "https://finance.yahoo.com/technology/ai/articles/intel-may-found-opening-ai-144250683.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-26T14:42:50Z"
         }
       ]
     },
@@ -111,10 +109,10 @@
           "published": "2026-08-26T09:35:42Z"
         },
         {
-          "title": "Prediction: Micron Stock Will Reach $1,300 by the End of 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-micron-stock-reach-1-211700760.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-26T21:17:00Z"
+          "title": "Q3 Earnings Outlook: Positive Revisions & Broad-Based Growth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/q3-earnings-outlook-positive-revisions-220600618.html",
+          "publisher": "Zacks",
+          "published": "2026-08-26T22:06:00Z"
         }
       ]
     },
@@ -133,16 +131,16 @@
           "published": "2026-08-26T21:01:18Z"
         },
         {
+          "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-crowdstrike-okta-salesforce-earnings-movers/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-08-26T22:07:32Z"
+        },
+        {
           "title": "Top analyst resets AMD stock price target for rest of 2026",
           "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-resets-amd-stock-213300157.html",
           "publisher": "TheStreet",
           "published": "2026-08-26T21:33:00Z"
-        },
-        {
-          "title": "Nvidia's Second-Quarter Results More Than Double Amid Record Data Center Sales",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-apos-second-quarter-results-210351793.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-26T21:03:51Z"
         }
       ]
     },
@@ -339,6 +337,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/drone-stocks-slide-risk-appetite-163543035.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-24T16:35:43Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SYNA",
+      "name": "Synaptics",
+      "price": 95.7,
+      "previous_close": 94.87,
+      "change_pct": 0.87,
+      "market_cap": 3742538440.85495,
+      "headlines": [
+        {
+          "title": "Synaptics' CEO Sold Stock After a 120,000-Share Vest. Here's What to Know.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-ceo-sold-stock-120-091014820.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-23T09:10:14Z"
+        },
+        {
+          "title": "Synaptics' CFO Disposed of Stock as an 88%-12% OnSemi Ownership Split Takes Shape. Here's What to Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-cfo-disposed-stock-88-085902653.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-23T08:59:02Z"
+        },
+        {
+          "title": "A Synaptics Insider Filing Lands as a $7.8 Billion Combined Company Takes Shape",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-insider-filing-lands-7-083001176.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-23T08:30:01Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 78782.54,
+      "price": 78785.97,
       "change_pct": 0.28
     },
     {
       "label": "Gold",
-      "price": 4649.4,
-      "change_pct": 0.24
+      "price": 4657.4,
+      "change_pct": 0.42
     },
     {
       "label": "Nasdaq100",

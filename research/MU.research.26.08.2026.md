@@ -38,8 +38,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 |---|---|---|
 | Why the sustainability of the AI boom could be in focus after Nvidia's earnings call | Yahoo Finance Video | 2026-08-26 |
 | 4 reasons Nvidia stock is lagging | Yahoo Finance | 2026-08-26 |
-| Nvidia’s AI Servers Are About to Get Pricier — What a 15%+ Hike Means for the Whole Stack | Insider Monkey | 2026-08-26 |
-| Micron Reshuffles Its Leadership for the Next Phase of the AI Boom | GuruFocus.com | 2026-08-26 |
+| Stock Market Today: Dow Slides On Inflation; Nvidia Loses Ahead Of Earnings, Micron Climbs | Investor's Business Daily | 2026-08-26 |
+| Jim Cramer Is Bullish on Micron (MU) as AI Fuels Memory Demand | Insider Monkey | 2026-08-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

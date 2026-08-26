@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | 4 reasons Nvidia stock is lagging | Yahoo Finance | 2026-08-26 |
-| Intel Raises $23B to Fund AI Chip Capacity as 14A Roadmap Gains Momentum | MarketBeat | 2026-08-26 |
-| Nvidia, Meta, Revolution Medicines, Abercrombie, Intuit, Salesforce, Moderna, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-26 |
-| Qualcomm's Costs Are Inside The Guidance And Its Replacement Growth Is Not | Trefis | 2026-08-26 |
+| Nvidia's Second-Quarter Results More Than Double Amid Record Data Center Sales | MT Newswires | 2026-08-26 |
+| Goldman Sachs (GS) & Intel (INTC) Just Backed the Same AI Video Startup | Insider Monkey | 2026-08-26 |
+| Jim Cramer Points to Government Stake for Intel (INTC) Drop | Insider Monkey | 2026-08-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

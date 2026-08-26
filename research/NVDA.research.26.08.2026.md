@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
+| Nvidia tops Q2 expectations, offers strong Q3 outlook | Yahoo Finance | 2026-08-23 |
+| Nvidia crushed earnings but one analyst is rating it a "sell" | Yahoo Finance Video | 2026-08-26 |
 | AI's next big bottleneck isn't infrastructure. It's regulatory red tape. | Yahoo Finance Video | 2026-08-26 |
-| Nvidia earnings countdown: 2 things investors need to see for the stock to climb higher | Yahoo Finance Video | 2026-08-26 |
-| Stocks in holding pattern ahead of Nvidia earnings: AlphaCheck | Yahoo Finance | 2026-08-26 |
-| Is Nvidia's AI data center dominance slipping as the market expands? | Yahoo Finance Video | 2026-08-26 |
+| Why investors should consider taking profits in AI stocks now | Yahoo Finance Video | 2026-08-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

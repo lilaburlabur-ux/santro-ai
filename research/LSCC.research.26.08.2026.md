@@ -36,10 +36,10 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Why Lattice Semiconductor (LSCC) Stock Is Up Today | StockStory | 2026-08-26 |
 | Intuit downgraded, SolarEdge upgraded: Wall Street's top analyst calls | The Fly | 2026-08-26 |
 | UMC or LSCC: Which Is the Better Value Stock Right Now? | Zacks | 2026-08-25 |
 | Is Lattice Semiconductor (LSCC) Priced For Perfection After 114% Returns? | Simply Wall St. | 2026-08-19 |
-| 2 Stocks to Buy That Stanley Druckenmiller Added While Exiting 5 Chip and Photonics Stocks | Motley Fool | 2026-08-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -69,7 +69,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Profitability | Gross 69.02%, operating 13.33%, net 5.58% | ROA 3.87%, ROE 4.93% |
 | Balance sheet | Cash $173.30M, debt $38.08M | Current ratio 3.02, debt/equity 4.84 |
 | Valuation | P/E 459.00, forward P/E 37.14, P/S 26.03, P/B 20.79 | EV/Sales 25.12, EV/EBITDA 177.50 |
-| Growth expectations | Earnings growth 600.00%, EPS q/q 564.60% | Analyst mean target $164.92 (12 analysts) |
+| Growth expectations | Earnings growth 600.00%, EPS q/q 564.60% | Analyst mean target $164.54 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -126,7 +126,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Forward P/E | 37.14 | Short float | 6.95% |
 | PEG (trailing) | — | Avg volume | 1,880,371 |
 | P/S | 26.03 | Employees | 1,174 |
-| P/B | 20.79 | Analyst rec (1=buy..5=sell) | — |
+| P/B | 20.79 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

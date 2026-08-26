@@ -37,9 +37,9 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Headline | Source | Date |
 |---|---|---|
 | Is Nvidia's AI data center dominance slipping as the market expands? | Yahoo Finance Video | 2026-08-26 |
+| Nvidia's Second-Quarter Results More Than Double Amid Record Data Center Sales | MT Newswires | 2026-08-26 |
 | NVDA vs. AVGO: Which AI Chip Giant Actually Wins for Retirement Portfolios in 2026? | 24/7 Wall St. | 2026-08-26 |
 | OpenAI's New AI Chip Could Be Good News for Broadcom | GuruFocus.com | 2026-08-26 |
-| Nvidia, Meta, Revolution Medicines, Abercrombie, Intuit, Salesforce, Moderna, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

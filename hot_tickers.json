@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-26T14:21:44+00:00",
+  "as_of": "2026-08-26T14:25:10+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "SNAP",
+   "company": "Snap Inc",
+   "move_pct": -6.84,
+   "price": 5.51,
+   "volume": 22227950,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 42,
+   "direction": "down",
+   "why": "Snap Sinks 7% as Pennsylvania Sues Snapchat, Meta Holds Flat After a $16.7B Settlement",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/snap-sinks-7-pennsylvania-sues-141156931.html",
+   "published": "2026-08-26T14:11:56Z",
+   "sector": "AI Platforms, Internet & AdTech"
+  }
+ ]
 }

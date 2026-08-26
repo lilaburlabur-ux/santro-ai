@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-26T22:57:43+00:00",
-  "as_of_local": "2026-08-26 22:57:43 UTC",
+  "as_of_utc": "2026-08-26T23:02:36+00:00",
+  "as_of_local": "2026-08-26 23:02:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-apos-second-quarter-results-210351793.html",
           "publisher": "MT Newswires",
           "published": "2026-08-26T21:03:51Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 938.4,
-      "previous_close": 932.97,
-      "change_pct": 0.58,
-      "market_cap": 1059822560471.475,
-      "headlines": [
-        {
-          "title": "Why the sustainability of the AI boom could be in focus after Nvidia's earnings call",
-          "url": "https://finance.yahoo.com/video/why-sustainability-ai-boom-could-135959475.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-08-26T13:59:59Z"
-        },
-        {
-          "title": "4 reasons Nvidia stock is lagging",
-          "url": "https://finance.yahoo.com/markets/stocks/article/4-reasons-nvidia-stock-is-lagging-093542775.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-26T09:35:42Z"
-        },
-        {
-          "title": "Q3 Earnings Outlook: Positive Revisions & Broad-Based Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/q3-earnings-outlook-positive-revisions-220600618.html",
-          "publisher": "Zacks",
-          "published": "2026-08-26T22:06:00Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.58,
-          "price": 938.4,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.58,
-        "price": 938.4,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78575.07,
-      "change_pct": 0.01
+      "price": 78696.74,
+      "change_pct": 0.17
     },
     {
       "label": "Gold",
-      "price": 4664.0,
-      "change_pct": 0.56
+      "price": 4662.4,
+      "change_pct": 0.52
     },
     {
       "label": "Nasdaq100",

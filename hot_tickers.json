@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-26T17:10:25+00:00",
+  "as_of": "2026-08-26T17:24:57+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "SNAP",
    "company": "Snap Inc",
-   "move_pct": -9.7,
-   "price": 5.35,
-   "volume": 41670696,
+   "move_pct": -9.38,
+   "price": 5.36,
+   "volume": 43498667,
    "volume_vs_avg": "~1.1x",
-   "heat_score": 64,
+   "heat_score": 63,
    "direction": "down",
-   "why": "Snap Sinks 7% as Pennsylvania Sues Snapchat, Meta Holds Flat After a $16.7B Settlement",
+   "why": "Reddit Gains From Strong User Growth: Can It Outpace PINS & SNAP?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/snap-sinks-7-pennsylvania-sues-141156931.html",
-   "published": "2026-08-26T14:11:56Z",
+   "source_url": "https://finance.yahoo.com/media-advertising/articles/reddit-gains-strong-user-growth-165100360.html",
+   "published": "2026-08-26T16:51:00Z",
    "sector": "AI Platforms, Internet & AdTech"
   }
  ]

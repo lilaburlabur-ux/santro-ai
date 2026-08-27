@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-27T21:00:48+00:00",
-  "as_of_local": "2026-08-27 21:00:48 UTC",
+  "as_of_utc": "2026-08-27T21:05:54+00:00",
+  "as_of_local": "2026-08-27 21:05:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -125,12 +125,6 @@
       "market_cap": 778151900190.5813,
       "headlines": [
         {
-          "title": "Nvidia crushed earnings but one analyst is rating it a \"sell\"",
-          "url": "https://finance.yahoo.com/video/nvidia-crushed-earnings-one-analyst-210118074.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-08-26T21:01:18Z"
-        },
-        {
           "title": "NVIDIA Is Now Up 20% in a Month: Take Profits, or Buy More?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-now-20-month-profits-193601055.html",
           "publisher": "24/7 Wall St.",
@@ -141,6 +135,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sends-20-million-191855720.html",
           "publisher": "GuruFocus.com",
           "published": "2026-08-27T19:18:55Z"
+        },
+        {
+          "title": "Cathie Wood\u2019s ARK Just Dumped AMD Stock. What She\u2019s Buying Instead.",
+          "url": "https://www.barrons.com/articles/cathie-wood-ark-sells-amd-stock-476a7789?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-08-27T19:02:00Z"
         }
       ]
     },
@@ -159,16 +159,16 @@
           "published": "2026-08-24T12:54:06Z"
         },
         {
+          "title": "Chipmakers are outshining Big Tech in the AI rally",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-rally-disguising-massive-slump-174239329.html",
+          "publisher": "CNN Business",
+          "published": "2026-08-27T20:14:36Z"
+        },
+        {
           "title": "NVIDIA Is Now Up 20% in a Month: Take Profits, or Buy More?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-now-20-month-profits-193601055.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-27T19:36:01Z"
-        },
-        {
-          "title": "Chip Stocks Rise After Nvidia's Blowout Earnings Spark Tech Rally",
-          "url": "https://finance.yahoo.com/technology/articles/chip-stocks-rise-nvidias-blowout-192956754.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-27T19:29:56Z"
         }
       ]
     },
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -2.46,
-          "price": 50000.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "JPY"
         },
         {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -2.46,
-        "price": 50000.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 80078.95,
-      "change_pct": 1.33
+      "price": 80047.12,
+      "change_pct": 1.29
     },
     {
       "label": "Gold",
-      "price": 4657.1,
-      "change_pct": 1.28
+      "price": 4654.0,
+      "change_pct": 1.21
     },
     {
       "label": "Nasdaq100",

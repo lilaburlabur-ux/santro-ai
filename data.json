@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-27T21:51:37+00:00",
-  "as_of_local": "2026-08-27 21:51:37 UTC",
+  "as_of_utc": "2026-08-27T21:56:45+00:00",
+  "as_of_local": "2026-08-27 21:56:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -31,6 +29,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-posted-a-blowout-quarter-china-remains-a-quagmire-122920310.html",
           "publisher": "Yahoo Finance",
           "published": "2026-08-27T12:29:20Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 427.3,
+      "previous_close": 417.69,
+      "change_pct": 2.3,
+      "market_cap": 2216180282443.4497,
+      "headlines": [
+        {
+          "title": "Morgan Stanley reveals Cisco's quiet edge over rivals",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-reveals-ciscos-quiet-214700597.html",
+          "publisher": "TheStreet",
+          "published": "2026-08-27T21:47:00Z"
+        },
+        {
+          "title": "Forget SMH and Its 87% Year: Three Semiconductor Funds Did Much Better",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-smh-87-three-semiconductor-211541560.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-27T21:15:41Z"
+        },
+        {
+          "title": "Amkor 'Underappreciated Beneficiary' of Advanced Semiconductor Packaging, BofA Says",
+          "url": "https://finance.yahoo.com/technology/articles/amkor-apos-underappreciated-beneficiary-apos-181628185.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-27T18:16:28Z"
         }
       ]
     },
@@ -124,7 +150,7 @@
       "price": 92.09,
       "previous_close": 88.24,
       "change_pct": 4.36,
-      "market_cap": 486797414219.28436,
+      "market_cap": 483889309105.69995,
       "headlines": [
         {
           "title": "Tech stocks today: Tech stocks gain after Nvidia tops Q2 expectations",
@@ -264,7 +290,7 @@
       "price": 120.47,
       "previous_close": 119.34,
       "change_pct": 0.95,
-      "market_cap": 17076527381.263702,
+      "market_cap": 17110387041.216797,
       "headlines": [
         {
           "title": "Stocks making big moves yesterday: Intuit, Xponential Fitness, Abercrombie and Fitch, Lattice Semiconductor, and Photronics",
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 80106.47,
-      "change_pct": 1.37
+      "price": 80144.39,
+      "change_pct": 1.41
     },
     {
       "label": "Gold",

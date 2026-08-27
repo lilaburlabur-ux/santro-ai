@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-27T00:08:56+00:00",
-  "as_of_local": "2026-08-27 00:08:56 UTC",
+  "as_of_utc": "2026-08-27T00:14:02+00:00",
+  "as_of_local": "2026-08-27 00:14:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,12 +41,6 @@
       "market_cap": 2166338343152.26,
       "headlines": [
         {
-          "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-crowdstrike-okta-salesforce-earnings-movers/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-26T23:48:46Z"
-        },
-        {
           "title": "Sony Group (SONY) and Taiwan Semiconductor (TSM) Are Betting $4.7 Billion on the \u201cEyes\u201d of AI Machines",
           "url": "https://finance.yahoo.com/technology/ai/articles/sony-group-sony-taiwan-semiconductor-190819185.html",
           "publisher": "Insider Monkey",
@@ -57,6 +51,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-july-surge-raises-bar-190325583.html",
           "publisher": "GuruFocus.com",
           "published": "2026-08-26T19:03:25Z"
+        },
+        {
+          "title": "Intel Just Found an Opening in the AI Chip Race",
+          "url": "https://finance.yahoo.com/technology/ai/articles/intel-may-found-opening-ai-144250683.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-08-26T14:42:50Z"
         }
       ]
     },
@@ -131,16 +131,16 @@
           "published": "2026-08-26T21:01:18Z"
         },
         {
-          "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-crowdstrike-okta-salesforce-earnings-movers/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-26T23:48:46Z"
-        },
-        {
           "title": "Top analyst resets AMD stock price target for rest of 2026",
           "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-resets-amd-stock-213300157.html",
           "publisher": "TheStreet",
           "published": "2026-08-26T21:33:00Z"
+        },
+        {
+          "title": "Nvidia's Second-Quarter Results More Than Double Amid Record Data Center Sales",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-apos-second-quarter-results-210351793.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-26T21:03:51Z"
         }
       ]
     },
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 78958.89,
-      "change_pct": 0.5
+      "price": 78845.31,
+      "change_pct": 0.36
     },
     {
       "label": "Gold",
-      "price": 4677.5,
-      "change_pct": 0.85
+      "price": 4678.8,
+      "change_pct": 0.88
     },
     {
       "label": "Nasdaq100",

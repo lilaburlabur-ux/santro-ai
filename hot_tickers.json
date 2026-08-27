@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-27T01:03:53+00:00",
+  "as_of": "2026-08-27T06:38:34+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,51 +9,19 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "SNAP",
-   "company": "Snap Inc",
-   "move_pct": -8.45,
-   "price": 5.42,
-   "volume": 69118368,
+   "ticker": "SMR",
+   "company": "NuScale Power Corp",
+   "move_pct": -5.5,
+   "price": 9.27,
+   "volume": 51710700,
    "volume_vs_avg": "~2x",
-   "heat_score": 63,
+   "heat_score": 42,
    "direction": "down",
-   "why": "Does Snap (SNAP) Need A Saudi Communications Chief To Grow Its Middle East Story?",
+   "why": "Can NuScale Power (SMR) Cut SMR Timelines With Nuclear Specific AI Tools?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/does-snap-snap-saudi-communications-210843754.html",
-   "published": "2026-08-26T21:08:43Z",
-   "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 2,
-   "ticker": "INTU",
-   "company": "Intuit Inc",
-   "move_pct": -3.24,
-   "price": 345.88,
-   "volume": 11419543,
-   "volume_vs_avg": "~3x",
-   "heat_score": 41,
-   "direction": "down",
-   "why": "Nvidia, Meta, Revolution Medicines, Abercrombie, Intuit, Salesforce, Moderna, and More Stocks That Explain Today\u2019s Market",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.barrons.com/articles/stock-movers-6a7eb3fe?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-08-26T21:43:00Z",
-   "sector": "AI Applications & Data Software"
-  },
-  {
-   "rank": 3,
-   "ticker": "ANET",
-   "company": "Arista Networks Inc",
-   "move_pct": 5.92,
-   "price": 202.25,
-   "volume": 7610378,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 41,
-   "direction": "up",
-   "why": "Decoding ANET Stock's Premium Valuation",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/decoding-anet-stocks-premium-valuation-212529836.html",
-   "published": "2026-08-26T21:25:29Z",
-   "sector": "Chip Equipment & AI Hardware"
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/nuscale-power-smr-cut-smr-031456909.html",
+   "published": "2026-08-27T03:14:56Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

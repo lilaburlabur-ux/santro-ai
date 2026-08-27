@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-27T06:18:13+00:00",
-  "as_of_local": "2026-08-27 06:18:13 UTC",
+  "as_of_utc": "2026-08-27T06:33:19+00:00",
+  "as_of_local": "2026-08-27 06:33:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 2166338343152.26,
       "headlines": [
         {
+          "title": "Why Is Taiwan Semiconductor Manufacturing (TSM) Winning More 3nm AI Chip Work?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/why-taiwan-semiconductor-manufacturing-tsm-061348015.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-27T06:13:48Z"
+        },
+        {
           "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-crowdstrike-okta-salesforce-earnings-movers/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/sony-group-sony-taiwan-semiconductor-190819185.html",
           "publisher": "Insider Monkey",
           "published": "2026-08-26T19:08:19Z"
-        },
-        {
-          "title": "TSMC's July Surge Raises the Bar for Nvidia's Foundry",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-july-surge-raises-bar-190325583.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-26T19:03:25Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 1.6,
-          "price": 1715000.0,
+          "change_pct": 1.66,
+          "price": 1716000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 1.24,
-          "price": 264750.0,
+          "change_pct": 0.96,
+          "price": 264000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 3.84,
-          "price": 51920.0,
+          "change_pct": 4.56,
+          "price": 52280.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 1.6,
-        "price": 1715000.0,
+        "change_pct": 1.66,
+        "price": 1716000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 1.24,
-        "price": 264750.0,
+        "change_pct": 0.96,
+        "price": 264000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 3.84,
-        "price": 51920.0,
+        "change_pct": 4.56,
+        "price": 52280.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 78710.9,
-      "change_pct": 0.19
+      "price": 78686.49,
+      "change_pct": 0.15
     },
     {
       "label": "Gold",
-      "price": 4656.2,
-      "change_pct": 1.26
+      "price": 4661.6,
+      "change_pct": 1.38
     },
     {
       "label": "Nasdaq100",

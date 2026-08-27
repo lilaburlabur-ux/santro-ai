@@ -37,9 +37,9 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Headline | Source | Date |
 |---|---|---|
 | Jackson Hole Symposium kicks off, Marvell & dollar stores report earnings: What to Watch | Yahoo Finance Video | 2026-08-27 |
+| Chipmaker Marvell Edges Above Estimates But Stock Falls | Investor's Business Daily | 2026-08-27 |
 | Marvell Traders Send Powerful Signal Before Earnings | GuruFocus.com | 2026-08-27 |
 | Marvell Stock Braces for 10% Earnings Swing as Options Bets Hit $300 | GuruFocus.com | 2026-08-27 |
-| Broadcom Faces New AI Challenge as Google Deepens Marvell Partnership | GuruFocus.com | 2026-08-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

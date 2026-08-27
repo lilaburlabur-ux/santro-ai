@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-27T06:38:34+00:00",
+  "as_of": "2026-08-27T08:14:14+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,19 +9,67 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "SMR",
-   "company": "NuScale Power Corp",
-   "move_pct": -5.5,
-   "price": 9.27,
-   "volume": 51710700,
-   "volume_vs_avg": "~2x",
-   "heat_score": 42,
-   "direction": "down",
-   "why": "Can NuScale Power (SMR) Cut SMR Timelines With Nuclear Specific AI Tools?",
+   "ticker": "OKTA",
+   "company": "Okta Inc",
+   "move_pct": 20.37,
+   "price": 161.8,
+   "volume": 6927600,
+   "volume_vs_avg": "~3x",
+   "heat_score": 91,
+   "direction": "up",
+   "why": "Okta Inc (OKTA) (Q2 FY2027) Earnings Call Highlights: Record Bookings and AI Momentum Drive ...",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/okta-inc-okta-q2-fy2027-050129363.html",
+   "published": "2026-08-27T05:01:29Z",
+   "sector": "AI Software & Cloud Infrastructure"
+  },
+  {
+   "rank": 2,
+   "ticker": "CRM",
+   "company": "Salesforce Inc",
+   "move_pct": 11.86,
+   "price": 230.0,
+   "volume": 14672100,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 72,
+   "direction": "up",
+   "why": "CRM Stock Heads For Best Day In 6 Years As CEO Declares \u2018SaaSpocalypse\u2019 Narrative \u2018Nonsense\u2019 After Impressive Q2 Beat",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/nuscale-power-smr-cut-smr-031456909.html",
-   "published": "2026-08-27T03:14:56Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/crm-stock-heads-best-day-072945374.html",
+   "published": "2026-08-27T07:29:45Z",
+   "sector": "AI Applications & Data Software"
+  },
+  {
+   "rank": 3,
+   "ticker": "CRWD",
+   "company": "Crowdstrike Holdings Inc",
+   "move_pct": 8.58,
+   "price": 205.42,
+   "volume": 13430500,
+   "volume_vs_avg": "~2x",
+   "heat_score": 64,
+   "direction": "up",
+   "why": "CrowdStrike Holdings Inc (CRWD) (Q2 2027) Earnings Call Highlights: Record Net New ARR and AI ...",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-holdings-inc-crwd-q2-050108453.html",
+   "published": "2026-08-27T05:01:08Z",
+   "sector": "AI Software & Cloud Infrastructure"
+  },
+  {
+   "rank": 4,
+   "ticker": "NVDA",
+   "company": "NVIDIA Corp",
+   "move_pct": 6.95,
+   "price": 224.24,
+   "volume": 175233600,
+   "volume_vs_avg": "~1.5x",
+   "heat_score": 47,
+   "direction": "up",
+   "why": "Asian chip firms lifted by Nvidia forecast but broader markets struggle",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/asian-chip-firms-lifted-nvidia-024234685.html",
+   "published": "2026-08-27T07:26:47Z",
+   "sector": "AI Chips & Compute"
   }
  ]
 }

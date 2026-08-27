@@ -1,16 +1,16 @@
 {
-  "as_of_utc": "2026-08-27T18:13:03+00:00",
-  "as_of_local": "2026-08-27 18:13:03 UTC",
+  "as_of_utc": "2026-08-27T18:18:10+00:00",
+  "as_of_local": "2026-08-27 18:18:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 227.66,
+      "price": 227.5,
       "previous_close": 209.66,
-      "change_pct": 8.59,
-      "market_cap": 5514639689682.007,
+      "change_pct": 8.51,
+      "market_cap": 5510277500000.0,
       "headlines": [
         {
           "title": "Nvidia could hit a $13 trillion market cap, analyst says",
@@ -35,14 +35,14 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 427.08,
+      "price": 426.32,
       "previous_close": 417.69,
-      "change_pct": 2.25,
-      "market_cap": 2215143082608.0254,
+      "change_pct": 2.07,
+      "market_cap": 2211097639209.0303,
       "headlines": [
         {
           "title": "CBRS vs. AMD: Which Stock Leads the AI Infrastructure Boom?",
-          "url": "https://finance.yahoo.com/news/cbrs-vs-amd-stock-leads-180700258.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cbrs-vs-amd-stock-leads-180700258.html",
           "publisher": "Zacks",
           "published": "2026-08-27T18:07:00Z"
         },
@@ -63,11 +63,17 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 367.15,
+      "price": 367.4,
       "previous_close": 355.59,
-      "change_pct": 3.25,
-      "market_cap": 1746745976227.211,
+      "change_pct": 3.32,
+      "market_cap": 1748553444363.347,
       "headlines": [
+        {
+          "title": "Broadcom Rides AI Semiconductor Growth: Can it Beat NVDA & AMD?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-rides-ai-semiconductor-growth-180300132.html",
+          "publisher": "Zacks",
+          "published": "2026-08-27T18:03:00Z"
+        },
         {
           "title": "OpenAI Built an Nvidia-Beating Inference Chip in Nine Months. Broadcom (AVGO) Helped Make It Happen",
           "url": "https://finance.yahoo.com/technology/ai/articles/openai-built-nvidia-beating-inference-175825708.html",
@@ -79,22 +85,16 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-reasons-buy-broadcom-stock-174300612.html",
           "publisher": "Motley Fool",
           "published": "2026-08-27T17:43:00Z"
-        },
-        {
-          "title": "Broadcom Jumps Nearly 4% as AI Could Reach 54% of Sales",
-          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-jumps-nearly-4-ai-171049816.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-27T17:10:49Z"
         }
       ]
     },
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 912.41,
+      "price": 912.66,
       "previous_close": 938.4,
-      "change_pct": -2.77,
-      "market_cap": 1030480879534.2676,
+      "change_pct": -2.74,
+      "market_cap": 1030898749485.5225,
       "headlines": [
         {
           "title": "Why Nvidia probably just lit a new fire under these once-hot trades",
@@ -103,26 +103,26 @@
           "published": "2026-08-27T10:36:45Z"
         },
         {
-          "title": "Nvidia, Micron, Salesforce, Marvell, Veeva, Okta, Hormel, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-8aa1c4cd?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-08-27T16:30:00Z"
+          "title": "The Market Still Treats Micron Like a Boom-and-Bust Stock. That May Be Getting Outdated",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/market-still-treats-micron-boom-180923948.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-08-27T18:09:23Z"
         },
         {
-          "title": "Micron Should Benefit from Nvidia\u2019s Memory Price Warning. It\u2019s Dropping Instead.",
-          "url": "https://www.barrons.com/articles/micron-stock-price-memory-chips-nvidia-warning-70515f18?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-08-27T15:17:00Z"
+          "title": "Micron\u2019s Gross Margin Just Beat Nvidia\u2019s. Nvidia\u2019s Memory Problem Explains Why",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-gross-margin-just-beat-180617316.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-08-27T18:06:17Z"
         }
       ]
     },
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 471.63,
+      "price": 471.87,
       "previous_close": 480.93,
-      "change_pct": -1.93,
-      "market_cap": 769924212029.5295,
+      "change_pct": -1.88,
+      "market_cap": 770315990097.4705,
       "headlines": [
         {
           "title": "Nvidia crushed earnings but one analyst is rating it a \"sell\"",
@@ -131,26 +131,26 @@
           "published": "2026-08-26T21:01:18Z"
         },
         {
-          "title": "Anthropic Bet Tens of Billions on AMD. One Month Later, It Signed a $45 Billion Nvidia-Powered Lease",
-          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-bet-tens-billions-amd-175220772.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-08-27T17:52:20Z"
+          "title": "CBRS vs. AMD: Which Stock Leads the AI Infrastructure Boom?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cbrs-vs-amd-stock-leads-180700258.html",
+          "publisher": "Zacks",
+          "published": "2026-08-27T18:07:00Z"
         },
         {
-          "title": "AMD Insiders Dump $40 Million in Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-insiders-dump-40-million-165940463.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-27T16:59:40Z"
+          "title": "Broadcom Rides AI Semiconductor Growth: Can it Beat NVDA & AMD?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-rides-ai-semiconductor-growth-180300132.html",
+          "publisher": "Zacks",
+          "published": "2026-08-27T18:03:00Z"
         }
       ]
     },
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 90.45,
+      "price": 90.41,
       "previous_close": 88.24,
-      "change_pct": 2.5,
-      "market_cap": 475280307815.618,
+      "change_pct": 2.46,
+      "market_cap": 475114259780.975,
       "headlines": [
         {
           "title": "Tech stocks today: Tech stocks gain after Nvidia tops Q2 expectations",
@@ -175,10 +175,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 250.82,
+      "price": 251.23,
       "previous_close": 251.06,
-      "change_pct": -0.1,
-      "market_cap": 267875408898.83514,
+      "change_pct": 0.07,
+      "market_cap": 268307947015.57095,
       "headlines": [
         {
           "title": "AMD Stock Upgraded To Strong Buy. Here's Why.",
@@ -203,10 +203,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 244.51,
+      "price": 244.52,
       "previous_close": 245.11,
-      "change_pct": -0.25,
-      "market_cap": 219755740008.56735,
+      "change_pct": -0.24,
+      "market_cap": 219769220029.23657,
       "headlines": [
         {
           "title": "Jackson Hole Symposium kicks off, Marvell & dollar stores report earnings: What to Watch",
@@ -231,10 +231,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 164.75,
+      "price": 164.88,
       "previous_close": 163.72,
-      "change_pct": 0.63,
-      "market_cap": 175952290495.4115,
+      "change_pct": 0.71,
+      "market_cap": 176101818311.6991,
       "headlines": [
         {
           "title": "Google agrees to settle UK app developers' lawsuit for $353 million",
@@ -259,10 +259,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 224.82,
+      "price": 225.07,
       "previous_close": 223.15,
-      "change_pct": 0.75,
-      "market_cap": 56692809650.00601,
+      "change_pct": 0.86,
+      "market_cap": 56754592489.08557,
       "headlines": [
         {
           "title": "Why Is NXP (NXPI) Down 7.4% Since Last Earnings Report?",
@@ -287,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 119.79,
+      "price": 119.8,
       "previous_close": 119.34,
-      "change_pct": 0.37,
-      "market_cap": 17013096651.65039,
+      "change_pct": 0.39,
+      "market_cap": 17015227019.041992,
       "headlines": [
         {
           "title": "Stocks making big moves yesterday: Intuit, Xponential Fitness, Abercrombie and Fitch, Lattice Semiconductor, and Photronics",
@@ -315,10 +315,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 150.74,
+      "price": 150.73,
       "previous_close": 146.88,
-      "change_pct": 2.63,
-      "market_cap": 7661001264.276962,
+      "change_pct": 2.62,
+      "market_cap": 7664558444.07135,
       "headlines": [
         {
           "title": "AVAV Stock Gains As NASA Taps AeroVironment For Three Mars Helicopters For 2028 Mission \u2014 Here\u2019s What They\u2019ll Be Looking For Under The Martian Surface",
@@ -343,10 +343,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 96.67,
+      "price": 96.64,
       "previous_close": 95.7,
-      "change_pct": 1.01,
-      "market_cap": 3780276837.493515,
+      "change_pct": 0.98,
+      "market_cap": 3779299103.17099,
       "headlines": [
         {
           "title": "Synaptics' CEO Sold Stock After a 120,000-Share Vest. Here's What to Know.",
@@ -371,10 +371,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 28.15,
+      "price": 28.18,
       "previous_close": 27.63,
-      "change_pct": 1.88,
-      "market_cap": 792537116.0600739,
+      "change_pct": 2.01,
+      "market_cap": 793522504.2841034,
       "headlines": [
         {
           "title": "Bears are Losing Control Over Ceva (CEVA), Here's Why It's a 'Buy' Now",
@@ -401,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 55.74,
-      "change_pct": -1.16,
+      "price": 55.78,
+      "change_pct": -1.07,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -2.77,
-          "price": 912.41,
+          "change_pct": -2.74,
+          "price": 912.66,
           "currency": "USD"
         },
         {
@@ -446,7 +446,7 @@
           "short": "Sandisk",
           "weight_pct": 5.05,
           "change_pct": -1.5,
-          "price": 1476.91,
+          "price": 1476.83,
           "currency": "USD"
         },
         {
@@ -454,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -2.23,
-          "price": 827.5,
+          "change_pct": -2.03,
+          "price": 829.17,
           "currency": "USD"
         },
         {
@@ -491,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 55.74,
-    "change_pct": -1.16,
+    "price": 55.78,
+    "change_pct": -1.07,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -2.77,
-        "price": 912.41,
+        "change_pct": -2.74,
+        "price": 912.66,
         "currency": "USD"
       },
       {
@@ -536,7 +536,7 @@
         "short": "Sandisk",
         "weight_pct": 5.05,
         "change_pct": -1.5,
-        "price": 1476.91,
+        "price": 1476.83,
         "currency": "USD"
       },
       {
@@ -544,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -2.23,
-        "price": 827.5,
+        "change_pct": -2.03,
+        "price": 829.17,
         "currency": "USD"
       },
       {
@@ -580,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7721.52,
-      "change_pct": 0.6
+      "price": 7720.76,
+      "change_pct": 0.59
     },
     {
       "label": "BTC",
-      "price": 80303.9,
-      "change_pct": 1.62
+      "price": 79908.01,
+      "change_pct": 1.11
     },
     {
       "label": "Gold",
-      "price": 4657.2,
-      "change_pct": 1.28
+      "price": 4661.4,
+      "change_pct": 1.37
     },
     {
       "label": "Nasdaq100",
-      "price": 29516.58,
-      "change_pct": 1.0
+      "price": 29510.39,
+      "change_pct": 0.98
     }
   ]
 }

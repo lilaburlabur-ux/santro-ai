@@ -4,8 +4,8 @@ Signed file: `QCOM.research.27.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $163.72 (2026-08-27, ~15-min delayed) |
-| Market cap | $174.86B |
+| Current price | $164.78 (2026-08-27, ~15-min delayed) |
+| Market cap | $176.00B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `QCOM.research.27.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +6.87%; price -2.02% vs SMA200. |
-| Fresh setup quality | Poor / broken | -34.54% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +5.71%; price -1.38% vs SMA200. |
+| Fresh setup quality | Poor / broken | -34.11% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 21.01%, revenue growth -4.00%. |
-| Value attractiveness | Reasonable | Forward P/E 16.05, EV/Sales 4.06. |
-| Risk level | Elevated | Beta 1.66, ATR 3.9% of price, short float 3.48%. |
+| Value attractiveness | Reasonable | Forward P/E 16.15, EV/Sales 4.06. |
+| Risk level | Elevated | Beta 1.66, ATR 3.8% of price, short float 3.48%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| Google agrees to settle UK app developers' lawsuit for $353 million | Reuters | 2026-08-27 |
+| Micron Spent The Memory Shortage Signing Multiyear Contracts | Trefis | 2026-08-27 |
+| Broadcom Looks Expensive Until You Price The Order Book | Trefis | 2026-08-27 |
 | Qualcomm Targets AI Memory Bottleneck With HPC Technology Roadmap | MarketBeat | 2026-08-27 |
-| Qualcomm's Costs Are Inside The Guidance And Its Replacement Growth Is Not | Trefis | 2026-08-26 |
-| Can Qualcomm Capitalize on Soaring Edge AI Demand With VENTUNO Q? | Zacks | 2026-08-26 |
-| The Options Market Says Micron Stock Can Halve Or Double From Here | Trefis | 2026-08-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $163.72; 52w high $250.10 (-34.54%); 52w low $123.61 (+32.45%) |
-| Trend | -2.02% vs SMA200, -6.70% vs SMA50, +2.12% vs SMA20 |
-| Momentum | RSI(14) 48.0 (neutral) |
-| Volatility | ATR(14) 6.39 (~3.9% of price); beta 1.66 |
-| Setup perspective | -34.54% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $164.78; 52w high $250.10 (-34.11%); 52w low $123.61 (+33.30%) |
+| Trend | -1.38% vs SMA200, -5.56% vs SMA50, +2.36% vs SMA20 |
+| Momentum | RSI(14) 49.2 (neutral) |
+| Volatility | ATR(14) 6.29 (~3.8% of price); beta 1.66 |
+| Setup perspective | -34.11% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.1% |
-| Month | +0.5% |
-| Quarter | -29.6% |
-| Half Y | +13.4% |
-| 1Y | +6.9% |
-| YTD | -4.4% |
+| Week | +2.5% |
+| Month | +5.8% |
+| Quarter | -32.0% |
+| Half Y | +14.3% |
+| 1Y | +5.7% |
+| YTD | -3.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $44.07B | Revenue growth -4.00% y/y |
 | Profitability | Gross 54.23%, operating 18.53%, net 21.01% | ROA 11.61%, ROE 33.75% |
 | Balance sheet | Cash $8.30B, debt $15.27B | Current ratio 2.02, debt/equity 55.21 |
-| Valuation | P/E 18.71, forward P/E 16.05, P/S 3.97, P/B 6.26 | EV/Sales 4.06, EV/EBITDA 14.91 |
+| Valuation | P/E 18.85, forward P/E 16.15, P/S 3.99, P/B 6.30 | EV/Sales 4.06, EV/EBITDA 14.91 |
 | Growth expectations | Earnings growth -23.00%, EPS q/q -24.90% | Analyst mean target $193.10 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | NORGES BANK | 16,209,022 | 1.54% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.66, ATR 3.9% of price, short float 3.48%. Size positions accordingly.
+- **Volatility risk:** Beta 1.66, ATR 3.8% of price, short float 3.48%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,21 +111,21 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $163.72 | EV/Sales | 4.06 |
-| Market cap | $174.86B | EV/EBITDA | 14.91 |
+| Price | $164.78 | EV/Sales | 4.06 |
+| Market cap | $176.00B | EV/EBITDA | 14.91 |
 | Beta | 1.66 | Gross margin | 54.23% |
-| RSI(14) | 48.0 | Operating margin | 18.53% |
-| ATR(14) | 6.39 | Profit margin | 21.01% |
-| SMA20 dist | +2.12% | ROA | 11.61% |
-| SMA50 dist | -6.70% | ROE | 33.75% |
-| SMA200 dist | -2.02% | Revenue (ttm) | $44.07B |
+| RSI(14) | 49.2 | Operating margin | 18.53% |
+| ATR(14) | 6.29 | Profit margin | 21.01% |
+| SMA20 dist | +2.36% | ROA | 11.61% |
+| SMA50 dist | -5.56% | ROE | 33.75% |
+| SMA200 dist | -1.38% | Revenue (ttm) | $44.07B |
 | 52W high | $250.10 | Revenue growth y/y | -4.00% |
 | 52W low | $123.61 | Inst. ownership | 83.37% |
-| P/E (ttm) | 18.71 | Insider ownership | 0.12% |
-| Forward P/E | 16.05 | Short float | 3.48% |
-| PEG (trailing) | 0.71 | Avg volume | 16,149,604 |
-| P/S | 3.97 | Employees | 52,000 |
-| P/B | 6.26 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/E (ttm) | 18.85 | Insider ownership | 0.12% |
+| Forward P/E | 16.15 | Short float | 3.48% |
+| PEG (trailing) | 0.72 | Avg volume | 15,907,884 |
+| P/S | 3.99 | Employees | 52,000 |
+| P/B | 6.30 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

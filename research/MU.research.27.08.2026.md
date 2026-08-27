@@ -4,8 +4,8 @@ Signed file: `MU.research.27.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $938.40 (2026-08-27, ~15-min delayed) |
-| Market cap | — |
+| Current price | $935.39 (2026-08-27, ~15-min delayed) |
+| Market cap | $1.06T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `MU.research.27.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +707.34%; price +61.41% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -22.66% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +704.20%; price +59.93% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -22.91% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 55.91%, revenue growth 345.70%. |
-| Value attractiveness | Reasonable | Forward P/E 6.05, EV/Sales 11.46. |
+| Value attractiveness | Reasonable | Forward P/E 6.03, EV/Sales 11.52. |
 | Risk level | High | Beta 2.21, ATR 6.6% of price, short float 2.66%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -36,30 +36,30 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
-| Why the sustainability of the AI boom could be in focus after Nvidia's earnings call | Yahoo Finance Video | 2026-08-26 |
-| 4 reasons Nvidia stock is lagging | Yahoo Finance | 2026-08-26 |
-| Q3 Earnings Outlook: Positive Revisions & Broad-Based Growth | Zacks | 2026-08-26 |
-| Prediction: Micron Stock Will Reach $1,300 by the End of 2026 | Motley Fool | 2026-08-26 |
+| Why Nvidia probably just lit a new fire under these once-hot trades | Yahoo Finance | 2026-08-27 |
+| Micron's Nvidia Rally Vanishes as Memory Scarcity Cuts Both Ways | GuruFocus.com | 2026-08-27 |
+| Nvidia, Micron, Salesforce, Marvell, Veeva, Okta, Hormel, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-27 |
+| Micron Lags Despite NVIDIA’s $279B Memory Commitment; Western Digital Drops 4%, SK Hynix Ticks Up | 24/7 Wall St. | 2026-08-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $938.40; 52w high $1,213.37 (-22.66%); 52w low $116.31 (+706.79%) |
-| Trend | +61.41% vs SMA200, -2.14% vs SMA50, +2.86% vs SMA20 |
-| Momentum | RSI(14) 51.3 (neutral) |
-| Volatility | ATR(14) 62.23 (~6.6% of price); beta 2.21 |
-| Setup perspective | -22.66% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $935.39; 52w high $1,213.37 (-22.91%); 52w low $117.56 (+695.66%) |
+| Trend | +59.93% vs SMA200, -2.28% vs SMA50, +2.19% vs SMA20 |
+| Momentum | RSI(14) 51.0 (neutral) |
+| Volatility | ATR(14) 62.19 (~6.6% of price); beta 2.21 |
+| Setup perspective | -22.91% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.1% |
-| Month | +14.4% |
-| Quarter | +1.1% |
-| Half Y | +118.9% |
-| 1Y | +707.3% |
-| YTD | +197.7% |
+| Week | -4.0% |
+| Month | +26.6% |
+| Quarter | +1.3% |
+| Half Y | +125.2% |
+| 1Y | +704.2% |
+| YTD | +196.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
-| Valuation | P/E 21.10, forward P/E 6.05, P/S —, P/B 10.52 | EV/Sales 11.46, EV/EBITDA 15.16 |
+| Valuation | P/E 21.16, forward P/E 6.03, P/S 11.70, P/B 10.48 | EV/Sales 11.52, EV/EBITDA 15.25 |
 | Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,513.41 (44 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $938.40 | EV/Sales | 11.46 |
-| Market cap | — | EV/EBITDA | 15.16 |
+| Price | $935.39 | EV/Sales | 11.52 |
+| Market cap | $1.06T | EV/EBITDA | 15.25 |
 | Beta | 2.21 | Gross margin | 72.57% |
-| RSI(14) | 51.3 | Operating margin | 80.37% |
-| ATR(14) | 62.23 | Profit margin | 55.91% |
-| SMA20 dist | +2.86% | ROA | 34.87% |
-| SMA50 dist | -2.14% | ROE | 66.64% |
-| SMA200 dist | +61.41% | Revenue (ttm) | $90.27B |
+| RSI(14) | 51.0 | Operating margin | 80.37% |
+| ATR(14) | 62.19 | Profit margin | 55.91% |
+| SMA20 dist | +2.19% | ROA | 34.87% |
+| SMA50 dist | -2.28% | ROE | 66.64% |
+| SMA200 dist | +59.93% | Revenue (ttm) | $90.27B |
 | 52W high | $1,213.37 | Revenue growth y/y | 345.70% |
-| 52W low | $116.31 | Inst. ownership | 79.99% |
-| P/E (ttm) | 21.10 | Insider ownership | 0.24% |
-| Forward P/E | 6.05 | Short float | 2.66% |
-| PEG (trailing) | 0.14 | Avg volume | 47,144,060 |
-| P/S | — | Employees | 53,000 |
-| P/B | 10.52 | Analyst rec (1=buy..5=sell) | 1.4 |
+| 52W low | $117.56 | Inst. ownership | 79.99% |
+| P/E (ttm) | 21.16 | Insider ownership | 0.24% |
+| Forward P/E | 6.03 | Short float | 2.66% |
+| PEG (trailing) | 0.14 | Avg volume | 46,288,896 |
+| P/S | 11.70 | Employees | 53,000 |
+| P/B | 10.48 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `TSM.research.27.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $417.69 (2026-08-27, ~15-min delayed) |
-| Market cap | $2.17T |
+| Current price | $427.30 (2026-08-27, ~15-min delayed) |
+| Market cap | $2.22T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `TSM.research.27.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +79.26%; price +13.77% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -12.54% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +80.98%; price +16.16% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -10.53% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 49.92%, revenue growth 36.00%. |
-| Value attractiveness | Reasonable | Forward P/E 19.18, EV/Sales 3.36. |
-| Risk level | Elevated | Beta 1.26, ATR 3.1% of price, short float 0.62%. |
+| Value attractiveness | Reasonable | Forward P/E 19.62, EV/Sales 3.36. |
+| Risk level | Elevated | Beta 1.26, ATR 3.0% of price, short float 0.62%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
-| Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers | Investor's Business Daily | 2026-08-27 |
-| Sony Group (SONY) and Taiwan Semiconductor (TSM) Are Betting $4.7 Billion on the “Eyes” of AI Machines | Insider Monkey | 2026-08-26 |
-| TSMC's July Surge Raises the Bar for Nvidia's Foundry | GuruFocus.com | 2026-08-26 |
-| Tesla Just Lost Its Top Chip Engineer to Another Firm. Consider It a Manageable Setback for TSLA Stock. | Barchart | 2026-08-26 |
+| Amkor 'Underappreciated Beneficiary' of Advanced Semiconductor Packaging, BofA Says | MT Newswires | 2026-08-27 |
+| CBRS vs. AMD: Which Stock Leads the AI Infrastructure Boom? | Zacks | 2026-08-27 |
+| OpenAI Built an Nvidia-Beating Inference Chip in Nine Months. Broadcom (AVGO) Helped Make It Happen | Insider Monkey | 2026-08-27 |
+| TSMC ADRs Jump 2% as Nvidia Extends the Foundry Runway | GuruFocus.com | 2026-08-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $417.69; 52w high $477.57 (-12.54%); 52w low $225.89 (+84.91%) |
-| Trend | +13.77% vs SMA200, -1.42% vs SMA50, +0.09% vs SMA20 |
-| Momentum | RSI(14) 50.1 (neutral) |
-| Volatility | ATR(14) 12.88 (~3.1% of price); beta 1.26 |
-| Setup perspective | -12.54% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $427.30; 52w high $477.57 (-10.53%); 52w low $225.89 (+89.16%) |
+| Trend | +16.16% vs SMA200, +0.84% vs SMA50, +2.10% vs SMA20 |
+| Momentum | RSI(14) 55.2 (neutral) |
+| Volatility | ATR(14) 12.81 (~3.0% of price); beta 1.26 |
+| Setup perspective | -10.53% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.4% |
-| Month | +6.5% |
-| Quarter | -1.0% |
-| Half Y | +8.3% |
-| 1Y | +79.3% |
-| YTD | +31.4% |
+| Week | +2.7% |
+| Month | +14.0% |
+| Quarter | +0.8% |
+| Half Y | +14.0% |
+| 1Y | +81.0% |
+| YTD | +34.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.44T | Revenue growth 36.00% y/y |
 | Profitability | Gross 64.23%, operating 60.34%, net 49.92% | ROA 19.00%, ROE 39.97% |
 | Balance sheet | Cash $3.52T, debt $1.07T | Current ratio 2.46, debt/equity 16.50 |
-| Valuation | P/E 31.06, forward P/E 19.18, P/S 0.49, P/B 85.98 | EV/Sales 3.36, EV/EBITDA 4.71 |
+| Valuation | P/E 31.86, forward P/E 19.62, P/S 0.50, P/B 89.11 | EV/Sales 3.36, EV/EBITDA 4.71 |
 | Growth expectations | Earnings growth 77.40%, EPS q/q 77.40% | Analyst mean target $554.45 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Bank of America Corporation | 15,282,620 | 0.29% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.26, ATR 3.1% of price, short float 0.62%. Size positions accordingly.
+- **Volatility risk:** Beta 1.26, ATR 3.0% of price, short float 0.62%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $417.69 | EV/Sales | 3.36 |
-| Market cap | $2.17T | EV/EBITDA | 4.71 |
+| Price | $427.30 | EV/Sales | 3.36 |
+| Market cap | $2.22T | EV/EBITDA | 4.71 |
 | Beta | 1.26 | Gross margin | 64.23% |
-| RSI(14) | 50.1 | Operating margin | 60.34% |
-| ATR(14) | 12.88 | Profit margin | 49.92% |
-| SMA20 dist | +0.09% | ROA | 19.00% |
-| SMA50 dist | -1.42% | ROE | 39.97% |
-| SMA200 dist | +13.77% | Revenue (ttm) | $4.44T |
+| RSI(14) | 55.2 | Operating margin | 60.34% |
+| ATR(14) | 12.81 | Profit margin | 49.92% |
+| SMA20 dist | +2.10% | ROA | 19.00% |
+| SMA50 dist | +0.84% | ROE | 39.97% |
+| SMA200 dist | +16.16% | Revenue (ttm) | $4.44T |
 | 52W high | $477.57 | Revenue growth y/y | 36.00% |
 | 52W low | $225.89 | Inst. ownership | 15.49% |
-| P/E (ttm) | 31.06 | Insider ownership | 0.01% |
-| Forward P/E | 19.18 | Short float | 0.62% |
-| PEG (trailing) | 1.00 | Avg volume | 13,517,487 |
-| P/S | 0.49 | Employees | 76,907 |
-| P/B | 85.98 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/E (ttm) | 31.86 | Insider ownership | 0.01% |
+| Forward P/E | 19.62 | Short float | 0.62% |
+| PEG (trailing) | 1.00 | Avg volume | 13,401,671 |
+| P/S | 0.50 | Employees | 76,907 |
+| P/B | 89.11 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

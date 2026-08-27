@@ -4,8 +4,8 @@ Signed file: `INTC.research.27.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $88.24 (2026-08-27, ~15-min delayed) |
-| Market cap | $466.45B |
+| Current price | $92.09 (2026-08-27, ~15-min delayed) |
+| Market cap | $486.80B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, weak fundamentals, value: low (expensive), risk: high. |
@@ -15,11 +15,11 @@ Signed file: `INTC.research.27.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +259.43%; price +22.12% vs SMA200. |
-| Fresh setup quality | Poor / broken | -37.39% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +278.19%; price +26.97% vs SMA200. |
+| Fresh setup quality | Poor / broken | -34.66% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-19.79%). |
-| Value attractiveness | Low (expensive) | Forward P/E 43.25, EV/Sales 8.44. |
-| Risk level | High | Beta 2.24, ATR 6.7% of price, short float 2.57%. |
+| Value attractiveness | Low (expensive) | Forward P/E 45.14, EV/Sales 8.44. |
+| Risk level | High | Beta 2.24, ATR 6.3% of price, short float 2.57%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: low (expensive), risk: high.
 
@@ -36,30 +36,30 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia is looking more like the central bank of AI | Yahoo Finance | 2026-08-26 |
-| 4 reasons Nvidia stock is lagging | Yahoo Finance | 2026-08-26 |
-| Is Intel (INTC) Stock Above Fair Value Or Still Below It? | Simply Wall St. | 2026-08-26 |
-| Nvidia, Meta, Revolution Medicines, Abercrombie, Intuit, Salesforce, Moderna, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-26 |
+| Tech stocks today: Tech stocks gain after Nvidia tops Q2 expectations | Yahoo Finance | 2026-08-24 |
+| NVIDIA Is Now Up 20% in a Month: Take Profits, or Buy More? | 24/7 Wall St. | 2026-08-27 |
+| Chip Stocks Rise After Nvidia's Blowout Earnings Spark Tech Rally | GuruFocus.com | 2026-08-27 |
+| AI’s rally is disguising a massive slump in tech stocks | CNN Business | 2026-08-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $88.24; 52w high $140.94 (-37.39%); 52w low $24.00 (+267.67%) |
-| Trend | +22.12% vs SMA200, -16.80% vs SMA50, -7.94% vs SMA20 |
-| Momentum | RSI(14) 38.7 (neutral) |
-| Volatility | ATR(14) 5.89 (~6.7% of price); beta 2.24 |
-| Setup perspective | -37.39% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $92.09; 52w high $140.94 (-34.66%); 52w low $24.00 (+283.71%) |
+| Trend | +26.97% vs SMA200, -12.76% vs SMA50, -3.98% vs SMA20 |
+| Momentum | RSI(14) 44.3 (neutral) |
+| Volatility | ATR(14) 5.81 (~6.3% of price); beta 2.24 |
+| Setup perspective | -34.66% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.9% |
-| Month | +2.2% |
-| Quarter | -27.5% |
-| Half Y | +88.2% |
-| 1Y | +259.4% |
-| YTD | +124.1% |
+| Week | -0.0% |
+| Month | +12.5% |
+| Quarter | -23.8% |
+| Half Y | +102.6% |
+| 1Y | +278.2% |
+| YTD | +133.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $57.03B | Revenue growth 25.40% y/y |
 | Profitability | Gross 38.87%, operating 12.19%, net -19.79% | ROA 1.41%, ROE -10.71% |
 | Balance sheet | Cash $29.73B, debt $50.54B | Current ratio 1.60, debt/equity 49.00 |
-| Valuation | P/E —, forward P/E 43.25, P/S 8.18, P/B 5.08 | EV/Sales 8.44, EV/EBITDA 28.59 |
+| Valuation | P/E —, forward P/E 45.14, P/S 8.54, P/B 5.31 | EV/Sales 8.44, EV/EBITDA 28.59 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $114.88 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Primecap Management Company | 75,250,958 | 1.49% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 43.25, EV/Sales 8.44. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.24, ATR 6.7% of price, short float 2.57%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 45.14, EV/Sales 8.44. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.24, ATR 6.3% of price, short float 2.57%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -113,21 +113,21 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $88.24 | EV/Sales | 8.44 |
-| Market cap | $466.45B | EV/EBITDA | 28.59 |
+| Price | $92.09 | EV/Sales | 8.44 |
+| Market cap | $486.80B | EV/EBITDA | 28.59 |
 | Beta | 2.24 | Gross margin | 38.87% |
-| RSI(14) | 38.7 | Operating margin | 12.19% |
-| ATR(14) | 5.89 | Profit margin | -19.79% |
-| SMA20 dist | -7.94% | ROA | 1.41% |
-| SMA50 dist | -16.80% | ROE | -10.71% |
-| SMA200 dist | +22.12% | Revenue (ttm) | $57.03B |
+| RSI(14) | 44.3 | Operating margin | 12.19% |
+| ATR(14) | 5.81 | Profit margin | -19.79% |
+| SMA20 dist | -3.98% | ROA | 1.41% |
+| SMA50 dist | -12.76% | ROE | -10.71% |
+| SMA200 dist | +26.97% | Revenue (ttm) | $57.03B |
 | 52W high | $140.94 | Revenue growth y/y | 25.40% |
 | 52W low | $24.00 | Inst. ownership | 62.53% |
 | P/E (ttm) | — | Insider ownership | 13.99% |
-| Forward P/E | 43.25 | Short float | 2.57% |
-| PEG (trailing) | — | Avg volume | 118,916,674 |
-| P/S | 8.18 | Employees | 85,100 |
-| P/B | 5.08 | Analyst rec (1=buy..5=sell) | 2.5 |
+| Forward P/E | 45.14 | Short float | 2.57% |
+| PEG (trailing) | — | Avg volume | 118,626,371 |
+| P/S | 8.54 | Employees | 85,100 |
+| P/B | 5.31 | Analyst rec (1=buy..5=sell) | 2.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

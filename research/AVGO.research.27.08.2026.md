@@ -4,8 +4,8 @@ Signed file: `AVGO.research.27.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $355.59 (2026-08-27, ~15-min delayed) |
-| Market cap | $1.69T |
+| Current price | $371.54 (2026-08-27, ~15-min delayed) |
+| Market cap | $1.77T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `AVGO.research.27.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +21.74%; price -3.46% vs SMA200. |
-| Fresh setup quality | Poor / broken | -26.04% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +25.59%; price +0.83% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -22.73% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 38.85%, revenue growth 47.90%. |
-| Value attractiveness | Reasonable | Forward P/E 18.24, EV/Sales 23.04. |
-| Risk level | Elevated | Beta 1.47, ATR 3.9% of price, short float 1.20%. |
+| Value attractiveness | Reasonable | Forward P/E 19.05, EV/Sales 23.02. |
+| Risk level | Elevated | Beta 1.47, ATR 3.8% of price, short float 1.20%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
-| Is Nvidia's AI data center dominance slipping as the market expands? | Yahoo Finance Video | 2026-08-26 |
-| Nvidia, Meta, Revolution Medicines, Abercrombie, Intuit, Salesforce, Moderna, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-26 |
-| Nvidia's Second-Quarter Results More Than Double Amid Record Data Center Sales | MT Newswires | 2026-08-26 |
-| NVDA vs. AVGO: Which AI Chip Giant Actually Wins for Retirement Portfolios in 2026? | 24/7 Wall St. | 2026-08-26 |
+| NVIDIA Is Now Up 20% in a Month: Take Profits, or Buy More? | 24/7 Wall St. | 2026-08-27 |
+| 8-27-2026: Nvidia Surge, Oil Relief + Jackson Hole in Focus | NYSE | 2026-08-27 |
+| Chip Stocks Rise After Nvidia's Blowout Earnings Spark Tech Rally | GuruFocus.com | 2026-08-27 |
+| Cathie Wood Sends a $20 Million Signal on Broadcom Stock | GuruFocus.com | 2026-08-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $355.59; 52w high $480.81 (-26.04%); 52w low $292.95 (+21.38%) |
-| Trend | -3.46% vs SMA200, -8.03% vs SMA50, -9.50% vs SMA20 |
-| Momentum | RSI(14) 34.4 (neutral) |
-| Volatility | ATR(14) 14.01 (~3.9% of price); beta 1.47 |
-| Setup perspective | -26.04% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $371.54; 52w high $480.81 (-22.73%); 52w low $292.95 (+26.83%) |
+| Trend | +0.83% vs SMA200, -3.89% vs SMA50, -5.24% vs SMA20 |
+| Momentum | RSI(14) 43.9 (neutral) |
+| Volatility | ATR(14) 14.17 (~3.8% of price); beta 1.47 |
+| Setup perspective | -22.73% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.9% |
-| Month | -6.6% |
-| Quarter | -15.6% |
-| Half Y | +7.4% |
-| 1Y | +21.7% |
-| YTD | +2.7% |
+| Week | +2.1% |
+| Month | +0.3% |
+| Quarter | -12.8% |
+| Half Y | +15.9% |
+| 1Y | +25.6% |
+| YTD | +7.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,8 +68,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $75.46B | Revenue growth 47.90% y/y |
 | Profitability | Gross 76.28%, operating 48.99%, net 38.85% | ROA 12.12%, ROE 37.28% |
 | Balance sheet | Cash $19.63B, debt $64.91B | Current ratio 2.24, debt/equity 74.02 |
-| Valuation | P/E 59.36, forward P/E 18.24, P/S 22.42, P/B 19.29 | EV/Sales 23.04, EV/EBITDA 41.31 |
-| Growth expectations | Earnings growth 85.40%, EPS q/q 87.50% | Analyst mean target $526.30 (46 analysts) |
+| Valuation | P/E 61.82, forward P/E 19.05, P/S 23.42, P/B 20.16 | EV/Sales 23.02, EV/EBITDA 41.27 |
+| Growth expectations | Earnings growth 85.40%, EPS q/q 87.50% | Analyst mean target $525.97 (46 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -95,8 +95,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Price (T.Rowe) Associates Inc | 82,851,970 | 1.74% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.47, ATR 3.9% of price, short float 1.20%. Size positions accordingly.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
+- **Volatility risk:** Beta 1.47, ATR 3.8% of price, short float 1.20%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -111,21 +110,21 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $355.59 | EV/Sales | 23.04 |
-| Market cap | $1.69T | EV/EBITDA | 41.31 |
+| Price | $371.54 | EV/Sales | 23.02 |
+| Market cap | $1.77T | EV/EBITDA | 41.27 |
 | Beta | 1.47 | Gross margin | 76.28% |
-| RSI(14) | 34.4 | Operating margin | 48.99% |
-| ATR(14) | 14.01 | Profit margin | 38.85% |
-| SMA20 dist | -9.50% | ROA | 12.12% |
-| SMA50 dist | -8.03% | ROE | 37.28% |
-| SMA200 dist | -3.46% | Revenue (ttm) | $75.46B |
+| RSI(14) | 43.9 | Operating margin | 48.99% |
+| ATR(14) | 14.17 | Profit margin | 38.85% |
+| SMA20 dist | -5.24% | ROA | 12.12% |
+| SMA50 dist | -3.89% | ROE | 37.28% |
+| SMA200 dist | +0.83% | Revenue (ttm) | $75.46B |
 | 52W high | $480.81 | Revenue growth y/y | 47.90% |
 | 52W low | $292.95 | Inst. ownership | 80.15% |
-| P/E (ttm) | 59.36 | Insider ownership | 1.95% |
-| Forward P/E | 18.24 | Short float | 1.20% |
-| PEG (trailing) | 0.40 | Avg volume | 26,133,290 |
-| P/S | 22.42 | Employees | 33,000 |
-| P/B | 19.29 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/E (ttm) | 61.82 | Insider ownership | 1.95% |
+| Forward P/E | 19.05 | Short float | 1.20% |
+| PEG (trailing) | 0.40 | Avg volume | 26,155,823 |
+| P/S | 23.42 | Employees | 33,000 |
+| P/B | 20.16 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

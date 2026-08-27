@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Marvell Technology Tops Second-Quarter Expectations on Data Center Revenue Surge | MT Newswires | 2026-08-27 |
 | NVIDIA Is Now Up 20% in a Month: Take Profits, or Buy More? | 24/7 Wall St. | 2026-08-27 |
 | 8-27-2026: Nvidia Surge, Oil Relief + Jackson Hole in Focus | NYSE | 2026-08-27 |
 | Chip Stocks Rise After Nvidia's Blowout Earnings Spark Tech Rally | GuruFocus.com | 2026-08-27 |
-| Cathie Wood Sends a $20 Million Signal on Broadcom Stock | GuruFocus.com | 2026-08-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

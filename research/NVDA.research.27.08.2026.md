@@ -36,7 +36,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Inside Nvidia and SpaceX’s growing relationship | Yahoo Finance Video | 2026-08-27 |
+| Just how big of a problem area is China for Nvidia? | Yahoo Finance Video | 2026-08-27 |
 | Nvidia says it's building an ecosystem that can't fail | Yahoo Finance | 2026-08-27 |
 | Nvidia posted a blowout quarter. China remains a quagmire. | Yahoo Finance | 2026-08-27 |
 | Dividends could be the next big Nvidia stock catalyst, just like they were for Apple | Yahoo Finance | 2026-08-27 |

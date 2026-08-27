@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Tech stocks today: Tech stocks gain after Nvidia tops Q2 expectations | Yahoo Finance | 2026-08-24 |
+| Chipmakers are outshining Big Tech in the AI rally | CNN Business | 2026-08-27 |
 | NVIDIA Is Now Up 20% in a Month: Take Profits, or Buy More? | 24/7 Wall St. | 2026-08-27 |
 | Chip Stocks Rise After Nvidia's Blowout Earnings Spark Tech Rally | GuruFocus.com | 2026-08-27 |
-| AI’s rally is disguising a massive slump in tech stocks | CNN Business | 2026-08-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

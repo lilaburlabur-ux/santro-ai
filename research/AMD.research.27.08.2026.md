@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia crushed earnings but one analyst is rating it a "sell" | Yahoo Finance Video | 2026-08-26 |
 | NVIDIA Is Now Up 20% in a Month: Take Profits, or Buy More? | 24/7 Wall St. | 2026-08-27 |
 | Cathie Wood Sends a $20 Million Signal on Broadcom Stock | GuruFocus.com | 2026-08-27 |
 | Cathie Wood’s ARK Just Dumped AMD Stock. What She’s Buying Instead. | Barrons.com | 2026-08-27 |
+| NVIDIA vs. AMD: Only One AI Stock Is a Solid Buy Now | Zacks | 2026-08-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

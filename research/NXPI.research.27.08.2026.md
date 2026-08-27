@@ -37,9 +37,9 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Headline | Source | Date |
 |---|---|---|
 | Why Is NXP (NXPI) Down 7.4% Since Last Earnings Report? | Zacks | 2026-08-27 |
+| Stocks Supported by Strong Tech Earnings | Barchart | 2026-08-27 |
 | Get Paid 12% A Year To Let Someone Else Chase ADI Stock Higher | Trefis | 2026-08-25 |
 | Reading Between The Lines Of ADI's Latest Call | Trefis | 2026-08-25 |
-| Why the China-Led Weakness in NXP Semiconductors Stock Could Open Doors for Speculators | Barchart | 2026-08-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

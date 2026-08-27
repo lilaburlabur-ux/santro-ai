@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-27T09:50:45+00:00",
-  "as_of_local": "2026-08-27 09:50:45 UTC",
+  "as_of_utc": "2026-08-27T09:55:54+00:00",
+  "as_of_local": "2026-08-27 09:55:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -579,14 +579,19 @@
   },
   "tape": [
     {
+      "label": "SPX",
+      "price": 7675.7,
+      "change_pct": -0.02
+    },
+    {
       "label": "BTC",
-      "price": 80165.63,
-      "change_pct": 1.44
+      "price": 80044.05,
+      "change_pct": 1.29
     },
     {
       "label": "Gold",
-      "price": 4637.2,
-      "change_pct": 0.85
+      "price": 4636.4,
+      "change_pct": 0.83
     },
     {
       "label": "Nasdaq100",

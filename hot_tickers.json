@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-28T00:11:19+00:00",
+  "as_of": "2026-08-28T00:26:26+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -84,8 +84,40 @@
    "why": "Dow Jones Futures Fall With Fed Chief Warsh Due; Nvidia, These 7 Stocks Are In Buy Zones",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-chief-warsh-speech-nvidia-jumps-software-sector-on-fire/?src=A00220&yptr=yahoo",
-   "published": "2026-08-27T23:48:42Z",
+   "published": "2026-08-28T00:06:30Z",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 6,
+   "ticker": "NOW",
+   "company": "ServiceNow Inc",
+   "move_pct": 10.04,
+   "price": 138.43,
+   "volume": 27707048,
+   "volume_vs_avg": "~1.3x",
+   "heat_score": 66,
+   "direction": "up",
+   "why": "ServiceNow Says AI Is Driving Growth, Not Budget Pressure",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/servicenow-says-ai-driving-growth-000247222.html",
+   "published": "2026-08-28T00:02:47Z",
+   "sector": "AI Applications & Data Software"
+  },
+  {
+   "rank": 7,
+   "ticker": "AI",
+   "company": "C3.ai Inc",
+   "move_pct": 6.49,
+   "price": 10.33,
+   "volume": 5137567,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 43,
+   "direction": "up",
+   "why": "C3.ai vs. Oracle: Which Artificial Intelligence Stock Is a Better Investment in 2026?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/c3-ai-vs-oracle-artificial-235659206.html",
+   "published": "2026-08-27T23:56:59Z",
+   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

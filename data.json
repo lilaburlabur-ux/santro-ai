@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-28T23:01:22+00:00",
-  "as_of_local": "2026-08-28 23:01:22 UTC",
+  "as_of_utc": "2026-08-28T23:06:23+00:00",
+  "as_of_local": "2026-08-28 23:06:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -113,34 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ai-fund-crushing-qqq-nvidia-210517610.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-28T21:05:17Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 465.58,
-      "previous_close": 476.67,
-      "change_pct": -2.33,
-      "market_cap": 760047708133.9187,
-      "headlines": [
-        {
-          "title": "This AI Fund Is Crushing QQQ, and Nvidia Is Barely 2% of It",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-fund-crushing-qqq-nvidia-210517610.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-28T21:05:17Z"
-        },
-        {
-          "title": "History Says the Nasdaq-100 Does This in September. AI Investors Should Take Note.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/history-says-nasdaq-100-does-201700725.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-28T20:17:00Z"
-        },
-        {
-          "title": "Broadcom vs. AMD: Which AI Chip Stock Has the Better Risk-Reward?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-vs-amd-ai-chip-190000795.html",
-          "publisher": "Zacks",
-          "published": "2026-08-28T19:00:00Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 77735.99,
-      "change_pct": -3.14
+      "price": 77684.98,
+      "change_pct": -3.21
     },
     {
       "label": "Gold",

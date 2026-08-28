@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-28T12:34:15+00:00",
+  "as_of": "2026-08-28T12:49:19+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,32 +11,32 @@
    "rank": 1,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
-   "move_pct": -7.64,
-   "price": 223.0,
+   "move_pct": -7.65,
+   "price": 222.97,
    "volume": 39578100,
    "volume_vs_avg": "~2x",
    "heat_score": 50,
    "direction": "down",
-   "why": "Dow Jones Futures: Fed Chief Warsh Speech Due; Marvell, Affirm, PayPal, Elastic Are Big Movers",
+   "why": "Stock Market Today: Dow, S&P 500 Brace For Warsh; Marvell, Affirm, PayPal Are Big Movers (Live Coverage)",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-chief-warsh-speech-nvidia-jumps-software-sector-on-fire/?src=A00220&yptr=yahoo",
-   "published": "2026-08-28T12:15:25Z",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp500-nasdaq-warsh-jackson-hole-speech-marvell-affirm-paypal/?src=A00220&yptr=yahoo",
+   "published": "2026-08-28T12:26:03Z",
    "sector": "AI Chips & Compute"
   },
   {
    "rank": 2,
    "ticker": "CRM",
    "company": "Salesforce Inc",
-   "move_pct": -1.18,
-   "price": 249.07,
+   "move_pct": -1.05,
+   "price": 249.4,
    "volume": 55465200,
    "volume_vs_avg": "~4x",
    "heat_score": 41,
    "direction": "down",
-   "why": "Salesforce is surging again \u2014 but the best software setups may be elsewhere: One Big Investment Idea",
+   "why": "Value Growth Investors Should Do This With Salesforce",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/article/salesforce-is-surging-again--but-the-best-software-setups-may-be-elsewhere-one-big-investment-idea-110000145.html",
-   "published": "2026-08-28T11:00:00Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/value-growth-investors-salesforce-122055896.html",
+   "published": "2026-08-28T12:20:55Z",
    "sector": "AI Applications & Data Software"
   }
  ]

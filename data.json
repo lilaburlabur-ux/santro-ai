@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-28T01:02:03+00:00",
-  "as_of_local": "2026-08-28 01:02:03 UTC",
+  "as_of_utc": "2026-08-28T01:17:02+00:00",
+  "as_of_local": "2026-08-28 01:17:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -147,6 +145,34 @@
       ]
     },
     {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 92.09,
+      "previous_close": 88.24,
+      "change_pct": 4.36,
+      "market_cap": 486797414219.28436,
+      "headlines": [
+        {
+          "title": "Tech stocks today: Tech stocks gain after Nvidia tops Q2 expectations",
+          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-tech-stocks-gain-after-nvidia-tops-q2-expectations-125406169.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-08-24T12:54:06Z"
+        },
+        {
+          "title": "AI Bubble Could Be Ready to Pop and Jim Cramer May Be the Warning Sign",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-bubble-could-ready-pop-220103672.html",
+          "publisher": "Benzinga",
+          "published": "2026-08-27T22:01:03Z"
+        },
+        {
+          "title": "Forget SMH and Its 87% Year: Three Semiconductor Funds Did Much Better",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-smh-87-three-semiconductor-211541560.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-27T21:15:41Z"
+        }
+      ]
+    },
+    {
       "symbol": "ARM",
       "name": "Arm Holdings",
       "price": 255.21,
@@ -198,7 +224,7 @@
           "title": "Dow Jones Futures: Fed Chief Warsh Due; Nvidia, These 7 Stocks Are In Buy Zones",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-chief-warsh-speech-nvidia-jumps-software-sector-on-fire/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-08-28T00:36:32Z"
+          "published": "2026-08-28T01:13:09Z"
         }
       ]
     },
@@ -264,7 +290,7 @@
       "price": 120.47,
       "previous_close": 119.34,
       "change_pct": 0.95,
-      "market_cap": 17110387041.216797,
+      "market_cap": 17076527381.263702,
       "headlines": [
         {
           "title": "Stocks making big moves yesterday: Intuit, Xponential Fitness, Abercrombie and Fitch, Lattice Semiconductor, and Photronics",
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.94,
-          "price": 263500.0,
+          "change_pct": -1.32,
+          "price": 262500.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -3.73,
-          "price": 50540.0,
+          "change_pct": -3.81,
+          "price": 50500.0,
           "currency": "JPY"
         },
         {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.94,
-        "price": 263500.0,
+        "change_pct": -1.32,
+        "price": 262500.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -3.73,
-        "price": 50540.0,
+        "change_pct": -3.81,
+        "price": 50500.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 80738.99,
-      "change_pct": 2.17
+      "price": 80800.38,
+      "change_pct": 2.24
     },
     {
       "label": "Gold",
-      "price": 4641.6,
-      "change_pct": 0.94
+      "price": 4645.8,
+      "change_pct": 1.04
     },
     {
       "label": "Nasdaq100",

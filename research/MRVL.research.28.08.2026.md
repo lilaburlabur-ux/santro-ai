@@ -37,9 +37,9 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Headline | Source | Date |
 |---|---|---|
 | Trending: Take-Two Interactive price ascends as 'Grand Theft Auto VI' is teased | Yahoo Finance Video | 2026-08-28 |
+| Stocks to Watch Recap: PayPal, Marvell, Gap, Amazon | The Wall Street Journal | 2026-08-28 |
 | Why Marvell Technology (MRVL) Shares Are Getting Obliterated Today | StockStory | 2026-08-28 |
 | Update: Equities Fall as Warsh's Remarks Boost Rate-Hike Bets | MT Newswires | 2026-08-28 |
-| Stock Market Today: Nasdaq Sinks As Fed's Warsh Ignites Rate-Hike Odds; Software Name Rockets | Investor's Business Daily | 2026-08-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

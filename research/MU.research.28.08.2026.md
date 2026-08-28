@@ -4,8 +4,8 @@ Signed file: `MU.research.28.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $935.39 (2026-08-28, ~15-min delayed) |
-| Market cap | — |
+| Current price | $932.86 (2026-08-28, ~15-min delayed) |
+| Market cap | $1.05T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `MU.research.28.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +704.20%; price +59.93% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -22.91% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +693.51%; price +58.57% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -23.12% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 55.91%, revenue growth 345.70%. |
-| Value attractiveness | Reasonable | Forward P/E 6.03, EV/Sales 11.48. |
-| Risk level | High | Beta 2.21, ATR 6.6% of price, short float 2.66%. |
+| Value attractiveness | Reasonable | Forward P/E 6.02, EV/Sales 11.48. |
+| Risk level | High | Beta 2.21, ATR 6.5% of price, short float 2.66%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
-| Why Nvidia probably just lit a new fire under these once-hot trades | Yahoo Finance | 2026-08-27 |
-| Amkor, FormFactor, Vishay Intertechnology, Allegro MicroSystems, and Intel Shares Skyrocket, What You Need To Know | StockStory | 2026-08-28 |
-| Impinj and Broadcom Shares Skyrocket, What You Need To Know | StockStory | 2026-08-28 |
-| The Peer-Group Mispricing Sitting On SNDK Stock | Trefis | 2026-08-28 |
+| Western Digital Just Dropped 13% in a Month. Is It Time to Sell? | 24/7 Wall St. | 2026-08-28 |
+| Nvidia Breaks Ranks With Chip Stocks as Correlation Hits Just 0.03 | GuruFocus.com | 2026-08-28 |
+| Micron Just Added $10 Billion to Its U.S. AI Bet | GuruFocus.com | 2026-08-28 |
+| Here's Why Micron Stock Can Double Next Year | Motley Fool | 2026-08-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $935.39; 52w high $1,213.37 (-22.91%); 52w low $117.56 (+695.66%) |
-| Trend | +59.93% vs SMA200, -2.28% vs SMA50, +2.19% vs SMA20 |
-| Momentum | RSI(14) 51.0 (neutral) |
-| Volatility | ATR(14) 62.20 (~6.6% of price); beta 2.21 |
-| Setup perspective | -22.91% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $932.86; 52w high $1,213.37 (-23.12%); 52w low $118.29 (+688.62%) |
+| Trend | +58.57% vs SMA200, -2.32% vs SMA50, +1.30% vs SMA20 |
+| Momentum | RSI(14) 50.7 (neutral) |
+| Volatility | ATR(14) 60.45 (~6.5% of price); beta 2.21 |
+| Setup perspective | -23.12% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.0% |
-| Month | +26.6% |
-| Quarter | +1.3% |
-| Half Y | +125.2% |
-| 1Y | +704.2% |
-| YTD | +196.7% |
+| Week | -3.5% |
+| Month | +6.7% |
+| Quarter | -3.9% |
+| Half Y | +126.3% |
+| 1Y | +693.5% |
+| YTD | +195.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
-| Valuation | P/E 21.23, forward P/E 6.03, P/S —, P/B 10.48 | EV/Sales 11.48, EV/EBITDA 15.20 |
+| Valuation | P/E 21.09, forward P/E 6.02, P/S 11.67, P/B 10.46 | EV/Sales 11.48, EV/EBITDA 15.20 |
 | Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,513.41 (44 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 79.99% |
+| Institutional ownership | 79.98% |
 | Insider ownership | 0.24% |
 | Short float | 2.66% |
 | Short ratio (days to cover) | 0.7 |
@@ -95,7 +95,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Primecap Management Company | 19,217,236 | 1.70% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.21, ATR 6.6% of price, short float 2.66%. Size positions accordingly.
+- **Volatility risk:** Beta 2.21, ATR 6.5% of price, short float 2.66%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $935.39 | EV/Sales | 11.48 |
-| Market cap | — | EV/EBITDA | 15.20 |
+| Price | $932.86 | EV/Sales | 11.48 |
+| Market cap | $1.05T | EV/EBITDA | 15.20 |
 | Beta | 2.21 | Gross margin | 72.57% |
-| RSI(14) | 51.0 | Operating margin | 80.37% |
-| ATR(14) | 62.20 | Profit margin | 55.91% |
-| SMA20 dist | +2.19% | ROA | 34.87% |
-| SMA50 dist | -2.28% | ROE | 66.64% |
-| SMA200 dist | +59.93% | Revenue (ttm) | $90.27B |
+| RSI(14) | 50.7 | Operating margin | 80.37% |
+| ATR(14) | 60.45 | Profit margin | 55.91% |
+| SMA20 dist | +1.30% | ROA | 34.87% |
+| SMA50 dist | -2.32% | ROE | 66.64% |
+| SMA200 dist | +58.57% | Revenue (ttm) | $90.27B |
 | 52W high | $1,213.37 | Revenue growth y/y | 345.70% |
-| 52W low | $117.56 | Inst. ownership | 79.99% |
-| P/E (ttm) | 21.23 | Insider ownership | 0.24% |
-| Forward P/E | 6.03 | Short float | 2.66% |
+| 52W low | $118.29 | Inst. ownership | 79.98% |
+| P/E (ttm) | 21.09 | Insider ownership | 0.24% |
+| Forward P/E | 6.02 | Short float | 2.66% |
 | PEG (trailing) | 0.14 | Avg volume | 45,961,679 |
-| P/S | — | Employees | 53,000 |
-| P/B | 10.48 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/S | 11.67 | Employees | 53,000 |
+| P/B | 10.46 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

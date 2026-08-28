@@ -4,8 +4,8 @@ Signed file: `NVDA.research.28.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $227.98 (2026-08-28, ~15-min delayed) |
-| Market cap | $5.51T |
+| Current price | $217.55 (2026-08-28, ~15-min delayed) |
+| Market cap | $5.25T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `NVDA.research.28.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +25.59%; price +16.57% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -3.18% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Strong | Profit margin 62.97%, revenue growth 85.20%. |
-| Value attractiveness | Reasonable | Forward P/E 15.69, EV/Sales 19.86. |
-| Risk level | High | Beta 2.21, ATR 3.2% of price, short float 1.23%. |
+| Technical momentum | Moderate | 1Y +19.96%; price +11.18% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -7.61% from 52w high; no clean fresh pivot by default. |
+| Fundamental quality | Strong | Profit margin 63.66%, revenue growth 105.90%. |
+| Value attractiveness | Reasonable | Forward P/E 14.21, EV/Sales 18.06. |
+| Risk level | High | Beta 2.21, ATR 3.5% of price, short float 1.23%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,46 +36,46 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
+| End of the 'Lag 7'? What Nvidia's earnings mean for the rest of tech. | Yahoo Finance Video | 2026-08-28 |
 | Just how big of a problem area is China for Nvidia? | Yahoo Finance Video | 2026-08-27 |
-| Nvidia says it's building an ecosystem that can't fail | Yahoo Finance | 2026-08-27 |
-| Nvidia posted a blowout quarter. China remains a quagmire. | Yahoo Finance | 2026-08-27 |
-| Dividends could be the next big Nvidia stock catalyst, just like they were for Apple | Yahoo Finance | 2026-08-27 |
+| Bull Market or Bear Market: The Real Difference Is What You Do Next | Motley Fool | 2026-08-28 |
+| GLP-1 Coverage Fell From 72% to 60%. Is Eli Lilly’s Weight-Loss Boom Hitting an Insurance Wall? | 24/7 Wall St. | 2026-08-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $227.98; 52w high $235.47 (-3.18%); 52w low $164.98 (+38.19%) |
-| Trend | +16.57% vs SMA200, +9.52% vs SMA50, +4.96% vs SMA20 |
-| Momentum | RSI(14) 61.3 (neutral) |
-| Volatility | ATR(14) 7.29 (~3.2% of price); beta 2.21 |
-| Setup perspective | -3.18% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $217.55; 52w high $235.47 (-7.61%); 52w low $164.98 (+31.87%) |
+| Trend | +11.18% vs SMA200, +4.38% vs SMA50, -0.23% vs SMA20 |
+| Momentum | RSI(14) 52.3 (neutral) |
+| Volatility | ATR(14) 7.66 (~3.5% of price); beta 2.21 |
+| Setup perspective | -7.61% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +5.1% |
-| Month | +20.0% |
-| Quarter | +6.5% |
-| Half Y | +23.5% |
-| 1Y | +25.6% |
-| YTD | +20.9% |
+| Week | +1.3% |
+| Month | +11.5% |
+| Quarter | +3.2% |
+| Half Y | +22.9% |
+| 1Y | +20.0% |
+| YTD | +15.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-11-17 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $253.49B | Revenue growth 85.20% y/y |
-| Profitability | Gross 74.14%, operating 65.60%, net 62.97% | ROA 52.73%, ROE 114.29% |
-| Balance sheet | Cash $53.17B, debt $12.81B | Current ratio 3.44, debt/equity 6.55 |
-| Valuation | P/E 32.16, forward P/E 15.69, P/S 21.72, P/B 28.25 | EV/Sales 19.86, EV/EBITDA 30.41 |
-| Growth expectations | Earnings growth 214.50%, EPS q/q 210.60% | Analyst mean target $305.79 (58 analysts) |
+| Revenue (ttm) | $302.97B | Revenue growth 105.90% y/y |
+| Profitability | Gross 74.67%, operating 66.24%, net 63.66% | ROA 53.57%, ROE 117.21% |
+| Balance sheet | Cash $62.47B, debt $38.86B | Current ratio 4.59, debt/equity 16.97 |
+| Valuation | P/E 27.50, forward P/E 14.21, P/S 17.34, P/B 26.96 | EV/Sales 18.06, EV/EBITDA 27.18 |
+| Growth expectations | Earnings growth 127.80%, EPS q/q 125.90% | Analyst mean target $305.79 (58 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 71.20% |
-| Insider ownership | 3.99% |
+| Institutional ownership | 71.50% |
+| Insider ownership | 4.01% |
 | Short float | 1.23% |
 | Short ratio (days to cover) | 2.4 |
 
@@ -83,19 +83,19 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 1,941,918,386 | 8.02% | 2026-06-30 |
-| Vanguard Capital Management LLC | 1,540,816,358 | 6.37% | 2026-06-30 |
-| FMR, LLC | 1,026,051,548 | 4.24% | 2026-06-30 |
-| State Street Corporation | 1,009,783,437 | 4.17% | 2026-06-30 |
-| Geode Capital Management, LLC | 606,216,492 | 2.51% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 517,816,949 | 2.14% | 2026-06-30 |
+| Blackrock Inc. | 1,941,918,386 | 8.06% | 2026-06-30 |
+| Vanguard Capital Management LLC | 1,540,816,358 | 6.39% | 2026-06-30 |
+| FMR, LLC | 1,026,051,548 | 4.26% | 2026-06-30 |
+| State Street Corporation | 1,009,783,437 | 4.19% | 2026-06-30 |
+| Geode Capital Management, LLC | 606,216,492 | 2.52% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 517,816,949 | 2.15% | 2026-06-30 |
 | JPMORGAN CHASE & CO | 449,404,578 | 1.86% | 2026-06-30 |
 | Price (T.Rowe) Associates Inc | 369,829,781 | 1.53% | 2026-06-30 |
-| Morgan Stanley | 356,420,089 | 1.47% | 2026-06-30 |
-| Invesco Ltd. | 329,593,488 | 1.36% | 2026-06-30 |
+| Morgan Stanley | 356,420,089 | 1.48% | 2026-06-30 |
+| Invesco Ltd. | 329,593,488 | 1.37% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.21, ATR 3.2% of price, short float 1.23%. Size positions accordingly.
+- **Volatility risk:** Beta 2.21, ATR 3.5% of price, short float 1.23%. Size positions accordingly.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,21 +111,21 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $227.98 | EV/Sales | 19.86 |
-| Market cap | $5.51T | EV/EBITDA | 30.41 |
-| Beta | 2.21 | Gross margin | 74.14% |
-| RSI(14) | 61.3 | Operating margin | 65.60% |
-| ATR(14) | 7.29 | Profit margin | 62.97% |
-| SMA20 dist | +4.96% | ROA | 52.73% |
-| SMA50 dist | +9.52% | ROE | 114.29% |
-| SMA200 dist | +16.57% | Revenue (ttm) | $253.49B |
-| 52W high | $235.47 | Revenue growth y/y | 85.20% |
-| 52W low | $164.98 | Inst. ownership | 71.20% |
-| P/E (ttm) | 32.16 | Insider ownership | 3.99% |
-| Forward P/E | 15.69 | Short float | 1.23% |
-| PEG (trailing) | 0.58 | Avg volume | 141,721,396 |
-| P/S | 21.72 | Employees | 42,000 |
-| P/B | 28.25 | Analyst rec (1=buy..5=sell) | 1.3 |
+| Price | $217.55 | EV/Sales | 18.06 |
+| Market cap | $5.25T | EV/EBITDA | 27.18 |
+| Beta | 2.21 | Gross margin | 74.67% |
+| RSI(14) | 52.3 | Operating margin | 66.24% |
+| ATR(14) | 7.66 | Profit margin | 63.66% |
+| SMA20 dist | -0.23% | ROA | 53.57% |
+| SMA50 dist | +4.38% | ROE | 117.21% |
+| SMA200 dist | +11.18% | Revenue (ttm) | $302.97B |
+| 52W high | $235.47 | Revenue growth y/y | 105.90% |
+| 52W low | $164.98 | Inst. ownership | 71.50% |
+| P/E (ttm) | 27.50 | Insider ownership | 4.01% |
+| Forward P/E | 14.21 | Short float | 1.23% |
+| PEG (trailing) | 0.63 | Avg volume | 141,721,396 |
+| P/S | 17.34 | Employees | 42,000 |
+| P/B | 26.96 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

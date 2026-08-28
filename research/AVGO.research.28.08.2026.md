@@ -4,8 +4,8 @@ Signed file: `AVGO.research.28.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $371.54 (2026-08-28, ~15-min delayed) |
-| Market cap | $1.77T |
+| Current price | $368.79 (2026-08-28, ~15-min delayed) |
+| Market cap | $1.75T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `AVGO.research.28.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +25.59%; price +0.83% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -22.73% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +23.73%; price +0.07% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -23.30% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 38.85%, revenue growth 47.90%. |
-| Value attractiveness | Reasonable | Forward P/E 19.05, EV/Sales 24.02. |
+| Value attractiveness | Reasonable | Forward P/E 18.91, EV/Sales 24.02. |
 | Risk level | Elevated | Beta 1.47, ATR 3.8% of price, short float 1.20%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -36,30 +36,30 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
-| Amkor, FormFactor, Vishay Intertechnology, Allegro MicroSystems, and Intel Shares Skyrocket, What You Need To Know | StockStory | 2026-08-28 |
-| Impinj and Broadcom Shares Skyrocket, What You Need To Know | StockStory | 2026-08-28 |
-| Analysts' Top S&P 500 Stocks to Buy Now | Kiplinger | 2026-08-27 |
-| Stock Market Today, Aug. 27: Nvidia Surges on Blowout Results and Surprising Guidance | Motley Fool | 2026-08-27 |
+| Marvell Technology Issues Soft Quarterly Gross Margin Outlook on Greater Custom Mix, B. Riley Says | MT Newswires | 2026-08-28 |
+| Broadcom vs. AMD: Which AI Chip Stock Has the Better Risk-Reward? | Zacks | 2026-08-28 |
+| Broadcom's $16 Billion AI Quarter Faces the Marvell Timing Trap | GuruFocus.com | 2026-08-28 |
+| Broadcom Is About to Face Nvidia's Impossible AI Bar | GuruFocus.com | 2026-08-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $371.54; 52w high $480.81 (-22.73%); 52w low $292.95 (+26.83%) |
-| Trend | +0.83% vs SMA200, -3.89% vs SMA50, -5.24% vs SMA20 |
-| Momentum | RSI(14) 43.9 (neutral) |
-| Volatility | ATR(14) 14.17 (~3.8% of price); beta 1.47 |
-| Setup perspective | -22.73% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $368.79; 52w high $480.81 (-23.30%); 52w low $292.95 (+25.89%) |
+| Trend | +0.07% vs SMA200, -4.48% vs SMA50, -5.69% vs SMA20 |
+| Momentum | RSI(14) 42.7 (neutral) |
+| Volatility | ATR(14) 13.96 (~3.8% of price); beta 1.47 |
+| Setup perspective | -23.30% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.1% |
-| Month | +0.3% |
-| Quarter | -12.8% |
-| Half Y | +15.9% |
-| 1Y | +25.6% |
-| YTD | +7.3% |
+| Week | +0.1% |
+| Month | -4.9% |
+| Quarter | -17.3% |
+| Half Y | +15.8% |
+| 1Y | +23.7% |
+| YTD | +6.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $75.46B | Revenue growth 47.90% y/y |
 | Profitability | Gross 76.28%, operating 48.99%, net 38.85% | ROA 12.12%, ROE 37.28% |
 | Balance sheet | Cash $19.63B, debt $64.91B | Current ratio 2.24, debt/equity 74.02 |
-| Valuation | P/E 61.82, forward P/E 19.05, P/S 23.42, P/B 20.16 | EV/Sales 24.02, EV/EBITDA 43.08 |
+| Valuation | P/E 61.26, forward P/E 18.91, P/S 23.25, P/B 20.01 | EV/Sales 24.02, EV/EBITDA 43.08 |
 | Growth expectations | Earnings growth 85.40%, EPS q/q 87.50% | Analyst mean target $525.97 (46 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $371.54 | EV/Sales | 24.02 |
-| Market cap | $1.77T | EV/EBITDA | 43.08 |
+| Price | $368.79 | EV/Sales | 24.02 |
+| Market cap | $1.75T | EV/EBITDA | 43.08 |
 | Beta | 1.47 | Gross margin | 76.28% |
-| RSI(14) | 43.9 | Operating margin | 48.99% |
-| ATR(14) | 14.17 | Profit margin | 38.85% |
-| SMA20 dist | -5.24% | ROA | 12.12% |
-| SMA50 dist | -3.89% | ROE | 37.28% |
-| SMA200 dist | +0.83% | Revenue (ttm) | $75.46B |
+| RSI(14) | 42.7 | Operating margin | 48.99% |
+| ATR(14) | 13.96 | Profit margin | 38.85% |
+| SMA20 dist | -5.69% | ROA | 12.12% |
+| SMA50 dist | -4.48% | ROE | 37.28% |
+| SMA200 dist | +0.07% | Revenue (ttm) | $75.46B |
 | 52W high | $480.81 | Revenue growth y/y | 47.90% |
 | 52W low | $292.95 | Inst. ownership | 80.15% |
-| P/E (ttm) | 61.82 | Insider ownership | 1.95% |
-| Forward P/E | 19.05 | Short float | 1.20% |
-| PEG (trailing) | 0.40 | Avg volume | 26,213,330 |
-| P/S | 23.42 | Employees | 33,000 |
-| P/B | 20.16 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/E (ttm) | 61.26 | Insider ownership | 1.95% |
+| Forward P/E | 18.91 | Short float | 1.20% |
+| PEG (trailing) | 0.42 | Avg volume | 26,213,330 |
+| P/S | 23.25 | Employees | 33,000 |
+| P/B | 20.01 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

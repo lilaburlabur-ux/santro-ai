@@ -4,8 +4,8 @@ Signed file: `AVAV.research.28.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $152.28 (2026-08-28, ~15-min delayed) |
-| Market cap | $7.74B |
+| Current price | $147.94 (2026-08-28, ~15-min delayed) |
+| Market cap | $7.52B |
 | Sector / Industry | Industrials / Aerospace & Defense |
 | Main theme | Aerospace & Defense — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `AVAV.research.28.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-29.94%) with negative half-year (-41.35%). |
-| Fresh setup quality | Poor / broken | -62.84% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-31.64%) with negative half-year (-41.35%). |
+| Fresh setup quality | Poor / broken | -63.90% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-13.41%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 34.57, EV/Sales 3.85. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 33.59, EV/Sales 3.99. |
 | Risk level | High | Beta 1.41, ATR 6.5% of price, short float 9.55%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
@@ -36,30 +36,30 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 | Headline | Source | Date |
 |---|---|---|
+| AeroVironment (AVAV) Stock Looks Stretched On Its 57% Three Year Run | Simply Wall St. | 2026-08-28 |
+| Is New Switchblade 600 Order And Mars Helicopter Work Altering The Investment Case For AeroVironment (AVAV)? | Simply Wall St. | 2026-08-28 |
+| 3 Small-Cap Stocks That Fall Short | StockStory | 2026-08-28 |
 | AVAV Stock Gains As NASA Taps AeroVironment For Three Mars Helicopters For 2028 Mission — Here’s What They’ll Be Looking For Under The Martian Surface | Stocktwits | 2026-08-27 |
-| Unusual Machines Jumps 8%, Ondas Holdings Rises 6% as Risk Appetite Returns to Drone Stocks | 24/7 Wall St. | 2026-08-27 |
-| AVAV Stock Rises Overnight: AeroVironment Pockets $51M Army Contract Ahead Of Q1 Earnings | Stocktwits | 2026-08-27 |
-| 5 Stocks to Buy in September Before Wall Street Catches On | MarketBeat | 2026-08-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $152.28; 52w high $409.83 (-62.84%); 52w low $136.68 (+11.41%) |
-| Trend | -29.94% vs SMA200, -4.66% vs SMA50, -10.62% vs SMA20 |
-| Momentum | RSI(14) 42.0 (neutral) |
-| Volatility | ATR(14) 9.88 (~6.5% of price); beta 1.41 |
-| Setup perspective | -62.84% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $147.94; 52w high $409.83 (-63.90%); 52w low $136.68 (+8.24%) |
+| Trend | -31.64% vs SMA200, -7.16% vs SMA50, -13.13% vs SMA20 |
+| Momentum | RSI(14) 39.7 (neutral) |
+| Volatility | ATR(14) 9.61 (~6.5% of price); beta 1.41 |
+| Setup perspective | -63.90% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.7% |
-| Month | +7.1% |
-| Quarter | -29.0% |
-| Half Y | -41.3% |
-| 1Y | -38.1% |
-| YTD | -40.6% |
+| Week | -7.7% |
+| Month | +0.9% |
+| Quarter | -28.6% |
+| Half Y | -41.4% |
+| 1Y | -40.2% |
+| YTD | -42.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Revenue (ttm) | $1.98B | Revenue growth 133.30% y/y |
 | Profitability | Gross 25.32%, operating 2.81%, net -13.41% | ROA -1.29%, ROE -10.03% |
 | Balance sheet | Cash $632.30M, debt $834.79M | Current ratio 4.30, debt/equity 18.97 |
-| Valuation | P/E —, forward P/E 34.57, P/S 3.91, P/B 1.74 | EV/Sales 3.85, EV/EBITDA 39.09 |
+| Valuation | P/E —, forward P/E 33.59, P/S 3.80, P/B 1.70 | EV/Sales 3.99, EV/EBITDA 40.49 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $225.77 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Van Eck Associates Corporation | 612,915 | 1.21% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 34.57, EV/Sales 3.85. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 33.59, EV/Sales 3.99. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.41, ATR 6.5% of price, short float 9.55%. Size positions accordingly.
 - **Short interest risk:** short float 9.55% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
@@ -114,21 +114,21 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $152.28 | EV/Sales | 3.85 |
-| Market cap | $7.74B | EV/EBITDA | 39.09 |
+| Price | $147.94 | EV/Sales | 3.99 |
+| Market cap | $7.52B | EV/EBITDA | 40.49 |
 | Beta | 1.41 | Gross margin | 25.32% |
-| RSI(14) | 42.0 | Operating margin | 2.81% |
-| ATR(14) | 9.88 | Profit margin | -13.41% |
-| SMA20 dist | -10.62% | ROA | -1.29% |
-| SMA50 dist | -4.66% | ROE | -10.03% |
-| SMA200 dist | -29.94% | Revenue (ttm) | $1.98B |
+| RSI(14) | 39.7 | Operating margin | 2.81% |
+| ATR(14) | 9.61 | Profit margin | -13.41% |
+| SMA20 dist | -13.13% | ROA | -1.29% |
+| SMA50 dist | -7.16% | ROE | -10.03% |
+| SMA200 dist | -31.64% | Revenue (ttm) | $1.98B |
 | 52W high | $409.83 | Revenue growth y/y | 133.30% |
 | 52W low | $136.68 | Inst. ownership | 88.14% |
 | P/E (ttm) | — | Insider ownership | 0.90% |
-| Forward P/E | 34.57 | Short float | 9.55% |
+| Forward P/E | 33.59 | Short float | 9.55% |
 | PEG (trailing) | — | Avg volume | 1,609,971 |
-| P/S | 3.91 | Employees | 3,991 |
-| P/B | 1.74 | Analyst rec (1=buy..5=sell) | 1.6 |
+| P/S | 3.80 | Employees | 3,991 |
+| P/B | 1.70 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

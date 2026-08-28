@@ -4,8 +4,8 @@ Signed file: `QCOM.research.28.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $164.78 (2026-08-28, ~15-min delayed) |
-| Market cap | $176.00B |
+| Current price | $164.19 (2026-08-28, ~15-min delayed) |
+| Market cap | $175.36B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `QCOM.research.28.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +5.71%; price -1.38% vs SMA200. |
-| Fresh setup quality | Poor / broken | -34.11% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +4.93%; price -1.71% vs SMA200. |
+| Fresh setup quality | Poor / broken | -34.35% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 21.01%, revenue growth -4.00%. |
-| Value attractiveness | Reasonable | Forward P/E 16.15, EV/Sales 4.08. |
-| Risk level | Elevated | Beta 1.66, ATR 3.8% of price, short float 3.48%. |
+| Value attractiveness | Reasonable | Forward P/E 16.09, EV/Sales 4.08. |
+| Risk level | Elevated | Beta 1.66, ATR 3.7% of price, short float 3.48%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
-| Vietnam urges Qualcomm, Samsung to deepen AI, chip investment as it seeks tech upgrade | Reuters | 2026-08-28 |
-| What Does Applied Materials (AMAT) Gain From Its New Board Appointment? | Simply Wall St. | 2026-08-27 |
-| Google agrees to settle UK app developers' lawsuit for $353 million | Reuters | 2026-08-27 |
-| Micron Spent The Memory Shortage Signing Multiyear Contracts | Trefis | 2026-08-27 |
+| Why Qualcomm (QCOM) Is Moving Beyond Smartphones | Insider Monkey | 2026-08-28 |
+| Qualcomm (QCOM) Up 8.7% Since Last Earnings Report: Can It Continue? | Zacks | 2026-08-28 |
+| Advanced Micro Devices Stock Ran The Roadmap It Had Already Published | Trefis | 2026-08-28 |
+| Tobii AB (TBIIF) (Q2 2026) Earnings Call Highlights: Strategic Pivots and AutoSense Momentum ... | GuruFocus.com | 2026-08-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $164.78; 52w high $250.10 (-34.11%); 52w low $123.61 (+33.30%) |
-| Trend | -1.38% vs SMA200, -5.56% vs SMA50, +2.36% vs SMA20 |
-| Momentum | RSI(14) 49.2 (neutral) |
-| Volatility | ATR(14) 6.29 (~3.8% of price); beta 1.66 |
-| Setup perspective | -34.11% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $164.19; 52w high $250.10 (-34.35%); 52w low $123.61 (+32.83%) |
+| Trend | -1.71% vs SMA200, -5.37% vs SMA50, +1.47% vs SMA20 |
+| Momentum | RSI(14) 48.5 (neutral) |
+| Volatility | ATR(14) 6.10 (~3.7% of price); beta 1.66 |
+| Setup perspective | -34.35% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.5% |
-| Month | +5.8% |
-| Quarter | -32.0% |
-| Half Y | +14.3% |
-| 1Y | +5.7% |
-| YTD | -3.8% |
+| Week | +2.1% |
+| Month | +8.3% |
+| Quarter | -34.3% |
+| Half Y | +16.5% |
+| 1Y | +4.9% |
+| YTD | -4.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $44.07B | Revenue growth -4.00% y/y |
 | Profitability | Gross 54.23%, operating 18.53%, net 21.01% | ROA 11.61%, ROE 33.75% |
 | Balance sheet | Cash $8.30B, debt $15.27B | Current ratio 2.02, debt/equity 55.21 |
-| Valuation | P/E 18.85, forward P/E 16.15, P/S 3.99, P/B 6.30 | EV/Sales 4.08, EV/EBITDA 15.00 |
+| Valuation | P/E 18.76, forward P/E 16.09, P/S 3.98, P/B 6.27 | EV/Sales 4.08, EV/EBITDA 15.00 |
 | Growth expectations | Earnings growth -23.00%, EPS q/q -24.90% | Analyst mean target $193.10 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | NORGES BANK | 16,209,022 | 1.54% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.66, ATR 3.8% of price, short float 3.48%. Size positions accordingly.
+- **Volatility risk:** Beta 1.66, ATR 3.7% of price, short float 3.48%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,21 +111,21 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $164.78 | EV/Sales | 4.08 |
-| Market cap | $176.00B | EV/EBITDA | 15.00 |
+| Price | $164.19 | EV/Sales | 4.08 |
+| Market cap | $175.36B | EV/EBITDA | 15.00 |
 | Beta | 1.66 | Gross margin | 54.23% |
-| RSI(14) | 49.2 | Operating margin | 18.53% |
-| ATR(14) | 6.29 | Profit margin | 21.01% |
-| SMA20 dist | +2.36% | ROA | 11.61% |
-| SMA50 dist | -5.56% | ROE | 33.75% |
-| SMA200 dist | -1.38% | Revenue (ttm) | $44.07B |
+| RSI(14) | 48.5 | Operating margin | 18.53% |
+| ATR(14) | 6.10 | Profit margin | 21.01% |
+| SMA20 dist | +1.47% | ROA | 11.61% |
+| SMA50 dist | -5.37% | ROE | 33.75% |
+| SMA200 dist | -1.71% | Revenue (ttm) | $44.07B |
 | 52W high | $250.10 | Revenue growth y/y | -4.00% |
 | 52W low | $123.61 | Inst. ownership | 83.37% |
-| P/E (ttm) | 18.85 | Insider ownership | 0.12% |
-| Forward P/E | 16.15 | Short float | 3.48% |
+| P/E (ttm) | 18.76 | Insider ownership | 0.12% |
+| Forward P/E | 16.09 | Short float | 3.48% |
 | PEG (trailing) | 0.72 | Avg volume | 15,812,022 |
-| P/S | 3.99 | Employees | 52,000 |
-| P/B | 6.30 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/S | 3.98 | Employees | 52,000 |
+| P/B | 6.27 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

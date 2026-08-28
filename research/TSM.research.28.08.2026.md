@@ -4,8 +4,8 @@ Signed file: `TSM.research.28.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $427.30 (2026-08-28, ~15-min delayed) |
-| Market cap | $2.22T |
+| Current price | $417.52 (2026-08-28, ~15-min delayed) |
+| Market cap | $2.17T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `TSM.research.28.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +80.98%; price +16.16% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -10.53% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +76.41%; price +13.31% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -12.57% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 49.92%, revenue growth 36.00%. |
-| Value attractiveness | Reasonable | Forward P/E 19.62, EV/Sales 3.45. |
-| Risk level | Elevated | Beta 1.26, ATR 3.0% of price, short float 0.62%. |
+| Value attractiveness | Reasonable | Forward P/E 19.17, EV/Sales 3.45. |
+| Risk level | Elevated | Beta 1.26, ATR 3.1% of price, short float 0.62%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Nvidia Breaks Ranks With Chip Stocks as Correlation Hits Just 0.03 | GuruFocus.com | 2026-08-28 |
+| Billionaire Stanley Druckenmiller Just Bought Taiwan Semiconductor Stock. Is the Foundry Giant Still a Screaming Buy? | Motley Fool | 2026-08-28 |
+| How TSMC is Advancing its A14 Technology Roadmap for AI Transformation | Zacks | 2026-08-28 |
 | Morgan Stanley reveals Cisco's quiet edge over rivals | TheStreet | 2026-08-27 |
-| Forget SMH and Its 87% Year: Three Semiconductor Funds Did Much Better | 24/7 Wall St. | 2026-08-27 |
-| Amkor 'Underappreciated Beneficiary' of Advanced Semiconductor Packaging, BofA Says | MT Newswires | 2026-08-27 |
-| CBRS vs. AMD: Which Stock Leads the AI Infrastructure Boom? | Zacks | 2026-08-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $427.30; 52w high $477.57 (-10.53%); 52w low $225.89 (+89.16%) |
-| Trend | +16.16% vs SMA200, +0.84% vs SMA50, +2.10% vs SMA20 |
-| Momentum | RSI(14) 55.2 (neutral) |
-| Volatility | ATR(14) 12.81 (~3.0% of price); beta 1.26 |
-| Setup perspective | -10.53% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $417.52; 52w high $477.57 (-12.57%); 52w low $225.89 (+84.83%) |
+| Trend | +13.31% vs SMA200, -1.40% vs SMA50, -0.39% vs SMA20 |
+| Momentum | RSI(14) 49.6 (neutral) |
+| Volatility | ATR(14) 12.74 (~3.1% of price); beta 1.26 |
+| Setup perspective | -12.57% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.7% |
-| Month | +14.0% |
-| Quarter | +0.8% |
-| Half Y | +14.0% |
-| 1Y | +81.0% |
-| YTD | +34.4% |
+| Week | -0.3% |
+| Month | +3.5% |
+| Quarter | +0.0% |
+| Half Y | +12.0% |
+| 1Y | +76.4% |
+| YTD | +31.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.44T | Revenue growth 36.00% y/y |
 | Profitability | Gross 64.23%, operating 60.34%, net 49.92% | ROA 19.00%, ROE 39.97% |
 | Balance sheet | Cash $3.52T, debt $1.07T | Current ratio 2.46, debt/equity 16.50 |
-| Valuation | P/E 31.14, forward P/E 19.62, P/S 0.50, P/B 87.96 | EV/Sales 3.45, EV/EBITDA 4.84 |
+| Valuation | P/E 31.11, forward P/E 19.17, P/S 0.49, P/B 85.94 | EV/Sales 3.45, EV/EBITDA 4.84 |
 | Growth expectations | Earnings growth 77.40%, EPS q/q 77.40% | Analyst mean target $554.45 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Bank of America Corporation | 15,282,620 | 0.29% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.26, ATR 3.0% of price, short float 0.62%. Size positions accordingly.
+- **Volatility risk:** Beta 1.26, ATR 3.1% of price, short float 0.62%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $427.30 | EV/Sales | 3.45 |
-| Market cap | $2.22T | EV/EBITDA | 4.84 |
+| Price | $417.52 | EV/Sales | 3.45 |
+| Market cap | $2.17T | EV/EBITDA | 4.84 |
 | Beta | 1.26 | Gross margin | 64.23% |
-| RSI(14) | 55.2 | Operating margin | 60.34% |
-| ATR(14) | 12.81 | Profit margin | 49.92% |
-| SMA20 dist | +2.10% | ROA | 19.00% |
-| SMA50 dist | +0.84% | ROE | 39.97% |
-| SMA200 dist | +16.16% | Revenue (ttm) | $4.44T |
+| RSI(14) | 49.6 | Operating margin | 60.34% |
+| ATR(14) | 12.74 | Profit margin | 49.92% |
+| SMA20 dist | -0.39% | ROA | 19.00% |
+| SMA50 dist | -1.40% | ROE | 39.97% |
+| SMA200 dist | +13.31% | Revenue (ttm) | $4.44T |
 | 52W high | $477.57 | Revenue growth y/y | 36.00% |
 | 52W low | $225.89 | Inst. ownership | 15.49% |
-| P/E (ttm) | 31.14 | Insider ownership | 0.01% |
-| Forward P/E | 19.62 | Short float | 0.62% |
-| PEG (trailing) | 1.00 | Avg volume | 13,463,395 |
-| P/S | 0.50 | Employees | 76,907 |
-| P/B | 87.96 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/E (ttm) | 31.11 | Insider ownership | 0.01% |
+| Forward P/E | 19.17 | Short float | 0.62% |
+| PEG (trailing) | 1.02 | Avg volume | 13,463,395 |
+| P/S | 0.49 | Employees | 76,907 |
+| P/B | 85.94 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -38,8 +38,8 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 |---|---|---|
 | Earnings live updates: Marvell stock falls despite strong earnings and guidance | Yahoo Finance | 2026-08-25 |
 | Jackson Hole Symposium kicks off, Marvell & dollar stores report earnings: What to Watch | Yahoo Finance Video | 2026-08-27 |
-| Amkor, FormFactor, Vishay Intertechnology, Allegro MicroSystems, and Intel Shares Skyrocket, What You Need To Know | StockStory | 2026-08-28 |
-| Nasdaq Futures Sink While S&P 500, Dow Futures Gain Ahead Of Fed Chief Warsh’s Jackson Hole Speech: PYPL, MRVL, IREN, AFRM Stocks In Focus | Stocktwits | 2026-08-28 |
+| Marvell Technology Inc (MRVL) (Q2 2027) Earnings Call Highlights: Record Revenue and Massive ... | GuruFocus.com | 2026-08-28 |
+| Dow Jones Futures Rise With Fed Chief Warsh Due; Nvidia, These 7 Stocks Are In Buy Zones | Investor's Business Daily | 2026-08-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

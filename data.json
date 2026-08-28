@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-28T23:42:37+00:00",
-  "as_of_local": "2026-08-28 23:42:37 UTC",
+  "as_of_utc": "2026-08-28T23:47:41+00:00",
+  "as_of_local": "2026-08-28 23:47:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/energy/articles/ai-energy-stock-nearly-2-223500620.html",
           "publisher": "Motley Fool",
           "published": "2026-08-28T22:35:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 239.05,
-      "previous_close": 255.21,
-      "change_pct": -6.33,
-      "market_cap": 255305061178.72296,
-      "headlines": [
-        {
-          "title": "ARM's Expanding AI Growth Opportunity Goes Beyond Market Hype",
-          "url": "https://finance.yahoo.com/technology/ai/articles/arms-expanding-ai-growth-opportunity-183000282.html",
-          "publisher": "Zacks",
-          "published": "2026-08-28T18:30:00Z"
-        },
-        {
-          "title": "AMD Stock Upgraded To Strong Buy. Here's Why.",
-          "url": "https://www.investors.com/news/technology/amd-stock-upgraded-strong-buy-server-cpus-agentic-ai/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-25T20:45:28Z"
-        },
-        {
-          "title": "Arm Rises 2.8% as $272 Target Prices the CPU Tollbooth",
-          "url": "https://finance.yahoo.com/technology/articles/arm-rises-2-8-272-195205428.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-25T19:52:05Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 77661.86,
-      "change_pct": -3.23
+      "price": 77648.6,
+      "change_pct": -3.25
     },
     {
       "label": "Gold",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-28T00:57:06+00:00",
-  "as_of_local": "2026-08-28 00:57:06 UTC",
+  "as_of_utc": "2026-08-28T01:02:03+00:00",
+  "as_of_local": "2026-08-28 01:02:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-now-20-month-profits-193601055.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-27T19:36:01Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 92.09,
-      "previous_close": 88.24,
-      "change_pct": 4.36,
-      "market_cap": 483889309105.69995,
-      "headlines": [
-        {
-          "title": "Tech stocks today: Tech stocks gain after Nvidia tops Q2 expectations",
-          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-tech-stocks-gain-after-nvidia-tops-q2-expectations-125406169.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-24T12:54:06Z"
-        },
-        {
-          "title": "AI Bubble Could Be Ready to Pop and Jim Cramer May Be the Warning Sign",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-bubble-could-ready-pop-220103672.html",
-          "publisher": "Benzinga",
-          "published": "2026-08-27T22:01:03Z"
-        },
-        {
-          "title": "Forget SMH and Its 87% Year: Three Semiconductor Funds Did Much Better",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-smh-87-three-semiconductor-211541560.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-27T21:15:41Z"
         }
       ]
     },
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -0.56,
-          "price": 1720000.0,
+          "change_pct": -1.02,
+          "price": 1712000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.75,
-          "price": 264000.0,
+          "change_pct": -0.94,
+          "price": 263500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -3.89,
-          "price": 50460.0,
+          "change_pct": -3.73,
+          "price": 50540.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -0.56,
-        "price": 1720000.0,
+        "change_pct": -1.02,
+        "price": 1712000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.75,
-        "price": 264000.0,
+        "change_pct": -0.94,
+        "price": 263500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -3.89,
-        "price": 50460.0,
+        "change_pct": -3.73,
+        "price": 50540.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 80583.58,
-      "change_pct": 1.97
+      "price": 80738.99,
+      "change_pct": 2.17
     },
     {
       "label": "Gold",
-      "price": 4641.0,
-      "change_pct": 0.93
+      "price": 4641.6,
+      "change_pct": 0.94
     },
     {
       "label": "Nasdaq100",

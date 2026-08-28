@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-27T23:56:12+00:00",
-  "as_of_local": "2026-08-27 23:56:12 UTC",
+  "as_of_utc": "2026-08-28T00:01:19+00:00",
+  "as_of_local": "2026-08-28 00:01:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 1767631387418.071,
       "headlines": [
         {
+          "title": "Analysts' Top S&P 500 Stocks to Buy Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-top-p-500-stocks-205759132.html",
+          "publisher": "Kiplinger",
+          "published": "2026-08-27T21:47:29Z"
+        },
+        {
           "title": "Stock Market Today, Aug. 27: Nvidia Surges on Blowout Results and Surprising Guidance",
           "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-27-212126760.html",
           "publisher": "Motley Fool",
@@ -79,12 +85,6 @@
           "url": "https://www.barrons.com/articles/cathie-wood-ark-sells-amd-stock-476a7789?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-08-27T21:19:00Z"
-        },
-        {
-          "title": "Marvell Technology Tops Second-Quarter Expectations on Data Center Revenue Surge",
-          "url": "https://finance.yahoo.com/technology/articles/marvell-technology-tops-second-quarter-205816066.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-27T20:58:16Z"
         }
       ]
     },
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 2.48,
+          "price": 186.0,
           "currency": "TWD"
         }
       ]
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 2.48,
+        "price": 186.0,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 80287.63,
-      "change_pct": 1.59
+      "price": 80259.6,
+      "change_pct": 1.56
     },
     {
       "label": "Gold",
-      "price": 4652.2,
-      "change_pct": 1.17
+      "price": 4648.9,
+      "change_pct": 1.1
     },
     {
       "label": "Nasdaq100",

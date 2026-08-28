@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-28T00:26:26+00:00",
+  "as_of": "2026-08-28T00:41:36+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -84,7 +84,7 @@
    "why": "Dow Jones Futures Fall With Fed Chief Warsh Due; Nvidia, These 7 Stocks Are In Buy Zones",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-chief-warsh-speech-nvidia-jumps-software-sector-on-fire/?src=A00220&yptr=yahoo",
-   "published": "2026-08-28T00:06:30Z",
+   "published": "2026-08-28T00:15:10Z",
    "sector": "AI Chips & Compute"
   },
   {
@@ -118,6 +118,22 @@
    "source_url": "https://finance.yahoo.com/technology/ai/articles/c3-ai-vs-oracle-artificial-235659206.html",
    "published": "2026-08-27T23:56:59Z",
    "sector": "AI Software & Cloud Infrastructure"
+  },
+  {
+   "rank": 8,
+   "ticker": "SMR",
+   "company": "NuScale Power Corp",
+   "move_pct": 5.07,
+   "price": 9.74,
+   "volume": 37799732,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 38,
+   "direction": "up",
+   "why": "Oklo and NuScale Power Have Shed a Combined 85.3% This Year. Why Are Nuclear Stocks Falling?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/oklo-nuscale-power-shed-combined-002500694.html",
+   "published": "2026-08-28T00:25:00Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

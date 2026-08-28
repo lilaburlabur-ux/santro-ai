@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| This AI Fund Is Crushing QQQ, and Nvidia Is Barely 2% of It | 24/7 Wall St. | 2026-08-28 |
+| History Says the Nasdaq-100 Does This in September. AI Investors Should Take Note. | Motley Fool | 2026-08-28 |
 | Western Digital Just Dropped 13% in a Month. Is It Time to Sell? | 24/7 Wall St. | 2026-08-28 |
 | Nvidia Breaks Ranks With Chip Stocks as Correlation Hits Just 0.03 | GuruFocus.com | 2026-08-28 |
-| Micron Just Added $10 Billion to Its U.S. AI Bet | GuruFocus.com | 2026-08-28 |
-| Here's Why Micron Stock Can Double Next Year | Motley Fool | 2026-08-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

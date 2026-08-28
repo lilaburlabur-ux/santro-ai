@@ -37,9 +37,9 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Headline | Source | Date |
 |---|---|---|
 | ARM's Expanding AI Growth Opportunity Goes Beyond Market Hype | Zacks | 2026-08-28 |
-| Stocks Mixed Ahead of Fed Chair Warsh | Barchart | 2026-08-28 |
 | AMD Stock Upgraded To Strong Buy. Here's Why. | Investor's Business Daily | 2026-08-25 |
 | Arm Rises 2.8% as $272 Target Prices the CPU Tollbooth | GuruFocus.com | 2026-08-25 |
+| AMD Stock Gets a ‘Strong Buy’ Upgrade: Why It Could Outperform Nvidia | Barrons.com | 2026-08-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

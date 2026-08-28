@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| This AI Fund Is Crushing QQQ, and Nvidia Is Barely 2% of It | 24/7 Wall St. | 2026-08-28 |
+| History Says the Nasdaq-100 Does This in September. AI Investors Should Take Note. | Motley Fool | 2026-08-28 |
 | Broadcom vs. AMD: Which AI Chip Stock Has the Better Risk-Reward? | Zacks | 2026-08-28 |
 | ARM's Expanding AI Growth Opportunity Goes Beyond Market Hype | Zacks | 2026-08-28 |
-| NVIDIA (NVDA)’s Real Advantage Isn’t Chips Anymore. It’s Money | Insider Monkey | 2026-08-28 |
-| Nvidia vs. AMD: The Charts Point to a Clear Winner | Barrons.com | 2026-08-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

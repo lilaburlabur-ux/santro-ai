@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| 6 things investors need to watch in the week ahead | Yahoo Finance Video | 2026-08-28 |
+| Jobs report, Broadcom results pose next hurdles for stock market rally | Reuters | 2026-08-28 |
 | Marvell Technology Issues Soft Quarterly Gross Margin Outlook on Greater Custom Mix, B. Riley Says | MT Newswires | 2026-08-28 |
 | Broadcom vs. AMD: Which AI Chip Stock Has the Better Risk-Reward? | Zacks | 2026-08-28 |
-| Broadcom's $16 Billion AI Quarter Faces the Marvell Timing Trap | GuruFocus.com | 2026-08-28 |
-| Broadcom Is About to Face Nvidia's Impossible AI Bar | GuruFocus.com | 2026-08-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

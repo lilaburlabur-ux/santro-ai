@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-28T23:06:23+00:00",
-  "as_of_local": "2026-08-28 23:06:23 UTC",
+  "as_of_utc": "2026-08-28T23:12:32+00:00",
+  "as_of_local": "2026-08-28 23:12:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -27,10 +25,10 @@
           "published": "2026-08-27T18:05:19Z"
         },
         {
-          "title": "Ulta Beauty Stock Is Down Today. Now Could Be a Good Time to Buy.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ulta-beauty-stock-down-today-224230249.html",
+          "title": "CrowdStrike Just Had Its Best Quarter Ever, and I'm Not Buying the Stock at 43 Times Revenue",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-just-had-best-quarter-230102677.html",
           "publisher": "Motley Fool",
-          "published": "2026-08-28T22:42:30Z"
+          "published": "2026-08-28T23:01:02Z"
         }
       ]
     },
@@ -119,12 +117,40 @@
       ]
     },
     {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 465.58,
+      "previous_close": 476.67,
+      "change_pct": -2.33,
+      "market_cap": 760047708133.9187,
+      "headlines": [
+        {
+          "title": "This AI Fund Is Crushing QQQ, and Nvidia Is Barely 2% of It",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-fund-crushing-qqq-nvidia-210517610.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-28T21:05:17Z"
+        },
+        {
+          "title": "History Says the Nasdaq-100 Does This in September. AI Investors Should Take Note.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/history-says-nasdaq-100-does-201700725.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-28T20:17:00Z"
+        },
+        {
+          "title": "Broadcom vs. AMD: Which AI Chip Stock Has the Better Risk-Reward?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-vs-amd-ai-chip-190000795.html",
+          "publisher": "Zacks",
+          "published": "2026-08-28T19:00:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 89.47,
       "previous_close": 92.09,
       "change_pct": -2.85,
-      "market_cap": 470122475817.2667,
+      "market_cap": 472947844243.9052,
       "headlines": [
         {
           "title": "Kevin Warsh didn't bring up the $40 trillion national debt or historic deficits in his Jackson Hole speech",
@@ -264,7 +290,7 @@
       "price": 114.4,
       "previous_close": 120.47,
       "change_pct": -5.04,
-      "market_cap": 16248263333.520996,
+      "market_cap": 16216109725.892128,
       "headlines": [
         {
           "title": "MCHP's Portfolio Expansion Boosts Growth Prospects Against AMD & LSCC",
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 77684.98,
-      "change_pct": -3.21
+      "price": 77699.87,
+      "change_pct": -3.19
     },
     {
       "label": "Gold",

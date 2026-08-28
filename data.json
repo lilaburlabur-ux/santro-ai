@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-28T10:38:22+00:00",
-  "as_of_local": "2026-08-28 10:38:22 UTC",
+  "as_of_utc": "2026-08-28T10:43:26+00:00",
+  "as_of_local": "2026-08-28 10:43:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -150,7 +152,7 @@
       "price": 92.09,
       "previous_close": 88.24,
       "change_pct": 4.36,
-      "market_cap": 483889309105.69995,
+      "market_cap": 486797414219.28436,
       "headlines": [
         {
           "title": "Tech stocks today: Tech stocks gain after Nvidia tops Q2 expectations",
@@ -290,7 +292,7 @@
       "price": 120.47,
       "previous_close": 119.34,
       "change_pct": 0.95,
-      "market_cap": 17110387041.216797,
+      "market_cap": 17076527381.263702,
       "headlines": [
         {
           "title": "Stocks making big moves yesterday: Intuit, Xponential Fitness, Abercrombie and Fitch, Lattice Semiconductor, and Photronics",
@@ -309,34 +311,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-lattice-semiconductor-lscc-stock-204734997.html",
           "publisher": "StockStory",
           "published": "2026-08-26T20:47:34Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 152.28,
-      "previous_close": 146.88,
-      "change_pct": 3.68,
-      "market_cap": 7739267750.160675,
-      "headlines": [
-        {
-          "title": "AVAV Stock Gains As NASA Taps AeroVironment For Three Mars Helicopters For 2028 Mission \u2014 Here\u2019s What They\u2019ll Be Looking For Under The Martian Surface",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/avav-stock-gains-nasa-taps-175605881.html",
-          "publisher": "Stocktwits",
-          "published": "2026-08-27T17:56:05Z"
-        },
-        {
-          "title": "Unusual Machines Jumps 8%, Ondas Holdings Rises 6% as Risk Appetite Returns to Drone Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-jumps-8-ondas-155712239.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-27T15:57:12Z"
-        },
-        {
-          "title": "AVAV Stock Rises Overnight: AeroVironment Pockets $51M Army Contract Ahead Of Q1 Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/avav-stock-rises-overnight-aerovironment-063946616.html",
-          "publisher": "Stocktwits",
-          "published": "2026-08-27T06:39:46Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 79347.32,
+      "price": 79347.55,
       "change_pct": -1.13
     },
     {
       "label": "Gold",
-      "price": 4656.6,
-      "change_pct": 1.02
+      "price": 4660.6,
+      "change_pct": 1.1
     },
     {
       "label": "Nasdaq100",

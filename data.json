@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-29T20:09:03+00:00",
-  "as_of_local": "2026-08-29 20:09:03 UTC",
+  "as_of_utc": "2026-08-29T20:24:00+00:00",
+  "as_of_local": "2026-08-29 20:24:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-08-28T21:03:00Z"
         },
         {
-          "title": "Why JEPQ\u2019s 10.7% Yield Looked Irresistible Until Nvidia Rallied",
-          "url": "https://finance.yahoo.com/markets/options/articles/why-jepq-10-7-yield-200023523.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-29T20:00:23Z"
+          "title": "Struggling to Cover Your Costs in Retirement? 3 Questions to Ask Yourself.",
+          "url": "https://finance.yahoo.com/markets/articles/struggling-cover-costs-retirement-3-200300166.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-29T20:03:00Z"
         }
       ]
     },
@@ -117,40 +119,12 @@
       ]
     },
     {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 465.58,
-      "previous_close": 476.67,
-      "change_pct": -2.33,
-      "market_cap": 760047708133.9187,
-      "headlines": [
-        {
-          "title": "This AI Fund Is Crushing QQQ, and Nvidia Is Barely 2% of It",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-fund-crushing-qqq-nvidia-210517610.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-28T21:05:17Z"
-        },
-        {
-          "title": "History Says the Nasdaq-100 Does This in September. AI Investors Should Take Note.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/history-says-nasdaq-100-does-201700725.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-28T20:17:00Z"
-        },
-        {
-          "title": "Broadcom vs. AMD: Which AI Chip Stock Has the Better Risk-Reward?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-vs-amd-ai-chip-190000795.html",
-          "publisher": "Zacks",
-          "published": "2026-08-28T19:00:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 89.47,
       "previous_close": 92.09,
       "change_pct": -2.85,
-      "market_cap": 470122475817.2667,
+      "market_cap": 472947844243.9052,
       "headlines": [
         {
           "title": "I'd Rather Bet on AI's Electric Bill Than Its Chips. Here's Why.",
@@ -290,7 +264,7 @@
       "price": 114.4,
       "previous_close": 120.47,
       "change_pct": -5.04,
-      "market_cap": 16248263333.520996,
+      "market_cap": 16216109725.892128,
       "headlines": [
         {
           "title": "Lattice Semiconductor Sees AMI Combination Powering $3B AI Data Center Ambition",
@@ -585,8 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78223.33,
-      "change_pct": -2.53
+      "price": 78214.15,
+      "change_pct": -2.55
+    },
+    {
+      "label": "Gold",
+      "price": 4478.1,
+      "change_pct": -2.85
     },
     {
       "label": "Nasdaq100",

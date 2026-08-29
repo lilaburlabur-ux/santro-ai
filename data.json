@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-29T10:02:32+00:00",
-  "as_of_local": "2026-08-29 10:02:32 UTC",
+  "as_of_utc": "2026-08-29T10:17:32+00:00",
+  "as_of_local": "2026-08-29 10:17:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-08-28T21:03:00Z"
         },
         {
+          "title": "Prediction: Tesla Stock Will Plummet Below $100 if the S&P 500 Enters a Bear Market",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-tesla-stock-plummet-below-095100925.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-29T09:51:00Z"
+        },
+        {
           "title": "A Nationwide, Industry-Owned Blockchain Network for Banks Will Launch in 2027. Here's What Crypto Investors Need to Know.",
           "url": "https://finance.yahoo.com/markets/crypto/articles/nationwide-industry-owned-blockchain-network-095000054.html",
           "publisher": "Motley Fool",
           "published": "2026-08-29T09:50:00Z"
-        },
-        {
-          "title": "This \u201cBoring\u201d Vanguard Dividend ETF Is Quietly Beating the S&P 500 in 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/boring-vanguard-dividend-etf-quietly-094104958.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-29T09:41:04Z"
         }
       ]
     },
@@ -150,7 +152,7 @@
       "price": 92.09,
       "previous_close": 88.24,
       "change_pct": 4.36,
-      "market_cap": 470122469403.05,
+      "market_cap": 472947837791.14,
       "headlines": [
         {
           "title": "Kevin Warsh didn't bring up the $40 trillion national debt or historic deficits in his Jackson Hole speech",
@@ -290,7 +292,7 @@
       "price": 120.47,
       "previous_close": 119.34,
       "change_pct": 0.95,
-      "market_cap": 16248263116.800001,
+      "market_cap": 16216109509.6,
       "headlines": [
         {
           "title": "Lattice Semiconductor Sees AMI Combination Powering $3B AI Data Center Ambition",
@@ -337,34 +339,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-stock-looks-stretched-181429608.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-28T18:14:29Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 97.59,
-      "previous_close": 95.7,
-      "change_pct": 1.97,
-      "market_cap": 3718292228.88,
-      "headlines": [
-        {
-          "title": "Synaptics' CEO Sold Stock After a 120,000-Share Vest. Here's What to Know.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-ceo-sold-stock-120-091014820.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T09:10:14Z"
-        },
-        {
-          "title": "Synaptics' CFO Disposed of Stock as an 88%-12% OnSemi Ownership Split Takes Shape. Here's What to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-cfo-disposed-stock-88-085902653.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T08:59:02Z"
-        },
-        {
-          "title": "A Synaptics Insider Filing Lands as a $7.8 Billion Combined Company Takes Shape",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-insider-filing-lands-7-083001176.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T08:30:01Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 77636.46,
-      "change_pct": -3.27
+      "price": 77664.99,
+      "change_pct": -3.23
     },
     {
       "label": "Gold",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-29T16:57:42+00:00",
-  "as_of_local": "2026-08-29 16:57:42 UTC",
+  "as_of_utc": "2026-08-29T17:12:51+00:00",
+  "as_of_local": "2026-08-29 17:12:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-08-28T21:03:00Z"
         },
         {
-          "title": "Could This Hot Growth Stock Be the Next MercadoLibre? Why It Looks Like a Screaming Buy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/could-hot-growth-stock-next-165001475.html",
+          "title": "If a Stock Market Crash Is on the Way, History Says This Is the Smartest Thing Investors Can Do",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-way-history-165700081.html",
           "publisher": "Motley Fool",
-          "published": "2026-08-29T16:50:01Z"
+          "published": "2026-08-29T16:57:00Z"
         }
       ]
     },
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/vug-vs-voog-not-fee-135318978.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-29T13:53:18Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 935.39,
-      "previous_close": 938.4,
-      "change_pct": -0.32,
-      "market_cap": 1053565694841.86,
-      "headlines": [
-        {
-          "title": "Memory Now Accounts for 50% of Global Semiconductor Revenue \u2014 But There\u2019s a Catch",
-          "url": "https://finance.yahoo.com/technology/articles/memory-now-accounts-50-global-160649380.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-29T16:06:49Z"
-        },
-        {
-          "title": "Nvidia's CFO Just Explained Why the AI Boom Is Eating Its Gross Margin -- and It's a Green Light for Micron",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-cfo-just-explained-why-155000009.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-29T15:50:00Z"
-        },
-        {
-          "title": "Intel Sold Its NAND Memory Business for About $9 Billion. Micron Is Now Worth More Than Twice What Intel Is.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-sold-nand-memory-business-090701280.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-29T09:07:01Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -0.32,
-          "price": 935.39,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -0.32,
-        "price": 935.39,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 78013.15,
-      "change_pct": -2.8
+      "price": 78054.99,
+      "change_pct": -2.74
     },
     {
       "label": "Gold",

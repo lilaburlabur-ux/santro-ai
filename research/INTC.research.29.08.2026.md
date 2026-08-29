@@ -125,7 +125,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | 52W low | $24.00 | Inst. ownership | 62.53% |
 | P/E (ttm) | — | Insider ownership | 13.99% |
 | Forward P/E | 43.86 | Short float | 2.57% |
-| PEG (trailing) | — | Avg volume | 117,518,138 |
+| PEG (trailing) | — | Avg volume | 118,695,249 |
 | P/S | 8.29 | Employees | 85,100 |
 | P/B | 5.15 | Analyst rec (1=buy..5=sell) | 2.5 |
 

@@ -36,7 +36,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
-| Stocks Fall as Hawkish Warsh Boosts Fed Rate Hike Chances | Barchart | 2026-08-28 |
+| IBM Introduces New Mainframe Processor Combining Its Own Tech With Arm Architecture | Insider Monkey | 2026-08-29 |
 | ARM's Expanding AI Growth Opportunity Goes Beyond Market Hype | Zacks | 2026-08-28 |
 | AMD Stock Upgraded To Strong Buy. Here's Why. | Investor's Business Daily | 2026-08-25 |
 | Arm Rises 2.8% as $272 Target Prices the CPU Tollbooth | GuruFocus.com | 2026-08-25 |

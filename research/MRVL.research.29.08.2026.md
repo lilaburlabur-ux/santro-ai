@@ -37,9 +37,9 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Headline | Source | Date |
 |---|---|---|
 | Trending: Take-Two Interactive price ascends as 'Grand Theft Auto VI' is teased | Yahoo Finance Video | 2026-08-28 |
+| Marvell Fell After Its Google Deal. Why Did Investors Sell These Two AI Optics Stocks Too? | Insider Monkey | 2026-08-29 |
 | Marvell's AI Bookings Are Stellar. But Its Gross Margin Guide Is What Moved the Stock. | Motley Fool | 2026-08-29 |
 | Marvell Technology (MRVL) Shares Fell After Earnings | Simply Wall St. | 2026-08-29 |
-| Marvell Stock Faces Critical Test After Sharp Drop | GuruFocus.com | 2026-08-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

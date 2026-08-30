@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-30T11:16:46+00:00",
-  "as_of_local": "2026-08-30 11:16:46 UTC",
+  "as_of_utc": "2026-08-30T11:31:48+00:00",
+  "as_of_local": "2026-08-30 11:31:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -313,34 +315,6 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 147.94,
-      "previous_close": 152.28,
-      "change_pct": -2.85,
-      "market_cap": 7518697787.17865,
-      "headlines": [
-        {
-          "title": "AeroVironment (AVAV) Forms AV Eagle Joint Venture In Greece",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-forms-av-eagle-090825723.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-29T09:08:25Z"
-        },
-        {
-          "title": "Is AeroVironment (AVAV) Undervalued On Its New NASA Mars Helicopter Contract?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-undervalued-nasa-mars-001650686.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-29T00:16:50Z"
-        },
-        {
-          "title": "AeroVironment (AVAV) Stock Looks Stretched On Its 57% Three Year Run",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-stock-looks-stretched-181429608.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-28T18:14:29Z"
-        }
-      ]
-    },
-    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 95.08,
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 78140.87,
-      "change_pct": -2.64
+      "price": 78178.95,
+      "change_pct": -2.59
     },
     {
       "label": "Gold",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-30T13:29:34+00:00",
-  "as_of_local": "2026-08-30 13:29:34 UTC",
+  "as_of_utc": "2026-08-30T13:44:43+00:00",
+  "as_of_local": "2026-08-30 13:44:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-08-30T10:00:00Z"
         },
         {
-          "title": "This 2 ETF Portfolio Historically Outperforms the S&P 500 With Less Volatility",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-etf-portfolio-historically-outperforms-131500494.html",
+          "title": "Where Will the Vanguard S&P 500 ETF (VOO) Be in 20 Years? Here's What History Suggests.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/where-vanguard-p-500-etf-132900788.html",
           "publisher": "Motley Fool",
-          "published": "2026-08-30T13:15:00Z"
+          "published": "2026-08-30T13:29:00Z"
         }
       ]
     },
@@ -150,7 +152,7 @@
       "price": 89.47,
       "previous_close": 92.09,
       "change_pct": -2.85,
-      "market_cap": 470122475817.2667,
+      "market_cap": 472947844243.9052,
       "headlines": [
         {
           "title": "Here's How Much You'd Have if You Invested $250 in Intel Stock in 2010",
@@ -281,34 +283,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-28-212934389.html",
           "publisher": "Motley Fool",
           "published": "2026-08-28T21:29:34Z"
-        }
-      ]
-    },
-    {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 114.4,
-      "previous_close": 120.47,
-      "change_pct": -5.04,
-      "market_cap": 16248263333.520996,
-      "headlines": [
-        {
-          "title": "Lattice Semiconductor Sees AMI Combination Powering $3B AI Data Center Ambition",
-          "url": "https://finance.yahoo.com/technology/ai/articles/lattice-semiconductor-sees-ami-combination-020128494.html",
-          "publisher": "MarketBeat",
-          "published": "2026-08-29T02:01:28Z"
-        },
-        {
-          "title": "MCHP's Portfolio Expansion Boosts Growth Prospects Against AMD & LSCC",
-          "url": "https://finance.yahoo.com/technology/articles/mchps-portfolio-expansion-boosts-growth-150200072.html",
-          "publisher": "Zacks",
-          "published": "2026-08-28T15:02:00Z"
-        },
-        {
-          "title": "Stocks making big moves yesterday: Intuit, Xponential Fitness, Abercrombie and Fitch, Lattice Semiconductor, and Photronics",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-161707152.html",
-          "publisher": "StockStory",
-          "published": "2026-08-27T16:17:07Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 78717.57,
-      "change_pct": 1.14
+      "price": 78781.65,
+      "change_pct": 1.22
     },
     {
       "label": "Gold",

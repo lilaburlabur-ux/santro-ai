@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-30T01:48:58+00:00",
-  "as_of_local": "2026-08-30 01:48:58 UTC",
+  "as_of_utc": "2026-08-30T02:04:07+00:00",
+  "as_of_local": "2026-08-30 02:04:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,44 +21,16 @@
           "published": "2026-08-29T11:51:18Z"
         },
         {
+          "title": "President Trump Says the CFTC Is Working to Bring Hyperliquid to the United States. Does That Make It a Screaming Buy?",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/president-trump-says-cftc-working-015000947.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-30T01:50:00Z"
+        },
+        {
           "title": "If You'd Invested $1,000 in QQQ 20 Years Ago, Here's What You'd Have Today",
           "url": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-1-000-qqq-012000382.html",
           "publisher": "Motley Fool",
           "published": "2026-08-30T01:20:00Z"
-        },
-        {
-          "title": "Peter Thiel's Fund Reported Zero Stocks for 2 Straight Quarters. Its $419 Million Comeback Put 72% Into Energy and Power.",
-          "url": "https://finance.yahoo.com/energy/articles/peter-thiels-fund-reported-zero-010301095.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-30T01:03:01Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 417.52,
-      "previous_close": 427.3,
-      "change_pct": -2.29,
-      "market_cap": 2165456572927.4546,
-      "headlines": [
-        {
-          "title": "TSMC vs. ASML: Which Semiconductor Giant Is the Better Stock Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-vs-asml-semiconductor-giant-130500717.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-29T13:05:00Z"
-        },
-        {
-          "title": "Taiwan Semiconductor Manufacturing (TSM) Stock Looks Stretched As Its 363% Run Continues",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-stock-070946891.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-29T07:09:46Z"
-        },
-        {
-          "title": "Nvidia Quietly Became Its Own Market Category",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-quietly-became-own-market-222531285.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-28T22:25:31Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 78095.71,
-      "change_pct": -2.69
+      "price": 78120.99,
+      "change_pct": -2.66
     },
     {
       "label": "Gold",

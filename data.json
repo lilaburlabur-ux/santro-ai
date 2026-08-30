@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-30T13:09:17+00:00",
-  "as_of_local": "2026-08-30 13:09:17 UTC",
+  "as_of_utc": "2026-08-30T13:24:24+00:00",
+  "as_of_local": "2026-08-30 13:24:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -150,7 +150,7 @@
       "price": 89.47,
       "previous_close": 92.09,
       "change_pct": -2.85,
-      "market_cap": 472947844243.9052,
+      "market_cap": 470122475817.2667,
       "headlines": [
         {
           "title": "Here's How Much You'd Have if You Invested $250 in Intel Stock in 2010",
@@ -290,7 +290,7 @@
       "price": 114.4,
       "previous_close": 120.47,
       "change_pct": -5.04,
-      "market_cap": 16216109725.892128,
+      "market_cap": 16248263333.520996,
       "headlines": [
         {
           "title": "Lattice Semiconductor Sees AMI Combination Powering $3B AI Data Center Ambition",
@@ -585,13 +585,18 @@
     },
     {
       "label": "BTC",
-      "price": 78699.77,
-      "change_pct": 1.12
+      "price": 78710.43,
+      "change_pct": 1.13
     },
     {
       "label": "Gold",
       "price": 4529.9,
       "change_pct": -1.73
+    },
+    {
+      "label": "Nasdaq100",
+      "price": 29433.43,
+      "change_pct": -0.7
     }
   ]
 }

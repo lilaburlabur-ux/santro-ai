@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-31T01:46:28+00:00",
-  "as_of_local": "2026-08-31 01:46:28 UTC",
+  "as_of_utc": "2026-08-31T02:01:31+00:00",
+  "as_of_local": "2026-08-31 02:01:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,38 +27,10 @@
           "published": "2026-08-30T10:00:00Z"
         },
         {
-          "title": "Dow Jones Futures Fall, Oil Prices Pop As U.S. Strikes Iran",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-titans-mask-market-weakness/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-31T01:20:53Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 417.52,
-      "previous_close": 427.3,
-      "change_pct": -2.29,
-      "market_cap": 2165456572927.4546,
-      "headlines": [
-        {
-          "title": "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race.",
-          "url": "https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-amd-semiconductor-173500352.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-30T17:35:00Z"
-        },
-        {
-          "title": "Apple Was Always 1 Step Behind in AI. In Chipmaking, It\u2019s Now 1 Step Ahead.",
-          "url": "https://finance.yahoo.com/technology/ai/articles/apple-always-1-step-behind-203002772.html",
-          "publisher": "Barchart",
-          "published": "2026-08-29T20:30:02Z"
-        },
-        {
-          "title": "TSMC vs. ASML: Which Semiconductor Giant Is the Better Stock Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-vs-asml-semiconductor-giant-130500717.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-29T13:05:00Z"
+          "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: NVDA, CRWD, MRVL, CRM, ASTS",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-retail-traders-couldn-t-015233093.html",
+          "publisher": "Stocktwits",
+          "published": "2026-08-31T01:52:33Z"
         }
       ]
     },
@@ -125,6 +99,12 @@
       "market_cap": 760047708133.9187,
       "headlines": [
         {
+          "title": "The Sudden Unraveling of Wall Street\u2019s Momentum Trade",
+          "url": "https://www.wsj.com/finance/stocks/the-sudden-unraveling-of-wall-streets-momentum-trade-fe79b4fa?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-08-31T01:00:00Z"
+        },
+        {
           "title": "Advanced Micro Devices (AMD) Is Exposed To Proposed US Chip Tariffs",
           "url": "https://finance.yahoo.com/economy/policy/articles/advanced-micro-devices-amd-exposed-182033681.html",
           "publisher": "Simply Wall St.",
@@ -135,12 +115,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-amd-semiconductor-173500352.html",
           "publisher": "Motley Fool",
           "published": "2026-08-30T17:35:00Z"
-        },
-        {
-          "title": "Nvidia Just Delivered Bad News for AMD and Intel",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-delivered-bad-news-154200130.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-30T15:42:00Z"
         }
       ]
     },
@@ -215,16 +189,16 @@
           "published": "2026-08-30T11:49:05Z"
         },
         {
+          "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: NVDA, CRWD, MRVL, CRM, ASTS",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-retail-traders-couldn-t-015233093.html",
+          "publisher": "Stocktwits",
+          "published": "2026-08-31T01:52:33Z"
+        },
+        {
           "title": "Morgan Stanley points to the good news in Marvell's data centers",
           "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-points-good-news-013700846.html",
           "publisher": "TheStreet",
           "published": "2026-08-31T01:37:00Z"
-        },
-        {
-          "title": "Jim Cramer Says Marvell Is Expensive Unless Everything Works, and Then It Is Cheap",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-marvell-expensive-204519804.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-30T20:45:19Z"
         }
       ]
     },
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -3.39,
-          "price": 1597000.0,
+          "change_pct": -2.6,
+          "price": 1610000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 1.5,
-          "price": 48620.0,
+          "change_pct": 0.73,
+          "price": 48250.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 0.74,
-          "price": 544.0,
+          "change_pct": 1.3,
+          "price": 547.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 0.55,
-          "price": 182.5,
+          "change_pct": 0.83,
+          "price": 183.0,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -3.39,
-        "price": 1597000.0,
+        "change_pct": -2.6,
+        "price": 1610000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 1.5,
-        "price": 48620.0,
+        "change_pct": 0.73,
+        "price": 48250.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 0.74,
-        "price": 544.0,
+        "change_pct": 1.3,
+        "price": 547.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 0.55,
-        "price": 182.5,
+        "change_pct": 0.83,
+        "price": 183.0,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 77828.42,
-      "change_pct": -0.0
+      "price": 77604.28,
+      "change_pct": -0.29
     },
     {
       "label": "Gold",
-      "price": 4490.3,
-      "change_pct": 0.27
+      "price": 4489.5,
+      "change_pct": 0.25
     },
     {
       "label": "Nasdaq100",

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-31T13:07:01+00:00",
-  "as_of_local": "2026-08-31 13:07:01 UTC",
+  "as_of_utc": "2026-08-31T13:11:55+00:00",
+  "as_of_local": "2026-08-31 13:11:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -125,6 +125,12 @@
       "market_cap": 760047708133.9187,
       "headlines": [
         {
+          "title": "Cathie Wood's ARK Invest bought $53M of Nvidia stock after earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-invest-bought-125741428.html",
+          "publisher": "Quartz",
+          "published": "2026-08-31T12:57:41Z"
+        },
+        {
           "title": "Top 10 S&P 500 Stocks of the Past Decade Share One Clear Theme",
           "url": "https://finance.yahoo.com/markets/stocks/articles/top-10-p-500-stocks-021336532.html",
           "publisher": "BeInCrypto",
@@ -135,12 +141,6 @@
           "url": "https://www.wsj.com/finance/stocks/the-sudden-unraveling-of-wall-streets-momentum-trade-fe79b4fa?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-08-31T01:00:00Z"
-        },
-        {
-          "title": "Advanced Micro Devices (AMD) Is Exposed To Proposed US Chip Tariffs",
-          "url": "https://finance.yahoo.com/economy/policy/articles/advanced-micro-devices-amd-exposed-182033681.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-30T18:20:33Z"
         }
       ]
     },
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 0.56,
+          "price": 543.0,
           "currency": "TWD"
         },
         {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 0.56,
+        "price": 543.0,
         "currency": "TWD"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 78051.92,
-      "change_pct": 0.28
+      "price": 78017.67,
+      "change_pct": 0.24
     },
     {
       "label": "Gold",
-      "price": 4487.6,
-      "change_pct": 0.21
+      "price": 4486.3,
+      "change_pct": 0.18
     },
     {
       "label": "Nasdaq100",

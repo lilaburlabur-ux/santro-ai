@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| The Biggest Risk To Cerebras Systems Stock Is Sitting Inside Its Backlog | Trefis | 2026-08-31 |
 | Is Broadcom (AVGO) Stock a Buy Before Its Q3 Earnings? | Zacks | 2026-08-31 |
 | Qualcomm Just Gained 15% in a Month: Take Profits, or Buy More? | 24/7 Wall St. | 2026-08-31 |
 | Could Marvell Be the Next $100 Billion AI Stock? | 24/7 Wall St. | 2026-08-31 |
-| LITE's AI Optics Push Boosts Growth Prospects Against MRVL & NVDA | Zacks | 2026-08-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

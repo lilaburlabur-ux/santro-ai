@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| The Biggest Risk To Cerebras Systems Stock Is Sitting Inside Its Backlog | Trefis | 2026-08-31 |
 | Is Broadcom (AVGO) Stock a Buy Before Its Q3 Earnings? | Zacks | 2026-08-31 |
 | VGT’s $58 Billion AI Chip Concentration Could Derail Your 2027 Returns | 24/7 Wall St. | 2026-08-31 |
 | Not Nvidia, Not AMD. Micron Could Be September's Biggest AI Winner or Loser. | Motley Fool | 2026-08-31 |
-| Nvidia Looks Like a Growth Stock Again. Why the Chip Maker Is a Bargain. | Barrons.com | 2026-08-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

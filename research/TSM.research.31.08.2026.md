@@ -15,11 +15,11 @@ Signed file: `TSM.research.31.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +75.48%; price +12.72% vs SMA200. |
+| Technical momentum | High | 1Y +76.23%; price +12.52% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -13.03% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 49.92%, revenue growth 36.00%. |
 | Value attractiveness | Reasonable | Forward P/E 19.07, EV/Sales 3.36. |
-| Risk level | Elevated | Beta 1.26, ATR 3.1% of price, short float 0.62%. |
+| Risk level | Elevated | Beta 1.26, ATR 3.0% of price, short float 0.62%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -45,20 +45,20 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $415.32; 52w high $477.57 (-13.03%); 52w low $225.89 (+83.86%) |
-| Trend | +12.72% vs SMA200, -1.91% vs SMA50, -0.89% vs SMA20 |
-| Momentum | RSI(14) 48.5 (neutral) |
-| Volatility | ATR(14) 12.80 (~3.1% of price); beta 1.26 |
+| Trend | +12.52% vs SMA200, -1.70% vs SMA50, -1.03% vs SMA20 |
+| Momentum | RSI(14) 48.4 (neutral) |
+| Volatility | ATR(14) 12.47 (~3.0% of price); beta 1.26 |
 | Setup perspective | -13.03% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.9% |
-| Month | +3.0% |
-| Quarter | -0.5% |
-| Half Y | +11.4% |
-| 1Y | +75.5% |
+| Week | +1.3% |
+| Month | +2.7% |
+| Quarter | -4.4% |
+| Half Y | +13.1% |
+| 1Y | +76.2% |
 | YTD | +30.6% |
 
 ## 4. Fundamental Analysis
@@ -95,7 +95,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Bank of America Corporation | 15,282,620 | 0.29% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.26, ATR 3.1% of price, short float 0.62%. Size positions accordingly.
+- **Volatility risk:** Beta 1.26, ATR 3.0% of price, short float 0.62%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -113,11 +113,11 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Price | $415.32 | EV/Sales | 3.36 |
 | Market cap | $2.15T | EV/EBITDA | 4.71 |
 | Beta | 1.26 | Gross margin | 64.23% |
-| RSI(14) | 48.5 | Operating margin | 60.34% |
-| ATR(14) | 12.80 | Profit margin | 49.92% |
-| SMA20 dist | -0.89% | ROA | 19.00% |
-| SMA50 dist | -1.91% | ROE | 39.97% |
-| SMA200 dist | +12.72% | Revenue (ttm) | $4.44T |
+| RSI(14) | 48.4 | Operating margin | 60.34% |
+| ATR(14) | 12.47 | Profit margin | 49.92% |
+| SMA20 dist | -1.03% | ROA | 19.00% |
+| SMA50 dist | -1.70% | ROE | 39.97% |
+| SMA200 dist | +12.52% | Revenue (ttm) | $4.44T |
 | 52W high | $477.57 | Revenue growth y/y | 36.00% |
 | 52W low | $225.89 | Inst. ownership | 15.49% |
 | P/E (ttm) | 30.90 | Insider ownership | 0.01% |

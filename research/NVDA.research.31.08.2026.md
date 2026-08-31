@@ -15,7 +15,7 @@ Signed file: `NVDA.research.31.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +21.74%; price +12.83% vs SMA200. |
+| Technical momentum | Moderate | 1Y +22.70%; price +12.76% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -6.24% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 63.66%, revenue growth 105.90%. |
 | Value attractiveness | Reasonable | Forward P/E 14.33, EV/Sales 17.23. |
@@ -37,28 +37,28 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Tech stocks today: Apple stock slips as Tim Cook prepares to step down | Yahoo Finance | 2026-08-31 |
-| Nvidia Stock Teases Buy Zone After Beat-And-Raise Report. Watch These Clues. | Investor's Business Daily | 2026-08-31 |
-| Sector Update: Tech Stocks Rise Late Afternoon | MT Newswires | 2026-08-31 |
-| Walmart Settled One of Its Ugliest Lawsuits for 0.4% of Six-Month Profit | 24/7 Wall St. | 2026-08-31 |
+| The Biggest Risk To Cerebras Systems Stock Is Sitting Inside Its Backlog | Trefis | 2026-08-31 |
+| Science Applications International Corporation Q2 2027 Earnings Call Summary | Moby | 2026-08-31 |
+| Dow Jones Futures: Trump's Iran Warning Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla Rally | Investor's Business Daily | 2026-08-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $220.78; 52w high $235.47 (-6.24%); 52w low $164.98 (+33.82%) |
-| Trend | +12.83% vs SMA200, +5.90% vs SMA50, +1.18% vs SMA20 |
-| Momentum | RSI(14) 54.8 (neutral) |
-| Volatility | ATR(14) 7.61 (~3.4% of price); beta 2.21 |
+| Trend | +12.76% vs SMA200, +5.83% vs SMA50, +0.93% vs SMA20 |
+| Momentum | RSI(14) 54.6 (neutral) |
+| Volatility | ATR(14) 7.48 (~3.4% of price); beta 2.21 |
 | Setup perspective | -6.24% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.8% |
-| Month | +13.2% |
-| Quarter | +4.7% |
-| Half Y | +24.8% |
-| 1Y | +21.7% |
+| Week | +5.9% |
+| Month | +10.0% |
+| Quarter | -1.5% |
+| Half Y | +21.1% |
+| 1Y | +22.7% |
 | YTD | +17.1% |
 
 ## 4. Fundamental Analysis
@@ -114,11 +114,11 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Price | $220.78 | EV/Sales | 17.23 |
 | Market cap | $5.33T | EV/EBITDA | 25.93 |
 | Beta | 2.21 | Gross margin | 74.67% |
-| RSI(14) | 54.8 | Operating margin | 66.24% |
-| ATR(14) | 7.61 | Profit margin | 63.66% |
-| SMA20 dist | +1.18% | ROA | 53.57% |
-| SMA50 dist | +5.90% | ROE | 117.21% |
-| SMA200 dist | +12.83% | Revenue (ttm) | $302.97B |
+| RSI(14) | 54.6 | Operating margin | 66.24% |
+| ATR(14) | 7.48 | Profit margin | 63.66% |
+| SMA20 dist | +0.93% | ROA | 53.57% |
+| SMA50 dist | +5.83% | ROE | 117.21% |
+| SMA200 dist | +12.76% | Revenue (ttm) | $302.97B |
 | 52W high | $235.47 | Revenue growth y/y | 105.90% |
 | 52W low | $164.98 | Inst. ownership | 71.50% |
 | P/E (ttm) | 27.88 | Insider ownership | 4.01% |

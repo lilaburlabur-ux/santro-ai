@@ -15,11 +15,11 @@ Signed file: `MU.research.31.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +715.51%; price +62.94% vs SMA200. |
+| Technical momentum | High | 1Y +687.11%; price +61.98% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -20.99% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 55.91%, revenue growth 345.70%. |
 | Value attractiveness | Reasonable | Forward P/E 6.18, EV/Sales 11.45. |
-| Risk level | High | Beta 2.21, ATR 6.2% of price, short float 2.66%. |
+| Risk level | High | Beta 2.21, ATR 6.1% of price, short float 2.66%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,29 +36,29 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
-| Not Nvidia, Not AMD. Micron Could Be September's Biggest AI Winner or Loser. | Motley Fool | 2026-08-31 |
-| Apple Just Raised Mac and iPad Prices 20%, So Who Is Getting Rich Off the Shortage? | 24/7 Wall St. | 2026-08-31 |
+| Dow Jones Futures: Trump's Iran Warning Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla Rally | Investor's Business Daily | 2026-08-31 |
+| VGT’s $58 Billion AI Chip Concentration Could Derail Your 2027 Returns | 24/7 Wall St. | 2026-08-31 |
 | How to Play the Micron vs. CXMT Memory-Chip War | Barrons.com | 2026-08-31 |
-| Jim Cramer has strong message for Micron stock investors | TheStreet | 2026-08-31 |
+| Not Nvidia, Not AMD. Micron Could Be September's Biggest AI Winner or Loser. | Motley Fool | 2026-08-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $958.73; 52w high $1,213.37 (-20.99%); 52w low $118.29 (+710.49%) |
-| Trend | +62.94% vs SMA200, +0.34% vs SMA50, +3.96% vs SMA20 |
-| Momentum | RSI(14) 53.6 (neutral) |
-| Volatility | ATR(14) 59.84 (~6.2% of price); beta 2.21 |
+| Trend | +61.98% vs SMA200, +0.76% vs SMA50, +3.39% vs SMA20 |
+| Momentum | RSI(14) 53.8 (neutral) |
+| Volatility | ATR(14) 58.21 (~6.1% of price); beta 2.21 |
 | Setup perspective | -20.99% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.8% |
-| Month | +9.6% |
-| Quarter | -1.2% |
-| Half Y | +132.6% |
-| 1Y | +715.5% |
+| Week | +5.3% |
+| Month | +16.5% |
+| Quarter | -7.4% |
+| Half Y | +132.5% |
+| 1Y | +687.1% |
 | YTD | +204.1% |
 
 ## 4. Fundamental Analysis
@@ -95,7 +95,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Primecap Management Company | 19,217,236 | 1.70% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.21, ATR 6.2% of price, short float 2.66%. Size positions accordingly.
+- **Volatility risk:** Beta 2.21, ATR 6.1% of price, short float 2.66%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -113,11 +113,11 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Price | $958.73 | EV/Sales | 11.45 |
 | Market cap | $1.08T | EV/EBITDA | 15.15 |
 | Beta | 2.21 | Gross margin | 72.57% |
-| RSI(14) | 53.6 | Operating margin | 80.37% |
-| ATR(14) | 59.84 | Profit margin | 55.91% |
-| SMA20 dist | +3.96% | ROA | 34.87% |
-| SMA50 dist | +0.34% | ROE | 66.64% |
-| SMA200 dist | +62.94% | Revenue (ttm) | $90.27B |
+| RSI(14) | 53.8 | Operating margin | 80.37% |
+| ATR(14) | 58.21 | Profit margin | 55.91% |
+| SMA20 dist | +3.39% | ROA | 34.87% |
+| SMA50 dist | +0.76% | ROE | 66.64% |
+| SMA200 dist | +61.98% | Revenue (ttm) | $90.27B |
 | 52W high | $1,213.37 | Revenue growth y/y | 345.70% |
 | 52W low | $118.29 | Inst. ownership | 79.99% |
 | P/E (ttm) | 21.68 | Insider ownership | 0.24% |

@@ -15,11 +15,11 @@ Signed file: `AMD.research.31.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +181.65%; price +40.27% vs SMA200. |
+| Technical momentum | High | 1Y +179.23%; price +39.80% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -18.97% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 15.58%, revenue growth 50.10%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 30.47, EV/Sales 18.19. |
-| Risk level | High | Beta 2.49, ATR 5.3% of price, short float 2.46%. |
+| Risk level | High | Beta 2.49, ATR 5.1% of price, short float 2.46%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
 
@@ -36,29 +36,29 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Is Broadcom (AVGO) Stock a Buy Before Its Q3 Earnings? | Zacks | 2026-08-31 |
+| VGT’s $58 Billion AI Chip Concentration Could Derail Your 2027 Returns | 24/7 Wall St. | 2026-08-31 |
 | Not Nvidia, Not AMD. Micron Could Be September's Biggest AI Winner or Loser. | Motley Fool | 2026-08-31 |
-| Wall Street Is Looking Here. I’m Looking Somewhere Else | 24/7 Wall St. | 2026-08-31 |
-| How Investors Are Reacting To Cisco Systems (CSCO) Expanding Sovereign AI Infrastructure In Saudi Arabia | Simply Wall St. | 2026-08-31 |
-| AMD Enters a Sovereign AI Showcase, Not a Revenue Windfall | GuruFocus.com | 2026-08-31 |
+| Nvidia Looks Like a Growth Stock Again. Why the Chip Maker Is a Bargain. | Barrons.com | 2026-08-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $470.72; 52w high $580.91 (-18.97%); 52w low $151.14 (+211.45%) |
-| Trend | +40.27% vs SMA200, -7.01% vs SMA50, -2.40% vs SMA20 |
-| Momentum | RSI(14) 46.0 (neutral) |
-| Volatility | ATR(14) 25.04 (~5.3% of price); beta 2.49 |
+| Trend | +39.80% vs SMA200, -6.74% vs SMA50, -2.21% vs SMA20 |
+| Momentum | RSI(14) 46.3 (neutral) |
+| Volatility | ATR(14) 24.14 (~5.1% of price); beta 2.49 |
 | Setup perspective | -18.97% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.5% |
-| Month | -3.0% |
-| Quarter | -8.8% |
-| Half Y | +135.1% |
-| 1Y | +181.6% |
+| Week | +3.1% |
+| Month | -1.1% |
+| Quarter | -7.7% |
+| Half Y | +137.0% |
+| 1Y | +179.2% |
 | YTD | +110.6% |
 
 ## 4. Fundamental Analysis
@@ -96,7 +96,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 30.47, EV/Sales 18.19. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.49, ATR 5.3% of price, short float 2.46%. Size positions accordingly.
+- **Volatility risk:** Beta 2.49, ATR 5.1% of price, short float 2.46%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -114,11 +114,11 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Price | $470.72 | EV/Sales | 18.19 |
 | Market cap | $768.44B | EV/EBITDA | 78.56 |
 | Beta | 2.49 | Gross margin | 55.72% |
-| RSI(14) | 46.0 | Operating margin | 17.25% |
-| ATR(14) | 25.04 | Profit margin | 15.58% |
-| SMA20 dist | -2.40% | ROA | 5.13% |
-| SMA50 dist | -7.01% | ROE | 10.20% |
-| SMA200 dist | +40.27% | Revenue (ttm) | $41.31B |
+| RSI(14) | 46.3 | Operating margin | 17.25% |
+| ATR(14) | 24.14 | Profit margin | 15.58% |
+| SMA20 dist | -2.21% | ROA | 5.13% |
+| SMA50 dist | -6.74% | ROE | 10.20% |
+| SMA200 dist | +39.80% | Revenue (ttm) | $41.31B |
 | 52W high | $580.91 | Revenue growth y/y | 50.10% |
 | 52W low | $151.14 | Inst. ownership | 75.39% |
 | P/E (ttm) | 120.39 | Insider ownership | 0.42% |

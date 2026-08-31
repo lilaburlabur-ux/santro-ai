@@ -15,11 +15,11 @@ Signed file: `AVGO.research.31.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +24.25%; price +0.49% vs SMA200. |
+| Technical momentum | Moderate | 1Y +20.87%; price +0.46% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -22.98% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 38.85%, revenue growth 47.90%. |
 | Value attractiveness | Reasonable | Forward P/E 18.92, EV/Sales 23.85. |
-| Risk level | Elevated | Beta 1.47, ATR 3.7% of price, short float 1.20%. |
+| Risk level | Elevated | Beta 1.47, ATR 3.6% of price, short float 1.20%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -36,29 +36,29 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Is Broadcom (AVGO) Stock a Buy Before Its Q3 Earnings? | Zacks | 2026-08-31 |
+| Update: Equities Fall as US-Iran Conflict Flares Up; Wall Street Logs Gains for August | MT Newswires | 2026-08-31 |
+| VGT’s $58 Billion AI Chip Concentration Could Derail Your 2027 Returns | 24/7 Wall St. | 2026-08-31 |
 | Broadcom Has Trailed the S&P 500 This Year. That Shouldn't Last Much Longer. | Motley Fool | 2026-08-31 |
-| Read This Before Buying VYM. Retirement Investors Are Losing This Critical Income Sleeve. | 24/7 Wall St. | 2026-08-31 |
-| Could Marvell Be the Next $100 Billion AI Stock? | 24/7 Wall St. | 2026-08-31 |
-| Update: Equities Fall Intraday as Oil Prices Rise on Renewed US-Iran Hostilities | MT Newswires | 2026-08-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $370.34; 52w high $480.81 (-22.98%); 52w low $292.95 (+26.42%) |
-| Trend | +0.49% vs SMA200, -4.09% vs SMA50, -5.32% vs SMA20 |
-| Momentum | RSI(14) 43.4 (neutral) |
-| Volatility | ATR(14) 13.62 (~3.7% of price); beta 1.47 |
+| Trend | +0.46% vs SMA200, -3.88% vs SMA50, -5.03% vs SMA20 |
+| Momentum | RSI(14) 43.6 (neutral) |
+| Volatility | ATR(14) 13.41 (~3.6% of price); beta 1.47 |
 | Setup perspective | -22.98% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.5% |
-| Month | -4.5% |
-| Quarter | -17.0% |
-| Half Y | +16.3% |
-| 1Y | +24.2% |
+| Week | +3.2% |
+| Month | -4.9% |
+| Quarter | -19.4% |
+| Half Y | +16.6% |
+| 1Y | +20.9% |
 | YTD | +6.9% |
 
 ## 4. Fundamental Analysis
@@ -95,7 +95,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Price (T.Rowe) Associates Inc | 82,851,970 | 1.74% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.47, ATR 3.7% of price, short float 1.20%. Size positions accordingly.
+- **Volatility risk:** Beta 1.47, ATR 3.6% of price, short float 1.20%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -113,11 +113,11 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Price | $370.34 | EV/Sales | 23.85 |
 | Market cap | $1.76T | EV/EBITDA | 42.77 |
 | Beta | 1.47 | Gross margin | 76.28% |
-| RSI(14) | 43.4 | Operating margin | 48.99% |
-| ATR(14) | 13.62 | Profit margin | 38.85% |
-| SMA20 dist | -5.32% | ROA | 12.12% |
-| SMA50 dist | -4.09% | ROE | 37.28% |
-| SMA200 dist | +0.49% | Revenue (ttm) | $75.46B |
+| RSI(14) | 43.6 | Operating margin | 48.99% |
+| ATR(14) | 13.41 | Profit margin | 38.85% |
+| SMA20 dist | -5.03% | ROA | 12.12% |
+| SMA50 dist | -3.88% | ROE | 37.28% |
+| SMA200 dist | +0.46% | Revenue (ttm) | $75.46B |
 | 52W high | $480.81 | Revenue growth y/y | 47.90% |
 | 52W low | $292.95 | Inst. ownership | 80.15% |
 | P/E (ttm) | 61.62 | Insider ownership | 1.95% |

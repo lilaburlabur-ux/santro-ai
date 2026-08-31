@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-31T21:32:55+00:00",
+  "as_of": "2026-08-31T21:48:12+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,10 +9,26 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "PINS",
+   "company": "Pinterest Inc",
+   "move_pct": -6.69,
+   "price": 21.64,
+   "volume": 23202627,
+   "volume_vs_avg": "~2x",
+   "heat_score": 49,
+   "direction": "down",
+   "why": "Pinterest CFO To Leave As Revenue Growth Expected To Slow",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/pinterest-cfo-leave-revenue-growth-200800577.html",
+   "published": "2026-08-31T20:08:00Z",
+   "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 2,
    "ticker": "CRWD",
    "company": "Crowdstrike Holdings Inc",
-   "move_pct": 5.13,
-   "price": 229.6,
+   "move_pct": 5.07,
+   "price": 229.48,
    "volume": 17747398,
    "volume_vs_avg": "~2x",
    "heat_score": 43,
@@ -24,11 +40,11 @@
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
-   "rank": 2,
+   "rank": 3,
    "ticker": "TSLA",
    "company": "Tesla Inc",
-   "move_pct": 5.32,
-   "price": 367.3,
+   "move_pct": 5.31,
+   "price": 367.28,
    "volume": 61157428,
    "volume_vs_avg": "~2x",
    "heat_score": 42,

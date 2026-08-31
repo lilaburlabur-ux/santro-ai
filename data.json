@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-31T12:36:16+00:00",
-  "as_of_local": "2026-08-31 12:36:16 UTC",
+  "as_of_utc": "2026-08-31T12:41:21+00:00",
+  "as_of_local": "2026-08-31 12:41:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -253,34 +255,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-8-7-since-153029363.html",
           "publisher": "Zacks",
           "published": "2026-08-28T15:30:29Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 223.58,
-      "previous_close": 225.86,
-      "change_pct": -1.01,
-      "market_cap": 56378866484.64639,
-      "headlines": [
-        {
-          "title": "NXP Semiconductors (NXPI) Stock Still Looks Cheap On Cash Flow While Earnings Lag",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-stock-still-220959327.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-29T22:09:59Z"
-        },
-        {
-          "title": "Is NXP Semiconductors (NXPI) A Bargain After Its Q2 Beat And Dividend?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-bargain-q2-210547118.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-29T21:05:47Z"
-        },
-        {
-          "title": "Stock Market Today, Aug. 28: Marvell Slides 10% on Softer Fiscal 2028 Guidance and Google Deal Timing",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-28-212934389.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-28T21:29:34Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78125.15,
-      "change_pct": 0.38
+      "price": 77810.73,
+      "change_pct": -0.03
     },
     {
       "label": "Gold",
-      "price": 4500.2,
-      "change_pct": 0.49
+      "price": 4499.7,
+      "change_pct": 0.48
     },
     {
       "label": "Nasdaq100",

@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-31T13:47:02+00:00",
+  "as_of": "2026-08-31T14:02:12+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "CRWD",
-   "company": "Crowdstrike Holdings Inc",
-   "move_pct": 5.67,
-   "price": 230.78,
-   "volume": 2825587,
-   "volume_vs_avg": "~0.3x",
-   "heat_score": 36,
-   "direction": "up",
-   "why": "CrowdStrike Stock Just Set a Fresh Record High, but Is There Still Time to Buy? The Answer Might Surprise You.",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-stock-just-set-fresh-132000433.html",
-   "published": "2026-08-31T13:20:00Z",
-   "sector": "AI Software & Cloud Infrastructure"
-  }
- ]
+ "hot_tickers": []
 }

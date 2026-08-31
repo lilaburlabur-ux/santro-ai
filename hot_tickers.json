@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-31T18:31:45+00:00",
+  "as_of": "2026-08-31T18:36:59+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -13,7 +13,7 @@
    "company": "Pinterest Inc",
    "move_pct": -7.33,
    "price": 21.49,
-   "volume": 11678214,
+   "volume": 11967220,
    "volume_vs_avg": "~1.1x",
    "heat_score": 46,
    "direction": "down",
@@ -22,22 +22,6 @@
    "source_url": "https://www.barrons.com/articles/stock-movers-3aad06c8?siteid=yhoof2&yptr=yahoo",
    "published": "2026-08-31T16:39:00Z",
    "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 2,
-   "ticker": "TSLA",
-   "company": "Tesla Inc",
-   "move_pct": 5.15,
-   "price": 366.72,
-   "volume": 42395888,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 39,
-   "direction": "up",
-   "why": "Tesla, PG&E, Nvidia, SLB, Pinterest, and More Stocks That Explain Today\u2019s Market",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.barrons.com/articles/stock-movers-3aad06c8?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-08-31T16:39:00Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

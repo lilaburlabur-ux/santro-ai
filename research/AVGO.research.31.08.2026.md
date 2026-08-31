@@ -15,11 +15,11 @@ Signed file: `AVGO.research.31.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +20.87%; price +0.46% vs SMA200. |
+| Technical momentum | Moderate | 1Y +24.25%; price +0.49% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -22.98% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 38.85%, revenue growth 47.90%. |
-| Value attractiveness | Reasonable | Forward P/E 18.98, EV/Sales 23.85. |
-| Risk level | Elevated | Beta 1.47, ATR 3.6% of price, short float 1.20%. |
+| Value attractiveness | Reasonable | Forward P/E 18.92, EV/Sales 23.85. |
+| Risk level | Elevated | Beta 1.47, ATR 3.7% of price, short float 1.20%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -45,20 +45,20 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $370.34; 52w high $480.81 (-22.98%); 52w low $292.95 (+26.42%) |
-| Trend | +0.46% vs SMA200, -3.88% vs SMA50, -5.03% vs SMA20 |
-| Momentum | RSI(14) 43.6 (neutral) |
-| Volatility | ATR(14) 13.42 (~3.6% of price); beta 1.47 |
+| Trend | +0.49% vs SMA200, -4.09% vs SMA50, -5.32% vs SMA20 |
+| Momentum | RSI(14) 43.4 (neutral) |
+| Volatility | ATR(14) 13.62 (~3.7% of price); beta 1.47 |
 | Setup perspective | -22.98% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +3.2% |
-| Month | -4.9% |
-| Quarter | -19.4% |
-| Half Y | +16.6% |
-| 1Y | +20.9% |
+| Week | +0.5% |
+| Month | -4.5% |
+| Quarter | -17.0% |
+| Half Y | +16.3% |
+| 1Y | +24.2% |
 | YTD | +6.9% |
 
 ## 4. Fundamental Analysis
@@ -68,7 +68,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $75.46B | Revenue growth 47.90% y/y |
 | Profitability | Gross 76.28%, operating 48.99%, net 38.85% | ROA 12.12%, ROE 37.28% |
 | Balance sheet | Cash $19.63B, debt $64.91B | Current ratio 2.24, debt/equity 74.02 |
-| Valuation | P/E 61.62, forward P/E 18.98, P/S 23.35, P/B 20.09 | EV/Sales 23.85, EV/EBITDA 42.77 |
+| Valuation | P/E 61.62, forward P/E 18.92, P/S 23.35, P/B 20.09 | EV/Sales 23.85, EV/EBITDA 42.77 |
 | Growth expectations | Earnings growth 85.40%, EPS q/q 87.50% | Analyst mean target $525.97 (46 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Price (T.Rowe) Associates Inc | 82,851,970 | 1.74% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.47, ATR 3.6% of price, short float 1.20%. Size positions accordingly.
+- **Volatility risk:** Beta 1.47, ATR 3.7% of price, short float 1.20%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -113,15 +113,15 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Price | $370.34 | EV/Sales | 23.85 |
 | Market cap | $1.76T | EV/EBITDA | 42.77 |
 | Beta | 1.47 | Gross margin | 76.28% |
-| RSI(14) | 43.6 | Operating margin | 48.99% |
-| ATR(14) | 13.42 | Profit margin | 38.85% |
-| SMA20 dist | -5.03% | ROA | 12.12% |
-| SMA50 dist | -3.88% | ROE | 37.28% |
-| SMA200 dist | +0.46% | Revenue (ttm) | $75.46B |
+| RSI(14) | 43.4 | Operating margin | 48.99% |
+| ATR(14) | 13.62 | Profit margin | 38.85% |
+| SMA20 dist | -5.32% | ROA | 12.12% |
+| SMA50 dist | -4.09% | ROE | 37.28% |
+| SMA200 dist | +0.49% | Revenue (ttm) | $75.46B |
 | 52W high | $480.81 | Revenue growth y/y | 47.90% |
 | 52W low | $292.95 | Inst. ownership | 80.15% |
 | P/E (ttm) | 61.62 | Insider ownership | 1.95% |
-| Forward P/E | 18.98 | Short float | 1.20% |
+| Forward P/E | 18.92 | Short float | 1.20% |
 | PEG (trailing) | 0.42 | Avg volume | 25,813,855 |
 | P/S | 23.35 | Employees | 33,000 |
 | P/B | 20.09 | Analyst rec (1=buy..5=sell) | 1.3 |

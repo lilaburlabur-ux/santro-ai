@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-31T23:14:23+00:00",
-  "as_of_local": "2026-08-31 23:14:23 UTC",
+  "as_of_utc": "2026-08-31T23:19:33+00:00",
+  "as_of_local": "2026-08-31 23:19:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -115,6 +113,34 @@
           "url": "https://www.barrons.com/articles/micron-stock-cxmt-chinese-memory-chip-dram-etf-d2b135a2?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-08-31T20:19:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 470.72,
+      "previous_close": 465.58,
+      "change_pct": 1.1,
+      "market_cap": 768438653763.0073,
+      "headlines": [
+        {
+          "title": "JPMorgan Built a Version of JEPI Designed to Keep the IRS Waiting",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-built-version-jepi-designed-214527094.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-31T21:45:27Z"
+        },
+        {
+          "title": "The Biggest Risk To Cerebras Systems Stock Is Sitting Inside Its Backlog",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/biggest-risk-cerebras-systems-stock-205815383.html",
+          "publisher": "Trefis",
+          "published": "2026-08-31T20:58:15Z"
+        },
+        {
+          "title": "Is Broadcom (AVGO) Stock a Buy Before Its Q3 Earnings?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-buy-q3-203900190.html",
+          "publisher": "Zacks",
+          "published": "2026-08-31T20:39:00Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 78426.73,
-      "change_pct": 0.77
+      "price": 78509.21,
+      "change_pct": 0.87
     },
     {
       "label": "Gold",
-      "price": 4494.7,
-      "change_pct": 0.37
+      "price": 4494.3,
+      "change_pct": 0.36
     },
     {
       "label": "Nasdaq100",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-31T10:44:35+00:00",
-  "as_of_local": "2026-08-31 10:44:35 UTC",
+  "as_of_utc": "2026-08-31T10:49:35+00:00",
+  "as_of_local": "2026-08-31 10:49:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-08-30T11:49:05Z"
         },
         {
-          "title": "As the Stock Market Sounds an Alarm, Warren Buffett Just Offered a Blunt Warning for Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-sounds-alarm-warren-102000561.html",
+          "title": "Are The \"Magnificent Seven\" Stocks Still Worth Buying?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-stocks-still-worth-103500674.html",
           "publisher": "Motley Fool",
-          "published": "2026-08-31T10:20:00Z"
+          "published": "2026-08-31T10:35:00Z"
         }
       ]
     },
@@ -69,6 +71,12 @@
       "market_cap": 1754548041873.571,
       "headlines": [
         {
+          "title": "Stocks to Watch: PG&E, Intel, Chevron",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/stocks-to-watch-pg-e-intel-chevron-eLbKJqWCN3hjlHXGy9qp?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-08-31T09:45:31Z"
+        },
+        {
           "title": "Jobs Report, New Apple CEO: What to Watch This Week",
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/jobs-report-new-apple-ceo-what-to-watch-this-week-cNx7SniyXeq1H7wIhP2A?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
@@ -79,12 +87,6 @@
           "url": "https://www.barrons.com/articles/futures-stock-sunday-trading-52f040e8?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-08-30T22:13:00Z"
-        },
-        {
-          "title": "Prediction: Broadcom Stock Will Go Parabolic After Sept. 2",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-broadcom-stock-parabolic-sept-180500512.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-30T18:05:00Z"
         }
       ]
     },
@@ -153,6 +155,12 @@
       "market_cap": 470122475817.2667,
       "headlines": [
         {
+          "title": "Stocks to Watch: PG&E, Intel, Chevron",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/stocks-to-watch-pg-e-intel-chevron-eLbKJqWCN3hjlHXGy9qp?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-08-31T09:45:31Z"
+        },
+        {
           "title": "Why Are Nasdaq, S&P 500 Futures Subdued Premarket? NVDA, AAPL, INTC, CRWD, RKLB, SLS Stocks In Focus",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-nasdaq-p-500-futures-083316163.html",
           "publisher": "Stocktwits",
@@ -163,40 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intc-stock-next-boost-could-032908350.html",
           "publisher": "Stocktwits",
           "published": "2026-08-31T03:29:08Z"
-        },
-        {
-          "title": "Nvidia Just Delivered Bad News for AMD and Intel",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-delivered-bad-news-154200130.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-30T15:42:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 239.05,
-      "previous_close": 255.21,
-      "change_pct": -6.33,
-      "market_cap": 255305061178.72296,
-      "headlines": [
-        {
-          "title": "IBM Introduces New Mainframe Processor Combining Its Own Tech With Arm Architecture",
-          "url": "https://finance.yahoo.com/technology/articles/ibm-introduces-mainframe-processor-combining-030048930.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-08-29T03:00:48Z"
-        },
-        {
-          "title": "ARM's Expanding AI Growth Opportunity Goes Beyond Market Hype",
-          "url": "https://finance.yahoo.com/technology/ai/articles/arms-expanding-ai-growth-opportunity-183000282.html",
-          "publisher": "Zacks",
-          "published": "2026-08-28T18:30:00Z"
-        },
-        {
-          "title": "AMD Stock Upgraded To Strong Buy. Here's Why.",
-          "url": "https://www.investors.com/news/technology/amd-stock-upgraded-strong-buy-server-cpus-agentic-ai/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-25T20:45:28Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78498.6,
-      "change_pct": 0.86
+      "price": 78506.83,
+      "change_pct": 0.87
     },
     {
       "label": "Gold",
-      "price": 4499.6,
-      "change_pct": 0.48
+      "price": 4501.5,
+      "change_pct": 0.52
     },
     {
       "label": "Nasdaq100",

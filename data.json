@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-31T10:49:35+00:00",
-  "as_of_local": "2026-08-31 10:49:35 UTC",
+  "as_of_utc": "2026-08-31T10:54:39+00:00",
+  "as_of_local": "2026-08-31 10:54:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -152,7 +150,7 @@
       "price": 89.47,
       "previous_close": 92.09,
       "change_pct": -2.85,
-      "market_cap": 470122475817.2667,
+      "market_cap": 472947844243.9052,
       "headlines": [
         {
           "title": "Stocks to Watch: PG&E, Intel, Chevron",
@@ -171,6 +169,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intc-stock-next-boost-could-032908350.html",
           "publisher": "Stocktwits",
           "published": "2026-08-31T03:29:08Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 239.05,
+      "previous_close": 255.21,
+      "change_pct": -6.33,
+      "market_cap": 255305061178.72296,
+      "headlines": [
+        {
+          "title": "IBM Introduces New Mainframe Processor Combining Its Own Tech With Arm Architecture",
+          "url": "https://finance.yahoo.com/technology/articles/ibm-introduces-mainframe-processor-combining-030048930.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-08-29T03:00:48Z"
+        },
+        {
+          "title": "ARM's Expanding AI Growth Opportunity Goes Beyond Market Hype",
+          "url": "https://finance.yahoo.com/technology/ai/articles/arms-expanding-ai-growth-opportunity-183000282.html",
+          "publisher": "Zacks",
+          "published": "2026-08-28T18:30:00Z"
+        },
+        {
+          "title": "AMD Stock Upgraded To Strong Buy. Here's Why.",
+          "url": "https://www.investors.com/news/technology/amd-stock-upgraded-strong-buy-server-cpus-agentic-ai/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-08-25T20:45:28Z"
         }
       ]
     },
@@ -264,7 +290,7 @@
       "price": 114.4,
       "previous_close": 120.47,
       "change_pct": -5.04,
-      "market_cap": 16248263333.520996,
+      "market_cap": 16216109725.892128,
       "headlines": [
         {
           "title": "Lattice Semiconductor Sees AMI Combination Powering $3B AI Data Center Ambition",
@@ -559,12 +585,12 @@
     },
     {
       "label": "BTC",
-      "price": 78506.83,
-      "change_pct": 0.87
+      "price": 78615.82,
+      "change_pct": 1.01
     },
     {
       "label": "Gold",
-      "price": 4501.5,
+      "price": 4501.2,
       "change_pct": 0.52
     },
     {

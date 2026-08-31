@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-31T20:21:48+00:00",
+  "as_of": "2026-08-31T20:26:52+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,13 +9,29 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "MRVL",
+   "company": "Marvell Technology Inc",
+   "move_pct": -12.32,
+   "price": 211.7,
+   "volume": 23460678,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 73,
+   "direction": "down",
+   "why": "Could Marvell Be the Next $100 Billion AI Stock?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/could-marvell-next-100-billion-174557171.html",
+   "published": "2026-08-31T17:45:57Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
    "ticker": "PINS",
    "company": "Pinterest Inc",
-   "move_pct": -6.43,
-   "price": 21.7,
-   "volume": 22774280,
+   "move_pct": -5.11,
+   "price": 21.71,
+   "volume": 23126657,
    "volume_vs_avg": "~2x",
-   "heat_score": 48,
+   "heat_score": 44,
    "direction": "down",
    "why": "Pinterest CFO To Leave As Revenue Growth Expected To Slow",
    "catalyst_type": "earnings",
@@ -24,20 +40,36 @@
    "sector": "AI Platforms, Internet & AdTech"
   },
   {
-   "rank": 2,
-   "ticker": "TSLA",
-   "company": "Tesla Inc",
-   "move_pct": 5.57,
-   "price": 368.18,
-   "volume": 60898473,
-   "volume_vs_avg": "~2x",
+   "rank": 3,
+   "ticker": "GEV",
+   "company": "GE Vernova Inc",
+   "move_pct": -5.83,
+   "price": 898.25,
+   "volume": 3534782,
+   "volume_vs_avg": "~1.4x",
    "heat_score": 43,
-   "direction": "up",
-   "why": "TSLA Stock Jumps as Cybercabs Hit Texas Robotaxi Roster Ahead Of Launch Event",
+   "direction": "down",
+   "why": "GE Vernova Stock Drops. Is SpaceX Coming for Them Too?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-jumps-cybercabs-hit-195950928.html",
-   "published": "2026-08-31T19:59:50Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
+   "source_url": "https://www.barrons.com/articles/spacex-elon-musk-ge-vernova-stock-c4b3e6e6?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-08-31T17:52:00Z",
+   "sector": "Powering AI"
+  },
+  {
+   "rank": 4,
+   "ticker": "ARM",
+   "company": "Arm Holdings Plc ADR",
+   "move_pct": -5.23,
+   "price": 241.85,
+   "volume": 2141207,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 35,
+   "direction": "down",
+   "why": "Arm Holdings (ARM) Heads To TestMu Conference, Is The AI Story Fully Priced?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-arm-heads-testmu-190527018.html",
+   "published": "2026-08-31T19:05:27Z",
+   "sector": "AI Chips & Compute"
   }
  ]
 }

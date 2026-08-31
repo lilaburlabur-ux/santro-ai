@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-31T00:40:49+00:00",
+  "as_of": "2026-08-31T00:55:58+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "MRVL",
-   "company": "Marvell Technology Inc",
-   "move_pct": -10.28,
-   "price": 216.62,
-   "volume": 48858000,
-   "volume_vs_avg": "~2x",
-   "heat_score": 71,
-   "direction": "down",
-   "why": "Jim Cramer Says Marvell Is Expensive Unless Everything Works, and Then It Is Cheap",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-marvell-expensive-204519804.html",
-   "published": "2026-08-30T20:45:19Z",
-   "sector": "AI Chips & Compute"
-  }
- ]
+ "hot_tickers": []
 }

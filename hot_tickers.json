@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-31T16:19:38+00:00",
+  "as_of": "2026-08-31T16:34:48+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,33 +11,17 @@
    "rank": 1,
    "ticker": "PINS",
    "company": "Pinterest Inc",
-   "move_pct": -6.62,
-   "price": 21.66,
-   "volume": 6844555,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 41,
+   "move_pct": -6.77,
+   "price": 21.62,
+   "volume": 8084021,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 43,
    "direction": "down",
    "why": "Pinterest Falls 4% as CFO Resigns, Snap Inches Higher, Alphabet Holds Flat",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/pinterest-falls-4-cfo-resigns-125658228.html",
    "published": "2026-08-31T12:56:58Z",
    "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 2,
-   "ticker": "TSLA",
-   "company": "Tesla Inc",
-   "move_pct": 5.05,
-   "price": 366.35,
-   "volume": 30649836,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "Why Tesla Stock Stepped on the Gas Monday Morning",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-stock-stepped-gas-155050503.html",
-   "published": "2026-08-31T15:50:50Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

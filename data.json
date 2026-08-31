@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-31T05:59:09+00:00",
-  "as_of_local": "2026-08-31 05:59:09 UTC",
+  "as_of_utc": "2026-08-31T06:01:09+00:00",
+  "as_of_local": "2026-08-31 06:01:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -341,34 +343,6 @@
       ]
     },
     {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 95.08,
-      "previous_close": 97.59,
-      "change_pct": -2.57,
-      "market_cap": 3718292300.48703,
-      "headlines": [
-        {
-          "title": "Synaptics' CEO Sold Stock After a 120,000-Share Vest. Here's What to Know.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-ceo-sold-stock-120-091014820.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T09:10:14Z"
-        },
-        {
-          "title": "Synaptics' CFO Disposed of Stock as an 88%-12% OnSemi Ownership Split Takes Shape. Here's What to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-cfo-disposed-stock-88-085902653.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T08:59:02Z"
-        },
-        {
-          "title": "A Synaptics Insider Filing Lands as a $7.8 Billion Combined Company Takes Shape",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-insider-filing-lands-7-083001176.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T08:30:01Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 27.12,
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -0.09,
-          "price": 1651500.0,
+          "change_pct": -0.36,
+          "price": 1647000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.1,
-          "price": 256750.0,
+          "change_pct": -0.39,
+          "price": 256000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 1.92,
-          "price": 48820.0,
+          "change_pct": 2.11,
+          "price": 48910.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -0.09,
-        "price": 1651500.0,
+        "change_pct": -0.36,
+        "price": 1647000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.1,
-        "price": 256750.0,
+        "change_pct": -0.39,
+        "price": 256000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 1.92,
-        "price": 48820.0,
+        "change_pct": 2.11,
+        "price": 48910.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78004.98,
-      "change_pct": 0.22
+      "price": 77980.5,
+      "change_pct": 0.19
     },
     {
       "label": "Gold",
-      "price": 4489.2,
-      "change_pct": 0.25
+      "price": 4485.8,
+      "change_pct": 0.17
     },
     {
       "label": "Nasdaq100",

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-01T21:20:02+00:00",
-  "as_of_local": "2026-09-01 21:20:02 UTC",
+  "as_of_utc": "2026-09-01T21:24:44+00:00",
+  "as_of_local": "2026-09-01 21:24:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -91,6 +89,34 @@
       ]
     },
     {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 933.44,
+      "previous_close": 958.73,
+      "change_pct": -2.64,
+      "market_cap": 1054220745626.7476,
+      "headlines": [
+        {
+          "title": "Stock Market Today: Nasdaq Ends Lower As Oil Prices Top $90; Micron, Nvidia Shares Wrapped in Red",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-micron-stock/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-01T20:46:52Z"
+        },
+        {
+          "title": "Micron Stock Drops as Nearly 10,000 Taiwan Workers Push for Strike",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-drops-nearly-10-202521384.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-01T20:25:21Z"
+        },
+        {
+          "title": "Prediction: This Could Be Micron's Stock Price by the End of 2027 (Hint: It's Above $2,000)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-could-microns-stock-price-202300375.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-01T20:23:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 459.61,
@@ -124,7 +150,7 @@
       "price": 88.97,
       "previous_close": 89.51,
       "change_pct": -0.6,
-      "market_cap": 467495212659.7667,
+      "market_cap": 470304791612.9052,
       "headlines": [
         {
           "title": "Nvidia makes its biggest investment abroad with Mediatek: Why it's a uniquely important deal",
@@ -217,16 +243,16 @@
           "published": "2026-09-01T15:45:00Z"
         },
         {
+          "title": "Global Bond Selloff Weighs on Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/global-bond-selloff-weighs-stocks-151048535.html",
+          "publisher": "Barchart",
+          "published": "2026-09-01T15:10:48Z"
+        },
+        {
           "title": "NVDA Stock: Where Compounding Could Take The Price",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-where-compounding-could-002538999.html",
           "publisher": "Trefis",
           "published": "2026-09-01T00:25:38Z"
-        },
-        {
-          "title": "Marvell's Hyperscaler Deal Lands In A Fiscal Year Management Will Not Size Yet",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvells-hyperscaler-deal-lands-fiscal-235357709.html",
-          "publisher": "Trefis",
-          "published": "2026-08-31T23:53:57Z"
         }
       ]
     },
@@ -264,7 +290,7 @@
       "price": 111.68,
       "previous_close": 115.34,
       "change_pct": -3.17,
-      "market_cap": 15861940820.3042,
+      "market_cap": 15830551704.378426,
       "headlines": [
         {
           "title": "Forget the Biggest Chip Stocks \u2014 Analysts Say Buy These 2 Names",
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -2.64,
+          "price": 933.44,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -2.64,
+        "price": 933.44,
         "currency": "USD"
       },
       {
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 76962.45,
-      "change_pct": -2.02
+      "price": 77115.47,
+      "change_pct": -1.82
     },
     {
       "label": "Gold",

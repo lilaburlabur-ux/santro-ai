@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-01T08:32:44+00:00",
-  "as_of_local": "2026-09-01 08:32:44 UTC",
+  "as_of_utc": "2026-09-01T08:37:37+00:00",
+  "as_of_local": "2026-09-01 08:37:37 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -341,34 +343,6 @@
       ]
     },
     {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 96.72,
-      "previous_close": 97.59,
-      "change_pct": -0.89,
-      "market_cap": 3782427733.65802,
-      "headlines": [
-        {
-          "title": "Synaptics' CEO Sold Stock After a 120,000-Share Vest. Here's What to Know.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-ceo-sold-stock-120-091014820.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T09:10:14Z"
-        },
-        {
-          "title": "Synaptics' CFO Disposed of Stock as an 88%-12% OnSemi Ownership Split Takes Shape. Here's What to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-cfo-disposed-stock-88-085902653.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T08:59:02Z"
-        },
-        {
-          "title": "A Synaptics Insider Filing Lands as a $7.8 Billion Combined Company Takes Shape",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-insider-filing-lands-7-083001176.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T08:30:01Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 27.05,
@@ -463,8 +437,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -2.48,
-          "price": 450.55,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -553,8 +527,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -2.48,
-        "price": 450.55,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 77855.26,
-      "change_pct": -0.88
+      "price": 78001.67,
+      "change_pct": -0.7
     },
     {
       "label": "Gold",
-      "price": 4445.4,
-      "change_pct": 0.32
+      "price": 4435.0,
+      "change_pct": 0.09
     },
     {
       "label": "Nasdaq100",

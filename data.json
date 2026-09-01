@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-01T12:21:10+00:00",
-  "as_of_local": "2026-09-01 12:21:10 UTC",
+  "as_of_utc": "2026-09-01T12:26:13+00:00",
+  "as_of_local": "2026-09-01 12:26:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,22 +15,22 @@
       "market_cap": 5331174630523.682,
       "headlines": [
         {
-          "title": "Tech stocks today: Apple stock slips as Tim Cook prepares to step down",
-          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-apple-ceo-steps-down-nvidia-mag-7-145623375.html",
+          "title": "Hut 8 stock is a winner in a new deal between Anthropic and Nvidia-backed Lambda",
+          "url": "https://finance.yahoo.com/markets/stocks/article/hut-8-stock-is-a-winner-in-a-new-deal-between-anthropic-and-nvidia-backed-lambda-122511171.html",
           "publisher": "Yahoo Finance",
-          "published": "2026-08-31T14:56:23Z"
-        },
-        {
-          "title": "What Nvidia's stellar Q2 earnings represent for AI in the rest of 2026",
-          "url": "https://finance.yahoo.com/video/nvidias-stellar-q2-earnings-represent-153000546.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-08-31T15:30:00Z"
+          "published": "2026-09-01T12:25:11Z"
         },
         {
           "title": "Hut 8 Rises on Anthropic's $35 Billion Lambda Deal",
           "url": "https://finance.yahoo.com/technology/ai/articles/hut-8-rises-anthropics-35-121952506.html",
           "publisher": "GuruFocus.com",
           "published": "2026-09-01T12:19:52Z"
+        },
+        {
+          "title": "HPE vs Snowflake: Here\u2019s Why the Dividend Play Beats the Growth Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hpe-vs-snowflake-why-dividend-121041045.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-01T12:10:41Z"
         }
       ]
     },
@@ -281,34 +283,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-28-212934389.html",
           "publisher": "Motley Fool",
           "published": "2026-08-28T21:29:34Z"
-        }
-      ]
-    },
-    {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 115.34,
-      "previous_close": 120.47,
-      "change_pct": -4.26,
-      "market_cap": 16381771052.34961,
-      "headlines": [
-        {
-          "title": "Lattice Semiconductor Sees AMI Combination Powering $3B AI Data Center Ambition",
-          "url": "https://finance.yahoo.com/technology/ai/articles/lattice-semiconductor-sees-ami-combination-020128494.html",
-          "publisher": "MarketBeat",
-          "published": "2026-08-29T02:01:28Z"
-        },
-        {
-          "title": "MCHP's Portfolio Expansion Boosts Growth Prospects Against AMD & LSCC",
-          "url": "https://finance.yahoo.com/technology/articles/mchps-portfolio-expansion-boosts-growth-150200072.html",
-          "publisher": "Zacks",
-          "published": "2026-08-28T15:02:00Z"
-        },
-        {
-          "title": "Stocks making big moves yesterday: Intuit, Xponential Fitness, Abercrombie and Fitch, Lattice Semiconductor, and Photronics",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-161707152.html",
-          "publisher": "StockStory",
-          "published": "2026-08-27T16:17:07Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 77949.4,
-      "change_pct": -0.76
+      "price": 77976.86,
+      "change_pct": -0.73
     },
     {
       "label": "Gold",
-      "price": 4416.6,
-      "change_pct": -0.33
+      "price": 4419.1,
+      "change_pct": -0.27
     },
     {
       "label": "Nasdaq100",

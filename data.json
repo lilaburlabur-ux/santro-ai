@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-09-01T23:53:46+00:00",
-  "as_of_local": "2026-09-01 23:53:46 UTC",
+  "as_of_utc": "2026-09-01T23:58:48+00:00",
+  "as_of_local": "2026-09-01 23:58:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 217.44,
-      "previous_close": 220.78,
-      "change_pct": -1.51,
-      "market_cap": 5250523738952.637,
-      "headlines": [
-        {
-          "title": "Two deals, one Nvidia strategy: What's behind the chip giant's recent partnerships",
-          "url": "https://finance.yahoo.com/video/two-deals-one-nvidia-strategy-193213308.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-09-01T19:32:13Z"
-        },
-        {
-          "title": "Stocks slip as 10-year Treasury yield hits highest level since January 2025: AlphaCheck",
-          "url": "https://finance.yahoo.com/markets/article/stocks-slip-as-10-year-treasury-yield-hits-highest-level-since-january-2025-alphacheck-134150677.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-09-01T13:41:50Z"
-        },
-        {
-          "title": "Hut 8 stock is a winner in a new deal between Anthropic and Nvidia-backed Lambda",
-          "url": "https://finance.yahoo.com/markets/stocks/article/hut-8-stock-is-a-winner-in-a-new-deal-between-anthropic-and-nvidia-backed-lambda-122511171.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-09-01T12:25:11Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -150,7 +124,7 @@
       "price": 88.97,
       "previous_close": 89.51,
       "change_pct": -0.6,
-      "market_cap": 467495212659.7667,
+      "market_cap": 470304791612.9052,
       "headlines": [
         {
           "title": "Nvidia makes its biggest investment abroad with Mediatek: Why it's a uniquely important deal",
@@ -290,7 +264,7 @@
       "price": 111.68,
       "previous_close": 115.34,
       "change_pct": -3.17,
-      "market_cap": 15861940820.3042,
+      "market_cap": 15830551704.378426,
       "headlines": [
         {
           "title": "Forget the Biggest Chip Stocks \u2014 Analysts Say Buy These 2 Names",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 77446.94,
-      "change_pct": -1.4
+      "price": 77406.42,
+      "change_pct": -1.45
     },
     {
       "label": "Gold",
-      "price": 4380.5,
-      "change_pct": -1.14
+      "price": 4378.2,
+      "change_pct": -1.19
     },
     {
       "label": "Nasdaq100",

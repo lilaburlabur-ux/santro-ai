@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-01T13:43:37+00:00",
+  "as_of": "2026-09-01T13:58:31+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,33 +11,17 @@
    "rank": 1,
    "ticker": "OKLO",
    "company": "Oklo Inc",
-   "move_pct": -5.99,
-   "price": 38.14,
-   "volume": 1432538,
-   "volume_vs_avg": "~0.1x",
-   "heat_score": 37,
+   "move_pct": -5.52,
+   "price": 38.33,
+   "volume": 1956438,
+   "volume_vs_avg": "~0.2x",
+   "heat_score": 35,
    "direction": "down",
    "why": "What PJM's Decision Means for OKLO's Ohio Project Timeline",
    "catalyst_type": "contract_win",
    "source_url": "https://finance.yahoo.com/energy/articles/pjms-decision-means-oklos-ohio-124900045.html",
    "published": "2026-09-01T12:49:00Z",
    "sector": "Data Center, Power & Energy"
-  },
-  {
-   "rank": 2,
-   "ticker": "MRVL",
-   "company": "Marvell Technology Inc",
-   "move_pct": -5.02,
-   "price": 201.04,
-   "volume": 4115225,
-   "volume_vs_avg": "~0.2x",
-   "heat_score": 33,
-   "direction": "down",
-   "why": "Custom Silicon Kings: When to Choose Broadcom and When to Choose Marvell Technology",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/articles/custom-silicon-kings-choose-broadcom-114123160.html",
-   "published": "2026-09-01T11:41:23Z",
-   "sector": "AI Chips & Compute"
   }
  ]
 }

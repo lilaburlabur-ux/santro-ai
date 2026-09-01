@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-01T13:01:33+00:00",
-  "as_of_local": "2026-09-01 13:01:33 UTC",
+  "as_of_utc": "2026-09-01T13:02:22+00:00",
+  "as_of_local": "2026-09-01 13:02:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -19,16 +19,16 @@
           "published": "2026-09-01T12:25:11Z"
         },
         {
+          "title": "Update: US Equity Futures Fall Pre-Bell Tuesday as Global Bond Yields, Oil Prices Rise",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-fall-pre-125351451.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-01T12:53:51Z"
+        },
+        {
           "title": "The Market Keeps Punishing MercadoLibre for Growing Too Fast. Here's Why That's Exactly When to Buy.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/market-keeps-punishing-mercadolibre-growing-125000044.html",
           "publisher": "Motley Fool",
           "published": "2026-09-01T12:50:00Z"
-        },
-        {
-          "title": "Nvidia Just Proved It Doesn't Need China Anymore",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-proved-doesnt-china-124600397.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-01T12:46:00Z"
         }
       ]
     },
@@ -97,6 +97,12 @@
       "market_cap": 1082783073599.77,
       "headlines": [
         {
+          "title": "Update: US Equity Futures Fall Pre-Bell Tuesday as Global Bond Yields, Oil Prices Rise",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-fall-pre-125351451.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-01T12:53:51Z"
+        },
+        {
           "title": "Micron shares slide following Taiwan incentive pay report and tech sector sell-off",
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-shares-slide-following-taiwan-124556310.html",
           "publisher": "Investing.com",
@@ -107,12 +113,6 @@
           "url": "https://www.barrons.com/articles/micron-stock-price-memory-chips-c8a21d87?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-09-01T12:22:00Z"
-        },
-        {
-          "title": "Stock Market Today: Dow Falls As Oil Prices, Treasury Yields Jump; Nvidia, Micron Shares Slide (Live Coverage)",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-micron-stock/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-01T12:05:48Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "price": 89.51,
       "previous_close": 89.47,
       "change_pct": 0.04,
-      "market_cap": 470332661680.52924,
+      "market_cap": 473159293293.9591,
       "headlines": [
         {
           "title": "Palantir Vs. Intel: Choose One for The Rest of 2026",
@@ -176,8 +176,8 @@
       "symbol": "ARM",
       "name": "Arm Holdings",
       "price": 241.91,
-      "previous_close": 255.21,
-      "change_pct": -5.21,
+      "previous_close": 239.05,
+      "change_pct": 1.2,
       "market_cap": 258359537737.91757,
       "headlines": [
         {
@@ -288,9 +288,9 @@
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
       "price": 115.34,
-      "previous_close": 120.47,
-      "change_pct": -4.26,
-      "market_cap": 16381771052.34961,
+      "previous_close": 114.4,
+      "change_pct": 0.82,
+      "market_cap": 16349353246.958893,
       "headlines": [
         {
           "title": "Lattice Semiconductor Sees AMI Combination Powering $3B AI Data Center Ambition",
@@ -316,8 +316,8 @@
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 148.35,
-      "previous_close": 152.28,
-      "change_pct": -2.58,
+      "previous_close": 147.94,
+      "change_pct": 0.28,
       "market_cap": 7539535245.446625,
       "headlines": [
         {
@@ -344,8 +344,8 @@
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 96.72,
-      "previous_close": 97.59,
-      "change_pct": -0.89,
+      "previous_close": 95.08,
+      "change_pct": 1.72,
       "market_cap": 3782427733.65802,
       "headlines": [
         {
@@ -372,8 +372,8 @@
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 27.05,
-      "previous_close": 28.42,
-      "change_pct": -4.82,
+      "previous_close": 27.12,
+      "change_pct": -0.26,
       "market_cap": 761567626.1201477,
       "headlines": [
         {
@@ -454,7 +454,7 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -2.22,
+          "change_pct": -0.17,
           "price": 828.38,
           "currency": "USD"
         },
@@ -544,7 +544,7 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -2.22,
+        "change_pct": -0.17,
         "price": 828.38,
         "currency": "USD"
       },
@@ -585,18 +585,18 @@
     },
     {
       "label": "BTC",
-      "price": 77929.71,
-      "change_pct": -0.79
+      "price": 77891.89,
+      "change_pct": -0.84
     },
     {
       "label": "Gold",
-      "price": 4412.2,
-      "change_pct": -0.43
+      "price": 4411.8,
+      "change_pct": -0.44
     },
     {
       "label": "Nasdaq100",
       "price": 29456.97,
-      "change_pct": -0.62
+      "change_pct": 0.08
     }
   ]
 }

@@ -15,11 +15,11 @@ Signed file: `AVAV.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-32.83%) with negative half-year (-36.85%). |
+| Technical momentum | Low | Below SMA200 (-33.10%) with negative half-year (-30.79%). |
 | Fresh setup quality | Poor / broken | -64.82% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-13.41%). |
 | Value attractiveness | Fair-to-demanding | Forward P/E 32.73, EV/Sales 3.89. |
-| Risk level | High | Beta 1.41, ATR 6.2% of price, short float 9.55%. |
+| Risk level | High | Beta 1.41, ATR 6.5% of price, short float 9.55%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
 
@@ -45,20 +45,20 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $144.17; 52w high $409.83 (-64.82%); 52w low $136.68 (+5.48%) |
-| Trend | -32.83% vs SMA200, -9.20% vs SMA50, -14.45% vs SMA20 |
+| Trend | -33.10% vs SMA200, -9.24% vs SMA50, -14.98% vs SMA20 |
 | Momentum | RSI(14) 37.7 (neutral) |
-| Volatility | ATR(14) 8.93 (~6.2% of price); beta 1.41 |
+| Volatility | ATR(14) 9.36 (~6.5% of price); beta 1.41 |
 | Setup perspective | -64.82% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -2.2% |
-| Month | -9.4% |
+| Week | -2.7% |
+| Month | -3.5% |
 | Quarter | -29.4% |
-| Half Y | -36.9% |
-| 1Y | -40.3% |
+| Half Y | -30.8% |
+| 1Y | -42.1% |
 | YTD | -43.7% |
 
 ## 4. Fundamental Analysis
@@ -96,7 +96,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 32.73, EV/Sales 3.89. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.41, ATR 6.2% of price, short float 9.55%. Size positions accordingly.
+- **Volatility risk:** Beta 1.41, ATR 6.5% of price, short float 9.55%. Size positions accordingly.
 - **Short interest risk:** short float 9.55% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -118,10 +118,10 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Market cap | $7.33B | EV/EBITDA | 39.47 |
 | Beta | 1.41 | Gross margin | 25.32% |
 | RSI(14) | 37.7 | Operating margin | 2.81% |
-| ATR(14) | 8.93 | Profit margin | -13.41% |
-| SMA20 dist | -14.45% | ROA | -1.29% |
-| SMA50 dist | -9.20% | ROE | -10.03% |
-| SMA200 dist | -32.83% | Revenue (ttm) | $1.98B |
+| ATR(14) | 9.36 | Profit margin | -13.41% |
+| SMA20 dist | -14.98% | ROA | -1.29% |
+| SMA50 dist | -9.24% | ROE | -10.03% |
+| SMA200 dist | -33.10% | Revenue (ttm) | $1.98B |
 | 52W high | $409.83 | Revenue growth y/y | 133.30% |
 | 52W low | $136.68 | Inst. ownership | 88.19% |
 | P/E (ttm) | — | Insider ownership | 0.90% |

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-01T13:58:31+00:00",
+  "as_of": "2026-09-01T14:13:28+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,13 +9,29 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "CRWD",
+   "company": "Crowdstrike Holdings Inc",
+   "move_pct": -5.41,
+   "price": 218.5,
+   "volume": 2909773,
+   "volume_vs_avg": "~0.3x",
+   "heat_score": 36,
+   "direction": "down",
+   "why": "Is AIDR Emerging as CrowdStrike's Next Major Growth Engine?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/aidr-emerging-crowdstrikes-next-major-133100326.html",
+   "published": "2026-09-01T13:31:00Z",
+   "sector": "AI Software & Cloud Infrastructure"
+  },
+  {
+   "rank": 2,
    "ticker": "OKLO",
    "company": "Oklo Inc",
-   "move_pct": -5.52,
-   "price": 38.33,
-   "volume": 1956438,
-   "volume_vs_avg": "~0.2x",
-   "heat_score": 35,
+   "move_pct": -5.0,
+   "price": 38.54,
+   "volume": 2487324,
+   "volume_vs_avg": "~0.3x",
+   "heat_score": 34,
    "direction": "down",
    "why": "What PJM's Decision Means for OKLO's Ohio Project Timeline",
    "catalyst_type": "contract_win",

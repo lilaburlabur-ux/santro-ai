@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-01T03:21:52+00:00",
-  "as_of_local": "2026-09-01 03:21:52 UTC",
+  "as_of_utc": "2026-09-01T03:37:02+00:00",
+  "as_of_local": "2026-09-01 03:37:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 1761922233104.541,
       "headlines": [
         {
+          "title": "Broadcom (AVGO) Reports Earnings Tomorrow: What To Expect",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-reports-earnings-tomorrow-031657411.html",
+          "publisher": "StockStory",
+          "published": "2026-09-01T03:16:57Z"
+        },
+        {
           "title": "Cathie Wood Drops $124 Million on AI Stocks, Dumps AMD",
           "url": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-drops-124-million-014651640.html",
           "publisher": "GuruFocus.com",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-where-compounding-could-002538999.html",
           "publisher": "Trefis",
           "published": "2026-09-01T00:25:38Z"
-        },
-        {
-          "title": "Marvell's Hyperscaler Deal Lands In A Fiscal Year Management Will Not Size Yet",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvells-hyperscaler-deal-lands-fiscal-235357709.html",
-          "publisher": "Trefis",
-          "published": "2026-08-31T23:53:57Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "price": 89.51,
       "previous_close": 89.47,
       "change_pct": 0.04,
-      "market_cap": 470332661680.52924,
+      "market_cap": 473159293293.9591,
       "headlines": [
         {
           "title": "Is Intel\u2019s (INTC) Privacy-Focused AI and Foundry Momentum Quietly Redefining Its Investment Case?",
@@ -290,7 +290,7 @@
       "price": 115.34,
       "previous_close": 120.47,
       "change_pct": -4.26,
-      "market_cap": 16381771052.34961,
+      "market_cap": 16349353246.958893,
       "headlines": [
         {
           "title": "Lattice Semiconductor Sees AMI Combination Powering $3B AI Data Center Ambition",
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 0.51,
-          "price": 1682500.0,
+          "change_pct": 0.78,
+          "price": 1687000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.38,
-          "price": 259000.0,
+          "change_pct": -0.19,
+          "price": 259500.0,
           "currency": "KRW"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -3.87,
-          "price": 522.0,
+          "change_pct": -4.05,
+          "price": 521.0,
           "currency": "TWD"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 0.51,
-        "price": 1682500.0,
+        "change_pct": 0.78,
+        "price": 1687000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.38,
-        "price": 259000.0,
+        "change_pct": -0.19,
+        "price": 259500.0,
         "currency": "KRW"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -3.87,
-        "price": 522.0,
+        "change_pct": -4.05,
+        "price": 521.0,
         "currency": "TWD"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 78448.3,
-      "change_pct": 1.01
+      "price": 78820.0,
+      "change_pct": 1.48
     },
     {
       "label": "Gold",
-      "price": 4490.4,
-      "change_pct": 0.27
+      "price": 4481.0,
+      "change_pct": 0.06
     },
     {
       "label": "Nasdaq100",

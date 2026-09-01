@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Nvidia makes its biggest investment abroad with Mediatek: Why it's a uniquely important deal | Yahoo Finance Video | 2026-09-01 |
+| Stock Market Today, Sept. 1: Intel Falls on Chip Stock Pressure | Motley Fool | 2026-09-01 |
+| Intel’s CEO Put $10 Million Into His Own Stock. It’s Now Cheaper Than He Paid | Insider Monkey | 2026-09-01 |
 | Tesla, Apple, Nvidia, Medtronic, Alumis, Robinhood, Fervo, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-01 |
-| Nvidia-Backed Anthropic Inks $35 Billion Deal. Just Don’t Call It ‘Circular Financing’ | Barrons.com | 2026-09-01 |
-| Billionaires Were Buying These Two Nancy Pelosi AI Stocks | Insider Monkey | 2026-09-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

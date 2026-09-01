@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Stock Market Today, Sept. 1: Intel Falls on Chip Stock Pressure | Motley Fool | 2026-09-01 |
 | Broadcom Boosts VMware AI Push to Challenge Nutanix & Microsoft | Zacks | 2026-09-01 |
 | Prediction: This Stock Could Be the Next Big AI Winner | 24/7 Wall St. | 2026-09-01 |
 | AMD's Instinct Systems Are Now Live in Saudi Arabia -- Here's What the Next 250 Megawatts Are Worth to the Stock | Motley Fool | 2026-09-01 |
-| Can Qualcomm's Tie-Up With HUMAIN for AI PC Lift Its Shares? | Zacks | 2026-09-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

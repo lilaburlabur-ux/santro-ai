@@ -39,7 +39,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Stock Market Today: Nasdaq Ends Lower As Oil Prices Top $90; Micron, Nvidia Shares Wrapped in Red | Investor's Business Daily | 2026-09-01 |
 | Micron Stock Drops as Nearly 10,000 Taiwan Workers Push for Strike | GuruFocus.com | 2026-09-01 |
 | Prediction: This Could Be Micron's Stock Price by the End of 2027 (Hint: It's Above $2,000) | Motley Fool | 2026-09-01 |
-| Micron's AI Memory Boom Just Ran Into a Labor Risk | GuruFocus.com | 2026-09-01 |
+| Micron’s Workers Are Threatening to Strike. What It Means for the Stock. | Barrons.com | 2026-09-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
-| Valuation | P/E 21.12, forward P/E 6.02, P/S 11.68, P/B 10.46 | EV/Sales 11.78, EV/EBITDA 15.58 |
+| Valuation | P/E 21.11, forward P/E 6.02, P/S 11.68, P/B 10.46 | EV/Sales 11.78, EV/EBITDA 15.58 |
 | Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,513.41 (44 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | SMA200 dist | +56.80% | Revenue (ttm) | $90.27B |
 | 52W high | $1,213.37 | Revenue growth y/y | 345.70% |
 | 52W low | $118.29 | Inst. ownership | 80.00% |
-| P/E (ttm) | 21.12 | Insider ownership | 0.24% |
+| P/E (ttm) | 21.11 | Insider ownership | 0.24% |
 | Forward P/E | 6.02 | Short float | 2.66% |
 | PEG (trailing) | 0.14 | Avg volume | 44,984,636 |
 | P/S | 11.68 | Employees | 53,000 |

@@ -36,10 +36,10 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 | Headline | Source | Date |
 |---|---|---|
+| AeroVironment (AVAV) Sees a More Significant Dip Than Broader Market: Some Facts to Know | Zacks | 2026-09-01 |
 | AeroVironment (AVAV) Forms AV Eagle Joint Venture In Greece | Simply Wall St. | 2026-08-29 |
 | Is AeroVironment (AVAV) Undervalued On Its New NASA Mars Helicopter Contract? | Simply Wall St. | 2026-08-29 |
 | AeroVironment (AVAV) Stock Looks Stretched On Its 57% Three Year Run | Simply Wall St. | 2026-08-28 |
-| Is New Switchblade 600 Order And Mars Helicopter Work Altering The Investment Case For AeroVironment (AVAV)? | Simply Wall St. | 2026-08-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

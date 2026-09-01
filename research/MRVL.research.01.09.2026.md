@@ -37,8 +37,8 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Headline | Source | Date |
 |---|---|---|
 | Nvidia makes its biggest investment abroad with Mediatek: Why it's a uniquely important deal | Yahoo Finance Video | 2026-09-01 |
-| Marvell’s $120B AI deal came with an unexpected catch | TheStreet | 2026-09-01 |
 | Tesla, Apple, Nvidia, Medtronic, Alumis, Robinhood, Fervo, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-01 |
+| Marvell’s $120B AI deal came with an unexpected catch | TheStreet | 2026-09-01 |
 | Nvidia-Backed Anthropic Inks $35 Billion Deal. Just Don’t Call It ‘Circular Financing’ | Barrons.com | 2026-09-01 |
 
 ## 3. Technical Analysis

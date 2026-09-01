@@ -18,7 +18,7 @@ Signed file: `AVGO.research.01.09.2026`
 | Technical momentum | Moderate | 1Y +25.22%; price +0.26% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -23.11% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 38.85%, revenue growth 47.90%. |
-| Value attractiveness | Reasonable | Forward P/E 18.89, EV/Sales 23.95. |
+| Value attractiveness | Reasonable | Forward P/E 18.89, EV/Sales 23.91. |
 | Risk level | Elevated | Beta 1.47, ATR 3.6% of price, short float 1.20%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Broadcom's earnings loom, but this reveal came first | TheStreet | 2026-09-01 |
 | 28 Analysts Share Their Broadcom Stock Forecast Before Q3 Earnings | BeInCrypto | 2026-09-01 |
 | Two Stocks That Will Benefit From OpenAI Announcement | 24/7 Wall St. | 2026-09-01 |
 | Nvidia Just Broke the Stock Market (Again) | 24/7 Wall St. | 2026-09-01 |
-| Broadcom Faces Crucial Earnings Test After AI Chip Sales Surge 143% | GuruFocus.com | 2026-09-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $75.46B | Revenue growth 47.90% y/y |
 | Profitability | Gross 76.28%, operating 48.99%, net 38.85% | ROA 12.12%, ROE 37.28% |
 | Balance sheet | Cash $19.63B, debt $64.91B | Current ratio 2.24, debt/equity 74.02 |
-| Valuation | P/E 61.61, forward P/E 18.89, P/S 23.31, P/B 20.06 | EV/Sales 23.95, EV/EBITDA 42.94 |
+| Valuation | P/E 61.61, forward P/E 18.89, P/S 23.31, P/B 20.06 | EV/Sales 23.91, EV/EBITDA 42.87 |
 | Growth expectations | Earnings growth 85.40%, EPS q/q 87.50% | Analyst mean target $525.97 (46 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $369.68 | EV/Sales | 23.95 |
-| Market cap | $1.76T | EV/EBITDA | 42.94 |
+| Price | $369.68 | EV/Sales | 23.91 |
+| Market cap | $1.76T | EV/EBITDA | 42.87 |
 | Beta | 1.47 | Gross margin | 76.28% |
 | RSI(14) | 43.3 | Operating margin | 48.99% |
 | ATR(14) | 13.13 | Profit margin | 38.85% |

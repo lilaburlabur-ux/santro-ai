@@ -1,16 +1,16 @@
 {
-  "as_of_utc": "2026-09-01T17:07:08+00:00",
-  "as_of_local": "2026-09-01 17:07:08 UTC",
+  "as_of_utc": "2026-09-01T17:12:00+00:00",
+  "as_of_local": "2026-09-01 17:12:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 218.83,
+      "price": 218.37,
       "previous_close": 220.78,
-      "change_pct": -0.88,
-      "market_cap": 5283844137680.054,
+      "change_pct": -1.09,
+      "market_cap": 5273463315261.841,
       "headlines": [
         {
           "title": "Nvidia makes its biggest investment abroad with Mediatek: Why it's a uniquely important deal",
@@ -35,11 +35,17 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 415.37,
+      "price": 414.5,
       "previous_close": 415.32,
-      "change_pct": 0.01,
-      "market_cap": 2153838921787.4949,
+      "change_pct": -0.2,
+      "market_cap": 2149949066277.7449,
       "headlines": [
+        {
+          "title": "TSMC's $269 Billion Expansion Puts Its 67.7% Margin in Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-269-billion-expansion-puts-170918317.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-01T17:09:18Z"
+        },
         {
           "title": "Taiwan Semiconductor Manufacturing Company (TSM) Limited Continues to Deliver Stellar Financial Results",
           "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-tsm-131831930.html",
@@ -51,22 +57,16 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/corning-vs-applied-materials-one-140002411.html",
           "publisher": "Barchart",
           "published": "2026-08-31T14:00:02Z"
-        },
-        {
-          "title": "Billionaire David Tepper of Appaloosa Is Overweight AI Stocks -- but He Recently Dumped Every Share of the Hottest AI Stock of 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-appaloosa-overweight-112600522.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-31T11:26:00Z"
         }
       ]
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 369.47,
+      "price": 369.82,
       "previous_close": 370.34,
-      "change_pct": -0.23,
-      "market_cap": 1757307374504.888,
+      "change_pct": -0.14,
+      "market_cap": 1759115278210.5,
       "headlines": [
         {
           "title": "Broadcom (AVGO) Launches Private AI Cloud Tools, Is It Still Below Fair Value?",
@@ -91,10 +91,10 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 943.44,
+      "price": 941.72,
       "previous_close": 958.73,
-      "change_pct": -1.59,
-      "market_cap": 1065192830419.095,
+      "change_pct": -1.77,
+      "market_cap": 1063543891602.8674,
       "headlines": [
         {
           "title": "Is SK Hynix a Millionaire-Maker Stock?",
@@ -119,10 +119,10 @@
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 458.21,
+      "price": 457.61,
       "previous_close": 470.72,
-      "change_pct": -2.66,
-      "market_cap": 747738882187.0518,
+      "change_pct": -2.79,
+      "market_cap": 747061241637.696,
       "headlines": [
         {
           "title": "AMD's Instinct Systems Are Now Live in Saudi Arabia -- Here's What the Next 250 Megawatts Are Worth to the Stock",
@@ -150,7 +150,7 @@
       "price": 88.83,
       "previous_close": 89.51,
       "change_pct": -0.76,
-      "market_cap": 466567275948.54456,
+      "market_cap": 469565264389.7813,
       "headlines": [
         {
           "title": "Nvidia-Backed Anthropic Inks $35 Billion Deal\u2014Just Don\u2019t Call It \u2018Circular Financing\u2019",
@@ -175,10 +175,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 234.66,
+      "price": 234.37,
       "previous_close": 241.91,
-      "change_pct": -3.0,
-      "market_cap": 250616548112.66757,
+      "change_pct": -3.12,
+      "market_cap": 250317509817.05676,
       "headlines": [
         {
           "title": "What's Going On With ARM Stock Monday",
@@ -203,10 +203,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 208.61,
+      "price": 208.47,
       "previous_close": 211.66,
-      "change_pct": -1.44,
-      "market_cap": 187433831893.17694,
+      "change_pct": -1.51,
+      "market_cap": 187357449680.43265,
       "headlines": [
         {
           "title": "Nvidia-Backed Anthropic Inks $35 Billion Deal\u2014Just Don\u2019t Call It \u2018Circular Financing\u2019",
@@ -231,10 +231,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 165.96,
+      "price": 165.95,
       "previous_close": 170.48,
-      "change_pct": -2.65,
-      "market_cap": 177191228274.37613,
+      "change_pct": -2.66,
+      "market_cap": 177250077859.62024,
       "headlines": [
         {
           "title": "Can Qualcomm's Tie-Up With HUMAIN for AI PC Lift Its Shares?",
@@ -259,10 +259,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 220.99,
+      "price": 220.68,
       "previous_close": 224.64,
-      "change_pct": -1.62,
-      "market_cap": 55710629114.91443,
+      "change_pct": -1.76,
+      "market_cap": 55675326284.46323,
       "headlines": [
         {
           "title": "NXP Semiconductors (NXPI) Stock Still Looks Cheap On Cash Flow While Earnings Lag",
@@ -287,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 111.68,
+      "price": 111.34,
       "previous_close": 115.34,
-      "change_pct": -3.17,
-      "market_cap": 15861940820.3042,
+      "change_pct": -3.47,
+      "market_cap": 15798658348.645554,
       "headlines": [
         {
           "title": "Lattice Semiconductor Sees AMI Combination Powering $3B AI Data Center Ambition",
@@ -315,10 +315,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 144.22,
+      "price": 144.34,
       "previous_close": 148.35,
-      "change_pct": -2.78,
-      "market_cap": 7332686830.160675,
+      "change_pct": -2.71,
+      "market_cap": 7335482477.241287,
       "headlines": [
         {
           "title": "Ondas Drops 6% as Risk-Off Selling Cascades Through Drone Names, Red Cat Slides 3%",
@@ -343,10 +343,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 95.4,
+      "price": 95.26,
       "previous_close": 96.72,
-      "change_pct": -1.36,
-      "market_cap": 3730806524.072525,
+      "change_pct": -1.51,
+      "market_cap": 3725331569.901535,
       "headlines": [
         {
           "title": "Synaptics' CEO Sold Stock After a 120,000-Share Vest. Here's What to Know.",
@@ -401,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 55.61,
-      "change_pct": -2.27,
+      "price": 55.54,
+      "change_pct": -2.39,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -1.59,
-          "price": 943.44,
+          "change_pct": -1.77,
+          "price": 941.72,
           "currency": "USD"
         },
         {
@@ -445,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 0.28,
-          "price": 1571.06,
+          "change_pct": -0.04,
+          "price": 1566.11,
           "currency": "USD"
         },
         {
@@ -454,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -1.35,
-          "price": 817.19,
+          "change_pct": -1.54,
+          "price": 815.61,
           "currency": "USD"
         },
         {
@@ -463,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 0.62,
-          "price": 453.33,
+          "change_pct": 0.35,
+          "price": 452.14,
           "currency": "USD"
         },
         {
@@ -491,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 55.61,
-    "change_pct": -2.27,
+    "price": 55.54,
+    "change_pct": -2.39,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -1.59,
-        "price": 943.44,
+        "change_pct": -1.77,
+        "price": 941.72,
         "currency": "USD"
       },
       {
@@ -535,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 0.28,
-        "price": 1571.06,
+        "change_pct": -0.04,
+        "price": 1566.11,
         "currency": "USD"
       },
       {
@@ -544,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -1.35,
-        "price": 817.19,
+        "change_pct": -1.54,
+        "price": 815.61,
         "currency": "USD"
       },
       {
@@ -553,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 0.62,
-        "price": 453.33,
+        "change_pct": 0.35,
+        "price": 452.14,
         "currency": "USD"
       },
       {
@@ -580,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7633.93,
-      "change_pct": -0.68
+      "price": 7634.85,
+      "change_pct": -0.67
     },
     {
       "label": "BTC",
-      "price": 77528.68,
-      "change_pct": -1.3
+      "price": 77494.08,
+      "change_pct": -1.34
     },
     {
       "label": "Gold",
-      "price": 4403.0,
-      "change_pct": -0.63
+      "price": 4398.0,
+      "change_pct": -0.75
     },
     {
       "label": "Nasdaq100",
-      "price": 29106.84,
-      "change_pct": -1.19
+      "price": 29103.91,
+      "change_pct": -1.2
     }
   ]
 }

@@ -18,7 +18,7 @@ Signed file: `NXPI.research.01.09.2026`
 | Technical momentum | Moderate | 1Y -3.62%; price -8.11% vs SMA200. |
 | Fresh setup quality | Poor / broken | -32.92% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 22.56%, revenue growth 19.50%. |
-| Value attractiveness | Reasonable | Forward P/E 12.29, EV/Sales 4.89. |
+| Value attractiveness | Reasonable | Forward P/E 12.29, EV/Sales 4.91. |
 | Risk level | Elevated | Beta 1.82, ATR 3.4% of price, short float 4.13%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -68,13 +68,13 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Revenue (ttm) | $13.19B | Revenue growth 19.50% y/y |
 | Profitability | Gross 56.10%, operating 30.41%, net 22.56% | ROA 10.46%, ROE 27.92% |
 | Balance sheet | Cash $3.22B, debt $10.98B | Current ratio 2.04, debt/equity 93.33 |
-| Valuation | P/E 18.96, forward P/E 12.29, P/S 4.25, P/B 4.92 | EV/Sales 4.89, EV/EBITDA 12.73 |
+| Valuation | P/E 18.96, forward P/E 12.29, P/S 4.25, P/B 4.92 | EV/Sales 4.91, EV/EBITDA 12.78 |
 | Growth expectations | Earnings growth 72.60%, EPS q/q 72.40% | Analyst mean target $311.10 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 99.37% |
+| Institutional ownership | 99.38% |
 | Insider ownership | 0.14% |
 | Short float | 4.13% |
 | Short ratio (days to cover) | 2.2 |
@@ -111,8 +111,8 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $222.40 | EV/Sales | 4.89 |
-| Market cap | $56.08B | EV/EBITDA | 12.73 |
+| Price | $222.40 | EV/Sales | 4.91 |
+| Market cap | $56.08B | EV/EBITDA | 12.78 |
 | Beta | 1.82 | Gross margin | 56.10% |
 | RSI(14) | 36.8 | Operating margin | 30.41% |
 | ATR(14) | 7.67 | Profit margin | 22.56% |
@@ -120,7 +120,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | SMA50 dist | -12.61% | ROE | 27.92% |
 | SMA200 dist | -8.11% | Revenue (ttm) | $13.19B |
 | 52W high | $331.55 | Revenue growth y/y | 19.50% |
-| 52W low | $181.81 | Inst. ownership | 99.37% |
+| 52W low | $181.81 | Inst. ownership | 99.38% |
 | P/E (ttm) | 18.96 | Insider ownership | 0.14% |
 | Forward P/E | 12.29 | Short float | 4.13% |
 | PEG (trailing) | 0.54 | Avg volume | 4,115,312 |

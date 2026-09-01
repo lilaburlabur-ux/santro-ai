@@ -18,7 +18,7 @@ Signed file: `SYNA.research.01.09.2026`
 | Technical momentum | Moderate | 1Y +36.23%; price -0.56% vs SMA200. |
 | Fresh setup quality | Poor / broken | -35.51% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-41.00%). |
-| Value attractiveness | Reasonable | Forward P/E 14.47, EV/Sales 3.47. |
+| Value attractiveness | Reasonable | Forward P/E 14.47, EV/Sales 3.52. |
 | Risk level | High | Beta 1.96, ATR 4.7% of price, short float 11.83%. |
 
 **Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -68,13 +68,13 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Revenue (ttm) | $1.20B | Revenue growth 8.90% y/y |
 | Profitability | Gross 44.72%, operating -2.79%, net -41.00% | ROA -1.52%, ROE -42.23% |
 | Balance sheet | Cash $442.50M, debt $876.80M | Current ratio 1.12, debt/equity 94.33 |
-| Valuation | P/E —, forward P/E 14.47, P/S 3.11, P/B 4.00 | EV/Sales 3.47, EV/EBITDA 44.75 |
+| Valuation | P/E —, forward P/E 14.47, P/S 3.11, P/B 4.00 | EV/Sales 3.52, EV/EBITDA 45.44 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $130.33 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 108.37% |
+| Institutional ownership | 108.38% |
 | Insider ownership | 1.20% |
 | Short float | 11.83% |
 | Short ratio (days to cover) | 4.1 |
@@ -113,8 +113,8 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $95.17 | EV/Sales | 3.47 |
-| Market cap | $3.72B | EV/EBITDA | 44.75 |
+| Price | $95.17 | EV/Sales | 3.52 |
+| Market cap | $3.72B | EV/EBITDA | 45.44 |
 | Beta | 1.96 | Gross margin | 44.72% |
 | RSI(14) | 38.1 | Operating margin | -2.79% |
 | ATR(14) | 4.49 | Profit margin | -41.00% |
@@ -122,7 +122,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | SMA50 dist | -14.81% | ROE | -42.23% |
 | SMA200 dist | -0.56% | Revenue (ttm) | $1.20B |
 | 52W high | $147.57 | Revenue growth y/y | 8.90% |
-| 52W low | $58.52 | Inst. ownership | 108.37% |
+| 52W low | $58.52 | Inst. ownership | 108.38% |
 | P/E (ttm) | — | Insider ownership | 1.20% |
 | Forward P/E | 14.47 | Short float | 11.83% |
 | PEG (trailing) | — | Avg volume | 959,411 |

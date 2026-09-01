@@ -15,11 +15,11 @@ Signed file: `ARM.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +69.78%; price +17.28% vs SMA200. |
+| Technical momentum | High | 1Y +64.73%; price +17.54% vs SMA200. |
 | Fresh setup quality | Poor / broken | -46.57% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 20.25%, revenue growth 22.40%. |
 | Value attractiveness | Low (expensive) | Forward P/E 76.72, EV/Sales 48.86. |
-| Risk level | High | Beta 3.91, ATR 7.4% of price, short float 12.57%. |
+| Risk level | High | Beta 3.91, ATR 7.8% of price, short float 12.57%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: low (expensive), risk: high.
 
@@ -45,20 +45,20 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $234.82; 52w high $439.46 (-46.57%); 52w low $104.55 (+124.60%) |
-| Trend | +17.28% vs SMA200, -16.27% vs SMA50, -9.35% vs SMA20 |
-| Momentum | RSI(14) 38.9 (neutral) |
-| Volatility | ATR(14) 17.46 (~7.4% of price); beta 3.91 |
+| Trend | +17.54% vs SMA200, -17.27% vs SMA50, -10.08% vs SMA20 |
+| Momentum | RSI(14) 38.5 (neutral) |
+| Volatility | ATR(14) 18.37 (~7.8% of price); beta 3.91 |
 | Setup perspective | -46.57% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -2.8% |
-| Month | -1.8% |
-| Quarter | -41.7% |
-| Half Y | +92.9% |
-| 1Y | +69.8% |
+| Week | -1.7% |
+| Month | -2.0% |
+| Quarter | -42.6% |
+| Half Y | +88.8% |
+| 1Y | +64.7% |
 | YTD | +104.7% |
 
 ## 4. Fundamental Analysis
@@ -68,7 +68,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Revenue (ttm) | $5.16B | Revenue growth 22.40% y/y |
 | Profitability | Gross 97.54%, operating 7.60%, net 20.25% | ROA 5.42%, ROE 13.35% |
 | Balance sheet | Cash $3.89B, debt $485.00M | Current ratio 5.25, debt/equity 5.62 |
-| Valuation | P/E 237.19, forward P/E 76.72, P/S 48.64, P/B 29.06 | EV/Sales 48.86, EV/EBITDA 236.82 |
+| Valuation | P/E 239.61, forward P/E 76.72, P/S 48.64, P/B 29.06 | EV/Sales 48.86, EV/EBITDA 236.82 |
 | Growth expectations | Earnings growth 108.30%, EPS q/q 107.70% | Analyst mean target $286.44 (39 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -96,7 +96,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 76.72, EV/Sales 48.86. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 3.91, ATR 7.4% of price, short float 12.57%. Size positions accordingly.
+- **Volatility risk:** Beta 3.91, ATR 7.8% of price, short float 12.57%. Size positions accordingly.
 - **Short interest risk:** short float 12.57% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -116,16 +116,16 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Price | $234.82 | EV/Sales | 48.86 |
 | Market cap | $250.79B | EV/EBITDA | 236.82 |
 | Beta | 3.91 | Gross margin | 97.54% |
-| RSI(14) | 38.9 | Operating margin | 7.60% |
-| ATR(14) | 17.46 | Profit margin | 20.25% |
-| SMA20 dist | -9.35% | ROA | 5.42% |
-| SMA50 dist | -16.27% | ROE | 13.35% |
-| SMA200 dist | +17.28% | Revenue (ttm) | $5.16B |
+| RSI(14) | 38.5 | Operating margin | 7.60% |
+| ATR(14) | 18.37 | Profit margin | 20.25% |
+| SMA20 dist | -10.08% | ROA | 5.42% |
+| SMA50 dist | -17.27% | ROE | 13.35% |
+| SMA200 dist | +17.54% | Revenue (ttm) | $5.16B |
 | 52W high | $439.46 | Revenue growth y/y | 22.40% |
 | 52W low | $104.55 | Inst. ownership | 96.18% |
-| P/E (ttm) | 237.19 | Insider ownership | 0.07% |
+| P/E (ttm) | 239.61 | Insider ownership | 0.07% |
 | Forward P/E | 76.72 | Short float | 12.57% |
-| PEG (trailing) | 2.10 | Avg volume | 7,511,285 |
+| PEG (trailing) | 2.10 | Avg volume | 7,426,176 |
 | P/S | 48.64 | Employees | 9,584 |
 | P/B | 29.06 | Analyst rec (1=buy..5=sell) | 2.0 |
 

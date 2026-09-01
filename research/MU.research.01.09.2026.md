@@ -18,7 +18,7 @@ Signed file: `MU.research.01.09.2026`
 | Technical momentum | High | 1Y +685.60%; price +56.80% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -23.07% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 55.91%, revenue growth 345.70%. |
-| Value attractiveness | Reasonable | Forward P/E 6.02, EV/Sales 11.45. |
+| Value attractiveness | Reasonable | Forward P/E 6.02, EV/Sales 11.78. |
 | Risk level | High | Beta 2.21, ATR 6.2% of price, short float 2.66%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -68,13 +68,13 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
-| Valuation | P/E 21.12, forward P/E 6.02, P/S 11.68, P/B 10.46 | EV/Sales 11.45, EV/EBITDA 15.15 |
+| Valuation | P/E 21.11, forward P/E 6.02, P/S 11.68, P/B 10.46 | EV/Sales 11.78, EV/EBITDA 15.58 |
 | Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,513.41 (44 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 79.99% |
+| Institutional ownership | 80.00% |
 | Insider ownership | 0.24% |
 | Short float | 2.66% |
 | Short ratio (days to cover) | 0.7 |
@@ -110,8 +110,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $933.44 | EV/Sales | 11.45 |
-| Market cap | $1.05T | EV/EBITDA | 15.15 |
+| Price | $933.44 | EV/Sales | 11.78 |
+| Market cap | $1.05T | EV/EBITDA | 15.58 |
 | Beta | 2.21 | Gross margin | 72.57% |
 | RSI(14) | 50.4 | Operating margin | 80.37% |
 | ATR(14) | 57.42 | Profit margin | 55.91% |
@@ -119,8 +119,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | SMA50 dist | -1.32% | ROE | 66.64% |
 | SMA200 dist | +56.80% | Revenue (ttm) | $90.27B |
 | 52W high | $1,213.37 | Revenue growth y/y | 345.70% |
-| 52W low | $118.29 | Inst. ownership | 79.99% |
-| P/E (ttm) | 21.12 | Insider ownership | 0.24% |
+| 52W low | $118.29 | Inst. ownership | 80.00% |
+| P/E (ttm) | 21.11 | Insider ownership | 0.24% |
 | Forward P/E | 6.02 | Short float | 2.66% |
 | PEG (trailing) | 0.14 | Avg volume | 44,984,636 |
 | P/S | 11.68 | Employees | 53,000 |

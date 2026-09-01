@@ -18,7 +18,7 @@ Signed file: `NVDA.research.01.09.2026`
 | Technical momentum | Moderate | 1Y +25.00%; price +10.98% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -7.66% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 63.66%, revenue growth 105.90%. |
-| Value attractiveness | Reasonable | Forward P/E 14.12, EV/Sales 17.23. |
+| Value attractiveness | Reasonable | Forward P/E 14.12, EV/Sales 17.48. |
 | Risk level | High | Beta 2.21, ATR 3.4% of price, short float 1.23%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -68,7 +68,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $302.97B | Revenue growth 105.90% y/y |
 | Profitability | Gross 74.67%, operating 66.24%, net 63.66% | ROA 53.57%, ROE 117.21% |
 | Balance sheet | Cash $62.47B, debt $38.86B | Current ratio 4.59, debt/equity 16.97 |
-| Valuation | P/E 27.52, forward P/E 14.12, P/S 17.33, P/B 26.94 | EV/Sales 17.23, EV/EBITDA 25.93 |
+| Valuation | P/E 27.45, forward P/E 14.12, P/S 17.33, P/B 26.94 | EV/Sales 17.48, EV/EBITDA 26.32 |
 | Growth expectations | Earnings growth 127.80%, EPS q/q 125.90% | Analyst mean target $323.42 (58 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,8 +111,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $217.44 | EV/Sales | 17.23 |
-| Market cap | $5.25T | EV/EBITDA | 25.93 |
+| Price | $217.44 | EV/Sales | 17.48 |
+| Market cap | $5.25T | EV/EBITDA | 26.32 |
 | Beta | 2.21 | Gross margin | 74.67% |
 | RSI(14) | 51.9 | Operating margin | 66.24% |
 | ATR(14) | 7.35 | Profit margin | 63.66% |
@@ -121,7 +121,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | SMA200 dist | +10.98% | Revenue (ttm) | $302.97B |
 | 52W high | $235.47 | Revenue growth y/y | 105.90% |
 | 52W low | $164.98 | Inst. ownership | 71.50% |
-| P/E (ttm) | 27.52 | Insider ownership | 4.01% |
+| P/E (ttm) | 27.45 | Insider ownership | 4.01% |
 | Forward P/E | 14.12 | Short float | 1.23% |
 | PEG (trailing) | 0.57 | Avg volume | 138,830,287 |
 | P/S | 17.33 | Employees | 42,000 |

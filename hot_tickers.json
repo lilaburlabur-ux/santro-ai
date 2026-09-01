@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-01T00:57:06+00:00",
+  "as_of": "2026-09-01T03:01:29+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,6 +9,22 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "GEV",
+   "company": "GE Vernova Inc",
+   "move_pct": -5.8,
+   "price": 898.53,
+   "volume": 3565436,
+   "volume_vs_avg": "~1.4x",
+   "heat_score": 43,
+   "direction": "down",
+   "why": "The Engine Behind GEV Stock Has Real Parts",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/engine-behind-gev-stock-real-020849623.html",
+   "published": "2026-09-01T02:08:49Z",
+   "sector": "Powering AI"
+  },
+  {
+   "rank": 2,
    "ticker": "TSLA",
    "company": "Tesla Inc",
    "move_pct": 5.51,
@@ -17,10 +33,10 @@
    "volume_vs_avg": "~2x",
    "heat_score": 42,
    "direction": "up",
-   "why": "Dow Jones Futures: Trump's Iran Warning Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla Rally",
+   "why": "Australian judge floats giving court-appointed expert access to Tesla's engineering systems",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-trump-iran-warning-elon-musk-spacex-tesla/?src=A00220&yptr=yahoo",
-   "published": "2026-09-01T00:12:52Z",
+   "source_url": "https://finance.yahoo.com/technology/articles/australian-judge-floats-giving-court-020957344.html",
+   "published": "2026-09-01T02:09:57Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]

@@ -4,7 +4,7 @@ Signed file: `AVGO.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $370.34 (2026-09-01, ~15-min delayed) |
+| Current price | $369.68 (2026-09-01, ~15-min delayed) |
 | Market cap | $1.76T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,10 +15,10 @@ Signed file: `AVGO.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +20.87%; price +0.46% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -22.98% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +25.22%; price +0.26% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -23.11% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 38.85%, revenue growth 47.90%. |
-| Value attractiveness | Reasonable | Forward P/E 18.92, EV/Sales 23.96. |
+| Value attractiveness | Reasonable | Forward P/E 18.89, EV/Sales 23.95. |
 | Risk level | Elevated | Beta 1.47, ATR 3.6% of price, short float 1.20%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -36,30 +36,30 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
-| Marvell's Hyperscaler Deal Lands In A Fiscal Year Management Will Not Size Yet | Trefis | 2026-08-31 |
-| Broadcom's Next Earnings Report on September 2 Could Send the Stock Soaring. Here's Why. | Motley Fool | 2026-08-31 |
-| The Biggest Risk To Cerebras Systems Stock Is Sitting Inside Its Backlog | Trefis | 2026-08-31 |
-| Tech, Media & Telecom Roundup: Market Talk | The Wall Street Journal | 2026-08-31 |
+| Broadcom Faces Crucial Earnings Test After AI Chip Sales Surge 143% | GuruFocus.com | 2026-09-01 |
+| Broadcom Boosts VMware AI Push to Challenge Nutanix & Microsoft | Zacks | 2026-09-01 |
+| There's a 750% Reason You Should Check Which S&P 500 ETF You're Invested In | Kiplinger | 2026-09-01 |
+| Broadcom (AVGO) Launches Private AI Cloud Tools, Is It Still Below Fair Value? | Simply Wall St. | 2026-09-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $370.34; 52w high $480.81 (-22.98%); 52w low $292.95 (+26.42%) |
-| Trend | +0.46% vs SMA200, -3.88% vs SMA50, -5.03% vs SMA20 |
-| Momentum | RSI(14) 43.6 (neutral) |
-| Volatility | ATR(14) 13.41 (~3.6% of price); beta 1.47 |
-| Setup perspective | -22.98% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $369.68; 52w high $480.81 (-23.11%); 52w low $292.95 (+26.19%) |
+| Trend | +0.26% vs SMA200, -3.94% vs SMA50, -4.61% vs SMA20 |
+| Momentum | RSI(14) 43.3 (neutral) |
+| Volatility | ATR(14) 13.13 (~3.6% of price); beta 1.47 |
+| Setup perspective | -23.11% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +3.2% |
-| Month | -4.9% |
-| Quarter | -19.4% |
-| Half Y | +16.6% |
-| 1Y | +20.9% |
-| YTD | +6.9% |
+| Week | +3.6% |
+| Month | -5.7% |
+| Quarter | -23.1% |
+| Half Y | +18.2% |
+| 1Y | +25.2% |
+| YTD | +6.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $75.46B | Revenue growth 47.90% y/y |
 | Profitability | Gross 76.28%, operating 48.99%, net 38.85% | ROA 12.12%, ROE 37.28% |
 | Balance sheet | Cash $19.63B, debt $64.91B | Current ratio 2.24, debt/equity 74.02 |
-| Valuation | P/E 61.62, forward P/E 18.92, P/S 23.35, P/B 20.09 | EV/Sales 23.96, EV/EBITDA 42.97 |
+| Valuation | P/E 61.61, forward P/E 18.89, P/S 23.31, P/B 20.06 | EV/Sales 23.95, EV/EBITDA 42.94 |
 | Growth expectations | Earnings growth 85.40%, EPS q/q 87.50% | Analyst mean target $525.97 (46 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $370.34 | EV/Sales | 23.96 |
-| Market cap | $1.76T | EV/EBITDA | 42.97 |
+| Price | $369.68 | EV/Sales | 23.95 |
+| Market cap | $1.76T | EV/EBITDA | 42.94 |
 | Beta | 1.47 | Gross margin | 76.28% |
-| RSI(14) | 43.6 | Operating margin | 48.99% |
-| ATR(14) | 13.41 | Profit margin | 38.85% |
-| SMA20 dist | -5.03% | ROA | 12.12% |
-| SMA50 dist | -3.88% | ROE | 37.28% |
-| SMA200 dist | +0.46% | Revenue (ttm) | $75.46B |
+| RSI(14) | 43.3 | Operating margin | 48.99% |
+| ATR(14) | 13.13 | Profit margin | 38.85% |
+| SMA20 dist | -4.61% | ROA | 12.12% |
+| SMA50 dist | -3.94% | ROE | 37.28% |
+| SMA200 dist | +0.26% | Revenue (ttm) | $75.46B |
 | 52W high | $480.81 | Revenue growth y/y | 47.90% |
 | 52W low | $292.95 | Inst. ownership | 80.15% |
-| P/E (ttm) | 61.62 | Insider ownership | 1.95% |
-| Forward P/E | 18.92 | Short float | 1.20% |
-| PEG (trailing) | 0.42 | Avg volume | 25,813,855 |
-| P/S | 23.35 | Employees | 33,000 |
-| P/B | 20.09 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/E (ttm) | 61.61 | Insider ownership | 1.95% |
+| Forward P/E | 18.89 | Short float | 1.20% |
+| PEG (trailing) | 0.42 | Avg volume | 25,676,580 |
+| P/S | 23.31 | Employees | 33,000 |
+| P/B | 20.06 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

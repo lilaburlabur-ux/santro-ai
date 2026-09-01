@@ -4,8 +4,8 @@ Signed file: `QCOM.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $170.48 (2026-09-01, ~15-min delayed) |
-| Market cap | $182.08B |
+| Current price | $166.61 (2026-09-01, ~15-min delayed) |
+| Market cap | $177.95B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `QCOM.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +8.25%; price +2.05% vs SMA200. |
-| Fresh setup quality | Poor / broken | -31.83% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +5.84%; price -0.24% vs SMA200. |
+| Fresh setup quality | Poor / broken | -33.38% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 21.01%, revenue growth -4.00%. |
-| Value attractiveness | Reasonable | Forward P/E 16.71, EV/Sales 4.07. |
-| Risk level | Elevated | Beta 1.66, ATR 3.6% of price, short float 3.48%. |
+| Value attractiveness | Reasonable | Forward P/E 16.33, EV/Sales 4.07. |
+| Risk level | Elevated | Beta 1.66, ATR 3.8% of price, short float 3.48%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| Can Qualcomm's Tie-Up With HUMAIN for AI PC Lift Its Shares? | Zacks | 2026-09-01 |
+| NVDA Stock: Where Compounding Could Take The Price | Trefis | 2026-09-01 |
 | Marvell's Hyperscaler Deal Lands In A Fiscal Year Management Will Not Size Yet | Trefis | 2026-08-31 |
 | Qualcomm Just Gained 15% in a Month: Take Profits, or Buy More? | 24/7 Wall St. | 2026-08-31 |
-| How Investors May Respond To QCOM Naming Sergio Buniac To Lead Mobile, Compute And Personal AI | Simply Wall St. | 2026-08-31 |
-| Wall Street May Be Sleeping on This Massive AI CPU Opportunity | 24/7 Wall St. | 2026-08-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $170.48; 52w high $250.10 (-31.83%); 52w low $123.61 (+37.91%) |
-| Trend | +2.05% vs SMA200, -1.11% vs SMA50, +4.75% vs SMA20 |
-| Momentum | RSI(14) 55.8 (neutral) |
-| Volatility | ATR(14) 6.17 (~3.6% of price); beta 1.66 |
-| Setup perspective | -31.83% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $166.61; 52w high $250.10 (-33.38%); 52w low $123.61 (+34.78%) |
+| Trend | -0.24% vs SMA200, -2.73% vs SMA50, +2.25% vs SMA20 |
+| Momentum | RSI(14) 51.0 (neutral) |
+| Volatility | ATR(14) 6.33 (~3.8% of price); beta 1.66 |
+| Setup perspective | -33.38% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +7.5% |
-| Month | +15.5% |
-| Quarter | -25.3% |
-| Half Y | +22.1% |
-| 1Y | +8.3% |
-| YTD | -0.4% |
+| Week | +3.8% |
+| Month | +9.9% |
+| Quarter | -30.6% |
+| Half Y | +21.8% |
+| 1Y | +5.8% |
+| YTD | -2.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $44.07B | Revenue growth -4.00% y/y |
 | Profitability | Gross 54.23%, operating 18.53%, net 21.01% | ROA 11.61%, ROE 33.75% |
 | Balance sheet | Cash $8.30B, debt $15.27B | Current ratio 2.02, debt/equity 55.21 |
-| Valuation | P/E 18.75, forward P/E 16.71, P/S 4.13, P/B 6.52 | EV/Sales 4.07, EV/EBITDA 14.95 |
+| Valuation | P/E 19.04, forward P/E 16.33, P/S 4.04, P/B 6.37 | EV/Sales 4.07, EV/EBITDA 14.95 |
 | Growth expectations | Earnings growth -23.00%, EPS q/q -24.90% | Analyst mean target $193.10 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | NORGES BANK | 16,209,022 | 1.54% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.66, ATR 3.6% of price, short float 3.48%. Size positions accordingly.
+- **Volatility risk:** Beta 1.66, ATR 3.8% of price, short float 3.48%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,21 +111,21 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $170.48 | EV/Sales | 4.07 |
-| Market cap | $182.08B | EV/EBITDA | 14.95 |
+| Price | $166.61 | EV/Sales | 4.07 |
+| Market cap | $177.95B | EV/EBITDA | 14.95 |
 | Beta | 1.66 | Gross margin | 54.23% |
-| RSI(14) | 55.8 | Operating margin | 18.53% |
-| ATR(14) | 6.17 | Profit margin | 21.01% |
-| SMA20 dist | +4.75% | ROA | 11.61% |
-| SMA50 dist | -1.11% | ROE | 33.75% |
-| SMA200 dist | +2.05% | Revenue (ttm) | $44.07B |
+| RSI(14) | 51.0 | Operating margin | 18.53% |
+| ATR(14) | 6.33 | Profit margin | 21.01% |
+| SMA20 dist | +2.25% | ROA | 11.61% |
+| SMA50 dist | -2.73% | ROE | 33.75% |
+| SMA200 dist | -0.24% | Revenue (ttm) | $44.07B |
 | 52W high | $250.10 | Revenue growth y/y | -4.00% |
 | 52W low | $123.61 | Inst. ownership | 83.37% |
-| P/E (ttm) | 18.75 | Insider ownership | 0.12% |
-| Forward P/E | 16.71 | Short float | 3.48% |
-| PEG (trailing) | 0.72 | Avg volume | 15,478,217 |
-| P/S | 4.13 | Employees | 52,000 |
-| P/B | 6.52 | Analyst rec (1=buy..5=sell) | — |
+| P/E (ttm) | 19.04 | Insider ownership | 0.12% |
+| Forward P/E | 16.33 | Short float | 3.48% |
+| PEG (trailing) | 0.72 | Avg volume | 15,344,080 |
+| P/S | 4.04 | Employees | 52,000 |
+| P/B | 6.37 | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

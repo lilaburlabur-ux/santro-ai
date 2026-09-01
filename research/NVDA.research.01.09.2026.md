@@ -4,8 +4,8 @@ Signed file: `NVDA.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $220.78 (2026-09-01, ~15-min delayed) |
-| Market cap | $5.33T |
+| Current price | $217.44 (2026-09-01, ~15-min delayed) |
+| Market cap | $5.25T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `NVDA.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +22.70%; price +12.76% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -6.24% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +25.00%; price +10.98% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -7.66% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 63.66%, revenue growth 105.90%. |
-| Value attractiveness | Reasonable | Forward P/E 14.33, EV/Sales 17.46. |
+| Value attractiveness | Reasonable | Forward P/E 14.12, EV/Sales 17.23. |
 | Risk level | High | Beta 2.21, ATR 3.4% of price, short float 1.23%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -36,30 +36,30 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech stocks today: Apple stock slips as Tim Cook prepares to step down | Yahoo Finance | 2026-08-31 |
-| Dow Jones Futures: Trump's Iran Warning Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla Rally | Investor's Business Daily | 2026-09-01 |
-| We Asked AI What a September Rate Hike Would Do to XRP | 24/7 Wall St. | 2026-09-01 |
-| Here's What September Has Done to AMD Stock Over the Past 10 Years | Motley Fool | 2026-08-31 |
+| Two deals, one Nvidia strategy: What's behind the chip giant's recent partnerships | Yahoo Finance Video | 2026-09-01 |
+| Stocks slip as 10-year Treasury yield hits highest level since January 2025: AlphaCheck | Yahoo Finance | 2026-09-01 |
+| Hut 8 stock is a winner in a new deal between Anthropic and Nvidia-backed Lambda | Yahoo Finance | 2026-09-01 |
+| 5-Star Analyst Drops Massive Nvidia Stock Price Target | GuruFocus.com | 2026-09-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $220.78; 52w high $235.47 (-6.24%); 52w low $164.98 (+33.82%) |
-| Trend | +12.76% vs SMA200, +5.83% vs SMA50, +0.93% vs SMA20 |
-| Momentum | RSI(14) 54.6 (neutral) |
-| Volatility | ATR(14) 7.48 (~3.4% of price); beta 2.21 |
-| Setup perspective | -6.24% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $217.44; 52w high $235.47 (-7.66%); 52w low $164.98 (+31.80%) |
+| Trend | +10.98% vs SMA200, +4.14% vs SMA50, -0.73% vs SMA20 |
+| Momentum | RSI(14) 51.9 (neutral) |
+| Volatility | ATR(14) 7.35 (~3.4% of price); beta 2.21 |
+| Setup perspective | -7.66% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +5.9% |
-| Month | +10.0% |
-| Quarter | -1.5% |
-| Half Y | +21.1% |
-| 1Y | +22.7% |
-| YTD | +17.1% |
+| Week | +2.1% |
+| Month | +5.2% |
+| Quarter | -2.3% |
+| Half Y | +20.9% |
+| 1Y | +25.0% |
+| YTD | +15.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $302.97B | Revenue growth 105.90% y/y |
 | Profitability | Gross 74.67%, operating 66.24%, net 63.66% | ROA 53.57%, ROE 117.21% |
 | Balance sheet | Cash $62.47B, debt $38.86B | Current ratio 4.59, debt/equity 16.97 |
-| Valuation | P/E 27.46, forward P/E 14.33, P/S 17.60, P/B 27.36 | EV/Sales 17.46, EV/EBITDA 26.29 |
+| Valuation | P/E 27.52, forward P/E 14.12, P/S 17.33, P/B 26.94 | EV/Sales 17.23, EV/EBITDA 25.93 |
 | Growth expectations | Earnings growth 127.80%, EPS q/q 125.90% | Analyst mean target $323.42 (58 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,21 +111,21 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $220.78 | EV/Sales | 17.46 |
-| Market cap | $5.33T | EV/EBITDA | 26.29 |
+| Price | $217.44 | EV/Sales | 17.23 |
+| Market cap | $5.25T | EV/EBITDA | 25.93 |
 | Beta | 2.21 | Gross margin | 74.67% |
-| RSI(14) | 54.6 | Operating margin | 66.24% |
-| ATR(14) | 7.48 | Profit margin | 63.66% |
-| SMA20 dist | +0.93% | ROA | 53.57% |
-| SMA50 dist | +5.83% | ROE | 117.21% |
-| SMA200 dist | +12.76% | Revenue (ttm) | $302.97B |
+| RSI(14) | 51.9 | Operating margin | 66.24% |
+| ATR(14) | 7.35 | Profit margin | 63.66% |
+| SMA20 dist | -0.73% | ROA | 53.57% |
+| SMA50 dist | +4.14% | ROE | 117.21% |
+| SMA200 dist | +10.98% | Revenue (ttm) | $302.97B |
 | 52W high | $235.47 | Revenue growth y/y | 105.90% |
 | 52W low | $164.98 | Inst. ownership | 71.50% |
-| P/E (ttm) | 27.46 | Insider ownership | 4.01% |
-| Forward P/E | 14.33 | Short float | 1.23% |
-| PEG (trailing) | 0.63 | Avg volume | 140,227,025 |
-| P/S | 17.60 | Employees | 42,000 |
-| P/B | 27.36 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/E (ttm) | 27.52 | Insider ownership | 4.01% |
+| Forward P/E | 14.12 | Short float | 1.23% |
+| PEG (trailing) | 0.57 | Avg volume | 138,830,287 |
+| P/S | 17.33 | Employees | 42,000 |
+| P/B | 26.94 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

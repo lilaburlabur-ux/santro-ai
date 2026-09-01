@@ -4,8 +4,8 @@ Signed file: `INTC.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $89.51 (2026-09-01, ~15-min delayed) |
-| Market cap | $473.16B |
+| Current price | $88.97 (2026-09-01, ~15-min delayed) |
+| Market cap | $470.30B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, weak fundamentals, value: low (expensive), risk: high. |
@@ -15,11 +15,11 @@ Signed file: `INTC.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +259.05%; price +22.54% vs SMA200. |
-| Fresh setup quality | Poor / broken | -36.49% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +265.38%; price +21.38% vs SMA200. |
+| Fresh setup quality | Poor / broken | -36.87% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-19.79%). |
-| Value attractiveness | Low (expensive) | Forward P/E 43.87, EV/Sales 8.55. |
-| Risk level | High | Beta 2.24, ATR 6.2% of price, short float 2.57%. |
+| Value attractiveness | Low (expensive) | Forward P/E 43.61, EV/Sales 8.55. |
+| Risk level | High | Beta 2.24, ATR 6.1% of price, short float 2.57%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: low (expensive), risk: high.
 
@@ -36,30 +36,30 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| Marvell's Hyperscaler Deal Lands In A Fiscal Year Management Will Not Size Yet | Trefis | 2026-08-31 |
-| Stocks to Watch Recap: Amazon, PG&E, Nvidia, Chevron | The Wall Street Journal | 2026-08-31 |
-| The Biggest Risk To Cerebras Systems Stock Is Sitting Inside Its Backlog | Trefis | 2026-08-31 |
-| Is Broadcom (AVGO) Stock a Buy Before Its Q3 Earnings? | Zacks | 2026-08-31 |
+| Nvidia makes its biggest investment abroad with Mediatek: Why it's a uniquely important deal | Yahoo Finance Video | 2026-09-01 |
+| Tesla, Apple, Nvidia, Medtronic, Alumis, Robinhood, Fervo, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-01 |
+| Nvidia-Backed Anthropic Inks $35 Billion Deal. Just Don’t Call It ‘Circular Financing’ | Barrons.com | 2026-09-01 |
+| Billionaires Were Buying These Two Nancy Pelosi AI Stocks | Insider Monkey | 2026-09-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $89.51; 52w high $140.94 (-36.49%); 52w low $24.00 (+272.96%) |
-| Trend | +22.54% vs SMA200, -13.96% vs SMA50, -6.56% vs SMA20 |
-| Momentum | RSI(14) 41.6 (neutral) |
-| Volatility | ATR(14) 5.52 (~6.2% of price); beta 2.24 |
-| Setup perspective | -36.49% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $88.97; 52w high $140.94 (-36.87%); 52w low $24.00 (+270.71%) |
+| Trend | +21.38% vs SMA200, -13.61% vs SMA50, -6.54% vs SMA20 |
+| Momentum | RSI(14) 41.0 (neutral) |
+| Volatility | ATR(14) 5.40 (~6.1% of price); beta 2.24 |
+| Setup perspective | -36.87% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.6% |
-| Month | -0.8% |
-| Quarter | -18.1% |
-| Half Y | +96.7% |
-| 1Y | +259.0% |
-| YTD | +127.3% |
+| Week | +1.7% |
+| Month | -2.2% |
+| Quarter | -17.6% |
+| Half Y | +106.4% |
+| 1Y | +265.4% |
+| YTD | +125.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $57.03B | Revenue growth 25.40% y/y |
 | Profitability | Gross 38.87%, operating 12.19%, net -19.79% | ROA 1.41%, ROE -10.71% |
 | Balance sheet | Cash $29.73B, debt $50.54B | Current ratio 1.60, debt/equity 49.00 |
-| Valuation | P/E —, forward P/E 43.87, P/S 8.30, P/B 5.16 | EV/Sales 8.55, EV/EBITDA 28.97 |
+| Valuation | P/E —, forward P/E 43.61, P/S 8.25, P/B 5.13 | EV/Sales 8.55, EV/EBITDA 28.96 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $114.88 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Primecap Management Company | 75,250,958 | 1.49% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 43.87, EV/Sales 8.55. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.24, ATR 6.2% of price, short float 2.57%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 43.61, EV/Sales 8.55. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.24, ATR 6.1% of price, short float 2.57%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -113,21 +113,21 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $89.51 | EV/Sales | 8.55 |
-| Market cap | $473.16B | EV/EBITDA | 28.97 |
+| Price | $88.97 | EV/Sales | 8.55 |
+| Market cap | $470.30B | EV/EBITDA | 28.96 |
 | Beta | 2.24 | Gross margin | 38.87% |
-| RSI(14) | 41.6 | Operating margin | 12.19% |
-| ATR(14) | 5.52 | Profit margin | -19.79% |
-| SMA20 dist | -6.56% | ROA | 1.41% |
-| SMA50 dist | -13.96% | ROE | -10.71% |
-| SMA200 dist | +22.54% | Revenue (ttm) | $57.03B |
+| RSI(14) | 41.0 | Operating margin | 12.19% |
+| ATR(14) | 5.40 | Profit margin | -19.79% |
+| SMA20 dist | -6.54% | ROA | 1.41% |
+| SMA50 dist | -13.61% | ROE | -10.71% |
+| SMA200 dist | +21.38% | Revenue (ttm) | $57.03B |
 | 52W high | $140.94 | Revenue growth y/y | 25.40% |
 | 52W low | $24.00 | Inst. ownership | 62.53% |
 | P/E (ttm) | — | Insider ownership | 13.99% |
-| Forward P/E | 43.87 | Short float | 2.57% |
-| PEG (trailing) | — | Avg volume | 117,017,876 |
-| P/S | 8.30 | Employees | 85,100 |
-| P/B | 5.16 | Analyst rec (1=buy..5=sell) | — |
+| Forward P/E | 43.61 | Short float | 2.57% |
+| PEG (trailing) | — | Avg volume | 115,911,306 |
+| P/S | 8.25 | Employees | 85,100 |
+| P/B | 5.13 | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

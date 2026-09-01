@@ -4,7 +4,7 @@ Signed file: `TSM.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $415.32 (2026-09-01, ~15-min delayed) |
+| Current price | $414.00 (2026-09-01, ~15-min delayed) |
 | Market cap | $2.15T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `TSM.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +76.23%; price +12.52% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -13.03% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +81.30%; price +11.97% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -13.31% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 49.92%, revenue growth 36.00%. |
-| Value attractiveness | Reasonable | Forward P/E 19.07, EV/Sales 3.34. |
-| Risk level | Elevated | Beta 1.26, ATR 3.0% of price, short float 0.62%. |
+| Value attractiveness | Reasonable | Forward P/E 19.01, EV/Sales 3.36. |
+| Risk level | Elevated | Beta 1.26, ATR 2.9% of price, short float 0.62%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| TSMC's $269 Billion Expansion Puts Its 67.7% Margin in Focus | GuruFocus.com | 2026-09-01 |
+| Taiwan Semiconductor Manufacturing Company (TSM) Limited Continues to Deliver Stellar Financial Results | Insider Monkey | 2026-09-01 |
 | Corning vs. Applied Materials: One Stock Beat the Other by 75 Percentage Points. The Better AI Infrastructure Play Is Clear. | Barchart | 2026-08-31 |
 | Billionaire David Tepper of Appaloosa Is Overweight AI Stocks -- but He Recently Dumped Every Share of the Hottest AI Stock of 2026 | Motley Fool | 2026-08-31 |
-| Update: Market Chatter: SK Hynix Denies Report of Intel Foundry Partnership for HBM4E | MT Newswires | 2026-08-31 |
-| Market Chatter: SK Hynix Ponders Chip Production in Japan to Meet AI-Related Demand | MT Newswires | 2026-08-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $415.32; 52w high $477.57 (-13.03%); 52w low $225.89 (+83.86%) |
-| Trend | +12.52% vs SMA200, -1.70% vs SMA50, -1.03% vs SMA20 |
-| Momentum | RSI(14) 48.4 (neutral) |
-| Volatility | ATR(14) 12.47 (~3.0% of price); beta 1.26 |
-| Setup perspective | -13.03% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $414.00; 52w high $477.57 (-13.31%); 52w low $225.89 (+83.27%) |
+| Trend | +11.97% vs SMA200, -1.76% vs SMA50, -1.31% vs SMA20 |
+| Momentum | RSI(14) 47.7 (neutral) |
+| Volatility | ATR(14) 12.05 (~2.9% of price); beta 1.26 |
+| Setup perspective | -13.31% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.3% |
-| Month | +2.7% |
-| Quarter | -4.4% |
-| Half Y | +13.1% |
-| 1Y | +76.2% |
-| YTD | +30.6% |
+| Week | -0.8% |
+| Month | +1.9% |
+| Quarter | -7.1% |
+| Half Y | +17.8% |
+| 1Y | +81.3% |
+| YTD | +30.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.44T | Revenue growth 36.00% y/y |
 | Profitability | Gross 64.23%, operating 60.34%, net 49.92% | ROA 19.00%, ROE 39.97% |
 | Balance sheet | Cash $3.52T, debt $1.07T | Current ratio 2.46, debt/equity 16.50 |
-| Valuation | P/E 30.90, forward P/E 19.07, P/S 0.49, P/B 85.49 | EV/Sales 3.34, EV/EBITDA 4.68 |
+| Valuation | P/E 30.67, forward P/E 19.01, P/S 0.48, P/B 86.34 | EV/Sales 3.36, EV/EBITDA 4.71 |
 | Growth expectations | Earnings growth 77.40%, EPS q/q 77.40% | Analyst mean target $554.45 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Bank of America Corporation | 15,282,620 | 0.29% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.26, ATR 3.0% of price, short float 0.62%. Size positions accordingly.
+- **Volatility risk:** Beta 1.26, ATR 2.9% of price, short float 0.62%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $415.32 | EV/Sales | 3.34 |
-| Market cap | $2.15T | EV/EBITDA | 4.68 |
+| Price | $414.00 | EV/Sales | 3.36 |
+| Market cap | $2.15T | EV/EBITDA | 4.71 |
 | Beta | 1.26 | Gross margin | 64.23% |
-| RSI(14) | 48.4 | Operating margin | 60.34% |
-| ATR(14) | 12.47 | Profit margin | 49.92% |
-| SMA20 dist | -1.03% | ROA | 19.00% |
-| SMA50 dist | -1.70% | ROE | 39.97% |
-| SMA200 dist | +12.52% | Revenue (ttm) | $4.44T |
+| RSI(14) | 47.7 | Operating margin | 60.34% |
+| ATR(14) | 12.05 | Profit margin | 49.92% |
+| SMA20 dist | -1.31% | ROA | 19.00% |
+| SMA50 dist | -1.76% | ROE | 39.97% |
+| SMA200 dist | +11.97% | Revenue (ttm) | $4.44T |
 | 52W high | $477.57 | Revenue growth y/y | 36.00% |
 | 52W low | $225.89 | Inst. ownership | 15.49% |
-| P/E (ttm) | 30.90 | Insider ownership | 0.01% |
-| Forward P/E | 19.07 | Short float | 0.62% |
-| PEG (trailing) | 1.02 | Avg volume | 13,426,336 |
-| P/S | 0.49 | Employees | 76,907 |
-| P/B | 85.49 | Analyst rec (1=buy..5=sell) | — |
+| P/E (ttm) | 30.67 | Insider ownership | 0.01% |
+| Forward P/E | 19.01 | Short float | 0.62% |
+| PEG (trailing) | 1.02 | Avg volume | 13,247,066 |
+| P/S | 0.48 | Employees | 76,907 |
+| P/B | 86.34 | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

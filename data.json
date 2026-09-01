@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-01T22:00:27+00:00",
-  "as_of_local": "2026-09-01 22:00:27 UTC",
+  "as_of_utc": "2026-09-01T22:05:28+00:00",
+  "as_of_local": "2026-09-01 22:05:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 1758782212751.082,
       "headlines": [
         {
+          "title": "Two Stocks That Will Benefit From OpenAI Announcement",
+          "url": "https://finance.yahoo.com/video/two-stocks-benefit-openai-announcement-215001257.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-01T21:50:01Z"
+        },
+        {
           "title": "Nvidia Just Broke the Stock Market (Again)",
           "url": "https://finance.yahoo.com/video/nvidia-just-broke-stock-market-212530537.html",
           "publisher": "24/7 Wall St.",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-faces-crucial-earnings-test-195219708.html",
           "publisher": "GuruFocus.com",
           "published": "2026-09-01T19:52:19Z"
-        },
-        {
-          "title": "Broadcom Boosts VMware AI Push to Challenge Nutanix & Microsoft",
-          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-boosts-vmware-ai-push-175900642.html",
-          "publisher": "Zacks",
-          "published": "2026-09-01T17:59:00Z"
         }
       ]
     },
@@ -585,13 +585,18 @@
     },
     {
       "label": "BTC",
-      "price": 77138.45,
-      "change_pct": -1.8
+      "price": 77230.38,
+      "change_pct": -1.68
     },
     {
       "label": "Gold",
       "price": 4375.7,
       "change_pct": -1.25
+    },
+    {
+      "label": "Nasdaq100",
+      "price": 29077.22,
+      "change_pct": -1.29
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-02T00:29:31+00:00",
+  "as_of": "2026-09-02T00:44:37+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -73,22 +73,6 @@
   },
   {
    "rank": 5,
-   "ticker": "NET",
-   "company": "Cloudflare Inc",
-   "move_pct": -6.42,
-   "price": 285.51,
-   "volume": 2468486,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 41,
-   "direction": "down",
-   "why": "F5, Braze, CrowdStrike, MongoDB, and Cloudflare Shares Plummet, What You Need To Know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/f5-braze-crowdstrike-mongodb-cloudflare-203420404.html",
-   "published": "2026-09-01T20:34:20Z",
-   "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
-   "rank": 6,
    "ticker": "ZS",
    "company": "Zscaler Inc",
    "move_pct": -5.32,
@@ -104,7 +88,7 @@
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "ticker": "ORCL",
    "company": "Oracle Corp",
    "move_pct": -5.23,
@@ -120,7 +104,7 @@
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
-   "rank": 8,
+   "rank": 7,
    "ticker": "DDOG",
    "company": "Datadog Inc",
    "move_pct": -5.57,
@@ -134,6 +118,22 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/okta-datadog-jfrog-zscaler-elastic-205020337.html",
    "published": "2026-09-01T20:50:20Z",
    "sector": "AI Applications & Data Software"
+  },
+  {
+   "rank": 8,
+   "ticker": "NXE",
+   "company": "NexGen Energy Ltd",
+   "move_pct": -5.16,
+   "price": 9.93,
+   "volume": 5478429,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 38,
+   "direction": "down",
+   "why": "NexGen Energy Targets 2030 First Ore as Rook I Eyes $1.3B Annual Cash Flow",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/energy/articles/nexgen-energy-targets-2030-first-000245392.html",
+   "published": "2026-09-02T00:02:45Z",
+   "sector": "Powering AI"
   }
  ]
 }

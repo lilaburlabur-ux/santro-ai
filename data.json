@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-02T04:21:20+00:00",
-  "as_of_local": "2026-09-02 04:21:20 UTC",
+  "as_of_utc": "2026-09-02T04:36:26+00:00",
+  "as_of_local": "2026-09-02 04:36:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 2147200241382.0,
       "headlines": [
         {
+          "title": "Taiwan says its companies plan to invest another $20 billion in US",
+          "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-says-companies-plan-invest-042027847.html",
+          "publisher": "Reuters",
+          "published": "2026-09-02T04:20:27Z"
+        },
+        {
           "title": "Billionaire David Tepper just dumped a red-hot AI stock",
           "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-david-tepper-just-dumped-040300596.html",
           "publisher": "TheStreet",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/roundtable-100-analysts-put-nvidia-232830505.html",
           "publisher": "TheStreet",
           "published": "2026-09-01T23:28:30Z"
-        },
-        {
-          "title": "TSMC's $269 Billion Expansion Puts Its 67.7% Margin in Focus",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-269-billion-expansion-puts-170918317.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-09-01T17:09:18Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "price": 88.97,
       "previous_close": 89.51,
       "change_pct": -0.6,
-      "market_cap": 470304791612.9052,
+      "market_cap": 467495212659.7667,
       "headlines": [
         {
           "title": "Nvidia makes its biggest investment abroad with Mediatek: Why it's a uniquely important deal",
@@ -290,7 +290,7 @@
       "price": 111.68,
       "previous_close": 115.34,
       "change_pct": -3.17,
-      "market_cap": 15830551704.378426,
+      "market_cap": 15861940820.3042,
       "headlines": [
         {
           "title": "Forget the Biggest Chip Stocks \u2014 Analysts Say Buy These 2 Names",
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -3.96,
-          "price": 1626000.0,
+          "change_pct": -4.25,
+          "price": 1621000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -0.51,
-          "price": 50740.0,
+          "change_pct": -0.39,
+          "price": 50800.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -3.96,
-        "price": 1626000.0,
+        "change_pct": -4.25,
+        "price": 1621000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -0.51,
-        "price": 50740.0,
+        "change_pct": -0.39,
+        "price": 50800.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 77369.5,
-      "change_pct": -1.5
+      "price": 77437.45,
+      "change_pct": -1.41
     },
     {
       "label": "Gold",
-      "price": 4352.1,
-      "change_pct": 0.09
+      "price": 4350.2,
+      "change_pct": 0.05
     },
     {
       "label": "Nasdaq100",

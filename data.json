@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-09-02T22:31:40+00:00",
-  "as_of_local": "2026-09-02 22:31:40 UTC",
+  "as_of_utc": "2026-09-02T22:36:54+00:00",
+  "as_of_local": "2026-09-02 22:36:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 224.41,
-      "previous_close": 217.44,
-      "change_pct": 3.21,
-      "market_cap": 5418828358428.955,
-      "headlines": [
-        {
-          "title": "Broadcom's Q3 earnings beat just isn't 'enough' to keep investors happy",
-          "url": "https://finance.yahoo.com/video/broadcoms-q3-earnings-beat-just-204909744.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-09-02T20:49:09Z"
-        },
-        {
-          "title": "Nvidia didn't like Wall Street's estimates. So it tried to reset them.",
-          "url": "https://finance.yahoo.com/technology/article/nvidia-didnt-like-wall-streets-estimates-so-it-tried-to-reset-them-122218541.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-09-02T12:22:18Z"
-        },
-        {
-          "title": "Nscale doubles contracted revenue to $103 billion after Anthropic win - report",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nscale-doubles-contracted-revenue-103-222526129.html",
-          "publisher": "Investing.com",
-          "published": "2026-09-02T22:25:26Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -84,7 +58,7 @@
           "title": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-snowflake-broadcom-hpe-earnings-tesla-cybercab-event/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-09-02T22:11:14Z"
+          "published": "2026-09-02T22:27:16Z"
         }
       ]
     },
@@ -150,7 +124,7 @@
       "price": 90.05,
       "previous_close": 88.97,
       "change_pct": 1.21,
-      "market_cap": 476013794975.01306,
+      "market_cap": 473170110701.29175,
       "headlines": [
         {
           "title": "Here's the biggest thing keeping AI stock investors up at night",
@@ -290,7 +264,7 @@
       "price": 113.88,
       "previous_close": 111.68,
       "change_pct": 1.97,
-      "market_cap": 16142399531.59417,
+      "market_cap": 16174406985.262207,
       "headlines": [
         {
           "title": "Lattice Semiconductor SVP Elashmawi Sells 16,773 Shares for $2.3 Million",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 77048.96,
-      "change_pct": -0.46
+      "price": 77065.0,
+      "change_pct": -0.44
     },
     {
       "label": "Gold",
-      "price": 4433.6,
-      "change_pct": 1.97
+      "price": 4435.0,
+      "change_pct": 2.0
     },
     {
       "label": "Nasdaq100",

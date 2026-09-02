@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-02T12:00:42+00:00",
-  "as_of_local": "2026-09-02 12:00:42 UTC",
+  "as_of_utc": "2026-09-02T12:05:17+00:00",
+  "as_of_local": "2026-09-02 12:05:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/markets/commodities/articles/wall-street-headed-red-bond-113800830.html",
           "publisher": "Proactive",
           "published": "2026-09-02T11:38:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 933.44,
+      "previous_close": 958.73,
+      "change_pct": -2.64,
+      "market_cap": 1054220745626.7476,
+      "headlines": [
+        {
+          "title": "\u2018Only in America\u2019: Trump hails Nvidia\u2019s record $96.2B quarter and Micron\u2019s massive $250B US bet \u2014 are you cashing in?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/only-america-trump-hails-nvidia-114000861.html",
+          "publisher": "Moneywise",
+          "published": "2026-09-02T11:40:00Z"
+        },
+        {
+          "title": "Latest News In AI Chips - Revolutionizing Cooling: The Rise of Advanced Thermal Management",
+          "url": "https://finance.yahoo.com/technology/ai/articles/latest-news-ai-chips-revolutionizing-113727733.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-02T11:37:27Z"
+        },
+        {
+          "title": "Billionaire Philippe Laffont Increased Micron 19-Fold and Added 49% to Amazon. Is This One Giant AI Demand Bet?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-philippe-laffont-increased-micron-105607340.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-02T10:56:07Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -2.64,
+          "price": 933.44,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -2.64,
+        "price": 933.44,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 76742.56,
-      "change_pct": -0.85
+      "price": 76709.1,
+      "change_pct": -0.9
     },
     {
       "label": "Gold",
-      "price": 4372.9,
-      "change_pct": 0.57
+      "price": 4377.7,
+      "change_pct": 0.68
     },
     {
       "label": "Nasdaq100",

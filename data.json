@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-02T06:25:44+00:00",
-  "as_of_local": "2026-09-02 06:25:44 UTC",
+  "as_of_utc": "2026-09-02T06:30:58+00:00",
+  "as_of_local": "2026-09-02 06:30:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -117,40 +119,12 @@
       ]
     },
     {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 459.61,
-      "previous_close": 470.72,
-      "change_pct": -2.36,
-      "market_cap": 750301830140.4114,
-      "headlines": [
-        {
-          "title": "Credo Technology Group Q1 Earnings Call Highlights",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-group-q1-earnings-230226578.html",
-          "publisher": "MarketBeat",
-          "published": "2026-09-01T23:02:26Z"
-        },
-        {
-          "title": "Stock Market Today, Sept. 1: Intel Falls on Chip Stock Pressure",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-1-214356130.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-01T21:43:56Z"
-        },
-        {
-          "title": "Broadcom Boosts VMware AI Push to Challenge Nutanix & Microsoft",
-          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-boosts-vmware-ai-push-175900642.html",
-          "publisher": "Zacks",
-          "published": "2026-09-01T17:59:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 88.97,
       "previous_close": 89.51,
       "change_pct": -0.6,
-      "market_cap": 470304791612.9052,
+      "market_cap": 467495212659.7667,
       "headlines": [
         {
           "title": "Nvidia makes its biggest investment abroad with Mediatek: Why it's a uniquely important deal",
@@ -290,7 +264,7 @@
       "price": 111.68,
       "previous_close": 115.34,
       "change_pct": -3.17,
-      "market_cap": 15830551704.378426,
+      "market_cap": 15861940820.3042,
       "headlines": [
         {
           "title": "Forget the Biggest Chip Stocks \u2014 Analysts Say Buy These 2 Names",
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -4.55,
-          "price": 1616000.0,
+          "change_pct": -4.49,
+          "price": 1617000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -0.49,
-          "price": 50750.0,
+          "change_pct": -0.37,
+          "price": 50810.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -4.55,
-        "price": 1616000.0,
+        "change_pct": -4.49,
+        "price": 1617000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -0.49,
-        "price": 50750.0,
+        "change_pct": -0.37,
+        "price": 50810.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 77571.48,
-      "change_pct": -1.24
+      "price": 77477.85,
+      "change_pct": -1.36
     },
     {
       "label": "Gold",
-      "price": 4374.6,
-      "change_pct": 0.61
+      "price": 4370.4,
+      "change_pct": 0.52
     },
     {
       "label": "Nasdaq100",

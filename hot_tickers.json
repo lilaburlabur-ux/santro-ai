@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-02T11:24:32+00:00",
+  "as_of": "2026-09-02T11:39:42+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "MDB",
    "company": "MongoDB Inc",
-   "move_pct": -13.68,
-   "price": 374.82,
+   "move_pct": -12.3,
+   "price": 380.79,
    "volume": 3513700,
    "volume_vs_avg": "~2x",
-   "heat_score": 85,
+   "heat_score": 81,
    "direction": "down",
    "why": "Why MongoDB (MDB) Is Up 7.2% After Earnings Beat And Raised Atlas\u2011Driven AI Guidance",
    "catalyst_type": "earnings",
@@ -27,16 +27,16 @@
    "rank": 2,
    "ticker": "DELL",
    "company": "Dell Technologies Inc",
-   "move_pct": 7.61,
-   "price": 457.35,
+   "move_pct": 8.19,
+   "price": 459.79,
    "volume": 15362000,
    "volume_vs_avg": "~3x",
-   "heat_score": 55,
+   "heat_score": 67,
    "direction": "up",
    "why": "Dow Jones Futures Fall After Oil Prices Slam Market; Dell, Credo, Palo Alto Are Earnings Movers",
    "catalyst_type": "earnings",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-dell-credo-palo-alto-earnings-oil-prices-jump/?src=A00220&yptr=yahoo",
-   "published": "2026-09-02T11:02:46Z",
+   "published": "2026-09-02T11:20:59Z",
    "sector": "Chip Equipment & AI Hardware"
   }
  ]

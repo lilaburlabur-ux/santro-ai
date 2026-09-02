@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| Billionaire David Tepper Cut Micron 41% and Kept Buying This AI Chip Stock for a Sixth Quarter | Insider Monkey | 2026-09-02 |
+| Micron (MU) Exceeds Market Returns: Some Facts to Consider | Zacks | 2026-09-02 |
+| S&P 500 Q3 Earnings Preview: Earnings and Revenue Growth Expected to Surge | Zacks | 2026-09-02 |
 | Billionaire Philippe Laffont Just Bought Micron Stock in Q2: Is the Artificial Intelligence (AI) Memory Winner a Buy for 2026? | Motley Fool | 2026-09-02 |
-| AI Capital Spending Could Top $31 Trillion as Tech Expansion Accelerates | Barrons.com | 2026-09-02 |
-| Micron Rises as Taiwan Workers Demand 15% Profit Pool | GuruFocus.com | 2026-09-02 |
-| Is the Memory Supercycle Peak Near for Micron and SK Hynix? | Motley Fool | 2026-09-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Stanley Druckenmiller Increased Amazon More Than 10-Fold and Opened an AMD Position. What’s the Common Bet? | Insider Monkey | 2026-09-02 |
 | The Real Price of Marvell Stock's Growth | Trefis | 2026-09-02 |
 | Broadcom Beats Third-Quarter Estimates on Strong AI Chip Sales | MT Newswires | 2026-09-02 |
 | Top Stock Reports for AMD, Costco & AstraZeneca | Zacks | 2026-09-02 |
-| Jensen Huang Says the $3.5 Billion MediaTek Deal Is Not Circular. The Decade Long Roadmap Is the Real Tell. | 24/7 Wall St. | 2026-09-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

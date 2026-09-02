@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Billionaire David Tepper Cut Micron 41% and Kept Buying This AI Chip Stock for a Sixth Quarter | Insider Monkey | 2026-09-02 |
 | Apple's Foldable iPhone May Contribute $14 Billion to December Quarter Revenue, Morgan Stanley Says | MT Newswires | 2026-09-02 |
 | TSMC Rose Higher With a 67.7% Margin--and Taiwan's Trust Pitch | GuruFocus.com | 2026-09-02 |
 | How to Invest in China's AI Revolution | Zacks | 2026-09-02 |
-| Taiwan Semiconductor Manufacturing Company Limited (TSM): The Powerhouse of Advanced Semiconductor Manufacturing | Insider Monkey | 2026-09-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

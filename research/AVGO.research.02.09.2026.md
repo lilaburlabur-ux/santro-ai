@@ -39,7 +39,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Broadcom stock sinks as chipmaker results 'not enough to keep investors happy' | Yahoo Finance | 2026-09-02 |
 | What to watch: Broadcom, Snowflake earnings and ADP jobs data | Yahoo Finance Video | 2026-09-02 |
 | Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due | Investor's Business Daily | 2026-09-02 |
-| The Real Price of Marvell Stock's Growth | Trefis | 2026-09-02 |
+| Broadcom Inc. Q3 2026 Earnings: Live Updates of $AVGO Earnings Call, Forecast | TheStreet | 2026-09-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
+| NXP Semiconductors (NXPI) Laps the Stock Market: Here's Why | Zacks | 2026-09-02 |
 | NXP Semiconductors (NXPI) Stock Still Looks Cheap On Cash Flow While Earnings Lag | Simply Wall St. | 2026-08-29 |
 | Is NXP Semiconductors (NXPI) A Bargain After Its Q2 Beat And Dividend? | Simply Wall St. | 2026-08-29 |
 | Stock Market Today, Aug. 28: Marvell Slides 10% on Softer Fiscal 2028 Guidance and Google Deal Timing | Motley Fool | 2026-08-28 |
-| Analog Semiconductors Stocks Q2 Recap: Benchmarking NXP Semiconductors (NASDAQ:NXPI) | StockStory | 2026-08-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

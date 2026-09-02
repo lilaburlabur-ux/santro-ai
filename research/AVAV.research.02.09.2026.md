@@ -37,9 +37,9 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Headline | Source | Date |
 |---|---|---|
 | AVAV Stock In Focus As AeroVironment Wins $465M Army Laser Weapons Contract | Stocktwits | 2026-09-02 |
+| Dear AeroVironment Stock Fans, Mark Your Calendars for September 9 | Barchart | 2026-09-02 |
 | AeroVironment (AVAV) Reports Next Week: What You Should Expect | Zacks | 2026-09-02 |
 | AeroVironment (AVAV) Sees a More Significant Dip Than Broader Market: Some Facts to Know | Zacks | 2026-09-01 |
-| AeroVironment (AVAV) Forms AV Eagle Joint Venture In Greece | Simply Wall St. | 2026-08-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-02T13:21:30+00:00",
-  "as_of_local": "2026-09-02 13:21:30 UTC",
+  "as_of_utc": "2026-09-02T13:26:29+00:00",
+  "as_of_local": "2026-09-02 13:26:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-09-01T15:05:20Z"
         },
         {
-          "title": "Can Oracle Get Close to a $1 Trillion Market Cap Again?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-close-1-trillion-market-130500091.html",
+          "title": "If You Only Buy One Chip Stock This September, History Points to This One",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/only-buy-one-chip-stock-132100484.html",
           "publisher": "Motley Fool",
-          "published": "2026-09-02T13:05:00Z"
+          "published": "2026-09-02T13:21:00Z"
         }
       ]
     },
@@ -41,6 +43,12 @@
       "market_cap": 2147200241382.0,
       "headlines": [
         {
+          "title": "Could Apple\u2019s foldable iPhone be a $14B opportunity? Morgan Stanley weighs in",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-apple-foldable-iphone-14b-131500877.html",
+          "publisher": "Investing.com",
+          "published": "2026-09-02T13:15:00Z"
+        },
+        {
           "title": "The Firm That Filed a Bet Against Taiwan Semiconductor Then Launched a Foundry Fund Five Days Later",
           "url": "https://finance.yahoo.com/markets/options/articles/firm-filed-bet-against-taiwan-110905951.html",
           "publisher": "24/7 Wall St.",
@@ -51,12 +59,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-says-companies-plan-invest-042027847.html",
           "publisher": "Reuters",
           "published": "2026-09-02T04:20:27Z"
-        },
-        {
-          "title": "Billionaire David Tepper just dumped a red-hot AI stock",
-          "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-david-tepper-just-dumped-040300596.html",
-          "publisher": "TheStreet",
-          "published": "2026-09-02T04:03:00Z"
         }
       ]
     },
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-beat-raised-guidance-why-102009844.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-02T10:20:09Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 166.61,
-      "previous_close": 170.48,
-      "change_pct": -2.27,
-      "market_cap": 177949558390.9624,
-      "headlines": [
-        {
-          "title": "Stock Market Today, Sept. 1: Intel Falls on Chip Stock Pressure",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-1-214356130.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-01T21:43:56Z"
-        },
-        {
-          "title": "Can Qualcomm's Tie-Up With HUMAIN for AI PC Lift Its Shares?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomms-tie-humain-ai-pc-154500467.html",
-          "publisher": "Zacks",
-          "published": "2026-09-01T15:45:00Z"
-        },
-        {
-          "title": "NVDA Stock: Where Compounding Could Take The Price",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-where-compounding-could-002538999.html",
-          "publisher": "Trefis",
-          "published": "2026-09-01T00:25:38Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 76670.55,
-      "change_pct": -0.95
+      "price": 76719.59,
+      "change_pct": -0.88
     },
     {
       "label": "Gold",
-      "price": 4390.0,
-      "change_pct": 0.97
+      "price": 4384.6,
+      "change_pct": 0.84
     },
     {
       "label": "Nasdaq100",

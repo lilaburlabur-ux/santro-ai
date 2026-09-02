@@ -15,11 +15,11 @@ Signed file: `QCOM.research.02.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +9.30%; price +1.77% vs SMA200. |
+| Technical momentum | Moderate | 1Y +7.97%; price +1.75% vs SMA200. |
 | Fresh setup quality | Poor / broken | -32.04% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 21.01%, revenue growth -4.00%. |
 | Value attractiveness | Reasonable | Forward P/E 16.66, EV/Sales 4.13. |
-| Risk level | Elevated | Beta 1.66, ATR 3.7% of price, short float 3.48%. |
+| Risk level | Elevated | Beta 1.66, ATR 3.8% of price, short float 3.48%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -36,29 +36,29 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| Broadcom's Q3 earnings beat just isn't 'enough' to keep investors happy | Yahoo Finance Video | 2026-09-02 |
+| The Real Price of Marvell Stock's Growth | Trefis | 2026-09-02 |
 | Beyond The Cloud Giants: What Could Power NVIDIA Stock From Here? | Trefis | 2026-09-02 |
 | 2 Top Dividend Stocks to Buy in September | Motley Fool | 2026-09-02 |
-| Micron Stock Offers More Than A Market Ride | Trefis | 2026-09-02 |
-| Why Is Ichor Holdings (ICHR) Down 27.4% Since Last Earnings Report? | Zacks | 2026-09-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $169.96; 52w high $250.10 (-32.04%); 52w low $123.61 (+37.49%) |
-| Trend | +1.77% vs SMA200, -0.38% vs SMA50, +3.91% vs SMA20 |
-| Momentum | RSI(14) 54.6 (neutral) |
-| Volatility | ATR(14) 6.27 (~3.7% of price); beta 1.66 |
+| Trend | +1.75% vs SMA200, -0.85% vs SMA50, +4.12% vs SMA20 |
+| Momentum | RSI(14) 54.4 (neutral) |
+| Volatility | ATR(14) 6.42 (~3.8% of price); beta 1.66 |
 | Setup perspective | -32.04% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +3.8% |
-| Month | +4.5% |
-| Quarter | -31.8% |
-| Half Y | +23.1% |
-| 1Y | +9.3% |
+| Week | +5.9% |
+| Month | +12.1% |
+| Quarter | -29.2% |
+| Half Y | +24.3% |
+| 1Y | +8.0% |
 | YTD | -0.7% |
 
 ## 4. Fundamental Analysis
@@ -95,7 +95,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | NORGES BANK | 16,209,022 | 1.54% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.66, ATR 3.7% of price, short float 3.48%. Size positions accordingly.
+- **Volatility risk:** Beta 1.66, ATR 3.8% of price, short float 3.48%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -114,11 +114,11 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Price | $169.96 | EV/Sales | 4.13 |
 | Market cap | $181.53B | EV/EBITDA | 15.16 |
 | Beta | 1.66 | Gross margin | 54.23% |
-| RSI(14) | 54.6 | Operating margin | 18.53% |
-| ATR(14) | 6.27 | Profit margin | 21.01% |
-| SMA20 dist | +3.91% | ROA | 11.61% |
-| SMA50 dist | -0.38% | ROE | 33.75% |
-| SMA200 dist | +1.77% | Revenue (ttm) | $44.07B |
+| RSI(14) | 54.4 | Operating margin | 18.53% |
+| ATR(14) | 6.42 | Profit margin | 21.01% |
+| SMA20 dist | +4.12% | ROA | 11.61% |
+| SMA50 dist | -0.85% | ROE | 33.75% |
+| SMA200 dist | +1.75% | Revenue (ttm) | $44.07B |
 | 52W high | $250.10 | Revenue growth y/y | -4.00% |
 | 52W low | $123.61 | Inst. ownership | 83.34% |
 | P/E (ttm) | 19.42 | Insider ownership | 0.12% |

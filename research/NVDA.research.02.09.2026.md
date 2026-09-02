@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| AI has become a 'non-negotiable', Sam Altman says at G20 summit | Yahoo Finance Video | 2026-09-02 |
-| Why Is Palantir Stock Down Today? | Motley Fool | 2026-09-02 |
-| Eli Lilly Just Announced a Major Acquisition. Here's What It Means. | Motley Fool | 2026-09-02 |
-| Is Rivian (RIVN) a Millionaire Maker Stock? | Motley Fool | 2026-09-02 |
+| Broadcom's Q3 earnings beat just isn't 'enough' to keep investors happy | Yahoo Finance Video | 2026-09-02 |
+| Nvidia didn't like Wall Street's estimates. So it tried to reset them. | Yahoo Finance | 2026-09-02 |
+| Billionaire Philippe Laffont Just Bought Micron Stock in Q2: Is the Artificial Intelligence (AI) Memory Winner a Buy for 2026? | Motley Fool | 2026-09-02 |
+| Sprinklr, Inc. Q2 2027 Earnings Call Summary | Moby | 2026-09-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

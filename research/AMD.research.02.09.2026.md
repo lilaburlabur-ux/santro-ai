@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| The Real Price of Marvell Stock's Growth | Trefis | 2026-09-02 |
+| Broadcom Beats Third-Quarter Estimates on Strong AI Chip Sales | MT Newswires | 2026-09-02 |
+| Top Stock Reports for AMD, Costco & AstraZeneca | Zacks | 2026-09-02 |
 | Jensen Huang Says the $3.5 Billion MediaTek Deal Is Not Circular. The Decade Long Roadmap Is the Real Tell. | 24/7 Wall St. | 2026-09-02 |
-| Advanced Micro Devices (AMD) Dropped, So What Is Driving Attention Now? | Simply Wall St. | 2026-09-02 |
-| Can AMD's Saudi AI Buildout Challenge NVIDIA and Broadcom? | Zacks | 2026-09-02 |
-| Prediction: AMD Will Join the $2 Trillion Club in 2030 Amid Historic Growth in This Market | Motley Fool | 2026-09-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

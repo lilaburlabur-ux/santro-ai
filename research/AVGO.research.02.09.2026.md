@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Broadcom stock sinks as chipmaker results 'not enough to keep investors happy' | Yahoo Finance | 2026-09-02 |
 | What to watch: Broadcom, Snowflake earnings and ADP jobs data | Yahoo Finance Video | 2026-09-02 |
-| Wall St ends higher as stocks reclaim some shine | Reuters | 2026-09-02 |
-| Jensen Huang Says the $3.5 Billion MediaTek Deal Is Not Circular. The Decade Long Roadmap Is the Real Tell. | 24/7 Wall St. | 2026-09-02 |
-| Can AMD's Saudi AI Buildout Challenge NVIDIA and Broadcom? | Zacks | 2026-09-02 |
+| Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due | Investor's Business Daily | 2026-09-02 |
+| The Real Price of Marvell Stock's Growth | Trefis | 2026-09-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

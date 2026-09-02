@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
-| Beyond The Cloud Giants: What Could Power NVIDIA Stock From Here? | Trefis | 2026-09-02 |
-| Credo Technology Reports Q1 Results: Should Investors Hold or Fold? | Zacks | 2026-09-02 |
-| Bloom Energy and 7 More Stocks That Could Join the S&P 500 This Month | Barrons.com | 2026-09-02 |
-| Micron Stock Soars 685% in a Year: Is the Momentum Still Sustainable? | Zacks | 2026-09-02 |
+| The Real Price of Marvell Stock's Growth | Trefis | 2026-09-02 |
+| Broadcom Q3 FY2026 earnings: Record revenue on AI chip demand | Quartz | 2026-09-02 |
+| Broadcom Beats Third-Quarter Estimates on Strong AI Chip Sales | MT Newswires | 2026-09-02 |
+| Adobe Poised for Solid Third Quarter as ARR Seen Topping Views, RBC Says | MT Newswires | 2026-09-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $9.45B | Revenue growth 36.50% y/y |
 | Profitability | Gross 52.22%, operating 16.68%, net 27.93% | ROA 4.12%, ROE 16.52% |
 | Balance sheet | Cash $3.93B, debt $5.29B | Current ratio 3.17, debt/equity 28.52 |
-| Valuation | P/E 68.15, forward P/E 30.75, P/S 19.64, P/B 9.77 | EV/Sales 19.66, EV/EBITDA 65.20 |
+| Valuation | P/E 68.15, forward P/E 30.75, P/S 19.64, P/B 9.93 | EV/Sales 19.66, EV/EBITDA 65.20 |
 | Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $284.80 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -126,7 +126,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Forward P/E | 30.75 | Short float | 3.79% |
 | PEG (trailing) | 1.12 | Avg volume | 38,671,793 |
 | P/S | 19.64 | Employees | 7,480 |
-| P/B | 9.77 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 9.93 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

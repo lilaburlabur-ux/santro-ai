@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-02T00:08:56+00:00",
+  "as_of": "2026-09-02T00:22:56+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,10 +17,10 @@
    "volume_vs_avg": "~3x",
    "heat_score": 52,
    "direction": "down",
-   "why": "Dow Jones Futures: Market Breaks Key Levels As Oil Prices Jump; Dell, Credo, Palo Alto Are Earnings Movers",
+   "why": "Dell Technologies Q2 Earnings Call Highlights",
    "catalyst_type": "earnings",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-dell-credo-palo-alto-earnings-oil-prices-jump/?src=A00220&yptr=yahoo",
-   "published": "2026-09-01T23:23:53Z",
+   "source_url": "https://finance.yahoo.com/technology/articles/dell-technologies-q2-earnings-call-000245795.html",
+   "published": "2026-09-02T00:02:45Z",
    "sector": "Chip Equipment & AI Hardware"
   },
   {
@@ -65,10 +65,10 @@
    "volume_vs_avg": "~2x",
    "heat_score": 41,
    "direction": "down",
-   "why": "Dow Jones Futures: Market Breaks Key Levels As Oil Prices Jump; Dell, Credo, Palo Alto Are Earnings Movers",
+   "why": "Palo Alto Networks Q4 Earnings Call Highlights",
    "catalyst_type": "earnings",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-dell-credo-palo-alto-earnings-oil-prices-jump/?src=A00220&yptr=yahoo",
-   "published": "2026-09-01T23:23:53Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-q4-earnings-000245297.html",
+   "published": "2026-09-02T00:02:45Z",
    "sector": "AI Software & Cloud Infrastructure"
   },
   {

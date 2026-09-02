@@ -37,9 +37,9 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Headline | Source | Date |
 |---|---|---|
 | The Real Price of Marvell Stock's Growth | Trefis | 2026-09-02 |
+| Broadcom’s Outlook Weighs on Stock Even as AI Business Booms | Barrons.com | 2026-09-02 |
 | Broadcom Q3 FY2026 earnings: Record revenue on AI chip demand | Quartz | 2026-09-02 |
 | Broadcom Beats Third-Quarter Estimates on Strong AI Chip Sales | MT Newswires | 2026-09-02 |
-| Adobe Poised for Solid Third Quarter as ARR Seen Topping Views, RBC Says | MT Newswires | 2026-09-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

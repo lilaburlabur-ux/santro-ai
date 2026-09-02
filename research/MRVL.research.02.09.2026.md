@@ -36,9 +36,9 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
-| Broadcom shares fall 3% after revenue forecast misses estimates | Investing.com | 2026-09-02 |
+| Broadcom’s Outlook Shows Surging AI Chip Sales | Barrons.com | 2026-09-02 |
+| Broadcom pares losses as revenue is projected to double in both 2027 and 2028 | Investing.com | 2026-09-02 |
 | The Real Price of Marvell Stock's Growth | Trefis | 2026-09-02 |
-| Broadcom’s Outlook Weighs on Stock Even as AI Business Booms | Barrons.com | 2026-09-02 |
 | Broadcom Q3 FY2026 earnings: Record revenue on AI chip demand | Quartz | 2026-09-02 |
 
 ## 3. Technical Analysis

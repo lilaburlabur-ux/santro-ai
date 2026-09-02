@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Broadcom's Q3 earnings beat just isn't 'enough' to keep investors happy | Yahoo Finance Video | 2026-09-02 |
 | Nvidia didn't like Wall Street's estimates. So it tried to reset them. | Yahoo Finance | 2026-09-02 |
-| Nscale doubles contracted revenue to $103 billion after Anthropic win - report | Investing.com | 2026-09-02 |
-| Wall Street Just Put a $280 Target on SpaceX's AI Bet | GuruFocus.com | 2026-09-02 |
+| Why Hycroft Mining Stock Zoomed More Than 7% Higher Today | Motley Fool | 2026-09-02 |
+| Broadcom Q3 Earnings Call Highlights | MarketBeat | 2026-09-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

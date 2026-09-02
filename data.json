@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-02T05:07:19+00:00",
-  "as_of_local": "2026-09-02 05:07:19 UTC",
+  "as_of_utc": "2026-09-02T05:11:51+00:00",
+  "as_of_local": "2026-09-02 05:11:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 1758782212751.082,
       "headlines": [
         {
+          "title": "Broadcom Looks for a Reset with Third-Quarter Earnings",
+          "url": "https://www.barrons.com/articles/broadcom-earnings-stock-ai-chips-13672771?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-02T05:00:00Z"
+        },
+        {
           "title": "Billionaire David Tepper just dumped a red-hot AI stock",
           "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-david-tepper-just-dumped-040300596.html",
           "publisher": "TheStreet",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-reports-wednesday-profit-growing-032601156.html",
           "publisher": "Motley Fool",
           "published": "2026-09-02T03:26:01Z"
-        },
-        {
-          "title": "Review & Preview: September Blues",
-          "url": "https://www.barrons.com/articles/stockstoday-indexes-fall-bond-worries-iran-war-43922ed9?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-01T23:55:00Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -4.43,
-          "price": 1618000.0,
+          "change_pct": -4.67,
+          "price": 1614000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -4.02,
-          "price": 250500.0,
+          "change_pct": -4.21,
+          "price": 250000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 0.22,
-          "price": 51110.0,
+          "change_pct": 0.1,
+          "price": 51050.0,
           "currency": "JPY"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 1.42,
-          "price": 178.5,
+          "change_pct": 1.99,
+          "price": 179.5,
           "currency": "TWD"
         }
       ]
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -4.43,
-        "price": 1618000.0,
+        "change_pct": -4.67,
+        "price": 1614000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -4.02,
-        "price": 250500.0,
+        "change_pct": -4.21,
+        "price": 250000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 0.22,
-        "price": 51110.0,
+        "change_pct": 0.1,
+        "price": 51050.0,
         "currency": "JPY"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 1.42,
-        "price": 178.5,
+        "change_pct": 1.99,
+        "price": 179.5,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 77396.71,
-      "change_pct": -1.47
+      "price": 77486.89,
+      "change_pct": -1.35
     },
     {
       "label": "Gold",
-      "price": 4353.2,
-      "change_pct": 0.12
+      "price": 4352.6,
+      "change_pct": 0.11
     },
     {
       "label": "Nasdaq100",

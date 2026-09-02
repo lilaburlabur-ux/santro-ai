@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-02T20:02:51+00:00",
-  "as_of_local": "2026-09-02 20:02:51 UTC",
+  "as_of_utc": "2026-09-02T20:07:58+00:00",
+  "as_of_local": "2026-09-02 20:07:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -75,44 +77,16 @@
           "published": "2026-09-02T12:00:00Z"
         },
         {
+          "title": "Wall St ends higher as stocks reclaim some shine",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-index-futures-subdued-085810751.html",
+          "publisher": "Reuters",
+          "published": "2026-09-02T20:00:49Z"
+        },
+        {
           "title": "Jensen Huang Says the $3.5 Billion MediaTek Deal Is Not Circular. The Decade Long Roadmap Is the Real Tell.",
           "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-says-3-5-192050412.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-02T19:20:50Z"
-        },
-        {
-          "title": "Can AMD's Saudi AI Buildout Challenge NVIDIA and Broadcom?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/amds-saudi-ai-buildout-challenge-184700108.html",
-          "publisher": "Zacks",
-          "published": "2026-09-02T18:47:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 956.08,
-      "previous_close": 933.44,
-      "change_pct": 2.43,
-      "market_cap": 1079790223109.2324,
-      "headlines": [
-        {
-          "title": "AI Capital Spending Could Top $31 Trillion as Tech Expansion Accelerates",
-          "url": "https://www.barrons.com/articles/pwc-31-trillion-ai-spending-forecast-2050-1c9cfa96?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-02T17:02:00Z"
-        },
-        {
-          "title": "Micron Rises as Taiwan Workers Demand 15% Profit Pool",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-rises-taiwan-workers-demand-164555504.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-09-02T16:45:55Z"
-        },
-        {
-          "title": "Is the Memory Supercycle Peak Near for Micron and SK Hynix?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/memory-supercycle-peak-near-micron-162000268.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-02T16:20:00Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 2.43,
-          "price": 956.08,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 2.43,
-        "price": 956.08,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -580,18 +554,18 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7666.67,
+      "price": 7666.6,
       "change_pct": 0.46
     },
     {
       "label": "BTC",
-      "price": 77375.1,
-      "change_pct": -0.04
+      "price": 77440.52,
+      "change_pct": 0.05
     },
     {
       "label": "Gold",
-      "price": 4435.6,
-      "change_pct": 2.01
+      "price": 4433.7,
+      "change_pct": 1.97
     },
     {
       "label": "Nasdaq100",

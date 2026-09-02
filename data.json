@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-02T21:46:03+00:00",
-  "as_of_local": "2026-09-02 21:46:03 UTC",
+  "as_of_utc": "2026-09-02T21:51:10+00:00",
+  "as_of_local": "2026-09-02 21:51:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -28,7 +30,7 @@
           "title": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-snowflake-broadcom-hpe-earnings-tesla-cybercab-event/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-09-02T21:31:46Z"
+          "published": "2026-09-02T21:40:40Z"
         }
       ]
     },
@@ -84,7 +86,7 @@
           "title": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-snowflake-broadcom-hpe-earnings-tesla-cybercab-event/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-09-02T21:31:46Z"
+          "published": "2026-09-02T21:40:40Z"
         }
       ]
     },
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-q3-fy2026-earnings-record-204617208.html",
           "publisher": "Quartz",
           "published": "2026-09-02T20:46:17Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 169.96,
-      "previous_close": 166.61,
-      "change_pct": 2.01,
-      "market_cap": 181527567541.33624,
-      "headlines": [
-        {
-          "title": "Broadcom's Q3 earnings beat just isn't 'enough' to keep investors happy",
-          "url": "https://finance.yahoo.com/video/broadcoms-q3-earnings-beat-just-204909744.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-09-02T20:49:09Z"
-        },
-        {
-          "title": "The Real Price of Marvell Stock's Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/real-price-marvell-stocks-growth-210333774.html",
-          "publisher": "Trefis",
-          "published": "2026-09-02T21:03:33Z"
-        },
-        {
-          "title": "Beyond The Cloud Giants: What Could Power NVIDIA Stock From Here?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/beyond-cloud-giants-could-power-162447468.html",
-          "publisher": "Trefis",
-          "published": "2026-09-02T16:24:47Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 77337.6,
-      "change_pct": -0.09
+      "price": 77280.45,
+      "change_pct": -0.16
     },
     {
       "label": "Gold",

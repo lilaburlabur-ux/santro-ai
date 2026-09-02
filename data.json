@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-02T20:07:58+00:00",
-  "as_of_local": "2026-09-02 20:07:58 UTC",
+  "as_of_utc": "2026-09-02T20:13:02+00:00",
+  "as_of_local": "2026-09-02 20:13:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -91,6 +89,34 @@
       ]
     },
     {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 956.08,
+      "previous_close": 933.44,
+      "change_pct": 2.43,
+      "market_cap": 1079790223109.2324,
+      "headlines": [
+        {
+          "title": "AI Capital Spending Could Top $31 Trillion as Tech Expansion Accelerates",
+          "url": "https://www.barrons.com/articles/pwc-31-trillion-ai-spending-forecast-2050-1c9cfa96?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-02T17:02:00Z"
+        },
+        {
+          "title": "Micron Rises as Taiwan Workers Demand 15% Profit Pool",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-rises-taiwan-workers-demand-164555504.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-02T16:45:55Z"
+        },
+        {
+          "title": "Is the Memory Supercycle Peak Near for Micron and SK Hynix?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/memory-supercycle-peak-near-micron-162000268.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-02T16:20:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 457.06,
@@ -124,7 +150,7 @@
       "price": 90.05,
       "previous_close": 88.97,
       "change_pct": 1.21,
-      "market_cap": 473170110701.29175,
+      "market_cap": 476013794975.01306,
       "headlines": [
         {
           "title": "Here's the biggest thing keeping AI stock investors up at night",
@@ -264,7 +290,7 @@
       "price": 113.88,
       "previous_close": 111.68,
       "change_pct": 1.97,
-      "market_cap": 16174406985.262207,
+      "market_cap": 16142399531.59417,
       "headlines": [
         {
           "title": "Lattice Semiconductor SVP Elashmawi Sells 16,773 Shares for $2.3 Million",
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 2.43,
+          "price": 956.08,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 2.43,
+        "price": 956.08,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 77440.52,
-      "change_pct": 0.05
+      "price": 77348.3,
+      "change_pct": -0.07
     },
     {
       "label": "Gold",
-      "price": 4433.7,
-      "change_pct": 1.97
+      "price": 4435.6,
+      "change_pct": 2.01
     },
     {
       "label": "Nasdaq100",

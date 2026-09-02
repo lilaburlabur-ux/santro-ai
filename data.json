@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-02T07:21:20+00:00",
-  "as_of_local": "2026-09-02 07:21:20 UTC",
+  "as_of_utc": "2026-09-02T07:36:43+00:00",
+  "as_of_local": "2026-09-02 07:36:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -89,34 +91,6 @@
       ]
     },
     {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 933.44,
-      "previous_close": 958.73,
-      "change_pct": -2.64,
-      "market_cap": 1054220745626.7476,
-      "headlines": [
-        {
-          "title": "Billionaire David Tepper just dumped a red-hot AI stock",
-          "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-david-tepper-just-dumped-040300596.html",
-          "publisher": "TheStreet",
-          "published": "2026-09-02T04:03:00Z"
-        },
-        {
-          "title": "The 3 Best Artificial Intelligence (AI) Stocks for September",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-best-artificial-intelligence-ai-012700498.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-02T01:27:00Z"
-        },
-        {
-          "title": "Stock Market Today: Nasdaq Ends Lower As Oil Prices Top $90; Micron, Nvidia Shares Wrapped in Red",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-micron-stock/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-01T20:46:52Z"
-        }
-      ]
-    },
-    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 459.61,
@@ -150,7 +124,7 @@
       "price": 88.97,
       "previous_close": 89.51,
       "change_pct": -0.6,
-      "market_cap": 467495212659.7667,
+      "market_cap": 470304791612.9052,
       "headlines": [
         {
           "title": "Nvidia makes its biggest investment abroad with Mediatek: Why it's a uniquely important deal",
@@ -290,7 +264,7 @@
       "price": 111.68,
       "previous_close": 115.34,
       "change_pct": -3.17,
-      "market_cap": 15861940820.3042,
+      "market_cap": 15830551704.378426,
       "headlines": [
         {
           "title": "Forget the Biggest Chip Stocks \u2014 Analysts Say Buy These 2 Names",
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -2.64,
-          "price": 933.44,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -2.64,
-        "price": 933.44,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 77615.96,
-      "change_pct": 0.27
+      "price": 77533.15,
+      "change_pct": 0.17
     },
     {
       "label": "Gold",
-      "price": 4376.1,
-      "change_pct": 0.65
+      "price": 4373.2,
+      "change_pct": 0.58
     },
     {
       "label": "Nasdaq100",

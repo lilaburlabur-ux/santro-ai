@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-02T06:30:58+00:00",
-  "as_of_local": "2026-09-02 06:30:58 UTC",
+  "as_of_utc": "2026-09-02T06:46:02+00:00",
+  "as_of_local": "2026-09-02 06:46:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -115,6 +113,34 @@
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-micron-stock/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-09-01T20:46:52Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 459.61,
+      "previous_close": 470.72,
+      "change_pct": -2.36,
+      "market_cap": 750301830140.4114,
+      "headlines": [
+        {
+          "title": "Credo Technology Group Q1 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-group-q1-earnings-230226578.html",
+          "publisher": "MarketBeat",
+          "published": "2026-09-01T23:02:26Z"
+        },
+        {
+          "title": "Stock Market Today, Sept. 1: Intel Falls on Chip Stock Pressure",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-1-214356130.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-01T21:43:56Z"
+        },
+        {
+          "title": "Broadcom Boosts VMware AI Push to Challenge Nutanix & Microsoft",
+          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-boosts-vmware-ai-push-175900642.html",
+          "publisher": "Zacks",
+          "published": "2026-09-01T17:59:00Z"
         }
       ]
     },
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -4.49,
-          "price": 1617000.0,
+          "change_pct": -4.67,
+          "price": 1614000.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -0.37,
-          "price": 50810.0,
+          "change_pct": 0.0,
+          "price": 51000.0,
           "currency": "JPY"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -4.49,
-        "price": 1617000.0,
+        "change_pct": -4.67,
+        "price": 1614000.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -0.37,
-        "price": 50810.0,
+        "change_pct": 0.0,
+        "price": 51000.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 77477.85,
-      "change_pct": -1.36
+      "price": 77571.16,
+      "change_pct": -1.24
     },
     {
       "label": "Gold",
-      "price": 4370.4,
-      "change_pct": 0.52
+      "price": 4365.8,
+      "change_pct": 0.41
     },
     {
       "label": "Nasdaq100",

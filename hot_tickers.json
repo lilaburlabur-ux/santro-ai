@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-02T12:45:54+00:00",
+  "as_of": "2026-09-02T12:51:11+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "MDB",
    "company": "MongoDB Inc",
-   "move_pct": -12.11,
-   "price": 381.64,
+   "move_pct": -12.14,
+   "price": 381.5,
    "volume": 3513700,
    "volume_vs_avg": "~2x",
    "heat_score": 80,
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "DELL",
    "company": "Dell Technologies Inc",
-   "move_pct": 9.06,
-   "price": 463.5,
+   "move_pct": 9.18,
+   "price": 464.0,
    "volume": 15362000,
    "volume_vs_avg": "~3x",
    "heat_score": 71,

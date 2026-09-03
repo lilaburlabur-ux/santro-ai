@@ -38,8 +38,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 |---|---|---|
 | Tech stocks today: Nvidia to acquire Hugging Face for $13 billion in strategic move | Yahoo Finance | 2026-08-31 |
 | Stocks edge up as Nvidia leads tech higher following Hugging Face deal announcement: AlphaCheck | Yahoo Finance | 2026-09-03 |
+| Cathie Wood Sold About $72.8 Million of AMD and Bought About $53 Million of Nvidia. What Changed? | Insider Monkey | 2026-09-03 |
 | Sector Update: Tech Stocks Rise Late Afternoon | MT Newswires | 2026-09-03 |
-| Stock Market Today: Dow Pops On Fed Official's Dovish Rates View; Nvidia Hovers In Buy Zone (Live Coverage) | Investor's Business Daily | 2026-09-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

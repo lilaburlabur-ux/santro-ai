@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| AI demand is 'exceptional,' but the supply chain is not: HPE CEO | Yahoo Finance Video | 2026-09-03 |
-| Nvidia's Hugging Face deal is 'less' about profit & 'more' about building out the AI ecosystem | Yahoo Finance Video | 2026-09-03 |
-| Stocks edge up as Nvidia leads tech higher following Hugging Face deal announcement: AlphaCheck | Yahoo Finance | 2026-09-03 |
-| Is Your 401(k) Balance Higher or Lower Than the Average 40-Year-Old's? Here's How to Find Out. | Motley Fool | 2026-09-03 |
+| Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face | Yahoo Finance | 2026-09-03 |
+| Broadcom's 2028 AI revenue outlook is what's really 'important' | Yahoo Finance Video | 2026-09-03 |
+| Are investors underappreciating Broadcom's strong performance? | Yahoo Finance Video | 2026-09-03 |
+| Broadcom's Q3 earnings beat just isn't 'enough' to keep investors happy | Yahoo Finance Video | 2026-09-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

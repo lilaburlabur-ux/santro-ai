@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Cathie Wood Sold About $72.8 Million of AMD and Bought About $53 Million of Nvidia. What Changed? | Insider Monkey | 2026-09-03 |
 | Could a $10,000 Investment in AMD Double by the End of 2028? | Motley Fool | 2026-09-03 |
 | Nvidia Is Paying $14 Billion for a Company That Gives Its Best Work Away for Free | 24/7 Wall St. | 2026-09-03 |
 | Broadcom Guide to Double Fiscal 2027 AI Revenue is Conservative, Truist Says | MT Newswires | 2026-09-03 |
-| This One Metric Is Why I’m Going to Keep Buying Nvidia Hand-Over-Fist | 24/7 Wall St. | 2026-09-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

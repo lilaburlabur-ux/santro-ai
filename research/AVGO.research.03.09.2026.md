@@ -18,7 +18,7 @@ Signed file: `AVGO.research.03.09.2026`
 | Technical momentum | Moderate | 1Y +18.98%; price -3.19% vs SMA200. |
 | Fresh setup quality | Poor / broken | -25.72% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 38.85%, revenue growth 47.90%. |
-| Value attractiveness | Reasonable | Forward P/E 18.48, EV/Sales 23.75. |
+| Value attractiveness | Reasonable | Forward P/E 18.49, EV/Sales 23.75. |
 | Risk level | Elevated | Beta 1.47, ATR 3.8% of price, short float 1.20%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -38,8 +38,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 |---|---|---|
 | Nvidia's Jensen Huang is 'playing both sides' of AI with Hugging Face purchase | Yahoo Finance Video | 2026-09-03 |
 | Stocks edge up as Nvidia leads tech higher following Hugging Face deal announcement: AlphaCheck | Yahoo Finance | 2026-09-03 |
+| Nvidia Is Now Paying to Train Plumbers, and the Stock That Should Benefit Most Just Hit a 52-Week Low | 24/7 Wall St. | 2026-09-03 |
 | AI Infrastructure Demand Remains Red-Hot: HPE, AVGO, DELL Deliver | Zacks | 2026-09-03 |
-| Broadcom Shares Fall 5.6% Even as Revenue Surges 86% | GuruFocus.com | 2026-09-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $75.46B | Revenue growth 47.90% y/y |
 | Profitability | Gross 76.28%, operating 48.99%, net 38.85% | ROA 12.12%, ROE 37.28% |
 | Balance sheet | Cash $19.63B, debt $64.91B | Current ratio 2.24, debt/equity 74.02 |
-| Valuation | P/E 45.67, forward P/E 18.48, P/S 22.52, P/B 20.83 | EV/Sales 23.75, EV/EBITDA 42.59 |
+| Valuation | P/E 45.67, forward P/E 18.49, P/S 22.52, P/B 20.83 | EV/Sales 23.75, EV/EBITDA 42.59 |
 | Growth expectations | Earnings growth 85.40%, EPS q/q 87.50% | Analyst mean target $525.97 (46 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -122,7 +122,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | 52W high | $480.81 | Revenue growth y/y | 47.90% |
 | 52W low | $292.95 | Inst. ownership | 80.15% |
 | P/E (ttm) | 45.67 | Insider ownership | 1.95% |
-| Forward P/E | 18.48 | Short float | 1.20% |
+| Forward P/E | 18.49 | Short float | 1.20% |
 | PEG (trailing) | 0.42 | Avg volume | 25,175,379 |
 | P/S | 22.52 | Employees | 33,000 |
 | P/B | 20.83 | Analyst rec (1=buy..5=sell) | 1.3 |

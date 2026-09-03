@@ -839,7 +839,8 @@ function render(){
     tooltip:{textStyle:{fontSize:12},formatter:p=>{
       if(p.data.group){const g=p.data.group; const c=g.avg_change_pct>=0?"#22c55e":"#f05a6e";
         return `<b>${g.label}</b><br/>${g.count} names · ${fmtCap(g.total_market_cap_b*1e9)} combined<br/>`
-             + `<span style="color:${c}">${fmtPct(g.avg_change_pct)} avg of members today</span><br/>`
+             + `<span style="color:${c}">${fmtPct(g.avg_change_pct)} cap-weighted move today</span><br/>`
+             + (g.pe_harmonic?`<span style="opacity:.85">Sector P/E ~${g.pe_harmonic}× (harmonic${g.pe_excluded?`, excl. ${g.pe_excluded} loss-makers`:""})</span><br/>`:"")
              + `<span style="opacity:.7">click to drill into members ↓</span>`;}
       if(p.data.uniTicker){const t=p.data.uniTicker; const c=t.change_pct>=0?"#22c55e":"#f05a6e";
         return `<b>${t.ticker}</b> · ${t.company}<br/>`

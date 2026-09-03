@@ -103,9 +103,12 @@ for f in sorted(glob.glob("stocks/themes/*.html")):
         s = re.sub(re.escape(TBL_S) + r".*?" + re.escape(TBL_E), lambda m: table_block(b), s, flags=re.S)
     else:
         s = re.sub(r'<table class="tt">.*?</table>', lambda m: table_block(b), s, count=1, flags=re.S)
-    # 3) subtitle recomputed from the dataset
+    # 3) subtitle recomputed from the dataset (sector P/E = cap-weighted
+    #    harmonic mean over positive-earnings members, from the updaters)
+    peh = b.get("pe_harmonic")
+    pe_bit = f' · sector P/E ~{peh}×' if peh else ""
     sub = (f'<p class="sub">{len(b["tickers"])} names · combined market cap '
-           f'{fcap(b.get("total_market_cap_b"))} · part of the Santro AI {TOTAL}-name universe</p>')
+           f'{fcap(b.get("total_market_cap_b"))}{pe_bit} · part of the Santro AI {TOTAL}-name universe</p>')
     s = re.sub(r'<p class="sub">.*?</p>', lambda m: sub, s, count=1, flags=re.S)
     if s != orig:
         open(f, "w", encoding="utf-8").write(s); changed += 1

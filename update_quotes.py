@@ -180,10 +180,24 @@ def main():
                     members = list(dedup.values())
                     b["tickers"] = members
                 b["count"] = len(members)   # self-heal: merge races have corrupted counts
-                b["avg_change_pct"] = round(
-                    sum(t.get("change_pct") or 0 for t in members) / len(members), 2)
-                b["total_market_cap_b"] = round(
-                    sum(t.get("market_cap_b") or 0 for t in members), 2)
+                # cap-weighted sector move (index convention: big names move the
+                # sector); falls back to equal-weight if caps are missing
+                cap_sum = sum(t.get("market_cap_b") or 0 for t in members)
+                if cap_sum > 0:
+                    b["avg_change_pct"] = round(sum(
+                        (t.get("change_pct") or 0) * (t.get("market_cap_b") or 0)
+                        for t in members) / cap_sum, 2)
+                else:
+                    b["avg_change_pct"] = round(
+                        sum(t.get("change_pct") or 0 for t in members) / len(members), 2)
+                b["total_market_cap_b"] = round(cap_sum, 2)
+                # sector P/E — cap-weighted HARMONIC mean over positive-earnings
+                # members (= sector cap / sector earnings; a plain average of
+                # P/Es would overweight expensive names). Loss-makers excluded.
+                earners = [t for t in members if (t.get("pe") or 0) > 0 and (t.get("market_cap_b") or 0) > 0]
+                w = sum(t["market_cap_b"] for t in earners)
+                b["pe_harmonic"] = round(w / sum(t["market_cap_b"] / t["pe"] for t in earners), 1) if earners else None
+                b["pe_excluded"] = len(members) - len(earners)
         universe.setdefault("meta", {})["as_of"] = stamp
         universe["meta"]["total_tickers"] = sum(
             len(b.get("tickers", [])) for b in universe.get("bubbles", []))

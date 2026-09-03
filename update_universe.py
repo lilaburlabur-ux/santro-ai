@@ -158,10 +158,23 @@ def main():
         if len(dedup) != len(b["tickers"]):
             b["tickers"] = list(dedup.values())
         b["count"] = len(b["tickers"])   # self-heal: merge races have corrupted counts
-        b["total_market_cap_b"] = round(sum(t.get("market_cap_b") or 0 for t in b["tickers"]), 1)
-        b["avg_change_pct"] = round(sum(t.get("change_pct") or 0 for t in b["tickers"]) / len(b["tickers"]), 2)
+        cap_sum = sum(t.get("market_cap_b") or 0 for t in b["tickers"])
+        b["total_market_cap_b"] = round(cap_sum, 1)
+        # cap-weighted sector move (index convention); equal-weight fallback
+        if cap_sum > 0:
+            b["avg_change_pct"] = round(sum(
+                (t.get("change_pct") or 0) * (t.get("market_cap_b") or 0)
+                for t in b["tickers"]) / cap_sum, 2)
+        else:
+            b["avg_change_pct"] = round(sum(t.get("change_pct") or 0 for t in b["tickers"]) / len(b["tickers"]), 2)
+        # sector P/E — cap-weighted HARMONIC mean over positive-earnings members
+        # (= sector cap / sector earnings). Loss-makers excluded, count kept.
+        earners = [t for t in b["tickers"] if (t.get("pe") or 0) > 0 and (t.get("market_cap_b") or 0) > 0]
+        w = sum(t["market_cap_b"] for t in earners)
+        b["pe_harmonic"] = round(w / sum(t["market_cap_b"] / t["pe"] for t in earners), 1) if earners else None
+        b["pe_excluded"] = len(b["tickers"]) - len(earners)
         b["tickers"].sort(key=lambda t: t.get("market_cap_b") or 0, reverse=True)
-        print(f"  bubble {b['id']}: cap ${b['total_market_cap_b']}B, avg {b['avg_change_pct']:+.2f}%")
+        print(f"  bubble {b['id']}: cap ${b['total_market_cap_b']}B, cap-wt {b['avg_change_pct']:+.2f}%, P/E(h) {b['pe_harmonic']}")
 
     d["meta"]["total_tickers"] = sum(len(b["tickers"]) for b in d["bubbles"])
     d["meta"]["as_of"] = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")

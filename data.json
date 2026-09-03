@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-03T12:36:50+00:00",
-  "as_of_local": "2026-09-03 12:36:50 UTC",
+  "as_of_utc": "2026-09-03T12:41:47+00:00",
+  "as_of_local": "2026-09-03 12:41:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 1079790223109.2324,
       "headlines": [
         {
+          "title": "If You Invested $1000 in Micron 10 Years Ago, This Is How Much You'd Have Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/invested-1000-micron-10-years-123004054.html",
+          "publisher": "Zacks",
+          "published": "2026-09-03T12:30:04Z"
+        },
+        {
           "title": "Broadcom and Snowflake Perfectly Sum Up the AI Trade",
           "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-d343c1a0?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/one-huge-fund-just-bought-112000560.html",
           "publisher": "Motley Fool",
           "published": "2026-09-03T11:20:00Z"
-        },
-        {
-          "title": "A Once-in-a-Lifetime Investment Opportunity: The 3 Best Stocks to Take Advantage of the AI Build-Out",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/once-lifetime-investment-opportunity-3-105000124.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-03T10:50:00Z"
         }
       ]
     },
@@ -125,6 +125,12 @@
       "market_cap": 746139038710.9852,
       "headlines": [
         {
+          "title": "Want to Know if AMD is Gaining on Nvidia? Look Here.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/want-know-amd-gaining-nvidia-122900075.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-03T12:29:00Z"
+        },
+        {
           "title": "AMD is Quietly Eating Intel\u2019s Lunch",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-quietly-eating-intel-lunch-122446788.html",
           "publisher": "24/7 Wall St.",
@@ -135,12 +141,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-outperform-amd-095000936.html",
           "publisher": "Motley Fool",
           "published": "2026-09-03T09:50:00Z"
-        },
-        {
-          "title": "2 Growth Stocks to Stash and 1 Facing Headwinds",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-growth-stocks-stash-1-003623659.html",
-          "publisher": "StockStory",
-          "published": "2026-09-03T00:36:23Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "price": 90.05,
       "previous_close": 88.97,
       "change_pct": 1.21,
-      "market_cap": 473170110701.29175,
+      "market_cap": 476013794975.01306,
       "headlines": [
         {
           "title": "AMD is Quietly Eating Intel\u2019s Lunch",
@@ -290,7 +290,7 @@
       "price": 113.88,
       "previous_close": 111.68,
       "change_pct": 1.97,
-      "market_cap": 16174406985.262207,
+      "market_cap": 16142399531.59417,
       "headlines": [
         {
           "title": "Lattice Semiconductor SVP Elashmawi Sells 16,773 Shares for $2.3 Million",
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -1.05,
+          "price": 1596000.0,
           "currency": "KRW"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -1.05,
+        "price": 1596000.0,
         "currency": "KRW"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 78188.56,
-      "change_pct": 1.15
+      "price": 78243.64,
+      "change_pct": 1.22
     },
     {
       "label": "Gold",
-      "price": 4494.5,
-      "change_pct": 2.94
+      "price": 4511.2,
+      "change_pct": 3.32
     },
     {
       "label": "Nasdaq100",

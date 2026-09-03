@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| Should You Buy Marvell Stock Because Its Operating Margin Keeps Widening? | Trefis | 2026-09-03 |
+| Do You Still Own The NVIDIA You Bought? | Trefis | 2026-09-03 |
 | What Happens To Qualcomm Stock If The New Revenue Earns Less? | Trefis | 2026-09-03 |
 | Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers | TechCrunch | 2026-09-03 |
-| Why Is Entegris (ENTG) Down 9.8% Since Last Earnings Report? | Zacks | 2026-09-03 |
-| QCOM's Japan Robotics Outlay Targets Edge AI: Reason to Buy the Stock? | Zacks | 2026-09-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -38,8 +38,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 |---|---|---|
 | Nvidia's Jensen Huang is 'playing both sides' of AI with Hugging Face purchase | Yahoo Finance Video | 2026-09-03 |
 | Stocks edge up as Nvidia leads tech higher following Hugging Face deal announcement: AlphaCheck | Yahoo Finance | 2026-09-03 |
+| AI Infrastructure Demand Remains Red-Hot: HPE, AVGO, DELL Deliver | Zacks | 2026-09-03 |
 | Broadcom Shares Fall 5.6% Even as Revenue Surges 86% | GuruFocus.com | 2026-09-03 |
-| Why Broadcom (AVGO) Stock Is Nosediving | StockStory | 2026-09-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -130,6 +130,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-09-03 | up | Macquarie | Neutral → Outperform |
 | 2026-09-03 | main | Raymond James | Outperform → Outperform |
 | 2026-09-03 | main | Evercore ISI Group | Outperform → Outperform |
 | 2026-09-03 | main | TD Cowen | Buy → Buy |
@@ -137,7 +138,6 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | 2026-09-03 | reit | StoneX | Buy → Buy |
 | 2026-09-03 | main | Morgan Stanley | Overweight → Overweight |
 | 2026-09-03 | reit | RBC Capital | Sector Perform → Sector Perform |
-| 2026-09-03 | reit | Keybanc | Overweight → Overweight |
 
 ## 9. Conclusion
 AVGO: Moderate momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

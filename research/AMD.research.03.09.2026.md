@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Should You Buy Marvell Stock Because Its Operating Margin Keeps Widening? | Trefis | 2026-09-03 |
+| AMD (AMD) Stock May Be 24% Undervalued On Saudi AI Expansion | Simply Wall St. | 2026-09-03 |
+| Do You Still Own The NVIDIA You Bought? | Trefis | 2026-09-03 |
 | What Happens To Qualcomm Stock If The New Revenue Earns Less? | Trefis | 2026-09-03 |
-| Why Is AMD (AMD) Becoming More Important In Secure AI Infrastructure? | Simply Wall St. | 2026-09-03 |
-| Cathie Wood Sold About $72.8 Million of AMD and Bought About $53 Million of Nvidia. What Changed? | Insider Monkey | 2026-09-03 |
-| Could a $10,000 Investment in AMD Double by the End of 2028? | Motley Fool | 2026-09-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-03T00:18:26+00:00",
+  "as_of": "2026-09-03T00:33:35+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,46 +17,14 @@
    "volume_vs_avg": "~6x",
    "heat_score": 70,
    "direction": "down",
-   "why": "Stock Market Today, Sept. 2: Dell Helps Stocks Edge Higher Despite Geopolitical Tensions",
+   "why": "US Stock Futures Rangebound After S&P 500, Dow Snap Three-Day Losing Streak As Oil Steadies \u2014 MSFT, DELL, UBER, ASTS, AVGO In Focus",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-2-213113460.html",
-   "published": "2026-09-02T21:31:13Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rangebound-p-001250255.html",
+   "published": "2026-09-03T00:12:50Z",
    "sector": "Chip Equipment & AI Hardware"
   },
   {
    "rank": 2,
-   "ticker": "MDB",
-   "company": "MongoDB Inc",
-   "move_pct": -4.23,
-   "price": 434.21,
-   "volume": 7350743,
-   "volume_vs_avg": "~5x",
-   "heat_score": 54,
-   "direction": "down",
-   "why": "MongoDB Earnings Beat Expectations. Why the Stock Is Dropping Anyway.",
-   "catalyst_type": "earnings",
-   "source_url": "https://www.barrons.com/articles/mongodb-earnings-stock-price-1cf2087e?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-09-02T20:32:00Z",
-   "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
-   "rank": 3,
-   "ticker": "CRWD",
-   "company": "Crowdstrike Holdings Inc",
-   "move_pct": -6.9,
-   "price": 215.07,
-   "volume": 12268302,
-   "volume_vs_avg": "~1.3x",
-   "heat_score": 46,
-   "direction": "down",
-   "why": "The Real Question Behind CrowdStrike Stock's Premium Price",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/real-behind-crowdstrike-stocks-premium-202005883.html",
-   "published": "2026-09-02T20:20:05Z",
-   "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
-   "rank": 4,
    "ticker": "PANW",
    "company": "Palo Alto Networks Inc",
    "move_pct": -5.24,
@@ -72,7 +40,7 @@
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
-   "rank": 5,
+   "rank": 3,
    "ticker": "HPE",
    "company": "Hewlett Packard Enterprise Co",
    "move_pct": -2.62,
@@ -84,11 +52,11 @@
    "why": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
    "catalyst_type": "earnings",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-snowflake-broadcom-hpe-earnings-tesla-cybercab-event/?src=A00220&yptr=yahoo",
-   "published": "2026-09-02T23:39:07Z",
+   "published": "2026-09-03T00:16:31Z",
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 6,
+   "rank": 4,
    "ticker": "ORCL",
    "company": "Oracle Corp",
    "move_pct": -5.23,

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-03T00:03:05+00:00",
+  "as_of": "2026-09-03T00:18:26+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -63,7 +63,7 @@
    "price": 362.09,
    "volume": 13170703,
    "volume_vs_avg": "~2x",
-   "heat_score": 44,
+   "heat_score": 45,
    "direction": "down",
    "why": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
    "catalyst_type": "momentum_narrative",
@@ -81,10 +81,10 @@
    "volume_vs_avg": "~4x",
    "heat_score": 43,
    "direction": "down",
-   "why": "HPE Delivers A Blowout Quarter And Raises Guidance \u2014 Shares Still Fall",
+   "why": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/hpe-delivers-blowout-quarter-raises-233338056.html",
-   "published": "2026-09-02T23:33:38Z",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-snowflake-broadcom-hpe-earnings-tesla-cybercab-event/?src=A00220&yptr=yahoo",
+   "published": "2026-09-02T23:39:07Z",
    "sector": "Chip Equipment & AI Hardware"
   },
   {

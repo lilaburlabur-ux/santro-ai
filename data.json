@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-03T12:27:38+00:00",
-  "as_of_local": "2026-09-03 12:27:38 UTC",
+  "as_of_utc": "2026-09-03T12:31:41+00:00",
+  "as_of_local": "2026-09-03 12:31:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -125,6 +125,12 @@
       "market_cap": 746139038710.9852,
       "headlines": [
         {
+          "title": "AMD is Quietly Eating Intel\u2019s Lunch",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-quietly-eating-intel-lunch-122446788.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-03T12:24:46Z"
+        },
+        {
           "title": "Prediction: Nvidia Stock Will Outperform AMD Through 2028",
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-outperform-amd-095000936.html",
           "publisher": "Motley Fool",
@@ -135,12 +141,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/2-growth-stocks-stash-1-003623659.html",
           "publisher": "StockStory",
           "published": "2026-09-03T00:36:23Z"
-        },
-        {
-          "title": "Billionaire has bold take on 'hot money' rotation",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/billionaire-bold-hot-money-rotation-235530145.html",
-          "publisher": "TheStreet",
-          "published": "2026-09-02T23:55:30Z"
         }
       ]
     },
@@ -150,8 +150,14 @@
       "price": 90.05,
       "previous_close": 88.97,
       "change_pct": 1.21,
-      "market_cap": 476013794975.01306,
+      "market_cap": 473170110701.29175,
       "headlines": [
+        {
+          "title": "AMD is Quietly Eating Intel\u2019s Lunch",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-quietly-eating-intel-lunch-122446788.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-03T12:24:46Z"
+        },
         {
           "title": "75% of Nvidia's $63 Billion Investment Portfolio Has Been Put to Work in Just 2 Game-Changing AI Stocks",
           "url": "https://finance.yahoo.com/technology/ai/articles/75-nvidias-63-billion-investment-112600966.html",
@@ -163,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-82-below-101107945.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-03T10:11:07Z"
-        },
-        {
-          "title": "Intel Stock Tripled in a Year, So Where Will It Be in 5 Years?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-tripled-where-5-061101780.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-03T06:11:01Z"
         }
       ]
     },
@@ -290,7 +290,7 @@
       "price": 113.88,
       "previous_close": 111.68,
       "change_pct": 1.97,
-      "market_cap": 16142399531.59417,
+      "market_cap": 16174406985.262207,
       "headlines": [
         {
           "title": "Lattice Semiconductor SVP Elashmawi Sells 16,773 Shares for $2.3 Million",
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 1.31,
-          "price": 51670.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "JPY"
         },
         {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 1.31,
-        "price": 51670.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 77930.56,
-      "change_pct": 0.82
+      "price": 78148.97,
+      "change_pct": 1.1
     },
     {
       "label": "Gold",
-      "price": 4487.5,
-      "change_pct": 2.78
+      "price": 4486.3,
+      "change_pct": 2.75
     },
     {
       "label": "Nasdaq100",

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-03T08:19:12+00:00",
+  "as_of": "2026-09-03T08:24:16+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "SNOW",
    "company": "Snowflake Inc",
-   "move_pct": 24.05,
-   "price": 379.4,
+   "move_pct": 23.67,
+   "price": 378.22,
    "volume": 11264200,
    "volume_vs_avg": "~2x",
    "heat_score": 90,
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "DELL",
    "company": "Dell Technologies Inc",
-   "move_pct": -1.58,
-   "price": 484.4,
+   "move_pct": -1.46,
+   "price": 484.99,
    "volume": 36609700,
    "volume_vs_avg": "~6x",
    "heat_score": 51,
@@ -43,8 +43,8 @@
    "rank": 3,
    "ticker": "HPE",
    "company": "Hewlett Packard Enterprise Co",
-   "move_pct": -5.04,
-   "price": 49.22,
+   "move_pct": -4.86,
+   "price": 49.31,
    "volume": 60231100,
    "volume_vs_avg": "~4x",
    "heat_score": 51,
@@ -54,22 +54,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-co-hpe-050100483.html",
    "published": "2026-09-03T05:01:00Z",
    "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 4,
-   "ticker": "MDB",
-   "company": "MongoDB Inc",
-   "move_pct": 1.62,
-   "price": 381.47,
-   "volume": 7358000,
-   "volume_vs_avg": "~5x",
-   "heat_score": 45,
-   "direction": "up",
-   "why": "Why MongoDB (MDB) Shares Are Plunging Today",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-mongodb-mdb-shares-plunging-042023065.html",
-   "published": "2026-09-03T04:20:23Z",
-   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

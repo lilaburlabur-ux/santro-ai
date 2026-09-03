@@ -38,8 +38,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 |---|---|---|
 | Nvidia's Jensen Huang is 'playing both sides' of AI with Hugging Face purchase | Yahoo Finance Video | 2026-09-03 |
 | Stocks edge up as Nvidia leads tech higher following Hugging Face deal announcement: AlphaCheck | Yahoo Finance | 2026-09-03 |
+| Broadcom Shares Fall 5.6% Even as Revenue Surges 86% | GuruFocus.com | 2026-09-03 |
 | Why Broadcom (AVGO) Stock Is Nosediving | StockStory | 2026-09-03 |
-| Update: Dow Marks Best Day in More Than 4 Weeks as Rate Hike Bets Ease | MT Newswires | 2026-09-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

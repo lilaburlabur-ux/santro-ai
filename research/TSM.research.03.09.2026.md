@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| SpaceX Reclaims $2 Trillion Market Cap As Tech Rally, Cybercab Ties Boost Investor Confidence | Stocktwits | 2026-09-03 |
 | Taiwan Semiconductor Manufacturing (TSM) Could Be 9% Above Fair Value As Capex Plans Grow | Simply Wall St. | 2026-09-03 |
 | One Huge Fund Just Bought Taiwan Semiconductor Manufacturing and Dumped Micron Stock. Which Stock Is the Superior Choice? | Motley Fool | 2026-09-03 |
 | Why is Taiwan hiding the backers of its $20B US pledge? | TheStreet | 2026-09-03 |
-| Billionaire David Tepper Cut Micron 41% and Kept Buying This AI Chip Stock for a Sixth Quarter | Insider Monkey | 2026-09-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

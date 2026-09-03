@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-03T00:48:43+00:00",
+  "as_of": "2026-09-03T00:53:54+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -31,7 +31,7 @@
    "price": 362.09,
    "volume": 13170703,
    "volume_vs_avg": "~2x",
-   "heat_score": 45,
+   "heat_score": 44,
    "direction": "down",
    "why": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
    "catalyst_type": "momentum_narrative",

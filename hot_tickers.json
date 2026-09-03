@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-03T00:33:35+00:00",
+  "as_of": "2026-09-03T00:48:43+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -52,11 +52,27 @@
    "why": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
    "catalyst_type": "earnings",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-snowflake-broadcom-hpe-earnings-tesla-cybercab-event/?src=A00220&yptr=yahoo",
-   "published": "2026-09-03T00:16:31Z",
+   "published": "2026-09-03T00:27:28Z",
    "sector": "Chip Equipment & AI Hardware"
   },
   {
    "rank": 4,
+   "ticker": "BBAI",
+   "company": "BigBear.ai Holdings Inc",
+   "move_pct": -5.75,
+   "price": 2.95,
+   "volume": 14060410,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 38,
+   "direction": "down",
+   "why": "BigBear.ai (BBAI) Stock Looks Pricey As AI Growth Hopes Build",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/bigbear-ai-bbai-stock-looks-001911335.html",
+   "published": "2026-09-03T00:19:11Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 5,
    "ticker": "ORCL",
    "company": "Oracle Corp",
    "move_pct": -5.23,

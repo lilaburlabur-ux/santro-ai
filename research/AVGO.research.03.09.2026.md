@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech stocks today: Nvidia to acquire Hugging Face for $13 billion in strategic move | Yahoo Finance | 2026-08-31 |
+| Nvidia's Jensen Huang is 'playing both sides' of AI with Hugging Face purchase | Yahoo Finance Video | 2026-09-03 |
 | Stocks edge up as Nvidia leads tech higher following Hugging Face deal announcement: AlphaCheck | Yahoo Finance | 2026-09-03 |
-| Cathie Wood Sold About $72.8 Million of AMD and Bought About $53 Million of Nvidia. What Changed? | Insider Monkey | 2026-09-03 |
-| Sector Update: Tech Stocks Rise Late Afternoon | MT Newswires | 2026-09-03 |
+| Why Broadcom (AVGO) Stock Is Nosediving | StockStory | 2026-09-03 |
+| Update: Dow Marks Best Day in More Than 4 Weeks as Rate Hike Bets Ease | MT Newswires | 2026-09-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

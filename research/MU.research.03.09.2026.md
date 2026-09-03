@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| Broadcom and Snowflake Perfectly Sum Up the AI Trade | Barrons.com | 2026-09-03 |
+| Micron, Nvidia, and the September Effect: What 98 Years of Data Say Investors Should Do | Motley Fool | 2026-09-03 |
+| China Is Grabbing Memory Market Share. This Stock Could Be a Big Loser. | Barrons.com | 2026-09-03 |
 | Investor Who Went 30 Years Without a Loss Just Bet $125 Million on Bitcoin | BeInCrypto | 2026-09-03 |
-| Michael Burry doubles down on his surprising AI bet | TheStreet | 2026-09-03 |
-| Micron, SanDisk Lag Tech Rally as China Grabs Memory Market Share | Benzinga Prediction Markets | 2026-09-03 |
-| Micron's 11% Drop Hasn't Shaken Wall Street's Bull Case | GuruFocus.com | 2026-09-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

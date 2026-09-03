@@ -36,7 +36,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
-| Broadcom's Q3 earnings beat just isn't 'enough' to keep investors happy | Yahoo Finance Video | 2026-09-02 |
+| What Happens To Qualcomm Stock If The New Revenue Earns Less? | Trefis | 2026-09-03 |
 | Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers | TechCrunch | 2026-09-03 |
 | Why Is Entegris (ENTG) Down 9.8% Since Last Earnings Report? | Zacks | 2026-09-03 |
 | QCOM's Japan Robotics Outlay Targets Edge AI: Reason to Buy the Stock? | Zacks | 2026-09-03 |

@@ -19,7 +19,7 @@ Signed file: `NVDA.research.04.09.2026`
 | Fresh setup quality | Moderate / wait | -2.17% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 63.66%, revenue growth 105.90%. |
 | Value attractiveness | Reasonable | Forward P/E 14.90, EV/Sales 18.09. |
-| Risk level | High | Beta 2.21, ATR 3.2% of price, short float 1.23%. |
+| Risk level | High | Beta 2.22, ATR 3.2% of price, short float 1.23%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia stock moves closer to all-time high | Yahoo Finance | 2026-07-27 |
-| Are Meta and Nvidia redefining value vs. growth stocks in the era of AI? | Yahoo Finance Video | 2026-09-04 |
-| Magnificent Seven Flash Strong Signal Never Seen Before | GuruFocus.com | 2026-09-04 |
-| Prediction: Taiwan Semiconductor Stock Will Surge by 22% Before 2026 Ends | Motley Fool | 2026-09-04 |
+| Apple's John Ternus needs to be his own type of CEO and 'not Tim Cook 2' | Yahoo Finance Video | 2026-09-04 |
+| Tech stocks today: Tesla's Cybercab event fails to impress, Feds launch investigation into the robotaxi | Yahoo Finance | 2026-08-31 |
+| Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead | Investor's Business Daily | 2026-09-04 |
+| Jensen Huang Said This Word Exactly 1 Time During Nvidia's Earnings Call, and That Was Enough to Put Artificial Intelligence (AI) Bubble Fears to Rest | Motley Fool | 2026-09-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -47,7 +47,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Price vs 52-week range | Close $230.36; 52w high $235.47 (-2.17%); 52w low $164.98 (+39.63%) |
 | Trend | +17.22% vs SMA200, +9.40% vs SMA50, +4.67% vs SMA20 |
 | Momentum | RSI(14) 60.4 (neutral) |
-| Volatility | ATR(14) 7.38 (~3.2% of price); beta 2.21 |
+| Volatility | ATR(14) 7.38 (~3.2% of price); beta 2.22 |
 | Setup perspective | -2.17% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -95,7 +95,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Invesco Ltd. | 329,593,488 | 1.37% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.21, ATR 3.2% of price, short float 1.23%. Size positions accordingly.
+- **Volatility risk:** Beta 2.22, ATR 3.2% of price, short float 1.23%. Size positions accordingly.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -113,7 +113,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|---|
 | Price | $230.36 | EV/Sales | 18.09 |
 | Market cap | $5.56T | EV/EBITDA | 27.24 |
-| Beta | 2.21 | Gross margin | 74.67% |
+| Beta | 2.22 | Gross margin | 74.67% |
 | RSI(14) | 60.4 | Operating margin | 66.24% |
 | ATR(14) | 7.38 | Profit margin | 63.66% |
 | SMA20 dist | +4.67% | ROA | 53.57% |
@@ -123,7 +123,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | 52W low | $164.98 | Inst. ownership | 71.49% |
 | P/E (ttm) | 29.16 | Insider ownership | 4.01% |
 | Forward P/E | 14.90 | Short float | 1.23% |
-| PEG (trailing) | 0.56 | Avg volume | 136,892,814 |
+| PEG (trailing) | 0.57 | Avg volume | 136,892,814 |
 | P/S | 18.36 | Employees | 42,000 |
 | P/B | 24.29 | Analyst rec (1=buy..5=sell) | 1.3 |
 

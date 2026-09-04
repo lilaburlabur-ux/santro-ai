@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| Marvell Stock Had A Huge Year And Still Sits Well Below Its High | Trefis | 2026-09-04 |
 | Why Is Qualcomm (QCOM) Backing A $70 Million Bet On Smart Rings? | Simply Wall St. | 2026-09-04 |
 | How Far AMD Stock Can Swing In Its Calm Case | Trefis | 2026-09-04 |
 | Marvell Rises 6% as Beaten-Down AI Silicon Bounces, Qualcomm Barely Budges | 24/7 Wall St. | 2026-09-04 |
-| Cirrus Logic (CRUS) Down 8.4% Since Last Earnings Report: Can It Rebound? | Zacks | 2026-09-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

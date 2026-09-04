@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead | Investor's Business Daily | 2026-09-04 |
+| Update: Wall Street Wraps Mixed Week in Red Following Strong Jobs Report | MT Newswires | 2026-09-04 |
 | Analyst Has Strong Take on Micron, SanDisk Stocks | GuruFocus.com | 2026-09-04 |
 | Micron Rockets 4.2% as GPT-6 Reignites the Memory Trade | GuruFocus.com | 2026-09-04 |
-| ASML Plans 40% Japan Workforce Expansion to Support Chip Boom | GuruFocus.com | 2026-09-04 |
-| Ken Griffin's Citadel significantly lowers stake in surging chip stock | TheStreet | 2026-09-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

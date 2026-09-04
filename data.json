@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-04T23:10:11+00:00",
-  "as_of_local": "2026-09-04 23:10:11 UTC",
+  "as_of_utc": "2026-09-04T23:14:16+00:00",
+  "as_of_local": "2026-09-04 23:14:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-08-31T14:56:23Z"
         },
         {
-          "title": "Coatue Opened Positions in Intel and Cerebras. Is the AI Chip Trade Broadening Beyond NVIDIA?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/coatue-opened-positions-intel-cerebras-225513318.html",
+          "title": "AWS Plans 2 Million More NVIDIA GPUs. Is This Better News for AMZN\u2019s Cloud Growth or NVDA\u2019s Backlog?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/aws-plans-2-million-more-230419284.html",
           "publisher": "Insider Monkey",
-          "published": "2026-09-04T22:55:13Z"
+          "published": "2026-09-04T23:04:19Z"
         }
       ]
     },
@@ -113,34 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/david-tepper-sold-41-micron-213401392.html",
           "publisher": "Motley Fool",
           "published": "2026-09-04T21:34:01Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 477.57,
-      "previous_close": 456.16,
-      "change_pct": 4.69,
-      "market_cap": 779621117764.5443,
-      "headlines": [
-        {
-          "title": "Elon Musk Committed SpaceX to Building \"Exclusively on Nvidia.\" Here's What That Locks In for SpaceX's Compute Bill.",
-          "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-committed-spacex-building-220306355.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-04T22:03:06Z"
-        },
-        {
-          "title": "Marvell Stock Had A Huge Year And Still Sits Well Below Its High",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-had-huge-still-202752024.html",
-          "publisher": "Trefis",
-          "published": "2026-09-04T20:27:52Z"
-        },
-        {
-          "title": "Here\u2019s the Real Reason Nvidia Is Buying Hugging Face",
-          "url": "https://www.barrons.com/articles/nvidia-stock-hugging-face-ai-b814c729?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-04T17:55:00Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 79663.77,
-      "change_pct": -1.98
+      "price": 79626.1,
+      "change_pct": -2.02
     },
     {
       "label": "Gold",

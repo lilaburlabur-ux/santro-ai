@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| David Tepper Sold 41% of His Micron Shares and It Is Still His Second-Biggest Holding | Motley Fool | 2026-09-04 |
 | Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead | Investor's Business Daily | 2026-09-04 |
 | Update: Wall Street Wraps Mixed Week in Red Following Strong Jobs Report | MT Newswires | 2026-09-04 |
-| Analyst Has Strong Take on Micron, SanDisk Stocks | GuruFocus.com | 2026-09-04 |
-| Micron Rockets 4.2% as GPT-6 Reignites the Memory Trade | GuruFocus.com | 2026-09-04 |
+| Tesla, Fair Isaac, Micron, Sandisk, AMC, Trade Desk, UiPath, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

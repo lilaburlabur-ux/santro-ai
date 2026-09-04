@@ -36,10 +36,10 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
+| What Is The Market Really Expecting From MPWR Stock? | Trefis | 2026-09-04 |
 | Implied Volatility Surging for NXP Semiconductors Stock Options | Zacks | 2026-09-04 |
 | Chipmaker Ambarella Posts Mixed Fiscal Q2 Earnings Report | Investor's Business Daily | 2026-09-03 |
 | NXP Semiconductors (NXPI) Laps the Stock Market: Here's Why | Zacks | 2026-09-02 |
-| NXP Semiconductors (NXPI) Stock Still Looks Cheap On Cash Flow While Earnings Lag | Simply Wall St. | 2026-08-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -123,7 +123,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | 52W low | $181.81 | Inst. ownership | 99.40% |
 | P/E (ttm) | 19.44 | Insider ownership | 0.14% |
 | Forward P/E | 12.59 | Short float | 4.13% |
-| PEG (trailing) | 0.44 | Avg volume | 4,088,231 |
+| PEG (trailing) | 0.45 | Avg volume | 4,088,231 |
 | P/S | 4.36 | Employees | 32,169 |
 | P/B | 5.04 | Analyst rec (1=buy..5=sell) | — |
 

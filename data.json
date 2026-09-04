@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-04T03:27:53+00:00",
-  "as_of_local": "2026-09-04 03:27:53 UTC",
+  "as_of_utc": "2026-09-04T03:42:58+00:00",
+  "as_of_local": "2026-09-04 03:42:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 2162811528161.13,
       "headlines": [
         {
+          "title": "Opinion: TSMC Is a Better Buy Than Any of the \"Magnificent Seven\" Stocks Right Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/opinion-tsmc-better-buy-magnificent-032000765.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-04T03:20:00Z"
+        },
+        {
           "title": "SpaceX Reclaims $2 Trillion Market Cap As Tech Rally, Cybercab Ties Boost Investor Confidence",
           "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-reclaims-2-trillion-market-211203949.html",
           "publisher": "Stocktwits",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-could-130609996.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-03T13:06:09Z"
-        },
-        {
-          "title": "One Huge Fund Just Bought Taiwan Semiconductor Manufacturing and Dumped Micron Stock. Which Stock Is the Superior Choice?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/one-huge-fund-just-bought-112000560.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-03T11:20:00Z"
         }
       ]
     },
@@ -81,10 +81,10 @@
           "published": "2026-09-03T14:04:48Z"
         },
         {
-          "title": "Wall Street sees nearly 40% upside for one AI chip giant",
-          "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-sees-nearly-40-011700147.html",
-          "publisher": "TheStreet",
-          "published": "2026-09-04T01:17:00Z"
+          "title": "The Bull Case For Kyndryl Holdings (KD) Could Change Following Expanded VMware-AI Alliance With Broadcom",
+          "url": "https://finance.yahoo.com/technology/ai/articles/bull-case-kyndryl-holdings-kd-030947656.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-04T03:09:47Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.94,
-          "price": 1643000.0,
+          "change_pct": 3.07,
+          "price": 1645000.0,
           "currency": "KRW"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 1.78,
-          "price": 486.0,
+          "change_pct": 2.72,
+          "price": 490.5,
           "currency": "TWD"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 1.48,
-          "price": 171.5,
+          "change_pct": 2.07,
+          "price": 172.5,
           "currency": "TWD"
         }
       ]
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.94,
-        "price": 1643000.0,
+        "change_pct": 3.07,
+        "price": 1645000.0,
         "currency": "KRW"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 1.78,
-        "price": 486.0,
+        "change_pct": 2.72,
+        "price": 490.5,
         "currency": "TWD"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 1.48,
-        "price": 171.5,
+        "change_pct": 2.07,
+        "price": 172.5,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 80877.08,
-      "change_pct": 4.63
+      "price": 80811.69,
+      "change_pct": 4.54
     },
     {
       "label": "Gold",
-      "price": 4519.3,
-      "change_pct": 3.5
+      "price": 4520.0,
+      "change_pct": 3.52
     },
     {
       "label": "Nasdaq100",

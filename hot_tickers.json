@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-04T08:41:32+00:00",
+  "as_of": "2026-09-04T08:56:44+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,33 +11,17 @@
    "rank": 1,
    "ticker": "ZS",
    "company": "Zscaler Inc",
-   "move_pct": -4.03,
-   "price": 170.64,
+   "move_pct": -4.1,
+   "price": 170.51,
    "volume": 8208400,
    "volume_vs_avg": "~4x",
-   "heat_score": 47,
+   "heat_score": 48,
    "direction": "down",
    "why": "Zscaler (ZS) Issued New Guidance, Is The Undervaluation Case Still Compelling?",
    "catalyst_type": "earnings",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/zscaler-zs-issued-guidance-undervaluation-050908910.html",
    "published": "2026-09-04T05:09:08Z",
    "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
-   "rank": 2,
-   "ticker": "HPE",
-   "company": "Hewlett Packard Enterprise Co",
-   "move_pct": 1.01,
-   "price": 54.99,
-   "volume": 72060800,
-   "volume_vs_avg": "~4x",
-   "heat_score": 39,
-   "direction": "up",
-   "why": "ORCL Stock Spikes On New HPE Equipment Deal: Retail Turns Bullish Ahead Of Q1 Report",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/orcl-stock-spikes-hpe-equipment-045434497.html",
-   "published": "2026-09-04T04:54:34Z",
-   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-04T23:19:15+00:00",
-  "as_of_local": "2026-09-04 23:19:15 UTC",
+  "as_of_utc": "2026-09-04T23:24:25+00:00",
+  "as_of_local": "2026-09-04 23:24:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-08-31T14:56:23Z"
         },
         {
-          "title": "AWS Plans 2 Million More NVIDIA GPUs. Is This Better News for AMZN\u2019s Cloud Growth or NVDA\u2019s Backlog?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/aws-plans-2-million-more-230419284.html",
+          "title": "ChronoScale Says It Plans a 50 MW Microsoft AI Deployment. Can CHRN Fund the Build Without Diluting Shareholders?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/chronoscale-says-plans-50-mw-231034421.html",
           "publisher": "Insider Monkey",
-          "published": "2026-09-04T23:04:19Z"
+          "published": "2026-09-04T23:10:34Z"
         }
       ]
     },
@@ -141,34 +143,6 @@
           "url": "https://www.barrons.com/articles/nvidia-stock-hugging-face-ai-b814c729?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-09-04T17:55:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 95.8,
-      "previous_close": 91.67,
-      "change_pct": 4.51,
-      "market_cap": 506408900231.51306,
-      "headlines": [
-        {
-          "title": "Coatue Opened Positions in Intel and Cerebras. Is the AI Chip Trade Broadening Beyond NVIDIA?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/coatue-opened-positions-intel-cerebras-225513318.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-04T22:55:13Z"
-        },
-        {
-          "title": "Marvell Stock Had A Huge Year And Still Sits Well Below Its High",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-had-huge-still-202752024.html",
-          "publisher": "Trefis",
-          "published": "2026-09-04T20:27:52Z"
-        },
-        {
-          "title": "Mizuho Resets Intel Target For the Rest of 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mizuho-resets-intel-target-rest-195223382.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-09-04T19:52:23Z"
         }
       ]
     },
@@ -290,7 +264,7 @@
       "price": 115.9,
       "previous_close": 113.63,
       "change_pct": 2.0,
-      "market_cap": 16428733539.392128,
+      "market_cap": 16461308741.520996,
       "headlines": [
         {
           "title": "Why Is Lattice (LSCC) Down 11.3% Since Last Earnings Report?",
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 79637.98,
-      "change_pct": -2.01
+      "price": 79716.94,
+      "change_pct": -1.91
     },
     {
       "label": "Gold",

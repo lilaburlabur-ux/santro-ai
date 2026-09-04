@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-04T23:24:25+00:00",
-  "as_of_local": "2026-09-04 23:24:25 UTC",
+  "as_of_utc": "2026-09-04T23:29:20+00:00",
+  "as_of_local": "2026-09-04 23:29:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -143,6 +141,34 @@
           "url": "https://www.barrons.com/articles/nvidia-stock-hugging-face-ai-b814c729?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-09-04T17:55:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 95.8,
+      "previous_close": 91.67,
+      "change_pct": 4.51,
+      "market_cap": 503383637012.54175,
+      "headlines": [
+        {
+          "title": "Coatue Opened Positions in Intel and Cerebras. Is the AI Chip Trade Broadening Beyond NVIDIA?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/coatue-opened-positions-intel-cerebras-225513318.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-04T22:55:13Z"
+        },
+        {
+          "title": "Marvell Stock Had A Huge Year And Still Sits Well Below Its High",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-had-huge-still-202752024.html",
+          "publisher": "Trefis",
+          "published": "2026-09-04T20:27:52Z"
+        },
+        {
+          "title": "Mizuho Resets Intel Target For the Rest of 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mizuho-resets-intel-target-rest-195223382.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-04T19:52:23Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 79716.94,
-      "change_pct": -1.91
+      "price": 79754.5,
+      "change_pct": -1.87
     },
     {
       "label": "Gold",

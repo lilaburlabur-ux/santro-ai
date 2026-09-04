@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-04T09:02:06+00:00",
+  "as_of": "2026-09-04T09:17:18+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,18 +9,18 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "ZS",
-   "company": "Zscaler Inc",
-   "move_pct": -4.1,
-   "price": 170.51,
-   "volume": 8208400,
-   "volume_vs_avg": "~4x",
-   "heat_score": 48,
+   "ticker": "PATH",
+   "company": "UiPath Inc",
+   "move_pct": -10.15,
+   "price": 16.37,
+   "volume": 61524600,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 65,
    "direction": "down",
-   "why": "Zscaler (ZS) Issued New Guidance, Is The Undervaluation Case Still Compelling?",
+   "why": "UiPath Inc (PATH) (Q2 2027) Earnings Call Highlights: AI-Driven Growth and Record GAAP Profitability",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/zscaler-zs-issued-guidance-undervaluation-050908910.html",
-   "published": "2026-09-04T05:09:08Z",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/uipath-inc-path-q2-2027-090050444.html",
+   "published": "2026-09-04T09:00:50Z",
    "sector": "AI Software & Cloud Infrastructure"
   }
  ]

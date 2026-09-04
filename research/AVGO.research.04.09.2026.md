@@ -18,7 +18,7 @@ Signed file: `AVGO.research.04.09.2026`
 | Technical momentum | Moderate | 1Y +17.78%; price -3.02% vs SMA200. |
 | Fresh setup quality | Poor / broken | -25.56% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 42.94%, revenue growth 85.50%. |
-| Value attractiveness | Reasonable | Forward P/E 18.47, EV/Sales 19.50. |
+| Value attractiveness | Reasonable | Forward P/E 18.51, EV/Sales 19.50. |
 | Risk level | Elevated | Beta 1.46, ATR 3.6% of price, short float 1.20%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -37,9 +37,9 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Headline | Source | Date |
 |---|---|---|
 | Adobe appoints new CEO to succeed Narayen in December | Yahoo Finance Video | 2026-09-04 |
+| Top Research Reports for Apple, Broadcom & Shell | Zacks | 2026-09-04 |
 | Marvell Stock Had A Huge Year And Still Sits Well Below Its High | Trefis | 2026-09-04 |
 | 5-star analyst resets Broadcom stock price target | TheStreet | 2026-09-04 |
-| Top 3 AI Stocks To Watch In September 2026 | Simply Wall St. | 2026-09-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $89.10B | Revenue growth 85.50% y/y |
 | Profitability | Gross 75.52%, operating 54.31%, net 42.94% | ROA 15.30%, ROE 44.25% |
 | Balance sheet | Cash $23.98B, debt $59.42B | Current ratio 2.50, debt/equity 59.60 |
-| Valuation | P/E 45.53, forward P/E 18.47, P/S 19.11, P/B 17.11 | EV/Sales 19.50, EV/EBITDA 33.38 |
+| Valuation | P/E 45.53, forward P/E 18.51, P/S 19.11, P/B 17.11 | EV/Sales 19.50, EV/EBITDA 33.38 |
 | Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $525.97 (46 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -122,7 +122,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | 52W high | $480.81 | Revenue growth y/y | 85.50% |
 | 52W low | $292.95 | Inst. ownership | 80.13% |
 | P/E (ttm) | 45.53 | Insider ownership | 1.95% |
-| Forward P/E | 18.47 | Short float | 1.20% |
+| Forward P/E | 18.51 | Short float | 1.20% |
 | PEG (trailing) | 0.42 | Avg volume | 24,865,828 |
 | P/S | 19.11 | Employees | 33,000 |
 | P/B | 17.11 | Analyst rec (1=buy..5=sell) | 1.3 |

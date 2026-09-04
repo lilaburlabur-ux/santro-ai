@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Apple's John Ternus needs to be his own type of CEO and 'not Tim Cook 2' | Yahoo Finance Video | 2026-09-04 |
 | Tech stocks today: Tesla's Cybercab event fails to impress, Feds launch investigation into the robotaxi | Yahoo Finance | 2026-08-31 |
-| Jim Cramer flagged one stock quietly concentrating portfolios | TheStreet | 2026-09-04 |
-| The Only Account the IRS Never Taxes Going In, Growing, or Coming Out: 3 ETFs That Belong Inside It | 24/7 Wall St. | 2026-09-04 |
+| Coatue Opened Positions in Intel and Cerebras. Is the AI Chip Trade Broadening Beyond NVIDIA? | Insider Monkey | 2026-09-04 |
+| Why ASML Holding Stock Bumped 4% Higher Today | Motley Fool | 2026-09-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

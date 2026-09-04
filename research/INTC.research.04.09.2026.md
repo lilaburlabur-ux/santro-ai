@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
+| Coatue Opened Positions in Intel and Cerebras. Is the AI Chip Trade Broadening Beyond NVIDIA? | Insider Monkey | 2026-09-04 |
 | Marvell Stock Had A Huge Year And Still Sits Well Below Its High | Trefis | 2026-09-04 |
 | Mizuho Resets Intel Target For the Rest of 2026 | GuruFocus.com | 2026-09-04 |
 | Lone Star JV Spends $1.2B On 2M SF R&D Portfolio In Silicon Valley | Bisnow | 2026-09-04 |
-| Here’s the Real Reason Nvidia Is Buying Hugging Face | Barrons.com | 2026-09-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

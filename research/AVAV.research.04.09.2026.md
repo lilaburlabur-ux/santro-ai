@@ -36,10 +36,10 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 | Headline | Source | Date |
 |---|---|---|
+| Jim Cramer Highlights AeroVironment’s (AVAV) Steep Competition | Insider Monkey | 2026-09-04 |
 | What Does AeroVironment (AVAV) Winning A $464.8 Million Army Laser Deal Change? | Simply Wall St. | 2026-09-03 |
 | Drone Stocks Fly As Trump's 100% Tariff On Imports Takes Effect | Investor's Business Daily | 2026-09-03 |
 | Protolabs CEO sees big impact from US reshoring despite potential tariffs | Yahoo Finance Video | 2026-09-03 |
-| Drone Maker Stocks Are Tanking. Why a New Tariff Isn’t Boosting the Sector. | Barrons.com | 2026-09-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

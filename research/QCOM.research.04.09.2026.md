@@ -18,7 +18,7 @@ Signed file: `QCOM.research.04.09.2026`
 | Technical momentum | Moderate | 1Y +7.85%; price +1.58% vs SMA200. |
 | Fresh setup quality | Poor / broken | -32.16% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 21.01%, revenue growth -4.00%. |
-| Value attractiveness | Reasonable | Forward P/E 16.54, EV/Sales 4.17. |
+| Value attractiveness | Reasonable | Forward P/E 16.51, EV/Sales 4.17. |
 | Risk level | Elevated | Beta 1.68, ATR 3.5% of price, short float 3.48%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $44.07B | Revenue growth -4.00% y/y |
 | Profitability | Gross 54.23%, operating 18.53%, net 21.01% | ROA 11.61%, ROE 33.75% |
 | Balance sheet | Cash $8.30B, debt $15.27B | Current ratio 2.02, debt/equity 55.21 |
-| Valuation | P/E 19.28, forward P/E 16.54, P/S 4.09, P/B 6.45 | EV/Sales 4.17, EV/EBITDA 15.34 |
+| Valuation | P/E 19.28, forward P/E 16.51, P/S 4.09, P/B 6.45 | EV/Sales 4.17, EV/EBITDA 15.34 |
 | Growth expectations | Earnings growth -23.00%, EPS q/q -24.90% | Analyst mean target $193.10 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -122,8 +122,8 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | 52W high | $248.74 | Revenue growth y/y | -4.00% |
 | 52W low | $122.94 | Inst. ownership | 83.18% |
 | P/E (ttm) | 19.28 | Insider ownership | 0.12% |
-| Forward P/E | 16.54 | Short float | 3.48% |
-| PEG (trailing) | 0.74 | Avg volume | 14,887,844 |
+| Forward P/E | 16.51 | Short float | 3.48% |
+| PEG (trailing) | 0.75 | Avg volume | 14,887,844 |
 | P/S | 4.09 | Employees | 52,000 |
 | P/B | 6.45 | Analyst rec (1=buy..5=sell) | — |
 

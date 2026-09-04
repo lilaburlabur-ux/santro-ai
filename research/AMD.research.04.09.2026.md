@@ -123,7 +123,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | 52W low | $151.14 | Inst. ownership | 75.45% |
 | P/E (ttm) | 121.83 | Insider ownership | 0.42% |
 | Forward P/E | 30.91 | Short float | 2.46% |
-| PEG (trailing) | 0.48 | Avg volume | 26,583,195 |
+| PEG (trailing) | 1.02 | Avg volume | 26,583,195 |
 | P/S | 18.87 | Employees | 31,000 |
 | P/B | 11.59 | Analyst rec (1=buy..5=sell) | 1.5 |
 

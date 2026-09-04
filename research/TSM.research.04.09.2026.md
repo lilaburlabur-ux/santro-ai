@@ -36,8 +36,8 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
-| TSMC (TSM) Increases Despite Market Slip: Here's What You Need to Know | Zacks | 2026-09-04 |
 | Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead | Investor's Business Daily | 2026-09-04 |
+| TSMC (TSM) Increases Despite Market Slip: Here's What You Need to Know | Zacks | 2026-09-04 |
 | Prediction: Taiwan Semiconductor Stock Will Surge by 22% Before 2026 Ends | Motley Fool | 2026-09-04 |
 | ASML Plans 40% Japan Workforce Expansion to Support Chip Boom | GuruFocus.com | 2026-09-04 |
 

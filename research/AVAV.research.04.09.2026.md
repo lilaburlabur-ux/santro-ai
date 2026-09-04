@@ -36,9 +36,9 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 | Headline | Source | Date |
 |---|---|---|
-| Protolabs CEO sees big impact from US reshoring despite potential tariffs | Yahoo Finance Video | 2026-09-03 |
 | What Does AeroVironment (AVAV) Winning A $464.8 Million Army Laser Deal Change? | Simply Wall St. | 2026-09-03 |
 | Drone Stocks Fly As Trump's 100% Tariff On Imports Takes Effect | Investor's Business Daily | 2026-09-03 |
+| Protolabs CEO sees big impact from US reshoring despite potential tariffs | Yahoo Finance Video | 2026-09-03 |
 | Drone Maker Stocks Are Tanking. Why a New Tariff Isn’t Boosting the Sector. | Barrons.com | 2026-09-03 |
 
 ## 3. Technical Analysis
@@ -74,7 +74,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 87.98% |
+| Institutional ownership | 88.19% |
 | Insider ownership | 0.90% |
 | Short float | 9.55% |
 | Short ratio (days to cover) | 2.8 |
@@ -123,7 +123,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | SMA50 dist | -9.00% | ROE | -10.03% |
 | SMA200 dist | -31.92% | Revenue (ttm) | $1.98B |
 | 52W high | $409.83 | Revenue growth y/y | 133.30% |
-| 52W low | $136.68 | Inst. ownership | 87.98% |
+| 52W low | $136.68 | Inst. ownership | 88.19% |
 | P/E (ttm) | — | Insider ownership | 0.90% |
 | Forward P/E | 32.94 | Short float | 9.55% |
 | PEG (trailing) | — | Avg volume | 1,600,568 |

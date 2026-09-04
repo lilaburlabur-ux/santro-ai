@@ -19,7 +19,7 @@ Signed file: `ARM.research.04.09.2026`
 | Fresh setup quality | Poor / broken | -42.64% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 20.25%, revenue growth 22.40%. |
 | Value attractiveness | Low (expensive) | Forward P/E 82.36, EV/Sales 49.59. |
-| Risk level | High | Beta 3.89, ATR 6.6% of price, short float 12.57%. |
+| Risk level | High | Beta 3.91, ATR 6.6% of price, short float 12.57%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: low (expensive), risk: high.
 
@@ -47,7 +47,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Price vs 52-week range | Close $252.09; 52w high $439.46 (-42.64%); 52w low $104.55 (+141.12%) |
 | Trend | +24.94% vs SMA200, -7.85% vs SMA50, -0.49% vs SMA20 |
 | Momentum | RSI(14) 48.0 (neutral) |
-| Volatility | ATR(14) 16.58 (~6.6% of price); beta 3.89 |
+| Volatility | ATR(14) 16.58 (~6.6% of price); beta 3.91 |
 | Setup perspective | -42.64% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -96,7 +96,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 82.36, EV/Sales 49.59. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 3.89, ATR 6.6% of price, short float 12.57%. Size positions accordingly.
+- **Volatility risk:** Beta 3.91, ATR 6.6% of price, short float 12.57%. Size positions accordingly.
 - **Short interest risk:** short float 12.57% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -115,7 +115,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 |---|---|---|---|
 | Price | $252.09 | EV/Sales | 49.59 |
 | Market cap | $269.23B | EV/EBITDA | 240.37 |
-| Beta | 3.89 | Gross margin | 97.54% |
+| Beta | 3.91 | Gross margin | 97.54% |
 | RSI(14) | 48.0 | Operating margin | 7.60% |
 | ATR(14) | 16.58 | Profit margin | 20.25% |
 | SMA20 dist | -0.49% | ROA | 5.42% |

@@ -15,7 +15,7 @@ Signed file: `MRVL.research.04.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +249.50%; price +47.35% vs SMA200. |
+| Technical momentum | High | 1Y +249.49%; price +47.35% vs SMA200. |
 | Fresh setup quality | Poor / broken | -29.34% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 27.93%, revenue growth 36.50%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 33.26, EV/Sales 19.52. |
@@ -68,7 +68,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $9.45B | Revenue growth 36.50% y/y |
 | Profitability | Gross 52.22%, operating 16.68%, net 27.93% | ROA 4.12%, ROE 16.52% |
 | Balance sheet | Cash $3.93B, debt $5.29B | Current ratio 3.17, debt/equity 28.52 |
-| Valuation | P/E 73.78, forward P/E 33.26, P/S 21.26, P/B 10.75 | EV/Sales 19.52, EV/EBITDA 64.72 |
+| Valuation | P/E 73.78, forward P/E 33.26, P/S 21.26, P/B 10.58 | EV/Sales 19.52, EV/EBITDA 64.72 |
 | Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $284.80 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -126,7 +126,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Forward P/E | 33.26 | Short float | 3.79% |
 | PEG (trailing) | 1.12 | Avg volume | 35,998,903 |
 | P/S | 21.26 | Employees | 7,480 |
-| P/B | 10.75 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 10.58 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

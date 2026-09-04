@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-04T12:10:56+00:00",
+  "as_of": "2026-09-04T12:26:14+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "PATH",
    "company": "UiPath Inc",
-   "move_pct": -8.89,
-   "price": 16.6,
+   "move_pct": -9.4,
+   "price": 16.51,
    "volume": 61524600,
    "volume_vs_avg": "~1.0x",
-   "heat_score": 61,
+   "heat_score": 63,
    "direction": "down",
    "why": "UiPath Posts Revenue Beat. The Stock Falls.",
    "catalyst_type": "earnings",
@@ -27,17 +27,33 @@
    "rank": 2,
    "ticker": "ZS",
    "company": "Zscaler Inc",
-   "move_pct": -3.86,
-   "price": 170.94,
+   "move_pct": -3.77,
+   "price": 171.1,
    "volume": 8208400,
    "volume_vs_avg": "~4x",
-   "heat_score": 47,
+   "heat_score": 46,
    "direction": "down",
    "why": "Zscaler Dips On Fiscal 2027 Outlook For Key Sales Metric",
    "catalyst_type": "earnings",
    "source_url": "https://www.investors.com/news/technology/zscaler-stock-zs-zscaler-earnings-news-july26/?src=A00220&yptr=yahoo",
    "published": "2026-09-04T11:54:09Z",
    "sector": "AI Software & Cloud Infrastructure"
+  },
+  {
+   "rank": 3,
+   "ticker": "SNOW",
+   "company": "Snowflake Inc",
+   "move_pct": -0.45,
+   "price": 354.85,
+   "volume": 21806700,
+   "volume_vs_avg": "~5x",
+   "heat_score": 39,
+   "direction": "down",
+   "why": "Snowflake's AI Business Is Booming, But It's Making Less Money Doing It: CFO Brian Robins Reveals the Catch",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/snowflakes-ai-business-booming-making-110013697.html",
+   "published": "2026-09-04T11:00:13Z",
+   "sector": "AI Applications & Data Software"
   }
  ]
 }

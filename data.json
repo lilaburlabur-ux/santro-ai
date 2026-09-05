@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-05T11:43:23+00:00",
-  "as_of_local": "2026-09-05 11:43:23 UTC",
+  "as_of_utc": "2026-09-05T11:58:22+00:00",
+  "as_of_local": "2026-09-05 11:58:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -59,6 +57,34 @@
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-09-04T22:41:04Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 357.9,
+      "previous_close": 357.16,
+      "change_pct": 0.21,
+      "market_cap": 1702737923826.2349,
+      "headlines": [
+        {
+          "title": "Adobe appoints new CEO to succeed Narayen in December",
+          "url": "https://finance.yahoo.com/video/adobe-appoints-ceo-succeed-narayen-135828187.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-09-04T13:58:28Z"
+        },
+        {
+          "title": "Broadcom And 2 Other Undervalued Stocks To Own",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-2-other-undervalued-stocks-061453375.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-05T06:14:53Z"
+        },
+        {
+          "title": "Why Broadcom CEO Hock Tan Called Anthropic and OpenAI 'Two Geniuses in the Middle of Mongolia'",
+          "url": "https://finance.yahoo.com/technology/ai/articles/why-broadcom-ceo-hock-tan-003026400.html",
+          "publisher": "Benzinga",
+          "published": "2026-09-05T00:30:26Z"
         }
       ]
     },
@@ -124,7 +150,7 @@
       "price": 95.8,
       "previous_close": 91.67,
       "change_pct": 4.51,
-      "market_cap": 506408900231.51306,
+      "market_cap": 503383637012.54175,
       "headlines": [
         {
           "title": "Coatue Opened Positions in Intel and Cerebras. Is the AI Chip Trade Broadening Beyond NVIDIA?",
@@ -264,7 +290,7 @@
       "price": 115.9,
       "previous_close": 113.63,
       "change_pct": 2.0,
-      "market_cap": 16428733539.392128,
+      "market_cap": 16461308741.520996,
       "headlines": [
         {
           "title": "Why Is Lattice (LSCC) Down 11.3% Since Last Earnings Report?",
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 79639.13,
-      "change_pct": -0.04
+      "price": 79635.91,
+      "change_pct": -0.05
     },
     {
       "label": "Gold",

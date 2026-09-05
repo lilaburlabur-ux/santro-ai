@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-09-05T14:05:08+00:00",
-  "as_of_local": "2026-09-05 14:05:08 UTC",
+  "as_of_utc": "2026-09-05T14:20:13+00:00",
+  "as_of_local": "2026-09-05 14:20:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 230.36,
+      "previous_close": 228.45,
+      "change_pct": 0.84,
+      "market_cap": 5562502934738.159,
+      "headlines": [
+        {
+          "title": "Apple's John Ternus needs to be his own type of CEO and 'not Tim Cook 2'",
+          "url": "https://finance.yahoo.com/video/apples-john-ternus-needs-own-203847038.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-09-04T20:38:47Z"
+        },
+        {
+          "title": "Tech stocks today: Tesla's Cybercab event fails to impress, Feds launch investigation into the robotaxi",
+          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-apple-ceo-steps-down-nvidia-mag-7-145623375.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-08-31T14:56:23Z"
+        },
+        {
+          "title": "3 Incredible High-Growth Stocks to Buy With $10,000 Right Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-incredible-high-growth-stocks-140400844.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-05T14:04:00Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -71,22 +97,22 @@
       "market_cap": 1148129813705.4724,
       "headlines": [
         {
+          "title": "3 Incredible High-Growth Stocks to Buy With $10,000 Right Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-incredible-high-growth-stocks-140400844.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-05T14:04:00Z"
+        },
+        {
+          "title": "Bitcoin\u2019s \u2018Coiled Spring\u2019 Setup Has Economist James Thorne Bullish On The \u2018Next Big Trade\u2019",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-coiled-spring-setup-economist-140216603.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-05T14:02:16Z"
+        },
+        {
           "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-09-05T12:05:42Z"
-        },
-        {
-          "title": "Recent News From Nvidia and SK Hynix Reveals Exactly What the Market Expects for Micron Technology's Future",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/recent-news-nvidia-sk-hynix-120500853.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-05T12:05:00Z"
-        },
-        {
-          "title": "China's Biggest Memory Chip Stock Is Almost as Good as Micron",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chinas-biggest-memory-chip-stock-102600116.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-05T10:26:00Z"
         }
       ]
     },
@@ -124,7 +150,7 @@
       "price": 95.8,
       "previous_close": 91.67,
       "change_pct": 4.51,
-      "market_cap": 506408900231.51306,
+      "market_cap": 503383637012.54175,
       "headlines": [
         {
           "title": "Coatue Opened Positions in Intel and Cerebras. Is the AI Chip Trade Broadening Beyond NVIDIA?",
@@ -264,7 +290,7 @@
       "price": 115.9,
       "previous_close": 113.63,
       "change_pct": 2.0,
-      "market_cap": 16428733539.392128,
+      "market_cap": 16461308741.520996,
       "headlines": [
         {
           "title": "Why Is Lattice (LSCC) Down 11.3% Since Last Earnings Report?",
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 79653.05,
-      "change_pct": -0.02
+      "price": 79686.4,
+      "change_pct": 0.02
     },
     {
       "label": "Gold",

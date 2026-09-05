@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-05T03:31:26+00:00",
-  "as_of_local": "2026-09-05 03:31:26 UTC",
+  "as_of_utc": "2026-09-05T03:46:35+00:00",
+  "as_of_local": "2026-09-05 03:46:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/honeywell-now-three-companies-heres-023500905.html",
           "publisher": "Motley Fool",
           "published": "2026-09-05T02:35:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 428.91,
-      "previous_close": 417.01,
-      "change_pct": 2.85,
-      "market_cap": 2224530587909.265,
-      "headlines": [
-        {
-          "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-04T22:41:04Z"
-        },
-        {
-          "title": "TSMC (TSM) Increases Despite Market Slip: Here's What You Need to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-increases-despite-market-214503083.html",
-          "publisher": "Zacks",
-          "published": "2026-09-04T21:45:03Z"
-        },
-        {
-          "title": "Prediction: Taiwan Semiconductor Stock Will Surge by 22% Before 2026 Ends",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-taiwan-semiconductor-stock-surge-195000760.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-04T19:50:00Z"
         }
       ]
     },
@@ -150,7 +124,7 @@
       "price": 95.8,
       "previous_close": 91.67,
       "change_pct": 4.51,
-      "market_cap": 503383637012.54175,
+      "market_cap": 506408900231.51306,
       "headlines": [
         {
           "title": "Coatue Opened Positions in Intel and Cerebras. Is the AI Chip Trade Broadening Beyond NVIDIA?",
@@ -290,7 +264,7 @@
       "price": 115.9,
       "previous_close": 113.63,
       "change_pct": 2.0,
-      "market_cap": 16461308741.520996,
+      "market_cap": 16428733539.392128,
       "headlines": [
         {
           "title": "Why Is Lattice (LSCC) Down 11.3% Since Last Earnings Report?",
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 79605.16,
-      "change_pct": -2.05
+      "price": 79642.33,
+      "change_pct": -2.0
     },
     {
       "label": "Gold",

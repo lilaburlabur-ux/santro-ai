@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-05T21:37:13+00:00",
-  "as_of_local": "2026-09-05 21:37:13 UTC",
+  "as_of_utc": "2026-09-05T21:52:15+00:00",
+  "as_of_local": "2026-09-05 21:52:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NXPI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -255,6 +253,34 @@
           "url": "https://finance.yahoo.com/markets/options/articles/far-amd-stock-swing-calm-163114102.html",
           "publisher": "Trefis",
           "published": "2026-09-04T16:31:14Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors",
+      "price": 227.84,
+      "previous_close": 224.99,
+      "change_pct": 1.27,
+      "market_cap": 57453084480.707214,
+      "headlines": [
+        {
+          "title": "Ambarella Beat Estimates but Fell as NXP Buyout Talk Lingered. Is the Edge-AI Upside Already Priced In?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ambarella-beat-estimates-fell-nxp-224000253.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-04T22:40:00Z"
+        },
+        {
+          "title": "What Is The Market Really Expecting From MPWR Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/market-really-expecting-mpwr-stock-213206230.html",
+          "publisher": "Trefis",
+          "published": "2026-09-04T21:32:06Z"
+        },
+        {
+          "title": "Is NXP Semiconductors Stock Underperforming the S&P 500?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-stock-underperforming-p-182704441.html",
+          "publisher": "Barchart",
+          "published": "2026-09-04T18:27:04Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 79844.68,
-      "change_pct": 0.22
+      "price": 79916.78,
+      "change_pct": 0.31
     },
     {
       "label": "Gold",

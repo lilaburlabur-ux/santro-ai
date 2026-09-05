@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-05T21:22:08+00:00",
-  "as_of_local": "2026-09-05 21:22:08 UTC",
+  "as_of_utc": "2026-09-05T21:37:13+00:00",
+  "as_of_local": "2026-09-05 21:37:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,22 +15,22 @@
       "market_cap": 5562502934738.159,
       "headlines": [
         {
+          "title": "Coca-Cola Stock at $88: Here's Why Investors Should Pause",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-stock-88-heres-212617123.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-05T21:26:17Z"
+        },
+        {
+          "title": "Can Dogecoin Reach $1 in the Next 12 Months?",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/dogecoin-reach-1-next-12-211500544.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-05T21:15:00Z"
+        },
+        {
           "title": "Prediction: Here's What a $5,000 Investment in Eli Lilly Could Look Like in 5 Years",
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-heres-5-000-investment-210800354.html",
           "publisher": "Motley Fool",
           "published": "2026-09-05T21:08:00Z"
-        },
-        {
-          "title": "3 Nuclear Stocks to Buy With $2,000 After One Fell 83%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-nuclear-stocks-buy-2-204301311.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-05T20:43:01Z"
-        },
-        {
-          "title": "Should You Buy AMC Entertainment Holdings (AMC) Stock While It's Below $3?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-amc-entertainment-holdings-amc-200800509.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-05T20:08:00Z"
         }
       ]
     },
@@ -253,34 +255,6 @@
           "url": "https://finance.yahoo.com/markets/options/articles/far-amd-stock-swing-calm-163114102.html",
           "publisher": "Trefis",
           "published": "2026-09-04T16:31:14Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 227.84,
-      "previous_close": 224.99,
-      "change_pct": 1.27,
-      "market_cap": 57453084480.707214,
-      "headlines": [
-        {
-          "title": "Ambarella Beat Estimates but Fell as NXP Buyout Talk Lingered. Is the Edge-AI Upside Already Priced In?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ambarella-beat-estimates-fell-nxp-224000253.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-04T22:40:00Z"
-        },
-        {
-          "title": "What Is The Market Really Expecting From MPWR Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/market-really-expecting-mpwr-stock-213206230.html",
-          "publisher": "Trefis",
-          "published": "2026-09-04T21:32:06Z"
-        },
-        {
-          "title": "Is NXP Semiconductors Stock Underperforming the S&P 500?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-stock-underperforming-p-182704441.html",
-          "publisher": "Barchart",
-          "published": "2026-09-04T18:27:04Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 79822.65,
-      "change_pct": 0.19
+      "price": 79844.68,
+      "change_pct": 0.22
     },
     {
       "label": "Gold",

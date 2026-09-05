@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-05T23:41:49+00:00",
-  "as_of_local": "2026-09-05 23:41:49 UTC",
+  "as_of_utc": "2026-09-05T23:55:21+00:00",
+  "as_of_local": "2026-09-05 23:55:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5562502934738.159,
       "headlines": [
         {
+          "title": "Cerebras Has a $25.4 Billion Backlog, and One OpenAI Agreement Is Behind Much of It",
+          "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-25-4-billion-backlog-233401288.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-05T23:34:01Z"
+        },
+        {
           "title": "IonQ vs. Rigetti Computing: Which Pure-Play Quantum Pioneer Has the Stronger Technology Advantage?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-vs-rigetti-computing-pure-232000862.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-ai-company-reveals-231700540.html",
           "publisher": "TheStreet",
           "published": "2026-09-05T23:17:00Z"
-        },
-        {
-          "title": "This eVTOL Stock Could Set Early Investors Up for Life",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/evtol-stock-could-set-early-224900100.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-05T22:49:00Z"
         }
       ]
     },
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 2.96,
+          "price": 174.0,
           "currency": "TWD"
         }
       ]
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 2.96,
+        "price": 174.0,
         "currency": "TWD"
       }
     ]
@@ -585,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 79814.98,
-      "change_pct": 0.18
+      "price": 79855.95,
+      "change_pct": 0.23
     },
     {
       "label": "Gold",

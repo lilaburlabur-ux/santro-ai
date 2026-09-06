@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-06T20:58:44+00:00",
-  "as_of_local": "2026-09-06 20:58:44 UTC",
+  "as_of_utc": "2026-09-06T21:13:41+00:00",
+  "as_of_local": "2026-09-06 21:13:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -313,34 +315,6 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 144.65,
-      "previous_close": 147.21,
-      "change_pct": -1.74,
-      "market_cap": 7351490949.553375,
-      "headlines": [
-        {
-          "title": "MarketBeat Week in Review \u2013 08/31 - 09/04",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-08-31-110000926.html",
-          "publisher": "MarketBeat",
-          "published": "2026-09-05T11:00:00Z"
-        },
-        {
-          "title": "Jim Cramer Highlights AeroVironment\u2019s (AVAV) Steep Competition",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-aerovironment-avav-222638913.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-04T22:26:38Z"
-        },
-        {
-          "title": "What Does AeroVironment (AVAV) Winning A $464.8 Million Army Laser Deal Change?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/does-aerovironment-avav-winning-464-230910548.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-03T23:09:10Z"
-        }
-      ]
-    },
-    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 98.99,
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 79895.38,
-      "change_pct": 0.09
+      "price": 79997.93,
+      "change_pct": 0.22
     },
     {
       "label": "Gold",

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-07T02:30:24+00:00",
-  "as_of_local": "2026-09-07 02:30:24 UTC",
+  "as_of_utc": "2026-09-07T02:35:29+00:00",
+  "as_of_local": "2026-09-07 02:35:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -19,16 +19,16 @@
           "published": "2026-09-06T13:26:55Z"
         },
         {
+          "title": "Nuclear Stock Face-Off: Is Constellation Energy or Vistra the Better Buy Right Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stock-face-off-constellation-022200012.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-07T02:22:00Z"
+        },
+        {
           "title": "Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-09-07T02:03:43Z"
-        },
-        {
-          "title": "This Vanguard ETF Is Up 27% This Year: Is It Still a Buy for Long-Term Investors?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-etf-27-still-buy-012600131.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-07T01:26:00Z"
         }
       ]
     },
@@ -41,6 +41,12 @@
       "market_cap": 2224530587909.265,
       "headlines": [
         {
+          "title": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies",
+          "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-flexes-chip-diplomacy-muscles-022559044.html",
+          "publisher": "Reuters",
+          "published": "2026-09-07T02:30:14Z"
+        },
+        {
           "title": "Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-taiwan-semiconductors-market-value-225101856.html",
           "publisher": "Motley Fool",
           "published": "2026-09-06T22:51:01Z"
-        },
-        {
-          "title": "NVIDIA (NVDA)\u2019s $20 Billion Groq Bet Goes Live This Year With New AI Racks",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-20-billion-groq-190737433.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-06T19:07:37Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "price": 95.8,
       "previous_close": 91.67,
       "change_pct": 4.51,
-      "market_cap": 503383637012.54175,
+      "market_cap": 506408900231.51306,
       "headlines": [
         {
           "title": "Did Nvidia Just Say Checkmate to AMD and Intel?",
@@ -290,7 +290,7 @@
       "price": 115.9,
       "previous_close": 113.63,
       "change_pct": 2.0,
-      "market_cap": 16461308741.520996,
+      "market_cap": 16428733539.392128,
       "headlines": [
         {
           "title": "Why Is Lattice (LSCC) Down 11.3% Since Last Earnings Report?",
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 5.4,
-          "price": 1736000.0,
+          "change_pct": 5.59,
+          "price": 1739000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 7.11,
-          "price": 58330.0,
+          "change_pct": 7.03,
+          "price": 58290.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 3.43,
-          "price": 513.0,
+          "change_pct": 3.63,
+          "price": 514.0,
           "currency": "TWD"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 5.4,
-        "price": 1736000.0,
+        "change_pct": 5.59,
+        "price": 1739000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 7.11,
-        "price": 58330.0,
+        "change_pct": 7.03,
+        "price": 58290.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 3.43,
-        "price": 513.0,
+        "change_pct": 3.63,
+        "price": 514.0,
         "currency": "TWD"
       },
       {
@@ -585,7 +585,7 @@
     },
     {
       "label": "BTC",
-      "price": 80029.62,
+      "price": 80028.0,
       "change_pct": 0.26
     },
     {

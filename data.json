@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-07T15:21:42+00:00",
-  "as_of_local": "2026-09-07 15:21:42 UTC",
+  "as_of_utc": "2026-09-07T15:26:43+00:00",
+  "as_of_local": "2026-09-07 15:26:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -91,6 +89,34 @@
       ]
     },
     {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 1016.59,
+      "previous_close": 958.16,
+      "change_pct": 6.1,
+      "market_cap": 1148129813705.4724,
+      "headlines": [
+        {
+          "title": "Everyone Is Watching Nvidia. But This Memory Stock Could Be the Next AI Winner",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/everyone-watching-nvidia-memory-stock-150022916.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-07T15:00:22Z"
+        },
+        {
+          "title": "Micron Has Skyrocketed 256% in 2026. What Would It Take to Get MU Stock Up to $1,250?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-skyrocketed-256-2026-mu-144045352.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-07T14:40:45Z"
+        },
+        {
+          "title": "Can Silicon Motion's CRA Compliance Efforts Drive Future Growth?",
+          "url": "https://finance.yahoo.com/technology/articles/silicon-motions-cra-compliance-efforts-141100714.html",
+          "publisher": "Zacks",
+          "published": "2026-09-07T14:11:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 477.57,
@@ -124,7 +150,7 @@
       "price": 95.8,
       "previous_close": 91.67,
       "change_pct": 4.51,
-      "market_cap": 503383637012.54175,
+      "market_cap": 506408900231.51306,
       "headlines": [
         {
           "title": "Prediction: Intel Stock Is Up Big in 2026. But the Best May Still Be Ahead",
@@ -264,7 +290,7 @@
       "price": 115.9,
       "previous_close": 113.63,
       "change_pct": 2.0,
-      "market_cap": 16461308741.520996,
+      "market_cap": 16428733539.392128,
       "headlines": [
         {
           "title": "Why Is Lattice (LSCC) Down 11.3% Since Last Earnings Report?",
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 6.1,
+          "price": 1016.59,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 6.1,
+        "price": 1016.59,
         "currency": "USD"
       },
       {
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 79098.92,
-      "change_pct": -1.56
+      "price": 79110.97,
+      "change_pct": -1.54
     },
     {
       "label": "Gold",

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-07T15:21:36+00:00",
+  "as_of": "2026-09-07T15:36:47+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -113,10 +113,10 @@
    "volume_vs_avg": "~0.6x",
    "heat_score": 37,
    "direction": "down",
-   "why": "WDAY Jumps 49.7% in 3 Months as AI Momentum Builds: Can it Continue?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/wday-jumps-49-7-3-145500996.html",
-   "published": "2026-09-07T14:55:00Z",
+   "why": "Workday's Q2 Beat and AI Gains Raise the Stakes for Fiscal 2028 Growth",
+   "catalyst_type": "financing",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/workdays-q2-beat-ai-gains-150200481.html",
+   "published": "2026-09-07T15:02:00Z",
    "sector": "AI Applications & Data Software"
   },
   {

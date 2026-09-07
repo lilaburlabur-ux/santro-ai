@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-07T04:16:15+00:00",
-  "as_of_local": "2026-09-07 04:16:15 UTC",
+  "as_of_utc": "2026-09-07T04:31:22+00:00",
+  "as_of_local": "2026-09-07 04:31:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -145,34 +147,6 @@
       ]
     },
     {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 95.8,
-      "previous_close": 91.67,
-      "change_pct": 4.51,
-      "market_cap": 503383637012.54175,
-      "headlines": [
-        {
-          "title": "Nvidia\u2019s $99 Billion Portfolio Is Turning Intel and CoreWeave Into an AI Stress Test",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-99-billion-portfolio-turning-034218904.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-07T03:42:18Z"
-        },
-        {
-          "title": "Did Nvidia Just Say Checkmate to AMD and Intel?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/did-nvidia-just-checkmate-amd-223001761.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-06T22:30:01Z"
-        },
-        {
-          "title": "China Is Still Chasing Nvidia\u2019s 3-Year-Old Chip \u2014 While Nvidia Has Moved Generations Ahead",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/china-still-chasing-nvidia-3-143511624.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-06T14:35:11Z"
-        }
-      ]
-    },
-    {
       "symbol": "ARM",
       "name": "Arm Holdings",
       "price": 252.09,
@@ -290,7 +264,7 @@
       "price": 115.9,
       "previous_close": 113.63,
       "change_pct": 2.0,
-      "market_cap": 16461308741.520996,
+      "market_cap": 16428733539.392128,
       "headlines": [
         {
           "title": "Why Is Lattice (LSCC) Down 11.3% Since Last Earnings Report?",
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 6.31,
-          "price": 1751000.0,
+          "change_pct": 6.74,
+          "price": 1758000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 4.4,
-          "price": 266750.0,
+          "change_pct": 4.7,
+          "price": 267500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 8.34,
-          "price": 59000.0,
+          "change_pct": 8.35,
+          "price": 59010.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 3.43,
-          "price": 513.0,
+          "change_pct": 3.23,
+          "price": 512.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 4.31,
-          "price": 181.5,
+          "change_pct": 3.45,
+          "price": 180.0,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 6.31,
-        "price": 1751000.0,
+        "change_pct": 6.74,
+        "price": 1758000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 4.4,
-        "price": 266750.0,
+        "change_pct": 4.7,
+        "price": 267500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 8.34,
-        "price": 59000.0,
+        "change_pct": 8.35,
+        "price": 59010.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 3.43,
-        "price": 513.0,
+        "change_pct": 3.23,
+        "price": 512.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 4.31,
-        "price": 181.5,
+        "change_pct": 3.45,
+        "price": 180.0,
         "currency": "TWD"
       }
     ]
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 79669.52,
-      "change_pct": -0.19
+      "price": 79590.5,
+      "change_pct": -0.29
     },
     {
       "label": "Gold",

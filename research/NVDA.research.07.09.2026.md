@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
+| Wall Street Investment Firm Bernstein Thinks Bitcoin Could Hit $300,000 by 2029. Is Bitcoin Now a Buy? | Motley Fool | 2026-09-07 |
+| Why UWM Holdings Stock Dived by 20% Last Month | Motley Fool | 2026-09-07 |
 | The AI Memory Stock That Could Outshine the Obvious Picks | Motley Fool | 2026-09-07 |
 | Palantir Stock Leads August Rally -- Nvidia, Salesforce and Super Micro Jump | GuruFocus.com | 2026-09-07 |
-| Nvidia Insider Makes Stunning $410 Million Stock Move | GuruFocus.com | 2026-09-07 |
-| Tencent Slips 1% While Its AI-Chip Bet Attacks Nvidia's China Moat | GuruFocus.com | 2026-09-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

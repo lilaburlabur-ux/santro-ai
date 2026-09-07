@@ -15,7 +15,7 @@ Signed file: `MRVL.research.07.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +249.49%; price +47.35% vs SMA200. |
+| Technical momentum | High | 1Y +249.50%; price +47.35% vs SMA200. |
 | Fresh setup quality | Poor / broken | -29.34% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 27.93%, revenue growth 36.50%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 33.26, EV/Sales 20.89. |

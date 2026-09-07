@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-07T16:47:54+00:00",
+  "as_of": "2026-09-07T17:03:01+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,19 +9,19 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "PATH",
-   "company": "UiPath Inc",
-   "move_pct": -16.63,
-   "price": 15.19,
-   "volume": 104480900,
-   "volume_vs_avg": "~2x",
-   "heat_score": 86,
+   "ticker": "ADBE",
+   "company": "Adobe Inc",
+   "move_pct": -6.73,
+   "price": 266.51,
+   "volume": 6637100,
+   "volume_vs_avg": "~1.4x",
+   "heat_score": 46,
    "direction": "down",
-   "why": "UiPath, Inc. (PATH) is Attracting Investor Attention: Here is What You Should Know",
+   "why": "Is Adobe's Stock Heading for $300?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/uipath-inc-path-attracting-investor-130005719.html",
-   "published": "2026-09-07T13:00:05Z",
-   "sector": "AI Software & Cloud Infrastructure"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/adobes-stock-heading-300-162229587.html",
+   "published": "2026-09-07T16:22:29Z",
+   "sector": "AI Applications & Data Software"
   },
   {
    "rank": 2,
@@ -81,10 +81,10 @@
    "volume_vs_avg": "~1.0x",
    "heat_score": 41,
    "direction": "up",
-   "why": "Micron Has Skyrocketed 256% in 2026. What Would It Take to Get MU Stock Up to $1,250?",
+   "why": "Not Nvidia. Not Micron. This Is My Top AI Infrastructure Stock to Buy Right Now (Hint: It Can Double Within 3 Years)",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/micron-skyrocketed-256-2026-mu-144045352.html",
-   "published": "2026-09-07T14:40:45Z",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-micron-top-162301051.html",
+   "published": "2026-09-07T16:23:01Z",
    "sector": "AI Chips & Compute"
   },
   {
@@ -102,22 +102,6 @@
    "source_url": "https://finance.yahoo.com/technology/ai/articles/workdays-q2-beat-ai-gains-150200481.html",
    "published": "2026-09-07T15:02:00Z",
    "sector": "AI Applications & Data Software"
-  },
-  {
-   "rank": 7,
-   "ticker": "LRCX",
-   "company": "Lam Research Corp",
-   "move_pct": 5.12,
-   "price": 307.65,
-   "volume": 8355500,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "Lam Research Nearly Triples in a Year: Is the Stock Still Worth Buying?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-nearly-triples-stock-125800548.html",
-   "published": "2026-09-07T12:58:00Z",
-   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

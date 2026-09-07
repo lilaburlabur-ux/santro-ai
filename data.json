@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-07T15:16:36+00:00",
-  "as_of_local": "2026-09-07 15:16:36 UTC",
+  "as_of_utc": "2026-09-07T15:21:42+00:00",
+  "as_of_local": "2026-09-07 15:21:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-trending-stock-130004580.html",
           "publisher": "Zacks",
           "published": "2026-09-07T13:00:04Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 1016.59,
-      "previous_close": 958.16,
-      "change_pct": 6.1,
-      "market_cap": 1148129813705.4724,
-      "headlines": [
-        {
-          "title": "Everyone Is Watching Nvidia. But This Memory Stock Could Be the Next AI Winner",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/everyone-watching-nvidia-memory-stock-150022916.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-07T15:00:22Z"
-        },
-        {
-          "title": "Micron Has Skyrocketed 256% in 2026. What Would It Take to Get MU Stock Up to $1,250?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-skyrocketed-256-2026-mu-144045352.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-07T14:40:45Z"
-        },
-        {
-          "title": "Can Silicon Motion's CRA Compliance Efforts Drive Future Growth?",
-          "url": "https://finance.yahoo.com/technology/articles/silicon-motions-cra-compliance-efforts-141100714.html",
-          "publisher": "Zacks",
-          "published": "2026-09-07T14:11:00Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 6.1,
-          "price": 1016.59,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 6.1,
-        "price": 1016.59,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 79027.84,
-      "change_pct": -1.65
+      "price": 79098.92,
+      "change_pct": -1.56
     },
     {
       "label": "Gold",

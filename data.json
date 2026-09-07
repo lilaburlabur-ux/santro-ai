@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-09-07T13:55:17+00:00",
-  "as_of_local": "2026-09-07 13:55:17 UTC",
+  "as_of_utc": "2026-09-07T13:56:27+00:00",
+  "as_of_local": "2026-09-07 13:56:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 230.36,
+      "previous_close": 228.45,
+      "change_pct": 0.84,
+      "market_cap": 5562502934738.159,
+      "headlines": [
+        {
+          "title": "Palantir Stock Could Make a Dramatic Move Over the Next Year (Hint: It Implies a Big Move)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-could-dramatic-move-134300329.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-07T13:43:00Z"
+        },
+        {
+          "title": "Are You Ready for Early Retirement? 3 Signs You Can Safely Move Forward.",
+          "url": "https://finance.yahoo.com/markets/articles/ready-early-retirement-3-signs-134300293.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-07T13:43:00Z"
+        },
+        {
+          "title": "3 Dividend Kings You Can Buy and Never Sell",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-kings-buy-never-133500126.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-07T13:35:00Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -124,7 +150,7 @@
       "price": 95.8,
       "previous_close": 91.67,
       "change_pct": 4.51,
-      "market_cap": 506408900231.51306,
+      "market_cap": 503383637012.54175,
       "headlines": [
         {
           "title": "NVIDIA's Hugging Face Buyout: Can It Further Strengthen AI Dominance?",
@@ -264,7 +290,7 @@
       "price": 115.9,
       "previous_close": 113.63,
       "change_pct": 2.0,
-      "market_cap": 16428733539.392128,
+      "market_cap": 16461308741.520996,
       "headlines": [
         {
           "title": "Why Is Lattice (LSCC) Down 11.3% Since Last Earnings Report?",
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 79403.08,
-      "change_pct": -1.18
+      "price": 79371.02,
+      "change_pct": -1.22
     },
     {
       "label": "Gold",

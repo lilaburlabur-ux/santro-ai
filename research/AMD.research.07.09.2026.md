@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| AMD Stock Jumps After Unveiling $100,000-Plus AI Workstation for 2027 | GuruFocus.com | 2026-09-07 |
 | Nvidia, Microsoft at Center of $7 Trillion AI Boom | GuruFocus.com | 2026-09-07 |
 | Cathie Wood Is Moving Money From Palantir Into Rocket Lab and Fintech | GuruFocus.com | 2026-09-07 |
 | Wall Street Is Worried About AMD. Here’s Why Long-Term Investors Shouldn’t Be | 24/7 Wall St. | 2026-09-07 |
-| Cathie Wood Dumps $25 Million of Palantir Shares. Should PLTR Investors Worry? | GuruFocus.com | 2026-09-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

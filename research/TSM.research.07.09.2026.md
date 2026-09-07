@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| TSMC Rises Nearly 3% as $265 Billion Becomes Taiwan's Diplomatic Currency | GuruFocus.com | 2026-09-07 |
 | TSMC's $265 Billion U.S. Bet Is Becoming Part of Taiwan's Chip Diplomacy | GuruFocus.com | 2026-09-07 |
 | Arm Expands Into AI Accelerators With Samsung — But It’s Not the Data Center Goldmine Investors Hope For | 24/7 Wall St. | 2026-09-07 |
 | South Korea’s ‘AI for All’ Is Great for Chipmakers, but It Will Run Into Wall of Reality | 24/7 Wall St. | 2026-09-07 |
-| Taiwan Semiconductor Manufacturing Company (TSM) Raises Guidance as Demand for Advanced Chips Soars | Insider Monkey | 2026-09-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

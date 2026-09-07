@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-07T23:34:42+00:00",
-  "as_of_local": "2026-09-07 23:34:42 UTC",
+  "as_of_utc": "2026-09-07T23:39:47+00:00",
+  "as_of_local": "2026-09-07 23:39:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -150,7 +152,7 @@
       "price": 95.8,
       "previous_close": 91.67,
       "change_pct": 4.51,
-      "market_cap": 506408900231.51306,
+      "market_cap": 503383637012.54175,
       "headlines": [
         {
           "title": "5-star analyst resets Intel stock price target",
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/dell-expands-consumer-pc-reach-165000055.html",
           "publisher": "Zacks",
           "published": "2026-09-07T16:50:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 252.09,
-      "previous_close": 242.59,
-      "change_pct": 3.92,
-      "market_cap": 269231755348.08243,
-      "headlines": [
-        {
-          "title": "Arm Expands Into AI Accelerators With Samsung \u2014 But It\u2019s Not the Data Center Goldmine Investors Hope For",
-          "url": "https://finance.yahoo.com/technology/ai/articles/arm-expands-ai-accelerators-samsung-162445436.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-07T16:24:45Z"
-        },
-        {
-          "title": "Rising CPU Demand Positions Arm Holdings (ARM) for Gains",
-          "url": "https://finance.yahoo.com/technology/articles/rising-cpu-demand-positions-arm-130912155.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-07T13:09:12Z"
-        },
-        {
-          "title": "Marvell Rises 6% as Beaten-Down AI Silicon Bounces, Qualcomm Barely Budges",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-rises-6-beaten-down-160218902.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-04T16:02:18Z"
         }
       ]
     },
@@ -290,7 +264,7 @@
       "price": 115.9,
       "previous_close": 113.63,
       "change_pct": 2.0,
-      "market_cap": 16428733539.392128,
+      "market_cap": 16461308741.520996,
       "headlines": [
         {
           "title": "Why Is Lattice (LSCC) Down 11.3% Since Last Earnings Report?",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78990.16,
-      "change_pct": -1.69
+      "price": 79018.06,
+      "change_pct": -1.66
     },
     {
       "label": "Gold",
-      "price": 4455.9,
-      "change_pct": 0.59
+      "price": 4455.6,
+      "change_pct": 0.58
     },
     {
       "label": "Nasdaq100",

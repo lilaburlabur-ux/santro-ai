@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-07T23:39:47+00:00",
-  "as_of_local": "2026-09-07 23:39:47 UTC",
+  "as_of_utc": "2026-09-07T23:41:45+00:00",
+  "as_of_local": "2026-09-07 23:41:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -97,26 +95,7 @@
       "previous_close": 958.16,
       "change_pct": 6.1,
       "market_cap": 1148129813705.4724,
-      "headlines": [
-        {
-          "title": "The AI Memory Stock That Could Outshine the Obvious Picks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-memory-stock-could-outshine-220500396.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-07T22:05:00Z"
-        },
-        {
-          "title": "Apple's $54 Billion iPhone Engine Hits an AI Memory Squeeze",
-          "url": "https://finance.yahoo.com/technology/articles/apples-54-billion-iphone-engine-215612819.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-09-07T21:56:12Z"
-        },
-        {
-          "title": "Micron's $50 Billion Guide Gets an 8.3% Signal From Seoul",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microns-50-billion-guide-gets-215138948.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-09-07T21:51:38Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "AMD",
@@ -171,6 +150,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/dell-expands-consumer-pc-reach-165000055.html",
           "publisher": "Zacks",
           "published": "2026-09-07T16:50:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 252.09,
+      "previous_close": 242.59,
+      "change_pct": 3.92,
+      "market_cap": 269231755348.08243,
+      "headlines": [
+        {
+          "title": "Arm Expands Into AI Accelerators With Samsung \u2014 But It\u2019s Not the Data Center Goldmine Investors Hope For",
+          "url": "https://finance.yahoo.com/technology/ai/articles/arm-expands-ai-accelerators-samsung-162445436.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-07T16:24:45Z"
+        },
+        {
+          "title": "Rising CPU Demand Positions Arm Holdings (ARM) for Gains",
+          "url": "https://finance.yahoo.com/technology/articles/rising-cpu-demand-positions-arm-130912155.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-07T13:09:12Z"
+        },
+        {
+          "title": "Marvell Rises 6% as Beaten-Down AI Silicon Bounces, Qualcomm Barely Budges",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-rises-6-beaten-down-160218902.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-04T16:02:18Z"
         }
       ]
     },
@@ -559,13 +566,13 @@
     },
     {
       "label": "BTC",
-      "price": 79018.06,
-      "change_pct": -1.66
+      "price": 79035.8,
+      "change_pct": -1.64
     },
     {
       "label": "Gold",
-      "price": 4455.6,
-      "change_pct": 0.58
+      "price": 4457.3,
+      "change_pct": 0.62
     },
     {
       "label": "Nasdaq100",

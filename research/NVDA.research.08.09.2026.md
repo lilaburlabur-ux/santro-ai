@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Bond yield worries persist as oil edges higher: AlphaCheck | Yahoo Finance | 2026-09-08 |
 | What investors 'really' need to see from Oracle earnings this week | Yahoo Finance Video | 2026-09-08 |
-| Is the Quantum Computing Threat to Bitcoin Overblown? These New Developments Suggest That's the Case. | Motley Fool | 2026-09-08 |
-| Why Oracle Stock Rose Nearly 15% Last Month | Motley Fool | 2026-09-08 |
+| AMD Jumps 6.7% While Amazon Opens a $60 Billion AI-Chip Door | GuruFocus.com | 2026-09-08 |
+| Nvidia vs. Broadcom: Comparing Recent Quarterly Revenue Trajectories | Motley Fool | 2026-09-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

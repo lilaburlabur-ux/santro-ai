@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| AMD Stock Spikes 6% After CFO Claims Total Addressable Market To Hit $3 Trillion In 2030 | Stocktwits | 2026-09-08 |
-| AMD, Amgen, Novartis, Qualcomn, Corning, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-08 |
-| AMD Stock Rises as CFO Claims Its Addressable Market Could Reach $3 Trillion | Barrons.com | 2026-09-08 |
-| TSMC, IBD Stock Of The Day, Rises Above Early Buy Point As Chip Stocks Rally | Investor's Business Daily | 2026-09-08 |
+| AMD Jumps 6.7% While Amazon Opens a $60 Billion AI-Chip Door | GuruFocus.com | 2026-09-08 |
+| AMD Guides to $70 Billion of 2027 Data Center Revenue | GuruFocus.com | 2026-09-08 |
+| Dow Jones Futures: Dow Breaks Support But AMD, HPE Are New Buys; Apple iPhone Event Due | Investor's Business Daily | 2026-09-08 |
+| Intel Leads Chip Stocks Rally as Qualcomm, AMD and Broadcom Stocks Jump | GuruFocus.com | 2026-09-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -123,7 +123,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | 52W low | $151.41 | Inst. ownership | 75.52% |
 | P/E (ttm) | 129.02 | Insider ownership | 0.42% |
 | Forward P/E | 32.60 | Short float | 2.46% |
-| PEG (trailing) | 0.47 | Avg volume | 26,167,150 |
+| PEG (trailing) | 0.49 | Avg volume | 26,167,150 |
 | P/S | 19.99 | Employees | 31,000 |
 | P/B | 12.28 | Analyst rec (1=buy..5=sell) | 1.5 |
 

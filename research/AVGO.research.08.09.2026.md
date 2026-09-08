@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Broadcom CEO Sees AI Value Flowing to Frontier Models and Custom Chips | MarketBeat | 2026-09-08 |
+| Intel Leads Chip Stocks Rally as Qualcomm, AMD and Broadcom Stocks Jump | GuruFocus.com | 2026-09-08 |
+| TSMC, IBD Stock Of The Day, Rises Above Early Buy Point As Chip Stocks Rally | Investor's Business Daily | 2026-09-08 |
 | Why Broadcom Stock Rallied Tuesday Morning | Motley Fool | 2026-09-08 |
-| Jim Cramer Names 2 Stocks Set to Win From ChatGPT-6 Astra Boom | BeInCrypto | 2026-09-08 |
-| Broadcom vs. Marvell: Which Custom AI Chip Stock Is the Better Buy? | Motley Fool | 2026-09-08 |
-| Jim Cramer picks Nvidia and Broadcom as OpenAI GPT-6 Astra winners | Quartz | 2026-09-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

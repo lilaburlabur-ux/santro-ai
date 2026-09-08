@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
-| TSMC, IBD Stock Of The Day, Rises Above Early Buy Point As Chip Stocks Rally | Investor's Business Daily | 2026-09-08 |
-| ASML Shares Jump on Breakthrough Chipmaking Plans With Intel and TSMC | GuruFocus.com | 2026-09-08 |
-| Taiwan Semiconductor Just Set a New Company Record. A New All-Time High Stock Price Is Coming | Motley Fool | 2026-09-08 |
-| AI Could Eventually Crack Cancer and Drug Discovery, Says Arm CEO — But This Is What’s Holding It Back | Benzinga | 2026-09-08 |
+| AMD Guides to $70 Billion of 2027 Data Center Revenue | GuruFocus.com | 2026-09-08 |
+| Dow Jones Futures: Dow Breaks Support But AMD, HPE Are New Buys; Apple iPhone Event Due | Investor's Business Daily | 2026-09-08 |
+| Bank of America Sees ASML Stock's Next Big AI Trigger | GuruFocus.com | 2026-09-08 |
+| Intel Leads Chip Stocks Rally as Qualcomm, AMD and Broadcom Stocks Jump | GuruFocus.com | 2026-09-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

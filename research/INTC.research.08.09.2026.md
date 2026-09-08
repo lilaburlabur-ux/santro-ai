@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| S&P 500 falls as AI worries hit software makers | Reuters | 2026-09-08 |
-| AMD, Amgen, Novartis, Qualcomn, Corning, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-08 |
-| Sector Update: Tech Stocks Rise Late Afternoon | MT Newswires | 2026-09-08 |
-| Why Broadcom Stock Rallied Tuesday Morning | Motley Fool | 2026-09-08 |
+| Update: US Equity Indexes Drop as Houthi Strikes on Saudi Arabia's Energy Infrastructure Lift Crude Oil | MT Newswires | 2026-09-08 |
+| Bank of America Sees ASML Stock's Next Big AI Trigger | GuruFocus.com | 2026-09-08 |
+| Intel Leads Chip Stocks Rally as Qualcomm, AMD and Broadcom Stocks Jump | GuruFocus.com | 2026-09-08 |
+| An AI chip machine so pricey, three rivals had to say yes | TheStreet | 2026-09-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

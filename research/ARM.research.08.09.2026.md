@@ -36,8 +36,8 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
-| Arm’s Biggest Growth Driver May Not Be Smartphones Anymore | 24/7 Wall St. | 2026-09-08 |
 | Arm Extends AI Reach From Data Centers To Edge Devices | Investor's Business Daily | 2026-09-08 |
+| Arm’s Biggest Growth Driver May Not Be Smartphones Anymore | 24/7 Wall St. | 2026-09-08 |
 | AI Could Eventually Crack Cancer and Drug Discovery, Says Arm CEO — But This Is What’s Holding It Back | Benzinga | 2026-09-08 |
 | Stocks Pressured by Rising Crude Oil Prices | Barchart | 2026-09-08 |
 

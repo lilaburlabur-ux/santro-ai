@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-08T23:11:56+00:00",
+  "as_of": "2026-09-08T23:27:00+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,10 +9,26 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "SMR",
+   "company": "NuScale Power Corp",
+   "move_pct": 14.64,
+   "price": 11.12,
+   "volume": 53716959,
+   "volume_vs_avg": "~2x",
+   "heat_score": 85,
+   "direction": "up",
+   "why": "Jim Cramer Weighs In on GE Vernova (GEV) and NuScale Power (SMR)",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/energy/articles/jim-cramer-weighs-ge-vernova-230639655.html",
+   "published": "2026-09-08T23:06:39Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 2,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": 8.76,
-   "price": 104.19,
+   "move_pct": 8.74,
+   "price": 104.17,
    "volume": 139493818,
    "volume_vs_avg": "~1.3x",
    "heat_score": 62,
@@ -24,7 +40,7 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 2,
+   "rank": 3,
    "ticker": "HPE",
    "company": "Hewlett Packard Enterprise Co",
    "move_pct": 7.56,
@@ -36,15 +52,15 @@
    "why": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo",
-   "published": "2026-09-08T22:26:10Z",
+   "published": "2026-09-08T23:04:58Z",
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 3,
+   "rank": 4,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
-   "move_pct": 6.02,
-   "price": 506.3,
+   "move_pct": 5.89,
+   "price": 505.7,
    "volume": 27979240,
    "volume_vs_avg": "~1.2x",
    "heat_score": 42,
@@ -52,7 +68,7 @@
    "why": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo",
-   "published": "2026-09-08T22:26:10Z",
+   "published": "2026-09-08T23:04:58Z",
    "sector": "AI Chips & Compute"
   }
  ]

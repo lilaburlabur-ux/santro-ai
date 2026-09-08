@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-08T05:08:47+00:00",
-  "as_of_local": "2026-09-08 05:08:47 UTC",
+  "as_of_utc": "2026-09-08T05:13:56+00:00",
+  "as_of_local": "2026-09-08 05:13:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5562502934738.159,
       "headlines": [
         {
+          "title": "NVDA Rises Overnight After Strong Week: CEO Jensen Huang Pumps Nvidia Chips As \u2018Highly Rentable\u2019 Money-Minting Assets",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-rises-overnight-strong-week-050924878.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-08T05:09:24Z"
+        },
+        {
           "title": "Why Monday.com Stock Popped in August",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-monday-com-stock-popped-033236417.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/peter-thiels-funds-single-biggest-025401481.html",
           "publisher": "Motley Fool",
           "published": "2026-09-08T02:54:01Z"
-        },
-        {
-          "title": "Nvidia's 3-Year-Old H100 Chip Is Still Getting the Market to Pay Up, Jensen Huang Says Compute Is 'Fungible, Durable and Highly Rentable'",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-3-old-h100-chip-024401396.html",
-          "publisher": "Benzinga",
-          "published": "2026-09-08T02:44:01Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 5.27,
-          "price": 1877000.0,
+          "change_pct": 4.43,
+          "price": 1862000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 2.78,
-          "price": 277500.0,
+          "change_pct": 2.22,
+          "price": 276000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 0.74,
-          "price": 59970.0,
+          "change_pct": 0.39,
+          "price": 59760.0,
           "currency": "JPY"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 5.28,
-          "price": 189.5,
+          "change_pct": 5.0,
+          "price": 189.0,
           "currency": "TWD"
         }
       ]
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 5.27,
-        "price": 1877000.0,
+        "change_pct": 4.43,
+        "price": 1862000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 2.78,
-        "price": 277500.0,
+        "change_pct": 2.22,
+        "price": 276000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 0.74,
-        "price": 59970.0,
+        "change_pct": 0.39,
+        "price": 59760.0,
         "currency": "JPY"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 5.28,
-        "price": 189.5,
+        "change_pct": 5.0,
+        "price": 189.0,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 78642.01,
-      "change_pct": -2.13
+      "price": 78733.44,
+      "change_pct": -2.01
     },
     {
       "label": "Gold",
-      "price": 4485.2,
-      "change_pct": 1.25
+      "price": 4481.5,
+      "change_pct": 1.17
     },
     {
       "label": "Nasdaq100",

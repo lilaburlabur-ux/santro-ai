@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-08T13:21:52+00:00",
-  "as_of_local": "2026-09-08 13:21:52 UTC",
+  "as_of_utc": "2026-09-08T13:26:52+00:00",
+  "as_of_local": "2026-09-08 13:26:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -89,34 +91,6 @@
       ]
     },
     {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 1016.59,
-      "previous_close": 958.16,
-      "change_pct": 6.1,
-      "market_cap": 1148129813705.4724,
-      "headlines": [
-        {
-          "title": "Billionaire David Tepper Just Bought These 2 Artificial Intelligence (AI) Stocks That Wall Street Thinks Could Soar by 50% or More",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-just-bought-125001570.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-08T12:50:01Z"
-        },
-        {
-          "title": "Why Micron Technology Stock Surged 16.5% Last Month",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-technology-stock-surged-123304442.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-08T12:33:04Z"
-        },
-        {
-          "title": "Stocks Mostly Down Pre-Bell Amid Rising Middle East Tensions; Investors Await Key Inflation Data",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-down-pre-bell-123021200.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-08T12:30:21Z"
-        }
-      ]
-    },
-    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 477.57,
@@ -150,8 +124,14 @@
       "price": 95.8,
       "previous_close": 91.67,
       "change_pct": 4.51,
-      "market_cap": 506408900231.51306,
+      "market_cap": 503383637012.54175,
       "headlines": [
+        {
+          "title": "Intel Just Hit a Key Milestone in Its Foundry Comeback",
+          "url": "https://finance.yahoo.com/technology/articles/intel-just-hit-key-milestone-132132432.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-08T13:21:32Z"
+        },
         {
           "title": "Stocks Mostly Down Pre-Bell Amid Rising Middle East Tensions; Investors Await Key Inflation Data",
           "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-down-pre-bell-123021200.html",
@@ -163,12 +143,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/buy-super-micro-computer-handsome-122300783.html",
           "publisher": "Zacks",
           "published": "2026-09-08T12:23:00Z"
-        },
-        {
-          "title": "ASML Stock Rises 3% on TSMC and Samsung Commitments",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-stock-rises-3-tsmc-121714761.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-09-08T12:17:14Z"
         }
       ]
     },
@@ -290,7 +264,7 @@
       "price": 115.9,
       "previous_close": 113.63,
       "change_pct": 2.0,
-      "market_cap": 16428733539.392128,
+      "market_cap": 16461308741.520996,
       "headlines": [
         {
           "title": "Why Is Lattice (LSCC) Down 11.3% Since Last Earnings Report?",
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 6.1,
-          "price": 1016.59,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 6.1,
-        "price": 1016.59,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78307.64,
-      "change_pct": -1.02
+      "price": 78360.46,
+      "change_pct": -0.95
     },
     {
       "label": "Gold",
-      "price": 4450.1,
-      "change_pct": 0.46
+      "price": 4450.4,
+      "change_pct": 0.47
     },
     {
       "label": "Nasdaq100",

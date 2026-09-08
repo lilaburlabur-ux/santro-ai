@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| Druckenmiller Exited Micron and Bought Alphabet. The AI Risks Moved With Him | Insider Monkey | 2026-09-08 |
 | Micron (MU) Falls More Steeply Than Broader Market: What Investors Need to Know | Zacks | 2026-09-08 |
 | Micron and Sandisk Soar as Goldman Sees New Memory Stock Rally | GuruFocus.com | 2026-09-08 |
 | Goldman Says the Worst May Be Over for Micron and SanDisk | GuruFocus.com | 2026-09-08 |
-| Thinking of Buying Micron Stock Now? Here's 1 Green Flag and 1 Red Flag. | Motley Fool | 2026-09-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

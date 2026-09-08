@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Bond yield worries persist as oil edges higher: AlphaCheck | Yahoo Finance | 2026-09-08 |
 | What investors 'really' need to see from Oracle earnings this week | Yahoo Finance Video | 2026-09-08 |
+| Why Okta Stock Soared 22% in August and Why There's More Upside Ahead | Motley Fool | 2026-09-08 |
 | Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due | Investor's Business Daily | 2026-09-08 |
-| Goldman Sachs Just Added Vertex Pharmaceuticals to Its Conviction List. Here's the Bull Case for the Big Biotech Stock | Motley Fool | 2026-09-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

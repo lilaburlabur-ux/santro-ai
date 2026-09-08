@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-08T08:51:19+00:00",
+  "as_of": "2026-09-08T09:02:30+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "BIDU",
+   "company": "Baidu Inc ADR",
+   "move_pct": -7.61,
+   "price": 91.9,
+   "volume": 2574500,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 46,
+   "direction": "down",
+   "why": "Dow, S&P 500, Nasdaq Futures Slide As Iran Conflict Sends Oil Back Toward $100: TSLA,  NVDA, ORCL, INTC, BIDU, BABA, BE In Focus",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-083135762.html",
+   "published": "2026-09-08T08:31:35Z",
+   "sector": "AI Platforms, Internet & AdTech"
+  }
+ ]
 }

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-08T10:23:44+00:00",
-  "as_of_local": "2026-09-08 10:23:44 UTC",
+  "as_of_utc": "2026-09-08T10:28:51+00:00",
+  "as_of_local": "2026-09-08 10:28:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -119,12 +117,40 @@
       ]
     },
     {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 477.57,
+      "previous_close": 456.16,
+      "change_pct": 4.69,
+      "market_cap": 779621117764.5443,
+      "headlines": [
+        {
+          "title": "AMD Stock Jumps After Unveiling $100,000-Plus AI Workstation for 2027",
+          "url": "https://finance.yahoo.com/technology/ai/articles/amd-stock-jumps-unveiling-100-213621532.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-07T21:36:21Z"
+        },
+        {
+          "title": "Nvidia, Microsoft at Center of $7 Trillion AI Boom",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-microsoft-center-7-trillion-192652924.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-07T19:26:52Z"
+        },
+        {
+          "title": "Cathie Wood Is Moving Money From Palantir Into Rocket Lab and Fintech",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-moving-money-palantir-192133259.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-07T19:21:33Z"
+        }
+      ]
+    },
+    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 95.8,
       "previous_close": 91.67,
       "change_pct": 4.51,
-      "market_cap": 503383637012.54175,
+      "market_cap": 506408900231.51306,
       "headlines": [
         {
           "title": "Dow, S&P 500, Nasdaq Futures Slide As Iran Conflict Sends Oil Back Toward $100: TSLA,  NVDA, ORCL, INTC, BIDU, BABA, BE In Focus",
@@ -264,7 +290,7 @@
       "price": 115.9,
       "previous_close": 113.63,
       "change_pct": 2.0,
-      "market_cap": 16461308741.520996,
+      "market_cap": 16428733539.392128,
       "headlines": [
         {
           "title": "Why Is Lattice (LSCC) Down 11.3% Since Last Earnings Report?",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 78872.6,
-      "change_pct": -0.31
+      "price": 78812.24,
+      "change_pct": -0.38
     },
     {
       "label": "Gold",
-      "price": 4438.8,
-      "change_pct": 0.2
+      "price": 4442.8,
+      "change_pct": 0.29
     },
     {
       "label": "Nasdaq100",

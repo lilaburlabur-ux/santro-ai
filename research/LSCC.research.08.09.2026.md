@@ -5,7 +5,7 @@ Signed file: `LSCC.research.08.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $117.49 (2026-09-08, ~15-min delayed) |
-| Market cap | $16.69B |
+| Market cap | $16.65B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
@@ -68,13 +68,13 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Revenue (ttm) | $651.12M | Revenue growth 62.20% y/y |
 | Profitability | Gross 69.02%, operating 13.33%, net 5.58% | ROA 3.87%, ROE 4.93% |
 | Balance sheet | Cash $173.30M, debt $38.08M | Current ratio 3.02, debt/equity 4.84 |
-| Valuation | P/E 469.96, forward P/E 36.57, P/S 25.63, P/B 20.47 | EV/Sales 25.07, EV/EBITDA 177.19 |
+| Valuation | P/E 469.96, forward P/E 36.57, P/S 25.58, P/B 20.47 | EV/Sales 25.07, EV/EBITDA 177.19 |
 | Growth expectations | Earnings growth 600.00%, EPS q/q 564.60% | Analyst mean target $164.54 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 103.23% |
+| Institutional ownership | 103.22% |
 | Insider ownership | 0.60% |
 | Short float | 6.95% |
 | Short ratio (days to cover) | 2.6 |
@@ -113,7 +113,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $117.49 | EV/Sales | 25.07 |
-| Market cap | $16.69B | EV/EBITDA | 177.19 |
+| Market cap | $16.65B | EV/EBITDA | 177.19 |
 | Beta | 1.78 | Gross margin | 69.02% |
 | RSI(14) | 45.7 | Operating margin | 13.33% |
 | ATR(14) | 5.66 | Profit margin | 5.58% |
@@ -121,11 +121,11 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | SMA50 dist | -7.54% | ROE | 4.93% |
 | SMA200 dist | +8.51% | Revenue (ttm) | $651.12M |
 | 52W high | $155.27 | Revenue growth y/y | 62.20% |
-| 52W low | $61.73 | Inst. ownership | 103.23% |
+| 52W low | $61.73 | Inst. ownership | 103.22% |
 | P/E (ttm) | 469.96 | Insider ownership | 0.60% |
 | Forward P/E | 36.57 | Short float | 6.95% |
 | PEG (trailing) | — | Avg volume | 1,795,483 |
-| P/S | 25.63 | Employees | 1,174 |
+| P/S | 25.58 | Employees | 1,174 |
 | P/B | 20.47 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions

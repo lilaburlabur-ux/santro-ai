@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Nvidia vs. Broadcom: Comparing Recent Quarterly Revenue Trajectories | Motley Fool | 2026-09-08 |
 | Broadcom CEO Sees AI Value Flowing to Frontier Models and Custom Chips | MarketBeat | 2026-09-08 |
 | Intel Leads Chip Stocks Rally as Qualcomm, AMD and Broadcom Stocks Jump | GuruFocus.com | 2026-09-08 |
 | TSMC, IBD Stock Of The Day, Rises Above Early Buy Point As Chip Stocks Rally | Investor's Business Daily | 2026-09-08 |
-| Why Broadcom Stock Rallied Tuesday Morning | Motley Fool | 2026-09-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
+| Marvell Is Growing Faster And Its Margin Guide Is Standing Still | Trefis | 2026-09-08 |
+| Stock Market Today, Sept. 8: Stocks Slide Amid Surging Oil Prices, Persistent Geopolotical Tenisons | Motley Fool | 2026-09-08 |
 | Update: US Equity Indexes Drop as Houthi Strikes on Saudi Arabia's Energy Infrastructure Lift Crude Oil | MT Newswires | 2026-09-08 |
 | Bank of America Sees ASML Stock's Next Big AI Trigger | GuruFocus.com | 2026-09-08 |
-| Intel Leads Chip Stocks Rally as Qualcomm, AMD and Broadcom Stocks Jump | GuruFocus.com | 2026-09-08 |
-| An AI chip machine so pricey, three rivals had to say yes | TheStreet | 2026-09-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,7 +74,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 62.61% |
+| Institutional ownership | 62.59% |
 | Insider ownership | 13.99% |
 | Short float | 2.57% |
 | Short ratio (days to cover) | 1.1 |
@@ -122,7 +122,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | SMA50 dist | +4.33% | ROE | -10.71% |
 | SMA200 dist | +40.22% | Revenue (ttm) | $57.03B |
 | 52W high | $140.94 | Revenue growth y/y | 25.40% |
-| 52W low | $24.08 | Inst. ownership | 62.61% |
+| 52W low | $24.08 | Inst. ownership | 62.59% |
 | P/E (ttm) | — | Insider ownership | 13.99% |
 | Forward P/E | 51.16 | Short float | 2.57% |
 | PEG (trailing) | — | Avg volume | 113,398,119 |

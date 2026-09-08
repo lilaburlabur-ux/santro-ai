@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Bond yield worries persist as oil edges higher: AlphaCheck | Yahoo Finance | 2026-09-08 |
 | What investors 'really' need to see from Oracle earnings this week | Yahoo Finance Video | 2026-09-08 |
-| AMD Jumps 6.7% While Amazon Opens a $60 Billion AI-Chip Door | GuruFocus.com | 2026-09-08 |
-| Nvidia vs. Broadcom: Comparing Recent Quarterly Revenue Trajectories | Motley Fool | 2026-09-08 |
+| Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due | Investor's Business Daily | 2026-09-08 |
+| Goldman Sachs Just Added Vertex Pharmaceuticals to Its Conviction List. Here's the Bull Case for the Big Biotech Stock | Motley Fool | 2026-09-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -69,7 +69,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Profitability | Gross 74.67%, operating 66.24%, net 63.66% | ROA 53.57%, ROE 117.21% |
 | Balance sheet | Cash $62.47B, debt $38.86B | Current ratio 4.59, debt/equity 16.97 |
 | Valuation | P/E 28.57, forward P/E 14.55, P/S 17.99, P/B 23.80 | EV/Sales 18.25, EV/EBITDA 27.47 |
-| Growth expectations | Earnings growth 127.80%, EPS q/q 125.90% | Analyst mean target $327.13 (57 analysts) |
+| Growth expectations | Earnings growth 127.80%, EPS q/q 125.90% | Analyst mean target $327.65 (57 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -123,7 +123,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | 52W low | $164.98 | Inst. ownership | 71.54% |
 | P/E (ttm) | 28.57 | Insider ownership | 4.01% |
 | Forward P/E | 14.55 | Short float | 1.23% |
-| PEG (trailing) | 0.58 | Avg volume | 135,513,762 |
+| PEG (trailing) | 0.59 | Avg volume | 135,513,762 |
 | P/S | 17.99 | Employees | 42,000 |
 | P/B | 23.80 | Analyst rec (1=buy..5=sell) | 1.3 |
 

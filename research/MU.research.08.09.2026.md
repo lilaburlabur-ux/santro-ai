@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| Micron (MU) Falls More Steeply Than Broader Market: What Investors Need to Know | Zacks | 2026-09-08 |
+| Micron and Sandisk Soar as Goldman Sees New Memory Stock Rally | GuruFocus.com | 2026-09-08 |
+| Goldman Says the Worst May Be Over for Micron and SanDisk | GuruFocus.com | 2026-09-08 |
 | Thinking of Buying Micron Stock Now? Here's 1 Green Flag and 1 Red Flag. | Motley Fool | 2026-09-08 |
-| 1 Profitable Stock Worth Your Attention and 2 Facing Headwinds | StockStory | 2026-09-08 |
-| SK Hynix Jumps 7% as AI Diverts Memory From Phones, Micron Holds Steady, Apple Slips | 24/7 Wall St. | 2026-09-08 |
-| AMKR Stock Falls 10% in a Month: Why the Dip is a Buying Opportunity | Zacks | 2026-09-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -122,9 +122,9 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | 52W low | $131.25 | Inst. ownership | 79.97% |
 | P/E (ttm) | 22.62 | Insider ownership | 0.24% |
 | Forward P/E | 6.45 | Short float | 2.66% |
-| PEG (trailing) | 0.14 | Avg volume | 43,040,188 |
+| PEG (trailing) | 0.15 | Avg volume | 43,040,188 |
 | P/S | 12.51 | Employees | 53,000 |
-| P/B | 11.21 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 11.21 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

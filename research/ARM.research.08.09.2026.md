@@ -38,8 +38,8 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 |---|---|---|
 | Arm Extends AI Reach From Data Centers To Edge Devices | Investor's Business Daily | 2026-09-08 |
 | Arm’s Biggest Growth Driver May Not Be Smartphones Anymore | 24/7 Wall St. | 2026-09-08 |
-| Inflation Concerns Weigh on Stocks | Barchart | 2026-09-08 |
 | AI Could Eventually Crack Cancer and Drug Discovery, Says Arm CEO — But This Is What’s Holding It Back | Benzinga | 2026-09-08 |
+| Arm Expands Into AI Accelerators With Samsung — But It’s Not the Data Center Goldmine Investors Hope For | 24/7 Wall St. | 2026-09-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -125,7 +125,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | 52W low | $104.55 | Inst. ownership | 96.23% |
 | P/E (ttm) | 266.87 | Insider ownership | 0.07% |
 | Forward P/E | 85.36 | Short float | 12.57% |
-| PEG (trailing) | 1.99 | Avg volume | 6,759,645 |
+| PEG (trailing) | 2.07 | Avg volume | 6,759,645 |
 | P/S | 54.17 | Employees | 9,584 |
 | P/B | 32.36 | Analyst rec (1=buy..5=sell) | 2.0 |
 

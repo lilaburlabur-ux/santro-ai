@@ -36,8 +36,8 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due | Investor's Business Daily | 2026-09-08 |
 | AMD Guides to $70 Billion of 2027 Data Center Revenue | GuruFocus.com | 2026-09-08 |
-| Dow Jones Futures: Dow Breaks Support But AMD, HPE Are New Buys; Apple iPhone Event Due | Investor's Business Daily | 2026-09-08 |
 | Bank of America Sees ASML Stock's Next Big AI Trigger | GuruFocus.com | 2026-09-08 |
 | Intel Leads Chip Stocks Rally as Qualcomm, AMD and Broadcom Stocks Jump | GuruFocus.com | 2026-09-08 |
 
@@ -123,7 +123,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | 52W low | $244.49 | Inst. ownership | 15.48% |
 | P/E (ttm) | 32.59 | Insider ownership | 0.01% |
 | Forward P/E | 20.02 | Short float | 0.62% |
-| PEG (trailing) | 0.79 | Avg volume | 13,010,561 |
+| PEG (trailing) | 0.81 | Avg volume | 13,010,561 |
 | P/S | 0.51 | Employees | 76,907 |
 | P/B | 89.84 | Analyst rec (1=buy..5=sell) | 1.4 |
 

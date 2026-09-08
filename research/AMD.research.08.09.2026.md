@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| Why AMD Stock Popped Today? | GuruFocus.com | 2026-09-08 |
-| AMD Jumps 6.7% While Amazon Opens a $60 Billion AI-Chip Door | GuruFocus.com | 2026-09-08 |
-| AMD Guides to $70 Billion of 2027 Data Center Revenue | GuruFocus.com | 2026-09-08 |
-| Dow Jones Futures: Dow Breaks Support But AMD, HPE Are New Buys; Apple iPhone Event Due | Investor's Business Daily | 2026-09-08 |
+| Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due | Investor's Business Daily | 2026-09-08 |
+| Marvell Is Growing Faster And Its Margin Guide Is Standing Still | Trefis | 2026-09-08 |
+| QQQ vs QQQM: Same Index, Same Stocks, Different Fee – and the Math Says One Leaves You Thousands Richer | 24/7 Wall St. | 2026-09-08 |
+| AMD Just Put a $70 Billion Number on Its AI Ambitions | GuruFocus.com | 2026-09-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -69,7 +69,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Profitability | Gross 55.72%, operating 17.25%, net 15.58% | ROA 5.13%, ROE 10.20% |
 | Balance sheet | Cash $13.11B, debt $4.28B | Current ratio 2.61, debt/equity 6.36 |
 | Valuation | P/E 129.02, forward P/E 32.60, P/S 19.99, P/B 12.28 | EV/Sales 18.66, EV/EBITDA 80.61 |
-| Growth expectations | Earnings growth 159.50%, EPS q/q 163.40% | Analyst mean target $613.84 (49 analysts) |
+| Growth expectations | Earnings growth 159.50%, EPS q/q 163.40% | Analyst mean target $615.38 (49 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

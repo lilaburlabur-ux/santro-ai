@@ -36,9 +36,9 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Marvell Is Growing Faster And Its Margin Guide Is Standing Still | Trefis | 2026-09-08 |
 | Broadcom vs. Marvell: Which Custom AI Chip Stock Is the Better Buy? | Motley Fool | 2026-09-08 |
 | Qualcomm to Supply Customized AI Chips to Amazon Web Services' Data Centers | MT Newswires | 2026-09-08 |
-| Inflation Concerns Weigh on Stocks | Barchart | 2026-09-08 |
 | This Stock Just Became One of the Most Important AI Picks. Here’s Why | 24/7 Wall St. | 2026-09-08 |
 
 ## 3. Technical Analysis
@@ -68,13 +68,13 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $9.45B | Revenue growth 36.50% y/y |
 | Profitability | Gross 52.22%, operating 16.68%, net 27.93% | ROA 4.12%, ROE 16.52% |
 | Balance sheet | Cash $3.93B, debt $5.29B | Current ratio 3.17, debt/equity 28.52 |
-| Valuation | P/E 74.64, forward P/E 33.54, P/S 21.44, P/B 10.67 | EV/Sales 20.89, EV/EBITDA 69.25 |
+| Valuation | P/E 74.64, forward P/E 33.54, P/S 21.44, P/B 10.83 | EV/Sales 20.89, EV/EBITDA 69.25 |
 | Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $285.00 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 81.98% |
+| Institutional ownership | 81.99% |
 | Insider ownership | 0.49% |
 | Short float | 3.79% |
 | Short ratio (days to cover) | 1.2 |
@@ -121,12 +121,12 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | SMA50 dist | +2.54% | ROE | 16.52% |
 | SMA200 dist | +47.86% | Revenue (ttm) | $9.45B |
 | 52W high | $316.35 | Revenue growth y/y | 36.50% |
-| 52W low | $65.86 | Inst. ownership | 81.98% |
+| 52W low | $65.86 | Inst. ownership | 81.99% |
 | P/E (ttm) | 74.64 | Insider ownership | 0.49% |
 | Forward P/E | 33.54 | Short float | 3.79% |
 | PEG (trailing) | 1.19 | Avg volume | 34,041,593 |
 | P/S | 21.44 | Employees | 7,480 |
-| P/B | 10.67 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 10.83 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

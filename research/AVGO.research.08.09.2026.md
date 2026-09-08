@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Marvell Is Growing Faster And Its Margin Guide Is Standing Still | Trefis | 2026-09-08 |
 | Nvidia vs. Broadcom: Comparing Recent Quarterly Revenue Trajectories | Motley Fool | 2026-09-08 |
 | Broadcom CEO Sees AI Value Flowing to Frontier Models and Custom Chips | MarketBeat | 2026-09-08 |
 | Intel Leads Chip Stocks Rally as Qualcomm, AMD and Broadcom Stocks Jump | GuruFocus.com | 2026-09-08 |
-| TSMC, IBD Stock Of The Day, Rises Above Early Buy Point As Chip Stocks Rally | Investor's Business Daily | 2026-09-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -122,7 +122,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | 52W low | $292.95 | Inst. ownership | 80.17% |
 | P/E (ttm) | 47.01 | Insider ownership | 1.95% |
 | Forward P/E | 19.01 | Short float | 1.20% |
-| PEG (trailing) | 0.40 | Avg volume | 24,373,880 |
+| PEG (trailing) | 0.35 | Avg volume | 24,373,880 |
 | P/S | 19.68 | Employees | 33,000 |
 | P/B | 17.62 | Analyst rec (1=buy..5=sell) | 1.3 |
 

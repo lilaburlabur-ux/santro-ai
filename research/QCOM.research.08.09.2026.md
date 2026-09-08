@@ -37,9 +37,9 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Headline | Source | Date |
 |---|---|---|
 | Qualcomm and Amazon ink deal for custom data center chips | Yahoo Finance | 2026-09-08 |
+| Marvell Is Growing Faster And Its Margin Guide Is Standing Still | Trefis | 2026-09-08 |
 | AMD Jumps 6.7% While Amazon Opens a $60 Billion AI-Chip Door | GuruFocus.com | 2026-09-08 |
 | Stock Market Today: Dow Dives, Qualcomm Clears Key Level On Amazon Deal; Fertilizer Leader Rises (Live Coverage) | Investor's Business Daily | 2026-09-08 |
-| Intel Leads Chip Stocks Rally as Qualcomm, AMD and Broadcom Stocks Jump | GuruFocus.com | 2026-09-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

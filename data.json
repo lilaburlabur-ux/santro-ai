@@ -1,8 +1,11 @@
 {
-  "as_of_utc": "2026-09-09T23:52:13+00:00",
-  "as_of_local": "2026-09-09 23:52:13 UTC",
+  "as_of_utc": "2026-09-09T23:56:24+00:00",
+  "as_of_local": "2026-09-09 23:56:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM",
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +28,10 @@
           "published": "2026-09-09T14:12:32Z"
         },
         {
-          "title": "As Anthropic's IPO Looms, This Small Financial Powerhouse Just Got Its First Underwriting Job",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/anthropics-ipo-looms-small-financial-232500734.html",
+          "title": "Why Pulse Biosciences Stock Popped Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-pulse-biosciences-stock-popped-234409866.html",
           "publisher": "Motley Fool",
-          "published": "2026-09-09T23:25:00Z"
+          "published": "2026-09-09T23:44:09Z"
         }
       ]
     },
@@ -173,34 +176,6 @@
       ]
     },
     {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 264.23,
-      "previous_close": 261.53,
-      "change_pct": 1.03,
-      "market_cap": 282197273620.2527,
-      "headlines": [
-        {
-          "title": "Arm's Rise Hides a $200 Billion Robot Bet",
-          "url": "https://finance.yahoo.com/technology/articles/arms-rise-hides-200-billion-182700798.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-09-09T18:27:00Z"
-        },
-        {
-          "title": "Arm Extends AI Reach From Data Centers To Edge Devices",
-          "url": "https://www.investors.com/news/technology/arm-stock-arm-extends-reach-to-physical-ai/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-08T20:17:49Z"
-        },
-        {
-          "title": "Arm\u2019s Biggest Growth Driver May Not Be Smartphones Anymore",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-biggest-growth-driver-may-173027999.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-08T17:30:27Z"
-        }
-      ]
-    },
-    {
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "price": 235.01,
@@ -225,34 +200,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-faces-google-chip-184606814.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-09T18:46:06Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 176.4,
-      "previous_close": 174.09,
-      "change_pct": 1.33,
-      "market_cap": 188405863387.87613,
-      "headlines": [
-        {
-          "title": "CEO doesn\u2019t have to be a lonely job",
-          "url": "https://finance.yahoo.com/video/ceo-doesn-t-lonely-job-120000292.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-09-09T12:00:00Z"
-        },
-        {
-          "title": "The Overlooked Chip Stock Poised to Outperform Nvidia, AMD, and Broadcom in the AI Semiconductor Boom",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/overlooked-chip-stock-poised-outperform-204300185.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-09T20:43:00Z"
-        },
-        {
-          "title": "Why Qualcomm\u2019s AI Chip Deal Proves Nvidia Is Still Top Dog",
-          "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-chips-qualcomm-amazon-28cb9ee5?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-09T19:34:00Z"
         }
       ]
     },
@@ -585,13 +532,13 @@
     },
     {
       "label": "BTC",
-      "price": 78240.0,
-      "change_pct": -0.25
+      "price": 78249.63,
+      "change_pct": -0.24
     },
     {
       "label": "Gold",
-      "price": 4437.1,
-      "change_pct": 0.98
+      "price": 4437.8,
+      "change_pct": 1.0
     },
     {
       "label": "Nasdaq100",

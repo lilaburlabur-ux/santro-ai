@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | CoreWeave struggling to keep up with demand for Nvidia chips, CEO says | Yahoo Finance | 2026-09-09 |
 | A foldable iPhone is nice, but Apple still needs to improve its AI user experience | Yahoo Finance Video | 2026-09-09 |
+| Apple Releases the iPhone 18 Pro Lineup and the Foldable iPhone Duo. Do These New Products Signal a Golden Age of Product Innovation Under CEO John Ternus? | Motley Fool | 2026-09-09 |
 | Optical Cable Corporation Q3 2026 Earnings Call Summary | Moby | 2026-09-09 |
-| Destination XL Group, Inc. Q2 2027 Earnings Call Summary | Moby | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

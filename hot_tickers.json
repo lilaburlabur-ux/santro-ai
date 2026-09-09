@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-09T15:27:36+00:00",
+  "as_of": "2026-09-09T15:42:59+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,12 +9,28 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "NET",
+   "company": "Cloudflare Inc",
+   "move_pct": 9.57,
+   "price": 311.52,
+   "volume": 1726987,
+   "volume_vs_avg": "~0.5x",
+   "heat_score": 61,
+   "direction": "up",
+   "why": "Cloudflare Surges 9% on OpenAI Security Partnership, Zscaler Rises 3%",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-surges-9-openai-security-152801146.html",
+   "published": "2026-09-09T15:28:01Z",
+   "sector": "AI Software & Cloud Infrastructure"
+  },
+  {
+   "rank": 2,
    "ticker": "VRT",
    "company": "Vertiv Holdings Co",
-   "move_pct": -7.41,
-   "price": 269.29,
-   "volume": 2257400,
-   "volume_vs_avg": "~0.4x",
+   "move_pct": -7.25,
+   "price": 269.74,
+   "volume": 2619852,
+   "volume_vs_avg": "~0.5x",
    "heat_score": 43,
    "direction": "down",
    "why": "Is Vertiv (VRT) a Buy as Wall Street Analysts Look Optimistic?",
@@ -24,19 +40,35 @@
    "sector": "Data Center, Power & Energy"
   },
   {
-   "rank": 2,
+   "rank": 3,
    "ticker": "META",
    "company": "Meta Platforms Inc",
-   "move_pct": 6.2,
-   "price": 651.52,
-   "volume": 18219153,
-   "volume_vs_avg": "~1.0x",
+   "move_pct": 6.27,
+   "price": 651.97,
+   "volume": 19122658,
+   "volume_vs_avg": "~1.1x",
    "heat_score": 42,
    "direction": "up",
-   "why": "Adult film studio says a Meta exec torrented nearly 20K files on his home internet \u2014 wants it folded into a $446M case",
+   "why": "Mark Zuckerberg's Net Worth Jumped $13 Billion in a Week as Meta Stock Extended Its Rally",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/media-advertising/articles/adult-film-studio-says-meta-150000902.html",
-   "published": "2026-09-09T15:00:00Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerbergs-net-worth-jumped-151000091.html",
+   "published": "2026-09-09T15:10:00Z",
+   "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 4,
+   "ticker": "PINS",
+   "company": "Pinterest Inc",
+   "move_pct": -6.03,
+   "price": 18.92,
+   "volume": 8321855,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 40,
+   "direction": "down",
+   "why": "Pinterest, Inc. (PINS) Is a Trending Stock: Facts to Know Before Betting on It",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/pinterest-inc-pins-trending-stock-130006370.html",
+   "published": "2026-09-09T13:00:06Z",
    "sector": "AI Platforms, Internet & AdTech"
   }
  ]

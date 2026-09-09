@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-09T06:09:50+00:00",
-  "as_of_local": "2026-09-09 06:09:50 UTC",
+  "as_of_utc": "2026-09-09T06:15:12+00:00",
+  "as_of_local": "2026-09-09 06:15:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-09-08T15:07:10Z"
         },
         {
-          "title": "Jim Chanos Questions Nvidia\u2019s AI Chip Economics After Jensen Huang Says Nvidia Chips Are 'Highly Rentable'",
-          "url": "https://finance.yahoo.com/technology/ai/articles/jim-chanos-questions-nvidia-ai-054357167.html",
-          "publisher": "Stocktwits",
-          "published": "2026-09-09T05:43:57Z"
+          "title": "Prediction: Netflix's Advertising Business Passes $6 Billion in 2027",
+          "url": "https://finance.yahoo.com/media-advertising/articles/prediction-netflixs-advertising-business-passes-060101996.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-09T06:01:01Z"
         }
       ]
     },
@@ -57,34 +59,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-amkor-nova-qualcomm-formfactor-014318045.html",
           "publisher": "StockStory",
           "published": "2026-09-09T01:43:18Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 368.56,
-      "previous_close": 357.9,
-      "change_pct": 2.98,
-      "market_cap": 1753453746159.6938,
-      "headlines": [
-        {
-          "title": "Applied Materials, AMD, Broadcom, Lam Research, and Marvell Technology Shares Skyrocket, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-amd-broadcom-lam-012718535.html",
-          "publisher": "StockStory",
-          "published": "2026-09-09T01:27:18Z"
-        },
-        {
-          "title": "S&P 500, Dow End Lower As Middle East Tensions Spur Oil Rally Ahead Of Key Inflation Data \u2014 META, QCOM, BE, AMZN, AVGO In Focus",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-end-lower-224639720.html",
-          "publisher": "Stocktwits",
-          "published": "2026-09-08T22:46:39Z"
-        },
-        {
-          "title": "Marvell Is Growing Faster And Its Margin Guide Is Standing Still",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-growing-faster-margin-guide-220848869.html",
-          "publisher": "Trefis",
-          "published": "2026-09-08T22:08:48Z"
         }
       ]
     },
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 3.35,
-          "price": 1853000.0,
+          "change_pct": 3.57,
+          "price": 1857000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.09,
-          "price": 269750.0,
+          "change_pct": 0.19,
+          "price": 270000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -1.53,
-          "price": 56530.0,
+          "change_pct": -1.27,
+          "price": 56680.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 3.35,
-        "price": 1853000.0,
+        "change_pct": 3.57,
+        "price": 1857000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.09,
-        "price": 269750.0,
+        "change_pct": 0.19,
+        "price": 270000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -1.53,
-        "price": 56530.0,
+        "change_pct": -1.27,
+        "price": 56680.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78923.4,
-      "change_pct": -0.24
+      "price": 79102.49,
+      "change_pct": -0.02
     },
     {
       "label": "Gold",
-      "price": 4442.4,
-      "change_pct": 1.1
+      "price": 4446.4,
+      "change_pct": 1.19
     },
     {
       "label": "Nasdaq100",

@@ -18,7 +18,7 @@ Signed file: `AMD.research.09.09.2026`
 | Technical momentum | High | 1Y +244.16%; price +51.54% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -10.30% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 15.58%, revenue growth 50.10%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 33.38, EV/Sales 19.77. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 33.59, EV/Sales 19.77. |
 | Risk level | High | Beta 2.48, ATR 4.5% of price, short float 2.46%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
@@ -68,7 +68,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Revenue (ttm) | $41.31B | Revenue growth 50.10% y/y |
 | Profitability | Gross 55.72%, operating 17.25%, net 15.58% | ROA 5.13%, ROE 10.20% |
 | Balance sheet | Cash $13.11B, debt $4.28B | Current ratio 2.61, debt/equity 6.36 |
-| Valuation | P/E 132.26, forward P/E 33.38, P/S 20.59, P/B 12.65 | EV/Sales 19.77, EV/EBITDA 85.42 |
+| Valuation | P/E 132.26, forward P/E 33.59, P/S 20.59, P/B 12.65 | EV/Sales 19.77, EV/EBITDA 85.42 |
 | Growth expectations | Earnings growth 159.50%, EPS q/q 163.40% | Analyst mean target $615.38 (49 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Morgan Stanley | 24,286,371 | 1.49% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 33.38, EV/Sales 19.77. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 33.59, EV/Sales 19.77. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.48, ATR 4.5% of price, short float 2.46%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -122,7 +122,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | 52W high | $580.91 | Revenue growth y/y | 50.10% |
 | 52W low | $155.67 | Inst. ownership | 75.50% |
 | P/E (ttm) | 132.26 | Insider ownership | 0.42% |
-| Forward P/E | 33.38 | Short float | 2.46% |
+| Forward P/E | 33.59 | Short float | 2.46% |
 | PEG (trailing) | 0.52 | Avg volume | 26,011,540 |
 | P/S | 20.59 | Employees | 31,000 |
 | P/B | 12.65 | Analyst rec (1=buy..5=sell) | 1.5 |

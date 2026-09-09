@@ -1,9 +1,9 @@
 {
  "signed": "09.09.2026",
- "generated_utc": "2026-09-09T20:17:30+00:00",
+ "generated_utc": "2026-09-09T20:18:27+00:00",
  "macro": {
   "score": "Tailwind",
-  "note": "Watchlist median 1Y +53%; 11/12 names positive. Sector-level proxy."
+  "note": "Watchlist median 1Y +53%; 13/14 names positive. Sector-level proxy."
  },
  "stocks": {
   "NVDA": {
@@ -84,11 +84,11 @@
   },
   "AMD": {
    "name": "Advanced Micro Devices, Inc.",
-   "thesis": "Strong fundamentals (16% net margin, 50% growth) at 33x forward; high momentum \u2014 pullback zone forming.",
+   "thesis": "Strong fundamentals (16% net margin, 50% growth) at 34x forward; high momentum \u2014 pullback zone forming.",
    "close": 505.74,
    "close_date": "2026-09-08",
    "pe_ttm": 132.2576,
-   "fwd_pe": 33.37836,
+   "fwd_pe": 33.590706,
    "short_float": 2.46,
    "market_cap": 850674515968,
    "target": 615.3755,
@@ -139,6 +139,44 @@
    },
    "report": "ARM.research.09.09.2026.md"
   },
+  "MRVL": {
+   "name": "Marvell Technology, Inc.",
+   "thesis": "Strong fundamentals (28% net margin, 36% growth) at 35x forward; high momentum \u2014 deep pullback \u2014 needs base.",
+   "close": 225.41,
+   "close_date": "2026-09-08",
+   "pe_ttm": 77.81788,
+   "fwd_pe": 34.967304,
+   "short_float": 3.79,
+   "market_cap": 211204571136,
+   "target": 284.99802,
+   "analysts": 41,
+   "scores": {
+    "technical": "High",
+    "narrative": "Strong",
+    "entry_zone": "Deep pullback \u2014 needs base",
+    "rr": 1.5
+   },
+   "report": "MRVL.research.09.09.2026.md"
+  },
+  "QCOM": {
+   "name": "QUALCOMM Incorporated",
+   "thesis": "Mixed fundamentals (21% net margin, -4% growth) at 17x forward; moderate momentum \u2014 deep pullback \u2014 needs base.",
+   "close": 174.09,
+   "close_date": "2026-09-08",
+   "pe_ttm": 20.136986,
+   "fwd_pe": 17.263533,
+   "short_float": 3.48,
+   "market_cap": 188405858304,
+   "target": 193.89655,
+   "analysts": 29,
+   "scores": {
+    "technical": "Moderate",
+    "narrative": "Neutral",
+    "entry_zone": "Deep pullback \u2014 needs base",
+    "rr": 0.8
+   },
+   "report": "QCOM.research.09.09.2026.md"
+  },
   "NXPI": {
    "name": "NXP Semiconductors N.V.",
    "thesis": "Strong fundamentals (23% net margin, 20% growth) at 12x forward; moderate momentum \u2014 broken \u2014 no zone.",
@@ -166,7 +204,7 @@
    "pe_ttm": 461.8,
    "fwd_pe": 35.933826,
    "short_float": 6.95,
-   "market_cap": 16364946432,
+   "market_cap": 16397394944,
    "target": 164.53847,
    "analysts": 13,
    "scores": {

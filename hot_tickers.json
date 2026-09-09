@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-09T15:12:23+00:00",
+  "as_of": "2026-09-09T15:27:36+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,35 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "META",
-   "company": "Meta Platforms Inc",
-   "move_pct": 6.89,
-   "price": 655.74,
-   "volume": 16594505,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 44,
-   "direction": "up",
-   "why": "Meta stock surges with Wall Street bullish on new AI agent",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/article/meta-stock-surges-with-wall-street-bullish-on-new-ai-agent-140959204.html",
-   "published": "2026-09-09T14:09:59Z",
-   "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 2,
    "ticker": "VRT",
    "company": "Vertiv Holdings Co",
-   "move_pct": -6.61,
-   "price": 271.62,
-   "volume": 1915235,
-   "volume_vs_avg": "~0.3x",
-   "heat_score": 40,
+   "move_pct": -7.41,
+   "price": 269.29,
+   "volume": 2257400,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 43,
    "direction": "down",
    "why": "Is Vertiv (VRT) a Buy as Wall Street Analysts Look Optimistic?",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-vrt-buy-wall-street-133005010.html",
    "published": "2026-09-09T13:30:05Z",
    "sector": "Data Center, Power & Energy"
+  },
+  {
+   "rank": 2,
+   "ticker": "META",
+   "company": "Meta Platforms Inc",
+   "move_pct": 6.2,
+   "price": 651.52,
+   "volume": 18219153,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 42,
+   "direction": "up",
+   "why": "Adult film studio says a Meta exec torrented nearly 20K files on his home internet \u2014 wants it folded into a $446M case",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/media-advertising/articles/adult-film-studio-says-meta-150000902.html",
+   "published": "2026-09-09T15:00:00Z",
+   "sector": "AI Platforms, Internet & AdTech"
   }
  ]
 }

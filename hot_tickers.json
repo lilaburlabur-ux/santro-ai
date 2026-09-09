@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-09T23:50:46+00:00",
+  "as_of": "2026-09-09T23:52:03+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,7 +11,7 @@
    "rank": 1,
    "ticker": "PINS",
    "company": "Pinterest Inc",
-   "move_pct": -9.18,
+   "move_pct": -9.19,
    "price": 18.29,
    "volume": 28030616,
    "volume_vs_avg": "~2x",
@@ -91,11 +91,11 @@
    "rank": 6,
    "ticker": "AVAV",
    "company": "AeroVironment Inc",
-   "move_pct": -1.59,
-   "price": 146.41,
+   "move_pct": -1.7,
+   "price": 146.25,
    "volume": 4758110,
    "volume_vs_avg": "~4x",
-   "heat_score": 39,
+   "heat_score": 40,
    "direction": "down",
    "why": "AeroVironment Q1 Earnings Call Highlights",
    "catalyst_type": "earnings",

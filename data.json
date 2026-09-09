@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-09T23:31:43+00:00",
-  "as_of_local": "2026-09-09 23:31:43 UTC",
+  "as_of_utc": "2026-09-09T23:37:02+00:00",
+  "as_of_local": "2026-09-09 23:37:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -125,16 +127,16 @@
       "market_cap": 850674534184.5728,
       "headlines": [
         {
+          "title": "Dow Jones Futures: Oil Prices Keep Rising But Market Hasn't Broken Yet. Inflation Data Due.",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-meta-spacex-apple-iphone-inflation-data/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-09T23:33:27Z"
+        },
+        {
           "title": "Marvell Or NVIDIA: Which One Costs Less Per Dollar Of Profit?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-nvidia-one-costs-less-230212940.html",
           "publisher": "Trefis",
           "published": "2026-09-09T23:02:12Z"
-        },
-        {
-          "title": "Dow Jones Futures: Oil Prices Keep Rising But Market Hasn't Broken Yet. Inflation Data Due.",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-meta-spacex-apple-iphone-inflation-data/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-09T22:39:29Z"
         },
         {
           "title": "Advanced Micro Devices (AMD) Ascends While Market Falls: Some Facts to Note",
@@ -150,7 +152,7 @@
       "price": 106.24,
       "previous_close": 104.47,
       "change_pct": 1.69,
-      "market_cap": 561595811742.5409,
+      "market_cap": 558240864480.7208,
       "headlines": [
         {
           "title": "Marvell Or NVIDIA: Which One Costs Less Per Dollar Of Profit?",
@@ -257,40 +259,12 @@
       ]
     },
     {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 223.32,
-      "previous_close": 223.87,
-      "change_pct": -0.25,
-      "market_cap": 56313305184.58557,
-      "headlines": [
-        {
-          "title": "AMKR Stock Gains After-Hours \u2014 Amkor Doubles Down On US Chip Manufacturing With $12B Arizona Campus Expansion",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amkr-stock-gains-hours-amkor-234207542.html",
-          "publisher": "Stocktwits",
-          "published": "2026-09-08T23:42:07Z"
-        },
-        {
-          "title": "1 S&P 500 Stock with Exciting Potential and 2 We Ignore",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-exciting-232718587.html",
-          "publisher": "StockStory",
-          "published": "2026-09-08T23:27:18Z"
-        },
-        {
-          "title": "NXP Semiconductors (NXPI) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-sees-more-221504887.html",
-          "publisher": "Zacks",
-          "published": "2026-09-08T22:15:04Z"
-        }
-      ]
-    },
-    {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
       "price": 115.45,
       "previous_close": 117.49,
       "change_pct": -1.74,
-      "market_cap": 16364945746.465744,
+      "market_cap": 16397394468.958008,
       "headlines": [
         {
           "title": "1 Semiconductor Stock to Own for Decades and 2 Facing Challenges",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78161.65,
-      "change_pct": -0.35
+      "price": 78225.57,
+      "change_pct": -0.27
     },
     {
       "label": "Gold",
-      "price": 4444.7,
-      "change_pct": 1.16
+      "price": 4442.6,
+      "change_pct": 1.11
     },
     {
       "label": "Nasdaq100",

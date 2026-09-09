@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-09T14:16:16+00:00",
+  "as_of": "2026-09-09T14:21:33+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,35 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "MRVL",
-   "company": "Marvell Technology Inc",
-   "move_pct": 5.74,
-   "price": 238.35,
-   "volume": 7347682,
-   "volume_vs_avg": "~0.3x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "Marvell Technology Must Position Itself as The \u2018Anti-Broadcom\u2019",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-must-position-itself-134702758.html",
-   "published": "2026-09-09T13:47:02Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 2,
    "ticker": "META",
    "company": "Meta Platforms Inc",
-   "move_pct": 5.4,
-   "price": 646.6,
-   "volume": 10698766,
+   "move_pct": 5.13,
+   "price": 644.97,
+   "volume": 11095686,
    "volume_vs_avg": "~0.6x",
-   "heat_score": 37,
+   "heat_score": 36,
    "direction": "up",
    "why": "Meta stock surges with Wall Street bullish on new AI agent",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/article/meta-stock-surges-with-wall-street-bullish-on-new-ai-agent-140959204.html",
    "published": "2026-09-09T14:09:59Z",
    "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 2,
+   "ticker": "MRVL",
+   "company": "Marvell Technology Inc",
+   "move_pct": 5.16,
+   "price": 237.03,
+   "volume": 7985138,
+   "volume_vs_avg": "~0.3x",
+   "heat_score": 35,
+   "direction": "up",
+   "why": "Marvell Technology Must Position Itself as The \u2018Anti-Broadcom\u2019",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-must-position-itself-134702758.html",
+   "published": "2026-09-09T13:47:02Z",
+   "sector": "AI Chips & Compute"
   }
  ]
 }

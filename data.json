@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-09T23:37:02+00:00",
-  "as_of_local": "2026-09-09 23:37:02 UTC",
+  "as_of_utc": "2026-09-09T23:41:55+00:00",
+  "as_of_local": "2026-09-09 23:41:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NXPI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -255,6 +253,34 @@
           "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-chips-qualcomm-amazon-28cb9ee5?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-09-09T19:34:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors",
+      "price": 223.32,
+      "previous_close": 223.87,
+      "change_pct": -0.25,
+      "market_cap": 56313305184.58557,
+      "headlines": [
+        {
+          "title": "AMKR Stock Gains After-Hours \u2014 Amkor Doubles Down On US Chip Manufacturing With $12B Arizona Campus Expansion",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amkr-stock-gains-hours-amkor-234207542.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-08T23:42:07Z"
+        },
+        {
+          "title": "1 S&P 500 Stock with Exciting Potential and 2 We Ignore",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-exciting-232718587.html",
+          "publisher": "StockStory",
+          "published": "2026-09-08T23:27:18Z"
+        },
+        {
+          "title": "NXP Semiconductors (NXPI) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-sees-more-221504887.html",
+          "publisher": "Zacks",
+          "published": "2026-09-08T22:15:04Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 78225.57,
-      "change_pct": -0.27
+      "price": 78191.02,
+      "change_pct": -0.32
     },
     {
       "label": "Gold",
-      "price": 4442.6,
-      "change_pct": 1.11
+      "price": 4441.0,
+      "change_pct": 1.07
     },
     {
       "label": "Nasdaq100",

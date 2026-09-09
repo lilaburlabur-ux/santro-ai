@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-09T20:27:45+00:00",
-  "as_of_local": "2026-09-09 20:27:45 UTC",
+  "as_of_utc": "2026-09-09T20:32:40+00:00",
+  "as_of_local": "2026-09-09 20:32:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -89,34 +91,6 @@
       ]
     },
     {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 1027.77,
-      "previous_close": 1000.26,
-      "change_pct": 2.75,
-      "market_cap": 1160756420861.73,
-      "headlines": [
-        {
-          "title": "Prediction: Micron's Sept. 30 Earnings Could Be the Most Important Catalyst for AI Memory Stocks This Year",
-          "url": "https://finance.yahoo.com/technology/ai/articles/prediction-microns-sept-30-earnings-202000782.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-09T20:20:00Z"
-        },
-        {
-          "title": "Micron, Sandisk and the Next Leg Higher in Memory Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-next-leg-higher-194200329.html",
-          "publisher": "Zacks",
-          "published": "2026-09-09T19:42:00Z"
-        },
-        {
-          "title": "Micron, Visa, and Other Growth Stocks Look Ready for a Revival\u2014Here Are the Signs",
-          "url": "https://www.barrons.com/articles/micron-visa-and-other-growth-stocks-look-ready-for-a-revivalhere-are-the-signs-f2d9af9b?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-09T19:42:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 521.09,
@@ -187,16 +161,16 @@
           "published": "2026-09-09T18:27:00Z"
         },
         {
+          "title": "Stocks Pressured as Inflation Fears Boost Bond Yields",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-inflation-fears-boost-142039912.html",
+          "publisher": "Barchart",
+          "published": "2026-09-09T14:20:39Z"
+        },
+        {
           "title": "Arm Extends AI Reach From Data Centers To Edge Devices",
           "url": "https://www.investors.com/news/technology/arm-stock-arm-extends-reach-to-physical-ai/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-09-08T20:17:49Z"
-        },
-        {
-          "title": "Arm\u2019s Biggest Growth Driver May Not Be Smartphones Anymore",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-biggest-growth-driver-may-173027999.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-08T17:30:27Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78159.67,
-      "change_pct": -0.36
+      "price": 78222.58,
+      "change_pct": -0.28
     },
     {
       "label": "Gold",
-      "price": 4441.5,
-      "change_pct": 1.08
+      "price": 4440.0,
+      "change_pct": 1.05
     },
     {
       "label": "Nasdaq100",

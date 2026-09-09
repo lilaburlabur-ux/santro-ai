@@ -36,10 +36,10 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 | Headline | Source | Date |
 |---|---|---|
+| AeroVironment surges 4% on Q1 earnings beat | Investing.com | 2026-09-09 |
+| AeroVironment’s (NASDAQ:AVAV) Q2 CY2026: Strong Sales | StockStory | 2026-09-09 |
 | Drone Stocks Slide as Risk-Off Sentiment Hits High-Beta Names: AeroVironment Sinks 4%, Red Cat Drops 3%, Ondas Eases | 24/7 Wall St. | 2026-09-09 |
 | Stocks Fall Pre-Bell, Oil Rises After Fresh US-Iran Strikes | MT Newswires | 2026-09-09 |
-| GE Aerospace Strikes $11.75 Billion Deal to Buy Consolidated Precision Products | MT Newswires | 2026-09-08 |
-| AeroVironment (AVAV) Q2 Earnings: What To Expect | StockStory | 2026-09-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

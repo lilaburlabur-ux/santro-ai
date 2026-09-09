@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | CoreWeave struggling to keep up with demand for Nvidia chips, CEO says | Yahoo Finance | 2026-09-09 |
 | A foldable iPhone is nice, but Apple still needs to improve its AI user experience | Yahoo Finance Video | 2026-09-09 |
-| Energy Transfer's Payout Is Covered Twice Over. Here's Why That Matters More Than the Yield Itself. | Motley Fool | 2026-09-09 |
-| Meet the AI Software Stock That’s Crushing Palantir (Hint: It’s Significantly Cheaper) | Motley Fool | 2026-09-09 |
+| Optical Cable Corporation Q3 2026 Earnings Call Summary | Moby | 2026-09-09 |
+| Destination XL Group, Inc. Q2 2027 Earnings Call Summary | Moby | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

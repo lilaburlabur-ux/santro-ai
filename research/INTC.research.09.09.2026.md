@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
+| Intel (INTC) and ASML Move High-NA EUV Into Production. Can the Economics Catch Up? | Insider Monkey | 2026-09-09 |
+| Could Apple (AAPL) Stock Win as Intel Corporation (INTC) Fades from the Mac Ecosystem? | Insider Monkey | 2026-09-09 |
 | Jim Cramer on Intel (INTC) Corporation, Earnings Performance, and Government Stake | Insider Monkey | 2026-09-09 |
 | Intel Rises After a $120 Target Meets 59% AI Growth | GuruFocus.com | 2026-09-09 |
-| What Qualcomm Has Stopped Leading With | Trefis | 2026-09-09 |
-| Did You Already Pay For NVIDIA's Bigger Guide? | Trefis | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

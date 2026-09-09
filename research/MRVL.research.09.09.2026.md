@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Marvell Has Raised Its Growth Outlook 3 Times Since December. The Stock Still Sits 28% Below Its High. | Motley Fool | 2026-09-09 |
 | Broadcom (AVGO) Faces Google Chip Risks, But Macquarie Sees a $40 Billion Anthropic Opportunity | Insider Monkey | 2026-09-09 |
 | Marvell's CEO Calls It the Switzerland of the AI Market | GuruFocus.com | 2026-09-09 |
 | Cramer Says Qualcomm’s Amazon Collaboration Gives Stalled Stock “Something Special” to Point At | 24/7 Wall St. | 2026-09-09 |
-| ALAB Gains From Aries and Taurus Strength: Can It Beat MRVL & CRDO? | Zacks | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $9.45B | Revenue growth 36.50% y/y |
 | Profitability | Gross 52.22%, operating 16.68%, net 27.93% | ROA 4.12%, ROE 16.52% |
 | Balance sheet | Cash $3.93B, debt $5.29B | Current ratio 3.17, debt/equity 28.52 |
-| Valuation | P/E 77.82, forward P/E 34.97, P/S 22.35, P/B 11.30 | EV/Sales 21.06, EV/EBITDA 69.82 |
+| Valuation | P/E 77.82, forward P/E 34.97, P/S 22.35, P/B 11.12 | EV/Sales 21.06, EV/EBITDA 69.82 |
 | Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $285.00 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -126,7 +126,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Forward P/E | 34.97 | Short float | 3.79% |
 | PEG (trailing) | 1.20 | Avg volume | 32,845,903 |
 | P/S | 22.35 | Employees | 7,480 |
-| P/B | 11.30 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 11.12 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

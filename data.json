@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-09T22:40:55+00:00",
-  "as_of_local": "2026-09-09 22:40:55 UTC",
+  "as_of_utc": "2026-09-09T22:46:16+00:00",
+  "as_of_local": "2026-09-09 22:46:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -150,7 +152,7 @@
       "price": 106.24,
       "previous_close": 104.47,
       "change_pct": 1.69,
-      "market_cap": 561595811742.5409,
+      "market_cap": 558240864480.7208,
       "headlines": [
         {
           "title": "AT&T CEO Stankey Details Fiber, Wireless and AI Growth Strategy at Goldman Sachs Conference",
@@ -290,7 +292,7 @@
       "price": 115.45,
       "previous_close": 117.49,
       "change_pct": -1.74,
-      "market_cap": 16364945746.465744,
+      "market_cap": 16397394468.958008,
       "headlines": [
         {
           "title": "1 Semiconductor Stock to Own for Decades and 2 Facing Challenges",
@@ -337,34 +339,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-q1-earnings-revenues-213002248.html",
           "publisher": "Zacks",
           "published": "2026-09-09T21:30:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 93.93,
-      "previous_close": 94.72,
-      "change_pct": -0.83,
-      "market_cap": 3673319206.914505,
-      "headlines": [
-        {
-          "title": "Analog Devices to Acquire Alif Semiconductor for $1.35 Billion",
-          "url": "https://finance.yahoo.com/technology/ai/articles/analog-devices-acquire-alif-semiconductor-152036566.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-09T15:20:36Z"
-        },
-        {
-          "title": "ASE Technology Surges 16% in 3 Months: Time to Hold or Fold the Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ase-technology-surges-16-3-132300568.html",
-          "publisher": "Zacks",
-          "published": "2026-09-09T13:23:00Z"
-        },
-        {
-          "title": "Synaptics (SYNA) Agrees to $7 Billion Deal With Onsemi: What Investors Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-agrees-7-billion-171314111.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-01T17:13:14Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78038.91,
-      "change_pct": -0.51
+      "price": 78000.97,
+      "change_pct": -0.56
     },
     {
       "label": "Gold",
-      "price": 4447.2,
-      "change_pct": 1.21
+      "price": 4444.6,
+      "change_pct": 1.15
     },
     {
       "label": "Nasdaq100",

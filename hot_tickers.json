@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-09T13:45:56+00:00",
+  "as_of": "2026-09-09T14:01:17+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,18 +9,34 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "MRVL",
+   "company": "Marvell Technology Inc",
+   "move_pct": 6.67,
+   "price": 240.45,
+   "volume": 5697286,
+   "volume_vs_avg": "~0.2x",
+   "heat_score": 40,
+   "direction": "up",
+   "why": "Marvell CEO Matt Murphy says trust with big tech drove stock surge",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-ceo-matt-murphy-says-133537609.html",
+   "published": "2026-09-09T13:35:37Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
    "ticker": "META",
    "company": "Meta Platforms Inc",
-   "move_pct": 5.65,
-   "price": 648.12,
-   "volume": 7117845,
-   "volume_vs_avg": "~0.4x",
+   "move_pct": 5.61,
+   "price": 647.91,
+   "volume": 9338835,
+   "volume_vs_avg": "~0.5x",
    "heat_score": 37,
    "direction": "up",
-   "why": "Meta Rises 6% as Muse AI Agent Arrives With Paid Subscription Tiers; Alphabet Falls 2%",
+   "why": "Meta stock jumps 5% premarket: Analysts bullish on new Muse AI agent",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/meta-rises-6-muse-ai-131927092.html",
-   "published": "2026-09-09T13:19:27Z",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/meta-stock-jumps-5-premarket-134314669.html",
+   "published": "2026-09-09T13:43:14Z",
    "sector": "AI Platforms, Internet & AdTech"
   }
  ]

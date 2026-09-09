@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-09T21:55:58+00:00",
+  "as_of": "2026-09-09T21:57:11+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,6 +9,22 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "NET",
+   "company": "Cloudflare Inc",
+   "move_pct": 10.54,
+   "price": 314.27,
+   "volume": 4759162,
+   "volume_vs_avg": "~1.3x",
+   "heat_score": 68,
+   "direction": "up",
+   "why": "Cloudflare (NET) Shares Skyrocket, What You Need To Know",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-net-shares-skyrocket-know-180238167.html",
+   "published": "2026-09-09T18:02:38Z",
+   "sector": "AI Software & Cloud Infrastructure"
+  },
+  {
+   "rank": 2,
    "ticker": "PINS",
    "company": "Pinterest Inc",
    "move_pct": -8.82,
@@ -24,27 +40,11 @@
    "sector": "AI Platforms, Internet & AdTech"
   },
   {
-   "rank": 2,
-   "ticker": "NET",
-   "company": "Cloudflare Inc",
-   "move_pct": 10.29,
-   "price": 313.55,
-   "volume": 4759162,
-   "volume_vs_avg": "~1.3x",
-   "heat_score": 67,
-   "direction": "up",
-   "why": "Cloudflare (NET) Shares Skyrocket, What You Need To Know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-net-shares-skyrocket-know-180238167.html",
-   "published": "2026-09-09T18:02:38Z",
-   "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
    "rank": 3,
    "ticker": "META",
    "company": "Meta Platforms Inc",
-   "move_pct": 5.95,
-   "price": 650.0,
+   "move_pct": 5.98,
+   "price": 650.17,
    "volume": 35359694,
    "volume_vs_avg": "~2x",
    "heat_score": 46,
@@ -59,8 +59,8 @@
    "rank": 4,
    "ticker": "AVAV",
    "company": "AeroVironment Inc",
-   "move_pct": -2.54,
-   "price": 145.0,
+   "move_pct": -2.7,
+   "price": 144.76,
    "volume": 4758110,
    "volume_vs_avg": "~4x",
    "heat_score": 43,

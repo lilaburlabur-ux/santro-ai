@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-09T11:48:58+00:00",
+  "as_of": "2026-09-09T12:03:58+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "META",
+   "company": "Meta Platforms Inc",
+   "move_pct": 5.15,
+   "price": 645.07,
+   "volume": 18871000,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 39,
+   "direction": "up",
+   "why": "Social Buzz: Wallstreetbets Stocks Mostly Lower Premarket Wednesday; Meta Platforms to Advance, Intel to Decline",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mostly-103549429.html",
+   "published": "2026-09-09T10:35:49Z",
+   "sector": "AI Platforms, Internet & AdTech"
+  }
+ ]
 }

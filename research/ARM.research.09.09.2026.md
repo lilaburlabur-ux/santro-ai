@@ -130,16 +130,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | P/B | 32.70 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-07-31 | main | Rosenblatt | Buy → Buy |
-| 2026-07-30 | main | UBS | Buy → Buy |
-| 2026-07-30 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
-| 2026-07-30 | main | RBC Capital | Outperform → Outperform |
-| 2026-07-30 | main | TD Cowen | Buy → Buy |
-| 2026-07-30 | main | Wells Fargo | Overweight → Overweight |
-| 2026-07-30 | reit | Guggenheim | Buy → Buy |
-| 2026-07-30 | reit | Needham | Buy → Buy |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
 ARM: High momentum / strong fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

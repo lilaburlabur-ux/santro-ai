@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Broadcom (AVGO) Q3 2026 Earnings Call Transcript | Motley Fool | 2026-09-09 |
 | The Overlooked Chip Stock Poised to Outperform Nvidia, AMD, and Broadcom in the AI Semiconductor Boom | Motley Fool | 2026-09-09 |
 | What Investors Need To Understand About Broadcom, Credo and Snowflake Earnings | 24/7 Wall St. | 2026-09-09 |
 | Bank of America Spots a Major Semiconductor. Micron and AMD Are Big Winners | GuruFocus.com | 2026-09-09 |
-| Broadcom (AVGO) Faces Google Chip Risks, But Macquarie Sees a $40 Billion Anthropic Opportunity | Insider Monkey | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

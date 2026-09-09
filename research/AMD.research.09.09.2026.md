@@ -36,7 +36,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| Dow Jones Futures: Oil Prices, Yields Hit Stocks, Apple Unfolds iPhone. Inflation Data Due. | Investor's Business Daily | 2026-09-09 |
+| Dow Jones Futures: Oil Prices Keep Rising But Market Hasn't Broken Yet. Inflation Data Due. | Investor's Business Daily | 2026-09-09 |
 | Advanced Micro Devices (AMD) Ascends While Market Falls: Some Facts to Note | Zacks | 2026-09-09 |
 | Could Advanced Micro Devices (AMD)’s Partnership With Cisco Systems (CSCO) Unlock a Massive Middle East AI Opportunity? | Insider Monkey | 2026-09-09 |
 | AMD, IBD Stock Of The Day, Runs Past Early Buy Point As Chipmaker Returns To Favor | Investor's Business Daily | 2026-09-09 |

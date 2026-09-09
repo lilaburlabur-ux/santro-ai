@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | CoreWeave struggling to keep up with demand for Nvidia chips, CEO says | Yahoo Finance | 2026-09-09 |
 | A foldable iPhone is nice, but Apple still needs to improve its AI user experience | Yahoo Finance Video | 2026-09-09 |
-| Why's Everyone Talking About Bloom Energy Now? | Motley Fool | 2026-09-09 |
-| Oracle Reports Thursday. Its Capital Budget Is More Than Twice the Cash Its Business Produces. | Motley Fool | 2026-09-09 |
+| Why Independence Realty Trust Stock Sank Today | Motley Fool | 2026-09-09 |
+| Broadcom Forecasts $230 Billion in AI Semiconductor Revenue in 2028. The Stock Could Reach $900 Per Share as a Result. | Motley Fool | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

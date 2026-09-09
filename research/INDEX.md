@@ -18,6 +18,6 @@
 | CEVA | $791.13M | +21% | 35.3 | -9% | Moderate | Low (expensive) | High |
 | AVAV | $7.16B | -41% | 32.1 | -13% | Low | Fair-to-demanding | High |
 
-12 reports generated; failed: MRVL, QCOM.
+14 reports generated; failed: none.
 
 Method: AEHR.research template (Cowork). One signed file per ticker in this folder.

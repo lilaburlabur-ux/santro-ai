@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-09T06:15:12+00:00",
-  "as_of_local": "2026-09-09 06:15:12 UTC",
+  "as_of_utc": "2026-09-09T06:29:56+00:00",
+  "as_of_local": "2026-09-09 06:29:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -59,6 +57,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-amkor-nova-qualcomm-formfactor-014318045.html",
           "publisher": "StockStory",
           "published": "2026-09-09T01:43:18Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 368.56,
+      "previous_close": 357.9,
+      "change_pct": 2.98,
+      "market_cap": 1753453746159.6938,
+      "headlines": [
+        {
+          "title": "Applied Materials, AMD, Broadcom, Lam Research, and Marvell Technology Shares Skyrocket, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-amd-broadcom-lam-012718535.html",
+          "publisher": "StockStory",
+          "published": "2026-09-09T01:27:18Z"
+        },
+        {
+          "title": "S&P 500, Dow End Lower As Middle East Tensions Spur Oil Rally Ahead Of Key Inflation Data \u2014 META, QCOM, BE, AMZN, AVGO In Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-end-lower-224639720.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-08T22:46:39Z"
+        },
+        {
+          "title": "Marvell Is Growing Faster And Its Margin Guide Is Standing Still",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-growing-faster-margin-guide-220848869.html",
+          "publisher": "Trefis",
+          "published": "2026-09-08T22:08:48Z"
         }
       ]
     },
@@ -124,7 +150,7 @@
       "price": 104.47,
       "previous_close": 95.8,
       "change_pct": 9.05,
-      "market_cap": 552239423173.9053,
+      "market_cap": 548940370542.2667,
       "headlines": [
         {
           "title": "SpaceX, Nvidia Lead Schwab Buys As Software Rally Spurs Profit-Taking \u2013 Trading Gauge Posts First Dip Since April",
@@ -264,7 +290,7 @@
       "price": 117.49,
       "previous_close": 115.9,
       "change_pct": 1.37,
-      "market_cap": 16654114262.60102,
+      "market_cap": 16687136353.870605,
       "headlines": [
         {
           "title": "1 Semiconductor Stock to Own for Decades and 2 Facing Challenges",
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 3.57,
-          "price": 1857000.0,
+          "change_pct": 3.4,
+          "price": 1854000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.19,
-          "price": 270000.0,
+          "change_pct": 0.0,
+          "price": 269500.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -1.27,
-          "price": 56680.0,
+          "change_pct": -1.53,
+          "price": 56530.0,
           "currency": "JPY"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 3.57,
-        "price": 1857000.0,
+        "change_pct": 3.4,
+        "price": 1854000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.19,
-        "price": 270000.0,
+        "change_pct": 0.0,
+        "price": 269500.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -1.27,
-        "price": 56680.0,
+        "change_pct": -1.53,
+        "price": 56530.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 79102.49,
-      "change_pct": -0.02
+      "price": 79155.33,
+      "change_pct": 0.05
     },
     {
       "label": "Gold",
-      "price": 4446.4,
-      "change_pct": 1.19
+      "price": 4444.5,
+      "change_pct": 1.15
     },
     {
       "label": "Nasdaq100",

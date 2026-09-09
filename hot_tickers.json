@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-09T21:03:09+00:00",
+  "as_of": "2026-09-09T21:08:20+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "PINS",
    "company": "Pinterest Inc",
-   "move_pct": -8.84,
-   "price": 18.36,
+   "move_pct": -8.74,
+   "price": 18.38,
    "volume": 28030616,
    "volume_vs_avg": "~2x",
    "heat_score": 68,
@@ -43,8 +43,8 @@
    "rank": 3,
    "ticker": "META",
    "company": "Meta Platforms Inc",
-   "move_pct": 6.17,
-   "price": 651.36,
+   "move_pct": 6.18,
+   "price": 651.4,
    "volume": 35359694,
    "volume_vs_avg": "~2x",
    "heat_score": 47,
@@ -59,17 +59,33 @@
    "rank": 4,
    "ticker": "AVAV",
    "company": "AeroVironment Inc",
-   "move_pct": -3.04,
-   "price": 144.25,
+   "move_pct": -2.49,
+   "price": 145.07,
    "volume": 4758110,
    "volume_vs_avg": "~4x",
-   "heat_score": 44,
+   "heat_score": 43,
    "direction": "down",
    "why": "AeroVironment surges 4% on Q1 earnings beat",
    "catalyst_type": "earnings",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-surges-4-q1-earnings-204258476.html",
    "published": "2026-09-09T20:42:58Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 5,
+   "ticker": "MSFT",
+   "company": "Microsoft Corp",
+   "move_pct": -6.67,
+   "price": 461.0,
+   "volume": 12778304,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 40,
+   "direction": "down",
+   "why": "Can Microsoft Stock Keep Earning Like This?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-keep-earning-195439759.html",
+   "published": "2026-09-09T19:54:39Z",
+   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

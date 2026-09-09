@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-09T14:36:50+00:00",
+  "as_of": "2026-09-09T14:51:54+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,19 +9,51 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "META",
+   "company": "Meta Platforms Inc",
+   "move_pct": 5.68,
+   "price": 648.32,
+   "volume": 13810829,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 39,
+   "direction": "up",
+   "why": "Meta stock surges with Wall Street bullish on new AI agent",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/article/meta-stock-surges-with-wall-street-bullish-on-new-ai-agent-140959204.html",
+   "published": "2026-09-09T14:09:59Z",
+   "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 2,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
-   "move_pct": 5.71,
-   "price": 238.28,
-   "volume": 8906330,
+   "move_pct": 5.53,
+   "price": 237.88,
+   "volume": 9439553,
    "volume_vs_avg": "~0.4x",
-   "heat_score": 37,
+   "heat_score": 36,
    "direction": "up",
    "why": "Marvell Technology Must Position Itself as The \u2018Anti-Broadcom\u2019",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-must-position-itself-134702758.html",
    "published": "2026-09-09T13:47:02Z",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 3,
+   "ticker": "VRT",
+   "company": "Vertiv Holdings Co",
+   "move_pct": -5.67,
+   "price": 274.34,
+   "volume": 1571258,
+   "volume_vs_avg": "~0.3x",
+   "heat_score": 36,
+   "direction": "down",
+   "why": "Is Vertiv (VRT) a Buy as Wall Street Analysts Look Optimistic?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-vrt-buy-wall-street-133005010.html",
+   "published": "2026-09-09T13:30:05Z",
+   "sector": "Data Center, Power & Energy"
   }
  ]
 }

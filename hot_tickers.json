@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-10T08:06:48+00:00",
+  "as_of": "2026-09-10T08:21:55+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "AVAV",
    "company": "AeroVironment Inc",
-   "move_pct": 4.76,
-   "price": 147.5,
+   "move_pct": 6.18,
+   "price": 149.5,
    "volume": 4903400,
    "volume_vs_avg": "~4x",
-   "heat_score": 51,
+   "heat_score": 56,
    "direction": "up",
    "why": "AeroVironment Inc (AVAV) (Q1 2027) Earnings Call Highlights: Record Revenue, $1. ...",
    "catalyst_type": "earnings",

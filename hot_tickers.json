@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-10T15:29:39+00:00",
+  "as_of": "2026-09-10T15:44:47+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "AVAV",
    "company": "AeroVironment Inc",
-   "move_pct": 10.28,
-   "price": 155.28,
-   "volume": 5356712,
+   "move_pct": 11.13,
+   "price": 156.48,
+   "volume": 5523384,
    "volume_vs_avg": "~4x",
-   "heat_score": 80,
+   "heat_score": 84,
    "direction": "up",
-   "why": "AVAV Q1 Earnings Call Centers on LOCUST Scale-Up & Second-Half Ramp-Up",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/avav-q1-earnings-call-centers-140000513.html",
-   "published": "2026-09-10T14:00:00Z",
+   "why": "AeroVironment Secures First International LOCUST Counter-Drone System Order Worth More Than $50 Million",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/articles/aerovironment-secures-first-international-locust-144112864.html",
+   "published": "2026-09-10T14:41:12Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]

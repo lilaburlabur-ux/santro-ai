@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-10T15:09:17+00:00",
+  "as_of": "2026-09-10T15:15:04+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "AVAV",
    "company": "AeroVironment Inc",
-   "move_pct": 10.58,
-   "price": 155.7,
-   "volume": 4981194,
+   "move_pct": 11.78,
+   "price": 157.38,
+   "volume": 5091936,
    "volume_vs_avg": "~4x",
-   "heat_score": 80,
+   "heat_score": 84,
    "direction": "up",
    "why": "AVAV Q1 Earnings Call Centers on LOCUST Scale-Up & Second-Half Ramp-Up",
    "catalyst_type": "earnings",

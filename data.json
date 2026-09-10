@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-10T04:17:14+00:00",
-  "as_of_local": "2026-09-10 04:17:14 UTC",
+  "as_of_utc": "2026-09-10T04:29:58+00:00",
+  "as_of_local": "2026-09-10 04:29:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -153,6 +153,12 @@
       "market_cap": 558240864480.7208,
       "headlines": [
         {
+          "title": "Intel stock surges 9% as surprising turnaround takes shape",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-surges-9-surprising-042423646.html",
+          "publisher": "TheStreet",
+          "published": "2026-09-10T04:24:23Z"
+        },
+        {
           "title": "Marvell Or NVIDIA: Which One Costs Less Per Dollar Of Profit?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-nvidia-one-costs-less-230212940.html",
           "publisher": "Trefis",
@@ -163,12 +169,6 @@
           "url": "https://finance.yahoo.com/technology/articles/t-ceo-stankey-details-fiber-220331534.html",
           "publisher": "MarketBeat",
           "published": "2026-09-09T22:03:31Z"
-        },
-        {
-          "title": "Intel (INTC) Advances While Market Declines: Some Information for Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-advances-while-market-214502373.html",
-          "publisher": "Zacks",
-          "published": "2026-09-09T21:45:02Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -0.65,
-          "price": 1844000.0,
+          "change_pct": -0.7,
+          "price": 1843000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 0.16,
-          "price": 57090.0,
+          "change_pct": -0.02,
+          "price": 56990.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -1.72,
-          "price": 514.0,
+          "change_pct": -1.53,
+          "price": 515.0,
           "currency": "TWD"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -0.65,
-        "price": 1844000.0,
+        "change_pct": -0.7,
+        "price": 1843000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 0.16,
-        "price": 57090.0,
+        "change_pct": -0.02,
+        "price": 56990.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -1.72,
-        "price": 514.0,
+        "change_pct": -1.53,
+        "price": 515.0,
         "currency": "TWD"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 78345.13,
-      "change_pct": -0.12
+      "price": 78354.13,
+      "change_pct": -0.11
     },
     {
       "label": "Gold",
-      "price": 4456.7,
-      "change_pct": 0.92
+      "price": 4457.2,
+      "change_pct": 0.93
     },
     {
       "label": "Nasdaq100",

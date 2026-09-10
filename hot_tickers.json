@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-10T21:07:03+00:00",
+  "as_of": "2026-09-10T21:22:27+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,24 +11,24 @@
    "rank": 1,
    "ticker": "AVAV",
    "company": "AeroVironment Inc",
-   "move_pct": 5.11,
-   "price": 147.99,
+   "move_pct": 5.08,
+   "price": 147.95,
    "volume": 8713131,
    "volume_vs_avg": "~6x",
    "heat_score": 64,
    "direction": "up",
-   "why": "AeroVironment Shares Jump 10% After Record Revenue Crushes Estimates",
+   "why": "Drone Maker AeroVironment Soars With Analyst Targets After Earnings Beat",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-shares-jump-10-record-181247413.html",
-   "published": "2026-09-10T18:12:47Z",
+   "source_url": "https://www.investors.com/news/aerovironment-earnings-q1-2027-analyst-targets-drone-demand-avav-stock/?src=A00220&yptr=yahoo",
+   "published": "2026-09-10T20:41:58Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
    "rank": 2,
    "ticker": "OKLO",
    "company": "Oklo Inc",
-   "move_pct": -6.08,
-   "price": 39.98,
+   "move_pct": -6.26,
+   "price": 39.91,
    "volume": 10629754,
    "volume_vs_avg": "~1.1x",
    "heat_score": 42,
@@ -41,10 +41,26 @@
   },
   {
    "rank": 3,
+   "ticker": "INTC",
+   "company": "Intel Corp",
+   "move_pct": -5.51,
+   "price": 100.39,
+   "volume": 96048649,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 39,
+   "direction": "down",
+   "why": "Why Intel Stock Slumped Today",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-slumped-today-185922886.html",
+   "published": "2026-09-10T18:59:22Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 4,
    "ticker": "SMR",
    "company": "NuScale Power Corp",
-   "move_pct": -5.83,
-   "price": 10.18,
+   "move_pct": -5.92,
+   "price": 10.17,
    "volume": 22960620,
    "volume_vs_avg": "~0.7x",
    "heat_score": 39,
@@ -54,22 +70,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stocks-slide-piper-sandler-173946012.html",
    "published": "2026-09-10T17:39:46Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 4,
-   "ticker": "INTC",
-   "company": "Intel Corp",
-   "move_pct": -5.34,
-   "price": 100.57,
-   "volume": 96048649,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 38,
-   "direction": "down",
-   "why": "Why Intel Stock Slumped Today",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-slumped-today-185922886.html",
-   "published": "2026-09-10T18:59:22Z",
-   "sector": "AI Chips & Compute"
   }
  ]
 }

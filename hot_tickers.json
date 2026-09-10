@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-10T13:00:49+00:00",
+  "as_of": "2026-09-10T13:16:03+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "AVAV",
    "company": "AeroVironment Inc",
-   "move_pct": 4.72,
-   "price": 147.44,
+   "move_pct": 3.57,
+   "price": 145.82,
    "volume": 4903400,
    "volume_vs_avg": "~4x",
-   "heat_score": 51,
+   "heat_score": 47,
    "direction": "up",
-   "why": "AeroVironment Quarterly Earnings, Revenue Unexpectedly Increase; Maintains Full-Year Outlook",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-quarterly-earnings-revenue-unexpectedly-111531166.html",
-   "published": "2026-09-10T11:15:31Z",
+   "why": "AeroVironment Rises 5% on First International LOCUST Laser Order, Unusual Machines Holds Steady, Ondas Slips",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-rises-5-first-international-130703291.html",
+   "published": "2026-09-10T13:07:03Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]

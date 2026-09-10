@@ -36,10 +36,10 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
-| SoftBank's $25.9 Billion Move Could Unlock Its Biggest AI Bet Yet | GuruFocus.com | 2026-09-10 |
-| Stocks Slump as Crude Prices Soar and Bond Yields Surge | Barchart | 2026-09-10 |
+| SoftBank Just Freed Up $25.9 Billion and Its Next AI Move Could Be Huge | GuruFocus.com | 2026-09-10 |
 | Meta upgraded, Nvidia initiated: Wall Street's top analyst calls | The Fly | 2026-09-10 |
 | Arm Holdings (ARM): AI Infrastructure and CPU Demand Drive Upbeat Outlook | Insider Monkey | 2026-09-10 |
+| Arm's Rise Hides a $200 Billion Robot Bet | GuruFocus.com | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

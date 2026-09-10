@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| Semiconductors Stocks Q2 Highlights: Micron (NASDAQ:MU) | StockStory | 2026-09-10 |
 | S&P 500 ends down as Treasury yields rise and traders fret about inflation | Reuters | 2026-09-10 |
 | Micron Drops 4.2% While China's AI Chips Reveal Its Pricing Power | GuruFocus.com | 2026-09-10 |
 | Not Nvidia, Not Palantir. This Might Be September's Most Important AI Infrastructure Stock. | Motley Fool | 2026-09-10 |
-| Micron's 662% Rally Has Created a Very Different Problem | GuruFocus.com | 2026-09-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

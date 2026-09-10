@@ -36,10 +36,10 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 | Headline | Source | Date |
 |---|---|---|
+| Drone Maker AeroVironment Soars With Analyst Targets After Earnings Beat | Investor's Business Daily | 2026-09-10 |
 | Oracle, SpaceX, Cooper Cos., Macy’s, Apple, Navan, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-10 |
 | AeroVironment Shares Jump 10% After Record Revenue Crushes Estimates | GuruFocus.com | 2026-09-10 |
 | Stock Market Midday, Sept. 10: Surging Oil Prices Pressure Markets Again | Motley Fool | 2026-09-10 |
-| AeroVironment (AVAV) Q1 2027 Earnings Call Transcript | Motley Fool | 2026-09-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

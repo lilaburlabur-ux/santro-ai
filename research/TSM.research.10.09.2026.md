@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Dow Jones Futures: S&P 500 Breaks Support As Oil Prices, Yields Surge; Oracle Jumps Late With CPI Inflation Due | Investor's Business Daily | 2026-09-10 |
 | Oracle, SpaceX, Cooper Cos., Macy’s, Apple, Navan, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-10 |
 | TSMC Falls After Record Sales--AI Investors Want Even More | GuruFocus.com | 2026-09-10 |
 | Stocks to Watch Thursday: Apple, Oracle, TSMC | The Wall Street Journal | 2026-09-10 |
-| Tech, Media & Telecom Roundup: Market Talk | The Wall Street Journal | 2026-09-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

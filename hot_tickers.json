@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-10T21:44:23+00:00",
+  "as_of": "2026-09-10T21:57:53+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "AVAV",
    "company": "AeroVironment Inc",
-   "move_pct": 5.14,
-   "price": 148.04,
+   "move_pct": 5.11,
+   "price": 147.99,
    "volume": 8713131,
    "volume_vs_avg": "~6x",
    "heat_score": 64,
@@ -25,10 +25,26 @@
   },
   {
    "rank": 2,
+   "ticker": "ADBE",
+   "company": "Adobe Inc",
+   "move_pct": -5.06,
+   "price": 241.97,
+   "volume": 9883241,
+   "volume_vs_avg": "~2x",
+   "heat_score": 43,
+   "direction": "down",
+   "why": "Adobe Systems (ADBE) Q3 Earnings and Revenues Beat Estimates",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/adobe-systems-adbe-q3-earnings-212501160.html",
+   "published": "2026-09-10T21:25:01Z",
+   "sector": "AI Applications & Data Software"
+  },
+  {
+   "rank": 3,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": -5.64,
-   "price": 100.25,
+   "move_pct": -5.5,
+   "price": 100.4,
    "volume": 96048649,
    "volume_vs_avg": "~0.9x",
    "heat_score": 39,

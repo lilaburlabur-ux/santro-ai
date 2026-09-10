@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | SpaceX stock rises with data center overhaul, budding UK defense deal in focus | Yahoo Finance | 2026-09-10 |
 | Treasury yields rise as investors raise bets on Fed rate hike: AlphaCheck | Yahoo Finance | 2026-09-10 |
-| Dow Jones Futures: S&P 500 Breaks Support As Oil Prices, Yields Surge; Oracle Jumps Late With CPI Inflation Due | Investor's Business Daily | 2026-09-10 |
-| Bloom Energy vs. FuelCell Energy: Which Data Center Fuel Cell Maker Is the Better Buy Right Now? | Motley Fool | 2026-09-10 |
+| Palantir Technologies Showcases Sovereign AI Wins With NVIDIA, Cisco and FAA | MarketBeat | 2026-09-10 |
+| Micron Is Down 19% From Its High. History Suggests a $5,000 Investment Today Could Be Worth This Much by 2030. | Motley Fool | 2026-09-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

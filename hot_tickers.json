@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-10T14:54:04+00:00",
+  "as_of": "2026-09-10T15:09:17+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,33 +11,17 @@
    "rank": 1,
    "ticker": "AVAV",
    "company": "AeroVironment Inc",
-   "move_pct": 11.76,
-   "price": 157.37,
-   "volume": 4657106,
-   "volume_vs_avg": "~3x",
-   "heat_score": 83,
+   "move_pct": 10.58,
+   "price": 155.7,
+   "volume": 4981194,
+   "volume_vs_avg": "~4x",
+   "heat_score": 80,
    "direction": "up",
    "why": "AVAV Q1 Earnings Call Centers on LOCUST Scale-Up & Second-Half Ramp-Up",
    "catalyst_type": "earnings",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/avav-q1-earnings-call-centers-140000513.html",
    "published": "2026-09-10T14:00:00Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 2,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings Co",
-   "move_pct": -5.03,
-   "price": 249.66,
-   "volume": 4253729,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 36,
-   "direction": "down",
-   "why": "Vertiv Has Cooled For 3 Months: A Wall Street Strategist Says It Will Rebound 45% Very Soon",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-cooled-3-months-wall-114456669.html",
-   "published": "2026-09-10T11:44:56Z",
-   "sector": "Data Center, Power & Energy"
   }
  ]
 }

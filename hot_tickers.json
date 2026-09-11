@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-11T13:14:05+00:00",
+  "as_of": "2026-09-11T13:29:22+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "ORCL",
    "company": "Oracle Corp",
-   "move_pct": 7.09,
-   "price": 163.79,
+   "move_pct": 7.36,
+   "price": 164.2,
    "volume": 55598000,
    "volume_vs_avg": "~2x",
-   "heat_score": 50,
+   "heat_score": 51,
    "direction": "up",
-   "why": "Stock Market Today: Dow Rises On Surprise Inflation Data; AI Name Oracle Jumps On Earnings (Live Coverage)",
-   "catalyst_type": "earnings",
+   "why": "Stock Market Today: Dow Rallies On Surprise Inflation Data; Nvidia Rebounds, Oracle Jumps (Live Coverage)",
+   "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cpi-inflation-report-oracle-stock-orcl/?src=A00220&yptr=yahoo",
-   "published": "2026-09-11T12:42:13Z",
+   "published": "2026-09-11T13:10:19Z",
    "sector": "AI Software & Cloud Infrastructure"
   }
  ]

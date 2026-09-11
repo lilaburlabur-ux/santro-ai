@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-11T12:30:17+00:00",
+  "as_of": "2026-09-11T12:38:19+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "ORCL",
+   "company": "Oracle Corp",
+   "move_pct": 6.45,
+   "price": 162.8,
+   "volume": 55598000,
+   "volume_vs_avg": "~2x",
+   "heat_score": 48,
+   "direction": "up",
+   "why": "Oracle stock surges as AI cloud demand outpaces supply",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/article/oracle-stock-surges-as-ai-cloud-demand-outpaces-supply-122103986.html",
+   "published": "2026-09-11T12:21:03Z",
+   "sector": "AI Software & Cloud Infrastructure"
+  }
+ ]
 }

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-11T00:29:03+00:00",
+  "as_of": "2026-09-11T00:44:13+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -31,12 +31,12 @@
    "price": 140.8,
    "volume": 8713131,
    "volume_vs_avg": "~6x",
-   "heat_score": 65,
+   "heat_score": 50,
    "direction": "down",
-   "why": "Drone Maker AeroVironment Soars With Analyst Targets After Earnings Beat",
-   "catalyst_type": "earnings",
-   "source_url": "https://www.investors.com/news/aerovironment-earnings-q1-2027-analyst-targets-drone-demand-avav-stock/?src=A00220&yptr=yahoo",
-   "published": "2026-09-10T20:41:58Z",
+   "why": "Moving down 5.4% on ~6x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-11T08:59:26+00:00",
+  "as_of": "2026-09-11T09:14:37+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "ORCL",
    "company": "Oracle Corp",
-   "move_pct": 6.97,
-   "price": 163.6,
+   "move_pct": 6.05,
+   "price": 162.19,
    "volume": 55598000,
    "volume_vs_avg": "~2x",
-   "heat_score": 50,
+   "heat_score": 47,
    "direction": "up",
-   "why": "Nasdaq, Dow, S&P 500 Futures Rise After 4-Day Market Slide As CPI Looms Large: ORCL, ADBE, MU, TSLA, RKLB, IBRX, HOOD, GME In Focus",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dow-p-500-futures-083352033.html",
-   "published": "2026-09-11T08:33:52Z",
+   "why": "Oracle Corp (ORCL) (Q1 2027) Earnings Call Highlights: Record Revenue, 121% Cloud ...",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/oracle-corp-orcl-q1-2027-090101356.html",
+   "published": "2026-09-11T09:01:01Z",
    "sector": "AI Software & Cloud Infrastructure"
   }
  ]

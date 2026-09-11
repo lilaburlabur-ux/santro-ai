@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-11T13:29:22+00:00",
+  "as_of": "2026-09-11T13:44:26+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,19 +9,51 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "ORCL",
-   "company": "Oracle Corp",
-   "move_pct": 7.36,
-   "price": 164.2,
-   "volume": 55598000,
-   "volume_vs_avg": "~2x",
-   "heat_score": 51,
-   "direction": "up",
-   "why": "Stock Market Today: Dow Rallies On Surprise Inflation Data; Nvidia Rebounds, Oracle Jumps (Live Coverage)",
+   "ticker": "SMR",
+   "company": "NuScale Power Corp",
+   "move_pct": -9.26,
+   "price": 9.27,
+   "volume": 9472947,
+   "volume_vs_avg": "~0.3x",
+   "heat_score": 59,
+   "direction": "down",
+   "why": "NuScale Power Drops 5% as UBS Cuts to Sell on Timeline and Cash Burn, Oklo Slips",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cpi-inflation-report-oracle-stock-orcl/?src=A00220&yptr=yahoo",
-   "published": "2026-09-11T13:10:19Z",
-   "sector": "AI Software & Cloud Infrastructure"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-drops-5-ubs-132537938.html",
+   "published": "2026-09-11T13:25:37Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 2,
+   "ticker": "DELL",
+   "company": "Dell Technologies Inc",
+   "move_pct": 7.29,
+   "price": 543.54,
+   "volume": 1557477,
+   "volume_vs_avg": "~0.2x",
+   "heat_score": 42,
+   "direction": "up",
+   "why": "Here Are Friday\u2019s Top Wall Street Analyst Research Calls: Atmos Energy, Celanese, Check Point Software, Chewy, Dell Technologies, Fortinet, Global Payments, HP, Shopify, and More",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/friday-top-wall-street-analyst-115503328.html",
+   "published": "2026-09-11T11:55:03Z",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 3,
+   "ticker": "OKLO",
+   "company": "Oklo Inc",
+   "move_pct": -6.97,
+   "price": 37.1,
+   "volume": 3931311,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 41,
+   "direction": "down",
+   "why": "NuScale Power Drops 5% as UBS Cuts to Sell on Timeline and Cash Burn, Oklo Slips",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-drops-5-ubs-132537938.html",
+   "published": "2026-09-11T13:25:37Z",
+   "sector": "Data Center, Power & Energy"
   }
  ]
 }

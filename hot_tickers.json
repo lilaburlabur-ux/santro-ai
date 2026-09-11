@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-11T08:29:02+00:00",
+  "as_of": "2026-09-11T08:44:17+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "ORCL",
    "company": "Oracle Corp",
-   "move_pct": 6.82,
-   "price": 163.37,
+   "move_pct": 7.09,
+   "price": 163.79,
    "volume": 55598000,
    "volume_vs_avg": "~2x",
-   "heat_score": 49,
+   "heat_score": 50,
    "direction": "up",
-   "why": "Dow Jones Futures Rise, Oil Prices Fall, Oracle Jumps; CPI Inflation Data To Inform Fed",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-oil-prices-treasury-yields-cpi-inflation-oracle-earnings/?src=A00220&yptr=yahoo",
-   "published": "2026-09-11T08:09:12Z",
+   "why": "Update: Oracle Shares Jump Pre-Bell After Fiscal Q1 Adjusted Earnings, Revenue Beat; Lifts Fiscal 2027 Guidance",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/oracle-shares-jump-pre-bell-082436979.html",
+   "published": "2026-09-11T08:24:36Z",
    "sector": "AI Software & Cloud Infrastructure"
   }
  ]

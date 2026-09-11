@@ -18,7 +18,7 @@ Signed file: `AVGO.research.11.09.2026`
 | Technical momentum | Moderate | 1Y -1.33%; price -2.02% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -24.71% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 42.94%, revenue growth 85.50%. |
-| Value attractiveness | Reasonable | Forward P/E 18.67, EV/Sales 19.70. |
+| Value attractiveness | Reasonable | Forward P/E 18.67, EV/Sales 19.73. |
 | Risk level | Elevated | Beta 1.46, ATR 3.3% of price, short float 1.08%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -66,16 +66,16 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 |---|---|---|
 | Next earnings | 2026-12-09 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $89.10B | Revenue growth 85.50% y/y |
-| Profitability | Gross 75.52%, operating 54.31%, net 42.94% | ROA 15.30%, ROE 44.25% |
+| Profitability | Gross 75.52%, operating 54.31%, net 42.94% | ROA 15.37%, ROE 44.25% |
 | Balance sheet | Cash $23.98B, debt $59.42B | Current ratio 2.50, debt/equity 59.60 |
-| Valuation | P/E 46.23, forward P/E 18.67, P/S 19.39, P/B 17.34 | EV/Sales 19.70, EV/EBITDA 33.72 |
+| Valuation | P/E 46.23, forward P/E 18.67, P/S 19.39, P/B 17.34 | EV/Sales 19.73, EV/EBITDA 33.64 |
 | Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $531.85 (47 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 80.17% |
-| Insider ownership | 1.95% |
+| Institutional ownership | 79.82% |
+| Insider ownership | 1.94% |
 | Short float | 1.08% |
 | Short ratio (days to cover) | 2.6 |
 
@@ -110,17 +110,17 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $361.99 | EV/Sales | 19.70 |
-| Market cap | $1.73T | EV/EBITDA | 33.72 |
+| Price | $361.99 | EV/Sales | 19.73 |
+| Market cap | $1.73T | EV/EBITDA | 33.64 |
 | Beta | 1.46 | Gross margin | 75.52% |
 | RSI(14) | 42.2 | Operating margin | 54.31% |
 | ATR(14) | 12.03 | Profit margin | 42.94% |
-| SMA20 dist | -1.50% | ROA | 15.30% |
+| SMA20 dist | -1.50% | ROA | 15.37% |
 | SMA50 dist | -5.51% | ROE | 44.25% |
 | SMA200 dist | -2.02% | Revenue (ttm) | $89.10B |
 | 52W high | $480.81 | Revenue growth y/y | 85.50% |
-| 52W low | $292.95 | Inst. ownership | 80.17% |
-| P/E (ttm) | 46.23 | Insider ownership | 1.95% |
+| 52W low | $292.95 | Inst. ownership | 79.82% |
+| P/E (ttm) | 46.23 | Insider ownership | 1.94% |
 | Forward P/E | 18.67 | Short float | 1.08% |
 | PEG (trailing) | 0.36 | Avg volume | 23,890,287 |
 | P/S | 19.39 | Employees | 33,000 |

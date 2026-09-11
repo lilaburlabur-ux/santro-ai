@@ -69,7 +69,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Profitability | Gross 74.67%, operating 66.24%, net 63.66% | ROA 53.57%, ROE 117.21% |
 | Balance sheet | Cash $62.47B, debt $38.86B | Current ratio 4.59, debt/equity 16.97 |
 | Valuation | P/E 27.63, forward P/E 14.02, P/S 17.40, P/B 23.02 | EV/Sales 17.29, EV/EBITDA 26.03 |
-| Growth expectations | Earnings growth 127.80%, EPS q/q 125.90% | Analyst mean target $327.65 (57 analysts) |
+| Growth expectations | Earnings growth 127.80%, EPS q/q 125.90% | Analyst mean target $327.18 (58 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

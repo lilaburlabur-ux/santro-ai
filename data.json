@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-11T13:14:00+00:00",
-  "as_of_local": "2026-09-11 13:14:00 UTC",
+  "as_of_utc": "2026-09-11T13:19:07+00:00",
+  "as_of_local": "2026-09-11 13:19:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -27,10 +25,10 @@
           "published": "2026-09-10T13:56:52Z"
         },
         {
-          "title": "Investors Heavily Search NVIDIA Corporation (NVDA): Here is What You Need to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-nvidia-corporation-130005530.html",
-          "publisher": "Zacks",
-          "published": "2026-09-11T13:00:05Z"
+          "title": "How Top Fidelity Manager Beats The Herd With 'Overanalyzed' Stocks",
+          "url": "https://www.investors.com/etfs-and-funds/mutual-funds/top-fund-fidelity-manager-beats-the-herd-with-overanalyzed-stocks/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-11T13:00:43Z"
         }
       ]
     },
@@ -91,6 +89,34 @@
       ]
     },
     {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 977.41,
+      "previous_close": 1027.77,
+      "change_pct": -4.9,
+      "market_cap": 1103880129388.5276,
+      "headlines": [
+        {
+          "title": "Update: US Equity Futures Higher Pre-Bell as Traders Assess More Inflation Data and Drop in Oil Prices",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-higher-pre-125437463.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-11T12:54:37Z"
+        },
+        {
+          "title": "Goldman Sachs and Billionaires Like These 2 AI Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-billionaires-2-ai-125326359.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-11T12:53:26Z"
+        },
+        {
+          "title": "Micron Bets on Long-Term SCA Deals: Can It Lower Earnings Cyclicality?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-bets-long-term-sca-123400284.html",
+          "publisher": "Zacks",
+          "published": "2026-09-11T12:34:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 503.6,
@@ -124,7 +150,7 @@
       "price": 100.32,
       "previous_close": 106.24,
       "change_pct": -5.57,
-      "market_cap": 530302078270.6487,
+      "market_cap": 527134078317.24585,
       "headlines": [
         {
           "title": "What Happens To NVIDIA Stock If The Buyers It Funds Cannot Pay?",
@@ -217,16 +243,16 @@
           "published": "2026-09-11T12:52:50Z"
         },
         {
+          "title": "Why Nvidia\u2019s Chip Rivals Have Left It in the Dust This Week",
+          "url": "https://www.barrons.com/articles/nvidia-stock-price-chip-rivals-832fd133?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-11T12:44:00Z"
+        },
+        {
           "title": "Qualcomm Chip Deal With Samsung Hits a Major Pricing Snag",
           "url": "https://finance.yahoo.com/technology/articles/qualcomm-chip-deal-samsung-hits-120833823.html",
           "publisher": "GuruFocus.com",
           "published": "2026-09-11T12:08:33Z"
-        },
-        {
-          "title": "Qualcomm Sold Server Chips Once Before and Quit Within a Year. History Says What Has to Be Different This Time.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-sold-server-chips-once-113401599.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-11T11:34:01Z"
         }
       ]
     },
@@ -264,7 +290,7 @@
       "price": 114.14,
       "previous_close": 115.45,
       "change_pct": -1.13,
-      "market_cap": 16179254628.743149,
+      "market_cap": 16211335159.391602,
       "headlines": [
         {
           "title": "1 Semiconductor Stock to Own for Decades and 2 Facing Challenges",
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -4.9,
+          "price": 977.41,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -4.9,
+        "price": 977.41,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 77639.7,
-      "change_pct": 1.4
+      "price": 77681.25,
+      "change_pct": 1.45
     },
     {
       "label": "Gold",
-      "price": 4430.1,
-      "change_pct": 1.5
+      "price": 4425.9,
+      "change_pct": 1.41
     },
     {
       "label": "Nasdaq100",

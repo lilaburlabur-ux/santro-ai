@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-11T10:57:05+00:00",
+  "as_of": "2026-09-11T11:12:30+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "ORCL",
    "company": "Oracle Corp",
-   "move_pct": 7.6,
-   "price": 164.57,
+   "move_pct": 5.69,
+   "price": 161.64,
    "volume": 55598000,
    "volume_vs_avg": "~2x",
-   "heat_score": 52,
+   "heat_score": 46,
    "direction": "up",
-   "why": "Dow Jones Futures Rise, Oil Prices Fall, Oracle Jumps; CPI Inflation Data To Inform Fed",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-oil-prices-treasury-yields-cpi-inflation-oracle-earnings/?src=A00220&yptr=yahoo",
-   "published": "2026-09-11T10:34:53Z",
+   "why": "ORCL Stock On Track To Erase Pre-Earnings Losses, Barclays Says Growth Has \u2018Inflected\u2019",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/orcl-stock-track-erase-pre-104823572.html",
+   "published": "2026-09-11T10:48:23Z",
    "sector": "AI Software & Cloud Infrastructure"
   }
  ]

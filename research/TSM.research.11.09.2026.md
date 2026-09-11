@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Sell the Nvidia Shares That Made Your Retirement or Ride Them Into It? These 3 ETFs Are the Middle Path | 24/7 Wall St. | 2026-09-11 |
 | TSMC Rebounds as August Sales Smash NT$500 Billion | GuruFocus.com | 2026-09-11 |
+| Tech, Media & Telecom Roundup: Market Talk | The Wall Street Journal | 2026-09-11 |
 | Astera Labs vs. Taiwan Semiconductor Manufacturing: Which AI Supplier Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-11 |
-| TSMC Just Delivered Fantastic News for Nvidia Shareholders | Motley Fool | 2026-09-11 |
-| ‘Apple and Microsoft Look Like Value Stocks’: Morningstar on SanDisk’s 2,107% Year | 24/7 Wall St. | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

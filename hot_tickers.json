@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-11T22:30:14+00:00",
+  "as_of": "2026-09-11T22:35:40+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,26 +9,10 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "SMR",
-   "company": "NuScale Power Corp",
-   "move_pct": -14.49,
-   "price": 8.73,
-   "volume": 92048618,
-   "volume_vs_avg": "~3x",
-   "heat_score": 90,
-   "direction": "down",
-   "why": "Why NuScale Power Stock Just Crashed",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-nuscale-power-stock-just-183042826.html",
-   "published": "2026-09-11T18:30:42Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 2,
    "ticker": "HPE",
    "company": "Hewlett Packard Enterprise Co",
-   "move_pct": 12.38,
-   "price": 62.06,
+   "move_pct": 12.37,
+   "price": 62.05,
    "volume": 38956735,
    "volume_vs_avg": "~2x",
    "heat_score": 78,
@@ -40,14 +24,14 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "ticker": "DELL",
    "company": "Dell Technologies Inc",
-   "move_pct": 12.02,
-   "price": 567.5,
+   "move_pct": 12.01,
+   "price": 567.45,
    "volume": 14366604,
    "volume_vs_avg": "~2x",
-   "heat_score": 77,
+   "heat_score": 76,
    "direction": "up",
    "why": "What Did Dell Technologies Say Before Its Stock Quadrupled?",
    "catalyst_type": "momentum_narrative",
@@ -56,7 +40,7 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "ticker": "OKLO",
    "company": "Oklo Inc",
    "move_pct": -8.77,
@@ -72,7 +56,7 @@
    "sector": "Data Center, Power & Energy"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "ANET",
    "company": "Arista Networks Inc",
    "move_pct": 5.56,
@@ -88,7 +72,7 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "ticker": "PWR",
    "company": "Quanta Services Inc",
    "move_pct": 5.05,

@@ -1,22 +1,22 @@
-# Watchlist Research Index — 10.09.2026
-> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-10.
+# Watchlist Research Index — 11.09.2026
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-11.
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
-| NVDA | $5.27T | +28% | 14.0 | 64% | Moderate | Reasonable | High |
-| TSM | $2.22T | +72% | 19.5 | 50% | High | Reasonable | Elevated |
-| AVGO | $1.72T | +8% | 18.6 | 43% | Moderate | Reasonable | Elevated |
-| MU | $1.10T | +624% | 6.3 | 56% | High | Reasonable | High |
-| AMD | $822.11B | +223% | 32.2 | 16% | High | Fair-to-demanding | High |
-| INTC | $530.30B | +310% | 49.1 | -20% | High | Low (expensive) | High |
-| ARM | $271.46B | +81% | 83.0 | 20% | High | Low (expensive) | High |
-| MRVL | $203.97B | +240% | 33.8 | 28% | High | Fair-to-demanding | High |
-| QCOM | $188.92B | +14% | 17.3 | 21% | Moderate | Reasonable | Elevated |
-| NXPI | $57.11B | +3% | 12.5 | 23% | Moderate | Reasonable | Elevated |
-| LSCC | $16.21B | +73% | 35.5 | 6% | High | Low (expensive) | Elevated |
-| SYNA | $3.66B | +34% | 14.2 | -41% | Moderate | Reasonable | High |
-| CEVA | $787.19M | +22% | 35.1 | -9% | Moderate | Low (expensive) | High |
-| AVAV | $7.47B | -36% | 33.0 | -13% | Low | Fair-to-demanding | High |
+| NVDA | $5.27T | +23% | 14.0 | 64% | Moderate | Reasonable | High |
+| TSM | $2.25T | +68% | 19.8 | 50% | High | Reasonable | Elevated |
+| AVGO | $1.73T | -1% | 18.7 | 43% | Moderate | Reasonable | Elevated |
+| MU | $1.10T | +598% | 6.3 | 56% | High | Reasonable | High |
+| AMD | $842.57B | +224% | 33.3 | 16% | High | Fair-to-demanding | High |
+| INTC | $544.15B | +316% | 50.3 | -20% | High | Low (expensive) | High |
+| ARM | $282.80B | +72% | 86.4 | 20% | High | Low (expensive) | High |
+| MRVL | $212.18B | +253% | 35.1 | 28% | High | Low (expensive) | High |
+| QCOM | $194.35B | +17% | 17.8 | 21% | Moderate | Reasonable | Elevated |
+| NXPI | $59.67B | +10% | 13.1 | 23% | Moderate | Reasonable | Elevated |
+| LSCC | $17.01B | +81% | 37.3 | 6% | High | Low (expensive) | Elevated |
+| SYNA | $3.95B | +46% | 15.4 | -41% | Moderate | Reasonable | High |
+| CEVA | $816.75M | +26% | 36.5 | -9% | Moderate | Low (expensive) | High |
+| AVAV | $7.46B | -41% | 32.9 | -13% | Low | Fair-to-demanding | High |
 
 14 reports generated; failed: none.
 

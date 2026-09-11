@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-11T08:23:49+00:00",
+  "as_of": "2026-09-11T08:29:02+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "ORCL",
    "company": "Oracle Corp",
-   "move_pct": 6.37,
-   "price": 162.68,
+   "move_pct": 6.82,
+   "price": 163.37,
    "volume": 55598000,
    "volume_vs_avg": "~2x",
-   "heat_score": 48,
+   "heat_score": 49,
    "direction": "up",
    "why": "Dow Jones Futures Rise, Oil Prices Fall, Oracle Jumps; CPI Inflation Data To Inform Fed",
    "catalyst_type": "momentum_narrative",

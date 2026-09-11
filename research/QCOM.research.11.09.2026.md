@@ -69,7 +69,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Profitability | Gross 54.23%, operating 18.53%, net 21.01% | ROA 11.61%, ROE 33.75% |
 | Balance sheet | Cash $8.30B, debt $15.27B | Current ratio 2.02, debt/equity 55.21 |
 | Valuation | P/E 20.77, forward P/E 17.84, P/S 4.41, P/B 6.95 | EV/Sales 4.37, EV/EBITDA 16.06 |
-| Growth expectations | Earnings growth -23.00%, EPS q/q -24.90% | Analyst mean target $194.43 (30 analysts) |
+| Growth expectations | Earnings growth -23.00%, EPS q/q -24.90% | Analyst mean target $193.90 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| How Much JEPQ Do You Need to Collect $2,400 a Month? | 24/7 Wall St. | 2026-09-11 |
+| Former OpenAI Researcher Bets on AI Stocks After $35 Billion Wipeout | BeInCrypto | 2026-09-11 |
+| Oracle, Kroger, Adobe, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-11 |
 | 1 Thing I Wish I'd Known About the Stock Market When I First Started Investing | Motley Fool | 2026-09-11 |
-| Should Qualcomm Stockholders Worry About Its Shrinking Revenue? | Trefis | 2026-09-11 |
-| AMD Expands Into Rack-Scale AI as Agentic Workloads Boost CPU Demand | MarketBeat | 2026-09-11 |
-| The Better Nvidia Killer: Broadcom or AMD? | 24/7 Wall St. | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -69,7 +69,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Profitability | Gross 55.72%, operating 17.25%, net 15.58% | ROA 5.13%, ROE 10.20% |
 | Balance sheet | Cash $13.11B, debt $4.28B | Current ratio 2.61, debt/equity 6.36 |
 | Valuation | P/E 131.33, forward P/E 33.28, P/S 20.40, P/B 12.53 | EV/Sales 19.69, EV/EBITDA 85.05 |
-| Growth expectations | Earnings growth 159.50%, EPS q/q 163.40% | Analyst mean target $615.07 (50 analysts) |
+| Growth expectations | Earnings growth 159.50%, EPS q/q 163.40% | Analyst mean target $615.38 (49 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| Micron Takes Unexpected Step as Tensions Rise | GuruFocus.com | 2026-09-11 |
 | Micron Stays Flat as 68-Month Bonuses Fail to End Strike Risk | GuruFocus.com | 2026-09-11 |
 | Storage Stocks Slide as Profit Taking Follows Big Run: Seagate Falls 4%, SanDisk Drops 3%, Micron Holds Flat | 24/7 Wall St. | 2026-09-11 |
 | Why Micron Stock Is on Pace for a Weekly Decline | Barrons.com | 2026-09-11 |
-| Wall Street Just Erased $57 Billion From Micron. The Shortage Behind Its Boom Is Getting Worse. | 24/7 Wall St. | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

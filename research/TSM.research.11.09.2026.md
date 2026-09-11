@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| TSMC Rebounds as August Sales Smash NT$500 Billion | GuruFocus.com | 2026-09-11 |
 | Astera Labs vs. Taiwan Semiconductor Manufacturing: Which AI Supplier Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-11 |
 | TSMC Just Delivered Fantastic News for Nvidia Shareholders | Motley Fool | 2026-09-11 |
 | ‘Apple and Microsoft Look Like Value Stocks’: Morningstar on SanDisk’s 2,107% Year | 24/7 Wall St. | 2026-09-11 |
-| AMD Expands Into Rack-Scale AI as Agentic Workloads Boost CPU Demand | MarketBeat | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

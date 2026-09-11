@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Marvell Is Winning Custom AI Business. TSMC May Be the Safer Way to Play It | Insider Monkey | 2026-09-11 |
 | Marvell CEO reveals decade-long gem behind its explosive 239% surge | TheStreet | 2026-09-11 |
 | Top Stock Reports for Meta Platforms, Marvell & Amphenol | Zacks | 2026-09-11 |
 | Astera Labs vs. Marvell Technology: Which AI-Driven Tech Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-11 |
-| Marvell Rises 5% as Piper Sandler Starts Coverage With $270 Target; Broadcom Edges Higher, NVIDIA Holds Steady | 24/7 Wall St. | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| TSM Just Posted Record Sales. Nvidia May Be Both the Winner and the One Paying for It | Insider Monkey | 2026-09-11 |
 | Marvell CEO reveals decade-long gem behind its explosive 239% surge | TheStreet | 2026-09-11 |
 | Sell the Nvidia Shares That Made Your Retirement or Ride Them Into It? These 3 ETFs Are the Middle Path | 24/7 Wall St. | 2026-09-11 |
 | Sector Update: Tech Stocks Gain Late Afternoon | MT Newswires | 2026-09-11 |
-| Should Qualcomm Stockholders Worry About Its Shrinking Revenue? | Trefis | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

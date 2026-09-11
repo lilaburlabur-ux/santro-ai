@@ -36,10 +36,10 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 | Headline | Source | Date |
 |---|---|---|
+| Stocks making big moves this week: Solaris Energy Infrastructure, Revolve, AeroVironment, DigitalOcean, and SoFi | StockStory | 2026-09-11 |
 | AeroVironment CEO: “$10-Per-Shot Laser Beats $150,000 Drones” — But Stock Keeps Falling | 24/7 Wall St. | 2026-09-11 |
 | Autonomous Systems Strength Offsets SCDE Weakness for AeroVironment (AVAV) | Insider Monkey | 2026-09-11 |
 | AVAV Underperforms Industry in the Past 6 Months: What Should You Do? | Zacks | 2026-09-11 |
-| Ondas Raises 2026 Revenue View: Can It Deliver the Required H2 Ramp? | Zacks | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

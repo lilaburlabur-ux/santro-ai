@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| TSM Just Posted Record Sales. Nvidia May Be Both the Winner and the One Paying for It | Insider Monkey | 2026-09-11 |
 | Marvell CEO reveals decade-long gem behind its explosive 239% surge | TheStreet | 2026-09-11 |
 | Sell the Nvidia Shares That Made Your Retirement or Ride Them Into It? These 3 ETFs Are the Middle Path | 24/7 Wall St. | 2026-09-11 |
 | How Much JEPQ Do You Need to Collect $2,400 a Month? | 24/7 Wall St. | 2026-09-11 |
-| Former OpenAI Researcher Bets on AI Stocks After $35 Billion Wipeout | BeInCrypto | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

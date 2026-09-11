@@ -18,7 +18,7 @@ Signed file: `TSM.research.11.09.2026`
 | Technical momentum | High | 1Y +68.19%; price +15.53% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -9.28% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 49.92%, revenue growth 36.00%. |
-| Value attractiveness | Reasonable | Forward P/E 19.76, EV/Sales 3.46. |
+| Value attractiveness | Reasonable | Forward P/E 19.76, EV/Sales 3.51. |
 | Risk level | Elevated | Beta 1.25, ATR 2.6% of price, short float 0.62%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Marvell Is Winning Custom AI Business. TSMC May Be the Safer Way to Play It | Insider Monkey | 2026-09-11 |
+| TSM Just Posted Record Sales. Nvidia May Be Both the Winner and the One Paying for It | Insider Monkey | 2026-09-11 |
 | Sell the Nvidia Shares That Made Your Retirement or Ride Them Into It? These 3 ETFs Are the Middle Path | 24/7 Wall St. | 2026-09-11 |
 | TSMC Rebounds as August Sales Smash NT$500 Billion | GuruFocus.com | 2026-09-11 |
-| Tech, Media & Telecom Roundup: Market Talk | The Wall Street Journal | 2026-09-11 |
-| Astera Labs vs. Taiwan Semiconductor Manufacturing: Which AI Supplier Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.44T | Revenue growth 36.00% y/y |
 | Profitability | Gross 64.23%, operating 60.34%, net 49.92% | ROA 19.00%, ROE 39.97% |
 | Balance sheet | Cash $3.52T, debt $1.07T | Current ratio 2.46, debt/equity 16.50 |
-| Valuation | P/E 31.93, forward P/E 19.76, P/S 0.51, P/B 88.66 | EV/Sales 3.46, EV/EBITDA 4.85 |
+| Valuation | P/E 31.93, forward P/E 19.76, P/S 0.51, P/B 88.66 | EV/Sales 3.51, EV/EBITDA 4.92 |
 | Growth expectations | Earnings growth 77.40%, EPS q/q 77.40% | Analyst mean target $551.26 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $433.24 | EV/Sales | 3.46 |
-| Market cap | $2.25T | EV/EBITDA | 4.85 |
+| Price | $433.24 | EV/Sales | 3.51 |
+| Market cap | $2.25T | EV/EBITDA | 4.92 |
 | Beta | 1.25 | Gross margin | 64.23% |
 | RSI(14) | 56.9 | Operating margin | 60.34% |
 | ATR(14) | 11.18 | Profit margin | 49.92% |

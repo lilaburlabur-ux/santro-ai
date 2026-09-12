@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-12T01:07:55+00:00",
-  "as_of_local": "2026-09-12 01:07:55 UTC",
+  "as_of_utc": "2026-09-12T01:22:56+00:00",
+  "as_of_local": "2026-09-12 01:22:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CEVA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -43,6 +41,12 @@
       "market_cap": 2246988001392.12,
       "headlines": [
         {
+          "title": "David Tepper makes surprising double bet on AI's biggest bottleneck",
+          "url": "https://finance.yahoo.com/technology/ai/articles/david-tepper-makes-surprising-double-010300005.html",
+          "publisher": "TheStreet",
+          "published": "2026-09-12T01:03:00Z"
+        },
+        {
           "title": "Broadcom\u2019s Custom AI Chip Boom Has a Powerful Landlord: TSM",
           "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-custom-ai-chip-boom-231614780.html",
           "publisher": "Insider Monkey",
@@ -53,12 +57,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/tsm-record-month-confirms-amd-230905086.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-11T23:09:05Z"
-        },
-        {
-          "title": "Marvell Is Winning Custom AI Business. TSMC May Be the Safer Way to Play It",
-          "url": "https://finance.yahoo.com/technology/ai/articles/marvell-winning-custom-ai-business-230422179.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-11T23:04:22Z"
         }
       ]
     },
@@ -99,6 +97,12 @@
       "market_cap": 1101451964444.26,
       "headlines": [
         {
+          "title": "David Tepper makes surprising double bet on AI's biggest bottleneck",
+          "url": "https://finance.yahoo.com/technology/ai/articles/david-tepper-makes-surprising-double-010300005.html",
+          "publisher": "TheStreet",
+          "published": "2026-09-12T01:03:00Z"
+        },
+        {
           "title": "Micron (MU)\u2019s Taiwan Workers Want a Bigger Slice of its Record AI Profits",
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-taiwan-workers-want-233643237.html",
           "publisher": "Insider Monkey",
@@ -109,12 +113,6 @@
           "url": "https://finance.yahoo.com/technology/articles/intel-backed-startup-says-beat-232338040.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-11T23:23:38Z"
-        },
-        {
-          "title": "AI\u2019s HBM Shortage Strengthens Micron\u2019s Hand\u2014and Pressures Nvidia\u2019s GPU Economics",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-hbm-shortage-strengthens-micron-230133016.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-11T23:01:33Z"
         }
       ]
     },
@@ -369,6 +367,34 @@
           "published": "2026-09-01T17:13:14Z"
         }
       ]
+    },
+    {
+      "symbol": "CEVA",
+      "name": "CEVA",
+      "price": 27.96,
+      "previous_close": 28.1,
+      "change_pct": -0.5,
+      "market_cap": 816749628.72,
+      "headlines": [
+        {
+          "title": "Analysing CEVA\u2019s (CEVA) Growth in Neural Processing Markets",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analysing-ceva-ceva-growth-neural-144155084.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-04T14:41:55Z"
+        },
+        {
+          "title": "CEVA Stock Slides 19% in a Month: Should You Buy the Dip or Wait?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-stock-slides-19-month-160300637.html",
+          "publisher": "Zacks",
+          "published": "2026-09-01T16:03:00Z"
+        },
+        {
+          "title": "Bears are Losing Control Over Ceva (CEVA), Here's Why It's a 'Buy' Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bears-losing-control-over-ceva-135502763.html",
+          "publisher": "Zacks",
+          "published": "2026-08-20T13:55:02Z"
+        }
+      ]
     }
   ],
   "etfs": [
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 77321.99,
-      "change_pct": 0.98
+      "price": 77312.88,
+      "change_pct": 0.97
     },
     {
       "label": "Gold",

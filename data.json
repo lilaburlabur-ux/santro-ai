@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-12T03:25:07+00:00",
-  "as_of_local": "2026-09-12 03:25:07 UTC",
+  "as_of_utc": "2026-09-12T03:40:11+00:00",
+  "as_of_local": "2026-09-12 03:40:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -39,7 +39,26 @@
       "previous_close": 428.03,
       "change_pct": 1.22,
       "market_cap": 2246987950742.96,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "David Tepper makes surprising double bet on AI's biggest bottleneck",
+          "url": "https://finance.yahoo.com/technology/ai/articles/david-tepper-makes-surprising-double-010300005.html",
+          "publisher": "TheStreet",
+          "published": "2026-09-12T01:03:00Z"
+        },
+        {
+          "title": "Broadcom\u2019s Custom AI Chip Boom Has a Powerful Landlord: TSM",
+          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-custom-ai-chip-boom-231614780.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-11T23:16:14Z"
+        },
+        {
+          "title": "TSM\u2019s Record Month Confirms AMD\u2019s AI Ramp, but Its Pricing Power Could Take Some of the Upside Back",
+          "url": "https://finance.yahoo.com/technology/ai/articles/tsm-record-month-confirms-amd-230905086.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-11T23:09:05Z"
+        }
+      ]
     },
     {
       "symbol": "AVGO",
@@ -566,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 77234.21,
-      "change_pct": 0.87
+      "price": 77243.01,
+      "change_pct": 0.88
     },
     {
       "label": "Gold",

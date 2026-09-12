@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-12T04:30:37+00:00",
-  "as_of_local": "2026-09-12 04:30:37 UTC",
+  "as_of_utc": "2026-09-12T04:45:39+00:00",
+  "as_of_local": "2026-09-12 04:45:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEVA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -150,7 +152,7 @@
       "price": 102.94,
       "previous_close": 100.32,
       "change_pct": 2.61,
-      "market_cap": 540900951694.5334,
+      "market_cap": 544151688575.8104,
       "headlines": [
         {
           "title": "Qorvo, Qualcomm, Texas Instruments, Vishay Intertechnology, and Impinj Stocks Trade Up, What You Need To Know",
@@ -290,7 +292,7 @@
       "price": 119.76,
       "previous_close": 114.14,
       "change_pct": 4.92,
-      "market_cap": 17009545678.129395,
+      "market_cap": 16975885572.64898,
       "headlines": [
         {
           "title": "1 Semiconductor Stock to Own for Decades and 2 Facing Challenges",
@@ -365,34 +367,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-agrees-7-billion-171314111.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-01T17:13:14Z"
-        }
-      ]
-    },
-    {
-      "symbol": "CEVA",
-      "name": "CEVA",
-      "price": 29.01,
-      "previous_close": 27.96,
-      "change_pct": 3.76,
-      "market_cap": 816749635.1639557,
-      "headlines": [
-        {
-          "title": "Analysing CEVA\u2019s (CEVA) Growth in Neural Processing Markets",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/analysing-ceva-ceva-growth-neural-144155084.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-04T14:41:55Z"
-        },
-        {
-          "title": "CEVA Stock Slides 19% in a Month: Should You Buy the Dip or Wait?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-stock-slides-19-month-160300637.html",
-          "publisher": "Zacks",
-          "published": "2026-09-01T16:03:00Z"
-        },
-        {
-          "title": "Bears are Losing Control Over Ceva (CEVA), Here's Why It's a 'Buy' Now",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bears-losing-control-over-ceva-135502763.html",
-          "publisher": "Zacks",
-          "published": "2026-08-20T13:55:02Z"
         }
       ]
     }
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 77257.28,
-      "change_pct": 0.9
+      "price": 77241.47,
+      "change_pct": 0.88
     },
     {
       "label": "Gold",

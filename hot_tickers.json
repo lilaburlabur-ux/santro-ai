@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-11T23:57:08+00:00",
+  "as_of": "2026-09-12T02:35:56+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,27 +9,11 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "DELL",
-   "company": "Dell Technologies Inc",
-   "move_pct": 12.46,
-   "price": 569.75,
-   "volume": 14366604,
-   "volume_vs_avg": "~2x",
-   "heat_score": 78,
-   "direction": "up",
-   "why": "Dell Technologies (DELL) Raises its AI Server Forecast for the Second Time This Year",
-   "catalyst_type": "financing",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/dell-technologies-dell-raises-ai-233909317.html",
-   "published": "2026-09-11T23:39:09Z",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 2,
    "ticker": "HPE",
    "company": "Hewlett Packard Enterprise Co",
-   "move_pct": 12.46,
-   "price": 62.1,
-   "volume": 38956735,
+   "move_pct": 12.44,
+   "price": 62.09,
+   "volume": 38992100,
    "volume_vs_avg": "~2x",
    "heat_score": 78,
    "direction": "up",
@@ -40,20 +24,20 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 3,
-   "ticker": "PWR",
-   "company": "Quanta Services Inc",
-   "move_pct": 5.05,
-   "price": 650.0,
-   "volume": 940972,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 37,
+   "rank": 2,
+   "ticker": "DELL",
+   "company": "Dell Technologies Inc",
+   "move_pct": 11.98,
+   "price": 567.29,
+   "volume": 14385700,
+   "volume_vs_avg": "~2x",
+   "heat_score": 76,
    "direction": "up",
-   "why": "3 Big Reasons to Love Quanta (PWR)",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/3-big-reasons-love-quanta-211505537.html",
-   "published": "2026-09-11T21:15:05Z",
-   "sector": "Data Center, Power & Energy"
+   "why": "Dell Technologies (DELL) Raises its AI Server Forecast for the Second Time This Year",
+   "catalyst_type": "financing",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/dell-technologies-dell-raises-ai-233909317.html",
+   "published": "2026-09-11T23:39:09Z",
+   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

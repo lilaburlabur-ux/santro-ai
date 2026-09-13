@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-13T12:16:56+00:00",
-  "as_of_local": "2026-09-13 12:16:56 UTC",
+  "as_of_utc": "2026-09-13T12:32:02+00:00",
+  "as_of_local": "2026-09-13 12:32:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -199,6 +197,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/arm-vs-sandisk-technology-stock-170828754.html",
           "publisher": "Motley Fool",
           "published": "2026-09-11T17:08:28Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 236.1,
+      "previous_close": 226.96,
+      "change_pct": 4.03,
+      "market_cap": 212184164614.55765,
+      "headlines": [
+        {
+          "title": "Wall Street Analyst Sees Between 19% to 37% Upside in These 5 AI Chip Stocks",
+          "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-analyst-sees-between-100500305.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-13T10:05:00Z"
+        },
+        {
+          "title": "Qualcomm Lost Apple\u2019s Modem Business. Amazon Just Offered a $60 Billion Escape Route.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-lost-apple-modem-business-133709842.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-12T13:37:09Z"
+        },
+        {
+          "title": "Jim Cramer on Why Marvell (MRVL) Plunged",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-why-marvell-mrvl-110613884.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-12T11:06:13Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 76796.98,
-      "change_pct": -0.61
+      "price": 76787.34,
+      "change_pct": -0.63
     },
     {
       "label": "Gold",

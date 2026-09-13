@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-13T08:19:09+00:00",
-  "as_of_local": "2026-09-13 08:19:09 UTC",
+  "as_of_utc": "2026-09-13T08:24:21+00:00",
+  "as_of_local": "2026-09-13 08:24:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "QCOM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,6 +12,12 @@
       "change_pct": -0.03,
       "market_cap": 5271048467880.249,
       "headlines": [
+        {
+          "title": "3 Beaten-Down Stocks to Buy if There Is a Recession",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-beaten-down-stocks-buy-081500155.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-13T08:15:00Z"
+        },
         {
           "title": "Investing $20,000 in Apple Stock 10 Years Ago Paid Off More Than Investing the Same Amount in Amazon. Here's the Better Buy for the Next Decade.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/investing-20-000-apple-stock-080500376.html",
@@ -25,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/want-1-000-passive-income-073500018.html",
           "publisher": "Motley Fool",
           "published": "2026-09-13T07:35:00Z"
-        },
-        {
-          "title": "SCHD's Stunning Reversal: Schwab's Flagship Dividend ETF Is Up 29% and Climbing",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/schds-stunning-reversal-schwabs-flagship-065000839.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-13T06:50:00Z"
         }
       ]
     },
@@ -152,7 +150,7 @@
       "price": 102.94,
       "previous_close": 100.32,
       "change_pct": 2.61,
-      "market_cap": 544151688575.8104,
+      "market_cap": 540900951694.5334,
       "headlines": [
         {
           "title": "Cramer Asked Who Was Buying Gigantic Bloom Energy Calls. A Pelosi Filing Named Two of the Same Stocks Weeks Earlier.",
@@ -231,6 +229,34 @@
       ]
     },
     {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "price": 181.97,
+      "previous_close": 176.88,
+      "change_pct": 2.88,
+      "market_cap": 194354968123.17477,
+      "headlines": [
+        {
+          "title": "Qualcomm Lost Apple\u2019s Modem Business. Amazon Just Offered a $60 Billion Escape Route.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-lost-apple-modem-business-133709842.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-12T13:37:09Z"
+        },
+        {
+          "title": "Qorvo, Qualcomm, Texas Instruments, Vishay Intertechnology, and Impinj Stocks Trade Up, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qorvo-qualcomm-texas-instruments-vishay-041105294.html",
+          "publisher": "StockStory",
+          "published": "2026-09-12T04:11:05Z"
+        },
+        {
+          "title": "Benchmark Assigns Buy Rating to SiTime (SITM) Amid Timing Technology Market Expansion",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/benchmark-assigns-buy-rating-sitime-222630544.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-11T22:26:30Z"
+        }
+      ]
+    },
+    {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
       "price": 236.62,
@@ -264,7 +290,7 @@
       "price": 119.76,
       "previous_close": 114.14,
       "change_pct": 4.92,
-      "market_cap": 16975885572.64898,
+      "market_cap": 17009545678.129395,
       "headlines": [
         {
           "title": "1 Semiconductor Stock to Own for Decades and 2 Facing Challenges",
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 76991.84,
-      "change_pct": -0.36
+      "price": 77003.48,
+      "change_pct": -0.35
     },
     {
       "label": "Gold",

@@ -1,16 +1,16 @@
 {
-  "as_of_utc": "2026-09-14T16:16:40+00:00",
-  "as_of_local": "2026-09-14 16:16:40 UTC",
+  "as_of_utc": "2026-09-14T16:21:38+00:00",
+  "as_of_local": "2026-09-14 16:21:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 212.1,
+      "price": 212.06,
       "previous_close": 218.29,
-      "change_pct": -2.83,
-      "market_cap": 5121614955871.582,
+      "change_pct": -2.85,
+      "market_cap": 5120612761047.363,
       "headlines": [
         {
           "title": "Tech pulls back on AI concerns, cybersecurity takes a step up",
@@ -35,11 +35,17 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 420.51,
+      "price": 420.3,
       "previous_close": 433.24,
-      "change_pct": -2.94,
-      "market_cap": 2180886364771.855,
+      "change_pct": -2.99,
+      "market_cap": 2179900922047.0947,
       "headlines": [
+        {
+          "title": "Forget the Magnificent 7. This Duo Says Broadcom, Not Nvidia, Wins the Next Leg of AI.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-magnificent-7-duo-says-161519682.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-14T16:15:19Z"
+        },
         {
           "title": "Jensen Huang Called One AI Company the \u2018TSMC of AI Factories.\u2019 Its CTO Sees What Comes Next",
           "url": "https://tech.yahoo.com/ai/articles/jensen-huang-called-one-ai-154703057.html",
@@ -51,66 +57,72 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-5-top-ranked-wide-124500520.html",
           "publisher": "Zacks",
           "published": "2026-09-14T12:45:00Z"
-        },
-        {
-          "title": "\u200bInvestors Are Sorting the Winners and Losers From an AI Slowdown",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/global-chip-stocks-dive-on-talk-of-ai-slowdown-OMTEKaX4c8hfzar8CAXZ?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-09-14T12:15:34Z"
         }
       ]
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 346.93,
+      "price": 346.83,
       "previous_close": 361.99,
-      "change_pct": -4.16,
-      "market_cap": 1656139265559.4053,
+      "change_pct": -4.19,
+      "market_cap": 1655614236200.4739,
       "headlines": [
         {
           "title": "Tech pulls back on AI concerns, cybersecurity takes a step up",
           "url": "https://finance.yahoo.com/video/tech-pulls-back-ai-concerns-143900977.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-09-14T14:39:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 919.23,
-      "previous_close": 975.26,
-      "change_pct": -5.74,
-      "market_cap": 1038092978342.7776,
-      "headlines": [
+        },
         {
-          "title": "Tech pulls back on AI concerns, cybersecurity takes a step up",
-          "url": "https://finance.yahoo.com/video/tech-pulls-back-ai-concerns-143900977.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-09-14T14:39:00Z"
+          "title": "Forget the Magnificent 7. This Duo Says Broadcom, Not Nvidia, Wins the Next Leg of AI.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-magnificent-7-duo-says-161519682.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-14T16:15:19Z"
         },
         {
           "title": "Memory Falls Hardest as AI Chiefs Ask the Industry to Slow Down",
           "url": "https://finance.yahoo.com/technology/ai/articles/memory-falls-hardest-ai-chiefs-160536129.html",
           "publisher": "GuruFocus.com",
           "published": "2026-09-14T16:05:36Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 918.36,
+      "previous_close": 975.26,
+      "change_pct": -5.83,
+      "market_cap": 1036747481216.6564,
+      "headlines": [
+        {
+          "title": "Tech pulls back on AI concerns, cybersecurity takes a step up",
+          "url": "https://finance.yahoo.com/video/tech-pulls-back-ai-concerns-143900977.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-09-14T14:39:00Z"
         },
         {
-          "title": "Tech stocks fall after calls for AI development to slow",
-          "url": "https://finance.yahoo.com/news/tech-stocks-fall-calls-ai-160425588.html",
-          "publisher": "PA Media: Money",
-          "published": "2026-09-14T16:04:25Z"
+          "title": "Forget the Magnificent 7. This Duo Says Broadcom, Not Nvidia, Wins the Next Leg of AI.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-magnificent-7-duo-says-161519682.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-14T16:15:19Z"
+        },
+        {
+          "title": "Memory Falls Hardest as AI Chiefs Ask the Industry to Slow Down",
+          "url": "https://finance.yahoo.com/technology/ai/articles/memory-falls-hardest-ai-chiefs-160536129.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-14T16:05:36Z"
         }
       ]
     },
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 491.81,
+      "price": 492.71,
       "previous_close": 516.13,
-      "change_pct": -4.71,
-      "market_cap": 802867546420.4852,
+      "change_pct": -4.54,
+      "market_cap": 804320473121.0739,
       "headlines": [
         {
           "title": "Tech pulls back on AI concerns, cybersecurity takes a step up",
@@ -135,11 +147,17 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 97.91,
+      "price": 97.96,
       "previous_close": 102.94,
-      "change_pct": -4.89,
-      "market_cap": 514265756520.9551,
+      "change_pct": -4.84,
+      "market_cap": 514838505982.7959,
       "headlines": [
+        {
+          "title": "Intel Is Stuck in Neutral. There Is Exactly One Thing That Should Change Your Mind.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stuck-neutral-exactly-one-161218807.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-14T16:12:18Z"
+        },
         {
           "title": "Tech stocks fall after calls for AI development to slow",
           "url": "https://finance.yahoo.com/news/tech-stocks-fall-calls-ai-160425588.html",
@@ -151,22 +169,16 @@
           "url": "https://www.investors.com/news/ai-nvidia-broadcom-software-stocks-servicenow-workday-salesforce-micron/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-09-14T15:23:47Z"
-        },
-        {
-          "title": "Which Tech Stocks Are Getting Hit Hardest Today",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/which-tech-stocks-are-getting-hit-hardest-today-NXMZGdwdwqjvnj32Ghbc?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-09-14T14:50:39Z"
         }
       ]
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 241.32,
+      "price": 241.06,
       "previous_close": 264.79,
-      "change_pct": -8.86,
-      "market_cap": 257729422493.33514,
+      "change_pct": -8.96,
+      "market_cap": 257451732435.72162,
       "headlines": [
         {
           "title": "Prediction: Arm Could Be the Picks-and-Shovels Winner of the AI Boom",
@@ -191,10 +203,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 221.32,
+      "price": 221.96,
       "previous_close": 236.1,
-      "change_pct": -6.26,
-      "market_cap": 198847377735.64813,
+      "change_pct": -5.99,
+      "market_cap": 199440526071.3827,
       "headlines": [
         {
           "title": "All Eyes Set on September FOMC Meet",
@@ -219,10 +231,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 179.2,
+      "price": 179.36,
       "previous_close": 181.97,
-      "change_pct": -1.52,
-      "market_cap": 191300314478.4624,
+      "change_pct": -1.43,
+      "market_cap": 191535289089.38715,
       "headlines": [
         {
           "title": "Prediction: Arm Could Be the Picks-and-Shovels Winner of the AI Boom",
@@ -247,10 +259,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 226.54,
+      "price": 227.12,
       "previous_close": 236.62,
-      "change_pct": -4.26,
-      "market_cap": 57082402837.10962,
+      "change_pct": -4.01,
+      "market_cap": 57270267763.18918,
       "headlines": [
         {
           "title": "NXP Semiconductors Eyes Physical AI Leadership, Sees Data Center Growth Surge",
@@ -275,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 108.32,
+      "price": 108.22,
       "previous_close": 119.76,
-      "change_pct": -9.55,
-      "market_cap": 15385428780.958008,
+      "change_pct": -9.64,
+      "market_cap": 15379037678.783203,
       "headlines": [
         {
           "title": "1 Semiconductor Stock to Own for Decades and 2 Facing Challenges",
@@ -303,10 +315,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 155.02,
+      "price": 155.29,
       "previous_close": 146.71,
-      "change_pct": 5.66,
-      "market_cap": 7878225441.169464,
+      "change_pct": 5.85,
+      "market_cap": 7890168337.157959,
       "headlines": [
         {
           "title": "Boeing Wins $13.4 Billion KC-46 Air Force Contract Amid Defense Awards",
@@ -331,10 +343,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 96.43,
+      "price": 96.69,
       "previous_close": 101.03,
-      "change_pct": -4.55,
-      "market_cap": 3771282099.43396,
+      "change_pct": -4.29,
+      "market_cap": 3781449999.335495,
       "headlines": [
         {
           "title": "Analog Devices to Acquire Alif Semiconductor for $1.35 Billion",
@@ -359,10 +371,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 27.72,
+      "price": 27.79,
       "previous_close": 29.01,
-      "change_pct": -4.45,
-      "market_cap": 780430856.5081329,
+      "change_pct": -4.21,
+      "market_cap": 782401686.6558228,
       "headlines": [
         {
           "title": "CEVA or SNPS: Which Semiconductor Stock Is Worth Buying Now?",
@@ -389,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 55.15,
-      "change_pct": -6.68,
+      "price": 55.08,
+      "change_pct": -6.79,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -5.74,
-          "price": 919.23,
+          "change_pct": -5.83,
+          "price": 918.36,
           "currency": "USD"
         },
         {
@@ -433,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -5.67,
-          "price": 1540.79,
+          "change_pct": -5.61,
+          "price": 1541.65,
           "currency": "USD"
         },
         {
@@ -442,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -2.23,
-          "price": 811.66,
+          "change_pct": -2.54,
+          "price": 809.1,
           "currency": "USD"
         },
         {
@@ -451,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -4.11,
-          "price": 428.78,
+          "change_pct": -4.33,
+          "price": 427.8,
           "currency": "USD"
         },
         {
@@ -479,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 55.15,
-    "change_pct": -6.68,
+    "price": 55.08,
+    "change_pct": -6.79,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -5.74,
-        "price": 919.23,
+        "change_pct": -5.83,
+        "price": 918.36,
         "currency": "USD"
       },
       {
@@ -523,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -5.67,
-        "price": 1540.79,
+        "change_pct": -5.61,
+        "price": 1541.65,
         "currency": "USD"
       },
       {
@@ -532,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -2.23,
-        "price": 811.66,
+        "change_pct": -2.54,
+        "price": 809.1,
         "currency": "USD"
       },
       {
@@ -541,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -4.11,
-        "price": 428.78,
+        "change_pct": -4.33,
+        "price": 427.8,
         "currency": "USD"
       },
       {
@@ -568,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7634.49,
+      "price": 7635.09,
       "change_pct": -0.29
     },
     {
       "label": "BTC",
-      "price": 78587.99,
-      "change_pct": 2.28
+      "price": 78730.36,
+      "change_pct": 2.46
     },
     {
       "label": "Gold",
-      "price": 4330.0,
-      "change_pct": -0.83
+      "price": 4338.2,
+      "change_pct": -0.64
     },
     {
       "label": "Nasdaq100",
-      "price": 29182.25,
-      "change_pct": -0.63
+      "price": 29190.9,
+      "change_pct": -0.6
     }
   ]
 }

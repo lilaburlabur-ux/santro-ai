@@ -1,23 +1,17 @@
 {
-  "as_of_utc": "2026-09-14T13:47:47+00:00",
-  "as_of_local": "2026-09-14 13:47:47 UTC",
+  "as_of_utc": "2026-09-14T13:52:47+00:00",
+  "as_of_local": "2026-09-14 13:52:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 210.65,
+      "price": 210.88,
       "previous_close": 218.29,
-      "change_pct": -3.5,
-      "market_cap": 5085599684738.159,
+      "change_pct": -3.39,
+      "market_cap": 5089945967880.249,
       "headlines": [
-        {
-          "title": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
-          "url": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-09-14T13:45:19Z"
-        },
         {
           "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
           "url": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
@@ -25,20 +19,26 @@
           "published": "2026-09-14T09:36:37Z"
         },
         {
-          "title": "S&P 500 and Nasdaq open lower as AI jitters hit Nvidia, chipmakers",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-open-lower-133700430.html",
-          "publisher": "Reuters",
-          "published": "2026-09-14T13:37:00Z"
+          "title": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
+          "url": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-09-14T13:45:19Z"
+        },
+        {
+          "title": "S&P 500, Nasdaq fall on AI slowdown fears, oil price surge",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-fall-ai-134819710.html",
+          "publisher": "Quartz",
+          "published": "2026-09-14T13:48:19Z"
         }
       ]
     },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 420.46,
+      "price": 419.58,
       "previous_close": 433.24,
-      "change_pct": -2.95,
-      "market_cap": 2180367685714.8296,
+      "change_pct": -3.15,
+      "market_cap": 2176140696731.9446,
       "headlines": [
         {
           "title": "Buy These 5 Top-Ranked Wide Moat Stocks to Strengthen Your Portfolio",
@@ -63,38 +63,38 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 348.92,
+      "price": 348.15,
       "previous_close": 361.99,
-      "change_pct": -3.61,
-      "market_cap": 1665328444777.6812,
+      "change_pct": -3.82,
+      "market_cap": 1661986991279.9546,
       "headlines": [
         {
           "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
           "url": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
           "publisher": "Yahoo Finance",
           "published": "2026-09-14T09:36:37Z"
+        },
+        {
+          "title": "S&P 500, Nasdaq fall on AI slowdown fears, oil price surge",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-fall-ai-134819710.html",
+          "publisher": "Quartz",
+          "published": "2026-09-14T13:48:19Z"
         },
         {
           "title": "Chip Stocks Tumble as AI Pacing Call Reaches Beyond Memory: Intel Drops 7%, AMD Sinks 6%, NVIDIA Pulls Back",
           "url": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-tumble-ai-pacing-132334555.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-14T13:23:34Z"
-        },
-        {
-          "title": "Chip Stocks Tumble After AI Leaders Call for Slowdown in Development",
-          "url": "https://www.wsj.com/tech/ai/chip-stocks-tumble-after-ai-leaders-call-for-slowdown-in-ai-development-e2d26e63?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-09-14T12:54:00Z"
         }
       ]
     },
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 917.56,
+      "price": 908.82,
       "previous_close": 975.26,
-      "change_pct": -5.92,
-      "market_cap": 1036455413419.9775,
+      "change_pct": -6.81,
+      "market_cap": 1026228766709.595,
       "headlines": [
         {
           "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
@@ -103,27 +103,33 @@
           "published": "2026-09-14T09:36:37Z"
         },
         {
+          "title": "Stock Market Today: Dow Falls On Surging Oil; Nvidia, Micron, Sandisk Dive On AI Warning (Live Coverage)",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-nvda-stock-ai-warning/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-14T13:44:21Z"
+        },
+        {
           "title": "Memory Stocks Lead AI Selloff as Anthropic and OpenAI Chiefs Urge Slower Development: Micron and SanDisk Sink 6%, SK Hynix Drops 7%",
           "url": "https://finance.yahoo.com/markets/stocks/articles/memory-stocks-lead-ai-selloff-131813092.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-14T13:18:13Z"
-        },
-        {
-          "title": "Correction: Update: US Equity Futures Lower Pre-Bell as Traders Assess Call for AI Advancement Slowdown, Upcoming Fed Decision",
-          "url": "https://finance.yahoo.com/technology/ai/articles/correction-us-equity-futures-lower-130541409.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-14T13:05:41Z"
         }
       ]
     },
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 490.5,
+      "price": 486.23,
       "previous_close": 516.13,
-      "change_pct": -4.97,
-      "market_cap": 800642970369.1416,
+      "change_pct": -5.79,
+      "market_cap": 793203322070.5886,
       "headlines": [
+        {
+          "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
+          "url": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-09-14T09:36:37Z"
+        },
         {
           "title": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
           "url": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html",
@@ -131,26 +137,20 @@
           "published": "2026-09-14T13:45:19Z"
         },
         {
-          "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
-          "url": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-09-14T09:36:37Z"
-        },
-        {
-          "title": "Chip Stocks Tumble as AI Pacing Call Reaches Beyond Memory: Intel Drops 7%, AMD Sinks 6%, NVIDIA Pulls Back",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-tumble-ai-pacing-132334555.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-14T13:23:34Z"
+          "title": "S&P 500, Nasdaq fall on AI slowdown fears, oil price surge",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-fall-ai-134819710.html",
+          "publisher": "Quartz",
+          "published": "2026-09-14T13:48:19Z"
         }
       ]
     },
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 97.03,
+      "price": 96.48,
       "previous_close": 102.94,
-      "change_pct": -5.75,
-      "market_cap": 513069363824.1896,
+      "change_pct": -6.28,
+      "market_cap": 506641417670.975,
       "headlines": [
         {
           "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
@@ -159,26 +159,26 @@
           "published": "2026-09-14T09:36:37Z"
         },
         {
+          "title": "S&P 500, Nasdaq fall on AI slowdown fears, oil price surge",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-fall-ai-134819710.html",
+          "publisher": "Quartz",
+          "published": "2026-09-14T13:48:19Z"
+        },
+        {
           "title": "Chip Stocks Tumble as AI Pacing Call Reaches Beyond Memory: Intel Drops 7%, AMD Sinks 6%, NVIDIA Pulls Back",
           "url": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-tumble-ai-pacing-132334555.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-14T13:23:34Z"
-        },
-        {
-          "title": "Correction: Update: US Equity Futures Lower Pre-Bell as Traders Assess Call for AI Advancement Slowdown, Upcoming Fed Decision",
-          "url": "https://finance.yahoo.com/technology/ai/articles/correction-us-equity-futures-lower-130541409.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-14T13:05:41Z"
         }
       ]
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 246.31,
+      "price": 243.41,
       "previous_close": 264.79,
-      "change_pct": -6.98,
-      "market_cap": 263058724922.97162,
+      "change_pct": -8.07,
+      "market_cap": 260185708386.75394,
       "headlines": [
         {
           "title": "Wall Street Analyst Sees Between 19% to 37% Upside in These 5 AI Chip Stocks",
@@ -203,10 +203,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 220.15,
+      "price": 219.43,
       "previous_close": 236.1,
-      "change_pct": -6.76,
-      "market_cap": 197840832957.29425,
+      "change_pct": -7.06,
+      "market_cap": 197032004290.85187,
       "headlines": [
         {
           "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
@@ -215,26 +215,26 @@
           "published": "2026-09-14T09:36:37Z"
         },
         {
+          "title": "S&P 500, Nasdaq fall on AI slowdown fears, oil price surge",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-fall-ai-134819710.html",
+          "publisher": "Quartz",
+          "published": "2026-09-14T13:48:19Z"
+        },
+        {
           "title": "Chip Stocks Tumble After AI Leaders Call for Slowdown in Development",
           "url": "https://www.wsj.com/tech/ai/chip-stocks-tumble-after-ai-leaders-call-for-slowdown-in-ai-development-e2d26e63?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-09-14T12:54:00Z"
-        },
-        {
-          "title": "HPE Stock Is Downgraded After Rising 159% This Year. Why?",
-          "url": "https://www.barrons.com/articles/hpe-hewlett-packard-enterprise-stock-downgrade-4033b0b3?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-14T12:25:00Z"
         }
       ]
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 178.35,
+      "price": 177.63,
       "previous_close": 181.97,
-      "change_pct": -1.99,
-      "market_cap": 190477903340.22568,
+      "change_pct": -2.38,
+      "market_cap": 189756959252.03876,
       "headlines": [
         {
           "title": "Stocks Fall Pre-Bell Amid AI Safety Warnings; Investors Await Fed Rate Decision",
@@ -259,10 +259,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 228.82,
+      "price": 229.54,
       "previous_close": 236.62,
-      "change_pct": -3.29,
-      "market_cap": 57703990450.28677,
+      "change_pct": -2.99,
+      "market_cap": 57804854580.7988,
       "headlines": [
         {
           "title": "NXP Semiconductors Eyes Physical AI Leadership, Sees Data Center Growth Surge",
@@ -287,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 112.21,
+      "price": 111.53,
       "previous_close": 119.76,
-      "change_pct": -6.3,
-      "market_cap": 15905678612.114723,
+      "change_pct": -6.87,
+      "market_cap": 15836375328.0,
       "headlines": [
         {
           "title": "1 Semiconductor Stock to Own for Decades and 2 Facing Challenges",
@@ -315,10 +315,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 145.79,
+      "price": 147.3,
       "previous_close": 146.71,
-      "change_pct": -0.62,
-      "market_cap": 7420884875.449402,
+      "change_pct": 0.41,
+      "market_cap": 7489700957.25,
       "headlines": [
         {
           "title": "MarketBeat Week in Review \u2013 09/07 - 09/11",
@@ -343,10 +343,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 96.84,
+      "price": 95.99,
       "previous_close": 101.03,
-      "change_pct": -4.15,
-      "market_cap": 3787120381.02594,
+      "change_pct": -4.99,
+      "market_cap": 3752901768.27594,
       "headlines": [
         {
           "title": "Analog Devices to Acquire Alif Semiconductor for $1.35 Billion",
@@ -371,10 +371,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 28.1,
+      "price": 27.86,
       "previous_close": 29.01,
-      "change_pct": -3.14,
-      "market_cap": 791129433.9399261,
+      "change_pct": -3.96,
+      "market_cap": 784372463.1038818,
       "headlines": [
         {
           "title": "Analysing CEVA\u2019s (CEVA) Growth in Neural Processing Markets",
@@ -401,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 55.09,
-      "change_pct": -6.79,
+      "price": 54.74,
+      "change_pct": -7.38,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -5.92,
-          "price": 917.56,
+          "change_pct": -6.81,
+          "price": 908.82,
           "currency": "USD"
         },
         {
@@ -445,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -5.65,
-          "price": 1541.14,
+          "change_pct": -6.16,
+          "price": 1532.67,
           "currency": "USD"
         },
         {
@@ -454,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -4.12,
-          "price": 795.95,
+          "change_pct": -5.23,
+          "price": 786.75,
           "currency": "USD"
         },
         {
@@ -463,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -4.46,
-          "price": 427.23,
+          "change_pct": -5.34,
+          "price": 423.29,
           "currency": "USD"
         },
         {
@@ -491,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 55.09,
-    "change_pct": -6.79,
+    "price": 54.74,
+    "change_pct": -7.38,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -5.92,
-        "price": 917.56,
+        "change_pct": -6.81,
+        "price": 908.82,
         "currency": "USD"
       },
       {
@@ -535,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -5.65,
-        "price": 1541.14,
+        "change_pct": -6.16,
+        "price": 1532.67,
         "currency": "USD"
       },
       {
@@ -544,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -4.12,
-        "price": 795.95,
+        "change_pct": -5.23,
+        "price": 786.75,
         "currency": "USD"
       },
       {
@@ -553,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -4.46,
-        "price": 427.23,
+        "change_pct": -5.34,
+        "price": 423.29,
         "currency": "USD"
       },
       {
@@ -580,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7611.36,
-      "change_pct": -0.6
+      "price": 7615.57,
+      "change_pct": -0.54
     },
     {
       "label": "BTC",
-      "price": 78321.68,
-      "change_pct": 1.93
+      "price": 78207.36,
+      "change_pct": 1.78
     },
     {
       "label": "Gold",
-      "price": 4314.8,
-      "change_pct": -1.18
+      "price": 4308.7,
+      "change_pct": -1.32
     },
     {
       "label": "Nasdaq100",
-      "price": 28985.04,
-      "change_pct": -1.31
+      "price": 29000.49,
+      "change_pct": -1.25
     }
   ]
 }

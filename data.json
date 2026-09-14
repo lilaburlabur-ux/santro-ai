@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-14T11:15:17+00:00",
-  "as_of_local": "2026-09-14 11:15:17 UTC",
+  "as_of_utc": "2026-09-14T11:20:24+00:00",
+  "as_of_local": "2026-09-14 11:20:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -115,6 +113,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-fall-103731728.html",
           "publisher": "MT Newswires",
           "published": "2026-09-14T10:37:31Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 516.13,
+      "previous_close": 503.6,
+      "change_pct": 2.49,
+      "market_cap": 842569351398.5295,
+      "headlines": [
+        {
+          "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning",
+          "url": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-09-14T09:36:37Z"
+        },
+        {
+          "title": "Social Buzz: Wallstreetbets Stocks Fall Pre-Bell Monday; Nebius Group, AMD to Open Lower",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-fall-103731728.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-14T10:37:31Z"
+        },
+        {
+          "title": "Why Are Nasdaq Futures Tumbling Premarket? MU, AMD, NVDA, ORCL, RUM, TSLA, SPCX Stocks In Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-nasdaq-futures-tumbling-premarket-084330171.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-14T08:43:30Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 77731.01,
-      "change_pct": 1.16
+      "price": 77772.65,
+      "change_pct": 1.22
     },
     {
       "label": "Gold",
-      "price": 4336.6,
-      "change_pct": -0.68
+      "price": 4334.6,
+      "change_pct": -0.72
     },
     {
       "label": "Nasdaq100",

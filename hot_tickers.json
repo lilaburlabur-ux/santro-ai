@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-14T20:02:00+00:00",
+  "as_of": "2026-09-14T20:07:29+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "CRWD",
    "company": "Crowdstrike Holdings Inc",
-   "move_pct": 13.97,
-   "price": 235.63,
+   "move_pct": 13.96,
+   "price": 235.6,
    "volume": 24645528,
    "volume_vs_avg": "~3x",
    "heat_score": 87,
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "PANW",
    "company": "Palo Alto Networks Inc",
-   "move_pct": 13.07,
-   "price": 373.85,
+   "move_pct": 13.01,
+   "price": 373.66,
    "volume": 11414268,
    "volume_vs_avg": "~2x",
    "heat_score": 80,
@@ -41,26 +41,10 @@
   },
   {
    "rank": 3,
-   "ticker": "OKTA",
-   "company": "Okta Inc",
-   "move_pct": 11.71,
-   "price": 186.0,
-   "volume": 6539817,
-   "volume_vs_avg": "~2x",
-   "heat_score": 75,
-   "direction": "up",
-   "why": "Why Okta Stock Rocketed Higher Today",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-okta-stock-rocketed-higher-160625256.html",
-   "published": "2026-09-14T16:06:25Z",
-   "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
-   "rank": 4,
    "ticker": "HPE",
    "company": "Hewlett Packard Enterprise Co",
-   "move_pct": -10.76,
-   "price": 55.41,
+   "move_pct": -10.82,
+   "price": 55.37,
    "volume": 27981949,
    "volume_vs_avg": "~1.3x",
    "heat_score": 69,
@@ -72,14 +56,14 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "GEV",
    "company": "GE Vernova Inc",
-   "move_pct": -8.49,
-   "price": 876.0,
+   "move_pct": -8.6,
+   "price": 874.94,
    "volume": 2946228,
    "volume_vs_avg": "~2x",
-   "heat_score": 62,
+   "heat_score": 63,
    "direction": "down",
    "why": "GE Vernova Falls 8.6% as $470 Target Challenges Its Power-Boom Valuation",
    "catalyst_type": "momentum_narrative",
@@ -88,11 +72,11 @@
    "sector": "Powering AI"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "ticker": "VRT",
    "company": "Vertiv Holdings Co",
-   "move_pct": -7.66,
-   "price": 237.36,
+   "move_pct": -7.71,
+   "price": 237.23,
    "volume": 10258083,
    "volume_vs_avg": "~2x",
    "heat_score": 52,
@@ -104,11 +88,11 @@
    "sector": "Data Center, Power & Energy"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "ticker": "ASML",
    "company": "ASML Holding NV",
-   "move_pct": -7.03,
-   "price": 1578.92,
+   "move_pct": -7.1,
+   "price": 1577.8,
    "volume": 1916277,
    "volume_vs_avg": "~2x",
    "heat_score": 48,
@@ -120,11 +104,11 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 8,
+   "rank": 7,
    "ticker": "ETN",
    "company": "Eaton Corp plc",
-   "move_pct": -7.52,
-   "price": 393.36,
+   "move_pct": -7.42,
+   "price": 393.8,
    "volume": 2745579,
    "volume_vs_avg": "~1.4x",
    "heat_score": 48,
@@ -134,6 +118,22 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-sinks-9-glj-164102241.html",
    "published": "2026-09-14T16:41:02Z",
    "sector": "Powering AI"
+  },
+  {
+   "rank": 8,
+   "ticker": "MRVL",
+   "company": "Marvell Technology Inc",
+   "move_pct": -7.16,
+   "price": 219.2,
+   "volume": 21070832,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 45,
+   "direction": "down",
+   "why": "Marvell stock plunges as a new threat hits the AI trade",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/marvell-stock-plunges-threat-hits-190920265.html",
+   "published": "2026-09-14T19:09:20Z",
+   "sector": "AI Chips & Compute"
   }
  ]
 }

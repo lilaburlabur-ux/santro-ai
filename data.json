@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-14T20:57:47+00:00",
-  "as_of_local": "2026-09-14 20:57:47 UTC",
+  "as_of_utc": "2026-09-14T20:58:29+00:00",
+  "as_of_local": "2026-09-14 20:58:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEVA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -367,34 +369,6 @@
           "published": "2026-09-01T17:13:14Z"
         }
       ]
-    },
-    {
-      "symbol": "CEVA",
-      "name": "CEVA",
-      "price": 27.78,
-      "previous_close": 29.01,
-      "change_pct": -4.24,
-      "market_cap": 782120139.4918671,
-      "headlines": [
-        {
-          "title": "CEVA or SNPS: Which Semiconductor Stock Is Worth Buying Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-snps-semiconductor-stock-worth-134200209.html",
-          "publisher": "Zacks",
-          "published": "2026-09-14T13:42:00Z"
-        },
-        {
-          "title": "Analysing CEVA\u2019s (CEVA) Growth in Neural Processing Markets",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/analysing-ceva-ceva-growth-neural-144155084.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-04T14:41:55Z"
-        },
-        {
-          "title": "CEVA Stock Slides 19% in a Month: Should You Buy the Dip or Wait?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-stock-slides-19-month-160300637.html",
-          "publisher": "Zacks",
-          "published": "2026-09-01T16:03:00Z"
-        }
-      ]
     }
   ],
   "etfs": [
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 79150.71,
-      "change_pct": 3.01
+      "price": 79100.0,
+      "change_pct": 2.94
     },
     {
       "label": "Gold",
-      "price": 4336.5,
-      "change_pct": -1.64
+      "price": 4337.0,
+      "change_pct": -1.63
     },
     {
       "label": "Nasdaq100",

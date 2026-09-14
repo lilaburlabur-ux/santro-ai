@@ -37,9 +37,9 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Headline | Source | Date |
 |---|---|---|
 | Tech pulls back on AI concerns, cybersecurity takes a step up | Yahoo Finance Video | 2026-09-14 |
+| 3 Stocks That Offer AI Exposure and Dividends | Zacks | 2026-09-14 |
 | Broadcom Drops Over 4% as $21.7 Billion AI Forecast Meets Slowdown Fears | GuruFocus.com | 2026-09-14 |
 | Wall Street ends down, calls for AI slowdown pummel chipmakers | Reuters | 2026-09-14 |
-| Broadcom buys its Irvine office building | LA Times | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

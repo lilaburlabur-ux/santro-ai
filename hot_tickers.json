@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-14T10:34:43+00:00",
+  "as_of": "2026-09-14T10:49:52+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,10 +9,42 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "HPE",
+   "company": "Hewlett Packard Enterprise Co",
+   "move_pct": -5.64,
+   "price": 58.59,
+   "volume": 38992100,
+   "volume_vs_avg": "~2x",
+   "heat_score": 44,
+   "direction": "down",
+   "why": "Hewlett Packard Enterprise (HPE) Surges 19% in a Week \u2014 What to Watch For Next?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-hpe-surges-102301377.html",
+   "published": "2026-09-14T10:23:01Z",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 2,
+   "ticker": "MRVL",
+   "company": "Marvell Technology Inc",
+   "move_pct": -7.04,
+   "price": 219.49,
+   "volume": 17273100,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 43,
+   "direction": "down",
+   "why": "The Zacks Analyst Blog Highlights Meta, Marvell, Amphenol, SandRidge and BK Technologies",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-meta-101400458.html",
+   "published": "2026-09-14T10:14:00Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 3,
    "ticker": "VRT",
    "company": "Vertiv Holdings Co",
-   "move_pct": -5.75,
-   "price": 242.27,
+   "move_pct": -5.81,
+   "price": 242.12,
    "volume": 4767600,
    "volume_vs_avg": "~0.9x",
    "heat_score": 40,
@@ -24,11 +56,27 @@
    "sector": "Data Center, Power & Energy"
   },
   {
-   "rank": 2,
+   "rank": 4,
+   "ticker": "AMD",
+   "company": "Advanced Micro Devices Inc",
+   "move_pct": -5.35,
+   "price": 488.5,
+   "volume": 19001000,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 38,
+   "direction": "down",
+   "why": "Why Are Nasdaq Futures Tumbling Premarket? MU, AMD, NVDA, ORCL, RUM, TSLA, SPCX Stocks In Focus",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-nasdaq-futures-tumbling-premarket-084330171.html",
+   "published": "2026-09-14T08:43:30Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 5,
    "ticker": "CRWD",
    "company": "Crowdstrike Holdings Inc",
-   "move_pct": 5.52,
-   "price": 218.15,
+   "move_pct": 5.59,
+   "price": 218.29,
    "volume": 6639000,
    "volume_vs_avg": "~0.7x",
    "heat_score": 38,
@@ -38,38 +86,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-crowdstrike-must-065747776.html",
    "published": "2026-09-14T06:57:47Z",
    "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
-   "rank": 3,
-   "ticker": "ANET",
-   "company": "Arista Networks Inc",
-   "move_pct": -5.71,
-   "price": 188.2,
-   "volume": 4638000,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 38,
-   "direction": "down",
-   "why": "The Zacks Analyst Blog Highlights Alphabet, Microsoft, NVIDIA, Arista Networks and Vertiv",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-alphabet-095500062.html",
-   "published": "2026-09-14T09:55:00Z",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 4,
-   "ticker": "AMD",
-   "company": "Advanced Micro Devices Inc",
-   "move_pct": -5.12,
-   "price": 489.7,
-   "volume": 19001000,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 37,
-   "direction": "down",
-   "why": "Why Are Nasdaq Futures Tumbling Premarket? MU, AMD, NVDA, ORCL, RUM, TSLA, SPCX Stocks In Focus",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-nasdaq-futures-tumbling-premarket-084330171.html",
-   "published": "2026-09-14T08:43:30Z",
-   "sector": "AI Chips & Compute"
   }
  ]
 }

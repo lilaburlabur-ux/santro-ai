@@ -18,7 +18,7 @@ Signed file: `ARM.research.14.09.2026`
 | Technical momentum | Moderate | 1Y +54.50%; price +16.69% vs SMA200. |
 | Fresh setup quality | Poor / broken | -45.61% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 20.25%, revenue growth 22.40%. |
-| Value attractiveness | Low (expensive) | Forward P/E 78.22, EV/Sales 54.19. |
+| Value attractiveness | Low (expensive) | Forward P/E 78.22, EV/Sales 48.85. |
 | Risk level | High | Beta 3.89, ATR 7.0% of price, short float 11.52%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: low (expensive), risk: high.
@@ -37,9 +37,9 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Headline | Source | Date |
 |---|---|---|
 | Netflix Stock Rose 4% While the AI Trade Sold Off on Monday. Its Capital Goes Into Shows, Not Silicon. | Motley Fool | 2026-09-14 |
-| Stocks Slump on AI Slowdown Fears and Rising Bond Yields and Crude Prices | Barchart | 2026-09-14 |
 | Prediction: Arm Could Be the Picks-and-Shovels Winner of the AI Boom | 24/7 Wall St. | 2026-09-14 |
 | Wall Street Analyst Sees Between 19% to 37% Upside in These 5 AI Chip Stocks | Motley Fool | 2026-09-13 |
+| Arm vs. Credo Technology Group: Which Semiconductor Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Revenue (ttm) | $5.16B | Revenue growth 22.40% y/y |
 | Profitability | Gross 97.54%, operating 7.60%, net 20.25% | ROA 5.42%, ROE 13.35% |
 | Balance sheet | Cash $3.89B, debt $485.00M | Current ratio 5.25, debt/equity 5.62 |
-| Valuation | P/E 243.89, forward P/E 78.22, P/S 49.51, P/B 29.58 | EV/Sales 54.19, EV/EBITDA 262.66 |
+| Valuation | P/E 243.89, forward P/E 78.22, P/S 49.51, P/B 29.58 | EV/Sales 48.85, EV/EBITDA 236.78 |
 | Growth expectations | Earnings growth 108.30%, EPS q/q 107.70% | Analyst mean target $289.20 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Capital International Investors | 2,050,241 | 0.19% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 78.22, EV/Sales 54.19. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 78.22, EV/Sales 48.85. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 3.89, ATR 7.0% of price, short float 11.52%. Size positions accordingly.
 - **Short interest risk:** short float 11.52% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,8 +113,8 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $239.01 | EV/Sales | 54.19 |
-| Market cap | $255.26B | EV/EBITDA | 262.66 |
+| Price | $239.01 | EV/Sales | 48.85 |
+| Market cap | $255.26B | EV/EBITDA | 236.78 |
 | Beta | 3.89 | Gross margin | 97.54% |
 | RSI(14) | 42.9 | Operating margin | 7.60% |
 | ATR(14) | 16.74 | Profit margin | 20.25% |

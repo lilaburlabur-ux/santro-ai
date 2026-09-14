@@ -18,7 +18,7 @@ Signed file: `MRVL.research.14.09.2026`
 | Technical momentum | High | 1Y +229.31%; price +40.78% vs SMA200. |
 | Fresh setup quality | Poor / broken | -30.83% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 27.93%, revenue growth 36.50%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 32.37, EV/Sales 22.05. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 32.37, EV/Sales 20.45. |
 | Risk level | High | Beta 2.25, ATR 7.0% of price, short float 5.09%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Stocks to Watch Monday Recap: Nvidia, Oracle, SoftBank | The Wall Street Journal | 2026-09-14 |
+| Which Tech Stocks Are Getting Hit Hardest Today | The Wall Street Journal | 2026-09-14 |
 | Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-14 |
 | Marvell stock plunges as a new threat hits the AI trade | GuruFocus.com | 2026-09-14 |
-| HPE Stock Is Downgraded After Rising 159% This Year. Why? | Barrons.com | 2026-09-14 |
-| Marvell Falls 7% as AI Pacing Debate Collides With Fed Week; Broadcom Drops 4%, NVIDIA Pulls Back | 24/7 Wall St. | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $9.45B | Revenue growth 36.50% y/y |
 | Profitability | Gross 52.22%, operating 16.68%, net 27.93% | ROA 4.12%, ROE 16.52% |
 | Balance sheet | Cash $3.93B, debt $5.29B | Current ratio 3.17, debt/equity 28.52 |
-| Valuation | P/E 72.46, forward P/E 32.37, P/S 20.81, P/B 10.52 | EV/Sales 22.05, EV/EBITDA 73.11 |
+| Valuation | P/E 72.46, forward P/E 32.37, P/S 20.81, P/B 10.52 | EV/Sales 20.45, EV/EBITDA 67.80 |
 | Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $285.30 (42 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | JPMORGAN CHASE & CO | 13,891,628 | 1.58% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 32.37, EV/Sales 22.05. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 32.37, EV/Sales 20.45. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.25, ATR 7.0% of price, short float 5.09%. Size positions accordingly.
 - **Short interest risk:** short float 5.09% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,8 +113,8 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $218.82 | EV/Sales | 22.05 |
-| Market cap | $196.65B | EV/EBITDA | 73.11 |
+| Price | $218.82 | EV/Sales | 20.45 |
+| Market cap | $196.65B | EV/EBITDA | 67.80 |
 | Beta | 2.25 | Gross margin | 52.22% |
 | RSI(14) | 48.2 | Operating margin | 16.68% |
 | ATR(14) | 15.40 | Profit margin | 27.93% |

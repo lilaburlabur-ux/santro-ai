@@ -18,7 +18,7 @@ Signed file: `LSCC.research.14.09.2026`
 | Technical momentum | High | 1Y +61.31%; price -2.50% vs SMA200. |
 | Fresh setup quality | Poor / broken | -31.41% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 5.58%, revenue growth 62.20%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 33.15, EV/Sales 25.92. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 33.15, EV/Sales 23.02. |
 | Risk level | High | Beta 1.78, ATR 5.7% of price, short float 7.73%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
@@ -68,7 +68,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Revenue (ttm) | $651.12M | Revenue growth 62.20% y/y |
 | Profitability | Gross 69.02%, operating 13.33%, net 5.58% | ROA 3.87%, ROE 4.93% |
 | Balance sheet | Cash $173.30M, debt $38.08M | Current ratio 3.02, debt/equity 4.84 |
-| Valuation | P/E 426.00, forward P/E 33.15, P/S 23.23, P/B 18.55 | EV/Sales 25.92, EV/EBITDA 183.14 |
+| Valuation | P/E 426.00, forward P/E 33.15, P/S 23.23, P/B 18.55 | EV/Sales 23.02, EV/EBITDA 162.70 |
 | Growth expectations | Earnings growth 600.00%, EPS q/q 564.60% | Analyst mean target $164.54 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Franklin Resources, Inc. | 3,315,820 | 2.42% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 33.15, EV/Sales 25.92. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 33.15, EV/Sales 23.02. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.78, ATR 5.7% of price, short float 7.73%. Size positions accordingly.
 - **Short interest risk:** short float 7.73% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,8 +113,8 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $106.50 | EV/Sales | 25.92 |
-| Market cap | $15.13B | EV/EBITDA | 183.14 |
+| Price | $106.50 | EV/Sales | 23.02 |
+| Market cap | $15.13B | EV/EBITDA | 162.70 |
 | Beta | 1.78 | Gross margin | 69.02% |
 | RSI(14) | 37.0 | Operating margin | 13.33% |
 | ATR(14) | 6.09 | Profit margin | 5.58% |

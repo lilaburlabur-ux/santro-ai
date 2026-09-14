@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Tech pulls back on AI concerns, cybersecurity takes a step up | Yahoo Finance Video | 2026-09-14 |
 | Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck | Yahoo Finance | 2026-09-14 |
+| Tech stocks slump after AI execs call for industry slowdown | CBS News | 2026-09-14 |
 | Why Rubrik Stock Soared 15% Today | Motley Fool | 2026-09-14 |
-| Elon Musk Says Optimus Will Ship to Customers in 2027. Here's How Much Revenue That Could Actually Generate. | Motley Fool | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

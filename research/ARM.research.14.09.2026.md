@@ -37,9 +37,9 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Headline | Source | Date |
 |---|---|---|
 | Netflix Stock Rose 4% While the AI Trade Sold Off on Monday. Its Capital Goes Into Shows, Not Silicon. | Motley Fool | 2026-09-14 |
+| Stocks Fall on AI Slowdown Fears and Rising Crude Oil Prices | Barchart | 2026-09-14 |
 | Prediction: Arm Could Be the Picks-and-Shovels Winner of the AI Boom | 24/7 Wall St. | 2026-09-14 |
 | Wall Street Analyst Sees Between 19% to 37% Upside in These 5 AI Chip Stocks | Motley Fool | 2026-09-13 |
-| Arm vs. Credo Technology Group: Which Semiconductor Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,7 +74,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 96.21% |
+| Institutional ownership | 96.23% |
 | Insider ownership | 0.07% |
 | Short float | 11.52% |
 | Short ratio (days to cover) | 3.9 |
@@ -122,7 +122,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | SMA50 dist | -9.99% | ROE | 13.35% |
 | SMA200 dist | +16.69% | Revenue (ttm) | $5.16B |
 | 52W high | $439.46 | Revenue growth y/y | 22.40% |
-| 52W low | $104.55 | Inst. ownership | 96.21% |
+| 52W low | $104.55 | Inst. ownership | 96.23% |
 | P/E (ttm) | 243.89 | Insider ownership | 0.07% |
 | Forward P/E | 78.22 | Short float | 11.52% |
 | PEG (trailing) | 2.17 | Avg volume | 6,269,830 |

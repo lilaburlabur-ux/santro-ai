@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Tech pulls back on AI concerns, cybersecurity takes a step up | Yahoo Finance Video | 2026-09-14 |
 | Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck | Yahoo Finance | 2026-09-14 |
-| Elon Musk sends strong signal for SpaceX, Nvidia stocks | TheStreet | 2026-09-14 |
-| Broadcom Drops Over 4% as $21.7 Billion AI Forecast Meets Slowdown Fears | GuruFocus.com | 2026-09-14 |
+| New Fed Chair Warsh Vowed a Policy Overhaul to Crush Inflation When He Took Office. Has He Followed Through? | Motley Fool | 2026-09-14 |
+| Why Did GE Vernova Stock Fall Today? | Motley Fool | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

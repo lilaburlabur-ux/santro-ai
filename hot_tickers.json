@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-12T02:35:56+00:00",
+  "as_of": "2026-09-14T00:13:47+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,22 +9,6 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "HPE",
-   "company": "Hewlett Packard Enterprise Co",
-   "move_pct": 12.44,
-   "price": 62.09,
-   "volume": 38992100,
-   "volume_vs_avg": "~2x",
-   "heat_score": 78,
-   "direction": "up",
-   "why": "S&P 500, Dow Break Past Four-Day Loss To End Higher As Investors Eye Fed Meeting Next Week \u2014 DELL, HPE, EL, WMT In Focus",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-break-past-231055529.html",
-   "published": "2026-09-11T23:10:55Z",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 2,
    "ticker": "DELL",
    "company": "Dell Technologies Inc",
    "move_pct": 11.98,
@@ -33,10 +17,10 @@
    "volume_vs_avg": "~2x",
    "heat_score": 76,
    "direction": "up",
-   "why": "Dell Technologies (DELL) Raises its AI Server Forecast for the Second Time This Year",
-   "catalyst_type": "financing",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/dell-technologies-dell-raises-ai-233909317.html",
-   "published": "2026-09-11T23:39:09Z",
+   "why": "Nvidia Gets the AI Hype. Dell Gets the Billionaire Fortune",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/nvidia-gets-ai-hype-dell-210000017.html",
+   "published": "2026-09-13T21:00:00Z",
    "sector": "Chip Equipment & AI Hardware"
   }
  ]

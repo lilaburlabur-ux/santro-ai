@@ -38,8 +38,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 |---|---|---|
 | Tech pulls back on AI concerns, cybersecurity takes a step up | Yahoo Finance Video | 2026-09-14 |
 | Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck | Yahoo Finance | 2026-09-14 |
-| Wall Street ends down, calls for AI slowdown pummel chipmakers | Reuters | 2026-09-14 |
-| AI Warning Sends Nvidia, AMD, Micron and Intel Shares Tumbling | GuruFocus.com | 2026-09-14 |
+| Update: Wall Street Dips as AI Warnings Weigh on Tech Sector | MT Newswires | 2026-09-14 |
+| Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -37,9 +37,9 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Headline | Source | Date |
 |---|---|---|
 | Tech pulls back on AI concerns, cybersecurity takes a step up | Yahoo Finance Video | 2026-09-14 |
+| Broadcom Drops Over 4% as $21.7 Billion AI Forecast Meets Slowdown Fears | GuruFocus.com | 2026-09-14 |
 | Wall Street ends down, calls for AI slowdown pummel chipmakers | Reuters | 2026-09-14 |
 | Broadcom buys its Irvine office building | LA Times | 2026-09-14 |
-| AI Warning Sends Nvidia, AMD, Micron and Intel Shares Tumbling | GuruFocus.com | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $89.10B | Revenue growth 85.50% y/y |
 | Profitability | Gross 75.52%, operating 54.31%, net 42.94% | ROA 15.37%, ROE 44.25% |
 | Balance sheet | Cash $23.98B, debt $59.42B | Current ratio 2.50, debt/equity 59.60 |
-| Valuation | P/E 44.03, forward P/E 17.78, P/S 18.47, P/B 16.51 | EV/Sales 19.79, EV/EBITDA 33.74 |
+| Valuation | P/E 43.86, forward P/E 17.78, P/S 18.47, P/B 16.51 | EV/Sales 19.79, EV/EBITDA 33.74 |
 | Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $531.85 (47 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | SMA200 dist | -6.65% | Revenue (ttm) | $89.10B |
 | 52W high | $480.81 | Revenue growth y/y | 85.50% |
 | 52W low | $292.95 | Inst. ownership | 79.82% |
-| P/E (ttm) | 44.03 | Insider ownership | 1.94% |
+| P/E (ttm) | 43.86 | Insider ownership | 1.94% |
 | Forward P/E | 17.78 | Short float | 1.08% |
 | PEG (trailing) | 0.36 | Avg volume | 23,786,801 |
 | P/S | 18.47 | Employees | 33,000 |

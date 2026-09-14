@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| 5 Top AI Stocks to Buy on the Dip as Slowdown Fears Hit Markets | Zacks | 2026-09-14 |
 | ASML Drops 5.4% as Customers Prepare for $400 Million Machines | GuruFocus.com | 2026-09-14 |
 | TSMC Falls 3.3% as Its 2028 Chip Roadmap Precedes High-NA Adoption | GuruFocus.com | 2026-09-14 |
 | Forget the Magnificent 7. This Duo Says Broadcom, Not Nvidia, Wins the Next Leg of AI. | 24/7 Wall St. | 2026-09-14 |
-| Jensen Huang Called One AI Company the ‘TSMC of AI Factories.’ Its CTO Sees What Comes Next | Benzinga Private Markets | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.44T | Revenue growth 36.00% y/y |
 | Profitability | Gross 64.23%, operating 60.34%, net 49.92% | ROA 19.00%, ROE 39.97% |
 | Balance sheet | Cash $3.52T, debt $1.07T | Current ratio 2.46, debt/equity 16.50 |
-| Valuation | P/E 30.83, forward P/E 19.07, P/S 0.49, P/B 85.38 | EV/Sales 3.51, EV/EBITDA 4.92 |
+| Valuation | P/E 30.83, forward P/E 19.07, P/S 0.49, P/B 85.54 | EV/Sales 3.51, EV/EBITDA 4.92 |
 | Growth expectations | Earnings growth 77.40%, EPS q/q 77.40% | Analyst mean target $551.26 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -124,7 +124,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Forward P/E | 19.07 | Short float | 0.62% |
 | PEG (trailing) | 0.82 | Avg volume | 12,704,888 |
 | P/S | 0.49 | Employees | 76,907 |
-| P/B | 85.38 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 85.54 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

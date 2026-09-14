@@ -36,9 +36,9 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-14 |
 | Marvell stock plunges as a new threat hits the AI trade | GuruFocus.com | 2026-09-14 |
 | HPE Stock Is Downgraded After Rising 159% This Year. Why? | Barrons.com | 2026-09-14 |
-| Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-14 |
 | Marvell Falls 7% as AI Pacing Debate Collides With Fed Week; Broadcom Drops 4%, NVIDIA Pulls Back | 24/7 Wall St. | 2026-09-14 |
 
 ## 3. Technical Analysis
@@ -68,7 +68,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $9.45B | Revenue growth 36.50% y/y |
 | Profitability | Gross 52.22%, operating 16.68%, net 27.93% | ROA 4.12%, ROE 16.52% |
 | Balance sheet | Cash $3.93B, debt $5.29B | Current ratio 3.17, debt/equity 28.52 |
-| Valuation | P/E 72.46, forward P/E 32.37, P/S 20.81, P/B 10.35 | EV/Sales 22.05, EV/EBITDA 73.11 |
+| Valuation | P/E 72.46, forward P/E 32.37, P/S 20.81, P/B 10.52 | EV/Sales 22.05, EV/EBITDA 73.11 |
 | Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $285.30 (42 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -127,7 +127,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Forward P/E | 32.37 | Short float | 5.09% |
 | PEG (trailing) | 1.25 | Avg volume | 31,245,996 |
 | P/S | 20.81 | Employees | 7,480 |
-| P/B | 10.35 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 10.52 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

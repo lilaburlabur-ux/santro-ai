@@ -36,10 +36,10 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
+| Stocks Slump on AI Slowdown Fears and Rising Bond Yields and Crude Prices | Barchart | 2026-09-14 |
 | NXP Semiconductors Eyes Physical AI Leadership, Sees Data Center Growth Surge | MarketBeat | 2026-09-12 |
 | 2 Reasons to Avoid NXPI and 1 Stock to Buy Instead | StockStory | 2026-09-11 |
 | 1 Cash-Producing Stock to Research Further and 2 Facing Challenges | StockStory | 2026-09-10 |
-| AMKR Stock Gains After-Hours — Amkor Doubles Down On US Chip Manufacturing With $12B Arizona Campus Expansion | Stocktwits | 2026-09-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

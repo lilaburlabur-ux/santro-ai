@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| Update: Wall Street Dips as AI Warnings Weigh on Tech Sector | MT Newswires | 2026-09-14 |
 | Update: Equities Fall Intraday Amid AI Safety Warnings | MT Newswires | 2026-09-14 |
 | Intel Or NVIDIA: Who Is Paying For The AI Build-Out? | Trefis | 2026-09-14 |
 | Intel Is Stuck in Neutral. There Is Exactly One Thing That Should Change Your Mind. | 24/7 Wall St. | 2026-09-14 |
-| Congresswoman Bets on Elon Musk, Warren Buffett: Here’s the Latest Stock Transactions | Benzinga | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

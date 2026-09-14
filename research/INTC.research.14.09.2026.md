@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
+| Update: Wall Street Dips as AI Warnings Weigh on Tech Sector | MT Newswires | 2026-09-14 |
+| Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-14 |
+| AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance | TechCrunch | 2026-09-14 |
 | AI Warning Sends Nvidia, AMD, Micron and Intel Shares Tumbling | GuruFocus.com | 2026-09-14 |
-| Nvidia’s Training Trade Hit a Speed Bump. Intel Could Win From What Comes Next | Insider Monkey | 2026-09-14 |
-| Why Iren Stock Just Got a Double Upgrade to Buy | Barrons.com | 2026-09-14 |
-| Tech stocks fall after calls for AI development to slow | PA Media: Money | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

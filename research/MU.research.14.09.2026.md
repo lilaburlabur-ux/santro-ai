@@ -37,9 +37,9 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Headline | Source | Date |
 |---|---|---|
 | Tech pulls back on AI concerns, cybersecurity takes a step up | Yahoo Finance Video | 2026-09-14 |
-| Tech stocks slump after AI execs call for industry slowdown | CBS News | 2026-09-14 |
-| Wall Street ends down, calls for AI slowdown pummel chipmakers | Reuters | 2026-09-14 |
-| Netflix Stock Rose 4% While the AI Trade Sold Off on Monday. Its Capital Goes Into Shows, Not Silicon. | Motley Fool | 2026-09-14 |
+| Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms | Investor's Business Daily | 2026-09-14 |
+| Update: Wall Street Dips as AI Warnings Weigh on Tech Sector | MT Newswires | 2026-09-14 |
+| Stock Market Today: Dow Falls, Cyber Plays Soar Amid AI Fears; These Stocks Near Entries (Live Coverage) | Investor's Business Daily | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

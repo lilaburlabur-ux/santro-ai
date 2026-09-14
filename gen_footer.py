@@ -127,6 +127,8 @@ FOOTER = """<!-- mega-footer v1 -->
         <li><a href="/stocks/themes/chip-equipment-and-ai-hardware">Chip Equipment &amp; AI Hardware</a></li>
         <li><a href="/stocks/themes/ai-platforms-internet-and-adtech">AI Platforms &amp; Adtech</a></li>
         <li><a href="/stocks/themes/ai-applications-and-data-software">AI Apps &amp; Data Software</a></li>
+        <li><a href="/stocks/themes/applied-ai-industrial-defense-and-vertical">Applied AI &amp; Defense</a></li>
+        <li><a href="/stocks/themes/cybersecurity">Cybersecurity</a></li>
       </ul>
     </div>
     <div class="mg-col">

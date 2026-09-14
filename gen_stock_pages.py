@@ -66,7 +66,37 @@ NEW_TICKERS = {
     "CBRS": {"group": "ai_chips_and_compute", "h2": "The AI chips &amp; compute industry",
              "rel": ["nvda", "amd", "arm", "mu"],
              "ctx": "Cerebras builds wafer-scale AI training chips — a genuinely different architecture from GPU clusters — and listed on Nasdaq in 2026 after a long run on Santro's IPO watch."},
-}
+
+    "FFIV": {"group": "cybersecurity", "h2": "The cybersecurity industry",
+             "rel": ["net", "aten", "panw", "ftnt"],
+             "ctx": "F5 sells application delivery and security for hybrid and multicloud apps — the traffic layer AI services run through."},
+    "TENB": {"group": "cybersecurity", "h2": "The cybersecurity industry",
+             "rel": ["rpd", "vrns", "crwd", "panw"],
+             "ctx": "Tenable is exposure management — scanning and prioritizing the vulnerabilities attackers (increasingly AI-assisted) exploit."},
+    "ATEN": {"group": "cybersecurity", "h2": "The cybersecurity industry",
+             "rel": ["ffiv", "net", "rpd", "ftnt"],
+             "ctx": "A10 provides application delivery and DDoS defense for service providers and enterprises."},
+    "VRNS": {"group": "cybersecurity", "h2": "The cybersecurity industry",
+             "rel": ["sail", "okta", "rbrk", "tenb"],
+             "ctx": "Varonis secures the data itself — classifying sensitive files and catching abnormal access, a direct beneficiary of AI-era data-exposure worry."},
+    "RBRK": {"group": "cybersecurity", "h2": "The cybersecurity industry",
+             "rel": ["vrns", "crwd", "zs", "s"],
+             "ctx": "Rubrik is cyber-resilience: backup and rapid recovery built around the assumption that ransomware eventually gets in."},
+    "YOU": {"group": "cybersecurity", "h2": "The cybersecurity industry",
+             "rel": ["okta", "sail", "bah", "psn"],
+             "ctx": "Clear Secure runs biometric identity verification — airports today, a broader identity layer as AI makes impersonation cheap."},
+    "SAIL": {"group": "cybersecurity", "h2": "The cybersecurity industry",
+             "rel": ["okta", "vrns", "you", "crwd"],
+             "ctx": "SailPoint governs identities and access rights across the enterprise — who (and now which AI agent) can touch what."},
+    "BAH": {"group": "cybersecurity", "h2": "The cybersecurity industry",
+             "rel": ["psn", "pltr", "you", "crwd"],
+             "ctx": "Booz Allen is the U.S. government's biggest AI and cyber consultancy — exposure runs through federal contracts, not product."},
+    "RPD": {"group": "cybersecurity", "h2": "The cybersecurity industry",
+             "rel": ["tenb", "crwd", "s", "aten"],
+             "ctx": "Rapid7 sells security analytics and vulnerability management to the mid-market."},
+    "PSN": {"group": "cybersecurity", "h2": "The cybersecurity industry",
+             "rel": ["bah", "pltr", "you", "ffiv"],
+             "ctx": "Parsons engineers defense and infrastructure systems with a large cyber and intelligence business — contract-driven, government-heavy."},}
 
 # ── published editorial industry texts (single source: ticker-about.js) ──────
 src = open("ticker-about.js", encoding="utf-8").read()

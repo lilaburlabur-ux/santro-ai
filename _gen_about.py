@@ -49,6 +49,8 @@ industry = {
  "generation, grid and cooling, and the operators that host high-density compute. AI's soaring power demand has made this "
  "an unexpectedly central part of the trade. The businesses are capital-intensive and turn on access to cheap, reliable "
  "power, long-term contracts and financing costs."},
+"cybersecurity": {"heading": "Cybersecurity",
+ "text": "Cybersecurity vendors sell the defenses every AI-era company now needs — endpoint and network protection, identity, data security, exposure management and recovery. AI cuts both ways here: it powers a new generation of attacks and it is being built into the products that stop them. Demand is unusually resilient because breaches are not optional to prevent, but the group trades on growth and platform-consolidation stories — valuations run rich, competition is brutal, and single-product vendors face pressure from the big platforms."},
 "applied_ai_industrial_defense_and_vertical": {"heading": "Applied AI: industrial, defense & vertical",
  "text": "These companies apply AI and autonomy to specific real-world domains — industrials, defense, space, robotics and "
  "other verticals. The link to AI runs through software, sensors, autonomy and the data these systems generate and analyze. "

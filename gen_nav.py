@@ -65,6 +65,7 @@ NAV = [
          ("AI Platforms & Adtech", "/stocks/themes/ai-platforms-internet-and-adtech", "Internet platforms monetizing AI.", None),
          ("AI Apps & Data Software", "/stocks/themes/ai-applications-and-data-software", "Applied AI and the data layer.", None),
          ("Applied AI, Industrial & Defense", "/stocks/themes/applied-ai-industrial-defense-and-vertical", "Robotics, defense, and vertical AI.", None),
+         ("Cybersecurity", "/stocks/themes/cybersecurity", "AI attack and defense — CRWD, PANW, ZS and the security stack.", None),
        ]),
   dict(key="maps", label="Market Maps", more=True,
        desc="Visual entry points into the same delayed data.",

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-14T09:59:03+00:00",
+  "as_of": "2026-09-14T10:14:17+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,10 +9,26 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "VRT",
+   "company": "Vertiv Holdings Co",
+   "move_pct": -6.29,
+   "price": 240.9,
+   "volume": 4767600,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 41,
+   "direction": "down",
+   "why": "The Zacks Analyst Blog Highlights Alphabet, Microsoft, NVIDIA, Arista Networks and Vertiv",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-alphabet-095500062.html",
+   "published": "2026-09-14T09:55:00Z",
+   "sector": "Data Center, Power & Energy"
+  },
+  {
+   "rank": 2,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
-   "move_pct": -5.61,
-   "price": 487.19,
+   "move_pct": -5.49,
+   "price": 487.78,
    "volume": 19001000,
    "volume_vs_avg": "~0.9x",
    "heat_score": 39,
@@ -24,11 +40,27 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 2,
+   "rank": 3,
+   "ticker": "ANET",
+   "company": "Arista Networks Inc",
+   "move_pct": -5.83,
+   "price": 187.95,
+   "volume": 4638000,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 39,
+   "direction": "down",
+   "why": "The Zacks Analyst Blog Highlights Alphabet, Microsoft, NVIDIA, Arista Networks and Vertiv",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-alphabet-095500062.html",
+   "published": "2026-09-14T09:55:00Z",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 4,
    "ticker": "MU",
    "company": "Micron Technology Inc",
-   "move_pct": -5.24,
-   "price": 924.2,
+   "move_pct": -5.19,
+   "price": 924.63,
    "volume": 21694700,
    "volume_vs_avg": "~0.7x",
    "heat_score": 37,
@@ -38,6 +70,22 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/prediction-microns-sept-30-earnings-083500410.html",
    "published": "2026-09-14T08:35:00Z",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 5,
+   "ticker": "CRWD",
+   "company": "Crowdstrike Holdings Inc",
+   "move_pct": 5.37,
+   "price": 217.85,
+   "volume": 6639000,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 37,
+   "direction": "up",
+   "why": "Jim Cramer Calls CrowdStrike a \u2018MUST BUY' Over CEO's AI Security Post",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-crowdstrike-must-065747776.html",
+   "published": "2026-09-14T06:57:47Z",
+   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

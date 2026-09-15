@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-15T21:00:50+00:00",
+  "as_of": "2026-09-15T21:15:55+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "AAPL",
+   "company": "Apple Inc",
+   "move_pct": 6.35,
+   "price": 354.22,
+   "volume": 31420574,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 41,
+   "direction": "up",
+   "why": "Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-apple-stock-aapl-nvidia-chipmaker-tsm-amd-bloom/?src=A00220&yptr=yahoo",
+   "published": "2026-09-15T20:38:46Z",
+   "sector": "AI Platforms, Internet & AdTech"
+  }
+ ]
 }

@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| What Was Qualcomm Stock Telling You Before It Ran? | Trefis | 2026-09-15 |
 | Broadcom CEO Doubles Down on Massive AI Growth Target | GuruFocus.com | 2026-09-15 |
 | Broadcom (AVGO) Could Be 47% Below Fair Value On Buybacks And Revenue Guidance | Simply Wall St. | 2026-09-15 |
 | Broadcom Slips Again as AI Approaches 62% of Quarterly Sales | GuruFocus.com | 2026-09-15 |
-| NVIDIA vs. Broadcom: Which AI Stock Should You Buy After Earnings? | Zacks | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

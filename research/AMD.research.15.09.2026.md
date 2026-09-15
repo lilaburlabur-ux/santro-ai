@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones | Investor's Business Daily | 2026-09-15 |
+| Nvidia, AI Chip Stocks Look To Stem The Bleeding After Sell-Off | Investor's Business Daily | 2026-09-15 |
+| What Was Qualcomm Stock Telling You Before It Ran? | Trefis | 2026-09-15 |
 | Bank of America says investors get AMD stock wrong | TheStreet | 2026-09-15 |
-| What Would It Take For Micron Technology Stock To Keep Climbing? | Trefis | 2026-09-15 |
-| AMD Rebounds 3% as Its 58% AI Engine Faces a Pause | GuruFocus.com | 2026-09-15 |
-| Nvidia Will Still Beat AMD Through 2028. Here's the Data Behind My Conviction. | Motley Fool | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

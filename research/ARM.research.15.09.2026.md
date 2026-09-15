@@ -37,9 +37,9 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Headline | Source | Date |
 |---|---|---|
 | Arm Surges as the AI Selloff Tests Its Royalty Machine | GuruFocus.com | 2026-09-15 |
-| Stocks Pressured as the 10-Year T-Note Yield Climbs to a 19-Year High | Barchart | 2026-09-15 |
 | Arm Stock Is Down More Than 40%. Here's Why I'm Staying on the Sidelines. | Motley Fool | 2026-09-15 |
 | Is Arm Holdings (ARM) Cheap After The AI Stock Pullback? | Simply Wall St. | 2026-09-15 |
+| Netflix Stock Rose 4% While the AI Trade Sold Off on Monday. Its Capital Goes Into Shows, Not Silicon. | Motley Fool | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

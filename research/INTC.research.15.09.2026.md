@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Stocks pop when the Trump administration invests, but the gains often fade fast | Yahoo Finance | 2026-09-14 |
+| What Was Qualcomm Stock Telling You Before It Ran? | Trefis | 2026-09-15 |
 | What Would It Take For Micron Technology Stock To Keep Climbing? | Trefis | 2026-09-15 |
 | Prediction: AMD Could Be Closing the Gap in the AI Chip Race | 24/7 Wall St. | 2026-09-15 |
-| Stock Market Midday, Sept. 15: Stocks Slide on AI and Bond Jitters | Motley Fool | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

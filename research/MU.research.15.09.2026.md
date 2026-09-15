@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| Micron Investors Get New Reason to Watch Closely | GuruFocus.com | 2026-09-15 |
+| Nvidia, AI Chip Stocks Look To Stem The Bleeding After Sell-Off | Investor's Business Daily | 2026-09-15 |
 | Micron's AI boom just ran into an unexpected labor problem | GuruFocus.com | 2026-09-15 |
 | What Would It Take For Micron Technology Stock To Keep Climbing? | Trefis | 2026-09-15 |
-| 3 Artificial Intelligence (AI) Stocks That Turned $10,000 Into More Than $100,000 in 5 Years (Hint: They've All Outperformed Nvidia) | Motley Fool | 2026-09-15 |
-| Nvidia vs. Micron: Which Is the Better Artificial Intelligence (AI) Semiconductor Stock to Own for the Next 5 Years? | Motley Fool | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

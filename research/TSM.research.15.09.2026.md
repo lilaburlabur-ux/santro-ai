@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| TSMC’s 2nm Era Is Accelerating With MediaTek. Nvidia and Alphabet Already Have Money on the Table | Insider Monkey | 2026-09-15 |
 | Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones | Investor's Business Daily | 2026-09-15 |
 | Taiwan Semiconductor Issues Blunt Warning on AI | GuruFocus.com | 2026-09-15 |
 | There Is One Thing ASML’s $400 Million Machine Still Cannot Do. AI Chips Keep Making It Worse. | 24/7 Wall St. | 2026-09-15 |
-| Apple Stock: New CEO, Foldable iPhone-Time to Buy the Dip? | Zacks | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.44T | Revenue growth 36.00% y/y |
 | Profitability | Gross 64.23%, operating 60.34%, net 49.92% | ROA 19.00%, ROE 39.97% |
 | Balance sheet | Cash $3.52T, debt $1.07T | Current ratio 2.46, debt/equity 16.50 |
-| Valuation | P/E 30.65, forward P/E 18.87, P/S 0.48, P/B 84.51 | EV/Sales 3.36, EV/EBITDA 4.72 |
+| Valuation | P/E 30.65, forward P/E 18.87, P/S 0.48, P/B 84.67 | EV/Sales 3.36, EV/EBITDA 4.72 |
 | Growth expectations | Earnings growth 77.40%, EPS q/q 77.40% | Analyst mean target $551.26 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -124,7 +124,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Forward P/E | 18.87 | Short float | 0.62% |
 | PEG (trailing) | 0.79 | Avg volume | 12,755,000 |
 | P/S | 0.48 | Employees | 76,907 |
-| P/B | 84.51 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 84.67 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

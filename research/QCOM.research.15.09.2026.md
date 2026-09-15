@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| Why Qualcomm (QCOM) Stock Is Trading Up Today | StockStory | 2026-09-15 |
 | What Was Qualcomm Stock Telling You Before It Ran? | Trefis | 2026-09-15 |
 | What Would It Take For Micron Technology Stock To Keep Climbing? | Trefis | 2026-09-15 |
 | Qualcomm Stock Jumps. Amazon AI Chip Deal Opens New Growth Avenue | GuruFocus.com | 2026-09-15 |
-| Qualcomm Jumps Over 3% as MediaTek Fires a 2nm Warning Shot | GuruFocus.com | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

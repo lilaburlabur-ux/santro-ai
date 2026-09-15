@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Tech stocks today: CEOs call for pacing AI, as Nvidia CEO says extinction fears are made up | Yahoo Finance | 2026-09-14 |
 | 10-year Treasury hits 2007 high as oil stays above $100: AlphaCheck | Yahoo Finance | 2026-09-15 |
-| Trump stuns Nvidia's Jensen Huang with an unexpected AI remark | GuruFocus.com | 2026-09-15 |
-| Meta is making a bigger AI chip move to cut costs | GuruFocus.com | 2026-09-15 |
+| Berkshire Hathaway's Class A Shares Cost About $766,000. Here's Why the Class B Shares Exist. | Motley Fool | 2026-09-15 |
+| Where Tesla's Robotaxi Rollout Stands Today and What Investors Should Know | Motley Fool | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

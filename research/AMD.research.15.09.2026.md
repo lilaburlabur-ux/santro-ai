@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| JEPQ’s Monthly Check Has Swung From $0.34 to $0.70 a Share: The $500,000 Retiree Can’t Budget on It | 24/7 Wall St. | 2026-09-15 |
+| Why the Market Dipped But Advanced Micro Devices (AMD) Gained Today | Zacks | 2026-09-15 |
 | Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones | Investor's Business Daily | 2026-09-15 |
 | Nvidia, AI Chip Stocks Look To Stem The Bleeding After Sell-Off | Investor's Business Daily | 2026-09-15 |
-| What Was Qualcomm Stock Telling You Before It Ran? | Trefis | 2026-09-15 |
-| Bank of America says investors get AMD stock wrong | TheStreet | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

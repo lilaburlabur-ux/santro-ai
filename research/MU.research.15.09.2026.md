@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| Micron Technology (MU), What Is Behind The Fresh Attention? | Simply Wall St. | 2026-09-15 |
+| S&P 500, Nasdaq, Dow End Lower As Investors Price In Rate Hike Ahead Of Fed Meeting — AMZN, META, MU, TSLA, PLTR In Focus | Stocktwits | 2026-09-15 |
 | Micron Investors Get New Reason to Watch Closely | GuruFocus.com | 2026-09-15 |
 | Nvidia, AI Chip Stocks Look To Stem The Bleeding After Sell-Off | Investor's Business Daily | 2026-09-15 |
-| Micron's AI boom just ran into an unexpected labor problem | GuruFocus.com | 2026-09-15 |
-| What Would It Take For Micron Technology Stock To Keep Climbing? | Trefis | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

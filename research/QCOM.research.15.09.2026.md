@@ -18,7 +18,7 @@ Signed file: `QCOM.research.15.09.2026`
 | Technical momentum | Moderate | 1Y +18.46%; price +12.66% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -24.50% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 21.01%, revenue growth -4.00%. |
-| Value attractiveness | Reasonable | Forward P/E 18.40, EV/Sales 4.45. |
+| Value attractiveness | Reasonable | Forward P/E 18.40, EV/Sales 4.63. |
 | Risk level | Elevated | Beta 1.68, ATR 4.1% of price, short float 3.53%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $44.07B | Revenue growth -4.00% y/y |
 | Profitability | Gross 54.23%, operating 18.53%, net 21.01% | ROA 11.61%, ROE 33.75% |
 | Balance sheet | Cash $8.30B, debt $15.27B | Current ratio 2.02, debt/equity 55.21 |
-| Valuation | P/E 21.44, forward P/E 18.40, P/S 4.55, P/B 7.18 | EV/Sales 4.45, EV/EBITDA 16.35 |
+| Valuation | P/E 21.44, forward P/E 18.40, P/S 4.55, P/B 7.18 | EV/Sales 4.63, EV/EBITDA 17.02 |
 | Growth expectations | Earnings growth -23.00%, EPS q/q -24.90% | Analyst mean target $194.13 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $187.80 | EV/Sales | 4.45 |
-| Market cap | $200.58B | EV/EBITDA | 16.35 |
+| Price | $187.80 | EV/Sales | 4.63 |
+| Market cap | $200.58B | EV/EBITDA | 17.02 |
 | Beta | 1.68 | Gross margin | 54.23% |
 | RSI(14) | 70.4 | Operating margin | 18.53% |
 | ATR(14) | 7.68 | Profit margin | 21.01% |

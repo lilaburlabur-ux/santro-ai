@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-15T02:27:52+00:00",
-  "as_of_local": "2026-09-15 02:27:52 UTC",
+  "as_of_utc": "2026-09-15T02:42:56+00:00",
+  "as_of_local": "2026-09-15 02:42:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -119,12 +117,40 @@
       ]
     },
     {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 493.41,
+      "previous_close": 516.13,
+      "change_pct": -4.4,
+      "market_cap": 805479516451.5222,
+      "headlines": [
+        {
+          "title": "Tech pulls back on AI concerns, cybersecurity takes a step up",
+          "url": "https://finance.yahoo.com/video/tech-pulls-back-ai-concerns-143900977.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-09-14T14:39:00Z"
+        },
+        {
+          "title": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
+          "url": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-09-14T13:45:19Z"
+        },
+        {
+          "title": "AI-linked stocks slide after tech bosses call for slowdown in \u2018reckless\u2019 development",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-linked-stocks-slide-tech-181747255.html",
+          "publisher": "The Guardian",
+          "published": "2026-09-14T22:10:52Z"
+        }
+      ]
+    },
+    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 97.19,
       "previous_close": 102.94,
       "change_pct": -5.59,
-      "market_cap": 510687425383.2834,
+      "market_cap": 513756583319.3104,
       "headlines": [
         {
           "title": "Stocks pop when the Trump administration invests, but the gains often fade fast",
@@ -155,6 +181,12 @@
       "market_cap": 255262332109.99866,
       "headlines": [
         {
+          "title": "Stocks Settle Lower as AI Slowdown Fears Weigh on Chipmakers",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-ai-slowdown-203505818.html",
+          "publisher": "Barchart",
+          "published": "2026-09-14T20:35:05Z"
+        },
+        {
           "title": "Netflix Stock Rose 4% While the AI Trade Sold Off on Monday. Its Capital Goes Into Shows, Not Silicon.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-stock-rose-4-while-194701621.html",
           "publisher": "Motley Fool",
@@ -165,12 +197,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-arm-could-picks-shovels-140029914.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-14T14:00:29Z"
-        },
-        {
-          "title": "Wall Street Analyst Sees Between 19% to 37% Upside in These 5 AI Chip Stocks",
-          "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-analyst-sees-between-100500305.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-13T10:05:00Z"
         }
       ]
     },
@@ -251,10 +277,10 @@
           "published": "2026-09-14T22:15:02Z"
         },
         {
-          "title": "NXP Semiconductors Eyes Physical AI Leadership, Sees Data Center Growth Surge",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nxp-semiconductors-eyes-physical-ai-130200789.html",
-          "publisher": "MarketBeat",
-          "published": "2026-09-12T13:02:00Z"
+          "title": "Stocks Settle Lower as AI Slowdown Fears Weigh on Chipmakers",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-ai-slowdown-203505818.html",
+          "publisher": "Barchart",
+          "published": "2026-09-14T20:35:05Z"
         }
       ]
     },
@@ -264,7 +290,7 @@
       "price": 106.5,
       "previous_close": 119.76,
       "change_pct": -11.07,
-      "market_cap": 15126223968.0,
+      "market_cap": 15096290758.5,
       "headlines": [
         {
           "title": "Lattice Semiconductor, Amkor, Himax, Teradyne, and Entegris Stocks Trade Down, What You Need To Know",
@@ -295,6 +321,12 @@
       "market_cap": 7795895376.615051,
       "headlines": [
         {
+          "title": "AeroVironment (AVAV) Shares Skyrocket, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-shares-skyrocket-know-022730684.html",
+          "publisher": "StockStory",
+          "published": "2026-09-15T02:27:30Z"
+        },
+        {
           "title": "Boeing Wins $13.4 Billion KC-46 Air Force Contract Amid Defense Awards",
           "url": "https://www.investors.com/news/boeing-13-4-billion-kc-46-contract-bluehalo-aerovironment-northrop-grumman-ba-avav-noc-defense/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -305,12 +337,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-rises-6-post-earnings-165740694.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-14T16:57:40Z"
-        },
-        {
-          "title": "MarketBeat Week in Review \u2013 09/07 - 09/11",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-09-07-110000028.html",
-          "publisher": "MarketBeat",
-          "published": "2026-09-12T11:00:00Z"
         }
       ]
     },
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.4,
-          "price": 250000.0,
+          "change_pct": 0.5,
+          "price": 250250.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 2.37,
-          "price": 51790.0,
+          "change_pct": 2.61,
+          "price": 51910.0,
           "currency": "JPY"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -0.11,
-          "price": 472.5,
+          "change_pct": 0.0,
+          "price": 473.0,
           "currency": "TWD"
         },
         {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.4,
-        "price": 250000.0,
+        "change_pct": 0.5,
+        "price": 250250.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 2.37,
-        "price": 51790.0,
+        "change_pct": 2.61,
+        "price": 51910.0,
         "currency": "JPY"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -0.11,
-        "price": 472.5,
+        "change_pct": 0.0,
+        "price": 473.0,
         "currency": "TWD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 78000.99,
-      "change_pct": 1.51
+      "price": 77840.07,
+      "change_pct": 1.3
     },
     {
       "label": "Gold",
-      "price": 4346.2,
-      "change_pct": -1.42
+      "price": 4350.5,
+      "change_pct": -1.32
     },
     {
       "label": "Nasdaq100",

@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-15T14:32:05+00:00",
+  "as_of": "2026-09-15T14:37:20+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "RPD",
-   "company": "Rapid7, Inc.",
-   "move_pct": -5.0,
-   "price": 12.15,
-   "volume": 536810,
-   "volume_vs_avg": "~0.3x",
-   "heat_score": 34,
-   "direction": "down",
-   "why": "Here Are Tuesday\u2019s Top Wall Street Analyst Research Calls: Autodesk, Eli Lilly, Etsy, Lear, Netskope, Nokia, Northrop Grumman, Rapid7, Rivian Automotive, Ulta Beauty, and More",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/tuesday-top-wall-street-analyst-120426605.html",
-   "published": "2026-09-15T12:04:26Z",
-   "sector": "Cybersecurity"
-  }
- ]
+ "hot_tickers": []
 }

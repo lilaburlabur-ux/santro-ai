@@ -39,7 +39,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Tech stocks today: CEOs call for pacing AI, as Nvidia CEO says extinction fears are made up | Yahoo Finance | 2026-09-14 |
 | 10-year Treasury hits 2007 high as oil stays above $100: AlphaCheck | Yahoo Finance | 2026-09-15 |
 | Magnificent Seven Stocks Eye Breakout After Sideways 2026 | GuruFocus.com | 2026-09-15 |
-| Tesla Launches the Cybercab: 2 Key Takeaways for Investors | Motley Fool | 2026-09-15 |
+| 3 Resilient Artificial Intelligence (AI) Stocks That Did Well the Last Time the Fed Raised Interest Rates | Motley Fool | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

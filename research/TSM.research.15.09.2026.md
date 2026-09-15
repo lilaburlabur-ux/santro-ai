@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Taiwan Semiconductor Issues Blunt Warning on AI | GuruFocus.com | 2026-09-15 |
 | There Is One Thing ASML’s $400 Million Machine Still Cannot Do. AI Chips Keep Making It Worse. | 24/7 Wall St. | 2026-09-15 |
 | Apple Stock: New CEO, Foldable iPhone-Time to Buy the Dip? | Zacks | 2026-09-15 |
 | Meta Puts Arke and Astrid Into Data Centers in 2027 | GuruFocus.com | 2026-09-15 |
-| TSMC Slips as 2-Nanometer Chip Powers a 51% AI Leap | GuruFocus.com | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

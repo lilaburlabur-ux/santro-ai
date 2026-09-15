@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-15T21:31:04+00:00",
+  "as_of": "2026-09-15T21:46:22+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "GOOGL",
-   "company": "Alphabet Inc",
-   "move_pct": -6.92,
-   "price": 325.2,
-   "volume": 21480287,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 44,
-   "direction": "down",
-   "why": "Tesla\u2019s Cybercab Launch Fizzles, Leaving Waymo as the Robotaxi Leader",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/tesla-cybercab-launch-fizzles-leaving-201402004.html",
-   "published": "2026-09-15T20:14:02Z",
-   "sector": "AI Platforms, Internet & AdTech"
-  }
- ]
+ "hot_tickers": []
 }

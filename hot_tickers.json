@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-16T08:01:13+00:00",
+  "as_of": "2026-09-16T08:16:36+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "INTC",
+   "company": "Intel Corp",
+   "move_pct": 5.53,
+   "price": 102.51,
+   "volume": 84839200,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 39,
+   "direction": "up",
+   "why": "INTC, SKHY Stocks Jump Overnight: Intel\u2019s Delayed Ohio Megafab Could Make SK Hynix\u2019s First US Memory Chips",
+   "catalyst_type": "contract_win",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/intc-skhy-stocks-jump-overnight-074317947.html",
+   "published": "2026-09-16T07:43:17Z",
+   "sector": "AI Chips & Compute"
+  }
+ ]
 }

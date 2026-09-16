@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-16T19:43:38+00:00",
+  "as_of": "2026-09-16T19:48:49+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "SPCX",
+   "company": "SpaceX",
+   "move_pct": 5.1,
+   "price": 150.81,
+   "volume": 99236853,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 38,
+   "direction": "up",
+   "why": "Cathie Wood Sees Hidden Value in SpaceX While Analysts Remain Divided",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sees-hidden-value-192708794.html",
+   "published": "2026-09-16T19:27:08Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  }
+ ]
 }

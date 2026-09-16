@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-16T18:02:02+00:00",
+  "as_of": "2026-09-16T18:07:18+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "GEV",
    "company": "GE Vernova Inc",
-   "move_pct": 5.01,
-   "price": 927.0,
-   "volume": 2153262,
+   "move_pct": 5.77,
+   "price": 933.73,
+   "volume": 2201267,
    "volume_vs_avg": "~1.1x",
-   "heat_score": 38,
+   "heat_score": 41,
    "direction": "up",
    "why": "GEV Stock Gains After CEO Signals \u2018Durable Demand\u2019, Says 2030-2040 Could Be An \u2018Even Better Decade\u2019",
    "catalyst_type": "momentum_narrative",
@@ -27,17 +27,33 @@
    "rank": 2,
    "ticker": "SPCX",
    "company": "SpaceX",
-   "move_pct": 5.01,
-   "price": 150.68,
-   "volume": 75429666,
+   "move_pct": 5.72,
+   "price": 151.7,
+   "volume": 76812564,
    "volume_vs_avg": "~0.7x",
-   "heat_score": 36,
+   "heat_score": 39,
    "direction": "up",
    "why": "Salesforce, SpaceX, Intel, J.B. Hunt, Coinbase, and More Stocks That Explain Today\u2019s Market",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.barrons.com/articles/stock-movers-a5dc6aca?siteid=yhoof2&yptr=yahoo",
    "published": "2026-09-16T17:09:00Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 3,
+   "ticker": "INTC",
+   "company": "Intel Corp",
+   "move_pct": 5.16,
+   "price": 102.15,
+   "volume": 72614953,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 37,
+   "direction": "up",
+   "why": "Intel (INTC) Is In Advanced Talks On Ohio Memory Chip Manufacturing",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/articles/intel-intc-advanced-talks-ohio-171118347.html",
+   "published": "2026-09-16T17:11:18Z",
+   "sector": "AI Chips & Compute"
   }
  ]
 }

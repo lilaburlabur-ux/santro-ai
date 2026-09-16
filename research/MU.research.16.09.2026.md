@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| Michael Burry reveals his verdict on the ongoing AI bubble | TheStreet | 2026-09-16 |
 | A Broad-Based Earnings Growth Picture as Revisions Stay Positive | Zacks | 2026-09-16 |
 | The $75,000 Retirement Budget That JEPQ May Struggle to Support in 10 Years | 24/7 Wall St. | 2026-09-16 |
 | Micron Faces New Threat to Its U.S. Memory-Chip Supremacy | Barrons.com | 2026-09-16 |
-| Micron Gains as Memory Scarcity Threatens Its Customers | GuruFocus.com | 2026-09-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

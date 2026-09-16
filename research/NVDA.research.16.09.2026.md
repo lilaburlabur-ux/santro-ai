@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Frontier AI developers must be 'liable for the things their products do': Autodesk CEO | Yahoo Finance Video | 2026-09-16 |
-| Stock Market Today: Nasdaq Ends Flat After Rate Hike; AI Play SpaceX Eyes Early Entry | Investor's Business Daily | 2026-09-16 |
-| Greg Abel Grew Berkshire Hathaway's Alphabet Stake by 83% Last Quarter, One of His Boldest Equity Bets Yet as CEO. Is Alphabet Now a Core Berkshire Holding? | Motley Fool | 2026-09-16 |
-| A Broad-Based Earnings Growth Picture as Revisions Stay Positive | Zacks | 2026-09-16 |
+| Why Wendy's Stock Withered on Wednesday | Motley Fool | 2026-09-16 |
+| Why J.B. Hunt Stock Dropped Today | Motley Fool | 2026-09-16 |
+| Toast Turned $1.91 Billion in Revenue Into $154 Million in Profit. The Payments Half Is Doing the Heavy Lifting. | Motley Fool | 2026-09-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

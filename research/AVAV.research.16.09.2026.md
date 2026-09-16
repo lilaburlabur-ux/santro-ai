@@ -36,10 +36,10 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 | Headline | Source | Date |
 |---|---|---|
+| AeroVironment (AVAV) Has $1.5 Billion in Funded Backlog. Can Conversion Support Guidance? | Insider Monkey | 2026-09-16 |
 | Ondas vs. AeroVironment: Which Drone Stock Is the Better Pick Now? | Zacks | 2026-09-16 |
 | Red Cat Sinks 6% as Speculative Drone Names Extend Month-Long Slide; Unusual Machines Drops 4%, AeroVironment Barely Budges | 24/7 Wall St. | 2026-09-16 |
 | Cathie Wood's ARK Invest Buys AVAV Stock Again, Trims GOOGL Stake And Sells Iridium | Stocktwits | 2026-09-16 |
-| AeroVironment (AVAV) Teams Up To Digitize Production And Test Data | Simply Wall St. | 2026-09-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

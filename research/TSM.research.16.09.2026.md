@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Stock Market Today, Sept. 16: Intel Jumps on SK Hynix Memory-Chip Manufacturing Talks | Motley Fool | 2026-09-16 |
 | TSMC Gains as 2-Nanometer Chips Enter the Smartphone Race | GuruFocus.com | 2026-09-16 |
 | Qualcomm now faces rival with bigger market cap | TheStreet | 2026-09-16 |
 | Prediction: $1,000 Invested in Taiwan Semiconductor (TSMC) Today Will Be Worth This Much by the End of the Decade | Motley Fool | 2026-09-16 |
-| Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones | Investor's Business Daily | 2026-09-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | How worried should software, semiconductor stocks be about AI risks? | Yahoo Finance Video | 2026-09-16 |
+| Stocks to Watch Wednesday Recap: Coinbase, Strategy, Intel, Fraser Group | The Wall Street Journal | 2026-09-16 |
 | Why Intel (INTC) Stock Is Trading Up Today | StockStory | 2026-09-16 |
 | Why Intel Stock Jumped Today | Motley Fool | 2026-09-16 |
-| SK Hynix Is in Talks With Intel to Make Memory Chips in the U.S. Here's What It Could Mean for Intel Stock. | Motley Fool | 2026-09-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

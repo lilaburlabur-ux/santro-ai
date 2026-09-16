@@ -18,7 +18,7 @@ Signed file: `AVGO.research.16.09.2026`
 | Technical momentum | Moderate | 1Y -6.07%; price -7.94% vs SMA200. |
 | Fresh setup quality | Poor / broken | -29.39% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 42.94%, revenue growth 85.50%. |
-| Value attractiveness | Reasonable | Forward P/E 17.52, EV/Sales 18.57. |
+| Value attractiveness | Reasonable | Forward P/E 17.52, EV/Sales 18.59. |
 | Risk level | Elevated | Beta 1.46, ATR 3.5% of price, short float 1.08%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $89.10B | Revenue growth 85.50% y/y |
 | Profitability | Gross 75.52%, operating 54.31%, net 42.94% | ROA 15.37%, ROE 44.25% |
 | Balance sheet | Cash $23.98B, debt $59.42B | Current ratio 2.50, debt/equity 59.60 |
-| Valuation | P/E 43.30, forward P/E 17.52, P/S 18.19, P/B 16.26 | EV/Sales 18.57, EV/EBITDA 31.67 |
+| Valuation | P/E 43.30, forward P/E 17.52, P/S 18.19, P/B 16.26 | EV/Sales 18.59, EV/EBITDA 31.69 |
 | Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $531.85 (47 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,8 +111,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $339.51 | EV/Sales | 18.57 |
-| Market cap | $1.62T | EV/EBITDA | 31.67 |
+| Price | $339.51 | EV/Sales | 18.59 |
+| Market cap | $1.62T | EV/EBITDA | 31.69 |
 | Beta | 1.46 | Gross margin | 75.52% |
 | RSI(14) | 32.5 | Operating margin | 54.31% |
 | ATR(14) | 11.96 | Profit margin | 42.94% |

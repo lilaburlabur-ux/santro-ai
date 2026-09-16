@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-16T15:22:01+00:00",
+  "as_of": "2026-09-16T15:37:12+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,29 +9,13 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "SPCX",
-   "company": "SpaceX",
-   "move_pct": 6.35,
-   "price": 152.6,
-   "volume": 50707801,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 40,
-   "direction": "up",
-   "why": "Tesla-SpaceX Merger: Not If, But When Musk Makes It Official",
-   "catalyst_type": "mna",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/tesla-spacex-merger-not-musk-145800427.html",
-   "published": "2026-09-16T14:58:00Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 2,
    "ticker": "DELL",
    "company": "Dell Technologies Inc",
-   "move_pct": 5.16,
-   "price": 571.54,
-   "volume": 6042961,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 37,
+   "move_pct": 5.73,
+   "price": 574.63,
+   "volume": 6362378,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 39,
    "direction": "up",
    "why": "Dell Rises 5% Despite Fresh Silver Lake Share Sale Filings; Super Micro Climbs 3%, Hewlett Packard Enterprise Ticks Up",
    "catalyst_type": "momentum_narrative",
@@ -40,20 +24,52 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
+   "rank": 2,
+   "ticker": "SPCX",
+   "company": "SpaceX",
+   "move_pct": 6.09,
+   "price": 152.23,
+   "volume": 54668006,
+   "volume_vs_avg": "~0.5x",
+   "heat_score": 39,
+   "direction": "up",
+   "why": "Cathie Wood Projects $10 Trillion In SpaceX Starship Revenue By 2030",
+   "catalyst_type": "earnings",
+   "source_url": "https://www.investors.com/news/cathie-wood-ark-spacex-starship-revenue-estimate-elon-msuk/?src=A00220&yptr=yahoo",
+   "published": "2026-09-16T15:10:54Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
    "rank": 3,
    "ticker": "GEV",
    "company": "GE Vernova Inc",
-   "move_pct": 5.13,
-   "price": 928.06,
-   "volume": 1075323,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 36,
+   "move_pct": 5.37,
+   "price": 930.19,
+   "volume": 1352977,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 37,
    "direction": "up",
    "why": "GE Vernova Gave Back Its Gains Since July: One Wall Street Pro Says 65% Gains Will Materialize Soon",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gave-back-gains-143053761.html",
    "published": "2026-09-16T14:30:53Z",
    "sector": "Powering AI"
+  },
+  {
+   "rank": 4,
+   "ticker": "INTC",
+   "company": "Intel Corp",
+   "move_pct": 5.11,
+   "price": 102.1,
+   "volume": 53952856,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 36,
+   "direction": "up",
+   "why": "Stock Market Today: Nasdaq, S&P 500 Up With Fed Decision Looming; Intel, Micron, Sandisk Rise (Live Coverage)",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
+   "published": "2026-09-16T15:10:43Z",
+   "sector": "AI Chips & Compute"
   }
  ]
 }

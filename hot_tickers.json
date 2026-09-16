@@ -1,43 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-16T17:37:10+00:00",
+  "as_of": "2026-09-16T17:46:45+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "GEV",
-   "company": "GE Vernova Inc",
-   "move_pct": 5.22,
-   "price": 928.86,
-   "volume": 1969437,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 38,
-   "direction": "up",
-   "why": "GEV Stock Gains After CEO Signals \u2018Durable Demand\u2019, Says 2030-2040 Could Be An \u2018Even Better Decade\u2019",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/gev-stock-gains-ceo-signals-165317491.html",
-   "published": "2026-09-16T16:53:17Z",
-   "sector": "Powering AI"
-  },
-  {
-   "rank": 2,
-   "ticker": "SPCX",
-   "company": "SpaceX",
-   "move_pct": 5.29,
-   "price": 151.08,
-   "volume": 70596701,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "Starship Test: SpaceX's Quest for the Holy Grail of Rocketry",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/articles/starship-test-spacexs-quest-holy-165200792.html",
-   "published": "2026-09-16T16:52:00Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  }
- ]
+ "hot_tickers": []
 }

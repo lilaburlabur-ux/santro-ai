@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-16T14:15:52+00:00",
+  "as_of": "2026-09-16T14:31:09+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,29 +9,13 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "DELL",
-   "company": "Dell Technologies Inc",
-   "move_pct": 5.11,
-   "price": 571.26,
-   "volume": 4230178,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 35,
-   "direction": "up",
-   "why": "Intel, Dell, J.B. Hunt, Strategy, and More Stocks That Explain Today\u2019s Market",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.barrons.com/articles/stock-movers-a5dc6aca?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-09-16T11:00:00Z",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 2,
    "ticker": "SPCX",
    "company": "SpaceX",
-   "move_pct": 5.18,
-   "price": 150.92,
-   "volume": 30009003,
+   "move_pct": 5.63,
+   "price": 151.57,
+   "volume": 36184627,
    "volume_vs_avg": "~0.3x",
-   "heat_score": 35,
+   "heat_score": 36,
    "direction": "up",
    "why": "Not Starship. Not Starlink. This Is the Part of SpaceX's Business That Could Lift It Into the $3 Trillion Club.",
    "catalyst_type": "momentum_narrative",

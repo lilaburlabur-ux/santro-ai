@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-09-16T07:46:09+00:00",
-  "as_of_local": "2026-09-16 07:46:09 UTC",
+  "as_of_utc": "2026-09-16T08:01:14+00:00",
+  "as_of_local": "2026-09-16 08:01:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 212.17,
-      "previous_close": 210.96,
-      "change_pct": 0.57,
-      "market_cap": 5123268945785.522,
-      "headlines": [
-        {
-          "title": "Tech stocks today: CEOs call for pacing AI, as Nvidia CEO says extinction fears are made up",
-          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-ceos-call-for-pacing-ai-as-nvidia-ceo-says-extinction-fears-are-made-up-140134624.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-09-14T14:01:34Z"
-        },
-        {
-          "title": "10-year Treasury hits 2007 high as oil stays above $100: AlphaCheck",
-          "url": "https://finance.yahoo.com/markets/article/10-year-treasury-hits-2007-high-as-oil-stays-above-100-alphacheck-140049622.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-09-15T14:00:49Z"
-        },
-        {
-          "title": "Satya Nadella's Microsoft Disclosed Azure Topped $100 Billion in Annual Sales for the First Time -- but MSFT Has Trailed the Market All Year. Is the Stock Still a Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/satya-nadellas-microsoft-disclosed-azure-073200316.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-16T07:32:00Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -153,6 +127,12 @@
       "market_cap": 513492261924.29736,
       "headlines": [
         {
+          "title": "INTC, SKHY Stocks Jump Overnight: Intel\u2019s Delayed Ohio Megafab Could Make SK Hynix\u2019s First US Memory Chips",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intc-skhy-stocks-jump-overnight-074317947.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-16T07:43:17Z"
+        },
+        {
           "title": "Exclusive-SK Hynix in talks with Intel about deal to make memory chips in the US for the first time, sources say",
           "url": "https://finance.yahoo.com/news/exclusive-sk-hynix-talks-intel-053134517.html",
           "publisher": "Reuters",
@@ -163,12 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-intel-stock-chips-cannot-011146960.html",
           "publisher": "Trefis",
           "published": "2026-09-16T01:11:46Z"
-        },
-        {
-          "title": "Is AMD Stock Already Priced For A 2027 Doubling It Has Yet To Deliver?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-already-priced-2027-005331921.html",
-          "publisher": "Trefis",
-          "published": "2026-09-16T00:53:31Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 75768.56,
-      "change_pct": 0.21
+      "price": 75660.01,
+      "change_pct": 0.06
     },
     {
       "label": "Gold",
-      "price": 4377.6,
-      "change_pct": 1.03
+      "price": 4372.2,
+      "change_pct": 0.91
     },
     {
       "label": "Nasdaq100",

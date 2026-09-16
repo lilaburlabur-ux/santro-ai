@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Dow Jones Futures: S&P 500 Falls After Fed Rate Hike, Hawkish Warsh; Trump Fumes As AMD, Bloom Energy Lead Stocks To Watch | Investor's Business Daily | 2026-09-16 |
+| Advanced Micro Devices (AMD) Shares Climbed, So What Is Drawing Attention Now? | Simply Wall St. | 2026-09-16 |
 | Should You Buy Qualcomm Stock For The Cash As Apple Leaves? | Trefis | 2026-09-16 |
 | Two Low-Profile AI Data-Center Innovators That Investors Should Watch | Investor's Business Daily | 2026-09-16 |
-| Is Micron Stock Cheap, Or Are Its Profits Borrowed? | Trefis | 2026-09-16 |
-| Bank of America Makes Massive Call on AI Chip Market | GuruFocus.com | 2026-09-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 
 | Headline | Source | Date |
 |---|---|---|
+| How Investors May Respond To Synaptics (SYNA) Tactile Sensing Integration With NVIDIA Isaac Sim | Simply Wall St. | 2026-09-16 |
 | Analog Devices to Acquire Alif Semiconductor for $1.35 Billion | MT Newswires | 2026-09-09 |
 | ASE Technology Surges 16% in 3 Months: Time to Hold or Fold the Stock? | Zacks | 2026-09-09 |
 | Synaptics (SYNA) Agrees to $7 Billion Deal With Onsemi: What Investors Should Know | Insider Monkey | 2026-09-01 |
-| Synaptics' CEO Sold Stock After a 120,000-Share Vest. Here's What to Know. | Motley Fool | 2026-08-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

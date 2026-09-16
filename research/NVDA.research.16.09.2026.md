@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Frontier AI developers must be 'liable for the things their products do': Autodesk CEO | Yahoo Finance Video | 2026-09-16 |
-| Apple may build AI servers with its own chips and Nvidia networking | GuruFocus.com | 2026-09-16 |
-| Apple Talks to Nvidia About NVLink for Its Own AI Server | GuruFocus.com | 2026-09-16 |
-| CoreWeave Doubles Down on Nvidia at Critical Moment | GuruFocus.com | 2026-09-16 |
+| Stock Market Today: Nasdaq Ends Flat After Rate Hike; AI Play SpaceX Eyes Early Entry | Investor's Business Daily | 2026-09-16 |
+| Greg Abel Grew Berkshire Hathaway's Alphabet Stake by 83% Last Quarter, One of His Boldest Equity Bets Yet as CEO. Is Alphabet Now a Core Berkshire Holding? | Motley Fool | 2026-09-16 |
+| A Broad-Based Earnings Growth Picture as Revisions Stay Positive | Zacks | 2026-09-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

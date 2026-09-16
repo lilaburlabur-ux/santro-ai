@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-16T00:30:01+00:00",
+  "as_of": "2026-09-16T00:45:06+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -73,6 +73,22 @@
   },
   {
    "rank": 5,
+   "ticker": "TER",
+   "company": "Teradyne Inc",
+   "move_pct": -13.3,
+   "price": 329.2,
+   "volume": 2409902,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 76,
+   "direction": "down",
+   "why": "Teradyne Looks Expensive Until You Price The AI Chips It Has Not Tested Yet",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/teradyne-looks-expensive-until-price-001348002.html",
+   "published": "2026-09-16T00:13:48Z",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 6,
    "ticker": "PANW",
    "company": "Palo Alto Networks Inc",
    "move_pct": 13.09,
@@ -88,7 +104,7 @@
    "sector": "Cybersecurity"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "ticker": "OKTA",
    "company": "Okta Inc",
    "move_pct": 11.98,
@@ -104,7 +120,7 @@
    "sector": "Cybersecurity"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "ticker": "LRCX",
    "company": "Lam Research Corp",
    "move_pct": -8.29,
@@ -117,22 +133,6 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-lrcx-sees-more-215004456.html",
    "published": "2026-09-15T21:50:04Z",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 8,
-   "ticker": "SMCI",
-   "company": "Super Micro Computer Inc",
-   "move_pct": -8.38,
-   "price": 36.74,
-   "volume": 26532507,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 57,
-   "direction": "down",
-   "why": "Super Micro Computer (SMCI) Dips More Than Broader Market: What You Should Know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-dips-214502189.html",
-   "published": "2026-09-15T21:45:02Z",
    "sector": "Chip Equipment & AI Hardware"
   }
  ]

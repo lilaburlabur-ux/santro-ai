@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-16T21:30:49+00:00",
+  "as_of": "2026-09-16T21:45:23+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -25,10 +25,26 @@
   },
   {
    "rank": 2,
+   "ticker": "GEV",
+   "company": "GE Vernova Inc",
+   "move_pct": 5.45,
+   "price": 930.88,
+   "volume": 3549620,
+   "volume_vs_avg": "~2x",
+   "heat_score": 43,
+   "direction": "up",
+   "why": "GEV Stock Jumps After GE Vernova CEO Touts This Milestone",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.investors.com/news/gev-stock-ge-vernova-expects-200-billion-backlog-very-soon/?src=A00220&yptr=yahoo",
+   "published": "2026-09-16T21:27:51Z",
+   "sector": "Powering AI"
+  },
+  {
+   "rank": 3,
    "ticker": "SPCX",
    "company": "SpaceX",
-   "move_pct": 5.3,
-   "price": 151.09,
+   "move_pct": 5.4,
+   "price": 151.24,
    "volume": 108159473,
    "volume_vs_avg": "~1.0x",
    "heat_score": 39,
@@ -36,7 +52,7 @@
    "why": "Stock Market Today: Nasdaq Ends Flat After Rate Hike; AI Play SpaceX Eyes Early Entry",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
-   "published": "2026-09-16T21:05:50Z",
+   "published": "2026-09-16T21:12:56Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-16T16:28:11+00:00",
+  "as_of": "2026-09-16T16:43:13+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,35 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "INTC",
-   "company": "Intel Corp",
-   "move_pct": 5.47,
-   "price": 102.45,
-   "volume": 60701220,
+   "ticker": "SPCX",
+   "company": "SpaceX",
+   "move_pct": 5.65,
+   "price": 151.6,
+   "volume": 63099203,
    "volume_vs_avg": "~0.6x",
-   "heat_score": 37,
+   "heat_score": 38,
    "direction": "up",
-   "why": "Top Midday Stories: Markets Await Key Fed Decision on Rates; SK Hynix Exploring Deal With Intel to Make Chips in US",
+   "why": "Cathie Wood Says SpaceX Didn't Need an IPO\u2014Until Data Centers in Space Came Along",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-markets-await-154538743.html",
-   "published": "2026-09-16T15:45:38Z",
-   "sector": "AI Chips & Compute"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-says-spacex-didnt-162709450.html",
+   "published": "2026-09-16T16:27:09Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
    "rank": 2,
-   "ticker": "SPCX",
-   "company": "SpaceX",
-   "move_pct": 5.34,
-   "price": 151.15,
-   "volume": 61128912,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 37,
+   "ticker": "GEV",
+   "company": "GE Vernova Inc",
+   "move_pct": 5.18,
+   "price": 928.52,
+   "volume": 1762921,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 38,
    "direction": "up",
-   "why": "Cathie Wood Projects $10 Trillion In SpaceX Starship Revenue By 2030",
-   "catalyst_type": "earnings",
-   "source_url": "https://www.investors.com/news/cathie-wood-ark-spacex-starship-revenue-estimate-elon-msuk/?src=A00220&yptr=yahoo",
-   "published": "2026-09-16T15:10:54Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
+   "why": "GE Vernova Gave Back Its Gains Since July: One Wall Street Pro Says 65% Gains Will Materialize Soon",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gave-back-gains-143053761.html",
+   "published": "2026-09-16T14:30:53Z",
+   "sector": "Powering AI"
   }
  ]
 }

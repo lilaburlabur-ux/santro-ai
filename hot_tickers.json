@@ -1,59 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-16T18:22:28+00:00",
+  "as_of": "2026-09-16T18:37:37+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "GEV",
-   "company": "GE Vernova Inc",
-   "move_pct": 5.3,
-   "price": 929.63,
-   "volume": 2311021,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 39,
-   "direction": "up",
-   "why": "GE Vernova Climbs 5% as CEO Sees Backlog Hitting $200B Early; Eaton and Quanta Services Edge Higher",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-climbs-5-ceo-175610084.html",
-   "published": "2026-09-16T17:56:10Z",
-   "sector": "Powering AI"
-  },
-  {
-   "rank": 2,
-   "ticker": "SPCX",
-   "company": "SpaceX",
-   "move_pct": 5.63,
-   "price": 151.57,
-   "volume": 79940771,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 38,
-   "direction": "up",
-   "why": "SpaceX stock pops ahead of Starship launch",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-pops-ahead-of-starship-launch-180435710.html",
-   "published": "2026-09-16T18:04:35Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 3,
-   "ticker": "INTC",
-   "company": "Intel Corp",
-   "move_pct": 5.25,
-   "price": 102.24,
-   "volume": 75927840,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "Intel (INTC) Is In Advanced Talks On Ohio Memory Chip Manufacturing",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/articles/intel-intc-advanced-talks-ohio-171118347.html",
-   "published": "2026-09-16T17:11:18Z",
-   "sector": "AI Chips & Compute"
-  }
- ]
+ "hot_tickers": []
 }

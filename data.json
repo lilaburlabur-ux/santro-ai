@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-09-16T08:01:14+00:00",
-  "as_of_local": "2026-09-16 08:01:14 UTC",
+  "as_of_utc": "2026-09-16T08:06:22+00:00",
+  "as_of_local": "2026-09-16 08:06:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 212.17,
+      "previous_close": 210.96,
+      "change_pct": 0.57,
+      "market_cap": 5123268945785.522,
+      "headlines": [
+        {
+          "title": "Tech stocks today: CEOs call for pacing AI, as Nvidia CEO says extinction fears are made up",
+          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-ceos-call-for-pacing-ai-as-nvidia-ceo-says-extinction-fears-are-made-up-140134624.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-09-14T14:01:34Z"
+        },
+        {
+          "title": "10-year Treasury hits 2007 high as oil stays above $100: AlphaCheck",
+          "url": "https://finance.yahoo.com/markets/article/10-year-treasury-hits-2007-high-as-oil-stays-above-100-alphacheck-140049622.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-09-15T14:00:49Z"
+        },
+        {
+          "title": "Prediction: Rocket Lab's Revenue Tops $1.5 Billion in 2027 Without Counting Iridium",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-rocket-labs-revenue-tops-075801426.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-16T07:58:01Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -124,7 +150,7 @@
       "price": 97.14,
       "previous_close": 97.19,
       "change_pct": -0.05,
-      "market_cap": 513492261924.29736,
+      "market_cap": 510424683031.99164,
       "headlines": [
         {
           "title": "INTC, SKHY Stocks Jump Overnight: Intel\u2019s Delayed Ohio Megafab Could Make SK Hynix\u2019s First US Memory Chips",
@@ -264,7 +290,7 @@
       "price": 106.49,
       "previous_close": 106.5,
       "change_pct": -0.01,
-      "market_cap": 15094872963.60102,
+      "market_cap": 15124803361.870605,
       "headlines": [
         {
           "title": "Lattice Semiconductor, Amkor, Himax, Teradyne, and Entegris Stocks Trade Down, What You Need To Know",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 75660.01,
-      "change_pct": 0.06
+      "price": 75539.81,
+      "change_pct": -0.1
     },
     {
       "label": "Gold",
-      "price": 4372.2,
-      "change_pct": 0.91
+      "price": 4369.6,
+      "change_pct": 0.85
     },
     {
       "label": "Nasdaq100",

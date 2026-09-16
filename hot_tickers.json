@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-16T22:00:34+00:00",
+  "as_of": "2026-09-16T22:05:48+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "GEV",
    "company": "GE Vernova Inc",
-   "move_pct": 5.51,
-   "price": 931.44,
+   "move_pct": 5.41,
+   "price": 930.55,
    "volume": 3549620,
    "volume_vs_avg": "~2x",
    "heat_score": 43,
@@ -43,8 +43,8 @@
    "rank": 3,
    "ticker": "SPCX",
    "company": "SpaceX",
-   "move_pct": 5.44,
-   "price": 151.3,
+   "move_pct": 5.39,
+   "price": 151.23,
    "volume": 108159473,
    "volume_vs_avg": "~1.0x",
    "heat_score": 39,

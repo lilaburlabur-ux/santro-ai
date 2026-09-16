@@ -37,9 +37,9 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Headline | Source | Date |
 |---|---|---|
 | ARM Stock Declines 39% in 3 Months: Is This a Buying Opportunity? | Zacks | 2026-09-16 |
+| Stocks Hold Gains After Fed Hikes Key Rate | Barchart | 2026-09-16 |
 | Arm Surges as the AI Selloff Tests Its Royalty Machine | GuruFocus.com | 2026-09-15 |
 | Arm Stock Is Down More Than 40%. Here's Why I'm Staying on the Sidelines. | Motley Fool | 2026-09-15 |
-| Is Arm Holdings (ARM) Cheap After The AI Stock Pullback? | Simply Wall St. | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

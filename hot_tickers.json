@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-16T13:55:26+00:00",
+  "as_of": "2026-09-16T14:10:44+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "SPCX",
+   "company": "SpaceX",
+   "move_pct": 5.12,
+   "price": 150.84,
+   "volume": 26973079,
+   "volume_vs_avg": "~0.3x",
+   "heat_score": 34,
+   "direction": "up",
+   "why": "Not Starship. Not Starlink. This Is the Part of SpaceX's Business That Could Lift It Into the $3 Trillion Club.",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/not-starship-not-starlink-part-134100336.html",
+   "published": "2026-09-16T13:41:00Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  }
+ ]
 }

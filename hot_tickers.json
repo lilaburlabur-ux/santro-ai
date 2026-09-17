@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-17T13:31:29+00:00",
+  "as_of": "2026-09-17T13:36:37+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,17 +11,65 @@
    "rank": 1,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
-   "move_pct": 6.23,
-   "price": 244.01,
-   "volume": 1469305,
+   "move_pct": 6.43,
+   "price": 244.48,
+   "volume": 2833554,
    "volume_vs_avg": "~0.1x",
-   "heat_score": 37,
+   "heat_score": 38,
    "direction": "up",
    "why": "GlobalFoundries, Marvell expand chip capacity deal for AI data center connectivity",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/news/globalfoundries-marvell-expand-chip-capacity-131025252.html",
    "published": "2026-09-17T13:10:25Z",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
+   "ticker": "MU",
+   "company": "Micron Technology Inc",
+   "move_pct": 5.56,
+   "price": 978.03,
+   "volume": 3165991,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 35,
+   "direction": "up",
+   "why": "Micron bets $2.75 billion on India as AI memory demand surges",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/articles/micron-bets-2-75-billion-131332621.html",
+   "published": "2026-09-17T13:13:32Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 3,
+   "ticker": "INTC",
+   "company": "Intel Corp",
+   "move_pct": 5.4,
+   "price": 106.5,
+   "volume": 12439568,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 35,
+   "direction": "up",
+   "why": "SK Hynix and Intel explore US memory chip partnership",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/articles/sk-hynix-intel-explore-us-114725470.html",
+   "published": "2026-09-17T11:47:25Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 4,
+   "ticker": "AVAV",
+   "company": "AeroVironment Inc",
+   "move_pct": 5.26,
+   "price": 164.68,
+   "volume": 159623,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 34,
+   "direction": "up",
+   "why": "Is AeroVironment Becoming a Broader Defense Technology Platform?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/articles/aerovironment-becoming-broader-defense-technology-131100258.html",
+   "published": "2026-09-17T13:11:00Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

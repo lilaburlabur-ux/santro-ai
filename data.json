@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-17T09:25:15+00:00",
-  "as_of_local": "2026-09-17 09:25:15 UTC",
+  "as_of_utc": "2026-09-17T09:30:00+00:00",
+  "as_of_local": "2026-09-17 09:30:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-09-16T15:09:55Z"
         },
         {
-          "title": "Pfizer's Dividend Faces Big Questions. Here Are 3 Reasons It Should Survive.",
-          "url": "https://finance.yahoo.com/healthcare/articles/pfizers-dividend-faces-big-questions-090400927.html",
+          "title": "SpaceX CFO: New Compute Deal Puts Company Closer to $100B ARR Goal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-cfo-compute-deal-puts-092201326.html",
           "publisher": "Motley Fool",
-          "published": "2026-09-17T09:04:00Z"
+          "published": "2026-09-17T09:22:01Z"
         },
         {
-          "title": "The S&P 500 Is Near Record Highs. History Says That's Not a Good Reason to Stop Buying This ETF",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-near-record-highs-085000795.html",
+          "title": "As the Stock Market Eerily Repeats a Pattern Not Seen Since 2000, Warren Buffett Has a Blunt Message for Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-eerily-repeats-pattern-092000202.html",
           "publisher": "Motley Fool",
-          "published": "2026-09-17T08:50:00Z"
+          "published": "2026-09-17T09:20:00Z"
         }
       ]
     },
@@ -117,40 +119,12 @@
       ]
     },
     {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 512.5,
-      "previous_close": 504.2,
-      "change_pct": 1.65,
-      "market_cap": 836643459025.0,
-      "headlines": [
-        {
-          "title": "Dow Jones Futures Rise After Hawkish Fed, Warsh Hit Stocks, Trump Fumes; AMD, Bloom Energy Eye Buy Points",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-fed-rate-hike-warsh-amd-bloom-energy-stocks-to-watch/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-17T09:14:09Z"
-        },
-        {
-          "title": "Is It Too Early To Buy Marvell Stock After Its Three-Month Fall?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/too-early-buy-marvell-stock-005158674.html",
-          "publisher": "Trefis",
-          "published": "2026-09-17T00:51:58Z"
-        },
-        {
-          "title": "AMD, IBD Stock Of The Day, Gains As Heavyweights Dismiss AI Slowdown",
-          "url": "https://www.investors.com/research/ibd-stock-of-the-day/amd-stock-rises-pundits-dismiss-ai-slowdown/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-16T21:49:53Z"
-        }
-      ]
-    },
-    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 101.05,
       "previous_close": 97.14,
       "change_pct": 4.03,
-      "market_cap": 530969900166.29175,
+      "market_cap": 534160952857.01306,
       "headlines": [
         {
           "title": "How worried should software, semiconductor stocks be about AI risks?",
@@ -290,7 +264,7 @@
       "price": 106.32,
       "previous_close": 106.49,
       "change_pct": -0.16,
-      "market_cap": 15100658475.6958,
+      "market_cap": 15070775857.621574,
       "headlines": [
         {
           "title": "AMKR or LSCC: Which Is the Better Value Stock Right Now?",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 76616.33,
+      "price": 76616.7,
       "change_pct": 0.61
     },
     {
       "label": "Gold",
-      "price": 4355.0,
-      "change_pct": -0.74
+      "price": 4351.1,
+      "change_pct": -0.83
     },
     {
       "label": "Nasdaq100",

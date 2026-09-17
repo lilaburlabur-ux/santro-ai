@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-17T09:30:00+00:00",
-  "as_of_local": "2026-09-17 09:30:00 UTC",
+  "as_of_utc": "2026-09-17T09:35:09+00:00",
+  "as_of_local": "2026-09-17 09:35:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -99,6 +97,12 @@
       "market_cap": 1046439210272.5125,
       "headlines": [
         {
+          "title": "Modi pitches India as global chipmaking hub",
+          "url": "https://finance.yahoo.com/technology/articles/modi-pitches-india-global-chipmaking-091954560.html",
+          "publisher": "AFP",
+          "published": "2026-09-17T09:19:54Z"
+        },
+        {
           "title": "Zacks Earnings Trends Highlights: Micron  and Nvidia",
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-earnings-trends-highlights-micron-070100921.html",
           "publisher": "Zacks",
@@ -109,12 +113,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-sandisk-ai-memory-014100496.html",
           "publisher": "Motley Fool",
           "published": "2026-09-17T01:41:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 512.5,
+      "previous_close": 504.2,
+      "change_pct": 1.65,
+      "market_cap": 836643459025.0,
+      "headlines": [
+        {
+          "title": "Dow Jones Futures Rise After Hawkish Fed, Warsh Hit Stocks, Trump Fumes; AMD, Bloom Energy Eye Buy Points",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-fed-rate-hike-warsh-amd-bloom-energy-stocks-to-watch/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-17T09:14:09Z"
         },
         {
-          "title": "Michael Burry reveals his verdict on the ongoing AI bubble",
-          "url": "https://finance.yahoo.com/technology/ai/articles/michael-burry-reveals-verdict-ongoing-221700327.html",
-          "publisher": "TheStreet",
-          "published": "2026-09-16T22:17:00Z"
+          "title": "Is It Too Early To Buy Marvell Stock After Its Three-Month Fall?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/too-early-buy-marvell-stock-005158674.html",
+          "publisher": "Trefis",
+          "published": "2026-09-17T00:51:58Z"
+        },
+        {
+          "title": "AMD, IBD Stock Of The Day, Gains As Heavyweights Dismiss AI Slowdown",
+          "url": "https://www.investors.com/research/ibd-stock-of-the-day/amd-stock-rises-pundits-dismiss-ai-slowdown/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-16T21:49:53Z"
         }
       ]
     },
@@ -124,7 +150,7 @@
       "price": 101.05,
       "previous_close": 97.14,
       "change_pct": 4.03,
-      "market_cap": 534160952857.01306,
+      "market_cap": 530969900166.29175,
       "headlines": [
         {
           "title": "How worried should software, semiconductor stocks be about AI risks?",
@@ -133,16 +159,16 @@
           "published": "2026-09-16T14:15:00Z"
         },
         {
+          "title": "Modi pitches India as global chipmaking hub",
+          "url": "https://finance.yahoo.com/technology/articles/modi-pitches-india-global-chipmaking-091954560.html",
+          "publisher": "AFP",
+          "published": "2026-09-17T09:19:54Z"
+        },
+        {
           "title": "Intel stock jumps as SK Hynix weighs U.S. memory-chip deal",
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-jumps-sk-hynix-010300931.html",
           "publisher": "TheStreet",
           "published": "2026-09-17T01:03:00Z"
-        },
-        {
-          "title": "Is It Too Early To Buy Marvell Stock After Its Three-Month Fall?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/too-early-buy-marvell-stock-005158674.html",
-          "publisher": "Trefis",
-          "published": "2026-09-17T00:51:58Z"
         }
       ]
     },
@@ -264,7 +290,7 @@
       "price": 106.32,
       "previous_close": 106.49,
       "change_pct": -0.16,
-      "market_cap": 15070775857.621574,
+      "market_cap": 15100658475.6958,
       "headlines": [
         {
           "title": "AMKR or LSCC: Which Is the Better Value Stock Right Now?",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 76616.7,
+      "price": 76613.62,
       "change_pct": 0.61
     },
     {
       "label": "Gold",
-      "price": 4351.1,
-      "change_pct": -0.83
+      "price": 4350.7,
+      "change_pct": -0.84
     },
     {
       "label": "Nasdaq100",

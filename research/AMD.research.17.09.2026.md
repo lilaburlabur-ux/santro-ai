@@ -37,9 +37,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | Dow Jones Futures: S&P 500, Nasdaq Rebound Above Key Level; Moderna, AMD, SpaceX Flash Buy Signals | Investor's Business Daily | 2026-09-17 |
-| Stocks Rally, Shaking Off Fed’s Rate Hike | The Wall Street Journal | 2026-09-17 |
-| AMD Leads Chip Stocks Higher Amid Sector Rebound | Investor's Business Daily | 2026-09-17 |
-| Will 2026 Doom and Gloom Lead to Opportunity? | Zacks | 2026-09-17 |
+| Stock Market Today, Sept. 17: Intel Surges 8% on Rumored SK Hynix Talks | Motley Fool | 2026-09-17 |
+| Update: US Equity Indexes Rise, Big Tech Perks Up After Fed's Commitment to Controlling Inflation Sinks Treasury Yields | MT Newswires | 2026-09-17 |
+| Vishay Intertechnology, Allegro MicroSystems, Himax, Bandwidth, and AMD Stocks Trade Up, What You Need To Know | StockStory | 2026-09-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

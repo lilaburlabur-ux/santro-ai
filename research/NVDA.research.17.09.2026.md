@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | AI industry is just following Jensen Huang's lead, Salesforce CEO explains | Yahoo Finance Video | 2026-09-17 |
 | Lucid stock jumps on 25,000 robotaxi deal with Europe's Bolt | Yahoo Finance | 2026-09-17 |
-| Nvidia Stock Split in 2026? My Prediction: It's Unlikely, but the Stock Is Still a Buy. | Motley Fool | 2026-09-17 |
-| Meta Just Launched a New Subscription Business Built Entirely Around AI. Here's Why It Could Be a Game-Changer. | Motley Fool | 2026-09-17 |
+| Trump-Xi Dinner Next Week Brings AI Titans To The Table — OpenAI, NVDA, and QCOM CEOs To Attend, Says Report | Stocktwits | 2026-09-17 |
+| S&P 500, Nasdaq, Dow End Higher As Drop In Oil Prices Allays Inflationary Concerns — NVDA, MCD, CRWV, LMT, AMZN In Focus | Stocktwits | 2026-09-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

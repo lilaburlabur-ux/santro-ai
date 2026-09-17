@@ -36,10 +36,10 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
+| Update: US Equity Indexes Rise, Big Tech Perks Up After Fed's Commitment to Controlling Inflation Sinks Treasury Yields | MT Newswires | 2026-09-17 |
 | AMD Leads Chip Stocks Higher Amid Sector Rebound | Investor's Business Daily | 2026-09-17 |
 | Update: US Equity Indexes Rise as Fed's Commitment to Controlling Inflation Sinks Treasury Yields | MT Newswires | 2026-09-17 |
 | Arm CEO Rene Haas more confident on $2 billion AI chip revenue target | Quartz | 2026-09-17 |
-| Arm’s CEO Says the Chip Designer Is Even More Confident in Hitting $2B AI Chip Sales Target. The Stock Is Rallying | Investopedia | 2026-09-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Salesforce CEO warns AI companies not to repeat this costly mistake | TheStreet | 2026-09-17 |
+| $500,000 Split Between VOO and QQQ Owns the Same Seven Stocks Twice, and Nobody Adds Up the Overlap | 24/7 Wall St. | 2026-09-17 |
+| Jim Cramer on Broadcom (AVGO): “The Stock May Be Too Cheap to Ignore” | Insider Monkey | 2026-09-17 |
 | Even With $262,000 in VYM, You Wouldn’t Get a $500 Check Every Month | 24/7 Wall St. | 2026-09-17 |
-| Jim Cramer Presses OpenAI CFO on AI Spending. 6 Stocks Are Riding on What Happens Next | 24/7 Wall St. | 2026-09-17 |
-| Meta’s AI chips and Meta One strengthen Bank of America’s outlook | Proactive | 2026-09-17 |
-| Oracle vs. Broadcom: Which "Picks and Shovels" AI Stock Has the Bigger Growth Runway From Here? | Motley Fool | 2026-09-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

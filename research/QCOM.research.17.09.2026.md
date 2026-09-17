@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| Micron, Qualcomm, Nova, Lattice Semiconductor, and Workday Shares Are Soaring, What You Need To Know | StockStory | 2026-09-17 |
 | Qualcomm Just Rallied 18% in a Month: Take Profits, or Buy More? | 24/7 Wall St. | 2026-09-17 |
 | Qualcomm Gains 2% as Amazon's Warrant Prices AI Commitment | GuruFocus.com | 2026-09-17 |
 | Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover? | Zacks | 2026-09-17 |
-| Can INTC's AI Inference Advancements Strengthen Its Growth Prospects? | Zacks | 2026-09-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

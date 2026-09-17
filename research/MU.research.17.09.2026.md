@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| Why Was Micron Technology Stock Up Today? | Motley Fool | 2026-09-17 |
 | Prediction: A $5,000 Investment Split Between Micron and Sandisk Will Triple Before 2028 | Motley Fool | 2026-09-17 |
 | Micron, Qualcomm, Nova, Lattice Semiconductor, and Workday Shares Are Soaring, What You Need To Know | StockStory | 2026-09-17 |
 | Stocks Rally, Shaking Off Fed’s Rate Hike | The Wall Street Journal | 2026-09-17 |
-| AMD Leads Chip Stocks Higher Amid Sector Rebound | Investor's Business Daily | 2026-09-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

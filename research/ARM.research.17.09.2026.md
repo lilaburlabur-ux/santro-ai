@@ -18,7 +18,7 @@ Signed file: `ARM.research.17.09.2026`
 | Technical momentum | High | 1Y +72.18%; price +28.23% vs SMA200. |
 | Fresh setup quality | Poor / broken | -39.72% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 20.25%, revenue growth 22.40%. |
-| Value attractiveness | Low (expensive) | Forward P/E 86.72, EV/Sales 49.88. |
+| Value attractiveness | Low (expensive) | Forward P/E 86.72, EV/Sales 54.21. |
 | Risk level | High | Beta 3.89, ATR 6.3% of price, short float 11.52%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: low (expensive), risk: high.
@@ -68,7 +68,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Revenue (ttm) | $5.16B | Revenue growth 22.40% y/y |
 | Profitability | Gross 97.54%, operating 7.60%, net 20.25% | ROA 5.42%, ROE 13.35% |
 | Balance sheet | Cash $3.89B, debt $485.00M | Current ratio 5.25, debt/equity 5.62 |
-| Valuation | P/E 270.31, forward P/E 86.72, P/S 54.87, P/B 32.78 | EV/Sales 49.88, EV/EBITDA 241.77 |
+| Valuation | P/E 270.31, forward P/E 86.72, P/S 54.87, P/B 32.78 | EV/Sales 54.21, EV/EBITDA 262.77 |
 | Growth expectations | Earnings growth 108.30%, EPS q/q 107.70% | Analyst mean target $288.70 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Capital International Investors | 2,050,241 | 0.19% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 86.72, EV/Sales 49.88. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 86.72, EV/Sales 54.21. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 3.89, ATR 6.3% of price, short float 11.52%. Size positions accordingly.
 - **Short interest risk:** short float 11.52% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,8 +113,8 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $264.90 | EV/Sales | 49.88 |
-| Market cap | $282.91B | EV/EBITDA | 241.77 |
+| Price | $264.90 | EV/Sales | 54.21 |
+| Market cap | $282.91B | EV/EBITDA | 262.77 |
 | Beta | 3.89 | Gross margin | 97.54% |
 | RSI(14) | 54.0 | Operating margin | 7.60% |
 | ATR(14) | 16.73 | Profit margin | 20.25% |

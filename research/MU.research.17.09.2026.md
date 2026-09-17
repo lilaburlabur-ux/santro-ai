@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
+| Stocks Rally, Shaking Off Fed’s Rate Hike | The Wall Street Journal | 2026-09-17 |
+| AMD Leads Chip Stocks Higher Amid Sector Rebound | Investor's Business Daily | 2026-09-17 |
+| Why Micron Stock Is Jumping as Intel CEO Warns on Memory Chips | Barrons.com | 2026-09-17 |
 | If QQQ Repeats Its Last Decade, $100,000 at 40 Could Hit $1 Million by 52 | 24/7 Wall St. | 2026-09-17 |
-| Micron Jumps 5.5% as Labor Claims AI's Margin Windfall | GuruFocus.com | 2026-09-17 |
-| The Memory Shortage Is Not Over: More Upside for Micron and Sandisk? | Zacks | 2026-09-17 |
-| Micron Stock Soars as India Facility Bets Big on AI Memory Demand | GuruFocus.com | 2026-09-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

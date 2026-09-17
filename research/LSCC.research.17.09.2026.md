@@ -36,10 +36,10 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Micron, Qualcomm, Nova, Lattice Semiconductor, and Workday Shares Are Soaring, What You Need To Know | StockStory | 2026-09-17 |
 | Can LSCC's FPGA Portfolio Expansion With Mach-N2 Drive Growth? | Zacks | 2026-09-17 |
 | AMKR or LSCC: Which Is the Better Value Stock Right Now? | Zacks | 2026-09-16 |
 | Lattice Semiconductor, Amkor, Himax, Teradyne, and Entegris Stocks Trade Down, What You Need To Know | StockStory | 2026-09-15 |
-| 1 Semiconductor Stock to Own for Decades and 2 Facing Challenges | StockStory | 2026-09-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

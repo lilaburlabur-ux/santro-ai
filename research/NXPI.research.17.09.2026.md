@@ -36,10 +36,10 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
+| ON Semiconductor Stock Is Already Half Off Its High, So How Low Could A Market Shock Take It? | Trefis | 2026-09-17 |
 | MCHP's Analog AI Deal Gains Momentum: Can It Outpace NXPI & TXN? | Zacks | 2026-09-17 |
 | NXP Semiconductors NV's Dividend Analysis | GuruFocus.com | 2026-09-16 |
 | Smartphone Chip Stocks Rally While Large-Cap Technology Slips: Skyworks Jumps 11%, Qorvo Rises 7%, Qualcomm Climbs 4% | 24/7 Wall St. | 2026-09-15 |
-| Should You Buy Cirrus Logic Stock Because Its Buyback Got Cheaper? | Trefis | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

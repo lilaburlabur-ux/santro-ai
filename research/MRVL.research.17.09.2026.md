@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| SentinelOne, Marvell Technology, FormFactor, Teradyne, and Intel Shares Are Soaring, What You Need To Know | StockStory | 2026-09-17 |
+| Generac, Nebius, CoreWeave, Nokia, Lucid, Paramount, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-17 |
 | Sector Update: Tech Stocks Gain Late Afternoon | MT Newswires | 2026-09-17 |
 | Microsoft Jumps as Azure Turns Payment Vaults Into a Service | GuruFocus.com | 2026-09-17 |
-| Marvell Jumps 5.2% as AI Optics Win More U.S. Capacity | GuruFocus.com | 2026-09-17 |
-| Generac, Nebius, CoreWeave, Nokia, Lucid, Paramount, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

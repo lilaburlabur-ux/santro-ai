@@ -1,75 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-16T23:58:54+00:00",
+  "as_of": "2026-09-17T00:04:06+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "GEV",
-   "company": "GE Vernova Inc",
-   "move_pct": 6.17,
-   "price": 937.32,
-   "volume": 3556586,
-   "volume_vs_avg": "~2x",
-   "heat_score": 46,
-   "direction": "up",
-   "why": "GE Vernova (GEV) Stock Is Up, What You Need To Know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-stock-know-222052205.html",
-   "published": "2026-09-16T22:20:52Z",
-   "sector": "Powering AI"
-  },
-  {
-   "rank": 2,
-   "ticker": "SYNA",
-   "company": "Synaptics Inc",
-   "move_pct": -6.51,
-   "price": 90.98,
-   "volume": 846443,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 44,
-   "direction": "down",
-   "why": "How Investors May Respond To Synaptics (SYNA) Tactile Sensing Integration With NVIDIA Isaac Sim",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-synaptics-syna-201220953.html",
-   "published": "2026-09-16T20:12:20Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 3,
-   "ticker": "INTC",
-   "company": "Intel Corp",
-   "move_pct": 5.74,
-   "price": 102.72,
-   "volume": 119233579,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 41,
-   "direction": "up",
-   "why": "S&P 500, Nasdaq, Dow Futures Inch Higher As Investors Digest First Rate Hike Since 2023 \u2014 INTC, GOOGL, AAPL, SKHY, UAL In Focus",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-dow-futures-232942409.html",
-   "published": "2026-09-16T23:29:42Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 4,
-   "ticker": "SPCX",
-   "company": "SpaceX",
-   "move_pct": 5.95,
-   "price": 152.02,
-   "volume": 108357393,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 41,
-   "direction": "up",
-   "why": "Stock Market Today: Nasdaq Ends Flat After Rate Hike; AI Play SpaceX Eyes Early Entry",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
-   "published": "2026-09-16T21:12:56Z",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  }
- ]
+ "hot_tickers": []
 }

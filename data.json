@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-17T06:07:07+00:00",
-  "as_of_local": "2026-09-17 06:07:07 UTC",
+  "as_of_utc": "2026-09-17T06:22:12+00:00",
+  "as_of_local": "2026-09-17 06:22:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -145,34 +147,6 @@
       ]
     },
     {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 101.05,
-      "previous_close": 97.14,
-      "change_pct": 4.03,
-      "market_cap": 530969900166.29175,
-      "headlines": [
-        {
-          "title": "How worried should software, semiconductor stocks be about AI risks?",
-          "url": "https://finance.yahoo.com/video/worried-software-semiconductor-stocks-ai-141500749.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-09-16T14:15:00Z"
-        },
-        {
-          "title": "Intel stock jumps as SK Hynix weighs U.S. memory-chip deal",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-jumps-sk-hynix-010300931.html",
-          "publisher": "TheStreet",
-          "published": "2026-09-17T01:03:00Z"
-        },
-        {
-          "title": "Is It Too Early To Buy Marvell Stock After Its Three-Month Fall?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/too-early-buy-marvell-stock-005158674.html",
-          "publisher": "Trefis",
-          "published": "2026-09-17T00:51:58Z"
-        }
-      ]
-    },
-    {
       "symbol": "ARM",
       "name": "Arm Holdings",
       "price": 243.98,
@@ -290,7 +264,7 @@
       "price": 106.32,
       "previous_close": 106.49,
       "change_pct": -0.16,
-      "market_cap": 15100658475.6958,
+      "market_cap": 15070775857.621574,
       "headlines": [
         {
           "title": "AMKR or LSCC: Which Is the Better Value Stock Right Now?",
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.3,
-          "price": 252750.0,
+          "change_pct": -0.49,
+          "price": 252250.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -2.32,
-          "price": 49600.0,
+          "change_pct": -1.97,
+          "price": 49780.0,
           "currency": "JPY"
         },
         {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.3,
-        "price": 252750.0,
+        "change_pct": -0.49,
+        "price": 252250.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -2.32,
-        "price": 49600.0,
+        "change_pct": -1.97,
+        "price": 49780.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 76327.97,
-      "change_pct": 0.95
+      "price": 76297.21,
+      "change_pct": 0.91
     },
     {
       "label": "Gold",
-      "price": 4341.5,
-      "change_pct": -1.05
+      "price": 4349.9,
+      "change_pct": -0.86
     },
     {
       "label": "Nasdaq100",

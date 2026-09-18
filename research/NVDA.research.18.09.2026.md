@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | S&P 500 wavers after best one-day rally in six weeks: AlphaCheck | Yahoo Finance | 2026-09-18 |
 | Why Salesforce CEO Marc Benioff thinks AI chip king Nvidia is 'exquisite' | Yahoo Finance | 2026-09-18 |
-| Prediction: This Much Nvidia (NVDA) Stock Bought Today Could Be Worth $28,560 by 2030 | Motley Fool | 2026-09-18 |
-| Breakout Watch: Savvy Investors Get Wired Up For This Nvidia, Amazon Partner | Investor's Business Daily | 2026-09-18 |
+| Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia | decrypt | 2026-09-18 |
+| 2 High-Yield Dividend Stocks to Buy and 1 to Avoid | Motley Fool | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

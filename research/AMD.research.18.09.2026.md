@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| Stock Market Today: Dow Wavers; Two Healthcare Names Shine In IBD 50 (Live Coverage) | Investor's Business Daily | 2026-09-18 |
-| Chip Stocks Hit Ceiling During Sector Rebound. Macom Is A Standout. | Investor's Business Daily | 2026-09-18 |
-| Why XLK’s Next Rebalance Won’t Fix Its Massive Concentration Problem | 24/7 Wall St. | 2026-09-18 |
-| Why Does NVDA Stock Carry The Lowest Clean Multiple In Its Peer Group? | Trefis | 2026-09-18 |
+| Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally (Live Coverage) | Investor's Business Daily | 2026-09-18 |
+| Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas | Investor's Business Daily | 2026-09-18 |
+| Chip Stocks Break Through Ceiling As Sector Rebounds. Macom Is A Standout. | Investor's Business Daily | 2026-09-18 |
+| Top Research Reports for AMD, Linde & Amgen | Zacks | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

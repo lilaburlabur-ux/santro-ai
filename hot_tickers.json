@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-18T22:04:05+00:00",
+  "as_of": "2026-09-18T22:19:15+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "QCOM",
    "company": "Qualcomm Inc",
-   "move_pct": -5.62,
-   "price": 178.1,
+   "move_pct": -5.6,
+   "price": 178.15,
    "volume": 54401468,
    "volume_vs_avg": "~5x",
    "heat_score": 45,
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "SPCX",
    "company": "SpaceX",
-   "move_pct": -1.55,
-   "price": 152.41,
+   "move_pct": -1.51,
+   "price": 152.48,
    "volume": 335217990,
    "volume_vs_avg": "~3x",
    "heat_score": 37,
@@ -49,10 +49,10 @@
    "volume_vs_avg": "~3x",
    "heat_score": 34,
    "direction": "down",
-   "why": "Prediction: Cameco's Westinghouse Stake Becomes the Real Growth Story by 2028",
+   "why": "Cameco (CCJ) Stock Declines While Market Improves: Some Information for Investors",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/prediction-camecos-westinghouse-stake-becomes-192500378.html",
-   "published": "2026-09-18T19:25:00Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cameco-ccj-stock-declines-while-214502517.html",
+   "published": "2026-09-18T21:45:02Z",
    "sector": "Powering AI"
   }
  ]

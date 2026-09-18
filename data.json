@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-18T09:10:00+00:00",
-  "as_of_local": "2026-09-18 09:10:00 UTC",
+  "as_of_utc": "2026-09-18T09:15:38+00:00",
+  "as_of_local": "2026-09-18 09:15:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -27,10 +25,10 @@
           "published": "2026-09-17T13:24:33Z"
         },
         {
-          "title": "BioNTech Threw in the Towel on Its Colorectal Cancer Vaccine Trial. Should Investors Be Worried?",
-          "url": "https://finance.yahoo.com/healthcare/articles/biontech-threw-towel-colorectal-cancer-090400523.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-18T09:04:00Z"
+          "title": "Crusoe closes $3.9bn Series F round, reaching $30.9bn valuation",
+          "url": "https://finance.yahoo.com/technology/ai/articles/crusoe-closes-3-9bn-series-091310244.html",
+          "publisher": "Verdict",
+          "published": "2026-09-18T09:13:10Z"
         }
       ]
     },
@@ -119,12 +117,40 @@
       ]
     },
     {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 545.09,
+      "previous_close": 512.5,
+      "change_pct": 6.36,
+      "market_cap": 889845864484.6625,
+      "headlines": [
+        {
+          "title": "Why Are Nasdaq, S&P 500 And Dow Futures Rising Premarket? NVDA, CRWV, AMD, SPCX, BE Stocks In Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-nasdaq-p-500-dow-082832323.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-18T08:28:32Z"
+        },
+        {
+          "title": "Apple\u2019s Chip Strategy Keeps Paying Dividends",
+          "url": "https://www.barrons.com/articles/apple-iphone-a20-chip-43d4ef59?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-18T06:00:00Z"
+        },
+        {
+          "title": "Dow Jones Futures: S&P 500, Nasdaq Rebound Above Key Level; Moderna, AMD, SpaceX Flash Buy Signals",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-moderna-amd-spacex-buy-signals/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-18T03:09:01Z"
+        }
+      ]
+    },
+    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 108.8,
       "previous_close": 101.05,
       "change_pct": 7.67,
-      "market_cap": 575128268637.5131,
+      "market_cap": 571692479107.5417,
       "headlines": [
         {
           "title": "Apple\u2019s Chip Strategy Keeps Paying Dividends",
@@ -264,7 +290,7 @@
       "price": 108.53,
       "previous_close": 106.32,
       "change_pct": 2.08,
-      "market_cap": 15384041479.736298,
+      "market_cap": 15414545246.783203,
       "headlines": [
         {
           "title": "Lattice Semiconductor (LSCC) Debuts Mach-N2 FPGA Family to Secure Next-Gen Infrastructure",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 78366.96,
-      "change_pct": 2.57
+      "price": 78286.29,
+      "change_pct": 2.46
     },
     {
       "label": "Gold",
-      "price": 4432.3,
-      "change_pct": 0.74
+      "price": 4434.5,
+      "change_pct": 0.79
     },
     {
       "label": "Nasdaq100",

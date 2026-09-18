@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-18T19:55:31+00:00",
+  "as_of": "2026-09-18T20:00:48+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,29 +9,13 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "LRCX",
-   "company": "Lam Research Corp",
-   "move_pct": 6.66,
-   "price": 287.24,
-   "volume": 7790088,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 43,
-   "direction": "up",
-   "why": "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-climbs-5-chip-165944019.html",
-   "published": "2026-09-18T16:59:44Z",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 2,
    "ticker": "QCOM",
    "company": "Qualcomm Inc",
-   "move_pct": -5.52,
-   "price": 178.29,
-   "volume": 14658811,
-   "volume_vs_avg": "~1.4x",
-   "heat_score": 41,
+   "move_pct": -5.67,
+   "price": 178.01,
+   "volume": 39813425,
+   "volume_vs_avg": "~4x",
+   "heat_score": 54,
    "direction": "down",
    "why": "Qualcomm Drops 6% as Past Month\u2019s Rally Unwinds; Skyworks and Qorvo Slip",
    "catalyst_type": "momentum_narrative",
@@ -40,19 +24,35 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "ticker": "AMAT",
    "company": "Applied Materials Inc",
-   "move_pct": 6.27,
-   "price": 443.56,
-   "volume": 6070699,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 41,
+   "move_pct": 6.48,
+   "price": 444.46,
+   "volume": 11292401,
+   "volume_vs_avg": "~2x",
+   "heat_score": 46,
    "direction": "up",
    "why": "KLAC Gains From AI Infrastructure: Can It Outpace AMAT & ASML?",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/technology/ai/articles/klac-gains-ai-infrastructure-outpace-171800151.html",
    "published": "2026-09-18T17:18:00Z",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 3,
+   "ticker": "LRCX",
+   "company": "Lam Research Corp",
+   "move_pct": 6.87,
+   "price": 287.8,
+   "volume": 8752345,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 45,
+   "direction": "up",
+   "why": "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-climbs-5-chip-165944019.html",
+   "published": "2026-09-18T16:59:44Z",
    "sector": "Chip Equipment & AI Hardware"
   }
  ]

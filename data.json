@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-18T06:48:19+00:00",
-  "as_of_local": "2026-09-18 06:48:19 UTC",
+  "as_of_utc": "2026-09-18T07:03:18+00:00",
+  "as_of_local": "2026-09-18 07:03:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-09-17T13:24:33Z"
         },
         {
-          "title": "This Overlooked Grid-Technology Stock Could Be Your Ticket to Millionaire Status",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/overlooked-grid-technology-stock-could-062500647.html",
+          "title": "Tesla vs SpaceX: Which Is the Better Elon Musk-Backed Stock to Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-vs-spacex-better-elon-065000580.html",
           "publisher": "Motley Fool",
-          "published": "2026-09-18T06:25:00Z"
+          "published": "2026-09-18T06:50:00Z"
         }
       ]
     },
@@ -89,34 +91,6 @@
       ]
     },
     {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 977.5,
-      "previous_close": 926.55,
-      "change_pct": 5.5,
-      "market_cap": 1103981805102.5,
-      "headlines": [
-        {
-          "title": "Micron's Largest Production Base Faces Strike Threats as Bonus Falls 'Short of Expectations,' Workers Demand Bigger Cut of AI-Driven Profits: Report",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microns-largest-production-faces-strike-052010224.html",
-          "publisher": "Benzinga",
-          "published": "2026-09-18T05:20:10Z"
-        },
-        {
-          "title": "INTC, AMD, MU, NVDA: Chip Stocks Rally As Investors Look Past AI Concerns",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intc-amd-mu-nvda-chip-021704996.html",
-          "publisher": "Stocktwits",
-          "published": "2026-09-18T02:17:04Z"
-        },
-        {
-          "title": "Why Was Micron Technology Stock Up Today?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-technology-stock-today-230003750.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-17T23:00:03Z"
-        }
-      ]
-    },
-    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 545.09,
@@ -150,7 +124,7 @@
       "price": 108.8,
       "previous_close": 101.05,
       "change_pct": 7.67,
-      "market_cap": 575128268637.5131,
+      "market_cap": 571692479107.5417,
       "headlines": [
         {
           "title": "SK Hynix has a $4 billion problem Intel could help solve",
@@ -290,7 +264,7 @@
       "price": 108.53,
       "previous_close": 106.32,
       "change_pct": 2.08,
-      "market_cap": 15384041479.736298,
+      "market_cap": 15414545246.783203,
       "headlines": [
         {
           "title": "Lattice Semiconductor (LSCC) Debuts Mach-N2 FPGA Family to Secure Next-Gen Infrastructure",
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 5.5,
-          "price": 977.5,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 5.39,
-          "price": 1839000.0,
+          "change_pct": 6.42,
+          "price": 1857000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 2.87,
-          "price": 259750.0,
+          "change_pct": 3.37,
+          "price": 261000.0,
           "currency": "KRW"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 5.5,
-        "price": 977.5,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 5.39,
-        "price": 1839000.0,
+        "change_pct": 6.42,
+        "price": 1857000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 2.87,
-        "price": 259750.0,
+        "change_pct": 3.37,
+        "price": 261000.0,
         "currency": "KRW"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 77432.48,
-      "change_pct": 1.68
+      "price": 77583.58,
+      "change_pct": 1.88
     },
     {
       "label": "Gold",
-      "price": 4432.8,
-      "change_pct": 0.75
+      "price": 4431.5,
+      "change_pct": 0.72
     },
     {
       "label": "Nasdaq100",

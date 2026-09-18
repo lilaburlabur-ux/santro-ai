@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-18T20:21:24+00:00",
-  "as_of_local": "2026-09-18 20:21:24 UTC",
+  "as_of_utc": "2026-09-18T20:25:58+00:00",
+  "as_of_local": "2026-09-18 20:25:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CEVA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -369,6 +367,34 @@
           "published": "2026-09-09T15:20:36Z"
         }
       ]
+    },
+    {
+      "symbol": "CEVA",
+      "name": "CEVA",
+      "price": 30.27,
+      "previous_close": 29.83,
+      "change_pct": 1.48,
+      "market_cap": 852223772.3279114,
+      "headlines": [
+        {
+          "title": "What Would Cadence Have To Keep Doing To Justify Its Price?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cadence-keep-doing-justify-price-194332435.html",
+          "publisher": "Trefis",
+          "published": "2026-09-16T19:43:32Z"
+        },
+        {
+          "title": "CEVA or SNPS: Which Semiconductor Stock Is Worth Buying Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-snps-semiconductor-stock-worth-134200209.html",
+          "publisher": "Zacks",
+          "published": "2026-09-14T13:42:00Z"
+        },
+        {
+          "title": "Analysing CEVA\u2019s (CEVA) Growth in Neural Processing Markets",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analysing-ceva-ceva-growth-neural-144155084.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-04T14:41:55Z"
+        }
+      ]
     }
   ],
   "etfs": [
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 81195.91,
-      "change_pct": 6.27
+      "price": 81042.33,
+      "change_pct": 6.07
     },
     {
       "label": "Gold",
-      "price": 4417.5,
-      "change_pct": 0.4
+      "price": 4418.8,
+      "change_pct": 0.43
     },
     {
       "label": "Nasdaq100",

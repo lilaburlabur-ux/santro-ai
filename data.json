@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-09-18T11:16:45+00:00",
-  "as_of_local": "2026-09-18 11:16:45 UTC",
+  "as_of_utc": "2026-09-18T11:21:53+00:00",
+  "as_of_local": "2026-09-18 11:21:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 219.34,
+      "previous_close": 213.9,
+      "change_pct": 2.54,
+      "market_cap": 5296402891571.045,
+      "headlines": [
+        {
+          "title": "Why Salesforce CEO Marc Benioff thinks AI chip king Nvidia is 'exquisite'",
+          "url": "https://finance.yahoo.com/markets/stocks/article/why-salesforce-ceo-marc-benioff-thinks-ai-chip-king-nvidia-is-exquisite-094642002.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-09-18T09:46:42Z"
+        },
+        {
+          "title": "Easing Oil Prices, Tech Rally Lift Wall Street Pre-Bell; Asia Up, Europe Off",
+          "url": "https://finance.yahoo.com/markets/articles/easing-oil-prices-tech-rally-111414374.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-18T11:14:14Z"
+        },
+        {
+          "title": "ExxonMobil vs. ConocoPhillips: Which Oil Major's Stock Buybacks Will Actually Move the Needle?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-vs-conocophillips-oil-majors-111100139.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-18T11:11:00Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -124,7 +150,7 @@
       "price": 108.8,
       "previous_close": 101.05,
       "change_pct": 7.67,
-      "market_cap": 575128268637.5131,
+      "market_cap": 571692479107.5417,
       "headlines": [
         {
           "title": "Intel, Netflix, Berkshire Hathaway, and More Stocks That Explain Today\u2019s Market",
@@ -264,7 +290,7 @@
       "price": 108.53,
       "previous_close": 106.32,
       "change_pct": 2.08,
-      "market_cap": 15384041479.736298,
+      "market_cap": 15414545246.783203,
       "headlines": [
         {
           "title": "Lattice Semiconductor (LSCC) Debuts Mach-N2 FPGA Family to Secure Next-Gen Infrastructure",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 78083.73,
-      "change_pct": 2.2
+      "price": 78067.8,
+      "change_pct": 2.18
     },
     {
       "label": "Gold",
-      "price": 4419.6,
-      "change_pct": 0.45
+      "price": 4427.7,
+      "change_pct": 0.64
     },
     {
       "label": "Nasdaq100",

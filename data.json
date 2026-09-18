@@ -1,39 +1,11 @@
 {
-  "as_of_utc": "2026-09-18T11:11:44+00:00",
-  "as_of_local": "2026-09-18 11:11:44 UTC",
+  "as_of_utc": "2026-09-18T11:16:45+00:00",
+  "as_of_local": "2026-09-18 11:16:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "QCOM"
+    "NVDA"
   ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 219.34,
-      "previous_close": 213.9,
-      "change_pct": 2.54,
-      "market_cap": 5296402891571.045,
-      "headlines": [
-        {
-          "title": "Why Salesforce CEO Marc Benioff thinks AI chip king Nvidia is 'exquisite'",
-          "url": "https://finance.yahoo.com/markets/stocks/article/why-salesforce-ceo-marc-benioff-thinks-ai-chip-king-nvidia-is-exquisite-094642002.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-09-18T09:46:42Z"
-        },
-        {
-          "title": "Tesla Trades at 331 Times Trailing Earnings While Facing Growing Competition From China's BYD. Is Elon Musk's Premium Valuation Still Justified?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-trades-331-times-trailing-110500687.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-18T11:05:00Z"
-        },
-        {
-          "title": "Anthropic Could Go Public in Weeks. Here Are the 5 Numbers That Will Actually Matter.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-could-public-weeks-5-110301607.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-18T11:03:01Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -130,7 +102,7 @@
           "title": "Dow Jones Futures Rise After Bullish S&P 500, Nasdaq Rebound; Moderna, AMD, SpaceX Flash Buy Signals",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-moderna-amd-spacex-buy-signals/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-09-18T10:56:02Z"
+          "published": "2026-09-18T11:01:23Z"
         },
         {
           "title": "Zacks Investment Ideas feature highlights: NVIDIA, Advanced Micro Devices, Tempus, Moderna, Super Micro Computer and Aya Gold & Silver",
@@ -227,6 +199,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intc-amd-mu-nvda-chip-021704996.html",
           "publisher": "Stocktwits",
           "published": "2026-09-18T02:17:04Z"
+        }
+      ]
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "price": 188.71,
+      "previous_close": 184.84,
+      "change_pct": 2.09,
+      "market_cap": 201553701672.58624,
+      "headlines": [
+        {
+          "title": "Apple\u2019s Chip Strategy Keeps Paying Dividends",
+          "url": "https://www.barrons.com/articles/apple-iphone-a20-chip-43d4ef59?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-18T06:00:00Z"
+        },
+        {
+          "title": "Trump-Xi Dinner Next Week Brings AI Titans To The Table \u2014 OpenAI, NVDA, and QCOM CEOs To Attend, Says Report",
+          "url": "https://finance.yahoo.com/technology/ai/articles/trump-xi-dinner-next-week-223042265.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-17T22:30:42Z"
+        },
+        {
+          "title": "Qualcomm (QCOM) Outpaces Stock Market Gains: What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-outpaces-stock-market-214506347.html",
+          "publisher": "Zacks",
+          "published": "2026-09-17T21:45:06Z"
         }
       ]
     },
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78076.83,
-      "change_pct": 2.19
+      "price": 78083.73,
+      "change_pct": 2.2
     },
     {
       "label": "Gold",
-      "price": 4423.3,
-      "change_pct": 0.54
+      "price": 4419.6,
+      "change_pct": 0.45
     },
     {
       "label": "Nasdaq100",

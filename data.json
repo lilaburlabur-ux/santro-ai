@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-18T09:40:20+00:00",
-  "as_of_local": "2026-09-18 09:40:20 UTC",
+  "as_of_utc": "2026-09-18T09:45:23+00:00",
+  "as_of_local": "2026-09-18 09:45:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -39,7 +39,26 @@
       "previous_close": 417.72,
       "change_pct": 3.0,
       "market_cap": 2231532359482.54,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "AMD Stock Rises Premarket: Report Flags Chip Price Hike Linked To TSMC Costs",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-rises-premarket-report-092213707.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-18T09:22:13Z"
+        },
+        {
+          "title": "Taiwan Semiconductor Manufacturing (TSM) Could Be 14% Overvalued As 2nm MediaTek Win Lands",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-could-031716521.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-18T03:17:16Z"
+        },
+        {
+          "title": "TSMC Gains 1.65% as 2-Nanometer Phones Leave the Lab",
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-gains-1-65-2-182718646.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-17T18:27:18Z"
+        }
+      ]
     },
     {
       "symbol": "AVGO",
@@ -131,7 +150,7 @@
       "price": 108.8,
       "previous_close": 101.05,
       "change_pct": 7.67,
-      "market_cap": 571692479107.5417,
+      "market_cap": 575128268637.5131,
       "headlines": [
         {
           "title": "Apple\u2019s Chip Strategy Keeps Paying Dividends",
@@ -271,7 +290,7 @@
       "price": 108.53,
       "previous_close": 106.32,
       "change_pct": 2.08,
-      "market_cap": 15414545246.783203,
+      "market_cap": 15384041479.736298,
       "headlines": [
         {
           "title": "Lattice Semiconductor (LSCC) Debuts Mach-N2 FPGA Family to Secure Next-Gen Infrastructure",
@@ -566,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 77954.92,
-      "change_pct": 2.03
+      "price": 77998.99,
+      "change_pct": 2.09
     },
     {
       "label": "Gold",
-      "price": 4427.4,
-      "change_pct": 0.63
+      "price": 4426.6,
+      "change_pct": 0.61
     },
     {
       "label": "Nasdaq100",

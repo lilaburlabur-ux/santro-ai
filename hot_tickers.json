@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-18T15:36:58+00:00",
+  "as_of": "2026-09-18T15:52:07+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,11 +9,27 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "QCOM",
+   "company": "Qualcomm Inc",
+   "move_pct": -5.61,
+   "price": 178.13,
+   "volume": 6968819,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 38,
+   "direction": "down",
+   "why": "What Needs To Be True To Buy Qualcomm Stock Now?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/needs-true-buy-qualcomm-stock-140330945.html",
+   "published": "2026-09-18T14:03:30Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
    "ticker": "SYM",
    "company": "Symbotic Inc",
-   "move_pct": -6.1,
-   "price": 41.89,
-   "volume": 705549,
+   "move_pct": -6.01,
+   "price": 41.93,
+   "volume": 769919,
    "volume_vs_avg": "~0.4x",
    "heat_score": 38,
    "direction": "down",

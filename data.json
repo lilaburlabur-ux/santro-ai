@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-18T03:39:30+00:00",
-  "as_of_local": "2026-09-18 03:39:30 UTC",
+  "as_of_utc": "2026-09-18T03:44:41+00:00",
+  "as_of_local": "2026-09-18 03:44:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -153,6 +153,12 @@
       "market_cap": 575128268637.5131,
       "headlines": [
         {
+          "title": "SK Hynix has a $4 billion problem Intel could help solve",
+          "url": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-4-billion-problem-033300679.html",
+          "publisher": "TheStreet",
+          "published": "2026-09-18T03:33:00Z"
+        },
+        {
           "title": "INTC, AMD, MU, NVDA: Chip Stocks Rally As Investors Look Past AI Concerns",
           "url": "https://finance.yahoo.com/markets/stocks/articles/intc-amd-mu-nvda-chip-021704996.html",
           "publisher": "Stocktwits",
@@ -163,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-jumped-7-232404781.html",
           "publisher": "Motley Fool",
           "published": "2026-09-17T23:24:04Z"
-        },
-        {
-          "title": "Why Was Micron Technology Stock Up Today?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-technology-stock-today-230003750.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-17T23:00:03Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 5.04,
-          "price": 1833000.0,
+          "change_pct": 5.44,
+          "price": 1840000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 2.97,
-          "price": 260000.0,
+          "change_pct": 3.07,
+          "price": 260250.0,
           "currency": "KRW"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 3.24,
-          "price": 175.5,
+          "change_pct": 2.94,
+          "price": 175.0,
           "currency": "TWD"
         }
       ]
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 5.04,
-        "price": 1833000.0,
+        "change_pct": 5.44,
+        "price": 1840000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 2.97,
-        "price": 260000.0,
+        "change_pct": 3.07,
+        "price": 260250.0,
         "currency": "KRW"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 3.24,
-        "price": 175.5,
+        "change_pct": 2.94,
+        "price": 175.0,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 77271.28,
+      "price": 77266.91,
       "change_pct": 1.47
     },
     {
       "label": "Gold",
-      "price": 4379.4,
-      "change_pct": -0.18
+      "price": 4385.7,
+      "change_pct": -0.04
     },
     {
       "label": "Nasdaq100",

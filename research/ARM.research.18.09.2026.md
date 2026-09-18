@@ -39,7 +39,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Astera Labs vs. Arm: Which AI-Driven Tech Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-18 |
 | Jim Cramer Says Selling Arm Holdings (ARM) Early Was a “Big Mistake” | Insider Monkey | 2026-09-18 |
 | Arm vs. Intel: Which Technology Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-18 |
-| Stocks Waver as Bond Yields Climb | Barchart | 2026-09-18 |
+| SoftBank's AI spending spree now carries a $25 billion twist | GuruFocus.com | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

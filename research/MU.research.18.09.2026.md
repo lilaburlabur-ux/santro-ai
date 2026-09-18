@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
-| Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally (Live Coverage) | Investor's Business Daily | 2026-09-18 |
+| Micron Turned $10,000 Into About $130,000 in 5 Years. Most of It Came in the Past 12 Months. | Motley Fool | 2026-09-18 |
+| Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally | Investor's Business Daily | 2026-09-18 |
 | Micron Adds 1.3% as Intel Extends Memory Scarcity Into 2027 | GuruFocus.com | 2026-09-18 |
 | Jim Cramer Calls Intel (INTC) the Best Stock in Show and Micron (MU) No. 2 | Insider Monkey | 2026-09-18 |
-| Intel Slips 1.7% as Its CEO Prices the Memory Bottleneck | GuruFocus.com | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

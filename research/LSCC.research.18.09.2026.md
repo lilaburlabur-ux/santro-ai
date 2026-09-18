@@ -32,6 +32,15 @@ Signed file: `LSCC.research.18.09.2026`
 ## 2. Company Overview and Recent Catalysts
 Lattice Semiconductor Corporation, together with its subsidiaries, develops and sells semiconductor, silicon-based and silicon-enabling, evaluation boards, and development hardware products in Asia, Europe, and the Americas. It offers field programmable gate arrays (FPGA), which are regular arrays of logic that can be custom-configured by the user through software.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Lattice Semiconductor (LSCC) Debuts Mach-N2 FPGA Family to Secure Next-Gen Infrastructure | Insider Monkey | 2026-09-18 |
+| Is Lattice’s Mach-N2 Secure FPGA Launch And AI Toolset Altering The Investment Case For LSCC? | Simply Wall St. | 2026-09-18 |
+| Micron, Qualcomm, Nova, Lattice Semiconductor, and Workday Shares Are Soaring, What You Need To Know | StockStory | 2026-09-17 |
+| Can LSCC's FPGA Portfolio Expansion With Mach-N2 Drive Growth? | Zacks | 2026-09-17 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|

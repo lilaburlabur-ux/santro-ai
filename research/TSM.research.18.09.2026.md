@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| TSMC (TSM) Beats Stock Market Upswing: What Investors Need to Know | Zacks | 2026-09-18 |
 | Can GFS' Marvell Deal for SiGe Capacity Expansion Accelerate Growth? | Zacks | 2026-09-18 |
 | These Are The 5 Best Stocks To Buy Or Watch Now | Investor's Business Daily | 2026-09-18 |
 | New Semiconductor ETF AIFR Isolates Chip Makers, but the 0.71% Fee Demands Results | 24/7 Wall St. | 2026-09-18 |
-| Why Is Taiwan Semiconductor Manufacturing (TSM) Ramping 2nm Production And Spending More? | Simply Wall St. | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -1,16 +1,16 @@
 {
-  "as_of_utc": "2026-09-18T17:00:01+00:00",
-  "as_of_local": "2026-09-18 17:00:01 UTC",
+  "as_of_utc": "2026-09-18T17:04:57+00:00",
+  "as_of_local": "2026-09-18 17:04:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 219.65,
+      "price": 219.69,
       "previous_close": 219.34,
-      "change_pct": 0.14,
-      "market_cap": 5303647065261.841,
+      "change_pct": 0.16,
+      "market_cap": 5304492298690.796,
       "headlines": [
         {
           "title": "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
@@ -35,10 +35,10 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 429.63,
+      "price": 429.65,
       "previous_close": 430.26,
-      "change_pct": -0.15,
-      "market_cap": 2227746176472.745,
+      "change_pct": -0.14,
+      "market_cap": 2228368528029.7246,
       "headlines": [
         {
           "title": "Can GFS' Marvell Deal for SiGe Capacity Expansion Accelerate Growth?",
@@ -63,38 +63,38 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 354.01,
+      "price": 354.25,
       "previous_close": 347.3,
-      "change_pct": 1.93,
-      "market_cap": 1689697877683.1704,
+      "change_pct": 2.0,
+      "market_cap": 1691058379676.25,
       "headlines": [
+        {
+          "title": "Cisco Drops 8% in 3 Months: Should You Buy the Stock on the Dip?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-drops-8-3-months-165500656.html",
+          "publisher": "Zacks",
+          "published": "2026-09-18T16:55:00Z"
+        },
+        {
+          "title": "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-nvidia-investors-huge-dividend-165002846.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-18T16:50:02Z"
+        },
         {
           "title": "Nvidia\u2019s Not Going to Be King for Life, So I Buy This Now",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-not-going-king-life-164229845.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-18T16:42:29Z"
-        },
-        {
-          "title": "Why Does NVDA Stock Carry The Lowest Clean Multiple In Its Peer Group?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-does-nvda-stock-carry-164036851.html",
-          "publisher": "Trefis",
-          "published": "2026-09-18T16:40:36Z"
-        },
-        {
-          "title": "3 AI Stocks Stuck in Neutral to Buy Before Their Next Catalysts Hit",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-stuck-neutral-153500608.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-18T15:35:00Z"
         }
       ]
     },
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 994.76,
+      "price": 997.33,
       "previous_close": 977.5,
-      "change_pct": 1.77,
-      "market_cap": 1123435023093.9004,
+      "change_pct": 2.03,
+      "market_cap": 1126343775705.7625,
       "headlines": [
         {
           "title": "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
@@ -119,9 +119,9 @@
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 544.87,
+      "price": 544.84,
       "previous_close": 545.09,
-      "change_pct": -0.04,
+      "change_pct": -0.05,
       "market_cap": 889453986778.3523,
       "headlines": [
         {
@@ -147,11 +147,17 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 106.86,
+      "price": 107.01,
       "previous_close": 108.8,
-      "change_pct": -1.78,
-      "market_cap": 561551241716.0376,
+      "change_pct": -1.65,
+      "market_cap": 565560390689.0409,
       "headlines": [
+        {
+          "title": "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-nvidia-investors-huge-dividend-165002846.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-18T16:50:02Z"
+        },
         {
           "title": "Why Does NVDA Stock Carry The Lowest Clean Multiple In Its Peer Group?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-does-nvda-stock-carry-164036851.html",
@@ -163,22 +169,16 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-just-built-one-memory-161647407.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-18T16:16:47Z"
-        },
-        {
-          "title": "AI Memory Costs Continue to Explode \u2014 And It\u2019s About to Get a Lot Worse",
-          "url": "https://finance.yahoo.com/technology/articles/ai-memory-costs-continue-explode-160254071.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-18T16:02:54Z"
         }
       ]
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 268.22,
+      "price": 267.62,
       "previous_close": 264.9,
-      "change_pct": 1.25,
-      "market_cap": 286458577480.88916,
+      "change_pct": 1.03,
+      "market_cap": 285817771820.94324,
       "headlines": [
         {
           "title": "Arm vs. Intel: Which Technology Stock Is a Better Buy in 2026?",
@@ -203,10 +203,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 237.01,
+      "price": 236.73,
       "previous_close": 240.76,
-      "change_pct": -1.56,
-      "market_cap": 213127793487.69235,
+      "change_pct": -1.68,
+      "market_cap": 212733801144.00183,
       "headlines": [
         {
           "title": "GlobalFoundries Jumps 7% on an Expanded Marvell Agreement",
@@ -231,10 +231,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 177.06,
+      "price": 176.62,
       "previous_close": 188.71,
-      "change_pct": -6.17,
-      "market_cap": 189110787220.65045,
+      "change_pct": -6.4,
+      "market_cap": 188646183516.375,
       "headlines": [
         {
           "title": "Why Does NVDA Stock Carry The Lowest Clean Multiple In Its Peer Group?",
@@ -259,10 +259,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 226.13,
+      "price": 226.25,
       "previous_close": 227.95,
-      "change_pct": -0.8,
-      "market_cap": 57021885897.89038,
+      "change_pct": -0.75,
+      "market_cap": 57052144367.5,
       "headlines": [
         {
           "title": "Is It Worth Investing in NXP (NXPI) Based on Wall Street's Bullish Views?",
@@ -287,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 109.83,
+      "price": 109.98,
       "previous_close": 108.53,
-      "change_pct": 1.2,
-      "market_cap": 15599894795.087402,
+      "change_pct": 1.34,
+      "market_cap": 15589578481.662682,
       "headlines": [
         {
           "title": "Lattice Semiconductor (LSCC) Debuts Mach-N2 FPGA Family to Secure Next-Gen Infrastructure",
@@ -315,10 +315,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 161.07,
+      "price": 160.73,
       "previous_close": 163.38,
-      "change_pct": -1.41,
-      "market_cap": 8185690843.361938,
+      "change_pct": -1.62,
+      "market_cap": 8168411215.330536,
       "headlines": [
         {
           "title": "Is AeroVironment Becoming a Broader Defense Technology Platform?",
@@ -343,10 +343,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 91.95,
+      "price": 92.09,
       "previous_close": 91.12,
-      "change_pct": 0.91,
-      "market_cap": 3649717254.2183685,
+      "change_pct": 1.06,
+      "market_cap": 3655274167.812042,
       "headlines": [
         {
           "title": "CEO Claims Investors Got It Wrong on $30 Billion Shortfall as ON Stock Plummets 9%",
@@ -401,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 58.49,
-      "change_pct": 1.24,
+      "price": 58.6,
+      "change_pct": 1.41,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 1.77,
-          "price": 994.76,
+          "change_pct": 2.03,
+          "price": 997.33,
           "currency": "USD"
         },
         {
@@ -445,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 7.69,
-          "price": 1738.53,
+          "change_pct": 7.91,
+          "price": 1742.01,
           "currency": "USD"
         },
         {
@@ -454,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 4.28,
-          "price": 837.53,
+          "change_pct": 4.83,
+          "price": 841.91,
           "currency": "USD"
         },
         {
@@ -463,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 2.72,
-          "price": 435.42,
+          "change_pct": 3.1,
+          "price": 437.02,
           "currency": "USD"
         },
         {
@@ -491,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 58.49,
-    "change_pct": 1.24,
+    "price": 58.6,
+    "change_pct": 1.41,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 1.77,
-        "price": 994.76,
+        "change_pct": 2.03,
+        "price": 997.33,
         "currency": "USD"
       },
       {
@@ -535,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 7.69,
-        "price": 1738.53,
+        "change_pct": 7.91,
+        "price": 1742.01,
         "currency": "USD"
       },
       {
@@ -544,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 4.28,
-        "price": 837.53,
+        "change_pct": 4.83,
+        "price": 841.91,
         "currency": "USD"
       },
       {
@@ -553,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 2.72,
-        "price": 435.42,
+        "change_pct": 3.1,
+        "price": 437.02,
         "currency": "USD"
       },
       {
@@ -580,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7623.85,
+      "price": 7624.19,
       "change_pct": -0.18
     },
     {
       "label": "BTC",
-      "price": 80828.64,
-      "change_pct": 5.79
+      "price": 80819.42,
+      "change_pct": 5.78
     },
     {
       "label": "Gold",
-      "price": 4417.0,
-      "change_pct": 0.39
+      "price": 4419.4,
+      "change_pct": 0.45
     },
     {
       "label": "Nasdaq100",
-      "price": 29436.68,
-      "change_pct": -0.03
+      "price": 29444.36,
+      "change_pct": -0.01
     }
   ]
 }

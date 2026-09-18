@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-18T07:03:18+00:00",
-  "as_of_local": "2026-09-18 07:03:18 UTC",
+  "as_of_utc": "2026-09-18T07:18:27+00:00",
+  "as_of_local": "2026-09-18 07:18:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -27,10 +25,10 @@
           "published": "2026-09-17T13:24:33Z"
         },
         {
-          "title": "Tesla vs SpaceX: Which Is the Better Elon Musk-Backed Stock to Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-vs-spacex-better-elon-065000580.html",
+          "title": "Is Axsome Therapeutics a Buy on the Dip?",
+          "url": "https://finance.yahoo.com/healthcare/articles/axsome-therapeutics-buy-dip-070501525.html",
           "publisher": "Motley Fool",
-          "published": "2026-09-18T06:50:00Z"
+          "published": "2026-09-18T07:05:01Z"
         }
       ]
     },
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-broadcom-avgo-stock-214237143.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-17T21:42:37Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 977.5,
+      "previous_close": 926.55,
+      "change_pct": 5.5,
+      "market_cap": 1103981805102.5,
+      "headlines": [
+        {
+          "title": "Micron's Largest Production Base Faces Strike Threats as Bonus Falls 'Short of Expectations,' Workers Demand Bigger Cut of AI-Driven Profits: Report",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microns-largest-production-faces-strike-052010224.html",
+          "publisher": "Benzinga",
+          "published": "2026-09-18T05:20:10Z"
+        },
+        {
+          "title": "INTC, AMD, MU, NVDA: Chip Stocks Rally As Investors Look Past AI Concerns",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intc-amd-mu-nvda-chip-021704996.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-18T02:17:04Z"
+        },
+        {
+          "title": "Why Was Micron Technology Stock Up Today?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-technology-stock-today-230003750.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-17T23:00:03Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 5.5,
+          "price": 977.5,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 5.5,
+        "price": 977.5,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 77583.58,
-      "change_pct": 1.88
+      "price": 77559.3,
+      "change_pct": 1.85
     },
     {
       "label": "Gold",
-      "price": 4431.5,
-      "change_pct": 0.72
+      "price": 4434.8,
+      "change_pct": 0.8
     },
     {
       "label": "Nasdaq100",

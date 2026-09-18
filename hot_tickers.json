@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-17T23:53:18+00:00",
+  "as_of": "2026-09-18T00:08:27+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,83 +9,19 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "INTC",
-   "company": "Intel Corp",
-   "move_pct": 8.34,
-   "price": 109.48,
-   "volume": 147854414,
-   "volume_vs_avg": "~2x",
-   "heat_score": 62,
-   "direction": "up",
-   "why": "Why Intel Stock Jumped 7.6% Today",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-jumped-7-232404781.html",
-   "published": "2026-09-17T23:24:04Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 2,
-   "ticker": "LEU",
-   "company": "Centrus Energy Corp",
-   "move_pct": 7.73,
-   "price": 149.75,
-   "volume": 840195,
-   "volume_vs_avg": "~1.3x",
-   "heat_score": 48,
-   "direction": "up",
-   "why": "Why Is Centrus Energy (LEU) Stock Soaring Today",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-centrus-energy-leu-stock-222617816.html",
-   "published": "2026-09-17T22:26:17Z",
-   "sector": "Powering AI"
-  },
-  {
-   "rank": 3,
-   "ticker": "AMD",
-   "company": "Advanced Micro Devices Inc",
-   "move_pct": 6.3,
-   "price": 544.78,
-   "volume": 28330537,
-   "volume_vs_avg": "~1.4x",
-   "heat_score": 44,
+   "ticker": "SPCX",
+   "company": "SpaceX",
+   "move_pct": 5.15,
+   "price": 150.88,
+   "volume": 83395289,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 37,
    "direction": "up",
    "why": "Dow Jones Futures Fall After S&P 500, Nasdaq Rebound Above Key Level; Moderna, AMD, SpaceX Flash Buy Signals",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-moderna-amd-spacex-buy-signals/?src=A00220&yptr=yahoo",
-   "published": "2026-09-17T23:35:57Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 4,
-   "ticker": "MU",
-   "company": "Micron Technology Inc",
-   "move_pct": 6.04,
-   "price": 982.5,
-   "volume": 21883599,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 40,
-   "direction": "up",
-   "why": "Why Was Micron Technology Stock Up Today?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-technology-stock-today-230003750.html",
-   "published": "2026-09-17T23:00:03Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 5,
-   "ticker": "WDAY",
-   "company": "Workday Inc",
-   "move_pct": 5.78,
-   "price": 198.62,
-   "volume": 4249354,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 40,
-   "direction": "up",
-   "why": "Micron, Qualcomm, Nova, Lattice Semiconductor, and Workday Shares Are Soaring, What You Need To Know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/micron-qualcomm-nova-lattice-semiconductor-211417375.html",
-   "published": "2026-09-17T21:14:17Z",
-   "sector": "AI Applications & Data Software"
+   "published": "2026-09-17T23:41:04Z",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

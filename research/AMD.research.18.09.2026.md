@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas | Investor's Business Daily | 2026-09-18 |
 | The ARK Trade Watch: Cathie Wood Cuts Crypto Exposure, Then Reverses Course On CoreWeave | Stocktwits | 2026-09-18 |
 | AMD (AMD) Stock Looks Cheap After Its Huge 3 Year Run | Simply Wall St. | 2026-09-18 |
 | Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally | Investor's Business Daily | 2026-09-18 |
-| Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas | Investor's Business Daily | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | S&P 500 wavers after best one-day rally in six weeks: AlphaCheck | Yahoo Finance | 2026-09-18 |
 | Why Salesforce CEO Marc Benioff thinks AI chip king Nvidia is 'exquisite' | Yahoo Finance | 2026-09-18 |
-| Analysts Think Axsome Therapeutics Stock Could Soar 35% Over the Next 12 Months. Is the Stock a No-Brainer Buy? | Motley Fool | 2026-09-18 |
-| Weekly Wrap: Bitcoin Climbs Back Above $80,000 | CryptoProwl | 2026-09-18 |
+| Why Fortinet Stock Zoomed Almost 9% Higher This Week | Motley Fool | 2026-09-18 |
+| NVIDIA Vs Intel Corporation (NASDAQ:INTC): Here’s The One Jim Cramer Likes | Insider Monkey | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

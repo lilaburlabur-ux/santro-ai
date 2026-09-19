@@ -1,16 +1,16 @@
 {
-  "as_of_utc": "2026-09-19T01:15:47+00:00",
-  "as_of_local": "2026-09-19 01:15:47 UTC",
+  "as_of_utc": "2026-09-19T01:30:50+00:00",
+  "as_of_local": "2026-09-19 01:30:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 219.34,
-      "previous_close": 213.9,
-      "change_pct": 2.54,
-      "market_cap": 5367153690000.0,
+      "price": 222.27,
+      "previous_close": 219.34,
+      "change_pct": 1.34,
+      "market_cap": 5367153793167.114,
       "headlines": [
         {
           "title": "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
@@ -25,20 +25,20 @@
           "published": "2026-09-18T09:46:42Z"
         },
         {
-          "title": "Olin Just Won a $788 Million Army Contract. Is Olin Stock a Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/olin-just-won-788-million-005000981.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-19T00:50:00Z"
+          "title": "Nvidia, SK Hynix send strong signal to Micron investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-sk-hynix-send-strong-011700488.html",
+          "publisher": "TheStreet",
+          "published": "2026-09-19T01:17:00Z"
         }
       ]
     },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 430.26,
-      "previous_close": 417.72,
-      "change_pct": 3.0,
-      "market_cap": 2254404659230.71,
+      "price": 434.67,
+      "previous_close": 430.26,
+      "change_pct": 1.02,
+      "market_cap": 2254404728873.305,
       "headlines": [
         {
           "title": "TSMC (TSM) Beats Stock Market Upswing: What Investors Need to Know",
@@ -63,10 +63,10 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 347.3,
-      "previous_close": 339.51,
-      "change_pct": 2.29,
-      "market_cap": 1707097776022.6501,
+      "price": 357.61,
+      "previous_close": 347.3,
+      "change_pct": 2.97,
+      "market_cap": 1707097706096.4312,
       "headlines": [
         {
           "title": "Jim Cramer Said This AI Firm Has More Orders Than \u201cAlmost Anybody\u201d Other Than NVIDIA",
@@ -91,11 +91,17 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 977.5,
-      "previous_close": 926.55,
-      "change_pct": 5.5,
-      "market_cap": 1147237562785.8,
+      "price": 1015.8,
+      "previous_close": 977.5,
+      "change_pct": 3.92,
+      "market_cap": 1147237548999.2625,
       "headlines": [
+        {
+          "title": "Nvidia, SK Hynix send strong signal to Micron investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-sk-hynix-send-strong-011700488.html",
+          "publisher": "TheStreet",
+          "published": "2026-09-19T01:17:00Z"
+        },
         {
           "title": "What Does Micron Technology (MU) Warning Of Shortages Through 2027 Mean?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/does-micron-technology-mu-warning-001915512.html",
@@ -107,22 +113,16 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/q3-earnings-season-preview-investors-223700771.html",
           "publisher": "Zacks",
           "published": "2026-09-18T22:37:00Z"
-        },
-        {
-          "title": "Micron Turned $10,000 Into About $130,000 in 5 Years. Most of It Came in the Past 12 Months.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-turned-10-000-130-215101180.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-18T21:51:01Z"
         }
       ]
     },
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 545.09,
-      "previous_close": 512.5,
-      "change_pct": 6.36,
-      "market_cap": 913892178012.4401,
+      "price": 559.82,
+      "previous_close": 545.09,
+      "change_pct": 2.7,
+      "market_cap": 913892189969.0443,
       "headlines": [
         {
           "title": "Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
@@ -147,10 +147,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 108.8,
-      "previous_close": 101.05,
-      "change_pct": 7.67,
-      "market_cap": 570641557809.0,
+      "price": 108.6,
+      "previous_close": 108.8,
+      "change_pct": -0.18,
+      "market_cap": 574071023387.2435,
       "headlines": [
         {
           "title": "What Does Micron Technology (MU) Warning Of Shortages Through 2027 Mean?",
@@ -203,9 +203,9 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 240.76,
-      "previous_close": 229.71,
-      "change_pct": 4.81,
+      "price": 244.25,
+      "previous_close": 240.76,
+      "change_pct": 1.45,
       "market_cap": 219508601725.25,
       "headlines": [
         {
@@ -231,10 +231,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 188.71,
-      "previous_close": 184.84,
-      "change_pct": 2.09,
-      "market_cap": 189815709749.63998,
+      "price": 177.72,
+      "previous_close": 188.71,
+      "change_pct": -5.82,
+      "market_cap": 189815711053.42477,
       "headlines": [
         {
           "title": "Qualcomm Drops 6% as Past Month\u2019s Rally Unwinds; Skyworks and Qorvo Slip",
@@ -259,10 +259,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 227.95,
-      "previous_close": 218.98,
-      "change_pct": 4.1,
-      "market_cap": 57490910030.26,
+      "price": 227.99,
+      "previous_close": 227.95,
+      "change_pct": 0.02,
+      "market_cap": 57490911415.43918,
       "headlines": [
         {
           "title": "This Little-Known Chip Stock Has Doubled. Wall Street Is Getting Bullish.",
@@ -287,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 108.53,
-      "previous_close": 106.32,
-      "change_pct": 2.08,
-      "market_cap": 15759678981.119999,
+      "price": 110.96,
+      "previous_close": 108.53,
+      "change_pct": 2.24,
+      "market_cap": 15728492100.864723,
       "headlines": [
         {
           "title": "Lattice Semiconductor (LSCC) Debuts Mach-N2 FPGA Family to Secure Next-Gen Infrastructure",
@@ -315,10 +315,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 163.38,
-      "previous_close": 156.45,
-      "change_pct": 4.43,
-      "market_cap": 8128771284.9,
+      "price": 159.95,
+      "previous_close": 163.38,
+      "change_pct": -2.1,
+      "market_cap": 8128771129.807526,
       "headlines": [
         {
           "title": "Is AeroVironment Becoming a Broader Defense Technology Platform?",
@@ -343,10 +343,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 91.12,
-      "previous_close": 89.24,
-      "change_pct": 2.11,
-      "market_cap": 3695760574.43,
+      "price": 93.11,
+      "previous_close": 91.12,
+      "change_pct": 2.18,
+      "market_cap": 3695760598.6563263,
       "headlines": [
         {
           "title": "CEO Claims Investors Got It Wrong on $30 Billion Shortfall as ON Stock Plummets 9%",
@@ -371,10 +371,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 29.83,
-      "previous_close": 27.81,
-      "change_pct": 7.26,
-      "market_cap": 852223759.4399999,
+      "price": 30.27,
+      "previous_close": 29.83,
+      "change_pct": 1.48,
+      "market_cap": 852223772.3279114,
       "headlines": [
         {
           "title": "What Would Cadence Have To Keep Doing To Justify Its Price?",
@@ -409,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 5.5,
-          "price": 977.5,
+          "change_pct": 3.92,
+          "price": 1015.8,
           "currency": "USD"
         },
         {
@@ -454,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 2.55,
-          "price": 803.13,
+          "change_pct": 6.93,
+          "price": 858.79,
           "currency": "USD"
         },
         {
@@ -463,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 1.65,
-          "price": 423.87,
+          "change_pct": 4.13,
+          "price": 441.36,
           "currency": "USD"
         },
         {
@@ -499,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 5.5,
-        "price": 977.5,
+        "change_pct": 3.92,
+        "price": 1015.8,
         "currency": "USD"
       },
       {
@@ -544,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 2.55,
-        "price": 803.13,
+        "change_pct": 6.93,
+        "price": 858.79,
         "currency": "USD"
       },
       {
@@ -553,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 1.65,
-        "price": 423.87,
+        "change_pct": 4.13,
+        "price": 441.36,
         "currency": "USD"
       },
       {
@@ -585,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 81268.87,
-      "change_pct": 6.37
+      "price": 81250.44,
+      "change_pct": 6.34
     },
     {
       "label": "Gold",

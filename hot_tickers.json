@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-19T01:36:41+00:00",
+  "as_of": "2026-09-19T02:38:33+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -25,51 +25,19 @@
   },
   {
    "rank": 2,
-   "ticker": "WDAY",
-   "company": "Workday Inc",
-   "move_pct": 6.14,
-   "price": 199.28,
-   "volume": 7799763,
-   "volume_vs_avg": "~2x",
-   "heat_score": 46,
-   "direction": "up",
-   "why": "Workday Or Autodesk: Is The Louder AI Story The Better Stock?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/articles/workday-autodesk-louder-ai-story-221945818.html",
-   "published": "2026-09-18T22:19:45Z",
-   "sector": "AI Applications & Data Software"
-  },
-  {
-   "rank": 3,
    "ticker": "SPCX",
    "company": "SpaceX",
-   "move_pct": 2.6,
-   "price": 154.81,
-   "volume": 335217990,
+   "move_pct": -1.36,
+   "price": 152.71,
+   "volume": 335389800,
    "volume_vs_avg": "~3x",
-   "heat_score": 41,
-   "direction": "up",
+   "heat_score": 37,
+   "direction": "down",
    "why": "Billionaire investor spots hidden risk in SpaceX",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-investor-spots-hidden-risk-000300809.html",
    "published": "2026-09-19T00:03:00Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 4,
-   "ticker": "CCJ",
-   "company": "Cameco Corp",
-   "move_pct": -1.27,
-   "price": 91.62,
-   "volume": 8497500,
-   "volume_vs_avg": "~3x",
-   "heat_score": 36,
-   "direction": "down",
-   "why": "Cameco (CCJ) Stock Declines While Market Improves: Some Information for Investors",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cameco-ccj-stock-declines-while-214502517.html",
-   "published": "2026-09-18T21:45:02Z",
-   "sector": "Powering AI"
   }
  ]
 }

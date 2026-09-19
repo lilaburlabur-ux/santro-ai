@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-19T15:32:09+00:00",
-  "as_of_local": "2026-09-19 15:32:09 UTC",
+  "as_of_utc": "2026-09-19T15:47:17+00:00",
+  "as_of_local": "2026-09-19 15:47:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": 1.34,
       "market_cap": 5367153793167.114,
       "headlines": [
+        {
+          "title": "Anthropic IPO: 1 Key Lesson Investors Can Learn From SpaceX",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-1-key-lesson-153000984.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-19T15:30:00Z"
+        },
         {
           "title": "If There's Just 1 Move All Investors Should Make Right Now, History Says It's This",
           "url": "https://finance.yahoo.com/markets/stocks/articles/theres-just-1-move-investors-152000768.html",
@@ -23,40 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/stock-markets-biggest-companies-losing-150500940.html",
           "publisher": "Motley Fool",
           "published": "2026-09-19T15:05:00Z"
-        },
-        {
-          "title": "Warren Buffett Watched Alphabet's Stock Price Climb 9,000% Before He Decided to Invest. Here's Why He and Greg Abel Are Making It One of Berkshire Hathaway's Biggest Investments Now.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-watched-alphabets-stock-145000584.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-19T14:50:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 434.67,
-      "previous_close": 430.26,
-      "change_pct": 1.02,
-      "market_cap": 2254404728873.305,
-      "headlines": [
-        {
-          "title": "TSMC (TSM) Beats Stock Market Upswing: What Investors Need to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-beats-stock-market-214505465.html",
-          "publisher": "Zacks",
-          "published": "2026-09-18T21:45:05Z"
-        },
-        {
-          "title": "Can GFS' Marvell Deal for SiGe Capacity Expansion Accelerate Growth?",
-          "url": "https://finance.yahoo.com/technology/articles/gfs-marvell-deal-sige-capacity-151900054.html",
-          "publisher": "Zacks",
-          "published": "2026-09-18T15:19:00Z"
-        },
-        {
-          "title": "These Are The 5 Best Stocks To Buy Or Watch Now",
-          "url": "https://www.investors.com/research/best-stocks-to-buy-now/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-18T13:31:58Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 81588.6,
-      "change_pct": 0.85
+      "price": 81736.45,
+      "change_pct": 1.03
     },
     {
       "label": "Gold",

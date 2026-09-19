@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-19T13:21:52+00:00",
-  "as_of_local": "2026-09-19 13:21:52 UTC",
+  "as_of_utc": "2026-09-19T13:28:17+00:00",
+  "as_of_local": "2026-09-19 13:28:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -63,6 +61,34 @@
       ]
     },
     {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 357.61,
+      "previous_close": 347.3,
+      "change_pct": 2.97,
+      "market_cap": 1707097706096.4312,
+      "headlines": [
+        {
+          "title": "Semiconductor Stocks to Buy and Hold Through 2030",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-buy-hold-2030-093701236.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-19T09:37:01Z"
+        },
+        {
+          "title": "Applied Materials vs. Broadcom: Comparing Sales Growth Trajectories for These Artificial Intelligence Companies",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-vs-broadcom-comparing-061902216.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-19T06:19:02Z"
+        },
+        {
+          "title": "Jim Cramer Said This AI Firm Has More Orders Than \u201cAlmost Anybody\u201d Other Than NVIDIA",
+          "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-said-ai-firm-232154601.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-18T23:21:54Z"
+        }
+      ]
+    },
+    {
       "symbol": "MU",
       "name": "Micron Technology",
       "price": 1015.8,
@@ -99,10 +125,10 @@
       "market_cap": 913892189969.0443,
       "headlines": [
         {
-          "title": "Dow Jones Futures: Nasdaq, S&P 500 Hold; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+          "title": "Dow Jones Futures: Will The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-09-19T12:08:52Z"
+          "published": "2026-09-19T13:16:31Z"
         },
         {
           "title": "The ARK Trade Watch: Cathie Wood Cuts Crypto Exposure, Then Reverses Course On CoreWeave",
@@ -124,7 +150,7 @@
       "price": 108.6,
       "previous_close": 108.8,
       "change_pct": -0.18,
-      "market_cap": 570641549791.2291,
+      "market_cap": 574071023387.2435,
       "headlines": [
         {
           "title": "The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years.",
@@ -264,7 +290,7 @@
       "price": 110.96,
       "previous_close": 108.53,
       "change_pct": 2.24,
-      "market_cap": 15759678851.087402,
+      "market_cap": 15728492100.864723,
       "headlines": [
         {
           "title": "Lattice Semiconductor SVP Desale Sells 4,279 Shares for $452,000",
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 81244.98,
-      "change_pct": 0.42
+      "price": 81236.61,
+      "change_pct": 0.41
     },
     {
       "label": "Gold",

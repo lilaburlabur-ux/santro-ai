@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-20T00:19:40+00:00",
-  "as_of_local": "2026-09-20 00:19:40 UTC",
+  "as_of_utc": "2026-09-20T00:34:51+00:00",
+  "as_of_local": "2026-09-20 00:34:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5367153793167.114,
       "headlines": [
         {
+          "title": "Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/oracle-committed-hundreds-billions-ai-002000642.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-20T00:20:00Z"
+        },
+        {
           "title": "I Think IBM Stock Will Be Higher in 5 Years. I Still Wouldn't Buy It Today.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/think-ibm-stock-higher-5-234301197.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/berkshires-energy-holdings-worth-more-232000992.html",
           "publisher": "Motley Fool",
           "published": "2026-09-19T23:20:00Z"
-        },
-        {
-          "title": "Nvidia (NVDA) Forms Alliance To Build A Power Flexible AI Data Center",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-forms-alliance-build-230932870.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-19T23:09:32Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "price": 108.6,
       "previous_close": 108.8,
       "change_pct": -0.18,
-      "market_cap": 574071023387.2435,
+      "market_cap": 570641549791.2291,
       "headlines": [
         {
           "title": "Intel Can Supply Only About Half of What Its Customers Want. That's a Better Problem Than It Sounds.",
@@ -290,7 +290,7 @@
       "price": 110.96,
       "previous_close": 108.53,
       "change_pct": 2.24,
-      "market_cap": 15728492100.864723,
+      "market_cap": 15759678851.087402,
       "headlines": [
         {
           "title": "Lattice Semiconductor SVP Desale Sells 4,279 Shares for $452,000",
@@ -585,8 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 81251.38,
-      "change_pct": 0.43
+      "price": 81296.39,
+      "change_pct": 0.49
+    },
+    {
+      "label": "Gold",
+      "price": 4424.9,
+      "change_pct": 0.57
     },
     {
       "label": "Nasdaq100",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-20T23:23:21+00:00",
-  "as_of_local": "2026-09-20 23:23:21 UTC",
+  "as_of_utc": "2026-09-20T23:27:56+00:00",
+  "as_of_local": "2026-09-20 23:27:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": 1.34,
       "market_cap": 5367153793167.114,
       "headlines": [
+        {
+          "title": "Palantir Nearly Doubled Its Revenue. Its Stock Stood Still. Is It Time to Buy the Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-nearly-doubled-revenue-stock-231201200.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-20T23:12:01Z"
+        },
         {
           "title": "Meet the Vanguard ETF That Increased Its SpaceX Holding by 39% in 1 Month and Shows No Signs of Slowing Down",
           "url": "https://finance.yahoo.com/markets/stocks/articles/meet-vanguard-etf-increased-spacex-230500976.html",
@@ -23,40 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-built-2-4-222900517.html",
           "publisher": "Motley Fool",
           "published": "2026-09-20T22:29:00Z"
-        },
-        {
-          "title": "3 Things You Need to Know Before Buying IonQ Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-things-know-buying-ionq-221100276.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-20T22:11:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 434.67,
-      "previous_close": 430.26,
-      "change_pct": 1.02,
-      "market_cap": 2254404728873.305,
-      "headlines": [
-        {
-          "title": "ASML (ASML) and Chip Giants like TSMC Plot a Bigger Canvas for Building AI Chips",
-          "url": "https://finance.yahoo.com/technology/ai/articles/asml-asml-chip-giants-tsmc-214129428.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-20T21:41:29Z"
-        },
-        {
-          "title": "Billionaire David Tepper Has 40% of His Fund in Just 3 AI Stocks. Are They Still Buys?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-40-fund-130200371.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-20T13:02:00Z"
-        },
-        {
-          "title": "Taiwan Semiconductor Manufacturing's Foundry Market Share Is a Massive Moat Nobody Talks About",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturings-foundry-market-082300915.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-20T08:23:00Z"
         }
       ]
     },
@@ -128,7 +102,7 @@
           "title": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-09-20T23:08:32Z"
+          "published": "2026-09-20T23:18:55Z"
         },
         {
           "title": "Better Artificial Intelligence Stock: Advanced Micro Devices vs. SK Hynix",
@@ -153,6 +127,12 @@
       "market_cap": 570641549791.2291,
       "headlines": [
         {
+          "title": "SK Hynix (SKHY) Intel Ohio Talks Put Its Cheap Looking Valuation Back In Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-skhy-intel-ohio-231321870.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-20T23:13:21Z"
+        },
+        {
           "title": "ASML (ASML) and Chip Giants like TSMC Plot a Bigger Canvas for Building AI Chips",
           "url": "https://finance.yahoo.com/technology/ai/articles/asml-asml-chip-giants-tsmc-214129428.html",
           "publisher": "Insider Monkey",
@@ -163,12 +143,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/why-im-avoiding-popular-ai-192600316.html",
           "publisher": "Motley Fool",
           "published": "2026-09-20T19:26:00Z"
-        },
-        {
-          "title": "Intel Can Supply Only About Half of What Its Customers Want. That's a Better Problem Than It Sounds.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-supply-only-half-customers-220101806.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-19T22:01:01Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 81255.9,
-      "change_pct": 0.03
+      "price": 81209.64,
+      "change_pct": -0.03
     },
     {
       "label": "Gold",
-      "price": 4409.6,
-      "change_pct": -0.35
+      "price": 4410.5,
+      "change_pct": -0.33
     },
     {
       "label": "Nasdaq100",

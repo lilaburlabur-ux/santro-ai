@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-20T06:22:11+00:00",
-  "as_of_local": "2026-09-20 06:22:11 UTC",
+  "as_of_utc": "2026-09-20T06:27:20+00:00",
+  "as_of_local": "2026-09-20 06:27:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-vs-broadcom-comparing-061902216.html",
           "publisher": "Motley Fool",
           "published": "2026-09-19T06:19:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 1015.8,
-      "previous_close": 977.5,
-      "change_pct": 3.92,
-      "market_cap": 1147237548999.2625,
-      "headlines": [
-        {
-          "title": "Prediction: These 3 Stocks Will 10x in the Next 10 Years",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-3-stocks-10x-next-060501105.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-20T06:05:01Z"
-        },
-        {
-          "title": "China's\u00a0CXMT says new memory-chip platform enters mass production",
-          "url": "https://finance.yahoo.com/technology/articles/chinas-cxmt-says-memory-chip-035403310.html",
-          "publisher": "Reuters",
-          "published": "2026-09-20T03:54:03Z"
-        },
-        {
-          "title": "Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market",
-          "url": "https://finance.yahoo.com/technology/articles/micron-mu-unveils-breakthrough-memory-171152232.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-19T17:11:52Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 3.92,
-          "price": 1015.8,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 3.92,
-        "price": 1015.8,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 80445.44,
-      "change_pct": -0.56
+      "price": 80460.15,
+      "change_pct": -0.55
     },
     {
       "label": "Gold",

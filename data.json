@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-20T16:09:51+00:00",
-  "as_of_local": "2026-09-20 16:09:51 UTC",
+  "as_of_utc": "2026-09-20T16:18:07+00:00",
+  "as_of_local": "2026-09-20 16:18:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-blunt-message-033300311.html",
           "publisher": "TheStreet",
           "published": "2026-09-20T03:33:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 108.6,
-      "previous_close": 108.8,
-      "change_pct": -0.18,
-      "market_cap": 570641549791.2291,
-      "headlines": [
-        {
-          "title": "Intel Can Supply Only About Half of What Its Customers Want. That's a Better Problem Than It Sounds.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-supply-only-half-customers-220101806.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-19T22:01:01Z"
-        },
-        {
-          "title": "Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market",
-          "url": "https://finance.yahoo.com/technology/articles/micron-mu-unveils-breakthrough-memory-171152232.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-19T17:11:52Z"
-        },
-        {
-          "title": "MarketBeat Week in Review \u2013 09/14 - 09/18",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-09-14-110000916.html",
-          "publisher": "MarketBeat",
-          "published": "2026-09-19T11:00:00Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 80969.65,
-      "change_pct": -0.33
+      "price": 81143.98,
+      "change_pct": -0.11
     },
     {
       "label": "Gold",

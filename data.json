@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-20T06:27:20+00:00",
-  "as_of_local": "2026-09-20 06:27:20 UTC",
+  "as_of_utc": "2026-09-20T06:42:29+00:00",
+  "as_of_local": "2026-09-20 06:42:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,6 +12,12 @@
       "change_pct": 1.34,
       "market_cap": 5367153793167.114,
       "headlines": [
+        {
+          "title": "Plug Power vs. Bloom Energy: Which Hydrogen-Adjacent Stock Actually Has a Real Business Model?",
+          "url": "https://finance.yahoo.com/energy/articles/plug-power-vs-bloom-energy-062500270.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-20T06:25:00Z"
+        },
         {
           "title": "Prediction: These 3 Stocks Will 10x in the Next 10 Years",
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-3-stocks-10x-next-060501105.html",
@@ -25,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/overlooked-pipeline-stock-just-became-053500681.html",
           "publisher": "Motley Fool",
           "published": "2026-09-20T05:35:00Z"
-        },
-        {
-          "title": "Prediction: Here's What a $1,000 Investment in Tesla (TSLA) Stock Could Be Worth By 2036",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-heres-1-000-investment-034050688.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-20T03:40:50Z"
         }
       ]
     },
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-vs-broadcom-comparing-061902216.html",
           "publisher": "Motley Fool",
           "published": "2026-09-19T06:19:02Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 1015.8,
+      "previous_close": 977.5,
+      "change_pct": 3.92,
+      "market_cap": 1147237548999.2625,
+      "headlines": [
+        {
+          "title": "3 AI Infrastructure Stocks Riding The White House Push Into Data Centers",
+          "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-riding-061415618.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-20T06:14:15Z"
+        },
+        {
+          "title": "Prediction: These 3 Stocks Will 10x in the Next 10 Years",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-3-stocks-10x-next-060501105.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-20T06:05:01Z"
+        },
+        {
+          "title": "China's\u00a0CXMT says new memory-chip platform enters mass production",
+          "url": "https://finance.yahoo.com/technology/articles/chinas-cxmt-says-memory-chip-035403310.html",
+          "publisher": "Reuters",
+          "published": "2026-09-20T03:54:03Z"
         }
       ]
     },
@@ -183,6 +209,12 @@
       "market_cap": 219508601725.25,
       "headlines": [
         {
+          "title": "How Expanded GlobalFoundries SiGe Capacity for AI Optics Will Impact Marvell Technology (MRVL) Investors",
+          "url": "https://finance.yahoo.com/technology/ai/articles/expanded-globalfoundries-sige-capacity-ai-061322931.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-20T06:13:22Z"
+        },
+        {
           "title": "Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033",
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-backed-artificial-intelligence-170500839.html",
           "publisher": "Motley Fool",
@@ -193,12 +225,6 @@
           "url": "https://finance.yahoo.com/technology/articles/marvell-mrvl-globalfoundries-gfs-rise-155724895.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-19T15:57:24Z"
-        },
-        {
-          "title": "Inside the 200-Basis-Point Margin Gap Marvell Isn\u2019t Talking About on Earnings Calls",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/inside-200-basis-point-margin-152419324.html",
-          "publisher": "TIKR",
-          "published": "2026-09-19T15:24:19Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 3.92,
+          "price": 1015.8,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 3.92,
+        "price": 1015.8,
         "currency": "USD"
       },
       {
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 80460.15,
-      "change_pct": -0.55
+      "price": 80304.04,
+      "change_pct": -0.74
     },
     {
       "label": "Gold",

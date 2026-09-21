@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Prediction: Here's What a $5,000 Investment in Marvell Could Be Worth by 2030 | Motley Fool | 2026-09-21 |
+| Marvell just made a move that changes the AI networking story | TheStreet | 2026-09-21 |
 | Marvell Shares Rally After Unveiling 1.6T Optical Technology for AI Networks | GuruFocus.com | 2026-09-21 |
 | Marvell Rises Over 3.3% as 2-Nanometer Optics Target AI's Copper Wall | GuruFocus.com | 2026-09-21 |
-| Marvell Smashes the AI ‘Power Wall’ with Industry-First 2nm Optical Chips | 24/7 Wall St. | 2026-09-21 |
-| Why Marvell Stock Rallied Today | Motley Fool | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -69,7 +69,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Profitability | Gross 52.22%, operating 16.68%, net 27.93% | ROA 4.12%, ROE 16.52% |
 | Balance sheet | Cash $3.93B, debt $5.29B | Current ratio 3.17, debt/equity 28.52 |
 | Valuation | P/E 84.94, forward P/E 38.07, P/S 24.48, P/B 12.18 | EV/Sales 22.81, EV/EBITDA 75.62 |
-| Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $289.04 (42 analysts) |
+| Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $289.56 (42 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

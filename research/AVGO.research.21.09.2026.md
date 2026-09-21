@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| NVIDIA Or Micron: Which Gets Paid More Safely For The AI Shortage? | Trefis | 2026-09-21 |
 | Prediction: This Data Center Stock Will Be the AI Supercycle's Biggest Winner -- and It's Not a Household Name | Motley Fool | 2026-09-21 |
 | AMD Storms Into $1 Trillion Club as Chip Stocks Charge Higher | GuruFocus.com | 2026-09-21 |
 | AMD Hits $1 Trillion Market Cap: 3 Reasons Nvidia Sat Out the AI Rally | BeInCrypto | 2026-09-21 |
-| Broadcom Edges Higher as AI Chips Target $21.7 Billion | GuruFocus.com | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

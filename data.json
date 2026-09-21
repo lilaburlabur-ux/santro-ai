@@ -1,44 +1,44 @@
 {
-  "as_of_utc": "2026-09-21T14:10:49+00:00",
-  "as_of_local": "2026-09-21 14:10:49 UTC",
+  "as_of_utc": "2026-09-21T14:15:55+00:00",
+  "as_of_local": "2026-09-21 14:15:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 222.69,
+      "price": 223.28,
       "previous_close": 222.27,
-      "change_pct": 0.19,
-      "market_cap": 5379468630523.682,
+      "change_pct": 0.45,
+      "market_cap": 5391783467880.249,
       "headlines": [
+        {
+          "title": "Jensen Huang pushes back on AI extinction fears",
+          "url": "https://finance.yahoo.com/video/jensen-huang-pushes-back-ai-140400200.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-09-21T14:04:00Z"
+        },
+        {
+          "title": "Bitcoin Hits $85,000 and Nears 8-Month High. Is the Crypto Bull Market Finally Here?",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-85-000-nears-140501744.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-21T14:05:01Z"
+        },
         {
           "title": "Prediction: Micron Stock Will Go Parabolic After Sept. 30. Here Are 31.6 Trillion Reasons Why",
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-micron-stock-parabolic-sept-135601796.html",
           "publisher": "Motley Fool",
           "published": "2026-09-21T13:56:01Z"
-        },
-        {
-          "title": "Wall Street Analysts See a 46.61% Upside in Nvidia (NVDA): Can the Stock Really Move This High?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-46-135502631.html",
-          "publisher": "Zacks",
-          "published": "2026-09-21T13:55:02Z"
-        },
-        {
-          "title": "Prediction: This Underappreciated ETF Could Be the Biggest Winner of the Next 10 Years",
-          "url": "https://finance.yahoo.com/energy/articles/prediction-underappreciated-etf-could-biggest-135000480.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-21T13:50:00Z"
         }
       ]
     },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 437.69,
+      "price": 438.77,
       "previous_close": 434.67,
-      "change_pct": 0.69,
-      "market_cap": 2269938193217.66,
+      "change_pct": 0.94,
+      "market_cap": 2275669145703.7046,
       "headlines": [
         {
           "title": "AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up",
@@ -63,10 +63,10 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 356.82,
+      "price": 357.07,
       "previous_close": 357.61,
-      "change_pct": -0.22,
-      "market_cap": 1703422063545.0454,
+      "change_pct": -0.15,
+      "market_cap": 1704353830409.5637,
       "headlines": [
         {
           "title": "Lumentum Shares Rise 12% in a Month: Is There More Upside Ahead?",
@@ -91,10 +91,10 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 1034.33,
+      "price": 1035.07,
       "previous_close": 1015.8,
-      "change_pct": 1.82,
-      "market_cap": 1168131391225.45,
+      "change_pct": 1.9,
+      "market_cap": 1169023518066.2852,
       "headlines": [
         {
           "title": "Prediction: Micron Stock Will Go Parabolic After Sept. 30. Here Are 31.6 Trillion Reasons Why",
@@ -119,14 +119,14 @@
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 609.06,
+      "price": 611.05,
       "previous_close": 559.82,
-      "change_pct": 8.8,
-      "market_cap": 995711831103.0148,
+      "change_pct": 9.15,
+      "market_cap": 997713267026.3945,
       "headlines": [
         {
-          "title": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
-          "url": "https://finance.yahoo.com/markets/article/tech-stocks-rise-bitcoin-rallied-as-treasury-yields-ease-alphacheck-135033093.html",
+          "title": "Tech stocks rise, Bitcoin rallies as Treasury yields ease: AlphaCheck",
+          "url": "https://finance.yahoo.com/markets/article/tech-stocks-rise-bitcoin-rallies-as-treasury-yields-ease-alphacheck-135033093.html",
           "publisher": "Yahoo Finance",
           "published": "2026-09-21T13:50:33Z"
         },
@@ -147,14 +147,14 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 118.99,
+      "price": 119.41,
       "previous_close": 108.6,
-      "change_pct": 9.57,
-      "market_cap": 628782204782.9869,
+      "change_pct": 9.95,
+      "market_cap": 631533623539.7727,
       "headlines": [
         {
-          "title": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
-          "url": "https://finance.yahoo.com/markets/article/tech-stocks-rise-bitcoin-rallied-as-treasury-yields-ease-alphacheck-135033093.html",
+          "title": "Tech stocks rise, Bitcoin rallies as Treasury yields ease: AlphaCheck",
+          "url": "https://finance.yahoo.com/markets/article/tech-stocks-rise-bitcoin-rallies-as-treasury-yields-ease-alphacheck-135033093.html",
           "publisher": "Yahoo Finance",
           "published": "2026-09-21T13:50:33Z"
         },
@@ -175,10 +175,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 308.73,
+      "price": 311.5,
       "previous_close": 275.61,
-      "change_pct": 12.02,
-      "market_cap": 329968828752.27563,
+      "change_pct": 13.02,
+      "market_cap": 332064247941.71594,
       "headlines": [
         {
           "title": "Intel and Arm Stocks Are Jumping. Thank Meta\u2019s Muse AI Agent.",
@@ -203,10 +203,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 248.92,
+      "price": 251.36,
       "previous_close": 244.25,
-      "change_pct": 1.91,
-      "market_cap": 224181780691.35645,
+      "change_pct": 2.91,
+      "market_cap": 225835572158.99542,
       "headlines": [
         {
           "title": "Wall St set for higher open as AI stocks rise, oil slides",
@@ -231,10 +231,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 184.59,
+      "price": 185.22,
       "previous_close": 177.72,
-      "change_pct": 3.87,
-      "market_cap": 197057159851.5,
+      "change_pct": 4.22,
+      "market_cap": 197778103939.68695,
       "headlines": [
         {
           "title": "QUALCOMM Incorporated (QCOM) is Attracting Investor Attention: Here is What You Should Know",
@@ -259,10 +259,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 227.4,
+      "price": 227.49,
       "previous_close": 227.99,
-      "change_pct": -0.26,
-      "market_cap": 57343393680.652405,
+      "change_pct": -0.22,
+      "market_cap": 57364829328.43918,
       "headlines": [
         {
           "title": "This Little-Known Chip Stock Has Doubled. Wall Street Is Getting Bullish.",
@@ -287,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 113.96,
+      "price": 114.66,
       "previous_close": 110.96,
-      "change_pct": 2.71,
-      "market_cap": 16154448084.583893,
+      "change_pct": 3.33,
+      "market_cap": 16263595581.131851,
       "headlines": [
         {
           "title": "Lattice Semiconductor SVP Desale Sells 4,279 Shares for $452,000",
@@ -315,10 +315,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 161.62,
+      "price": 164.13,
       "previous_close": 159.95,
-      "change_pct": 1.04,
-      "market_cap": 8213641609.092041,
+      "change_pct": 2.62,
+      "market_cap": 8321382024.646454,
       "headlines": [
         {
           "title": "Drones Stock AeroVironment Is Now a Space Stock, Too",
@@ -343,10 +343,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 92.79,
+      "price": 92.92,
       "previous_close": 93.11,
-      "change_pct": -0.34,
-      "market_cap": 3683059038.6094894,
+      "change_pct": -0.2,
+      "market_cap": 3688218943.281021,
       "headlines": [
         {
           "title": "CEO Claims Investors Got It Wrong on $30 Billion Shortfall as ON Stock Plummets 9%",
@@ -371,10 +371,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 31.36,
+      "price": 31.45,
       "previous_close": 30.27,
-      "change_pct": 3.6,
-      "market_cap": 882911715.1038818,
+      "change_pct": 3.9,
+      "market_cap": 885445585.8798523,
       "headlines": [
         {
           "title": "What Would Cadence Have To Keep Doing To Justify Its Price?",
@@ -401,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 60.82,
-      "change_pct": 2.02,
+      "price": 60.86,
+      "change_pct": 2.1,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 1.82,
-          "price": 1034.33,
+          "change_pct": 1.9,
+          "price": 1035.07,
           "currency": "USD"
         },
         {
@@ -445,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -1.0,
-          "price": 1773.91,
+          "change_pct": -0.86,
+          "price": 1776.5,
           "currency": "USD"
         },
         {
@@ -454,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 0.83,
-          "price": 865.93,
+          "change_pct": 0.92,
+          "price": 866.69,
           "currency": "USD"
         },
         {
@@ -463,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -0.53,
-          "price": 439.02,
+          "change_pct": -0.35,
+          "price": 439.82,
           "currency": "USD"
         },
         {
@@ -491,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 60.82,
-    "change_pct": 2.02,
+    "price": 60.86,
+    "change_pct": 2.1,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 1.82,
-        "price": 1034.33,
+        "change_pct": 1.9,
+        "price": 1035.07,
         "currency": "USD"
       },
       {
@@ -535,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -1.0,
-        "price": 1773.91,
+        "change_pct": -0.86,
+        "price": 1776.5,
         "currency": "USD"
       },
       {
@@ -544,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 0.83,
-        "price": 865.93,
+        "change_pct": 0.92,
+        "price": 866.69,
         "currency": "USD"
       },
       {
@@ -553,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -0.53,
-        "price": 439.02,
+        "change_pct": -0.35,
+        "price": 439.82,
         "currency": "USD"
       },
       {
@@ -580,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7704.67,
-      "change_pct": 0.71
+      "price": 7710.31,
+      "change_pct": 0.78
     },
     {
       "label": "BTC",
-      "price": 85291.5,
-      "change_pct": 5.11
+      "price": 85335.11,
+      "change_pct": 5.17
     },
     {
       "label": "Gold",
-      "price": 4382.7,
-      "change_pct": -0.95
+      "price": 4361.8,
+      "change_pct": -1.43
     },
     {
       "label": "Nasdaq100",
-      "price": 30113.38,
-      "change_pct": 1.58
+      "price": 30152.12,
+      "change_pct": 1.71
     }
   ]
 }

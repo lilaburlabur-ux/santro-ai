@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-21T05:22:39+00:00",
-  "as_of_local": "2026-09-21 05:22:39 UTC",
+  "as_of_utc": "2026-09-21T05:37:46+00:00",
+  "as_of_local": "2026-09-21 05:37:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5367153793167.114,
       "headlines": [
         {
+          "title": "Tesla's Free Cash Flow Went Negative. It Still Has a $43.5 Billion Cash Cushion.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/teslas-free-cash-flow-went-052000206.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-21T05:20:00Z"
+        },
+        {
           "title": "AMD Stock Jumped 8% Last Week. It Could Bring 325% More, Here\u2019s How.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-jumped-8-last-050609561.html",
           "publisher": "TIKR",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-wants-pay-workers-044731719.html",
           "publisher": "Stocktwits",
           "published": "2026-09-21T04:47:31Z"
-        },
-        {
-          "title": "History Says This Chip ETF Keeps Beating the S&P 500. It Has Trailed the Index Only Twice Since 2016.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/history-says-chip-etf-keeps-031801836.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-21T03:18:01Z"
         }
       ]
     },
@@ -41,6 +41,12 @@
       "market_cap": 2254404728873.305,
       "headlines": [
         {
+          "title": "Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-advance-bessent-says-talks-051936845.html",
+          "publisher": "Associated Press",
+          "published": "2026-09-21T05:19:36Z"
+        },
+        {
           "title": "ASML (ASML) and Chip Giants like TSMC Plot a Bigger Canvas for Building AI Chips",
           "url": "https://finance.yahoo.com/technology/ai/articles/asml-asml-chip-giants-tsmc-214129428.html",
           "publisher": "Insider Monkey",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-40-fund-130200371.html",
           "publisher": "Motley Fool",
           "published": "2026-09-20T13:02:00Z"
-        },
-        {
-          "title": "Taiwan Semiconductor Manufacturing's Foundry Market Share Is a Massive Moat Nobody Talks About",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturings-foundry-market-082300915.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-20T08:23:00Z"
         }
       ]
     },
@@ -97,6 +97,12 @@
       "market_cap": 1147237548999.2625,
       "headlines": [
         {
+          "title": "China\u2019s CXMT Says It Has Reached Advanced DRAM Mass Production, Challenging Samsung, SK Hynix and Micron in Memory Chips",
+          "url": "https://finance.yahoo.com/technology/articles/china-cxmt-says-reached-advanced-041453764.html",
+          "publisher": "Benzinga",
+          "published": "2026-09-21T04:14:53Z"
+        },
+        {
           "title": "MU, SNDK, SKHY Stocks In Focus: Memory Rebound Gains Steam Even As China\u2019s CXMT Touts Faster Production",
           "url": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-skhy-stocks-focus-020119161.html",
           "publisher": "Stocktwits",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-micron-earn-more-profit-173701623.html",
           "publisher": "Motley Fool",
           "published": "2026-09-20T17:37:01Z"
-        },
-        {
-          "title": "Billionaire David Tepper Has 40% of His Fund in Just 3 AI Stocks. Are They Still Buys?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-40-fund-130200371.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-20T13:02:00Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 0.75,
-          "price": 1871000.0,
+          "change_pct": 0.43,
+          "price": 1865000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 4.6,
-          "price": 273000.0,
+          "change_pct": 4.5,
+          "price": 272750.0,
           "currency": "KRW"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -2.51,
-          "price": 175.0,
+          "change_pct": -2.79,
+          "price": 174.5,
           "currency": "TWD"
         }
       ]
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 0.75,
-        "price": 1871000.0,
+        "change_pct": 0.43,
+        "price": 1865000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 4.6,
-        "price": 273000.0,
+        "change_pct": 4.5,
+        "price": 272750.0,
         "currency": "KRW"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -2.51,
-        "price": 175.0,
+        "change_pct": -2.79,
+        "price": 174.5,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 81414.02,
-      "change_pct": 0.22
+      "price": 81650.01,
+      "change_pct": 0.51
     },
     {
       "label": "Gold",
-      "price": 4392.7,
-      "change_pct": -0.73
+      "price": 4396.5,
+      "change_pct": -0.64
     },
     {
       "label": "Nasdaq100",

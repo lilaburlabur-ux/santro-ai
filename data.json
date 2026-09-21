@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-21T05:37:46+00:00",
-  "as_of_local": "2026-09-21 05:37:46 UTC",
+  "as_of_utc": "2026-09-21T05:52:49+00:00",
+  "as_of_local": "2026-09-21 05:52:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5367153793167.114,
       "headlines": [
         {
+          "title": "Amazon.com vs. Uber Technologies: Analyzing Recent Quarterly Revenue Trends Between Two Consumer Companies",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-vs-uber-technologies-053918512.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-21T05:39:18Z"
+        },
+        {
           "title": "Tesla's Free Cash Flow Went Negative. It Still Has a $43.5 Billion Cash Cushion.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/teslas-free-cash-flow-went-052000206.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-jumped-8-last-050609561.html",
           "publisher": "TIKR",
           "published": "2026-09-21T05:06:09Z"
-        },
-        {
-          "title": "Nvidia CEO Wants To Pay Workers \u2018As Much As Possible,\u2019 Calls $8B In Taxes \u2018A Privilege\u2019 Amid Samsung, SK Hynix Pay Push",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-wants-pay-workers-044731719.html",
-          "publisher": "Stocktwits",
-          "published": "2026-09-21T04:47:31Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "price": 108.6,
       "previous_close": 108.8,
       "change_pct": -0.18,
-      "market_cap": 570641549791.2291,
+      "market_cap": 574071023387.2435,
       "headlines": [
         {
           "title": "SK Hynix (SKHY) Intel Ohio Talks Put Its Cheap Looking Valuation Back In Focus",
@@ -290,7 +290,7 @@
       "price": 110.96,
       "previous_close": 108.53,
       "change_pct": 2.24,
-      "market_cap": 15759678851.087402,
+      "market_cap": 15728492100.864723,
       "headlines": [
         {
           "title": "Lattice Semiconductor SVP Desale Sells 4,279 Shares for $452,000",
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 0.43,
-          "price": 1865000.0,
+          "change_pct": 0.54,
+          "price": 1867000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 4.5,
-          "price": 272750.0,
+          "change_pct": 4.79,
+          "price": 273500.0,
           "currency": "KRW"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -1.52,
-          "price": 517.0,
+          "change_pct": -1.71,
+          "price": 516.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -2.79,
-          "price": 174.5,
+          "change_pct": -3.06,
+          "price": 174.0,
           "currency": "TWD"
         }
       ]
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 0.43,
-        "price": 1865000.0,
+        "change_pct": 0.54,
+        "price": 1867000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 4.5,
-        "price": 272750.0,
+        "change_pct": 4.79,
+        "price": 273500.0,
         "currency": "KRW"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -1.52,
-        "price": 517.0,
+        "change_pct": -1.71,
+        "price": 516.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -2.79,
-        "price": 174.5,
+        "change_pct": -3.06,
+        "price": 174.0,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 81650.01,
-      "change_pct": 0.51
+      "price": 81552.84,
+      "change_pct": 0.39
     },
     {
       "label": "Gold",
-      "price": 4396.5,
-      "change_pct": -0.64
+      "price": 4391.6,
+      "change_pct": -0.75
     },
     {
       "label": "Nasdaq100",

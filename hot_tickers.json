@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-19T02:38:33+00:00",
+  "as_of": "2026-09-21T00:03:30+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -25,6 +25,22 @@
   },
   {
    "rank": 2,
+   "ticker": "SKHY",
+   "company": "SK hynix Inc (ADR)",
+   "move_pct": 2.46,
+   "price": 187.5,
+   "volume": 70997600,
+   "volume_vs_avg": "~4x",
+   "heat_score": 42,
+   "direction": "up",
+   "why": "SK Hynix (SKHY) Intel Ohio Talks Put Its Cheap Looking Valuation Back In Focus",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-skhy-intel-ohio-231321870.html",
+   "published": "2026-09-20T23:13:21Z",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 3,
    "ticker": "SPCX",
    "company": "SpaceX",
    "move_pct": -1.36,
@@ -33,10 +49,10 @@
    "volume_vs_avg": "~3x",
    "heat_score": 37,
    "direction": "down",
-   "why": "Billionaire investor spots hidden risk in SpaceX",
+   "why": "Meet the Vanguard ETF That Increased Its SpaceX Holding by 39% in 1 Month and Shows No Signs of Slowing Down",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-investor-spots-hidden-risk-000300809.html",
-   "published": "2026-09-19T00:03:00Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/meet-vanguard-etf-increased-spacex-230500976.html",
+   "published": "2026-09-20T23:05:00Z",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]

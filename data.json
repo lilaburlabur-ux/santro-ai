@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-21T06:28:10+00:00",
-  "as_of_local": "2026-09-21 06:28:10 UTC",
+  "as_of_utc": "2026-09-21T06:43:18+00:00",
+  "as_of_local": "2026-09-21 06:43:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5367153793167.114,
       "headlines": [
         {
+          "title": "Billionaire Tim Draper Predicts Bitcoin Will Hit $250,000 Within 2 Years. Here's What Needs to Happen.",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/billionaire-tim-draper-predicts-bitcoin-062000744.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-21T06:20:00Z"
+        },
+        {
           "title": "Investing $150 per Month in This S&P 500 ETF Could Grow Into $300,000 Over 30 Years. Here's the Math.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/investing-150-per-month-p-055000112.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-vs-uber-technologies-053918512.html",
           "publisher": "Motley Fool",
           "published": "2026-09-21T05:39:18Z"
-        },
-        {
-          "title": "Tesla's Free Cash Flow Went Negative. It Still Has a $43.5 Billion Cash Cushion.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/teslas-free-cash-flow-went-052000206.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-21T05:20:00Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "price": 108.6,
       "previous_close": 108.8,
       "change_pct": -0.18,
-      "market_cap": 570641549791.2291,
+      "market_cap": 574071023387.2435,
       "headlines": [
         {
           "title": "SK Hynix (SKHY) Intel Ohio Talks Put Its Cheap Looking Valuation Back In Focus",
@@ -290,7 +290,7 @@
       "price": 110.96,
       "previous_close": 108.53,
       "change_pct": 2.24,
-      "market_cap": 15759678851.087402,
+      "market_cap": 15728492100.864723,
       "headlines": [
         {
           "title": "Lattice Semiconductor SVP Desale Sells 4,279 Shares for $452,000",
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 0.22,
-          "price": 1861000.0,
+          "change_pct": 0.38,
+          "price": 1864000.0,
           "currency": "KRW"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 0.22,
-        "price": 1861000.0,
+        "change_pct": 0.38,
+        "price": 1864000.0,
         "currency": "KRW"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 81845.71,
-      "change_pct": 0.75
+      "price": 81559.49,
+      "change_pct": 0.4
     },
     {
       "label": "Gold",
-      "price": 4388.8,
-      "change_pct": -0.82
+      "price": 4386.0,
+      "change_pct": -0.88
     },
     {
       "label": "Nasdaq100",

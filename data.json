@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-21T02:09:15+00:00",
-  "as_of_local": "2026-09-21 02:09:15 UTC",
+  "as_of_utc": "2026-09-21T02:24:22+00:00",
+  "as_of_local": "2026-09-21 02:24:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5367153793167.114,
       "headlines": [
         {
+          "title": "Nvidia's Jensen Huang Beats Zuckerberg, Bezos for Trump's AI Favor as Stock Climbs",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-jensen-huang-beats-zuckerberg-020726073.html",
+          "publisher": "BeInCrypto",
+          "published": "2026-09-21T02:07:26Z"
+        },
+        {
           "title": "3 Top Cryptocurrencies Down 67% or More Worth Buying Right Now",
           "url": "https://finance.yahoo.com/markets/crypto/articles/3-top-cryptocurrencies-down-67-015000612.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ive-studied-compound-interest-10-012000383.html",
           "publisher": "Motley Fool",
           "published": "2026-09-21T01:20:00Z"
-        },
-        {
-          "title": "It Takes About $32,000 in This Dividend ETF to Collect $1,000 a Year",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/takes-32-000-dividend-etf-011301156.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-21T01:13:01Z"
         }
       ]
     },
@@ -128,7 +128,7 @@
           "title": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-09-21T02:00:48Z"
+          "published": "2026-09-21T02:12:16Z"
         },
         {
           "title": "Better Artificial Intelligence Stock: Advanced Micro Devices vs. SK Hynix",
@@ -150,7 +150,7 @@
       "price": 108.6,
       "previous_close": 108.8,
       "change_pct": -0.18,
-      "market_cap": 570641549791.2291,
+      "market_cap": 574071023387.2435,
       "headlines": [
         {
           "title": "SK Hynix (SKHY) Intel Ohio Talks Put Its Cheap Looking Valuation Back In Focus",
@@ -290,7 +290,7 @@
       "price": 110.96,
       "previous_close": 108.53,
       "change_pct": 2.24,
-      "market_cap": 15759678851.087402,
+      "market_cap": 15728492100.864723,
       "headlines": [
         {
           "title": "Lattice Semiconductor SVP Desale Sells 4,279 Shares for $452,000",
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 1.08,
-          "price": 1877000.0,
+          "change_pct": 0.75,
+          "price": 1871000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 4.12,
-          "price": 271750.0,
+          "change_pct": 3.93,
+          "price": 271250.0,
           "currency": "KRW"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -0.57,
-          "price": 522.0,
+          "change_pct": -1.14,
+          "price": 519.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -2.23,
-          "price": 175.5,
+          "change_pct": -2.51,
+          "price": 175.0,
           "currency": "TWD"
         }
       ]
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 1.08,
-        "price": 1877000.0,
+        "change_pct": 0.75,
+        "price": 1871000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 4.12,
-        "price": 271750.0,
+        "change_pct": 3.93,
+        "price": 271250.0,
         "currency": "KRW"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -0.57,
-        "price": 522.0,
+        "change_pct": -1.14,
+        "price": 519.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -2.23,
-        "price": 175.5,
+        "change_pct": -2.51,
+        "price": 175.0,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 81231.59,
-      "change_pct": -0.0
+      "price": 81481.83,
+      "change_pct": 0.31
     },
     {
       "label": "Gold",
-      "price": 4415.4,
-      "change_pct": -0.21
+      "price": 4408.7,
+      "change_pct": -0.37
     },
     {
       "label": "Nasdaq100",

@@ -18,7 +18,7 @@ Signed file: `TSM.research.21.09.2026`
 | Technical momentum | High | 1Y +67.46%; price +17.70% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -6.54% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 49.92%, revenue growth 36.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.30, EV/Sales 3.52. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.30, EV/Sales 3.62. |
 | Risk level | Elevated | Beta 1.25, ATR 2.4% of price, short float 0.62%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated.
@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| 3 Chip Stocks Set to Win TSMC’s Packaging Boom | 24/7 Wall St. | 2026-09-21 |
 | GlobalFoundries Drives Gross Margin Expansion: Can the Momentum Last? | Zacks | 2026-09-21 |
 | AMD stock crosses $1 trillion market cap for first time | Quartz | 2026-09-21 |
 | ASML Holding (ENXTAM:ASML) Alliances Put Valuation Back In Focus | Simply Wall St. | 2026-09-21 |
-| TSMC Gains as 88.7 Hectares Target Packaging Friction | GuruFocus.com | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.44T | Revenue growth 36.00% y/y |
 | Profitability | Gross 64.23%, operating 60.34%, net 49.92% | ROA 19.00%, ROE 39.97% |
 | Balance sheet | Cash $3.52T, debt $1.07T | Current ratio 2.46, debt/equity 16.50 |
-| Valuation | P/E 33.24, forward P/E 20.30, P/S 0.52, P/B 91.16 | EV/Sales 3.52, EV/EBITDA 4.93 |
+| Valuation | P/E 33.24, forward P/E 20.30, P/S 0.52, P/B 91.16 | EV/Sales 3.62, EV/EBITDA 5.07 |
 | Growth expectations | Earnings growth 77.40%, EPS q/q 77.40% | Analyst mean target $552.26 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Bank of America Corporation | 15,282,620 | 0.29% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.30, EV/Sales 3.52. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 20.30, EV/Sales 3.62. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.25, ATR 2.4% of price, short float 0.62%. Size positions accordingly.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -112,8 +112,8 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $445.14 | EV/Sales | 3.52 |
-| Market cap | $2.31T | EV/EBITDA | 4.93 |
+| Price | $445.14 | EV/Sales | 3.62 |
+| Market cap | $2.31T | EV/EBITDA | 5.07 |
 | Beta | 1.25 | Gross margin | 64.23% |
 | RSI(14) | 61.9 | Operating margin | 60.34% |
 | ATR(14) | 10.87 | Profit margin | 49.92% |

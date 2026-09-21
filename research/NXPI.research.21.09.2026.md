@@ -18,7 +18,7 @@ Signed file: `NXPI.research.21.09.2026`
 | Technical momentum | Moderate | 1Y +4.42%; price -4.45% vs SMA200. |
 | Fresh setup quality | Poor / broken | -29.59% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 22.56%, revenue growth 19.50%. |
-| Value attractiveness | Reasonable | Forward P/E 12.84, EV/Sales 4.98. |
+| Value attractiveness | Reasonable | Forward P/E 12.84, EV/Sales 5.06. |
 | Risk level | Elevated | Beta 1.82, ATR 3.4% of price, short float 3.80%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -36,10 +36,10 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
+| NXP Semiconductors (NXPI) Beats Stock Market Upswing: What Investors Need to Know | Zacks | 2026-09-21 |
 | This Little-Known Chip Stock Has Doubled. Wall Street Is Getting Bullish. | Barrons.com | 2026-09-18 |
 | NXP Semiconductors' COO Sells 1,000 Shares | Motley Fool | 2026-09-18 |
 | Is It Worth Investing in NXP (NXPI) Based on Wall Street's Bullish Views? | Zacks | 2026-09-18 |
-| ON Semiconductor Has Cratered for 3 Months: This Wall Street Pro Remains Bullish, Citing 120% Returns for Buyers | 24/7 Wall St. | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Revenue (ttm) | $13.19B | Revenue growth 19.50% y/y |
 | Profitability | Gross 56.10%, operating 30.41%, net 22.56% | ROA 10.46%, ROE 27.92% |
 | Balance sheet | Cash $3.22B, debt $10.98B | Current ratio 2.04, debt/equity 93.33 |
-| Valuation | P/E 19.83, forward P/E 12.84, P/S 4.44, P/B 5.14 | EV/Sales 4.98, EV/EBITDA 12.95 |
+| Valuation | P/E 19.83, forward P/E 12.84, P/S 4.44, P/B 5.14 | EV/Sales 5.06, EV/EBITDA 13.16 |
 | Growth expectations | Earnings growth 72.60%, EPS q/q 72.40% | Analyst mean target $311.10 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,8 +111,8 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $232.41 | EV/Sales | 4.98 |
-| Market cap | $58.61B | EV/EBITDA | 12.95 |
+| Price | $232.41 | EV/Sales | 5.06 |
+| Market cap | $58.61B | EV/EBITDA | 13.16 |
 | Beta | 1.82 | Gross margin | 56.10% |
 | RSI(14) | 52.3 | Operating margin | 30.41% |
 | ATR(14) | 7.92 | Profit margin | 22.56% |

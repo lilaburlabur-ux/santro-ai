@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-21T04:40:38+00:00",
-  "as_of_local": "2026-09-21 04:40:38 UTC",
+  "as_of_utc": "2026-09-21T04:55:34+00:00",
+  "as_of_local": "2026-09-21 04:55:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5367153793167.114,
       "headlines": [
         {
+          "title": "Nvidia CEO Wants To Pay Workers \u2018As Much As Possible,\u2019 Calls $8B In Taxes \u2018A Privilege\u2019 Amid Samsung, SK Hynix Pay Push",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-wants-pay-workers-044731719.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-21T04:47:31Z"
+        },
+        {
           "title": "History Says This Chip ETF Keeps Beating the S&P 500. It Has Trailed the Index Only Twice Since 2016.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/history-says-chip-etf-keeps-031801836.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-jensen-huang-beats-zuckerberg-020726073.html",
           "publisher": "BeInCrypto",
           "published": "2026-09-21T02:07:26Z"
-        },
-        {
-          "title": "3 Top Cryptocurrencies Down 67% or More Worth Buying Right Now",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/3-top-cryptocurrencies-down-67-015000612.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-21T01:50:00Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 1.08,
-          "price": 1877000.0,
+          "change_pct": 0.92,
+          "price": 1874000.0,
           "currency": "KRW"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -1.71,
-          "price": 516.0,
+          "change_pct": -1.52,
+          "price": 517.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -2.23,
-          "price": 175.5,
+          "change_pct": -2.51,
+          "price": 175.0,
           "currency": "TWD"
         }
       ]
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 1.08,
-        "price": 1877000.0,
+        "change_pct": 0.92,
+        "price": 1874000.0,
         "currency": "KRW"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -1.71,
-        "price": 516.0,
+        "change_pct": -1.52,
+        "price": 517.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -2.23,
-        "price": 175.5,
+        "change_pct": -2.51,
+        "price": 175.0,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 81355.51,
-      "change_pct": 0.15
+      "price": 81370.01,
+      "change_pct": 0.17
     },
     {
       "label": "Gold",
-      "price": 4396.5,
-      "change_pct": -0.64
+      "price": 4399.1,
+      "change_pct": -0.58
     },
     {
       "label": "Nasdaq100",

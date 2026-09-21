@@ -37,7 +37,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Headline | Source | Date |
 |---|---|---|
 | AMD stock soars to new record as semiconductors bounce: Chart of the Day | Yahoo Finance | 2026-09-21 |
-| Wall Street ends sharply higher as AI optimism reignites and Treasury yields retreat | Reuters | 2026-09-21 |
+| Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat | Reuters | 2026-09-21 |
 | Update: US Equity Indexes Jump as Communication Services, Technology Giants Surge Amid Sliding Crude Oil Prices | MT Newswires | 2026-09-21 |
 | AMD Hits $1 Trillion Market Cap: 3 Reasons Nvidia Sat Out the AI Rally | BeInCrypto | 2026-09-21 |
 

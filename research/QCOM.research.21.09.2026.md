@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| How Much Of Micron's Revenue Has A Price Ceiling? | Trefis | 2026-09-21 |
 | Microsoft's Nadella Is Joining Trump and Xi and Tech Giants Are Coming Too | GuruFocus.com | 2026-09-21 |
 | Qualcomm Surges 7% as Amazon Validates Its Data-Center Pivot | GuruFocus.com | 2026-09-21 |
 | Update: Equities Rise Intraday as Chip Stocks Rally | MT Newswires | 2026-09-21 |
-| Arm’s Shift From Royalties to Silicon Manufacturing Could Reshape Chip Economics | 24/7 Wall St. | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

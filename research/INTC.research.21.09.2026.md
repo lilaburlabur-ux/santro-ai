@@ -37,7 +37,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls | Yahoo Finance | 2026-09-21 |
-| Wall Street ends sharply higher as AI optimism reignites and Treasury yields retreat | Reuters | 2026-09-21 |
+| Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat | Reuters | 2026-09-21 |
 | Update: US Equity Indexes Jump as Communication Services, Technology Giants Surge Amid Sliding Crude Oil Prices | MT Newswires | 2026-09-21 |
 | Intel's CEO Just Gave Micron Technology Investors Great News | Motley Fool | 2026-09-21 |
 

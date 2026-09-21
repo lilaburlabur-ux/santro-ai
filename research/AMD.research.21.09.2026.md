@@ -37,9 +37,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls | Yahoo Finance | 2026-09-21 |
-| Wall Street ends sharply higher as AI optimism reignites and Treasury yields retreat | Reuters | 2026-09-21 |
+| Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat | Reuters | 2026-09-21 |
 | Update: US Equity Indexes Jump as Communication Services, Technology Giants Surge Amid Sliding Crude Oil Prices | MT Newswires | 2026-09-21 |
-| AMD Storms Into $1 Trillion Club as Chip Stocks Charge Higher | GuruFocus.com | 2026-09-21 |
+| How Much Of Micron's Revenue Has A Price Ceiling? | Trefis | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

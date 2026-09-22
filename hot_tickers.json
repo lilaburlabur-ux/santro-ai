@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-22T00:32:04+00:00",
+  "as_of": "2026-09-22T00:47:15+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -22,6 +22,22 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-stock-jumped-nearly-230513231.html",
    "published": "2026-09-21T23:05:13Z",
    "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 2,
+   "ticker": "QCOM",
+   "company": "Qualcomm Inc",
+   "move_pct": -5.82,
+   "price": 177.72,
+   "volume": 18244261,
+   "volume_vs_avg": "~2x",
+   "heat_score": 43,
+   "direction": "down",
+   "why": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-qualcomm-shares-skyrocket-002225901.html",
+   "published": "2026-09-22T00:22:25Z",
+   "sector": "AI Chips & Compute"
   }
  ]
 }

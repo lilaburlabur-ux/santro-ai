@@ -4,8 +4,8 @@ Signed file: `QCOM.research.22.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-09-22, ~15-min delayed) |
-| Market cap | $207.45B |
+| Current price | $198.27 (2026-09-22, ~15-min delayed) |
+| Market cap | $211.76B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `QCOM.research.22.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +21.31%; price +18.54% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -20.29% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 21.01%, revenue growth -4.00%. |
-| Value attractiveness | Reasonable | Forward P/E 19.03, EV/Sales 4.79. |
-| Risk level | Elevated | Beta 1.68, ATR nan% of price, short float 3.53%. |
+| Value attractiveness | Reasonable | Forward P/E 19.43, EV/Sales 4.79. |
+| Risk level | Elevated | Beta 1.68, ATR 4.4% of price, short float 3.53%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -36,39 +36,39 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
-| Trump, Xi Meet on S&P 500's Best Day Since Early August: Will Markets Stay Bullish? | BeInCrypto | 2026-09-21 |
-| Update: Nasdaq Composite Rallies to Record as AI Trade Lifts Chipmakers | MT Newswires | 2026-09-21 |
-| How Much Of Micron's Revenue Has A Price Ceiling? | Trefis | 2026-09-21 |
-| Microsoft's Nadella Is Joining Trump and Xi and Tech Giants Are Coming Too | GuruFocus.com | 2026-09-21 |
+| Dell Falls 2.5% as $1,199 Googlebook Tests PC Margin | GuruFocus.com | 2026-09-22 |
+| Skyworks Just Surged 33% in a Month: Is It Too Late to Buy SWKS Stock Now? | 24/7 Wall St. | 2026-09-22 |
+| Apple’s New CEO Is Already Being Pressured to Drop the Chinese Chip Deal Tim Cook Fought to Keep | 24/7 Wall St. | 2026-09-22 |
+| Corning (GLW) To Show High Density Optical Chip Links At ECOC 2026 | Simply Wall St. | 2026-09-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $248.74 (+nan%); 52w low $122.94 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 54.4 (neutral) |
-| Volatility | ATR(14) 8.26 (~nan% of price); beta 1.68 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $198.27; 52w high $248.74 (-20.29%); 52w low $122.94 (+61.27%) |
+| Trend | +18.54% vs SMA200, +17.84% vs SMA50, +12.90% vs SMA20 |
+| Momentum | RSI(14) 68.0 (neutral) |
+| Volatility | ATR(14) 8.82 (~4.4% of price); beta 1.68 |
+| Setup perspective | -20.29% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +5.6% |
+| Month | +24.0% |
+| Quarter | -2.3% |
+| Half Y | +55.9% |
+| 1Y | +21.3% |
+| YTD | +16.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-10-29 | Next scheduled report (Yahoo estimate) |
+| Next earnings | 2026-11-04 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $44.07B | Revenue growth -4.00% y/y |
 | Profitability | Gross 54.23%, operating 18.53%, net 21.01% | ROA 11.61%, ROE 33.75% |
 | Balance sheet | Cash $8.30B, debt $15.27B | Current ratio 2.02, debt/equity 55.21 |
-| Valuation | P/E 22.22, forward P/E 19.03, P/S 4.71, P/B 7.42 | EV/Sales 4.79, EV/EBITDA 17.58 |
+| Valuation | P/E 22.69, forward P/E 19.43, P/S 4.81, P/B 7.58 | EV/Sales 4.79, EV/EBITDA 17.58 |
 | Growth expectations | Earnings growth -23.00%, EPS q/q -24.90% | Analyst mean target $194.13 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | NORGES BANK | 16,209,022 | 1.54% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.68, ATR nan% of price, short float 3.53%. Size positions accordingly.
+- **Volatility risk:** Beta 1.68, ATR 4.4% of price, short float 3.53%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 4.79 |
-| Market cap | $207.45B | EV/EBITDA | 17.58 |
+| Price | $198.27 | EV/Sales | 4.79 |
+| Market cap | $211.76B | EV/EBITDA | 17.58 |
 | Beta | 1.68 | Gross margin | 54.23% |
-| RSI(14) | 54.4 | Operating margin | 18.53% |
-| ATR(14) | 8.26 | Profit margin | 21.01% |
-| SMA20 dist | +nan% | ROA | 11.61% |
-| SMA50 dist | +nan% | ROE | 33.75% |
-| SMA200 dist | +nan% | Revenue (ttm) | $44.07B |
+| RSI(14) | 68.0 | Operating margin | 18.53% |
+| ATR(14) | 8.82 | Profit margin | 21.01% |
+| SMA20 dist | +12.90% | ROA | 11.61% |
+| SMA50 dist | +17.84% | ROE | 33.75% |
+| SMA200 dist | +18.54% | Revenue (ttm) | $44.07B |
 | 52W high | $248.74 | Revenue growth y/y | -4.00% |
 | 52W low | $122.94 | Inst. ownership | 83.05% |
-| P/E (ttm) | 22.22 | Insider ownership | 0.12% |
-| Forward P/E | 19.03 | Short float | 3.53% |
-| PEG (trailing) | 0.79 | Avg volume | 14,336,866 |
-| P/S | 4.71 | Employees | 52,000 |
-| P/B | 7.42 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/E (ttm) | 22.69 | Insider ownership | 0.12% |
+| Forward P/E | 19.43 | Short float | 3.53% |
+| PEG (trailing) | 0.86 | Avg volume | 14,340,688 |
+| P/S | 4.81 | Employees | 52,000 |
+| P/B | 7.58 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

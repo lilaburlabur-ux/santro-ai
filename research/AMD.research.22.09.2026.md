@@ -38,8 +38,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 |---|---|---|
 | Should investors play AI bottlenecks over social media stocks? | Yahoo Finance Video | 2026-09-22 |
 | The return of the AI rally: What's fueling the latest push into tech? | Yahoo Finance Video | 2026-09-22 |
-| AMD Stock Just Sent a Huge AI Signal | GuruFocus.com | 2026-09-22 |
-| Intel Is Up 25% in 5 Days. The $145 Price Target Just Moved Too | 24/7 Wall St. | 2026-09-22 |
+| The AI Rally Is Back—and Facing a Wall of Worry | Barrons.com | 2026-09-22 |
+| Sandisk, Lennar, Viking Therapeutics, Shopify, GameStop, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

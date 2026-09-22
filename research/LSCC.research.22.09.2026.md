@@ -5,7 +5,7 @@ Signed file: `LSCC.research.22.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $122.53 (2026-09-22, ~15-min delayed) |
-| Market cap | $17.37B |
+| Market cap | $17.40B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
@@ -36,10 +36,10 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Entegris and Lattice Semiconductor Shares Are Soaring, What You Need To Know | StockStory | 2026-09-22 |
 | This Under-the-Radar Chip Company Could Have a Much Bigger Future | 24/7 Wall St. | 2026-09-22 |
 | Why Are Lattice Semiconductor (LSCC) Shares Soaring Today | StockStory | 2026-09-22 |
 | Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out. | Investor's Business Daily | 2026-09-21 |
-| Lattice Semiconductor SVP Desale Sells 4,279 Shares for $452,000 | Motley Fool | 2026-09-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -113,7 +113,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $122.53 | EV/Sales | 25.37 |
-| Market cap | $17.37B | EV/EBITDA | 179.26 |
+| Market cap | $17.40B | EV/EBITDA | 179.26 |
 | Beta | 1.78 | Gross margin | 69.02% |
 | RSI(14) | 56.4 | Operating margin | 13.33% |
 | ATR(14) | 5.86 | Profit margin | 5.58% |

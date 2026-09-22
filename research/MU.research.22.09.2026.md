@@ -37,9 +37,9 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Headline | Source | Date |
 |---|---|---|
 | AMD’s path to $1T market cap: A timeline of CEO Lisa Su’s big wins | Yahoo Finance Video | 2026-09-22 |
-| Micron Stock Climbs Despite $25 Billion Plant Labor Dispute | GuruFocus.com | 2026-09-22 |
-| AMD Stock Just Sent a Huge AI Signal | GuruFocus.com | 2026-09-22 |
-| What Are You Really Paying For SanDisk's AI Flash Boom? | Trefis | 2026-09-22 |
+| Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals | Investor's Business Daily | 2026-09-22 |
+| Nasdaq sets record high, oil dips on improved crude flows | Reuters | 2026-09-22 |
+| Micron vs. SanDisk: Comparing Two Red-Hot AI Memory Stocks | Zacks | 2026-09-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

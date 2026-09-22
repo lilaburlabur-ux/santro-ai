@@ -68,7 +68,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $9.45B | Revenue growth 36.50% y/y |
 | Profitability | Gross 52.22%, operating 16.68%, net 27.93% | ROA 4.12%, ROE 16.52% |
 | Balance sheet | Cash $3.93B, debt $5.29B | Current ratio 3.17, debt/equity 28.52 |
-| Valuation | P/E 86.59, forward P/E 38.81, P/S 24.95, P/B 12.41 | EV/Sales 24.03, EV/EBITDA 79.66 |
+| Valuation | P/E 87.16, forward P/E 38.81, P/S 24.95, P/B 12.61 | EV/Sales 24.03, EV/EBITDA 79.66 |
 | Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $289.56 (42 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -122,11 +122,11 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | SMA200 dist | +63.98% | Revenue (ttm) | $9.45B |
 | 52W high | $316.35 | Revenue growth y/y | 36.50% |
 | 52W low | $73.67 | Inst. ownership | 81.85% |
-| P/E (ttm) | 86.59 | Insider ownership | 0.49% |
+| P/E (ttm) | 87.16 | Insider ownership | 0.49% |
 | Forward P/E | 38.81 | Short float | 5.09% |
 | PEG (trailing) | 1.37 | Avg volume | 25,231,779 |
 | P/S | 24.95 | Employees | 7,480 |
-| P/B | 12.41 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 12.61 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

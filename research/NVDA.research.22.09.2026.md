@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Should investors play AI bottlenecks over social media stocks? | Yahoo Finance Video | 2026-09-22 |
 | Alibaba rolls out what it's touting as China's most powerful AI chip | Yahoo Finance Video | 2026-09-22 |
-| Is Regeneron Stock a Bargain Below $800? | Motley Fool | 2026-09-22 |
-| Apple Takes Aim at Nvidia’s AI Economics: New Macs Have ‘No Cost per Token,’ Hardware Chief Says | Benzinga Prediction Markets | 2026-09-22 |
+| Here Group Limited Q4 2026 Earnings Call Summary | Moby | 2026-09-22 |
+| Micron vs. SanDisk: Comparing Two Red-Hot AI Memory Stocks | Zacks | 2026-09-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

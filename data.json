@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-22T11:52:53+00:00",
-  "as_of_local": "2026-09-22 11:52:53 UTC",
+  "as_of_utc": "2026-09-22T11:58:45+00:00",
+  "as_of_local": "2026-09-22 11:58:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -117,40 +119,12 @@
       ]
     },
     {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 615.52,
-      "previous_close": 559.82,
-      "change_pct": 9.95,
-      "market_cap": 1004821069736.1182,
-      "headlines": [
-        {
-          "title": "Why AMD's new $1 trillion valuation makes perfect sense",
-          "url": "https://finance.yahoo.com/markets/stocks/article/why-amds-new-1-trillion-valuation-makes-perfect-sense-093453726.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-09-22T09:34:53Z"
-        },
-        {
-          "title": "Tech stocks rise, Bitcoin rallies as Treasury yields ease: AlphaCheck",
-          "url": "https://finance.yahoo.com/markets/article/tech-stocks-rise-bitcoin-rallies-as-treasury-yields-ease-alphacheck-135033093.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-09-21T13:50:33Z"
-        },
-        {
-          "title": "12 S&P 500 Stocks Hit Trillion-Dollar Club \u2014 What Could Go Wrong?",
-          "url": "https://www.investors.com/etfs-and-funds/sectors/sp-500-stocks-hit-trillion-dollar-club-what-could-go-wrong/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-22T11:28:11Z"
-        }
-      ]
-    },
-    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 121.78,
       "previous_close": 108.6,
       "change_pct": 12.14,
-      "market_cap": 643741892353.5947,
+      "market_cap": 639896208226.4833,
       "headlines": [
         {
           "title": "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
@@ -290,7 +264,7 @@
       "price": 117.24,
       "previous_close": 110.96,
       "change_pct": 5.66,
-      "market_cap": 16618676960.35102,
+      "market_cap": 16651628785.870605,
       "headlines": [
         {
           "title": "Why Are Lattice Semiconductor (LSCC) Shares Soaring Today",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 85957.25,
-      "change_pct": -0.75
+      "price": 85965.59,
+      "change_pct": -0.74
     },
     {
       "label": "Gold",
-      "price": 4356.4,
-      "change_pct": -0.63
+      "price": 4357.6,
+      "change_pct": -0.6
     },
     {
       "label": "Nasdaq100",

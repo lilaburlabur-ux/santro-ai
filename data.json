@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-22T01:58:07+00:00",
-  "as_of_local": "2026-09-22 01:58:07 UTC",
+  "as_of_utc": "2026-09-22T02:13:15+00:00",
+  "as_of_local": "2026-09-22 02:13:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LSCC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -152,7 +150,7 @@
       "price": 121.78,
       "previous_close": 108.6,
       "change_pct": 12.14,
-      "market_cap": 639896208226.4833,
+      "market_cap": 643741892353.5947,
       "headlines": [
         {
           "title": "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
@@ -287,6 +285,34 @@
       ]
     },
     {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 117.24,
+      "previous_close": 110.96,
+      "change_pct": 5.66,
+      "market_cap": 16618676960.35102,
+      "headlines": [
+        {
+          "title": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
+          "url": "https://www.investors.com/news/technology/chip-stocks-amd-stock-four-new-names-join-sox-index/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-21T20:33:28Z"
+        },
+        {
+          "title": "Lattice Semiconductor SVP Desale Sells 4,279 Shares for $452,000",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-svp-desale-sells-105001659.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-19T10:50:01Z"
+        },
+        {
+          "title": "Lattice Semiconductor (LSCC) Debuts Mach-N2 FPGA Family to Secure Next-Gen Infrastructure",
+          "url": "https://finance.yahoo.com/technology/articles/lattice-semiconductor-lscc-debuts-mach-043402946.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-18T04:34:02Z"
+        }
+      ]
+    },
+    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 160.9,
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.46,
-          "price": 1914000.0,
+          "change_pct": 2.49,
+          "price": 1914500.0,
           "currency": "KRW"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -0.58,
-          "price": 513.0,
+          "change_pct": -0.78,
+          "price": 512.0,
           "currency": "TWD"
         },
         {
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 1.15,
-          "price": 176.0,
+          "change_pct": 0.86,
+          "price": 175.5,
           "currency": "TWD"
         }
       ]
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.46,
-        "price": 1914000.0,
+        "change_pct": 2.49,
+        "price": 1914500.0,
         "currency": "KRW"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -0.58,
-        "price": 513.0,
+        "change_pct": -0.78,
+        "price": 512.0,
         "currency": "TWD"
       },
       {
@@ -545,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 1.15,
-        "price": 176.0,
+        "change_pct": 0.86,
+        "price": 175.5,
         "currency": "TWD"
       }
     ]
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 85599.02,
-      "change_pct": 5.49
+      "price": 85442.4,
+      "change_pct": 5.3
     },
     {
       "label": "Gold",
-      "price": 4385.3,
-      "change_pct": -0.89
+      "price": 4386.4,
+      "change_pct": -0.87
     },
     {
       "label": "Nasdaq100",

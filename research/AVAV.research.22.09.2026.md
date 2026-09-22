@@ -8,7 +8,7 @@ Signed file: `AVAV.research.22.09.2026`
 | Market cap | $7.94B |
 | Sector / Industry | Industrials / Aerospace & Defense |
 | Main theme | Aerospace & Defense — see catalysts below |
-| Current stance | Low technical momentum, weak fundamentals, value: low (expensive), risk: high. |
+| Current stance | Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-22.
 
@@ -18,10 +18,10 @@ Signed file: `AVAV.research.22.09.2026`
 | Technical momentum | Low | Below SMA200 (-24.14%) with negative half-year (-24.30%). |
 | Fresh setup quality | Poor / broken | -61.90% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-10.13%). |
-| Value attractiveness | Low (expensive) | Forward P/E 35.03, EV/Sales 4.20. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 34.94, EV/Sales 4.20. |
 | Risk level | High | Beta 1.41, ATR 6.0% of price, short float 11.21%. |
 
-**Bottom line:** Low technical momentum, weak fundamentals, value: low (expensive), risk: high.
+**Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -68,7 +68,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Revenue (ttm) | $2.00B | Revenue growth 5.70% y/y |
 | Profitability | Gross 26.47%, operating -2.27%, net -10.13% | ROA -0.13%, ROE -4.60% |
 | Balance sheet | Cash $580.23M, debt $850.82M | Current ratio 4.26, debt/equity 19.35 |
-| Valuation | P/E —, forward P/E 35.03, P/S 3.96, P/B 1.80 | EV/Sales 4.20, EV/EBITDA 38.47 |
+| Valuation | P/E —, forward P/E 34.94, P/S 3.96, P/B 1.80 | EV/Sales 4.20, EV/EBITDA 38.47 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $219.35 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Van Eck Associates Corporation | 612,915 | 1.21% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 35.03, EV/Sales 4.20. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 34.94, EV/Sales 4.20. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.41, ATR 6.0% of price, short float 11.21%. Size positions accordingly.
 - **Short interest risk:** short float 11.21% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
@@ -125,7 +125,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | 52W high | $409.83 | Revenue growth y/y | 5.70% |
 | 52W low | $136.68 | Inst. ownership | 88.00% |
 | P/E (ttm) | — | Insider ownership | 0.91% |
-| Forward P/E | 35.03 | Short float | 11.21% |
+| Forward P/E | 34.94 | Short float | 11.21% |
 | PEG (trailing) | — | Avg volume | 1,947,620 |
 | P/S | 3.96 | Employees | 3,991 |
 | P/B | 1.80 | Analyst rec (1=buy..5=sell) | 1.6 |
@@ -143,7 +143,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | 2026-07-16 | up | Raymond James | Market Perform → Outperform |
 
 ## 9. Conclusion
-AVAV: Low momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+AVAV: Low momentum / weak fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

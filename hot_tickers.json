@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-22T23:21:41+00:00",
+  "as_of": "2026-09-22T23:36:44+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,17 +11,33 @@
    "rank": 1,
    "ticker": "INOD",
    "company": "Innodata Inc",
-   "move_pct": 16.63,
-   "price": 71.2,
+   "move_pct": 16.43,
+   "price": 71.08,
    "volume": 5332159,
    "volume_vs_avg": "~5x",
    "heat_score": 87,
    "direction": "up",
-   "why": "Moving up 16.6% on ~5x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "why": "Moving up 16.4% on ~5x average volume with no fresh headline this cycle \u2014 attention without a story.",
    "catalyst_type": "no_news_mover",
    "source_url": "",
    "published": "",
    "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 2,
+   "ticker": "MU",
+   "company": "Micron Technology Inc",
+   "move_pct": 5.09,
+   "price": 1097.08,
+   "volume": 28773640,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 38,
+   "direction": "up",
+   "why": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
+   "published": "2026-09-22T23:12:00Z",
+   "sector": "AI Chips & Compute"
   }
  ]
 }

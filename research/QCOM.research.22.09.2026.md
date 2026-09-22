@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
-| Qualcomm reveals 2 new smartphone chips focusing on agentic AI | Yahoo Finance | 2026-09-22 |
+| Meta’s Muse just changed the AI game | Yahoo Finance Video | 2026-09-22 |
+| Qualcomm CFO on agentic AI and the race to the edge | Yahoo Finance Video | 2026-09-22 |
+| Qualcomm Launches Two New Smartphone Chips As AI Push Intensifies — QCOM Stock Edges Lower After-Hours | Stocktwits | 2026-09-22 |
 | Qualcomm launches two new smartphone chips with emphasis on AI | TechCrunch | 2026-09-22 |
-| Dell Falls 2.5% as $1,199 Googlebook Tests PC Margin | GuruFocus.com | 2026-09-22 |
-| Skyworks Just Surged 33% in a Month: Is It Too Late to Buy SWKS Stock Now? | 24/7 Wall St. | 2026-09-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

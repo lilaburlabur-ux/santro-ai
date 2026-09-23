@@ -194,6 +194,13 @@ def main():
                 # sector P/E — cap-weighted HARMONIC mean over positive-earnings
                 # members (= sector cap / sector earnings; a plain average of
                 # P/Es would overweight expensive names). Loss-makers excluded.
+                # self-heal hand-curated presentation fields if a merge race
+                # ever drops them (a missing industries_included once blanked
+                # the whole terminal map; color falls back per-bubble)
+                if not b.get("industries_included"):
+                    b["industries_included"] = sorted({t.get("industry") for t in members if t.get("industry")})
+                if not b.get("color"):
+                    b["color"] = {"cybersecurity": "#E0564F"}.get(b.get("id"), "#8FA3B8")
                 earners = [t for t in members if (t.get("pe") or 0) > 0 and (t.get("market_cap_b") or 0) > 0]
                 w = sum(t["market_cap_b"] for t in earners)
                 b["pe_harmonic"] = round(w / sum(t["market_cap_b"] / t["pe"] for t in earners), 1) if earners else None

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-23T20:41:08+00:00",
-  "as_of_local": "2026-09-23 20:41:08 UTC",
+  "as_of_utc": "2026-09-23T20:41:46+00:00",
+  "as_of_local": "2026-09-23 20:41:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEVA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -367,34 +369,6 @@
           "published": "2026-09-16T20:12:20Z"
         }
       ]
-    },
-    {
-      "symbol": "CEVA",
-      "name": "CEVA",
-      "price": 33.62,
-      "previous_close": 32.25,
-      "change_pct": 4.25,
-      "market_cap": 946539870.5682068,
-      "headlines": [
-        {
-          "title": "Will AI Expansion Drive CEVA's Shares to Further Heights?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-expansion-drive-cevas-shares-164100938.html",
-          "publisher": "Zacks",
-          "published": "2026-09-21T16:41:00Z"
-        },
-        {
-          "title": "What Would Cadence Have To Keep Doing To Justify Its Price?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cadence-keep-doing-justify-price-194332435.html",
-          "publisher": "Trefis",
-          "published": "2026-09-16T19:43:32Z"
-        },
-        {
-          "title": "CEVA or SNPS: Which Semiconductor Stock Is Worth Buying Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-snps-semiconductor-stock-worth-134200209.html",
-          "publisher": "Zacks",
-          "published": "2026-09-14T13:42:00Z"
-        }
-      ]
     }
   ],
   "etfs": [
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 84400.14,
-      "change_pct": -2.06
+      "price": 84414.53,
+      "change_pct": -2.04
     },
     {
       "label": "Gold",
-      "price": 4322.0,
-      "change_pct": -1.24
+      "price": 4321.0,
+      "change_pct": -1.27
     },
     {
       "label": "Nasdaq100",

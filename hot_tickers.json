@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-23T22:27:52+00:00",
+  "as_of": "2026-09-23T22:43:04+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "OKTA",
    "company": "Okta Inc",
-   "move_pct": 7.37,
-   "price": 205.43,
+   "move_pct": 7.46,
+   "price": 205.61,
    "volume": 5466458,
    "volume_vs_avg": "~1.4x",
    "heat_score": 48,
@@ -25,10 +25,26 @@
   },
   {
    "rank": 2,
+   "ticker": "SNAP",
+   "company": "Snap Inc",
+   "move_pct": -5.52,
+   "price": 5.31,
+   "volume": 35887609,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 39,
+   "direction": "down",
+   "why": "Snap (SNAP) Dips More Than Broader Market: What You Should Know",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/snap-snap-dips-more-broader-220006335.html",
+   "published": "2026-09-23T22:00:06Z",
+   "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 3,
    "ticker": "PANW",
    "company": "Palo Alto Networks Inc",
-   "move_pct": 5.55,
-   "price": 392.4,
+   "move_pct": 5.53,
+   "price": 392.32,
    "volume": 6198749,
    "volume_vs_avg": "~1.0x",
    "heat_score": 39,
@@ -36,7 +52,7 @@
    "why": "Dow Jones Futures: Stocks Fall As Treasury Yields Soar; Palantir, Palo Alto Flash Buy Signals",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-treasury-yields-soar-palantir-palo-alto-buy-signal/?src=A00220&yptr=yahoo",
-   "published": "2026-09-23T22:06:17Z",
+   "published": "2026-09-23T22:26:01Z",
    "sector": "Cybersecurity"
   }
  ]

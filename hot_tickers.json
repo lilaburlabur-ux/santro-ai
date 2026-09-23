@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-23T15:24:43+00:00",
+  "as_of": "2026-09-23T15:39:56+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -13,7 +13,7 @@
    "company": "Trade Desk Inc",
    "move_pct": -8.68,
    "price": 12.68,
-   "volume": 9128073,
+   "volume": 10023665,
    "volume_vs_avg": "~0.4x",
    "heat_score": 57,
    "direction": "down",
@@ -27,17 +27,33 @@
    "rank": 2,
    "ticker": "APP",
    "company": "Applovin Corp",
-   "move_pct": -5.8,
-   "price": 311.01,
-   "volume": 3741882,
+   "move_pct": -5.55,
+   "price": 311.85,
+   "volume": 3903671,
    "volume_vs_avg": "~0.7x",
-   "heat_score": 39,
+   "heat_score": 38,
    "direction": "down",
-   "why": "AppLovin Drops 5% as Edgewater Warns Market Share Growth Has Stalled; Magnite Slips, Trade Desk Slips 3%",
+   "why": "AppLovin Stock Falls as Edgewater Sees Growth Hitting a Ceiling",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/applovin-drops-5-edgewater-warns-134813190.html",
-   "published": "2026-09-23T13:48:13Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/applovin-stock-falls-edgewater-sees-151421459.html",
+   "published": "2026-09-23T15:14:21Z",
    "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 3,
+   "ticker": "PLTR",
+   "company": "Palantir Technologies Inc",
+   "move_pct": 5.2,
+   "price": 192.6,
+   "volume": 19429201,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 36,
+   "direction": "up",
+   "why": "Michael Burry Shorts Micron, Palantir; Famed Investor Expects Chip 'Down Cycle'",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.investors.com/news/micron-technology-michael-burry-palantir-semiconductors-ai-stocks-nebius/?src=A00220&yptr=yahoo",
+   "published": "2026-09-23T15:18:48Z",
+   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

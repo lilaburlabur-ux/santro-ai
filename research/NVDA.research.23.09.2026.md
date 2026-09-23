@@ -39,7 +39,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | How Qualcomm is targeting agentic AI with its 2 new smartphone chips | Yahoo Finance Video | 2026-09-23 |
 | Nasdaq climbs higher, McDonald's investor day updates | Yahoo Finance Video | 2026-09-23 |
 | The AI panic, tech concentration, and Nvidia windfalls | Yahoo Finance Video | 2026-09-23 |
-| A Recession Is Coming Eventually. Here's Why I'm Not Worried. | Motley Fool | 2026-09-23 |
+| General Mills Reaffirms Full-Year Guidance as International Profit Jumps 14%. Is the Turnaround Finally Working? | Motley Fool | 2026-09-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $302.97B | Revenue growth 105.90% y/y |
 | Profitability | Gross 74.67%, operating 66.24%, net 63.66% | ROA 53.57%, ROE 117.21% |
 | Balance sheet | Cash $62.47B, debt $38.86B | Current ratio 4.59, debt/equity 16.97 |
-| Valuation | P/E 28.51, forward P/E 14.38, P/S 17.97, P/B 23.78 | EV/Sales 18.13, EV/EBITDA 27.29 |
+| Valuation | P/E 28.47, forward P/E 14.38, P/S 17.97, P/B 23.78 | EV/Sales 18.13, EV/EBITDA 27.29 |
 | Growth expectations | Earnings growth 127.80%, EPS q/q 125.90% | Analyst mean target $327.70 (59 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | SMA200 dist | +13.48% | Revenue (ttm) | $302.97B |
 | 52W high | $235.20 | Revenue growth y/y | 105.90% |
 | 52W low | $164.79 | Inst. ownership | 71.41% |
-| P/E (ttm) | 28.51 | Insider ownership | 4.01% |
+| P/E (ttm) | 28.47 | Insider ownership | 4.01% |
 | Forward P/E | 14.38 | Short float | 1.29% |
 | PEG (trailing) | 0.49 | Avg volume | 128,181,993 |
 | P/S | 17.97 | Employees | 42,000 |

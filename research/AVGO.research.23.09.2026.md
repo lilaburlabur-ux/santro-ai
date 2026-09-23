@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
-| Marvell Stock Ran, But Did It Tell You When? | Trefis | 2026-09-23 |
 | Nvidia Stock Falls. It Has a Google AI Chip Conundrum. | Barrons.com | 2026-09-23 |
+| Marvell Stock Ran, But Did It Tell You When? | Trefis | 2026-09-23 |
 | Broadcom Just Made a Move That Further Solidifies My Decision to Buy on Repeat | 24/7 Wall St. | 2026-09-23 |
-| What Changed In AMD's Story? | Trefis | 2026-09-23 |
+| AMD Just Joined the $1 Trillion Club as Chip and AI Stocks Rallied. What This Means for Investors. | Barchart | 2026-09-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

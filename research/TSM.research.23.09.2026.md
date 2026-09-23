@@ -37,9 +37,9 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Headline | Source | Date |
 |---|---|---|
 | Nasdaq rally hasn't stopped these tech stocks from flashing warning signs | Yahoo Finance | 2026-09-23 |
+| Arm vs. Taiwan Semiconductor Manufacturing: Which Chip Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-23 |
 | Not Intel. Not Nvidia. This Chip Giant Holds an Unbreakable Moat in Next-Gen Data Centers. | Motley Fool | 2026-09-23 |
-| Intel’s Price Targets Reveal Just How Much Is Riding on Its Turnaround | 24/7 Wall St. | 2026-09-23 |
-| Wall Street Bulls Look Optimistic About TSMC (TSM): Should You Buy? | Zacks | 2026-09-23 |
+| CPUs Are Hot Again: AMD’s Lisa Su Says the Real Demand Wave Hasn’t Even Started | Barchart | 2026-09-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.44T | Revenue growth 36.00% y/y |
 | Profitability | Gross 64.23%, operating 60.34%, net 49.92% | ROA 19.00%, ROE 39.97% |
 | Balance sheet | Cash $3.52T, debt $1.07T | Current ratio 2.46, debt/equity 16.50 |
-| Valuation | P/E 33.28, forward P/E 20.37, P/S 0.52, P/B 91.45 | EV/Sales 3.68, EV/EBITDA 5.16 |
+| Valuation | P/E 33.28, forward P/E 20.37, P/S 0.52, P/B 91.39 | EV/Sales 3.68, EV/EBITDA 5.16 |
 | Growth expectations | Earnings growth 77.40%, EPS q/q 77.40% | Analyst mean target $552.26 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -126,7 +126,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Forward P/E | 20.37 | Short float | 0.62% |
 | PEG (trailing) | 0.86 | Avg volume | 12,310,388 |
 | P/S | 0.52 | Employees | 76,907 |
-| P/B | 91.45 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 91.39 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

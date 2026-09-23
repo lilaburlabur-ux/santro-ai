@@ -37,9 +37,9 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Headline | Source | Date |
 |---|---|---|
 | AI magic sends markets higher, plus one-on-one with IBM vice chair | Yahoo Finance Video | 2026-09-23 |
+| Top Research Reports for Micron, Costco & Interactive Brokers | Zacks | 2026-09-23 |
 | Stock Market Today: Small Caps, Gold Miners Spanked Amid Sell-Off; Meta Makes A Bullish Move | Investor's Business Daily | 2026-09-23 |
 | Own ON Semiconductor For AI Power, Or Own Micron's Contracts? | Trefis | 2026-09-23 |
-| Chip Stocks Drop After Six-Day Climb For SOX Index | Investor's Business Daily | 2026-09-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

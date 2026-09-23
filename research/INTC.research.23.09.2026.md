@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | How Qualcomm is targeting agentic AI with its 2 new smartphone chips | Yahoo Finance Video | 2026-09-23 |
+| Own ON Semiconductor For AI Power, Or Own Micron's Contracts? | Trefis | 2026-09-23 |
+| Chip Stocks Drop After Six-Day Climb For SOX Index | Investor's Business Daily | 2026-09-23 |
 | Marvell Stock Ran, But Did It Tell You When? | Trefis | 2026-09-23 |
-| SoftBank Is Raising $11 Billion for OpenAI. Its Arm Stake Backs a $25 Billion Loan Facility | Insider Monkey | 2026-09-23 |
-| Here is Why Intel (INTC) is a Bad Investment at Today’s Price | Insider Monkey | 2026-09-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

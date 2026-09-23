@@ -39,7 +39,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | How Qualcomm is targeting agentic AI with its 2 new smartphone chips | Yahoo Finance Video | 2026-09-23 |
 | Nasdaq rally hasn't stopped these tech stocks from flashing warning signs | Yahoo Finance | 2026-09-23 |
 | The AI panic, tech concentration, and Nvidia windfalls | Yahoo Finance Video | 2026-09-23 |
-| AMD Is Up 187% This Year: Take Profits, or Buy More? | 24/7 Wall St. | 2026-09-23 |
+| Chip Stocks Drop After Six-Day Climb For SOX Index | Investor's Business Daily | 2026-09-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

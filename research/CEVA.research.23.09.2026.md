@@ -32,6 +32,15 @@ Signed file: `CEVA.research.23.09.2026`
 ## 2. Company Overview and Recent Catalysts
 CEVA, Inc. provides silicon and software intellectual property (IP) solutions to semiconductor and original equipment manufacturer companies in the United States, Europe, the Middle East, the Asia Pacific, and internationally.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Will AI Expansion Drive CEVA's Shares to Further Heights? | Zacks | 2026-09-21 |
+| What Would Cadence Have To Keep Doing To Justify Its Price? | Trefis | 2026-09-16 |
+| CEVA or SNPS: Which Semiconductor Stock Is Worth Buying Now? | Zacks | 2026-09-14 |
+| Analysing CEVA’s (CEVA) Growth in Neural Processing Markets | Insider Monkey | 2026-09-04 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-23T20:00:36+00:00",
-  "as_of_local": "2026-09-23 20:00:36 UTC",
+  "as_of_utc": "2026-09-23T20:05:45+00:00",
+  "as_of_local": "2026-09-23 20:05:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -35,10 +35,10 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 446.79,
+      "price": 446.74,
       "previous_close": 452.0,
-      "change_pct": -1.15,
-      "market_cap": 2317990792643.2197,
+      "change_pct": -1.16,
+      "market_cap": 2317005349918.46,
       "headlines": [
         {
           "title": "Nasdaq rally hasn't stopped these tech stocks from flashing warning signs",
@@ -75,25 +75,25 @@
           "published": "2026-09-23T19:05:16Z"
         },
         {
+          "title": "Nvidia Stock Falls. It Has a Google AI Chip Conundrum.",
+          "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-chips-google-2c231d8d?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-23T18:26:00Z"
+        },
+        {
           "title": "Broadcom Just Made a Move That Further Solidifies My Decision to Buy on Repeat",
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-just-made-move-further-154548147.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-23T15:45:48Z"
-        },
-        {
-          "title": "What Changed In AMD's Story?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-amds-story-150042231.html",
-          "publisher": "Trefis",
-          "published": "2026-09-23T15:00:42Z"
         }
       ]
     },
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 1071.52,
+      "price": 1071.88,
       "previous_close": 1096.16,
-      "change_pct": -2.25,
+      "change_pct": -2.22,
       "market_cap": 1210573936208.495,
       "headlines": [
         {
@@ -147,10 +147,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 122.61,
+      "price": 122.6,
       "previous_close": 123.86,
-      "change_pct": -1.01,
-      "market_cap": 644204918201.2291,
+      "change_pct": -1.02,
+      "market_cap": 648076497055.2435,
       "headlines": [
         {
           "title": "How Qualcomm is targeting agentic AI with its 2 new smartphone chips",
@@ -175,9 +175,9 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 332.8,
+      "price": 332.56,
       "previous_close": 333.2,
-      "change_pct": -0.12,
+      "change_pct": -0.19,
       "market_cap": 355173601499.2216,
       "headlines": [
         {
@@ -203,9 +203,9 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 261.11,
+      "price": 260.9,
       "previous_close": 262.36,
-      "change_pct": -0.48,
+      "change_pct": -0.56,
       "market_cap": 234472028046.44235,
       "headlines": [
         {
@@ -231,9 +231,9 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 197.28,
+      "price": 197.24,
       "previous_close": 198.27,
-      "change_pct": -0.5,
+      "change_pct": -0.52,
       "market_cap": 210664256322.9115,
       "headlines": [
         {
@@ -290,7 +290,7 @@
       "price": 121.66,
       "previous_close": 117.24,
       "change_pct": 3.77,
-      "market_cap": 17279403411.65039,
+      "market_cap": 17245209286.041107,
       "headlines": [
         {
           "title": "Entegris and Lattice Semiconductor Shares Are Soaring, What You Need To Know",
@@ -315,9 +315,9 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 156.01,
+      "price": 155.94,
       "previous_close": 160.9,
-      "change_pct": -3.04,
+      "change_pct": -3.08,
       "market_cap": 7924980393.9539795,
       "headlines": [
         {
@@ -371,9 +371,9 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 33.63,
+      "price": 33.62,
       "previous_close": 32.25,
-      "change_pct": 4.28,
+      "change_pct": 4.25,
       "market_cap": 946539870.5682068,
       "headlines": [
         {
@@ -401,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 61.82,
-      "change_pct": -2.83,
+      "price": 61.83,
+      "change_pct": -2.81,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -2.25,
-          "price": 1071.52,
+          "change_pct": -2.22,
+          "price": 1071.88,
           "currency": "USD"
         },
         {
@@ -445,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -3.77,
-          "price": 1815.93,
+          "change_pct": -3.73,
+          "price": 1816.57,
           "currency": "USD"
         },
         {
@@ -491,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 61.82,
-    "change_pct": -2.83,
+    "price": 61.83,
+    "change_pct": -2.81,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -2.25,
-        "price": 1071.52,
+        "change_pct": -2.22,
+        "price": 1071.88,
         "currency": "USD"
       },
       {
@@ -535,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -3.77,
-        "price": 1815.93,
+        "change_pct": -3.73,
+        "price": 1816.57,
         "currency": "USD"
       },
       {
@@ -580,18 +580,18 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7706.39,
-      "change_pct": -0.75
+      "price": 7706.05,
+      "change_pct": -0.76
     },
     {
       "label": "BTC",
-      "price": 84503.68,
-      "change_pct": -1.94
+      "price": 84303.13,
+      "change_pct": -2.17
     },
     {
       "label": "Gold",
-      "price": 4323.0,
-      "change_pct": -1.22
+      "price": 4319.7,
+      "change_pct": -1.3
     },
     {
       "label": "Nasdaq100",

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-23T01:10:23+00:00",
-  "as_of_local": "2026-09-23 01:10:23 UTC",
+  "as_of_utc": "2026-09-23T01:25:37+00:00",
+  "as_of_local": "2026-09-23 01:25:37 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -108,13 +106,41 @@
           "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-09-23T00:33:32Z"
+          "published": "2026-09-23T01:10:10Z"
         },
         {
           "title": "Micron's Memory Boom Is Facing a New Test",
           "url": "https://finance.yahoo.com/technology/articles/microns-memory-boom-facing-test-222431132.html",
           "publisher": "GuruFocus.com",
           "published": "2026-09-22T22:24:31Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 615.52,
+      "previous_close": 559.82,
+      "change_pct": 9.95,
+      "market_cap": 1018288956948.34,
+      "headlines": [
+        {
+          "title": "Should investors play AI bottlenecks over social media stocks?",
+          "url": "https://finance.yahoo.com/video/investors-play-ai-bottlenecks-over-173922161.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-09-22T17:39:22Z"
+        },
+        {
+          "title": "The return of the AI rally: What's fueling the latest push into tech?",
+          "url": "https://finance.yahoo.com/video/return-ai-rally-whats-fueling-125206390.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-09-22T12:52:06Z"
+        },
+        {
+          "title": "Shopify Stock Jumps on Meta Muse Deal: Time to Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/shopify-stock-jumps-meta-muse-232700314.html",
+          "publisher": "Zacks",
+          "published": "2026-09-22T23:27:00Z"
         }
       ]
     },
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 1.09,
-          "price": 1860000.0,
+          "change_pct": 1.3,
+          "price": 1864000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 2.62,
-          "price": 283750.0,
+          "change_pct": 2.53,
+          "price": 283500.0,
           "currency": "KRW"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -3.68,
-          "price": 497.0,
+          "change_pct": 4.63,
+          "price": 520.0,
           "currency": "TWD"
         },
         {
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -1.72,
-          "price": 171.0,
+          "change_pct": 2.92,
+          "price": 176.0,
           "currency": "TWD"
         }
       ]
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 1.09,
-        "price": 1860000.0,
+        "change_pct": 1.3,
+        "price": 1864000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 2.62,
-        "price": 283750.0,
+        "change_pct": 2.53,
+        "price": 283500.0,
         "currency": "KRW"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -3.68,
-        "price": 497.0,
+        "change_pct": 4.63,
+        "price": 520.0,
         "currency": "TWD"
       },
       {
@@ -545,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -1.72,
-        "price": 171.0,
+        "change_pct": 2.92,
+        "price": 176.0,
         "currency": "TWD"
       }
     ]
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 86602.76,
-      "change_pct": -0.0
+      "price": 86642.02,
+      "change_pct": 0.05
     },
     {
       "label": "Gold",
-      "price": 4395.5,
-      "change_pct": 0.26
+      "price": 4384.8,
+      "change_pct": 0.02
     },
     {
       "label": "Nasdaq100",

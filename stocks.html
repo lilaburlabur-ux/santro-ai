@@ -899,7 +899,7 @@ function showSector(g){
         <th class="num">Cap</th><th class="num">P/E</th><th class="num">Volume</th></tr></thead>
       <tbody>${rows}</tbody></table>
     <div class="sec-label">Finviz industries merged into this sector</div>
-    <div class="chips">${g.industries_included.map(i=>`<span class="chip">${i}</span>`).join("")}</div>`;
+    <div class="chips">${(g.industries_included||[]).map(i=>`<span class="chip">${i}</span>`).join("")}</div>`;
 }
 
 function showEcoOverview(){

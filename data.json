@@ -1,16 +1,16 @@
 {
-  "as_of_utc": "2026-09-23T15:55:33+00:00",
-  "as_of_local": "2026-09-23 15:55:33 UTC",
+  "as_of_utc": "2026-09-23T16:00:22+00:00",
+  "as_of_local": "2026-09-23 16:00:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 224.92,
+      "price": 224.79,
       "previous_close": 227.38,
-      "change_pct": -1.08,
-      "market_cap": 5431143195785.522,
+      "change_pct": -1.14,
+      "market_cap": 5427883483428.955,
       "headlines": [
         {
           "title": "IonQ is in 'the beginning of an exciting era,' CEO says as Nvidia deal lifts stock",
@@ -35,10 +35,10 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 447.41,
+      "price": 447.39,
       "previous_close": 445.14,
       "change_pct": 0.51,
-      "market_cap": 2320195139065.9204,
+      "market_cap": 2320350726955.165,
       "headlines": [
         {
           "title": "Nasdaq rally hasn't stopped these tech stocks from flashing warning signs",
@@ -63,11 +63,17 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 356.23,
+      "price": 355.83,
       "previous_close": 362.66,
-      "change_pct": -1.77,
-      "market_cap": 1700748842475.0151,
+      "change_pct": -1.88,
+      "market_cap": 1698362027542.5151,
       "headlines": [
+        {
+          "title": "Broadcom Just Made a Move That Further Solidifies My Decision to Buy on Repeat",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-just-made-move-further-154548147.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-23T15:45:48Z"
+        },
         {
           "title": "What Changed In AMD's Story?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/changed-amds-story-150042231.html",
@@ -79,22 +85,16 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-stock-could-turn-150009414.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-23T15:00:09Z"
-        },
-        {
-          "title": "Two Chip Giants, Two Very Different Dividends. Which One Pays You Better?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/two-chip-giants-two-very-143014042.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-23T14:30:14Z"
         }
       ]
     },
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 1074.94,
+      "price": 1076.7,
       "previous_close": 1043.96,
-      "change_pct": 2.97,
-      "market_cap": 1214447815377.19,
+      "change_pct": 3.14,
+      "market_cap": 1215465951170.6636,
       "headlines": [
         {
           "title": "AI magic sends markets higher, plus one-on-one with IBM vice chair",
@@ -119,10 +119,10 @@
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 613.07,
+      "price": 615.17,
       "previous_close": 615.52,
-      "change_pct": -0.4,
-      "market_cap": 1000821286678.8058,
+      "change_pct": -0.06,
+      "market_cap": 1004070095346.9852,
       "headlines": [
         {
           "title": "How Meta's Muse is driving a magic moment for the stock market",
@@ -147,10 +147,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 120.32,
+      "price": 120.27,
       "previous_close": 121.78,
-      "change_pct": -1.19,
-      "market_cap": 632277161105.275,
+      "change_pct": -1.24,
+      "market_cap": 631662879590.3463,
       "headlines": [
         {
           "title": "Chip Stocks Drop After Six-Day Climb For SOX Index",
@@ -175,10 +175,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 326.76,
+      "price": 325.95,
       "previous_close": 322.9,
-      "change_pct": 1.19,
-      "market_cap": 348973877628.43176,
+      "change_pct": 0.95,
+      "market_cap": 348178223909.3635,
       "headlines": [
         {
           "title": "ARM Vs. AMD: Who Is Going to Win the Agentic AI CPU Revival War?",
@@ -203,10 +203,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 258.64,
+      "price": 258.71,
       "previous_close": 257.38,
-      "change_pct": 0.49,
-      "market_cap": 232405018407.05765,
+      "change_pct": 0.52,
+      "market_cap": 232503862749.8693,
       "headlines": [
         {
           "title": "What Changed In AMD's Story?",
@@ -231,10 +231,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 196.48,
+      "price": 196.22,
       "previous_close": 194.23,
-      "change_pct": 1.16,
-      "market_cap": 209894925522.29315,
+      "change_pct": 1.02,
+      "market_cap": 209403936473.65045,
       "headlines": [
         {
           "title": "Meta\u2019s Muse just changed the AI game",
@@ -259,10 +259,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 234.15,
+      "price": 234.05,
       "previous_close": 232.41,
-      "change_pct": 0.75,
-      "market_cap": 59050546215.99399,
+      "change_pct": 0.71,
+      "market_cap": 58993807737.75601,
       "headlines": [
         {
           "title": "NXP Semiconductors (NXPI) Beats Stock Market Upswing: What Investors Need to Know",
@@ -287,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 121.06,
+      "price": 120.96,
       "previous_close": 117.24,
-      "change_pct": 3.26,
-      "market_cap": 17194184381.566406,
+      "change_pct": 3.17,
+      "market_cap": 17179271809.825195,
       "headlines": [
         {
           "title": "Entegris and Lattice Semiconductor Shares Are Soaring, What You Need To Know",
@@ -315,10 +315,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 159.46,
+      "price": 159.9,
       "previous_close": 160.9,
-      "change_pct": -0.89,
-      "market_cap": 8103869482.123444,
+      "change_pct": -0.62,
+      "market_cap": 8122164965.861938,
       "headlines": [
         {
           "title": "AeroVironment And 2 Top Automation Stocks To Watch",
@@ -371,10 +371,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 33.71,
+      "price": 33.69,
       "previous_close": 32.25,
-      "change_pct": 4.53,
-      "market_cap": 949073741.3441772,
+      "change_pct": 4.47,
+      "market_cap": 946539870.5682068,
       "headlines": [
         {
           "title": "Will AI Expansion Drive CEVA's Shares to Further Heights?",
@@ -401,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 62.04,
-      "change_pct": 0.75,
+      "price": 62.16,
+      "change_pct": 0.94,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 2.97,
-          "price": 1074.94,
+          "change_pct": 3.14,
+          "price": 1076.7,
           "currency": "USD"
         },
         {
@@ -445,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 3.53,
-          "price": 1828.92,
+          "change_pct": 3.64,
+          "price": 1830.97,
           "currency": "USD"
         },
         {
@@ -454,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 4.31,
-          "price": 915.15,
+          "change_pct": 4.43,
+          "price": 916.18,
           "currency": "USD"
         },
         {
@@ -463,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 3.72,
-          "price": 464.83,
+          "change_pct": 3.78,
+          "price": 465.12,
           "currency": "USD"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 3.62,
-          "price": 515.0,
+          "change_pct": -3.68,
+          "price": 497.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 0.88,
-          "price": 172.5,
+          "change_pct": -1.72,
+          "price": 171.0,
           "currency": "TWD"
         }
       ]
@@ -491,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 62.04,
-    "change_pct": 0.75,
+    "price": 62.16,
+    "change_pct": 0.94,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 2.97,
-        "price": 1074.94,
+        "change_pct": 3.14,
+        "price": 1076.7,
         "currency": "USD"
       },
       {
@@ -535,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 3.53,
-        "price": 1828.92,
+        "change_pct": 3.64,
+        "price": 1830.97,
         "currency": "USD"
       },
       {
@@ -544,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 4.31,
-        "price": 915.15,
+        "change_pct": 4.43,
+        "price": 916.18,
         "currency": "USD"
       },
       {
@@ -553,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 3.72,
-        "price": 464.83,
+        "change_pct": 3.78,
+        "price": 465.12,
         "currency": "USD"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 3.62,
-        "price": 515.0,
+        "change_pct": -3.68,
+        "price": 497.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 0.88,
-        "price": 172.5,
+        "change_pct": -1.72,
+        "price": 171.0,
         "currency": "TWD"
       }
     ]
@@ -580,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7717.33,
-      "change_pct": -0.61
+      "price": 7715.93,
+      "change_pct": -0.63
     },
     {
       "label": "BTC",
-      "price": 84057.9,
-      "change_pct": -2.45
+      "price": 84040.12,
+      "change_pct": -2.47
     },
     {
       "label": "Gold",
-      "price": 4320.6,
-      "change_pct": -1.28
+      "price": 4314.8,
+      "change_pct": -1.41
     },
     {
       "label": "Nasdaq100",
-      "price": 30457.89,
-      "change_pct": -0.08
+      "price": 30454.86,
+      "change_pct": -0.09
     }
   ]
 }

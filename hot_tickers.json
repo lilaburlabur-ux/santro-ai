@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-23T13:33:06+00:00",
+  "as_of": "2026-09-23T13:48:23+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,12 +9,28 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "TTD",
+   "company": "Trade Desk Inc",
+   "move_pct": -7.8,
+   "price": 12.8,
+   "volume": 3029535,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 43,
+   "direction": "down",
+   "why": "Will OPRX's OpenPath Deal Help TTD Capture More Healthcare Ad Dollars?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/media-advertising/articles/oprxs-openpath-deal-help-ttd-131400120.html",
+   "published": "2026-09-23T13:14:00Z",
+   "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 2,
    "ticker": "APP",
    "company": "Applovin Corp",
-   "move_pct": -5.94,
-   "price": 310.56,
-   "volume": 872047,
-   "volume_vs_avg": "~0.2x",
+   "move_pct": -5.95,
+   "price": 310.52,
+   "volume": 1480094,
+   "volume_vs_avg": "~0.3x",
    "heat_score": 37,
    "direction": "down",
    "why": "AppLovin Shares Fall 3.5% as Edgewater Flags Slower Market Share Expansion",
@@ -22,6 +38,38 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/applovin-shares-fall-3-5-124507606.html",
    "published": "2026-09-23T12:45:07Z",
    "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 3,
+   "ticker": "PLTR",
+   "company": "Palantir Technologies Inc",
+   "move_pct": 5.32,
+   "price": 192.83,
+   "volume": 6215635,
+   "volume_vs_avg": "~0.2x",
+   "heat_score": 35,
+   "direction": "up",
+   "why": "Palantir Could Be a Major Winner as Air Traffic Control Goes AI",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.barrons.com/articles/palantir-stock-ai-faa-air-traffic-control-373cce03?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-09-23T12:41:00Z",
+   "sector": "AI Software & Cloud Infrastructure"
+  },
+  {
+   "rank": 4,
+   "ticker": "INTU",
+   "company": "Intuit Inc",
+   "move_pct": -5.36,
+   "price": 287.81,
+   "volume": 377870,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 34,
+   "direction": "down",
+   "why": "Intuit Crashed Over Agentic AI Fears in 2026: One Wall Street Analyst Says Nope, Near 50% Gains on the Way",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/intuit-crashed-over-agentic-ai-132427512.html",
+   "published": "2026-09-23T13:24:27Z",
+   "sector": "AI Applications & Data Software"
   }
  ]
 }

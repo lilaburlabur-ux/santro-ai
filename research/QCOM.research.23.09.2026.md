@@ -37,9 +37,9 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Headline | Source | Date |
 |---|---|---|
 | How Qualcomm is transforming the car into a 'digital computer on wheels': CEO explains | Yahoo Finance Video | 2026-09-23 |
+| Qualcomm Unveils Personal AI Push With Snapdragon-Powered Glasses, Hearables and PCs | MarketBeat | 2026-09-23 |
 | Qualcomm Takes AI To The Edge With New Mobile Chips | Investor's Business Daily | 2026-09-23 |
 | Marvell Stock Ran, But Did It Tell You When? | Trefis | 2026-09-23 |
-| QUALCOMM (QCOM) Draws Fresh AI Focus As Valuation Looks Close To Fair Value | Simply Wall St. | 2026-09-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

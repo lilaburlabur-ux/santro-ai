@@ -1,11 +1,39 @@
 {
-  "as_of_utc": "2026-09-23T13:19:07+00:00",
-  "as_of_local": "2026-09-23 13:19:07 UTC",
+  "as_of_utc": "2026-09-23T13:28:00+00:00",
+  "as_of_local": "2026-09-23 13:28:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
     "NVDA"
   ],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 227.38,
+      "previous_close": 222.27,
+      "change_pct": 2.3,
+      "market_cap": 5526523890000.0,
+      "headlines": [
+        {
+          "title": "Nasdaq climbs to record high off the back of revived AI trade",
+          "url": "https://finance.yahoo.com/video/nasdaq-climbs-record-high-off-125323424.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-09-23T12:53:23Z"
+        },
+        {
+          "title": "Should investors play AI bottlenecks over social media stocks?",
+          "url": "https://finance.yahoo.com/video/investors-play-ai-bottlenecks-over-173922161.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-09-22T17:39:22Z"
+        },
+        {
+          "title": "Silver Stocks Are Turning High Margins Into Dividends for Shareholders. 1 Precious Metals Stock to Buy Right Now.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/silver-stocks-turning-high-margins-132000043.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-23T13:20:00Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -77,16 +105,16 @@
           "published": "2026-09-22T14:16:01Z"
         },
         {
+          "title": "Micron Wall Street Target Hits $2,000 as Traders Pile In Before Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-wall-street-target-hits-132024489.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-23T13:20:24Z"
+        },
+        {
           "title": "Micron vs. Sandisk: Which AI Memory Stock Has More Room to Run?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-sandisk-ai-memory-131100845.html",
           "publisher": "Motley Fool",
           "published": "2026-09-23T13:11:00Z"
-        },
-        {
-          "title": "Micron Technology Shares Edge Lower Ahead of Fiscal Q4 Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-shares-edge-lower-125050970.html",
-          "publisher": "InvestorsHub",
-          "published": "2026-09-23T12:50:50Z"
         }
       ]
     },
@@ -105,16 +133,16 @@
           "published": "2026-09-23T10:00:00Z"
         },
         {
-          "title": "Nvidia Stock Set For 40% Surge: 3 Catalysts That Could Drive the Next Big Move",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-set-40-surge-130024665.html",
+          "title": "AMD Is Up 293% in a Year and Still Climbing. This is Where It\u2019ll Trade in 2027",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-293-still-climbing-where-131131095.html",
           "publisher": "24/7 Wall St.",
-          "published": "2026-09-23T13:00:24Z"
+          "published": "2026-09-23T13:11:31Z"
         },
         {
-          "title": "Pay Attention, Wall Street Is Actively Re-Rating AMD as It Crosses $1 Trillion",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pay-attention-wall-street-actively-123708941.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-23T12:37:08Z"
+          "title": "Is It Too Late To Buy Micron Stock After Its Record Memory Run?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/too-buy-micron-stock-record-130132681.html",
+          "publisher": "Trefis",
+          "published": "2026-09-23T13:01:32Z"
         }
       ]
     },
@@ -124,7 +152,7 @@
       "price": 121.78,
       "previous_close": 108.6,
       "change_pct": 12.14,
-      "market_cap": 650825629375.9,
+      "market_cap": 654736997751.32,
       "headlines": [
         {
           "title": "Intel stock up 25% in last 5 days on CPU demand as AI agents gain traction",
@@ -223,10 +251,10 @@
           "published": "2026-09-22T21:25:00Z"
         },
         {
-          "title": "Sandisk, Super Micro, IonQ, Six Flags, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-91bb194a?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-23T10:18:00Z"
+          "title": "Is It Too Late To Buy Micron Stock After Its Record Memory Run?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/too-buy-micron-stock-record-130132681.html",
+          "publisher": "Trefis",
+          "published": "2026-09-23T13:01:32Z"
         }
       ]
     },
@@ -264,7 +292,7 @@
       "price": 117.24,
       "previous_close": 110.96,
       "change_pct": 5.66,
-      "market_cap": 17402969228.16,
+      "market_cap": 17368530578.77,
       "headlines": [
         {
           "title": "Entegris and Lattice Semiconductor Shares Are Soaring, What You Need To Know",
@@ -559,13 +587,13 @@
     },
     {
       "label": "BTC",
-      "price": 85390.0,
-      "change_pct": -0.91
+      "price": 85537.77,
+      "change_pct": -0.74
     },
     {
       "label": "Gold",
-      "price": 4338.8,
-      "change_pct": -0.86
+      "price": 4340.1,
+      "change_pct": -0.83
     },
     {
       "label": "Nasdaq100",

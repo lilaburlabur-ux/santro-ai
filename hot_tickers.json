@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-23T00:50:04+00:00",
+  "as_of": "2026-09-23T01:30:03+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -81,30 +81,14 @@
    "volume_vs_avg": "~0.9x",
    "heat_score": 62,
    "direction": "up",
-   "why": "Qualcomm Launches Two New Smartphone Chips As AI Push Intensifies \u2014 QCOM Stock Edges Lower After-Hours",
+   "why": "Qualcomm Unveils Snapdragon 8 Elite Gen 6, Bets Big on Agentic AI",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-launches-two-smartphone-chips-214740145.html",
-   "published": "2026-09-22T21:47:40Z",
+   "source_url": "https://tech.yahoo.com/ai/gemini/articles/qualcomm-unveils-snapdragon-8-elite-010207361.html",
+   "published": "2026-09-23T01:02:07Z",
    "sector": "AI Chips & Compute"
   },
   {
    "rank": 6,
-   "ticker": "LSCC",
-   "company": "Lattice Semiconductor Corp",
-   "move_pct": 5.66,
-   "price": 117.24,
-   "volume": 2581738,
-   "volume_vs_avg": "~2x",
-   "heat_score": 43,
-   "direction": "up",
-   "why": "Entegris and Lattice Semiconductor Shares Are Soaring, What You Need To Know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/entegris-lattice-semiconductor-shares-soaring-210946251.html",
-   "published": "2026-09-22T21:09:46Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 7,
    "ticker": "SMCI",
    "company": "Super Micro Computer Inc",
    "move_pct": 5.4,

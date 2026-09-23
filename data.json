@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-23T02:46:14+00:00",
-  "as_of_local": "2026-09-23 02:46:14 UTC",
+  "as_of_utc": "2026-09-23T02:51:12+00:00",
+  "as_of_local": "2026-09-23 02:51:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -181,12 +181,6 @@
       "market_cap": 355857123190.8,
       "headlines": [
         {
-          "title": "Stocks Settle Mixed as Chipmakers Climb and Financial Stocks Fall",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-mixed-chipmakers-climb-203442164.html",
-          "publisher": "Barchart",
-          "published": "2026-09-22T20:34:42Z"
-        },
-        {
           "title": "AMD Stock Just Sent a Huge AI Signal",
           "url": "https://finance.yahoo.com/technology/ai/articles/amd-stock-just-sent-huge-190755384.html",
           "publisher": "GuruFocus.com",
@@ -197,6 +191,12 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/arm-gains-1-5-agentic-184537508.html",
           "publisher": "GuruFocus.com",
           "published": "2026-09-22T18:45:37Z"
+        },
+        {
+          "title": "Arm Stock: Too Good to Sell, Too Expensive to Buy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-too-good-sell-182431532.html",
+          "publisher": "Barchart",
+          "published": "2026-09-22T18:24:31Z"
         }
       ]
     },
@@ -265,12 +265,6 @@
       "market_cap": 59906642817.18,
       "headlines": [
         {
-          "title": "Stocks Settle Mixed as Chipmakers Climb and Financial Stocks Fall",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-mixed-chipmakers-climb-203442164.html",
-          "publisher": "Barchart",
-          "published": "2026-09-22T20:34:42Z"
-        },
-        {
           "title": "NXP Semiconductors (NXPI) Beats Stock Market Upswing: What Investors Need to Know",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-beats-stock-221504499.html",
           "publisher": "Zacks",
@@ -281,6 +275,12 @@
           "url": "https://www.barrons.com/articles/macom-stock-bmo-upgrade-ai-chips-f0be4a1d?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-09-18T17:47:00Z"
+        },
+        {
+          "title": "NXP Semiconductors' COO Sells 1,000 Shares",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-coo-sells-1-174501385.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-18T17:45:01Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 0.05,
-          "price": 1841000.0,
+          "change_pct": 0.11,
+          "price": 1842000.0,
           "currency": "KRW"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 0.05,
-        "price": 1841000.0,
+        "change_pct": 0.11,
+        "price": 1842000.0,
         "currency": "KRW"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 86513.37,
-      "change_pct": -0.1
+      "price": 86452.49,
+      "change_pct": -0.17
     },
     {
       "label": "Gold",
-      "price": 4375.4,
-      "change_pct": -0.19
+      "price": 4372.0,
+      "change_pct": -0.27
     },
     {
       "label": "Nasdaq100",

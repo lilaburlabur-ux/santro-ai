@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-23T09:03:39+00:00",
-  "as_of_local": "2026-09-23 09:03:39 UTC",
+  "as_of_utc": "2026-09-23T09:08:42+00:00",
+  "as_of_local": "2026-09-23 09:08:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -152,7 +150,7 @@
       "price": 121.78,
       "previous_close": 108.6,
       "change_pct": 12.14,
-      "market_cap": 654736997751.32,
+      "market_cap": 650825629375.9,
       "headlines": [
         {
           "title": "Intel stock up 25% in last 5 days on CPU demand as AI agents gain traction",
@@ -171,6 +169,34 @@
           "url": "https://www.barrons.com/articles/meta-connect-2026-muse-ai-1c069cf1?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-09-23T07:15:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 322.9,
+      "previous_close": 275.61,
+      "change_pct": 17.16,
+      "market_cap": 355857123190.8,
+      "headlines": [
+        {
+          "title": "AeroVironment And 2 Top Automation Stocks To Watch",
+          "url": "https://finance.yahoo.com/technology/articles/aerovironment-2-top-automation-stocks-061533121.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-23T06:15:33Z"
+        },
+        {
+          "title": "3 Trending AI Stocks to Watch: ARM, AMD, and CRWV",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-trending-ai-stocks-watch-200000745.html",
+          "publisher": "Zacks",
+          "published": "2026-09-22T20:00:00Z"
+        },
+        {
+          "title": "AMD Stock Just Sent a Huge AI Signal",
+          "url": "https://finance.yahoo.com/technology/ai/articles/amd-stock-just-sent-huge-190755384.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-22T19:07:55Z"
         }
       ]
     },
@@ -264,7 +290,7 @@
       "price": 117.24,
       "previous_close": 110.96,
       "change_pct": 5.66,
-      "market_cap": 17368530578.77,
+      "market_cap": 17402969228.16,
       "headlines": [
         {
           "title": "Entegris and Lattice Semiconductor Shares Are Soaring, What You Need To Know",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 85941.8,
-      "change_pct": -0.76
+      "price": 85982.41,
+      "change_pct": -0.72
     },
     {
       "label": "Gold",
-      "price": 4355.0,
-      "change_pct": -0.49
+      "price": 4355.9,
+      "change_pct": -0.47
     },
     {
       "label": "Nasdaq100",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-23T00:35:01+00:00",
-  "as_of_local": "2026-09-23 00:35:01 UTC",
+  "as_of_utc": "2026-09-23T00:40:03+00:00",
+  "as_of_local": "2026-09-23 00:40:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-09-22T13:23:29Z"
         },
         {
-          "title": "Why Marathon Petroleum Stock Slipped Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-marathon-petroleum-stock-slipped-001243692.html",
+          "title": "Why This Top Automaker's Gamble on V-8 Engines During a Hybrid Boom Actually Makes Sense",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-top-automakers-gamble-v-002500855.html",
           "publisher": "Motley Fool",
-          "published": "2026-09-23T00:12:43Z"
+          "published": "2026-09-23T00:25:00Z"
         }
       ]
     },
@@ -193,10 +195,10 @@
           "published": "2026-09-22T18:45:37Z"
         },
         {
-          "title": "Arm Just Got a Major Vote of Confidence From Its CEO",
-          "url": "https://finance.yahoo.com/technology/ai/articles/arm-just-got-major-vote-123419524.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-09-22T12:34:19Z"
+          "title": "Arm Stock: Too Good to Sell, Too Expensive to Buy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-too-good-sell-182431532.html",
+          "publisher": "Barchart",
+          "published": "2026-09-22T18:24:31Z"
         }
       ]
     },
@@ -341,34 +343,6 @@
       ]
     },
     {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 95.36,
-      "previous_close": 93.11,
-      "change_pct": 2.42,
-      "market_cap": 3875567205.32,
-      "headlines": [
-        {
-          "title": "CEO Claims Investors Got It Wrong on $30 Billion Shortfall as ON Stock Plummets 9%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ceo-claims-investors-got-wrong-163516827.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-17T16:35:16Z"
-        },
-        {
-          "title": "How Investors May Respond To Synaptics (SYNA) Tactile Sensing Integration With NVIDIA Isaac Sim",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-synaptics-syna-201220953.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-16T20:12:20Z"
-        },
-        {
-          "title": "Analog Devices to Acquire Alif Semiconductor for $1.35 Billion",
-          "url": "https://finance.yahoo.com/technology/ai/articles/analog-devices-acquire-alif-semiconductor-152036566.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-09T15:20:36Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 32.25,
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 1.96,
-          "price": 1876000.0,
+          "change_pct": 1.74,
+          "price": 1872000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 2.89,
-          "price": 284500.0,
+          "change_pct": 2.53,
+          "price": 283500.0,
           "currency": "KRW"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 1.96,
-        "price": 1876000.0,
+        "change_pct": 1.74,
+        "price": 1872000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 2.89,
-        "price": 284500.0,
+        "change_pct": 2.53,
+        "price": 283500.0,
         "currency": "KRW"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 86530.66,
-      "change_pct": -0.08
+      "price": 86465.4,
+      "change_pct": -0.16
     },
     {
       "label": "Gold",
-      "price": 4397.9,
-      "change_pct": 0.32
+      "price": 4397.3,
+      "change_pct": 0.31
     },
     {
       "label": "Nasdaq100",

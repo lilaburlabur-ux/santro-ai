@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-24T22:10:22+00:00",
+  "as_of": "2026-09-24T22:25:31+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "PUBM",
+   "company": "PubMatic Inc",
+   "move_pct": 5.3,
+   "price": 18.38,
+   "volume": 1528997,
+   "volume_vs_avg": "~2x",
+   "heat_score": 45,
+   "direction": "up",
+   "why": "Why Is PubMatic (PUBM) Stock Soaring Today",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-pubmatic-pubm-stock-soaring-220858951.html",
+   "published": "2026-09-24T22:08:58Z",
+   "sector": "AI Applications & Data Software"
+  }
+ ]
 }

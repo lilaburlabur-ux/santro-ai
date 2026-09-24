@@ -37,9 +37,9 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Headline | Source | Date |
 |---|---|---|
 | Meta's new AI device changes everything | Yahoo Finance Video | 2026-09-24 |
-| How Qualcomm is transforming the car into a 'digital computer on wheels': CEO explains | Yahoo Finance Video | 2026-09-23 |
 | Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal. | Investor's Business Daily | 2026-09-24 |
 | Qualcomm Renews Deal With Apple. Why the Stock Is Dropping Anyway. | Barrons.com | 2026-09-24 |
+| Oracle, Qualcomm, Meta, Everpure, BlackBerry, MGM, Nebius, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

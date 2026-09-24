@@ -36,10 +36,10 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
+| Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal. | Investor's Business Daily | 2026-09-24 |
 | Amazon Blocks Meta's Muse. It Could Be a Gift for Walmart and Shopify | Motley Fool | 2026-09-24 |
 | Arm Drops 3.3% as More AI Cores Test Royalty Economics | GuruFocus.com | 2026-09-24 |
 | Bank of America Just Told Investors to Sell UPS, and the Reason Has Nothing to Do With Package Volume | 24/7 Wall St. | 2026-09-24 |
-| Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal. | Investor's Business Daily | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

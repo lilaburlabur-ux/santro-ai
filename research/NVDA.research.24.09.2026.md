@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Nvidia's valuation is falling, but it might not be a warning sign | Yahoo Finance Video | 2026-09-24 |
 | Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck | Yahoo Finance | 2026-09-24 |
-| Nvidia CEO Sends Stark Warning to AI Industry | GuruFocus.com | 2026-09-24 |
-| Why Kinross Gold Stock Is Crashing Today | Motley Fool | 2026-09-24 |
+| Why Shares of Knife River Were Moving Higher Today | Motley Fool | 2026-09-24 |
+| IBM's New Swift Connection Is One More Headache for XRP Investors | Motley Fool | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -123,7 +123,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | 52W low | $164.79 | Inst. ownership | 71.42% |
 | P/E (ttm) | 28.36 | Insider ownership | 4.01% |
 | Forward P/E | 14.32 | Short float | 1.29% |
-| PEG (trailing) | 0.49 | Avg volume | 127,194,731 |
+| PEG (trailing) | 0.48 | Avg volume | 127,194,731 |
 | P/S | 17.90 | Employees | 42,000 |
 | P/B | 23.68 | Analyst rec (1=buy..5=sell) | 1.3 |
 

@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
-| 9-24-2026: Trump-Xi Summit, Surging Yields + AI Disruption Trade Fears | NYSE | 2026-09-24 |
-| Micron Just Rallied 17% in a Month: Take Profits, or Buy More? | 24/7 Wall St. | 2026-09-24 |
-| Why Everpure Is Today’s Best Stock in the S&P 500 | Barrons.com | 2026-09-24 |
-| Will Sandisk or Micron Perform a Stock Split Next Year? | Motley Fool | 2026-09-24 |
+| Stock Market Today: Dow Slides As Treasury Yields Surge; Nvidia Slips While Micron Rises | Investor's Business Daily | 2026-09-24 |
+| Micron vs. Sandisk: Which AI Memory Stock Is the Better Buy? | Insider Monkey | 2026-09-24 |
+| AMD and Micron Get New Price Targets as Taiwan Chip Exports Hit Record $30.8B | BeInCrypto | 2026-09-24 |
+| How Micron Stock Could Rise Another 50% | Barrons.com | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

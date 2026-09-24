@@ -36,10 +36,10 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
-| Stocks Pressured by Rising Crude Prices | Barchart | 2026-09-24 |
 | Own ON Semiconductor For AI Power, Or Own Micron's Contracts? | Trefis | 2026-09-23 |
 | NXP Semiconductors (NXPI) Beats Stock Market Upswing: What Investors Need to Know | Zacks | 2026-09-21 |
 | This Little-Known Chip Stock Has Doubled. Wall Street Is Getting Bullish. | Barrons.com | 2026-09-18 |
+| NXP Semiconductors' COO Sells 1,000 Shares | Motley Fool | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

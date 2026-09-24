@@ -18,7 +18,7 @@ Signed file: `AVAV.research.24.09.2026`
 | Technical momentum | Low | Below SMA200 (-22.73%) with negative half-year (-19.18%). |
 | Fresh setup quality | Poor / broken | -61.31% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-10.13%). |
-| Value attractiveness | Low (expensive) | Forward P/E 35.57, EV/Sales 4.08. |
+| Value attractiveness | Low (expensive) | Forward P/E 35.57, EV/Sales 4.14. |
 | Risk level | High | Beta 1.41, ATR 5.8% of price, short float 11.21%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: low (expensive), risk: high.
@@ -68,7 +68,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Revenue (ttm) | $2.00B | Revenue growth 5.70% y/y |
 | Profitability | Gross 26.47%, operating -2.27%, net -10.13% | ROA -0.13%, ROE -4.60% |
 | Balance sheet | Cash $580.23M, debt $850.82M | Current ratio 4.26, debt/equity 19.35 |
-| Valuation | P/E —, forward P/E 35.57, P/S 4.02, P/B 1.83 | EV/Sales 4.08, EV/EBITDA 37.32 |
+| Valuation | P/E —, forward P/E 35.57, P/S 4.02, P/B 1.83 | EV/Sales 4.14, EV/EBITDA 37.92 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $219.35 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Van Eck Associates Corporation | 612,915 | 1.21% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 35.57, EV/Sales 4.08. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 35.57, EV/Sales 4.14. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.41, ATR 5.8% of price, short float 11.21%. Size positions accordingly.
 - **Short interest risk:** short float 11.21% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
@@ -114,8 +114,8 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $158.55 | EV/Sales | 4.08 |
-| Market cap | $8.06B | EV/EBITDA | 37.32 |
+| Price | $158.55 | EV/Sales | 4.14 |
+| Market cap | $8.06B | EV/EBITDA | 37.92 |
 | Beta | 1.41 | Gross margin | 26.47% |
 | RSI(14) | 52.1 | Operating margin | -2.27% |
 | ATR(14) | 9.13 | Profit margin | -10.13% |

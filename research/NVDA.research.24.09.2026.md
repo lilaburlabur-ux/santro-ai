@@ -18,7 +18,7 @@ Signed file: `NVDA.research.24.09.2026`
 | Technical momentum | Moderate | 1Y +26.17%; price +12.90% vs SMA200. |
 | Fresh setup quality | Watch | -4.52% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Strong | Profit margin 63.66%, revenue growth 105.90%. |
-| Value attractiveness | Reasonable | Forward P/E 14.32, EV/Sales 17.86. |
+| Value attractiveness | Reasonable | Forward P/E 14.32, EV/Sales 17.78. |
 | Risk level | High | Beta 2.22, ATR 2.7% of price, short float 1.29%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Nvidia's valuation is falling, but it might not be a warning sign | Yahoo Finance Video | 2026-09-24 |
 | Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck | Yahoo Finance | 2026-09-24 |
-| Netflix's Revenue Growth Has Slowed for 2 Straight Quarters. Should You Buy the Stock Anyway? | Motley Fool | 2026-09-24 |
-| Should You Buy SoFi Stock Before Oct. 27? | Motley Fool | 2026-09-24 |
+| Oracle Wants Protection If Its AI Data Center Is Delayed. Here's What That Changes for Investors. | Motley Fool | 2026-09-24 |
+| Why H.B. Fuller Stock Dipped on Thursday | Motley Fool | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $302.97B | Revenue growth 105.90% y/y |
 | Profitability | Gross 74.67%, operating 66.24%, net 63.66% | ROA 53.57%, ROE 117.21% |
 | Balance sheet | Cash $62.47B, debt $38.86B | Current ratio 4.59, debt/equity 16.97 |
-| Valuation | P/E 28.36, forward P/E 14.32, P/S 17.90, P/B 23.68 | EV/Sales 17.86, EV/EBITDA 26.89 |
+| Valuation | P/E 28.36, forward P/E 14.32, P/S 17.90, P/B 23.68 | EV/Sales 17.78, EV/EBITDA 26.76 |
 | Growth expectations | Earnings growth 127.80%, EPS q/q 125.90% | Analyst mean target $327.70 (59 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,8 +111,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $224.58 | EV/Sales | 17.86 |
-| Market cap | $5.42T | EV/EBITDA | 26.89 |
+| Price | $224.58 | EV/Sales | 17.78 |
+| Market cap | $5.42T | EV/EBITDA | 26.76 |
 | Beta | 2.22 | Gross margin | 74.67% |
 | RSI(14) | 54.8 | Operating margin | 66.24% |
 | ATR(14) | 6.02 | Profit margin | 63.66% |

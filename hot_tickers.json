@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-24T16:40:50+00:00",
+  "as_of": "2026-09-24T16:46:07+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "ARM",
+   "company": "Arm Holdings Plc ADR",
+   "move_pct": -5.29,
+   "price": 314.98,
+   "volume": 5458728,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 40,
+   "direction": "down",
+   "why": "Critical Role of ARM Holdings (ARM) In Powering the Next Wave of Agentic AI",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/critical-role-arm-holdings-arm-143253236.html",
+   "published": "2026-09-24T14:32:53Z",
+   "sector": "AI Chips & Compute"
+  }
+ ]
 }

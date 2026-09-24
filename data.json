@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-24T06:04:19+00:00",
-  "as_of_local": "2026-09-24 06:04:19 UTC",
+  "as_of_utc": "2026-09-24T06:20:06+00:00",
+  "as_of_local": "2026-09-24 06:20:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/video/ai-panic-tech-concentration-nvidia-100000476.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-09-23T10:00:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 122.6,
-      "previous_close": 123.86,
-      "change_pct": -1.02,
-      "market_cap": 644204918201.2291,
-      "headlines": [
-        {
-          "title": "How Qualcomm is targeting agentic AI with its 2 new smartphone chips",
-          "url": "https://finance.yahoo.com/video/qualcomm-targeting-agentic-ai-2-195058732.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-09-23T19:50:58Z"
-        },
-        {
-          "title": "Intel (INTC) Stock Looks Fully Priced After Its 293% Run",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-looks-fully-043012245.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-24T04:30:12Z"
-        },
-        {
-          "title": "VYM\u2019s Index Buys on Forecast Yield, So It Held Intel and Walgreens Right Into Their Dividend Cuts",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vym-index-buys-forecast-yield-223559545.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-23T22:35:59Z"
         }
       ]
     },
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 0.71,
-          "price": 54960.0,
+          "change_pct": -0.27,
+          "price": 54420.0,
           "currency": "JPY"
         },
         {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 0.71,
-        "price": 54960.0,
+        "change_pct": -0.27,
+        "price": 54420.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 83998.15,
-      "change_pct": -2.52
+      "price": 84182.39,
+      "change_pct": -2.31
     },
     {
       "label": "Gold",
-      "price": 4316.2,
-      "change_pct": -0.05
+      "price": 4318.7,
+      "change_pct": 0.01
     },
     {
       "label": "Nasdaq100",

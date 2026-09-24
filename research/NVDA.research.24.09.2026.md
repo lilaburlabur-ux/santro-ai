@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Nvidia's valuation is falling, but it might not be a warning sign | Yahoo Finance Video | 2026-09-24 |
 | Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck | Yahoo Finance | 2026-09-24 |
-| Why Shares of Knife River Were Moving Higher Today | Motley Fool | 2026-09-24 |
-| IBM's New Swift Connection Is One More Headache for XRP Investors | Motley Fool | 2026-09-24 |
+| Netflix's Revenue Growth Has Slowed for 2 Straight Quarters. Should You Buy the Stock Anyway? | Motley Fool | 2026-09-24 |
+| Should You Buy SoFi Stock Before Oct. 27? | Motley Fool | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -18,7 +18,7 @@ Signed file: `AVGO.research.24.09.2026`
 | Technical momentum | Moderate | 1Y +4.14%; price -4.60% vs SMA200. |
 | Fresh setup quality | Poor / broken | -27.00% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 42.94%, revenue growth 85.50%. |
-| Value attractiveness | Reasonable | Forward P/E 18.08, EV/Sales 19.42. |
+| Value attractiveness | Reasonable | Forward P/E 18.07, EV/Sales 19.42. |
 | Risk level | Elevated | Beta 1.46, ATR 3.2% of price, short float 1.08%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Broadcom (AVGO) Stock May Be 24% Undervalued Following Fresh AI Demand Fears | Simply Wall St. | 2026-09-24 |
 | Broadcom's Latest Prediction Makes the Stock a No-Brainer Buy Right Now | Motley Fool | 2026-09-24 |
 | Broadcom Falls 2% as $230 Billion AI Target Doubles the Delivery Test | GuruFocus.com | 2026-09-24 |
 | NVIDIA Stock Looks Expensive Until You Price The Vera Rubin Ramp | Trefis | 2026-09-24 |
-| Venture Capital and PE: A California Perspective on Governance: 2nd LA CorpGov Forum | CorpGov.com | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $89.10B | Revenue growth 85.50% y/y |
 | Profitability | Gross 75.52%, operating 54.31%, net 42.94% | ROA 15.37%, ROE 44.25% |
 | Balance sheet | Cash $23.98B, debt $59.42B | Current ratio 2.50, debt/equity 59.60 |
-| Valuation | P/E 44.75, forward P/E 18.08, P/S 18.77, P/B 16.78 | EV/Sales 19.42, EV/EBITDA 33.10 |
+| Valuation | P/E 44.63, forward P/E 18.07, P/S 18.77, P/B 16.78 | EV/Sales 19.42, EV/EBITDA 33.10 |
 | Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $531.85 (47 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,8 +121,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | SMA200 dist | -4.60% | Revenue (ttm) | $89.10B |
 | 52W high | $479.94 | Revenue growth y/y | 85.50% |
 | 52W low | $292.41 | Inst. ownership | 79.81% |
-| P/E (ttm) | 44.75 | Insider ownership | 1.94% |
-| Forward P/E | 18.08 | Short float | 1.08% |
+| P/E (ttm) | 44.63 | Insider ownership | 1.94% |
+| Forward P/E | 18.07 | Short float | 1.08% |
 | PEG (trailing) | 0.36 | Avg volume | 23,106,606 |
 | P/S | 18.77 | Employees | 33,000 |
 | P/B | 16.78 | Analyst rec (1=buy..5=sell) | 1.3 |

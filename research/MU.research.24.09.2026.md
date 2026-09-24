@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
-| Stock Market Today: Dow Slides As Treasury Yields Surge; Nvidia Slips While Micron Rises | Investor's Business Daily | 2026-09-24 |
-| Micron vs. Sandisk: Which AI Memory Stock Is the Better Buy? | Insider Monkey | 2026-09-24 |
-| AMD and Micron Get New Price Targets as Taiwan Chip Exports Hit Record $30.8B | BeInCrypto | 2026-09-24 |
-| How Micron Stock Could Rise Another 50% | Barrons.com | 2026-09-24 |
+| Forget Betting on Micron Alone: The $26B Memory ETF Owns MU, SK Hynix, and Samsung at a September Discount | 24/7 Wall St. | 2026-09-24 |
+| Microchip Technology, Skyworks Solutions, and Universal Display Shares Are Falling, What You Need To Know | StockStory | 2026-09-24 |
+| Western Digital, FormFactor, Penguin Solutions, Himax, and Power Integrations Shares Are Falling, What You Need To Know | StockStory | 2026-09-24 |
+| 3 Reasons Why Micron and Sandisk Investors Can Ignore What History Says Will Happen | Motley Fool | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -124,7 +124,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Forward P/E | 6.79 | Short float | 2.64% |
 | PEG (trailing) | 0.16 | Avg volume | 37,437,457 |
 | P/S | 13.52 | Employees | 53,000 |
-| P/B | 12.11 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/B | 12.11 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -38,8 +38,8 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 |---|---|---|
 | Marvell vs. NVIDIA: One AI Stock Looks Like the Better Buy Now | Zacks | 2026-09-24 |
 | NVIDIA Stock Looks Expensive Until You Price The Vera Rubin Ramp | Trefis | 2026-09-24 |
+| Data Centers Will Continue to Drive Robust Growth for Marvell Stock | Barchart | 2026-09-24 |
 | Marvell Just Unveiled a 2nm Breakthrough for AI Data Centers | GuruFocus.com | 2026-09-24 |
-| Qualcomm vs. Marvell: Which Underdog AI Chip Stock Has More Upside From Here? | Motley Fool | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $9.45B | Revenue growth 36.50% y/y |
 | Profitability | Gross 52.22%, operating 16.68%, net 27.93% | ROA 4.12%, ROE 16.52% |
 | Balance sheet | Cash $3.93B, debt $5.29B | Current ratio 3.17, debt/equity 28.52 |
-| Valuation | P/E 85.46, forward P/E 38.32, P/S 24.63, P/B 12.25 | EV/Sales 24.35, EV/EBITDA 80.74 |
+| Valuation | P/E 85.46, forward P/E 38.32, P/S 24.63, P/B 12.45 | EV/Sales 24.35, EV/EBITDA 80.74 |
 | Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $289.11 (43 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -126,7 +126,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Forward P/E | 38.32 | Short float | 5.09% |
 | PEG (trailing) | 1.39 | Avg volume | 24,462,577 |
 | P/S | 24.63 | Employees | 7,480 |
-| P/B | 12.25 | Analyst rec (1=buy..5=sell) | 1.0 |
+| P/B | 12.45 | Analyst rec (1=buy..5=sell) | 1.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

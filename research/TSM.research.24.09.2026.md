@@ -38,8 +38,8 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 |---|---|---|
 | Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck | Investor's Business Daily | 2026-09-24 |
 | Is Taiwan Semiconductor (TSM) Stock a Better Bet than ASML Holding (ASML) as Advanced Chipmaking Accelerates? | Insider Monkey | 2026-09-24 |
+| TSMC (TSM) Advances While Market Declines: Some Information for Investors | Zacks | 2026-09-24 |
 | Why Did Cadence Design Systems (CDNS) Stock Climb Today? | Simply Wall St. | 2026-09-24 |
-| AMD and Micron Get New Price Targets as Taiwan Chip Exports Hit Record $30.8B | BeInCrypto | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

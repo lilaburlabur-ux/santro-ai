@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-24T21:19:20+00:00",
+  "as_of": "2026-09-24T21:34:32+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "MSFT",
-   "company": "Microsoft Corp",
-   "move_pct": -6.06,
-   "price": 470.27,
-   "volume": 16611248,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 40,
-   "direction": "down",
-   "why": "Can Microsoft (MSFT) Sustain its Recurring Cash Flows, Growing Payouts, and Azure Momentum?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-sustain-recurring-cash-202321015.html",
-   "published": "2026-09-24T20:23:21Z",
-   "sector": "AI Software & Cloud Infrastructure"
-  }
- ]
+ "hot_tickers": []
 }

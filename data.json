@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-24T06:20:06+00:00",
-  "as_of_local": "2026-09-24 06:20:06 UTC",
+  "as_of_utc": "2026-09-24T06:34:35+00:00",
+  "as_of_local": "2026-09-24 06:34:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -147,6 +145,34 @@
       ]
     },
     {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 122.6,
+      "previous_close": 123.86,
+      "change_pct": -1.02,
+      "market_cap": 648076497055.2435,
+      "headlines": [
+        {
+          "title": "How Qualcomm is targeting agentic AI with its 2 new smartphone chips",
+          "url": "https://finance.yahoo.com/video/qualcomm-targeting-agentic-ai-2-195058732.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-09-23T19:50:58Z"
+        },
+        {
+          "title": "Intel (INTC) Stock Looks Fully Priced After Its 293% Run",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-looks-fully-043012245.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-24T04:30:12Z"
+        },
+        {
+          "title": "VYM\u2019s Index Buys on Forecast Yield, So It Held Intel and Walgreens Right Into Their Dividend Cuts",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vym-index-buys-forecast-yield-223559545.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-23T22:35:59Z"
+        }
+      ]
+    },
+    {
       "symbol": "ARM",
       "name": "Arm Holdings",
       "price": 332.56,
@@ -264,27 +290,8 @@
       "price": 121.66,
       "previous_close": 117.24,
       "change_pct": 3.77,
-      "market_cap": 17279403411.65039,
-      "headlines": [
-        {
-          "title": "Entegris and Lattice Semiconductor Shares Are Soaring, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/entegris-lattice-semiconductor-shares-soaring-210946251.html",
-          "publisher": "StockStory",
-          "published": "2026-09-22T21:09:46Z"
-        },
-        {
-          "title": "This Under-the-Radar Chip Company Could Have a Much Bigger Future",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/under-radar-chip-company-could-183028114.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-22T18:30:28Z"
-        },
-        {
-          "title": "Why Are Lattice Semiconductor (LSCC) Shares Soaring Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-lattice-semiconductor-lscc-shares-021425298.html",
-          "publisher": "StockStory",
-          "published": "2026-09-22T02:14:25Z"
-        }
-      ]
+      "market_cap": 17245209286.041107,
+      "headlines": []
     },
     {
       "symbol": "AVAV",
@@ -410,8 +417,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -0.27,
-          "price": 54420.0,
+          "change_pct": 0.84,
+          "price": 55030.0,
           "currency": "JPY"
         },
         {
@@ -500,8 +507,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -0.27,
-        "price": 54420.0,
+        "change_pct": 0.84,
+        "price": 55030.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +566,13 @@
     },
     {
       "label": "BTC",
-      "price": 84182.39,
-      "change_pct": -2.31
+      "price": 84147.64,
+      "change_pct": -2.35
     },
     {
       "label": "Gold",
-      "price": 4318.7,
-      "change_pct": 0.01
+      "price": 4317.9,
+      "change_pct": -0.01
     },
     {
       "label": "Nasdaq100",

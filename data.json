@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-24T11:37:46+00:00",
-  "as_of_local": "2026-09-24 11:37:46 UTC",
+  "as_of_utc": "2026-09-24T11:42:47+00:00",
+  "as_of_local": "2026-09-24 11:42:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVAV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -315,6 +313,34 @@
       ]
     },
     {
+      "symbol": "AVAV",
+      "name": "AeroVironment",
+      "price": 155.94,
+      "previous_close": 160.9,
+      "change_pct": -3.08,
+      "market_cap": 7924980393.9539795,
+      "headlines": [
+        {
+          "title": "1 Volatile Stock for Long-Term Investors and 2 Facing Challenges",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-volatile-stock-long-term-100054116.html",
+          "publisher": "StockStory",
+          "published": "2026-09-24T10:00:54Z"
+        },
+        {
+          "title": "AeroVironment And 2 Top Automation Stocks To Watch",
+          "url": "https://finance.yahoo.com/technology/articles/aerovironment-2-top-automation-stocks-061533121.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-23T06:15:33Z"
+        },
+        {
+          "title": "AeroVironment Stock And 2 Other Top Defense Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-stock-2-other-top-021454682.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-23T02:14:54Z"
+        }
+      ]
+    },
+    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 98.1,
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 83452.46,
-      "change_pct": -1.1
+      "price": 83436.56,
+      "change_pct": -1.12
     },
     {
       "label": "Gold",
-      "price": 4301.1,
-      "change_pct": -0.4
+      "price": 4297.2,
+      "change_pct": -0.49
     },
     {
       "label": "Nasdaq100",

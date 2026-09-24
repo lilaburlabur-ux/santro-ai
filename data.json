@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-24T23:32:13+00:00",
-  "as_of_local": "2026-09-24 23:32:13 UTC",
+  "as_of_utc": "2026-09-24T23:33:46+00:00",
+  "as_of_local": "2026-09-24 23:33:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-09-24T13:37:44Z"
         },
         {
-          "title": "Netflix's Revenue Growth Has Slowed for 2 Straight Quarters. Should You Buy the Stock Anyway?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/netflixs-revenue-growth-slowed-2-224101217.html",
+          "title": "SpaceX Stock-Split Watch: Here's When It Should Happen",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-split-watch-heres-232500223.html",
           "publisher": "Motley Fool",
-          "published": "2026-09-24T22:41:01Z"
+          "published": "2026-09-24T23:25:00Z"
         }
       ]
     },
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-investors-must-pay-attention-200300659.html",
           "publisher": "Motley Fool",
           "published": "2026-09-24T20:03:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 127.39,
-      "previous_close": 122.6,
-      "change_pct": 3.91,
-      "market_cap": 673396946099.7974,
-      "headlines": [
-        {
-          "title": "Amazon Blocks Meta's Muse. It Could Be a Gift for Walmart and Shopify",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-blocks-metas-muse-could-200501439.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-24T20:05:01Z"
-        },
-        {
-          "title": "ASML Drops 1.8% as $400 Million High-NA Tools Reach More Fabs",
-          "url": "https://finance.yahoo.com/technology/articles/asml-drops-1-8-400-191825215.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-09-24T19:18:25Z"
-        },
-        {
-          "title": "Trump Stance on AI an 'Extremely Naive Position,' Says Sen. Michael Bennet",
-          "url": "https://finance.yahoo.com/video/trump-stance-ai-extremely-naive-182709965.html",
-          "publisher": "Bloomberg",
-          "published": "2026-09-24T18:27:09Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 84411.5,
-      "change_pct": 0.03
+      "price": 84415.58,
+      "change_pct": 0.04
     },
     {
       "label": "Gold",
-      "price": 4308.3,
-      "change_pct": -0.23
+      "price": 4308.8,
+      "change_pct": -0.22
     },
     {
       "label": "Nasdaq100",

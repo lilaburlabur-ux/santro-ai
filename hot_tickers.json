@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-24T13:34:42+00:00",
+  "as_of": "2026-09-24T13:50:01+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "ORCL",
+   "company": "Oracle Corp",
+   "move_pct": -6.23,
+   "price": 135.55,
+   "volume": 13084849,
+   "volume_vs_avg": "~0.5x",
+   "heat_score": 39,
+   "direction": "down",
+   "why": "Oracle Seeks \u2018Force Majeure\u2019 on Data Center. Why It\u2019s Sinking the Stock.",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.barrons.com/articles/oracle-stock-price-data-center-delay-force-majeure-372fe7aa?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-09-24T13:28:00Z",
+   "sector": "AI Software & Cloud Infrastructure"
+  }
+ ]
 }

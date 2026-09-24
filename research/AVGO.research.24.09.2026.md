@@ -39,7 +39,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Broadcom Falls 2% as $230 Billion AI Target Doubles the Delivery Test | GuruFocus.com | 2026-09-24 |
 | NVIDIA Stock Looks Expensive Until You Price The Vera Rubin Ramp | Trefis | 2026-09-24 |
 | Venture Capital and PE: A California Perspective on Governance: 2nd LA CorpGov Forum | CorpGov.com | 2026-09-24 |
-| AMD's Six-Day Rally Finally Hits a Pause | GuruFocus.com | 2026-09-24 |
+| Stocks Pressured by Rising Crude Prices | Barchart | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

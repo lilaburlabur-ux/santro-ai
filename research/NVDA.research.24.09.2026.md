@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Nvidia's valuation is falling, but it might not be a warning sign | Yahoo Finance Video | 2026-09-24 |
 | Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck | Yahoo Finance | 2026-09-24 |
+| Nvidia CEO Sends Stark Warning to AI Industry | GuruFocus.com | 2026-09-24 |
 | Why Kinross Gold Stock Is Crashing Today | Motley Fool | 2026-09-24 |
-| Amazon Blocks Meta's Muse. It Could Be a Gift for Walmart and Shopify | Motley Fool | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

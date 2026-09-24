@@ -1,10 +1,43 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-24T23:26:22+00:00",
+  "as_of": "2026-09-24T23:41:36+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "ARM",
+   "company": "Arm Holdings Plc ADR",
+   "move_pct": -7.06,
+   "price": 309.07,
+   "volume": 9485249,
+   "volume_vs_avg": "~2x",
+   "heat_score": 50,
+   "direction": "down",
+   "why": "Arm Holdings (ARM) Stock Gains On AI CPU Demand Surge",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-arm-stock-gains-231156551.html",
+   "published": "2026-09-24T23:11:56Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
+   "ticker": "PUBM",
+   "company": "PubMatic Inc",
+   "move_pct": 6.9,
+   "price": 18.66,
+   "volume": 1528997,
+   "volume_vs_avg": "~2x",
+   "heat_score": 50,
+   "direction": "up",
+   "why": "Why Is PubMatic (PUBM) Stock Soaring Today",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-pubmatic-pubm-stock-soaring-220858951.html",
+   "published": "2026-09-24T22:08:58Z",
+   "sector": "AI Applications & Data Software"
+  }
+ ]
 }

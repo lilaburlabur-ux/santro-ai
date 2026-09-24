@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-09-24T08:20:37+00:00",
-  "as_of_local": "2026-09-24 08:20:37 UTC",
+  "as_of_utc": "2026-09-24T08:25:49+00:00",
+  "as_of_local": "2026-09-24 08:25:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 225.51,
-      "previous_close": 228.87,
-      "change_pct": -1.47,
-      "market_cap": 5445389837356.567,
-      "headlines": [
-        {
-          "title": "How Qualcomm is targeting agentic AI with its 2 new smartphone chips",
-          "url": "https://finance.yahoo.com/video/qualcomm-targeting-agentic-ai-2-195058732.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-09-23T19:50:58Z"
-        },
-        {
-          "title": "Nasdaq climbs higher, McDonald's investor day updates",
-          "url": "https://finance.yahoo.com/video/nasdaq-climbs-higher-mcdonalds-investor-day-updates-141449878.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-09-23T14:14:49Z"
-        },
-        {
-          "title": "The AI panic, tech concentration, and Nvidia windfalls",
-          "url": "https://finance.yahoo.com/video/ai-panic-tech-concentration-nvidia-100000476.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-09-23T10:00:00Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -103,16 +77,16 @@
           "published": "2026-09-23T14:32:10Z"
         },
         {
+          "title": "MU, SNDK Extend Slide For A Second Day As Memory Rally Fizzles: Micron Results Next Week To Test AI Demand",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-extend-slide-second-081931026.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-24T08:19:31Z"
+        },
+        {
           "title": "3 Stocks That Get Paid More When Memory Prices Rise. I'd Buy Only 1 of Them.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-paid-more-memory-080201050.html",
           "publisher": "Motley Fool",
           "published": "2026-09-24T08:02:01Z"
-        },
-        {
-          "title": "Earnings Outlook Remains Upbeat: A Closer Look",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-outlook-remains-upbeat-closer-220500751.html",
-          "publisher": "Zacks",
-          "published": "2026-09-23T22:05:00Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 84308.27,
-      "change_pct": -0.09
+      "price": 84145.03,
+      "change_pct": -0.28
     },
     {
       "label": "Gold",
-      "price": 4316.8,
-      "change_pct": -0.04
+      "price": 4310.8,
+      "change_pct": -0.18
     },
     {
       "label": "Nasdaq100",

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-24T23:33:46+00:00",
-  "as_of_local": "2026-09-24 23:33:46 UTC",
+  "as_of_utc": "2026-09-24T23:36:25+00:00",
+  "as_of_local": "2026-09-24 23:36:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -147,6 +145,34 @@
       ]
     },
     {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 127.39,
+      "previous_close": 122.6,
+      "change_pct": 3.91,
+      "market_cap": 669374104060.7417,
+      "headlines": [
+        {
+          "title": "Amazon Blocks Meta's Muse. It Could Be a Gift for Walmart and Shopify",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-blocks-metas-muse-could-200501439.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-24T20:05:01Z"
+        },
+        {
+          "title": "ASML Drops 1.8% as $400 Million High-NA Tools Reach More Fabs",
+          "url": "https://finance.yahoo.com/technology/articles/asml-drops-1-8-400-191825215.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-24T19:18:25Z"
+        },
+        {
+          "title": "Trump Stance on AI an 'Extremely Naive Position,' Says Sen. Michael Bennet",
+          "url": "https://finance.yahoo.com/video/trump-stance-ai-extremely-naive-182709965.html",
+          "publisher": "Bloomberg",
+          "published": "2026-09-24T18:27:09Z"
+        }
+      ]
+    },
+    {
       "symbol": "ARM",
       "name": "Arm Holdings",
       "price": 306.34,
@@ -183,6 +209,12 @@
       "market_cap": 232719570506.8653,
       "headlines": [
         {
+          "title": "Lam Research, Marvell Technology, Western Digital, FormFactor, and Penguin Solutions Shares Are Falling, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-marvell-technology-western-232858881.html",
+          "publisher": "StockStory",
+          "published": "2026-09-24T23:28:58Z"
+        },
+        {
           "title": "Marvell vs. NVIDIA: One AI Stock Looks Like the Better Buy Now",
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-vs-nvidia-one-ai-180000492.html",
           "publisher": "Zacks",
@@ -193,12 +225,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-looks-expensive-until-160957599.html",
           "publisher": "Trefis",
           "published": "2026-09-24T16:09:57Z"
-        },
-        {
-          "title": "Data Centers Will Continue to Drive Robust Growth for Marvell Stock",
-          "url": "https://finance.yahoo.com/technology/articles/data-centers-continue-drive-robust-154156827.html",
-          "publisher": "Barchart",
-          "published": "2026-09-24T15:41:56Z"
         }
       ]
     },
@@ -264,7 +290,7 @@
       "price": 122.22,
       "previous_close": 121.66,
       "change_pct": 0.46,
-      "market_cap": 17324588497.013702,
+      "market_cap": 17358940017.216797,
       "headlines": [
         {
           "title": "Entegris and Lattice Semiconductor Shares Are Soaring, What You Need To Know",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 84415.58,
-      "change_pct": 0.04
+      "price": 84436.06,
+      "change_pct": 0.06
     },
     {
       "label": "Gold",
-      "price": 4308.8,
-      "change_pct": -0.22
+      "price": 4307.6,
+      "change_pct": -0.25
     },
     {
       "label": "Nasdaq100",

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-24T23:56:51+00:00",
+  "as_of": "2026-09-25T00:01:50+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,51 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "ARM",
-   "company": "Arm Holdings Plc ADR",
-   "move_pct": -7.11,
-   "price": 308.91,
-   "volume": 9485249,
-   "volume_vs_avg": "~2x",
-   "heat_score": 50,
-   "direction": "down",
-   "why": "Arm Holdings (ARM) Stock Gains On AI CPU Demand Surge",
+   "ticker": "PANW",
+   "company": "Palo Alto Networks Inc",
+   "move_pct": 5.79,
+   "price": 393.3,
+   "volume": 3965336,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 38,
+   "direction": "up",
+   "why": "Palo Alto Networks (PANW) Unveils Unit 42 AI Defense For Always On Cybersecurity",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-arm-stock-gains-231156551.html",
-   "published": "2026-09-24T23:11:56Z",
-   "sector": "AI Chips & Compute"
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-panw-unveils-231153020.html",
+   "published": "2026-09-24T23:11:53Z",
+   "sector": "Cybersecurity"
   },
   {
    "rank": 2,
-   "ticker": "PUBM",
-   "company": "PubMatic Inc",
-   "move_pct": 6.9,
-   "price": 18.66,
-   "volume": 1528997,
-   "volume_vs_avg": "~2x",
-   "heat_score": 50,
+   "ticker": "CRWD",
+   "company": "Crowdstrike Holdings Inc",
+   "move_pct": 5.27,
+   "price": 262.49,
+   "volume": 8367253,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 37,
    "direction": "up",
-   "why": "Why Is PubMatic (PUBM) Stock Soaring Today",
+   "why": "Could CrowdStrike (CRWD)\u2019s Snowflake (SNOW) Partnership Unlock a New AI Growth Engine?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-pubmatic-pubm-stock-soaring-220858951.html",
-   "published": "2026-09-24T22:08:58Z",
-   "sector": "AI Applications & Data Software"
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/could-crowdstrike-crwd-snowflake-snow-203651870.html",
+   "published": "2026-09-24T20:36:51Z",
+   "sector": "Cybersecurity"
+  },
+  {
+   "rank": 3,
+   "ticker": "MDB",
+   "company": "MongoDB Inc",
+   "move_pct": 5.17,
+   "price": 428.36,
+   "volume": 1204192,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 36,
+   "direction": "up",
+   "why": "MongoDB (MDB) Stock Could Be 16% Overvalued As Cash Flow Lags",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/mongodb-mdb-stock-could-16-231310014.html",
+   "published": "2026-09-24T23:13:10Z",
+   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

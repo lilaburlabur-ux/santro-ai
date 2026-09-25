@@ -1,11 +1,8 @@
 {
-  "as_of_utc": "2026-09-25T18:50:17+00:00",
-  "as_of_local": "2026-09-25 18:50:17 UTC",
+  "as_of_utc": "2026-09-25T18:55:28+00:00",
+  "as_of_local": "2026-09-25 18:55:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM",
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,7 +10,7 @@
       "price": 224.14,
       "previous_close": 224.58,
       "change_pct": -0.2,
-      "market_cap": 5412308565261.841,
+      "market_cap": 5412081597610.474,
       "headlines": [
         {
           "title": "Microsoft CEO: We 'have to earn that permission' to build data centers from communities",
@@ -22,26 +19,54 @@
           "published": "2026-09-25T17:25:05Z"
         },
         {
+          "title": "AMD CEO Lisa Su is having a September to remember",
+          "url": "https://finance.yahoo.com/markets/article/amd-ceo-lisa-su-is-having-a-september-to-remember-135902902.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-09-25T13:59:02Z"
+        },
+        {
           "title": "Tech stocks gain after tech titan dinner with Trump and China's Xi Jinping: AlphaCheck",
           "url": "https://finance.yahoo.com/markets/article/tech-stocks-gain-after-tech-titan-dinner-with-trump-and-chinas-xi-jinping-alphacheck-135107178.html",
           "publisher": "Yahoo Finance",
           "published": "2026-09-25T13:51:07Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 451.35,
+      "previous_close": 451.15,
+      "change_pct": 0.04,
+      "market_cap": 2340915077423.2754,
+      "headlines": [
+        {
+          "title": "TSMC Stocks Rise as Packaging Moves Closer to Suppliers",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-rise-packaging-moves-155700706.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-25T15:57:00Z"
         },
         {
-          "title": "Over 30 CEOs scored an invite to the US-China state dinner \u2014 and these 4 got a spot at the head table",
-          "url": "https://finance.yahoo.com/markets/article/over-30-ceos-scored-an-invite-to-the-us-china-state-dinner--and-these-4-got-a-spot-at-the-head-table-134400923.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-09-25T13:44:00Z"
+          "title": "Nvidia, AMD Love This High-Tech Facilitator. So Does Wall Street.",
+          "url": "https://www.investors.com/research/ibd-stock-analysis/tse-technology-rides-ai-boom-alongside-amd-apple-nvidia-tsmc/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-25T14:47:03Z"
+        },
+        {
+          "title": "4 Top-Ranked Chip Stocks to Buy for Better Returns in October",
+          "url": "https://finance.yahoo.com/technology/ai/articles/4-top-ranked-chip-stocks-144000450.html",
+          "publisher": "Zacks",
+          "published": "2026-09-25T14:40:00Z"
         }
       ]
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 352.6,
+      "price": 352.34,
       "previous_close": 350.36,
-      "change_pct": 0.64,
-      "market_cap": 1683038716466.1594,
+      "change_pct": 0.57,
+      "market_cap": 1681942622987.6357,
       "headlines": [
         {
           "title": "How to fix overvalued AI companies and a McDonald's market play",
@@ -50,26 +75,26 @@
           "published": "2026-09-25T16:57:55Z"
         },
         {
-          "title": "Marvell\u2019s 203% YTD Surge Sets High Bar but We See More Runway Ahead",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-203-ytd-surge-sets-173012562.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-25T17:30:12Z"
+          "title": "Is AMD Stock Priced Right Against Its Chip Peers?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-priced-against-chip-183430014.html",
+          "publisher": "Trefis",
+          "published": "2026-09-25T18:34:30Z"
         },
         {
-          "title": "What Does NVIDIA Offer That Texas Instruments Does Not?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/does-nvidia-offer-texas-instruments-142752053.html",
+          "title": "What Makes Credo Technology Stock A Buy Today?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/makes-credo-technology-stock-buy-181834189.html",
           "publisher": "Trefis",
-          "published": "2026-09-25T14:27:52Z"
+          "published": "2026-09-25T18:18:34Z"
         }
       ]
     },
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 1081.56,
+      "price": 1082.34,
       "previous_close": 1080.53,
-      "change_pct": 0.1,
-      "market_cap": 1221585519430.745,
+      "change_pct": 0.17,
+      "market_cap": 1222387344451.0352,
       "headlines": [
         {
           "title": "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
@@ -92,12 +117,40 @@
       ]
     },
     {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 629.71,
+      "previous_close": 629.26,
+      "change_pct": 0.07,
+      "market_cap": 1027985894567.6329,
+      "headlines": [
+        {
+          "title": "Musk\u2019s \u2018Zuckerberg moment,\u2019 mortgage rates, and Google\u2019s space bet",
+          "url": "https://finance.yahoo.com/video/musk-zuckerberg-moment-mortgage-rates-153258991.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-09-25T15:32:58Z"
+        },
+        {
+          "title": "Tech stocks gain after tech titan dinner with Trump and China's Xi Jinping: AlphaCheck",
+          "url": "https://finance.yahoo.com/markets/article/tech-stocks-gain-after-tech-titan-dinner-with-trump-and-chinas-xi-jinping-alphacheck-135107178.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-09-25T13:51:07Z"
+        },
+        {
+          "title": "Is AMD Stock Priced Right Against Its Chip Peers?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-priced-against-chip-183430014.html",
+          "publisher": "Trefis",
+          "published": "2026-09-25T18:34:30Z"
+        }
+      ]
+    },
+    {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 124.51,
+      "price": 124.49,
       "previous_close": 127.39,
-      "change_pct": -2.26,
-      "market_cap": 654293599104.7041,
+      "change_pct": -2.28,
+      "market_cap": 658067232774.0409,
       "headlines": [
         {
           "title": "Microsoft CEO: We 'have to earn that permission' to build data centers from communities",
@@ -106,26 +159,26 @@
           "published": "2026-09-25T17:25:05Z"
         },
         {
+          "title": "Is AMD Stock Priced Right Against Its Chip Peers?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-priced-against-chip-183430014.html",
+          "publisher": "Trefis",
+          "published": "2026-09-25T18:34:30Z"
+        },
+        {
           "title": "SK Hynix\u2019s Solidigm said to mull IPO that could value unit at $150B",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-solidigm-said-mull-182850478.html",
           "publisher": "Investing.com",
           "published": "2026-09-25T18:28:50Z"
-        },
-        {
-          "title": "Why Intel Stock Jumped This Week",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-jumped-week-182009537.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-25T18:20:09Z"
         }
       ]
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 312.09,
+      "price": 312.78,
       "previous_close": 306.34,
-      "change_pct": 1.88,
-      "market_cap": 333381092002.48584,
+      "change_pct": 2.1,
+      "market_cap": 334048591108.11084,
       "headlines": [
         {
           "title": "Arm Stocks Surge as Muse Makes CPUs Matter Again",
@@ -150,66 +203,66 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 264.29,
+      "price": 263.84,
       "previous_close": 258.95,
-      "change_pct": 2.06,
-      "market_cap": 237514151937.8596,
+      "change_pct": 1.89,
+      "market_cap": 237114221802.7654,
       "headlines": [
+        {
+          "title": "Is AMD Stock Priced Right Against Its Chip Peers?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-priced-against-chip-183430014.html",
+          "publisher": "Trefis",
+          "published": "2026-09-25T18:34:30Z"
+        },
+        {
+          "title": "What Makes Credo Technology Stock A Buy Today?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/makes-credo-technology-stock-buy-181834189.html",
+          "publisher": "Trefis",
+          "published": "2026-09-25T18:18:34Z"
+        },
         {
           "title": "Marvell\u2019s 203% YTD Surge Sets High Bar but We See More Runway Ahead",
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-203-ytd-surge-sets-173012562.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-25T17:30:12Z"
-        },
-        {
-          "title": "Microsoft, Meta, Akamai, Zscaler, Comcast, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-4d9aad60?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-25T16:59:00Z"
-        },
-        {
-          "title": "Marvell (MRVL) Stock May Be Fully Priced Following Fresh AI Optical News",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-stock-may-fully-120851669.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-25T12:08:51Z"
         }
       ]
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 203.54,
+      "price": 203.23,
       "previous_close": 194.26,
-      "change_pct": 4.78,
-      "market_cap": 217393024353.16376,
+      "change_pct": 4.62,
+      "market_cap": 217077948465.1759,
       "headlines": [
         {
-          "title": "Meta's new AI device changes everything",
-          "url": "https://finance.yahoo.com/video/metas-ai-device-changes-everything-200013025.html",
+          "title": "Qualcomm's CMO reveals the secret behind Snapdragon's rise",
+          "url": "https://finance.yahoo.com/video/qualcomms-cmo-reveals-secret-behind-140705053.html",
           "publisher": "Yahoo Finance Video",
-          "published": "2026-09-24T20:00:13Z"
+          "published": "2026-09-25T14:07:05Z"
         },
         {
-          "title": "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-oil-prices-174425046.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-25T17:44:25Z"
+          "title": "Is AMD Stock Priced Right Against Its Chip Peers?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-priced-against-chip-183430014.html",
+          "publisher": "Trefis",
+          "published": "2026-09-25T18:34:30Z"
         },
         {
-          "title": "Qualcomm Rallies 6% as Buyers Reverse Apple Renewal Selloff; Apple Stock Ticks Up",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-rallies-6-buyers-reverse-170246184.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-25T17:02:46Z"
+          "title": "Qualcomm Stocks Jump as Apple Extends the Royalty Bridge",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stocks-jump-apple-extends-175240580.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-25T17:52:40Z"
         }
       ]
     },
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 237.05,
+      "price": 236.8,
       "previous_close": 230.16,
-      "change_pct": 2.99,
-      "market_cap": 59775518216.24399,
+      "change_pct": 2.89,
+      "market_cap": 59713735377.16443,
       "headlines": [
         {
           "title": "What Does NVIDIA Offer That Texas Instruments Does Not?",
@@ -234,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 126.47,
+      "price": 126.32,
       "previous_close": 122.22,
-      "change_pct": 3.48,
-      "market_cap": 17952626597.520996,
+      "change_pct": 3.35,
+      "market_cap": 17905760037.621574,
       "headlines": [
         {
           "title": "These are stocks getting lifted up by Meta's Muse",
@@ -262,10 +315,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 153.28,
+      "price": 153.39,
       "previous_close": 158.55,
-      "change_pct": -3.32,
-      "market_cap": 7789797140.52301,
+      "change_pct": -3.26,
+      "market_cap": 7795138525.340149,
       "headlines": [
         {
           "title": "What AeroVironment\u2019s (AVAV) $464.8 Million Laser Contract Means for Its Defense Growth Outlook",
@@ -290,10 +343,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 102.83,
+      "price": 102.44,
       "previous_close": 96.82,
-      "change_pct": 6.21,
-      "market_cap": 4081570901.468979,
+      "change_pct": 5.81,
+      "market_cap": 4066289237.671837,
       "headlines": [
         {
           "title": "Here's How ON Semiconductor Is Targeting a $213 Billion AI Power Opportunity",
@@ -318,10 +371,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 36.31,
+      "price": 36.16,
       "previous_close": 34.46,
-      "change_pct": 5.37,
-      "market_cap": 1022274392.9837341,
+      "change_pct": 4.93,
+      "market_cap": 1018051239.2240295,
       "headlines": [
         {
           "title": "Will AI Expansion Drive CEVA's Shares to Further Heights?",
@@ -348,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 61.89,
-      "change_pct": 1.92,
+      "price": 61.92,
+      "change_pct": 1.98,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.1,
-          "price": 1081.56,
+          "change_pct": 0.17,
+          "price": 1082.34,
           "currency": "USD"
         },
         {
@@ -392,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 1.17,
-          "price": 1774.07,
+          "change_pct": 1.27,
+          "price": 1775.89,
           "currency": "USD"
         },
         {
@@ -401,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 0.85,
-          "price": 913.58,
+          "change_pct": 1.16,
+          "price": 916.46,
           "currency": "USD"
         },
         {
@@ -410,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 1.22,
-          "price": 455.8,
+          "change_pct": 1.64,
+          "price": 457.7,
           "currency": "USD"
         },
         {
@@ -438,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 61.89,
-    "change_pct": 1.92,
+    "price": 61.92,
+    "change_pct": 1.98,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.1,
-        "price": 1081.56,
+        "change_pct": 0.17,
+        "price": 1082.34,
         "currency": "USD"
       },
       {
@@ -482,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 1.17,
-        "price": 1774.07,
+        "change_pct": 1.27,
+        "price": 1775.89,
         "currency": "USD"
       },
       {
@@ -491,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 0.85,
-        "price": 913.58,
+        "change_pct": 1.16,
+        "price": 916.46,
         "currency": "USD"
       },
       {
@@ -500,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 1.22,
-        "price": 455.8,
+        "change_pct": 1.64,
+        "price": 457.7,
         "currency": "USD"
       },
       {
@@ -527,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7738.4,
-      "change_pct": 0.44
+      "price": 7737.16,
+      "change_pct": 0.43
     },
     {
       "label": "BTC",
-      "price": 83936.48,
-      "change_pct": -0.52
+      "price": 83971.82,
+      "change_pct": -0.48
     },
     {
       "label": "Gold",
-      "price": 4322.7,
-      "change_pct": 0.57
+      "price": 4327.6,
+      "change_pct": 0.69
     },
     {
       "label": "Nasdaq100",
-      "price": 30605.02,
-      "change_pct": 0.41
+      "price": 30600.22,
+      "change_pct": 0.4
     }
   ]
 }

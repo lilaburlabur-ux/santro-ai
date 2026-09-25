@@ -39,6 +39,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Meet the Magnificent Semiconductor Stock Crushing Nvidia in 2026 | Motley Fool | 2026-09-25 |
 | Nvidia, AMD Love This High-Tech Facilitator. So Does Wall Street. | Investor's Business Daily | 2026-09-25 |
 | TSMC Stocks Rise as Packaging Moves Closer to Suppliers | GuruFocus.com | 2026-09-25 |
+| 4 Top-Ranked Chip Stocks to Buy for Better Returns in October | Zacks | 2026-09-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -67,7 +68,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.44T | Revenue growth 36.00% y/y |
 | Profitability | Gross 64.23%, operating 60.34%, net 49.92% | ROA 19.00%, ROE 39.97% |
 | Balance sheet | Cash $3.52T, debt $1.07T | Current ratio 2.46, debt/equity 16.50 |
-| Valuation | P/E 33.40, forward P/E 20.55, P/S 0.53, P/B 92.17 | EV/Sales 3.67, EV/EBITDA 5.15 |
+| Valuation | P/E 33.40, forward P/E 20.55, P/S 0.53, P/B 92.17 | EV/Sales 3.67, EV/EBITDA 5.14 |
 | Growth expectations | Earnings growth 77.40%, EPS q/q 77.40% | Analyst mean target $552.26 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +113,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $450.61 | EV/Sales | 3.67 |
-| Market cap | $2.34T | EV/EBITDA | 5.15 |
+| Market cap | $2.34T | EV/EBITDA | 5.14 |
 | Beta | 1.25 | Gross margin | 64.23% |
 | RSI(14) | 62.5 | Operating margin | 60.34% |
 | ATR(14) | 10.54 | Profit margin | 49.92% |

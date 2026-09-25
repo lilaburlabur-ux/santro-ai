@@ -18,7 +18,7 @@ Signed file: `SYNA.research.25.09.2026`
 | Technical momentum | Moderate | 1Y +44.92%; price +4.68% vs SMA200. |
 | Fresh setup quality | Poor / broken | -30.39% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-41.00%). |
-| Value attractiveness | Reasonable | Forward P/E 15.62, EV/Sales 3.52. |
+| Value attractiveness | Reasonable | Forward P/E 15.62, EV/Sales 3.72. |
 | Risk level | High | Beta 1.94, ATR 4.5% of price, short float 10.84%. |
 
 **Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -68,7 +68,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Revenue (ttm) | $1.20B | Revenue growth 8.90% y/y |
 | Profitability | Gross 44.72%, operating -2.79%, net -41.00% | ROA -1.52%, ROE -42.23% |
 | Balance sheet | Cash $442.50M, debt $876.80M | Current ratio 1.12, debt/equity 94.33 |
-| Valuation | P/E —, forward P/E 15.62, P/S 3.41, P/B 4.32 | EV/Sales 3.52, EV/EBITDA 45.48 |
+| Valuation | P/E —, forward P/E 15.62, P/S 3.41, P/B 4.32 | EV/Sales 3.72, EV/EBITDA 47.97 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $130.33 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -113,8 +113,8 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $102.72 | EV/Sales | 3.52 |
-| Market cap | $4.08B | EV/EBITDA | 45.48 |
+| Price | $102.72 | EV/Sales | 3.72 |
+| Market cap | $4.08B | EV/EBITDA | 47.97 |
 | Beta | 1.94 | Gross margin | 44.72% |
 | RSI(14) | 55.9 | Operating margin | -2.79% |
 | ATR(14) | 4.60 | Profit margin | -41.00% |

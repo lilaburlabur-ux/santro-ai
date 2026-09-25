@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-25T20:31:54+00:00",
+  "as_of": "2026-09-25T20:37:13+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "ZS",
    "company": "Zscaler Inc",
-   "move_pct": -10.0,
-   "price": 193.18,
+   "move_pct": -9.9,
+   "price": 193.4,
    "volume": 6661096,
    "volume_vs_avg": "~2x",
    "heat_score": 70,
@@ -25,26 +25,10 @@
   },
   {
    "rank": 2,
-   "ticker": "DDOG",
-   "company": "Datadog Inc",
-   "move_pct": 7.59,
-   "price": 276.43,
-   "volume": 5306064,
-   "volume_vs_avg": "~1.5x",
-   "heat_score": 49,
-   "direction": "up",
-   "why": "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/datadog-climbs-6-approaches-52-180630074.html",
-   "published": "2026-09-25T18:06:30Z",
-   "sector": "AI Applications & Data Software"
-  },
-  {
-   "rank": 3,
    "ticker": "DELL",
    "company": "Dell Technologies Inc",
-   "move_pct": 5.22,
-   "price": 564.02,
+   "move_pct": 5.08,
+   "price": 563.25,
    "volume": 8680957,
    "volume_vs_avg": "~1.0x",
    "heat_score": 38,

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-25T21:06:32+00:00",
+  "as_of": "2026-09-25T21:07:35+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -12,7 +12,7 @@
    "ticker": "ZS",
    "company": "Zscaler Inc",
    "move_pct": -9.9,
-   "price": 193.38,
+   "price": 193.4,
    "volume": 6676217,
    "volume_vs_avg": "~2x",
    "heat_score": 70,

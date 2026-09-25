@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-25T18:55:39+00:00",
+  "as_of": "2026-09-25T19:10:40+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,10 +11,10 @@
    "rank": 1,
    "ticker": "ZS",
    "company": "Zscaler Inc",
-   "move_pct": -8.91,
-   "price": 195.52,
-   "volume": 4719725,
-   "volume_vs_avg": "~1.5x",
+   "move_pct": -8.99,
+   "price": 195.35,
+   "volume": 4860490,
+   "volume_vs_avg": "~2x",
    "heat_score": 64,
    "direction": "down",
    "why": "Why Zscaler Stock Is on Pace for Its Worst Day in 4 Months",
@@ -27,33 +27,17 @@
    "rank": 2,
    "ticker": "DELL",
    "company": "Dell Technologies Inc",
-   "move_pct": 5.87,
-   "price": 567.48,
-   "volume": 7070378,
+   "move_pct": 5.54,
+   "price": 565.71,
+   "volume": 7328518,
    "volume_vs_avg": "~0.8x",
-   "heat_score": 39,
+   "heat_score": 38,
    "direction": "up",
    "why": "Dell Stock Jumps 3.5% as Gemini Enters the XPS Franchise",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-jumps-3-5-175202479.html",
    "published": "2026-09-25T17:52:02Z",
    "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 3,
-   "ticker": "DDOG",
-   "company": "Datadog Inc",
-   "move_pct": 5.04,
-   "price": 269.86,
-   "volume": 3472624,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/datadog-climbs-6-approaches-52-180630074.html",
-   "published": "2026-09-25T18:06:30Z",
-   "sector": "AI Applications & Data Software"
   }
  ]
 }

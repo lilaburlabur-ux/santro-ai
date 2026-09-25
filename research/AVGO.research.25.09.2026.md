@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| How to make sense of 7% mortgage rates and Oracle's AI data center disruption | Yahoo Finance Video | 2026-09-25 |
 | How to fix overvalued AI companies and a McDonald's market play | Yahoo Finance Video | 2026-09-25 |
-| Is AMD Stock Priced Right Against Its Chip Peers? | Trefis | 2026-09-25 |
-| Marvell’s 203% YTD Surge Sets High Bar but We See More Runway Ahead | 24/7 Wall St. | 2026-09-25 |
-| What Does NVIDIA Offer That Texas Instruments Does Not? | Trefis | 2026-09-25 |
+| How Much Track Is Left For MRVL Stock? | Trefis | 2026-09-25 |
+| UiPath And 2 Other Undervalued Stocks | Simply Wall St. | 2026-09-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $89.10B | Revenue growth 85.50% y/y |
 | Profitability | Gross 75.52%, operating 54.31%, net 42.94% | ROA 15.37%, ROE 44.25% |
 | Balance sheet | Cash $23.98B, debt $59.42B | Current ratio 2.50, debt/equity 59.60 |
-| Valuation | P/E 45.58, forward P/E 18.20, P/S 18.90, P/B 16.90 | EV/Sales 19.17, EV/EBITDA 32.68 |
+| Valuation | P/E 44.94, forward P/E 18.20, P/S 18.90, P/B 16.90 | EV/Sales 19.17, EV/EBITDA 32.68 |
 | Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $531.85 (47 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | SMA200 dist | -3.88% | Revenue (ttm) | $89.10B |
 | 52W high | $479.94 | Revenue growth y/y | 85.50% |
 | 52W low | $292.41 | Inst. ownership | 79.81% |
-| P/E (ttm) | 45.58 | Insider ownership | 1.94% |
+| P/E (ttm) | 44.94 | Insider ownership | 1.94% |
 | Forward P/E | 18.20 | Short float | 1.11% |
 | PEG (trailing) | 0.36 | Avg volume | 23,068,312 |
 | P/S | 18.90 | Employees | 33,000 |

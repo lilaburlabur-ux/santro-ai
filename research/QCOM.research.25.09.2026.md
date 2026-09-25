@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
-| Is AMD Stock Priced Right Against Its Chip Peers? | Trefis | 2026-09-25 |
-| Qualcomm Stocks Jump as Apple Extends the Royalty Bridge | GuruFocus.com | 2026-09-25 |
-| Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal | MT Newswires | 2026-09-25 |
-| Qualcomm Rallies 6% as Buyers Reverse Apple Renewal Selloff; Apple Stock Ticks Up | 24/7 Wall St. | 2026-09-25 |
+| Qualcomm's CMO reveals the secret behind Snapdragon's rise | Yahoo Finance Video | 2026-09-25 |
+| These are stocks getting lifted up by Meta's Muse | Yahoo Finance Video | 2026-09-25 |
+| How Much Track Is Left For MRVL Stock? | Trefis | 2026-09-25 |
+| Chip Stocks Rise After Two-Day Skid. Tower Semiconductor Among Leaders. | Investor's Business Daily | 2026-09-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

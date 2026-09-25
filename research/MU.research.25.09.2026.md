@@ -36,10 +36,10 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | Headline | Source | Date |
 |---|---|---|
-| Stock Market Today: Dow Gains 400 Points On U.S-Iran Peace Hopes; Micron Rises (Live Coverage) | Investor's Business Daily | 2026-09-25 |
+| Dow Jones Futures: Growth Stocks Shrug Off Surging Yields; Micron, SpaceX, Tesla, Key Economic Data Due | Investor's Business Daily | 2026-09-25 |
+| Stock Market Today: Dow Surges 450 Points On U.S.-Iran Peace Hopes; Micron Rises | Investor's Business Daily | 2026-09-25 |
+| Micron Technology Stock Wavers Ahead Of Fiscal Q4 Earnings Report | Investor's Business Daily | 2026-09-25 |
 | Two Numbers to Watch in Micron’s Earnings Report Next Week | Barrons.com | 2026-09-25 |
-| Micron Headlines Earnings Calendar; Jabil, Nike Also On Deck | Investor's Business Daily | 2026-09-25 |
-| Micron vs. NVIDIA: 1 AI Stock to Buy Now and 1 to Watch | Zacks | 2026-09-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

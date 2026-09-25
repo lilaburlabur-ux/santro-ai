@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| How Much Track Is Left For MRVL Stock? | Trefis | 2026-09-25 |
 | Is AMD Stock Priced Right Against Its Chip Peers? | Trefis | 2026-09-25 |
+| What Makes Credo Technology Stock A Buy Today? | Trefis | 2026-09-25 |
 | Marvell’s 203% YTD Surge Sets High Bar but We See More Runway Ahead | 24/7 Wall St. | 2026-09-25 |
-| Microsoft, Meta, Akamai, Zscaler, Comcast, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-25 |
-| Marvell (MRVL) Stock May Be Fully Priced Following Fresh AI Optical News | Simply Wall St. | 2026-09-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $9.45B | Revenue growth 36.50% y/y |
 | Profitability | Gross 52.22%, operating 16.68%, net 27.93% | ROA 4.12%, ROE 16.52% |
 | Balance sheet | Cash $3.93B, debt $5.29B | Current ratio 3.17, debt/equity 28.52 |
-| Valuation | P/E 86.45, forward P/E 38.76, P/S 24.91, P/B 12.59 | EV/Sales 24.17, EV/EBITDA 80.14 |
+| Valuation | P/E 86.45, forward P/E 38.76, P/S 24.91, P/B 12.39 | EV/Sales 24.17, EV/EBITDA 80.14 |
 | Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $289.11 (43 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -125,7 +125,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Forward P/E | 38.76 | Short float | 4.18% |
 | PEG (trailing) | 1.39 | Avg volume | 24,054,593 |
 | P/S | 24.91 | Employees | 7,480 |
-| P/B | 12.59 | Analyst rec (1=buy..5=sell) | 1.0 |
+| P/B | 12.39 | Analyst rec (1=buy..5=sell) | 1.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

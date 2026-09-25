@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Trump says China's Xi 'seemed to like' renaming AI as super intelligence | Yahoo Finance | 2026-09-25 |
-| AMD CEO Lisa Su is having a September to remember | Yahoo Finance | 2026-09-25 |
-| Wall Street Loves This EV Stock. Here's Why I'm Not Buying | Motley Fool | 2026-09-25 |
-| Nvidia, AMD Love This High-Tech Facilitator. So Does Wall Street. | Investor's Business Daily | 2026-09-25 |
+| What mortgage rate surges mean for home improvement stocks | Yahoo Finance Video | 2026-09-25 |
+| Is Dogecoin the Best Crypto You Can Buy Right Now? | Motley Fool | 2026-09-25 |
+| 1 Wall Street Analyst Just Called Netflix a Sell. Is It Time To Dump the Streaming Stock? | Motley Fool | 2026-09-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

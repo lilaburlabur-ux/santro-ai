@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-25T15:20:24+00:00",
+  "as_of": "2026-09-25T15:35:41+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,9 +11,9 @@
    "rank": 1,
    "ticker": "ZS",
    "company": "Zscaler Inc",
-   "move_pct": -8.79,
-   "price": 195.78,
-   "volume": 2554795,
+   "move_pct": -8.8,
+   "price": 195.76,
+   "volume": 2686743,
    "volume_vs_avg": "~0.8x",
    "heat_score": 60,
    "direction": "down",
@@ -27,33 +27,17 @@
    "rank": 2,
    "ticker": "DDOG",
    "company": "Datadog Inc",
-   "move_pct": 5.46,
-   "price": 270.96,
-   "volume": 2336740,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 37,
+   "move_pct": 5.73,
+   "price": 271.63,
+   "volume": 2416211,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 38,
    "direction": "up",
    "why": "Datadog, Inc. (DDOG) Is a Trending Stock: Facts to Know Before Betting on It",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/datadog-inc-ddog-trending-stock-120005847.html",
    "published": "2026-09-25T12:00:05Z",
    "sector": "AI Applications & Data Software"
-  },
-  {
-   "rank": 3,
-   "ticker": "QCOM",
-   "company": "Qualcomm Inc",
-   "move_pct": 5.25,
-   "price": 204.46,
-   "volume": 6555899,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 36,
-   "direction": "up",
-   "why": "Arm Climbs 5% as Buyers Return After Sharp Pullback; Qualcomm Nudges Higher, Intel Sits Out the Rally",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/arm-climbs-5-buyers-return-130537961.html",
-   "published": "2026-09-25T13:05:37Z",
-   "sector": "AI Chips & Compute"
   }
  ]
 }

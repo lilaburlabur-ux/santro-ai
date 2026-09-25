@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-25T13:53:57+00:00",
+  "as_of": "2026-09-25T14:09:14+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,35 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "DDOG",
-   "company": "Datadog Inc",
-   "move_pct": 7.81,
-   "price": 276.99,
-   "volume": 1202540,
-   "volume_vs_avg": "~0.3x",
-   "heat_score": 44,
-   "direction": "up",
-   "why": "Datadog, Inc. (DDOG) Is a Trending Stock: Facts to Know Before Betting on It",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/datadog-inc-ddog-trending-stock-120005847.html",
-   "published": "2026-09-25T12:00:05Z",
-   "sector": "AI Applications & Data Software"
-  },
-  {
-   "rank": 2,
    "ticker": "ZS",
    "company": "Zscaler Inc",
-   "move_pct": -6.51,
-   "price": 200.67,
-   "volume": 1092545,
-   "volume_vs_avg": "~0.3x",
-   "heat_score": 39,
+   "move_pct": -8.16,
+   "price": 197.12,
+   "volume": 1533703,
+   "volume_vs_avg": "~0.5x",
+   "heat_score": 56,
    "direction": "down",
    "why": "Zscaler Stock Falls on Exec Change. Analysts See It as a \u2018Low-Disruption\u2019 Move.",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.barrons.com/articles/zscaler-stock-executive-change-8aff21d6?siteid=yhoof2&yptr=yahoo",
    "published": "2026-09-25T11:32:00Z",
    "sector": "Cybersecurity"
+  },
+  {
+   "rank": 2,
+   "ticker": "DDOG",
+   "company": "Datadog Inc",
+   "move_pct": 6.32,
+   "price": 273.16,
+   "volume": 1637018,
+   "volume_vs_avg": "~0.5x",
+   "heat_score": 39,
+   "direction": "up",
+   "why": "Datadog, Inc. (DDOG) Is a Trending Stock: Facts to Know Before Betting on It",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/datadog-inc-ddog-trending-stock-120005847.html",
+   "published": "2026-09-25T12:00:05Z",
+   "sector": "AI Applications & Data Software"
   }
  ]
 }

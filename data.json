@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-26T14:52:34+00:00",
-  "as_of_local": "2026-09-26 14:52:34 UTC",
+  "as_of_utc": "2026-09-26T15:07:42+00:00",
+  "as_of_local": "2026-09-26 15:07:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -21,16 +19,16 @@
           "published": "2026-09-25T19:38:05Z"
         },
         {
-          "title": "The United States Debt Just Passed an Auspicious Milestone. Here's What Legendary Value Investor Howard Marks Says Investors Should Do About It.",
-          "url": "https://finance.yahoo.com/economy/policy/articles/united-states-debt-just-passed-142352520.html",
+          "title": "Here's What 60 Years of History Tells Us About Stock Market Crashes",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-60-years-history-tells-150300904.html",
           "publisher": "Motley Fool",
-          "published": "2026-09-26T14:23:52Z"
+          "published": "2026-09-26T15:03:00Z"
         },
         {
-          "title": "Warren Buffett's Top Advice for Investors Bracing for a Market Crash",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-top-advice-investors-142000876.html",
+          "title": "What Every 67-Year-Old Should Know About Social Security",
+          "url": "https://finance.yahoo.com/markets/articles/every-67-old-know-social-145000413.html",
           "publisher": "Motley Fool",
-          "published": "2026-09-26T14:20:00Z"
+          "published": "2026-09-26T14:50:00Z"
         }
       ]
     },
@@ -119,12 +117,40 @@
       ]
     },
     {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 630.63,
+      "previous_close": 629.26,
+      "change_pct": 0.22,
+      "market_cap": 1029487743707.5295,
+      "headlines": [
+        {
+          "title": "Trump says China's Xi 'seemed to like' renaming AI as super intelligence",
+          "url": "https://finance.yahoo.com/markets/article/trump-says-chinas-xi-seemed-to-like-renaming-ai-as-super-intelligence-193805901.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-09-25T19:38:05Z"
+        },
+        {
+          "title": "Musk\u2019s \u2018Zuckerberg moment,\u2019 mortgage rates, and Google\u2019s space bet",
+          "url": "https://finance.yahoo.com/video/musk-zuckerberg-moment-mortgage-rates-153258991.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-09-25T15:32:58Z"
+        },
+        {
+          "title": "If You Invest $500 a Month in AMD Starting Now, This is What You\u2019d Have in 2030",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/invest-500-month-amd-starting-140015320.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-26T14:00:15Z"
+        }
+      ]
+    },
+    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 123.0,
       "previous_close": 127.39,
       "change_pct": -3.45,
-      "market_cap": 646306736745.0,
+      "market_cap": 650190947226.0,
       "headlines": [
         {
           "title": "Microsoft CEO: We 'have to earn that permission' to build data centers from communities",
@@ -264,7 +290,7 @@
       "price": 128.05,
       "previous_close": 122.22,
       "change_pct": 4.77,
-      "market_cap": 18186976763.041992,
+      "market_cap": 18150986645.034256,
       "headlines": [
         {
           "title": "These are stocks getting lifted up by Meta's Muse",
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 84034.99,
-      "change_pct": 0.0
+      "price": 84013.9,
+      "change_pct": -0.03
     },
     {
       "label": "Gold",

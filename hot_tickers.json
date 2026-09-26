@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-25T23:57:27+00:00",
+  "as_of": "2026-09-26T02:59:04+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,18 +9,18 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "ZS",
-   "company": "Zscaler Inc",
-   "move_pct": -10.04,
-   "price": 193.1,
-   "volume": 6676217,
-   "volume_vs_avg": "~2x",
-   "heat_score": 71,
+   "ticker": "S",
+   "company": "SentinelOne Inc",
+   "move_pct": -6.67,
+   "price": 22.38,
+   "volume": 10460400,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 44,
    "direction": "down",
-   "why": "Microsoft, Meta, Akamai, Zscaler, Comcast, and More Stocks That Explain Today\u2019s Market",
+   "why": "How Expanding Wayfinder Threat Hunting Across Major Clouds At SentinelOne (S) Has Changed Its Investment Story",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.barrons.com/articles/stock-movers-4d9aad60?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-09-25T20:39:00Z",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/expanding-wayfinder-threat-hunting-across-010938480.html",
+   "published": "2026-09-26T01:09:38Z",
    "sector": "Cybersecurity"
   }
  ]

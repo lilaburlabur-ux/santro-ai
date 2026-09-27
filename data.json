@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-27T14:36:56+00:00",
-  "as_of_local": "2026-09-27 14:36:56 UTC",
+  "as_of_utc": "2026-09-27T14:42:42+00:00",
+  "as_of_local": "2026-09-27 14:42:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-elite-dividend-stocks-hiding-155822033.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-26T15:58:22Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 1082.28,
-      "previous_close": 1080.53,
-      "change_pct": 0.16,
-      "market_cap": 1222319652551.97,
-      "headlines": [
-        {
-          "title": "2 key checks for the AI trade and the economy: What to watch this week",
-          "url": "https://finance.yahoo.com/markets/article/2-key-checks-for-the-ai-trade-and-the-economy-what-to-watch-this-week-100000239.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-09-27T10:00:00Z"
-        },
-        {
-          "title": "Micron Guided to an 86% Gross Margin. No Memory Maker Has Ever Held a Number Like That for Long.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-guided-86-gross-margin-100102401.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-27T10:01:02Z"
-        },
-        {
-          "title": "What Lies Ahead for Micron (MU) in the Upcoming Fourth Quarter Report?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lies-ahead-micron-mu-upcoming-091221984.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-27T09:12:21Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.16,
-          "price": 1082.28,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.16,
-        "price": 1082.28,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 84712.33,
-      "change_pct": 0.36
+      "price": 84760.89,
+      "change_pct": 0.42
     },
     {
       "label": "Gold",

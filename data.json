@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-27T05:00:58+00:00",
-  "as_of_local": "2026-09-27 05:00:58 UTC",
+  "as_of_utc": "2026-09-27T05:05:35+00:00",
+  "as_of_local": "2026-09-27 05:05:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LSCC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -152,7 +150,7 @@
       "price": 123.0,
       "previous_close": 127.39,
       "change_pct": -3.45,
-      "market_cap": 646306736745.0,
+      "market_cap": 650190947226.0,
       "headlines": [
         {
           "title": "ASML vs. Qualcomm: Which AI Semiconductor Stock Is a Better Buy in 2026?",
@@ -283,6 +281,34 @@
           "url": "https://finance.yahoo.com/technology/articles/own-semiconductor-ai-power-own-204109239.html",
           "publisher": "Trefis",
           "published": "2026-09-23T20:41:09Z"
+        }
+      ]
+    },
+    {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 128.05,
+      "previous_close": 122.22,
+      "change_pct": 4.77,
+      "market_cap": 18150986645.034256,
+      "headlines": [
+        {
+          "title": "These are stocks getting lifted up by Meta's Muse",
+          "url": "https://finance.yahoo.com/video/stocks-getting-lifted-metas-muse-135520851.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-09-25T13:55:20Z"
+        },
+        {
+          "title": "Entegris and Lattice Semiconductor Shares Are Soaring, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/entegris-lattice-semiconductor-shares-soaring-210946251.html",
+          "publisher": "StockStory",
+          "published": "2026-09-22T21:09:46Z"
+        },
+        {
+          "title": "This Under-the-Radar Chip Company Could Have a Much Bigger Future",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/under-radar-chip-company-could-183028114.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-22T18:30:28Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 84300.48,
-      "change_pct": 0.32
+      "price": 84353.27,
+      "change_pct": 0.38
     },
     {
       "label": "Gold",

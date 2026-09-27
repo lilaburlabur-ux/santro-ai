@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-27T09:36:53+00:00",
-  "as_of_local": "2026-09-27 09:36:53 UTC",
+  "as_of_utc": "2026-09-27T09:41:59+00:00",
+  "as_of_local": "2026-09-27 09:41:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LSCC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -287,6 +285,34 @@
       ]
     },
     {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 128.05,
+      "previous_close": 122.22,
+      "change_pct": 4.77,
+      "market_cap": 18150986645.034256,
+      "headlines": [
+        {
+          "title": "These are stocks getting lifted up by Meta's Muse",
+          "url": "https://finance.yahoo.com/video/stocks-getting-lifted-metas-muse-135520851.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-09-25T13:55:20Z"
+        },
+        {
+          "title": "Entegris and Lattice Semiconductor Shares Are Soaring, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/entegris-lattice-semiconductor-shares-soaring-210946251.html",
+          "publisher": "StockStory",
+          "published": "2026-09-22T21:09:46Z"
+        },
+        {
+          "title": "This Under-the-Radar Chip Company Could Have a Much Bigger Future",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/under-radar-chip-company-could-183028114.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-22T18:30:28Z"
+        }
+      ]
+    },
+    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 152.05,
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 84712.35,
-      "change_pct": 0.36
+      "price": 84756.99,
+      "change_pct": 0.42
     },
     {
       "label": "Gold",

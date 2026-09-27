@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-27T14:42:42+00:00",
-  "as_of_local": "2026-09-27 14:42:42 UTC",
+  "as_of_utc": "2026-09-27T14:57:14+00:00",
+  "as_of_local": "2026-09-27 14:57:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -15,22 +13,22 @@
       "market_cap": 5434765466857.91,
       "headlines": [
         {
+          "title": "The Fed Just Raised Interest Rates: These 2 ETFs Could Be the Smartest Buys Right Now",
+          "url": "https://finance.yahoo.com/markets/options/articles/fed-just-raised-interest-rates-145000410.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-27T14:50:00Z"
+        },
+        {
+          "title": "Greg Abel Just Broke Berkshire's 14-Quarter Streak of Net Stock Sales, Buying a Net $20 Billion Last Quarter. What That Reversal Means for Berkshire's Portfolio.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/greg-abel-just-broke-berkshires-143500070.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-27T14:35:00Z"
+        },
+        {
           "title": "The Math Doesn't Lie: What It Really Costs to Generate $300 in Dividend Income From Southern Company Stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/math-doesnt-lie-really-costs-141500826.html",
           "publisher": "Motley Fool",
           "published": "2026-09-27T14:15:00Z"
-        },
-        {
-          "title": "AMD Just Hit $1 Trillion After A Blistering 194% Surge YTD \u2014 Beth Kindig Says The \u2018Dark Horse\u2019 Still Has Room To Run",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-just-hit-1-trillion-140602169.html",
-          "publisher": "Stocktwits",
-          "published": "2026-09-27T14:06:02Z"
-        },
-        {
-          "title": "2 Nuclear Stocks Crashed by About 50% in 2026. Here's the 1 Thing That Would Bring Them Back.",
-          "url": "https://finance.yahoo.com/energy/articles/2-nuclear-stocks-crashed-50-135800113.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-27T13:58:00Z"
         }
       ]
     },
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-elite-dividend-stocks-hiding-155822033.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-26T15:58:22Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 1082.28,
+      "previous_close": 1080.53,
+      "change_pct": 0.16,
+      "market_cap": 1222319652551.97,
+      "headlines": [
+        {
+          "title": "2 key checks for the AI trade and the economy: What to watch this week",
+          "url": "https://finance.yahoo.com/markets/article/2-key-checks-for-the-ai-trade-and-the-economy-what-to-watch-this-week-100000239.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-09-27T10:00:00Z"
+        },
+        {
+          "title": "Micron Guided to an 86% Gross Margin. No Memory Maker Has Ever Held a Number Like That for Long.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-guided-86-gross-margin-100102401.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-27T10:01:02Z"
+        },
+        {
+          "title": "What Lies Ahead for Micron (MU) in the Upcoming Fourth Quarter Report?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lies-ahead-micron-mu-upcoming-091221984.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-27T09:12:21Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 0.16,
+          "price": 1082.28,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 0.16,
+        "price": 1082.28,
         "currency": "USD"
       },
       {
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 84760.89,
-      "change_pct": 0.42
+      "price": 84606.95,
+      "change_pct": 0.24
     },
     {
       "label": "Gold",

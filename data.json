@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-27T19:52:45+00:00",
-  "as_of_local": "2026-09-27 19:52:45 UTC",
+  "as_of_utc": "2026-09-27T19:57:56+00:00",
+  "as_of_local": "2026-09-27 19:57:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -31,6 +29,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-10-000-netflix-192300131.html",
           "publisher": "Motley Fool",
           "published": "2026-09-27T19:23:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 450.61,
+      "previous_close": 451.15,
+      "change_pct": -0.12,
+      "market_cap": 2337076979024.1895,
+      "headlines": [
+        {
+          "title": "Price Prediction: TSMC Could Reach $600 as Capacity Constraints Drive the AI Boom Forward",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-tsmc-could-reach-160021255.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-27T16:00:21Z"
+        },
+        {
+          "title": "Is Taiwan Semiconductor Manufacturing (NYSE:TSM) Priced For Perfection Or Still A Bargain?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-nyse-tsm-130658176.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-27T13:06:58Z"
+        },
+        {
+          "title": "ASML vs. Qualcomm: Which AI Semiconductor Stock Is a Better Buy in 2026?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-vs-qualcomm-ai-semiconductor-162001499.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-26T16:20:01Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 84757.64,
-      "change_pct": 0.42
+      "price": 84728.73,
+      "change_pct": 0.38
     },
     {
       "label": "Gold",

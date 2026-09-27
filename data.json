@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-27T18:32:04+00:00",
-  "as_of_local": "2026-09-27 18:32:04 UTC",
+  "as_of_utc": "2026-09-27T18:47:08+00:00",
+  "as_of_local": "2026-09-27 18:47:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -91,6 +89,34 @@
       ]
     },
     {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 1082.28,
+      "previous_close": 1080.53,
+      "change_pct": 0.16,
+      "market_cap": 1222319652551.97,
+      "headlines": [
+        {
+          "title": "2 key checks for the AI trade and the economy: What to watch this week",
+          "url": "https://finance.yahoo.com/markets/article/2-key-checks-for-the-ai-trade-and-the-economy-what-to-watch-this-week-100000239.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-09-27T10:00:00Z"
+        },
+        {
+          "title": "Jobs, Inflation, Nike, Carmax, Micron, and More to Watch This Week",
+          "url": "https://www.barrons.com/articles/jobs-inflation-nike-carmax-micron-and-more-to-watch-this-week-3e16a952?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-27T18:00:00Z"
+        },
+        {
+          "title": "Dow Jones Futures Due Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-comments-micron-spacex-tesla-economic-data/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-27T17:43:57Z"
+        }
+      ]
+    },
+    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 630.63,
@@ -124,7 +150,7 @@
       "price": 123.0,
       "previous_close": 127.39,
       "change_pct": -3.45,
-      "market_cap": 646306736745.0,
+      "market_cap": 650190947226.0,
       "headlines": [
         {
           "title": "Intel Stock Surged Over 40% in September. History Shows What's Next.",
@@ -264,7 +290,7 @@
       "price": 128.05,
       "previous_close": 122.22,
       "change_pct": 4.77,
-      "market_cap": 18186976763.041992,
+      "market_cap": 18150986645.034256,
       "headlines": [
         {
           "title": "These are stocks getting lifted up by Meta's Muse",
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 0.16,
+          "price": 1082.28,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 0.16,
+        "price": 1082.28,
         "currency": "USD"
       },
       {
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 84694.87,
-      "change_pct": 0.34
+      "price": 84752.79,
+      "change_pct": 0.41
     },
     {
       "label": "Gold",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-27T09:21:42+00:00",
-  "as_of_local": "2026-09-27 09:21:42 UTC",
+  "as_of_utc": "2026-09-27T09:36:53+00:00",
+  "as_of_local": "2026-09-27 09:36:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,22 +15,22 @@
       "market_cap": 5434765466857.91,
       "headlines": [
         {
+          "title": "Anduril Isn't the Only Private Defense Contractor Building Advanced Air Force Drones",
+          "url": "https://finance.yahoo.com/technology/articles/anduril-isnt-only-private-defense-092500146.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-27T09:25:00Z"
+        },
+        {
+          "title": "Prediction: A Stock Market Crash Is on the Way. Investors Who Do This 1 Thing Can Still Come Out on Top, Based on 155 Years' Worth of History",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-stock-market-crash-way-092000493.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-27T09:20:00Z"
+        },
+        {
           "title": "Anthropic and OpenAI Are Both Racing to IPO. GE Vernova Wins Either Way.",
           "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-openai-both-racing-ipo-090400839.html",
           "publisher": "Motley Fool",
           "published": "2026-09-27T09:04:00Z"
-        },
-        {
-          "title": "3 Fidelity ETFs to Buy for High Yields and Portfolio Diversification",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-fidelity-etfs-buy-high-084000176.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-27T08:40:00Z"
-        },
-        {
-          "title": "The Next Phase of Trumpflation Has Arrived, and It's Terrible News for the Federal Reserve and Wall Street",
-          "url": "https://finance.yahoo.com/economy/policy/articles/next-phase-trumpflation-arrived-terrible-082601997.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-27T08:26:01Z"
         }
       ]
     },
@@ -97,6 +99,12 @@
       "market_cap": 1222319652551.97,
       "headlines": [
         {
+          "title": "What Lies Ahead for Micron (MU) in the Upcoming Fourth Quarter Report?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lies-ahead-micron-mu-upcoming-091221984.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-27T09:12:21Z"
+        },
+        {
           "title": "Dow Jones Futures: Growth Shrugs Off Surging Yields, But Trump Rejects Iran Deal; Micron, SpaceX, Tesla Eye Buy Points",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-growth-stocks-shrug-off-surging-yields-micron-spacex-tesla-economic-data/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -107,12 +115,6 @@
           "url": "https://finance.yahoo.com/technology/articles/big-micron-technology-mu-100-180926801.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-26T18:09:26Z"
-        },
-        {
-          "title": "Micron (MU) Trades at Just 6.5x Forward Earnings. RBC Says SCAs Could Change That",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-trades-just-6-164950562.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-26T16:49:50Z"
         }
       ]
     },
@@ -150,7 +152,7 @@
       "price": 123.0,
       "previous_close": 127.39,
       "change_pct": -3.45,
-      "market_cap": 646306736745.0,
+      "market_cap": 650190947226.0,
       "headlines": [
         {
           "title": "ASML vs. Qualcomm: Which AI Semiconductor Stock Is a Better Buy in 2026?",
@@ -281,34 +283,6 @@
           "url": "https://finance.yahoo.com/technology/articles/own-semiconductor-ai-power-own-204109239.html",
           "publisher": "Trefis",
           "published": "2026-09-23T20:41:09Z"
-        }
-      ]
-    },
-    {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 128.05,
-      "previous_close": 122.22,
-      "change_pct": 4.77,
-      "market_cap": 18186976763.041992,
-      "headlines": [
-        {
-          "title": "These are stocks getting lifted up by Meta's Muse",
-          "url": "https://finance.yahoo.com/video/stocks-getting-lifted-metas-muse-135520851.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-09-25T13:55:20Z"
-        },
-        {
-          "title": "Entegris and Lattice Semiconductor Shares Are Soaring, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/entegris-lattice-semiconductor-shares-soaring-210946251.html",
-          "publisher": "StockStory",
-          "published": "2026-09-22T21:09:46Z"
-        },
-        {
-          "title": "This Under-the-Radar Chip Company Could Have a Much Bigger Future",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/under-radar-chip-company-could-183028114.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-22T18:30:28Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 84643.24,
-      "change_pct": 0.28
+      "price": 84712.35,
+      "change_pct": 0.36
     },
     {
       "label": "Gold",

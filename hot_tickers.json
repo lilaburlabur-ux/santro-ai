@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-28T16:57:49+00:00",
+  "as_of": "2026-09-28T17:04:21+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,9 +11,9 @@
    "rank": 1,
    "ticker": "MDB",
    "company": "MongoDB Inc",
-   "move_pct": -18.12,
-   "price": 336.05,
-   "volume": 13523286,
+   "move_pct": -17.64,
+   "price": 338.05,
+   "volume": 13664922,
    "volume_vs_avg": "~8x",
    "heat_score": 99,
    "direction": "down",
@@ -25,11 +25,27 @@
   },
   {
    "rank": 2,
+   "ticker": "QCOM",
+   "company": "Qualcomm Inc",
+   "move_pct": -6.34,
+   "price": 189.18,
+   "volume": 7041311,
+   "volume_vs_avg": "~0.5x",
+   "heat_score": 40,
+   "direction": "down",
+   "why": "Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5%",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/arm-sinks-9-chip-selloff-155129945.html",
+   "published": "2026-09-28T15:51:29Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 3,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": -5.81,
-   "price": 115.86,
-   "volume": 67163291,
+   "move_pct": -5.88,
+   "price": 115.76,
+   "volume": 68198888,
    "volume_vs_avg": "~0.7x",
    "heat_score": 39,
    "direction": "down",
@@ -37,22 +53,6 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-falls-over-4-164441763.html",
    "published": "2026-09-28T16:44:41Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 3,
-   "ticker": "QCOM",
-   "company": "Qualcomm Inc",
-   "move_pct": -6.17,
-   "price": 189.5,
-   "volume": 6967724,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 39,
-   "direction": "down",
-   "why": "Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5%",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/arm-sinks-9-chip-selloff-155129945.html",
-   "published": "2026-09-28T15:51:29Z",
    "sector": "AI Chips & Compute"
   }
  ]

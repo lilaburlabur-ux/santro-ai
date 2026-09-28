@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-28T12:48:50+00:00",
-  "as_of_local": "2026-09-28 12:48:50 UTC",
+  "as_of_utc": "2026-09-28T12:53:24+00:00",
+  "as_of_local": "2026-09-28 12:53:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -19,16 +19,16 @@
           "published": "2026-09-28T12:13:42Z"
         },
         {
+          "title": "Update: US Equity Futures Drop Pre-Bell as Oil Prices Rise Amid US Rejection of Iran's Proposal to Reopen Strait of Hormuz",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-drop-pre-124651902.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-28T12:46:51Z"
+        },
+        {
           "title": "Stock Market Today: Dow Falls, Trump Rejects Iran Deal; Oil, Yields Jump As Nvidia Rises On Buyback (Live Coverage)",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-oil-prices-treasury-yields/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-09-28T12:43:14Z"
-        },
-        {
-          "title": "NVDA Stock Climbs After Nvidia Approves \u2018Largest Buyback Increase\u2019 In Company History",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-climbs-nvidia-approves-122814405.html",
-          "publisher": "Stocktwits",
-          "published": "2026-09-28T12:28:14Z"
         }
       ]
     },
@@ -109,10 +109,10 @@
           "published": "2026-09-27T10:00:00Z"
         },
         {
-          "title": "Stock Market Today: Dow Falls, Trump Rejects Iran Deal; Oil, Yields Jump As Nvidia Rises On Buyback (Live Coverage)",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-oil-prices-treasury-yields/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-28T12:43:14Z"
+          "title": "Update: US Equity Futures Drop Pre-Bell as Oil Prices Rise Amid US Rejection of Iran's Proposal to Reopen Strait of Hormuz",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-drop-pre-124651902.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-28T12:46:51Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "price": 123.0,
       "previous_close": 127.39,
       "change_pct": -3.45,
-      "market_cap": 646306736745.0,
+      "market_cap": 650190947226.0,
       "headlines": [
         {
           "title": "SK Hynix Shares Plunge After Report Reveals Potential $100 Billion Solidigm IPO",
@@ -290,7 +290,7 @@
       "price": 128.05,
       "previous_close": 122.22,
       "change_pct": 4.77,
-      "market_cap": 18186976763.041992,
+      "market_cap": 18150986645.034256,
       "headlines": [
         {
           "title": "These are stocks getting lifted up by Meta's Muse",
@@ -579,14 +579,19 @@
   },
   "tape": [
     {
+      "label": "SPX",
+      "price": 7743.41,
+      "change_pct": 0.51
+    },
+    {
       "label": "BTC",
-      "price": 83413.71,
-      "change_pct": -1.24
+      "price": 83446.6,
+      "change_pct": -1.2
     },
     {
       "label": "Gold",
-      "price": 4180.7,
-      "change_pct": -3.25
+      "price": 4176.8,
+      "change_pct": -3.34
     },
     {
       "label": "Nasdaq100",

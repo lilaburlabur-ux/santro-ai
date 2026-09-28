@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-26T02:59:04+00:00",
+  "as_of": "2026-09-28T00:11:24+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,18 +9,18 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "S",
-   "company": "SentinelOne Inc",
-   "move_pct": -6.67,
-   "price": 22.38,
-   "volume": 10460400,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 44,
+   "ticker": "OKTA",
+   "company": "Okta Inc",
+   "move_pct": -5.54,
+   "price": 195.19,
+   "volume": 3990700,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 39,
    "direction": "down",
-   "why": "How Expanding Wayfinder Threat Hunting Across Major Clouds At SentinelOne (S) Has Changed Its Investment Story",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/expanding-wayfinder-threat-hunting-across-010938480.html",
-   "published": "2026-09-26T01:09:38Z",
+   "why": "Bank of America raises Okta stock target on major AI opportunity",
+   "catalyst_type": "financing",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/bank-america-raises-okta-stock-210300662.html",
+   "published": "2026-09-27T21:03:00Z",
    "sector": "Cybersecurity"
   }
  ]

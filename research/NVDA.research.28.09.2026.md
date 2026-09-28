@@ -36,10 +36,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Stock market today: Dow, S&P 500, Nasdaq fall as Treasury yields continue to climb | Yahoo Finance | 2026-09-28 |
-| Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend: Chart of the Day | Yahoo Finance | 2026-09-28 |
-| Nvidia & Meta deliver big updates, while Trump reconsiders Biden's fuel mandates | Yahoo Finance Video | 2026-09-28 |
-| Trump hosted Anthropic's CEO for dinner at the White House. Here's why that matters. | Yahoo Finance Video | 2026-09-28 |
+| What Nvidia's $150 billion stock buyback means for shareholders and potential investors | Yahoo Personal Finance | 2026-09-28 |
+| Nvidia announces jaw-dropping $150 billion stock buyback, largest single authorization in history | Yahoo Finance | 2026-09-28 |
+| 'So much cash': Nvidia stock jumps after largest share buyback ever | Yahoo Finance | 2026-09-28 |
+| The impact that AI will have on advertising, according to Sir Martin Sorrell | Yahoo Finance Video | 2026-09-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

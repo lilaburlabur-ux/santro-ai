@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-28T13:18:45+00:00",
+  "as_of": "2026-09-28T13:33:56+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,17 +11,49 @@
    "rank": 1,
    "ticker": "MDB",
    "company": "MongoDB Inc",
-   "move_pct": -23.24,
-   "price": 315.06,
-   "volume": 1381100,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 81,
+   "move_pct": -25.47,
+   "price": 305.9,
+   "volume": 2978606,
+   "volume_vs_avg": "~2x",
+   "heat_score": 86,
    "direction": "down",
-   "why": "Nvidia, Meta, SpaceX, Kodiak Sciences, MongoDB, Boeing, and More Stocks That Explain Today\u2019s Market",
+   "why": "MongoDB stock tanks after Meta poaches CEO",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.barrons.com/articles/stock-movers-4aac0ea6?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-09-28T13:00:00Z",
+   "source_url": "https://finance.yahoo.com/markets/article/mongodb-stock-tanks-after-meta-poaches-ceo-132048225.html",
+   "published": "2026-09-28T13:20:48Z",
    "sector": "AI Software & Cloud Infrastructure"
+  },
+  {
+   "rank": 2,
+   "ticker": "NOW",
+   "company": "ServiceNow Inc",
+   "move_pct": -5.18,
+   "price": 128.6,
+   "volume": 1788328,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 34,
+   "direction": "down",
+   "why": "ServiceNow Stock And 2 AI Security Plays Worth Watching Now",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/servicenow-stock-2-ai-security-131159314.html",
+   "published": "2026-09-28T13:11:59Z",
+   "sector": "AI Applications & Data Software"
+  },
+  {
+   "rank": 3,
+   "ticker": "SNOW",
+   "company": "Snowflake Inc",
+   "move_pct": -5.07,
+   "price": 318.91,
+   "volume": 623456,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 33,
+   "direction": "down",
+   "why": "Snowflake shares slide as $3.5B debt offering sparks dilution jitters",
+   "catalyst_type": "financing",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/snowflake-shares-slide-3-5b-122443248.html",
+   "published": "2026-09-28T12:24:43Z",
+   "sector": "AI Applications & Data Software"
   }
  ]
 }

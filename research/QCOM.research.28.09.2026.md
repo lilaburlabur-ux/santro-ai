@@ -37,9 +37,9 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Headline | Source | Date |
 |---|---|---|
 | The AI Hacks Are Way Worse Than We Thought | Yahoo Finance Video | 2026-09-28 |
+| Did The Market Read Marvell Stock Right? | Trefis | 2026-09-28 |
+| Corning (GLW) Stock Looks Undervalued As Its 452% Run Tests Fair Value | Simply Wall St. | 2026-09-28 |
 | Intel vs. Qualcomm: Which Chip Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-28 |
-| When Should You Buy NVIDIA Stock After This Run? | Trefis | 2026-09-28 |
-| Your Micron Shares Could Swing Hundreds Of Dollars, And That Is The Calm Case | Trefis | 2026-09-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

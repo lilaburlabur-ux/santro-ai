@@ -38,8 +38,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 |---|---|---|
 | Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend: Chart of the Day | Yahoo Finance | 2026-09-28 |
 | 3 tech stock charts you probably won't believe | Yahoo Finance | 2026-09-28 |
-| Nvidia, Apple Partner TSMC Reveals These Clues On How To Read Charts | Investor's Business Daily | 2026-09-28 |
-| Micron Stock Gets Stunning Price Target Hike Just Before Earnings | GuruFocus.com | 2026-09-28 |
+| AMD’s $8.2B bet on World Labs is a direct shot at Nvidia’s AI dominance | Investing.com | 2026-09-28 |
+| Did The Market Read Marvell Stock Right? | Trefis | 2026-09-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

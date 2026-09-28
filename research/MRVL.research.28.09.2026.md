@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Did The Market Read Marvell Stock Right? | Trefis | 2026-09-28 |
+| Broadcom vs. Marvell Technology: Which Semiconductor Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-28 |
 | Marvell Technology (MRVL) Starts Custom AI Chip Shipments And Eyes Higher Forecasts | Simply Wall St. | 2026-09-28 |
 | AI Hardware Fatigue Is Spreading to Sandisk and Marvell | Barrons.com | 2026-09-28 |
-| When Should You Buy NVIDIA Stock After This Run? | Trefis | 2026-09-28 |
-| Nvidia, Micron, Meta, Kodiak Sciences, MongoDB, SpaceX, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

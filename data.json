@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-28T05:28:28+00:00",
-  "as_of_local": "2026-09-28 05:28:28 UTC",
+  "as_of_utc": "2026-09-28T05:43:38+00:00",
+  "as_of_local": "2026-09-28 05:43:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5434765466857.91,
       "headlines": [
         {
+          "title": "If You'd Invested $10,000 in Tesla (TSLA) 10 Years Ago, Here's How Much You'd Have Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-10-000-tesla-052000969.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-28T05:20:00Z"
+        },
+        {
           "title": "Chinese Stocks Hit One-Year Low as Chip, Optical Firms Slide",
           "url": "https://finance.yahoo.com/markets/stocks/articles/chinese-stocks-hit-one-low-042212751.html",
           "publisher": "Bloomberg",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/big-short-fame-michael-burry-035902084.html",
           "publisher": "Stocktwits",
           "published": "2026-09-28T03:59:02Z"
-        },
-        {
-          "title": "Planet Labs (PL) vs. SpaceX: Can New Space Exploration (SPCX) Support Long-Term Growth?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pl-vs-spacex-035631653.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-28T03:56:31Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "price": 123.0,
       "previous_close": 127.39,
       "change_pct": -3.45,
-      "market_cap": 646306736745.0,
+      "market_cap": 650190947226.0,
       "headlines": [
         {
           "title": "SK Hynix (SKHY): Can Solidigm Become a Bigger Part of the Story?",
@@ -290,7 +290,7 @@
       "price": 128.05,
       "previous_close": 122.22,
       "change_pct": 4.77,
-      "market_cap": 18186976763.041992,
+      "market_cap": 18150986645.034256,
       "headlines": [
         {
           "title": "These are stocks getting lifted up by Meta's Muse",
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -3.87,
-          "price": 1790000.0,
+          "change_pct": -4.56,
+          "price": 1777000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -4.12,
-          "price": 273750.0,
+          "change_pct": -4.55,
+          "price": 272500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -2.69,
-          "price": 54280.0,
+          "change_pct": -2.81,
+          "price": 54210.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -3.87,
-        "price": 1790000.0,
+        "change_pct": -4.56,
+        "price": 1777000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -4.12,
-        "price": 273750.0,
+        "change_pct": -4.55,
+        "price": 272500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -2.69,
-        "price": 54280.0,
+        "change_pct": -2.81,
+        "price": 54210.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 83115.58,
-      "change_pct": -1.53
+      "price": 83010.34,
+      "change_pct": -1.65
     },
     {
       "label": "Gold",
-      "price": 4224.2,
-      "change_pct": -2.24
+      "price": 4218.2,
+      "change_pct": -2.38
     },
     {
       "label": "Nasdaq100",

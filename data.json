@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-28T08:25:13+00:00",
-  "as_of_local": "2026-09-28 08:25:13 UTC",
+  "as_of_utc": "2026-09-28T08:30:16+00:00",
+  "as_of_local": "2026-09-28 08:30:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,50 +15,22 @@
       "market_cap": 5434765466857.91,
       "headlines": [
         {
+          "title": "President Donald Trump Has Floated the Idea of a Partial or Full Ban on Diesel Exports, but the Unintended Consequences of Such Actions Would Be Catastrophic",
+          "url": "https://finance.yahoo.com/energy/articles/president-donald-trump-floated-idea-082601962.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-28T08:26:01Z"
+        },
+        {
+          "title": "Eli Lilly Just Announced Game-Changing News",
+          "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-just-announced-game-082301995.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-28T08:23:01Z"
+        },
+        {
           "title": "The 10-Year Treasury Pays 5.2%. The S&P 500 Only Needs 4% Earnings Growth to Keep Up.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/10-treasury-pays-5-2-075701825.html",
           "publisher": "Motley Fool",
           "published": "2026-09-28T07:57:01Z"
-        },
-        {
-          "title": "A Financial Stock Can Be a Great Business and a Bad Investment. Here's How to Tell Them Apart.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/financial-stock-great-business-bad-070500011.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-28T07:05:00Z"
-        },
-        {
-          "title": "Nvidia Chips for Alibaba, ByteDance? China Reportedly Green Lights RTX PRO 5500 Amid US Curbs (UPDATED)",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-chips-alibaba-bytedance-china-064229123.html",
-          "publisher": "Benzinga",
-          "published": "2026-09-28T06:42:22Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 450.61,
-      "previous_close": 451.15,
-      "change_pct": -0.12,
-      "market_cap": 2337076979024.1895,
-      "headlines": [
-        {
-          "title": "The Zacks Analyst Blog Highlights Analog Devices, Semtech, Taiwan Semiconductor and ASM",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-analog-060000199.html",
-          "publisher": "Zacks",
-          "published": "2026-09-28T06:00:00Z"
-        },
-        {
-          "title": "TSMC 2nm wafer capacity to exceed earlier estimates, EDN reports",
-          "url": "https://finance.yahoo.com/technology/articles/tsmc-2nm-wafer-capacity-exceed-030730906.html",
-          "publisher": "Investing.com",
-          "published": "2026-09-28T03:07:30Z"
-        },
-        {
-          "title": "Price Prediction: TSMC Could Reach $600 as Capacity Constraints Drive the AI Boom Forward",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-tsmc-could-reach-160021255.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-27T16:00:21Z"
         }
       ]
     },
@@ -150,7 +124,7 @@
       "price": 123.0,
       "previous_close": 127.39,
       "change_pct": -3.45,
-      "market_cap": 650190947226.0,
+      "market_cap": 646306736745.0,
       "headlines": [
         {
           "title": "AI Is Powering A Profit Boom \u2014 But Is It An 'Earnings Bubble'? Wall Street Analyst Weighs In",
@@ -290,7 +264,7 @@
       "price": 128.05,
       "previous_close": 122.22,
       "change_pct": 4.77,
-      "market_cap": 18150986645.034256,
+      "market_cap": 18186976763.041992,
       "headlines": [
         {
           "title": "These are stocks getting lifted up by Meta's Muse",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 82794.92,
-      "change_pct": -1.97
+      "price": 82801.79,
+      "change_pct": -1.96
     },
     {
       "label": "Gold",
-      "price": 4188.8,
-      "change_pct": -3.06
+      "price": 4183.6,
+      "change_pct": -3.18
     },
     {
       "label": "Nasdaq100",

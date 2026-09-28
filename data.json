@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-28T04:03:40+00:00",
-  "as_of_local": "2026-09-28 04:03:40 UTC",
+  "as_of_utc": "2026-09-28T04:08:50+00:00",
+  "as_of_local": "2026-09-28 04:08:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5434765466857.91,
       "headlines": [
         {
+          "title": "\u2018Big Short\u2019 Fame Michael Burry Says Trump \u2018Cannot Afford\u2019 To Let AI Boom Fall",
+          "url": "https://finance.yahoo.com/technology/ai/articles/big-short-fame-michael-burry-035902084.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-28T03:59:02Z"
+        },
+        {
           "title": "Planet Labs (PL) vs. SpaceX: Can New Space Exploration (SPCX) Support Long-Term Growth?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pl-vs-spacex-035631653.html",
           "publisher": "Insider Monkey",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-focus-china-reportedly-031358425.html",
           "publisher": "Stocktwits",
           "published": "2026-09-28T03:13:58Z"
-        },
-        {
-          "title": "TSMC 2nm wafer capacity to exceed earlier estimates, EDN reports",
-          "url": "https://finance.yahoo.com/technology/articles/tsmc-2nm-wafer-capacity-exceed-030730906.html",
-          "publisher": "Investing.com",
-          "published": "2026-09-28T03:07:30Z"
         }
       ]
     },
@@ -103,16 +103,16 @@
           "published": "2026-09-27T10:00:00Z"
         },
         {
+          "title": "\u2018Big Short\u2019 Fame Michael Burry Says Trump \u2018Cannot Afford\u2019 To Let AI Boom Fall",
+          "url": "https://finance.yahoo.com/technology/ai/articles/big-short-fame-michael-burry-035902084.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-28T03:59:02Z"
+        },
+        {
           "title": "Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-comments-micron-spacex-tesla-economic-data/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-09-28T03:10:02Z"
-        },
-        {
-          "title": "Micron Earnings Preview: Analysts See Over 350% Revenue Jump As Retail Bulls Bet On Fresh Buyback",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-earnings-preview-analysts-see-022234081.html",
-          "publisher": "Stocktwits",
-          "published": "2026-09-28T02:22:34Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -4.67,
-          "price": 1775000.0,
+          "change_pct": -4.3,
+          "price": 1782000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -4.9,
-          "price": 271500.0,
+          "change_pct": -4.38,
+          "price": 273000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -2.72,
-          "price": 54260.0,
+          "change_pct": -2.62,
+          "price": 54320.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -4.67,
-        "price": 1775000.0,
+        "change_pct": -4.3,
+        "price": 1782000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -4.9,
-        "price": 271500.0,
+        "change_pct": -4.38,
+        "price": 273000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -2.72,
-        "price": 54260.0,
+        "change_pct": -2.62,
+        "price": 54320.0,
         "currency": "JPY"
       },
       {
@@ -585,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 83238.56,
-      "change_pct": -1.38
+      "price": 83328.96,
+      "change_pct": -1.28
     },
     {
       "label": "Gold",

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-28T00:52:03+00:00",
-  "as_of_local": "2026-09-28 00:52:03 UTC",
+  "as_of_utc": "2026-09-28T00:57:43+00:00",
+  "as_of_local": "2026-09-28 00:57:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 5434765466857.91,
       "headlines": [
         {
+          "title": "This Space Stock Could Make You Rich (Hint: It's Not SpaceX)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/space-stock-could-rich-hint-005000251.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-28T00:50:00Z"
+        },
+        {
           "title": "Elon Musk Just Gave Nvidia Investors More Good News. Is the Stock a Buy?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-just-gave-nvidia-002000003.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/nebius-raising-price-ai-compute-235801614.html",
           "publisher": "Motley Fool",
           "published": "2026-09-27T23:58:01Z"
-        },
-        {
-          "title": "Here's How Many Shares of Coca-Cola You'd Need for $10,000 in Yearly Dividends",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-many-shares-coca-cola-222400510.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-27T22:24:00Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -2.31,
-          "price": 1819000.0,
+          "change_pct": -2.69,
+          "price": 1812000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -1.66,
-          "price": 280750.0,
+          "change_pct": -2.1,
+          "price": 279500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -1.06,
-          "price": 55190.0,
+          "change_pct": -1.17,
+          "price": 55130.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -2.31,
-        "price": 1819000.0,
+        "change_pct": -2.69,
+        "price": 1812000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -1.66,
-        "price": 280750.0,
+        "change_pct": -2.1,
+        "price": 279500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -1.06,
-        "price": 55190.0,
+        "change_pct": -1.17,
+        "price": 55130.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 84601.9,
-      "change_pct": 0.23
+      "price": 84185.29,
+      "change_pct": -0.26
     },
     {
       "label": "Gold",
-      "price": 4269.4,
-      "change_pct": -1.2
+      "price": 4268.9,
+      "change_pct": -1.21
     },
     {
       "label": "Nasdaq100",

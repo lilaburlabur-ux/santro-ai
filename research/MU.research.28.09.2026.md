@@ -39,7 +39,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend: Chart of the Day | Yahoo Finance | 2026-09-28 |
 | 4 big stories markets will be watching next week | Yahoo Finance Video | 2026-09-28 |
 | 2 key checks for the AI trade and the economy: What to watch this week | Yahoo Finance | 2026-09-27 |
-| The S&P 500 Has Only Grown Earnings This Fast Twice Before. History Says This Is What Happens Next | Motley Fool | 2026-09-28 |
+| Update: Wall Street Dips as US-Iran Standoff Keeps Traders Anxious | MT Newswires | 2026-09-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

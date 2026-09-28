@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-28T08:30:16+00:00",
-  "as_of_local": "2026-09-28 08:30:16 UTC",
+  "as_of_utc": "2026-09-28T08:35:27+00:00",
+  "as_of_local": "2026-09-28 08:35:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -31,6 +29,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/10-treasury-pays-5-2-075701825.html",
           "publisher": "Motley Fool",
           "published": "2026-09-28T07:57:01Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 450.61,
+      "previous_close": 451.15,
+      "change_pct": -0.12,
+      "market_cap": 2337076979024.1895,
+      "headlines": [
+        {
+          "title": "The Zacks Analyst Blog Highlights Analog Devices, Semtech, Taiwan Semiconductor and ASM",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-analog-060000199.html",
+          "publisher": "Zacks",
+          "published": "2026-09-28T06:00:00Z"
+        },
+        {
+          "title": "TSMC 2nm wafer capacity to exceed earlier estimates, EDN reports",
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-2nm-wafer-capacity-exceed-030730906.html",
+          "publisher": "Investing.com",
+          "published": "2026-09-28T03:07:30Z"
+        },
+        {
+          "title": "Price Prediction: TSMC Could Reach $600 as Capacity Constraints Drive the AI Boom Forward",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-tsmc-could-reach-160021255.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-27T16:00:21Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 82801.79,
-      "change_pct": -1.96
+      "price": 82924.92,
+      "change_pct": -1.82
     },
     {
       "label": "Gold",
-      "price": 4183.6,
-      "change_pct": -3.18
+      "price": 4180.0,
+      "change_pct": -3.27
     },
     {
       "label": "Nasdaq100",

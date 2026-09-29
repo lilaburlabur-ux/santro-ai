@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-28T23:55:21+00:00",
+  "as_of": "2026-09-29T00:10:30+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,13 +9,29 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "ZS",
+   "company": "Zscaler Inc",
+   "move_pct": -10.06,
+   "price": 193.05,
+   "volume": 3780290,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 66,
+   "direction": "down",
+   "why": "Where Could Zscaler's Next Growth Come From?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/where-could-zscalers-next-growth-221130637.html",
+   "published": "2026-09-28T22:11:30Z",
+   "sector": "Cybersecurity"
+  },
+  {
+   "rank": 2,
    "ticker": "MDB",
    "company": "MongoDB Inc",
-   "move_pct": -17.85,
-   "price": 337.18,
+   "move_pct": -2.6,
+   "price": 410.44,
    "volume": 17806336,
    "volume_vs_avg": "~10x",
-   "heat_score": 99,
+   "heat_score": 64,
    "direction": "down",
    "why": "Why MongoDB (MDB) Stock Is Nosediving",
    "catalyst_type": "momentum_narrative",
@@ -24,20 +40,36 @@
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
-   "rank": 2,
-   "ticker": "INTC",
-   "company": "Intel Corp",
-   "move_pct": -5.64,
-   "price": 116.06,
-   "volume": 109978476,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 40,
+   "rank": 3,
+   "ticker": "S",
+   "company": "SentinelOne Inc",
+   "move_pct": -6.67,
+   "price": 22.38,
+   "volume": 6398541,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 42,
    "direction": "down",
-   "why": "AMD, Intel, Western Digital, Vishay Intertechnology, and Penguin Solutions Stocks Trade Down, What You Need To Know",
+   "why": "Winners And Losers Of Q2: SentinelOne (NYSE:S) Vs The Rest Of The Cybersecurity Stocks",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-western-digital-vishay-225436808.html",
-   "published": "2026-09-28T22:54:36Z",
-   "sector": "AI Chips & Compute"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/winners-losers-q2-sentinelone-nyse-211036273.html",
+   "published": "2026-09-28T21:10:36Z",
+   "sector": "Cybersecurity"
+  },
+  {
+   "rank": 4,
+   "ticker": "DELL",
+   "company": "Dell Technologies Inc",
+   "move_pct": 5.01,
+   "price": 562.89,
+   "volume": 6608759,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 36,
+   "direction": "up",
+   "why": "Dell Stock Looks Less Expensive Once You Count The AI Backlog",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-looks-less-expensive-214130980.html",
+   "published": "2026-09-28T21:41:30Z",
+   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

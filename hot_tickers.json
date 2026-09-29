@@ -1,59 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-29T03:40:38+00:00",
+  "as_of": "2026-09-29T08:00:47+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "MDB",
-   "company": "MongoDB Inc",
-   "move_pct": -18.46,
-   "price": 334.68,
-   "volume": 17825500,
-   "volume_vs_avg": "~10x",
-   "heat_score": 99,
-   "direction": "down",
-   "why": "MongoDB (MDB): CEO Exit Puts Strategy Under Scrutiny Ahead of Investor Day",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/mongodb-mdb-ceo-exit-puts-021532137.html",
-   "published": "2026-09-29T02:15:32Z",
-   "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
-   "rank": 2,
-   "ticker": "QCOM",
-   "company": "Qualcomm Inc",
-   "move_pct": -7.17,
-   "price": 187.48,
-   "volume": 16658100,
-   "volume_vs_avg": "~1.3x",
-   "heat_score": 47,
-   "direction": "down",
-   "why": "Why Qualcomm (QCOM) Stock Is Down Today",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-stock-down-235036316.html",
-   "published": "2026-09-28T23:50:36Z",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 3,
-   "ticker": "INTC",
-   "company": "Intel Corp",
-   "move_pct": -5.67,
-   "price": 116.03,
-   "volume": 111220000,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 40,
-   "direction": "down",
-   "why": "Intel (INTC) Shared Its Factory Bill. Did It Give Up Too Much Flexibility?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/articles/intel-intc-shared-factory-bill-021940270.html",
-   "published": "2026-09-29T02:19:40Z",
-   "sector": "AI Chips & Compute"
-  }
- ]
+ "hot_tickers": []
 }

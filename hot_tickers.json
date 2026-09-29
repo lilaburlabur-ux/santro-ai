@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-29T01:57:19+00:00",
+  "as_of": "2026-09-29T03:40:38+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,10 +17,10 @@
    "volume_vs_avg": "~10x",
    "heat_score": 99,
    "direction": "down",
-   "why": "MongoDB stock crashes 26% as its CEO jumps ship",
+   "why": "MongoDB (MDB): CEO Exit Puts Strategy Under Scrutiny Ahead of Investor Day",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/mongodb-stock-crashes-26-ceo-011700383.html",
-   "published": "2026-09-29T01:17:00Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/mongodb-mdb-ceo-exit-puts-021532137.html",
+   "published": "2026-09-29T02:15:32Z",
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
@@ -49,10 +49,10 @@
    "volume_vs_avg": "~1.1x",
    "heat_score": 40,
    "direction": "down",
-   "why": "AMD, Intel, Western Digital, Vishay Intertechnology, and Penguin Solutions Stocks Trade Down, What You Need To Know",
+   "why": "Intel (INTC) Shared Its Factory Bill. Did It Give Up Too Much Flexibility?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-western-digital-vishay-225436808.html",
-   "published": "2026-09-28T22:54:36Z",
+   "source_url": "https://finance.yahoo.com/technology/articles/intel-intc-shared-factory-bill-021940270.html",
+   "published": "2026-09-29T02:19:40Z",
    "sector": "AI Chips & Compute"
   }
  ]

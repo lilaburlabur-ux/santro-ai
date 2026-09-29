@@ -36,10 +36,10 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Marvell Technology, Semtech, Lattice Semiconductor, and Micron Stocks Trade Down, What You Need To Know | StockStory | 2026-09-29 |
 | These are stocks getting lifted up by Meta's Muse | Yahoo Finance Video | 2026-09-25 |
 | Entegris and Lattice Semiconductor Shares Are Soaring, What You Need To Know | StockStory | 2026-09-22 |
 | This Under-the-Radar Chip Company Could Have a Much Bigger Future | 24/7 Wall St. | 2026-09-22 |
-| Why Are Lattice Semiconductor (LSCC) Shares Soaring Today | StockStory | 2026-09-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

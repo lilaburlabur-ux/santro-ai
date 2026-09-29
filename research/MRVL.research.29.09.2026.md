@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Marvell Technology, Semtech, Lattice Semiconductor, and Micron Stocks Trade Down, What You Need To Know | StockStory | 2026-09-29 |
 | Arm vs. Marvell Technology: Which AI Chip Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-28 |
 | Did The Market Read Marvell Stock Right? | Trefis | 2026-09-28 |
 | Nvidia, Micron, Meta, Kodiak Sciences, MongoDB, SpaceX, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-28 |
-| Broadcom vs. Marvell Technology: Which Semiconductor Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

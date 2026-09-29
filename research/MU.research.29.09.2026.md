@@ -39,7 +39,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend: Chart of the Day | Yahoo Finance | 2026-09-28 |
 | 4 big stories markets will be watching next week | Yahoo Finance Video | 2026-09-28 |
 | 2 key checks for the AI trade and the economy: What to watch this week | Yahoo Finance | 2026-09-27 |
-| Sandisk Jumped 22% the Day After Micron's Last Report. Micron Reports Again Wednesday. | Motley Fool | 2026-09-28 |
+| Dow Jones Futures: Trump Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla In Focus | Investor's Business Daily | 2026-09-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $90.27B | Revenue growth 345.70% y/y |
 | Profitability | Gross 72.57%, operating 80.37%, net 55.91% | ROA 34.87%, ROE 66.64% |
 | Balance sheet | Cash $26.02B, debt $6.38B | Current ratio 3.42, debt/equity 6.33 |
-| Valuation | P/E 23.81, forward P/E 6.54, P/S 13.19, P/B 11.81 | EV/Sales 12.97, EV/EBITDA 17.16 |
+| Valuation | P/E 24.45, forward P/E 6.54, P/S 13.19, P/B 11.81 | EV/Sales 12.97, EV/EBITDA 17.16 |
 | Growth expectations | Earnings growth 1368.50%, EPS q/q 1398.30% | Analyst mean target $1,520.76 (46 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | SMA200 dist | +nan% | Revenue (ttm) | $90.27B |
 | 52W high | $1,213.37 | Revenue growth y/y | 345.70% |
 | 52W low | $157.02 | Inst. ownership | 79.91% |
-| P/E (ttm) | 23.81 | Insider ownership | 0.24% |
+| P/E (ttm) | 24.45 | Insider ownership | 0.24% |
 | Forward P/E | 6.54 | Short float | 2.45% |
 | PEG (trailing) | 0.16 | Avg volume | 35,445,296 |
 | P/S | 13.19 | Employees | 53,000 |

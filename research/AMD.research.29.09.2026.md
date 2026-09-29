@@ -59,7 +59,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Revenue (ttm) | $41.31B | Revenue growth 50.10% y/y |
 | Profitability | Gross 55.72%, operating 17.25%, net 15.58% | ROA 5.13%, ROE 10.20% |
 | Balance sheet | Cash $13.11B, debt $4.28B | Current ratio 2.61, debt/equity 6.36 |
-| Valuation | P/E 161.16, forward P/E 39.00, P/S 24.01, P/B 14.75 | EV/Sales 23.81, EV/EBITDA 102.86 |
+| Valuation | P/E 156.19, forward P/E 39.00, P/S 24.01, P/B 14.75 | EV/Sales 23.81, EV/EBITDA 102.86 |
 | Growth expectations | Earnings growth 159.50%, EPS q/q 163.40% | Analyst mean target $618.51 (50 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -113,7 +113,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | SMA200 dist | +64.82% | Revenue (ttm) | $41.31B |
 | 52W high | $630.63 | Revenue growth y/y | 50.10% |
 | 52W low | $161.36 | Inst. ownership | 75.40% |
-| P/E (ttm) | 161.16 | Insider ownership | 0.42% |
+| P/E (ttm) | 156.19 | Insider ownership | 0.42% |
 | Forward P/E | 39.00 | Short float | 2.46% |
 | PEG (trailing) | 0.63 | Avg volume | 24,394,955 |
 | P/S | 24.01 | Employees | 31,000 |

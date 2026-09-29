@@ -2,9 +2,8 @@
  "meta": {
   "label": "NVIDIA Ecosystem",
   "count": 30,
-  "as_of": "2026-09-29 00:56 UTC",
-  "failed": [],
-  "session": "closed"
+  "as_of": "2026-09-29 00:59 UTC",
+  "failed": []
  },
  "tickers": [
   {
@@ -14,7 +13,7 @@
    "price": 450.61,
    "change_pct": -0.12,
    "market_cap_b": 2337.08,
-   "pe": 33.55,
+   "pe": 33.38,
    "fwd_eps": 21.82,
    "volume": 7857363,
    "perf": {
@@ -62,7 +61,7 @@
    "price": 1082.28,
    "change_pct": 0.16,
    "market_cap_b": 1222.32,
-   "pe": 24.45,
+   "pe": 25.11,
    "fwd_eps": 165.42,
    "volume": 21888708,
    "perf": {
@@ -111,7 +110,7 @@
    "change_pct": 1.24,
    "market_cap_b": 669.85,
    "pe": 60.24,
-   "fwd_eps": 57.93,
+   "fwd_eps": 58.0,
    "volume": 1366477,
    "perf": {
     "1W": 3.8,
@@ -206,7 +205,7 @@
    "price": 315.21,
    "change_pct": 2.62,
    "market_cap_b": 394.46,
-   "pe": 54.82,
+   "pe": 54.63,
    "fwd_eps": 11.77,
    "volume": 8818269,
    "perf": {
@@ -302,7 +301,7 @@
    "price": 310.32,
    "change_pct": 1.3,
    "market_cap_b": 331.42,
-   "pe": 313.45,
+   "pe": 341.01,
    "fwd_eps": 3.35,
    "volume": 9031967,
    "perf": {
@@ -446,7 +445,7 @@
    "price": 393.6,
    "change_pct": 2.87,
    "market_cap_b": 190.72,
-   "pe": 46.75,
+   "pe": 46.52,
    "fwd_eps": 16.27,
    "volume": 3064116,
    "perf": {
@@ -493,8 +492,8 @@
    "industry": "Specialty Industrial Machinery",
    "price": 439.98,
    "change_pct": -0.0,
-   "market_cap_b": 170.84,
-   "pe": 44.85,
+   "market_cap_b": 170.89,
+   "pe": 45.74,
    "fwd_eps": 16.44,
    "volume": 2356631,
    "perf": {
@@ -542,7 +541,7 @@
    "price": 456.81,
    "change_pct": 1.44,
    "market_cap_b": 164.7,
-   "pe": 16.98,
+   "pe": 17.11,
    "fwd_eps": 32.0,
    "volume": 7201583,
    "perf": {
@@ -589,7 +588,7 @@
    "industry": "Electronic Components",
    "price": 156.74,
    "change_pct": 1.68,
-   "market_cap_b": 134.74,
+   "market_cap_b": 135.01,
    "pe": 72.56,
    "fwd_eps": 4.51,
    "volume": 7173439,
@@ -824,6 +823,54 @@
    ]
   },
   {
+   "ticker": "NBIS",
+   "company": "NBIS",
+   "industry": "Internet Content & Information",
+   "price": 237.33,
+   "change_pct": -2.53,
+   "market_cap_b": 64.52,
+   "pe": null,
+   "fwd_eps": -3.58,
+   "volume": 12696150,
+   "perf": {
+    "1W": 6.2,
+    "1M": 10.9,
+    "1Y": 115.3
+   },
+   "spark": [
+    213.02,
+    216.48,
+    219.65,
+    194.09,
+    171.77,
+    182.62,
+    218.16,
+    187.77,
+    169.69,
+    188.43,
+    212.58,
+    218.99,
+    187.97,
+    193.23,
+    255.04,
+    268.85,
+    223.9,
+    219.13,
+    221.97,
+    218.48,
+    206.32,
+    204.09,
+    226.39,
+    240.35,
+    224.55,
+    207.37,
+    217.99,
+    232.8,
+    226.61,
+    237.33
+   ]
+  },
+  {
    "ticker": "KEYS",
    "company": "Keysight Technologies, Inc.",
    "industry": "Scientific & Technical Instruments",
@@ -869,54 +916,6 @@
     342.03,
     353.36,
     362.15
-   ]
-  },
-  {
-   "ticker": "NBIS",
-   "company": "NBIS",
-   "industry": "Internet Content & Information",
-   "price": 237.33,
-   "change_pct": -2.53,
-   "market_cap_b": 60.26,
-   "pe": null,
-   "fwd_eps": -3.58,
-   "volume": 12696150,
-   "perf": {
-    "1W": 6.2,
-    "1M": 10.9,
-    "1Y": 115.3
-   },
-   "spark": [
-    213.02,
-    216.48,
-    219.65,
-    194.09,
-    171.77,
-    182.62,
-    218.16,
-    187.77,
-    169.69,
-    188.43,
-    212.58,
-    218.99,
-    187.97,
-    193.23,
-    255.04,
-    268.85,
-    223.9,
-    219.13,
-    221.97,
-    218.48,
-    206.32,
-    204.09,
-    226.39,
-    240.35,
-    224.55,
-    207.37,
-    217.99,
-    232.8,
-    226.61,
-    237.33
    ]
   },
   {
@@ -1118,7 +1117,7 @@
    "price": 114.68,
    "change_pct": 2.03,
    "market_cap_b": 42.36,
-   "pe": 44.45,
+   "pe": 44.28,
    "fwd_eps": 7.21,
    "volume": 2346938,
    "perf": {
@@ -1166,7 +1165,7 @@
    "price": 316.74,
    "change_pct": 1.95,
    "market_cap_b": 33.19,
-   "pe": 39.69,
+   "pe": 39.4,
    "fwd_eps": 16.76,
    "volume": 1745084,
    "perf": {
@@ -1214,7 +1213,7 @@
    "price": 77.2,
    "change_pct": 5.54,
    "market_cap_b": 30.06,
-   "pe": 50.46,
+   "pe": 51.13,
    "fwd_eps": 4.62,
    "volume": 10373906,
    "perf": {
@@ -1309,8 +1308,8 @@
    "industry": "Semiconductor Equipment & Materials",
    "price": 53.61,
    "change_pct": 1.75,
-   "market_cap_b": 13.29,
-   "pe": 24.04,
+   "market_cap_b": 13.32,
+   "pe": 24.26,
    "fwd_eps": 2.83,
    "volume": 3418609,
    "perf": {

@@ -4,8 +4,8 @@ Signed file: `AVGO.research.29.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-09-29, ~15-min delayed) |
-| Market cap | $1.67T |
+| Current price | $355.10 (2026-09-29, ~15-min delayed) |
+| Market cap | $1.70T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `AVGO.research.29.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +6.94%; price -3.11% vs SMA200. |
+| Fresh setup quality | Poor / broken | -26.01% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 42.94%, revenue growth 85.50%. |
-| Value attractiveness | Reasonable | Forward P/E 18.04, EV/Sales 19.13. |
-| Risk level | Elevated | Beta 1.46, ATR nan% of price, short float 1.11%. |
+| Value attractiveness | Reasonable | Forward P/E 18.32, EV/Sales 19.13. |
+| Risk level | Elevated | Beta 1.46, ATR 3.1% of price, short float 1.11%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -32,34 +32,25 @@ Signed file: `AVGO.research.29.09.2026`
 ## 2. Company Overview and Recent Catalysts
 Broadcom Inc. designs, develops, and supplies various semiconductor devices and infrastructure software solutions internationally. The company operates in two segments: Semiconductor Solutions and Infrastructure Software.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| Top 3 Cash Flow Stocks To Watch In September 2026 | Simply Wall St. | 2026-09-28 |
-| Did The Market Read Marvell Stock Right? | Trefis | 2026-09-28 |
-| The Best ETF to Own in Your 30s, 40s, 50s, and 60s, According to the Math | 24/7 Wall St. | 2026-09-28 |
-| Not Nvidia, Not AMD. Broadcom's Custom Silicon Business Is Quietly Becoming an AI Chip Powerhouse | Motley Fool | 2026-09-28 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $479.94 (+nan%); 52w low $292.41 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 44.0 (neutral) |
-| Volatility | ATR(14) 10.93 (~nan% of price); beta 1.46 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $355.10; 52w high $479.94 (-26.01%); 52w low $292.41 (+21.44%) |
+| Trend | -3.11% vs SMA200, -5.34% vs SMA50, -0.22% vs SMA20 |
+| Momentum | RSI(14) 46.2 (neutral) |
+| Volatility | ATR(14) 10.87 (~3.1% of price); beta 1.46 |
+| Setup perspective | -26.01% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -2.6% |
+| Month | -3.5% |
+| Quarter | -5.8% |
+| Half Y | +21.4% |
+| 1Y | +6.9% |
+| YTD | +2.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +59,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $89.10B | Revenue growth 85.50% y/y |
 | Profitability | Gross 75.52%, operating 54.31%, net 42.94% | ROA 15.37%, ROE 44.25% |
 | Balance sheet | Cash $23.98B, debt $59.42B | Current ratio 2.50, debt/equity 59.60 |
-| Valuation | P/E 44.53, forward P/E 18.04, P/S 18.73, P/B 16.74 | EV/Sales 19.13, EV/EBITDA 32.61 |
+| Valuation | P/E 45.24, forward P/E 18.32, P/S 19.02, P/B 17.01 | EV/Sales 19.13, EV/EBITDA 32.61 |
 | Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $531.85 (47 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +86,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Price (T.Rowe) Associates Inc | 82,851,970 | 1.74% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.46, ATR nan% of price, short float 1.11%. Size positions accordingly.
+- **Volatility risk:** Beta 1.46, ATR 3.1% of price, short float 1.11%. Size positions accordingly.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,21 +102,21 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 19.13 |
-| Market cap | $1.67T | EV/EBITDA | 32.61 |
+| Price | $355.10 | EV/Sales | 19.13 |
+| Market cap | $1.70T | EV/EBITDA | 32.61 |
 | Beta | 1.46 | Gross margin | 75.52% |
-| RSI(14) | 44.0 | Operating margin | 54.31% |
-| ATR(14) | 10.93 | Profit margin | 42.94% |
-| SMA20 dist | +nan% | ROA | 15.37% |
-| SMA50 dist | +nan% | ROE | 44.25% |
-| SMA200 dist | +nan% | Revenue (ttm) | $89.10B |
+| RSI(14) | 46.2 | Operating margin | 54.31% |
+| ATR(14) | 10.87 | Profit margin | 42.94% |
+| SMA20 dist | -0.22% | ROA | 15.37% |
+| SMA50 dist | -5.34% | ROE | 44.25% |
+| SMA200 dist | -3.11% | Revenue (ttm) | $89.10B |
 | 52W high | $479.94 | Revenue growth y/y | 85.50% |
 | 52W low | $292.41 | Inst. ownership | 79.81% |
-| P/E (ttm) | 44.53 | Insider ownership | 1.94% |
-| Forward P/E | 18.04 | Short float | 1.11% |
-| PEG (trailing) | 0.36 | Avg volume | 22,773,469 |
-| P/S | 18.73 | Employees | 33,000 |
-| P/B | 16.74 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/E (ttm) | 45.24 | Insider ownership | 1.94% |
+| Forward P/E | 18.32 | Short float | 1.11% |
+| PEG (trailing) | 0.36 | Avg volume | 22,728,433 |
+| P/S | 19.02 | Employees | 33,000 |
+| P/B | 17.01 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

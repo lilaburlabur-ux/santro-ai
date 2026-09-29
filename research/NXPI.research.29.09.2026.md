@@ -4,8 +4,8 @@ Signed file: `NXPI.research.29.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-09-29, ~15-min delayed) |
-| Market cap | $59.59B |
+| Current price | $236.47 (2026-09-29, ~15-min delayed) |
+| Market cap | $59.63B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `NXPI.research.29.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +6.46%; price -2.91% vs SMA200. |
+| Fresh setup quality | Poor / broken | -28.36% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 22.56%, revenue growth 19.50%. |
-| Value attractiveness | Reasonable | Forward P/E 13.03, EV/Sales 5.13. |
-| Risk level | Elevated | Beta 1.82, ATR nan% of price, short float 3.22%. |
+| Value attractiveness | Reasonable | Forward P/E 13.04, EV/Sales 5.13. |
+| Risk level | Elevated | Beta 1.82, ATR 3.1% of price, short float 3.22%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -32,49 +32,40 @@ Signed file: `NXPI.research.29.09.2026`
 ## 2. Company Overview and Recent Catalysts
 NXP Semiconductors N.V. provides semiconductor products in the United States, Germany, Japan, South Korea, Taiwan, Singapore, the Netherlands, Mainland China, Hong Kong, and internationally.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| ON Semiconductor Stock Looks Expensive Until You Price Its Fuller Factories | Trefis | 2026-09-28 |
-| Qualcomm Just Locked In Apple. Our Target Sits Above Wall Street’s | 24/7 Wall St. | 2026-09-28 |
-| VSMC inaugurates first 300mm semiconductor fab in Singapore | Verdict | 2026-09-28 |
-| TSMC Affiliate Plans Second Singapore Chip Plant in Asia Push | Bloomberg | 2026-09-28 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $330.06 (+nan%); 52w low $180.99 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 55.7 (neutral) |
-| Volatility | ATR(14) 7.75 (~nan% of price); beta 1.82 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $236.47; 52w high $330.06 (-28.36%); 52w low $180.99 (+30.65%) |
+| Trend | -2.91% vs SMA200, +1.07% vs SMA50, +3.36% vs SMA20 |
+| Momentum | RSI(14) 54.2 (neutral) |
+| Volatility | ATR(14) 7.42 (~3.1% of price); beta 1.82 |
+| Setup perspective | -28.36% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -0.5% |
+| Month | +6.2% |
+| Quarter | -15.5% |
+| Half Y | +27.2% |
+| 1Y | +6.5% |
+| YTD | +8.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-10-26 | Next scheduled report (Yahoo estimate) |
+| Next earnings | 2026-10-27 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $13.19B | Revenue growth 19.50% y/y |
 | Profitability | Gross 56.10%, operating 30.41%, net 22.56% | ROA 10.46%, ROE 27.92% |
 | Balance sheet | Cash $3.22B, debt $10.98B | Current ratio 2.04, debt/equity 93.33 |
-| Valuation | P/E 20.18, forward P/E 13.03, P/S 4.52, P/B 5.23 | EV/Sales 5.13, EV/EBITDA 13.36 |
+| Valuation | P/E 20.18, forward P/E 13.04, P/S 4.52, P/B 5.23 | EV/Sales 5.13, EV/EBITDA 13.36 |
 | Growth expectations | Earnings growth 72.60%, EPS q/q 72.40% | Analyst mean target $311.10 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 99.37% |
+| Institutional ownership | 99.36% |
 | Insider ownership | 0.14% |
 | Short float | 3.22% |
 | Short ratio (days to cover) | 2.3 |
@@ -95,7 +86,8 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Boston Partners | 4,162,827 | 1.65% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.82, ATR nan% of price, short float 3.22%. Size positions accordingly.
+- **Volatility risk:** Beta 1.82, ATR 3.1% of price, short float 3.22%. Size positions accordingly.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,19 +102,19 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.13 |
-| Market cap | $59.59B | EV/EBITDA | 13.36 |
+| Price | $236.47 | EV/Sales | 5.13 |
+| Market cap | $59.63B | EV/EBITDA | 13.36 |
 | Beta | 1.82 | Gross margin | 56.10% |
-| RSI(14) | 55.7 | Operating margin | 30.41% |
-| ATR(14) | 7.75 | Profit margin | 22.56% |
-| SMA20 dist | +nan% | ROA | 10.46% |
-| SMA50 dist | +nan% | ROE | 27.92% |
-| SMA200 dist | +nan% | Revenue (ttm) | $13.19B |
+| RSI(14) | 54.2 | Operating margin | 30.41% |
+| ATR(14) | 7.42 | Profit margin | 22.56% |
+| SMA20 dist | +3.36% | ROA | 10.46% |
+| SMA50 dist | +1.07% | ROE | 27.92% |
+| SMA200 dist | -2.91% | Revenue (ttm) | $13.19B |
 | 52W high | $330.06 | Revenue growth y/y | 19.50% |
-| 52W low | $180.99 | Inst. ownership | 99.37% |
+| 52W low | $180.99 | Inst. ownership | 99.36% |
 | P/E (ttm) | 20.18 | Insider ownership | 0.14% |
-| Forward P/E | 13.03 | Short float | 3.22% |
-| PEG (trailing) | 0.47 | Avg volume | 3,828,906 |
+| Forward P/E | 13.04 | Short float | 3.22% |
+| PEG (trailing) | 0.47 | Avg volume | 3,827,739 |
 | P/S | 4.52 | Employees | 32,169 |
 | P/B | 5.23 | Analyst rec (1=buy..5=sell) | 1.8 |
 

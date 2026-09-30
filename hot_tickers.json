@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-30T21:42:50+00:00",
+  "as_of": "2026-09-30T21:48:02+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,17 +11,33 @@
    "rank": 1,
    "ticker": "CBRS",
    "company": "Cerebras Systems Inc",
-   "move_pct": -7.69,
-   "price": 179.95,
+   "move_pct": -7.74,
+   "price": 179.87,
    "volume": 13774557,
    "volume_vs_avg": "~2x",
-   "heat_score": 52,
+   "heat_score": 53,
    "direction": "down",
    "why": "Moderna, Cerebras, Jabil, HPE, Cal-Maine, Mattel, and More Stocks That Explain Today\u2019s Market",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://www.barrons.com/articles/stock-movers-81984569?siteid=yhoof2&yptr=yahoo",
    "published": "2026-09-30T21:09:00Z",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
+   "ticker": "TENB",
+   "company": "Tenable Holdings, Inc.",
+   "move_pct": 5.03,
+   "price": 36.75,
+   "volume": 5100756,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 38,
+   "direction": "up",
+   "why": "Cybersecurity Stocks Q2 Results: Benchmarking Tenable (NASDAQ:TENB)",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-q2-results-benchmarking-175713709.html",
+   "published": "2026-09-30T17:57:13Z",
+   "sector": "Cybersecurity"
   }
  ]
 }

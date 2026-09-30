@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| S&P 500 dips, Nasdaq higher on modest rise in inflation | Reuters | 2026-09-30 |
-| Is Cerebras' Next Big Thing Already Here? | Trefis | 2026-09-30 |
-| What Is The Case For Waiting On Qualcomm Stock? | Trefis | 2026-09-30 |
-| AMD Stock Slides as New AI Agent Launch Fails to Lift Shares | GuruFocus.com | 2026-09-30 |
+| What Changed In Marvell's Story? | Trefis | 2026-09-30 |
+| HPE, IBD Stock Of The Day, Breaks Out On Hiked Guidance, AI Momentum | Investor's Business Daily | 2026-09-30 |
+| S&P 500 dips, Nasdaq higher after data shows moderate inflation rise | Reuters | 2026-09-30 |
+| Nvidia, AMD Collaborator Teases Breakout To Record High. These Clues Bode Well. | Investor's Business Daily | 2026-09-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

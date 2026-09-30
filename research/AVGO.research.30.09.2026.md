@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| What Changed In Marvell's Story? | Trefis | 2026-09-30 |
+| S&P 500 dips, Nasdaq higher after data shows moderate inflation rise | Reuters | 2026-09-30 |
 | SCHD’s Rules Sold Broadcom in March 2024. The Stock Is Up About 183% Since, and SCHD Holders Missed the Run | 24/7 Wall St. | 2026-09-30 |
-| S&P 500 dips, Nasdaq higher on modest rise in inflation | Reuters | 2026-09-30 |
 | Is Cerebras' Next Big Thing Already Here? | Trefis | 2026-09-30 |
-| What Is The Case For Waiting On Qualcomm Stock? | Trefis | 2026-09-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

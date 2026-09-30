@@ -38,8 +38,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 |---|---|---|
 | Robinhood expands AI agentic trading with automation and 24/7 cycle | Yahoo Finance Video | 2026-09-30 |
 | Micron reports earnings, PCE estimates and ADP employment report: What to Watch | Yahoo Finance Video | 2026-09-30 |
-| Micron Technology Tops Lofty Fiscal Q4 Goals, Guides Above Views | Investor's Business Daily | 2026-09-30 |
-| Stock Market Today: Nasdaq Up; Micron Holds Firm Ahead Of Earnings Report (Live Coverage) | Investor's Business Daily | 2026-09-30 |
+| Dow Jones Futures: Micron Rises On Hot Earnings After Treasury Yields Pressure Stocks | Investor's Business Daily | 2026-09-30 |
+| Stock Market Today: Dow Knocked Down, Nasdaq Pares Gain; Micron Holds Firm After Earnings Soar | Investor's Business Daily | 2026-09-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| S&P 500 dips, Nasdaq higher on modest rise in inflation | Reuters | 2026-09-30 |
-| Stock Market Today: Nasdaq Up; Micron Holds Firm Ahead Of Earnings Report (Live Coverage) | Investor's Business Daily | 2026-09-30 |
+| Stock Market Today: Dow Knocked Down, Nasdaq Pares Gain; Micron Holds Firm After Earnings Soar | Investor's Business Daily | 2026-09-30 |
+| What Changed In Marvell's Story? | Trefis | 2026-09-30 |
+| S&P 500 dips, Nasdaq higher after data shows moderate inflation rise | Reuters | 2026-09-30 |
 | Is Cerebras' Next Big Thing Already Here? | Trefis | 2026-09-30 |
-| What Is The Case For Waiting On Qualcomm Stock? | Trefis | 2026-09-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

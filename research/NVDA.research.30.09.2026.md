@@ -37,9 +37,9 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Breaking down Jensen Huang's biggest moves of Q3 2026 | Yahoo Finance Video | 2026-09-30 |
-| AI in America has a huge 1.7 million job shortage problem | Yahoo Finance | 2026-09-30 |
-| Elon Musk: 'Scaling energy' is the long-term challenge with AI | Yahoo Finance Video | 2026-09-29 |
-| Stock Market Today: Nasdaq Up; Micron Holds Firm Ahead Of Earnings Report (Live Coverage) | Investor's Business Daily | 2026-09-30 |
+| Trump gathers with AI leaders, floats 'self-regulation' as the way to deal with the technology's dangers | Yahoo Finance | 2026-09-29 |
+| Stock Market Today: Dow Knocked Down, Nasdaq Pares Gain; Micron Holds Firm After Earnings Soar | Investor's Business Daily | 2026-09-30 |
+| What Changed In Marvell's Story? | Trefis | 2026-09-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

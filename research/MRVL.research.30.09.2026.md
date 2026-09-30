@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| What Changed In Marvell's Story? | Trefis | 2026-09-30 |
 | Is Cerebras' Next Big Thing Already Here? | Trefis | 2026-09-30 |
 | What Is The True Hidden Price Of Marvell Stock? | Trefis | 2026-09-30 |
 | Prediction: Rambus Could Be a Quiet Winner From Exploding AI Demand | 24/7 Wall St. | 2026-09-30 |
-| When AMD's CEO and the Chart Say the Same Thing, Pay Attention | Trefis | 2026-09-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

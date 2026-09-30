@@ -18,7 +18,7 @@ Signed file: `TSM.research.30.09.2026`
 | Technical momentum | High | 1Y +68.73%; price +18.91% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -4.22% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 49.92%, revenue growth 36.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.81, EV/Sales 3.73. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.81, EV/Sales 3.72. |
 | Risk level | Elevated | Beta 1.25, ATR 2.3% of price, short float 0.57%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated.
@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| In AI Race, Software Is Now Winning Alongside Chips | Barrons.com | 2026-09-30 |
 | Nvidia Supplier FormFactor’s Stock Surges After Deutsche Bank Says It’s a Buy | Barrons.com | 2026-09-30 |
 | TSMC (TSM) is a Great Momentum Stock: Should You Buy? | Zacks | 2026-09-30 |
 | TSMC's $265 Billion U.S. Expansion May Be Getting Even Bigger | GuruFocus.com | 2026-09-30 |
-| Target upgraded, Moderna downgraded: Wall Street's top analyst calls | The Fly | 2026-09-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.44T | Revenue growth 36.00% y/y |
 | Profitability | Gross 64.23%, operating 60.34%, net 49.92% | ROA 19.00%, ROE 39.97% |
 | Balance sheet | Cash $3.52T, debt $1.07T | Current ratio 2.46, debt/equity 16.50 |
-| Valuation | P/E 33.97, forward P/E 20.81, P/S 0.53, P/B 93.81 | EV/Sales 3.73, EV/EBITDA 5.23 |
+| Valuation | P/E 33.97, forward P/E 20.81, P/S 0.53, P/B 93.68 | EV/Sales 3.72, EV/EBITDA 5.22 |
 | Growth expectations | Earnings growth 77.40%, EPS q/q 77.40% | Analyst mean target $552.26 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Bank of America Corporation | 15,282,620 | 0.29% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.81, EV/Sales 3.73. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 20.81, EV/Sales 3.72. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.25, ATR 2.3% of price, short float 0.57%. Size positions accordingly.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -112,8 +112,8 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $456.19 | EV/Sales | 3.73 |
-| Market cap | $2.37T | EV/EBITDA | 5.23 |
+| Price | $456.19 | EV/Sales | 3.72 |
+| Market cap | $2.37T | EV/EBITDA | 5.22 |
 | Beta | 1.25 | Gross margin | 64.23% |
 | RSI(14) | 64.7 | Operating margin | 60.34% |
 | ATR(14) | 10.50 | Profit margin | 49.92% |
@@ -126,7 +126,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Forward P/E | 20.81 | Short float | 0.57% |
 | PEG (trailing) | 0.86 | Avg volume | 11,846,526 |
 | P/S | 0.53 | Employees | 76,907 |
-| P/B | 93.81 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 93.68 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

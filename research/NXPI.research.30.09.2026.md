@@ -18,7 +18,7 @@ Signed file: `NXPI.research.30.09.2026`
 | Technical momentum | Moderate | 1Y +6.91%; price -2.50% vs SMA200. |
 | Fresh setup quality | Poor / broken | -28.03% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 22.56%, revenue growth 19.50%. |
-| Value attractiveness | Reasonable | Forward P/E 13.10, EV/Sales 5.14. |
+| Value attractiveness | Reasonable | Forward P/E 13.13, EV/Sales 5.16. |
 | Risk level | Elevated | Beta 1.82, ATR 3.1% of price, short float 3.22%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Revenue (ttm) | $13.19B | Revenue growth 19.50% y/y |
 | Profitability | Gross 56.10%, operating 30.41%, net 22.56% | ROA 10.46%, ROE 27.92% |
 | Balance sheet | Cash $3.22B, debt $10.98B | Current ratio 2.04, debt/equity 93.33 |
-| Valuation | P/E 20.25, forward P/E 13.10, P/S 4.54, P/B 5.26 | EV/Sales 5.14, EV/EBITDA 13.37 |
+| Valuation | P/E 20.25, forward P/E 13.13, P/S 4.54, P/B 5.26 | EV/Sales 5.16, EV/EBITDA 13.42 |
 | Growth expectations | Earnings growth 72.60%, EPS q/q 72.40% | Analyst mean target $311.10 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,8 +111,8 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $237.53 | EV/Sales | 5.14 |
-| Market cap | $59.90B | EV/EBITDA | 13.37 |
+| Price | $237.53 | EV/Sales | 5.16 |
+| Market cap | $59.90B | EV/EBITDA | 13.42 |
 | Beta | 1.82 | Gross margin | 56.10% |
 | RSI(14) | 55.1 | Operating margin | 30.41% |
 | ATR(14) | 7.27 | Profit margin | 22.56% |
@@ -122,7 +122,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | 52W high | $330.06 | Revenue growth y/y | 19.50% |
 | 52W low | $180.99 | Inst. ownership | 99.36% |
 | P/E (ttm) | 20.25 | Insider ownership | 0.14% |
-| Forward P/E | 13.10 | Short float | 3.22% |
+| Forward P/E | 13.13 | Short float | 3.22% |
 | PEG (trailing) | 0.47 | Avg volume | 3,794,565 |
 | P/S | 4.54 | Employees | 32,169 |
 | P/B | 5.26 | Analyst rec (1=buy..5=sell) | 1.8 |

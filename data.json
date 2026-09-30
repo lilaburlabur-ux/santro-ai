@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-30T09:28:29+00:00",
-  "as_of_local": "2026-09-30 09:28:29 UTC",
+  "as_of_utc": "2026-09-30T09:33:35+00:00",
+  "as_of_local": "2026-09-30 09:33:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-undervalued-stocks-trading-least-031114578.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-30T03:11:14Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 1065.08,
-      "previous_close": 1053.98,
-      "change_pct": 1.05,
-      "market_cap": 1202894007635.545,
-      "headlines": [
-        {
-          "title": "What Micron\u2019s next earnings could reveal about the AI chip market",
-          "url": "https://finance.yahoo.com/video/micron-next-earnings-could-reveal-202000674.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-09-29T20:20:00Z"
-        },
-        {
-          "title": "Micron may be sitting on a 'substantial' surprise",
-          "url": "https://finance.yahoo.com/markets/stocks/article/micron-may-be-sitting-on-a-substantial-surprise-103953207.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-09-29T10:39:53Z"
-        },
-        {
-          "title": "Boeing, GameStop, Robinhood, Micron, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-81984569?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-30T08:57:00Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 1.05,
-          "price": 1065.08,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 1.05,
-        "price": 1065.08,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 83387.08,
-      "change_pct": -0.28
+      "price": 83727.0,
+      "change_pct": 0.13
     },
     {
       "label": "Gold",
-      "price": 4221.1,
-      "change_pct": 0.99
+      "price": 4216.9,
+      "change_pct": 0.89
     },
     {
       "label": "Nasdaq100",

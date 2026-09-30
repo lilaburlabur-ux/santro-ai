@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-30T20:21:20+00:00",
+  "as_of": "2026-09-30T20:37:11+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "CBRS",
    "company": "Cerebras Systems Inc",
-   "move_pct": -8.26,
-   "price": 178.85,
+   "move_pct": -7.93,
+   "price": 179.49,
    "volume": 13704751,
    "volume_vs_avg": "~2x",
-   "heat_score": 64,
+   "heat_score": 53,
    "direction": "down",
    "why": "Is Cerebras' Next Big Thing Already Here?",
    "catalyst_type": "momentum_narrative",

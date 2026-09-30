@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-30T00:20:41+00:00",
-  "as_of_local": "2026-09-30 00:20:41 UTC",
+  "as_of_utc": "2026-09-30T00:25:39+00:00",
+  "as_of_local": "2026-09-30 00:25:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -86,15 +88,6 @@
       "headlines": []
     },
     {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 236.32,
-      "previous_close": 238.08,
-      "change_pct": -0.74,
-      "market_cap": 59629262225.78,
-      "headlines": []
-    },
-    {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
       "price": 124.03,
@@ -152,8 +145,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 1.81,
-          "price": 1797000.0,
+          "change_pct": 1.61,
+          "price": 1793500.0,
           "currency": "KRW"
         },
         {
@@ -161,8 +154,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.73,
-          "price": 274500.0,
+          "change_pct": 0.46,
+          "price": 273750.0,
           "currency": "KRW"
         },
         {
@@ -170,8 +163,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 0.64,
-          "price": 17995.0,
+          "change_pct": 1.57,
+          "price": 18160.0,
           "currency": "JPY"
         },
         {
@@ -242,8 +235,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 1.81,
-        "price": 1797000.0,
+        "change_pct": 1.61,
+        "price": 1793500.0,
         "currency": "KRW"
       },
       {
@@ -251,8 +244,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.73,
-        "price": 274500.0,
+        "change_pct": 0.46,
+        "price": 273750.0,
         "currency": "KRW"
       },
       {
@@ -260,8 +253,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 0.64,
-        "price": 17995.0,
+        "change_pct": 1.57,
+        "price": 18160.0,
         "currency": "JPY"
       },
       {
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 83392.32,
-      "change_pct": -0.13
+      "price": 83478.23,
+      "change_pct": -0.03
     },
     {
       "label": "Gold",
-      "price": 4217.1,
-      "change_pct": 1.17
+      "price": 4216.5,
+      "change_pct": 1.15
     },
     {
       "label": "Nasdaq100",

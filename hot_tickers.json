@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-30T14:30:41+00:00",
+  "as_of": "2026-09-30T14:38:47+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "CBRS",
+   "company": "Cerebras Systems Inc",
+   "move_pct": -6.49,
+   "price": 182.3,
+   "volume": 5720226,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 42,
+   "direction": "down",
+   "why": "Cerebras Stock Falls Again Because So Much Depends on OpenAI",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.barrons.com/articles/cerebras-stock-price-fall-openai-d3a73f92?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-09-30T14:00:00Z",
+   "sector": "AI Chips & Compute"
+  }
+ ]
 }

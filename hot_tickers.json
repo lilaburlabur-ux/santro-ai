@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-30T15:14:39+00:00",
+  "as_of": "2026-09-30T15:29:14+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,10 +11,10 @@
    "rank": 1,
    "ticker": "CBRS",
    "company": "Cerebras Systems Inc",
-   "move_pct": -6.71,
-   "price": 181.86,
-   "volume": 6681330,
-   "volume_vs_avg": "~1.0x",
+   "move_pct": -6.79,
+   "price": 181.71,
+   "volume": 6988283,
+   "volume_vs_avg": "~1.1x",
    "heat_score": 44,
    "direction": "down",
    "why": "Cerebras stock slides as Nvidia reportedly powers OpenAI\u2019s \u2019Ultrafast\u2019 tier",
@@ -27,33 +27,17 @@
    "rank": 2,
    "ticker": "HPE",
    "company": "Hewlett Packard Enterprise Co",
-   "move_pct": 6.78,
-   "price": 65.66,
-   "volume": 14511884,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 42,
+   "move_pct": 6.26,
+   "price": 65.34,
+   "volume": 15148696,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 40,
    "direction": "up",
    "why": "Hewlett Packard Enterprise Jumps 5% on AMD Order; Dell and Super Micro Barely Move",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-jumps-5-144133368.html",
    "published": "2026-09-30T14:41:33Z",
    "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 3,
-   "ticker": "PATH",
-   "company": "UiPath Inc",
-   "move_pct": 5.36,
-   "price": 12.98,
-   "volume": 10584440,
-   "volume_vs_avg": "~0.2x",
-   "heat_score": 35,
-   "direction": "up",
-   "why": "UiPath (PATH) On Its BDO AI Push And The Case For An Undervalued Stock",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/uipath-path-bdo-ai-push-130939224.html",
-   "published": "2026-09-30T13:09:39Z",
-   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

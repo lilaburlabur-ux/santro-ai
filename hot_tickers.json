@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-30T13:16:50+00:00",
+  "as_of": "2026-09-30T13:32:02+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "HPE",
    "company": "Hewlett Packard Enterprise Co",
-   "move_pct": 6.21,
-   "price": 65.31,
-   "volume": 12335600,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 39,
+   "move_pct": 6.04,
+   "price": 65.2,
+   "volume": 2595033,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 37,
    "direction": "up",
-   "why": "HPE Hikes Networking Segment Guidance, Announces AMD Helios Order",
+   "why": "HPE boosts networking growth outlook, gets $1.2 billion AI order from cloud firm Vultr",
    "catalyst_type": "earnings",
-   "source_url": "https://www.investors.com/news/technology/hpe-hikes-networking-guidance-announces-amd-helios-order/?src=A00220&yptr=yahoo",
-   "published": "2026-09-30T12:44:53Z",
+   "source_url": "https://www.yahoo.com/news/articles/hpe-boosts-networking-growth-outlook-131656298.html",
+   "published": "2026-09-30T13:16:56Z",
    "sector": "Chip Equipment & AI Hardware"
   }
  ]

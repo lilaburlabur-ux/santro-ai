@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-30T13:21:49+00:00",
-  "as_of_local": "2026-09-30 13:21:49 UTC",
+  "as_of_utc": "2026-09-30T13:26:54+00:00",
+  "as_of_local": "2026-09-30 13:26:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -41,6 +43,12 @@
       "market_cap": 2369907448162.5103,
       "headlines": [
         {
+          "title": "TSMC Reportedly Weighs Texas Chip Investment On Top Of $265B Arizona Push",
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-reportedly-weighs-texas-chip-131720014.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-30T13:17:20Z"
+        },
+        {
           "title": "Anthropic\u2019s Prospectus Shows a Giant Loss and an Even Bigger Ask",
           "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-prospectus-shows-giant-loss-124558335.html",
           "publisher": "24/7 Wall St.",
@@ -51,12 +59,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/asml-tsm-earnings-could-expose-120540020.html",
           "publisher": "GuruFocus.com",
           "published": "2026-09-30T12:05:40Z"
-        },
-        {
-          "title": "US Wants to Break Taiwan Dependence \u2014 But Here's Why Taipei Will Remain 'Central' Character in the AI Chips Story",
-          "url": "https://finance.yahoo.com/technology/ai/articles/us-wants-break-taiwan-dependence-113006015.html",
-          "publisher": "Benzinga",
-          "published": "2026-09-30T11:30:06Z"
         }
       ]
     },
@@ -69,6 +71,12 @@
       "market_cap": 1695115994197.4246,
       "headlines": [
         {
+          "title": "Broadcom vs. NVIDIA: Which Technology Stock Is a Better Buy in 2026?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-vs-nvidia-technology-stock-131901887.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-30T13:19:01Z"
+        },
+        {
           "title": "Anthropic\u2019s Prospectus Shows a Giant Loss and an Even Bigger Ask",
           "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-prospectus-shows-giant-loss-124558335.html",
           "publisher": "24/7 Wall St.",
@@ -79,12 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-vs-qualcomm-technology-stock-122001215.html",
           "publisher": "Motley Fool",
           "published": "2026-09-30T12:20:01Z"
-        },
-        {
-          "title": "Why Is Apple Stock Falling When Chipmakers Are Rising?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-apple-stock-falling-chipmakers-121231608.html",
-          "publisher": "BeInCrypto",
-          "published": "2026-09-30T12:12:31Z"
         }
       ]
     },
@@ -131,16 +133,16 @@
           "published": "2026-09-29T14:30:00Z"
         },
         {
+          "title": "HPE boosts networking growth outlook, gets $1.2 billion AI order from cloud firm Vultr",
+          "url": "https://www.yahoo.com/news/articles/hpe-boosts-networking-growth-outlook-131656298.html",
+          "publisher": "Reuters",
+          "published": "2026-09-30T13:16:56Z"
+        },
+        {
           "title": "Cathie Wood Sold $110 Million of AMD and Bought Nvidia Instead",
           "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sold-110-million-131639170.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-30T13:16:39Z"
-        },
-        {
-          "title": "HPE Stock Gains After Securing Its First AMD Helios Order In $1.2B Deal With Vultr",
-          "url": "https://finance.yahoo.com/technology/ai/articles/hpe-stock-gains-securing-first-130916163.html",
-          "publisher": "Stocktwits",
-          "published": "2026-09-30T13:09:16Z"
         }
       ]
     },
@@ -281,34 +283,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-just-locked-apple-target-133044975.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-28T13:30:44Z"
-        }
-      ]
-    },
-    {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 125.45,
-      "previous_close": 124.03,
-      "change_pct": 1.14,
-      "market_cap": 17782437836.465744,
-      "headlines": [
-        {
-          "title": "Marvell Technology, Semtech, Lattice Semiconductor, and Micron Stocks Trade Down, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-semtech-lattice-semiconductor-002236591.html",
-          "publisher": "StockStory",
-          "published": "2026-09-29T00:22:36Z"
-        },
-        {
-          "title": "These are stocks getting lifted up by Meta's Muse",
-          "url": "https://finance.yahoo.com/video/stocks-getting-lifted-metas-muse-135520851.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-09-25T13:55:20Z"
-        },
-        {
-          "title": "Entegris and Lattice Semiconductor Shares Are Soaring, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/entegris-lattice-semiconductor-shares-soaring-210946251.html",
-          "publisher": "StockStory",
-          "published": "2026-09-22T21:09:46Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 85296.05,
-      "change_pct": 2.0
+      "price": 85302.21,
+      "change_pct": 2.01
     },
     {
       "label": "Gold",
-      "price": 4236.5,
-      "change_pct": 1.36
+      "price": 4231.5,
+      "change_pct": 1.24
     },
     {
       "label": "Nasdaq100",

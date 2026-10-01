@@ -4,24 +4,24 @@ Signed file: `TSM.research.01.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-01, ~15-min delayed) |
-| Market cap | $2.37T |
+| Current price | $459.20 (2026-10-01, ~15-min delayed) |
+| Market cap | $2.38T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated. |
+| Current stance | High technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-01.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +66.16%; price +19.44% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -3.59% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 49.92%, revenue growth 36.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.81, EV/Sales 3.72. |
-| Risk level | Elevated | Beta 1.25, ATR nan% of price, short float 0.57%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.94, EV/Sales 3.72. |
+| Risk level | Elevated | Beta 1.25, ATR 2.2% of price, short float 0.57%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated.
+**Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -32,34 +32,25 @@ Signed file: `TSM.research.01.10.2026`
 ## 2. Company Overview and Recent Catalysts
 Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiaries, manufactures, packages, tests, and sells integrated circuits and other semiconductor devices in Taiwan, China, Europe, the Middle East, Africa, Japan, the United States, and internationally. It provides various wafer fabrication processes, such as processes to manufacture complementary metal- oxide-semiconductor (CMOS) logic, mixed-signal, radio frequency, embedded memory, bipolar CMOS mixed-signal, and others.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| In AI Race, Software Is Now Winning Alongside Chips | Barrons.com | 2026-09-30 |
-| Nvidia Supplier FormFactor’s Stock Surges After Deutsche Bank Says It’s a Buy | Barrons.com | 2026-09-30 |
-| TSMC (TSM) is a Great Momentum Stock: Should You Buy? | Zacks | 2026-09-30 |
-| TSMC's $265 Billion U.S. Expansion May Be Getting Even Bigger | GuruFocus.com | 2026-09-30 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $476.29 (+nan%); 52w low $272.18 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 65.3 (neutral) |
-| Volatility | ATR(14) 10.78 (~nan% of price); beta 1.25 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $459.20; 52w high $476.29 (-3.59%); 52w low $272.18 (+68.71%) |
+| Trend | +19.44% vs SMA200, +8.58% vs SMA50, +4.87% vs SMA20 |
+| Momentum | RSI(14) 66.1 (neutral) |
+| Volatility | ATR(14) 10.25 (~2.2% of price); beta 1.25 |
+| Setup perspective | -3.59% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +1.8% |
+| Month | +11.2% |
+| Quarter | +6.1% |
+| Half Y | +35.1% |
+| 1Y | +66.2% |
+| YTD | +44.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +59,13 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.44T | Revenue growth 36.00% y/y |
 | Profitability | Gross 64.23%, operating 60.34%, net 49.92% | ROA 19.00%, ROE 39.97% |
 | Balance sheet | Cash $3.52T, debt $1.07T | Current ratio 2.46, debt/equity 16.50 |
-| Valuation | P/E 33.97, forward P/E 20.81, P/S 0.53, P/B 93.81 | EV/Sales 3.72, EV/EBITDA 5.22 |
+| Valuation | P/E 34.12, forward P/E 20.94, P/S 0.54, P/B 94.43 | EV/Sales 3.72, EV/EBITDA 5.22 |
 | Growth expectations | Earnings growth 77.40%, EPS q/q 77.40% | Analyst mean target $552.26 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 15.48% |
+| Institutional ownership | 15.47% |
 | Insider ownership | 0.01% |
 | Short float | 0.57% |
 | Short ratio (days to cover) | 2.9 |
@@ -95,8 +86,9 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Bank of America Corporation | 15,282,620 | 0.29% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.81, EV/Sales 3.72. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.25, ATR nan% of price, short float 0.57%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 20.94, EV/Sales 3.72. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.25, ATR 2.2% of price, short float 0.57%. Size positions accordingly.
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -111,21 +103,21 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 3.72 |
-| Market cap | $2.37T | EV/EBITDA | 5.22 |
+| Price | $459.20 | EV/Sales | 3.72 |
+| Market cap | $2.38T | EV/EBITDA | 5.22 |
 | Beta | 1.25 | Gross margin | 64.23% |
-| RSI(14) | 65.3 | Operating margin | 60.34% |
-| ATR(14) | 10.78 | Profit margin | 49.92% |
-| SMA20 dist | +nan% | ROA | 19.00% |
-| SMA50 dist | +nan% | ROE | 39.97% |
-| SMA200 dist | +nan% | Revenue (ttm) | $4.44T |
+| RSI(14) | 66.1 | Operating margin | 60.34% |
+| ATR(14) | 10.25 | Profit margin | 49.92% |
+| SMA20 dist | +4.87% | ROA | 19.00% |
+| SMA50 dist | +8.58% | ROE | 39.97% |
+| SMA200 dist | +19.44% | Revenue (ttm) | $4.44T |
 | 52W high | $476.29 | Revenue growth y/y | 36.00% |
-| 52W low | $272.18 | Inst. ownership | 15.48% |
-| P/E (ttm) | 33.97 | Insider ownership | 0.01% |
-| Forward P/E | 20.81 | Short float | 0.57% |
-| PEG (trailing) | 0.86 | Avg volume | 11,846,526 |
-| P/S | 0.53 | Employees | 76,907 |
-| P/B | 93.81 | Analyst rec (1=buy..5=sell) | 1.4 |
+| 52W low | $272.18 | Inst. ownership | 15.47% |
+| P/E (ttm) | 34.12 | Insider ownership | 0.01% |
+| Forward P/E | 20.94 | Short float | 0.57% |
+| PEG (trailing) | 0.86 | Avg volume | 11,694,988 |
+| P/S | 0.54 | Employees | 76,907 |
+| P/B | 94.43 | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -140,7 +132,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | 2026-06-24 | main | B of A Securities | Buy → Buy |
 
 ## 9. Conclusion
-TSM: Moderate momentum / strong fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+TSM: High momentum / strong fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

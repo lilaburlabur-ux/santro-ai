@@ -4,8 +4,8 @@ Signed file: `QCOM.research.01.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-01, ~15-min delayed) |
-| Market cap | $196.57B |
+| Current price | $182.09 (2026-10-01, ~15-min delayed) |
+| Market cap | $194.48B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `QCOM.research.01.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +11.73%; price +8.52% vs SMA200. |
+| Fresh setup quality | Poor / broken | -26.80% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 21.01%, revenue growth -4.00%. |
-| Value attractiveness | Reasonable | Forward P/E 18.04, EV/Sales 4.54. |
-| Risk level | Elevated | Beta 1.68, ATR nan% of price, short float 4.01%. |
+| Value attractiveness | Reasonable | Forward P/E 17.84, EV/Sales 4.54. |
+| Risk level | Elevated | Beta 1.68, ATR 4.6% of price, short float 4.01%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -32,34 +32,25 @@ Signed file: `QCOM.research.01.10.2026`
 ## 2. Company Overview and Recent Catalysts
 QUALCOMM Incorporated engages in the development and commercialization of foundational technologies for the wireless industry worldwide. It operates through three segments: Qualcomm CDMA Technologies (QCT); Qualcomm Technology Licensing (QTL); and Qualcomm Strategic Initiatives (QSI).
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| OpenAI's Dots connect to 4,000 apps and never sleep | Yahoo Finance Video | 2026-09-30 |
-| What Changed In Marvell's Story? | Trefis | 2026-09-30 |
-| SCHD’s Rules Sold Broadcom in March 2024. The Stock Is Up About 183% Since, and SCHD Holders Missed the Run | 24/7 Wall St. | 2026-09-30 |
-| What Is The Case For Waiting On Qualcomm Stock? | Trefis | 2026-09-30 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $248.74 (+nan%); 52w low $122.94 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 52.0 (neutral) |
-| Volatility | ATR(14) 9.03 (~nan% of price); beta 1.68 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $182.09; 52w high $248.74 (-26.80%); 52w low $122.94 (+48.11%) |
+| Trend | +8.52% vs SMA200, +6.71% vs SMA50, -1.29% vs SMA20 |
+| Momentum | RSI(14) 50.3 (neutral) |
+| Volatility | ATR(14) 8.45 (~4.6% of price); beta 1.68 |
+| Setup perspective | -26.80% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -6.3% |
+| Month | +9.9% |
+| Quarter | +3.9% |
+| Half Y | +44.4% |
+| 1Y | +11.7% |
+| YTD | +6.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +59,13 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $44.07B | Revenue growth -4.00% y/y |
 | Profitability | Gross 54.23%, operating 18.53%, net 21.01% | ROA 11.61%, ROE 33.75% |
 | Balance sheet | Cash $8.30B, debt $15.27B | Current ratio 2.02, debt/equity 55.21 |
-| Valuation | P/E 21.06, forward P/E 18.04, P/S 4.46, P/B 7.03 | EV/Sales 4.54, EV/EBITDA 16.69 |
+| Valuation | P/E 20.83, forward P/E 17.84, P/S 4.41, P/B 6.96 | EV/Sales 4.54, EV/EBITDA 16.69 |
 | Growth expectations | Earnings growth -23.00%, EPS q/q -24.90% | Analyst mean target $194.13 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 83.09% |
+| Institutional ownership | 83.14% |
 | Insider ownership | 0.12% |
 | Short float | 4.01% |
 | Short ratio (days to cover) | 3.3 |
@@ -95,7 +86,8 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | NORGES BANK | 16,209,022 | 1.54% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.68, ATR nan% of price, short float 4.01%. Size positions accordingly.
+- **Volatility risk:** Beta 1.68, ATR 4.6% of price, short float 4.01%. Size positions accordingly.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,21 +102,21 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 4.54 |
-| Market cap | $196.57B | EV/EBITDA | 16.69 |
+| Price | $182.09 | EV/Sales | 4.54 |
+| Market cap | $194.48B | EV/EBITDA | 16.69 |
 | Beta | 1.68 | Gross margin | 54.23% |
-| RSI(14) | 52.0 | Operating margin | 18.53% |
-| ATR(14) | 9.03 | Profit margin | 21.01% |
-| SMA20 dist | +nan% | ROA | 11.61% |
-| SMA50 dist | +nan% | ROE | 33.75% |
-| SMA200 dist | +nan% | Revenue (ttm) | $44.07B |
+| RSI(14) | 50.3 | Operating margin | 18.53% |
+| ATR(14) | 8.45 | Profit margin | 21.01% |
+| SMA20 dist | -1.29% | ROA | 11.61% |
+| SMA50 dist | +6.71% | ROE | 33.75% |
+| SMA200 dist | +8.52% | Revenue (ttm) | $44.07B |
 | 52W high | $248.74 | Revenue growth y/y | -4.00% |
-| 52W low | $122.94 | Inst. ownership | 83.09% |
-| P/E (ttm) | 21.06 | Insider ownership | 0.12% |
-| Forward P/E | 18.04 | Short float | 4.01% |
-| PEG (trailing) | 0.88 | Avg volume | 12,912,812 |
-| P/S | 4.46 | Employees | 52,000 |
-| P/B | 7.03 | Analyst rec (1=buy..5=sell) | 2.6 |
+| 52W low | $122.94 | Inst. ownership | 83.14% |
+| P/E (ttm) | 20.83 | Insider ownership | 0.12% |
+| Forward P/E | 17.84 | Short float | 4.01% |
+| PEG (trailing) | 0.88 | Avg volume | 12,660,512 |
+| P/S | 4.41 | Employees | 52,000 |
+| P/B | 6.96 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

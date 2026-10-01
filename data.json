@@ -1,26 +1,64 @@
 {
-  "as_of_utc": "2026-10-01T19:13:42+00:00",
-  "as_of_local": "2026-10-01 19:13:42 UTC",
+  "as_of_utc": "2026-10-01T19:18:42+00:00",
+  "as_of_local": "2026-10-01 19:18:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 231.65,
+      "price": 231.61,
       "previous_close": 228.38,
-      "change_pct": 1.43,
-      "market_cap": 5593531918167.114,
-      "headlines": []
+      "change_pct": 1.41,
+      "market_cap": 5592445347381.592,
+      "headlines": [
+        {
+          "title": "Why Did AMD Stock Jump?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-amd-stock-jump-181321044.html",
+          "publisher": "Trefis",
+          "published": "2026-10-01T18:13:21Z"
+        },
+        {
+          "title": "Is NVIDIA Stock Increasing Your Market Risk?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-increasing-market-risk-180559650.html",
+          "publisher": "Trefis",
+          "published": "2026-10-01T18:05:59Z"
+        },
+        {
+          "title": "Nvidia Stocks Rise as $500 Billion Plan Tests GPU Collateral",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-rise-500-billion-174908141.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-10-01T17:49:08Z"
+        }
+      ]
     },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 458.24,
+      "price": 458.08,
       "previous_close": 456.19,
-      "change_pct": 0.45,
-      "market_cap": 2376675758762.605,
-      "headlines": []
+      "change_pct": 0.41,
+      "market_cap": 2375770721579.7944,
+      "headlines": [
+        {
+          "title": "TSMC weighs investment in Texas to expand U.S. chip production, Reuters reports",
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-weighs-investment-texas-expand-021055343.html",
+          "publisher": "Investing.com",
+          "published": "2026-10-01T02:10:55Z"
+        },
+        {
+          "title": "In AI Race, Software Is Now Winning Alongside Chips",
+          "url": "https://www.barrons.com/articles/ai-agents-meta-muse-stocks-chips-cb06386a?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-30T22:05:00Z"
+        },
+        {
+          "title": "Nvidia Supplier FormFactor\u2019s Stock Surges After Deutsche Bank Says It\u2019s a Buy",
+          "url": "https://www.barrons.com/articles/nvidia-formfactor-stock-4aca02ed?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-30T17:49:00Z"
+        }
+      ]
     },
     {
       "symbol": "AVGO",
@@ -28,123 +66,351 @@
       "price": 347.0,
       "previous_close": 351.19,
       "change_pct": -1.19,
-      "market_cap": 1656401780238.8708,
-      "headlines": []
+      "market_cap": 1656783752208.6594,
+      "headlines": [
+        {
+          "title": "Why Did AMD Stock Jump?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-amd-stock-jump-181321044.html",
+          "publisher": "Trefis",
+          "published": "2026-10-01T18:13:21Z"
+        },
+        {
+          "title": "Is NVIDIA Stock Increasing Your Market Risk?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-increasing-market-risk-180559650.html",
+          "publisher": "Trefis",
+          "published": "2026-10-01T18:05:59Z"
+        },
+        {
+          "title": "AI Spending Is Entering Its Next Phase. This Stock Could Benefit Most",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-spending-entering-next-phase-180039919.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-10-01T18:00:39Z"
+        }
+      ]
     },
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 1085.1,
+      "price": 1086.52,
       "previous_close": 1065.11,
-      "change_pct": 1.88,
-      "market_cap": 1225052695743.55,
-      "headlines": []
+      "change_pct": 2.01,
+      "market_cap": 1226718660933.575,
+      "headlines": [
+        {
+          "title": "Micron stock roughly flat after blowout earnings and the answer to this analyst's key question",
+          "url": "https://finance.yahoo.com/technology/article/micron-stock-roughly-flat-after-blowout-earnings-and-the-answer-to-this-analysts-key-question-134446610.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-09-30T13:44:46Z"
+        },
+        {
+          "title": "Stocks Fall as Treasury Selloff Flips",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-rally-checked-relentless-084700416.html",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-10-01T19:03:00Z"
+        },
+        {
+          "title": "Stock Market Today: Nasdaq Charges Higher As Yields Ease; Apple Slides, Intel Gains (Live Coverage)",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-micron-stock-mu-earnings/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-10-01T17:59:01Z"
+        }
+      ]
     },
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 615.71,
+      "price": 614.84,
       "previous_close": 611.76,
-      "change_pct": 0.64,
-      "market_cap": 1005123073633.3534,
-      "headlines": []
+      "change_pct": 0.5,
+      "market_cap": 1004048374182.486,
+      "headlines": [
+        {
+          "title": "Why Did AMD Stock Jump?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-amd-stock-jump-181321044.html",
+          "publisher": "Trefis",
+          "published": "2026-10-01T18:13:21Z"
+        },
+        {
+          "title": "Is NVIDIA Stock Increasing Your Market Risk?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-increasing-market-risk-180559650.html",
+          "publisher": "Trefis",
+          "published": "2026-10-01T18:05:59Z"
+        },
+        {
+          "title": "Advanced Micro Devices (AMD) Benefit from Surging CPU Demand in Autonomous AI",
+          "url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-benefit-174606152.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-10-01T17:46:06Z"
+        }
+      ]
     },
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 120.24,
+      "price": 120.22,
       "previous_close": 120.23,
-      "change_pct": 0.01,
-      "market_cap": 635533087748.2023,
-      "headlines": []
+      "change_pct": -0.01,
+      "market_cap": 631701765779.0482,
+      "headlines": [
+        {
+          "title": "Why Did AMD Stock Jump?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-amd-stock-jump-181321044.html",
+          "publisher": "Trefis",
+          "published": "2026-10-01T18:13:21Z"
+        },
+        {
+          "title": "Is NVIDIA Stock Increasing Your Market Risk?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-increasing-market-risk-180559650.html",
+          "publisher": "Trefis",
+          "published": "2026-10-01T18:05:59Z"
+        },
+        {
+          "title": "Intel (INTC) Rides AI Optimism But Is It Already Fully Valued",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-rides-ai-optimism-170940802.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-10-01T17:09:40Z"
+        }
+      ]
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 291.49,
+      "price": 292.09,
       "previous_close": 289.66,
-      "change_pct": 0.63,
-      "market_cap": 311316237655.81824,
-      "headlines": []
+      "change_pct": 0.84,
+      "market_cap": 312058504483.5284,
+      "headlines": [
+        {
+          "title": "Munro Partners Sees Arm Holdings (ARM) as a Key Beneficiary of Agentic AI",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/munro-partners-sees-arm-holdings-175235226.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-10-01T17:52:35Z"
+        },
+        {
+          "title": "3 AI Stocks With Earnings Growth Up To 76%",
+          "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-earnings-growth-120922806.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-10-01T12:09:22Z"
+        },
+        {
+          "title": "In AI Race, Software Is Now Winning Alongside Chips",
+          "url": "https://www.barrons.com/articles/ai-agents-meta-muse-stocks-chips-cb06386a?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-30T22:05:00Z"
+        }
+      ]
     },
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 266.76,
+      "price": 266.5,
       "previous_close": 264.21,
-      "change_pct": 0.96,
-      "market_cap": 239657571216.27682,
-      "headlines": []
+      "change_pct": 0.87,
+      "market_cap": 239423899240.4846,
+      "headlines": [
+        {
+          "title": "Why Did AMD Stock Jump?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-amd-stock-jump-181321044.html",
+          "publisher": "Trefis",
+          "published": "2026-10-01T18:13:21Z"
+        },
+        {
+          "title": "Is NVIDIA Stock Increasing Your Market Risk?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-increasing-market-risk-180559650.html",
+          "publisher": "Trefis",
+          "published": "2026-10-01T18:05:59Z"
+        },
+        {
+          "title": "AI Spending Is Entering Its Next Phase. This Stock Could Benefit Most",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-spending-entering-next-phase-180039919.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-10-01T18:00:39Z"
+        }
+      ]
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 183.38,
+      "price": 183.3,
       "previous_close": 184.04,
-      "change_pct": -0.36,
-      "market_cap": 195855591803.625,
-      "headlines": []
+      "change_pct": -0.4,
+      "market_cap": 195780819746.82635,
+      "headlines": [
+        {
+          "title": "Why Did AMD Stock Jump?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-amd-stock-jump-181321044.html",
+          "publisher": "Trefis",
+          "published": "2026-10-01T18:13:21Z"
+        },
+        {
+          "title": "Is NVIDIA Stock Increasing Your Market Risk?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-increasing-market-risk-180559650.html",
+          "publisher": "Trefis",
+          "published": "2026-10-01T18:05:59Z"
+        },
+        {
+          "title": "Qualcomm (QCOM): Can Its AI Strategy Overcome Skepticism Around Its Current Market Position?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-ai-strategy-overcome-180128531.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-10-01T18:01:28Z"
+        }
+      ]
     },
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 240.4,
+      "price": 240.29,
       "previous_close": 237.53,
-      "change_pct": 1.21,
-      "market_cap": 60648004103.56082,
-      "headlines": []
+      "change_pct": 1.16,
+      "market_cap": 60600096142.58557,
+      "headlines": [
+        {
+          "title": "1 Profitable Stock to Keep an Eye On and 2 Facing Challenges",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-keep-eye-122913162.html",
+          "publisher": "StockStory",
+          "published": "2026-09-30T12:29:13Z"
+        },
+        {
+          "title": "ON Semiconductor Stock Looks Expensive Until You Price Its Fuller Factories",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stock-looks-expensive-until-233754854.html",
+          "publisher": "Trefis",
+          "published": "2026-09-28T23:37:54Z"
+        },
+        {
+          "title": "Qualcomm Just Locked In Apple. Our Target Sits Above Wall Street\u2019s",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-just-locked-apple-target-133044975.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-28T13:30:44Z"
+        }
+      ]
     },
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 129.53,
+      "price": 129.61,
       "previous_close": 125.62,
-      "change_pct": 3.11,
-      "market_cap": 18350866526.353043,
-      "headlines": []
+      "change_pct": 3.18,
+      "market_cap": 18408543640.6084,
+      "headlines": [
+        {
+          "title": "Marvell Technology, Semtech, Lattice Semiconductor, and Micron Stocks Trade Down, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-semtech-lattice-semiconductor-002236591.html",
+          "publisher": "StockStory",
+          "published": "2026-09-29T00:22:36Z"
+        },
+        {
+          "title": "These are stocks getting lifted up by Meta's Muse",
+          "url": "https://finance.yahoo.com/video/stocks-getting-lifted-metas-muse-135520851.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-09-25T13:55:20Z"
+        },
+        {
+          "title": "Entegris and Lattice Semiconductor Shares Are Soaring, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/entegris-lattice-semiconductor-shares-soaring-210946251.html",
+          "publisher": "StockStory",
+          "published": "2026-09-22T21:09:46Z"
+        }
+      ]
     },
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 140.26,
+      "price": 140.79,
       "previous_close": 142.22,
-      "change_pct": -1.38,
-      "market_cap": 7131161276.861938,
-      "headlines": []
+      "change_pct": -1.01,
+      "market_cap": 7154792717.180969,
+      "headlines": [
+        {
+          "title": "3 US Onshoring Stocks To Watch As Tariff Rules Reshape Supply Chains",
+          "url": "https://finance.yahoo.com/economy/policy/articles/3-us-onshoring-stocks-watch-031641382.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-10-01T03:16:41Z"
+        },
+        {
+          "title": "Can Draganfly Expand Through Mission-Critical Drone Applications?",
+          "url": "https://finance.yahoo.com/technology/articles/draganfly-expand-mission-critical-drone-103500977.html",
+          "publisher": "Zacks",
+          "published": "2026-09-30T10:35:00Z"
+        },
+        {
+          "title": "Red Cat's 2026 Target Requires a Sharp H2 Ramp: Can It Deliver?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/red-cats-2026-target-requires-124100398.html",
+          "publisher": "Zacks",
+          "published": "2026-09-29T12:41:00Z"
+        }
+      ]
     },
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 105.11,
+      "price": 105.03,
       "previous_close": 101.4,
-      "change_pct": 3.65,
-      "market_cap": 4171871201.6097946,
-      "headlines": []
+      "change_pct": 3.58,
+      "market_cap": 4168894088.9373474,
+      "headlines": [
+        {
+          "title": "Here's How ON Semiconductor Is Targeting a $213 Billion AI Power Opportunity",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-semiconductor-targeting-213-billion-175000669.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-23T17:50:00Z"
+        },
+        {
+          "title": "CEO Claims Investors Got It Wrong on $30 Billion Shortfall as ON Stock Plummets 9%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceo-claims-investors-got-wrong-163516827.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-17T16:35:16Z"
+        },
+        {
+          "title": "How Investors May Respond To Synaptics (SYNA) Tactile Sensing Integration With NVIDIA Isaac Sim",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-synaptics-syna-201220953.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-16T20:12:20Z"
+        }
+      ]
     },
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 35.66,
+      "price": 35.63,
       "previous_close": 35.33,
-      "change_pct": 0.93,
-      "market_cap": 1003974203.2240295,
-      "headlines": []
+      "change_pct": 0.85,
+      "market_cap": 1003129615.4317932,
+      "headlines": [
+        {
+          "title": "CEVA (CEVA) Following Its Leadership Reset Looks Undervalued To Some Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-ceva-following-leadership-reset-080936001.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-26T08:09:36Z"
+        },
+        {
+          "title": "Will AI Expansion Drive CEVA's Shares to Further Heights?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-expansion-drive-cevas-shares-164100938.html",
+          "publisher": "Zacks",
+          "published": "2026-09-21T16:41:00Z"
+        },
+        {
+          "title": "What Would Cadence Have To Keep Doing To Justify Its Price?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cadence-keep-doing-justify-price-194332435.html",
+          "publisher": "Trefis",
+          "published": "2026-09-16T19:43:32Z"
+        }
+      ]
     }
   ],
   "etfs": [
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 61.62,
-      "change_pct": 2.09,
+      "price": 61.65,
+      "change_pct": 2.15,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 1.88,
-          "price": 1085.1,
+          "change_pct": 2.01,
+          "price": 1086.52,
           "currency": "USD"
         },
         {
@@ -179,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 2.12,
-          "price": 1776.77,
+          "change_pct": 2.4,
+          "price": 1781.72,
           "currency": "USD"
         },
         {
@@ -188,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 0.82,
-          "price": 929.93,
+          "change_pct": 0.88,
+          "price": 930.48,
           "currency": "USD"
         },
         {
@@ -197,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 0.39,
-          "price": 456.23,
+          "change_pct": 0.41,
+          "price": 456.31,
           "currency": "USD"
         },
         {
@@ -225,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 61.62,
-    "change_pct": 2.09,
+    "price": 61.65,
+    "change_pct": 2.15,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 1.88,
-        "price": 1085.1,
+        "change_pct": 2.01,
+        "price": 1086.52,
         "currency": "USD"
       },
       {
@@ -269,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 2.12,
-        "price": 1776.77,
+        "change_pct": 2.4,
+        "price": 1781.72,
         "currency": "USD"
       },
       {
@@ -278,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 0.82,
-        "price": 929.93,
+        "change_pct": 0.88,
+        "price": 930.48,
         "currency": "USD"
       },
       {
@@ -287,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 0.39,
-        "price": 456.23,
+        "change_pct": 0.41,
+        "price": 456.31,
         "currency": "USD"
       },
       {
@@ -314,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7673.74,
+      "price": 7673.67,
       "change_pct": 0.29
     },
     {
       "label": "BTC",
-      "price": 84759.54,
-      "change_pct": 1.44
+      "price": 84722.95,
+      "change_pct": 1.4
     },
     {
       "label": "Gold",
-      "price": 4205.9,
-      "change_pct": 0.46
+      "price": 4205.3,
+      "change_pct": 0.44
     },
     {
       "label": "Nasdaq100",
-      "price": 30535.09,
-      "change_pct": 0.42
+      "price": 30527.97,
+      "change_pct": 0.39
     }
   ]
 }

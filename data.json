@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-01T08:48:07+00:00",
-  "as_of_local": "2026-10-01 08:48:07 UTC",
+  "as_of_utc": "2026-10-01T08:53:13+00:00",
+  "as_of_local": "2026-10-01 08:53:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -61,34 +63,6 @@
       ]
     },
     {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 351.19,
-      "previous_close": 355.1,
-      "change_pct": -1.1,
-      "market_cap": 1676451083943.7197,
-      "headlines": [
-        {
-          "title": "What Changed In Marvell's Story?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-marvells-story-205226599.html",
-          "publisher": "Trefis",
-          "published": "2026-09-30T20:52:26Z"
-        },
-        {
-          "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-slip-ahead-113432814.html",
-          "publisher": "Reuters",
-          "published": "2026-09-30T20:35:11Z"
-        },
-        {
-          "title": "SCHD\u2019s Rules Sold Broadcom in March 2024. The Stock Is Up About 183% Since, and SCHD Holders Missed the Run",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/schd-rules-sold-broadcom-march-200147768.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-30T20:01:47Z"
-        }
-      ]
-    },
-    {
       "symbol": "MU",
       "name": "Micron Technology",
       "price": 1065.11,
@@ -109,10 +83,10 @@
           "published": "2026-09-30T12:00:00Z"
         },
         {
-          "title": "Micron Says 75% of Next Year's Output Is 'Already Committed' \u2014 Analyst Explains Why MU Stock Didn't Move",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-says-75-next-years-073623068.html",
-          "publisher": "Benzinga",
-          "published": "2026-10-01T07:36:23Z"
+          "title": "AI Stock Rally Checked by Relentless Treasury Selloff",
+          "url": "https://www.wsj.com/finance/ai-stock-rally-checked-by-relentless-treasury-selloff-c434b12e?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-10-01T08:47:00Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 83467.7,
-      "change_pct": -0.1
+      "price": 83494.17,
+      "change_pct": -0.07
     },
     {
       "label": "Gold",
-      "price": 4186.9,
-      "change_pct": 0.0
+      "price": 4180.6,
+      "change_pct": -0.15
     },
     {
       "label": "Nasdaq100",

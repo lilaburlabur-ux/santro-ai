@@ -1,10 +1,43 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-01T01:00:30+00:00",
+  "as_of": "2026-10-01T02:09:27+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "CBRS",
+   "company": "Cerebras Systems Inc",
+   "move_pct": -8.87,
+   "price": 177.65,
+   "volume": 13841800,
+   "volume_vs_avg": "~2x",
+   "heat_score": 67,
+   "direction": "down",
+   "why": "Cerebras Systems (CBRS) Stock May Stay Hard To Call After AI Inference Deal",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-systems-cbrs-stock-may-231228656.html",
+   "published": "2026-09-30T23:12:28Z",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
+   "ticker": "AI",
+   "company": "C3.ai Inc",
+   "move_pct": 6.29,
+   "price": 10.99,
+   "volume": 5316100,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 42,
+   "direction": "up",
+   "why": "Asana, Unity, C3.ai, Rapid7, and ZoomInfo Shares Are Soaring, What You Need To Know",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/asana-unity-c3-ai-rapid7-230913868.html",
+   "published": "2026-09-30T23:09:13Z",
+   "sector": "AI Software & Cloud Infrastructure"
+  }
+ ]
 }

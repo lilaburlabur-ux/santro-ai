@@ -6,7 +6,7 @@
 | NVDA | $5.57T | +24% | 14.7 | 64% | Moderate | Reasonable | High |
 | TSM | $2.38T | +66% | 20.9 | 50% | High | Fair-to-demanding | Elevated |
 | AVGO | $1.64T | +5% | 17.7 | 43% | Moderate | Reasonable | Elevated |
-| MU | $1.24T | +557% | 5.4 | 56% | High | Reasonable | High |
+| MU | $1.24T | +557% | 5.3 | 56% | High | Reasonable | High |
 | AMD | $1.01T | +281% | 39.5 | 16% | High | Low (expensive) | High |
 | INTC | $634.33B | +258% | 58.2 | -20% | High | Low (expensive) | High |
 | ARM | $312.22B | +107% | 95.7 | 20% | High | Low (expensive) | High |

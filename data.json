@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-01T08:53:13+00:00",
-  "as_of_local": "2026-10-01 08:53:13 UTC",
+  "as_of_utc": "2026-10-01T08:58:14+00:00",
+  "as_of_local": "2026-10-01 08:58:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -59,6 +57,34 @@
           "url": "https://www.barrons.com/articles/nvidia-formfactor-stock-4aca02ed?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-09-30T17:49:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 351.19,
+      "previous_close": 355.1,
+      "change_pct": -1.1,
+      "market_cap": 1676451083943.7197,
+      "headlines": [
+        {
+          "title": "What Changed In Marvell's Story?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-marvells-story-205226599.html",
+          "publisher": "Trefis",
+          "published": "2026-09-30T20:52:26Z"
+        },
+        {
+          "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-slip-ahead-113432814.html",
+          "publisher": "Reuters",
+          "published": "2026-09-30T20:35:11Z"
+        },
+        {
+          "title": "SCHD\u2019s Rules Sold Broadcom in March 2024. The Stock Is Up About 183% Since, and SCHD Holders Missed the Run",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/schd-rules-sold-broadcom-march-200147768.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-30T20:01:47Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 83494.17,
-      "change_pct": -0.07
+      "price": 83506.55,
+      "change_pct": -0.06
     },
     {
       "label": "Gold",
-      "price": 4180.6,
-      "change_pct": -0.15
+      "price": 4182.3,
+      "change_pct": -0.11
     },
     {
       "label": "Nasdaq100",

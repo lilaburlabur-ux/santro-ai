@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-01T00:55:37+00:00",
-  "as_of_local": "2026-10-01 00:55:37 UTC",
+  "as_of_utc": "2026-10-01T01:00:28+00:00",
+  "as_of_local": "2026-10-01 01:00:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -112,7 +114,7 @@
           "title": "Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-micron-rises-earnings-treasury-yields/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-10-01T00:40:06Z"
+          "published": "2026-10-01T00:48:57Z"
         }
       ]
     },
@@ -150,7 +152,7 @@
       "price": 115.93,
       "previous_close": 116.03,
       "change_pct": -0.09,
-      "market_cap": 635548435650.26,
+      "market_cap": 631751698852.4501,
       "headlines": [
         {
           "title": "Stock Market Today: Dow Knocked Down, Nasdaq Pares Gain; Micron Holds Firm After Earnings Soar",
@@ -285,34 +287,6 @@
       ]
     },
     {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 125.45,
-      "previous_close": 124.03,
-      "change_pct": 1.14,
-      "market_cap": 17806535634.58,
-      "headlines": [
-        {
-          "title": "Marvell Technology, Semtech, Lattice Semiconductor, and Micron Stocks Trade Down, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-semtech-lattice-semiconductor-002236591.html",
-          "publisher": "StockStory",
-          "published": "2026-09-29T00:22:36Z"
-        },
-        {
-          "title": "These are stocks getting lifted up by Meta's Muse",
-          "url": "https://finance.yahoo.com/video/stocks-getting-lifted-metas-muse-135520851.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-09-25T13:55:20Z"
-        },
-        {
-          "title": "Entegris and Lattice Semiconductor Shares Are Soaring, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/entegris-lattice-semiconductor-shares-soaring-210946251.html",
-          "publisher": "StockStory",
-          "published": "2026-09-22T21:09:46Z"
-        }
-      ]
-    },
-    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 143.24,
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -0.9,
-          "price": 1760000.0,
+          "change_pct": -0.51,
+          "price": 1767000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -1.3,
-          "price": 265000.0,
+          "change_pct": -1.12,
+          "price": 265500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 3.76,
-          "price": 18775.0,
+          "change_pct": 3.37,
+          "price": 18705.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -0.9,
-        "price": 1760000.0,
+        "change_pct": -0.51,
+        "price": 1767000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -1.3,
-        "price": 265000.0,
+        "change_pct": -1.12,
+        "price": 265500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 3.76,
-        "price": 18775.0,
+        "change_pct": 3.37,
+        "price": 18705.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 83469.49,
-      "change_pct": -0.18
+      "price": 83459.0,
+      "change_pct": -0.2
     },
     {
       "label": "Gold",
-      "price": 4174.2,
-      "change_pct": -0.13
+      "price": 4175.0,
+      "change_pct": -0.11
     },
     {
       "label": "Nasdaq100",

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-02T23:14:09+00:00",
+  "as_of": "2026-10-02T23:29:20+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "STX",
    "company": "Seagate Technology Holdings",
-   "move_pct": -10.5,
-   "price": 846.3,
+   "move_pct": -10.49,
+   "price": 846.41,
    "volume": 13521412,
    "volume_vs_avg": "~4x",
    "heat_score": 66,
@@ -43,8 +43,8 @@
    "rank": 3,
    "ticker": "WDC",
    "company": "Western Digital",
-   "move_pct": -10.21,
-   "price": 415.34,
+   "move_pct": -10.18,
+   "price": 415.49,
    "volume": 24651005,
    "volume_vs_avg": "~4x",
    "heat_score": 65,

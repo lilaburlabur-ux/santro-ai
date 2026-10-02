@@ -4,8 +4,8 @@ Signed file: `NXPI.research.02.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-02, ~15-min delayed) |
-| Market cap | $60.32B |
+| Current price | $243.66 (2026-10-02, ~15-min delayed) |
+| Market cap | $61.44B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `NXPI.research.02.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +10.25%; price -0.04% vs SMA200. |
+| Fresh setup quality | Poor / broken | -26.18% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 22.56%, revenue growth 19.50%. |
-| Value attractiveness | Reasonable | Forward P/E 13.19, EV/Sales 5.19. |
-| Risk level | Elevated | Beta 1.82, ATR nan% of price, short float 3.22%. |
+| Value attractiveness | Reasonable | Forward P/E 13.44, EV/Sales 5.19. |
+| Risk level | Elevated | Beta 1.82, ATR 3.1% of price, short float 3.22%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -35,22 +35,22 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $330.06 (+nan%); 52w low $180.99 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 55.1 (neutral) |
-| Volatility | ATR(14) 7.28 (~nan% of price); beta 1.82 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $243.66; 52w high $330.06 (-26.18%); 52w low $180.99 (+34.62%) |
+| Trend | -0.04% vs SMA200, +5.08% vs SMA50, +5.40% vs SMA20 |
+| Momentum | RSI(14) 60.1 (neutral) |
+| Volatility | ATR(14) 7.45 (~3.1% of price); beta 1.82 |
+| Setup perspective | -26.18% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +2.3% |
+| Month | +7.1% |
+| Quarter | -12.7% |
+| Half Y | +26.2% |
+| 1Y | +10.3% |
+| YTD | +11.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Revenue (ttm) | $13.19B | Revenue growth 19.50% y/y |
 | Profitability | Gross 56.10%, operating 30.41%, net 22.56% | ROA 10.46%, ROE 27.92% |
 | Balance sheet | Cash $3.22B, debt $10.98B | Current ratio 2.04, debt/equity 93.33 |
-| Valuation | P/E 20.43, forward P/E 13.19, P/S 4.57, P/B 5.29 | EV/Sales 5.19, EV/EBITDA 13.50 |
+| Valuation | P/E 20.79, forward P/E 13.44, P/S 4.66, P/B 5.39 | EV/Sales 5.19, EV/EBITDA 13.50 |
 | Growth expectations | Earnings growth 72.60%, EPS q/q 72.40% | Analyst mean target $311.10 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 99.35% |
+| Institutional ownership | 99.36% |
 | Insider ownership | 0.14% |
 | Short float | 3.22% |
 | Short ratio (days to cover) | 2.3 |
@@ -86,7 +86,8 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Boston Partners | 4,162,827 | 1.65% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.82, ATR nan% of price, short float 3.22%. Size positions accordingly.
+- **Volatility risk:** Beta 1.82, ATR 3.1% of price, short float 3.22%. Size positions accordingly.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -101,21 +102,21 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.19 |
-| Market cap | $60.32B | EV/EBITDA | 13.50 |
+| Price | $243.66 | EV/Sales | 5.19 |
+| Market cap | $61.44B | EV/EBITDA | 13.50 |
 | Beta | 1.82 | Gross margin | 56.10% |
-| RSI(14) | 55.1 | Operating margin | 30.41% |
-| ATR(14) | 7.28 | Profit margin | 22.56% |
-| SMA20 dist | +nan% | ROA | 10.46% |
-| SMA50 dist | +nan% | ROE | 27.92% |
-| SMA200 dist | +nan% | Revenue (ttm) | $13.19B |
+| RSI(14) | 60.1 | Operating margin | 30.41% |
+| ATR(14) | 7.45 | Profit margin | 22.56% |
+| SMA20 dist | +5.40% | ROA | 10.46% |
+| SMA50 dist | +5.08% | ROE | 27.92% |
+| SMA200 dist | -0.04% | Revenue (ttm) | $13.19B |
 | 52W high | $330.06 | Revenue growth y/y | 19.50% |
-| 52W low | $180.99 | Inst. ownership | 99.35% |
-| P/E (ttm) | 20.43 | Insider ownership | 0.14% |
-| Forward P/E | 13.19 | Short float | 3.22% |
-| PEG (trailing) | 0.47 | Avg volume | 3,757,811 |
-| P/S | 4.57 | Employees | 32,169 |
-| P/B | 5.29 | Analyst rec (1=buy..5=sell) | 1.8 |
+| 52W low | $180.99 | Inst. ownership | 99.36% |
+| P/E (ttm) | 20.79 | Insider ownership | 0.14% |
+| Forward P/E | 13.44 | Short float | 3.22% |
+| PEG (trailing) | 0.47 | Avg volume | 3,705,768 |
+| P/S | 4.66 | Employees | 32,169 |
+| P/B | 5.39 | Analyst rec (1=buy..5=sell) | 1.8 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

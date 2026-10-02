@@ -18,7 +18,7 @@ Signed file: `TSM.research.02.10.2026`
 | Technical momentum | High | 1Y +65.63%; price +22.67% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -0.74% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 49.92%, revenue growth 36.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 21.56, EV/Sales 3.75. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 21.56, EV/Sales 3.88. |
 | Risk level | Elevated | Beta 1.25, ATR 2.2% of price, short float 0.57%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated.
@@ -59,7 +59,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.44T | Revenue growth 36.00% y/y |
 | Profitability | Gross 64.23%, operating 60.34%, net 49.92% | ROA 19.00%, ROE 39.97% |
 | Balance sheet | Cash $3.52T, debt $1.07T | Current ratio 2.46, debt/equity 16.50 |
-| Valuation | P/E 35.26, forward P/E 21.56, P/S 0.55, P/B 97.22 | EV/Sales 3.75, EV/EBITDA 5.25 |
+| Valuation | P/E 35.26, forward P/E 21.56, P/S 0.55, P/B 97.22 | EV/Sales 3.88, EV/EBITDA 5.43 |
 | Growth expectations | Earnings growth 77.40%, EPS q/q 77.40% | Analyst mean target $552.26 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Bank of America Corporation | 15,282,620 | 0.29% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 21.56, EV/Sales 3.75. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 21.56, EV/Sales 3.88. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.25, ATR 2.2% of price, short float 0.57%. Size positions accordingly.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -103,8 +103,8 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $472.78 | EV/Sales | 3.75 |
-| Market cap | $2.45T | EV/EBITDA | 5.25 |
+| Price | $472.78 | EV/Sales | 3.88 |
+| Market cap | $2.45T | EV/EBITDA | 5.43 |
 | Beta | 1.25 | Gross margin | 64.23% |
 | RSI(14) | 71.7 | Operating margin | 60.34% |
 | ATR(14) | 10.63 | Profit margin | 49.92% |

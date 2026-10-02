@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-02T13:46:20+00:00",
+  "as_of": "2026-10-02T13:51:34+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,13 +11,13 @@
    "rank": 1,
    "ticker": "SYNA",
    "company": "Synaptics Inc",
-   "move_pct": 13.27,
-   "price": 120.24,
-   "volume": 2243310,
-   "volume_vs_avg": "~3x",
-   "heat_score": 73,
+   "move_pct": 13.69,
+   "price": 120.68,
+   "volume": 2482740,
+   "volume_vs_avg": "~4x",
+   "heat_score": 76,
    "direction": "up",
-   "why": "Moving up 13.3% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "why": "Moving up 13.7% on ~4x average volume with no fresh headline this cycle \u2014 attention without a story.",
    "catalyst_type": "no_news_mover",
    "source_url": "",
    "published": "",

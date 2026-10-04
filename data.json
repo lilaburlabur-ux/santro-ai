@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-10-04T09:25:37+00:00",
-  "as_of_local": "2026-10-04 09:25:37 UTC",
+  "as_of_utc": "2026-10-04T09:40:44+00:00",
+  "as_of_local": "2026-10-04 09:40:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "MRVL"
+    "TSM"
   ],
   "stocks": [
     {
@@ -13,15 +13,6 @@
       "previous_close": 230.86,
       "change_pct": 1.34,
       "market_cap": 5649190576309.204,
-      "headlines": []
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 472.78,
-      "previous_close": 459.2,
-      "change_pct": 2.96,
-      "market_cap": 2452061177534.995,
       "headlines": []
     },
     {
@@ -67,6 +58,15 @@
       "previous_close": 292.34,
       "change_pct": 5.18,
       "market_cap": 328398869552.1365,
+      "headlines": []
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 272.29,
+      "previous_close": 268.08,
+      "change_pct": 1.57,
+      "market_cap": 244708286753.1307,
       "headlines": []
     },
     {
@@ -181,8 +181,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -10.21,
-          "price": 848.99,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -271,8 +271,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -10.21,
-        "price": 848.99,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -312,8 +312,8 @@
     },
     {
       "label": "BTC",
-      "price": 85192.24,
-      "change_pct": 0.51
+      "price": 85232.47,
+      "change_pct": 0.55
     },
     {
       "label": "Gold",

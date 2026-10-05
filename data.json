@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-05T10:04:55+00:00",
-  "as_of_local": "2026-10-05 10:04:55 UTC",
+  "as_of_utc": "2026-10-05T10:10:04+00:00",
+  "as_of_local": "2026-10-05 10:10:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVAV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -103,6 +101,15 @@
       "previous_close": 128.86,
       "change_pct": 3.99,
       "market_cap": 18994394006.0,
+      "headlines": []
+    },
+    {
+      "symbol": "AVAV",
+      "name": "AeroVironment",
+      "price": 140.82,
+      "previous_close": 140.31,
+      "change_pct": 0.36,
+      "market_cap": 7156571627.861938,
       "headlines": []
     },
     {
@@ -312,13 +319,13 @@
     },
     {
       "label": "BTC",
-      "price": 86007.36,
-      "change_pct": -0.55
+      "price": 86033.76,
+      "change_pct": -0.52
     },
     {
       "label": "Gold",
-      "price": 4187.2,
-      "change_pct": 0.6
+      "price": 4187.6,
+      "change_pct": 0.61
     },
     {
       "label": "Nasdaq100",

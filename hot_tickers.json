@@ -1,59 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-05T00:45:39+00:00",
+  "as_of": "2026-10-05T08:13:02+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "SYNA",
-   "company": "Synaptics Inc",
-   "move_pct": 14.08,
-   "price": 121.1,
-   "volume": 7666900,
-   "volume_vs_avg": "~11x",
-   "heat_score": 99,
-   "direction": "up",
-   "why": "Moving up 14.1% on ~11x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 2,
-   "ticker": "STX",
-   "company": "Seagate Technology Holdings",
-   "move_pct": -10.21,
-   "price": 848.99,
-   "volume": 13556700,
-   "volume_vs_avg": "~4x",
-   "heat_score": 65,
-   "direction": "down",
-   "why": "Moving down 10.2% on ~4x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": ""
-  },
-  {
-   "rank": 3,
-   "ticker": "WDC",
-   "company": "Western Digital",
-   "move_pct": -10.22,
-   "price": 415.29,
-   "volume": 24717300,
-   "volume_vs_avg": "~4x",
-   "heat_score": 65,
-   "direction": "down",
-   "why": "Moving down 10.2% on ~4x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": ""
-  }
- ]
+ "hot_tickers": []
 }

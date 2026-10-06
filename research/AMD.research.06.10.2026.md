@@ -60,7 +60,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Profitability | Gross 55.72%, operating 17.25%, net 15.58% | ROA 5.13%, ROE 10.20% |
 | Balance sheet | Cash $13.11B, debt $4.28B | Current ratio 2.61, debt/equity 6.36 |
 | Valuation | P/E 165.67, forward P/E 41.31, P/S 25.67, P/B 15.77 | EV/Sales 24.75, EV/EBITDA 106.93 |
-| Growth expectations | Earnings growth 159.50%, EPS q/q 163.40% | Analyst mean target $636.21 (50 analysts) |
+| Growth expectations | Earnings growth 159.50%, EPS q/q 163.40% | Analyst mean target $629.21 (50 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

@@ -5,7 +5,7 @@ Signed file: `LSCC.research.06.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $134.47 (2026-10-06, ~15-min delayed) |
-| Market cap | $19.10B |
+| Market cap | $19.06B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
@@ -59,8 +59,8 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Revenue (ttm) | $651.12M | Revenue growth 62.20% y/y |
 | Profitability | Gross 69.02%, operating 13.33%, net 5.58% | ROA 3.87%, ROE 4.93% |
 | Balance sheet | Cash $173.30M, debt $38.08M | Current ratio 3.02, debt/equity 4.84 |
-| Valuation | P/E 537.88, forward P/E 41.85, P/S 29.33, P/B 23.42 | EV/Sales 28.77, EV/EBITDA 203.32 |
-| Growth expectations | Earnings growth 600.00%, EPS q/q 564.60% | Analyst mean target $164.21 (14 analysts) |
+| Valuation | P/E 537.88, forward P/E 41.85, P/S 29.27, P/B 23.42 | EV/Sales 28.77, EV/EBITDA 203.32 |
+| Growth expectations | Earnings growth 600.00%, EPS q/q 564.60% | Analyst mean target $164.54 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -104,7 +104,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $134.47 | EV/Sales | 28.77 |
-| Market cap | $19.10B | EV/EBITDA | 203.32 |
+| Market cap | $19.06B | EV/EBITDA | 203.32 |
 | Beta | 1.83 | Gross margin | 69.02% |
 | RSI(14) | 65.2 | Operating margin | 13.33% |
 | ATR(14) | 5.25 | Profit margin | 5.58% |
@@ -116,7 +116,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | P/E (ttm) | 537.88 | Insider ownership | 0.60% |
 | Forward P/E | 41.85 | Short float | 8.14% |
 | PEG (trailing) | — | Avg volume | 1,732,690 |
-| P/S | 29.33 | Employees | 1,174 |
+| P/S | 29.27 | Employees | 1,174 |
 | P/B | 23.42 | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions

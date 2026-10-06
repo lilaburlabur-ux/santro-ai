@@ -60,7 +60,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Profitability | Gross 64.23%, operating 60.34%, net 49.92% | ROA 19.00%, ROE 39.97% |
 | Balance sheet | Cash $3.52T, debt $1.07T | Current ratio 2.46, debt/equity 16.50 |
 | Valuation | P/E 35.05, forward P/E 22.00, P/S 0.56, P/B 99.29 | EV/Sales 4.00, EV/EBITDA 5.60 |
-| Growth expectations | Earnings growth 77.40%, EPS q/q 77.40% | Analyst mean target $555.01 (20 analysts) |
+| Growth expectations | Earnings growth 77.40%, EPS q/q 77.40% | Analyst mean target $554.26 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

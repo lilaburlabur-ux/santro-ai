@@ -55,7 +55,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-10-22 | Next scheduled report (Yahoo estimate) |
+| Next earnings | 2026-10-29 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $57.03B | Revenue growth 25.40% y/y |
 | Profitability | Gross 38.87%, operating 12.19%, net -19.79% | ROA 1.41%, ROE -10.71% |
 | Balance sheet | Cash $29.73B, debt $50.54B | Current ratio 1.60, debt/equity 49.00 |

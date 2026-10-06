@@ -4,8 +4,8 @@ Signed file: `INTC.research.06.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $116.19 (2026-10-06, ~15-min delayed) |
-| Market cap | $614.19B |
+| Current price | $112.50 (2026-10-06, ~15-min delayed) |
+| Market cap | $594.69B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, weak fundamentals, value: low (expensive), risk: high. |
@@ -15,11 +15,11 @@ Signed file: `INTC.research.06.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +211.50%; price +42.44% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -17.56% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +205.46%; price +37.27% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -20.18% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-19.79%). |
-| Value attractiveness | Low (expensive) | Forward P/E 56.33, EV/Sales 10.91. |
-| Risk level | High | Beta 2.23, ATR 5.2% of price, short float 3.01%. |
+| Value attractiveness | Low (expensive) | Forward P/E 54.02, EV/Sales 10.91. |
+| Risk level | High | Beta 2.23, ATR 5.3% of price, short float 3.01%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: low (expensive), risk: high.
 
@@ -35,22 +35,22 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $116.19; 52w high $140.94 (-17.56%); 52w low $33.62 (+245.60%) |
-| Trend | +42.44% vs SMA200, +14.64% vs SMA50, +3.14% vs SMA20 |
-| Momentum | RSI(14) 56.5 (neutral) |
-| Volatility | ATR(14) 5.99 (~5.2% of price); beta 2.23 |
-| Setup perspective | -17.56% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $112.50; 52w high $140.94 (-20.18%); 52w low $33.62 (+234.62%) |
+| Trend | +37.27% vs SMA200, +10.54% vs SMA50, -0.49% vs SMA20 |
+| Momentum | RSI(14) 52.0 (neutral) |
+| Volatility | ATR(14) 6.00 (~5.3% of price); beta 2.23 |
+| Setup perspective | -20.18% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.1% |
-| Month | +26.7% |
-| Quarter | +5.3% |
-| Half Y | +128.8% |
-| 1Y | +211.5% |
-| YTD | +195.0% |
+| Week | -3.0% |
+| Month | +17.4% |
+| Quarter | +2.1% |
+| Half Y | +112.6% |
+| 1Y | +205.5% |
+| YTD | +185.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $57.03B | Revenue growth 25.40% y/y |
 | Profitability | Gross 38.87%, operating 12.19%, net -19.79% | ROA 1.41%, ROE -10.71% |
 | Balance sheet | Cash $29.73B, debt $50.54B | Current ratio 1.60, debt/equity 49.00 |
-| Valuation | P/E —, forward P/E 56.33, P/S 10.77, P/B 6.69 | EV/Sales 10.91, EV/EBITDA 36.96 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $117.53 (43 analysts) |
+| Valuation | P/E —, forward P/E 54.02, P/S 10.43, P/B 6.48 | EV/Sales 10.91, EV/EBITDA 36.96 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $118.05 (43 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 62.57% |
+| Institutional ownership | 62.58% |
 | Insider ownership | 13.99% |
 | Short float | 3.01% |
 | Short ratio (days to cover) | 1.7 |
@@ -86,8 +86,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Primecap Management Company | 75,250,958 | 1.49% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 56.33, EV/Sales 10.91. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.23, ATR 5.2% of price, short float 3.01%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 54.02, EV/Sales 10.91. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.23, ATR 5.3% of price, short float 3.01%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -103,25 +103,26 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $116.19 | EV/Sales | 10.91 |
-| Market cap | $614.19B | EV/EBITDA | 36.96 |
+| Price | $112.50 | EV/Sales | 10.91 |
+| Market cap | $594.69B | EV/EBITDA | 36.96 |
 | Beta | 2.23 | Gross margin | 38.87% |
-| RSI(14) | 56.5 | Operating margin | 12.19% |
-| ATR(14) | 5.99 | Profit margin | -19.79% |
-| SMA20 dist | +3.14% | ROA | 1.41% |
-| SMA50 dist | +14.64% | ROE | -10.71% |
-| SMA200 dist | +42.44% | Revenue (ttm) | $57.03B |
+| RSI(14) | 52.0 | Operating margin | 12.19% |
+| ATR(14) | 6.00 | Profit margin | -19.79% |
+| SMA20 dist | -0.49% | ROA | 1.41% |
+| SMA50 dist | +10.54% | ROE | -10.71% |
+| SMA200 dist | +37.27% | Revenue (ttm) | $57.03B |
 | 52W high | $140.94 | Revenue growth y/y | 25.40% |
-| 52W low | $33.62 | Inst. ownership | 62.57% |
+| 52W low | $33.62 | Inst. ownership | 62.58% |
 | P/E (ttm) | — | Insider ownership | 13.99% |
-| Forward P/E | 56.33 | Short float | 3.01% |
-| PEG (trailing) | — | Avg volume | 107,791,048 |
-| P/S | 10.77 | Employees | 85,100 |
-| P/B | 6.69 | Analyst rec (1=buy..5=sell) | 2.5 |
+| Forward P/E | 54.02 | Short float | 3.01% |
+| PEG (trailing) | — | Avg volume | 107,703,873 |
+| P/S | 10.43 | Employees | 85,100 |
+| P/B | 6.48 | Analyst rec (1=buy..5=sell) | 2.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-06 | main | Mizuho | Neutral → Neutral |
 | 2026-09-24 | reit | TD Cowen | Hold → Hold |
 | 2026-09-15 | main | Tigress Financial | Buy → Buy |
 | 2026-09-10 | init | Piper Sandler | — → Neutral |
@@ -129,7 +130,6 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | 2026-09-04 | main | Mizuho | Neutral → Neutral |
 | 2026-08-12 | main | B of A Securities | Buy → Buy |
 | 2026-08-12 | main | UBS | Neutral → Neutral |
-| 2026-07-28 | main | B of A Securities | Buy → Buy |
 
 ## 9. Conclusion
 INTC: High momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

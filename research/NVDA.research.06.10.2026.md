@@ -4,8 +4,8 @@ Signed file: `NVDA.research.06.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $238.90 (2026-10-06, ~15-min delayed) |
-| Market cap | $5.77T |
+| Current price | $239.24 (2026-10-06, ~15-min delayed) |
+| Market cap | $5.78T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `NVDA.research.06.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +26.78%; price +19.04% vs SMA200. |
+| Technical momentum | Moderate | 1Y +27.82%; price +19.01% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 63.66%, revenue growth 105.90%. |
-| Value attractiveness | Reasonable | Forward P/E 15.12, EV/Sales 18.93. |
-| Risk level | High | Beta 2.22, ATR 2.5% of price, short float 1.27%. |
+| Value attractiveness | Reasonable | Forward P/E 15.14, EV/Sales 18.93. |
+| Risk level | High | Beta 2.22, ATR 2.4% of price, short float 1.27%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -35,22 +35,22 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $238.90; 52w high $238.90 (+0.00%); 52w low $164.79 (+44.97%) |
-| Trend | +19.04% vs SMA200, +9.20% vs SMA50, +6.56% vs SMA20 |
-| Momentum | RSI(14) 67.0 (neutral) |
-| Volatility | ATR(14) 5.92 (~2.5% of price); beta 2.22 |
+| Price vs 52-week range | Close $239.24; 52w high $239.24 (+0.00%); 52w low $164.79 (+45.18%) |
+| Trend | +19.01% vs SMA200, +8.93% vs SMA50, +6.39% vs SMA20 |
+| Momentum | RSI(14) 67.3 (neutral) |
+| Volatility | ATR(14) 5.82 (~2.4% of price); beta 2.22 |
 | Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +4.4% |
-| Month | +4.7% |
-| Quarter | +21.4% |
-| Half Y | +34.8% |
-| 1Y | +26.8% |
-| YTD | +26.8% |
+| Week | +5.3% |
+| Month | +4.0% |
+| Quarter | +17.3% |
+| Half Y | +34.6% |
+| 1Y | +27.8% |
+| YTD | +27.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $302.97B | Revenue growth 105.90% y/y |
 | Profitability | Gross 74.67%, operating 66.24%, net 63.66% | ROA 53.57%, ROE 117.21% |
 | Balance sheet | Cash $62.47B, debt $38.86B | Current ratio 4.59, debt/equity 16.97 |
-| Valuation | P/E 30.20, forward P/E 15.12, P/S 19.04, P/B 25.19 | EV/Sales 18.93, EV/EBITDA 28.49 |
+| Valuation | P/E 30.25, forward P/E 15.14, P/S 19.07, P/B 25.23 | EV/Sales 18.93, EV/EBITDA 28.49 |
 | Growth expectations | Earnings growth 127.80%, EPS q/q 125.90% | Analyst mean target $328.72 (59 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 71.40% |
+| Institutional ownership | 71.41% |
 | Insider ownership | 4.01% |
 | Short float | 1.27% |
 | Short ratio (days to cover) | 2.3 |
@@ -86,7 +86,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Invesco Ltd. | 329,593,488 | 1.37% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.22, ATR 2.5% of price, short float 1.27%. Size positions accordingly.
+- **Volatility risk:** Beta 2.22, ATR 2.4% of price, short float 1.27%. Size positions accordingly.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -102,21 +102,21 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $238.90 | EV/Sales | 18.93 |
-| Market cap | $5.77T | EV/EBITDA | 28.49 |
+| Price | $239.24 | EV/Sales | 18.93 |
+| Market cap | $5.78T | EV/EBITDA | 28.49 |
 | Beta | 2.22 | Gross margin | 74.67% |
-| RSI(14) | 67.0 | Operating margin | 66.24% |
-| ATR(14) | 5.92 | Profit margin | 63.66% |
-| SMA20 dist | +6.56% | ROA | 53.57% |
-| SMA50 dist | +9.20% | ROE | 117.21% |
-| SMA200 dist | +19.04% | Revenue (ttm) | $302.97B |
-| 52W high | $238.90 | Revenue growth y/y | 105.90% |
-| 52W low | $164.79 | Inst. ownership | 71.40% |
-| P/E (ttm) | 30.20 | Insider ownership | 4.01% |
-| Forward P/E | 15.12 | Short float | 1.27% |
-| PEG (trailing) | 0.48 | Avg volume | 122,619,076 |
-| P/S | 19.04 | Employees | 42,000 |
-| P/B | 25.19 | Analyst rec (1=buy..5=sell) | 1.3 |
+| RSI(14) | 67.3 | Operating margin | 66.24% |
+| ATR(14) | 5.82 | Profit margin | 63.66% |
+| SMA20 dist | +6.39% | ROA | 53.57% |
+| SMA50 dist | +8.93% | ROE | 117.21% |
+| SMA200 dist | +19.01% | Revenue (ttm) | $302.97B |
+| 52W high | $239.24 | Revenue growth y/y | 105.90% |
+| 52W low | $164.79 | Inst. ownership | 71.41% |
+| P/E (ttm) | 30.25 | Insider ownership | 4.01% |
+| Forward P/E | 15.14 | Short float | 1.27% |
+| PEG (trailing) | 0.48 | Avg volume | 122,898,671 |
+| P/S | 19.07 | Employees | 42,000 |
+| P/B | 25.23 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

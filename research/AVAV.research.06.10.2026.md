@@ -4,24 +4,24 @@ Signed file: `AVAV.research.06.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-06, ~15-min delayed) |
+| Current price | $139.30 (2026-10-06, ~15-min delayed) |
 | Market cap | $7.08B |
 | Sector / Industry | Industrials / Aerospace & Defense |
 | Main theme | Aerospace & Defense — see catalysts below |
-| Current stance | Moderate technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
+| Current stance | Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-06.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-30.62%) with negative half-year (-26.40%). |
+| Fresh setup quality | Poor / broken | -66.01% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-10.13%). |
 | Value attractiveness | Fair-to-demanding | Forward P/E 31.25, EV/Sales 3.66. |
-| Risk level | High | Beta 1.36, ATR nan% of price, short float 11.76%. |
+| Risk level | High | Beta 1.36, ATR 5.5% of price, short float 11.76%. |
 
-**Bottom line:** Moderate technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $409.83 (+nan%); 52w low $136.68 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 37.9 (neutral) |
-| Volatility | ATR(14) 7.91 (~nan% of price); beta 1.36 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $139.30; 52w high $409.83 (-66.01%); 52w low $136.68 (+1.92%) |
+| Trend | -30.62% vs SMA200, -11.78% vs SMA50, -7.45% vs SMA20 |
+| Momentum | RSI(14) 36.6 (neutral) |
+| Volatility | ATR(14) 7.68 (~5.5% of price); beta 1.36 |
+| Setup perspective | -66.01% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -5.4% |
+| Month | -5.4% |
+| Quarter | -14.3% |
+| Half Y | -26.4% |
+| 1Y | -61.3% |
+| YTD | -45.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -87,9 +87,10 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 31.25, EV/Sales 3.66. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.36, ATR nan% of price, short float 11.76%. Size positions accordingly.
+- **Volatility risk:** Beta 1.36, ATR 5.5% of price, short float 11.76%. Size positions accordingly.
 - **Short interest risk:** short float 11.76% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** defense/aerospace names live and die on government budgets, appropriations timing, and program/contract awards — revenue is policy-driven and lumpy.
 
 ### Setup checklist for your journal
@@ -104,14 +105,14 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 3.66 |
+| Price | $139.30 | EV/Sales | 3.66 |
 | Market cap | $7.08B | EV/EBITDA | 33.47 |
 | Beta | 1.36 | Gross margin | 26.47% |
-| RSI(14) | 37.9 | Operating margin | -2.27% |
-| ATR(14) | 7.91 | Profit margin | -10.13% |
-| SMA20 dist | +nan% | ROA | -0.13% |
-| SMA50 dist | +nan% | ROE | -4.60% |
-| SMA200 dist | +nan% | Revenue (ttm) | $2.00B |
+| RSI(14) | 36.6 | Operating margin | -2.27% |
+| ATR(14) | 7.68 | Profit margin | -10.13% |
+| SMA20 dist | -7.45% | ROA | -0.13% |
+| SMA50 dist | -11.78% | ROE | -4.60% |
+| SMA200 dist | -30.62% | Revenue (ttm) | $2.00B |
 | 52W high | $409.83 | Revenue growth y/y | 5.70% |
 | 52W low | $136.68 | Inst. ownership | 88.03% |
 | P/E (ttm) | — | Insider ownership | 0.91% |
@@ -133,7 +134,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | 2026-07-16 | up | Raymond James | Market Perform → Outperform |
 
 ## 9. Conclusion
-AVAV: Moderate momentum / weak fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+AVAV: Low momentum / weak fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

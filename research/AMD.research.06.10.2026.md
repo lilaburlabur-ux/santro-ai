@@ -4,24 +4,24 @@ Signed file: `AMD.research.06.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-06, ~15-min delayed) |
+| Current price | $631.75 (2026-10-06, ~15-min delayed) |
 | Market cap | $1.03T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: low (expensive), risk: high. |
+| Current stance | High technical momentum, strong fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-06.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +272.21%; price +67.65% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -0.34% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 15.58%, revenue growth 50.10%. |
 | Value attractiveness | Low (expensive) | Forward P/E 40.18, EV/Sales 24.75. |
-| Risk level | High | Beta 2.45, ATR nan% of price, short float 2.46%. |
+| Risk level | High | Beta 2.45, ATR 3.7% of price, short float 2.46%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: low (expensive), risk: high.
+**Bottom line:** High technical momentum, strong fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $633.91 (+nan%); 52w low $164.67 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 70.1 (overbought) |
-| Volatility | ATR(14) 24.21 (~nan% of price); beta 2.45 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $631.75; 52w high $633.91 (-0.34%); 52w low $164.67 (+283.65%) |
+| Trend | +67.65% vs SMA200, +22.50% vs SMA50, +10.02% vs SMA20 |
+| Momentum | RSI(14) 69.2 (neutral) |
+| Volatility | ATR(14) 23.47 (~3.7% of price); beta 2.45 |
+| Setup perspective | -0.34% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +3.9% |
+| Month | +38.5% |
+| Quarter | +22.4% |
+| Half Y | +186.9% |
+| 1Y | +272.2% |
+| YTD | +182.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -60,7 +60,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Profitability | Gross 55.72%, operating 17.25%, net 15.58% | ROA 5.13%, ROE 10.20% |
 | Balance sheet | Cash $13.11B, debt $4.28B | Current ratio 2.61, debt/equity 6.36 |
 | Valuation | P/E 161.16, forward P/E 40.18, P/S 24.97, P/B 15.34 | EV/Sales 24.75, EV/EBITDA 106.93 |
-| Growth expectations | Earnings growth 159.50%, EPS q/q 163.40% | Analyst mean target $622.01 (50 analysts) |
+| Growth expectations | Earnings growth 159.50%, EPS q/q 163.40% | Analyst mean target $629.21 (50 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -87,7 +87,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 40.18, EV/Sales 24.75. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.45, ATR nan% of price, short float 2.46%. Size positions accordingly.
+- **Volatility risk:** Beta 2.45, ATR 3.7% of price, short float 2.46%. Size positions accordingly.
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -102,19 +103,19 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 24.75 |
+| Price | $631.75 | EV/Sales | 24.75 |
 | Market cap | $1.03T | EV/EBITDA | 106.93 |
 | Beta | 2.45 | Gross margin | 55.72% |
-| RSI(14) | 70.1 | Operating margin | 17.25% |
-| ATR(14) | 24.21 | Profit margin | 15.58% |
-| SMA20 dist | +nan% | ROA | 5.13% |
-| SMA50 dist | +nan% | ROE | 10.20% |
-| SMA200 dist | +nan% | Revenue (ttm) | $41.31B |
+| RSI(14) | 69.2 | Operating margin | 17.25% |
+| ATR(14) | 23.47 | Profit margin | 15.58% |
+| SMA20 dist | +10.02% | ROA | 5.13% |
+| SMA50 dist | +22.50% | ROE | 10.20% |
+| SMA200 dist | +67.65% | Revenue (ttm) | $41.31B |
 | 52W high | $633.91 | Revenue growth y/y | 50.10% |
 | 52W low | $164.67 | Inst. ownership | 75.36% |
 | P/E (ttm) | 161.16 | Insider ownership | 0.42% |
 | Forward P/E | 40.18 | Short float | 2.46% |
-| PEG (trailing) | 0.63 | Avg volume | 23,691,812 |
+| PEG (trailing) | 0.63 | Avg volume | 23,580,822 |
 | P/S | 24.97 | Employees | 31,000 |
 | P/B | 15.34 | Analyst rec (1=buy..5=sell) | 1.5 |
 
@@ -131,7 +132,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | 2026-08-06 | main | Argus Research | Buy → Buy |
 
 ## 9. Conclusion
-AMD: Moderate momentum / strong fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+AMD: High momentum / strong fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

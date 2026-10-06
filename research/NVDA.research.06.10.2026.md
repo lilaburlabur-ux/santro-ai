@@ -4,7 +4,7 @@ Signed file: `NVDA.research.06.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-06, ~15-min delayed) |
+| Current price | $238.90 (2026-10-06, ~15-min delayed) |
 | Market cap | $5.77T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `NVDA.research.06.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +26.78%; price +19.04% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 63.66%, revenue growth 105.90%. |
 | Value attractiveness | Reasonable | Forward P/E 15.12, EV/Sales 18.93. |
-| Risk level | High | Beta 2.22, ATR nan% of price, short float 1.27%. |
+| Risk level | High | Beta 2.22, ATR 2.5% of price, short float 1.27%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -35,22 +35,22 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $235.20 (+nan%); 52w low $164.79 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 63.0 (neutral) |
-| Volatility | ATR(14) 5.90 (~nan% of price); beta 2.22 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $238.90; 52w high $238.90 (+0.00%); 52w low $164.79 (+44.97%) |
+| Trend | +19.04% vs SMA200, +9.20% vs SMA50, +6.56% vs SMA20 |
+| Momentum | RSI(14) 67.0 (neutral) |
+| Volatility | ATR(14) 5.92 (~2.5% of price); beta 2.22 |
+| Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +4.4% |
+| Month | +4.7% |
+| Quarter | +21.4% |
+| Half Y | +34.8% |
+| 1Y | +26.8% |
+| YTD | +26.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -86,7 +86,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Invesco Ltd. | 329,593,488 | 1.37% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.22, ATR nan% of price, short float 1.27%. Size positions accordingly.
+- **Volatility risk:** Beta 2.22, ATR 2.5% of price, short float 1.27%. Size positions accordingly.
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -101,15 +102,15 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 18.93 |
+| Price | $238.90 | EV/Sales | 18.93 |
 | Market cap | $5.77T | EV/EBITDA | 28.49 |
 | Beta | 2.22 | Gross margin | 74.67% |
-| RSI(14) | 63.0 | Operating margin | 66.24% |
-| ATR(14) | 5.90 | Profit margin | 63.66% |
-| SMA20 dist | +nan% | ROA | 53.57% |
-| SMA50 dist | +nan% | ROE | 117.21% |
-| SMA200 dist | +nan% | Revenue (ttm) | $302.97B |
-| 52W high | $235.20 | Revenue growth y/y | 105.90% |
+| RSI(14) | 67.0 | Operating margin | 66.24% |
+| ATR(14) | 5.92 | Profit margin | 63.66% |
+| SMA20 dist | +6.56% | ROA | 53.57% |
+| SMA50 dist | +9.20% | ROE | 117.21% |
+| SMA200 dist | +19.04% | Revenue (ttm) | $302.97B |
+| 52W high | $238.90 | Revenue growth y/y | 105.90% |
 | 52W low | $164.79 | Inst. ownership | 71.40% |
 | P/E (ttm) | 30.20 | Insider ownership | 4.01% |
 | Forward P/E | 15.12 | Short float | 1.27% |

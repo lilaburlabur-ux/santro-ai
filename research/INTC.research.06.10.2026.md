@@ -18,7 +18,7 @@ Signed file: `INTC.research.06.10.2026`
 | Technical momentum | High | 1Y +205.46%; price +37.27% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -20.18% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-19.79%). |
-| Value attractiveness | Low (expensive) | Forward P/E 54.02, EV/Sales 10.91. |
+| Value attractiveness | Low (expensive) | Forward P/E 54.54, EV/Sales 10.91. |
 | Risk level | High | Beta 2.23, ATR 5.3% of price, short float 3.01%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: low (expensive), risk: high.
@@ -59,8 +59,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $57.03B | Revenue growth 25.40% y/y |
 | Profitability | Gross 38.87%, operating 12.19%, net -19.79% | ROA 1.41%, ROE -10.71% |
 | Balance sheet | Cash $29.73B, debt $50.54B | Current ratio 1.60, debt/equity 49.00 |
-| Valuation | P/E —, forward P/E 54.02, P/S 10.43, P/B 6.48 | EV/Sales 10.91, EV/EBITDA 36.96 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $118.05 (43 analysts) |
+| Valuation | P/E —, forward P/E 54.54, P/S 10.43, P/B 6.48 | EV/Sales 10.91, EV/EBITDA 36.96 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $117.53 (43 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -86,7 +86,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Primecap Management Company | 75,250,958 | 1.49% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 54.02, EV/Sales 10.91. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 54.54, EV/Sales 10.91. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.23, ATR 5.3% of price, short float 3.01%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -114,7 +114,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | 52W high | $140.94 | Revenue growth y/y | 25.40% |
 | 52W low | $33.62 | Inst. ownership | 62.58% |
 | P/E (ttm) | — | Insider ownership | 13.99% |
-| Forward P/E | 54.02 | Short float | 3.01% |
+| Forward P/E | 54.54 | Short float | 3.01% |
 | PEG (trailing) | — | Avg volume | 107,703,873 |
 | P/S | 10.43 | Employees | 85,100 |
 | P/B | 6.48 | Analyst rec (1=buy..5=sell) | 2.5 |

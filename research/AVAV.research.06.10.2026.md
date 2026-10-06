@@ -18,7 +18,7 @@ Signed file: `AVAV.research.06.10.2026`
 | Technical momentum | Low | Below SMA200 (-28.35%) with negative half-year (-23.18%). |
 | Fresh setup quality | Poor / broken | -64.98% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-10.13%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 32.20, EV/Sales 3.66. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 32.18, EV/Sales 3.66. |
 | Risk level | High | Beta 1.36, ATR 5.3% of price, short float 11.76%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
@@ -59,8 +59,8 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Revenue (ttm) | $2.00B | Revenue growth 5.70% y/y |
 | Profitability | Gross 26.47%, operating -2.27%, net -10.13% | ROA -0.13%, ROE -4.60% |
 | Balance sheet | Cash $580.23M, debt $850.82M | Current ratio 4.26, debt/equity 19.35 |
-| Valuation | P/E —, forward P/E 32.20, P/S 3.64, P/B 1.65 | EV/Sales 3.66, EV/EBITDA 33.47 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $219.35 (19 analysts) |
+| Valuation | P/E —, forward P/E 32.18, P/S 3.64, P/B 1.65 | EV/Sales 3.66, EV/EBITDA 33.47 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $216.63 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -86,7 +86,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Van Eck Associates Corporation | 612,915 | 1.21% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 32.20, EV/Sales 3.66. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 32.18, EV/Sales 3.66. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.36, ATR 5.3% of price, short float 11.76%. Size positions accordingly.
 - **Short interest risk:** short float 11.76% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
@@ -116,7 +116,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | 52W high | $409.83 | Revenue growth y/y | 5.70% |
 | 52W low | $136.68 | Inst. ownership | 88.02% |
 | P/E (ttm) | — | Insider ownership | 0.91% |
-| Forward P/E | 32.20 | Short float | 11.76% |
+| Forward P/E | 32.18 | Short float | 11.76% |
 | PEG (trailing) | — | Avg volume | 1,645,204 |
 | P/S | 3.64 | Employees | 3,991 |
 | P/B | 1.65 | Analyst rec (1=buy..5=sell) | 1.6 |

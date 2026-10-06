@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-06T04:17:38+00:00",
+  "as_of": "2026-10-06T08:02:07+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "RXRX",
-   "company": "Recursion Pharmaceuticals Inc",
-   "move_pct": 16.02,
-   "price": 4.78,
-   "volume": 67054100,
-   "volume_vs_avg": "~3x",
-   "heat_score": 80,
-   "direction": "up",
-   "why": "Moving up 16.0% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  }
- ]
+ "hot_tickers": []
 }

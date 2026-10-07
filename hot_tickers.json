@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-06T23:44:34+00:00",
+  "as_of": "2026-10-07T00:00:19+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,51 +9,19 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "CEG",
-   "company": "Constellation Energy Corp",
-   "move_pct": 10.87,
-   "price": 296.71,
-   "volume": 13476624,
-   "volume_vs_avg": "~5x",
-   "heat_score": 71,
-   "direction": "up",
-   "why": "Moving up 10.9% on ~5x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": "Powering AI"
-  },
-  {
-   "rank": 2,
-   "ticker": "TLN",
-   "company": "Talen Energy Corp",
-   "move_pct": 12.39,
-   "price": 373.0,
-   "volume": 2816449,
+   "ticker": "RXRX",
+   "company": "Recursion Pharmaceuticals Inc",
+   "move_pct": 16.02,
+   "price": 4.78,
+   "volume": 71049662,
    "volume_vs_avg": "~3x",
-   "heat_score": 70,
+   "heat_score": 80,
    "direction": "up",
-   "why": "Moving up 12.4% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "why": "Moving up 16.0% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
    "catalyst_type": "no_news_mover",
    "source_url": "",
    "published": "",
-   "sector": "Data Center, Power & Energy"
-  },
-  {
-   "rank": 3,
-   "ticker": "VST",
-   "company": "Vistra Corp",
-   "move_pct": 10.9,
-   "price": 160.68,
-   "volume": 18086592,
-   "volume_vs_avg": "~4x",
-   "heat_score": 66,
-   "direction": "up",
-   "why": "Moving up 10.9% on ~4x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": "Powering AI"
+   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

@@ -65,7 +65,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 15.48% |
+| Institutional ownership | 15.50% |
 | Insider ownership | 0.01% |
 | Short float | 0.57% |
 | Short ratio (days to cover) | 2.9 |
@@ -112,7 +112,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | SMA50 dist | +10.06% | ROE | 39.97% |
 | SMA200 dist | +21.57% | Revenue (ttm) | $4.44T |
 | 52W high | $485.80 | Revenue growth y/y | 36.00% |
-| 52W low | $272.18 | Inst. ownership | 15.48% |
+| 52W low | $272.18 | Inst. ownership | 15.50% |
 | P/E (ttm) | 34.32 | Insider ownership | 0.01% |
 | Forward P/E | 21.54 | Short float | 0.57% |
 | PEG (trailing) | 0.86 | Avg volume | 11,376,717 |

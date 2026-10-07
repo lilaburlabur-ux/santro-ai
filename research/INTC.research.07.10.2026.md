@@ -65,7 +65,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 62.58% |
+| Institutional ownership | 62.59% |
 | Insider ownership | 13.99% |
 | Short float | 3.01% |
 | Short ratio (days to cover) | 1.7 |
@@ -112,7 +112,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | SMA50 dist | +10.57% | ROE | -10.71% |
 | SMA200 dist | +37.38% | Revenue (ttm) | $57.03B |
 | 52W high | $140.94 | Revenue growth y/y | 25.40% |
-| 52W low | $33.62 | Inst. ownership | 62.58% |
+| 52W low | $33.62 | Inst. ownership | 62.59% |
 | P/E (ttm) | — | Insider ownership | 13.99% |
 | Forward P/E | 54.31 | Short float | 3.01% |
 | PEG (trailing) | — | Avg volume | 107,100,340 |

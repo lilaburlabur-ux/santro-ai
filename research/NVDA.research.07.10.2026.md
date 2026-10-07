@@ -38,7 +38,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Price vs 52-week range | Close $237.47; 52w high $239.24 (-0.74%); 52w low $164.79 (+44.10%) |
 | Trend | +17.94% vs SMA200, +7.73% vs SMA50, +5.27% vs SMA20 |
 | Momentum | RSI(14) 64.4 (neutral) |
-| Volatility | ATR(14) 5.61 (~2.4% of price); beta 2.22 |
+| Volatility | ATR(14) 5.60 (~2.4% of price); beta 2.22 |
 | Setup perspective | -0.74% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -106,7 +106,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Market cap | $5.73T | EV/EBITDA | 28.53 |
 | Beta | 2.22 | Gross margin | 74.67% |
 | RSI(14) | 64.4 | Operating margin | 66.24% |
-| ATR(14) | 5.61 | Profit margin | 63.66% |
+| ATR(14) | 5.60 | Profit margin | 63.66% |
 | SMA20 dist | +5.27% | ROA | 53.57% |
 | SMA50 dist | +7.73% | ROE | 117.21% |
 | SMA200 dist | +17.94% | Revenue (ttm) | $302.97B |

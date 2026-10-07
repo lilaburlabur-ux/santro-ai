@@ -4,8 +4,8 @@ Signed file: `MU.research.07.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $1,045.56 (2026-10-07, ~15-min delayed) |
-| Market cap | $1.18T |
+| Current price | $1,088.00 (2026-10-07, ~15-min delayed) |
+| Market cap | $1.23T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `MU.research.07.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +457.20%; price +51.58% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -13.83% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +470.31%; price +56.78% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -10.33% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 63.80%, revenue growth 379.30%. |
-| Value attractiveness | Reasonable | Forward P/E 5.07, EV/Sales 8.58. |
+| Value attractiveness | Reasonable | Forward P/E 5.27, EV/Sales 8.58. |
 | Risk level | High | Beta 2.23, ATR 4.2% of price, short float 2.45%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -35,22 +35,22 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $1,045.56; 52w high $1,213.37 (-13.83%); 52w low $181.42 (+476.31%) |
-| Trend | +51.58% vs SMA200, +8.71% vs SMA50, +1.55% vs SMA20 |
-| Momentum | RSI(14) 53.9 (neutral) |
-| Volatility | ATR(14) 43.44 (~4.2% of price); beta 2.23 |
-| Setup perspective | -13.83% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $1,088.00; 52w high $1,213.37 (-10.33%); 52w low $181.42 (+499.71%) |
+| Trend | +56.78% vs SMA200, +12.49% vs SMA50, +5.36% vs SMA20 |
+| Momentum | RSI(14) 59.7 (neutral) |
+| Volatility | ATR(14) 45.89 (~4.2% of price); beta 2.23 |
+| Setup perspective | -10.33% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.8% |
-| Month | +2.8% |
-| Quarter | +10.2% |
-| Half Y | +177.0% |
-| 1Y | +457.2% |
-| YTD | +231.7% |
+| Week | +2.1% |
+| Month | +8.8% |
+| Quarter | +9.7% |
+| Half Y | +167.5% |
+| 1Y | +470.3% |
+| YTD | +245.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $133.19B | Revenue growth 379.30% y/y |
 | Profitability | Gross 80.72%, operating 80.68%, net 63.80% | ROA 44.56%, ROE 88.26% |
 | Balance sheet | Cash $43.43B, debt $5.18B | Current ratio 3.31, debt/equity 3.74 |
-| Valuation | P/E 14.31, forward P/E 5.07, P/S 8.87, P/B 11.72 | EV/Sales 8.58, EV/EBITDA 10.50 |
-| Growth expectations | Earnings growth 1060.50%, EPS q/q 1077.80% | Analyst mean target $1,535.57 (46 analysts) |
+| Valuation | P/E 14.64, forward P/E 5.27, P/S 9.23, P/B 12.20 | EV/Sales 8.58, EV/EBITDA 10.50 |
+| Growth expectations | Earnings growth 1060.10%, EPS q/q 1077.80% | Analyst mean target $1,535.57 (46 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 79.88% |
+| Institutional ownership | 79.90% |
 | Insider ownership | 0.24% |
 | Short float | 2.45% |
 | Short ratio (days to cover) | 1.1 |
@@ -101,25 +101,26 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $1,045.56 | EV/Sales | 8.58 |
-| Market cap | $1.18T | EV/EBITDA | 10.50 |
+| Price | $1,088.00 | EV/Sales | 8.58 |
+| Market cap | $1.23T | EV/EBITDA | 10.50 |
 | Beta | 2.23 | Gross margin | 80.72% |
-| RSI(14) | 53.9 | Operating margin | 80.68% |
-| ATR(14) | 43.44 | Profit margin | 63.80% |
-| SMA20 dist | +1.55% | ROA | 44.56% |
-| SMA50 dist | +8.71% | ROE | 88.26% |
-| SMA200 dist | +51.58% | Revenue (ttm) | $133.19B |
+| RSI(14) | 59.7 | Operating margin | 80.68% |
+| ATR(14) | 45.89 | Profit margin | 63.80% |
+| SMA20 dist | +5.36% | ROA | 44.56% |
+| SMA50 dist | +12.49% | ROE | 88.26% |
+| SMA200 dist | +56.78% | Revenue (ttm) | $133.19B |
 | 52W high | $1,213.37 | Revenue growth y/y | 379.30% |
-| 52W low | $181.42 | Inst. ownership | 79.88% |
-| P/E (ttm) | 14.31 | Insider ownership | 0.24% |
-| Forward P/E | 5.07 | Short float | 2.45% |
-| PEG (trailing) | 0.16 | Avg volume | 33,513,393 |
-| P/S | 8.87 | Employees | 0 |
-| P/B | 11.72 | Analyst rec (1=buy..5=sell) | 1.4 |
+| 52W low | $181.42 | Inst. ownership | 79.90% |
+| P/E (ttm) | 14.64 | Insider ownership | 0.24% |
+| Forward P/E | 5.27 | Short float | 2.45% |
+| PEG (trailing) | 0.16 | Avg volume | 33,034,782 |
+| P/S | 9.23 | Employees | 0 |
+| P/B | 12.20 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-07 | main | DA Davidson | Buy → Buy |
 | 2026-10-01 | main | Mizuho | Outperform → Outperform |
 | 2026-10-01 | reit | Morgan Stanley | Overweight → Overweight |
 | 2026-10-01 | reit | TD Cowen | Buy → Buy |
@@ -127,7 +128,6 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | 2026-10-01 | main | DA Davidson | Buy → Buy |
 | 2026-10-01 | main | Rosenblatt | Buy → Buy |
 | 2026-10-01 | reit | Cantor Fitzgerald | Overweight → Overweight |
-| 2026-10-01 | reit | Needham | Buy → Buy |
 
 ## 9. Conclusion
 MU: High momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

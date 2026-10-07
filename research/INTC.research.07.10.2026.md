@@ -59,7 +59,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $57.03B | Revenue growth 25.40% y/y |
 | Profitability | Gross 38.87%, operating 12.19%, net -19.79% | ROA 1.41%, ROE -10.71% |
 | Balance sheet | Cash $29.73B, debt $50.54B | Current ratio 1.60, debt/equity 49.00 |
-| Valuation | P/E —, forward P/E 54.31, P/S 10.48, P/B 6.52 | EV/Sales 10.59, EV/EBITDA 35.85 |
+| Valuation | P/E —, forward P/E 54.31, P/S 10.48, P/B 6.52 | EV/Sales 10.59, EV/EBITDA 35.86 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $118.05 (43 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -104,7 +104,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $113.12 | EV/Sales | 10.59 |
-| Market cap | $597.96B | EV/EBITDA | 35.85 |
+| Market cap | $597.96B | EV/EBITDA | 35.86 |
 | Beta | 2.23 | Gross margin | 38.87% |
 | RSI(14) | 52.7 | Operating margin | 12.19% |
 | ATR(14) | 5.87 | Profit margin | -19.79% |

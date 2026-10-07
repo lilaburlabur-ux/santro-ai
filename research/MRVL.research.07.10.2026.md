@@ -121,6 +121,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-07 | main | UBS | Buy → Buy |
 | 2026-10-07 | main | Jefferies | Buy → Buy |
 | 2026-10-07 | main | JP Morgan | Overweight → Overweight |
 | 2026-10-07 | main | Wells Fargo | Overweight → Overweight |
@@ -128,7 +129,6 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | 2026-10-07 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
 | 2026-10-07 | main | RBC Capital | Outperform → Outperform |
 | 2026-10-07 | main | Piper Sandler | Overweight → Overweight |
-| 2026-10-07 | up | TD Cowen | Hold → Buy |
 
 ## 9. Conclusion
 MRVL: High momentum / strong fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

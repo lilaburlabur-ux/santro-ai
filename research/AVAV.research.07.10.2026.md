@@ -38,7 +38,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Price vs 52-week range | Close $138.86; 52w high $409.83 (-66.12%); 52w low $136.68 (+1.59%) |
 | Trend | -30.53% vs SMA200, -11.74% vs SMA50, -7.52% vs SMA20 |
 | Momentum | RSI(14) 38.2 (neutral) |
-| Volatility | ATR(14) 7.77 (~5.6% of price); beta 1.36 |
+| Volatility | ATR(14) 7.78 (~5.6% of price); beta 1.36 |
 | Setup perspective | -66.12% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -65,7 +65,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 88.23% |
+| Institutional ownership | 88.02% |
 | Insider ownership | 0.91% |
 | Short float | 11.76% |
 | Short ratio (days to cover) | 2.1 |
@@ -109,17 +109,17 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Market cap | $7.06B | EV/EBITDA | 34.45 |
 | Beta | 1.36 | Gross margin | 26.47% |
 | RSI(14) | 38.2 | Operating margin | -2.27% |
-| ATR(14) | 7.77 | Profit margin | -10.13% |
+| ATR(14) | 7.78 | Profit margin | -10.13% |
 | SMA20 dist | -7.52% | ROA | -0.13% |
 | SMA50 dist | -11.74% | ROE | -4.60% |
 | SMA200 dist | -30.53% | Revenue (ttm) | $2.00B |
 | 52W high | $409.83 | Revenue growth y/y | 5.70% |
-| 52W low | $136.68 | Inst. ownership | 88.23% |
+| 52W low | $136.68 | Inst. ownership | 88.02% |
 | P/E (ttm) | — | Insider ownership | 0.91% |
 | Forward P/E | 31.13 | Short float | 11.76% |
 | PEG (trailing) | — | Avg volume | 1,634,634 |
 | P/S | 3.52 | Employees | 3,991 |
-| P/B | 1.60 | Analyst rec (1=buy..5=sell) | 1.7 |
+| P/B | 1.60 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -65,7 +65,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 75.35% |
+| Institutional ownership | 75.34% |
 | Insider ownership | 0.42% |
 | Short float | 2.46% |
 | Short ratio (days to cover) | 2.2 |
@@ -112,7 +112,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | SMA50 dist | +23.58% | ROE | 10.20% |
 | SMA200 dist | +69.38% | Revenue (ttm) | $41.31B |
 | 52W high | $649.42 | Revenue growth y/y | 50.10% |
-| 52W low | $190.95 | Inst. ownership | 75.35% |
+| 52W low | $190.95 | Inst. ownership | 75.34% |
 | P/E (ttm) | 164.76 | Insider ownership | 0.42% |
 | Forward P/E | 41.08 | Short float | 2.46% |
 | PEG (trailing) | 0.63 | Avg volume | 23,349,732 |

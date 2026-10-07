@@ -35,7 +35,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $1,088.00; 52w high $1,213.37 (-10.33%); 52w low $181.42 (+499.71%) |
+| Price vs 52-week range | Close $1,088.00; 52w high $1,213.37 (-10.33%); 52w low $181.42 (+499.70%) |
 | Trend | +56.78% vs SMA200, +12.49% vs SMA50, +5.36% vs SMA20 |
 | Momentum | RSI(14) 59.7 (neutral) |
 | Volatility | ATR(14) 45.89 (~4.2% of price); beta 2.23 |
@@ -60,12 +60,12 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Profitability | Gross 80.72%, operating 80.68%, net 63.80% | ROA 44.56%, ROE 88.26% |
 | Balance sheet | Cash $43.43B, debt $5.18B | Current ratio 3.31, debt/equity 3.74 |
 | Valuation | P/E 14.64, forward P/E 5.27, P/S 9.23, P/B 12.20 | EV/Sales 8.58, EV/EBITDA 10.50 |
-| Growth expectations | Earnings growth 1060.10%, EPS q/q 1077.80% | Analyst mean target $1,535.57 (46 analysts) |
+| Growth expectations | Earnings growth 1060.50%, EPS q/q 1077.80% | Analyst mean target $1,535.57 (46 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 79.90% |
+| Institutional ownership | 79.88% |
 | Insider ownership | 0.24% |
 | Short float | 2.45% |
 | Short ratio (days to cover) | 1.1 |
@@ -110,7 +110,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | SMA50 dist | +12.49% | ROE | 88.26% |
 | SMA200 dist | +56.78% | Revenue (ttm) | $133.19B |
 | 52W high | $1,213.37 | Revenue growth y/y | 379.30% |
-| 52W low | $181.42 | Inst. ownership | 79.90% |
+| 52W low | $181.42 | Inst. ownership | 79.88% |
 | P/E (ttm) | 14.64 | Insider ownership | 0.24% |
 | Forward P/E | 5.27 | Short float | 2.45% |
 | PEG (trailing) | 0.16 | Avg volume | 33,034,782 |

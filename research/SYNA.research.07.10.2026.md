@@ -65,7 +65,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 106.33% |
+| Institutional ownership | 106.35% |
 | Insider ownership | 0.83% |
 | Short float | 10.84% |
 | Short ratio (days to cover) | 3.6 |
@@ -112,7 +112,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | SMA50 dist | +17.59% | ROE | -42.23% |
 | SMA200 dist | +20.07% | Revenue (ttm) | $1.20B |
 | 52W high | $147.57 | Revenue growth y/y | 8.90% |
-| 52W low | $58.52 | Inst. ownership | 106.33% |
+| 52W low | $58.52 | Inst. ownership | 106.35% |
 | P/E (ttm) | — | Insider ownership | 0.83% |
 | Forward P/E | 18.16 | Short float | 10.84% |
 | PEG (trailing) | — | Avg volume | 834,431 |

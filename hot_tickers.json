@@ -1,59 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-07T03:44:15+00:00",
+  "as_of": "2026-10-07T08:13:22+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "CEG",
-   "company": "Constellation Energy Corp",
-   "move_pct": 12.25,
-   "price": 300.4,
-   "volume": 13463900,
-   "volume_vs_avg": "~5x",
-   "heat_score": 76,
-   "direction": "up",
-   "why": "Moving up 12.2% on ~5x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": "Powering AI"
-  },
-  {
-   "rank": 2,
-   "ticker": "TLN",
-   "company": "Talen Energy Corp",
-   "move_pct": 12.43,
-   "price": 373.11,
-   "volume": 2816200,
-   "volume_vs_avg": "~3x",
-   "heat_score": 70,
-   "direction": "up",
-   "why": "Moving up 12.4% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": "Data Center, Power & Energy"
-  },
-  {
-   "rank": 3,
-   "ticker": "VST",
-   "company": "Vistra Corp",
-   "move_pct": 10.77,
-   "price": 160.5,
-   "volume": 18077200,
-   "volume_vs_avg": "~4x",
-   "heat_score": 66,
-   "direction": "up",
-   "why": "Moving up 10.8% on ~4x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": "Powering AI"
-  }
- ]
+ "hot_tickers": []
 }

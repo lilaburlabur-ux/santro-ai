@@ -10,10 +10,10 @@
 | AMD | $1.05T | +nan% | 41.1 | 16% | Moderate | Low (expensive) | High |
 | INTC | $597.96B | +nan% | 54.3 | -20% | Moderate | Low (expensive) | High |
 | ARM | $314.39B | +nan% | 96.1 | 20% | Moderate | Low (expensive) | High |
-| MRVL | $255.84B | +nan% | 39.6 | 28% | Moderate | Low (expensive) | High |
+| MRVL | $255.84B | +nan% | 42.2 | 28% | Moderate | Low (expensive) | High |
 | QCOM | $189.14B | +nan% | 17.4 | 21% | Moderate | Reasonable | Elevated |
 | NXPI | $59.31B | +nan% | 13.0 | 23% | Moderate | Reasonable | Elevated |
-| LSCC | $18.60B | +nan% | 40.7 | 6% | Moderate | Low (expensive) | Elevated |
+| LSCC | $18.57B | +nan% | 40.8 | 6% | Moderate | Low (expensive) | Elevated |
 | SYNA | $4.74B | +nan% | 18.2 | -41% | Moderate | Reasonable | High |
 | CEVA | $998.91M | +nan% | 44.2 | -9% | Moderate | Low (expensive) | High |
 | AVAV | $7.06B | +nan% | 31.1 | -10% | Moderate | Fair-to-demanding | High |

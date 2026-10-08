@@ -18,7 +18,7 @@ Signed file: `QCOM.research.08.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 21.01%, revenue growth -4.00%. |
-| Value attractiveness | Reasonable | Forward P/E 17.36, EV/Sales 4.38. |
+| Value attractiveness | Reasonable | Forward P/E 17.37, EV/Sales 4.47. |
 | Risk level | Elevated | Beta 1.65, ATR nan% of price, short float 4.01%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $44.07B | Revenue growth -4.00% y/y |
 | Profitability | Gross 54.23%, operating 18.53%, net 21.01% | ROA 11.61%, ROE 33.75% |
 | Balance sheet | Cash $8.30B, debt $15.27B | Current ratio 2.02, debt/equity 55.21 |
-| Valuation | P/E 20.50, forward P/E 17.36, P/S 4.29, P/B 6.77 | EV/Sales 4.38, EV/EBITDA 16.08 |
+| Valuation | P/E 20.50, forward P/E 17.37, P/S 4.29, P/B 6.77 | EV/Sales 4.47, EV/EBITDA 16.43 |
 | Growth expectations | Earnings growth -23.00%, EPS q/q -24.90% | Analyst mean target $194.13 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 4.38 |
-| Market cap | $189.14B | EV/EBITDA | 16.08 |
+| Price | $nan | EV/Sales | 4.47 |
+| Market cap | $189.14B | EV/EBITDA | 16.43 |
 | Beta | 1.65 | Gross margin | 54.23% |
 | RSI(14) | 49.3 | Operating margin | 18.53% |
 | ATR(14) | 7.80 | Profit margin | 21.01% |
@@ -112,7 +112,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | 52W high | $248.74 | Revenue growth y/y | -4.00% |
 | 52W low | $122.94 | Inst. ownership | 83.13% |
 | P/E (ttm) | 20.50 | Insider ownership | 0.12% |
-| Forward P/E | 17.36 | Short float | 4.01% |
+| Forward P/E | 17.37 | Short float | 4.01% |
 | PEG (trailing) | 0.88 | Avg volume | 12,324,285 |
 | P/S | 4.29 | Employees | 52,000 |
 | P/B | 6.77 | Analyst rec (1=buy..5=sell) | 2.6 |

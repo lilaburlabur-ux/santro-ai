@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-08T21:06:24+00:00",
-  "as_of_local": "2026-10-08 21:06:24 UTC",
+  "as_of_utc": "2026-10-08T21:11:26+00:00",
+  "as_of_local": "2026-10-08 21:11:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEVA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -119,15 +121,6 @@
       "previous_close": 119.46,
       "change_pct": -0.32,
       "market_cap": 4727641236.655411,
-      "headlines": []
-    },
-    {
-      "symbol": "CEVA",
-      "name": "CEVA",
-      "price": 33.66,
-      "previous_close": 35.48,
-      "change_pct": -5.13,
-      "market_cap": 947666059.2240295,
       "headlines": []
     }
   ],
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 81573.59,
-      "change_pct": -2.04
+      "price": 81657.18,
+      "change_pct": -1.94
     },
     {
       "label": "Gold",
-      "price": 4157.2,
-      "change_pct": 0.4
+      "price": 4158.3,
+      "change_pct": 0.43
     },
     {
       "label": "Nasdaq100",

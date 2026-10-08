@@ -4,8 +4,8 @@ Signed file: `AVGO.research.08.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-08, ~15-min delayed) |
-| Market cap | $1.80T |
+| Current price | $360.14 (2026-10-08, ~15-min delayed) |
+| Market cap | $1.72T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `AVGO.research.08.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +7.85%; price -1.87% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -24.96% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 42.94%, revenue growth 85.50%. |
-| Value attractiveness | Reasonable | Forward P/E 19.41, EV/Sales 20.53. |
-| Risk level | Elevated | Beta 1.48, ATR nan% of price, short float 1.11%. |
+| Value attractiveness | Reasonable | Forward P/E 18.57, EV/Sales 20.57. |
+| Risk level | Elevated | Beta 1.48, ATR 3.2% of price, short float 1.11%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -35,22 +35,22 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $479.94 (+nan%); 52w low $292.41 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 59.0 (neutral) |
-| Volatility | ATR(14) 11.26 (~nan% of price); beta 1.48 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $360.14; 52w high $479.94 (-24.96%); 52w low $292.41 (+23.16%) |
+| Trend | -1.87% vs SMA200, -3.16% vs SMA50, +1.43% vs SMA20 |
+| Momentum | RSI(14) 49.4 (neutral) |
+| Volatility | ATR(14) 11.59 (~3.2% of price); beta 1.48 |
+| Setup perspective | -24.96% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +4.8% |
+| Month | -1.0% |
+| Quarter | -9.8% |
+| Half Y | +1.8% |
+| 1Y | +7.8% |
+| YTD | +4.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $89.10B | Revenue growth 85.50% y/y |
 | Profitability | Gross 75.52%, operating 54.31%, net 42.94% | ROA 15.37%, ROE 44.25% |
 | Balance sheet | Cash $23.98B, debt $59.42B | Current ratio 2.50, debt/equity 59.60 |
-| Valuation | P/E 48.09, forward P/E 19.41, P/S 20.17, P/B 18.03 | EV/Sales 20.53, EV/EBITDA 35.01 |
+| Valuation | P/E 45.99, forward P/E 18.57, P/S 19.29, P/B 17.25 | EV/Sales 20.57, EV/EBITDA 35.07 |
 | Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $531.31 (47 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Price (T.Rowe) Associates Inc | 82,851,970 | 1.74% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.48, ATR nan% of price, short float 1.11%. Size positions accordingly.
+- **Volatility risk:** Beta 1.48, ATR 3.2% of price, short float 1.11%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -101,21 +101,21 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 20.53 |
-| Market cap | $1.80T | EV/EBITDA | 35.01 |
+| Price | $360.14 | EV/Sales | 20.57 |
+| Market cap | $1.72T | EV/EBITDA | 35.07 |
 | Beta | 1.48 | Gross margin | 75.52% |
-| RSI(14) | 59.0 | Operating margin | 54.31% |
-| ATR(14) | 11.26 | Profit margin | 42.94% |
-| SMA20 dist | +nan% | ROA | 15.37% |
-| SMA50 dist | +nan% | ROE | 44.25% |
-| SMA200 dist | +nan% | Revenue (ttm) | $89.10B |
+| RSI(14) | 49.4 | Operating margin | 54.31% |
+| ATR(14) | 11.59 | Profit margin | 42.94% |
+| SMA20 dist | +1.43% | ROA | 15.37% |
+| SMA50 dist | -3.16% | ROE | 44.25% |
+| SMA200 dist | -1.87% | Revenue (ttm) | $89.10B |
 | 52W high | $479.94 | Revenue growth y/y | 85.50% |
 | 52W low | $292.41 | Inst. ownership | 79.82% |
-| P/E (ttm) | 48.09 | Insider ownership | 1.94% |
-| Forward P/E | 19.41 | Short float | 1.11% |
-| PEG (trailing) | 0.36 | Avg volume | 22,575,003 |
-| P/S | 20.17 | Employees | 33,000 |
-| P/B | 18.03 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/E (ttm) | 45.99 | Insider ownership | 1.94% |
+| Forward P/E | 18.57 | Short float | 1.11% |
+| PEG (trailing) | 0.36 | Avg volume | 22,362,704 |
+| P/S | 19.29 | Employees | 33,000 |
+| P/B | 17.25 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -87,6 +87,7 @@
     .ab-grid{grid-template-columns:1fr;}
     .ab-btn,.ab-chip{min-height:44px;}
   }
+@media(max-width:760px){.ab-road{grid-template-columns:1fr!important;}}
 </style>
 </head>
 <body class="shell-tool">
@@ -480,6 +481,48 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
       <p class="ab-quote">A hot ticker is not automatically a buy. Heat can mean momentum, crowding, risk,
       overvaluation, narrative rotation or stress. <b>Santro treats heat as a reason to investigate — not as a
       trading signal.</b></p>
+    </section>
+
+    <!-- 5b · STAGE & ROADMAP -->
+    <section class="ab-sec">
+      <span class="k">Where Santro is today</span>
+      <h2>A live public beta — built in the open.</h2>
+      <p>Santro AI is an early-stage financial technology platform. The terminal below is a <b>working public
+      beta</b>: free to use, market data delayed ~15 minutes, updated automatically through the trading session.
+      Here is exactly what works today and what comes next — no promises dressed up as features.</p>
+      <div class="ab-road" style="display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:16px">
+        <div style="border:1px solid var(--border,#1d2733);border-radius:12px;padding:14px 16px">
+          <div style="font-size:11px;font-weight:800;letter-spacing:1.1px;text-transform:uppercase;color:#22c55e;margin-bottom:8px">Available now</div>
+          <ul style="margin:0;padding-left:16px;font-size:13.5px;line-height:1.75;color:var(--muted,#8895a4)">
+            <li>Live AI market terminal &amp; bubble maps</li>
+            <li>Research pages for 100+ AI stocks, themes &amp; 40+ ETFs</li>
+            <li>AI Bubble Risk index &amp; sector heat</li>
+            <li>Portfolio stress test &amp; fair-value calculator</li>
+            <li>Watchlists, alerts &amp; share cards (free account)</li>
+            <li>Auto-generated hot tickers &amp; key takeaways</li>
+          </ul>
+        </div>
+        <div style="border:1px solid var(--border,#1d2733);border-radius:12px;padding:14px 16px">
+          <div style="font-size:11px;font-weight:800;letter-spacing:1.1px;text-transform:uppercase;color:#d9a13c;margin-bottom:8px">In development</div>
+          <ul style="margin:0;padding-left:16px;font-size:13.5px;line-height:1.75;color:var(--muted,#8895a4)">
+            <li>Upgraded market-data pipeline (commercial data vendor)</li>
+            <li>Premium tier with faster data refresh</li>
+            <li>Deeper account &amp; research personalization</li>
+          </ul>
+        </div>
+        <div style="border:1px solid var(--border,#1d2733);border-radius:12px;padding:14px 16px">
+          <div style="font-size:11px;font-weight:800;letter-spacing:1.1px;text-transform:uppercase;color:var(--faint,#5a6573);margin-bottom:8px">Planned</div>
+          <ul style="margin:0;padding-left:16px;font-size:13.5px;line-height:1.75;color:var(--muted,#8895a4)">
+            <li>AI-assisted research automation — today our research cards and takeaways come from data-driven
+                generators and editor-run AI workflows; direct LLM-API integration into the pipeline is
+                <b>planned, not yet live</b></li>
+            <li>Email market brief (opt-in)</li>
+            <li>iOS app</li>
+          </ul>
+        </div>
+      </div>
+      <p style="font-size:12.5px;color:var(--faint,#5a6573);margin-top:10px">Questions about the product or roadmap:
+      <a href="mailto:hello@santroai.tech">hello@santroai.tech</a></p>
     </section>
 
     <!-- 6 · PRODUCT SURFACES -->

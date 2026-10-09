@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-09T03:54:04+00:00",
-  "as_of_local": "2026-10-09 03:54:04 UTC",
+  "as_of_utc": "2026-10-09T04:09:07+00:00",
+  "as_of_local": "2026-10-09 04:09:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -95,15 +97,6 @@
       "headlines": []
     },
     {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 124.98,
-      "previous_close": 130.99,
-      "change_pct": -4.59,
-      "market_cap": 17750943871.34619,
-      "headlines": []
-    },
-    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 137.6,
@@ -170,8 +163,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -3.97,
-          "price": 17190.0,
+          "change_pct": -3.41,
+          "price": 17290.0,
           "currency": "JPY"
         },
         {
@@ -260,8 +253,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -3.97,
-        "price": 17190.0,
+        "change_pct": -3.41,
+        "price": 17290.0,
         "currency": "JPY"
       },
       {
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 82304.99,
-      "change_pct": -1.17
+      "price": 82418.26,
+      "change_pct": -1.03
     },
     {
       "label": "Gold",
-      "price": 4201.5,
-      "change_pct": 1.47
+      "price": 4157.0,
+      "change_pct": 0.39
     },
     {
       "label": "Nasdaq100",

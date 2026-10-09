@@ -18,7 +18,7 @@ Signed file: `NVDA.research.09.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 63.66%, revenue growth 105.90%. |
-| Value attractiveness | Reasonable | Forward P/E 14.48, EV/Sales 18.26. |
+| Value attractiveness | Reasonable | Forward P/E 14.48, EV/Sales 18.80. |
 | Risk level | High | Beta 2.22, ATR nan% of price, short float 1.27%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -59,13 +59,13 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $302.97B | Revenue growth 105.90% y/y |
 | Profitability | Gross 74.67%, operating 66.24%, net 63.66% | ROA 53.57%, ROE 117.21% |
 | Balance sheet | Cash $62.47B, debt $38.86B | Current ratio 4.59, debt/equity 16.97 |
-| Valuation | P/E 29.14, forward P/E 14.48, P/S 18.37, P/B 24.30 | EV/Sales 18.26, EV/EBITDA 27.48 |
+| Valuation | P/E 29.14, forward P/E 14.48, P/S 18.37, P/B 24.30 | EV/Sales 18.80, EV/EBITDA 28.30 |
 | Growth expectations | Earnings growth 127.80%, EPS q/q 125.90% | Analyst mean target $328.72 (59 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 71.40% |
+| Institutional ownership | 71.41% |
 | Insider ownership | 4.01% |
 | Short float | 1.27% |
 | Short ratio (days to cover) | 2.3 |
@@ -101,8 +101,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 18.26 |
-| Market cap | $5.57T | EV/EBITDA | 27.48 |
+| Price | $nan | EV/Sales | 18.80 |
+| Market cap | $5.57T | EV/EBITDA | 28.30 |
 | Beta | 2.22 | Gross margin | 74.67% |
 | RSI(14) | 64.4 | Operating margin | 66.24% |
 | ATR(14) | 5.61 | Profit margin | 63.66% |
@@ -110,7 +110,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | SMA50 dist | +nan% | ROE | 117.21% |
 | SMA200 dist | +nan% | Revenue (ttm) | $302.97B |
 | 52W high | $239.24 | Revenue growth y/y | 105.90% |
-| 52W low | $164.79 | Inst. ownership | 71.40% |
+| 52W low | $164.79 | Inst. ownership | 71.41% |
 | P/E (ttm) | 29.14 | Insider ownership | 4.01% |
 | Forward P/E | 14.48 | Short float | 1.27% |
 | PEG (trailing) | 0.48 | Avg volume | 121,525,935 |

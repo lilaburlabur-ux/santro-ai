@@ -18,7 +18,7 @@ Signed file: `TSM.research.09.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 49.92%, revenue growth 36.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.89, EV/Sales 3.74. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.89, EV/Sales 3.87. |
 | Risk level | Elevated | Beta 1.24, ATR nan% of price, short float 0.57%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated.
@@ -59,7 +59,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.44T | Revenue growth 36.00% y/y |
 | Profitability | Gross 64.23%, operating 60.34%, net 49.92% | ROA 19.00%, ROE 39.97% |
 | Balance sheet | Cash $3.52T, debt $1.07T | Current ratio 2.46, debt/equity 16.50 |
-| Valuation | P/E 33.28, forward P/E 20.89, P/S 0.53, P/B 94.29 | EV/Sales 3.74, EV/EBITDA 5.24 |
+| Valuation | P/E 33.28, forward P/E 20.89, P/S 0.53, P/B 94.29 | EV/Sales 3.87, EV/EBITDA 5.42 |
 | Growth expectations | Earnings growth 77.40%, EPS q/q 77.40% | Analyst mean target $555.01 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Bank of America Corporation | 15,282,620 | 0.29% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.89, EV/Sales 3.74. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 20.89, EV/Sales 3.87. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.24, ATR nan% of price, short float 0.57%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -102,8 +102,8 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 3.74 |
-| Market cap | $2.38T | EV/EBITDA | 5.24 |
+| Price | $nan | EV/Sales | 3.87 |
+| Market cap | $2.38T | EV/EBITDA | 5.42 |
 | Beta | 1.24 | Gross margin | 64.23% |
 | RSI(14) | 64.6 | Operating margin | 60.34% |
 | ATR(14) | 10.50 | Profit margin | 49.92% |

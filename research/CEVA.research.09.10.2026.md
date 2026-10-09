@@ -18,7 +18,7 @@ Signed file: `CEVA.research.09.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-9.48%). |
-| Value attractiveness | Low (expensive) | Forward P/E 41.94, EV/Sales 6.43. |
+| Value attractiveness | Low (expensive) | Forward P/E 41.94, EV/Sales 6.88. |
 | Risk level | High | Beta 1.93, ATR nan% of price, short float 11.57%. |
 
 **Bottom line:** Moderate technical momentum, weak fundamentals, value: low (expensive), risk: high.
@@ -59,13 +59,13 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 | Revenue (ttm) | $115.73M | Revenue growth 13.10% y/y |
 | Profitability | Gross 87.47%, operating -7.15%, net -9.48% | ROA -1.74%, ROE -3.62% |
 | Balance sheet | Cash $220.72M, debt $17.42M | Current ratio 10.12, debt/equity 5.12 |
-| Valuation | P/E —, forward P/E 41.94, P/S 8.19, P/B 2.78 | EV/Sales 6.43, EV/EBITDA -131.12 |
+| Valuation | P/E —, forward P/E 41.94, P/S 8.19, P/B 2.78 | EV/Sales 6.88, EV/EBITDA -140.15 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $46.67 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 90.22% |
+| Institutional ownership | 90.18% |
 | Insider ownership | 3.50% |
 | Short float | 11.57% |
 | Short ratio (days to cover) | 4.2 |
@@ -86,7 +86,7 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 | Geode Capital Management, LLC | 723,085 | 2.57% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 41.94, EV/Sales 6.43. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 41.94, EV/Sales 6.88. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.93, ATR nan% of price, short float 11.57%. Size positions accordingly.
 - **Short interest risk:** short float 11.57% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
@@ -104,8 +104,8 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 6.43 |
-| Market cap | $947.67M | EV/EBITDA | -131.12 |
+| Price | $nan | EV/Sales | 6.88 |
+| Market cap | $947.67M | EV/EBITDA | -140.15 |
 | Beta | 1.93 | Gross margin | 87.47% |
 | RSI(14) | 60.5 | Operating margin | -7.15% |
 | ATR(14) | 1.61 | Profit margin | -9.48% |
@@ -113,7 +113,7 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 | SMA50 dist | +nan% | ROE | -3.62% |
 | SMA200 dist | +nan% | Revenue (ttm) | $115.73M |
 | 52W high | $50.06 | Revenue growth y/y | 13.10% |
-| 52W low | $17.21 | Inst. ownership | 90.22% |
+| 52W low | $17.21 | Inst. ownership | 90.18% |
 | P/E (ttm) | — | Insider ownership | 3.50% |
 | Forward P/E | 41.94 | Short float | 11.57% |
 | PEG (trailing) | 2.13 | Avg volume | 762,053 |

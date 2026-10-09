@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-09T04:09:07+00:00",
-  "as_of_local": "2026-10-09 04:09:07 UTC",
+  "as_of_utc": "2026-10-09T04:23:47+00:00",
+  "as_of_local": "2026-10-09 04:23:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LSCC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -57,7 +55,7 @@
       "price": 107.08,
       "previous_close": 113.12,
       "change_pct": -5.34,
-      "market_cap": 562654687431.525,
+      "market_cap": 566036161134.1078,
       "headlines": []
     },
     {
@@ -94,6 +92,15 @@
       "previous_close": 235.22,
       "change_pct": -1.76,
       "market_cap": 58267577533.08557,
+      "headlines": []
+    },
+    {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 124.98,
+      "previous_close": 130.99,
+      "change_pct": -4.59,
+      "market_cap": 17715816616.66268,
       "headlines": []
     },
     {
@@ -163,8 +170,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -3.41,
-          "price": 17290.0,
+          "change_pct": -3.16,
+          "price": 17335.0,
           "currency": "JPY"
         },
         {
@@ -253,8 +260,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -3.41,
-        "price": 17290.0,
+        "change_pct": -3.16,
+        "price": 17335.0,
         "currency": "JPY"
       },
       {
@@ -312,13 +319,13 @@
     },
     {
       "label": "BTC",
-      "price": 82418.26,
-      "change_pct": -1.03
+      "price": 82391.36,
+      "change_pct": -1.06
     },
     {
       "label": "Gold",
-      "price": 4157.0,
-      "change_pct": 0.39
+      "price": 4203.6,
+      "change_pct": 1.12
     },
     {
       "label": "Nasdaq100",

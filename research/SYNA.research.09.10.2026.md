@@ -18,7 +18,7 @@ Signed file: `SYNA.research.09.10.2026`
 | Technical momentum | High | 1Y +75.41%; price +19.89% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -18.80% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-41.00%). |
-| Value attractiveness | Reasonable | Forward P/E 18.22, EV/Sales 4.26. |
+| Value attractiveness | Reasonable | Forward P/E 18.22, EV/Sales 4.25. |
 | Risk level | High | Beta 1.96, ATR 3.5% of price, short float 10.84%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -59,13 +59,13 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Revenue (ttm) | $1.20B | Revenue growth 8.90% y/y |
 | Profitability | Gross 44.72%, operating -2.79%, net -41.00% | ROA -1.52%, ROE -42.23% |
 | Balance sheet | Cash $442.50M, debt $876.80M | Current ratio 1.12, debt/equity 94.33 |
-| Valuation | P/E —, forward P/E 18.22, P/S 3.97, P/B 5.04 | EV/Sales 4.26, EV/EBITDA 55.02 |
+| Valuation | P/E —, forward P/E 18.22, P/S 3.97, P/B 5.04 | EV/Sales 4.25, EV/EBITDA 54.86 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $129.33 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 106.33% |
+| Institutional ownership | 106.42% |
 | Insider ownership | 0.83% |
 | Short float | 10.84% |
 | Short ratio (days to cover) | 3.6 |
@@ -103,8 +103,8 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $119.82 | EV/Sales | 4.26 |
-| Market cap | $4.76B | EV/EBITDA | 55.02 |
+| Price | $119.82 | EV/Sales | 4.25 |
+| Market cap | $4.76B | EV/EBITDA | 54.86 |
 | Beta | 1.96 | Gross margin | 44.72% |
 | RSI(14) | 69.2 | Operating margin | -2.79% |
 | ATR(14) | 4.14 | Profit margin | -41.00% |
@@ -112,7 +112,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | SMA50 dist | +17.33% | ROE | -42.23% |
 | SMA200 dist | +19.89% | Revenue (ttm) | $1.20B |
 | 52W high | $147.57 | Revenue growth y/y | 8.90% |
-| 52W low | $58.52 | Inst. ownership | 106.33% |
+| 52W low | $58.52 | Inst. ownership | 106.42% |
 | P/E (ttm) | — | Insider ownership | 0.83% |
 | Forward P/E | 18.22 | Short float | 10.84% |
 | PEG (trailing) | — | Avg volume | 817,112 |

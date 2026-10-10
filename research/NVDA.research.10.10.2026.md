@@ -18,7 +18,7 @@ Signed file: `NVDA.research.10.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 63.66%, revenue growth 105.90%. |
-| Value attractiveness | Reasonable | Forward P/E 14.41, EV/Sales 18.81. |
+| Value attractiveness | Reasonable | Forward P/E 14.41, EV/Sales 18.16. |
 | Risk level | High | Beta 2.22, ATR nan% of price, short float 1.27%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -59,7 +59,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $302.97B | Revenue growth 105.90% y/y |
 | Profitability | Gross 74.67%, operating 66.24%, net 63.66% | ROA 53.57%, ROE 117.21% |
 | Balance sheet | Cash $62.47B, debt $38.86B | Current ratio 4.59, debt/equity 16.97 |
-| Valuation | P/E 28.99, forward P/E 14.41, P/S 18.27, P/B 24.18 | EV/Sales 18.81, EV/EBITDA 28.32 |
+| Valuation | P/E 28.99, forward P/E 14.41, P/S 18.27, P/B 24.18 | EV/Sales 18.16, EV/EBITDA 27.34 |
 | Growth expectations | Earnings growth 127.80%, EPS q/q 125.90% | Analyst mean target $328.72 (59 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 18.81 |
-| Market cap | $5.54T | EV/EBITDA | 28.32 |
+| Price | $nan | EV/Sales | 18.16 |
+| Market cap | $5.54T | EV/EBITDA | 27.34 |
 | Beta | 2.22 | Gross margin | 74.67% |
 | RSI(14) | 54.5 | Operating margin | 66.24% |
 | ATR(14) | 5.75 | Profit margin | 63.66% |

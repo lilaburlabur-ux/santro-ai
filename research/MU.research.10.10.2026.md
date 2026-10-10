@@ -18,7 +18,7 @@ Signed file: `MU.research.10.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 63.80%, revenue growth 379.30%. |
-| Value attractiveness | Reasonable | Forward P/E 4.99, EV/Sales 8.94. |
+| Value attractiveness | Reasonable | Forward P/E 4.99, EV/Sales 8.44. |
 | Risk level | High | Beta 2.23, ATR nan% of price, short float 2.45%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -59,7 +59,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | Revenue (ttm) | $133.19B | Revenue growth 379.30% y/y |
 | Profitability | Gross 80.72%, operating 80.68%, net 63.80% | ROA 44.56%, ROE 88.26% |
 | Balance sheet | Cash $43.43B, debt $5.18B | Current ratio 3.31, debt/equity 3.74 |
-| Valuation | P/E 13.84, forward P/E 4.99, P/S 8.73, P/B 11.53 | EV/Sales 8.94, EV/EBITDA 10.94 |
+| Valuation | P/E 13.94, forward P/E 4.99, P/S 8.73, P/B 11.53 | EV/Sales 8.44, EV/EBITDA 10.33 |
 | Growth expectations | Earnings growth 1060.10%, EPS q/q 1077.80% | Analyst mean target $1,555.13 (46 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 8.94 |
-| Market cap | $1.16T | EV/EBITDA | 10.94 |
+| Price | $nan | EV/Sales | 8.44 |
+| Market cap | $1.16T | EV/EBITDA | 10.33 |
 | Beta | 2.23 | Gross margin | 80.72% |
 | RSI(14) | 51.2 | Operating margin | 80.68% |
 | ATR(14) | 46.64 | Profit margin | 63.80% |
@@ -111,7 +111,7 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 | SMA200 dist | +nan% | Revenue (ttm) | $133.19B |
 | 52W high | $1,213.37 | Revenue growth y/y | 379.30% |
 | 52W low | $181.42 | Inst. ownership | 79.90% |
-| P/E (ttm) | 13.84 | Insider ownership | 0.24% |
+| P/E (ttm) | 13.94 | Insider ownership | 0.24% |
 | Forward P/E | 4.99 | Short float | 2.45% |
 | PEG (trailing) | 0.16 | Avg volume | 32,670,056 |
 | P/S | 8.73 | Employees | 0 |

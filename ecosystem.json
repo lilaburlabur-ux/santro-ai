@@ -2,9 +2,8 @@
  "meta": {
   "label": "NVIDIA Ecosystem",
   "count": 30,
-  "as_of": "2026-10-10 00:47 UTC",
-  "failed": [],
-  "session": "closed"
+  "as_of": "2026-10-10 00:50 UTC",
+  "failed": []
  },
  "tickers": [
   {
@@ -14,7 +13,7 @@
    "price": 457.99,
    "change_pct": -3.01,
    "market_cap_b": 2375.35,
-   "pe": 33.28,
+   "pe": 33.63,
    "fwd_eps": 22.15,
    "volume": 9207499,
    "perf": {
@@ -62,7 +61,7 @@
    "price": 1035.84,
    "change_pct": -4.79,
    "market_cap_b": 1169.87,
-   "pe": 13.94,
+   "pe": 14.03,
    "fwd_eps": 207.7,
    "volume": 19765706,
    "perf": {
@@ -111,7 +110,7 @@
    "change_pct": -1.95,
    "market_cap_b": 679.78,
    "pe": 57.44,
-   "fwd_eps": 57.88,
+   "fwd_eps": 57.81,
    "volume": 1203224,
    "perf": {
     "1W": -2.1,
@@ -351,7 +350,7 @@
    "change_pct": -0.06,
    "market_cap_b": 256.72,
    "pe": 53.75,
-   "fwd_eps": 6.74,
+   "fwd_eps": 6.78,
    "volume": 5293176,
    "perf": {
     "1W": -1.8,
@@ -446,7 +445,7 @@
    "price": 405.93,
    "change_pct": -1.01,
    "market_cap_b": 196.7,
-   "pe": 48.21,
+   "pe": 48.15,
    "fwd_eps": 16.34,
    "volume": 2003799,
    "perf": {
@@ -493,8 +492,8 @@
    "industry": "Specialty Industrial Machinery",
    "price": 424.51,
    "change_pct": -1.58,
-   "market_cap_b": 164.88,
-   "pe": 43.19,
+   "market_cap_b": 164.84,
+   "pe": 42.66,
    "fwd_eps": 16.05,
    "volume": 1632666,
    "perf": {
@@ -589,7 +588,7 @@
    "industry": "Electronic Components",
    "price": 152.83,
    "change_pct": -6.38,
-   "market_cap_b": 131.65,
+   "market_cap_b": 131.38,
    "pe": 70.11,
    "fwd_eps": 4.26,
    "volume": 6663557,
@@ -687,7 +686,7 @@
    "change_pct": -5.62,
    "market_cap_b": 94.99,
    "pe": null,
-   "fwd_eps": 33.8,
+   "fwd_eps": 33.84,
    "volume": 5235815,
    "perf": {
     "1W": 0.3,
@@ -831,7 +830,7 @@
    "change_pct": -1.77,
    "market_cap_b": 63.79,
    "pe": 50.7,
-   "fwd_eps": 13.58,
+   "fwd_eps": 13.64,
    "volume": 899509,
    "perf": {
     "1W": 0.2,
@@ -872,61 +871,13 @@
    ]
   },
   {
-   "ticker": "NBIS",
-   "company": "NBIS",
-   "industry": "Internet Content & Information",
-   "price": 219.71,
-   "change_pct": -7.35,
-   "market_cap_b": 59.73,
-   "pe": 171.65,
-   "fwd_eps": -3.54,
-   "volume": 9517515,
-   "perf": {
-    "1W": -5.4,
-    "1M": -8.6,
-    "1Y": 69.6
-   },
-   "spark": [
-    177.71,
-    216.92,
-    220.97,
-    187.88,
-    148.22,
-    190.41,
-    225.74,
-    189.88,
-    184.11,
-    259.2,
-    277.68,
-    248.43,
-    220.11,
-    210.91,
-    213.93,
-    209.18,
-    199.54,
-    210.63,
-    243.88,
-    228.11,
-    212.19,
-    209.37,
-    223.54,
-    236.12,
-    243.48,
-    231.88,
-    235.88,
-    242.81,
-    249.87,
-    219.71
-   ]
-  },
-  {
    "ticker": "COHR",
    "company": "Coherent Corp.",
    "industry": "Scientific & Technical Instruments",
    "price": 302.35,
    "change_pct": -9.63,
    "market_cap_b": 59.21,
-   "pe": 73.39,
+   "pe": 70.97,
    "fwd_eps": 13.58,
    "volume": 8092549,
    "perf": {
@@ -1013,6 +964,54 @@
     10.6,
     10.97,
     10.14
+   ]
+  },
+  {
+   "ticker": "NBIS",
+   "company": "NBIS",
+   "industry": "Internet Content & Information",
+   "price": 219.71,
+   "change_pct": -7.35,
+   "market_cap_b": 55.78,
+   "pe": 171.65,
+   "fwd_eps": -3.54,
+   "volume": 9517515,
+   "perf": {
+    "1W": -5.4,
+    "1M": -8.6,
+    "1Y": 69.6
+   },
+   "spark": [
+    177.71,
+    216.92,
+    220.97,
+    187.88,
+    148.22,
+    190.41,
+    225.74,
+    189.88,
+    184.11,
+    259.2,
+    277.68,
+    248.43,
+    220.11,
+    210.91,
+    213.93,
+    209.18,
+    199.54,
+    210.63,
+    243.88,
+    228.11,
+    212.19,
+    209.37,
+    223.54,
+    236.12,
+    243.48,
+    231.88,
+    235.88,
+    242.81,
+    249.87,
+    219.71
    ]
   },
   {
@@ -1262,7 +1261,7 @@
    "price": 487.33,
    "change_pct": -2.14,
    "market_cap_b": 17.46,
-   "pe": 37.34,
+   "pe": 37.43,
    "fwd_eps": 21.83,
    "volume": 689978,
    "perf": {
@@ -1309,8 +1308,8 @@
    "industry": "Semiconductor Equipment & Materials",
    "price": 51.0,
    "change_pct": -2.43,
-   "market_cap_b": 12.67,
-   "pe": 22.87,
+   "market_cap_b": 12.64,
+   "pe": 23.72,
    "fwd_eps": 2.91,
    "volume": 4242726,
    "perf": {

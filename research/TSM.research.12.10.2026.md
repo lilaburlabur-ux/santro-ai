@@ -18,7 +18,7 @@ Signed file: `TSM.research.12.10.2026`
 | Technical momentum | Moderate | 1Y +49.74%; price +13.70% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -8.53% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 49.92%, revenue growth 36.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.19, EV/Sales 3.69. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.27, EV/Sales 3.69. |
 | Risk level | Elevated | Beta 1.24, ATR 2.5% of price, short float 0.63%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated.
@@ -59,7 +59,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.44T | Revenue growth 36.00% y/y |
 | Profitability | Gross 64.23%, operating 60.34%, net 49.92% | ROA 19.00%, ROE 39.97% |
 | Balance sheet | Cash $3.52T, debt $1.07T | Current ratio 2.46, debt/equity 16.50 |
-| Valuation | P/E 32.29, forward P/E 20.19, P/S 0.52, P/B 91.48 | EV/Sales 3.69, EV/EBITDA 5.18 |
+| Valuation | P/E 32.29, forward P/E 20.27, P/S 0.52, P/B 91.48 | EV/Sales 3.69, EV/EBITDA 5.18 |
 | Growth expectations | Earnings growth 77.40%, EPS q/q 77.40% | Analyst mean target $578.22 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Bank of America Corporation | 15,282,620 | 0.29% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.19, EV/Sales 3.69. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 20.27, EV/Sales 3.69. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.24, ATR 2.5% of price, short float 0.63%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -113,7 +113,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | 52W high | $485.80 | Revenue growth y/y | 36.00% |
 | 52W low | $272.18 | Inst. ownership | 15.49% |
 | P/E (ttm) | 32.29 | Insider ownership | 0.01% |
-| Forward P/E | 20.19 | Short float | 0.63% |
+| Forward P/E | 20.27 | Short float | 0.63% |
 | PEG (trailing) | 0.86 | Avg volume | 11,337,809 |
 | P/S | 0.52 | Employees | 76,907 |
 | P/B | 91.48 | Analyst rec (1=buy..5=sell) | 1.4 |

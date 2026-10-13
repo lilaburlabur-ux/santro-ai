@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-13T23:51:59+00:00",
-  "as_of_local": "2026-10-13 23:51:59 UTC",
+  "as_of_utc": "2026-10-13T23:57:05+00:00",
+  "as_of_local": "2026-10-13 23:57:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NXPI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -57,7 +55,7 @@
       "price": 102.81,
       "previous_close": 101.35,
       "change_pct": 1.44,
-      "market_cap": 540217837616.7166,
+      "market_cap": 543464469080.6896,
       "headlines": []
     },
     {
@@ -88,12 +86,21 @@
       "headlines": []
     },
     {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors",
+      "price": 226.32,
+      "previous_close": 225.21,
+      "change_pct": 0.49,
+      "market_cap": 57069797706.58557,
+      "headlines": []
+    },
+    {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
       "price": 121.15,
       "previous_close": 122.84,
       "change_pct": -1.38,
-      "market_cap": 17206967669.520996,
+      "market_cap": 17172916886.642128,
       "headlines": []
     },
     {
@@ -312,13 +319,13 @@
     },
     {
       "label": "BTC",
-      "price": 83133.9,
-      "change_pct": 1.68
+      "price": 83092.78,
+      "change_pct": 1.63
     },
     {
       "label": "Gold",
-      "price": 4179.3,
-      "change_pct": -0.27
+      "price": 4179.6,
+      "change_pct": -0.26
     },
     {
       "label": "Nasdaq100",

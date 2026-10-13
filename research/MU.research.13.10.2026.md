@@ -18,7 +18,7 @@ Signed file: `MU.research.13.10.2026`
 | Technical momentum | High | 1Y +425.40%; price +34.54% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -21.44% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 63.80%, revenue growth 379.30%. |
-| Value attractiveness | Reasonable | Forward P/E 4.62, EV/Sales 8.12. |
+| Value attractiveness | Reasonable | Forward P/E 4.62, EV/Sales 7.81. |
 | Risk level | High | Beta 2.23, ATR 5.0% of price, short float 2.31%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -59,7 +59,7 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 | Revenue (ttm) | $133.19B | Revenue growth 379.30% y/y |
 | Profitability | Gross 80.72%, operating 80.68%, net 63.80% | ROA 44.56%, ROE 88.26% |
 | Balance sheet | Cash $43.43B, debt $5.18B | Current ratio 3.31, debt/equity 3.74 |
-| Valuation | P/E 12.82, forward P/E 4.62, P/S 8.10, P/B 7.79 | EV/Sales 8.12, EV/EBITDA 9.93 |
+| Valuation | P/E 12.82, forward P/E 4.62, P/S 8.10, P/B 7.79 | EV/Sales 7.81, EV/EBITDA 9.56 |
 | Growth expectations | Earnings growth 1059.50%, EPS q/q 1077.80% | Analyst mean target $1,560.57 (46 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $953.19 | EV/Sales | 8.12 |
-| Market cap | $1.08T | EV/EBITDA | 9.93 |
+| Price | $953.19 | EV/Sales | 7.81 |
+| Market cap | $1.08T | EV/EBITDA | 9.56 |
 | Beta | 2.23 | Gross margin | 80.72% |
 | RSI(14) | 40.3 | Operating margin | 80.68% |
 | ATR(14) | 47.27 | Profit margin | 63.80% |

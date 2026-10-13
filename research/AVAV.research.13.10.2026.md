@@ -117,7 +117,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | 52W low | $131.51 | Inst. ownership | 88.27% |
 | P/E (ttm) | — | Insider ownership | 0.91% |
 | Forward P/E | 29.64 | Short float | 12.81% |
-| PEG (trailing) | — | Avg volume | 1,615,875 |
+| PEG (trailing) | — | Avg volume | 1,621,695 |
 | P/S | 3.34 | Employees | 3,991 |
 | P/B | 1.51 | Analyst rec (1=buy..5=sell) | 1.7 |
 

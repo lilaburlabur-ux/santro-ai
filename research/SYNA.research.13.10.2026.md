@@ -115,7 +115,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | 52W low | $58.52 | Inst. ownership | 106.42% |
 | P/E (ttm) | — | Insider ownership | 0.83% |
 | Forward P/E | 18.15 | Short float | 11.62% |
-| PEG (trailing) | — | Avg volume | 829,760 |
+| PEG (trailing) | — | Avg volume | 832,339 |
 | P/S | 3.96 | Employees | 1,700 |
 | P/B | 5.02 | Analyst rec (1=buy..5=sell) | 2.8 |
 

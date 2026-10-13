@@ -114,7 +114,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | 52W low | $272.18 | Inst. ownership | 15.49% |
 | P/E (ttm) | 32.29 | Insider ownership | 0.01% |
 | Forward P/E | 20.19 | Short float | 0.63% |
-| PEG (trailing) | 0.86 | Avg volume | 11,299,509 |
+| PEG (trailing) | 0.86 | Avg volume | 11,252,160 |
 | P/S | 0.52 | Employees | 76,907 |
 | P/B | 91.48 | Analyst rec (1=buy..5=sell) | 1.4 |
 

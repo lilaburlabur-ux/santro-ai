@@ -114,7 +114,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | 52W low | $164.79 | Inst. ownership | 71.41% |
 | P/E (ttm) | 28.61 | Insider ownership | 4.01% |
 | Forward P/E | 14.22 | Short float | 1.34% |
-| PEG (trailing) | 0.48 | Avg volume | 119,552,627 |
+| PEG (trailing) | 0.48 | Avg volume | 119,523,590 |
 | P/S | 18.04 | Employees | 42,000 |
 | P/B | 23.87 | Analyst rec (1=buy..5=sell) | 1.3 |
 

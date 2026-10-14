@@ -18,7 +18,7 @@ Signed file: `MRVL.research.14.10.2026`
 | Technical momentum | High | 1Y +174.86%; price +40.72% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -22.45% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 27.93%, revenue growth 36.50%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 33.62, EV/Sales 25.08. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 33.68, EV/Sales 25.08. |
 | Risk level | High | Beta 2.26, ATR 6.4% of price, short float 3.21%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
@@ -59,7 +59,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $9.45B | Revenue growth 36.50% y/y |
 | Profitability | Gross 52.22%, operating 16.68%, net 27.93% | ROA 4.12%, ROE 16.52% |
 | Balance sheet | Cash $3.93B, debt $5.29B | Current ratio 3.17, debt/equity 28.52 |
-| Valuation | P/E 80.68, forward P/E 33.62, P/S 23.33, P/B 11.61 | EV/Sales 25.08, EV/EBITDA 83.15 |
+| Valuation | P/E 77.87, forward P/E 33.68, P/S 23.33, P/B 11.61 | EV/Sales 25.08, EV/EBITDA 83.15 |
 | Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $339.36 (44 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | JPMORGAN CHASE & CO | 13,891,628 | 1.58% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 33.62, EV/Sales 25.08. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 33.68, EV/Sales 25.08. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.26, ATR 6.4% of price, short float 3.21%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -112,8 +112,8 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | SMA200 dist | +40.72% | Revenue (ttm) | $9.45B |
 | 52W high | $316.28 | Revenue growth y/y | 36.50% |
 | 52W low | $73.66 | Inst. ownership | 81.82% |
-| P/E (ttm) | 80.68 | Insider ownership | 0.50% |
-| Forward P/E | 33.62 | Short float | 3.21% |
+| P/E (ttm) | 77.87 | Insider ownership | 0.50% |
+| Forward P/E | 33.68 | Short float | 3.21% |
 | PEG (trailing) | 1.39 | Avg volume | 22,265,640 |
 | P/S | 23.33 | Employees | 7,480 |
 | P/B | 11.61 | Analyst rec (1=buy..5=sell) | 1.4 |

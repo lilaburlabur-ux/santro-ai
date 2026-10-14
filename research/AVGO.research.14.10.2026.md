@@ -59,7 +59,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $89.10B | Revenue growth 85.50% y/y |
 | Profitability | Gross 75.52%, operating 54.31%, net 42.94% | ROA 15.37%, ROE 44.25% |
 | Balance sheet | Cash $23.98B, debt $59.42B | Current ratio 2.50, debt/equity 59.60 |
-| Valuation | P/E 43.39, forward P/E 17.85, P/S 18.55, P/B 16.58 | EV/Sales 19.54, EV/EBITDA 33.32 |
+| Valuation | P/E 44.22, forward P/E 17.85, P/S 18.55, P/B 16.58 | EV/Sales 19.54, EV/EBITDA 33.32 |
 | Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $527.59 (47 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | SMA200 dist | -5.70% | Revenue (ttm) | $89.10B |
 | 52W high | $479.94 | Revenue growth y/y | 85.50% |
 | 52W low | $292.41 | Inst. ownership | 79.71% |
-| P/E (ttm) | 43.39 | Insider ownership | 1.92% |
+| P/E (ttm) | 44.22 | Insider ownership | 1.92% |
 | Forward P/E | 17.85 | Short float | 1.16% |
 | PEG (trailing) | 0.36 | Avg volume | 22,261,707 |
 | P/S | 18.55 | Employees | 33,000 |

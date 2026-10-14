@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-14T22:16:49+00:00",
+  "as_of": "2026-10-14T22:32:05+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "S",
+   "company": "SentinelOne Inc",
+   "move_pct": -5.08,
+   "price": 22.79,
+   "volume": 30616548,
+   "volume_vs_avg": "~3x",
+   "heat_score": 34,
+   "direction": "down",
+   "why": "Moving down 5.1% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
+   "sector": "Cybersecurity"
+  }
+ ]
 }

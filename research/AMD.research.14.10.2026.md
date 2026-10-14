@@ -18,7 +18,7 @@ Signed file: `AMD.research.14.10.2026`
 | Technical momentum | High | 1Y +163.76%; price +46.01% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -12.10% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 15.58%, revenue growth 50.10%. |
-| Value attractiveness | Low (expensive) | Forward P/E 36.31, EV/Sales 23.72. |
+| Value attractiveness | Low (expensive) | Forward P/E 36.31, EV/Sales 22.34. |
 | Risk level | High | Beta 2.45, ATR 4.5% of price, short float 2.42%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: low (expensive), risk: high.
@@ -59,7 +59,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Revenue (ttm) | $41.31B | Revenue growth 50.10% y/y |
 | Profitability | Gross 55.72%, operating 17.25%, net 15.58% | ROA 5.13%, ROE 10.20% |
 | Balance sheet | Cash $13.11B, debt $4.28B | Current ratio 2.61, debt/equity 6.36 |
-| Valuation | P/E 145.62, forward P/E 36.31, P/S 22.56, P/B 13.86 | EV/Sales 23.72, EV/EBITDA 102.45 |
+| Valuation | P/E 145.62, forward P/E 36.31, P/S 22.56, P/B 13.86 | EV/Sales 22.34, EV/EBITDA 96.52 |
 | Growth expectations | Earnings growth 159.50%, EPS q/q 163.40% | Analyst mean target $636.21 (50 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Morgan Stanley | 24,286,371 | 1.49% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 36.31, EV/Sales 23.72. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 36.31, EV/Sales 22.34. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.45, ATR 4.5% of price, short float 2.42%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -102,8 +102,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $570.82 | EV/Sales | 23.72 |
-| Market cap | $931.85B | EV/EBITDA | 102.45 |
+| Price | $570.82 | EV/Sales | 22.34 |
+| Market cap | $931.85B | EV/EBITDA | 96.52 |
 | Beta | 2.45 | Gross margin | 55.72% |
 | RSI(14) | 46.5 | Operating margin | 17.25% |
 | ATR(14) | 25.56 | Profit margin | 15.58% |

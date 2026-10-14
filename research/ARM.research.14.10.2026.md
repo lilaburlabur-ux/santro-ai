@@ -4,8 +4,8 @@ Signed file: `ARM.research.14.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-14, ~15-min delayed) |
-| Market cap | $272.76B |
+| Current price | $238.01 (2026-10-14, ~15-min delayed) |
+| Market cap | $254.19B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: low (expensive), risk: high. |
@@ -15,11 +15,11 @@ Signed file: `ARM.research.14.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +38.43%; price +7.12% vs SMA200. |
+| Fresh setup quality | Poor / broken | -45.84% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 20.25%, revenue growth 22.40%. |
-| Value attractiveness | Low (expensive) | Forward P/E 83.39, EV/Sales 52.24. |
-| Risk level | High | Beta 3.79, ATR nan% of price, short float 11.15%. |
+| Value attractiveness | Low (expensive) | Forward P/E 77.71, EV/Sales 52.24. |
+| Risk level | High | Beta 3.79, ATR 7.3% of price, short float 11.15%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: low (expensive), risk: high.
 
@@ -35,22 +35,22 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $439.46 (+nan%); 52w low $104.55 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 40.6 (neutral) |
-| Volatility | ATR(14) 17.30 (~nan% of price); beta 3.79 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $238.01; 52w high $439.46 (-45.84%); 52w low $104.55 (+127.65%) |
+| Trend | +7.12% vs SMA200, -11.73% vs SMA50, -17.96% vs SMA20 |
+| Momentum | RSI(14) 35.9 (neutral) |
+| Volatility | ATR(14) 17.28 (~7.3% of price); beta 3.79 |
+| Setup perspective | -45.84% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -19.1% |
+| Month | -1.6% |
+| Quarter | -9.2% |
+| Half Y | +49.4% |
+| 1Y | +38.4% |
+| YTD | +107.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Revenue (ttm) | $5.16B | Revenue growth 22.40% y/y |
 | Profitability | Gross 97.54%, operating 7.60%, net 20.25% | ROA 5.42%, ROE 13.35% |
 | Balance sheet | Cash $3.89B, debt $485.00M | Current ratio 5.25, debt/equity 5.62 |
-| Valuation | P/E 263.29, forward P/E 83.39, P/S 52.90, P/B 31.60 | EV/Sales 52.24, EV/EBITDA 253.22 |
+| Valuation | P/E 245.37, forward P/E 77.71, P/S 49.30, P/B 29.45 | EV/Sales 52.24, EV/EBITDA 253.22 |
 | Growth expectations | Earnings growth 108.30%, EPS q/q 107.70% | Analyst mean target $290.70 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,9 +86,10 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Capital International Investors | 2,050,241 | 0.19% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 83.39, EV/Sales 52.24. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 3.79, ATR nan% of price, short float 11.15%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 77.71, EV/Sales 52.24. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 3.79, ATR 7.3% of price, short float 11.15%. Size positions accordingly.
 - **Short interest risk:** short float 11.15% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -103,21 +104,21 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 52.24 |
-| Market cap | $272.76B | EV/EBITDA | 253.22 |
+| Price | $238.01 | EV/Sales | 52.24 |
+| Market cap | $254.19B | EV/EBITDA | 253.22 |
 | Beta | 3.79 | Gross margin | 97.54% |
-| RSI(14) | 40.6 | Operating margin | 7.60% |
-| ATR(14) | 17.30 | Profit margin | 20.25% |
-| SMA20 dist | +nan% | ROA | 5.42% |
-| SMA50 dist | +nan% | ROE | 13.35% |
-| SMA200 dist | +nan% | Revenue (ttm) | $5.16B |
+| RSI(14) | 35.9 | Operating margin | 7.60% |
+| ATR(14) | 17.28 | Profit margin | 20.25% |
+| SMA20 dist | -17.96% | ROA | 5.42% |
+| SMA50 dist | -11.73% | ROE | 13.35% |
+| SMA200 dist | +7.12% | Revenue (ttm) | $5.16B |
 | 52W high | $439.46 | Revenue growth y/y | 22.40% |
 | 52W low | $104.55 | Inst. ownership | 96.27% |
-| P/E (ttm) | 263.29 | Insider ownership | 0.07% |
-| Forward P/E | 83.39 | Short float | 11.15% |
-| PEG (trailing) | 2.73 | Avg volume | 5,192,178 |
-| P/S | 52.90 | Employees | 9,584 |
-| P/B | 31.60 | Analyst rec (1=buy..5=sell) | 1.9 |
+| P/E (ttm) | 245.37 | Insider ownership | 0.07% |
+| Forward P/E | 77.71 | Short float | 11.15% |
+| PEG (trailing) | 2.73 | Avg volume | 5,165,354 |
+| P/S | 49.30 | Employees | 9,584 |
+| P/B | 29.45 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

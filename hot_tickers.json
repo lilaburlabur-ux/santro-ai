@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-15T22:54:02+00:00",
+  "as_of": "2026-10-15T22:59:15+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "RXRX",
    "company": "Recursion Pharmaceuticals Inc",
-   "move_pct": 11.5,
-   "price": 4.17,
+   "move_pct": 11.23,
+   "price": 4.16,
    "volume": 62725270,
    "volume_vs_avg": "~2x",
-   "heat_score": 78,
+   "heat_score": 77,
    "direction": "up",
    "why": "Recursion (RXRX) Enters New Growth Phase as Sanofi Kicks Off Drug Collab, Shares Soar",
    "catalyst_type": "momentum_narrative",
@@ -57,6 +57,22 @@
   },
   {
    "rank": 4,
+   "ticker": "HPE",
+   "company": "Hewlett Packard Enterprise Co",
+   "move_pct": -7.07,
+   "price": 58.65,
+   "volume": 34764256,
+   "volume_vs_avg": "~1.4x",
+   "heat_score": 47,
+   "direction": "down",
+   "why": "HPE Stocks Fall 6.3% After Downgrade Puts Server Revenue Under Scrutiny",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/hpe-stocks-fall-6-3-201345191.html",
+   "published": "2026-10-15T20:13:45+00:00",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 5,
    "ticker": "TTD",
    "company": "Trade Desk Inc",
    "move_pct": 7.47,
@@ -70,22 +86,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/ncino-appian-autodesk-trade-desk-200309682.html",
    "published": "2026-10-15T20:03:09+00:00",
    "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 5,
-   "ticker": "HPE",
-   "company": "Hewlett Packard Enterprise Co",
-   "move_pct": -6.92,
-   "price": 58.74,
-   "volume": 34764256,
-   "volume_vs_avg": "~1.4x",
-   "heat_score": 46,
-   "direction": "down",
-   "why": "HPE Stocks Fall 6.3% After Downgrade Puts Server Revenue Under Scrutiny",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/hpe-stocks-fall-6-3-201345191.html",
-   "published": "2026-10-15T20:13:45+00:00",
-   "sector": "Chip Equipment & AI Hardware"
   },
   {
    "rank": 6,

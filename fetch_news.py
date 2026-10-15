@@ -139,7 +139,39 @@ def title_tickers(text, matcher):
     return sorted(set(hits))
 
 
+def _iso(ts):
+    try:
+        return dt.datetime.fromtimestamp(int(ts), dt.timezone.utc).isoformat(timespec="seconds")
+    except (TypeError, ValueError):
+        return str(ts or "")
+
+
+def _search_headlines(symbol):
+    # Yahoo's per-ticker feed (Ticker.news) returns an empty list for every
+    # symbol as of Oct 2026, so the feed went blank. The search endpoint still
+    # returns the same stories, so it is the primary source now.
+    try:
+        raw = yf.Search(symbol, news_count=MAX_PER_SYMBOL, max_results=1).news or []
+    except Exception:
+        return []
+    out = []
+    for n in raw[:MAX_PER_SYMBOL]:
+        if not n.get("title"):
+            continue
+        out.append({
+            "id": n.get("uuid") or n["title"],
+            "title": n["title"],
+            "url": n.get("link", ""),
+            "publisher": n.get("publisher", ""),
+            "published": _iso(n.get("providerPublishTime")),
+        })
+    return out
+
+
 def headlines_for(symbol):
+    found = _search_headlines(symbol)
+    if found:
+        return found
     try:
         items = yf.Ticker(symbol).news or []
     except Exception:
@@ -186,6 +218,11 @@ def main():
         for h in headlines_for(sym):
             merged.setdefault(h["id"], {k: h[k] for k in ("title", "url", "publisher", "published")})
         time.sleep(0.25)
+
+    if not merged:
+        # keep the last good news.json (the panel must not go blank) and fail
+        # loudly so the Actions run shows red instead of publishing nothing
+        sys.exit("fetch_news: 0 headlines collected from any symbol — news.json left unchanged")
 
     # Re-tag every story by what its title actually names; drop the off-topic ones.
     items = []

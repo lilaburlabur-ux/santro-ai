@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-16T22:31:27+00:00",
+  "as_of": "2026-10-16T22:45:03+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "OKTA",
    "company": "Okta Inc",
-   "move_pct": -10.56,
-   "price": 186.49,
+   "move_pct": -10.9,
+   "price": 185.8,
    "volume": 7373989,
    "volume_vs_avg": "~2x",
-   "heat_score": 72,
+   "heat_score": 73,
    "direction": "down",
    "why": "Okta, Datadog, Palantir Technologies, Zscaler, and Elastic Shares Are Falling, What You Need To Know",
    "catalyst_type": "momentum_narrative",
@@ -73,10 +73,26 @@
   },
   {
    "rank": 5,
+   "ticker": "MDB",
+   "company": "MongoDB Inc",
+   "move_pct": -8.08,
+   "price": 336.89,
+   "volume": 2772820,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 58,
+   "direction": "down",
+   "why": "Qualys, DigitalOcean, Twilio, CrowdStrike, and MongoDB Shares Are Falling, What You Need To Know",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/qualys-digitalocean-twilio-crowdstrike-mongodb-193139491.html",
+   "published": "2026-10-16T19:31:39+00:00",
+   "sector": "AI Software & Cloud Infrastructure"
+  },
+  {
+   "rank": 6,
    "ticker": "AI",
    "company": "C3.ai Inc",
-   "move_pct": -7.89,
-   "price": 11.2,
+   "move_pct": -7.81,
+   "price": 11.21,
    "volume": 9714324,
    "volume_vs_avg": "~2x",
    "heat_score": 52,
@@ -88,10 +104,10 @@
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "ticker": "PLTR",
    "company": "Palantir Technologies Inc",
-   "move_pct": -7.91,
+   "move_pct": -7.92,
    "price": 184.63,
    "volume": 33027354,
    "volume_vs_avg": "~1.4x",
@@ -104,36 +120,20 @@
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "ticker": "S",
    "company": "SentinelOne Inc",
-   "move_pct": -7.49,
-   "price": 21.62,
+   "move_pct": -7.31,
+   "price": 21.66,
    "volume": 17656679,
    "volume_vs_avg": "~2x",
-   "heat_score": 50,
+   "heat_score": 49,
    "direction": "down",
    "why": "Dow Jones Futures: S&P 500, Nasdaq Break Key Levels As CoreWeave, Dell Dive; Tesla, SpaceX, Meta Loom",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures%3A-s%26p-500%2C.html",
    "published": "2026-10-16T21:08:07+00:00",
    "sector": "Cybersecurity"
-  },
-  {
-   "rank": 8,
-   "ticker": "MDB",
-   "company": "MongoDB Inc",
-   "move_pct": -7.98,
-   "price": 337.25,
-   "volume": 2772820,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 48,
-   "direction": "down",
-   "why": "Qualys, DigitalOcean, Twilio, CrowdStrike, and MongoDB Shares Are Falling, What You Need To Know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/qualys-digitalocean-twilio-crowdstrike-mongodb-193139491.html",
-   "published": "2026-10-16T19:31:39+00:00",
-   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

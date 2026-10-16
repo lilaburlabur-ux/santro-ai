@@ -59,7 +59,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Revenue (ttm) | $651.12M | Revenue growth 62.20% y/y |
 | Profitability | Gross 69.02%, operating 13.33%, net 5.58% | ROA 3.87%, ROE 4.93% |
 | Balance sheet | Cash $173.30M, debt $38.08M | Current ratio 3.02, debt/equity 4.84 |
-| Valuation | P/E 414.60, forward P/E 32.24, P/S 22.56, P/B 18.05 | EV/Sales 22.40, EV/EBITDA 158.31 |
+| Valuation | P/E 414.60, forward P/E 32.24, P/S 22.61, P/B 18.05 | EV/Sales 22.40, EV/EBITDA 158.31 |
 | Growth expectations | Earnings growth 600.00%, EPS q/q 564.60% | Analyst mean target $164.21 (14 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -117,7 +117,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | P/E (ttm) | 414.60 | Insider ownership | 0.60% |
 | Forward P/E | 32.24 | Short float | 10.80% |
 | PEG (trailing) | — | Avg volume | 1,737,932 |
-| P/S | 22.56 | Employees | 1,174 |
+| P/S | 22.61 | Employees | 1,174 |
 | P/B | 18.05 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions

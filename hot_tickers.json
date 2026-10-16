@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-16T23:15:33+00:00",
+  "as_of": "2026-10-16T23:20:40+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "SNOW",
    "company": "Snowflake Inc",
-   "move_pct": -8.97,
-   "price": 305.0,
+   "move_pct": -8.89,
+   "price": 305.29,
    "volume": 8768700,
    "volume_vs_avg": "~2x",
    "heat_score": 65,
@@ -59,11 +59,11 @@
    "rank": 4,
    "ticker": "PLTR",
    "company": "Palantir Technologies Inc",
-   "move_pct": -8.13,
-   "price": 184.19,
+   "move_pct": -8.36,
+   "price": 183.75,
    "volume": 33027354,
    "volume_vs_avg": "~1.4x",
-   "heat_score": 60,
+   "heat_score": 61,
    "direction": "down",
    "why": "Palantir Stocks Fall 6.6% Although Mizuho Raises Target to $245",
    "catalyst_type": "financing",
@@ -73,6 +73,22 @@
   },
   {
    "rank": 5,
+   "ticker": "PANW",
+   "company": "Palo Alto Networks Inc",
+   "move_pct": -8.01,
+   "price": 340.6,
+   "volume": 8757393,
+   "volume_vs_avg": "~1.5x",
+   "heat_score": 61,
+   "direction": "down",
+   "why": "Stock Market Today: Nasdaq Tanks 2%; Palo Alto Leads Slide In Cybersecurity Space",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/m/13e48d09-0976-3082-81ba-a828960757d8/stock-market-today%3A-nasdaq.html",
+   "published": "2026-10-16T20:36:33+00:00",
+   "sector": "Cybersecurity"
+  },
+  {
+   "rank": 6,
    "ticker": "MDB",
    "company": "MongoDB Inc",
    "move_pct": -8.32,
@@ -88,7 +104,7 @@
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "ticker": "AI",
    "company": "C3.ai Inc",
    "move_pct": -7.62,
@@ -102,22 +118,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/c3-ai-inc-ai-dips-205004686.html",
    "published": "2026-10-16T20:50:04+00:00",
    "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
-   "rank": 7,
-   "ticker": "PANW",
-   "company": "Palo Alto Networks Inc",
-   "move_pct": -7.91,
-   "price": 341.0,
-   "volume": 8757393,
-   "volume_vs_avg": "~1.5x",
-   "heat_score": 50,
-   "direction": "down",
-   "why": "Stock Market Today: Nasdaq Tanks 2%; Palo Alto Leads Slide In Cybersecurity Space",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/m/13e48d09-0976-3082-81ba-a828960757d8/stock-market-today%3A-nasdaq.html",
-   "published": "2026-10-16T20:36:33+00:00",
-   "sector": "Cybersecurity"
   },
   {
    "rank": 8,

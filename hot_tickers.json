@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-16T13:29:27+00:00",
+  "as_of": "2026-10-16T13:44:30+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "VRNS",
+   "company": "Varonis Systems, Inc.",
+   "move_pct": 2.71,
+   "price": 48.62,
+   "volume": 9554181,
+   "volume_vs_avg": "~5x",
+   "heat_score": 52,
+   "direction": "up",
+   "why": "B. Riley Downgrades Varonis Systems to Neutral From Buy, Cuts Price Target to $49.75 From $55",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/b-riley-downgrades-varonis-systems-115056527.html",
+   "published": "2026-10-16T11:50:56+00:00",
+   "sector": "Cybersecurity"
+  }
+ ]
 }

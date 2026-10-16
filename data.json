@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-16T20:10:23+00:00",
-  "as_of_local": "2026-10-16 20:10:23 UTC",
+  "as_of_utc": "2026-10-16T20:15:23+00:00",
+  "as_of_local": "2026-10-16 20:15:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -16,10 +16,10 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 412.59,
+      "price": 412.61,
       "previous_close": 422.25,
-      "change_pct": -2.29,
-      "market_cap": 2139887294030.2349,
+      "change_pct": -2.28,
+      "market_cap": 2139990966530.1895,
       "headlines": []
     },
     {
@@ -55,7 +55,7 @@
       "price": 89.85,
       "previous_close": 95.37,
       "change_pct": -5.79,
-      "market_cap": 472119181384.9791,
+      "market_cap": 474956549724.74347,
       "headlines": []
     },
     {
@@ -100,7 +100,7 @@
       "price": 103.65,
       "previous_close": 107.09,
       "change_pct": -3.21,
-      "market_cap": 14721437909.520996,
+      "market_cap": 14692305729.142128,
       "headlines": []
     },
     {
@@ -135,8 +135,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 46.48,
-      "change_pct": -5.78,
+      "price": 46.45,
+      "change_pct": -5.84,
       "holdings": [
         {
           "symbol": "MU",
@@ -170,8 +170,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 3.84,
-          "price": 13375.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "JPY"
         },
         {
@@ -225,8 +225,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 46.48,
-    "change_pct": -5.78,
+    "price": 46.45,
+    "change_pct": -5.84,
     "holdings": [
       {
         "symbol": "MU",
@@ -260,8 +260,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 3.84,
-        "price": 13375.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "JPY"
       },
       {
@@ -319,13 +319,13 @@
     },
     {
       "label": "BTC",
-      "price": 81557.59,
-      "change_pct": -0.71
+      "price": 81492.15,
+      "change_pct": -0.79
     },
     {
       "label": "Gold",
-      "price": 4189.5,
-      "change_pct": 0.47
+      "price": 4188.0,
+      "change_pct": 0.43
     },
     {
       "label": "Nasdaq100",

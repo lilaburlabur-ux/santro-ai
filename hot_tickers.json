@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-16T01:36:01+00:00",
+  "as_of": "2026-10-16T02:40:10+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "DELL",
-   "company": "Dell Technologies Inc",
-   "move_pct": -6.8,
-   "price": 473.39,
-   "volume": 16383200,
-   "volume_vs_avg": "~2x",
-   "heat_score": 48,
-   "direction": "down",
-   "why": "Dell stock tumbles 8% in a day. Here\u2019s why",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-tumbles-8-day-222519138.html",
-   "published": "2026-10-15T22:25:19+00:00",
-   "sector": "Chip Equipment & AI Hardware"
-  }
- ]
+ "hot_tickers": []
 }

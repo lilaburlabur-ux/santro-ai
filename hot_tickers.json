@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-16T22:29:53+00:00",
+  "as_of": "2026-10-16T22:31:27+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -89,6 +89,22 @@
   },
   {
    "rank": 6,
+   "ticker": "PLTR",
+   "company": "Palantir Technologies Inc",
+   "move_pct": -7.91,
+   "price": 184.63,
+   "volume": 33027354,
+   "volume_vs_avg": "~1.4x",
+   "heat_score": 50,
+   "direction": "down",
+   "why": "Palantir Stocks Fall 6.6% Although Mizuho Raises Target to $245",
+   "catalyst_type": "financing",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stocks-fall-6-6-203109076.html",
+   "published": "2026-10-16T20:31:09+00:00",
+   "sector": "AI Software & Cloud Infrastructure"
+  },
+  {
+   "rank": 7,
    "ticker": "S",
    "company": "SentinelOne Inc",
    "move_pct": -7.49,
@@ -102,22 +118,6 @@
    "source_url": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures%3A-s%26p-500%2C.html",
    "published": "2026-10-16T21:08:07+00:00",
    "sector": "Cybersecurity"
-  },
-  {
-   "rank": 7,
-   "ticker": "PLTR",
-   "company": "Palantir Technologies Inc",
-   "move_pct": -7.86,
-   "price": 184.75,
-   "volume": 33027354,
-   "volume_vs_avg": "~1.4x",
-   "heat_score": 49,
-   "direction": "down",
-   "why": "Palantir Stocks Fall 6.6% Although Mizuho Raises Target to $245",
-   "catalyst_type": "financing",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stocks-fall-6-6-203109076.html",
-   "published": "2026-10-16T20:31:09+00:00",
-   "sector": "AI Software & Cloud Infrastructure"
   },
   {
    "rank": 8,

@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-16T09:45:35+00:00",
+  "as_of": "2026-10-16T10:00:51+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "TSLA",
-   "company": "Tesla Inc",
-   "move_pct": 5.15,
-   "price": 381.11,
-   "volume": 26614300,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "Elon Musk's net worth could reach $2 trillion as a rumored SpaceX-Tesla merger may be just weeks away, analyst predicts",
-   "catalyst_type": "mna",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-net-worth-could-090000357.html",
-   "published": "2026-10-16T09:00:00+00:00",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  }
- ]
+ "hot_tickers": []
 }

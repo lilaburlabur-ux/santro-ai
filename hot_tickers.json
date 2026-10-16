@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-16T22:24:40+00:00",
+  "as_of": "2026-10-16T22:29:53+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -57,6 +57,22 @@
   },
   {
    "rank": 4,
+   "ticker": "PANW",
+   "company": "Palo Alto Networks Inc",
+   "move_pct": -8.15,
+   "price": 340.1,
+   "volume": 8757393,
+   "volume_vs_avg": "~1.5x",
+   "heat_score": 61,
+   "direction": "down",
+   "why": "Stock Market Today: Nasdaq Tanks 2%; Palo Alto Leads Slide In Cybersecurity Space",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/m/13e48d09-0976-3082-81ba-a828960757d8/stock-market-today%3A-nasdaq.html",
+   "published": "2026-10-16T20:36:33+00:00",
+   "sector": "Cybersecurity"
+  },
+  {
+   "rank": 5,
    "ticker": "AI",
    "company": "C3.ai Inc",
    "move_pct": -7.89,
@@ -70,22 +86,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/c3-ai-inc-ai-dips-205004686.html",
    "published": "2026-10-16T20:50:04+00:00",
    "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
-   "rank": 5,
-   "ticker": "PANW",
-   "company": "Palo Alto Networks Inc",
-   "move_pct": -7.91,
-   "price": 341.0,
-   "volume": 8757393,
-   "volume_vs_avg": "~1.5x",
-   "heat_score": 50,
-   "direction": "down",
-   "why": "Stock Market Today: Nasdaq Tanks 2%; Palo Alto Leads Slide In Cybersecurity Space",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/m/13e48d09-0976-3082-81ba-a828960757d8/stock-market-today%3A-nasdaq.html",
-   "published": "2026-10-16T20:36:33+00:00",
-   "sector": "Cybersecurity"
   },
   {
    "rank": 6,
@@ -107,8 +107,8 @@
    "rank": 7,
    "ticker": "PLTR",
    "company": "Palantir Technologies Inc",
-   "move_pct": -7.8,
-   "price": 184.86,
+   "move_pct": -7.86,
+   "price": 184.75,
    "volume": 33027354,
    "volume_vs_avg": "~1.4x",
    "heat_score": 49,

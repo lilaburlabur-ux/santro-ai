@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-16T21:36:57+00:00",
+  "as_of": "2026-10-16T21:39:09+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "OKTA",
    "company": "Okta Inc",
-   "move_pct": -10.27,
-   "price": 187.1,
+   "move_pct": -10.45,
+   "price": 186.72,
    "volume": 7373989,
    "volume_vs_avg": "~2x",
-   "heat_score": 71,
+   "heat_score": 72,
    "direction": "down",
    "why": "Okta, Datadog, Palantir Technologies, Zscaler, and Elastic Shares Are Falling, What You Need To Know",
    "catalyst_type": "momentum_narrative",
@@ -57,22 +57,6 @@
   },
   {
    "rank": 4,
-   "ticker": "PLTR",
-   "company": "Palantir Technologies Inc",
-   "move_pct": -7.66,
-   "price": 185.15,
-   "volume": 33027354,
-   "volume_vs_avg": "~1.4x",
-   "heat_score": 49,
-   "direction": "down",
-   "why": "Palantir Stocks Fall 6.6% Although Mizuho Raises Target to $245",
-   "catalyst_type": "financing",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stocks-fall-6-6-203109076.html",
-   "published": "2026-10-16T20:31:09+00:00",
-   "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
-   "rank": 5,
    "ticker": "PANW",
    "company": "Palo Alto Networks Inc",
    "move_pct": -7.47,
@@ -88,7 +72,7 @@
    "sector": "Cybersecurity"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "ticker": "S",
    "company": "SentinelOne Inc",
    "move_pct": -7.36,
@@ -102,6 +86,22 @@
    "source_url": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures%3A-s%26p-500%2C.html",
    "published": "2026-10-16T21:08:07+00:00",
    "sector": "Cybersecurity"
+  },
+  {
+   "rank": 6,
+   "ticker": "PLTR",
+   "company": "Palantir Technologies Inc",
+   "move_pct": -7.58,
+   "price": 185.3,
+   "volume": 33027354,
+   "volume_vs_avg": "~1.4x",
+   "heat_score": 48,
+   "direction": "down",
+   "why": "Palantir Stocks Fall 6.6% Although Mizuho Raises Target to $245",
+   "catalyst_type": "financing",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stocks-fall-6-6-203109076.html",
+   "published": "2026-10-16T20:31:09+00:00",
+   "sector": "AI Software & Cloud Infrastructure"
   },
   {
    "rank": 7,

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-19T14:49:49+00:00",
+  "as_of": "2026-10-19T15:05:01+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,12 +9,28 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "MRVL",
+   "company": "Marvell Technology Inc",
+   "move_pct": 6.15,
+   "price": 241.84,
+   "volume": 5680037,
+   "volume_vs_avg": "~0.3x",
+   "heat_score": 38,
+   "direction": "up",
+   "why": "Google\u2019s Next AI Chip Is Running Late. Why Marvell May Be Fine",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/google-next-ai-chip-running-133854381.html",
+   "published": "2026-10-19T13:38:54+00:00",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
    "ticker": "DDOG",
    "company": "Datadog Inc",
-   "move_pct": 6.25,
-   "price": 262.55,
-   "volume": 748577,
-   "volume_vs_avg": "~0.2x",
+   "move_pct": 6.15,
+   "price": 262.3,
+   "volume": 819456,
+   "volume_vs_avg": "~0.3x",
    "heat_score": 38,
    "direction": "up",
    "why": "Datadog Gets $350 Target as Bernstein Reverses Its Downgrade",
@@ -22,22 +38,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/datadog-gets-350-target-bernstein-142145378.html",
    "published": "2026-10-19T14:21:45+00:00",
    "sector": "AI Applications & Data Software"
-  },
-  {
-   "rank": 2,
-   "ticker": "MRVL",
-   "company": "Marvell Technology Inc",
-   "move_pct": 5.62,
-   "price": 240.65,
-   "volume": 4990078,
-   "volume_vs_avg": "~0.3x",
-   "heat_score": 36,
-   "direction": "up",
-   "why": "Google\u2019s Next AI Chip Is Running Late. Why Marvell May Be Fine",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/google-next-ai-chip-running-133854381.html",
-   "published": "2026-10-19T13:38:54+00:00",
-   "sector": "AI Chips & Compute"
   }
  ]
 }

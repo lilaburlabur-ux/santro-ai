@@ -364,7 +364,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
       <tr><td>Ticker</td><td><b>SKHY</b></td></tr>
       <tr><td>Company</td><td>SK hynix Inc (ADR)</td></tr>
       <tr><td>Price</td><td>$169.84</td></tr>
-      <tr><td>Market cap</td><td>$1199.1B</td></tr>
+      <tr><td>Market cap</td><td>$1.20T</td></tr>
       <tr><td>Sector / industry</td><td>Technology / Semiconductors - Memory</td></tr>
       <tr><td>Performance</td><td>—</td></tr>
     </table>
@@ -549,7 +549,7 @@ arm();mq.addEventListener?mq.addEventListener("change",arm):mq.addListener(arm);
   const cell=l=>{const r=rows.find(r=>r.cells[0].textContent.trim()===l); return r?r.cells[1]:null;};
   const pc=cell("Price");
   if(pc){const ch=x.change_pct; pc.innerHTML="$"+x.price.toFixed(2)+(ch!=null?' <span style="color:'+(ch>=0?"#22c55e":"#f05a6e")+';font-weight:700">'+fmt(ch)+" today</span>":"");}
-  const mc=cell("Market cap"); if(mc&&x.market_cap_b) mc.textContent="$"+x.market_cap_b.toFixed(2)+"B";
+  const mc=cell("Market cap"); if(mc&&x.market_cap_b) mc.textContent=(x.market_cap_b>=1000?"$"+(x.market_cap_b/1000).toFixed(2)+"T":"$"+x.market_cap_b.toFixed(1)+"B");
   const pf=cell("Performance"); if(pf&&x.perf) pf.textContent="1W "+fmt(x.perf["1W"])+" · 1M "+fmt(x.perf["1M"])+" · 1Y "+fmt(x.perf["1Y"]);
   const sp=document.querySelector(".tkp h2 span");
   if(sp&&u.meta&&u.meta.as_of) sp.textContent="· delayed ~15 min · "+u.meta.as_of;
@@ -568,7 +568,7 @@ arm();mq.addEventListener?mq.addEventListener("change",arm):mq.addListener(arm);
   const cell=l=>{const r=rows.find(r=>r.cells[0].textContent.trim()===l); return r?r.cells[1]:null;};
   const pc=cell("Price");
   if(pc){const ch=x.change_pct; pc.innerHTML="$"+x.price.toFixed(2)+(ch!=null?' <span style="color:'+(ch>=0?"#22c55e":"#f05a6e")+';font-weight:700">'+fmt(ch)+" today</span>":"");}
-  const mc=cell("Market cap"); if(mc&&x.market_cap_b) mc.textContent="$"+x.market_cap_b.toFixed(2)+"B";
+  const mc=cell("Market cap"); if(mc&&x.market_cap_b) mc.textContent=(x.market_cap_b>=1000?"$"+(x.market_cap_b/1000).toFixed(2)+"T":"$"+x.market_cap_b.toFixed(1)+"B");
   const pf=cell("Performance"); if(pf&&x.perf) pf.textContent="1W "+fmt(x.perf["1W"])+" · 1M "+fmt(x.perf["1M"])+" · 1Y "+fmt(x.perf["1Y"]);
   const sp=document.querySelector(".tkp h2 span");
   if(sp&&u.meta&&u.meta.as_of) sp.textContent="· delayed ~15 min · "+u.meta.as_of;

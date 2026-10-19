@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-19T18:34:37+00:00",
+  "as_of": "2026-10-19T18:49:53+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,9 +11,9 @@
    "rank": 1,
    "ticker": "DDOG",
    "company": "Datadog Inc",
-   "move_pct": 6.24,
-   "price": 262.54,
-   "volume": 1715833,
+   "move_pct": 6.2,
+   "price": 262.43,
+   "volume": 1754993,
    "volume_vs_avg": "~0.6x",
    "heat_score": 40,
    "direction": "up",

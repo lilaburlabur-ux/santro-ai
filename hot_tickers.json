@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-19T19:05:02+00:00",
+  "as_of": "2026-10-19T19:20:10+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,35 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "DDOG",
-   "company": "Datadog Inc",
-   "move_pct": 6.1,
-   "price": 262.19,
-   "volume": 1817160,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 39,
-   "direction": "up",
-   "why": "Datadog Shares Rise After Bernstein Upgrade",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/datadog-shares-rise-bernstein-upgrade-181731639.html",
-   "published": "2026-10-19T18:17:31+00:00",
-   "sector": "AI Applications & Data Software"
-  },
-  {
-   "rank": 2,
    "ticker": "AMZN",
    "company": "Amazon.com Inc",
-   "move_pct": 5.04,
-   "price": 262.6,
-   "volume": 36291902,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 38,
+   "move_pct": 5.34,
+   "price": 263.35,
+   "volume": 37307966,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 39,
    "direction": "up",
    "why": "Stocks to Watch: Amazon, CoreWeave, French Banks",
    "catalyst_type": "regulatory",
    "source_url": "https://finance.yahoo.com/m/c5b53f62-e189-3600-9c7a-c0702ac39349/stocks-to-watch%3A-amazon%2C.html",
    "published": "2026-10-19T18:28:58+00:00",
    "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 2,
+   "ticker": "DDOG",
+   "company": "Datadog Inc",
+   "move_pct": 5.7,
+   "price": 261.2,
+   "volume": 1869518,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 38,
+   "direction": "up",
+   "why": "Datadog Shares Rise After Bernstein Upgrade",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/datadog-shares-rise-bernstein-upgrade-181731639.html",
+   "published": "2026-10-19T18:17:31+00:00",
+   "sector": "AI Applications & Data Software"
   }
  ]
 }

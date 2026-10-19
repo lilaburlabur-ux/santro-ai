@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-19T17:37:45+00:00",
+  "as_of": "2026-10-19T17:43:51+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,9 +11,9 @@
    "rank": 1,
    "ticker": "DDOG",
    "company": "Datadog Inc",
-   "move_pct": 6.31,
-   "price": 262.71,
-   "volume": 1540780,
+   "move_pct": 6.47,
+   "price": 263.1,
+   "volume": 1555842,
    "volume_vs_avg": "~0.5x",
    "heat_score": 40,
    "direction": "up",
@@ -25,35 +25,35 @@
   },
   {
    "rank": 2,
-   "ticker": "MRVL",
-   "company": "Marvell Technology Inc",
-   "move_pct": 5.1,
-   "price": 239.46,
-   "volume": 10993276,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 36,
-   "direction": "up",
-   "why": "Marvell Jumps 6% as GF Securities Says Google Chip Delay Won\u2019t Dent Its Position; Broadcom Rises 3%",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-jumps-6-gf-securities-170826594.html",
-   "published": "2026-10-19T17:08:26+00:00",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 3,
    "ticker": "PLTR",
    "company": "Palantir Technologies Inc",
-   "move_pct": 5.19,
-   "price": 195.69,
-   "volume": 15286322,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 36,
+   "move_pct": 5.45,
+   "price": 196.16,
+   "volume": 15534492,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 37,
    "direction": "up",
    "why": "Why Palantir Technologies Stock Rallied Today",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-technologies-stock-rallied-165107497.html",
    "published": "2026-10-19T16:51:07+00:00",
    "sector": "AI Software & Cloud Infrastructure"
+  },
+  {
+   "rank": 3,
+   "ticker": "AMZN",
+   "company": "Amazon.com Inc",
+   "move_pct": 5.07,
+   "price": 262.67,
+   "volume": 32892913,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 37,
+   "direction": "up",
+   "why": "Stock Market Today: Dow Firm, Nasdaq Rallies; Amazon Surges As These Stocks Test Entries (Live Coverage)",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/m/ee2fc04a-d21b-3b33-b9d2-0baa749bd849/stock-market-today%3A-dow-firm%2C.html",
+   "published": "2026-10-19T17:10:15+00:00",
+   "sector": "AI Platforms, Internet & AdTech"
   }
  ]
 }

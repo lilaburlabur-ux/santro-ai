@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-19T17:43:51+00:00",
+  "as_of": "2026-10-19T17:59:03+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "DDOG",
    "company": "Datadog Inc",
-   "move_pct": 6.47,
-   "price": 263.1,
-   "volume": 1555842,
+   "move_pct": 6.26,
+   "price": 262.57,
+   "volume": 1593587,
    "volume_vs_avg": "~0.5x",
-   "heat_score": 40,
+   "heat_score": 39,
    "direction": "up",
    "why": "Datadog Gets $350 Target as Bernstein Reverses Its Downgrade",
    "catalyst_type": "analyst_action",
@@ -27,33 +27,17 @@
    "rank": 2,
    "ticker": "PLTR",
    "company": "Palantir Technologies Inc",
-   "move_pct": 5.45,
-   "price": 196.16,
-   "volume": 15534492,
+   "move_pct": 5.14,
+   "price": 195.59,
+   "volume": 15921527,
    "volume_vs_avg": "~0.7x",
-   "heat_score": 37,
+   "heat_score": 36,
    "direction": "up",
    "why": "Why Palantir Technologies Stock Rallied Today",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-technologies-stock-rallied-165107497.html",
    "published": "2026-10-19T16:51:07+00:00",
    "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
-   "rank": 3,
-   "ticker": "AMZN",
-   "company": "Amazon.com Inc",
-   "move_pct": 5.07,
-   "price": 262.67,
-   "volume": 32892913,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "Stock Market Today: Dow Firm, Nasdaq Rallies; Amazon Surges As These Stocks Test Entries (Live Coverage)",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/m/ee2fc04a-d21b-3b33-b9d2-0baa749bd849/stock-market-today%3A-dow-firm%2C.html",
-   "published": "2026-10-19T17:10:15+00:00",
-   "sector": "AI Platforms, Internet & AdTech"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-20T13:07:36+00:00",
+  "as_of": "2026-10-20T13:13:04+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "SMR",
    "company": "NuScale Power Corp",
-   "move_pct": -7.54,
-   "price": 5.26,
+   "move_pct": -7.38,
+   "price": 5.27,
    "volume": 17331600,
    "volume_vs_avg": "~0.5x",
-   "heat_score": 44,
+   "heat_score": 43,
    "direction": "down",
    "why": "SMR Stock Sinks Premarket As Barclays Cuts Rating, Warns Of Commercial Execution Risks",
    "catalyst_type": "momentum_narrative",

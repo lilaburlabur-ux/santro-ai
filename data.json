@@ -1,133 +1,126 @@
 {
-  "as_of_utc": "2026-10-20T15:09:40+00:00",
-  "as_of_local": "2026-10-20 15:09:40 UTC",
+  "as_of_utc": "2026-10-20T15:14:44+00:00",
+  "as_of_local": "2026-10-20 15:14:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEVA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 217.69,
+      "price": 216.3,
       "previous_close": 217.09,
-      "change_pct": 0.28,
-      "market_cap": 5256318783142.09,
+      "change_pct": -0.36,
+      "market_cap": 5223268829635.62,
       "headlines": []
     },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 426.99,
+      "price": 424.54,
       "previous_close": 420.22,
-      "change_pct": 1.61,
-      "market_cap": 2214572488161.71,
+      "change_pct": 1.03,
+      "market_cap": 2201943436602.3447,
       "headlines": []
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 337.38,
+      "price": 335.01,
       "previous_close": 334.59,
-      "change_pct": 0.83,
-      "market_cap": 1610425582786.0427,
+      "change_pct": 0.13,
+      "market_cap": 1599786599966.1895,
       "headlines": []
     },
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 916.67,
+      "price": 908.0,
       "previous_close": 904.9,
-      "change_pct": 1.3,
-      "market_cap": 1036988943225.5193,
+      "change_pct": 0.34,
+      "market_cap": 1027473704397.5,
       "headlines": []
     },
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 544.95,
+      "price": 539.8,
       "previous_close": 538.05,
-      "change_pct": 1.28,
-      "market_cap": 890033583172.3534,
+      "change_pct": 0.33,
+      "market_cap": 881748752406.5295,
       "headlines": []
     },
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 93.61,
+      "price": 92.61,
       "previous_close": 92.03,
-      "change_pct": 1.71,
-      "market_cap": 491771098578.19995,
+      "change_pct": 0.62,
+      "market_cap": 487252242829.0459,
       "headlines": []
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 225.35,
+      "price": 222.65,
       "previous_close": 228.05,
-      "change_pct": -1.18,
-      "market_cap": 240565178401.68073,
+      "change_pct": -2.37,
+      "market_cap": 237779200750.30542,
       "headlines": []
     },
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 241.81,
+      "price": 238.98,
       "previous_close": 237.09,
-      "change_pct": 1.99,
-      "market_cap": 217351716139.30765,
+      "change_pct": 0.8,
+      "market_cap": 215239754813.5,
       "headlines": []
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 175.6,
+      "price": 174.37,
       "previous_close": 173.53,
-      "change_pct": 1.19,
-      "market_cap": 187619398121.11243,
+      "change_pct": 0.48,
+      "market_cap": 186215186562.37738,
       "headlines": []
     },
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 238.73,
+      "price": 237.03,
       "previous_close": 230.19,
-      "change_pct": 3.71,
-      "market_cap": 60199152181.65842,
+      "change_pct": 2.97,
+      "market_cap": 59785603090.207214,
       "headlines": []
     },
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 109.1,
+      "price": 107.73,
       "previous_close": 108.73,
-      "change_pct": 0.34,
-      "market_cap": 15495502458.479004,
+      "change_pct": -0.92,
+      "market_cap": 15303761808.0,
       "headlines": []
     },
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 119.15,
+      "price": 117.8,
       "previous_close": 117.9,
-      "change_pct": 1.06,
-      "market_cap": 6055540684.77301,
+      "change_pct": -0.08,
+      "market_cap": 5986170535.107742,
       "headlines": []
     },
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 117.72,
+      "price": 117.54,
       "previous_close": 117.05,
-      "change_pct": 0.57,
-      "market_cap": 4673250227.422295,
-      "headlines": []
-    },
-    {
-      "symbol": "CEVA",
-      "name": "CEVA",
-      "price": 28.89,
-      "previous_close": 28.78,
-      "change_pct": 0.36,
-      "market_cap": 813230376.1639557,
+      "change_pct": 0.42,
+      "market_cap": 4666501064.327705,
       "headlines": []
     }
   ],
@@ -135,16 +128,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 48.3,
-      "change_pct": -0.06,
+      "price": 47.8,
+      "change_pct": -1.1,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 1.3,
-          "price": 916.67,
+          "change_pct": 0.34,
+          "price": 908.0,
           "currency": "USD"
         },
         {
@@ -179,8 +172,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 0.76,
-          "price": 1381.51,
+          "change_pct": -0.15,
+          "price": 1369.01,
           "currency": "USD"
         },
         {
@@ -188,8 +181,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 2.16,
-          "price": 675.11,
+          "change_pct": 1.52,
+          "price": 670.88,
           "currency": "USD"
         },
         {
@@ -197,8 +190,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 1.84,
-          "price": 358.7,
+          "change_pct": 0.99,
+          "price": 355.71,
           "currency": "USD"
         },
         {
@@ -225,16 +218,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 48.3,
-    "change_pct": -0.06,
+    "price": 47.8,
+    "change_pct": -1.1,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 1.3,
-        "price": 916.67,
+        "change_pct": 0.34,
+        "price": 908.0,
         "currency": "USD"
       },
       {
@@ -269,8 +262,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 0.76,
-        "price": 1381.51,
+        "change_pct": -0.15,
+        "price": 1369.01,
         "currency": "USD"
       },
       {
@@ -278,8 +271,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 2.16,
-        "price": 675.11,
+        "change_pct": 1.52,
+        "price": 670.88,
         "currency": "USD"
       },
       {
@@ -287,8 +280,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 1.84,
-        "price": 358.7,
+        "change_pct": 0.99,
+        "price": 355.71,
         "currency": "USD"
       },
       {
@@ -314,23 +307,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7738.47,
-      "change_pct": 0.62
+      "price": 7708.24,
+      "change_pct": 0.23
     },
     {
       "label": "BTC",
-      "price": 82977.29,
-      "change_pct": 1.37
+      "price": 82263.01,
+      "change_pct": 0.5
     },
     {
       "label": "Gold",
-      "price": 4161.1,
-      "change_pct": 0.02
+      "price": 4160.4,
+      "change_pct": 0.01
     },
     {
       "label": "Nasdaq100",
-      "price": 29669.92,
-      "change_pct": 0.48
+      "price": 29511.89,
+      "change_pct": -0.06
     }
   ]
 }

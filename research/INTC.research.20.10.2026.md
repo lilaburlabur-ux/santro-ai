@@ -18,7 +18,7 @@ Signed file: `INTC.research.20.10.2026`
 | Technical momentum | High | 1Y +147.74%; price +7.75% vs SMA200. |
 | Fresh setup quality | Poor / broken | -34.94% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-19.79%). |
-| Value attractiveness | Low (expensive) | Forward P/E 43.41, EV/Sales 8.78. |
+| Value attractiveness | Low (expensive) | Forward P/E 43.41, EV/Sales 8.75. |
 | Risk level | High | Beta 2.23, ATR 6.3% of price, short float 3.16%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: low (expensive), risk: high.
@@ -59,7 +59,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $57.03B | Revenue growth 25.40% y/y |
 | Profitability | Gross 38.87%, operating 12.19%, net -19.79% | ROA 1.41%, ROE -10.71% |
 | Balance sheet | Cash $29.73B, debt $50.54B | Current ratio 1.60, debt/equity 49.00 |
-| Valuation | P/E —, forward P/E 43.41, P/S 8.50, P/B 5.28 | EV/Sales 8.78, EV/EBITDA 29.73 |
+| Valuation | P/E —, forward P/E 43.41, P/S 8.50, P/B 5.28 | EV/Sales 8.75, EV/EBITDA 29.62 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $117.37 (43 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Primecap Management Company | 75,250,958 | 1.49% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 43.41, EV/Sales 8.78. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 43.41, EV/Sales 8.75. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.23, ATR 6.3% of price, short float 3.16%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -104,8 +104,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $91.69 | EV/Sales | 8.78 |
-| Market cap | $484.68B | EV/EBITDA | 29.73 |
+| Price | $91.69 | EV/Sales | 8.75 |
+| Market cap | $484.68B | EV/EBITDA | 29.62 |
 | Beta | 2.23 | Gross margin | 38.87% |
 | RSI(14) | 34.4 | Operating margin | 12.19% |
 | ATR(14) | 5.76 | Profit margin | -19.79% |

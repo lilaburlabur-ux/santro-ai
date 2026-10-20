@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-20T01:58:44+00:00",
-  "as_of_local": "2026-10-20 01:58:44 UTC",
+  "as_of_utc": "2026-10-20T02:03:51+00:00",
+  "as_of_local": "2026-10-20 02:03:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -50,15 +52,6 @@
       "headlines": []
     },
     {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 92.03,
-      "previous_close": 89.85,
-      "change_pct": 2.43,
-      "market_cap": 486480260809.0948,
-      "headlines": []
-    },
-    {
       "symbol": "ARM",
       "name": "Arm Holdings",
       "price": 228.05,
@@ -100,7 +93,7 @@
       "price": 108.73,
       "previous_close": 103.65,
       "change_pct": 4.9,
-      "market_cap": 15412391970.412682,
+      "market_cap": 15442951951.346191,
       "headlines": []
     },
     {
@@ -152,8 +145,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -4.39,
-          "price": 1221000.0,
+          "change_pct": -3.84,
+          "price": 1228000.0,
           "currency": "KRW"
         },
         {
@@ -161,8 +154,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -1.83,
-          "price": 214000.0,
+          "change_pct": -1.72,
+          "price": 214250.0,
           "currency": "KRW"
         },
         {
@@ -170,8 +163,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -1.47,
-          "price": 13400.0,
+          "change_pct": -0.96,
+          "price": 13470.0,
           "currency": "JPY"
         },
         {
@@ -206,8 +199,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -1.61,
-          "price": 429.0,
+          "change_pct": -0.92,
+          "price": 432.0,
           "currency": "TWD"
         },
         {
@@ -215,8 +208,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 0.32,
-          "price": 156.0,
+          "change_pct": 0.96,
+          "price": 157.0,
           "currency": "TWD"
         }
       ]
@@ -242,8 +235,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -4.39,
-        "price": 1221000.0,
+        "change_pct": -3.84,
+        "price": 1228000.0,
         "currency": "KRW"
       },
       {
@@ -251,8 +244,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -1.83,
-        "price": 214000.0,
+        "change_pct": -1.72,
+        "price": 214250.0,
         "currency": "KRW"
       },
       {
@@ -260,8 +253,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -1.47,
-        "price": 13400.0,
+        "change_pct": -0.96,
+        "price": 13470.0,
         "currency": "JPY"
       },
       {
@@ -296,8 +289,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -1.61,
-        "price": 429.0,
+        "change_pct": -0.92,
+        "price": 432.0,
         "currency": "TWD"
       },
       {
@@ -305,8 +298,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 0.32,
-        "price": 156.0,
+        "change_pct": 0.96,
+        "price": 157.0,
         "currency": "TWD"
       }
     ]
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 81656.99,
-      "change_pct": -0.44
+      "price": 81550.3,
+      "change_pct": -0.57
     },
     {
       "label": "Gold",
-      "price": 4144.7,
-      "change_pct": -0.87
+      "price": 4144.3,
+      "change_pct": -0.88
     },
     {
       "label": "Nasdaq100",

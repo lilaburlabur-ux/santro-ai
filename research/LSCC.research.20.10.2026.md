@@ -5,7 +5,7 @@ Signed file: `LSCC.research.20.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $107.41 (2026-10-20, ~15-min delayed) |
-| Market cap | $15.26B |
+| Market cap | $15.23B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
@@ -59,7 +59,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Revenue (ttm) | $651.12M | Revenue growth 62.20% y/y |
 | Profitability | Gross 69.02%, operating 13.33%, net 5.58% | ROA 3.87%, ROE 4.93% |
 | Balance sheet | Cash $173.30M, debt $38.08M | Current ratio 3.02, debt/equity 4.84 |
-| Valuation | P/E 429.64, forward P/E 33.36, P/S 23.43, P/B 18.71 | EV/Sales 23.51, EV/EBITDA 166.14 |
+| Valuation | P/E 429.64, forward P/E 33.36, P/S 23.38, P/B 18.71 | EV/Sales 23.51, EV/EBITDA 166.14 |
 | Growth expectations | Earnings growth 600.00%, EPS q/q 564.60% | Analyst mean target $161.71 (14 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -105,7 +105,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $107.41 | EV/Sales | 23.51 |
-| Market cap | $15.26B | EV/EBITDA | 166.14 |
+| Market cap | $15.23B | EV/EBITDA | 166.14 |
 | Beta | 1.83 | Gross margin | 69.02% |
 | RSI(14) | 37.3 | Operating margin | 13.33% |
 | ATR(14) | 5.92 | Profit margin | 5.58% |
@@ -117,7 +117,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | P/E (ttm) | 429.64 | Insider ownership | 0.59% |
 | Forward P/E | 33.36 | Short float | 10.80% |
 | PEG (trailing) | — | Avg volume | 1,763,735 |
-| P/S | 23.43 | Employees | 1,174 |
+| P/S | 23.38 | Employees | 1,174 |
 | P/B | 18.71 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions

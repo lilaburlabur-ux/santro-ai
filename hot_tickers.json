@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-20T12:32:05+00:00",
+  "as_of": "2026-10-20T12:47:07+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "SMR",
    "company": "NuScale Power Corp",
-   "move_pct": -7.73,
-   "price": 5.25,
+   "move_pct": -7.38,
+   "price": 5.27,
    "volume": 17331600,
    "volume_vs_avg": "~0.5x",
-   "heat_score": 44,
+   "heat_score": 43,
    "direction": "down",
-   "why": "Barclays Downgrades NuScale Power to Underweight From Equalweight, $5 Price Target",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/barclays-downgrades-nuscale-power-underweight-110912624.html",
-   "published": "2026-10-20T11:09:12+00:00",
+   "why": "SMR Stock Sinks Premarket As Barclays Cuts Rating, Warns Of Commercial Execution Risks",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/smr-stock-sinks-premarket-barclays-121632582.html",
+   "published": "2026-10-20T12:16:32+00:00",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]

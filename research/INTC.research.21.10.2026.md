@@ -60,7 +60,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Profitability | Gross 38.87%, operating 12.19%, net -19.79% | ROA 1.41%, ROE -10.71% |
 | Balance sheet | Cash $29.73B, debt $50.54B | Current ratio 1.60, debt/equity 49.00 |
 | Valuation | P/E —, forward P/E 44.01, P/S 8.62, P/B 5.36 | EV/Sales 8.75, EV/EBITDA 29.63 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $117.37 (43 analysts) |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $117.14 (43 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

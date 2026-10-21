@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-21T21:53:16+00:00",
+  "as_of": "2026-10-21T21:57:12+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -25,6 +25,22 @@
   },
   {
    "rank": 2,
+   "ticker": "ZS",
+   "company": "Zscaler Inc",
+   "move_pct": 8.39,
+   "price": 232.5,
+   "volume": 2762432,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 59,
+   "direction": "up",
+   "why": "Zscaler and Tenable shares are soaring, what you need to know",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/zscaler-tenable-shares-soaring-know-204639252.html",
+   "published": "2026-10-21T20:46:39+00:00",
+   "sector": "Cybersecurity"
+  },
+  {
+   "rank": 3,
    "ticker": "OKTA",
    "company": "Okta Inc",
    "move_pct": 8.24,
@@ -40,27 +56,11 @@
    "sector": "Cybersecurity"
   },
   {
-   "rank": 3,
-   "ticker": "ZS",
-   "company": "Zscaler Inc",
-   "move_pct": 8.15,
-   "price": 232.0,
-   "volume": 2762432,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 58,
-   "direction": "up",
-   "why": "Zscaler and Tenable shares are soaring, what you need to know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/zscaler-tenable-shares-soaring-know-204639252.html",
-   "published": "2026-10-21T20:46:39+00:00",
-   "sector": "Cybersecurity"
-  },
-  {
    "rank": 4,
    "ticker": "SPCX",
    "company": "SpaceX",
-   "move_pct": 7.04,
-   "price": 158.2,
+   "move_pct": 7.0,
+   "price": 158.13,
    "volume": 218416864,
    "volume_vs_avg": "~2x",
    "heat_score": 51,
@@ -75,8 +75,8 @@
    "rank": 5,
    "ticker": "LRCX",
    "company": "Lam Research Corp",
-   "move_pct": -6.62,
-   "price": 246.0,
+   "move_pct": -6.51,
+   "price": 246.3,
    "volume": 15261196,
    "volume_vs_avg": "~2x",
    "heat_score": 46,
@@ -89,6 +89,22 @@
   },
   {
    "rank": 6,
+   "ticker": "DDOG",
+   "company": "Datadog Inc",
+   "move_pct": 6.94,
+   "price": 274.23,
+   "volume": 2877680,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 44,
+   "direction": "up",
+   "why": "3 Big Reasons to Love Datadog (DDOG)",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/3-big-reasons-love-datadog-185439074.html",
+   "published": "2026-10-21T18:54:39+00:00",
+   "sector": "AI Applications & Data Software"
+  },
+  {
+   "rank": 7,
    "ticker": "NET",
    "company": "Cloudflare Inc",
    "move_pct": 6.62,
@@ -102,22 +118,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/rapid7-crowdstrike-cloudflare-okta-jfrog-203839922.html",
    "published": "2026-10-21T20:38:39+00:00",
    "sector": "Cybersecurity"
-  },
-  {
-   "rank": 7,
-   "ticker": "DDOG",
-   "company": "Datadog Inc",
-   "move_pct": 6.5,
-   "price": 273.09,
-   "volume": 2877680,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 43,
-   "direction": "up",
-   "why": "3 Big Reasons to Love Datadog (DDOG)",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/3-big-reasons-love-datadog-185439074.html",
-   "published": "2026-10-21T18:54:39+00:00",
-   "sector": "AI Applications & Data Software"
   },
   {
    "rank": 8,

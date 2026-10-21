@@ -1,10 +1,43 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-21T02:51:41+00:00",
+  "as_of": "2026-10-21T08:13:36+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "SPCX",
+   "company": "SpaceX",
+   "move_pct": 8.97,
+   "price": 161.04,
+   "volume": 108298500,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 62,
+   "direction": "up",
+   "why": "Dow Jones Futures: SpaceX, Supermicro Revive AI Stocks; Tesla, Meta On Deck",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-spacex%2C.html",
+   "published": "2026-10-21T07:56:15+00:00",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 2,
+   "ticker": "ISRG",
+   "company": "Intuitive Surgical Inc",
+   "move_pct": -7.4,
+   "price": 405.58,
+   "volume": 3414200,
+   "volume_vs_avg": "~2x",
+   "heat_score": 48,
+   "direction": "down",
+   "why": "Intuitive Surgical Inc (ISRG) (Q3 2026) Earnings Call Highlights: Revenue Jumps 22% to $3 ...",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/intuitive-surgical-inc-isrg-q3-070116562.html",
+   "published": "2026-10-21T07:01:16+00:00",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  }
+ ]
 }

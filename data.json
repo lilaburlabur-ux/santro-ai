@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-21T10:30:44+00:00",
-  "as_of_local": "2026-10-21 10:30:44 UTC",
+  "as_of_utc": "2026-10-21T10:35:48+00:00",
+  "as_of_local": "2026-10-21 10:35:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -55,7 +57,7 @@
       "price": 91.69,
       "previous_close": 92.03,
       "change_pct": -0.37,
-      "market_cap": 481787530650.7834,
+      "market_cap": 484683004378.3104,
       "headlines": []
     },
     {
@@ -77,15 +79,6 @@
       "headlines": []
     },
     {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 175.71,
-      "previous_close": 173.53,
-      "change_pct": 1.26,
-      "market_cap": 187630086944.3026,
-      "headlines": []
-    },
-    {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
       "price": 237.6,
@@ -100,7 +93,7 @@
       "price": 107.41,
       "previous_close": 108.73,
       "change_pct": -1.21,
-      "market_cap": 15255472035.65039,
+      "market_cap": 15225283057.791107,
       "headlines": []
     },
     {
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 83190.0,
-      "change_pct": 0.3
+      "price": 83268.91,
+      "change_pct": 0.4
     },
     {
       "label": "Gold",
-      "price": 4133.5,
-      "change_pct": -0.22
+      "price": 4136.6,
+      "change_pct": -0.14
     },
     {
       "label": "Nasdaq100",

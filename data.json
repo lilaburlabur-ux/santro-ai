@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-21T22:22:36+00:00",
-  "as_of_local": "2026-10-21 22:22:36 UTC",
+  "as_of_utc": "2026-10-21T22:27:43+00:00",
+  "as_of_local": "2026-10-21 22:27:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -20,15 +22,6 @@
       "previous_close": 425.08,
       "change_pct": 1.6,
       "market_cap": 2239986337448.3105,
-      "headlines": []
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 337.8,
-      "previous_close": 334.37,
-      "change_pct": 1.03,
-      "market_cap": 1612532110125.1511,
       "headlines": []
     },
     {
@@ -55,7 +48,7 @@
       "price": 92.96,
       "previous_close": 91.69,
       "change_pct": 1.39,
-      "market_cap": 491396340315.9461,
+      "market_cap": 488460761431.7375,
       "headlines": []
     },
     {
@@ -100,7 +93,7 @@
       "price": 107.79,
       "previous_close": 107.41,
       "change_pct": 0.35,
-      "market_cap": 15279147367.885277,
+      "market_cap": 15309443148.912598,
       "headlines": []
     },
     {
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 84538.89,
-      "change_pct": 1.93
+      "price": 84586.63,
+      "change_pct": 1.98
     },
     {
       "label": "Gold",
-      "price": 4155.7,
-      "change_pct": 0.32
+      "price": 4155.0,
+      "change_pct": 0.3
     },
     {
       "label": "Nasdaq100",

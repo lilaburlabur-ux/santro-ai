@@ -18,7 +18,7 @@ Signed file: `TSM.research.21.10.2026`
 | Technical momentum | Moderate | 1Y +46.61%; price +9.31% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -11.10% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 51.12%, revenue growth 50.90%. |
-| Value attractiveness | Reasonable | Forward P/E 18.47, EV/Sales 2.92. |
+| Value attractiveness | Reasonable | Forward P/E 18.47, EV/Sales 2.98. |
 | Risk level | Elevated | Beta 1.24, ATR 2.9% of price, short float 0.63%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.94T | Revenue growth 50.90% y/y |
 | Profitability | Gross 65.85%, operating 58.66%, net 51.12% | ROA 20.58%, ROE 41.85% |
 | Balance sheet | Cash $4.02T, debt $818.38B | Current ratio 2.50, debt/equity 11.62 |
-| Valuation | P/E 27.99, forward P/E 18.47, P/S 0.45, P/B 82.96 | EV/Sales 2.92, EV/EBITDA 4.00 |
+| Valuation | P/E 27.99, forward P/E 18.47, P/S 0.45, P/B 82.96 | EV/Sales 2.98, EV/EBITDA 4.08 |
 | Growth expectations | Earnings growth 68.70%, EPS q/q 68.70% | Analyst mean target $584.39 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $431.89 | EV/Sales | 2.92 |
-| Market cap | $2.24T | EV/EBITDA | 4.00 |
+| Price | $431.89 | EV/Sales | 2.98 |
+| Market cap | $2.24T | EV/EBITDA | 4.08 |
 | Beta | 1.24 | Gross margin | 65.85% |
 | RSI(14) | 46.0 | Operating margin | 58.66% |
 | ATR(14) | 12.34 | Profit margin | 51.12% |

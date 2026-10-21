@@ -59,7 +59,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Revenue (ttm) | $1.20B | Revenue growth 8.90% y/y |
 | Profitability | Gross 44.72%, operating -2.79%, net -41.00% | ROA -1.52%, ROE -42.23% |
 | Balance sheet | Cash $442.50M, debt $876.80M | Current ratio 1.12, debt/equity 94.33 |
-| Valuation | P/E —, forward P/E 17.86, P/S 3.90, P/B 4.94 | EV/Sales 4.20, EV/EBITDA 54.19 |
+| Valuation | P/E —, forward P/E 17.86, P/S 3.90, P/B 4.94 | EV/Sales 4.20, EV/EBITDA 54.20 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $129.33 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -104,7 +104,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $117.50 | EV/Sales | 4.20 |
-| Market cap | $4.66B | EV/EBITDA | 54.19 |
+| Market cap | $4.66B | EV/EBITDA | 54.20 |
 | Beta | 1.96 | Gross margin | 44.72% |
 | RSI(14) | 63.7 | Operating margin | -2.79% |
 | ATR(14) | 2.79 | Profit margin | -41.00% |
@@ -117,7 +117,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Forward P/E | 17.86 | Short float | 10.18% |
 | PEG (trailing) | — | Avg volume | 891,354 |
 | P/S | 3.90 | Employees | 1,700 |
-| P/B | 4.94 | Analyst rec (1=buy..5=sell) | — |
+| P/B | 4.94 | Analyst rec (1=buy..5=sell) | 2.8 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

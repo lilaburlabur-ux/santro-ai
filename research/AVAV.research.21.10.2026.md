@@ -59,7 +59,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Revenue (ttm) | $2.00B | Revenue growth 5.70% y/y |
 | Profitability | Gross 26.47%, operating -2.27%, net -10.13% | ROA -0.13%, ROE -4.60% |
 | Balance sheet | Cash $580.23M, debt $850.82M | Current ratio 4.26, debt/equity 19.35 |
-| Valuation | P/E —, forward P/E 26.61, P/S 2.98, P/B 1.35 | EV/Sales 3.11, EV/EBITDA 28.46 |
+| Valuation | P/E —, forward P/E 26.61, P/S 2.98, P/B 1.35 | EV/Sales 3.11, EV/EBITDA 28.43 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $213.44 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -106,7 +106,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $117.51 | EV/Sales | 3.11 |
-| Market cap | $5.97B | EV/EBITDA | 28.46 |
+| Market cap | $5.97B | EV/EBITDA | 28.43 |
 | Beta | 1.36 | Gross margin | 26.47% |
 | RSI(14) | 26.1 | Operating margin | -2.27% |
 | ATR(14) | 6.64 | Profit margin | -10.13% |

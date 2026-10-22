@@ -1,27 +1,27 @@
 # NVDA Research Report
-**NVIDIA Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**NVIDIA** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `NVDA.research.22.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-22, ~15-min delayed) |
-| Market cap | $5.36T |
-| Sector / Industry | Technology / Semiconductors |
+| Current price | $212.21 (2026-10-22, ~15-min delayed) |
+| Market cap | — |
+| Sector / Industry | — / — |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-22.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Strong | Profit margin 63.66%, revenue growth 105.90%. |
-| Value attractiveness | Reasonable | Forward P/E 13.95, EV/Sales 17.57. |
-| Risk level | High | Beta 2.22, ATR nan% of price, short float 1.34%. |
+| Technical momentum | Moderate | 1Y +17.42%; price +4.41% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.30% from 52w high; no clean fresh pivot by default. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | Moderate | Beta —, ATR 2.9% of price, short float —. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,64 +30,49 @@ Signed file: `NVDA.research.22.10.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-NVIDIA Corporation operates as a data center scale AI infrastructure company in the United States, Taiwan, China, Hong Kong, Europe, and internationally. It operates through Compute & Networking, and Graphics segments. The Compute & Networking segment provides data center accelerated computing and networking platforms and artificial intelligence solutions and software, and automotive platforms and autonomous and electric vehicle solutions, including software. The Graphics segment offers GeForce GPUs for gaming and PCs; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics.
+—
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $239.24 (+nan%); 52w low $164.79 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 40.9 (neutral) |
-| Volatility | ATR(14) 5.91 (~nan% of price); beta 2.22 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $212.21; 52w high $239.24 (-11.30%); 52w low $164.79 (+28.77%) |
+| Trend | +4.41% vs SMA200, -4.70% vs SMA50, -6.20% vs SMA20 |
+| Momentum | RSI(14) 39.1 (neutral) |
+| Volatility | ATR(14) 6.24 (~2.9% of price); beta — |
+| Setup perspective | -11.30% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -2.3% |
+| Month | -5.9% |
+| Quarter | +2.7% |
+| Half Y | +6.5% |
+| 1Y | +17.4% |
+| YTD | +12.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-11-17 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $302.97B | Revenue growth 105.90% y/y |
-| Profitability | Gross 74.67%, operating 66.24%, net 63.66% | ROA 53.57%, ROE 117.21% |
-| Balance sheet | Cash $62.47B, debt $38.86B | Current ratio 4.59, debt/equity 16.97 |
-| Valuation | P/E 28.06, forward P/E 13.95, P/S 17.69, P/B 23.41 | EV/Sales 17.57, EV/EBITDA 26.45 |
-| Growth expectations | Earnings growth 127.80%, EPS q/q 125.90% | Analyst mean target $328.72 (59 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 71.41% |
-| Insider ownership | 4.01% |
-| Short float | 1.34% |
-| Short ratio (days to cover) | 2.8 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Blackrock Inc. | 1,941,918,386 | 8.06% | 2026-06-30 |
-| Vanguard Capital Management LLC | 1,540,816,358 | 6.39% | 2026-06-30 |
-| FMR, LLC | 1,026,051,548 | 4.26% | 2026-06-30 |
-| State Street Corporation | 1,009,783,437 | 4.19% | 2026-06-30 |
-| Geode Capital Management, LLC | 606,216,492 | 2.52% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 517,816,949 | 2.15% | 2026-06-30 |
-| JPMORGAN CHASE & CO | 449,404,578 | 1.86% | 2026-06-30 |
-| Price (T.Rowe) Associates Inc | 369,829,781 | 1.53% | 2026-06-30 |
-| Morgan Stanley | 356,420,089 | 1.48% | 2026-06-30 |
-| Invesco Ltd. | 329,593,488 | 1.37% | 2026-06-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.22, ATR nan% of price, short float 1.34%. Size positions accordingly.
-- **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
 | Question | Pass condition |
@@ -101,36 +86,27 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 17.57 |
-| Market cap | $5.36T | EV/EBITDA | 26.45 |
-| Beta | 2.22 | Gross margin | 74.67% |
-| RSI(14) | 40.9 | Operating margin | 66.24% |
-| ATR(14) | 5.91 | Profit margin | 63.66% |
-| SMA20 dist | +nan% | ROA | 53.57% |
-| SMA50 dist | +nan% | ROE | 117.21% |
-| SMA200 dist | +nan% | Revenue (ttm) | $302.97B |
-| 52W high | $239.24 | Revenue growth y/y | 105.90% |
-| 52W low | $164.79 | Inst. ownership | 71.41% |
-| P/E (ttm) | 28.06 | Insider ownership | 4.01% |
-| Forward P/E | 13.95 | Short float | 1.34% |
-| PEG (trailing) | 0.48 | Avg volume | 118,203,737 |
-| P/S | 17.69 | Employees | 42,000 |
-| P/B | 23.41 | Analyst rec (1=buy..5=sell) | 1.3 |
+| Price | $212.21 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 39.1 | Operating margin | — |
+| ATR(14) | 6.24 | Profit margin | — |
+| SMA20 dist | -6.20% | ROA | — |
+| SMA50 dist | -4.70% | ROE | — |
+| SMA200 dist | +4.41% | Revenue (ttm) | — |
+| 52W high | $239.24 | Revenue growth y/y | — |
+| 52W low | $164.79 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 0.48 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-10-01 | reit | Cantor Fitzgerald | Overweight → Overweight |
-| 2026-09-29 | main | Rosenblatt | Buy → Buy |
-| 2026-09-10 | init | Piper Sandler | — → Overweight |
-| 2026-09-04 | main | Rosenblatt | Buy → Buy |
-| 2026-09-04 | reit | Needham | Buy → Buy |
-| 2026-08-27 | main | Citigroup | Buy → Buy |
-| 2026-08-27 | main | Mizuho | Outperform → Outperform |
-| 2026-08-27 | main | JP Morgan | Overweight → Overweight |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-NVDA: Moderate momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+NVDA: Moderate momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

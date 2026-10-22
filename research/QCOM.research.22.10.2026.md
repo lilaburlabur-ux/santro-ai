@@ -1,27 +1,27 @@
 # QCOM Research Report
-**QUALCOMM Incorporated** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Qualcomm** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `QCOM.research.22.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-22, ~15-min delayed) |
-| Market cap | $190.03B |
-| Sector / Industry | Technology / Semiconductors |
+| Current price | $172.83 (2026-10-22, ~15-min delayed) |
+| Market cap | — |
+| Sector / Industry | — / — |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-22.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin 21.01%, revenue growth -4.00%. |
-| Value attractiveness | Reasonable | Forward P/E 17.46, EV/Sales 4.40. |
-| Risk level | Elevated | Beta 1.65, ATR nan% of price, short float 3.70%. |
+| Technical momentum | Moderate | 1Y +4.50%; price +2.80% vs SMA200. |
+| Fresh setup quality | Poor / broken | -30.52% from 52w high — base needs to rebuild. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | Elevated | Beta —, ATR 4.0% of price, short float —. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,64 +30,51 @@ Signed file: `QCOM.research.22.10.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-QUALCOMM Incorporated engages in the development and commercialization of foundational technologies for the wireless industry worldwide. It operates through three segments: Qualcomm CDMA Technologies (QCT); Qualcomm Technology Licensing (QTL); and Qualcomm Strategic Initiatives (QSI).
+—
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $248.74 (+nan%); 52w low $122.94 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 47.2 (neutral) |
-| Volatility | ATR(14) 7.05 (~nan% of price); beta 1.65 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $172.83; 52w high $248.74 (-30.52%); 52w low $122.94 (+40.58%) |
+| Trend | +2.80% vs SMA200, -1.59% vs SMA50, -3.70% vs SMA20 |
+| Momentum | RSI(14) 44.6 (neutral) |
+| Volatility | ATR(14) 6.88 (~4.0% of price); beta — |
+| Setup perspective | -30.52% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -3.1% |
+| Month | -12.4% |
+| Quarter | +4.1% |
+| Half Y | +30.2% |
+| 1Y | +4.5% |
+| YTD | +1.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-11-04 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $44.07B | Revenue growth -4.00% y/y |
-| Profitability | Gross 54.23%, operating 18.53%, net 21.01% | ROA 11.61%, ROE 33.75% |
-| Balance sheet | Cash $8.30B, debt $15.27B | Current ratio 2.02, debt/equity 55.21 |
-| Valuation | P/E 20.60, forward P/E 17.46, P/S 4.31, P/B 6.80 | EV/Sales 4.40, EV/EBITDA 16.16 |
-| Growth expectations | Earnings growth -23.00%, EPS q/q -24.90% | Analyst mean target $195.80 (30 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 83.64% |
-| Insider ownership | 0.12% |
-| Short float | 3.70% |
-| Short ratio (days to cover) | 2.5 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Blackrock Inc. | 95,151,875 | 8.91% | 2026-06-30 |
-| Vanguard Capital Management LLC | 68,837,417 | 6.45% | 2026-06-30 |
-| State Street Corporation | 52,763,263 | 4.94% | 2026-06-30 |
-| Invesco Ltd. | 36,101,702 | 3.38% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 33,847,770 | 3.17% | 2026-06-30 |
-| Geode Capital Management, LLC | 29,645,446 | 2.78% | 2026-06-30 |
-| Charles Schwab Investment Management, Inc. | 22,310,326 | 2.09% | 2026-06-30 |
-| Van Eck Associates Corporation | 17,202,619 | 1.61% | 2026-06-30 |
-| Morgan Stanley | 17,100,302 | 1.60% | 2026-06-30 |
-| NORGES BANK | 16,209,022 | 1.52% | 2026-06-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.65, ATR nan% of price, short float 3.70%. Size positions accordingly.
-- **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 4.0% of price, short float —. Size positions accordingly.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
+- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
 | Question | Pass condition |
@@ -101,36 +88,27 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 4.40 |
-| Market cap | $190.03B | EV/EBITDA | 16.16 |
-| Beta | 1.65 | Gross margin | 54.23% |
-| RSI(14) | 47.2 | Operating margin | 18.53% |
-| ATR(14) | 7.05 | Profit margin | 21.01% |
-| SMA20 dist | +nan% | ROA | 11.61% |
-| SMA50 dist | +nan% | ROE | 33.75% |
-| SMA200 dist | +nan% | Revenue (ttm) | $44.07B |
-| 52W high | $248.74 | Revenue growth y/y | -4.00% |
-| 52W low | $122.94 | Inst. ownership | 83.64% |
-| P/E (ttm) | 20.60 | Insider ownership | 0.12% |
-| Forward P/E | 17.46 | Short float | 3.70% |
-| PEG (trailing) | 0.88 | Avg volume | 11,953,582 |
-| P/S | 4.31 | Employees | 52,000 |
-| P/B | 6.80 | Analyst rec (1=buy..5=sell) | 2.6 |
+| Price | $172.83 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 44.6 | Operating margin | — |
+| ATR(14) | 6.88 | Profit margin | — |
+| SMA20 dist | -3.70% | ROA | — |
+| SMA50 dist | -1.59% | ROE | — |
+| SMA200 dist | +2.80% | Revenue (ttm) | — |
+| 52W high | $248.74 | Revenue growth y/y | — |
+| 52W low | $122.94 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 0.88 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-10-21 | main | Susquehanna | Neutral → Neutral |
-| 2026-10-19 | main | TD Cowen | Buy → Buy |
-| 2026-09-10 | init | Piper Sandler | — → Neutral |
-| 2026-09-09 | main | RBC Capital | Sector Perform → Sector Perform |
-| 2026-09-09 | main | Rosenblatt | Buy → Buy |
-| 2026-07-30 | main | Benchmark | Buy → Buy |
-| 2026-07-30 | main | UBS | Neutral → Neutral |
-| 2026-07-30 | main | Susquehanna | Neutral → Neutral |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-QCOM: Moderate momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+QCOM: Moderate momentum / mixed fundamentals / low (expensive) value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

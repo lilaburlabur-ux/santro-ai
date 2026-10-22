@@ -3,20 +3,20 @@
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
-| NVDA | $5.36T | +nan% | 13.9 | 64% | Moderate | Reasonable | High |
-| TSM | $2.24T | +nan% | 18.5 | 51% | Moderate | Reasonable | Elevated |
-| AVGO | $1.61T | +nan% | 17.4 | 43% | Moderate | Reasonable | Elevated |
-| MU | $1.03T | +nan% | 4.4 | 64% | Moderate | Reasonable | High |
-| AMD | $902.30B | +nan% | 35.1 | 16% | Moderate | Low (expensive) | High |
-| INTC | $491.40B | +nan% | 44.0 | -20% | Moderate | Low (expensive) | High |
-| ARM | $242.00B | +nan% | 73.9 | 20% | Moderate | Low (expensive) | High |
-| MRVL | $219.97B | +nan% | 33.4 | 28% | Moderate | Fair-to-demanding | High |
-| QCOM | $190.03B | +nan% | 17.5 | 21% | Moderate | Reasonable | Elevated |
-| NXPI | $61.11B | +nan% | 13.2 | 23% | Moderate | Reasonable | Elevated |
-| LSCC | $15.31B | +nan% | 33.2 | 6% | Moderate | Fair-to-demanding | High |
-| SYNA | $4.66B | +nan% | 17.9 | -41% | Moderate | Reasonable | High |
-| CEVA | $838.43M | +nan% | 37.1 | -9% | Moderate | Low (expensive) | High |
-| AVAV | $5.97B | +nan% | 26.6 | -10% | Moderate | Fair-to-demanding | High |
+| NVDA | — | +17% | — | — | Moderate | Low (expensive) | Moderate |
+| TSM | — | +41% | — | — | Moderate | Low (expensive) | Elevated |
+| AVGO | — | -5% | — | — | Low | Low (expensive) | Elevated |
+| MU | — | +324% | — | — | High | Low (expensive) | High |
+| AMD | — | +113% | — | — | High | Low (expensive) | High |
+| INTC | — | +124% | — | — | High | Low (expensive) | High |
+| ARM | — | +24% | — | — | Moderate | Low (expensive) | High |
+| MRVL | — | +166% | — | — | High | Low (expensive) | High |
+| QCOM | — | +5% | — | — | Moderate | Low (expensive) | Elevated |
+| NXPI | — | +9% | — | — | Low | Low (expensive) | Elevated |
+| LSCC | — | +38% | — | — | Low | Low (expensive) | High |
+| SYNA | — | +62% | — | — | High | Low (expensive) | Moderate |
+| CEVA | — | +3% | — | — | Moderate | Low (expensive) | High |
+| AVAV | — | -69% | — | — | Low | Low (expensive) | High |
 
 14 reports generated; failed: none.
 

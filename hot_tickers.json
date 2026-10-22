@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-22T10:49:18+00:00",
+  "as_of": "2026-10-22T11:04:36+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,32 @@
    "rank": 1,
    "ticker": "LRCX",
    "company": "Lam Research Corp",
-   "move_pct": -7.46,
-   "price": 241.36,
+   "move_pct": -7.55,
+   "price": 241.12,
    "volume": 15811300,
    "volume_vs_avg": "~2x",
    "heat_score": 50,
    "direction": "down",
-   "why": "Update: Lam Research Slumps Pre-Bell as Supply Chain Seen Hindering Fiscal Q2 Sales After Q1 Adjusted Earnings, Revenue Beat",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-slumps-pre-bell-092826858.html",
-   "published": "2026-10-22T09:28:26+00:00",
+   "why": "Berenberg Trims Price Target on Lam Research to $415 From $420, Keeps Buy Rating",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/berenberg-trims-price-target-lam-104050967.html",
+   "published": "2026-10-22T10:40:50+00:00",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 2,
+   "ticker": "TER",
+   "company": "Teradyne Inc",
+   "move_pct": -5.06,
+   "price": 328.0,
+   "volume": 2134200,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 37,
+   "direction": "down",
+   "why": "The Zacks Analyst Blog Highlights Chord Energy, Halozyme, Sezzle, SanDisk and Teradyne",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-chord-093100440.html",
+   "published": "2026-10-22T09:31:00+00:00",
    "sector": "Chip Equipment & AI Hardware"
   }
  ]

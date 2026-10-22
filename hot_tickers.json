@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-22T10:03:26+00:00",
+  "as_of": "2026-10-22T10:18:37+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,33 +11,17 @@
    "rank": 1,
    "ticker": "LRCX",
    "company": "Lam Research Corp",
-   "move_pct": -7.89,
-   "price": 240.23,
+   "move_pct": -8.36,
+   "price": 239.0,
    "volume": 15811300,
    "volume_vs_avg": "~2x",
-   "heat_score": 51,
+   "heat_score": 63,
    "direction": "down",
    "why": "Update: Lam Research Slumps Pre-Bell as Supply Chain Seen Hindering Fiscal Q2 Sales After Q1 Adjusted Earnings, Revenue Beat",
    "catalyst_type": "earnings",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-slumps-pre-bell-092826858.html",
    "published": "2026-10-22T09:28:26+00:00",
    "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 2,
-   "ticker": "IBM",
-   "company": "International Business Machines Corp",
-   "move_pct": -5.25,
-   "price": 238.25,
-   "volume": 9644900,
-   "volume_vs_avg": "~2x",
-   "heat_score": 42,
-   "direction": "down",
-   "why": "Goldman Sachs Adjusts Price Target on IBM to $300 From $270",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-price-target-094452987.html",
-   "published": "2026-10-22T09:44:52+00:00",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

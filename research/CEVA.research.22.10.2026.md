@@ -5,8 +5,8 @@ Signed file: `CEVA.research.22.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $28.20 (2026-10-22, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
+| Market cap | $793.94M |
+| Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
 
@@ -17,9 +17,9 @@ Signed file: `CEVA.research.22.10.2026`
 |---|---|---|
 | Technical momentum | Moderate | 1Y +2.77%; price -7.09% vs SMA200. |
 | Fresh setup quality | Poor / broken | -43.67% from 52w high — base needs to rebuild. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | High | Beta —, ATR 6.1% of price, short float —. |
+| Fundamental quality | Weak | Negative profit margin (-9.48%). |
+| Value attractiveness | Low (expensive) | Forward P/E 35.14, EV/Sales 5.49. |
+| Risk level | High | Beta 1.93, ATR 6.1% of price, short float 11.40%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: high.
 
@@ -38,7 +38,7 @@ Signed file: `CEVA.research.22.10.2026`
 | Price vs 52-week range | Close $28.20; 52w high $50.06 (-43.67%); 52w low $17.21 (+63.86%) |
 | Trend | -7.09% vs SMA200, -7.57% vs SMA50, -13.63% vs SMA20 |
 | Momentum | RSI(14) 38.2 (neutral) |
-| Volatility | ATR(14) 1.73 (~6.1% of price); beta — |
+| Volatility | ATR(14) 1.73 (~6.1% of price); beta 1.93 |
 | Setup perspective | -43.67% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -55,26 +55,43 @@ Signed file: `CEVA.research.22.10.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-11-09 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $115.73M | Revenue growth 13.10% y/y |
+| Profitability | Gross 87.47%, operating -7.15%, net -9.48% | ROA -1.74%, ROE -3.62% |
+| Balance sheet | Cash $220.72M, debt $17.42M | Current ratio 10.12, debt/equity 5.12 |
+| Valuation | P/E —, forward P/E 35.14, P/S 6.86, P/B 2.33 | EV/Sales 5.49, EV/EBITDA -111.88 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $45.56 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 89.59% |
+| Insider ownership | 3.50% |
+| Short float | 11.40% |
+| Short ratio (days to cover) | 4.5 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 2,417,205 | 8.59% | 2026-06-30 |
+| State Street Corporation | 1,672,919 | 5.94% | 2026-06-30 |
+| Senvest Management LLC | 1,633,155 | 5.80% | 2026-06-30 |
+| Morgan Stanley | 1,446,384 | 5.14% | 2026-06-30 |
+| Vanguard Capital Management LLC | 1,196,013 | 4.25% | 2026-06-30 |
+| T. Rowe Price Investment Management, Inc. | 1,180,701 | 4.19% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 1,117,029 | 3.97% | 2026-06-30 |
+| Neuberger Berman Group, LLC | 1,102,905 | 3.92% | 2026-06-30 |
+| AWM Investment Company, Inc. | 799,806 | 2.84% | 2026-06-30 |
+| Geode Capital Management, LLC | 723,085 | 2.57% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta —, ATR 6.1% of price, short float —. Size positions accordingly.
+- **Valuation risk:** Forward P/E 35.14, EV/Sales 5.49. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.93, ATR 6.1% of price, short float 11.40%. Size positions accordingly.
+- **Short interest risk:** short float 11.40% can fuel squeezes both ways around news.
+- **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
-- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
+- **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
 | Question | Pass condition |
@@ -88,21 +105,21 @@ Signed file: `CEVA.research.22.10.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $28.20 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 38.2 | Operating margin | — |
-| ATR(14) | 1.73 | Profit margin | — |
-| SMA20 dist | -13.63% | ROA | — |
-| SMA50 dist | -7.57% | ROE | — |
-| SMA200 dist | -7.09% | Revenue (ttm) | — |
-| 52W high | $50.06 | Revenue growth y/y | — |
-| 52W low | $17.21 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | 2.13 | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $28.20 | EV/Sales | 5.49 |
+| Market cap | $793.94M | EV/EBITDA | -111.88 |
+| Beta | 1.93 | Gross margin | 87.47% |
+| RSI(14) | 38.2 | Operating margin | -7.15% |
+| ATR(14) | 1.73 | Profit margin | -9.48% |
+| SMA20 dist | -13.63% | ROA | -1.74% |
+| SMA50 dist | -7.57% | ROE | -3.62% |
+| SMA200 dist | -7.09% | Revenue (ttm) | $115.73M |
+| 52W high | $50.06 | Revenue growth y/y | 13.10% |
+| 52W low | $17.21 | Inst. ownership | 89.59% |
+| P/E (ttm) | — | Insider ownership | 3.50% |
+| Forward P/E | 35.14 | Short float | 11.40% |
+| PEG (trailing) | 2.13 | Avg volume | 742,312 |
+| P/S | 6.86 | Employees | 374 |
+| P/B | 2.33 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 _No recent analyst actions available from Yahoo._

@@ -5,8 +5,8 @@ Signed file: `TSM.research.22.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $412.35 (2026-10-22, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
+| Market cap | $2.14T |
+| Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
 
@@ -17,9 +17,9 @@ Signed file: `TSM.research.22.10.2026`
 |---|---|---|
 | Technical momentum | Moderate | 1Y +41.49%; price +4.25% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -15.12% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | Elevated | Beta —, ATR 3.2% of price, short float —. |
+| Fundamental quality | Strong | Profit margin 51.12%, revenue growth 50.90%. |
+| Value attractiveness | Reasonable | Forward P/E 17.63, EV/Sales 2.98. |
+| Risk level | Elevated | Beta 1.24, ATR 3.2% of price, short float 0.63%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: elevated.
 
@@ -38,7 +38,7 @@ Signed file: `TSM.research.22.10.2026`
 | Price vs 52-week range | Close $412.35; 52w high $485.80 (-15.12%); 52w low $272.18 (+51.50%) |
 | Trend | +4.25% vs SMA200, -4.95% vs SMA50, -7.79% vs SMA20 |
 | Momentum | RSI(14) 38.0 (neutral) |
-| Volatility | ATR(14) 13.01 (~3.2% of price); beta — |
+| Volatility | ATR(14) 13.01 (~3.2% of price); beta 1.24 |
 | Setup perspective | -15.12% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -55,12 +55,12 @@ Signed file: `TSM.research.22.10.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2027-01-14 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $4.94T | Revenue growth 50.90% y/y |
+| Profitability | Gross 65.85%, operating 58.66%, net 51.12% | ROA 20.58%, ROE 41.85% |
+| Balance sheet | Cash $4.02T, debt $818.38B | Current ratio 2.50, debt/equity 11.62 |
+| Valuation | P/E 26.72, forward P/E 17.63, P/S 0.43, P/B 79.21 | EV/Sales 2.98, EV/EBITDA 4.08 |
+| Growth expectations | Earnings growth 68.70%, EPS q/q 68.70% | Analyst mean target $584.39 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -71,9 +71,8 @@ Signed file: `TSM.research.22.10.2026`
 | Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta —, ATR 3.2% of price, short float —. Size positions accordingly.
-- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
+- **Volatility risk:** Beta 1.24, ATR 3.2% of price, short float 0.63%. Size positions accordingly.
+- **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
 | Question | Pass condition |
@@ -87,21 +86,21 @@ Signed file: `TSM.research.22.10.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $412.35 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 38.0 | Operating margin | — |
-| ATR(14) | 13.01 | Profit margin | — |
-| SMA20 dist | -7.79% | ROA | — |
-| SMA50 dist | -4.95% | ROE | — |
-| SMA200 dist | +4.25% | Revenue (ttm) | — |
-| 52W high | $485.80 | Revenue growth y/y | — |
-| 52W low | $272.18 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | 0.86 | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $412.35 | EV/Sales | 2.98 |
+| Market cap | $2.14T | EV/EBITDA | 4.08 |
+| Beta | 1.24 | Gross margin | 65.85% |
+| RSI(14) | 38.0 | Operating margin | 58.66% |
+| ATR(14) | 13.01 | Profit margin | 51.12% |
+| SMA20 dist | -7.79% | ROA | 20.58% |
+| SMA50 dist | -4.95% | ROE | 41.85% |
+| SMA200 dist | +4.25% | Revenue (ttm) | $4.94T |
+| 52W high | $485.80 | Revenue growth y/y | 50.90% |
+| 52W low | $272.18 | Inst. ownership | 15.50% |
+| P/E (ttm) | 26.72 | Insider ownership | 0.01% |
+| Forward P/E | 17.63 | Short float | 0.63% |
+| PEG (trailing) | 0.86 | Avg volume | 10,958,304 |
+| P/S | 0.43 | Employees | 76,907 |
+| P/B | 79.21 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 _No recent analyst actions available from Yahoo._

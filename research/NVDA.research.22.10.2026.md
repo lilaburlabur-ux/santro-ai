@@ -5,8 +5,8 @@ Signed file: `NVDA.research.22.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $212.21 (2026-10-22, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
+| Market cap | $5.12T |
+| Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
 
@@ -17,9 +17,9 @@ Signed file: `NVDA.research.22.10.2026`
 |---|---|---|
 | Technical momentum | Moderate | 1Y +17.42%; price +4.41% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -11.30% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | Moderate | Beta —, ATR 2.9% of price, short float —. |
+| Fundamental quality | Strong | Profit margin 63.66%, revenue growth 105.90%. |
+| Value attractiveness | Reasonable | Forward P/E 13.33, EV/Sales 17.58. |
+| Risk level | High | Beta 2.22, ATR 2.9% of price, short float 1.34%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
 
@@ -38,7 +38,7 @@ Signed file: `NVDA.research.22.10.2026`
 | Price vs 52-week range | Close $212.21; 52w high $239.24 (-11.30%); 52w low $164.79 (+28.77%) |
 | Trend | +4.41% vs SMA200, -4.70% vs SMA50, -6.20% vs SMA20 |
 | Momentum | RSI(14) 39.1 (neutral) |
-| Volatility | ATR(14) 6.24 (~2.9% of price); beta — |
+| Volatility | ATR(14) 6.24 (~2.9% of price); beta 2.22 |
 | Setup perspective | -11.30% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -55,12 +55,12 @@ Signed file: `NVDA.research.22.10.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-11-17 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $302.97B | Revenue growth 105.90% y/y |
+| Profitability | Gross 74.67%, operating 66.24%, net 63.66% | ROA 53.57%, ROE 117.21% |
+| Balance sheet | Cash $62.47B, debt $38.86B | Current ratio 4.59, debt/equity 16.97 |
+| Valuation | P/E 26.83, forward P/E 13.33, P/S 16.91, P/B 22.38 | EV/Sales 17.58, EV/EBITDA 26.46 |
+| Growth expectations | Earnings growth 127.80%, EPS q/q 125.90% | Analyst mean target $328.72 (59 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -71,8 +71,8 @@ Signed file: `NVDA.research.22.10.2026`
 | Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
-- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
+- **Volatility risk:** Beta 2.22, ATR 2.9% of price, short float 1.34%. Size positions accordingly.
+- **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
 | Question | Pass condition |
@@ -86,24 +86,33 @@ Signed file: `NVDA.research.22.10.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $212.21 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 39.1 | Operating margin | — |
-| ATR(14) | 6.24 | Profit margin | — |
-| SMA20 dist | -6.20% | ROA | — |
-| SMA50 dist | -4.70% | ROE | — |
-| SMA200 dist | +4.41% | Revenue (ttm) | — |
-| 52W high | $239.24 | Revenue growth y/y | — |
-| 52W low | $164.79 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | 0.48 | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $212.21 | EV/Sales | 17.58 |
+| Market cap | $5.12T | EV/EBITDA | 26.46 |
+| Beta | 2.22 | Gross margin | 74.67% |
+| RSI(14) | 39.1 | Operating margin | 66.24% |
+| ATR(14) | 6.24 | Profit margin | 63.66% |
+| SMA20 dist | -6.20% | ROA | 53.57% |
+| SMA50 dist | -4.70% | ROE | 117.21% |
+| SMA200 dist | +4.41% | Revenue (ttm) | $302.97B |
+| 52W high | $239.24 | Revenue growth y/y | 105.90% |
+| 52W low | $164.79 | Inst. ownership | 71.41% |
+| P/E (ttm) | 26.83 | Insider ownership | 4.01% |
+| Forward P/E | 13.33 | Short float | 1.34% |
+| PEG (trailing) | 0.48 | Avg volume | 117,416,487 |
+| P/S | 16.91 | Employees | 42,000 |
+| P/B | 22.38 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-10-22 | reit | Needham | Buy → Buy |
+| 2026-10-01 | reit | Cantor Fitzgerald | Overweight → Overweight |
+| 2026-09-29 | main | Rosenblatt | Buy → Buy |
+| 2026-09-10 | init | Piper Sandler | — → Overweight |
+| 2026-09-04 | main | Rosenblatt | Buy → Buy |
+| 2026-09-04 | reit | Needham | Buy → Buy |
+| 2026-08-27 | main | Citigroup | Buy → Buy |
+| 2026-08-27 | main | Mizuho | Outperform → Outperform |
 
 ## 9. Conclusion
 NVDA: Moderate momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

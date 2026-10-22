@@ -5,10 +5,10 @@ Signed file: `INTC.research.22.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $85.49 (2026-10-22, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
+| Market cap | $451.91B |
+| Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | High technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
+| Current stance | High technical momentum, weak fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-22.
 
@@ -17,11 +17,11 @@ Signed file: `INTC.research.22.10.2026`
 |---|---|---|
 | Technical momentum | High | 1Y +124.27%; price -0.12% vs SMA200. |
 | Fresh setup quality | Poor / broken | -39.34% from 52w high — base needs to rebuild. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | High | Beta —, ATR 6.8% of price, short float —. |
+| Fundamental quality | Weak | Negative profit margin (-19.79%). |
+| Value attractiveness | Low (expensive) | Forward P/E 40.47, EV/Sales 8.86. |
+| Risk level | High | Beta 2.23, ATR 6.8% of price, short float 3.16%. |
 
-**Bottom line:** High technical momentum, mixed fundamentals, value: low (expensive), risk: high.
+**Bottom line:** High technical momentum, weak fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -38,7 +38,7 @@ Signed file: `INTC.research.22.10.2026`
 | Price vs 52-week range | Close $85.49; 52w high $140.94 (-39.34%); 52w low $33.62 (+154.28%) |
 | Trend | -0.12% vs SMA200, -16.56% vs SMA50, -19.26% vs SMA20 |
 | Momentum | RSI(14) 30.5 (neutral) |
-| Volatility | ATR(14) 5.80 (~6.8% of price); beta — |
+| Volatility | ATR(14) 5.80 (~6.8% of price); beta 2.23 |
 | Setup perspective | -39.34% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -55,26 +55,42 @@ Signed file: `INTC.research.22.10.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-10-29 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $57.03B | Revenue growth 25.40% y/y |
+| Profitability | Gross 38.87%, operating 12.19%, net -19.79% | ROA 1.41%, ROE -10.71% |
+| Balance sheet | Cash $29.73B, debt $50.54B | Current ratio 1.60, debt/equity 49.00 |
+| Valuation | P/E —, forward P/E 40.47, P/S 7.92, P/B 4.92 | EV/Sales 8.86, EV/EBITDA 30.01 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $117.14 (43 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 62.93% |
+| Insider ownership | 13.99% |
+| Short float | 3.16% |
+| Short ratio (days to cover) | 1.6 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 426,478,962 | 8.46% | 2026-06-30 |
+| Vanguard Capital Management LLC | 285,230,183 | 5.65% | 2026-06-30 |
+| State Street Corporation | 216,849,675 | 4.30% | 2026-06-30 |
+| Nvidia Corp                           | 214,776,632 | 4.26% | 2026-06-30 |
+| Invesco Ltd. | 157,902,890 | 3.13% | 2026-06-30 |
+| Geode Capital Management, LLC | 110,339,857 | 2.19% | 2026-06-30 |
+| FMR, LLC | 94,431,754 | 1.87% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 89,395,975 | 1.77% | 2026-06-30 |
+| Softbank Group Corporation | 86,956,522 | 1.72% | 2026-06-30 |
+| Primecap Management Company | 75,250,958 | 1.49% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta —, ATR 6.8% of price, short float —. Size positions accordingly.
+- **Valuation risk:** Forward P/E 40.47, EV/Sales 8.86. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.23, ATR 6.8% of price, short float 3.16%. Size positions accordingly.
+- **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
-- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
+- **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
 | Question | Pass condition |
@@ -88,27 +104,27 @@ Signed file: `INTC.research.22.10.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $85.49 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 30.5 | Operating margin | — |
-| ATR(14) | 5.80 | Profit margin | — |
-| SMA20 dist | -19.26% | ROA | — |
-| SMA50 dist | -16.56% | ROE | — |
-| SMA200 dist | -0.12% | Revenue (ttm) | — |
-| 52W high | $140.94 | Revenue growth y/y | — |
-| 52W low | $33.62 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | — | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $85.49 | EV/Sales | 8.86 |
+| Market cap | $451.91B | EV/EBITDA | 30.01 |
+| Beta | 2.23 | Gross margin | 38.87% |
+| RSI(14) | 30.5 | Operating margin | 12.19% |
+| ATR(14) | 5.80 | Profit margin | -19.79% |
+| SMA20 dist | -19.26% | ROA | 1.41% |
+| SMA50 dist | -16.56% | ROE | -10.71% |
+| SMA200 dist | -0.12% | Revenue (ttm) | $57.03B |
+| 52W high | $140.94 | Revenue growth y/y | 25.40% |
+| 52W low | $33.62 | Inst. ownership | 62.93% |
+| P/E (ttm) | — | Insider ownership | 13.99% |
+| Forward P/E | 40.47 | Short float | 3.16% |
+| PEG (trailing) | — | Avg volume | 106,780,267 |
+| P/S | 7.92 | Employees | 85,100 |
+| P/B | 4.92 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 _No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-INTC: High momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+INTC: High momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

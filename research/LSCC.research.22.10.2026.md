@@ -5,10 +5,10 @@ Signed file: `LSCC.research.22.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $96.40 (2026-10-22, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
+| Market cap | $13.69B |
+| Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
+| Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-22.
 
@@ -17,11 +17,11 @@ Signed file: `LSCC.research.22.10.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-16.38%) with negative half-year (-18.31%). |
 | Fresh setup quality | Poor / broken | -37.91% from 52w high — base needs to rebuild. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | High | Beta —, ATR 6.5% of price, short float —. |
+| Fundamental quality | Mixed | Profit margin 5.58%, revenue growth 62.20%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 29.66, EV/Sales 23.30. |
+| Risk level | High | Beta 1.83, ATR 6.5% of price, short float 10.80%. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: high.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -38,7 +38,7 @@ Signed file: `LSCC.research.22.10.2026`
 | Price vs 52-week range | Close $96.40; 52w high $155.27 (-37.91%); 52w low $61.73 (+56.16%) |
 | Trend | -16.38% vs SMA200, -18.56% vs SMA50, -19.85% vs SMA20 |
 | Momentum | RSI(14) 29.8 (oversold) |
-| Volatility | ATR(14) 6.25 (~6.5% of price); beta — |
+| Volatility | ATR(14) 6.25 (~6.5% of price); beta 1.83 |
 | Setup perspective | -37.91% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -55,26 +55,42 @@ Signed file: `LSCC.research.22.10.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-11-02 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $651.12M | Revenue growth 62.20% y/y |
+| Profitability | Gross 69.02%, operating 13.33%, net 5.58% | ROA 3.87%, ROE 4.93% |
+| Balance sheet | Cash $173.30M, debt $38.08M | Current ratio 3.02, debt/equity 4.84 |
+| Valuation | P/E 385.60, forward P/E 29.66, P/S 21.03, P/B 16.79 | EV/Sales 23.30, EV/EBITDA 164.69 |
+| Growth expectations | Earnings growth 600.00%, EPS q/q 564.60% | Analyst mean target $161.71 (14 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 103.51% |
+| Insider ownership | 0.59% |
+| Short float | 10.80% |
+| Short ratio (days to cover) | 4.8 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 17,240,855 | 12.58% | 2026-06-30 |
+| Price (T.Rowe) Associates Inc | 13,584,962 | 9.92% | 2026-06-30 |
+| T. Rowe Price Investment Management, Inc. | 7,790,567 | 5.69% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 7,206,731 | 5.26% | 2026-06-30 |
+| Vanguard Capital Management LLC | 6,191,148 | 4.52% | 2026-06-30 |
+| Invesco Ltd. | 5,243,936 | 3.83% | 2026-06-30 |
+| Capital Research Global Investors | 4,948,995 | 3.61% | 2026-06-30 |
+| State Street Corporation | 4,889,090 | 3.57% | 2026-06-30 |
+| Artisan Partners Limited Partnership | 3,472,509 | 2.53% | 2026-06-30 |
+| Franklin Resources, Inc. | 3,315,820 | 2.42% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta —, ATR 6.5% of price, short float —. Size positions accordingly.
+- **Valuation risk:** Forward P/E 29.66, EV/Sales 23.30. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.83, ATR 6.5% of price, short float 10.80%. Size positions accordingly.
+- **Short interest risk:** short float 10.80% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
-- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
+- **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
 | Question | Pass condition |
@@ -88,27 +104,27 @@ Signed file: `LSCC.research.22.10.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $96.40 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 29.8 | Operating margin | — |
-| ATR(14) | 6.25 | Profit margin | — |
-| SMA20 dist | -19.85% | ROA | — |
-| SMA50 dist | -18.56% | ROE | — |
-| SMA200 dist | -16.38% | Revenue (ttm) | — |
-| 52W high | $155.27 | Revenue growth y/y | — |
-| 52W low | $61.73 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | — | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $96.40 | EV/Sales | 23.30 |
+| Market cap | $13.69B | EV/EBITDA | 164.69 |
+| Beta | 1.83 | Gross margin | 69.02% |
+| RSI(14) | 29.8 | Operating margin | 13.33% |
+| ATR(14) | 6.25 | Profit margin | 5.58% |
+| SMA20 dist | -19.85% | ROA | 3.87% |
+| SMA50 dist | -18.56% | ROE | 4.93% |
+| SMA200 dist | -16.38% | Revenue (ttm) | $651.12M |
+| 52W high | $155.27 | Revenue growth y/y | 62.20% |
+| 52W low | $61.73 | Inst. ownership | 103.51% |
+| P/E (ttm) | 385.60 | Insider ownership | 0.59% |
+| Forward P/E | 29.66 | Short float | 10.80% |
+| PEG (trailing) | — | Avg volume | 1,772,089 |
+| P/S | 21.03 | Employees | 1,174 |
+| P/B | 16.79 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 _No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-LSCC: Low momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+LSCC: Low momentum / mixed fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

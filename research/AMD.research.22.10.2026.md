@@ -5,10 +5,10 @@ Signed file: `AMD.research.22.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $507.93 (2026-10-22, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
+| Market cap | $829.18B |
+| Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | High technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
+| Current stance | High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-22.
 
@@ -17,11 +17,11 @@ Signed file: `AMD.research.22.10.2026`
 |---|---|---|
 | Technical momentum | High | 1Y +113.39%; price +26.81% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -21.79% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | High | Beta —, ATR 5.6% of price, short float —. |
+| Fundamental quality | Strong | Profit margin 15.58%, revenue growth 50.10%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 32.22, EV/Sales 21.63. |
+| Risk level | High | Beta 2.45, ATR 5.6% of price, short float 2.42%. |
 
-**Bottom line:** High technical momentum, mixed fundamentals, value: low (expensive), risk: high.
+**Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -38,7 +38,7 @@ Signed file: `AMD.research.22.10.2026`
 | Price vs 52-week range | Close $507.93; 52w high $649.42 (-21.79%); 52w low $190.95 (+166.00%) |
 | Trend | +26.81% vs SMA200, -6.22% vs SMA50, -14.33% vs SMA20 |
 | Momentum | RSI(14) 36.5 (neutral) |
-| Volatility | ATR(14) 28.23 (~5.6% of price); beta — |
+| Volatility | ATR(14) 28.23 (~5.6% of price); beta 2.45 |
 | Setup perspective | -21.79% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -55,25 +55,40 @@ Signed file: `AMD.research.22.10.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-11-03 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $41.31B | Revenue growth 50.10% y/y |
+| Profitability | Gross 55.72%, operating 17.25%, net 15.58% | ROA 5.13%, ROE 10.20% |
+| Balance sheet | Cash $13.11B, debt $4.28B | Current ratio 2.61, debt/equity 6.36 |
+| Valuation | P/E 129.57, forward P/E 32.22, P/S 20.07, P/B 12.33 | EV/Sales 21.63, EV/EBITDA 93.44 |
+| Growth expectations | Earnings growth 159.50%, EPS q/q 163.40% | Analyst mean target $637.61 (50 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 75.35% |
+| Insider ownership | 0.42% |
+| Short float | 2.42% |
+| Short ratio (days to cover) | 1.8 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 150,301,510 | 9.21% | 2026-06-30 |
+| Vanguard Capital Management LLC | 106,500,177 | 6.52% | 2026-06-30 |
+| State Street Corporation | 74,361,687 | 4.56% | 2026-06-30 |
+| Invesco Ltd. | 53,171,203 | 3.26% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 40,309,233 | 2.47% | 2026-06-30 |
+| Geode Capital Management, LLC | 39,568,601 | 2.42% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 37,929,920 | 2.32% | 2026-06-30 |
+| Price (T.Rowe) Associates Inc | 35,938,258 | 2.20% | 2026-06-30 |
+| FMR, LLC | 25,558,552 | 1.57% | 2026-06-30 |
+| Morgan Stanley | 24,286,371 | 1.49% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta —, ATR 5.6% of price, short float —. Size positions accordingly.
-- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
+- **Valuation risk:** Forward P/E 32.22, EV/Sales 21.63. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.45, ATR 5.6% of price, short float 2.42%. Size positions accordingly.
+- **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
 | Question | Pass condition |
@@ -87,27 +102,27 @@ Signed file: `AMD.research.22.10.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $507.93 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 36.5 | Operating margin | — |
-| ATR(14) | 28.23 | Profit margin | — |
-| SMA20 dist | -14.33% | ROA | — |
-| SMA50 dist | -6.22% | ROE | — |
-| SMA200 dist | +26.81% | Revenue (ttm) | — |
-| 52W high | $649.42 | Revenue growth y/y | — |
-| 52W low | $190.95 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | 0.63 | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $507.93 | EV/Sales | 21.63 |
+| Market cap | $829.18B | EV/EBITDA | 93.44 |
+| Beta | 2.45 | Gross margin | 55.72% |
+| RSI(14) | 36.5 | Operating margin | 17.25% |
+| ATR(14) | 28.23 | Profit margin | 15.58% |
+| SMA20 dist | -14.33% | ROA | 5.13% |
+| SMA50 dist | -6.22% | ROE | 10.20% |
+| SMA200 dist | +26.81% | Revenue (ttm) | $41.31B |
+| 52W high | $649.42 | Revenue growth y/y | 50.10% |
+| 52W low | $190.95 | Inst. ownership | 75.35% |
+| P/E (ttm) | 129.57 | Insider ownership | 0.42% |
+| Forward P/E | 32.22 | Short float | 2.42% |
+| PEG (trailing) | 0.63 | Avg volume | 22,354,329 |
+| P/S | 20.07 | Employees | 31,000 |
+| P/B | 12.33 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 _No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-AMD: High momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+AMD: High momentum / strong fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

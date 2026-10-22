@@ -5,10 +5,10 @@ Signed file: `MRVL.research.22.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $223.47 (2026-10-22, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
+| Market cap | $200.83B |
+| Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | High technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
+| Current stance | High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-22.
 
@@ -17,11 +17,11 @@ Signed file: `MRVL.research.22.10.2026`
 |---|---|---|
 | Technical momentum | High | 1Y +165.66%; price +25.02% vs SMA200. |
 | Fresh setup quality | Poor / broken | -29.34% from 52w high — base needs to rebuild. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | High | Beta —, ATR 7.4% of price, short float —. |
+| Fundamental quality | Strong | Profit margin 27.93%, revenue growth 36.50%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 30.49, EV/Sales 22.86. |
+| Risk level | High | Beta 2.26, ATR 7.4% of price, short float 3.21%. |
 
-**Bottom line:** High technical momentum, mixed fundamentals, value: low (expensive), risk: high.
+**Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -38,7 +38,7 @@ Signed file: `MRVL.research.22.10.2026`
 | Price vs 52-week range | Close $223.47; 52w high $316.28 (-29.34%); 52w low $73.66 (+203.39%) |
 | Trend | +25.02% vs SMA200, -7.95% vs SMA50, -13.53% vs SMA20 |
 | Momentum | RSI(14) 38.4 (neutral) |
-| Volatility | ATR(14) 16.52 (~7.4% of price); beta — |
+| Volatility | ATR(14) 16.52 (~7.4% of price); beta 2.26 |
 | Setup perspective | -29.34% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -55,12 +55,12 @@ Signed file: `MRVL.research.22.10.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-12-01 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $9.45B | Revenue growth 36.50% y/y |
+| Profitability | Gross 52.22%, operating 16.68%, net 27.93% | ROA 4.12%, ROE 16.52% |
+| Balance sheet | Cash $3.93B, debt $5.29B | Current ratio 3.17, debt/equity 28.52 |
+| Valuation | P/E 73.51, forward P/E 30.49, P/S 21.25, P/B 10.57 | EV/Sales 22.86, EV/EBITDA 75.78 |
+| Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $341.63 (44 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -71,10 +71,10 @@ Signed file: `MRVL.research.22.10.2026`
 | Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta —, ATR 7.4% of price, short float —. Size positions accordingly.
+- **Valuation risk:** Forward P/E 30.49, EV/Sales 22.86. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.26, ATR 7.4% of price, short float 3.21%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
-- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
+- **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
 | Question | Pass condition |
@@ -88,27 +88,27 @@ Signed file: `MRVL.research.22.10.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $223.47 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 38.4 | Operating margin | — |
-| ATR(14) | 16.52 | Profit margin | — |
-| SMA20 dist | -13.53% | ROA | — |
-| SMA50 dist | -7.95% | ROE | — |
-| SMA200 dist | +25.02% | Revenue (ttm) | — |
-| 52W high | $316.28 | Revenue growth y/y | — |
-| 52W low | $73.66 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | 1.39 | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $223.47 | EV/Sales | 22.86 |
+| Market cap | $200.83B | EV/EBITDA | 75.78 |
+| Beta | 2.26 | Gross margin | 52.22% |
+| RSI(14) | 38.4 | Operating margin | 16.68% |
+| ATR(14) | 16.52 | Profit margin | 27.93% |
+| SMA20 dist | -13.53% | ROA | 4.12% |
+| SMA50 dist | -7.95% | ROE | 16.52% |
+| SMA200 dist | +25.02% | Revenue (ttm) | $9.45B |
+| 52W high | $316.28 | Revenue growth y/y | 36.50% |
+| 52W low | $73.66 | Inst. ownership | 81.75% |
+| P/E (ttm) | 73.51 | Insider ownership | 0.50% |
+| Forward P/E | 30.49 | Short float | 3.21% |
+| PEG (trailing) | 1.39 | Avg volume | 21,719,951 |
+| P/S | 21.25 | Employees | 7,480 |
+| P/B | 10.57 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 _No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-MRVL: High momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+MRVL: High momentum / strong fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

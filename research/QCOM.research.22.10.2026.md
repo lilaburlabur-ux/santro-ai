@@ -5,8 +5,8 @@ Signed file: `QCOM.research.22.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $172.83 (2026-10-22, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
+| Market cap | $184.55B |
+| Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
 
@@ -17,9 +17,9 @@ Signed file: `QCOM.research.22.10.2026`
 |---|---|---|
 | Technical momentum | Moderate | 1Y +4.50%; price +2.80% vs SMA200. |
 | Fresh setup quality | Poor / broken | -30.52% from 52w high — base needs to rebuild. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | Elevated | Beta —, ATR 4.0% of price, short float —. |
+| Fundamental quality | Mixed | Profit margin 21.01%, revenue growth -4.00%. |
+| Value attractiveness | Reasonable | Forward P/E 16.96, EV/Sales 4.40. |
+| Risk level | Elevated | Beta 1.65, ATR 4.0% of price, short float 3.70%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: elevated.
 
@@ -38,7 +38,7 @@ Signed file: `QCOM.research.22.10.2026`
 | Price vs 52-week range | Close $172.83; 52w high $248.74 (-30.52%); 52w low $122.94 (+40.58%) |
 | Trend | +2.80% vs SMA200, -1.59% vs SMA50, -3.70% vs SMA20 |
 | Momentum | RSI(14) 44.6 (neutral) |
-| Volatility | ATR(14) 6.88 (~4.0% of price); beta — |
+| Volatility | ATR(14) 6.88 (~4.0% of price); beta 1.65 |
 | Setup perspective | -30.52% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -55,26 +55,40 @@ Signed file: `QCOM.research.22.10.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-11-04 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $44.07B | Revenue growth -4.00% y/y |
+| Profitability | Gross 54.23%, operating 18.53%, net 21.01% | ROA 11.61%, ROE 33.75% |
+| Balance sheet | Cash $8.30B, debt $15.27B | Current ratio 2.02, debt/equity 55.21 |
+| Valuation | P/E 20.00, forward P/E 16.96, P/S 4.19, P/B 6.60 | EV/Sales 4.40, EV/EBITDA 16.16 |
+| Growth expectations | Earnings growth -23.00%, EPS q/q -24.90% | Analyst mean target $195.80 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 83.65% |
+| Insider ownership | 0.12% |
+| Short float | 3.70% |
+| Short ratio (days to cover) | 2.5 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 95,151,875 | 8.91% | 2026-06-30 |
+| Vanguard Capital Management LLC | 68,837,417 | 6.45% | 2026-06-30 |
+| State Street Corporation | 52,763,263 | 4.94% | 2026-06-30 |
+| Invesco Ltd. | 36,101,702 | 3.38% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 33,847,770 | 3.17% | 2026-06-30 |
+| Geode Capital Management, LLC | 29,645,446 | 2.78% | 2026-06-30 |
+| Charles Schwab Investment Management, Inc. | 22,310,326 | 2.09% | 2026-06-30 |
+| Van Eck Associates Corporation | 17,202,619 | 1.61% | 2026-06-30 |
+| Morgan Stanley | 17,100,302 | 1.60% | 2026-06-30 |
+| NORGES BANK | 16,209,022 | 1.52% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta —, ATR 4.0% of price, short float —. Size positions accordingly.
+- **Volatility risk:** Beta 1.65, ATR 4.0% of price, short float 3.70%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
-- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
+- **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
 | Question | Pass condition |
@@ -88,21 +102,21 @@ Signed file: `QCOM.research.22.10.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $172.83 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 44.6 | Operating margin | — |
-| ATR(14) | 6.88 | Profit margin | — |
-| SMA20 dist | -3.70% | ROA | — |
-| SMA50 dist | -1.59% | ROE | — |
-| SMA200 dist | +2.80% | Revenue (ttm) | — |
-| 52W high | $248.74 | Revenue growth y/y | — |
-| 52W low | $122.94 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | 0.88 | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $172.83 | EV/Sales | 4.40 |
+| Market cap | $184.55B | EV/EBITDA | 16.16 |
+| Beta | 1.65 | Gross margin | 54.23% |
+| RSI(14) | 44.6 | Operating margin | 18.53% |
+| ATR(14) | 6.88 | Profit margin | 21.01% |
+| SMA20 dist | -3.70% | ROA | 11.61% |
+| SMA50 dist | -1.59% | ROE | 33.75% |
+| SMA200 dist | +2.80% | Revenue (ttm) | $44.07B |
+| 52W high | $248.74 | Revenue growth y/y | -4.00% |
+| 52W low | $122.94 | Inst. ownership | 83.65% |
+| P/E (ttm) | 20.00 | Insider ownership | 0.12% |
+| Forward P/E | 16.96 | Short float | 3.70% |
+| PEG (trailing) | 0.88 | Avg volume | 11,945,095 |
+| P/S | 4.19 | Employees | 52,000 |
+| P/B | 6.60 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 _No recent analyst actions available from Yahoo._

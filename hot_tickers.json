@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-22T11:55:14+00:00",
+  "as_of": "2026-10-22T12:10:38+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "LRCX",
    "company": "Lam Research Corp",
-   "move_pct": -7.64,
-   "price": 240.89,
+   "move_pct": -7.67,
+   "price": 240.81,
    "volume": 15811300,
    "volume_vs_avg": "~2x",
    "heat_score": 50,
@@ -27,16 +27,16 @@
    "rank": 2,
    "ticker": "IBM",
    "company": "International Business Machines Corp",
-   "move_pct": -5.76,
-   "price": 236.98,
+   "move_pct": -6.27,
+   "price": 235.7,
    "volume": 9644900,
    "volume_vs_avg": "~2x",
-   "heat_score": 44,
+   "heat_score": 45,
    "direction": "down",
-   "why": "Social Buzz: Wallstreetbets Stocks Decline Pre-Bell Thursday; IBM, Tesla to Open Lower",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-decline-103535800.html",
-   "published": "2026-10-22T10:35:35+00:00",
+   "why": "Premarket movers: Tesla, IBM slide; Meta earnings fail to lift sentiment",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-tesla-ibm-slide-115135411.html",
+   "published": "2026-10-22T11:51:35+00:00",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]

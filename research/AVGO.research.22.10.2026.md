@@ -1,5 +1,5 @@
 # AVGO Research Report
-**Broadcom** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Broadcom Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `AVGO.research.22.10.2026`
 
 | Field | Value |
@@ -30,7 +30,7 @@ Signed file: `AVGO.research.22.10.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+Broadcom Inc. designs, develops, and supplies various semiconductor devices and infrastructure software solutions internationally. The company operates in two segments: Semiconductor Solutions and Infrastructure Software.
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -65,10 +65,25 @@ Signed file: `AVGO.research.22.10.2026`
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 79.70% |
+| Insider ownership | 1.92% |
+| Short float | 1.16% |
+| Short ratio (days to cover) | 2.0 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 398,213,826 | 8.34% | 2026-06-30 |
+| Vanguard Capital Management LLC | 309,168,582 | 6.48% | 2026-06-30 |
+| State Street Corporation | 196,900,541 | 4.12% | 2026-06-30 |
+| FMR, LLC | 144,359,173 | 3.02% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 127,001,513 | 2.66% | 2026-06-30 |
+| Capital World Investors | 121,892,859 | 2.55% | 2026-06-30 |
+| Geode Capital Management, LLC | 116,394,795 | 2.44% | 2026-06-30 |
+| Capital Research Global Investors | 113,126,312 | 2.37% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 95,016,148 | 1.99% | 2026-06-30 |
+| Price (T.Rowe) Associates Inc | 82,851,970 | 1.74% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Volatility risk:** Beta 1.48, ATR 3.6% of price, short float 1.16%. Size positions accordingly.

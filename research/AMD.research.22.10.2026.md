@@ -1,5 +1,5 @@
 # AMD Research Report
-**AMD** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Advanced Micro Devices, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `AMD.research.22.10.2026`
 
 | Field | Value |
@@ -30,7 +30,7 @@ Signed file: `AMD.research.22.10.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+Advanced Micro Devices, Inc. operates as a semiconductor company internationally. It operates in three segments: Data Center, Client and Gaming, and Embedded.
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -119,7 +119,16 @@ Signed file: `AMD.research.22.10.2026`
 | P/B | 12.33 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-10-21 | main | Susquehanna | Positive → Positive |
+| 2026-10-20 | reit | Wedbush | Outperform → Outperform |
+| 2026-10-06 | main | Citigroup | Buy → Buy |
+| 2026-10-06 | main | Mizuho | Outperform → Outperform |
+| 2026-10-05 | main | Stifel | Buy → Buy |
+| 2026-09-29 | reit | StoneX | Buy → Buy |
+| 2026-09-29 | main | Rosenblatt | Buy → Buy |
+| 2026-09-25 | main | B of A Securities | Buy → Buy |
 
 ## 9. Conclusion
 AMD: High momentum / strong fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

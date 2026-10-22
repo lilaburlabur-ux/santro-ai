@@ -1,5 +1,5 @@
 # MRVL Research Report
-**Marvell Technology** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Marvell Technology, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `MRVL.research.22.10.2026`
 
 | Field | Value |
@@ -30,7 +30,7 @@ Signed file: `MRVL.research.22.10.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+Marvell Technology, Inc., together with its subsidiaries, provides data infrastructure semiconductor solutions and spanning the data center core to network edge in the United States, Argentina, China, India, Israel, Japan, Singapore, South Korea, Taiwan, Vietnam, and internationally. The company develops and scales system-on-a-chip architectures, integrating analog, mixed-signal, and digital signal processing functionality.
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -65,10 +65,25 @@ Signed file: `MRVL.research.22.10.2026`
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 81.75% |
+| Insider ownership | 0.50% |
+| Short float | 3.21% |
+| Short ratio (days to cover) | 1.3 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 85,641,174 | 9.77% | 2026-06-30 |
+| Vanguard Capital Management LLC | 57,898,902 | 6.60% | 2026-06-30 |
+| FMR, LLC | 56,933,063 | 6.49% | 2026-06-30 |
+| State Street Corporation | 41,834,272 | 4.77% | 2026-06-30 |
+| Invesco Ltd. | 30,285,653 | 3.45% | 2026-06-30 |
+| Geode Capital Management, LLC | 21,126,096 | 2.41% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 21,015,501 | 2.40% | 2026-06-30 |
+| Goldman Sachs Group Inc | 14,700,948 | 1.68% | 2026-06-30 |
+| NORGES BANK | 14,201,483 | 1.62% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 13,891,628 | 1.58% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 30.49, EV/Sales 22.86. Multiple compression is the main downside if growth disappoints.
@@ -105,7 +120,16 @@ Signed file: `MRVL.research.22.10.2026`
 | P/B | 10.57 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-10-07 | main | UBS | Buy → Buy |
+| 2026-10-07 | main | Jefferies | Buy → Buy |
+| 2026-10-07 | main | JP Morgan | Overweight → Overweight |
+| 2026-10-07 | main | Wells Fargo | Overweight → Overweight |
+| 2026-10-07 | main | Wolfe Research | Outperform → Outperform |
+| 2026-10-07 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
+| 2026-10-07 | main | RBC Capital | Outperform → Outperform |
+| 2026-10-07 | main | Piper Sandler | Overweight → Overweight |
 
 ## 9. Conclusion
 MRVL: High momentum / strong fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

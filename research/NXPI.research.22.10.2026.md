@@ -1,5 +1,5 @@
 # NXPI Research Report
-**NXP Semiconductors** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**NXP Semiconductors N.V.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `NXPI.research.22.10.2026`
 
 | Field | Value |
@@ -30,7 +30,7 @@ Signed file: `NXPI.research.22.10.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+NXP Semiconductors N.V. provides semiconductor products in the United States, Germany, Japan, South Korea, Taiwan, Singapore, the Netherlands, Mainland China, Hong Kong, and internationally.
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -119,7 +119,16 @@ Signed file: `NXPI.research.22.10.2026`
 | P/B | 5.26 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-10-20 | main | Wells Fargo | Equal-Weight → Equal-Weight |
+| 2026-10-19 | main | TD Cowen | Buy → Buy |
+| 2026-10-08 | down | Citigroup | Buy → Neutral |
+| 2026-10-05 | main | Stifel | Hold → Hold |
+| 2026-08-17 | reit | Cantor Fitzgerald | Overweight → Overweight |
+| 2026-08-03 | down | UBS | Buy → Neutral |
+| 2026-07-29 | main | TD Cowen | Buy → Buy |
+| 2026-07-29 | main | Wells Fargo | Equal-Weight → Equal-Weight |
 
 ## 9. Conclusion
 NXPI: Low momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

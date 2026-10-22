@@ -1,5 +1,5 @@
 # MU Research Report
-**Micron Technology** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Micron Technology, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `MU.research.22.10.2026`
 
 | Field | Value |
@@ -30,7 +30,7 @@ Signed file: `MU.research.22.10.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+Micron Technology, Inc. engages in the provision of semiconductor memory and storage products in the United States, Taiwan, Mainland China, other Asia Pacific countries, Japan, Europe, and internationally. It operates through Cloud Memory Business Unit, Core Data Center Business Unit, Mobile and Client Business Unit, and Automotive and Embedded Business Unit segments.
 
 ## 3. Technical Analysis
 | Technical item | Read |

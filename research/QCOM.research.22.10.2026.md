@@ -1,5 +1,5 @@
 # QCOM Research Report
-**Qualcomm** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**QUALCOMM Incorporated** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `QCOM.research.22.10.2026`
 
 | Field | Value |
@@ -8,7 +8,7 @@ Signed file: `QCOM.research.22.10.2026`
 | Market cap | $184.55B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-22.
 
@@ -21,7 +21,7 @@ Signed file: `QCOM.research.22.10.2026`
 | Value attractiveness | Reasonable | Forward P/E 16.96, EV/Sales 4.40. |
 | Risk level | Elevated | Beta 1.65, ATR 4.0% of price, short float 3.70%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: elevated.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `QCOM.research.22.10.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+QUALCOMM Incorporated engages in the development and commercialization of foundational technologies for the wireless industry worldwide. It operates through three segments: Qualcomm CDMA Technologies (QCT); Qualcomm Technology Licensing (QTL); and Qualcomm Strategic Initiatives (QSI).
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -119,10 +119,19 @@ Signed file: `QCOM.research.22.10.2026`
 | P/B | 6.60 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-10-21 | main | Susquehanna | Neutral → Neutral |
+| 2026-10-19 | main | TD Cowen | Buy → Buy |
+| 2026-09-10 | init | Piper Sandler | — → Neutral |
+| 2026-09-09 | main | RBC Capital | Sector Perform → Sector Perform |
+| 2026-09-09 | main | Rosenblatt | Buy → Buy |
+| 2026-07-30 | main | Benchmark | Buy → Buy |
+| 2026-07-30 | main | UBS | Neutral → Neutral |
+| 2026-07-30 | main | Susquehanna | Neutral → Neutral |
 
 ## 9. Conclusion
-QCOM: Moderate momentum / mixed fundamentals / low (expensive) value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+QCOM: Moderate momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

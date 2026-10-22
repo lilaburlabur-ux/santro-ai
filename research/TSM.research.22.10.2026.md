@@ -1,5 +1,5 @@
 # TSM Research Report
-**Taiwan Semiconductor (TSMC)** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Taiwan Semiconductor Manufacturing Company Limited** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `TSM.research.22.10.2026`
 
 | Field | Value |
@@ -8,7 +8,7 @@ Signed file: `TSM.research.22.10.2026`
 | Market cap | $2.14T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-22.
 
@@ -21,7 +21,7 @@ Signed file: `TSM.research.22.10.2026`
 | Value attractiveness | Reasonable | Forward P/E 17.63, EV/Sales 2.98. |
 | Risk level | Elevated | Beta 1.24, ATR 3.2% of price, short float 0.63%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: elevated.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `TSM.research.22.10.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiaries, manufactures, packages, tests, and sells integrated circuits and other semiconductor devices in Taiwan, China, Europe, the Middle East, Africa, Japan, the United States, and internationally. It provides various wafer fabrication processes, such as processes to manufacture complementary metal- oxide-semiconductor (CMOS) logic, mixed-signal, radio frequency, embedded memory, bipolar CMOS mixed-signal, and others.
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -65,10 +65,25 @@ Signed file: `TSM.research.22.10.2026`
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 15.50% |
+| Insider ownership | 0.01% |
+| Short float | 0.63% |
+| Short ratio (days to cover) | 3.1 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| FMR, LLC | 58,937,551 | 1.14% | 2026-06-30 |
+| Capital World Investors | 34,372,274 | 0.66% | 2026-06-30 |
+| Sanders Capital, LLC | 26,149,064 | 0.50% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 23,829,286 | 0.46% | 2026-06-30 |
+| Blackrock Inc. | 20,112,852 | 0.39% | 2026-06-30 |
+| Fisher Asset Management, LLC | 18,866,198 | 0.36% | 2026-06-30 |
+| Van Eck Associates Corporation | 17,210,604 | 0.33% | 2026-06-30 |
+| Morgan Stanley | 15,847,816 | 0.31% | 2026-06-30 |
+| Goldman Sachs Group Inc | 16,125,333 | 0.31% | 2026-06-30 |
+| Bank of America Corporation | 15,282,620 | 0.29% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Volatility risk:** Beta 1.24, ATR 3.2% of price, short float 0.63%. Size positions accordingly.
@@ -103,10 +118,19 @@ Signed file: `TSM.research.22.10.2026`
 | P/B | 79.21 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-10-16 | main | Barclays | Overweight → Overweight |
+| 2026-10-16 | main | DA Davidson | Buy → Buy |
+| 2026-10-15 | main | Needham | Buy → Buy |
+| 2026-10-06 | main | Barclays | Overweight → Overweight |
+| 2026-09-02 | init | Stifel | — → Buy |
+| 2026-08-11 | main | Bernstein | Outperform → Outperform |
+| 2026-07-27 | main | Needham | Buy → Buy |
+| 2026-07-17 | main | DA Davidson | Buy → Buy |
 
 ## 9. Conclusion
-TSM: Moderate momentum / mixed fundamentals / low (expensive) value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+TSM: Moderate momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

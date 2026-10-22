@@ -1,5 +1,5 @@
 # SYNA Research Report
-**Synaptics** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Synaptics Incorporated** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `SYNA.research.22.10.2026`
 
 | Field | Value |
@@ -30,7 +30,7 @@ Signed file: `SYNA.research.22.10.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+Synaptics Incorporated develops, markets, and sells semiconductor products worldwide. The company provides edge AI processors, wireless connectivity, touch controllers, biometrics, voice, audio, and multimedia products for physical AI and robotics, edge AI, smart home, industrial and automotive, personal computers, and mobile applications, as well as modular development kits, open software frameworks, and optimized AI/ML toolchains.
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -65,10 +65,25 @@ Signed file: `SYNA.research.22.10.2026`
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 106.37% |
+| Insider ownership | 0.87% |
+| Short float | 10.18% |
+| Short ratio (days to cover) | 4.5 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Ameriprise Financial, Inc. | 7,481,694 | 18.84% | 2026-06-30 |
+| Blackrock Inc. | 4,983,061 | 12.55% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 2,617,281 | 6.59% | 2026-06-30 |
+| State Street Corporation | 2,114,506 | 5.33% | 2026-06-30 |
+| FMR, LLC | 1,829,931 | 4.61% | 2026-06-30 |
+| Vanguard Capital Management LLC | 1,679,684 | 4.23% | 2026-06-30 |
+| Orbis Allan Gray Ltd | 1,422,657 | 3.58% | 2026-06-30 |
+| William Blair Investment Management, LLC | 1,239,622 | 3.12% | 2026-06-30 |
+| Geode Capital Management, LLC | 1,076,383 | 2.71% | 2026-06-30 |
+| Manufacturers Life Insurance Co. | 1,075,878 | 2.71% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Volatility risk:** Beta 1.96, ATR 2.3% of price, short float 10.18%. Size positions accordingly.
@@ -105,7 +120,16 @@ Signed file: `SYNA.research.22.10.2026`
 | P/B | 4.92 | Analyst rec (1=buy..5=sell) | 2.8 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-10-02 | down | Wells Fargo | Overweight → Equal-Weight |
+| 2026-10-02 | main | Rosenblatt | Neutral → Neutral |
+| 2026-08-07 | main | Wells Fargo | Overweight → Overweight |
+| 2026-08-07 | main | Rosenblatt | Neutral → Neutral |
+| 2026-07-21 | main | Susquehanna | Neutral → Neutral |
+| 2026-07-01 | main | Mizuho | Outperform → Outperform |
+| 2026-06-29 | down | Deutsche Bank | Buy → Hold |
+| 2026-06-29 | down | Barclays | Overweight → Equal-Weight |
 
 ## 9. Conclusion
 SYNA: High momentum / weak fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

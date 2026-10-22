@@ -1,5 +1,5 @@
 # NVDA Research Report
-**NVIDIA** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**NVIDIA Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `NVDA.research.22.10.2026`
 
 | Field | Value |
@@ -8,7 +8,7 @@ Signed file: `NVDA.research.22.10.2026`
 | Market cap | $5.12T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-22.
 
@@ -21,7 +21,7 @@ Signed file: `NVDA.research.22.10.2026`
 | Value attractiveness | Reasonable | Forward P/E 13.33, EV/Sales 17.58. |
 | Risk level | High | Beta 2.22, ATR 2.9% of price, short float 1.34%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `NVDA.research.22.10.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+NVIDIA Corporation operates as a data center scale AI infrastructure company in the United States, Taiwan, China, Hong Kong, Europe, and internationally. It operates through Compute & Networking, and Graphics segments. The Compute & Networking segment provides data center accelerated computing and networking platforms and artificial intelligence solutions and software, and automotive platforms and autonomous and electric vehicle solutions, including software. The Graphics segment offers GeForce GPUs for gaming and PCs; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics.
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -65,10 +65,25 @@ Signed file: `NVDA.research.22.10.2026`
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 71.41% |
+| Insider ownership | 4.01% |
+| Short float | 1.34% |
+| Short ratio (days to cover) | 2.8 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 1,941,918,386 | 8.06% | 2026-06-30 |
+| Vanguard Capital Management LLC | 1,540,816,358 | 6.39% | 2026-06-30 |
+| FMR, LLC | 1,026,051,548 | 4.26% | 2026-06-30 |
+| State Street Corporation | 1,009,783,437 | 4.19% | 2026-06-30 |
+| Geode Capital Management, LLC | 606,216,492 | 2.52% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 517,816,949 | 2.15% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 449,404,578 | 1.86% | 2026-06-30 |
+| Price (T.Rowe) Associates Inc | 369,829,781 | 1.53% | 2026-06-30 |
+| Morgan Stanley | 356,420,089 | 1.48% | 2026-06-30 |
+| Invesco Ltd. | 329,593,488 | 1.37% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Volatility risk:** Beta 2.22, ATR 2.9% of price, short float 1.34%. Size positions accordingly.
@@ -115,7 +130,7 @@ Signed file: `NVDA.research.22.10.2026`
 | 2026-08-27 | main | Mizuho | Outperform → Outperform |
 
 ## 9. Conclusion
-NVDA: Moderate momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+NVDA: Moderate momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

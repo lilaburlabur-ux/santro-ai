@@ -1,5 +1,5 @@
 # LSCC Research Report
-**Lattice Semiconductor** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Lattice Semiconductor Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `LSCC.research.22.10.2026`
 
 | Field | Value |
@@ -30,7 +30,7 @@ Signed file: `LSCC.research.22.10.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+Lattice Semiconductor Corporation, together with its subsidiaries, develops and sells semiconductor, silicon-based and silicon-enabling, evaluation boards, and development hardware products in Asia, Europe, and the Americas. It offers field programmable gate arrays (FPGA), which are regular arrays of logic that can be custom-configured by the user through software.
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -121,7 +121,16 @@ Signed file: `LSCC.research.22.10.2026`
 | P/B | 16.79 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-10-19 | main | TD Cowen | Buy → Buy |
+| 2026-10-06 | init | William Blair | — → Outperform |
+| 2026-08-05 | main | RBC Capital | Outperform → Outperform |
+| 2026-08-05 | main | Keybanc | Overweight → Overweight |
+| 2026-08-05 | main | Needham | Buy → Buy |
+| 2026-08-05 | main | Jefferies | Buy → Buy |
+| 2026-08-04 | main | Rosenblatt | Buy → Buy |
+| 2026-07-13 | main | TD Cowen | Buy → Buy |
 
 ## 9. Conclusion
 LSCC: Low momentum / mixed fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

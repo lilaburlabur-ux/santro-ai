@@ -1,5 +1,5 @@
 # INTC Research Report
-**Intel** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Intel Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `INTC.research.22.10.2026`
 
 | Field | Value |
@@ -30,7 +30,7 @@ Signed file: `INTC.research.22.10.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+Intel Corporation designs, develops, manufactures, markets, sells, and services computing and related end products and services in the United States, Ireland, Israel, and internationally. It operates through three segments: CCG, DCAI, and Intel Foundry.
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -121,7 +121,16 @@ Signed file: `INTC.research.22.10.2026`
 | P/B | 4.92 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-10-21 | main | Susquehanna | Neutral → Neutral |
+| 2026-10-19 | main | TD Cowen | Hold → Hold |
+| 2026-10-19 | up | JP Morgan | Underweight → Neutral |
+| 2026-10-06 | main | Mizuho | Neutral → Neutral |
+| 2026-09-24 | reit | TD Cowen | Hold → Hold |
+| 2026-09-15 | main | Tigress Financial | Buy → Buy |
+| 2026-09-10 | init | Piper Sandler | — → Neutral |
+| 2026-09-08 | up | Northland Capital Markets | Market Perform → Outperform |
 
 ## 9. Conclusion
 INTC: High momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

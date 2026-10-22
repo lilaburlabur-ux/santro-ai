@@ -1,5 +1,5 @@
 # AVAV Research Report
-**AeroVironment** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**AeroVironment, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `AVAV.research.22.10.2026`
 
 | Field | Value |
@@ -30,7 +30,7 @@ Signed file: `AVAV.research.22.10.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+AeroVironment, Inc., a defense technology provider, designs, develops, produces, delivers, and supports a portfolio of robotic systems and related services for government agencies and businesses in the United States and internationally. The company operates in two segments, Autonomous Systems; and Space, Cyber and Directed Energy.
 
 ## 3. Technical Analysis
 | Technical item | Read |

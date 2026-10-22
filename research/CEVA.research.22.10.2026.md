@@ -1,5 +1,5 @@
 # CEVA Research Report
-**CEVA** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**CEVA, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `CEVA.research.22.10.2026`
 
 | Field | Value |
@@ -8,7 +8,7 @@ Signed file: `CEVA.research.22.10.2026`
 | Market cap | $793.94M |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
+| Current stance | Moderate technical momentum, weak fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-22.
 
@@ -21,7 +21,7 @@ Signed file: `CEVA.research.22.10.2026`
 | Value attractiveness | Low (expensive) | Forward P/E 35.14, EV/Sales 5.49. |
 | Risk level | High | Beta 1.93, ATR 6.1% of price, short float 11.40%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: high.
+**Bottom line:** Moderate technical momentum, weak fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `CEVA.research.22.10.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+CEVA, Inc. provides silicon and software intellectual property (IP) solutions to semiconductor and original equipment manufacturer companies in the United States, Europe, the Middle East, the Asia Pacific, and internationally.
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -122,10 +122,19 @@ Signed file: `CEVA.research.22.10.2026`
 | P/B | 2.33 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-10-19 | main | TD Cowen | Buy → Buy |
+| 2026-09-14 | up | StoneX | Hold → Buy |
+| 2026-08-11 | main | TD Cowen | Buy → Buy |
+| 2026-08-11 | main | Oppenheimer | Outperform → Outperform |
+| 2026-08-11 | main | Rosenblatt | Buy → Buy |
+| 2026-08-10 | main | Needham | Buy → Buy |
+| 2026-07-16 | init | Benchmark | — → Hold |
+| 2026-07-13 | main | TD Cowen | Buy → Buy |
 
 ## 9. Conclusion
-CEVA: Moderate momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+CEVA: Moderate momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

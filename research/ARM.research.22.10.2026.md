@@ -1,5 +1,5 @@
 # ARM Research Report
-**Arm Holdings** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Arm Holdings plc** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `ARM.research.22.10.2026`
 
 | Field | Value |
@@ -8,7 +8,7 @@ Signed file: `ARM.research.22.10.2026`
 | Market cap | $224.39B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-22.
 
@@ -21,7 +21,7 @@ Signed file: `ARM.research.22.10.2026`
 | Value attractiveness | Low (expensive) | Forward P/E 68.51, EV/Sales 46.27. |
 | Risk level | High | Beta 3.79, ATR 7.7% of price, short float 11.15%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: high.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `ARM.research.22.10.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+Arm Holdings plc researches, develops, licenses, and markets central processing unit (CPU) intellectual property (IP), graphics processing unit IP, systems IP, compute subsystems (CSS), and associated software, tools and related services. The company provides a product portfolio, including CPU IP, GPU and neural processing unit (NPU) accelerators, system IP such as interconnects, compute platform products including pre-integrated CSSs, and development tools and software.
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -65,10 +65,25 @@ Signed file: `ARM.research.22.10.2026`
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 96.26% |
+| Insider ownership | 0.07% |
+| Short float | 11.15% |
+| Short ratio (days to cover) | 2.9 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Invesco Ltd. | 12,816,588 | 1.20% | 2026-06-30 |
+| Dz Bank Ag Deutsche Zentral Genossenschafts Bank, Frankfurt Am Main | 6,504,147 | 0.61% | 2026-06-30 |
+| Capital World Investors | 4,330,875 | 0.41% | 2026-06-30 |
+| Arrowstreet Capital, Limited Partnership | 4,094,696 | 0.38% | 2026-06-30 |
+| FMR, LLC | 4,062,977 | 0.38% | 2026-06-30 |
+| Goldman Sachs Group Inc | 2,922,908 | 0.27% | 2026-06-30 |
+| Van Eck Associates Corporation | 2,600,597 | 0.24% | 2026-06-30 |
+| Capital Research Global Investors | 2,401,422 | 0.22% | 2026-06-30 |
+| Morgan Stanley | 2,158,428 | 0.20% | 2026-06-30 |
+| Capital International Investors | 2,050,241 | 0.19% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 68.51, EV/Sales 46.27. Multiple compression is the main downside if growth disappoints.
@@ -106,10 +121,19 @@ Signed file: `ARM.research.22.10.2026`
 | P/B | 26.00 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-07-31 | main | Rosenblatt | Buy → Buy |
+| 2026-07-30 | main | UBS | Buy → Buy |
+| 2026-07-30 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
+| 2026-07-30 | main | RBC Capital | Outperform → Outperform |
+| 2026-07-30 | main | TD Cowen | Buy → Buy |
+| 2026-07-30 | main | Wells Fargo | Overweight → Overweight |
+| 2026-07-30 | reit | Guggenheim | Buy → Buy |
+| 2026-07-30 | reit | Needham | Buy → Buy |
 
 ## 9. Conclusion
-ARM: Moderate momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+ARM: Moderate momentum / strong fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

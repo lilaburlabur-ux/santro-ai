@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-22T11:25:03+00:00",
+  "as_of": "2026-10-22T11:40:07+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "LRCX",
    "company": "Lam Research Corp",
-   "move_pct": -7.4,
-   "price": 241.5,
+   "move_pct": -7.46,
+   "price": 241.35,
    "volume": 15811300,
    "volume_vs_avg": "~2x",
    "heat_score": 50,
@@ -25,19 +25,19 @@
   },
   {
    "rank": 2,
-   "ticker": "TER",
-   "company": "Teradyne Inc",
-   "move_pct": -5.06,
-   "price": 328.02,
-   "volume": 2134200,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 37,
+   "ticker": "IBM",
+   "company": "International Business Machines Corp",
+   "move_pct": -5.15,
+   "price": 238.5,
+   "volume": 9644900,
+   "volume_vs_avg": "~2x",
+   "heat_score": 41,
    "direction": "down",
-   "why": "Teradyne (TER) Sees $84.4 Million in Net ETF Buying on Oct. 20",
+   "why": "Social Buzz: Wallstreetbets Stocks Decline Pre-Bell Thursday; IBM, Tesla to Open Lower",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-sees-84-4-110146926.html",
-   "published": "2026-10-22T11:01:46+00:00",
-   "sector": "Chip Equipment & AI Hardware"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-decline-103535800.html",
+   "published": "2026-10-22T10:35:35+00:00",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

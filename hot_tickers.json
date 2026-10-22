@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-22T02:50:40+00:00",
+  "as_of": "2026-10-22T08:06:17+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,35 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "SPCX",
-   "company": "SpaceX",
-   "move_pct": 7.79,
-   "price": 159.31,
-   "volume": 219146100,
+   "ticker": "LRCX",
+   "company": "Lam Research Corp",
+   "move_pct": -8.36,
+   "price": 239.0,
+   "volume": 15811300,
    "volume_vs_avg": "~2x",
-   "heat_score": 54,
-   "direction": "up",
-   "why": "Dow Jones Futures Fall; Meta, Tesla Are Earnings Movers After SpaceX Leads Bullish Nasdaq Move",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html",
-   "published": "2026-10-22T01:56:02+00:00",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
+   "heat_score": 63,
+   "direction": "down",
+   "why": "Lam Research Stock Sinks 7% on a Guide That Beat: \u201cWould Have Been a Bit Higher\u201d",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-stock-sinks-7-065348053.html",
+   "published": "2026-10-22T06:53:48+00:00",
+   "sector": "Chip Equipment & AI Hardware"
   },
   {
    "rank": 2,
-   "ticker": "CRWD",
-   "company": "Crowdstrike Holdings Inc",
-   "move_pct": 5.26,
-   "price": 239.34,
-   "volume": 9367500,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 38,
-   "direction": "up",
-   "why": "Arista Networks vs. CrowdStrike: Which Tech Stock Is a Better Buy in 2026?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-vs-crowdstrike-tech-015702060.html",
-   "published": "2026-10-22T01:57:02+00:00",
-   "sector": "Cybersecurity"
+   "ticker": "IBM",
+   "company": "International Business Machines Corp",
+   "move_pct": -5.87,
+   "price": 236.69,
+   "volume": 9644900,
+   "volume_vs_avg": "~2x",
+   "heat_score": 44,
+   "direction": "down",
+   "why": "Big Blue's Wild Wednesday Ride: IBM Crushes Q3 Earnings, So Why Did the Stock Tank Mid-Call?",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/big-blues-wild-wednesday-ride-065701343.html",
+   "published": "2026-10-22T06:57:01+00:00",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

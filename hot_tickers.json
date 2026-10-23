@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-23T21:05:42+00:00",
+  "as_of": "2026-10-23T21:10:57+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -27,11 +27,11 @@
    "rank": 2,
    "ticker": "CRWD",
    "company": "Crowdstrike Holdings Inc",
-   "move_pct": 8.26,
-   "price": 257.6,
+   "move_pct": 8.22,
+   "price": 257.51,
    "volume": 13342948,
    "volume_vs_avg": "~1.3x",
-   "heat_score": 61,
+   "heat_score": 60,
    "direction": "up",
    "why": "CrowdStrike, Palo Alto Rally as Evercore Sees Firmer Budgets",
    "catalyst_type": "momentum_narrative",
@@ -41,26 +41,10 @@
   },
   {
    "rank": 3,
-   "ticker": "SAIL",
-   "company": "SailPoint, Inc.",
-   "move_pct": 8.42,
-   "price": 21.75,
-   "volume": 6392540,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 61,
-   "direction": "up",
-   "why": "SailPoint Soars 11%, Palo Alto Up 6%, CrowdStrike Up 6% as Cybersecurity Stocks Rally",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/sailpoint-soars-11-palo-alto-170741321.html",
-   "published": "2026-10-23T17:07:41+00:00",
-   "sector": "Cybersecurity"
-  },
-  {
-   "rank": 4,
    "ticker": "PANW",
    "company": "Palo Alto Networks Inc",
-   "move_pct": 7.31,
-   "price": 380.85,
+   "move_pct": 7.35,
+   "price": 380.99,
    "volume": 6561456,
    "volume_vs_avg": "~1.1x",
    "heat_score": 46,
@@ -72,7 +56,7 @@
    "sector": "Cybersecurity"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "OKTA",
    "company": "Okta Inc",
    "move_pct": 6.06,

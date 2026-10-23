@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-23T22:16:49+00:00",
+  "as_of": "2026-10-23T22:32:03+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,49 +11,17 @@
    "rank": 1,
    "ticker": "FIX",
    "company": "Comfort Systems USA Inc",
-   "move_pct": -8.94,
-   "price": 1165.0,
+   "move_pct": -9.13,
+   "price": 1162.5,
    "volume": 1367036,
    "volume_vs_avg": "~4x",
-   "heat_score": 74,
+   "heat_score": 75,
    "direction": "down",
    "why": "Comfort Systems (FIX) Q3 2026 Earnings Call Transcript",
    "catalyst_type": "earnings",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/comfort-systems-fix-q3-2026-191300247.html",
    "published": "2026-10-23T19:13:00+00:00",
    "sector": "Powering AI"
-  },
-  {
-   "rank": 2,
-   "ticker": "CRWD",
-   "company": "Crowdstrike Holdings Inc",
-   "move_pct": 8.16,
-   "price": 257.35,
-   "volume": 13342948,
-   "volume_vs_avg": "~1.3x",
-   "heat_score": 60,
-   "direction": "up",
-   "why": "CrowdStrike, Palo Alto Rally as Evercore Sees Firmer Budgets",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-palo-alto-rally-evercore-182853152.html",
-   "published": "2026-10-23T18:28:53+00:00",
-   "sector": "Cybersecurity"
-  },
-  {
-   "rank": 3,
-   "ticker": "PANW",
-   "company": "Palo Alto Networks Inc",
-   "move_pct": 7.07,
-   "price": 380.0,
-   "volume": 6561456,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 45,
-   "direction": "up",
-   "why": "CrowdStrike, Palo Alto Rally as Evercore Sees Firmer Budgets",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-palo-alto-rally-evercore-182853152.html",
-   "published": "2026-10-23T18:28:53+00:00",
-   "sector": "Cybersecurity"
   }
  ]
 }

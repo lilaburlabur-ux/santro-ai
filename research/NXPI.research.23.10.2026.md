@@ -35,7 +35,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $234.92; 52w high $330.06 (-28.83%); 52w low $180.99 (+29.79%) |
+| Price vs 52-week range | Close $234.92; 52w high $330.06 (-28.83%); 52w low $180.99 (+29.80%) |
 | Trend | -3.91% vs SMA200, +2.19% vs SMA50, +0.20% vs SMA20 |
 | Momentum | RSI(14) 51.5 (neutral) |
 | Volatility | ATR(14) 8.09 (~3.4% of price); beta 1.81 |

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-23T15:38:40+00:00",
+  "as_of": "2026-10-23T15:53:52+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,27 +9,11 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "FIX",
-   "company": "Comfort Systems USA Inc",
-   "move_pct": -8.13,
-   "price": 1175.42,
-   "volume": 701227,
-   "volume_vs_avg": "~2x",
-   "heat_score": 63,
-   "direction": "down",
-   "why": "Can Comfort Systems USA (FIX) Justify A Reasonable Price After 13x Gains?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/comfort-systems-usa-fix-justify-141824379.html",
-   "published": "2026-10-23T14:18:24+00:00",
-   "sector": "Powering AI"
-  },
-  {
-   "rank": 2,
    "ticker": "PANW",
    "company": "Palo Alto Networks Inc",
-   "move_pct": 6.44,
-   "price": 377.77,
-   "volume": 2520275,
+   "move_pct": 6.49,
+   "price": 377.95,
+   "volume": 2664310,
    "volume_vs_avg": "~0.4x",
    "heat_score": 40,
    "direction": "up",
@@ -40,12 +24,12 @@
    "sector": "Cybersecurity"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "ticker": "CRWD",
    "company": "Crowdstrike Holdings Inc",
-   "move_pct": 5.79,
-   "price": 251.73,
-   "volume": 5885911,
+   "move_pct": 5.8,
+   "price": 251.74,
+   "volume": 6187872,
    "volume_vs_avg": "~0.6x",
    "heat_score": 38,
    "direction": "up",
@@ -56,12 +40,12 @@
    "sector": "Cybersecurity"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "ticker": "OKTA",
    "company": "Okta Inc",
-   "move_pct": 6.3,
-   "price": 214.01,
-   "volume": 1049621,
+   "move_pct": 6.13,
+   "price": 213.67,
+   "volume": 1119377,
    "volume_vs_avg": "~0.3x",
    "heat_score": 38,
    "direction": "up",

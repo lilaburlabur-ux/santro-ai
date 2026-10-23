@@ -18,7 +18,7 @@ Signed file: `NXPI.research.23.10.2026`
 | Technical momentum | Low | Below SMA200 (-3.91%) with negative half-year (-2.98%). |
 | Fresh setup quality | Poor / broken | -28.83% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 22.56%, revenue growth 19.50%. |
-| Value attractiveness | Reasonable | Forward P/E 12.84, EV/Sales 5.16. |
+| Value attractiveness | Reasonable | Forward P/E 12.84, EV/Sales 5.11. |
 | Risk level | Elevated | Beta 1.81, ATR 3.4% of price, short float 3.00%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -35,7 +35,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $234.92; 52w high $330.06 (-28.83%); 52w low $180.99 (+29.80%) |
+| Price vs 52-week range | Close $234.92; 52w high $330.06 (-28.83%); 52w low $180.99 (+29.79%) |
 | Trend | -3.91% vs SMA200, +2.19% vs SMA50, +0.20% vs SMA20 |
 | Momentum | RSI(14) 51.5 (neutral) |
 | Volatility | ATR(14) 8.09 (~3.4% of price); beta 1.81 |
@@ -59,7 +59,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Revenue (ttm) | $13.19B | Revenue growth 19.50% y/y |
 | Profitability | Gross 56.10%, operating 30.41%, net 22.56% | ROA 10.46%, ROE 27.92% |
 | Balance sheet | Cash $3.22B, debt $10.98B | Current ratio 2.04, debt/equity 93.33 |
-| Valuation | P/E 20.06, forward P/E 12.84, P/S 4.49, P/B 5.20 | EV/Sales 5.16, EV/EBITDA 13.43 |
+| Valuation | P/E 20.06, forward P/E 12.84, P/S 4.49, P/B 5.20 | EV/Sales 5.11, EV/EBITDA 13.29 |
 | Growth expectations | Earnings growth 72.60%, EPS q/q 72.40% | Analyst mean target $305.28 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,8 +102,8 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $234.92 | EV/Sales | 5.16 |
-| Market cap | $59.24B | EV/EBITDA | 13.43 |
+| Price | $234.92 | EV/Sales | 5.11 |
+| Market cap | $59.24B | EV/EBITDA | 13.29 |
 | Beta | 1.81 | Gross margin | 56.10% |
 | RSI(14) | 51.5 | Operating margin | 30.41% |
 | ATR(14) | 8.09 | Profit margin | 22.56% |

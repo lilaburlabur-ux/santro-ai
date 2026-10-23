@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-23T22:01:41+00:00",
+  "as_of": "2026-10-23T22:16:49+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "CRWD",
    "company": "Crowdstrike Holdings Inc",
-   "move_pct": 8.19,
-   "price": 257.42,
+   "move_pct": 8.16,
+   "price": 257.35,
    "volume": 13342948,
    "volume_vs_avg": "~1.3x",
    "heat_score": 60,
@@ -43,32 +43,16 @@
    "rank": 3,
    "ticker": "PANW",
    "company": "Palo Alto Networks Inc",
-   "move_pct": 7.31,
-   "price": 380.85,
+   "move_pct": 7.07,
+   "price": 380.0,
    "volume": 6561456,
    "volume_vs_avg": "~1.1x",
-   "heat_score": 46,
+   "heat_score": 45,
    "direction": "up",
    "why": "CrowdStrike, Palo Alto Rally as Evercore Sees Firmer Budgets",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-palo-alto-rally-evercore-182853152.html",
    "published": "2026-10-23T18:28:53+00:00",
-   "sector": "Cybersecurity"
-  },
-  {
-   "rank": 4,
-   "ticker": "OKTA",
-   "company": "Okta Inc",
-   "move_pct": 6.14,
-   "price": 213.7,
-   "volume": 3050336,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 41,
-   "direction": "up",
-   "why": "Palo Alto and Crowdstrike Jumped 6%, and Okta Up 5% as Evercore Survey Flags Stronger Cyber Demand",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-crowdstrike-jumped-6-181629462.html",
-   "published": "2026-10-23T18:16:29+00:00",
    "sector": "Cybersecurity"
   }
  ]

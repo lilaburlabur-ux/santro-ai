@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-24T13:53:16+00:00",
-  "as_of_local": "2026-10-24 13:53:16 UTC",
+  "as_of_utc": "2026-10-24T14:08:19+00:00",
+  "as_of_local": "2026-10-24 14:08:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -41,21 +43,12 @@
       "headlines": []
     },
     {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 516.79,
-      "previous_close": 507.93,
-      "change_pct": 1.74,
-      "market_cap": 843646741085.3671,
-      "headlines": []
-    },
-    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 86.96,
       "previous_close": 85.49,
       "change_pct": 1.72,
-      "market_cap": 456933603541.7375,
+      "market_cap": 459679708743.9461,
       "headlines": []
     },
     {
@@ -100,7 +93,7 @@
       "price": 96.19,
       "previous_close": 96.4,
       "change_pct": -0.22,
-      "market_cap": 13661892210.433594,
+      "market_cap": 13634856759.777405,
       "headlines": []
     },
     {
@@ -319,8 +312,8 @@
     },
     {
       "label": "BTC",
-      "price": 80610.18,
-      "change_pct": -0.57
+      "price": 80621.23,
+      "change_pct": -0.56
     },
     {
       "label": "Gold",

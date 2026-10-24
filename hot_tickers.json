@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-23T23:56:14+00:00",
+  "as_of": "2026-10-24T02:00:00+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,9 +11,9 @@
    "rank": 1,
    "ticker": "FIX",
    "company": "Comfort Systems USA Inc",
-   "move_pct": -9.27,
-   "price": 1160.75,
-   "volume": 1367036,
+   "move_pct": -9.26,
+   "price": 1160.86,
+   "volume": 1367300,
    "volume_vs_avg": "~4x",
    "heat_score": 60,
    "direction": "down",

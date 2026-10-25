@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-25T19:32:17+00:00",
-  "as_of_local": "2026-10-25 19:32:17 UTC",
+  "as_of_utc": "2026-10-25T19:47:17+00:00",
+  "as_of_local": "2026-10-25 19:47:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -170,8 +170,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 1.27,
-          "price": 12755.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "JPY"
         },
         {
@@ -260,8 +260,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 1.27,
-        "price": 12755.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "JPY"
       },
       {
@@ -319,8 +319,13 @@
     },
     {
       "label": "BTC",
-      "price": 80472.97,
-      "change_pct": -0.39
+      "price": 80496.15,
+      "change_pct": -0.36
+    },
+    {
+      "label": "Gold",
+      "price": 4007.9,
+      "change_pct": -1.29
     },
     {
       "label": "Nasdaq100",

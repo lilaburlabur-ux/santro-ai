@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-26T17:27:40+00:00",
+  "as_of": "2026-10-26T17:42:51+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,29 +9,13 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "TSLA",
-   "company": "Tesla Inc",
-   "move_pct": 6.28,
-   "price": 395.61,
-   "volume": 35511559,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 42,
-   "direction": "up",
-   "why": "Tesla's AI Momentum Gives Hikaru Nakamura's Portfolio a Lift",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/teslas-ai-momentum-gives-hikaru-154525196.html",
-   "published": "2026-10-26T15:45:25+00:00",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 2,
    "ticker": "PINS",
    "company": "Pinterest Inc",
-   "move_pct": -6.38,
-   "price": 20.9,
-   "volume": 5152324,
+   "move_pct": -6.79,
+   "price": 20.81,
+   "volume": 5379022,
    "volume_vs_avg": "~0.4x",
-   "heat_score": 39,
+   "heat_score": 41,
    "direction": "down",
    "why": "Can Pinterest Stock Jump 50%?",
    "catalyst_type": "momentum_narrative",
@@ -40,28 +24,28 @@
    "sector": "AI Platforms, Internet & AdTech"
   },
   {
-   "rank": 3,
-   "ticker": "INTC",
-   "company": "Intel Corp",
-   "move_pct": 5.57,
-   "price": 91.81,
-   "volume": 59127178,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 37,
+   "rank": 2,
+   "ticker": "TSLA",
+   "company": "Tesla Inc",
+   "move_pct": 6.11,
+   "price": 394.95,
+   "volume": 36531950,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 41,
    "direction": "up",
-   "why": "IBM Fixed Its Plumbing; Intel Became Big Tech\u2019s Real Structural Trap",
+   "why": "Barclays Makes Bold Tesla Stock Call After SpaceX Twist",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ibm-fixed-plumbing-intel-became-164548935.html",
-   "published": "2026-10-26T16:45:48+00:00",
-   "sector": "AI Chips & Compute"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/barclays-makes-bold-tesla-stock-172735242.html",
+   "published": "2026-10-26T17:27:35+00:00",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "ticker": "GEV",
    "company": "GE Vernova Inc",
-   "move_pct": 5.25,
-   "price": 857.79,
-   "volume": 1664699,
+   "move_pct": 5.44,
+   "price": 859.3,
+   "volume": 1711901,
    "volume_vs_avg": "~0.7x",
    "heat_score": 37,
    "direction": "up",
@@ -70,6 +54,22 @@
    "source_url": "https://finance.yahoo.com/energy/articles/ge-vernova-gev-lands-372-151016579.html",
    "published": "2026-10-26T15:10:16+00:00",
    "sector": "Powering AI"
+  },
+  {
+   "rank": 4,
+   "ticker": "INTC",
+   "company": "Intel Corp",
+   "move_pct": 5.19,
+   "price": 91.47,
+   "volume": 61478826,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 36,
+   "direction": "up",
+   "why": "IBM Fixed Its Plumbing; Intel Became Big Tech\u2019s Real Structural Trap",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ibm-fixed-plumbing-intel-became-164548935.html",
+   "published": "2026-10-26T16:45:48+00:00",
+   "sector": "AI Chips & Compute"
   }
  ]
 }

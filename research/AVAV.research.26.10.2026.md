@@ -38,7 +38,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Price vs 52-week range | Close $125.45; 52w high $392.86 (-68.07%); 52w low $117.51 (+6.76%) |
 | Trend | -34.06% vs SMA200, -13.26% vs SMA50, -3.75% vs SMA20 |
 | Momentum | RSI(14) 39.6 (neutral) |
-| Volatility | ATR(14) 6.96 (~5.6% of price); beta 1.36 |
+| Volatility | ATR(14) 6.97 (~5.6% of price); beta 1.36 |
 | Setup perspective | -68.07% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -109,7 +109,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Market cap | $6.38B | EV/EBITDA | 29.76 |
 | Beta | 1.36 | Gross margin | 26.47% |
 | RSI(14) | 39.6 | Operating margin | -2.27% |
-| ATR(14) | 6.96 | Profit margin | -10.13% |
+| ATR(14) | 6.97 | Profit margin | -10.13% |
 | SMA20 dist | -3.75% | ROA | -0.13% |
 | SMA50 dist | -13.26% | ROE | -4.60% |
 | SMA200 dist | -34.06% | Revenue (ttm) | $2.00B |

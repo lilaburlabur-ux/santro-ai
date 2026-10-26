@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-26T09:57:12+00:00",
+  "as_of": "2026-10-26T10:12:18+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "FIX",
+   "company": "Comfort Systems USA Inc",
+   "move_pct": 0.7,
+   "price": 1169.0,
+   "volume": 1367300,
+   "volume_vs_avg": "~4x",
+   "heat_score": 35,
+   "direction": "up",
+   "why": "Goldman Sachs Adjusts Price Target on Comfort Systems USA to $1,895 From $1,875",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-price-target-094519489.html",
+   "published": "2026-10-26T09:45:19+00:00",
+   "sector": "Powering AI"
+  }
+ ]
 }

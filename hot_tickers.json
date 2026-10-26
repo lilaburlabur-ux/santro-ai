@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-26T12:26:23+00:00",
+  "as_of": "2026-10-26T12:41:41+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "FIX",
    "company": "Comfort Systems USA Inc",
-   "move_pct": 1.91,
-   "price": 1183.0,
+   "move_pct": 1.39,
+   "price": 1177.0,
    "volume": 1367300,
    "volume_vs_avg": "~4x",
-   "heat_score": 40,
+   "heat_score": 38,
    "direction": "up",
    "why": "DA Davidson Adjusts Price Target on Comfort Systems USA to $1,850 From $2,100",
    "catalyst_type": "analyst_action",

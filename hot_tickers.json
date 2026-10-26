@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-26T22:21:11+00:00",
+  "as_of": "2026-10-26T22:26:43+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,22 +9,6 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "PINS",
-   "company": "Pinterest Inc",
-   "move_pct": -10.75,
-   "price": 19.92,
-   "volume": 14542521,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 68,
-   "direction": "down",
-   "why": "Pinterest Has Fallen After 4 of Its Last 5 Earnings Reports. Here\u2019s What October 29 Needs to Show",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/pinterest-fallen-4-last-5-204939515.html",
-   "published": "2026-10-26T20:49:39+00:00",
-   "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 2,
    "ticker": "BAH",
    "company": "Booz Allen Hamilton Holding Corporation",
    "move_pct": 7.11,
@@ -40,11 +24,11 @@
    "sector": "Cybersecurity"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "ticker": "TSLA",
    "company": "Tesla Inc",
-   "move_pct": 5.33,
-   "price": 392.05,
+   "move_pct": 5.35,
+   "price": 392.12,
    "volume": 52860669,
    "volume_vs_avg": "~1.5x",
    "heat_score": 41,
@@ -56,11 +40,11 @@
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "ticker": "GEV",
    "company": "GE Vernova Inc",
-   "move_pct": 5.32,
-   "price": 858.39,
+   "move_pct": 5.4,
+   "price": 859.0,
    "volume": 2719296,
    "volume_vs_avg": "~1.1x",
    "heat_score": 39,
@@ -70,22 +54,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stocks-rise-2-195324425.html",
    "published": "2026-10-26T19:53:24+00:00",
    "sector": "Powering AI"
-  },
-  {
-   "rank": 5,
-   "ticker": "INTC",
-   "company": "Intel Corp",
-   "move_pct": 5.08,
-   "price": 91.38,
-   "volume": 97995360,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "Intel to Acquire Classiq to Build Quantum Computing Platform",
-   "catalyst_type": "mna",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/intel-acquire-classiq-build-quantum-211914190.html",
-   "published": "2026-10-26T21:19:14+00:00",
-   "sector": "AI Chips & Compute"
   }
  ]
 }

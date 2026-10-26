@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-26T20:36:06+00:00",
+  "as_of": "2026-10-26T20:51:20+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -27,33 +27,17 @@
    "rank": 2,
    "ticker": "TSLA",
    "company": "Tesla Inc",
-   "move_pct": 5.09,
-   "price": 391.15,
+   "move_pct": 5.11,
+   "price": 391.25,
    "volume": 52672239,
    "volume_vs_avg": "~1.5x",
    "heat_score": 40,
    "direction": "up",
-   "why": "Tesla's Full Self-Driving Business Is Growing Fast. But There's a Catch for Investors",
+   "why": "Tesla Makes Bullish Move, But These Five AI Stocks Lead The S&P 500",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/teslas-full-self-driving-business-195901976.html",
-   "published": "2026-10-26T19:59:01+00:00",
+   "source_url": "https://finance.yahoo.com/m/54d46439-0b38-30e3-9a18-879dc93c5bad/tesla-makes-bullish-move%2C-but.html",
+   "published": "2026-10-26T20:14:37+00:00",
    "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 3,
-   "ticker": "GEV",
-   "company": "GE Vernova Inc",
-   "move_pct": 5.15,
-   "price": 857.0,
-   "volume": 2713823,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 38,
-   "direction": "up",
-   "why": "GE Vernova Stocks Rise 2.55% Before $176 Billion Backlog Test",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stocks-rise-2-195324425.html",
-   "published": "2026-10-26T19:53:24+00:00",
-   "sector": "Powering AI"
   }
  ]
 }

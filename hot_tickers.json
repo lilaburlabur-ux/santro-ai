@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-26T14:08:02+00:00",
+  "as_of": "2026-10-26T14:23:14+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,51 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "TSLA",
-   "company": "Tesla Inc",
-   "move_pct": 6.0,
-   "price": 394.56,
-   "volume": 15610222,
+   "ticker": "FIX",
+   "company": "Comfort Systems USA Inc",
+   "move_pct": 6.91,
+   "price": 1241.12,
+   "volume": 161400,
    "volume_vs_avg": "~0.4x",
-   "heat_score": 38,
+   "heat_score": 41,
    "direction": "up",
-   "why": "Tesla upgraded, Block downgraded: Wall Street's top analyst calls",
+   "why": "UBS Adjusts Price Target on Comfort Systems USA to $1,900 From $2,225, Maintains Buy Rating",
    "catalyst_type": "analyst_action",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/tesla-upgraded-applovin-initiated-wall-135331262.html",
-   "published": "2026-10-26T13:42:11+00:00",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-comfort-134701769.html",
+   "published": "2026-10-26T13:47:01+00:00",
+   "sector": "Powering AI"
   },
   {
    "rank": 2,
-   "ticker": "LEU",
-   "company": "Centrus Energy Corp",
-   "move_pct": -5.03,
-   "price": 97.3,
-   "volume": 170208,
-   "volume_vs_avg": "~0.2x",
-   "heat_score": 34,
-   "direction": "down",
-   "why": "TD Cowen Initiates Centrus Energy at Hold With $120 Price Target",
+   "ticker": "TSLA",
+   "company": "Tesla Inc",
+   "move_pct": 6.28,
+   "price": 395.6,
+   "volume": 19235052,
+   "volume_vs_avg": "~0.5x",
+   "heat_score": 40,
+   "direction": "up",
+   "why": "Tesla Rises 6% as Barclays Upgrade Cites SpaceX Merger Potential; Lucid Drops 4%, Rivian Slips",
    "catalyst_type": "analyst_action",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-initiates-centrus-energy-112848716.html",
-   "published": "2026-10-26T11:28:48+00:00",
-   "sector": "Powering AI"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/tesla-rises-6-barclays-upgrade-135853310.html",
+   "published": "2026-10-26T13:58:53+00:00",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 3,
+   "ticker": "BAH",
+   "company": "Booz Allen Hamilton Holding Corporation",
+   "move_pct": 5.55,
+   "price": 82.67,
+   "volume": 379670,
+   "volume_vs_avg": "~0.2x",
+   "heat_score": 36,
+   "direction": "up",
+   "why": "UBS Adjusts Booz Allen Hamilton Price Target to $86 From $79, Maintains Neutral Rating",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-booz-allen-hamilton-134625443.html",
+   "published": "2026-10-26T13:46:25+00:00",
+   "sector": "Cybersecurity"
   }
  ]
 }

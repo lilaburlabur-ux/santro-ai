@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-26T16:57:21+00:00",
+  "as_of": "2026-10-26T17:12:23+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,29 +9,13 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "BAH",
-   "company": "Booz Allen Hamilton Holding Corporation",
-   "move_pct": 7.53,
-   "price": 84.22,
-   "volume": 925872,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 44,
-   "direction": "up",
-   "why": "UBS Adjusts Booz Allen Hamilton Price Target to $86 From $79, Maintains Neutral Rating",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-booz-allen-hamilton-134625443.html",
-   "published": "2026-10-26T13:46:25+00:00",
-   "sector": "Cybersecurity"
-  },
-  {
-   "rank": 2,
    "ticker": "TSLA",
    "company": "Tesla Inc",
-   "move_pct": 6.14,
-   "price": 395.08,
-   "volume": 32944004,
+   "move_pct": 6.58,
+   "price": 396.7,
+   "volume": 34141056,
    "volume_vs_avg": "~0.9x",
-   "heat_score": 41,
+   "heat_score": 43,
    "direction": "up",
    "why": "Tesla's AI Momentum Gives Hikaru Nakamura's Portfolio a Lift",
    "catalyst_type": "momentum_narrative",
@@ -40,20 +24,52 @@
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "ticker": "PINS",
    "company": "Pinterest Inc",
-   "move_pct": -6.25,
-   "price": 20.92,
-   "volume": 4732865,
+   "move_pct": -6.41,
+   "price": 20.89,
+   "volume": 4983438,
    "volume_vs_avg": "~0.4x",
    "heat_score": 39,
    "direction": "down",
-   "why": "Pinterest strengthens bid to media buyers with programmatic solution",
+   "why": "Can Pinterest Stock Jump 50%?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/media-advertising/articles/pinterest-strengthens-bid-media-buyers-144000485.html",
-   "published": "2026-10-26T14:40:00+00:00",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/pinterest-stock-jump-50-165054025.html",
+   "published": "2026-10-26T16:50:54+00:00",
    "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 3,
+   "ticker": "INTC",
+   "company": "Intel Corp",
+   "move_pct": 5.41,
+   "price": 91.67,
+   "volume": 56362166,
+   "volume_vs_avg": "~0.5x",
+   "heat_score": 37,
+   "direction": "up",
+   "why": "IBM Fixed Its Plumbing; Intel Became Big Tech\u2019s Real Structural Trap",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ibm-fixed-plumbing-intel-became-164548935.html",
+   "published": "2026-10-26T16:45:48+00:00",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 4,
+   "ticker": "GEV",
+   "company": "GE Vernova Inc",
+   "move_pct": 5.38,
+   "price": 858.84,
+   "volume": 1599475,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 37,
+   "direction": "up",
+   "why": "GE Vernova (GEV) Lands 372 MW C\u00f4te D\u2019Ivoire Power Plant Order",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/energy/articles/ge-vernova-gev-lands-372-151016579.html",
+   "published": "2026-10-26T15:10:16+00:00",
+   "sector": "Powering AI"
   }
  ]
 }

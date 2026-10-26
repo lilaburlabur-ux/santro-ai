@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-26T23:32:31+00:00",
+  "as_of": "2026-10-26T23:47:48+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -43,8 +43,8 @@
    "rank": 3,
    "ticker": "TSLA",
    "company": "Tesla Inc",
-   "move_pct": 5.5,
-   "price": 392.7,
+   "move_pct": 5.51,
+   "price": 392.74,
    "volume": 52860669,
    "volume_vs_avg": "~1.5x",
    "heat_score": 42,
@@ -75,17 +75,33 @@
    "rank": 5,
    "ticker": "GEV",
    "company": "GE Vernova Inc",
-   "move_pct": 5.09,
-   "price": 856.5,
+   "move_pct": 5.4,
+   "price": 859.0,
    "volume": 2719296,
    "volume_vs_avg": "~1.1x",
-   "heat_score": 38,
+   "heat_score": 39,
    "direction": "up",
    "why": "GE Vernova Stocks Rise 2.55% Before $176 Billion Backlog Test",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stocks-rise-2-195324425.html",
    "published": "2026-10-26T19:53:24+00:00",
    "sector": "Powering AI"
+  },
+  {
+   "rank": 6,
+   "ticker": "INTC",
+   "company": "Intel Corp",
+   "move_pct": 5.14,
+   "price": 91.43,
+   "volume": 97995360,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 38,
+   "direction": "up",
+   "why": "Intel vs. Nvidia: Flat Trends vs. Rapid Expansion in Revenue",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-nvidia-flat-trends-222001026.html",
+   "published": "2026-10-26T22:20:01+00:00",
+   "sector": "AI Chips & Compute"
   }
  ]
 }

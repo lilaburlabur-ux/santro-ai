@@ -1,11 +1,18 @@
 {
-  "as_of_utc": "2026-10-26T22:56:51+00:00",
-  "as_of_local": "2026-10-26 22:56:51 UTC",
+  "as_of_utc": "2026-10-26T23:01:55+00:00",
+  "as_of_local": "2026-10-26 23:01:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 216.0,
+      "previous_close": 210.96,
+      "change_pct": 2.39,
+      "market_cap": 5215752000000.0,
+      "headlines": []
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -312,13 +319,13 @@
     },
     {
       "label": "BTC",
-      "price": 79851.93,
-      "change_pct": -0.22
+      "price": 79820.92,
+      "change_pct": -0.25
     },
     {
       "label": "Gold",
-      "price": 4026.5,
-      "change_pct": 0.46
+      "price": 4028.4,
+      "change_pct": 0.51
     },
     {
       "label": "Nasdaq100",

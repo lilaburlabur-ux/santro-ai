@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-26T18:54:23+00:00",
+  "as_of": "2026-10-26T19:09:41+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,29 +9,45 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "TSLA",
-   "company": "Tesla Inc",
-   "move_pct": 5.87,
-   "price": 394.08,
-   "volume": 40582171,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 41,
+   "ticker": "BAH",
+   "company": "Booz Allen Hamilton Holding Corporation",
+   "move_pct": 6.95,
+   "price": 83.76,
+   "volume": 1298964,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 43,
    "direction": "up",
-   "why": "Tesla Stock Soars on Wave of Analyst Upgrades",
+   "why": "Booz Allen Hamilton Shares Rise After TD Cowen Upgrade",
    "catalyst_type": "analyst_action",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-soars-wave-analyst-182854007.html",
-   "published": "2026-10-26T18:28:54+00:00",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/booz-allen-hamilton-shares-rise-184147754.html",
+   "published": "2026-10-26T18:41:47+00:00",
+   "sector": "Cybersecurity"
   },
   {
    "rank": 2,
+   "ticker": "TSLA",
+   "company": "Tesla Inc",
+   "move_pct": 5.98,
+   "price": 394.49,
+   "volume": 41510687,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 42,
+   "direction": "up",
+   "why": "Scott Galloway on Tesla and SpaceX: \u201cTesla\u2019s the Patient and SpaceX Is the Organ Donor\u201d",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/scott-galloway-tesla-spacex-tesla-183542144.html",
+   "published": "2026-10-26T18:35:42+00:00",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 3,
    "ticker": "PINS",
    "company": "Pinterest Inc",
-   "move_pct": -6.47,
-   "price": 20.88,
-   "volume": 6484719,
+   "move_pct": -6.23,
+   "price": 20.93,
+   "volume": 6684379,
    "volume_vs_avg": "~0.5x",
-   "heat_score": 40,
+   "heat_score": 39,
    "direction": "down",
    "why": "Can Pinterest Stock Jump 50%?",
    "catalyst_type": "momentum_narrative",
@@ -40,12 +56,12 @@
    "sector": "AI Platforms, Internet & AdTech"
   },
   {
-   "rank": 3,
+   "rank": 4,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": 5.36,
-   "price": 91.62,
-   "volume": 71093307,
+   "move_pct": 5.27,
+   "price": 91.54,
+   "volume": 73232105,
    "volume_vs_avg": "~0.7x",
    "heat_score": 37,
    "direction": "up",
@@ -54,22 +70,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-popped-today-181821870.html",
    "published": "2026-10-26T18:18:21+00:00",
    "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 4,
-   "ticker": "GEV",
-   "company": "GE Vernova Inc",
-   "move_pct": 5.31,
-   "price": 858.25,
-   "volume": 1937385,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "GE Vernova (GEV) Lands 372 MW C\u00f4te D\u2019Ivoire Power Plant Order",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/energy/articles/ge-vernova-gev-lands-372-151016579.html",
-   "published": "2026-10-26T15:10:16+00:00",
-   "sector": "Powering AI"
   }
  ]
 }

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-27T20:11:51+00:00",
-  "as_of_local": "2026-10-27 20:11:51 UTC",
+  "as_of_utc": "2026-10-27T20:17:01+00:00",
+  "as_of_local": "2026-10-27 20:17:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CEVA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -18,10 +16,10 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 436.88,
+      "price": 436.87,
       "previous_close": 424.37,
       "change_pct": 2.95,
-      "market_cap": 2265840834429.375,
+      "market_cap": 2265814876734.73,
       "headlines": []
     },
     {
@@ -122,14 +120,23 @@
       "change_pct": 0.64,
       "market_cap": 4688733744.120491,
       "headlines": []
+    },
+    {
+      "symbol": "CEVA",
+      "name": "CEVA",
+      "price": 31.37,
+      "previous_close": 29.41,
+      "change_pct": 6.66,
+      "market_cap": 883193262.2678375,
+      "headlines": []
     }
   ],
   "etfs": [
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 50.47,
-      "change_pct": 4.43,
+      "price": 50.52,
+      "change_pct": 4.53,
       "holdings": [
         {
           "symbol": "MU",
@@ -218,8 +225,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 50.47,
-    "change_pct": 4.43,
+    "price": 50.52,
+    "change_pct": 4.53,
     "holdings": [
       {
         "symbol": "MU",
@@ -312,13 +319,13 @@
     },
     {
       "label": "BTC",
-      "price": 80665.49,
-      "change_pct": 0.82
+      "price": 80671.57,
+      "change_pct": 0.83
     },
     {
       "label": "Gold",
-      "price": 4074.7,
-      "change_pct": 0.9
+      "price": 4073.8,
+      "change_pct": 0.88
     },
     {
       "label": "Nasdaq100",

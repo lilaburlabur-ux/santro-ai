@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-27T00:38:19+00:00",
+  "as_of": "2026-10-27T00:45:50+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,38 +9,6 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "CRWD",
-   "company": "Crowdstrike Holdings Inc",
-   "move_pct": 8.25,
-   "price": 257.57,
-   "volume": 8196419,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 58,
-   "direction": "up",
-   "why": "CrowdStrike Holdings (CRWD) Laps the Stock Market: Here's Why",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-holdings-crwd-laps-stock-204502207.html",
-   "published": "2026-10-26T20:45:02+00:00",
-   "sector": "Cybersecurity"
-  },
-  {
-   "rank": 2,
-   "ticker": "PANW",
-   "company": "Palo Alto Networks Inc",
-   "move_pct": 7.22,
-   "price": 380.55,
-   "volume": 5107673,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 45,
-   "direction": "up",
-   "why": "Palo Alto Networks (PANW) Laps the Stock Market: Here's Why",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-panw-laps-204503062.html",
-   "published": "2026-10-26T20:45:03+00:00",
-   "sector": "Cybersecurity"
-  },
-  {
-   "rank": 3,
    "ticker": "NET",
    "company": "Cloudflare Inc",
    "move_pct": 7.29,
@@ -56,7 +24,7 @@
    "sector": "Cybersecurity"
   },
   {
-   "rank": 4,
+   "rank": 2,
    "ticker": "RBRK",
    "company": "Rubrik, Inc.",
    "move_pct": 6.62,

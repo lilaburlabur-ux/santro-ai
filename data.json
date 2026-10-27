@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-27T12:42:15+00:00",
-  "as_of_local": "2026-10-27 12:42:15 UTC",
+  "as_of_utc": "2026-10-27T12:42:57+00:00",
+  "as_of_local": "2026-10-27 12:42:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -58,6 +56,15 @@
       "previous_close": 86.96,
       "change_pct": 4.04,
       "market_cap": 478233949505.9052,
+      "headlines": []
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 223.35,
+      "previous_close": 210.33,
+      "change_pct": 6.19,
+      "market_cap": 238537486904.69595,
       "headlines": []
     },
     {
@@ -312,13 +319,13 @@
     },
     {
       "label": "BTC",
-      "price": 80181.59,
-      "change_pct": 0.22
+      "price": 80206.8,
+      "change_pct": 0.25
     },
     {
       "label": "Gold",
-      "price": 4039.2,
-      "change_pct": 0.02
+      "price": 4038.1,
+      "change_pct": -0.01
     },
     {
       "label": "Nasdaq100",

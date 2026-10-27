@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-27T13:52:06+00:00",
+  "as_of": "2026-10-27T13:59:14+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "SMR",
-   "company": "NuScale Power Corp",
-   "move_pct": 5.12,
-   "price": 5.54,
-   "volume": 2612505,
-   "volume_vs_avg": "~0.1x",
-   "heat_score": 33,
-   "direction": "up",
-   "why": "Seagate's HAMR + SMR Breakthrough: Can Azure Boost AI Storage Growth?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/articles/seagates-hamr-smr-breakthrough-azure-115600318.html",
-   "published": "2026-10-27T11:56:00+00:00",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  }
- ]
+ "hot_tickers": []
 }

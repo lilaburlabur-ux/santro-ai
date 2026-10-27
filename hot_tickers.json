@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-27T00:45:50+00:00",
+  "as_of": "2026-10-27T03:15:42+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,35 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "NET",
-   "company": "Cloudflare Inc",
-   "move_pct": 7.29,
-   "price": 325.73,
-   "volume": 2749833,
-   "volume_vs_avg": "~0.9x",
+   "ticker": "BAH",
+   "company": "Booz Allen Hamilton Holding Corporation",
+   "move_pct": 6.44,
+   "price": 83.36,
+   "volume": 2493900,
+   "volume_vs_avg": "~1.5x",
    "heat_score": 45,
    "direction": "up",
-   "why": "What Sent Cloudflare Stock Higher?",
+   "why": "Why Booz Allen Hamilton (BAH) stock is up today",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/sent-cloudflare-stock-higher-205027841.html",
-   "published": "2026-10-26T20:50:27+00:00",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-booz-allen-hamilton-bah-011847995.html",
+   "published": "2026-10-27T01:18:47+00:00",
    "sector": "Cybersecurity"
   },
   {
    "rank": 2,
-   "ticker": "RBRK",
-   "company": "Rubrik, Inc.",
-   "move_pct": 6.62,
-   "price": 128.74,
-   "volume": 4318832,
-   "volume_vs_avg": "~1.4x",
-   "heat_score": 45,
+   "ticker": "TSLA",
+   "company": "Tesla Inc",
+   "move_pct": 5.21,
+   "price": 391.62,
+   "volume": 52957700,
+   "volume_vs_avg": "~1.5x",
+   "heat_score": 41,
    "direction": "up",
-   "why": "Rubrik (RBRK) Stock May Be Pricey After Its 77% Rise",
+   "why": "Elon Musk Says Merging SpaceX and Tesla Would Be a Good Idea. Here's What Investors Should Know.",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/rubrik-rbrk-stock-may-pricey-232607250.html",
-   "published": "2026-10-26T23:26:07+00:00",
-   "sector": "Cybersecurity"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-merging-spacex-024600538.html",
+   "published": "2026-10-27T02:46:00+00:00",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

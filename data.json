@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-10-27T10:53:42+00:00",
-  "as_of_local": "2026-10-27 10:53:42 UTC",
+  "as_of_utc": "2026-10-27T10:58:50+00:00",
+  "as_of_local": "2026-10-27 10:58:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "AMD"
+    "AVGO"
   ],
   "stocks": [
     {
@@ -25,21 +25,21 @@
       "headlines": []
     },
     {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 329.17,
-      "previous_close": 321.68,
-      "change_pct": 2.33,
-      "market_cap": 1571335806761.0837,
-      "headlines": []
-    },
-    {
       "symbol": "MU",
       "name": "Micron Technology",
       "price": 903.7,
       "previous_close": 877.55,
       "change_pct": 2.98,
       "market_cap": 1022467170495.7185,
+      "headlines": []
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 531.28,
+      "previous_close": 516.79,
+      "change_pct": 2.8,
+      "market_cap": 867301388140.1772,
       "headlines": []
     },
     {
@@ -312,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 79845.9,
+      "price": 79847.23,
       "change_pct": -0.2
     },
     {
       "label": "Gold",
-      "price": 4013.4,
-      "change_pct": -0.62
+      "price": 4024.1,
+      "change_pct": -0.35
     },
     {
       "label": "Nasdaq100",

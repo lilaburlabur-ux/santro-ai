@@ -18,7 +18,7 @@ Signed file: `AVGO.research.27.10.2026`
 | Technical momentum | Low | Below SMA200 (-6.65%) with negative half-year (-14.09%). |
 | Fresh setup quality | Poor / broken | -28.67% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 42.94%, revenue growth 85.50%. |
-| Value attractiveness | Reasonable | Forward P/E 17.62, EV/Sales 18.03. |
+| Value attractiveness | Reasonable | Forward P/E 17.59, EV/Sales 18.74. |
 | Risk level | Elevated | Beta 1.48, ATR 3.4% of price, short float 1.16%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $89.10B | Revenue growth 85.50% y/y |
 | Profitability | Gross 75.52%, operating 54.31%, net 42.94% | ROA 15.37%, ROE 44.25% |
 | Balance sheet | Cash $23.98B, debt $59.42B | Current ratio 2.50, debt/equity 59.60 |
-| Valuation | P/E 43.72, forward P/E 17.62, P/S 18.34, P/B 16.39 | EV/Sales 18.03, EV/EBITDA 30.75 |
+| Valuation | P/E 43.72, forward P/E 17.59, P/S 18.34, P/B 16.39 | EV/Sales 18.74, EV/EBITDA 31.95 |
 | Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $530.14 (48 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,8 +102,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $342.33 | EV/Sales | 18.03 |
-| Market cap | $1.63T | EV/EBITDA | 30.75 |
+| Price | $342.33 | EV/Sales | 18.74 |
+| Market cap | $1.63T | EV/EBITDA | 31.95 |
 | Beta | 1.48 | Gross margin | 75.52% |
 | RSI(14) | 47.8 | Operating margin | 54.31% |
 | ATR(14) | 11.58 | Profit margin | 42.94% |
@@ -113,7 +113,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | 52W high | $479.94 | Revenue growth y/y | 85.50% |
 | 52W low | $292.41 | Inst. ownership | 79.71% |
 | P/E (ttm) | 43.72 | Insider ownership | 1.92% |
-| Forward P/E | 17.62 | Short float | 1.16% |
+| Forward P/E | 17.59 | Short float | 1.16% |
 | PEG (trailing) | 0.33 | Avg volume | 22,775,987 |
 | P/S | 18.34 | Employees | 33,000 |
 | P/B | 16.39 | Analyst rec (1=buy..5=sell) | 1.3 |

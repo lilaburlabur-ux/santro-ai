@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-27T09:33:10+00:00",
-  "as_of_local": "2026-10-27 09:33:10 UTC",
+  "as_of_utc": "2026-10-27T09:37:39+00:00",
+  "as_of_local": "2026-10-27 09:37:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -135,8 +135,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 48.33,
-      "change_pct": 2.7,
+      "price": null,
+      "change_pct": 0.0,
       "holdings": [
         {
           "symbol": "MU",
@@ -152,8 +152,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 5.18,
+          "price": 1341000.0,
           "currency": "KRW"
         },
         {
@@ -225,8 +225,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 48.33,
-    "change_pct": 2.7,
+    "price": null,
+    "change_pct": 0.0,
     "holdings": [
       {
         "symbol": "MU",
@@ -242,8 +242,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 5.18,
+        "price": 1341000.0,
         "currency": "KRW"
       },
       {
@@ -319,12 +319,12 @@
     },
     {
       "label": "BTC",
-      "price": 79597.84,
-      "change_pct": -0.51
+      "price": 79533.55,
+      "change_pct": -0.59
     },
     {
       "label": "Gold",
-      "price": 4009.2,
+      "price": 4009.5,
       "change_pct": -0.72
     },
     {

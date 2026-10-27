@@ -1,43 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-27T03:15:42+00:00",
+  "as_of": "2026-10-27T08:06:21+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "BAH",
-   "company": "Booz Allen Hamilton Holding Corporation",
-   "move_pct": 6.44,
-   "price": 83.36,
-   "volume": 2493900,
-   "volume_vs_avg": "~1.5x",
-   "heat_score": 45,
-   "direction": "up",
-   "why": "Why Booz Allen Hamilton (BAH) stock is up today",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-booz-allen-hamilton-bah-011847995.html",
-   "published": "2026-10-27T01:18:47+00:00",
-   "sector": "Cybersecurity"
-  },
-  {
-   "rank": 2,
-   "ticker": "TSLA",
-   "company": "Tesla Inc",
-   "move_pct": 5.21,
-   "price": 391.62,
-   "volume": 52957700,
-   "volume_vs_avg": "~1.5x",
-   "heat_score": 41,
-   "direction": "up",
-   "why": "Elon Musk Says Merging SpaceX and Tesla Would Be a Good Idea. Here's What Investors Should Know.",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-merging-spacex-024600538.html",
-   "published": "2026-10-27T02:46:00+00:00",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  }
- ]
+ "hot_tickers": []
 }

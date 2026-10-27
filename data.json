@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-27T11:34:23+00:00",
-  "as_of_local": "2026-10-27 11:34:23 UTC",
+  "as_of_utc": "2026-10-27T11:39:30+00:00",
+  "as_of_local": "2026-10-27 11:39:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -38,15 +40,6 @@
       "previous_close": 877.55,
       "change_pct": 2.98,
       "market_cap": 1022467170495.7185,
-      "headlines": []
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 531.28,
-      "previous_close": 516.79,
-      "change_pct": 2.8,
-      "market_cap": 867301388140.1772,
       "headlines": []
     },
     {
@@ -188,8 +181,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 2.18,
+          "price": 644.21,
           "currency": "USD"
         },
         {
@@ -278,8 +271,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 2.18,
+        "price": 644.21,
         "currency": "USD"
       },
       {
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 79823.91,
-      "change_pct": -0.23
+      "price": 79791.9,
+      "change_pct": -0.27
     },
     {
       "label": "Gold",
-      "price": 4024.4,
-      "change_pct": -0.35
+      "price": 4024.9,
+      "change_pct": -0.33
     },
     {
       "label": "Nasdaq100",

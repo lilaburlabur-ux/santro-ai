@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-28T04:25:01+00:00",
-  "as_of_local": "2026-10-28 04:25:01 UTC",
+  "as_of_utc": "2026-10-28T04:40:10+00:00",
+  "as_of_local": "2026-10-28 04:40:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -55,7 +57,7 @@
       "price": 93.74,
       "previous_close": 90.47,
       "change_pct": 3.61,
-      "market_cap": 492559285543.22076,
+      "market_cap": 495519495967.5409,
       "headlines": []
     },
     {
@@ -65,15 +67,6 @@
       "previous_close": 223.35,
       "change_pct": 1.46,
       "market_cap": 242008482253.94595,
-      "headlines": []
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 243.57,
-      "previous_close": 233.78,
-      "change_pct": 4.19,
-      "market_cap": 218897489170.71918,
       "headlines": []
     },
     {
@@ -100,7 +93,7 @@
       "price": 103.52,
       "previous_close": 98.37,
       "change_pct": 5.24,
-      "market_cap": 14702973280.653809,
+      "market_cap": 14673877639.837318,
       "headlines": []
     },
     {
@@ -152,8 +145,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 10.14,
-          "price": 1477000.0,
+          "change_pct": 10.07,
+          "price": 1476000.0,
           "currency": "KRW"
         },
         {
@@ -161,8 +154,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 8.78,
-          "price": 241500.0,
+          "change_pct": 8.56,
+          "price": 241000.0,
           "currency": "KRW"
         },
         {
@@ -170,8 +163,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 15.39,
-          "price": 14545.0,
+          "change_pct": 14.28,
+          "price": 14405.0,
           "currency": "JPY"
         },
         {
@@ -206,8 +199,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 6.12,
-          "price": 468.0,
+          "change_pct": 6.46,
+          "price": 469.5,
           "currency": "TWD"
         },
         {
@@ -215,8 +208,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 3.37,
-          "price": 168.5,
+          "change_pct": 3.99,
+          "price": 169.5,
           "currency": "TWD"
         }
       ]
@@ -242,8 +235,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 10.14,
-        "price": 1477000.0,
+        "change_pct": 10.07,
+        "price": 1476000.0,
         "currency": "KRW"
       },
       {
@@ -251,8 +244,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 8.78,
-        "price": 241500.0,
+        "change_pct": 8.56,
+        "price": 241000.0,
         "currency": "KRW"
       },
       {
@@ -260,8 +253,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 15.39,
-        "price": 14545.0,
+        "change_pct": 14.28,
+        "price": 14405.0,
         "currency": "JPY"
       },
       {
@@ -296,8 +289,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 6.12,
-        "price": 468.0,
+        "change_pct": 6.46,
+        "price": 469.5,
         "currency": "TWD"
       },
       {
@@ -305,8 +298,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 3.37,
-        "price": 168.5,
+        "change_pct": 3.99,
+        "price": 169.5,
         "currency": "TWD"
       }
     ]
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 80819.97,
-      "change_pct": 1.02
+      "price": 80880.92,
+      "change_pct": 1.09
     },
     {
       "label": "Gold",
-      "price": 4055.7,
-      "change_pct": -0.46
+      "price": 4054.3,
+      "change_pct": -0.5
     },
     {
       "label": "Nasdaq100",

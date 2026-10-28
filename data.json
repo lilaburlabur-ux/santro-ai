@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-28T08:14:11+00:00",
-  "as_of_local": "2026-10-28 08:14:11 UTC",
+  "as_of_utc": "2026-10-28T08:18:37+00:00",
+  "as_of_local": "2026-10-28 08:18:37 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -58,6 +56,15 @@
       "previous_close": 90.47,
       "change_pct": 3.61,
       "market_cap": 492559285543.22076,
+      "headlines": []
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 226.6,
+      "previous_close": 223.35,
+      "change_pct": 1.46,
+      "market_cap": 242008482253.94595,
       "headlines": []
     },
     {
@@ -190,8 +197,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 6.95,
-          "price": 380.88,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -280,8 +287,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 6.95,
-        "price": 380.88,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -312,13 +319,13 @@
     },
     {
       "label": "BTC",
-      "price": 81032.13,
-      "change_pct": 0.28
+      "price": 81052.74,
+      "change_pct": 0.31
     },
     {
       "label": "Gold",
-      "price": 4059.9,
-      "change_pct": -0.36
+      "price": 4061.2,
+      "change_pct": -0.33
     },
     {
       "label": "Nasdaq100",

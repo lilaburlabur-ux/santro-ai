@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-28T03:19:36+00:00",
-  "as_of_local": "2026-10-28 03:19:36 UTC",
+  "as_of_utc": "2026-10-28T03:34:33+00:00",
+  "as_of_local": "2026-10-28 03:34:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -58,6 +56,15 @@
       "previous_close": 90.47,
       "change_pct": 3.61,
       "market_cap": 492559285543.22076,
+      "headlines": []
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 226.6,
+      "previous_close": 223.35,
+      "change_pct": 1.46,
+      "market_cap": 242008482253.94595,
       "headlines": []
     },
     {
@@ -145,8 +152,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 8.95,
-          "price": 1461000.0,
+          "change_pct": 9.17,
+          "price": 1464000.0,
           "currency": "KRW"
         },
         {
@@ -154,8 +161,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 8.45,
-          "price": 240750.0,
+          "change_pct": 8.33,
+          "price": 240500.0,
           "currency": "KRW"
         },
         {
@@ -181,8 +188,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 3.67,
-          "price": 667.85,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -199,8 +206,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 4.2,
-          "price": 459.5,
+          "change_pct": 4.65,
+          "price": 461.5,
           "currency": "TWD"
         },
         {
@@ -208,8 +215,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 2.15,
-          "price": 166.5,
+          "change_pct": 2.76,
+          "price": 167.5,
           "currency": "TWD"
         }
       ]
@@ -235,8 +242,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 8.95,
-        "price": 1461000.0,
+        "change_pct": 9.17,
+        "price": 1464000.0,
         "currency": "KRW"
       },
       {
@@ -244,8 +251,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 8.45,
-        "price": 240750.0,
+        "change_pct": 8.33,
+        "price": 240500.0,
         "currency": "KRW"
       },
       {
@@ -271,8 +278,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 3.67,
-        "price": 667.85,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -289,8 +296,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 4.2,
-        "price": 459.5,
+        "change_pct": 4.65,
+        "price": 461.5,
         "currency": "TWD"
       },
       {
@@ -298,8 +305,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 2.15,
-        "price": 166.5,
+        "change_pct": 2.76,
+        "price": 167.5,
         "currency": "TWD"
       }
     ]
@@ -312,13 +319,13 @@
     },
     {
       "label": "BTC",
-      "price": 80827.57,
-      "change_pct": 1.03
+      "price": 81030.03,
+      "change_pct": 1.28
     },
     {
       "label": "Gold",
-      "price": 4061.5,
-      "change_pct": 0.57
+      "price": 4060.3,
+      "change_pct": 0.54
     },
     {
       "label": "Nasdaq100",

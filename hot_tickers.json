@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-28T09:34:41+00:00",
+  "as_of": "2026-10-28T09:49:50+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -38,22 +38,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-nxpi-stock-down-over-080846843.html",
    "published": "2026-10-28T08:08:46+00:00",
    "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 3,
-   "ticker": "SKHY",
-   "company": "SK hynix Inc (ADR)",
-   "move_pct": 7.29,
-   "price": 155.96,
-   "volume": 24904100,
-   "volume_vs_avg": "~1.3x",
-   "heat_score": 47,
-   "direction": "up",
-   "why": "SKHY Stock Jumps Premarket: Strategist Says SK Hynix Sits At AI\u2019s \u2018Toll Booth\u2019 As Tech Giants Chase Scarce Memory",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/skhy-stock-jumps-premarket-strategist-082450097.html",
-   "published": "2026-10-28T08:24:50+00:00",
-   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

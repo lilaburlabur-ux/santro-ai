@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-28T10:10:17+00:00",
+  "as_of": "2026-10-28T10:25:23+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,13 +9,29 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "VRT",
+   "company": "Vertiv Holdings Co",
+   "move_pct": 15.07,
+   "price": 240.0,
+   "volume": 8407800,
+   "volume_vs_avg": "~2x",
+   "heat_score": 85,
+   "direction": "up",
+   "why": "Vertiv Reports Strong Third Quarter 2026 with Net Sales Growth of 61%, Organic Orders Growth over 100% and Diluted EPS Growth of 91% (Adjusted Diluted EPS Growth of 78%); Raises Full Year 2026 Guidance Across All Key Metrics",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-reports-strong-third-quarter-095500114.html",
+   "published": "2026-10-28T09:55:00+00:00",
+   "sector": "Data Center, Power & Energy"
+  },
+  {
+   "rank": 2,
    "ticker": "INOD",
    "company": "Innodata Inc",
-   "move_pct": 1.03,
-   "price": 45.2,
+   "move_pct": 0.54,
+   "price": 44.98,
    "volume": 9731500,
    "volume_vs_avg": "~7x",
-   "heat_score": 52,
+   "heat_score": 51,
    "direction": "up",
    "why": "Innodata Stock After India Layoffs Has The Bull Case Changed",
    "catalyst_type": "momentum_narrative",
@@ -24,7 +40,7 @@
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
-   "rank": 2,
+   "rank": 3,
    "ticker": "NXPI",
    "company": "NXP Semiconductors NV",
    "move_pct": -7.2,
@@ -33,10 +49,10 @@
    "volume_vs_avg": "~1.5x",
    "heat_score": 48,
    "direction": "down",
-   "why": "What Changed In NXP's Story?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/changed-nxps-story-092624549.html",
-   "published": "2026-10-28T09:26:24+00:00",
+   "why": "Truist Securities Adjusts Price Target on NXP Semiconductors to $300 From $310, Keeps Buy Rating",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/truist-securities-adjusts-price-target-095544775.html",
+   "published": "2026-10-28T09:55:44+00:00",
    "sector": "AI Chips & Compute"
   }
  ]

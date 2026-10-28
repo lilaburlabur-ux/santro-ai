@@ -4,8 +4,8 @@ Signed file: `NXPI.research.28.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-28, ~15-min delayed) |
-| Market cap | $63.92B |
+| Current price | $251.69 (2026-10-28, ~15-min delayed) |
+| Market cap | $63.47B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `NXPI.research.28.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +15.61%; price +2.85% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -23.74% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 22.56%, revenue growth 19.50%. |
-| Value attractiveness | Reasonable | Forward P/E 13.86, EV/Sales 5.46. |
-| Risk level | Elevated | Beta 1.81, ATR nan% of price, short float 3.00%. |
+| Value attractiveness | Reasonable | Forward P/E 13.77, EV/Sales 5.46. |
+| Risk level | Elevated | Beta 1.81, ATR 3.7% of price, short float 3.00%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -35,22 +35,22 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $330.06 (+nan%); 52w low $180.99 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 59.7 (neutral) |
-| Volatility | ATR(14) 8.57 (~nan% of price); beta 1.81 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $251.69; 52w high $330.06 (-23.74%); 52w low $180.99 (+39.06%) |
+| Trend | +2.85% vs SMA200, +8.93% vs SMA50, +6.43% vs SMA20 |
+| Momentum | RSI(14) 62.5 (neutral) |
+| Volatility | ATR(14) 9.34 (~3.7% of price); beta 1.81 |
+| Setup perspective | -23.74% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +3.8% |
+| Month | +6.4% |
+| Quarter | +3.1% |
+| Half Y | -12.3% |
+| 1Y | +15.6% |
+| YTD | +15.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Revenue (ttm) | $13.19B | Revenue growth 19.50% y/y |
 | Profitability | Gross 56.10%, operating 30.41%, net 22.56% | ROA 10.46%, ROE 27.92% |
 | Balance sheet | Cash $3.22B, debt $10.98B | Current ratio 2.04, debt/equity 93.33 |
-| Valuation | P/E 21.65, forward P/E 13.86, P/S 4.85, P/B 5.61 | EV/Sales 5.46, EV/EBITDA 14.21 |
+| Valuation | P/E 21.49, forward P/E 13.77, P/S 4.81, P/B 6.33 | EV/Sales 5.46, EV/EBITDA 14.21 |
 | Growth expectations | Earnings growth 72.60%, EPS q/q 72.40% | Analyst mean target $305.28 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Boston Partners | 4,162,827 | 1.65% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.81, ATR nan% of price, short float 3.00%. Size positions accordingly.
+- **Volatility risk:** Beta 1.81, ATR 3.7% of price, short float 3.00%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -101,33 +101,33 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.46 |
-| Market cap | $63.92B | EV/EBITDA | 14.21 |
+| Price | $251.69 | EV/Sales | 5.46 |
+| Market cap | $63.47B | EV/EBITDA | 14.21 |
 | Beta | 1.81 | Gross margin | 56.10% |
-| RSI(14) | 59.7 | Operating margin | 30.41% |
-| ATR(14) | 8.57 | Profit margin | 22.56% |
-| SMA20 dist | +nan% | ROA | 10.46% |
-| SMA50 dist | +nan% | ROE | 27.92% |
-| SMA200 dist | +nan% | Revenue (ttm) | $13.19B |
+| RSI(14) | 62.5 | Operating margin | 30.41% |
+| ATR(14) | 9.34 | Profit margin | 22.56% |
+| SMA20 dist | +6.43% | ROA | 10.46% |
+| SMA50 dist | +8.93% | ROE | 27.92% |
+| SMA200 dist | +2.85% | Revenue (ttm) | $13.19B |
 | 52W high | $330.06 | Revenue growth y/y | 19.50% |
 | 52W low | $180.99 | Inst. ownership | 99.63% |
-| P/E (ttm) | 21.65 | Insider ownership | 0.14% |
-| Forward P/E | 13.86 | Short float | 3.00% |
-| PEG (trailing) | 0.48 | Avg volume | 3,685,628 |
-| P/S | 4.85 | Employees | 32,169 |
-| P/B | 5.61 | Analyst rec (1=buy..5=sell) | 1.9 |
+| P/E (ttm) | 21.49 | Insider ownership | 0.14% |
+| Forward P/E | 13.77 | Short float | 3.00% |
+| PEG (trailing) | 0.49 | Avg volume | 3,666,445 |
+| P/S | 4.81 | Employees | 32,169 |
+| P/B | 6.33 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
-| 2026-10-20 | main | Wells Fargo | Equal-Weight → Equal-Weight |
-| 2026-10-19 | main | TD Cowen | Buy → Buy |
-| 2026-10-08 | down | Citigroup | Buy → Neutral |
-| 2026-10-05 | main | Stifel | Hold → Hold |
-| 2026-08-17 | reit | Cantor Fitzgerald | Overweight → Overweight |
-| 2026-08-03 | down | UBS | Buy → Neutral |
-| 2026-07-29 | main | TD Cowen | Buy → Buy |
-| 2026-07-29 | main | Wells Fargo | Equal-Weight → Equal-Weight |
+| 2026-10-28 | main | Citigroup | Neutral → Neutral |
+| 2026-10-28 | main | Truist Securities | Buy → Buy |
+| 2026-10-28 | main | TD Cowen | Buy → Buy |
+| 2026-10-28 | main | Stifel | Hold → Hold |
+| 2026-10-28 | main | Wells Fargo | Equal-Weight → Equal-Weight |
+| 2026-10-28 | main | Evercore ISI Group | Outperform → Outperform |
+| 2026-10-28 | main | Keybanc | Overweight → Overweight |
+| 2026-10-28 | reit | Cantor Fitzgerald | Overweight → Overweight |
 
 ## 9. Conclusion
 NXPI: Moderate momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-28T10:46:23+00:00",
-  "as_of_local": "2026-10-28 10:46:23 UTC",
+  "as_of_utc": "2026-10-28T10:50:57+00:00",
+  "as_of_local": "2026-10-28 10:50:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -22,6 +20,15 @@
       "previous_close": 424.37,
       "change_pct": 2.95,
       "market_cap": 2265814876734.73,
+      "headlines": []
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 342.33,
+      "previous_close": 329.17,
+      "change_pct": 4.0,
+      "market_cap": 1634156647586.4163,
       "headlines": []
     },
     {
@@ -48,7 +55,7 @@
       "price": 93.74,
       "previous_close": 90.47,
       "change_pct": 3.61,
-      "market_cap": 492559285543.22076,
+      "market_cap": 495519495967.5409,
       "headlines": []
     },
     {
@@ -93,7 +100,7 @@
       "price": 103.52,
       "previous_close": 98.37,
       "change_pct": 5.24,
-      "market_cap": 14702973280.653809,
+      "market_cap": 14673877639.837318,
       "headlines": []
     },
     {
@@ -199,8 +206,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 8.16,
+          "price": 477.0,
           "currency": "TWD"
         },
         {
@@ -289,8 +296,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 8.16,
+        "price": 477.0,
         "currency": "TWD"
       },
       {
@@ -312,13 +319,13 @@
     },
     {
       "label": "BTC",
-      "price": 81478.63,
-      "change_pct": 0.83
+      "price": 81443.92,
+      "change_pct": 0.79
     },
     {
       "label": "Gold",
-      "price": 4059.6,
-      "change_pct": -0.37
+      "price": 4060.1,
+      "change_pct": -0.36
     },
     {
       "label": "Nasdaq100",

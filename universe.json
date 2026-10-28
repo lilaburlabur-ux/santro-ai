@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Finviz theme:artificialintelligence",
-  "as_of": "2026-10-28 21:32 UTC",
+  "as_of": "2026-10-28 21:33 UTC",
   "total_tickers": 111,
   "min_bubble_size": 7,
   "render_spec": {
@@ -172,7 +172,7 @@
       329.17,
       351.81
      ],
-     "fwd_eps": 19.47
+     "fwd_eps": 19.43
     },
     {
      "ticker": "MU",
@@ -838,7 +838,7 @@
       198.84,
       196.81
      ],
-     "fwd_eps": 2.34
+     "fwd_eps": 2.35
     },
     {
      "ticker": "ORCL",
@@ -2073,7 +2073,7 @@
       58.72,
       60.33
      ],
-     "fwd_eps": 4.73
+     "fwd_eps": 4.71
     },
     {
      "ticker": "TER",
@@ -3161,7 +3161,7 @@
       65.1,
       64.28
      ],
-     "fwd_eps": 3.81
+     "fwd_eps": 3.82
     },
     {
      "ticker": "TLN",
@@ -3211,7 +3211,7 @@
       337.78,
       347.75
      ],
-     "fwd_eps": 31.82
+     "fwd_eps": 30.96
     },
     {
      "ticker": "AES",
@@ -3385,7 +3385,7 @@
       145.23
      ],
      "base_close": 135.0,
-     "fwd_eps": 2.5
+     "fwd_eps": 2.34
     },
     {
      "ticker": "TSLA",
@@ -3885,7 +3885,7 @@
       23.0,
       24.14
      ],
-     "fwd_eps": 3.58
+     "fwd_eps": 3.57
     },
     {
      "ticker": "SMR",
@@ -4835,7 +4835,7 @@
       98.44,
       111.97
      ],
-     "fwd_eps": 4.11
+     "fwd_eps": 4.1
     }
    ],
    "_note": "Energy-of-AI section. Seed caps approximate/public; price/change filled live by update_quotes.py next cycle. Sub-themes: nuclear_ipp, electrical_turbines, uranium_fuel, grid_utilities, dc_infra.",
@@ -5203,12 +5203,12 @@
      "sector": "Technology",
      "industry": "Software - Infrastructure",
      "country": "USA",
-     "market_cap_b": 20.47,
-     "pe": 29.2,
-     "price": 363.01,
-     "change_pct": -20.97,
+     "market_cap_b": 20.61,
+     "pe": 29.67,
+     "price": 365.53,
+     "change_pct": -20.43,
      "volume": 3555155,
-     "fwd_eps": 20.39,
+     "fwd_eps": 18.08,
      "perf": {
       "1W": -20.3,
       "1M": -16.6,
@@ -5758,9 +5758,9 @@
     }
    ],
    "count": 18,
-   "avg_change_pct": -9.45,
-   "total_market_cap_b": 954.2,
-   "pe_harmonic": 148.6,
+   "avg_change_pct": -2.3,
+   "total_market_cap_b": 1035.7,
+   "pe_harmonic": 146.6,
    "pe_excluded": 6,
    "industries_included": [
     "Consulting Services",

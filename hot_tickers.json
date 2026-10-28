@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-28T09:19:27+00:00",
+  "as_of": "2026-10-28T09:34:41+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,38 +9,22 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "SKHY",
-   "company": "SK hynix Inc (ADR)",
-   "move_pct": 7.84,
-   "price": 156.76,
-   "volume": 24904100,
-   "volume_vs_avg": "~1.3x",
-   "heat_score": 49,
-   "direction": "up",
-   "why": "SKHY Stock Jumps Premarket: Strategist Says SK Hynix Sits At AI\u2019s \u2018Toll Booth\u2019 As Tech Giants Chase Scarce Memory",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/skhy-stock-jumps-premarket-strategist-082450097.html",
-   "published": "2026-10-28T08:24:50+00:00",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 2,
    "ticker": "INOD",
    "company": "Innodata Inc",
-   "move_pct": -0.02,
-   "price": 44.73,
+   "move_pct": 0.52,
+   "price": 44.97,
    "volume": 9731500,
    "volume_vs_avg": "~7x",
-   "heat_score": 49,
-   "direction": "down",
-   "why": "The Zacks Analyst Blog Highlights Innodata, Argan, Trex, Quanta Services and Sterling Infrastructure",
+   "heat_score": 51,
+   "direction": "up",
+   "why": "Innodata Stock After India Layoffs Has The Bull Case Changed",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-innodata-073500522.html",
-   "published": "2026-10-28T07:35:00+00:00",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/innodata-stock-india-layoffs-bull-091115594.html",
+   "published": "2026-10-28T09:11:15+00:00",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "ticker": "NXPI",
    "company": "NXP Semiconductors NV",
    "move_pct": -7.2,
@@ -54,6 +38,22 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-nxpi-stock-down-over-080846843.html",
    "published": "2026-10-28T08:08:46+00:00",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 3,
+   "ticker": "SKHY",
+   "company": "SK hynix Inc (ADR)",
+   "move_pct": 7.29,
+   "price": 155.96,
+   "volume": 24904100,
+   "volume_vs_avg": "~1.3x",
+   "heat_score": 47,
+   "direction": "up",
+   "why": "SKHY Stock Jumps Premarket: Strategist Says SK Hynix Sits At AI\u2019s \u2018Toll Booth\u2019 As Tech Giants Chase Scarce Memory",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/skhy-stock-jumps-premarket-strategist-082450097.html",
+   "published": "2026-10-28T08:24:50+00:00",
+   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

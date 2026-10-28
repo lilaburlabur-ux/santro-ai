@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-28T08:28:35+00:00",
-  "as_of_local": "2026-10-28 08:28:35 UTC",
+  "as_of_utc": "2026-10-28T08:33:45+00:00",
+  "as_of_local": "2026-10-28 08:33:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -65,15 +67,6 @@
       "previous_close": 223.35,
       "change_pct": 1.46,
       "market_cap": 242008482253.94595,
-      "headlines": []
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 243.57,
-      "previous_close": 233.78,
-      "change_pct": 4.19,
-      "market_cap": 218897489170.71918,
       "headlines": []
     },
     {
@@ -161,8 +154,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 9.01,
+          "price": 242000.0,
           "currency": "KRW"
         },
         {
@@ -251,8 +244,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 9.01,
+        "price": 242000.0,
         "currency": "KRW"
       },
       {
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 81308.09,
-      "change_pct": 0.62
+      "price": 81332.94,
+      "change_pct": 0.65
     },
     {
       "label": "Gold",
-      "price": 4063.6,
-      "change_pct": -0.27
+      "price": 4062.2,
+      "change_pct": -0.3
     },
     {
       "label": "Nasdaq100",

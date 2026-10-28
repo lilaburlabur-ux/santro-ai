@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-28T00:11:11+00:00",
-  "as_of_local": "2026-10-28 00:11:11 UTC",
+  "as_of_utc": "2026-10-28T00:16:14+00:00",
+  "as_of_local": "2026-10-28 00:16:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -55,7 +55,7 @@
       "price": 90.47,
       "previous_close": 86.96,
       "change_pct": 4.04,
-      "market_cap": 492559296768.1,
+      "market_cap": 495519507259.87994,
       "headlines": []
     },
     {
@@ -100,7 +100,7 @@
       "price": 98.37,
       "previous_close": 96.19,
       "change_pct": 2.27,
-      "market_cap": 14702973757.439999,
+      "market_cap": 14673878115.68,
       "headlines": []
     },
     {
@@ -313,14 +313,19 @@
   },
   "tape": [
     {
+      "label": "SPX",
+      "price": 7722.6,
+      "change_pct": 0.6
+    },
+    {
       "label": "BTC",
-      "price": 80653.22,
-      "change_pct": 0.81
+      "price": 80700.28,
+      "change_pct": 0.87
     },
     {
       "label": "Gold",
-      "price": 4076.8,
-      "change_pct": 0.95
+      "price": 4078.7,
+      "change_pct": 1.0
     },
     {
       "label": "Nasdaq100",

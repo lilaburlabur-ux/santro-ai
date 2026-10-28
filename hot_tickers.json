@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-28T02:00:41+00:00",
+  "as_of": "2026-10-28T03:30:48+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -25,54 +25,6 @@
   },
   {
    "rank": 2,
-   "ticker": "BBAI",
-   "company": "BigBear.ai Holdings Inc",
-   "move_pct": 10.85,
-   "price": 2.35,
-   "volume": 39819300,
-   "volume_vs_avg": "~2x",
-   "heat_score": 75,
-   "direction": "up",
-   "why": "BigBear.ai Q3 Earnings Call Highlights",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/bigbear-ai-q3-earnings-call-220431550.html",
-   "published": "2026-10-27T22:04:31+00:00",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 3,
-   "ticker": "CBRS",
-   "company": "Cerebras Systems Inc",
-   "move_pct": 10.1,
-   "price": 119.31,
-   "volume": 14317500,
-   "volume_vs_avg": "~2x",
-   "heat_score": 68,
-   "direction": "up",
-   "why": "Why Cerebras Systems Stock Jumped on Tuesday",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-cerebras-systems-stock-jumped-220654667.html",
-   "published": "2026-10-27T22:06:54+00:00",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 4,
-   "ticker": "DELL",
-   "company": "Dell Technologies Inc",
-   "move_pct": 7.47,
-   "price": 501.96,
-   "volume": 6402800,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 45,
-   "direction": "up",
-   "why": "What Dell Technologies Doubters Got Wrong Before A 297% Rally",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-doubters-got-wrong-231624229.html",
-   "published": "2026-10-27T23:16:24+00:00",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 5,
    "ticker": "SMCI",
    "company": "Super Micro Computer Inc",
    "move_pct": 7.34,
@@ -86,38 +38,6 @@
    "source_url": "https://finance.yahoo.com/technology/ai/articles/does-super-micro-computer-smci-011331935.html",
    "published": "2026-10-28T01:13:31+00:00",
    "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 6,
-   "ticker": "AMD",
-   "company": "Advanced Micro Devices Inc",
-   "move_pct": 5.45,
-   "price": 560.26,
-   "volume": 20532000,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 39,
-   "direction": "up",
-   "why": "Penguin Solutions, Broadcom, FormFactor, Lattice Semiconductor, and AMD stocks trade up, what you need to know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/penguin-solutions-broadcom-formfactor-lattice-222247675.html",
-   "published": "2026-10-27T22:22:47+00:00",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 7,
-   "ticker": "LSCC",
-   "company": "Lattice Semiconductor Corp",
-   "move_pct": 5.24,
-   "price": 103.52,
-   "volume": 1562900,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "Penguin Solutions, Broadcom, FormFactor, Lattice Semiconductor, and AMD stocks trade up, what you need to know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/penguin-solutions-broadcom-formfactor-lattice-222247675.html",
-   "published": "2026-10-27T22:22:47+00:00",
-   "sector": "AI Chips & Compute"
   }
  ]
 }

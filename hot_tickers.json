@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-28T09:04:15+00:00",
+  "as_of": "2026-10-28T09:19:27+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,30 +9,30 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "FFIV",
-   "company": "F5, Inc.",
-   "move_pct": -6.17,
-   "price": 431.0,
-   "volume": 1615200,
-   "volume_vs_avg": "~3x",
-   "heat_score": 51,
-   "direction": "down",
-   "why": "F5 Inc (FFIV) Q4 2026 Earnings Call Highlights: Revenue Tops Guidance as AI Security Bookings ...",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/f5-inc-ffiv-q4-2026-050558969.html",
-   "published": "2026-10-28T05:05:58+00:00",
-   "sector": "Cybersecurity"
+   "ticker": "SKHY",
+   "company": "SK hynix Inc (ADR)",
+   "move_pct": 7.84,
+   "price": 156.76,
+   "volume": 24904100,
+   "volume_vs_avg": "~1.3x",
+   "heat_score": 49,
+   "direction": "up",
+   "why": "SKHY Stock Jumps Premarket: Strategist Says SK Hynix Sits At AI\u2019s \u2018Toll Booth\u2019 As Tech Giants Chase Scarce Memory",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/skhy-stock-jumps-premarket-strategist-082450097.html",
+   "published": "2026-10-28T08:24:50+00:00",
+   "sector": "Chip Equipment & AI Hardware"
   },
   {
    "rank": 2,
    "ticker": "INOD",
    "company": "Innodata Inc",
-   "move_pct": 0.16,
-   "price": 44.81,
+   "move_pct": -0.02,
+   "price": 44.73,
    "volume": 9731500,
    "volume_vs_avg": "~7x",
    "heat_score": 49,
-   "direction": "up",
+   "direction": "down",
    "why": "The Zacks Analyst Blog Highlights Innodata, Argan, Trex, Quanta Services and Sterling Infrastructure",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-innodata-073500522.html",
@@ -54,22 +54,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-nxpi-stock-down-over-080846843.html",
    "published": "2026-10-28T08:08:46+00:00",
    "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 4,
-   "ticker": "SKHY",
-   "company": "SK hynix Inc (ADR)",
-   "move_pct": 7.58,
-   "price": 156.38,
-   "volume": 24904100,
-   "volume_vs_avg": "~1.3x",
-   "heat_score": 48,
-   "direction": "up",
-   "why": "SKHY Stock Jumps Premarket: Strategist Says SK Hynix Sits At AI\u2019s \u2018Toll Booth\u2019 As Tech Giants Chase Scarce Memory",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/skhy-stock-jumps-premarket-strategist-082450097.html",
-   "published": "2026-10-28T08:24:50+00:00",
-   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

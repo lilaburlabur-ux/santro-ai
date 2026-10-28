@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-28T06:56:22+00:00",
-  "as_of_local": "2026-10-28 06:56:22 UTC",
+  "as_of_utc": "2026-10-28T07:11:25+00:00",
+  "as_of_local": "2026-10-28 07:11:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -65,15 +67,6 @@
       "previous_close": 223.35,
       "change_pct": 1.46,
       "market_cap": 242008482253.94595,
-      "headlines": []
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 243.57,
-      "previous_close": 233.78,
-      "change_pct": 4.19,
-      "market_cap": 218897489170.71918,
       "headlines": []
     },
     {
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 80790.66,
-      "change_pct": 0.98
+      "price": 80826.74,
+      "change_pct": 1.03
     },
     {
       "label": "Gold",
-      "price": 4043.1,
-      "change_pct": -0.77
+      "price": 4041.5,
+      "change_pct": -0.81
     },
     {
       "label": "Nasdaq100",

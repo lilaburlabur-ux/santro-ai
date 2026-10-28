@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-28T12:07:00+00:00",
-  "as_of_local": "2026-10-28 12:07:00 UTC",
+  "as_of_utc": "2026-10-28T12:12:04+00:00",
+  "as_of_local": "2026-10-28 12:12:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LSCC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -94,6 +92,15 @@
       "previous_close": 245.83,
       "change_pct": 3.12,
       "market_cap": 63923618109.0,
+      "headlines": []
+    },
+    {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 103.52,
+      "previous_close": 98.37,
+      "change_pct": 5.24,
+      "market_cap": 14702973280.653809,
       "headlines": []
     },
     {
@@ -312,13 +319,13 @@
     },
     {
       "label": "BTC",
-      "price": 81091.62,
-      "change_pct": 0.35
+      "price": 81018.03,
+      "change_pct": 0.26
     },
     {
       "label": "Gold",
-      "price": 4058.9,
-      "change_pct": -0.39
+      "price": 4057.9,
+      "change_pct": -0.41
     },
     {
       "label": "Nasdaq100",

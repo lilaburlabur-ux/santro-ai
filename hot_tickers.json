@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-28T03:30:48+00:00",
+  "as_of": "2026-10-28T08:08:12+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,19 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "INOD",
-   "company": "Innodata Inc",
-   "move_pct": -25.32,
-   "price": 44.74,
-   "volume": 9731500,
-   "volume_vs_avg": "~7x",
-   "heat_score": 96,
-   "direction": "down",
-   "why": "Moving down 25.3% on ~7x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 2,
-   "ticker": "SMCI",
-   "company": "Super Micro Computer Inc",
-   "move_pct": 7.34,
-   "price": 35.09,
-   "volume": 31377000,
-   "volume_vs_avg": "~0.9x",
+   "ticker": "NXPI",
+   "company": "NXP Semiconductors NV",
+   "move_pct": -6.51,
+   "price": 236.99,
+   "volume": 5261300,
+   "volume_vs_avg": "~1.5x",
    "heat_score": 45,
-   "direction": "up",
-   "why": "Does Super Micro Computer (SMCI) Have A Bigger AI Infrastructure Story Now?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/does-super-micro-computer-smci-011331935.html",
-   "published": "2026-10-28T01:13:31+00:00",
-   "sector": "Chip Equipment & AI Hardware"
+   "direction": "down",
+   "why": "NXP Semiconductors NV (NXPI) Q3 2026 Earnings Call Highlights: Record Revenue of $3. ...",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nv-nxpi-q3-050535920.html",
+   "published": "2026-10-28T05:05:35+00:00",
+   "sector": "AI Chips & Compute"
   }
  ]
 }

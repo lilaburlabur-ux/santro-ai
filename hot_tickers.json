@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-28T14:24:22+00:00",
+  "as_of": "2026-10-28T14:39:40+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,33 +11,33 @@
    "rank": 1,
    "ticker": "VRT",
    "company": "Vertiv Holdings Co",
-   "move_pct": 14.78,
-   "price": 239.38,
-   "volume": 6956975,
-   "volume_vs_avg": "~1.3x",
-   "heat_score": 83,
+   "move_pct": 13.65,
+   "price": 237.03,
+   "volume": 7685993,
+   "volume_vs_avg": "~1.4x",
+   "heat_score": 80,
    "direction": "up",
-   "why": "Vertiv stock surges as orders double amid AI build-out: 'Evolving faster than ever'",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/article/vertiv-stock-surges-as-orders-double-amid-ai-build-out-evolving-faster-than-ever-122018206.html",
-   "published": "2026-10-28T13:40:18+00:00",
+   "why": "GE Vernova Falls 6% Despite Beat, Raise and $9B Trench Deal; Vertiv Holdings Soars 13%, Eaton and Quanta Services Tick Up",
+   "catalyst_type": "financing",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-falls-6-despite-140350079.html",
+   "published": "2026-10-28T14:03:50+00:00",
    "sector": "Data Center, Power & Energy"
   },
   {
    "rank": 2,
-   "ticker": "SKHY",
-   "company": "SK hynix Inc (ADR)",
-   "move_pct": 10.54,
-   "price": 160.68,
-   "volume": 19505533,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 67,
+   "ticker": "RXRX",
+   "company": "Recursion Pharmaceuticals Inc",
+   "move_pct": 7.28,
+   "price": 4.34,
+   "volume": 7323631,
+   "volume_vs_avg": "~0.2x",
+   "heat_score": 42,
    "direction": "up",
-   "why": "SKHY Stock: Analyst Sees 175% Upside Potential For SK Hynix, Company's Q3 Beat Uplifts MU, SNDK, WDC",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/skhy-stock-analyst-sees-175-132509344.html",
-   "published": "2026-10-28T13:25:09+00:00",
-   "sector": "Chip Equipment & AI Hardware"
+   "why": "Recursion Pharmaceuticals (RXRX) Expected to Beat Earnings Estimates: What to Know Ahead of Q3 Release",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/recursion-pharmaceuticals-rxrx-expected-beat-130016846.html",
+   "published": "2026-10-28T13:00:16+00:00",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

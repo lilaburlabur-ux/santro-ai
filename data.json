@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-28T23:02:46+00:00",
-  "as_of_local": "2026-10-28 23:02:46 UTC",
+  "as_of_utc": "2026-10-28T23:07:59+00:00",
+  "as_of_local": "2026-10-28 23:07:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NXPI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -85,6 +83,15 @@
       "previous_close": 184.17,
       "change_pct": -0.65,
       "market_cap": 195382595899.30502,
+      "headlines": []
+    },
+    {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors",
+      "price": 251.69,
+      "previous_close": 253.5,
+      "change_pct": -0.71,
+      "market_cap": 63467201569.69519,
       "headlines": []
     },
     {
@@ -312,13 +319,13 @@
     },
     {
       "label": "BTC",
-      "price": 81084.07,
-      "change_pct": 0.35
+      "price": 81193.69,
+      "change_pct": 0.48
     },
     {
       "label": "Gold",
-      "price": 4066.3,
-      "change_pct": -0.2
+      "price": 4064.1,
+      "change_pct": -0.26
     },
     {
       "label": "Nasdaq100",

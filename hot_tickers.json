@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-28T12:22:16+00:00",
+  "as_of": "2026-10-28T12:27:31+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "VRT",
    "company": "Vertiv Holdings Co",
-   "move_pct": 15.72,
-   "price": 241.34,
+   "move_pct": 16.39,
+   "price": 242.75,
    "volume": 8407800,
    "volume_vs_avg": "~2x",
    "heat_score": 85,
@@ -54,22 +54,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/nvent-electric-become-next-vertiv-111500661.html",
    "published": "2026-10-28T11:15:00+00:00",
    "sector": "Powering AI"
-  },
-  {
-   "rank": 4,
-   "ticker": "PSN",
-   "company": "Parsons Corporation",
-   "move_pct": -6.19,
-   "price": 47.59,
-   "volume": 1408300,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 43,
-   "direction": "down",
-   "why": "Parsons Q3 Adjusted Earnings, Revenue Rise; 2026 Revenue Guidance Narrowed; CFO Matt Ofilos to Resign",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/parsons-q3-adjusted-earnings-revenue-113838750.html",
-   "published": "2026-10-28T11:38:38+00:00",
-   "sector": "Cybersecurity"
   }
  ]
 }

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-29T08:22:24+00:00",
-  "as_of_local": "2026-10-29 08:22:24 UTC",
+  "as_of_utc": "2026-10-29T08:27:23+00:00",
+  "as_of_local": "2026-10-29 08:27:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -32,15 +34,6 @@
       "headlines": []
     },
     {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 983.23,
-      "previous_close": 928.76,
-      "change_pct": 5.86,
-      "market_cap": 1112449222636.6504,
-      "headlines": []
-    },
-    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 578.44,
@@ -55,7 +48,7 @@
       "price": 95.53,
       "previous_close": 93.74,
       "change_pct": 1.91,
-      "market_cap": 504981629226.0948,
+      "market_cap": 501964892457.7333,
       "headlines": []
     },
     {
@@ -100,7 +93,7 @@
       "price": 104.17,
       "previous_close": 103.52,
       "change_pct": 0.63,
-      "market_cap": 14766014841.979446,
+      "market_cap": 14795293174.174805,
       "headlines": []
     },
     {
@@ -143,8 +136,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 5.86,
-          "price": 983.23,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -233,8 +226,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 5.86,
-        "price": 983.23,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 80015.72,
-      "change_pct": -1.54
+      "price": 79955.48,
+      "change_pct": -1.61
     },
     {
       "label": "Gold",
-      "price": 4045.1,
-      "change_pct": -0.16
+      "price": 4041.7,
+      "change_pct": -0.24
     },
     {
       "label": "Nasdaq100",

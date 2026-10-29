@@ -1,11 +1,8 @@
 {
-  "as_of_utc": "2026-10-29T20:31:27+00:00",
-  "as_of_local": "2026-10-29 20:31:27 UTC",
+  "as_of_utc": "2026-10-29T20:36:31+00:00",
+  "as_of_local": "2026-10-29 20:36:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD",
-    "NXPI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -44,12 +41,21 @@
       "headlines": []
     },
     {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 566.42,
+      "previous_close": 578.44,
+      "change_pct": -2.08,
+      "market_cap": 924666485390.8966,
+      "headlines": []
+    },
+    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 92.07,
       "previous_close": 95.53,
       "change_pct": -3.62,
-      "market_cap": 483784236218.49585,
+      "market_cap": 486691709859.1487,
       "headlines": []
     },
     {
@@ -80,12 +86,21 @@
       "headlines": []
     },
     {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors",
+      "price": 266.0,
+      "previous_close": 251.69,
+      "change_pct": 5.69,
+      "market_cap": 67046094808.0,
+      "headlines": []
+    },
+    {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
       "price": 103.0,
       "previous_close": 104.17,
       "change_pct": -1.12,
-      "market_cap": 14629118016.0,
+      "market_cap": 14600168527.0,
       "headlines": []
     },
     {
@@ -304,13 +319,13 @@
     },
     {
       "label": "BTC",
-      "price": 80354.27,
-      "change_pct": -1.12
+      "price": 79746.41,
+      "change_pct": -1.87
     },
     {
       "label": "Gold",
-      "price": 4037.4,
-      "change_pct": -0.35
+      "price": 4037.7,
+      "change_pct": -0.34
     },
     {
       "label": "Nasdaq100",

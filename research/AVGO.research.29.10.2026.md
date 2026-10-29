@@ -18,7 +18,7 @@ Signed file: `AVGO.research.29.10.2026`
 | Technical momentum | Low | Below SMA200 (-5.92%) with negative half-year (-17.07%). |
 | Fresh setup quality | Poor / broken | -28.12% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 42.94%, revenue growth 85.50%. |
-| Value attractiveness | Reasonable | Forward P/E 17.75, EV/Sales 19.25. |
+| Value attractiveness | Reasonable | Forward P/E 17.75, EV/Sales 18.88. |
 | Risk level | Elevated | Beta 1.48, ATR 3.4% of price, short float 1.14%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $89.10B | Revenue growth 85.50% y/y |
 | Profitability | Gross 75.52%, operating 54.31%, net 42.94% | ROA 15.37%, ROE 44.25% |
 | Balance sheet | Cash $23.98B, debt $59.42B | Current ratio 2.50, debt/equity 59.60 |
-| Valuation | P/E 44.06, forward P/E 17.75, P/S 18.48, P/B 16.52 | EV/Sales 19.25, EV/EBITDA 32.81 |
+| Valuation | P/E 44.06, forward P/E 17.75, P/S 18.48, P/B 16.52 | EV/Sales 18.88, EV/EBITDA 32.19 |
 | Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $530.14 (48 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,8 +102,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $345.00 | EV/Sales | 19.25 |
-| Market cap | $1.65T | EV/EBITDA | 32.81 |
+| Price | $345.00 | EV/Sales | 18.88 |
+| Market cap | $1.65T | EV/EBITDA | 32.19 |
 | Beta | 1.48 | Gross margin | 75.52% |
 | RSI(14) | 49.1 | Operating margin | 54.31% |
 | ATR(14) | 11.58 | Profit margin | 42.94% |
@@ -114,7 +114,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | 52W low | $292.41 | Inst. ownership | 79.81% |
 | P/E (ttm) | 44.06 | Insider ownership | 1.92% |
 | Forward P/E | 17.75 | Short float | 1.14% |
-| PEG (trailing) | 0.34 | Avg volume | 22,878,843 |
+| PEG (trailing) | 0.35 | Avg volume | 22,878,843 |
 | P/S | 18.48 | Employees | 33,000 |
 | P/B | 16.52 | Analyst rec (1=buy..5=sell) | 1.2 |
 

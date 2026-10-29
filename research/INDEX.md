@@ -7,7 +7,7 @@
 | TSM | $2.24T | +45% | 18.5 | 51% | Moderate | Reasonable | Elevated |
 | AVGO | $1.65T | -7% | 17.8 | 43% | Low | Reasonable | Elevated |
 | MU | $1.06T | +321% | 4.5 | 64% | High | Reasonable | High |
-| AMD | $924.67B | +120% | 35.7 | 16% | High | Low (expensive) | High |
+| AMD | $924.67B | +120% | 35.6 | 16% | High | Low (expensive) | High |
 | INTC | $486.69B | +122% | 42.6 | -20% | High | Low (expensive) | High |
 | ARM | $244.33B | +32% | 74.6 | 20% | Moderate | Low (expensive) | High |
 | MRVL | $196.22B | +147% | 29.8 | 28% | High | Fair-to-demanding | High |

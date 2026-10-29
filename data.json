@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-29T00:24:59+00:00",
-  "as_of_local": "2026-10-29 00:24:59 UTC",
+  "as_of_utc": "2026-10-29T00:30:10+00:00",
+  "as_of_local": "2026-10-29 00:30:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -20,15 +22,6 @@
       "previous_close": 424.37,
       "change_pct": 2.95,
       "market_cap": 2279507193453.63,
-      "headlines": []
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 342.33,
-      "previous_close": 329.17,
-      "change_pct": 4.0,
-      "market_cap": 1679410722805.65,
       "headlines": []
     },
     {
@@ -55,7 +48,7 @@
       "price": 93.74,
       "previous_close": 90.47,
       "change_pct": 3.61,
-      "market_cap": 504981635678.86,
+      "market_cap": 501964898871.95,
       "headlines": []
     },
     {
@@ -100,7 +93,7 @@
       "price": 103.52,
       "previous_close": 98.37,
       "change_pct": 5.24,
-      "market_cap": 14766015101.53,
+      "market_cap": 14795293434.24,
       "headlines": []
     },
     {
@@ -152,8 +145,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 3.03,
-          "price": 1532000.0,
+          "change_pct": 3.3,
+          "price": 1536000.0,
           "currency": "KRW"
         },
         {
@@ -161,8 +154,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.21,
-          "price": 242500.0,
+          "change_pct": 0.83,
+          "price": 244000.0,
           "currency": "KRW"
         },
         {
@@ -170,8 +163,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 4.78,
-          "price": 15025.0,
+          "change_pct": 5.23,
+          "price": 15090.0,
           "currency": "JPY"
         },
         {
@@ -179,8 +172,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 3.92,
+          "price": 1304.84,
           "currency": "USD"
         },
         {
@@ -242,8 +235,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 3.03,
-        "price": 1532000.0,
+        "change_pct": 3.3,
+        "price": 1536000.0,
         "currency": "KRW"
       },
       {
@@ -251,8 +244,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.21,
-        "price": 242500.0,
+        "change_pct": 0.83,
+        "price": 244000.0,
         "currency": "KRW"
       },
       {
@@ -260,8 +253,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 4.78,
-        "price": 15025.0,
+        "change_pct": 5.23,
+        "price": 15090.0,
         "currency": "JPY"
       },
       {
@@ -269,8 +262,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 3.92,
+        "price": 1304.84,
         "currency": "USD"
       },
       {
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 81115.72,
-      "change_pct": 0.38
+      "price": 81118.31,
+      "change_pct": 0.39
     },
     {
       "label": "Gold",
-      "price": 4056.7,
-      "change_pct": -0.44
+      "price": 4053.3,
+      "change_pct": -0.52
     },
     {
       "label": "Nasdaq100",

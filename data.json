@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-29T22:57:36+00:00",
-  "as_of_local": "2026-10-29 22:57:36 UTC",
+  "as_of_utc": "2026-10-29T23:02:46+00:00",
+  "as_of_local": "2026-10-29 23:02:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "QCOM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -67,6 +65,15 @@
       "previous_close": 235.9,
       "change_pct": -3.02,
       "market_cap": 244326037193.11218,
+      "headlines": []
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "price": 185.41,
+      "previous_close": 182.97,
+      "change_pct": 1.33,
+      "market_cap": 197988126903.41507,
       "headlines": []
     },
     {
@@ -200,7 +207,7 @@
           "short": "Nanya",
           "weight_pct": 3.13,
           "change_pct": 0.0,
-          "price": 477.0,
+          "price": null,
           "currency": "TWD"
         },
         {
@@ -290,7 +297,7 @@
         "short": "Nanya",
         "weight_pct": 3.13,
         "change_pct": 0.0,
-        "price": 477.0,
+        "price": null,
         "currency": "TWD"
       },
       {
@@ -312,13 +319,13 @@
     },
     {
       "label": "BTC",
-      "price": 78857.04,
-      "change_pct": -2.97
+      "price": 78688.84,
+      "change_pct": -3.17
     },
     {
       "label": "Gold",
-      "price": 4035.0,
-      "change_pct": -0.41
+      "price": 4036.4,
+      "change_pct": -0.38
     },
     {
       "label": "Nasdaq100",

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-29T12:54:15+00:00",
-  "as_of_local": "2026-10-29 12:54:15 UTC",
+  "as_of_utc": "2026-10-29T12:59:23+00:00",
+  "as_of_local": "2026-10-29 12:59:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVAV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -57,7 +55,7 @@
       "price": 95.53,
       "previous_close": 93.74,
       "change_pct": 1.91,
-      "market_cap": 501964892457.7333,
+      "market_cap": 504981629226.0948,
       "headlines": []
     },
     {
@@ -102,7 +100,16 @@
       "price": 104.17,
       "previous_close": 103.52,
       "change_pct": 0.63,
-      "market_cap": 14795293174.174805,
+      "market_cap": 14766014841.979446,
+      "headlines": []
+    },
+    {
+      "symbol": "AVAV",
+      "name": "AeroVironment",
+      "price": 125.95,
+      "previous_close": 126.73,
+      "change_pct": -0.62,
+      "market_cap": 6400867261.807526,
       "headlines": []
     },
     {
@@ -145,8 +152,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.62,
-          "price": 1526000.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "KRW"
         },
         {
@@ -235,8 +242,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.62,
-        "price": 1526000.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "KRW"
       },
       {
@@ -312,13 +319,13 @@
     },
     {
       "label": "BTC",
-      "price": 79965.89,
-      "change_pct": -1.6
+      "price": 79931.69,
+      "change_pct": -1.64
     },
     {
       "label": "Gold",
-      "price": 4036.6,
-      "change_pct": -0.37
+      "price": 4033.8,
+      "change_pct": -0.44
     },
     {
       "label": "Nasdaq100",

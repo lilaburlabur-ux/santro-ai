@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-29T23:54:24+00:00",
-  "as_of_local": "2026-10-29 23:54:24 UTC",
+  "as_of_utc": "2026-10-29T23:58:30+00:00",
+  "as_of_local": "2026-10-29 23:58:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -50,15 +52,6 @@
       "headlines": []
     },
     {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 92.07,
-      "previous_close": 95.53,
-      "change_pct": -3.62,
-      "market_cap": 486691709859.1487,
-      "headlines": []
-    },
-    {
       "symbol": "ARM",
       "name": "Arm Holdings",
       "price": 228.77,
@@ -100,7 +93,7 @@
       "price": 103.0,
       "previous_close": 104.17,
       "change_pct": -1.12,
-      "market_cap": 14600168527.0,
+      "market_cap": 14629118016.0,
       "headlines": []
     },
     {
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 77825.51,
-      "change_pct": -4.24
+      "price": 77803.9,
+      "change_pct": -4.26
     },
     {
       "label": "Gold",
-      "price": 4023.5,
-      "change_pct": -0.69
+      "price": 4020.2,
+      "change_pct": -0.78
     },
     {
       "label": "Nasdaq100",

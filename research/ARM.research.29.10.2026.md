@@ -59,7 +59,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Revenue (ttm) | $5.16B | Revenue growth 22.40% y/y |
 | Profitability | Gross 97.54%, operating 7.60%, net 20.25% | ROA 5.42%, ROE 13.35% |
 | Balance sheet | Cash $3.89B, debt $485.00M | Current ratio 5.25, debt/equity 5.62 |
-| Valuation | P/E 243.20, forward P/E 76.93, P/S 48.86, P/B 29.19 | EV/Sales 48.20, EV/EBITDA 233.65 |
+| Valuation | P/E 233.56, forward P/E 76.93, P/S 48.86, P/B 29.19 | EV/Sales 48.20, EV/EBITDA 233.65 |
 | Growth expectations | Earnings growth 108.30%, EPS q/q 107.70% | Analyst mean target $290.70 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -113,7 +113,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | SMA200 dist | +nan% | Revenue (ttm) | $5.16B |
 | 52W high | $439.46 | Revenue growth y/y | 22.40% |
 | 52W low | $104.55 | Inst. ownership | 96.25% |
-| P/E (ttm) | 243.20 | Insider ownership | 0.07% |
+| P/E (ttm) | 233.56 | Insider ownership | 0.07% |
 | Forward P/E | 76.93 | Short float | 12.19% |
 | PEG (trailing) | 1.86 | Avg volume | 5,056,823 |
 | P/S | 48.86 | Employees | 9,584 |

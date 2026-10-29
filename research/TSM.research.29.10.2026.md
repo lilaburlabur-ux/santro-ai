@@ -59,7 +59,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.94T | Revenue growth 50.90% y/y |
 | Profitability | Gross 65.85%, operating 58.66%, net 51.12% | ROA 20.58%, ROE 41.85% |
 | Balance sheet | Cash $4.02T, debt $818.38B | Current ratio 2.50, debt/equity 11.62 |
-| Valuation | P/E 28.48, forward P/E 18.79, P/S 0.46, P/B 83.88 | EV/Sales 3.04, EV/EBITDA 4.16 |
+| Valuation | P/E 28.32, forward P/E 18.79, P/S 0.46, P/B 83.88 | EV/Sales 3.04, EV/EBITDA 4.16 |
 | Growth expectations | Earnings growth 68.70%, EPS q/q 68.70% | Analyst mean target $584.39 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,7 +111,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | SMA200 dist | +nan% | Revenue (ttm) | $4.94T |
 | 52W high | $485.80 | Revenue growth y/y | 50.90% |
 | 52W low | $272.18 | Inst. ownership | 15.52% |
-| P/E (ttm) | 28.48 | Insider ownership | 0.01% |
+| P/E (ttm) | 28.32 | Insider ownership | 0.01% |
 | Forward P/E | 18.79 | Short float | 0.61% |
 | PEG (trailing) | 0.79 | Avg volume | 10,737,184 |
 | P/S | 0.46 | Employees | 76,907 |

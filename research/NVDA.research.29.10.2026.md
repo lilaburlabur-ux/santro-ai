@@ -59,7 +59,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $302.97B | Revenue growth 105.90% y/y |
 | Profitability | Gross 74.67%, operating 66.24%, net 63.66% | ROA 53.57%, ROE 117.21% |
 | Balance sheet | Cash $62.47B, debt $38.86B | Current ratio 4.59, debt/equity 16.97 |
-| Valuation | P/E 27.23, forward P/E 13.53, P/S 17.17, P/B 22.71 | EV/Sales 17.05, EV/EBITDA 25.67 |
+| Valuation | P/E 27.54, forward P/E 13.53, P/S 17.17, P/B 22.71 | EV/Sales 17.05, EV/EBITDA 25.67 |
 | Growth expectations | Earnings growth 127.80%, EPS q/q 125.90% | Analyst mean target $328.95 (58 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,7 +111,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | SMA200 dist | +nan% | Revenue (ttm) | $302.97B |
 | 52W high | $239.24 | Revenue growth y/y | 105.90% |
 | 52W low | $164.79 | Inst. ownership | 71.50% |
-| P/E (ttm) | 27.23 | Insider ownership | 4.01% |
+| P/E (ttm) | 27.54 | Insider ownership | 4.01% |
 | Forward P/E | 13.53 | Short float | 1.30% |
 | PEG (trailing) | 0.27 | Avg volume | 115,348,157 |
 | P/S | 17.17 | Employees | 42,000 |

@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-10-29T01:41:03+00:00",
-  "as_of_local": "2026-10-29 01:41:03 UTC",
+  "as_of_utc": "2026-10-29T01:56:05+00:00",
+  "as_of_local": "2026-10-29 01:56:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "MU"
+    "NXPI"
   ],
   "stocks": [
     {
@@ -31,6 +31,15 @@
       "previous_close": 342.33,
       "change_pct": 2.77,
       "market_cap": 1679410711151.2803,
+      "headlines": []
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 983.23,
+      "previous_close": 928.76,
+      "change_pct": 5.86,
+      "market_cap": 1112449222636.6504,
       "headlines": []
     },
     {
@@ -76,15 +85,6 @@
       "previous_close": 184.17,
       "change_pct": -0.65,
       "market_cap": 195382595899.30502,
-      "headlines": []
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 251.69,
-      "previous_close": 253.5,
-      "change_pct": -0.71,
-      "market_cap": 63467201569.69519,
       "headlines": []
     },
     {
@@ -136,8 +136,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 5.86,
+          "price": 983.23,
           "currency": "USD"
         },
         {
@@ -145,8 +145,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.15,
-          "price": 1519000.0,
+          "change_pct": 1.28,
+          "price": 1506000.0,
           "currency": "KRW"
         },
         {
@@ -154,8 +154,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -3.51,
-          "price": 233500.0,
+          "change_pct": -4.44,
+          "price": 231250.0,
           "currency": "KRW"
         },
         {
@@ -163,8 +163,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 5.65,
-          "price": 15150.0,
+          "change_pct": 5.13,
+          "price": 15075.0,
           "currency": "JPY"
         },
         {
@@ -199,8 +199,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 1.57,
-          "price": 484.5,
+          "change_pct": 1.05,
+          "price": 482.0,
           "currency": "TWD"
         },
         {
@@ -208,8 +208,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 0.58,
-          "price": 173.0,
+          "change_pct": -0.29,
+          "price": 171.5,
           "currency": "TWD"
         }
       ]
@@ -226,8 +226,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 5.86,
+        "price": 983.23,
         "currency": "USD"
       },
       {
@@ -235,8 +235,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.15,
-        "price": 1519000.0,
+        "change_pct": 1.28,
+        "price": 1506000.0,
         "currency": "KRW"
       },
       {
@@ -244,8 +244,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -3.51,
-        "price": 233500.0,
+        "change_pct": -4.44,
+        "price": 231250.0,
         "currency": "KRW"
       },
       {
@@ -253,8 +253,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 5.65,
-        "price": 15150.0,
+        "change_pct": 5.13,
+        "price": 15075.0,
         "currency": "JPY"
       },
       {
@@ -289,8 +289,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 1.57,
-        "price": 484.5,
+        "change_pct": 1.05,
+        "price": 482.0,
         "currency": "TWD"
       },
       {
@@ -298,8 +298,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 0.58,
-        "price": 173.0,
+        "change_pct": -0.29,
+        "price": 171.5,
         "currency": "TWD"
       }
     ]
@@ -312,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 80498.02,
-      "change_pct": -0.38
+      "price": 80127.9,
+      "change_pct": -0.84
     },
     {
       "label": "Gold",
-      "price": 4077.6,
-      "change_pct": 0.07
+      "price": 4067.2,
+      "change_pct": -0.18
     },
     {
       "label": "Nasdaq100",

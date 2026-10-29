@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-29T09:43:43+00:00",
+  "as_of": "2026-10-29T09:48:54+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,29 +9,13 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "FTNT",
-   "company": "Fortinet Inc",
-   "move_pct": -25.24,
-   "price": 130.15,
-   "volume": 10842600,
-   "volume_vs_avg": "~3x",
-   "heat_score": 91,
-   "direction": "down",
-   "why": "Fortinet (FTNT) Q3 2026 Earnings Call Transcript",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/fortinet-ftnt-q3-2026-earnings-054403979.html",
-   "published": "2026-10-29T05:44:03+00:00",
-   "sector": "Cybersecurity"
-  },
-  {
-   "rank": 2,
    "ticker": "GOOGL",
    "company": "Alphabet Inc",
-   "move_pct": -10.15,
-   "price": 291.9,
+   "move_pct": -10.09,
+   "price": 292.1,
    "volume": 60294600,
    "volume_vs_avg": "~2x",
-   "heat_score": 73,
+   "heat_score": 72,
    "direction": "down",
    "why": "Why Microsoft stock isn't getting crushed like Google stock after its earnings report",
    "catalyst_type": "earnings",
@@ -40,14 +24,14 @@
    "sector": "AI Platforms, Internet & AdTech"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "ticker": "VRT",
    "company": "Vertiv Holdings Co",
-   "move_pct": -3.21,
-   "price": 235.15,
+   "move_pct": -3.43,
+   "price": 234.6,
    "volume": 19510700,
    "volume_vs_avg": "~4x",
-   "heat_score": 44,
+   "heat_score": 45,
    "direction": "down",
    "why": "What Vertiv (VRT) Said on Its Q3 Earnings Call",
    "catalyst_type": "earnings",

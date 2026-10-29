@@ -1,8 +1,11 @@
 {
-  "as_of_utc": "2026-10-29T20:26:28+00:00",
-  "as_of_local": "2026-10-29 20:26:28 UTC",
+  "as_of_utc": "2026-10-29T20:31:27+00:00",
+  "as_of_local": "2026-10-29 20:31:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD",
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -41,15 +44,6 @@
       "headlines": []
     },
     {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 566.42,
-      "previous_close": 578.44,
-      "change_pct": -2.08,
-      "market_cap": 924666485390.8966,
-      "headlines": []
-    },
-    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 92.07,
@@ -83,15 +77,6 @@
       "previous_close": 251.65,
       "change_pct": -13.24,
       "market_cap": 196223161911.2654,
-      "headlines": []
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 266.0,
-      "previous_close": 251.69,
-      "change_pct": 5.69,
-      "market_cap": 67046094808.0,
       "headlines": []
     },
     {
@@ -319,13 +304,13 @@
     },
     {
       "label": "BTC",
-      "price": 80239.14,
-      "change_pct": -1.27
+      "price": 80354.27,
+      "change_pct": -1.12
     },
     {
       "label": "Gold",
-      "price": 4036.8,
-      "change_pct": -0.37
+      "price": 4037.4,
+      "change_pct": -0.35
     },
     {
       "label": "Nasdaq100",

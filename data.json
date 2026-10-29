@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-29T05:02:48+00:00",
-  "as_of_local": "2026-10-29 05:02:48 UTC",
+  "as_of_utc": "2026-10-29T05:17:46+00:00",
+  "as_of_local": "2026-10-29 05:17:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -65,15 +67,6 @@
       "previous_close": 226.6,
       "change_pct": 4.1,
       "market_cap": 251940855908.55405,
-      "headlines": []
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 251.65,
-      "previous_close": 243.57,
-      "change_pct": 3.32,
-      "market_cap": 226159010376.19235,
       "headlines": []
     },
     {
@@ -152,8 +145,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.82,
-          "price": 1529000.0,
+          "change_pct": 3.5,
+          "price": 1539000.0,
           "currency": "KRW"
         },
         {
@@ -170,8 +163,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 4.57,
-          "price": 14995.0,
+          "change_pct": 5.33,
+          "price": 15105.0,
           "currency": "JPY"
         },
         {
@@ -206,8 +199,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -0.63,
-          "price": 474.0,
+          "change_pct": -0.52,
+          "price": 474.5,
           "currency": "TWD"
         },
         {
@@ -242,8 +235,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.82,
-        "price": 1529000.0,
+        "change_pct": 3.5,
+        "price": 1539000.0,
         "currency": "KRW"
       },
       {
@@ -260,8 +253,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 4.57,
-        "price": 14995.0,
+        "change_pct": 5.33,
+        "price": 15105.0,
         "currency": "JPY"
       },
       {
@@ -296,8 +289,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -0.63,
-        "price": 474.0,
+        "change_pct": -0.52,
+        "price": 474.5,
         "currency": "TWD"
       },
       {
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 80218.39,
-      "change_pct": -0.73
+      "price": 80367.32,
+      "change_pct": -0.54
     },
     {
       "label": "Gold",
-      "price": 4050.0,
-      "change_pct": -0.04
+      "price": 4055.0,
+      "change_pct": 0.08
     },
     {
       "label": "Nasdaq100",

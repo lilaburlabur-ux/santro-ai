@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-30T00:18:45+00:00",
+  "as_of": "2026-10-30T00:33:50+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -25,22 +25,6 @@
   },
   {
    "rank": 2,
-   "ticker": "ORCL",
-   "company": "Oracle Corp",
-   "move_pct": 10.73,
-   "price": 144.54,
-   "volume": 37929239,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 69,
-   "direction": "up",
-   "why": "Oracle (ORCL) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-sees-more-significant-204504213.html",
-   "published": "2026-10-29T20:45:04+00:00",
-   "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
-   "rank": 3,
    "ticker": "NOW",
    "company": "ServiceNow Inc",
    "move_pct": -3.0,
@@ -52,11 +36,11 @@
    "why": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
    "catalyst_type": "earnings",
    "source_url": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-amazon%2C.html",
-   "published": "2026-10-29T23:37:10+00:00",
+   "published": "2026-10-30T00:18:36+00:00",
    "sector": "AI Applications & Data Software"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "ticker": "FTNT",
    "company": "Fortinet Inc",
    "move_pct": -5.9,
@@ -68,11 +52,11 @@
    "why": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
    "catalyst_type": "earnings",
    "source_url": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-amazon%2C.html",
-   "published": "2026-10-29T23:37:10+00:00",
+   "published": "2026-10-30T00:18:36+00:00",
    "sector": "Cybersecurity"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "GOOGL",
    "company": "Alphabet Inc",
    "move_pct": 1.34,
@@ -81,14 +65,14 @@
    "volume_vs_avg": "~5x",
    "heat_score": 46,
    "direction": "up",
-   "why": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-amazon%2C.html",
-   "published": "2026-10-29T23:37:10+00:00",
+   "why": "Alphabet\u2019s Plunge Shows the Flip Side of Uncapped Sector ETFs",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-plunge-shows-flip-side-002345002.html",
+   "published": "2026-10-30T00:23:45+00:00",
    "sector": "AI Platforms, Internet & AdTech"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "ticker": "MU",
    "company": "Micron Technology Inc",
    "move_pct": 5.86,
@@ -104,7 +88,7 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "ticker": "PINS",
    "company": "Pinterest Inc",
    "move_pct": 1.65,

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-30T20:10:04+00:00",
-  "as_of_local": "2026-10-30 20:10:04 UTC",
+  "as_of_utc": "2026-10-30T20:10:50+00:00",
+  "as_of_local": "2026-10-30 20:10:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
     "CEVA"
@@ -12,25 +12,25 @@
       "price": 202.23,
       "previous_close": 213.66,
       "change_pct": -5.35,
-      "market_cap": 4883247706832.886,
+      "market_cap": 4883127222381.592,
       "headlines": []
     },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 406.07,
+      "price": 406.46,
       "previous_close": 431.81,
-      "change_pct": -5.96,
-      "market_cap": 2106045582751.135,
+      "change_pct": -5.87,
+      "market_cap": 2108094183005.9648,
       "headlines": []
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 325.92,
+      "price": 325.81,
       "previous_close": 345.0,
-      "change_pct": -5.53,
-      "market_cap": 1555821509699.8337,
+      "change_pct": -5.56,
+      "market_cap": 1555296334661.2803,
       "headlines": []
     },
     {
@@ -45,10 +45,10 @@
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 505.11,
+      "price": 505.12,
       "previous_close": 566.42,
-      "change_pct": -10.83,
-      "market_cap": 824571324024.3164,
+      "change_pct": -10.82,
+      "market_cap": 824595785243.9705,
       "headlines": []
     },
     {
@@ -63,10 +63,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 207.04,
+      "price": 207.2,
       "previous_close": 228.77,
-      "change_pct": -9.5,
-      "market_cap": 221123761763.0412,
+      "change_pct": -9.43,
+      "market_cap": 221289300237.52704,
       "headlines": []
     },
     {
@@ -81,19 +81,19 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 164.8,
+      "price": 164.89,
       "previous_close": 185.41,
-      "change_pct": -11.12,
-      "market_cap": 175979954012.38757,
+      "change_pct": -11.07,
+      "market_cap": 176076055657.47247,
       "headlines": []
     },
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 256.21,
+      "price": 256.32,
       "previous_close": 266.0,
-      "change_pct": -3.68,
-      "market_cap": 64578493901.70691,
+      "change_pct": -3.64,
+      "market_cap": 64606223730.25122,
       "headlines": []
     },
     {
@@ -108,19 +108,28 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 126.65,
+      "price": 126.67,
       "previous_close": 134.88,
-      "change_pct": -6.1,
-      "market_cap": 6438982788.307526,
+      "change_pct": -6.09,
+      "market_cap": 6437331441.186722,
       "headlines": []
     },
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 117.62,
+      "price": 117.66,
       "previous_close": 117.91,
-      "change_pct": -0.25,
-      "market_cap": 4669518226.772064,
+      "change_pct": -0.21,
+      "market_cap": 4671265339.810822,
+      "headlines": []
+    },
+    {
+      "symbol": "CEVA",
+      "name": "CEVA",
+      "price": 28.99,
+      "previous_close": 32.15,
+      "change_pct": -9.83,
+      "market_cap": 816186540.8360443,
       "headlines": []
     }
   ],
@@ -128,8 +137,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 48.01,
-      "change_pct": -7.23,
+      "price": 48.04,
+      "change_pct": -7.16,
       "holdings": [
         {
           "symbol": "MU",
@@ -172,8 +181,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -15.94,
-          "price": 1118.01,
+          "change_pct": -15.9,
+          "price": 1118.53,
           "currency": "USD"
         },
         {
@@ -181,8 +190,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -10.6,
-          "price": 626.25,
+          "change_pct": -10.51,
+          "price": 626.82,
           "currency": "USD"
         },
         {
@@ -190,8 +199,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -7.43,
-          "price": 366.04,
+          "change_pct": -7.56,
+          "price": 365.53,
           "currency": "USD"
         },
         {
@@ -218,8 +227,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 48.01,
-    "change_pct": -7.23,
+    "price": 48.04,
+    "change_pct": -7.16,
     "holdings": [
       {
         "symbol": "MU",
@@ -262,8 +271,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -15.94,
-        "price": 1118.01,
+        "change_pct": -15.9,
+        "price": 1118.53,
         "currency": "USD"
       },
       {
@@ -271,8 +280,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -10.6,
-        "price": 626.25,
+        "change_pct": -10.51,
+        "price": 626.82,
         "currency": "USD"
       },
       {
@@ -280,8 +289,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -7.43,
-        "price": 366.04,
+        "change_pct": -7.56,
+        "price": 365.53,
         "currency": "USD"
       },
       {
@@ -307,23 +316,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7582.2,
-      "change_pct": -1.79
+      "price": 7578.48,
+      "change_pct": -1.84
     },
     {
       "label": "BTC",
-      "price": 76773.75,
-      "change_pct": -1.29
+      "price": 76806.31,
+      "change_pct": -1.25
     },
     {
       "label": "Gold",
-      "price": 3880.8,
-      "change_pct": -3.74
+      "price": 3879.8,
+      "change_pct": -3.76
     },
     {
       "label": "Nasdaq100",
-      "price": 28239.52,
-      "change_pct": -3.96
+      "price": 28233.31,
+      "change_pct": -3.98
     }
   ]
 }

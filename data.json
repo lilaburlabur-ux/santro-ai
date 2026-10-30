@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-30T06:43:44+00:00",
-  "as_of_local": "2026-10-30 06:43:44 UTC",
+  "as_of_utc": "2026-10-30T06:58:49+00:00",
+  "as_of_local": "2026-10-30 06:58:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVAV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -106,6 +104,15 @@
       "headlines": []
     },
     {
+      "symbol": "AVAV",
+      "name": "AeroVironment",
+      "price": 134.88,
+      "previous_close": 125.95,
+      "change_pct": 7.09,
+      "market_cap": 6854696533.907959,
+      "headlines": []
+    },
+    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 117.91,
@@ -145,8 +152,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -7.54,
-          "price": 1411000.0,
+          "change_pct": -7.08,
+          "price": 1418000.0,
           "currency": "KRW"
         },
         {
@@ -163,8 +170,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -6.89,
-          "price": 13505.0,
+          "change_pct": -7.14,
+          "price": 13470.0,
           "currency": "JPY"
         },
         {
@@ -235,8 +242,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -7.54,
-        "price": 1411000.0,
+        "change_pct": -7.08,
+        "price": 1418000.0,
         "currency": "KRW"
       },
       {
@@ -253,8 +260,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -6.89,
-        "price": 13505.0,
+        "change_pct": -7.14,
+        "price": 13470.0,
         "currency": "JPY"
       },
       {
@@ -312,13 +319,13 @@
     },
     {
       "label": "BTC",
-      "price": 78384.99,
-      "change_pct": -3.55
+      "price": 78476.17,
+      "change_pct": -3.43
     },
     {
       "label": "Gold",
-      "price": 3999.5,
-      "change_pct": -0.79
+      "price": 3993.8,
+      "change_pct": -0.93
     },
     {
       "label": "Nasdaq100",

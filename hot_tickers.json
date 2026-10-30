@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-30T00:03:26+00:00",
+  "as_of": "2026-10-30T00:18:45+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -81,10 +81,10 @@
    "volume_vs_avg": "~5x",
    "heat_score": 46,
    "direction": "up",
-   "why": "Reddit puts logged in experience first as Google AI hits traffic",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/news/reddit-posts-search-traffic-declines-200918659.html",
-   "published": "2026-10-29T23:41:24+00:00",
+   "why": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-amazon%2C.html",
+   "published": "2026-10-29T23:37:10+00:00",
    "sector": "AI Platforms, Internet & AdTech"
   },
   {
@@ -97,10 +97,10 @@
    "volume_vs_avg": "~0.8x",
    "heat_score": 40,
    "direction": "up",
-   "why": "Here's Why Micron (MU) Fell More Than Broader Market",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-micron-mu-fell-204503117.html",
-   "published": "2026-10-29T20:45:03+00:00",
+   "why": "Micron Is Trading for Less Than 6 Times Forward Earnings. Here's Why That's a Sign to Buy.",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/micron-trading-less-6-times-234100962.html",
+   "published": "2026-10-29T23:41:00+00:00",
    "sector": "AI Chips & Compute"
   },
   {

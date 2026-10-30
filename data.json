@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-10-30T22:28:31+00:00",
-  "as_of_local": "2026-10-30 22:28:31 UTC",
+  "as_of_utc": "2026-10-30T22:33:35+00:00",
+  "as_of_local": "2026-10-30 22:33:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "INTC"
+    "QCOM"
   ],
   "stocks": [
     {
@@ -52,6 +52,15 @@
       "headlines": []
     },
     {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 65.76,
+      "previous_close": 92.07,
+      "change_pct": -28.58,
+      "market_cap": 349185611343.3838,
+      "headlines": []
+    },
+    {
       "symbol": "ARM",
       "name": "Arm Holdings",
       "price": 205.97,
@@ -70,15 +79,6 @@
       "headlines": []
     },
     {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 164.79,
-      "previous_close": 185.41,
-      "change_pct": -11.12,
-      "market_cap": 175969265189.1974,
-      "headlines": []
-    },
-    {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
       "price": 259.61,
@@ -93,7 +93,7 @@
       "price": 92.97,
       "previous_close": 103.0,
       "change_pct": -9.74,
-      "market_cap": 13178424133.763702,
+      "market_cap": 13204554561.216797,
       "headlines": []
     },
     {
@@ -312,8 +312,8 @@
     },
     {
       "label": "BTC",
-      "price": 76690.86,
-      "change_pct": -1.39
+      "price": 76774.99,
+      "change_pct": -1.29
     },
     {
       "label": "Gold",

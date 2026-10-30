@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-30T08:39:54+00:00",
+  "as_of": "2026-10-30T08:55:10+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": -26.47,
-   "price": 67.7,
+   "move_pct": -27.15,
+   "price": 67.07,
    "volume": 125467300,
    "volume_vs_avg": "~1.2x",
    "heat_score": 83,
    "direction": "down",
-   "why": "Intel tops Q3 earnings estimates, but falls short of Q4 outlook on sluggish PC sales as stock plunges 20%",
+   "why": "Intel Q3 2026 net income falls 18%, revenue rises 21%",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/technology/article/intel-tops-q3-earnings-estimates-but-falls-short-of-q4-outlook-on-sluggish-pc-sales-as-stock-plunges-20-200949548.html",
-   "published": "2026-10-30T08:16:15+00:00",
+   "source_url": "https://finance.yahoo.com/news/intel-q3-2026-net-income-083625749.html",
+   "published": "2026-10-30T08:36:25+00:00",
    "sector": "AI Chips & Compute"
   },
   {
@@ -43,24 +43,24 @@
    "rank": 3,
    "ticker": "AMZN",
    "company": "Amazon.com Inc",
-   "move_pct": -6.86,
-   "price": 227.07,
+   "move_pct": -6.68,
+   "price": 227.5,
    "volume": 83559600,
    "volume_vs_avg": "~2x",
    "heat_score": 50,
    "direction": "down",
-   "why": "Amazon earnings live: Q3 earnings miss sends stock lower",
+   "why": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Amazon, Intel earnings rattle investors",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/live/amazon-earnings-live-q3-earnings-miss-sends-stock-lower-203345870.html",
-   "published": "2026-10-30T08:14:29+00:00",
+   "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-083236552.html",
+   "published": "2026-10-30T08:32:36+00:00",
    "sector": "AI Platforms, Internet & AdTech"
   },
   {
    "rank": 4,
    "ticker": "GOOGL",
    "company": "Alphabet Inc",
-   "move_pct": -0.37,
-   "price": 282.78,
+   "move_pct": -0.3,
+   "price": 282.98,
    "volume": 138898500,
    "volume_vs_avg": "~5x",
    "heat_score": 42,
@@ -70,22 +70,6 @@
    "source_url": "https://finance.yahoo.com/technology/articles/market-chatter-toyota-motor-waymo-081015862.html",
    "published": "2026-10-30T08:10:15+00:00",
    "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 5,
-   "ticker": "SMR",
-   "company": "NuScale Power Corp",
-   "move_pct": -5.05,
-   "price": 5.62,
-   "volume": 35805700,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 38,
-   "direction": "down",
-   "why": "What NuScale Power (SMR)'s Reactor Parts Deal Means For Shareholders",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-smr-reactor-parts-071040538.html",
-   "published": "2026-10-30T07:10:40+00:00",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

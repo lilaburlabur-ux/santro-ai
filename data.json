@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-30T12:13:01+00:00",
-  "as_of_local": "2026-10-30 12:13:01 UTC",
+  "as_of_utc": "2026-10-30T12:18:09+00:00",
+  "as_of_local": "2026-10-30 12:18:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -68,15 +70,6 @@
       "headlines": []
     },
     {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 185.41,
-      "previous_close": 182.97,
-      "change_pct": 1.33,
-      "market_cap": 197988126903.41507,
-      "headlines": []
-    },
-    {
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "price": 218.34,
@@ -100,7 +93,7 @@
       "price": 103.0,
       "previous_close": 104.17,
       "change_pct": -1.12,
-      "market_cap": 14629118016.0,
+      "market_cap": 14600168527.0,
       "headlines": []
     },
     {
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 77388.56,
-      "change_pct": -0.5
+      "price": 77327.92,
+      "change_pct": -0.57
     },
     {
       "label": "Gold",
-      "price": 3974.1,
-      "change_pct": -1.42
+      "price": 3976.0,
+      "change_pct": -1.37
     },
     {
       "label": "Nasdaq100",

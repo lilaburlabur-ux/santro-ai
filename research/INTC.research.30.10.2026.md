@@ -18,7 +18,7 @@ Signed file: `INTC.research.30.10.2026`
 | Technical momentum | Low | Below SMA200 (-24.30%) with negative half-year (-33.99%). |
 | Fresh setup quality | Poor / broken | -53.34% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-19.79%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 31.34, EV/Sales 8.78. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 29.99, EV/Sales 8.78. |
 | Risk level | High | Beta 2.23, ATR 10.6% of price, short float 2.81%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
@@ -59,7 +59,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $57.03B | Revenue growth 25.40% y/y |
 | Profitability | Gross 38.87%, operating 12.19%, net -19.79% | ROA 1.41%, ROE -10.71% |
 | Balance sheet | Cash $29.73B, debt $50.54B | Current ratio 1.60, debt/equity 49.00 |
-| Valuation | P/E —, forward P/E 31.34, P/S 6.12, P/B 2.87 | EV/Sales 8.78, EV/EBITDA 29.74 |
+| Valuation | P/E —, forward P/E 29.99, P/S 6.12, P/B 2.87 | EV/Sales 8.78, EV/EBITDA 29.74 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $117.71 (42 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Primecap Management Company | 75,250,958 | 1.49% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 31.34, EV/Sales 8.78. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 29.99, EV/Sales 8.78. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.23, ATR 10.6% of price, short float 2.81%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -115,7 +115,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | 52W high | $140.94 | Revenue growth y/y | 25.40% |
 | 52W low | $33.62 | Inst. ownership | 63.05% |
 | P/E (ttm) | — | Insider ownership | 13.99% |
-| Forward P/E | 31.34 | Short float | 2.81% |
+| Forward P/E | 29.99 | Short float | 2.81% |
 | PEG (trailing) | — | Avg volume | 102,125,550 |
 | P/S | 6.12 | Employees | 85,100 |
 | P/B | 2.87 | Analyst rec (1=buy..5=sell) | 2.5 |

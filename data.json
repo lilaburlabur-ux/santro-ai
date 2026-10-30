@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-30T13:09:36+00:00",
-  "as_of_local": "2026-10-30 13:09:36 UTC",
+  "as_of_utc": "2026-10-30T13:14:04+00:00",
+  "as_of_local": "2026-10-30 13:14:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -100,7 +102,7 @@
       "price": 103.0,
       "previous_close": 104.17,
       "change_pct": -1.12,
-      "market_cap": 14629118016.0,
+      "market_cap": 14600168527.0,
       "headlines": []
     },
     {
@@ -110,15 +112,6 @@
       "previous_close": 125.95,
       "change_pct": 7.09,
       "market_cap": 6854696533.907959,
-      "headlines": []
-    },
-    {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 117.91,
-      "previous_close": 118.5,
-      "change_pct": -0.5,
-      "market_cap": 4681190686.560822,
       "headlines": []
     },
     {
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 77184.99,
-      "change_pct": -0.76
+      "price": 77178.72,
+      "change_pct": -0.77
     },
     {
       "label": "Gold",
-      "price": 3964.0,
-      "change_pct": -1.67
+      "price": 3960.0,
+      "change_pct": -1.77
     },
     {
       "label": "Nasdaq100",

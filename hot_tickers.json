@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-30T21:47:51+00:00",
+  "as_of": "2026-10-30T22:03:00+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,32 +11,32 @@
    "rank": 1,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": -29.42,
-   "price": 64.98,
+   "move_pct": -29.59,
+   "price": 64.83,
    "volume": 450884426,
    "volume_vs_avg": "~4x",
    "heat_score": 99,
    "direction": "down",
-   "why": "Jim Cramer is \u2018furious\u2019 as Intel crashes nearly 30% \u2014 but Uncle Sam is the top shareholder. What it means for taxpayers",
+   "why": "Why Intel Stock Was Down 29% Today",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-furious-intel-crashes-212500271.html",
-   "published": "2026-10-30T21:25:00+00:00",
+   "source_url": "https://finance.yahoo.com/m/190378a9-18f7-3d12-9534-4914f9258da6/why-intel-stock-was-down-29%25.html",
+   "published": "2026-10-30T21:35:30+00:00",
    "sector": "AI Chips & Compute"
   },
   {
    "rank": 2,
-   "ticker": "MRVL",
-   "company": "Marvell Technology Inc",
-   "move_pct": -10.01,
-   "price": 196.49,
-   "volume": 42670557,
+   "ticker": "AMD",
+   "company": "Advanced Micro Devices Inc",
+   "move_pct": -10.62,
+   "price": 506.28,
+   "volume": 39527010,
    "volume_vs_avg": "~2x",
-   "heat_score": 71,
+   "heat_score": 72,
    "direction": "down",
-   "why": "8 Months Ago, A Major Wall Street Bank Said Buy Marvell. It\u2019s Up More Than 150%. Here\u2019s Where We See the Stock Going",
-   "catalyst_type": "regulatory",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/8-months-ago-major-wall-201736681.html",
-   "published": "2026-10-30T20:17:36+00:00",
+   "why": "Why AMD Stock Plunged Nearly 10% on Friday",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-plunged-nearly-192937175.html",
+   "published": "2026-10-30T19:29:37+00:00",
    "sector": "AI Chips & Compute"
   },
   {
@@ -57,6 +57,22 @@
   },
   {
    "rank": 4,
+   "ticker": "MRVL",
+   "company": "Marvell Technology Inc",
+   "move_pct": -9.89,
+   "price": 196.75,
+   "volume": 42670557,
+   "volume_vs_avg": "~2x",
+   "heat_score": 70,
+   "direction": "down",
+   "why": "8 Months Ago, A Major Wall Street Bank Said Buy Marvell. It\u2019s Up More Than 150%. Here\u2019s Where We See the Stock Going",
+   "catalyst_type": "regulatory",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/8-months-ago-major-wall-201736681.html",
+   "published": "2026-10-30T20:17:36+00:00",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 5,
    "ticker": "NVT",
    "company": "nVent Electric plc",
    "move_pct": -8.81,
@@ -72,7 +88,7 @@
    "sector": "Powering AI"
   },
   {
-   "rank": 5,
+   "rank": 6,
    "ticker": "ANET",
    "company": "Arista Networks Inc",
    "move_pct": -8.02,
@@ -88,7 +104,7 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "ticker": "CCJ",
    "company": "Cameco Corp",
    "move_pct": -7.79,
@@ -104,11 +120,11 @@
    "sector": "Powering AI"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "ticker": "ORCL",
    "company": "Oracle Corp",
-   "move_pct": -6.51,
-   "price": 130.48,
+   "move_pct": -6.63,
+   "price": 130.31,
    "volume": 40052541,
    "volume_vs_avg": "~1.3x",
    "heat_score": 44,
@@ -117,22 +133,6 @@
    "catalyst_type": "financing",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stocks-decline-6-17-200412236.html",
    "published": "2026-10-30T20:04:12+00:00",
-   "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
-   "rank": 8,
-   "ticker": "PLTR",
-   "company": "Palantir Technologies Inc",
-   "move_pct": -6.22,
-   "price": 184.2,
-   "volume": 26955616,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 43,
-   "direction": "down",
-   "why": "Dow Jones Futures: Stock Market Sells Off As Apple, Palantir, Midterm Elections Loom; What To Do",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures%3A-stock.html",
-   "published": "2026-10-30T20:51:56+00:00",
    "sector": "AI Software & Cloud Infrastructure"
   }
  ]

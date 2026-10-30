@@ -1,18 +1,11 @@
 {
-  "as_of_utc": "2026-10-30T20:25:47+00:00",
-  "as_of_local": "2026-10-30 20:25:47 UTC",
+  "as_of_utc": "2026-10-30T20:30:19+00:00",
+  "as_of_local": "2026-10-30 20:30:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 204.99,
-      "previous_close": 213.66,
-      "change_pct": -4.06,
-      "market_cap": 4948444533142.09,
-      "headlines": []
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -88,9 +81,9 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 259.81,
+      "price": 259.61,
       "previous_close": 266.0,
-      "change_pct": -2.33,
+      "change_pct": -2.4,
       "market_cap": 65435472522.49756,
       "headlines": []
     },
@@ -115,19 +108,19 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 117.65,
+      "price": 117.67,
       "previous_close": 117.91,
-      "change_pct": -0.22,
-      "market_cap": 4670868241.129509,
+      "change_pct": -0.2,
+      "market_cap": 4670471142.448196,
       "headlines": []
     },
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 29.2,
+      "price": 29.35,
       "previous_close": 32.15,
-      "change_pct": -9.18,
-      "market_cap": 820550441.3279114,
+      "change_pct": -8.71,
+      "market_cap": 826040476.7759705,
       "headlines": []
     }
   ],
@@ -179,8 +172,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -15.26,
-          "price": 1127.06,
+          "change_pct": -14.49,
+          "price": 1137.26,
           "currency": "USD"
         },
         {
@@ -188,8 +181,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -10.31,
-          "price": 628.27,
+          "change_pct": -9.42,
+          "price": 634.49,
           "currency": "USD"
         },
         {
@@ -269,8 +262,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -15.26,
-        "price": 1127.06,
+        "change_pct": -14.49,
+        "price": 1137.26,
         "currency": "USD"
       },
       {
@@ -278,8 +271,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -10.31,
-        "price": 628.27,
+        "change_pct": -9.42,
+        "price": 634.49,
         "currency": "USD"
       },
       {
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 76748.64,
-      "change_pct": -1.32
+      "price": 76808.87,
+      "change_pct": -1.24
     },
     {
       "label": "Gold",
-      "price": 3891.9,
-      "change_pct": -3.46
+      "price": 3889.9,
+      "change_pct": -3.51
     },
     {
       "label": "Nasdaq100",

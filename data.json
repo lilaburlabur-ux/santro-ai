@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-30T07:49:26+00:00",
-  "as_of_local": "2026-10-30 07:49:26 UTC",
+  "as_of_utc": "2026-10-30T08:04:24+00:00",
+  "as_of_local": "2026-10-30 08:04:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEVA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -120,15 +122,6 @@
       "change_pct": -0.5,
       "market_cap": 4681190686.560822,
       "headlines": []
-    },
-    {
-      "symbol": "CEVA",
-      "name": "CEVA",
-      "price": 32.15,
-      "previous_close": 32.37,
-      "change_pct": -0.68,
-      "market_cap": 905153457.7597046,
-      "headlines": []
     }
   ],
   "etfs": [
@@ -179,8 +172,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -5.32,
+          "price": 1330.05,
           "currency": "USD"
         },
         {
@@ -269,8 +262,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -5.32,
+        "price": 1330.05,
         "currency": "USD"
       },
       {
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 78073.59,
-      "change_pct": 0.38
+      "price": 77951.15,
+      "change_pct": 0.23
     },
     {
       "label": "Gold",
-      "price": 3992.7,
-      "change_pct": -0.96
+      "price": 3976.2,
+      "change_pct": -1.37
     },
     {
       "label": "Nasdaq100",

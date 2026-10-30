@@ -123,6 +123,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-30 | main | Citigroup | Buy → Buy |
 | 2026-10-30 | main | TD Cowen | Hold → Hold |
 | 2026-10-30 | main | DA Davidson | Neutral → Neutral |
 | 2026-10-30 | main | Rosenblatt | Sell → Sell |
@@ -130,7 +131,6 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | 2026-10-30 | main | Wedbush | Neutral → Neutral |
 | 2026-10-30 | main | Truist Securities | Hold → Hold |
 | 2026-10-30 | main | RBC Capital | Sector Perform → Sector Perform |
-| 2026-10-30 | main | StoneX | Buy → Buy |
 
 ## 9. Conclusion
 INTC: Low momentum / weak fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

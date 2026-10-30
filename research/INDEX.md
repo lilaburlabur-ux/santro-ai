@@ -3,7 +3,7 @@
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
-| NVDA | $4.95T | -1% | 12.9 | 64% | Moderate | Reasonable | High |
+| NVDA | $4.94T | -1% | 12.9 | 64% | Moderate | Reasonable | High |
 | TSM | $2.11T | +35% | 17.4 | 51% | Moderate | Reasonable | Elevated |
 | AVGO | $1.56T | -15% | 16.8 | 43% | Low | Reasonable | Elevated |
 | MU | $1.00T | +291% | 4.3 | 64% | High | Reasonable | High |
@@ -14,8 +14,8 @@
 | QCOM | $175.97B | -6% | 16.2 | 21% | Low | Reasonable | Elevated |
 | NXPI | $65.44B | +29% | 14.2 | 23% | Moderate | Reasonable | Elevated |
 | LSCC | $13.20B | +26% | 28.2 | 6% | Low | Fair-to-demanding | High |
-| SYNA | $4.67B | +68% | 17.9 | -41% | High | Reasonable | Elevated |
-| CEVA | $822.10M | +5% | 36.4 | -9% | Low | Low (expensive) | High |
+| SYNA | $4.68B | +68% | 17.9 | -41% | High | Reasonable | Elevated |
+| CEVA | $831.11M | +6% | 36.8 | -9% | Low | Low (expensive) | High |
 | AVAV | $6.41B | -67% | 28.6 | -10% | Low | Fair-to-demanding | High |
 
 14 reports generated; failed: none.

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-30T11:01:55+00:00",
-  "as_of_local": "2026-10-30 11:01:55 UTC",
+  "as_of_utc": "2026-10-30T11:07:01+00:00",
+  "as_of_local": "2026-10-30 11:07:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -95,15 +97,6 @@
       "headlines": []
     },
     {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 103.0,
-      "previous_close": 104.17,
-      "change_pct": -1.12,
-      "market_cap": 14629118016.0,
-      "headlines": []
-    },
-    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 134.88,
@@ -188,8 +181,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 0.36,
+          "price": 700.47,
           "currency": "USD"
         },
         {
@@ -278,8 +271,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 0.36,
+        "price": 700.47,
         "currency": "USD"
       },
       {
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 77665.92,
-      "change_pct": -0.14
+      "price": 77577.66,
+      "change_pct": -0.25
     },
     {
       "label": "Gold",
-      "price": 3984.5,
-      "change_pct": -1.16
+      "price": 3987.5,
+      "change_pct": -1.09
     },
     {
       "label": "Nasdaq100",

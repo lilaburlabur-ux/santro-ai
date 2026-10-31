@@ -1751,7 +1751,7 @@ async function loadData(){
     catch(e){ newsFeed=null; }
     try{ bubbleIx=await (await fetch("bubble_index.json?t="+Date.now())).json(); }
     catch(e){ bubbleIx=null; }
-    refreshStripChips();
+    if(window.refreshStripChips) window.refreshStripChips();
     document.getElementById("asof").textContent="As of "+d.as_of_local;
     const ts=document.getElementById("tape-stats");
     if(ts && d.tape && d.tape.length){
@@ -1874,6 +1874,7 @@ function renderLocked(){
   if(b) b.onclick=function(){ if(window.SantroLocks) SantroLocks.open("watch","wl-strip");
     else location.href="/signup?next=/terminal"; };
 }
+window.refreshStripChips=refreshStripChips;
 function renderAuthed(){
   strip.innerHTML='<div class="wl-head-row"><span class="wl-label">★ Watchlist</span><span class="wl-skel"></span></div>';
   Promise.all([API.listWatchlist(),stripPrices()]).then(function(res){

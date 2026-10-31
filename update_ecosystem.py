@@ -21,6 +21,7 @@ sys.path.insert(0, HERE)
 os.chdir(HERE)
 
 import yfinance as yf
+from live_bar import with_live_bar
 
 ECOSYSTEM = ["SNDK","INTC","WDC","LITE","MU","NBIS","NVTS","FLEX","VRT","STM",
              "ARM","ASX","GLW","NOK","ON","AMKR","CRWV","DELL","COHR","CAMT",
@@ -62,6 +63,7 @@ def main():
     for sym in ECOSYSTEM:
         try:
             c = px[sym]["Close"].dropna()
+            c, _ = with_live_bar(sym, c)
             v = px[sym]["Volume"].dropna()
             if len(c) < 2:
                 raise ValueError("no price bars")

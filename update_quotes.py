@@ -24,6 +24,7 @@ sys.path.insert(0, HERE)
 os.chdir(HERE)
 
 import yfinance as yf
+from live_bar import with_live_bar
 
 
 def load(path):
@@ -108,6 +109,7 @@ def main():
         try:
             c = px[sym]["Close"].dropna()
             v = px[sym]["Volume"].dropna()
+            c, _ = with_live_bar(sym, c)
             if len(c) >= 2:
                 last, prev = float(c.iloc[-1]), float(c.iloc[-2])
             elif len(c) == 1 and base_ref.get(sym):

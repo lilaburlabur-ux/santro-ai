@@ -181,9 +181,9 @@ FOOTER = """  <footer>
   </footer>"""
 
 LIVE_PATCH = """<script>
-/* live-patch the static Key data from universe.json at view time; crawlable
-   static values remain the fallback if this fails */
-(async()=>{try{
+/* live-patch the static Key data from universe.json; refreshed every 60 s while the
+   page is open. crawlable static values remain the fallback if this fails */
+async function livePatch(){try{
   const SYM=document.querySelector(".kv b").textContent.trim();
   const u=await (await fetch("/universe.json?t="+Date.now())).json();
   let x=null; for(const b of u.bubbles){ x=b.tickers.find(t=>t.ticker===SYM); if(x) break; }
@@ -197,7 +197,8 @@ LIVE_PATCH = """<script>
   const pf=cell("Performance"); if(pf&&x.perf) pf.textContent="1W "+fmt(x.perf["1W"])+" · 1M "+fmt(x.perf["1M"])+" · 1Y "+fmt(x.perf["1Y"]);
   const sp=document.querySelector(".tkp h2 span");
   if(sp&&u.meta&&u.meta.as_of) sp.textContent="· delayed ~15 min · "+u.meta.as_of;
-}catch(e){}})();
+}catch(e){}}
+livePatch(); setInterval(livePatch, 60000);
 </script>"""
 
 def page(sym, cfg, d, asof):

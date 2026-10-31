@@ -29,6 +29,7 @@ sys.path.insert(0, HERE)
 os.chdir(HERE)
 
 import yfinance as yf
+from live_bar import with_live_bar
 
 
 def session_now():
@@ -127,6 +128,7 @@ def main():
     for sym in syms:
         try:
             c = px[sym]["Close"].dropna()
+            c, _ = with_live_bar(sym, c)
             v = px[sym]["Volume"].dropna()
             # young listings with a seeded IPO reference are eligible from day 1;
             # everyone else needs enough history for the volume baseline

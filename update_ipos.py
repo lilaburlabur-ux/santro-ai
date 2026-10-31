@@ -19,6 +19,7 @@ os.chdir(HERE)
 
 import yfinance as yf
 from ipos import LISTED, PREIPO
+from live_bar import with_live_bar
 
 
 def fmt_date(d):
@@ -39,6 +40,7 @@ def main():
                "ipo_date_fmt": fmt_date(ipo_date), "ipo_price": ipo_price}
         try:
             c = px[ticker]["Close"].dropna()
+            c, _ = with_live_bar(ticker, c)
             v = px[ticker]["Volume"].dropna()
             after = c[c.index >= ipo_date]
             if len(after) < 1:

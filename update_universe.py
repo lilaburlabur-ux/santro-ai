@@ -22,6 +22,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 
 import yfinance as yf
+from live_bar import with_live_bar
 
 PATH = os.path.join(HERE, "universe.json")
 
@@ -44,6 +45,7 @@ def main():
             try:
                 c = px[t["ticker"]]["Close"].dropna()
                 v = px[t["ticker"]]["Volume"].dropna()
+                c, _ = with_live_bar(t["ticker"], c)
                 if len(c) < 2:
                     raise ValueError("not enough bars")
                 # repair corrupt bars (Yahoo can serve runs of 10x-off bars, e.g.

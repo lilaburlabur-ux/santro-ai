@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-31T09:05:15+00:00",
-  "as_of_local": "2026-10-31 09:05:15 UTC",
+  "as_of_utc": "2026-10-31T09:20:21+00:00",
+  "as_of_local": "2026-10-31 09:20:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -49,6 +47,15 @@
       "previous_close": 566.42,
       "change_pct": -10.88,
       "market_cap": 824073381273.9261,
+      "headlines": []
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 65.76,
+      "previous_close": 92.07,
+      "change_pct": -28.58,
+      "market_cap": 349185611343.3838,
       "headlines": []
     },
     {
@@ -312,8 +319,8 @@
     },
     {
       "label": "BTC",
-      "price": 77253.57,
-      "change_pct": 0.07
+      "price": 77283.82,
+      "change_pct": 0.11
     },
     {
       "label": "Gold",

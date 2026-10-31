@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-31T07:24:26+00:00",
-  "as_of_local": "2026-10-31 07:24:26 UTC",
+  "as_of_utc": "2026-10-31T07:39:26+00:00",
+  "as_of_local": "2026-10-31 07:39:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -319,13 +319,18 @@
     },
     {
       "label": "BTC",
-      "price": 77245.75,
-      "change_pct": 0.06
+      "price": 77206.75,
+      "change_pct": 0.01
     },
     {
       "label": "Gold",
       "price": 3898.9,
       "change_pct": -3.29
+    },
+    {
+      "label": "Nasdaq100",
+      "price": 28384.85,
+      "change_pct": -3.46
     }
   ]
 }

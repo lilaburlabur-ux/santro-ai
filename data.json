@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-31T08:50:10+00:00",
-  "as_of_local": "2026-10-31 08:50:10 UTC",
+  "as_of_utc": "2026-10-31T09:05:15+00:00",
+  "as_of_local": "2026-10-31 09:05:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -47,15 +49,6 @@
       "previous_close": 566.42,
       "change_pct": -10.88,
       "market_cap": 824073381273.9261,
-      "headlines": []
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 65.76,
-      "previous_close": 92.07,
-      "change_pct": -28.58,
-      "market_cap": 349185611343.3838,
       "headlines": []
     },
     {
@@ -179,8 +172,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -13.47,
+          "price": 1150.89,
           "currency": "USD"
         },
         {
@@ -269,8 +262,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -13.47,
+        "price": 1150.89,
         "currency": "USD"
       },
       {
@@ -319,8 +312,8 @@
     },
     {
       "label": "BTC",
-      "price": 77193.18,
-      "change_pct": -0.01
+      "price": 77253.57,
+      "change_pct": 0.07
     },
     {
       "label": "Gold",

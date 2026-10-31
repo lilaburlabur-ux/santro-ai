@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-31T20:21:19+00:00",
-  "as_of_local": "2026-10-31 20:21:19 UTC",
+  "as_of_utc": "2026-10-31T20:26:19+00:00",
+  "as_of_local": "2026-10-31 20:26:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -100,7 +100,7 @@
       "price": 92.97,
       "previous_close": 103.0,
       "change_pct": -9.74,
-      "market_cap": 13204554561.216797,
+      "market_cap": 13178424133.763702,
       "headlines": []
     },
     {
@@ -161,8 +161,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -3.02,
-          "price": 225000.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "KRW"
         },
         {
@@ -251,8 +251,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -3.02,
-        "price": 225000.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "KRW"
       },
       {
@@ -319,13 +319,18 @@
     },
     {
       "label": "BTC",
-      "price": 77473.83,
-      "change_pct": 0.36
+      "price": 77444.92,
+      "change_pct": 0.32
     },
     {
       "label": "Gold",
       "price": 3898.9,
       "change_pct": -3.29
+    },
+    {
+      "label": "Nasdaq100",
+      "price": 28384.85,
+      "change_pct": -3.46
     }
   ]
 }

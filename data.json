@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-01T08:56:39+00:00",
-  "as_of_local": "2026-11-01 08:56:39 UTC",
+  "as_of_utc": "2026-11-01T09:11:43+00:00",
+  "as_of_local": "2026-11-01 09:11:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -59,15 +61,6 @@
       "headlines": []
     },
     {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 205.97,
-      "previous_close": 228.77,
-      "change_pct": -9.97,
-      "market_cap": 219975666560.6392,
-      "headlines": []
-    },
-    {
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "price": 196.4,
@@ -100,7 +93,7 @@
       "price": 92.97,
       "previous_close": 103.0,
       "change_pct": -9.74,
-      "market_cap": 13178424133.763702,
+      "market_cap": 13204554561.216797,
       "headlines": []
     },
     {
@@ -319,8 +312,8 @@
     },
     {
       "label": "BTC",
-      "price": 78034.11,
-      "change_pct": 0.77
+      "price": 78081.24,
+      "change_pct": 0.83
     },
     {
       "label": "Gold",

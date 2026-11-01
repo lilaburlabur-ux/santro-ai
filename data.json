@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-01T01:29:11+00:00",
-  "as_of_local": "2026-11-01 01:29:11 UTC",
+  "as_of_utc": "2026-11-01T01:44:23+00:00",
+  "as_of_local": "2026-11-01 01:44:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "TSM"
+    "MU"
   ],
   "stocks": [
     {
@@ -16,21 +16,21 @@
       "headlines": []
     },
     {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 406.13,
+      "previous_close": 431.81,
+      "change_pct": -5.95,
+      "market_cap": 2106382716224.27,
+      "headlines": []
+    },
+    {
       "symbol": "AVGO",
       "name": "Broadcom",
       "price": 326.08,
       "previous_close": 345.0,
       "change_pct": -5.48,
       "market_cap": 1556585162280.1663,
-      "headlines": []
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 884.74,
-      "previous_close": 934.27,
-      "change_pct": -5.3,
-      "market_cap": 1001015361535.8252,
       "headlines": []
     },
     {
@@ -136,8 +136,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -5.3,
-          "price": 884.74,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -226,8 +226,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -5.3,
-        "price": 884.74,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -312,8 +312,8 @@
     },
     {
       "label": "BTC",
-      "price": 77555.0,
-      "change_pct": 0.46
+      "price": 77635.13,
+      "change_pct": 0.57
     },
     {
       "label": "Gold",

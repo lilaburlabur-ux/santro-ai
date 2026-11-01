@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-01T15:50:04+00:00",
-  "as_of_local": "2026-11-01 15:50:04 UTC",
+  "as_of_utc": "2026-11-01T15:55:14+00:00",
+  "as_of_local": "2026-11-01 15:55:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,15 +31,6 @@
       "previous_close": 345.0,
       "change_pct": -5.48,
       "market_cap": 1556585162280.1663,
-      "headlines": []
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 884.74,
-      "previous_close": 934.27,
-      "change_pct": -5.3,
-      "market_cap": 1001015361535.8252,
       "headlines": []
     },
     {
@@ -100,7 +93,7 @@
       "price": 92.97,
       "previous_close": 103.0,
       "change_pct": -9.74,
-      "market_cap": 13178424133.763702,
+      "market_cap": 13204554561.216797,
       "headlines": []
     },
     {
@@ -135,16 +128,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": null,
-      "change_pct": 0.0,
+      "price": 48.01,
+      "change_pct": -7.23,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -5.3,
-          "price": 884.74,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -225,16 +218,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": null,
-    "change_pct": 0.0,
+    "price": 48.01,
+    "change_pct": -7.23,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -5.3,
-        "price": 884.74,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -319,8 +312,8 @@
     },
     {
       "label": "BTC",
-      "price": 77908.48,
-      "change_pct": 0.61
+      "price": 77866.99,
+      "change_pct": 0.56
     },
     {
       "label": "Gold",

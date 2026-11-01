@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-01T13:59:15+00:00",
-  "as_of_local": "2026-11-01 13:59:15 UTC",
+  "as_of_utc": "2026-11-01T14:14:23+00:00",
+  "as_of_local": "2026-11-01 14:14:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CEVA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -122,6 +120,15 @@
       "change_pct": -0.04,
       "market_cap": 4679205496.051804,
       "headlines": []
+    },
+    {
+      "symbol": "CEVA",
+      "name": "CEVA",
+      "price": 29.52,
+      "previous_close": 32.15,
+      "change_pct": -8.18,
+      "market_cap": 831108218.3279114,
+      "headlines": []
     }
   ],
   "etfs": [
@@ -163,8 +170,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -7.14,
-          "price": 13470.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "JPY"
         },
         {
@@ -253,8 +260,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -7.14,
-        "price": 13470.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "JPY"
       },
       {
@@ -312,8 +319,8 @@
     },
     {
       "label": "BTC",
-      "price": 77848.32,
-      "change_pct": 0.53
+      "price": 77880.11,
+      "change_pct": 0.58
     },
     {
       "label": "Gold",

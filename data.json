@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-02T03:56:27+00:00",
-  "as_of_local": "2026-11-02 03:56:27 UTC",
+  "as_of_utc": "2026-11-02T04:01:37+00:00",
+  "as_of_local": "2026-11-02 04:01:37 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -38,15 +40,6 @@
       "previous_close": 934.27,
       "change_pct": -5.3,
       "market_cap": 1001015361535.8252,
-      "headlines": []
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 504.8,
-      "previous_close": 566.42,
-      "change_pct": -10.88,
-      "market_cap": 824073381273.9261,
       "headlines": []
     },
     {
@@ -100,7 +93,7 @@
       "price": 92.97,
       "previous_close": 103.0,
       "change_pct": -9.74,
-      "market_cap": 13204554561.216797,
+      "market_cap": 13178424133.763702,
       "headlines": []
     },
     {
@@ -161,8 +154,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 2.0,
-          "price": 229500.0,
+          "change_pct": 1.78,
+          "price": 229000.0,
           "currency": "KRW"
         },
         {
@@ -170,8 +163,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -13.55,
-          "price": 11645.0,
+          "change_pct": -14.07,
+          "price": 11575.0,
           "currency": "JPY"
         },
         {
@@ -206,8 +199,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 0.33,
-          "price": 456.0,
+          "change_pct": 0.77,
+          "price": 458.0,
           "currency": "TWD"
         },
         {
@@ -215,8 +208,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -0.61,
-          "price": 163.5,
+          "change_pct": -0.3,
+          "price": 164.0,
           "currency": "TWD"
         }
       ]
@@ -251,8 +244,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 2.0,
-        "price": 229500.0,
+        "change_pct": 1.78,
+        "price": 229000.0,
         "currency": "KRW"
       },
       {
@@ -260,8 +253,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -13.55,
-        "price": 11645.0,
+        "change_pct": -14.07,
+        "price": 11575.0,
         "currency": "JPY"
       },
       {
@@ -296,8 +289,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 0.33,
-        "price": 456.0,
+        "change_pct": 0.77,
+        "price": 458.0,
         "currency": "TWD"
       },
       {
@@ -305,8 +298,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -0.61,
-        "price": 163.5,
+        "change_pct": -0.3,
+        "price": 164.0,
         "currency": "TWD"
       }
     ]
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 78557.47,
-      "change_pct": 1.45
+      "price": 78486.78,
+      "change_pct": 1.36
     },
     {
       "label": "Gold",
-      "price": 3915.0,
-      "change_pct": 0.41
+      "price": 3911.1,
+      "change_pct": 0.31
     },
     {
       "label": "Nasdaq100",

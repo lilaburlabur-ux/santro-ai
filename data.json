@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-02T23:13:03+00:00",
-  "as_of_local": "2026-11-02 23:13:03 UTC",
+  "as_of_utc": "2026-11-02T23:18:09+00:00",
+  "as_of_local": "2026-11-02 23:18:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "QCOM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -67,6 +65,15 @@
       "previous_close": 205.97,
       "change_pct": -4.46,
       "market_cap": 210171431223.10944,
+      "headlines": []
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "price": 162.08,
+      "previous_close": 164.79,
+      "change_pct": -1.64,
+      "market_cap": 173075429249.83252,
       "headlines": []
     },
     {
@@ -312,13 +319,13 @@
     },
     {
       "label": "BTC",
-      "price": 76708.81,
-      "change_pct": -1.97
+      "price": 76670.31,
+      "change_pct": -2.02
     },
     {
       "label": "Gold",
-      "price": 3958.1,
-      "change_pct": 1.52
+      "price": 3955.8,
+      "change_pct": 1.46
     },
     {
       "label": "Nasdaq100",

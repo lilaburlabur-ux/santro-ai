@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-02T09:06:42+00:00",
-  "as_of_local": "2026-11-02 09:06:42 UTC",
+  "as_of_utc": "2026-11-02T09:10:16+00:00",
+  "as_of_local": "2026-11-02 09:10:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "AMD"
+    "AVAV"
   ],
   "stocks": [
     {
@@ -40,6 +40,15 @@
       "previous_close": 934.27,
       "change_pct": -5.3,
       "market_cap": 1001015361535.8252,
+      "headlines": []
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 504.8,
+      "previous_close": 566.42,
+      "change_pct": -10.88,
+      "market_cap": 824073381273.9261,
       "headlines": []
     },
     {
@@ -93,16 +102,7 @@
       "price": 92.97,
       "previous_close": 103.0,
       "change_pct": -9.74,
-      "market_cap": 13178424133.763702,
-      "headlines": []
-    },
-    {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 126.11,
-      "previous_close": 134.88,
-      "change_pct": -6.5,
-      "market_cap": 6408998760.238495,
+      "market_cap": 13204554561.216797,
       "headlines": []
     },
     {
@@ -312,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 78181.82,
-      "change_pct": -0.09
+      "price": 78169.88,
+      "change_pct": -0.1
     },
     {
       "label": "Gold",
-      "price": 3907.4,
-      "change_pct": 0.22
+      "price": 3906.4,
+      "change_pct": 0.19
     },
     {
       "label": "Nasdaq100",

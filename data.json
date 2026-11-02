@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-02T01:33:11+00:00",
-  "as_of_local": "2026-11-02 01:33:11 UTC",
+  "as_of_utc": "2026-11-02T01:48:19+00:00",
+  "as_of_local": "2026-11-02 01:48:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "MRVL"
+    "INTC"
   ],
   "stocks": [
     {
@@ -52,21 +52,21 @@
       "headlines": []
     },
     {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 65.76,
-      "previous_close": 92.07,
-      "change_pct": -28.58,
-      "market_cap": 349514411354.06494,
-      "headlines": []
-    },
-    {
       "symbol": "ARM",
       "name": "Arm Holdings",
       "price": 205.97,
       "previous_close": 228.77,
       "change_pct": -9.97,
       "market_cap": 219975666560.6392,
+      "headlines": []
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 196.4,
+      "previous_close": 218.34,
+      "change_pct": -10.05,
+      "market_cap": 176505580507.94235,
       "headlines": []
     },
     {
@@ -145,8 +145,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.75,
-          "price": 1457000.0,
+          "change_pct": 2.05,
+          "price": 1447000.0,
           "currency": "KRW"
         },
         {
@@ -154,8 +154,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.22,
-          "price": 224500.0,
+          "change_pct": -0.67,
+          "price": 223500.0,
           "currency": "KRW"
         },
         {
@@ -163,8 +163,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -12.36,
-          "price": 11805.0,
+          "change_pct": -12.47,
+          "price": 11790.0,
           "currency": "JPY"
         },
         {
@@ -199,8 +199,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -2.09,
-          "price": 445.0,
+          "change_pct": -0.55,
+          "price": 452.0,
           "currency": "TWD"
         },
         {
@@ -208,8 +208,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -1.82,
-          "price": 161.5,
+          "change_pct": -0.61,
+          "price": 163.5,
           "currency": "TWD"
         }
       ]
@@ -235,8 +235,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.75,
-        "price": 1457000.0,
+        "change_pct": 2.05,
+        "price": 1447000.0,
         "currency": "KRW"
       },
       {
@@ -244,8 +244,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.22,
-        "price": 224500.0,
+        "change_pct": -0.67,
+        "price": 223500.0,
         "currency": "KRW"
       },
       {
@@ -253,8 +253,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -12.36,
-        "price": 11805.0,
+        "change_pct": -12.47,
+        "price": 11790.0,
         "currency": "JPY"
       },
       {
@@ -289,8 +289,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -2.09,
-        "price": 445.0,
+        "change_pct": -0.55,
+        "price": 452.0,
         "currency": "TWD"
       },
       {
@@ -298,8 +298,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -1.82,
-        "price": 161.5,
+        "change_pct": -0.61,
+        "price": 163.5,
         "currency": "TWD"
       }
     ]
@@ -312,8 +312,8 @@
     },
     {
       "label": "BTC",
-      "price": 78457.3,
-      "change_pct": 1.32
+      "price": 78462.17,
+      "change_pct": 1.33
     },
     {
       "label": "Gold",

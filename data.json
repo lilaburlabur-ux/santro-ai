@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-02T23:33:20+00:00",
-  "as_of_local": "2026-11-02 23:33:20 UTC",
+  "as_of_utc": "2026-11-02T23:38:24+00:00",
+  "as_of_local": "2026-11-02 23:38:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -11,15 +13,6 @@
       "previous_close": 204.64,
       "change_pct": -1.26,
       "market_cap": 4879142761047.363,
-      "headlines": []
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 398.63,
-      "previous_close": 406.13,
-      "change_pct": -1.85,
-      "market_cap": 2067484161126.77,
       "headlines": []
     },
     {
@@ -100,7 +93,7 @@
       "price": 95.44,
       "previous_close": 92.97,
       "change_pct": 2.66,
-      "market_cap": 13555369506.433594,
+      "market_cap": 13528544853.027405,
       "headlines": []
     },
     {
@@ -215,8 +208,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -1.52,
+          "price": 162.0,
           "currency": "TWD"
         }
       ]
@@ -305,8 +298,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -1.52,
+        "price": 162.0,
         "currency": "TWD"
       }
     ]
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 76647.79,
-      "change_pct": -2.05
+      "price": 76708.47,
+      "change_pct": -1.97
     },
     {
       "label": "Gold",
-      "price": 3956.1,
-      "change_pct": 1.47
+      "price": 3953.6,
+      "change_pct": 1.4
     },
     {
       "label": "Nasdaq100",

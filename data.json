@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-02T21:11:06+00:00",
-  "as_of_local": "2026-11-02 21:11:06 UTC",
+  "as_of_utc": "2026-11-02T21:16:39+00:00",
+  "as_of_local": "2026-11-02 21:16:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -18,10 +16,10 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 398.52,
+      "price": 398.63,
       "previous_close": 406.13,
-      "change_pct": -1.87,
-      "market_cap": 2066898055375.118,
+      "change_pct": -1.85,
+      "market_cap": 2067484161126.77,
       "headlines": []
     },
     {
@@ -79,6 +77,15 @@
       "headlines": []
     },
     {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 171.41,
+      "previous_close": 196.4,
+      "change_pct": -12.72,
+      "market_cap": 154046961005.4846,
+      "headlines": []
+    },
+    {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
       "price": 257.24,
@@ -93,7 +100,7 @@
       "price": 95.44,
       "previous_close": 92.97,
       "change_pct": 2.66,
-      "market_cap": 13528544853.027405,
+      "market_cap": 13555369506.433594,
       "headlines": []
     },
     {
@@ -128,8 +135,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 46.37,
-      "change_pct": -3.42,
+      "price": 46.32,
+      "change_pct": -3.52,
       "holdings": [
         {
           "symbol": "MU",
@@ -218,8 +225,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 46.37,
-    "change_pct": -3.42,
+    "price": 46.32,
+    "change_pct": -3.52,
     "holdings": [
       {
         "symbol": "MU",
@@ -312,12 +319,12 @@
     },
     {
       "label": "BTC",
-      "price": 76712.68,
-      "change_pct": -1.96
+      "price": 76680.72,
+      "change_pct": -2.0
     },
     {
       "label": "Gold",
-      "price": 3955.5,
+      "price": 3955.4,
       "change_pct": 1.45
     },
     {

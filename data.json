@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-02T12:47:33+00:00",
-  "as_of_local": "2026-11-02 12:47:33 UTC",
+  "as_of_utc": "2026-11-02T12:52:45+00:00",
+  "as_of_local": "2026-11-02 12:52:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,15 +31,6 @@
       "previous_close": 345.0,
       "change_pct": -5.48,
       "market_cap": 1556585162280.1663,
-      "headlines": []
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 884.74,
-      "previous_close": 934.27,
-      "change_pct": -5.3,
-      "market_cap": 1001015361535.8252,
       "headlines": []
     },
     {
@@ -100,7 +93,7 @@
       "price": 92.97,
       "previous_close": 103.0,
       "change_pct": -9.74,
-      "market_cap": 13178424133.763702,
+      "market_cap": 13204554561.216797,
       "headlines": []
     },
     {
@@ -143,8 +136,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -5.3,
-          "price": 884.74,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -233,8 +226,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -5.3,
-        "price": 884.74,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 77763.16,
-      "change_pct": -0.62
+      "price": 77644.79,
+      "change_pct": -0.77
     },
     {
       "label": "Gold",
-      "price": 3909.6,
-      "change_pct": 0.27
+      "price": 3910.8,
+      "change_pct": 0.31
     },
     {
       "label": "Nasdaq100",

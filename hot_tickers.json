@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-02T13:49:03+00:00",
+  "as_of": "2026-11-02T14:04:43+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -20,7 +20,7 @@
    "why": "Check Point Software Falls On Q3 Revenue, Billings Miss",
    "catalyst_type": "earnings",
    "source_url": "https://finance.yahoo.com/m/1637cf1e-119b-3100-9899-2fbc760b9406/check-point-software-falls-on.html",
-   "published": "2026-11-02T12:57:07+00:00",
+   "published": "2026-11-02T13:38:28+00:00",
    "sector": "Cybersecurity"
   },
   {
@@ -33,10 +33,10 @@
    "volume_vs_avg": "~4x",
    "heat_score": 41,
    "direction": "down",
-   "why": "Applied Materials Sinks 7.5% in Intel\u2019s Chip Rout Days After Doubling Its Besi Stake",
+   "why": "Intel stock plunges nearly 29%,  its worst day since 1974",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-sinks-7-5-130912817.html",
-   "published": "2026-11-02T13:09:12+00:00",
+   "source_url": "https://finance.yahoo.com/markets/article/intel-stock-plunges-nearly-29-its-worst-day-since-1974-205955309.html",
+   "published": "2026-11-02T13:57:25+00:00",
    "sector": "AI Chips & Compute"
   }
  ]

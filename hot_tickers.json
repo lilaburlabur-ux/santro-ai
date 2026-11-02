@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-02T10:46:29+00:00",
+  "as_of": "2026-11-02T11:01:13+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,21 +17,21 @@
    "volume_vs_avg": "~2x",
    "heat_score": 72,
    "direction": "down",
-   "why": "Check Point Software Technologies Q3 Non-GAAP Earnings, Revenue Fall",
+   "why": "Check Point Software stock tumbles 9% on missing revenue despite in-line earnings",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/check-point-software-technologies-q3-101608507.html",
-   "published": "2026-11-02T10:16:08+00:00",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/check-point-software-stock-tumbles-103915981.html",
+   "published": "2026-11-02T10:39:15+00:00",
    "sector": "Cybersecurity"
   },
   {
    "rank": 2,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": -1.13,
-   "price": 65.02,
+   "move_pct": -0.75,
+   "price": 65.27,
    "volume": 454221300,
    "volume_vs_avg": "~4x",
-   "heat_score": 41,
+   "heat_score": 39,
    "direction": "down",
    "why": "Intel vs. Taiwan Semiconductor: The AI Boom Is Telling Two Very Different Stories",
    "catalyst_type": "momentum_narrative",

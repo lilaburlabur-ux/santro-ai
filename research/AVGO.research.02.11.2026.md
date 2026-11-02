@@ -4,7 +4,7 @@ Signed file: `AVGO.research.02.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $325.77 (2026-11-02, ~15-min delayed) |
+| Current price | $325.78 (2026-11-02, ~15-min delayed) |
 | Market cap | $1.56T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -35,7 +35,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $325.77; 52w high $479.94 (-32.12%); 52w low $292.41 (+11.41%) |
+| Price vs 52-week range | Close $325.78; 52w high $479.94 (-32.12%); 52w low $292.41 (+11.41%) |
 | Trend | -11.13% vs SMA200, -7.37% vs SMA50, -5.26% vs SMA20 |
 | Momentum | RSI(14) 40.7 (neutral) |
 | Volatility | ATR(14) 12.45 (~3.8% of price); beta 1.51 |
@@ -59,7 +59,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $89.10B | Revenue growth 85.50% y/y |
 | Profitability | Gross 75.52%, operating 54.31%, net 42.94% | ROA 15.37%, ROE 44.25% |
 | Balance sheet | Cash $23.98B, debt $59.42B | Current ratio 2.50, debt/equity 59.60 |
-| Valuation | P/E 41.62, forward P/E 16.74, P/S 17.46, P/B 15.61 | EV/Sales 17.87, EV/EBITDA 30.46 |
+| Valuation | P/E 41.61, forward P/E 16.74, P/S 17.45, P/B 15.60 | EV/Sales 17.87, EV/EBITDA 30.46 |
 | Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $530.14 (48 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,7 +102,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $325.77 | EV/Sales | 17.87 |
+| Price | $325.78 | EV/Sales | 17.87 |
 | Market cap | $1.56T | EV/EBITDA | 30.46 |
 | Beta | 1.51 | Gross margin | 75.52% |
 | RSI(14) | 40.7 | Operating margin | 54.31% |
@@ -112,11 +112,11 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | SMA200 dist | -11.13% | Revenue (ttm) | $89.10B |
 | 52W high | $479.94 | Revenue growth y/y | 85.50% |
 | 52W low | $292.41 | Inst. ownership | 79.85% |
-| P/E (ttm) | 41.62 | Insider ownership | 1.92% |
+| P/E (ttm) | 41.61 | Insider ownership | 1.92% |
 | Forward P/E | 16.74 | Short float | 1.14% |
 | PEG (trailing) | 0.32 | Avg volume | 23,028,417 |
-| P/S | 17.46 | Employees | 33,000 |
-| P/B | 15.61 | Analyst rec (1=buy..5=sell) | 1.2 |
+| P/S | 17.45 | Employees | 33,000 |
+| P/B | 15.60 | Analyst rec (1=buy..5=sell) | 1.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

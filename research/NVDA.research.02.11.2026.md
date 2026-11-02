@@ -4,7 +4,7 @@ Signed file: `NVDA.research.02.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $203.99 (2026-11-02, ~15-min delayed) |
+| Current price | $204.01 (2026-11-02, ~15-min delayed) |
 | Market cap | $4.93T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,7 +15,7 @@ Signed file: `NVDA.research.02.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +0.78%; price -0.09% vs SMA200. |
+| Technical momentum | Moderate | 1Y +0.79%; price -0.09% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -14.73% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 63.66%, revenue growth 105.90%. |
 | Value attractiveness | Reasonable | Forward P/E 12.82, EV/Sales 16.20. |
@@ -35,8 +35,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $203.99; 52w high $239.24 (-14.73%); 52w low $164.79 (+23.79%) |
-| Trend | -0.09% vs SMA200, -7.89% vs SMA50, -7.16% vs SMA20 |
+| Price vs 52-week range | Close $204.01; 52w high $239.24 (-14.73%); 52w low $164.79 (+23.79%) |
+| Trend | -0.09% vs SMA200, -7.89% vs SMA50, -7.15% vs SMA20 |
 | Momentum | RSI(14) 34.6 (neutral) |
 | Volatility | ATR(14) 6.28 (~3.1% of price); beta 2.25 |
 | Setup perspective | -14.73% from 52w high; no clean fresh pivot by default. |
@@ -101,12 +101,12 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $203.99 | EV/Sales | 16.20 |
+| Price | $204.01 | EV/Sales | 16.20 |
 | Market cap | $4.93T | EV/EBITDA | 24.39 |
 | Beta | 2.25 | Gross margin | 74.67% |
 | RSI(14) | 34.6 | Operating margin | 66.24% |
 | ATR(14) | 6.28 | Profit margin | 63.66% |
-| SMA20 dist | -7.16% | ROA | 53.57% |
+| SMA20 dist | -7.15% | ROA | 53.57% |
 | SMA50 dist | -7.89% | ROE | 117.21% |
 | SMA200 dist | -0.09% | Revenue (ttm) | $302.97B |
 | 52W high | $239.24 | Revenue growth y/y | 105.90% |

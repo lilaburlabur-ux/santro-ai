@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-02T11:52:33+00:00",
+  "as_of": "2026-11-02T12:07:13+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,13 +9,29 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "CHKP",
+   "company": "Check Point Software Technologies Ltd",
+   "move_pct": -7.96,
+   "price": 140.0,
+   "volume": 2491800,
+   "volume_vs_avg": "~2x",
+   "heat_score": 53,
+   "direction": "down",
+   "why": "Check Point Software stock tumbles 9% on missing revenue despite in-line earnings",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/check-point-software-stock-tumbles-103915981.html",
+   "published": "2026-11-02T10:39:15+00:00",
+   "sector": "Cybersecurity"
+  },
+  {
+   "rank": 2,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": -0.81,
-   "price": 65.23,
+   "move_pct": -1.67,
+   "price": 64.67,
    "volume": 454221300,
    "volume_vs_avg": "~4x",
-   "heat_score": 40,
+   "heat_score": 42,
    "direction": "down",
    "why": "Intel, ZKH Launch AI Model to Verify Industrial Supplies",
    "catalyst_type": "momentum_narrative",

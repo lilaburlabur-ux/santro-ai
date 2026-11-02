@@ -38,7 +38,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Price vs 52-week range | Close $171.41; 52w high $316.28 (-45.80%); 52w low $73.66 (+132.71%) |
 | Trend | -6.63% vs SMA200, -28.95% vs SMA50, -29.46% vs SMA20 |
 | Momentum | RSI(14) 28.8 (oversold) |
-| Volatility | ATR(14) 18.39 (~10.7% of price); beta 2.33 |
+| Volatility | ATR(14) 18.40 (~10.7% of price); beta 2.33 |
 | Setup perspective | -45.80% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -107,7 +107,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Market cap | $154.05B | EV/EBITDA | 60.90 |
 | Beta | 2.33 | Gross margin | 52.22% |
 | RSI(14) | 28.8 | Operating margin | 16.68% |
-| ATR(14) | 18.39 | Profit margin | 27.93% |
+| ATR(14) | 18.40 | Profit margin | 27.93% |
 | SMA20 dist | -29.46% | ROA | 4.12% |
 | SMA50 dist | -28.95% | ROE | 16.52% |
 | SMA200 dist | -6.63% | Revenue (ttm) | $9.45B |

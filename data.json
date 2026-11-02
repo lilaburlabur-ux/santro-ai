@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-02T21:26:27+00:00",
-  "as_of_local": "2026-11-02 21:26:27 UTC",
+  "as_of_utc": "2026-11-02T21:31:26+00:00",
+  "as_of_local": "2026-11-02 21:31:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -59,15 +61,6 @@
       "headlines": []
     },
     {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 196.79,
-      "previous_close": 205.97,
-      "change_pct": -4.46,
-      "market_cap": 210171431223.10944,
-      "headlines": []
-    },
-    {
       "symbol": "QCOM",
       "name": "Qualcomm",
       "price": 162.08,
@@ -100,7 +93,7 @@
       "price": 95.44,
       "previous_close": 92.97,
       "change_pct": 2.66,
-      "market_cap": 13555369506.433594,
+      "market_cap": 13528544853.027405,
       "headlines": []
     },
     {
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 76723.52,
-      "change_pct": -1.95
+      "price": 76675.52,
+      "change_pct": -2.01
     },
     {
       "label": "Gold",
-      "price": 3956.6,
-      "change_pct": 1.48
+      "price": 3954.9,
+      "change_pct": 1.44
     },
     {
       "label": "Nasdaq100",

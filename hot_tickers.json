@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-02T10:10:23+00:00",
+  "as_of": "2026-11-02T10:25:33+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,18 +9,34 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "CHKP",
+   "company": "Check Point Software Technologies Ltd",
+   "move_pct": -10.59,
+   "price": 136.0,
+   "volume": 2491800,
+   "volume_vs_avg": "~2x",
+   "heat_score": 72,
+   "direction": "down",
+   "why": "Check Point Software Reports 2026 Third Quarter Financial Results",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/check-point-software-reports-2026-100000984.html",
+   "published": "2026-11-02T10:00:00+00:00",
+   "sector": "Cybersecurity"
+  },
+  {
+   "rank": 2,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": 0.27,
-   "price": 65.94,
+   "move_pct": -0.47,
+   "price": 65.45,
    "volume": 454221300,
    "volume_vs_avg": "~4x",
    "heat_score": 38,
-   "direction": "up",
-   "why": "Apple And Palantir To Kick Off Tech Earnings In Another Crucial Week, AMD To Settle Chip Debate After Intel\u2019s Warning",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/apple-palantir-kick-off-tech-084008274.html",
-   "published": "2026-11-02T08:40:08+00:00",
+   "direction": "down",
+   "why": "ZKH and Intel Bring Industrial Multimodal AI to the Edge with LingLong Insight 1.0",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/zkh-intel-bring-industrial-multimodal-100000600.html",
+   "published": "2026-11-02T10:00:00+00:00",
    "sector": "AI Chips & Compute"
   }
  ]

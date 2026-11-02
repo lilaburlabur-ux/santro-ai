@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-02T13:18:43+00:00",
+  "as_of": "2026-11-02T13:33:55+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -27,16 +27,16 @@
    "rank": 2,
    "ticker": "INTC",
    "company": "Intel Corp",
-   "move_pct": -0.88,
-   "price": 65.18,
+   "move_pct": -1.3,
+   "price": 64.91,
    "volume": 454221300,
    "volume_vs_avg": "~4x",
-   "heat_score": 40,
+   "heat_score": 41,
    "direction": "down",
-   "why": "Intel Stock Cratered 28%, Opening a Massive Buying Opportunity for Investors Looking for a Stock That Could Nearly Double",
+   "why": "ASML Fell 6% in Intel\u2019s Chip Rout. Its CEO Says Supply \u201cWill Not Fully Meet the Demand\u201d",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-cratered-28-opening-125802143.html",
-   "published": "2026-11-02T12:58:02+00:00",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/asml-fell-6-intel-chip-130226531.html",
+   "published": "2026-11-02T13:02:26+00:00",
    "sector": "AI Chips & Compute"
   }
  ]

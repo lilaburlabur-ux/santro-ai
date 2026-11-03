@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-03T23:05:28+00:00",
+  "as_of": "2026-11-03T23:13:57+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "ANET",
    "company": "Arista Networks Inc",
-   "move_pct": 17.27,
-   "price": 192.49,
+   "move_pct": 16.74,
+   "price": 191.61,
    "volume": 12233896,
    "volume_vs_avg": "~2x",
    "heat_score": 89,
@@ -20,23 +20,23 @@
    "why": "Stock Market Election Night: AMD, Arista Earnings Lift Tech Futures, AI Stocks (Live)",
    "catalyst_type": "earnings",
    "source_url": "https://finance.yahoo.com/m/e5be454d-07fd-3d94-8114-a4e8ff2910de/stock-market-election-night%3A.html",
-   "published": "2026-11-03T22:41:07+00:00",
+   "published": "2026-11-03T22:56:23+00:00",
    "sector": "Chip Equipment & AI Hardware"
   },
   {
    "rank": 2,
    "ticker": "SMCI",
    "company": "Super Micro Computer Inc",
-   "move_pct": 12.48,
-   "price": 34.24,
+   "move_pct": 13.25,
+   "price": 34.47,
    "volume": 58447859,
    "volume_vs_avg": "~2x",
-   "heat_score": 77,
+   "heat_score": 80,
    "direction": "up",
-   "why": "Super Micro Computer surges 6% as earnings, guidance top estimates",
+   "why": "Super Micro Computer (SMCI) Beats Q1 Earnings and Revenue Estimates",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-surges-6-214320298.html",
-   "published": "2026-11-03T21:43:20+00:00",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-beats-215008626.html",
+   "published": "2026-11-03T21:50:08+00:00",
    "sector": "Chip Equipment & AI Hardware"
   },
   {
@@ -59,8 +59,8 @@
    "rank": 4,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
-   "move_pct": 11.6,
-   "price": 521.0,
+   "move_pct": 11.57,
+   "price": 520.84,
    "volume": 32065405,
    "volume_vs_avg": "~2x",
    "heat_score": 73,
@@ -68,7 +68,7 @@
    "why": "Stock Market Election Night: AMD, Arista Earnings Lift Tech Futures, AI Stocks (Live)",
    "catalyst_type": "earnings",
    "source_url": "https://finance.yahoo.com/m/e5be454d-07fd-3d94-8114-a4e8ff2910de/stock-market-election-night%3A.html",
-   "published": "2026-11-03T22:41:07+00:00",
+   "published": "2026-11-03T22:56:23+00:00",
    "sector": "AI Chips & Compute"
   },
   {
@@ -89,6 +89,22 @@
   },
   {
    "rank": 6,
+   "ticker": "ORCL",
+   "company": "Oracle Corp",
+   "move_pct": 6.81,
+   "price": 127.34,
+   "volume": 83790427,
+   "volume_vs_avg": "~3x",
+   "heat_score": 52,
+   "direction": "up",
+   "why": "CoreWeave Soars 5%, Oracle Up 4% as Oracle\u2019s $20 Billion Raise Is \u201cExactly What They Previewed\u201d",
+   "catalyst_type": "financing",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-soars-5-oracle-4-195527369.html",
+   "published": "2026-11-03T19:55:27+00:00",
+   "sector": "AI Software & Cloud Infrastructure"
+  },
+  {
+   "rank": 7,
    "ticker": "TLN",
    "company": "Talen Energy Corp",
    "move_pct": 7.29,
@@ -102,22 +118,6 @@
    "source_url": "https://finance.yahoo.com/energy/articles/talen-energy-corp-tln-q3-210515734.html",
    "published": "2026-11-03T21:05:15+00:00",
    "sector": "Data Center, Power & Energy"
-  },
-  {
-   "rank": 7,
-   "ticker": "ORCL",
-   "company": "Oracle Corp",
-   "move_pct": 6.3,
-   "price": 126.73,
-   "volume": 83790427,
-   "volume_vs_avg": "~3x",
-   "heat_score": 50,
-   "direction": "up",
-   "why": "CoreWeave Soars 5%, Oracle Up 4% as Oracle\u2019s $20 Billion Raise Is \u201cExactly What They Previewed\u201d",
-   "catalyst_type": "financing",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-soars-5-oracle-4-195527369.html",
-   "published": "2026-11-03T19:55:27+00:00",
-   "sector": "AI Software & Cloud Infrastructure"
   },
   {
    "rank": 8,

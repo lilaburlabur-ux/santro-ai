@@ -4,8 +4,8 @@ Signed file: `AVGO.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $322.23 (2026-11-03, ~15-min delayed) |
-| Market cap | $1.54T |
+| Current price | $331.76 (2026-11-03, ~15-min delayed) |
+| Market cap | $1.58T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `AVGO.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-12.09%) with negative half-year (-22.37%). |
-| Fresh setup quality | Poor / broken | -32.86% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-9.47%) with negative half-year (-22.11%). |
+| Fresh setup quality | Poor / broken | -30.87% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 42.94%, revenue growth 85.50%. |
-| Value attractiveness | Reasonable | Forward P/E 16.55, EV/Sales 17.66. |
-| Risk level | Elevated | Beta 1.51, ATR 3.9% of price, short float 1.14%. |
+| Value attractiveness | Reasonable | Forward P/E 17.04, EV/Sales 17.66. |
+| Risk level | Elevated | Beta 1.51, ATR 3.8% of price, short float 1.14%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -32,25 +32,34 @@ Signed file: `AVGO.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 Broadcom Inc. designs, develops, and supplies various semiconductor devices and infrastructure software solutions internationally. The company operates in two segments: Semiconductor Solutions and Infrastructure Software.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Tech Stocks Rise Despite Apple Slump | The Wall Street Journal | 2026-11-03 |
+| Why Broadcom (AVGO) Anchors Our 10 Best Tech Stocks for the Next 5 Years | Insider Monkey | 2026-11-03 |
+| Elite AI Stocks To Own In November 2026 | Simply Wall St. | 2026-11-03 |
+| 3 Undervalued Stocks Trading Up To 39% Below Fair Value | Simply Wall St. | 2026-11-03 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $322.23; 52w high $479.94 (-32.86%); 52w low $292.41 (+10.20%) |
-| Trend | -12.09% vs SMA200, -8.36% vs SMA50, -6.24% vs SMA20 |
-| Momentum | RSI(14) 39.3 (neutral) |
-| Volatility | ATR(14) 12.52 (~3.9% of price); beta 1.51 |
-| Setup perspective | -32.86% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $331.76; 52w high $479.94 (-30.87%); 52w low $292.41 (+13.46%) |
+| Trend | -9.47% vs SMA200, -5.51% vs SMA50, -2.85% vs SMA20 |
+| Momentum | RSI(14) 44.6 (neutral) |
+| Volatility | ATR(14) 12.59 (~3.8% of price); beta 1.51 |
+| Setup perspective | -30.87% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -2.1% |
-| Month | -9.3% |
-| Quarter | -22.8% |
-| Half Y | -22.4% |
-| 1Y | -13.8% |
-| YTD | -6.8% |
+| Week | -3.1% |
+| Month | -8.5% |
+| Quarter | -20.5% |
+| Half Y | -22.1% |
+| 1Y | -9.6% |
+| YTD | -4.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +68,13 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $89.10B | Revenue growth 85.50% y/y |
 | Profitability | Gross 75.52%, operating 54.31%, net 42.94% | ROA 15.37%, ROE 44.25% |
 | Balance sheet | Cash $23.98B, debt $59.42B | Current ratio 2.50, debt/equity 59.60 |
-| Valuation | P/E 41.15, forward P/E 16.55, P/S 17.26, P/B 15.43 | EV/Sales 17.66, EV/EBITDA 30.11 |
-| Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $530.14 (48 analysts) |
+| Valuation | P/E 42.37, forward P/E 17.04, P/S 17.77, P/B 15.89 | EV/Sales 17.66, EV/EBITDA 30.11 |
+| Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $526.81 (48 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 79.85% |
+| Institutional ownership | 79.81% |
 | Insider ownership | 1.92% |
 | Short float | 1.14% |
 | Short ratio (days to cover) | 2.3 |
@@ -86,7 +95,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Price (T.Rowe) Associates Inc | 82,851,970 | 1.74% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.51, ATR 3.9% of price, short float 1.14%. Size positions accordingly.
+- **Volatility risk:** Beta 1.51, ATR 3.8% of price, short float 1.14%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -102,21 +111,21 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $322.23 | EV/Sales | 17.66 |
-| Market cap | $1.54T | EV/EBITDA | 30.11 |
+| Price | $331.76 | EV/Sales | 17.66 |
+| Market cap | $1.58T | EV/EBITDA | 30.11 |
 | Beta | 1.51 | Gross margin | 75.52% |
-| RSI(14) | 39.3 | Operating margin | 54.31% |
-| ATR(14) | 12.52 | Profit margin | 42.94% |
-| SMA20 dist | -6.24% | ROA | 15.37% |
-| SMA50 dist | -8.36% | ROE | 44.25% |
-| SMA200 dist | -12.09% | Revenue (ttm) | $89.10B |
+| RSI(14) | 44.6 | Operating margin | 54.31% |
+| ATR(14) | 12.59 | Profit margin | 42.94% |
+| SMA20 dist | -2.85% | ROA | 15.37% |
+| SMA50 dist | -5.51% | ROE | 44.25% |
+| SMA200 dist | -9.47% | Revenue (ttm) | $89.10B |
 | 52W high | $479.94 | Revenue growth y/y | 85.50% |
-| 52W low | $292.41 | Inst. ownership | 79.85% |
-| P/E (ttm) | 41.15 | Insider ownership | 1.92% |
-| Forward P/E | 16.55 | Short float | 1.14% |
-| PEG (trailing) | 0.32 | Avg volume | 23,028,417 |
-| P/S | 17.26 | Employees | 33,000 |
-| P/B | 15.43 | Analyst rec (1=buy..5=sell) | 1.2 |
+| 52W low | $292.41 | Inst. ownership | 79.81% |
+| P/E (ttm) | 42.37 | Insider ownership | 1.92% |
+| Forward P/E | 17.04 | Short float | 1.14% |
+| PEG (trailing) | 0.32 | Avg volume | 23,074,889 |
+| P/S | 17.77 | Employees | 33,000 |
+| P/B | 15.89 | Analyst rec (1=buy..5=sell) | 1.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `SYNA.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $117.41 (2026-11-03, ~15-min delayed) |
-| Market cap | $4.66B |
+| Current price | $117.57 (2026-11-03, ~15-min delayed) |
+| Market cap | $4.67B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `SYNA.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +66.68%; price +14.06% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -20.44% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +65.74%; price +14.08% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -20.33% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-41.00%). |
-| Value attractiveness | Reasonable | Forward P/E 17.85, EV/Sales 4.20. |
-| Risk level | High | Beta 2.02, ATR 1.7% of price, short float 9.27%. |
+| Value attractiveness | Reasonable | Forward P/E 17.88, EV/Sales 4.20. |
+| Risk level | High | Beta 2.02, ATR 1.6% of price, short float 9.27%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: reasonable, risk: high.
 
@@ -32,25 +32,34 @@ Signed file: `SYNA.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 Synaptics Incorporated develops, markets, and sells semiconductor products worldwide. The company provides edge AI processors, wireless connectivity, touch controllers, biometrics, voice, audio, and multimedia products for physical AI and robotics, edge AI, smart home, industrial and automotive, personal computers, and mobile applications, as well as modular development kits, open software frameworks, and optimized AI/ML toolchains.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| ON Semiconductor (ON) Stock Looks Fairly Valued After AI Revenue News | Simply Wall St. | 2026-11-03 |
+| ON Semiconductor (ON) Beat Expectations, Is The Stock Still Cheap? | Simply Wall St. | 2026-11-03 |
+| ON Semiconductor Shares Rise 3% as Q3 Earnings Beat Forecasts and AI Data Centre Outlook Strengthens | InvestorsHub | 2026-11-03 |
+| ON Semiconductor current-quarter earnings guidance outpaces forecasts; shares rise | Investing.com | 2026-11-02 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $117.41; 52w high $147.57 (-20.44%); 52w low $58.52 (+100.63%) |
-| Trend | +14.06% vs SMA200, +10.50% vs SMA50, -0.59% vs SMA20 |
-| Momentum | RSI(14) 60.9 (neutral) |
-| Volatility | ATR(14) 1.95 (~1.7% of price); beta 2.02 |
-| Setup perspective | -20.44% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $117.57; 52w high $147.57 (-20.33%); 52w low $58.52 (+100.91%) |
+| Trend | +14.08% vs SMA200, +10.16% vs SMA50, -0.37% vs SMA20 |
+| Momentum | RSI(14) 61.4 (neutral) |
+| Volatility | ATR(14) 1.87 (~1.6% of price); beta 2.02 |
+| Setup perspective | -20.33% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.1% |
-| Month | -3.0% |
-| Quarter | +10.2% |
-| Half Y | +16.5% |
-| 1Y | +66.7% |
-| YTD | +55.0% |
+| Week | -0.4% |
+| Month | -1.8% |
+| Quarter | +17.4% |
+| Half Y | +12.7% |
+| 1Y | +65.7% |
+| YTD | +55.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +68,13 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Revenue (ttm) | $1.20B | Revenue growth 8.90% y/y |
 | Profitability | Gross 44.72%, operating -2.79%, net -41.00% | ROA -1.52%, ROE -42.23% |
 | Balance sheet | Cash $442.50M, debt $876.80M | Current ratio 1.12, debt/equity 94.33 |
-| Valuation | P/E —, forward P/E 17.85, P/S 3.89, P/B 4.93 | EV/Sales 4.20, EV/EBITDA 54.16 |
+| Valuation | P/E —, forward P/E 17.88, P/S 3.90, P/B 4.94 | EV/Sales 4.20, EV/EBITDA 54.16 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $129.33 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 106.25% |
+| Institutional ownership | 106.23% |
 | Insider ownership | 0.86% |
 | Short float | 9.27% |
 | Short ratio (days to cover) | 2.1 |
@@ -86,7 +95,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Manufacturers Life Insurance Co. | 1,075,878 | 2.71% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.02, ATR 1.7% of price, short float 9.27%. Size positions accordingly.
+- **Volatility risk:** Beta 2.02, ATR 1.6% of price, short float 9.27%. Size positions accordingly.
 - **Short interest risk:** short float 9.27% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -103,21 +112,21 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $117.41 | EV/Sales | 4.20 |
-| Market cap | $4.66B | EV/EBITDA | 54.16 |
+| Price | $117.57 | EV/Sales | 4.20 |
+| Market cap | $4.67B | EV/EBITDA | 54.16 |
 | Beta | 2.02 | Gross margin | 44.72% |
-| RSI(14) | 60.9 | Operating margin | -2.79% |
-| ATR(14) | 1.95 | Profit margin | -41.00% |
-| SMA20 dist | -0.59% | ROA | -1.52% |
-| SMA50 dist | +10.50% | ROE | -42.23% |
-| SMA200 dist | +14.06% | Revenue (ttm) | $1.20B |
+| RSI(14) | 61.4 | Operating margin | -2.79% |
+| ATR(14) | 1.87 | Profit margin | -41.00% |
+| SMA20 dist | -0.37% | ROA | -1.52% |
+| SMA50 dist | +10.16% | ROE | -42.23% |
+| SMA200 dist | +14.08% | Revenue (ttm) | $1.20B |
 | 52W high | $147.57 | Revenue growth y/y | 8.90% |
-| 52W low | $58.52 | Inst. ownership | 106.25% |
+| 52W low | $58.52 | Inst. ownership | 106.23% |
 | P/E (ttm) | — | Insider ownership | 0.86% |
-| Forward P/E | 17.85 | Short float | 9.27% |
-| PEG (trailing) | — | Avg volume | 908,948 |
-| P/S | 3.89 | Employees | 1,700 |
-| P/B | 4.93 | Analyst rec (1=buy..5=sell) | 2.8 |
+| Forward P/E | 17.88 | Short float | 9.27% |
+| PEG (trailing) | — | Avg volume | 920,779 |
+| P/S | 3.90 | Employees | 1,700 |
+| P/B | 4.94 | Analyst rec (1=buy..5=sell) | 2.8 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

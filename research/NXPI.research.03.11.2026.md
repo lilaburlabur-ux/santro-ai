@@ -4,8 +4,8 @@ Signed file: `NXPI.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $257.24 (2026-11-03, ~15-min delayed) |
-| Market cap | $64.84B |
+| Current price | $262.43 (2026-11-03, ~15-min delayed) |
+| Market cap | $66.17B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `NXPI.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +26.85%; price +4.96% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -22.06% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +27.71%; price +7.02% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -20.49% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 23.39%, revenue growth 19.30%. |
-| Value attractiveness | Reasonable | Forward P/E 14.02, EV/Sales 5.24. |
-| Risk level | Elevated | Beta 1.86, ATR 4.2% of price, short float 2.67%. |
+| Value attractiveness | Reasonable | Forward P/E 14.31, EV/Sales 5.24. |
+| Risk level | Elevated | Beta 1.86, ATR 4.1% of price, short float 2.67%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -32,25 +32,34 @@ Signed file: `NXPI.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 NXP Semiconductors N.V. provides semiconductor products in the United States, Germany, Japan, South Korea, Taiwan, Singapore, the Netherlands, Mainland China, Hong Kong, and internationally.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Two Analog Chip Stocks Buoy Philadelphia Semiconductor Index | Investor's Business Daily | 2026-11-02 |
+| 3 Tech Stocks Boosting Buyback Capacity in the Face of the Sector's Recent Tumble | MarketBeat | 2026-11-02 |
+| JPMorgan Global Select Equity ETF (JGLO) Adds Microsoft and NXP on Oct. 29 | GuruFocus.com | 2026-11-02 |
+| MarketBeat Week in Review – 10/26 - 10/30 | MarketBeat | 2026-10-31 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $257.24; 52w high $330.06 (-22.06%); 52w low $180.99 (+42.13%) |
-| Trend | +4.96% vs SMA200, +10.27% vs SMA50, +7.46% vs SMA20 |
-| Momentum | RSI(14) 61.7 (neutral) |
-| Volatility | ATR(14) 10.75 (~4.2% of price); beta 1.86 |
-| Setup perspective | -22.06% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $262.43; 52w high $330.06 (-20.49%); 52w low $180.99 (+44.99%) |
+| Trend | +7.02% vs SMA200, +12.10% vs SMA50, +9.21% vs SMA20 |
+| Momentum | RSI(14) 64.5 (neutral) |
+| Volatility | ATR(14) 10.70 (~4.1% of price); beta 1.86 |
+| Setup perspective | -20.49% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +4.6% |
-| Month | +5.6% |
-| Quarter | +8.8% |
-| Half Y | -10.8% |
-| 1Y | +26.8% |
-| YTD | +17.8% |
+| Week | +3.5% |
+| Month | +8.5% |
+| Quarter | +14.0% |
+| Half Y | -9.5% |
+| 1Y | +27.7% |
+| YTD | +20.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +68,13 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Revenue (ttm) | $13.80B | Revenue growth 19.30% y/y |
 | Profitability | Gross 56.46%, operating 32.30%, net 23.39% | ROA 10.82%, ROE 28.67% |
 | Balance sheet | Cash $3.94B, debt $10.98B | Current ratio 2.12, debt/equity 88.07 |
-| Valuation | P/E 20.24, forward P/E 14.02, P/S 4.70, P/B 5.36 | EV/Sales 5.24, EV/EBITDA 13.42 |
+| Valuation | P/E 20.65, forward P/E 14.31, P/S 4.80, P/B 5.47 | EV/Sales 5.24, EV/EBITDA 13.41 |
 | Growth expectations | Earnings growth 40.30%, EPS q/q 40.10% | Analyst mean target $299.93 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 99.99% |
+| Institutional ownership | 99.86% |
 | Insider ownership | 0.14% |
 | Short float | 2.67% |
 | Short ratio (days to cover) | 1.8 |
@@ -86,7 +95,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Boston Partners | 4,162,827 | 1.65% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.86, ATR 4.2% of price, short float 2.67%. Size positions accordingly.
+- **Volatility risk:** Beta 1.86, ATR 4.1% of price, short float 2.67%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -101,21 +110,21 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $257.24 | EV/Sales | 5.24 |
-| Market cap | $64.84B | EV/EBITDA | 13.42 |
+| Price | $262.43 | EV/Sales | 5.24 |
+| Market cap | $66.17B | EV/EBITDA | 13.41 |
 | Beta | 1.86 | Gross margin | 56.46% |
-| RSI(14) | 61.7 | Operating margin | 32.30% |
-| ATR(14) | 10.75 | Profit margin | 23.39% |
-| SMA20 dist | +7.46% | ROA | 10.82% |
-| SMA50 dist | +10.27% | ROE | 28.67% |
-| SMA200 dist | +4.96% | Revenue (ttm) | $13.80B |
+| RSI(14) | 64.5 | Operating margin | 32.30% |
+| ATR(14) | 10.70 | Profit margin | 23.39% |
+| SMA20 dist | +9.21% | ROA | 10.82% |
+| SMA50 dist | +12.10% | ROE | 28.67% |
+| SMA200 dist | +7.02% | Revenue (ttm) | $13.80B |
 | 52W high | $330.06 | Revenue growth y/y | 19.30% |
-| 52W low | $180.99 | Inst. ownership | 99.99% |
-| P/E (ttm) | 20.24 | Insider ownership | 0.14% |
-| Forward P/E | 14.02 | Short float | 2.67% |
-| PEG (trailing) | 0.52 | Avg volume | 3,708,942 |
-| P/S | 4.70 | Employees | 32,169 |
-| P/B | 5.36 | Analyst rec (1=buy..5=sell) | 1.9 |
+| 52W low | $180.99 | Inst. ownership | 99.86% |
+| P/E (ttm) | 20.65 | Insider ownership | 0.14% |
+| Forward P/E | 14.31 | Short float | 2.67% |
+| PEG (trailing) | 0.54 | Avg volume | 3,703,350 |
+| P/S | 4.80 | Employees | 32,169 |
+| P/B | 5.47 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

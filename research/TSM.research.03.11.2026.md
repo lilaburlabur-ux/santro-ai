@@ -4,24 +4,24 @@ Signed file: `TSM.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $398.63 (2026-11-03, ~15-min delayed) |
-| Market cap | $2.07T |
+| Current price | $404.23 (2026-11-03, ~15-min delayed) |
+| Market cap | $2.10T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-03.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-0.08%) with negative half-year (-0.24%). |
-| Fresh setup quality | Moderate / wait | -17.94% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +35.98%; price +1.24% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -16.79% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 51.12%, revenue growth 50.90%. |
-| Value attractiveness | Reasonable | Forward P/E 17.05, EV/Sales 2.70. |
-| Risk level | Elevated | Beta 1.23, ATR 3.4% of price, short float 0.61%. |
+| Value attractiveness | Reasonable | Forward P/E 17.28, EV/Sales 2.70. |
+| Risk level | Elevated | Beta 1.23, ATR 3.3% of price, short float 0.61%. |
 
-**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -32,25 +32,34 @@ Signed file: `TSM.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiaries, manufactures, packages, tests, and sells integrated circuits and other semiconductor devices in Taiwan, China, Europe, the Middle East, Africa, Japan, the United States, and internationally. It provides various wafer fabrication processes, such as processes to manufacture complementary metal- oxide-semiconductor (CMOS) logic, mixed-signal, radio frequency, embedded memory, bipolar CMOS mixed-signal, and others.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Taiwan Semi or Broadcom: If I Could Only Own 1 for the Next 5 Years, It Would Be This | Motley Fool | 2026-11-03 |
+| Until Next Gen Computing Implodes I’ll Keep Buying Taiwan Semiconductor | 24/7 Wall St. | 2026-11-03 |
+| AI Stocks Lose $5 Trillion in 3 Weeks as Hedge Funds Go Underweight AI for the First Time Since 2023 | 24/7 Wall St. | 2026-11-03 |
+| AMD Fell 16% in a Month Before Earnings. Forecasts Call for 501% Profit Growth in Four Years | 24/7 Wall St. | 2026-11-03 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $398.63; 52w high $485.80 (-17.94%); 52w low $272.18 (+46.46%) |
-| Trend | -0.08% vs SMA200, -8.18% vs SMA50, -8.00% vs SMA20 |
-| Momentum | RSI(14) 36.1 (neutral) |
-| Volatility | ATR(14) 13.71 (~3.4% of price); beta 1.23 |
-| Setup perspective | -17.94% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $404.23; 52w high $485.80 (-16.79%); 52w low $272.18 (+48.52%) |
+| Trend | +1.24% vs SMA200, -6.87% vs SMA50, -5.86% vs SMA20 |
+| Momentum | RSI(14) 39.0 (neutral) |
+| Volatility | ATR(14) 13.42 (~3.3% of price); beta 1.23 |
+| Setup perspective | -16.79% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -6.1% |
-| Month | -15.7% |
-| Quarter | -4.2% |
-| Half Y | -0.2% |
-| 1Y | +32.9% |
-| YTD | +25.7% |
+| Week | -7.5% |
+| Month | -16.8% |
+| Quarter | -2.1% |
+| Half Y | +3.0% |
+| 1Y | +36.0% |
+| YTD | +27.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +68,13 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.94T | Revenue growth 50.90% y/y |
 | Profitability | Gross 65.85%, operating 58.66%, net 51.12% | ROA 20.58%, ROE 41.85% |
 | Balance sheet | Cash $4.02T, debt $818.38B | Current ratio 2.50, debt/equity 11.62 |
-| Valuation | P/E 25.83, forward P/E 17.05, P/S 0.42, P/B 76.08 | EV/Sales 2.70, EV/EBITDA 3.69 |
+| Valuation | P/E 26.19, forward P/E 17.28, P/S 0.42, P/B 77.13 | EV/Sales 2.70, EV/EBITDA 3.69 |
 | Growth expectations | Earnings growth 68.70%, EPS q/q 68.70% | Analyst mean target $584.39 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 15.52% |
+| Institutional ownership | 15.48% |
 | Insider ownership | 0.01% |
 | Short float | 0.61% |
 | Short ratio (days to cover) | 2.8 |
@@ -76,7 +85,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 |---|---|---|---|
 | FMR, LLC | 58,937,551 | 1.14% | 2026-06-30 |
 | Capital World Investors | 34,372,274 | 0.66% | 2026-06-30 |
-| Sanders Capital, LLC | 26,149,064 | 0.50% | 2026-06-30 |
+| Sanders Capital, LLC | 24,455,974 | 0.47% | 2026-09-30 |
 | JPMORGAN CHASE & CO | 23,829,286 | 0.46% | 2026-06-30 |
 | Blackrock Inc. | 20,112,852 | 0.39% | 2026-06-30 |
 | Fisher Asset Management, LLC | 18,866,198 | 0.36% | 2026-06-30 |
@@ -86,7 +95,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Bank of America Corporation | 15,282,620 | 0.29% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.23, ATR 3.4% of price, short float 0.61%. Size positions accordingly.
+- **Volatility risk:** Beta 1.23, ATR 3.3% of price, short float 0.61%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -101,21 +110,21 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $398.63 | EV/Sales | 2.70 |
-| Market cap | $2.07T | EV/EBITDA | 3.69 |
+| Price | $404.23 | EV/Sales | 2.70 |
+| Market cap | $2.10T | EV/EBITDA | 3.69 |
 | Beta | 1.23 | Gross margin | 65.85% |
-| RSI(14) | 36.1 | Operating margin | 58.66% |
-| ATR(14) | 13.71 | Profit margin | 51.12% |
-| SMA20 dist | -8.00% | ROA | 20.58% |
-| SMA50 dist | -8.18% | ROE | 41.85% |
-| SMA200 dist | -0.08% | Revenue (ttm) | $4.94T |
+| RSI(14) | 39.0 | Operating margin | 58.66% |
+| ATR(14) | 13.42 | Profit margin | 51.12% |
+| SMA20 dist | -5.86% | ROA | 20.58% |
+| SMA50 dist | -6.87% | ROE | 41.85% |
+| SMA200 dist | +1.24% | Revenue (ttm) | $4.94T |
 | 52W high | $485.80 | Revenue growth y/y | 50.90% |
-| 52W low | $272.18 | Inst. ownership | 15.52% |
-| P/E (ttm) | 25.83 | Insider ownership | 0.01% |
-| Forward P/E | 17.05 | Short float | 0.61% |
-| PEG (trailing) | 0.73 | Avg volume | 10,538,771 |
+| 52W low | $272.18 | Inst. ownership | 15.48% |
+| P/E (ttm) | 26.19 | Insider ownership | 0.01% |
+| Forward P/E | 17.28 | Short float | 0.61% |
+| PEG (trailing) | 0.72 | Avg volume | 10,547,145 |
 | P/S | 0.42 | Employees | 76,907 |
-| P/B | 76.08 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 77.13 | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -130,7 +139,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | 2026-07-17 | main | DA Davidson | Buy → Buy |
 
 ## 9. Conclusion
-TSM: Low momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+TSM: Moderate momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

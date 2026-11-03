@@ -4,8 +4,8 @@ Signed file: `INTC.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $59.97 (2026-11-03, ~15-min delayed) |
-| Market cap | $318.74B |
+| Current price | $60.18 (2026-11-03, ~15-min delayed) |
+| Market cap | $319.86B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `INTC.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-31.01%) with negative half-year (-37.39%). |
-| Fresh setup quality | Poor / broken | -57.45% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-30.82%) with negative half-year (-44.35%). |
+| Fresh setup quality | Poor / broken | -57.30% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-20.09%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 33.20, EV/Sales 5.54. |
-| Risk level | High | Beta 2.43, ATR 11.6% of price, short float 2.80%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 33.46, EV/Sales 5.54. |
+| Risk level | High | Beta 2.43, ATR 11.0% of price, short float 2.80%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
 
@@ -32,25 +32,34 @@ Signed file: `INTC.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 Intel Corporation designs, develops, manufactures, markets, sells, and services computing and related end products and services in the United States, Ireland, Israel, and internationally. It operates through three segments: CCG, DCAI, and Intel Foundry.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| AMD to report Q3 results as chip stocks rebound following last week's steep selloff | Yahoo Finance | 2026-11-02 |
+| Applied Materials Just Dropped 29% In a Month: Will November 12 Earnings Rescue or Break AMAT Stock? | 24/7 Wall St. | 2026-11-03 |
+| Stock market today: Dow slips, S&P 500, Nasdaq gain as chip stocks rebound ahead of AMD earnings | Yahoo Finance | 2026-11-03 |
+| Why Broadcom (AVGO) Anchors Our 10 Best Tech Stocks for the Next 5 Years | Insider Monkey | 2026-11-03 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $59.97; 52w high $140.94 (-57.45%); 52w low $33.62 (+78.38%) |
-| Trend | -31.01% vs SMA200, -40.33% vs SMA50, -35.91% vs SMA20 |
-| Momentum | RSI(14) 23.0 (oversold) |
-| Volatility | ATR(14) 6.93 (~11.6% of price); beta 2.43 |
-| Setup perspective | -57.45% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $60.18; 52w high $140.94 (-57.30%); 52w low $33.62 (+79.00%) |
+| Trend | -30.82% vs SMA200, -39.80% vs SMA50, -33.84% vs SMA20 |
+| Momentum | RSI(14) 23.2 (oversold) |
+| Volatility | ATR(14) 6.63 (~11.0% of price); beta 2.43 |
+| Setup perspective | -57.30% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -33.7% |
-| Month | -49.7% |
+| Week | -35.8% |
+| Month | -48.2% |
 | Quarter | -40.5% |
-| Half Y | -37.4% |
-| 1Y | +49.3% |
-| YTD | +52.3% |
+| Half Y | -44.4% |
+| 1Y | +50.5% |
+| YTD | +52.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,14 +68,14 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $59.89B | Revenue growth 20.90% y/y |
 | Profitability | Gross 40.15%, operating 15.60%, net -20.09% | ROA 1.78%, ROE -9.62% |
 | Balance sheet | Cash $54.00B, debt $50.13B | Current ratio 2.21, debt/equity 38.11 |
-| Valuation | P/E —, forward P/E 33.20, P/S 5.32, P/B 2.77 | EV/Sales 5.54, EV/EBITDA 17.32 |
-| Growth expectations | Earnings growth -32.70%, EPS q/q -18.30% | Analyst mean target $93.88 (43 analysts) |
+| Valuation | P/E —, forward P/E 33.46, P/S 5.34, P/B 2.78 | EV/Sales 5.54, EV/EBITDA 17.32 |
+| Growth expectations | Earnings growth -32.70%, EPS q/q -18.30% | Analyst mean target $92.72 (43 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 62.81% |
-| Insider ownership | 13.92% |
+| Institutional ownership | 62.78% |
+| Insider ownership | 13.91% |
 | Short float | 2.80% |
 | Short ratio (days to cover) | 1.4 |
 
@@ -74,20 +83,20 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 426,478,962 | 8.46% | 2026-06-30 |
-| Vanguard Capital Management LLC | 285,230,183 | 5.65% | 2026-06-30 |
-| State Street Corporation | 216,849,675 | 4.30% | 2026-06-30 |
-| Nvidia Corp                           | 214,776,632 | 4.26% | 2026-06-30 |
-| Invesco Ltd. | 157,902,890 | 3.13% | 2026-06-30 |
-| Geode Capital Management, LLC | 110,339,857 | 2.19% | 2026-06-30 |
-| FMR, LLC | 94,431,754 | 1.87% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 89,395,975 | 1.77% | 2026-06-30 |
-| Softbank Group Corporation | 86,956,522 | 1.72% | 2026-06-30 |
-| Primecap Management Company | 75,250,958 | 1.49% | 2026-06-30 |
+| Blackrock Inc. | 426,478,962 | 8.02% | 2026-06-30 |
+| Vanguard Capital Management LLC | 285,230,183 | 5.37% | 2026-06-30 |
+| State Street Corporation | 216,849,675 | 4.08% | 2026-06-30 |
+| Nvidia Corp                           | 214,776,632 | 4.04% | 2026-06-30 |
+| Invesco Ltd. | 157,902,890 | 2.97% | 2026-06-30 |
+| Geode Capital Management, LLC | 110,339,857 | 2.08% | 2026-06-30 |
+| FMR, LLC | 94,431,754 | 1.78% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 89,395,975 | 1.68% | 2026-06-30 |
+| Softbank Group Corporation | 86,956,522 | 1.64% | 2026-06-30 |
+| Primecap Management Company | 75,250,958 | 1.42% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 33.20, EV/Sales 5.54. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.43, ATR 11.6% of price, short float 2.80%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 33.46, EV/Sales 5.54. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.43, ATR 11.0% of price, short float 2.80%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -104,21 +113,21 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $59.97 | EV/Sales | 5.54 |
-| Market cap | $318.74B | EV/EBITDA | 17.32 |
+| Price | $60.18 | EV/Sales | 5.54 |
+| Market cap | $319.86B | EV/EBITDA | 17.32 |
 | Beta | 2.43 | Gross margin | 40.15% |
-| RSI(14) | 23.0 | Operating margin | 15.60% |
-| ATR(14) | 6.93 | Profit margin | -20.09% |
-| SMA20 dist | -35.91% | ROA | 1.78% |
-| SMA50 dist | -40.33% | ROE | -9.62% |
-| SMA200 dist | -31.01% | Revenue (ttm) | $59.89B |
+| RSI(14) | 23.2 | Operating margin | 15.60% |
+| ATR(14) | 6.63 | Profit margin | -20.09% |
+| SMA20 dist | -33.84% | ROA | 1.78% |
+| SMA50 dist | -39.80% | ROE | -9.62% |
+| SMA200 dist | -30.82% | Revenue (ttm) | $59.89B |
 | 52W high | $140.94 | Revenue growth y/y | 20.90% |
-| 52W low | $33.62 | Inst. ownership | 62.81% |
-| P/E (ttm) | — | Insider ownership | 13.92% |
-| Forward P/E | 33.20 | Short float | 2.80% |
-| PEG (trailing) | — | Avg volume | 107,654,975 |
-| P/S | 5.32 | Employees | 81,100 |
-| P/B | 2.77 | Analyst rec (1=buy..5=sell) | 2.6 |
+| 52W low | $33.62 | Inst. ownership | 62.78% |
+| P/E (ttm) | — | Insider ownership | 13.91% |
+| Forward P/E | 33.46 | Short float | 2.80% |
+| PEG (trailing) | — | Avg volume | 109,752,025 |
+| P/S | 5.34 | Employees | 81,100 |
+| P/B | 2.78 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

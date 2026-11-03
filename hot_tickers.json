@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-03T09:20:52+00:00",
+  "as_of": "2026-11-03T09:35:49+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -27,16 +27,16 @@
    "rank": 2,
    "ticker": "PLTR",
    "company": "Palantir Technologies Inc",
-   "move_pct": -6.07,
-   "price": 167.51,
+   "move_pct": -5.1,
+   "price": 169.25,
    "volume": 36476600,
    "volume_vs_avg": "~2x",
-   "heat_score": 44,
+   "heat_score": 41,
    "direction": "down",
-   "why": "'It's Us or Them': Palantir CEO Alex Karp Says China Is 'Doing Exceedingly Well at AI,' Warns America Must Lead",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/us-them-palantir-ceo-alex-073322965.html",
-   "published": "2026-11-03T07:33:22+00:00",
+   "why": "Palantir beats Q3 estimates, raises full-year revenue outlook as US commercial sales accelerate",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/article/palantir-beats-q3-estimates-raises-full-year-revenue-outlook-as-us-commercial-sales-top-us-government-revenue-for-the-first-time-234245540.html",
+   "published": "2026-11-03T09:16:17+00:00",
    "sector": "AI Software & Cloud Infrastructure"
   }
  ]

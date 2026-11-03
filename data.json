@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-03T08:08:51+00:00",
-  "as_of_local": "2026-11-03 08:08:51 UTC",
+  "as_of_utc": "2026-11-03T08:14:11+00:00",
+  "as_of_local": "2026-11-03 08:14:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "LSCC"
+    "MU"
   ],
   "stocks": [
     {
@@ -31,15 +31,6 @@
       "previous_close": 326.08,
       "change_pct": -1.18,
       "market_cap": 1538206803843.614,
-      "headlines": []
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 833.59,
-      "previous_close": 884.74,
-      "change_pct": -5.78,
-      "market_cap": 943143105675.9807,
       "headlines": []
     },
     {
@@ -97,6 +88,15 @@
       "headlines": []
     },
     {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 95.44,
+      "previous_close": 92.97,
+      "change_pct": 2.66,
+      "market_cap": 13528544853.027405,
+      "headlines": []
+    },
+    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 123.08,
@@ -136,8 +136,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -5.78,
-          "price": 833.59,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -226,8 +226,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -5.78,
-        "price": 833.59,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -312,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 76596.3,
-      "change_pct": -0.11
+      "price": 76645.89,
+      "change_pct": -0.04
     },
     {
       "label": "Gold",
-      "price": 3918.5,
-      "change_pct": -1.29
+      "price": 3916.4,
+      "change_pct": -1.34
     },
     {
       "label": "Nasdaq100",

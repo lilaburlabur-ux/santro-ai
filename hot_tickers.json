@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-03T12:47:44+00:00",
+  "as_of": "2026-11-03T13:02:43+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,6 +9,22 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "LSCC",
+   "company": "Lattice Semiconductor Corp",
+   "move_pct": 10.54,
+   "price": 105.5,
+   "volume": 6658600,
+   "volume_vs_avg": "~4x",
+   "heat_score": 80,
+   "direction": "up",
+   "why": "Lattice Semiconductor: 3 Key Takeaways for Long-Term Investors",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-3-key-takeaways-124201208.html",
+   "published": "2026-11-03T12:42:01+00:00",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
    "ticker": "ZBRA",
    "company": "Zebra Technologies Corp",
    "move_pct": -10.56,
@@ -24,52 +40,36 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 2,
-   "ticker": "LSCC",
-   "company": "Lattice Semiconductor Corp",
-   "move_pct": 10.54,
-   "price": 105.5,
-   "volume": 6658600,
-   "volume_vs_avg": "~4x",
-   "heat_score": 65,
-   "direction": "up",
-   "why": "Moving up 10.5% on ~4x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": "AI Chips & Compute"
+   "rank": 3,
+   "ticker": "PLTR",
+   "company": "Palantir Technologies Inc",
+   "move_pct": -6.4,
+   "price": 166.92,
+   "volume": 36476600,
+   "volume_vs_avg": "~2x",
+   "heat_score": 46,
+   "direction": "down",
+   "why": "RBC Raises Price Target on Palantir Technologies to $130 From $90, Keeps Underperform Rating",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/rbc-raises-price-target-palantir-124507872.html",
+   "published": "2026-11-03T12:45:07+00:00",
+   "sector": "AI Software & Cloud Infrastructure"
   },
   {
-   "rank": 3,
+   "rank": 4,
    "ticker": "UPST",
    "company": "Upstart Holdings Inc",
-   "move_pct": 5.35,
-   "price": 22.45,
+   "move_pct": -0.42,
+   "price": 21.22,
    "volume": 12297200,
    "volume_vs_avg": "~3x",
-   "heat_score": 49,
-   "direction": "up",
+   "heat_score": 32,
+   "direction": "down",
    "why": "Upstart Publishes October 2026 Originations and Latest UMI",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/economy/policy/articles/upstart-publishes-october-2026-originations-120200121.html",
    "published": "2026-11-03T12:02:00+00:00",
    "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 4,
-   "ticker": "PLTR",
-   "company": "Palantir Technologies Inc",
-   "move_pct": -6.35,
-   "price": 167.01,
-   "volume": 36476600,
-   "volume_vs_avg": "~2x",
-   "heat_score": 45,
-   "direction": "down",
-   "why": "Palantir's First $2 Billion Quarter Can't Lift the Stock",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/palantirs-first-2-billion-quarter-122441546.html",
-   "published": "2026-11-03T12:24:41+00:00",
-   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

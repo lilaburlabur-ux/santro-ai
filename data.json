@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-03T22:19:00+00:00",
-  "as_of_local": "2026-11-03 22:19:00 UTC",
+  "as_of_utc": "2026-11-03T22:24:00+00:00",
+  "as_of_local": "2026-11-03 22:24:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -69,6 +71,12 @@
       "market_cap": 1585465710371.1895,
       "headlines": [
         {
+          "title": "Apollo Global Management Q3 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apollo-global-management-q3-earnings-221410888.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-03T22:14:10Z"
+        },
+        {
           "title": "AMD Changes the Mood With Big Earnings Beat",
           "url": "https://www.barrons.com/articles/amd-earnings-stock-price-7c8d5465?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -79,12 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/while-rest-market-focuses-anthropic-210400269.html",
           "publisher": "Motley Fool",
           "published": "2026-11-03T21:04:00Z"
-        },
-        {
-          "title": "Did The Market Read Cerebras Stock Right?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/did-market-read-cerebras-stock-204845797.html",
-          "publisher": "Trefis",
-          "published": "2026-11-03T20:48:45Z"
         }
       ]
     },
@@ -281,34 +283,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-global-select-equity-etf-110611845.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-02T11:06:11Z"
-        }
-      ]
-    },
-    {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 105.92,
-      "previous_close": 95.44,
-      "change_pct": 10.98,
-      "market_cap": 15043846150.174805,
-      "headlines": [
-        {
-          "title": "Lattice Semiconductor earnings analysis: questions answered and next catalysts",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-earnings-analysis-questions-182236557.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-03T18:22:36Z"
-        },
-        {
-          "title": "AI Stocks Surge on Tuesday: AEHR, Fabrinet, and Lattice Semiconductor All Jump More than 10%",
-          "url": "https://finance.yahoo.com/video/ai-stocks-surge-tuesday-aehr-175713889.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-03T17:57:13Z"
-        },
-        {
-          "title": "Lattice Semiconductor Is Riding the AI Server Wave to Big Growth",
-          "url": "https://www.barrons.com/articles/lattice-semiconductor-earnings-stock-price-ai-811348bd?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-03T16:45:00Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 77789.72,
-      "change_pct": 1.45
+      "price": 77731.15,
+      "change_pct": 1.37
     },
     {
       "label": "Gold",

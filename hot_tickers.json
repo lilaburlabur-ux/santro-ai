@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-03T13:23:12+00:00",
+  "as_of": "2026-11-03T13:38:40+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,6 +9,22 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "LSCC",
+   "company": "Lattice Semiconductor Corp",
+   "move_pct": 12.85,
+   "price": 107.7,
+   "volume": 6658600,
+   "volume_vs_avg": "~4x",
+   "heat_score": 88,
+   "direction": "up",
+   "why": "Lattice Semiconductor: 3 Key Takeaways for Long-Term Investors",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-3-key-takeaways-124201208.html",
+   "published": "2026-11-03T12:42:01+00:00",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
    "ticker": "ZBRA",
    "company": "Zebra Technologies Corp",
    "move_pct": -17.48,
@@ -24,52 +40,36 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 2,
-   "ticker": "LSCC",
-   "company": "Lattice Semiconductor Corp",
-   "move_pct": 11.01,
-   "price": 105.95,
-   "volume": 6658600,
-   "volume_vs_avg": "~4x",
-   "heat_score": 81,
-   "direction": "up",
-   "why": "Lattice Semiconductor: 3 Key Takeaways for Long-Term Investors",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-3-key-takeaways-124201208.html",
-   "published": "2026-11-03T12:42:01+00:00",
-   "sector": "AI Chips & Compute"
+   "rank": 3,
+   "ticker": "PLTR",
+   "company": "Palantir Technologies Inc",
+   "move_pct": -5.38,
+   "price": 168.75,
+   "volume": 36476600,
+   "volume_vs_avg": "~2x",
+   "heat_score": 42,
+   "direction": "down",
+   "why": "Goldman Sachs Adjusts Palantir Technologies Price Target to $235 From $230",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-palantir-technologies-130636483.html",
+   "published": "2026-11-03T13:06:36+00:00",
+   "sector": "AI Software & Cloud Infrastructure"
   },
   {
-   "rank": 3,
+   "rank": 4,
    "ticker": "UPST",
    "company": "Upstart Holdings Inc",
-   "move_pct": -5.02,
-   "price": 20.24,
+   "move_pct": -2.16,
+   "price": 20.85,
    "volume": 12297200,
    "volume_vs_avg": "~3x",
-   "heat_score": 48,
+   "heat_score": 38,
    "direction": "down",
    "why": "Upstart (NASDAQ:UPST) posts better-than-expected sales in Q3 2026, stock soars",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/upstart-nasdaq-upst-posts-better-125211780.html",
    "published": "2026-11-03T12:52:11+00:00",
    "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 4,
-   "ticker": "PLTR",
-   "company": "Palantir Technologies Inc",
-   "move_pct": -6.25,
-   "price": 167.2,
-   "volume": 36476600,
-   "volume_vs_avg": "~2x",
-   "heat_score": 45,
-   "direction": "down",
-   "why": "Premarket movers: Apple, Palantir, Dynatrace slide premarket; Grab, Upwork jump",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-apple-palantir-dynatrace-130332497.html",
-   "published": "2026-11-03T13:03:32+00:00",
-   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

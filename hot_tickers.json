@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-03T09:00:04+00:00",
+  "as_of": "2026-11-03T09:15:22+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,61 +9,13 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "INTC",
-   "company": "Intel Corp",
-   "move_pct": -8.8,
-   "price": 59.97,
-   "volume": 229466700,
-   "volume_vs_avg": "~2x",
-   "heat_score": 66,
-   "direction": "down",
-   "why": "Intel\u2019s Outlook Spooked Chip Investors \u2013 Can AMD Reassure Wall Street?",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/intel-outlook-spooked-chip-investors-064544780.html",
-   "published": "2026-11-03T06:45:44+00:00",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 2,
-   "ticker": "ORCL",
-   "company": "Oracle Corp",
-   "move_pct": -8.76,
-   "price": 119.22,
-   "volume": 58484300,
-   "volume_vs_avg": "~2x",
-   "heat_score": 65,
-   "direction": "down",
-   "why": "Oracle Prices $20 Billion Offerings of Common Stock, Notes",
-   "catalyst_type": "financing",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/oracle-prices-20-billion-offerings-082345470.html",
-   "published": "2026-11-03T08:23:45+00:00",
-   "sector": "AI Software & Cloud Infrastructure"
-  },
-  {
-   "rank": 3,
-   "ticker": "AMD",
-   "company": "Advanced Micro Devices Inc",
-   "move_pct": -7.52,
-   "price": 466.84,
-   "volume": 31990800,
-   "volume_vs_avg": "~2x",
-   "heat_score": 49,
-   "direction": "down",
-   "why": "Intel\u2019s Outlook Spooked Chip Investors \u2013 Can AMD Reassure Wall Street?",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/intel-outlook-spooked-chip-investors-064544780.html",
-   "published": "2026-11-03T06:45:44+00:00",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 4,
    "ticker": "LSCC",
    "company": "Lattice Semiconductor Corp",
-   "move_pct": 2.66,
-   "price": 95.44,
+   "move_pct": 8.97,
+   "price": 104.0,
    "volume": 6658600,
    "volume_vs_avg": "~4x",
-   "heat_score": 42,
+   "heat_score": 74,
    "direction": "up",
    "why": "Should Earnings Beat Require Action From Lattice Semiconductor (LSCC) Investors?",
    "catalyst_type": "earnings",
@@ -72,20 +24,20 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 5,
-   "ticker": "UPST",
-   "company": "Upstart Holdings Inc",
-   "move_pct": -7.43,
-   "price": 21.31,
-   "volume": 12297200,
-   "volume_vs_avg": "~3x",
-   "heat_score": 41,
+   "rank": 2,
+   "ticker": "PLTR",
+   "company": "Palantir Technologies Inc",
+   "move_pct": -6.25,
+   "price": 167.2,
+   "volume": 36476600,
+   "volume_vs_avg": "~2x",
+   "heat_score": 45,
    "direction": "down",
-   "why": "Moving down 7.4% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
+   "why": "'It's Us or Them': Palantir CEO Alex Karp Says China Is 'Doing Exceedingly Well at AI,' Warns America Must Lead",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/us-them-palantir-ceo-alex-073322965.html",
+   "published": "2026-11-03T07:33:22+00:00",
+   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

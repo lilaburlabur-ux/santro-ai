@@ -4,7 +4,7 @@ Signed file: `TSM.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $404.24 (2026-11-03, ~15-min delayed) |
+| Current price | $405.01 (2026-11-03, ~15-min delayed) |
 | Market cap | $2.10T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,10 +15,10 @@ Signed file: `TSM.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +35.98%; price +1.24% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -16.79% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +36.24%; price +1.44% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -16.63% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 51.12%, revenue growth 50.90%. |
-| Value attractiveness | Reasonable | Forward P/E 17.29, EV/Sales 2.70. |
+| Value attractiveness | Reasonable | Forward P/E 17.32, EV/Sales 2.70. |
 | Risk level | Elevated | Beta 1.23, ATR 3.3% of price, short float 0.61%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -44,22 +44,22 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $404.24; 52w high $485.80 (-16.79%); 52w low $272.18 (+48.52%) |
-| Trend | +1.24% vs SMA200, -6.87% vs SMA50, -5.85% vs SMA20 |
-| Momentum | RSI(14) 39.0 (neutral) |
+| Price vs 52-week range | Close $405.01; 52w high $485.80 (-16.63%); 52w low $272.18 (+48.80%) |
+| Trend | +1.44% vs SMA200, -6.69% vs SMA50, -5.68% vs SMA20 |
+| Momentum | RSI(14) 39.4 (neutral) |
 | Volatility | ATR(14) 13.42 (~3.3% of price); beta 1.23 |
-| Setup perspective | -16.79% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -16.63% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -7.5% |
-| Month | -16.8% |
-| Quarter | -2.1% |
-| Half Y | +3.0% |
-| 1Y | +36.0% |
-| YTD | +27.5% |
+| Week | -7.3% |
+| Month | -16.6% |
+| Quarter | -1.9% |
+| Half Y | +3.2% |
+| 1Y | +36.2% |
+| YTD | +27.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.94T | Revenue growth 50.90% y/y |
 | Profitability | Gross 65.85%, operating 58.66%, net 51.12% | ROA 20.58%, ROE 41.85% |
 | Balance sheet | Cash $4.02T, debt $818.38B | Current ratio 2.50, debt/equity 11.62 |
-| Valuation | P/E 26.20, forward P/E 17.29, P/S 0.42, P/B 77.15 | EV/Sales 2.70, EV/EBITDA 3.69 |
+| Valuation | P/E 26.25, forward P/E 17.32, P/S 0.42, P/B 77.29 | EV/Sales 2.70, EV/EBITDA 3.69 |
 | Growth expectations | Earnings growth 68.70%, EPS q/q 68.70% | Analyst mean target $584.39 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $404.24 | EV/Sales | 2.70 |
+| Price | $405.01 | EV/Sales | 2.70 |
 | Market cap | $2.10T | EV/EBITDA | 3.69 |
 | Beta | 1.23 | Gross margin | 65.85% |
-| RSI(14) | 39.0 | Operating margin | 58.66% |
+| RSI(14) | 39.4 | Operating margin | 58.66% |
 | ATR(14) | 13.42 | Profit margin | 51.12% |
-| SMA20 dist | -5.85% | ROA | 20.58% |
-| SMA50 dist | -6.87% | ROE | 41.85% |
-| SMA200 dist | +1.24% | Revenue (ttm) | $4.94T |
+| SMA20 dist | -5.68% | ROA | 20.58% |
+| SMA50 dist | -6.69% | ROE | 41.85% |
+| SMA200 dist | +1.44% | Revenue (ttm) | $4.94T |
 | 52W high | $485.80 | Revenue growth y/y | 50.90% |
 | 52W low | $272.18 | Inst. ownership | 15.48% |
-| P/E (ttm) | 26.20 | Insider ownership | 0.01% |
-| Forward P/E | 17.29 | Short float | 0.61% |
+| P/E (ttm) | 26.25 | Insider ownership | 0.01% |
+| Forward P/E | 17.32 | Short float | 0.61% |
 | PEG (trailing) | 0.72 | Avg volume | 10,547,145 |
 | P/S | 0.42 | Employees | 76,907 |
-| P/B | 77.15 | Analyst rec (1=buy..5=sell) | — |
+| P/B | 77.29 | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,7 +4,7 @@ Signed file: `AVGO.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $331.76 (2026-11-03, ~15-min delayed) |
+| Current price | $331.82 (2026-11-03, ~15-min delayed) |
 | Market cap | $1.58T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,8 +15,8 @@ Signed file: `AVGO.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-9.47%) with negative half-year (-22.11%). |
-| Fresh setup quality | Poor / broken | -30.87% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-9.45%) with negative half-year (-22.09%). |
+| Fresh setup quality | Poor / broken | -30.86% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 42.94%, revenue growth 85.50%. |
 | Value attractiveness | Reasonable | Forward P/E 17.04, EV/Sales 17.66. |
 | Risk level | Elevated | Beta 1.51, ATR 3.8% of price, short float 1.14%. |
@@ -44,11 +44,11 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $331.76; 52w high $479.94 (-30.87%); 52w low $292.41 (+13.46%) |
-| Trend | -9.47% vs SMA200, -5.51% vs SMA50, -2.85% vs SMA20 |
+| Price vs 52-week range | Close $331.82; 52w high $479.94 (-30.86%); 52w low $292.41 (+13.47%) |
+| Trend | -9.45% vs SMA200, -5.49% vs SMA50, -2.83% vs SMA20 |
 | Momentum | RSI(14) 44.6 (neutral) |
 | Volatility | ATR(14) 12.59 (~3.8% of price); beta 1.51 |
-| Setup perspective | -30.87% from 52w high — base needs to rebuild. |
+| Setup perspective | -30.86% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
@@ -111,14 +111,14 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $331.76 | EV/Sales | 17.66 |
+| Price | $331.82 | EV/Sales | 17.66 |
 | Market cap | $1.58T | EV/EBITDA | 30.11 |
 | Beta | 1.51 | Gross margin | 75.52% |
 | RSI(14) | 44.6 | Operating margin | 54.31% |
 | ATR(14) | 12.59 | Profit margin | 42.94% |
-| SMA20 dist | -2.85% | ROA | 15.37% |
-| SMA50 dist | -5.51% | ROE | 44.25% |
-| SMA200 dist | -9.47% | Revenue (ttm) | $89.10B |
+| SMA20 dist | -2.83% | ROA | 15.37% |
+| SMA50 dist | -5.49% | ROE | 44.25% |
+| SMA200 dist | -9.45% | Revenue (ttm) | $89.10B |
 | 52W high | $479.94 | Revenue growth y/y | 85.50% |
 | 52W low | $292.41 | Inst. ownership | 79.81% |
 | P/E (ttm) | 42.37 | Insider ownership | 1.92% |

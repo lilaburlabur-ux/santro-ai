@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| AMD to report Q3 results as chip stocks rebound following last week's steep selloff | Yahoo Finance | 2026-11-02 |
 | Stock market today: Dow slips, S&P and Nasdaq gain as chip stocks rally, focus shifts to midterm elections | Yahoo Finance | 2026-11-03 |
 | Did The Market Read Cerebras Stock Right? | Trefis | 2026-11-03 |
 | Tower Semiconductor Sinks 14% in a Week Despite “The Strongest Growth Phase in Our History” | TIKR | 2026-11-03 |
+| Applied Materials Just Dropped 29% In a Month: Will November 12 Earnings Rescue or Break AMAT Stock? | 24/7 Wall St. | 2026-11-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,8 +36,8 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
-| Arm Stocks Rise 3.94% Ahead of November 4 Earnings Test | GuruFocus.com | 2026-11-03 |
 | Earnings live updates: Pfizer lifts outlook as it continues to develop cancer and obesity drug pipeline | Yahoo Finance | 2026-11-02 |
+| Arm Stocks Rise 3.94% Ahead of November 4 Earnings Test | GuruFocus.com | 2026-11-03 |
 | Intel Has Lost More Than Half Its Value Since Its Peak | 24/7 Wall St. | 2026-11-03 |
 | Dear Arm Stock Fans, Mark Your Calendars for November 4 | Barchart | 2026-11-03 |
 

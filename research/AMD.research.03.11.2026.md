@@ -36,9 +36,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| AMD beats Q3 estimates, as data center revenue climbs 97% | Yahoo Finance | 2026-11-02 |
 | Stock market today: Dow slips, S&P and Nasdaq gain as chip stocks rally, focus shifts to midterm elections | Yahoo Finance | 2026-11-03 |
 | Micron, Nvidia, and AMD lead chip stocks' rebound | Yahoo Finance | 2026-11-03 |
-| AMD to report Q3 results as chip stocks rebound following last week's steep selloff | Yahoo Finance | 2026-11-02 |
 | Apple stock falls, chip stocks rebound as oil extends decline: AlphaCheck | Yahoo Finance | 2026-11-03 |
 
 ## 3. Technical Analysis

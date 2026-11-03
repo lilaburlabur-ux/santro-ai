@@ -38,8 +38,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|
 | Micron, Nvidia, and AMD lead chip stocks' rebound | Yahoo Finance | 2026-11-03 |
 | This AI Boom is not 1999 all over again — and here's why | Yahoo Finance Video | 2026-11-03 |
+| How major US stock indexes fared Tuesday 11/3/2026 | Associated Press | 2026-11-03 |
 | Moderna's Cancer Vaccine Is Incredibly Promising, but This Could Be a Major Obstacle to Its Success | Motley Fool | 2026-11-03 |
-| Palantir's Report Moved My Buy Price for the Stock. Here's the New Number. | Motley Fool | 2026-11-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

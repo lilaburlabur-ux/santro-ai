@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-03T23:43:55+00:00",
-  "as_of_local": "2026-11-03 23:43:55 UTC",
+  "as_of_utc": "2026-11-03T23:49:03+00:00",
+  "as_of_local": "2026-11-03 23:49:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -22,7 +24,7 @@
           "title": "Stock Market Election Night: AMD, Arista Earnings Lift Tech Futures, AI Stocks (Live)",
           "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-03T23:26:41Z"
+          "published": "2026-11-03T23:38:10Z"
         },
         {
           "title": "What Is Nvidia (NVDA) Asking Cloud Clients To Change Under New China Rules?",
@@ -341,34 +343,6 @@
       ]
     },
     {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 117.41,
-      "previous_close": 117.41,
-      "change_pct": 0.0,
-      "market_cap": 4661339993.060822,
-      "headlines": [
-        {
-          "title": "ON Semiconductor (ON) Stock Looks Fairly Valued After AI Revenue News",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stock-looks-fairly-valued-171422762.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-03T17:14:22Z"
-        },
-        {
-          "title": "ON Semiconductor (ON) Beat Expectations, Is The Stock Still Cheap?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-beat-expectations-stock-still-151505664.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-03T15:15:05Z"
-        },
-        {
-          "title": "ON Semiconductor Shares Rise 3% as Q3 Earnings Beat Forecasts and AI Data Centre Outlook Strengthens",
-          "url": "https://finance.yahoo.com/technology/articles/semiconductor-shares-rise-3-q3-135135279.html",
-          "publisher": "InvestorsHub",
-          "published": "2026-11-03T13:51:35Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 29.24,
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -9.97,
+          "price": 411.0,
           "currency": "TWD"
         },
         {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -9.97,
+        "price": 411.0,
         "currency": "TWD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 77688.03,
-      "change_pct": 1.32
+      "price": 77632.11,
+      "change_pct": 1.25
     },
     {
       "label": "Gold",
-      "price": 3938.1,
-      "change_pct": -0.79
+      "price": 3938.8,
+      "change_pct": -0.78
     },
     {
       "label": "Nasdaq100",

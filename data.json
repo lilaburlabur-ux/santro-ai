@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-03T05:52:35+00:00",
-  "as_of_local": "2026-11-03 05:52:35 UTC",
+  "as_of_utc": "2026-11-03T05:57:51+00:00",
+  "as_of_local": "2026-11-03 05:57:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -95,15 +97,6 @@
       "headlines": []
     },
     {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 95.44,
-      "previous_close": 92.97,
-      "change_pct": 2.66,
-      "market_cap": 13555369506.433594,
-      "headlines": []
-    },
-    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 123.08,
@@ -152,8 +145,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -5.71,
-          "price": 1388000.0,
+          "change_pct": -5.5,
+          "price": 1391000.0,
           "currency": "KRW"
         },
         {
@@ -242,8 +235,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -5.71,
-        "price": 1388000.0,
+        "change_pct": -5.5,
+        "price": 1391000.0,
         "currency": "KRW"
       },
       {
@@ -319,13 +312,13 @@
     },
     {
       "label": "BTC",
-      "price": 76613.27,
-      "change_pct": -2.09
+      "price": 76520.91,
+      "change_pct": -2.21
     },
     {
       "label": "Gold",
-      "price": 3935.0,
-      "change_pct": -0.87
+      "price": 3932.0,
+      "change_pct": -0.95
     },
     {
       "label": "Nasdaq100",

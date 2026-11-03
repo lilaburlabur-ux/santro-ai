@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-03T11:06:08+00:00",
+  "as_of": "2026-11-03T11:20:59+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -27,16 +27,16 @@
    "rank": 2,
    "ticker": "PLTR",
    "company": "Palantir Technologies Inc",
-   "move_pct": -7.14,
-   "price": 165.61,
+   "move_pct": -7.42,
+   "price": 165.1,
    "volume": 36476600,
    "volume_vs_avg": "~2x",
-   "heat_score": 48,
+   "heat_score": 49,
    "direction": "down",
-   "why": "Citigroup Adjusts Price Target on Palantir Technologies to $265 From $250",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-adjusts-price-target-palantir-104432705.html",
-   "published": "2026-11-03T10:44:32+00:00",
+   "why": "Palantir Earnings Top Views As New Contract Growth Slows. Shares Fall.",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/m/653d34ac-6dcc-3569-a2a1-603f6b130c9b/palantir-earnings-top-views.html",
+   "published": "2026-11-03T11:07:30+00:00",
    "sector": "AI Software & Cloud Infrastructure"
   },
   {

@@ -1,11 +1,18 @@
 {
-  "as_of_utc": "2026-11-03T06:12:58+00:00",
-  "as_of_local": "2026-11-03 06:12:58 UTC",
+  "as_of_utc": "2026-11-03T06:27:57+00:00",
+  "as_of_local": "2026-11-03 06:27:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 202.06,
+      "previous_close": 204.64,
+      "change_pct": -1.26,
+      "market_cap": 4879142761047.363,
+      "headlines": []
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -145,8 +152,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -5.37,
-          "price": 1393000.0,
+          "change_pct": -5.5,
+          "price": 1391000.0,
           "currency": "KRW"
         },
         {
@@ -235,8 +242,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -5.37,
-        "price": 1393000.0,
+        "change_pct": -5.5,
+        "price": 1391000.0,
         "currency": "KRW"
       },
       {
@@ -312,13 +319,13 @@
     },
     {
       "label": "BTC",
-      "price": 76293.99,
-      "change_pct": -2.5
+      "price": 76513.82,
+      "change_pct": -2.22
     },
     {
       "label": "Gold",
-      "price": 3928.8,
-      "change_pct": -1.03
+      "price": 3931.2,
+      "change_pct": -0.97
     },
     {
       "label": "Nasdaq100",

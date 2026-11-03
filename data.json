@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-03T21:02:26+00:00",
-  "as_of_local": "2026-11-03 21:02:26 UTC",
+  "as_of_utc": "2026-11-03T21:08:56+00:00",
+  "as_of_local": "2026-11-03 21:08:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NXPI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -27,10 +25,10 @@
           "published": "2026-11-03T15:18:49Z"
         },
         {
-          "title": "Sector Update: Tech Stocks Gain Late Afternoon",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-afternoon-204401257.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-03T20:44:01Z"
+          "title": "Nasdaq ends higher as AI heavyweights rebound ahead of midterm results",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-mixed-apple-104958801.html",
+          "publisher": "Reuters",
+          "published": "2026-11-03T21:00:39Z"
         }
       ]
     },
@@ -105,16 +103,16 @@
           "published": "2026-11-03T14:05:38Z"
         },
         {
+          "title": "Nasdaq ends higher as AI heavyweights rebound ahead of midterm results",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-mixed-apple-104958801.html",
+          "publisher": "Reuters",
+          "published": "2026-11-03T21:00:39Z"
+        },
+        {
           "title": "Micron Pops but Markets and Wall Street Are Poles Apart on the Stock",
           "url": "https://www.barrons.com/articles/micron-stock-memory-chips-slump-858b55b0?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-03T18:10:00Z"
-        },
-        {
-          "title": "Micron\u2019s Real Risk: China\u2019s CXMT Targets \u201c20% by 2028,\u201d Warns Dan Niles",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-real-risk-china-cxmt-175114318.html",
-          "publisher": "TIKR",
-          "published": "2026-11-03T17:51:14Z"
         }
       ]
     },
@@ -245,16 +243,44 @@
           "published": "2026-11-03T14:52:04Z"
         },
         {
+          "title": "Fabrinet Lost 32% in a Month. Barclays Sees 58% Upside From Here",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/fabrinet-lost-32-month-barclays-205746597.html",
+          "publisher": "TIKR",
+          "published": "2026-11-03T20:57:46Z"
+        },
+        {
           "title": "Marvell to Acquire Lumentum in Historic $115B Tech Deal",
           "url": "https://finance.yahoo.com/video/marvell-acquire-lumentum-historic-115b-201402012.html",
           "publisher": "Bloomberg",
           "published": "2026-11-03T20:14:02Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors",
+      "price": 262.79,
+      "previous_close": 257.24,
+      "change_pct": 2.16,
+      "market_cap": 66237006870.29309,
+      "headlines": [
+        {
+          "title": "Two Analog Chip Stocks Buoy Philadelphia Semiconductor Index",
+          "url": "https://www.investors.com/news/technology/analog-chip-stocks-buoy-philadelphia-semiconductor-index/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-02T23:39:19Z"
         },
         {
-          "title": "AXT Dropped 14% in a Week After a Record Quarter. Wedbush Still Sees $93",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/axt-dropped-14-week-record-185927524.html",
-          "publisher": "TIKR",
-          "published": "2026-11-03T18:59:27Z"
+          "title": "3 Tech Stocks Boosting Buyback Capacity in the Face of the Sector's Recent Tumble",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-tech-stocks-boosting-buyback-152000719.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-02T15:20:00Z"
+        },
+        {
+          "title": "JPMorgan Global Select Equity ETF (JGLO) Adds Microsoft and NXP on Oct. 29",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-global-select-equity-etf-110611845.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-02T11:06:11Z"
         }
       ]
     },
@@ -554,18 +580,18 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7568.96,
-      "change_pct": 0.37
+      "price": 7568.92,
+      "change_pct": 0.36
     },
     {
       "label": "BTC",
-      "price": 77763.48,
-      "change_pct": 1.42
+      "price": 77829.99,
+      "change_pct": 1.5
     },
     {
       "label": "Gold",
-      "price": 3930.0,
-      "change_pct": -1.0
+      "price": 3931.3,
+      "change_pct": -0.96
     },
     {
       "label": "Nasdaq100",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-03T23:04:44+00:00",
-  "as_of_local": "2026-11-03 23:04:44 UTC",
+  "as_of_utc": "2026-11-03T23:09:54+00:00",
+  "as_of_local": "2026-11-03 23:09:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -201,34 +203,6 @@
       ]
     },
     {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 164.43,
-      "previous_close": 162.08,
-      "change_pct": 1.45,
-      "market_cap": 175584842314.91986,
-      "headlines": [
-        {
-          "title": "Anthropic's profit just disappeared. That's good news",
-          "url": "https://finance.yahoo.com/video/anthropics-profit-just-disappeared-thats-120000388.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-03T12:00:00Z"
-        },
-        {
-          "title": "Earnings live updates: Duolingo stock jumps on user growth, upbeat guidance",
-          "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-apple-palantir-roku-and-more-212856249.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-02T21:28:56Z"
-        },
-        {
-          "title": "Qualcomm Stocks Edge Lower With AI Memory Validation in Focus",
-          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-stocks-edge-lower-ai-153959715.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-03T15:39:59Z"
-        }
-      ]
-    },
-    {
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "price": 171.97,
@@ -290,7 +264,7 @@
       "price": 105.92,
       "previous_close": 95.44,
       "change_pct": 10.98,
-      "market_cap": 15043846150.174805,
+      "market_cap": 15014075957.729446,
       "headlines": [
         {
           "title": "Lattice Semiconductor earnings analysis: questions answered and next catalysts",
@@ -585,7 +559,7 @@
     },
     {
       "label": "BTC",
-      "price": 77726.63,
+      "price": 77729.35,
       "change_pct": 1.37
     },
     {

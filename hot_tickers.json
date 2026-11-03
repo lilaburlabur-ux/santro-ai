@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-03T08:24:30+00:00",
+  "as_of": "2026-11-03T08:29:30+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -41,22 +41,6 @@
   },
   {
    "rank": 3,
-   "ticker": "CHKP",
-   "company": "Check Point Software Technologies Ltd",
-   "move_pct": -6.98,
-   "price": 141.5,
-   "volume": 2785700,
-   "volume_vs_avg": "~2x",
-   "heat_score": 51,
-   "direction": "down",
-   "why": "Check Point Software Technologies (CHKP) Fell On Q3 Results, Does It Look Fairly Valued?",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/check-point-software-technologies-chkp-042754266.html",
-   "published": "2026-11-03T04:27:54+00:00",
-   "sector": "Cybersecurity"
-  },
-  {
-   "rank": 4,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
    "move_pct": -7.52,
@@ -72,7 +56,7 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "LSCC",
    "company": "Lattice Semiconductor Corp",
    "move_pct": 2.66,
@@ -88,7 +72,7 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "ticker": "UPST",
    "company": "Upstart Holdings Inc",
    "move_pct": -7.43,

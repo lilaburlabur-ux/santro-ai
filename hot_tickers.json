@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-03T10:30:24+00:00",
+  "as_of": "2026-11-03T10:45:22+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "PLTR",
    "company": "Palantir Technologies Inc",
-   "move_pct": -7.98,
-   "price": 164.11,
+   "move_pct": -7.84,
+   "price": 164.36,
    "volume": 36476600,
    "volume_vs_avg": "~2x",
    "heat_score": 51,
@@ -38,6 +38,22 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/article/why-palantir-stock-doesnt-deserve-to-be-caught-up-in-the-ai-stock-meltdown-101729102.html",
    "published": "2026-11-03T10:17:29+00:00",
    "sector": "AI Software & Cloud Infrastructure"
+  },
+  {
+   "rank": 3,
+   "ticker": "UPST",
+   "company": "Upstart Holdings Inc",
+   "move_pct": 1.83,
+   "price": 21.7,
+   "volume": 12297200,
+   "volume_vs_avg": "~3x",
+   "heat_score": 37,
+   "direction": "up",
+   "why": "Why Did Upstart Holdings (UPST) Stock Drop As Attention Builds?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-did-upstart-holdings-upst-100715804.html",
+   "published": "2026-11-03T10:07:15+00:00",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

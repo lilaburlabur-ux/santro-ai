@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T04:00:41+00:00",
-  "as_of_local": "2026-11-04 04:00:41 UTC",
+  "as_of_utc": "2026-11-04T04:15:38+00:00",
+  "as_of_local": "2026-11-04 04:15:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-11-03T15:18:49Z"
         },
         {
-          "title": "Stock Market Election Night: Dow Futures Fall, Techs Tumble In Blue Wave; AMD, Arista Rise On Earnings",
+          "title": "Stock Market Election Night: Dow Futures Fall, Techs Tumble In Blue Wave; CoreWeave, SpaceX, Tesla Hit",
           "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-04T03:44:27Z"
+          "published": "2026-11-04T04:07:09Z"
         },
         {
-          "title": "Aptiv (APTV) Deepens Its Push Into Production Ready Automated Driving",
-          "url": "https://finance.yahoo.com/technology/articles/aptiv-aptv-deepens-push-production-031701541.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-04T03:17:01Z"
+          "title": "Schwab's Dividend ETF Keeps Hitting Records. I'd Still Buy It Now.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/schwabs-dividend-etf-keeps-hitting-040101769.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-04T04:01:01Z"
         }
       ]
     },
@@ -257,34 +259,6 @@
       ]
     },
     {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 262.79,
-      "previous_close": 257.24,
-      "change_pct": 2.16,
-      "market_cap": 66237006870.29309,
-      "headlines": [
-        {
-          "title": "Two Analog Chip Stocks Buoy Philadelphia Semiconductor Index",
-          "url": "https://www.investors.com/news/technology/analog-chip-stocks-buoy-philadelphia-semiconductor-index/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-02T23:39:19Z"
-        },
-        {
-          "title": "3 Tech Stocks Boosting Buyback Capacity in the Face of the Sector's Recent Tumble",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-tech-stocks-boosting-buyback-152000719.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-02T15:20:00Z"
-        },
-        {
-          "title": "JPMorgan Global Select Equity ETF (JGLO) Adds Microsoft and NXP on Oct. 29",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-global-select-equity-etf-110611845.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-02T11:06:11Z"
-        }
-      ]
-    },
-    {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
       "price": 105.92,
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -6.37,
-          "price": 1309000.0,
+          "change_pct": -6.22,
+          "price": 1311000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -4.78,
-          "price": 209000.0,
+          "change_pct": -4.56,
+          "price": 209500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -14.55,
-          "price": 9694.0,
+          "change_pct": -14.17,
+          "price": 9737.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -7.3,
-          "price": 381.0,
+          "change_pct": -7.42,
+          "price": 380.5,
           "currency": "TWD"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -6.37,
-        "price": 1309000.0,
+        "change_pct": -6.22,
+        "price": 1311000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -4.78,
-        "price": 209000.0,
+        "change_pct": -4.56,
+        "price": 209500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -14.55,
-        "price": 9694.0,
+        "change_pct": -14.17,
+        "price": 9737.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -7.3,
-        "price": 381.0,
+        "change_pct": -7.42,
+        "price": 380.5,
         "currency": "TWD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 76364.92,
-      "change_pct": -0.41
+      "price": 76732.96,
+      "change_pct": 0.07
     },
     {
       "label": "Gold",
-      "price": 3949.6,
-      "change_pct": -0.5
+      "price": 3950.1,
+      "change_pct": -0.49
     },
     {
       "label": "Nasdaq100",

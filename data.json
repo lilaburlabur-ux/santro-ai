@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T13:52:05+00:00",
-  "as_of_local": "2026-11-04 13:52:05 UTC",
+  "as_of_utc": "2026-11-04T13:57:06+00:00",
+  "as_of_local": "2026-11-04 13:57:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,8 +27,8 @@
           "published": "2026-11-04T13:41:42Z"
         },
         {
-          "title": "If You Invested $10,000 in Intel Stock at Its Dot-Com-Era Peak, Here's How Much You'd Have Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/invested-10-000-intel-stock-133500386.html",
+          "title": "5 Dividend Stocks to Buy in 2027 and Hold for the Next 5 Years",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-stocks-buy-2027-133500723.html",
           "publisher": "Motley Fool",
           "published": "2026-11-04T13:35:00Z"
         }
@@ -57,34 +59,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/pinnacle-west-capital-corporation-q3-220124293.html",
           "publisher": "Moby",
           "published": "2026-11-03T22:01:24Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 332.13,
-      "previous_close": 322.23,
-      "change_pct": 3.07,
-      "market_cap": 1585465710371.1895,
-      "headlines": [
-        {
-          "title": "What's Happening With AMD Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/whats-happening-amd-stock-130217269.html",
-          "publisher": "Trefis",
-          "published": "2026-11-04T13:02:17Z"
-        },
-        {
-          "title": "Ray Dalio says one AI risk is hiding in plain sight",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-says-one-ai-120300534.html",
-          "publisher": "TheStreet",
-          "published": "2026-11-04T12:03:00Z"
-        },
-        {
-          "title": "Semiconductor Sell-Off: The Best Chip Stocks to Buy Right Now Before They Skyrocket Once Again",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-sell-off-best-chip-115602450.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-04T11:56:02Z"
         }
       ]
     },
@@ -290,7 +264,7 @@
       "price": 105.92,
       "previous_close": 95.44,
       "change_pct": 10.98,
-      "market_cap": 15043846150.174805,
+      "market_cap": 15014075957.729446,
       "headlines": [
         {
           "title": "What iShares A.I. Innovation ETF (BAI) Bought: Amazon Leads on Nov. 2",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78223.15,
-      "change_pct": 1.14
+      "price": 78307.27,
+      "change_pct": 1.24
     },
     {
       "label": "Gold",
-      "price": 4050.6,
-      "change_pct": 2.8
+      "price": 4054.3,
+      "change_pct": 2.89
     },
     {
       "label": "Nasdaq100",

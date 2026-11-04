@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T21:48:25+00:00",
-  "as_of_local": "2026-11-04 21:48:25 UTC",
+  "as_of_utc": "2026-11-04T21:53:24+00:00",
+  "as_of_local": "2026-11-04 21:53:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": -3.17,
       "market_cap": 4832539227905.273,
       "headlines": [
+        {
+          "title": "Colliers International Group Inc. Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/real-estate/articles/colliers-international-group-inc-q3-214453506.html",
+          "publisher": "Moby",
+          "published": "2026-11-04T21:44:53Z"
+        },
         {
           "title": "Could Buying Bitcoin Today Set You Up For Life?",
           "url": "https://finance.yahoo.com/markets/crypto/articles/could-buying-bitcoin-today-set-213500350.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-stock-jumped-earnings-212148096.html",
           "publisher": "Motley Fool",
           "published": "2026-11-04T21:21:48Z"
-        },
-        {
-          "title": "The Ultimate Dividend Growth Stock to Buy With $2,000 Right Now",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ultimate-dividend-growth-stock-buy-212000237.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-04T21:20:00Z"
         }
       ]
     },
@@ -57,34 +59,6 @@
           "url": "https://finance.yahoo.com/technology/articles/4-semiconductor-stocks-buy-q3-134400671.html",
           "publisher": "Zacks",
           "published": "2026-11-04T13:44:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 325.48,
-      "previous_close": 332.13,
-      "change_pct": -2.0,
-      "market_cap": 1553721100904.864,
-      "headlines": [
-        {
-          "title": "5 Cheapest AI Data Center Stocks to Buy According to Billionaires",
-          "url": "https://finance.yahoo.com/technology/ai/articles/5-cheapest-ai-data-center-203221920.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-04T20:32:21Z"
-        },
-        {
-          "title": "Is Broadcom Stock a Buy Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-buy-now-182000414.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-04T18:20:00Z"
-        },
-        {
-          "title": "Broadcom Stocks Decline 1.49% as $63 Billion AI Financing Carries Residual-Value Risk",
-          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-stocks-decline-1-49-181830621.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-04T18:18:30Z"
         }
       ]
     },
@@ -290,7 +264,7 @@
       "price": 107.25,
       "previous_close": 105.92,
       "change_pct": 1.26,
-      "market_cap": 15202602665.25,
+      "market_cap": 15232746672.0,
       "headlines": [
         {
           "title": "What iShares A.I. Innovation ETF (BAI) Bought: Amazon Leads on Nov. 2",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 80117.14,
-      "change_pct": 3.58
+      "price": 80050.79,
+      "change_pct": 3.5
     },
     {
       "label": "Gold",
-      "price": 4071.7,
-      "change_pct": 3.33
+      "price": 4069.9,
+      "change_pct": 3.29
     },
     {
       "label": "Nasdaq100",

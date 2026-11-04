@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T23:24:57+00:00",
-  "as_of_local": "2026-11-04 23:24:57 UTC",
+  "as_of_utc": "2026-11-04T23:30:00+00:00",
+  "as_of_local": "2026-11-04 23:30:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -89,34 +91,6 @@
       ]
     },
     {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 795.23,
-      "previous_close": 855.1,
-      "change_pct": -7.0,
-      "market_cap": 899741658780.6504,
-      "headlines": [
-        {
-          "title": "Why AI investors may need Nvidia and application stocks",
-          "url": "https://finance.yahoo.com/technology/ai/articles/why-ai-investors-may-nvidia-223220473.html",
-          "publisher": "TheStreet",
-          "published": "2026-11-04T22:32:20Z"
-        },
-        {
-          "title": "SpaceX, Tesla, Micron, AMD, Lockheed, CVS, DJT, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-4be709cb?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-04T21:51:00Z"
-        },
-        {
-          "title": "Micron (MU) Stock Sinks As Market Gains: Here's Why",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-stock-sinks-market-214502384.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T21:45:02Z"
-        }
-      ]
-    },
-    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 488.78,
@@ -184,7 +158,7 @@
           "title": "Dow Jones Futures Rise After Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally. CoreWeave, SpaceX Skid.",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-elections-oil-apple-microsoft-amazon-buy-signals-coreweave-spacex-skid/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-04T23:06:30Z"
+          "published": "2026-11-04T23:22:57Z"
         },
         {
           "title": "Arm Beats Quarterly Targets On Surging Data Center Business. But Arm Stock Falls.",
@@ -290,7 +264,7 @@
       "price": 107.25,
       "previous_close": 105.92,
       "change_pct": 1.26,
-      "market_cap": 15232746672.0,
+      "market_cap": 15202602665.25,
       "headlines": [
         {
           "title": "What iShares A.I. Innovation ETF (BAI) Bought: Amazon Leads on Nov. 2",
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -7.0,
-          "price": 795.23,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -7.0,
-        "price": 795.23,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 80391.22,
-      "change_pct": 3.94
+      "price": 80422.92,
+      "change_pct": 3.98
     },
     {
       "label": "Gold",
-      "price": 4070.5,
-      "change_pct": 3.3
+      "price": 4072.0,
+      "change_pct": 3.34
     },
     {
       "label": "Nasdaq100",

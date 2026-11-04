@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-04T12:40:49+00:00",
-  "as_of_local": "2026-11-04 12:40:49 UTC",
+  "as_of_utc": "2026-11-04T12:45:58+00:00",
+  "as_of_local": "2026-11-04 12:45:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -21,16 +19,16 @@
           "published": "2026-11-04T10:25:11Z"
         },
         {
-          "title": "Stock Market Election News: Dow Futures Jump After Democrat Sweep, But AI Stocks Fade; Elon Musk, SpaceX, Tesla Are Losers (Live)",
-          "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-04T12:30:32Z"
+          "title": "Nvidia Took Back the World\u2019s Biggest Company Title From Apple on Election Day",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-took-back-world-biggest-123723546.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-04T12:37:23Z"
         },
         {
-          "title": "If a Stock Market Crash Is Coming, History Says SCHD\u2019s Dividend Grew Through the Last Two Bear Markets. But Here\u2019s the Catch I'm Watching.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-history-122001618.html",
+          "title": "Viking Therapeutics Trades 23% Below Its Own $35 Secondary Offering Price. Here's Why That Could Be a Gift for Patient Investors.",
+          "url": "https://finance.yahoo.com/healthcare/articles/viking-therapeutics-trades-23-below-123500993.html",
           "publisher": "Motley Fool",
-          "published": "2026-11-04T12:20:01Z"
+          "published": "2026-11-04T12:35:00Z"
         }
       ]
     },
@@ -91,6 +89,34 @@
       ]
     },
     {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 855.1,
+      "previous_close": 833.59,
+      "change_pct": 2.58,
+      "market_cap": 967479960958.563,
+      "headlines": [
+        {
+          "title": "Apple Has $89.7 Billion in Purchase Obligations, and Most of It Comes Due Within a Year",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-89-7-billion-purchase-122610143.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-04T12:26:10Z"
+        },
+        {
+          "title": "What Did SanDisk's Quarter Change For Its Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/did-sandisks-quarter-change-stock-122442845.html",
+          "publisher": "Trefis",
+          "published": "2026-11-04T12:24:42Z"
+        },
+        {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall after Democrats take control of House, Senate",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-091834396.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-04T09:18:34Z"
+        }
+      ]
+    },
+    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 483.9,
@@ -111,10 +137,10 @@
           "published": "2026-11-03T22:27:18Z"
         },
         {
-          "title": "AMD beats Q3 estimates with data center business booming",
-          "url": "https://finance.yahoo.com/video/amd-beats-q3-estimates-with-data-center-business-booming-212830094.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-03T21:28:30Z"
+          "title": "Stock market today: Dow slips, S&P and Nasdaq gain as chip stocks rally, focus shifts to midterm elections",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-03T09:08:46Z"
         }
       ]
     },
@@ -264,7 +290,7 @@
       "price": 105.92,
       "previous_close": 95.44,
       "change_pct": 10.98,
-      "market_cap": 15043846150.174805,
+      "market_cap": 15014075957.729446,
       "headlines": [
         {
           "title": "What iShares A.I. Innovation ETF (BAI) Bought: Amazon Leads on Nov. 2",
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 2.58,
+          "price": 855.1,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 2.58,
+        "price": 855.1,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 78156.28,
-      "change_pct": 1.05
+      "price": 78176.43,
+      "change_pct": 1.07
     },
     {
       "label": "Gold",
-      "price": 4057.0,
-      "change_pct": 2.96
+      "price": 4054.4,
+      "change_pct": 2.89
     },
     {
       "label": "Nasdaq100",

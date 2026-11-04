@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T22:34:06+00:00",
-  "as_of_local": "2026-11-04 22:34:06 UTC",
+  "as_of_utc": "2026-11-04T22:39:13+00:00",
+  "as_of_local": "2026-11-04 22:39:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,22 +15,22 @@
       "market_cap": 4832539227905.273,
       "headlines": [
         {
-          "title": "Cushman & Wakefield plc Q3 2026 Earnings Call Summary",
-          "url": "https://finance.yahoo.com/real-estate/articles/cushman-wakefield-plc-q3-2026-222017303.html",
+          "title": "Smith Douglas Homes Corp. Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/real-estate/articles/smith-douglas-homes-corp-q3-222901890.html",
           "publisher": "Moby",
-          "published": "2026-11-04T22:20:17Z"
+          "published": "2026-11-04T22:29:01Z"
         },
         {
-          "title": "How Much Is SpaceX's AI Business Really Worth? Here's the Math.",
-          "url": "https://finance.yahoo.com/technology/ai/articles/much-spacexs-ai-business-really-221900454.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-04T22:19:00Z"
+          "title": "Reservoir Media, Inc. Q2 2027 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/reservoir-media-inc-q2-2027-222506756.html",
+          "publisher": "Moby",
+          "published": "2026-11-04T22:25:06Z"
         },
         {
-          "title": "Haverty Furniture Companies, Inc. Q3 2026 Earnings Call Summary",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/haverty-furniture-companies-inc-q3-221728912.html",
+          "title": "MFA Financial, Inc. Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mfa-financial-inc-q3-2026-222056569.html",
           "publisher": "Moby",
-          "published": "2026-11-04T22:17:28Z"
+          "published": "2026-11-04T22:20:56Z"
         }
       ]
     },
@@ -173,34 +175,6 @@
       ]
     },
     {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 191.8,
-      "previous_close": 202.49,
-      "change_pct": -5.28,
-      "market_cap": 204842128793.47296,
-      "headlines": [
-        {
-          "title": "Dow Jones Futures: Elections, Plunging Oil Fuel Big Rally; Apple, Microsoft, Amazon Flash Buy Signals. CoreWeave, SpaceX Skid.",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-elections-oil-apple-microsoft-amazon-buy-signals-coreweave-spacex-skid/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-04T22:29:27Z"
-        },
-        {
-          "title": "Arm Beats Quarterly Targets On Surging Data Center Business. But Arm Stock Falls.",
-          "url": "https://www.investors.com/news/technology/arm-stock-fiscal-q2-2027-earnings/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-04T21:53:55Z"
-        },
-        {
-          "title": "Arm stock slips after hours as lack of blowout guidance offsets quarterly results",
-          "url": "https://finance.yahoo.com/technology/ai/articles/arm-stock-slips-hours-lack-213203690.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-04T21:32:03Z"
-        }
-      ]
-    },
-    {
       "symbol": "QCOM",
       "name": "Qualcomm",
       "price": 173.19,
@@ -290,7 +264,7 @@
       "price": 107.25,
       "previous_close": 105.92,
       "change_pct": 1.26,
-      "market_cap": 15232746672.0,
+      "market_cap": 15202602665.25,
       "headlines": [
         {
           "title": "What iShares A.I. Innovation ETF (BAI) Bought: Amazon Leads on Nov. 2",
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -0.68,
+          "price": 218000.0,
           "currency": "KRW"
         },
         {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -0.68,
+        "price": 218000.0,
         "currency": "KRW"
       },
       {
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 80618.44,
-      "change_pct": 4.23
+      "price": 80753.06,
+      "change_pct": 4.41
     },
     {
       "label": "Gold",

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-04T08:43:42+00:00",
+  "as_of": "2026-11-04T08:58:48+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,22 +9,6 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "ZBRA",
-   "company": "Zebra Technologies Corp",
-   "move_pct": -8.76,
-   "price": 329.5,
-   "volume": 2063100,
-   "volume_vs_avg": "~4x",
-   "heat_score": 76,
-   "direction": "down",
-   "why": "Zebra: 3 Key Takeaways for Long-Term Investors",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/zebra-3-key-takeaways-long-044701512.html",
-   "published": "2026-11-04T04:47:01+00:00",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 2,
    "ticker": "LSCC",
    "company": "Lattice Semiconductor Corp",
    "move_pct": 10.98,
@@ -40,7 +24,7 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "ticker": "OKTA",
    "company": "Okta Inc",
    "move_pct": 2.6,
@@ -54,6 +38,22 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/okta-okta-joined-p-500-071521952.html",
    "published": "2026-11-04T07:15:21+00:00",
    "sector": "Cybersecurity"
+  },
+  {
+   "rank": 3,
+   "ticker": "ZBRA",
+   "company": "Zebra Technologies Corp",
+   "move_pct": -8.76,
+   "price": 329.5,
+   "volume": 2063100,
+   "volume_vs_avg": "~4x",
+   "heat_score": 61,
+   "direction": "down",
+   "why": "Moving down 8.8% on ~4x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
+   "sector": "Chip Equipment & AI Hardware"
   },
   {
    "rank": 4,

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T12:15:19+00:00",
-  "as_of_local": "2026-11-04 12:15:19 UTC",
+  "as_of_utc": "2026-11-04T12:20:22+00:00",
+  "as_of_local": "2026-11-04 12:20:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-11-04T10:25:11Z"
         },
         {
-          "title": "Stock Market Election News: Dow Futures Reverse Higher, AMD, Arista Rally After Democrats Sweep; SpaceX, Tesla Are Losers (Live)",
-          "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-04T12:09:14Z"
+          "title": "CoreWeave More Than Halved Over the Past 6 Months: This Pro Analyst Expects 360% Returns to Come",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-more-halved-over-past-121519323.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-04T12:15:19Z"
         },
         {
-          "title": "My Top 5 Stocks to Buy Before 2027 and Hold for a Decade",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-stocks-buy-2027-120500238.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-04T12:05:00Z"
+          "title": "AMD\u2019s Free Cash Flow Just Fell to 4% of Revenue",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-free-cash-flow-just-120944479.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-04T12:09:44Z"
         }
       ]
     },
@@ -197,34 +199,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-tech-stock-stalwarts-tumbled-034700440.html",
           "publisher": "TheStreet",
           "published": "2026-11-04T03:47:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 164.43,
-      "previous_close": 162.08,
-      "change_pct": 1.45,
-      "market_cap": 175584842314.91986,
-      "headlines": [
-        {
-          "title": "Elon says Grok Bot costs more than it makes",
-          "url": "https://finance.yahoo.com/video/elon-says-grok-bot-costs-120000123.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-04T12:00:00Z"
-        },
-        {
-          "title": "McDonald's and Qualcomm earnings, ADP labor data: What to Watch",
-          "url": "https://finance.yahoo.com/video/mcdonalds-qualcomm-earnings-adp-labor-010000492.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-04T01:00:00Z"
-        },
-        {
-          "title": "US Elections, Tech Optimism Lift Wall Street Pre-Bell; Asia Mixed, Europe Up",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-elections-tech-optimism-lift-111414286.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-04T11:14:14Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 77967.4,
-      "change_pct": 0.8
+      "price": 78174.88,
+      "change_pct": 1.07
     },
     {
       "label": "Gold",
-      "price": 4049.5,
-      "change_pct": 2.77
+      "price": 4045.1,
+      "change_pct": 2.66
     },
     {
       "label": "Nasdaq100",

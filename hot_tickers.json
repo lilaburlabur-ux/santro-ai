@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-04T23:05:20+00:00",
+  "as_of": "2026-11-04T23:20:19+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,6 +9,22 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "FIX",
+   "company": "Comfort Systems USA Inc",
+   "move_pct": -15.04,
+   "price": 1091.88,
+   "volume": 1686454,
+   "volume_vs_avg": "~3x",
+   "heat_score": 95,
+   "direction": "down",
+   "why": "Oklo Sinks 6%, Comfort Systems USA Down 15% as Democratic Sweep Rattles AI Power Stocks: \u201cA Negative Surprise\u201d",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/oklo-sinks-6-comfort-systems-200416953.html",
+   "published": "2026-11-04T20:04:16+00:00",
+   "sector": "Powering AI"
+  },
+  {
+   "rank": 2,
    "ticker": "DDOG",
    "company": "Datadog Inc",
    "move_pct": -13.84,
@@ -24,27 +40,11 @@
    "sector": "AI Applications & Data Software"
   },
   {
-   "rank": 2,
-   "ticker": "FIX",
-   "company": "Comfort Systems USA Inc",
-   "move_pct": -14.85,
-   "price": 1094.25,
-   "volume": 1686454,
-   "volume_vs_avg": "~3x",
-   "heat_score": 94,
-   "direction": "down",
-   "why": "Oklo Sinks 6%, Comfort Systems USA Down 15% as Democratic Sweep Rattles AI Power Stocks: \u201cA Negative Surprise\u201d",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/oklo-sinks-6-comfort-systems-200416953.html",
-   "published": "2026-11-04T20:04:16+00:00",
-   "sector": "Powering AI"
-  },
-  {
    "rank": 3,
    "ticker": "APP",
    "company": "Applovin Corp",
-   "move_pct": 36.68,
-   "price": 335.57,
+   "move_pct": 33.68,
+   "price": 328.2,
    "volume": 12716506,
    "volume_vs_avg": "~3x",
    "heat_score": 92,
@@ -105,22 +105,6 @@
   },
   {
    "rank": 7,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings Co",
-   "move_pct": -12.06,
-   "price": 207.51,
-   "volume": 12818601,
-   "volume_vs_avg": "~2x",
-   "heat_score": 78,
-   "direction": "down",
-   "why": "Vertiv Holdings Co (VRT) Locked In Three Years Of AI Power Chip Supply",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/vertiv-holdings-co-vrt-locked-191025134.html",
-   "published": "2026-11-04T19:10:25+00:00",
-   "sector": "Data Center, Power & Energy"
-  },
-  {
-   "rank": 8,
    "ticker": "MGNI",
    "company": "Magnite Inc",
    "move_pct": 11.91,
@@ -134,6 +118,22 @@
    "source_url": "https://finance.yahoo.com/media-advertising/articles/magnite-q3-earnings-snapshot-223451937.html",
    "published": "2026-11-04T22:34:51+00:00",
    "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 8,
+   "ticker": "NRG",
+   "company": "NRG Energy Inc",
+   "move_pct": -12.52,
+   "price": 84.21,
+   "volume": 10354660,
+   "volume_vs_avg": "~3x",
+   "heat_score": 71,
+   "direction": "down",
+   "why": "Moving down 12.5% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
+   "sector": "Powering AI"
   }
  ]
 }

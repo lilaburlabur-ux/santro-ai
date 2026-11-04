@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-04T23:30:00+00:00",
-  "as_of_local": "2026-11-04 23:30:00 UTC",
+  "as_of_utc": "2026-11-04T23:35:02+00:00",
+  "as_of_local": "2026-11-04 23:35:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -15,22 +13,22 @@
       "market_cap": 4832539227905.273,
       "headlines": [
         {
-          "title": "Materion Corporation Q3 2026 Earnings Call Summary",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/materion-corporation-q3-2026-earnings-231512002.html",
+          "title": "Nuvectis Pharma, Inc. Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/healthcare/articles/nuvectis-pharma-inc-q3-2026-232425455.html",
           "publisher": "Moby",
-          "published": "2026-11-04T23:15:12Z"
+          "published": "2026-11-04T23:24:25Z"
         },
         {
-          "title": "Martin Marietta Materials, Inc. Q3 2026 Earnings Call Summary",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/martin-marietta-materials-inc-q3-231114638.html",
+          "title": "Natural Resource Partners L.P. Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/natural-partners-l-p-q3-232246981.html",
           "publisher": "Moby",
-          "published": "2026-11-04T23:11:14Z"
+          "published": "2026-11-04T23:22:46Z"
         },
         {
-          "title": "Vishay Intertechnology, Inc. Q3 2026 Earnings Call Summary",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vishay-intertechnology-inc-q3-2026-230929226.html",
+          "title": "Royalty Pharma plc Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/healthcare/articles/royalty-pharma-plc-q3-2026-232101479.html",
           "publisher": "Moby",
-          "published": "2026-11-04T23:09:29Z"
+          "published": "2026-11-04T23:21:01Z"
         }
       ]
     },
@@ -87,6 +85,34 @@
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-04-2026/card/chip-stocks-take-a-hit-YOCGYXdxhJ2NABQB2DC5?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-11-04T21:38:37Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 795.23,
+      "previous_close": 855.1,
+      "change_pct": -7.0,
+      "market_cap": 899741658780.6504,
+      "headlines": [
+        {
+          "title": "5 Best Performing AI Stocks in 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-performing-ai-stocks-233151565.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-04T23:31:51Z"
+        },
+        {
+          "title": "Why AI investors may need Nvidia and application stocks",
+          "url": "https://finance.yahoo.com/technology/ai/articles/why-ai-investors-may-nvidia-223220473.html",
+          "publisher": "TheStreet",
+          "published": "2026-11-04T22:32:20Z"
+        },
+        {
+          "title": "SpaceX, Tesla, Micron, AMD, Lockheed, CVS, DJT, and More Stocks That Explain Today\u2019s Market",
+          "url": "https://www.barrons.com/articles/stock-movers-4be709cb?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-04T21:51:00Z"
         }
       ]
     },
@@ -211,6 +237,12 @@
       "market_cap": 143782590689.46756,
       "headlines": [
         {
+          "title": "5 Best Performing AI Stocks in 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-performing-ai-stocks-233151565.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-04T23:31:51Z"
+        },
+        {
           "title": "Marvell Sinks 7% as Democratic Sweep Hits AI Data-Center Stocks",
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-sinks-7-democratic-sweep-222424583.html",
           "publisher": "TIKR",
@@ -221,12 +253,6 @@
           "url": "https://www.investors.com/news/technology/chip-stocks-feeling-blue-after-democratic-party-victories/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-04T22:14:15Z"
-        },
-        {
-          "title": "Marvell Technology (MRVL) Stock Sinks As Market Gains: What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-mrvl-stock-sinks-214502331.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T21:45:02Z"
         }
       ]
     },
@@ -264,7 +290,7 @@
       "price": 107.25,
       "previous_close": 105.92,
       "change_pct": 1.26,
-      "market_cap": 15202602665.25,
+      "market_cap": 15232746672.0,
       "headlines": [
         {
           "title": "What iShares A.I. Innovation ETF (BAI) Bought: Amazon Leads on Nov. 2",
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -7.0,
+          "price": 795.23,
           "currency": "USD"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.68,
-          "price": 218000.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "KRW"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -7.0,
+        "price": 795.23,
         "currency": "USD"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.68,
-        "price": 218000.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "KRW"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 80422.92,
-      "change_pct": 3.98
+      "price": 80449.09,
+      "change_pct": 4.01
     },
     {
       "label": "Gold",
-      "price": 4072.0,
-      "change_pct": 3.34
+      "price": 4072.4,
+      "change_pct": 3.35
     },
     {
       "label": "Nasdaq100",

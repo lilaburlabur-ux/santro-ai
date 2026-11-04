@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T08:28:06+00:00",
-  "as_of_local": "2026-11-04 08:28:06 UTC",
+  "as_of_utc": "2026-11-04T08:33:13+00:00",
+  "as_of_local": "2026-11-04 08:33:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,14 +15,14 @@
       "market_cap": 4990943488952.637,
       "headlines": [
         {
-          "title": "Zcash Is Getting a Major Upgrade in November. Could This Be a Catalyst for Further ZEC Price Gains?",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/zcash-getting-major-upgrade-november-075000672.html",
+          "title": "Could Buying This 1 Cryptocurrency Make You Rich?",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/could-buying-1-cryptocurrency-rich-075000627.html",
           "publisher": "Motley Fool",
           "published": "2026-11-04T07:50:00Z"
         },
         {
-          "title": "Could Buying This 1 Cryptocurrency Make You Rich?",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/could-buying-1-cryptocurrency-rich-075000627.html",
+          "title": "Zcash Is Getting a Major Upgrade in November. Could This Be a Catalyst for Further ZEC Price Gains?",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/zcash-getting-major-upgrade-november-075000672.html",
           "publisher": "Motley Fool",
           "published": "2026-11-04T07:50:00Z"
         },
@@ -257,40 +259,12 @@
       ]
     },
     {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 262.79,
-      "previous_close": 257.24,
-      "change_pct": 2.16,
-      "market_cap": 66237006870.29309,
-      "headlines": [
-        {
-          "title": "Two Analog Chip Stocks Buoy Philadelphia Semiconductor Index",
-          "url": "https://www.investors.com/news/technology/analog-chip-stocks-buoy-philadelphia-semiconductor-index/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-02T23:39:19Z"
-        },
-        {
-          "title": "3 Tech Stocks Boosting Buyback Capacity in the Face of the Sector's Recent Tumble",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-tech-stocks-boosting-buyback-152000719.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-02T15:20:00Z"
-        },
-        {
-          "title": "JPMorgan Global Select Equity ETF (JGLO) Adds Microsoft and NXP on Oct. 29",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-global-select-equity-etf-110611845.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-02T11:06:11Z"
-        }
-      ]
-    },
-    {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
       "price": 105.92,
       "previous_close": 95.44,
       "change_pct": 10.98,
-      "market_cap": 15043846150.174805,
+      "market_cap": 15014075957.729446,
       "headlines": [
         {
           "title": "Lattice Semiconductor earnings analysis: questions answered and next catalysts",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 78255.15,
-      "change_pct": 1.18
+      "price": 78274.34,
+      "change_pct": 1.2
     },
     {
       "label": "Gold",
-      "price": 4039.5,
-      "change_pct": 2.51
+      "price": 4041.4,
+      "change_pct": 2.56
     },
     {
       "label": "Nasdaq100",

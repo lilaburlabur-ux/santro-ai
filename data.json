@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-04T00:29:38+00:00",
-  "as_of_local": "2026-11-04 00:29:38 UTC",
+  "as_of_utc": "2026-11-04T00:34:42+00:00",
+  "as_of_local": "2026-11-04 00:34:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -31,6 +29,34 @@
           "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-04T00:09:42Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 404.8,
+      "previous_close": 398.63,
+      "change_pct": 1.55,
+      "market_cap": 2099484617150.9497,
+      "headlines": [
+        {
+          "title": "Pinnacle West Capital Corporation Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pinnacle-west-capital-corporation-q3-220124293.html",
+          "publisher": "Moby",
+          "published": "2026-11-03T22:01:24Z"
+        },
+        {
+          "title": "Taiwan Semi or Broadcom: If I Could Only Own 1 for the Next 5 Years, It Would Be This",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semi-broadcom-could-only-162000092.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-03T16:20:00Z"
+        },
+        {
+          "title": "Until Next Gen Computing Implodes I\u2019ll Keep Buying Taiwan Semiconductor",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/until-next-gen-computing-implodes-154530005.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-03T15:45:30Z"
         }
       ]
     },
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 4.86,
-          "price": 1466000.0,
+          "change_pct": 3.86,
+          "price": 1452000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 3.42,
-          "price": 227000.0,
+          "change_pct": 2.28,
+          "price": 224500.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -3.22,
-          "price": 10980.0,
+          "change_pct": -4.5,
+          "price": 10835.0,
           "currency": "JPY"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 4.86,
-        "price": 1466000.0,
+        "change_pct": 3.86,
+        "price": 1452000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 3.42,
-        "price": 227000.0,
+        "change_pct": 2.28,
+        "price": 224500.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -3.22,
-        "price": 10980.0,
+        "change_pct": -4.5,
+        "price": 10835.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 77050.89,
-      "change_pct": 0.49
+      "price": 76880.52,
+      "change_pct": 0.27
     },
     {
       "label": "Gold",
-      "price": 3947.3,
-      "change_pct": -0.56
+      "price": 3943.9,
+      "change_pct": -0.65
     },
     {
       "label": "Nasdaq100",

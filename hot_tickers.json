@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-04T04:23:06+00:00",
+  "as_of": "2026-11-04T08:08:30+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,10 +17,10 @@
    "volume_vs_avg": "~4x",
    "heat_score": 76,
    "direction": "down",
-   "why": "Zebra Technologies (ZBRA) Stock May Be A Bargain Following Raised Outlook",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/zebra-technologies-zbra-stock-may-011750095.html",
-   "published": "2026-11-04T01:17:50+00:00",
+   "why": "Zebra: 3 Key Takeaways for Long-Term Investors",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/zebra-3-key-takeaways-long-044701512.html",
+   "published": "2026-11-04T04:47:01+00:00",
    "sector": "Chip Equipment & AI Hardware"
   },
   {
@@ -38,6 +38,70 @@
    "source_url": "",
    "published": "",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 3,
+   "ticker": "OKTA",
+   "company": "Okta Inc",
+   "move_pct": 2.6,
+   "price": 189.68,
+   "volume": 33785000,
+   "volume_vs_avg": "~10x",
+   "heat_score": 64,
+   "direction": "up",
+   "why": "Okta (OKTA) Has Joined The S&P 500",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/okta-okta-joined-p-500-071521952.html",
+   "published": "2026-11-04T07:15:21+00:00",
+   "sector": "Cybersecurity"
+  },
+  {
+   "rank": 4,
+   "ticker": "TLN",
+   "company": "Talen Energy Corp",
+   "move_pct": 7.29,
+   "price": 357.28,
+   "volume": 2188300,
+   "volume_vs_avg": "~2x",
+   "heat_score": 51,
+   "direction": "up",
+   "why": "Why Talen Energy Stock Is In Focus After Buyback Expansion And Cash Flow Guidance",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-talen-energy-stock-focus-061507021.html",
+   "published": "2026-11-04T06:15:07+00:00",
+   "sector": "Data Center, Power & Energy"
+  },
+  {
+   "rank": 5,
+   "ticker": "ORCL",
+   "company": "Oracle Corp",
+   "move_pct": 5.85,
+   "price": 126.19,
+   "volume": 84089600,
+   "volume_vs_avg": "~3x",
+   "heat_score": 48,
+   "direction": "up",
+   "why": "Oracle cancels $7 bln chip leasing deal with Tencent, FT reports",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/oracle-cancels-7-bln-chip-055216451.html",
+   "published": "2026-11-04T05:52:16+00:00",
+   "sector": "AI Software & Cloud Infrastructure"
+  },
+  {
+   "rank": 6,
+   "ticker": "ETN",
+   "company": "Eaton Corp plc",
+   "move_pct": 7.0,
+   "price": 391.7,
+   "volume": 3307800,
+   "volume_vs_avg": "~1.4x",
+   "heat_score": 47,
+   "direction": "up",
+   "why": "Eaton Q3 Earnings Call Highlights",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/eaton-q3-earnings-call-highlights-051410047.html",
+   "published": "2026-11-04T05:14:10+00:00",
+   "sector": "Powering AI"
   }
  ]
 }

@@ -4,24 +4,24 @@ Signed file: `QCOM.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $164.43 (2026-11-04, ~15-min delayed) |
+| Current price | $nan (2026-11-04, ~15-min delayed) |
 | Market cap | $175.58B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-04.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-2.37%) with negative half-year (-11.05%). |
-| Fresh setup quality | Poor / broken | -33.90% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 21.01%, revenue growth -4.00%. |
-| Value attractiveness | Reasonable | Forward P/E 16.18, EV/Sales 4.02. |
-| Risk level | Elevated | Beta 1.76, ATR 4.5% of price, short float 3.12%. |
+| Value attractiveness | Reasonable | Forward P/E 16.18, EV/Sales 4.08. |
+| Risk level | Elevated | Beta 1.76, ATR nan% of price, short float 3.12%. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| McDonald's and Qualcomm earnings, ADP labor data: What to Watch | Yahoo Finance Video | 2026-11-04 |
 | Anthropic's profit just disappeared. That's good news | Yahoo Finance Video | 2026-11-03 |
 | Earnings live updates: Duolingo stock jumps on user growth, upbeat guidance | Yahoo Finance | 2026-11-02 |
 | Should You Buy Qualcomm Stock Before Its Nov. 4 Report? | Motley Fool | 2026-11-03 |
-| Qualcomm Stocks Edge Lower With AI Memory Validation in Focus | GuruFocus.com | 2026-11-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $164.43; 52w high $248.74 (-33.90%); 52w low $122.94 (+33.74%) |
-| Trend | -2.37% vs SMA200, -7.55% vs SMA50, -6.11% vs SMA20 |
-| Momentum | RSI(14) 39.6 (neutral) |
-| Volatility | ATR(14) 7.45 (~4.5% of price); beta 1.76 |
-| Setup perspective | -33.90% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $248.74 (+nan%); 52w low $122.94 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 37.2 (neutral) |
+| Volatility | ATR(14) 7.65 (~nan% of price); beta 1.76 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -10.7% |
-| Month | -9.0% |
-| Quarter | +4.9% |
-| Half Y | -11.1% |
-| 1Y | -7.2% |
-| YTD | -3.5% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $44.07B | Revenue growth -4.00% y/y |
 | Profitability | Gross 54.23%, operating 18.53%, net 21.01% | ROA 11.61%, ROE 33.75% |
 | Balance sheet | Cash $8.30B, debt $15.27B | Current ratio 2.02, debt/equity 55.21 |
-| Valuation | P/E 19.03, forward P/E 16.18, P/S 3.98, P/B 6.28 | EV/Sales 4.02, EV/EBITDA 14.77 |
+| Valuation | P/E 19.03, forward P/E 16.18, P/S 3.98, P/B 6.28 | EV/Sales 4.08, EV/EBITDA 14.97 |
 | Growth expectations | Earnings growth -23.00%, EPS q/q -24.90% | Analyst mean target $197.03 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | NORGES BANK | 16,209,022 | 1.52% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.76, ATR 4.5% of price, short float 3.12%. Size positions accordingly.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
+- **Volatility risk:** Beta 1.76, ATR nan% of price, short float 3.12%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -111,14 +110,14 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $164.43 | EV/Sales | 4.02 |
-| Market cap | $175.58B | EV/EBITDA | 14.77 |
+| Price | $nan | EV/Sales | 4.08 |
+| Market cap | $175.58B | EV/EBITDA | 14.97 |
 | Beta | 1.76 | Gross margin | 54.23% |
-| RSI(14) | 39.6 | Operating margin | 18.53% |
-| ATR(14) | 7.45 | Profit margin | 21.01% |
-| SMA20 dist | -6.11% | ROA | 11.61% |
-| SMA50 dist | -7.55% | ROE | 33.75% |
-| SMA200 dist | -2.37% | Revenue (ttm) | $44.07B |
+| RSI(14) | 37.2 | Operating margin | 18.53% |
+| ATR(14) | 7.65 | Profit margin | 21.01% |
+| SMA20 dist | +nan% | ROA | 11.61% |
+| SMA50 dist | +nan% | ROE | 33.75% |
+| SMA200 dist | +nan% | Revenue (ttm) | $44.07B |
 | 52W high | $248.74 | Revenue growth y/y | -4.00% |
 | 52W low | $122.94 | Inst. ownership | 83.45% |
 | P/E (ttm) | 19.03 | Insider ownership | 0.12% |
@@ -140,7 +139,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | 2026-07-30 | main | UBS | Neutral → Neutral |
 
 ## 9. Conclusion
-QCOM: Low momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+QCOM: Moderate momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

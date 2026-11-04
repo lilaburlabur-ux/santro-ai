@@ -4,7 +4,7 @@ Signed file: `NVDA.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $206.69 (2026-11-04, ~15-min delayed) |
+| Current price | $nan (2026-11-04, ~15-min delayed) |
 | Market cap | $4.99T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `NVDA.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +2.32%; price +1.18% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -13.61% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 63.66%, revenue growth 105.90%. |
 | Value attractiveness | Reasonable | Forward P/E 12.99, EV/Sales 16.36. |
-| Risk level | High | Beta 2.25, ATR 3.1% of price, short float 1.30%. |
+| Risk level | High | Beta 2.25, ATR nan% of price, short float 1.30%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -37,29 +37,29 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | This AI Boom is not 1999 all over again — and here's why | Yahoo Finance Video | 2026-11-03 |
-| The S&P 500 Fell in Both September and October for Only the 17th Time Since 1950. Here's What Usually Followed. | Motley Fool | 2026-11-04 |
-| Why Herbalife Stock Is Up Today | Motley Fool | 2026-11-04 |
-| Stock Market Election Night: Futures Mixed As Votes Trickle In; AMD, Arista Jump On Earnings | Investor's Business Daily | 2026-11-04 |
+| Stock Market Election Night: Futures Fall As Votes Pour In; AMD, Arista Rise On Earnings | Investor's Business Daily | 2026-11-04 |
+| President Donald Trump Claims He'll "Veto Everything" if Democrats Retake Congress, and It Has Big Implications for the Stock Market | Motley Fool | 2026-11-04 |
+| Why DuPont Stock Trounced the Market on Tuesday | Motley Fool | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $206.69; 52w high $239.24 (-13.61%); 52w low $164.79 (+25.42%) |
-| Trend | +1.18% vs SMA200, -6.65% vs SMA50, -5.18% vs SMA20 |
-| Momentum | RSI(14) 39.2 (neutral) |
-| Volatility | ATR(14) 6.42 (~3.1% of price); beta 2.25 |
-| Setup perspective | -13.61% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $239.24 (+nan%); 52w low $164.79 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 33.3 (neutral) |
+| Volatility | ATR(14) 6.37 (~nan% of price); beta 2.25 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.2% |
-| Month | -13.5% |
-| Quarter | -5.6% |
-| Half Y | +5.4% |
-| 1Y | +2.3% |
-| YTD | +9.7% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,7 +95,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Invesco Ltd. | 329,593,488 | 1.37% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.25, ATR 3.1% of price, short float 1.30%. Size positions accordingly.
+- **Volatility risk:** Beta 2.25, ATR nan% of price, short float 1.30%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,14 +110,14 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $206.69 | EV/Sales | 16.36 |
+| Price | $nan | EV/Sales | 16.36 |
 | Market cap | $4.99T | EV/EBITDA | 24.63 |
 | Beta | 2.25 | Gross margin | 74.67% |
-| RSI(14) | 39.2 | Operating margin | 66.24% |
-| ATR(14) | 6.42 | Profit margin | 63.66% |
-| SMA20 dist | -5.18% | ROA | 53.57% |
-| SMA50 dist | -6.65% | ROE | 117.21% |
-| SMA200 dist | +1.18% | Revenue (ttm) | $302.97B |
+| RSI(14) | 33.3 | Operating margin | 66.24% |
+| ATR(14) | 6.37 | Profit margin | 63.66% |
+| SMA20 dist | +nan% | ROA | 53.57% |
+| SMA50 dist | +nan% | ROE | 117.21% |
+| SMA200 dist | +nan% | Revenue (ttm) | $302.97B |
 | 52W high | $239.24 | Revenue growth y/y | 105.90% |
 | 52W low | $164.79 | Inst. ownership | 71.51% |
 | P/E (ttm) | 26.13 | Insider ownership | 4.01% |

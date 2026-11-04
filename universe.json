@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Finviz theme:artificialintelligence",
-  "as_of": "2026-11-04 22:24 UTC",
+  "as_of": "2026-11-04 22:25 UTC",
   "total_tickers": 111,
   "min_bubble_size": 7,
   "render_spec": {
@@ -18,8 +18,8 @@
    "label": "AI Chips & Compute",
    "color": "#4F8EF7",
    "count": 14,
-   "total_market_cap_b": 10908.93,
-   "avg_change_pct": -2.29,
+   "total_market_cap_b": 10911.7,
+   "avg_change_pct": -2.27,
    "industries_included": [
     "Semiconductors"
    ],
@@ -1049,8 +1049,8 @@
    "label": "AI Applications & Data Software",
    "color": "#F7A14F",
    "count": 11,
-   "total_market_cap_b": 1006.6,
-   "avg_change_pct": 0.85,
+   "total_market_cap_b": 1007.0,
+   "avg_change_pct": 0.9,
    "industries_included": [
     "Software - Application"
    ],
@@ -1614,8 +1614,8 @@
    "label": "Chip Equipment & AI Hardware",
    "color": "#4FC3D9",
    "count": 13,
-   "total_market_cap_b": 3377.59,
-   "avg_change_pct": -2.89,
+   "total_market_cap_b": 3379.8,
+   "avg_change_pct": -2.84,
    "industries_included": [
     "Communication Equipment",
     "Computer Hardware",
@@ -2284,7 +2284,7 @@
    "label": "AI Platforms, Internet & AdTech",
    "color": "#F75F8E",
    "count": 12,
-   "total_market_cap_b": 13593.86,
+   "total_market_cap_b": 13593.9,
    "avg_change_pct": 5.06,
    "industries_included": [
     "Advertising Agencies",
@@ -2902,8 +2902,8 @@
    "label": "Data Center, Power & Energy",
    "color": "#5FD97A",
    "count": 8,
-   "total_market_cap_b": 422.38,
-   "avg_change_pct": -2.99,
+   "total_market_cap_b": 422.4,
+   "avg_change_pct": -2.98,
    "industries_included": [
     "Electrical Equipment & Parts",
     "Engineering & Construction",
@@ -4046,7 +4046,7 @@
    "label": "Powering AI",
    "color": "#3BE08F",
    "count": 15,
-   "total_market_cap_b": 662.67,
+   "total_market_cap_b": 662.7,
    "avg_change_pct": -6.22,
    "industries_included": [
     "Electrical Equipment & Parts",
@@ -4947,56 +4947,6 @@
      "fwd_eps": 1.61
     },
     {
-     "ticker": "NET",
-     "company": "Cloudflare Inc",
-     "sector": "Technology",
-     "industry": "Software - Infrastructure",
-     "country": "USA",
-     "market_cap_b": 95.03,
-     "pe": null,
-     "price": 267.0,
-     "change_pct": -2.42,
-     "volume": 3407133,
-     "perf": {
-      "1W": -16.4,
-      "1M": -24.9,
-      "1Y": 16.7
-     },
-     "spark": [
-      330.83,
-      307.01,
-      291.88,
-      293.14,
-      277.58,
-      308.23,
-      305.11,
-      272.74,
-      278.92,
-      314.18,
-      306.53,
-      327.23,
-      333.94,
-      351.67,
-      352.33,
-      349.02,
-      352.26,
-      351.0,
-      359.49,
-      342.97,
-      360.93,
-      347.7,
-      316.32,
-      297.58,
-      307.22,
-      325.73,
-      327.8,
-      310.3,
-      265.17,
-      266.58
-     ],
-     "fwd_eps": 1.69
-    },
-    {
      "ticker": "FTNT",
      "company": "Fortinet Inc",
      "sector": "Technology",
@@ -5045,6 +4995,56 @@
       129.39
      ],
      "fwd_eps": 3.9
+    },
+    {
+     "ticker": "NET",
+     "company": "Cloudflare Inc",
+     "sector": "Technology",
+     "industry": "Software - Infrastructure",
+     "country": "USA",
+     "market_cap_b": 94.88,
+     "pe": null,
+     "price": 266.58,
+     "change_pct": -2.57,
+     "volume": 3407133,
+     "perf": {
+      "1W": -16.4,
+      "1M": -24.9,
+      "1Y": 16.7
+     },
+     "spark": [
+      330.83,
+      307.01,
+      291.88,
+      293.14,
+      277.58,
+      308.23,
+      305.11,
+      272.74,
+      278.92,
+      314.18,
+      306.53,
+      327.23,
+      333.94,
+      351.67,
+      352.33,
+      349.02,
+      352.26,
+      351.0,
+      359.49,
+      342.97,
+      360.93,
+      347.7,
+      316.32,
+      297.58,
+      307.22,
+      325.73,
+      327.8,
+      310.3,
+      265.17,
+      266.58
+     ],
+     "fwd_eps": 1.69
     },
     {
      "ticker": "ZS",
@@ -5758,8 +5758,8 @@
     }
    ],
    "count": 18,
-   "avg_change_pct": 0.13,
-   "total_market_cap_b": 907.13,
+   "avg_change_pct": 0.11,
+   "total_market_cap_b": 907.0,
    "pe_harmonic": 126.7,
    "pe_excluded": 6,
    "industries_included": [

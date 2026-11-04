@@ -36,10 +36,10 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
+| Earnings live updates: Duolingo stock jumps on user growth, upbeat guidance | Yahoo Finance | 2026-11-02 |
 | Arm Stock Has Crashed 37%. Is It a Better Buy Than Qualcomm? | 24/7 Wall St. | 2026-11-04 |
 | Arm Stocks Move Lower as Tonight's Earnings Face a $1.38 Billion Test | GuruFocus.com | 2026-11-04 |
 | ARM Holdings earnings setup: Key item to watch for this oversold stock | Investing.com | 2026-11-04 |
-| US Equity Futures Rise Pre-Bell as Traders Assess Implications of Democrat Win in US Midterm Elections | MT Newswires | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

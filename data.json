@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-04T09:56:13+00:00",
-  "as_of_local": "2026-11-04 09:56:13 UTC",
+  "as_of_utc": "2026-11-04T10:00:33+00:00",
+  "as_of_local": "2026-11-04 10:00:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 4990943488952.637,
       "headlines": [
         {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall after Democrats take control of House, Senate",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-091834396.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-04T09:18:34Z"
+        },
+        {
           "title": "Warren Buffett Loves This Low-Cost ETF. History Says It Could Turn $200 per Month Into $1 Million.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-loves-low-cost-094600394.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/skip-magnificent-seven-2-underappreciated-094100680.html",
           "publisher": "Motley Fool",
           "published": "2026-11-04T09:41:00Z"
-        },
-        {
-          "title": "Down 38%, Is MercadoLibre Stock a Better Buy than SpaceX and the \"Magnificent Seven\" Stocks in November?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/down-38-mercadolibre-stock-better-093500281.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-04T09:35:00Z"
         }
       ]
     },
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -0.68,
+          "price": 218000.0,
           "currency": "KRW"
         },
         {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -0.68,
+        "price": 218000.0,
         "currency": "KRW"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 78313.69,
-      "change_pct": 1.25
+      "price": 78277.02,
+      "change_pct": 1.2
     },
     {
       "label": "Gold",
-      "price": 4055.5,
-      "change_pct": 2.92
+      "price": 4054.0,
+      "change_pct": 2.88
     },
     {
       "label": "Nasdaq100",

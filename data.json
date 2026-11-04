@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-04T03:06:21+00:00",
-  "as_of_local": "2026-11-04 03:06:21 UTC",
+  "as_of_utc": "2026-11-04T03:10:10+00:00",
+  "as_of_local": "2026-11-04 03:10:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -19,16 +19,16 @@
           "published": "2026-11-03T15:18:49Z"
         },
         {
+          "title": "Tom Lee says AI investors may be selling at the wrong time",
+          "url": "https://finance.yahoo.com/technology/ai/articles/tom-lee-says-ai-investors-030300330.html",
+          "publisher": "TheStreet",
+          "published": "2026-11-04T03:03:00Z"
+        },
+        {
           "title": "Stock Market Election Night: Dow Futures Fall, Techs Tumble In Blue Wave; AMD, Arista Rise On Earnings",
           "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-04T02:53:07Z"
-        },
-        {
-          "title": "There's a 99% Chance That Democrats Retake the House, and History Says This Shift Will Have a Huge Impact on Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/theres-99-chance-democrats-retake-024101917.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-04T02:41:01Z"
         }
       ]
     },
@@ -69,6 +69,12 @@
       "market_cap": 1585465710371.1895,
       "headlines": [
         {
+          "title": "Tom Lee says AI investors may be selling at the wrong time",
+          "url": "https://finance.yahoo.com/technology/ai/articles/tom-lee-says-ai-investors-030300330.html",
+          "publisher": "TheStreet",
+          "published": "2026-11-04T03:03:00Z"
+        },
+        {
           "title": "What Is Broadcom (AVGO) Changing In AI Security And Fraud Defense?",
           "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-changing-ai-security-001741357.html",
           "publisher": "Simply Wall St.",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-3-224509697.html",
           "publisher": "Motley Fool",
           "published": "2026-11-03T22:45:09Z"
-        },
-        {
-          "title": "AMD Earnings Show Big Tech Can\u2019t Get Enough AI Chips",
-          "url": "https://www.barrons.com/articles/amd-earnings-stock-price-7c8d5465?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-03T22:36:00Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -5.44,
-          "price": 1322000.0,
+          "change_pct": -5.22,
+          "price": 1325000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -3.87,
-          "price": 211000.0,
+          "change_pct": -3.64,
+          "price": 211500.0,
           "currency": "KRW"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -4.74,
-          "price": 391.5,
+          "change_pct": -4.87,
+          "price": 391.0,
           "currency": "TWD"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -5.44,
-        "price": 1322000.0,
+        "change_pct": -5.22,
+        "price": 1325000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -3.87,
-        "price": 211000.0,
+        "change_pct": -3.64,
+        "price": 211500.0,
         "currency": "KRW"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -4.74,
-        "price": 391.5,
+        "change_pct": -4.87,
+        "price": 391.0,
         "currency": "TWD"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 75801.57,
-      "change_pct": -1.14
+      "price": 75721.61,
+      "change_pct": -1.25
     },
     {
       "label": "Gold",
-      "price": 3945.6,
-      "change_pct": -0.6
+      "price": 3945.0,
+      "change_pct": 0.12
     },
     {
       "label": "Nasdaq100",

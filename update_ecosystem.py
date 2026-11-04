@@ -22,6 +22,7 @@ os.chdir(HERE)
 
 import yfinance as yf
 from live_bar import with_live_bar
+from live_bar import session_now
 
 ECOSYSTEM = ["SNDK","INTC","WDC","LITE","MU","NBIS","NVTS","FLEX","VRT","STM",
              "ARM","ASX","GLW","NOK","ON","AMKR","CRWV","DELL","COHR","CAMT",
@@ -57,6 +58,16 @@ def repair(vals, sym):
 
 
 def main():
+    # Premarket / after-hours: update_quotes owns the live extended-session
+    # price and change in this file; keep them instead of flapping to the close.
+    ext = session_now() in ("pre", "post")
+    held = {}
+    if ext:
+        try:
+            held = {t["ticker"]: (t["price"], t["change_pct"])
+                    for t in json.load(open("ecosystem.json"))["tickers"]}
+        except Exception:
+            held = {}
     px = yf.download(ECOSYSTEM, period="1y", interval="1d", auto_adjust=True,
                      progress=False, group_by="ticker", threads=True)
     out, failed = [], []
@@ -122,6 +133,9 @@ def main():
             print(f"  FAIL  {sym}: {e}")
         time.sleep(0.3)
 
+    for t in out:
+        if t["ticker"] in held:
+            t["price"], t["change_pct"] = held[t["ticker"]]
     out.sort(key=lambda t: -(t["market_cap_b"] or 0))
     json.dump({
         "meta": {"label": "NVIDIA Ecosystem", "count": len(out),

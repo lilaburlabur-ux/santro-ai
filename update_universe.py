@@ -22,7 +22,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 
 import yfinance as yf
-from live_bar import with_live_bar
+from live_bar import with_live_bar, session_now
 
 PATH = os.path.join(HERE, "universe.json")
 
@@ -39,6 +39,13 @@ def main():
     syms = [t["ticker"] for b in d["bubbles"] for t in b["tickers"]]
     px = yf.download(syms, period="1y", interval="1d", auto_adjust=True,
                      progress=False, group_by="ticker", threads=True)
+
+    # Premarket / after-hours: update_quotes owns the live extended-session
+    # price and change (refreshed every few minutes). Daily bars can't see
+    # them, so keep what it wrote instead of flapping back to the last close.
+    ext = session_now() in ("pre", "post")
+    held = {t["ticker"]: (t.get("price"), t.get("change_pct"), t.get("market_cap_b"))
+            for b in d["bubbles"] for t in b["tickers"]}
 
     for b in d["bubbles"]:
         for t in b["tickers"]:
@@ -151,6 +158,11 @@ def main():
             except Exception as e:
                 fail += 1
                 print(f"  FAIL {t['ticker']}: {e}")
+
+        if ext:
+            for t in b["tickers"]:
+                if held.get(t["ticker"], (None,))[0] is not None:
+                    t["price"], t["change_pct"], t["market_cap_b"] = held[t["ticker"]]
 
         # bubble aggregates follow the fresh ticker data (None-safe: a ticker
         # that failed this cycle keeps old values and must not crash the bubble)

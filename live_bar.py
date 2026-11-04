@@ -34,3 +34,19 @@ def with_live_bar(sym, close):
     if close.index.tz is not None:
         idx = idx.tz_localize(close.index.tz)
     return pd.concat([close, pd.Series([float(price)], index=[idx])]), True
+
+
+def session_now():
+    """US equity session on the NY clock: pre 4:00-9:30, regular 9:30-16:00,
+    post 16:00-20:00, else closed."""
+    now = dt.datetime.now(ET)
+    if now.weekday() >= 5:
+        return "closed"
+    m = now.hour * 60 + now.minute
+    if 240 <= m < 570:
+        return "pre"
+    if 570 <= m < 960:
+        return "regular"
+    if 960 <= m < 1200:
+        return "post"
+    return "closed"

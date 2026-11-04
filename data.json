@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T00:40:12+00:00",
-  "as_of_local": "2026-11-04 00:40:12 UTC",
+  "as_of_utc": "2026-11-04T00:39:47+00:00",
+  "as_of_local": "2026-11-04 00:39:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/leidos-holdings-inc-ldos-q3-230443252.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-03T23:04:43Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 202.49,
-      "previous_close": 196.79,
-      "change_pct": 2.9,
-      "market_cap": 216259036103.50134,
-      "headlines": [
-        {
-          "title": "Earnings live updates: Duolingo stock jumps on user growth, upbeat guidance",
-          "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-apple-palantir-roku-and-more-212856249.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-02T21:28:56Z"
-        },
-        {
-          "title": "Q4 QQQ Roadmap: Navigating AI Turbulence & Market Headwinds",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/q4-qqq-roadmap-navigating-ai-212600565.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T21:26:00Z"
-        },
-        {
-          "title": "Arm Stocks Rise 3.94% Ahead of November 4 Earnings Test",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stocks-rise-3-94-181723719.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-03T18:17:23Z"
         }
       ]
     },
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 1.94,
-          "price": 223750.0,
+          "change_pct": 2.16,
+          "price": 224250.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -5.11,
-          "price": 10765.0,
+          "change_pct": -5.2,
+          "price": 10755.0,
           "currency": "JPY"
         },
         {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 1.94,
-        "price": 223750.0,
+        "change_pct": 2.16,
+        "price": 224250.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -5.11,
-        "price": 10765.0,
+        "change_pct": -5.2,
+        "price": 10755.0,
         "currency": "JPY"
       },
       {
@@ -585,12 +559,12 @@
     },
     {
       "label": "BTC",
-      "price": 76868.5,
-      "change_pct": 0.25
+      "price": 76807.74,
+      "change_pct": 0.17
     },
     {
       "label": "Gold",
-      "price": 3942.4,
+      "price": 3942.3,
       "change_pct": -0.69
     },
     {

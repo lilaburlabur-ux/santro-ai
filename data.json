@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-04T13:57:06+00:00",
-  "as_of_local": "2026-11-04 13:57:06 UTC",
+  "as_of_utc": "2026-11-04T14:03:31+00:00",
+  "as_of_local": "2026-11-04 14:03:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -21,16 +19,16 @@
           "published": "2026-11-04T10:25:11Z"
         },
         {
-          "title": "This Is How the Stock Market Typically Performs After Midterm Elections",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-typically-performs-midterm-134142438.html",
+          "title": "Meet the Only \"Magnificent Seven\" Stock That's Outperforming the S&P 500 and Nasdaq This Year (Hint: It's Not Nvidia)",
+          "url": "https://finance.yahoo.com/news/meet-only-magnificent-seven-stock-135000209.html",
           "publisher": "Motley Fool",
-          "published": "2026-11-04T13:41:42Z"
+          "published": "2026-11-04T13:50:00Z"
         },
         {
-          "title": "5 Dividend Stocks to Buy in 2027 and Hold for the Next 5 Years",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-stocks-buy-2027-133500723.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-04T13:35:00Z"
+          "title": "Marvell Slipped Over The Last Month and Then Crashed Massively on the Lumentum Announcement: This Wall Street Desk Doubled Down on Its 130% Gains Prediction",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-slipped-over-last-month-134537837.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-04T13:45:37Z"
         }
       ]
     },
@@ -59,6 +57,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/pinnacle-west-capital-corporation-q3-220124293.html",
           "publisher": "Moby",
           "published": "2026-11-03T22:01:24Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 332.13,
+      "previous_close": 322.23,
+      "change_pct": 3.07,
+      "market_cap": 1585465710371.1895,
+      "headlines": [
+        {
+          "title": "Marvell Slipped Over The Last Month and Then Crashed Massively on the Lumentum Announcement: This Wall Street Desk Doubled Down on Its 130% Gains Prediction",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-slipped-over-last-month-134537837.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-04T13:45:37Z"
+        },
+        {
+          "title": "What's Happening With AMD Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/whats-happening-amd-stock-130217269.html",
+          "publisher": "Trefis",
+          "published": "2026-11-04T13:02:17Z"
+        },
+        {
+          "title": "Ray Dalio says one AI risk is hiding in plain sight",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-says-one-ai-120300534.html",
+          "publisher": "TheStreet",
+          "published": "2026-11-04T12:03:00Z"
         }
       ]
     },
@@ -211,6 +237,12 @@
       "market_cap": 154732739825.88702,
       "headlines": [
         {
+          "title": "Marvell Slipped Over The Last Month and Then Crashed Massively on the Lumentum Announcement: This Wall Street Desk Doubled Down on Its 130% Gains Prediction",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-slipped-over-last-month-134537837.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-04T13:45:37Z"
+        },
+        {
           "title": "What's Happening With AMD Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/whats-happening-amd-stock-130217269.html",
           "publisher": "Trefis",
@@ -221,12 +253,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/where-could-nvidias-next-growth-103136442.html",
           "publisher": "Trefis",
           "published": "2026-11-04T10:31:36Z"
-        },
-        {
-          "title": "Ciena Is Up 58% in a Year. Its Next Report Has to Show Margins Can Keep Up",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ciena-58-next-report-show-102357618.html",
-          "publisher": "TIKR",
-          "published": "2026-11-04T10:23:57Z"
         }
       ]
     },
@@ -264,7 +290,7 @@
       "price": 105.92,
       "previous_close": 95.44,
       "change_pct": 10.98,
-      "market_cap": 15014075957.729446,
+      "market_cap": 15043846150.174805,
       "headlines": [
         {
           "title": "What iShares A.I. Innovation ETF (BAI) Bought: Amazon Leads on Nov. 2",
@@ -375,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 47.64,
-      "change_pct": 2.85,
+      "price": null,
+      "change_pct": 0.0,
       "holdings": [
         {
           "symbol": "MU",
@@ -465,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 47.64,
-    "change_pct": 2.85,
+    "price": null,
+    "change_pct": 0.0,
     "holdings": [
       {
         "symbol": "MU",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 78307.27,
-      "change_pct": 1.24
+      "price": 78147.08,
+      "change_pct": 1.04
     },
     {
       "label": "Gold",
-      "price": 4054.3,
-      "change_pct": 2.89
+      "price": 4053.6,
+      "change_pct": 2.87
     },
     {
       "label": "Nasdaq100",

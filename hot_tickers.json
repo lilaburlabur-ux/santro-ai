@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-04T10:26:32+00:00",
+  "as_of": "2026-11-04T10:41:56+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,29 +9,13 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "OKTA",
-   "company": "Okta Inc",
-   "move_pct": 2.51,
-   "price": 194.45,
-   "volume": 33785000,
-   "volume_vs_avg": "~10x",
-   "heat_score": 64,
-   "direction": "up",
-   "why": "Okta (OKTA) Has Joined The S&P 500",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/okta-okta-joined-p-500-071521952.html",
-   "published": "2026-11-04T07:15:21+00:00",
-   "sector": "Cybersecurity"
-  },
-  {
-   "rank": 2,
    "ticker": "SMCI",
    "company": "Super Micro Computer Inc",
-   "move_pct": 7.23,
-   "price": 33.66,
+   "move_pct": 8.44,
+   "price": 34.04,
    "volume": 61505000,
    "volume_vs_avg": "~2x",
-   "heat_score": 49,
+   "heat_score": 63,
    "direction": "up",
    "why": "US Stock Futures Rise As Democrats Make Midterm Gains \u2014 AMD, SMCI, PLTR, SPCX, DJT In Focus",
    "catalyst_type": "momentum_narrative",
@@ -40,11 +24,27 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
+   "rank": 2,
+   "ticker": "OKTA",
+   "company": "Okta Inc",
+   "move_pct": 2.22,
+   "price": 193.9,
+   "volume": 33785000,
+   "volume_vs_avg": "~10x",
+   "heat_score": 63,
+   "direction": "up",
+   "why": "Okta (OKTA) Has Joined The S&P 500",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/okta-okta-joined-p-500-071521952.html",
+   "published": "2026-11-04T07:15:21+00:00",
+   "sector": "Cybersecurity"
+  },
+  {
    "rank": 3,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
-   "move_pct": 7.13,
-   "price": 518.39,
+   "move_pct": 7.2,
+   "price": 518.72,
    "volume": 34179800,
    "volume_vs_avg": "~2x",
    "heat_score": 48,

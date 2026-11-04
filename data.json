@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T02:30:50+00:00",
-  "as_of_local": "2026-11-04 02:30:50 UTC",
+  "as_of_utc": "2026-11-04T02:36:07+00:00",
+  "as_of_local": "2026-11-04 02:36:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -22,7 +24,7 @@
           "title": "Stock Market Election Night: Tech, AI Stocks Lead Futures Lower As ; AMD, Arista Rise On Earnings",
           "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-04T02:19:43Z"
+          "published": "2026-11-04T02:22:47Z"
         },
         {
           "title": "Should You Buy Alphabet Stock After Anthropic Raised Its Google Commitment to $121 Billion?",
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-03T09:08:46Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 60.55,
-      "previous_close": 59.97,
-      "change_pct": 0.97,
-      "market_cap": 321823245944.9768,
-      "headlines": [
-        {
-          "title": "What Advanced Micro Devices (AMD) Said on Its Q3 Earnings Call",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-said-021404113.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-04T02:14:04Z"
-        },
-        {
-          "title": "AMD EPS: Intel's Drag Makes No Sense",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-eps-intels-drag-makes-231300384.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T23:13:00Z"
-        },
-        {
-          "title": "Should You Buy Qualcomm Stock Before Its Nov. 4 Report?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-qualcomm-stock-nov-4-231202101.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-03T23:12:02Z"
         }
       ]
     },
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -2.29,
-          "price": 1366000.0,
+          "change_pct": -2.86,
+          "price": 1358000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.91,
-          "price": 217500.0,
+          "change_pct": -1.59,
+          "price": 216000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -9.39,
-          "price": 10280.0,
+          "change_pct": -10.53,
+          "price": 10150.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -1.46,
-          "price": 405.0,
+          "change_pct": -2.55,
+          "price": 400.5,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -2.4,
-          "price": 142.5,
+          "change_pct": -3.08,
+          "price": 141.5,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -2.29,
-        "price": 1366000.0,
+        "change_pct": -2.86,
+        "price": 1358000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.91,
-        "price": 217500.0,
+        "change_pct": -1.59,
+        "price": 216000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -9.39,
-        "price": 10280.0,
+        "change_pct": -10.53,
+        "price": 10150.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -1.46,
-        "price": 405.0,
+        "change_pct": -2.55,
+        "price": 400.5,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -2.4,
-        "price": 142.5,
+        "change_pct": -3.08,
+        "price": 141.5,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 76655.7,
-      "change_pct": -0.03
+      "price": 76672.64,
+      "change_pct": -0.01
     },
     {
       "label": "Gold",
-      "price": 3953.5,
-      "change_pct": -0.41
+      "price": 3949.7,
+      "change_pct": -0.5
     },
     {
       "label": "Nasdaq100",

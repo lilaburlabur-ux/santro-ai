@@ -4,8 +4,8 @@ Signed file: `MU.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $797.50 (2026-11-04, ~15-min delayed) |
-| Market cap | $902.31B |
+| Current price | $795.23 (2026-11-04, ~15-min delayed) |
+| Market cap | $899.74B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `MU.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +240.18%; price +5.81% vs SMA200. |
-| Fresh setup quality | Poor / broken | -34.26% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +239.21%; price +5.51% vs SMA200. |
+| Fresh setup quality | Poor / broken | -34.45% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 63.80%, revenue growth 379.30%. |
-| Value attractiveness | Reasonable | Forward P/E 3.84, EV/Sales 6.98. |
+| Value attractiveness | Reasonable | Forward P/E 3.83, EV/Sales 6.98. |
 | Risk level | High | Beta 2.40, ATR 6.4% of price, short float 2.00%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -36,30 +36,30 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 
 | Headline | Source | Date |
 |---|---|---|
-| Stock market today: Dow rallies 1,500 points, S&P 500 and Nasdaq gain after Democrats win control of Congress | Yahoo Finance | 2026-11-04 |
-| Micron Sinks 6% as Democratic Sweep Stokes Fears of an AI “Slowdown in Build” | TIKR | 2026-11-04 |
-| Micron Stock Faces a Memory Price Conundrum in the Wake of Democrat Success | Barrons.com | 2026-11-04 |
-| Cramer’s Blue Wave Call: “Apple Winner” as Slower Data Center Builds Ease the Memory Squeeze | TIKR | 2026-11-04 |
+| Stock market today: Dow surges 1,500 points, S&P 500 and Nasdaq rally following historic midterm election | Yahoo Finance | 2026-11-04 |
+| Prediction: Micron Stock Will Triple in 2027 | Motley Fool | 2026-11-04 |
+| 5 Cheapest AI Data Center Stocks to Buy According to Billionaires | Insider Monkey | 2026-11-04 |
+| Why Micron Stock Is Falling Today | Motley Fool | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $797.50; 52w high $1,213.18 (-34.26%); 52w low $201.14 (+296.49%) |
-| Trend | +5.81% vs SMA200, -17.96% vs SMA50, -12.84% vs SMA20 |
-| Momentum | RSI(14) 35.5 (neutral) |
+| Price vs 52-week range | Close $795.23; 52w high $1,213.18 (-34.45%); 52w low $201.14 (+295.36%) |
+| Trend | +5.51% vs SMA200, -18.19% vs SMA50, -13.08% vs SMA20 |
+| Momentum | RSI(14) 35.4 (neutral) |
 | Volatility | ATR(14) 50.65 (~6.4% of price); beta 2.40 |
-| Setup perspective | -34.26% from 52w high — base needs to rebuild. |
+| Setup perspective | -34.45% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -18.9% |
-| Month | -23.7% |
-| Quarter | -9.5% |
-| Half Y | +19.7% |
-| 1Y | +240.2% |
-| YTD | +153.0% |
+| Week | -19.1% |
+| Month | -23.9% |
+| Quarter | -9.8% |
+| Half Y | +19.3% |
+| 1Y | +239.2% |
+| YTD | +152.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 | Revenue (ttm) | $133.19B | Revenue growth 379.30% y/y |
 | Profitability | Gross 80.72%, operating 80.68%, net 63.80% | ROA 44.56%, ROE 88.26% |
 | Balance sheet | Cash $43.43B, debt $5.18B | Current ratio 3.31, debt/equity 3.74 |
-| Valuation | P/E 10.73, forward P/E 3.84, P/S 6.77, P/B 6.52 | EV/Sales 6.98, EV/EBITDA 8.54 |
+| Valuation | P/E 10.70, forward P/E 3.83, P/S 6.76, P/B 6.50 | EV/Sales 6.98, EV/EBITDA 8.54 |
 | Growth expectations | Earnings growth 1059.50%, EPS q/q 1077.80% | Analyst mean target $1,561.91 (45 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,21 +111,21 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $797.50 | EV/Sales | 6.98 |
-| Market cap | $902.31B | EV/EBITDA | 8.54 |
+| Price | $795.23 | EV/Sales | 6.98 |
+| Market cap | $899.74B | EV/EBITDA | 8.54 |
 | Beta | 2.40 | Gross margin | 80.72% |
-| RSI(14) | 35.5 | Operating margin | 80.68% |
+| RSI(14) | 35.4 | Operating margin | 80.68% |
 | ATR(14) | 50.65 | Profit margin | 63.80% |
-| SMA20 dist | -12.84% | ROA | 44.56% |
-| SMA50 dist | -17.96% | ROE | 88.26% |
-| SMA200 dist | +5.81% | Revenue (ttm) | $133.19B |
+| SMA20 dist | -13.08% | ROA | 44.56% |
+| SMA50 dist | -18.19% | ROE | 88.26% |
+| SMA200 dist | +5.51% | Revenue (ttm) | $133.19B |
 | 52W high | $1,213.18 | Revenue growth y/y | 379.30% |
 | 52W low | $201.14 | Inst. ownership | 80.00% |
-| P/E (ttm) | 10.73 | Insider ownership | 0.24% |
-| Forward P/E | 3.84 | Short float | 2.00% |
+| P/E (ttm) | 10.70 | Insider ownership | 0.24% |
+| Forward P/E | 3.83 | Short float | 2.00% |
 | PEG (trailing) | 0.16 | Avg volume | 26,940,115 |
-| P/S | 6.77 | Employees | 61,000 |
-| P/B | 6.52 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/S | 6.76 | Employees | 61,000 |
+| P/B | 6.50 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

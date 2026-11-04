@@ -4,8 +4,8 @@ Signed file: `AVGO.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $326.07 (2026-11-04, ~15-min delayed) |
-| Market cap | $1.56T |
+| Current price | $325.48 (2026-11-04, ~15-min delayed) |
+| Market cap | $1.55T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `AVGO.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-11.01%) with negative half-year (-23.10%). |
-| Fresh setup quality | Poor / broken | -32.06% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-11.18%) with negative half-year (-23.24%). |
+| Fresh setup quality | Poor / broken | -32.18% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 42.94%, revenue growth 85.50%. |
-| Value attractiveness | Reasonable | Forward P/E 16.76, EV/Sales 18.19. |
+| Value attractiveness | Reasonable | Forward P/E 16.72, EV/Sales 18.19. |
 | Risk level | Elevated | Beta 1.51, ATR 3.9% of price, short float 1.14%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -36,30 +36,30 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| 5 Cheapest AI Data Center Stocks to Buy According to Billionaires | Insider Monkey | 2026-11-04 |
 | Is Broadcom Stock a Buy Now? | Motley Fool | 2026-11-04 |
 | Broadcom Stocks Decline 1.49% as $63 Billion AI Financing Carries Residual-Value Risk | GuruFocus.com | 2026-11-04 |
 | Butterfly Trade Helps Investors Find A Nugget In This Sagging Stock | Investor's Business Daily | 2026-11-04 |
-| Credo Stock Dips 27% in the Past Month: What Should Investors Do Next? | Zacks | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $326.07; 52w high $479.94 (-32.06%); 52w low $292.41 (+11.51%) |
-| Trend | -11.01% vs SMA200, -6.97% vs SMA50, -3.81% vs SMA20 |
-| Momentum | RSI(14) 42.3 (neutral) |
+| Price vs 52-week range | Close $325.48; 52w high $479.94 (-32.18%); 52w low $292.41 (+11.31%) |
+| Trend | -11.18% vs SMA200, -7.14% vs SMA50, -3.97% vs SMA20 |
+| Momentum | RSI(14) 42.1 (neutral) |
 | Volatility | ATR(14) 12.58 (~3.9% of price); beta 1.51 |
-| Setup perspective | -32.06% from 52w high — base needs to rebuild. |
+| Setup perspective | -32.18% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -7.3% |
-| Month | -13.2% |
-| Quarter | -22.3% |
-| Half Y | -23.1% |
-| 1Y | -9.4% |
-| YTD | -5.7% |
+| Week | -7.5% |
+| Month | -13.4% |
+| Quarter | -22.5% |
+| Half Y | -23.2% |
+| 1Y | -9.6% |
+| YTD | -5.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $89.10B | Revenue growth 85.50% y/y |
 | Profitability | Gross 75.52%, operating 54.31%, net 42.94% | ROA 15.37%, ROE 44.25% |
 | Balance sheet | Cash $23.98B, debt $59.42B | Current ratio 2.50, debt/equity 59.60 |
-| Valuation | P/E 41.66, forward P/E 16.76, P/S 17.47, P/B 15.62 | EV/Sales 18.19, EV/EBITDA 31.02 |
+| Valuation | P/E 41.57, forward P/E 16.72, P/S 17.44, P/B 15.59 | EV/Sales 18.19, EV/EBITDA 31.02 |
 | Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $526.81 (48 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,21 +111,21 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $326.07 | EV/Sales | 18.19 |
-| Market cap | $1.56T | EV/EBITDA | 31.02 |
+| Price | $325.48 | EV/Sales | 18.19 |
+| Market cap | $1.55T | EV/EBITDA | 31.02 |
 | Beta | 1.51 | Gross margin | 75.52% |
-| RSI(14) | 42.3 | Operating margin | 54.31% |
+| RSI(14) | 42.1 | Operating margin | 54.31% |
 | ATR(14) | 12.58 | Profit margin | 42.94% |
-| SMA20 dist | -3.81% | ROA | 15.37% |
-| SMA50 dist | -6.97% | ROE | 44.25% |
-| SMA200 dist | -11.01% | Revenue (ttm) | $89.10B |
+| SMA20 dist | -3.97% | ROA | 15.37% |
+| SMA50 dist | -7.14% | ROE | 44.25% |
+| SMA200 dist | -11.18% | Revenue (ttm) | $89.10B |
 | 52W high | $479.94 | Revenue growth y/y | 85.50% |
 | 52W low | $292.41 | Inst. ownership | 79.81% |
-| P/E (ttm) | 41.66 | Insider ownership | 1.92% |
-| Forward P/E | 16.76 | Short float | 1.14% |
+| P/E (ttm) | 41.57 | Insider ownership | 1.92% |
+| Forward P/E | 16.72 | Short float | 1.14% |
 | PEG (trailing) | 0.33 | Avg volume | 22,881,809 |
-| P/S | 17.47 | Employees | 33,000 |
-| P/B | 15.62 | Analyst rec (1=buy..5=sell) | 1.2 |
+| P/S | 17.44 | Employees | 33,000 |
+| P/B | 15.59 | Analyst rec (1=buy..5=sell) | 1.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

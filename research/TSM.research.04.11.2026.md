@@ -4,7 +4,7 @@ Signed file: `TSM.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $395.71 (2026-11-04, ~15-min delayed) |
+| Current price | $395.75 (2026-11-04, ~15-min delayed) |
 | Market cap | $2.05T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,7 +15,7 @@ Signed file: `TSM.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-0.98%) with negative half-year (-5.20%). |
+| Technical momentum | Low | Below SMA200 (-0.97%) with negative half-year (-5.19%). |
 | Fresh setup quality | Moderate / wait | -18.54% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 51.12%, revenue growth 50.90%. |
 | Value attractiveness | Reasonable | Forward P/E 16.89, EV/Sales 2.75. |
@@ -44,8 +44,8 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $395.71; 52w high $485.80 (-18.54%); 52w low $272.18 (+45.39%) |
-| Trend | -0.98% vs SMA200, -8.75% vs SMA50, -7.02% vs SMA20 |
+| Price vs 52-week range | Close $395.75; 52w high $485.80 (-18.54%); 52w low $272.18 (+45.40%) |
+| Trend | -0.97% vs SMA200, -8.74% vs SMA50, -7.01% vs SMA20 |
 | Momentum | RSI(14) 36.4 (neutral) |
 | Volatility | ATR(14) 13.82 (~3.5% of price); beta 1.23 |
 | Setup perspective | -18.54% from 52w high; no clean fresh pivot by default. |
@@ -55,7 +55,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Window | Return |
 |---|---|
 | Week | -10.0% |
-| Month | -18.0% |
+| Month | -17.9% |
 | Quarter | -5.1% |
 | Half Y | -5.2% |
 | 1Y | +31.2% |
@@ -68,7 +68,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.94T | Revenue growth 50.90% y/y |
 | Profitability | Gross 65.85%, operating 58.66%, net 51.12% | ROA 20.58%, ROE 41.85% |
 | Balance sheet | Cash $4.02T, debt $818.38B | Current ratio 2.50, debt/equity 11.62 |
-| Valuation | P/E 25.65, forward P/E 16.89, P/S 0.42, P/B 75.52 | EV/Sales 2.75, EV/EBITDA 3.77 |
+| Valuation | P/E 25.65, forward P/E 16.89, P/S 0.42, P/B 75.53 | EV/Sales 2.75, EV/EBITDA 3.77 |
 | Growth expectations | Earnings growth 68.70%, EPS q/q 68.70% | Analyst mean target $586.69 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $395.71 | EV/Sales | 2.75 |
+| Price | $395.75 | EV/Sales | 2.75 |
 | Market cap | $2.05T | EV/EBITDA | 3.77 |
 | Beta | 1.23 | Gross margin | 65.85% |
 | RSI(14) | 36.4 | Operating margin | 58.66% |
 | ATR(14) | 13.82 | Profit margin | 51.12% |
-| SMA20 dist | -7.02% | ROA | 20.58% |
-| SMA50 dist | -8.75% | ROE | 41.85% |
-| SMA200 dist | -0.98% | Revenue (ttm) | $4.94T |
+| SMA20 dist | -7.01% | ROA | 20.58% |
+| SMA50 dist | -8.74% | ROE | 41.85% |
+| SMA200 dist | -0.97% | Revenue (ttm) | $4.94T |
 | 52W high | $485.80 | Revenue growth y/y | 50.90% |
 | 52W low | $272.18 | Inst. ownership | 15.50% |
 | P/E (ttm) | 25.65 | Insider ownership | 0.01% |
 | Forward P/E | 16.89 | Short float | 0.61% |
 | PEG (trailing) | 0.73 | Avg volume | 10,475,817 |
 | P/S | 0.42 | Employees | 76,907 |
-| P/B | 75.52 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 75.53 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

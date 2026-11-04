@@ -4,8 +4,8 @@ Signed file: `INTC.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $58.01 (2026-11-04, ~15-min delayed) |
-| Market cap | $308.27B |
+| Current price | $58.27 (2026-11-04, ~15-min delayed) |
+| Market cap | $309.71B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `INTC.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-33.36%) with negative half-year (-48.67%). |
-| Fresh setup quality | Poor / broken | -58.84% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-33.05%) with negative half-year (-48.44%). |
+| Fresh setup quality | Poor / broken | -58.66% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-20.09%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 32.25, EV/Sales 5.59. |
-| Risk level | High | Beta 2.43, ATR 11.1% of price, short float 2.80%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 32.40, EV/Sales 5.59. |
+| Risk level | High | Beta 2.43, ATR 11.0% of price, short float 2.80%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
 
@@ -37,29 +37,29 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | What sets AMD data centers apart as Intel stock keeps sliding? | Yahoo Finance Video | 2026-11-04 |
+| INTC Stock Dips Even After CEO Lip-Bu Tan Buys $9.7M Worth Of Intel Shares | Stocktwits | 2026-11-04 |
+| Goldman Sachs’ $675 Target Says AMD’s Selloff Went Too Far | TIKR | 2026-11-04 |
 | Strategy Gains 7% as Bitcoin Rallies After Midterms, CEO Touts “Bitcoin Capital Cycle” | TIKR | 2026-11-04 |
-| AMD Stock Rebounds. Is Its AI Edge Built to Last? | Motley Fool | 2026-11-04 |
-| Micron Stock Faces a Memory Price Conundrum in the Wake of Democrat Success | Barrons.com | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $58.01; 52w high $140.94 (-58.84%); 52w low $33.62 (+72.53%) |
-| Trend | -33.36% vs SMA200, -41.63% vs SMA50, -34.25% vs SMA20 |
-| Momentum | RSI(14) 22.7 (oversold) |
-| Volatility | ATR(14) 6.42 (~11.1% of price); beta 2.43 |
-| Setup perspective | -58.84% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $58.27; 52w high $140.94 (-58.66%); 52w low $33.62 (+73.32%) |
+| Trend | -33.05% vs SMA200, -41.37% vs SMA50, -33.96% vs SMA20 |
+| Momentum | RSI(14) 22.8 (oversold) |
+| Volatility | ATR(14) 6.42 (~11.0% of price); beta 2.43 |
+| Setup perspective | -58.66% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -39.3% |
-| Month | -48.4% |
-| Quarter | -41.9% |
-| Half Y | -48.7% |
-| 1Y | +46.8% |
-| YTD | +47.3% |
+| Week | -39.0% |
+| Month | -48.2% |
+| Quarter | -41.6% |
+| Half Y | -48.4% |
+| 1Y | +47.5% |
+| YTD | +48.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $59.89B | Revenue growth 20.90% y/y |
 | Profitability | Gross 40.15%, operating 15.60%, net -20.09% | ROA 1.78%, ROE -9.62% |
 | Balance sheet | Cash $54.00B, debt $50.13B | Current ratio 2.21, debt/equity 38.11 |
-| Valuation | P/E —, forward P/E 32.25, P/S 5.15, P/B 2.68 | EV/Sales 5.59, EV/EBITDA 17.49 |
+| Valuation | P/E —, forward P/E 32.40, P/S 5.17, P/B 2.69 | EV/Sales 5.59, EV/EBITDA 17.49 |
 | Growth expectations | Earnings growth -32.70%, EPS q/q -18.30% | Analyst mean target $92.72 (43 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Primecap Management Company | 75,250,958 | 1.42% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 32.25, EV/Sales 5.59. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.43, ATR 11.1% of price, short float 2.80%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 32.40, EV/Sales 5.59. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.43, ATR 11.0% of price, short float 2.80%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -113,21 +113,21 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $58.01 | EV/Sales | 5.59 |
-| Market cap | $308.27B | EV/EBITDA | 17.49 |
+| Price | $58.27 | EV/Sales | 5.59 |
+| Market cap | $309.71B | EV/EBITDA | 17.49 |
 | Beta | 2.43 | Gross margin | 40.15% |
-| RSI(14) | 22.7 | Operating margin | 15.60% |
+| RSI(14) | 22.8 | Operating margin | 15.60% |
 | ATR(14) | 6.42 | Profit margin | -20.09% |
-| SMA20 dist | -34.25% | ROA | 1.78% |
-| SMA50 dist | -41.63% | ROE | -9.62% |
-| SMA200 dist | -33.36% | Revenue (ttm) | $59.89B |
+| SMA20 dist | -33.96% | ROA | 1.78% |
+| SMA50 dist | -41.37% | ROE | -9.62% |
+| SMA200 dist | -33.05% | Revenue (ttm) | $59.89B |
 | 52W high | $140.94 | Revenue growth y/y | 20.90% |
 | 52W low | $33.62 | Inst. ownership | 62.82% |
 | P/E (ttm) | — | Insider ownership | 13.91% |
-| Forward P/E | 32.25 | Short float | 2.80% |
+| Forward P/E | 32.40 | Short float | 2.80% |
 | PEG (trailing) | — | Avg volume | 110,128,428 |
-| P/S | 5.15 | Employees | 81,100 |
-| P/B | 2.68 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/S | 5.17 | Employees | 81,100 |
+| P/B | 2.69 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

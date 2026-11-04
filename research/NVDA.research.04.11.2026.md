@@ -4,7 +4,7 @@ Signed file: `NVDA.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $202.44 (2026-11-04, ~15-min delayed) |
+| Current price | $202.41 (2026-11-04, ~15-min delayed) |
 | Market cap | $4.89T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,8 +15,8 @@ Signed file: `NVDA.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-0.96%) with negative half-year (-2.37%). |
-| Fresh setup quality | Moderate / wait | -15.38% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-0.97%) with negative half-year (-2.39%). |
+| Fresh setup quality | Moderate / wait | -15.39% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 63.66%, revenue growth 105.90%. |
 | Value attractiveness | Reasonable | Forward P/E 12.72, EV/Sales 16.36. |
 | Risk level | High | Beta 2.25, ATR 3.2% of price, short float 1.30%. |
@@ -37,18 +37,18 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Headline | Source | Date |
 |---|---|---|
 | Why Navitas Semiconductor Stock Rocketed Higher Today | Motley Fool | 2026-11-04 |
+| AMD’s Data Center Sales Nearly Doubled, but Its Own Stock Rally Just Cost It $1.1 Billion | TIKR | 2026-11-04 |
 | Lululemon Stock Is Down 48% in 2026. Is It a Buy Before 2027? | Motley Fool | 2026-11-04 |
 | Ford's Q3 Sales Slipped. Here's the Silver Lining: Customers Are Splurging on Fancy Trims. | Motley Fool | 2026-11-04 |
-| Can First Solar Stock Jump 50%? | Trefis | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $202.44; 52w high $239.24 (-15.38%); 52w low $164.79 (+22.84%) |
-| Trend | -0.96% vs SMA200, -8.48% vs SMA50, -6.38% vs SMA20 |
+| Price vs 52-week range | Close $202.41; 52w high $239.24 (-15.39%); 52w low $164.79 (+22.83%) |
+| Trend | -0.97% vs SMA200, -8.49% vs SMA50, -6.39% vs SMA20 |
 | Momentum | RSI(14) 36.0 (neutral) |
 | Volatility | ATR(14) 6.38 (~3.2% of price); beta 2.25 |
-| Setup perspective | -15.38% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -15.39% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -68,7 +68,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $302.97B | Revenue growth 105.90% y/y |
 | Profitability | Gross 74.67%, operating 66.24%, net 63.66% | ROA 53.57%, ROE 117.21% |
 | Balance sheet | Cash $62.47B, debt $38.86B | Current ratio 4.59, debt/equity 16.97 |
-| Valuation | P/E 25.59, forward P/E 12.72, P/S 16.13, P/B 21.35 | EV/Sales 16.36, EV/EBITDA 24.63 |
+| Valuation | P/E 25.59, forward P/E 12.72, P/S 16.13, P/B 21.34 | EV/Sales 16.36, EV/EBITDA 24.63 |
 | Growth expectations | Earnings growth 127.80%, EPS q/q 125.90% | Analyst mean target $327.14 (58 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $202.44 | EV/Sales | 16.36 |
+| Price | $202.41 | EV/Sales | 16.36 |
 | Market cap | $4.89T | EV/EBITDA | 24.63 |
 | Beta | 2.25 | Gross margin | 74.67% |
 | RSI(14) | 36.0 | Operating margin | 66.24% |
 | ATR(14) | 6.38 | Profit margin | 63.66% |
-| SMA20 dist | -6.38% | ROA | 53.57% |
-| SMA50 dist | -8.48% | ROE | 117.21% |
-| SMA200 dist | -0.96% | Revenue (ttm) | $302.97B |
+| SMA20 dist | -6.39% | ROA | 53.57% |
+| SMA50 dist | -8.49% | ROE | 117.21% |
+| SMA200 dist | -0.97% | Revenue (ttm) | $302.97B |
 | 52W high | $239.24 | Revenue growth y/y | 105.90% |
 | 52W low | $164.79 | Inst. ownership | 71.50% |
 | P/E (ttm) | 25.59 | Insider ownership | 4.01% |
 | Forward P/E | 12.72 | Short float | 1.30% |
 | PEG (trailing) | 0.25 | Avg volume | 113,306,284 |
 | P/S | 16.13 | Employees | 42,000 |
-| P/B | 21.35 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/B | 21.34 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,7 +4,7 @@ Signed file: `NXPI.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $264.47 (2026-11-04, ~15-min delayed) |
+| Current price | $264.48 (2026-11-04, ~15-min delayed) |
 | Market cap | $66.66B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,7 +15,7 @@ Signed file: `NXPI.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +27.92%; price +7.77% vs SMA200. |
+| Technical momentum | Moderate | 1Y +27.93%; price +7.77% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -19.87% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 23.39%, revenue growth 19.30%. |
 | Value attractiveness | Reasonable | Forward P/E 14.42, EV/Sales 5.34. |
@@ -44,7 +44,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $264.47; 52w high $330.06 (-19.87%); 52w low $180.99 (+46.12%) |
+| Price vs 52-week range | Close $264.48; 52w high $330.06 (-19.87%); 52w low $180.99 (+46.13%) |
 | Trend | +7.77% vs SMA200, +12.58% vs SMA50, +9.39% vs SMA20 |
 | Momentum | RSI(14) 65.5 (neutral) |
 | Volatility | ATR(14) 10.88 (~4.1% of price); beta 1.86 |
@@ -110,7 +110,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $264.47 | EV/Sales | 5.34 |
+| Price | $264.48 | EV/Sales | 5.34 |
 | Market cap | $66.66B | EV/EBITDA | 13.67 |
 | Beta | 1.86 | Gross margin | 56.46% |
 | RSI(14) | 65.5 | Operating margin | 32.30% |

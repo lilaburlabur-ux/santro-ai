@@ -4,8 +4,8 @@ Signed file: `ARM.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $191.18 (2026-11-04, ~15-min delayed) |
-| Market cap | $204.18B |
+| Current price | $192.27 (2026-11-04, ~15-min delayed) |
+| Market cap | $205.35B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: low (expensive), risk: high. |
@@ -15,11 +15,11 @@ Signed file: `ARM.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-16.98%) with negative half-year (-19.44%). |
-| Fresh setup quality | Poor / broken | -56.50% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-16.51%) with negative half-year (-18.97%). |
+| Fresh setup quality | Poor / broken | -56.25% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 20.25%, revenue growth 22.40%. |
-| Value attractiveness | Low (expensive) | Forward P/E 62.52, EV/Sales 41.28. |
-| Risk level | High | Beta 3.94, ATR 7.9% of price, short float 12.19%. |
+| Value attractiveness | Low (expensive) | Forward P/E 62.88, EV/Sales 41.28. |
+| Risk level | High | Beta 3.94, ATR 7.8% of price, short float 12.19%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: low (expensive), risk: high.
 
@@ -36,30 +36,30 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
+| Arm Stock Has Crashed 37%. Is It a Better Buy Than Qualcomm? | 24/7 Wall St. | 2026-11-04 |
 | Arm Stocks Move Lower as Tonight's Earnings Face a $1.38 Billion Test | GuruFocus.com | 2026-11-04 |
 | ARM Holdings earnings setup: Key item to watch for this oversold stock | Investing.com | 2026-11-04 |
 | US Equity Futures Rise Pre-Bell as Traders Assess Implications of Democrat Win in US Midterm Elections | MT Newswires | 2026-11-04 |
-| Is Upcoming Earnings Altering The Investment Case For Arm Stock (ARM)? | Simply Wall St. | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $191.18; 52w high $439.46 (-56.50%); 52w low $104.55 (+82.86%) |
-| Trend | -16.98% vs SMA200, -25.34% vs SMA50, -16.33% vs SMA20 |
-| Momentum | RSI(14) 32.5 (neutral) |
-| Volatility | ATR(14) 15.07 (~7.9% of price); beta 3.94 |
-| Setup perspective | -56.50% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $192.27; 52w high $439.46 (-56.25%); 52w low $104.55 (+83.91%) |
+| Trend | -16.51% vs SMA200, -24.92% vs SMA50, -15.87% vs SMA20 |
+| Momentum | RSI(14) 32.7 (neutral) |
+| Volatility | ATR(14) 15.07 (~7.8% of price); beta 3.94 |
+| Setup perspective | -56.25% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -19.0% |
-| Month | -36.8% |
-| Quarter | -33.3% |
-| Half Y | -19.4% |
-| 1Y | +13.3% |
-| YTD | +66.6% |
+| Week | -18.5% |
+| Month | -36.5% |
+| Quarter | -32.9% |
+| Half Y | -19.0% |
+| 1Y | +14.0% |
+| YTD | +67.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Revenue (ttm) | $5.16B | Revenue growth 22.40% y/y |
 | Profitability | Gross 97.54%, operating 7.60%, net 20.25% | ROA 5.42%, ROE 13.35% |
 | Balance sheet | Cash $3.89B, debt $485.00M | Current ratio 5.25, debt/equity 5.62 |
-| Valuation | P/E 197.09, forward P/E 62.52, P/S 39.60, P/B 23.66 | EV/Sales 41.28, EV/EBITDA 200.11 |
+| Valuation | P/E 198.22, forward P/E 62.88, P/S 39.83, P/B 23.79 | EV/Sales 41.28, EV/EBITDA 200.11 |
 | Growth expectations | Earnings growth 108.30%, EPS q/q 107.70% | Analyst mean target $290.70 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,8 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Capital International Investors | 2,050,241 | 0.19% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 62.52, EV/Sales 41.28. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 3.94, ATR 7.9% of price, short float 12.19%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 62.88, EV/Sales 41.28. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 3.94, ATR 7.8% of price, short float 12.19%. Size positions accordingly.
 - **Short interest risk:** short float 12.19% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -113,21 +113,21 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $191.18 | EV/Sales | 41.28 |
-| Market cap | $204.18B | EV/EBITDA | 200.11 |
+| Price | $192.27 | EV/Sales | 41.28 |
+| Market cap | $205.35B | EV/EBITDA | 200.11 |
 | Beta | 3.94 | Gross margin | 97.54% |
-| RSI(14) | 32.5 | Operating margin | 7.60% |
+| RSI(14) | 32.7 | Operating margin | 7.60% |
 | ATR(14) | 15.07 | Profit margin | 20.25% |
-| SMA20 dist | -16.33% | ROA | 5.42% |
-| SMA50 dist | -25.34% | ROE | 13.35% |
-| SMA200 dist | -16.98% | Revenue (ttm) | $5.16B |
+| SMA20 dist | -15.87% | ROA | 5.42% |
+| SMA50 dist | -24.92% | ROE | 13.35% |
+| SMA200 dist | -16.51% | Revenue (ttm) | $5.16B |
 | 52W high | $439.46 | Revenue growth y/y | 22.40% |
 | 52W low | $104.55 | Inst. ownership | 96.30% |
-| P/E (ttm) | 197.09 | Insider ownership | 0.07% |
-| Forward P/E | 62.52 | Short float | 12.19% |
+| P/E (ttm) | 198.22 | Insider ownership | 0.07% |
+| Forward P/E | 62.88 | Short float | 12.19% |
 | PEG (trailing) | 1.62 | Avg volume | 4,798,664 |
-| P/S | 39.60 | Employees | 9,584 |
-| P/B | 23.66 | Analyst rec (1=buy..5=sell) | 2.0 |
+| P/S | 39.83 | Employees | 9,584 |
+| P/B | 23.79 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

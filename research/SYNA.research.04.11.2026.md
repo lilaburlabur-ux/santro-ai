@@ -4,7 +4,7 @@ Signed file: `SYNA.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $117.59 (2026-11-04, ~15-min delayed) |
+| Current price | $117.53 (2026-11-04, ~15-min delayed) |
 | Market cap | $4.67B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,10 +15,10 @@ Signed file: `SYNA.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +65.57%; price +13.92% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -20.32% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +65.49%; price +13.86% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -20.36% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-41.00%). |
-| Value attractiveness | Reasonable | Forward P/E 17.88, EV/Sales 4.20. |
+| Value attractiveness | Reasonable | Forward P/E 17.87, EV/Sales 4.20. |
 | Risk level | High | Beta 2.02, ATR 1.5% of price, short float 9.27%. |
 
 **Bottom line:** High technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -44,22 +44,22 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $117.59; 52w high $147.57 (-20.32%); 52w low $58.52 (+100.94%) |
-| Trend | +13.92% vs SMA200, +9.71% vs SMA50, -0.28% vs SMA20 |
-| Momentum | RSI(14) 61.5 (neutral) |
+| Price vs 52-week range | Close $117.53; 52w high $147.57 (-20.36%); 52w low $58.52 (+100.84%) |
+| Trend | +13.86% vs SMA200, +9.65% vs SMA50, -0.32% vs SMA20 |
+| Momentum | RSI(14) 61.3 (neutral) |
 | Volatility | ATR(14) 1.79 (~1.5% of price); beta 2.02 |
-| Setup perspective | -20.32% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -20.36% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
 | Week | -0.8% |
-| Month | -1.5% |
-| Quarter | +15.2% |
+| Month | -1.6% |
+| Quarter | +15.1% |
 | Half Y | +9.6% |
-| 1Y | +65.6% |
-| YTD | +55.3% |
+| 1Y | +65.5% |
+| YTD | +55.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Revenue (ttm) | $1.20B | Revenue growth 8.90% y/y |
 | Profitability | Gross 44.72%, operating -2.79%, net -41.00% | ROA -1.52%, ROE -42.23% |
 | Balance sheet | Cash $442.50M, debt $876.80M | Current ratio 1.12, debt/equity 94.33 |
-| Valuation | P/E —, forward P/E 17.88, P/S 3.90, P/B 4.94 | EV/Sales 4.20, EV/EBITDA 54.16 |
+| Valuation | P/E —, forward P/E 17.87, P/S 3.90, P/B 4.94 | EV/Sales 4.20, EV/EBITDA 54.16 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $129.33 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,18 +112,18 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $117.59 | EV/Sales | 4.20 |
+| Price | $117.53 | EV/Sales | 4.20 |
 | Market cap | $4.67B | EV/EBITDA | 54.16 |
 | Beta | 2.02 | Gross margin | 44.72% |
-| RSI(14) | 61.5 | Operating margin | -2.79% |
+| RSI(14) | 61.3 | Operating margin | -2.79% |
 | ATR(14) | 1.79 | Profit margin | -41.00% |
-| SMA20 dist | -0.28% | ROA | -1.52% |
-| SMA50 dist | +9.71% | ROE | -42.23% |
-| SMA200 dist | +13.92% | Revenue (ttm) | $1.20B |
+| SMA20 dist | -0.32% | ROA | -1.52% |
+| SMA50 dist | +9.65% | ROE | -42.23% |
+| SMA200 dist | +13.86% | Revenue (ttm) | $1.20B |
 | 52W high | $147.57 | Revenue growth y/y | 8.90% |
 | 52W low | $58.52 | Inst. ownership | 106.31% |
 | P/E (ttm) | — | Insider ownership | 1.05% |
-| Forward P/E | 17.88 | Short float | 9.27% |
+| Forward P/E | 17.87 | Short float | 9.27% |
 | PEG (trailing) | — | Avg volume | 919,609 |
 | P/S | 3.90 | Employees | 1,700 |
 | P/B | 4.94 | Analyst rec (1=buy..5=sell) | 2.8 |

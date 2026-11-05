@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-05T08:39:31+00:00",
+  "as_of": "2026-11-05T08:54:42+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -121,19 +121,19 @@
   },
   {
    "rank": 8,
-   "ticker": "MRVL",
-   "company": "Marvell Technology Inc",
-   "move_pct": -7.08,
-   "price": 159.8,
-   "volume": 46352800,
+   "ticker": "UPST",
+   "company": "Upstart Holdings Inc",
+   "move_pct": 9.41,
+   "price": 23.38,
+   "volume": 7821300,
    "volume_vs_avg": "~2x",
-   "heat_score": 50,
-   "direction": "down",
-   "why": "The Zacks Analyst Blog Highlights Microsoft, SpaceX, Marvell Technology and Preformed Line Products",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-microsoft-065000129.html",
-   "published": "2026-11-05T06:50:00+00:00",
-   "sector": "AI Chips & Compute"
+   "heat_score": 67,
+   "direction": "up",
+   "why": "Upstart Stock Jumps On Earnings Beat As Full Year Outlook Is Cut",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/upstart-stock-jumps-earnings-beat-081324610.html",
+   "published": "2026-11-05T08:13:24+00:00",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

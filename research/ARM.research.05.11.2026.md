@@ -4,24 +4,24 @@ Signed file: `ARM.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $191.80 (2026-11-05, ~15-min delayed) |
+| Current price | $nan (2026-11-05, ~15-min delayed) |
 | Market cap | $204.84B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Low technical momentum, strong fundamentals, value: low (expensive), risk: high. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-05.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-16.71%) with negative half-year (-19.17%). |
-| Fresh setup quality | Poor / broken | -56.36% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 20.25%, revenue growth 22.40%. |
 | Value attractiveness | Low (expensive) | Forward P/E 62.72, EV/Sales 39.19. |
-| Risk level | High | Beta 3.94, ATR 7.9% of price, short float 12.19%. |
+| Risk level | High | Beta 3.94, ATR nan% of price, short float 12.19%. |
 
-**Bottom line:** Low technical momentum, strong fundamentals, value: low (expensive), risk: high.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
-| Dow Jones Futures Rise After Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally. CoreWeave, SpaceX Skid. | Investor's Business Daily | 2026-11-05 |
+| Dow Jones Futures Rise, But Techs Tumble; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally | Investor's Business Daily | 2026-11-05 |
+| What ARM (ARM) Said on Its Q2 Earnings Call | MarketBeat | 2026-11-05 |
 | Arm (ARM) Stock Looks About Right After Its 254% Run | Simply Wall St. | 2026-11-05 |
 | Qualcomm’s Stock Falls After It Warns Chip Margins Are Getting Squeezed | Barrons.com | 2026-11-04 |
-| Arm Beats Quarterly Targets On Surging Data Center Business. But Arm Stock Falls. | Investor's Business Daily | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $191.80; 52w high $439.46 (-56.36%); 52w low $104.55 (+83.45%) |
-| Trend | -16.71% vs SMA200, -25.10% vs SMA50, -16.07% vs SMA20 |
-| Momentum | RSI(14) 32.6 (neutral) |
-| Volatility | ATR(14) 15.09 (~7.9% of price); beta 3.94 |
-| Setup perspective | -56.36% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $439.46 (+nan%); 52w low $104.55 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 35.4 (neutral) |
+| Volatility | ATR(14) 14.74 (~nan% of price); beta 3.94 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -18.7% |
-| Month | -36.6% |
-| Quarter | -33.1% |
-| Half Y | -19.2% |
-| 1Y | +13.7% |
-| YTD | +67.2% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -96,9 +96,8 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 62.72, EV/Sales 39.19. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 3.94, ATR 7.9% of price, short float 12.19%. Size positions accordingly.
+- **Volatility risk:** Beta 3.94, ATR nan% of price, short float 12.19%. Size positions accordingly.
 - **Short interest risk:** short float 12.19% can fuel squeezes both ways around news.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -113,14 +112,14 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $191.80 | EV/Sales | 39.19 |
+| Price | $nan | EV/Sales | 39.19 |
 | Market cap | $204.84B | EV/EBITDA | 189.97 |
 | Beta | 3.94 | Gross margin | 97.54% |
-| RSI(14) | 32.6 | Operating margin | 7.60% |
-| ATR(14) | 15.09 | Profit margin | 20.25% |
-| SMA20 dist | -16.07% | ROA | 5.42% |
-| SMA50 dist | -25.10% | ROE | 13.35% |
-| SMA200 dist | -16.71% | Revenue (ttm) | $5.16B |
+| RSI(14) | 35.4 | Operating margin | 7.60% |
+| ATR(14) | 14.74 | Profit margin | 20.25% |
+| SMA20 dist | +nan% | ROA | 5.42% |
+| SMA50 dist | +nan% | ROE | 13.35% |
+| SMA200 dist | +nan% | Revenue (ttm) | $5.16B |
 | 52W high | $439.46 | Revenue growth y/y | 22.40% |
 | 52W low | $104.55 | Inst. ownership | 96.30% |
 | P/E (ttm) | 197.73 | Insider ownership | 0.07% |
@@ -142,7 +141,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | 2026-07-30 | reit | Needham | Buy → Buy |
 
 ## 9. Conclusion
-ARM: Low momentum / strong fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+ARM: Moderate momentum / strong fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

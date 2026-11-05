@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-05T11:15:58+00:00",
-  "as_of_local": "2026-11-05 11:15:58 UTC",
+  "as_of_utc": "2026-11-05T11:21:00+00:00",
+  "as_of_local": "2026-11-05 11:21:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 4832539227905.273,
       "headlines": [
         {
+          "title": "Why one AI model won't rule the world: Fireworks AI CEO",
+          "url": "https://finance.yahoo.com/video/why-one-ai-model-wont-110000898.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-05T11:00:00Z"
+        },
+        {
           "title": "Invesco QQQ (QQQ) Buys $19.6 Million More NVIDIA on Tuesday",
           "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-qqq-buys-19-110535090.html",
           "publisher": "GuruFocus.com",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/proshares-ultra-p500-2x-shares-110520984.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-05T11:05:20Z"
-        },
-        {
-          "title": "Invesco NASDAQ 100 ETF (QQQM) Adds NVIDIA and Apple on Tuesday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-nasdaq-100-etf-qqqm-110516688.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-05T11:05:16Z"
         }
       ]
     },
@@ -181,10 +181,10 @@
       "market_cap": 204842128793.47296,
       "headlines": [
         {
-          "title": "Dow Jones Futures Rise, Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
+          "title": "Dow Jones Futures Rise As Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-elections-oil-apple-microsoft-amazon-buy-signals-coreweave-spacex-skid/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-05T11:05:42Z"
+          "published": "2026-11-05T11:11:18Z"
         },
         {
           "title": "Arm Stock Has an Apple and Android Problem",
@@ -454,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -8.13,
-          "price": 557.06,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -544,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -8.13,
-        "price": 557.06,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 80220.31,
-      "change_pct": -0.23
+      "price": 80309.96,
+      "change_pct": -0.12
     },
     {
       "label": "Gold",

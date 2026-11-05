@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T12:37:29+00:00",
-  "as_of_local": "2026-11-05 12:37:29 UTC",
+  "as_of_utc": "2026-11-05T12:42:34+00:00",
+  "as_of_local": "2026-11-05 12:42:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/video/why-one-ai-model-wont-110000898.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-05T11:00:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 395.75,
-      "previous_close": 404.8,
-      "change_pct": -2.24,
-      "market_cap": 2052547090644.75,
-      "headlines": [
-        {
-          "title": "Taiwan Semiconductor (TSM) Sees $146.2 Million in Net ETF Buying on Nov. 3",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-tsm-sees-146-110042936.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-05T11:00:42Z"
-        },
-        {
-          "title": "Better Foundry Stock: Taiwan Semiconductor vs. Intel",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/better-foundry-stock-taiwan-semiconductor-103500972.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-05T10:35:00Z"
-        },
-        {
-          "title": "The Zacks Analyst Blog Highlights Analog Devices, Taiwan Semiconductor Manufacturing, Texas Instruments and NVIDIA",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-analog-070000548.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T07:00:00Z"
         }
       ]
     },
@@ -122,7 +96,7 @@
       "price": 488.78,
       "previous_close": 483.9,
       "change_pct": 1.01,
-      "market_cap": 797921149035.9927,
+      "market_cap": 801641844541.7203,
       "headlines": [
         {
           "title": "When Should You Buy Intel Stock?",
@@ -221,10 +195,10 @@
           "published": "2026-11-04T17:33:20Z"
         },
         {
-          "title": "When Should You Buy Intel Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-intel-stock-120621720.html",
-          "publisher": "Trefis",
-          "published": "2026-11-05T12:06:21Z"
+          "title": "TSX futures edge higher amid post-midterms stock rotation",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsx-futures-edge-higher-amid-122612590.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-05T12:26:12Z"
         }
       ]
     },
@@ -243,10 +217,10 @@
           "published": "2026-11-05T12:03:00Z"
         },
         {
-          "title": "S&P 500 futures steady after midterm rally; Nasdaq lags on chip weakness",
+          "title": "Nasdaq futures slip on chip weakness; S&P 500 holds gains",
           "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-futures-steady-midterm-105838388.html",
           "publisher": "Reuters",
-          "published": "2026-11-05T10:58:38Z"
+          "published": "2026-11-05T12:41:24Z"
         },
         {
           "title": "Is NVIDIA Stock A Buy Right Now?",
@@ -290,7 +264,7 @@
       "price": 107.25,
       "previous_close": 105.92,
       "change_pct": 1.26,
-      "market_cap": 15232746672.0,
+      "market_cap": 15253705359.75,
       "headlines": [
         {
           "title": "ETFs Are Net Sellers of Lattice Semiconductor (LSCC) on Tuesday",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 79816.14,
-      "change_pct": -0.73
+      "price": 79584.32,
+      "change_pct": -1.02
     },
     {
       "label": "Gold",
-      "price": 4135.5,
-      "change_pct": 1.53
+      "price": 4135.1,
+      "change_pct": 1.52
     },
     {
       "label": "Nasdaq100",

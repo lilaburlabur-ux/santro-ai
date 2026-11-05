@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-05T14:05:01+00:00",
-  "as_of_local": "2026-11-05 14:05:01 UTC",
+  "as_of_utc": "2026-11-05T14:09:10+00:00",
+  "as_of_local": "2026-11-05 14:09:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVAV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -315,6 +313,34 @@
       ]
     },
     {
+      "symbol": "AVAV",
+      "name": "AeroVironment",
+      "price": 113.23,
+      "previous_close": 123.53,
+      "change_pct": -8.34,
+      "market_cap": 5754428258.061722,
+      "headlines": [
+        {
+          "title": "A $2.4 Billion Fund Bought These 3 Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-4-billion-fund-bought-120644063.html",
+          "publisher": "TIKR",
+          "published": "2026-11-05T12:06:44Z"
+        },
+        {
+          "title": "AeroVironment (AVAV) Could Be 19% Overvalued After Contract Bid Reopened",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-could-19-overvalued-221301252.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-04T22:13:01Z"
+        },
+        {
+          "title": "AeroVironment (AVAV) Stock Fair Value Edges Lower As Analysts Reassess Defense Funding Risks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-stock-fair-value-161157453.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-04T16:11:57Z"
+        }
+      ]
+    },
+    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 117.49,
@@ -419,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -7.91,
-          "price": 1037.4,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -509,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -7.91,
-        "price": 1037.4,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 79552.87,
-      "change_pct": -1.06
+      "price": 79477.0,
+      "change_pct": -1.15
     },
     {
       "label": "Gold",
-      "price": 4138.3,
-      "change_pct": 1.6
+      "price": 4136.0,
+      "change_pct": 1.55
     },
     {
       "label": "Nasdaq100",

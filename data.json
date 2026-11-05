@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T22:47:44+00:00",
-  "as_of_local": "2026-11-05 22:47:44 UTC",
+  "as_of_utc": "2026-11-05T22:51:58+00:00",
+  "as_of_local": "2026-11-05 22:51:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/video/qualcomm-profits-hit-by-supply-costs-us-jobs-data-and-a-return-of-the-bulls-after-the-midterms-144628233.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-05T14:46:28Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 133.55,
-      "previous_close": 159.8,
-      "change_pct": -16.43,
-      "market_cap": 120163736286.96756,
-      "headlines": [
-        {
-          "title": "What Insight Enterprises (NSIT) Said on Its Q3 Earnings Call",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/insight-enterprises-nsit-said-q3-221435091.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-05T22:14:35Z"
-        },
-        {
-          "title": "Why Marvell Stock Is Falling Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-stock-falling-today-200502073.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-05T20:05:02Z"
-        },
-        {
-          "title": "Marvell Just Dropped 49% in a Month: Is MRVL Stock Hopeless or Ready for a Rebound?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-just-dropped-49-month-200321691.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-05T20:03:21Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 75603.5,
-      "change_pct": -5.97
+      "price": 75575.79,
+      "change_pct": -6.01
     },
     {
       "label": "Gold",

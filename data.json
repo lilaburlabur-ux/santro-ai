@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-05T09:14:03+00:00",
-  "as_of_local": "2026-11-05 09:14:03 UTC",
+  "as_of_utc": "2026-11-05T09:19:15+00:00",
+  "as_of_local": "2026-11-05 09:19:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -115,6 +113,34 @@
           "url": "https://finance.yahoo.com/technology/articles/silvaco-group-q3-earnings-call-061424467.html",
           "publisher": "MarketBeat",
           "published": "2026-11-05T06:14:24Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 488.78,
+      "previous_close": 483.9,
+      "change_pct": 1.01,
+      "market_cap": 797921149035.9927,
+      "headlines": [
+        {
+          "title": "Market reaction to changes in Congress, AMD earnings, and where to find value in healthcare stocks",
+          "url": "https://finance.yahoo.com/video/market-reaction-to-changes-in-congress-amd-earnings-and-where-to-find-value-in-healthcare-stocks-185012443.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-04T18:50:12Z"
+        },
+        {
+          "title": "AI Roundup: AMD, Apple Results Puzzle Investors, Democrats\u2019 Midterm Win Weighs On Traders",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-roundup-amd-apple-results-084828692.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-05T08:48:28Z"
+        },
+        {
+          "title": "After an 11% tech sell-off, are AI valuations attractive again?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/11-tech-sell-off-ai-082806748.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-05T08:28:06Z"
         }
       ]
     },
@@ -559,13 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 80321.26,
-      "change_pct": -0.1
-    },
-    {
-      "label": "Gold",
-      "price": 4138.2,
-      "change_pct": 1.6
+      "price": 80259.0,
+      "change_pct": -0.18
     },
     {
       "label": "Nasdaq100",

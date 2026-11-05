@@ -1,11 +1,8 @@
 {
-  "as_of_utc": "2026-11-05T22:22:25+00:00",
-  "as_of_local": "2026-11-05 22:22:25 UTC",
+  "as_of_utc": "2026-11-05T22:26:23+00:00",
+  "as_of_local": "2026-11-05 22:26:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM",
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -240,6 +237,12 @@
       "market_cap": 120163736286.96756,
       "headlines": [
         {
+          "title": "What Insight Enterprises (NSIT) Said on Its Q3 Earnings Call",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/insight-enterprises-nsit-said-q3-221435091.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-05T22:14:35Z"
+        },
+        {
           "title": "Why Marvell Stock Is Falling Today",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-stock-falling-today-200502073.html",
           "publisher": "Motley Fool",
@@ -250,12 +253,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-just-dropped-49-month-200321691.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-05T20:03:21Z"
-        },
-        {
-          "title": "Equities Plunge in Tech-Led Sell-Off Amid Data Center Restriction Fears",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/equities-plunge-tech-led-sell-191442459.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-05T19:14:42Z"
         }
       ]
     },
@@ -412,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -17.46,
+          "price": 656.39,
           "currency": "USD"
         },
         {
@@ -457,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -16.25,
+          "price": 466.53,
           "currency": "USD"
         },
         {
@@ -502,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -17.46,
+        "price": 656.39,
         "currency": "USD"
       },
       {
@@ -547,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -16.25,
+        "price": 466.53,
         "currency": "USD"
       },
       {
@@ -588,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 75939.97,
-      "change_pct": -5.55
+      "price": 75828.03,
+      "change_pct": -5.69
     },
     {
       "label": "Gold",

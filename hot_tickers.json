@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-05T11:32:30+00:00",
+  "as_of": "2026-11-05T11:47:45+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "APP",
    "company": "Applovin Corp",
-   "move_pct": 17.55,
-   "price": 319.45,
+   "move_pct": 19.04,
+   "price": 323.5,
    "volume": 14115400,
    "volume_vs_avg": "~3x",
    "heat_score": 93,
@@ -43,16 +43,16 @@
    "rank": 3,
    "ticker": "QCOM",
    "company": "Qualcomm Inc",
-   "move_pct": -8.89,
-   "price": 157.8,
+   "move_pct": -8.77,
+   "price": 158.0,
    "volume": 22121200,
    "volume_vs_avg": "~2x",
    "heat_score": 66,
    "direction": "down",
-   "why": "Avantis U.S. Large Cap Value (AVLV) Adds Qualcomm and Texas Instruments on Nov. 3",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/avantis-u-large-cap-value-110523031.html",
-   "published": "2026-11-05T11:05:23+00:00",
+   "why": "Morgan Stanley Adjusts Price Target on QUALCOMM to $197 From $220",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-112727892.html",
+   "published": "2026-11-05T11:27:27+00:00",
    "sector": "AI Chips & Compute"
   },
   {

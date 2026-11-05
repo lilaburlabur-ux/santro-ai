@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-05T06:11:53+00:00",
-  "as_of_local": "2026-11-05 06:11:53 UTC",
+  "as_of_utc": "2026-11-05T06:26:53+00:00",
+  "as_of_local": "2026-11-05 06:26:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -153,12 +153,6 @@
       "market_cap": 309705052433.0139,
       "headlines": [
         {
-          "title": "What sets AMD data centers apart as Intel stock keeps sliding?",
-          "url": "https://finance.yahoo.com/video/what-sets-amd-data-centers-apart-as-intel-stock-keeps-sliding-141848435.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-04T14:18:48Z"
-        },
-        {
           "title": "AMD CEO issues a strong warning for the 2027 PC market",
           "url": "https://finance.yahoo.com/technology/articles/amd-ceo-issues-strong-warning-034700202.html",
           "publisher": "TheStreet",
@@ -169,6 +163,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-30-19-off-high-023505211.html",
           "publisher": "TIKR",
           "published": "2026-11-05T02:35:05Z"
+        },
+        {
+          "title": "5-star analyst resets Nvidia stock target after Intel crash",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-resets-nvidia-003700610.html",
+          "publisher": "TheStreet",
+          "published": "2026-11-05T00:37:00Z"
         }
       ]
     },
@@ -221,10 +221,10 @@
           "published": "2026-11-04T15:07:06Z"
         },
         {
-          "title": "Qualcomm Inc (QCOM) Q4 2026 Earnings Call Highlights: Record Automotive and Data Center Ramp ...",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-inc-qcom-q4-2026-051630325.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-05T05:16:30Z"
+          "title": "SpaceX Targets Wireless And AI Riches, Rocket Lab Nears 100 Launches \u2014 What\u2019s Moving Space Stocks",
+          "url": "https://finance.yahoo.com/technology/articles/spacex-targets-wireless-ai-riches-060717990.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-05T06:07:17Z"
         }
       ]
     },
@@ -290,7 +290,7 @@
       "price": 107.25,
       "previous_close": 105.92,
       "change_pct": 1.26,
-      "market_cap": 15202602665.25,
+      "market_cap": 15232746672.0,
       "headlines": [
         {
           "title": "What iShares A.I. Innovation ETF (BAI) Bought: Amazon Leads on Nov. 2",
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -9.96,
-          "price": 1257000.0,
+          "change_pct": -10.17,
+          "price": 1254000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -13.21,
-          "price": 9317.0,
+          "change_pct": -13.67,
+          "price": 9268.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -9.96,
-        "price": 1257000.0,
+        "change_pct": -10.17,
+        "price": 1254000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -13.21,
-        "price": 9317.0,
+        "change_pct": -13.67,
+        "price": 9268.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 80388.87,
-      "change_pct": 3.94
+      "price": 80439.64,
+      "change_pct": 4.0
     },
     {
       "label": "Gold",
-      "price": 4126.4,
-      "change_pct": 1.31
+      "price": 4136.6,
+      "change_pct": 1.56
     },
     {
       "label": "Nasdaq100",

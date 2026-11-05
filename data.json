@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T13:58:45+00:00",
-  "as_of_local": "2026-11-05 13:58:45 UTC",
+  "as_of_utc": "2026-11-05T14:03:50+00:00",
+  "as_of_local": "2026-11-05 14:03:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -69,6 +71,12 @@
       "market_cap": 1553721100904.864,
       "headlines": [
         {
+          "title": "Nvidia Just Dipped Below $200 for the First Time Since August",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-dipped-below-200-134906202.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-05T13:49:06Z"
+        },
+        {
           "title": "TSMC\u2019s AI Opportunity Is Expanding. Here\u2019s the Question That Matters for Its Stock Price",
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-ai-opportunity-expanding-matters-133337251.html",
           "publisher": "24/7 Wall St.",
@@ -79,12 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-amazon-google-stock-131300461.html",
           "publisher": "Trefis",
           "published": "2026-11-05T13:13:00Z"
-        },
-        {
-          "title": "Broadcom Stock Could Be Approaching a Major Turning Point. Here\u2019s the Price Target",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-could-approaching-major-130307410.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-05T13:03:07Z"
         }
       ]
     },
@@ -131,16 +133,16 @@
           "published": "2026-11-05T13:21:43Z"
         },
         {
+          "title": "Nvidia Just Dipped Below $200 for the First Time Since August",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-dipped-below-200-134906202.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-05T13:49:06Z"
+        },
+        {
           "title": "Buy, Sell Or Hold AMD Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-amd-stock-131308468.html",
           "publisher": "Trefis",
           "published": "2026-11-05T13:13:08Z"
-        },
-        {
-          "title": "Core Scientific Stock After Capacity Deal And Data Center Buyout",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/core-scientific-stock-capacity-deal-131026302.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-05T13:10:26Z"
         }
       ]
     },
@@ -309,34 +311,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-lattice-semiconductor-110255079.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-04T11:02:55Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 113.23,
-      "previous_close": 123.53,
-      "change_pct": -8.34,
-      "market_cap": 5754428258.061722,
-      "headlines": [
-        {
-          "title": "A $2.4 Billion Fund Bought These 3 Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-4-billion-fund-bought-120644063.html",
-          "publisher": "TIKR",
-          "published": "2026-11-05T12:06:44Z"
-        },
-        {
-          "title": "AeroVironment (AVAV) Could Be 19% Overvalued After Contract Bid Reopened",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-could-19-overvalued-221301252.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-04T22:13:01Z"
-        },
-        {
-          "title": "AeroVironment (AVAV) Stock Fair Value Edges Lower As Analysts Reassess Defense Funding Risks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-stock-fair-value-161157453.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-04T16:11:57Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 79509.39,
-      "change_pct": -1.11
+      "price": 79567.62,
+      "change_pct": -1.04
     },
     {
       "label": "Gold",
-      "price": 4134.9,
-      "change_pct": 1.52
+      "price": 4138.0,
+      "change_pct": 1.6
     },
     {
       "label": "Nasdaq100",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T14:24:37+00:00",
-  "as_of_local": "2026-11-05 14:24:37 UTC",
+  "as_of_utc": "2026-11-05T14:29:32+00:00",
+  "as_of_local": "2026-11-05 14:29:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -57,34 +59,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/better-foundry-stock-taiwan-semiconductor-103500972.html",
           "publisher": "Motley Fool",
           "published": "2026-11-05T10:35:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 325.48,
-      "previous_close": 332.13,
-      "change_pct": -2.0,
-      "market_cap": 1553721100904.864,
-      "headlines": [
-        {
-          "title": "Nvidia Just Dipped Below $200 for the First Time Since August",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-dipped-below-200-134906202.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-05T13:49:06Z"
-        },
-        {
-          "title": "TSMC\u2019s AI Opportunity Is Expanding. Here\u2019s the Question That Matters for Its Stock Price",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-ai-opportunity-expanding-matters-133337251.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-05T13:33:37Z"
-        },
-        {
-          "title": "Why Did Amazon And Google Stock Rise?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-amazon-google-stock-131300461.html",
-          "publisher": "Trefis",
-          "published": "2026-11-05T13:13:00Z"
         }
       ]
     },
@@ -579,14 +553,19 @@
   },
   "tape": [
     {
+      "label": "SPX",
+      "price": 7688.62,
+      "change_pct": 1.58
+    },
+    {
       "label": "BTC",
-      "price": 79308.25,
-      "change_pct": -1.36
+      "price": 79417.61,
+      "change_pct": -1.23
     },
     {
       "label": "Gold",
-      "price": 4132.9,
-      "change_pct": 1.47
+      "price": 4136.2,
+      "change_pct": 1.55
     },
     {
       "label": "Nasdaq100",

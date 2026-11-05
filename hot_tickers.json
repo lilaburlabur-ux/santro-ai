@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-05T21:53:39+00:00",
+  "as_of": "2026-11-05T21:56:57+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,22 +9,6 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "APP",
-   "company": "Applovin Corp",
-   "move_pct": 31.04,
-   "price": 356.1,
-   "volume": 22033083,
-   "volume_vs_avg": "~5x",
-   "heat_score": 99,
-   "direction": "up",
-   "why": "AppLovin stock soars after Q3 earnings, outlook beat",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/article/applovin-stock-soars-after-q3-earnings-outlook-beat-141507874.html",
-   "published": "2026-11-05T21:08:22+00:00",
-   "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 2,
    "ticker": "TER",
    "company": "Teradyne Inc",
    "move_pct": -15.24,
@@ -40,11 +24,11 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
-   "move_pct": -16.0,
-   "price": 410.57,
+   "move_pct": -15.75,
+   "price": 411.81,
    "volume": 69693186,
    "volume_vs_avg": "~3x",
    "heat_score": 93,
@@ -56,27 +40,11 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 4,
-   "ticker": "LRCX",
-   "company": "Lam Research Corp",
-   "move_pct": -16.36,
-   "price": 185.2,
-   "volume": 30989365,
-   "volume_vs_avg": "~3x",
-   "heat_score": 93,
-   "direction": "down",
-   "why": "Lam Research Corporation Announces $25 Billion Share Repurchase Authorization and Declares Quarterly Dividend",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-corporation-announces-25-210500253.html",
-   "published": "2026-11-05T21:05:00+00:00",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 5,
+   "rank": 3,
    "ticker": "MU",
    "company": "Micron Technology Inc",
-   "move_pct": -15.8,
-   "price": 669.55,
+   "move_pct": -15.22,
+   "price": 674.18,
    "volume": 75370973,
    "volume_vs_avg": "~3x",
    "heat_score": 92,
@@ -88,11 +56,11 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 6,
+   "rank": 4,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
-   "move_pct": -14.89,
-   "price": 136.0,
+   "move_pct": -14.92,
+   "price": 135.96,
    "volume": 65337053,
    "volume_vs_avg": "~3x",
    "heat_score": 91,
@@ -104,14 +72,30 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 7,
+   "rank": 5,
+   "ticker": "LRCX",
+   "company": "Lam Research Corp",
+   "move_pct": -13.92,
+   "price": 190.6,
+   "volume": 30989365,
+   "volume_vs_avg": "~3x",
+   "heat_score": 89,
+   "direction": "down",
+   "why": "Lam Research Corporation Announces $25 Billion Share Repurchase Authorization and Declares Quarterly Dividend",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-corporation-announces-25-210500253.html",
+   "published": "2026-11-05T21:05:00+00:00",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 6,
    "ticker": "DELL",
    "company": "Dell Technologies Inc",
-   "move_pct": -14.57,
-   "price": 318.11,
+   "move_pct": -14.5,
+   "price": 318.37,
    "volume": 14060017,
    "volume_vs_avg": "~2x",
-   "heat_score": 87,
+   "heat_score": 86,
    "direction": "down",
    "why": "4 Strong Buy AI Stocks to Consider Amid the Tech Selloff: CLS, DELL, TER & AXTI",
    "catalyst_type": "momentum_narrative",
@@ -120,7 +104,7 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 8,
+   "rank": 7,
    "ticker": "SNAP",
    "company": "Snap Inc",
    "move_pct": -14.53,
@@ -133,6 +117,22 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/technology/ai/articles/social-media-victims-law-center-193000575.html",
    "published": "2026-11-05T19:30:00+00:00",
+   "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 8,
+   "ticker": "MGNI",
+   "company": "Magnite Inc",
+   "move_pct": 22.32,
+   "price": 27.88,
+   "volume": 9692142,
+   "volume_vs_avg": "~5x",
+   "heat_score": 86,
+   "direction": "up",
+   "why": "Moving up 22.3% on ~5x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
    "sector": "AI Platforms, Internet & AdTech"
   }
  ]

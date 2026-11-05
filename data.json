@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T22:31:29+00:00",
-  "as_of_local": "2026-11-05 22:31:29 UTC",
+  "as_of_utc": "2026-11-05T22:36:27+00:00",
+  "as_of_local": "2026-11-05 22:36:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -313,34 +315,6 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 102.08,
-      "previous_close": 113.23,
-      "change_pct": -9.85,
-      "market_cap": 5187777353.215485,
-      "headlines": [
-        {
-          "title": "Ondas Just Dropped 38% in a Month: Is ONDS Stock a Falling Knife or Poised for a Comeback?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ondas-just-dropped-38-month-195654806.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-05T19:56:54Z"
-        },
-        {
-          "title": "A $2.4 Billion Fund Bought These 3 Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-4-billion-fund-bought-120644063.html",
-          "publisher": "TIKR",
-          "published": "2026-11-05T12:06:44Z"
-        },
-        {
-          "title": "AeroVironment (AVAV) Could Be 19% Overvalued After Contract Bid Reopened",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-could-19-overvalued-221301252.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-04T22:13:01Z"
-        }
-      ]
-    },
-    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 116.4,
@@ -579,8 +553,13 @@
   },
   "tape": [
     {
+      "label": "SPX",
+      "price": 7353.73,
+      "change_pct": -4.36
+    },
+    {
       "label": "BTC",
-      "price": 75887.61,
+      "price": 75885.82,
       "change_pct": -5.62
     },
     {

@@ -4,8 +4,8 @@ Signed file: `INTC.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $53.83 (2026-11-05, ~15-min delayed) |
-| Market cap | $286.21B |
+| Current price | $52.25 (2026-11-05, ~15-min delayed) |
+| Market cap | $277.71B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `INTC.research.05.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-38.16%) with negative half-year (-50.90%). |
-| Fresh setup quality | Poor / broken | -61.81% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-39.96%) with negative half-year (-52.34%). |
+| Fresh setup quality | Poor / broken | -62.93% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-20.09%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 29.94, EV/Sales 5.38. |
-| Risk level | High | Beta 2.43, ATR 11.9% of price, short float 2.80%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 29.05, EV/Sales 5.38. |
+| Risk level | High | Beta 2.43, ATR 12.3% of price, short float 2.80%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
 
@@ -36,30 +36,30 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
+| Is AMD Stock a Buy as AI Revenue Soars? | Motley Fool | 2026-11-05 |
+| Intel Sinks 8% as Midterm Chip Sell-Off Deepens | TIKR | 2026-11-05 |
 | Intel Stocks Fall 9.1% as Server Demand Meets a Softer Outlook | GuruFocus.com | 2026-11-05 |
 | ASML Sinks 8% as Post-Election Chip Rout Deepens | TIKR | 2026-11-05 |
-| Why Intel Stock Is Down Today | Motley Fool | 2026-11-05 |
-| Chip Stocks Hit by Data-Center, AI Regulation Fears | The Wall Street Journal | 2026-11-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $53.83; 52w high $140.94 (-61.81%); 52w low $33.62 (+60.10%) |
-| Trend | -38.16% vs SMA200, -45.46% vs SMA50, -37.10% vs SMA20 |
-| Momentum | RSI(14) 21.1 (oversold) |
-| Volatility | ATR(14) 6.39 (~11.9% of price); beta 2.43 |
-| Setup perspective | -61.81% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $52.25; 52w high $140.94 (-62.93%); 52w low $33.62 (+55.41%) |
+| Trend | -39.96% vs SMA200, -47.04% vs SMA50, -38.89% vs SMA20 |
+| Momentum | RSI(14) 20.6 (oversold) |
+| Volatility | ATR(14) 6.43 (~12.3% of price); beta 2.43 |
+| Setup perspective | -62.93% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -41.5% |
-| Month | -52.4% |
-| Quarter | -47.0% |
-| Half Y | -50.9% |
-| 1Y | +45.4% |
-| YTD | +36.7% |
+| Week | -43.2% |
+| Month | -53.8% |
+| Quarter | -48.6% |
+| Half Y | -52.3% |
+| 1Y | +41.1% |
+| YTD | +32.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $59.89B | Revenue growth 20.90% y/y |
 | Profitability | Gross 40.15%, operating 15.60%, net -20.09% | ROA 1.78%, ROE -9.62% |
 | Balance sheet | Cash $54.00B, debt $50.13B | Current ratio 2.21, debt/equity 38.11 |
-| Valuation | P/E —, forward P/E 29.94, P/S 4.78, P/B 2.49 | EV/Sales 5.38, EV/EBITDA 16.85 |
+| Valuation | P/E —, forward P/E 29.05, P/S 4.64, P/B 2.41 | EV/Sales 5.38, EV/EBITDA 16.85 |
 | Growth expectations | Earnings growth -32.70%, EPS q/q -18.30% | Analyst mean target $92.72 (43 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Primecap Management Company | 75,250,958 | 1.42% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 29.94, EV/Sales 5.38. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.43, ATR 11.9% of price, short float 2.80%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 29.05, EV/Sales 5.38. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.43, ATR 12.3% of price, short float 2.80%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -113,21 +113,21 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $53.83 | EV/Sales | 5.38 |
-| Market cap | $286.21B | EV/EBITDA | 16.85 |
+| Price | $52.25 | EV/Sales | 5.38 |
+| Market cap | $277.71B | EV/EBITDA | 16.85 |
 | Beta | 2.43 | Gross margin | 40.15% |
-| RSI(14) | 21.1 | Operating margin | 15.60% |
-| ATR(14) | 6.39 | Profit margin | -20.09% |
-| SMA20 dist | -37.10% | ROA | 1.78% |
-| SMA50 dist | -45.46% | ROE | -9.62% |
-| SMA200 dist | -38.16% | Revenue (ttm) | $59.89B |
+| RSI(14) | 20.6 | Operating margin | 15.60% |
+| ATR(14) | 6.43 | Profit margin | -20.09% |
+| SMA20 dist | -38.89% | ROA | 1.78% |
+| SMA50 dist | -47.04% | ROE | -9.62% |
+| SMA200 dist | -39.96% | Revenue (ttm) | $59.89B |
 | 52W high | $140.94 | Revenue growth y/y | 20.90% |
 | 52W low | $33.62 | Inst. ownership | 62.81% |
 | P/E (ttm) | — | Insider ownership | 13.91% |
-| Forward P/E | 29.94 | Short float | 2.80% |
+| Forward P/E | 29.05 | Short float | 2.80% |
 | PEG (trailing) | — | Avg volume | 111,770,006 |
-| P/S | 4.78 | Employees | 81,100 |
-| P/B | 2.49 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/S | 4.64 | Employees | 81,100 |
+| P/B | 2.41 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

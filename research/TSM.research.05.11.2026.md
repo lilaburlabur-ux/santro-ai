@@ -4,8 +4,8 @@ Signed file: `TSM.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $358.05 (2026-11-05, ~15-min delayed) |
-| Market cap | $1.86T |
+| Current price | $353.10 (2026-11-05, ~15-min delayed) |
+| Market cap | $1.83T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `TSM.research.05.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-10.44%) with negative half-year (-13.11%). |
-| Fresh setup quality | Poor / broken | -26.30% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-11.68%) with negative half-year (-14.31%). |
+| Fresh setup quality | Poor / broken | -27.32% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 51.12%, revenue growth 50.90%. |
-| Value attractiveness | Reasonable | Forward P/E 15.28, EV/Sales 2.67. |
-| Risk level | Elevated | Beta 1.23, ATR 4.4% of price, short float 0.61%. |
+| Value attractiveness | Reasonable | Forward P/E 15.07, EV/Sales 2.67. |
+| Risk level | Elevated | Beta 1.23, ATR 4.5% of price, short float 0.61%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Nvidia has lost nearly $1.4 trillion since its October record | Yahoo Finance | 2026-11-05 |
+| Advanced Micro Devices vs. Taiwan Semiconductor Manufacturing: The AI Sell-Off Is Exposing a Critical Difference Investors Shouldn't Ignore for 2027 | Motley Fool | 2026-11-05 |
 | TSMC Stocks Fall 7.46% Despite a $53.3 Billion Revenue Midpoint | GuruFocus.com | 2026-11-05 |
 | Not Nvidia. Not AMD. 2 Chip Stocks I'd Buy Before the End of the Year. | Motley Fool | 2026-11-05 |
-| TSMC Sinks 10%, UMC Down 16% as Chip Rout Deepens After Democrats’ Midterm Wins | TIKR | 2026-11-05 |
-| What Happens If You Invest $1,000 in AMD And Never Add Another Dollar? | 24/7 Wall St. | 2026-11-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $358.05; 52w high $485.80 (-26.30%); 52w low $272.18 (+31.55%) |
-| Trend | -10.44% vs SMA200, -17.21% vs SMA50, -14.87% vs SMA20 |
-| Momentum | RSI(14) 27.3 (oversold) |
-| Volatility | ATR(14) 15.93 (~4.4% of price); beta 1.23 |
-| Setup perspective | -26.30% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $353.10; 52w high $485.80 (-27.32%); 52w low $272.18 (+29.73%) |
+| Trend | -11.68% vs SMA200, -18.34% vs SMA50, -16.00% vs SMA20 |
+| Momentum | RSI(14) 26.5 (oversold) |
+| Volatility | ATR(14) 16.02 (~4.5% of price); beta 1.23 |
+| Setup perspective | -27.32% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -17.1% |
-| Month | -24.2% |
-| Quarter | -14.5% |
-| Half Y | -13.1% |
-| 1Y | +23.1% |
-| YTD | +12.9% |
+| Week | -18.2% |
+| Month | -25.2% |
+| Quarter | -15.7% |
+| Half Y | -14.3% |
+| 1Y | +21.4% |
+| YTD | +11.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.94T | Revenue growth 50.90% y/y |
 | Profitability | Gross 65.85%, operating 58.66%, net 51.12% | ROA 20.58%, ROE 41.85% |
 | Balance sheet | Cash $4.02T, debt $818.38B | Current ratio 2.50, debt/equity 11.62 |
-| Valuation | P/E 23.20, forward P/E 15.28, P/S 0.38, P/B 68.33 | EV/Sales 2.67, EV/EBITDA 3.66 |
+| Valuation | P/E 22.88, forward P/E 15.07, P/S 0.37, P/B 67.39 | EV/Sales 2.67, EV/EBITDA 3.66 |
 | Growth expectations | Earnings growth 68.70%, EPS q/q 68.70% | Analyst mean target $586.69 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Bank of America Corporation | 15,282,620 | 0.29% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.23, ATR 4.4% of price, short float 0.61%. Size positions accordingly.
+- **Volatility risk:** Beta 1.23, ATR 4.5% of price, short float 0.61%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,21 +111,21 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $358.05 | EV/Sales | 2.67 |
-| Market cap | $1.86T | EV/EBITDA | 3.66 |
+| Price | $353.10 | EV/Sales | 2.67 |
+| Market cap | $1.83T | EV/EBITDA | 3.66 |
 | Beta | 1.23 | Gross margin | 65.85% |
-| RSI(14) | 27.3 | Operating margin | 58.66% |
-| ATR(14) | 15.93 | Profit margin | 51.12% |
-| SMA20 dist | -14.87% | ROA | 20.58% |
-| SMA50 dist | -17.21% | ROE | 41.85% |
-| SMA200 dist | -10.44% | Revenue (ttm) | $4.94T |
+| RSI(14) | 26.5 | Operating margin | 58.66% |
+| ATR(14) | 16.02 | Profit margin | 51.12% |
+| SMA20 dist | -16.00% | ROA | 20.58% |
+| SMA50 dist | -18.34% | ROE | 41.85% |
+| SMA200 dist | -11.68% | Revenue (ttm) | $4.94T |
 | 52W high | $485.80 | Revenue growth y/y | 50.90% |
 | 52W low | $272.18 | Inst. ownership | 15.47% |
-| P/E (ttm) | 23.20 | Insider ownership | 0.01% |
-| Forward P/E | 15.28 | Short float | 0.61% |
+| P/E (ttm) | 22.88 | Insider ownership | 0.01% |
+| Forward P/E | 15.07 | Short float | 0.61% |
 | PEG (trailing) | 0.73 | Avg volume | 10,503,185 |
-| P/S | 0.38 | Employees | 76,907 |
-| P/B | 68.33 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/S | 0.37 | Employees | 76,907 |
+| P/B | 67.39 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

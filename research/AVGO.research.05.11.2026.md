@@ -4,8 +4,8 @@ Signed file: `AVGO.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $295.86 (2026-11-05, ~15-min delayed) |
-| Market cap | $1.41T |
+| Current price | $291.53 (2026-11-05, ~15-min delayed) |
+| Market cap | $1.39T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `AVGO.research.05.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-19.22%) with negative half-year (-28.04%). |
-| Fresh setup quality | Poor / broken | -38.35% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-20.40%) with negative half-year (-29.10%). |
+| Fresh setup quality | Poor / broken | -39.26% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 42.94%, revenue growth 85.50%. |
-| Value attractiveness | Reasonable | Forward P/E 15.20, EV/Sales 17.84. |
-| Risk level | Elevated | Beta 1.51, ATR 4.7% of price, short float 1.14%. |
+| Value attractiveness | Reasonable | Forward P/E 14.98, EV/Sales 17.84. |
+| Risk level | Elevated | Beta 1.51, ATR 4.9% of price, short float 1.14%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Micron stock sinks 17% as chip sector crashes | Yahoo Finance | 2026-11-05 |
+| Nvidia has lost nearly $1.4 trillion since its October record | Yahoo Finance | 2026-11-05 |
 | Marvell Just Dropped 49% in a Month: Is MRVL Stock Hopeless or Ready for a Rebound? | 24/7 Wall St. | 2026-11-05 |
 | Anthropic's IPO plans run up against a battered Wall Street | Yahoo Finance | 2026-11-05 |
-| Chip Stocks Hit by Data-Center, AI Regulation Fears | The Wall Street Journal | 2026-11-05 |
-| Broadcom Stocks Fall 6.42% With $21.7 Billion AI Forecast in Focus | GuruFocus.com | 2026-11-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $295.86; 52w high $479.94 (-38.35%); 52w low $292.41 (+1.18%) |
-| Trend | -19.22% vs SMA200, -15.30% vs SMA50, -11.88% vs SMA20 |
-| Momentum | RSI(14) 32.5 (neutral) |
-| Volatility | ATR(14) 14.01 (~4.7% of price); beta 1.51 |
-| Setup perspective | -38.35% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $291.53; 52w high $479.94 (-39.26%); 52w low $291.53 (+0.00%) |
+| Trend | -20.40% vs SMA200, -16.52% vs SMA50, -13.11% vs SMA20 |
+| Momentum | RSI(14) 31.5 (neutral) |
+| Volatility | ATR(14) 14.21 (~4.9% of price); beta 1.51 |
+| Setup perspective | -39.26% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -14.2% |
-| Month | -21.4% |
-| Quarter | -30.7% |
-| Half Y | -28.0% |
-| 1Y | -15.3% |
-| YTD | -14.4% |
+| Week | -15.5% |
+| Month | -22.6% |
+| Quarter | -31.7% |
+| Half Y | -29.1% |
+| 1Y | -16.5% |
+| YTD | -15.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $89.10B | Revenue growth 85.50% y/y |
 | Profitability | Gross 75.52%, operating 54.31%, net 42.94% | ROA 15.37%, ROE 44.25% |
 | Balance sheet | Cash $23.98B, debt $59.42B | Current ratio 2.50, debt/equity 59.60 |
-| Valuation | P/E 37.78, forward P/E 15.20, P/S 15.85, P/B 14.16 | EV/Sales 17.84, EV/EBITDA 30.41 |
+| Valuation | P/E 37.23, forward P/E 14.98, P/S 15.62, P/B 13.96 | EV/Sales 17.84, EV/EBITDA 30.41 |
 | Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $526.81 (48 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Price (T.Rowe) Associates Inc | 82,851,970 | 1.74% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.51, ATR 4.7% of price, short float 1.14%. Size positions accordingly.
+- **Volatility risk:** Beta 1.51, ATR 4.9% of price, short float 1.14%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,21 +111,21 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $295.86 | EV/Sales | 17.84 |
-| Market cap | $1.41T | EV/EBITDA | 30.41 |
+| Price | $291.53 | EV/Sales | 17.84 |
+| Market cap | $1.39T | EV/EBITDA | 30.41 |
 | Beta | 1.51 | Gross margin | 75.52% |
-| RSI(14) | 32.5 | Operating margin | 54.31% |
-| ATR(14) | 14.01 | Profit margin | 42.94% |
-| SMA20 dist | -11.88% | ROA | 15.37% |
-| SMA50 dist | -15.30% | ROE | 44.25% |
-| SMA200 dist | -19.22% | Revenue (ttm) | $89.10B |
+| RSI(14) | 31.5 | Operating margin | 54.31% |
+| ATR(14) | 14.21 | Profit margin | 42.94% |
+| SMA20 dist | -13.11% | ROA | 15.37% |
+| SMA50 dist | -16.52% | ROE | 44.25% |
+| SMA200 dist | -20.40% | Revenue (ttm) | $89.10B |
 | 52W high | $479.94 | Revenue growth y/y | 85.50% |
-| 52W low | $292.41 | Inst. ownership | 79.80% |
-| P/E (ttm) | 37.78 | Insider ownership | 1.92% |
-| Forward P/E | 15.20 | Short float | 1.14% |
+| 52W low | $291.53 | Inst. ownership | 79.80% |
+| P/E (ttm) | 37.23 | Insider ownership | 1.92% |
+| Forward P/E | 14.98 | Short float | 1.14% |
 | PEG (trailing) | 0.32 | Avg volume | 22,992,720 |
-| P/S | 15.85 | Employees | 33,000 |
-| P/B | 14.16 | Analyst rec (1=buy..5=sell) | 1.2 |
+| P/S | 15.62 | Employees | 33,000 |
+| P/B | 13.96 | Analyst rec (1=buy..5=sell) | 1.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

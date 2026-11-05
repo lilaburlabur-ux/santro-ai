@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T23:01:53+00:00",
-  "as_of_local": "2026-11-05 23:01:53 UTC",
+  "as_of_utc": "2026-11-05T23:07:06+00:00",
+  "as_of_local": "2026-11-05 23:07:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-11-05T16:59:12Z"
         },
         {
-          "title": "Dow Jones Futures: Nasdaq Dives 5.5%, Nvidia, Sandisk, CoreWeave, SpaceX Plunge, But Sell-Off Spreads Beyond AI",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-dives-55-nvidia-sandisk-coreweave-spacex-plunge-jobs/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-05T22:52:44Z"
+          "title": "Genesis Energy, L.P. Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/genesis-energy-l-p-q3-225945418.html",
+          "publisher": "Moby",
+          "published": "2026-11-05T22:59:45Z"
         },
         {
-          "title": "WW International, Inc. Q3 2026 Earnings Call Summary",
-          "url": "https://finance.yahoo.com/healthcare/articles/ww-international-inc-q3-2026-224834584.html",
+          "title": "BGC Group, Inc Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bgc-group-inc-q3-2026-225849272.html",
           "publisher": "Moby",
-          "published": "2026-11-05T22:48:34Z"
+          "published": "2026-11-05T22:58:49Z"
         }
       ]
     },
@@ -313,34 +315,6 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 102.08,
-      "previous_close": 113.23,
-      "change_pct": -9.85,
-      "market_cap": 5187777353.215485,
-      "headlines": [
-        {
-          "title": "Ondas Just Dropped 38% in a Month: Is ONDS Stock a Falling Knife or Poised for a Comeback?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ondas-just-dropped-38-month-195654806.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-05T19:56:54Z"
-        },
-        {
-          "title": "A $2.4 Billion Fund Bought These 3 Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-4-billion-fund-bought-120644063.html",
-          "publisher": "TIKR",
-          "published": "2026-11-05T12:06:44Z"
-        },
-        {
-          "title": "AeroVironment (AVAV) Could Be 19% Overvalued After Contract Bid Reopened",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-could-19-overvalued-221301252.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-04T22:13:01Z"
-        }
-      ]
-    },
-    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 116.4,
@@ -454,8 +428,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -16.25,
+          "price": 466.53,
           "currency": "USD"
         },
         {
@@ -544,8 +518,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -16.25,
+        "price": 466.53,
         "currency": "USD"
       },
       {
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 75270.48,
-      "change_pct": -6.39
+      "price": 75442.61,
+      "change_pct": -6.17
     },
     {
       "label": "Gold",

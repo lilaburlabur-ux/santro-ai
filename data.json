@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-05T22:21:20+00:00",
-  "as_of_local": "2026-11-05 22:21:20 UTC",
+  "as_of_utc": "2026-11-05T22:22:25+00:00",
+  "as_of_local": "2026-11-05 22:22:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
     "TSM",
@@ -36,6 +36,34 @@
       ]
     },
     {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 353.1,
+      "previous_close": 395.75,
+      "change_pct": -10.78,
+      "market_cap": 1831344005646.0251,
+      "headlines": [
+        {
+          "title": "Nvidia has lost nearly $1.4 trillion since its October record",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-has-lost-nearly-14-trillion-since-its-october-record-165912910.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-05T16:59:12Z"
+        },
+        {
+          "title": "Advanced Micro Devices vs. Taiwan Semiconductor Manufacturing: The AI Sell-Off Is Exposing a Critical Difference Investors Shouldn't Ignore for 2027",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-taiwan-202002562.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-05T20:20:02Z"
+        },
+        {
+          "title": "TSMC Stocks Fall 7.46% Despite a $53.3 Billion Revenue Midpoint",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-fall-7-46-185827180.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-05T18:58:27Z"
+        }
+      ]
+    },
+    {
       "symbol": "AVGO",
       "name": "Broadcom",
       "price": 291.53,
@@ -60,6 +88,34 @@
           "url": "https://finance.yahoo.com/markets/article/nvidia-has-lost-nearly-14-trillion-since-its-october-record-165912910.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-05T16:59:12Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 656.39,
+      "previous_close": 795.23,
+      "change_pct": -17.46,
+      "market_cap": 742654898698.2622,
+      "headlines": [
+        {
+          "title": "Micron stock sinks 17% as chip sector crashes",
+          "url": "https://finance.yahoo.com/markets/article/micron-declines-12-as-chip-sell-off-deepens-163137019.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-05T16:31:37Z"
+        },
+        {
+          "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
+          "url": "https://finance.yahoo.com/markets/article/qualcomm-micron-arm-stocks-sink-lead-chip-sector-lower-133100607.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-05T13:31:00Z"
+        },
+        {
+          "title": "Micron and Sandisk valuation multiples are unbelievable as chip stocks get crushed",
+          "url": "https://finance.yahoo.com/markets/article/micron-and-sandisk-valuation-multiples-are-unbelievable-as-chip-stocks-get-crushed-180250881.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-05T18:02:50Z"
         }
       ]
     },
@@ -401,8 +457,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -16.25,
-          "price": 466.53,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -491,8 +547,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -16.25,
-        "price": 466.53,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -532,8 +588,8 @@
     },
     {
       "label": "BTC",
-      "price": 75985.22,
-      "change_pct": -5.5
+      "price": 75939.97,
+      "change_pct": -5.55
     },
     {
       "label": "Gold",

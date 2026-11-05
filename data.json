@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T09:09:02+00:00",
-  "as_of_local": "2026-11-05 09:09:02 UTC",
+  "as_of_utc": "2026-11-05T09:14:03+00:00",
+  "as_of_local": "2026-11-05 09:14:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": -3.17,
       "market_cap": 4832539227905.273,
       "headlines": [
+        {
+          "title": "Nebius Stock: The Bull Case, the Bear Case, and My Call Before Nov. 12",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-bull-case-bear-090102754.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-05T09:01:02Z"
+        },
         {
           "title": "A $10,000 Investment in Goldman Sachs in 2016 Is Now Worth More Than $60,000. Its Record Revenue This Year Says the Run Isn't Over.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/10-000-investment-goldman-sachs-085000586.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/1-reason-hold-coca-cola-083500492.html",
           "publisher": "Motley Fool",
           "published": "2026-11-05T08:35:00Z"
-        },
-        {
-          "title": "Why Rocket Lab Stock Plunged 15% in October and Why Its Decline Might Be Short-Lived",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-stock-plunged-081002343.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-05T08:10:02Z"
         }
       ]
     },
@@ -113,34 +115,6 @@
           "url": "https://finance.yahoo.com/technology/articles/silvaco-group-q3-earnings-call-061424467.html",
           "publisher": "MarketBeat",
           "published": "2026-11-05T06:14:24Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 488.78,
-      "previous_close": 483.9,
-      "change_pct": 1.01,
-      "market_cap": 797921149035.9927,
-      "headlines": [
-        {
-          "title": "Market reaction to changes in Congress, AMD earnings, and where to find value in healthcare stocks",
-          "url": "https://finance.yahoo.com/video/market-reaction-to-changes-in-congress-amd-earnings-and-where-to-find-value-in-healthcare-stocks-185012443.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-04T18:50:12Z"
-        },
-        {
-          "title": "AI Roundup: AMD, Apple Results Puzzle Investors, Democrats\u2019 Midterm Win Weighs On Traders",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-roundup-amd-apple-results-084828692.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-05T08:48:28Z"
-        },
-        {
-          "title": "After an 11% tech sell-off, are AI valuations attractive again?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/11-tech-sell-off-ai-082806748.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-05T08:28:06Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 80292.36,
-      "change_pct": -0.14
+      "price": 80321.26,
+      "change_pct": -0.1
     },
     {
       "label": "Gold",
-      "price": 4135.8,
-      "change_pct": 1.54
+      "price": 4138.2,
+      "change_pct": 1.6
     },
     {
       "label": "Nasdaq100",

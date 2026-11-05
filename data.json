@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-05T21:43:22+00:00",
-  "as_of_local": "2026-11-05 21:43:22 UTC",
+  "as_of_utc": "2026-11-05T21:47:07+00:00",
+  "as_of_local": "2026-11-05 21:47:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -27,10 +25,10 @@
           "published": "2026-11-05T21:39:37Z"
         },
         {
-          "title": "Stock Market Today: Nasdaq Slammed By Big Tech Sell Off; Nvidia Hits Bear Territory (Live Coverage)",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-election-rally-cava-dutch-bros/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-05T21:34:45Z"
+          "title": "Update: Nasdaq Enters Correction Territory Amid Data Center Anxiety; Nvidia Tumbles Over 9%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-enters-correction-territory-amid-213811085.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-05T21:38:11Z"
         }
       ]
     },
@@ -77,16 +75,44 @@
           "published": "2026-11-05T16:59:12Z"
         },
         {
+          "title": "The AI Trade Just Had Its Worst Day Since The Pandemic",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-trade-just-had-worst-212111179.html",
+          "publisher": "Moby",
+          "published": "2026-11-05T21:21:11Z"
+        },
+        {
+          "title": "Micron stock sinks 17% as chip sector crashes",
+          "url": "https://finance.yahoo.com/markets/article/micron-declines-12-as-chip-sell-off-deepens-163137019.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-05T16:31:37Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 656.39,
+      "previous_close": 795.23,
+      "change_pct": -17.46,
+      "market_cap": 742654898698.2622,
+      "headlines": [
+        {
           "title": "Micron stock sinks 17% as chip sector crashes",
           "url": "https://finance.yahoo.com/markets/article/micron-declines-12-as-chip-sell-off-deepens-163137019.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-05T16:31:37Z"
         },
         {
-          "title": "Marvell Just Dropped 49% in a Month: Is MRVL Stock Hopeless or Ready for a Rebound?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-just-dropped-49-month-200321691.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-05T20:03:21Z"
+          "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
+          "url": "https://finance.yahoo.com/markets/article/qualcomm-micron-arm-stocks-sink-lead-chip-sector-lower-133100607.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-05T13:31:00Z"
+        },
+        {
+          "title": "Micron and Sandisk valuation multiples are unbelievable as chip stocks get crushed",
+          "url": "https://finance.yahoo.com/markets/article/micron-and-sandisk-valuation-multiples-are-unbelievable-as-chip-stocks-get-crushed-180250881.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-05T18:02:50Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -17.46,
+          "price": 656.39,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -17.46,
+        "price": 656.39,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 75829.71,
-      "change_pct": -5.69
+      "price": 75812.97,
+      "change_pct": -5.71
     },
     {
       "label": "Gold",
-      "price": 4100.6,
-      "change_pct": 0.68
+      "price": 4099.0,
+      "change_pct": 0.64
     },
     {
       "label": "Nasdaq100",

@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-11-05T09:34:17+00:00",
-  "as_of_local": "2026-11-05 09:34:17 UTC",
+  "as_of_utc": "2026-11-05T09:39:24+00:00",
+  "as_of_local": "2026-11-05 09:39:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 200.13,
-      "previous_close": 206.69,
-      "change_pct": -3.17,
-      "market_cap": 4832539227905.273,
-      "headlines": [
-        {
-          "title": "Prediction: A Stock Market Crash Is Coming. Here's What Investors Should Do Based on Nearly 70 Years' Worth of History.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-stock-market-crash-coming-092900501.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-05T09:29:00Z"
-        },
-        {
-          "title": "The Federal Reserve's Initial November Inflation Forecast Has Arrived, and Things Are Getting Downright Ugly for Wall Street",
-          "url": "https://finance.yahoo.com/economy/policy/articles/federal-reserves-initial-november-inflation-092601250.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-05T09:26:01Z"
-        },
-        {
-          "title": "Is Apple a Buy on the Dip, or Are Mounting Headwinds Too Strong?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-buy-dip-mounting-headwinds-092500672.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-05T09:25:00Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -215,16 +189,16 @@
           "published": "2026-11-04T17:33:20Z"
         },
         {
+          "title": "U.S. midterms fallout in focus; Qualcomm shares slip - what\u2019s moving markets",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/u-midterms-fallout-focus-qualcomm-092945824.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-05T09:29:45Z"
+        },
+        {
           "title": "Qualcomm (QCOM) Stock Stays Hard To Call Despite Fresh 5G Network News",
           "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-stays-hard-071507441.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-05T07:15:07Z"
-        },
-        {
-          "title": "Qualcomm Says Non-Handset Revenue Will Make Up 50% Of Chip Sales This Fiscal \u2014 Retail Sentiment Turns Bullish",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-says-non-handset-revenue-071243743.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-05T07:12:43Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 80252.35,
-      "change_pct": -0.19
+      "price": 80277.0,
+      "change_pct": -0.16
     },
     {
       "label": "Gold",
-      "price": 4137.1,
-      "change_pct": 1.57
+      "price": 4139.4,
+      "change_pct": 1.63
     },
     {
       "label": "Nasdaq100",

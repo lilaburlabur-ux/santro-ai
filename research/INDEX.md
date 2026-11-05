@@ -1,5 +1,5 @@
-# Watchlist Research Index — 04.11.2026
-> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-04.
+# Watchlist Research Index — 05.11.2026
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-05.
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
@@ -11,9 +11,9 @@
 | INTC | $309.71B | +48% | 32.4 | -20% | Low | Fair-to-demanding | High |
 | ARM | $204.84B | +14% | 62.7 | 20% | Low | Low (expensive) | High |
 | MRVL | $143.78B | +77% | 21.8 | 28% | High | Fair-to-demanding | High |
-| QCOM | $184.94B | -2% | 17.0 | 21% | Moderate | Reasonable | Elevated |
+| QCOM | $184.94B | -2% | 13.5 | 21% | Moderate | Reasonable | Elevated |
 | NXPI | $66.80B | +28% | 14.4 | 23% | Moderate | Reasonable | Elevated |
-| LSCC | $15.20B | +47% | 24.4 | 6% | Low | Fair-to-demanding | High |
+| LSCC | $15.23B | +47% | 24.4 | 6% | Low | Fair-to-demanding | High |
 | SYNA | $4.66B | +65% | 17.9 | -41% | High | Reasonable | High |
 | CEVA | $788.88M | +1% | 34.9 | -9% | Low | Fair-to-demanding | High |
 | AVAV | $5.75B | -69% | 25.7 | -10% | Low | Fair-to-demanding | High |

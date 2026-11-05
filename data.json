@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T21:56:40+00:00",
-  "as_of_local": "2026-11-05 21:56:40 UTC",
+  "as_of_utc": "2026-11-05T22:01:05+00:00",
+  "as_of_local": "2026-11-05 22:01:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,44 +21,16 @@
           "published": "2026-11-05T16:59:12Z"
         },
         {
+          "title": "Certara, Inc. Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/certara-inc-q3-2026-earnings-214945096.html",
+          "publisher": "Moby",
+          "published": "2026-11-05T21:49:45Z"
+        },
+        {
           "title": "Stocks slide as Wall Street's post-election rally fizzles",
           "url": "https://finance.yahoo.com/video/stocks-slide-as-wall-streets-post-election-rally-fizzles-214250142.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-05T21:42:50Z"
-        },
-        {
-          "title": "SpaceX Lessors Look To Sell $40 Bil AI Deal. ARK Buys The Dip On SPCX Stock.",
-          "url": "https://www.investors.com/news/spacex-goldman-sachs-apollo-40bil-nvidia-ai-gpu-deal-sale-cathie-wood-ark-invest-spcx-stock/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-05T21:39:37Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 353.1,
-      "previous_close": 395.75,
-      "change_pct": -10.78,
-      "market_cap": 1831344005646.0251,
-      "headlines": [
-        {
-          "title": "Nvidia has lost nearly $1.4 trillion since its October record",
-          "url": "https://finance.yahoo.com/markets/article/nvidia-has-lost-nearly-14-trillion-since-its-october-record-165912910.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-05T16:59:12Z"
-        },
-        {
-          "title": "Advanced Micro Devices vs. Taiwan Semiconductor Manufacturing: The AI Sell-Off Is Exposing a Critical Difference Investors Shouldn't Ignore for 2027",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-taiwan-202002562.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-05T20:20:02Z"
-        },
-        {
-          "title": "TSMC Stocks Fall 7.46% Despite a $53.3 Billion Revenue Midpoint",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-fall-7-46-185827180.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-05T18:58:27Z"
         }
       ]
     },
@@ -153,22 +127,22 @@
       "market_cap": 277708750000.0,
       "headlines": [
         {
+          "title": "Intel's stock crash shares an uncanny resemblance to its 2000 bust",
+          "url": "https://finance.yahoo.com/markets/stocks/article/intels-stock-crash-shares-an-uncanny-resemblance-to-its-2000-bust-215941388.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-05T21:59:41Z"
+        },
+        {
+          "title": "Nasdaq Stock Market Correction: History Says This Is What Happens Next",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-stock-market-correction-history-213901931.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-05T21:39:01Z"
+        },
+        {
           "title": "Is AMD Stock a Buy as AI Revenue Soars?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-buy-ai-revenue-203900198.html",
           "publisher": "Motley Fool",
           "published": "2026-11-05T20:39:00Z"
-        },
-        {
-          "title": "Intel Sinks 8% as Midterm Chip Sell-Off Deepens",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-sinks-8-midterm-chip-202040508.html",
-          "publisher": "TIKR",
-          "published": "2026-11-05T20:20:40Z"
-        },
-        {
-          "title": "Intel Stocks Fall 9.1% as Server Demand Meets a Softer Outlook",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-fall-9-1-193224928.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-05T19:32:24Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 75742.84,
-      "change_pct": -5.8
+      "price": 75641.75,
+      "change_pct": -5.92
     },
     {
       "label": "Gold",
-      "price": 4097.3,
-      "change_pct": 0.6
+      "price": 4096.9,
+      "change_pct": 0.59
     },
     {
       "label": "Nasdaq100",

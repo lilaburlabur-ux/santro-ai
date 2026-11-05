@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-05T10:25:08+00:00",
-  "as_of_local": "2026-11-05 10:25:08 UTC",
+  "as_of_utc": "2026-11-05T10:30:16+00:00",
+  "as_of_local": "2026-11-05 10:30:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 4832539227905.273,
       "headlines": [
         {
+          "title": "SpaceX's Power Bill Is Getting Bigger. Should You Buy the Stock Now or Wait for a Solution?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-power-bill-getting-bigger-102000979.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-05T10:20:00Z"
+        },
+        {
           "title": "US Futures Mixed After Rally On Wednesday \u2014 MU, TSLA, AAPL, MSFT, APP, NVDA, IREN In Focus",
           "url": "https://finance.yahoo.com/markets/stocks/articles/us-futures-mixed-rally-wednesday-101026817.html",
           "publisher": "Stocktwits",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/crypto/articles/not-hyperliquid-not-zcash-top-100500440.html",
           "publisher": "Motley Fool",
           "published": "2026-11-05T10:05:00Z"
-        },
-        {
-          "title": "If the Market Crashes, Will Utility Stocks Protect Your Portfolio?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/market-crashes-utility-stocks-protect-100400452.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-05T10:04:00Z"
         }
       ]
     },
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -13.14,
+          "price": 9324.0,
           "currency": "JPY"
         },
         {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -13.14,
+        "price": 9324.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 80415.92,
+      "price": 80416.43,
       "change_pct": 0.01
     },
     {
       "label": "Gold",
-      "price": 4135.3,
-      "change_pct": 1.53
+      "price": 4134.3,
+      "change_pct": 1.51
     },
     {
       "label": "Nasdaq100",

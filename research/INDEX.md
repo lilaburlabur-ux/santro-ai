@@ -3,20 +3,20 @@
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
-| NVDA | $4.83T | +nan% | 12.6 | 64% | Moderate | Reasonable | High |
-| TSM | $2.05T | +nan% | 16.9 | 51% | Moderate | Reasonable | Elevated |
-| AVGO | $1.55T | +nan% | 16.7 | 43% | Moderate | Reasonable | Elevated |
-| MU | $899.74B | +nan% | 3.8 | 64% | Moderate | Reasonable | High |
-| AMD | $797.92B | +nan% | 30.0 | 16% | Moderate | Fair-to-demanding | High |
-| INTC | $309.71B | +nan% | 32.4 | -20% | Moderate | Fair-to-demanding | High |
-| ARM | $204.84B | +nan% | 62.7 | 20% | Moderate | Low (expensive) | High |
-| MRVL | $143.78B | +nan% | 21.8 | 28% | Moderate | Fair-to-demanding | High |
-| QCOM | $184.94B | +nan% | 13.5 | 21% | Moderate | Reasonable | Elevated |
-| NXPI | $66.80B | +nan% | 14.4 | 23% | Moderate | Reasonable | Elevated |
-| LSCC | $15.23B | +nan% | 24.4 | 6% | Moderate | Fair-to-demanding | Elevated |
-| SYNA | $4.66B | +nan% | 17.9 | -41% | Moderate | Reasonable | High |
-| CEVA | $788.88M | +nan% | 34.9 | -9% | Moderate | Fair-to-demanding | High |
-| AVAV | $5.75B | +nan% | 25.7 | -10% | Moderate | Fair-to-demanding | High |
+| NVDA | $4.42T | -8% | 11.5 | 64% | Low | Reasonable | High |
+| TSM | $1.86T | +23% | 15.3 | 51% | Low | Reasonable | Elevated |
+| AVGO | $1.41T | -15% | 15.2 | 43% | Low | Reasonable | Elevated |
+| MU | $766.58B | +211% | 3.3 | 64% | High | Reasonable | High |
+| AMD | $683.10B | +67% | 25.5 | 17% | High | Fair-to-demanding | High |
+| INTC | $286.21B | +45% | 29.9 | -20% | Low | Fair-to-demanding | High |
+| ARM | $179.61B | +5% | 55.0 | 20% | Low | Low (expensive) | High |
+| MRVL | $123.57B | +57% | 18.7 | 28% | Low | Reasonable | High |
+| QCOM | $169.23B | -6% | 12.3 | 21% | Low | Reasonable | High |
+| NXPI | $63.14B | +25% | 13.7 | 23% | Moderate | Reasonable | Elevated |
+| LSCC | $14.11B | +57% | 22.6 | 6% | Low | Fair-to-demanding | High |
+| SYNA | $4.65B | +73% | 17.8 | -41% | High | Reasonable | High |
+| CEVA | $693.86M | -6% | 30.7 | -9% | Low | Fair-to-demanding | High |
+| AVAV | $5.19B | -72% | 23.2 | -10% | Low | Fair-to-demanding | High |
 
 14 reports generated; failed: none.
 

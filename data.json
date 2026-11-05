@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-05T13:53:44+00:00",
-  "as_of_local": "2026-11-05 13:53:44 UTC",
+  "as_of_utc": "2026-11-05T13:58:45+00:00",
+  "as_of_local": "2026-11-05 13:58:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 200.13,
+      "previous_close": 206.69,
+      "change_pct": -3.17,
+      "market_cap": 4832539227905.273,
+      "headlines": [
+        {
+          "title": "How the AI boom might affect your career: Fireworks AI CEO",
+          "url": "https://finance.yahoo.com/video/ai-boom-might-affect-career-120000909.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-05T12:00:00Z"
+        },
+        {
+          "title": "America just voted against AI. That might be good.",
+          "url": "https://finance.yahoo.com/video/america-just-voted-against-ai-120000953.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-05T12:00:00Z"
+        },
+        {
+          "title": "Why one AI model won't rule the world: Fireworks AI CEO",
+          "url": "https://finance.yahoo.com/video/why-one-ai-model-wont-110000898.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-05T11:00:00Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 79678.58,
-      "change_pct": -0.9
+      "price": 79509.39,
+      "change_pct": -1.11
     },
     {
       "label": "Gold",
-      "price": 4130.4,
-      "change_pct": 1.41
+      "price": 4134.9,
+      "change_pct": 1.52
     },
     {
       "label": "Nasdaq100",

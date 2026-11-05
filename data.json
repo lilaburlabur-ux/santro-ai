@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-05T23:42:47+00:00",
-  "as_of_local": "2026-11-05 23:42:47 UTC",
+  "as_of_utc": "2026-11-05T23:47:50+00:00",
+  "as_of_local": "2026-11-05 23:47:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 4385095347381.592,
       "headlines": [
         {
+          "title": "Dow Jones Futures: Nasdaq Dives 5.5%, Nvidia, Sandisk, CoreWeave, SpaceX Plunge, But Sell-Off Spreads Beyond AI",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-dives-55-nvidia-sandisk-coreweave-spacex-plunge-jobs/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-05T23:39:40Z"
+        },
+        {
           "title": "What Tom Gardner Said About Days Like This",
           "url": "https://finance.yahoo.com/markets/stocks/articles/tom-gardner-said-days-233301990.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/healthcare/articles/collegium-pharmaceutical-inc-q3-2026-232811027.html",
           "publisher": "Moby",
           "published": "2026-11-05T23:28:11Z"
-        },
-        {
-          "title": "BKV Corporation Q3 2026 Earnings Call Summary",
-          "url": "https://finance.yahoo.com/energy/articles/bkv-corporation-q3-2026-earnings-232634981.html",
-          "publisher": "Moby",
-          "published": "2026-11-05T23:26:34Z"
         }
       ]
     },
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 37.01,
-      "change_pct": -17.96,
+      "price": null,
+      "change_pct": 0.0,
       "holdings": [
         {
           "symbol": "MU",
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 37.01,
-    "change_pct": -17.96,
+    "price": null,
+    "change_pct": 0.0,
     "holdings": [
       {
         "symbol": "MU",
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 75869.54,
-      "change_pct": -5.64
+      "price": 75932.53,
+      "change_pct": -5.56
     },
     {
       "label": "Gold",
-      "price": 4102.0,
-      "change_pct": 0.71
+      "price": 4101.0,
+      "change_pct": 0.69
     },
     {
       "label": "Nasdaq100",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T13:07:55+00:00",
-  "as_of_local": "2026-11-05 13:07:55 UTC",
+  "as_of_utc": "2026-11-05T13:13:04+00:00",
+  "as_of_local": "2026-11-05 13:13:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -184,7 +186,7 @@
           "title": "Dow Jones Futures Rise As Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-elections-oil-apple-microsoft-amazon-buy-signals-coreweave-spacex-skid/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-05T12:53:31Z"
+          "published": "2026-11-05T13:07:56Z"
         },
         {
           "title": "Arm Stock Falls After Smartphone Memory Pricing Hits Royalties",
@@ -337,34 +339,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-stock-may-expensive-151545000.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-04T15:15:45Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 117.49,
-      "previous_close": 117.41,
-      "change_pct": 0.07,
-      "market_cap": 4664515873.818687,
-      "headlines": [
-        {
-          "title": "3 Reasons to Hold Amkor Stock Despite Its High Premium P/E",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-hold-amkor-stock-163300096.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T16:33:00Z"
-        },
-        {
-          "title": "ON Semiconductor (ON) Stock Looks Fairly Valued After AI Revenue News",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stock-looks-fairly-valued-171422762.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-03T17:14:22Z"
-        },
-        {
-          "title": "ON Semiconductor (ON) Beat Expectations, Is The Stock Still Cheap?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-beat-expectations-stock-still-151505664.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-03T15:15:05Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 79600.0,
-      "change_pct": -1.0
+      "price": 79531.7,
+      "change_pct": -1.09
     },
     {
       "label": "Gold",
-      "price": 4131.4,
-      "change_pct": 1.43
+      "price": 4129.1,
+      "change_pct": 1.38
     },
     {
       "label": "Nasdaq100",

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-05T21:06:14+00:00",
-  "as_of_local": "2026-11-05 21:06:14 UTC",
+  "as_of_utc": "2026-11-05T21:11:13+00:00",
+  "as_of_local": "2026-11-05 21:11:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,13 +97,7 @@
       "market_cap": 742654898698.2622,
       "headlines": [
         {
-          "title": "Micron and Sandisk valuation multiples are unbelievable as chip stocks get crushed",
-          "url": "https://finance.yahoo.com/markets/article/micron-and-sandisk-valuation-multiples-are-unbelievable-as-chip-stocks-get-crushed-180250881.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-05T18:02:50Z"
-        },
-        {
-          "title": "Micron stock declines 12% as chip sell-off deepens",
+          "title": "Micron stock sinks 17% as chip sector crashes",
           "url": "https://finance.yahoo.com/markets/article/micron-declines-12-as-chip-sell-off-deepens-163137019.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-05T16:31:37Z"
@@ -113,6 +107,12 @@
           "url": "https://finance.yahoo.com/markets/article/qualcomm-micron-arm-stocks-sink-lead-chip-sector-lower-133100607.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-05T13:31:00Z"
+        },
+        {
+          "title": "Micron and Sandisk valuation multiples are unbelievable as chip stocks get crushed",
+          "url": "https://finance.yahoo.com/markets/article/micron-and-sandisk-valuation-multiples-are-unbelievable-as-chip-stocks-get-crushed-180250881.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-05T18:02:50Z"
         }
       ]
     },
@@ -125,16 +125,16 @@
       "market_cap": 663251274294.1018,
       "headlines": [
         {
-          "title": "AMD CEO Lisa Su sees AI becoming 'essential to every aspect of our lives'",
-          "url": "https://finance.yahoo.com/technology/article/amd-ceo-lisa-su-sees-ai-becoming-essential-to-every-aspect-of-our-lives-172825495.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-05T17:28:25Z"
-        },
-        {
           "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
           "url": "https://finance.yahoo.com/markets/article/qualcomm-micron-arm-stocks-sink-lead-chip-sector-lower-133100607.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-05T13:31:00Z"
+        },
+        {
+          "title": "AMD CEO Lisa Su sees AI becoming 'essential to every aspect of our lives'",
+          "url": "https://finance.yahoo.com/technology/article/amd-ceo-lisa-su-sees-ai-becoming-essential-to-every-aspect-of-our-lives-172825495.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-05T17:28:25Z"
         },
         {
           "title": "AMD CEO Su on earnings outlook, new Starbucks holiday menu, and Hilton CEO on hotel demand",
@@ -585,13 +585,18 @@
     },
     {
       "label": "BTC",
-      "price": 75789.5,
-      "change_pct": -5.74
+      "price": 75825.68,
+      "change_pct": -5.7
     },
     {
       "label": "Gold",
-      "price": 4108.8,
-      "change_pct": 0.88
+      "price": 4106.2,
+      "change_pct": 0.82
+    },
+    {
+      "label": "Nasdaq100",
+      "price": 26629.81,
+      "change_pct": -6.36
     }
   ]
 }

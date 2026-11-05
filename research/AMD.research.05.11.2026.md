@@ -36,8 +36,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower | Yahoo Finance | 2026-11-05 |
 | AMD CEO Lisa Su sees AI becoming 'essential to every aspect of our lives' | Yahoo Finance | 2026-11-05 |
+| Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower | Yahoo Finance | 2026-11-05 |
 | AMD CEO Su on earnings outlook, new Starbucks holiday menu, and Hilton CEO on hotel demand | Yahoo Finance Video | 2026-11-05 |
 | AMD is a 'data center first' company, says CEO Lisa Su | Yahoo Finance Video | 2026-11-05 |
 

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-06T21:38:09+00:00",
-  "as_of_local": "2026-11-06 21:38:09 UTC",
+  "as_of_utc": "2026-11-06T21:43:10+00:00",
+  "as_of_local": "2026-11-06 21:43:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 1947209816103.01,
       "headlines": [
         {
+          "title": "Intel Stock\u2019s (INTC) Deep Sell-Off Shows Signs of an Overreaction",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-intc-deep-sell-213300842.html",
+          "publisher": "TipRanks",
+          "published": "2026-11-06T21:33:00Z"
+        },
+        {
           "title": "Update: Market Chatter: TSMC Mulls Expanding Into Advanced Memory Chip Production",
           "url": "https://finance.yahoo.com/technology/articles/market-chatter-tsmc-mulls-expanding-194817754.html",
           "publisher": "MT Newswires",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-makes-chips-both-nvidia-183400901.html",
           "publisher": "Motley Fool",
           "published": "2026-11-06T18:34:00Z"
-        },
-        {
-          "title": "Michael Burry Takes Profits on Major AI Bear Bet",
-          "url": "https://finance.yahoo.com/markets/options/articles/michael-burry-takes-profits-major-171655168.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-06T17:16:55Z"
         }
       ]
     },
@@ -97,6 +97,12 @@
       "market_cap": 780682016280.0,
       "headlines": [
         {
+          "title": "US Equity Indexes Drop This Week as Mega-Cap Tech Sinks After Democrats' Midterm Victory Casts Doubt Over AI Buildout",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-drop-week-213227265.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-06T21:32:27Z"
+        },
+        {
           "title": "Micron vs. Nvidia: Which AI Stock Is a Better Buy for 2027?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-nvidia-ai-stock-211242383.html",
           "publisher": "TipRanks",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-sandsik-lead-chip-sector-higher-134336542.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-06T13:43:36Z"
-        },
-        {
-          "title": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-06T09:19:27Z"
         }
       ]
     },
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -5.49,
+          "price": 120.5,
           "currency": "TWD"
         }
       ]
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -5.49,
+        "price": 120.5,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 75677.05,
-      "change_pct": -0.35
+      "price": 75685.42,
+      "change_pct": -0.34
     },
     {
       "label": "Gold",
-      "price": 4072.7,
-      "change_pct": -0.99
+      "price": 4073.4,
+      "change_pct": -0.97
     },
     {
       "label": "Nasdaq100",

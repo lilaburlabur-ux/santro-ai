@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-06T12:34:19+00:00",
-  "as_of_local": "2026-11-06 12:34:19 UTC",
+  "as_of_utc": "2026-11-06T12:39:25+00:00",
+  "as_of_local": "2026-11-06 12:39:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-11-06T12:00:00Z"
         },
         {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq futures wobble after brutal sell-off, with key jobs report on deck",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-06T09:19:27Z"
+        },
+        {
           "title": "Dow Jones Futures Fall, AI Stocks Nvidia, Sandisk, CoreWeave, SpaceX Bounce After Nasdaq Dives 5.5%",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-dives-55-nvidia-sandisk-coreweave-spacex-plunge-jobs/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-06T12:23:22Z"
-        },
-        {
-          "title": "Wall Street\u2019s Loudest Voices Split on Whether the AI Trade Is Finished",
-          "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-loudest-voices-split-122247902.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-06T12:22:47Z"
+          "published": "2026-11-06T12:34:05Z"
         }
       ]
     },
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/article/qualcomm-micron-arm-stocks-sink-lead-chip-sector-lower-133100607.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-05T13:31:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 52.25,
-      "previous_close": 58.27,
-      "change_pct": -10.33,
-      "market_cap": 277708750000.0,
-      "headlines": [
-        {
-          "title": "Stocks lost $2 trillion. The market is wrong about AI",
-          "url": "https://finance.yahoo.com/video/stocks-lost-2-trillion-market-120000040.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-06T12:00:00Z"
-        },
-        {
-          "title": "Intel's stock crash shares an uncanny resemblance to its 2000 bust",
-          "url": "https://finance.yahoo.com/markets/stocks/article/intels-stock-crash-shares-an-uncanny-resemblance-to-its-2000-bust-215941388.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-05T21:59:41Z"
-        },
-        {
-          "title": "US chip stocks rebound sharply after Thursday's brutal selloff",
-          "url": "https://finance.yahoo.com/technology/articles/u-chip-stocks-rebound-sharply-105433545.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-06T10:54:33Z"
         }
       ]
     },
@@ -401,8 +375,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": null,
-      "change_pct": 0.0,
+      "price": 37.01,
+      "change_pct": -17.96,
       "holdings": [
         {
           "symbol": "MU",
@@ -491,8 +465,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": null,
-    "change_pct": 0.0,
+    "price": 37.01,
+    "change_pct": -17.96,
     "holdings": [
       {
         "symbol": "MU",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 76058.02,
-      "change_pct": 0.15
+      "price": 76116.26,
+      "change_pct": 0.23
     },
     {
       "label": "Gold",
-      "price": 4081.7,
-      "change_pct": -0.77
+      "price": 4079.2,
+      "change_pct": -0.83
     },
     {
       "label": "Nasdaq100",

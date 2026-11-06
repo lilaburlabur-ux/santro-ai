@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-06T06:22:03+00:00",
-  "as_of_local": "2026-11-06 06:22:03 UTC",
+  "as_of_utc": "2026-11-06T06:27:15+00:00",
+  "as_of_local": "2026-11-06 06:27:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": -9.26,
       "market_cap": 4385095347381.592,
       "headlines": [
+        {
+          "title": "Micron Stock Has Lost Over 40% Since Its June Record. I'd Still Buy It.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-lost-over-40-061302753.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-06T06:13:02Z"
+        },
         {
           "title": "AOI Sales Up 127%, Gross Margin Stuck at 28%: Rapid Earnings Reaction",
           "url": "https://finance.yahoo.com/markets/stocks/articles/aoi-sales-127-gross-margin-055517678.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/ai-boom-turns-chip-packaging-055149159.html",
           "publisher": "Reuters",
           "published": "2026-11-06T05:51:49Z"
-        },
-        {
-          "title": "Exclusive-Nvidia chips pile up in Hong Kong as China withholds import approval",
-          "url": "https://finance.yahoo.com/news/exclusive-nvidia-chips-pile-hong-112651215.html",
-          "publisher": "Reuters",
-          "published": "2026-11-06T05:31:01Z"
         }
       ]
     },
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-brings-hardware-backed-022104103.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-06T02:21:04Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 166.72,
-      "previous_close": 191.8,
-      "change_pct": -13.08,
-      "market_cap": 178056722727.3892,
-      "headlines": [
-        {
-          "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
-          "url": "https://finance.yahoo.com/markets/article/qualcomm-micron-arm-stocks-sink-lead-chip-sector-lower-133100607.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-05T13:31:00Z"
-        },
-        {
-          "title": "Earnings live updates: Airbnb stock jumps as Wall Street cheers 'growth mode,' upbeat outlook",
-          "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-apple-palantir-roku-and-more-212856249.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-02T21:28:56Z"
-        },
-        {
-          "title": "Chip Stocks Tumble After Arm, Qualcomm Reports",
-          "url": "https://www.investors.com/news/technology/chip-stocks-tumble-arm-qualcomm-reports/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-05T21:43:43Z"
         }
       ]
     },
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -9.57,
-          "price": 1143000.0,
+          "change_pct": -10.13,
+          "price": 1136000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -5.66,
-          "price": 190100.0,
+          "change_pct": -6.0,
+          "price": 189400.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -11.11,
-          "price": 8288.0,
+          "change_pct": -10.83,
+          "price": 8314.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -9.57,
-        "price": 1143000.0,
+        "change_pct": -10.13,
+        "price": 1136000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -5.66,
-        "price": 190100.0,
+        "change_pct": -6.0,
+        "price": 189400.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -11.11,
-        "price": 8288.0,
+        "change_pct": -10.83,
+        "price": 8314.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 75492.38,
-      "change_pct": -6.11
+      "price": 75528.33,
+      "change_pct": -6.07
     },
     {
       "label": "Gold",
-      "price": 4053.9,
-      "change_pct": -1.45
+      "price": 4052.4,
+      "change_pct": -1.49
     },
     {
       "label": "Nasdaq100",

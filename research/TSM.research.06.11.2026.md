@@ -4,7 +4,7 @@ Signed file: `TSM.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $375.28 (2026-11-06, ~15-min delayed) |
+| Current price | $375.44 (2026-11-06, ~15-min delayed) |
 | Market cap | $1.95T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,8 +15,8 @@ Signed file: `TSM.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-6.19%) with negative half-year (-8.38%). |
-| Fresh setup quality | Moderate / wait | -22.75% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-6.15%) with negative half-year (-8.34%). |
+| Fresh setup quality | Moderate / wait | -22.72% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 51.12%, revenue growth 50.90%. |
 | Value attractiveness | Reasonable | Forward P/E 16.05, EV/Sales 2.32. |
 | Risk level | Elevated | Beta 1.23, ATR 4.5% of price, short float 0.61%. |
@@ -44,22 +44,22 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $375.28; 52w high $485.80 (-22.75%); 52w low $272.18 (+37.88%) |
-| Trend | -6.19% vs SMA200, -13.00% vs SMA50, -9.88% vs SMA20 |
-| Momentum | RSI(14) 36.2 (neutral) |
+| Price vs 52-week range | Close $375.44; 52w high $485.80 (-22.72%); 52w low $272.18 (+37.94%) |
+| Trend | -6.15% vs SMA200, -12.97% vs SMA50, -9.85% vs SMA20 |
+| Momentum | RSI(14) 36.3 (neutral) |
 | Volatility | ATR(14) 16.84 (~4.5% of price); beta 1.23 |
-| Setup perspective | -22.75% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -22.72% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
 | Week | -7.6% |
-| Month | -18.1% |
-| Quarter | -10.1% |
-| Half Y | -8.4% |
+| Month | -18.0% |
+| Quarter | -10.0% |
+| Half Y | -8.3% |
 | 1Y | +29.2% |
-| YTD | +18.3% |
+| YTD | +18.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.94T | Revenue growth 50.90% y/y |
 | Profitability | Gross 65.85%, operating 58.66%, net 51.12% | ROA 20.58%, ROE 41.85% |
 | Balance sheet | Cash $4.02T, debt $818.38B | Current ratio 2.50, debt/equity 11.62 |
-| Valuation | P/E 24.32, forward P/E 16.05, P/S 0.39, P/B 71.62 | EV/Sales 2.32, EV/EBITDA 3.17 |
+| Valuation | P/E 24.33, forward P/E 16.05, P/S 0.39, P/B 71.65 | EV/Sales 2.32, EV/EBITDA 3.17 |
 | Growth expectations | Earnings growth 68.70%, EPS q/q 68.70% | Analyst mean target $586.69 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $375.28 | EV/Sales | 2.32 |
+| Price | $375.44 | EV/Sales | 2.32 |
 | Market cap | $1.95T | EV/EBITDA | 3.17 |
 | Beta | 1.23 | Gross margin | 65.85% |
-| RSI(14) | 36.2 | Operating margin | 58.66% |
+| RSI(14) | 36.3 | Operating margin | 58.66% |
 | ATR(14) | 16.84 | Profit margin | 51.12% |
-| SMA20 dist | -9.88% | ROA | 20.58% |
-| SMA50 dist | -13.00% | ROE | 41.85% |
-| SMA200 dist | -6.19% | Revenue (ttm) | $4.94T |
+| SMA20 dist | -9.85% | ROA | 20.58% |
+| SMA50 dist | -12.97% | ROE | 41.85% |
+| SMA200 dist | -6.15% | Revenue (ttm) | $4.94T |
 | 52W high | $485.80 | Revenue growth y/y | 50.90% |
 | 52W low | $272.18 | Inst. ownership | 15.45% |
-| P/E (ttm) | 24.32 | Insider ownership | 0.01% |
+| P/E (ttm) | 24.33 | Insider ownership | 0.01% |
 | Forward P/E | 16.05 | Short float | 0.61% |
 | PEG (trailing) | 0.64 | Avg volume | 11,006,098 |
 | P/S | 0.39 | Employees | 76,907 |
-| P/B | 71.62 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 71.65 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

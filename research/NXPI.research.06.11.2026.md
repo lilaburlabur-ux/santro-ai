@@ -4,8 +4,8 @@ Signed file: `NXPI.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $247.60 (2026-11-06, ~15-min delayed) |
-| Market cap | $62.41B |
+| Current price | $248.29 (2026-11-06, ~15-min delayed) |
+| Market cap | $62.58B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `NXPI.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +19.74%; price +0.84% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -24.98% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +20.07%; price +1.12% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -24.77% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 23.39%, revenue growth 19.30%. |
-| Value attractiveness | Reasonable | Forward P/E 13.50, EV/Sales 5.00. |
+| Value attractiveness | Reasonable | Forward P/E 13.54, EV/Sales 5.00. |
 | Risk level | Elevated | Beta 1.86, ATR 4.6% of price, short float 2.67%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -44,22 +44,22 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $247.60; 52w high $330.06 (-24.98%); 52w low $180.99 (+36.80%) |
-| Trend | +0.84% vs SMA200, +4.99% vs SMA50, +1.70% vs SMA20 |
-| Momentum | RSI(14) 51.8 (neutral) |
+| Price vs 52-week range | Close $248.29; 52w high $330.06 (-24.77%); 52w low $180.99 (+37.18%) |
+| Trend | +1.12% vs SMA200, +5.27% vs SMA50, +1.97% vs SMA20 |
+| Momentum | RSI(14) 52.2 (neutral) |
 | Volatility | ATR(14) 11.42 (~4.6% of price); beta 1.86 |
-| Setup perspective | -24.98% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -24.77% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.6% |
-| Month | +7.2% |
-| Quarter | +6.5% |
-| Half Y | -15.3% |
-| 1Y | +19.7% |
-| YTD | +13.4% |
+| Week | -4.4% |
+| Month | +7.5% |
+| Quarter | +6.8% |
+| Half Y | -15.1% |
+| 1Y | +20.1% |
+| YTD | +13.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Revenue (ttm) | $13.80B | Revenue growth 19.30% y/y |
 | Profitability | Gross 56.46%, operating 32.30%, net 23.39% | ROA 10.82%, ROE 28.67% |
 | Balance sheet | Cash $3.94B, debt $10.98B | Current ratio 2.12, debt/equity 88.07 |
-| Valuation | P/E 19.48, forward P/E 13.50, P/S 4.52, P/B 5.16 | EV/Sales 5.00, EV/EBITDA 12.81 |
+| Valuation | P/E 19.54, forward P/E 13.54, P/S 4.54, P/B 5.18 | EV/Sales 5.00, EV/EBITDA 12.81 |
 | Growth expectations | Earnings growth 40.30%, EPS q/q 40.10% | Analyst mean target $299.93 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $247.60 | EV/Sales | 5.00 |
-| Market cap | $62.41B | EV/EBITDA | 12.81 |
+| Price | $248.29 | EV/Sales | 5.00 |
+| Market cap | $62.58B | EV/EBITDA | 12.81 |
 | Beta | 1.86 | Gross margin | 56.46% |
-| RSI(14) | 51.8 | Operating margin | 32.30% |
+| RSI(14) | 52.2 | Operating margin | 32.30% |
 | ATR(14) | 11.42 | Profit margin | 23.39% |
-| SMA20 dist | +1.70% | ROA | 10.82% |
-| SMA50 dist | +4.99% | ROE | 28.67% |
-| SMA200 dist | +0.84% | Revenue (ttm) | $13.80B |
+| SMA20 dist | +1.97% | ROA | 10.82% |
+| SMA50 dist | +5.27% | ROE | 28.67% |
+| SMA200 dist | +1.12% | Revenue (ttm) | $13.80B |
 | 52W high | $330.06 | Revenue growth y/y | 19.30% |
 | 52W low | $180.99 | Inst. ownership | 99.02% |
-| P/E (ttm) | 19.48 | Insider ownership | 0.14% |
-| Forward P/E | 13.50 | Short float | 2.67% |
+| P/E (ttm) | 19.54 | Insider ownership | 0.14% |
+| Forward P/E | 13.54 | Short float | 2.67% |
 | PEG (trailing) | 0.54 | Avg volume | 3,807,707 |
-| P/S | 4.52 | Employees | 32,169 |
-| P/B | 5.16 | Analyst rec (1=buy..5=sell) | 1.9 |
+| P/S | 4.54 | Employees | 32,169 |
+| P/B | 5.18 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

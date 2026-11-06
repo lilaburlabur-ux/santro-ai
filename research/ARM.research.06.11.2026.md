@@ -4,8 +4,8 @@ Signed file: `ARM.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $172.41 (2026-11-06, ~15-min delayed) |
-| Market cap | $184.48B |
+| Current price | $174.62 (2026-11-06, ~15-min delayed) |
+| Market cap | $186.84B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: low (expensive), risk: high. |
@@ -15,11 +15,11 @@ Signed file: `ARM.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-25.31%) with negative half-year (-19.16%). |
-| Fresh setup quality | Poor / broken | -60.77% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-24.35%) with negative half-year (-18.12%). |
+| Fresh setup quality | Poor / broken | -60.26% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 17.13%, revenue growth 27.10%. |
-| Value attractiveness | Low (expensive) | Forward P/E 56.40, EV/Sales 32.08. |
-| Risk level | High | Beta 3.94, ATR 9.1% of price, short float 12.02%. |
+| Value attractiveness | Low (expensive) | Forward P/E 57.13, EV/Sales 32.08. |
+| Risk level | High | Beta 3.94, ATR 9.0% of price, short float 12.02%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: low (expensive), risk: high.
 
@@ -36,30 +36,30 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
+| Nvidia, AMD, and Micron stocks lead chip sector higher following worst sell-off since 2020 | Yahoo Finance | 2026-11-06 |
 | Arm CEO Sees Data Center Royalties “Growing Triple Digits” as Phone Royalties Stall | TIKR | 2026-11-06 |
-| Arm Holdings Stocks Rise 4.01% as Data Center Royalties Double | GuruFocus.com | 2026-11-06 |
-| Qualcomm Rises 5% on Alphabet’s $548 Million Stake as CEO Sees a “Disconnect” on AI | TIKR | 2026-11-06 |
 | AI Stocks Rebound After Brutal Week for Nasdaq | The Wall Street Journal | 2026-11-06 |
+| Arm Holdings Stocks Rise 4.01% as Data Center Royalties Double | GuruFocus.com | 2026-11-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $172.41; 52w high $439.46 (-60.77%); 52w low $104.55 (+64.91%) |
-| Trend | -25.31% vs SMA200, -31.78% vs SMA50, -21.06% vs SMA20 |
-| Momentum | RSI(14) 30.0 (neutral) |
-| Volatility | ATR(14) 15.69 (~9.1% of price); beta 3.94 |
-| Setup perspective | -60.77% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $174.62; 52w high $439.46 (-60.26%); 52w low $104.55 (+67.02%) |
+| Trend | -24.35% vs SMA200, -30.92% vs SMA50, -20.09% vs SMA20 |
+| Momentum | RSI(14) 31.1 (neutral) |
+| Volatility | ATR(14) 15.69 (~9.0% of price); beta 3.94 |
+| Setup perspective | -60.26% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -16.3% |
-| Month | -37.4% |
-| Quarter | -35.6% |
-| Half Y | -19.2% |
-| 1Y | +7.6% |
-| YTD | +50.3% |
+| Week | -15.2% |
+| Month | -36.6% |
+| Quarter | -34.8% |
+| Half Y | -18.1% |
+| 1Y | +9.0% |
+| YTD | +52.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Revenue (ttm) | $5.46B | Revenue growth 27.10% y/y |
 | Profitability | Gross 97.44%, operating 13.93%, net 17.13% | ROA 5.50%, ROE 11.35% |
 | Balance sheet | Cash $3.62B, debt $500.00M | Current ratio 6.35, debt/equity 5.50 |
-| Valuation | P/E 198.17, forward P/E 56.40, P/S 33.76, P/B 20.30 | EV/Sales 32.08, EV/EBITDA 155.42 |
+| Valuation | P/E 200.71, forward P/E 57.13, P/S 34.20, P/B 20.56 | EV/Sales 32.08, EV/EBITDA 155.42 |
 | Growth expectations | Earnings growth -45.50%, EPS q/q -45.40% | Analyst mean target $288.58 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,8 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Capital International Investors | 2,050,241 | 0.19% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 56.40, EV/Sales 32.08. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 3.94, ATR 9.1% of price, short float 12.02%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 57.13, EV/Sales 32.08. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 3.94, ATR 9.0% of price, short float 12.02%. Size positions accordingly.
 - **Short interest risk:** short float 12.02% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -113,21 +113,21 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $172.41 | EV/Sales | 32.08 |
-| Market cap | $184.48B | EV/EBITDA | 155.42 |
+| Price | $174.62 | EV/Sales | 32.08 |
+| Market cap | $186.84B | EV/EBITDA | 155.42 |
 | Beta | 3.94 | Gross margin | 97.44% |
-| RSI(14) | 30.0 | Operating margin | 13.93% |
+| RSI(14) | 31.1 | Operating margin | 13.93% |
 | ATR(14) | 15.69 | Profit margin | 17.13% |
-| SMA20 dist | -21.06% | ROA | 5.50% |
-| SMA50 dist | -31.78% | ROE | 11.35% |
-| SMA200 dist | -25.31% | Revenue (ttm) | $5.46B |
+| SMA20 dist | -20.09% | ROA | 5.50% |
+| SMA50 dist | -30.92% | ROE | 11.35% |
+| SMA200 dist | -24.35% | Revenue (ttm) | $5.46B |
 | 52W high | $439.46 | Revenue growth y/y | 27.10% |
 | 52W low | $104.55 | Inst. ownership | 96.30% |
-| P/E (ttm) | 198.17 | Insider ownership | 0.07% |
-| Forward P/E | 56.40 | Short float | 12.02% |
+| P/E (ttm) | 200.71 | Insider ownership | 0.07% |
+| Forward P/E | 57.13 | Short float | 12.02% |
 | PEG (trailing) | 1.58 | Avg volume | 5,040,978 |
-| P/S | 33.76 | Employees | 9,584 |
-| P/B | 20.30 | Analyst rec (1=buy..5=sell) | 1.9 |
+| P/S | 34.20 | Employees | 9,584 |
+| P/B | 20.56 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

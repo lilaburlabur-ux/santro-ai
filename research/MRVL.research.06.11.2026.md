@@ -4,8 +4,8 @@ Signed file: `MRVL.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $139.90 (2026-11-06, ~15-min delayed) |
-| Market cap | $125.91B |
+| Current price | $141.20 (2026-11-06, ~15-min delayed) |
+| Market cap | $127.05B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `MRVL.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-24.37%) with negative half-year (-17.73%). |
-| Fresh setup quality | Poor / broken | -55.77% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-23.67%) with negative half-year (-16.97%). |
+| Fresh setup quality | Poor / broken | -55.36% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 27.93%, revenue growth 36.50%. |
-| Value attractiveness | Reasonable | Forward P/E 19.06, EV/Sales 12.54. |
-| Risk level | High | Beta 2.33, ATR 12.9% of price, short float 3.28%. |
+| Value attractiveness | Reasonable | Forward P/E 19.23, EV/Sales 12.54. |
+| Risk level | High | Beta 2.33, ATR 12.8% of price, short float 3.28%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Lumentum Holdings (LITE) Could Be 90% Undervalued Following The Marvell Deal | Simply Wall St. | 2026-11-06 |
 | Broadcom Is Still Down 22% in the Past Month: Is AVGO Stock Really on a Road to Recovery? | 24/7 Wall St. | 2026-11-06 |
 | Investing.com’s stocks of the week | Investing.com | 2026-11-06 |
 | What B. Riley Financial (RILY) Said on Its Q3 Earnings Call | MarketBeat | 2026-11-06 |
-| Coherent Surges 13% as Investors Revisit $20 Billion AI Deal After Sell-Off; Lumentum Climbs 4%, Applied Optoelectronics Gains 3% | 24/7 Wall St. | 2026-11-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $139.90; 52w high $316.28 (-55.77%); 52w low $73.66 (+89.93%) |
-| Trend | -24.37% vs SMA200, -40.28% vs SMA50, -35.58% vs SMA20 |
-| Momentum | RSI(14) 25.6 (oversold) |
-| Volatility | ATR(14) 18.02 (~12.9% of price); beta 2.33 |
-| Setup perspective | -55.77% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $141.20; 52w high $316.28 (-55.36%); 52w low $73.66 (+91.69%) |
+| Trend | -23.67% vs SMA200, -39.73% vs SMA50, -35.00% vs SMA20 |
+| Momentum | RSI(14) 26.2 (oversold) |
+| Volatility | ATR(14) 18.02 (~12.8% of price); beta 2.33 |
+| Setup perspective | -55.36% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -28.8% |
-| Month | -49.1% |
-| Quarter | -32.9% |
-| Half Y | -17.7% |
-| 1Y | +50.8% |
-| YTD | +56.8% |
+| Week | -28.1% |
+| Month | -48.6% |
+| Quarter | -32.3% |
+| Half Y | -17.0% |
+| 1Y | +52.2% |
+| YTD | +58.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $9.45B | Revenue growth 36.50% y/y |
 | Profitability | Gross 52.22%, operating 16.68%, net 27.93% | ROA 4.12%, ROE 16.52% |
 | Balance sheet | Cash $3.93B, debt $5.29B | Current ratio 3.17, debt/equity 28.52 |
-| Valuation | P/E 46.03, forward P/E 19.06, P/S 13.32, P/B 6.62 | EV/Sales 12.54, EV/EBITDA 41.56 |
+| Valuation | P/E 46.45, forward P/E 19.23, P/S 13.44, P/B 6.68 | EV/Sales 12.54, EV/EBITDA 41.56 |
 | Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $311.29 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | JPMORGAN CHASE & CO | 13,891,628 | 1.58% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.33, ATR 12.9% of price, short float 3.28%. Size positions accordingly.
+- **Volatility risk:** Beta 2.33, ATR 12.8% of price, short float 3.28%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,21 +111,21 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $139.90 | EV/Sales | 12.54 |
-| Market cap | $125.91B | EV/EBITDA | 41.56 |
+| Price | $141.20 | EV/Sales | 12.54 |
+| Market cap | $127.05B | EV/EBITDA | 41.56 |
 | Beta | 2.33 | Gross margin | 52.22% |
-| RSI(14) | 25.6 | Operating margin | 16.68% |
+| RSI(14) | 26.2 | Operating margin | 16.68% |
 | ATR(14) | 18.02 | Profit margin | 27.93% |
-| SMA20 dist | -35.58% | ROA | 4.12% |
-| SMA50 dist | -40.28% | ROE | 16.52% |
-| SMA200 dist | -24.37% | Revenue (ttm) | $9.45B |
+| SMA20 dist | -35.00% | ROA | 4.12% |
+| SMA50 dist | -39.73% | ROE | 16.52% |
+| SMA200 dist | -23.67% | Revenue (ttm) | $9.45B |
 | 52W high | $316.28 | Revenue growth y/y | 36.50% |
 | 52W low | $73.66 | Inst. ownership | 81.92% |
-| P/E (ttm) | 46.03 | Insider ownership | 0.50% |
-| Forward P/E | 19.06 | Short float | 3.28% |
+| P/E (ttm) | 46.45 | Insider ownership | 0.50% |
+| Forward P/E | 19.23 | Short float | 3.28% |
 | PEG (trailing) | 0.33 | Avg volume | 23,673,537 |
-| P/S | 13.32 | Employees | 7,480 |
-| P/B | 6.62 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/S | 13.44 | Employees | 7,480 |
+| P/B | 6.68 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

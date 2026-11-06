@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-06T09:29:19+00:00",
-  "as_of_local": "2026-11-06 09:29:19 UTC",
+  "as_of_utc": "2026-11-06T09:34:28+00:00",
+  "as_of_local": "2026-11-06 09:34:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,22 +15,22 @@
       "market_cap": 4385095347381.592,
       "headlines": [
         {
+          "title": "Midterm Elections Yield a Dubious Surprise for the Trump Bull Market -- Is a Stock Market Crash Imminent?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/midterm-elections-yield-dubious-surprise-092601945.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-06T09:26:01Z"
+        },
+        {
+          "title": "Should You Buy Nvidia Before Nov. 17? The Evidence is Piling Up and Here\u2019s What It Shows.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-nvidia-nov-17-evidence-092502652.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-06T09:25:02Z"
+        },
+        {
           "title": "Bitcoin Falls Below $76,000 as Chip Stocks Crash and Liquidations Hit $1 Billion: Why Is Crypto Down Today?",
           "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-below-76-000-092021228.html",
           "publisher": "Coinspeaker",
           "published": "2026-11-06T09:20:21Z"
-        },
-        {
-          "title": "Stock market today: Dow, S&P 500, Nasdaq futures wobble after brutal sell-off, with key jobs report on deck",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-06T09:19:27Z"
-        },
-        {
-          "title": "The Biggest Stock Winners and Losers From the Midterm Elections",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/biggest-stock-winners-losers-midterm-091500975.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-06T09:15:00Z"
         }
       ]
     },
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-november-huge-month-broadcom-072900321.html",
           "publisher": "Motley Fool",
           "published": "2026-11-06T07:29:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 656.39,
-      "previous_close": 795.23,
-      "change_pct": -17.46,
-      "market_cap": 742654898698.2622,
-      "headlines": [
-        {
-          "title": "Micron stock sinks 17% as chip sector crashes",
-          "url": "https://finance.yahoo.com/markets/article/micron-declines-12-as-chip-sell-off-deepens-163137019.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-05T16:31:37Z"
-        },
-        {
-          "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
-          "url": "https://finance.yahoo.com/markets/article/qualcomm-micron-arm-stocks-sink-lead-chip-sector-lower-133100607.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-05T13:31:00Z"
-        },
-        {
-          "title": "Micron and Sandisk valuation multiples are unbelievable as chip stocks get crushed",
-          "url": "https://finance.yahoo.com/markets/article/micron-and-sandisk-valuation-multiples-are-unbelievable-as-chip-stocks-get-crushed-180250881.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-05T18:02:50Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -17.46,
-          "price": 656.39,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -17.46,
-        "price": 656.39,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 76002.52,
-      "change_pct": 0.08
+      "price": 76092.5,
+      "change_pct": 0.2
     },
     {
       "label": "Gold",
-      "price": 4087.4,
-      "change_pct": -0.63
+      "price": 4087.8,
+      "change_pct": -0.62
     },
     {
       "label": "Nasdaq100",

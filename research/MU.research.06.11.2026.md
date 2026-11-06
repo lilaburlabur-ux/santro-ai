@@ -36,10 +36,10 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 
 | Headline | Source | Date |
 |---|---|---|
+| Micron vs. Nvidia: Which AI Stock Is a Better Buy for 2027? | TipRanks | 2026-11-06 |
 | Nvidia, AMD, and Micron stocks lead chip sector higher following worst sell-off since 2020 | Yahoo Finance | 2026-11-06 |
 | Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks | Yahoo Finance | 2026-11-06 |
 | Stocks See Slight Rebound After Thursday's Rout But Remain Well Below Highs | International Business Times | 2026-11-06 |
-| SK Hynix Just Announced Huge News for Micron Shareholders | Motley Fool | 2026-11-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

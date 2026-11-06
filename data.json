@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-06T09:24:18+00:00",
-  "as_of_local": "2026-11-06 09:24:18 UTC",
+  "as_of_utc": "2026-11-06T09:29:19+00:00",
+  "as_of_local": "2026-11-06 09:29:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 4385095347381.592,
       "headlines": [
         {
+          "title": "Bitcoin Falls Below $76,000 as Chip Stocks Crash and Liquidations Hit $1 Billion: Why Is Crypto Down Today?",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-below-76-000-092021228.html",
+          "publisher": "Coinspeaker",
+          "published": "2026-11-06T09:20:21Z"
+        },
+        {
           "title": "Stock market today: Dow, S&P 500, Nasdaq futures wobble after brutal sell-off, with key jobs report on deck",
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html",
           "publisher": "Yahoo Finance",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/biggest-stock-winners-losers-midterm-091500975.html",
           "publisher": "Motley Fool",
           "published": "2026-11-06T09:15:00Z"
-        },
-        {
-          "title": "Broadcom Stock Has Had Only 2 Losing Years Since 2009. 2026 Is on Pace to Be the 3rd.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-had-only-2-090102789.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-06T09:01:02Z"
         }
       ]
     },
@@ -137,10 +137,10 @@
           "published": "2026-11-05T13:31:00Z"
         },
         {
-          "title": "Stock market today: Dow, S&P 500, Nasdaq futures wobble after brutal sell-off, with key jobs report on deck",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-06T09:19:27Z"
+          "title": "Bitcoin Falls Below $76,000 as Chip Stocks Crash and Liquidations Hit $1 Billion: Why Is Crypto Down Today?",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-below-76-000-092021228.html",
+          "publisher": "Coinspeaker",
+          "published": "2026-11-06T09:20:21Z"
         }
       ]
     },
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -8.72,
+          "price": 8511.0,
           "currency": "JPY"
         },
         {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -8.72,
+        "price": 8511.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 76115.97,
-      "change_pct": 0.23
+      "price": 76002.52,
+      "change_pct": 0.08
     },
     {
       "label": "Gold",
-      "price": 4088.4,
-      "change_pct": -0.61
+      "price": 4087.4,
+      "change_pct": -0.63
     },
     {
       "label": "Nasdaq100",

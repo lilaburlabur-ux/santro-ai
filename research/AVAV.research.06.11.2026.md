@@ -4,24 +4,24 @@ Signed file: `AVAV.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-06, ~15-min delayed) |
-| Market cap | $5.19B |
+| Current price | $113.00 (2026-11-06, ~15-min delayed) |
+| Market cap | $5.74B |
 | Sector / Industry | Industrials / Aerospace & Defense |
 | Main theme | Aerospace & Defense — see catalysts below |
-| Current stance | Moderate technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
+| Current stance | Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-06.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-37.09%) with negative half-year (-32.85%). |
+| Fresh setup quality | Poor / broken | -71.24% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-10.13%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 23.16, EV/Sales 2.72. |
-| Risk level | High | Beta 1.40, ATR nan% of price, short float 13.01%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 25.63, EV/Sales 2.72. |
+| Risk level | High | Beta 1.40, ATR 7.3% of price, short float 13.01%. |
 
-**Bottom line:** Moderate technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 | Headline | Source | Date |
 |---|---|---|
+| Ondas Surges 15% as Drone Stocks Rebound Ahead of Its Earnings Report; Red Cat Jumps 14%, AeroVironment Surges 9% | 24/7 Wall St. | 2026-11-06 |
+| Ondas to Report Q3 Earnings: Can Orders and Acquisitions Fuel Growth? | Zacks | 2026-11-06 |
+| Defense Watch: Strong Q3 Earnings, New Military Contracts, But Democrats’ Sweep Poses Spending Hurdles | Stocktwits | 2026-11-06 |
 | Ondas Just Dropped 38% in a Month: Is ONDS Stock a Falling Knife or Poised for a Comeback? | 24/7 Wall St. | 2026-11-05 |
-| A $2.4 Billion Fund Bought These 3 Stocks | TIKR | 2026-11-05 |
-| AeroVironment (AVAV) Could Be 19% Overvalued After Contract Bid Reopened | Simply Wall St. | 2026-11-04 |
-| AeroVironment (AVAV) Stock Fair Value Edges Lower As Analysts Reassess Defense Funding Risks | Simply Wall St. | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $392.86 (+nan%); 52w low $113.23 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 33.3 (neutral) |
-| Volatility | ATR(14) 7.52 (~nan% of price); beta 1.40 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $113.00; 52w high $392.86 (-71.24%); 52w low $102.08 (+10.70%) |
+| Trend | -37.09% vs SMA200, -17.85% vs SMA50, -7.08% vs SMA20 |
+| Momentum | RSI(14) 39.0 (neutral) |
+| Volatility | ATR(14) 8.24 (~7.3% of price); beta 1.40 |
+| Setup perspective | -71.24% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -10.4% |
+| Month | -17.9% |
+| Quarter | -40.3% |
+| Half Y | -32.9% |
+| 1Y | -67.8% |
+| YTD | -55.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Revenue (ttm) | $2.00B | Revenue growth 5.70% y/y |
 | Profitability | Gross 26.47%, operating -2.27%, net -10.13% | ROA -0.13%, ROE -4.60% |
 | Balance sheet | Cash $580.23M, debt $850.82M | Current ratio 4.26, debt/equity 19.35 |
-| Valuation | P/E —, forward P/E 23.16, P/S 2.59, P/B 1.18 | EV/Sales 2.72, EV/EBITDA 24.86 |
+| Valuation | P/E —, forward P/E 25.63, P/S 2.87, P/B 1.30 | EV/Sales 2.72, EV/EBITDA 24.86 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $212.20 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 88.85% |
+| Institutional ownership | 88.97% |
 | Insider ownership | 0.90% |
 | Short float | 13.01% |
 | Short ratio (days to cover) | 3.2 |
@@ -95,10 +95,11 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Van Eck Associates Corporation | 612,915 | 1.21% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 23.16, EV/Sales 2.72. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.40, ATR nan% of price, short float 13.01%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 25.63, EV/Sales 2.72. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.40, ATR 7.3% of price, short float 13.01%. Size positions accordingly.
 - **Short interest risk:** short float 13.01% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** defense/aerospace names live and die on government budgets, appropriations timing, and program/contract awards — revenue is policy-driven and lumpy.
 
 ### Setup checklist for your journal
@@ -113,21 +114,21 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.72 |
-| Market cap | $5.19B | EV/EBITDA | 24.86 |
+| Price | $113.00 | EV/Sales | 2.72 |
+| Market cap | $5.74B | EV/EBITDA | 24.86 |
 | Beta | 1.40 | Gross margin | 26.47% |
-| RSI(14) | 33.3 | Operating margin | -2.27% |
-| ATR(14) | 7.52 | Profit margin | -10.13% |
-| SMA20 dist | +nan% | ROA | -0.13% |
-| SMA50 dist | +nan% | ROE | -4.60% |
-| SMA200 dist | +nan% | Revenue (ttm) | $2.00B |
+| RSI(14) | 39.0 | Operating margin | -2.27% |
+| ATR(14) | 8.24 | Profit margin | -10.13% |
+| SMA20 dist | -7.08% | ROA | -0.13% |
+| SMA50 dist | -17.85% | ROE | -4.60% |
+| SMA200 dist | -37.09% | Revenue (ttm) | $2.00B |
 | 52W high | $392.86 | Revenue growth y/y | 5.70% |
-| 52W low | $113.23 | Inst. ownership | 88.85% |
+| 52W low | $102.08 | Inst. ownership | 88.97% |
 | P/E (ttm) | — | Insider ownership | 0.90% |
-| Forward P/E | 23.16 | Short float | 13.01% |
-| PEG (trailing) | 0.98 | Avg volume | 1,647,990 |
-| P/S | 2.59 | Employees | 3,991 |
-| P/B | 1.18 | Analyst rec (1=buy..5=sell) | 1.7 |
+| Forward P/E | 25.63 | Short float | 13.01% |
+| PEG (trailing) | 0.88 | Avg volume | 1,664,518 |
+| P/S | 2.87 | Employees | 3,991 |
+| P/B | 1.30 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -142,7 +143,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | 2026-09-11 | main | B of A Securities | Buy → Buy |
 
 ## 9. Conclusion
-AVAV: Moderate momentum / weak fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+AVAV: Low momentum / weak fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

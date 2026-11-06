@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-06T21:32:44+00:00",
-  "as_of_local": "2026-11-06 21:32:44 UTC",
+  "as_of_utc": "2026-11-06T21:38:09+00:00",
+  "as_of_local": "2026-11-06 21:38:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-still-down-22-past-200319828.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-06T20:03:19Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 690.0,
+      "previous_close": 656.39,
+      "change_pct": 5.12,
+      "market_cap": 780682016280.0,
+      "headlines": [
+        {
+          "title": "Micron vs. Nvidia: Which AI Stock Is a Better Buy for 2027?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-nvidia-ai-stock-211242383.html",
+          "publisher": "TipRanks",
+          "published": "2026-11-06T21:12:42Z"
+        },
+        {
+          "title": "Nvidia, AMD, and Micron stocks lead chip sector higher following worst sell-off since 2020",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-sandsik-lead-chip-sector-higher-134336542.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-06T13:43:36Z"
+        },
+        {
+          "title": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-06T09:19:27Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 5.12,
+          "price": 690.0,
           "currency": "USD"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -13.14,
-          "price": 9324.0,
+          "change_pct": -8.72,
+          "price": 8511.0,
           "currency": "JPY"
         },
         {
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -9.89,
-          "price": 127.5,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "TWD"
         }
       ]
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 5.12,
+        "price": 690.0,
         "currency": "USD"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -13.14,
-        "price": 9324.0,
+        "change_pct": -8.72,
+        "price": 8511.0,
         "currency": "JPY"
       },
       {
@@ -545,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -9.89,
-        "price": 127.5,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "TWD"
       }
     ]
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 75626.38,
-      "change_pct": -0.42
+      "price": 75677.05,
+      "change_pct": -0.35
     },
     {
       "label": "Gold",
-      "price": 4074.0,
-      "change_pct": -0.96
+      "price": 4072.7,
+      "change_pct": -0.99
     },
     {
       "label": "Nasdaq100",

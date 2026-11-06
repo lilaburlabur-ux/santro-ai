@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T23:57:57+00:00",
-  "as_of_local": "2026-11-05 23:57:57 UTC",
+  "as_of_utc": "2026-11-06T00:02:57+00:00",
+  "as_of_local": "2026-11-06 00:02:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-11-05T23:54:44Z"
         },
         {
-          "title": "Frontdoor, Inc. Q3 2026 Earnings Call Summary",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/frontdoor-inc-q3-2026-earnings-234529464.html",
+          "title": "Amylyx Pharmaceuticals, Inc. Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/healthcare/articles/amylyx-pharmaceuticals-inc-q3-2026-235215623.html",
           "publisher": "Moby",
-          "published": "2026-11-05T23:45:29Z"
+          "published": "2026-11-05T23:52:15Z"
         },
         {
-          "title": "Haemonetics Corporation Q2 2027 Earnings Call Summary",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/haemonetics-corporation-q2-2027-earnings-234356689.html",
+          "title": "Evolent Health, Inc. Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/healthcare/articles/evolent-health-inc-q3-2026-234918740.html",
           "publisher": "Moby",
-          "published": "2026-11-05T23:43:56Z"
+          "published": "2026-11-05T23:49:18Z"
         }
       ]
     },
@@ -229,34 +231,6 @@
       ]
     },
     {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 133.55,
-      "previous_close": 159.8,
-      "change_pct": -16.43,
-      "market_cap": 120163736286.96756,
-      "headlines": [
-        {
-          "title": "What Insight Enterprises (NSIT) Said on Its Q3 Earnings Call",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/insight-enterprises-nsit-said-q3-221435091.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-05T22:14:35Z"
-        },
-        {
-          "title": "Why Marvell Stock Is Falling Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-stock-falling-today-200502073.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-05T20:05:02Z"
-        },
-        {
-          "title": "Marvell Just Dropped 49% in a Month: Is MRVL Stock Hopeless or Ready for a Rebound?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-just-dropped-49-month-200321691.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-05T20:03:21Z"
-        }
-      ]
-    },
-    {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
       "price": 244.43,
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -9.46,
+          "price": 1264000.0,
           "currency": "KRW"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -9.46,
+        "price": 1264000.0,
         "currency": "KRW"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 75972.44,
-      "change_pct": -5.51
+      "price": 76117.41,
+      "change_pct": -5.33
     },
     {
       "label": "Gold",
-      "price": 4099.4,
-      "change_pct": 0.65
+      "price": 4095.1,
+      "change_pct": 0.54
     },
     {
       "label": "Nasdaq100",

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-06T08:48:35+00:00",
-  "as_of_local": "2026-11-06 08:48:35 UTC",
+  "as_of_utc": "2026-11-06T08:53:40+00:00",
+  "as_of_local": "2026-11-06 08:53:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 4385095347381.592,
       "headlines": [
         {
+          "title": "Palantir and AMD Just Reported Earnings. History Says This Will Happen to Both Stocks Next.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-amd-just-reported-earnings-083500320.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-06T08:35:00Z"
+        },
+        {
           "title": "Tesla Stock Has Fallen 29% From Its Record. I Think the Stock Is Overvalued.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-fallen-29-record-082702757.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/inflation-just-hit-3-7-075000270.html",
           "publisher": "Motley Fool",
           "published": "2026-11-06T07:50:00Z"
-        },
-        {
-          "title": "Beijing seeks to bolster AI shares",
-          "url": "https://finance.yahoo.com/technology/ai/articles/beijing-seeks-bolster-ai-shares-071756887.html",
-          "publisher": "AFP",
-          "published": "2026-11-06T07:17:56Z"
         }
       ]
     },
@@ -137,10 +137,10 @@
           "published": "2026-11-05T13:31:00Z"
         },
         {
-          "title": "AI boom turns chip packaging into the next battleground for semiconductors",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-boom-turns-chip-packaging-055149159.html",
-          "publisher": "Reuters",
-          "published": "2026-11-06T05:51:49Z"
+          "title": "Palantir and AMD Just Reported Earnings. History Says This Will Happen to Both Stocks Next.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-amd-just-reported-earnings-083500320.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-06T08:35:00Z"
         }
       ]
     },
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 37.01,
-      "change_pct": -17.96,
+      "price": null,
+      "change_pct": 0.0,
       "holdings": [
         {
           "symbol": "MU",
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 37.01,
-    "change_pct": -17.96,
+    "price": null,
+    "change_pct": 0.0,
     "holdings": [
       {
         "symbol": "MU",
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 75554.01,
-      "change_pct": -0.51
+      "price": 75599.55,
+      "change_pct": -0.45
     },
     {
       "label": "Gold",
-      "price": 4079.8,
-      "change_pct": -0.82
+      "price": 4081.9,
+      "change_pct": -0.77
     },
     {
       "label": "Nasdaq100",

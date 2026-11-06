@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-06T01:49:28+00:00",
-  "as_of_local": "2026-11-06 01:49:28 UTC",
+  "as_of_utc": "2026-11-06T01:57:54+00:00",
+  "as_of_local": "2026-11-06 01:57:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -201,34 +203,6 @@
       ]
     },
     {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 173.19,
-      "previous_close": 164.43,
-      "change_pct": 5.33,
-      "market_cap": 167383842722.25,
-      "headlines": [
-        {
-          "title": "Qualcomm CFO outlines AI's next big transformation: A new type of personal device",
-          "url": "https://finance.yahoo.com/video/qualcomm-cfo-outlines-ais-next-big-transformation-a-new-type-of-personal-device-215605977.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-05T21:56:05Z"
-        },
-        {
-          "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
-          "url": "https://finance.yahoo.com/markets/article/qualcomm-micron-arm-stocks-sink-lead-chip-sector-lower-133100607.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-05T13:31:00Z"
-        },
-        {
-          "title": "Qualcomm profits hit by supply costs, US jobs data, and a return of the bulls after the midterms",
-          "url": "https://finance.yahoo.com/video/qualcomm-profits-hit-by-supply-costs-us-jobs-data-and-a-return-of-the-bulls-after-the-midterms-144628233.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-05T14:46:28Z"
-        }
-      ]
-    },
-    {
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "price": 159.8,
@@ -265,6 +239,12 @@
       "market_cap": 61609311856.840004,
       "headlines": [
         {
+          "title": "Can Monolithic Power Systems Stock Rally 50% After This Dip?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/monolithic-power-systems-stock-rally-013141981.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T01:31:41Z"
+        },
+        {
           "title": "Why Is Monolithic Power Stock Going Up?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-monolithic-power-stock-going-134922228.html",
           "publisher": "Trefis",
@@ -275,12 +255,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/semtech-stock-hit-190-115307936.html",
           "publisher": "Trefis",
           "published": "2026-11-04T11:53:07Z"
-        },
-        {
-          "title": "Two Analog Chip Stocks Buoy Philadelphia Semiconductor Index",
-          "url": "https://www.investors.com/news/technology/analog-chip-stocks-buoy-philadelphia-semiconductor-index/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-02T23:39:19Z"
         }
       ]
     },
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -11.16,
-          "price": 1123000.0,
+          "change_pct": -9.41,
+          "price": 1145000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -8.14,
-          "price": 185100.0,
+          "change_pct": -7.37,
+          "price": 186650.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -10.19,
-          "price": 8374.0,
+          "change_pct": -11.4,
+          "price": 8261.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -11.16,
-        "price": 1123000.0,
+        "change_pct": -9.41,
+        "price": 1145000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -8.14,
-        "price": 185100.0,
+        "change_pct": -7.37,
+        "price": 186650.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -10.19,
-        "price": 8374.0,
+        "change_pct": -11.4,
+        "price": 8261.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 76009.77,
-      "change_pct": -5.47
+      "price": 75994.31,
+      "change_pct": -5.49
     },
     {
       "label": "Gold",
-      "price": 4082.7,
-      "change_pct": 0.24
+      "price": 4073.0,
+      "change_pct": 0.0
     },
     {
       "label": "Nasdaq100",

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-06T00:29:07+00:00",
+  "as_of": "2026-11-06T00:44:00+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "APP",
    "company": "Applovin Corp",
-   "move_pct": 29.18,
-   "price": 351.03,
+   "move_pct": 29.2,
+   "price": 351.1,
    "volume": 22122914,
    "volume_vs_avg": "~5x",
    "heat_score": 99,
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
-   "move_pct": -14.17,
-   "price": 419.5,
+   "move_pct": -14.02,
+   "price": 420.28,
    "volume": 70120811,
    "volume_vs_avg": "~3x",
    "heat_score": 90,
@@ -41,6 +41,22 @@
   },
   {
    "rank": 3,
+   "ticker": "MU",
+   "company": "Micron Technology Inc",
+   "move_pct": -13.8,
+   "price": 685.48,
+   "volume": 76138480,
+   "volume_vs_avg": "~3x",
+   "heat_score": 88,
+   "direction": "down",
+   "why": "Nvidia, Micron, Intel, Sandisk, Palantir, AppLovin, Qualcomm, and More Stocks That Explain Today\u2019s Market",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/m/de98938f-df98-3afd-93e7-51ed0664b1a9/nvidia%2C-micron%2C-intel%2C.html",
+   "published": "2026-11-05T22:12:00+00:00",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 4,
    "ticker": "ROK",
    "company": "Rockwell Automation Inc",
    "move_pct": -12.99,
@@ -54,22 +70,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/rockwell-automation-inc-q4-2026-222035174.html",
    "published": "2026-11-05T22:20:35+00:00",
    "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 4,
-   "ticker": "MU",
-   "company": "Micron Technology Inc",
-   "move_pct": -13.64,
-   "price": 686.73,
-   "volume": 76138480,
-   "volume_vs_avg": "~3x",
-   "heat_score": 87,
-   "direction": "down",
-   "why": "Nvidia, Micron, Intel, Sandisk, Palantir, AppLovin, Qualcomm, and More Stocks That Explain Today\u2019s Market",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/m/de98938f-df98-3afd-93e7-51ed0664b1a9/nvidia%2C-micron%2C-intel%2C.html",
-   "published": "2026-11-05T22:12:00+00:00",
-   "sector": "AI Chips & Compute"
   },
   {
    "rank": 5,
@@ -105,22 +105,6 @@
   },
   {
    "rank": 7,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings Co",
-   "move_pct": -12.25,
-   "price": 180.36,
-   "volume": 19232168,
-   "volume_vs_avg": "~3x",
-   "heat_score": 83,
-   "direction": "down",
-   "why": "Caterpillar Sinks Another 6%, Vertiv Down 14%, Quanta Down 12% as AI Selloff Spreads to Industrials",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-sinks-another-6-vertiv-213106252.html",
-   "published": "2026-11-05T21:31:06+00:00",
-   "sector": "Data Center, Power & Energy"
-  },
-  {
-   "rank": 8,
    "ticker": "POWL",
    "company": "Powell Industries Inc",
    "move_pct": -12.61,
@@ -134,6 +118,22 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/powell-industries-powl-suffers-larger-214502283.html",
    "published": "2026-11-05T21:45:02+00:00",
    "sector": "Powering AI"
+  },
+  {
+   "rank": 8,
+   "ticker": "VRT",
+   "company": "Vertiv Holdings Co",
+   "move_pct": -11.8,
+   "price": 181.3,
+   "volume": 19232168,
+   "volume_vs_avg": "~3x",
+   "heat_score": 81,
+   "direction": "down",
+   "why": "Caterpillar Sinks Another 6%, Vertiv Down 14%, Quanta Down 12% as AI Selloff Spreads to Industrials",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-sinks-another-6-vertiv-213106252.html",
+   "published": "2026-11-05T21:31:06+00:00",
+   "sector": "Data Center, Power & Energy"
   }
  ]
 }

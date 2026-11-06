@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-06T22:54:53+00:00",
-  "as_of_local": "2026-11-06 22:54:53 UTC",
+  "as_of_utc": "2026-11-06T22:59:55+00:00",
+  "as_of_local": "2026-11-06 22:59:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -31,6 +29,34 @@
           "url": "https://finance.yahoo.com/markets/article/what-the-ai-stock-crash-cost-your-401k-for-every-1000-invested-172821837.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-06T17:28:21Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 375.44,
+      "previous_close": 353.1,
+      "change_pct": 6.33,
+      "market_cap": 1947209816103.01,
+      "headlines": [
+        {
+          "title": "Intel Stock\u2019s (INTC) Deep Sell-Off Shows Signs of an Overreaction",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-intc-deep-sell-213300842.html",
+          "publisher": "TipRanks",
+          "published": "2026-11-06T21:33:00Z"
+        },
+        {
+          "title": "Update: Market Chatter: TSMC Mulls Expanding Into Advanced Memory Chip Production",
+          "url": "https://finance.yahoo.com/technology/articles/market-chatter-tsmc-mulls-expanding-194817754.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-06T19:48:17Z"
+        },
+        {
+          "title": "TSMC Makes the Chips for Both Nvidia and AMD. Here's What a $5,000 Investment Could Be Worth by 2030.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-makes-chips-both-nvidia-183400901.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-06T18:34:00Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 75861.77,
-      "change_pct": -0.11
+      "price": 75799.15,
+      "change_pct": -0.19
     },
     {
       "label": "Gold",

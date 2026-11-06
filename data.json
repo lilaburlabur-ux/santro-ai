@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-06T22:49:49+00:00",
-  "as_of_local": "2026-11-06 22:49:49 UTC",
+  "as_of_utc": "2026-11-06T22:54:53+00:00",
+  "as_of_local": "2026-11-06 22:54:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/markets/article/what-the-ai-stock-crash-cost-your-401k-for-every-1000-invested-172821837.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-06T17:28:21Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 375.44,
-      "previous_close": 353.1,
-      "change_pct": 6.33,
-      "market_cap": 1947209816103.01,
-      "headlines": [
-        {
-          "title": "Intel Stock\u2019s (INTC) Deep Sell-Off Shows Signs of an Overreaction",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-intc-deep-sell-213300842.html",
-          "publisher": "TipRanks",
-          "published": "2026-11-06T21:33:00Z"
-        },
-        {
-          "title": "Update: Market Chatter: TSMC Mulls Expanding Into Advanced Memory Chip Production",
-          "url": "https://finance.yahoo.com/technology/articles/market-chatter-tsmc-mulls-expanding-194817754.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-06T19:48:17Z"
-        },
-        {
-          "title": "TSMC Makes the Chips for Both Nvidia and AMD. Here's What a $5,000 Investment Could Be Worth by 2030.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-makes-chips-both-nvidia-183400901.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-06T18:34:00Z"
         }
       ]
     },
@@ -97,6 +71,12 @@
       "market_cap": 780682016280.0,
       "headlines": [
         {
+          "title": "Dow Jones Futures: Market Needs Repair But Sandisk, Micron Broken; Apple, Amazon, Microsoft Strong",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-broken-apple-amazon-microsoft-strong-berkshire-earnings/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-06T22:43:12Z"
+        },
+        {
           "title": "Nvidia Stock, Other AI Names Rebound After Sell-Off",
           "url": "https://www.investors.com/news/technology/nvidia-stock-other-ai-names-rebound-after-sell-off/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -107,12 +87,6 @@
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-06T09:19:27Z"
-        },
-        {
-          "title": "Dow Jones Futures: Market Needs Repair But Sandisk, Micron Broken; Apple, Amazon, Microsoft Strong",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-broken-apple-amazon-microsoft-strong-berkshire-earnings/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-06T21:45:10Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 75852.09,
-      "change_pct": -0.12
+      "price": 75861.77,
+      "change_pct": -0.11
     },
     {
       "label": "Gold",

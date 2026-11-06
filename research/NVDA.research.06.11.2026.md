@@ -4,7 +4,7 @@ Signed file: `NVDA.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $188.15 (2026-11-06, ~15-min delayed) |
+| Current price | $188.16 (2026-11-06, ~15-min delayed) |
 | Market cap | $4.54T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,8 +15,8 @@ Signed file: `NVDA.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-7.95%) with negative half-year (-12.37%). |
-| Fresh setup quality | Moderate / wait | -21.36% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-7.94%) with negative half-year (-12.37%). |
+| Fresh setup quality | Moderate / wait | -21.35% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 63.66%, revenue growth 105.90%. |
 | Value attractiveness | Reasonable | Forward P/E 11.82, EV/Sales 14.37. |
 | Risk level | High | Beta 2.25, ATR 4.1% of price, short float 1.30%. |
@@ -39,16 +39,16 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | What the AI stock crash cost your 401(k) for every $1,000 invested | Yahoo Finance | 2026-11-06 |
 | Rising GPU prices just might turn Nvidia into a buy | Yahoo Finance Video | 2026-11-06 |
 | Nvidia, AMD, and Micron stocks lead chip sector higher following worst sell-off since 2020 | Yahoo Finance | 2026-11-06 |
-| Broadcom Is Still Down 22% in the Past Month: Is AVGO Stock Really on a Road to Recovery? | 24/7 Wall St. | 2026-11-06 |
+| IREN CEO: Old Nvidia H100s Just Recontracted at “Double the Original Contract Price” | TIKR | 2026-11-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $188.15; 52w high $239.24 (-21.36%); 52w low $164.79 (+14.17%) |
-| Trend | -7.95% vs SMA200, -14.40% vs SMA50, -11.09% vs SMA20 |
+| Price vs 52-week range | Close $188.16; 52w high $239.24 (-21.35%); 52w low $164.79 (+14.18%) |
+| Trend | -7.94% vs SMA200, -14.40% vs SMA50, -11.09% vs SMA20 |
 | Momentum | RSI(14) 32.2 (neutral) |
 | Volatility | ATR(14) 7.77 (~4.1% of price); beta 2.25 |
-| Setup perspective | -21.36% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -21.35% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -110,14 +110,14 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $188.15 | EV/Sales | 14.37 |
+| Price | $188.16 | EV/Sales | 14.37 |
 | Market cap | $4.54T | EV/EBITDA | 21.63 |
 | Beta | 2.25 | Gross margin | 74.67% |
 | RSI(14) | 32.2 | Operating margin | 66.24% |
 | ATR(14) | 7.77 | Profit margin | 63.66% |
 | SMA20 dist | -11.09% | ROA | 53.57% |
 | SMA50 dist | -14.40% | ROE | 117.21% |
-| SMA200 dist | -7.95% | Revenue (ttm) | $302.97B |
+| SMA200 dist | -7.94% | Revenue (ttm) | $302.97B |
 | 52W high | $239.24 | Revenue growth y/y | 105.90% |
 | 52W low | $164.79 | Inst. ownership | 71.47% |
 | P/E (ttm) | 23.79 | Insider ownership | 4.01% |

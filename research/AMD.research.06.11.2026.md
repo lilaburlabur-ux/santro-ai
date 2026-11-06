@@ -4,8 +4,8 @@ Signed file: `AMD.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $448.89 (2026-11-06, ~15-min delayed) |
-| Market cap | $736.22B |
+| Current price | $449.78 (2026-11-06, ~15-min delayed) |
+| Market cap | $737.68B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `AMD.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +75.12%; price +7.91% vs SMA200. |
-| Fresh setup quality | Poor / broken | -30.88% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +75.47%; price +8.13% vs SMA200. |
+| Fresh setup quality | Poor / broken | -30.74% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 16.77%, revenue growth 44.70%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 26.54, EV/Sales 14.45. |
-| Risk level | High | Beta 2.54, ATR 8.2% of price, short float 2.33%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 26.59, EV/Sales 14.45. |
+| Risk level | High | Beta 2.54, ATR 8.1% of price, short float 2.33%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
 
@@ -44,22 +44,22 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $448.89; 52w high $649.42 (-30.88%); 52w low $190.95 (+135.08%) |
-| Trend | +7.91% vs SMA200, -17.91% vs SMA50, -14.87% vs SMA20 |
-| Momentum | RSI(14) 38.4 (neutral) |
-| Volatility | ATR(14) 36.61 (~8.2% of price); beta 2.54 |
-| Setup perspective | -30.88% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $449.78; 52w high $649.42 (-30.74%); 52w low $190.95 (+135.55%) |
+| Trend | +8.13% vs SMA200, -17.75% vs SMA50, -14.71% vs SMA20 |
+| Momentum | RSI(14) 38.5 (neutral) |
+| Volatility | ATR(14) 36.61 (~8.1% of price); beta 2.54 |
+| Setup perspective | -30.74% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -11.1% |
-| Month | -27.7% |
-| Quarter | -4.4% |
-| Half Y | -1.4% |
-| 1Y | +75.1% |
-| YTD | +100.9% |
+| Week | -10.9% |
+| Month | -27.5% |
+| Quarter | -4.2% |
+| Half Y | -1.2% |
+| 1Y | +75.5% |
+| YTD | +101.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Revenue (ttm) | $45.44B | Revenue growth 44.70% y/y |
 | Profitability | Gross 56.00%, operating 21.17%, net 16.77% | ROA 5.90%, ROE 11.96% |
 | Balance sheet | Cash $15.78B, debt $9.21B | Current ratio 2.73, debt/equity 13.47 |
-| Valuation | P/E 95.92, forward P/E 26.54, P/S 16.20, P/B 10.76 | EV/Sales 14.45, EV/EBITDA 58.93 |
+| Valuation | P/E 96.11, forward P/E 26.59, P/S 16.24, P/B 10.79 | EV/Sales 14.45, EV/EBITDA 58.93 |
 | Growth expectations | Earnings growth 93.80%, EPS q/q 95.30% | Analyst mean target $650.01 (48 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Morgan Stanley | 24,286,371 | 1.48% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 26.54, EV/Sales 14.45. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.54, ATR 8.2% of price, short float 2.33%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 26.59, EV/Sales 14.45. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.54, ATR 8.1% of price, short float 2.33%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -112,21 +112,21 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $448.89 | EV/Sales | 14.45 |
-| Market cap | $736.22B | EV/EBITDA | 58.93 |
+| Price | $449.78 | EV/Sales | 14.45 |
+| Market cap | $737.68B | EV/EBITDA | 58.93 |
 | Beta | 2.54 | Gross margin | 56.00% |
-| RSI(14) | 38.4 | Operating margin | 21.17% |
+| RSI(14) | 38.5 | Operating margin | 21.17% |
 | ATR(14) | 36.61 | Profit margin | 16.77% |
-| SMA20 dist | -14.87% | ROA | 5.90% |
-| SMA50 dist | -17.91% | ROE | 11.96% |
-| SMA200 dist | +7.91% | Revenue (ttm) | $45.44B |
+| SMA20 dist | -14.71% | ROA | 5.90% |
+| SMA50 dist | -17.75% | ROE | 11.96% |
+| SMA200 dist | +8.13% | Revenue (ttm) | $45.44B |
 | 52W high | $649.42 | Revenue growth y/y | 44.70% |
 | 52W low | $190.95 | Inst. ownership | 74.88% |
-| P/E (ttm) | 95.92 | Insider ownership | 0.42% |
-| Forward P/E | 26.54 | Short float | 2.33% |
+| P/E (ttm) | 96.11 | Insider ownership | 0.42% |
+| Forward P/E | 26.59 | Short float | 2.33% |
 | PEG (trailing) | 0.40 | Avg volume | 22,033,403 |
-| P/S | 16.20 | Employees | 31,000 |
-| P/B | 10.76 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/S | 16.24 | Employees | 31,000 |
+| P/B | 10.79 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

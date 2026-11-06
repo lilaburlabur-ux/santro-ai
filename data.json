@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-06T00:02:57+00:00",
-  "as_of_local": "2026-11-06 00:02:57 UTC",
+  "as_of_utc": "2026-11-06T00:08:03+00:00",
+  "as_of_local": "2026-11-06 00:08:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -18,7 +16,7 @@
           "title": "Dow Jones Futures Fall; Nasdaq Dives 5.5%, Nvidia, Sandisk, CoreWeave, SpaceX Plunge, But Sell-Off Spreads Beyond AI",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-dives-55-nvidia-sandisk-coreweave-spacex-plunge-jobs/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-05T23:54:44Z"
+          "published": "2026-11-06T00:04:44Z"
         },
         {
           "title": "Amylyx Pharmaceuticals, Inc. Q3 2026 Earnings Call Summary",
@@ -71,6 +69,12 @@
       "market_cap": 1391656308716.2651,
       "headlines": [
         {
+          "title": "Chip Stocks Fall on AI Regulation Fears",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/chip-stocks-hit-by-data-center-ai-regulation-fears-TjThbzZVLKxkZW5tt26b?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-05T22:33:13Z"
+        },
+        {
           "title": "Stock Market Today, Nov. 5: Nvidia Slides on AI Chip Selloff as Election Uncertainty Weighs",
           "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-5-220938210.html",
           "publisher": "Motley Fool",
@@ -81,12 +85,6 @@
           "url": "https://finance.yahoo.com/video/stocks-slide-as-wall-streets-post-election-rally-fizzles-214250142.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-05T21:42:50Z"
-        },
-        {
-          "title": "Nvidia has lost nearly $1.4 trillion since its October record",
-          "url": "https://finance.yahoo.com/markets/article/nvidia-has-lost-nearly-14-trillion-since-its-october-record-165912910.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-05T16:59:12Z"
         }
       ]
     },
@@ -161,16 +159,16 @@
           "published": "2026-11-05T21:59:41Z"
         },
         {
+          "title": "Chip Stocks Fall on AI Regulation Fears",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/chip-stocks-hit-by-data-center-ai-regulation-fears-TjThbzZVLKxkZW5tt26b?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-05T22:33:13Z"
+        },
+        {
           "title": "Stock Market Today, Nov. 5: Intel Falls on Weak Fourth-Quarter Sales Outlook Amid Chip Selloff",
           "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-5-222216828.html",
           "publisher": "Motley Fool",
           "published": "2026-11-05T22:22:16Z"
-        },
-        {
-          "title": "Nvidia, Micron, Intel, Sandisk, Palantir, AppLovin, Qualcomm, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-8b39c82b?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-05T22:12:00Z"
         }
       ]
     },
@@ -227,6 +225,34 @@
           "url": "https://finance.yahoo.com/video/qualcomm-profits-hit-by-supply-costs-us-jobs-data-and-a-return-of-the-bulls-after-the-midterms-144628233.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-05T14:46:28Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 133.55,
+      "previous_close": 159.8,
+      "change_pct": -16.43,
+      "market_cap": 120163736286.96756,
+      "headlines": [
+        {
+          "title": "Chip Stocks Fall on AI Regulation Fears",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/chip-stocks-hit-by-data-center-ai-regulation-fears-TjThbzZVLKxkZW5tt26b?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-05T22:33:13Z"
+        },
+        {
+          "title": "What Insight Enterprises (NSIT) Said on Its Q3 Earnings Call",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/insight-enterprises-nsit-said-q3-221435091.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-05T22:14:35Z"
+        },
+        {
+          "title": "Why Marvell Stock Is Falling Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-stock-falling-today-200502073.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-05T20:05:02Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 76117.41,
-      "change_pct": -5.33
+      "price": 76136.51,
+      "change_pct": -5.31
     },
     {
       "label": "Gold",
-      "price": 4095.1,
-      "change_pct": 0.54
+      "price": 4095.3,
+      "change_pct": 0.55
     },
     {
       "label": "Nasdaq100",

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-06T07:17:45+00:00",
-  "as_of_local": "2026-11-06 07:17:45 UTC",
+  "as_of_utc": "2026-11-06T07:32:42+00:00",
+  "as_of_local": "2026-11-06 07:32:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 4385095347381.592,
       "headlines": [
         {
+          "title": "Beijing seeks to bolster AI shares",
+          "url": "https://finance.yahoo.com/technology/ai/articles/beijing-seeks-bolster-ai-shares-071756887.html",
+          "publisher": "AFP",
+          "published": "2026-11-06T07:17:56Z"
+        },
+        {
           "title": "Nasdaq Stock Market Correction: 3 Words From Warren Buffett To Remember RIght Now",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-stock-market-correction-3-062702192.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-lost-over-40-061302753.html",
           "publisher": "Motley Fool",
           "published": "2026-11-06T06:13:02Z"
-        },
-        {
-          "title": "AOI Sales Up 127%, Gross Margin Stuck at 28%: Rapid Earnings Reaction",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aoi-sales-127-gross-margin-055517678.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-06T05:55:17Z"
         }
       ]
     },
@@ -454,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -16.25,
+          "price": 466.53,
           "currency": "USD"
         },
         {
@@ -544,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -16.25,
+        "price": 466.53,
         "currency": "USD"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 75298.03,
-      "change_pct": -0.85
+      "price": 75285.12,
+      "change_pct": -0.87
     },
     {
       "label": "Gold",
-      "price": 4055.3,
-      "change_pct": -1.41
+      "price": 4059.2,
+      "change_pct": -1.32
     },
     {
       "label": "Nasdaq100",

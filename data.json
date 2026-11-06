@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-06T21:27:43+00:00",
-  "as_of_local": "2026-11-06 21:27:43 UTC",
+  "as_of_utc": "2026-11-06T21:32:44+00:00",
+  "as_of_local": "2026-11-06 21:32:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-still-down-22-past-200319828.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-06T20:03:19Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 690.0,
-      "previous_close": 656.39,
-      "change_pct": 5.12,
-      "market_cap": 780682016280.0,
-      "headlines": [
-        {
-          "title": "Micron vs. Nvidia: Which AI Stock Is a Better Buy for 2027?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-nvidia-ai-stock-211242383.html",
-          "publisher": "TipRanks",
-          "published": "2026-11-06T21:12:42Z"
-        },
-        {
-          "title": "Nvidia, AMD, and Micron stocks lead chip sector higher following worst sell-off since 2020",
-          "url": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-sandsik-lead-chip-sector-higher-134336542.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-06T13:43:36Z"
-        },
-        {
-          "title": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-06T09:19:27Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 5.12,
-          "price": 690.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -9.46,
-          "price": 1264000.0,
+          "change_pct": -10.44,
+          "price": 1132000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -7.57,
-          "price": 201500.0,
+          "change_pct": -6.35,
+          "price": 188700.0,
           "currency": "KRW"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -9.89,
-          "price": 360.0,
+          "change_pct": -4.58,
+          "price": 343.5,
           "currency": "TWD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 5.12,
-        "price": 690.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -9.46,
-        "price": 1264000.0,
+        "change_pct": -10.44,
+        "price": 1132000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -7.57,
-        "price": 201500.0,
+        "change_pct": -6.35,
+        "price": 188700.0,
         "currency": "KRW"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -9.89,
-        "price": 360.0,
+        "change_pct": -4.58,
+        "price": 343.5,
         "currency": "TWD"
       },
       {
@@ -585,13 +559,18 @@
     },
     {
       "label": "BTC",
-      "price": 75706.67,
-      "change_pct": -0.31
+      "price": 75626.38,
+      "change_pct": -0.42
     },
     {
       "label": "Gold",
       "price": 4074.0,
       "change_pct": -0.96
+    },
+    {
+      "label": "Nasdaq100",
+      "price": 26989.99,
+      "change_pct": 1.35
     }
   ]
 }

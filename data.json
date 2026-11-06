@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-06T09:34:28+00:00",
-  "as_of_local": "2026-11-06 09:34:28 UTC",
+  "as_of_utc": "2026-11-06T09:44:50+00:00",
+  "as_of_local": "2026-11-06 09:44:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "MU"
+    "AVAV"
   ],
   "stocks": [
     {
@@ -15,6 +15,12 @@
       "market_cap": 4385095347381.592,
       "headlines": [
         {
+          "title": "Elon Musk\u2019s Net Worth Drops Nearly $80 Billion In A Day As Tesla And SpaceX Stock Crater During Tech Wipe-Out",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-net-worth-drops-092748433.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-06T09:27:48Z"
+        },
+        {
           "title": "Midterm Elections Yield a Dubious Surprise for the Trump Bull Market -- Is a Stock Market Crash Imminent?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/midterm-elections-yield-dubious-surprise-092601945.html",
           "publisher": "Motley Fool",
@@ -25,12 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-nvidia-nov-17-evidence-092502652.html",
           "publisher": "Motley Fool",
           "published": "2026-11-06T09:25:02Z"
-        },
-        {
-          "title": "Bitcoin Falls Below $76,000 as Chip Stocks Crash and Liquidations Hit $1 Billion: Why Is Crypto Down Today?",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-below-76-000-092021228.html",
-          "publisher": "Coinspeaker",
-          "published": "2026-11-06T09:20:21Z"
         }
       ]
     },
@@ -91,6 +91,34 @@
       ]
     },
     {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 656.39,
+      "previous_close": 795.23,
+      "change_pct": -17.46,
+      "market_cap": 742654898698.2622,
+      "headlines": [
+        {
+          "title": "Micron stock sinks 17% as chip sector crashes",
+          "url": "https://finance.yahoo.com/markets/article/micron-declines-12-as-chip-sell-off-deepens-163137019.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-05T16:31:37Z"
+        },
+        {
+          "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
+          "url": "https://finance.yahoo.com/markets/article/qualcomm-micron-arm-stocks-sink-lead-chip-sector-lower-133100607.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-05T13:31:00Z"
+        },
+        {
+          "title": "Micron and Sandisk valuation multiples are unbelievable as chip stocks get crushed",
+          "url": "https://finance.yahoo.com/markets/article/micron-and-sandisk-valuation-multiples-are-unbelievable-as-chip-stocks-get-crushed-180250881.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-05T18:02:50Z"
+        }
+      ]
+    },
+    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 404.4,
@@ -111,10 +139,10 @@
           "published": "2026-11-05T13:31:00Z"
         },
         {
-          "title": "Bitcoin Falls Below $76,000 as Chip Stocks Crash and Liquidations Hit $1 Billion: Why Is Crypto Down Today?",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-below-76-000-092021228.html",
-          "publisher": "Coinspeaker",
-          "published": "2026-11-06T09:20:21Z"
+          "title": "Elon Musk\u2019s Net Worth Drops Nearly $80 Billion In A Day As Tesla And SpaceX Stock Crater During Tech Wipe-Out",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-net-worth-drops-092748433.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-06T09:27:48Z"
         }
       ]
     },
@@ -287,34 +315,6 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 102.08,
-      "previous_close": 113.23,
-      "change_pct": -9.85,
-      "market_cap": 5187777353.215485,
-      "headlines": [
-        {
-          "title": "Ondas Just Dropped 38% in a Month: Is ONDS Stock a Falling Knife or Poised for a Comeback?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ondas-just-dropped-38-month-195654806.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-05T19:56:54Z"
-        },
-        {
-          "title": "A $2.4 Billion Fund Bought These 3 Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-4-billion-fund-bought-120644063.html",
-          "publisher": "TIKR",
-          "published": "2026-11-05T12:06:44Z"
-        },
-        {
-          "title": "AeroVironment (AVAV) Could Be 19% Overvalued After Contract Bid Reopened",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-could-19-overvalued-221301252.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-04T22:13:01Z"
-        }
-      ]
-    },
-    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 116.4,
@@ -383,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -17.46,
+          "price": 656.39,
           "currency": "USD"
         },
         {
@@ -473,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -17.46,
+        "price": 656.39,
         "currency": "USD"
       },
       {
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 76092.5,
-      "change_pct": 0.2
+      "price": 76014.53,
+      "change_pct": 0.1
     },
     {
       "label": "Gold",
-      "price": 4087.8,
-      "change_pct": -0.62
+      "price": 4085.4,
+      "change_pct": -0.68
     },
     {
       "label": "Nasdaq100",

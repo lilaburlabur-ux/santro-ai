@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-06T06:07:00+00:00",
-  "as_of_local": "2026-11-06 06:07:00 UTC",
+  "as_of_utc": "2026-11-06T06:22:03+00:00",
+  "as_of_local": "2026-11-06 06:22:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 4385095347381.592,
       "headlines": [
         {
+          "title": "AOI Sales Up 127%, Gross Margin Stuck at 28%: Rapid Earnings Reaction",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/aoi-sales-127-gross-margin-055517678.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-06T05:55:17Z"
+        },
+        {
           "title": "AI boom turns chip packaging into the next battleground for semiconductors",
           "url": "https://finance.yahoo.com/technology/ai/articles/ai-boom-turns-chip-packaging-055149159.html",
           "publisher": "Reuters",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/news/exclusive-nvidia-chips-pile-hong-112651215.html",
           "publisher": "Reuters",
           "published": "2026-11-06T05:31:01Z"
-        },
-        {
-          "title": "TSS Inc (TSSI) (Q3 2026) Earnings Call Highlights: Record Systems Integration Revenue Drives ...",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tss-inc-tssi-q3-2026-052333824.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-06T05:23:33Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -8.54,
-          "price": 1156000.0,
+          "change_pct": -9.57,
+          "price": 1143000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -4.64,
-          "price": 192150.0,
+          "change_pct": -5.66,
+          "price": 190100.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -11.87,
-          "price": 8217.0,
+          "change_pct": -11.11,
+          "price": 8288.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -8.54,
-        "price": 1156000.0,
+        "change_pct": -9.57,
+        "price": 1143000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -4.64,
-        "price": 192150.0,
+        "change_pct": -5.66,
+        "price": 190100.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -11.87,
-        "price": 8217.0,
+        "change_pct": -11.11,
+        "price": 8288.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 75462.5,
-      "change_pct": -6.15
+      "price": 75492.38,
+      "change_pct": -6.11
     },
     {
       "label": "Gold",
-      "price": 4051.6,
-      "change_pct": -1.5
+      "price": 4053.9,
+      "change_pct": -1.45
     },
     {
       "label": "Nasdaq100",

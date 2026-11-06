@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-06T12:18:56+00:00",
-  "as_of_local": "2026-11-06 12:18:56 UTC",
+  "as_of_utc": "2026-11-06T12:19:49+00:00",
+  "as_of_local": "2026-11-06 12:19:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,34 +31,6 @@
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-dives-55-nvidia-sandisk-coreweave-spacex-plunge-jobs/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-06T12:01:29Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 353.1,
-      "previous_close": 395.75,
-      "change_pct": -10.78,
-      "market_cap": 1831344005646.0251,
-      "headlines": [
-        {
-          "title": "Stocks lost $2 trillion. The market is wrong about AI",
-          "url": "https://finance.yahoo.com/video/stocks-lost-2-trillion-market-120000040.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-06T12:00:00Z"
-        },
-        {
-          "title": "South Korea, Taiwan Intervene to Prop Up Plunging Stocks",
-          "url": "https://www.wsj.com/livecoverage/october-jobs-report-stock-market-11-06-2026/card/south-korea-taiwan-intervene-to-prop-up-plunging-stocks-84nJp0t5XBGx9fqlvIjy?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-11-06T11:46:24Z"
-        },
-        {
-          "title": "Asia\u2019s Chip Stocks Crashed Overnight, With SK Hynix Down 11.7% And Taiwan Off More Than 8%. Now Nasdaq Futures Are Pointing Higher",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asia-chip-stocks-crashed-overnight-114520404.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-06T11:45:20Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 76026.43,
-      "change_pct": 0.11
+      "price": 76048.93,
+      "change_pct": 0.14
     },
     {
       "label": "Gold",
-      "price": 4077.3,
-      "change_pct": -0.88
+      "price": 4076.2,
+      "change_pct": -0.91
     },
     {
       "label": "Nasdaq100",

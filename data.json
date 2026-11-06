@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-06T01:57:54+00:00",
-  "as_of_local": "2026-11-06 01:57:54 UTC",
+  "as_of_utc": "2026-11-06T02:04:25+00:00",
+  "as_of_local": "2026-11-06 02:04:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "QCOM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -15,22 +13,22 @@
       "market_cap": 4385095200000.0,
       "headlines": [
         {
-          "title": "U.S. stock futures rise after AI rout batters Wall St; payrolls data in focus",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-rise-ai-013807565.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-06T01:38:07Z"
+          "title": "Nvidia chips pile up in Hong Kong as China withholds import approval",
+          "url": "https://finance.yahoo.com/news/exclusive-nvidia-chips-pile-hong-112651215.html",
+          "publisher": "Reuters",
+          "published": "2026-11-06T02:01:50Z"
         },
         {
           "title": "Dow Jones Futures Fall, Techs Bounce After Nasdaq Dives 5.5%; Nvidia, Sandisk, CoreWeave, SpaceX Plunge",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-dives-55-nvidia-sandisk-coreweave-spacex-plunge-jobs/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-06T01:26:25Z"
+          "published": "2026-11-06T01:55:15Z"
         },
         {
-          "title": "Prediction: This Is How Much XRP Will Be Worth by the End of 2030",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/prediction-much-xrp-worth-end-012000844.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-06T01:20:00Z"
+          "title": "U.S. stock futures rise after AI rout batters Wall St; payrolls data in focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-rise-ai-013807565.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-06T01:38:07Z"
         }
       ]
     },
@@ -199,6 +197,34 @@
           "url": "https://www.investors.com/news/technology/chip-stocks-tumble-arm-qualcomm-reports/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-05T21:43:43Z"
+        }
+      ]
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "price": 173.19,
+      "previous_close": 164.43,
+      "change_pct": 5.33,
+      "market_cap": 167383842722.25,
+      "headlines": [
+        {
+          "title": "Qualcomm CFO outlines AI's next big transformation: A new type of personal device",
+          "url": "https://finance.yahoo.com/video/qualcomm-cfo-outlines-ais-next-big-transformation-a-new-type-of-personal-device-215605977.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-05T21:56:05Z"
+        },
+        {
+          "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
+          "url": "https://finance.yahoo.com/markets/article/qualcomm-micron-arm-stocks-sink-lead-chip-sector-lower-133100607.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-05T13:31:00Z"
+        },
+        {
+          "title": "Qualcomm profits hit by supply costs, US jobs data, and a return of the bulls after the midterms",
+          "url": "https://finance.yahoo.com/video/qualcomm-profits-hit-by-supply-costs-us-jobs-data-and-a-return-of-the-bulls-after-the-midterms-144628233.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-05T14:46:28Z"
         }
       ]
     },
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -9.41,
-          "price": 1145000.0,
+          "change_pct": -10.44,
+          "price": 1132000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -7.37,
-          "price": 186650.0,
+          "change_pct": -7.74,
+          "price": 185900.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -11.4,
-          "price": 8261.0,
+          "change_pct": -9.73,
+          "price": 8417.0,
           "currency": "JPY"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -9.41,
-        "price": 1145000.0,
+        "change_pct": -10.44,
+        "price": 1132000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -7.37,
-        "price": 186650.0,
+        "change_pct": -7.74,
+        "price": 185900.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -11.4,
-        "price": 8261.0,
+        "change_pct": -9.73,
+        "price": 8417.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 75994.31,
-      "change_pct": -5.49
+      "price": 76011.7,
+      "change_pct": -5.46
     },
     {
       "label": "Gold",
-      "price": 4073.0,
-      "change_pct": 0.0
+      "price": 4077.3,
+      "change_pct": 0.11
     },
     {
       "label": "Nasdaq100",

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-06T12:24:15+00:00",
-  "as_of_local": "2026-11-06 12:24:15 UTC",
+  "as_of_utc": "2026-11-06T12:29:19+00:00",
+  "as_of_local": "2026-11-06 12:29:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -21,16 +19,16 @@
           "published": "2026-11-06T12:00:00Z"
         },
         {
-          "title": "Tech Stocks Just Had Their Worst Day Since 2020",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-just-had-worst-120702342.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-06T12:07:02Z"
+          "title": "Dow Jones Futures Fall, AI Stocks Nvidia, Sandisk, CoreWeave, SpaceX Bounce After Nasdaq Dives 5.5%",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-dives-55-nvidia-sandisk-coreweave-spacex-plunge-jobs/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-06T12:23:22Z"
         },
         {
-          "title": "Robinhood Made $173 Million From Prediction Markets Last Quarter, More Than From Crypto. Can That Carry the Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-made-173-million-prediction-120500051.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-06T12:05:00Z"
+          "title": "Wall Street\u2019s Loudest Voices Split on Whether the AI Trade Is Finished",
+          "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-loudest-voices-split-122247902.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-06T12:22:47Z"
         }
       ]
     },
@@ -119,6 +117,34 @@
       ]
     },
     {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 404.4,
+      "previous_close": 488.78,
+      "change_pct": -17.26,
+      "market_cap": 663251274294.1018,
+      "headlines": [
+        {
+          "title": "Stocks lost $2 trillion. The market is wrong about AI",
+          "url": "https://finance.yahoo.com/video/stocks-lost-2-trillion-market-120000040.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-06T12:00:00Z"
+        },
+        {
+          "title": "AMD CEO Lisa Su sees AI becoming 'essential to every aspect of our lives'",
+          "url": "https://finance.yahoo.com/technology/article/amd-ceo-lisa-su-sees-ai-becoming-essential-to-every-aspect-of-our-lives-172825495.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-05T17:28:25Z"
+        },
+        {
+          "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
+          "url": "https://finance.yahoo.com/markets/article/qualcomm-micron-arm-stocks-sink-lead-chip-sector-lower-133100607.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-05T13:31:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 52.25,
@@ -152,7 +178,7 @@
       "price": 166.72,
       "previous_close": 191.8,
       "change_pct": -13.08,
-      "market_cap": 178056722727.3892,
+      "market_cap": 178390401306.15234,
       "headlines": [
         {
           "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 76150.79,
-      "change_pct": 0.27
+      "price": 76199.65,
+      "change_pct": 0.34
     },
     {
       "label": "Gold",
-      "price": 4071.5,
-      "change_pct": -1.02
+      "price": 4077.4,
+      "change_pct": -0.88
     },
     {
       "label": "Nasdaq100",

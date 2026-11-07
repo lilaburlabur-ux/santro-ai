@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-11-07T18:24:36+00:00",
-  "as_of_local": "2026-11-07 18:24:36 UTC",
+  "as_of_utc": "2026-11-07T18:39:48+00:00",
+  "as_of_local": "2026-11-07 18:39:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 186.64,
-      "previous_close": 181.6,
-      "change_pct": 2.78,
-      "market_cap": 4506796065261.841,
-      "headlines": [
-        {
-          "title": "Nvidia Stock Has More Than 60% Upside According to Analysts' Average Price Target. Should You Buy While the AI Trade Wobbles?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-more-60-upside-182000936.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T18:20:00Z"
-        },
-        {
-          "title": "Older Nvidia Chips Just Cost Oracle Its Microsoft AI Deal",
-          "url": "https://finance.yahoo.com/technology/ai/articles/older-nvidia-chips-just-cost-180844578.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-07T18:08:44Z"
-        },
-        {
-          "title": "Micron and Sandisk Lead the Memory Market. 1 Stock Has Far Greater Upside.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-lead-memory-market-175000094.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T17:50:00Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 75730.94,
-      "change_pct": -0.02
+      "price": 75709.9,
+      "change_pct": -0.05
     },
     {
       "label": "Gold",

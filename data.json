@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-07T15:03:07+00:00",
-  "as_of_local": "2026-11-07 15:03:07 UTC",
+  "as_of_utc": "2026-11-07T15:18:10+00:00",
+  "as_of_local": "2026-11-07 15:18:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": 2.78,
       "market_cap": 4506796065261.841,
       "headlines": [
+        {
+          "title": "Here's How These 6 Big Bank Stocks Make Their Money",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-6-big-bank-stocks-150500119.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-07T15:05:00Z"
+        },
         {
           "title": "3 Artificial Intelligence (AI) Stocks I\u2019d Buy Without Hesitation in a Market Crash",
           "url": "https://finance.yahoo.com/technology/ai/articles/3-artificial-intelligence-ai-stocks-145002369.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/not-nvidia-not-micron-chip-143600041.html",
           "publisher": "Motley Fool",
           "published": "2026-11-07T14:36:00Z"
-        },
-        {
-          "title": "The Stock Market Is Doing Something for Only the 5th Time in 30 Years, and History Is Crystal Clear on What Comes Next for Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-doing-something-only-142601595.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T14:26:01Z"
         }
       ]
     },
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-recently-104800049.html",
           "publisher": "Motley Fool",
           "published": "2026-11-07T10:48:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 56.28,
-      "previous_close": 52.25,
-      "change_pct": 7.71,
-      "market_cap": 299128193511.9629,
-      "headlines": [
-        {
-          "title": "What Is Behind The Rebound In Qualcomm Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/behind-rebound-qualcomm-stock-124950996.html",
-          "publisher": "Trefis",
-          "published": "2026-11-07T12:49:50Z"
-        },
-        {
-          "title": "NVIDIA Or Micron: Where Each Leads In The AI Buildout",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-micron-where-leads-ai-091903285.html",
-          "publisher": "Trefis",
-          "published": "2026-11-07T09:19:03Z"
-        },
-        {
-          "title": "Here's Where I Think Intel Stock Will Be at the End of 2030",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-where-think-intel-stock-091202181.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T09:12:02Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 75832.27,
-      "change_pct": 0.11
+      "price": 75784.57,
+      "change_pct": 0.05
     },
     {
       "label": "Gold",

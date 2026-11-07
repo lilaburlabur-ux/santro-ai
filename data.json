@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-07T14:42:50+00:00",
-  "as_of_local": "2026-11-07 14:42:50 UTC",
+  "as_of_utc": "2026-11-07T14:57:55+00:00",
+  "as_of_local": "2026-11-07 14:57:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVAV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -315,6 +313,34 @@
       ]
     },
     {
+      "symbol": "AVAV",
+      "name": "AeroVironment",
+      "price": 112.76,
+      "previous_close": 102.08,
+      "change_pct": 10.46,
+      "market_cap": 5730542466.084732,
+      "headlines": [
+        {
+          "title": "Cathie Wood-Led Ark Loads Up On GOOG, AMD, NVDA And Biotech Stocks \u2014 But Sells CRWV, AVGO, LLY",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-led-ark-loads-060020729.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-07T06:00:20Z"
+        },
+        {
+          "title": "Ondas Surges 15% as Drone Stocks Rebound Ahead of Its Earnings Report; Red Cat Jumps 14%, AeroVironment Surges 9%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ondas-surges-15-drone-stocks-180530952.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-06T18:05:30Z"
+        },
+        {
+          "title": "Ondas to Report Q3 Earnings: Can Orders and Acquisitions Fuel Growth?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ondas-report-q3-earnings-orders-145600138.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T14:56:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 116.7,
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 75866.1,
-      "change_pct": 0.16
+      "price": 75851.51,
+      "change_pct": 0.14
     },
     {
       "label": "Gold",

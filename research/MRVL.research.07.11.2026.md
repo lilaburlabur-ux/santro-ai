@@ -18,7 +18,7 @@ Signed file: `MRVL.research.07.11.2026`
 | Technical momentum | Low | Below SMA200 (-23.67%) with negative half-year (-16.97%). |
 | Fresh setup quality | Poor / broken | -55.36% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 27.93%, revenue growth 36.50%. |
-| Value attractiveness | Reasonable | Forward P/E 19.23, EV/Sales 12.54. |
+| Value attractiveness | Reasonable | Forward P/E 19.23, EV/Sales 13.24. |
 | Risk level | High | Beta 2.33, ATR 12.8% of price, short float 3.28%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -68,7 +68,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $9.45B | Revenue growth 36.50% y/y |
 | Profitability | Gross 52.22%, operating 16.68%, net 27.93% | ROA 4.12%, ROE 16.52% |
 | Balance sheet | Cash $3.93B, debt $5.29B | Current ratio 3.17, debt/equity 28.52 |
-| Valuation | P/E 46.45, forward P/E 19.23, P/S 13.44, P/B 6.68 | EV/Sales 12.54, EV/EBITDA 41.56 |
+| Valuation | P/E 46.45, forward P/E 19.23, P/S 13.44, P/B 6.68 | EV/Sales 13.24, EV/EBITDA 43.91 |
 | Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $311.29 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,8 +111,8 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $141.20 | EV/Sales | 12.54 |
-| Market cap | $127.05B | EV/EBITDA | 41.56 |
+| Price | $141.20 | EV/Sales | 13.24 |
+| Market cap | $127.05B | EV/EBITDA | 43.91 |
 | Beta | 2.33 | Gross margin | 52.22% |
 | RSI(14) | 26.2 | Operating margin | 16.68% |
 | ATR(14) | 18.02 | Profit margin | 27.93% |

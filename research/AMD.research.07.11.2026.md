@@ -18,7 +18,7 @@ Signed file: `AMD.research.07.11.2026`
 | Technical momentum | High | 1Y +75.18%; price +7.95% vs SMA200. |
 | Fresh setup quality | Poor / broken | -30.86% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 16.77%, revenue growth 44.70%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 26.55, EV/Sales 14.45. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 26.01, EV/Sales 16.06. |
 | Risk level | High | Beta 2.54, ATR 8.2% of price, short float 2.33%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
@@ -68,7 +68,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Revenue (ttm) | $45.44B | Revenue growth 44.70% y/y |
 | Profitability | Gross 56.00%, operating 21.17%, net 16.77% | ROA 5.90%, ROE 11.96% |
 | Balance sheet | Cash $15.78B, debt $9.21B | Current ratio 2.73, debt/equity 13.47 |
-| Valuation | P/E 95.95, forward P/E 26.55, P/S 16.21, P/B 10.77 | EV/Sales 14.45, EV/EBITDA 58.93 |
+| Valuation | P/E 95.95, forward P/E 26.01, P/S 16.21, P/B 10.77 | EV/Sales 16.06, EV/EBITDA 65.50 |
 | Growth expectations | Earnings growth 93.80%, EPS q/q 95.30% | Analyst mean target $650.01 (48 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Morgan Stanley | 24,286,371 | 1.48% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 26.55, EV/Sales 14.45. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 26.01, EV/Sales 16.06. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.54, ATR 8.2% of price, short float 2.33%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -112,8 +112,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $449.04 | EV/Sales | 14.45 |
-| Market cap | $736.46B | EV/EBITDA | 58.93 |
+| Price | $449.04 | EV/Sales | 16.06 |
+| Market cap | $736.46B | EV/EBITDA | 65.50 |
 | Beta | 2.54 | Gross margin | 56.00% |
 | RSI(14) | 38.4 | Operating margin | 21.17% |
 | ATR(14) | 36.61 | Profit margin | 16.77% |
@@ -123,7 +123,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | 52W high | $649.42 | Revenue growth y/y | 44.70% |
 | 52W low | $190.95 | Inst. ownership | 74.88% |
 | P/E (ttm) | 95.95 | Insider ownership | 0.42% |
-| Forward P/E | 26.55 | Short float | 2.33% |
+| Forward P/E | 26.01 | Short float | 2.33% |
 | PEG (trailing) | 0.40 | Avg volume | 22,033,403 |
 | P/S | 16.21 | Employees | 31,000 |
 | P/B | 10.77 | Analyst rec (1=buy..5=sell) | 1.5 |

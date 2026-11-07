@@ -36,10 +36,10 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 
 | Headline | Source | Date |
 |---|---|---|
+| 5 Best Memory Stocks to Buy According to Billionaires | Insider Monkey | 2026-11-07 |
+| Jim Cramer Says the AI Sell-Off “Is Not Like 2000.” Here’s His Case | 24/7 Wall St. | 2026-11-07 |
 | Dow Jones Futures: Market Needs Repair But Sandisk, Micron Look Broken; Apple, Amazon, Microsoft Strong | Investor's Business Daily | 2026-11-06 |
 | Stock Market Today, Nov. 6: Micron Technology Jumps as Chip Stocks Rebound From Thursday's Rout | Motley Fool | 2026-11-06 |
-| Nvidia Stock, Other AI Names Rebound After Sell-Off | Investor's Business Daily | 2026-11-06 |
-| Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks | Yahoo Finance | 2026-11-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

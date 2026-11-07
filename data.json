@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-07T19:15:04+00:00",
-  "as_of_local": "2026-11-07 19:15:04 UTC",
+  "as_of_utc": "2026-11-07T19:30:11+00:00",
+  "as_of_local": "2026-11-07 19:30:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -15,22 +13,22 @@
       "market_cap": 4506796065261.841,
       "headlines": [
         {
+          "title": "Think It's Too Late to Buy Cloudflare Stock? Here's the 1 Reason Why There's Still Time",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/think-too-buy-cloudflare-stock-191300099.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-07T19:13:00Z"
+        },
+        {
+          "title": "MercadoLibre's Profits Fall Again. What It Means for Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mercadolibres-profits-fall-again-means-190502228.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-07T19:05:02Z"
+        },
+        {
           "title": "Where Will Rigetti Computing Stock Be in 3 Years?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/where-rigetti-computing-stock-3-185700867.html",
           "publisher": "Motley Fool",
           "published": "2026-11-07T18:57:00Z"
-        },
-        {
-          "title": "Eli Lilly Just Raised Its 2026 Revenue Forecast by $5.5 Billion. Is the Stock Still a Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-just-raised-2026-185000009.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T18:50:00Z"
-        },
-        {
-          "title": "3 Dividend Stocks I'd Buy With $5,000 Before the End of November",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-id-buy-183500080.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T18:35:00Z"
         }
       ]
     },
@@ -231,6 +229,34 @@
       ]
     },
     {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 141.2,
+      "previous_close": 133.55,
+      "change_pct": 5.73,
+      "market_cap": 127046939792.53244,
+      "headlines": [
+        {
+          "title": "Here\u2019s Why Bank of America and TD Cowen Backed Away From Marvell (MRVL)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-bank-america-td-cowen-184337011.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-07T18:43:37Z"
+        },
+        {
+          "title": "Why Marvell Technology Stock Plunged 28.1% This Week",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-technology-stock-plunged-151724256.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-07T15:17:24Z"
+        },
+        {
+          "title": "Marvell and Western Digital Just Had Their Worst Week Since 2001",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-western-digital-just-had-131106576.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-07T13:11:06Z"
+        }
+      ]
+    },
+    {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
       "price": 248.29,
@@ -419,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 3.55,
-          "price": 835.06,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -509,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 3.55,
-        "price": 835.06,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 75679.2,
-      "change_pct": -0.09
+      "price": 75682.98,
+      "change_pct": -0.08
     },
     {
       "label": "Gold",

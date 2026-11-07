@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-07T17:28:58+00:00",
-  "as_of_local": "2026-11-07 17:28:58 UTC",
+  "as_of_utc": "2026-11-07T17:34:09+00:00",
+  "as_of_local": "2026-11-07 17:34:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -253,34 +255,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/coherent-stock-fell-8-week-123628522.html",
           "publisher": "TIKR",
           "published": "2026-11-07T12:36:28Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 248.29,
-      "previous_close": 244.43,
-      "change_pct": 1.58,
-      "market_cap": 62582234698.269714,
-      "headlines": [
-        {
-          "title": "Microchip Sinks 10% on Soft December Guidance as CEO Says \u201cData Center Is in the Bubble\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microchip-sinks-10-soft-december-193440802.html",
-          "publisher": "TIKR",
-          "published": "2026-11-06T19:34:40Z"
-        },
-        {
-          "title": "Semtech Stock Plunges 34% in 3 Months: Should You Buy the Dip?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/semtech-stock-plunges-34-3-143900373.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T14:39:00Z"
-        },
-        {
-          "title": "Can Monolithic Power Systems Stock Rally 50% After This Dip?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/monolithic-power-systems-stock-rally-013141981.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T01:31:41Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 75682.41,
-      "change_pct": -0.09
+      "price": 75702.33,
+      "change_pct": -0.06
     },
     {
       "label": "Gold",

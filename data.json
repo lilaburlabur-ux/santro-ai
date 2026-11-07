@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-07T16:08:23+00:00",
-  "as_of_local": "2026-11-07 16:08:23 UTC",
+  "as_of_utc": "2026-11-07T16:23:27+00:00",
+  "as_of_local": "2026-11-07 16:23:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 186.64,
+      "previous_close": 181.6,
+      "change_pct": 2.78,
+      "market_cap": 4506796065261.841,
+      "headlines": [
+        {
+          "title": "1 AI Stock I'll Buy Hand Over Fist If the Market Crashes",
+          "url": "https://finance.yahoo.com/technology/ai/articles/1-ai-stock-ill-buy-162000779.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-07T16:20:00Z"
+        },
+        {
+          "title": "5 Stocks Yielding 5X the Nasdaq-100 to Buy in November",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-yielding-5x-nasdaq-160500323.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-07T16:05:00Z"
+        },
+        {
+          "title": "AI Chip Stocks Bounce After Global Rout\u2014But Is the Bubble Starting to Burst?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-chip-stocks-bounce-global-160102744.html",
+          "publisher": "decrypt",
+          "published": "2026-11-07T16:01:02Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -14,6 +40,12 @@
       "change_pct": 6.33,
       "market_cap": 1947209816103.01,
       "headlines": [
+        {
+          "title": "AI Chip Stocks Bounce After Global Rout\u2014But Is the Bubble Starting to Burst?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-chip-stocks-bounce-global-160102744.html",
+          "publisher": "decrypt",
+          "published": "2026-11-07T16:01:02Z"
+        },
         {
           "title": "TSMC Jumped 6% on a Report It Could Make Memory Chips for Nvidia",
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-jumped-6-report-could-151351522.html",
@@ -25,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/investors-pulled-7-billion-three-091500739.html",
           "publisher": "Trefis",
           "published": "2026-11-07T09:15:00Z"
-        },
-        {
-          "title": "Intel Stock\u2019s (INTC) Deep Sell-Off Shows Signs of an Overreaction",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-intc-deep-sell-213300842.html",
-          "publisher": "TipRanks",
-          "published": "2026-11-06T21:33:00Z"
         }
       ]
     },
@@ -99,6 +125,12 @@
       "market_cap": 736464793203.4574,
       "headlines": [
         {
+          "title": "AI Chip Stocks Bounce After Global Rout\u2014But Is the Bubble Starting to Burst?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-chip-stocks-bounce-global-160102744.html",
+          "publisher": "decrypt",
+          "published": "2026-11-07T16:01:02Z"
+        },
+        {
           "title": "AMD Stock Popped After Earnings, Then Gave It All Back. Is It a Buy Now?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-popped-earnings-then-152300830.html",
           "publisher": "Motley Fool",
@@ -109,12 +141,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-worth-1-3-trillion-140445010.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-07T14:04:45Z"
-        },
-        {
-          "title": "What Is Behind The Rebound In Qualcomm Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/behind-rebound-qualcomm-stock-124950996.html",
-          "publisher": "Trefis",
-          "published": "2026-11-07T12:49:50Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 75666.98,
-      "change_pct": -0.11
+      "price": 75689.89,
+      "change_pct": -0.08
     },
     {
       "label": "Gold",

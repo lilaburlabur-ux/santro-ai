@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-11-07T15:53:16+00:00",
-  "as_of_local": "2026-11-07 15:53:16 UTC",
+  "as_of_utc": "2026-11-07T16:08:23+00:00",
+  "as_of_local": "2026-11-07 16:08:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 186.64,
-      "previous_close": 181.6,
-      "change_pct": 2.78,
-      "market_cap": 4506796065261.841,
-      "headlines": [
-        {
-          "title": "CoreWeave\u2019s Bonds Now Yield More Than 16%, Days Before Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-bonds-now-yield-more-153753330.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-07T15:37:53Z"
-        },
-        {
-          "title": "Wall Street May Have Lost $2.5 Trillion, but This 30% Warning Could Be an Even Bigger Problem for AI Stocks",
-          "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-may-lost-2-153409358.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-07T15:34:09Z"
-        },
-        {
-          "title": "AMD Stock Popped After Earnings, Then Gave It All Back. Is It a Buy Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-popped-earnings-then-152300830.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T15:23:00Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 75605.43,
-      "change_pct": -0.19
+      "price": 75666.98,
+      "change_pct": -0.11
     },
     {
       "label": "Gold",

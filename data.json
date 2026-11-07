@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-07T20:58:59+00:00",
-  "as_of_local": "2026-11-07 20:58:59 UTC",
+  "as_of_utc": "2026-11-07T21:14:07+00:00",
+  "as_of_local": "2026-11-07 21:14:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 186.64,
+      "previous_close": 181.6,
+      "change_pct": 2.78,
+      "market_cap": 4506796065261.841,
+      "headlines": [
+        {
+          "title": "SpaceX's December Lockup Is Nearly the Biggest Share Unlock in IPO History. History Says This Is What Happens Next.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-december-lockup-nearly-biggest-210500586.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-07T21:05:00Z"
+        },
+        {
+          "title": "This Warren Buffett Dividend Stock Is the One I'd Buy With $1,000 in November",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-dividend-stock-one-205000895.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-07T20:50:00Z"
+        },
+        {
+          "title": "Wall Street Is Ignoring Bristol Myers Squibb's Cash Machine -- and That's an Opportunity for Income Investors",
+          "url": "https://finance.yahoo.com/healthcare/articles/wall-street-ignoring-bristol-myers-203500638.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-07T20:35:00Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 75558.56,
-      "change_pct": -0.25
+      "price": 75563.24,
+      "change_pct": -0.24
     },
     {
       "label": "Gold",

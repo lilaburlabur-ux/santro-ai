@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-07T18:39:48+00:00",
-  "as_of_local": "2026-11-07 18:39:48 UTC",
+  "as_of_utc": "2026-11-07T18:54:44+00:00",
+  "as_of_local": "2026-11-07 18:54:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 186.64,
+      "previous_close": 181.6,
+      "change_pct": 2.78,
+      "market_cap": 4506796065261.841,
+      "headlines": [
+        {
+          "title": "3 Dividend Stocks I'd Buy With $5,000 Before the End of November",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-id-buy-183500080.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-07T18:35:00Z"
+        },
+        {
+          "title": "Nvidia Stock Has More Than 60% Upside According to Analysts' Average Price Target. Should You Buy While the AI Trade Wobbles?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-more-60-upside-182000936.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-07T18:20:00Z"
+        },
+        {
+          "title": "Older Nvidia Chips Just Cost Oracle Its Microsoft AI Deal",
+          "url": "https://finance.yahoo.com/technology/ai/articles/older-nvidia-chips-just-cost-180844578.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-07T18:08:44Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -211,6 +237,12 @@
       "market_cap": 127046939792.53244,
       "headlines": [
         {
+          "title": "Here\u2019s Why Bank of America and TD Cowen Backed Away From Marvell (MRVL)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-bank-america-td-cowen-184337011.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-07T18:43:37Z"
+        },
+        {
           "title": "Why Marvell Technology Stock Plunged 28.1% This Week",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-technology-stock-plunged-151724256.html",
           "publisher": "Motley Fool",
@@ -221,12 +253,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-western-digital-just-had-131106576.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-07T13:11:06Z"
-        },
-        {
-          "title": "Coherent Stock Fell 8% in a Week. J.P. Morgan Sees 100% Upside From Here",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/coherent-stock-fell-8-week-123628522.html",
-          "publisher": "TIKR",
-          "published": "2026-11-07T12:36:28Z"
         }
       ]
     },
@@ -419,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 3.55,
-          "price": 835.06,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -509,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 3.55,
-        "price": 835.06,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 75709.9,
-      "change_pct": -0.05
+      "price": 75698.8,
+      "change_pct": -0.06
     },
     {
       "label": "Gold",

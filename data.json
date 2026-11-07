@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-07T19:45:15+00:00",
-  "as_of_local": "2026-11-07 19:45:15 UTC",
+  "as_of_utc": "2026-11-07T20:00:24+00:00",
+  "as_of_local": "2026-11-07 20:00:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,6 +12,12 @@
       "change_pct": 2.78,
       "market_cap": 4506796065261.841,
       "headlines": [
+        {
+          "title": "Here's What $10,000 Invested in Bloom Energy (BE) Stock Could Be Worth in 3 Years",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-10-000-invested-bloom-195000723.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-07T19:50:00Z"
+        },
         {
           "title": "Did Apple Just Get a Boost From Democrats? Data Center Moratoriums Could Benefit the iPhone Maker",
           "url": "https://finance.yahoo.com/markets/stocks/articles/did-apple-just-boost-democrats-192300731.html",
@@ -25,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/think-too-buy-cloudflare-stock-191300099.html",
           "publisher": "Motley Fool",
           "published": "2026-11-07T19:13:00Z"
-        },
-        {
-          "title": "Alphabet (GOOGL) Expands SpaceX Stake to $69 Billion and Deepens AI Ties",
-          "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-expands-spacex-stake-191144041.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07T19:11:44Z"
         }
       ]
     },
@@ -227,6 +225,34 @@
           "url": "https://finance.yahoo.com/technology/articles/ai-wants-every-scrap-ram-071504474.html",
           "publisher": "TIKR",
           "published": "2026-11-07T07:15:04Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 141.2,
+      "previous_close": 133.55,
+      "change_pct": 5.73,
+      "market_cap": 127046939792.53244,
+      "headlines": [
+        {
+          "title": "Here\u2019s Why Bank of America and TD Cowen Backed Away From Marvell (MRVL)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-bank-america-td-cowen-184337011.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-07T18:43:37Z"
+        },
+        {
+          "title": "Why Marvell Technology Stock Plunged 28.1% This Week",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-technology-stock-plunged-151724256.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-07T15:17:24Z"
+        },
+        {
+          "title": "Marvell and Western Digital Just Had Their Worst Week Since 2001",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-western-digital-just-had-131106576.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-07T13:11:06Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 75644.2,
-      "change_pct": -0.14
+      "price": 75690.75,
+      "change_pct": -0.07
     },
     {
       "label": "Gold",

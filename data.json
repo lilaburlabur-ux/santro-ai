@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-08T14:54:11+00:00",
-  "as_of_local": "2026-11-08 14:54:11 UTC",
+  "as_of_utc": "2026-11-08T15:09:12+00:00",
+  "as_of_local": "2026-11-08 15:09:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,50 +15,22 @@
       "market_cap": 4506796065261.841,
       "headlines": [
         {
+          "title": "AI Power Stocks Just Fell 6.3% to 9.3% on Financing Fears. SpaceX Just Said New Compute Pays Back in Under a Year.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-power-stocks-just-fell-145500327.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T14:55:00Z"
+        },
+        {
+          "title": "Prediction: A Stock Market Crash Is Coming. Here's What Dividend Investors Should Do Based on Warren Buffett's Advice",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-stock-market-crash-coming-145002954.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T14:50:02Z"
+        },
+        {
           "title": "Obamacare Subsidies Lapsed. Here's Why Health Insurer Stocks Are Watching the New Congress.",
           "url": "https://finance.yahoo.com/healthcare/articles/obamacare-subsidies-lapsed-heres-why-143500642.html",
           "publisher": "Motley Fool",
           "published": "2026-11-08T14:35:00Z"
-        },
-        {
-          "title": "Dow Jones Futures Loom With Market Damaged, Big Winners Broken; Apple, Amazon, Microsoft Strong",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-broken-apple-amazon-microsoft-strong-berkshire-earnings/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-08T14:14:55Z"
-        },
-        {
-          "title": "Is a Market Crash Coming? Warren Buffett's Warning Is Ringing Loud and Clear.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/market-crash-coming-warren-buffetts-140900950.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T14:09:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 375.44,
-      "previous_close": 353.1,
-      "change_pct": 6.33,
-      "market_cap": 1947209816103.01,
-      "headlines": [
-        {
-          "title": "AI stock selloff drives investors to China, India, and overlooked Asian sectors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-selloff-drives-investors-013045557.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-08T01:30:45Z"
-        },
-        {
-          "title": "TSMC Stock And 2 AI Infrastructure Shares Riding The AGI Spending Wave",
-          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-stock-2-ai-infrastructure-002240662.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-08T00:22:40Z"
-        },
-        {
-          "title": "AI Chip Stocks Bounce After Global Rout\u2014But Is the Bubble Starting to Burst?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-chip-stocks-bounce-global-160102744.html",
-          "publisher": "decrypt",
-          "published": "2026-11-07T16:01:02Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 75941.94,
-      "change_pct": 0.26
+      "price": 75962.05,
+      "change_pct": 0.28
     },
     {
       "label": "Gold",

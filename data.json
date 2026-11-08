@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-08T05:26:19+00:00",
-  "as_of_local": "2026-11-08 05:26:19 UTC",
+  "as_of_utc": "2026-11-08T05:41:16+00:00",
+  "as_of_local": "2026-11-08 05:41:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": 2.78,
       "market_cap": 4506796065261.841,
       "headlines": [
+        {
+          "title": "These AI Stocks To Improve Your Portfolio In November 2026",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-stocks-improve-portfolio-november-051245618.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-08T05:12:45Z"
+        },
         {
           "title": "Bank of America has unexpected advice for tech stock investors after midterms",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-unexpected-advice-tech-043300594.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/energy/articles/history-says-energy-led-sectors-032000196.html",
           "publisher": "Motley Fool",
           "published": "2026-11-08T03:20:00Z"
-        },
-        {
-          "title": "Dow Jones Futures: Market Damaged, Big Winners Broken; Apple, Amazon, Microsoft Strong",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-broken-apple-amazon-microsoft-strong-berkshire-earnings/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-08T03:19:56Z"
         }
       ]
     },
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/markets/crypto/articles/ai-stocks-falling-bitcoin-holding-165100578.html",
           "publisher": "Motley Fool",
           "published": "2026-11-07T16:51:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 174.62,
-      "previous_close": 166.72,
-      "change_pct": 4.74,
-      "market_cap": 186843394775.39062,
-      "headlines": [
-        {
-          "title": "Arm (ARM) Stock Sees Modest Fair Value Cut As Analysts Trim Multiples",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-arm-stock-sees-modest-021256821.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-08T02:12:56Z"
-        },
-        {
-          "title": "These 4 Stocks Are Tied to the Smartphone in Your Pocket",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/4-stocks-tied-smartphone-pocket-101302374.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T10:13:02Z"
-        },
-        {
-          "title": "AI Wants \u201cEvery Scrap of RAM.\u201d Qualcomm and Arm Just Showed Who Pays the Bill",
-          "url": "https://finance.yahoo.com/technology/articles/ai-wants-every-scrap-ram-071504474.html",
-          "publisher": "TIKR",
-          "published": "2026-11-07T07:15:04Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 75752.69,
-      "change_pct": 0.01
+      "price": 75723.78,
+      "change_pct": -0.03
     },
     {
       "label": "Gold",

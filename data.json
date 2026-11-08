@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-08T05:41:16+00:00",
-  "as_of_local": "2026-11-08 05:41:16 UTC",
+  "as_of_utc": "2026-11-08T05:46:31+00:00",
+  "as_of_local": "2026-11-08 05:46:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "ARM"
+    "MU"
   ],
   "stocks": [
     {
@@ -91,34 +91,6 @@
       ]
     },
     {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 690.0,
-      "previous_close": 656.39,
-      "change_pct": 5.12,
-      "market_cap": 780682016280.0,
-      "headlines": [
-        {
-          "title": "Dow Jones Futures: Market Damaged, Big Winners Broken; Apple, Amazon, Microsoft Strong",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-broken-apple-amazon-microsoft-strong-berkshire-earnings/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-08T03:19:56Z"
-        },
-        {
-          "title": "Micron and Sandisk Lead the Memory Market. 1 Stock Has Far Greater Upside.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-lead-memory-market-175000094.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T17:50:00Z"
-        },
-        {
-          "title": "AI Stocks Are Falling; Bitcoin Is Holding Ground. Here's What Could Come Next.",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/ai-stocks-falling-bitcoin-holding-165100578.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T16:51:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 449.04,
@@ -171,6 +143,34 @@
           "url": "https://finance.yahoo.com/markets/crypto/articles/ai-stocks-falling-bitcoin-holding-165100578.html",
           "publisher": "Motley Fool",
           "published": "2026-11-07T16:51:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 174.62,
+      "previous_close": 166.72,
+      "change_pct": 4.74,
+      "market_cap": 186843394775.39062,
+      "headlines": [
+        {
+          "title": "Arm (ARM) Stock Sees Modest Fair Value Cut As Analysts Trim Multiples",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-arm-stock-sees-modest-021256821.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-08T02:12:56Z"
+        },
+        {
+          "title": "These 4 Stocks Are Tied to the Smartphone in Your Pocket",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/4-stocks-tied-smartphone-pocket-101302374.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-07T10:13:02Z"
+        },
+        {
+          "title": "AI Wants \u201cEvery Scrap of RAM.\u201d Qualcomm and Arm Just Showed Who Pays the Bill",
+          "url": "https://finance.yahoo.com/technology/articles/ai-wants-every-scrap-ram-071504474.html",
+          "publisher": "TIKR",
+          "published": "2026-11-07T07:15:04Z"
         }
       ]
     },
@@ -383,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 5.12,
-          "price": 690.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -473,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 5.12,
-        "price": 690.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -559,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 75723.78,
-      "change_pct": -0.03
+      "price": 75701.54,
+      "change_pct": -0.06
     },
     {
       "label": "Gold",

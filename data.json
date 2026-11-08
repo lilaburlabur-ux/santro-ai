@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-08T22:25:03+00:00",
-  "as_of_local": "2026-11-08 22:25:03 UTC",
+  "as_of_utc": "2026-11-08T22:40:01+00:00",
+  "as_of_local": "2026-11-08 22:40:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-11-08T20:51:22Z"
         },
         {
-          "title": "Ohio, Georgia, and Arizona Rank Right Behind Texas for New Data Centers, and Democrats Won All 3",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ohio-georgia-arizona-rank-behind-220500788.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T22:05:00Z"
+          "title": "Dow Jones Futures Loom; Techs Set To Slide As Nvidia Probes CEO Jensen Huang Spying Case",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-probes-ceo-jensen-huang-espionage/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-08T22:27:02Z"
         },
         {
-          "title": "The Top 5 Biotech Stocks I'd Buy Right Now Without Any Hesitation",
-          "url": "https://finance.yahoo.com/healthcare/articles/top-5-biotech-stocks-id-215200078.html",
+          "title": "This Semiconductor ETF Just Had Its Worst Day Since March 2020",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-etf-just-had-worst-222000476.html",
           "publisher": "Motley Fool",
-          "published": "2026-11-08T21:52:00Z"
+          "published": "2026-11-08T22:20:00Z"
         }
       ]
     },
@@ -89,34 +91,6 @@
       ]
     },
     {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 690.0,
-      "previous_close": 656.39,
-      "change_pct": 5.12,
-      "market_cap": 780682016280.0,
-      "headlines": [
-        {
-          "title": "Dow Jones Futures Loom For Damaged Market; Nvidia Probes Huang Spying Case",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-broken-apple-amazon-microsoft-strong-berkshire-earnings/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-08T20:59:04Z"
-        },
-        {
-          "title": "What Does Micron Technology (MU) Taiwan Plant Halt Mean For Its Capacity Plans?",
-          "url": "https://finance.yahoo.com/technology/articles/does-micron-technology-mu-taiwan-190626047.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-08T19:06:26Z"
-        },
-        {
-          "title": "America\u2019s AI Spending Boom Just Crossed a Staggering $1 Trillion Milestone",
-          "url": "https://finance.yahoo.com/technology/ai/articles/america-ai-spending-boom-just-161533505.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-08T16:15:33Z"
-        }
-      ]
-    },
-    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 449.04,
@@ -124,6 +98,12 @@
       "change_pct": 11.04,
       "market_cap": 736464793203.4574,
       "headlines": [
+        {
+          "title": "What Is Meta Platforms (META) Facing As Legal Risks Rise And AI Deals Expand?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-facing-legal-220633031.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-08T22:06:33Z"
+        },
         {
           "title": "AMD Stock Dropped 11% Last Week. Is Intel\u2019s PC Warning Really That Bad?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-dropped-11-last-185539006.html",
@@ -135,12 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-gone-nowhere-8-162958709.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-08T16:29:58Z"
-        },
-        {
-          "title": "Wall Street Is Dumping AI Stocks Even as Business Booms. Something Doesn\u2019t Add Up.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-dumping-ai-stocks-162639331.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-08T16:26:39Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 5.12,
-          "price": 690.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 5.12,
-        "price": 690.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 74538.99,
-      "change_pct": -1.6
+      "price": 74333.71,
+      "change_pct": -1.87
     },
     {
       "label": "Gold",

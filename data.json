@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-08T14:18:47+00:00",
-  "as_of_local": "2026-11-08 14:18:47 UTC",
+  "as_of_utc": "2026-11-08T14:33:59+00:00",
+  "as_of_local": "2026-11-08 14:33:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": 2.78,
       "market_cap": 4506796065261.841,
       "headlines": [
+        {
+          "title": "Dow Jones Futures Loom With Market Damaged, Big Winners Broken; Apple, Amazon, Microsoft Strong",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-broken-apple-amazon-microsoft-strong-berkshire-earnings/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-08T14:14:55Z"
+        },
         {
           "title": "Is a Market Crash Coming? Warren Buffett's Warning Is Ringing Loud and Clear.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/market-crash-coming-warren-buffetts-140900950.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/forget-ionq-buy-2-quantum-135700429.html",
           "publisher": "Motley Fool",
           "published": "2026-11-08T13:57:00Z"
-        },
-        {
-          "title": "Morgan Stanley Says $300. Michael Burry Says Overvalued. Here's Who Is Right About SpaceX Stock.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-says-300-michael-135000057.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T13:50:00Z"
         }
       ]
     },
@@ -61,34 +63,6 @@
       ]
     },
     {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 293.69,
-      "previous_close": 291.53,
-      "change_pct": 0.74,
-      "market_cap": 1401967366706.2197,
-      "headlines": [
-        {
-          "title": "3 AI Chip Stocks to Buy in November After the October Sell-Off",
-          "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-buy-110500578.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T11:05:00Z"
-        },
-        {
-          "title": "Congressman Swaps One Chip Stock for Another: Here Are the Moves",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/congressman-swaps-one-chip-stock-104507987.html",
-          "publisher": "Benzinga",
-          "published": "2026-11-08T10:45:07Z"
-        },
-        {
-          "title": "Broadcom Just Dropped 15% in a Week. Is It Time to Sell, or Load Up?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-just-dropped-15-week-090703801.html",
-          "publisher": "TIKR",
-          "published": "2026-11-08T09:07:03Z"
-        }
-      ]
-    },
-    {
       "symbol": "MU",
       "name": "Micron Technology",
       "price": 690.0,
@@ -96,6 +70,12 @@
       "change_pct": 5.12,
       "market_cap": 780682016280.0,
       "headlines": [
+        {
+          "title": "Dow Jones Futures Loom With Market Damaged, Big Winners Broken; Apple, Amazon, Microsoft Strong",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-broken-apple-amazon-microsoft-strong-berkshire-earnings/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-08T14:14:55Z"
+        },
         {
           "title": "Prediction: This Will Be the Best-Performing AI Stock of 2027",
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-best-performing-ai-stock-132500281.html",
@@ -107,12 +87,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-buy-110500578.html",
           "publisher": "Motley Fool",
           "published": "2026-11-08T11:05:00Z"
-        },
-        {
-          "title": "Congressman Swaps One Chip Stock for Another: Here Are the Moves",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/congressman-swaps-one-chip-stock-104507987.html",
-          "publisher": "Benzinga",
-          "published": "2026-11-08T10:45:07Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 75825.01,
-      "change_pct": 0.1
+      "price": 75912.96,
+      "change_pct": 0.22
     },
     {
       "label": "Gold",

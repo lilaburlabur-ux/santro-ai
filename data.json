@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-08T03:10:07+00:00",
-  "as_of_local": "2026-11-08 03:10:07 UTC",
+  "as_of_utc": "2026-11-08T03:15:11+00:00",
+  "as_of_local": "2026-11-08 03:15:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 186.64,
+      "previous_close": 181.6,
+      "change_pct": 2.78,
+      "market_cap": 4506796065261.841,
+      "headlines": [
+        {
+          "title": "Anduril Keeps Winning Billion-Dollar Contracts and You Can't Buy It. Here Are 3 Public Stocks That Get Paid Alongside It.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/anduril-keeps-winning-billion-dollar-025000485.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T02:50:00Z"
+        },
+        {
+          "title": "Trump's Recent Warning Is Sending Shockwaves Through Wall Street. Here's What It Could Mean for Your Retirement Savings.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/trumps-recent-warning-sending-shockwaves-022000358.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T02:20:00Z"
+        },
+        {
+          "title": "The 1 Investing Habit That Separates Stock Market Millionaires From Everyone Else",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-investing-habit-separates-stock-015000420.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T01:50:00Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 75754.98,
-      "change_pct": 0.01
+      "price": 75794.42,
+      "change_pct": 0.06
     },
     {
       "label": "Gold",

@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-08T23:15:22+00:00",
-  "as_of_local": "2026-11-08 23:15:22 UTC",
+  "as_of_utc": "2026-11-08T23:30:31+00:00",
+  "as_of_local": "2026-11-08 23:30:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 186.64,
+      "previous_close": 181.6,
+      "change_pct": 2.78,
+      "market_cap": 4506796065261.841,
+      "headlines": [
+        {
+          "title": "Nvidia's board launches investigation into CEO Jensen Huang's affair with an alleged Chinese spy",
+          "url": "https://finance.yahoo.com/markets/article/nvidias-jensen-huang-admits-to-affair-after-allegations-of-romance-with-chinese-spy-report-205122263.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-08T20:51:22Z"
+        },
+        {
+          "title": "Dow Jones Futures Rise; Nvidia Probes CEO Jensen Huang Spying Case",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-probes-ceo-jensen-huang-espionage/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-08T23:17:26Z"
+        },
+        {
+          "title": "Nvidia\u2019s Board Investigates Reports That CEO Was Spying Target After Affair",
+          "url": "https://www.wsj.com/tech/ai/nvidias-board-to-investigate-reports-that-jensen-huang-was-spying-target-c630325e?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-08T23:07:00Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -71,10 +97,10 @@
       "market_cap": 780682016280.0,
       "headlines": [
         {
-          "title": "Dow Jones Futures: Techs Slide As Nvidia Probes CEO Jensen Huang Spying Case",
+          "title": "Dow Jones Futures Rise; Nvidia Probes CEO Jensen Huang Spying Case",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-probes-ceo-jensen-huang-espionage/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-08T23:06:30Z"
+          "published": "2026-11-08T23:17:26Z"
         },
         {
           "title": "3 Growth Stocks With Earnings Growth Over 20%",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 75185.68,
-      "change_pct": -0.74
+      "price": 75291.16,
+      "change_pct": -0.6
     },
     {
       "label": "Gold",
-      "price": 4074.9,
-      "change_pct": 0.0
+      "price": 4079.6,
+      "change_pct": 0.12
     },
     {
       "label": "Nasdaq100",

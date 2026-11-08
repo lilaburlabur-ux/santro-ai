@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-08T22:40:01+00:00",
-  "as_of_local": "2026-11-08 22:40:01 UTC",
+  "as_of_utc": "2026-11-08T22:55:08+00:00",
+  "as_of_local": "2026-11-08 22:55:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -15,22 +13,22 @@
       "market_cap": 4506796065261.841,
       "headlines": [
         {
-          "title": "Nvidia's board launches investigation into CEO Jensen Huang's affair with alleged Chinese spy",
+          "title": "Nvidia's board launches investigation into CEO Jensen Huang's affair with an alleged Chinese spy",
           "url": "https://finance.yahoo.com/markets/article/nvidias-jensen-huang-admits-to-affair-after-allegations-of-romance-with-chinese-spy-report-205122263.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-08T20:51:22Z"
+        },
+        {
+          "title": "Nvidia Board Launches Probe In CEO Jensen Huang Spying Case",
+          "url": "https://www.investors.com/news/technology/nvidia-board-launches-probe-in-ceo-jensen-huang-spying-case/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-08T22:36:04Z"
         },
         {
           "title": "Dow Jones Futures Loom; Techs Set To Slide As Nvidia Probes CEO Jensen Huang Spying Case",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-probes-ceo-jensen-huang-espionage/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-08T22:27:02Z"
-        },
-        {
-          "title": "This Semiconductor ETF Just Had Its Worst Day Since March 2020",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-etf-just-had-worst-222000476.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T22:20:00Z"
         }
       ]
     },
@@ -91,6 +89,34 @@
       ]
     },
     {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 690.0,
+      "previous_close": 656.39,
+      "change_pct": 5.12,
+      "market_cap": 780682016280.0,
+      "headlines": [
+        {
+          "title": "Dow Jones Futures Loom; Techs Set To Slide As Nvidia Probes CEO Jensen Huang Spying Case",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-probes-ceo-jensen-huang-espionage/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-08T22:27:02Z"
+        },
+        {
+          "title": "3 Growth Stocks With Earnings Growth Over 20%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-earnings-growth-220719361.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-08T22:07:19Z"
+        },
+        {
+          "title": "What Does Micron Technology (MU) Taiwan Plant Halt Mean For Its Capacity Plans?",
+          "url": "https://finance.yahoo.com/technology/articles/does-micron-technology-mu-taiwan-190626047.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-08T19:06:26Z"
+        }
+      ]
+    },
+    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 449.04,
@@ -127,6 +153,12 @@
       "market_cap": 299128193511.9629,
       "headlines": [
         {
+          "title": "The Government\u2019s $37 Billion Intel Round Trip Is a Warning for Anyone Who Still Holds the Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/government-37-billion-intel-round-224600798.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-08T22:46:00Z"
+        },
+        {
           "title": "AMD Stock Dropped 11% Last Week. Is Intel\u2019s PC Warning Really That Bad?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-dropped-11-last-185539006.html",
           "publisher": "TIKR",
@@ -137,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-gone-nowhere-8-162958709.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-08T16:29:58Z"
-        },
-        {
-          "title": "What Intel Doubters Got Wrong",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-doubters-got-wrong-150828568.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-08T15:08:28Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 5.12,
+          "price": 690.0,
           "currency": "USD"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -6.35,
-          "price": 188700.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "KRW"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 5.12,
+        "price": 690.0,
         "currency": "USD"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -6.35,
-        "price": 188700.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "KRW"
       },
       {
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 74333.71,
-      "change_pct": -1.87
+      "price": 74357.11,
+      "change_pct": -1.84
     },
     {
       "label": "Gold",

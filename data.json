@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-11-08T00:43:49+00:00",
-  "as_of_local": "2026-11-08 00:43:49 UTC",
+  "as_of_utc": "2026-11-08T00:58:59+00:00",
+  "as_of_local": "2026-11-08 00:58:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 186.64,
-      "previous_close": 181.6,
-      "change_pct": 2.78,
-      "market_cap": 4506796065261.841,
-      "headlines": [
-        {
-          "title": "How to invest in AI amid AI spending worries?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/invest-ai-amid-ai-spending-002316174.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-08T00:23:16Z"
-        },
-        {
-          "title": "Energy Transfer Just Raised Its Distribution for the 20th Straight Quarter. Here's How Much $10,000 Invested Pays Annually.",
-          "url": "https://finance.yahoo.com/energy/articles/energy-transfer-just-raised-distribution-002000284.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T00:20:00Z"
-        },
-        {
-          "title": "Novo Nordisk Just Delivered Great News for Investors. Is a Comeback Finally Underway?",
-          "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-just-delivered-great-234002697.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T23:40:02Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -40,6 +14,12 @@
       "change_pct": 6.33,
       "market_cap": 1947209816103.01,
       "headlines": [
+        {
+          "title": "TSMC Stock And 2 AI Infrastructure Shares Riding The AGI Spending Wave",
+          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-stock-2-ai-infrastructure-002240662.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-08T00:22:40Z"
+        },
         {
           "title": "AI Chip Stocks Bounce After Global Rout\u2014But Is the Bubble Starting to Burst?",
           "url": "https://finance.yahoo.com/technology/ai/articles/ai-chip-stocks-bounce-global-160102744.html",
@@ -51,12 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-jumped-6-report-could-151351522.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-07T15:13:51Z"
-        },
-        {
-          "title": "Investors Pulled $7 Billion From Three Cash Funds In A Month. Where Did It Go?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-pulled-7-billion-three-091500739.html",
-          "publisher": "Trefis",
-          "published": "2026-11-07T09:15:00Z"
         }
       ]
     },
@@ -585,13 +559,18 @@
     },
     {
       "label": "BTC",
-      "price": 75651.39,
-      "change_pct": -0.13
+      "price": 75694.3,
+      "change_pct": -0.07
     },
     {
       "label": "Gold",
       "price": 4074.9,
       "change_pct": -0.94
+    },
+    {
+      "label": "Nasdaq100",
+      "price": 26989.99,
+      "change_pct": 1.35
     }
   ]
 }

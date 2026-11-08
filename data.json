@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-08T00:58:59+00:00",
-  "as_of_local": "2026-11-08 00:58:59 UTC",
+  "as_of_utc": "2026-11-08T01:14:01+00:00",
+  "as_of_local": "2026-11-08 01:14:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 186.64,
+      "previous_close": 181.6,
+      "change_pct": 2.78,
+      "market_cap": 4506796065261.841,
+      "headlines": [
+        {
+          "title": "AMD Stock Just Fell Below the Price I Said I'd Pay for It.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-just-fell-below-005802704.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T00:58:02Z"
+        },
+        {
+          "title": "Warren Buffett and Greg Abel Just Sent Shockwaves Through Wall Street With This $377 Billion Warning",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-greg-abel-just-004301506.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T00:43:01Z"
+        },
+        {
+          "title": "How to invest in AI amid AI spending worries?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/invest-ai-amid-ai-spending-002316174.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-08T00:23:16Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -99,6 +125,12 @@
       "market_cap": 736464793203.4574,
       "headlines": [
         {
+          "title": "AMD Stock Just Fell Below the Price I Said I'd Pay for It.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-just-fell-below-005802704.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T00:58:02Z"
+        },
+        {
           "title": "NVIDIA And 2 Other AI Stocks To Watch",
           "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-2-other-ai-stocks-231249303.html",
           "publisher": "Simply Wall St.",
@@ -109,12 +141,6 @@
           "url": "https://finance.yahoo.com/markets/crypto/articles/core-scientific-quitting-bitcoin-mining-195250741.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-07T19:52:50Z"
-        },
-        {
-          "title": "Jim Cramer sends a strong signal to Nvidia stock investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-strong-signal-171700506.html",
-          "publisher": "TheStreet",
-          "published": "2026-11-07T17:17:00Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 75694.3,
-      "change_pct": -0.07
+      "price": 75717.27,
+      "change_pct": -0.04
     },
     {
       "label": "Gold",

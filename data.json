@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-08T02:04:32+00:00",
-  "as_of_local": "2026-11-08 02:04:32 UTC",
+  "as_of_utc": "2026-11-08T02:19:38+00:00",
+  "as_of_local": "2026-11-08 02:19:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -143,6 +141,34 @@
           "url": "https://finance.yahoo.com/markets/crypto/articles/core-scientific-quitting-bitcoin-mining-195250741.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-07T19:52:50Z"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 56.28,
+      "previous_close": 52.25,
+      "change_pct": 7.71,
+      "market_cap": 299128193511.9629,
+      "headlines": [
+        {
+          "title": "Brookfield Infrastructure Partners LP (BIP) (Q3 2026) Earnings Call Highlights: Third Straight ...",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-infrastructure-partners-lp-bip-190912603.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-07T19:09:12Z"
+        },
+        {
+          "title": "Musk Says His Terafab Chip Plant Could Cost $1 Trillion",
+          "url": "https://finance.yahoo.com/technology/articles/musk-says-terafab-chip-plant-171641498.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-07T17:16:41Z"
+        },
+        {
+          "title": "AI Stocks Are Falling; Bitcoin Is Holding Ground. Here's What Could Come Next.",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/ai-stocks-falling-bitcoin-holding-165100578.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-07T16:51:00Z"
         }
       ]
     },
@@ -559,7 +585,7 @@
     },
     {
       "label": "BTC",
-      "price": 75614.21,
+      "price": 75613.23,
       "change_pct": -0.18
     },
     {

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-08T01:49:20+00:00",
-  "as_of_local": "2026-11-08 01:49:20 UTC",
+  "as_of_utc": "2026-11-08T02:04:32+00:00",
+  "as_of_local": "2026-11-08 02:04:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": 2.78,
       "market_cap": 4506796065261.841,
       "headlines": [
+        {
+          "title": "The 1 Investing Habit That Separates Stock Market Millionaires From Everyone Else",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-investing-habit-separates-stock-015000420.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T01:50:00Z"
+        },
         {
           "title": "Alphabet's $15 Billion Investment in Malaysia Data Centers Shows That Midterm Results Won't Stop the AI Boom",
           "url": "https://finance.yahoo.com/technology/ai/articles/alphabets-15-billion-investment-malaysia-012000786.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-just-fell-below-005802704.html",
           "publisher": "Motley Fool",
           "published": "2026-11-08T00:58:02Z"
-        },
-        {
-          "title": "Warren Buffett and Greg Abel Just Sent Shockwaves Through Wall Street With This $377 Billion Warning",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-greg-abel-just-004301506.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T00:43:01Z"
         }
       ]
     },
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/crypto/articles/core-scientific-quitting-bitcoin-mining-195250741.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-07T19:52:50Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 56.28,
-      "previous_close": 52.25,
-      "change_pct": 7.71,
-      "market_cap": 299128193511.9629,
-      "headlines": [
-        {
-          "title": "Brookfield Infrastructure Partners LP (BIP) (Q3 2026) Earnings Call Highlights: Third Straight ...",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-infrastructure-partners-lp-bip-190912603.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-07T19:09:12Z"
-        },
-        {
-          "title": "Musk Says His Terafab Chip Plant Could Cost $1 Trillion",
-          "url": "https://finance.yahoo.com/technology/articles/musk-says-terafab-chip-plant-171641498.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-07T17:16:41Z"
-        },
-        {
-          "title": "AI Stocks Are Falling; Bitcoin Is Holding Ground. Here's What Could Come Next.",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/ai-stocks-falling-bitcoin-holding-165100578.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T16:51:00Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 75656.18,
-      "change_pct": -0.12
+      "price": 75614.21,
+      "change_pct": -0.18
     },
     {
       "label": "Gold",

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-08T15:09:12+00:00",
-  "as_of_local": "2026-11-08 15:09:12 UTC",
+  "as_of_utc": "2026-11-08T15:24:20+00:00",
+  "as_of_local": "2026-11-08 15:24:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,6 +12,12 @@
       "change_pct": 2.78,
       "market_cap": 4506796065261.841,
       "headlines": [
+        {
+          "title": "How These 4 Transportation Stocks Move the Economy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/4-transportation-stocks-move-economy-150500897.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T15:05:00Z"
+        },
         {
           "title": "AI Power Stocks Just Fell 6.3% to 9.3% on Financing Fears. SpaceX Just Said New Compute Pays Back in Under a Year.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ai-power-stocks-just-fell-145500327.html",
@@ -25,12 +29,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-stock-market-crash-coming-145002954.html",
           "publisher": "Motley Fool",
           "published": "2026-11-08T14:50:02Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 375.44,
+      "previous_close": 353.1,
+      "change_pct": 6.33,
+      "market_cap": 1947209816103.01,
+      "headlines": [
+        {
+          "title": "AI stock selloff drives investors to China, India, and overlooked Asian sectors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-selloff-drives-investors-013045557.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-08T01:30:45Z"
         },
         {
-          "title": "Obamacare Subsidies Lapsed. Here's Why Health Insurer Stocks Are Watching the New Congress.",
-          "url": "https://finance.yahoo.com/healthcare/articles/obamacare-subsidies-lapsed-heres-why-143500642.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T14:35:00Z"
+          "title": "TSMC Stock And 2 AI Infrastructure Shares Riding The AGI Spending Wave",
+          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-stock-2-ai-infrastructure-002240662.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-08T00:22:40Z"
+        },
+        {
+          "title": "AI Chip Stocks Bounce After Global Rout\u2014But Is the Bubble Starting to Burst?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-chip-stocks-bounce-global-160102744.html",
+          "publisher": "decrypt",
+          "published": "2026-11-07T16:01:02Z"
         }
       ]
     },
@@ -127,6 +153,12 @@
       "market_cap": 299128193511.9629,
       "headlines": [
         {
+          "title": "What Intel Doubters Got Wrong",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-doubters-got-wrong-150828568.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-08T15:08:28Z"
+        },
+        {
           "title": "Broadcom Just Dropped 15% in a Week. Is It Time to Sell, or Load Up?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-just-dropped-15-week-090703801.html",
           "publisher": "TIKR",
@@ -137,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-arm-marvell-cut-half-085802797.html",
           "publisher": "Motley Fool",
           "published": "2026-11-08T08:58:02Z"
-        },
-        {
-          "title": "AMD Is Up 110% in 2026, but Down Sharply From Its High. Time to Sell, or Load Up?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-110-2026-down-sharply-040552480.html",
-          "publisher": "TIKR",
-          "published": "2026-11-08T04:05:52Z"
         }
       ]
     },
@@ -375,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 39.29,
-      "change_pct": 6.16,
+      "price": null,
+      "change_pct": 0.0,
       "holdings": [
         {
           "symbol": "MU",
@@ -465,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 39.29,
-    "change_pct": 6.16,
+    "price": null,
+    "change_pct": 0.0,
     "holdings": [
       {
         "symbol": "MU",
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 75962.05,
-      "change_pct": 0.28
+      "price": 75918.33,
+      "change_pct": 0.23
     },
     {
       "label": "Gold",

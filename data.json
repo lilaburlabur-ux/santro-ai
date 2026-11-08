@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-08T10:17:02+00:00",
-  "as_of_local": "2026-11-08 10:17:02 UTC",
+  "as_of_utc": "2026-11-08T10:32:05+00:00",
+  "as_of_local": "2026-11-08 10:32:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/4-stocks-tied-smartphone-pocket-101302374.html",
           "publisher": "Motley Fool",
           "published": "2026-11-07T10:13:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 141.2,
-      "previous_close": 133.55,
-      "change_pct": 5.73,
-      "market_cap": 127046939792.53244,
-      "headlines": [
-        {
-          "title": "Intel, Arm, and Marvell Have Each Been Cut in Half Since June. Only 1 Is a Stock I'd Buy Now.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-arm-marvell-cut-half-085802797.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T08:58:02Z"
-        },
-        {
-          "title": "Credo Just Dropped 32% in a Week. Is It Time to Sell, or Load Up?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/credo-just-dropped-32-week-040236706.html",
-          "publisher": "TIKR",
-          "published": "2026-11-08T04:02:36Z"
-        },
-        {
-          "title": "3 Growth Stocks With Earnings Growth Up To 58%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-earnings-growth-201412969.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07T20:14:12Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 75797.16,
-      "change_pct": 0.07
+      "price": 75734.88,
+      "change_pct": -0.02
     },
     {
       "label": "Gold",

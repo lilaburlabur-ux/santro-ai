@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-08T10:01:57+00:00",
-  "as_of_local": "2026-11-08 10:01:57 UTC",
+  "as_of_utc": "2026-11-08T10:17:02+00:00",
+  "as_of_local": "2026-11-08 10:17:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 186.64,
+      "previous_close": 181.6,
+      "change_pct": 2.78,
+      "market_cap": 4506796065261.841,
+      "headlines": [
+        {
+          "title": "3 Dividend ETFs That Could Generate Thousands of Dollars in Passive Income",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-etfs-could-generate-100400943.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T10:04:00Z"
+        },
+        {
+          "title": "Markets Are Pricing in a Fed Rate Hike in December. Here's What Investors Should Do, According to History.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/markets-pricing-fed-rate-hike-100400968.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T10:04:00Z"
+        },
+        {
+          "title": "The Trade Desk Stock Has Lost About 89% Since the End of 2024. Its Nov. 9 Report Is the Next Test.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/trade-desk-stock-lost-89-094202791.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T09:42:02Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 75825.84,
-      "change_pct": 0.1
+      "price": 75797.16,
+      "change_pct": 0.07
     },
     {
       "label": "Gold",

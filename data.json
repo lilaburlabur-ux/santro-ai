@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-08T11:22:30+00:00",
-  "as_of_local": "2026-11-08 11:22:30 UTC",
+  "as_of_utc": "2026-11-08T11:37:38+00:00",
+  "as_of_local": "2026-11-08 11:37:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,6 +12,12 @@
       "change_pct": 2.78,
       "market_cap": 4506796065261.841,
       "headlines": [
+        {
+          "title": "A Top Silicon Valley Investor Predicts a Bitcoin Crash to $57,000 Within the Next 12 Months. Here's Why He's Wrong.",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/top-silicon-valley-investor-predicts-112300337.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T11:23:00Z"
+        },
         {
           "title": "3 AI Chip Stocks to Buy in November After the October Sell-Off",
           "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-buy-110500578.html",
@@ -25,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-cannabis-stocks-strongest-balance-105200580.html",
           "publisher": "Motley Fool",
           "published": "2026-11-08T10:52:00Z"
-        },
-        {
-          "title": "Nike Is Down 78% From Its Peak. Here's How Much $10,000 Invested Pays in Dividends Now.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nike-down-78-peak-heres-103500991.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T10:35:00Z"
         }
       ]
     },
@@ -115,6 +113,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-lost-51-month-bernstein-081343420.html",
           "publisher": "TIKR",
           "published": "2026-11-08T08:13:43Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 449.04,
+      "previous_close": 404.4,
+      "change_pct": 11.04,
+      "market_cap": 736464793203.4574,
+      "headlines": [
+        {
+          "title": "AMD Stock Has More Than Doubled in 2026. Here's How Its Last 8 Doubles Played Out the Next Year.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-more-doubled-2026-102702733.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T10:27:02Z"
+        },
+        {
+          "title": "Broadcom Just Dropped 15% in a Week. Is It Time to Sell, or Load Up?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-just-dropped-15-week-090703801.html",
+          "publisher": "TIKR",
+          "published": "2026-11-08T09:07:03Z"
+        },
+        {
+          "title": "Bank of America has unexpected advice for tech stock investors after midterms",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-unexpected-advice-tech-043300594.html",
+          "publisher": "TheStreet",
+          "published": "2026-11-08T04:33:00Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 75906.52,
-      "change_pct": 0.21
+      "price": 75879.78,
+      "change_pct": 0.17
     },
     {
       "label": "Gold",

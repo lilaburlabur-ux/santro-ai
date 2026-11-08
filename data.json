@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-08T08:36:10+00:00",
-  "as_of_local": "2026-11-08 08:36:10 UTC",
+  "as_of_utc": "2026-11-08T08:51:16+00:00",
+  "as_of_local": "2026-11-08 08:51:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": 2.78,
       "market_cap": 4506796065261.841,
       "headlines": [
+        {
+          "title": "Is Micron Stock a Buy Right Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-buy-now-083500780.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T08:35:00Z"
+        },
         {
           "title": "Why AT&T Stock Slumped in October",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-t-stock-slumped-october-074639223.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/economy/policy/articles/fed-raises-interest-rates-december-072000815.html",
           "publisher": "Motley Fool",
           "published": "2026-11-08T07:20:00Z"
-        },
-        {
-          "title": "NVIDIA And 2 More Grid Stocks To Watch",
-          "url": "https://finance.yahoo.com/technology/articles/nvidia-2-more-grid-stocks-071029806.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-08T07:10:29Z"
         }
       ]
     },
@@ -97,6 +99,12 @@
       "market_cap": 780682016280.0,
       "headlines": [
         {
+          "title": "Is Micron Stock a Buy Right Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-buy-now-083500780.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T08:35:00Z"
+        },
+        {
           "title": "AMD Is Up 110% in 2026, but Down Sharply From Its High. Time to Sell, or Load Up?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-110-2026-down-sharply-040552480.html",
           "publisher": "TIKR",
@@ -107,12 +115,6 @@
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-broken-apple-amazon-microsoft-strong-berkshire-earnings/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-08T03:19:56Z"
-        },
-        {
-          "title": "Micron and Sandisk Lead the Memory Market. 1 Stock Has Far Greater Upside.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-lead-memory-market-175000094.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T17:50:00Z"
         }
       ]
     },
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/technology/articles/ai-wants-every-scrap-ram-071504474.html",
           "publisher": "TIKR",
           "published": "2026-11-07T07:15:04Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 141.2,
-      "previous_close": 133.55,
-      "change_pct": 5.73,
-      "market_cap": 127046939792.53244,
-      "headlines": [
-        {
-          "title": "Credo Just Dropped 32% in a Week. Is It Time to Sell, or Load Up?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/credo-just-dropped-32-week-040236706.html",
-          "publisher": "TIKR",
-          "published": "2026-11-08T04:02:36Z"
-        },
-        {
-          "title": "3 Growth Stocks With Earnings Growth Up To 58%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-earnings-growth-201412969.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07T20:14:12Z"
-        },
-        {
-          "title": "Here\u2019s Why Bank of America and TD Cowen Backed Away From Marvell (MRVL)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-bank-america-td-cowen-184337011.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-07T18:43:37Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 75793.86,
-      "change_pct": 0.06
+      "price": 75816.91,
+      "change_pct": 0.09
     },
     {
       "label": "Gold",

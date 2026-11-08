@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-08T06:55:22+00:00",
-  "as_of_local": "2026-11-08 06:55:22 UTC",
+  "as_of_utc": "2026-11-08T07:10:23+00:00",
+  "as_of_local": "2026-11-08 07:10:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LSCC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -287,6 +285,34 @@
       ]
     },
     {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 105.02,
+      "previous_close": 98.03,
+      "change_pct": 7.13,
+      "market_cap": 14936541591.3778,
+      "headlines": [
+        {
+          "title": "ETFs Are Net Sellers of Lattice Semiconductor (LSCC) on Tuesday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-lattice-semiconductor-110213477.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-05T11:02:13Z"
+        },
+        {
+          "title": "What iShares A.I. Innovation ETF (BAI) Bought: Amazon Leads on Nov. 2",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-innovation-etf-bai-bought-110550024.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-04T11:05:50Z"
+        },
+        {
+          "title": "ETFs Are Net Sellers of Lattice Semiconductor (LSCC) on Nov. 2",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-lattice-semiconductor-110255079.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-04T11:02:55Z"
+        }
+      ]
+    },
+    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 112.76,
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 75719.89,
-      "change_pct": -0.04
+      "price": 75754.03,
+      "change_pct": 0.01
     },
     {
       "label": "Gold",

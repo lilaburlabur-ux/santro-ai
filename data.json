@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-08T04:50:48+00:00",
-  "as_of_local": "2026-11-08 04:50:48 UTC",
+  "as_of_utc": "2026-11-08T04:56:06+00:00",
+  "as_of_local": "2026-11-08 04:56:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-may-lost-2-153409358.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-07T15:34:09Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 690.0,
-      "previous_close": 656.39,
-      "change_pct": 5.12,
-      "market_cap": 780682016280.0,
-      "headlines": [
-        {
-          "title": "Dow Jones Futures: Market Damaged, Big Winners Broken; Apple, Amazon, Microsoft Strong",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-broken-apple-amazon-microsoft-strong-berkshire-earnings/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-08T03:19:56Z"
-        },
-        {
-          "title": "Micron and Sandisk Lead the Memory Market. 1 Stock Has Far Greater Upside.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-lead-memory-market-175000094.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T17:50:00Z"
-        },
-        {
-          "title": "AI Stocks Are Falling; Bitcoin Is Holding Ground. Here's What Could Come Next.",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/ai-stocks-falling-bitcoin-holding-165100578.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T16:51:00Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 5.12,
-          "price": 690.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 5.12,
-        "price": 690.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 75742.1,
-      "change_pct": -0.01
+      "price": 75730.01,
+      "change_pct": -0.02
     },
     {
       "label": "Gold",

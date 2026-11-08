@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-08T14:33:59+00:00",
-  "as_of_local": "2026-11-08 14:33:59 UTC",
+  "as_of_utc": "2026-11-08T14:48:58+00:00",
+  "as_of_local": "2026-11-08 14:48:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,6 +12,12 @@
       "change_pct": 2.78,
       "market_cap": 4506796065261.841,
       "headlines": [
+        {
+          "title": "Obamacare Subsidies Lapsed. Here's Why Health Insurer Stocks Are Watching the New Congress.",
+          "url": "https://finance.yahoo.com/healthcare/articles/obamacare-subsidies-lapsed-heres-why-143500642.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T14:35:00Z"
+        },
         {
           "title": "Dow Jones Futures Loom With Market Damaged, Big Winners Broken; Apple, Amazon, Microsoft Strong",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-broken-apple-amazon-microsoft-strong-berkshire-earnings/?src=A00220&yptr=yahoo",
@@ -25,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/market-crash-coming-warren-buffetts-140900950.html",
           "publisher": "Motley Fool",
           "published": "2026-11-08T14:09:00Z"
-        },
-        {
-          "title": "Should You Forget IonQ and Buy These 2 Quantum Computing Stocks Instead?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-ionq-buy-2-quantum-135700429.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T13:57:00Z"
         }
       ]
     },
@@ -59,6 +57,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/ai-chip-stocks-bounce-global-160102744.html",
           "publisher": "decrypt",
           "published": "2026-11-07T16:01:02Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 293.69,
+      "previous_close": 291.53,
+      "change_pct": 0.74,
+      "market_cap": 1401967366706.2197,
+      "headlines": [
+        {
+          "title": "3 AI Chip Stocks to Buy in November After the October Sell-Off",
+          "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-buy-110500578.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T11:05:00Z"
+        },
+        {
+          "title": "Congressman Swaps One Chip Stock for Another: Here Are the Moves",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/congressman-swaps-one-chip-stock-104507987.html",
+          "publisher": "Benzinga",
+          "published": "2026-11-08T10:45:07Z"
+        },
+        {
+          "title": "Broadcom Just Dropped 15% in a Week. Is It Time to Sell, or Load Up?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-just-dropped-15-week-090703801.html",
+          "publisher": "TIKR",
+          "published": "2026-11-08T09:07:03Z"
         }
       ]
     },
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -10.44,
-          "price": 1132000.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "KRW"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -10.44,
-        "price": 1132000.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "KRW"
       },
       {
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 75912.96,
-      "change_pct": 0.22
+      "price": 75927.78,
+      "change_pct": 0.24
     },
     {
       "label": "Gold",

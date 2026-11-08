@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-11-08T23:10:17+00:00",
-  "as_of_local": "2026-11-08 23:10:17 UTC",
+  "as_of_utc": "2026-11-08T23:15:22+00:00",
+  "as_of_local": "2026-11-08 23:15:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 186.64,
-      "previous_close": 181.6,
-      "change_pct": 2.78,
-      "market_cap": 4506796065261.841,
-      "headlines": [
-        {
-          "title": "Nvidia's board launches investigation into CEO Jensen Huang's affair with an alleged Chinese spy",
-          "url": "https://finance.yahoo.com/markets/article/nvidias-jensen-huang-admits-to-affair-after-allegations-of-romance-with-chinese-spy-report-205122263.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-08T20:51:22Z"
-        },
-        {
-          "title": "Dow Jones Futures: Techs Slide As Nvidia Probes CEO Jensen Huang Spying Case",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-probes-ceo-jensen-huang-espionage/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-08T23:06:30Z"
-        },
-        {
-          "title": "Nvidia Board Launches Probe In CEO Jensen Huang Spying Case",
-          "url": "https://www.investors.com/news/technology/nvidia-board-launches-probe-in-ceo-jensen-huang-spying-case/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-08T23:04:58Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -69,6 +43,12 @@
       "market_cap": 1401967366706.2197,
       "headlines": [
         {
+          "title": "AMD or Nvidia: Which AI Chip Stock Would I Buy With $1,000 Today?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/amd-nvidia-ai-chip-stock-230500464.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T23:05:00Z"
+        },
+        {
           "title": "Anthropic\u2019s $895 Billion AI Gamble Could Become Wall Street\u2019s Next Debt Nightmare",
           "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-895-billion-ai-gamble-162041094.html",
           "publisher": "24/7 Wall St.",
@@ -79,12 +59,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/america-ai-spending-boom-just-161533505.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-08T16:15:33Z"
-        },
-        {
-          "title": "Broadcom Stock Has Lost Nearly 40% From Its Record. I'd Buy It Now.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-lost-nearly-40-154302022.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T15:43:02Z"
         }
       ]
     },
@@ -125,6 +99,12 @@
       "market_cap": 736464793203.4574,
       "headlines": [
         {
+          "title": "AMD or Nvidia: Which AI Chip Stock Would I Buy With $1,000 Today?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/amd-nvidia-ai-chip-stock-230500464.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T23:05:00Z"
+        },
+        {
           "title": "What Is Meta Platforms (META) Facing As Legal Risks Rise And AI Deals Expand?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-facing-legal-220633031.html",
           "publisher": "Simply Wall St.",
@@ -135,12 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-dropped-11-last-185539006.html",
           "publisher": "TIKR",
           "published": "2026-11-08T18:55:39Z"
-        },
-        {
-          "title": "Intel Stock Has Gone Nowhere in 8 Years. Why This Time Could Be Different",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-gone-nowhere-8-162958709.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-08T16:29:58Z"
         }
       ]
     },
@@ -463,8 +437,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -1.44,
+          "price": 263.78,
           "currency": "USD"
         },
         {
@@ -553,8 +527,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -1.44,
+        "price": 263.78,
         "currency": "USD"
       },
       {
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 74739.2,
-      "change_pct": -1.33
+      "price": 75185.68,
+      "change_pct": -0.74
     },
     {
       "label": "Gold",

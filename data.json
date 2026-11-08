@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-08T20:24:08+00:00",
-  "as_of_local": "2026-11-08 20:24:08 UTC",
+  "as_of_utc": "2026-11-08T20:39:13+00:00",
+  "as_of_local": "2026-11-08 20:39:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 4506796065261.841,
       "headlines": [
         {
+          "title": "2 ETFs I'd Buy in November and Hold for the Next 20 Years",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-etfs-id-buy-november-202000575.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T20:20:00Z"
+        },
+        {
           "title": "A Once-in-a-Decade Opportunity: 1 Super Growth Stock Down 58% to Buy and Hold for a Decade",
           "url": "https://finance.yahoo.com/markets/stocks/articles/once-decade-opportunity-1-super-200500894.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/march-2000-cisco-briefly-became-195408511.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-08T19:54:08Z"
-        },
-        {
-          "title": "This Is the Best-Performing Magnificent Seven Stock of 2026. Is It Still a Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/best-performing-magnificent-seven-stock-195000082.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T19:50:00Z"
         }
       ]
     },
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -5.49,
-          "price": 120.5,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "TWD"
         }
       ]
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -5.49,
-        "price": 120.5,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "TWD"
       }
     ]
@@ -585,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 75777.23,
-      "change_pct": 0.04
+      "price": 75724.74,
+      "change_pct": -0.03
     },
     {
       "label": "Gold",

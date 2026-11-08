@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-08T15:59:41+00:00",
-  "as_of_local": "2026-11-08 15:59:41 UTC",
+  "as_of_utc": "2026-11-08T16:14:45+00:00",
+  "as_of_local": "2026-11-08 16:14:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 4506796065261.841,
       "headlines": [
         {
+          "title": "This Dividend King Has Raised Its Payout Through Every Recession Since the 1950s. I'm Buying Before the End of the Year.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-king-raised-payout-every-160500129.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T16:05:00Z"
+        },
+        {
           "title": "Broadcom Stock Has Lost Nearly 40% From Its Record. I'd Buy It Now.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-lost-nearly-40-154302022.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-stock-fell-9-153433192.html",
           "publisher": "Motley Fool",
           "published": "2026-11-08T15:34:33Z"
-        },
-        {
-          "title": "SpaceX Stock Fell After the Midterm Elections. Is This a Buying Opportunity?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-fell-midterm-elections-152002156.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T15:20:02Z"
         }
       ]
     },
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -6.35,
+          "price": 188700.0,
           "currency": "KRW"
         },
         {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -6.35,
+        "price": 188700.0,
         "currency": "KRW"
       },
       {
@@ -585,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 75964.08,
-      "change_pct": 0.29
+      "price": 75931.29,
+      "change_pct": 0.24
     },
     {
       "label": "Gold",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-08T06:40:11+00:00",
-  "as_of_local": "2026-11-08 06:40:11 UTC",
+  "as_of_utc": "2026-11-08T06:55:22+00:00",
+  "as_of_local": "2026-11-08 06:55:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": 2.78,
       "market_cap": 4506796065261.841,
       "headlines": [
+        {
+          "title": "The AI Buildout Has A New Problem, And It\u2019s Not Nvidia \u2014 JPMorgan Sounds Alarm",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-buildout-problem-not-nvidia-064513789.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-08T06:45:13Z"
+        },
         {
           "title": "Is Broadcom a Buy After Falling 9% in One Day?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-buy-falling-9-one-062000310.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/ai-stocks-improve-portfolio-november-051245618.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-08T05:12:45Z"
-        },
-        {
-          "title": "Bank of America has unexpected advice for tech stock investors after midterms",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-unexpected-advice-tech-043300594.html",
-          "publisher": "TheStreet",
-          "published": "2026-11-08T04:33:00Z"
         }
       ]
     },
@@ -285,34 +287,6 @@
       ]
     },
     {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 105.02,
-      "previous_close": 98.03,
-      "change_pct": 7.13,
-      "market_cap": 14936541591.3778,
-      "headlines": [
-        {
-          "title": "ETFs Are Net Sellers of Lattice Semiconductor (LSCC) on Tuesday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-lattice-semiconductor-110213477.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-05T11:02:13Z"
-        },
-        {
-          "title": "What iShares A.I. Innovation ETF (BAI) Bought: Amazon Leads on Nov. 2",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-innovation-etf-bai-bought-110550024.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-04T11:05:50Z"
-        },
-        {
-          "title": "ETFs Are Net Sellers of Lattice Semiconductor (LSCC) on Nov. 2",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-lattice-semiconductor-110255079.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-04T11:02:55Z"
-        }
-      ]
-    },
-    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 112.76,
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -4.58,
+          "price": 343.5,
           "currency": "TWD"
         },
         {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -4.58,
+        "price": 343.5,
         "currency": "TWD"
       },
       {
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 75710.48,
-      "change_pct": -0.05
+      "price": 75719.89,
+      "change_pct": -0.04
     },
     {
       "label": "Gold",

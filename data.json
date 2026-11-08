@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-08T18:28:17+00:00",
-  "as_of_local": "2026-11-08 18:28:17 UTC",
+  "as_of_utc": "2026-11-08T18:43:15+00:00",
+  "as_of_local": "2026-11-08 18:43:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,22 +15,22 @@
       "market_cap": 4506796065261.841,
       "headlines": [
         {
+          "title": "Dow Jones Futures Loom With Market Damaged, Big Winners Broken; Apple, Amazon, Microsoft Strong",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-broken-apple-amazon-microsoft-strong-berkshire-earnings/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-08T18:31:32Z"
+        },
+        {
+          "title": "Where Gold and Copper Prices Go From Here -- and 3 Mining Stocks to Own Either Way",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/where-gold-copper-prices-3-182000229.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T18:20:00Z"
+        },
+        {
           "title": "Not Bloom Energy. Not Vistra. This AI Power Stock Just Posted a 96% Jump in Orders.",
           "url": "https://finance.yahoo.com/energy/articles/not-bloom-energy-not-vistra-180500572.html",
           "publisher": "Motley Fool",
           "published": "2026-11-08T18:05:00Z"
-        },
-        {
-          "title": "Microsoft Is Reportedly Getting Pickier About AI Data Center Deals. Is the Stock a Buy Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-reportedly-getting-pickier-ai-175802004.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T17:58:02Z"
-        },
-        {
-          "title": "The 1 Stock I'd Buy With $2,500 in November and Not Check Until 2051",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-stock-id-buy-2-175000524.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T17:50:00Z"
         }
       ]
     },
@@ -61,34 +63,6 @@
       ]
     },
     {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 293.69,
-      "previous_close": 291.53,
-      "change_pct": 0.74,
-      "market_cap": 1401967366706.2197,
-      "headlines": [
-        {
-          "title": "Anthropic\u2019s $895 Billion AI Gamble Could Become Wall Street\u2019s Next Debt Nightmare",
-          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-895-billion-ai-gamble-162041094.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-08T16:20:41Z"
-        },
-        {
-          "title": "America\u2019s AI Spending Boom Just Crossed a Staggering $1 Trillion Milestone",
-          "url": "https://finance.yahoo.com/technology/ai/articles/america-ai-spending-boom-just-161533505.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-08T16:15:33Z"
-        },
-        {
-          "title": "Broadcom Stock Has Lost Nearly 40% From Its Record. I'd Buy It Now.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-lost-nearly-40-154302022.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T15:43:02Z"
-        }
-      ]
-    },
-    {
       "symbol": "MU",
       "name": "Micron Technology",
       "price": 690.0,
@@ -100,7 +74,7 @@
           "title": "Dow Jones Futures Loom With Market Damaged, Big Winners Broken; Apple, Amazon, Microsoft Strong",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-broken-apple-amazon-microsoft-strong-berkshire-earnings/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-08T16:20:08Z"
+          "published": "2026-11-08T18:31:32Z"
         },
         {
           "title": "America\u2019s AI Spending Boom Just Crossed a Staggering $1 Trillion Milestone",
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 75838.55,
-      "change_pct": 0.12
+      "price": 75847.15,
+      "change_pct": 0.13
     },
     {
       "label": "Gold",

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-09T21:33:47+00:00",
-  "as_of_local": "2026-11-09 21:33:47 UTC",
+  "as_of_utc": "2026-11-09T21:38:50+00:00",
+  "as_of_local": "2026-11-09 21:38:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 4314344445785.5225,
       "headlines": [
         {
+          "title": "Jensen Huang's stance against cutting China off from US chips holds a lot less weight",
+          "url": "https://finance.yahoo.com/video/jensen-huangs-stance-against-cutting-china-off-from-us-chips-holds-a-lot-less-weight-213031755.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-09T21:30:31Z"
+        },
+        {
           "title": "Nvidia CEO Jensen Huang's affair with a reported Chinese spy damages this key investing factor",
           "url": "https://finance.yahoo.com/technology/article/nvidia-ceo-jensen-huangs-affair-with-a-reported-chinese-spy-damages-this-key-investing-factor-201922852.html",
           "publisher": "Yahoo Finance",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/video/a-closer-look-at-a-firm-tied-to-nvidias-chip-scandal-megaspeed-192158390.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-09T19:21:58Z"
-        },
-        {
-          "title": "Why Jensen Huang wants to keep China on Nvidia chips",
-          "url": "https://finance.yahoo.com/video/why-jensen-huang-wants-to-keep-china-on-nvidia-chips-190019440.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-09T19:00:19Z"
         }
       ]
     },
@@ -159,16 +159,16 @@
           "published": "2026-11-09T14:47:15Z"
         },
         {
+          "title": "Jensen Huang just handed Wall Street its first $4.5 trillion CEO scandal",
+          "url": "https://finance.yahoo.com/markets/article/jensen-huang-just-handed-wall-street-its-first-45-trillion-ceo-scandal-094803359.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-09T09:48:03Z"
+        },
+        {
           "title": "AMD Just Eased Wall Street\u2019s AI Spending Scare. Here\u2019s What It Means for the Stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-just-eased-wall-street-160339772.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-09T16:03:39Z"
-        },
-        {
-          "title": "BC-Most Active Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153021871.html",
-          "publisher": "Associated Press",
-          "published": "2026-11-09T15:30:21Z"
         }
       ]
     },
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 41.78,
-      "change_pct": 6.34,
+      "price": null,
+      "change_pct": 0.0,
       "holdings": [
         {
           "symbol": "MU",
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 41.78,
-    "change_pct": 6.34,
+    "price": null,
+    "change_pct": 0.0,
     "holdings": [
       {
         "symbol": "MU",
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 74887.27,
-      "change_pct": 0.41
+      "price": 74788.37,
+      "change_pct": 0.27
     },
     {
       "label": "Gold",
-      "price": 4148.0,
-      "change_pct": 1.79
+      "price": 4146.7,
+      "change_pct": 1.76
     },
     {
       "label": "Nasdaq100",

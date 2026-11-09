@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-09T21:44:14+00:00",
-  "as_of_local": "2026-11-09 21:44:14 UTC",
+  "as_of_utc": "2026-11-09T21:49:23+00:00",
+  "as_of_local": "2026-11-09 21:49:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -57,34 +59,6 @@
           "url": "https://finance.yahoo.com/video/why-jensen-huang-wants-to-keep-china-on-nvidia-chips-190019440.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-09T19:00:19Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 319.48,
-      "previous_close": 293.69,
-      "change_pct": 8.78,
-      "market_cap": 1525079321714.864,
-      "headlines": [
-        {
-          "title": "The Real Winner of Google\u2019s $135 Billion Chip Forecast: Broadcom",
-          "url": "https://finance.yahoo.com/technology/ai/articles/real-winner-google-135-billion-204531962.html",
-          "publisher": "TIKR",
-          "published": "2026-11-09T20:45:31Z"
-        },
-        {
-          "title": "Unless Nvidia Removes Jensen Huang, the Stock Is Worth Holding",
-          "url": "https://www.barrons.com/articles/nvidia-stock-worth-holding-huang-affair-fcf9b418?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-09T19:08:00Z"
-        },
-        {
-          "title": "Google Pushes New AI Chips. Why There Could Be an Opening.",
-          "url": "https://www.barrons.com/articles/google-ai-tpu-systems-nvidia-8d354665?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-09T18:28:00Z"
         }
       ]
     },
@@ -377,6 +351,12 @@
       "market_cap": 699347152.7759705,
       "headlines": [
         {
+          "title": "CEVA, Inc. Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-inc-q3-2026-earnings-214428841.html",
+          "publisher": "Moby",
+          "published": "2026-11-09T21:44:28Z"
+        },
+        {
           "title": "CEVA Inc (CEVA) Q3 2026 Earnings Call Highlights: Record AI Licensing and Highest-Ever Q4 ...",
           "url": "https://finance.yahoo.com/technology/ai/articles/ceva-inc-ceva-q3-2026-210723225.html",
           "publisher": "GuruFocus.com",
@@ -387,12 +367,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-ceva-q3-2026-earnings-192814949.html",
           "publisher": "Motley Fool",
           "published": "2026-11-09T19:28:14Z"
-        },
-        {
-          "title": "Ceva Q3 Earnings Call Highlights",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-q3-earnings-call-highlights-161510053.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-09T16:15:10Z"
         }
       ]
     }
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 74729.37,
-      "change_pct": 0.19
+      "price": 74832.44,
+      "change_pct": 0.33
     },
     {
       "label": "Gold",
-      "price": 4151.1,
-      "change_pct": 1.87
+      "price": 4146.8,
+      "change_pct": 1.76
     },
     {
       "label": "Nasdaq100",

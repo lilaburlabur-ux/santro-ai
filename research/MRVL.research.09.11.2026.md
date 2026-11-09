@@ -4,8 +4,8 @@ Signed file: `MRVL.research.09.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $155.50 (2026-11-09, ~15-min delayed) |
-| Market cap | $139.91B |
+| Current price | $155.55 (2026-11-09, ~15-min delayed) |
+| Market cap | $139.96B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `MRVL.research.09.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +66.89%; price -16.11% vs SMA200. |
-| Fresh setup quality | Poor / broken | -50.84% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +66.95%; price -16.08% vs SMA200. |
+| Fresh setup quality | Poor / broken | -50.82% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 27.93%, revenue growth 36.50%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 21.16, EV/Sales 13.24. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 21.17, EV/Sales 13.24. |
 | Risk level | High | Beta 2.33, ATR 11.5% of price, short float 3.28%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
@@ -44,11 +44,11 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $155.50; 52w high $316.28 (-50.84%); 52w low $73.66 (+111.11%) |
-| Trend | -16.11% vs SMA200, -33.28% vs SMA50, -26.56% vs SMA20 |
+| Price vs 52-week range | Close $155.55; 52w high $316.28 (-50.82%); 52w low $73.66 (+111.18%) |
+| Trend | -16.08% vs SMA200, -33.26% vs SMA50, -26.53% vs SMA20 |
 | Momentum | RSI(14) 32.5 (neutral) |
 | Volatility | ATR(14) 17.91 (~11.5% of price); beta 2.33 |
-| Setup perspective | -50.84% from 52w high — base needs to rebuild. |
+| Setup perspective | -50.82% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
@@ -68,7 +68,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $9.45B | Revenue growth 36.50% y/y |
 | Profitability | Gross 52.22%, operating 16.68%, net 27.93% | ROA 4.12%, ROE 16.52% |
 | Balance sheet | Cash $3.93B, debt $5.29B | Current ratio 3.17, debt/equity 28.52 |
-| Valuation | P/E 51.15, forward P/E 21.16, P/S 14.81, P/B 7.36 | EV/Sales 13.24, EV/EBITDA 43.91 |
+| Valuation | P/E 51.17, forward P/E 21.17, P/S 14.81, P/B 7.36 | EV/Sales 13.24, EV/EBITDA 43.91 |
 | Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $310.07 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | JPMORGAN CHASE & CO | 13,891,628 | 1.58% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 21.16, EV/Sales 13.24. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 21.17, EV/Sales 13.24. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.33, ATR 11.5% of price, short float 3.28%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -112,18 +112,18 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $155.50 | EV/Sales | 13.24 |
-| Market cap | $139.91B | EV/EBITDA | 43.91 |
+| Price | $155.55 | EV/Sales | 13.24 |
+| Market cap | $139.96B | EV/EBITDA | 43.91 |
 | Beta | 2.33 | Gross margin | 52.22% |
 | RSI(14) | 32.5 | Operating margin | 16.68% |
 | ATR(14) | 17.91 | Profit margin | 27.93% |
-| SMA20 dist | -26.56% | ROA | 4.12% |
-| SMA50 dist | -33.28% | ROE | 16.52% |
-| SMA200 dist | -16.11% | Revenue (ttm) | $9.45B |
+| SMA20 dist | -26.53% | ROA | 4.12% |
+| SMA50 dist | -33.26% | ROE | 16.52% |
+| SMA200 dist | -16.08% | Revenue (ttm) | $9.45B |
 | 52W high | $316.28 | Revenue growth y/y | 36.50% |
 | 52W low | $73.66 | Inst. ownership | 81.92% |
-| P/E (ttm) | 51.15 | Insider ownership | 0.50% |
-| Forward P/E | 21.16 | Short float | 3.28% |
+| P/E (ttm) | 51.17 | Insider ownership | 0.50% |
+| Forward P/E | 21.17 | Short float | 3.28% |
 | PEG (trailing) | 0.35 | Avg volume | 23,900,223 |
 | P/S | 14.81 | Employees | 7,480 |
 | P/B | 7.36 | Analyst rec (1=buy..5=sell) | 1.4 |

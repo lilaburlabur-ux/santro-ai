@@ -4,7 +4,7 @@ Signed file: `AVGO.research.09.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $322.38 (2026-11-09, ~15-min delayed) |
+| Current price | $322.20 (2026-11-09, ~15-min delayed) |
 | Market cap | $1.54T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,10 +15,10 @@ Signed file: `AVGO.research.09.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-11.95%) with negative half-year (-24.50%). |
-| Fresh setup quality | Poor / broken | -32.83% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-12.00%) with negative half-year (-24.54%). |
+| Fresh setup quality | Poor / broken | -32.87% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 42.94%, revenue growth 85.50%. |
-| Value attractiveness | Reasonable | Forward P/E 16.56, EV/Sales 16.13. |
+| Value attractiveness | Reasonable | Forward P/E 16.55, EV/Sales 16.13. |
 | Risk level | Elevated | Beta 1.51, ATR 4.9% of price, short float 1.14%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -44,22 +44,22 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $322.38; 52w high $479.94 (-32.83%); 52w low $291.53 (+10.58%) |
-| Trend | -11.95% vs SMA200, -7.03% vs SMA50, -2.46% vs SMA20 |
-| Momentum | RSI(14) 45.8 (neutral) |
+| Price vs 52-week range | Close $322.20; 52w high $479.94 (-32.87%); 52w low $291.53 (+10.52%) |
+| Trend | -12.00% vs SMA200, -7.09% vs SMA50, -2.51% vs SMA20 |
+| Momentum | RSI(14) 45.7 (neutral) |
 | Volatility | ATR(14) 15.76 (~4.9% of price); beta 1.51 |
-| Setup perspective | -32.83% from 52w high — base needs to rebuild. |
+| Setup perspective | -32.87% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.0% |
-| Month | -10.8% |
+| Week | -0.0% |
+| Month | -10.9% |
 | Quarter | -22.4% |
 | Half Y | -24.5% |
 | 1Y | -8.7% |
-| YTD | -6.7% |
+| YTD | -6.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $89.10B | Revenue growth 85.50% y/y |
 | Profitability | Gross 75.52%, operating 54.31%, net 42.94% | ROA 15.37%, ROE 44.25% |
 | Balance sheet | Cash $23.98B, debt $59.42B | Current ratio 2.50, debt/equity 59.60 |
-| Valuation | P/E 41.17, forward P/E 16.56, P/S 17.27, P/B 15.44 | EV/Sales 16.13, EV/EBITDA 27.50 |
+| Valuation | P/E 41.14, forward P/E 16.55, P/S 17.26, P/B 15.43 | EV/Sales 16.13, EV/EBITDA 27.50 |
 | Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $533.42 (47 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,21 +111,21 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $322.38 | EV/Sales | 16.13 |
+| Price | $322.20 | EV/Sales | 16.13 |
 | Market cap | $1.54T | EV/EBITDA | 27.50 |
 | Beta | 1.51 | Gross margin | 75.52% |
-| RSI(14) | 45.8 | Operating margin | 54.31% |
+| RSI(14) | 45.7 | Operating margin | 54.31% |
 | ATR(14) | 15.76 | Profit margin | 42.94% |
-| SMA20 dist | -2.46% | ROA | 15.37% |
-| SMA50 dist | -7.03% | ROE | 44.25% |
-| SMA200 dist | -11.95% | Revenue (ttm) | $89.10B |
+| SMA20 dist | -2.51% | ROA | 15.37% |
+| SMA50 dist | -7.09% | ROE | 44.25% |
+| SMA200 dist | -12.00% | Revenue (ttm) | $89.10B |
 | 52W high | $479.94 | Revenue growth y/y | 85.50% |
 | 52W low | $291.53 | Inst. ownership | 79.90% |
-| P/E (ttm) | 41.17 | Insider ownership | 1.92% |
-| Forward P/E | 16.56 | Short float | 1.14% |
+| P/E (ttm) | 41.14 | Insider ownership | 1.92% |
+| Forward P/E | 16.55 | Short float | 1.14% |
 | PEG (trailing) | 0.29 | Avg volume | 23,893,760 |
-| P/S | 17.27 | Employees | 33,000 |
-| P/B | 15.44 | Analyst rec (1=buy..5=sell) | 1.2 |
+| P/S | 17.26 | Employees | 33,000 |
+| P/B | 15.43 | Analyst rec (1=buy..5=sell) | 1.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

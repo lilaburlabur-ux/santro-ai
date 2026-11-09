@@ -4,7 +4,7 @@ Signed file: `SYNA.research.09.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $117.59 (2026-11-09, ~15-min delayed) |
+| Current price | $117.61 (2026-11-09, ~15-min delayed) |
 | Market cap | $4.67B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,8 +15,8 @@ Signed file: `SYNA.research.09.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +71.39%; price +13.43% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -20.32% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +71.42%; price +13.45% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -20.30% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-40.70%). |
 | Value attractiveness | Reasonable | Forward P/E 17.88, EV/Sales 4.29. |
 | Risk level | High | Beta 2.02, ATR 1.4% of price, short float 9.27%. |
@@ -44,18 +44,18 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $117.59; 52w high $147.57 (-20.32%); 52w low $58.52 (+100.94%) |
-| Trend | +13.43% vs SMA200, +8.45% vs SMA50, +0.05% vs SMA20 |
-| Momentum | RSI(14) 60.2 (neutral) |
+| Price vs 52-week range | Close $117.61; 52w high $147.57 (-20.30%); 52w low $58.52 (+100.97%) |
+| Trend | +13.45% vs SMA200, +8.47% vs SMA50, +0.07% vs SMA20 |
+| Momentum | RSI(14) 60.3 (neutral) |
 | Volatility | ATR(14) 1.69 (~1.4% of price); beta 2.02 |
-| Setup perspective | -20.32% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -20.30% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
 | Week | +0.2% |
-| Month | -1.9% |
+| Month | -1.8% |
 | Quarter | +10.0% |
 | Half Y | -7.1% |
 | 1Y | +71.4% |
@@ -112,14 +112,14 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $117.59 | EV/Sales | 4.29 |
+| Price | $117.61 | EV/Sales | 4.29 |
 | Market cap | $4.67B | EV/EBITDA | 51.46 |
 | Beta | 2.02 | Gross margin | 45.98% |
-| RSI(14) | 60.2 | Operating margin | 0.54% |
+| RSI(14) | 60.3 | Operating margin | 0.54% |
 | ATR(14) | 1.69 | Profit margin | -40.70% |
-| SMA20 dist | +0.05% | ROA | -0.94% |
-| SMA50 dist | +8.45% | ROE | -42.09% |
-| SMA200 dist | +13.43% | Revenue (ttm) | $1.20B |
+| SMA20 dist | +0.07% | ROA | -0.94% |
+| SMA50 dist | +8.47% | ROE | -42.09% |
+| SMA200 dist | +13.45% | Revenue (ttm) | $1.20B |
 | 52W high | $147.57 | Revenue growth y/y | 0.50% |
 | 52W low | $58.52 | Inst. ownership | 103.39% |
 | P/E (ttm) | — | Insider ownership | 1.08% |

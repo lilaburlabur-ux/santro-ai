@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-09T11:54:52+00:00",
-  "as_of_local": "2026-11-09 11:54:52 UTC",
+  "as_of_utc": "2026-11-09T11:59:56+00:00",
+  "as_of_local": "2026-11-09 11:59:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -69,6 +71,12 @@
       "market_cap": 1401967366706.2197,
       "headlines": [
         {
+          "title": "AI Chips Today - AI Tech Leaders Gather to Define Future Innovation",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-today-ai-tech-113730173.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-09T11:37:30Z"
+        },
+        {
           "title": "iShares Expanded Tech Sector ETF (IGM) Sells Apple and Microsoft on Nov. 5",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-expanded-tech-sector-etf-110648130.html",
           "publisher": "GuruFocus.com",
@@ -79,12 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/u-core-equity-2-dfac-110552260.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-09T11:05:52Z"
-        },
-        {
-          "title": "SPDR Portfolio S&P 500 Growth (SPYG) Sells $74.8 Million of NVIDIA on Nov. 5",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spdr-portfolio-p-500-growth-110515324.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-09T11:05:15Z"
         }
       ]
     },
@@ -97,6 +99,12 @@
       "market_cap": 780682016280.0,
       "headlines": [
         {
+          "title": "AI Chips Today - AI Tech Leaders Gather to Define Future Innovation",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-today-ai-tech-113730173.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-09T11:37:30Z"
+        },
+        {
           "title": "Invesco NASDAQ 100 ETF (QQQM) Buys $38.3 Million More Apple on Nov. 5",
           "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-nasdaq-100-etf-qqqm-110526325.html",
           "publisher": "GuruFocus.com",
@@ -107,40 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/proshares-trust-tqqq-buys-83-110500104.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-09T11:05:00Z"
-        },
-        {
-          "title": "Invesco QQQ (QQQ) Sells Apple and Nvidia on Nov. 5",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-qqq-sells-apple-110438229.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-09T11:04:38Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 449.04,
-      "previous_close": 404.4,
-      "change_pct": 11.04,
-      "market_cap": 736464793203.4574,
-      "headlines": [
-        {
-          "title": "AMD's $100 billion AI opportunity raises a Wall Street question",
-          "url": "https://finance.yahoo.com/technology/ai/articles/amds-100-billion-ai-opportunity-113024576.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-09T11:30:24Z"
-        },
-        {
-          "title": "AMD\u2019s Server And Data Center Success Is \u2018Undeniable,\u2019 Says Oppenheimer \u2014 Sees Favorable Pricing Ahead",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-server-data-center-success-112947130.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-09T11:29:47Z"
-        },
-        {
-          "title": "NVDA Stock Slides Premarket: Beijing Reportedly Rejects Jensen Huang Spy Allegations As \u2018Smears Against China'",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-slides-premarket-beijing-091437044.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-09T09:14:37Z"
         }
       ]
     },
@@ -291,7 +265,26 @@
       "previous_close": 98.03,
       "change_pct": 7.13,
       "market_cap": 14936541591.3778,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "ETFs Are Net Sellers of Lattice Semiconductor (LSCC) on Tuesday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-lattice-semiconductor-110213477.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-05T11:02:13Z"
+        },
+        {
+          "title": "What iShares A.I. Innovation ETF (BAI) Bought: Amazon Leads on Nov. 2",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-innovation-etf-bai-bought-110550024.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-04T11:05:50Z"
+        },
+        {
+          "title": "ETFs Are Net Sellers of Lattice Semiconductor (LSCC) on Nov. 2",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-lattice-semiconductor-110255079.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-04T11:02:55Z"
+        }
+      ]
     },
     {
       "symbol": "AVAV",
@@ -566,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 74316.67,
-      "change_pct": -0.36
+      "price": 74281.63,
+      "change_pct": -0.41
     },
     {
       "label": "Gold",
-      "price": 4121.4,
-      "change_pct": 1.14
+      "price": 4120.4,
+      "change_pct": 1.12
     },
     {
       "label": "Nasdaq100",

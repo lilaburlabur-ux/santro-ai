@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-09T21:59:18+00:00",
-  "as_of_local": "2026-11-09 21:59:18 UTC",
+  "as_of_utc": "2026-11-09T22:04:28+00:00",
+  "as_of_local": "2026-11-09 22:04:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": -4.27,
       "market_cap": 4314344445785.5225,
       "headlines": [
+        {
+          "title": "Nvidia's Jensen Huang scandal raises questions for AI leaders",
+          "url": "https://finance.yahoo.com/video/nvidias-jensen-huang-scandal-raises-questions-for-ai-leaders-215445805.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-09T21:54:45Z"
+        },
         {
           "title": "Jensen Huang's stance against cutting China off from US chips holds a lot less weight",
           "url": "https://finance.yahoo.com/video/jensen-huangs-stance-against-cutting-china-off-from-us-chips-holds-a-lot-less-weight-213031755.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/technology/article/nvidia-ceo-jensen-huangs-affair-with-a-reported-chinese-spy-damages-this-key-investing-factor-201922852.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-09T20:19:22Z"
-        },
-        {
-          "title": "A closer look at a firm tied to Nvidia\u2019s chip scandal: Megaspeed",
-          "url": "https://finance.yahoo.com/video/a-closer-look-at-a-firm-tied-to-nvidias-chip-scandal-megaspeed-192158390.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-09T19:21:58Z"
         }
       ]
     },
@@ -109,10 +111,10 @@
           "published": "2026-11-09T15:22:08Z"
         },
         {
-          "title": "Stock Market Today: Dow Jumps, These Stocks Test Entries; Warren Buffett Play Clears Buy Zone",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-stock-nvda-jensen-huang-probe/?src=A00220&yptr=yahoo",
+          "title": "AMD Stock Rises On Google Cloud Deal, Wall Street Upgrade",
+          "url": "https://www.investors.com/news/technology/amd-stock-rises-on-google-cloud-deal-wall-street-upgrade/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-09T21:41:06Z"
+          "published": "2026-11-09T21:39:22Z"
         }
       ]
     },
@@ -341,34 +343,6 @@
       ]
     },
     {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 117.25,
-      "previous_close": 116.7,
-      "change_pct": 0.47,
-      "market_cap": 4658168501.0,
-      "headlines": [
-        {
-          "title": "SYNA Q1 Earnings Beat Estimates, Revenues Miss on Weak Demand",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/syna-q1-earnings-beat-estimates-152400592.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T15:24:00Z"
-        },
-        {
-          "title": "Synaptics (SYNA) Tops Q1 Earnings Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-tops-q1-earnings-000013395.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T00:00:13Z"
-        },
-        {
-          "title": "Synaptics: Fiscal Q1 Earnings Snapshot",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-fiscal-q1-earnings-snapshot-230715396.html",
-          "publisher": "Associated Press",
-          "published": "2026-11-05T23:07:15Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 24.84,
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 74917.22,
-      "change_pct": 0.45
+      "price": 74865.79,
+      "change_pct": 0.38
     },
     {
       "label": "Gold",
-      "price": 4148.3,
-      "change_pct": 1.8
+      "price": 4149.7,
+      "change_pct": 1.84
     },
     {
       "label": "Nasdaq100",

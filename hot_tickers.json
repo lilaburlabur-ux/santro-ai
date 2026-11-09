@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-09T12:10:45+00:00",
+  "as_of": "2026-11-09T12:25:47+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,34 +9,34 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "NRG",
-   "company": "NRG Energy Inc",
-   "move_pct": 6.37,
-   "price": 93.91,
-   "volume": 8716100,
+   "ticker": "CEVA",
+   "company": "Ceva Inc",
+   "move_pct": -16.61,
+   "price": 22.6,
+   "volume": 1046600,
    "volume_vs_avg": "~2x",
-   "heat_score": 49,
-   "direction": "up",
-   "why": "NRG Energy Reports Third Quarter 2026 Results, Reaffirms 2026 Financial Guidance, and Initiates 2027 Guidance",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://finance.yahoo.com/energy/articles/nrg-energy-reports-third-quarter-115100014.html",
-   "published": "2026-11-09T11:51:00+00:00",
-   "sector": "Powering AI"
+   "heat_score": 87,
+   "direction": "down",
+   "why": "Ceva, Inc. Announces Third Quarter 2026 Financial Results",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/technology/articles/ceva-inc-announces-third-quarter-120000837.html",
+   "published": "2026-11-09T12:00:00+00:00",
+   "sector": "AI Chips & Compute"
   },
   {
    "rank": 2,
    "ticker": "NVDA",
    "company": "NVIDIA Corp",
-   "move_pct": -6.26,
-   "price": 174.96,
+   "move_pct": -6.03,
+   "price": 175.38,
    "volume": 179722400,
    "volume_vs_avg": "~2x",
-   "heat_score": 45,
+   "heat_score": 44,
    "direction": "down",
-   "why": "Tech stocks claw back some losses despite Nvidia concerns",
+   "why": "Stocks find firmer ground but Nvidia woes pose fresh test, oil falls",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/articles/tech-firms-claw-back-losses-025428116.html",
-   "published": "2026-11-09T11:47:57+00:00",
+   "source_url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-steady-ai-mideast-014728397.html",
+   "published": "2026-11-09T12:02:42+00:00",
    "sector": "AI Chips & Compute"
   }
  ]

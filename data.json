@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-09T14:02:07+00:00",
-  "as_of_local": "2026-11-09 14:02:07 UTC",
+  "as_of_utc": "2026-11-09T14:07:08+00:00",
+  "as_of_local": "2026-11-09 14:07:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "AMD"
+    "SYNA"
   ],
   "stocks": [
     {
@@ -115,6 +115,34 @@
           "url": "https://finance.yahoo.com/technology/articles/stx-posts-record-q1-fy27-121300140.html",
           "publisher": "Zacks",
           "published": "2026-11-09T12:13:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 449.04,
+      "previous_close": 404.4,
+      "change_pct": 11.04,
+      "market_cap": 736464793203.4574,
+      "headlines": [
+        {
+          "title": "Google's chip business is on a faster track than Nvidia's own AI boom",
+          "url": "https://finance.yahoo.com/markets/article/googles-chip-business-is-on-a-faster-track-than-nvidias-own-ai-boom-135447046.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-09T13:54:47Z"
+        },
+        {
+          "title": "NVIDIA Falls 5% as Board Probes Jensen Huang\u2019s Ties to Alleged Chinese Spy; AMD Rises 4%, Intel Holds Steady",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-falls-5-board-probes-134356169.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-09T13:43:56Z"
+        },
+        {
+          "title": "Core Scientific: 3 Key Takeaways for Long-Term Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/core-scientific-3-key-takeaways-134140731.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09T13:41:40Z"
         }
       ]
     },
@@ -311,34 +339,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-led-ark-loads-060020729.html",
           "publisher": "Stocktwits",
           "published": "2026-11-07T06:00:20Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 116.7,
-      "previous_close": 116.4,
-      "change_pct": 0.26,
-      "market_cap": 4636317695.958191,
-      "headlines": [
-        {
-          "title": "SYNA Q1 Earnings Beat Estimates, Revenues Miss on Weak Demand",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/syna-q1-earnings-beat-estimates-152400592.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T15:24:00Z"
-        },
-        {
-          "title": "Synaptics (SYNA) Tops Q1 Earnings Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-tops-q1-earnings-000013395.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T00:00:13Z"
-        },
-        {
-          "title": "Synaptics: Fiscal Q1 Earnings Snapshot",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-fiscal-q1-earnings-snapshot-230715396.html",
-          "publisher": "Associated Press",
-          "published": "2026-11-05T23:07:15Z"
         }
       ]
     },
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 74526.0,
-      "change_pct": -0.08
+      "price": 74450.97,
+      "change_pct": -0.18
     },
     {
       "label": "Gold",
-      "price": 4135.5,
-      "change_pct": 1.49
+      "price": 4136.9,
+      "change_pct": 1.52
     },
     {
       "label": "Nasdaq100",

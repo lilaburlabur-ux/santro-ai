@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T21:54:20+00:00",
-  "as_of_local": "2026-11-09 21:54:20 UTC",
+  "as_of_utc": "2026-11-09T21:59:18+00:00",
+  "as_of_local": "2026-11-09 21:59:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -143,6 +141,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-soars-5-tsmc-sticks-193554868.html",
           "publisher": "TIKR",
           "published": "2026-11-09T19:35:54Z"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 59.37,
+      "previous_close": 56.28,
+      "change_pct": 5.49,
+      "market_cap": 315551544322.9675,
+      "headlines": [
+        {
+          "title": "Intel took 25 years to get back to its dot-com peak \u2014 and lost it in 6 months: Chart of the Day",
+          "url": "https://finance.yahoo.com/markets/article/intel-took-25-years-to-get-back-to-its-dot-com-peak--and-lost-it-in-6-months-chart-of-the-day-144715722.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-09T14:47:15Z"
+        },
+        {
+          "title": "Jensen Huang just handed Wall Street its first $4.5 trillion CEO scandal",
+          "url": "https://finance.yahoo.com/markets/article/jensen-huang-just-handed-wall-street-its-first-45-trillion-ceo-scandal-094803359.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-09T09:48:03Z"
+        },
+        {
+          "title": "AMD Just Eased Wall Street\u2019s AI Spending Scare. Here\u2019s What It Means for the Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-just-eased-wall-street-160339772.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-09T16:03:39Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 74906.5,
-      "change_pct": 0.43
+      "price": 74917.22,
+      "change_pct": 0.45
     },
     {
       "label": "Gold",
-      "price": 4144.3,
-      "change_pct": 1.7
+      "price": 4148.3,
+      "change_pct": 1.8
     },
     {
       "label": "Nasdaq100",

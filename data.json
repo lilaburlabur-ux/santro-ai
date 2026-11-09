@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-09T07:12:43+00:00",
-  "as_of_local": "2026-11-09 07:12:43 UTC",
+  "as_of_utc": "2026-11-09T07:27:53+00:00",
+  "as_of_local": "2026-11-09 07:27:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-11-08T20:51:22Z"
         },
         {
+          "title": "Why Last Week's Market Sell-Off Was a Good Thing",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-last-weeks-market-sell-070500522.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09T07:05:00Z"
+        },
+        {
           "title": "Tech stocks recover after midterms rout as Nvidia takes centre stage",
           "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-recover-midterms-rout-063428354.html",
           "publisher": "Euronews",
           "published": "2026-11-09T06:34:28Z"
-        },
-        {
-          "title": "Nvidia CEO row: Bernstein sees \u2018heavy distraction\u2019 at best, \u2018ammunition\u2019 at worst",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-ceo-row-bernstein-sees-062039338.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-09T06:20:39Z"
         }
       ]
     },
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-avgo-intc-mu-chip-033424805.html",
           "publisher": "Stocktwits",
           "published": "2026-11-09T03:34:24Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 56.28,
-      "previous_close": 52.25,
-      "change_pct": 7.71,
-      "market_cap": 299128193511.9629,
-      "headlines": [
-        {
-          "title": "AMD vs. Intel: Which Is the Better AI Chip Stock to Own for the Next 3 Years Following the Semiconductor Crash?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/amd-vs-intel-better-ai-052000770.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-09T05:20:00Z"
-        },
-        {
-          "title": "AMD, AVGO, INTC, MU: Chip Stocks Inch Higher As Investors Look Past Midterms-Led Selloff, Nvidia Controversy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-avgo-intc-mu-chip-033424805.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-09T03:34:24Z"
-        },
-        {
-          "title": "The Government\u2019s $37 Billion Intel Round Trip Is a Warning for Anyone Who Still Holds the Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/government-37-billion-intel-round-224600798.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-08T22:46:00Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 73891.02,
-      "change_pct": -0.93
+      "price": 73857.82,
+      "change_pct": -0.97
     },
     {
       "label": "Gold",
-      "price": 4115.5,
-      "change_pct": 1.0
+      "price": 4110.6,
+      "change_pct": 0.88
     },
     {
       "label": "Nasdaq100",

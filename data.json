@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T23:31:07+00:00",
-  "as_of_local": "2026-11-09 23:31:07 UTC",
+  "as_of_utc": "2026-11-09T23:36:12+00:00",
+  "as_of_local": "2026-11-09 23:36:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -91,6 +89,34 @@
       ]
     },
     {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 508.58,
+      "previous_close": 449.04,
+      "change_pct": 13.26,
+      "market_cap": 834115552090.9241,
+      "headlines": [
+        {
+          "title": "Nvidia vs. AMD: Why Lisa Su's company is a great alternative for investors",
+          "url": "https://finance.yahoo.com/video/nvidia-vs-amd-why-lisa-170000159.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-09T17:00:00Z"
+        },
+        {
+          "title": "Tech stocks rally as Nvidia stock and oil prices fall: AlphaCheck",
+          "url": "https://finance.yahoo.com/markets/article/tech-stocks-rally-as-nvidia-stock-and-oil-prices-fall-alphacheck-152208023.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-09T15:22:08Z"
+        },
+        {
+          "title": "Stock Market Today, Nov. 9: AMD Jumps on Oppenheimer Upgrade and Google Cloud Chip Selection",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-9-223002825.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09T22:30:02Z"
+        }
+      ]
+    },
+    {
       "symbol": "MU",
       "name": "Micron Technology",
       "price": 733.15,
@@ -155,6 +181,12 @@
       "market_cap": 199341003265.38086,
       "headlines": [
         {
+          "title": "Former Goldman Sachs CEO Slams 'Current Hysteria' to Block AI Data Centers, Calls it a 'Gift to China'\u2014Patrick Moorhead Warns US Jobs, Tax Revenue Losses",
+          "url": "https://finance.yahoo.com/technology/ai/articles/former-goldman-sachs-ceo-slams-223007401.html",
+          "publisher": "Benzinga",
+          "published": "2026-11-09T22:30:07Z"
+        },
+        {
           "title": "Intel took 25 years to get back to its dot-com peak \u2014 and lost it in 6 months: Chart of the Day",
           "url": "https://finance.yahoo.com/markets/article/intel-took-25-years-to-get-back-to-its-dot-com-peak--and-lost-it-in-6-months-chart-of-the-day-144715722.html",
           "publisher": "Yahoo Finance",
@@ -165,12 +197,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/investors-chasing-ai-chips-company-143305326.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-09T14:33:05Z"
-        },
-        {
-          "title": "Is Arm Stock a Buy on the Dip as Agentic AI Opportunity Emerges?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-buy-dip-agentic-120500951.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-09T12:05:00Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 75175.43,
-      "change_pct": 0.79
+      "price": 75117.62,
+      "change_pct": 0.71
     },
     {
       "label": "Gold",
-      "price": 4153.5,
-      "change_pct": 1.93
+      "price": 4151.6,
+      "change_pct": 1.88
     },
     {
       "label": "Nasdaq100",

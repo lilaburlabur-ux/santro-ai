@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-09T12:25:47+00:00",
+  "as_of": "2026-11-09T12:41:03+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,26 +17,26 @@
    "volume_vs_avg": "~2x",
    "heat_score": 87,
    "direction": "down",
-   "why": "Ceva, Inc. Announces Third Quarter 2026 Financial Results",
+   "why": "Ceva: Q3 Earnings Snapshot",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/technology/articles/ceva-inc-announces-third-quarter-120000837.html",
-   "published": "2026-11-09T12:00:00+00:00",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ceva-q3-earnings-snapshot-121906130.html",
+   "published": "2026-11-09T12:19:06+00:00",
    "sector": "AI Chips & Compute"
   },
   {
    "rank": 2,
    "ticker": "NVDA",
    "company": "NVIDIA Corp",
-   "move_pct": -6.03,
-   "price": 175.38,
+   "move_pct": -5.35,
+   "price": 176.65,
    "volume": 179722400,
    "volume_vs_avg": "~2x",
-   "heat_score": 44,
+   "heat_score": 42,
    "direction": "down",
-   "why": "Stocks find firmer ground but Nvidia woes pose fresh test, oil falls",
+   "why": "Stock market today: Dow, S&P 500, Nasdaq futures rise with Nvidia stock, AI trade in focus",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-steady-ai-mideast-014728397.html",
-   "published": "2026-11-09T12:02:42+00:00",
+   "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html",
+   "published": "2026-11-09T12:29:05+00:00",
    "sector": "AI Chips & Compute"
   }
  ]

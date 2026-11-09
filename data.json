@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-09T13:01:09+00:00",
-  "as_of_local": "2026-11-09 13:01:09 UTC",
+  "as_of_utc": "2026-11-09T13:06:12+00:00",
+  "as_of_local": "2026-11-09 13:06:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 186.64,
+      "previous_close": 181.6,
+      "change_pct": 2.78,
+      "market_cap": 4506796065261.841,
+      "headlines": [
+        {
+          "title": "Nvidia stock sinks 5% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-stock-sinks-as-chipmaker-investigates-ceo-jensen-huangs-relationship-with-alleged-chinese-spy-130346548.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-09T13:03:46Z"
+        },
+        {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise with Nvidia stock, AI trade in focus",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-09T09:05:35Z"
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang's debacle highlights this one glaring issue",
+          "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-ceo-jensen-huangs-debacle-highlights-this-one-glaring-issue-110147953.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-09T11:01:47Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -43,6 +69,12 @@
       "market_cap": 1401967366706.2197,
       "headlines": [
         {
+          "title": "Nvidia stock sinks 5% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-stock-sinks-as-chipmaker-investigates-ceo-jensen-huangs-relationship-with-alleged-chinese-spy-130346548.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-09T13:03:46Z"
+        },
+        {
           "title": "Jim Cramer is \u2018furious\u2019 as Intel crashes nearly 30% \u2014 but Uncle Sam is the top shareholder. What it means for taxpayers",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-furious-intel-crashes-124500450.html",
           "publisher": "Moneywise",
@@ -53,12 +85,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-today-ai-tech-113730173.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-09T11:37:30Z"
-        },
-        {
-          "title": "iShares Expanded Tech Sector ETF (IGM) Sells Apple and Microsoft on Nov. 5",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-expanded-tech-sector-etf-110648130.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-09T11:06:48Z"
         }
       ]
     },
@@ -99,6 +125,12 @@
       "market_cap": 736464793203.4574,
       "headlines": [
         {
+          "title": "Nvidia stock sinks 5% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-stock-sinks-as-chipmaker-investigates-ceo-jensen-huangs-relationship-with-alleged-chinese-spy-130346548.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-09T13:03:46Z"
+        },
+        {
           "title": "Buy, Sell, or Hold? Monday\u2019s Top Upgrades and Downgrades: Advanced Micro Devices, Airbnb, DraftKings, L3 Harris Technologies, Molson-Coors, Nvidia,  Take-Two Interactive, Uber Technologies, and More",
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-monday-top-124017279.html",
           "publisher": "24/7 Wall St.",
@@ -109,12 +141,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/not-amd-not-intel-artificial-122000806.html",
           "publisher": "Motley Fool",
           "published": "2026-11-09T12:20:00Z"
-        },
-        {
-          "title": "AMD Shed Nearly 30% in 30 Days: This Respected Wall Street Team Expects 75% Gains For Those Who Act Now",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-shed-nearly-30-30-121522446.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-09T12:15:22Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 74849.0,
-      "change_pct": 0.35
+      "price": 74822.28,
+      "change_pct": 0.32
     },
     {
       "label": "Gold",
-      "price": 4132.3,
-      "change_pct": 1.41
+      "price": 4125.3,
+      "change_pct": 1.24
     },
     {
       "label": "Nasdaq100",

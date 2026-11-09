@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-09T13:57:02+00:00",
-  "as_of_local": "2026-11-09 13:57:02 UTC",
+  "as_of_utc": "2026-11-09T14:02:07+00:00",
+  "as_of_local": "2026-11-09 14:02:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -113,34 +115,6 @@
           "url": "https://finance.yahoo.com/technology/articles/stx-posts-record-q1-fy27-121300140.html",
           "publisher": "Zacks",
           "published": "2026-11-09T12:13:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 449.04,
-      "previous_close": 404.4,
-      "change_pct": 11.04,
-      "market_cap": 736464793203.4574,
-      "headlines": [
-        {
-          "title": "Google's chip business is on a faster track than Nvidia's own AI boom",
-          "url": "https://finance.yahoo.com/markets/article/googles-chip-business-is-on-a-faster-track-than-nvidias-own-ai-boom-135447046.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-09T13:54:47Z"
-        },
-        {
-          "title": "NVIDIA Falls 5% as Board Probes Jensen Huang\u2019s Ties to Alleged Chinese Spy; AMD Rises 4%, Intel Holds Steady",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-falls-5-board-probes-134356169.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-09T13:43:56Z"
-        },
-        {
-          "title": "Core Scientific: 3 Key Takeaways for Long-Term Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/core-scientific-3-key-takeaways-134140731.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-09T13:41:40Z"
         }
       ]
     },
@@ -321,6 +295,12 @@
       "market_cap": 5730542466.084732,
       "headlines": [
         {
+          "title": "Kratos Defense Stock Declines 17.1% in a Month: Should You Buy the Dip?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/kratos-defense-stock-declines-17-125300739.html",
+          "publisher": "Zacks",
+          "published": "2026-11-09T12:53:00Z"
+        },
+        {
           "title": "3 US Defense Stocks Worth Watching As Nvidia Questions Hit National Security",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-us-defense-stocks-worth-011236831.html",
           "publisher": "Simply Wall St.",
@@ -331,12 +311,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-led-ark-loads-060020729.html",
           "publisher": "Stocktwits",
           "published": "2026-11-07T06:00:20Z"
-        },
-        {
-          "title": "Ondas Surges 15% as Drone Stocks Rebound Ahead of Its Earnings Report; Red Cat Jumps 14%, AeroVironment Surges 9%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ondas-surges-15-drone-stocks-180530952.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-06T18:05:30Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 74656.41,
-      "change_pct": 0.1
+      "price": 74526.0,
+      "change_pct": -0.08
     },
     {
       "label": "Gold",
-      "price": 4128.7,
-      "change_pct": 1.32
+      "price": 4135.5,
+      "change_pct": 1.49
     },
     {
       "label": "Nasdaq100",

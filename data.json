@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-09T11:44:46+00:00",
-  "as_of_local": "2026-11-09 11:44:46 UTC",
+  "as_of_utc": "2026-11-09T11:49:45+00:00",
+  "as_of_local": "2026-11-09 11:49:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "ARM"
+    "NXPI"
   ],
   "stocks": [
     {
@@ -175,6 +175,34 @@
       ]
     },
     {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 174.62,
+      "previous_close": 166.72,
+      "change_pct": 4.74,
+      "market_cap": 186843394775.39062,
+      "headlines": [
+        {
+          "title": "Nasdaq Rises After Brutal 19-Month Rout",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-rises-brutal-19-month-113219655.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-09T11:32:19Z"
+        },
+        {
+          "title": "Arm and Qualcomm Lead Mobile Chip Design. 1 Stock Is the Better Buy.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-qualcomm-lead-mobile-chip-095200481.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09T09:52:00Z"
+        },
+        {
+          "title": "Intel, Arm, and Marvell Have Each Been Cut in Half Since June. Only 1 Is a Stock I'd Buy Now.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-arm-marvell-cut-half-085802797.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T08:58:02Z"
+        }
+      ]
+    },
+    {
       "symbol": "QCOM",
       "name": "Qualcomm",
       "price": 165.41,
@@ -227,34 +255,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-pltr-qcom-spcx-mrvl-020455465.html",
           "publisher": "Stocktwits",
           "published": "2026-11-09T02:04:55Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 248.29,
-      "previous_close": 244.43,
-      "change_pct": 1.58,
-      "market_cap": 62582234698.269714,
-      "headlines": [
-        {
-          "title": "NXP Semiconductors (NXPI) Sees $10.4 Million in Net ETF Buying on Nov. 5",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-sees-10-110226550.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-09T11:02:26Z"
-        },
-        {
-          "title": "Astera Labs Just Crushed Earnings\u2014So Why Are Analysts Cutting Price Targets?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-just-crushed-earnings-151500838.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-07T15:15:00Z"
-        },
-        {
-          "title": "Microchip Sinks 10% on Soft December Guidance as CEO Says \u201cData Center Is in the Bubble\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microchip-sinks-10-soft-december-193440802.html",
-          "publisher": "TIKR",
-          "published": "2026-11-06T19:34:40Z"
         }
       ]
     },
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 74514.78,
-      "change_pct": -0.09
+      "price": 74412.74,
+      "change_pct": -0.23
     },
     {
       "label": "Gold",
-      "price": 4115.9,
-      "change_pct": 1.01
+      "price": 4119.5,
+      "change_pct": 1.09
     },
     {
       "label": "Nasdaq100",

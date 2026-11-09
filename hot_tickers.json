@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-09T14:07:55+00:00",
+  "as_of": "2026-11-09T14:22:54+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -25,13 +25,29 @@
   },
   {
    "rank": 2,
+   "ticker": "NRG",
+   "company": "NRG Energy Inc",
+   "move_pct": 6.47,
+   "price": 94.0,
+   "volume": 8716100,
+   "volume_vs_avg": "~2x",
+   "heat_score": 50,
+   "direction": "up",
+   "why": "NRG Energy Shares Rise 4.2% Following $4 Billion Natural Gas Asset Sale Agreement",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/energy/articles/nrg-energy-shares-rise-4-133116706.html",
+   "published": "2026-11-09T13:31:16+00:00",
+   "sector": "Powering AI"
+  },
+  {
+   "rank": 3,
    "ticker": "TTD",
    "company": "Trade Desk Inc",
-   "move_pct": 8.61,
-   "price": 14.04,
+   "move_pct": 7.66,
+   "price": 13.92,
    "volume": 14354800,
    "volume_vs_avg": "~0.9x",
-   "heat_score": 60,
+   "heat_score": 46,
    "direction": "up",
    "why": "The Trade Desk Jumps 8% Ahead of Earnings; Magnite Gains 2%, AppLovin Dips",
    "catalyst_type": "earnings",
@@ -40,35 +56,19 @@
    "sector": "AI Platforms, Internet & AdTech"
   },
   {
-   "rank": 3,
-   "ticker": "NRG",
-   "company": "NRG Energy Inc",
-   "move_pct": 6.65,
-   "price": 94.16,
-   "volume": 8716100,
-   "volume_vs_avg": "~2x",
-   "heat_score": 50,
-   "direction": "up",
-   "why": "NRG Energy Signs $4 Billion Asset-Sale Agreement, Posts Higher Quarterly Earnings",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/m/83471671-8e15-31d4-8344-28f614b8fc32/nrg-energy-signs-%244-billion.html",
-   "published": "2026-11-09T13:28:00+00:00",
-   "sector": "Powering AI"
-  },
-  {
    "rank": 4,
    "ticker": "NVDA",
    "company": "NVIDIA Corp",
-   "move_pct": -5.96,
-   "price": 175.52,
+   "move_pct": -6.41,
+   "price": 174.68,
    "volume": 179722400,
    "volume_vs_avg": "~2x",
-   "heat_score": 44,
+   "heat_score": 45,
    "direction": "down",
-   "why": "Wall St set to open higher after last week's AI rout; Nvidia down",
+   "why": "Nvidia stock sinks 5% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-rough-103539344.html",
-   "published": "2026-11-09T13:44:40+00:00",
+   "source_url": "https://finance.yahoo.com/markets/article/nvidia-stock-sinks-as-chipmaker-investigates-ceo-jensen-huangs-relationship-with-alleged-chinese-spy-130346548.html",
+   "published": "2026-11-09T14:09:06+00:00",
    "sector": "AI Chips & Compute"
   }
  ]

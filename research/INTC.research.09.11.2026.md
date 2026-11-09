@@ -47,7 +47,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Price vs 52-week range | Close $59.37; 52w high $140.94 (-57.88%); 52w low $33.62 (+76.59%) |
 | Trend | -31.85% vs SMA200, -39.01% vs SMA50, -26.68% vs SMA20 |
 | Momentum | RSI(14) 29.5 (oversold) |
-| Volatility | ATR(14) 6.19 (~10.4% of price); beta 2.43 |
+| Volatility | ATR(14) 6.20 (~10.4% of price); beta 2.43 |
 | Setup perspective | -57.88% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -117,7 +117,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Market cap | $315.55B | EV/EBITDA | 16.30 |
 | Beta | 2.43 | Gross margin | 40.15% |
 | RSI(14) | 29.5 | Operating margin | 15.60% |
-| ATR(14) | 6.19 | Profit margin | -20.09% |
+| ATR(14) | 6.20 | Profit margin | -20.09% |
 | SMA20 dist | -26.68% | ROA | 1.78% |
 | SMA50 dist | -39.01% | ROE | -9.62% |
 | SMA200 dist | -31.85% | Revenue (ttm) | $59.89B |

@@ -47,7 +47,7 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 | Price vs 52-week range | Close $733.15; 52w high $1,213.18 (-39.57%); 52w low $201.14 (+264.49%) |
 | Trend | -3.30% vs SMA200, -23.43% vs SMA50, -15.36% vs SMA20 |
 | Momentum | RSI(14) 36.4 (neutral) |
-| Volatility | ATR(14) 58.49 (~8.0% of price); beta 2.40 |
+| Volatility | ATR(14) 58.47 (~8.0% of price); beta 2.40 |
 | Setup perspective | -39.57% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -115,7 +115,7 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 | Market cap | $829.50B | EV/EBITDA | 6.82 |
 | Beta | 2.40 | Gross margin | 80.72% |
 | RSI(14) | 36.4 | Operating margin | 80.68% |
-| ATR(14) | 58.49 | Profit margin | 63.80% |
+| ATR(14) | 58.47 | Profit margin | 63.80% |
 | SMA20 dist | -15.36% | ROA | 44.56% |
 | SMA50 dist | -23.43% | ROE | 88.26% |
 | SMA200 dist | -3.30% | Revenue (ttm) | $133.19B |

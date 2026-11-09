@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-09T13:36:41+00:00",
-  "as_of_local": "2026-11-09 13:36:41 UTC",
+  "as_of_utc": "2026-11-09T13:41:39+00:00",
+  "as_of_local": "2026-11-09 13:41:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -377,6 +377,12 @@
       "market_cap": 762975361.9399261,
       "headlines": [
         {
+          "title": "Ceva (CEVA) Lags Q3 Earnings and Revenue Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-ceva-lags-q3-earnings-122501674.html",
+          "publisher": "Zacks",
+          "published": "2026-11-09T12:25:01Z"
+        },
+        {
           "title": "Ceva: Q3 Earnings Snapshot",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-q3-earnings-snapshot-121906130.html",
           "publisher": "Associated Press",
@@ -387,12 +393,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/affirm-holdings-afrm-q1-earnings-212002246.html",
           "publisher": "Zacks",
           "published": "2026-11-05T21:20:02Z"
-        },
-        {
-          "title": "Has Cadence Stock Fallen Like This Before?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cadence-stock-fallen-134946577.html",
-          "publisher": "Trefis",
-          "published": "2026-11-04T13:49:46Z"
         }
       ]
     }
@@ -445,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 3.55,
-          "price": 835.06,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -535,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 3.55,
-        "price": 835.06,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 74568.77,
+      "price": 74566.1,
       "change_pct": -0.02
     },
     {
       "label": "Gold",
-      "price": 4135.7,
-      "change_pct": 1.49
+      "price": 4134.6,
+      "change_pct": 1.47
     },
     {
       "label": "Nasdaq100",

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T11:04:08+00:00",
-  "as_of_local": "2026-11-09 11:04:08 UTC",
+  "as_of_utc": "2026-11-09T11:09:06+00:00",
+  "as_of_local": "2026-11-09 11:09:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "QCOM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -99,6 +97,12 @@
       "market_cap": 780682016280.0,
       "headlines": [
         {
+          "title": "Invesco NASDAQ 100 ETF (QQQM) Buys $38.3 Million More Apple on Nov. 5",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-nasdaq-100-etf-qqqm-110526325.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-09T11:05:26Z"
+        },
+        {
           "title": "Kospi Firmly in Bear Market as Chip Pain Deepens",
           "url": "https://www.barrons.com/livecoverage/stock-market-news-today-110926/card/kospi-firmly-in-bear-market-as-chip-pain-deepens-OxAyxmOtfkGveFpl45hy?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -109,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-091400948.html",
           "publisher": "Zacks",
           "published": "2026-11-09T09:14:00Z"
-        },
-        {
-          "title": "Zacks Value Investor Highlights: MU, SNDK, SANM, STRL and FIX",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-value-investor-highlights-mu-090700409.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T09:07:00Z"
         }
       ]
     },
@@ -203,6 +201,34 @@
       ]
     },
     {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "price": 165.41,
+      "previous_close": 156.75,
+      "change_pct": 5.52,
+      "market_cap": 176988703918.45703,
+      "headlines": [
+        {
+          "title": "Qualcomm (QCOM) Sees $28.3 Million in Net ETF Buying on Nov. 5",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-sees-28-3-110130200.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-09T11:01:30Z"
+        },
+        {
+          "title": "Arm and Qualcomm Lead Mobile Chip Design. 1 Stock Is the Better Buy.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-qualcomm-lead-mobile-chip-095200481.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09T09:52:00Z"
+        },
+        {
+          "title": "NVDA, PLTR, QCOM, SPCX, MRVL: Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-pltr-qcom-spcx-mrvl-020455465.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-09T02:04:55Z"
+        }
+      ]
+    },
+    {
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "price": 141.2,
@@ -239,6 +265,12 @@
       "market_cap": 62582234698.269714,
       "headlines": [
         {
+          "title": "NXP Semiconductors (NXPI) Sees $10.4 Million in Net ETF Buying on Nov. 5",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-sees-10-110226550.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-09T11:02:26Z"
+        },
+        {
           "title": "Astera Labs Just Crushed Earnings\u2014So Why Are Analysts Cutting Price Targets?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-just-crushed-earnings-151500838.html",
           "publisher": "MarketBeat",
@@ -249,12 +281,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/microchip-sinks-10-soft-december-193440802.html",
           "publisher": "TIKR",
           "published": "2026-11-06T19:34:40Z"
-        },
-        {
-          "title": "Semtech Stock Plunges 34% in 3 Months: Should You Buy the Dip?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/semtech-stock-plunges-34-3-143900373.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T14:39:00Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 74060.2,
-      "change_pct": -0.7
+      "price": 73953.61,
+      "change_pct": -0.85
     },
     {
       "label": "Gold",
-      "price": 4105.3,
-      "change_pct": 0.75
+      "price": 4107.7,
+      "change_pct": 0.8
     },
     {
       "label": "Nasdaq100",

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-09T12:30:28+00:00",
-  "as_of_local": "2026-11-09 12:30:28 UTC",
+  "as_of_utc": "2026-11-09T12:35:34+00:00",
+  "as_of_local": "2026-11-09 12:35:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -125,6 +125,12 @@
       "market_cap": 736464793203.4574,
       "headlines": [
         {
+          "title": "Not AMD. Not Intel. This Is the Artificial Intelligence (AI) Chip Stock Nvidia Should Fear Most.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/not-amd-not-intel-artificial-122000806.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09T12:20:00Z"
+        },
+        {
           "title": "AMD Shed Nearly 30% in 30 Days: This Respected Wall Street Team Expects 75% Gains For Those Who Act Now",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-shed-nearly-30-30-121522446.html",
           "publisher": "24/7 Wall St.",
@@ -135,12 +141,6 @@
           "url": "https://finance.yahoo.com/news/morning-bid-spy-ai-113635980.html",
           "publisher": "Reuters",
           "published": "2026-11-09T11:36:35Z"
-        },
-        {
-          "title": "AMD's $100 billion AI opportunity raises a Wall Street question",
-          "url": "https://finance.yahoo.com/technology/ai/articles/amds-100-billion-ai-opportunity-113024576.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-09T11:30:24Z"
         }
       ]
     },
@@ -153,6 +153,12 @@
       "market_cap": 299128193511.9629,
       "headlines": [
         {
+          "title": "Not AMD. Not Intel. This Is the Artificial Intelligence (AI) Chip Stock Nvidia Should Fear Most.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/not-amd-not-intel-artificial-122000806.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09T12:20:00Z"
+        },
+        {
           "title": "AMD Shed Nearly 30% in 30 Days: This Respected Wall Street Team Expects 75% Gains For Those Who Act Now",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-shed-nearly-30-30-121522446.html",
           "publisher": "24/7 Wall St.",
@@ -163,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/article/jensen-huang-just-handed-wall-street-its-first-45-trillion-ceo-scandal-094803359.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-09T09:48:03Z"
-        },
-        {
-          "title": "NVDA Stock Slides Premarket: Beijing Reportedly Rejects Jensen Huang Spy Allegations As \u2018Smears Against China'",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-slides-premarket-beijing-091437044.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-09T09:14:37Z"
         }
       ]
     },
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 39.29,
-      "change_pct": 6.16,
+      "price": null,
+      "change_pct": 0.0,
       "holdings": [
         {
           "symbol": "MU",
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 39.29,
-    "change_pct": 6.16,
+    "price": null,
+    "change_pct": 0.0,
     "holdings": [
       {
         "symbol": "MU",
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 74689.09,
-      "change_pct": 0.14
+      "price": 74790.93,
+      "change_pct": 0.28
     },
     {
       "label": "Gold",
-      "price": 4120.9,
-      "change_pct": 1.13
+      "price": 4121.9,
+      "change_pct": 1.15
     },
     {
       "label": "Nasdaq100",

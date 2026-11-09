@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-09T23:46:25+00:00",
-  "as_of_local": "2026-11-09 23:46:25 UTC",
+  "as_of_utc": "2026-11-09T23:51:22+00:00",
+  "as_of_local": "2026-11-09 23:51:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "NXPI"
+    "ARM"
   ],
   "stocks": [
     {
@@ -175,34 +175,6 @@
       ]
     },
     {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 186.3,
-      "previous_close": 174.62,
-      "change_pct": 6.69,
-      "market_cap": 199341003265.38086,
-      "headlines": [
-        {
-          "title": "Former Goldman Sachs CEO Slams 'Current Hysteria' to Block AI Data Centers, Calls it a 'Gift to China'\u2014Patrick Moorhead Warns US Jobs, Tax Revenue Losses",
-          "url": "https://finance.yahoo.com/technology/ai/articles/former-goldman-sachs-ceo-slams-223007401.html",
-          "publisher": "Benzinga",
-          "published": "2026-11-09T22:30:07Z"
-        },
-        {
-          "title": "Intel took 25 years to get back to its dot-com peak \u2014 and lost it in 6 months: Chart of the Day",
-          "url": "https://finance.yahoo.com/markets/article/intel-took-25-years-to-get-back-to-its-dot-com-peak--and-lost-it-in-6-months-chart-of-the-day-144715722.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-09T14:47:15Z"
-        },
-        {
-          "title": "Investors Are Chasing AI Chips. This Company Is Playing a Different Game",
-          "url": "https://finance.yahoo.com/technology/ai/articles/investors-chasing-ai-chips-company-143305326.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-09T14:33:05Z"
-        }
-      ]
-    },
-    {
       "symbol": "QCOM",
       "name": "Qualcomm",
       "price": 171.47,
@@ -255,6 +227,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-sinks-36-lumentum-drops-193343092.html",
           "publisher": "TIKR",
           "published": "2026-11-09T19:33:43Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors",
+      "price": 256.42,
+      "previous_close": 248.29,
+      "change_pct": 3.27,
+      "market_cap": 64631430567.46057,
+      "headlines": [
+        {
+          "title": "What Could Send Texas Instruments Stock Soaring?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-send-texas-instruments-stock-124606787.html",
+          "publisher": "Trefis",
+          "published": "2026-11-09T12:46:06Z"
+        },
+        {
+          "title": "NXP Semiconductors (NXPI) Sees $10.4 Million in Net ETF Buying on Nov. 5",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-sees-10-110226550.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-09T11:02:26Z"
+        },
+        {
+          "title": "Astera Labs Just Crushed Earnings\u2014So Why Are Analysts Cutting Price Targets?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-just-crushed-earnings-151500838.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-07T15:15:00Z"
         }
       ]
     },
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 75110.05,
-      "change_pct": 0.7
+      "price": 75181.04,
+      "change_pct": 0.8
     },
     {
       "label": "Gold",
-      "price": 4147.6,
-      "change_pct": 1.78
+      "price": 4146.1,
+      "change_pct": 1.75
     },
     {
       "label": "Nasdaq100",

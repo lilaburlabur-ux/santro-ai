@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T11:49:45+00:00",
-  "as_of_local": "2026-11-09 11:49:45 UTC",
+  "as_of_utc": "2026-11-09T11:54:52+00:00",
+  "as_of_local": "2026-11-09 11:54:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NXPI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -259,32 +257,41 @@
       ]
     },
     {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors",
+      "price": 248.29,
+      "previous_close": 244.43,
+      "change_pct": 1.58,
+      "market_cap": 62582234698.269714,
+      "headlines": [
+        {
+          "title": "NXP Semiconductors (NXPI) Sees $10.4 Million in Net ETF Buying on Nov. 5",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-sees-10-110226550.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-09T11:02:26Z"
+        },
+        {
+          "title": "Astera Labs Just Crushed Earnings\u2014So Why Are Analysts Cutting Price Targets?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-just-crushed-earnings-151500838.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-07T15:15:00Z"
+        },
+        {
+          "title": "Microchip Sinks 10% on Soft December Guidance as CEO Says \u201cData Center Is in the Bubble\u201d",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microchip-sinks-10-soft-december-193440802.html",
+          "publisher": "TIKR",
+          "published": "2026-11-06T19:34:40Z"
+        }
+      ]
+    },
+    {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
       "price": 105.02,
       "previous_close": 98.03,
       "change_pct": 7.13,
       "market_cap": 14936541591.3778,
-      "headlines": [
-        {
-          "title": "ETFs Are Net Sellers of Lattice Semiconductor (LSCC) on Tuesday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-lattice-semiconductor-110213477.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-05T11:02:13Z"
-        },
-        {
-          "title": "What iShares A.I. Innovation ETF (BAI) Bought: Amazon Leads on Nov. 2",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-innovation-etf-bai-bought-110550024.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-04T11:05:50Z"
-        },
-        {
-          "title": "ETFs Are Net Sellers of Lattice Semiconductor (LSCC) on Nov. 2",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-lattice-semiconductor-110255079.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-04T11:02:55Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "AVAV",
@@ -559,13 +566,13 @@
     },
     {
       "label": "BTC",
-      "price": 74412.74,
-      "change_pct": -0.23
+      "price": 74316.67,
+      "change_pct": -0.36
     },
     {
       "label": "Gold",
-      "price": 4119.5,
-      "change_pct": 1.09
+      "price": 4121.4,
+      "change_pct": 1.14
     },
     {
       "label": "Nasdaq100",

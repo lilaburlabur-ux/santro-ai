@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-09T07:42:52+00:00",
-  "as_of_local": "2026-11-09 07:42:52 UTC",
+  "as_of_utc": "2026-11-09T07:48:01+00:00",
+  "as_of_local": "2026-11-09 07:48:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -253,34 +255,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-57-below-high-115-155440409.html",
           "publisher": "TIKR",
           "published": "2026-11-08T15:54:40Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 248.29,
-      "previous_close": 244.43,
-      "change_pct": 1.58,
-      "market_cap": 62582234698.269714,
-      "headlines": [
-        {
-          "title": "Astera Labs Just Crushed Earnings\u2014So Why Are Analysts Cutting Price Targets?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-just-crushed-earnings-151500838.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-07T15:15:00Z"
-        },
-        {
-          "title": "Microchip Sinks 10% on Soft December Guidance as CEO Says \u201cData Center Is in the Bubble\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microchip-sinks-10-soft-december-193440802.html",
-          "publisher": "TIKR",
-          "published": "2026-11-06T19:34:40Z"
-        },
-        {
-          "title": "Semtech Stock Plunges 34% in 3 Months: Should You Buy the Dip?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/semtech-stock-plunges-34-3-143900373.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T14:39:00Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 73956.97,
-      "change_pct": -0.84
+      "price": 73749.77,
+      "change_pct": -1.12
     },
     {
       "label": "Gold",
-      "price": 4108.4,
-      "change_pct": 0.82
+      "price": 4103.4,
+      "change_pct": 0.7
     },
     {
       "label": "Nasdaq100",

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-09T13:32:08+00:00",
+  "as_of": "2026-11-09T13:47:18+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "CEVA",
    "company": "Ceva Inc",
-   "move_pct": -15.13,
-   "price": 23.0,
+   "move_pct": -12.63,
+   "price": 23.68,
    "volume": 1046600,
    "volume_vs_avg": "~2x",
-   "heat_score": 87,
+   "heat_score": 79,
    "direction": "down",
    "why": "CEVA Q3 non-GAAP Earnings, Revenue Rise; Shares Down",
    "catalyst_type": "earnings",
@@ -25,18 +25,34 @@
   },
   {
    "rank": 2,
+   "ticker": "NRG",
+   "company": "NRG Energy Inc",
+   "move_pct": 6.6,
+   "price": 94.12,
+   "volume": 8716100,
+   "volume_vs_avg": "~2x",
+   "heat_score": 50,
+   "direction": "up",
+   "why": "NRG Energy Signs $4 Billion Asset-Sale Agreement, Posts Higher Quarterly Earnings",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/m/83471671-8e15-31d4-8344-28f614b8fc32/nrg-energy-signs-%244-billion.html",
+   "published": "2026-11-09T13:28:00+00:00",
+   "sector": "Powering AI"
+  },
+  {
+   "rank": 3,
    "ticker": "NVDA",
    "company": "NVIDIA Corp",
-   "move_pct": -5.5,
-   "price": 176.38,
+   "move_pct": -5.49,
+   "price": 176.4,
    "volume": 179722400,
    "volume_vs_avg": "~2x",
    "heat_score": 42,
    "direction": "down",
-   "why": "Nvidia shares drop after co. investigates whether CEO was 'target of a foreign intelligence effort'",
+   "why": "Prediction: Nvidia Stock Is Going to Soar After Nov. 17",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-shares-drop-co-investigates-131519038.html",
-   "published": "2026-11-09T13:15:19+00:00",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-going-soar-132900049.html",
+   "published": "2026-11-09T13:29:00+00:00",
    "sector": "AI Chips & Compute"
   }
  ]

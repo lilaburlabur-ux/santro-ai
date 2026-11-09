@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-09T11:39:44+00:00",
-  "as_of_local": "2026-11-09 11:39:44 UTC",
+  "as_of_utc": "2026-11-09T11:44:46+00:00",
+  "as_of_local": "2026-11-09 11:44:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -125,6 +127,12 @@
       "market_cap": 736464793203.4574,
       "headlines": [
         {
+          "title": "AMD's $100 billion AI opportunity raises a Wall Street question",
+          "url": "https://finance.yahoo.com/technology/ai/articles/amds-100-billion-ai-opportunity-113024576.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-09T11:30:24Z"
+        },
+        {
           "title": "AMD\u2019s Server And Data Center Success Is \u2018Undeniable,\u2019 Says Oppenheimer \u2014 Sees Favorable Pricing Ahead",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-server-data-center-success-112947130.html",
           "publisher": "Stocktwits",
@@ -135,12 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-slides-premarket-beijing-091437044.html",
           "publisher": "Stocktwits",
           "published": "2026-11-09T09:14:37Z"
-        },
-        {
-          "title": "Cinemark and Whirlpool have been highlighted as Zacks Bull and Bear of the Day",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cinemark-whirlpool-highlighted-zacks-bull-065300740.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T06:53:00Z"
         }
       ]
     },
@@ -173,34 +175,6 @@
       ]
     },
     {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 174.62,
-      "previous_close": 166.72,
-      "change_pct": 4.74,
-      "market_cap": 186843394775.39062,
-      "headlines": [
-        {
-          "title": "Arm and Qualcomm Lead Mobile Chip Design. 1 Stock Is the Better Buy.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-qualcomm-lead-mobile-chip-095200481.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-09T09:52:00Z"
-        },
-        {
-          "title": "Intel, Arm, and Marvell Have Each Been Cut in Half Since June. Only 1 Is a Stock I'd Buy Now.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-arm-marvell-cut-half-085802797.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T08:58:02Z"
-        },
-        {
-          "title": "Arm (ARM) Stock Sees Modest Fair Value Cut As Analysts Trim Multiples",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-arm-stock-sees-modest-021256821.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-08T02:12:56Z"
-        }
-      ]
-    },
-    {
       "symbol": "QCOM",
       "name": "Qualcomm",
       "price": 165.41,
@@ -208,6 +182,12 @@
       "change_pct": 5.52,
       "market_cap": 176988703918.45703,
       "headlines": [
+        {
+          "title": "Nasdaq Rises After Brutal 19-Month Rout",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-rises-brutal-19-month-113219655.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-09T11:32:19Z"
+        },
         {
           "title": "Alphabet Keeps Its Massive SpaceX Bet. Now It's Making a $548 Million Qualcomm Move",
           "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-keeps-massive-spacex-bet-111823968.html",
@@ -219,12 +199,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-sees-28-3-110130200.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-09T11:01:30Z"
-        },
-        {
-          "title": "Arm and Qualcomm Lead Mobile Chip Design. 1 Stock Is the Better Buy.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-qualcomm-lead-mobile-chip-095200481.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-09T09:52:00Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 74533.8,
-      "change_pct": -0.07
+      "price": 74514.78,
+      "change_pct": -0.09
     },
     {
       "label": "Gold",
-      "price": 4113.9,
-      "change_pct": 0.96
+      "price": 4115.9,
+      "change_pct": 1.01
     },
     {
       "label": "Nasdaq100",

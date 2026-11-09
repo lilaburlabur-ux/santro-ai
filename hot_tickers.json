@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-09T22:30:22+00:00",
+  "as_of": "2026-11-09T22:35:56+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "TTD",
    "company": "Trade Desk Inc",
-   "move_pct": 27.15,
-   "price": 16.44,
+   "move_pct": 25.14,
+   "price": 16.18,
    "volume": 86907651,
    "volume_vs_avg": "~6x",
    "heat_score": 99,
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
-   "move_pct": 13.38,
-   "price": 509.12,
+   "move_pct": 13.36,
+   "price": 509.01,
    "volume": 50860939,
    "volume_vs_avg": "~2x",
    "heat_score": 82,
@@ -57,22 +57,6 @@
   },
   {
    "rank": 4,
-   "ticker": "MRVL",
-   "company": "Marvell Technology Inc",
-   "move_pct": 10.76,
-   "price": 156.4,
-   "volume": 33417731,
-   "volume_vs_avg": "~1.3x",
-   "heat_score": 69,
-   "direction": "up",
-   "why": "Why Marvell Technology Stock Fell Hard in October",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-technology-stock-fell-201712360.html",
-   "published": "2026-11-09T20:17:12+00:00",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 5,
    "ticker": "CEG",
    "company": "Constellation Energy Corp",
    "move_pct": 10.2,
@@ -88,7 +72,39 @@
    "sector": "Powering AI"
   },
   {
+   "rank": 5,
+   "ticker": "NET",
+   "company": "Cloudflare Inc",
+   "move_pct": 9.97,
+   "price": 295.54,
+   "volume": 6122878,
+   "volume_vs_avg": "~2x",
+   "heat_score": 69,
+   "direction": "up",
+   "why": "Cloudflare Tumbled Into Earnings: Why Goldman Sachs Sees 56% Upside",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-tumbled-earnings-why-goldman-212122392.html",
+   "published": "2026-11-09T21:21:22+00:00",
+   "sector": "Cybersecurity"
+  },
+  {
    "rank": 6,
+   "ticker": "MRVL",
+   "company": "Marvell Technology Inc",
+   "move_pct": 10.48,
+   "price": 156.0,
+   "volume": 33417731,
+   "volume_vs_avg": "~1.3x",
+   "heat_score": 68,
+   "direction": "up",
+   "why": "Why Marvell Technology Stock Fell Hard in October",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-technology-stock-fell-201712360.html",
+   "published": "2026-11-09T20:17:12+00:00",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 7,
    "ticker": "NRG",
    "company": "NRG Energy Inc",
    "move_pct": 10.1,
@@ -104,7 +120,7 @@
    "sector": "Powering AI"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "ticker": "AVGO",
    "company": "Broadcom Inc",
    "move_pct": 9.15,
@@ -117,22 +133,6 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/technology/ai/articles/real-winner-google-135-billion-204531962.html",
    "published": "2026-11-09T20:45:31+00:00",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 8,
-   "ticker": "CEVA",
-   "company": "Ceva Inc",
-   "move_pct": -8.12,
-   "price": 24.9,
-   "volume": 1214631,
-   "volume_vs_avg": "~2x",
-   "heat_score": 65,
-   "direction": "down",
-   "why": "CEVA, Inc. Q3 2026 Earnings Call Summary",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ceva-inc-q3-2026-earnings-214428841.html",
-   "published": "2026-11-09T21:44:28+00:00",
    "sector": "AI Chips & Compute"
   }
  ]

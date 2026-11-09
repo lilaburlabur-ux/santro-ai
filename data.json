@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-09T21:49:23+00:00",
-  "as_of_local": "2026-11-09 21:49:23 UTC",
+  "as_of_utc": "2026-11-09T21:54:20+00:00",
+  "as_of_local": "2026-11-09 21:54:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "AVGO"
+    "INTC"
   ],
   "stocks": [
     {
@@ -63,6 +63,34 @@
       ]
     },
     {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 319.48,
+      "previous_close": 293.69,
+      "change_pct": 8.78,
+      "market_cap": 1525079321714.864,
+      "headlines": [
+        {
+          "title": "The Real Winner of Google\u2019s $135 Billion Chip Forecast: Broadcom",
+          "url": "https://finance.yahoo.com/technology/ai/articles/real-winner-google-135-billion-204531962.html",
+          "publisher": "TIKR",
+          "published": "2026-11-09T20:45:31Z"
+        },
+        {
+          "title": "Unless Nvidia Removes Jensen Huang, the Stock Is Worth Holding",
+          "url": "https://www.barrons.com/articles/nvidia-stock-worth-holding-huang-affair-fcf9b418?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-09T19:08:00Z"
+        },
+        {
+          "title": "Google Pushes New AI Chips. Why There Could Be an Opening.",
+          "url": "https://www.barrons.com/articles/google-ai-tpu-systems-nvidia-8d354665?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-09T18:28:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 508.58,
@@ -83,10 +111,10 @@
           "published": "2026-11-09T15:22:08Z"
         },
         {
-          "title": "AMD Stock Rises On Google Cloud Deal, Wall Street Upgrade",
-          "url": "https://www.investors.com/news/technology/amd-stock-rises-on-google-cloud-deal-wall-street-upgrade/?src=A00220&yptr=yahoo",
+          "title": "Stock Market Today: Dow Jumps, These Stocks Test Entries; Warren Buffett Play Clears Buy Zone",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-stock-nvda-jensen-huang-probe/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-09T21:39:22Z"
+          "published": "2026-11-09T21:41:06Z"
         }
       ]
     },
@@ -115,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-soars-5-tsmc-sticks-193554868.html",
           "publisher": "TIKR",
           "published": "2026-11-09T19:35:54Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 59.37,
-      "previous_close": 56.28,
-      "change_pct": 5.49,
-      "market_cap": 315551544322.9675,
-      "headlines": [
-        {
-          "title": "Intel took 25 years to get back to its dot-com peak \u2014 and lost it in 6 months: Chart of the Day",
-          "url": "https://finance.yahoo.com/markets/article/intel-took-25-years-to-get-back-to-its-dot-com-peak--and-lost-it-in-6-months-chart-of-the-day-144715722.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-09T14:47:15Z"
-        },
-        {
-          "title": "Jensen Huang just handed Wall Street its first $4.5 trillion CEO scandal",
-          "url": "https://finance.yahoo.com/markets/article/jensen-huang-just-handed-wall-street-its-first-45-trillion-ceo-scandal-094803359.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-09T09:48:03Z"
-        },
-        {
-          "title": "AMD Just Eased Wall Street\u2019s AI Spending Scare. Here\u2019s What It Means for the Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-just-eased-wall-street-160339772.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-09T16:03:39Z"
         }
       ]
     },
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 74832.44,
-      "change_pct": 0.33
+      "price": 74906.5,
+      "change_pct": 0.43
     },
     {
       "label": "Gold",
-      "price": 4146.8,
-      "change_pct": 1.76
+      "price": 4144.3,
+      "change_pct": 1.7
     },
     {
       "label": "Nasdaq100",

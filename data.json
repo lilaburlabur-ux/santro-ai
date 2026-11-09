@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-09T23:36:12+00:00",
-  "as_of_local": "2026-11-09 23:36:12 UTC",
+  "as_of_utc": "2026-11-09T23:41:09+00:00",
+  "as_of_local": "2026-11-09 23:41:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/markets/article/jensen-huang-just-handed-wall-street-its-first-45-trillion-ceo-scandal-094803359.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-09T09:48:03Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 186.3,
-      "previous_close": 174.62,
-      "change_pct": 6.69,
-      "market_cap": 199341003265.38086,
-      "headlines": [
-        {
-          "title": "Former Goldman Sachs CEO Slams 'Current Hysteria' to Block AI Data Centers, Calls it a 'Gift to China'\u2014Patrick Moorhead Warns US Jobs, Tax Revenue Losses",
-          "url": "https://finance.yahoo.com/technology/ai/articles/former-goldman-sachs-ceo-slams-223007401.html",
-          "publisher": "Benzinga",
-          "published": "2026-11-09T22:30:07Z"
-        },
-        {
-          "title": "Intel took 25 years to get back to its dot-com peak \u2014 and lost it in 6 months: Chart of the Day",
-          "url": "https://finance.yahoo.com/markets/article/intel-took-25-years-to-get-back-to-its-dot-com-peak--and-lost-it-in-6-months-chart-of-the-day-144715722.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-09T14:47:15Z"
-        },
-        {
-          "title": "Investors Are Chasing AI Chips. This Company Is Playing a Different Game",
-          "url": "https://finance.yahoo.com/technology/ai/articles/investors-chasing-ai-chips-company-143305326.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-09T14:33:05Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 75117.62,
-      "change_pct": 0.71
+      "price": 75133.43,
+      "change_pct": 0.74
     },
     {
       "label": "Gold",
-      "price": 4151.6,
-      "change_pct": 1.88
+      "price": 4152.6,
+      "change_pct": 1.91
     },
     {
       "label": "Nasdaq100",

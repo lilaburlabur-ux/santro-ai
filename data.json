@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-09T03:30:56+00:00",
-  "as_of_local": "2026-11-09 03:30:56 UTC",
+  "as_of_utc": "2026-11-09T03:35:58+00:00",
+  "as_of_local": "2026-11-09 03:35:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-11-08T20:51:22Z"
         },
         {
+          "title": "Nvidia Board Launches Probe In CEO Jensen Huang Spying Case",
+          "url": "https://www.investors.com/news/technology/nvidia-board-launches-probe-in-ceo-jensen-huang-spying-case/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-09T03:22:54Z"
+        },
+        {
           "title": "Dow Jones Futures Rise As Nvidia Probes CEO Jensen Huang Spying Case",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-probes-ceo-jensen-huang-espionage/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-09T03:18:30Z"
-        },
-        {
-          "title": "Top 3 Undervalued Stocks To Watch In November 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-undervalued-stocks-watch-031414693.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-09T03:14:14Z"
         }
       ]
     },
@@ -285,34 +287,6 @@
       ]
     },
     {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 105.02,
-      "previous_close": 98.03,
-      "change_pct": 7.13,
-      "market_cap": 14936541591.3778,
-      "headlines": [
-        {
-          "title": "ETFs Are Net Sellers of Lattice Semiconductor (LSCC) on Tuesday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-lattice-semiconductor-110213477.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-05T11:02:13Z"
-        },
-        {
-          "title": "What iShares A.I. Innovation ETF (BAI) Bought: Amazon Leads on Nov. 2",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-innovation-etf-bai-bought-110550024.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-04T11:05:50Z"
-        },
-        {
-          "title": "ETFs Are Net Sellers of Lattice Semiconductor (LSCC) on Nov. 2",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-lattice-semiconductor-110255079.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-04T11:02:55Z"
-        }
-      ]
-    },
-    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 112.76,
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 4.15,
-          "price": 1179000.0,
+          "change_pct": 3.89,
+          "price": 1176000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 2.54,
-          "price": 193500.0,
+          "change_pct": 2.28,
+          "price": 193000.0,
           "currency": "KRW"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 8.44,
-          "price": 372.5,
+          "change_pct": 8.15,
+          "price": 371.5,
           "currency": "TWD"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 4.15,
-        "price": 1179000.0,
+        "change_pct": 3.89,
+        "price": 1176000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 2.54,
-        "price": 193500.0,
+        "change_pct": 2.28,
+        "price": 193000.0,
         "currency": "KRW"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 8.44,
-        "price": 372.5,
+        "change_pct": 8.15,
+        "price": 371.5,
         "currency": "TWD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 74948.59,
-      "change_pct": -1.05
+      "price": 74923.87,
+      "change_pct": -1.09
     },
     {
       "label": "Gold",
-      "price": 4128.0,
-      "change_pct": 1.3
+      "price": 4128.4,
+      "change_pct": 1.31
     },
     {
       "label": "Nasdaq100",

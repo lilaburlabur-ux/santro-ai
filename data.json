@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-09T22:19:46+00:00",
-  "as_of_local": "2026-11-09 22:19:46 UTC",
+  "as_of_utc": "2026-11-09T22:24:47+00:00",
+  "as_of_local": "2026-11-09 22:24:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -75,16 +77,16 @@
           "published": "2026-11-09T22:13:59Z"
         },
         {
+          "title": "Josh Brown: If Nvidia\u2019s Earnings Come In \u201c5% Lower,\u201d the Stock \u201cCould Fall 40%\u201d",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/josh-brown-nvidia-earnings-come-212139867.html",
+          "publisher": "TIKR",
+          "published": "2026-11-09T21:21:39Z"
+        },
+        {
           "title": "The Real Winner of Google\u2019s $135 Billion Chip Forecast: Broadcom",
           "url": "https://finance.yahoo.com/technology/ai/articles/real-winner-google-135-billion-204531962.html",
           "publisher": "TIKR",
           "published": "2026-11-09T20:45:31Z"
-        },
-        {
-          "title": "Unless Nvidia Removes Jensen Huang, the Stock Is Worth Holding",
-          "url": "https://www.barrons.com/articles/nvidia-stock-worth-holding-huang-affair-fcf9b418?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-09T19:08:00Z"
         }
       ]
     },
@@ -173,34 +175,6 @@
       ]
     },
     {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 186.3,
-      "previous_close": 174.62,
-      "change_pct": 6.69,
-      "market_cap": 199341003265.38086,
-      "headlines": [
-        {
-          "title": "Intel took 25 years to get back to its dot-com peak \u2014 and lost it in 6 months: Chart of the Day",
-          "url": "https://finance.yahoo.com/markets/article/intel-took-25-years-to-get-back-to-its-dot-com-peak--and-lost-it-in-6-months-chart-of-the-day-144715722.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-09T14:47:15Z"
-        },
-        {
-          "title": "Investors Are Chasing AI Chips. This Company Is Playing a Different Game",
-          "url": "https://finance.yahoo.com/technology/ai/articles/investors-chasing-ai-chips-company-143305326.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-09T14:33:05Z"
-        },
-        {
-          "title": "Is Arm Stock a Buy on the Dip as Agentic AI Opportunity Emerges?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-buy-dip-agentic-120500951.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-09T12:05:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "QCOM",
       "name": "Qualcomm",
       "price": 171.47,
@@ -243,16 +217,16 @@
           "published": "2026-11-09T20:17:12Z"
         },
         {
+          "title": "Fabrinet Dropped 33% in a Month Despite a Record Quarter. Time to Sell, or Load Up?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/fabrinet-dropped-33-month-despite-193446631.html",
+          "publisher": "TIKR",
+          "published": "2026-11-09T19:34:46Z"
+        },
+        {
           "title": "Marvell Sinks 36%, Lumentum Drops 31% on $115 Billion Deal: Is the Selloff Overdone?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-sinks-36-lumentum-drops-193343092.html",
           "publisher": "TIKR",
           "published": "2026-11-09T19:33:43Z"
-        },
-        {
-          "title": "Marvell (MRVL) Stock Looks Undervalued After Its 166% Three Year Run",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-stock-looks-undervalued-191647901.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-09T19:16:47Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 74939.85,
-      "change_pct": 0.48
+      "price": 74957.38,
+      "change_pct": 0.5
     },
     {
       "label": "Gold",

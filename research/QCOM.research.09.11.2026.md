@@ -4,8 +4,8 @@ Signed file: `QCOM.research.09.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $172.53 (2026-11-09, ~15-min delayed) |
-| Market cap | $184.61B |
+| Current price | $171.47 (2026-11-09, ~15-min delayed) |
+| Market cap | $183.47B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `QCOM.research.09.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +1.69%; price +2.27% vs SMA200. |
-| Fresh setup quality | Poor / broken | -30.64% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +1.06%; price +1.65% vs SMA200. |
+| Fresh setup quality | Poor / broken | -31.07% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 31.61%, revenue growth -8.40%. |
-| Value attractiveness | Reasonable | Forward P/E 14.09, EV/Sales 4.30. |
-| Risk level | High | Beta 1.76, ATR 5.4% of price, short float 3.12%. |
+| Value attractiveness | Reasonable | Forward P/E 14.00, EV/Sales 4.30. |
+| Risk level | High | Beta 1.76, ATR 5.5% of price, short float 3.12%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -44,22 +44,22 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $172.53; 52w high $248.74 (-30.64%); 52w low $122.94 (+40.33%) |
-| Trend | +2.27% vs SMA200, -3.19% vs SMA50, -0.48% vs SMA20 |
-| Momentum | RSI(14) 49.2 (neutral) |
-| Volatility | ATR(14) 9.36 (~5.4% of price); beta 1.76 |
-| Setup perspective | -30.64% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $171.47; 52w high $248.74 (-31.07%); 52w low $122.94 (+39.47%) |
+| Trend | +1.65% vs SMA200, -3.77% vs SMA50, -1.06% vs SMA20 |
+| Momentum | RSI(14) 48.5 (neutral) |
+| Volatility | ATR(14) 9.36 (~5.5% of price); beta 1.76 |
+| Setup perspective | -31.07% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +6.4% |
-| Month | -1.7% |
-| Quarter | +6.6% |
-| Half Y | -26.7% |
-| 1Y | +1.7% |
-| YTD | +1.3% |
+| Week | +5.8% |
+| Month | -2.3% |
+| Quarter | +6.0% |
+| Half Y | -27.2% |
+| 1Y | +1.1% |
+| YTD | +0.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $43.12B | Revenue growth -8.40% y/y |
 | Profitability | Gross 53.10%, operating 15.41%, net 31.61% | ROA 10.13%, ROE 52.81% |
 | Balance sheet | Cash $7.68B, debt $15.99B | Current ratio 1.86, debt/equity 52.60 |
-| Valuation | P/E 13.59, forward P/E 14.09, P/S 4.28, P/B 6.08 | EV/Sales 4.30, EV/EBITDA 17.45 |
+| Valuation | P/E 13.50, forward P/E 14.00, P/S 4.25, P/B 6.05 | EV/Sales 4.30, EV/EBITDA 17.45 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $185.79 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | NORGES BANK | 16,209,022 | 1.51% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.76, ATR 5.4% of price, short float 3.12%. Size positions accordingly.
+- **Volatility risk:** Beta 1.76, ATR 5.5% of price, short float 3.12%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,25 +111,26 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $172.53 | EV/Sales | 4.30 |
-| Market cap | $184.61B | EV/EBITDA | 17.45 |
+| Price | $171.47 | EV/Sales | 4.30 |
+| Market cap | $183.47B | EV/EBITDA | 17.45 |
 | Beta | 1.76 | Gross margin | 53.10% |
-| RSI(14) | 49.2 | Operating margin | 15.41% |
+| RSI(14) | 48.5 | Operating margin | 15.41% |
 | ATR(14) | 9.36 | Profit margin | 31.61% |
-| SMA20 dist | -0.48% | ROA | 10.13% |
-| SMA50 dist | -3.19% | ROE | 52.81% |
-| SMA200 dist | +2.27% | Revenue (ttm) | $43.12B |
+| SMA20 dist | -1.06% | ROA | 10.13% |
+| SMA50 dist | -3.77% | ROE | 52.81% |
+| SMA200 dist | +1.65% | Revenue (ttm) | $43.12B |
 | 52W high | $248.74 | Revenue growth y/y | -8.40% |
 | 52W low | $122.94 | Inst. ownership | 81.64% |
-| P/E (ttm) | 13.59 | Insider ownership | 0.12% |
-| Forward P/E | 14.09 | Short float | 3.12% |
+| P/E (ttm) | 13.50 | Insider ownership | 0.12% |
+| Forward P/E | 14.00 | Short float | 3.12% |
 | PEG (trailing) | 0.75 | Avg volume | 12,365,607 |
-| P/S | 4.28 | Employees | 57,000 |
-| P/B | 6.08 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/S | 4.25 | Employees | 57,000 |
+| P/B | 6.05 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-11-09 | down | Freedom Broker | Buy → Hold |
 | 2026-11-06 | main | UBS | Neutral → Neutral |
 | 2026-11-05 | main | JP Morgan | Neutral → Neutral |
 | 2026-11-05 | main | TD Cowen | Buy → Buy |
@@ -137,7 +138,6 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | 2026-11-05 | main | Barclays | Underweight → Underweight |
 | 2026-11-05 | main | Evercore ISI Group | In-Line → In-Line |
 | 2026-11-05 | main | Susquehanna | Neutral → Neutral |
-| 2026-11-02 | main | Bernstein | Market Perform → Market Perform |
 
 ## 9. Conclusion
 QCOM: Moderate momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

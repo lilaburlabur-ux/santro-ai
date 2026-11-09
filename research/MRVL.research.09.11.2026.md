@@ -4,8 +4,8 @@ Signed file: `MRVL.research.09.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $155.55 (2026-11-09, ~15-min delayed) |
-| Market cap | $139.96B |
+| Current price | $154.60 (2026-11-09, ~15-min delayed) |
+| Market cap | $139.10B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `MRVL.research.09.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +66.95%; price -16.08% vs SMA200. |
-| Fresh setup quality | Poor / broken | -50.82% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +65.93%; price -16.59% vs SMA200. |
+| Fresh setup quality | Poor / broken | -51.12% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 27.93%, revenue growth 36.50%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 21.17, EV/Sales 13.24. |
-| Risk level | High | Beta 2.33, ATR 11.5% of price, short float 3.28%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 21.04, EV/Sales 13.24. |
+| Risk level | High | Beta 2.33, ATR 11.6% of price, short float 3.28%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
 
@@ -36,30 +36,30 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Why Marvell Technology Stock Fell Hard in October | Motley Fool | 2026-11-09 |
 | Marvell Sinks 36%, Lumentum Drops 31% on $115 Billion Deal: Is the Selloff Overdone? | TIKR | 2026-11-09 |
 | Marvell (MRVL) Stock Looks Undervalued After Its 166% Three Year Run | Simply Wall St. | 2026-11-09 |
 | Coherent Jumps 13% as Optical Stocks Extend AI Rebound; Lumentum Surges 11%, Applied Optoelectronics Rises 4% | 24/7 Wall St. | 2026-11-09 |
-| Broadcom Faltered for a Year, Dropping Nearly 20%: This Wall Street Analyst Team Says 140% Gains Materialize Within 12 Months | 24/7 Wall St. | 2026-11-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $155.55; 52w high $316.28 (-50.82%); 52w low $73.66 (+111.18%) |
-| Trend | -16.08% vs SMA200, -33.26% vs SMA50, -26.53% vs SMA20 |
-| Momentum | RSI(14) 32.5 (neutral) |
-| Volatility | ATR(14) 17.91 (~11.5% of price); beta 2.33 |
-| Setup perspective | -50.82% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $154.60; 52w high $316.28 (-51.12%); 52w low $73.66 (+109.89%) |
+| Trend | -16.59% vs SMA200, -33.66% vs SMA50, -26.97% vs SMA20 |
+| Momentum | RSI(14) 32.1 (neutral) |
+| Volatility | ATR(14) 17.91 (~11.6% of price); beta 2.33 |
+| Setup perspective | -51.12% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -9.3% |
-| Month | -43.5% |
-| Quarter | -26.7% |
-| Half Y | -8.9% |
-| 1Y | +66.9% |
-| YTD | +74.3% |
+| Week | -9.8% |
+| Month | -43.8% |
+| Quarter | -27.2% |
+| Half Y | -9.5% |
+| 1Y | +65.9% |
+| YTD | +73.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $9.45B | Revenue growth 36.50% y/y |
 | Profitability | Gross 52.22%, operating 16.68%, net 27.93% | ROA 4.12%, ROE 16.52% |
 | Balance sheet | Cash $3.93B, debt $5.29B | Current ratio 3.17, debt/equity 28.52 |
-| Valuation | P/E 51.17, forward P/E 21.17, P/S 14.81, P/B 7.36 | EV/Sales 13.24, EV/EBITDA 43.91 |
+| Valuation | P/E 50.86, forward P/E 21.04, P/S 14.72, P/B 7.31 | EV/Sales 13.24, EV/EBITDA 43.91 |
 | Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $310.07 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,8 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | JPMORGAN CHASE & CO | 13,891,628 | 1.58% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 21.17, EV/Sales 13.24. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.33, ATR 11.5% of price, short float 3.28%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 21.04, EV/Sales 13.24. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.33, ATR 11.6% of price, short float 3.28%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -112,21 +112,21 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $155.55 | EV/Sales | 13.24 |
-| Market cap | $139.96B | EV/EBITDA | 43.91 |
+| Price | $154.60 | EV/Sales | 13.24 |
+| Market cap | $139.10B | EV/EBITDA | 43.91 |
 | Beta | 2.33 | Gross margin | 52.22% |
-| RSI(14) | 32.5 | Operating margin | 16.68% |
+| RSI(14) | 32.1 | Operating margin | 16.68% |
 | ATR(14) | 17.91 | Profit margin | 27.93% |
-| SMA20 dist | -26.53% | ROA | 4.12% |
-| SMA50 dist | -33.26% | ROE | 16.52% |
-| SMA200 dist | -16.08% | Revenue (ttm) | $9.45B |
+| SMA20 dist | -26.97% | ROA | 4.12% |
+| SMA50 dist | -33.66% | ROE | 16.52% |
+| SMA200 dist | -16.59% | Revenue (ttm) | $9.45B |
 | 52W high | $316.28 | Revenue growth y/y | 36.50% |
 | 52W low | $73.66 | Inst. ownership | 81.92% |
-| P/E (ttm) | 51.17 | Insider ownership | 0.50% |
-| Forward P/E | 21.17 | Short float | 3.28% |
+| P/E (ttm) | 50.86 | Insider ownership | 0.50% |
+| Forward P/E | 21.04 | Short float | 3.28% |
 | PEG (trailing) | 0.35 | Avg volume | 23,900,223 |
-| P/S | 14.81 | Employees | 7,480 |
-| P/B | 7.36 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/S | 14.72 | Employees | 7,480 |
+| P/B | 7.31 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

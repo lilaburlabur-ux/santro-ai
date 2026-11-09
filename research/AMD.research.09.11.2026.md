@@ -4,8 +4,8 @@ Signed file: `AMD.research.09.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $513.55 (2026-11-09, ~15-min delayed) |
-| Market cap | $842.28B |
+| Current price | $508.58 (2026-11-09, ~15-min delayed) |
+| Market cap | $834.12B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `AMD.research.09.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +116.05%; price +23.08% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -20.92% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +113.96%; price +21.90% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -21.69% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 16.77%, revenue growth 44.70%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 29.09, EV/Sales 16.06. |
-| Risk level | High | Beta 2.54, ATR 7.5% of price, short float 2.33%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 28.81, EV/Sales 16.06. |
+| Risk level | High | Beta 2.54, ATR 7.6% of price, short float 2.33%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
 
@@ -38,28 +38,28 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 |---|---|---|
 | Nvidia vs. AMD: Why Lisa Su's company is a great alternative for investors | Yahoo Finance Video | 2026-11-09 |
 | Tech stocks rally as Nvidia stock and oil prices fall: AlphaCheck | Yahoo Finance | 2026-11-09 |
-| AMD Lands Key Role in Google's New AI Chip System as Nvidia Rivalry Intensifies | Benzinga Prediction Markets | 2026-11-09 |
-| Unless Nvidia Removes Jensen Huang, the Stock Is Worth Holding | Barrons.com | 2026-11-09 |
+| Google's chip business is on a faster track than Nvidia's own AI boom | Yahoo Finance | 2026-11-09 |
+| Analyzing AMD as a near-term beneficiary of Nvidia’s leadership uncertainty | Investing.com | 2026-11-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $513.55; 52w high $649.42 (-20.92%); 52w low $190.95 (+168.95%) |
-| Trend | +23.08% vs SMA200, -6.25% vs SMA50, -1.86% vs SMA20 |
-| Momentum | RSI(14) 48.3 (neutral) |
-| Volatility | ATR(14) 38.64 (~7.5% of price); beta 2.54 |
-| Setup perspective | -20.92% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $508.58; 52w high $649.42 (-21.69%); 52w low $190.95 (+166.34%) |
+| Trend | +21.90% vs SMA200, -7.14% vs SMA50, -2.76% vs SMA20 |
+| Momentum | RSI(14) 47.7 (neutral) |
+| Volatility | ATR(14) 38.72 (~7.6% of price); beta 2.54 |
+| Setup perspective | -21.69% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +10.0% |
-| Month | -15.5% |
-| Quarter | +8.3% |
-| Half Y | +11.9% |
-| 1Y | +116.1% |
-| YTD | +129.8% |
+| Week | +8.9% |
+| Month | -16.4% |
+| Quarter | +7.2% |
+| Half Y | +10.9% |
+| 1Y | +114.0% |
+| YTD | +127.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Revenue (ttm) | $45.44B | Revenue growth 44.70% y/y |
 | Profitability | Gross 56.00%, operating 21.17%, net 16.77% | ROA 5.90%, ROE 11.96% |
 | Balance sheet | Cash $15.78B, debt $9.21B | Current ratio 2.73, debt/equity 13.47 |
-| Valuation | P/E 109.73, forward P/E 29.09, P/S 18.54, P/B 12.32 | EV/Sales 16.06, EV/EBITDA 65.50 |
+| Valuation | P/E 108.67, forward P/E 28.81, P/S 18.36, P/B 12.20 | EV/Sales 16.06, EV/EBITDA 65.50 |
 | Growth expectations | Earnings growth 93.80%, EPS q/q 95.30% | Analyst mean target $658.53 (48 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Morgan Stanley | 24,286,371 | 1.48% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 29.09, EV/Sales 16.06. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.54, ATR 7.5% of price, short float 2.33%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 28.81, EV/Sales 16.06. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.54, ATR 7.6% of price, short float 2.33%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -111,21 +111,21 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $513.55 | EV/Sales | 16.06 |
-| Market cap | $842.28B | EV/EBITDA | 65.50 |
+| Price | $508.58 | EV/Sales | 16.06 |
+| Market cap | $834.12B | EV/EBITDA | 65.50 |
 | Beta | 2.54 | Gross margin | 56.00% |
-| RSI(14) | 48.3 | Operating margin | 21.17% |
-| ATR(14) | 38.64 | Profit margin | 16.77% |
-| SMA20 dist | -1.86% | ROA | 5.90% |
-| SMA50 dist | -6.25% | ROE | 11.96% |
-| SMA200 dist | +23.08% | Revenue (ttm) | $45.44B |
+| RSI(14) | 47.7 | Operating margin | 21.17% |
+| ATR(14) | 38.72 | Profit margin | 16.77% |
+| SMA20 dist | -2.76% | ROA | 5.90% |
+| SMA50 dist | -7.14% | ROE | 11.96% |
+| SMA200 dist | +21.90% | Revenue (ttm) | $45.44B |
 | 52W high | $649.42 | Revenue growth y/y | 44.70% |
 | 52W low | $190.95 | Inst. ownership | 75.14% |
-| P/E (ttm) | 109.73 | Insider ownership | 0.42% |
-| Forward P/E | 29.09 | Short float | 2.33% |
+| P/E (ttm) | 108.67 | Insider ownership | 0.42% |
+| Forward P/E | 28.81 | Short float | 2.33% |
 | PEG (trailing) | 0.40 | Avg volume | 22,343,507 |
-| P/S | 18.54 | Employees | 31,000 |
-| P/B | 12.32 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/S | 18.36 | Employees | 31,000 |
+| P/B | 12.20 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

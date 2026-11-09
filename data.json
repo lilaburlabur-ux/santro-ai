@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T00:16:03+00:00",
-  "as_of_local": "2026-11-09 00:16:03 UTC",
+  "as_of_utc": "2026-11-09T00:21:08+00:00",
+  "as_of_local": "2026-11-09 00:21:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -27,10 +25,38 @@
           "published": "2026-11-09T00:08:15Z"
         },
         {
-          "title": "Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
-          "url": "https://finance.yahoo.com/news/trump-calls-nvidias-huang-honorable-235313095.html",
-          "publisher": "Reuters",
-          "published": "2026-11-08T23:53:13Z"
+          "title": "David Sacks Warns the AI Data Center Pipeline Could Dry Up. Here\u2019s What\u2019s at Stake",
+          "url": "https://finance.yahoo.com/technology/ai/articles/david-sacks-warns-ai-data-000749171.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-09T00:07:49Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 375.44,
+      "previous_close": 353.1,
+      "change_pct": 6.33,
+      "market_cap": 1947209816103.01,
+      "headlines": [
+        {
+          "title": "This Stock Is a Nearly Guaranteed Winner From the AI Infrastructure Buildout",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-nearly-guaranteed-winner-ai-184200917.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T18:42:00Z"
+        },
+        {
+          "title": "AI stock selloff drives investors to China, India, and overlooked Asian sectors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-selloff-drives-investors-013045557.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-08T01:30:45Z"
+        },
+        {
+          "title": "TSMC Stock And 2 AI Infrastructure Shares Riding The AGI Spending Wave",
+          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-stock-2-ai-infrastructure-002240662.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-08T00:22:40Z"
         }
       ]
     },
@@ -43,6 +69,12 @@
       "market_cap": 1401967366706.2197,
       "headlines": [
         {
+          "title": "David Sacks Warns the AI Data Center Pipeline Could Dry Up. Here\u2019s What\u2019s at Stake",
+          "url": "https://finance.yahoo.com/technology/ai/articles/david-sacks-warns-ai-data-000749171.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-09T00:07:49Z"
+        },
+        {
           "title": "AMD or Nvidia: Which AI Chip Stock Would I Buy With $1,000 Today?",
           "url": "https://finance.yahoo.com/technology/ai/articles/amd-nvidia-ai-chip-stock-230500464.html",
           "publisher": "Motley Fool",
@@ -53,12 +85,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-895-billion-ai-gamble-162041094.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-08T16:20:41Z"
-        },
-        {
-          "title": "America\u2019s AI Spending Boom Just Crossed a Staggering $1 Trillion Milestone",
-          "url": "https://finance.yahoo.com/technology/ai/articles/america-ai-spending-boom-just-161533505.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-08T16:15:33Z"
         }
       ]
     },
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -10.44,
-          "price": 1132000.0,
+          "change_pct": -0.44,
+          "price": 1127000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -6.35,
-          "price": 188700.0,
+          "change_pct": 0.16,
+          "price": 189000.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -2.22,
-          "price": 8322.0,
+          "change_pct": -2.01,
+          "price": 8340.0,
           "currency": "JPY"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -10.44,
-        "price": 1132000.0,
+        "change_pct": -0.44,
+        "price": 1127000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -6.35,
-        "price": 188700.0,
+        "change_pct": 0.16,
+        "price": 189000.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -2.22,
-        "price": 8322.0,
+        "change_pct": -2.01,
+        "price": 8340.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 74999.99,
-      "change_pct": -0.99
+      "price": 74627.06,
+      "change_pct": -1.48
     },
     {
       "label": "Gold",
-      "price": 4074.6,
-      "change_pct": -0.01
+      "price": 4080.4,
+      "change_pct": 0.13
     },
     {
       "label": "Nasdaq100",

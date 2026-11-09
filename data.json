@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-09T12:35:34+00:00",
-  "as_of_local": "2026-11-09 12:35:34 UTC",
+  "as_of_utc": "2026-11-09T12:40:36+00:00",
+  "as_of_local": "2026-11-09 12:40:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -47,16 +47,16 @@
           "published": "2026-11-09T12:13:00Z"
         },
         {
+          "title": "Micron Stock Gets Some Relief as This Big Threat Got Kicked Into the Long Grass",
+          "url": "https://www.barrons.com/articles/micron-stock-price-threat-memory-e04a2bf1?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-09T12:07:00Z"
+        },
+        {
           "title": "Nvidia stock falls as Jensen Huang faces unexpected probe",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-falls-jensen-huang-112116598.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-09T11:21:16Z"
-        },
-        {
-          "title": "11 ETFs Add to Taiwan Semiconductor (TSM) on Thursday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/11-etfs-add-taiwan-semiconductor-110059682.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-09T11:00:59Z"
         }
       ]
     },
@@ -97,6 +97,12 @@
       "market_cap": 780682016280.0,
       "headlines": [
         {
+          "title": "Micron Stock Gets Some Relief as This Big Threat Got Kicked Into the Long Grass",
+          "url": "https://www.barrons.com/articles/micron-stock-price-threat-memory-e04a2bf1?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-09T12:07:00Z"
+        },
+        {
           "title": "AI Chips Today - AI Tech Leaders Gather to Define Future Innovation",
           "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-today-ai-tech-113730173.html",
           "publisher": "Simply Wall St.",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-nasdaq-100-etf-qqqm-110526325.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-09T11:05:26Z"
-        },
-        {
-          "title": "Proshares Trust (TQQQ) Buys $83.0 Million More Apple on Thursday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/proshares-trust-tqqq-buys-83-110500104.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-09T11:05:00Z"
         }
       ]
     },
@@ -137,10 +137,10 @@
           "published": "2026-11-09T12:15:22Z"
         },
         {
-          "title": "Morning Bid: I spy AI",
-          "url": "https://finance.yahoo.com/news/morning-bid-spy-ai-113635980.html",
-          "publisher": "Reuters",
-          "published": "2026-11-09T11:36:35Z"
+          "title": "Nvidia, AMD, Intel, Berkshire Hathaway, and More Stocks That Explain Today\u2019s Market",
+          "url": "https://www.barrons.com/articles/stock-movers-d80c8da0?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-09T11:42:00Z"
         }
       ]
     },
@@ -165,10 +165,10 @@
           "published": "2026-11-09T12:15:22Z"
         },
         {
-          "title": "Jensen Huang just handed Wall Street its first $4.5 trillion CEO scandal",
-          "url": "https://finance.yahoo.com/markets/article/jensen-huang-just-handed-wall-street-its-first-45-trillion-ceo-scandal-094803359.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-09T09:48:03Z"
+          "title": "Nvidia, AMD, Intel, Berkshire Hathaway, and More Stocks That Explain Today\u2019s Market",
+          "url": "https://www.barrons.com/articles/stock-movers-d80c8da0?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-09T11:42:00Z"
         }
       ]
     },
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": null,
-      "change_pct": 0.0,
+      "price": 39.29,
+      "change_pct": 6.16,
       "holdings": [
         {
           "symbol": "MU",
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 9.96,
-          "price": 132.5,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "TWD"
         }
       ]
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": null,
-    "change_pct": 0.0,
+    "price": 39.29,
+    "change_pct": 6.16,
     "holdings": [
       {
         "symbol": "MU",
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 9.96,
-        "price": 132.5,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 74790.93,
-      "change_pct": 0.28
+      "price": 74800.13,
+      "change_pct": 0.29
     },
     {
       "label": "Gold",
-      "price": 4121.9,
-      "change_pct": 1.15
+      "price": 4123.5,
+      "change_pct": 1.19
     },
     {
       "label": "Nasdaq100",

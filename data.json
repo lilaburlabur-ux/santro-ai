@@ -1,18 +1,44 @@
 {
-  "as_of_utc": "2026-11-09T20:53:11+00:00",
-  "as_of_local": "2026-11-09 20:53:11 UTC",
+  "as_of_utc": "2026-11-09T20:58:12+00:00",
+  "as_of_local": "2026-11-09 20:58:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 178.88,
+      "previous_close": 186.64,
+      "change_pct": -4.16,
+      "market_cap": 4319379000961.3037,
+      "headlines": [
+        {
+          "title": "Nvidia CEO Jensen Huang's affair with a reported Chinese spy damages this key investing factor",
+          "url": "https://finance.yahoo.com/technology/article/nvidia-ceo-jensen-huangs-affair-with-a-reported-chinese-spy-damages-this-key-investing-factor-201922852.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-09T20:19:22Z"
+        },
+        {
+          "title": "A closer look at a firm tied to Nvidia\u2019s chip scandal: Megaspeed",
+          "url": "https://finance.yahoo.com/video/a-closer-look-at-a-firm-tied-to-nvidias-chip-scandal-megaspeed-192158390.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-09T19:21:58Z"
+        },
+        {
+          "title": "Why Jensen Huang wants to keep China on Nvidia chips",
+          "url": "https://finance.yahoo.com/video/why-jensen-huang-wants-to-keep-china-on-nvidia-chips-190019440.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-09T19:00:19Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 390.28,
+      "price": 389.89,
       "previous_close": 375.44,
-      "change_pct": 3.95,
-      "market_cap": 2023788022600.0696,
+      "change_pct": 3.85,
+      "market_cap": 2022154428902.3105,
       "headlines": [
         {
           "title": "Micron Soars 5% as TSMC Sticks to the \u201cGlobal Logic IC\u201d Industry, Not Memory",
@@ -37,10 +63,10 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 320.17,
+      "price": 319.64,
       "previous_close": 293.69,
-      "change_pct": 9.02,
-      "market_cap": 1528802747182.3792,
+      "change_pct": 8.83,
+      "market_cap": 1525819228516.7542,
       "headlines": [
         {
           "title": "Unless Nvidia Removes Jensen Huang, the Stock Is Worth Holding",
@@ -65,10 +91,10 @@
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 508.82,
+      "price": 509.7,
       "previous_close": 449.04,
-      "change_pct": 13.31,
-      "market_cap": 834599399852.625,
+      "change_pct": 13.51,
+      "market_cap": 835949989280.7556,
       "headlines": [
         {
           "title": "Nvidia vs. AMD: Why Lisa Su's company is a great alternative for investors",
@@ -93,10 +119,10 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 732.41,
+      "price": 733.41,
       "previous_close": 690.0,
-      "change_pct": 6.15,
-      "market_cap": 828609086966.7378,
+      "change_pct": 6.29,
+      "market_cap": 829797067528.0193,
       "headlines": [
         {
           "title": "Is Micron a Millionaire-Maker Stock?",
@@ -121,10 +147,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 59.38,
+      "price": 59.43,
       "previous_close": 56.28,
-      "change_pct": 5.52,
-      "market_cap": 315631266078.949,
+      "change_pct": 5.6,
+      "market_cap": 315870451622.0093,
       "headlines": [
         {
           "title": "Intel took 25 years to get back to its dot-com peak \u2014 and lost it in 6 months: Chart of the Day",
@@ -149,10 +175,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 186.46,
+      "price": 186.71,
       "previous_close": 174.62,
-      "change_pct": 6.78,
-      "market_cap": 199617058563.23242,
+      "change_pct": 6.92,
+      "market_cap": 199779707183.8379,
       "headlines": [
         {
           "title": "Intel took 25 years to get back to its dot-com peak \u2014 and lost it in 6 months: Chart of the Day",
@@ -177,10 +203,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 171.9,
+      "price": 171.74,
       "previous_close": 165.41,
-      "change_pct": 3.92,
-      "market_cap": 184040000000.0,
+      "change_pct": 3.83,
+      "market_cap": 183761805877.68555,
       "headlines": [
         {
           "title": "Did Jensen Huang know? Nvidia's CEO and an alleged spy",
@@ -205,10 +231,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 154.05,
+      "price": 153.89,
       "previous_close": 141.2,
-      "change_pct": 9.1,
-      "market_cap": 138698905218.56488,
+      "change_pct": 8.99,
+      "market_cap": 138464971031.8065,
       "headlines": [
         {
           "title": "Why Marvell Technology Stock Fell Hard in October",
@@ -233,10 +259,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 258.06,
+      "price": 257.04,
       "previous_close": 248.29,
-      "change_pct": 3.93,
-      "market_cap": 65064962014.50244,
+      "change_pct": 3.52,
+      "market_cap": 64787702189.29309,
       "headlines": [
         {
           "title": "What Could Send Texas Instruments Stock Soaring?",
@@ -261,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 114.0,
+      "price": 114.17,
       "previous_close": 105.02,
-      "change_pct": 8.55,
-      "market_cap": 16215151334.736855,
+      "change_pct": 8.71,
+      "market_cap": 16237906881.046982,
       "headlines": [
         {
           "title": "ETFs Are Net Sellers of Lattice Semiconductor (LSCC) on Tuesday",
@@ -289,10 +315,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 126.82,
+      "price": 126.98,
       "previous_close": 112.76,
-      "change_pct": 12.46,
-      "market_cap": 6444827448.2039795,
+      "change_pct": 12.61,
+      "market_cap": 6453212910.561722,
       "headlines": [
         {
           "title": "Why Drone Maker AeroVironment\u2019s Stock Is Rocketing on This Sub-$1 Billion Deal",
@@ -317,10 +343,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 117.43,
+      "price": 117.45,
       "previous_close": 116.7,
-      "change_pct": 0.63,
-      "market_cap": 4665518179.466553,
+      "change_pct": 0.64,
+      "market_cap": 4666114082.958191,
       "headlines": [
         {
           "title": "SYNA Q1 Earnings Beat Estimates, Revenues Miss on Weak Demand",
@@ -345,10 +371,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 24.48,
+      "price": 24.4,
       "previous_close": 27.1,
-      "change_pct": -9.67,
-      "market_cap": 688702113.8760223,
+      "change_pct": -9.96,
+      "market_cap": 686959346.0600739,
       "headlines": [
         {
           "title": "CEVA (CEVA) Q3 2026 Earnings Call Transcript",
@@ -375,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 41.87,
-      "change_pct": 6.57,
+      "price": 41.85,
+      "change_pct": 6.52,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 6.15,
-          "price": 732.41,
+          "change_pct": 6.29,
+          "price": 733.41,
           "currency": "USD"
         },
         {
@@ -419,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 6.14,
-          "price": 886.36,
+          "change_pct": 6.12,
+          "price": 886.18,
           "currency": "USD"
         },
         {
@@ -428,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 10.46,
-          "price": 509.22,
+          "change_pct": 10.03,
+          "price": 507.23,
           "currency": "USD"
         },
         {
@@ -437,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 9.94,
-          "price": 289.99,
+          "change_pct": 9.79,
+          "price": 289.61,
           "currency": "USD"
         },
         {
@@ -465,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 41.87,
-    "change_pct": 6.57,
+    "price": 41.85,
+    "change_pct": 6.52,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 6.15,
-        "price": 732.41,
+        "change_pct": 6.29,
+        "price": 733.41,
         "currency": "USD"
       },
       {
@@ -509,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 6.14,
-        "price": 886.36,
+        "change_pct": 6.12,
+        "price": 886.18,
         "currency": "USD"
       },
       {
@@ -518,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 10.46,
-        "price": 509.22,
+        "change_pct": 10.03,
+        "price": 507.23,
         "currency": "USD"
       },
       {
@@ -527,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 9.94,
-        "price": 289.99,
+        "change_pct": 9.79,
+        "price": 289.61,
         "currency": "USD"
       },
       {
@@ -554,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7559.79,
-      "change_pct": 2.48
+      "price": 7555.2,
+      "change_pct": 2.42
     },
     {
       "label": "BTC",
-      "price": 74765.04,
-      "change_pct": 0.24
+      "price": 74806.22,
+      "change_pct": 0.3
     },
     {
       "label": "Gold",
-      "price": 4148.6,
-      "change_pct": 1.81
+      "price": 4149.5,
+      "change_pct": 1.83
     },
     {
       "label": "Nasdaq100",
-      "price": 27953.89,
-      "change_pct": 3.57
+      "price": 27933.57,
+      "change_pct": 3.5
     }
   ]
 }

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T05:16:53+00:00",
-  "as_of_local": "2026-11-09 05:16:53 UTC",
+  "as_of_utc": "2026-11-09T05:31:48+00:00",
+  "as_of_local": "2026-11-09 05:31:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -21,16 +19,16 @@
           "published": "2026-11-08T20:51:22Z"
         },
         {
-          "title": "Nvidia's out-of-hour shares fall as firm probes CEO Jensen Huang",
-          "url": "https://finance.yahoo.com/technology/articles/south-korea-says-nvidia-issues-022650481.html",
-          "publisher": "Reuters",
-          "published": "2026-11-09T05:05:07Z"
+          "title": "Nvidia Slips 3% Overnight as Board Probes Jensen Huang: \u201cNo Reason to Believe\u201d Secrets Were Compromised",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-slips-3-overnight-board-052125033.html",
+          "publisher": "TIKR",
+          "published": "2026-11-09T05:21:25Z"
         },
         {
-          "title": "Reactions to Nvidia's probe into CEO Jensen Huang",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/reactions-nvidias-probe-ceo-jensen-045103166.html",
-          "publisher": "Reuters",
-          "published": "2026-11-09T05:00:53Z"
+          "title": "AMD vs. Intel: Which Is the Better AI Chip Stock to Own for the Next 3 Years Following the Semiconductor Crash?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/amd-vs-intel-better-ai-052000770.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09T05:20:00Z"
         }
       ]
     },
@@ -119,6 +117,34 @@
       ]
     },
     {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 449.04,
+      "previous_close": 404.4,
+      "change_pct": 11.04,
+      "market_cap": 736464793203.4574,
+      "headlines": [
+        {
+          "title": "AMD vs. Intel: Which Is the Better AI Chip Stock to Own for the Next 3 Years Following the Semiconductor Crash?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/amd-vs-intel-better-ai-052000770.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09T05:20:00Z"
+        },
+        {
+          "title": "Dow, S&P 500, Nasdaq Futures Rebound After Sharp AI Selloff Last Week: NVDA, AMD, VIR, SNDK In Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-034814953.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-09T03:48:14Z"
+        },
+        {
+          "title": "AMD, AVGO, INTC, MU: Chip Stocks Inch Higher As Investors Look Past Midterms-Led Selloff, Nvidia Controversy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-avgo-intc-mu-chip-033424805.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-09T03:34:24Z"
+        }
+      ]
+    },
+    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 56.28,
@@ -126,6 +152,12 @@
       "change_pct": 7.71,
       "market_cap": 299128193511.9629,
       "headlines": [
+        {
+          "title": "AMD vs. Intel: Which Is the Better AI Chip Stock to Own for the Next 3 Years Following the Semiconductor Crash?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/amd-vs-intel-better-ai-052000770.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09T05:20:00Z"
+        },
         {
           "title": "AMD, AVGO, INTC, MU: Chip Stocks Inch Higher As Investors Look Past Midterms-Led Selloff, Nvidia Controversy",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-avgo-intc-mu-chip-033424805.html",
@@ -137,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/government-37-billion-intel-round-224600798.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-08T22:46:00Z"
-        },
-        {
-          "title": "Intel Stock Faces a New Threat That No One Saw Coming",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-faces-threat-no-203003260.html",
-          "publisher": "Barchart",
-          "published": "2026-11-08T20:30:03Z"
         }
       ]
     },
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 3.09,
-          "price": 1167000.0,
+          "change_pct": 2.03,
+          "price": 1155000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 1.91,
-          "price": 192300.0,
+          "change_pct": 1.27,
+          "price": 191100.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 1.32,
-          "price": 8623.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "JPY"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 9.17,
-          "price": 375.0,
+          "change_pct": 8.59,
+          "price": 373.0,
           "currency": "TWD"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 3.09,
-        "price": 1167000.0,
+        "change_pct": 2.03,
+        "price": 1155000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 1.91,
-        "price": 192300.0,
+        "change_pct": 1.27,
+        "price": 191100.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 1.32,
-        "price": 8623.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "JPY"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 9.17,
-        "price": 375.0,
+        "change_pct": 8.59,
+        "price": 373.0,
         "currency": "TWD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 74513.01,
-      "change_pct": -1.63
+      "price": 74394.05,
+      "change_pct": -1.79
     },
     {
       "label": "Gold",
-      "price": 4131.9,
-      "change_pct": 1.4
+      "price": 4132.9,
+      "change_pct": 1.42
     },
     {
       "label": "Nasdaq100",

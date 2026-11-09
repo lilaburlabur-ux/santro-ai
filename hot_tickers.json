@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-09T00:57:04+00:00",
+  "as_of": "2026-11-09T08:03:23+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,10 +17,10 @@
    "volume_vs_avg": "~2x",
    "heat_score": 73,
    "direction": "up",
-   "why": "AMD or Nvidia: Which AI Chip Stock Would I Buy With $1,000 Today?",
+   "why": "AMD vs. Intel: Which Is the Better AI Chip Stock to Own for the Next 3 Years Following the Semiconductor Crash?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/amd-nvidia-ai-chip-stock-230500464.html",
-   "published": "2026-11-08T23:05:00+00:00",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/amd-vs-intel-better-ai-052000770.html",
+   "published": "2026-11-09T05:20:00+00:00",
    "sector": "AI Chips & Compute"
   },
   {
@@ -33,10 +33,10 @@
    "volume_vs_avg": "~1.1x",
    "heat_score": 61,
    "direction": "up",
-   "why": "Tesla Bulls Could Get Burned? Gary Black Sees Trouble With SpaceX All-Stock Merger: Warns 24% Premium 'Can Quickly Go Negative'",
-   "catalyst_type": "mna",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/tesla-bulls-could-burned-gary-223005762.html",
-   "published": "2026-11-08T22:30:05+00:00",
+   "why": "Elon Musk Blasts California\u2019s \u2018Extreme Taxes,\u2019 Offers To Axe SpaceX Govt Deals \u2014 Analysts See A Political Dip-Buy",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-blasts-california-extreme-070629268.html",
+   "published": "2026-11-09T07:06:29+00:00",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
@@ -49,27 +49,27 @@
    "volume_vs_avg": "~1.4x",
    "heat_score": 49,
    "direction": "up",
-   "why": "The Government\u2019s $37 Billion Intel Round Trip Is a Warning for Anyone Who Still Holds the Stock",
+   "why": "AMD vs. Intel: Which Is the Better AI Chip Stock to Own for the Next 3 Years Following the Semiconductor Crash?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/government-37-billion-intel-round-224600798.html",
-   "published": "2026-11-08T22:46:00+00:00",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/amd-vs-intel-better-ai-052000770.html",
+   "published": "2026-11-09T05:20:00+00:00",
    "sector": "AI Chips & Compute"
   },
   {
    "rank": 4,
-   "ticker": "ASML",
-   "company": "ASML Holding NV",
-   "move_pct": 5.02,
-   "price": 1424.75,
-   "volume": 1903600,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 39,
+   "ticker": "MU",
+   "company": "Micron Technology Inc",
+   "move_pct": 5.12,
+   "price": 690.0,
+   "volume": 44765100,
+   "volume_vs_avg": "~2x",
+   "heat_score": 41,
    "direction": "up",
-   "why": "Why ASML Holdings Fell in October",
+   "why": "Micron Technology And 2 High Growth Stocks To Watch",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-asml-holdings-fell-october-213035676.html",
-   "published": "2026-11-08T21:30:35+00:00",
-   "sector": "Chip Equipment & AI Hardware"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-2-high-growth-042757242.html",
+   "published": "2026-11-09T04:27:57+00:00",
+   "sector": "AI Chips & Compute"
   }
  ]
 }

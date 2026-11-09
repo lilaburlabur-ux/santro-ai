@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-09T00:11:00+00:00",
-  "as_of_local": "2026-11-09 00:11:00 UTC",
+  "as_of_utc": "2026-11-09T00:16:03+00:00",
+  "as_of_local": "2026-11-09 00:16:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -22,41 +24,13 @@
           "title": "Dow Jones Futures Rise, Techs Slide A Nvidia Probes CEO Jensen Huang Spying Case",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-probes-ceo-jensen-huang-espionage/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-08T23:59:57Z"
+          "published": "2026-11-09T00:08:15Z"
         },
         {
           "title": "Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
           "url": "https://finance.yahoo.com/news/trump-calls-nvidias-huang-honorable-235313095.html",
           "publisher": "Reuters",
           "published": "2026-11-08T23:53:13Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 375.44,
-      "previous_close": 353.1,
-      "change_pct": 6.33,
-      "market_cap": 1947209816103.01,
-      "headlines": [
-        {
-          "title": "This Stock Is a Nearly Guaranteed Winner From the AI Infrastructure Buildout",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-nearly-guaranteed-winner-ai-184200917.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T18:42:00Z"
-        },
-        {
-          "title": "AI stock selloff drives investors to China, India, and overlooked Asian sectors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-selloff-drives-investors-013045557.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-08T01:30:45Z"
-        },
-        {
-          "title": "TSMC Stock And 2 AI Infrastructure Shares Riding The AGI Spending Wave",
-          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-stock-2-ai-infrastructure-002240662.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-08T00:22:40Z"
         }
       ]
     },
@@ -100,7 +74,7 @@
           "title": "Dow Jones Futures Rise, Techs Slide A Nvidia Probes CEO Jensen Huang Spying Case",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-probes-ceo-jensen-huang-espionage/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-08T23:59:57Z"
+          "published": "2026-11-09T00:08:15Z"
         },
         {
           "title": "3 Growth Stocks With Earnings Growth Over 20%",
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -8.72,
-          "price": 8511.0,
+          "change_pct": -2.22,
+          "price": 8322.0,
           "currency": "JPY"
         },
         {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -8.72,
-        "price": 8511.0,
+        "change_pct": -2.22,
+        "price": 8322.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 74743.09,
-      "change_pct": -1.33
+      "price": 74999.99,
+      "change_pct": -0.99
     },
     {
       "label": "Gold",
-      "price": 4067.5,
-      "change_pct": -0.18
+      "price": 4074.6,
+      "change_pct": -0.01
     },
     {
       "label": "Nasdaq100",

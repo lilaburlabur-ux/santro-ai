@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-09T10:23:19+00:00",
-  "as_of_local": "2026-11-09 10:23:19 UTC",
+  "as_of_utc": "2026-11-09T10:28:43+00:00",
+  "as_of_local": "2026-11-09 10:28:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEVA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -367,34 +369,6 @@
           "published": "2026-11-05T23:07:15Z"
         }
       ]
-    },
-    {
-      "symbol": "CEVA",
-      "name": "CEVA",
-      "price": 27.1,
-      "previous_close": 24.56,
-      "change_pct": 10.34,
-      "market_cap": 762975361.9399261,
-      "headlines": [
-        {
-          "title": "Affirm Holdings (AFRM) Q1 Earnings and Revenues Beat Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/affirm-holdings-afrm-q1-earnings-212002246.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T21:20:02Z"
-        },
-        {
-          "title": "Has Cadence Stock Fallen Like This Before?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cadence-stock-fallen-134946577.html",
-          "publisher": "Trefis",
-          "published": "2026-11-04T13:49:46Z"
-        },
-        {
-          "title": "CEVA (CEVA) Stock Fair Value Falls After Analysts Trim Targets Despite AI Licensing Progress",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-ceva-stock-fair-value-032213043.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-04T03:22:13Z"
-        }
-      ]
     }
   ],
   "etfs": [
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 74090.71,
-      "change_pct": -0.66
+      "price": 74155.28,
+      "change_pct": -0.58
     },
     {
       "label": "Gold",
-      "price": 4107.8,
-      "change_pct": 0.81
+      "price": 4106.3,
+      "change_pct": 0.77
     },
     {
       "label": "Nasdaq100",

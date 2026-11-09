@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T12:10:21+00:00",
-  "as_of_local": "2026-11-09 12:10:21 UTC",
+  "as_of_utc": "2026-11-09T12:15:22+00:00",
+  "as_of_local": "2026-11-09 12:15:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SYNA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -183,6 +181,12 @@
       "market_cap": 186843394775.39062,
       "headlines": [
         {
+          "title": "Is Arm Stock a Buy on the Dip as Agentic AI Opportunity Emerges?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-buy-dip-agentic-120500951.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09T12:05:00Z"
+        },
+        {
           "title": "Nasdaq Rises After Brutal 19-Month Rout",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-rises-brutal-19-month-113219655.html",
           "publisher": "GuruFocus.com",
@@ -193,12 +197,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/arm-qualcomm-lead-mobile-chip-095200481.html",
           "publisher": "Motley Fool",
           "published": "2026-11-09T09:52:00Z"
-        },
-        {
-          "title": "Intel, Arm, and Marvell Have Each Been Cut in Half Since June. Only 1 Is a Stock I'd Buy Now.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-arm-marvell-cut-half-085802797.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T08:58:02Z"
         }
       ]
     },
@@ -211,6 +209,12 @@
       "market_cap": 176988703918.45703,
       "headlines": [
         {
+          "title": "OpenAI's Hail Mary: GPT-6.2 Astra and a $1.25 trillion bet",
+          "url": "https://finance.yahoo.com/video/openais-hail-mary-gpt-6-120000784.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-09T12:00:00Z"
+        },
+        {
           "title": "Nasdaq Rises After Brutal 19-Month Rout",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-rises-brutal-19-month-113219655.html",
           "publisher": "GuruFocus.com",
@@ -221,12 +225,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-keeps-massive-spacex-bet-111823968.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-09T11:18:23Z"
-        },
-        {
-          "title": "Qualcomm (QCOM) Sees $28.3 Million in Net ETF Buying on Nov. 5",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-sees-28-3-110130200.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-09T11:01:30Z"
         }
       ]
     },
@@ -339,6 +337,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ondas-surges-15-drone-stocks-180530952.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-06T18:05:30Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SYNA",
+      "name": "Synaptics",
+      "price": 116.7,
+      "previous_close": 116.4,
+      "change_pct": 0.26,
+      "market_cap": 4636317695.958191,
+      "headlines": [
+        {
+          "title": "SYNA Q1 Earnings Beat Estimates, Revenues Miss on Weak Demand",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/syna-q1-earnings-beat-estimates-152400592.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T15:24:00Z"
+        },
+        {
+          "title": "Synaptics (SYNA) Tops Q1 Earnings Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-tops-q1-earnings-000013395.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T00:00:13Z"
+        },
+        {
+          "title": "Synaptics: Fiscal Q1 Earnings Snapshot",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-fiscal-q1-earnings-snapshot-230715396.html",
+          "publisher": "Associated Press",
+          "published": "2026-11-05T23:07:15Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 74381.5,
-      "change_pct": -0.27
+      "price": 74402.85,
+      "change_pct": -0.24
     },
     {
       "label": "Gold",
-      "price": 4116.3,
-      "change_pct": 1.02
+      "price": 4117.2,
+      "change_pct": 1.04
     },
     {
       "label": "Nasdaq100",

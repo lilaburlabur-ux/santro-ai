@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-09T21:28:42+00:00",
-  "as_of_local": "2026-11-09 21:28:42 UTC",
+  "as_of_utc": "2026-11-09T21:33:47+00:00",
+  "as_of_local": "2026-11-09 21:33:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -109,10 +109,10 @@
           "published": "2026-11-09T15:22:08Z"
         },
         {
-          "title": "Lisa Su Called the Market \u2018Short-Sighted\u2019 as AMD Crashed 17%. Two Sessions Later the Stock Has It All Back",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lisa-su-called-market-short-211745593.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-09T21:17:45Z"
+          "title": "AMD's biggest AI deals come with a 320 million share catch",
+          "url": "https://finance.yahoo.com/technology/ai/articles/amds-biggest-ai-deals-come-212300836.html",
+          "publisher": "TheStreet",
+          "published": "2026-11-09T21:23:00Z"
         }
       ]
     },
@@ -377,6 +377,12 @@
       "market_cap": 699347152.7759705,
       "headlines": [
         {
+          "title": "CEVA Inc (CEVA) Q3 2026 Earnings Call Highlights: Record AI Licensing and Highest-Ever Q4 ...",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ceva-inc-ceva-q3-2026-210723225.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-09T21:07:23Z"
+        },
+        {
           "title": "CEVA (CEVA) Q3 2026 Earnings Call Transcript",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-ceva-q3-2026-earnings-192814949.html",
           "publisher": "Motley Fool",
@@ -387,12 +393,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-q3-earnings-call-highlights-161510053.html",
           "publisher": "MarketBeat",
           "published": "2026-11-09T16:15:10Z"
-        },
-        {
-          "title": "Ceva (CEVA) Lags Q3 Earnings and Revenue Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-ceva-lags-q3-earnings-122501674.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T12:25:01Z"
         }
       ]
     }
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -10.44,
-          "price": 1132000.0,
+          "change_pct": 0.35,
+          "price": 1136000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -6.35,
-          "price": 188700.0,
+          "change_pct": 0.64,
+          "price": 189900.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -8.72,
-          "price": 8511.0,
+          "change_pct": -2.46,
+          "price": 8302.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -4.58,
-          "price": 343.5,
+          "change_pct": 7.71,
+          "price": 370.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -5.49,
-          "price": 120.5,
+          "change_pct": 9.96,
+          "price": 132.5,
           "currency": "TWD"
         }
       ]
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -10.44,
-        "price": 1132000.0,
+        "change_pct": 0.35,
+        "price": 1136000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -6.35,
-        "price": 188700.0,
+        "change_pct": 0.64,
+        "price": 189900.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -8.72,
-        "price": 8511.0,
+        "change_pct": -2.46,
+        "price": 8302.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -4.58,
-        "price": 343.5,
+        "change_pct": 7.71,
+        "price": 370.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -5.49,
-        "price": 120.5,
+        "change_pct": 9.96,
+        "price": 132.5,
         "currency": "TWD"
       }
     ]
@@ -585,12 +585,12 @@
     },
     {
       "label": "BTC",
-      "price": 74787.78,
-      "change_pct": 0.27
+      "price": 74887.27,
+      "change_pct": 0.41
     },
     {
       "label": "Gold",
-      "price": 4147.8,
+      "price": 4148.0,
       "change_pct": 1.79
     },
     {

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T22:24:47+00:00",
-  "as_of_local": "2026-11-09 22:24:47 UTC",
+  "as_of_utc": "2026-11-09T22:29:53+00:00",
+  "as_of_local": "2026-11-09 22:29:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -127,6 +125,12 @@
       "market_cap": 829502955500.437,
       "headlines": [
         {
+          "title": "Micron Technology: Is the Stock a No-Brainer Buy at Less Than $740?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-stock-no-brainer-222002593.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09T22:20:02Z"
+        },
+        {
           "title": "Nvidia stock sinks 4% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy",
           "url": "https://finance.yahoo.com/markets/article/nvidia-stock-sinks-as-chipmaker-investigates-ceo-jensen-huangs-relationship-with-alleged-chinese-spy-130346548.html",
           "publisher": "Yahoo Finance",
@@ -137,12 +141,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-millionaire-maker-stock-195000655.html",
           "publisher": "Motley Fool",
           "published": "2026-11-09T19:50:00Z"
-        },
-        {
-          "title": "Micron Soars 5% as TSMC Sticks to the \u201cGlobal Logic IC\u201d Industry, Not Memory",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-soars-5-tsmc-sticks-193554868.html",
-          "publisher": "TIKR",
-          "published": "2026-11-09T19:35:54Z"
         }
       ]
     },
@@ -171,6 +169,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-just-eased-wall-street-160339772.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-09T16:03:39Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 186.3,
+      "previous_close": 174.62,
+      "change_pct": 6.69,
+      "market_cap": 199341003265.38086,
+      "headlines": [
+        {
+          "title": "Intel took 25 years to get back to its dot-com peak \u2014 and lost it in 6 months: Chart of the Day",
+          "url": "https://finance.yahoo.com/markets/article/intel-took-25-years-to-get-back-to-its-dot-com-peak--and-lost-it-in-6-months-chart-of-the-day-144715722.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-09T14:47:15Z"
+        },
+        {
+          "title": "Investors Are Chasing AI Chips. This Company Is Playing a Different Game",
+          "url": "https://finance.yahoo.com/technology/ai/articles/investors-chasing-ai-chips-company-143305326.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-09T14:33:05Z"
+        },
+        {
+          "title": "Is Arm Stock a Buy on the Dip as Agentic AI Opportunity Emerges?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-buy-dip-agentic-120500951.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09T12:05:00Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 74957.38,
-      "change_pct": 0.5
+      "price": 74944.81,
+      "change_pct": 0.48
     },
     {
       "label": "Gold",

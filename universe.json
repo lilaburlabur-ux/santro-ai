@@ -18,8 +18,8 @@
    "label": "AI Chips & Compute",
    "color": "#4F8EF7",
    "count": 14,
-   "total_market_cap_b": 9928.42,
-   "avg_change_pct": -1.03,
+   "total_market_cap_b": 9912.2,
+   "avg_change_pct": -1.21,
    "industries_included": [
     "Semiconductors"
    ],
@@ -734,8 +734,8 @@
    "label": "AI Software & Cloud Infrastructure",
    "color": "#9B6BF7",
    "count": 6,
-   "total_market_cap_b": 4790.98,
-   "avg_change_pct": 1.94,
+   "total_market_cap_b": 4787.8,
+   "avg_change_pct": 1.88,
    "industries_included": [
     "Software - Infrastructure"
    ],
@@ -1049,8 +1049,8 @@
    "label": "AI Applications & Data Software",
    "color": "#F7A14F",
    "count": 11,
-   "total_market_cap_b": 972.98,
-   "avg_change_pct": 1.05,
+   "total_market_cap_b": 972.5,
+   "avg_change_pct": 0.99,
    "industries_included": [
     "Software - Application"
    ],
@@ -1353,7 +1353,7 @@
       356.64,
       341.5
      ],
-     "fwd_eps": 26.94
+     "fwd_eps": 26.93
     },
     {
      "ticker": "DDOG",
@@ -1614,8 +1614,8 @@
    "label": "Chip Equipment & AI Hardware",
    "color": "#4FC3D9",
    "count": 13,
-   "total_market_cap_b": 3107.82,
-   "avg_change_pct": 1.52,
+   "total_market_cap_b": 3099.2,
+   "avg_change_pct": 1.24,
    "industries_included": [
     "Communication Equipment",
     "Computer Hardware",
@@ -2284,8 +2284,8 @@
    "label": "AI Platforms, Internet & AdTech",
    "color": "#F75F8E",
    "count": 12,
-   "total_market_cap_b": 13538.81,
-   "avg_change_pct": 1.84,
+   "total_market_cap_b": 13540.8,
+   "avg_change_pct": 1.85,
    "industries_included": [
     "Advertising Agencies",
     "Consumer Electronics",
@@ -2902,8 +2902,8 @@
    "label": "Data Center, Power & Energy",
    "color": "#5FD97A",
    "count": 8,
-   "total_market_cap_b": 402.31,
-   "avg_change_pct": 0.88,
+   "total_market_cap_b": 402.0,
+   "avg_change_pct": 0.81,
    "industries_included": [
     "Electrical Equipment & Parts",
     "Engineering & Construction",
@@ -3322,8 +3322,8 @@
    "label": "Applied AI: Industrial, Defense & Vertical",
    "color": "#D9C84F",
    "count": 14,
-   "total_market_cap_b": 3685.79,
-   "avg_change_pct": 1.42,
+   "total_market_cap_b": 3683.5,
+   "avg_change_pct": 1.36,
    "industries_included": [
     "Aerospace & Defense",
     "Auto Manufacturers",
@@ -4046,8 +4046,8 @@
    "label": "Powering AI",
    "color": "#3BE08F",
    "count": 15,
-   "total_market_cap_b": 657.52,
-   "avg_change_pct": 1.54,
+   "total_market_cap_b": 656.1,
+   "avg_change_pct": 1.31,
    "industries_included": [
     "Electrical Equipment & Parts",
     "Engineering & Construction",
@@ -4318,58 +4318,6 @@
      "fwd_eps": 9.46
     },
     {
-     "ticker": "ETR",
-     "company": "Entergy Corp",
-     "sector": "Utilities",
-     "industry": "Utilities - Regulated Electric",
-     "country": "United States",
-     "market_cap_b": 35.65,
-     "pe": 25.3,
-     "price": 102.05,
-     "change_pct": -7.69,
-     "volume": 4130600,
-     "sub_theme": "grid_utilities",
-     "seed": true,
-     "perf": {
-      "1W": 0.4,
-      "1M": 7.9,
-      "1Y": 16.6
-     },
-     "spark": [
-      108.52,
-      107.96,
-      104.62,
-      106.24,
-      106.49,
-      106.31,
-      106.75,
-      107.27,
-      107.17,
-      105.33,
-      102.92,
-      103.31,
-      101.58,
-      99.23,
-      98.57,
-      99.76,
-      100.4,
-      100.82,
-      102.8,
-      102.8,
-      104.99,
-      103.96,
-      103.8,
-      106.08,
-      107.34,
-      108.43,
-      109.97,
-      109.87,
-      111.9,
-      110.55
-     ],
-     "fwd_eps": 5.11
-    },
-    {
      "ticker": "PEG",
      "company": "Public Service Enterprise Group",
      "sector": "Utilities",
@@ -4420,6 +4368,58 @@
       72.61
      ],
      "fwd_eps": 4.64
+    },
+    {
+     "ticker": "ETR",
+     "company": "Entergy Corp",
+     "sector": "Utilities",
+     "industry": "Utilities - Regulated Electric",
+     "country": "United States",
+     "market_cap_b": 35.65,
+     "pe": 25.3,
+     "price": 102.05,
+     "change_pct": -7.69,
+     "volume": 4130600,
+     "sub_theme": "grid_utilities",
+     "seed": true,
+     "perf": {
+      "1W": 0.4,
+      "1M": 7.9,
+      "1Y": 16.6
+     },
+     "spark": [
+      108.52,
+      107.96,
+      104.62,
+      106.24,
+      106.49,
+      106.31,
+      106.75,
+      107.27,
+      107.17,
+      105.33,
+      102.92,
+      103.31,
+      101.58,
+      99.23,
+      98.57,
+      99.76,
+      100.4,
+      100.82,
+      102.8,
+      102.8,
+      104.99,
+      103.96,
+      103.8,
+      106.08,
+      107.34,
+      108.43,
+      109.97,
+      109.87,
+      111.9,
+      110.55
+     ],
+     "fwd_eps": 5.11
     },
     {
      "ticker": "CCJ",
@@ -5411,7 +5411,7 @@
      "price": 56.3,
      "change_pct": 0.88,
      "volume": 1368100,
-     "fwd_eps": 2.75,
+     "fwd_eps": 2.79,
      "perf": {
       "1W": 21.4,
       "1M": 29.5,
@@ -5758,9 +5758,9 @@
     }
    ],
    "count": 18,
-   "avg_change_pct": 0.98,
-   "total_market_cap_b": 837.28,
-   "pe_harmonic": 115.4,
+   "avg_change_pct": 0.65,
+   "total_market_cap_b": 834.5,
+   "pe_harmonic": 115.0,
    "pe_excluded": 6,
    "industries_included": [
     "Consulting Services",

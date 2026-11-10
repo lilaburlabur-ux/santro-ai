@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-10T11:15:15+00:00",
+  "as_of": "2026-11-10T11:30:37+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,18 +9,34 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "TTD",
+   "company": "Trade Desk Inc",
+   "move_pct": -0.54,
+   "price": 14.85,
+   "volume": 96518300,
+   "volume_vs_avg": "~6x",
+   "heat_score": 48,
+   "direction": "down",
+   "why": "Trade Desk\u2019s Earnings Beat Defies Analysts\u2019 \u2018Lost Year\u2019 Projections",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/m/0aae3af7-cc7f-3af0-af9a-6d803d85246a/trade-desk%E2%80%99s-earnings-beat.html",
+   "published": "2026-11-10T09:54:00+00:00",
+   "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 2,
    "ticker": "NVDA",
    "company": "NVIDIA Corp",
-   "move_pct": 0.35,
-   "price": 179.3,
+   "move_pct": 0.52,
+   "price": 179.6,
    "volume": 459116500,
    "volume_vs_avg": "~4x",
-   "heat_score": 36,
+   "heat_score": 37,
    "direction": "up",
-   "why": "Citigroup Adjusts Price Target on Nvidia to $285 From $315",
+   "why": "Wells Fargo Adjusts Price Target on Nvidia to $300 From $315",
    "catalyst_type": "analyst_action",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-adjusts-price-target-nvidia-103110807.html",
-   "published": "2026-11-10T10:31:10+00:00",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-adjusts-price-target-111000319.html",
+   "published": "2026-11-10T11:10:00+00:00",
    "sector": "AI Chips & Compute"
   }
  ]

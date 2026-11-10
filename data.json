@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-10T22:05:55+00:00",
-  "as_of_local": "2026-11-10 22:05:55 UTC",
+  "as_of_utc": "2026-11-10T22:10:59+00:00",
+  "as_of_local": "2026-11-10 22:10:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVAV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -315,6 +313,34 @@
       ]
     },
     {
+      "symbol": "AVAV",
+      "name": "AeroVironment",
+      "price": 123.5,
+      "previous_close": 126.96,
+      "change_pct": -2.73,
+      "market_cap": 6276356697.0,
+      "headlines": [
+        {
+          "title": "Ondas Retreats 9% Despite Attack Drone Purchase Order Ahead of Earnings; Red Cat Declines 9%, AeroVironment Falls 4%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ondas-retreats-9-despite-attack-185638064.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-10T18:56:38Z"
+        },
+        {
+          "title": "Ondas Plans U.S. Manufacturing Push to Scale ULTRA Aircraft Output",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ondas-plans-u-manufacturing-push-182300667.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T18:23:00Z"
+        },
+        {
+          "title": "Why Drone Maker AeroVironment\u2019s Stock Is Rocketing on This Sub-$1 Billion Deal",
+          "url": "https://www.barrons.com/articles/aerovironment-stock-drone-contract-deal-161ec543?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-09T17:17:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 117.7,
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 73793.2,
-      "change_pct": -1.9
+      "price": 73848.99,
+      "change_pct": -1.83
     },
     {
       "label": "Gold",
-      "price": 4041.6,
-      "change_pct": -1.77
+      "price": 4040.5,
+      "change_pct": -1.8
     },
     {
       "label": "Nasdaq100",

@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Intel took 25 years to get back to its dot-com peak — and lost it in 6 months: Chart of the Day | Yahoo Finance | 2026-11-09 |
+| Amtech, Intel, Applied Materials, AMD, and KLA Corporation shares are soaring, what you need to know | StockStory | 2026-11-10 |
+| Nvidia CEO admits affair as company launches probe into spy claims | CNN Business | 2026-11-10 |
 | Stock Market Today, Nov. 9: AMD Jumps on Oppenheimer Upgrade and Google Cloud Chip Selection | Motley Fool | 2026-11-09 |
-| Jensen Huang just handed Wall Street its first $4.5 trillion CEO scandal | Yahoo Finance | 2026-11-09 |
-| AMD Just Eased Wall Street’s AI Spending Scare. Here’s What It Means for the Stock | 24/7 Wall St. | 2026-11-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

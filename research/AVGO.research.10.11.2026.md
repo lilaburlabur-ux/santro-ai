@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Allegro MicroSystems, IPG Photonics, Lattice Semiconductor, Entegris, and Broadcom shares skyrocket, what you need to know | StockStory | 2026-11-10 |
+| U.S. stock futures steady after tech-led rebound; CPI in focus | Investing.com | 2026-11-10 |
 | ‘Big Short’ Investor Steve Eisman Says OpenAI’s Collapse Could Trigger an Immediate Recession | 24/7 Wall St. | 2026-11-09 |
 | AI infrastructure spending is still accelerating—but can it last? | Yahoo Finance Video | 2026-11-09 |
-| Unless Nvidia Removes Jensen Huang, the Stock Is Worth Holding | Barrons.com | 2026-11-09 |
-| Josh Brown: If Nvidia’s Earnings Come In “5% Lower,” the Stock “Could Fall 40%” | TIKR | 2026-11-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

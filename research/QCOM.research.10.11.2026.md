@@ -38,8 +38,8 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 |---|---|---|
 | Did Jensen Huang know? Nvidia's CEO and an alleged spy | Yahoo Finance Video | 2026-11-09 |
 | OpenAI's Hail Mary: GPT-6.2 Astra and a $1.25 trillion bet | Yahoo Finance Video | 2026-11-09 |
+| Qualcomm, Impinj, Power Integrations, and Kulicke and Soffa shares are soaring, what you need to know | StockStory | 2026-11-10 |
 | Is a Continued Rebound in SpaceX Stock Imminent After Musk's Lofty Revenue Forecast? | Zacks | 2026-11-09 |
-| As Non-Handset Revenue Grows, Qualcomm Is Positioned for Recovery | Barchart | 2026-11-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $43.12B | Revenue growth -8.40% y/y |
 | Profitability | Gross 53.10%, operating 15.41%, net 31.61% | ROA 10.13%, ROE 52.81% |
 | Balance sheet | Cash $7.68B, debt $15.99B | Current ratio 1.86, debt/equity 52.60 |
-| Valuation | P/E 13.50, forward P/E 14.04, P/S 4.25, P/B 6.05 | EV/Sales 4.45, EV/EBITDA 18.06 |
+| Valuation | P/E 13.02, forward P/E 14.04, P/S 4.25, P/B 6.05 | EV/Sales 4.45, EV/EBITDA 18.06 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $185.79 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | SMA200 dist | +1.65% | Revenue (ttm) | $43.12B |
 | 52W high | $248.74 | Revenue growth y/y | -8.40% |
 | 52W low | $122.94 | Inst. ownership | 81.64% |
-| P/E (ttm) | 13.50 | Insider ownership | 0.12% |
+| P/E (ttm) | 13.02 | Insider ownership | 0.12% |
 | Forward P/E | 14.04 | Short float | 3.12% |
 | PEG (trailing) | 0.75 | Avg volume | 12,365,607 |
 | P/S | 4.25 | Employees | 57,000 |

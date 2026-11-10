@@ -36,10 +36,10 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Allegro MicroSystems, IPG Photonics, Lattice Semiconductor, Entegris, and Broadcom shares skyrocket, what you need to know | StockStory | 2026-11-10 |
 | ETFs Are Net Sellers of Lattice Semiconductor (LSCC) on Tuesday | GuruFocus.com | 2026-11-05 |
 | What iShares A.I. Innovation ETF (BAI) Bought: Amazon Leads on Nov. 2 | GuruFocus.com | 2026-11-04 |
 | ETFs Are Net Sellers of Lattice Semiconductor (LSCC) on Nov. 2 | GuruFocus.com | 2026-11-04 |
-| Lattice Semiconductor earnings analysis: questions answered and next catalysts | Investing.com | 2026-11-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Revenue (ttm) | $808.80M | Revenue growth 118.30% y/y |
 | Profitability | Gross 69.49%, operating 17.15%, net 5.53% | ROA 3.83%, ROE 4.21% |
 | Balance sheet | Cash $128.28M, debt $925.31M | Current ratio 1.92, debt/equity 65.29 |
-| Valuation | P/E 367.39, forward P/E 25.95, P/S 20.03, P/B 11.42 | EV/Sales 21.01, EV/EBITDA 107.24 |
+| Valuation | P/E 334.97, forward P/E 25.95, P/S 20.03, P/B 11.42 | EV/Sales 21.01, EV/EBITDA 107.24 |
 | Growth expectations | Earnings growth 297.80%, EPS q/q 301.10% | Analyst mean target $156.19 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -123,7 +123,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | SMA200 dist | -2.11% | Revenue (ttm) | $808.80M |
 | 52W high | $155.27 | Revenue growth y/y | 118.30% |
 | 52W low | $61.73 | Inst. ownership | 103.76% |
-| P/E (ttm) | 367.39 | Insider ownership | 0.59% |
+| P/E (ttm) | 334.97 | Insider ownership | 0.59% |
 | Forward P/E | 25.95 | Short float | 9.41% |
 | PEG (trailing) | — | Avg volume | 1,954,851 |
 | P/S | 20.03 | Employees | 1,174 |

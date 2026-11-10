@@ -38,8 +38,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 |---|---|---|
 | Nvidia vs. AMD: Why Lisa Su's company is a great alternative for investors | Yahoo Finance Video | 2026-11-09 |
 | Tech stocks rally as Nvidia stock and oil prices fall: AlphaCheck | Yahoo Finance | 2026-11-09 |
+| Amtech, Intel, Applied Materials, AMD, and KLA Corporation shares are soaring, what you need to know | StockStory | 2026-11-10 |
 | Sanmina Q4 Earnings Call Highlights | MarketBeat | 2026-11-10 |
-| The AI Trade Looks Like It's Falling Apart. AMD's Earnings Delivered a Reality Check. | Motley Fool | 2026-11-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Revenue (ttm) | $45.44B | Revenue growth 44.70% y/y |
 | Profitability | Gross 56.00%, operating 21.17%, net 16.77% | ROA 5.90%, ROE 11.96% |
 | Balance sheet | Cash $15.78B, debt $9.21B | Current ratio 2.73, debt/equity 13.47 |
-| Valuation | P/E 108.67, forward P/E 28.81, P/S 18.36, P/B 12.20 | EV/Sales 18.21, EV/EBITDA 74.27 |
+| Valuation | P/E 95.96, forward P/E 28.81, P/S 18.36, P/B 12.20 | EV/Sales 18.21, EV/EBITDA 74.27 |
 | Growth expectations | Earnings growth 93.80%, EPS q/q 95.30% | Analyst mean target $658.53 (48 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | SMA200 dist | +21.90% | Revenue (ttm) | $45.44B |
 | 52W high | $649.42 | Revenue growth y/y | 44.70% |
 | 52W low | $190.95 | Inst. ownership | 75.14% |
-| P/E (ttm) | 108.67 | Insider ownership | 0.42% |
+| P/E (ttm) | 95.96 | Insider ownership | 0.42% |
 | Forward P/E | 28.81 | Short float | 2.33% |
 | PEG (trailing) | 0.40 | Avg volume | 22,343,507 |
 | P/S | 18.36 | Employees | 31,000 |

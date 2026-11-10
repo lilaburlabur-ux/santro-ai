@@ -36,10 +36,10 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 
 | Headline | Source | Date |
 |---|---|---|
+| Micron, FormFactor, Amkor, Teradyne, and Nvidia shares skyrocket, what you need to know | StockStory | 2026-11-10 |
 | Western Digital or Micron? Jim Cramer Says “I Think Micron’s a Better Company.” Here’s the Test | TIKR | 2026-11-10 |
 | Why Micron Technology Stock Gained On Monday | Motley Fool | 2026-11-09 |
 | Micron Technology: Is the Stock a No-Brainer Buy at Less Than $740? | Motley Fool | 2026-11-09 |
-| Dow Adds 1,104 Points Even as Nvidia Sinks: Stock Market Today | Kiplinger | 2026-11-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 | Revenue (ttm) | $133.19B | Revenue growth 379.30% y/y |
 | Profitability | Gross 80.72%, operating 80.68%, net 63.80% | ROA 44.56%, ROE 88.26% |
 | Balance sheet | Cash $43.43B, debt $5.18B | Current ratio 3.31, debt/equity 3.74 |
-| Valuation | P/E 9.86, forward P/E 3.53, P/S 6.23, P/B 5.99 | EV/Sales 5.94, EV/EBITDA 7.27 |
+| Valuation | P/E 9.28, forward P/E 3.53, P/S 6.23, P/B 5.99 | EV/Sales 5.94, EV/EBITDA 7.27 |
 | Growth expectations | Earnings growth 1059.50%, EPS q/q 1077.80% | Analyst mean target $1,561.91 (45 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 | SMA200 dist | -3.30% | Revenue (ttm) | $133.19B |
 | 52W high | $1,213.18 | Revenue growth y/y | 379.30% |
 | 52W low | $201.14 | Inst. ownership | 80.12% |
-| P/E (ttm) | 9.86 | Insider ownership | 0.24% |
+| P/E (ttm) | 9.28 | Insider ownership | 0.24% |
 | Forward P/E | 3.53 | Short float | 2.00% |
 | PEG (trailing) | 0.16 | Avg volume | 27,780,489 |
 | P/S | 6.23 | Employees | 61,000 |

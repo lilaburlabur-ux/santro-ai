@@ -68,7 +68,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Revenue (ttm) | $13.80B | Revenue growth 19.30% y/y |
 | Profitability | Gross 56.46%, operating 32.30%, net 23.39% | ROA 10.82%, ROE 28.67% |
 | Balance sheet | Cash $3.94B, debt $10.98B | Current ratio 2.12, debt/equity 88.07 |
-| Valuation | P/E 20.17, forward P/E 13.98, P/S 4.68, P/B 5.35 | EV/Sales 5.22, EV/EBITDA 13.37 |
+| Valuation | P/E 19.53, forward P/E 13.98, P/S 4.68, P/B 5.35 | EV/Sales 5.22, EV/EBITDA 13.37 |
 | Growth expectations | Earnings growth 40.30%, EPS q/q 40.10% | Analyst mean target $299.93 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | SMA200 dist | +4.37% | Revenue (ttm) | $13.80B |
 | 52W high | $330.06 | Revenue growth y/y | 19.30% |
 | 52W low | $180.99 | Inst. ownership | 99.33% |
-| P/E (ttm) | 20.17 | Insider ownership | 0.14% |
+| P/E (ttm) | 19.53 | Insider ownership | 0.14% |
 | Forward P/E | 13.98 | Short float | 2.67% |
 | PEG (trailing) | 0.50 | Avg volume | 3,869,251 |
 | P/S | 4.68 | Employees | 32,169 |

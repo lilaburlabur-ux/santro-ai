@@ -18,7 +18,7 @@ Signed file: `MRVL.research.10.11.2026`
 | Technical momentum | High | 1Y +65.93%; price -16.59% vs SMA200. |
 | Fresh setup quality | Poor / broken | -51.12% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 27.93%, revenue growth 36.50%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 21.04, EV/Sales 14.49. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 21.03, EV/Sales 14.49. |
 | Risk level | High | Beta 2.33, ATR 11.6% of price, short float 3.28%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
@@ -68,7 +68,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $9.45B | Revenue growth 36.50% y/y |
 | Profitability | Gross 52.22%, operating 16.68%, net 27.93% | ROA 4.12%, ROE 16.52% |
 | Balance sheet | Cash $3.93B, debt $5.29B | Current ratio 3.17, debt/equity 28.52 |
-| Valuation | P/E 50.86, forward P/E 21.04, P/S 14.72, P/B 7.31 | EV/Sales 14.49, EV/EBITDA 48.04 |
+| Valuation | P/E 46.43, forward P/E 21.03, P/S 14.72, P/B 7.31 | EV/Sales 14.49, EV/EBITDA 48.04 |
 | Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $310.07 (41 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | JPMORGAN CHASE & CO | 13,891,628 | 1.58% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 21.04, EV/Sales 14.49. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 21.03, EV/Sales 14.49. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.33, ATR 11.6% of price, short float 3.28%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -122,8 +122,8 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | SMA200 dist | -16.59% | Revenue (ttm) | $9.45B |
 | 52W high | $316.28 | Revenue growth y/y | 36.50% |
 | 52W low | $73.66 | Inst. ownership | 81.92% |
-| P/E (ttm) | 50.86 | Insider ownership | 0.50% |
-| Forward P/E | 21.04 | Short float | 3.28% |
+| P/E (ttm) | 46.43 | Insider ownership | 0.50% |
+| Forward P/E | 21.03 | Short float | 3.28% |
 | PEG (trailing) | 0.35 | Avg volume | 23,900,223 |
 | P/S | 14.72 | Employees | 7,480 |
 | P/B | 7.31 | Analyst rec (1=buy..5=sell) | 1.4 |

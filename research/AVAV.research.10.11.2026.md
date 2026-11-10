@@ -4,8 +4,8 @@ Signed file: `AVAV.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $123.10 (2026-11-10, ~15-min delayed) |
-| Market cap | $6.26B |
+| Current price | $122.86 (2026-11-10, ~15-min delayed) |
+| Market cap | $6.24B |
 | Sector / Industry | Industrials / Aerospace & Defense |
 | Main theme | Aerospace & Defense — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `AVAV.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-30.77%) with negative half-year (-27.10%). |
-| Fresh setup quality | Poor / broken | -68.67% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-30.91%) with negative half-year (-27.24%). |
+| Fresh setup quality | Poor / broken | -68.73% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-10.13%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 27.93, EV/Sales 3.35. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 27.87, EV/Sales 3.35. |
 | Risk level | High | Beta 1.40, ATR 7.0% of price, short float 13.01%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
@@ -44,22 +44,22 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $123.10; 52w high $392.86 (-68.67%); 52w low $102.08 (+20.59%) |
-| Trend | -30.77% vs SMA200, -9.89% vs SMA50, +1.59% vs SMA20 |
-| Momentum | RSI(14) 47.6 (neutral) |
+| Price vs 52-week range | Close $122.86; 52w high $392.86 (-68.73%); 52w low $102.08 (+20.36%) |
+| Trend | -30.91% vs SMA200, -10.07% vs SMA50, +1.40% vs SMA20 |
+| Momentum | RSI(14) 47.5 (neutral) |
 | Volatility | ATR(14) 8.60 (~7.0% of price); beta 1.40 |
-| Setup perspective | -68.67% from 52w high — base needs to rebuild. |
+| Setup perspective | -68.73% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.3% |
-| Month | -6.4% |
-| Quarter | -36.5% |
-| Half Y | -27.1% |
+| Week | -0.5% |
+| Month | -6.6% |
+| Quarter | -36.6% |
+| Half Y | -27.2% |
 | 1Y | -62.7% |
-| YTD | -51.9% |
+| YTD | -52.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Revenue (ttm) | $2.00B | Revenue growth 5.70% y/y |
 | Profitability | Gross 26.47%, operating -2.27%, net -10.13% | ROA -0.13%, ROE -4.60% |
 | Balance sheet | Cash $580.23M, debt $850.82M | Current ratio 4.26, debt/equity 19.35 |
-| Valuation | P/E —, forward P/E 27.93, P/S 3.12, P/B 1.42 | EV/Sales 3.35, EV/EBITDA 30.61 |
+| Valuation | P/E —, forward P/E 27.87, P/S 3.12, P/B 1.42 | EV/Sales 3.35, EV/EBITDA 30.61 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $212.20 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Van Eck Associates Corporation | 612,915 | 1.21% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 27.93, EV/Sales 3.35. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 27.87, EV/Sales 3.35. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.40, ATR 7.0% of price, short float 13.01%. Size positions accordingly.
 - **Short interest risk:** short float 13.01% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
@@ -114,18 +114,18 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $123.10 | EV/Sales | 3.35 |
-| Market cap | $6.26B | EV/EBITDA | 30.61 |
+| Price | $122.86 | EV/Sales | 3.35 |
+| Market cap | $6.24B | EV/EBITDA | 30.61 |
 | Beta | 1.40 | Gross margin | 26.47% |
-| RSI(14) | 47.6 | Operating margin | -2.27% |
+| RSI(14) | 47.5 | Operating margin | -2.27% |
 | ATR(14) | 8.60 | Profit margin | -10.13% |
-| SMA20 dist | +1.59% | ROA | -0.13% |
-| SMA50 dist | -9.89% | ROE | -4.60% |
-| SMA200 dist | -30.77% | Revenue (ttm) | $2.00B |
+| SMA20 dist | +1.40% | ROA | -0.13% |
+| SMA50 dist | -10.07% | ROE | -4.60% |
+| SMA200 dist | -30.91% | Revenue (ttm) | $2.00B |
 | 52W high | $392.86 | Revenue growth y/y | 5.70% |
 | 52W low | $102.08 | Inst. ownership | 89.52% |
 | P/E (ttm) | — | Insider ownership | 0.90% |
-| Forward P/E | 27.93 | Short float | 13.01% |
+| Forward P/E | 27.87 | Short float | 13.01% |
 | PEG (trailing) | 1.10 | Avg volume | 1,663,937 |
 | P/S | 3.12 | Employees | 3,991 |
 | P/B | 1.42 | Analyst rec (1=buy..5=sell) | 1.7 |

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-10T10:25:18+00:00",
-  "as_of_local": "2026-11-10 10:25:18 UTC",
+  "as_of_utc": "2026-11-10T10:30:18+00:00",
+  "as_of_local": "2026-11-10 10:30:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 2015567505607.48,
       "headlines": [
         {
+          "title": "Down from highs: Why GlobalFoundries is an essential chip play",
+          "url": "https://finance.yahoo.com/technology/articles/down-highs-why-globalfoundries-essential-101838395.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-10T10:18:38Z"
+        },
+        {
           "title": "A TSMC Director Bought $300,000 of Stock in the Chip Sell-Off. It\u2019s Up 46% in a Year",
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-director-bought-300-000-083941490.html",
           "publisher": "TIKR",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-tsm-stock-rising-overnight-070208918.html",
           "publisher": "Stocktwits",
           "published": "2026-11-10T07:02:08Z"
-        },
-        {
-          "title": "TSMC Oct revenue jumps 60% as AI-fueled demand remains strong",
-          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-oct-revenue-jumps-60-064407771.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-10T06:44:07Z"
         }
       ]
     },
@@ -159,16 +159,16 @@
           "published": "2026-11-09T14:47:15Z"
         },
         {
+          "title": "Down from highs: Why GlobalFoundries is an essential chip play",
+          "url": "https://finance.yahoo.com/technology/articles/down-highs-why-globalfoundries-essential-101838395.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-10T10:18:38Z"
+        },
+        {
           "title": "SoftBank Logs $7 Billion Loss After US Data Center Costs Swell",
           "url": "https://finance.yahoo.com/technology/ai/articles/softbank-logs-7-billion-loss-065612363.html",
           "publisher": "Bloomberg",
           "published": "2026-11-10T06:56:12Z"
-        },
-        {
-          "title": "Amtech, Intel, Applied Materials, AMD, and KLA Corporation shares are soaring, what you need to know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amtech-intel-applied-materials-amd-023736161.html",
-          "publisher": "StockStory",
-          "published": "2026-11-10T02:37:36Z"
         }
       ]
     },
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": null,
-      "change_pct": 0.0,
+      "price": 41.78,
+      "change_pct": 6.34,
       "holdings": [
         {
           "symbol": "MU",
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": null,
-    "change_pct": 0.0,
+    "price": 41.78,
+    "change_pct": 6.34,
     "holdings": [
       {
         "symbol": "MU",
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 74219.01,
-      "change_pct": -1.33
+      "price": 74206.67,
+      "change_pct": -1.35
     },
     {
       "label": "Gold",
-      "price": 4091.8,
-      "change_pct": -0.55
+      "price": 4087.3,
+      "change_pct": -0.66
     },
     {
       "label": "Nasdaq100",

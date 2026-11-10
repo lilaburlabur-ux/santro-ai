@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-10T21:09:53+00:00",
-  "as_of_local": "2026-11-10 21:09:53 UTC",
+  "as_of_utc": "2026-11-10T21:14:56+00:00",
+  "as_of_local": "2026-11-10 21:14:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -113,34 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-just-got-massive-194039394.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-10T19:40:39Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 725.11,
-      "previous_close": 733.15,
-      "change_pct": -1.1,
-      "market_cap": 820406268679.7378,
-      "headlines": [
-        {
-          "title": "Micron stock is a screaming buy at current valuation levels: Goldman Sachs",
-          "url": "https://finance.yahoo.com/markets/stocks/article/micron-stock-is-a-screaming-buy-at-current-valuation-levels-goldman-sachs-172852076.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-10T17:28:52Z"
-        },
-        {
-          "title": "5 Best Tech Stocks That Pay Dividends",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-pay-194142629.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-10T19:41:42Z"
-        },
-        {
-          "title": "Micron & 2 Profitable Stocks to Buy Now for Explosive Upside",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-2-profitable-stocks-buy-190000487.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T19:00:00Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -1.1,
-          "price": 725.11,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -1.1,
-        "price": 725.11,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 73912.93,
-      "change_pct": -1.74
+      "price": 73846.0,
+      "change_pct": -1.83
     },
     {
       "label": "Gold",
-      "price": 4039.1,
-      "change_pct": -1.83
+      "price": 4038.1,
+      "change_pct": -1.86
     },
     {
       "label": "Nasdaq100",

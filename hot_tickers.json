@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-10T12:41:48+00:00",
+  "as_of": "2026-11-10T12:56:48+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "TTD",
    "company": "Trade Desk Inc",
-   "move_pct": -4.55,
-   "price": 14.25,
+   "move_pct": -5.69,
+   "price": 14.08,
    "volume": 96518300,
    "volume_vs_avg": "~6x",
-   "heat_score": 62,
+   "heat_score": 66,
    "direction": "down",
    "why": "Trade Desk\u2019s Earnings Beat Defies Analysts\u2019 \u2018Lost Year\u2019 Projections",
    "catalyst_type": "earnings",
@@ -27,16 +27,16 @@
    "rank": 2,
    "ticker": "NVDA",
    "company": "NVIDIA Corp",
-   "move_pct": -0.86,
-   "price": 177.13,
+   "move_pct": -0.84,
+   "price": 177.17,
    "volume": 459116500,
    "volume_vs_avg": "~4x",
    "heat_score": 38,
    "direction": "down",
-   "why": "Nvidia live updates: Nvidia stock falls 4% as board investigates CEO's affair with alleged Chinese spy",
+   "why": "Nvidia live updates: Nvidia extends fall as board investigates CEO's affair with alleged Chinese spy",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
-   "published": "2026-11-10T12:29:41+00:00",
+   "published": "2026-11-10T12:34:14+00:00",
    "sector": "AI Chips & Compute"
   }
  ]

@@ -4,7 +4,7 @@ Signed file: `AVGO.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $331.38 (2026-11-10, ~15-min delayed) |
+| Current price | $331.39 (2026-11-10, ~15-min delayed) |
 | Market cap | $1.58T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,7 +15,7 @@ Signed file: `AVGO.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-9.50%) with negative half-year (-20.70%). |
+| Technical momentum | Low | Below SMA200 (-9.49%) with negative half-year (-20.70%). |
 | Fresh setup quality | Poor / broken | -30.95% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 42.94%, revenue growth 85.50%. |
 | Value attractiveness | Reasonable | Forward P/E 17.02, EV/Sales 17.51. |
@@ -44,8 +44,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $331.38; 52w high $479.94 (-30.95%); 52w low $291.53 (+13.67%) |
-| Trend | -9.50% vs SMA200, -4.21% vs SMA50, +0.70% vs SMA20 |
+| Price vs 52-week range | Close $331.39; 52w high $479.94 (-30.95%); 52w low $291.53 (+13.67%) |
+| Trend | -9.49% vs SMA200, -4.21% vs SMA50, +0.71% vs SMA20 |
 | Momentum | RSI(14) 49.2 (neutral) |
 | Volatility | ATR(14) 15.95 (~4.8% of price); beta 1.51 |
 | Setup perspective | -30.95% from 52w high — base needs to rebuild. |
@@ -111,14 +111,14 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $331.38 | EV/Sales | 17.51 |
+| Price | $331.39 | EV/Sales | 17.51 |
 | Market cap | $1.58T | EV/EBITDA | 29.86 |
 | Beta | 1.51 | Gross margin | 75.52% |
 | RSI(14) | 49.2 | Operating margin | 54.31% |
 | ATR(14) | 15.95 | Profit margin | 42.94% |
-| SMA20 dist | +0.70% | ROA | 15.37% |
+| SMA20 dist | +0.71% | ROA | 15.37% |
 | SMA50 dist | -4.21% | ROE | 44.25% |
-| SMA200 dist | -9.50% | Revenue (ttm) | $89.10B |
+| SMA200 dist | -9.49% | Revenue (ttm) | $89.10B |
 | 52W high | $479.94 | Revenue growth y/y | 85.50% |
 | 52W low | $291.53 | Inst. ownership | 79.92% |
 | P/E (ttm) | 42.32 | Insider ownership | 1.92% |

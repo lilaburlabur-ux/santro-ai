@@ -4,8 +4,8 @@ Signed file: `MU.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $715.27 (2026-11-10, ~15-min delayed) |
-| Market cap | $809.27B |
+| Current price | $714.97 (2026-11-10, ~15-min delayed) |
+| Market cap | $809.05B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,8 +15,8 @@ Signed file: `MU.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +200.98%; price -5.86% vs SMA200. |
-| Fresh setup quality | Poor / broken | -41.04% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +200.85%; price -5.90% vs SMA200. |
+| Fresh setup quality | Poor / broken | -41.07% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 63.80%, revenue growth 379.30%. |
 | Value attractiveness | Reasonable | Forward P/E 3.44, EV/Sales 5.94. |
 | Risk level | High | Beta 2.40, ATR 8.1% of price, short float 2.00%. |
@@ -44,11 +44,11 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $715.27; 52w high $1,213.18 (-41.04%); 52w low $201.14 (+255.61%) |
-| Trend | -5.86% vs SMA200, -24.92% vs SMA50, -16.28% vs SMA20 |
+| Price vs 52-week range | Close $714.97; 52w high $1,213.18 (-41.07%); 52w low $201.14 (+255.46%) |
+| Trend | -5.90% vs SMA200, -24.95% vs SMA50, -16.31% vs SMA20 |
 | Momentum | RSI(14) 35.2 (neutral) |
 | Volatility | ATR(14) 57.59 (~8.1% of price); beta 2.40 |
-| Setup perspective | -41.04% from 52w high — base needs to rebuild. |
+| Setup perspective | -41.07% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
@@ -58,8 +58,8 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 | Month | -27.7% |
 | Quarter | -21.5% |
 | Half Y | -6.7% |
-| 1Y | +201.0% |
-| YTD | +126.9% |
+| 1Y | +200.8% |
+| YTD | +126.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 | Revenue (ttm) | $133.19B | Revenue growth 379.30% y/y |
 | Profitability | Gross 80.72%, operating 80.68%, net 63.80% | ROA 44.56%, ROE 88.26% |
 | Balance sheet | Cash $43.43B, debt $5.18B | Current ratio 3.31, debt/equity 3.74 |
-| Valuation | P/E 9.62, forward P/E 3.44, P/S 6.08, P/B 5.85 | EV/Sales 5.94, EV/EBITDA 7.27 |
+| Valuation | P/E 9.62, forward P/E 3.44, P/S 6.07, P/B 5.84 | EV/Sales 5.94, EV/EBITDA 7.27 |
 | Growth expectations | Earnings growth 1059.50%, EPS q/q 1077.80% | Analyst mean target $1,561.91 (45 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,21 +111,21 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $715.27 | EV/Sales | 5.94 |
-| Market cap | $809.27B | EV/EBITDA | 7.27 |
+| Price | $714.97 | EV/Sales | 5.94 |
+| Market cap | $809.05B | EV/EBITDA | 7.27 |
 | Beta | 2.40 | Gross margin | 80.72% |
 | RSI(14) | 35.2 | Operating margin | 80.68% |
 | ATR(14) | 57.59 | Profit margin | 63.80% |
-| SMA20 dist | -16.28% | ROA | 44.56% |
-| SMA50 dist | -24.92% | ROE | 88.26% |
-| SMA200 dist | -5.86% | Revenue (ttm) | $133.19B |
+| SMA20 dist | -16.31% | ROA | 44.56% |
+| SMA50 dist | -24.95% | ROE | 88.26% |
+| SMA200 dist | -5.90% | Revenue (ttm) | $133.19B |
 | 52W high | $1,213.18 | Revenue growth y/y | 379.30% |
 | 52W low | $201.14 | Inst. ownership | 80.11% |
 | P/E (ttm) | 9.62 | Insider ownership | 0.24% |
 | Forward P/E | 3.44 | Short float | 2.00% |
 | PEG (trailing) | 0.16 | Avg volume | 27,846,740 |
-| P/S | 6.08 | Employees | 61,000 |
-| P/B | 5.85 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/S | 6.07 | Employees | 61,000 |
+| P/B | 5.84 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

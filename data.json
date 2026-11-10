@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-10T10:09:51+00:00",
-  "as_of_local": "2026-11-10 10:09:51 UTC",
+  "as_of_utc": "2026-11-10T10:15:20+00:00",
+  "as_of_local": "2026-11-10 10:15:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "LSCC"
+    "MU"
   ],
   "stocks": [
     {
@@ -115,34 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-watch-58-052025265.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-10T05:20:25Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 733.15,
-      "previous_close": 690.0,
-      "change_pct": 6.25,
-      "market_cap": 829502955500.437,
-      "headlines": [
-        {
-          "title": "Micron, FormFactor, Amkor, Teradyne, and Nvidia shares skyrocket, what you need to know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-formfactor-amkor-teradyne-nvidia-024536276.html",
-          "publisher": "StockStory",
-          "published": "2026-11-10T02:45:36Z"
-        },
-        {
-          "title": "Western Digital or Micron? Jim Cramer Says \u201cI Think Micron\u2019s a Better Company.\u201d Here\u2019s the Test",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-micron-jim-cramer-003204910.html",
-          "publisher": "TIKR",
-          "published": "2026-11-10T00:32:04Z"
-        },
-        {
-          "title": "Why Micron Technology Stock Gained On Monday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-technology-stock-gained-230702184.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-09T23:07:02Z"
         }
       ]
     },
@@ -287,6 +259,34 @@
       ]
     },
     {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 113.89,
+      "previous_close": 105.02,
+      "change_pct": 8.45,
+      "market_cap": 16198083861.182327,
+      "headlines": [
+        {
+          "title": "Allegro MicroSystems, IPG Photonics, Lattice Semiconductor, Entegris, and Broadcom shares skyrocket, what you need to know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/allegro-microsystems-ipg-photonics-lattice-030136618.html",
+          "publisher": "StockStory",
+          "published": "2026-11-10T03:01:36Z"
+        },
+        {
+          "title": "ETFs Are Net Sellers of Lattice Semiconductor (LSCC) on Tuesday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-lattice-semiconductor-110213477.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-05T11:02:13Z"
+        },
+        {
+          "title": "What iShares A.I. Innovation ETF (BAI) Bought: Amazon Leads on Nov. 2",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-innovation-etf-bai-bought-110550024.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-04T11:05:50Z"
+        }
+      ]
+    },
+    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 126.96,
@@ -383,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 6.25,
-          "price": 733.15,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -473,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 6.25,
-        "price": 733.15,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 74330.49,
-      "change_pct": -1.19
+      "price": 74321.55,
+      "change_pct": -1.2
     },
     {
       "label": "Gold",
-      "price": 4096.4,
-      "change_pct": -0.44
+      "price": 4090.3,
+      "change_pct": -0.59
     },
     {
       "label": "Nasdaq100",

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-10T23:46:54+00:00",
-  "as_of_local": "2026-11-10 23:46:54 UTC",
+  "as_of_utc": "2026-11-10T23:52:00+00:00",
+  "as_of_local": "2026-11-10 23:52:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/markets/article/wall-streets-16-trillion-rebound-may-look-like-a-bottom--history-says-it-often-isnt-chart-of-the-day-110000299.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-10T11:00:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 515.21,
+      "previous_close": 508.58,
+      "change_pct": 1.3,
+      "market_cap": 844989388624.7834,
+      "headlines": [
+        {
+          "title": "Goldman Sachs calls chip stocks 'oversold.' Here are the names it says to buy.",
+          "url": "https://finance.yahoo.com/markets/article/goldman-sachs-calls-chip-stocks-oversold-here-are-the-names-it-says-to-buy-165654250.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-10T16:53:14Z"
+        },
+        {
+          "title": "2 Reasons AMD Can Still Outperform by 2030",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-amd-still-outperform-233302049.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-10T23:33:02Z"
+        },
+        {
+          "title": "5 Stocks Analysts Just Upgraded",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-analysts-just-upgraded-222146322.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-10T22:21:46Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 73730.62,
-      "change_pct": -1.98
+      "price": 73694.62,
+      "change_pct": -2.03
     },
     {
       "label": "Gold",
-      "price": 4043.2,
-      "change_pct": -1.73
+      "price": 4042.7,
+      "change_pct": -1.75
     },
     {
       "label": "Nasdaq100",

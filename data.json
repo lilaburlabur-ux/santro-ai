@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-10T13:37:25+00:00",
-  "as_of_local": "2026-11-10 13:37:25 UTC",
+  "as_of_utc": "2026-11-10T13:42:30+00:00",
+  "as_of_local": "2026-11-10 13:42:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,16 +13,16 @@
       "market_cap": 4314344445785.5225,
       "headlines": [
         {
-          "title": "Stock market today: Dow, S&P 500, Nasdaq trade mixed ahead of key inflation data",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-10T09:06:27Z"
-        },
-        {
           "title": "Jensen Huang's spy scandal may cost Nvidia the China chip fight it was winning",
           "url": "https://finance.yahoo.com/markets/article/jensen-huangs-spy-scandal-may-cost-nvidia-the-china-chip-fight-it-was-winning-121310306.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-10T12:13:10Z"
+        },
+        {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq trade mixed ahead of key inflation data",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-10T09:06:27Z"
         },
         {
           "title": "3 bipartisan plans could slap new controls on semiconductor exports. Elizabeth Warren wants to pass one this year.",
@@ -153,12 +153,6 @@
       "market_cap": 315551544322.9675,
       "headlines": [
         {
-          "title": "Intel took 25 years to get back to its dot-com peak \u2014 and lost it in 6 months: Chart of the Day",
-          "url": "https://finance.yahoo.com/markets/article/intel-took-25-years-to-get-back-to-its-dot-com-peak--and-lost-it-in-6-months-chart-of-the-day-144715722.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-09T14:47:15Z"
-        },
-        {
           "title": "What Sent Intel Stock Higher?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sent-intel-stock-higher-131127348.html",
           "publisher": "Trefis",
@@ -169,6 +163,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-just-guided-more-revenue-122822825.html",
           "publisher": "TIKR",
           "published": "2026-11-10T12:28:22Z"
+        },
+        {
+          "title": "Chip Stocks and Nvidia Trade Places as Normal Service Resumes",
+          "url": "https://www.barrons.com/articles/intel-amd-stock-nvidia-ai-chips-aaac0a7c?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-10T11:50:00Z"
         }
       ]
     },
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 73973.89,
-      "change_pct": -1.66
+      "price": 73712.93,
+      "change_pct": -2.01
     },
     {
       "label": "Gold",
-      "price": 4077.6,
-      "change_pct": -0.9
+      "price": 4056.4,
+      "change_pct": -1.41
     },
     {
       "label": "Nasdaq100",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-10T09:08:52+00:00",
-  "as_of_local": "2026-11-10 09:08:52 UTC",
+  "as_of_utc": "2026-11-10T09:13:49+00:00",
+  "as_of_local": "2026-11-10 09:13:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -57,34 +59,6 @@
           "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rise-technology-shares-034421581.html",
           "publisher": "Associated Press",
           "published": "2026-11-10T03:44:21Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 319.48,
-      "previous_close": 293.69,
-      "change_pct": 8.78,
-      "market_cap": 1525079321714.864,
-      "headlines": [
-        {
-          "title": "A Fund With $2 Billion in US Equities Bought These 3 Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fund-2-billion-us-equities-074336226.html",
-          "publisher": "TIKR",
-          "published": "2026-11-10T07:43:36Z"
-        },
-        {
-          "title": "Broadcom (AVGO) Brings VM API To Open Source And Expands Kubernetes Reach",
-          "url": "https://finance.yahoo.com/technology/articles/broadcom-avgo-brings-vm-api-061320441.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-10T06:13:20Z"
-        },
-        {
-          "title": "Allegro MicroSystems, IPG Photonics, Lattice Semiconductor, Entegris, and Broadcom shares skyrocket, what you need to know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/allegro-microsystems-ipg-photonics-lattice-030136618.html",
-          "publisher": "StockStory",
-          "published": "2026-11-10T03:01:36Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 74317.31,
-      "change_pct": -1.2
+      "price": 74237.77,
+      "change_pct": -1.31
     },
     {
       "label": "Gold",
-      "price": 4123.3,
-      "change_pct": 0.21
+      "price": 4107.5,
+      "change_pct": -0.17
     },
     {
       "label": "Nasdaq100",

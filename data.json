@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-10T13:52:40+00:00",
-  "as_of_local": "2026-11-10 13:52:40 UTC",
+  "as_of_utc": "2026-11-10T13:57:41+00:00",
+  "as_of_local": "2026-11-10 13:57:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -41,6 +43,12 @@
       "market_cap": 2015567505607.48,
       "headlines": [
         {
+          "title": "Intel Can Catch Taiwan Semiconductor on Physics, Not Economics",
+          "url": "https://finance.yahoo.com/technology/articles/intel-catch-taiwan-semiconductor-physics-134534156.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-10T13:45:34Z"
+        },
+        {
           "title": "Update: Anthropic Targeting to Raise Up to $64.40 Billion From IPO",
           "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-targeting-raise-64-40-132633453.html",
           "publisher": "MT Newswires",
@@ -51,12 +59,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-targets-90-billion-ipo-115423416.html",
           "publisher": "Bloomberg",
           "published": "2026-11-10T11:54:23Z"
-        },
-        {
-          "title": "Taiwan Semiconductor Sales Jump 60% In October As AI Boom Continues",
-          "url": "https://www.investors.com/news/technology/tsm-stock-taiwan-semiconductor-october-2026-sales/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-10T11:50:11Z"
         }
       ]
     },
@@ -153,6 +155,12 @@
       "market_cap": 315551544322.9675,
       "headlines": [
         {
+          "title": "Intel Can Catch Taiwan Semiconductor on Physics, Not Economics",
+          "url": "https://finance.yahoo.com/technology/articles/intel-catch-taiwan-semiconductor-physics-134534156.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-10T13:45:34Z"
+        },
+        {
           "title": "What Sent Intel Stock Higher?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sent-intel-stock-higher-131127348.html",
           "publisher": "Trefis",
@@ -163,12 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-just-guided-more-revenue-122822825.html",
           "publisher": "TIKR",
           "published": "2026-11-10T12:28:22Z"
-        },
-        {
-          "title": "Chip Stocks and Nvidia Trade Places as Normal Service Resumes",
-          "url": "https://www.barrons.com/articles/intel-amd-stock-nvidia-ai-chips-aaac0a7c?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-10T11:50:00Z"
         }
       ]
     },
@@ -209,6 +211,12 @@
       "market_cap": 183472901306.15234,
       "headlines": [
         {
+          "title": "Qualcomm vs. Western Digital: Which Tech Stock Is a Better Buy for 2027?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-vs-western-digital-tech-134402429.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-10T13:44:02Z"
+        },
+        {
           "title": "Qualcomm Price Prediction: Automotive Boom Could Spark a Surprise Rebound",
           "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-price-prediction-automotive-boom-133305733.html",
           "publisher": "24/7 Wall St.",
@@ -219,12 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/sent-intel-stock-higher-131127348.html",
           "publisher": "Trefis",
           "published": "2026-11-10T13:11:27Z"
-        },
-        {
-          "title": "ETFs Are Net Sellers of Qualcomm (QCOM) on Nov. 6",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-qualcomm-qcom-110254420.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-10T11:02:54Z"
         }
       ]
     },
@@ -253,34 +255,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-marvell-technology-110325216.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-10T11:03:25Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 256.42,
-      "previous_close": 248.29,
-      "change_pct": 3.27,
-      "market_cap": 64631430567.46057,
-      "headlines": [
-        {
-          "title": "First Trust NASDAQ-100 Tech (QTEC) Buys $5.1 Million More AppLovin on Friday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/first-trust-nasdaq-100-tech-110615305.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-10T11:06:15Z"
-        },
-        {
-          "title": "What Could Send Texas Instruments Stock Soaring?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/could-send-texas-instruments-stock-124606787.html",
-          "publisher": "Trefis",
-          "published": "2026-11-09T12:46:06Z"
-        },
-        {
-          "title": "NXP Semiconductors (NXPI) Sees $10.4 Million in Net ETF Buying on Nov. 5",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-sees-10-110226550.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-09T11:02:26Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 73906.44,
-      "change_pct": -1.75
+      "price": 73750.0,
+      "change_pct": -1.96
     },
     {
       "label": "Gold",
-      "price": 4061.0,
-      "change_pct": -1.3
+      "price": 4067.9,
+      "change_pct": -1.13
     },
     {
       "label": "Nasdaq100",

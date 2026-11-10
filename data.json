@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-10T13:11:42+00:00",
-  "as_of_local": "2026-11-10 13:11:42 UTC",
+  "as_of_utc": "2026-11-10T13:16:52+00:00",
+  "as_of_local": "2026-11-10 13:16:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 178.67,
+      "previous_close": 186.64,
+      "change_pct": -4.27,
+      "market_cap": 4314344445785.5225,
+      "headlines": [
+        {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq trade mixed ahead of key inflation data",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-10T09:06:27Z"
+        },
+        {
+          "title": "Jensen Huang's spy scandal may cost Nvidia the China chip fight it was winning",
+          "url": "https://finance.yahoo.com/markets/article/jensen-huangs-spy-scandal-may-cost-nvidia-the-china-chip-fight-it-was-winning-121310306.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-10T12:13:10Z"
+        },
+        {
+          "title": "3 bipartisan plans could slap new controls on semiconductor exports. Elizabeth Warren wants to pass one this year.",
+          "url": "https://finance.yahoo.com/markets/article/3-bipartisan-plans-could-slap-new-controls-on-semiconductor-exports-elizabeth-warren-wants-to-pass-one-this-year-121030831.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-10T12:10:30Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -559,12 +585,12 @@
     },
     {
       "label": "BTC",
-      "price": 74308.01,
-      "change_pct": -1.22
+      "price": 74172.82,
+      "change_pct": -1.4
     },
     {
       "label": "Gold",
-      "price": 4085.4,
+      "price": 4085.3,
       "change_pct": -0.71
     },
     {

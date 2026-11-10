@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-10T12:36:13+00:00",
-  "as_of_local": "2026-11-10 12:36:13 UTC",
+  "as_of_utc": "2026-11-10T12:41:33+00:00",
+  "as_of_local": "2026-11-10 12:41:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "QCOM"
+    "AVAV"
   ],
   "stocks": [
     {
@@ -203,6 +203,34 @@
       ]
     },
     {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "price": 171.47,
+      "previous_close": 165.41,
+      "change_pct": 3.66,
+      "market_cap": 183472901306.15234,
+      "headlines": [
+        {
+          "title": "ETFs Are Net Sellers of Qualcomm (QCOM) on Nov. 6",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-qualcomm-qcom-110254420.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-10T11:02:54Z"
+        },
+        {
+          "title": "At 13x earnings, is Qualcomm the most overlooked AI chip stock?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/13x-earnings-qualcomm-most-overlooked-103822244.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-10T10:38:22Z"
+        },
+        {
+          "title": "Zacks Investment Ideas feature highlights: SpaceX and Qualcomm",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-053500964.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T05:35:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "price": 154.6,
@@ -283,34 +311,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-innovation-etf-bai-bought-110550024.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-04T11:05:50Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 126.96,
-      "previous_close": 112.76,
-      "change_pct": 12.59,
-      "market_cap": 6452196279.392258,
-      "headlines": [
-        {
-          "title": "Why Drone Maker AeroVironment\u2019s Stock Is Rocketing on This Sub-$1 Billion Deal",
-          "url": "https://www.barrons.com/articles/aerovironment-stock-drone-contract-deal-161ec543?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-09T17:17:00Z"
-        },
-        {
-          "title": "Ondas Rallies 13% Ahead of Earnings, AeroVironment Jumps 10% on $315 Million Award; Red Cat Surges 10%",
-          "url": "https://finance.yahoo.com/news/ondas-rallies-13-ahead-earnings-165816445.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-09T16:58:16Z"
-        },
-        {
-          "title": "Will AeroVironment (AVAV) Beat Estimates Again in Its Next Earnings Report?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-beat-estimates-again-161002956.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T16:10:02Z"
         }
       ]
     },
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 74120.06,
-      "change_pct": -1.47
+      "price": 74126.81,
+      "change_pct": -1.46
     },
     {
       "label": "Gold",
-      "price": 4084.5,
-      "change_pct": -0.73
+      "price": 4083.3,
+      "change_pct": -0.76
     },
     {
       "label": "Nasdaq100",

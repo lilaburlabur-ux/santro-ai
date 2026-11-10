@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-10T11:35:10+00:00",
-  "as_of_local": "2026-11-10 11:35:10 UTC",
+  "as_of_utc": "2026-11-10T11:40:16+00:00",
+  "as_of_local": "2026-11-10 11:40:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "QCOM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -43,6 +41,12 @@
       "market_cap": 2015567505607.48,
       "headlines": [
         {
+          "title": "TSMC Reports 59.7% Rise in October Revenue to NT$367.47 Billion Amid AI Chip Demand",
+          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-reports-59-7-rise-111242338.html",
+          "publisher": "InvestorsHub",
+          "published": "2026-11-10T11:12:42Z"
+        },
+        {
           "title": "TSMC Sales Jump Again -- Nvidia and Apple Orders Keep the AI Chip Boom Going",
           "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-sales-jump-again-nvidia-111006983.html",
           "publisher": "GuruFocus.com",
@@ -53,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/capital-group-div-value-cgdv-110522934.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-10T11:05:22Z"
-        },
-        {
-          "title": "ETFs Are Net Sellers of Taiwan Semiconductor (TSM) on Nov. 6",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-taiwan-semiconductor-110302950.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-10T11:03:02Z"
         }
       ]
     },
@@ -203,6 +201,34 @@
       ]
     },
     {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "price": 171.47,
+      "previous_close": 165.41,
+      "change_pct": 3.66,
+      "market_cap": 183472901306.15234,
+      "headlines": [
+        {
+          "title": "ETFs Are Net Sellers of Qualcomm (QCOM) on Nov. 6",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-qualcomm-qcom-110254420.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-10T11:02:54Z"
+        },
+        {
+          "title": "At 13x earnings, is Qualcomm the most overlooked AI chip stock?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/13x-earnings-qualcomm-most-overlooked-103822244.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-10T10:38:22Z"
+        },
+        {
+          "title": "Zacks Investment Ideas feature highlights: SpaceX and Qualcomm",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-053500964.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T05:35:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "price": 154.6,
@@ -223,10 +249,10 @@
           "published": "2026-11-10T10:31:51Z"
         },
         {
-          "title": "S&P 500, Dow futures climb as oil slide lifts sentiment",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-climb-102635174.html",
-          "publisher": "Reuters",
-          "published": "2026-11-10T10:26:35Z"
+          "title": "A $28 Billion Fund Bought These 3 Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/28-billion-fund-bought-3-074644149.html",
+          "publisher": "TIKR",
+          "published": "2026-11-10T07:46:44Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 74150.16,
-      "change_pct": -1.43
+      "price": 74200.0,
+      "change_pct": -1.36
     },
     {
       "label": "Gold",
-      "price": 4082.2,
-      "change_pct": -0.79
+      "price": 4081.3,
+      "change_pct": -0.81
     },
     {
       "label": "Nasdaq100",

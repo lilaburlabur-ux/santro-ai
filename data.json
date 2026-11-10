@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-10T10:04:49+00:00",
-  "as_of_local": "2026-11-10 10:04:49 UTC",
+  "as_of_utc": "2026-11-10T10:09:51+00:00",
+  "as_of_local": "2026-11-10 10:09:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -209,12 +211,6 @@
       "market_cap": 183472901306.15234,
       "headlines": [
         {
-          "title": "Did Jensen Huang know? Nvidia's CEO and an alleged spy",
-          "url": "https://finance.yahoo.com/video/did-jensen-huang-know-nvidias-ceo-and-an-alleged-spy-180451767.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-09T18:04:51Z"
-        },
-        {
           "title": "Zacks Investment Ideas feature highlights: SpaceX and Qualcomm",
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-053500964.html",
           "publisher": "Zacks",
@@ -225,6 +221,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/spcx-stock-logs-2-day-042605532.html",
           "publisher": "Stocktwits",
           "published": "2026-11-10T04:26:05Z"
+        },
+        {
+          "title": "Qualcomm, Impinj, Power Integrations, and Kulicke and Soffa shares are soaring, what you need to know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-impinj-power-integrations-kulicke-025336657.html",
+          "publisher": "StockStory",
+          "published": "2026-11-10T02:53:36Z"
         }
       ]
     },
@@ -281,34 +283,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-just-crushed-earnings-151500838.html",
           "publisher": "MarketBeat",
           "published": "2026-11-07T15:15:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 113.89,
-      "previous_close": 105.02,
-      "change_pct": 8.45,
-      "market_cap": 16198083861.182327,
-      "headlines": [
-        {
-          "title": "Allegro MicroSystems, IPG Photonics, Lattice Semiconductor, Entegris, and Broadcom shares skyrocket, what you need to know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/allegro-microsystems-ipg-photonics-lattice-030136618.html",
-          "publisher": "StockStory",
-          "published": "2026-11-10T03:01:36Z"
-        },
-        {
-          "title": "ETFs Are Net Sellers of Lattice Semiconductor (LSCC) on Tuesday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-lattice-semiconductor-110213477.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-05T11:02:13Z"
-        },
-        {
-          "title": "What iShares A.I. Innovation ETF (BAI) Bought: Amazon Leads on Nov. 2",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-innovation-etf-bai-bought-110550024.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-04T11:05:50Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 74336.14,
-      "change_pct": -1.18
+      "price": 74330.49,
+      "change_pct": -1.19
     },
     {
       "label": "Gold",
-      "price": 4091.2,
-      "change_pct": -0.57
+      "price": 4096.4,
+      "change_pct": -0.44
     },
     {
       "label": "Nasdaq100",

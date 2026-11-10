@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-10T10:35:25+00:00",
-  "as_of_local": "2026-11-10 10:35:25 UTC",
+  "as_of_utc": "2026-11-10T10:40:30+00:00",
+  "as_of_local": "2026-11-10 10:40:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 1525079321714.864,
       "headlines": [
         {
+          "title": "As AI hardware sells off, is this chip designer now deeply undervalued?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-hardware-sells-off-chip-103151585.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-10T10:31:51Z"
+        },
+        {
           "title": "A Fund With $2 Billion in US Equities Bought These 3 Stocks",
           "url": "https://finance.yahoo.com/markets/stocks/articles/fund-2-billion-us-equities-074336226.html",
           "publisher": "TIKR",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/technology/articles/broadcom-avgo-brings-vm-api-061320441.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-10T06:13:20Z"
-        },
-        {
-          "title": "Allegro MicroSystems, IPG Photonics, Lattice Semiconductor, Entegris, and Broadcom shares skyrocket, what you need to know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/allegro-microsystems-ipg-photonics-lattice-030136618.html",
-          "publisher": "StockStory",
-          "published": "2026-11-10T03:01:36Z"
         }
       ]
     },
@@ -237,6 +237,12 @@
       "market_cap": 139103810848.93512,
       "headlines": [
         {
+          "title": "As AI hardware sells off, is this chip designer now deeply undervalued?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-hardware-sells-off-chip-103151585.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-10T10:31:51Z"
+        },
+        {
           "title": "S&P 500, Dow futures climb as oil slide lifts sentiment",
           "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-climb-102635174.html",
           "publisher": "Reuters",
@@ -247,12 +253,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/28-billion-fund-bought-3-074644149.html",
           "publisher": "TIKR",
           "published": "2026-11-10T07:46:44Z"
-        },
-        {
-          "title": "Even After a Cut, B. Riley\u2019s $250 Target Says Marvell\u2019s Selloff Went Too Far",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/even-cut-b-riley-250-061036234.html",
-          "publisher": "TIKR",
-          "published": "2026-11-10T06:10:36Z"
         }
       ]
     },
@@ -463,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 9.86,
-          "price": 289.78,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -553,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 9.86,
-        "price": 289.78,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 74153.89,
-      "change_pct": -1.42
+      "price": 74129.3,
+      "change_pct": -1.45
     },
     {
       "label": "Gold",
-      "price": 4086.1,
-      "change_pct": -0.69
+      "price": 4084.2,
+      "change_pct": -0.74
     },
     {
       "label": "Nasdaq100",

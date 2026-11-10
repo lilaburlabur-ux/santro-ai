@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-10T00:27:01+00:00",
-  "as_of_local": "2026-11-10 00:27:01 UTC",
+  "as_of_utc": "2026-11-10T00:32:05+00:00",
+  "as_of_local": "2026-11-10 00:32:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CEVA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -217,16 +215,16 @@
           "published": "2026-11-09T18:04:51Z"
         },
         {
-          "title": "OpenAI's Hail Mary: GPT-6.2 Astra and a $1.25 trillion bet",
-          "url": "https://finance.yahoo.com/video/openais-hail-mary-gpt-6-120000784.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-09T12:00:00Z"
-        },
-        {
           "title": "Is a Continued Rebound in SpaceX Stock Imminent After Musk's Lofty Revenue Forecast?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/continued-rebound-spacex-stock-imminent-185600427.html",
           "publisher": "Zacks",
           "published": "2026-11-09T18:56:00Z"
+        },
+        {
+          "title": "Qualcomm Stocks Jump 5.82% After Alphabet Discloses $548 Million Stake",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stocks-jump-5-82-182124973.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-09T18:21:24Z"
         }
       ]
     },
@@ -369,6 +367,34 @@
           "published": "2026-11-05T23:07:15Z"
         }
       ]
+    },
+    {
+      "symbol": "CEVA",
+      "name": "CEVA",
+      "price": 24.84,
+      "previous_close": 27.1,
+      "change_pct": -8.34,
+      "market_cap": 699347152.7759705,
+      "headlines": [
+        {
+          "title": "CEVA, Inc. Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-inc-q3-2026-earnings-214428841.html",
+          "publisher": "Moby",
+          "published": "2026-11-09T21:44:28Z"
+        },
+        {
+          "title": "CEVA Inc (CEVA) Q3 2026 Earnings Call Highlights: Record AI Licensing and Highest-Ever Q4 ...",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ceva-inc-ceva-q3-2026-210723225.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-09T21:07:23Z"
+        },
+        {
+          "title": "CEVA (CEVA) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-ceva-q3-2026-earnings-192814949.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09T19:28:14Z"
+        }
+      ]
     }
   ],
   "etfs": [
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 7.75,
-          "price": 1224000.0,
+          "change_pct": 7.48,
+          "price": 1221000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 5.32,
-          "price": 200000.0,
+          "change_pct": 5.11,
+          "price": 199600.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -2.46,
-          "price": 8302.0,
+          "change_pct": 9.13,
+          "price": 9060.0,
           "currency": "JPY"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 7.75,
-        "price": 1224000.0,
+        "change_pct": 7.48,
+        "price": 1221000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 5.32,
-        "price": 200000.0,
+        "change_pct": 5.11,
+        "price": 199600.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -2.46,
-        "price": 8302.0,
+        "change_pct": 9.13,
+        "price": 9060.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 75038.21,
-      "change_pct": 0.61
+      "price": 75013.4,
+      "change_pct": 0.57
     },
     {
       "label": "Gold",
-      "price": 4141.4,
-      "change_pct": 1.63
+      "price": 4137.8,
+      "change_pct": 1.54
     },
     {
       "label": "Nasdaq100",

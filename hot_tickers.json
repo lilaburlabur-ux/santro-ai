@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-10T14:38:52+00:00",
+  "as_of": "2026-11-10T14:54:06+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,32 @@
    "rank": 1,
    "ticker": "PUBM",
    "company": "PubMatic Inc",
-   "move_pct": -7.54,
-   "price": 17.59,
-   "volume": 93955,
+   "move_pct": -6.94,
+   "price": 17.71,
+   "volume": 135396,
    "volume_vs_avg": "~0.2x",
-   "heat_score": 42,
+   "heat_score": 40,
    "direction": "down",
    "why": "Trade Desk Falls 7% Despite Earnings Beat as Overnight Rally Fades; PubMatic Drops 5%, Magnite Holds Steady",
    "catalyst_type": "earnings",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/trade-desk-falls-7-despite-135434412.html",
    "published": "2026-11-10T13:54:34+00:00",
+   "sector": "AI Applications & Data Software"
+  },
+  {
+   "rank": 2,
+   "ticker": "SOUN",
+   "company": "SoundHound AI Inc",
+   "move_pct": -5.56,
+   "price": 3.83,
+   "volume": 3929669,
+   "volume_vs_avg": "~0.2x",
+   "heat_score": 36,
+   "direction": "down",
+   "why": "SoundHound AI Named a Leader and a Star Performer in Everest Group\u2019s Conversational AI and AI Agents in CXM Products PEAK Matrix\u00ae Assessment 2026",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/soundhound-ai-named-leader-star-140500272.html",
+   "published": "2026-11-10T14:05:00+00:00",
    "sector": "AI Applications & Data Software"
   }
  ]

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-10T09:44:34+00:00",
-  "as_of_local": "2026-11-10 09:44:34 UTC",
+  "as_of_utc": "2026-11-10T09:49:36+00:00",
+  "as_of_local": "2026-11-10 09:49:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -181,6 +181,12 @@
       "market_cap": 199341003265.38086,
       "headlines": [
         {
+          "title": "Japanese investor SoftBank Group sinks into losses as company's AI hopes falter",
+          "url": "https://finance.yahoo.com/technology/ai/articles/japanese-investor-softbank-group-sinks-094204614.html",
+          "publisher": "Associated Press",
+          "published": "2026-11-10T09:42:04Z"
+        },
+        {
           "title": "SoftBank Logs $7 Billion Loss After US Data Center Costs Swell",
           "url": "https://finance.yahoo.com/technology/ai/articles/softbank-logs-7-billion-loss-065612363.html",
           "publisher": "Bloomberg",
@@ -191,12 +197,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/former-goldman-sachs-ceo-slams-223007401.html",
           "publisher": "Benzinga",
           "published": "2026-11-09T22:30:07Z"
-        },
-        {
-          "title": "Intel took 25 years to get back to its dot-com peak \u2014 and lost it in 6 months: Chart of the Day",
-          "url": "https://finance.yahoo.com/markets/article/intel-took-25-years-to-get-back-to-its-dot-com-peak--and-lost-it-in-6-months-chart-of-the-day-144715722.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-09T14:47:15Z"
         }
       ]
     },
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 3.51,
+          "price": 383.0,
           "currency": "TWD"
         },
         {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 3.51,
+        "price": 383.0,
         "currency": "TWD"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 74300.02,
-      "change_pct": -1.23
+      "price": 74367.55,
+      "change_pct": -1.14
     },
     {
       "label": "Gold",
-      "price": 4097.1,
-      "change_pct": -0.42
+      "price": 4092.5,
+      "change_pct": -0.53
     },
     {
       "label": "Nasdaq100",

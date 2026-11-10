@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-10T08:58:40+00:00",
-  "as_of_local": "2026-11-10 08:58:40 UTC",
+  "as_of_utc": "2026-11-10T09:03:47+00:00",
+  "as_of_local": "2026-11-10 09:03:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LSCC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -99,12 +97,6 @@
       "market_cap": 834115552090.9241,
       "headlines": [
         {
-          "title": "Nvidia vs. AMD: Why Lisa Su's company is a great alternative for investors",
-          "url": "https://finance.yahoo.com/video/nvidia-vs-amd-why-lisa-170000159.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-09T17:00:00Z"
-        },
-        {
           "title": "A $28 Billion Fund Bought These 3 Stocks",
           "url": "https://finance.yahoo.com/markets/stocks/articles/28-billion-fund-bought-3-074644149.html",
           "publisher": "TIKR",
@@ -115,6 +107,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-clocks-best-day-055907215.html",
           "publisher": "Stocktwits",
           "published": "2026-11-10T05:59:07Z"
+        },
+        {
+          "title": "3 Growth Stocks To Watch With Up To 58% Earnings Growth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-watch-58-052025265.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-10T05:20:25Z"
         }
       ]
     },
@@ -283,6 +281,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-just-crushed-earnings-151500838.html",
           "publisher": "MarketBeat",
           "published": "2026-11-07T15:15:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 113.89,
+      "previous_close": 105.02,
+      "change_pct": 8.45,
+      "market_cap": 16198083861.182327,
+      "headlines": [
+        {
+          "title": "Allegro MicroSystems, IPG Photonics, Lattice Semiconductor, Entegris, and Broadcom shares skyrocket, what you need to know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/allegro-microsystems-ipg-photonics-lattice-030136618.html",
+          "publisher": "StockStory",
+          "published": "2026-11-10T03:01:36Z"
+        },
+        {
+          "title": "ETFs Are Net Sellers of Lattice Semiconductor (LSCC) on Tuesday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-lattice-semiconductor-110213477.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-05T11:02:13Z"
+        },
+        {
+          "title": "What iShares A.I. Innovation ETF (BAI) Bought: Amazon Leads on Nov. 2",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-innovation-etf-bai-bought-110550024.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-04T11:05:50Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 74617.99,
-      "change_pct": -0.8
+      "price": 74338.99,
+      "change_pct": -1.18
     },
     {
       "label": "Gold",
-      "price": 4125.0,
-      "change_pct": 0.26
+      "price": 4125.7,
+      "change_pct": 0.27
     },
     {
       "label": "Nasdaq100",

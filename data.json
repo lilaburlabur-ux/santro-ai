@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-10T02:13:25+00:00",
-  "as_of_local": "2026-11-10 02:13:25 UTC",
+  "as_of_utc": "2026-11-10T02:28:35+00:00",
+  "as_of_local": "2026-11-10 02:28:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "AMD"
+    "SYNA"
   ],
   "stocks": [
     {
@@ -87,6 +87,34 @@
           "url": "https://www.barrons.com/articles/nvidia-stock-buy-sell-hold-fcf9b418?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-09T21:25:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 449.04,
+      "previous_close": 404.4,
+      "change_pct": 11.04,
+      "market_cap": 834115574113.58,
+      "headlines": [
+        {
+          "title": "Nvidia vs. AMD: Why Lisa Su's company is a great alternative for investors",
+          "url": "https://finance.yahoo.com/video/nvidia-vs-amd-why-lisa-170000159.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-09T17:00:00Z"
+        },
+        {
+          "title": "Tech stocks rally as Nvidia stock and oil prices fall: AlphaCheck",
+          "url": "https://finance.yahoo.com/markets/article/tech-stocks-rally-as-nvidia-stock-and-oil-prices-fall-alphacheck-152208023.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-09T15:22:08Z"
+        },
+        {
+          "title": "Sanmina Q4 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sanmina-q4-earnings-call-highlights-021436207.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-10T02:14:36Z"
         }
       ]
     },
@@ -315,34 +343,6 @@
       ]
     },
     {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 116.7,
-      "previous_close": 116.4,
-      "change_pct": 0.26,
-      "market_cap": 4658168501.0,
-      "headlines": [
-        {
-          "title": "SYNA Q1 Earnings Beat Estimates, Revenues Miss on Weak Demand",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/syna-q1-earnings-beat-estimates-152400592.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T15:24:00Z"
-        },
-        {
-          "title": "Synaptics (SYNA) Tops Q1 Earnings Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-tops-q1-earnings-000013395.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T00:00:13Z"
-        },
-        {
-          "title": "Synaptics: Fiscal Q1 Earnings Snapshot",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-fiscal-q1-earnings-snapshot-230715396.html",
-          "publisher": "Associated Press",
-          "published": "2026-11-05T23:07:15Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 27.1,
@@ -392,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 5.81,
-          "price": 1202000.0,
+          "change_pct": 6.07,
+          "price": 1205000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 4.9,
-          "price": 199200.0,
+          "change_pct": 5.0,
+          "price": 199400.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 7.35,
-          "price": 8912.0,
+          "change_pct": 7.48,
+          "price": 8923.0,
           "currency": "JPY"
         },
         {
@@ -446,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 7.3,
-          "price": 397.0,
+          "change_pct": 6.49,
+          "price": 394.0,
           "currency": "TWD"
         },
         {
@@ -455,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 5.66,
-          "price": 140.0,
+          "change_pct": 4.91,
+          "price": 139.0,
           "currency": "TWD"
         }
       ]
@@ -482,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 5.81,
-        "price": 1202000.0,
+        "change_pct": 6.07,
+        "price": 1205000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 4.9,
-        "price": 199200.0,
+        "change_pct": 5.0,
+        "price": 199400.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 7.35,
-        "price": 8912.0,
+        "change_pct": 7.48,
+        "price": 8923.0,
         "currency": "JPY"
       },
       {
@@ -536,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 7.3,
-        "price": 397.0,
+        "change_pct": 6.49,
+        "price": 394.0,
         "currency": "TWD"
       },
       {
@@ -545,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 5.66,
-        "price": 140.0,
+        "change_pct": 4.91,
+        "price": 139.0,
         "currency": "TWD"
       }
     ]
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 74858.92,
-      "change_pct": 0.37
+      "price": 74798.66,
+      "change_pct": 0.29
     },
     {
       "label": "Gold",
-      "price": 4134.5,
-      "change_pct": 1.46
+      "price": 4131.6,
+      "change_pct": 1.39
     },
     {
       "label": "Nasdaq100",

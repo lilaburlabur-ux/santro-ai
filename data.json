@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-10T01:58:13+00:00",
-  "as_of_local": "2026-11-10 01:58:13 UTC",
+  "as_of_utc": "2026-11-10T02:13:25+00:00",
+  "as_of_local": "2026-11-10 02:13:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -70,7 +72,7 @@
       "headlines": [
         {
           "title": "\u2018Big Short\u2019 Investor Steve Eisman Says OpenAI\u2019s Collapse Could Trigger an Immediate Recession",
-          "url": "https://finance.yahoo.com/economy/articles/big-short-investor-steve-eisman-230714187.html",
+          "url": "https://finance.yahoo.com/news/big-short-investor-steve-eisman-230714187.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-09T23:07:14Z"
         },
@@ -85,34 +87,6 @@
           "url": "https://www.barrons.com/articles/nvidia-stock-buy-sell-hold-fcf9b418?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-09T21:25:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 449.04,
-      "previous_close": 404.4,
-      "change_pct": 11.04,
-      "market_cap": 834115574113.58,
-      "headlines": [
-        {
-          "title": "Nvidia vs. AMD: Why Lisa Su's company is a great alternative for investors",
-          "url": "https://finance.yahoo.com/video/nvidia-vs-amd-why-lisa-170000159.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-09T17:00:00Z"
-        },
-        {
-          "title": "Tech stocks rally as Nvidia stock and oil prices fall: AlphaCheck",
-          "url": "https://finance.yahoo.com/markets/article/tech-stocks-rally-as-nvidia-stock-and-oil-prices-fall-alphacheck-152208023.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-09T15:22:08Z"
-        },
-        {
-          "title": "The AI Trade Looks Like It's Falling Apart. AMD's Earnings Delivered a Reality Check.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-trade-looks-falling-apart-012000305.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-10T01:20:00Z"
         }
       ]
     },
@@ -328,7 +302,7 @@
         },
         {
           "title": "Ondas Rallies 13% Ahead of Earnings, AeroVironment Jumps 10% on $315 Million Award; Red Cat Surges 10%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ondas-rallies-13-ahead-earnings-165816445.html",
+          "url": "https://finance.yahoo.com/news/ondas-rallies-13-ahead-earnings-165816445.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-09T16:58:16Z"
         },
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 5.19,
-          "price": 1195000.0,
+          "change_pct": 5.81,
+          "price": 1202000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 4.16,
-          "price": 197800.0,
+          "change_pct": 4.9,
+          "price": 199200.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 6.25,
-          "price": 8821.0,
+          "change_pct": 7.35,
+          "price": 8912.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 8.51,
-          "price": 401.5,
+          "change_pct": 7.3,
+          "price": 397.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 6.79,
-          "price": 141.5,
+          "change_pct": 5.66,
+          "price": 140.0,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 5.19,
-        "price": 1195000.0,
+        "change_pct": 5.81,
+        "price": 1202000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 4.16,
-        "price": 197800.0,
+        "change_pct": 4.9,
+        "price": 199200.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 6.25,
-        "price": 8821.0,
+        "change_pct": 7.35,
+        "price": 8912.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 8.51,
-        "price": 401.5,
+        "change_pct": 7.3,
+        "price": 397.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 6.79,
-        "price": 141.5,
+        "change_pct": 5.66,
+        "price": 140.0,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 75024.43,
-      "change_pct": 0.59
+      "price": 74858.92,
+      "change_pct": 0.37
     },
     {
       "label": "Gold",
-      "price": 4137.8,
-      "change_pct": 1.54
+      "price": 4134.5,
+      "change_pct": 1.46
     },
     {
       "label": "Nasdaq100",

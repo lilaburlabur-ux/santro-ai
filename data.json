@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-10T06:16:42+00:00",
-  "as_of_local": "2026-11-10 06:16:42 UTC",
+  "as_of_utc": "2026-11-10T06:31:51+00:00",
+  "as_of_local": "2026-11-10 06:31:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-technology-stock-gained-230702184.html",
           "publisher": "Motley Fool",
           "published": "2026-11-09T23:07:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 59.37,
-      "previous_close": 56.28,
-      "change_pct": 5.49,
-      "market_cap": 315551544322.9675,
-      "headlines": [
-        {
-          "title": "Intel took 25 years to get back to its dot-com peak \u2014 and lost it in 6 months: Chart of the Day",
-          "url": "https://finance.yahoo.com/markets/article/intel-took-25-years-to-get-back-to-its-dot-com-peak--and-lost-it-in-6-months-chart-of-the-day-144715722.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-09T14:47:15Z"
-        },
-        {
-          "title": "Amtech, Intel, Applied Materials, AMD, and KLA Corporation shares are soaring, what you need to know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amtech-intel-applied-materials-amd-023736161.html",
-          "publisher": "StockStory",
-          "published": "2026-11-10T02:37:36Z"
-        },
-        {
-          "title": "Nvidia CEO admits affair as company launches probe into spy claims",
-          "url": "https://finance.yahoo.com/video/nvidia-ceo-admits-affair-company-022227791.html",
-          "publisher": "CNN Business",
-          "published": "2026-11-10T02:22:27Z"
         }
       ]
     },
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 7.57,
-          "price": 1222000.0,
+          "change_pct": 7.48,
+          "price": 1221000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 5.16,
-          "price": 199700.0,
+          "change_pct": 5.06,
+          "price": 199500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 9.67,
-          "price": 9105.0,
+          "change_pct": 9.07,
+          "price": 9055.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 7.57,
-        "price": 1222000.0,
+        "change_pct": 7.48,
+        "price": 1221000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 5.16,
-        "price": 199700.0,
+        "change_pct": 5.06,
+        "price": 199500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 9.67,
-        "price": 9105.0,
+        "change_pct": 9.07,
+        "price": 9055.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 74501.15,
-      "change_pct": -0.11
+      "price": 74561.46,
+      "change_pct": -0.03
     },
     {
       "label": "Gold",
-      "price": 4130.5,
-      "change_pct": 0.39
+      "price": 4131.6,
+      "change_pct": 0.42
     },
     {
       "label": "Nasdaq100",

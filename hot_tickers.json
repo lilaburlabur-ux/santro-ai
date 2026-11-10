@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-10T21:05:13+00:00",
+  "as_of": "2026-11-10T21:10:13+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "NVDA",
    "company": "NVIDIA Corp",
-   "move_pct": -5.14,
-   "price": 169.49,
+   "move_pct": -4.93,
+   "price": 169.86,
    "volume": 415341911,
    "volume_vs_avg": "~3x",
    "heat_score": 49,
@@ -27,33 +27,17 @@
    "rank": 2,
    "ticker": "TTD",
    "company": "Trade Desk Inc",
-   "move_pct": 2.88,
-   "price": 15.36,
+   "move_pct": 2.67,
+   "price": 15.33,
    "volume": 64164888,
    "volume_vs_avg": "~4x",
-   "heat_score": 43,
+   "heat_score": 42,
    "direction": "up",
    "why": "Rocket Lab and The Trade Desk Are 2 Beaten-Down Stocks to Buy Before 2027",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-trade-desk-2-200701066.html",
    "published": "2026-11-10T20:07:01+00:00",
    "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 3,
-   "ticker": "BBAI",
-   "company": "BigBear.ai Holdings Inc",
-   "move_pct": -5.31,
-   "price": 2.32,
-   "volume": 21390255,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 39,
-   "direction": "down",
-   "why": "BigBear.ai's Pangiam Threat Detection Receives Europe-Wide ECAC Certification for Airport Security Screening",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/bigbear-ais-pangiam-threat-detection-180000428.html",
-   "published": "2026-11-10T18:00:00+00:00",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

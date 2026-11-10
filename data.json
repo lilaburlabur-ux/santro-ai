@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-10T14:23:22+00:00",
-  "as_of_local": "2026-11-10 14:23:22 UTC",
+  "as_of_utc": "2026-11-10T14:28:20+00:00",
+  "as_of_local": "2026-11-10 14:28:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -209,6 +209,12 @@
       "market_cap": 183472901306.15234,
       "headlines": [
         {
+          "title": "Freedom Broker cuts Qualcomm rating as margin squeeze offsets growth upside",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/freedom-broker-cuts-qualcomm-rating-141938897.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-10T14:19:38Z"
+        },
+        {
           "title": "After challenging Google\u2019s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
           "url": "https://finance.yahoo.com/technology/ai/articles/challenging-google-android-cyanogen-co-140000679.html",
           "publisher": "TechCrunch",
@@ -219,12 +225,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-vs-western-digital-tech-134402429.html",
           "publisher": "Motley Fool",
           "published": "2026-11-10T13:44:02Z"
-        },
-        {
-          "title": "Qualcomm Price Prediction: Automotive Boom Could Spark a Surprise Rebound",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-price-prediction-automotive-boom-133305733.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-10T13:33:05Z"
         }
       ]
     },
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 3.51,
+          "price": 383.0,
           "currency": "TWD"
         },
         {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 3.51,
+        "price": 383.0,
         "currency": "TWD"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 73665.26,
-      "change_pct": -2.07
+      "price": 73650.86,
+      "change_pct": -2.09
     },
     {
       "label": "Gold",
-      "price": 4061.8,
-      "change_pct": -1.28
+      "price": 4059.7,
+      "change_pct": -1.33
     },
     {
       "label": "Nasdaq100",

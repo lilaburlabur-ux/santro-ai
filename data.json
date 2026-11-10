@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-10T21:14:56+00:00",
-  "as_of_local": "2026-11-10 21:14:56 UTC",
+  "as_of_utc": "2026-11-10T21:20:25+00:00",
+  "as_of_local": "2026-11-10 21:20:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -37,10 +35,10 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 396.58,
+      "price": 396.48,
       "previous_close": 388.62,
-      "change_pct": 2.05,
-      "market_cap": 2056877752127.5898,
+      "change_pct": 2.02,
+      "market_cap": 2056333273654.5454,
       "headlines": [
         {
           "title": "TSMC record sales strengthen Wedbush\u2019s bullish outlook",
@@ -105,16 +103,44 @@
           "published": "2026-11-10T16:53:14Z"
         },
         {
+          "title": "AMD stock jumps 13% after 5-star analyst resets price target",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-jumps-13-5-210700419.html",
+          "publisher": "TheStreet",
+          "published": "2026-11-10T21:07:00Z"
+        },
+        {
           "title": "Nvidia\u2019s 70% to 80% Margins Are \u201cLike Throwing Chum in the Water,\u201d Says Its Biographer",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-70-80-margins-throwing-195526666.html",
           "publisher": "TIKR",
           "published": "2026-11-10T19:55:26Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 725.11,
+      "previous_close": 733.15,
+      "change_pct": -1.1,
+      "market_cap": 820406268679.7378,
+      "headlines": [
+        {
+          "title": "Micron stock is a screaming buy at current valuation levels: Goldman Sachs",
+          "url": "https://finance.yahoo.com/markets/stocks/article/micron-stock-is-a-screaming-buy-at-current-valuation-levels-goldman-sachs-172852076.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-10T17:28:52Z"
         },
         {
-          "title": "AMD Stock Just Got Massive Upgrade From Oppenheimer",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-just-got-massive-194039394.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-10T19:40:39Z"
+          "title": "5 Best Tech Stocks That Pay Dividends",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-pay-194142629.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-10T19:41:42Z"
+        },
+        {
+          "title": "Micron & 2 Profitable Stocks to Buy Now for Explosive Upside",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-2-profitable-stocks-buy-190000487.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T19:00:00Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -1.1,
+          "price": 725.11,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -1.1,
+        "price": 725.11,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 73846.0,
-      "change_pct": -1.83
+      "price": 73904.66,
+      "change_pct": -1.75
     },
     {
       "label": "Gold",
-      "price": 4038.1,
-      "change_pct": -1.86
+      "price": 4039.1,
+      "change_pct": -1.83
     },
     {
       "label": "Nasdaq100",

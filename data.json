@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-10T10:15:20+00:00",
-  "as_of_local": "2026-11-10 10:15:20 UTC",
+  "as_of_utc": "2026-11-10T10:20:17+00:00",
+  "as_of_local": "2026-11-10 10:20:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -115,6 +113,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-watch-58-052025265.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-10T05:20:25Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 733.15,
+      "previous_close": 690.0,
+      "change_pct": 6.25,
+      "market_cap": 829502955500.437,
+      "headlines": [
+        {
+          "title": "Micron, FormFactor, Amkor, Teradyne, and Nvidia shares skyrocket, what you need to know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-formfactor-amkor-teradyne-nvidia-024536276.html",
+          "publisher": "StockStory",
+          "published": "2026-11-10T02:45:36Z"
+        },
+        {
+          "title": "Western Digital or Micron? Jim Cramer Says \u201cI Think Micron\u2019s a Better Company.\u201d Here\u2019s the Test",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-micron-jim-cramer-003204910.html",
+          "publisher": "TIKR",
+          "published": "2026-11-10T00:32:04Z"
+        },
+        {
+          "title": "Why Micron Technology Stock Gained On Monday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-technology-stock-gained-230702184.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09T23:07:02Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 6.25,
+          "price": 733.15,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 6.25,
+        "price": 733.15,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 74321.55,
-      "change_pct": -1.2
+      "price": 74235.71,
+      "change_pct": -1.31
     },
     {
       "label": "Gold",
-      "price": 4090.3,
-      "change_pct": -0.59
+      "price": 4090.8,
+      "change_pct": -0.58
     },
     {
       "label": "Nasdaq100",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-10T13:42:30+00:00",
-  "as_of_local": "2026-11-10 13:42:30 UTC",
+  "as_of_utc": "2026-11-10T13:47:33+00:00",
+  "as_of_local": "2026-11-10 13:47:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,16 +15,16 @@
       "market_cap": 4314344445785.5225,
       "headlines": [
         {
-          "title": "Jensen Huang's spy scandal may cost Nvidia the China chip fight it was winning",
-          "url": "https://finance.yahoo.com/markets/article/jensen-huangs-spy-scandal-may-cost-nvidia-the-china-chip-fight-it-was-winning-121310306.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-10T12:13:10Z"
-        },
-        {
           "title": "Stock market today: Dow, S&P 500, Nasdaq trade mixed ahead of key inflation data",
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-10T09:06:27Z"
+        },
+        {
+          "title": "Jensen Huang's spy scandal may cost Nvidia the China chip fight it was winning",
+          "url": "https://finance.yahoo.com/markets/article/jensen-huangs-spy-scandal-may-cost-nvidia-the-china-chip-fight-it-was-winning-121310306.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-10T12:13:10Z"
         },
         {
           "title": "3 bipartisan plans could slap new controls on semiconductor exports. Elizabeth Warren wants to pass one this year.",
@@ -145,34 +147,6 @@
       ]
     },
     {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 59.37,
-      "previous_close": 56.28,
-      "change_pct": 5.49,
-      "market_cap": 315551544322.9675,
-      "headlines": [
-        {
-          "title": "What Sent Intel Stock Higher?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sent-intel-stock-higher-131127348.html",
-          "publisher": "Trefis",
-          "published": "2026-11-10T13:11:27Z"
-        },
-        {
-          "title": "AMD Just Guided to More Revenue Than Intel. A Decade Ago Intel Was 12x Its Size",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-just-guided-more-revenue-122822825.html",
-          "publisher": "TIKR",
-          "published": "2026-11-10T12:28:22Z"
-        },
-        {
-          "title": "Chip Stocks and Nvidia Trade Places as Normal Service Resumes",
-          "url": "https://www.barrons.com/articles/intel-amd-stock-nvidia-ai-chips-aaac0a7c?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-10T11:50:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "ARM",
       "name": "Arm Holdings",
       "price": 186.3,
@@ -209,6 +183,12 @@
       "market_cap": 183472901306.15234,
       "headlines": [
         {
+          "title": "Qualcomm Price Prediction: Automotive Boom Could Spark a Surprise Rebound",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-price-prediction-automotive-boom-133305733.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-10T13:33:05Z"
+        },
+        {
           "title": "What Sent Intel Stock Higher?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sent-intel-stock-higher-131127348.html",
           "publisher": "Trefis",
@@ -219,12 +199,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-qualcomm-qcom-110254420.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-10T11:02:54Z"
-        },
-        {
-          "title": "At 13x earnings, is Qualcomm the most overlooked AI chip stock?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/13x-earnings-qualcomm-most-overlooked-103822244.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-10T10:38:22Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 73712.93,
-      "change_pct": -2.01
+      "price": 73890.45,
+      "change_pct": -1.77
     },
     {
       "label": "Gold",
-      "price": 4056.4,
-      "change_pct": -1.41
+      "price": 4063.6,
+      "change_pct": -1.24
     },
     {
       "label": "Nasdaq100",

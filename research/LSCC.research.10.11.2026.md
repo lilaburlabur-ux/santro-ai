@@ -4,8 +4,8 @@ Signed file: `LSCC.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $113.89 (2026-11-10, ~15-min delayed) |
-| Market cap | $16.20B |
+| Current price | $110.62 (2026-11-10, ~15-min delayed) |
+| Market cap | $15.73B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `LSCC.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +82.19%; price -2.11% vs SMA200. |
-| Fresh setup quality | Poor / broken | -26.65% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +74.23%; price -5.03% vs SMA200. |
+| Fresh setup quality | Poor / broken | -28.76% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 5.53%, revenue growth 118.30%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 25.95, EV/Sales 21.01. |
-| Risk level | High | Beta 1.91, ATR 6.7% of price, short float 9.41%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 25.20, EV/Sales 21.01. |
+| Risk level | High | Beta 1.91, ATR 6.8% of price, short float 9.41%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
 
@@ -36,30 +36,30 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 
 | Headline | Source | Date |
 |---|---|---|
+| 3 AI Infrastructure Stocks Riding The Next Data Center Spending Wave | Simply Wall St. | 2026-11-10 |
 | Allegro MicroSystems, IPG Photonics, Lattice Semiconductor, Entegris, and Broadcom shares skyrocket, what you need to know | StockStory | 2026-11-10 |
 | ETFs Are Net Sellers of Lattice Semiconductor (LSCC) on Tuesday | GuruFocus.com | 2026-11-05 |
 | What iShares A.I. Innovation ETF (BAI) Bought: Amazon Leads on Nov. 2 | GuruFocus.com | 2026-11-04 |
-| ETFs Are Net Sellers of Lattice Semiconductor (LSCC) on Nov. 2 | GuruFocus.com | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $113.89; 52w high $155.27 (-26.65%); 52w low $61.73 (+84.50%) |
-| Trend | -2.11% vs SMA200, +0.10% vs SMA50, +8.93% vs SMA20 |
-| Momentum | RSI(14) 54.4 (neutral) |
-| Volatility | ATR(14) 7.61 (~6.7% of price); beta 1.91 |
-| Setup perspective | -26.65% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $110.62; 52w high $155.27 (-28.76%); 52w low $61.73 (+79.20%) |
+| Trend | -5.03% vs SMA200, -2.69% vs SMA50, +6.34% vs SMA20 |
+| Momentum | RSI(14) 51.7 (neutral) |
+| Volatility | ATR(14) 7.56 (~6.8% of price); beta 1.91 |
+| Setup perspective | -28.76% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +19.3% |
-| Month | -9.6% |
-| Quarter | -9.7% |
-| Half Y | -11.7% |
-| 1Y | +82.2% |
-| YTD | +44.8% |
+| Week | +4.4% |
+| Month | -9.9% |
+| Quarter | -14.4% |
+| Half Y | -11.8% |
+| 1Y | +74.2% |
+| YTD | +40.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Revenue (ttm) | $808.80M | Revenue growth 118.30% y/y |
 | Profitability | Gross 69.49%, operating 17.15%, net 5.53% | ROA 3.83%, ROE 4.21% |
 | Balance sheet | Cash $128.28M, debt $925.31M | Current ratio 1.92, debt/equity 65.29 |
-| Valuation | P/E 334.97, forward P/E 25.95, P/S 20.03, P/B 11.42 | EV/Sales 21.01, EV/EBITDA 107.24 |
+| Valuation | P/E 356.84, forward P/E 25.20, P/S 19.45, P/B 11.09 | EV/Sales 21.01, EV/EBITDA 107.24 |
 | Growth expectations | Earnings growth 297.80%, EPS q/q 301.10% | Analyst mean target $156.19 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 103.76% |
+| Institutional ownership | 103.87% |
 | Insider ownership | 0.59% |
 | Short float | 9.41% |
 | Short ratio (days to cover) | 3.7 |
@@ -95,8 +95,8 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Geode Capital Management, LLC | 3,398,079 | 2.39% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 25.95, EV/Sales 21.01. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.91, ATR 6.7% of price, short float 9.41%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 25.20, EV/Sales 21.01. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.91, ATR 6.8% of price, short float 9.41%. Size positions accordingly.
 - **Short interest risk:** short float 9.41% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -113,21 +113,21 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $113.89 | EV/Sales | 21.01 |
-| Market cap | $16.20B | EV/EBITDA | 107.24 |
+| Price | $110.62 | EV/Sales | 21.01 |
+| Market cap | $15.73B | EV/EBITDA | 107.24 |
 | Beta | 1.91 | Gross margin | 69.49% |
-| RSI(14) | 54.4 | Operating margin | 17.15% |
-| ATR(14) | 7.61 | Profit margin | 5.53% |
-| SMA20 dist | +8.93% | ROA | 3.83% |
-| SMA50 dist | +0.10% | ROE | 4.21% |
-| SMA200 dist | -2.11% | Revenue (ttm) | $808.80M |
+| RSI(14) | 51.7 | Operating margin | 17.15% |
+| ATR(14) | 7.56 | Profit margin | 5.53% |
+| SMA20 dist | +6.34% | ROA | 3.83% |
+| SMA50 dist | -2.69% | ROE | 4.21% |
+| SMA200 dist | -5.03% | Revenue (ttm) | $808.80M |
 | 52W high | $155.27 | Revenue growth y/y | 118.30% |
-| 52W low | $61.73 | Inst. ownership | 103.76% |
-| P/E (ttm) | 334.97 | Insider ownership | 0.59% |
-| Forward P/E | 25.95 | Short float | 9.41% |
-| PEG (trailing) | — | Avg volume | 1,954,851 |
-| P/S | 20.03 | Employees | 1,174 |
-| P/B | 11.42 | Analyst rec (1=buy..5=sell) | 1.4 |
+| 52W low | $61.73 | Inst. ownership | 103.87% |
+| P/E (ttm) | 356.84 | Insider ownership | 0.59% |
+| Forward P/E | 25.20 | Short float | 9.41% |
+| PEG (trailing) | — | Avg volume | 1,999,507 |
+| P/S | 19.45 | Employees | 1,174 |
+| P/B | 11.09 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

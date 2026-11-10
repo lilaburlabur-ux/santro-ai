@@ -1,9 +1,9 @@
 {
  "signed": "10.11.2026",
- "generated_utc": "2026-11-10T03:38:12+00:00",
+ "generated_utc": "2026-11-10T20:18:59+00:00",
  "macro": {
   "score": "Neutral",
-  "note": "Watchlist median 1Y +31%; 10/14 names positive. Sector-level proxy."
+  "note": "Watchlist median 1Y +35%; 10/14 names positive. Sector-level proxy."
  },
  "stocks": {
   "NVDA": {
@@ -11,11 +11,11 @@
    "thesis": "Strong fundamentals (64% net margin, 106% growth) at 11x forward; low momentum \u2014 broken \u2014 no zone.",
    "close": 178.67,
    "close_date": "2026-11-09",
-   "pe_ttm": 23.602377,
-   "fwd_pe": 11.217311,
+   "pe_ttm": 21.256638,
+   "fwd_pe": 10.556213,
    "short_float": 1.3,
-   "market_cap": 4314344194048,
-   "target": 326.91754,
+   "market_cap": 4060076572672,
+   "target": 325.7772,
    "analysts": 57,
    "scores": {
     "technical": "Low",
@@ -27,58 +27,58 @@
   },
   "TSM": {
    "name": "Taiwan Semiconductor Manufacturing Company Limited",
-   "thesis": "Strong fundamentals (51% net margin, 51% growth) at 17x forward; low momentum \u2014 broken \u2014 no zone.",
+   "thesis": "Strong fundamentals (51% net margin, 51% growth) at 17x forward; moderate momentum \u2014 broken \u2014 no zone.",
    "close": 388.62,
    "close_date": "2026-11-09",
-   "pe_ttm": 24.334375,
-   "fwd_pe": 16.61814,
+   "pe_ttm": 25.627996,
+   "fwd_pe": 16.909775,
    "short_float": 0.61,
-   "market_cap": 2015567544320,
+   "market_cap": 2050939289600,
    "target": 586.693,
    "analysts": 20,
    "scores": {
-    "technical": "Low",
+    "technical": "Moderate",
     "narrative": "Strong",
     "entry_zone": "Broken \u2014 no zone",
-    "rr": 5.3
+    "rr": 4.3
    },
    "report": "TSM.research.10.11.2026.md"
   },
   "AVGO": {
    "name": "Broadcom Inc.",
-   "thesis": "Strong fundamentals (43% net margin, 86% growth) at 16x forward; low momentum \u2014 broken \u2014 no zone.",
+   "thesis": "Strong fundamentals (43% net margin, 86% growth) at 17x forward; low momentum \u2014 broken \u2014 no zone.",
    "close": 319.48,
    "close_date": "2026-11-09",
-   "pe_ttm": 40.802044,
-   "fwd_pe": 16.41299,
+   "pe_ttm": 42.32184,
+   "fwd_pe": 17.024342,
    "short_float": 1.14,
-   "market_cap": 1525079343104,
+   "market_cap": 1581885554688,
    "target": 533.4238,
    "analysts": 47,
    "scores": {
     "technical": "Low",
     "narrative": "Strong",
     "entry_zone": "Broken \u2014 no zone",
-    "rr": 7.2
+    "rr": 4.9
    },
    "report": "AVGO.research.10.11.2026.md"
   },
   "MU": {
    "name": "Micron Technology, Inc.",
-   "thesis": "Strong fundamentals (64% net margin, 379% growth) at 4x forward; high momentum \u2014 broken \u2014 no zone.",
+   "thesis": "Strong fundamentals (64% net margin, 379% growth) at 3x forward; high momentum \u2014 broken \u2014 no zone.",
    "close": 733.15,
    "close_date": "2026-11-09",
-   "pe_ttm": 9.28273,
-   "fwd_pe": 3.5288234,
+   "pe_ttm": 9.622898,
+   "fwd_pe": 3.4427626,
    "short_float": 2.0,
-   "market_cap": 829502980096,
+   "market_cap": 809273131008,
    "target": 1561.9111,
    "analysts": 45,
    "scores": {
     "technical": "High",
     "narrative": "Strong",
     "entry_zone": "Broken \u2014 no zone",
-    "rr": 10.0
+    "rr": "10+"
    },
    "report": "MU.research.10.11.2026.md"
   },
@@ -87,55 +87,55 @@
    "thesis": "Strong fundamentals (17% net margin, 45% growth) at 29x forward; high momentum \u2014 deep pullback \u2014 needs base.",
    "close": 508.58,
    "close_date": "2026-11-09",
-   "pe_ttm": 95.95848,
-   "fwd_pe": 28.810257,
+   "pe_ttm": 110.22223,
+   "fwd_pe": 29.160852,
    "short_float": 2.33,
-   "market_cap": 834115600384,
-   "target": 658.5292,
+   "market_cap": 846022705152,
+   "target": 657.4875,
    "analysts": 48,
    "scores": {
     "technical": "High",
     "narrative": "Strong",
     "entry_zone": "Deep pullback \u2014 needs base",
-    "rr": 1.4
+    "rr": 1.2
    },
    "report": "AMD.research.10.11.2026.md"
   },
   "INTC": {
    "name": "Intel Corporation",
-   "thesis": "Weak fundamentals (-20% net margin, 21% growth) at 33x forward; low momentum \u2014 broken \u2014 no zone.",
+   "thesis": "Weak fundamentals (-20% net margin, 21% growth) at 32x forward; low momentum \u2014 broken \u2014 no zone.",
    "close": 59.37,
    "close_date": "2026-11-09",
    "pe_ttm": null,
-   "fwd_pe": 33.159077,
+   "fwd_pe": 32.28617,
    "short_float": 2.8,
-   "market_cap": 315551547392,
+   "market_cap": 307244728320,
    "target": 91.11628,
    "analysts": 43,
    "scores": {
     "technical": "Low",
     "narrative": "Neutral",
     "entry_zone": "Broken \u2014 no zone",
-    "rr": 4.0
+    "rr": 5.3
    },
    "report": "INTC.research.10.11.2026.md"
   },
   "ARM": {
    "name": "Arm Holdings plc",
-   "thesis": "Strong fundamentals (17% net margin, 27% growth) at 61x forward; low momentum \u2014 broken \u2014 no zone.",
+   "thesis": "Strong fundamentals (17% net margin, 27% growth) at 58x forward; low momentum \u2014 broken \u2014 no zone.",
    "close": 186.3,
    "close_date": "2026-11-09",
-   "pe_ttm": 214.13794,
-   "fwd_pe": 60.53753,
+   "pe_ttm": 206.67816,
+   "fwd_pe": 58.428623,
    "short_float": 12.02,
-   "market_cap": 199340998656,
+   "market_cap": 192396689408,
    "target": 273.405,
    "analysts": 40,
    "scores": {
     "technical": "Low",
     "narrative": "Supportive",
     "entry_zone": "Broken \u2014 no zone",
-    "rr": 3.8
+    "rr": 5.6
    },
    "report": "ARM.research.10.11.2026.md"
   },
@@ -144,17 +144,17 @@
    "thesis": "Strong fundamentals (28% net margin, 36% growth) at 21x forward; high momentum \u2014 broken \u2014 no zone.",
    "close": 154.6,
    "close_date": "2026-11-09",
-   "pe_ttm": 46.42643,
-   "fwd_pe": 21.034302,
+   "pe_ttm": 50.565792,
+   "fwd_pe": 20.914572,
    "short_float": 3.28,
-   "market_cap": 139103813632,
-   "target": 310.0666,
-   "analysts": 41,
+   "market_cap": 138312007680,
+   "target": 310.94324,
+   "analysts": 40,
    "scores": {
     "technical": "High",
     "narrative": "Strong",
     "entry_zone": "Broken \u2014 no zone",
-    "rr": 7.0
+    "rr": 7.4
    },
    "report": "MRVL.research.10.11.2026.md"
   },
@@ -163,17 +163,17 @@
    "thesis": "Mixed fundamentals (32% net margin, -8% growth) at 14x forward; moderate momentum \u2014 deep pullback \u2014 needs base.",
    "close": 171.47,
    "close_date": "2026-11-09",
-   "pe_ttm": 13.019742,
-   "fwd_pe": 14.042981,
+   "pe_ttm": 13.607086,
+   "fwd_pe": 14.152724,
    "short_float": 3.12,
-   "market_cap": 183472898048,
-   "target": 185.7857,
+   "market_cap": 184906694656,
+   "target": 185.25,
    "analysts": 28,
    "scores": {
     "technical": "Moderate",
     "narrative": "Neutral",
     "entry_zone": "Deep pullback \u2014 needs base",
-    "rr": 0.6
+    "rr": 0.5
    },
    "report": "QCOM.research.10.11.2026.md"
   },
@@ -182,36 +182,36 @@
    "thesis": "Strong fundamentals (23% net margin, 19% growth) at 14x forward; moderate momentum \u2014 deep pullback \u2014 needs base.",
    "close": 256.42,
    "close_date": "2026-11-09",
-   "pe_ttm": 19.529324,
-   "fwd_pe": 13.980113,
+   "pe_ttm": 20.515343,
+   "fwd_pe": 14.216186,
    "short_float": 2.67,
-   "market_cap": 64631431168,
+   "market_cap": 65722818560,
    "target": 299.93103,
    "analysts": 29,
    "scores": {
     "technical": "Moderate",
     "narrative": "Strong",
     "entry_zone": "Deep pullback \u2014 needs base",
-    "rr": 1.2
+    "rr": 0.9
    },
    "report": "NXPI.research.10.11.2026.md"
   },
   "LSCC": {
    "name": "Lattice Semiconductor Corporation",
-   "thesis": "Mixed fundamentals (6% net margin, 118% growth) at 26x forward; high momentum \u2014 broken \u2014 no zone.",
+   "thesis": "Mixed fundamentals (6% net margin, 118% growth) at 25x forward; high momentum \u2014 broken \u2014 no zone.",
    "close": 113.89,
    "close_date": "2026-11-09",
-   "pe_ttm": 334.97058,
-   "fwd_pe": 25.949377,
+   "pe_ttm": 356.8387,
+   "fwd_pe": 25.204323,
    "short_float": 9.41,
-   "market_cap": 16198084608,
+   "market_cap": 15733007360,
    "target": 156.18768,
    "analysts": 13,
    "scores": {
     "technical": "High",
     "narrative": "Strong",
     "entry_zone": "Broken \u2014 no zone",
-    "rr": 1.8
+    "rr": 2.2
    },
    "report": "LSCC.research.10.11.2026.md"
   },
@@ -221,54 +221,54 @@
    "close": 117.25,
    "close_date": "2026-11-09",
    "pe_ttm": null,
-   "fwd_pe": 17.826437,
+   "fwd_pe": 17.895842,
    "short_float": 9.27,
-   "market_cap": 4658168320,
+   "market_cap": 4676304384,
    "target": 130.125,
    "analysts": 8,
    "scores": {
     "technical": "High",
     "narrative": "Neutral",
     "entry_zone": "Deep pullback \u2014 needs base",
-    "rr": 1.5
+    "rr": 1.4
    },
    "report": "SYNA.research.10.11.2026.md"
   },
   "CEVA": {
    "name": "CEVA, Inc.",
-   "thesis": "Weak fundamentals (-9% net margin, 13% growth) at 31x forward; low momentum \u2014 broken \u2014 no zone.",
+   "thesis": "Weak fundamentals (-9% net margin, 2% growth) at 32x forward; low momentum \u2014 broken \u2014 no zone.",
    "close": 24.84,
    "close_date": "2026-11-09",
    "pe_ttm": null,
-   "fwd_pe": 30.953657,
+   "fwd_pe": 31.995136,
    "short_float": 10.81,
-   "market_cap": 699347136,
-   "target": 44.66667,
+   "market_cap": 681891584,
+   "target": 43.88889,
    "analysts": 9,
    "scores": {
     "technical": "Low",
     "narrative": "Strong",
     "entry_zone": "Broken \u2014 no zone",
-    "rr": 8.7
+    "rr": 8.9
    },
    "report": "CEVA.research.10.11.2026.md"
   },
   "AVAV": {
    "name": "AeroVironment, Inc.",
-   "thesis": "Weak fundamentals (-10% net margin, 6% growth) at 29x forward; low momentum \u2014 broken \u2014 no zone.",
+   "thesis": "Weak fundamentals (-10% net margin, 6% growth) at 28x forward; low momentum \u2014 broken \u2014 no zone.",
    "close": 126.96,
    "close_date": "2026-11-09",
    "pe_ttm": null,
-   "fwd_pe": 28.800676,
+   "fwd_pe": 27.929306,
    "short_float": 13.01,
-   "market_cap": 6452196352,
+   "market_cap": 6256984064,
    "target": 212.1987,
    "analysts": 23,
    "scores": {
     "technical": "Low",
     "narrative": "Strong",
     "entry_zone": "Broken \u2014 no zone",
-    "rr": 3.2
+    "rr": 3.9
    },
    "report": "AVAV.research.10.11.2026.md"
   }

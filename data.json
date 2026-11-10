@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-10T09:34:26+00:00",
-  "as_of_local": "2026-11-10 09:34:26 UTC",
+  "as_of_utc": "2026-11-10T09:39:26+00:00",
+  "as_of_local": "2026-11-10 09:39:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": -4.27,
       "market_cap": 4314344445785.5225,
       "headlines": [
+        {
+          "title": "Nvidia CEO Huang's scandal is the flip side of centralized leadership: Sierra co-founder Clay Bavor",
+          "url": "https://finance.yahoo.com/technology/article/nvidia-ceo-huangs-scandal-is-the-flip-side-of-centralized-leadership-sierra-co-founder-clay-bavor-220838172.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-09T22:08:38Z"
+        },
         {
           "title": "Stock market today: Dow, S&P 500, Nasdaq trade mixed ahead of key inflation data",
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/video/nvidia-scandal-could-help-china-long-term-and-risks-in-the-ai-trade-221407013.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-09T22:14:07Z"
-        },
-        {
-          "title": "AI infrastructure spending is still accelerating\u2014but can it last?",
-          "url": "https://finance.yahoo.com/video/ai-infrastructure-spending-is-still-acceleratingbut-can-it-last-221359947.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-09T22:13:59Z"
         }
       ]
     },
@@ -341,34 +343,6 @@
       ]
     },
     {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 117.25,
-      "previous_close": 116.7,
-      "change_pct": 0.47,
-      "market_cap": 4658168501.0,
-      "headlines": [
-        {
-          "title": "SYNA Q1 Earnings Beat Estimates, Revenues Miss on Weak Demand",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/syna-q1-earnings-beat-estimates-152400592.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T15:24:00Z"
-        },
-        {
-          "title": "Synaptics (SYNA) Tops Q1 Earnings Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-tops-q1-earnings-000013395.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T00:00:13Z"
-        },
-        {
-          "title": "Synaptics: Fiscal Q1 Earnings Snapshot",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-fiscal-q1-earnings-snapshot-230715396.html",
-          "publisher": "Associated Press",
-          "published": "2026-11-05T23:07:15Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 24.84,
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 74324.25,
-      "change_pct": -1.19
+      "price": 74271.0,
+      "change_pct": -1.27
     },
     {
       "label": "Gold",
-      "price": 4102.2,
-      "change_pct": -0.3
+      "price": 4099.0,
+      "change_pct": -0.38
     },
     {
       "label": "Nasdaq100",

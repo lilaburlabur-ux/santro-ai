@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-10T13:32:40+00:00",
+  "as_of": "2026-11-10T13:47:50+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "TTD",
    "company": "Trade Desk Inc",
-   "move_pct": -6.58,
-   "price": 13.95,
+   "move_pct": -6.6,
+   "price": 13.94,
    "volume": 96518300,
    "volume_vs_avg": "~6x",
    "heat_score": 69,
@@ -27,16 +27,16 @@
    "rank": 2,
    "ticker": "NVDA",
    "company": "NVIDIA Corp",
-   "move_pct": -1.44,
-   "price": 176.09,
+   "move_pct": -1.79,
+   "price": 175.47,
    "volume": 459116500,
    "volume_vs_avg": "~4x",
-   "heat_score": 40,
+   "heat_score": 41,
    "direction": "down",
-   "why": "Bank of America Drops Nvidia From Elite Stock List. Coincidence or Jensen Huang Fallout?",
-   "catalyst_type": "regulatory",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-drops-nvidia-elite-125637950.html",
-   "published": "2026-11-10T12:56:37+00:00",
+   "why": "This Short Seller Flagged Jensen Huang\u2019s Ties to Alice Huang 6 Months Before Nvidia\u2019s Scandal",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/short-seller-flagged-jensen-huang-132737288.html",
+   "published": "2026-11-10T13:27:37+00:00",
    "sector": "AI Chips & Compute"
   }
  ]

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-10T10:20:17+00:00",
-  "as_of_local": "2026-11-10 10:20:17 UTC",
+  "as_of_utc": "2026-11-10T10:25:18+00:00",
+  "as_of_local": "2026-11-10 10:25:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 834115552090.9241,
       "headlines": [
         {
+          "title": "US Stock Futures Mixed As Investors Await CPI Data \u2014 AMD, CRWV, RKLB Stocks In Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-mixed-investors-102051723.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-10T10:20:51Z"
+        },
+        {
           "title": "A $28 Billion Fund Bought These 3 Stocks",
           "url": "https://finance.yahoo.com/markets/stocks/articles/28-billion-fund-bought-3-074644149.html",
           "publisher": "TIKR",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-clocks-best-day-055907215.html",
           "publisher": "Stocktwits",
           "published": "2026-11-10T05:59:07Z"
-        },
-        {
-          "title": "3 Growth Stocks To Watch With Up To 58% Earnings Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-watch-58-052025265.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-10T05:20:25Z"
         }
       ]
     },
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 41.78,
-      "change_pct": 6.34,
+      "price": null,
+      "change_pct": 0.0,
       "holdings": [
         {
           "symbol": "MU",
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 41.78,
-    "change_pct": 6.34,
+    "price": null,
+    "change_pct": 0.0,
     "holdings": [
       {
         "symbol": "MU",
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 74235.71,
-      "change_pct": -1.31
+      "price": 74219.01,
+      "change_pct": -1.33
     },
     {
       "label": "Gold",
-      "price": 4090.8,
-      "change_pct": -0.58
+      "price": 4091.8,
+      "change_pct": -0.55
     },
     {
       "label": "Nasdaq100",

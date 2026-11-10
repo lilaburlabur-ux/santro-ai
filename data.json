@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-10T07:42:27+00:00",
-  "as_of_local": "2026-11-10 07:42:27 UTC",
+  "as_of_utc": "2026-11-10T07:46:24+00:00",
+  "as_of_local": "2026-11-10 07:46:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/news/u-stock-futures-steady-tech-004342905.html",
           "publisher": "Investing.com",
           "published": "2026-11-10T00:43:42Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 508.58,
+      "previous_close": 449.04,
+      "change_pct": 13.26,
+      "market_cap": 834115552090.9241,
+      "headlines": [
+        {
+          "title": "Nvidia vs. AMD: Why Lisa Su's company is a great alternative for investors",
+          "url": "https://finance.yahoo.com/video/nvidia-vs-amd-why-lisa-170000159.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-09T17:00:00Z"
+        },
+        {
+          "title": "AMD Stock Clocks Best Day In 6 Months \u2014  But Michael Burry Won\u2019t Touch The Nvidia Headline Trade",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-clocks-best-day-055907215.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-10T05:59:07Z"
+        },
+        {
+          "title": "3 Growth Stocks To Watch With Up To 58% Earnings Growth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-watch-58-052025265.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-10T05:20:25Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 74769.23,
-      "change_pct": -0.6
+      "price": 74829.87,
+      "change_pct": -0.52
     },
     {
       "label": "Gold",
-      "price": 4126.1,
-      "change_pct": 0.28
+      "price": 4122.8,
+      "change_pct": 0.2
     },
     {
       "label": "Nasdaq100",

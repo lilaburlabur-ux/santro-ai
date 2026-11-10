@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-10T10:46:02+00:00",
+  "as_of": "2026-11-10T11:00:07+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,34 +9,18 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "TTD",
-   "company": "Trade Desk Inc",
-   "move_pct": -1.94,
-   "price": 14.64,
-   "volume": 96518300,
-   "volume_vs_avg": "~6x",
-   "heat_score": 53,
-   "direction": "down",
-   "why": "The Trade Desk (TTD) Q3 2026 Earnings Call Transcript",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/trade-desk-ttd-q3-2026-064650853.html",
-   "published": "2026-11-10T06:46:50+00:00",
-   "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 2,
    "ticker": "NVDA",
    "company": "NVIDIA Corp",
-   "move_pct": 0.17,
-   "price": 178.98,
+   "move_pct": 0.29,
+   "price": 179.19,
    "volume": 459116500,
    "volume_vs_avg": "~4x",
-   "heat_score": 35,
+   "heat_score": 36,
    "direction": "up",
-   "why": "Nvidia Intervened in US Probe of Megaspeed Chip Smuggling",
-   "catalyst_type": "regulatory",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/nvidia-intervened-us-probe-megaspeed-212826572.html",
-   "published": "2026-11-10T10:16:48+00:00",
+   "why": "Citigroup Adjusts Price Target on Nvidia to $285 From $315",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-adjusts-price-target-nvidia-103110807.html",
+   "published": "2026-11-10T10:31:10+00:00",
    "sector": "AI Chips & Compute"
   }
  ]

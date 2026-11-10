@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| Prediction: This Underrated Semiconductor Stock Will Jump 187% in 3 Years | Motley Fool | 2026-11-10 |
 | Google's SpaceX investment takes an unexpected turn | TheStreet | 2026-11-10 |
 | Texas Instruments Stock Surges 70% YTD: Is the Rally Set to Continue? | Zacks | 2026-11-10 |
 | Exclusive: Qualcomm begins job cuts; India and California among regions impacted | Investing.com | 2026-11-10 |
-| Apple Just Hit $5 Trillion. Its “Biggest Competition” Is a SpaceX Phone, Says Gene Munster | TIKR | 2026-11-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

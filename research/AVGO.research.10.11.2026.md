@@ -89,7 +89,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | FMR, LLC | 144,359,173 | 3.02% | 2026-06-30 |
 | Vanguard Portfolio Management LLC | 127,001,513 | 2.66% | 2026-06-30 |
 | Capital World Investors | 121,892,859 | 2.55% | 2026-06-30 |
-| Geode Capital Management, LLC | 117,945,558 | 2.47% | 2026-09-30 |
+| Geode Capital Management, LLC | 116,394,795 | 2.44% | 2026-06-30 |
 | Capital Research Global Investors | 113,126,312 | 2.37% | 2026-06-30 |
 | JPMORGAN CHASE & CO | 95,016,148 | 1.99% | 2026-06-30 |
 | Price (T.Rowe) Associates Inc | 82,851,970 | 1.74% | 2026-06-30 |

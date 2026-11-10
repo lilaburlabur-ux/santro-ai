@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Taiwan Semiconductor Sales Jump 60% In October As AI Boom Continues | Investor's Business Daily | 2026-11-10 |
 | TSMC record sales strengthen Wedbush’s bullish outlook | Proactive | 2026-11-10 |
 | TSMC Is at the Center of an AI Boom That Flipped 25 Years of U.S. Trade. Is the Stock a Buy? | Motley Fool | 2026-11-10 |
 | 5 AI Stock Picks and Performance of Billionaire Stanley Druckenmiller | Insider Monkey | 2026-11-10 |
-| Google, Nvidia and Microsoft “Literally Feeding Themselves Money” with $26 Billion Anthropic IPO Buy | TIKR | 2026-11-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

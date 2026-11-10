@@ -83,16 +83,16 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 150,301,510 | 9.16% | 2026-06-30 |
-| Vanguard Capital Management LLC | 106,500,177 | 6.49% | 2026-06-30 |
-| State Street Corporation | 74,361,687 | 4.53% | 2026-06-30 |
-| Invesco Ltd. | 53,171,203 | 3.24% | 2026-06-30 |
-| JPMORGAN CHASE & CO | 40,309,233 | 2.46% | 2026-06-30 |
-| Geode Capital Management, LLC | 40,409,652 | 2.46% | 2026-09-30 |
-| Vanguard Portfolio Management LLC | 37,929,920 | 2.31% | 2026-06-30 |
-| Price (T.Rowe) Associates Inc | 35,938,258 | 2.19% | 2026-06-30 |
-| FMR, LLC | 25,558,552 | 1.56% | 2026-06-30 |
-| Morgan Stanley | 24,286,371 | 1.48% | 2026-06-30 |
+| Blackrock Inc. | 150,301,510 | 9.21% | 2026-06-30 |
+| Vanguard Capital Management LLC | 106,500,177 | 6.52% | 2026-06-30 |
+| State Street Corporation | 74,361,687 | 4.56% | 2026-06-30 |
+| Invesco Ltd. | 53,171,203 | 3.26% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 40,309,233 | 2.47% | 2026-06-30 |
+| Geode Capital Management, LLC | 39,568,601 | 2.42% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 37,929,920 | 2.32% | 2026-06-30 |
+| Price (T.Rowe) Associates Inc | 35,938,258 | 2.20% | 2026-06-30 |
+| FMR, LLC | 25,558,552 | 1.57% | 2026-06-30 |
+| Morgan Stanley | 24,286,371 | 1.49% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 29.13, EV/Sales 18.21. Multiple compression is the main downside if growth disappoints.

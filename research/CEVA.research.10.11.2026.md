@@ -87,12 +87,12 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 | State Street Corporation | 1,672,919 | 5.94% | 2026-06-30 |
 | Senvest Management LLC | 1,633,155 | 5.80% | 2026-06-30 |
 | Morgan Stanley | 1,446,384 | 5.14% | 2026-06-30 |
-| Deutsche Bank AG | 1,229,023 | 4.37% | 2026-09-30 |
 | Vanguard Capital Management LLC | 1,196,013 | 4.25% | 2026-06-30 |
 | T. Rowe Price Investment Management, Inc. | 1,180,701 | 4.19% | 2026-06-30 |
 | Vanguard Portfolio Management LLC | 1,117,029 | 3.97% | 2026-06-30 |
 | Neuberger Berman Group, LLC | 1,102,905 | 3.92% | 2026-06-30 |
 | AWM Investment Company, Inc. | 799,806 | 2.84% | 2026-06-30 |
+| Geode Capital Management, LLC | 723,085 | 2.57% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 32.30, EV/Sales 4.29. Multiple compression is the main downside if growth disappoints.

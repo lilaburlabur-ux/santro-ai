@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T06:26:54+00:00",
-  "as_of_local": "2026-11-11 06:26:54 UTC",
+  "as_of_utc": "2026-11-11T06:41:57+00:00",
+  "as_of_local": "2026-11-11 06:41:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -41,6 +43,12 @@
       "market_cap": 2056333273654.5454,
       "headlines": [
         {
+          "title": "TSMC Approves Up to $1 Billion Investment Plan in Anthropic, OpenAI",
+          "url": "https://www.wsj.com/tech/ai/tsmc-approves-up-to-1-billion-investment-plan-in-anthropic-openai-3e4b4997?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-11T05:29:00Z"
+        },
+        {
           "title": "3 AI Chip Stocks Facing Yield Pressure And Demand Strength",
           "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-facing-051434115.html",
           "publisher": "Simply Wall St.",
@@ -51,12 +59,6 @@
           "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-rise-ai-044620054.html",
           "publisher": "Associated Press",
           "published": "2026-11-11T04:46:20Z"
-        },
-        {
-          "title": "Tech, Media & Telecom Roundup: Market Talk",
-          "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-491215dc?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-11-10T21:56:00Z"
         }
       ]
     },
@@ -109,10 +111,10 @@
           "published": "2026-11-11T05:35:07Z"
         },
         {
-          "title": "Prediction: This Will Be AMD\u2019s Stock Price After 1 Year",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-amd-stock-price-1-023402661.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-11T02:34:02Z"
+          "title": "TSMC Approves Up to $1 Billion Investment Plan in Anthropic, OpenAI",
+          "url": "https://www.wsj.com/tech/ai/tsmc-approves-up-to-1-billion-investment-plan-in-anthropic-openai-3e4b4997?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-11T05:29:00Z"
         }
       ]
     },
@@ -313,34 +315,6 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 123.5,
-      "previous_close": 126.96,
-      "change_pct": -2.73,
-      "market_cap": 6276356697.0,
-      "headlines": [
-        {
-          "title": "Ondas Retreats 9% Despite Attack Drone Purchase Order Ahead of Earnings; Red Cat Declines 9%, AeroVironment Falls 4%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ondas-retreats-9-despite-attack-185638064.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-10T18:56:38Z"
-        },
-        {
-          "title": "Ondas Plans U.S. Manufacturing Push to Scale ULTRA Aircraft Output",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ondas-plans-u-manufacturing-push-182300667.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T18:23:00Z"
-        },
-        {
-          "title": "Why Drone Maker AeroVironment\u2019s Stock Is Rocketing on This Sub-$1 Billion Deal",
-          "url": "https://www.barrons.com/articles/aerovironment-stock-drone-contract-deal-161ec543?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-09T17:17:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 117.7,
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 5.36,
+          "price": 1277000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 3.07,
-          "price": 205000.0,
+          "change_pct": 3.44,
+          "price": 205750.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 6.64,
-          "price": 9670.0,
+          "change_pct": 5.66,
+          "price": 9581.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 5.36,
+        "price": 1277000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 3.07,
-        "price": 205000.0,
+        "change_pct": 3.44,
+        "price": 205750.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 6.64,
-        "price": 9670.0,
+        "change_pct": 5.66,
+        "price": 9581.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 73758.64,
-      "change_pct": -1.95
+      "price": 73689.69,
+      "change_pct": -2.04
     },
     {
       "label": "Gold",
-      "price": 4064.8,
-      "change_pct": 0.86
+      "price": 4063.2,
+      "change_pct": 0.82
     },
     {
       "label": "Nasdaq100",

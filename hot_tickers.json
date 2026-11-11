@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-11T09:14:32+00:00",
+  "as_of": "2026-11-11T09:19:21+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,6 +9,38 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "VRT",
+   "company": "Vertiv Holdings Co",
+   "move_pct": 7.1,
+   "price": 208.0,
+   "volume": 6759600,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 44,
+   "direction": "up",
+   "why": "Zacks.com featured highlights include Stride, Ralph Lauren, Cardinal Health and Vertiv",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-stride-061000612.html",
+   "published": "2026-11-11T06:10:00+00:00",
+   "sector": "Data Center, Power & Energy"
+  },
+  {
+   "rank": 2,
+   "ticker": "HPE",
+   "company": "Hewlett Packard Enterprise Co",
+   "move_pct": 6.59,
+   "price": 51.09,
+   "volume": 13848000,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 42,
+   "direction": "up",
+   "why": "Zacks.com featured highlights include Avnet, Omnicell, Hewlett Packard and Lifetime Brands",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-avnet-055400351.html",
+   "published": "2026-11-11T05:54:00+00:00",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 3,
    "ticker": "NVDA",
    "company": "NVIDIA Corp",
    "move_pct": 0.0,

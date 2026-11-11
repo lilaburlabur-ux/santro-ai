@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T09:29:17+00:00",
-  "as_of_local": "2026-11-11 09:29:17 UTC",
+  "as_of_utc": "2026-11-11T09:34:10+00:00",
+  "as_of_local": "2026-11-11 09:34:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/quantum-computing-next-winners-may-022442514.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-11T02:24:42Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 181.49,
-      "previous_close": 186.3,
-      "change_pct": -2.58,
-      "market_cap": 194194305877.68555,
-      "headlines": [
-        {
-          "title": "Arm Sinks 10% in a Week on Phone Royalties and SoftBank: \u201cCircular Financing Concerns\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-sinks-10-week-phone-025733812.html",
-          "publisher": "TIKR",
-          "published": "2026-11-11T02:57:33Z"
-        },
-        {
-          "title": "SoftBank\u2019s $7 Billion Loss Is Bad News for Arm. Here\u2019s the Number That Matters",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-7-billion-loss-bad-163144976.html",
-          "publisher": "TIKR",
-          "published": "2026-11-10T16:31:44Z"
-        },
-        {
-          "title": "Arm Holdings plc (ARM) Was Bought Back After a Sharp Sell-Off: What\u2019s Driving the Renewed Interest?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-plc-arm-bought-162137548.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-10T16:21:37Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 73649.84,
-      "change_pct": -0.1
+      "price": 73562.94,
+      "change_pct": -0.21
     },
     {
       "label": "Gold",
-      "price": 4057.0,
-      "change_pct": 0.66
+      "price": 4057.4,
+      "change_pct": 0.67
     },
     {
       "label": "Nasdaq100",

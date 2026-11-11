@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T10:04:43+00:00",
-  "as_of_local": "2026-11-11 10:04:43 UTC",
+  "as_of_utc": "2026-11-11T10:10:07+00:00",
+  "as_of_local": "2026-11-11 10:10:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -57,34 +59,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-facing-051434115.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-11T05:14:34Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 331.98,
-      "previous_close": 319.48,
-      "change_pct": 3.91,
-      "market_cap": 1584749695027.364,
-      "headlines": [
-        {
-          "title": "Goldman Sachs calls chip stocks 'oversold.' Here are the names it says to buy.",
-          "url": "https://finance.yahoo.com/markets/article/goldman-sachs-calls-chip-stocks-oversold-here-are-the-names-it-says-to-buy-165654250.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-10T16:53:14Z"
-        },
-        {
-          "title": "What Would It Take For AMD Stock To Move Higher?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-move-higher-010944172.html",
-          "publisher": "Trefis",
-          "published": "2026-11-11T01:09:44Z"
-        },
-        {
-          "title": "Jim Cramer Warns About the AI Data Center Trade. What It Means for Nvidia and Broadcom",
-          "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-warns-ai-data-000739886.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-11T00:07:39Z"
         }
       ]
     },
@@ -585,13 +559,18 @@
     },
     {
       "label": "BTC",
-      "price": 73676.5,
-      "change_pct": -0.06
+      "price": 73586.34,
+      "change_pct": -0.18
     },
     {
       "label": "Gold",
-      "price": 4056.8,
-      "change_pct": 0.66
+      "price": 4058.0,
+      "change_pct": 0.69
+    },
+    {
+      "label": "Nasdaq100",
+      "price": 27740.79,
+      "change_pct": -0.6
     }
   ]
 }

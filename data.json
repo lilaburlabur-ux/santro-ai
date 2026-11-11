@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T01:18:01+00:00",
-  "as_of_local": "2026-11-11 01:18:01 UTC",
+  "as_of_utc": "2026-11-11T01:23:13+00:00",
+  "as_of_local": "2026-11-11 01:23:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -313,34 +315,6 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 126.96,
-      "previous_close": 112.76,
-      "change_pct": 12.59,
-      "market_cap": 6276356697.0,
-      "headlines": [
-        {
-          "title": "Ondas Retreats 9% Despite Attack Drone Purchase Order Ahead of Earnings; Red Cat Declines 9%, AeroVironment Falls 4%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ondas-retreats-9-despite-attack-185638064.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-10T18:56:38Z"
-        },
-        {
-          "title": "Ondas Plans U.S. Manufacturing Push to Scale ULTRA Aircraft Output",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ondas-plans-u-manufacturing-push-182300667.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T18:23:00Z"
-        },
-        {
-          "title": "Why Drone Maker AeroVironment\u2019s Stock Is Rocketing on This Sub-$1 Billion Deal",
-          "url": "https://www.barrons.com/articles/aerovironment-stock-drone-contract-deal-161ec543?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-09T17:17:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 117.25,
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 0.91,
-          "price": 1223000.0,
+          "change_pct": 1.07,
+          "price": 1225000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.25,
-          "price": 199400.0,
+          "change_pct": 0.55,
+          "price": 200000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 1.51,
-          "price": 9205.0,
+          "change_pct": 1.62,
+          "price": 9215.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 3.51,
-          "price": 383.0,
+          "change_pct": 0.52,
+          "price": 385.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 1.89,
-          "price": 135.0,
+          "change_pct": -3.7,
+          "price": 130.0,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 0.91,
-        "price": 1223000.0,
+        "change_pct": 1.07,
+        "price": 1225000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.25,
-        "price": 199400.0,
+        "change_pct": 0.55,
+        "price": 200000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 1.51,
-        "price": 9205.0,
+        "change_pct": 1.62,
+        "price": 9215.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 3.51,
-        "price": 383.0,
+        "change_pct": 0.52,
+        "price": 385.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 1.89,
-        "price": 135.0,
+        "change_pct": -3.7,
+        "price": 130.0,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 73328.26,
-      "change_pct": -2.52
+      "price": 73426.8,
+      "change_pct": -2.39
     },
     {
       "label": "Gold",
-      "price": 4039.0,
-      "change_pct": -1.83
+      "price": 4036.4,
+      "change_pct": -1.9
     },
     {
       "label": "Nasdaq100",

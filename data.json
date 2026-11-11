@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T14:07:00+00:00",
-  "as_of_local": "2026-11-11 14:07:00 UTC",
+  "as_of_utc": "2026-11-11T14:12:01+00:00",
+  "as_of_local": "2026-11-11 14:12:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,7 +16,7 @@
       "headlines": [
         {
           "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Nvidia stock recovers, 10-year yield nears 5%",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-123445799.html",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-11T12:34:45Z"
         },
@@ -197,34 +199,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-7-billion-loss-bad-163144976.html",
           "publisher": "TIKR",
           "published": "2026-11-10T16:31:44Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 173.53,
-      "previous_close": 171.47,
-      "change_pct": 1.2,
-      "market_cap": 185677098693.84766,
-      "headlines": [
-        {
-          "title": "Anthropic is hiding its best AI: Fable 5.2 and the IPO",
-          "url": "https://finance.yahoo.com/video/anthropic-hiding-best-ai-fable-120000011.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-11T12:00:00Z"
-        },
-        {
-          "title": "ETFs Bought $293.8 Million of Qualcomm (QCOM) on Nov. 9",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-293-8-million-110143068.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-11T11:01:43Z"
-        },
-        {
-          "title": "What Is QUALCOMM (QCOM) Signaling With Its New AI PC OS Partnership?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-signaling-ai-pc-101351663.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-11T10:13:51Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 73727.85,
-      "change_pct": 0.01
+      "price": 73608.95,
+      "change_pct": -0.15
     },
     {
       "label": "Gold",
-      "price": 4042.6,
-      "change_pct": 0.31
+      "price": 4038.7,
+      "change_pct": 0.21
     },
     {
       "label": "Nasdaq100",

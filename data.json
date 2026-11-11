@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T02:28:44+00:00",
-  "as_of_local": "2026-11-11 02:28:44 UTC",
+  "as_of_utc": "2026-11-11T02:43:50+00:00",
+  "as_of_local": "2026-11-11 02:43:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -175,10 +177,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 186.3,
-      "previous_close": 174.62,
-      "change_pct": 6.69,
-      "market_cap": 194194300000.0,
+      "price": 181.49,
+      "previous_close": 186.3,
+      "change_pct": -2.58,
+      "market_cap": 194194305877.68555,
       "headlines": [
         {
           "title": "SoftBank\u2019s $7 Billion Loss Is Bad News for Arm. Here\u2019s the Number That Matters",
@@ -341,34 +343,6 @@
       ]
     },
     {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 117.7,
-      "previous_close": 117.25,
-      "change_pct": 0.38,
-      "market_cap": 4676046211.958191,
-      "headlines": [
-        {
-          "title": "SYNA Q1 Earnings Beat Estimates, Revenues Miss on Weak Demand",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/syna-q1-earnings-beat-estimates-152400592.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T15:24:00Z"
-        },
-        {
-          "title": "Synaptics (SYNA) Tops Q1 Earnings Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-tops-q1-earnings-000013395.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T00:00:13Z"
-        },
-        {
-          "title": "Synaptics: Fiscal Q1 Earnings Snapshot",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-fiscal-q1-earnings-snapshot-230715396.html",
-          "publisher": "Associated Press",
-          "published": "2026-11-05T23:07:15Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 24.45,
@@ -401,8 +375,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 41.78,
-      "change_pct": 6.34,
+      "price": 40.64,
+      "change_pct": -2.73,
       "holdings": [
         {
           "symbol": "MU",
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.1,
-          "price": 1237500.0,
+          "change_pct": 2.31,
+          "price": 1240000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 1.06,
-          "price": 201000.0,
+          "change_pct": 1.31,
+          "price": 201500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 2.01,
-          "price": 9250.0,
+          "change_pct": 2.78,
+          "price": 9320.0,
           "currency": "JPY"
         },
         {
@@ -445,8 +419,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 6.16,
-          "price": 886.51,
+          "change_pct": -2.99,
+          "price": 859.99,
           "currency": "USD"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -2.09,
-          "price": 375.0,
+          "change_pct": 0.39,
+          "price": 384.5,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -4.44,
-          "price": 129.0,
+          "change_pct": -2.22,
+          "price": 132.0,
           "currency": "TWD"
         }
       ]
@@ -491,8 +465,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 41.78,
-    "change_pct": 6.34,
+    "price": 40.64,
+    "change_pct": -2.73,
     "holdings": [
       {
         "symbol": "MU",
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.1,
-        "price": 1237500.0,
+        "change_pct": 2.31,
+        "price": 1240000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 1.06,
-        "price": 201000.0,
+        "change_pct": 1.31,
+        "price": 201500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 2.01,
-        "price": 9250.0,
+        "change_pct": 2.78,
+        "price": 9320.0,
         "currency": "JPY"
       },
       {
@@ -535,8 +509,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 6.16,
-        "price": 886.51,
+        "change_pct": -2.99,
+        "price": 859.99,
         "currency": "USD"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -2.09,
-        "price": 375.0,
+        "change_pct": 0.39,
+        "price": 384.5,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -4.44,
-        "price": 129.0,
+        "change_pct": -2.22,
+        "price": 132.0,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,18 @@
     },
     {
       "label": "BTC",
-      "price": 73390.09,
-      "change_pct": -2.44
+      "price": 73548.62,
+      "change_pct": -2.23
     },
     {
       "label": "Gold",
-      "price": 4049.2,
-      "change_pct": -1.59
+      "price": 4052.0,
+      "change_pct": -1.52
+    },
+    {
+      "label": "Nasdaq100",
+      "price": 27740.79,
+      "change_pct": -0.6
     }
   ]
 }

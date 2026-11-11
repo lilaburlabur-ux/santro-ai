@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-11T05:00:12+00:00",
-  "as_of_local": "2026-11-11 05:00:12 UTC",
+  "as_of_utc": "2026-11-11T05:15:12+00:00",
+  "as_of_local": "2026-11-11 05:15:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -115,6 +113,34 @@
           "url": "https://www.wsj.com/politics/policy/jensen-huang-affair-revives-push-for-chip-restrictions-on-capitol-hill-b0500089?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-11-11T02:00:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 725.11,
+      "previous_close": 733.15,
+      "change_pct": -1.1,
+      "market_cap": 820406268679.7378,
+      "headlines": [
+        {
+          "title": "Micron stock is a screaming buy at current valuation levels: Goldman Sachs",
+          "url": "https://finance.yahoo.com/markets/stocks/article/micron-stock-is-a-screaming-buy-at-current-valuation-levels-goldman-sachs-172852076.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-10T17:28:52Z"
+        },
+        {
+          "title": "Is Seagate A Better Way Than Apple To Own AI Hardware Demand?",
+          "url": "https://finance.yahoo.com/technology/articles/seagate-better-way-apple-own-015049114.html",
+          "publisher": "Trefis",
+          "published": "2026-11-11T01:50:49Z"
+        },
+        {
+          "title": "\u2018When Greed Is Good,\u2019 Says Top Investor About Micron Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/greed-good-says-top-investor-224627297.html",
+          "publisher": "TipRanks",
+          "published": "2026-11-10T22:46:27Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -1.1,
+          "price": 725.11,
           "currency": "USD"
         },
         {
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 5.69,
-          "price": 1281000.0,
+          "change_pct": 5.4,
+          "price": 1277500.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 3.07,
-          "price": 205000.0,
+          "change_pct": 2.94,
+          "price": 204750.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 6.47,
-          "price": 9655.0,
+          "change_pct": 5.77,
+          "price": 9591.0,
           "currency": "JPY"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 2.61,
-          "price": 393.0,
+          "change_pct": 2.48,
+          "price": 392.5,
           "currency": "TWD"
         },
         {
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 0.0,
-          "price": 135.0,
+          "change_pct": -0.37,
+          "price": 134.5,
           "currency": "TWD"
         }
       ]
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -1.1,
+        "price": 725.11,
         "currency": "USD"
       },
       {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 5.69,
-        "price": 1281000.0,
+        "change_pct": 5.4,
+        "price": 1277500.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 3.07,
-        "price": 205000.0,
+        "change_pct": 2.94,
+        "price": 204750.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 6.47,
-        "price": 9655.0,
+        "change_pct": 5.77,
+        "price": 9591.0,
         "currency": "JPY"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 2.61,
-        "price": 393.0,
+        "change_pct": 2.48,
+        "price": 392.5,
         "currency": "TWD"
       },
       {
@@ -545,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 0.0,
-        "price": 135.0,
+        "change_pct": -0.37,
+        "price": 134.5,
         "currency": "TWD"
       }
     ]
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 73636.98,
-      "change_pct": -2.11
+      "price": 73644.58,
+      "change_pct": -2.1
     },
     {
       "label": "Gold",
-      "price": 4030.2,
-      "change_pct": -2.05
+      "price": 4058.2,
+      "change_pct": 0.69
     },
     {
       "label": "Nasdaq100",

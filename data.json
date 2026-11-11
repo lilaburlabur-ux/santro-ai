@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-11T08:53:33+00:00",
-  "as_of_local": "2026-11-11 08:53:33 UTC",
+  "as_of_utc": "2026-11-11T08:58:36+00:00",
+  "as_of_local": "2026-11-11 08:58:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 168.89,
+      "previous_close": 178.67,
+      "change_pct": -5.47,
+      "market_cap": 4078186815261.841,
+      "headlines": [
+        {
+          "title": "OpenAI's Q3 results and Nvidia's scandal impact on the AI ecosystem",
+          "url": "https://finance.yahoo.com/video/openais-q3-results-and-nvidias-scandal-impact-on-the-ai-ecosystem-222332740.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-10T22:23:32Z"
+        },
+        {
+          "title": "Chip stocks' slide nears $5 trillion as Nvidia hits most extreme selling level since 2019",
+          "url": "https://finance.yahoo.com/markets/article/chip-stocks-slide-nears-5-trillion-as-nvidia-hits-most-extreme-selling-level-since-2019-191532559.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-10T19:15:32Z"
+        },
+        {
+          "title": "Nvidia in the hot seat, Anthropic to test the IPO market, hotter-than-expected US inflation",
+          "url": "https://finance.yahoo.com/video/nvidia-in-the-hot-seat-anthropic-to-test-the-ipo-market-hotter-than-expected-us-inflation-184626512.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-10T18:46:26Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -559,13 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 73664.52,
-      "change_pct": -0.08
-    },
-    {
-      "label": "Gold",
-      "price": 4067.0,
-      "change_pct": 0.91
+      "price": 73632.87,
+      "change_pct": -0.12
     },
     {
       "label": "Nasdaq100",

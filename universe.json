@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Finviz theme:artificialintelligence",
-  "as_of": "2026-11-11 08:59 UTC",
+  "as_of": "2026-11-11 09:02 UTC",
   "total_tickers": 111,
   "min_bubble_size": 7,
   "render_spec": {
@@ -10,7 +10,7 @@
    "drilldown": "click bubble -> packed circles of member tickers, ticker circle size = sqrt(market_cap_b), color = change_pct",
    "tooltip": "company, ORIGINAL finviz industry, cap, P/E, price, day %"
   },
-  "session": "closed"
+  "session": "pre"
  },
  "bubbles": [
   {
@@ -19,7 +19,7 @@
    "color": "#4F8EF7",
    "count": 14,
    "total_market_cap_b": 10114.21,
-   "avg_change_pct": -1.17,
+   "avg_change_pct": 0.0,
    "industries_included": [
     "Semiconductors"
    ],
@@ -33,7 +33,7 @@
      "market_cap_b": 3926.84,
      "pe": 21.35,
      "price": 168.89,
-     "change_pct": -5.47,
+     "change_pct": 0.0,
      "volume": 426599700,
      "perf": {
       "1W": -18.3,
@@ -83,7 +83,7 @@
      "market_cap_b": 2070.72,
      "pe": 25.7,
      "price": 396.48,
-     "change_pct": 2.02,
+     "change_pct": 0.0,
      "volume": 14360100,
      "perf": {
       "1W": -2.1,
@@ -133,7 +133,7 @@
      "market_cap_b": 1569.82,
      "pe": 42.4,
      "price": 331.98,
-     "change_pct": 3.91,
+     "change_pct": 0.0,
      "volume": 28278900,
      "perf": {
       "1W": -0.0,
@@ -183,7 +183,7 @@
      "market_cap_b": 848.09,
      "pe": 110.09,
      "price": 515.21,
-     "change_pct": 1.3,
+     "change_pct": 0.0,
      "volume": 46907700,
      "perf": {
       "1W": 6.5,
@@ -233,7 +233,7 @@
      "market_cap_b": 793.22,
      "pe": 9.76,
      "price": 725.11,
-     "change_pct": -1.1,
+     "change_pct": 0.0,
      "volume": 28215100,
      "perf": {
       "1W": -15.2,
@@ -283,7 +283,7 @@
      "market_cap_b": 288.68,
      "pe": null,
      "price": 58.13,
-     "change_pct": -2.09,
+     "change_pct": 0.0,
      "volume": 100389700,
      "perf": {
       "1W": -4.0,
@@ -333,7 +333,7 @@
      "market_cap_b": 194.42,
      "pe": 208.61,
      "price": 181.49,
-     "change_pct": -2.58,
+     "change_pct": 0.0,
      "volume": 4213500,
      "perf": {
       "1W": -10.4,
@@ -383,7 +383,7 @@
      "market_cap_b": 183.34,
      "pe": 13.66,
      "price": 173.53,
-     "change_pct": 1.2,
+     "change_pct": 0.0,
      "volume": 9604100,
      "perf": {
       "1W": 5.5,
@@ -433,7 +433,7 @@
      "market_cap_b": 133.2,
      "pe": 50.79,
      "price": 154.39,
-     "change_pct": -0.14,
+     "change_pct": 0.0,
      "volume": 24599900,
      "perf": {
       "1W": -10.2,
@@ -483,7 +483,7 @@
      "market_cap_b": 65.1,
      "pe": 20.58,
      "price": 261.56,
-     "change_pct": 2.0,
+     "change_pct": 0.0,
      "volume": 3375400,
      "perf": {
       "1W": -0.5,
@@ -533,7 +533,7 @@
      "market_cap_b": 21.21,
      "pe": 565.67,
      "price": 93.66,
-     "change_pct": -3.14,
+     "change_pct": 0.0,
      "volume": 8225200,
      "fwd_eps": 1.28,
      "perf": {
@@ -584,7 +584,7 @@
      "market_cap_b": 14.79,
      "pe": 358.87,
      "price": 111.25,
-     "change_pct": -2.32,
+     "change_pct": 0.0,
      "volume": 1885000,
      "perf": {
       "1W": 5.0,
@@ -634,7 +634,7 @@
      "market_cap_b": 4.19,
      "pe": null,
      "price": 117.7,
-     "change_pct": 0.38,
+     "change_pct": 0.0,
      "volume": 918600,
      "perf": {
       "1W": 0.2,
@@ -684,7 +684,7 @@
      "market_cap_b": 0.59,
      "pe": null,
      "price": 24.45,
-     "change_pct": -1.57,
+     "change_pct": 0.0,
      "volume": 647400,
      "perf": {
       "1W": -16.4,
@@ -735,7 +735,7 @@
    "color": "#9B6BF7",
    "count": 6,
    "total_market_cap_b": 4746.52,
-   "avg_change_pct": -1.96,
+   "avg_change_pct": 0.0,
    "industries_included": [
     "Software - Infrastructure"
    ],
@@ -749,7 +749,7 @@
      "market_cap_b": 3973.73,
      "pe": 27.83,
      "price": 533.16,
-     "change_pct": -2.2,
+     "change_pct": 0.0,
      "volume": 26902100,
      "perf": {
       "1W": 2.3,
@@ -799,7 +799,7 @@
      "market_cap_b": 402.55,
      "pe": 118.89,
      "price": 168.82,
-     "change_pct": -0.22,
+     "change_pct": 0.0,
      "volume": 19520500,
      "perf": {
       "1W": -3.8,
@@ -849,7 +849,7 @@
      "market_cap_b": 334.76,
      "pe": 18.49,
      "price": 117.98,
-     "change_pct": -1.51,
+     "change_pct": 0.0,
      "volume": 23189700,
      "perf": {
       "1W": -6.5,
@@ -899,7 +899,7 @@
      "market_cap_b": 26.71,
      "pe": 461.08,
      "price": 331.98,
-     "change_pct": 1.41,
+     "change_pct": 0.0,
      "volume": 1185200,
      "perf": {
       "1W": -1.0,
@@ -949,7 +949,7 @@
      "market_cap_b": 6.73,
      "pe": 19.15,
      "price": 12.83,
-     "change_pct": -1.16,
+     "change_pct": 0.0,
      "volume": 28665200,
      "perf": {
       "1W": -2.3,
@@ -999,7 +999,7 @@
      "market_cap_b": 2.04,
      "pe": null,
      "price": 11.84,
-     "change_pct": -1.33,
+     "change_pct": 0.0,
      "volume": 4565000,
      "perf": {
       "1W": 2.6,
@@ -1050,7 +1050,7 @@
    "color": "#F7A14F",
    "count": 11,
    "total_market_cap_b": 964.8,
-   "avg_change_pct": -0.8,
+   "avg_change_pct": 0.0,
    "industries_included": [
     "Software - Application"
    ],
@@ -1064,7 +1064,7 @@
      "market_cap_b": 284.1,
      "pe": 29.11,
      "price": 233.74,
-     "change_pct": -1.55,
+     "change_pct": 0.0,
      "volume": 2230600,
      "perf": {
       "1W": 1.5,
@@ -1114,7 +1114,7 @@
      "market_cap_b": 174.51,
      "pe": 19.53,
      "price": 213.48,
-     "change_pct": -0.68,
+     "change_pct": 0.0,
      "volume": 7874400,
      "perf": {
       "1W": -3.9,
@@ -1164,7 +1164,7 @@
      "market_cap_b": 102.25,
      "pe": 71.66,
      "price": 99.61,
-     "change_pct": -3.07,
+     "change_pct": 0.0,
      "volume": 18936900,
      "perf": {
       "1W": -8.7,
@@ -1214,7 +1214,7 @@
      "market_cap_b": 101.97,
      "pe": null,
      "price": 295.76,
-     "change_pct": 1.59,
+     "change_pct": 0.0,
      "volume": 3821400,
      "perf": {
       "1W": 0.2,
@@ -1264,7 +1264,7 @@
      "market_cap_b": 93.73,
      "pe": 13.22,
      "price": 236.7,
-     "change_pct": -0.26,
+     "change_pct": 0.0,
      "volume": 2947600,
      "perf": {
       "1W": -3.8,
@@ -1314,7 +1314,7 @@
      "market_cap_b": 93.64,
      "pe": 20.68,
      "price": 340.44,
-     "change_pct": 0.65,
+     "change_pct": 0.0,
      "volume": 2515900,
      "perf": {
       "1W": -1.2,
@@ -1364,7 +1364,7 @@
      "market_cap_b": 63.7,
      "pe": 247.78,
      "price": 178.4,
-     "change_pct": -0.68,
+     "change_pct": 0.0,
      "volume": 3572000,
      "perf": {
       "1W": -19.1,
@@ -1414,7 +1414,7 @@
      "market_cap_b": 47.73,
      "pe": 38.47,
      "price": 188.89,
-     "change_pct": -0.69,
+     "change_pct": 0.0,
      "volume": 1375900,
      "perf": {
       "1W": -4.6,
@@ -1464,7 +1464,7 @@
      "market_cap_b": 1.94,
      "pe": null,
      "price": 3.87,
-     "change_pct": -4.44,
+     "change_pct": 0.0,
      "volume": 23761500,
      "perf": {
       "1W": -6.1,
@@ -1514,7 +1514,7 @@
      "market_cap_b": 0.85,
      "pe": null,
      "price": 16.95,
-     "change_pct": -10.9,
+     "change_pct": 0.0,
      "volume": 1165800,
      "perf": {
       "1W": 5.0,
@@ -1564,7 +1564,7 @@
      "market_cap_b": 0.38,
      "pe": null,
      "price": 8.61,
-     "change_pct": -0.23,
+     "change_pct": 0.0,
      "volume": 377100,
      "perf": {
       "1W": 4.1,
@@ -1615,7 +1615,7 @@
    "color": "#4FC3D9",
    "count": 13,
    "total_market_cap_b": 3231.47,
-   "avg_change_pct": -1.24,
+   "avg_change_pct": 0.0,
    "industries_included": [
     "Communication Equipment",
     "Computer Hardware",
@@ -1631,7 +1631,7 @@
      "market_cap_b": 911.61,
      "pe": 8.27,
      "price": 129.66,
-     "change_pct": -3.51,
+     "change_pct": 0.0,
      "volume": 15507900,
      "base_close": 149.0,
      "seed": true,
@@ -1684,7 +1684,7 @@
      "market_cap_b": 579.39,
      "pe": 37.1,
      "price": 1507.85,
-     "change_pct": -0.36,
+     "change_pct": 0.0,
      "volume": 1520900,
      "perf": {
       "1W": -2.9,
@@ -1734,7 +1734,7 @@
      "market_cap_b": 388.23,
      "pe": 29.47,
      "price": 98.15,
-     "change_pct": -0.51,
+     "change_pct": 0.0,
      "volume": 17764000,
      "perf": {
       "1W": -4.7,
@@ -1784,7 +1784,7 @@
      "market_cap_b": 291.97,
      "pe": 32.14,
      "price": 372.53,
-     "change_pct": 0.53,
+     "change_pct": 0.0,
      "volume": 6325300,
      "perf": {
       "1W": -2.5,
@@ -1834,7 +1834,7 @@
      "market_cap_b": 275.83,
      "pe": 33.14,
      "price": 222.39,
-     "change_pct": 0.49,
+     "change_pct": 0.0,
      "volume": 11584000,
      "perf": {
       "1W": -3.6,
@@ -1884,7 +1884,7 @@
      "market_cap_b": 231.23,
      "pe": 49.6,
      "price": 185.02,
-     "change_pct": -0.62,
+     "change_pct": 0.0,
      "volume": 8296500,
      "perf": {
       "1W": 8.9,
@@ -1934,7 +1934,7 @@
      "market_cap_b": 214.99,
      "pe": 19.44,
      "price": 334.38,
-     "change_pct": -3.44,
+     "change_pct": 0.0,
      "volume": 6651000,
      "perf": {
       "1W": -18.1,
@@ -1984,7 +1984,7 @@
      "market_cap_b": 202.44,
      "pe": 38.34,
      "price": 152.99,
-     "change_pct": 1.06,
+     "change_pct": 0.0,
      "volume": 11408600,
      "perf": {
       "1W": -2.1,
@@ -2034,7 +2034,7 @@
      "market_cap_b": 61.9,
      "pe": 24.71,
      "price": 47.93,
-     "change_pct": 0.82,
+     "change_pct": 0.0,
      "volume": 13848000,
      "perf": {
       "1W": -9.7,
@@ -2084,7 +2084,7 @@
      "market_cap_b": 39.56,
      "pe": 28.21,
      "price": 245.4,
-     "change_pct": -0.24,
+     "change_pct": 0.0,
      "volume": 3548700,
      "perf": {
       "1W": -8.9,
@@ -2134,7 +2134,7 @@
      "market_cap_b": 16.45,
      "pe": 5.86,
      "price": 27.79,
-     "change_pct": -2.83,
+     "change_pct": 0.0,
      "volume": 45859800,
      "perf": {
       "1W": -11.5,
@@ -2184,7 +2184,7 @@
      "market_cap_b": 15.13,
      "pe": 25.98,
      "price": 321.38,
-     "change_pct": -1.63,
+     "change_pct": 0.0,
      "volume": 726900,
      "perf": {
       "1W": -2.5,
@@ -2234,7 +2234,7 @@
      "market_cap_b": 2.74,
      "pe": null,
      "price": 60.36,
-     "change_pct": -2.08,
+     "change_pct": 0.0,
      "volume": 910900,
      "perf": {
       "1W": -2.7,
@@ -2285,7 +2285,7 @@
    "color": "#F75F8E",
    "count": 12,
    "total_market_cap_b": 13607.21,
-   "avg_change_pct": -0.07,
+   "avg_change_pct": 0.0,
    "industries_included": [
     "Advertising Agencies",
     "Consumer Electronics",
@@ -2302,7 +2302,7 @@
      "market_cap_b": 5109.23,
      "pe": 38.81,
      "price": 348.51,
-     "change_pct": -0.62,
+     "change_pct": 0.0,
      "volume": 29718200,
      "perf": {
       "1W": 5.0,
@@ -2352,7 +2352,7 @@
      "market_cap_b": 3550.46,
      "pe": 15.01,
      "price": 287.38,
-     "change_pct": -0.27,
+     "change_pct": 0.0,
      "volume": 28292300,
      "perf": {
       "1W": 2.6,
@@ -2402,7 +2402,7 @@
      "market_cap_b": 2884.52,
      "pe": 21.9,
      "price": 270.87,
-     "change_pct": 1.48,
+     "change_pct": 0.0,
      "volume": 38857000,
      "perf": {
       "1W": 8.0,
@@ -2502,7 +2502,7 @@
      "market_cap_b": 245.6,
      "pe": 24.87,
      "price": 102.72,
-     "change_pct": -2.52,
+     "change_pct": 0.0,
      "volume": 8570300,
      "perf": {
       "1W": 2.4,
@@ -2552,7 +2552,7 @@
      "market_cap_b": 131.96,
      "pe": 26.63,
      "price": 395.51,
-     "change_pct": -3.53,
+     "change_pct": 0.0,
      "volume": 5445400,
      "perf": {
       "1W": 61.1,
@@ -2602,7 +2602,7 @@
      "market_cap_b": 26.89,
      "pe": null,
      "price": 79.71,
-     "change_pct": -1.63,
+     "change_pct": 0.0,
      "volume": 1869800,
      "perf": {
       "1W": 3.6,
@@ -2652,7 +2652,7 @@
      "market_cap_b": 10.49,
      "pe": 78.96,
      "price": 18.95,
-     "change_pct": -0.58,
+     "change_pct": 0.0,
      "volume": 9732900,
      "perf": {
       "1W": -6.9,
@@ -2702,7 +2702,7 @@
      "market_cap_b": 9.0,
      "pe": null,
      "price": 5.0,
-     "change_pct": -0.99,
+     "change_pct": 0.0,
      "volume": 33494500,
      "perf": {
       "1W": -10.6,
@@ -2752,7 +2752,7 @@
      "market_cap_b": 7.27,
      "pe": 18.58,
      "price": 15.42,
-     "change_pct": 3.28,
+     "change_pct": 0.0,
      "volume": 64901400,
      "perf": {
       "1W": 19.9,
@@ -2802,7 +2802,7 @@
      "market_cap_b": 3.74,
      "pe": 23.77,
      "price": 28.52,
-     "change_pct": -1.79,
+     "change_pct": 0.0,
      "volume": 2770800,
      "perf": {
       "1W": 27.7,
@@ -2852,7 +2852,7 @@
      "market_cap_b": 1.89,
      "pe": 34.79,
      "price": 13.57,
-     "change_pct": 0.07,
+     "change_pct": 0.0,
      "volume": 3486500,
      "perf": {
       "1W": 0.2,
@@ -2903,7 +2903,7 @@
    "color": "#5FD97A",
    "count": 8,
    "total_market_cap_b": 416.66,
-   "avg_change_pct": -0.96,
+   "avg_change_pct": 0.0,
    "industries_included": [
     "Electrical Equipment & Parts",
     "Engineering & Construction",
@@ -2922,7 +2922,7 @@
      "market_cap_b": 101.52,
      "pe": 63.06,
      "price": 1050.0,
-     "change_pct": -0.43,
+     "change_pct": 0.0,
      "volume": 666500,
      "perf": {
       "1W": 3.5,
@@ -2972,7 +2972,7 @@
      "market_cap_b": 87.65,
      "pe": 52.77,
      "price": 583.14,
-     "change_pct": -1.41,
+     "change_pct": 0.0,
      "volume": 1096200,
      "perf": {
       "1W": -11.2,
@@ -3022,7 +3022,7 @@
      "market_cap_b": 73.2,
      "pe": 36.3,
      "price": 194.22,
-     "change_pct": -3.12,
+     "change_pct": 0.0,
      "volume": 6759600,
      "perf": {
       "1W": -17.7,
@@ -3072,7 +3072,7 @@
      "market_cap_b": 63.72,
      "pe": 76.32,
      "price": 180.88,
-     "change_pct": 0.43,
+     "change_pct": 0.0,
      "volume": 2503500,
      "perf": {
       "1W": 0.3,
@@ -3122,7 +3122,7 @@
      "market_cap_b": 58.97,
      "pe": 22.56,
      "price": 68.37,
-     "change_pct": 0.19,
+     "change_pct": 0.0,
      "volume": 5094100,
      "perf": {
       "1W": 2.4,
@@ -3172,7 +3172,7 @@
      "market_cap_b": 16.46,
      "pe": null,
      "price": 361.18,
-     "change_pct": -0.54,
+     "change_pct": 0.0,
      "volume": 707500,
      "perf": {
       "1W": 1.1,
@@ -3222,7 +3222,7 @@
      "market_cap_b": 9.96,
      "pe": 5.99,
      "price": 14.92,
-     "change_pct": 0.13,
+     "change_pct": 0.0,
      "volume": 4941000,
      "perf": {
       "1W": -0.0,
@@ -3272,7 +3272,7 @@
      "market_cap_b": 5.18,
      "pe": null,
      "price": 25.09,
-     "change_pct": -6.52,
+     "change_pct": 0.0,
      "volume": 11329800,
      "perf": {
       "1W": 6.8,
@@ -3323,7 +3323,7 @@
    "color": "#D9C84F",
    "count": 14,
    "total_market_cap_b": 3834.78,
-   "avg_change_pct": 0.43,
+   "avg_change_pct": 0.0,
    "industries_included": [
     "Aerospace & Defense",
     "Auto Manufacturers",
@@ -3345,7 +3345,7 @@
      "market_cap_b": 1886.83,
      "pe": 622.13,
      "price": 143.09,
-     "change_pct": 0.72,
+     "change_pct": 0.0,
      "volume": 81629900,
      "perf": {
       "1W": 1.3,
@@ -3396,7 +3396,7 @@
      "market_cap_b": 1418.13,
      "pe": 417.34,
      "price": 379.78,
-     "change_pct": 0.46,
+     "change_pct": 0.0,
      "volume": 23871400,
      "perf": {
       "1W": -4.7,
@@ -3446,7 +3446,7 @@
      "market_cap_b": 229.02,
      "pe": 20.86,
      "price": 244.53,
-     "change_pct": 0.05,
+     "change_pct": 0.0,
      "volume": 2967900,
      "perf": {
       "1W": -2.2,
@@ -3496,7 +3496,7 @@
      "market_cap_b": 158.47,
      "pe": 54.42,
      "price": 450.04,
-     "change_pct": -2.28,
+     "change_pct": 0.0,
      "volume": 1664200,
      "perf": {
       "1W": 2.1,
@@ -3546,7 +3546,7 @@
      "market_cap_b": 72.41,
      "pe": 11.31,
      "price": 228.22,
-     "change_pct": -0.34,
+     "change_pct": 0.0,
      "volume": 1686100,
      "perf": {
       "1W": 1.9,
@@ -3596,7 +3596,7 @@
      "market_cap_b": 42.98,
      "pe": 31.67,
      "price": 397.16,
-     "change_pct": 2.0,
+     "change_pct": 0.0,
      "volume": 843500,
      "perf": {
       "1W": -11.0,
@@ -3646,7 +3646,7 @@
      "market_cap_b": 8.01,
      "pe": 35.52,
      "price": 50.8,
-     "change_pct": 0.91,
+     "change_pct": 0.0,
      "volume": 2892100,
      "perf": {
       "1W": -12.6,
@@ -3696,7 +3696,7 @@
      "market_cap_b": 6.0,
      "pe": null,
      "price": 123.5,
-     "change_pct": -2.73,
+     "change_pct": 0.0,
      "volume": 981600,
      "perf": {
       "1W": -0.0,
@@ -3746,7 +3746,7 @@
      "market_cap_b": 4.76,
      "pe": 470.25,
      "price": 37.62,
-     "change_pct": -0.45,
+     "change_pct": 0.0,
      "volume": 1163800,
      "perf": {
       "1W": 0.3,
@@ -3796,7 +3796,7 @@
      "market_cap_b": 1.95,
      "pe": null,
      "price": 5.22,
-     "change_pct": -4.04,
+     "change_pct": 0.0,
      "volume": 35801100,
      "perf": {
       "1W": -2.8,
@@ -3846,7 +3846,7 @@
      "market_cap_b": 1.94,
      "pe": 33.46,
      "price": 20.41,
-     "change_pct": -8.27,
+     "change_pct": 0.0,
      "volume": 8669300,
      "perf": {
       "1W": -4.5,
@@ -3896,7 +3896,7 @@
      "market_cap_b": 1.9,
      "pe": null,
      "price": 3.55,
-     "change_pct": -6.7,
+     "change_pct": 0.0,
      "volume": 19076400,
      "perf": {
       "1W": -3.5,
@@ -3946,7 +3946,7 @@
      "market_cap_b": 1.28,
      "pe": 25.4,
      "price": 35.05,
-     "change_pct": -5.17,
+     "change_pct": 0.0,
      "volume": 1696800,
      "perf": {
       "1W": -16.3,
@@ -3996,7 +3996,7 @@
      "market_cap_b": 1.1,
      "pe": null,
      "price": 2.32,
-     "change_pct": -5.31,
+     "change_pct": 0.0,
      "volume": 22778800,
      "perf": {
       "1W": -8.3,
@@ -4047,7 +4047,7 @@
    "color": "#3BE08F",
    "count": 15,
    "total_market_cap_b": 672.82,
-   "avg_change_pct": -1.85,
+   "avg_change_pct": 0.0,
    "industries_included": [
     "Electrical Equipment & Parts",
     "Engineering & Construction",
@@ -4066,7 +4066,7 @@
      "market_cap_b": 123.96,
      "pe": 35.39,
      "price": 354.22,
-     "change_pct": -1.11,
+     "change_pct": 0.0,
      "volume": 2380700,
      "sub_theme": "electrical_turbines",
      "seed": true,
@@ -4118,7 +4118,7 @@
      "market_cap_b": 118.05,
      "pe": 20.93,
      "price": 797.04,
-     "change_pct": -3.89,
+     "change_pct": 0.0,
      "volume": 6230700,
      "sub_theme": "electrical_turbines",
      "seed": true,
@@ -4170,7 +4170,7 @@
      "market_cap_b": 98.07,
      "pe": 21.52,
      "price": 267.76,
-     "change_pct": -3.02,
+     "change_pct": 0.0,
      "volume": 3240700,
      "sub_theme": "nuclear_ipp",
      "seed": true,
@@ -4222,7 +4222,7 @@
      "market_cap_b": 97.7,
      "pe": 21.38,
      "price": 93.65,
-     "change_pct": 0.09,
+     "change_pct": 0.0,
      "volume": 4443900,
      "sub_theme": "grid_utilities",
      "seed": true,
@@ -4274,7 +4274,7 @@
      "market_cap_b": 57.76,
      "pe": 17.73,
      "price": 131.18,
-     "change_pct": -2.05,
+     "change_pct": 0.0,
      "volume": 4375100,
      "sub_theme": "nuclear_ipp",
      "seed": true,
@@ -4326,7 +4326,7 @@
      "market_cap_b": 39.06,
      "pe": 25.56,
      "price": 111.71,
-     "change_pct": -0.07,
+     "change_pct": 0.0,
      "volume": 2375900,
      "sub_theme": "grid_utilities",
      "seed": true,
@@ -4378,7 +4378,7 @@
      "market_cap_b": 38.99,
      "pe": 21.1,
      "price": 74.68,
-     "change_pct": -0.47,
+     "change_pct": 0.0,
      "volume": 2622300,
      "sub_theme": "nuclear_ipp",
      "seed": true,
@@ -4430,7 +4430,7 @@
      "market_cap_b": 35.26,
      "pe": 110.41,
      "price": 72.87,
-     "change_pct": -3.32,
+     "change_pct": 0.0,
      "volume": 2941500,
      "sub_theme": "uranium_fuel",
      "seed": true,
@@ -4482,7 +4482,7 @@
      "market_cap_b": 20.47,
      "pe": 16.98,
      "price": 97.11,
-     "change_pct": -0.3,
+     "change_pct": 0.0,
      "volume": 3671400,
      "sub_theme": "nuclear_ipp",
      "seed": true,
@@ -4534,7 +4534,7 @@
      "market_cap_b": 15.67,
      "pe": 23.89,
      "price": 1105.93,
-     "change_pct": -0.66,
+     "change_pct": 0.0,
      "volume": 638100,
      "sub_theme": "dc_infra",
      "seed": true,
@@ -4586,7 +4586,7 @@
      "market_cap_b": 14.05,
      "pe": 27.3,
      "price": 112.48,
-     "change_pct": -1.71,
+     "change_pct": 0.0,
      "volume": 2388400,
      "sub_theme": "electrical_turbines",
      "seed": true,
@@ -4638,7 +4638,7 @@
      "market_cap_b": 5.53,
      "pe": null,
      "price": 8.33,
-     "change_pct": -4.8,
+     "change_pct": 0.0,
      "volume": 5347800,
      "sub_theme": "uranium_fuel",
      "seed": true,
@@ -4690,7 +4690,7 @@
      "market_cap_b": 2.92,
      "pe": 26.48,
      "price": 138.21,
-     "change_pct": -2.43,
+     "change_pct": 0.0,
      "volume": 505100,
      "sub_theme": "electrical_turbines",
      "seed": true,
@@ -4742,7 +4742,7 @@
      "market_cap_b": 2.77,
      "pe": null,
      "price": 7.17,
-     "change_pct": -5.91,
+     "change_pct": 0.0,
      "volume": 7516400,
      "sub_theme": "uranium_fuel",
      "seed": true,
@@ -4794,7 +4794,7 @@
      "market_cap_b": 2.56,
      "pe": 32.6,
      "price": 109.87,
-     "change_pct": -6.37,
+     "change_pct": 0.0,
      "volume": 707800,
      "sub_theme": "uranium_fuel",
      "seed": true,
@@ -4855,7 +4855,7 @@
      "market_cap_b": 265.28,
      "pe": 815.9,
      "price": 326.36,
-     "change_pct": -1.37,
+     "change_pct": 0.0,
      "volume": 4672300,
      "perf": {
       "1W": -6.8,
@@ -4905,7 +4905,7 @@
      "market_cap_b": 229.55,
      "pe": 3762.67,
      "price": 225.76,
-     "change_pct": -1.23,
+     "change_pct": 0.0,
      "volume": 6191000,
      "perf": {
       "1W": -7.7,
@@ -4955,7 +4955,7 @@
      "market_cap_b": 109.04,
      "pe": null,
      "price": 305.8,
-     "change_pct": 4.1,
+     "change_pct": 0.0,
      "volume": 4634500,
      "perf": {
       "1W": 11.8,
@@ -5005,7 +5005,7 @@
      "market_cap_b": 90.74,
      "pe": 40.38,
      "price": 123.57,
-     "change_pct": 0.9,
+     "change_pct": 0.0,
      "volume": 5598200,
      "perf": {
       "1W": -3.5,
@@ -5055,7 +5055,7 @@
      "market_cap_b": 31.54,
      "pe": null,
      "price": 194.92,
-     "change_pct": -2.07,
+     "change_pct": 0.0,
      "volume": 2248200,
      "perf": {
       "1W": -13.4,
@@ -5105,7 +5105,7 @@
      "market_cap_b": 30.96,
      "pe": 107.45,
      "price": 178.36,
-     "change_pct": 0.44,
+     "change_pct": 0.0,
      "volume": 2521500,
      "perf": {
       "1W": -6.0,
@@ -5155,7 +5155,7 @@
      "market_cap_b": 22.2,
      "pe": null,
      "price": 109.34,
-     "change_pct": -1.69,
+     "change_pct": 0.0,
      "volume": 2361800,
      "fwd_eps": 0.77,
      "perf": {
@@ -5206,7 +5206,7 @@
      "market_cap_b": 17.97,
      "pe": 25.34,
      "price": 317.31,
-     "change_pct": -0.14,
+     "change_pct": 0.0,
      "volume": 678500,
      "fwd_eps": 19.98,
      "perf": {
@@ -5257,7 +5257,7 @@
      "market_cap_b": 14.79,
      "pe": 17.4,
      "price": 144.57,
-     "change_pct": 0.42,
+     "change_pct": 0.0,
      "volume": 740400,
      "perf": {
       "1W": 1.6,
@@ -5307,7 +5307,7 @@
      "market_cap_b": 11.53,
      "pe": null,
      "price": 19.96,
-     "change_pct": -1.96,
+     "change_pct": 0.0,
      "volume": 5886900,
      "fwd_eps": 0.4,
      "perf": {
@@ -5358,7 +5358,7 @@
      "market_cap_b": 10.58,
      "pe": 13.57,
      "price": 87.42,
-     "change_pct": 0.83,
+     "change_pct": 0.0,
      "volume": 2644400,
      "fwd_eps": 6.75,
      "perf": {
@@ -5409,7 +5409,7 @@
      "market_cap_b": 8.24,
      "pe": null,
      "price": 23.43,
-     "change_pct": -0.38,
+     "change_pct": 0.0,
      "volume": 10352700,
      "perf": {
       "1W": 1.4,
@@ -5459,7 +5459,7 @@
      "market_cap_b": 7.73,
      "pe": 32.79,
      "price": 55.74,
-     "change_pct": 1.18,
+     "change_pct": 0.0,
      "volume": 1631500,
      "fwd_eps": 2.79,
      "perf": {
@@ -5510,7 +5510,7 @@
      "market_cap_b": 5.7,
      "pe": null,
      "price": 49.1,
-     "change_pct": 0.29,
+     "change_pct": 0.0,
      "volume": 2057800,
      "fwd_eps": 0.43,
      "perf": {
@@ -5561,7 +5561,7 @@
      "market_cap_b": 5.59,
      "pe": 37.91,
      "price": 51.56,
-     "change_pct": 0.14,
+     "change_pct": 0.0,
      "volume": 1024300,
      "fwd_eps": 3.39,
      "perf": {
@@ -5612,7 +5612,7 @@
      "market_cap_b": 4.74,
      "pe": 322.77,
      "price": 41.96,
-     "change_pct": -3.92,
+     "change_pct": 0.0,
      "volume": 2258300,
      "fwd_eps": 2.46,
      "perf": {
@@ -5663,7 +5663,7 @@
      "market_cap_b": 2.06,
      "pe": 43.42,
      "price": 27.79,
-     "change_pct": 2.7,
+     "change_pct": 0.0,
      "volume": 1356400,
      "fwd_eps": 1.28,
      "perf": {
@@ -5714,7 +5714,7 @@
      "market_cap_b": 0.91,
      "pe": 69.0,
      "price": 14.49,
-     "change_pct": -3.21,
+     "change_pct": 0.0,
      "volume": 1709200,
      "fwd_eps": 1.83,
      "perf": {
@@ -5758,7 +5758,7 @@
     }
    ],
    "count": 18,
-   "avg_change_pct": -0.26,
+   "avg_change_pct": 0.0,
    "total_market_cap_b": 869.15,
    "pe_harmonic": 119.1,
    "pe_excluded": 6,

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-11T14:02:00+00:00",
-  "as_of_local": "2026-11-11 14:02:00 UTC",
+  "as_of_utc": "2026-11-11T14:07:00+00:00",
+  "as_of_local": "2026-11-11 14:07:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 4078186815261.841,
       "headlines": [
         {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Nvidia stock recovers, 10-year yield nears 5%",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-123445799.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-11T12:34:45Z"
+        },
+        {
           "title": "Nvidia stock rebounds, chip stocks surge as CoreWeave earnings boost AI trade",
           "url": "https://finance.yahoo.com/markets/article/copy-nvidia-stock-drops-3-extending-decline-on-report-alleged-chinese-spy-linked-to-nvidia-ceo-aided-75-billion-in-china-chip-shipments-135439175.html",
           "publisher": "Yahoo Finance",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/article/icarus-rise-and-fall-analyst-downgrades-nvidia-stock-amid-jensen-huang-woes-highlights-risks-131204555.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-11T13:12:04Z"
-        },
-        {
-          "title": "Why open-source AI models aren't actually cheaper to run: Vinod Khosla",
-          "url": "https://finance.yahoo.com/video/why-open-source-ai-models-130000766.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-11T13:00:00Z"
         }
       ]
     },
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": null,
-      "change_pct": 0.0,
+      "price": 40.64,
+      "change_pct": -2.73,
       "holdings": [
         {
           "symbol": "MU",
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": null,
-    "change_pct": 0.0,
+    "price": 40.64,
+    "change_pct": -2.73,
     "holdings": [
       {
         "symbol": "MU",
@@ -585,12 +585,12 @@
     },
     {
       "label": "BTC",
-      "price": 73770.3,
-      "change_pct": 0.07
+      "price": 73727.85,
+      "change_pct": 0.01
     },
     {
       "label": "Gold",
-      "price": 4042.5,
+      "price": 4042.6,
       "change_pct": 0.31
     },
     {

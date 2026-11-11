@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-11T01:29:35+00:00",
+  "as_of": "2026-11-11T04:07:29+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -13,14 +13,14 @@
    "company": "NVIDIA Corp",
    "move_pct": -5.47,
    "price": 168.89,
-   "volume": 427096957,
+   "volume": 426599700,
    "volume_vs_avg": "~3x",
    "heat_score": 51,
    "direction": "down",
-   "why": "Dow Jones Futures Rise, CoreWave Jumps After Stocks Fall On Nvidia, Surging Treasury Yields",
+   "why": "Nvidia Shares Just Crashed Nearly 30% in Five Weeks. Dan Ives Says Losing Jensen Huang Would Cost Up to 30% More. Here\u2019s the Math",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/m/656fca57-9896-3dfb-96e8-e0af2bc227df/dow-jones-futures-rise%2C.html",
-   "published": "2026-11-11T01:15:40+00:00",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-shares-just-crashed-nearly-034113778.html",
+   "published": "2026-11-11T03:41:13+00:00",
    "sector": "AI Chips & Compute"
   },
   {
@@ -29,31 +29,31 @@
    "company": "Trade Desk Inc",
    "move_pct": 3.28,
    "price": 15.42,
-   "volume": 64919399,
+   "volume": 64901400,
    "volume_vs_avg": "~4x",
    "heat_score": 44,
    "direction": "up",
-   "why": "Stock Market Today, Nov. 10: Trade Desk Jumps After Q3 Results Show Revenue Topped Estimates",
+   "why": "Trade Desk (TTD) Stock Rallies While Q3 Results Reveal Margin Strain",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-10-221240547.html",
-   "published": "2026-11-10T22:12:40+00:00",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/trade-desk-ttd-stock-rallies-010849155.html",
+   "published": "2026-11-11T01:08:49+00:00",
    "sector": "AI Platforms, Internet & AdTech"
   },
   {
    "rank": 3,
-   "ticker": "LEU",
-   "company": "Centrus Energy Corp",
-   "move_pct": -6.37,
-   "price": 109.87,
-   "volume": 707675,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 41,
+   "ticker": "RXRX",
+   "company": "Recursion Pharmaceuticals Inc",
+   "move_pct": -6.7,
+   "price": 3.55,
+   "volume": 19076400,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 42,
    "direction": "down",
-   "why": "Centrus Energy Appoints Kevin Graney to Board of Directors",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/energy/articles/centrus-energy-appoints-kevin-graney-214900765.html",
-   "published": "2026-11-10T21:49:00+00:00",
-   "sector": "Powering AI"
+   "why": "Recursion Pharmaceuticals Inc (RXRX) Q3 2026 Earnings Call Highlights: Durable FAP Data, Early ...",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/healthcare/articles/recursion-pharmaceuticals-inc-rxrx-q3-010735518.html",
+   "published": "2026-11-11T01:07:35+00:00",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

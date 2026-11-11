@@ -1,28 +1,30 @@
 {
-  "as_of_utc": "2026-11-11T14:52:54+00:00",
-  "as_of_local": "2026-11-11 14:52:54 UTC",
+  "as_of_utc": "2026-11-11T14:57:55+00:00",
+  "as_of_local": "2026-11-11 14:57:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 172.77,
+      "price": 173.2,
       "previous_close": 168.89,
-      "change_pct": 2.3,
-      "market_cap": 4172480820785.5225,
+      "change_pct": 2.55,
+      "market_cap": 4182260326309.204,
       "headlines": [
-        {
-          "title": "Huang controversy reignites Washington's chip debate",
-          "url": "https://finance.yahoo.com/video/huang-controversy-reignites-washingtons-chip-debate-144623040.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-11T14:46:23Z"
-        },
         {
           "title": "Stock market today: S&P 500, Nasdaq rise as Nvidia stock recovers, chip stocks rally after CoreWeave earnings",
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-11T12:34:45Z"
+        },
+        {
+          "title": "Huang controversy reignites Washington's chip debate",
+          "url": "https://finance.yahoo.com/video/huang-controversy-reignites-washingtons-chip-debate-144623040.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-11T14:46:23Z"
         },
         {
           "title": "Nvidia stock rebounds, chip stocks surge as CoreWeave earnings boost AI trade",
@@ -35,10 +37,10 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 408.8,
+      "price": 409.76,
       "previous_close": 396.48,
-      "change_pct": 3.11,
-      "market_cap": 2120282012014.8525,
+      "change_pct": 3.35,
+      "market_cap": 2125001721432.8237,
       "headlines": [
         {
           "title": "TSMC plans up to $1bn investment in Anthropic, OpenAI",
@@ -63,10 +65,10 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 351.11,
+      "price": 351.29,
       "previous_close": 331.98,
-      "change_pct": 5.76,
-      "market_cap": 1676474975401.7844,
+      "change_pct": 5.82,
+      "market_cap": 1676904584608.0796,
       "headlines": [
         {
           "title": "Goldman Sachs calls chip stocks 'oversold.' Here are the names it says to buy.",
@@ -89,40 +91,12 @@
       ]
     },
     {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 782.36,
-      "previous_close": 725.11,
-      "change_pct": 7.9,
-      "market_cap": 885463103369.7378,
-      "headlines": [
-        {
-          "title": "CoreWeave Boosts AI Trade. Bloom Energy, Other Power Stocks Are Big Winners.",
-          "url": "https://www.barrons.com/articles/coreweave-ai-bloom-energy-stock-power-addbb638?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-11T14:37:00Z"
-        },
-        {
-          "title": "Seagate Spikes 9%, Sandisk Surges 8% as CoreWeave\u2019s Results Revive AI Trade; Micron Climbs 7%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-spikes-9-sandisk-surges-140842780.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-11T14:08:42Z"
-        },
-        {
-          "title": "Applied Materials Is Up 59% in a Year, Even After Halving From Its High: \u201cDouble Our Output\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-59-even-halving-135018958.html",
-          "publisher": "TIKR",
-          "published": "2026-11-11T13:50:18Z"
-        }
-      ]
-    },
-    {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 527.77,
+      "price": 532.77,
       "previous_close": 515.21,
-      "change_pct": 2.44,
-      "market_cap": 864768836867.7241,
+      "change_pct": 3.41,
+      "market_cap": 874166504783.0,
       "headlines": [
         {
           "title": "Goldman Sachs calls chip stocks 'oversold.' Here are the names it says to buy.",
@@ -147,10 +121,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 61.63,
+      "price": 61.67,
       "previous_close": 58.13,
-      "change_pct": 6.02,
-      "market_cap": 327350850811.00464,
+      "change_pct": 6.08,
+      "market_cap": 327882342700.95825,
       "headlines": [
         {
           "title": "Server CPU strength persists as AMD and Arm gain share: UBS",
@@ -175,10 +149,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 190.94,
+      "price": 191.83,
       "previous_close": 181.49,
-      "change_pct": 5.21,
-      "market_cap": 203979444122.31445,
+      "change_pct": 5.7,
+      "market_cap": 205226003265.38086,
       "headlines": [
         {
           "title": "Server CPU strength persists as AMD and Arm gain share: UBS",
@@ -203,10 +177,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 175.79,
+      "price": 175.44,
       "previous_close": 173.53,
-      "change_pct": 1.3,
-      "market_cap": 188068549346.92383,
+      "change_pct": 1.1,
+      "market_cap": 187720802612.3047,
       "headlines": [
         {
           "title": "Anthropic is hiding its best AI: Fable 5.2 and the IPO",
@@ -231,10 +205,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 163.69,
+      "price": 165.15,
       "previous_close": 154.39,
-      "change_pct": 6.02,
-      "market_cap": 147066730667.03244,
+      "change_pct": 6.97,
+      "market_cap": 148537856670.87863,
       "headlines": [
         {
           "title": "CoreWeave Boosts AI Trade. Bloom Energy, Other Power Stocks Are Big Winners.",
@@ -259,10 +233,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 266.43,
+      "price": 268.01,
       "previous_close": 261.56,
-      "change_pct": 1.86,
-      "market_cap": 67106585063.66504,
+      "change_pct": 2.46,
+      "market_cap": 67551462279.66748,
       "headlines": [
         {
           "title": "iShares PHLX SOX Semiconductor (SOXX) Buys $394.7 Million More AMD on Nov. 9",
@@ -287,10 +261,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 116.41,
+      "price": 116.65,
       "previous_close": 111.25,
-      "change_pct": 4.64,
-      "market_cap": 16516669105.195473,
+      "change_pct": 4.85,
+      "market_cap": 16590627072.169182,
       "headlines": [
         {
           "title": "3 AI Infrastructure Stocks Riding The Next Data Center Spending Wave",
@@ -315,10 +289,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 125.87,
+      "price": 126.36,
       "previous_close": 123.5,
-      "change_pct": 1.92,
-      "market_cap": 6396801900.323227,
+      "change_pct": 2.31,
+      "market_cap": 6421449971.811722,
       "headlines": [
         {
           "title": "Ondas Retreats 9% Despite Attack Drone Purchase Order Ahead of Earnings; Red Cat Declines 9%, AeroVironment Falls 4%",
@@ -343,9 +317,9 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 118.16,
+      "price": 118.12,
       "previous_close": 117.7,
-      "change_pct": 0.39,
+      "change_pct": 0.36,
       "market_cap": 4692732419.037628,
       "headlines": [
         {
@@ -371,10 +345,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 25.25,
+      "price": 25.59,
       "previous_close": 24.45,
-      "change_pct": 3.27,
-      "market_cap": 720268017.2875252,
+      "change_pct": 4.66,
+      "market_cap": 730007232.8099251,
       "headlines": [
         {
           "title": "CEVA, Inc. Q3 2026 Earnings Call Summary",
@@ -401,16 +375,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 43.9,
-      "change_pct": 8.02,
+      "price": 44.08,
+      "change_pct": 8.45,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 7.9,
-          "price": 782.36,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -445,8 +419,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 11.02,
-          "price": 954.77,
+          "change_pct": 11.34,
+          "price": 957.51,
           "currency": "USD"
         },
         {
@@ -454,8 +428,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 7.85,
-          "price": 540.99,
+          "change_pct": 8.18,
+          "price": 542.64,
           "currency": "USD"
         },
         {
@@ -463,8 +437,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 5.55,
-          "price": 305.26,
+          "change_pct": 5.99,
+          "price": 306.52,
           "currency": "USD"
         },
         {
@@ -491,16 +465,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 43.9,
-    "change_pct": 8.02,
+    "price": 44.08,
+    "change_pct": 8.45,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 7.9,
-        "price": 782.36,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -535,8 +509,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 11.02,
-        "price": 954.77,
+        "change_pct": 11.34,
+        "price": 957.51,
         "currency": "USD"
       },
       {
@@ -544,8 +518,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 7.85,
-        "price": 540.99,
+        "change_pct": 8.18,
+        "price": 542.64,
         "currency": "USD"
       },
       {
@@ -553,8 +527,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 5.55,
-        "price": 305.26,
+        "change_pct": 5.99,
+        "price": 306.52,
         "currency": "USD"
       },
       {
@@ -580,23 +554,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7580.03,
-      "change_pct": 0.79
+      "price": 7589.58,
+      "change_pct": 0.91
     },
     {
       "label": "BTC",
-      "price": 73624.55,
-      "change_pct": -0.13
+      "price": 73532.34,
+      "change_pct": -0.25
     },
     {
       "label": "Gold",
-      "price": 4025.6,
-      "change_pct": -0.11
+      "price": 4022.4,
+      "change_pct": -0.19
     },
     {
       "label": "Nasdaq100",
-      "price": 28149.07,
-      "change_pct": 1.47
+      "price": 28200.48,
+      "change_pct": 1.66
     }
   ]
 }

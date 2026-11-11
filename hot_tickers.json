@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-11T00:33:02+00:00",
+  "as_of": "2026-11-11T00:48:05+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "UPST",
    "company": "Upstart Holdings Inc",
-   "move_pct": -8.09,
-   "price": 20.45,
+   "move_pct": -8.18,
+   "price": 20.43,
    "volume": 8674424,
    "volume_vs_avg": "~2x",
    "heat_score": 63,
@@ -27,27 +27,43 @@
    "rank": 2,
    "ticker": "NVDA",
    "company": "NVIDIA Corp",
-   "move_pct": -4.61,
-   "price": 170.44,
+   "move_pct": -4.66,
+   "price": 170.35,
    "volume": 427096957,
    "volume_vs_avg": "~3x",
    "heat_score": 48,
    "direction": "down",
-   "why": "Dow Jones Futures: Stock Market Falls On Surging Treasury Yields, Nvidia Sell-Off; CoreWeave Rises Late",
+   "why": "Nvidia\u2019s Scandal Hasn\u2019t Dented the Market. Here\u2019s Why.",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/m/656fca57-9896-3dfb-96e8-e0af2bc227df/dow-jones-futures%3A-stock.html",
-   "published": "2026-11-11T00:07:54+00:00",
+   "source_url": "https://finance.yahoo.com/news/nvidia-scandal-hasn-t-dented-002233602.html",
+   "published": "2026-11-11T00:22:33+00:00",
    "sector": "AI Chips & Compute"
   },
   {
    "rank": 3,
+   "ticker": "AVGO",
+   "company": "Broadcom Inc",
+   "move_pct": 5.79,
+   "price": 337.98,
+   "volume": 28299731,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 41,
+   "direction": "up",
+   "why": "Jim Cramer Warns About the AI Data Center Trade. What It Means for Nvidia and Broadcom",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-warns-ai-data-000739886.html",
+   "published": "2026-11-11T00:07:39+00:00",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 4,
    "ticker": "TTD",
    "company": "Trade Desk Inc",
-   "move_pct": 2.55,
-   "price": 15.31,
+   "move_pct": 2.48,
+   "price": 15.3,
    "volume": 64919399,
    "volume_vs_avg": "~4x",
-   "heat_score": 42,
+   "heat_score": 41,
    "direction": "up",
    "why": "Stock Market Today, Nov. 10: Trade Desk Jumps After Q3 Results Show Revenue Topped Estimates",
    "catalyst_type": "earnings",
@@ -56,7 +72,7 @@
    "sector": "AI Platforms, Internet & AdTech"
   },
   {
-   "rank": 4,
+   "rank": 5,
    "ticker": "LEU",
    "company": "Centrus Energy Corp",
    "move_pct": -6.37,
@@ -70,22 +86,6 @@
    "source_url": "https://finance.yahoo.com/energy/articles/centrus-energy-appoints-kevin-graney-214900765.html",
    "published": "2026-11-10T21:49:00+00:00",
    "sector": "Powering AI"
-  },
-  {
-   "rank": 5,
-   "ticker": "AVGO",
-   "company": "Broadcom Inc",
-   "move_pct": 5.31,
-   "price": 336.44,
-   "volume": 28299731,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 40,
-   "direction": "up",
-   "why": "Jim Cramer Warns About the AI Data Center Trade. What It Means for Nvidia and Broadcom",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-warns-ai-data-000739886.html",
-   "published": "2026-11-11T00:07:39+00:00",
-   "sector": "AI Chips & Compute"
   }
  ]
 }

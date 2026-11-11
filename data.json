@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-11T11:56:41+00:00",
-  "as_of_local": "2026-11-11 11:56:41 UTC",
+  "as_of_utc": "2026-11-11T12:01:45+00:00",
+  "as_of_local": "2026-11-11 12:01:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 168.89,
+      "previous_close": 178.67,
+      "change_pct": -5.47,
+      "market_cap": 4078186815261.841,
+      "headlines": [
+        {
+          "title": "OpenAI's Q3 results and Nvidia's scandal impact on the AI ecosystem",
+          "url": "https://finance.yahoo.com/video/openais-q3-results-and-nvidias-scandal-impact-on-the-ai-ecosystem-222332740.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-10T22:23:32Z"
+        },
+        {
+          "title": "TSMC\u2019s Sales Jumped 15% in October. Nvidia\u2019s Supplier Isn\u2019t Seeing the AI Slowdown Yet",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-sales-jumped-15-october-115417189.html",
+          "publisher": "TIKR",
+          "published": "2026-11-11T11:54:17Z"
+        },
+        {
+          "title": "Is Nvidia a Bad-News Buy or a Stock to Avoid?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-bad-news-buy-stock-115002668.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-11T11:50:02Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -14,6 +40,12 @@
       "change_pct": 2.02,
       "market_cap": 2056333273654.5454,
       "headlines": [
+        {
+          "title": "TSMC\u2019s Sales Jumped 15% in October. Nvidia\u2019s Supplier Isn\u2019t Seeing the AI Slowdown Yet",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-sales-jumped-15-october-115417189.html",
+          "publisher": "TIKR",
+          "published": "2026-11-11T11:54:17Z"
+        },
         {
           "title": "TSMC Approves Up to $1 Billion Investment in Anthropic and OpenAI as October Sales Rise 60%",
           "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-approves-1-billion-investment-111521145.html",
@@ -25,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-taiwan-semiconductor-tsm-110148103.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-11T11:01:48Z"
-        },
-        {
-          "title": "Chip Stocks Jump as CoreWeave Eases AI Fears",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-111126/card/chip-stocks-jump-as-coreweave-eases-ai-fears-f6YiuMeXX1AlFa0X6Nmb?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-11T10:39:12Z"
         }
       ]
     },
@@ -99,6 +125,12 @@
       "market_cap": 820406268679.7378,
       "headlines": [
         {
+          "title": "Micron draws $554 million in ETF buying after steep selloff",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-draws-554-million-etf-114345334.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-11T11:43:45Z"
+        },
+        {
           "title": "Social Buzz: Wallstreetbets Stocks Advance Premarket Wednesday; CoreWeave, Nebius Group to Open Higher",
           "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-advance-114134140.html",
           "publisher": "MT Newswires",
@@ -109,12 +141,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/latest-news-ai-chips-advancing-113735186.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-11T11:37:35Z"
-        },
-        {
-          "title": "US High Relative Profitability (DUHP) Adds Broadcom and Micron on Nov. 9",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-high-relative-profitability-duhp-110435180.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-11T11:04:35Z"
         }
       ]
     },
@@ -183,6 +209,12 @@
       "market_cap": 185677098693.84766,
       "headlines": [
         {
+          "title": "Anthropic is hiding its best AI: Fable 5.2 and the IPO",
+          "url": "https://finance.yahoo.com/video/anthropic-hiding-best-ai-fable-120000011.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-11T12:00:00Z"
+        },
+        {
           "title": "ETFs Bought $293.8 Million of Qualcomm (QCOM) on Nov. 9",
           "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-293-8-million-110143068.html",
           "publisher": "GuruFocus.com",
@@ -193,12 +225,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-signaling-ai-pc-101351663.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-11T10:13:51Z"
-        },
-        {
-          "title": "What Would It Take For AMD Stock To Move Higher?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-move-higher-010944172.html",
-          "publisher": "Trefis",
-          "published": "2026-11-11T01:09:44Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 73972.6,
-      "change_pct": 0.34
+      "price": 73893.83,
+      "change_pct": 0.24
     },
     {
       "label": "Gold",
-      "price": 4056.6,
-      "change_pct": 0.66
+      "price": 4055.1,
+      "change_pct": 0.62
     },
     {
       "label": "Nasdaq100",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T13:38:28+00:00",
-  "as_of_local": "2026-11-11 13:38:28 UTC",
+  "as_of_utc": "2026-11-11T13:43:31+00:00",
+  "as_of_local": "2026-11-11 13:43:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-123445799.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-11T12:34:45Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 396.48,
-      "previous_close": 388.62,
-      "change_pct": 2.02,
-      "market_cap": 2056332869641.414,
-      "headlines": [
-        {
-          "title": "How $300,000 in EWT Ends Up With $60,924 in a Single Chipmaker",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/300-000-ewt-ends-60-123355526.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-11T12:33:55Z"
-        },
-        {
-          "title": "TSMC\u2019s Sales Jumped 15% in October. Nvidia\u2019s Supplier Isn\u2019t Seeing the AI Slowdown Yet",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-sales-jumped-15-october-115417189.html",
-          "publisher": "TIKR",
-          "published": "2026-11-11T11:54:17Z"
-        },
-        {
-          "title": "TSMC Approves Up to $1 Billion Investment in Anthropic and OpenAI as October Sales Rise 60%",
-          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-approves-1-billion-investment-111521145.html",
-          "publisher": "InvestorsHub",
-          "published": "2026-11-11T11:15:21Z"
         }
       ]
     },
@@ -237,6 +211,12 @@
       "market_cap": 138914853972.8065,
       "headlines": [
         {
+          "title": "3 Beaten-Down Stocks With a Real Catalyst for a Comeback",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-beaten-down-stocks-real-132916185.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-11T13:29:16Z"
+        },
+        {
           "title": "CoreWeave Boosts the AI Trade. These Power Stocks Are the Big Winners.",
           "url": "https://www.barrons.com/articles/coreweave-ai-bloom-energy-stock-power-addbb638?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -247,12 +227,6 @@
           "url": "https://www.barrons.com/articles/stock-movers-e9c667c2?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-11T11:27:00Z"
-        },
-        {
-          "title": "Marvell (MRVL) Sees $222.6 Million in Net ETF Buying on Monday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-sees-222-6-110213962.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-11T11:02:13Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 73635.9,
-      "change_pct": -0.11
+      "price": 73669.98,
+      "change_pct": -0.07
     },
     {
       "label": "Gold",
-      "price": 4047.4,
-      "change_pct": 0.43
+      "price": 4045.7,
+      "change_pct": 0.38
     },
     {
       "label": "Nasdaq100",

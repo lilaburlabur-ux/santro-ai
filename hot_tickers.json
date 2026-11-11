@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-10T23:57:22+00:00",
+  "as_of": "2026-11-11T00:12:41+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "UPST",
    "company": "Upstart Holdings Inc",
-   "move_pct": -7.91,
-   "price": 20.49,
+   "move_pct": -8.21,
+   "price": 20.42,
    "volume": 8674424,
    "volume_vs_avg": "~2x",
-   "heat_score": 52,
+   "heat_score": 63,
    "direction": "down",
    "why": "Upstart CEO Targets Record 2027 Results Despite Rates and Consumer Pressure",
    "catalyst_type": "earnings",
@@ -27,36 +27,20 @@
    "rank": 2,
    "ticker": "NVDA",
    "company": "NVIDIA Corp",
-   "move_pct": -4.87,
-   "price": 169.98,
+   "move_pct": -4.61,
+   "price": 170.44,
    "volume": 427096957,
    "volume_vs_avg": "~3x",
-   "heat_score": 49,
+   "heat_score": 48,
    "direction": "down",
    "why": "Dow Jones Futures: Stock Market Falls On Surging Treasury Yields, Nvidia Sell-Off; CoreWeave Rises Late",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/m/656fca57-9896-3dfb-96e8-e0af2bc227df/dow-jones-futures%3A-stock.html",
-   "published": "2026-11-10T23:31:08+00:00",
+   "published": "2026-11-10T23:54:32+00:00",
    "sector": "AI Chips & Compute"
   },
   {
    "rank": 3,
-   "ticker": "TTD",
-   "company": "Trade Desk Inc",
-   "move_pct": 2.88,
-   "price": 15.36,
-   "volume": 64919399,
-   "volume_vs_avg": "~4x",
-   "heat_score": 43,
-   "direction": "up",
-   "why": "Stock Market Today, Nov. 10: Trade Desk Jumps After Q3 Results Show Revenue Topped Estimates",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-10-221240547.html",
-   "published": "2026-11-10T22:12:40+00:00",
-   "sector": "AI Platforms, Internet & AdTech"
-  },
-  {
-   "rank": 4,
    "ticker": "NXE",
    "company": "NexGen Energy Ltd",
    "move_pct": -6.53,
@@ -70,6 +54,22 @@
    "source_url": "https://finance.yahoo.com/energy/articles/nexgen-energy-q3-earnings-call-211522225.html",
    "published": "2026-11-10T21:15:22+00:00",
    "sector": "Powering AI"
+  },
+  {
+   "rank": 4,
+   "ticker": "TTD",
+   "company": "Trade Desk Inc",
+   "move_pct": 2.56,
+   "price": 15.31,
+   "volume": 64919399,
+   "volume_vs_avg": "~4x",
+   "heat_score": 42,
+   "direction": "up",
+   "why": "Stock Market Today, Nov. 10: Trade Desk Jumps After Q3 Results Show Revenue Topped Estimates",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-10-221240547.html",
+   "published": "2026-11-10T22:12:40+00:00",
+   "sector": "AI Platforms, Internet & AdTech"
   },
   {
    "rank": 5,
@@ -86,22 +86,6 @@
    "source_url": "https://finance.yahoo.com/energy/articles/centrus-energy-appoints-kevin-graney-214900765.html",
    "published": "2026-11-10T21:49:00+00:00",
    "sector": "Powering AI"
-  },
-  {
-   "rank": 6,
-   "ticker": "NET",
-   "company": "Cloudflare Inc",
-   "move_pct": 5.04,
-   "price": 308.56,
-   "volume": 4633042,
-   "volume_vs_avg": "~1.3x",
-   "heat_score": 39,
-   "direction": "up",
-   "why": "Cloudflare (NET) Names Christian Smith President Of Revenue In $5 Billion ARR Push",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-net-names-christian-smith-221005689.html",
-   "published": "2026-11-10T22:10:05+00:00",
-   "sector": "Cybersecurity"
   }
  ]
 }

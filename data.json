@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-11T03:19:12+00:00",
-  "as_of_local": "2026-11-11 03:19:12 UTC",
+  "as_of_utc": "2026-11-11T03:34:20+00:00",
+  "as_of_local": "2026-11-11 03:34:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -153,6 +153,12 @@
       "market_cap": 308960955677.0325,
       "headlines": [
         {
+          "title": "Intel vs. SK Hynix: Which Technology Stock Is a Better Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-sk-hynix-technology-032002803.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-11T03:20:02Z"
+        },
+        {
           "title": "Quantum Computing\u2019s Next Winners May Not Be Quantum Stocks",
           "url": "https://finance.yahoo.com/markets/stocks/articles/quantum-computing-next-winners-may-022442514.html",
           "publisher": "24/7 Wall St.",
@@ -163,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-move-higher-010944172.html",
           "publisher": "Trefis",
           "published": "2026-11-11T01:09:44Z"
-        },
-        {
-          "title": "Intel Stocks Fall 1.82% as Chip Rally Fades and PC Slump Clouds Q4",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-fall-1-82-193409911.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-10T19:34:09Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.89,
-          "price": 1247000.0,
+          "change_pct": 3.63,
+          "price": 1256000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 2.06,
-          "price": 203000.0,
+          "change_pct": 2.31,
+          "price": 203500.0,
           "currency": "KRW"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -0.52,
-          "price": 381.0,
+          "change_pct": 0.39,
+          "price": 384.5,
           "currency": "TWD"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -3.7,
-          "price": 130.0,
+          "change_pct": -2.96,
+          "price": 131.0,
           "currency": "TWD"
         }
       ]
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.89,
-        "price": 1247000.0,
+        "change_pct": 3.63,
+        "price": 1256000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 2.06,
-        "price": 203000.0,
+        "change_pct": 2.31,
+        "price": 203500.0,
         "currency": "KRW"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -0.52,
-        "price": 381.0,
+        "change_pct": 0.39,
+        "price": 384.5,
         "currency": "TWD"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -3.7,
-        "price": 130.0,
+        "change_pct": -2.96,
+        "price": 131.0,
         "currency": "TWD"
       }
     ]
@@ -585,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 73748.53,
-      "change_pct": -1.96
+      "price": 73627.86,
+      "change_pct": -2.12
     },
     {
       "label": "Gold",

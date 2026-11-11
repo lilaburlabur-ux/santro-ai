@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T10:30:13+00:00",
-  "as_of_local": "2026-11-11 10:30:13 UTC",
+  "as_of_utc": "2026-11-11T10:35:15+00:00",
+  "as_of_local": "2026-11-11 10:35:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -341,34 +343,6 @@
       ]
     },
     {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 117.7,
-      "previous_close": 117.25,
-      "change_pct": 0.38,
-      "market_cap": 4676046211.958191,
-      "headlines": [
-        {
-          "title": "SYNA Q1 Earnings Beat Estimates, Revenues Miss on Weak Demand",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/syna-q1-earnings-beat-estimates-152400592.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T15:24:00Z"
-        },
-        {
-          "title": "Synaptics (SYNA) Tops Q1 Earnings Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-tops-q1-earnings-000013395.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T00:00:13Z"
-        },
-        {
-          "title": "Synaptics: Fiscal Q1 Earnings Snapshot",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-fiscal-q1-earnings-snapshot-230715396.html",
-          "publisher": "Associated Press",
-          "published": "2026-11-05T23:07:15Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 24.45,
@@ -585,12 +559,12 @@
     },
     {
       "label": "BTC",
-      "price": 73936.54,
-      "change_pct": 0.29
+      "price": 73972.39,
+      "change_pct": 0.34
     },
     {
       "label": "Gold",
-      "price": 4056.6,
+      "price": 4057.0,
       "change_pct": 0.66
     },
     {

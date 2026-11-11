@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-11T13:43:31+00:00",
-  "as_of_local": "2026-11-11 13:43:31 UTC",
+  "as_of_utc": "2026-11-11T13:48:31+00:00",
+  "as_of_local": "2026-11-11 13:48:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -31,6 +29,34 @@
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-123445799.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-11T12:34:45Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 396.48,
+      "previous_close": 388.62,
+      "change_pct": 2.02,
+      "market_cap": 2056332869641.414,
+      "headlines": [
+        {
+          "title": "TSMC plans up to $1bn investment in Anthropic, OpenAI",
+          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-plans-1bn-investment-anthropic-132842084.html",
+          "publisher": "Investment Monitor",
+          "published": "2026-11-11T13:28:42Z"
+        },
+        {
+          "title": "David Tepper Bought CoreWeave Before It Fell 51%. Is He Wrong, or Early?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/david-tepper-bought-coreweave-fell-130551414.html",
+          "publisher": "TIKR",
+          "published": "2026-11-11T13:05:51Z"
+        },
+        {
+          "title": "How $300,000 in EWT Ends Up With $60,924 in a Single Chipmaker",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/300-000-ewt-ends-60-123355526.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-11T12:33:55Z"
         }
       ]
     },
@@ -77,16 +103,16 @@
           "published": "2026-11-10T16:53:14Z"
         },
         {
-          "title": "Server CPU strength persists as AMD and Arm gain share: UBS",
-          "url": "https://finance.yahoo.com/technology/articles/server-cpu-strength-persists-amd-132222608.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-11T13:22:22Z"
-        },
-        {
           "title": "Nvidia, chip stocks rebound premarket after CoreWeave lifts revenue outlook",
           "url": "https://finance.yahoo.com/technology/articles/nvidia-chip-stocks-rebound-premarket-120006021.html",
           "publisher": "Investing.com",
           "published": "2026-11-11T12:00:06Z"
+        },
+        {
+          "title": "AMD sees $709 million reversal as major ETFs pile in",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-sees-709-million-reversal-115710107.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-11T11:57:10Z"
         }
       ]
     },
@@ -155,12 +181,6 @@
       "market_cap": 194194305877.68555,
       "headlines": [
         {
-          "title": "Server CPU strength persists as AMD and Arm gain share: UBS",
-          "url": "https://finance.yahoo.com/technology/articles/server-cpu-strength-persists-amd-132222608.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-11T13:22:22Z"
-        },
-        {
           "title": "Arm Sinks 10% in a Week on Phone Royalties and SoftBank: \u201cCircular Financing Concerns\u201d",
           "url": "https://finance.yahoo.com/markets/stocks/articles/arm-sinks-10-week-phone-025733812.html",
           "publisher": "TIKR",
@@ -171,6 +191,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-7-billion-loss-bad-163144976.html",
           "publisher": "TIKR",
           "published": "2026-11-10T16:31:44Z"
+        },
+        {
+          "title": "Arm Holdings plc (ARM) Was Bought Back After a Sharp Sell-Off: What\u2019s Driving the Renewed Interest?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-plc-arm-bought-162137548.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-10T16:21:37Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 73669.98,
-      "change_pct": -0.07
+      "price": 73683.38,
+      "change_pct": -0.05
     },
     {
       "label": "Gold",
-      "price": 4045.7,
-      "change_pct": 0.38
+      "price": 4043.7,
+      "change_pct": 0.33
     },
     {
       "label": "Nasdaq100",

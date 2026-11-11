@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
+| Intel Stock Faces 87 Million-Share Risk After SoftBank Deal | BeInCrypto | 2026-11-11 |
 | Marvell Acquires Lumentum in Blockbuster $80 Billion Deal | 24/7 Wall St. | 2026-11-11 |
 | Intel Stocks Climb 5.23% as SoftBank Reveals $7.4 Billion Raised Against Intel Shares | GuruFocus.com | 2026-11-11 |
 | What’s Moving Markets Today? | The Wall Street Journal | 2026-11-11 |
-| CoreWeave Rallies, Lifting Cloud and Chip Stocks | The Wall Street Journal | 2026-11-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

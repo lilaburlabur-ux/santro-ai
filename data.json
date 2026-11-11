@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T08:33:27+00:00",
-  "as_of_local": "2026-11-11 08:33:27 UTC",
+  "as_of_utc": "2026-11-11T08:38:27+00:00",
+  "as_of_local": "2026-11-11 08:38:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-warns-ai-data-000739886.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-11T00:07:39Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 515.21,
-      "previous_close": 508.58,
-      "change_pct": 1.3,
-      "market_cap": 844989388624.7834,
-      "headlines": [
-        {
-          "title": "Goldman Sachs calls chip stocks 'oversold.' Here are the names it says to buy.",
-          "url": "https://finance.yahoo.com/markets/article/goldman-sachs-calls-chip-stocks-oversold-here-are-the-names-it-says-to-buy-165654250.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-10T16:53:14Z"
-        },
-        {
-          "title": "\u201cDemand Is Higher Than Supply\u201d: AMD Has Ripped 141% in 2026. Is It Too Late to Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/demand-higher-supply-amd-ripped-073514339.html",
-          "publisher": "TIKR",
-          "published": "2026-11-11T07:35:14Z"
-        },
-        {
-          "title": "The Zacks Analyst Blog Highlights Arista Networks, Fabrinet, Analog Devices, Advanced Micro Devices and NVIDIA",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-arista-062800269.html",
-          "publisher": "Zacks",
-          "published": "2026-11-11T06:28:00Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 73612.3,
-      "change_pct": -0.15
+      "price": 73649.62,
+      "change_pct": -0.1
     },
     {
       "label": "Gold",
-      "price": 4067.5,
-      "change_pct": 0.93
+      "price": 4066.0,
+      "change_pct": 0.89
     },
     {
       "label": "Nasdaq100",

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-11T00:12:41+00:00",
+  "as_of": "2026-11-11T00:27:52+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "UPST",
    "company": "Upstart Holdings Inc",
-   "move_pct": -8.21,
-   "price": 20.42,
+   "move_pct": -8.09,
+   "price": 20.45,
    "volume": 8674424,
    "volume_vs_avg": "~2x",
    "heat_score": 63,
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "NVDA",
    "company": "NVIDIA Corp",
-   "move_pct": -4.61,
-   "price": 170.44,
+   "move_pct": -4.66,
+   "price": 170.35,
    "volume": 427096957,
    "volume_vs_avg": "~3x",
    "heat_score": 48,
@@ -36,34 +36,18 @@
    "why": "Dow Jones Futures: Stock Market Falls On Surging Treasury Yields, Nvidia Sell-Off; CoreWeave Rises Late",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/m/656fca57-9896-3dfb-96e8-e0af2bc227df/dow-jones-futures%3A-stock.html",
-   "published": "2026-11-10T23:54:32+00:00",
+   "published": "2026-11-11T00:07:54+00:00",
    "sector": "AI Chips & Compute"
   },
   {
    "rank": 3,
-   "ticker": "NXE",
-   "company": "NexGen Energy Ltd",
-   "move_pct": -6.53,
-   "price": 8.18,
-   "volume": 5329743,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 43,
-   "direction": "down",
-   "why": "NexGen Energy Q3 Earnings Call Highlights",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/energy/articles/nexgen-energy-q3-earnings-call-211522225.html",
-   "published": "2026-11-10T21:15:22+00:00",
-   "sector": "Powering AI"
-  },
-  {
-   "rank": 4,
    "ticker": "TTD",
    "company": "Trade Desk Inc",
-   "move_pct": 2.56,
-   "price": 15.31,
+   "move_pct": 2.95,
+   "price": 15.37,
    "volume": 64919399,
    "volume_vs_avg": "~4x",
-   "heat_score": 42,
+   "heat_score": 43,
    "direction": "up",
    "why": "Stock Market Today, Nov. 10: Trade Desk Jumps After Q3 Results Show Revenue Topped Estimates",
    "catalyst_type": "earnings",
@@ -72,7 +56,7 @@
    "sector": "AI Platforms, Internet & AdTech"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "LEU",
    "company": "Centrus Energy Corp",
    "move_pct": -6.37,
@@ -86,6 +70,22 @@
    "source_url": "https://finance.yahoo.com/energy/articles/centrus-energy-appoints-kevin-graney-214900765.html",
    "published": "2026-11-10T21:49:00+00:00",
    "sector": "Powering AI"
+  },
+  {
+   "rank": 5,
+   "ticker": "AVGO",
+   "company": "Broadcom Inc",
+   "move_pct": 5.07,
+   "price": 335.66,
+   "volume": 28299731,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 39,
+   "direction": "up",
+   "why": "Jim Cramer Warns About the AI Data Center Trade. What It Means for Nvidia and Broadcom",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-warns-ai-data-000739886.html",
+   "published": "2026-11-11T00:07:39+00:00",
+   "sector": "AI Chips & Compute"
   }
  ]
 }

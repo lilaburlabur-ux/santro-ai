@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-11-11T00:12:13+00:00",
-  "as_of_local": "2026-11-11 00:12:13 UTC",
+  "as_of_utc": "2026-11-11T00:17:13+00:00",
+  "as_of_local": "2026-11-11 00:17:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 168.89,
-      "previous_close": 178.67,
-      "change_pct": -5.47,
-      "market_cap": 4078186815261.841,
-      "headlines": [
-        {
-          "title": "OpenAI's Q3 results and Nvidia's scandal impact on the AI ecosystem",
-          "url": "https://finance.yahoo.com/video/openais-q3-results-and-nvidias-scandal-impact-on-the-ai-ecosystem-222332740.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-10T22:23:32Z"
-        },
-        {
-          "title": "Chip stocks' slide nears $5 trillion as Nvidia hits most extreme selling level since 2019",
-          "url": "https://finance.yahoo.com/markets/article/chip-stocks-slide-nears-5-trillion-as-nvidia-hits-most-extreme-selling-level-since-2019-191532559.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-10T19:15:32Z"
-        },
-        {
-          "title": "Nvidia in the hot seat, Anthropic to test the IPO market, hotter-than-expected US inflation",
-          "url": "https://finance.yahoo.com/video/nvidia-in-the-hot-seat-anthropic-to-test-the-ipo-market-hotter-than-expected-us-inflation-184626512.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-10T18:46:26Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -75,16 +49,16 @@
           "published": "2026-11-10T16:53:14Z"
         },
         {
+          "title": "Jim Cramer Warns About the AI Data Center Trade. What It Means for Nvidia and Broadcom",
+          "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-warns-ai-data-000739886.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-11T00:07:39Z"
+        },
+        {
           "title": "Tech, Media & Telecom Roundup: Market Talk",
           "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-491215dc?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-11-10T21:56:00Z"
-        },
-        {
-          "title": "Wall Street's $1.6 trillion rebound may look like a bottom \u2014 history says it often isn't: Chart of the Day",
-          "url": "https://finance.yahoo.com/markets/article/wall-streets-16-trillion-rebound-may-look-like-a-bottom--history-says-it-often-isnt-chart-of-the-day-110000299.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-10T11:00:00Z"
         }
       ]
     },
@@ -436,7 +410,7 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 9.23,
+          "change_pct": 0.0,
           "price": 9068.0,
           "currency": "JPY"
         },
@@ -526,7 +500,7 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 9.23,
+        "change_pct": 0.0,
         "price": 9068.0,
         "currency": "JPY"
       },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 73588.72,
-      "change_pct": -2.17
+      "price": 73598.76,
+      "change_pct": -2.16
     },
     {
       "label": "Gold",
-      "price": 4046.0,
-      "change_pct": -1.66
+      "price": 4046.6,
+      "change_pct": -1.65
     },
     {
       "label": "Nasdaq100",

@@ -4,24 +4,24 @@ Signed file: `AVGO.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-11, ~15-min delayed) |
-| Market cap | $1.58T |
+| Current price | $345.22 (2026-11-11, ~15-min delayed) |
+| Market cap | $1.65T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-11.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-5.74%) with negative half-year (-16.89%). |
+| Fresh setup quality | Poor / broken | -28.07% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 42.94%, revenue growth 85.50%. |
-| Value attractiveness | Reasonable | Forward P/E 17.06, EV/Sales 18.18. |
-| Risk level | Elevated | Beta 1.51, ATR nan% of price, short float 1.14%. |
+| Value attractiveness | Reasonable | Forward P/E 17.74, EV/Sales 18.18. |
+| Risk level | Elevated | Beta 1.51, ATR 4.8% of price, short float 1.11%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -37,46 +37,46 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Headline | Source | Date |
 |---|---|---|
 | Goldman Sachs calls chip stocks 'oversold.' Here are the names it says to buy. | Yahoo Finance | 2026-11-10 |
-| Jim Cramer Warns About the AI Data Center Trade. What It Means for Nvidia and Broadcom | 24/7 Wall St. | 2026-11-11 |
-| Tech, Media & Telecom Roundup: Market Talk | The Wall Street Journal | 2026-11-10 |
-| Wall Street's $1.6 trillion rebound may look like a bottom — history says it often isn't: Chart of the Day | Yahoo Finance | 2026-11-10 |
+| Cathie Wood, Brad Gerstner and 8 Other Big Funds Bought Cerebras. Is It a Buy Before Earnings? | TIKR | 2026-11-11 |
+| S&P 500's Earnings Growth to Slow in 2027, 2028, UBS Says | MT Newswires | 2026-11-11 |
+| Nvidia Just Had Its Worst 5 Days Since 2022, Worse Than the DeepSeek Crash | 24/7 Wall St. | 2026-11-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $479.94 (+nan%); 52w low $291.53 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 44.7 (neutral) |
-| Volatility | ATR(14) 15.79 (~nan% of price); beta 1.51 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $345.22; 52w high $479.94 (-28.07%); 52w low $291.53 (+18.42%) |
+| Trend | -5.74% vs SMA200, -0.08% vs SMA50, +4.92% vs SMA20 |
+| Momentum | RSI(14) 53.9 (neutral) |
+| Volatility | ATR(14) 16.58 (~4.8% of price); beta 1.51 |
+| Setup perspective | -28.07% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +6.1% |
+| Month | -3.4% |
+| Quarter | -17.2% |
+| Half Y | -16.9% |
+| 1Y | -3.0% |
+| YTD | -0.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-12-09 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $89.10B | Revenue growth 85.50% y/y |
-| Profitability | Gross 75.52%, operating 54.31%, net 42.94% | ROA 15.37%, ROE 44.25% |
+| Profitability | Gross 75.52%, operating 48.81%, net 42.94% | ROA 15.37%, ROE 44.25% |
 | Balance sheet | Cash $23.98B, debt $59.42B | Current ratio 2.50, debt/equity 59.60 |
-| Valuation | P/E 42.40, forward P/E 17.06, P/S 17.79, P/B 15.90 | EV/Sales 18.18, EV/EBITDA 31.00 |
+| Valuation | P/E 44.09, forward P/E 17.74, P/S 18.49, P/B 16.53 | EV/Sales 18.18, EV/EBITDA 31.00 |
 | Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $533.42 (47 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 79.92% |
-| Insider ownership | 1.92% |
-| Short float | 1.14% |
+| Institutional ownership | 79.71% |
+| Insider ownership | 1.91% |
+| Short float | 1.11% |
 | Short ratio (days to cover) | 2.3 |
 
 **Top institutional holders:**
@@ -86,16 +86,17 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Blackrock Inc. | 398,213,826 | 8.34% | 2026-06-30 |
 | Vanguard Capital Management LLC | 309,168,582 | 6.48% | 2026-06-30 |
 | State Street Corporation | 196,900,541 | 4.12% | 2026-06-30 |
-| FMR, LLC | 144,359,173 | 3.02% | 2026-06-30 |
+| FMR, LLC | 127,431,404 | 2.67% | 2026-09-30 |
 | Vanguard Portfolio Management LLC | 127,001,513 | 2.66% | 2026-06-30 |
 | Capital World Investors | 121,892,859 | 2.55% | 2026-06-30 |
-| Geode Capital Management, LLC | 116,394,795 | 2.44% | 2026-06-30 |
+| Geode Capital Management, LLC | 117,945,558 | 2.47% | 2026-09-30 |
 | Capital Research Global Investors | 113,126,312 | 2.37% | 2026-06-30 |
 | JPMORGAN CHASE & CO | 95,016,148 | 1.99% | 2026-06-30 |
 | Price (T.Rowe) Associates Inc | 82,851,970 | 1.74% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.51, ATR nan% of price, short float 1.14%. Size positions accordingly.
+- **Volatility risk:** Beta 1.51, ATR 4.8% of price, short float 1.11%. Size positions accordingly.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,21 +111,21 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 18.18 |
-| Market cap | $1.58T | EV/EBITDA | 31.00 |
+| Price | $345.22 | EV/Sales | 18.18 |
+| Market cap | $1.65T | EV/EBITDA | 31.00 |
 | Beta | 1.51 | Gross margin | 75.52% |
-| RSI(14) | 44.7 | Operating margin | 54.31% |
-| ATR(14) | 15.79 | Profit margin | 42.94% |
-| SMA20 dist | +nan% | ROA | 15.37% |
-| SMA50 dist | +nan% | ROE | 44.25% |
-| SMA200 dist | +nan% | Revenue (ttm) | $89.10B |
+| RSI(14) | 53.9 | Operating margin | 48.81% |
+| ATR(14) | 16.58 | Profit margin | 42.94% |
+| SMA20 dist | +4.92% | ROA | 15.37% |
+| SMA50 dist | -0.08% | ROE | 44.25% |
+| SMA200 dist | -5.74% | Revenue (ttm) | $89.10B |
 | 52W high | $479.94 | Revenue growth y/y | 85.50% |
-| 52W low | $291.53 | Inst. ownership | 79.92% |
-| P/E (ttm) | 42.40 | Insider ownership | 1.92% |
-| Forward P/E | 17.06 | Short float | 1.14% |
-| PEG (trailing) | 0.32 | Avg volume | 24,250,214 |
-| P/S | 17.79 | Employees | 33,000 |
-| P/B | 15.90 | Analyst rec (1=buy..5=sell) | 1.2 |
+| 52W low | $291.53 | Inst. ownership | 79.71% |
+| P/E (ttm) | 44.09 | Insider ownership | 1.91% |
+| Forward P/E | 17.74 | Short float | 1.11% |
+| PEG (trailing) | 0.33 | Avg volume | 24,492,051 |
+| P/S | 18.49 | Employees | 33,000 |
+| P/B | 16.53 | Analyst rec (1=buy..5=sell) | 1.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -139,7 +140,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | 2026-09-03 | main | Raymond James | Outperform → Outperform |
 
 ## 9. Conclusion
-AVGO: Moderate momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+AVGO: Low momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

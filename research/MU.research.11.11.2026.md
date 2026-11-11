@@ -4,24 +4,24 @@ Signed file: `MU.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-11, ~15-min delayed) |
-| Market cap | $820.41B |
+| Current price | $811.30 (2026-11-11, ~15-min delayed) |
+| Market cap | $917.92B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
+| Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-11.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +220.66%; price +6.49% vs SMA200. |
+| Fresh setup quality | Poor / broken | -33.13% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 63.80%, revenue growth 379.30%. |
-| Value attractiveness | Reasonable | Forward P/E 3.49, EV/Sales 5.87. |
-| Risk level | High | Beta 2.40, ATR nan% of price, short float 2.00%. |
+| Value attractiveness | Reasonable | Forward P/E 3.90, EV/Sales 5.87. |
+| Risk level | High | Beta 2.40, ATR 7.5% of price, short float 2.07%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
+**Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,48 +36,48 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 
 | Headline | Source | Date |
 |---|---|---|
-| Micron stock is a screaming buy at current valuation levels: Goldman Sachs | Yahoo Finance | 2026-11-10 |
-| ‘When Greed Is Good,’ Says Top Investor About Micron Stock | TipRanks | 2026-11-10 |
-| Tech, Media & Telecom Roundup: Market Talk | The Wall Street Journal | 2026-11-10 |
-| Wall Street's $1.6 trillion rebound may look like a bottom — history says it often isn't: Chart of the Day | Yahoo Finance | 2026-11-10 |
+| AI Trade bounces back, Kalshi possibly facing charges, OpenAI continues to see heavy losses | Yahoo Finance Video | 2026-11-11 |
+| Marvell Acquires Lumentum in Blockbuster $80 Billion Deal | 24/7 Wall St. | 2026-11-11 |
+| Chip Stocks Rally After Slide. These Names Are Leading The Charge Higher. | Investor's Business Daily | 2026-11-11 |
+| S&P 500's Earnings Growth to Slow in 2027, 2028, UBS Says | MT Newswires | 2026-11-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $1,213.18 (+nan%); 52w low $201.14 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 36.4 (neutral) |
-| Volatility | ATR(14) 58.49 (~nan% of price); beta 2.40 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $811.30; 52w high $1,213.18 (-33.13%); 52w low $201.14 (+303.35%) |
+| Trend | +6.49% vs SMA200, -14.64% vs SMA50, -4.52% vs SMA20 |
+| Momentum | RSI(14) 45.1 (neutral) |
+| Volatility | ATR(14) 60.80 (~7.5% of price); beta 2.40 |
+| Setup perspective | -33.13% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +2.0% |
+| Month | -14.9% |
+| Quarter | -14.6% |
+| Half Y | +1.0% |
+| 1Y | +220.7% |
+| YTD | +157.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-12-23 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $133.19B | Revenue growth 379.30% y/y |
-| Profitability | Gross 80.72%, operating 80.68%, net 63.80% | ROA 44.56%, ROE 88.26% |
+| Profitability | Gross 80.72%, operating 74.59%, net 63.80% | ROA 44.56%, ROE 88.26% |
 | Balance sheet | Cash $43.43B, debt $5.18B | Current ratio 3.31, debt/equity 3.74 |
-| Valuation | P/E 9.76, forward P/E 3.49, P/S 6.16, P/B 5.93 | EV/Sales 5.87, EV/EBITDA 7.18 |
+| Valuation | P/E 10.91, forward P/E 3.90, P/S 6.89, P/B 6.63 | EV/Sales 5.87, EV/EBITDA 7.19 |
 | Growth expectations | Earnings growth 1059.50%, EPS q/q 1077.80% | Analyst mean target $1,561.91 (45 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 80.11% |
-| Insider ownership | 0.24% |
-| Short float | 2.00% |
-| Short ratio (days to cover) | 0.8 |
+| Institutional ownership | 81.21% |
+| Insider ownership | 0.23% |
+| Short float | 2.07% |
+| Short ratio (days to cover) | 0.9 |
 
 **Top institutional holders:**
 
@@ -87,15 +87,16 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 | Vanguard Capital Management LLC | 73,659,544 | 6.51% | 2026-06-30 |
 | State Street Corporation | 50,075,870 | 4.43% | 2026-06-30 |
 | Invesco Ltd. | 36,315,240 | 3.21% | 2026-06-30 |
+| FMR, LLC | 35,494,113 | 3.14% | 2026-09-30 |
 | Capital World Investors | 29,469,646 | 2.60% | 2026-06-30 |
 | Geode Capital Management, LLC | 28,246,108 | 2.50% | 2026-09-30 |
-| FMR, LLC | 26,718,869 | 2.36% | 2026-06-30 |
 | JPMORGAN CHASE & CO | 25,836,011 | 2.28% | 2026-06-30 |
 | Vanguard Portfolio Management LLC | 24,662,080 | 2.18% | 2026-06-30 |
 | Primecap Management Company | 19,217,236 | 1.70% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.40, ATR nan% of price, short float 2.00%. Size positions accordingly.
+- **Volatility risk:** Beta 2.40, ATR 7.5% of price, short float 2.07%. Size positions accordingly.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,21 +111,21 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.87 |
-| Market cap | $820.41B | EV/EBITDA | 7.18 |
+| Price | $811.30 | EV/Sales | 5.87 |
+| Market cap | $917.92B | EV/EBITDA | 7.19 |
 | Beta | 2.40 | Gross margin | 80.72% |
-| RSI(14) | 36.4 | Operating margin | 80.68% |
-| ATR(14) | 58.49 | Profit margin | 63.80% |
-| SMA20 dist | +nan% | ROA | 44.56% |
-| SMA50 dist | +nan% | ROE | 88.26% |
-| SMA200 dist | +nan% | Revenue (ttm) | $133.19B |
+| RSI(14) | 45.1 | Operating margin | 74.59% |
+| ATR(14) | 60.80 | Profit margin | 63.80% |
+| SMA20 dist | -4.52% | ROA | 44.56% |
+| SMA50 dist | -14.64% | ROE | 88.26% |
+| SMA200 dist | +6.49% | Revenue (ttm) | $133.19B |
 | 52W high | $1,213.18 | Revenue growth y/y | 379.30% |
-| 52W low | $201.14 | Inst. ownership | 80.11% |
-| P/E (ttm) | 9.76 | Insider ownership | 0.24% |
-| Forward P/E | 3.49 | Short float | 2.00% |
-| PEG (trailing) | 0.16 | Avg volume | 27,846,740 |
-| P/S | 6.16 | Employees | 61,000 |
-| P/B | 5.93 | Analyst rec (1=buy..5=sell) | 1.3 |
+| 52W low | $201.14 | Inst. ownership | 81.21% |
+| P/E (ttm) | 10.91 | Insider ownership | 0.23% |
+| Forward P/E | 3.90 | Short float | 2.07% |
+| PEG (trailing) | 0.16 | Avg volume | 27,831,318 |
+| P/S | 6.89 | Employees | 61,000 |
+| P/B | 6.63 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -139,7 +140,7 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 | 2026-10-01 | reit | RBC Capital | Outperform → Outperform |
 
 ## 9. Conclusion
-MU: Moderate momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+MU: High momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

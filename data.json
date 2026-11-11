@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-11T12:22:00+00:00",
-  "as_of_local": "2026-11-11 12:22:00 UTC",
+  "as_of_utc": "2026-11-11T12:27:09+00:00",
+  "as_of_local": "2026-11-11 12:27:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 168.89,
+      "previous_close": 178.67,
+      "change_pct": -5.47,
+      "market_cap": 4078186815261.841,
+      "headlines": [
+        {
+          "title": "OpenAI's Q3 results and Nvidia's scandal impact on the AI ecosystem",
+          "url": "https://finance.yahoo.com/video/openais-q3-results-and-nvidias-scandal-impact-on-the-ai-ecosystem-222332740.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-10T22:23:32Z"
+        },
+        {
+          "title": "Forget the Market's Hottest Stocks. This Boring Dividend Stock Is Where I'd Put $1,000 Before 2027.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-markets-hottest-stocks-boring-122000873.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-11T12:20:00Z"
+        },
+        {
+          "title": "Is the AI Trade Broken, or Did Hedge Funds Just Get Squeezed?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-trade-broken-did-hedge-121809320.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-11T12:18:09Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 73974.71,
-      "change_pct": 0.35
+      "price": 73864.87,
+      "change_pct": 0.2
     },
     {
       "label": "Gold",
-      "price": 4054.5,
-      "change_pct": 0.6
+      "price": 4053.5,
+      "change_pct": 0.58
     },
     {
       "label": "Nasdaq100",

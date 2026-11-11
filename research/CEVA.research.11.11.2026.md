@@ -4,24 +4,24 @@ Signed file: `CEVA.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $24.45 (2026-11-11, ~15-min delayed) |
+| Current price | $nan (2026-11-11, ~15-min delayed) |
 | Market cap | $688.37M |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
+| Current stance | Moderate technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-11.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-20.39%) with negative half-year (-34.06%). |
-| Fresh setup quality | Poor / broken | -51.16% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-9.25%). |
 | Value attractiveness | Fair-to-demanding | Forward P/E 32.30, EV/Sales 4.21. |
-| Risk level | High | Beta 1.98, ATR 9.1% of price, short float 10.81%. |
+| Risk level | High | Beta 1.98, ATR nan% of price, short float 10.81%. |
 
-**Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** Moderate technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $24.45; 52w high $50.06 (-51.16%); 52w low $17.21 (+42.07%) |
-| Trend | -20.39% vs SMA200, -19.53% vs SMA50, -14.42% vs SMA20 |
-| Momentum | RSI(14) 36.7 (neutral) |
-| Volatility | ATR(14) 2.22 (~9.1% of price); beta 1.98 |
-| Setup perspective | -51.16% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $50.06 (+nan%); 52w low $17.21 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 37.4 (neutral) |
+| Volatility | ATR(14) 2.27 (~nan% of price); beta 1.98 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -16.4% |
-| Month | -23.0% |
-| Quarter | -19.7% |
-| Half Y | -34.1% |
-| 1Y | -6.5% |
-| YTD | +9.1% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -87,19 +87,18 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 | State Street Corporation | 1,672,919 | 5.94% | 2026-06-30 |
 | Senvest Management LLC | 1,633,155 | 5.80% | 2026-06-30 |
 | Morgan Stanley | 1,446,384 | 5.14% | 2026-06-30 |
-| Deutsche Bank AG | 1,229,023 | 4.37% | 2026-09-30 |
 | Vanguard Capital Management LLC | 1,196,013 | 4.25% | 2026-06-30 |
 | T. Rowe Price Investment Management, Inc. | 1,180,701 | 4.19% | 2026-06-30 |
 | Vanguard Portfolio Management LLC | 1,117,029 | 3.97% | 2026-06-30 |
 | Neuberger Berman Group, LLC | 1,102,905 | 3.92% | 2026-06-30 |
 | AWM Investment Company, Inc. | 799,806 | 2.84% | 2026-06-30 |
+| Geode Capital Management, LLC | 723,085 | 2.57% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 32.30, EV/Sales 4.21. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.98, ATR 9.1% of price, short float 10.81%. Size positions accordingly.
+- **Volatility risk:** Beta 1.98, ATR nan% of price, short float 10.81%. Size positions accordingly.
 - **Short interest risk:** short float 10.81% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -114,14 +113,14 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $24.45 | EV/Sales | 4.21 |
+| Price | $nan | EV/Sales | 4.21 |
 | Market cap | $688.37M | EV/EBITDA | -65.07 |
 | Beta | 1.98 | Gross margin | 86.81% |
-| RSI(14) | 36.7 | Operating margin | -12.10% |
-| ATR(14) | 2.22 | Profit margin | -9.25% |
-| SMA20 dist | -14.42% | ROA | -1.99% |
-| SMA50 dist | -19.53% | ROE | -3.52% |
-| SMA200 dist | -20.39% | Revenue (ttm) | $116.41M |
+| RSI(14) | 37.4 | Operating margin | -12.10% |
+| ATR(14) | 2.27 | Profit margin | -9.25% |
+| SMA20 dist | +nan% | ROA | -1.99% |
+| SMA50 dist | +nan% | ROE | -3.52% |
+| SMA200 dist | +nan% | Revenue (ttm) | $116.41M |
 | 52W high | $50.06 | Revenue growth y/y | 2.40% |
 | 52W low | $17.21 | Inst. ownership | 95.35% |
 | P/E (ttm) | — | Insider ownership | 3.50% |
@@ -143,7 +142,7 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 | 2026-09-14 | up | StoneX | Hold → Buy |
 
 ## 9. Conclusion
-CEVA: Low momentum / weak fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+CEVA: Moderate momentum / weak fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

@@ -4,24 +4,24 @@ Signed file: `AMD.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $515.21 (2026-11-11, ~15-min delayed) |
+| Current price | $nan (2026-11-11, ~15-min delayed) |
 | Market cap | $844.99B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-11.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +120.61%; price +23.10% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -20.67% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 16.77%, revenue growth 44.70%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 29.13, EV/Sales 18.46. |
-| Risk level | High | Beta 2.54, ATR 7.6% of price, short float 2.33%. |
+| Risk level | High | Beta 2.54, ATR nan% of price, short float 2.33%. |
 
-**Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $515.21; 52w high $649.42 (-20.67%); 52w low $190.95 (+169.81%) |
-| Trend | +23.10% vs SMA200, -6.08% vs SMA50, -0.63% vs SMA20 |
-| Momentum | RSI(14) 48.6 (neutral) |
-| Volatility | ATR(14) 39.11 (~7.6% of price); beta 2.54 |
-| Setup perspective | -20.67% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $649.42 (+nan%); 52w low $190.95 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 47.7 (neutral) |
+| Volatility | ATR(14) 38.72 (~nan% of price); beta 2.54 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +6.5% |
-| Month | -13.3% |
-| Quarter | +6.7% |
-| Half Y | +14.9% |
-| 1Y | +120.6% |
-| YTD | +130.5% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -83,20 +83,20 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 150,301,510 | 9.16% | 2026-06-30 |
-| Vanguard Capital Management LLC | 106,500,177 | 6.49% | 2026-06-30 |
-| State Street Corporation | 74,361,687 | 4.53% | 2026-06-30 |
-| Invesco Ltd. | 53,171,203 | 3.24% | 2026-06-30 |
-| JPMORGAN CHASE & CO | 40,309,233 | 2.46% | 2026-06-30 |
-| Geode Capital Management, LLC | 40,409,652 | 2.46% | 2026-09-30 |
-| Vanguard Portfolio Management LLC | 37,929,920 | 2.31% | 2026-06-30 |
-| Price (T.Rowe) Associates Inc | 35,938,258 | 2.19% | 2026-06-30 |
-| FMR, LLC | 25,558,552 | 1.56% | 2026-06-30 |
-| Morgan Stanley | 24,286,371 | 1.48% | 2026-06-30 |
+| Blackrock Inc. | 150,301,510 | 9.21% | 2026-06-30 |
+| Vanguard Capital Management LLC | 106,500,177 | 6.52% | 2026-06-30 |
+| State Street Corporation | 74,361,687 | 4.56% | 2026-06-30 |
+| Invesco Ltd. | 53,171,203 | 3.26% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 40,309,233 | 2.47% | 2026-06-30 |
+| Geode Capital Management, LLC | 39,568,601 | 2.42% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 37,929,920 | 2.32% | 2026-06-30 |
+| Price (T.Rowe) Associates Inc | 35,938,258 | 2.20% | 2026-06-30 |
+| FMR, LLC | 25,558,552 | 1.57% | 2026-06-30 |
+| Morgan Stanley | 24,286,371 | 1.49% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 29.13, EV/Sales 18.46. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.54, ATR 7.6% of price, short float 2.33%. Size positions accordingly.
+- **Volatility risk:** Beta 2.54, ATR nan% of price, short float 2.33%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -111,14 +111,14 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $515.21 | EV/Sales | 18.46 |
+| Price | $nan | EV/Sales | 18.46 |
 | Market cap | $844.99B | EV/EBITDA | 75.29 |
 | Beta | 2.54 | Gross margin | 56.00% |
-| RSI(14) | 48.6 | Operating margin | 21.17% |
-| ATR(14) | 39.11 | Profit margin | 16.77% |
-| SMA20 dist | -0.63% | ROA | 5.90% |
-| SMA50 dist | -6.08% | ROE | 11.96% |
-| SMA200 dist | +23.10% | Revenue (ttm) | $45.44B |
+| RSI(14) | 47.7 | Operating margin | 21.17% |
+| ATR(14) | 38.72 | Profit margin | 16.77% |
+| SMA20 dist | +nan% | ROA | 5.90% |
+| SMA50 dist | +nan% | ROE | 11.96% |
+| SMA200 dist | +nan% | Revenue (ttm) | $45.44B |
 | 52W high | $649.42 | Revenue growth y/y | 44.70% |
 | 52W low | $190.95 | Inst. ownership | 75.04% |
 | P/E (ttm) | 110.09 | Insider ownership | 0.42% |
@@ -140,7 +140,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | 2026-11-04 | main | Truist Securities | Buy → Buy |
 
 ## 9. Conclusion
-AMD: High momentum / strong fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+AMD: Moderate momentum / strong fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

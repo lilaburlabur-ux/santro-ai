@@ -4,24 +4,24 @@ Signed file: `AVGO.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $331.98 (2026-11-11, ~15-min delayed) |
+| Current price | $nan (2026-11-11, ~15-min delayed) |
 | Market cap | $1.58T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-11.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-9.33%) with negative half-year (-20.56%). |
-| Fresh setup quality | Poor / broken | -30.83% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 42.94%, revenue growth 85.50%. |
 | Value attractiveness | Reasonable | Forward P/E 17.06, EV/Sales 18.18. |
-| Risk level | Elevated | Beta 1.51, ATR 4.8% of price, short float 1.14%. |
+| Risk level | Elevated | Beta 1.51, ATR nan% of price, short float 1.14%. |
 
-**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $331.98; 52w high $479.94 (-30.83%); 52w low $291.53 (+13.88%) |
-| Trend | -9.33% vs SMA200, -4.04% vs SMA50, +0.88% vs SMA20 |
-| Momentum | RSI(14) 49.4 (neutral) |
-| Volatility | ATR(14) 15.95 (~4.8% of price); beta 1.51 |
-| Setup perspective | -30.83% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $479.94 (+nan%); 52w low $291.53 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 44.7 (neutral) |
+| Volatility | ATR(14) 15.79 (~nan% of price); beta 1.51 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.0% |
-| Month | -6.4% |
-| Quarter | -20.1% |
-| Half Y | -20.6% |
-| 1Y | -4.3% |
-| YTD | -4.0% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -89,14 +89,13 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | FMR, LLC | 144,359,173 | 3.02% | 2026-06-30 |
 | Vanguard Portfolio Management LLC | 127,001,513 | 2.66% | 2026-06-30 |
 | Capital World Investors | 121,892,859 | 2.55% | 2026-06-30 |
-| Geode Capital Management, LLC | 117,945,558 | 2.47% | 2026-09-30 |
+| Geode Capital Management, LLC | 116,394,795 | 2.44% | 2026-06-30 |
 | Capital Research Global Investors | 113,126,312 | 2.37% | 2026-06-30 |
 | JPMORGAN CHASE & CO | 95,016,148 | 1.99% | 2026-06-30 |
 | Price (T.Rowe) Associates Inc | 82,851,970 | 1.74% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.51, ATR 4.8% of price, short float 1.14%. Size positions accordingly.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
+- **Volatility risk:** Beta 1.51, ATR nan% of price, short float 1.14%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -111,14 +110,14 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $331.98 | EV/Sales | 18.18 |
+| Price | $nan | EV/Sales | 18.18 |
 | Market cap | $1.58T | EV/EBITDA | 31.00 |
 | Beta | 1.51 | Gross margin | 75.52% |
-| RSI(14) | 49.4 | Operating margin | 54.31% |
-| ATR(14) | 15.95 | Profit margin | 42.94% |
-| SMA20 dist | +0.88% | ROA | 15.37% |
-| SMA50 dist | -4.04% | ROE | 44.25% |
-| SMA200 dist | -9.33% | Revenue (ttm) | $89.10B |
+| RSI(14) | 44.7 | Operating margin | 54.31% |
+| ATR(14) | 15.79 | Profit margin | 42.94% |
+| SMA20 dist | +nan% | ROA | 15.37% |
+| SMA50 dist | +nan% | ROE | 44.25% |
+| SMA200 dist | +nan% | Revenue (ttm) | $89.10B |
 | 52W high | $479.94 | Revenue growth y/y | 85.50% |
 | 52W low | $291.53 | Inst. ownership | 79.92% |
 | P/E (ttm) | 42.40 | Insider ownership | 1.92% |
@@ -140,7 +139,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | 2026-09-03 | main | Raymond James | Outperform → Outperform |
 
 ## 9. Conclusion
-AVGO: Low momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+AVGO: Moderate momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

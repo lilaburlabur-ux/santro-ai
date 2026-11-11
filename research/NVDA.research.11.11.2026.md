@@ -4,24 +4,24 @@ Signed file: `NVDA.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $168.89 (2026-11-11, ~15-min delayed) |
+| Current price | $nan (2026-11-11, ~15-min delayed) |
 | Market cap | $4.08T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-11.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-17.32%) with negative half-year (-23.33%). |
-| Fresh setup quality | Poor / broken | -29.41% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 63.66%, revenue growth 105.90%. |
 | Value attractiveness | Reasonable | Forward P/E 10.60, EV/Sales 13.35. |
-| Risk level | High | Beta 2.25, ATR 5.2% of price, short float 1.30%. |
+| Risk level | High | Beta 2.25, ATR nan% of price, short float 1.30%. |
 
-**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $168.89; 52w high $239.24 (-29.41%); 52w low $164.79 (+2.49%) |
-| Trend | -17.32% vs SMA200, -22.52% vs SMA50, -18.09% vs SMA20 |
-| Momentum | RSI(14) 23.9 (oversold) |
-| Volatility | ATR(14) 8.70 (~5.2% of price); beta 2.25 |
-| Setup perspective | -29.41% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $239.24 (+nan%); 52w low $164.79 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 27.4 (oversold) |
+| Volatility | ATR(14) 8.38 (~nan% of price); beta 2.25 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -18.3% |
-| Month | -25.4% |
-| Quarter | -24.5% |
-| Half Y | -23.3% |
-| 1Y | -10.0% |
-| YTD | -10.4% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,8 +95,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Invesco Ltd. | 329,593,488 | 1.37% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.25, ATR 5.2% of price, short float 1.30%. Size positions accordingly.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
+- **Volatility risk:** Beta 2.25, ATR nan% of price, short float 1.30%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -111,14 +110,14 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $168.89 | EV/Sales | 13.35 |
+| Price | $nan | EV/Sales | 13.35 |
 | Market cap | $4.08T | EV/EBITDA | 20.09 |
 | Beta | 2.25 | Gross margin | 74.67% |
-| RSI(14) | 23.9 | Operating margin | 66.24% |
-| ATR(14) | 8.70 | Profit margin | 63.66% |
-| SMA20 dist | -18.09% | ROA | 53.57% |
-| SMA50 dist | -22.52% | ROE | 117.21% |
-| SMA200 dist | -17.32% | Revenue (ttm) | $302.97B |
+| RSI(14) | 27.4 | Operating margin | 66.24% |
+| ATR(14) | 8.38 | Profit margin | 63.66% |
+| SMA20 dist | +nan% | ROA | 53.57% |
+| SMA50 dist | +nan% | ROE | 117.21% |
+| SMA200 dist | +nan% | Revenue (ttm) | $302.97B |
 | 52W high | $239.24 | Revenue growth y/y | 105.90% |
 | 52W low | $164.79 | Inst. ownership | 71.57% |
 | P/E (ttm) | 21.35 | Insider ownership | 4.01% |
@@ -140,7 +139,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | 2026-09-29 | main | Rosenblatt | Buy → Buy |
 
 ## 9. Conclusion
-NVDA: Low momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+NVDA: Moderate momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

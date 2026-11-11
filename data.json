@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-11T02:13:43+00:00",
-  "as_of_local": "2026-11-11 02:13:43 UTC",
+  "as_of_utc": "2026-11-11T02:28:44+00:00",
+  "as_of_local": "2026-11-11 02:28:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -153,6 +153,12 @@
       "market_cap": 308960955677.0325,
       "headlines": [
         {
+          "title": "Quantum Computing\u2019s Next Winners May Not Be Quantum Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/quantum-computing-next-winners-may-022442514.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-11T02:24:42Z"
+        },
+        {
           "title": "What Would It Take For AMD Stock To Move Higher?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-move-higher-010944172.html",
           "publisher": "Trefis",
@@ -163,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-fall-1-82-193409911.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-10T19:34:09Z"
-        },
-        {
-          "title": "Buy the Dip: 5 Stocks Insiders Are Loading Up On After the Recent Market Sell-Off",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-dip-5-stocks-insiders-191927761.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-10T19:19:27Z"
         }
       ]
     },
@@ -249,10 +249,10 @@
           "published": "2026-11-11T00:18:13Z"
         },
         {
-          "title": "Lumentum Sinks 11% in a Week as Marvell\u2019s All-Stock Offer Shrinks: \u201cOur Demand Couldn\u2019t Be Stronger\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lumentum-sinks-11-week-marvell-153530446.html",
-          "publisher": "TIKR",
-          "published": "2026-11-10T15:35:30Z"
+          "title": "Marvell Stock\u2019s Selloff Is Overdone as Solid Upside and Valuation Reset Revives Investment Appeal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-selloff-overdone-solid-200823306.html",
+          "publisher": "Barchart",
+          "published": "2026-11-10T20:08:23Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.81,
-          "price": 1246000.0,
+          "change_pct": 2.1,
+          "price": 1237500.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 1.31,
-          "price": 201500.0,
+          "change_pct": 1.06,
+          "price": 201000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 2.65,
-          "price": 9308.0,
+          "change_pct": 2.01,
+          "price": 9250.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -0.78,
-          "price": 380.0,
+          "change_pct": -2.09,
+          "price": 375.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -3.7,
-          "price": 130.0,
+          "change_pct": -4.44,
+          "price": 129.0,
           "currency": "TWD"
         }
       ]
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.81,
-        "price": 1246000.0,
+        "change_pct": 2.1,
+        "price": 1237500.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 1.31,
-        "price": 201500.0,
+        "change_pct": 1.06,
+        "price": 201000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 2.65,
-        "price": 9308.0,
+        "change_pct": 2.01,
+        "price": 9250.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -0.78,
-        "price": 380.0,
+        "change_pct": -2.09,
+        "price": 375.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -3.7,
-        "price": 130.0,
+        "change_pct": -4.44,
+        "price": 129.0,
         "currency": "TWD"
       }
     ]
@@ -585,18 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 73334.89,
-      "change_pct": -2.51
+      "price": 73390.09,
+      "change_pct": -2.44
     },
     {
       "label": "Gold",
-      "price": 4053.8,
-      "change_pct": -1.48
-    },
-    {
-      "label": "Nasdaq100",
-      "price": 27740.79,
-      "change_pct": -0.6
+      "price": 4049.2,
+      "change_pct": -1.59
     }
   ]
 }

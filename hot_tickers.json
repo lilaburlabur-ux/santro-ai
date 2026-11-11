@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-11T09:50:00+00:00",
+  "as_of": "2026-11-11T10:05:22+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "VRT",
    "company": "Vertiv Holdings Co",
-   "move_pct": 6.6,
-   "price": 207.03,
+   "move_pct": 6.37,
+   "price": 206.6,
    "volume": 6759600,
    "volume_vs_avg": "~0.9x",
-   "heat_score": 43,
+   "heat_score": 42,
    "direction": "up",
    "why": "Zacks.com featured highlights include Stride, Ralph Lauren, Cardinal Health and Vertiv",
    "catalyst_type": "momentum_narrative",
@@ -25,22 +25,6 @@
   },
   {
    "rank": 2,
-   "ticker": "HPE",
-   "company": "Hewlett Packard Enterprise Co",
-   "move_pct": 6.52,
-   "price": 51.05,
-   "volume": 13848000,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 42,
-   "direction": "up",
-   "why": "Zacks.com featured highlights include Avnet, Omnicell, Hewlett Packard and Lifetime Brands",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-avnet-055400351.html",
-   "published": "2026-11-11T05:54:00+00:00",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 3,
    "ticker": "NVDA",
    "company": "NVIDIA Corp",
    "move_pct": 0.0,
@@ -49,10 +33,10 @@
    "volume_vs_avg": "~3x",
    "heat_score": 32,
    "direction": "down",
-   "why": "Exclusive-Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
+   "why": "Market Chatter: Nvidia H200 Chips Gets Purchased by Chinese University Despite US Blacklist",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/news/exclusive-pla-linked-chinese-university-051308504.html",
-   "published": "2026-11-11T08:40:44+00:00",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-h200-chips-094023752.html",
+   "published": "2026-11-11T09:40:23+00:00",
    "sector": "AI Chips & Compute"
   }
  ]

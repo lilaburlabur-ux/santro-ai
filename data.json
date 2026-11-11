@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-11T00:22:16+00:00",
-  "as_of_local": "2026-11-11 00:22:16 UTC",
+  "as_of_utc": "2026-11-11T00:27:24+00:00",
+  "as_of_local": "2026-11-11 00:27:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -59,6 +57,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-record-sales-strengthen-wedbush-201500617.html",
           "publisher": "Proactive",
           "published": "2026-11-10T20:15:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 331.98,
+      "previous_close": 319.48,
+      "change_pct": 3.91,
+      "market_cap": 1584749695027.364,
+      "headlines": [
+        {
+          "title": "Goldman Sachs calls chip stocks 'oversold.' Here are the names it says to buy.",
+          "url": "https://finance.yahoo.com/markets/article/goldman-sachs-calls-chip-stocks-oversold-here-are-the-names-it-says-to-buy-165654250.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-10T16:53:14Z"
+        },
+        {
+          "title": "Jim Cramer Warns About the AI Data Center Trade. What It Means for Nvidia and Broadcom",
+          "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-warns-ai-data-000739886.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-11T00:07:39Z"
+        },
+        {
+          "title": "Tech, Media & Telecom Roundup: Market Talk",
+          "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-491215dc?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-10T21:56:00Z"
         }
       ]
     },
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -0.99,
-          "price": 1200000.0,
+          "change_pct": -1.4,
+          "price": 1195000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.45,
-          "price": 198000.0,
+          "change_pct": -0.96,
+          "price": 197000.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -2.26,
-          "price": 8863.0,
+          "change_pct": -2.61,
+          "price": 8831.0,
           "currency": "JPY"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -0.99,
-        "price": 1200000.0,
+        "change_pct": -1.4,
+        "price": 1195000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.45,
-        "price": 198000.0,
+        "change_pct": -0.96,
+        "price": 197000.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -2.26,
-        "price": 8863.0,
+        "change_pct": -2.61,
+        "price": 8831.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 73533.32,
-      "change_pct": -2.25
+      "price": 73445.25,
+      "change_pct": -2.36
     },
     {
       "label": "Gold",
-      "price": 4047.9,
-      "change_pct": -1.62
+      "price": 4046.8,
+      "change_pct": -1.65
     },
     {
       "label": "Nasdaq100",

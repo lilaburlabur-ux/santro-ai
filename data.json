@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T10:55:30+00:00",
-  "as_of_local": "2026-11-11 10:55:30 UTC",
+  "as_of_utc": "2026-11-11T11:00:53+00:00",
+  "as_of_local": "2026-11-11 11:00:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-11-10T19:15:32Z"
         },
         {
-          "title": "Neoclouds Like Nebius Are Much Better Investments Than Colocation Companies Like TeraWulf. Here's Why.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/neoclouds-nebius-much-better-investments-104000346.html",
+          "title": "The Stock Market Is Repeating a Pattern Not Seen in Decades, but History Says Investors Who Make This 1 Move Will Win Out",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-repeating-pattern-not-105057369.html",
           "publisher": "Motley Fool",
-          "published": "2026-11-11T10:40:00Z"
+          "published": "2026-11-11T10:50:57Z"
         }
       ]
     },
@@ -113,34 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/demand-higher-supply-amd-ripped-073514339.html",
           "publisher": "TIKR",
           "published": "2026-11-11T07:35:14Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 725.11,
-      "previous_close": 733.15,
-      "change_pct": -1.1,
-      "market_cap": 820406268679.7378,
-      "headlines": [
-        {
-          "title": "Netlist Inc (NLST) (Q3 2026) Earnings Call Highlights: Revenue Surges 149% on AI Demand and ...",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/netlist-inc-nlst-q3-2026-090614908.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-11T09:06:14Z"
-        },
-        {
-          "title": "What Netlist (NLST) Said on Its Q3 Earnings Call",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/netlist-nlst-said-q3-earnings-071431097.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-11T07:14:31Z"
-        },
-        {
-          "title": "Netlist CEO Hints Licensing Deal With SK Hynix Is In Works After Q3 Sales Rise 150%: Retail Turns Bullish",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/netlist-ceo-hints-licensing-deal-071241438.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-11T07:12:41Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -1.1,
-          "price": 725.11,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -1.1,
-        "price": 725.11,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 74028.23,
-      "change_pct": 0.42
+      "price": 73925.12,
+      "change_pct": 0.28
     },
     {
       "label": "Gold",
-      "price": 4056.2,
-      "change_pct": 0.65
+      "price": 4059.1,
+      "change_pct": 0.72
     },
     {
       "label": "Nasdaq100",

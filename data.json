@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-11T09:08:43+00:00",
-  "as_of_local": "2026-11-11 09:08:43 UTC",
+  "as_of_utc": "2026-11-11T09:13:46+00:00",
+  "as_of_local": "2026-11-11 09:13:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -43,6 +41,12 @@
       "market_cap": 2056333273654.5454,
       "headlines": [
         {
+          "title": "TSM Stock Jumps Premarket After Board Approves $1B Investment In Anthropic And OpenAI, Dividend Raise",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsm-stock-jumps-premarket-board-090649613.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-11T09:06:49Z"
+        },
+        {
           "title": "TSMC Approves Up to $1 Billion Investment Plan in Anthropic, OpenAI",
           "url": "https://www.wsj.com/tech/ai/tsmc-approves-up-to-1-billion-investment-plan-in-anthropic-openai-3e4b4997?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
@@ -53,12 +57,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-facing-051434115.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-11T05:14:34Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 331.98,
+      "previous_close": 319.48,
+      "change_pct": 3.91,
+      "market_cap": 1584749695027.364,
+      "headlines": [
+        {
+          "title": "Goldman Sachs calls chip stocks 'oversold.' Here are the names it says to buy.",
+          "url": "https://finance.yahoo.com/markets/article/goldman-sachs-calls-chip-stocks-oversold-here-are-the-names-it-says-to-buy-165654250.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-10T16:53:14Z"
         },
         {
-          "title": "Asian markets mostly gain on AI chip demand despite Wall Street's retreat on inflation data",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-rise-ai-044620054.html",
-          "publisher": "Associated Press",
-          "published": "2026-11-11T04:46:20Z"
+          "title": "What Would It Take For AMD Stock To Move Higher?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-move-higher-010944172.html",
+          "publisher": "Trefis",
+          "published": "2026-11-11T01:09:44Z"
+        },
+        {
+          "title": "Jim Cramer Warns About the AI Data Center Trade. What It Means for Nvidia and Broadcom",
+          "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-warns-ai-data-000739886.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-11T00:07:39Z"
         }
       ]
     },
@@ -77,16 +103,16 @@
           "published": "2026-11-10T16:53:14Z"
         },
         {
+          "title": "TSM Stock Jumps Premarket After Board Approves $1B Investment In Anthropic And OpenAI, Dividend Raise",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsm-stock-jumps-premarket-board-090649613.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-11T09:06:49Z"
+        },
+        {
           "title": "\u201cDemand Is Higher Than Supply\u201d: AMD Has Ripped 141% in 2026. Is It Too Late to Buy?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/demand-higher-supply-amd-ripped-073514339.html",
           "publisher": "TIKR",
           "published": "2026-11-11T07:35:14Z"
-        },
-        {
-          "title": "The Zacks Analyst Blog Highlights Arista Networks, Fabrinet, Analog Devices, Advanced Micro Devices and NVIDIA",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-arista-062800269.html",
-          "publisher": "Zacks",
-          "published": "2026-11-11T06:28:00Z"
         }
       ]
     },
@@ -105,16 +131,16 @@
           "published": "2026-11-10T17:28:52Z"
         },
         {
+          "title": "Netlist Inc (NLST) (Q3 2026) Earnings Call Highlights: Revenue Surges 149% on AI Demand and ...",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/netlist-inc-nlst-q3-2026-090614908.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-11T09:06:14Z"
+        },
+        {
           "title": "What Netlist (NLST) Said on Its Q3 Earnings Call",
           "url": "https://finance.yahoo.com/markets/stocks/articles/netlist-nlst-said-q3-earnings-071431097.html",
           "publisher": "MarketBeat",
           "published": "2026-11-11T07:14:31Z"
-        },
-        {
-          "title": "Netlist CEO Hints Licensing Deal With SK Hynix Is In Works After Q3 Sales Rise 150%: Retail Turns Bullish",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/netlist-ceo-hints-licensing-deal-071241438.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-11T07:12:41Z"
         }
       ]
     },
@@ -428,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -0.89,
-          "price": 501.62,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -518,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -0.89,
-        "price": 501.62,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 73711.73,
-      "change_pct": -0.01
+      "price": 73685.87,
+      "change_pct": -0.05
     },
     {
       "label": "Gold",
-      "price": 4065.0,
-      "change_pct": 0.86
+      "price": 4064.5,
+      "change_pct": 0.85
     },
     {
       "label": "Nasdaq100",

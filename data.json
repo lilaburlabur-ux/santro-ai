@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-11T05:30:16+00:00",
-  "as_of_local": "2026-11-11 05:30:16 UTC",
+  "as_of_utc": "2026-11-11T05:35:27+00:00",
+  "as_of_local": "2026-11-11 05:35:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 2056333273654.5454,
       "headlines": [
         {
+          "title": "3 AI Chip Stocks Facing Yield Pressure And Demand Strength",
+          "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-facing-051434115.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-11T05:14:34Z"
+        },
+        {
           "title": "Asian shares mostly rise on AI chip demand despite Wall Street's retreat on inflation data",
           "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-rise-ai-044620054.html",
           "publisher": "Associated Press",
@@ -51,12 +57,6 @@
           "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-491215dc?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-11-10T21:56:00Z"
-        },
-        {
-          "title": "Taiwan Semiconductor Sales Jump 60% In October As AI Boom Continues",
-          "url": "https://www.investors.com/news/technology/tsm-stock-taiwan-semiconductor-october-2026-sales/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-10T21:18:35Z"
         }
       ]
     },
@@ -103,16 +103,16 @@
           "published": "2026-11-10T16:53:14Z"
         },
         {
+          "title": "Inside Anthropic\u2019s blockbuster IPO: What we know about the AI giant\u2019s plans",
+          "url": "https://finance.yahoo.com/technology/ai/articles/inside-anthropic-blockbuster-ipo-know-052944958.html",
+          "publisher": "Euronews",
+          "published": "2026-11-11T05:29:44Z"
+        },
+        {
           "title": "Prediction: This Will Be AMD\u2019s Stock Price After 1 Year",
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-amd-stock-price-1-023402661.html",
           "publisher": "Motley Fool",
           "published": "2026-11-11T02:34:02Z"
-        },
-        {
-          "title": "Jensen Huang Affair Revives Push for Chip Restrictions on Capitol Hill",
-          "url": "https://www.wsj.com/politics/policy/jensen-huang-affair-revives-push-for-chip-restrictions-on-capitol-hill-b0500089?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-11-11T02:00:00Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 5.45,
-          "price": 1278000.0,
+          "change_pct": 5.12,
+          "price": 1274000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 5.79,
-          "price": 9593.0,
+          "change_pct": 5.94,
+          "price": 9607.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 2.87,
-          "price": 394.0,
+          "change_pct": 3.13,
+          "price": 395.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -0.37,
-          "price": 134.5,
+          "change_pct": 0.0,
+          "price": 135.0,
           "currency": "TWD"
         }
       ]
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 5.45,
-        "price": 1278000.0,
+        "change_pct": 5.12,
+        "price": 1274000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 5.79,
-        "price": 9593.0,
+        "change_pct": 5.94,
+        "price": 9607.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 2.87,
-        "price": 394.0,
+        "change_pct": 3.13,
+        "price": 395.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -0.37,
-        "price": 134.5,
+        "change_pct": 0.0,
+        "price": 135.0,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 73682.01,
-      "change_pct": -2.05
+      "price": 73738.81,
+      "change_pct": -1.97
     },
     {
       "label": "Gold",
-      "price": 4063.2,
-      "change_pct": 0.82
+      "price": 4065.5,
+      "change_pct": 0.88
     },
     {
       "label": "Nasdaq100",

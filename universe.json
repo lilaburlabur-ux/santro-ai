@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Finviz theme:artificialintelligence",
-  "as_of": "2026-11-11 23:13 UTC",
+  "as_of": "2026-11-11 23:17 UTC",
   "total_tickers": 111,
   "min_bubble_size": 7,
   "render_spec": {
@@ -18,7 +18,7 @@
    "label": "AI Chips & Compute",
    "color": "#4F8EF7",
    "count": 14,
-   "total_market_cap_b": 10142.09,
+   "total_market_cap_b": 10142.1,
    "avg_change_pct": 0.62,
    "industries_included": [
     "Semiconductors"
@@ -734,7 +734,7 @@
    "label": "AI Software & Cloud Infrastructure",
    "color": "#9B6BF7",
    "count": 6,
-   "total_market_cap_b": 4683.16,
+   "total_market_cap_b": 4683.2,
    "avg_change_pct": -1.29,
    "industries_included": [
     "Software - Infrastructure"
@@ -1049,7 +1049,7 @@
    "label": "AI Applications & Data Software",
    "color": "#F7A14F",
    "count": 11,
-   "total_market_cap_b": 974.82,
+   "total_market_cap_b": 974.8,
    "avg_change_pct": 1.04,
    "industries_included": [
     "Software - Application"
@@ -1156,56 +1156,6 @@
      "fwd_eps": 16.02
     },
     {
-     "ticker": "NOW",
-     "company": "ServiceNow Inc",
-     "sector": "Technology",
-     "industry": "Software - Application",
-     "country": "USA",
-     "market_cap_b": 103.26,
-     "pe": 73.93,
-     "price": 100.6,
-     "change_pct": 0.99,
-     "volume": 14404875,
-     "perf": {
-      "1W": -5.6,
-      "1M": -25.9,
-      "1Y": -40.5
-     },
-     "spark": [
-      129.75,
-      128.05,
-      125.8,
-      144.71,
-      142.9,
-      145.59,
-      134.21,
-      131.17,
-      142.35,
-      139.82,
-      135.47,
-      137.0,
-      137.78,
-      131.45,
-      134.01,
-      134.38,
-      137.97,
-      139.75,
-      140.32,
-      139.98,
-      141.97,
-      149.54,
-      157.0,
-      158.18,
-      150.13,
-      105.12,
-      109.16,
-      102.36,
-      102.76,
-      102.76
-     ],
-     "fwd_eps": 4.8
-    },
-    {
      "ticker": "SNOW",
      "company": "Snowflake Inc",
      "sector": "Technology",
@@ -1256,54 +1206,54 @@
      "fwd_eps": 3.04
     },
     {
-     "ticker": "INTU",
-     "company": "Intuit Inc",
+     "ticker": "NOW",
+     "company": "ServiceNow Inc",
      "sector": "Technology",
      "industry": "Software - Application",
      "country": "USA",
-     "market_cap_b": 93.96,
-     "pe": 20.82,
-     "price": 341.67,
-     "change_pct": 0.36,
-     "volume": 2549127,
+     "market_cap_b": 103.26,
+     "pe": 73.93,
+     "price": 100.6,
+     "change_pct": 0.99,
+     "volume": 14404875,
      "perf": {
-      "1W": -3.9,
-      "1M": 13.7,
-      "1Y": -47.3
+      "1W": -5.6,
+      "1M": -25.9,
+      "1Y": -40.5
      },
      "spark": [
-      360.19,
-      368.2,
-      344.27,
-      356.4,
-      343.33,
-      342.7,
-      317.45,
-      311.32,
-      337.58,
-      316.65,
-      301.78,
-      290.99,
-      275.84,
-      268.15,
-      274.43,
-      279.78,
-      288.46,
-      303.88,
-      305.99,
-      310.44,
-      325.15,
-      335.29,
-      354.9,
-      339.89,
-      328.19,
-      341.09,
-      344.72,
-      354.84,
-      338.23,
-      342.64
+      129.75,
+      128.05,
+      125.8,
+      144.71,
+      142.9,
+      145.59,
+      134.21,
+      131.17,
+      142.35,
+      139.82,
+      135.47,
+      137.0,
+      137.78,
+      131.45,
+      134.01,
+      134.38,
+      137.97,
+      139.75,
+      140.32,
+      139.98,
+      141.97,
+      149.54,
+      157.0,
+      158.18,
+      150.13,
+      105.12,
+      109.16,
+      102.36,
+      102.76,
+      102.76
      ],
-     "fwd_eps": 26.93
+     "fwd_eps": 4.8
     },
     {
      "ticker": "ADBE",
@@ -1354,6 +1304,56 @@
       237.6
      ],
      "fwd_eps": 27.41
+    },
+    {
+     "ticker": "INTU",
+     "company": "Intuit Inc",
+     "sector": "Technology",
+     "industry": "Software - Application",
+     "country": "USA",
+     "market_cap_b": 93.96,
+     "pe": 20.82,
+     "price": 341.67,
+     "change_pct": 0.36,
+     "volume": 2549127,
+     "perf": {
+      "1W": -3.9,
+      "1M": 13.7,
+      "1Y": -47.3
+     },
+     "spark": [
+      360.19,
+      368.2,
+      344.27,
+      356.4,
+      343.33,
+      342.7,
+      317.45,
+      311.32,
+      337.58,
+      316.65,
+      301.78,
+      290.99,
+      275.84,
+      268.15,
+      274.43,
+      279.78,
+      288.46,
+      303.88,
+      305.99,
+      310.44,
+      325.15,
+      335.29,
+      354.9,
+      339.89,
+      328.19,
+      341.09,
+      344.72,
+      354.84,
+      338.23,
+      342.64
+     ],
+     "fwd_eps": 26.93
     },
     {
      "ticker": "DDOG",
@@ -1503,7 +1503,7 @@
       4.05,
       3.91
      ],
-     "fwd_eps": -0.1
+     "fwd_eps": -0.06
     },
     {
      "ticker": "PUBM",
@@ -1614,7 +1614,7 @@
    "label": "Chip Equipment & AI Hardware",
    "color": "#4FC3D9",
    "count": 13,
-   "total_market_cap_b": 3347.38,
+   "total_market_cap_b": 3347.4,
    "avg_change_pct": 3.65,
    "industries_included": [
     "Communication Equipment",
@@ -2123,7 +2123,7 @@
       246.0,
       265.78
      ],
-     "fwd_eps": 11.99
+     "fwd_eps": 12.04
     },
     {
      "ticker": "SMCI",
@@ -2284,7 +2284,7 @@
    "label": "AI Platforms, Internet & AdTech",
    "color": "#F75F8E",
    "count": 12,
-   "total_market_cap_b": 13756.81,
+   "total_market_cap_b": 13756.8,
    "avg_change_pct": 1.13,
    "industries_included": [
     "Advertising Agencies",
@@ -2902,7 +2902,7 @@
    "label": "Data Center, Power & Energy",
    "color": "#5FD97A",
    "count": 8,
-   "total_market_cap_b": 425.17,
+   "total_market_cap_b": 425.2,
    "avg_change_pct": 2.1,
    "industries_included": [
     "Electrical Equipment & Parts",
@@ -3211,7 +3211,7 @@
       363.13,
       378.71
      ],
-     "fwd_eps": 30.53
+     "fwd_eps": 28.08
     },
     {
      "ticker": "AES",
@@ -3322,7 +3322,7 @@
    "label": "Applied AI: Industrial, Defense & Vertical",
    "color": "#D9C84F",
    "count": 14,
-   "total_market_cap_b": 3780.99,
+   "total_market_cap_b": 3781.0,
    "avg_change_pct": -1.31,
    "industries_included": [
     "Aerospace & Defense",
@@ -4046,7 +4046,7 @@
    "label": "Powering AI",
    "color": "#3BE08F",
    "count": 15,
-   "total_market_cap_b": 679.52,
+   "total_market_cap_b": 679.5,
    "avg_change_pct": 1.0,
    "industries_included": [
     "Electrical Equipment & Parts",
@@ -5759,7 +5759,7 @@
    ],
    "count": 18,
    "avg_change_pct": 1.37,
-   "total_market_cap_b": 880.99,
+   "total_market_cap_b": 881.0,
    "pe_harmonic": 120.6,
    "pe_excluded": 6,
    "industries_included": [

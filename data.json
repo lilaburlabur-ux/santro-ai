@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-12T00:54:45+00:00",
-  "as_of_local": "2026-11-12 00:54:45 UTC",
+  "as_of_utc": "2026-11-12T00:59:47+00:00",
+  "as_of_local": "2026-11-12 00:59:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -313,34 +315,6 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 124.4,
-      "previous_close": 123.5,
-      "change_pct": 0.73,
-      "market_cap": 6322095406.346237,
-      "headlines": [
-        {
-          "title": "Should Major Defense Orders Require Action From AeroVironment (AVAV) Investors?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/major-defense-orders-require-action-181054193.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-11T18:10:54Z"
-        },
-        {
-          "title": "AeroVironment (AVAV) Lands $720 Million In Defense Awards Across U.S. And Middle East",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-lands-720-million-171508179.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-11T17:15:08Z"
-        },
-        {
-          "title": "AVAV Secures $405M International Order For Laser Defense Systems \u2013 Here Are The Key Takeaways",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/avav-secures-405m-international-order-153404370.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-11T15:34:04Z"
-        }
-      ]
-    },
-    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 117.86,
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 0.63,
-          "price": 1285000.0,
+          "change_pct": 1.1,
+          "price": 1291000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 2.67,
-          "price": 211500.0,
+          "change_pct": 3.16,
+          "price": 212500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 2.87,
-          "price": 9846.0,
+          "change_pct": 4.24,
+          "price": 9977.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 0.63,
-        "price": 1285000.0,
+        "change_pct": 1.1,
+        "price": 1291000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 2.67,
-        "price": 211500.0,
+        "change_pct": 3.16,
+        "price": 212500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 2.87,
-        "price": 9846.0,
+        "change_pct": 4.24,
+        "price": 9977.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 73980.06,
-      "change_pct": 0.35
+      "price": 73993.99,
+      "change_pct": 0.37
     },
     {
       "label": "Gold",
-      "price": 3992.4,
-      "change_pct": -0.94
+      "price": 3994.4,
+      "change_pct": -0.89
     },
     {
       "label": "Nasdaq100",

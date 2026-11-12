@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T14:00:18+00:00",
-  "as_of_local": "2026-11-12 14:00:18 UTC",
+  "as_of_utc": "2026-11-12T14:05:24+00:00",
+  "as_of_local": "2026-11-12 14:05:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,6 +12,12 @@
       "change_pct": 2.87,
       "market_cap": 4195058206832.8857,
       "headlines": [
+        {
+          "title": "Stock market today: S&P 500, Nasdaq futures sink as Nvidia CEO turmoil jolts confidence",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-12T11:00:27Z"
+        },
         {
           "title": "Nvidia CEO Huang resigns amid affair scandals, board names CFO Colette Kress interim CEO",
           "url": "https://finance.yahoo.com/technology/article/nvidia-ceo-huang-resigns-amid-affair-scandals-board-names-cfo-colette-kress-interim-ceo-135801377.html",
@@ -25,12 +29,34 @@
           "url": "https://finance.yahoo.com/markets/article/nvidia-stock-sinks-but-rivals-amd-broadcom-rise-133910081.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-12T13:39:10Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 413.35,
+      "previous_close": 396.48,
+      "change_pct": 4.25,
+      "market_cap": 2143828643725.619,
+      "headlines": [
+        {
+          "title": "Nvidia stock tumbles as CEO Jensen Huang steps down, dragging down other AI names",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-stock-sinks-but-rivals-amd-broadcom-rise-133910081.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-12T13:39:10Z"
         },
         {
-          "title": "Stock market today: S&P 500, Nasdaq futures sink as Nvidia CEO turmoil jolts confidence",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-12T11:00:27Z"
+          "title": "NVIDIA Sinks 18% in a Week as Board Probes Huang: \u201cTarget of a Foreign Intelligence Effort\u201d",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-sinks-18-week-board-130255435.html",
+          "publisher": "TIKR",
+          "published": "2026-11-12T13:02:55Z"
+        },
+        {
+          "title": "AMD Stock: What Does Its $2.5 Billion Anthropic Bet Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-does-2-5-120221503.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T12:02:21Z"
         }
       ]
     },
@@ -71,6 +97,12 @@
       "market_cap": 917923638084.2815,
       "headlines": [
         {
+          "title": "Micron Is Back Above $800 After Its Best Day Since July",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-back-above-800-best-135658454.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-12T13:56:58Z"
+        },
+        {
           "title": "Join The Dip Buyers in Micron If You Dare",
           "url": "https://finance.yahoo.com/markets/stocks/articles/join-dip-buyers-micron-dare-134555209.html",
           "publisher": "24/7 Wall St.",
@@ -81,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-micron-124400549.html",
           "publisher": "Zacks",
           "published": "2026-11-12T12:44:00Z"
-        },
-        {
-          "title": "Micron Out-Earned Apple Last Quarter, Yet It\u2019s Worth 1/6 as Much. One of Those Two Things Is Wrong",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-earned-apple-last-quarter-122305068.html",
-          "publisher": "TIKR",
-          "published": "2026-11-12T12:23:05Z"
         }
       ]
     },
@@ -211,6 +237,12 @@
       "market_cap": 151880483627.46756,
       "headlines": [
         {
+          "title": "Lumentum Trades Below Marvell\u2019s Buyout Offer. Is the Gap a Bargain?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lumentum-trades-below-marvell-buyout-135812122.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-12T13:58:12Z"
+        },
+        {
           "title": "Why Intel and Marvell Stocks Are Caught in Nvidia\u2019s Web",
           "url": "https://www.barrons.com/articles/intel-stock-price-marvell-chips-nvidia-a79a4389?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -221,12 +253,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/does-anthropic-ipo-mean-broadcom-120221781.html",
           "publisher": "Trefis",
           "published": "2026-11-12T12:02:21Z"
-        },
-        {
-          "title": "Nvidia, Dell, Super Micro, Sandisk, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-cd2d0ebf?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-12T11:43:00Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 72418.94,
-      "change_pct": -2.09
+      "price": 72344.06,
+      "change_pct": -2.19
     },
     {
       "label": "Gold",
-      "price": 3899.4,
-      "change_pct": -2.53
+      "price": 3891.4,
+      "change_pct": -2.73
     },
     {
       "label": "Nasdaq100",

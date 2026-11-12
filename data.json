@@ -1,17 +1,23 @@
 {
-  "as_of_utc": "2026-11-12T14:51:11+00:00",
-  "as_of_local": "2026-11-12 14:51:11 UTC",
+  "as_of_utc": "2026-11-12T14:56:17+00:00",
+  "as_of_local": "2026-11-12 14:56:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 160.7,
+      "price": 160.87,
       "previous_close": 173.73,
-      "change_pct": -7.5,
-      "market_cap": 3880060636047.3633,
+      "change_pct": -7.4,
+      "market_cap": 3887667000000.0,
       "headlines": [
+        {
+          "title": "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
+          "url": "https://finance.yahoo.com/markets/article/amd-broadcom-stocks-jump-as-nvidia-ceo-jensen-huang-resigns-143725561.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-12T13:39:10Z"
+        },
         {
           "title": "Jensen Huang vs. Steve Jobs: Can Nvidia also thrive without its visionary?",
           "url": "https://finance.yahoo.com/video/jensen-huang-vs-steve-jobs-can-nvidia-also-thrive-without-its-visionary-144638496.html",
@@ -23,28 +29,22 @@
           "url": "https://finance.yahoo.com/markets/article/planning-nvidia-investigations-top-democrats-tell-trump-administration-to-preserve-all-records-141932940.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-12T14:19:32Z"
-        },
-        {
-          "title": "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
-          "url": "https://finance.yahoo.com/markets/article/amd-broadcom-stocks-jump-as-nvidia-ceo-jensen-huang-resigns-143725561.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-12T13:39:10Z"
         }
       ]
     },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 404.98,
+      "price": 404.18,
       "previous_close": 413.35,
-      "change_pct": -2.02,
-      "market_cap": 2100417890090.414,
+      "change_pct": -2.22,
+      "market_cap": 2096320532107.1475,
       "headlines": [
         {
-          "title": "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
-          "url": "https://finance.yahoo.com/markets/article/amd-broadcom-stocks-jump-as-nvidia-ceo-jensen-huang-resigns-143725561.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-12T13:39:10Z"
+          "title": "The Zacks Analyst Blog Highlights iShares Semiconductor ETF, NVIDIA, Arista, TSMC and Micron",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-ishares-134000412.html",
+          "publisher": "Zacks",
+          "published": "2026-11-12T13:40:00Z"
         },
         {
           "title": "NVIDIA Sinks 18% in a Week as Board Probes Huang: \u201cTarget of a Foreign Intelligence Effort\u201d",
@@ -63,10 +63,10 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 359.28,
+      "price": 357.99,
       "previous_close": 345.22,
-      "change_pct": 4.07,
-      "market_cap": 1714974311917.3792,
+      "change_pct": 3.7,
+      "market_cap": 1708983383128.0645,
       "headlines": [
         {
           "title": "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
@@ -91,10 +91,10 @@
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 566.96,
+      "price": 567.49,
       "previous_close": 552.9,
-      "change_pct": 2.54,
-      "market_cap": 928674780545.2694,
+      "change_pct": 2.64,
+      "market_cap": 930913483626.4073,
       "headlines": [
         {
           "title": "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
@@ -119,10 +119,10 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 781.28,
+      "price": 774.59,
       "previous_close": 811.3,
-      "change_pct": -3.7,
-      "market_cap": 883584971222.7185,
+      "change_pct": -4.52,
+      "market_cap": 875715903447.4126,
       "headlines": [
         {
           "title": "Stock market today: S&P 500, Nasdaq sink as Nvidia CEO Jensen Huang resigns, stock tanks",
@@ -147,10 +147,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 60.72,
+      "price": 60.42,
       "previous_close": 62.5,
-      "change_pct": -2.85,
-      "market_cap": 322540782299.04175,
+      "change_pct": -3.33,
+      "market_cap": 321026008110.0464,
       "headlines": [
         {
           "title": "Stock market today: S&P 500, Nasdaq sink as Nvidia CEO Jensen Huang resigns, stock tanks",
@@ -175,10 +175,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 200.19,
+      "price": 200.18,
       "previous_close": 203.36,
       "change_pct": -1.56,
-      "market_cap": 213983950653.07617,
+      "market_cap": 214112133178.71094,
       "headlines": [
         {
           "title": "Chip Stocks Rally After Slide. These Names Are Leading The Charge Higher.",
@@ -203,10 +203,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 179.47,
+      "price": 179.66,
       "previous_close": 176.57,
-      "change_pct": 1.64,
-      "market_cap": 191733302612.3047,
+      "change_pct": 1.75,
+      "market_cap": 192161296081.54297,
       "headlines": [
         {
           "title": "Qualcomm CEO on tech stock meltdown: 'There is no AI correction' for us",
@@ -231,10 +231,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 163.22,
+      "price": 162.69,
       "previous_close": 168.8,
-      "change_pct": -3.31,
-      "market_cap": 146958763154.58054,
+      "change_pct": -3.62,
+      "market_cap": 146544864807.9519,
       "headlines": [
         {
           "title": "Lumentum Trades Below Marvell\u2019s Buyout Offer. Is the Gap a Bargain?",
@@ -259,10 +259,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 267.59,
+      "price": 266.47,
       "previous_close": 269.51,
-      "change_pct": -0.71,
-      "market_cap": 67328392923.83252,
+      "change_pct": -1.13,
+      "market_cap": 67116669336.95813,
       "headlines": [
         {
           "title": "Why Did NXP Semiconductors (NXPI) Climb After Its Latest Update?",
@@ -287,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 117.44,
+      "price": 117.97,
       "previous_close": 122.77,
-      "change_pct": -4.34,
-      "market_cap": 16702985498.27069,
+      "change_pct": -3.91,
+      "market_cap": 16778364940.885345,
       "headlines": [
         {
           "title": "Lattice Semiconductor (LSCC) Recently Broke Out Above the 50-Day Moving Average",
@@ -315,10 +315,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 121.0,
+      "price": 120.59,
       "previous_close": 124.4,
-      "change_pct": -2.73,
-      "market_cap": 6149304942.0,
+      "change_pct": -3.06,
+      "market_cap": 6128468268.069031,
       "headlines": [
         {
           "title": "Should Major Defense Orders Require Action From AeroVironment (AVAV) Investors?",
@@ -343,10 +343,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 117.82,
+      "price": 117.84,
       "previous_close": 117.86,
-      "change_pct": -0.03,
-      "market_cap": 4681012276.458191,
+      "change_pct": -0.02,
+      "market_cap": 4682402920.008362,
       "headlines": [
         {
           "title": "SYNA Q1 Earnings Beat Estimates, Revenues Miss on Weak Demand",
@@ -371,10 +371,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 26.3,
+      "price": 26.36,
       "previous_close": 26.94,
-      "change_pct": -2.38,
-      "market_cap": 750267284.4354172,
+      "change_pct": -2.15,
+      "market_cap": 751978960.0516663,
       "headlines": [
         {
           "title": "What Gave Agilysys Stock Its Edge Over Cadence?",
@@ -401,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 43.19,
-      "change_pct": -3.69,
+      "price": 43.04,
+      "change_pct": -4.04,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -3.7,
-          "price": 781.28,
+          "change_pct": -4.52,
+          "price": 774.59,
           "currency": "USD"
         },
         {
@@ -445,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -5.64,
-          "price": 922.5,
+          "change_pct": -5.79,
+          "price": 921.12,
           "currency": "USD"
         },
         {
@@ -454,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -3.08,
-          "price": 534.72,
+          "change_pct": -2.67,
+          "price": 537.0,
           "currency": "USD"
         },
         {
@@ -463,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -3.27,
-          "price": 303.06,
+          "change_pct": -2.91,
+          "price": 304.19,
           "currency": "USD"
         },
         {
@@ -491,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 43.19,
-    "change_pct": -3.69,
+    "price": 43.04,
+    "change_pct": -4.04,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -3.7,
-        "price": 781.28,
+        "change_pct": -4.52,
+        "price": 774.59,
         "currency": "USD"
       },
       {
@@ -535,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -5.64,
-        "price": 922.5,
+        "change_pct": -5.79,
+        "price": 921.12,
         "currency": "USD"
       },
       {
@@ -544,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -3.08,
-        "price": 534.72,
+        "change_pct": -2.67,
+        "price": 537.0,
         "currency": "USD"
       },
       {
@@ -553,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -3.27,
-        "price": 303.06,
+        "change_pct": -2.91,
+        "price": 304.19,
         "currency": "USD"
       },
       {
@@ -580,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7599.25,
-      "change_pct": -0.26
+      "price": 7598.73,
+      "change_pct": -0.27
     },
     {
       "label": "BTC",
-      "price": 71477.0,
-      "change_pct": -3.36
+      "price": 71349.69,
+      "change_pct": -3.54
     },
     {
       "label": "Gold",
-      "price": 3899.7,
-      "change_pct": -2.52
+      "price": 3891.6,
+      "change_pct": -2.72
     },
     {
       "label": "Nasdaq100",
-      "price": 28214.33,
-      "change_pct": -0.56
+      "price": 28228.91,
+      "change_pct": -0.51
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-12T00:29:13+00:00",
-  "as_of_local": "2026-11-12 00:29:13 UTC",
+  "as_of_utc": "2026-11-12T00:34:14+00:00",
+  "as_of_local": "2026-11-12 00:34:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 1647952507822.4849,
       "headlines": [
         {
+          "title": "Nvidia board meets to decide CEO Huang's future, source says",
+          "url": "https://finance.yahoo.com/news/nvidia-preparing-oust-ceo-jensen-223546395.html",
+          "publisher": "Reuters",
+          "published": "2026-11-12T00:23:32Z"
+        },
+        {
           "title": "More Bad News for NVIDIA. With Board Planning to Boot Jensen Huang, Sam Altman Reveals Master Plan to Stop Buying Their Chips",
           "url": "https://finance.yahoo.com/markets/stocks/articles/more-bad-news-nvidia-board-001931303.html",
           "publisher": "24/7 Wall St.",
@@ -79,12 +85,6 @@
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-11-2026/card/stocks-to-watch-coreweave-nvidia-tsmc-EbakJv4ZyAl7obXOSamP?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-11-11T21:49:35Z"
-        },
-        {
-          "title": "Cathie Wood, Brad Gerstner and 8 Other Big Funds Bought Cerebras. Is It a Buy Before Earnings?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-brad-gerstner-8-203314526.html",
-          "publisher": "TIKR",
-          "published": "2026-11-11T20:33:14Z"
         }
       ]
     },
@@ -131,16 +131,16 @@
           "published": "2026-11-11T21:43:46Z"
         },
         {
+          "title": "Nvidia board meets to decide CEO Huang's future, source says",
+          "url": "https://finance.yahoo.com/news/nvidia-preparing-oust-ceo-jensen-223546395.html",
+          "publisher": "Reuters",
+          "published": "2026-11-12T00:23:32Z"
+        },
+        {
           "title": "Dow Jones Futures: Techs Tumble As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-12T00:20:02Z"
-        },
-        {
-          "title": "More Bad News for NVIDIA. With Board Planning to Boot Jensen Huang, Sam Altman Reveals Master Plan to Stop Buying Their Chips",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/more-bad-news-nvidia-board-001931303.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-12T00:19:31Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -0.16,
-          "price": 1275000.0,
+          "change_pct": -0.7,
+          "price": 1268000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 1.46,
-          "price": 209000.0,
+          "change_pct": 0.85,
+          "price": 207750.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -1.68,
-          "price": 9410.0,
+          "change_pct": 0.41,
+          "price": 9610.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -0.16,
-        "price": 1275000.0,
+        "change_pct": -0.7,
+        "price": 1268000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 1.46,
-        "price": 209000.0,
+        "change_pct": 0.85,
+        "price": 207750.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -1.68,
-        "price": 9410.0,
+        "change_pct": 0.41,
+        "price": 9610.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 74020.31,
-      "change_pct": 0.41
+      "price": 73930.46,
+      "change_pct": 0.29
     },
     {
       "label": "Gold",
-      "price": 3984.8,
-      "change_pct": -1.13
+      "price": 3987.2,
+      "change_pct": -1.07
     },
     {
       "label": "Nasdaq100",

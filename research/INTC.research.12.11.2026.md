@@ -4,24 +4,24 @@ Signed file: `INTC.research.12.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-12, ~15-min delayed) |
-| Market cap | $332.19B |
+| Current price | $61.51 (2026-11-12, ~15-min delayed) |
+| Market cap | $326.95B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
+| Current stance | High technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-12.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +62.39%; price -29.57% vs SMA200. |
+| Fresh setup quality | Poor / broken | -56.35% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-20.09%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 34.91, EV/Sales 5.76. |
-| Risk level | High | Beta 2.43, ATR nan% of price, short float 2.88%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 34.36, EV/Sales 5.76. |
+| Risk level | High | Beta 2.43, ATR 9.5% of price, short float 2.88%. |
 
-**Bottom line:** Moderate technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** High technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia’s Board Is Reportedly Preparing to Oust Jensen Huang. When Intel and McDonald’s Pushed Out CEOs Over Workplace Relationships, Shareholders Got Opposite Results | 24/7 Wall St. | 2026-11-11 |
-| Stock Market Today, Nov. 11: Intel Climbs on Broader Chip Rally as AI Infrastructure Demand Lifts Semiconductor Stocks | Motley Fool | 2026-11-11 |
-| Stock Market Today, Nov. 11: Advanced Micro Devices Jumps -- and Not Only Because of CoreWeave's Results | Motley Fool | 2026-11-11 |
-| Stocks to Watch Recap: CoreWeave, Nvidia, TSMC | The Wall Street Journal | 2026-11-11 |
+| Intel CEO Lip-Bu Tan on turnaround efforts amid stock slump: 'I feel called to do this' | Yahoo Finance | 2026-11-12 |
+| Intel CEO Lip-Bu Tan sees a 'healthy pullback' ahead in the AI boom | Yahoo Finance Video | 2026-11-12 |
+| Intel Stocks Fall 3.49% as NVIDIA CEO Exit Clouds a $13 Billion Partnership Stake | GuruFocus.com | 2026-11-12 |
+| Ranking NVIDIA, Taiwan Semiconductor And Other AI Compute Stocks | 24/7 Wall St. | 2026-11-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $140.94 (+nan%); 52w low $33.62 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 28.9 (oversold) |
-| Volatility | ATR(14) 6.02 (~nan% of price); beta 2.43 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $61.51; 52w high $140.94 (-56.35%); 52w low $33.62 (+82.97%) |
+| Trend | -29.57% vs SMA200, -35.67% vs SMA50, -18.27% vs SMA20 |
+| Momentum | RSI(14) 33.6 (neutral) |
+| Volatility | ATR(14) 5.83 (~9.5% of price); beta 2.43 |
+| Setup perspective | -56.35% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +17.7% |
+| Month | -37.3% |
+| Quarter | -40.0% |
+| Half Y | -46.9% |
+| 1Y | +62.4% |
+| YTD | +56.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,8 +68,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $59.89B | Revenue growth 20.90% y/y |
 | Profitability | Gross 40.15%, operating 10.32%, net -20.09% | ROA 1.78%, ROE -9.62% |
 | Balance sheet | Cash $54.00B, debt $50.13B | Current ratio 2.21, debt/equity 38.11 |
-| Valuation | P/E —, forward P/E 34.91, P/S 5.55, P/B 2.89 | EV/Sales 5.76, EV/EBITDA 18.03 |
-| Growth expectations | Earnings growth -32.70%, EPS q/q -18.30% | Analyst mean target $91.12 (43 analysts) |
+| Valuation | P/E —, forward P/E 34.36, P/S 5.46, P/B 2.84 | EV/Sales 5.76, EV/EBITDA 18.03 |
+| Growth expectations | Earnings growth -32.70%, EPS q/q -18.30% | Analyst mean target $90.65 (43 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -95,9 +95,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Primecap Management Company | 75,250,958 | 1.42% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 34.91, EV/Sales 5.76. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.43, ATR nan% of price, short float 2.88%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 34.36, EV/Sales 5.76. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.43, ATR 9.5% of price, short float 2.88%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -112,25 +113,26 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.76 |
-| Market cap | $332.19B | EV/EBITDA | 18.03 |
+| Price | $61.51 | EV/Sales | 5.76 |
+| Market cap | $326.95B | EV/EBITDA | 18.03 |
 | Beta | 2.43 | Gross margin | 40.15% |
-| RSI(14) | 28.9 | Operating margin | 10.32% |
-| ATR(14) | 6.02 | Profit margin | -20.09% |
-| SMA20 dist | +nan% | ROA | 1.78% |
-| SMA50 dist | +nan% | ROE | -9.62% |
-| SMA200 dist | +nan% | Revenue (ttm) | $59.89B |
+| RSI(14) | 33.6 | Operating margin | 10.32% |
+| ATR(14) | 5.83 | Profit margin | -20.09% |
+| SMA20 dist | -18.27% | ROA | 1.78% |
+| SMA50 dist | -35.67% | ROE | -9.62% |
+| SMA200 dist | -29.57% | Revenue (ttm) | $59.89B |
 | 52W high | $140.94 | Revenue growth y/y | 20.90% |
 | 52W low | $33.62 | Inst. ownership | 64.00% |
 | P/E (ttm) | — | Insider ownership | 13.91% |
-| Forward P/E | 34.91 | Short float | 2.88% |
-| PEG (trailing) | — | Avg volume | 116,043,842 |
-| P/S | 5.55 | Employees | 81,100 |
-| P/B | 2.89 | Analyst rec (1=buy..5=sell) | 2.5 |
+| Forward P/E | 34.36 | Short float | 2.88% |
+| PEG (trailing) | — | Avg volume | 115,566,220 |
+| P/S | 5.46 | Employees | 81,100 |
+| P/B | 2.84 | Analyst rec (1=buy..5=sell) | 2.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-11-12 | main | B of A Securities | Neutral → Neutral |
 | 2026-10-31 | main | UBS | Neutral → Neutral |
 | 2026-10-31 | down | Freedom Broker | Buy → Hold |
 | 2026-10-30 | main | JP Morgan | Neutral → Neutral |
@@ -138,10 +140,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | 2026-10-30 | main | TD Cowen | Hold → Hold |
 | 2026-10-30 | main | DA Davidson | Neutral → Neutral |
 | 2026-10-30 | main | Rosenblatt | Sell → Sell |
-| 2026-10-30 | main | Wells Fargo | Equal-Weight → Equal-Weight |
 
 ## 9. Conclusion
-INTC: Moderate momentum / weak fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+INTC: High momentum / weak fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

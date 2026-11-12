@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-11-12T10:31:48+00:00",
-  "as_of_local": "2026-11-12 10:31:48 UTC",
+  "as_of_utc": "2026-11-12T10:36:51+00:00",
+  "as_of_local": "2026-11-12 10:36:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 173.73,
-      "previous_close": 168.89,
-      "change_pct": 2.87,
-      "market_cap": 4195058206832.8857,
-      "headlines": [
-        {
-          "title": "Who is Nvidia executive Kimberly Powell?",
-          "url": "https://finance.yahoo.com/markets/stocks/article/who-is-nvidia-executive-kimberly-powell-231652963.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-11T23:16:52Z"
-        },
-        {
-          "title": "Forget Nvidia CEO Jensen Huang's Affair Scandal -- There Are Far Bigger Issues With the AI Trade",
-          "url": "https://finance.yahoo.com/technology/ai/articles/forget-nvidia-ceo-jensen-huangs-102602178.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-12T10:26:02Z"
-        },
-        {
-          "title": "Greg Abel Has Plowed $14.4 Billion Into Warren Buffett's Favorite Stock This Year, and It's Not Apple",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/greg-abel-plowed-14-4-101700552.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-12T10:17:00Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 73429.7,
-      "change_pct": -0.72
+      "price": 73499.81,
+      "change_pct": -0.63
     },
     {
       "label": "Gold",
-      "price": 3955.5,
-      "change_pct": -1.12
+      "price": 3954.0,
+      "change_pct": -1.16
     },
     {
       "label": "Nasdaq100",

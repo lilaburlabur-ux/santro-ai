@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-12T21:46:33+00:00",
-  "as_of_local": "2026-11-12 21:46:33 UTC",
+  "as_of_utc": "2026-11-12T21:51:32+00:00",
+  "as_of_local": "2026-11-12 21:51:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,22 +15,22 @@
       "market_cap": 4012989988952.6367,
       "headlines": [
         {
+          "title": "Retail investors are buying Nvidia's stock crash like never before \u2014 history urges patience",
+          "url": "https://finance.yahoo.com/markets/article/retail-investors-are-buying-nvidias-stock-crash-like-never-before--history-urges-patience-194808211.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-12T19:48:08Z"
+        },
+        {
+          "title": "Alleged spy at center of Nvidia CEO affair reportedly being probed over Super Micro smuggling effort",
+          "url": "https://finance.yahoo.com/technology/article/alleged-spy-at-center-of-nvidia-ceo-affair-reportedly-being-probed-over-super-micro-smuggling-effort-214712179.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-12T21:47:12Z"
+        },
+        {
           "title": "Cathie Wood: After Huang, AI push isn\u2019t \u2018going to stop\u2019",
           "url": "https://finance.yahoo.com/video/cathie-wood-huang-ai-push-214100089.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-12T21:41:00Z"
-        },
-        {
-          "title": "CoreWeave stock sinks as resignation of Jensen Huang ripples through AI trade",
-          "url": "https://finance.yahoo.com/markets/stocks/article/coreweave-stock-sinks-as-resignation-of-jensen-huang-ripples-through-ai-trade-180319031.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-12T18:03:19Z"
-        },
-        {
-          "title": "How Jensen's exit will help the US in the AI race vs. China: Roubini",
-          "url": "https://finance.yahoo.com/video/how-jensens-exit-will-help-the-us-in-the-ai-race-vs-china-roubini-204733072.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-12T20:40:00Z"
         }
       ]
     },
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stocks-slide-7-83-194401943.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-12T19:44:01Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 61.2,
-      "previous_close": 62.5,
-      "change_pct": -2.08,
-      "market_cap": 325278004055.0232,
-      "headlines": [
-        {
-          "title": "Intel CEO Lip-Bu Tan on turnaround efforts amid stock slump: 'I feel called to do this'",
-          "url": "https://finance.yahoo.com/technology/article/intel-ceo-lip-bu-tan-on-turnaround-efforts-amid-stock-slump-i-feel-called-to-do-this-191138450.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-12T19:11:38Z"
-        },
-        {
-          "title": "Intel CEO Lip-Bu Tan sees a 'healthy pullback' ahead in the AI boom",
-          "url": "https://finance.yahoo.com/video/intel-ceo-lip-bu-tan-sees-a-healthy-pullback-ahead-in-the-ai-boom-181136362.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-12T18:11:36Z"
-        },
-        {
-          "title": "Nvidia\u2019s Market Cap Continues to Slide",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/nvidia-s-market-cap-continues-to-slide-NPJDTzE5NpYFxp2GPkaR?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-11-12T21:28:07Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 71486.26,
-      "change_pct": -3.35
+      "price": 71520.28,
+      "change_pct": -3.3
     },
     {
       "label": "Gold",
-      "price": 3877.6,
-      "change_pct": -3.07
+      "price": 3878.6,
+      "change_pct": -3.05
     },
     {
       "label": "Nasdaq100",

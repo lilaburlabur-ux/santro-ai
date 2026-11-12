@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T13:24:30+00:00",
-  "as_of_local": "2026-11-12 13:24:30 UTC",
+  "as_of_utc": "2026-11-12T13:29:31+00:00",
+  "as_of_local": "2026-11-12 13:29:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CEVA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -211,6 +209,12 @@
       "market_cap": 188929907836.91406,
       "headlines": [
         {
+          "title": "Qualcomm CEO on SpaceX deal: 'It's a great partnership' that will drive 'innovation'",
+          "url": "https://finance.yahoo.com/video/qualcomm-ceo-on-spacex-deal-its-a-great-partnership-that-will-drive-innovation-132448818.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-12T13:24:48Z"
+        },
+        {
           "title": "Nvidia may oust Jensen Huang. The AI economy isn't ready",
           "url": "https://finance.yahoo.com/video/nvidia-may-oust-jensen-huang-120000795.html",
           "publisher": "Yahoo Finance Video",
@@ -221,12 +225,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-etfs-buy-qualcomm-plunges-105300424.html",
           "publisher": "Zacks",
           "published": "2026-11-12T10:53:00Z"
-        },
-        {
-          "title": "3 AI Stocks With Up To 30% Revenue Growth",
-          "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-30-revenue-081403000.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-12T08:14:03Z"
         }
       ]
     },
@@ -367,6 +365,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-fiscal-q1-earnings-snapshot-230715396.html",
           "publisher": "Associated Press",
           "published": "2026-11-05T23:07:15Z"
+        }
+      ]
+    },
+    {
+      "symbol": "CEVA",
+      "name": "CEVA",
+      "price": 26.94,
+      "previous_close": 24.45,
+      "change_pct": 10.18,
+      "market_cap": 768524776.795208,
+      "headlines": [
+        {
+          "title": "What Gave Agilysys Stock Its Edge Over Cadence?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/gave-agilysys-stock-edge-over-153915805.html",
+          "publisher": "Trefis",
+          "published": "2026-11-11T15:39:15Z"
+        },
+        {
+          "title": "CEVA, Inc. Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-inc-q3-2026-earnings-214428841.html",
+          "publisher": "Moby",
+          "published": "2026-11-09T21:44:28Z"
+        },
+        {
+          "title": "CEVA Inc (CEVA) Q3 2026 Earnings Call Highlights: Record AI Licensing and Highest-Ever Q4 ...",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ceva-inc-ceva-q3-2026-210723225.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-09T21:07:23Z"
         }
       ]
     }
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 72569.46,
-      "change_pct": -1.89
+      "price": 72521.56,
+      "change_pct": -1.95
     },
     {
       "label": "Gold",
-      "price": 3935.0,
-      "change_pct": -1.64
+      "price": 3931.0,
+      "change_pct": -1.74
     },
     {
       "label": "Nasdaq100",

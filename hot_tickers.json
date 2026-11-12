@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-12T05:19:27+00:00",
+  "as_of": "2026-11-12T08:01:31+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,27 +17,27 @@
    "volume_vs_avg": "~1.2x",
    "heat_score": 73,
    "direction": "up",
-   "why": "5-star analyst flags surprise Micron stock catalyst after CoreWeave rally",
+   "why": "Micron vs. Sandisk: The AI Memory Supercycle Is Big Enough for Both, but Here's the Better Buy.",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-flags-surprise-020300904.html",
-   "published": "2026-11-12T02:03:00+00:00",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-sandisk-ai-memory-052000319.html",
+   "published": "2026-11-12T05:20:00+00:00",
    "sector": "AI Chips & Compute"
   },
   {
    "rank": 2,
-   "ticker": "MRVL",
-   "company": "Marvell Technology Inc",
-   "move_pct": 9.33,
-   "price": 168.8,
-   "volume": 33639500,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 64,
+   "ticker": "PUBM",
+   "company": "PubMatic Inc",
+   "move_pct": 7.99,
+   "price": 18.31,
+   "volume": 882200,
+   "volume_vs_avg": "~1.5x",
+   "heat_score": 50,
    "direction": "up",
-   "why": "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?",
+   "why": "PubMatic: 3 Key Takeaways for Long-Term Investors",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-vs-marvell-035224771.html",
-   "published": "2026-11-12T03:52:24+00:00",
-   "sector": "AI Chips & Compute"
+   "source_url": "https://finance.yahoo.com/media-advertising/articles/pubmatic-3-key-takeaways-long-051151496.html",
+   "published": "2026-11-12T05:11:51+00:00",
+   "sector": "AI Applications & Data Software"
   },
   {
    "rank": 3,
@@ -57,6 +57,22 @@
   },
   {
    "rank": 4,
+   "ticker": "CBRS",
+   "company": "Cerebras Systems Inc",
+   "move_pct": 7.92,
+   "price": 101.08,
+   "volume": 9321400,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 47,
+   "direction": "up",
+   "why": "NVDA Fallout Pressures Tech Trade As Investors Turn To Cerebras, Applied Materials For Chip Demand Cues",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nvda-fallout-pressures-tech-trade-050603635.html",
+   "published": "2026-11-12T05:06:03+00:00",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 5,
    "ticker": "AMAT",
    "company": "Applied Materials Inc",
    "move_pct": 6.05,
@@ -65,10 +81,10 @@
    "volume_vs_avg": "~1.0x",
    "heat_score": 41,
    "direction": "up",
-   "why": "Dow, S&P 500, Nasdaq Futures Mixed As Tech Rebounds Despite Nvidia CEO Crisis: AMD, CSCO, AMAT In Focus",
+   "why": "NVDA Fallout Pressures Tech Trade As Investors Turn To Cerebras, Applied Materials For Chip Demand Cues",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-031512683.html",
-   "published": "2026-11-12T03:15:12+00:00",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nvda-fallout-pressures-tech-trade-050603635.html",
+   "published": "2026-11-12T05:06:03+00:00",
    "sector": "Chip Equipment & AI Hardware"
   }
  ]

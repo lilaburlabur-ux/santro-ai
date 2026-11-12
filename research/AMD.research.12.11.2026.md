@@ -4,8 +4,8 @@ Signed file: `AMD.research.12.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $583.18 (2026-11-12, ~15-min delayed) |
-| Market cap | $956.47B |
+| Current price | $585.30 (2026-11-12, ~15-min delayed) |
+| Market cap | $959.94B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `AMD.research.12.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +145.53%; price +38.29% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -10.20% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +146.42%; price +38.79% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -9.87% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 16.77%, revenue growth 44.70%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 32.97, EV/Sales 19.81. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 33.09, EV/Sales 19.81. |
 | Risk level | High | Beta 2.54, ATR 6.9% of price, short float 2.36%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
@@ -44,22 +44,22 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $583.18; 52w high $649.42 (-10.20%); 52w low $190.95 (+205.41%) |
-| Trend | +38.29% vs SMA200, +5.47% vs SMA50, +12.44% vs SMA20 |
-| Momentum | RSI(14) 57.2 (neutral) |
+| Price vs 52-week range | Close $585.30; 52w high $649.42 (-9.87%); 52w low $190.95 (+206.52%) |
+| Trend | +38.79% vs SMA200, +5.84% vs SMA50, +12.83% vs SMA20 |
+| Momentum | RSI(14) 57.5 (neutral) |
 | Volatility | ATR(14) 40.14 (~6.9% of price); beta 2.54 |
-| Setup perspective | -10.20% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -9.87% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +44.2% |
-| Month | +2.2% |
-| Quarter | +13.4% |
-| Half Y | +29.7% |
-| 1Y | +145.5% |
-| YTD | +161.0% |
+| Week | +44.7% |
+| Month | +2.5% |
+| Quarter | +13.8% |
+| Half Y | +30.2% |
+| 1Y | +146.4% |
+| YTD | +161.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Revenue (ttm) | $45.44B | Revenue growth 44.70% y/y |
 | Profitability | Gross 56.00%, operating 17.82%, net 16.77% | ROA 5.90%, ROE 11.96% |
 | Balance sheet | Cash $15.78B, debt $9.21B | Current ratio 2.73, debt/equity 13.47 |
-| Valuation | P/E 124.61, forward P/E 32.97, P/S 21.05, P/B 13.98 | EV/Sales 19.81, EV/EBITDA 80.79 |
+| Valuation | P/E 125.06, forward P/E 33.09, P/S 21.13, P/B 14.04 | EV/Sales 19.81, EV/EBITDA 80.79 |
 | Growth expectations | Earnings growth 93.80%, EPS q/q 95.30% | Analyst mean target $658.53 (48 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Morgan Stanley | 24,286,371 | 1.48% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 32.97, EV/Sales 19.81. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 33.09, EV/Sales 19.81. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.54, ATR 6.9% of price, short float 2.36%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,21 +111,21 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $583.18 | EV/Sales | 19.81 |
-| Market cap | $956.47B | EV/EBITDA | 80.79 |
+| Price | $585.30 | EV/Sales | 19.81 |
+| Market cap | $959.94B | EV/EBITDA | 80.79 |
 | Beta | 2.54 | Gross margin | 56.00% |
-| RSI(14) | 57.2 | Operating margin | 17.82% |
+| RSI(14) | 57.5 | Operating margin | 17.82% |
 | ATR(14) | 40.14 | Profit margin | 16.77% |
-| SMA20 dist | +12.44% | ROA | 5.90% |
-| SMA50 dist | +5.47% | ROE | 11.96% |
-| SMA200 dist | +38.29% | Revenue (ttm) | $45.44B |
+| SMA20 dist | +12.83% | ROA | 5.90% |
+| SMA50 dist | +5.84% | ROE | 11.96% |
+| SMA200 dist | +38.79% | Revenue (ttm) | $45.44B |
 | 52W high | $649.42 | Revenue growth y/y | 44.70% |
 | 52W low | $190.95 | Inst. ownership | 76.94% |
-| P/E (ttm) | 124.61 | Insider ownership | 0.42% |
-| Forward P/E | 32.97 | Short float | 2.36% |
+| P/E (ttm) | 125.06 | Insider ownership | 0.42% |
+| Forward P/E | 33.09 | Short float | 2.36% |
 | PEG (trailing) | 0.50 | Avg volume | 23,700,814 |
-| P/S | 21.05 | Employees | 31,000 |
-| P/B | 13.98 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/S | 21.13 | Employees | 31,000 |
+| P/B | 14.04 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

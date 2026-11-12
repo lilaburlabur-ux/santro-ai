@@ -4,8 +4,8 @@ Signed file: `ARM.research.12.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $199.48 (2026-11-12, ~15-min delayed) |
-| Market cap | $213.44B |
+| Current price | $199.78 (2026-11-12, ~15-min delayed) |
+| Market cap | $213.76B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: low (expensive), risk: high. |
@@ -15,10 +15,10 @@ Signed file: `ARM.research.12.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-14.17%) with negative half-year (-12.70%). |
-| Fresh setup quality | Poor / broken | -54.61% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-14.04%) with negative half-year (-12.57%). |
+| Fresh setup quality | Poor / broken | -54.54% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 17.13%, revenue growth 27.10%. |
-| Value attractiveness | Low (expensive) | Forward P/E 64.87, EV/Sales 39.25. |
+| Value attractiveness | Low (expensive) | Forward P/E 64.97, EV/Sales 39.25. |
 | Risk level | High | Beta 3.94, ATR 8.0% of price, short float 10.71%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: low (expensive), risk: high.
@@ -36,30 +36,30 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
+| Betting markets see a longtime Nvidia insider as the favorite to replace Jensen Huang, interim CEO Colette Kress is second | Fortune | 2026-11-12 |
 | Jensen Huang Is Out at Nvidia. Who Could Replace Him? | Barrons.com | 2026-11-12 |
 | Arm CEO: The World Is “Ready and Willing” to Build the Data Centers America Blocks | TIKR | 2026-11-12 |
 | Nvidia book author said there are only two real candidates to replace Jensen Huang | Investing.com | 2026-11-12 |
-| A $548 Million Reason to Watch Qualcomm Stock Here | Barchart | 2026-11-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $199.48; 52w high $439.46 (-54.61%); 52w low $104.55 (+90.80%) |
-| Trend | -14.17% vs SMA200, -19.95% vs SMA50, -3.81% vs SMA20 |
-| Momentum | RSI(14) 43.2 (neutral) |
+| Price vs 52-week range | Close $199.78; 52w high $439.46 (-54.54%); 52w low $104.55 (+91.09%) |
+| Trend | -14.04% vs SMA200, -19.83% vs SMA50, -3.67% vs SMA20 |
+| Momentum | RSI(14) 43.3 (neutral) |
 | Volatility | ATR(14) 15.99 (~8.0% of price); beta 3.94 |
-| Setup perspective | -54.61% from 52w high — base needs to rebuild. |
+| Setup perspective | -54.54% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +19.6% |
-| Month | -16.2% |
-| Quarter | -28.6% |
-| Half Y | -12.7% |
-| 1Y | +33.2% |
-| YTD | +73.9% |
+| Week | +19.8% |
+| Month | -16.1% |
+| Quarter | -28.5% |
+| Half Y | -12.6% |
+| 1Y | +33.4% |
+| YTD | +74.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Revenue (ttm) | $5.46B | Revenue growth 27.10% y/y |
 | Profitability | Gross 97.44%, operating 17.02%, net 17.13% | ROA 5.50%, ROE 11.35% |
 | Balance sheet | Cash $3.62B, debt $500.00M | Current ratio 6.35, debt/equity 5.50 |
-| Valuation | P/E 229.29, forward P/E 64.87, P/S 39.06, P/B 23.49 | EV/Sales 39.25, EV/EBITDA 190.19 |
+| Valuation | P/E 229.63, forward P/E 64.97, P/S 39.12, P/B 23.52 | EV/Sales 39.25, EV/EBITDA 190.19 |
 | Growth expectations | Earnings growth -45.50%, EPS q/q -45.40% | Analyst mean target $274.56 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Capital International Investors | 2,050,241 | 0.19% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 64.87, EV/Sales 39.25. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 64.97, EV/Sales 39.25. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 3.94, ATR 8.0% of price, short float 10.71%. Size positions accordingly.
 - **Short interest risk:** short float 10.71% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,21 +113,21 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $199.48 | EV/Sales | 39.25 |
-| Market cap | $213.44B | EV/EBITDA | 190.19 |
+| Price | $199.78 | EV/Sales | 39.25 |
+| Market cap | $213.76B | EV/EBITDA | 190.19 |
 | Beta | 3.94 | Gross margin | 97.44% |
-| RSI(14) | 43.2 | Operating margin | 17.02% |
+| RSI(14) | 43.3 | Operating margin | 17.02% |
 | ATR(14) | 15.99 | Profit margin | 17.13% |
-| SMA20 dist | -3.81% | ROA | 5.50% |
-| SMA50 dist | -19.95% | ROE | 11.35% |
-| SMA200 dist | -14.17% | Revenue (ttm) | $5.46B |
+| SMA20 dist | -3.67% | ROA | 5.50% |
+| SMA50 dist | -19.83% | ROE | 11.35% |
+| SMA200 dist | -14.04% | Revenue (ttm) | $5.46B |
 | 52W high | $439.46 | Revenue growth y/y | 27.10% |
 | 52W low | $104.55 | Inst. ownership | 96.01% |
-| P/E (ttm) | 229.29 | Insider ownership | 0.07% |
-| Forward P/E | 64.87 | Short float | 10.71% |
+| P/E (ttm) | 229.63 | Insider ownership | 0.07% |
+| Forward P/E | 64.97 | Short float | 10.71% |
 | PEG (trailing) | 1.68 | Avg volume | 5,200,539 |
-| P/S | 39.06 | Employees | 9,584 |
-| P/B | 23.49 | Analyst rec (1=buy..5=sell) | 1.9 |
+| P/S | 39.12 | Employees | 9,584 |
+| P/B | 23.52 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

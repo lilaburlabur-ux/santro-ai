@@ -4,8 +4,8 @@ Signed file: `MU.research.12.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $794.30 (2026-11-12, ~15-min delayed) |
-| Market cap | $898.68B |
+| Current price | $798.44 (2026-11-12, ~15-min delayed) |
+| Market cap | $903.37B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `MU.research.12.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +229.81%; price +4.01% vs SMA200. |
-| Fresh setup quality | Poor / broken | -34.53% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +231.53%; price +4.55% vs SMA200. |
+| Fresh setup quality | Poor / broken | -34.19% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 63.80%, revenue growth 379.30%. |
-| Value attractiveness | Reasonable | Forward P/E 3.82, EV/Sales 6.61. |
+| Value attractiveness | Reasonable | Forward P/E 3.84, EV/Sales 6.61. |
 | Risk level | High | Beta 2.40, ATR 7.5% of price, short float 2.07%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -36,30 +36,30 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 
 | Headline | Source | Date |
 |---|---|---|
+| CoreWeave Says Its AI Demand Is 10 Times Its Capacity Through 2027. I Think Micron Stock Is Still Worth Buying. | Motley Fool | 2026-11-12 |
 | Sandisk Stocks Slide 7.83% as NVIDIA Exit Hits Storage a Week Before 8-for-1 Split | GuruFocus.com | 2026-11-12 |
 | You Don’t Need Nvidia to Beat the S&P 500. These ETFs Prove It. | Barrons.com | 2026-11-12 |
 | Micron, Other Memory Chip Stocks Fall on Nvidia Shakeup. Why They’re at Risk. | Barrons.com | 2026-11-12 |
-| Micron Stocks Fall 3.24% as NVIDIA Exit Tests Memory Rally After 11.9% Jump | GuruFocus.com | 2026-11-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $794.30; 52w high $1,213.18 (-34.53%); 52w low $201.14 (+294.90%) |
-| Trend | +4.01% vs SMA200, -16.14% vs SMA50, -5.76% vs SMA20 |
-| Momentum | RSI(14) 43.8 (neutral) |
+| Price vs 52-week range | Close $798.44; 52w high $1,213.18 (-34.19%); 52w low $201.14 (+296.95%) |
+| Trend | +4.55% vs SMA200, -15.71% vs SMA50, -5.29% vs SMA20 |
+| Momentum | RSI(14) 44.1 (neutral) |
 | Volatility | ATR(14) 59.79 (~7.5% of price); beta 2.40 |
-| Setup perspective | -34.53% from 52w high — base needs to rebuild. |
+| Setup perspective | -34.19% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +21.0% |
-| Month | -13.1% |
-| Quarter | -18.2% |
-| Half Y | +2.4% |
-| 1Y | +229.8% |
-| YTD | +152.0% |
+| Week | +21.6% |
+| Month | -12.7% |
+| Quarter | -17.8% |
+| Half Y | +2.9% |
+| 1Y | +231.5% |
+| YTD | +153.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 | Revenue (ttm) | $133.19B | Revenue growth 379.30% y/y |
 | Profitability | Gross 80.72%, operating 74.59%, net 63.80% | ROA 44.56%, ROE 88.26% |
 | Balance sheet | Cash $43.43B, debt $5.18B | Current ratio 3.31, debt/equity 3.74 |
-| Valuation | P/E 10.69, forward P/E 3.82, P/S 6.75, P/B 6.49 | EV/Sales 6.61, EV/EBITDA 8.08 |
+| Valuation | P/E 10.74, forward P/E 3.84, P/S 6.78, P/B 6.53 | EV/Sales 6.61, EV/EBITDA 8.08 |
 | Growth expectations | Earnings growth 1059.50%, EPS q/q 1077.80% | Analyst mean target $1,561.91 (45 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,21 +111,21 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $794.30 | EV/Sales | 6.61 |
-| Market cap | $898.68B | EV/EBITDA | 8.08 |
+| Price | $798.44 | EV/Sales | 6.61 |
+| Market cap | $903.37B | EV/EBITDA | 8.08 |
 | Beta | 2.40 | Gross margin | 80.72% |
-| RSI(14) | 43.8 | Operating margin | 74.59% |
+| RSI(14) | 44.1 | Operating margin | 74.59% |
 | ATR(14) | 59.79 | Profit margin | 63.80% |
-| SMA20 dist | -5.76% | ROA | 44.56% |
-| SMA50 dist | -16.14% | ROE | 88.26% |
-| SMA200 dist | +4.01% | Revenue (ttm) | $133.19B |
+| SMA20 dist | -5.29% | ROA | 44.56% |
+| SMA50 dist | -15.71% | ROE | 88.26% |
+| SMA200 dist | +4.55% | Revenue (ttm) | $133.19B |
 | 52W high | $1,213.18 | Revenue growth y/y | 379.30% |
 | 52W low | $201.14 | Inst. ownership | 81.21% |
-| P/E (ttm) | 10.69 | Insider ownership | 0.23% |
-| Forward P/E | 3.82 | Short float | 2.07% |
+| P/E (ttm) | 10.74 | Insider ownership | 0.23% |
+| Forward P/E | 3.84 | Short float | 2.07% |
 | PEG (trailing) | 0.16 | Avg volume | 27,823,323 |
-| P/S | 6.75 | Employees | 61,000 |
-| P/B | 6.49 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/S | 6.78 | Employees | 61,000 |
+| P/B | 6.53 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

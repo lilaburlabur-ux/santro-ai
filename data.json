@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-12T09:47:44+00:00",
-  "as_of_local": "2026-11-12 09:47:44 UTC",
+  "as_of_utc": "2026-11-12T09:52:42+00:00",
+  "as_of_local": "2026-11-12 09:52:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-11-11T22:18:15Z"
         },
         {
-          "title": "Nvidia board weighs CEO Huang's future as leadership crisis deepens",
-          "url": "https://finance.yahoo.com/news/nvidia-preparing-oust-ceo-jensen-223546395.html",
-          "publisher": "Reuters",
-          "published": "2026-11-12T09:38:41Z"
+          "title": "Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pressure-mounts-nvidias-jensen-huang-094718571.html",
+          "publisher": "decrypt",
+          "published": "2026-11-12T09:47:18Z"
         }
       ]
     },
@@ -153,6 +155,12 @@
       "market_cap": 332187500000.0,
       "headlines": [
         {
+          "title": "Nasdaq futures fall as Nvidia turmoil rattles AI stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-fall-nvidia-turmoil-093910045.html",
+          "publisher": "Reuters",
+          "published": "2026-11-12T09:39:10Z"
+        },
+        {
           "title": "Intel's CEO Bought $9.7 Million of Stock Right After It Plunged 29%. I'm Not Ready to Follow Him In.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/intels-ceo-bought-9-7-082402006.html",
           "publisher": "Motley Fool",
@@ -163,40 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intc-baba-shares-slide-over-080446999.html",
           "publisher": "Stocktwits",
           "published": "2026-11-12T08:04:46Z"
-        },
-        {
-          "title": "What Happens to Nvidia Stock if Jensen Huang Is Fired? History Has a Warning",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/happens-nvidia-stock-jensen-huang-061548927.html",
-          "publisher": "BeInCrypto",
-          "published": "2026-11-12T06:15:48Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 203.36,
-      "previous_close": 181.49,
-      "change_pct": 12.05,
-      "market_cap": 217595200653.07617,
-      "headlines": [
-        {
-          "title": "Chip Stocks Rally After Slide. These Names Are Leading The Charge Higher.",
-          "url": "https://www.investors.com/news/technology/chip-stocks-rally-amd-txn-arm-mtsi-mu/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-11T21:36:38Z"
-        },
-        {
-          "title": "Analysts Just Slashed Their Price Targets on These 5 Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-just-slashed-price-targets-175854284.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-11T17:58:54Z"
-        },
-        {
-          "title": "AMD Rises 4% as CoreWeave\u2019s Raised Outlook Revives the AI Chip Trade",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-rises-4-coreweave-raised-150051550.html",
-          "publisher": "TIKR",
-          "published": "2026-11-11T15:00:51Z"
         }
       ]
     },
@@ -237,6 +211,12 @@
       "market_cap": 151880483627.46756,
       "headlines": [
         {
+          "title": "Nasdaq futures fall as Nvidia turmoil rattles AI stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-fall-nvidia-turmoil-093910045.html",
+          "publisher": "Reuters",
+          "published": "2026-11-12T09:39:10Z"
+        },
+        {
           "title": "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?",
           "url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-vs-marvell-035224771.html",
           "publisher": "Motley Fool",
@@ -247,12 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/much-could-lose-credo-stock-011225986.html",
           "publisher": "Trefis",
           "published": "2026-11-12T01:12:25Z"
-        },
-        {
-          "title": "Jensen Huang\u2019s Shattered Credibility",
-          "url": "https://www.barrons.com/articles/jensen-huangs-nvidia-shattered-credibility-460e1448?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-11T22:46:00Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 73355.89,
-      "change_pct": -0.82
+      "price": 73346.8,
+      "change_pct": -0.84
     },
     {
       "label": "Gold",
-      "price": 3943.7,
-      "change_pct": -1.42
+      "price": 3946.3,
+      "change_pct": -1.35
     },
     {
       "label": "Nasdaq100",

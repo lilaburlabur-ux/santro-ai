@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-12T07:25:30+00:00",
-  "as_of_local": "2026-11-12 07:25:30 UTC",
+  "as_of_utc": "2026-11-12T07:30:43+00:00",
+  "as_of_local": "2026-11-12 07:30:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -75,16 +77,16 @@
           "published": "2026-11-12T07:15:00Z"
         },
         {
+          "title": "Nvidia\u2019s Leadership Crisis Weighs on Asian Markets",
+          "url": "https://www.wsj.com/finance/stocks/nvidias-leadership-crisis-weighs-on-asian-markets-040b6d87?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-12T06:46:00Z"
+        },
+        {
           "title": "Nvidia faces governance risks; watch these 2 chip stocks for buy opportunities",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-faces-governance-risks-watch-061429709.html",
           "publisher": "Investing.com",
           "published": "2026-11-12T06:14:29Z"
-        },
-        {
-          "title": "NVDA Fallout Pressures Tech Trade As Investors Turn To Cerebras, Applied Materials For Chip Demand Cues",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-fallout-pressures-tech-trade-050603635.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-12T05:06:03Z"
         }
       ]
     },
@@ -137,10 +139,10 @@
           "published": "2026-11-12T07:15:00Z"
         },
         {
-          "title": "Nvidia faces governance risks; watch these 2 chip stocks for buy opportunities",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-faces-governance-risks-watch-061429709.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-12T06:14:29Z"
+          "title": "Nvidia\u2019s Leadership Crisis Weighs on Asian Markets",
+          "url": "https://www.wsj.com/finance/stocks/nvidias-leadership-crisis-weighs-on-asian-markets-040b6d87?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-12T06:46:00Z"
         }
       ]
     },
@@ -253,34 +255,6 @@
           "url": "https://www.barrons.com/articles/jensen-huangs-nvidia-shattered-credibility-460e1448?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-11T22:46:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 269.51,
-      "previous_close": 261.56,
-      "change_pct": 3.04,
-      "market_cap": 67930803257.33496,
-      "headlines": [
-        {
-          "title": "Why Did NXP Semiconductors (NXPI) Climb After Its Latest Update?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-nxp-semiconductors-nxpi-051507897.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-12T05:15:07Z"
-        },
-        {
-          "title": "NXP Semiconductors (NXPI) Stock Appears Fully Valued After Its 42% Run",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-stock-appears-043143908.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-12T04:31:43Z"
-        },
-        {
-          "title": "How Robotics Platform Launch Will Impact NXP Stock Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/robotics-platform-launch-impact-nxp-021643976.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-12T02:16:43Z"
         }
       ]
     },
@@ -445,8 +419,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 13.69,
+          "price": 977.69,
           "currency": "USD"
         },
         {
@@ -535,8 +509,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 13.69,
+        "price": 977.69,
         "currency": "USD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 73426.2,
-      "change_pct": -0.73
+      "price": 73500.67,
+      "change_pct": -0.63
     },
     {
       "label": "Gold",
-      "price": 3966.0,
-      "change_pct": -0.86
+      "price": 3969.5,
+      "change_pct": -0.77
     },
     {
       "label": "Nasdaq100",

@@ -18,7 +18,7 @@ Signed file: `MRVL.research.12.11.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 27.93%, revenue growth 36.50%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 22.97, EV/Sales 15.80. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 22.97, EV/Sales 15.81. |
 | Risk level | High | Beta 2.33, ATR nan% of price, short float 3.48%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
@@ -68,7 +68,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $9.45B | Revenue growth 36.50% y/y |
 | Profitability | Gross 52.22%, operating 16.81%, net 27.93% | ROA 4.12%, ROE 16.52% |
 | Balance sheet | Cash $3.93B, debt $5.29B | Current ratio 3.17, debt/equity 28.52 |
-| Valuation | P/E 55.53, forward P/E 22.97, P/S 16.07, P/B 7.99 | EV/Sales 15.80, EV/EBITDA 52.39 |
+| Valuation | P/E 55.53, forward P/E 22.97, P/S 16.07, P/B 7.99 | EV/Sales 15.81, EV/EBITDA 52.41 |
 | Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $310.94 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | JPMORGAN CHASE & CO | 13,891,628 | 1.58% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 22.97, EV/Sales 15.80. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 22.97, EV/Sales 15.81. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.33, ATR nan% of price, short float 3.48%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,8 +111,8 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 15.80 |
-| Market cap | $151.88B | EV/EBITDA | 52.39 |
+| Price | $nan | EV/Sales | 15.81 |
+| Market cap | $151.88B | EV/EBITDA | 52.41 |
 | Beta | 2.33 | Gross margin | 52.22% |
 | RSI(14) | 32.1 | Operating margin | 16.81% |
 | ATR(14) | 17.41 | Profit margin | 27.93% |

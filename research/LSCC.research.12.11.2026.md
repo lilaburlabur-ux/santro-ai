@@ -18,7 +18,7 @@ Signed file: `LSCC.research.12.11.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 5.53%, revenue growth 118.30%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 27.97, EV/Sales 22.58. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 27.97, EV/Sales 22.57. |
 | Risk level | Elevated | Beta 1.91, ATR nan% of price, short float 9.26%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
@@ -68,7 +68,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Revenue (ttm) | $808.80M | Revenue growth 118.30% y/y |
 | Profitability | Gross 69.49%, operating 13.09%, net 5.53% | ROA 3.83%, ROE 4.21% |
 | Balance sheet | Cash $128.28M, debt $925.31M | Current ratio 1.92, debt/equity 65.29 |
-| Valuation | P/E 396.03, forward P/E 27.97, P/S 21.59, P/B 12.31 | EV/Sales 22.58, EV/EBITDA 115.23 |
+| Valuation | P/E 396.03, forward P/E 27.97, P/S 21.59, P/B 12.31 | EV/Sales 22.57, EV/EBITDA 115.21 |
 | Growth expectations | Earnings growth 297.80%, EPS q/q 301.10% | Analyst mean target $156.19 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Geode Capital Management, LLC | 3,398,079 | 2.39% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 27.97, EV/Sales 22.58. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 27.97, EV/Sales 22.57. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.91, ATR nan% of price, short float 9.26%. Size positions accordingly.
 - **Short interest risk:** short float 9.26% can fuel squeezes both ways around news.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -112,8 +112,8 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 22.58 |
-| Market cap | $17.46B | EV/EBITDA | 115.23 |
+| Price | $nan | EV/Sales | 22.57 |
+| Market cap | $17.46B | EV/EBITDA | 115.21 |
 | Beta | 1.91 | Gross margin | 69.49% |
 | RSI(14) | 52.2 | Operating margin | 13.09% |
 | ATR(14) | 7.57 | Profit margin | 5.53% |

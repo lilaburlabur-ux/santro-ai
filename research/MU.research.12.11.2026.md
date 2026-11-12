@@ -37,9 +37,9 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 | Headline | Source | Date |
 |---|---|---|
 | AI Trade bounces back, Kalshi possibly facing charges, OpenAI continues to see heavy losses | Yahoo Finance Video | 2026-11-11 |
+| 5-star analyst flags surprise Micron stock catalyst after CoreWeave rally | TheStreet | 2026-11-12 |
 | 3 Growth Stocks With Earnings Growth Over 20% | Simply Wall St. | 2026-11-12 |
 | Q3 Earnings Results Reconfirm Broad-Based Strength as Outlook Improves | Zacks | 2026-11-11 |
-| Stock Market Today, Nov. 11: Stock Market Today, Nov. 11: Nasdaq Surges as CoreWeave's 25% Rally Reignites the AI Trade | Motley Fool | 2026-11-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

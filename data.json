@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T23:12:51+00:00",
-  "as_of_local": "2026-11-12 23:12:51 UTC",
+  "as_of_utc": "2026-11-12T23:18:24+00:00",
+  "as_of_local": "2026-11-12 23:18:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -59,6 +57,34 @@
           "url": "https://finance.yahoo.com/video/ranking-nvidia-taiwan-semiconductor-other-192643942.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-12T19:26:43Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 364.36,
+      "previous_close": 345.22,
+      "change_pct": 5.54,
+      "market_cap": 1739319707685.1812,
+      "headlines": [
+        {
+          "title": "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
+          "url": "https://finance.yahoo.com/markets/article/amd-broadcom-stocks-jump-as-nvidia-ceo-jensen-huang-resigns-143725561.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-12T13:39:10Z"
+        },
+        {
+          "title": "Stock Market Today, Nov. 12: Nvidia CEO's Stunning Exit Sends Wall Street Lower as Rivals Surge",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-12-224502390.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-12T22:45:02Z"
+        },
+        {
+          "title": "Wall Street ends lower as Nvidia CEO resigns; US yields up",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-fragile-nvidia-plummets-015524144.html",
+          "publisher": "Reuters",
+          "published": "2026-11-12T22:37:32Z"
         }
       ]
     },
@@ -295,6 +321,12 @@
       "market_cap": 6141173443.569031,
       "headlines": [
         {
+          "title": "GrabAGun Digital Holdings Inc. (PEW) Reports Q3 Loss, Misses Revenue Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/grabagun-digital-holdings-inc-pew-220505597.html",
+          "publisher": "Zacks",
+          "published": "2026-11-12T22:05:05Z"
+        },
+        {
           "title": "Defense Tech: Investors and Operators, 6th Palm Beach CorpGov Forum",
           "url": "https://finance.yahoo.com/technology/articles/defense-tech-investors-operators-6th-181202789.html",
           "publisher": "CorpGov.com",
@@ -305,12 +337,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ondas-retreats-5-despite-record-145746832.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-12T14:57:46Z"
-        },
-        {
-          "title": "Should Major Defense Orders Require Action From AeroVironment (AVAV) Investors?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/major-defense-orders-require-action-181054193.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-11T18:10:54Z"
         }
       ]
     },
@@ -559,12 +585,12 @@
     },
     {
       "label": "BTC",
-      "price": 71388.9,
-      "change_pct": -3.48
+      "price": 71338.25,
+      "change_pct": -3.55
     },
     {
       "label": "Gold",
-      "price": 3881.9,
+      "price": 3882.1,
       "change_pct": -2.96
     },
     {

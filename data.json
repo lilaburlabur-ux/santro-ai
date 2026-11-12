@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-12T08:31:24+00:00",
-  "as_of_local": "2026-11-12 08:31:24 UTC",
+  "as_of_utc": "2026-11-12T08:36:30+00:00",
+  "as_of_local": "2026-11-12 08:36:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 173.73,
+      "previous_close": 168.89,
+      "change_pct": 2.87,
+      "market_cap": 4195058206832.8857,
+      "headlines": [
+        {
+          "title": "Who is Nvidia executive Kimberly Powell?",
+          "url": "https://finance.yahoo.com/markets/stocks/article/who-is-nvidia-executive-kimberly-powell-231652963.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-11T23:16:52Z"
+        },
+        {
+          "title": "Nvidia reportedly preparing to oust CEO Huang after alleged affairs with spy, Nvidia exec",
+          "url": "https://finance.yahoo.com/technology/article/nvidia-reportedly-preparing-to-oust-ceo-huang-after-alleged-affairs-with-spy-nvidia-exec-231315876.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-11T22:18:15Z"
+        },
+        {
+          "title": "Anthropic's Mythos claim may put Nvidia\u2019s CUDA moat in a vulnerable spot",
+          "url": "https://finance.yahoo.com/video/anthropics-mythos-claim-may-put-nvidias-cuda-moat-in-a-vulnerable-spot-214346380.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-11T21:43:46Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -18,7 +44,7 @@
           "title": "Asian stocks drop as traders keep eye on Nvidia crisis",
           "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-extend-gains-traders-025559054.html",
           "publisher": "AFP",
-          "published": "2026-11-12T07:13:07Z"
+          "published": "2026-11-12T08:29:25Z"
         },
         {
           "title": "Dell Technologies vs. Taiwan Semiconductor: Which Technology Stock Is a Better Buy for 2027?",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 73432.83,
-      "change_pct": -0.72
+      "price": 73442.15,
+      "change_pct": -0.71
     },
     {
       "label": "Gold",
-      "price": 3960.0,
-      "change_pct": -1.01
+      "price": 3955.4,
+      "change_pct": -1.13
     },
     {
       "label": "Nasdaq100",

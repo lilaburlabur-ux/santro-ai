@@ -15,7 +15,7 @@ Signed file: `SYNA.research.12.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +73.51%; price +13.11% vs SMA200. |
+| Technical momentum | High | 1Y +73.50%; price +13.11% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -20.17% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-40.70%). |
 | Value attractiveness | Reasonable | Forward P/E 18.11, EV/Sales 4.33. |
@@ -44,8 +44,8 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $117.81; 52w high $147.57 (-20.17%); 52w low $58.52 (+101.32%) |
-| Trend | +13.11% vs SMA200, +7.36% vs SMA50, +0.30% vs SMA20 |
+| Price vs 52-week range | Close $117.81; 52w high $147.57 (-20.17%); 52w low $58.52 (+101.31%) |
+| Trend | +13.11% vs SMA200, +7.36% vs SMA50, +0.29% vs SMA20 |
 | Momentum | RSI(14) 60.9 (neutral) |
 | Volatility | ATR(14) 1.51 (~1.3% of price); beta 2.02 |
 | Setup perspective | -20.17% from 52w high; no clean fresh pivot by default. |
@@ -56,7 +56,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 |---|---|
 | Week | +1.2% |
 | Month | +0.4% |
-| Quarter | +8.5% |
+| Quarter | +8.4% |
 | Half Y | -9.2% |
 | 1Y | +73.5% |
 | YTD | +55.5% |
@@ -117,7 +117,7 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Beta | 2.02 | Gross margin | 45.98% |
 | RSI(14) | 60.9 | Operating margin | -2.90% |
 | ATR(14) | 1.51 | Profit margin | -40.70% |
-| SMA20 dist | +0.30% | ROA | -0.94% |
+| SMA20 dist | +0.29% | ROA | -0.94% |
 | SMA50 dist | +7.36% | ROE | -42.09% |
 | SMA200 dist | +13.11% | Revenue (ttm) | $1.20B |
 | 52W high | $147.57 | Revenue growth y/y | 0.50% |

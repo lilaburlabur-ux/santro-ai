@@ -15,7 +15,7 @@
 | NXPI | $67.37B | +34% | 14.6 | 23% | Moderate | Reasonable | Elevated |
 | LSCC | $16.90B | +80% | 27.1 | 6% | High | Fair-to-demanding | High |
 | SYNA | $4.69B | +74% | 18.1 | -41% | High | Reasonable | High |
-| CEVA | $750.84M | +1% | 35.0 | -9% | Low | Low (expensive) | High |
+| CEVA | $750.84M | +1% | 34.8 | -9% | Low | Fair-to-demanding | High |
 | AVAV | $6.14B | -63% | 27.4 | -10% | Low | Fair-to-demanding | High |
 
 14 reports generated; failed: none.

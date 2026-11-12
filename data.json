@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T21:16:05+00:00",
-  "as_of_local": "2026-11-12 21:16:05 UTC",
+  "as_of_utc": "2026-11-12T21:21:34+00:00",
+  "as_of_local": "2026-11-12 21:21:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -115,6 +113,34 @@
           "url": "https://finance.yahoo.com/video/amd-ceo-dr-lisa-su-reflects-on-her-biggest-lessons-of-2026-153656562.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-12T15:36:56Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 798.44,
+      "previous_close": 811.3,
+      "change_pct": -1.59,
+      "market_cap": 903373552151.5437,
+      "headlines": [
+        {
+          "title": "CoreWeave Says Its AI Demand Is 10 Times Its Capacity Through 2027. I Think Micron Stock Is Still Worth Buying.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-says-ai-demand-10-205702001.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-12T20:57:02Z"
+        },
+        {
+          "title": "Sandisk Stocks Slide 7.83% as NVIDIA Exit Hits Storage a Week Before 8-for-1 Split",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stocks-slide-7-83-194401943.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-12T19:44:01Z"
+        },
+        {
+          "title": "You Don\u2019t Need Nvidia to Beat the S&P 500. These ETFs Prove It.",
+          "url": "https://www.barrons.com/articles/etfs-beating-sp500-without-nvidia-stock-97ea9f52?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-12T18:21:00Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -1.59,
+          "price": 798.44,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -1.59,
+        "price": 798.44,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 71451.56,
-      "change_pct": -3.4
+      "price": 71467.13,
+      "change_pct": -3.38
     },
     {
       "label": "Gold",
-      "price": 3879.5,
-      "change_pct": -3.02
+      "price": 3877.9,
+      "change_pct": -3.06
     },
     {
       "label": "Nasdaq100",

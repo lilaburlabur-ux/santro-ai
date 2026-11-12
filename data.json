@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T12:44:04+00:00",
-  "as_of_local": "2026-11-12 12:44:04 UTC",
+  "as_of_utc": "2026-11-12T12:45:51+00:00",
+  "as_of_local": "2026-11-12 12:45:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -227,6 +225,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-30-revenue-081403000.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-12T08:14:03Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 168.8,
+      "previous_close": 154.39,
+      "change_pct": 9.33,
+      "market_cap": 151880483627.46756,
+      "headlines": [
+        {
+          "title": "Nasdaq, S&P 500 futures fall as Nvidia turbulence unsettles AI stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-fall-nvidia-turmoil-093910045.html",
+          "publisher": "Reuters",
+          "published": "2026-11-12T12:26:00Z"
+        },
+        {
+          "title": "What Does The Anthropic IPO Mean For Broadcom Stock?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/does-anthropic-ipo-mean-broadcom-120221781.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T12:02:21Z"
+        },
+        {
+          "title": "Nvidia, Dell, Super Micro, Sandisk, and More Stocks That Explain Today\u2019s Market",
+          "url": "https://www.barrons.com/articles/stock-movers-cd2d0ebf?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-12T11:43:00Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 72793.41,
+      "price": 72797.29,
       "change_pct": -1.58
     },
     {
       "label": "Gold",
-      "price": 3943.1,
-      "change_pct": -1.43
+      "price": 3943.8,
+      "change_pct": -1.42
     },
     {
       "label": "Nasdaq100",

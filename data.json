@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-12T09:22:23+00:00",
-  "as_of_local": "2026-11-12 09:22:23 UTC",
+  "as_of_utc": "2026-11-12T09:27:23+00:00",
+  "as_of_local": "2026-11-12 09:27:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "NXPI"
+    "SYNA"
   ],
   "stocks": [
     {
@@ -259,6 +259,34 @@
       ]
     },
     {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors",
+      "price": 269.51,
+      "previous_close": 261.56,
+      "change_pct": 3.04,
+      "market_cap": 67930803257.33496,
+      "headlines": [
+        {
+          "title": "Why Did NXP Semiconductors (NXPI) Climb After Its Latest Update?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-nxp-semiconductors-nxpi-051507897.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-12T05:15:07Z"
+        },
+        {
+          "title": "NXP Semiconductors (NXPI) Stock Appears Fully Valued After Its 42% Run",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-stock-appears-043143908.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-12T04:31:43Z"
+        },
+        {
+          "title": "How Robotics Platform Launch Will Impact NXP Stock Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/robotics-platform-launch-impact-nxp-021643976.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-12T02:16:43Z"
+        }
+      ]
+    },
+    {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
       "price": 122.77,
@@ -311,34 +339,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/avav-secures-405m-international-order-153404370.html",
           "publisher": "Stocktwits",
           "published": "2026-11-11T15:34:04Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 117.86,
-      "previous_close": 117.7,
-      "change_pct": 0.14,
-      "market_cap": 4682402920.008362,
-      "headlines": [
-        {
-          "title": "SYNA Q1 Earnings Beat Estimates, Revenues Miss on Weak Demand",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/syna-q1-earnings-beat-estimates-152400592.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T15:24:00Z"
-        },
-        {
-          "title": "Synaptics (SYNA) Tops Q1 Earnings Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-tops-q1-earnings-000013395.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T00:00:13Z"
-        },
-        {
-          "title": "Synaptics: Fiscal Q1 Earnings Snapshot",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-fiscal-q1-earnings-snapshot-230715396.html",
-          "publisher": "Associated Press",
-          "published": "2026-11-05T23:07:15Z"
         }
       ]
     },
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 73175.03,
-      "change_pct": -1.07
+      "price": 73348.27,
+      "change_pct": -0.83
     },
     {
       "label": "Gold",
-      "price": 3936.6,
-      "change_pct": -1.6
+      "price": 3930.3,
+      "change_pct": -1.75
     },
     {
       "label": "Nasdaq100",

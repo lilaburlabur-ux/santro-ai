@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-12T10:36:51+00:00",
-  "as_of_local": "2026-11-12 10:36:51 UTC",
+  "as_of_utc": "2026-11-12T10:41:54+00:00",
+  "as_of_local": "2026-11-12 10:41:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 173.73,
+      "previous_close": 168.89,
+      "change_pct": 2.87,
+      "market_cap": 4195058206832.8857,
+      "headlines": [
+        {
+          "title": "Who is Nvidia executive Kimberly Powell?",
+          "url": "https://finance.yahoo.com/markets/stocks/article/who-is-nvidia-executive-kimberly-powell-231652963.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-11T23:16:52Z"
+        },
+        {
+          "title": "NVDA Turmoil Weighs On Nasdaq Futures \u2014 INTC, BABA, NBIS, ONDS In Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-turmoil-weighs-nasdaq-futures-102755297.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-12T10:27:55Z"
+        },
+        {
+          "title": "Forget Nvidia CEO Jensen Huang's Affair Scandal -- There Are Far Bigger Issues With the AI Trade",
+          "url": "https://finance.yahoo.com/technology/ai/articles/forget-nvidia-ceo-jensen-huangs-102602178.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-12T10:26:02Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -127,6 +153,12 @@
       "market_cap": 332187500000.0,
       "headlines": [
         {
+          "title": "NVDA Turmoil Weighs On Nasdaq Futures \u2014 INTC, BABA, NBIS, ONDS In Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-turmoil-weighs-nasdaq-futures-102755297.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-12T10:27:55Z"
+        },
+        {
           "title": "Nasdaq futures fall as Nvidia turmoil rattles AI stocks",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-fall-nvidia-turmoil-093910045.html",
           "publisher": "Reuters",
@@ -137,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intels-ceo-bought-9-7-082402006.html",
           "publisher": "Motley Fool",
           "published": "2026-11-12T08:24:02Z"
-        },
-        {
-          "title": "INTC, BABA Shares Slide Over Links To Firm Tied To Suspected Chinese Spy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intc-baba-shares-slide-over-080446999.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-12T08:04:46Z"
         }
       ]
     },
@@ -217,16 +243,16 @@
           "published": "2026-11-12T09:39:10Z"
         },
         {
+          "title": "U.S., Europe chip stocks dip as Nvidia board reportedly weighs ousting Huang",
+          "url": "https://finance.yahoo.com/technology/ai/articles/china-chip-stocks-rally-u-063831379.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-12T06:38:31Z"
+        },
+        {
           "title": "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?",
           "url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-vs-marvell-035224771.html",
           "publisher": "Motley Fool",
           "published": "2026-11-12T03:52:24Z"
-        },
-        {
-          "title": "How Much Could You Lose In Credo Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/much-could-lose-credo-stock-011225986.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T01:12:25Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 73499.81,
-      "change_pct": -0.63
+      "price": 73432.24,
+      "change_pct": -0.72
     },
     {
       "label": "Gold",
-      "price": 3954.0,
-      "change_pct": -1.16
+      "price": 3953.1,
+      "change_pct": -1.18
     },
     {
       "label": "Nasdaq100",

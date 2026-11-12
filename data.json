@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-11-12T01:24:55+00:00",
-  "as_of_local": "2026-11-12 01:24:55 UTC",
+  "as_of_utc": "2026-11-12T01:30:07+00:00",
+  "as_of_local": "2026-11-12 01:30:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 168.89,
-      "previous_close": 178.67,
-      "change_pct": -5.47,
-      "market_cap": 4195058309999.9995,
-      "headlines": [
-        {
-          "title": "Who is Nvidia executive Kimberly Powell?",
-          "url": "https://finance.yahoo.com/markets/stocks/article/who-is-nvidia-executive-kimberly-powell-231652963.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-11T23:16:52Z"
-        },
-        {
-          "title": "Nvidia reportedly preparing to oust CEO Huang after alleged affairs with spy, Nvidia exec",
-          "url": "https://finance.yahoo.com/technology/article/nvidia-reportedly-preparing-to-oust-ceo-huang-after-alleged-affairs-with-spy-nvidia-exec-231315876.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-11T22:18:15Z"
-        },
-        {
-          "title": "Anthropic's Mythos claim may put Nvidia\u2019s CUDA moat in a vulnerable spot",
-          "url": "https://finance.yahoo.com/video/anthropics-mythos-claim-may-put-nvidias-cuda-moat-in-a-vulnerable-spot-214346380.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-11T21:43:46Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -0.51,
-          "price": 1270500.0,
+          "change_pct": -0.55,
+          "price": 1270000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 1.94,
-          "price": 210000.0,
+          "change_pct": 1.46,
+          "price": 209000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 2.23,
-          "price": 9784.0,
+          "change_pct": 2.24,
+          "price": 9785.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 3.17,
-          "price": 406.5,
+          "change_pct": 4.44,
+          "price": 411.5,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 0.0,
-          "price": 136.5,
+          "change_pct": 1.1,
+          "price": 138.0,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -0.51,
-        "price": 1270500.0,
+        "change_pct": -0.55,
+        "price": 1270000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 1.94,
-        "price": 210000.0,
+        "change_pct": 1.46,
+        "price": 209000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 2.23,
-        "price": 9784.0,
+        "change_pct": 2.24,
+        "price": 9785.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 3.17,
-        "price": 406.5,
+        "change_pct": 4.44,
+        "price": 411.5,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 0.0,
-        "price": 136.5,
+        "change_pct": 1.1,
+        "price": 138.0,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 73583.79,
-      "change_pct": -0.18
+      "price": 73540.58,
+      "change_pct": -0.24
     },
     {
       "label": "Gold",
-      "price": 4003.3,
-      "change_pct": -0.67
+      "price": 4004.4,
+      "change_pct": -0.64
     },
     {
       "label": "Nasdaq100",

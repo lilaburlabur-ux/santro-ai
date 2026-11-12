@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T21:51:32+00:00",
-  "as_of_local": "2026-11-12 21:51:32 UTC",
+  "as_of_utc": "2026-11-12T21:56:54+00:00",
+  "as_of_local": "2026-11-12 21:56:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -143,6 +141,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stocks-slide-7-83-194401943.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-12T19:44:01Z"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 61.2,
+      "previous_close": 62.5,
+      "change_pct": -2.08,
+      "market_cap": 325278004055.0232,
+      "headlines": [
+        {
+          "title": "Intel CEO Lip-Bu Tan on turnaround efforts amid stock slump: 'I feel called to do this'",
+          "url": "https://finance.yahoo.com/technology/article/intel-ceo-lip-bu-tan-on-turnaround-efforts-amid-stock-slump-i-feel-called-to-do-this-191138450.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-12T19:11:38Z"
+        },
+        {
+          "title": "Intel CEO Lip-Bu Tan sees a 'healthy pullback' ahead in the AI boom",
+          "url": "https://finance.yahoo.com/video/intel-ceo-lip-bu-tan-sees-a-healthy-pullback-ahead-in-the-ai-boom-181136362.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-12T18:11:36Z"
+        },
+        {
+          "title": "Nvidia\u2019s Market Cap Continues to Slide",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/nvidia-s-market-cap-continues-to-slide-NPJDTzE5NpYFxp2GPkaR?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-12T21:28:07Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 71520.28,
-      "change_pct": -3.3
+      "price": 71480.87,
+      "change_pct": -3.36
     },
     {
       "label": "Gold",
-      "price": 3878.6,
-      "change_pct": -3.05
+      "price": 3881.7,
+      "change_pct": -2.97
     },
     {
       "label": "Nasdaq100",

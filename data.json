@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-12T09:17:18+00:00",
-  "as_of_local": "2026-11-12 09:17:18 UTC",
+  "as_of_utc": "2026-11-12T09:22:23+00:00",
+  "as_of_local": "2026-11-12 09:22:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-11-11T22:18:15Z"
         },
         {
-          "title": "European tech shares fall as Nvidia board weighs ousting Jensen Huang",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-shares-fall-reports-board-075137690.html",
-          "publisher": "Euronews",
-          "published": "2026-11-12T09:00:07Z"
+          "title": "NVDA Stock Rout: Another Analyst Slashes Rating, Beijing Warns US Against Tech Curbs",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-rout-another-analyst-091625222.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-12T09:16:25Z"
         }
       ]
     },
@@ -253,34 +255,6 @@
           "url": "https://www.barrons.com/articles/jensen-huangs-nvidia-shattered-credibility-460e1448?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-11T22:46:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 269.51,
-      "previous_close": 261.56,
-      "change_pct": 3.04,
-      "market_cap": 67930803257.33496,
-      "headlines": [
-        {
-          "title": "Why Did NXP Semiconductors (NXPI) Climb After Its Latest Update?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-nxp-semiconductors-nxpi-051507897.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-12T05:15:07Z"
-        },
-        {
-          "title": "NXP Semiconductors (NXPI) Stock Appears Fully Valued After Its 42% Run",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-stock-appears-043143908.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-12T04:31:43Z"
-        },
-        {
-          "title": "How Robotics Platform Launch Will Impact NXP Stock Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/robotics-platform-launch-impact-nxp-021643976.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-12T02:16:43Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 73286.99,
-      "change_pct": -0.92
+      "price": 73175.03,
+      "change_pct": -1.07
     },
     {
       "label": "Gold",
-      "price": 3935.2,
-      "change_pct": -1.63
+      "price": 3936.6,
+      "change_pct": -1.6
     },
     {
       "label": "Nasdaq100",

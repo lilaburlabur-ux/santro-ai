@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-11-12T08:26:28+00:00",
-  "as_of_local": "2026-11-12 08:26:28 UTC",
+  "as_of_utc": "2026-11-12T08:31:24+00:00",
+  "as_of_local": "2026-11-12 08:31:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 173.73,
-      "previous_close": 168.89,
-      "change_pct": 2.87,
-      "market_cap": 4195058206832.8857,
-      "headlines": [
-        {
-          "title": "Who is Nvidia executive Kimberly Powell?",
-          "url": "https://finance.yahoo.com/markets/stocks/article/who-is-nvidia-executive-kimberly-powell-231652963.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-11T23:16:52Z"
-        },
-        {
-          "title": "Nvidia reportedly preparing to oust CEO Huang after alleged affairs with spy, Nvidia exec",
-          "url": "https://finance.yahoo.com/technology/article/nvidia-reportedly-preparing-to-oust-ceo-huang-after-alleged-affairs-with-spy-nvidia-exec-231315876.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-11T22:18:15Z"
-        },
-        {
-          "title": "Anthropic's Mythos claim may put Nvidia\u2019s CUDA moat in a vulnerable spot",
-          "url": "https://finance.yahoo.com/video/anthropics-mythos-claim-may-put-nvidias-cuda-moat-in-a-vulnerable-spot-214346380.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-11T21:43:46Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -69,6 +43,12 @@
       "market_cap": 1647952507822.4849,
       "headlines": [
         {
+          "title": "The Chip Stock Rebound Is Just Getting Started",
+          "url": "https://www.barrons.com/articles/chip-stocks-price-earnings-rebound-b41917d4?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-12T08:00:00Z"
+        },
+        {
           "title": "Nvidia board meets to decide CEO Huang's future as leadership crisis deepens",
           "url": "https://finance.yahoo.com/news/nvidia-preparing-oust-ceo-jensen-223546395.html",
           "publisher": "Reuters",
@@ -79,12 +59,6 @@
           "url": "https://www.wsj.com/finance/stocks/nvidias-leadership-crisis-weighs-on-asian-markets-040b6d87?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-11-12T06:46:00Z"
-        },
-        {
-          "title": "Nvidia faces governance risks; watch these 2 chip stocks for buy opportunities",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-faces-governance-risks-watch-061429709.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-12T06:14:29Z"
         }
       ]
     },
@@ -153,6 +127,12 @@
       "market_cap": 332187500000.0,
       "headlines": [
         {
+          "title": "Intel's CEO Bought $9.7 Million of Stock Right After It Plunged 29%. I'm Not Ready to Follow Him In.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intels-ceo-bought-9-7-082402006.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-12T08:24:02Z"
+        },
+        {
           "title": "INTC, BABA Shares Slide Over Links To Firm Tied To Suspected Chinese Spy",
           "url": "https://finance.yahoo.com/markets/stocks/articles/intc-baba-shares-slide-over-080446999.html",
           "publisher": "Stocktwits",
@@ -163,12 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/happens-nvidia-stock-jensen-huang-061548927.html",
           "publisher": "BeInCrypto",
           "published": "2026-11-12T06:15:48Z"
-        },
-        {
-          "title": "NVDA Fallout Pressures Tech Trade As Investors Turn To Cerebras, Applied Materials For Chip Demand Cues",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-fallout-pressures-tech-trade-050603635.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-12T05:06:03Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 73469.08,
-      "change_pct": -0.67
+      "price": 73432.83,
+      "change_pct": -0.72
     },
     {
       "label": "Gold",
-      "price": 3963.4,
-      "change_pct": -0.93
+      "price": 3960.0,
+      "change_pct": -1.01
     },
     {
       "label": "Nasdaq100",

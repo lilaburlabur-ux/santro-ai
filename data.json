@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-12T22:32:23+00:00",
-  "as_of_local": "2026-11-12 22:32:23 UTC",
+  "as_of_utc": "2026-11-12T22:37:14+00:00",
+  "as_of_local": "2026-11-12 22:37:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -41,6 +43,12 @@
       "market_cap": 2103062883687.9097,
       "headlines": [
         {
+          "title": "Prediction: $500 a Month Invested in Taiwan Semiconductor Manufacturing Will Be Worth This Much by 2030",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-500-month-invested-taiwan-222000367.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-12T22:20:00Z"
+        },
+        {
           "title": "Ranking NVIDIA, Taiwan Semiconductor And Other AI Compute Stocks",
           "url": "https://finance.yahoo.com/video/ranking-nvidia-taiwan-semiconductor-other-192643942.html",
           "publisher": "24/7 Wall St.",
@@ -51,12 +59,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-fall-2-21-180251979.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-12T18:02:51Z"
-        },
-        {
-          "title": "Microsoft Stocks Edge Higher as Anthropic Ties Deepen Despite Spreadsheet Rivalry",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-edge-higher-anthropic-180145730.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-12T18:01:45Z"
         }
       ]
     },
@@ -75,44 +77,16 @@
           "published": "2026-11-12T13:39:10Z"
         },
         {
+          "title": "Stock Market Today, Nov. 12: Nvidia Shares Slide on Reports of CEO Jensen Huang's Resignation",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-12-221840920.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-12T22:18:40Z"
+        },
+        {
           "title": "The Bank of Nvidia just lost its banker \u2014 here's where the AI trade is exposed",
           "url": "https://finance.yahoo.com/markets/article/the-bank-of-nvidia-just-lost-its-banker--heres-where-the-ai-trade-is-exposed-215638010.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-12T15:31:42Z"
-        },
-        {
-          "title": "You Don\u2019t Need Nvidia to Beat the S&P 500. These ETFs Prove It.",
-          "url": "https://www.barrons.com/articles/etfs-beating-sp500-without-nvidia-stock-97ea9f52?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-12T21:28:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 585.3,
-      "previous_close": 552.9,
-      "change_pct": 5.86,
-      "market_cap": 959943047989.7036,
-      "headlines": [
-        {
-          "title": "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
-          "url": "https://finance.yahoo.com/markets/article/amd-broadcom-stocks-jump-as-nvidia-ceo-jensen-huang-resigns-143725561.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-12T13:39:10Z"
-        },
-        {
-          "title": "AMD CEO Lisa Su on data center backlash: Tech has to sell the vision",
-          "url": "https://finance.yahoo.com/technology/article/amd-ceo-lisa-su-on-data-center-backlash-tech-has-to-sell-the-vision-162604989.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-12T16:26:04Z"
-        },
-        {
-          "title": "AMD CEO Dr. Lisa Su reflects on her biggest lessons of 2026",
-          "url": "https://finance.yahoo.com/video/amd-ceo-dr-lisa-su-reflects-on-her-biggest-lessons-of-2026-153656562.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-12T15:36:56Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 71395.16,
-      "change_pct": -3.47
+      "price": 71312.45,
+      "change_pct": -3.59
     },
     {
       "label": "Gold",

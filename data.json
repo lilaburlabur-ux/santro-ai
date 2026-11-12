@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-12T13:04:07+00:00",
-  "as_of_local": "2026-11-12 13:04:07 UTC",
+  "as_of_utc": "2026-11-12T13:09:13+00:00",
+  "as_of_local": "2026-11-12 13:09:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 1647952507822.4849,
       "headlines": [
         {
+          "title": "Bernstein Just Gave Up on Nvidia, Cutting Its Target in Half to $200",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-just-gave-nvidia-cutting-130507570.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-12T13:05:07Z"
+        },
+        {
           "title": "Amazon Stock At $266: How Much Of Its Profit Is Anthropic?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-266-much-profit-120222001.html",
           "publisher": "Trefis",
@@ -77,12 +83,6 @@
         {
           "title": "AMD Stock: What Does Its $2.5 Billion Anthropic Bet Buy?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-does-2-5-120221503.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T12:02:21Z"
-        },
-        {
-          "title": "What Does The Anthropic IPO Mean For Broadcom Stock?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/does-anthropic-ipo-mean-broadcom-120221781.html",
           "publisher": "Trefis",
           "published": "2026-11-12T12:02:21Z"
         }
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -3.68,
-          "price": 379.5,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "TWD"
         },
         {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -3.68,
-        "price": 379.5,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "TWD"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 72786.99,
-      "change_pct": -1.59
+      "price": 72647.4,
+      "change_pct": -1.78
     },
     {
       "label": "Gold",
-      "price": 3941.4,
-      "change_pct": -1.48
+      "price": 3942.3,
+      "change_pct": -1.45
     },
     {
       "label": "Nasdaq100",

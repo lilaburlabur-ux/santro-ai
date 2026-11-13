@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-13T03:12:49+00:00",
-  "as_of_local": "2026-11-13 03:12:49 UTC",
+  "as_of_utc": "2026-11-13T03:28:01+00:00",
+  "as_of_local": "2026-11-13 03:28:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -143,6 +141,34 @@
           "url": "https://www.barrons.com/articles/micron-memory-chip-stocks-nvidia-shakeup-adf6b711?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-12T22:24:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 61.2,
+      "previous_close": 62.5,
+      "change_pct": -2.08,
+      "market_cap": 325278004055.0232,
+      "headlines": [
+        {
+          "title": "Intel CEO Lip-Bu Tan on turnaround efforts amid stock slump: 'I feel called to do this'",
+          "url": "https://finance.yahoo.com/technology/article/intel-ceo-lip-bu-tan-on-turnaround-efforts-amid-stock-slump-i-feel-called-to-do-this-191138450.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-12T19:11:38Z"
+        },
+        {
+          "title": "Intel CEO Lip-Bu Tan sees a 'healthy pullback' ahead in the AI boom",
+          "url": "https://finance.yahoo.com/video/intel-ceo-lip-bu-tan-sees-a-healthy-pullback-ahead-in-the-ai-boom-181136362.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-12T18:11:36Z"
+        },
+        {
+          "title": "Adobe And 2 More Undervalued Tech Stocks To Watch",
+          "url": "https://finance.yahoo.com/technology/articles/adobe-2-more-undervalued-tech-021250861.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T02:12:50Z"
         }
       ]
     },
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 0.32,
-          "price": 1258000.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.96,
-          "price": 210000.0,
+          "change_pct": 1.32,
+          "price": 210750.0,
           "currency": "KRW"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 1.32,
-          "price": 384.5,
+          "change_pct": 1.05,
+          "price": 383.5,
           "currency": "TWD"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 0.32,
-        "price": 1258000.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.96,
-        "price": 210000.0,
+        "change_pct": 1.32,
+        "price": 210750.0,
         "currency": "KRW"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 1.32,
-        "price": 384.5,
+        "change_pct": 1.05,
+        "price": 383.5,
         "currency": "TWD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 69940.68,
-      "change_pct": -5.44
+      "price": 69214.15,
+      "change_pct": -6.42
     },
     {
       "label": "Gold",
-      "price": 3923.2,
-      "change_pct": -1.93
+      "price": 3918.0,
+      "change_pct": -2.06
     },
     {
       "label": "Nasdaq100",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-13T11:59:06+00:00",
-  "as_of_local": "2026-11-13 11:59:06 UTC",
+  "as_of_utc": "2026-11-13T12:04:06+00:00",
+  "as_of_local": "2026-11-13 12:04:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,14 +21,14 @@
           "published": "2026-11-13T11:01:51Z"
         },
         {
-          "title": "The Nvidia scandal has hidden upside potential for the AI trade",
-          "url": "https://finance.yahoo.com/technology/article/the-nvidia-scandal-has-hidden-upside-potential-for-the-ai-trade-110000575.html",
+          "title": "Jensen Huang scandal trail leads to Alibaba, the king of free Chinese AI: Chart of the Day",
+          "url": "https://finance.yahoo.com/markets/article/jensen-huang-scandal-trail-leads-to-alibaba-the-king-of-free-chinese-ai-chart-of-the-day-110000329.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-13T11:00:00Z"
         },
         {
-          "title": "Jensen Huang scandal trail leads to Alibaba, the king of free Chinese AI: Chart of the Day",
-          "url": "https://finance.yahoo.com/markets/article/jensen-huang-scandal-trail-leads-to-alibaba-the-king-of-free-chinese-ai-chart-of-the-day-110000329.html",
+          "title": "The Nvidia scandal has hidden upside potential for the AI trade",
+          "url": "https://finance.yahoo.com/technology/article/the-nvidia-scandal-has-hidden-upside-potential-for-the-ai-trade-110000575.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-13T11:00:00Z"
         }
@@ -61,34 +63,6 @@
       ]
     },
     {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 364.36,
-      "previous_close": 345.22,
-      "change_pct": 5.54,
-      "market_cap": 1739319707685.1812,
-      "headlines": [
-        {
-          "title": "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
-          "url": "https://finance.yahoo.com/markets/article/amd-broadcom-stocks-jump-as-nvidia-ceo-jensen-huang-resigns-143725561.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-12T13:39:10Z"
-        },
-        {
-          "title": "Michael Burry Sends Stark Warning on Chip Stocks After Huang's exit",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-sends-stark-warning-114111188.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-13T11:41:11Z"
-        },
-        {
-          "title": "AI Chips Update - Micron Highlights AI Leadership At Investor Events",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-micron-highlights-ai-113737988.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T11:37:37Z"
-        }
-      ]
-    },
-    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 585.3,
@@ -103,10 +77,10 @@
           "published": "2026-11-12T13:39:10Z"
         },
         {
-          "title": "Dow Jones Futures Rise After Market Weathers Nvidia CEO Huang's Exit, Surging Yields",
+          "title": "Dow Jones Futures Rise, Yields Up Again; Nvidia Climbs After Tumbling On CEO Huang's Exit",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-ceo-huang-exit-surging-yields-spacex-tesla-merger-deal/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-13T11:45:45Z"
+          "published": "2026-11-13T11:59:13Z"
         },
         {
           "title": "Nvidia Stock Sees Record Opening-Hour Buying as Investors 'Buy the Dip'",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 69272.35,
-      "change_pct": -2.9
+      "price": 69347.39,
+      "change_pct": -2.8
     },
     {
       "label": "Gold",
-      "price": 3896.4,
-      "change_pct": 0.29
+      "price": 3898.7,
+      "change_pct": 0.34
     },
     {
       "label": "Nasdaq100",

@@ -4,24 +4,24 @@ Signed file: `ARM.research.13.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-13, ~15-min delayed) |
-| Market cap | $213.76B |
+| Current price | $190.29 (2026-11-13, ~15-min delayed) |
+| Market cap | $203.61B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: low (expensive), risk: high. |
+| Current stance | Low technical momentum, strong fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-13.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-18.27%) with negative half-year (-9.02%). |
+| Fresh setup quality | Poor / broken | -56.70% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 17.13%, revenue growth 27.10%. |
-| Value attractiveness | Low (expensive) | Forward P/E 64.97, EV/Sales 38.55. |
-| Risk level | High | Beta 3.94, ATR nan% of price, short float 10.71%. |
+| Value attractiveness | Low (expensive) | Forward P/E 61.88, EV/Sales 34.97. |
+| Risk level | High | Beta 3.94, ATR 8.5% of price, short float 10.71%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: low (expensive), risk: high.
+**Bottom line:** Low technical momentum, strong fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
-| Who could replace the departed Jensen Huang as Nvidia CEO? | The Guardian | 2026-11-13 |
-| 3 Robotics Stocks To Own In November 2026 | Simply Wall St. | 2026-11-12 |
-| Arm Is Up 77% Even As Profit Fell | Simply Wall St. | 2026-11-12 |
-| Betting markets see a longtime Nvidia insider as the favorite to replace Jensen Huang, interim CEO Colette Kress is second | Fortune | 2026-11-12 |
+| Tom Lee Says Jensen Huang's Return Would Be ‘Shocking’: Trump Reportedly Urged Him To Fight For His Job | Stocktwits | 2026-11-13 |
+| Nvidia Stock Falls. It Faces One Big Threat in Life After Jensen. | Barrons.com | 2026-11-13 |
+| ARM Stock Gains 4% Since Q2 Earnings: Is it a Buy or Hold Now? | Zacks | 2026-11-13 |
+| Arm shares slide as Nvidia succession search puts CEO Rene Haas in spotlight | Investing.com | 2026-11-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $439.46 (+nan%); 52w low $104.55 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 44.4 (neutral) |
-| Volatility | ATR(14) 16.08 (~nan% of price); beta 3.94 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $190.29; 52w high $439.46 (-56.70%); 52w low $104.55 (+82.01%) |
+| Trend | -18.27% vs SMA200, -23.31% vs SMA50, -7.41% vs SMA20 |
+| Momentum | RSI(14) 40.5 (neutral) |
+| Volatility | ATR(14) 16.22 (~8.5% of price); beta 3.94 |
+| Setup perspective | -56.70% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +9.0% |
+| Month | -22.3% |
+| Quarter | -29.9% |
+| Half Y | -9.0% |
+| 1Y | +27.9% |
+| YTD | +65.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,8 +68,8 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Revenue (ttm) | $5.46B | Revenue growth 27.10% y/y |
 | Profitability | Gross 97.44%, operating 17.02%, net 17.13% | ROA 5.50%, ROE 11.35% |
 | Balance sheet | Cash $3.62B, debt $500.00M | Current ratio 6.35, debt/equity 5.50 |
-| Valuation | P/E 229.63, forward P/E 64.97, P/S 39.12, P/B 23.52 | EV/Sales 38.55, EV/EBITDA 186.79 |
-| Growth expectations | Earnings growth -45.50%, EPS q/q -45.40% | Analyst mean target $274.56 (40 analysts) |
+| Valuation | P/E 218.72, forward P/E 61.88, P/S 37.26, P/B 22.41 | EV/Sales 34.97, EV/EBITDA 169.44 |
+| Growth expectations | Earnings growth -45.50%, EPS q/q -45.40% | Analyst mean target $272.43 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -87,17 +87,18 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Dz Bank Ag Deutsche Zentral Genossenschafts Bank, Frankfurt Am Main | 6,504,147 | 0.61% | 2026-06-30 |
 | Capital World Investors | 4,330,875 | 0.41% | 2026-06-30 |
 | Arrowstreet Capital, Limited Partnership | 4,094,696 | 0.38% | 2026-06-30 |
+| FMR, LLC | 4,062,977 | 0.38% | 2026-06-30 |
 | Goldman Sachs Group Inc | 2,922,908 | 0.27% | 2026-06-30 |
 | Van Eck Associates Corporation | 2,600,597 | 0.24% | 2026-06-30 |
 | Capital Research Global Investors | 2,401,422 | 0.22% | 2026-06-30 |
 | Morgan Stanley | 2,158,428 | 0.20% | 2026-06-30 |
-| FMR, LLC | 2,178,123 | 0.20% | 2026-09-30 |
 | Capital International Investors | 2,050,241 | 0.19% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 64.97, EV/Sales 38.55. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 3.94, ATR nan% of price, short float 10.71%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 61.88, EV/Sales 34.97. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 3.94, ATR 8.5% of price, short float 10.71%. Size positions accordingly.
 - **Short interest risk:** short float 10.71% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -112,21 +113,21 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 38.55 |
-| Market cap | $213.76B | EV/EBITDA | 186.79 |
+| Price | $190.29 | EV/Sales | 34.97 |
+| Market cap | $203.61B | EV/EBITDA | 169.44 |
 | Beta | 3.94 | Gross margin | 97.44% |
-| RSI(14) | 44.4 | Operating margin | 17.02% |
-| ATR(14) | 16.08 | Profit margin | 17.13% |
-| SMA20 dist | +nan% | ROA | 5.50% |
-| SMA50 dist | +nan% | ROE | 11.35% |
-| SMA200 dist | +nan% | Revenue (ttm) | $5.46B |
+| RSI(14) | 40.5 | Operating margin | 17.02% |
+| ATR(14) | 16.22 | Profit margin | 17.13% |
+| SMA20 dist | -7.41% | ROA | 5.50% |
+| SMA50 dist | -23.31% | ROE | 11.35% |
+| SMA200 dist | -18.27% | Revenue (ttm) | $5.46B |
 | 52W high | $439.46 | Revenue growth y/y | 27.10% |
 | 52W low | $104.55 | Inst. ownership | 96.01% |
-| P/E (ttm) | 229.63 | Insider ownership | 0.07% |
-| Forward P/E | 64.97 | Short float | 10.71% |
-| PEG (trailing) | 1.68 | Avg volume | 5,201,029 |
-| P/S | 39.12 | Employees | 9,584 |
-| P/B | 23.52 | Analyst rec (1=buy..5=sell) | 1.9 |
+| P/E (ttm) | 218.72 | Insider ownership | 0.07% |
+| Forward P/E | 61.88 | Short float | 10.71% |
+| PEG (trailing) | 1.64 | Avg volume | 5,187,757 |
+| P/S | 37.26 | Employees | 9,584 |
+| P/B | 22.41 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -141,7 +142,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | 2026-07-31 | main | Rosenblatt | Buy → Buy |
 
 ## 9. Conclusion
-ARM: Moderate momentum / strong fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+ARM: Low momentum / strong fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

@@ -4,24 +4,24 @@ Signed file: `NVDA.research.13.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-13, ~15-min delayed) |
-| Market cap | $4.01T |
+| Current price | $162.61 (2026-11-13, ~15-min delayed) |
+| Market cap | $3.93T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
+| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-13.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-20.26%) with negative half-year (-27.67%). |
+| Fresh setup quality | Poor / broken | -32.03% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 63.66%, revenue growth 105.90%. |
-| Value attractiveness | Reasonable | Forward P/E 10.49, EV/Sales 13.14. |
-| Risk level | High | Beta 2.25, ATR nan% of price, short float 1.21%. |
+| Value attractiveness | Reasonable | Forward P/E 10.27, EV/Sales 13.36. |
+| Risk level | High | Beta 2.25, ATR 6.1% of price, short float 1.21%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
+**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia market cap plunges $490 billion following former CEO Huang's affair scandals | Yahoo Finance | 2026-11-12 |
-| How Nvidia's stock decline might impact your 401(k) and portfolio | Yahoo Finance Video | 2026-11-12 |
-| Alleged spy at center of Nvidia CEO affair reportedly being probed over Super Micro smuggling effort | Yahoo Finance | 2026-11-12 |
-| Cathie Wood: After Huang, AI push isn’t ‘going to stop’ | Yahoo Finance Video | 2026-11-12 |
+| Cisco CEO on trusting Nvidia chips after Jensen Huang's exit: 'Absolutely' | Yahoo Finance Video | 2026-11-13 |
+| Why Nvidia’s leadership shift could reshape its competitive edge | Yahoo Finance Video | 2026-11-13 |
+| How Nvidia's stock decline could impact your 401(k) and portfolio | Yahoo Finance | 2026-11-13 |
+| Nvidia co-founder Chris Malachowsky is seen as a potential successor to Huang | Yahoo Finance | 2026-11-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $239.24 (+nan%); 52w low $164.79 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 28.7 (oversold) |
-| Volatility | ATR(14) 8.70 (~nan% of price); beta 2.25 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $162.61; 52w high $239.24 (-32.03%); 52w low $162.61 (+0.00%) |
+| Trend | -20.26% vs SMA200, -24.24% vs SMA50, -18.15% vs SMA20 |
+| Momentum | RSI(14) 24.8 (oversold) |
+| Volatility | ATR(14) 9.98 (~6.1% of price); beta 2.25 |
+| Setup perspective | -32.03% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -12.9% |
+| Month | -25.1% |
+| Quarter | -27.7% |
+| Half Y | -27.7% |
+| 1Y | -15.9% |
+| YTD | -13.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,8 +68,8 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $302.97B | Revenue growth 105.90% y/y |
 | Profitability | Gross 74.67%, operating 65.21%, net 63.66% | ROA 53.57%, ROE 117.21% |
 | Balance sheet | Cash $62.47B, debt $38.86B | Current ratio 4.59, debt/equity 16.97 |
-| Valuation | P/E 21.01, forward P/E 10.49, P/S 13.25, P/B 17.53 | EV/Sales 13.14, EV/EBITDA 19.78 |
-| Growth expectations | Earnings growth 127.80%, EPS q/q 125.90% | Analyst mean target $309.72 (56 analysts) |
+| Valuation | P/E 20.56, forward P/E 10.27, P/S 12.96, P/B 17.15 | EV/Sales 13.36, EV/EBITDA 20.11 |
+| Growth expectations | Earnings growth 127.80%, EPS q/q 125.90% | Analyst mean target $285.35 (53 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -85,17 +85,18 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 |---|---|---|---|
 | Blackrock Inc. | 1,941,918,386 | 8.06% | 2026-06-30 |
 | Vanguard Capital Management LLC | 1,540,816,358 | 6.39% | 2026-06-30 |
-| State Street Corporation | 1,009,783,437 | 4.19% | 2026-06-30 |
+| State Street Corporation | 1,025,075,347 | 4.25% | 2026-09-30 |
 | FMR, LLC | 932,807,820 | 3.87% | 2026-09-30 |
 | Geode Capital Management, LLC | 613,740,577 | 2.55% | 2026-09-30 |
 | Vanguard Portfolio Management LLC | 517,816,949 | 2.15% | 2026-06-30 |
-| JPMORGAN CHASE & CO | 449,404,578 | 1.86% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 462,163,595 | 1.92% | 2026-09-30 |
 | Price (T.Rowe) Associates Inc | 369,829,781 | 1.53% | 2026-06-30 |
 | Morgan Stanley | 356,420,089 | 1.48% | 2026-06-30 |
-| Invesco Ltd. | 329,593,488 | 1.37% | 2026-06-30 |
+| NORGES BANK | 325,951,734 | 1.35% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.25, ATR nan% of price, short float 1.21%. Size positions accordingly.
+- **Volatility risk:** Beta 2.25, ATR 6.1% of price, short float 1.21%. Size positions accordingly.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,21 +111,21 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 13.14 |
-| Market cap | $4.01T | EV/EBITDA | 19.78 |
+| Price | $162.61 | EV/Sales | 13.36 |
+| Market cap | $3.93T | EV/EBITDA | 20.11 |
 | Beta | 2.25 | Gross margin | 74.67% |
-| RSI(14) | 28.7 | Operating margin | 65.21% |
-| ATR(14) | 8.70 | Profit margin | 63.66% |
-| SMA20 dist | +nan% | ROA | 53.57% |
-| SMA50 dist | +nan% | ROE | 117.21% |
-| SMA200 dist | +nan% | Revenue (ttm) | $302.97B |
+| RSI(14) | 24.8 | Operating margin | 65.21% |
+| ATR(14) | 9.98 | Profit margin | 63.66% |
+| SMA20 dist | -18.15% | ROA | 53.57% |
+| SMA50 dist | -24.24% | ROE | 117.21% |
+| SMA200 dist | -20.26% | Revenue (ttm) | $302.97B |
 | 52W high | $239.24 | Revenue growth y/y | 105.90% |
-| 52W low | $164.79 | Inst. ownership | 71.38% |
-| P/E (ttm) | 21.01 | Insider ownership | 4.01% |
-| Forward P/E | 10.49 | Short float | 1.21% |
-| PEG (trailing) | 0.21 | Avg volume | 131,494,356 |
-| P/S | 13.25 | Employees | 42,000 |
-| P/B | 17.53 | Analyst rec (1=buy..5=sell) | 1.4 |
+| 52W low | $162.61 | Inst. ownership | 71.38% |
+| P/E (ttm) | 20.56 | Insider ownership | 4.01% |
+| Forward P/E | 10.27 | Short float | 1.21% |
+| PEG (trailing) | 0.20 | Avg volume | 141,555,634 |
+| P/S | 12.96 | Employees | 42,000 |
+| P/B | 17.15 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -139,7 +140,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | 2026-11-12 | main | Citigroup | Buy → Buy |
 
 ## 9. Conclusion
-NVDA: Moderate momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+NVDA: Low momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

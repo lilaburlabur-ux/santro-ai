@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-13T08:40:55+00:00",
-  "as_of_local": "2026-11-13 08:40:55 UTC",
+  "as_of_utc": "2026-11-13T08:42:18+00:00",
+  "as_of_local": "2026-11-13 08:42:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "CEVA"
+    "MU"
   ],
   "stocks": [
     {
@@ -115,34 +115,6 @@
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-ceo-huang-exit-surging-yields-spacex-tesla-merger-deal/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-13T03:56:41Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 798.44,
-      "previous_close": 811.3,
-      "change_pct": -1.59,
-      "market_cap": 903373552151.5437,
-      "headlines": [
-        {
-          "title": "How AI Memory Demand At Micron Stock Has Changed Its Investment Story",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-memory-demand-micron-stock-081121346.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T08:11:21Z"
-        },
-        {
-          "title": "Zacks Earnings Trends Highlights: Micron, Nvidia and Alphabet",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-earnings-trends-highlights-micron-065300710.html",
-          "publisher": "Zacks",
-          "published": "2026-11-13T06:53:00Z"
-        },
-        {
-          "title": "5 Best Growth Stocks for the Next 5 Years",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-growth-stocks-next-231119066.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-12T23:11:19Z"
         }
       ]
     },
@@ -369,6 +341,34 @@
           "published": "2026-11-05T23:07:15Z"
         }
       ]
+    },
+    {
+      "symbol": "CEVA",
+      "name": "CEVA",
+      "price": 26.32,
+      "previous_close": 26.94,
+      "change_pct": -2.3,
+      "market_cap": 750837842.9741669,
+      "headlines": [
+        {
+          "title": "What Gave Agilysys Stock Its Edge Over Cadence?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/gave-agilysys-stock-edge-over-153915805.html",
+          "publisher": "Trefis",
+          "published": "2026-11-11T15:39:15Z"
+        },
+        {
+          "title": "CEVA, Inc. Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-inc-q3-2026-earnings-214428841.html",
+          "publisher": "Moby",
+          "published": "2026-11-09T21:44:28Z"
+        },
+        {
+          "title": "CEVA Inc (CEVA) Q3 2026 Earnings Call Highlights: Record AI Licensing and Highest-Ever Q4 ...",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ceva-inc-ceva-q3-2026-210723225.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-09T21:07:23Z"
+        }
+      ]
     }
   ],
   "etfs": [
@@ -383,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -1.59,
-          "price": 798.44,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -473,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -1.59,
-        "price": 798.44,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 68747.13,
-      "change_pct": -3.64
+      "price": 68812.1,
+      "change_pct": -3.55
     },
     {
       "label": "Gold",
-      "price": 3898.7,
-      "change_pct": 0.34
+      "price": 3897.2,
+      "change_pct": 0.31
     },
     {
       "label": "Nasdaq100",

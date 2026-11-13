@@ -37,9 +37,9 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Headline | Source | Date |
 |---|---|---|
 | Intel CEO on company's turnaround, foundry bets, and the AI boom | Yahoo Finance Video | 2026-11-13 |
+| Intel CEO’s warning offers a 2027 signal for Micron investors | TheStreet | 2026-11-13 |
 | Nvidia stock slips as investors digest CEO exit, broader chip sell-off accelerates | Yahoo Finance | 2026-11-13 |
 | AMD or Intel: 1 Chip Stock Is the Clear Winner | Motley Fool | 2026-11-13 |
-| Intel Stocks Fall 4.55% as Nvidia Shake-Up Clouds Its $5 Billion Partner Bet | GuruFocus.com | 2026-11-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -85,14 +85,14 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 |---|---|---|---|
 | Blackrock Inc. | 426,478,962 | 8.02% | 2026-06-30 |
 | Vanguard Capital Management LLC | 285,230,183 | 5.37% | 2026-06-30 |
-| State Street Corporation | 216,849,675 | 4.08% | 2026-06-30 |
+| State Street Corporation | 223,326,623 | 4.20% | 2026-09-30 |
 | Nvidia Corp                           | 214,776,632 | 4.04% | 2026-06-30 |
-| Invesco Ltd. | 157,902,890 | 2.97% | 2026-06-30 |
+| Invesco Ltd. | 169,821,684 | 3.20% | 2026-09-30 |
 | Geode Capital Management, LLC | 119,071,798 | 2.24% | 2026-09-30 |
-| FMR, LLC | 94,431,754 | 1.78% | 2026-06-30 |
+| Capital Research Global Investors | 105,887,008 | 1.99% | 2026-09-30 |
+| FMR, LLC | 101,067,636 | 1.90% | 2026-09-30 |
 | Vanguard Portfolio Management LLC | 89,395,975 | 1.68% | 2026-06-30 |
 | Softbank Group Corporation | 86,956,522 | 1.64% | 2026-06-30 |
-| Primecap Management Company | 75,250,958 | 1.42% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 33.32, EV/Sales 5.64. Multiple compression is the main downside if growth disappoints.

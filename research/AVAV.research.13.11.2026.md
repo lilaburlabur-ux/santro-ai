@@ -84,14 +84,14 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
 | Blackrock Inc. | 3,480,740 | 6.85% | 2026-06-30 |
-| State Street Corporation | 2,192,680 | 4.31% | 2026-06-30 |
+| State Street Corporation | 2,516,784 | 4.95% | 2026-09-30 |
 | Vanguard Capital Management LLC | 1,646,011 | 3.24% | 2026-06-30 |
 | Vanguard Portfolio Management LLC | 1,548,605 | 3.05% | 2026-06-30 |
 | BAILLIE GIFFORD & CO | 977,555 | 1.92% | 2026-09-30 |
-| Heard Capital LLC | 903,975 | 1.78% | 2026-06-30 |
 | Mirae Asset Global ETFs Holdings Ltd. | 854,017 | 1.68% | 2026-06-30 |
+| Heard Capital LLC | 838,790 | 1.65% | 2026-09-30 |
 | Geode Capital Management, LLC | 730,429 | 1.44% | 2026-09-30 |
-| Invesco Ltd. | 698,470 | 1.37% | 2026-06-30 |
+| Stephens Investment Management Group LLC | 715,441 | 1.41% | 2026-09-30 |
 | Van Eck Associates Corporation | 612,915 | 1.21% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan

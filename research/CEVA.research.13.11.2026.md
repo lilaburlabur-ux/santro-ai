@@ -83,16 +83,16 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 2,417,205 | 8.59% | 2026-06-30 |
-| State Street Corporation | 1,672,919 | 5.94% | 2026-06-30 |
-| Senvest Management LLC | 1,633,155 | 5.80% | 2026-06-30 |
-| Morgan Stanley | 1,446,384 | 5.14% | 2026-06-30 |
-| Deutsche Bank AG | 1,229,023 | 4.37% | 2026-09-30 |
-| Vanguard Capital Management LLC | 1,196,013 | 4.25% | 2026-06-30 |
-| T. Rowe Price Investment Management, Inc. | 1,180,701 | 4.19% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 1,117,029 | 3.97% | 2026-06-30 |
-| Neuberger Berman Group, LLC | 1,102,905 | 3.92% | 2026-06-30 |
-| AWM Investment Company, Inc. | 799,806 | 2.84% | 2026-06-30 |
+| Blackrock Inc. | 2,417,205 | 8.47% | 2026-06-30 |
+| State Street Corporation | 1,687,685 | 5.92% | 2026-09-30 |
+| Senvest Management LLC | 1,633,155 | 5.72% | 2026-06-30 |
+| Morgan Stanley | 1,446,384 | 5.07% | 2026-06-30 |
+| Deutsche Bank AG | 1,229,023 | 4.31% | 2026-09-30 |
+| Vanguard Capital Management LLC | 1,196,013 | 4.19% | 2026-06-30 |
+| T. Rowe Price Investment Management, Inc. | 1,180,701 | 4.14% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 1,117,029 | 3.92% | 2026-06-30 |
+| Neuberger Berman Group, LLC | 1,102,905 | 3.87% | 2026-06-30 |
+| AWM Investment Company, Inc. | 799,806 | 2.80% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 34.06, EV/Sales 4.70. Multiple compression is the main downside if growth disappoints.

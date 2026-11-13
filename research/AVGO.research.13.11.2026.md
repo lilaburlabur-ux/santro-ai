@@ -18,7 +18,7 @@ Signed file: `AVGO.research.13.11.2026`
 | Technical momentum | Low | Below SMA200 (-5.31%) with negative half-year (-18.11%). |
 | Fresh setup quality | Poor / broken | -27.70% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 42.94%, revenue growth 85.50%. |
-| Value attractiveness | Reasonable | Forward P/E 17.83, EV/Sales 19.92. |
+| Value attractiveness | Reasonable | Forward P/E 17.87, EV/Sales 19.92. |
 | Risk level | High | Beta 1.51, ATR 5.1% of price, short float 1.11%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -38,8 +38,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 |---|---|---|
 | Stock market today: Dow rises, S&P 500 and Nasdaq slip to cap volatile week, Nvidia stock plunge deepens | Yahoo Finance | 2026-11-13 |
 | Nvidia stock slips as investors digest CEO exit, broader chip sell-off accelerates | Yahoo Finance | 2026-11-13 |
+| Nvidia’s Scandal Is Poking Real Holes in the AI Trade. That Doesn’t Mean It’s Over. | Barrons.com | 2026-11-13 |
 | Bank of America resets AMD stock price target as Nvidia CEO exits | TheStreet | 2026-11-13 |
-| Nvidia Tanks as Altman Joins Dario in AI Chip Export Ban | Moby | 2026-11-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $89.10B | Revenue growth 85.50% y/y |
 | Profitability | Gross 75.52%, operating 48.81%, net 42.94% | ROA 15.37%, ROE 44.25% |
 | Balance sheet | Cash $23.98B, debt $59.42B | Current ratio 2.50, debt/equity 59.60 |
-| Valuation | P/E 44.32, forward P/E 17.83, P/S 18.59, P/B 16.62 | EV/Sales 19.92, EV/EBITDA 33.96 |
+| Valuation | P/E 44.32, forward P/E 17.87, P/S 18.59, P/B 16.62 | EV/Sales 19.92, EV/EBITDA 33.96 |
 | Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $533.42 (47 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -85,13 +85,13 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 |---|---|---|---|
 | Blackrock Inc. | 398,213,826 | 8.34% | 2026-06-30 |
 | Vanguard Capital Management LLC | 309,168,582 | 6.48% | 2026-06-30 |
-| State Street Corporation | 196,900,541 | 4.12% | 2026-06-30 |
-| FMR, LLC | 144,359,173 | 3.02% | 2026-06-30 |
+| State Street Corporation | 201,032,203 | 4.21% | 2026-09-30 |
+| FMR, LLC | 127,431,404 | 2.67% | 2026-09-30 |
 | Vanguard Portfolio Management LLC | 127,001,513 | 2.66% | 2026-06-30 |
-| Capital World Investors | 121,892,859 | 2.55% | 2026-06-30 |
+| Capital World Investors | 123,450,454 | 2.59% | 2026-09-30 |
 | Geode Capital Management, LLC | 117,945,558 | 2.47% | 2026-09-30 |
-| Capital Research Global Investors | 113,126,312 | 2.37% | 2026-06-30 |
-| JPMORGAN CHASE & CO | 95,016,148 | 1.99% | 2026-06-30 |
+| Capital Research Global Investors | 108,706,484 | 2.28% | 2026-09-30 |
+| JPMORGAN CHASE & CO | 95,098,627 | 1.99% | 2026-09-30 |
 | Price (T.Rowe) Associates Inc | 82,851,970 | 1.74% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
@@ -122,7 +122,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | 52W high | $479.94 | Revenue growth y/y | 85.50% |
 | 52W low | $291.53 | Inst. ownership | 79.45% |
 | P/E (ttm) | 44.32 | Insider ownership | 1.91% |
-| Forward P/E | 17.83 | Short float | 1.11% |
+| Forward P/E | 17.87 | Short float | 1.11% |
 | PEG (trailing) | 0.36 | Avg volume | 25,248,112 |
 | P/S | 18.59 | Employees | 33,000 |
 | P/B | 16.62 | Analyst rec (1=buy..5=sell) | 1.2 |

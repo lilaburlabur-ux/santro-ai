@@ -36,10 +36,10 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 
 | Headline | Source | Date |
 |---|---|---|
+| Intel CEO’s warning offers a 2027 signal for Micron investors | TheStreet | 2026-11-13 |
 | Undervalued AI stocks to watch as Nvidia leadership uncertainty weighs on the sector | Investing.com | 2026-11-13 |
 | Inside Jim Cramer’s Charitable Trust: 5 Stocks He Actually Owns | Insider Monkey | 2026-11-13 |
 | Chart of the Day: Sandisk Stock Looks Ready to Bounce Back | Barrons.com | 2026-11-13 |
-| Micron Stocks Fall 3.96% as Nvidia CEO Exit Drags Memory Shares Lower | GuruFocus.com | 2026-11-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

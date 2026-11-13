@@ -83,16 +83,16 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Invesco Ltd. | 12,816,588 | 1.20% | 2026-06-30 |
+| Invesco Ltd. | 13,201,742 | 1.24% | 2026-09-30 |
 | Dz Bank Ag Deutsche Zentral Genossenschafts Bank, Frankfurt Am Main | 6,504,147 | 0.61% | 2026-06-30 |
-| Capital World Investors | 4,330,875 | 0.41% | 2026-06-30 |
 | Arrowstreet Capital, Limited Partnership | 4,094,696 | 0.38% | 2026-06-30 |
-| FMR, LLC | 4,062,977 | 0.38% | 2026-06-30 |
+| Capital Research Global Investors | 3,240,443 | 0.30% | 2026-09-30 |
 | Goldman Sachs Group Inc | 2,922,908 | 0.27% | 2026-06-30 |
 | Van Eck Associates Corporation | 2,600,597 | 0.24% | 2026-06-30 |
-| Capital Research Global Investors | 2,401,422 | 0.22% | 2026-06-30 |
 | Morgan Stanley | 2,158,428 | 0.20% | 2026-06-30 |
-| Capital International Investors | 2,050,241 | 0.19% | 2026-06-30 |
+| FMR, LLC | 2,178,123 | 0.20% | 2026-09-30 |
+| Blackrock Inc. | 2,035,975 | 0.19% | 2026-06-30 |
+| Capital International Investors | 2,048,256 | 0.19% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 61.96, EV/Sales 38.55. Multiple compression is the main downside if growth disappoints.

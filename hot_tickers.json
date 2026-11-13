@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-13T13:26:15+00:00",
+  "as_of": "2026-11-13T13:41:27+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "CBRS",
    "company": "Cerebras Systems Inc",
-   "move_pct": 10.58,
-   "price": 108.09,
+   "move_pct": 11.92,
+   "price": 109.4,
    "volume": 16793200,
    "volume_vs_avg": "~2x",
-   "heat_score": 70,
+   "heat_score": 74,
    "direction": "up",
    "why": "Cerebras stock surges on Q3 results, outlook raise, hyperscaler deals",
    "catalyst_type": "earnings",
@@ -27,16 +27,16 @@
    "rank": 2,
    "ticker": "NVDA",
    "company": "NVIDIA Corp",
-   "move_pct": 1.68,
-   "price": 168.99,
+   "move_pct": 2.29,
+   "price": 169.99,
    "volume": 742789000,
    "volume_vs_avg": "~5x",
-   "heat_score": 47,
+   "heat_score": 49,
    "direction": "up",
-   "why": "Dow Jones Futures Rise, Yields Up Again; Nvidia Steadies After Tumbling On CEO Huang's Exit",
+   "why": "Stock market today: Dow, S&P 500, Nasdaq futures edge higher as Nvidia tumult deepens",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/m/4a3dff17-3e8e-33ca-823f-8ac12eff6a4a/dow-jones-futures-rise%2C.html",
-   "published": "2026-11-13T13:06:47+00:00",
+   "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-110151154.html",
+   "published": "2026-11-13T13:27:18+00:00",
    "sector": "AI Chips & Compute"
   }
  ]

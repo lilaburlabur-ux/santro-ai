@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-13T06:54:54+00:00",
-  "as_of_local": "2026-11-13 06:54:54 UTC",
+  "as_of_utc": "2026-11-13T07:09:51+00:00",
+  "as_of_local": "2026-11-13 07:09:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -209,12 +209,6 @@
       "market_cap": 189539799346.92383,
       "headlines": [
         {
-          "title": "Qualcomm CEO: AI won't replace your smartphone anytime soon",
-          "url": "https://finance.yahoo.com/technology/article/qualcomm-ceo-ai-wont-replace-your-smartphone-anytime-soon-150140110.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-12T15:01:40Z"
-        },
-        {
           "title": "Arm Is Up 77% Even As Profit Fell",
           "url": "https://finance.yahoo.com/markets/stocks/articles/arm-77-even-profit-fell-211120456.html",
           "publisher": "Simply Wall St.",
@@ -225,6 +219,12 @@
           "url": "https://finance.yahoo.com/technology/articles/qualcomms-5-billion-data-center-174700875.html",
           "publisher": "Zacks",
           "published": "2026-11-12T17:47:00Z"
+        },
+        {
+          "title": "Is Intel Stock Paying You Enough For The Swings?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-paying-enough-swings-173219488.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T17:32:19Z"
         }
       ]
     },
@@ -463,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -0.67,
-          "price": 311.21,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -553,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -0.67,
-        "price": 311.21,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 68950.59,
-      "change_pct": -6.78
+      "price": 69147.31,
+      "change_pct": -6.51
     },
     {
       "label": "Gold",
-      "price": 3895.7,
-      "change_pct": 0.27
+      "price": 3903.4,
+      "change_pct": 0.47
     },
     {
       "label": "Nasdaq100",

@@ -4,7 +4,7 @@ Signed file: `NVDA.research.13.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $162.74 (2026-11-13, ~15-min delayed) |
+| Current price | $162.85 (2026-11-13, ~15-min delayed) |
 | Market cap | $3.93T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,10 +15,10 @@ Signed file: `NVDA.research.13.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-20.19%) with negative half-year (-27.61%). |
-| Fresh setup quality | Poor / broken | -31.98% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-20.14%) with negative half-year (-27.56%). |
+| Fresh setup quality | Poor / broken | -31.93% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 63.66%, revenue growth 105.90%. |
-| Value attractiveness | Reasonable | Forward P/E 10.28, EV/Sales 13.14. |
+| Value attractiveness | Reasonable | Forward P/E 10.29, EV/Sales 13.14. |
 | Risk level | High | Beta 2.25, ATR 6.1% of price, short float 1.21%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -36,27 +36,27 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
+| 'Nothing has changed': Why some Nvidia stock bulls aren't wavering after Jensen Huang ouster | Yahoo Finance | 2026-11-13 |
+| Rene Haas, Ian Buck, Chris Malachowsky: Wall Street zeroes in on potential Nvidia CEO successors | Yahoo Finance | 2026-11-13 |
 | Cisco CEO on trusting Nvidia chips after Jensen Huang's exit: 'Absolutely' | Yahoo Finance Video | 2026-11-13 |
 | Why Nvidia’s leadership shift could reshape its competitive edge | Yahoo Finance Video | 2026-11-13 |
-| How Nvidia's stock decline could impact your 401(k) and portfolio | Yahoo Finance | 2026-11-13 |
-| Nvidia co-founder Chris Malachowsky is seen as a potential successor to Huang | Yahoo Finance | 2026-11-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $162.74; 52w high $239.24 (-31.98%); 52w low $162.74 (+0.00%) |
-| Trend | -20.19% vs SMA200, -24.18% vs SMA50, -18.09% vs SMA20 |
-| Momentum | RSI(14) 24.8 (oversold) |
+| Price vs 52-week range | Close $162.85; 52w high $239.24 (-31.93%); 52w low $162.85 (+0.00%) |
+| Trend | -20.14% vs SMA200, -24.13% vs SMA50, -18.04% vs SMA20 |
+| Momentum | RSI(14) 24.9 (oversold) |
 | Volatility | ATR(14) 9.98 (~6.1% of price); beta 2.25 |
-| Setup perspective | -31.98% from 52w high — base needs to rebuild. |
+| Setup perspective | -31.93% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -12.8% |
-| Month | -25.1% |
-| Quarter | -27.6% |
+| Week | -12.7% |
+| Month | -25.0% |
+| Quarter | -27.5% |
 | Half Y | -27.6% |
 | 1Y | -15.8% |
 | YTD | -13.6% |
@@ -68,7 +68,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $302.97B | Revenue growth 105.90% y/y |
 | Profitability | Gross 74.67%, operating 65.21%, net 63.66% | ROA 53.57%, ROE 117.21% |
 | Balance sheet | Cash $62.47B, debt $38.86B | Current ratio 4.59, debt/equity 16.97 |
-| Valuation | P/E 20.57, forward P/E 10.28, P/S 12.97, P/B 17.16 | EV/Sales 13.14, EV/EBITDA 19.78 |
+| Valuation | P/E 20.59, forward P/E 10.29, P/S 12.98, P/B 17.17 | EV/Sales 13.14, EV/EBITDA 19.78 |
 | Growth expectations | Earnings growth 127.80%, EPS q/q 125.90% | Analyst mean target $285.35 (53 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,21 +111,21 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $162.74 | EV/Sales | 13.14 |
+| Price | $162.85 | EV/Sales | 13.14 |
 | Market cap | $3.93T | EV/EBITDA | 19.78 |
 | Beta | 2.25 | Gross margin | 74.67% |
-| RSI(14) | 24.8 | Operating margin | 65.21% |
+| RSI(14) | 24.9 | Operating margin | 65.21% |
 | ATR(14) | 9.98 | Profit margin | 63.66% |
-| SMA20 dist | -18.09% | ROA | 53.57% |
-| SMA50 dist | -24.18% | ROE | 117.21% |
-| SMA200 dist | -20.19% | Revenue (ttm) | $302.97B |
+| SMA20 dist | -18.04% | ROA | 53.57% |
+| SMA50 dist | -24.13% | ROE | 117.21% |
+| SMA200 dist | -20.14% | Revenue (ttm) | $302.97B |
 | 52W high | $239.24 | Revenue growth y/y | 105.90% |
-| 52W low | $162.74 | Inst. ownership | 71.25% |
-| P/E (ttm) | 20.57 | Insider ownership | 4.01% |
-| Forward P/E | 10.28 | Short float | 1.21% |
+| 52W low | $162.85 | Inst. ownership | 71.25% |
+| P/E (ttm) | 20.59 | Insider ownership | 4.01% |
+| Forward P/E | 10.29 | Short float | 1.21% |
 | PEG (trailing) | 0.20 | Avg volume | 141,555,634 |
-| P/S | 12.97 | Employees | 42,000 |
-| P/B | 17.16 | Analyst rec (1=buy..5=sell) | 1.6 |
+| P/S | 12.98 | Employees | 42,000 |
+| P/B | 17.17 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

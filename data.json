@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-13T22:03:45+00:00",
-  "as_of_local": "2026-11-13 22:03:45 UTC",
+  "as_of_utc": "2026-11-13T22:08:46+00:00",
+  "as_of_local": "2026-11-13 22:08:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SYNA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -343,12 +341,40 @@
       ]
     },
     {
+      "symbol": "SYNA",
+      "name": "Synaptics",
+      "price": 118.14,
+      "previous_close": 117.98,
+      "change_pct": 0.14,
+      "market_cap": 4693526855.991638,
+      "headlines": [
+        {
+          "title": "SYNA Q1 Earnings Beat Estimates, Revenues Miss on Weak Demand",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/syna-q1-earnings-beat-estimates-152400592.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T15:24:00Z"
+        },
+        {
+          "title": "Synaptics (SYNA) Tops Q1 Earnings Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-tops-q1-earnings-000013395.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T00:00:13Z"
+        },
+        {
+          "title": "Synaptics: Fiscal Q1 Earnings Snapshot",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-fiscal-q1-earnings-snapshot-230715396.html",
+          "publisher": "Associated Press",
+          "published": "2026-11-05T23:07:15Z"
+        }
+      ]
+    },
+    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 25.59,
       "previous_close": 26.32,
       "change_pct": -2.77,
-      "market_cap": 730012946.0129166,
+      "market_cap": 720462706.7759705,
       "headlines": [
         {
           "title": "What Gave Agilysys Stock Its Edge Over Cadence?",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 68343.87,
-      "change_pct": -4.2
+      "price": 68198.37,
+      "change_pct": -4.41
     },
     {
       "label": "Gold",
-      "price": 3883.7,
-      "change_pct": -0.04
+      "price": 3886.7,
+      "change_pct": 0.04
     },
     {
       "label": "Nasdaq100",

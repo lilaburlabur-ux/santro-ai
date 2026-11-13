@@ -4,8 +4,8 @@ Signed file: `AVAV.research.13.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $118.32 (2026-11-13, ~15-min delayed) |
-| Market cap | $6.01B |
+| Current price | $118.55 (2026-11-13, ~15-min delayed) |
+| Market cap | $6.02B |
 | Sector / Industry | Industrials / Aerospace & Defense |
 | Main theme | Aerospace & Defense — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `AVAV.research.13.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-32.42%) with negative half-year (-25.11%). |
-| Fresh setup quality | Poor / broken | -69.88% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-32.29%) with negative half-year (-24.97%). |
+| Fresh setup quality | Poor / broken | -69.82% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-10.13%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 26.84, EV/Sales 3.26. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 26.89, EV/Sales 3.19. |
 | Risk level | High | Beta 1.40, ATR 6.7% of price, short float 13.32%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
@@ -44,22 +44,22 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $118.32; 52w high $392.86 (-69.88%); 52w low $102.08 (+15.91%) |
-| Trend | -32.42% vs SMA200, -12.46% vs SMA50, -2.29% vs SMA20 |
-| Momentum | RSI(14) 44.3 (neutral) |
+| Price vs 52-week range | Close $118.55; 52w high $392.86 (-69.82%); 52w low $102.08 (+16.13%) |
+| Trend | -32.29% vs SMA200, -12.29% vs SMA50, -2.11% vs SMA20 |
+| Momentum | RSI(14) 44.4 (neutral) |
 | Volatility | ATR(14) 7.94 (~6.7% of price); beta 1.40 |
-| Setup perspective | -69.88% from 52w high — base needs to rebuild. |
+| Setup perspective | -69.82% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +4.9% |
-| Month | -4.0% |
-| Quarter | -34.7% |
-| Half Y | -25.1% |
-| 1Y | -63.4% |
-| YTD | -53.8% |
+| Week | +5.1% |
+| Month | -3.8% |
+| Quarter | -34.5% |
+| Half Y | -25.0% |
+| 1Y | -63.3% |
+| YTD | -53.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Revenue (ttm) | $2.00B | Revenue growth 5.70% y/y |
 | Profitability | Gross 26.47%, operating -0.60%, net -10.13% | ROA -0.13%, ROE -4.60% |
 | Balance sheet | Cash $580.23M, debt $850.82M | Current ratio 4.26, debt/equity 19.35 |
-| Valuation | P/E —, forward P/E 26.84, P/S 3.00, P/B 1.36 | EV/Sales 3.26, EV/EBITDA 29.81 |
+| Valuation | P/E —, forward P/E 26.89, P/S 3.01, P/B 1.37 | EV/Sales 3.19, EV/EBITDA 29.20 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $212.20 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 90.55% |
+| Institutional ownership | 90.42% |
 | Insider ownership | 0.90% |
 | Short float | 13.32% |
 | Short ratio (days to cover) | 3.6 |
@@ -84,18 +84,18 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
 | Blackrock Inc. | 3,480,740 | 6.85% | 2026-06-30 |
-| State Street Corporation | 2,192,680 | 4.31% | 2026-06-30 |
+| State Street Corporation | 2,516,784 | 4.95% | 2026-09-30 |
 | Vanguard Capital Management LLC | 1,646,011 | 3.24% | 2026-06-30 |
 | Vanguard Portfolio Management LLC | 1,548,605 | 3.05% | 2026-06-30 |
 | BAILLIE GIFFORD & CO | 977,555 | 1.92% | 2026-09-30 |
-| Heard Capital LLC | 903,975 | 1.78% | 2026-06-30 |
 | Mirae Asset Global ETFs Holdings Ltd. | 854,017 | 1.68% | 2026-06-30 |
+| Heard Capital LLC | 838,790 | 1.65% | 2026-09-30 |
 | Geode Capital Management, LLC | 730,429 | 1.44% | 2026-09-30 |
-| Invesco Ltd. | 698,470 | 1.37% | 2026-06-30 |
+| Stephens Investment Management Group LLC | 715,441 | 1.41% | 2026-09-30 |
 | Van Eck Associates Corporation | 612,915 | 1.21% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 26.84, EV/Sales 3.26. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 26.89, EV/Sales 3.19. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.40, ATR 6.7% of price, short float 13.32%. Size positions accordingly.
 - **Short interest risk:** short float 13.32% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
@@ -114,21 +114,21 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $118.32 | EV/Sales | 3.26 |
-| Market cap | $6.01B | EV/EBITDA | 29.81 |
+| Price | $118.55 | EV/Sales | 3.19 |
+| Market cap | $6.02B | EV/EBITDA | 29.20 |
 | Beta | 1.40 | Gross margin | 26.47% |
-| RSI(14) | 44.3 | Operating margin | -0.60% |
+| RSI(14) | 44.4 | Operating margin | -0.60% |
 | ATR(14) | 7.94 | Profit margin | -10.13% |
-| SMA20 dist | -2.29% | ROA | -0.13% |
-| SMA50 dist | -12.46% | ROE | -4.60% |
-| SMA200 dist | -32.42% | Revenue (ttm) | $2.00B |
+| SMA20 dist | -2.11% | ROA | -0.13% |
+| SMA50 dist | -12.29% | ROE | -4.60% |
+| SMA200 dist | -32.29% | Revenue (ttm) | $2.00B |
 | 52W high | $392.86 | Revenue growth y/y | 5.70% |
-| 52W low | $102.08 | Inst. ownership | 90.55% |
+| 52W low | $102.08 | Inst. ownership | 90.42% |
 | P/E (ttm) | — | Insider ownership | 0.90% |
-| Forward P/E | 26.84 | Short float | 13.32% |
+| Forward P/E | 26.89 | Short float | 13.32% |
 | PEG (trailing) | 1.05 | Avg volume | 1,667,609 |
-| P/S | 3.00 | Employees | 3,991 |
-| P/B | 1.36 | Analyst rec (1=buy..5=sell) | 1.7 |
+| P/S | 3.01 | Employees | 3,991 |
+| P/B | 1.37 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

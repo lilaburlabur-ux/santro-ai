@@ -18,7 +18,7 @@ Signed file: `QCOM.research.13.11.2026`
 | Technical momentum | Moderate | 1Y -0.26%; price +2.04% vs SMA200. |
 | Fresh setup quality | Poor / broken | -30.60% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 31.61%, revenue growth -8.40%. |
-| Value attractiveness | Reasonable | Forward P/E 14.14, EV/Sales 4.50. |
+| Value attractiveness | Reasonable | Forward P/E 14.14, EV/Sales 4.59. |
 | Risk level | High | Beta 1.76, ATR 5.3% of price, short float 3.03%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -68,13 +68,13 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $43.12B | Revenue growth -8.40% y/y |
 | Profitability | Gross 53.10%, operating 20.85%, net 31.61% | ROA 10.13%, ROE 52.81% |
 | Balance sheet | Cash $7.68B, debt $15.99B | Current ratio 1.86, debt/equity 52.60 |
-| Valuation | P/E 13.59, forward P/E 14.14, P/S 4.28, P/B 6.09 | EV/Sales 4.50, EV/EBITDA 18.27 |
+| Valuation | P/E 13.59, forward P/E 14.14, P/S 4.28, P/B 6.09 | EV/Sales 4.59, EV/EBITDA 18.63 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $185.96 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 82.11% |
+| Institutional ownership | 81.97% |
 | Insider ownership | 0.12% |
 | Short float | 3.03% |
 | Short ratio (days to cover) | 2.8 |
@@ -111,8 +111,8 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $172.62 | EV/Sales | 4.50 |
-| Market cap | $184.70B | EV/EBITDA | 18.27 |
+| Price | $172.62 | EV/Sales | 4.59 |
+| Market cap | $184.70B | EV/EBITDA | 18.63 |
 | Beta | 1.76 | Gross margin | 53.10% |
 | RSI(14) | 48.9 | Operating margin | 20.85% |
 | ATR(14) | 9.23 | Profit margin | 31.61% |
@@ -120,7 +120,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | SMA50 dist | -3.42% | ROE | 52.81% |
 | SMA200 dist | +2.04% | Revenue (ttm) | $43.12B |
 | 52W high | $248.74 | Revenue growth y/y | -8.40% |
-| 52W low | $122.94 | Inst. ownership | 82.11% |
+| 52W low | $122.94 | Inst. ownership | 81.97% |
 | P/E (ttm) | 13.59 | Insider ownership | 0.12% |
 | Forward P/E | 14.14 | Short float | 3.03% |
 | PEG (trailing) | 1.05 | Avg volume | 12,653,873 |

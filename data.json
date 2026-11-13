@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-13T23:50:22+00:00",
-  "as_of_local": "2026-11-13 23:50:22 UTC",
+  "as_of_utc": "2026-11-13T23:55:48+00:00",
+  "as_of_local": "2026-11-13 23:55:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -57,34 +59,6 @@
           "url": "https://finance.yahoo.com/markets/article/nvidia-stock-slips-as-investors-digest-ceo-exit-rest-of-chip-sector-falls-144818245.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-13T14:48:18Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 347.01,
-      "previous_close": 364.36,
-      "change_pct": -4.76,
-      "market_cap": 1656497346071.1292,
-      "headlines": [
-        {
-          "title": "Wall Street stocks mostly lower as Nvidia extends slump",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-stocks-mostly-lower-230704278.html",
-          "publisher": "AFP",
-          "published": "2026-11-13T23:07:04Z"
-        },
-        {
-          "title": "Stocks to Watch Recap: Nvidia, AMD, Microsoft",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026/card/stocks-to-watch-microsoft-nvidia-amd-jWz6wdWH2eBxwM91bJ6m?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-11-13T22:51:22Z"
-        },
-        {
-          "title": "Nvidia Has Real Problems\u2014but Don\u2019t Fall For Fear Mongering",
-          "url": "https://www.barrons.com/articles/nvidia-balance-sheet-math-f210c291?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-13T22:40:00Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 68127.79,
-      "change_pct": -4.51
+      "price": 68212.11,
+      "change_pct": -4.39
     },
     {
       "label": "Gold",

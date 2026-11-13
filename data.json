@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-13T10:48:05+00:00",
-  "as_of_local": "2026-11-13 10:48:05 UTC",
+  "as_of_utc": "2026-11-13T10:53:08+00:00",
+  "as_of_local": "2026-11-13 10:53:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -25,10 +25,10 @@
           "published": "2026-11-12T22:19:25Z"
         },
         {
-          "title": "The AI Trade Just Cracked. Here\u2019s the Price at Which I\u2019d Start Buying Nvidia.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-trade-just-cracked-price-103202288.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-13T10:32:02Z"
+          "title": "Nasdaq futures dip as Nvidia tumult keeps investors on edge",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-dip-nvidia-tumult-103901600.html",
+          "publisher": "Reuters",
+          "published": "2026-11-13T10:39:01Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -3.03,
-          "price": 1216000.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "KRW"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -3.03,
-        "price": 1216000.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "KRW"
       },
       {
@@ -585,8 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 69303.86,
-      "change_pct": -2.86
+      "price": 69286.09,
+      "change_pct": -2.88
+    },
+    {
+      "label": "Gold",
+      "price": 3898.6,
+      "change_pct": 0.34
     },
     {
       "label": "Nasdaq100",

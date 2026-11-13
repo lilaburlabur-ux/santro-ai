@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-13T12:39:44+00:00",
-  "as_of_local": "2026-11-13 12:39:44 UTC",
+  "as_of_utc": "2026-11-13T12:44:47+00:00",
+  "as_of_local": "2026-11-13 12:44:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -19,14 +19,14 @@
           "published": "2026-11-13T11:01:51Z"
         },
         {
-          "title": "The Nvidia scandal has hidden upside potential for the AI trade",
-          "url": "https://finance.yahoo.com/technology/article/the-nvidia-scandal-has-hidden-upside-potential-for-the-ai-trade-110000575.html",
+          "title": "Jensen Huang scandal trail leads to Alibaba, the king of free Chinese AI: Chart of the Day",
+          "url": "https://finance.yahoo.com/markets/article/jensen-huang-scandal-trail-leads-to-alibaba-the-king-of-free-chinese-ai-chart-of-the-day-110000329.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-13T11:00:00Z"
         },
         {
-          "title": "Jensen Huang scandal trail leads to Alibaba, the king of free Chinese AI: Chart of the Day",
-          "url": "https://finance.yahoo.com/markets/article/jensen-huang-scandal-trail-leads-to-alibaba-the-king-of-free-chinese-ai-chart-of-the-day-110000329.html",
+          "title": "The Nvidia scandal has hidden upside potential for the AI trade",
+          "url": "https://finance.yahoo.com/technology/article/the-nvidia-scandal-has-hidden-upside-potential-for-the-ai-trade-110000575.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-13T11:00:00Z"
         }
@@ -125,12 +125,6 @@
       "market_cap": 903373552151.5437,
       "headlines": [
         {
-          "title": "Bill Ackman Explicitly Avoids Micron\u2019s Volatile Cash Flows Focusing Here Instead",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-explicitly-avoids-micron-121520239.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-13T12:15:20Z"
-        },
-        {
           "title": "3 AI Stocks With Revenue Growth Up To 34%",
           "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-revenue-growth-121347895.html",
           "publisher": "Simply Wall St.",
@@ -141,6 +135,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stock-937-why-cheap-121251961.html",
           "publisher": "Trefis",
           "published": "2026-11-13T12:12:51Z"
+        },
+        {
+          "title": "AI Chips Update - Micron Highlights AI Leadership At Investor Events",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-micron-highlights-ai-113737988.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T11:37:37Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -3.03,
-          "price": 1216000.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "KRW"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -3.03,
-        "price": 1216000.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "KRW"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 69182.11,
-      "change_pct": -3.03
+      "price": 69237.51,
+      "change_pct": -2.95
     },
     {
       "label": "Gold",
-      "price": 3897.9,
-      "change_pct": 0.32
+      "price": 3895.7,
+      "change_pct": 0.27
     },
     {
       "label": "Nasdaq100",

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-13T10:32:44+00:00",
-  "as_of_local": "2026-11-13 10:32:44 UTC",
+  "as_of_utc": "2026-11-13T10:38:05+00:00",
+  "as_of_local": "2026-11-13 10:38:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -143,6 +141,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ai-memory-demand-micron-stock-081121346.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-13T08:11:21Z"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 61.2,
+      "previous_close": 62.5,
+      "change_pct": -2.08,
+      "market_cap": 325278004055.0232,
+      "headlines": [
+        {
+          "title": "Intel CEO Lip-Bu Tan on turnaround efforts amid stock slump: 'I feel called to do this'",
+          "url": "https://finance.yahoo.com/technology/article/intel-ceo-lip-bu-tan-on-turnaround-efforts-amid-stock-slump-i-feel-called-to-do-this-191138450.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-12T19:11:38Z"
+        },
+        {
+          "title": "Fallout from the Nvidia scandal may dampen the exuberance around the AI boom",
+          "url": "https://finance.yahoo.com/technology/ai/articles/fallout-nvidia-scandal-may-dampen-050149172.html",
+          "publisher": "Associated Press",
+          "published": "2026-11-13T05:01:49Z"
+        },
+        {
+          "title": "Adobe And 2 More Undervalued Tech Stocks To Watch",
+          "url": "https://finance.yahoo.com/technology/articles/adobe-2-more-undervalued-tech-021250861.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T02:12:50Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 69215.13,
-      "change_pct": -2.98
+      "price": 69271.55,
+      "change_pct": -2.9
     },
     {
       "label": "Gold",
-      "price": 3901.3,
-      "change_pct": 0.41
+      "price": 3902.7,
+      "change_pct": 0.45
     },
     {
       "label": "Nasdaq100",

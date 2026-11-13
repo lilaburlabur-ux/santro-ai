@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-13T05:39:08+00:00",
-  "as_of_local": "2026-11-13 05:39:08 UTC",
+  "as_of_utc": "2026-11-13T05:44:16+00:00",
+  "as_of_local": "2026-11-13 05:44:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 2103062883687.9097,
       "headlines": [
         {
+          "title": "Asian shares are mixed as investors assess impact of Nvidia's fallout on global AI development",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-mixed-investors-assess-053708191.html",
+          "publisher": "Associated Press",
+          "published": "2026-11-13T05:37:08Z"
+        },
+        {
           "title": "Bernstein\u2019s Mark Li Raised His Taiwan Semiconductor Manufacturing (TSM) Target to $600. Here\u2019s What Changed",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-mark-li-raised-taiwan-231139059.html",
           "publisher": "Insider Monkey",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-bernstein-mark-li-raising-223454329.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-12T22:34:54Z"
-        },
-        {
-          "title": "Prediction: $500 a Month Invested in Taiwan Semiconductor Manufacturing Will Be Worth This Much by 2030",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-500-month-invested-taiwan-222000367.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-12T22:20:00Z"
         }
       ]
     },
@@ -221,10 +221,10 @@
           "published": "2026-11-12T14:21:55Z"
         },
         {
-          "title": "Qualcomm CEO on $15B data-center goal: 'We're very confident'",
-          "url": "https://finance.yahoo.com/video/qualcomm-ceo-on-15b-data-center-goal-were-very-confident-134257800.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-12T13:42:57Z"
+          "title": "Arm Is Up 77% Even As Profit Fell",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-77-even-profit-fell-211120456.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-12T21:11:20Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -3.75,
-          "price": 1207000.0,
+          "change_pct": -4.15,
+          "price": 1202000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.72,
-          "price": 206500.0,
+          "change_pct": -0.84,
+          "price": 206250.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -2.31,
-          "price": 9085.0,
+          "change_pct": -2.0,
+          "price": 9114.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -0.4,
-          "price": 378.0,
+          "change_pct": -0.53,
+          "price": 377.5,
           "currency": "TWD"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -1.57,
-          "price": 125.5,
+          "change_pct": -1.96,
+          "price": 125.0,
           "currency": "TWD"
         }
       ]
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -3.75,
-        "price": 1207000.0,
+        "change_pct": -4.15,
+        "price": 1202000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.72,
-        "price": 206500.0,
+        "change_pct": -0.84,
+        "price": 206250.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -2.31,
-        "price": 9085.0,
+        "change_pct": -2.0,
+        "price": 9114.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -0.4,
-        "price": 378.0,
+        "change_pct": -0.53,
+        "price": 377.5,
         "currency": "TWD"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -1.57,
-        "price": 125.5,
+        "change_pct": -1.96,
+        "price": 125.0,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 68374.75,
-      "change_pct": -7.56
+      "price": 68531.72,
+      "change_pct": -7.35
     },
     {
       "label": "Gold",
-      "price": 3922.0,
-      "change_pct": 0.94
+      "price": 3917.2,
+      "change_pct": 0.82
     },
     {
       "label": "Nasdaq100",

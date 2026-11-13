@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-13T21:08:30+00:00",
-  "as_of_local": "2026-11-13 21:08:30 UTC",
+  "as_of_utc": "2026-11-13T21:13:35+00:00",
+  "as_of_local": "2026-11-13 21:13:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -31,6 +29,34 @@
           "url": "https://finance.yahoo.com/video/cisco-ceo-on-trusting-nvidia-chips-after-jensen-huangs-exit-absolutely-201049124.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-13T20:10:49Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 398.63,
+      "previous_close": 405.49,
+      "change_pct": -1.69,
+      "market_cap": 2067483754922.7952,
+      "headlines": [
+        {
+          "title": "Nvidia stock slips as investors digest CEO exit, broader chip sell-off accelerates",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-stock-slips-as-investors-digest-ceo-exit-rest-of-chip-sector-falls-144818245.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-13T14:48:18Z"
+        },
+        {
+          "title": "'Nothing has changed': Why some Nvidia stock bulls aren't wavering after Jensen Huang ouster",
+          "url": "https://finance.yahoo.com/technology/article/nothing-has-changed-why-some-nvidia-stock-bulls-arent-wavering-after-jensen-huang-ouster-204522204.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-13T20:45:22Z"
+        },
+        {
+          "title": "Taiwan Semiconductor Manufacturing (TSM) Takes A $1 Billion Step Further Into AI",
+          "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-manufacturing-tsm-takes-191146480.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T19:11:46Z"
         }
       ]
     },
@@ -348,7 +374,7 @@
       "price": 25.59,
       "previous_close": 26.32,
       "change_pct": -2.77,
-      "market_cap": 720462706.7759705,
+      "market_cap": 730012946.0129166,
       "headlines": [
         {
           "title": "What Gave Agilysys Stock Its Edge Over Cadence?",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 68599.2,
-      "change_pct": -3.85
+      "price": 68538.9,
+      "change_pct": -3.93
     },
     {
       "label": "Gold",
-      "price": 3881.0,
-      "change_pct": -0.11
+      "price": 3877.3,
+      "change_pct": -0.21
     },
     {
       "label": "Nasdaq100",

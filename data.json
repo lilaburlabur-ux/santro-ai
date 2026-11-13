@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-13T06:24:40+00:00",
-  "as_of_local": "2026-11-13 06:24:40 UTC",
+  "as_of_utc": "2026-11-13T06:39:40+00:00",
+  "as_of_local": "2026-11-13 06:39:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -75,16 +75,16 @@
           "published": "2026-11-12T13:39:10Z"
         },
         {
+          "title": "Broadcom Stock Just Jumped More Than 20% in 4 Days. It Has Done That Only 6 Other Times Since 2009.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-just-jumped-more-062402641.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-13T06:24:02Z"
+        },
+        {
           "title": "Cathie Wood Sees Nvidia\u2019s CAGR Slowing To 25% From 50% Over The Next Five Years: \u2018You\u2019ve Got Powerful Forces Like Elon Musk\u2019",
           "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sees-nvidia-cagr-050253373.html",
           "publisher": "Stocktwits",
           "published": "2026-11-13T05:02:53Z"
-        },
-        {
-          "title": "Fallout from the Nvidia scandal may dampen the exuberance around the AI boom",
-          "url": "https://finance.yahoo.com/technology/ai/articles/fallout-nvidia-scandal-may-dampen-050149172.html",
-          "publisher": "Associated Press",
-          "published": "2026-11-13T05:01:49Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -3.35,
-          "price": 1212000.0,
+          "change_pct": -3.11,
+          "price": 1215000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -0.48,
+          "price": 207000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -2.29,
-          "price": 9087.0,
+          "change_pct": -1.92,
+          "price": 9121.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -3.35,
-        "price": 1212000.0,
+        "change_pct": -3.11,
+        "price": 1215000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -0.48,
+        "price": 207000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -2.29,
-        "price": 9087.0,
+        "change_pct": -1.92,
+        "price": 9121.0,
         "currency": "JPY"
       },
       {
@@ -585,18 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 68660.73,
-      "change_pct": -7.17
+      "price": 68857.46,
+      "change_pct": -6.9
     },
     {
       "label": "Gold",
-      "price": 3902.0,
+      "price": 3901.9,
       "change_pct": 0.43
-    },
-    {
-      "label": "Nasdaq100",
-      "price": 28289.19,
-      "change_pct": -0.3
     }
   ]
 }

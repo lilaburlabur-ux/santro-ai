@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-13T08:42:18+00:00",
-  "as_of_local": "2026-11-13 08:42:18 UTC",
+  "as_of_utc": "2026-11-13T08:46:01+00:00",
+  "as_of_local": "2026-11-13 08:46:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -115,6 +113,34 @@
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-ceo-huang-exit-surging-yields-spacex-tesla-merger-deal/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-13T03:56:41Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 798.44,
+      "previous_close": 811.3,
+      "change_pct": -1.59,
+      "market_cap": 903373552151.5437,
+      "headlines": [
+        {
+          "title": "How AI Memory Demand At Micron Stock Has Changed Its Investment Story",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-memory-demand-micron-stock-081121346.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T08:11:21Z"
+        },
+        {
+          "title": "Zacks Earnings Trends Highlights: Micron, Nvidia and Alphabet",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-earnings-trends-highlights-micron-065300710.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T06:53:00Z"
+        },
+        {
+          "title": "5 Best Growth Stocks for the Next 5 Years",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-growth-stocks-next-231119066.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-12T23:11:19Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -1.59,
+          "price": 798.44,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -1.59,
+        "price": 798.44,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 68812.1,
-      "change_pct": -3.55
+      "price": 68765.95,
+      "change_pct": -3.61
     },
     {
       "label": "Gold",
-      "price": 3897.2,
-      "change_pct": 0.31
+      "price": 3899.2,
+      "change_pct": 0.36
     },
     {
       "label": "Nasdaq100",

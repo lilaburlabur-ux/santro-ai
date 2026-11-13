@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-13T14:32:00+00:00",
+  "as_of": "2026-11-13T14:47:22+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,32 @@
    "rank": 1,
    "ticker": "CBRS",
    "company": "Cerebras Systems Inc",
-   "move_pct": 15.77,
-   "price": 113.16,
-   "volume": 3720009,
-   "volume_vs_avg": "~0.3x",
-   "heat_score": 79,
+   "move_pct": 12.85,
+   "price": 110.31,
+   "volume": 9632940,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 74,
    "direction": "up",
    "why": "Cerebras Stock Surges After Microsoft Deal. Can The AI Chipmaker Sustain Its Growth?",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/technology/ai/articles/cerebras-stock-surges-microsoft-deal-135658584.html",
    "published": "2026-11-13T13:56:58+00:00",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
+   "ticker": "AMD",
+   "company": "Advanced Micro Devices Inc",
+   "move_pct": -5.21,
+   "price": 554.79,
+   "volume": 6214594,
+   "volume_vs_avg": "~0.2x",
+   "heat_score": 34,
+   "direction": "down",
+   "why": "NVIDIA Rises 2% Despite Michael Burry Adding to Chip Shorts; AMD Retreats 3%, Broadcom Slides 2%",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-rises-2-despite-michael-141503820.html",
+   "published": "2026-11-13T14:15:03+00:00",
    "sector": "AI Chips & Compute"
   }
  ]

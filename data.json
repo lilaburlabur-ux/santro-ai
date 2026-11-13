@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-13T23:25:06+00:00",
-  "as_of_local": "2026-11-13 23:25:06 UTC",
+  "as_of_utc": "2026-11-13T23:30:10+00:00",
+  "as_of_local": "2026-11-13 23:30:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LSCC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -287,6 +285,34 @@
       ]
     },
     {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 112.35,
+      "previous_close": 118.85,
+      "change_pct": -5.47,
+      "market_cap": 15979056166.830818,
+      "headlines": [
+        {
+          "title": "Why Is Lattice Semiconductor (LSCC) Pushing Deeper Into Secure Industrial Edge Computing?",
+          "url": "https://finance.yahoo.com/technology/articles/why-lattice-semiconductor-lscc-pushing-151630576.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T15:16:30Z"
+        },
+        {
+          "title": "If You Invested $1000 in Lattice Semiconductor a Decade Ago, This is How Much It'd Be Worth Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/invested-1000-lattice-semiconductor-decade-123002391.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T12:30:02Z"
+        },
+        {
+          "title": "Chip Stocks Finish Lower as Industry Digests Jensen Huang Exit",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/chip-stocks-down-as-industry-digests-jensen-huang-exit-Lq6UDhwOoZUotX38oTUL?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-12T21:11:03Z"
+        }
+      ]
+    },
+    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 117.52,
@@ -348,7 +374,7 @@
       "price": 25.59,
       "previous_close": 26.32,
       "change_pct": -2.77,
-      "market_cap": 720462706.7759705,
+      "market_cap": 730012946.0129166,
       "headlines": [
         {
           "title": "What Gave Agilysys Stock Its Edge Over Cadence?",
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -0.66,
-          "price": 377.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "TWD"
         },
         {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -0.66,
-        "price": 377.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "TWD"
       },
       {
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 67929.0,
-      "change_pct": -4.79
+      "price": 68060.89,
+      "change_pct": -4.6
     },
     {
       "label": "Gold",

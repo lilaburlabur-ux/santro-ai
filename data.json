@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-13T21:03:25+00:00",
-  "as_of_local": "2026-11-13 21:03:25 UTC",
+  "as_of_utc": "2026-11-13T21:08:30+00:00",
+  "as_of_local": "2026-11-13 21:08:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -33,34 +35,6 @@
       ]
     },
     {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 398.63,
-      "previous_close": 405.49,
-      "change_pct": -1.69,
-      "market_cap": 2067483754922.7952,
-      "headlines": [
-        {
-          "title": "'Nothing has changed': Why some Nvidia stock bulls aren't wavering after Jensen Huang ouster",
-          "url": "https://finance.yahoo.com/technology/article/nothing-has-changed-why-some-nvidia-stock-bulls-arent-wavering-after-jensen-huang-ouster-204522204.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-13T20:45:22Z"
-        },
-        {
-          "title": "Taiwan Semiconductor Manufacturing (TSM) Takes A $1 Billion Step Further Into AI",
-          "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-manufacturing-tsm-takes-191146480.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T19:11:46Z"
-        },
-        {
-          "title": "Samsung Electronics Stocks Move Lower as Nvidia CEO Exit Tests AI Memory Rally",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-electronics-stocks-move-lower-183110049.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-13T18:31:10Z"
-        }
-      ]
-    },
-    {
       "symbol": "AVGO",
       "name": "Broadcom",
       "price": 347.01,
@@ -69,22 +43,22 @@
       "market_cap": 1656497346071.1292,
       "headlines": [
         {
-          "title": "Stock market today: Dow rises, S&P 500, Nasdaq slip to cap volatile week, Nvidia stock plunge deepens",
+          "title": "Stock market today: Dow rises, S&P 500 and Nasdaq slip to cap volatile week, Nvidia stock plunge deepens",
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-13T11:01:51Z"
+        },
+        {
+          "title": "Nvidia stock slips as investors digest CEO exit, broader chip sell-off accelerates",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-stock-slips-as-investors-digest-ceo-exit-rest-of-chip-sector-falls-144818245.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-13T14:48:18Z"
         },
         {
           "title": "Bank of America resets AMD stock price target as Nvidia CEO exits",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-resets-amd-stock-201300212.html",
           "publisher": "TheStreet",
           "published": "2026-11-13T20:13:00Z"
-        },
-        {
-          "title": "Nvidia Tanks as Altman Joins Dario in AI Chip Export Ban",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-tanks-altman-joins-dario-200730448.html",
-          "publisher": "Moby",
-          "published": "2026-11-13T20:07:30Z"
         }
       ]
     },
@@ -131,16 +105,16 @@
           "published": "2026-11-13T15:35:08Z"
         },
         {
-          "title": "Stock market today: Dow rises, S&P 500, Nasdaq slip to cap volatile week, Nvidia stock plunge deepens",
+          "title": "Stock market today: Dow rises, S&P 500 and Nasdaq slip to cap volatile week, Nvidia stock plunge deepens",
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-13T11:01:51Z"
         },
         {
-          "title": "'Nothing has changed': Why some Nvidia stock bulls aren't wavering after Jensen Huang ouster",
-          "url": "https://finance.yahoo.com/technology/article/nothing-has-changed-why-some-nvidia-stock-bulls-arent-wavering-after-jensen-huang-ouster-204522204.html",
+          "title": "Nvidia stock slips as investors digest CEO exit, broader chip sell-off accelerates",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-stock-slips-as-investors-digest-ceo-exit-rest-of-chip-sector-falls-144818245.html",
           "publisher": "Yahoo Finance",
-          "published": "2026-11-13T20:45:22Z"
+          "published": "2026-11-13T14:48:18Z"
         }
       ]
     },
@@ -159,16 +133,16 @@
           "published": "2026-11-13T15:17:04Z"
         },
         {
+          "title": "Nvidia stock slips as investors digest CEO exit, broader chip sell-off accelerates",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-stock-slips-as-investors-digest-ceo-exit-rest-of-chip-sector-falls-144818245.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-13T14:48:18Z"
+        },
+        {
           "title": "AMD or Intel: 1 Chip Stock Is the Clear Winner",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-1-chip-stock-185000434.html",
           "publisher": "Motley Fool",
           "published": "2026-11-13T18:50:00Z"
-        },
-        {
-          "title": "Intel Stocks Fall 4.55% as Nvidia Shake-Up Clouds Its $5 Billion Partner Bet",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-fall-4-55-175351220.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-13T17:53:51Z"
         }
       ]
     },
@@ -181,6 +155,12 @@
       "market_cap": 203867098693.84766,
       "headlines": [
         {
+          "title": "S&P 500, Nasdaq end lower as Nvidia uncertainty weighs on tech shares",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-dip-nvidia-tumult-103901600.html",
+          "publisher": "Reuters",
+          "published": "2026-11-13T21:00:42Z"
+        },
+        {
           "title": "Rene Haas, Ian Buck, Chris Malachowsky: Wall Street zeroes in on potential Nvidia CEO successors",
           "url": "https://finance.yahoo.com/markets/article/rene-haas-ian-buck-chris-malachowsky-wall-street-zeroes-in-on-potential-nvidia-ceo-successors-204105759.html",
           "publisher": "Yahoo Finance",
@@ -191,12 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-board-reportedly-approached-arm-203303130.html",
           "publisher": "Stocktwits",
           "published": "2026-11-13T20:33:03Z"
-        },
-        {
-          "title": "Arm Stock Took a Hit Because Investors Fear Nvidia Might Poach Its CEO. Is It Time to Sell?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-took-hit-because-203134697.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-13T20:31:34Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 68652.83,
-      "change_pct": -3.77
+      "price": 68599.2,
+      "change_pct": -3.85
     },
     {
       "label": "Gold",
-      "price": 3880.0,
-      "change_pct": -0.14
+      "price": 3881.0,
+      "change_pct": -0.11
     },
     {
       "label": "Nasdaq100",

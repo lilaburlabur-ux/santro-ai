@@ -123,7 +123,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | 52W low | $73.66 | Inst. ownership | 80.44% |
 | P/E (ttm) | 54.10 | Insider ownership | 0.51% |
 | Forward P/E | 22.37 | Short float | 3.48% |
-| PEG (trailing) | 0.42 | Avg volume | 24,380,528 |
+| PEG (trailing) | 0.42 | Avg volume | 24,385,220 |
 | P/S | 15.66 | Employees | 7,480 |
 | P/B | 7.78 | Analyst rec (1=buy..5=sell) | 1.4 |
 

@@ -124,7 +124,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | 52W low | $104.55 | Inst. ownership | 96.01% |
 | P/E (ttm) | 229.63 | Insider ownership | 0.07% |
 | Forward P/E | 64.97 | Short float | 10.71% |
-| PEG (trailing) | 1.68 | Avg volume | 5,200,539 |
+| PEG (trailing) | 1.68 | Avg volume | 5,201,029 |
 | P/S | 39.12 | Employees | 9,584 |
 | P/B | 23.52 | Analyst rec (1=buy..5=sell) | 1.9 |
 

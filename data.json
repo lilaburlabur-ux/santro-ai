@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-14T23:23:21+00:00",
-  "as_of_local": "2026-11-14 23:23:21 UTC",
+  "as_of_utc": "2026-11-14T23:38:22+00:00",
+  "as_of_local": "2026-11-14 23:38:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-11-14T11:00:00Z"
         },
         {
-          "title": "Elon Musk's Tesla and SpaceX Lost More Than $420 Billion in Combined Market Value in Two Days After Democrats Swept the Midterms, With Investors Fearing New Congressional Probes. Here's Why That Political Risk Matters for Shareholders",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-tesla-spacex-lost-224802258.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-14T22:48:02Z"
+          "title": "Dan Ives Valued Nvidia at \u201c$225 Without Jensen.\u201d Now the Stock Trades Below It",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-valued-nvidia-225-231142271.html",
+          "publisher": "TIKR",
+          "published": "2026-11-14T23:11:42Z"
         }
       ]
     },
@@ -97,6 +99,12 @@
       "market_cap": 880597997369.4563,
       "headlines": [
         {
+          "title": "Micron Technology (MU) Has More Than 75% Of 2027 Output Committed",
+          "url": "https://finance.yahoo.com/technology/articles/micron-technology-mu-more-75-230900121.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-14T23:09:00Z"
+        },
+        {
           "title": "George Soros\u2019 firm builds $340 million stake in a resurgent tech stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/george-soros-firm-builds-340-223300902.html",
           "publisher": "TheStreet",
@@ -107,12 +115,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/micron-technology-mu-does-low-193008035.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-14T19:30:08Z"
-        },
-        {
-          "title": "Where Will Micron Stock Be in 5 Years?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/where-micron-stock-5-years-174000350.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-14T17:40:00Z"
         }
       ]
     },
@@ -253,34 +255,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-group-vs-marvell-175002967.html",
           "publisher": "Motley Fool",
           "published": "2026-11-14T17:50:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 265.09,
-      "previous_close": 267.29,
-      "change_pct": -0.82,
-      "market_cap": 66816725665.87439,
-      "headlines": [
-        {
-          "title": "NXP: 3 Key Takeaways for Long-Term Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-3-key-takeaways-long-182002104.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-14T18:20:02Z"
-        },
-        {
-          "title": "Why Did Texas Instruments Stock Beat NXP Over Five Years?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-texas-instruments-stock-010308968.html",
-          "publisher": "Trefis",
-          "published": "2026-11-14T01:03:08Z"
-        },
-        {
-          "title": "Nvidia Stock Shock Puts These AI Infrastructure Chip Shares In Focus",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-shock-puts-ai-002003788.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T00:20:03Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 63827.2,
-      "change_pct": -6.48
+      "price": 63453.23,
+      "change_pct": -7.03
     },
     {
       "label": "Gold",

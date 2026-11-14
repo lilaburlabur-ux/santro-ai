@@ -4,24 +4,24 @@ Signed file: `AVGO.research.14.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $347.01 (2026-11-14, ~15-min delayed) |
+| Current price | $nan (2026-11-14, ~15-min delayed) |
 | Market cap | $1.66T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-14.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-5.31%) with negative half-year (-18.11%). |
-| Fresh setup quality | Poor / broken | -27.70% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 42.94%, revenue growth 85.50%. |
 | Value attractiveness | Reasonable | Forward P/E 17.83, EV/Sales 19.92. |
-| Risk level | High | Beta 1.51, ATR 5.1% of price, short float 1.11%. |
+| Risk level | Elevated | Beta 1.51, ATR nan% of price, short float 1.11%. |
 
-**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Can You Justify Buying Dynatrace Stock Today? | Trefis | 2026-11-14 |
 | Wall Street stocks mostly lower as Nvidia extends slump | AFP | 2026-11-13 |
 | Stocks to Watch Recap: Nvidia, AMD, Microsoft | The Wall Street Journal | 2026-11-13 |
 | Nvidia Has Real Problems—but Don’t Fall For Fear Mongering | Barrons.com | 2026-11-13 |
-| Stock Market Today, Nov. 13: Nvidia Slides After HSBC Downgrades Stock to Hold on CEO Uncertainty | Motley Fool | 2026-11-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $347.01; 52w high $479.94 (-27.70%); 52w low $291.53 (+19.03%) |
-| Trend | -5.31% vs SMA200, +0.51% vs SMA50, +4.85% vs SMA20 |
-| Momentum | RSI(14) 53.2 (neutral) |
-| Volatility | ATR(14) 17.84 (~5.1% of price); beta 1.51 |
-| Setup perspective | -27.70% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $479.94 (+nan%); 52w low $291.53 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 59.5 (neutral) |
+| Volatility | ATR(14) 17.16 (~nan% of price); beta 1.51 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +18.2% |
-| Month | +0.8% |
-| Quarter | -11.4% |
-| Half Y | -18.1% |
-| 1Y | -1.6% |
-| YTD | +0.4% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,8 +95,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Price (T.Rowe) Associates Inc | 82,851,970 | 1.74% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.51, ATR 5.1% of price, short float 1.11%. Size positions accordingly.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
+- **Volatility risk:** Beta 1.51, ATR nan% of price, short float 1.11%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -111,14 +110,14 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $347.01 | EV/Sales | 19.92 |
+| Price | $nan | EV/Sales | 19.92 |
 | Market cap | $1.66T | EV/EBITDA | 33.96 |
 | Beta | 1.51 | Gross margin | 75.52% |
-| RSI(14) | 53.2 | Operating margin | 48.81% |
-| ATR(14) | 17.84 | Profit margin | 42.94% |
-| SMA20 dist | +4.85% | ROA | 15.37% |
-| SMA50 dist | +0.51% | ROE | 44.25% |
-| SMA200 dist | -5.31% | Revenue (ttm) | $89.10B |
+| RSI(14) | 59.5 | Operating margin | 48.81% |
+| ATR(14) | 17.16 | Profit margin | 42.94% |
+| SMA20 dist | +nan% | ROA | 15.37% |
+| SMA50 dist | +nan% | ROE | 44.25% |
+| SMA200 dist | +nan% | Revenue (ttm) | $89.10B |
 | 52W high | $479.94 | Revenue growth y/y | 85.50% |
 | 52W low | $291.53 | Inst. ownership | 79.45% |
 | P/E (ttm) | 44.32 | Insider ownership | 1.91% |
@@ -140,7 +139,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | 2026-09-03 | main | Raymond James | Outperform → Outperform |
 
 ## 9. Conclusion
-AVGO: Low momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+AVGO: Moderate momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

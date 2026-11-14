@@ -1,15 +1,15 @@
 {
  "signed": "14.11.2026",
- "generated_utc": "2026-11-14T00:55:11+00:00",
+ "generated_utc": "2026-11-14T01:29:07+00:00",
  "macro": {
-  "score": "Neutral",
-  "note": "Watchlist median 1Y +35%; 9/14 names positive. Sector-level proxy."
+  "score": "Headwind",
+  "note": "Watchlist median 1Y +nan%; 0/14 names positive. Sector-level proxy."
  },
  "stocks": {
   "NVDA": {
    "name": "NVIDIA Corporation",
-   "thesis": "Strong fundamentals (64% net margin, 106% growth) at 10x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 162.85,
+   "thesis": "Strong fundamentals (64% net margin, 106% growth) at 10x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
    "close_date": "2026-11-13",
    "pe_ttm": 20.587864,
    "fwd_pe": 10.28589,
@@ -18,17 +18,17 @@
    "target": 283.30756,
    "analysts": 53,
    "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 8.6
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
    "report": "NVDA.research.14.11.2026.md"
   },
   "TSM": {
    "name": "Taiwan Semiconductor Manufacturing Company Limited",
-   "thesis": "Strong fundamentals (51% net margin, 51% growth) at 17x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 398.73,
+   "thesis": "Strong fundamentals (51% net margin, 51% growth) at 17x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
    "close_date": "2026-11-13",
    "pe_ttm": 25.841219,
    "fwd_pe": 17.050463,
@@ -37,17 +37,17 @@
    "target": 586.693,
    "analysts": 20,
    "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 4.0
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
    "report": "TSM.research.14.11.2026.md"
   },
   "AVGO": {
    "name": "Broadcom Inc.",
-   "thesis": "Strong fundamentals (43% net margin, 86% growth) at 18x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 347.01,
+   "thesis": "Strong fundamentals (43% net margin, 86% growth) at 18x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
    "close_date": "2026-11-13",
    "pe_ttm": 44.31801,
    "fwd_pe": 17.827318,
@@ -56,17 +56,17 @@
    "target": 529.2381,
    "analysts": 47,
    "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 3.2
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
    "report": "AVGO.research.14.11.2026.md"
   },
   "MU": {
    "name": "Micron Technology, Inc.",
-   "thesis": "Strong fundamentals (64% net margin, 379% growth) at 4x forward; high momentum \u2014 deep pullback \u2014 needs base.",
-   "close": 778.31,
+   "thesis": "Strong fundamentals (64% net margin, 379% growth) at 4x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
    "close_date": "2026-11-13",
    "pe_ttm": 10.471007,
    "fwd_pe": 3.7461889,
@@ -75,17 +75,17 @@
    "target": 1561.9111,
    "analysts": 45,
    "scores": {
-    "technical": "High",
-    "narrative": "Strong",
-    "entry_zone": "Deep pullback \u2014 needs base",
-    "rr": 6.1
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
    "report": "MU.research.14.11.2026.md"
   },
   "AMD": {
    "name": "Advanced Micro Devices, Inc.",
-   "thesis": "Strong fundamentals (17% net margin, 45% growth) at 30x forward; high momentum \u2014 pullback zone forming.",
-   "close": 534.06,
+   "thesis": "Strong fundamentals (17% net margin, 45% growth) at 30x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
    "close_date": "2026-11-13",
    "pe_ttm": 114.11539,
    "fwd_pe": 30.188778,
@@ -94,17 +94,17 @@
    "target": 657.74286,
    "analysts": 49,
    "scores": {
-    "technical": "High",
-    "narrative": "Strong",
-    "entry_zone": "Pullback zone forming",
-    "rr": 0.9
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
    "report": "AMD.research.14.11.2026.md"
   },
   "INTC": {
    "name": "Intel Corporation",
-   "thesis": "Weak fundamentals (-20% net margin, 21% growth) at 33x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 59.66,
+   "thesis": "Weak fundamentals (-20% net margin, 21% growth) at 33x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
    "close_date": "2026-11-13",
    "pe_ttm": null,
    "fwd_pe": 33.321045,
@@ -113,17 +113,17 @@
    "target": 90.65116,
    "analysts": 43,
    "scores": {
-    "technical": "Low",
+    "technical": "Moderate",
     "narrative": "Neutral",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 3.8
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
    "report": "INTC.research.14.11.2026.md"
   },
   "ARM": {
    "name": "Arm Holdings plc",
-   "thesis": "Strong fundamentals (17% net margin, 27% growth) at 62x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 190.53,
+   "thesis": "Strong fundamentals (17% net margin, 27% growth) at 62x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
    "close_date": "2026-11-13",
    "pe_ttm": 219.0,
    "fwd_pe": 61.962994,
@@ -132,17 +132,17 @@
    "target": 272.43,
    "analysts": 40,
    "scores": {
-    "technical": "Low",
+    "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 3.0
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
    "report": "ARM.research.14.11.2026.md"
   },
   "MRVL": {
    "name": "Marvell Technology, Inc.",
-   "thesis": "Strong fundamentals (28% net margin, 36% growth) at 21x forward; high momentum \u2014 broken \u2014 no zone.",
-   "close": 156.76,
+   "thesis": "Strong fundamentals (28% net margin, 36% growth) at 21x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
    "close_date": "2026-11-13",
    "pe_ttm": 51.56579,
    "fwd_pe": 21.32818,
@@ -151,17 +151,17 @@
    "target": 310.31824,
    "analysts": 40,
    "scores": {
-    "technical": "High",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 6.3
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
    "report": "MRVL.research.14.11.2026.md"
   },
   "QCOM": {
    "name": "QUALCOMM Incorporated",
-   "thesis": "Mixed fundamentals (32% net margin, -8% growth) at 14x forward; moderate momentum \u2014 deep pullback \u2014 needs base.",
-   "close": 172.47,
+   "thesis": "Mixed fundamentals (32% net margin, -8% growth) at 14x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
    "close_date": "2026-11-13",
    "pe_ttm": 13.580316,
    "fwd_pe": 14.129126,
@@ -172,15 +172,15 @@
    "scores": {
     "technical": "Moderate",
     "narrative": "Neutral",
-    "entry_zone": "Deep pullback \u2014 needs base",
-    "rr": 0.6
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
    "report": "QCOM.research.14.11.2026.md"
   },
   "NXPI": {
    "name": "NXP Semiconductors N.V.",
-   "thesis": "Strong fundamentals (23% net margin, 19% growth) at 14x forward; moderate momentum \u2014 deep pullback \u2014 needs base.",
-   "close": 265.09,
+   "thesis": "Strong fundamentals (23% net margin, 19% growth) at 14x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
    "close_date": "2026-11-13",
    "pe_ttm": 20.856806,
    "fwd_pe": 14.44796,
@@ -190,16 +190,16 @@
    "analysts": 29,
    "scores": {
     "technical": "Moderate",
-    "narrative": "Strong",
-    "entry_zone": "Deep pullback \u2014 needs base",
-    "rr": 0.9
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
    "report": "NXPI.research.14.11.2026.md"
   },
   "LSCC": {
    "name": "Lattice Semiconductor Corporation",
-   "thesis": "Mixed fundamentals (6% net margin, 118% growth) at 26x forward; high momentum \u2014 broken \u2014 no zone.",
-   "close": 112.35,
+   "thesis": "Mixed fundamentals (6% net margin, 118% growth) at 26x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
    "close_date": "2026-11-13",
    "pe_ttm": 362.41934,
    "fwd_pe": 25.598495,
@@ -208,17 +208,17 @@
    "target": 156.18768,
    "analysts": 13,
    "scores": {
-    "technical": "High",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 2.0
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
    "report": "LSCC.research.14.11.2026.md"
   },
   "SYNA": {
    "name": "Synaptics Incorporated",
-   "thesis": "Weak fundamentals (-41% net margin, 0% growth) at 18x forward; high momentum \u2014 deep pullback \u2014 needs base.",
-   "close": 118.14,
+   "thesis": "Weak fundamentals (-41% net margin, 0% growth) at 18x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
    "close_date": "2026-11-13",
    "pe_ttm": null,
    "fwd_pe": 18.159628,
@@ -227,17 +227,17 @@
    "target": 130.125,
    "analysts": 8,
    "scores": {
-    "technical": "High",
+    "technical": "Moderate",
     "narrative": "Neutral",
-    "entry_zone": "Deep pullback \u2014 needs base",
-    "rr": 1.5
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
    "report": "SYNA.research.14.11.2026.md"
   },
   "CEVA": {
    "name": "CEVA, Inc.",
-   "thesis": "Weak fundamentals (-9% net margin, 2% growth) at 34x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 25.59,
+   "thesis": "Weak fundamentals (-9% net margin, 2% growth) at 34x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
    "close_date": "2026-11-13",
    "pe_ttm": null,
    "fwd_pe": 34.05507,
@@ -246,17 +246,17 @@
    "target": 37.11111,
    "analysts": 9,
    "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 4.0
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
    "report": "CEVA.research.14.11.2026.md"
   },
   "AVAV": {
    "name": "AeroVironment, Inc.",
-   "thesis": "Weak fundamentals (-10% net margin, 6% growth) at 27x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 117.52,
+   "thesis": "Weak fundamentals (-10% net margin, 6% growth) at 27x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
    "close_date": "2026-11-13",
    "pe_ttm": null,
    "fwd_pe": 26.659225,
@@ -265,10 +265,10 @@
    "target": 212.1987,
    "analysts": 23,
    "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 5.5
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
    "report": "AVAV.research.14.11.2026.md"
   }

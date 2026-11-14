@@ -4,24 +4,24 @@ Signed file: `AMD.research.14.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $534.06 (2026-11-14, ~15-min delayed) |
+| Current price | $nan (2026-11-14, ~15-min delayed) |
 | Market cap | $875.91B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-14.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +106.29%; price +26.22% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -17.76% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 16.77%, revenue growth 44.70%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 30.19, EV/Sales 20.98. |
-| Risk level | High | Beta 2.54, ATR 7.9% of price, short float 2.36%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 30.19, EV/Sales 19.13. |
+| Risk level | High | Beta 2.54, ATR nan% of price, short float 2.36%. |
 
-**Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $534.06; 52w high $649.42 (-17.76%); 52w low $190.95 (+179.69%) |
-| Trend | +26.22% vs SMA200, -3.70% vs SMA50, +2.90% vs SMA20 |
-| Momentum | RSI(14) 50.4 (neutral) |
-| Volatility | ATR(14) 41.94 (~7.9% of price); beta 2.54 |
-| Setup perspective | -17.76% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $649.42 (+nan%); 52w low $190.95 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 57.5 (neutral) |
+| Volatility | ATR(14) 40.14 (~nan% of price); beta 2.54 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +18.9% |
-| Month | -5.0% |
-| Quarter | +5.5% |
-| Half Y | +25.9% |
-| 1Y | +106.3% |
-| YTD | +139.0% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Revenue (ttm) | $45.44B | Revenue growth 44.70% y/y |
 | Profitability | Gross 56.00%, operating 17.82%, net 16.77% | ROA 5.90%, ROE 11.96% |
 | Balance sheet | Cash $15.78B, debt $9.21B | Current ratio 2.73, debt/equity 13.47 |
-| Valuation | P/E 114.12, forward P/E 30.19, P/S 19.28, P/B 12.81 | EV/Sales 20.98, EV/EBITDA 85.56 |
+| Valuation | P/E 114.12, forward P/E 30.19, P/S 19.28, P/B 12.81 | EV/Sales 19.13, EV/EBITDA 78.02 |
 | Growth expectations | Earnings growth 93.80%, EPS q/q 95.30% | Analyst mean target $657.74 (49 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Morgan Stanley | 24,286,371 | 1.48% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 30.19, EV/Sales 20.98. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.54, ATR 7.9% of price, short float 2.36%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 30.19, EV/Sales 19.13. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.54, ATR nan% of price, short float 2.36%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -111,14 +111,14 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $534.06 | EV/Sales | 20.98 |
-| Market cap | $875.91B | EV/EBITDA | 85.56 |
+| Price | $nan | EV/Sales | 19.13 |
+| Market cap | $875.91B | EV/EBITDA | 78.02 |
 | Beta | 2.54 | Gross margin | 56.00% |
-| RSI(14) | 50.4 | Operating margin | 17.82% |
-| ATR(14) | 41.94 | Profit margin | 16.77% |
-| SMA20 dist | +2.90% | ROA | 5.90% |
-| SMA50 dist | -3.70% | ROE | 11.96% |
-| SMA200 dist | +26.22% | Revenue (ttm) | $45.44B |
+| RSI(14) | 57.5 | Operating margin | 17.82% |
+| ATR(14) | 40.14 | Profit margin | 16.77% |
+| SMA20 dist | +nan% | ROA | 5.90% |
+| SMA50 dist | +nan% | ROE | 11.96% |
+| SMA200 dist | +nan% | Revenue (ttm) | $45.44B |
 | 52W high | $649.42 | Revenue growth y/y | 44.70% |
 | 52W low | $190.95 | Inst. ownership | 76.91% |
 | P/E (ttm) | 114.12 | Insider ownership | 0.42% |
@@ -140,7 +140,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | 2026-11-04 | main | Piper Sandler | Overweight → Overweight |
 
 ## 9. Conclusion
-AMD: High momentum / strong fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+AMD: Moderate momentum / strong fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

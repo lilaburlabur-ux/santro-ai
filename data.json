@@ -1,11 +1,8 @@
 {
-  "as_of_utc": "2026-11-14T11:39:31+00:00",
-  "as_of_local": "2026-11-14 11:39:31 UTC",
+  "as_of_utc": "2026-11-14T11:54:42+00:00",
+  "as_of_local": "2026-11-14 11:54:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM",
-    "AVAV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -176,6 +173,34 @@
       ]
     },
     {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 190.53,
+      "previous_close": 199.78,
+      "change_pct": -4.63,
+      "market_cap": 203867098693.84766,
+      "headlines": [
+        {
+          "title": "AMD Sinks 9%, Marvell Down 5% as Chip Rally Reverses and Treasury Yields Hit 5%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-sinks-9-marvell-down-220540439.html",
+          "publisher": "TIKR",
+          "published": "2026-11-13T22:05:40Z"
+        },
+        {
+          "title": "S&P 500, Nasdaq end lower as Nvidia uncertainty weighs on tech shares",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-dip-nvidia-tumult-103901600.html",
+          "publisher": "Reuters",
+          "published": "2026-11-13T21:34:04Z"
+        },
+        {
+          "title": "Why Arm Holdings Stock Was Pulling Back Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-arm-holdings-stock-pulling-211751568.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-13T21:17:51Z"
+        }
+      ]
+    },
+    {
       "symbol": "QCOM",
       "name": "Qualcomm",
       "price": 172.47,
@@ -183,6 +208,12 @@
       "change_pct": -2.64,
       "market_cap": 184542901306.15234,
       "headlines": [
+        {
+          "title": "Qualcomm Is Cheap Enough to Hold Through 2030",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-cheap-enough-hold-2030-114002657.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-14T11:40:02Z"
+        },
         {
           "title": "Micron Technology vs. Qualcomm: Which Tech Stock Is the Better Buy for 2027?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-vs-qualcomm-tech-013102568.html",
@@ -194,12 +225,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-texas-instruments-stock-010308968.html",
           "publisher": "Trefis",
           "published": "2026-11-14T01:03:08Z"
-        },
-        {
-          "title": "ARM Stock Gains 4% Since Q2 Earnings: Is it a Buy or Hold Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-gains-4-since-174100653.html",
-          "publisher": "Zacks",
-          "published": "2026-11-13T17:41:00Z"
         }
       ]
     },
@@ -284,6 +309,34 @@
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/chip-stocks-down-as-industry-digests-jensen-huang-exit-Lq6UDhwOoZUotX38oTUL?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-11-12T21:11:03Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVAV",
+      "name": "AeroVironment",
+      "price": 117.52,
+      "previous_close": 120.84,
+      "change_pct": -2.75,
+      "market_cap": 5972448728.438278,
+      "headlines": [
+        {
+          "title": "VSAT, AVAV, LMT Secure Multi-Million-Dollar Defense Contracts This Week \u2014 But One Stock Stole The Spotlight",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vsat-avav-lmt-secure-multi-013000631.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-14T01:30:00Z"
+        },
+        {
+          "title": "GrabAGun Digital Holdings Inc. (PEW) Reports Q3 Loss, Misses Revenue Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/grabagun-digital-holdings-inc-pew-220505597.html",
+          "publisher": "Zacks",
+          "published": "2026-11-12T22:05:05Z"
+        },
+        {
+          "title": "Defense Tech: Investors and Operators, 6th Palm Beach CorpGov Forum",
+          "url": "https://finance.yahoo.com/technology/articles/defense-tech-investors-operators-6th-181202789.html",
+          "publisher": "CorpGov.com",
+          "published": "2026-11-12T18:12:02Z"
         }
       ]
     },
@@ -532,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 67093.54,
-      "change_pct": -1.69
+      "price": 67237.16,
+      "change_pct": -1.48
     },
     {
       "label": "Gold",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-14T10:49:08+00:00",
-  "as_of_local": "2026-11-14 10:49:08 UTC",
+  "as_of_utc": "2026-11-14T11:04:12+00:00",
+  "as_of_local": "2026-11-14 11:04:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": -2.01,
       "market_cap": 3932339097381.592,
       "headlines": [
+        {
+          "title": "Nvidia and Jensen Huang fallout: Here's everything we know after a momentous week",
+          "url": "https://finance.yahoo.com/technology/article/nvidia-and-jensen-huang-fallout-heres-everything-we-know-after-a-momentous-week-110000323.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-14T11:00:00Z"
+        },
         {
           "title": "Nvidia's competitors pounce, and what GPU rental prices say about the AI race",
           "url": "https://finance.yahoo.com/video/nvidias-competitors-pounce-and-what-gpu-rental-prices-say-about-the-ai-race-221551379.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/video/how-the-nvidia-scandal-impacts-uschina-relations-department-of-defense-cto-220649347.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-13T22:06:49Z"
-        },
-        {
-          "title": "Cerebras stock surges on Microsoft deal: What it means for Nvidia",
-          "url": "https://finance.yahoo.com/video/cerebras-stock-surges-on-microsoft-deal-what-it-means-for-nvidia-213123807.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-13T21:31:23Z"
         }
       ]
     },
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-gains-4-since-174100653.html",
           "publisher": "Zacks",
           "published": "2026-11-13T17:41:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 156.76,
-      "previous_close": 164.45,
-      "change_pct": -4.68,
-      "market_cap": 141047294719.7584,
-      "headlines": [
-        {
-          "title": "Top 3 Growth Stocks To Watch In November 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-growth-stocks-watch-100933279.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-14T10:09:33Z"
-        },
-        {
-          "title": "2 Stocks That Plunged on Oct. 29 to Buy and Hold Through 2030",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-stocks-plunged-oct-29-090102821.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-14T09:01:02Z"
-        },
-        {
-          "title": "AMD Sinks 9%, Marvell Down 5% as Chip Rally Reverses and Treasury Yields Hit 5%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-sinks-9-marvell-down-220540439.html",
-          "publisher": "TIKR",
-          "published": "2026-11-13T22:05:40Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 67205.25,
-      "change_pct": -1.53
+      "price": 67227.1,
+      "change_pct": -1.5
     },
     {
       "label": "Gold",

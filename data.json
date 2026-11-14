@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-11-14T09:58:42+00:00",
-  "as_of_local": "2026-11-14 09:58:42 UTC",
+  "as_of_utc": "2026-11-14T10:13:48+00:00",
+  "as_of_local": "2026-11-14 10:13:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 162.85,
-      "previous_close": 166.19,
-      "change_pct": -2.01,
-      "market_cap": 3932339097381.592,
-      "headlines": [
-        {
-          "title": "Nvidia's competitors pounce, and what GPU rental prices say about the AI race",
-          "url": "https://finance.yahoo.com/video/nvidias-competitors-pounce-and-what-gpu-rental-prices-say-about-the-ai-race-221551379.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-13T22:15:51Z"
-        },
-        {
-          "title": "How the Nvidia scandal impacts US\u2013China relations: Department of Defense CTO",
-          "url": "https://finance.yahoo.com/video/how-the-nvidia-scandal-impacts-uschina-relations-department-of-defense-cto-220649347.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-13T22:06:49Z"
-        },
-        {
-          "title": "Cerebras stock surges on Microsoft deal: What it means for Nvidia",
-          "url": "https://finance.yahoo.com/video/cerebras-stock-surges-on-microsoft-deal-what-it-means-for-nvidia-213123807.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-13T21:31:23Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 67356.09,
-      "change_pct": -1.31
+      "price": 67199.04,
+      "change_pct": -1.54
     },
     {
       "label": "Gold",

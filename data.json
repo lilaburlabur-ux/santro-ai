@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-13T23:55:48+00:00",
-  "as_of_local": "2026-11-13 23:55:48 UTC",
+  "as_of_utc": "2026-11-14T00:10:49+00:00",
+  "as_of_local": "2026-11-14 00:10:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -63,6 +61,34 @@
       ]
     },
     {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 347.01,
+      "previous_close": 364.36,
+      "change_pct": -4.76,
+      "market_cap": 1656497346071.1292,
+      "headlines": [
+        {
+          "title": "Wall Street stocks mostly lower as Nvidia extends slump",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-stocks-mostly-lower-230704278.html",
+          "publisher": "AFP",
+          "published": "2026-11-13T23:07:04Z"
+        },
+        {
+          "title": "Stocks to Watch Recap: Nvidia, AMD, Microsoft",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026/card/stocks-to-watch-microsoft-nvidia-amd-jWz6wdWH2eBxwM91bJ6m?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-13T22:51:22Z"
+        },
+        {
+          "title": "Nvidia Has Real Problems\u2014but Don\u2019t Fall For Fear Mongering",
+          "url": "https://www.barrons.com/articles/nvidia-balance-sheet-math-f210c291?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-13T22:40:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "MU",
       "name": "Micron Technology",
       "price": 778.31,
@@ -70,6 +96,12 @@
       "change_pct": -2.52,
       "market_cap": 880597997369.4563,
       "headlines": [
+        {
+          "title": "Walmart, Target, and Nvidia Headline a Pivotal Week for Q3 Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-target-nvidia-headline-pivotal-230000146.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T23:00:00Z"
+        },
         {
           "title": "Thierry Borgeat Says Chip Stocks Peak Every Two Years. His Chart Points to Another Top",
           "url": "https://finance.yahoo.com/markets/stocks/articles/thierry-borgeat-says-chip-stocks-220713203.html",
@@ -81,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-multibagger-stocks-buy-according-213206089.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-13T21:32:06Z"
-        },
-        {
-          "title": "What Bernstein Sees in Micron (MU) After the Memory Selloff",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-sees-micron-mu-memory-213006767.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-13T21:30:06Z"
         }
       ]
     },
@@ -348,7 +374,7 @@
       "price": 25.59,
       "previous_close": 26.32,
       "change_pct": -2.77,
-      "market_cap": 720462706.7759705,
+      "market_cap": 730012946.0129166,
       "headlines": [
         {
           "title": "What Gave Agilysys Stock Its Edge Over Cadence?",
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 68212.11,
-      "change_pct": -4.39
+      "price": 68354.1,
+      "change_pct": -4.19
     },
     {
       "label": "Gold",

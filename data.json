@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-14T13:20:34+00:00",
-  "as_of_local": "2026-11-14 13:20:34 UTC",
+  "as_of_utc": "2026-11-14T13:35:39+00:00",
+  "as_of_local": "2026-11-14 13:35:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -47,16 +47,16 @@
           "published": "2026-11-14T12:04:00Z"
         },
         {
+          "title": "ASML Soars 10% in a Week as Chip Stocks Bounce and Musk\u2019s Terafab Eyes a Million Wafers",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-soars-10-week-chip-092635434.html",
+          "publisher": "TIKR",
+          "published": "2026-11-14T09:26:35Z"
+        },
+        {
           "title": "Nvidia Has Real Problems\u2014but Don\u2019t Fall for Fear Mongering",
           "url": "https://www.barrons.com/articles/nvidia-balance-sheet-math-f210c291?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-13T22:40:00Z"
-        },
-        {
-          "title": "Thierry Borgeat Says Chip Stocks Peak Every Two Years. His Chart Points to Another Top",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/thierry-borgeat-says-chip-stocks-220713203.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-13T22:07:13Z"
         }
       ]
     },
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 42.4,
-      "change_pct": -2.89,
+      "price": null,
+      "change_pct": 0.0,
       "holdings": [
         {
           "symbol": "MU",
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 42.4,
-    "change_pct": -2.89,
+    "price": null,
+    "change_pct": 0.0,
     "holdings": [
       {
         "symbol": "MU",
@@ -579,9 +579,14 @@
   },
   "tape": [
     {
+      "label": "SPX",
+      "price": 7561.67,
+      "change_pct": -0.4
+    },
+    {
       "label": "BTC",
-      "price": 66727.38,
-      "change_pct": -2.23
+      "price": 66698.06,
+      "change_pct": -2.27
     },
     {
       "label": "Gold",

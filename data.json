@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-14T11:19:20+00:00",
-  "as_of_local": "2026-11-14 11:19:20 UTC",
+  "as_of_utc": "2026-11-14T11:24:33+00:00",
+  "as_of_local": "2026-11-14 11:24:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -97,6 +99,12 @@
       "market_cap": 880597997369.4563,
       "headlines": [
         {
+          "title": "Is It Too Late to Buy Micron Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/too-buy-micron-stock-111000997.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-14T11:10:00Z"
+        },
+        {
           "title": "Nvidia, Alphabet, Microsoft, and Micron Are All Buying Anthropic\u2019s IPO. Should You Buy Too?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-alphabet-microsoft-micron-buying-102202908.html",
           "publisher": "Motley Fool",
@@ -107,12 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-vs-qualcomm-tech-013102568.html",
           "publisher": "Motley Fool",
           "published": "2026-11-14T01:31:02Z"
-        },
-        {
-          "title": "Walmart, Target, and Nvidia Headline a Pivotal Week for Q3 Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-target-nvidia-headline-pivotal-230000146.html",
-          "publisher": "Zacks",
-          "published": "2026-11-13T23:00:00Z"
         }
       ]
     },
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-sinks-9-marvell-down-220540439.html",
           "publisher": "TIKR",
           "published": "2026-11-13T22:05:40Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 190.53,
-      "previous_close": 199.78,
-      "change_pct": -4.63,
-      "market_cap": 203867098693.84766,
-      "headlines": [
-        {
-          "title": "AMD Sinks 9%, Marvell Down 5% as Chip Rally Reverses and Treasury Yields Hit 5%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-sinks-9-marvell-down-220540439.html",
-          "publisher": "TIKR",
-          "published": "2026-11-13T22:05:40Z"
-        },
-        {
-          "title": "S&P 500, Nasdaq end lower as Nvidia uncertainty weighs on tech shares",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-dip-nvidia-tumult-103901600.html",
-          "publisher": "Reuters",
-          "published": "2026-11-13T21:34:04Z"
-        },
-        {
-          "title": "Why Arm Holdings Stock Was Pulling Back Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-arm-holdings-stock-pulling-211751568.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-13T21:17:51Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 67225.15,
-      "change_pct": -1.5
+      "price": 67209.01,
+      "change_pct": -1.52
     },
     {
       "label": "Gold",

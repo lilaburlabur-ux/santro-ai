@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-14T09:08:14+00:00",
-  "as_of_local": "2026-11-14 09:08:14 UTC",
+  "as_of_utc": "2026-11-14T09:23:21+00:00",
+  "as_of_local": "2026-11-14 09:23:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 162.85,
+      "previous_close": 166.19,
+      "change_pct": -2.01,
+      "market_cap": 3932339097381.592,
+      "headlines": [
+        {
+          "title": "Nvidia's competitors pounce, and what GPU rental prices say about the AI race",
+          "url": "https://finance.yahoo.com/video/nvidias-competitors-pounce-and-what-gpu-rental-prices-say-about-the-ai-race-221551379.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-13T22:15:51Z"
+        },
+        {
+          "title": "How the Nvidia scandal impacts US\u2013China relations: Department of Defense CTO",
+          "url": "https://finance.yahoo.com/video/how-the-nvidia-scandal-impacts-uschina-relations-department-of-defense-cto-220649347.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-13T22:06:49Z"
+        },
+        {
+          "title": "Cerebras stock surges on Microsoft deal: What it means for Nvidia",
+          "url": "https://finance.yahoo.com/video/cerebras-stock-surges-on-microsoft-deal-what-it-means-for-nvidia-213123807.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-13T21:31:23Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -211,6 +237,12 @@
       "market_cap": 141047294719.7584,
       "headlines": [
         {
+          "title": "2 Stocks That Plunged on Oct. 29 to Buy and Hold Through 2030",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-stocks-plunged-oct-29-090102821.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-14T09:01:02Z"
+        },
+        {
           "title": "AMD Sinks 9%, Marvell Down 5% as Chip Rally Reverses and Treasury Yields Hit 5%",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-sinks-9-marvell-down-220540439.html",
           "publisher": "TIKR",
@@ -221,12 +253,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/deal-behind-td-cowen-downgrade-213101784.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-13T21:31:01Z"
-        },
-        {
-          "title": "Marvell Is Still Up 81% This Year. Can MRVL Stock Hit $300 by 2029?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-still-81-mrvl-stock-175426130.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-13T17:54:26Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 67081.46,
-      "change_pct": -1.71
+      "price": 67104.8,
+      "change_pct": -1.68
     },
     {
       "label": "Gold",

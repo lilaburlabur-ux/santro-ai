@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-14T09:43:36+00:00",
-  "as_of_local": "2026-11-14 09:43:36 UTC",
+  "as_of_utc": "2026-11-14T09:58:42+00:00",
+  "as_of_local": "2026-11-14 09:58:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -31,6 +29,34 @@
           "url": "https://finance.yahoo.com/video/cerebras-stock-surges-on-microsoft-deal-what-it-means-for-nvidia-213123807.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-13T21:31:23Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 398.73,
+      "previous_close": 405.49,
+      "change_pct": -1.67,
+      "market_cap": 2068002433877.914,
+      "headlines": [
+        {
+          "title": "Nvidia Has Real Problems\u2014but Don\u2019t Fall for Fear Mongering",
+          "url": "https://www.barrons.com/articles/nvidia-balance-sheet-math-f210c291?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-13T22:40:00Z"
+        },
+        {
+          "title": "Thierry Borgeat Says Chip Stocks Peak Every Two Years. His Chart Points to Another Top",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/thierry-borgeat-says-chip-stocks-220713203.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-13T22:07:13Z"
+        },
+        {
+          "title": "Nvidia stock slips as investors digest CEO exit, broader chip sell-off accelerates",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-stock-slips-as-investors-digest-ceo-exit-rest-of-chip-sector-falls-144818245.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-13T14:48:18Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 67120.22,
-      "change_pct": -1.65
+      "price": 67356.09,
+      "change_pct": -1.31
     },
     {
       "label": "Gold",

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-15T10:21:35+00:00",
-  "as_of_local": "2026-11-15 10:21:35 UTC",
+  "as_of_utc": "2026-11-15T10:26:46+00:00",
+  "as_of_local": "2026-11-15 10:26:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,6 +12,12 @@
       "change_pct": -2.01,
       "market_cap": 3932339097381.592,
       "headlines": [
+        {
+          "title": "Meet the Monthly Dividend Stock That Has Raised Its Payout 137 Times Since 1994. Here's Why It's a Buy Before the End of November.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meet-monthly-dividend-stock-raised-102002577.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-15T10:20:02Z"
+        },
         {
           "title": "A New Congress Takes Office in January. Here's What It Means for Your Investing Strategy.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/congress-takes-office-january-heres-100400627.html",
@@ -25,12 +29,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-stock-lost-more-half-095302397.html",
           "publisher": "Motley Fool",
           "published": "2026-11-15T09:53:02Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 398.73,
+      "previous_close": 405.49,
+      "change_pct": -1.67,
+      "market_cap": 2068002433877.914,
+      "headlines": [
+        {
+          "title": "\u201cBeing Prudent\u201d: TSMC Stock Has Surged 41% in a Year. Is It Too Late to Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/being-prudent-tsmc-stock-surged-223054275.html",
+          "publisher": "TIKR",
+          "published": "2026-11-14T22:30:54Z"
         },
         {
-          "title": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
-          "url": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-11-15T09:48:00Z"
+          "title": "Harvard Cut Nvidia by a Third and Bought AMD",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/harvard-cut-nvidia-third-bought-143800667.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-14T14:38:00Z"
+        },
+        {
+          "title": "Why a Rising TSMC Challenger Could Reshape the Chip Foundry Landscape",
+          "url": "https://finance.yahoo.com/technology/articles/why-rising-tsmc-challenger-could-120400048.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-14T12:04:00Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 65446.52,
-      "change_pct": 2.06
+      "price": 65423.85,
+      "change_pct": 2.02
     },
     {
       "label": "Gold",

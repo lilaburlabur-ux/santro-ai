@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-15T14:18:42+00:00",
-  "as_of_local": "2026-11-15 14:18:42 UTC",
+  "as_of_utc": "2026-11-15T14:33:45+00:00",
+  "as_of_local": "2026-11-15 14:33:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -113,34 +115,6 @@
           "url": "https://finance.yahoo.com/technology/articles/micron-technology-mu-more-75-230900121.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-14T23:09:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 534.06,
-      "previous_close": 585.3,
-      "change_pct": -8.75,
-      "market_cap": 875904993264.9407,
-      "headlines": [
-        {
-          "title": "The Evidence Is Piling Up: AMD Could Be the Best Artificial Intelligence (AI) Stock to Buy Amid the Sell-Off",
-          "url": "https://finance.yahoo.com/technology/ai/articles/evidence-piling-amd-could-best-134502914.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-15T13:45:02Z"
-        },
-        {
-          "title": "Anthropic Just Delivered Great News for AMD Investors and Bad News for Nvidia",
-          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-just-delivered-great-news-104002159.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-15T10:40:02Z"
-        },
-        {
-          "title": "Street Calls of the Week",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/street-calls-week-103003191.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-15T10:30:03Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 65372.4,
-      "change_pct": 1.94
+      "price": 64839.9,
+      "change_pct": 1.11
     },
     {
       "label": "Gold",

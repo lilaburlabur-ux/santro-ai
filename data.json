@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-15T13:13:10+00:00",
-  "as_of_local": "2026-11-15 13:13:10 UTC",
+  "as_of_utc": "2026-11-15T13:28:13+00:00",
+  "as_of_local": "2026-11-15 13:28:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 162.85,
+      "previous_close": 166.19,
+      "change_pct": -2.01,
+      "market_cap": 3932339097381.592,
+      "headlines": [
+        {
+          "title": "'Massive shoes to fill': Wall Street sours on Nvidia stock after Jensen Huang's exit",
+          "url": "https://finance.yahoo.com/markets/article/massive-shoes-to-fill-wall-street-weighs-nvidia-stock-amid-ceo-fallout-131854664.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-15T13:18:54Z"
+        },
+        {
+          "title": "Jensen Huang leaves Nvidia with a $132 billion stake \u2014 here's when he can sell and why investors may not know when he does: Chart of the Day",
+          "url": "https://finance.yahoo.com/markets/article/jensen-huang-leaves-nvidia-with-a-132-billion-stake--heres-when-he-can-sell-and-why-investors-may-not-know-when-he-does-chart-of-the-day-130732443.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-15T13:07:32Z"
+        },
+        {
+          "title": "Nvidia's first post-Jensen earnings and Anthropic's IPO: What to watch this week",
+          "url": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-15T11:00:00Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -375,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 42.4,
-      "change_pct": -2.89,
+      "price": null,
+      "change_pct": 0.0,
       "holdings": [
         {
           "symbol": "MU",
@@ -465,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 42.4,
-    "change_pct": -2.89,
+    "price": null,
+    "change_pct": 0.0,
     "holdings": [
       {
         "symbol": "MU",
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 65494.02,
-      "change_pct": 2.13
+      "price": 65687.91,
+      "change_pct": 2.43
     },
     {
       "label": "Gold",

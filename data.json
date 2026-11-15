@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-15T06:51:39+00:00",
-  "as_of_local": "2026-11-15 06:51:39 UTC",
+  "as_of_utc": "2026-11-15T06:56:49+00:00",
+  "as_of_local": "2026-11-15 06:56:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "QCOM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -199,6 +197,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/52-hedge-funds-back-semiconductor-152858112.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-14T15:28:58Z"
+        }
+      ]
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "price": 172.47,
+      "previous_close": 177.14,
+      "change_pct": -2.64,
+      "market_cap": 184542901306.15234,
+      "headlines": [
+        {
+          "title": "The Semiconductor ETF Has Lost a Quarter of Its Value Since June. Buy It Now and Hold It Through 2030.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-etf-lost-quarter-value-013402396.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-15T01:34:02Z"
+        },
+        {
+          "title": "Arm vs. ASML: Which Technology Stock Is a Better Buy for 2027?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-vs-asml-technology-stock-172201795.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-14T17:22:01Z"
+        },
+        {
+          "title": "Qualcomm Is Cheap Enough to Hold Through 2030",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-cheap-enough-hold-2030-114002657.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-14T11:40:02Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 64382.03,
-      "change_pct": -5.67
+      "price": 64414.08,
+      "change_pct": -5.62
     },
     {
       "label": "Gold",

@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-11-15T09:51:24+00:00",
-  "as_of_local": "2026-11-15 09:51:24 UTC",
+  "as_of_utc": "2026-11-15T10:06:30+00:00",
+  "as_of_local": "2026-11-15 10:06:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 162.85,
-      "previous_close": 166.19,
-      "change_pct": -2.01,
-      "market_cap": 3932339097381.592,
-      "headlines": [
-        {
-          "title": "5 big analyst AI moves: Nvidia hit with downgrades after Huang\u2019s exit",
-          "url": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-093002830.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-15T09:30:02Z"
-        },
-        {
-          "title": "What\u2019s Next for Nvidia After Jensen Huang\u2019s Resignation?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/next-nvidia-jensen-huang-resignation-093002265.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-15T09:30:02Z"
-        },
-        {
-          "title": "President Donald Trump Claims, \"Tariffs Don't Cause Inflation, They Cause Wealth\" -- but Economic Data Says Otherwise",
-          "url": "https://finance.yahoo.com/economy/policy/articles/president-donald-trump-claims-tariffs-092602491.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-15T09:26:02Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 65345.14,
-      "change_pct": 1.9
+      "price": 65424.63,
+      "change_pct": 2.02
     },
     {
       "label": "Gold",

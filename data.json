@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-15T03:29:45+00:00",
-  "as_of_local": "2026-11-15 03:29:45 UTC",
+  "as_of_utc": "2026-11-15T03:34:57+00:00",
+  "as_of_local": "2026-11-15 03:34:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-slumped-today-230951500.html",
           "publisher": "Motley Fool",
           "published": "2026-11-13T23:09:51Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 190.53,
-      "previous_close": 199.78,
-      "change_pct": -4.63,
-      "market_cap": 203867098693.84766,
-      "headlines": [
-        {
-          "title": "Astera Labs vs. Arm: Which Technology Stock Is a Better Buy for 2027?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-vs-arm-technology-195402917.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-14T19:54:02Z"
-        },
-        {
-          "title": "Arm vs. ASML: Which Technology Stock Is a Better Buy for 2027?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-vs-asml-technology-stock-172201795.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-14T17:22:01Z"
-        },
-        {
-          "title": "52 Hedge Funds Back This Semiconductor Stock \u2013 What\u2019s the Catch?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/52-hedge-funds-back-semiconductor-152858112.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-14T15:28:58Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 64956.46,
-      "change_pct": -4.82
+      "price": 64819.35,
+      "change_pct": -5.03
     },
     {
       "label": "Gold",

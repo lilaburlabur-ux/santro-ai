@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-15T02:39:21+00:00",
-  "as_of_local": "2026-11-15 02:39:21 UTC",
+  "as_of_utc": "2026-11-15T02:44:29+00:00",
+  "as_of_local": "2026-11-15 02:44:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-jumped-nvidia-fell-investors-022002767.html",
           "publisher": "Motley Fool",
           "published": "2026-11-15T02:20:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 398.73,
-      "previous_close": 405.49,
-      "change_pct": -1.67,
-      "market_cap": 2068002433877.914,
-      "headlines": [
-        {
-          "title": "\u201cBeing Prudent\u201d: TSMC Stock Has Surged 41% in a Year. Is It Too Late to Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/being-prudent-tsmc-stock-surged-223054275.html",
-          "publisher": "TIKR",
-          "published": "2026-11-14T22:30:54Z"
-        },
-        {
-          "title": "Harvard Cut Nvidia by a Third and Bought AMD",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/harvard-cut-nvidia-third-bought-143800667.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-14T14:38:00Z"
-        },
-        {
-          "title": "Why a Rising TSMC Challenger Could Reshape the Chip Foundry Landscape",
-          "url": "https://finance.yahoo.com/technology/articles/why-rising-tsmc-challenger-could-120400048.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-14T12:04:00Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 64781.09,
-      "change_pct": -5.08
+      "price": 64743.06,
+      "change_pct": -5.14
     },
     {
       "label": "Gold",

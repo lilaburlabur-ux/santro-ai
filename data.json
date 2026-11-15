@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-15T01:03:29+00:00",
-  "as_of_local": "2026-11-15 01:03:29 UTC",
+  "as_of_utc": "2026-11-15T01:18:44+00:00",
+  "as_of_local": "2026-11-15 01:18:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/history-says-best-investing-move-002000644.html",
           "publisher": "Motley Fool",
           "published": "2026-11-15T00:20:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 398.73,
-      "previous_close": 405.49,
-      "change_pct": -1.67,
-      "market_cap": 2068002433877.914,
-      "headlines": [
-        {
-          "title": "\u201cBeing Prudent\u201d: TSMC Stock Has Surged 41% in a Year. Is It Too Late to Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/being-prudent-tsmc-stock-surged-223054275.html",
-          "publisher": "TIKR",
-          "published": "2026-11-14T22:30:54Z"
-        },
-        {
-          "title": "Harvard Cut Nvidia by a Third and Bought AMD",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/harvard-cut-nvidia-third-bought-143800667.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-14T14:38:00Z"
-        },
-        {
-          "title": "Why a Rising TSMC Challenger Could Reshape the Chip Foundry Landscape",
-          "url": "https://finance.yahoo.com/technology/articles/why-rising-tsmc-challenger-could-120400048.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-14T12:04:00Z"
         }
       ]
     },
@@ -97,6 +71,12 @@
       "market_cap": 880597997369.4563,
       "headlines": [
         {
+          "title": "Samsung\u2019s $34 Billion HBM Bet Raises Memory Glut Risks",
+          "url": "https://finance.yahoo.com/technology/articles/samsung-34-billion-hbm-bet-010807624.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-15T01:08:07Z"
+        },
+        {
           "title": "Micron Technology (MU) Has More Than 75% Of 2027 Output Committed",
           "url": "https://finance.yahoo.com/technology/articles/micron-technology-mu-more-75-230900121.html",
           "publisher": "Simply Wall St.",
@@ -107,12 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/george-soros-firm-builds-340-223300902.html",
           "publisher": "TheStreet",
           "published": "2026-11-14T22:33:00Z"
-        },
-        {
-          "title": "Micron Technology (MU): Does a Low Earnings Multiple Understate Its AI Opportunity?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/micron-technology-mu-does-low-193008035.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-14T19:30:08Z"
         }
       ]
     },
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -0.66,
+          "price": 377.0,
           "currency": "TWD"
         },
         {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -0.66,
+        "price": 377.0,
         "currency": "TWD"
       },
       {
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 62956.81,
-      "change_pct": -7.75
+      "price": 62854.42,
+      "change_pct": -7.9
     },
     {
       "label": "Gold",

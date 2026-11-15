@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-11-15T04:55:34+00:00",
-  "as_of_local": "2026-11-15 04:55:34 UTC",
+  "as_of_utc": "2026-11-15T05:10:34+00:00",
+  "as_of_local": "2026-11-15 05:10:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 162.85,
-      "previous_close": 166.19,
-      "change_pct": -2.01,
-      "market_cap": 3932339097381.592,
-      "headlines": [
-        {
-          "title": "Why the biggest risk for investors in 2027 isn't Nvidia \u2014 it's inflation",
-          "url": "https://finance.yahoo.com/economy/article/why-the-biggest-risk-for-investors-in-2027-isnt-nvidia--its-inflation-160241059.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-14T16:02:41Z"
-        },
-        {
-          "title": "1 ETF That Can Turn $500 Monthly Into a $600,000 Portfolio That Pays Out $18,000 Annually",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-etf-turn-500-monthly-042001335.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-15T04:20:01Z"
-        },
-        {
-          "title": "Dow Jones Futures Loom, Bitcoin Dives In Shaky Market Rally; Nvidia Earnings, Anthropic IPO Ahead",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-earnings-anthropic-ipo-spacex-starship-flight-15/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-15T04:05:44Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 65065.32,
-      "change_pct": -4.67
+      "price": 64788.98,
+      "change_pct": -5.07
     },
     {
       "label": "Gold",

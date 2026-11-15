@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-15T15:32:08+00:00",
-  "as_of_local": "2026-11-15 15:32:08 UTC",
+  "as_of_utc": "2026-11-15T15:47:10+00:00",
+  "as_of_local": "2026-11-15 15:47:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -209,6 +209,12 @@
       "market_cap": 184542901306.15234,
       "headlines": [
         {
+          "title": "Bernstein Says Qualcomm\u2019s \u201cMargin Outlook Is Lousy.\u201d Is the 6% Slide a Buying Chance?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-says-qualcomm-margin-outlook-043321468.html",
+          "publisher": "TIKR",
+          "published": "2026-11-15T04:33:21Z"
+        },
+        {
           "title": "The Semiconductor ETF Has Lost a Quarter of Its Value Since June. Buy It Now and Hold It Through 2030.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-etf-lost-quarter-value-013402396.html",
           "publisher": "Motley Fool",
@@ -219,12 +225,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/arm-vs-asml-technology-stock-172201795.html",
           "publisher": "Motley Fool",
           "published": "2026-11-14T17:22:01Z"
-        },
-        {
-          "title": "Qualcomm Is Cheap Enough to Hold Through 2030",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-cheap-enough-hold-2030-114002657.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-14T11:40:02Z"
         }
       ]
     },
@@ -243,16 +243,16 @@
           "published": "2026-11-15T09:08:12Z"
         },
         {
+          "title": "Marvell CEO Defends $115 Billion Lumentum Deal: \u201cSometimes Being Unorthodox\u201d Pays Off",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-ceo-defends-115-billion-042936338.html",
+          "publisher": "TIKR",
+          "published": "2026-11-15T04:29:36Z"
+        },
+        {
           "title": "Marvell\u2019s 3 new directors hint at its biggest Lumentum risk",
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-3-directors-hint-biggest-203700990.html",
           "publisher": "TheStreet",
           "published": "2026-11-14T20:37:00Z"
-        },
-        {
-          "title": "Marvell Technology (MRVL): Can Its $20 Billion Revenue Outlook Justify the Valuation?",
-          "url": "https://finance.yahoo.com/technology/articles/marvell-technology-mrvl-20-billion-192533605.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-14T19:25:33Z"
         }
       ]
     },
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -1.96,
-          "price": 125.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "TWD"
         }
       ]
@@ -571,17 +571,22 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -1.96,
-        "price": 125.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "TWD"
       }
     ]
   },
   "tape": [
     {
+      "label": "SPX",
+      "price": 7561.67,
+      "change_pct": -0.4
+    },
+    {
       "label": "BTC",
-      "price": 64726.68,
-      "change_pct": 0.93
+      "price": 64642.51,
+      "change_pct": 0.8
     },
     {
       "label": "Gold",

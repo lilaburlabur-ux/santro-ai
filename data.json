@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-15T16:52:46+00:00",
-  "as_of_local": "2026-11-15 16:52:46 UTC",
+  "as_of_utc": "2026-11-15T17:07:59+00:00",
+  "as_of_local": "2026-11-15 17:07:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "QCOM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -99,6 +97,12 @@
       "market_cap": 880597997369.4563,
       "headlines": [
         {
+          "title": "DRAM Just Got More Expensive Than AI Memory. Here\u2019s Why Micron Could Soar in 2027",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dram-just-got-more-expensive-170218724.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-15T17:02:18Z"
+        },
+        {
           "title": "Traders Turn to Kalshi Stock \u2018Perps\u2019 on Nvidia and SpaceX as Leverage Fears Grow",
           "url": "https://finance.yahoo.com/markets/options/articles/traders-turn-kalshi-stock-perps-150000698.html",
           "publisher": "Bloomberg",
@@ -109,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-amazon-ibm-3-favorite-103702400.html",
           "publisher": "Motley Fool",
           "published": "2026-11-15T10:37:02Z"
-        },
-        {
-          "title": "Samsung\u2019s $34 Billion HBM Bet Raises Memory Glut Risks",
-          "url": "https://finance.yahoo.com/technology/articles/samsung-34-billion-hbm-bet-010807624.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-15T01:08:07Z"
         }
       ]
     },
@@ -199,6 +197,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/52-hedge-funds-back-semiconductor-152858112.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-14T15:28:58Z"
+        }
+      ]
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "price": 172.47,
+      "previous_close": 177.14,
+      "change_pct": -2.64,
+      "market_cap": 184542901306.15234,
+      "headlines": [
+        {
+          "title": "Bernstein Says Qualcomm\u2019s \u201cMargin Outlook Is Lousy.\u201d Is the 6% Slide a Buying Chance?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-says-qualcomm-margin-outlook-043321468.html",
+          "publisher": "TIKR",
+          "published": "2026-11-15T04:33:21Z"
+        },
+        {
+          "title": "The Semiconductor ETF Has Lost a Quarter of Its Value Since June. Buy It Now and Hold It Through 2030.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-etf-lost-quarter-value-013402396.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-15T01:34:02Z"
+        },
+        {
+          "title": "Arm vs. ASML: Which Technology Stock Is a Better Buy for 2027?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-vs-asml-technology-stock-172201795.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-14T17:22:01Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 64547.96,
-      "change_pct": 0.65
+      "price": 64729.61,
+      "change_pct": 0.94
     },
     {
       "label": "Gold",

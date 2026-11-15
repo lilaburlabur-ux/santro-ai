@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-15T16:37:36+00:00",
-  "as_of_local": "2026-11-15 16:37:36 UTC",
+  "as_of_utc": "2026-11-15T16:52:46+00:00",
+  "as_of_local": "2026-11-15 16:52:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -197,34 +199,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/52-hedge-funds-back-semiconductor-152858112.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-14T15:28:58Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 172.47,
-      "previous_close": 177.14,
-      "change_pct": -2.64,
-      "market_cap": 184542901306.15234,
-      "headlines": [
-        {
-          "title": "Bernstein Says Qualcomm\u2019s \u201cMargin Outlook Is Lousy.\u201d Is the 6% Slide a Buying Chance?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-says-qualcomm-margin-outlook-043321468.html",
-          "publisher": "TIKR",
-          "published": "2026-11-15T04:33:21Z"
-        },
-        {
-          "title": "The Semiconductor ETF Has Lost a Quarter of Its Value Since June. Buy It Now and Hold It Through 2030.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-etf-lost-quarter-value-013402396.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-15T01:34:02Z"
-        },
-        {
-          "title": "Arm vs. ASML: Which Technology Stock Is a Better Buy for 2027?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-vs-asml-technology-stock-172201795.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-14T17:22:01Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 64492.47,
-      "change_pct": 0.57
+      "price": 64547.96,
+      "change_pct": 0.65
     },
     {
       "label": "Gold",

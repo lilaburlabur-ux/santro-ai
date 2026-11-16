@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-16T03:05:18+00:00",
-  "as_of_local": "2026-11-16 03:05:18 UTC",
+  "as_of_utc": "2026-11-16T03:20:19+00:00",
+  "as_of_local": "2026-11-16 03:20:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CEVA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -74,7 +72,7 @@
           "title": "Jensen Huang Reportedly Considers Returning To Nvidia: FT",
           "url": "https://www.investors.com/news/technology/jensen-huang-considers-returning-to-nvidia-stock/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-16T02:35:46Z"
+          "published": "2026-11-16T03:15:03Z"
         },
         {
           "title": "Marvell\u2019s Trillion-Dollar Target",
@@ -127,16 +125,16 @@
       "market_cap": 875904993264.9407,
       "headlines": [
         {
+          "title": "Jensen Huang Reportedly Considers Returning To Nvidia: FT",
+          "url": "https://www.investors.com/news/technology/jensen-huang-considers-returning-to-nvidia-stock/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-16T03:15:03Z"
+        },
+        {
           "title": "Buy Alert: 5 Stocks Analysts Upgraded on Thursday",
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-alert-5-stocks-analysts-025136531.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-16T02:51:36Z"
-        },
-        {
-          "title": "Jensen Huang Reportedly Considers Returning To Nvidia: FT",
-          "url": "https://www.investors.com/news/technology/jensen-huang-considers-returning-to-nvidia-stock/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-16T02:35:46Z"
         },
         {
           "title": "Advanced Micro Devices (AMD) Deepens Quantum Push With New Research And Commercial Ties",
@@ -369,6 +367,34 @@
           "published": "2026-11-05T23:07:15Z"
         }
       ]
+    },
+    {
+      "symbol": "CEVA",
+      "name": "CEVA",
+      "price": 25.59,
+      "previous_close": 26.32,
+      "change_pct": -2.77,
+      "market_cap": 730012946.0129166,
+      "headlines": [
+        {
+          "title": "3 AI Chip Stocks With Lower China Exposure After Nvidia Stock Fell 28%",
+          "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-lower-160907984.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-15T16:09:07Z"
+        },
+        {
+          "title": "What Gave Agilysys Stock Its Edge Over Cadence?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/gave-agilysys-stock-edge-over-153915805.html",
+          "publisher": "Trefis",
+          "published": "2026-11-11T15:39:15Z"
+        },
+        {
+          "title": "CEVA, Inc. Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-inc-q3-2026-earnings-214428841.html",
+          "publisher": "Moby",
+          "published": "2026-11-09T21:44:28Z"
+        }
+      ]
     }
   ],
   "etfs": [
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -5.18,
-          "price": 1153000.0,
+          "change_pct": -5.43,
+          "price": 1150000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -3.11,
-          "price": 199600.0,
+          "change_pct": -3.45,
+          "price": 198900.0,
           "currency": "KRW"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -7.16,
-          "price": 350.0,
+          "change_pct": -7.69,
+          "price": 348.0,
           "currency": "TWD"
         },
         {
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -7.2,
-          "price": 116.0,
+          "change_pct": -8.0,
+          "price": 115.0,
           "currency": "TWD"
         }
       ]
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -5.18,
-        "price": 1153000.0,
+        "change_pct": -5.43,
+        "price": 1150000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -3.11,
-        "price": 199600.0,
+        "change_pct": -3.45,
+        "price": 198900.0,
         "currency": "KRW"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -7.16,
-        "price": 350.0,
+        "change_pct": -7.69,
+        "price": 348.0,
         "currency": "TWD"
       },
       {
@@ -545,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -7.2,
-        "price": 116.0,
+        "change_pct": -8.0,
+        "price": 115.0,
         "currency": "TWD"
       }
     ]
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 65139.76,
-      "change_pct": 1.58
+      "price": 65041.64,
+      "change_pct": 1.42
     },
     {
       "label": "Gold",
-      "price": 3878.6,
-      "change_pct": -0.2
+      "price": 3872.4,
+      "change_pct": -0.36
     },
     {
       "label": "Nasdaq100",

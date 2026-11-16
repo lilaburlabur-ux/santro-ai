@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-16T08:02:32+00:00",
+  "as_of": "2026-11-16T08:17:16+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -54,22 +54,6 @@
    "source_url": "",
    "published": "",
    "sector": "AI Applications & Data Software"
-  },
-  {
-   "rank": 4,
-   "ticker": "CSCO",
-   "company": "Cisco Systems Inc",
-   "move_pct": -6.24,
-   "price": 95.64,
-   "volume": 28592200,
-   "volume_vs_avg": "~2x",
-   "heat_score": 45,
-   "direction": "down",
-   "why": "Cisco posts its best growth in 15 years. Why isn't Wall Street buying?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-posts-best-growth-15-041700221.html",
-   "published": "2026-11-16T04:17:00+00:00",
-   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

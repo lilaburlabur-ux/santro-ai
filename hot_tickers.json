@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-16T11:05:09+00:00",
+  "as_of": "2026-11-16T11:20:27+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,10 +17,10 @@
    "volume_vs_avg": "~3x",
    "heat_score": 33,
    "direction": "down",
-   "why": "Southern Co's Dividend Analysis",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/southern-cos-dividend-analysis-100140459.html",
-   "published": "2026-11-16T10:01:40+00:00",
+   "why": "HBSC Adjusts Price Target on Southern Company to $103 From $99.50",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/hbsc-adjusts-price-target-southern-105049220.html",
+   "published": "2026-11-16T10:50:49+00:00",
    "sector": "Powering AI"
   }
  ]

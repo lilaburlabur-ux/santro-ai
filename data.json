@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-16T00:05:25+00:00",
-  "as_of_local": "2026-11-16 00:05:25 UTC",
+  "as_of_utc": "2026-11-16T00:10:21+00:00",
+  "as_of_local": "2026-11-16 00:10:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-beaten-down-stocks-under-172002121.html",
           "publisher": "Motley Fool",
           "published": "2026-11-15T17:20:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 59.66,
-      "previous_close": 61.2,
-      "change_pct": -2.52,
-      "market_cap": 317092899188.99536,
-      "headlines": [
-        {
-          "title": "Intel (INTC) Stock Sees Fair Value Falls After Guidance And Operational Issues",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-sees-fair-031334674.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-15T03:13:34Z"
-        },
-        {
-          "title": "Why Intel CEO Lip-Bu Tan has 22 meetings a day \u2014 and what you can learn from it",
-          "url": "https://finance.yahoo.com/markets/article/why-intel-ceo-lip-bu-tan-has-22-meetings-a-day--and-what-you-can-learn-from-it-210301452.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-14T21:03:01Z"
-        },
-        {
-          "title": "Soros\u2019 Fund Made Intel Its Biggest Stock Bet Right Before It Halved",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/soros-fund-made-intel-biggest-173454289.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-14T17:34:54Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 65329.15,
-      "change_pct": 1.87
+      "price": 65212.88,
+      "change_pct": 1.69
     },
     {
       "label": "Gold",
-      "price": 3904.3,
-      "change_pct": 0.46
+      "price": 3902.7,
+      "change_pct": 0.42
     },
     {
       "label": "Nasdaq100",

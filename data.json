@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-16T00:18:34+00:00",
-  "as_of_local": "2026-11-16 00:18:34 UTC",
+  "as_of_utc": "2026-11-16T00:23:34+00:00",
+  "as_of_local": "2026-11-16 00:23:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -3.03,
-          "price": 1216000.0,
+          "change_pct": 0.33,
+          "price": 1220000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.96,
-          "price": 206000.0,
+          "change_pct": 0.73,
+          "price": 207500.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 0.62,
-          "price": 9147.0,
+          "change_pct": -1.53,
+          "price": 8952.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -3.03,
-        "price": 1216000.0,
+        "change_pct": 0.33,
+        "price": 1220000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.96,
-        "price": 206000.0,
+        "change_pct": 0.73,
+        "price": 207500.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 0.62,
-        "price": 9147.0,
+        "change_pct": -1.53,
+        "price": 8952.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,18 @@
     },
     {
       "label": "BTC",
-      "price": 64984.12,
-      "change_pct": 1.33
+      "price": 65032.47,
+      "change_pct": 1.41
     },
     {
       "label": "Gold",
-      "price": 3896.5,
-      "change_pct": 0.26
+      "price": 3893.9,
+      "change_pct": 0.2
+    },
+    {
+      "label": "Nasdaq100",
+      "price": 27943.74,
+      "change_pct": -1.22
     }
   ]
 }

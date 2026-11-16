@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-16T07:11:20+00:00",
-  "as_of_local": "2026-11-16 07:11:20 UTC",
+  "as_of_utc": "2026-11-16T07:26:21+00:00",
+  "as_of_local": "2026-11-16 07:26:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LSCC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -21,16 +19,16 @@
           "published": "2026-11-16T01:56:44Z"
         },
         {
+          "title": "Stocks extend losses as traders digest Nvidia fallout",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-extend-losses-traders-digest-030006305.html",
+          "publisher": "AFP",
+          "published": "2026-11-16T07:14:41Z"
+        },
+        {
           "title": "Michael Burry Holds NVDA Puts Into Earnings, But Sees A Retail-Fueled Rally \u2014 Even As Musk Questions Jensen\u2019s Handshake Deals",
           "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-holds-nvda-puts-070242735.html",
           "publisher": "Stocktwits",
           "published": "2026-11-16T07:02:42Z"
-        },
-        {
-          "title": "Nvidia\u2019s All-Important Q3 Report, China Tech Results, Anthropic IPO And Microsoft Ignite To Keep Investors Hooked This Week",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-important-q3-report-china-063705093.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-16T06:37:05Z"
         }
       ]
     },
@@ -283,6 +281,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-shock-puts-ai-002003788.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-13T00:20:03Z"
+        }
+      ]
+    },
+    {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 112.35,
+      "previous_close": 118.85,
+      "change_pct": -5.47,
+      "market_cap": 15979056166.830818,
+      "headlines": [
+        {
+          "title": "Why Is Lattice Semiconductor (LSCC) Pushing Deeper Into Secure Industrial Edge Computing?",
+          "url": "https://finance.yahoo.com/technology/articles/why-lattice-semiconductor-lscc-pushing-151630576.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T15:16:30Z"
+        },
+        {
+          "title": "If You Invested $1000 in Lattice Semiconductor a Decade Ago, This is How Much It'd Be Worth Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/invested-1000-lattice-semiconductor-decade-123002391.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T12:30:02Z"
+        },
+        {
+          "title": "Chip Stocks Finish Lower as Industry Digests Jensen Huang Exit",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/chip-stocks-down-as-industry-digests-jensen-huang-exit-Lq6UDhwOoZUotX38oTUL?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-12T21:11:03Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64583.1,
-      "change_pct": -1.11
+      "price": 64616.05,
+      "change_pct": -1.06
     },
     {
       "label": "Gold",
-      "price": 3852.0,
-      "change_pct": -0.88
+      "price": 3858.2,
+      "change_pct": -0.72
     },
     {
       "label": "Nasdaq100",

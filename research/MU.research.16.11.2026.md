@@ -4,8 +4,8 @@ Signed file: `MU.research.16.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $718.70 (2026-11-16, ~15-min delayed) |
-| Market cap | $813.03B |
+| Current price | $719.02 (2026-11-16, ~15-min delayed) |
+| Market cap | $813.52B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,8 +15,8 @@ Signed file: `MU.research.16.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +203.66%; price -6.29% vs SMA200. |
-| Fresh setup quality | Poor / broken | -40.76% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +203.79%; price -6.25% vs SMA200. |
+| Fresh setup quality | Poor / broken | -40.73% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 63.80%, revenue growth 379.30%. |
 | Value attractiveness | Reasonable | Forward P/E 3.46, EV/Sales 6.32. |
 | Risk level | High | Beta 2.40, ATR 8.2% of price, short float 2.07%. |
@@ -36,30 +36,30 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 
 | Headline | Source | Date |
 |---|---|---|
+| AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop | Yahoo Finance | 2026-11-16 |
 | SK Hynix Is Down 16% in a Month. What Will It Take to Get SKHY Stock Back to $150? | 24/7 Wall St. | 2026-11-16 |
 | Samsung Stocks Fall 4.47% as Nvidia Turmoil and DRAM Lawsuit Hit Seoul | GuruFocus.com | 2026-11-16 |
 | Altimeter Capital to invest $5 billion in Anthropic IPO - report | Investing.com | 2026-11-16 |
-| Micron Stocks Sink Nearly 7% After Judge Lets DRAM Supply Lawsuit Proceed | GuruFocus.com | 2026-11-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $718.70; 52w high $1,213.18 (-40.76%); 52w low $201.14 (+257.31%) |
-| Trend | -6.29% vs SMA200, -23.36% vs SMA50, -13.27% vs SMA20 |
+| Price vs 52-week range | Close $719.02; 52w high $1,213.18 (-40.73%); 52w low $201.14 (+257.47%) |
+| Trend | -6.25% vs SMA200, -23.32% vs SMA50, -13.24% vs SMA20 |
 | Momentum | RSI(14) 38.0 (neutral) |
-| Volatility | ATR(14) 59.10 (~8.2% of price); beta 2.40 |
-| Setup perspective | -40.76% from 52w high — base needs to rebuild. |
+| Volatility | ATR(14) 59.18 (~8.2% of price); beta 2.40 |
+| Setup perspective | -40.73% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -2.0% |
+| Week | -1.9% |
 | Month | -18.2% |
 | Quarter | -23.6% |
 | Half Y | +5.5% |
-| 1Y | +203.7% |
-| YTD | +128.0% |
+| 1Y | +203.8% |
+| YTD | +128.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 | Revenue (ttm) | $133.19B | Revenue growth 379.30% y/y |
 | Profitability | Gross 80.72%, operating 74.59%, net 63.80% | ROA 44.56%, ROE 88.26% |
 | Balance sheet | Cash $43.43B, debt $5.18B | Current ratio 3.31, debt/equity 3.74 |
-| Valuation | P/E 9.67, forward P/E 3.46, P/S 6.10, P/B 5.87 | EV/Sales 6.32, EV/EBITDA 7.74 |
+| Valuation | P/E 9.67, forward P/E 3.46, P/S 6.11, P/B 5.88 | EV/Sales 6.32, EV/EBITDA 7.74 |
 | Growth expectations | Earnings growth 1059.50%, EPS q/q 1077.80% | Analyst mean target $1,561.91 (45 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,21 +111,21 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $718.70 | EV/Sales | 6.32 |
-| Market cap | $813.03B | EV/EBITDA | 7.74 |
+| Price | $719.02 | EV/Sales | 6.32 |
+| Market cap | $813.52B | EV/EBITDA | 7.74 |
 | Beta | 2.40 | Gross margin | 80.72% |
 | RSI(14) | 38.0 | Operating margin | 74.59% |
-| ATR(14) | 59.10 | Profit margin | 63.80% |
-| SMA20 dist | -13.27% | ROA | 44.56% |
-| SMA50 dist | -23.36% | ROE | 88.26% |
-| SMA200 dist | -6.29% | Revenue (ttm) | $133.19B |
+| ATR(14) | 59.18 | Profit margin | 63.80% |
+| SMA20 dist | -13.24% | ROA | 44.56% |
+| SMA50 dist | -23.32% | ROE | 88.26% |
+| SMA200 dist | -6.25% | Revenue (ttm) | $133.19B |
 | 52W high | $1,213.18 | Revenue growth y/y | 379.30% |
 | 52W low | $201.14 | Inst. ownership | 80.35% |
 | P/E (ttm) | 9.67 | Insider ownership | 0.52% |
 | Forward P/E | 3.46 | Short float | 2.07% |
 | PEG (trailing) | 0.16 | Avg volume | 27,690,034 |
-| P/S | 6.10 | Employees | 61,000 |
-| P/B | 5.87 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/S | 6.11 | Employees | 61,000 |
+| P/B | 5.88 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

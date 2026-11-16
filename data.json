@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-16T21:15:19+00:00",
-  "as_of_local": "2026-11-16 21:15:19 UTC",
+  "as_of_utc": "2026-11-16T21:20:49+00:00",
+  "as_of_local": "2026-11-16 21:20:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,6 +12,12 @@
       "change_pct": -4.12,
       "market_cap": 3770312565261.841,
       "headlines": [
+        {
+          "title": "Nvidia to report Q3 earnings amid Huang scandal",
+          "url": "https://finance.yahoo.com/technology/article/nvidia-to-report-q3-earnings-amid-huang-scandal-211859827.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-16T21:18:59Z"
+        },
         {
           "title": "Should Nvidia bring Jensen Huang back, as Silicon Valley's elite are demanding?",
           "url": "https://finance.yahoo.com/technology/article/should-nvidia-bring-jensen-huang-back-as-silicon-valleys-elite-are-demanding-200000408.html",
@@ -25,12 +29,34 @@
           "url": "https://finance.yahoo.com/technology/article/nvidia-board-needs-some-heavyweights-ex-medtronic-ceo-bill-george-says-191935557.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-16T19:19:35Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 373.45,
+      "previous_close": 398.73,
+      "change_pct": -6.34,
+      "market_cap": 1936888402920.7378,
+      "headlines": [
+        {
+          "title": "TSMC Slumps Nearly 6% as Jensen Huang\u2019s Exit and AI Debt Fears Rattle Investors Ahead of Nvidia Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-slumps-nearly-6-jensen-203009869.html",
+          "publisher": "Benzinga Prediction Markets",
+          "published": "2026-11-16T20:30:09Z"
         },
         {
-          "title": "Why Nvidia may need an operator as CEO \u2014 not a visionary",
-          "url": "https://finance.yahoo.com/video/why-nvidia-may-need-an-operator-as-ceo--not-a-visionary-191904373.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-16T19:19:04Z"
+          "title": "INTW 2X Intel ETF Tumbles 13% as Intel Drops Amid Shareholder Lawsuit and AI Chip Selloff; Taiwan Semiconductor Falls 5%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intw-2x-intel-etf-tumbles-200312007.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-16T20:03:12Z"
+        },
+        {
+          "title": "Altimeter Capital to invest $5 billion in Anthropic IPO - report",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/altimeter-capital-invest-5-billion-184641881.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-16T18:46:41Z"
         }
       ]
     },
@@ -155,6 +181,12 @@
       "market_cap": 187303503265.38086,
       "headlines": [
         {
+          "title": "Why Arm Holdings Plunged Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-arm-holdings-plunged-today-210632944.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-16T21:06:32Z"
+        },
+        {
           "title": "Arm Stocks Slide 6.72% as Nvidia CEO Search Keeps Rene Haas in Focus",
           "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stocks-slide-6-72-174928553.html",
           "publisher": "GuruFocus.com",
@@ -165,12 +197,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/arms-50-licensing-revenue-surge-163000721.html",
           "publisher": "Zacks",
           "published": "2026-11-16T16:30:00Z"
-        },
-        {
-          "title": "Arm CEO Rene Haas Is at 23% Odds to Run Nvidia. That\u2019s a Problem for Arm",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-ceo-rene-haas-23-162149507.html",
-          "publisher": "TIKR",
-          "published": "2026-11-16T16:21:49Z"
         }
       ]
     },
@@ -183,10 +209,10 @@
       "market_cap": 180316404571.5332,
       "headlines": [
         {
-          "title": "What Is Micron Building That Investors Should Watch?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-building-investors-watch-114211796.html",
-          "publisher": "Trefis",
-          "published": "2026-11-16T11:42:11Z"
+          "title": "Best semiconductor ETFs: SMH leads on cost, liquidity and momentum",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-etfs-smh-leads-210610694.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-16T21:06:10Z"
         },
         {
           "title": "What Has Changed About Owning Intel Stock?",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64971.63,
-      "change_pct": -0.51
+      "price": 64966.92,
+      "change_pct": -0.52
     },
     {
       "label": "Gold",
-      "price": 3853.6,
-      "change_pct": -0.84
+      "price": 3853.1,
+      "change_pct": -0.85
     },
     {
       "label": "Nasdaq100",

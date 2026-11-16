@@ -4,24 +4,24 @@ Signed file: `QCOM.research.16.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $169.31 (2026-11-16, ~15-min delayed) |
-| Market cap | $181.16B |
+| Current price | $168.52 (2026-11-16, ~15-min delayed) |
+| Market cap | $180.32B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-16.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y -0.95%; price +0.02% vs SMA200. |
-| Fresh setup quality | Poor / broken | -31.93% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-0.44%) with negative half-year (-16.49%). |
+| Fresh setup quality | Poor / broken | -32.25% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 31.61%, revenue growth -8.40%. |
-| Value attractiveness | Reasonable | Forward P/E 13.87, EV/Sales 4.47. |
+| Value attractiveness | Reasonable | Forward P/E 13.81, EV/Sales 4.47. |
 | Risk level | High | Beta 1.76, ATR 5.3% of price, short float 3.03%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| Best semiconductor ETFs: SMH leads on cost, liquidity and momentum | Investing.com | 2026-11-16 |
 | What Has Changed About Owning Intel Stock? | Trefis | 2026-11-16 |
 | If Phone Sales Keep Shrinking, What Happens To Your Qualcomm Stock? | Trefis | 2026-11-16 |
 | What Is Micron Building That Investors Should Watch? | Trefis | 2026-11-16 |
-| ETFs Are Net Sellers of Qualcomm (QCOM) on Nov. 12 | GuruFocus.com | 2026-11-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $169.31; 52w high $248.74 (-31.93%); 52w low $122.94 (+37.71%) |
-| Trend | +0.02% vs SMA200, -5.28% vs SMA50, -2.18% vs SMA20 |
-| Momentum | RSI(14) 46.5 (neutral) |
+| Price vs 52-week range | Close $168.52; 52w high $248.74 (-32.25%); 52w low $122.94 (+37.07%) |
+| Trend | -0.44% vs SMA200, -5.71% vs SMA50, -2.62% vs SMA20 |
+| Momentum | RSI(14) 46.0 (neutral) |
 | Volatility | ATR(14) 8.91 (~5.3% of price); beta 1.76 |
-| Setup perspective | -31.93% from 52w high — base needs to rebuild. |
+| Setup perspective | -32.25% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.3% |
-| Month | -1.6% |
-| Quarter | +6.3% |
-| Half Y | -16.1% |
-| 1Y | -1.0% |
-| YTD | -0.6% |
+| Week | -1.7% |
+| Month | -2.1% |
+| Quarter | +5.8% |
+| Half Y | -16.5% |
+| 1Y | -1.4% |
+| YTD | -1.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $43.12B | Revenue growth -8.40% y/y |
 | Profitability | Gross 53.10%, operating 20.85%, net 31.61% | ROA 10.13%, ROE 52.81% |
 | Balance sheet | Cash $7.68B, debt $15.99B | Current ratio 1.86, debt/equity 52.60 |
-| Valuation | P/E 13.33, forward P/E 13.87, P/S 4.20, P/B 5.97 | EV/Sales 4.47, EV/EBITDA 18.16 |
+| Valuation | P/E 13.27, forward P/E 13.81, P/S 4.18, P/B 5.94 | EV/Sales 4.47, EV/EBITDA 18.16 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $185.96 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,21 +111,21 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $169.31 | EV/Sales | 4.47 |
-| Market cap | $181.16B | EV/EBITDA | 18.16 |
+| Price | $168.52 | EV/Sales | 4.47 |
+| Market cap | $180.32B | EV/EBITDA | 18.16 |
 | Beta | 1.76 | Gross margin | 53.10% |
-| RSI(14) | 46.5 | Operating margin | 20.85% |
+| RSI(14) | 46.0 | Operating margin | 20.85% |
 | ATR(14) | 8.91 | Profit margin | 31.61% |
-| SMA20 dist | -2.18% | ROA | 10.13% |
-| SMA50 dist | -5.28% | ROE | 52.81% |
-| SMA200 dist | +0.02% | Revenue (ttm) | $43.12B |
+| SMA20 dist | -2.62% | ROA | 10.13% |
+| SMA50 dist | -5.71% | ROE | 52.81% |
+| SMA200 dist | -0.44% | Revenue (ttm) | $43.12B |
 | 52W high | $248.74 | Revenue growth y/y | -8.40% |
 | 52W low | $122.94 | Inst. ownership | 81.94% |
-| P/E (ttm) | 13.33 | Insider ownership | 0.69% |
-| Forward P/E | 13.87 | Short float | 3.03% |
+| P/E (ttm) | 13.27 | Insider ownership | 0.69% |
+| Forward P/E | 13.81 | Short float | 3.03% |
 | PEG (trailing) | 1.02 | Avg volume | 12,726,167 |
-| P/S | 4.20 | Employees | 57,000 |
-| P/B | 5.97 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/S | 4.18 | Employees | 57,000 |
+| P/B | 5.94 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -140,7 +140,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | 2026-11-05 | main | Susquehanna | Neutral → Neutral |
 
 ## 9. Conclusion
-QCOM: Moderate momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+QCOM: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

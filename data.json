@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-16T00:15:34+00:00",
-  "as_of_local": "2026-11-16 00:15:34 UTC",
+  "as_of_utc": "2026-11-16T00:18:34+00:00",
+  "as_of_local": "2026-11-16 00:18:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NXPI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -259,6 +257,34 @@
       ]
     },
     {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors",
+      "price": 265.09,
+      "previous_close": 267.29,
+      "change_pct": -0.82,
+      "market_cap": 66816725665.87439,
+      "headlines": [
+        {
+          "title": "NXP: 3 Key Takeaways for Long-Term Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-3-key-takeaways-long-182002104.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-14T18:20:02Z"
+        },
+        {
+          "title": "Why Did Texas Instruments Stock Beat NXP Over Five Years?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-texas-instruments-stock-010308968.html",
+          "publisher": "Trefis",
+          "published": "2026-11-14T01:03:08Z"
+        },
+        {
+          "title": "Nvidia Stock Shock Puts These AI Infrastructure Chip Shares In Focus",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-shock-puts-ai-002003788.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T00:20:03Z"
+        }
+      ]
+    },
+    {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
       "price": 112.35,
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -0.35,
-          "price": 9059.0,
+          "change_pct": 0.62,
+          "price": 9147.0,
           "currency": "JPY"
         },
         {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -0.35,
-        "price": 9059.0,
+        "change_pct": 0.62,
+        "price": 9147.0,
         "currency": "JPY"
       },
       {
@@ -559,18 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 65049.96,
-      "change_pct": 1.44
+      "price": 64984.12,
+      "change_pct": 1.33
     },
     {
       "label": "Gold",
-      "price": 3900.5,
-      "change_pct": 0.37
-    },
-    {
-      "label": "Nasdaq100",
-      "price": 27943.74,
-      "change_pct": -1.22
+      "price": 3896.5,
+      "change_pct": 0.26
     }
   ]
 }

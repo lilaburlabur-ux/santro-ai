@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-11-16T09:38:18+00:00",
-  "as_of_local": "2026-11-16 09:38:18 UTC",
+  "as_of_utc": "2026-11-16T09:43:54+00:00",
+  "as_of_local": "2026-11-16 09:43:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 162.85,
-      "previous_close": 166.19,
-      "change_pct": -2.01,
-      "market_cap": 3932339097381.592,
-      "headlines": [
-        {
-          "title": "Nvidia stock slips as Jensen Huang reportedly weighs CEO comeback, Musk backs return",
-          "url": "https://finance.yahoo.com/markets/article/nvidia-stock-steady-as-jensen-huang-reportedly-weighs-ceo-comeback-musk-backs-return-015644730.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-16T01:56:44Z"
-        },
-        {
-          "title": "Stock market today: Dow, S&P 500, Nasdaq futures little changed ahead of pivotal week for AI traders",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-16T09:16:31Z"
-        },
-        {
-          "title": "Market Chatter: Nvidia, Amazon, Microsoft, OpenAI and Anthropic To Be Named AI National Champs By White House",
-          "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-amazon-microsoft-092359884.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-16T09:23:59Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64321.31,
+      "price": 64316.74,
       "change_pct": -1.51
     },
     {
       "label": "Gold",
-      "price": 3861.3,
-      "change_pct": -0.64
+      "price": 3859.9,
+      "change_pct": -0.68
     },
     {
       "label": "Nasdaq100",

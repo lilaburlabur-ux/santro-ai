@@ -4,7 +4,7 @@ Signed file: `SYNA.research.16.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $117.65 (2026-11-16, ~15-min delayed) |
+| Current price | $117.64 (2026-11-16, ~15-min delayed) |
 | Market cap | $4.67B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -44,8 +44,8 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $117.65; 52w high $147.57 (-20.28%); 52w low $58.52 (+101.04%) |
-| Trend | +12.59% vs SMA200, +6.45% vs SMA50, +0.09% vs SMA20 |
+| Price vs 52-week range | Close $117.64; 52w high $147.57 (-20.28%); 52w low $58.52 (+101.03%) |
+| Trend | +12.59% vs SMA200, +6.45% vs SMA50, +0.08% vs SMA20 |
 | Momentum | RSI(14) 59.1 (neutral) |
 | Volatility | ATR(14) 1.43 (~1.2% of price); beta 2.02 |
 | Setup perspective | -20.28% from 52w high; no clean fresh pivot by default. |
@@ -112,12 +112,12 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $117.65 | EV/Sales | 4.34 |
+| Price | $117.64 | EV/Sales | 4.34 |
 | Market cap | $4.67B | EV/EBITDA | 52.03 |
 | Beta | 2.02 | Gross margin | 45.98% |
 | RSI(14) | 59.1 | Operating margin | -2.90% |
 | ATR(14) | 1.43 | Profit margin | -40.70% |
-| SMA20 dist | +0.09% | ROA | -0.94% |
+| SMA20 dist | +0.08% | ROA | -0.94% |
 | SMA50 dist | +6.45% | ROE | -42.09% |
 | SMA200 dist | +12.59% | Revenue (ttm) | $1.20B |
 | 52W high | $147.57 | Revenue growth y/y | 0.50% |

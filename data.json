@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-16T08:01:52+00:00",
-  "as_of_local": "2026-11-16 08:01:52 UTC",
+  "as_of_utc": "2026-11-16T08:07:10+00:00",
+  "as_of_local": "2026-11-16 08:07:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -19,16 +19,16 @@
           "published": "2026-11-16T01:56:44Z"
         },
         {
+          "title": "Take Five: Huang's exit, Anthropic's entrance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/five-huangs-exit-anthropics-entrance-075157272.html",
+          "publisher": "Reuters",
+          "published": "2026-11-16T07:51:57Z"
+        },
+        {
           "title": "AAPL Stock Posted Best Week In 4 Months Amid Nvidia Disruption: Apple Reportedly Plans Smart Glasses To Rival Meta Next Year",
           "url": "https://finance.yahoo.com/markets/stocks/articles/aapl-stock-posted-best-week-074605436.html",
           "publisher": "Stocktwits",
           "published": "2026-11-16T07:46:05Z"
-        },
-        {
-          "title": "Losing Jensen Was Bad Enough. Losing NVIDIA\u2019s Bench Would Be Worse",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/losing-jensen-bad-enough-losing-072034224.html",
-          "publisher": "TIKR",
-          "published": "2026-11-16T07:20:34Z"
         }
       ]
     },
@@ -579,14 +579,19 @@
   },
   "tape": [
     {
+      "label": "SPX",
+      "price": 7561.67,
+      "change_pct": -0.4
+    },
+    {
       "label": "BTC",
-      "price": 64799.98,
-      "change_pct": -0.77
+      "price": 64724.06,
+      "change_pct": -0.89
     },
     {
       "label": "Gold",
-      "price": 3857.7,
-      "change_pct": -0.74
+      "price": 3858.9,
+      "change_pct": -0.71
     },
     {
       "label": "Nasdaq100",

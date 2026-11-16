@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-16T11:50:38+00:00",
-  "as_of_local": "2026-11-16 11:50:38 UTC",
+  "as_of_utc": "2026-11-16T11:55:32+00:00",
+  "as_of_local": "2026-11-16 11:55:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 1656497346071.1292,
       "headlines": [
         {
+          "title": "Latest News In AI Chips - GridAI Expands Energy Capabilities With Pronghorn Acquisition",
+          "url": "https://finance.yahoo.com/technology/ai/articles/latest-news-ai-chips-gridai-113751584.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-16T11:37:51Z"
+        },
+        {
           "title": "Jensen Huang Reportedly Considers Returning To Nvidia: FT",
           "url": "https://www.investors.com/news/technology/jensen-huang-considers-returning-to-nvidia-stock/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-p-500-growth-etf-110531696.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-16T11:05:31Z"
-        },
-        {
-          "title": "Direxion Daily Technology Bull 3X (TECL) Adds Apple and Nvidia on Thursday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/direxion-daily-technology-bull-3x-110459532.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-16T11:04:59Z"
         }
       ]
     },
@@ -97,6 +97,12 @@
       "market_cap": 880597997369.4563,
       "headlines": [
         {
+          "title": "Latest News In AI Chips - GridAI Expands Energy Capabilities With Pronghorn Acquisition",
+          "url": "https://finance.yahoo.com/technology/ai/articles/latest-news-ai-chips-gridai-113751584.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-16T11:37:51Z"
+        },
+        {
           "title": "What NEOS Nasdaq 100 High Income ETF (QQQI) Bought: Apple Leads on Nov. 12",
           "url": "https://finance.yahoo.com/markets/stocks/articles/neos-nasdaq-100-high-income-110520530.html",
           "publisher": "GuruFocus.com",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/avantis-u-large-cap-value-110432778.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-16T11:04:32Z"
-        },
-        {
-          "title": "US High Relative Profitability (DUHP) Buys $69.9 Million More Broadcom on Nov. 12",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-high-relative-profitability-duhp-110428862.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-16T11:04:28Z"
         }
       ]
     },
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -9.81,
-          "price": 340.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "TWD"
         },
         {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -9.81,
-        "price": 340.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "TWD"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64451.44,
-      "change_pct": -1.31
+      "price": 64509.03,
+      "change_pct": -1.22
     },
     {
       "label": "Gold",
-      "price": 3877.7,
-      "change_pct": -0.22
+      "price": 3876.4,
+      "change_pct": -0.25
     },
     {
       "label": "Nasdaq100",

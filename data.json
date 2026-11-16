@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-16T13:47:46+00:00",
-  "as_of_local": "2026-11-16 13:47:46 UTC",
+  "as_of_utc": "2026-11-16T13:52:57+00:00",
+  "as_of_local": "2026-11-16 13:52:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -147,6 +145,34 @@
       ]
     },
     {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 59.66,
+      "previous_close": 61.2,
+      "change_pct": -2.52,
+      "market_cap": 317092899188.99536,
+      "headlines": [
+        {
+          "title": "Shareholders sue Intel after its shares plunge nearly 29%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/shareholders-sue-intel-shares-plunge-134142086.html",
+          "publisher": "Euronews",
+          "published": "2026-11-16T13:41:42Z"
+        },
+        {
+          "title": "AI Stocks Slide at Start of Pivotal Week With Nvidia, Anthropic in Focus",
+          "url": "https://www.wsj.com/finance/investing/stock-futures-slip-ahead-of-pivotal-week-for-ai-trade-with-nvidia-anthropic-in-focus-c1768330?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-16T13:20:00Z"
+        },
+        {
+          "title": "Stocks to Watch: Nvidia, SpaceX, Robinhood, L3Harris",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026/card/stocks-to-watch-nvidia-intel-spacex-QOpa7fFDgsDwemeMk9Sf?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-16T13:19:12Z"
+        }
+      ]
+    },
+    {
       "symbol": "ARM",
       "name": "Arm Holdings",
       "price": 190.53,
@@ -183,12 +209,6 @@
       "market_cap": 184542901306.15234,
       "headlines": [
         {
-          "title": "What Has Changed About Owning Intel Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-owning-intel-stock-114211782.html",
-          "publisher": "Trefis",
-          "published": "2026-11-16T11:42:11Z"
-        },
-        {
           "title": "If Phone Sales Keep Shrinking, What Happens To Your Qualcomm Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/phone-sales-keep-shrinking-happens-114211284.html",
           "publisher": "Trefis",
@@ -197,6 +217,12 @@
         {
           "title": "What Is Micron Building That Investors Should Watch?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-building-investors-watch-114211796.html",
+          "publisher": "Trefis",
+          "published": "2026-11-16T11:42:11Z"
+        },
+        {
+          "title": "What Has Changed About Owning Intel Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-owning-intel-stock-114211782.html",
           "publisher": "Trefis",
           "published": "2026-11-16T11:42:11Z"
         }
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64387.61,
-      "change_pct": -1.4
+      "price": 64160.98,
+      "change_pct": -1.75
     },
     {
       "label": "Gold",
-      "price": 3871.8,
-      "change_pct": -0.37
+      "price": 3870.7,
+      "change_pct": -0.4
     },
     {
       "label": "Nasdaq100",

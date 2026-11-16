@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-16T21:11:32+00:00",
-  "as_of_local": "2026-11-16 21:11:32 UTC",
+  "as_of_utc": "2026-11-16T21:15:19+00:00",
+  "as_of_local": "2026-11-16 21:15:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/video/why-nvidia-may-need-an-operator-as-ceo--not-a-visionary-191904373.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-16T19:19:04Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 373.44,
-      "previous_close": 398.73,
-      "change_pct": -6.34,
-      "market_cap": 1936827149104.5552,
-      "headlines": [
-        {
-          "title": "TSMC Slumps Nearly 6% as Jensen Huang\u2019s Exit and AI Debt Fears Rattle Investors Ahead of Nvidia Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-slumps-nearly-6-jensen-203009869.html",
-          "publisher": "Benzinga Prediction Markets",
-          "published": "2026-11-16T20:30:09Z"
-        },
-        {
-          "title": "INTW 2X Intel ETF Tumbles 13% as Intel Drops Amid Shareholder Lawsuit and AI Chip Selloff; Taiwan Semiconductor Falls 5%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intw-2x-intel-etf-tumbles-200312007.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-16T20:03:12Z"
-        },
-        {
-          "title": "Altimeter Capital to invest $5 billion in Anthropic IPO - report",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/altimeter-capital-invest-5-billion-184641881.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-16T18:46:41Z"
         }
       ]
     },
@@ -209,8 +183,8 @@
       "market_cap": 180316404571.5332,
       "headlines": [
         {
-          "title": "What Has Changed About Owning Intel Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-owning-intel-stock-114211782.html",
+          "title": "What Is Micron Building That Investors Should Watch?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-building-investors-watch-114211796.html",
           "publisher": "Trefis",
           "published": "2026-11-16T11:42:11Z"
         },
@@ -401,8 +375,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 39.29,
-      "change_pct": -7.33,
+      "price": 39.27,
+      "change_pct": -7.38,
       "holdings": [
         {
           "symbol": "MU",
@@ -491,8 +465,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 39.29,
-    "change_pct": -7.33,
+    "price": 39.27,
+    "change_pct": -7.38,
     "holdings": [
       {
         "symbol": "MU",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64926.35,
-      "change_pct": -0.58
+      "price": 64971.63,
+      "change_pct": -0.51
     },
     {
       "label": "Gold",
-      "price": 3854.2,
-      "change_pct": -0.83
+      "price": 3853.6,
+      "change_pct": -0.84
     },
     {
       "label": "Nasdaq100",

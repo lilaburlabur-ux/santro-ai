@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-16T11:40:40+00:00",
+  "as_of": "2026-11-16T11:55:50+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,6 +9,38 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "MRVL",
+   "company": "Marvell Technology Inc",
+   "move_pct": -5.2,
+   "price": 148.61,
+   "volume": 23688400,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 37,
+   "direction": "down",
+   "why": "Arete Adjusts Price Target on Marvell Technology to $323 From $300",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/arete-adjusts-price-target-marvell-111959907.html",
+   "published": "2026-11-16T11:19:59+00:00",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
+   "ticker": "HPE",
+   "company": "Hewlett Packard Enterprise Co",
+   "move_pct": -5.14,
+   "price": 45.81,
+   "volume": 10712600,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 36,
+   "direction": "down",
+   "why": "Citigroup Adjusts Price Target on Hewlett Packard Enterprise to $80 From $92, Maintains Buy Rating",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-adjusts-price-target-hewlett-112004817.html",
+   "published": "2026-11-16T11:20:04+00:00",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 3,
    "ticker": "SO",
    "company": "Southern Co",
    "move_pct": -0.67,

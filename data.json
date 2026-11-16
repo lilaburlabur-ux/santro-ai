@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-16T09:08:03+00:00",
-  "as_of_local": "2026-11-16 09:08:03 UTC",
+  "as_of_utc": "2026-11-16T09:13:08+00:00",
+  "as_of_local": "2026-11-16 09:13:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-11-16T08:58:02Z"
         },
         {
-          "title": "Market Chatter: Nvidia's Jensen Huang Discusses Return as CEO With Allies",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nvidia-apos-jensen-084807880.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-16T08:48:07Z"
+          "title": "NVDA Earnings Preview: Nvidia\u2019s AI Engine Is Running, But Can It Keep Growing Without Its Chief Architect?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-earnings-preview-nvidia-ai-085652787.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-16T08:56:52Z"
         }
       ]
     },
@@ -75,16 +77,16 @@
           "published": "2026-11-16T08:08:05Z"
         },
         {
+          "title": "It Now Costs More to Insure Chip Debt Than Big Tech\u2019s. Bond Markets Say \u201cRisk Is Migrating\u201d",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/now-costs-more-insure-chip-072058526.html",
+          "publisher": "TIKR",
+          "published": "2026-11-16T07:20:58Z"
+        },
+        {
           "title": "Jensen Huang Reportedly Considers Returning To Nvidia: FT",
           "url": "https://www.investors.com/news/technology/jensen-huang-considers-returning-to-nvidia-stock/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-16T03:34:59Z"
-        },
-        {
-          "title": "Marvell\u2019s Trillion-Dollar Target",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-trillion-dollar-target-002002774.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-16T00:20:02Z"
         }
       ]
     },
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-alert-5-stocks-analysts-025136531.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-16T02:51:36Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 59.66,
-      "previous_close": 61.2,
-      "change_pct": -2.52,
-      "market_cap": 317092899188.99536,
-      "headlines": [
-        {
-          "title": "Intel (INTC) Stock Sees Fair Value Falls After Guidance And Operational Issues",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-sees-fair-031334674.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-15T03:13:34Z"
-        },
-        {
-          "title": "Why Intel CEO Lip-Bu Tan has 22 meetings a day \u2014 and what you can learn from it",
-          "url": "https://finance.yahoo.com/markets/article/why-intel-ceo-lip-bu-tan-has-22-meetings-a-day--and-what-you-can-learn-from-it-210301452.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-14T21:03:01Z"
-        },
-        {
-          "title": "Soros\u2019 Fund Made Intel Its Biggest Stock Bet Right Before It Halved",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/soros-fund-made-intel-biggest-173454289.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-14T17:34:54Z"
         }
       ]
     },
@@ -401,8 +375,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": null,
-      "change_pct": 0.0,
+      "price": 42.4,
+      "change_pct": -2.89,
       "holdings": [
         {
           "symbol": "MU",
@@ -491,8 +465,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": null,
-    "change_pct": 0.0,
+    "price": 42.4,
+    "change_pct": -2.89,
     "holdings": [
       {
         "symbol": "MU",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64352.84,
-      "change_pct": -1.46
+      "price": 64163.48,
+      "change_pct": -1.75
     },
     {
       "label": "Gold",
-      "price": 3863.5,
-      "change_pct": -0.59
+      "price": 3866.0,
+      "change_pct": -0.52
     },
     {
       "label": "Nasdaq100",

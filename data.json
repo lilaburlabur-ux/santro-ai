@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-16T12:51:33+00:00",
-  "as_of_local": "2026-11-16 12:51:33 UTC",
+  "as_of_utc": "2026-11-16T12:56:38+00:00",
+  "as_of_local": "2026-11-16 12:56:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -153,6 +153,12 @@
       "market_cap": 317092899188.99536,
       "headlines": [
         {
+          "title": "Premarket movers: Nvidia, Intel fall; J&J gains",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-nvidia-intel-fall-125216380.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-16T12:52:16Z"
+        },
+        {
           "title": "AMD, Intel and Nvidia Fall as AI Chip Selloff Continues",
           "url": "https://finance.yahoo.com/technology/ai/articles/amd-intel-nvidia-fall-ai-114519979.html",
           "publisher": "GuruFocus.com",
@@ -161,12 +167,6 @@
         {
           "title": "What Is Micron Building That Investors Should Watch?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-building-investors-watch-114211796.html",
-          "publisher": "Trefis",
-          "published": "2026-11-16T11:42:11Z"
-        },
-        {
-          "title": "If Phone Sales Keep Shrinking, What Happens To Your Qualcomm Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/phone-sales-keep-shrinking-happens-114211284.html",
           "publisher": "Trefis",
           "published": "2026-11-16T11:42:11Z"
         }
@@ -215,14 +215,14 @@
           "published": "2026-11-16T11:42:11Z"
         },
         {
-          "title": "What Is Micron Building That Investors Should Watch?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-building-investors-watch-114211796.html",
+          "title": "What Has Changed About Owning Intel Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-owning-intel-stock-114211782.html",
           "publisher": "Trefis",
           "published": "2026-11-16T11:42:11Z"
         },
         {
-          "title": "What Has Changed About Owning Intel Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-owning-intel-stock-114211782.html",
+          "title": "What Is Micron Building That Investors Should Watch?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-building-investors-watch-114211796.html",
           "publisher": "Trefis",
           "published": "2026-11-16T11:42:11Z"
         }
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 42.4,
-      "change_pct": -2.89,
+      "price": null,
+      "change_pct": 0.0,
       "holdings": [
         {
           "symbol": "MU",
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 42.4,
-    "change_pct": -2.89,
+    "price": null,
+    "change_pct": 0.0,
     "holdings": [
       {
         "symbol": "MU",
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64060.42,
+      "price": 64059.51,
       "change_pct": -1.91
     },
     {
       "label": "Gold",
-      "price": 3870.9,
-      "change_pct": -0.4
+      "price": 3871.5,
+      "change_pct": -0.38
     },
     {
       "label": "Nasdaq100",

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-16T09:18:10+00:00",
-  "as_of_local": "2026-11-16 09:18:10 UTC",
+  "as_of_utc": "2026-11-16T09:23:06+00:00",
+  "as_of_local": "2026-11-16 09:23:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LSCC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -27,10 +25,10 @@
           "published": "2026-11-16T01:56:44Z"
         },
         {
-          "title": "Which of These 6 Fintech Stocks Has the Clearest Path to Profit?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/6-fintech-stocks-clearest-path-085802244.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-16T08:58:02Z"
+          "title": "Stocks dip as caution sets in\u00a0before Nvidia earnings, Anthropic IPO",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-fall-nvidia-earnings-013536353.html",
+          "publisher": "Reuters",
+          "published": "2026-11-16T09:16:13Z"
         }
       ]
     },
@@ -287,6 +285,34 @@
       ]
     },
     {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 112.35,
+      "previous_close": 118.85,
+      "change_pct": -5.47,
+      "market_cap": 15979056166.830818,
+      "headlines": [
+        {
+          "title": "Why Is Lattice Semiconductor (LSCC) Pushing Deeper Into Secure Industrial Edge Computing?",
+          "url": "https://finance.yahoo.com/technology/articles/why-lattice-semiconductor-lscc-pushing-151630576.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T15:16:30Z"
+        },
+        {
+          "title": "If You Invested $1000 in Lattice Semiconductor a Decade Ago, This is How Much It'd Be Worth Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/invested-1000-lattice-semiconductor-decade-123002391.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T12:30:02Z"
+        },
+        {
+          "title": "Chip Stocks Finish Lower as Industry Digests Jensen Huang Exit",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/chip-stocks-down-as-industry-digests-jensen-huang-exit-Lq6UDhwOoZUotX38oTUL?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-12T21:11:03Z"
+        }
+      ]
+    },
+    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 117.52,
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -7.89,
-          "price": 1120000.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "KRW"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -7.89,
-        "price": 1120000.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "KRW"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64211.24,
-      "change_pct": -1.67
+      "price": 64234.05,
+      "change_pct": -1.64
     },
     {
       "label": "Gold",
-      "price": 3867.5,
-      "change_pct": -0.48
+      "price": 3866.1,
+      "change_pct": -0.52
     },
     {
       "label": "Nasdaq100",

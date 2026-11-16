@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Finviz theme:artificialintelligence",
-  "as_of": "2026-11-16 21:31 UTC",
+  "as_of": "2026-11-16 21:36 UTC",
   "total_tickers": 111,
   "min_bubble_size": 7,
   "render_spec": {
@@ -18,7 +18,7 @@
    "label": "AI Chips & Compute",
    "color": "#4F8EF7",
    "count": 14,
-   "total_market_cap_b": 9668.3,
+   "total_market_cap_b": 9668.4,
    "avg_change_pct": -4.9,
    "industries_included": [
     "Semiconductors"
@@ -172,7 +172,7 @@
       364.36,
       333.4
      ],
-     "fwd_eps": 19.41
+     "fwd_eps": 19.47
     },
     {
      "ticker": "AMD",
@@ -1503,7 +1503,7 @@
       3.6,
       3.23
      ],
-     "fwd_eps": -0.06
+     "fwd_eps": -0.1
     },
     {
      "ticker": "PUBM",
@@ -1973,7 +1973,7 @@
       371.17,
       320.55
      ],
-     "fwd_eps": 30.65
+     "fwd_eps": 30.61
     },
     {
      "ticker": "KLAC",
@@ -2284,7 +2284,7 @@
    "label": "AI Platforms, Internet & AdTech",
    "color": "#F75F8E",
    "count": 12,
-   "total_market_cap_b": 13426.3,
+   "total_market_cap_b": 13426.1,
    "avg_change_pct": -2.45,
    "industries_included": [
     "Advertising Agencies",
@@ -2903,7 +2903,7 @@
    "color": "#5FD97A",
    "count": 8,
    "total_market_cap_b": 412.5,
-   "avg_change_pct": -2.23,
+   "avg_change_pct": -2.22,
    "industries_included": [
     "Electrical Equipment & Parts",
     "Engineering & Construction",
@@ -3020,7 +3020,7 @@
      "industry": "Electrical Equipment & Parts",
      "country": "USA",
      "market_cap_b": 71.23,
-     "pe": 35.27,
+     "pe": 36.56,
      "price": 189.09,
      "change_pct": -6.42,
      "volume": 7195906,
@@ -3061,7 +3061,7 @@
       209.64,
       188.67
      ],
-     "fwd_eps": 9.87
+     "fwd_eps": 9.92
     },
     {
      "ticker": "DLR",
@@ -3120,7 +3120,7 @@
      "industry": "Utilities - Regulated Electric",
      "country": "USA",
      "market_cap_b": 58.46,
-     "pe": 22.38,
+     "pe": 22.3,
      "price": 67.8,
      "change_pct": 0.21,
      "volume": 3135434,
@@ -3314,7 +3314,7 @@
      "fwd_eps": -1.14
     }
    ],
-   "pe_harmonic": 37.8,
+   "pe_harmonic": 38.0,
    "pe_excluded": 2
   },
   {
@@ -4263,7 +4263,7 @@
       92.47,
       94.64
      ],
-     "fwd_eps": 4.94
+     "fwd_eps": 4.93
     },
     {
      "ticker": "VST",
@@ -4835,7 +4835,7 @@
       103.92,
       97.53
      ],
-     "fwd_eps": 4.42
+     "fwd_eps": 4.18
     }
    ],
    "_note": "Energy-of-AI section. Seed caps approximate/public; price/change filled live by update_quotes.py next cycle. Sub-themes: nuclear_ipp, electrical_turbines, uranium_fuel, grid_utilities, dc_infra.",

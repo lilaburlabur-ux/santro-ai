@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-16T21:36:12+00:00",
-  "as_of_local": "2026-11-16 21:36:12 UTC",
+  "as_of_utc": "2026-11-16T21:41:09+00:00",
+  "as_of_local": "2026-11-16 21:41:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -31,6 +29,34 @@
           "url": "https://finance.yahoo.com/technology/article/nvidia-board-needs-some-heavyweights-ex-medtronic-ceo-bill-george-says-191935557.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-16T19:19:35Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 373.45,
+      "previous_close": 398.73,
+      "change_pct": -6.34,
+      "market_cap": 1936888402920.7378,
+      "headlines": [
+        {
+          "title": "TSMC Slumps Nearly 6% as Jensen Huang\u2019s Exit and AI Debt Fears Rattle Investors Ahead of Nvidia Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-slumps-nearly-6-jensen-203009869.html",
+          "publisher": "Benzinga Prediction Markets",
+          "published": "2026-11-16T20:30:09Z"
+        },
+        {
+          "title": "INTW 2X Intel ETF Tumbles 13% as Intel Drops Amid Shareholder Lawsuit and AI Chip Selloff; Taiwan Semiconductor Falls 5%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intw-2x-intel-etf-tumbles-200312007.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-16T20:03:12Z"
+        },
+        {
+          "title": "Altimeter Capital to invest $5 billion in Anthropic IPO - report",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/altimeter-capital-invest-5-billion-184641881.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-16T18:46:41Z"
         }
       ]
     },
@@ -189,8 +215,8 @@
           "published": "2026-11-16T21:06:10Z"
         },
         {
-          "title": "What Is Micron Building That Investors Should Watch?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-building-investors-watch-114211796.html",
+          "title": "If Phone Sales Keep Shrinking, What Happens To Your Qualcomm Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/phone-sales-keep-shrinking-happens-114211284.html",
           "publisher": "Trefis",
           "published": "2026-11-16T11:42:11Z"
         },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 65159.4,
-      "change_pct": -0.22
+      "price": 65271.06,
+      "change_pct": -0.05
     },
     {
       "label": "Gold",
-      "price": 3856.1,
-      "change_pct": -0.78
+      "price": 3856.3,
+      "change_pct": -0.77
     },
     {
       "label": "Nasdaq100",

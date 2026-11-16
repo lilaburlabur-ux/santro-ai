@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-16T11:20:02+00:00",
-  "as_of_local": "2026-11-16 11:20:02 UTC",
+  "as_of_utc": "2026-11-16T11:25:10+00:00",
+  "as_of_local": "2026-11-16 11:25:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-nasdaq-100-etf-qqqm-110452941.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-16T11:04:52Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 59.66,
-      "previous_close": 61.2,
-      "change_pct": -2.52,
-      "market_cap": 317092899188.99536,
-      "headlines": [
-        {
-          "title": "iShares PHLX SOX Semiconductor (SOXX) Sells AMD and Broadcom on Nov. 12",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semiconductor-soxx-110406412.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-16T11:04:06Z"
-        },
-        {
-          "title": "ETFs Are Net Sellers of Intel (INTC) on Nov. 12",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-intel-intc-110303484.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-16T11:03:03Z"
-        },
-        {
-          "title": "Intel Facing Class Suit Over Impacts of PC Slowdown",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-facing-class-suit-over-095706041.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-16T09:57:06Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64681.42,
-      "change_pct": -0.95
+      "price": 64640.31,
+      "change_pct": -1.02
     },
     {
       "label": "Gold",
-      "price": 3875.4,
-      "change_pct": -0.28
+      "price": 3877.4,
+      "change_pct": -0.23
     },
     {
       "label": "Nasdaq100",

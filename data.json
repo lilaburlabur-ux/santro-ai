@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-16T22:21:34+00:00",
-  "as_of_local": "2026-11-16 22:21:34 UTC",
+  "as_of_utc": "2026-11-16T22:26:57+00:00",
+  "as_of_local": "2026-11-16 22:26:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/changed-owning-intel-stock-114211782.html",
           "publisher": "Trefis",
           "published": "2026-11-16T11:42:11Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 145.36,
-      "previous_close": 156.76,
-      "change_pct": -7.27,
-      "market_cap": 130789969156.69351,
-      "headlines": [
-        {
-          "title": "5 Unstoppable Stocks to Buy According to Analysts",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-unstoppable-stocks-buy-according-220213130.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-16T22:02:13Z"
-        },
-        {
-          "title": "What Mattered Most In Cerebras's Latest Quarter?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mattered-most-cerebrass-latest-quarter-192954206.html",
-          "publisher": "Trefis",
-          "published": "2026-11-16T19:29:54Z"
-        },
-        {
-          "title": "CoreWeave, Oracle and Nebius Plunge as Nvidia Fallout Rattles AI Stocks",
-          "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-oracle-nebius-plunge-nvidia-192652785.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-16T19:26:52Z"
         }
       ]
     },
@@ -585,7 +559,7 @@
     },
     {
       "label": "BTC",
-      "price": 65309.35,
+      "price": 65312.58,
       "change_pct": 0.01
     },
     {

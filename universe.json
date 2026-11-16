@@ -18,8 +18,8 @@
    "label": "AI Chips & Compute",
    "color": "#4F8EF7",
    "count": 14,
-   "total_market_cap_b": 9711.32,
-   "avg_change_pct": -4.5,
+   "total_market_cap_b": 9680.0,
+   "avg_change_pct": -4.81,
    "industries_included": [
     "Semiconductors"
    ],
@@ -72,7 +72,7 @@
       173.73,
       162.85
      ],
-     "fwd_eps": 15.83
+     "fwd_eps": 15.84
     },
     {
      "ticker": "TSM",
@@ -172,7 +172,7 @@
       345.22,
       347.01
      ],
-     "fwd_eps": 19.47
+     "fwd_eps": 19.41
     },
     {
      "ticker": "AMD",
@@ -222,7 +222,7 @@
       552.9,
       534.06
      ],
-     "fwd_eps": 17.69
+     "fwd_eps": 17.64
     },
     {
      "ticker": "MU",
@@ -535,7 +535,7 @@
      "price": 103.31,
      "change_pct": -4.98,
      "volume": 36776700,
-     "fwd_eps": 1.62,
+     "fwd_eps": 1.86,
      "perf": {
       "1W": 21.2,
       "1M": -23.5,
@@ -734,8 +734,8 @@
    "label": "AI Software & Cloud Infrastructure",
    "color": "#9B6BF7",
    "count": 6,
-   "total_market_cap_b": 4688.2,
-   "avg_change_pct": -0.17,
+   "total_market_cap_b": 4685.6,
+   "avg_change_pct": -0.22,
    "industries_included": [
     "Software - Infrastructure"
    ],
@@ -1049,8 +1049,8 @@
    "label": "AI Applications & Data Software",
    "color": "#F7A14F",
    "count": 11,
-   "total_market_cap_b": 975.99,
-   "avg_change_pct": -0.15,
+   "total_market_cap_b": 976.1,
+   "avg_change_pct": -0.14,
    "industries_included": [
     "Software - Application"
    ],
@@ -1253,7 +1253,7 @@
       301.22,
       291.0
      ],
-     "fwd_eps": 3.04
+     "fwd_eps": 3.06
     },
     {
      "ticker": "ADBE",
@@ -1353,7 +1353,7 @@
       342.64,
       341.7
      ],
-     "fwd_eps": 26.93
+     "fwd_eps": 26.9
     },
     {
      "ticker": "DDOG",
@@ -1503,7 +1503,7 @@
       3.91,
       3.49
      ],
-     "fwd_eps": -0.1
+     "fwd_eps": -0.06
     },
     {
      "ticker": "PUBM",
@@ -1614,8 +1614,8 @@
    "label": "Chip Equipment & AI Hardware",
    "color": "#4FC3D9",
    "count": 13,
-   "total_market_cap_b": 3105.58,
-   "avg_change_pct": -4.61,
+   "total_market_cap_b": 3102.3,
+   "avg_change_pct": -4.71,
    "industries_included": [
     "Communication Equipment",
     "Computer Hardware",
@@ -1773,7 +1773,7 @@
       100.76,
       95.64
      ],
-     "fwd_eps": 5.93
+     "fwd_eps": 6.01
     },
     {
      "ticker": "AMAT",
@@ -1823,7 +1823,7 @@
       395.08,
       370.5
      ],
-     "fwd_eps": 24.55
+     "fwd_eps": 24.7
     },
     {
      "ticker": "LRCX",
@@ -1973,7 +1973,7 @@
       373.68,
       344.53
      ],
-     "fwd_eps": 30.41
+     "fwd_eps": 30.61
     },
     {
      "ticker": "KLAC",
@@ -2126,56 +2126,6 @@
      "fwd_eps": 12.04
     },
     {
-     "ticker": "SMCI",
-     "company": "Super Micro Computer Inc",
-     "sector": "Technology",
-     "industry": "Computer Hardware",
-     "country": "USA",
-     "market_cap_b": 15.11,
-     "pe": 5.67,
-     "price": 25.42,
-     "change_pct": -5.4,
-     "volume": 45243100,
-     "perf": {
-      "1W": -6.6,
-      "1M": -23.4,
-      "1Y": -26.2
-     },
-     "spark": [
-      35.17,
-      37.39,
-      37.08,
-      36.71,
-      37.87,
-      40.26,
-      37.38,
-      36.74,
-      36.85,
-      39.09,
-      41.54,
-      41.51,
-      41.78,
-      41.07,
-      43.69,
-      43.46,
-      42.77,
-      39.98,
-      35.78,
-      31.63,
-      32.47,
-      33.72,
-      32.69,
-      35.81,
-      32.95,
-      31.39,
-      27.08,
-      28.6,
-      30.43,
-      26.86
-     ],
-     "fwd_eps": 6.95
-    },
-    {
      "ticker": "ZBRA",
      "company": "Zebra Technologies Corp",
      "sector": "Technology",
@@ -2224,6 +2174,56 @@
       324.0
      ],
      "fwd_eps": 22.27
+    },
+    {
+     "ticker": "SMCI",
+     "company": "Super Micro Computer Inc",
+     "sector": "Technology",
+     "industry": "Computer Hardware",
+     "country": "USA",
+     "market_cap_b": 15.06,
+     "pe": 5.67,
+     "price": 25.34,
+     "change_pct": -5.71,
+     "volume": 45243100,
+     "perf": {
+      "1W": -6.6,
+      "1M": -23.4,
+      "1Y": -26.2
+     },
+     "spark": [
+      35.17,
+      37.39,
+      37.08,
+      36.71,
+      37.87,
+      40.26,
+      37.38,
+      36.74,
+      36.85,
+      39.09,
+      41.54,
+      41.51,
+      41.78,
+      41.07,
+      43.69,
+      43.46,
+      42.77,
+      39.98,
+      35.78,
+      31.63,
+      32.47,
+      33.72,
+      32.69,
+      35.81,
+      32.95,
+      31.39,
+      27.08,
+      28.6,
+      30.43,
+      26.87
+     ],
+     "fwd_eps": 6.95
     },
     {
      "ticker": "AMBA",
@@ -2284,8 +2284,8 @@
    "label": "AI Platforms, Internet & AdTech",
    "color": "#F75F8E",
    "count": 12,
-   "total_market_cap_b": 13715.65,
-   "avg_change_pct": -0.36,
+   "total_market_cap_b": 13720.8,
+   "avg_change_pct": -0.32,
    "industries_included": [
     "Advertising Agencies",
     "Consumer Electronics",
@@ -2341,7 +2341,7 @@
       355.36,
       356.27
      ],
-     "fwd_eps": 10.55
+     "fwd_eps": 10.57
     },
     {
      "ticker": "GOOGL",
@@ -2391,7 +2391,7 @@
       293.45,
       295.77
      ],
-     "fwd_eps": 15.44
+     "fwd_eps": 15.18
     },
     {
      "ticker": "AMZN",
@@ -2441,7 +2441,7 @@
       266.17,
       266.66
      ],
-     "fwd_eps": 10.92
+     "fwd_eps": 10.93
     },
     {
      "ticker": "META",
@@ -2491,7 +2491,7 @@
       628.77,
       641.69
      ],
-     "fwd_eps": 35.59
+     "fwd_eps": 35.68
     },
     {
      "ticker": "BABA",
@@ -2791,7 +2791,7 @@
       15.98,
       15.68
      ],
-     "fwd_eps": 1.17
+     "fwd_eps": 1.18
     },
     {
      "ticker": "MGNI",
@@ -2855,7 +2855,7 @@
      "change_pct": 0.0,
      "volume": 6958600,
      "perf": {
-      "1W": -0.0,
+      "1W": 0.0,
       "1M": 0.1,
       "1Y": 30.1
      },
@@ -2902,8 +2902,8 @@
    "label": "Data Center, Power & Energy",
    "color": "#5FD97A",
    "count": 8,
-   "total_market_cap_b": 414.66,
-   "avg_change_pct": -1.73,
+   "total_market_cap_b": 413.5,
+   "avg_change_pct": -2.0,
    "industries_included": [
     "Electrical Equipment & Parts",
     "Engineering & Construction",
@@ -3061,7 +3061,7 @@
       206.51,
       202.07
      ],
-     "fwd_eps": 9.92
+     "fwd_eps": 9.87
     },
     {
      "ticker": "DLR",
@@ -3322,8 +3322,8 @@
    "label": "Applied AI: Industrial, Defense & Vertical",
    "color": "#D9C84F",
    "count": 14,
-   "total_market_cap_b": 3789.28,
-   "avg_change_pct": -0.76,
+   "total_market_cap_b": 3789.0,
+   "avg_change_pct": -0.77,
    "industries_included": [
     "Aerospace & Defense",
     "Auto Manufacturers",
@@ -3549,40 +3549,40 @@
      "change_pct": 0.0,
      "volume": 2575800,
      "perf": {
-      "1W": 1.1,
-      "1M": 5.7,
-      "1Y": 8.0
+      "1W": 1.4,
+      "1M": 6.0,
+      "1Y": 8.3
      },
      "spark": [
-      214.77,
-      220.67,
-      217.43,
-      209.98,
-      207.63,
-      208.24,
-      202.18,
-      201.38,
-      207.66,
-      206.46,
-      211.85,
-      211.79,
-      211.52,
-      210.94,
-      213.99,
-      212.87,
-      206.6,
-      209.64,
-      207.61,
-      211.41,
+      214.1,
+      219.98,
+      216.75,
+      209.32,
+      206.98,
+      207.59,
+      201.55,
+      200.75,
+      207.01,
+      205.81,
+      211.19,
+      211.13,
+      210.86,
+      210.28,
       213.32,
-      218.31,
-      219.28,
-      219.26,
-      218.33,
-      224.05,
-      215.78,
-      229.0,
-      227.64,
+      212.2,
+      205.95,
+      208.98,
+      206.96,
+      210.75,
+      212.65,
+      217.63,
+      218.59,
+      218.57,
+      217.65,
+      223.35,
+      215.1,
+      228.28,
+      226.93,
       222.46
      ],
      "fwd_eps": 9.88
@@ -3685,7 +3685,7 @@
       51.72,
       50.01
      ],
-     "fwd_eps": 2.02
+     "fwd_eps": 2.01
     },
     {
      "ticker": "AVAV",
@@ -3885,7 +3885,7 @@
       5.23,
       4.66
      ],
-     "fwd_eps": -0.67
+     "fwd_eps": -0.68
     },
     {
      "ticker": "RXRX",
@@ -3933,9 +3933,9 @@
       3.5,
       3.81,
       3.59,
-      3.19
+      3.18
      ],
-     "fwd_eps": -0.83
+     "fwd_eps": -0.81
     },
     {
      "ticker": "INOD",
@@ -4046,8 +4046,8 @@
    "label": "Powering AI",
    "color": "#3BE08F",
    "count": 15,
-   "total_market_cap_b": 661.89,
-   "avg_change_pct": -2.28,
+   "total_market_cap_b": 662.2,
+   "avg_change_pct": -2.23,
    "industries_included": [
     "Electrical Equipment & Parts",
     "Engineering & Construction",
@@ -4107,7 +4107,7 @@
       360.62,
       352.97
      ],
-     "fwd_eps": 16.44
+     "fwd_eps": 16.47
     },
     {
      "ticker": "GEV",
@@ -4211,7 +4211,7 @@
       274.73,
       280.2
      ],
-     "fwd_eps": 13.42
+     "fwd_eps": 13.43
     },
     {
      "ticker": "SO",
@@ -4315,7 +4315,7 @@
       133.45,
       133.01
      ],
-     "fwd_eps": 9.58
+     "fwd_eps": 9.36
     },
     {
      "ticker": "PEG",
@@ -4383,40 +4383,40 @@
      "sub_theme": "grid_utilities",
      "seed": true,
      "perf": {
-      "1W": 0.5,
-      "1M": 6.9,
-      "1Y": 19.1
+      "1W": 1.2,
+      "1M": 7.6,
+      "1Y": 19.8
      },
      "spark": [
-      105.79,
-      107.23,
-      105.75,
-      107.02,
-      107.78,
-      108.53,
-      105.73,
-      103.64,
-      102.32,
-      102.01,
-      101.16,
-      98.16,
-      98.1,
-      99.26,
-      100.91,
-      103.25,
-      102.49,
-      103.99,
-      104.5,
+      105.15,
+      106.58,
       105.11,
-      105.16,
-      108.19,
-      107.5,
-      107.88,
-      110.11,
-      108.92,
-      110.3,
-      111.79,
-      111.99,
+      106.37,
+      107.13,
+      107.87,
+      105.09,
+      103.01,
+      101.7,
+      101.39,
+      100.55,
+      97.56,
+      97.5,
+      98.66,
+      100.3,
+      102.62,
+      101.87,
+      103.36,
+      103.87,
+      104.47,
+      104.52,
+      107.53,
+      106.85,
+      107.22,
+      109.44,
+      108.26,
+      109.63,
+      111.11,
+      111.31,
       111.15
      ],
      "fwd_eps": 5.11
@@ -4523,7 +4523,7 @@
       97.5,
       97.1
      ],
-     "fwd_eps": 9.84
+     "fwd_eps": 9.58
     },
     {
      "ticker": "FIX",
@@ -4627,7 +4627,7 @@
       116.73,
       114.69
      ],
-     "fwd_eps": 7.0
+     "fwd_eps": 7.03
     },
     {
      "ticker": "NXE",
@@ -4835,7 +4835,7 @@
       112.17,
       103.78
      ],
-     "fwd_eps": 4.18
+     "fwd_eps": 4.42
     }
    ],
    "_note": "Energy-of-AI section. Seed caps approximate/public; price/change filled live by update_quotes.py next cycle. Sub-themes: nuclear_ipp, electrical_turbines, uranium_fuel, grid_utilities, dc_infra.",
@@ -4903,7 +4903,7 @@
      "industry": "Software - Infrastructure",
      "country": "USA",
      "market_cap_b": 226.66,
-     "pe": 4532.2,
+     "pe": 3776.83,
      "price": 222.85,
      "change_pct": -1.66,
      "volume": 6493900,
@@ -4994,7 +4994,7 @@
       315.0,
       305.81
      ],
-     "fwd_eps": 1.85
+     "fwd_eps": 1.86
     },
     {
      "ticker": "FTNT",
@@ -5255,7 +5255,7 @@
      "industry": "Software - Infrastructure",
      "country": "Israel",
      "market_cap_b": 15.05,
-     "pe": 17.58,
+     "pe": 17.71,
      "price": 147.18,
      "change_pct": 0.0,
      "volume": 731700,
@@ -5296,7 +5296,7 @@
       146.58,
       147.18
      ],
-     "fwd_eps": 11.05
+     "fwd_eps": 11.04
     },
     {
      "ticker": "SAIL",
@@ -5758,9 +5758,9 @@
     }
    ],
    "count": 18,
-   "avg_change_pct": -1.72,
-   "total_market_cap_b": 854.62,
-   "pe_harmonic": 118.5,
+   "avg_change_pct": -1.68,
+   "total_market_cap_b": 855.0,
+   "pe_harmonic": 118.4,
    "pe_excluded": 6,
    "industries_included": [
     "Consulting Services",

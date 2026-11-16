@@ -1,46 +1,44 @@
 {
-  "as_of_utc": "2026-11-16T19:18:25+00:00",
-  "as_of_local": "2026-11-16 19:18:25 UTC",
+  "as_of_utc": "2026-11-16T19:23:32+00:00",
+  "as_of_local": "2026-11-16 19:23:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LSCC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 156.21,
+      "price": 156.37,
       "previous_close": 162.85,
-      "change_pct": -4.08,
-      "market_cap": 3771761326309.204,
+      "change_pct": -3.98,
+      "market_cap": 3776349315261.841,
       "headlines": [
+        {
+          "title": "Nvidia board needs 'some heavyweights,' ex-Medtronic CEO Bill George says",
+          "url": "https://finance.yahoo.com/technology/article/nvidia-board-needs-some-heavyweights-ex-medtronic-ceo-bill-george-says-191935557.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-16T19:19:35Z"
+        },
+        {
+          "title": "The S&P 500's shot at 4 straight double-digit years is in Nvidia's hands",
+          "url": "https://finance.yahoo.com/markets/article/the-sp-500s-shot-at-4-straight-double-digit-years-is-in-nvidias-hands-191852498.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-16T19:18:52Z"
+        },
         {
           "title": "Nvidia live updates: Interim CEO Kress prepares for Q3 earnings, with Huang reportedly planning comeback",
           "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-interim-ceo-kress-prepares-for-q3-earnings-with-huang-reportedly-planning-comeback-153114076.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-16T15:31:14Z"
-        },
-        {
-          "title": "Sam Altman weighs in on Jensen Huang's potential Nvidia comeback",
-          "url": "https://finance.yahoo.com/video/sam-altman-weighs-in-on-jensen-huangs-potential-nvidia-comeback-184934634.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-16T18:49:34Z"
-        },
-        {
-          "title": "Eli Lilly is trouncing Nvidia \u2014 and the weight-loss drug trade is beating AI again",
-          "url": "https://finance.yahoo.com/markets/article/eli-lilly-is-trouncing-nvidia--and-the-weight-loss-drug-trade-is-beating-ai-again-170530198.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-16T17:05:30Z"
         }
       ]
     },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 377.67,
+      "price": 377.38,
       "previous_close": 398.73,
-      "change_pct": -5.28,
-      "market_cap": 1958801124697.5122,
+      "change_pct": -5.35,
+      "market_cap": 1957530464138.5571,
       "headlines": [
         {
           "title": "Altimeter Capital to invest $5 billion in Anthropic IPO - report",
@@ -65,10 +63,10 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 333.63,
+      "price": 333.55,
       "previous_close": 347.01,
-      "change_pct": -3.86,
-      "market_cap": 1592673938084.8188,
+      "change_pct": -3.88,
+      "market_cap": 1592236170819.672,
       "headlines": [
         {
           "title": "AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop",
@@ -93,10 +91,10 @@
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 508.55,
+      "price": 508.44,
       "previous_close": 534.06,
-      "change_pct": -4.78,
-      "market_cap": 834230370210.8518,
+      "change_pct": -4.8,
+      "market_cap": 833935166518.0297,
       "headlines": [
         {
           "title": "AMD finalizes $8.2 billion World Labs acquisition, adds 'godmother of AI' as EVP and chief scientist",
@@ -121,10 +119,10 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 727.34,
+      "price": 727.38,
       "previous_close": 778.31,
-      "change_pct": -6.55,
-      "market_cap": 822544675124.0,
+      "change_pct": -6.54,
+      "market_cap": 822923726760.3933,
       "headlines": [
         {
           "title": "SK Hynix Is Down 16% in a Month. What Will It Take to Get SKHY Stock Back to $150?",
@@ -149,10 +147,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 55.83,
+      "price": 55.81,
       "previous_close": 59.66,
-      "change_pct": -6.42,
-      "market_cap": 296589221839.9048,
+      "change_pct": -6.44,
+      "market_cap": 296708277320.8618,
       "headlines": [
         {
           "title": "Intel stock falls after investors file class action lawsuit against the company",
@@ -177,10 +175,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 177.04,
+      "price": 177.01,
       "previous_close": 190.53,
-      "change_pct": -7.08,
-      "market_cap": 189325802612.3047,
+      "change_pct": -7.1,
+      "market_cap": 189398032836.91406,
       "headlines": [
         {
           "title": "Arm Stocks Slide 6.72% as Nvidia CEO Search Keeps Rene Haas in Focus",
@@ -205,14 +203,14 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 171.44,
+      "price": 171.27,
       "previous_close": 172.47,
-      "change_pct": -0.6,
-      "market_cap": 183274953918.45703,
+      "change_pct": -0.7,
+      "market_cap": 183258904571.5332,
       "headlines": [
         {
-          "title": "If Phone Sales Keep Shrinking, What Happens To Your Qualcomm Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/phone-sales-keep-shrinking-happens-114211284.html",
+          "title": "What Has Changed About Owning Intel Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-owning-intel-stock-114211782.html",
           "publisher": "Trefis",
           "published": "2026-11-16T11:42:11Z"
         },
@@ -223,8 +221,8 @@
           "published": "2026-11-16T11:42:11Z"
         },
         {
-          "title": "What Has Changed About Owning Intel Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-owning-intel-stock-114211782.html",
+          "title": "If Phone Sales Keep Shrinking, What Happens To Your Qualcomm Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/phone-sales-keep-shrinking-happens-114211284.html",
           "publisher": "Trefis",
           "published": "2026-11-16T11:42:11Z"
         }
@@ -233,10 +231,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 147.29,
+      "price": 147.44,
       "previous_close": 156.76,
-      "change_pct": -6.04,
-      "market_cap": 132418543206.41946,
+      "change_pct": -5.95,
+      "market_cap": 132701971655.94351,
       "headlines": [
         {
           "title": "Why Marvell Stock Is Down Today",
@@ -261,10 +259,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 260.2,
+      "price": 260.21,
       "previous_close": 265.09,
       "change_pct": -1.84,
-      "market_cap": 65574106281.12561,
+      "market_cap": 65624512263.49756,
       "headlines": [
         {
           "title": "NXP: 3 Key Takeaways for Long-Term Investors",
@@ -287,12 +285,40 @@
       ]
     },
     {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 108.54,
+      "previous_close": 112.35,
+      "change_pct": -3.39,
+      "market_cap": 15437176631.35151,
+      "headlines": [
+        {
+          "title": "SK hynix Down 23.1% in Three Months: Should You Buy, Hold or Sell?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-down-23-1-142800021.html",
+          "publisher": "Zacks",
+          "published": "2026-11-16T14:28:00Z"
+        },
+        {
+          "title": "Why Is Lattice Semiconductor (LSCC) Pushing Deeper Into Secure Industrial Edge Computing?",
+          "url": "https://finance.yahoo.com/technology/articles/why-lattice-semiconductor-lscc-pushing-151630576.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T15:16:30Z"
+        },
+        {
+          "title": "If You Invested $1000 in Lattice Semiconductor a Decade Ago, This is How Much It'd Be Worth Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/invested-1000-lattice-semiconductor-decade-123002391.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T12:30:02Z"
+        }
+      ]
+    },
+    {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 109.69,
+      "price": 109.83,
       "previous_close": 117.52,
-      "change_pct": -6.66,
-      "market_cap": 5574533007.464813,
+      "change_pct": -6.55,
+      "market_cap": 5581510617.886505,
       "headlines": [
         {
           "title": "Is KTOS Expanding Its Role in Next-Generation Defense Technologies?",
@@ -317,10 +343,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 117.95,
+      "price": 117.9,
       "previous_close": 118.14,
-      "change_pct": -0.16,
-      "market_cap": 4685859220.880768,
+      "change_pct": -0.2,
+      "market_cap": 4683992097.020905,
       "headlines": [
         {
           "title": "SYNA Q1 Earnings Beat Estimates, Revenues Miss on Weak Demand",
@@ -345,10 +371,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 25.18,
+      "price": 25.13,
       "previous_close": 25.59,
-      "change_pct": -1.6,
-      "market_cap": 718316768.0258331,
+      "change_pct": -1.8,
+      "market_cap": 716890371.6789589,
       "headlines": [
         {
           "title": "3 AI Chip Stocks With Lower China Exposure After Nvidia Stock Fell 28%",
@@ -376,15 +402,15 @@
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
       "price": 39.74,
-      "change_pct": -6.26,
+      "change_pct": -6.27,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -6.55,
-          "price": 727.34,
+          "change_pct": -6.54,
+          "price": 727.38,
           "currency": "USD"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.96,
-          "price": 206000.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "KRW"
         },
         {
@@ -419,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -7.41,
-          "price": 819.47,
+          "change_pct": -7.55,
+          "price": 818.2,
           "currency": "USD"
         },
         {
@@ -428,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -5.17,
-          "price": 501.0,
+          "change_pct": -5.15,
+          "price": 501.1,
           "currency": "USD"
         },
         {
@@ -437,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -3.87,
-          "price": 284.2,
+          "change_pct": -3.93,
+          "price": 284.02,
           "currency": "USD"
         },
         {
@@ -466,15 +492,15 @@
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
     "price": 39.74,
-    "change_pct": -6.26,
+    "change_pct": -6.27,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -6.55,
-        "price": 727.34,
+        "change_pct": -6.54,
+        "price": 727.38,
         "currency": "USD"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.96,
-        "price": 206000.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "KRW"
       },
       {
@@ -509,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -7.41,
-        "price": 819.47,
+        "change_pct": -7.55,
+        "price": 818.2,
         "currency": "USD"
       },
       {
@@ -518,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -5.17,
-        "price": 501.0,
+        "change_pct": -5.15,
+        "price": 501.1,
         "currency": "USD"
       },
       {
@@ -527,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -3.87,
-        "price": 284.2,
+        "change_pct": -3.93,
+        "price": 284.02,
         "currency": "USD"
       },
       {
@@ -554,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7426.57,
-      "change_pct": -1.79
+      "price": 7421.09,
+      "change_pct": -1.86
     },
     {
       "label": "BTC",
-      "price": 64796.24,
-      "change_pct": -0.78
+      "price": 64834.91,
+      "change_pct": -0.72
     },
     {
       "label": "Gold",
-      "price": 3858.6,
-      "change_pct": -0.71
+      "price": 3860.2,
+      "change_pct": -0.67
     },
     {
       "label": "Nasdaq100",
-      "price": 27290.93,
-      "change_pct": -2.34
+      "price": 27265.37,
+      "change_pct": -2.43
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-16T00:49:02+00:00",
+  "as_of": "2026-11-16T08:02:32+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -25,6 +25,22 @@
   },
   {
    "rank": 2,
+   "ticker": "AMD",
+   "company": "Advanced Micro Devices Inc",
+   "move_pct": -8.75,
+   "price": 534.06,
+   "volume": 49163200,
+   "volume_vs_avg": "~2x",
+   "heat_score": 64,
+   "direction": "down",
+   "why": "Advanced Micro Devices And 2 Other High Growth Stocks",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-2-other-051555106.html",
+   "published": "2026-11-16T05:15:55+00:00",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 3,
    "ticker": "PUBM",
    "company": "PubMatic Inc",
    "move_pct": 8.36,
@@ -40,7 +56,7 @@
    "sector": "AI Applications & Data Software"
   },
   {
-   "rank": 3,
+   "rank": 4,
    "ticker": "CSCO",
    "company": "Cisco Systems Inc",
    "move_pct": -6.24,
@@ -49,10 +65,10 @@
    "volume_vs_avg": "~2x",
    "heat_score": 45,
    "direction": "down",
-   "why": "US AI Data Centers \u2018Are Going to Get Built\u2019 Despite Political Pushback, Says Cisco CEO: \u2018Too Important to Our Country\u2019",
+   "why": "Cisco posts its best growth in 15 years. Why isn't Wall Street buying?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/us-ai-data-centers-going-223006143.html",
-   "published": "2026-11-15T22:30:06+00:00",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-posts-best-growth-15-041700221.html",
+   "published": "2026-11-16T04:17:00+00:00",
    "sector": "Chip Equipment & AI Hardware"
   }
  ]

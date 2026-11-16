@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-14T04:29:57+00:00",
+  "as_of": "2026-11-16T00:10:46+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -38,6 +38,22 @@
    "source_url": "",
    "published": "",
    "sector": "AI Applications & Data Software"
+  },
+  {
+   "rank": 3,
+   "ticker": "CSCO",
+   "company": "Cisco Systems Inc",
+   "move_pct": -6.24,
+   "price": 95.64,
+   "volume": 28592200,
+   "volume_vs_avg": "~2x",
+   "heat_score": 45,
+   "direction": "down",
+   "why": "US AI Data Centers \u2018Are Going to Get Built\u2019 Despite Political Pushback, Says Cisco CEO: \u2018Too Important to Our Country\u2019",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/us-ai-data-centers-going-223006143.html",
+   "published": "2026-11-15T22:30:06+00:00",
+   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

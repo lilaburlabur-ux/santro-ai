@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-16T22:26:57+00:00",
-  "as_of_local": "2026-11-16 22:26:57 UTC",
+  "as_of_utc": "2026-11-16T22:31:56+00:00",
+  "as_of_local": "2026-11-16 22:31:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "MRVL"
+    "LSCC"
   ],
   "stocks": [
     {
@@ -183,6 +183,12 @@
       "market_cap": 187303503265.38086,
       "headlines": [
         {
+          "title": "Arm Holdings (ARM) Stock Dropped, So What Is Driving Attention Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-stock-dropped-221118439.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-16T22:11:18Z"
+        },
+        {
           "title": "Why Arm Holdings Plunged Today",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-arm-holdings-plunged-today-210632944.html",
           "publisher": "Motley Fool",
@@ -193,12 +199,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stocks-slide-6-72-174928553.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-16T17:49:28Z"
-        },
-        {
-          "title": "ARM's 50% Licensing Revenue Surge Signals Strong AI-Driven Demand",
-          "url": "https://finance.yahoo.com/technology/ai/articles/arms-50-licensing-revenue-surge-163000721.html",
-          "publisher": "Zacks",
-          "published": "2026-11-16T16:30:00Z"
         }
       ]
     },
@@ -223,10 +223,38 @@
           "published": "2026-11-16T11:42:11Z"
         },
         {
-          "title": "What Has Changed About Owning Intel Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-owning-intel-stock-114211782.html",
+          "title": "What Is Micron Building That Investors Should Watch?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-building-investors-watch-114211796.html",
           "publisher": "Trefis",
           "published": "2026-11-16T11:42:11Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 145.36,
+      "previous_close": 156.76,
+      "change_pct": -7.27,
+      "market_cap": 130789969156.69351,
+      "headlines": [
+        {
+          "title": "5 Unstoppable Stocks to Buy According to Analysts",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-unstoppable-stocks-buy-according-220213130.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-16T22:02:13Z"
+        },
+        {
+          "title": "What Mattered Most In Cerebras's Latest Quarter?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mattered-most-cerebrass-latest-quarter-192954206.html",
+          "publisher": "Trefis",
+          "published": "2026-11-16T19:29:54Z"
+        },
+        {
+          "title": "CoreWeave, Oracle and Nebius Plunge as Nvidia Fallout Rattles AI Stocks",
+          "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-oracle-nebius-plunge-nvidia-192652785.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-16T19:26:52Z"
         }
       ]
     },
@@ -255,34 +283,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-texas-instruments-stock-010308968.html",
           "publisher": "Trefis",
           "published": "2026-11-14T01:03:08Z"
-        }
-      ]
-    },
-    {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 108.17,
-      "previous_close": 112.35,
-      "change_pct": -3.72,
-      "market_cap": 15384552735.046982,
-      "headlines": [
-        {
-          "title": "SK hynix Down 23.1% in Three Months: Should You Buy, Hold or Sell?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-down-23-1-142800021.html",
-          "publisher": "Zacks",
-          "published": "2026-11-16T14:28:00Z"
-        },
-        {
-          "title": "Why Is Lattice Semiconductor (LSCC) Pushing Deeper Into Secure Industrial Edge Computing?",
-          "url": "https://finance.yahoo.com/technology/articles/why-lattice-semiconductor-lscc-pushing-151630576.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T15:16:30Z"
-        },
-        {
-          "title": "If You Invested $1000 in Lattice Semiconductor a Decade Ago, This is How Much It'd Be Worth Now",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/invested-1000-lattice-semiconductor-decade-123002391.html",
-          "publisher": "Zacks",
-          "published": "2026-11-13T12:30:02Z"
         }
       ]
     },
@@ -559,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 65312.58,
-      "change_pct": 0.01
+      "price": 65265.73,
+      "change_pct": -0.06
     },
     {
       "label": "Gold",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-16T02:29:48+00:00",
-  "as_of_local": "2026-11-16 02:29:48 UTC",
+  "as_of_utc": "2026-11-16T02:44:59+00:00",
+  "as_of_local": "2026-11-16 02:44:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -33,34 +35,6 @@
       ]
     },
     {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 398.73,
-      "previous_close": 405.49,
-      "change_pct": -1.67,
-      "market_cap": 2068002433877.914,
-      "headlines": [
-        {
-          "title": "What TSMC Doubters Got Wrong",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-doubters-got-wrong-200527158.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-15T20:05:27Z"
-        },
-        {
-          "title": "Nvidia Rival\u2019s CEO on TSMC: \u201cI Would Buy That Stock Every Day of the Week\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-rival-ceo-tsmc-buy-175956534.html",
-          "publisher": "TIKR",
-          "published": "2026-11-15T17:59:56Z"
-        },
-        {
-          "title": "\u201cBeing Prudent\u201d: TSMC Stock Has Surged 41% in a Year. Is It Too Late to Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/being-prudent-tsmc-stock-surged-223054275.html",
-          "publisher": "TIKR",
-          "published": "2026-11-14T22:30:54Z"
-        }
-      ]
-    },
-    {
       "symbol": "AVGO",
       "name": "Broadcom",
       "price": 347.01,
@@ -72,7 +46,7 @@
           "title": "Jensen Huang Reportedly Considers Returning To Nvidia: FT",
           "url": "https://www.investors.com/news/technology/jensen-huang-considers-returning-to-nvidia-stock/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-16T02:15:58Z"
+          "published": "2026-11-16T02:35:46Z"
         },
         {
           "title": "Marvell\u2019s Trillion-Dollar Target",
@@ -128,7 +102,7 @@
           "title": "Jensen Huang Reportedly Considers Returning To Nvidia: FT",
           "url": "https://www.investors.com/news/technology/jensen-huang-considers-returning-to-nvidia-stock/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-16T02:15:58Z"
+          "published": "2026-11-16T02:35:46Z"
         },
         {
           "title": "Advanced Micro Devices (AMD) Deepens Quantum Push With New Research And Commercial Ties",
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -4.44,
-          "price": 1162000.0,
+          "change_pct": -3.87,
+          "price": 1169000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -2.91,
-          "price": 200000.0,
+          "change_pct": -2.31,
+          "price": 201250.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -5.43,
-          "price": 8597.0,
+          "change_pct": -5.51,
+          "price": 8590.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -7.56,
-          "price": 348.5,
+          "change_pct": -7.16,
+          "price": 350.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -7.6,
-          "price": 115.5,
+          "change_pct": -6.8,
+          "price": 116.5,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -4.44,
-        "price": 1162000.0,
+        "change_pct": -3.87,
+        "price": 1169000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -2.91,
-        "price": 200000.0,
+        "change_pct": -2.31,
+        "price": 201250.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -5.43,
-        "price": 8597.0,
+        "change_pct": -5.51,
+        "price": 8590.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -7.56,
-        "price": 348.5,
+        "change_pct": -7.16,
+        "price": 350.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -7.6,
-        "price": 115.5,
+        "change_pct": -6.8,
+        "price": 116.5,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 65178.52,
-      "change_pct": 1.64
+      "price": 65097.03,
+      "change_pct": 1.51
     },
     {
       "label": "Gold",
-      "price": 3886.6,
-      "change_pct": 0.01
+      "price": 3880.9,
+      "change_pct": -0.14
     },
     {
       "label": "Nasdaq100",

@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-16T07:41:23+00:00",
-  "as_of_local": "2026-11-16 07:41:23 UTC",
+  "as_of_utc": "2026-11-16T07:56:31+00:00",
+  "as_of_local": "2026-11-16 07:56:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 162.85,
+      "previous_close": 166.19,
+      "change_pct": -2.01,
+      "market_cap": 3932339097381.592,
+      "headlines": [
+        {
+          "title": "Nvidia stock steady as Jensen Huang reportedly weighs CEO comeback, Musk backs return",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-stock-steady-as-jensen-huang-reportedly-weighs-ceo-comeback-musk-backs-return-015644730.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-16T01:56:44Z"
+        },
+        {
+          "title": "AAPL Stock Posted Best Week In 4 Months Amid Nvidia Disruption: Apple Reportedly Plans Smart Glasses To Rival Meta Next Year",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/aapl-stock-posted-best-week-074605436.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-16T07:46:05Z"
+        },
+        {
+          "title": "Losing Jensen Was Bad Enough. Losing NVIDIA\u2019s Bench Would Be Worse",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/losing-jensen-bad-enough-losing-072034224.html",
+          "publisher": "TIKR",
+          "published": "2026-11-16T07:20:34Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64914.83,
-      "change_pct": -0.6
+      "price": 64954.46,
+      "change_pct": -0.54
     },
     {
       "label": "Gold",
-      "price": 3859.9,
-      "change_pct": -0.68
+      "price": 3856.9,
+      "change_pct": -0.76
     },
     {
       "label": "Nasdaq100",

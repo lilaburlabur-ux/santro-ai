@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-17T09:37:35+00:00",
-  "as_of_local": "2026-11-17 09:37:35 UTC",
+  "as_of_utc": "2026-11-17T09:42:40+00:00",
+  "as_of_local": "2026-11-17 09:42:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVAV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -15,7 +13,7 @@
       "market_cap": 3770312565261.841,
       "headlines": [
         {
-          "title": "Stock market today: Dow and S&P 500 futures slip, Nasdaq futures rise in countdown to Nvidia earnings",
+          "title": "Stock market today: Dow, S&P 500 futures slip, and Nasdaq futures slip in countdown to Nvidia earnings",
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-091546152.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-17T09:15:46Z"
@@ -315,6 +313,34 @@
       ]
     },
     {
+      "symbol": "AVAV",
+      "name": "AeroVironment",
+      "price": 109.5,
+      "previous_close": 117.52,
+      "change_pct": -6.82,
+      "market_cap": 5564866869.0,
+      "headlines": [
+        {
+          "title": "AeroVironment (AVAV) Declines More Than Market: Some Information for Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-declines-more-market-221502606.html",
+          "publisher": "Zacks",
+          "published": "2026-11-16T22:15:02Z"
+        },
+        {
+          "title": "Is KTOS Expanding Its Role in Next-Generation Defense Technologies?",
+          "url": "https://finance.yahoo.com/technology/articles/ktos-expanding-role-next-generation-170900169.html",
+          "publisher": "Zacks",
+          "published": "2026-11-16T17:09:00Z"
+        },
+        {
+          "title": "Ondas Falls 8% Despite $1.1 Billion 2027 Revenue Target as Drone Stocks Extend Losses; Red Cat Drops 5%, Unusual Machines Slides 4%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ondas-falls-8-despite-1-150226611.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-16T15:02:26Z"
+        }
+      ]
+    },
+    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 117.52,
@@ -559,12 +585,12 @@
     },
     {
       "label": "BTC",
-      "price": 64338.71,
-      "change_pct": -0.8
+      "price": 64415.87,
+      "change_pct": -0.68
     },
     {
       "label": "Gold",
-      "price": 3864.9,
+      "price": 3864.8,
       "change_pct": 0.31
     },
     {

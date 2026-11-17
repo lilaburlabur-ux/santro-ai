@@ -1,91 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-17T08:50:27+00:00",
+  "as_of": "2026-11-17T09:02:30+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "MU",
-   "company": "Micron Technology Inc",
-   "move_pct": -7.62,
-   "price": 719.02,
-   "volume": 26712100,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 46,
-   "direction": "down",
-   "why": "\u201cWhat Would It Take\u201d for Investors to Finally Admit that Micron Is Poised to Win for the Long Term?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/investors-finally-admit-micron-poised-064938786.html",
-   "published": "2026-11-17T06:49:38+00:00",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 2,
-   "ticker": "TSM",
-   "company": "Taiwan Semiconductor Manufacturing ADR",
-   "move_pct": -6.34,
-   "price": 373.45,
-   "volume": 19483600,
-   "volume_vs_avg": "~1.4x",
-   "heat_score": 44,
-   "direction": "down",
-   "why": "Zacks.com featured highlights include NVIDIA, J.M. Smucker, Taiwan Semiconductor, Corning, Lockheed and Cardinal Health",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-nvidia-070800949.html",
-   "published": "2026-11-17T07:08:00+00:00",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 3,
-   "ticker": "INTC",
-   "company": "Intel Corp",
-   "move_pct": -7.02,
-   "price": 55.47,
-   "volume": 103100900,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 44,
-   "direction": "down",
-   "why": "IREN Stock Rises Overnight As Intel Reveals Stake, Anthropic IPO Buzz Catches On",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/iren-stock-rises-overnight-intel-080610057.html",
-   "published": "2026-11-17T08:06:10+00:00",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 4,
-   "ticker": "AMD",
-   "company": "Advanced Micro Devices Inc",
-   "move_pct": -5.58,
-   "price": 504.28,
-   "volume": 35890100,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 41,
-   "direction": "down",
-   "why": "AMD Stock Gets A New EPYC Launch And Quantum Computing Push",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-gets-epyc-launch-051204297.html",
-   "published": "2026-11-17T05:12:04+00:00",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 5,
-   "ticker": "POWL",
-   "company": "Powell Industries Inc",
-   "move_pct": 5.94,
-   "price": 151.2,
-   "volume": 2510500,
-   "volume_vs_avg": "~3x",
-   "heat_score": 38,
-   "direction": "up",
-   "why": "Moving up 5.9% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": "Powering AI"
-  }
- ]
+ "hot_tickers": []
 }

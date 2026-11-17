@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T00:13:34+00:00",
-  "as_of_local": "2026-11-17 00:13:34 UTC",
+  "as_of_utc": "2026-11-17T00:18:34+00:00",
+  "as_of_local": "2026-11-17 00:18:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -85,34 +87,6 @@
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026/card/stocks-to-watch-nvidia-intel-spacex-QOpa7fFDgsDwemeMk9Sf?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-11-16T22:49:44Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 504.28,
-      "previous_close": 534.06,
-      "change_pct": -5.58,
-      "market_cap": 827063196932.2203,
-      "headlines": [
-        {
-          "title": "AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop",
-          "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-stocks-sink-on-tighter-us-chips-rules-coreweave-drops-143342994.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-16T14:24:53Z"
-        },
-        {
-          "title": "AMD finalizes $8.2 billion World Labs acquisition, adds 'godmother of AI' as EVP and chief scientist",
-          "url": "https://finance.yahoo.com/technology/article/amd-finalizes-82-billion-world-labs-acquisition-adds-godmother-of-ai-as-evp-and-chief-scientist-171451986.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-16T17:14:51Z"
-        },
-        {
-          "title": "Dow Jones Futures: AMD, Nvidia, Micron Lead AI Trade Lower With Nvidia Earnings On Deck",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-stock-nvda-nvidia-earnings-next/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-16T23:47:12Z"
         }
       ]
     },
@@ -215,14 +189,14 @@
           "published": "2026-11-16T21:06:10Z"
         },
         {
-          "title": "What Has Changed About Owning Intel Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-owning-intel-stock-114211782.html",
+          "title": "If Phone Sales Keep Shrinking, What Happens To Your Qualcomm Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/phone-sales-keep-shrinking-happens-114211284.html",
           "publisher": "Trefis",
           "published": "2026-11-16T11:42:11Z"
         },
         {
-          "title": "What Is Micron Building That Investors Should Watch?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-building-investors-watch-114211796.html",
+          "title": "What Has Changed About Owning Intel Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-owning-intel-stock-114211782.html",
           "publisher": "Trefis",
           "published": "2026-11-16T11:42:11Z"
         }
@@ -436,7 +410,7 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -7.69,
+          "change_pct": 0.0,
           "price": 8392.0,
           "currency": "JPY"
         },
@@ -526,7 +500,7 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -7.69,
+        "change_pct": 0.0,
         "price": 8392.0,
         "currency": "JPY"
       },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64649.68,
-      "change_pct": -1.0
+      "price": 64540.7,
+      "change_pct": -1.17
     },
     {
       "label": "Gold",
-      "price": 3865.0,
-      "change_pct": -0.55
+      "price": 3862.5,
+      "change_pct": -0.61
     },
     {
       "label": "Nasdaq100",

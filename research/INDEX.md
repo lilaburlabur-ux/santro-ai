@@ -1,11 +1,11 @@
-# Watchlist Research Index — 16.11.2026
-> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-16.
+# Watchlist Research Index — 17.11.2026
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-17.
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
 | NVDA | $3.77T | -16% | 9.9 | 64% | Low | Reasonable | High |
 | TSM | $1.94T | +34% | 16.0 | 51% | Low | Reasonable | Elevated |
-| AVGO | $1.59T | -1% | 17.2 | 43% | Low | Reasonable | High |
+| AVGO | $1.59T | -1% | 17.1 | 43% | Low | Reasonable | High |
 | MU | $813.52B | +204% | 3.5 | 64% | High | Reasonable | High |
 | AMD | $827.06B | +103% | 28.6 | 17% | High | Fair-to-demanding | High |
 | INTC | $294.82B | +54% | 31.0 | -20% | Low | Fair-to-demanding | High |

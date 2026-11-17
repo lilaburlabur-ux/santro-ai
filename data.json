@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T08:24:45+00:00",
-  "as_of_local": "2026-11-17 08:24:45 UTC",
+  "as_of_utc": "2026-11-17T08:29:44+00:00",
+  "as_of_local": "2026-11-17 08:29:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -197,34 +199,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stocks-slide-6-72-174928553.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-16T17:49:28Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 168.52,
-      "previous_close": 172.47,
-      "change_pct": -2.29,
-      "market_cap": 180316404571.5332,
-      "headlines": [
-        {
-          "title": "Qualcomm CEO: \u201cThere Is No AI Correction\u201d at Qualcomm. Nvidia\u2019s November 17 Earnings Face a Major Test",
-          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-ceo-no-ai-correction-002741944.html",
-          "publisher": "TIKR",
-          "published": "2026-11-17T00:27:41Z"
-        },
-        {
-          "title": "What Is Qualcomm (QCOM) Gaining From Its Cockpit And SoOp Momentum?",
-          "url": "https://finance.yahoo.com/technology/articles/qualcomm-qcom-gaining-cockpit-soop-001825325.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-17T00:18:25Z"
-        },
-        {
-          "title": "David Tepper\u2019s Appaloosa Goes Big on SpaceX, While Slashing Alphabet Stake",
-          "url": "https://www.barrons.com/articles/david-tepper-appaloosa-spacex-alphabet-holdings-0d829940?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-16T23:09:00Z"
         }
       ]
     },
@@ -463,8 +437,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -4.98,
+          "price": 280.93,
           "currency": "USD"
         },
         {
@@ -553,8 +527,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -4.98,
+        "price": 280.93,
         "currency": "USD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64516.75,
-      "change_pct": -0.52
+      "price": 64448.85,
+      "change_pct": -0.63
     },
     {
       "label": "Gold",
-      "price": 3866.9,
-      "change_pct": 0.36
+      "price": 3866.5,
+      "change_pct": 0.35
     },
     {
       "label": "Nasdaq100",

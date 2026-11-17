@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-17T21:38:52+00:00",
-  "as_of_local": "2026-11-17 21:38:52 UTC",
+  "as_of_utc": "2026-11-17T21:43:50+00:00",
+  "as_of_local": "2026-11-17 21:43:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 3753892782119.751,
       "headlines": [
         {
+          "title": "What to make of Jensen Huang's apology letter",
+          "url": "https://finance.yahoo.com/video/what-to-make-of-jensen-huangs-apology-letter-213601392.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-17T21:36:01Z"
+        },
+        {
           "title": "Nvidia beats Q3 earnings expectations in first report without Jensen Huang",
           "url": "https://finance.yahoo.com/video/nvidia-beats-q3-earnings-expectations-in-first-report-without-jensen-huang-213316995.html",
           "publisher": "Yahoo Finance Video",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/article/memo-to-nvidia-interim-ceo-colette-kress-remind-the-world-why-youve-been-jensen-huangs-cfo-for-13-plus-years-200000740.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-17T20:00:00Z"
-        },
-        {
-          "title": "SpaceX is leasing $47 billion of Nvidia chips like a car \u2014 and lenders hold the title",
-          "url": "https://finance.yahoo.com/markets/article/spacex-is-leasing-47-billion-of-nvidia-chips-like-a-car--and-lenders-hold-the-title-192002200.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-17T19:20:02Z"
         }
       ]
     },
@@ -97,6 +97,12 @@
       "market_cap": 833176566164.9612,
       "headlines": [
         {
+          "title": "All Investor Eyes Are on Nvidia\u2019s Future and Forward Looking Statements",
+          "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-news-11-17-2026/card/all-investor-eyes-are-on-nvidia-s-future-and-forward-looking-statements-MjiANsr6LDeezdGavwxL?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-17T21:29:34Z"
+        },
+        {
           "title": "Billionaire David Tepper Grew His SpaceX Stake 17-Fold While Dumping AMD and Broadcom",
           "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-grew-spacex-211051215.html",
           "publisher": "24/7 Wall St.",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-amd-stock-prices-194602677.html",
           "publisher": "Motley Fool",
           "published": "2026-11-17T19:46:02Z"
-        },
-        {
-          "title": "AMD Stocks Decrease 1.62% as New US Rule Requires Licenses for Five Chip Hubs",
-          "url": "https://finance.yahoo.com/technology/articles/amd-stocks-decrease-1-62-190241595.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-17T19:02:41Z"
         }
       ]
     },
@@ -131,16 +131,16 @@
           "published": "2026-11-17T21:10:51Z"
         },
         {
+          "title": "The AI Trade Is Getting More Complicated",
+          "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-news-11-17-2026/card/the-ai-trade-is-getting-more-complicated-UpDL6iaDqUUlW9nYJs9U?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-17T20:37:29Z"
+        },
+        {
           "title": "Why Is Micron Down? GF Securities Warns a \u201cNAND Glut\u201d Could Hit in 2027",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-down-gf-securities-203021210.html",
           "publisher": "TIKR",
           "published": "2026-11-17T20:30:21Z"
-        },
-        {
-          "title": "SK hynix Stocks Fall 1.96% as DRAM Price-Fixing Suit Advances and Kospi Drops",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-stocks-fall-1-190411984.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-17T19:04:11Z"
         }
       ]
     },
@@ -585,8 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64433.06,
-      "change_pct": -0.65
+      "price": 64306.44,
+      "change_pct": -0.85
+    },
+    {
+      "label": "Gold",
+      "price": 3859.0,
+      "change_pct": 0.16
     },
     {
       "label": "Nasdaq100",

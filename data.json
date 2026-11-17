@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T02:41:38+00:00",
-  "as_of_local": "2026-11-17 02:41:38 UTC",
+  "as_of_utc": "2026-11-17T02:56:49+00:00",
+  "as_of_local": "2026-11-17 02:56:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -109,10 +111,10 @@
           "published": "2026-11-16T17:14:51Z"
         },
         {
-          "title": "1 Number Reveals Which Is the Better Buy Between Nvidia and AMD",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-number-reveals-better-buy-022202608.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-17T02:22:02Z"
+          "title": "Dow Jones Futures: AMD, Nvidia, Micron Lead AI Trade Lower With Nvidia Earnings On Deck",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-stock-nvda-nvidia-earnings-next/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-17T02:31:42Z"
         }
       ]
     },
@@ -128,7 +130,7 @@
           "title": "Dow Jones Futures: AMD, Nvidia, Micron Lead AI Trade Lower With Nvidia Earnings On Deck",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-stock-nvda-nvidia-earnings-next/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-17T01:09:39Z"
+          "published": "2026-11-17T02:31:42Z"
         },
         {
           "title": "S&P 500, Dow, Nasdaq End Lower As Investors Hold Back Ahead Of Nvidia Earnings, Anthropic IPO This Week \u2014  NVDA, TSLA, ANT In Focus",
@@ -197,34 +199,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stocks-slide-6-72-174928553.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-16T17:49:28Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 168.52,
-      "previous_close": 172.47,
-      "change_pct": -2.29,
-      "market_cap": 180316404571.5332,
-      "headlines": [
-        {
-          "title": "Qualcomm CEO: \u201cThere Is No AI Correction\u201d at Qualcomm. Nvidia\u2019s November 17 Earnings Face a Major Test",
-          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-ceo-no-ai-correction-002741944.html",
-          "publisher": "TIKR",
-          "published": "2026-11-17T00:27:41Z"
-        },
-        {
-          "title": "What Is Qualcomm (QCOM) Gaining From Its Cockpit And SoOp Momentum?",
-          "url": "https://finance.yahoo.com/technology/articles/qualcomm-qcom-gaining-cockpit-soop-001825325.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-17T00:18:25Z"
-        },
-        {
-          "title": "David Tepper\u2019s Appaloosa Goes Big on SpaceX, While Slashing Alphabet Stake",
-          "url": "https://www.barrons.com/articles/david-tepper-appaloosa-spacex-alphabet-holdings-0d829940?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-16T23:09:00Z"
         }
       ]
     },
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -0.27,
-          "price": 1117000.0,
+          "change_pct": 0.18,
+          "price": 1122000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -2.85,
-          "price": 191200.0,
+          "change_pct": -3.0,
+          "price": 190900.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -6.54,
-          "price": 7843.0,
+          "change_pct": -6.83,
+          "price": 7819.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -4.56,
-          "price": 324.5,
+          "change_pct": -4.26,
+          "price": 325.5,
           "currency": "TWD"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -0.27,
-        "price": 1117000.0,
+        "change_pct": 0.18,
+        "price": 1122000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -2.85,
-        "price": 191200.0,
+        "change_pct": -3.0,
+        "price": 190900.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -6.54,
-        "price": 7843.0,
+        "change_pct": -6.83,
+        "price": 7819.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -4.56,
-        "price": 324.5,
+        "change_pct": -4.26,
+        "price": 325.5,
         "currency": "TWD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64503.49,
-      "change_pct": -1.23
+      "price": 64455.07,
+      "change_pct": -1.3
     },
     {
       "label": "Gold",
-      "price": 3868.3,
-      "change_pct": -0.46
+      "price": 3867.8,
+      "change_pct": -0.48
     },
     {
       "label": "Nasdaq100",

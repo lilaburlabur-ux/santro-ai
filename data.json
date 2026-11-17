@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-17T12:05:05+00:00",
-  "as_of_local": "2026-11-17 12:05:05 UTC",
+  "as_of_utc": "2026-11-17T12:10:14+00:00",
+  "as_of_local": "2026-11-17 12:10:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -59,6 +57,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-nyse-tsm-030943458.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-17T03:09:43Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 333.4,
+      "previous_close": 347.01,
+      "change_pct": -3.92,
+      "market_cap": 1591528167855.0754,
+      "headlines": [
+        {
+          "title": "AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop",
+          "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-stocks-sink-on-tighter-us-chips-rules-coreweave-drops-143342994.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-16T14:24:53Z"
+        },
+        {
+          "title": "Billionaire David Tepper Dumps AMD Stock, Makes $172 Million Bet on Oracle",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-dumps-amd-115625542.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-17T11:56:25Z"
+        },
+        {
+          "title": "A $1.2 Billion Fund Just Bought These 3 Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-2-billion-fund-just-114004082.html",
+          "publisher": "TIKR",
+          "published": "2026-11-17T11:40:04Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64814.58,
-      "change_pct": -0.06
+      "price": 64806.09,
+      "change_pct": -0.08
     },
     {
       "label": "Gold",
-      "price": 3869.6,
-      "change_pct": 0.43
+      "price": 3870.8,
+      "change_pct": 0.46
     },
     {
       "label": "Nasdaq100",

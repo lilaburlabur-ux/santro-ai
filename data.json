@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-11-17T12:50:49+00:00",
-  "as_of_local": "2026-11-17 12:50:49 UTC",
+  "as_of_utc": "2026-11-17T12:55:55+00:00",
+  "as_of_local": "2026-11-17 12:55:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 156.14,
-      "previous_close": 162.85,
-      "change_pct": -4.12,
-      "market_cap": 3770312565261.841,
-      "headlines": [
-        {
-          "title": "Stock market today: Dow, S&P 500 futures slip, and Nasdaq futures rise in countdown to Nvidia earnings",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-091546152.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-17T09:15:46Z"
-        },
-        {
-          "title": "Nvidia is being pulled in opposite directions by 2 powerful forces",
-          "url": "https://finance.yahoo.com/technology/article/nvidia-is-being-pulled-in-opposite-directions-by-2-powerful-forces-110000361.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-17T11:00:00Z"
-        },
-        {
-          "title": "Jensen Huang looks to have accepted his fate with Nvidia: He cleaned up his X profile",
-          "url": "https://finance.yahoo.com/markets/stocks/article/jensen-huang-looks-to-have-accepted-his-fate-with-nvidia-he-cleaned-up-his-x-profile-101253477.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-17T10:12:53Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -103,16 +77,16 @@
           "published": "2026-11-16T14:24:53Z"
         },
         {
+          "title": "Where Will AMD Stock Be in 5 Years?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/where-amd-stock-5-years-124402388.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-17T12:44:02Z"
+        },
+        {
           "title": "The Overlooked JPMorgan ETF That Owns Nearly 300 of the Market\u2019s Strongest Stocks for 0.12%",
           "url": "https://finance.yahoo.com/markets/stocks/articles/overlooked-jpmorgan-etf-owns-nearly-123751583.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-17T12:37:51Z"
-        },
-        {
-          "title": "Intel\u2019s 45% Downturn Over 3 Months Unsettles Investors: This Wall Street Analyst Predicts 155% Gains Anyway",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-45-downturn-over-3-121509119.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-17T12:15:09Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64907.25,
-      "change_pct": 0.08
+      "price": 64919.83,
+      "change_pct": 0.1
     },
     {
       "label": "Gold",
-      "price": 3859.6,
-      "change_pct": 0.17
+      "price": 3862.0,
+      "change_pct": 0.23
     },
     {
       "label": "Nasdaq100",

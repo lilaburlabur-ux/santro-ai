@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Finviz theme:artificialintelligence",
-  "as_of": "2026-11-17 22:35 UTC",
+  "as_of": "2026-11-17 22:39 UTC",
   "total_tickers": 111,
   "min_bubble_size": 7,
   "render_spec": {
@@ -18,7 +18,7 @@
    "label": "AI Chips & Compute",
    "color": "#4F8EF7",
    "count": 14,
-   "total_market_cap_b": 9898.33,
+   "total_market_cap_b": 9898.3,
    "avg_change_pct": 2.63,
    "industries_included": [
     "Semiconductors"
@@ -1049,7 +1049,7 @@
    "label": "AI Applications & Data Software",
    "color": "#F7A14F",
    "count": 11,
-   "total_market_cap_b": 909.31,
+   "total_market_cap_b": 909.3,
    "avg_change_pct": -5.67,
    "industries_included": [
     "Software - Application"
@@ -1614,7 +1614,7 @@
    "label": "Chip Equipment & AI Hardware",
    "color": "#4FC3D9",
    "count": 13,
-   "total_market_cap_b": 3148.97,
+   "total_market_cap_b": 3149.0,
    "avg_change_pct": 2.53,
    "industries_included": [
     "Communication Equipment",
@@ -2284,7 +2284,7 @@
    "label": "AI Platforms, Internet & AdTech",
    "color": "#F75F8E",
    "count": 12,
-   "total_market_cap_b": 13315.09,
+   "total_market_cap_b": 13315.1,
    "avg_change_pct": -0.8,
    "industries_included": [
     "Advertising Agencies",
@@ -2902,7 +2902,7 @@
    "label": "Data Center, Power & Energy",
    "color": "#5FD97A",
    "count": 8,
-   "total_market_cap_b": 415.17,
+   "total_market_cap_b": 415.2,
    "avg_change_pct": 0.75,
    "industries_included": [
     "Electrical Equipment & Parts",
@@ -3322,7 +3322,7 @@
    "label": "Applied AI: Industrial, Defense & Vertical",
    "color": "#D9C84F",
    "count": 14,
-   "total_market_cap_b": 3805.15,
+   "total_market_cap_b": 3805.2,
    "avg_change_pct": 1.64,
    "industries_included": [
     "Aerospace & Defense",
@@ -4046,7 +4046,7 @@
    "label": "Powering AI",
    "color": "#3BE08F",
    "count": 15,
-   "total_market_cap_b": 659.01,
+   "total_market_cap_b": 659.0,
    "avg_change_pct": -0.08,
    "industries_included": [
     "Electrical Equipment & Parts",
@@ -5401,6 +5401,56 @@
      "_note": "Seeded 2026-09-14 with the cybersecurity bubble; quotes maintained by update_quotes.py."
     },
     {
+     "ticker": "S",
+     "company": "SentinelOne Inc",
+     "sector": "Technology",
+     "industry": "Software - Infrastructure",
+     "country": "USA",
+     "market_cap_b": 7.54,
+     "pe": null,
+     "price": 21.34,
+     "change_pct": -2.78,
+     "volume": 9512126,
+     "perf": {
+      "1W": -9.7,
+      "1M": -2.6,
+      "1Y": 30.8
+     },
+     "spark": [
+      20.51,
+      21.54,
+      20.63,
+      19.8,
+      19.43,
+      19.81,
+      22.61,
+      23.17,
+      22.51,
+      23.85,
+      23.98,
+      22.74,
+      23.76,
+      25.06,
+      25.8,
+      25.4,
+      25.66,
+      22.82,
+      21.58,
+      22.0,
+      22.5,
+      25.5,
+      25.59,
+      25.15,
+      23.11,
+      21.42,
+      23.52,
+      23.78,
+      22.2,
+      21.15
+     ],
+     "fwd_eps": 0.46
+    },
+    {
      "ticker": "YOU",
      "company": "Clear Secure, Inc.",
      "sector": "Technology",
@@ -5450,56 +5500,6 @@
       54.6
      ],
      "_note": "Seeded 2026-09-14 with the cybersecurity bubble; quotes maintained by update_quotes.py."
-    },
-    {
-     "ticker": "S",
-     "company": "SentinelOne Inc",
-     "sector": "Technology",
-     "industry": "Software - Infrastructure",
-     "country": "USA",
-     "market_cap_b": 7.54,
-     "pe": null,
-     "price": 21.34,
-     "change_pct": -2.78,
-     "volume": 9512126,
-     "perf": {
-      "1W": -9.7,
-      "1M": -2.6,
-      "1Y": 30.8
-     },
-     "spark": [
-      20.51,
-      21.54,
-      20.63,
-      19.8,
-      19.43,
-      19.81,
-      22.61,
-      23.17,
-      22.51,
-      23.85,
-      23.98,
-      22.74,
-      23.76,
-      25.06,
-      25.8,
-      25.4,
-      25.66,
-      22.82,
-      21.58,
-      22.0,
-      22.5,
-      25.5,
-      25.59,
-      25.15,
-      23.11,
-      21.42,
-      23.52,
-      23.78,
-      22.2,
-      21.15
-     ],
-     "fwd_eps": 0.46
     },
     {
      "ticker": "VRNS",
@@ -5759,7 +5759,7 @@
    ],
    "count": 18,
    "avg_change_pct": -1.47,
-   "total_market_cap_b": 839.75,
+   "total_market_cap_b": 839.8,
    "pe_harmonic": 115.9,
    "pe_excluded": 6,
    "industries_included": [

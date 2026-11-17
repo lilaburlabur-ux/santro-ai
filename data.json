@@ -1,16 +1,16 @@
 {
-  "as_of_utc": "2026-11-17T17:21:01+00:00",
-  "as_of_local": "2026-11-17 17:21:01 UTC",
+  "as_of_utc": "2026-11-17T17:25:50+00:00",
+  "as_of_local": "2026-11-17 17:25:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 155.01,
+      "price": 154.71,
       "previous_close": 156.14,
-      "change_pct": -0.72,
-      "market_cap": 3742181472381.592,
+      "change_pct": -0.92,
+      "market_cap": 3735299488952.6367,
       "headlines": [
         {
           "title": "Former Nvidia CEO Jensen Huang says he'd be 'honored' to return to the company",
@@ -35,10 +35,10 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 361.95,
+      "price": 361.44,
       "previous_close": 373.45,
-      "change_pct": -3.08,
-      "market_cap": 1879396235821.6597,
+      "change_pct": -3.22,
+      "market_cap": 1874598811613.6475,
       "headlines": [
         {
           "title": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Pulled Back Amid Broader AI Buildout Correction",
@@ -63,10 +63,10 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 340.44,
+      "price": 340.59,
       "previous_close": 333.4,
-      "change_pct": 2.11,
-      "market_cap": 1625373186116.3708,
+      "change_pct": 2.16,
+      "market_cap": 1624322981718.886,
       "headlines": [
         {
           "title": "David Tepper Just Made a $518 Million SpaceX Bet \u2014 But Dumped AMD and Broadcom",
@@ -91,10 +91,10 @@
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 496.74,
+      "price": 495.89,
       "previous_close": 504.28,
-      "change_pct": -1.5,
-      "market_cap": 821996590137.9713,
+      "change_pct": -1.66,
+      "market_cap": 820540124352.3564,
       "headlines": [
         {
           "title": "Stanley Druckenmiller Dumped AMD and Alphabet. His Next 3 AI Bets May Surprise Investors",
@@ -119,10 +119,10 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 699.86,
+      "price": 698.62,
       "previous_close": 719.02,
-      "change_pct": -2.66,
-      "market_cap": 791973597837.6504,
+      "change_pct": -2.84,
+      "market_cap": 790525412035.7185,
       "headlines": [
         {
           "title": "Sam Altman Just Delivered a Warning to Investors Betting on Endless AI Growth",
@@ -147,11 +147,17 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 54.44,
+      "price": 54.29,
       "previous_close": 55.47,
-      "change_pct": -1.86,
-      "market_cap": 289348592700.95825,
+      "change_pct": -2.13,
+      "market_cap": 288583774776.45874,
       "headlines": [
+        {
+          "title": "Marvell and Intel Are Both Down at Least 50% From Their 2026 Highs. Only 1 Is a Stock I\u2019d Buy.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-intel-both-down-least-170501150.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-17T17:05:01Z"
+        },
         {
           "title": "Nvidia, Intel, Salesforce, SpaceX, Anthropic, Sandisk, Home Depot, and More That Explain Today\u2019s Market",
           "url": "https://www.barrons.com/articles/stock-movers-5503b6f4?siteid=yhoof2&yptr=yahoo",
@@ -163,22 +169,16 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/triggered-venture-global-stocks-5-160953116.html",
           "publisher": "Trefis",
           "published": "2026-11-17T16:09:53Z"
-        },
-        {
-          "title": "AMD Expects Its CPU Revenue to Double in 2027. Is NVIDIA\u2019s Turmoil AMD\u2019s Opening?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-expects-cpu-revenue-double-160441909.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-17T16:04:41Z"
         }
       ]
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 181.29,
+      "price": 181.12,
       "previous_close": 175.05,
-      "change_pct": 3.56,
-      "market_cap": 194001697387.6953,
+      "change_pct": 3.46,
+      "market_cap": 193904862518.31055,
       "headlines": [
         {
           "title": "SoftBank Had 64% of Its U.S. Stock Portfolio in Intel. It Has Since Halved",
@@ -203,10 +203,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 168.82,
+      "price": 168.52,
       "previous_close": 168.52,
-      "change_pct": 0.18,
-      "market_cap": 180658796081.54297,
+      "change_pct": 0.0,
+      "market_cap": 180316404571.5332,
       "headlines": [
         {
           "title": "Brad Gerstner Dumps These 3 Stocks",
@@ -231,11 +231,17 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 146.85,
+      "price": 146.98,
       "previous_close": 145.36,
-      "change_pct": 1.03,
-      "market_cap": 132216104120.57214,
+      "change_pct": 1.11,
+      "market_cap": 132198104958.71756,
       "headlines": [
+        {
+          "title": "Marvell and Intel Are Both Down at Least 50% From Their 2026 Highs. Only 1 Is a Stock I\u2019d Buy.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-intel-both-down-least-170501150.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-17T17:05:01Z"
+        },
         {
           "title": "Wall Street Is Watching Nvidia. This AI Stock Deserves Attention Too",
           "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-watching-nvidia-ai-163334341.html",
@@ -247,22 +253,16 @@
           "url": "https://www.barrons.com/articles/stock-movers-5503b6f4?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-17T16:29:00Z"
-        },
-        {
-          "title": "Nvidia Isn\u2019t the Whole AI Story. This Stock Could Prove It",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-isn-t-whole-ai-153357623.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-17T15:33:57Z"
         }
       ]
     },
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 256.51,
+      "price": 255.81,
       "previous_close": 254.19,
-      "change_pct": 0.91,
-      "market_cap": 64727204241.5813,
+      "change_pct": 0.64,
+      "market_cap": 64472632108.269714,
       "headlines": [
         {
           "title": "What Is Monolithic Power Systems No Longer Telling You?",
@@ -287,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 109.2,
+      "price": 109.11,
       "previous_close": 108.17,
-      "change_pct": 0.95,
-      "market_cap": 15531045023.161636,
+      "change_pct": 0.87,
+      "market_cap": 15518245231.817673,
       "headlines": [
         {
           "title": "SK hynix Down 23.1% in Three Months: Should You Buy, Hold or Sell?",
@@ -315,10 +315,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 107.3,
+      "price": 107.29,
       "previous_close": 109.5,
-      "change_pct": -2.01,
-      "market_cap": 5453061479.692474,
+      "change_pct": -2.02,
+      "market_cap": 5452502371.322388,
       "headlines": [
         {
           "title": "ONDS Raises 2026 Outlook as Backlog and Defense Demand Accelerate",
@@ -343,10 +343,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 117.48,
+      "price": 117.55,
       "previous_close": 117.52,
-      "change_pct": -0.03,
-      "market_cap": 4667306193.04599,
+      "change_pct": 0.03,
+      "market_cap": 4670087177.041809,
       "headlines": [
         {
           "title": "SYNA Q1 Earnings Beat Estimates, Revenues Miss on Weak Demand",
@@ -371,10 +371,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 24.8,
+      "price": 24.75,
       "previous_close": 24.91,
-      "change_pct": -0.44,
-      "market_cap": 708617490.5129166,
+      "change_pct": -0.62,
+      "market_cap": 706192643.9289589,
       "headlines": [
         {
           "title": "Ceva (CEVA) Upgraded to Buy: Here's What You Should Know",
@@ -401,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 38.67,
-      "change_pct": -1.52,
+      "price": 38.65,
+      "change_pct": -1.58,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -2.66,
-          "price": 699.86,
+          "change_pct": -2.84,
+          "price": 698.62,
           "currency": "USD"
         },
         {
@@ -445,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -1.91,
-          "price": 793.68,
+          "change_pct": -2.12,
+          "price": 791.95,
           "currency": "USD"
         },
         {
@@ -454,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 0.05,
-          "price": 499.27,
+          "change_pct": -0.08,
+          "price": 498.59,
           "currency": "USD"
         },
         {
@@ -463,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 0.28,
-          "price": 281.73,
+          "change_pct": -0.01,
+          "price": 280.89,
           "currency": "USD"
         },
         {
@@ -491,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 38.67,
-    "change_pct": -1.52,
+    "price": 38.65,
+    "change_pct": -1.58,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -2.66,
-        "price": 699.86,
+        "change_pct": -2.84,
+        "price": 698.62,
         "currency": "USD"
       },
       {
@@ -535,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -1.91,
-        "price": 793.68,
+        "change_pct": -2.12,
+        "price": 791.95,
         "currency": "USD"
       },
       {
@@ -544,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 0.05,
-        "price": 499.27,
+        "change_pct": -0.08,
+        "price": 498.59,
         "currency": "USD"
       },
       {
@@ -553,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 0.28,
-        "price": 281.73,
+        "change_pct": -0.01,
+        "price": 280.89,
         "currency": "USD"
       },
       {
@@ -580,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7362.59,
-      "change_pct": -0.73
+      "price": 7361.41,
+      "change_pct": -0.74
     },
     {
       "label": "BTC",
-      "price": 63952.02,
-      "change_pct": -1.39
+      "price": 63818.43,
+      "change_pct": -1.6
     },
     {
       "label": "Gold",
-      "price": 3872.9,
-      "change_pct": 0.52
+      "price": 3872.6,
+      "change_pct": 0.51
     },
     {
       "label": "Nasdaq100",
-      "price": 27003.04,
-      "change_pct": -0.71
+      "price": 27006.95,
+      "change_pct": -0.7
     }
   ]
 }

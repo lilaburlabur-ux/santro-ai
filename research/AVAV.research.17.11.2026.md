@@ -4,8 +4,8 @@ Signed file: `AVAV.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $109.50 (2026-11-17, ~15-min delayed) |
-| Market cap | $5.56B |
+| Current price | $105.32 (2026-11-17, ~15-min delayed) |
+| Market cap | $5.35B |
 | Sector / Industry | Industrials / Aerospace & Defense |
 | Main theme | Aerospace & Defense — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `AVAV.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-37.15%) with negative half-year (-32.21%). |
-| Fresh setup quality | Poor / broken | -72.13% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-39.27%) with negative half-year (-34.27%). |
+| Fresh setup quality | Poor / broken | -73.19% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-10.13%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 24.84, EV/Sales 2.90. |
-| Risk level | High | Beta 1.40, ATR 7.3% of price, short float 13.32%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 23.89, EV/Sales 2.90. |
+| Risk level | High | Beta 1.40, ATR 7.5% of price, short float 13.32%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
 
@@ -36,30 +36,30 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 | Headline | Source | Date |
 |---|---|---|
-| AeroVironment (AVAV) Declines More Than Market: Some Information for Investors | Zacks | 2026-11-16 |
-| Is KTOS Expanding Its Role in Next-Generation Defense Technologies? | Zacks | 2026-11-16 |
-| Ondas Falls 8% Despite $1.1 Billion 2027 Revenue Target as Drone Stocks Extend Losses; Red Cat Drops 5%, Unusual Machines Slides 4% | 24/7 Wall St. | 2026-11-16 |
-| VSAT, AVAV, LMT Secure Multi-Million-Dollar Defense Contracts This Week — But One Stock Stole The Spotlight | Stocktwits | 2026-11-14 |
+| Can Draganfly's Canadian Defense Selection Drive Its Growth Prospects? | Zacks | 2026-11-17 |
+| ONDS Raises 2026 Outlook as Backlog and Defense Demand Accelerate | Zacks | 2026-11-17 |
+| ONDS Drops 22.3% in the Past Month as Execution Risks Cloud Growth | Zacks | 2026-11-17 |
+| Is ONDS Worth Buying as Hypergrowth Battles Margins and M&A Risks | Zacks | 2026-11-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $109.50; 52w high $392.86 (-72.13%); 52w low $102.08 (+7.27%) |
-| Trend | -37.15% vs SMA200, -18.55% vs SMA50, -9.23% vs SMA20 |
-| Momentum | RSI(14) 38.7 (neutral) |
-| Volatility | ATR(14) 7.97 (~7.3% of price); beta 1.40 |
-| Setup perspective | -72.13% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $105.32; 52w high $392.86 (-73.19%); 52w low $102.08 (+3.17%) |
+| Trend | -39.27% vs SMA200, -21.16% vs SMA50, -12.25% vs SMA20 |
+| Momentum | RSI(14) 36.4 (neutral) |
+| Volatility | ATR(14) 7.92 (~7.5% of price); beta 1.40 |
+| Setup perspective | -73.19% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -13.8% |
-| Month | -10.1% |
-| Quarter | -37.1% |
-| Half Y | -32.2% |
-| 1Y | -62.9% |
-| YTD | -57.3% |
+| Week | -14.7% |
+| Month | -10.7% |
+| Quarter | -39.0% |
+| Half Y | -34.3% |
+| 1Y | -63.8% |
+| YTD | -58.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Revenue (ttm) | $2.00B | Revenue growth 5.70% y/y |
 | Profitability | Gross 26.47%, operating -0.60%, net -10.13% | ROA -0.13%, ROE -4.60% |
 | Balance sheet | Cash $580.23M, debt $850.82M | Current ratio 4.26, debt/equity 19.35 |
-| Valuation | P/E —, forward P/E 24.84, P/S 2.78, P/B 1.26 | EV/Sales 2.90, EV/EBITDA 26.57 |
+| Valuation | P/E —, forward P/E 23.89, P/S 2.67, P/B 1.21 | EV/Sales 2.90, EV/EBITDA 26.57 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $212.20 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 91.46% |
-| Insider ownership | 1.46% |
+| Institutional ownership | 91.19% |
+| Insider ownership | 0.90% |
 | Short float | 13.32% |
 | Short ratio (days to cover) | 3.6 |
 
@@ -88,15 +88,15 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Vanguard Capital Management LLC | 1,711,248 | 3.37% | 2026-09-30 |
 | Vanguard Portfolio Management LLC | 1,532,691 | 3.02% | 2026-09-30 |
 | BAILLIE GIFFORD & CO | 977,555 | 1.92% | 2026-09-30 |
-| Mirae Asset Global ETFs Holdings Ltd. | 854,017 | 1.68% | 2026-06-30 |
 | Heard Capital LLC | 838,790 | 1.65% | 2026-09-30 |
 | Geode Capital Management, LLC | 730,429 | 1.44% | 2026-09-30 |
 | Morgan Stanley | 728,410 | 1.43% | 2026-09-30 |
 | Stephens Investment Management Group LLC | 715,441 | 1.41% | 2026-09-30 |
+| Alyeska Investment Group, L.p. | 639,382 | 1.26% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 24.84, EV/Sales 2.90. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.40, ATR 7.3% of price, short float 13.32%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 23.89, EV/Sales 2.90. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.40, ATR 7.5% of price, short float 13.32%. Size positions accordingly.
 - **Short interest risk:** short float 13.32% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -114,21 +114,21 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $109.50 | EV/Sales | 2.90 |
-| Market cap | $5.56B | EV/EBITDA | 26.57 |
+| Price | $105.32 | EV/Sales | 2.90 |
+| Market cap | $5.35B | EV/EBITDA | 26.57 |
 | Beta | 1.40 | Gross margin | 26.47% |
-| RSI(14) | 38.7 | Operating margin | -0.60% |
-| ATR(14) | 7.97 | Profit margin | -10.13% |
-| SMA20 dist | -9.23% | ROA | -0.13% |
-| SMA50 dist | -18.55% | ROE | -4.60% |
-| SMA200 dist | -37.15% | Revenue (ttm) | $2.00B |
+| RSI(14) | 36.4 | Operating margin | -0.60% |
+| ATR(14) | 7.92 | Profit margin | -10.13% |
+| SMA20 dist | -12.25% | ROA | -0.13% |
+| SMA50 dist | -21.16% | ROE | -4.60% |
+| SMA200 dist | -39.27% | Revenue (ttm) | $2.00B |
 | 52W high | $392.86 | Revenue growth y/y | 5.70% |
-| 52W low | $102.08 | Inst. ownership | 91.46% |
-| P/E (ttm) | — | Insider ownership | 1.46% |
-| Forward P/E | 24.84 | Short float | 13.32% |
-| PEG (trailing) | 1.02 | Avg volume | 1,656,621 |
-| P/S | 2.78 | Employees | 3,991 |
-| P/B | 1.26 | Analyst rec (1=buy..5=sell) | 1.7 |
+| 52W low | $102.08 | Inst. ownership | 91.19% |
+| P/E (ttm) | — | Insider ownership | 0.90% |
+| Forward P/E | 23.89 | Short float | 13.32% |
+| PEG (trailing) | 0.95 | Avg volume | 1,656,884 |
+| P/S | 2.67 | Employees | 3,991 |
+| P/B | 1.21 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

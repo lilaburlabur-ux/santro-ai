@@ -4,8 +4,8 @@ Signed file: `AVGO.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $333.40 (2026-11-17, ~15-min delayed) |
-| Market cap | $1.59T |
+| Current price | $336.90 (2026-11-17, ~15-min delayed) |
+| Market cap | $1.61T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `AVGO.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-9.03%) with negative half-year (-20.48%). |
-| Fresh setup quality | Poor / broken | -30.53% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-8.09%) with negative half-year (-17.76%). |
+| Fresh setup quality | Poor / broken | -29.80% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 42.94%, revenue growth 85.50%. |
-| Value attractiveness | Reasonable | Forward P/E 17.17, EV/Sales 18.26. |
-| Risk level | High | Beta 1.51, ATR 5.4% of price, short float 1.11%. |
+| Value attractiveness | Reasonable | Forward P/E 17.35, EV/Sales 18.26. |
+| Risk level | High | Beta 1.51, ATR 5.2% of price, short float 1.11%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
-| AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop | Yahoo Finance | 2026-11-16 |
-| Why Broadcom Stock Got Mashed on Monday | Motley Fool | 2026-11-17 |
-| Broadcom vs. Nvidia: Which Semiconductor Stock Is the Better AI Buy over the Next 3 Years? | Motley Fool | 2026-11-17 |
-| Broadcom Is “the Best Play” on Nvidia’s CEO Exit, One Investor Argues. The Reason Is China | TIKR | 2026-11-16 |
+| Prediction: These 2 Stocks Will Be Worth More Than SpaceX 5 Years From Now | Motley Fool | 2026-11-17 |
+| Nvidia set to report earnings as Huang scandal clouds outlook, Federal Reserve worries about AI | Yahoo Finance Video | 2026-11-17 |
+| Could Nvidia's leadership change fuel a new wave of chip rivals? | Yahoo Finance Video | 2026-11-17 |
+| Who Reaches $100 Billion in TPU Revenue First, Alphabet or Broadcom? | 24/7 Wall St. | 2026-11-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $333.40; 52w high $479.94 (-30.53%); 52w low $291.53 (+14.36%) |
-| Trend | -9.03% vs SMA200, -3.30% vs SMA50, +0.76% vs SMA20 |
-| Momentum | RSI(14) 48.8 (neutral) |
-| Volatility | ATR(14) 17.93 (~5.4% of price); beta 1.51 |
-| Setup perspective | -30.53% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $336.90; 52w high $479.94 (-29.80%); 52w low $291.53 (+15.56%) |
+| Trend | -8.09% vs SMA200, -2.11% vs SMA50, +1.77% vs SMA20 |
+| Momentum | RSI(14) 50.0 (neutral) |
+| Volatility | ATR(14) 17.47 (~5.2% of price); beta 1.51 |
+| Setup perspective | -29.80% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +4.4% |
-| Month | +1.4% |
-| Quarter | -12.1% |
-| Half Y | -20.5% |
-| 1Y | -1.2% |
-| YTD | -3.6% |
+| Week | +1.5% |
+| Month | +0.7% |
+| Quarter | -6.9% |
+| Half Y | -17.8% |
+| 1Y | -0.9% |
+| YTD | -2.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $89.10B | Revenue growth 85.50% y/y |
 | Profitability | Gross 75.52%, operating 48.81%, net 42.94% | ROA 15.37%, ROE 44.25% |
 | Balance sheet | Cash $23.98B, debt $59.42B | Current ratio 2.50, debt/equity 59.60 |
-| Valuation | P/E 42.58, forward P/E 17.17, P/S 17.86, P/B 15.97 | EV/Sales 18.26, EV/EBITDA 31.13 |
+| Valuation | P/E 43.02, forward P/E 17.35, P/S 18.05, P/B 16.13 | EV/Sales 18.26, EV/EBITDA 31.13 |
 | Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $528.17 (47 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 79.46% |
-| Insider ownership | 2.12% |
+| Institutional ownership | 79.42% |
+| Insider ownership | 1.96% |
 | Short float | 1.11% |
 | Short ratio (days to cover) | 2.3 |
 
@@ -92,10 +92,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Geode Capital Management, LLC | 117,945,558 | 2.47% | 2026-09-30 |
 | Capital Research Global Investors | 108,706,484 | 2.28% | 2026-09-30 |
 | JPMORGAN CHASE & CO | 95,098,627 | 1.99% | 2026-09-30 |
-| Price (T.Rowe) Associates Inc | 82,851,970 | 1.74% | 2026-06-30 |
+| Capital International Investors | 82,221,573 | 1.72% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.51, ATR 5.4% of price, short float 1.11%. Size positions accordingly.
+- **Volatility risk:** Beta 1.51, ATR 5.2% of price, short float 1.11%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,21 +111,21 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $333.40 | EV/Sales | 18.26 |
-| Market cap | $1.59T | EV/EBITDA | 31.13 |
+| Price | $336.90 | EV/Sales | 18.26 |
+| Market cap | $1.61T | EV/EBITDA | 31.13 |
 | Beta | 1.51 | Gross margin | 75.52% |
-| RSI(14) | 48.8 | Operating margin | 48.81% |
-| ATR(14) | 17.93 | Profit margin | 42.94% |
-| SMA20 dist | +0.76% | ROA | 15.37% |
-| SMA50 dist | -3.30% | ROE | 44.25% |
-| SMA200 dist | -9.03% | Revenue (ttm) | $89.10B |
+| RSI(14) | 50.0 | Operating margin | 48.81% |
+| ATR(14) | 17.47 | Profit margin | 42.94% |
+| SMA20 dist | +1.77% | ROA | 15.37% |
+| SMA50 dist | -2.11% | ROE | 44.25% |
+| SMA200 dist | -8.09% | Revenue (ttm) | $89.10B |
 | 52W high | $479.94 | Revenue growth y/y | 85.50% |
-| 52W low | $291.53 | Inst. ownership | 79.46% |
-| P/E (ttm) | 42.58 | Insider ownership | 2.12% |
-| Forward P/E | 17.17 | Short float | 1.11% |
-| PEG (trailing) | 0.34 | Avg volume | 25,283,023 |
-| P/S | 17.86 | Employees | 33,000 |
-| P/B | 15.97 | Analyst rec (1=buy..5=sell) | 1.3 |
+| 52W low | $291.53 | Inst. ownership | 79.42% |
+| P/E (ttm) | 43.02 | Insider ownership | 1.96% |
+| Forward P/E | 17.35 | Short float | 1.11% |
+| PEG (trailing) | 0.33 | Avg volume | 25,377,810 |
+| P/S | 18.05 | Employees | 33,000 |
+| P/B | 16.13 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `QCOM.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $168.52 (2026-11-17, ~15-min delayed) |
-| Market cap | $180.32B |
+| Current price | $165.18 (2026-11-17, ~15-min delayed) |
+| Market cap | $176.74B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `QCOM.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-0.44%) with negative half-year (-16.49%). |
-| Fresh setup quality | Poor / broken | -32.25% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-2.46%) with negative half-year (-14.78%). |
+| Fresh setup quality | Poor / broken | -33.59% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 31.61%, revenue growth -8.40%. |
-| Value attractiveness | Reasonable | Forward P/E 13.81, EV/Sales 4.38. |
-| Risk level | High | Beta 1.76, ATR 5.3% of price, short float 3.03%. |
+| Value attractiveness | Reasonable | Forward P/E 13.53, EV/Sales 4.37. |
+| Risk level | High | Beta 1.76, ATR 5.4% of price, short float 3.03%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
-| Qualcomm CEO: “There Is No AI Correction” at Qualcomm. Nvidia’s November 17 Earnings Face a Major Test | TIKR | 2026-11-17 |
-| What Is Qualcomm (QCOM) Gaining From Its Cockpit And SoOp Momentum? | Simply Wall St. | 2026-11-17 |
-| David Tepper’s Appaloosa Goes Big on SpaceX, While Slashing Alphabet Stake | Barrons.com | 2026-11-16 |
-| Best semiconductor ETFs: SMH leads on cost, liquidity and momentum | Investing.com | 2026-11-16 |
+| Why Qualcomm teamed with F1’s new star in race for sports marketing ROI | Marketing Dive | 2026-11-17 |
+| Qualcomm vs. SK Hynix: Stable Revenue vs. Rapid Acceleration | Motley Fool | 2026-11-17 |
+| Brad Gerstner Dumps These 3 Stocks | TIKR | 2026-11-17 |
+| Arm Could Become a Much Bigger AI Winner by 2030. Here’s the Case | 24/7 Wall St. | 2026-11-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $168.52; 52w high $248.74 (-32.25%); 52w low $122.94 (+37.07%) |
-| Trend | -0.44% vs SMA200, -5.71% vs SMA50, -2.62% vs SMA20 |
-| Momentum | RSI(14) 46.0 (neutral) |
-| Volatility | ATR(14) 8.92 (~5.3% of price); beta 1.76 |
-| Setup perspective | -32.25% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $165.18; 52w high $248.74 (-33.59%); 52w low $122.94 (+34.35%) |
+| Trend | -2.46% vs SMA200, -7.49% vs SMA50, -4.25% vs SMA20 |
+| Momentum | RSI(14) 43.7 (neutral) |
+| Volatility | ATR(14) 8.87 (~5.4% of price); beta 1.76 |
+| Setup perspective | -33.59% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.7% |
-| Month | -2.1% |
-| Quarter | +5.8% |
-| Half Y | -16.5% |
-| 1Y | -1.4% |
-| YTD | -1.1% |
+| Week | -4.8% |
+| Month | -4.8% |
+| Quarter | +2.6% |
+| Half Y | -14.8% |
+| 1Y | -3.1% |
+| YTD | -3.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $43.12B | Revenue growth -8.40% y/y |
 | Profitability | Gross 53.10%, operating 20.85%, net 31.61% | ROA 10.13%, ROE 52.81% |
 | Balance sheet | Cash $7.68B, debt $15.99B | Current ratio 1.86, debt/equity 52.60 |
-| Valuation | P/E 13.58, forward P/E 13.81, P/S 4.18, P/B 5.94 | EV/Sales 4.38, EV/EBITDA 17.77 |
+| Valuation | P/E 13.01, forward P/E 13.53, P/S 4.10, P/B 5.82 | EV/Sales 4.37, EV/EBITDA 17.76 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $185.96 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 81.94% |
-| Insider ownership | 0.69% |
+| Institutional ownership | 81.61% |
+| Insider ownership | 0.14% |
 | Short float | 3.03% |
 | Short ratio (days to cover) | 2.8 |
 
@@ -88,14 +88,14 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | State Street Corporation | 51,922,199 | 4.85% | 2026-09-30 |
 | Invesco Ltd. | 40,912,691 | 3.82% | 2026-09-30 |
 | Vanguard Portfolio Management LLC | 34,249,690 | 3.20% | 2026-09-30 |
+| Charles Schwab Investment Management, Inc. | 34,102,385 | 3.19% | 2026-09-30 |
 | Geode Capital Management, LLC | 25,762,220 | 2.41% | 2026-09-30 |
-| Charles Schwab Investment Management, Inc. | 22,310,326 | 2.09% | 2026-06-30 |
 | Morgan Stanley | 17,764,371 | 1.66% | 2026-09-30 |
 | Van Eck Associates Corporation | 16,450,494 | 1.54% | 2026-09-30 |
 | NORGES BANK | 16,209,022 | 1.51% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.76, ATR 5.3% of price, short float 3.03%. Size positions accordingly.
+- **Volatility risk:** Beta 1.76, ATR 5.4% of price, short float 3.03%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,21 +111,21 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $168.52 | EV/Sales | 4.38 |
-| Market cap | $180.32B | EV/EBITDA | 17.77 |
+| Price | $165.18 | EV/Sales | 4.37 |
+| Market cap | $176.74B | EV/EBITDA | 17.76 |
 | Beta | 1.76 | Gross margin | 53.10% |
-| RSI(14) | 46.0 | Operating margin | 20.85% |
-| ATR(14) | 8.92 | Profit margin | 31.61% |
-| SMA20 dist | -2.62% | ROA | 10.13% |
-| SMA50 dist | -5.71% | ROE | 52.81% |
-| SMA200 dist | -0.44% | Revenue (ttm) | $43.12B |
+| RSI(14) | 43.7 | Operating margin | 20.85% |
+| ATR(14) | 8.87 | Profit margin | 31.61% |
+| SMA20 dist | -4.25% | ROA | 10.13% |
+| SMA50 dist | -7.49% | ROE | 52.81% |
+| SMA200 dist | -2.46% | Revenue (ttm) | $43.12B |
 | 52W high | $248.74 | Revenue growth y/y | -8.40% |
-| 52W low | $122.94 | Inst. ownership | 81.94% |
-| P/E (ttm) | 13.58 | Insider ownership | 0.69% |
-| Forward P/E | 13.81 | Short float | 3.03% |
-| PEG (trailing) | 1.02 | Avg volume | 12,726,167 |
-| P/S | 4.18 | Employees | 57,000 |
-| P/B | 5.94 | Analyst rec (1=buy..5=sell) | 2.6 |
+| 52W low | $122.94 | Inst. ownership | 81.61% |
+| P/E (ttm) | 13.01 | Insider ownership | 0.14% |
+| Forward P/E | 13.53 | Short float | 3.03% |
+| PEG (trailing) | 1.00 | Avg volume | 12,770,909 |
+| P/S | 4.10 | Employees | 57,000 |
+| P/B | 5.82 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

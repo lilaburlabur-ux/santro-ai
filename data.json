@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-17T11:24:22+00:00",
-  "as_of_local": "2026-11-17 11:24:22 UTC",
+  "as_of_utc": "2026-11-17T11:29:29+00:00",
+  "as_of_local": "2026-11-17 11:29:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -59,6 +57,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-nyse-tsm-030943458.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-17T03:09:43Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 333.4,
+      "previous_close": 347.01,
+      "change_pct": -3.92,
+      "market_cap": 1591528167855.0754,
+      "headlines": [
+        {
+          "title": "AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop",
+          "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-stocks-sink-on-tighter-us-chips-rules-coreweave-drops-143342994.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-16T14:24:53Z"
+        },
+        {
+          "title": "Is Nutanix Stock Really Cheap At 11x Earnings?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nutanix-stock-really-cheap-11x-103856334.html",
+          "publisher": "Trefis",
+          "published": "2026-11-17T10:38:56Z"
+        },
+        {
+          "title": "Own Qualcomm? Your Stock Rides On Data Center Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/own-qualcomm-stock-rides-data-103856991.html",
+          "publisher": "Trefis",
+          "published": "2026-11-17T10:38:56Z"
         }
       ]
     },
@@ -127,12 +153,6 @@
       "market_cap": 294823056488.0371,
       "headlines": [
         {
-          "title": "Why Intel's turnaround will take years",
-          "url": "https://finance.yahoo.com/video/why-intels-turnaround-will-take-years-192703292.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-16T19:27:03Z"
-        },
-        {
           "title": "ETFs Are Net Sellers of Intel (INTC) on Friday",
           "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-intel-intc-110249574.html",
           "publisher": "GuruFocus.com",
@@ -143,6 +163,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/own-qualcomm-stock-rides-data-103856991.html",
           "publisher": "Trefis",
           "published": "2026-11-17T10:38:56Z"
+        },
+        {
+          "title": "Risky Nvidia Is Cheaper Than 'Safe' Walmart",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/risky-nvidia-cheaper-safe-walmart-103855967.html",
+          "publisher": "Trefis",
+          "published": "2026-11-17T10:38:55Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64338.15,
-      "change_pct": -0.8
+      "price": 64343.55,
+      "change_pct": -0.79
     },
     {
       "label": "Gold",
-      "price": 3859.4,
-      "change_pct": 0.17
+      "price": 3859.8,
+      "change_pct": 0.18
     },
     {
       "label": "Nasdaq100",

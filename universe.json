@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Finviz theme:artificialintelligence",
-  "as_of": "2026-11-17 23:41 UTC",
+  "as_of": "2026-11-17 23:44 UTC",
   "total_tickers": 111,
   "min_bubble_size": 7,
   "render_spec": {
@@ -18,7 +18,7 @@
    "label": "AI Chips & Compute",
    "color": "#4F8EF7",
    "count": 14,
-   "total_market_cap_b": 10032.89,
+   "total_market_cap_b": 10032.9,
    "avg_change_pct": 4.02,
    "industries_included": [
     "Semiconductors"
@@ -734,7 +734,7 @@
    "label": "AI Software & Cloud Infrastructure",
    "color": "#9B6BF7",
    "count": 6,
-   "total_market_cap_b": 4563.63,
+   "total_market_cap_b": 4563.6,
    "avg_change_pct": -1.12,
    "industries_included": [
     "Software - Infrastructure"
@@ -1049,7 +1049,7 @@
    "label": "AI Applications & Data Software",
    "color": "#F7A14F",
    "count": 11,
-   "total_market_cap_b": 913.52,
+   "total_market_cap_b": 913.5,
    "avg_change_pct": -5.23,
    "industries_included": [
     "Software - Application"
@@ -1503,7 +1503,7 @@
       3.49,
       3.06
      ],
-     "fwd_eps": -0.06
+     "fwd_eps": -0.1
     },
     {
      "ticker": "PUBM",
@@ -1614,7 +1614,7 @@
    "label": "Chip Equipment & AI Hardware",
    "color": "#4FC3D9",
    "count": 13,
-   "total_market_cap_b": 3195.44,
+   "total_market_cap_b": 3195.4,
    "avg_change_pct": 4.05,
    "industries_included": [
     "Communication Equipment",
@@ -1873,7 +1873,7 @@
       225.92,
       210.69
      ],
-     "fwd_eps": 12.24
+     "fwd_eps": 12.27
     },
     {
      "ticker": "ANET",
@@ -1882,7 +1882,7 @@
      "industry": "Computer Hardware",
      "country": "USA",
      "market_cap_b": 242.44,
-     "pe": 52.66,
+     "pe": 49.98,
      "price": 194.06,
      "change_pct": 3.76,
      "volume": 6006438,
@@ -2032,7 +2032,7 @@
      "industry": "Communication Equipment",
      "country": "USA",
      "market_cap_b": 62.83,
-     "pe": 23.76,
+     "pe": 24.65,
      "price": 48.82,
      "change_pct": 4.82,
      "volume": 16216268,
@@ -2126,56 +2126,6 @@
      "fwd_eps": 12.04
     },
     {
-     "ticker": "ZBRA",
-     "company": "Zebra Technologies Corp",
-     "sector": "Technology",
-     "industry": "Communication Equipment",
-     "country": "USA",
-     "market_cap_b": 14.82,
-     "pe": 25.24,
-     "price": 315.0,
-     "change_pct": -1.6,
-     "volume": 487554,
-     "perf": {
-      "1W": -2.9,
-      "1M": -16.9,
-      "1Y": 35.2
-     },
-     "spark": [
-      359.84,
-      356.45,
-      343.7,
-      357.5,
-      352.54,
-      344.01,
-      351.81,
-      341.18,
-      346.63,
-      361.61,
-      365.1,
-      371.87,
-      373.31,
-      375.86,
-      385.78,
-      382.14,
-      388.12,
-      376.88,
-      369.01,
-      384.08,
-      384.16,
-      384.15,
-      384.7,
-      361.26,
-      329.5,
-      321.64,
-      326.71,
-      327.44,
-      324.0,
-      312.21
-     ],
-     "fwd_eps": 22.27
-    },
-    {
      "ticker": "SMCI",
      "company": "Super Micro Computer Inc",
      "sector": "Technology",
@@ -2224,6 +2174,56 @@
       24.14
      ],
      "fwd_eps": 6.95
+    },
+    {
+     "ticker": "ZBRA",
+     "company": "Zebra Technologies Corp",
+     "sector": "Technology",
+     "industry": "Communication Equipment",
+     "country": "USA",
+     "market_cap_b": 14.82,
+     "pe": 25.24,
+     "price": 315.0,
+     "change_pct": -1.6,
+     "volume": 487554,
+     "perf": {
+      "1W": -2.9,
+      "1M": -16.9,
+      "1Y": 35.2
+     },
+     "spark": [
+      359.84,
+      356.45,
+      343.7,
+      357.5,
+      352.54,
+      344.01,
+      351.81,
+      341.18,
+      346.63,
+      361.61,
+      365.1,
+      371.87,
+      373.31,
+      375.86,
+      385.78,
+      382.14,
+      388.12,
+      376.88,
+      369.01,
+      384.08,
+      384.16,
+      384.15,
+      384.7,
+      361.26,
+      329.5,
+      321.64,
+      326.71,
+      327.44,
+      324.0,
+      312.21
+     ],
+     "fwd_eps": 22.27
     },
     {
      "ticker": "AMBA",
@@ -2902,7 +2902,7 @@
    "label": "Data Center, Power & Energy",
    "color": "#5FD97A",
    "count": 8,
-   "total_market_cap_b": 419.96,
+   "total_market_cap_b": 420.0,
    "avg_change_pct": 1.97,
    "industries_included": [
     "Electrical Equipment & Parts",
@@ -3020,7 +3020,7 @@
      "industry": "Electrical Equipment & Parts",
      "country": "USA",
      "market_cap_b": 76.24,
-     "pe": 38.07,
+     "pe": 36.89,
      "price": 202.37,
      "change_pct": 7.26,
      "volume": 5737907,
@@ -3061,7 +3061,7 @@
       202.07,
       190.37
      ],
-     "fwd_eps": 9.87
+     "fwd_eps": 9.92
     },
     {
      "ticker": "DLR",
@@ -3120,7 +3120,7 @@
      "industry": "Utilities - Regulated Electric",
      "country": "USA",
      "market_cap_b": 58.04,
-     "pe": 22.2,
+     "pe": 22.13,
      "price": 67.28,
      "change_pct": -0.77,
      "volume": 6141548,
@@ -3314,7 +3314,7 @@
      "fwd_eps": -1.14
     }
    ],
-   "pe_harmonic": 38.4,
+   "pe_harmonic": 38.1,
    "pe_excluded": 2
   },
   {
@@ -3794,7 +3794,7 @@
      "industry": "Credit Services",
      "country": "USA",
      "market_cap_b": 1.93,
-     "pe": 29.72,
+     "pe": 30.22,
      "price": 18.43,
      "change_pct": -3.45,
      "volume": 3825500,
@@ -4046,7 +4046,7 @@
    "label": "Powering AI",
    "color": "#3BE08F",
    "count": 15,
-   "total_market_cap_b": 666.48,
+   "total_market_cap_b": 666.5,
    "avg_change_pct": 1.07,
    "industries_included": [
     "Electrical Equipment & Parts",
@@ -4835,7 +4835,7 @@
       103.78,
       94.19
      ],
-     "fwd_eps": 4.42
+     "fwd_eps": 4.18
     }
    ],
    "_note": "Energy-of-AI section. Seed caps approximate/public; price/change filled live by update_quotes.py next cycle. Sub-themes: nuclear_ipp, electrical_turbines, uranium_fuel, grid_utilities, dc_infra.",
@@ -5047,56 +5047,6 @@
      "fwd_eps": 3.9
     },
     {
-     "ticker": "OKTA",
-     "company": "Okta Inc",
-     "sector": "Technology",
-     "industry": "Software - Infrastructure",
-     "country": "USA",
-     "market_cap_b": 30.65,
-     "pe": 105.14,
-     "price": 176.97,
-     "change_pct": -0.7,
-     "volume": 2918915,
-     "perf": {
-      "1W": -2.1,
-      "1M": -8.1,
-      "1Y": 115.4
-     },
-     "spark": [
-      134.42,
-      166.23,
-      166.43,
-      170.42,
-      167.6,
-      171.11,
-      186.45,
-      188.12,
-      182.37,
-      196.62,
-      206.64,
-      202.18,
-      209.11,
-      211.49,
-      218.67,
-      220.21,
-      227.08,
-      211.91,
-      187.26,
-      194.02,
-      201.33,
-      220.01,
-      222.66,
-      208.24,
-      189.68,
-      171.16,
-      177.57,
-      182.25,
-      182.87,
-      174.54
-     ],
-     "fwd_eps": 4.38
-    },
-    {
      "ticker": "ZS",
      "company": "Zscaler Inc",
      "sector": "Technology",
@@ -5145,6 +5095,56 @@
       185.19
      ],
      "fwd_eps": 5.62
+    },
+    {
+     "ticker": "OKTA",
+     "company": "Okta Inc",
+     "sector": "Technology",
+     "industry": "Software - Infrastructure",
+     "country": "USA",
+     "market_cap_b": 30.65,
+     "pe": 105.14,
+     "price": 176.97,
+     "change_pct": -0.7,
+     "volume": 2918915,
+     "perf": {
+      "1W": -2.1,
+      "1M": -8.1,
+      "1Y": 115.4
+     },
+     "spark": [
+      134.42,
+      166.23,
+      166.43,
+      170.42,
+      167.6,
+      171.11,
+      186.45,
+      188.12,
+      182.37,
+      196.62,
+      206.64,
+      202.18,
+      209.11,
+      211.49,
+      218.67,
+      220.21,
+      227.08,
+      211.91,
+      187.26,
+      194.02,
+      201.33,
+      220.01,
+      222.66,
+      208.24,
+      189.68,
+      171.16,
+      177.57,
+      182.25,
+      182.87,
+      174.54
+     ],
+     "fwd_eps": 4.38
     },
     {
      "ticker": "RBRK",
@@ -5457,7 +5457,7 @@
      "industry": "Software - Application",
      "country": "USA",
      "market_cap_b": 7.49,
-     "pe": 32.12,
+     "pe": 32.69,
      "price": 53.92,
      "change_pct": -4.03,
      "volume": 1983356,
@@ -5759,8 +5759,8 @@
    ],
    "count": 18,
    "avg_change_pct": 0.01,
-   "total_market_cap_b": 852.41,
-   "pe_harmonic": 116.5,
+   "total_market_cap_b": 852.4,
+   "pe_harmonic": 116.6,
    "pe_excluded": 6,
    "industries_included": [
     "Consulting Services",

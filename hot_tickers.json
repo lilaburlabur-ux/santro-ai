@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-17T22:20:03+00:00",
+  "as_of": "2026-11-17T22:35:02+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,19 +9,19 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "CRM",
-   "company": "Salesforce Inc",
-   "move_pct": -9.25,
-   "price": 194.96,
-   "volume": 13337457,
-   "volume_vs_avg": "~2x",
-   "heat_score": 67,
-   "direction": "down",
-   "why": "Salesforce, Microsoft Launch Copilotforce Partnership",
+   "ticker": "MRVL",
+   "company": "Marvell Technology Inc",
+   "move_pct": 6.7,
+   "price": 155.1,
+   "volume": 26073358,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 43,
+   "direction": "up",
+   "why": "Credo Technology Group Holding Reaches Patent Agreement With Marvell on AEC Technology",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/salesforce-microsoft-launch-copilotforce-partnership-185227976.html",
-   "published": "2026-11-17T18:52:27+00:00",
-   "sector": "AI Applications & Data Software"
+   "source_url": "https://finance.yahoo.com/technology/articles/credo-technology-group-holding-reaches-212604179.html",
+   "published": "2026-11-17T21:26:04+00:00",
+   "sector": "AI Chips & Compute"
   },
   {
    "rank": 2,
@@ -43,11 +43,11 @@
    "rank": 3,
    "ticker": "MDB",
    "company": "MongoDB Inc",
-   "move_pct": -5.02,
-   "price": 301.0,
+   "move_pct": -5.77,
+   "price": 298.63,
    "volume": 1740220,
    "volume_vs_avg": "~1.2x",
-   "heat_score": 38,
+   "heat_score": 41,
    "direction": "down",
    "why": "MDB Capital Holdings Provides Third Quarter 2026 Update",
    "catalyst_type": "earnings",

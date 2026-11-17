@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-17T00:43:56+00:00",
-  "as_of_local": "2026-11-17 00:43:56 UTC",
+  "as_of_utc": "2026-11-17T00:48:56+00:00",
+  "as_of_local": "2026-11-17 00:48:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 1936888402920.7378,
       "headlines": [
         {
+          "title": "Taiwan Semiconductor Booked a Record NT$587 Billion Month. The Stock Has Lost Nearly 10% in Three Days Anyway",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-booked-record-nt-004110791.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-17T00:41:10Z"
+        },
+        {
           "title": "4 Chip Stocks Down as Much as 36% From Their Highs to Buy and Hold for the Next Decade",
           "url": "https://finance.yahoo.com/markets/stocks/articles/4-chip-stocks-down-much-230102349.html",
           "publisher": "Motley Fool",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/technology/articles/huang-trillion-dollar-dinners-taiwan-230000506.html",
           "publisher": "Moneywise",
           "published": "2026-11-16T23:00:00Z"
-        },
-        {
-          "title": "NVIDIA After Jensen: What's Next for the AI Trade?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-jensen-whats-next-ai-213900593.html",
-          "publisher": "Zacks",
-          "published": "2026-11-16T21:39:00Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -0.27,
-          "price": 1117000.0,
+          "change_pct": -0.36,
+          "price": 1116000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -2.03,
-          "price": 192800.0,
+          "change_pct": -1.88,
+          "price": 193100.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -3.56,
-          "price": 8093.0,
+          "change_pct": -4.96,
+          "price": 7976.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -0.27,
-        "price": 1117000.0,
+        "change_pct": -0.36,
+        "price": 1116000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -2.03,
-        "price": 192800.0,
+        "change_pct": -1.88,
+        "price": 193100.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -3.56,
-        "price": 8093.0,
+        "change_pct": -4.96,
+        "price": 7976.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64577.12,
-      "change_pct": -1.11
+      "price": 64601.05,
+      "change_pct": -1.08
     },
     {
       "label": "Gold",
-      "price": 3859.8,
-      "change_pct": -0.68
+      "price": 3861.2,
+      "change_pct": -0.65
     },
     {
       "label": "Nasdaq100",

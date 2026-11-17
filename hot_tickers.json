@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-17T22:35:02+00:00",
+  "as_of": "2026-11-17T22:40:20+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
-   "move_pct": 6.7,
-   "price": 155.1,
+   "move_pct": 6.85,
+   "price": 155.32,
    "volume": 26073358,
    "volume_vs_avg": "~0.9x",
-   "heat_score": 43,
+   "heat_score": 44,
    "direction": "up",
    "why": "Credo Technology Group Holding Reaches Patent Agreement With Marvell on AEC Technology",
    "catalyst_type": "momentum_narrative",
@@ -54,6 +54,54 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/mdb-capital-holdings-provides-third-210500414.html",
    "published": "2026-11-17T21:05:00+00:00",
    "sector": "AI Software & Cloud Infrastructure"
+  },
+  {
+   "rank": 4,
+   "ticker": "DELL",
+   "company": "Dell Technologies Inc",
+   "move_pct": 5.54,
+   "price": 338.29,
+   "volume": 7001447,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 39,
+   "direction": "up",
+   "why": "What Is Dell Technologies (DELL) Really Building With Its Latest AI Factory Push?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/dell-technologies-dell-really-building-201218571.html",
+   "published": "2026-11-17T20:12:18+00:00",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 5,
+   "ticker": "VRT",
+   "company": "Vertiv Holdings Co",
+   "move_pct": 5.42,
+   "price": 198.89,
+   "volume": 5737907,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 38,
+   "direction": "up",
+   "why": "Caterpillar vs. Vertiv: Which Industrials Stock Is a Better Buy for 2027?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-vs-vertiv-industrials-stock-215002065.html",
+   "published": "2026-11-17T21:50:02+00:00",
+   "sector": "Data Center, Power & Energy"
+  },
+  {
+   "rank": 6,
+   "ticker": "IBM",
+   "company": "International Business Machines Corp",
+   "move_pct": -5.02,
+   "price": 230.33,
+   "volume": 4897956,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 38,
+   "direction": "down",
+   "why": "IBM Is Down 21% This Year. What Will It Take to Get IBM Stock Back to $250?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ibm-down-21-ibm-stock-200854088.html",
+   "published": "2026-11-17T20:08:54+00:00",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]
 }

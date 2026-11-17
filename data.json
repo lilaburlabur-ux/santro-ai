@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T12:10:14+00:00",
-  "as_of_local": "2026-11-17 12:10:14 UTC",
+  "as_of_utc": "2026-11-17T12:15:05+00:00",
+  "as_of_local": "2026-11-17 12:15:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/own-qualcomm-stock-rides-data-103856991.html",
           "publisher": "Trefis",
           "published": "2026-11-17T10:38:56Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 175.05,
-      "previous_close": 190.53,
-      "change_pct": -8.12,
-      "market_cap": 187303503265.38086,
-      "headlines": [
-        {
-          "title": "Arm Holdings (ARM) Stock Dropped, So What Is Driving Attention Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-stock-dropped-221118439.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-16T22:11:18Z"
-        },
-        {
-          "title": "Why Arm Holdings Plunged Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-arm-holdings-plunged-today-210632944.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-16T21:06:32Z"
-        },
-        {
-          "title": "Arm Stocks Slide 6.72% as Nvidia CEO Search Keeps Rene Haas in Focus",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stocks-slide-6-72-174928553.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-16T17:49:28Z"
         }
       ]
     },
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -3.3,
-          "price": 190300.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "KRW"
         },
         {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -3.3,
-        "price": 190300.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "KRW"
       },
       {
@@ -585,12 +559,12 @@
     },
     {
       "label": "BTC",
-      "price": 64806.09,
-      "change_pct": -0.08
+      "price": 64757.67,
+      "change_pct": -0.15
     },
     {
       "label": "Gold",
-      "price": 3870.8,
+      "price": 3870.6,
       "change_pct": 0.46
     },
     {

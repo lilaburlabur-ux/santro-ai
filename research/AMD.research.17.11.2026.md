@@ -39,7 +39,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop | Yahoo Finance | 2026-11-16 |
 | AMD finalizes $8.2 billion World Labs acquisition, adds 'godmother of AI' as EVP and chief scientist | Yahoo Finance | 2026-11-16 |
 | Dow Jones Futures: AMD, Nvidia, Micron Lead AI Trade Lower With Nvidia Earnings On Deck | Investor's Business Daily | 2026-11-17 |
-| 1 Number Reveals Which Is the Better Buy Between Nvidia and AMD | Motley Fool | 2026-11-17 |
+| Is NVIDIA’s Turmoil Advanced Micro Devices’ (AMD) Biggest Opening Yet? | Insider Monkey | 2026-11-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Revenue (ttm) | $45.44B | Revenue growth 44.70% y/y |
 | Profitability | Gross 56.00%, operating 17.82%, net 16.77% | ROA 5.90%, ROE 11.96% |
 | Balance sheet | Cash $15.78B, debt $9.21B | Current ratio 2.73, debt/equity 13.47 |
-| Valuation | P/E 107.75, forward P/E 28.59, P/S 18.20, P/B 12.09 | EV/Sales 18.06, EV/EBITDA 73.63 |
+| Valuation | P/E 114.09, forward P/E 28.59, P/S 18.20, P/B 12.09 | EV/Sales 18.06, EV/EBITDA 73.63 |
 | Growth expectations | Earnings growth 93.80%, EPS q/q 95.30% | Analyst mean target $657.74 (49 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | SMA200 dist | +18.81% | Revenue (ttm) | $45.44B |
 | 52W high | $649.42 | Revenue growth y/y | 44.70% |
 | 52W low | $190.95 | Inst. ownership | 76.68% |
-| P/E (ttm) | 107.75 | Insider ownership | 0.62% |
+| P/E (ttm) | 114.09 | Insider ownership | 0.62% |
 | Forward P/E | 28.59 | Short float | 2.36% |
 | PEG (trailing) | 0.48 | Avg volume | 24,660,270 |
 | P/S | 18.20 | Employees | 31,000 |

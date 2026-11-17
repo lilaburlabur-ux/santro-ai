@@ -18,7 +18,7 @@ Signed file: `ARM.research.17.11.2026`
 | Technical momentum | Low | Below SMA200 (-24.93%) with negative half-year (-18.63%). |
 | Fresh setup quality | Poor / broken | -60.17% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 17.13%, revenue growth 27.10%. |
-| Value attractiveness | Low (expensive) | Forward P/E 56.93, EV/Sales 33.71. |
+| Value attractiveness | Low (expensive) | Forward P/E 56.71, EV/Sales 33.71. |
 | Risk level | High | Beta 3.94, ATR 9.3% of price, short float 10.71%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: low (expensive), risk: high.
@@ -68,7 +68,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Revenue (ttm) | $5.46B | Revenue growth 27.10% y/y |
 | Profitability | Gross 97.44%, operating 17.02%, net 17.13% | ROA 5.50%, ROE 11.35% |
 | Balance sheet | Cash $3.62B, debt $500.00M | Current ratio 6.35, debt/equity 5.50 |
-| Valuation | P/E 201.21, forward P/E 56.93, P/S 34.28, P/B 20.61 | EV/Sales 33.71, EV/EBITDA 163.33 |
+| Valuation | P/E 218.81, forward P/E 56.71, P/S 34.28, P/B 20.61 | EV/Sales 33.71, EV/EBITDA 163.33 |
 | Growth expectations | Earnings growth -45.50%, EPS q/q -45.40% | Analyst mean target $272.43 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Capital International Investors | 2,048,256 | 0.19% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 56.93, EV/Sales 33.71. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 56.71, EV/Sales 33.71. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 3.94, ATR 9.3% of price, short float 10.71%. Size positions accordingly.
 - **Short interest risk:** short float 10.71% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -123,8 +123,8 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | SMA200 dist | -24.93% | Revenue (ttm) | $5.46B |
 | 52W high | $439.46 | Revenue growth y/y | 27.10% |
 | 52W low | $104.55 | Inst. ownership | 95.82% |
-| P/E (ttm) | 201.21 | Insider ownership | 0.14% |
-| Forward P/E | 56.93 | Short float | 10.71% |
+| P/E (ttm) | 218.81 | Insider ownership | 0.14% |
+| Forward P/E | 56.71 | Short float | 10.71% |
 | PEG (trailing) | 1.55 | Avg volume | 5,241,156 |
 | P/S | 34.28 | Employees | 9,584 |
 | P/B | 20.61 | Analyst rec (1=buy..5=sell) | 1.9 |

@@ -5,11 +5,11 @@
 |---|---|---|---|---|---|---|---|
 | NVDA | $3.77T | -16% | 9.9 | 64% | Low | Reasonable | High |
 | TSM | $1.94T | +34% | 16.0 | 51% | Low | Reasonable | Elevated |
-| AVGO | $1.59T | -1% | 17.1 | 43% | Low | Reasonable | High |
+| AVGO | $1.59T | -1% | 17.2 | 43% | Low | Reasonable | High |
 | MU | $813.52B | +204% | 3.5 | 64% | High | Reasonable | High |
 | AMD | $827.06B | +103% | 28.6 | 17% | High | Fair-to-demanding | High |
 | INTC | $294.82B | +54% | 31.0 | -20% | Low | Fair-to-demanding | High |
-| ARM | $187.30B | +25% | 56.9 | 17% | Low | Low (expensive) | High |
+| ARM | $187.30B | +25% | 56.7 | 17% | Low | Low (expensive) | High |
 | MRVL | $130.79B | +66% | 19.7 | 28% | High | Reasonable | High |
 | QCOM | $180.32B | -1% | 13.8 | 32% | Low | Reasonable | High |
 | NXPI | $64.07B | +29% | 13.9 | 23% | Moderate | Reasonable | Elevated |

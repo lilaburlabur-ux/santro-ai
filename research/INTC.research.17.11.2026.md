@@ -39,7 +39,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Why Intel's turnaround will take years | Yahoo Finance Video | 2026-11-16 |
 | Jensen's possible return to Nvidia, Intel's steps and missteps | Yahoo Finance Video | 2026-11-16 |
 | Intel stock falls after investors file class action lawsuit against the company | Yahoo Finance | 2026-11-16 |
-| Intel Sits 61% Below the Peak When Jim Cramer Called It His Favorite | BeInCrypto | 2026-11-17 |
+| SPCX Stock Dethrones Intel As Nvidia’s Biggest Holding — Druckenmiller Buys In And Tepper Ups His Stake Over 1,600% | Stocktwits | 2026-11-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

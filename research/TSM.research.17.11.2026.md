@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Taiwan Semiconductor Manufacturing (NYSE:TSM) Hit A Revenue High, Is The Stock Fully Valued? | Simply Wall St. | 2026-11-17 |
 | Taiwan Semiconductor Booked a Record NT$587 Billion Month. The Stock Has Lost Nearly 10% in Three Days Anyway | 24/7 Wall St. | 2026-11-17 |
 | 4 Chip Stocks Down as Much as 36% From Their Highs to Buy and Hold for the Next Decade | Motley Fool | 2026-11-16 |
 | Huang’s ‘trillion-dollar dinners’ with Taiwan chip bosses were Nvidia’s secret weapon. Now he’s out. Can he be replaced? | Moneywise | 2026-11-16 |
-| NVIDIA After Jensen: What's Next for the AI Trade? | Zacks | 2026-11-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T10:03:10+00:00",
-  "as_of_local": "2026-11-17 10:03:10 UTC",
+  "as_of_utc": "2026-11-17T10:08:13+00:00",
+  "as_of_local": "2026-11-17 10:08:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -253,34 +255,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-oracle-nebius-plunge-nvidia-192652785.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-16T19:26:52Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 254.19,
-      "previous_close": 265.09,
-      "change_pct": -4.11,
-      "market_cap": 64069349635.08374,
-      "headlines": [
-        {
-          "title": "What Is Monolithic Power Systems No Longer Telling You?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/monolithic-power-systems-no-longer-004625182.html",
-          "publisher": "Trefis",
-          "published": "2026-11-17T00:46:25Z"
-        },
-        {
-          "title": "Should You Buy The Dip In Semtech Stock Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-dip-semtech-stock-now-215343870.html",
-          "publisher": "Trefis",
-          "published": "2026-11-16T21:53:43Z"
-        },
-        {
-          "title": "NXP: 3 Key Takeaways for Long-Term Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-3-key-takeaways-long-182002104.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-14T18:20:02Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64310.59,
-      "change_pct": -0.84
+      "price": 64266.92,
+      "change_pct": -0.91
     },
     {
       "label": "Gold",
-      "price": 3869.4,
-      "change_pct": 0.43
+      "price": 3868.4,
+      "change_pct": 0.4
     },
     {
       "label": "Nasdaq100",

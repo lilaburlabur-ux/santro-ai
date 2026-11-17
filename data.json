@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-17T01:00:46+00:00",
-  "as_of_local": "2026-11-17 01:00:46 UTC",
+  "as_of_utc": "2026-11-17T01:10:55+00:00",
+  "as_of_local": "2026-11-17 01:10:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -265,6 +265,12 @@
       "market_cap": 64069349019.72,
       "headlines": [
         {
+          "title": "What Is Monolithic Power Systems No Longer Telling You?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/monolithic-power-systems-no-longer-004625182.html",
+          "publisher": "Trefis",
+          "published": "2026-11-17T00:46:25Z"
+        },
+        {
           "title": "Should You Buy The Dip In Semtech Stock Now?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-dip-semtech-stock-now-215343870.html",
           "publisher": "Trefis",
@@ -275,12 +281,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-3-key-takeaways-long-182002104.html",
           "publisher": "Motley Fool",
           "published": "2026-11-14T18:20:02Z"
-        },
-        {
-          "title": "Why Did Texas Instruments Stock Beat NXP Over Five Years?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-texas-instruments-stock-010308968.html",
-          "publisher": "Trefis",
-          "published": "2026-11-14T01:03:08Z"
         }
       ]
     },
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -4.62,
-          "price": 8004.0,
+          "change_pct": -4.28,
+          "price": 8033.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -9.81,
-          "price": 340.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "TWD"
         },
         {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -4.62,
-        "price": 8004.0,
+        "change_pct": -4.28,
+        "price": 8033.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -9.81,
-        "price": 340.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "TWD"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64553.34,
-      "change_pct": -1.15
+      "price": 64591.6,
+      "change_pct": -1.09
     },
     {
       "label": "Gold",
-      "price": 3861.5,
-      "change_pct": -0.64
+      "price": 3858.8,
+      "change_pct": -0.71
     },
     {
       "label": "Nasdaq100",

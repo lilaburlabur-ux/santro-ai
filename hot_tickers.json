@@ -1,10 +1,59 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-17T14:38:15+00:00",
+  "as_of": "2026-11-17T14:53:24+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "CRM",
+   "company": "Salesforce Inc",
+   "move_pct": -5.93,
+   "price": 202.09,
+   "volume": 1083151,
+   "volume_vs_avg": "~0.2x",
+   "heat_score": 37,
+   "direction": "down",
+   "why": "Global Retail Technology Market Report 2026 | Capitalize on AI, Cloud and Omnichannel Demand as Microsoft, Oracle, Salesforce and SAP Drive the Market to $338.55B by 2030",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/articles/global-retail-technology-market-report-142400930.html",
+   "published": "2026-11-17T14:24:00+00:00",
+   "sector": "AI Applications & Data Software"
+  },
+  {
+   "rank": 2,
+   "ticker": "SNAP",
+   "company": "Snap Inc",
+   "move_pct": 5.21,
+   "price": 5.36,
+   "volume": 7356289,
+   "volume_vs_avg": "~0.2x",
+   "heat_score": 34,
+   "direction": "up",
+   "why": "CDE Solutions Leads the Way in EBT Chip Readiness as Nationwide SNAP Payment Modernization Accelerates",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/small-business/articles/cde-solutions-leads-way-ebt-140000055.html",
+   "published": "2026-11-17T14:00:00+00:00",
+   "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 3,
+   "ticker": "WDAY",
+   "company": "Workday Inc",
+   "move_pct": -5.03,
+   "price": 184.3,
+   "volume": 158334,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 33,
+   "direction": "down",
+   "why": "Strada deepens Workday partnership to deploy Talent AI capabilities, expand UK public sector access and advance payroll innovation at Workday Rising EMEA 2026",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/strada-deepens-workday-partnership-deploy-121800238.html",
+   "published": "2026-11-17T12:18:00+00:00",
+   "sector": "AI Applications & Data Software"
+  }
+ ]
 }

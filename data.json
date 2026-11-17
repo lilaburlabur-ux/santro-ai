@@ -1,16 +1,18 @@
 {
-  "as_of_utc": "2026-11-17T17:46:23+00:00",
-  "as_of_local": "2026-11-17 17:46:23 UTC",
+  "as_of_utc": "2026-11-17T17:51:37+00:00",
+  "as_of_local": "2026-11-17 17:51:37 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 153.58,
+      "price": 153.43,
       "previous_close": 156.14,
-      "change_pct": -1.64,
-      "market_cap": 3708544571685.791,
+      "change_pct": -1.73,
+      "market_cap": 3704994886047.3633,
       "headlines": [
         {
           "title": "Former Nvidia CEO Jensen Huang says he'd be 'honored' to return to the company",
@@ -35,10 +37,10 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 360.18,
+      "price": 360.38,
       "previous_close": 373.45,
-      "change_pct": -3.55,
-      "market_cap": 1868089762681.6025,
+      "change_pct": -3.5,
+      "market_cap": 1869101162902.2952,
       "headlines": [
         {
           "title": "Could Nvidia Stock Fall 50%? Follow The Cash",
@@ -63,11 +65,17 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 338.19,
+      "price": 338.0,
       "previous_close": 333.4,
-      "change_pct": 1.44,
-      "market_cap": 1613534677286.1292,
+      "change_pct": 1.38,
+      "market_cap": 1613749409049.4656,
       "headlines": [
+        {
+          "title": "Who Reaches $100 Billion in TPU Revenue First, Alphabet or Broadcom?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/reaches-100-billion-tpu-revenue-174508473.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-17T17:45:08Z"
+        },
         {
           "title": "Could Nvidia Stock Fall 50%? Follow The Cash",
           "url": "https://finance.yahoo.com/markets/stocks/articles/could-nvidia-stock-fall-50-103859887.html",
@@ -79,22 +87,16 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-trades-under-12-times-173303008.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-17T17:33:03Z"
-        },
-        {
-          "title": "Is SMH A Great Dip Buy At 31% Off?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/smh-great-dip-buy-31-172145083.html",
-          "publisher": "Trefis",
-          "published": "2026-11-17T17:21:45Z"
         }
       ]
     },
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 489.28,
+      "price": 488.58,
       "previous_close": 504.28,
-      "change_pct": -2.97,
-      "market_cap": 809715981362.5304,
+      "change_pct": -3.11,
+      "market_cap": 808813998910.0574,
       "headlines": [
         {
           "title": "Could Nvidia Stock Fall 50%? Follow The Cash",
@@ -119,10 +121,10 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 694.8,
+      "price": 695.07,
       "previous_close": 719.02,
-      "change_pct": -3.37,
-      "market_cap": 785513215493.3496,
+      "change_pct": -3.33,
+      "market_cap": 786508873444.437,
       "headlines": [
         {
           "title": "Is SMH A Great Dip Buy At 31% Off?",
@@ -147,10 +149,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 53.71,
+      "price": 53.73,
       "previous_close": 55.47,
-      "change_pct": -3.18,
-      "market_cap": 285309201622.0093,
+      "change_pct": -3.14,
+      "market_cap": 285495225811.00464,
       "headlines": [
         {
           "title": "Marvell and Intel Are Both Down at Least 50% From Their 2026 Highs. Only 1 Is a Stock I\u2019d Buy.",
@@ -175,10 +177,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 179.73,
+      "price": 179.5,
       "previous_close": 175.05,
-      "change_pct": 2.67,
-      "market_cap": 192161296081.54297,
+      "change_pct": 2.54,
+      "market_cap": 192198750000.0,
       "headlines": [
         {
           "title": "SoftBank Had 64% of Its U.S. Stock Portfolio in Intel. It Has Since Halved",
@@ -193,20 +195,20 @@
           "published": "2026-11-17T15:03:17Z"
         },
         {
-          "title": "Arm Holdings (ARM) Stock Dropped, So What Is Driving Attention Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-stock-dropped-221118439.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-16T22:11:18Z"
+          "title": "Nasdaq Futures Climb as Chip Stocks Bounce Ahead of Nvidia Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-climb-chip-stocks-113625539.html",
+          "publisher": "Barchart",
+          "published": "2026-11-17T11:36:25Z"
         }
       ]
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 166.58,
+      "price": 166.38,
       "previous_close": 168.52,
-      "change_pct": -1.15,
-      "market_cap": 178240699920.6543,
+      "change_pct": -1.27,
+      "market_cap": 178069398040.77148,
       "headlines": [
         {
           "title": "Brad Gerstner Dumps These 3 Stocks",
@@ -231,10 +233,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 145.15,
+      "price": 144.93,
       "previous_close": 145.36,
-      "change_pct": -0.14,
-      "market_cap": 130587516341.50839,
+      "change_pct": -0.3,
+      "market_cap": 130403062688.17786,
       "headlines": [
         {
           "title": "Marvell and Intel Are Both Down at Least 50% From Their 2026 Highs. Only 1 Is a Stock I\u2019d Buy.",
@@ -257,40 +259,12 @@
       ]
     },
     {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 253.64,
-      "previous_close": 254.19,
-      "change_pct": -0.22,
-      "market_cap": 63905512885.269714,
-      "headlines": [
-        {
-          "title": "What Is Monolithic Power Systems No Longer Telling You?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/monolithic-power-systems-no-longer-004625182.html",
-          "publisher": "Trefis",
-          "published": "2026-11-17T00:46:25Z"
-        },
-        {
-          "title": "Should You Buy The Dip In Semtech Stock Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-dip-semtech-stock-now-215343870.html",
-          "publisher": "Trefis",
-          "published": "2026-11-16T21:53:43Z"
-        },
-        {
-          "title": "NXP: 3 Key Takeaways for Long-Term Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-3-key-takeaways-long-182002104.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-14T18:20:02Z"
-        }
-      ]
-    },
-    {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 108.55,
+      "price": 108.17,
       "previous_close": 108.17,
-      "change_pct": 0.35,
-      "market_cap": 15438599192.088364,
+      "change_pct": 0.0,
+      "market_cap": 15384552735.046982,
       "headlines": [
         {
           "title": "SK hynix Down 23.1% in Three Months: Should You Buy, Hold or Sell?",
@@ -315,10 +289,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 106.28,
+      "price": 106.41,
       "previous_close": 109.5,
-      "change_pct": -2.94,
-      "market_cap": 5401224146.52301,
+      "change_pct": -2.82,
+      "market_cap": 5407831085.930969,
       "headlines": [
         {
           "title": "ONDS Raises 2026 Outlook as Backlog and Defense Demand Accelerate",
@@ -343,10 +317,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 117.35,
+      "price": 117.25,
       "previous_close": 117.52,
-      "change_pct": -0.15,
-      "market_cap": 4661942758.516724,
+      "change_pct": -0.23,
+      "market_cap": 4658367034.462372,
       "headlines": [
         {
           "title": "SYNA Q1 Earnings Beat Estimates, Revenues Miss on Weak Demand",
@@ -371,10 +345,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 24.6,
+      "price": 24.51,
       "previous_close": 24.91,
-      "change_pct": -1.24,
-      "market_cap": 701770951.2822914,
+      "change_pct": -1.61,
+      "market_cap": 700487221.7758331,
       "headlines": [
         {
           "title": "Ceva (CEVA) Upgraded to Buy: Here's What You Should Know",
@@ -401,16 +375,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 38.37,
-      "change_pct": -2.29,
+      "price": 38.4,
+      "change_pct": -2.23,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -3.37,
-          "price": 694.8,
+          "change_pct": -3.33,
+          "price": 695.07,
           "currency": "USD"
         },
         {
@@ -445,8 +419,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -2.53,
-          "price": 788.62,
+          "change_pct": -2.67,
+          "price": 787.49,
           "currency": "USD"
         },
         {
@@ -454,8 +428,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -0.63,
-          "price": 495.88,
+          "change_pct": -0.97,
+          "price": 494.15,
           "currency": "USD"
         },
         {
@@ -463,8 +437,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -0.51,
-          "price": 279.51,
+          "change_pct": -0.59,
+          "price": 279.26,
           "currency": "USD"
         },
         {
@@ -491,16 +465,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 38.37,
-    "change_pct": -2.29,
+    "price": 38.4,
+    "change_pct": -2.23,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -3.37,
-        "price": 694.8,
+        "change_pct": -3.33,
+        "price": 695.07,
         "currency": "USD"
       },
       {
@@ -535,8 +509,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -2.53,
-        "price": 788.62,
+        "change_pct": -2.67,
+        "price": 787.49,
         "currency": "USD"
       },
       {
@@ -544,8 +518,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -0.63,
-        "price": 495.88,
+        "change_pct": -0.97,
+        "price": 494.15,
         "currency": "USD"
       },
       {
@@ -553,8 +527,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -0.51,
-        "price": 279.51,
+        "change_pct": -0.59,
+        "price": 279.26,
         "currency": "USD"
       },
       {
@@ -580,23 +554,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7336.48,
-      "change_pct": -1.08
+      "price": 7333.13,
+      "change_pct": -1.13
     },
     {
       "label": "BTC",
-      "price": 63692.36,
-      "change_pct": -1.79
+      "price": 63822.61,
+      "change_pct": -1.59
     },
     {
       "label": "Gold",
-      "price": 3870.6,
-      "change_pct": 0.46
+      "price": 3869.0,
+      "change_pct": 0.42
     },
     {
       "label": "Nasdaq100",
-      "price": 26881.45,
-      "change_pct": -1.16
+      "price": 26868.39,
+      "change_pct": -1.21
     }
   ]
 }

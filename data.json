@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-17T10:23:21+00:00",
-  "as_of_local": "2026-11-17 10:23:21 UTC",
+  "as_of_utc": "2026-11-17T10:28:28+00:00",
+  "as_of_local": "2026-11-17 10:28:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVAV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -315,6 +313,34 @@
       ]
     },
     {
+      "symbol": "AVAV",
+      "name": "AeroVironment",
+      "price": 109.5,
+      "previous_close": 117.52,
+      "change_pct": -6.82,
+      "market_cap": 5564866869.0,
+      "headlines": [
+        {
+          "title": "AeroVironment (AVAV) Declines More Than Market: Some Information for Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-declines-more-market-221502606.html",
+          "publisher": "Zacks",
+          "published": "2026-11-16T22:15:02Z"
+        },
+        {
+          "title": "Is KTOS Expanding Its Role in Next-Generation Defense Technologies?",
+          "url": "https://finance.yahoo.com/technology/articles/ktos-expanding-role-next-generation-170900169.html",
+          "publisher": "Zacks",
+          "published": "2026-11-16T17:09:00Z"
+        },
+        {
+          "title": "Ondas Falls 8% Despite $1.1 Billion 2027 Revenue Target as Drone Stocks Extend Losses; Red Cat Drops 5%, Unusual Machines Slides 4%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ondas-falls-8-despite-1-150226611.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-16T15:02:26Z"
+        }
+      ]
+    },
+    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 117.52,
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64206.14,
-      "change_pct": -1.0
+      "price": 64138.44,
+      "change_pct": -1.11
     },
     {
       "label": "Gold",
-      "price": 3858.7,
-      "change_pct": 0.15
+      "price": 3856.7,
+      "change_pct": 0.1
     },
     {
       "label": "Nasdaq100",

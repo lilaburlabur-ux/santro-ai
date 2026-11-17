@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T07:57:44+00:00",
-  "as_of_local": "2026-11-17 07:57:44 UTC",
+  "as_of_utc": "2026-11-17T07:59:27+00:00",
+  "as_of_local": "2026-11-17 07:59:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -57,34 +59,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/4-chip-stocks-down-much-230102349.html",
           "publisher": "Motley Fool",
           "published": "2026-11-16T23:01:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 333.4,
-      "previous_close": 347.01,
-      "change_pct": -3.92,
-      "market_cap": 1591528167855.0754,
-      "headlines": [
-        {
-          "title": "AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop",
-          "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-stocks-sink-on-tighter-us-chips-rules-coreweave-drops-143342994.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-16T14:24:53Z"
-        },
-        {
-          "title": "AMD, MU, SKHY, AVGO: Chip Stocks Ease Overnight After Selloff On New US Chip Restrictions Targeting China",
-          "url": "https://finance.yahoo.com/technology/articles/amd-mu-skhy-avgo-chip-040420540.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-17T04:04:20Z"
-        },
-        {
-          "title": "Anthropic IPO Overvalued? Hardly. Valuation Is \u201cAbout Where Broadcom and AMD Trade,\u201d Says Scott Galloway",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-overvalued-hardly-valuation-013234576.html",
-          "publisher": "TIKR",
-          "published": "2026-11-17T01:32:34Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64626.8,
-      "change_pct": -0.35
+      "price": 64660.63,
+      "change_pct": -0.3
     },
     {
       "label": "Gold",
-      "price": 3874.1,
-      "change_pct": 0.55
+      "price": 3874.5,
+      "change_pct": 0.56
     },
     {
       "label": "Nasdaq100",

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-17T10:43:57+00:00",
-  "as_of_local": "2026-11-17 10:43:57 UTC",
+  "as_of_utc": "2026-11-17T10:49:02+00:00",
+  "as_of_local": "2026-11-17 10:49:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -127,6 +125,12 @@
       "market_cap": 813515939990.3496,
       "headlines": [
         {
+          "title": "Micron Has Plunged 36% From Its Peak. Here\u2019s the Price at Which I\u2019d Buy.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-plunged-36-peak-price-104202310.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-17T10:42:02Z"
+        },
+        {
           "title": "\u201cWhat Would It Take\u201d for Investors to Finally Admit that Micron Is Poised to Win for the Long Term?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/investors-finally-admit-micron-poised-064938786.html",
           "publisher": "TIKR",
@@ -137,12 +141,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-064900844.html",
           "publisher": "Zacks",
           "published": "2026-11-17T06:49:00Z"
-        },
-        {
-          "title": "AMD, MU, SKHY, AVGO: Chip Stocks Ease Overnight After Selloff On New US Chip Restrictions Targeting China",
-          "url": "https://finance.yahoo.com/technology/articles/amd-mu-skhy-avgo-chip-040420540.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-17T04:04:20Z"
         }
       ]
     },
@@ -161,16 +159,44 @@
           "published": "2026-11-16T19:27:03Z"
         },
         {
-          "title": "Jensen's possible return to Nvidia, Intel's steps and missteps",
-          "url": "https://finance.yahoo.com/video/jensens-possible-return-to-nvidia-intels-steps-and-missteps-185150216.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-16T18:45:21Z"
-        },
-        {
           "title": "Intel falls premarket as Nvidia cuts stake, SpaceX becomes top holding",
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-falls-premarket-nvidia-cuts-102651060.html",
           "publisher": "Investing.com",
           "published": "2026-11-17T10:26:51Z"
+        },
+        {
+          "title": "Nokia stock tumbles after Nvidia cuts stake by more than half",
+          "url": "https://finance.yahoo.com/news/nokia-stock-tumbles-nvidia-cuts-093318816.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-17T09:33:18Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 175.05,
+      "previous_close": 190.53,
+      "change_pct": -8.12,
+      "market_cap": 187303503265.38086,
+      "headlines": [
+        {
+          "title": "Arm Holdings (ARM) Stock Dropped, So What Is Driving Attention Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-stock-dropped-221118439.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-16T22:11:18Z"
+        },
+        {
+          "title": "Why Arm Holdings Plunged Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-arm-holdings-plunged-today-210632944.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-16T21:06:32Z"
+        },
+        {
+          "title": "Arm Stocks Slide 6.72% as Nvidia CEO Search Keeps Rene Haas in Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stocks-slide-6-72-174928553.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-16T17:49:28Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64196.7,
-      "change_pct": -1.02
+      "price": 64184.21,
+      "change_pct": -1.04
     },
     {
       "label": "Gold",
-      "price": 3858.5,
-      "change_pct": 0.14
+      "price": 3860.8,
+      "change_pct": 0.2
     },
     {
       "label": "Nasdaq100",

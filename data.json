@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-17T12:55:55+00:00",
-  "as_of_local": "2026-11-17 12:55:55 UTC",
+  "as_of_utc": "2026-11-17T13:01:01+00:00",
+  "as_of_local": "2026-11-17 13:01:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 156.14,
+      "previous_close": 162.85,
+      "change_pct": -4.12,
+      "market_cap": 3770312565261.841,
+      "headlines": [
+        {
+          "title": "Nvidia earnings will show if the Bank of Nvidia is still open: Chart of the Day",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-earnings-will-show-if-the-bank-of-nvidia-is-still-open-chart-of-the-day-125850442.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-17T12:58:50Z"
+        },
+        {
+          "title": "Stock market today: Dow, S&P 500 futures slip, and Nasdaq futures rise in countdown to Nvidia earnings",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-091546152.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-17T09:15:46Z"
+        },
+        {
+          "title": "Nvidia is being pulled in opposite directions by 2 powerful forces",
+          "url": "https://finance.yahoo.com/technology/article/nvidia-is-being-pulled-in-opposite-directions-by-2-powerful-forces-110000361.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-17T11:00:00Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64919.83,
-      "change_pct": 0.1
+      "price": 64975.15,
+      "change_pct": 0.18
     },
     {
       "label": "Gold",
-      "price": 3862.0,
-      "change_pct": 0.23
+      "price": 3862.5,
+      "change_pct": 0.25
     },
     {
       "label": "Nasdaq100",

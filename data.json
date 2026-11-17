@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T10:38:39+00:00",
-  "as_of_local": "2026-11-17 10:38:39 UTC",
+  "as_of_utc": "2026-11-17T10:43:57+00:00",
+  "as_of_local": "2026-11-17 10:43:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-falls-premarket-nvidia-cuts-102651060.html",
           "publisher": "Investing.com",
           "published": "2026-11-17T10:26:51Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 175.05,
-      "previous_close": 190.53,
-      "change_pct": -8.12,
-      "market_cap": 187303503265.38086,
-      "headlines": [
-        {
-          "title": "Arm Holdings (ARM) Stock Dropped, So What Is Driving Attention Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-stock-dropped-221118439.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-16T22:11:18Z"
-        },
-        {
-          "title": "Why Arm Holdings Plunged Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-arm-holdings-plunged-today-210632944.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-16T21:06:32Z"
-        },
-        {
-          "title": "Arm Stocks Slide 6.72% as Nvidia CEO Search Keeps Rene Haas in Focus",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stocks-slide-6-72-174928553.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-16T17:49:28Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64151.47,
-      "change_pct": -1.09
+      "price": 64196.7,
+      "change_pct": -1.02
     },
     {
       "label": "Gold",
-      "price": 3859.3,
-      "change_pct": 0.16
+      "price": 3858.5,
+      "change_pct": 0.14
     },
     {
       "label": "Nasdaq100",

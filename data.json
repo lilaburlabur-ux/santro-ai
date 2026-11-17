@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-17T03:11:48+00:00",
-  "as_of_local": "2026-11-17 03:11:48 UTC",
+  "as_of_utc": "2026-11-17T03:26:53+00:00",
+  "as_of_local": "2026-11-17 03:26:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 1936888402920.7378,
       "headlines": [
         {
+          "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Hit A Revenue High, Is The Stock Fully Valued?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-nyse-tsm-030943458.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-17T03:09:43Z"
+        },
+        {
           "title": "Taiwan Semiconductor Booked a Record NT$587 Billion Month. The Stock Has Lost Nearly 10% in Three Days Anyway",
           "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-booked-record-nt-004110791.html",
           "publisher": "24/7 Wall St.",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/4-chip-stocks-down-much-230102349.html",
           "publisher": "Motley Fool",
           "published": "2026-11-16T23:01:02Z"
-        },
-        {
-          "title": "Huang\u2019s \u2018trillion-dollar dinners\u2019 with Taiwan chip bosses were Nvidia\u2019s secret weapon. Now he\u2019s out. Can he be replaced?",
-          "url": "https://finance.yahoo.com/technology/articles/huang-trillion-dollar-dinners-taiwan-230000506.html",
-          "publisher": "Moneywise",
-          "published": "2026-11-16T23:00:00Z"
         }
       ]
     },
@@ -109,10 +109,10 @@
           "published": "2026-11-16T17:14:51Z"
         },
         {
-          "title": "Dow Jones Futures: AMD, Nvidia, Micron Lead AI Trade Lower With Nvidia Earnings On Deck",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-stock-nvda-nvidia-earnings-next/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-17T02:31:42Z"
+          "title": "Is NVIDIA\u2019s Turmoil Advanced Micro Devices\u2019 (AMD) Biggest Opening Yet?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-turmoil-advanced-micro-devices-031446562.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-17T03:14:46Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 1.43,
-          "price": 1136000.0,
+          "change_pct": 1.79,
+          "price": 1140000.0,
           "currency": "KRW"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -3.97,
-          "price": 326.5,
+          "change_pct": -4.26,
+          "price": 325.5,
           "currency": "TWD"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -3.54,
-          "price": 109.0,
+          "change_pct": -3.1,
+          "price": 109.5,
           "currency": "TWD"
         }
       ]
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 1.43,
-        "price": 1136000.0,
+        "change_pct": 1.79,
+        "price": 1140000.0,
         "currency": "KRW"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -3.97,
-        "price": 326.5,
+        "change_pct": -4.26,
+        "price": 325.5,
         "currency": "TWD"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -3.54,
-        "price": 109.0,
+        "change_pct": -3.1,
+        "price": 109.5,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64593.34,
-      "change_pct": -1.09
+      "price": 64781.97,
+      "change_pct": -0.8
     },
     {
       "label": "Gold",
-      "price": 3872.1,
-      "change_pct": -0.37
+      "price": 3874.7,
+      "change_pct": -0.3
     },
     {
       "label": "Nasdaq100",

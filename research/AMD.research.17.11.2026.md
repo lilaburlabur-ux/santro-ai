@@ -4,8 +4,8 @@ Signed file: `AMD.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $490.10 (2026-11-17, ~15-min delayed) |
-| Market cap | $811.15B |
+| Current price | $503.41 (2026-11-17, ~15-min delayed) |
+| Market cap | $833.18B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `AMD.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +98.57%; price +15.13% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -24.53% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +103.97%; price +18.24% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -22.48% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 16.77%, revenue growth 44.70%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 27.79, EV/Sales 18.06. |
-| Risk level | High | Beta 2.54, ATR 8.3% of price, short float 2.36%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 28.54, EV/Sales 18.06. |
+| Risk level | High | Beta 2.54, ATR 8.1% of price, short float 2.36%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
 
@@ -36,30 +36,30 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Billionaire David Tepper Grew His SpaceX Stake 17-Fold While Dumping AMD and Broadcom | 24/7 Wall St. | 2026-11-17 |
 | Prediction: These Will Be Nvidia’s and AMD’s Stock Prices by the End of 2027 (Hint: Only 1 Is a Buy). | Motley Fool | 2026-11-17 |
 | AMD Stocks Decrease 1.62% as New US Rule Requires Licenses for Five Chip Hubs | GuruFocus.com | 2026-11-17 |
 | Is AMD Stock a Buy Amid the Uncertainty Around Nvidia? | Motley Fool | 2026-11-17 |
-| Jim Simons’ Fund Just Dumped 99.7% of Its Nvidia, Which Had Been Its No. 1 Holding | 24/7 Wall St. | 2026-11-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $490.10; 52w high $649.42 (-24.53%); 52w low $190.95 (+156.66%) |
-| Trend | +15.13% vs SMA200, -11.66% vs SMA50, -4.85% vs SMA20 |
-| Momentum | RSI(14) 45.1 (neutral) |
-| Volatility | ATR(14) 40.57 (~8.3% of price); beta 2.54 |
-| Setup perspective | -24.53% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $503.41; 52w high $649.42 (-22.48%); 52w low $190.95 (+163.63%) |
+| Trend | +18.24% vs SMA200, -9.30% vs SMA50, -2.40% vs SMA20 |
+| Momentum | RSI(14) 46.6 (neutral) |
+| Volatility | ATR(14) 40.57 (~8.1% of price); beta 2.54 |
+| Setup perspective | -22.48% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.9% |
-| Month | -8.9% |
-| Quarter | +5.1% |
-| Half Y | +18.4% |
-| 1Y | +98.6% |
-| YTD | +119.3% |
+| Week | -2.3% |
+| Month | -6.4% |
+| Quarter | +7.9% |
+| Half Y | +21.6% |
+| 1Y | +104.0% |
+| YTD | +125.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Revenue (ttm) | $45.44B | Revenue growth 44.70% y/y |
 | Profitability | Gross 56.00%, operating 17.82%, net 16.77% | ROA 5.90%, ROE 11.96% |
 | Balance sheet | Cash $15.78B, debt $9.21B | Current ratio 2.73, debt/equity 13.47 |
-| Valuation | P/E 104.72, forward P/E 27.79, P/S 17.85, P/B 11.75 | EV/Sales 18.06, EV/EBITDA 73.63 |
+| Valuation | P/E 107.57, forward P/E 28.54, P/S 18.34, P/B 12.07 | EV/Sales 18.06, EV/EBITDA 73.63 |
 | Growth expectations | Earnings growth 93.80%, EPS q/q 95.30% | Analyst mean target $657.74 (49 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Morgan Stanley | 24,001,499 | 1.46% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 27.79, EV/Sales 18.06. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.54, ATR 8.3% of price, short float 2.36%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 28.54, EV/Sales 18.06. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.54, ATR 8.1% of price, short float 2.36%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -111,21 +111,21 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $490.10 | EV/Sales | 18.06 |
-| Market cap | $811.15B | EV/EBITDA | 73.63 |
+| Price | $503.41 | EV/Sales | 18.06 |
+| Market cap | $833.18B | EV/EBITDA | 73.63 |
 | Beta | 2.54 | Gross margin | 56.00% |
-| RSI(14) | 45.1 | Operating margin | 17.82% |
+| RSI(14) | 46.6 | Operating margin | 17.82% |
 | ATR(14) | 40.57 | Profit margin | 16.77% |
-| SMA20 dist | -4.85% | ROA | 5.90% |
-| SMA50 dist | -11.66% | ROE | 11.96% |
-| SMA200 dist | +15.13% | Revenue (ttm) | $45.44B |
+| SMA20 dist | -2.40% | ROA | 5.90% |
+| SMA50 dist | -9.30% | ROE | 11.96% |
+| SMA200 dist | +18.24% | Revenue (ttm) | $45.44B |
 | 52W high | $649.42 | Revenue growth y/y | 44.70% |
 | 52W low | $190.95 | Inst. ownership | 75.11% |
-| P/E (ttm) | 104.72 | Insider ownership | 0.46% |
-| Forward P/E | 27.79 | Short float | 2.36% |
+| P/E (ttm) | 107.57 | Insider ownership | 0.46% |
+| Forward P/E | 28.54 | Short float | 2.36% |
 | PEG (trailing) | 0.48 | Avg volume | 24,911,159 |
-| P/S | 17.85 | Employees | 31,000 |
-| P/B | 11.75 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/S | 18.34 | Employees | 31,000 |
+| P/B | 12.07 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `ARM.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $181.96 (2026-11-17, ~15-min delayed) |
-| Market cap | $194.70B |
+| Current price | $183.39 (2026-11-17, ~15-min delayed) |
+| Market cap | $196.23B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: low (expensive), risk: high. |
@@ -15,10 +15,10 @@ Signed file: `ARM.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-22.09%) with negative half-year (-18.46%). |
-| Fresh setup quality | Poor / broken | -58.59% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-21.48%) with negative half-year (-17.82%). |
+| Fresh setup quality | Poor / broken | -58.27% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 17.13%, revenue growth 27.10%. |
-| Value attractiveness | Low (expensive) | Forward P/E 58.95, EV/Sales 33.71. |
+| Value attractiveness | Low (expensive) | Forward P/E 59.41, EV/Sales 33.71. |
 | Risk level | High | Beta 3.94, ATR 8.7% of price, short float 10.71%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: low (expensive), risk: high.
@@ -36,7 +36,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
-| Stock Market Today: Dow Dives, Nvidia Falls As Jensen Huang Says This; SpaceX Takes Off (Live Coverage) | Investor's Business Daily | 2026-11-17 |
+| Stock Market Today: Dow Dives, Nvidia Falls As Jensen Huang Says This; SpaceX Rises (Live Coverage) | Investor's Business Daily | 2026-11-17 |
 | Nvidia taps Heidrick & Struggles to lead CEO search, WSJ reports | Investing.com | 2026-11-17 |
 | SoftBank Had 64% of Its U.S. Stock Portfolio in Intel. It Has Since Halved | 24/7 Wall St. | 2026-11-17 |
 | Arm Could Become a Much Bigger AI Winner by 2030. Here’s the Case | 24/7 Wall St. | 2026-11-17 |
@@ -44,22 +44,22 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $181.96; 52w high $439.46 (-58.59%); 52w low $104.55 (+74.04%) |
-| Trend | -22.09% vs SMA200, -25.73% vs SMA50, -9.44% vs SMA20 |
-| Momentum | RSI(14) 39.4 (neutral) |
+| Price vs 52-week range | Close $183.39; 52w high $439.46 (-58.27%); 52w low $104.55 (+75.41%) |
+| Trend | -21.48% vs SMA200, -25.16% vs SMA50, -8.76% vs SMA20 |
+| Momentum | RSI(14) 40.0 (neutral) |
 | Volatility | ATR(14) 15.88 (~8.7% of price); beta 3.94 |
-| Setup perspective | -58.59% from 52w high — base needs to rebuild. |
+| Setup perspective | -58.27% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.3% |
-| Month | -20.2% |
-| Quarter | -27.0% |
-| Half Y | -18.5% |
-| 1Y | +30.2% |
-| YTD | +58.6% |
+| Week | +1.0% |
+| Month | -19.6% |
+| Quarter | -26.4% |
+| Half Y | -17.8% |
+| 1Y | +31.2% |
+| YTD | +59.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Revenue (ttm) | $5.46B | Revenue growth 27.10% y/y |
 | Profitability | Gross 97.44%, operating 17.02%, net 17.13% | ROA 5.50%, ROE 11.35% |
 | Balance sheet | Cash $3.62B, debt $500.00M | Current ratio 6.35, debt/equity 5.50 |
-| Valuation | P/E 209.15, forward P/E 58.95, P/S 35.63, P/B 21.42 | EV/Sales 33.71, EV/EBITDA 163.33 |
+| Valuation | P/E 229.24, forward P/E 59.41, P/S 35.91, P/B 21.59 | EV/Sales 33.71, EV/EBITDA 163.33 |
 | Growth expectations | Earnings growth -45.50%, EPS q/q -45.40% | Analyst mean target $272.43 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Capital International Investors | 2,048,256 | 0.19% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 58.95, EV/Sales 33.71. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 59.41, EV/Sales 33.71. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 3.94, ATR 8.7% of price, short float 10.71%. Size positions accordingly.
 - **Short interest risk:** short float 10.71% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,21 +113,21 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $181.96 | EV/Sales | 33.71 |
-| Market cap | $194.70B | EV/EBITDA | 163.33 |
+| Price | $183.39 | EV/Sales | 33.71 |
+| Market cap | $196.23B | EV/EBITDA | 163.33 |
 | Beta | 3.94 | Gross margin | 97.44% |
-| RSI(14) | 39.4 | Operating margin | 17.02% |
+| RSI(14) | 40.0 | Operating margin | 17.02% |
 | ATR(14) | 15.88 | Profit margin | 17.13% |
-| SMA20 dist | -9.44% | ROA | 5.50% |
-| SMA50 dist | -25.73% | ROE | 11.35% |
-| SMA200 dist | -22.09% | Revenue (ttm) | $5.46B |
+| SMA20 dist | -8.76% | ROA | 5.50% |
+| SMA50 dist | -25.16% | ROE | 11.35% |
+| SMA200 dist | -21.48% | Revenue (ttm) | $5.46B |
 | 52W high | $439.46 | Revenue growth y/y | 27.10% |
 | 52W low | $104.55 | Inst. ownership | 95.67% |
-| P/E (ttm) | 209.15 | Insider ownership | 0.07% |
-| Forward P/E | 58.95 | Short float | 10.71% |
+| P/E (ttm) | 229.24 | Insider ownership | 0.07% |
+| Forward P/E | 59.41 | Short float | 10.71% |
 | PEG (trailing) | 1.43 | Avg volume | 5,263,526 |
-| P/S | 35.63 | Employees | 9,584 |
-| P/B | 21.42 | Analyst rec (1=buy..5=sell) | 1.9 |
+| P/S | 35.91 | Employees | 9,584 |
+| P/B | 21.59 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

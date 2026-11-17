@@ -3,20 +3,20 @@
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
-| NVDA | $3.70T | -19% | 9.7 | 64% | Low | Reasonable | High |
-| TSM | $1.86T | +27% | 15.3 | 51% | Low | Reasonable | High |
-| AVGO | $1.61T | -1% | 17.4 | 43% | Low | Reasonable | High |
-| MU | $790.43B | +183% | 3.4 | 64% | High | Reasonable | High |
-| AMD | $811.15B | +99% | 27.8 | 17% | High | Fair-to-demanding | High |
-| INTC | $285.39B | +51% | 30.0 | -20% | Low | Fair-to-demanding | High |
-| ARM | $194.70B | +30% | 58.9 | 17% | Low | Low (expensive) | High |
-| MRVL | $131.51B | +69% | 19.8 | 28% | High | Reasonable | High |
-| QCOM | $177.20B | -3% | 13.6 | 32% | Low | Reasonable | High |
-| NXPI | $63.35B | +30% | 13.7 | 23% | Moderate | Reasonable | Elevated |
-| LSCC | $15.51B | +70% | 24.9 | 6% | High | Fair-to-demanding | High |
-| SYNA | $4.65B | +82% | 18.0 | -41% | High | Reasonable | High |
-| CEVA | $701.77M | +0% | 32.7 | -9% | Low | Fair-to-demanding | High |
-| AVAV | $5.34B | -64% | 23.8 | -10% | Low | Fair-to-demanding | High |
+| NVDA | $3.75T | -18% | 9.8 | 64% | Low | Reasonable | High |
+| TSM | $1.87T | +28% | 15.4 | 51% | Low | Reasonable | Elevated |
+| AVGO | $1.63T | +0% | 17.6 | 43% | Low | Reasonable | High |
+| MU | $806.05B | +189% | 3.4 | 64% | High | Reasonable | High |
+| AMD | $833.18B | +104% | 28.5 | 17% | High | Fair-to-demanding | High |
+| INTC | $293.23B | +55% | 30.8 | -20% | Low | Fair-to-demanding | High |
+| ARM | $196.23B | +31% | 59.4 | 17% | Low | Low (expensive) | High |
+| MRVL | $133.83B | +72% | 20.2 | 28% | High | Fair-to-demanding | High |
+| QCOM | $178.34B | -2% | 13.7 | 32% | Low | Reasonable | High |
+| NXPI | $63.65B | +30% | 13.8 | 23% | Moderate | Reasonable | Elevated |
+| LSCC | $15.62B | +71% | 25.0 | 6% | High | Fair-to-demanding | High |
+| SYNA | $4.66B | +82% | 18.0 | -41% | High | Reasonable | High |
+| CEVA | $705.48M | +1% | 32.9 | -9% | Low | Fair-to-demanding | High |
+| AVAV | $5.31B | -64% | 23.7 | -10% | Low | Fair-to-demanding | High |
 
 14 reports generated; failed: none.
 

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T21:08:20+00:00",
-  "as_of_local": "2026-11-17 21:08:20 UTC",
+  "as_of_utc": "2026-11-17T21:13:27+00:00",
+  "as_of_local": "2026-11-17 21:13:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -69,6 +71,12 @@
       "market_cap": 1630671991019.9246,
       "headlines": [
         {
+          "title": "Billionaire David Tepper Grew His SpaceX Stake 17-Fold While Dumping AMD and Broadcom",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-grew-spacex-211051215.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-17T21:10:51Z"
+        },
+        {
           "title": "Worried About Nvidia? 3 Artificial Intelligence (AI) Stocks That May Be Safer Buys Right Now",
           "url": "https://finance.yahoo.com/technology/ai/articles/worried-nvidia-3-artificial-intelligence-205002726.html",
           "publisher": "Motley Fool",
@@ -79,12 +87,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-inc-avgo-ai-business-202141475.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-17T20:21:41Z"
-        },
-        {
-          "title": "Prediction: These 2 Stocks Will Be Worth More Than SpaceX 5 Years From Now",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-2-stocks-worth-more-185300323.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-17T18:53:00Z"
         }
       ]
     },
@@ -97,6 +99,12 @@
       "market_cap": 833176566164.9612,
       "headlines": [
         {
+          "title": "Billionaire David Tepper Grew His SpaceX Stake 17-Fold While Dumping AMD and Broadcom",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-grew-spacex-211051215.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-17T21:10:51Z"
+        },
+        {
           "title": "Prediction: These Will Be Nvidia\u2019s and AMD\u2019s Stock Prices by the End of 2027 (Hint: Only 1 Is a Buy).",
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-amd-stock-prices-194602677.html",
           "publisher": "Motley Fool",
@@ -107,12 +115,6 @@
           "url": "https://finance.yahoo.com/technology/articles/amd-stocks-decrease-1-62-190241595.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-17T19:02:41Z"
-        },
-        {
-          "title": "Is AMD Stock a Buy Amid the Uncertainty Around Nvidia?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-buy-amid-uncertainty-185602053.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-17T18:56:02Z"
         }
       ]
     },
@@ -281,34 +283,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-3-key-takeaways-long-182002104.html",
           "publisher": "Motley Fool",
           "published": "2026-11-14T18:20:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 109.8,
-      "previous_close": 108.17,
-      "change_pct": 1.51,
-      "market_cap": 15616381305.838364,
-      "headlines": [
-        {
-          "title": "SK hynix Down 23.1% in Three Months: Should You Buy, Hold or Sell?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-down-23-1-142800021.html",
-          "publisher": "Zacks",
-          "published": "2026-11-16T14:28:00Z"
-        },
-        {
-          "title": "Why Is Lattice Semiconductor (LSCC) Pushing Deeper Into Secure Industrial Edge Computing?",
-          "url": "https://finance.yahoo.com/technology/articles/why-lattice-semiconductor-lscc-pushing-151630576.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T15:16:30Z"
-        },
-        {
-          "title": "If You Invested $1000 in Lattice Semiconductor a Decade Ago, This is How Much It'd Be Worth Now",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/invested-1000-lattice-semiconductor-decade-123002391.html",
-          "publisher": "Zacks",
-          "published": "2026-11-13T12:30:02Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 63972.89,
-      "change_pct": -1.36
+      "price": 64002.75,
+      "change_pct": -1.32
     },
     {
       "label": "Gold",
-      "price": 3849.4,
-      "change_pct": -0.09
+      "price": 3852.1,
+      "change_pct": -0.02
     },
     {
       "label": "Nasdaq100",

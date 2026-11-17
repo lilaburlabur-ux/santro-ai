@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-17T15:14:10+00:00",
+  "as_of": "2026-11-17T15:29:10+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,13 +9,29 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "CRM",
+   "company": "Salesforce Inc",
+   "move_pct": -8.22,
+   "price": 197.17,
+   "volume": 2698227,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 56,
+   "direction": "down",
+   "why": "Global Retail Technology Market Report 2026 | Capitalize on AI, Cloud and Omnichannel Demand as Microsoft, Oracle, Salesforce and SAP Drive the Market to $338.55B by 2030",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/articles/global-retail-technology-market-report-142400930.html",
+   "published": "2026-11-17T14:24:00+00:00",
+   "sector": "AI Applications & Data Software"
+  },
+  {
+   "rank": 2,
    "ticker": "SNAP",
    "company": "Snap Inc",
-   "move_pct": 8.15,
-   "price": 5.51,
-   "volume": 14058292,
-   "volume_vs_avg": "~0.3x",
-   "heat_score": 55,
+   "move_pct": 7.17,
+   "price": 5.45,
+   "volume": 17831195,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 42,
    "direction": "up",
    "why": "CDE Solutions Leads the Way in EBT Chip Readiness as Nationwide SNAP Payment Modernization Accelerates",
    "catalyst_type": "momentum_narrative",
@@ -24,20 +40,36 @@
    "sector": "AI Platforms, Internet & AdTech"
   },
   {
-   "rank": 2,
-   "ticker": "CRM",
-   "company": "Salesforce Inc",
-   "move_pct": -7.42,
-   "price": 198.88,
-   "volume": 2070327,
+   "rank": 3,
+   "ticker": "NOW",
+   "company": "ServiceNow Inc",
+   "move_pct": -5.57,
+   "price": 93.83,
+   "volume": 4732601,
    "volume_vs_avg": "~0.3x",
-   "heat_score": 42,
+   "heat_score": 36,
    "direction": "down",
-   "why": "Global Retail Technology Market Report 2026 | Capitalize on AI, Cloud and Omnichannel Demand as Microsoft, Oracle, Salesforce and SAP Drive the Market to $338.55B by 2030",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/articles/global-retail-technology-market-report-142400930.html",
-   "published": "2026-11-17T14:24:00+00:00",
+   "why": "ServiceNow Sees AI Usage Surge as It Raises Annual Contract Value Target to $1.7 Billion",
+   "catalyst_type": "financing",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/servicenow-sees-ai-usage-surge-151532812.html",
+   "published": "2026-11-17T15:15:32+00:00",
    "sector": "AI Applications & Data Software"
+  },
+  {
+   "rank": 4,
+   "ticker": "RBRK",
+   "company": "Rubrik, Inc.",
+   "move_pct": -5.39,
+   "price": 100.31,
+   "volume": 583452,
+   "volume_vs_avg": "~0.2x",
+   "heat_score": 35,
+   "direction": "down",
+   "why": "Oppenheimer Adjusts Rubrik Price Target to $150 From $120, Maintains Outperform Rating",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-adjusts-rubrik-price-target-134620350.html",
+   "published": "2026-11-17T13:46:20+00:00",
+   "sector": "Cybersecurity"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-18T22:11:28+00:00",
-  "as_of_local": "2026-11-18 22:11:28 UTC",
+  "as_of_utc": "2026-11-18T22:16:27+00:00",
+  "as_of_local": "2026-11-18 22:16:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -181,6 +181,12 @@
       "market_cap": 195553194122.31445,
       "headlines": [
         {
+          "title": "Arm CEO Rene Haas Reportedly Approached By Recruitment Agency Hired By Nvidia Board",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-ceo-rene-haas-reportedly-220315171.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-18T22:03:15Z"
+        },
+        {
           "title": "Sector Update: Tech Stocks Retreat Late Afternoon",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-retreat-afternoon-204316548.html",
           "publisher": "MT Newswires",
@@ -191,12 +197,6 @@
           "url": "https://finance.yahoo.com/technology/articles/nvidia-reportedly-approaches-arm-ceo-194027391.html",
           "publisher": "Investing.com",
           "published": "2026-11-18T19:40:27Z"
-        },
-        {
-          "title": "AI Data Center Growth Might Change The Case For Investing In Arm (ARM)",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-data-center-growth-might-141236041.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-18T14:12:36Z"
         }
       ]
     },
@@ -579,9 +579,14 @@
   },
   "tape": [
     {
+      "label": "SPX",
+      "price": 7323.63,
+      "change_pct": -0.23
+    },
+    {
       "label": "BTC",
-      "price": 62302.33,
-      "change_pct": -3.99
+      "price": 62330.63,
+      "change_pct": -3.95
     },
     {
       "label": "Gold",

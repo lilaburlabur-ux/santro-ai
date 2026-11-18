@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-18T09:53:04+00:00",
+  "as_of": "2026-11-18T10:08:32+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "DELL",
+   "company": "Dell Technologies Inc",
+   "move_pct": 5.02,
+   "price": 338.98,
+   "volume": 7191400,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 37,
+   "direction": "up",
+   "why": "Dell Stock Has Doubled Since Our Initial Pick. Now It\u2019s Time to Sell.",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/m/9888a8b6-1438-3ffa-a7a5-db985885ae17/dell-stock-has-doubled-since.html",
+   "published": "2026-11-18T08:12:00+00:00",
+   "sector": "Chip Equipment & AI Hardware"
+  }
+ ]
 }

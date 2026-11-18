@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-18T14:01:58+00:00",
-  "as_of_local": "2026-11-18 14:01:58 UTC",
+  "as_of_utc": "2026-11-18T14:07:28+00:00",
+  "as_of_local": "2026-11-18 14:07:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -81,6 +79,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-27-billion-advantage-over-134505120.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-18T13:45:05Z"
+        },
+        {
+          "title": "Is Broadcom Stock Increasing Your Market Risk?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-increasing-market-risk-132835484.html",
+          "publisher": "Trefis",
+          "published": "2026-11-18T13:28:35Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 503.41,
+      "previous_close": 504.28,
+      "change_pct": -0.17,
+      "market_cap": 833176566164.9612,
+      "headlines": [
+        {
+          "title": "AMD, Broadcom, CoreWeave stocks rise on Nvidia Q3 earnings beat",
+          "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-17T22:01:59Z"
+        },
+        {
+          "title": "NVIDIA Just Cut Its Intel Stake. Intel Is Down 40% in a Month. Where\u2019s the Stock Headed?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-cut-intel-stake-134758211.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-18T13:47:58Z"
         },
         {
           "title": "Is Broadcom Stock Increasing Your Market Risk?",
@@ -553,19 +579,14 @@
   },
   "tape": [
     {
-      "label": "SPX",
-      "price": 7340.53,
-      "change_pct": -1.03
-    },
-    {
       "label": "BTC",
-      "price": 63877.83,
-      "change_pct": -1.57
+      "price": 63881.42,
+      "change_pct": -1.56
     },
     {
       "label": "Gold",
-      "price": 3791.5,
-      "change_pct": -1.88
+      "price": 3788.7,
+      "change_pct": -1.95
     },
     {
       "label": "Nasdaq100",

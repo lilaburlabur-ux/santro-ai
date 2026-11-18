@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-18T21:05:00+00:00",
-  "as_of_local": "2026-11-18 21:05:00 UTC",
+  "as_of_utc": "2026-11-18T21:09:59+00:00",
+  "as_of_local": "2026-11-18 21:09:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -175,6 +173,34 @@
       ]
     },
     {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 182.76,
+      "previous_close": 183.39,
+      "change_pct": -0.34,
+      "market_cap": 195553194122.31445,
+      "headlines": [
+        {
+          "title": "Sector Update: Tech Stocks Retreat Late Afternoon",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-retreat-afternoon-204316548.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-18T20:43:16Z"
+        },
+        {
+          "title": "Nvidia reportedly approaches Arm CEO Rene Haas for top job after Jensen Huang exit",
+          "url": "https://finance.yahoo.com/technology/articles/nvidia-reportedly-approaches-arm-ceo-194027391.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-18T19:40:27Z"
+        },
+        {
+          "title": "AI Data Center Growth Might Change The Case For Investing In Arm (ARM)",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-data-center-growth-might-141236041.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-18T14:12:36Z"
+        }
+      ]
+    },
+    {
       "symbol": "QCOM",
       "name": "Qualcomm",
       "price": 159.81,
@@ -182,6 +208,12 @@
       "change_pct": -4.12,
       "market_cap": 170996697387.6953,
       "headlines": [
+        {
+          "title": "Tech layoffs flare up in San Diego with hundreds of layoffs at chipmaker",
+          "url": "https://finance.yahoo.com/technology/articles/tech-layoffs-flare-san-diego-204523059.html",
+          "publisher": "LA Times",
+          "published": "2026-11-18T20:45:23Z"
+        },
         {
           "title": "Tech giant worth $170B axes hundreds of California jobs as CEO demands \u2018the right people\u2019 in ruthless cull",
           "url": "https://finance.yahoo.com/technology/articles/tech-giant-worth-170b-axes-203809405.html",
@@ -193,12 +225,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/could-qualcomm-actually-climb-85-195025079.html",
           "publisher": "TIKR",
           "published": "2026-11-18T19:50:25Z"
-        },
-        {
-          "title": "Baird cuts Qualcomm estimates over potential loss of ByteDance chip business",
-          "url": "https://finance.yahoo.com/technology/ai/articles/baird-cuts-qualcomm-estimates-over-182800092.html",
-          "publisher": "Proactive",
-          "published": "2026-11-18T18:28:00Z"
         }
       ]
     },
@@ -437,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 1.72,
-          "price": 288.19,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -527,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 1.72,
-        "price": 288.19,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -554,18 +580,18 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7323.64,
+      "price": 7323.63,
       "change_pct": -0.23
     },
     {
       "label": "BTC",
-      "price": 62509.99,
-      "change_pct": -3.67
+      "price": 62433.68,
+      "change_pct": -3.79
     },
     {
       "label": "Gold",
-      "price": 3732.9,
-      "change_pct": -3.4
+      "price": 3727.1,
+      "change_pct": -3.55
     },
     {
       "label": "Nasdaq100",

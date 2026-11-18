@@ -4,8 +4,8 @@ Signed file: `LSCC.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $109.80 (2026-11-18, ~15-min delayed) |
-| Market cap | $15.62B |
+| Current price | $111.08 (2026-11-18, ~15-min delayed) |
+| Market cap | $15.80B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `LSCC.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +71.08%; price -6.36% vs SMA200. |
-| Fresh setup quality | Poor / broken | -29.28% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +79.94%; price -5.39% vs SMA200. |
+| Fresh setup quality | Poor / broken | -28.46% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 5.53%, revenue growth 118.30%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 25.02, EV/Sales 20.29. |
-| Risk level | High | Beta 1.91, ATR 7.1% of price, short float 9.26%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 25.31, EV/Sales 20.29. |
+| Risk level | High | Beta 1.91, ATR 6.9% of price, short float 9.26%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
 
@@ -44,22 +44,22 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $109.80; 52w high $155.27 (-29.28%); 52w low $61.73 (+77.87%) |
-| Trend | -6.36% vs SMA200, -3.42% vs SMA50, +4.02% vs SMA20 |
-| Momentum | RSI(14) 49.7 (neutral) |
-| Volatility | ATR(14) 7.84 (~7.1% of price); beta 1.91 |
-| Setup perspective | -29.28% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $111.08; 52w high $155.27 (-28.46%); 52w low $63.93 (+73.75%) |
+| Trend | -5.39% vs SMA200, -2.21% vs SMA50, +5.07% vs SMA20 |
+| Momentum | RSI(14) 50.7 (neutral) |
+| Volatility | ATR(14) 7.61 (~6.9% of price); beta 1.91 |
+| Setup perspective | -28.46% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.3% |
-| Month | +1.0% |
-| Quarter | -6.7% |
-| Half Y | -11.6% |
-| 1Y | +71.1% |
-| YTD | +39.6% |
+| Week | -9.5% |
+| Month | +3.4% |
+| Quarter | -5.5% |
+| Half Y | -19.9% |
+| 1Y | +79.9% |
+| YTD | +41.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Revenue (ttm) | $808.80M | Revenue growth 118.30% y/y |
 | Profitability | Gross 69.49%, operating 13.09%, net 5.53% | ROA 3.83%, ROE 4.21% |
 | Balance sheet | Cash $128.28M, debt $925.31M | Current ratio 1.92, debt/equity 65.29 |
-| Valuation | P/E 354.19, forward P/E 25.02, P/S 19.31, P/B 11.01 | EV/Sales 20.29, EV/EBITDA 103.57 |
+| Valuation | P/E 358.32, forward P/E 25.31, P/S 19.53, P/B 11.14 | EV/Sales 20.29, EV/EBITDA 103.57 |
 | Growth expectations | Earnings growth 297.80%, EPS q/q 301.10% | Analyst mean target $156.19 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 108.34% |
+| Institutional ownership | 107.97% |
 | Insider ownership | 0.58% |
 | Short float | 9.26% |
 | Short ratio (days to cover) | 3.5 |
@@ -95,8 +95,8 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | Thomas H Lee Partners LP | 4,713,306 | 3.31% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 25.02, EV/Sales 20.29. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.91, ATR 7.1% of price, short float 9.26%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 25.31, EV/Sales 20.29. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.91, ATR 6.9% of price, short float 9.26%. Size positions accordingly.
 - **Short interest risk:** short float 9.26% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -113,21 +113,21 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $109.80 | EV/Sales | 20.29 |
-| Market cap | $15.62B | EV/EBITDA | 103.57 |
+| Price | $111.08 | EV/Sales | 20.29 |
+| Market cap | $15.80B | EV/EBITDA | 103.57 |
 | Beta | 1.91 | Gross margin | 69.49% |
-| RSI(14) | 49.7 | Operating margin | 13.09% |
-| ATR(14) | 7.84 | Profit margin | 5.53% |
-| SMA20 dist | +4.02% | ROA | 3.83% |
-| SMA50 dist | -3.42% | ROE | 4.21% |
-| SMA200 dist | -6.36% | Revenue (ttm) | $808.80M |
+| RSI(14) | 50.7 | Operating margin | 13.09% |
+| ATR(14) | 7.61 | Profit margin | 5.53% |
+| SMA20 dist | +5.07% | ROA | 3.83% |
+| SMA50 dist | -2.21% | ROE | 4.21% |
+| SMA200 dist | -5.39% | Revenue (ttm) | $808.80M |
 | 52W high | $155.27 | Revenue growth y/y | 118.30% |
-| 52W low | $61.73 | Inst. ownership | 108.34% |
-| P/E (ttm) | 354.19 | Insider ownership | 0.58% |
-| Forward P/E | 25.02 | Short float | 9.26% |
-| PEG (trailing) | — | Avg volume | 2,053,192 |
-| P/S | 19.31 | Employees | 1,174 |
-| P/B | 11.01 | Analyst rec (1=buy..5=sell) | 1.4 |
+| 52W low | $63.93 | Inst. ownership | 107.97% |
+| P/E (ttm) | 358.32 | Insider ownership | 0.58% |
+| Forward P/E | 25.31 | Short float | 9.26% |
+| PEG (trailing) | — | Avg volume | 2,060,973 |
+| P/S | 19.53 | Employees | 1,174 |
+| P/B | 11.14 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

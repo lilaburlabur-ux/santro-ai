@@ -4,8 +4,8 @@ Signed file: `INTC.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $55.17 (2026-11-18, ~15-min delayed) |
-| Market cap | $293.23B |
+| Current price | $54.19 (2026-11-18, ~15-min delayed) |
+| Market cap | $288.05B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `INTC.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-36.93%) with negative half-year (-50.21%). |
-| Fresh setup quality | Poor / broken | -60.86% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-38.06%) with negative half-year (-54.44%). |
+| Fresh setup quality | Poor / broken | -61.55% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-20.09%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 30.81, EV/Sales 5.11. |
-| Risk level | High | Beta 2.43, ATR 9.9% of price, short float 2.88%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 30.27, EV/Sales 5.11. |
+| Risk level | High | Beta 2.43, ATR 9.7% of price, short float 2.88%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
 
@@ -36,30 +36,30 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia earnings spark after-hours rally in chipmakers, neocloud stocks | Investing.com | 2026-11-18 |
-| Intel Stock Has Given Back About 60% Since June. Is It a Buy Now? | Motley Fool | 2026-11-17 |
-| Nvidia, Other Chip Stocks Climb After Hours | The Wall Street Journal | 2026-11-17 |
-| Earnings Boost Other Chip and AI Stocks | Barrons.com | 2026-11-17 |
+| Nvidia's $130 Billion Forecast Sparks Fresh AI Stock Rally | GuruFocus.com | 2026-11-18 |
+| Microsoft, Intel Deepen Azure Partnership Amid Increasing AI, Cloud Demand | Stocktwits | 2026-11-18 |
+| Why Micron's Cheap P/E Has Often Meant A Peak | Trefis | 2026-11-18 |
+| Is Nvidia's Margin Lead Over AMD Shrinking? | Trefis | 2026-11-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $55.17; 52w high $140.94 (-60.86%); 52w low $33.62 (+64.10%) |
-| Trend | -36.93% vs SMA200, -40.79% vs SMA50, -21.29% vs SMA20 |
-| Momentum | RSI(14) 29.7 (oversold) |
-| Volatility | ATR(14) 5.47 (~9.9% of price); beta 2.43 |
-| Setup perspective | -60.86% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $54.19; 52w high $140.94 (-61.55%); 52w low $33.62 (+61.20%) |
+| Trend | -38.06% vs SMA200, -41.18% vs SMA50, -20.48% vs SMA20 |
+| Momentum | RSI(14) 29.1 (oversold) |
+| Volatility | ATR(14) 5.26 (~9.7% of price); beta 2.43 |
+| Setup perspective | -61.55% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.1% |
-| Month | -40.1% |
-| Quarter | -40.5% |
-| Half Y | -50.2% |
-| 1Y | +55.3% |
-| YTD | +40.1% |
+| Week | -13.3% |
+| Month | -40.9% |
+| Quarter | -41.2% |
+| Half Y | -54.4% |
+| 1Y | +56.1% |
+| YTD | +37.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $59.89B | Revenue growth 20.90% y/y |
 | Profitability | Gross 40.15%, operating 10.32%, net -20.09% | ROA 1.78%, ROE -9.62% |
 | Balance sheet | Cash $54.00B, debt $50.13B | Current ratio 2.21, debt/equity 38.11 |
-| Valuation | P/E —, forward P/E 30.81, P/S 4.90, P/B 2.55 | EV/Sales 5.11, EV/EBITDA 15.99 |
+| Valuation | P/E —, forward P/E 30.27, P/S 4.81, P/B 2.50 | EV/Sales 5.11, EV/EBITDA 15.99 |
 | Growth expectations | Earnings growth -32.70%, EPS q/q -18.30% | Analyst mean target $90.65 (43 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 68.73% |
+| Institutional ownership | 68.74% |
 | Insider ownership | 12.91% |
 | Short float | 2.88% |
 | Short ratio (days to cover) | 1.3 |
@@ -95,8 +95,8 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Softbank Group Corporation | 86,956,522 | 1.64% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 30.81, EV/Sales 5.11. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.43, ATR 9.9% of price, short float 2.88%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 30.27, EV/Sales 5.11. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.43, ATR 9.7% of price, short float 2.88%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -113,21 +113,21 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $55.17 | EV/Sales | 5.11 |
-| Market cap | $293.23B | EV/EBITDA | 15.99 |
+| Price | $54.19 | EV/Sales | 5.11 |
+| Market cap | $288.05B | EV/EBITDA | 15.99 |
 | Beta | 2.43 | Gross margin | 40.15% |
-| RSI(14) | 29.7 | Operating margin | 10.32% |
-| ATR(14) | 5.47 | Profit margin | -20.09% |
-| SMA20 dist | -21.29% | ROA | 1.78% |
-| SMA50 dist | -40.79% | ROE | -9.62% |
-| SMA200 dist | -36.93% | Revenue (ttm) | $59.89B |
+| RSI(14) | 29.1 | Operating margin | 10.32% |
+| ATR(14) | 5.26 | Profit margin | -20.09% |
+| SMA20 dist | -20.48% | ROA | 1.78% |
+| SMA50 dist | -41.18% | ROE | -9.62% |
+| SMA200 dist | -38.06% | Revenue (ttm) | $59.89B |
 | 52W high | $140.94 | Revenue growth y/y | 20.90% |
-| 52W low | $33.62 | Inst. ownership | 68.73% |
+| 52W low | $33.62 | Inst. ownership | 68.74% |
 | P/E (ttm) | — | Insider ownership | 12.91% |
-| Forward P/E | 30.81 | Short float | 2.88% |
-| PEG (trailing) | — | Avg volume | 115,405,264 |
-| P/S | 4.90 | Employees | 81,100 |
-| P/B | 2.55 | Analyst rec (1=buy..5=sell) | 2.5 |
+| Forward P/E | 30.27 | Short float | 2.88% |
+| PEG (trailing) | — | Avg volume | 115,118,090 |
+| P/S | 4.81 | Employees | 81,100 |
+| P/B | 2.50 | Analyst rec (1=buy..5=sell) | 2.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

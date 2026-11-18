@@ -4,8 +4,8 @@ Signed file: `MU.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $712.42 (2026-11-18, ~15-min delayed) |
-| Market cap | $806.05B |
+| Current price | $697.82 (2026-11-18, ~15-min delayed) |
+| Market cap | $789.52B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `MU.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +188.96%; price -7.27% vs SMA200. |
-| Fresh setup quality | Poor / broken | -41.28% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +188.74%; price -9.34% vs SMA200. |
+| Fresh setup quality | Poor / broken | -42.48% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 63.80%, revenue growth 379.30%. |
-| Value attractiveness | Reasonable | Forward P/E 3.43, EV/Sales 5.76. |
-| Risk level | High | Beta 2.40, ATR 8.3% of price, short float 2.07%. |
+| Value attractiveness | Reasonable | Forward P/E 3.36, EV/Sales 5.76. |
+| Risk level | High | Beta 2.40, ATR 8.2% of price, short float 2.07%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 
 | Headline | Source | Date |
 |---|---|---|
-| Micron Technology (MU) Keeps DRAM Price Fixing Lawsuit Alive After Judge Rejection | Simply Wall St. | 2026-11-18 |
-| Is SK Hynix the Better Artificial Intelligence (AI) Memory Stock Compared With Micron? | Motley Fool | 2026-11-17 |
-| Nvidia, Other Chip Stocks Climb After Hours | The Wall Street Journal | 2026-11-17 |
-| Billionaire David Tepper Grew His SpaceX Stake 17-Fold While Dumping AMD and Broadcom | 24/7 Wall St. | 2026-11-17 |
+| Micron Stocks Rise 1.7% as Nvidia's Supply Commitments Jump to $390 Billion | GuruFocus.com | 2026-11-18 |
+| Nvidia’s Annual GPU Upgrades Are Changing the HBM Investment Outlook | 24/7 Wall St. | 2026-11-18 |
+| Not Micron, Not Sandisk. This Is My Top Memory Stock for 2027. | Motley Fool | 2026-11-18 |
+| 3 Catalysts Set to Boost Micron Stock, Beyond Strong AI Earnings | Barrons.com | 2026-11-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $712.42; 52w high $1,213.18 (-41.28%); 52w low $201.14 (+254.19%) |
-| Trend | -7.27% vs SMA200, -23.56% vs SMA50, -13.07% vs SMA20 |
-| Momentum | RSI(14) 37.5 (neutral) |
-| Volatility | ATR(14) 59.24 (~8.3% of price); beta 2.40 |
-| Setup perspective | -41.28% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $697.82; 52w high $1,213.18 (-42.48%); 52w low $201.14 (+246.93%) |
+| Trend | -9.34% vs SMA200, -24.59% vs SMA50, -13.71% vs SMA20 |
+| Momentum | RSI(14) 36.5 (neutral) |
+| Volatility | ATR(14) 57.56 (~8.2% of price); beta 2.40 |
+| Setup perspective | -42.48% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.8% |
-| Month | -21.3% |
-| Quarter | -24.0% |
-| Half Y | +2.0% |
-| 1Y | +189.0% |
-| YTD | +126.0% |
+| Week | -14.0% |
+| Month | -22.1% |
+| Quarter | -28.4% |
+| Half Y | -4.6% |
+| 1Y | +188.7% |
+| YTD | +121.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 | Revenue (ttm) | $133.19B | Revenue growth 379.30% y/y |
 | Profitability | Gross 80.72%, operating 74.59%, net 63.80% | ROA 44.56%, ROE 88.26% |
 | Balance sheet | Cash $43.43B, debt $5.18B | Current ratio 3.31, debt/equity 3.74 |
-| Valuation | P/E 9.58, forward P/E 3.43, P/S 6.05, P/B 5.82 | EV/Sales 5.76, EV/EBITDA 7.05 |
+| Valuation | P/E 9.39, forward P/E 3.36, P/S 5.93, P/B 5.70 | EV/Sales 5.76, EV/EBITDA 7.05 |
 | Growth expectations | Earnings growth 1059.50%, EPS q/q 1077.80% | Analyst mean target $1,561.91 (45 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 79.45% |
+| Institutional ownership | 79.44% |
 | Insider ownership | 0.27% |
 | Short float | 2.07% |
 | Short ratio (days to cover) | 0.9 |
@@ -95,7 +95,7 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 | Primecap Management Company | 18,621,420 | 1.65% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.40, ATR 8.3% of price, short float 2.07%. Size positions accordingly.
+- **Volatility risk:** Beta 2.40, ATR 8.2% of price, short float 2.07%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,21 +111,21 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $712.42 | EV/Sales | 5.76 |
-| Market cap | $806.05B | EV/EBITDA | 7.05 |
+| Price | $697.82 | EV/Sales | 5.76 |
+| Market cap | $789.52B | EV/EBITDA | 7.05 |
 | Beta | 2.40 | Gross margin | 80.72% |
-| RSI(14) | 37.5 | Operating margin | 74.59% |
-| ATR(14) | 59.24 | Profit margin | 63.80% |
-| SMA20 dist | -13.07% | ROA | 44.56% |
-| SMA50 dist | -23.56% | ROE | 88.26% |
-| SMA200 dist | -7.27% | Revenue (ttm) | $133.19B |
+| RSI(14) | 36.5 | Operating margin | 74.59% |
+| ATR(14) | 57.56 | Profit margin | 63.80% |
+| SMA20 dist | -13.71% | ROA | 44.56% |
+| SMA50 dist | -24.59% | ROE | 88.26% |
+| SMA200 dist | -9.34% | Revenue (ttm) | $133.19B |
 | 52W high | $1,213.18 | Revenue growth y/y | 379.30% |
-| 52W low | $201.14 | Inst. ownership | 79.45% |
-| P/E (ttm) | 9.58 | Insider ownership | 0.27% |
-| Forward P/E | 3.43 | Short float | 2.07% |
-| PEG (trailing) | 0.16 | Avg volume | 27,593,550 |
-| P/S | 6.05 | Employees | 61,000 |
-| P/B | 5.82 | Analyst rec (1=buy..5=sell) | 1.3 |
+| 52W low | $201.14 | Inst. ownership | 79.44% |
+| P/E (ttm) | 9.39 | Insider ownership | 0.27% |
+| Forward P/E | 3.36 | Short float | 2.07% |
+| PEG (trailing) | 0.16 | Avg volume | 27,525,153 |
+| P/S | 5.93 | Employees | 61,000 |
+| P/B | 5.70 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

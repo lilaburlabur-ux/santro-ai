@@ -4,24 +4,24 @@ Signed file: `MRVL.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $148.74 (2026-11-18, ~15-min delayed) |
-| Market cap | $133.83B |
+| Current price | $144.04 (2026-11-18, ~15-min delayed) |
+| Market cap | $129.60B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
+| Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-18.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +72.34%; price -20.72% vs SMA200. |
-| Fresh setup quality | Poor / broken | -52.97% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +72.89%; price -23.37% vs SMA200. |
+| Fresh setup quality | Poor / broken | -54.46% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 27.93%, revenue growth 36.50%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.18, EV/Sales 13.95. |
+| Value attractiveness | Reasonable | Forward P/E 19.54, EV/Sales 13.95. |
 | Risk level | High | Beta 2.33, ATR 11.0% of price, short float 3.48%. |
 
-**Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia Signals AI Financing Flywheel Will Continue, But ‘Disciplined’: Analyst Calls Neoclouds Its ‘Biggest Sustained Bet’ As NBIS, IREN, MRVL Rally | Stocktwits | 2026-11-18 |
-| Credo, Marvell settle intellectual property battle over data center cable tech | Investing.com | 2026-11-17 |
-| Nvidia, Intel, Salesforce, SpaceX, Anthropic, Sandisk, Home Depot, and More That Explain Today’s Market | Barrons.com | 2026-11-17 |
-| Marvell Technology (MRVL) Gains As Market Dips: What You Should Know | Zacks | 2026-11-17 |
+| Lumentum Is Down 33% in a Month as Marvell’s Slide Shrinks Its Buyout Value. Can LITE Stock Get Back to Bernstein’s $700 Target? | 24/7 Wall St. | 2026-11-18 |
+| Credo Technology Stock Jumps After Reaching Major Patent Deal With Marvell | GuruFocus.com | 2026-11-18 |
+| Could Qualcomm Actually Climb 85%? Or Is Baird Totally Wrong? | TIKR | 2026-11-18 |
+| Credo Stocks Rise 3.15% Premarket After Settling AEC Patent Fight With Marvell | GuruFocus.com | 2026-11-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $148.74; 52w high $316.28 (-52.97%); 52w low $73.66 (+101.93%) |
-| Trend | -20.72% vs SMA200, -34.21% vs SMA50, -19.85% vs SMA20 |
-| Momentum | RSI(14) 34.2 (neutral) |
-| Volatility | ATR(14) 16.37 (~11.0% of price); beta 2.33 |
-| Setup perspective | -52.97% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $144.04; 52w high $316.28 (-54.46%); 52w low $73.66 (+95.54%) |
+| Trend | -23.37% vs SMA200, -35.77% vs SMA50, -20.22% vs SMA20 |
+| Momentum | RSI(14) 33.0 (neutral) |
+| Volatility | ATR(14) 15.88 (~11.0% of price); beta 2.33 |
+| Setup perspective | -54.46% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.7% |
-| Month | -37.3% |
-| Quarter | -37.3% |
-| Half Y | -15.6% |
-| 1Y | +72.3% |
-| YTD | +66.7% |
+| Week | -14.7% |
+| Month | -40.1% |
+| Quarter | -42.6% |
+| Half Y | -22.9% |
+| 1Y | +72.9% |
+| YTD | +61.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $9.45B | Revenue growth 36.50% y/y |
 | Profitability | Gross 52.22%, operating 16.81%, net 27.93% | ROA 4.12%, ROE 16.52% |
 | Balance sheet | Cash $3.93B, debt $5.29B | Current ratio 3.17, debt/equity 28.52 |
-| Valuation | P/E 48.93, forward P/E 20.18, P/S 14.16, P/B 7.04 | EV/Sales 13.95, EV/EBITDA 46.23 |
+| Valuation | P/E 47.38, forward P/E 19.54, P/S 13.71, P/B 6.81 | EV/Sales 13.95, EV/EBITDA 46.23 |
 | Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $310.89 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 80.05% |
+| Institutional ownership | 80.04% |
 | Insider ownership | 0.53% |
 | Short float | 3.48% |
 | Short ratio (days to cover) | 1.2 |
@@ -90,12 +90,11 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Invesco Ltd. | 33,677,224 | 3.84% | 2026-09-30 |
 | Geode Capital Management, LLC | 21,684,849 | 2.47% | 2026-09-30 |
 | Vanguard Portfolio Management LLC | 21,017,814 | 2.40% | 2026-09-30 |
-| NORGES BANK | 14,201,483 | 1.62% | 2026-06-30 |
 | Goldman Sachs Group Inc | 13,597,258 | 1.55% | 2026-09-30 |
 | Van Eck Associates Corporation | 13,574,478 | 1.55% | 2026-09-30 |
+| JPMORGAN CHASE & CO | 12,743,860 | 1.45% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.18, EV/Sales 13.95. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.33, ATR 11.0% of price, short float 3.48%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -112,21 +111,21 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $148.74 | EV/Sales | 13.95 |
-| Market cap | $133.83B | EV/EBITDA | 46.23 |
+| Price | $144.04 | EV/Sales | 13.95 |
+| Market cap | $129.60B | EV/EBITDA | 46.23 |
 | Beta | 2.33 | Gross margin | 52.22% |
-| RSI(14) | 34.2 | Operating margin | 16.81% |
-| ATR(14) | 16.37 | Profit margin | 27.93% |
-| SMA20 dist | -19.85% | ROA | 4.12% |
-| SMA50 dist | -34.21% | ROE | 16.52% |
-| SMA200 dist | -20.72% | Revenue (ttm) | $9.45B |
+| RSI(14) | 33.0 | Operating margin | 16.81% |
+| ATR(14) | 15.88 | Profit margin | 27.93% |
+| SMA20 dist | -20.22% | ROA | 4.12% |
+| SMA50 dist | -35.77% | ROE | 16.52% |
+| SMA200 dist | -23.37% | Revenue (ttm) | $9.45B |
 | 52W high | $316.28 | Revenue growth y/y | 36.50% |
-| 52W low | $73.66 | Inst. ownership | 80.05% |
-| P/E (ttm) | 48.93 | Insider ownership | 0.53% |
-| Forward P/E | 20.18 | Short float | 3.48% |
-| PEG (trailing) | 0.36 | Avg volume | 24,601,412 |
-| P/S | 14.16 | Employees | 7,480 |
-| P/B | 7.04 | Analyst rec (1=buy..5=sell) | 1.4 |
+| 52W low | $73.66 | Inst. ownership | 80.04% |
+| P/E (ttm) | 47.38 | Insider ownership | 0.53% |
+| Forward P/E | 19.54 | Short float | 3.48% |
+| PEG (trailing) | 0.37 | Avg volume | 24,615,539 |
+| P/S | 13.71 | Employees | 7,480 |
+| P/B | 6.81 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -141,7 +140,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | 2026-11-03 | main | Cantor Fitzgerald | Neutral → Neutral |
 
 ## 9. Conclusion
-MRVL: High momentum / strong fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+MRVL: High momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

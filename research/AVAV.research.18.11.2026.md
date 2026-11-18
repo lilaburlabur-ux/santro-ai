@@ -4,8 +4,8 @@ Signed file: `AVAV.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $104.42 (2026-11-18, ~15-min delayed) |
-| Market cap | $5.31B |
+| Current price | $102.07 (2026-11-18, ~15-min delayed) |
+| Market cap | $5.19B |
 | Sector / Industry | Industrials / Aerospace & Defense |
 | Main theme | Aerospace & Defense — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `AVAV.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-39.78%) with negative half-year (-34.83%). |
-| Fresh setup quality | Poor / broken | -73.42% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-40.83%) with negative half-year (-37.72%). |
+| Fresh setup quality | Poor / broken | -74.02% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-10.13%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 23.69, EV/Sales 2.77. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 23.15, EV/Sales 2.77. |
 | Risk level | High | Beta 1.40, ATR 7.6% of price, short float 13.32%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
@@ -36,30 +36,30 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 | Headline | Source | Date |
 |---|---|---|
+| Has AeroVironment (AVAV) Fallen Enough For Its Sales Story? | Simply Wall St. | 2026-11-18 |
+| Red Cat Falls 6% as Post-Earnings Selloff Extends; Unusual Machines Slides 3%, AeroVironment Drops 2% | 24/7 Wall St. | 2026-11-18 |
 | Can Draganfly's Canadian Defense Selection Drive Its Growth Prospects? | Zacks | 2026-11-17 |
 | ONDS Raises 2026 Outlook as Backlog and Defense Demand Accelerate | Zacks | 2026-11-17 |
-| ONDS Drops 22.3% in the Past Month as Execution Risks Cloud Growth | Zacks | 2026-11-17 |
-| Is ONDS Worth Buying as Hypergrowth Battles Margins and M&A Risks | Zacks | 2026-11-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $104.42; 52w high $392.86 (-73.42%); 52w low $102.08 (+2.29%) |
-| Trend | -39.78% vs SMA200, -21.81% vs SMA50, -12.96% vs SMA20 |
-| Momentum | RSI(14) 35.9 (neutral) |
-| Volatility | ATR(14) 7.92 (~7.6% of price); beta 1.40 |
-| Setup perspective | -73.42% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $102.07; 52w high $392.86 (-74.02%); 52w low $102.07 (+0.00%) |
+| Trend | -40.83% vs SMA200, -23.13% vs SMA50, -14.37% vs SMA20 |
+| Momentum | RSI(14) 34.7 (neutral) |
+| Volatility | ATR(14) 7.76 (~7.6% of price); beta 1.40 |
+| Setup perspective | -74.02% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -15.4% |
-| Month | -11.4% |
-| Quarter | -39.6% |
-| Half Y | -34.8% |
-| 1Y | -64.1% |
-| YTD | -59.2% |
+| Week | -18.0% |
+| Month | -13.2% |
+| Quarter | -36.1% |
+| Half Y | -37.7% |
+| 1Y | -64.0% |
+| YTD | -60.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Revenue (ttm) | $2.00B | Revenue growth 5.70% y/y |
 | Profitability | Gross 26.47%, operating -0.60%, net -10.13% | ROA -0.13%, ROE -4.60% |
 | Balance sheet | Cash $580.23M, debt $850.82M | Current ratio 4.26, debt/equity 19.35 |
-| Valuation | P/E —, forward P/E 23.69, P/S 2.65, P/B 1.20 | EV/Sales 2.77, EV/EBITDA 25.40 |
+| Valuation | P/E —, forward P/E 23.15, P/S 2.59, P/B 1.18 | EV/Sales 2.77, EV/EBITDA 25.40 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $212.20 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 91.19% |
+| Institutional ownership | 91.26% |
 | Insider ownership | 0.90% |
 | Short float | 13.32% |
 | Short ratio (days to cover) | 3.6 |
@@ -95,7 +95,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Alyeska Investment Group, L.p. | 639,382 | 1.26% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 23.69, EV/Sales 2.77. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 23.15, EV/Sales 2.77. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.40, ATR 7.6% of price, short float 13.32%. Size positions accordingly.
 - **Short interest risk:** short float 13.32% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
@@ -114,21 +114,21 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $104.42 | EV/Sales | 2.77 |
-| Market cap | $5.31B | EV/EBITDA | 25.40 |
+| Price | $102.07 | EV/Sales | 2.77 |
+| Market cap | $5.19B | EV/EBITDA | 25.40 |
 | Beta | 1.40 | Gross margin | 26.47% |
-| RSI(14) | 35.9 | Operating margin | -0.60% |
-| ATR(14) | 7.92 | Profit margin | -10.13% |
-| SMA20 dist | -12.96% | ROA | -0.13% |
-| SMA50 dist | -21.81% | ROE | -4.60% |
-| SMA200 dist | -39.78% | Revenue (ttm) | $2.00B |
+| RSI(14) | 34.7 | Operating margin | -0.60% |
+| ATR(14) | 7.76 | Profit margin | -10.13% |
+| SMA20 dist | -14.37% | ROA | -0.13% |
+| SMA50 dist | -23.13% | ROE | -4.60% |
+| SMA200 dist | -40.83% | Revenue (ttm) | $2.00B |
 | 52W high | $392.86 | Revenue growth y/y | 5.70% |
-| 52W low | $102.08 | Inst. ownership | 91.19% |
+| 52W low | $102.07 | Inst. ownership | 91.26% |
 | P/E (ttm) | — | Insider ownership | 0.90% |
-| Forward P/E | 23.69 | Short float | 13.32% |
-| PEG (trailing) | 0.95 | Avg volume | 1,656,884 |
-| P/S | 2.65 | Employees | 3,991 |
-| P/B | 1.20 | Analyst rec (1=buy..5=sell) | 1.7 |
+| Forward P/E | 23.15 | Short float | 13.32% |
+| PEG (trailing) | 0.90 | Avg volume | 1,665,268 |
+| P/S | 2.59 | Employees | 3,991 |
+| P/B | 1.18 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

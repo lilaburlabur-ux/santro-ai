@@ -4,8 +4,8 @@ Signed file: `NXPI.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $252.51 (2026-11-18, ~15-min delayed) |
-| Market cap | $63.65B |
+| Current price | $251.40 (2026-11-18, ~15-min delayed) |
+| Market cap | $63.37B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `NXPI.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +30.38%; price +2.37% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -23.50% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +34.29%; price +1.85% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -23.83% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 23.39%, revenue growth 19.30%. |
-| Value attractiveness | Reasonable | Forward P/E 13.76, EV/Sales 5.15. |
+| Value attractiveness | Reasonable | Forward P/E 13.70, EV/Sales 5.15. |
 | Risk level | Elevated | Beta 1.86, ATR 4.7% of price, short float 2.75%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -36,30 +36,30 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
+| Where Did Texas Instruments Fall Behind Analog Devices? | Trefis | 2026-11-18 |
+| First Trust NASDAQ-100 Tech (QTEC) Sells $5.0 Million More Applovin on Nov. 16 | GuruFocus.com | 2026-11-18 |
 | What Is Monolithic Power Systems No Longer Telling You? | Trefis | 2026-11-17 |
 | Should You Buy The Dip In Semtech Stock Now? | Trefis | 2026-11-16 |
-| NXP: 3 Key Takeaways for Long-Term Investors | Motley Fool | 2026-11-14 |
-| Why Did Texas Instruments Stock Beat NXP Over Five Years? | Trefis | 2026-11-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $252.51; 52w high $330.06 (-23.50%); 52w low $180.99 (+39.51%) |
-| Trend | +2.37% vs SMA200, +4.77% vs SMA50, -0.90% vs SMA20 |
-| Momentum | RSI(14) 50.9 (neutral) |
-| Volatility | ATR(14) 11.97 (~4.7% of price); beta 1.86 |
-| Setup perspective | -23.50% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $251.40; 52w high $330.06 (-23.83%); 52w low $180.99 (+38.90%) |
+| Trend | +1.85% vs SMA200, +4.06% vs SMA50, -1.51% vs SMA20 |
+| Momentum | RSI(14) 50.1 (neutral) |
+| Volatility | ATR(14) 11.69 (~4.7% of price); beta 1.86 |
+| Setup perspective | -23.83% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.5% |
-| Month | +9.7% |
-| Quarter | +12.2% |
-| Half Y | -13.5% |
-| 1Y | +30.4% |
-| YTD | +15.6% |
+| Week | -6.7% |
+| Month | +5.8% |
+| Quarter | +13.3% |
+| Half Y | -18.3% |
+| 1Y | +34.3% |
+| YTD | +15.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Revenue (ttm) | $13.80B | Revenue growth 19.30% y/y |
 | Profitability | Gross 56.46%, operating 33.84%, net 23.39% | ROA 10.82%, ROE 28.67% |
 | Balance sheet | Cash $3.94B, debt $10.98B | Current ratio 2.12, debt/equity 88.07 |
-| Valuation | P/E 19.87, forward P/E 13.76, P/S 4.61, P/B 5.27 | EV/Sales 5.15, EV/EBITDA 13.19 |
+| Valuation | P/E 19.78, forward P/E 13.70, P/S 4.59, P/B 5.24 | EV/Sales 5.15, EV/EBITDA 13.19 |
 | Growth expectations | Earnings growth 40.30%, EPS q/q 40.10% | Analyst mean target $300.48 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 100.27% |
+| Institutional ownership | 100.23% |
 | Insider ownership | 0.39% |
 | Short float | 2.75% |
 | Short ratio (days to cover) | 1.5 |
@@ -110,21 +110,21 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $252.51 | EV/Sales | 5.15 |
-| Market cap | $63.65B | EV/EBITDA | 13.19 |
+| Price | $251.40 | EV/Sales | 5.15 |
+| Market cap | $63.37B | EV/EBITDA | 13.19 |
 | Beta | 1.86 | Gross margin | 56.46% |
-| RSI(14) | 50.9 | Operating margin | 33.84% |
-| ATR(14) | 11.97 | Profit margin | 23.39% |
-| SMA20 dist | -0.90% | ROA | 10.82% |
-| SMA50 dist | +4.77% | ROE | 28.67% |
-| SMA200 dist | +2.37% | Revenue (ttm) | $13.80B |
+| RSI(14) | 50.1 | Operating margin | 33.84% |
+| ATR(14) | 11.69 | Profit margin | 23.39% |
+| SMA20 dist | -1.51% | ROA | 10.82% |
+| SMA50 dist | +4.06% | ROE | 28.67% |
+| SMA200 dist | +1.85% | Revenue (ttm) | $13.80B |
 | 52W high | $330.06 | Revenue growth y/y | 19.30% |
-| 52W low | $180.99 | Inst. ownership | 100.27% |
-| P/E (ttm) | 19.87 | Insider ownership | 0.39% |
-| Forward P/E | 13.76 | Short float | 2.75% |
-| PEG (trailing) | 0.54 | Avg volume | 4,034,204 |
-| P/S | 4.61 | Employees | 32,169 |
-| P/B | 5.27 | Analyst rec (1=buy..5=sell) | 1.9 |
+| 52W low | $180.99 | Inst. ownership | 100.23% |
+| P/E (ttm) | 19.78 | Insider ownership | 0.39% |
+| Forward P/E | 13.70 | Short float | 2.75% |
+| PEG (trailing) | 0.51 | Avg volume | 4,021,603 |
+| P/S | 4.59 | Employees | 32,169 |
+| P/B | 5.24 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

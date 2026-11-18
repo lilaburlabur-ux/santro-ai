@@ -1,0 +1,154 @@
+# INTC Research Report
+**Intel Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+Signed file: `INTC.research.18.11.2026`
+
+| Field | Value |
+|---|---|
+| Current price | $nan (2026-11-18, ~15-min delayed) |
+| Market cap | $293.23B |
+| Sector / Industry | Technology / Semiconductors |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Moderate technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
+
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-18.
+
+## 1. Executive Summary
+| Area | Score / Read | Reason |
+|---|---|---|
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Fundamental quality | Weak | Negative profit margin (-20.09%). |
+| Value attractiveness | Fair-to-demanding | Forward P/E 30.81, EV/Sales 5.11. |
+| Risk level | High | Beta 2.43, ATR nan% of price, short float 2.88%. |
+
+**Bottom line:** Moderate technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
+
+**Key questions before any trade (standard):**
+- Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
+- Where is the actual invalidation level? If that level is too far away, the setup is not clean.
+- Is the move supported by new institutional demand or just retail/short-covering momentum?
+- Can earnings convert fast enough to justify the valuation?
+
+## 2. Company Overview and Recent Catalysts
+Intel Corporation designs, develops, manufactures, markets, sells, and services computing and related end products and services in the United States, Ireland, Israel, and internationally. It operates through three segments: CCG, DCAI, and Intel Foundry.
+
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Nvidia earnings spark after-hours rally in chipmakers, neocloud stocks | Investing.com | 2026-11-18 |
+| Intel Stock Has Given Back About 60% Since June. Is It a Buy Now? | Motley Fool | 2026-11-17 |
+| Nvidia, Other Chip Stocks Climb After Hours | The Wall Street Journal | 2026-11-17 |
+| Earnings Boost Other Chip and AI Stocks | Barrons.com | 2026-11-17 |
+
+## 3. Technical Analysis
+| Technical item | Read |
+|---|---|
+| Price vs 52-week range | Close $nan; 52w high $140.94 (+nan%); 52w low $33.62 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 29.9 (oversold) |
+| Volatility | ATR(14) 5.65 (~nan% of price); beta 2.43 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+
+**Performance snapshot:**
+
+| Window | Return |
+|---|---|
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
+
+## 4. Fundamental Analysis
+| Factor | Observation | Implication / extra |
+|---|---|---|
+| Next earnings | 2027-01-28 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $59.89B | Revenue growth 20.90% y/y |
+| Profitability | Gross 40.15%, operating 10.32%, net -20.09% | ROA 1.78%, ROE -9.62% |
+| Balance sheet | Cash $54.00B, debt $50.13B | Current ratio 2.21, debt/equity 38.11 |
+| Valuation | P/E —, forward P/E 30.81, P/S 4.90, P/B 2.55 | EV/Sales 5.11, EV/EBITDA 15.99 |
+| Growth expectations | Earnings growth -32.70%, EPS q/q -18.30% | Analyst mean target $90.65 (43 analysts) |
+
+## 5. Institutional Investors and Ownership
+| Metric | Value |
+|---|---|
+| Institutional ownership | 68.73% |
+| Insider ownership | 12.91% |
+| Short float | 2.88% |
+| Short ratio (days to cover) | 1.3 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 460,492,943 | 8.66% | 2026-09-30 |
+| Vanguard Capital Management LLC | 309,290,682 | 5.82% | 2026-09-30 |
+| State Street Corporation | 223,326,623 | 4.20% | 2026-09-30 |
+| Invesco Ltd. | 169,821,684 | 3.20% | 2026-09-30 |
+| Nvidia Corp                           | 161,082,488 | 3.03% | 2026-09-30 |
+| Geode Capital Management, LLC | 119,071,798 | 2.24% | 2026-09-30 |
+| Capital Research Global Investors | 105,887,008 | 1.99% | 2026-09-30 |
+| FMR, LLC | 101,067,636 | 1.90% | 2026-09-30 |
+| Vanguard Portfolio Management LLC | 99,360,137 | 1.87% | 2026-09-30 |
+| Softbank Group Corporation | 86,956,522 | 1.64% | 2026-09-30 |
+
+## 6. Risk Review and Setup Plan
+- **Valuation risk:** Forward P/E 30.81, EV/Sales 5.11. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.43, ATR nan% of price, short float 2.88%. Size positions accordingly.
+- **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
+- **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
+
+### Setup checklist for your journal
+| Question | Pass condition |
+|---|---|
+| Is there a new base? | Tight sideways action near highs, declining volume, clear resistance. |
+| Is the pivot obvious? | A clean level that multiple traders can see; not a random candle high. |
+| Is risk defined? | Stop based on structure and less than the expected first upside target. |
+| Is volume confirming? | Breakout volume expands; pullback volume dries up. |
+| Is position size small enough? | A normal shakeout should not cause emotional decision-making. |
+
+## 7. Full Data Snapshot
+| Metric | Value | Metric | Value |
+|---|---|---|---|
+| Price | $nan | EV/Sales | 5.11 |
+| Market cap | $293.23B | EV/EBITDA | 15.99 |
+| Beta | 2.43 | Gross margin | 40.15% |
+| RSI(14) | 29.9 | Operating margin | 10.32% |
+| ATR(14) | 5.65 | Profit margin | -20.09% |
+| SMA20 dist | +nan% | ROA | 1.78% |
+| SMA50 dist | +nan% | ROE | -9.62% |
+| SMA200 dist | +nan% | Revenue (ttm) | $59.89B |
+| 52W high | $140.94 | Revenue growth y/y | 20.90% |
+| 52W low | $33.62 | Inst. ownership | 68.73% |
+| P/E (ttm) | — | Insider ownership | 12.91% |
+| Forward P/E | 30.81 | Short float | 2.88% |
+| PEG (trailing) | — | Avg volume | 115,405,264 |
+| P/S | 4.90 | Employees | 81,100 |
+| P/B | 2.55 | Analyst rec (1=buy..5=sell) | 2.5 |
+
+## 8. Analyst Actions
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-11-12 | main | B of A Securities | Neutral → Neutral |
+| 2026-10-31 | main | UBS | Neutral → Neutral |
+| 2026-10-31 | down | Freedom Broker | Buy → Hold |
+| 2026-10-30 | main | JP Morgan | Neutral → Neutral |
+| 2026-10-30 | main | Citigroup | Buy → Buy |
+| 2026-10-30 | main | TD Cowen | Hold → Hold |
+| 2026-10-30 | main | DA Davidson | Neutral → Neutral |
+| 2026-10-30 | main | Rosenblatt | Sell → Sell |
+
+## 9. Conclusion
+INTC: Moderate momentum / weak fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+
+## Sources
+| Source | URL | Used for |
+|---|---|---|
+| Yahoo Finance quote/profile/statistics for INTC | https://finance.yahoo.com/quote/INTC | Snapshot metrics, ownership, analyst data |
+| Yahoo Finance price history (via yfinance) | https://finance.yahoo.com/quote/INTC/history | SMA/RSI/ATR/performance calculations |
+| Yahoo Finance news feed | https://finance.yahoo.com/quote/INTC/news | Catalyst headlines |
+| Method template | AEHR.research.31.05.2026.pdf (user's Cowork method) | Report structure, scoring areas, checklist |
+
+_Note: the template's native Finviz/Fintel/ADVFN pages block automated retrieval; equivalent metrics above are computed from Yahoo Finance data instead and labeled accordingly._

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-18T07:52:27+00:00",
-  "as_of_local": "2026-11-18 07:52:27 UTC",
+  "as_of_utc": "2026-11-18T07:57:33+00:00",
+  "as_of_local": "2026-11-18 07:57:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -313,34 +315,6 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 104.42,
-      "previous_close": 109.5,
-      "change_pct": -4.64,
-      "market_cap": 5306697609.784515,
-      "headlines": [
-        {
-          "title": "Can Draganfly's Canadian Defense Selection Drive Its Growth Prospects?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/draganflys-canadian-defense-selection-drive-165600046.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T16:56:00Z"
-        },
-        {
-          "title": "ONDS Raises 2026 Outlook as Backlog and Defense Demand Accelerate",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/onds-raises-2026-outlook-backlog-143300473.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T14:33:00Z"
-        },
-        {
-          "title": "ONDS Drops 22.3% in the Past Month as Execution Risks Cloud Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/onds-drops-22-3-past-143000738.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T14:30:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 117.36,
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64702.0,
-      "change_pct": -0.3
+      "price": 64845.3,
+      "change_pct": -0.07
     },
     {
       "label": "Gold",
-      "price": 3768.0,
-      "change_pct": -2.49
+      "price": 3768.8,
+      "change_pct": -2.47
     },
     {
       "label": "Nasdaq100",

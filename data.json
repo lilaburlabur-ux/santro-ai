@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-18T00:52:09+00:00",
-  "as_of_local": "2026-11-18 00:52:09 UTC",
+  "as_of_utc": "2026-11-18T00:57:10+00:00",
+  "as_of_local": "2026-11-18 00:57:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEVA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -293,6 +295,12 @@
       "market_cap": 15616381305.838364,
       "headlines": [
         {
+          "title": "SK hynix Down 23.1% in Three Months: Should You Buy, Hold or Sell?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-down-23-1-142800021.html",
+          "publisher": "Zacks",
+          "published": "2026-11-16T14:28:00Z"
+        },
+        {
           "title": "Why Is Lattice Semiconductor (LSCC) Pushing Deeper Into Secure Industrial Edge Computing?",
           "url": "https://finance.yahoo.com/technology/articles/why-lattice-semiconductor-lscc-pushing-151630576.html",
           "publisher": "Simply Wall St.",
@@ -303,12 +311,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/invested-1000-lattice-semiconductor-decade-123002391.html",
           "publisher": "Zacks",
           "published": "2026-11-13T12:30:02Z"
-        },
-        {
-          "title": "Chip Stocks Finish Lower as Industry Digests Jensen Huang Exit",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/chip-stocks-down-as-industry-digests-jensen-huang-exit-Lq6UDhwOoZUotX38oTUL?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-11-12T21:11:03Z"
         }
       ]
     },
@@ -367,34 +369,6 @@
           "published": "2026-11-05T23:07:15Z"
         }
       ]
-    },
-    {
-      "symbol": "CEVA",
-      "name": "CEVA",
-      "price": 24.73,
-      "previous_close": 24.91,
-      "change_pct": -0.72,
-      "market_cap": 705479472.9612503,
-      "headlines": [
-        {
-          "title": "Ceva (CEVA) Upgraded to Buy: Here's What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-ceva-upgraded-buy-heres-160004972.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T16:00:04Z"
-        },
-        {
-          "title": "Is Ceva, Inc. (CEVA) Stock Outpacing Its Computer and Technology Peers This Year?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-inc-ceva-stock-outpacing-134002118.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T13:40:02Z"
-        },
-        {
-          "title": "3 AI Chip Stocks With Lower China Exposure After Nvidia Stock Fell 28%",
-          "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-lower-160907984.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-15T16:09:07Z"
-        }
-      ]
     }
   ],
   "etfs": [
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 5.83,
-          "price": 1162000.0,
+          "change_pct": 5.46,
+          "price": 1158000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 3.94,
-          "price": 197800.0,
+          "change_pct": 3.73,
+          "price": 197400.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 4.83,
-          "price": 8351.0,
+          "change_pct": 5.16,
+          "price": 8377.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 5.83,
-        "price": 1162000.0,
+        "change_pct": 5.46,
+        "price": 1158000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 3.94,
-        "price": 197800.0,
+        "change_pct": 3.73,
+        "price": 197400.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 4.83,
-        "price": 8351.0,
+        "change_pct": 5.16,
+        "price": 8377.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64676.89,
-      "change_pct": -0.28
+      "price": 64692.93,
+      "change_pct": -0.25
     },
     {
       "label": "Gold",
-      "price": 3824.2,
-      "change_pct": -0.75
+      "price": 3819.6,
+      "change_pct": -0.87
     },
     {
       "label": "Nasdaq100",

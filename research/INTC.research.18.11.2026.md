@@ -4,8 +4,8 @@ Signed file: `INTC.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $54.19 (2026-11-18, ~15-min delayed) |
-| Market cap | $288.05B |
+| Current price | $54.09 (2026-11-18, ~15-min delayed) |
+| Market cap | $287.49B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `INTC.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-38.06%) with negative half-year (-54.44%). |
-| Fresh setup quality | Poor / broken | -61.55% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-38.18%) with negative half-year (-54.53%). |
+| Fresh setup quality | Poor / broken | -61.62% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-20.09%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 30.27, EV/Sales 5.11. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 30.21, EV/Sales 5.11. |
 | Risk level | High | Beta 2.43, ATR 9.7% of price, short float 2.88%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
@@ -44,22 +44,22 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $54.19; 52w high $140.94 (-61.55%); 52w low $33.62 (+61.20%) |
-| Trend | -38.06% vs SMA200, -41.18% vs SMA50, -20.48% vs SMA20 |
-| Momentum | RSI(14) 29.1 (oversold) |
+| Price vs 52-week range | Close $54.09; 52w high $140.94 (-61.62%); 52w low $33.62 (+60.89%) |
+| Trend | -38.18% vs SMA200, -41.29% vs SMA50, -20.63% vs SMA20 |
+| Momentum | RSI(14) 29.0 (oversold) |
 | Volatility | ATR(14) 5.26 (~9.7% of price); beta 2.43 |
-| Setup perspective | -61.55% from 52w high — base needs to rebuild. |
+| Setup perspective | -61.62% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -13.3% |
-| Month | -40.9% |
-| Quarter | -41.2% |
-| Half Y | -54.4% |
-| 1Y | +56.1% |
-| YTD | +37.6% |
+| Week | -13.5% |
+| Month | -41.0% |
+| Quarter | -41.3% |
+| Half Y | -54.5% |
+| 1Y | +55.8% |
+| YTD | +37.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $59.89B | Revenue growth 20.90% y/y |
 | Profitability | Gross 40.15%, operating 10.32%, net -20.09% | ROA 1.78%, ROE -9.62% |
 | Balance sheet | Cash $54.00B, debt $50.13B | Current ratio 2.21, debt/equity 38.11 |
-| Valuation | P/E —, forward P/E 30.27, P/S 4.81, P/B 2.50 | EV/Sales 5.11, EV/EBITDA 15.99 |
+| Valuation | P/E —, forward P/E 30.21, P/S 4.80, P/B 2.50 | EV/Sales 5.11, EV/EBITDA 15.99 |
 | Growth expectations | Earnings growth -32.70%, EPS q/q -18.30% | Analyst mean target $90.65 (43 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Softbank Group Corporation | 86,956,522 | 1.64% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 30.27, EV/Sales 5.11. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 30.21, EV/Sales 5.11. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.43, ATR 9.7% of price, short float 2.88%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,20 +113,20 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $54.19 | EV/Sales | 5.11 |
-| Market cap | $288.05B | EV/EBITDA | 15.99 |
+| Price | $54.09 | EV/Sales | 5.11 |
+| Market cap | $287.49B | EV/EBITDA | 15.99 |
 | Beta | 2.43 | Gross margin | 40.15% |
-| RSI(14) | 29.1 | Operating margin | 10.32% |
+| RSI(14) | 29.0 | Operating margin | 10.32% |
 | ATR(14) | 5.26 | Profit margin | -20.09% |
-| SMA20 dist | -20.48% | ROA | 1.78% |
-| SMA50 dist | -41.18% | ROE | -9.62% |
-| SMA200 dist | -38.06% | Revenue (ttm) | $59.89B |
+| SMA20 dist | -20.63% | ROA | 1.78% |
+| SMA50 dist | -41.29% | ROE | -9.62% |
+| SMA200 dist | -38.18% | Revenue (ttm) | $59.89B |
 | 52W high | $140.94 | Revenue growth y/y | 20.90% |
 | 52W low | $33.62 | Inst. ownership | 68.74% |
 | P/E (ttm) | — | Insider ownership | 12.91% |
-| Forward P/E | 30.27 | Short float | 2.88% |
+| Forward P/E | 30.21 | Short float | 2.88% |
 | PEG (trailing) | — | Avg volume | 115,118,090 |
-| P/S | 4.81 | Employees | 81,100 |
+| P/S | 4.80 | Employees | 81,100 |
 | P/B | 2.50 | Analyst rec (1=buy..5=sell) | 2.5 |
 
 ## 8. Analyst Actions

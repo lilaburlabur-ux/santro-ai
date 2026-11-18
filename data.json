@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-18T12:50:40+00:00",
-  "as_of_local": "2026-11-18 12:50:40 UTC",
+  "as_of_utc": "2026-11-18T12:55:48+00:00",
+  "as_of_local": "2026-11-18 12:55:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -35,6 +33,34 @@
       ]
     },
     {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 359.69,
+      "previous_close": 373.45,
+      "change_pct": -3.68,
+      "market_cap": 1865522483874.1475,
+      "headlines": [
+        {
+          "title": "AMD, Broadcom, CoreWeave stocks rise on Nvidia earnings beat",
+          "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-17T22:01:59Z"
+        },
+        {
+          "title": "If You Have $1,000 to Invest in December, These 3 Stocks Are Built to Last a Decade",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-000-invest-december-3-115000979.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-18T11:50:00Z"
+        },
+        {
+          "title": "ETFs Are Net Sellers of Taiwan Semiconductor (TSM) on Nov. 16",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-taiwan-semiconductor-110245819.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-18T11:02:45Z"
+        }
+      ]
+    },
+    {
       "symbol": "AVGO",
       "name": "Broadcom",
       "price": 341.6,
@@ -49,10 +75,10 @@
           "published": "2026-11-17T22:01:59Z"
         },
         {
-          "title": "Dow Jones Futures Fall, Techs Rise After Nvidia, Target Earnings; Anthropic IPO Ahead",
+          "title": "Dow Jones Futures Fall, Techs Rise After Nvidia, Target Earnings, Hawkish Waller Comments; Anthropic IPO Ahead",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-target-anthropic-ipo/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-18T12:39:28Z"
+          "published": "2026-11-18T12:49:52Z"
         },
         {
           "title": "Why Is Broadcom Stock Rising Today?",
@@ -77,16 +103,16 @@
           "published": "2026-11-17T22:01:59Z"
         },
         {
+          "title": "Dow Jones Futures Fall, Techs Rise After Nvidia, Target Earnings, Hawkish Waller Comments; Anthropic IPO Ahead",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-target-anthropic-ipo/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-18T12:49:52Z"
+        },
+        {
           "title": "Stock market today: S&P 500, Nasdaq futures rise after Nvidia clears hurdle, Anthropic prepares to price its IPO",
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-anthropic-ipo-090613569.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-18T09:06:13Z"
-        },
-        {
-          "title": "Dow Jones Futures Fall, Techs Rise After Nvidia, Target Earnings; Anthropic IPO Ahead",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-target-anthropic-ipo/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-18T12:39:28Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63973.96,
-      "change_pct": -1.42
+      "price": 64075.94,
+      "change_pct": -1.26
     },
     {
       "label": "Gold",
-      "price": 3754.5,
-      "change_pct": -2.84
+      "price": 3754.0,
+      "change_pct": -2.85
     },
     {
       "label": "Nasdaq100",

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-18T23:12:13+00:00",
-  "as_of_local": "2026-11-18 23:12:13 UTC",
+  "as_of_utc": "2026-11-18T23:14:42+00:00",
+  "as_of_local": "2026-11-18 23:14:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -181,6 +181,12 @@
       "market_cap": 195553194122.31445,
       "headlines": [
         {
+          "title": "Moody\u2019s Lowers Nvidia\u2019s Ratings Outlook to Stable From Positive",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/moody-lowers-nvidia-ratings-outlook-222901110.html",
+          "publisher": "Bloomberg",
+          "published": "2026-11-18T22:29:01Z"
+        },
+        {
           "title": "Arm CEO Rene Haas Reportedly Approached By Recruitment Agency Hired By Nvidia Board",
           "url": "https://finance.yahoo.com/markets/stocks/articles/arm-ceo-rene-haas-reportedly-220315171.html",
           "publisher": "Stocktwits",
@@ -191,12 +197,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-retreat-afternoon-204316548.html",
           "publisher": "MT Newswires",
           "published": "2026-11-18T20:43:16Z"
-        },
-        {
-          "title": "Nvidia reportedly approaches Arm CEO Rene Haas for top job after Jensen Huang exit",
-          "url": "https://finance.yahoo.com/technology/articles/nvidia-reportedly-approaches-arm-ceo-194027391.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-18T19:40:27Z"
         }
       ]
     },
@@ -445,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -2.64,
+          "price": 776.22,
           "currency": "USD"
         },
         {
@@ -535,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -2.64,
+        "price": 776.22,
         "currency": "USD"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 62530.99,
-      "change_pct": -3.64
+      "price": 62485.56,
+      "change_pct": -3.71
     },
     {
       "label": "Gold",
-      "price": 3730.8,
-      "change_pct": -3.45
+      "price": 3731.4,
+      "change_pct": -3.44
     },
     {
       "label": "Nasdaq100",

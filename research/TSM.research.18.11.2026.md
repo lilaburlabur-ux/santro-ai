@@ -4,24 +4,24 @@ Signed file: `TSM.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-18, ~15-min delayed) |
+| Current price | $359.69 (2026-11-18, ~15-min delayed) |
 | Market cap | $1.87T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-18.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-10.53%) with negative half-year (-7.92%). |
+| Fresh setup quality | Poor / broken | -25.96% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 51.12%, revenue growth 50.90%. |
 | Value attractiveness | Reasonable | Forward P/E 15.38, EV/Sales 2.43. |
-| Risk level | Elevated | Beta 1.23, ATR nan% of price, short float 0.66%. |
+| Risk level | Elevated | Beta 1.23, ATR 5.0% of price, short float 0.66%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $485.80 (+nan%); 52w low $272.18 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 38.7 (neutral) |
-| Volatility | ATR(14) 17.76 (~nan% of price); beta 1.23 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $359.69; 52w high $485.80 (-25.96%); 52w low $272.18 (+32.15%) |
+| Trend | -10.53% vs SMA200, -15.82% vs SMA50, -10.80% vs SMA20 |
+| Momentum | RSI(14) 35.7 (neutral) |
+| Volatility | ATR(14) 17.92 (~5.0% of price); beta 1.23 |
+| Setup perspective | -25.96% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -9.3% |
+| Month | -14.4% |
+| Quarter | -12.5% |
+| Half Y | -7.9% |
+| 1Y | +27.6% |
+| YTD | +13.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.94T | Revenue growth 50.90% y/y |
 | Profitability | Gross 65.85%, operating 57.96%, net 51.12% | ROA 20.58%, ROE 41.86% |
 | Balance sheet | Cash $4.02T, debt $1.07T | Current ratio 2.58, debt/equity 15.19 |
-| Valuation | P/E 23.31, forward P/E 15.38, P/S 0.38, P/B 69.09 | EV/Sales 2.43, EV/EBITDA 3.34 |
+| Valuation | P/E 24.21, forward P/E 15.38, P/S 0.38, P/B 69.09 | EV/Sales 2.43, EV/EBITDA 3.34 |
 | Growth expectations | Earnings growth 68.70%, EPS q/q 68.70% | Analyst mean target $586.69 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,8 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Price (T.Rowe) Associates Inc | 12,370,378 | 0.24% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.23, ATR nan% of price, short float 0.66%. Size positions accordingly.
+- **Volatility risk:** Beta 1.23, ATR 5.0% of price, short float 0.66%. Size positions accordingly.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,17 +111,17 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.43 |
+| Price | $359.69 | EV/Sales | 2.43 |
 | Market cap | $1.87T | EV/EBITDA | 3.34 |
 | Beta | 1.23 | Gross margin | 65.85% |
-| RSI(14) | 38.7 | Operating margin | 57.96% |
-| ATR(14) | 17.76 | Profit margin | 51.12% |
-| SMA20 dist | +nan% | ROA | 20.58% |
-| SMA50 dist | +nan% | ROE | 41.86% |
-| SMA200 dist | +nan% | Revenue (ttm) | $4.94T |
+| RSI(14) | 35.7 | Operating margin | 57.96% |
+| ATR(14) | 17.92 | Profit margin | 51.12% |
+| SMA20 dist | -10.80% | ROA | 20.58% |
+| SMA50 dist | -15.82% | ROE | 41.86% |
+| SMA200 dist | -10.53% | Revenue (ttm) | $4.94T |
 | 52W high | $485.80 | Revenue growth y/y | 50.90% |
 | 52W low | $272.18 | Inst. ownership | 15.38% |
-| P/E (ttm) | 23.31 | Insider ownership | 0.02% |
+| P/E (ttm) | 24.21 | Insider ownership | 0.02% |
 | Forward P/E | 15.38 | Short float | 0.66% |
 | PEG (trailing) | 0.68 | Avg volume | 11,730,090 |
 | P/S | 0.38 | Employees | 76,907 |
@@ -139,7 +140,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | 2026-07-27 | main | Needham | Buy → Buy |
 
 ## 9. Conclusion
-TSM: Moderate momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+TSM: Low momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

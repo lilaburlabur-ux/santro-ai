@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-18T22:21:34+00:00",
-  "as_of_local": "2026-11-18 22:21:34 UTC",
+  "as_of_utc": "2026-11-18T22:26:35+00:00",
+  "as_of_local": "2026-11-18 22:26:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 3645231282119.751,
       "headlines": [
         {
+          "title": "The data center bottlenecks that Mavria aims to solve",
+          "url": "https://finance.yahoo.com/video/the-data-center-bottlenecks-that-mavria-aims-to-solve-221600157.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-18T22:16:00Z"
+        },
+        {
           "title": "Memory supply constraints will be even 'tighter' in 2027: Micron CTO",
           "url": "https://finance.yahoo.com/video/memory-supply-constraints-will-be-even-tighter-in-2027-micron-cto-215815321.html",
           "publisher": "Yahoo Finance Video",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/technology/article/nvidia-interim-ceo-colette-kress-has-taken-over-one-of-the-most-consequential-companies-on-the-planet-those-who-know-her-say-shes-up-to-the-task-210312776.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-18T20:26:19Z"
-        },
-        {
-          "title": "'Sending a message': Nvidia signals more cautious stance on China after Huang's departure",
-          "url": "https://finance.yahoo.com/technology/article/sending-a-message-nvidia-signals-more-cautious-stance-on-china-after-huangs-departure-194945165.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-18T19:49:45Z"
         }
       ]
     },
@@ -75,16 +75,16 @@
           "published": "2026-11-17T22:01:59Z"
         },
         {
+          "title": "Stock Market Today, Nov. 18: Nvidia Slips on Strong Results as Succession and China Business Risks Weigh",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-18-221135469.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-18T22:11:35Z"
+        },
+        {
           "title": "Marvell And Intel Halved: How Long Until They Recover?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-intel-halved-long-until-212900487.html",
           "publisher": "Trefis",
           "published": "2026-11-18T21:29:00Z"
-        },
-        {
-          "title": "Amazon and Google Have a Stake",
-          "url": "https://www.barrons.com/livecoverage/ipo-anthropic-claude-stock-price-ticker/card/amazon-and-google-have-a-stake-mvLhBOWKqZDvar1niKQb?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-18T21:23:02Z"
         }
       ]
     },
@@ -103,16 +103,16 @@
           "published": "2026-11-17T22:01:59Z"
         },
         {
-          "title": "Anthropic Is Eyeing Pricing Its IPO As High As $85 Per Share: Report",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-eyeing-pricing-ipo-high-214039577.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-18T21:40:39Z"
+          "title": "The data center bottlenecks that Mavria aims to solve",
+          "url": "https://finance.yahoo.com/video/the-data-center-bottlenecks-that-mavria-aims-to-solve-221600157.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-18T22:16:00Z"
         },
         {
-          "title": "Marvell And Intel Halved: How Long Until They Recover?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-intel-halved-long-until-212900487.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T21:29:00Z"
+          "title": "Stock Market Today, Nov. 18: Nvidia Slips on Strong Results as Succession and China Business Risks Weigh",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-18-221135469.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-18T22:11:35Z"
         }
       ]
     },
@@ -585,13 +585,18 @@
     },
     {
       "label": "BTC",
-      "price": 62393.44,
-      "change_pct": -3.85
+      "price": 62460.61,
+      "change_pct": -3.75
     },
     {
       "label": "Gold",
       "price": 3727.8,
       "change_pct": -3.53
+    },
+    {
+      "label": "Nasdaq100",
+      "price": 27116.26,
+      "change_pct": 0.42
     }
   ]
 }

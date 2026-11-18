@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-18T23:02:32+00:00",
+  "as_of": "2026-11-18T23:15:35+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "PANW",
    "company": "Palo Alto Networks Inc",
-   "move_pct": 18.41,
-   "price": 366.23,
+   "move_pct": 18.3,
+   "price": 365.89,
    "volume": 16467556,
    "volume_vs_avg": "~3x",
    "heat_score": 92,
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "OKTA",
    "company": "Okta Inc",
-   "move_pct": 16.06,
-   "price": 202.57,
+   "move_pct": 16.02,
+   "price": 202.5,
    "volume": 5243743,
    "volume_vs_avg": "~1.2x",
    "heat_score": 84,
@@ -53,22 +53,6 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/rapid7-reports-inducement-grants-under-210500567.html",
    "published": "2026-11-18T21:05:00+00:00",
-   "sector": "Cybersecurity"
-  },
-  {
-   "rank": 4,
-   "ticker": "S",
-   "company": "SentinelOne Inc",
-   "move_pct": 12.25,
-   "price": 23.74,
-   "volume": 11139689,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 73,
-   "direction": "up",
-   "why": "Okta vs. SentinelOne: Which Technology Stock Is a Better Buy for 2027?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/okta-vs-sentinelone-technology-stock-190502530.html",
-   "published": "2026-11-18T19:05:02+00:00",
    "sector": "Cybersecurity"
   }
  ]

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-18T08:22:53+00:00",
-  "as_of_local": "2026-11-18 08:22:53 UTC",
+  "as_of_utc": "2026-11-18T08:27:57+00:00",
+  "as_of_local": "2026-11-18 08:27:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -227,6 +225,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-vs-sk-hynix-stable-182002363.html",
           "publisher": "Motley Fool",
           "published": "2026-11-17T18:20:02Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 148.74,
+      "previous_close": 145.36,
+      "change_pct": 2.33,
+      "market_cap": 133831182231.24161,
+      "headlines": [
+        {
+          "title": "Down 36% in a month at 48x P/E: Is Marvell a dip or a trap?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/down-36-month-48x-p-072339117.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-18T07:23:39Z"
+        },
+        {
+          "title": "Nvidia Signals AI Financing Flywheel Will Continue, But \u2018Disciplined\u2019: Analyst Calls Neoclouds Its \u2018Biggest Sustained Bet\u2019 As NBIS, IREN, MRVL Rally",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-signals-ai-financing-flywheel-024719845.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-18T02:47:19Z"
+        },
+        {
+          "title": "Credo, Marvell settle intellectual property battle over data center cable tech",
+          "url": "https://finance.yahoo.com/technology/articles/credo-marvell-settle-intellectual-property-223628271.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-17T22:36:28Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 64625.05,
+      "price": 64628.17,
       "change_pct": -0.41
     },
     {
       "label": "Gold",
-      "price": 3767.6,
-      "change_pct": -2.5
+      "price": 3764.2,
+      "change_pct": -2.59
     },
     {
       "label": "Nasdaq100",

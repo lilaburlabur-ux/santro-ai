@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-18T23:32:50+00:00",
+  "as_of": "2026-11-18T23:48:03+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,36 +11,20 @@
    "rank": 1,
    "ticker": "PANW",
    "company": "Palo Alto Networks Inc",
-   "move_pct": 18.7,
-   "price": 367.14,
+   "move_pct": 18.32,
+   "price": 365.96,
    "volume": 16467556,
    "volume_vs_avg": "~3x",
    "heat_score": 92,
    "direction": "up",
-   "why": "Dow Jones Futures Rise; Anthropic IPO Prices High, Palo Alto And Everpure Rally On Earnings",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/m/107e5a2c-4fba-3df3-b2fd-5d1160e65516/dow-jones-futures-rise%3B.html",
-   "published": "2026-11-18T23:17:13+00:00",
+   "why": "Palo Alto Networks: Accelerating Growth and a $4.5 Billion Bet on the Future of Cybersecurity",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-accelerating-growth-233409298.html",
+   "published": "2026-11-18T23:34:09+00:00",
    "sector": "Cybersecurity"
   },
   {
    "rank": 2,
-   "ticker": "OKTA",
-   "company": "Okta Inc",
-   "move_pct": 14.59,
-   "price": 200.0,
-   "volume": 5243743,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 82,
-   "direction": "up",
-   "why": "Palo Alto Soars 7%, Okta Up 11% as DHS Chief Warns of \u201cA Severe Cyber Threat\u201d",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-soars-7-okta-194351975.html",
-   "published": "2026-11-18T19:43:51+00:00",
-   "sector": "Cybersecurity"
-  },
-  {
-   "rank": 3,
    "ticker": "RPD",
    "company": "Rapid7, Inc.",
    "move_pct": 15.63,
@@ -53,6 +37,22 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/rapid7-reports-inducement-grants-under-210500567.html",
    "published": "2026-11-18T21:05:00+00:00",
+   "sector": "Cybersecurity"
+  },
+  {
+   "rank": 3,
+   "ticker": "ZS",
+   "company": "Zscaler Inc",
+   "move_pct": 10.02,
+   "price": 203.75,
+   "volume": 2422225,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 65,
+   "direction": "up",
+   "why": "Zscaler Stock Faces AI Security Test After Commvault Partnership",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/zscaler-stock-faces-ai-security-231923899.html",
+   "published": "2026-11-18T23:19:23+00:00",
    "sector": "Cybersecurity"
   }
  ]

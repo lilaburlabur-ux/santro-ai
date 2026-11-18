@@ -1,16 +1,16 @@
 {
-  "as_of_utc": "2026-11-18T18:32:31+00:00",
-  "as_of_local": "2026-11-18 18:32:31 UTC",
+  "as_of_utc": "2026-11-18T18:37:29+00:00",
+  "as_of_local": "2026-11-18 18:37:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 152.27,
+      "price": 152.14,
       "previous_close": 155.46,
-      "change_pct": -2.05,
-      "market_cap": 3676863793167.1143,
+      "change_pct": -2.14,
+      "market_cap": 3674207608428.955,
       "headlines": [
         {
           "title": "Why Nvidia is still the central bank of AI without Jensen Huang",
@@ -35,10 +35,10 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 360.84,
+      "price": 361.05,
       "previous_close": 359.69,
-      "change_pct": 0.32,
-      "market_cap": 1871486896161.5286,
+      "change_pct": 0.38,
+      "market_cap": 1872394623902.6355,
       "headlines": [
         {
           "title": "AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat",
@@ -63,10 +63,10 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 353.26,
+      "price": 353.23,
       "previous_close": 341.6,
       "change_pct": 3.41,
-      "market_cap": 1686332532727.3792,
+      "market_cap": 1686523373032.6511,
       "headlines": [
         {
           "title": "AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat",
@@ -75,26 +75,26 @@
           "published": "2026-11-17T22:01:59Z"
         },
         {
+          "title": "Baird cuts Qualcomm estimates over potential loss of ByteDance chip business",
+          "url": "https://finance.yahoo.com/technology/ai/articles/baird-cuts-qualcomm-estimates-over-182800092.html",
+          "publisher": "Proactive",
+          "published": "2026-11-18T18:28:00Z"
+        },
+        {
           "title": "Broadcom's Cash Holds Up Better Than Nvidia's",
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcoms-cash-holds-better-nvidias-180521825.html",
           "publisher": "Trefis",
           "published": "2026-11-18T18:05:21Z"
-        },
-        {
-          "title": "Broadcom Already Eclipsed AMD as The 2nd Biggest Chip Maker, But The Market Won\u2019t Recognize That Truth Until 2027",
-          "url": "https://finance.yahoo.com/technology/articles/broadcom-already-eclipsed-amd-2nd-174518115.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-18T17:45:18Z"
         }
       ]
     },
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 519.81,
+      "price": 519.6,
       "previous_close": 503.41,
-      "change_pct": 3.26,
-      "market_cap": 860267203540.9854,
+      "change_pct": 3.22,
+      "market_cap": 860427214763.375,
       "headlines": [
         {
           "title": "AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat",
@@ -119,10 +119,10 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 704.37,
+      "price": 704.77,
       "previous_close": 712.42,
-      "change_pct": -1.13,
-      "market_cap": 797155535484.4563,
+      "change_pct": -1.07,
+      "market_cap": 797200767552.563,
       "headlines": [
         {
           "title": "Leopold Aschenbrenner\u2019s AI Fund Cut Its Reported Holdings 92% in One Quarter",
@@ -147,10 +147,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 54.67,
+      "price": 54.62,
       "previous_close": 55.17,
-      "change_pct": -0.91,
-      "market_cap": 290597620944.9768,
+      "change_pct": -0.99,
+      "market_cap": 290411596755.98145,
       "headlines": [
         {
           "title": "Microsoft, Intel Deepen Azure Partnership Amid Increasing AI, Cloud Demand",
@@ -175,10 +175,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 184.32,
+      "price": 183.95,
       "previous_close": 183.39,
-      "change_pct": 0.51,
-      "market_cap": 196922792816.1621,
+      "change_pct": 0.31,
+      "market_cap": 196869305877.68555,
       "headlines": [
         {
           "title": "AI Data Center Growth Might Change The Case For Investing In Arm (ARM)",
@@ -203,11 +203,17 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 161.8,
+      "price": 161.48,
       "previous_close": 166.67,
-      "change_pct": -2.92,
-      "market_cap": 173126003265.38086,
+      "change_pct": -3.11,
+      "market_cap": 172783595428.4668,
       "headlines": [
+        {
+          "title": "Baird cuts Qualcomm estimates over potential loss of ByteDance chip business",
+          "url": "https://finance.yahoo.com/technology/ai/articles/baird-cuts-qualcomm-estimates-over-182800092.html",
+          "publisher": "Proactive",
+          "published": "2026-11-18T18:28:00Z"
+        },
         {
           "title": "Broadcom's Cash Holds Up Better Than Nvidia's",
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcoms-cash-holds-better-nvidias-180521825.html",
@@ -219,22 +225,16 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-microns-cheap-p-e-175447373.html",
           "publisher": "Trefis",
           "published": "2026-11-18T17:54:47Z"
-        },
-        {
-          "title": "Is Nvidia's Margin Lead Over AMD Shrinking?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidias-margin-lead-over-amd-173912854.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T17:39:12Z"
         }
       ]
     },
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 145.01,
+      "price": 145.11,
       "previous_close": 148.74,
-      "change_pct": -2.51,
-      "market_cap": 130470556112.7981,
+      "change_pct": -2.44,
+      "market_cap": 130565027686.19351,
       "headlines": [
         {
           "title": "Broadcom's Cash Holds Up Better Than Nvidia's",
@@ -249,20 +249,20 @@
           "published": "2026-11-18T17:39:12Z"
         },
         {
-          "title": "A $3.8 Billion Fund Dumps These 3 Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-8-billion-fund-dumps-155238475.html",
+          "title": "Astera Labs and Credo Each Trade About 60% Below Their Highs. Only One Still Needs a $1.46 Billion Second Half",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-credo-trade-60-163307380.html",
           "publisher": "TIKR",
-          "published": "2026-11-18T15:52:38Z"
+          "published": "2026-11-18T16:33:07Z"
         }
       ]
     },
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 252.26,
+      "price": 251.96,
       "previous_close": 252.51,
-      "change_pct": -0.1,
-      "market_cap": 63582885368.311584,
+      "change_pct": -0.22,
+      "market_cap": 63508530198.37439,
       "headlines": [
         {
           "title": "Where Did Texas Instruments Fall Behind Analog Devices?",
@@ -287,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 111.46,
+      "price": 111.55,
       "previous_close": 109.8,
-      "change_pct": 1.52,
-      "market_cap": 15853186126.468964,
+      "change_pct": 1.59,
+      "market_cap": 15865276265.088364,
       "headlines": [
         {
           "title": "3 AI Data Center Stocks Retail Investors Are Watching After Nvidia News",
@@ -315,10 +315,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 102.51,
+      "price": 102.38,
       "previous_close": 104.42,
-      "change_pct": -1.83,
-      "market_cap": 5209630270.584732,
+      "change_pct": -1.95,
+      "market_cap": 5203023331.176773,
       "headlines": [
         {
           "title": "Has AeroVironment (AVAV) Fallen Enough For Its Sales Story?",
@@ -343,10 +343,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 117.73,
+      "price": 117.49,
       "previous_close": 117.36,
-      "change_pct": 0.32,
-      "market_cap": 4678231292.462372,
+      "change_pct": 0.11,
+      "market_cap": 4667703259.970734,
       "headlines": [
         {
           "title": "SYNA Q1 Earnings Beat Estimates, Revenues Miss on Weak Demand",
@@ -371,10 +371,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 25.38,
+      "price": 25.33,
       "previous_close": 24.73,
-      "change_pct": 2.63,
-      "market_cap": 724022190.1789589,
+      "change_pct": 2.42,
+      "market_cap": 722584421.8375587,
       "headlines": [
         {
           "title": "Ceva (CEVA) Upgraded to Buy: Here's What You Should Know",
@@ -401,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 39.16,
-      "change_pct": 0.59,
+      "price": 39.15,
+      "change_pct": 0.57,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -1.13,
-          "price": 704.37,
+          "change_pct": -1.07,
+          "price": 704.77,
           "currency": "USD"
         },
         {
@@ -445,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -2.3,
-          "price": 778.91,
+          "change_pct": -2.2,
+          "price": 779.71,
           "currency": "USD"
         },
         {
@@ -454,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 1.19,
-          "price": 510.41,
+          "change_pct": 1.22,
+          "price": 510.55,
           "currency": "USD"
         },
         {
@@ -463,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 1.42,
-          "price": 287.36,
+          "change_pct": 1.3,
+          "price": 287.0,
           "currency": "USD"
         },
         {
@@ -491,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 39.16,
-    "change_pct": 0.59,
+    "price": 39.15,
+    "change_pct": 0.57,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -1.13,
-        "price": 704.37,
+        "change_pct": -1.07,
+        "price": 704.77,
         "currency": "USD"
       },
       {
@@ -535,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -2.3,
-        "price": 778.91,
+        "change_pct": -2.2,
+        "price": 779.71,
         "currency": "USD"
       },
       {
@@ -544,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 1.19,
-        "price": 510.41,
+        "change_pct": 1.22,
+        "price": 510.55,
         "currency": "USD"
       },
       {
@@ -553,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 1.42,
-        "price": 287.36,
+        "change_pct": 1.3,
+        "price": 287.0,
         "currency": "USD"
       },
       {
@@ -580,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7348.94,
-      "change_pct": 0.11
+      "price": 7347.4,
+      "change_pct": 0.09
     },
     {
       "label": "BTC",
-      "price": 63121.46,
-      "change_pct": -2.73
+      "price": 63146.04,
+      "change_pct": -2.69
     },
     {
       "label": "Gold",
-      "price": 3742.1,
-      "change_pct": -3.16
+      "price": 3742.8,
+      "change_pct": -3.14
     },
     {
       "label": "Nasdaq100",
-      "price": 27168.38,
-      "change_pct": 0.62
+      "price": 27165.63,
+      "change_pct": 0.61
     }
   ]
 }

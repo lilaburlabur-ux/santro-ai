@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-18T13:31:25+00:00",
-  "as_of_local": "2026-11-18 13:31:25 UTC",
+  "as_of_utc": "2026-11-18T13:36:38+00:00",
+  "as_of_local": "2026-11-18 13:36:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -47,16 +49,16 @@
           "published": "2026-11-17T22:01:59Z"
         },
         {
+          "title": "Intel vs. Taiwan Semiconductor Manufacturing: Which Tech Stock Is a Better Buy for 2027?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-taiwan-semiconductor-manufacturing-132801246.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-18T13:28:01Z"
+        },
+        {
           "title": "If You Have $1,000 to Invest in December, These 3 Stocks Are Built to Last a Decade",
           "url": "https://finance.yahoo.com/markets/stocks/articles/1-000-invest-december-3-115000979.html",
           "publisher": "Motley Fool",
           "published": "2026-11-18T11:50:00Z"
-        },
-        {
-          "title": "ETFs Are Net Sellers of Taiwan Semiconductor (TSM) on Nov. 16",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-taiwan-semiconductor-110245819.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-18T11:02:45Z"
         }
       ]
     },
@@ -153,6 +155,12 @@
       "market_cap": 293228540267.94434,
       "headlines": [
         {
+          "title": "Intel vs. Taiwan Semiconductor Manufacturing: Which Tech Stock Is a Better Buy for 2027?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-taiwan-semiconductor-manufacturing-132801246.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-18T13:28:01Z"
+        },
+        {
           "title": "Why Is Intel Stock Rising Today?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-rising-today-121551126.html",
           "publisher": "InvestorsHub",
@@ -163,12 +171,6 @@
           "url": "https://finance.yahoo.com/video/inside-hpe-cooling-lab-solving-120000871.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-18T12:00:00Z"
-        },
-        {
-          "title": "Do You Even Have An AMD Tax Loss?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/even-amd-tax-loss-110703581.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T11:07:03Z"
         }
       ]
     },
@@ -309,34 +311,6 @@
           "url": "https://finance.yahoo.com/technology/articles/why-lattice-semiconductor-lscc-pushing-151630576.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-13T15:16:30Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 104.42,
-      "previous_close": 109.5,
-      "change_pct": -4.64,
-      "market_cap": 5306697609.784515,
-      "headlines": [
-        {
-          "title": "Can Draganfly's Canadian Defense Selection Drive Its Growth Prospects?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/draganflys-canadian-defense-selection-drive-165600046.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T16:56:00Z"
-        },
-        {
-          "title": "ONDS Raises 2026 Outlook as Backlog and Defense Demand Accelerate",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/onds-raises-2026-outlook-backlog-143300473.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T14:33:00Z"
-        },
-        {
-          "title": "ONDS Drops 22.3% in the Past Month as Execution Risks Cloud Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/onds-drops-22-3-past-143000738.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T14:30:00Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64025.61,
-      "change_pct": -1.34
+      "price": 64004.9,
+      "change_pct": -1.37
     },
     {
       "label": "Gold",
-      "price": 3773.2,
-      "change_pct": -2.35
+      "price": 3776.1,
+      "change_pct": -2.28
     },
     {
       "label": "Nasdaq100",

@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Finviz theme:artificialintelligence",
-  "as_of": "2026-11-18 02:19 UTC",
+  "as_of": "2026-11-18 02:25 UTC",
   "total_tickers": 111,
   "min_bubble_size": 7,
   "render_spec": {
@@ -734,7 +734,7 @@
    "label": "AI Software & Cloud Infrastructure",
    "color": "#9B6BF7",
    "count": 6,
-   "total_market_cap_b": 4505.45,
+   "total_market_cap_b": 4505.4,
    "avg_change_pct": -2.39,
    "industries_included": [
     "Software - Infrastructure"
@@ -1503,7 +1503,7 @@
       3.49,
       3.06
      ],
-     "fwd_eps": -0.1
+     "fwd_eps": -0.06
     },
     {
      "ticker": "PUBM",
@@ -1614,7 +1614,7 @@
    "label": "Chip Equipment & AI Hardware",
    "color": "#4FC3D9",
    "count": 13,
-   "total_market_cap_b": 3067.39,
+   "total_market_cap_b": 3067.4,
    "avg_change_pct": -0.14,
    "industries_included": [
     "Communication Equipment",
@@ -1873,7 +1873,7 @@
       225.92,
       210.69
      ],
-     "fwd_eps": 12.27
+     "fwd_eps": 12.24
     },
     {
      "ticker": "ANET",
@@ -1882,7 +1882,7 @@
      "industry": "Computer Hardware",
      "country": "USA",
      "market_cap_b": 232.9,
-     "pe": 49.98,
+     "pe": 52.66,
      "price": 186.42,
      "change_pct": -0.32,
      "volume": 6006438,
@@ -2032,7 +2032,7 @@
      "industry": "Communication Equipment",
      "country": "USA",
      "market_cap_b": 59.31,
-     "pe": 24.65,
+     "pe": 23.76,
      "price": 46.09,
      "change_pct": -1.03,
      "volume": 16216268,
@@ -2126,56 +2126,6 @@
      "fwd_eps": 12.04
     },
     {
-     "ticker": "SMCI",
-     "company": "Super Micro Computer Inc",
-     "sector": "Technology",
-     "industry": "Computer Hardware",
-     "country": "USA",
-     "market_cap_b": 14.31,
-     "pe": 5.09,
-     "price": 24.14,
-     "change_pct": -3.56,
-     "volume": 48576600,
-     "perf": {
-      "1W": -13.1,
-      "1M": -24.8,
-      "1Y": -30.8
-     },
-     "spark": [
-      37.39,
-      37.08,
-      36.71,
-      37.87,
-      40.26,
-      37.38,
-      36.74,
-      36.85,
-      39.09,
-      41.54,
-      41.51,
-      41.78,
-      41.07,
-      43.69,
-      43.46,
-      42.77,
-      39.98,
-      35.78,
-      31.63,
-      32.47,
-      33.72,
-      32.69,
-      35.81,
-      32.95,
-      31.39,
-      27.08,
-      28.6,
-      30.43,
-      26.87,
-      24.14
-     ],
-     "fwd_eps": 6.95
-    },
-    {
      "ticker": "ZBRA",
      "company": "Zebra Technologies Corp",
      "sector": "Technology",
@@ -2224,6 +2174,56 @@
       312.21
      ],
      "fwd_eps": 22.27
+    },
+    {
+     "ticker": "SMCI",
+     "company": "Super Micro Computer Inc",
+     "sector": "Technology",
+     "industry": "Computer Hardware",
+     "country": "USA",
+     "market_cap_b": 14.31,
+     "pe": 5.09,
+     "price": 24.14,
+     "change_pct": -3.56,
+     "volume": 48576600,
+     "perf": {
+      "1W": -13.1,
+      "1M": -24.8,
+      "1Y": -30.8
+     },
+     "spark": [
+      37.39,
+      37.08,
+      36.71,
+      37.87,
+      40.26,
+      37.38,
+      36.74,
+      36.85,
+      39.09,
+      41.54,
+      41.51,
+      41.78,
+      41.07,
+      43.69,
+      43.46,
+      42.77,
+      39.98,
+      35.78,
+      31.63,
+      32.47,
+      33.72,
+      32.69,
+      35.81,
+      32.95,
+      31.39,
+      27.08,
+      28.6,
+      30.43,
+      26.87,
+      24.14
+     ],
+     "fwd_eps": 6.95
     },
     {
      "ticker": "AMBA",
@@ -2284,7 +2284,7 @@
    "label": "AI Platforms, Internet & AdTech",
    "color": "#F75F8E",
    "count": 12,
-   "total_market_cap_b": 13334.32,
+   "total_market_cap_b": 13334.3,
    "avg_change_pct": -0.66,
    "industries_included": [
     "Advertising Agencies",
@@ -2641,7 +2641,7 @@
       78.14,
       71.15
      ],
-     "fwd_eps": 6.43
+     "fwd_eps": 6.34
     },
     {
      "ticker": "SNAP",
@@ -2800,7 +2800,7 @@
      "industry": "Advertising Agencies",
      "country": "USA",
      "market_cap_b": 3.76,
-     "pe": 23.67,
+     "pe": 23.68,
      "price": 28.41,
      "change_pct": -1.32,
      "volume": 2075890,
@@ -2961,7 +2961,7 @@
       1053.79,
       1034.83
      ],
-     "fwd_eps": 20.69
+     "fwd_eps": 20.7
     },
     {
      "ticker": "PWR",
@@ -3020,7 +3020,7 @@
      "industry": "Electrical Equipment & Parts",
      "country": "USA",
      "market_cap_b": 71.73,
-     "pe": 36.89,
+     "pe": 38.07,
      "price": 190.37,
      "change_pct": 0.9,
      "volume": 5737907,
@@ -3061,7 +3061,7 @@
       202.07,
       190.37
      ],
-     "fwd_eps": 9.92
+     "fwd_eps": 9.87
     },
     {
      "ticker": "DLR",
@@ -3120,7 +3120,7 @@
      "industry": "Utilities - Regulated Electric",
      "country": "USA",
      "market_cap_b": 58.04,
-     "pe": 22.13,
+     "pe": 22.2,
      "price": 67.28,
      "change_pct": -0.77,
      "volume": 6141548,
@@ -3314,7 +3314,7 @@
      "fwd_eps": -1.14
     }
    ],
-   "pe_harmonic": 38.1,
+   "pe_harmonic": 38.3,
    "pe_excluded": 2
   },
   {
@@ -3322,7 +3322,7 @@
    "label": "Applied AI: Industrial, Defense & Vertical",
    "color": "#D9C84F",
    "count": 14,
-   "total_market_cap_b": 3791.27,
+   "total_market_cap_b": 3791.3,
    "avg_change_pct": 1.27,
    "industries_included": [
     "Aerospace & Defense",
@@ -3794,7 +3794,7 @@
      "industry": "Credit Services",
      "country": "USA",
      "market_cap_b": 1.9,
-     "pe": 30.22,
+     "pe": 29.72,
      "price": 18.13,
      "change_pct": -5.03,
      "volume": 3825500,
@@ -4046,7 +4046,7 @@
    "label": "Powering AI",
    "color": "#3BE08F",
    "count": 15,
-   "total_market_cap_b": 654.02,
+   "total_market_cap_b": 654.0,
    "avg_change_pct": -0.86,
    "industries_included": [
     "Electrical Equipment & Parts",
@@ -4835,7 +4835,7 @@
       103.78,
       94.19
      ],
-     "fwd_eps": 4.18
+     "fwd_eps": 4.42
     }
    ],
    "_note": "Energy-of-AI section. Seed caps approximate/public; price/change filled live by update_quotes.py next cycle. Sub-themes: nuclear_ipp, electrical_turbines, uranium_fuel, grid_utilities, dc_infra.",
@@ -5047,56 +5047,6 @@
      "fwd_eps": 3.9
     },
     {
-     "ticker": "ZS",
-     "company": "Zscaler Inc",
-     "sector": "Technology",
-     "industry": "Software - Infrastructure",
-     "country": "USA",
-     "market_cap_b": 29.97,
-     "pe": null,
-     "price": 185.19,
-     "change_pct": -2.96,
-     "volume": 2245085,
-     "perf": {
-      "1W": -5.0,
-      "1M": -12.9,
-      "1Y": -36.8
-     },
-     "spark": [
-      170.31,
-      184.23,
-      178.37,
-      177.8,
-      161.94,
-      163.48,
-      191.73,
-      191.58,
-      197.31,
-      210.18,
-      214.64,
-      199.39,
-      199.42,
-      196.6,
-      212.25,
-      216.81,
-      225.78,
-      220.79,
-      207.38,
-      214.51,
-      237.76,
-      260.45,
-      255.8,
-      237.83,
-      225.09,
-      203.88,
-      199.04,
-      193.79,
-      192.47,
-      185.19
-     ],
-     "fwd_eps": 5.62
-    },
-    {
      "ticker": "OKTA",
      "company": "Okta Inc",
      "sector": "Technology",
@@ -5145,6 +5095,56 @@
       174.54
      ],
      "fwd_eps": 4.38
+    },
+    {
+     "ticker": "ZS",
+     "company": "Zscaler Inc",
+     "sector": "Technology",
+     "industry": "Software - Infrastructure",
+     "country": "USA",
+     "market_cap_b": 29.97,
+     "pe": null,
+     "price": 185.19,
+     "change_pct": -2.96,
+     "volume": 2245085,
+     "perf": {
+      "1W": -5.0,
+      "1M": -12.9,
+      "1Y": -36.8
+     },
+     "spark": [
+      170.31,
+      184.23,
+      178.37,
+      177.8,
+      161.94,
+      163.48,
+      191.73,
+      191.58,
+      197.31,
+      210.18,
+      214.64,
+      199.39,
+      199.42,
+      196.6,
+      212.25,
+      216.81,
+      225.78,
+      220.79,
+      207.38,
+      214.51,
+      237.76,
+      260.45,
+      255.8,
+      237.83,
+      225.09,
+      203.88,
+      199.04,
+      193.79,
+      192.47,
+      185.19
+     ],
+     "fwd_eps": 5.62
     },
     {
      "ticker": "RBRK",
@@ -5401,6 +5401,57 @@
      "_note": "Seeded 2026-09-14 with the cybersecurity bubble; quotes maintained by update_quotes.py."
     },
     {
+     "ticker": "YOU",
+     "company": "Clear Secure, Inc.",
+     "sector": "Technology",
+     "industry": "Software - Application",
+     "country": "USA",
+     "market_cap_b": 7.58,
+     "pe": 32.12,
+     "price": 54.6,
+     "change_pct": -2.81,
+     "volume": 1983356,
+     "fwd_eps": 2.79,
+     "perf": {
+      "1W": -2.0,
+      "1M": 20.8,
+      "1Y": 59.0
+     },
+     "spark": [
+      44.1,
+      43.28,
+      42.82,
+      44.44,
+      43.45,
+      42.74,
+      42.24,
+      40.67,
+      38.1,
+      39.03,
+      38.55,
+      40.36,
+      41.95,
+      41.55,
+      41.5,
+      43.08,
+      42.46,
+      44.31,
+      43.93,
+      45.43,
+      45.62,
+      46.07,
+      45.48,
+      45.99,
+      47.76,
+      56.5,
+      55.09,
+      55.41,
+      57.21,
+      54.6
+     ],
+     "_note": "Seeded 2026-09-14 with the cybersecurity bubble; quotes maintained by update_quotes.py."
+    },
+    {
      "ticker": "S",
      "company": "SentinelOne Inc",
      "sector": "Technology",
@@ -5449,57 +5500,6 @@
       21.15
      ],
      "fwd_eps": 0.46
-    },
-    {
-     "ticker": "YOU",
-     "company": "Clear Secure, Inc.",
-     "sector": "Technology",
-     "industry": "Software - Application",
-     "country": "USA",
-     "market_cap_b": 7.58,
-     "pe": 32.69,
-     "price": 54.6,
-     "change_pct": -2.81,
-     "volume": 1983356,
-     "fwd_eps": 2.79,
-     "perf": {
-      "1W": -2.0,
-      "1M": 20.8,
-      "1Y": 59.0
-     },
-     "spark": [
-      44.1,
-      43.28,
-      42.82,
-      44.44,
-      43.45,
-      42.74,
-      42.24,
-      40.67,
-      38.1,
-      39.03,
-      38.55,
-      40.36,
-      41.95,
-      41.55,
-      41.5,
-      43.08,
-      42.46,
-      44.31,
-      43.93,
-      45.43,
-      45.62,
-      46.07,
-      45.48,
-      45.99,
-      47.76,
-      56.5,
-      55.09,
-      55.41,
-      57.21,
-      54.6
-     ],
-     "_note": "Seeded 2026-09-14 with the cybersecurity bubble; quotes maintained by update_quotes.py."
     },
     {
      "ticker": "VRNS",
@@ -5759,8 +5759,8 @@
    ],
    "count": 18,
    "avg_change_pct": -1.78,
-   "total_market_cap_b": 837.05,
-   "pe_harmonic": 115.7,
+   "total_market_cap_b": 837.0,
+   "pe_harmonic": 115.6,
    "pe_excluded": 6,
    "industries_included": [
     "Consulting Services",

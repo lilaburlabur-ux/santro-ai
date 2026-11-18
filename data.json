@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-18T08:17:56+00:00",
-  "as_of_local": "2026-11-18 08:17:56 UTC",
+  "as_of_utc": "2026-11-18T08:22:53+00:00",
+  "as_of_local": "2026-11-18 08:22:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "AVGO"
+    "MRVL"
   ],
   "stocks": [
     {
@@ -59,6 +59,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-only-17-smh-beat-225253418.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-17T22:52:53Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 341.6,
+      "previous_close": 333.4,
+      "change_pct": 2.46,
+      "market_cap": 1630671991019.9246,
+      "headlines": [
+        {
+          "title": "AMD, Broadcom, CoreWeave stocks rise on Nvidia earnings beat",
+          "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-17T22:01:59Z"
+        },
+        {
+          "title": "Dow Jones Futures: Techs Rise After Nvidia Beats, Says This On Jensen Huang; Target, Anthropic IPO Ahead",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-target-anthropic-ipo/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-18T05:32:31Z"
+        },
+        {
+          "title": "Broadcom vs. Micron Technology: Which Tech Stock Is the Better Buy for 2027?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-vs-micron-technology-tech-033002100.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-18T03:30:02Z"
         }
       ]
     },
@@ -199,34 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-vs-sk-hynix-stable-182002363.html",
           "publisher": "Motley Fool",
           "published": "2026-11-17T18:20:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 148.74,
-      "previous_close": 145.36,
-      "change_pct": 2.33,
-      "market_cap": 133831182231.24161,
-      "headlines": [
-        {
-          "title": "Down 36% in a month at 48x P/E: Is Marvell a dip or a trap?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/down-36-month-48x-p-072339117.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-18T07:23:39Z"
-        },
-        {
-          "title": "Nvidia Signals AI Financing Flywheel Will Continue, But \u2018Disciplined\u2019: Analyst Calls Neoclouds Its \u2018Biggest Sustained Bet\u2019 As NBIS, IREN, MRVL Rally",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-signals-ai-financing-flywheel-024719845.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-18T02:47:19Z"
-        },
-        {
-          "title": "Credo, Marvell settle intellectual property battle over data center cable tech",
-          "url": "https://finance.yahoo.com/technology/articles/credo-marvell-settle-intellectual-property-223628271.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-17T22:36:28Z"
         }
       ]
     },
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64526.35,
-      "change_pct": -0.57
+      "price": 64625.05,
+      "change_pct": -0.41
     },
     {
       "label": "Gold",
-      "price": 3768.8,
-      "change_pct": -2.47
+      "price": 3767.6,
+      "change_pct": -2.5
     },
     {
       "label": "Nasdaq100",

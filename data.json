@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-18T09:32:28+00:00",
-  "as_of_local": "2026-11-18 09:32:28 UTC",
+  "as_of_utc": "2026-11-18T09:37:31+00:00",
+  "as_of_local": "2026-11-18 09:37:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-vs-micron-technology-tech-033002100.html",
           "publisher": "Motley Fool",
           "published": "2026-11-18T03:30:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 503.41,
-      "previous_close": 504.28,
-      "change_pct": -0.17,
-      "market_cap": 833176566164.9612,
-      "headlines": [
-        {
-          "title": "AMD, Broadcom, CoreWeave stocks rise on Nvidia earnings beat",
-          "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-17T22:01:59Z"
-        },
-        {
-          "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise after Nvidia clears hurdle, Anthropic prepares to price its IPO",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-anthropic-ipo-090613569.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-18T09:06:13Z"
-        },
-        {
-          "title": "Top Growth Stocks To Watch In November 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-growth-stocks-watch-november-081401343.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-18T08:14:01Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64579.94,
-      "change_pct": -0.48
+      "price": 64628.1,
+      "change_pct": -0.41
     },
     {
       "label": "Gold",
-      "price": 3770.0,
-      "change_pct": -2.44
+      "price": 3778.0,
+      "change_pct": -2.23
     },
     {
       "label": "Nasdaq100",

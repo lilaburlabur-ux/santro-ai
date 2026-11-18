@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-18T08:02:43+00:00",
-  "as_of_local": "2026-11-18 08:02:43 UTC",
+  "as_of_utc": "2026-11-18T08:07:40+00:00",
+  "as_of_local": "2026-11-18 08:07:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-given-back-60-215701490.html",
           "publisher": "Motley Fool",
           "published": "2026-11-17T21:57:01Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 183.39,
-      "previous_close": 175.05,
-      "change_pct": 4.76,
-      "market_cap": 196227299346.92383,
-      "headlines": [
-        {
-          "title": "Stock Market Today: Dow Dives, Nvidia Falls Amid This Jensen Huang Offer; Cyber Plays Mixed",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-nvidia-earnings-nvda-stock/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-17T21:41:19Z"
-        },
-        {
-          "title": "Nvidia taps Heidrick & Struggles to lead CEO search, WSJ reports",
-          "url": "https://finance.yahoo.com/technology/articles/nvidia-taps-heidrick-struggles-lead-184137364.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-17T18:41:37Z"
-        },
-        {
-          "title": "SoftBank Had 64% of Its U.S. Stock Portfolio in Intel. It Has Since Halved",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-had-64-u-stock-155205651.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-17T15:52:05Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64741.41,
-      "change_pct": -0.24
+      "price": 64684.98,
+      "change_pct": -0.32
     },
     {
       "label": "Gold",
-      "price": 3770.0,
-      "change_pct": -2.44
+      "price": 3774.8,
+      "change_pct": -2.31
     },
     {
       "label": "Nasdaq100",

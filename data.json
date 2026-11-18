@@ -1,18 +1,16 @@
 {
-  "as_of_utc": "2026-11-18T15:33:40+00:00",
-  "as_of_local": "2026-11-18 15:33:40 UTC",
+  "as_of_utc": "2026-11-18T15:38:50+00:00",
+  "as_of_local": "2026-11-18 15:38:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NXPI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 153.58,
+      "price": 152.74,
       "previous_close": 155.46,
-      "change_pct": -1.21,
-      "market_cap": 3708254966857.91,
+      "change_pct": -1.75,
+      "market_cap": 3688212912643.4326,
       "headlines": [
         {
           "title": "Nvidia's next CEO should be hired internally, Jeff Bezos advises",
@@ -37,38 +35,38 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 362.68,
+      "price": 362.1,
       "previous_close": 359.69,
-      "change_pct": 0.83,
-      "market_cap": 1881237490714.8237,
+      "change_pct": 0.67,
+      "market_cap": 1878021902783.119,
       "headlines": [
         {
           "title": "AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat",
           "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-17T22:01:59Z"
+        },
+        {
+          "title": "Why You Should Buy and Hold Taiwan Semiconductor (TSM) for Three Years",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-buy-hold-taiwan-semiconductor-153219281.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-18T15:32:19Z"
         },
         {
           "title": "Anthropic IPO: Why Are Nvidia, Google And Others Buying $26 Billion?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-why-nvidia-google-144059595.html",
           "publisher": "Trefis",
           "published": "2026-11-18T14:40:59Z"
-        },
-        {
-          "title": "NVIDIA Rises 3% After Record Quarter as Wells Fargo Sees $250 and Barclays Backs Board on Huang; Taiwan Semiconductor Climbs 3%, Broadcom Gains 2%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-rises-3-record-quarter-140650313.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-18T14:06:50Z"
         }
       ]
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 352.05,
+      "price": 352.99,
       "previous_close": 341.6,
-      "change_pct": 3.06,
-      "market_cap": 1680723430228.2307,
+      "change_pct": 3.34,
+      "market_cap": 1685055505157.903,
       "headlines": [
         {
           "title": "AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat",
@@ -77,26 +75,26 @@
           "published": "2026-11-17T22:01:59Z"
         },
         {
+          "title": "How Broadcom\u2019s (AVGO) Anthropic Equipment Leases Link AI Growth to Financing",
+          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-anthropic-equipment-leases-152302941.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-18T15:23:02Z"
+        },
+        {
           "title": "How Much Could You Lose Holding Qualcomm Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/much-could-lose-holding-qualcomm-145858769.html",
           "publisher": "Trefis",
           "published": "2026-11-18T14:58:58Z"
-        },
-        {
-          "title": "Was Nvidia\u2019s strong report a clearing event for the wider chip sector?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-strong-report-clearing-event-144126778.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-18T14:41:26Z"
         }
       ]
     },
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 510.5,
+      "price": 507.42,
       "previous_close": 503.41,
-      "change_pct": 1.41,
-      "market_cap": 845043358038.5591,
+      "change_pct": 0.8,
+      "market_cap": 839920928069.7804,
       "headlines": [
         {
           "title": "AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat",
@@ -121,10 +119,10 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 707.7,
+      "price": 702.78,
       "previous_close": 712.42,
-      "change_pct": -0.66,
-      "market_cap": 800708220943.7185,
+      "change_pct": -1.35,
+      "market_cap": 794870038498.1067,
       "headlines": [
         {
           "title": "5 Best Stocks to Buy Ahead of Anthropic\u2019s IPO",
@@ -149,11 +147,17 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 54.18,
+      "price": 54.02,
       "previous_close": 55.17,
-      "change_pct": -1.79,
-      "market_cap": 288111790351.8677,
+      "change_pct": -2.09,
+      "market_cap": 286850556488.0371,
       "headlines": [
+        {
+          "title": "Intel cuts more jobs as CEO's restructuring continues",
+          "url": "https://finance.yahoo.com/technology/ai/articles/intel-cuts-more-jobs-ceos-151000542.html",
+          "publisher": "Proactive",
+          "published": "2026-11-18T15:10:00Z"
+        },
         {
           "title": "How Much Could You Lose Holding Qualcomm Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/much-could-lose-holding-qualcomm-145858769.html",
@@ -161,26 +165,20 @@
           "published": "2026-11-18T14:58:58Z"
         },
         {
-          "title": "Is Nvidia A Hidden Risk In Your Index Fund?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-hidden-risk-index-fund-142708200.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T14:27:08Z"
-        },
-        {
-          "title": "Applied Materials vs. Marvell Technology: Which Tech Stock Is a Better Buy for 2027?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-vs-marvell-technology-135802078.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-18T13:58:02Z"
+          "title": "Can Qualcomm's Deal With Cirrascale Boost its AI Growth Prospects?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomms-deal-cirrascale-boost-ai-143000776.html",
+          "publisher": "Zacks",
+          "published": "2026-11-18T14:30:00Z"
         }
       ]
     },
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 186.83,
+      "price": 186.01,
       "previous_close": 183.39,
-      "change_pct": 1.88,
-      "market_cap": 199833194122.31445,
+      "change_pct": 1.43,
+      "market_cap": 199030694122.31445,
       "headlines": [
         {
           "title": "AI Data Center Growth Might Change The Case For Investing In Arm (ARM)",
@@ -205,10 +203,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 163.12,
+      "price": 162.85,
       "previous_close": 166.67,
-      "change_pct": -2.13,
-      "market_cap": 174607947387.6953,
+      "change_pct": -2.29,
+      "market_cap": 174244151306.15234,
       "headlines": [
         {
           "title": "How Much Could You Lose Holding Qualcomm Stock?",
@@ -217,27 +215,33 @@
           "published": "2026-11-18T14:58:58Z"
         },
         {
+          "title": "Can Qualcomm's Deal With Cirrascale Boost its AI Growth Prospects?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomms-deal-cirrascale-boost-ai-143000776.html",
+          "publisher": "Zacks",
+          "published": "2026-11-18T14:30:00Z"
+        },
+        {
           "title": "Is Nvidia A Hidden Risk In Your Index Fund?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-hidden-risk-index-fund-142708200.html",
           "publisher": "Trefis",
           "published": "2026-11-18T14:27:08Z"
-        },
-        {
-          "title": "Is Broadcom Stock Increasing Your Market Risk?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-increasing-market-risk-132835484.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T13:28:35Z"
         }
       ]
     },
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 145.41,
+      "price": 144.7,
       "previous_close": 148.74,
-      "change_pct": -2.24,
-      "market_cap": 130821464257.60458,
+      "change_pct": -2.72,
+      "market_cap": 130196120379.53244,
       "headlines": [
+        {
+          "title": "What Marvell\u2019s (MRVL) Lumentum Deal Adds to Its Anthropic Growth Story",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-lumentum-deal-adds-152652550.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-18T15:26:52Z"
+        },
         {
           "title": "Is Nvidia A Hidden Risk In Your Index Fund?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-hidden-risk-index-fund-142708200.html",
@@ -249,22 +253,44 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-vs-marvell-technology-135802078.html",
           "publisher": "Motley Fool",
           "published": "2026-11-18T13:58:02Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors",
+      "price": 251.95,
+      "previous_close": 252.51,
+      "change_pct": -0.22,
+      "market_cap": 63503491907.75122,
+      "headlines": [
+        {
+          "title": "Where Did Texas Instruments Fall Behind Analog Devices?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/where-did-texas-instruments-fall-143023738.html",
+          "publisher": "Trefis",
+          "published": "2026-11-18T14:30:23Z"
         },
         {
-          "title": "Is Broadcom Stock Increasing Your Market Risk?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-increasing-market-risk-132835484.html",
+          "title": "First Trust NASDAQ-100 Tech (QTEC) Sells $5.0 Million More Applovin on Nov. 16",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/first-trust-nasdaq-100-tech-110546897.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-18T11:05:46Z"
+        },
+        {
+          "title": "What Is Monolithic Power Systems No Longer Telling You?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/monolithic-power-systems-no-longer-004625182.html",
           "publisher": "Trefis",
-          "published": "2026-11-18T13:28:35Z"
+          "published": "2026-11-17T00:46:25Z"
         }
       ]
     },
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 110.78,
+      "price": 110.6,
       "previous_close": 109.8,
-      "change_pct": 0.89,
-      "market_cap": 15755761875.364655,
+      "change_pct": 0.73,
+      "market_cap": 15730161207.580818,
       "headlines": [
         {
           "title": "3 AI Data Center Stocks Retail Investors Are Watching After Nvidia News",
@@ -289,10 +315,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 102.67,
+      "price": 101.79,
       "previous_close": 104.42,
-      "change_pct": -1.68,
-      "market_cap": 5217761381.284515,
+      "change_pct": -2.52,
+      "market_cap": 5173039303.107742,
       "headlines": [
         {
           "title": "Red Cat Falls 6% as Post-Earnings Selloff Extends; Unusual Machines Slides 3%, AeroVironment Drops 2%",
@@ -317,10 +343,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 117.32,
+      "price": 117.4,
       "previous_close": 117.36,
-      "change_pct": -0.03,
-      "market_cap": 4661942758.516724,
+      "change_pct": 0.03,
+      "market_cap": 4664127839.020905,
       "headlines": [
         {
           "title": "SYNA Q1 Earnings Beat Estimates, Revenues Miss on Weak Demand",
@@ -345,10 +371,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 24.88,
+      "price": 24.86,
       "previous_close": 24.73,
-      "change_pct": 0.59,
-      "market_cap": 709615940.75,
+      "change_pct": 0.53,
+      "market_cap": 709188049.0516663,
       "headlines": [
         {
           "title": "Ceva (CEVA) Upgraded to Buy: Here's What You Should Know",
@@ -375,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 39.08,
-      "change_pct": 0.39,
+      "price": 38.87,
+      "change_pct": -0.17,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -0.66,
-          "price": 707.7,
+          "change_pct": -1.35,
+          "price": 702.78,
           "currency": "USD"
         },
         {
@@ -419,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -2.97,
-          "price": 773.57,
+          "change_pct": -3.53,
+          "price": 769.06,
           "currency": "USD"
         },
         {
@@ -428,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 0.62,
-          "price": 507.55,
+          "change_pct": -0.12,
+          "price": 503.8,
           "currency": "USD"
         },
         {
@@ -437,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 1.57,
-          "price": 287.79,
+          "change_pct": 1.05,
+          "price": 286.31,
           "currency": "USD"
         },
         {
@@ -465,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 39.08,
-    "change_pct": 0.39,
+    "price": 38.87,
+    "change_pct": -0.17,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -0.66,
-        "price": 707.7,
+        "change_pct": -1.35,
+        "price": 702.78,
         "currency": "USD"
       },
       {
@@ -509,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -2.97,
-        "price": 773.57,
+        "change_pct": -3.53,
+        "price": 769.06,
         "currency": "USD"
       },
       {
@@ -518,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 0.62,
-        "price": 507.55,
+        "change_pct": -0.12,
+        "price": 503.8,
         "currency": "USD"
       },
       {
@@ -527,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 1.57,
-        "price": 287.79,
+        "change_pct": 1.05,
+        "price": 286.31,
         "currency": "USD"
       },
       {
@@ -554,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7324.83,
-      "change_pct": -0.21
+      "price": 7323.07,
+      "change_pct": -0.24
     },
     {
       "label": "BTC",
-      "price": 63446.48,
-      "change_pct": -2.23
+      "price": 63438.73,
+      "change_pct": -2.24
     },
     {
       "label": "Gold",
-      "price": 3756.1,
-      "change_pct": -2.8
+      "price": 3760.6,
+      "change_pct": -2.68
     },
     {
       "label": "Nasdaq100",
-      "price": 27055.38,
-      "change_pct": 0.2
+      "price": 27030.51,
+      "change_pct": 0.11
     }
   ]
 }

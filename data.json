@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-18T12:25:35+00:00",
-  "as_of_local": "2026-11-18 12:25:35 UTC",
+  "as_of_utc": "2026-11-18T12:30:24+00:00",
+  "as_of_local": "2026-11-18 12:30:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -285,34 +287,6 @@
       ]
     },
     {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 109.8,
-      "previous_close": 108.17,
-      "change_pct": 1.51,
-      "market_cap": 15616381305.838364,
-      "headlines": [
-        {
-          "title": "3 AI Data Center Stocks Retail Investors Are Watching After Nvidia News",
-          "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-data-center-stocks-011105971.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-18T01:11:05Z"
-        },
-        {
-          "title": "SK hynix Down 23.1% in Three Months: Should You Buy, Hold or Sell?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-down-23-1-142800021.html",
-          "publisher": "Zacks",
-          "published": "2026-11-16T14:28:00Z"
-        },
-        {
-          "title": "Why Is Lattice Semiconductor (LSCC) Pushing Deeper Into Secure Industrial Edge Computing?",
-          "url": "https://finance.yahoo.com/technology/articles/why-lattice-semiconductor-lscc-pushing-151630576.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T15:16:30Z"
-        }
-      ]
-    },
-    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 104.42,
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 64239.73,
-      "change_pct": -1.01
+      "price": 64187.51,
+      "change_pct": -1.09
     },
     {
       "label": "Gold",
-      "price": 3774.0,
-      "change_pct": -2.33
+      "price": 3773.2,
+      "change_pct": -2.35
     },
     {
       "label": "Nasdaq100",

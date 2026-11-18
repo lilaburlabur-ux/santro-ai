@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-18T08:28:19+00:00",
+  "as_of": "2026-11-18T08:43:46+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -25,22 +25,6 @@
   },
   {
    "rank": 2,
-   "ticker": "RXRX",
-   "company": "Recursion Pharmaceuticals Inc",
-   "move_pct": -6.37,
-   "price": 2.72,
-   "volume": 40855500,
-   "volume_vs_avg": "~2x",
-   "heat_score": 45,
-   "direction": "down",
-   "why": "What Recursion Pharmaceuticals Investors Missed Before The Fall",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/healthcare/articles/recursion-pharmaceuticals-investors-missed-fall-043428578.html",
-   "published": "2026-11-18T04:34:28+00:00",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 3,
    "ticker": "WDAY",
    "company": "Workday Inc",
    "move_pct": -5.8,
@@ -56,7 +40,7 @@
    "sector": "AI Applications & Data Software"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "ticker": "SOUN",
    "company": "SoundHound AI Inc",
    "move_pct": -5.26,

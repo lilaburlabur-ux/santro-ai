@@ -4,8 +4,8 @@ Signed file: `QCOM.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $158.71 (2026-11-18, ~15-min delayed) |
-| Market cap | $169.81B |
+| Current price | $159.81 (2026-11-18, ~15-min delayed) |
+| Market cap | $171.00B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `QCOM.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-6.32%) with negative half-year (-20.91%). |
-| Fresh setup quality | Poor / broken | -36.20% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-5.67%) with negative half-year (-20.36%). |
+| Fresh setup quality | Poor / broken | -35.75% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 31.61%, revenue growth -8.40%. |
-| Value attractiveness | Reasonable | Forward P/E 13.03, EV/Sales 4.33. |
+| Value attractiveness | Reasonable | Forward P/E 13.12, EV/Sales 4.33. |
 | Risk level | High | Beta 1.76, ATR 5.6% of price, short float 3.03%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -36,30 +36,30 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| What Sent Intel Stock Lower Since May? | Trefis | 2026-11-18 |
+| Tech layoffs flare up in San Diego with hundreds of layoffs at chipmaker | LA Times | 2026-11-18 |
+| Tech giant worth $170B axes hundreds of California jobs as CEO demands ‘the right people’ in ruthless cull | NY Post | 2026-11-18 |
 | Could Qualcomm Actually Climb 85%? Or Is Baird Totally Wrong? | TIKR | 2026-11-18 |
-| Baird cuts Qualcomm estimates over potential loss of ByteDance chip business | Proactive | 2026-11-18 |
-| Broadcom's Cash Holds Up Better Than Nvidia's | Trefis | 2026-11-18 |
-| Why Micron's Cheap P/E Has Often Meant A Peak | Trefis | 2026-11-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $158.71; 52w high $248.74 (-36.20%); 52w low $122.94 (+29.09%) |
-| Trend | -6.32% vs SMA200, -10.95% vs SMA50, -7.53% vs SMA20 |
-| Momentum | RSI(14) 39.5 (neutral) |
+| Price vs 52-week range | Close $159.81; 52w high $248.74 (-35.75%); 52w low $122.94 (+29.99%) |
+| Trend | -5.67% vs SMA200, -10.34% vs SMA50, -6.92% vs SMA20 |
+| Momentum | RSI(14) 40.1 (neutral) |
 | Volatility | ATR(14) 8.88 (~5.6% of price); beta 1.76 |
-| Setup perspective | -36.20% from 52w high — base needs to rebuild. |
+| Setup perspective | -35.75% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -10.1% |
-| Month | -9.7% |
-| Quarter | -0.7% |
-| Half Y | -20.9% |
-| 1Y | -2.8% |
-| YTD | -6.8% |
+| Week | -9.5% |
+| Month | -9.0% |
+| Quarter | -0.0% |
+| Half Y | -20.4% |
+| 1Y | -2.2% |
+| YTD | -6.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $43.12B | Revenue growth -8.40% y/y |
 | Profitability | Gross 53.10%, operating 20.85%, net 31.61% | ROA 10.13%, ROE 52.81% |
 | Balance sheet | Cash $7.68B, debt $15.99B | Current ratio 1.86, debt/equity 52.60 |
-| Valuation | P/E 12.50, forward P/E 13.03, P/S 3.94, P/B 5.60 | EV/Sales 4.33, EV/EBITDA 17.57 |
+| Valuation | P/E 12.58, forward P/E 13.12, P/S 3.97, P/B 5.64 | EV/Sales 4.33, EV/EBITDA 17.57 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $185.25 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,21 +111,21 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $158.71 | EV/Sales | 4.33 |
-| Market cap | $169.81B | EV/EBITDA | 17.57 |
+| Price | $159.81 | EV/Sales | 4.33 |
+| Market cap | $171.00B | EV/EBITDA | 17.57 |
 | Beta | 1.76 | Gross margin | 53.10% |
-| RSI(14) | 39.5 | Operating margin | 20.85% |
+| RSI(14) | 40.1 | Operating margin | 20.85% |
 | ATR(14) | 8.88 | Profit margin | 31.61% |
-| SMA20 dist | -7.53% | ROA | 10.13% |
-| SMA50 dist | -10.95% | ROE | 52.81% |
-| SMA200 dist | -6.32% | Revenue (ttm) | $43.12B |
+| SMA20 dist | -6.92% | ROA | 10.13% |
+| SMA50 dist | -10.34% | ROE | 52.81% |
+| SMA200 dist | -5.67% | Revenue (ttm) | $43.12B |
 | 52W high | $248.74 | Revenue growth y/y | -8.40% |
 | 52W low | $122.94 | Inst. ownership | 81.62% |
-| P/E (ttm) | 12.50 | Insider ownership | 0.14% |
-| Forward P/E | 13.03 | Short float | 3.03% |
+| P/E (ttm) | 12.58 | Insider ownership | 0.14% |
+| Forward P/E | 13.12 | Short float | 3.03% |
 | PEG (trailing) | 0.99 | Avg volume | 12,769,875 |
-| P/S | 3.94 | Employees | 57,000 |
-| P/B | 5.60 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/S | 3.97 | Employees | 57,000 |
+| P/B | 5.64 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

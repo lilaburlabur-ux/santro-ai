@@ -4,8 +4,8 @@ Signed file: `AMD.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $521.29 (2026-11-18, ~15-min delayed) |
-| Market cap | $862.77B |
+| Current price | $530.14 (2026-11-18, ~15-min delayed) |
+| Market cap | $877.42B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `AMD.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +116.73%; price +22.04% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -19.73% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +120.41%; price +24.10% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -18.37% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 16.77%, revenue growth 44.70%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 29.55, EV/Sales 18.03. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 30.06, EV/Sales 18.03. |
 | Risk level | High | Beta 2.54, ATR 7.6% of price, short float 2.36%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
@@ -37,29 +37,29 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Headline | Source | Date |
 |---|---|---|
 | AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat | Yahoo Finance | 2026-11-17 |
-| NVIDIA Is Near Its 52-Week Low. Will NVDA Stock Hit $100 or $200 First? | 24/7 Wall St. | 2026-11-18 |
-| Nvidia, Micron and TSMC Face a Massive Wave of Bearish Bets | GuruFocus.com | 2026-11-18 |
-| Nvidia's $130 Billion Forecast Sparks Fresh AI Stock Rally | GuruFocus.com | 2026-11-18 |
+| Taiwan Semiconductor Stock (TSM) Looks Too Cheap for Its Growth Outlook | TipRanks | 2026-11-18 |
+| What Sent Intel Stock Lower Since May? | Trefis | 2026-11-18 |
+| Super Micro Computer (SMCI) Ships PCIe Gen 6 Servers, Is It 57% Below Fair Value? | Simply Wall St. | 2026-11-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $521.29; 52w high $649.42 (-19.73%); 52w low $190.95 (+173.00%) |
-| Trend | +22.04% vs SMA200, -6.08% vs SMA50, +1.38% vs SMA20 |
-| Momentum | RSI(14) 49.2 (neutral) |
-| Volatility | ATR(14) 39.80 (~7.6% of price); beta 2.54 |
-| Setup perspective | -19.73% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $530.14; 52w high $649.42 (-18.37%); 52w low $190.95 (+177.63%) |
+| Trend | +24.10% vs SMA200, -4.52% vs SMA50, +3.01% vs SMA20 |
+| Momentum | RSI(14) 50.3 (neutral) |
+| Volatility | ATR(14) 40.33 (~7.6% of price); beta 2.54 |
+| Setup perspective | -18.37% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.7% |
-| Month | -2.5% |
-| Quarter | +11.0% |
-| Half Y | +16.5% |
-| 1Y | +116.7% |
-| YTD | +133.3% |
+| Week | -4.1% |
+| Month | -0.9% |
+| Quarter | +12.9% |
+| Half Y | +18.4% |
+| 1Y | +120.4% |
+| YTD | +137.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Revenue (ttm) | $45.44B | Revenue growth 44.70% y/y |
 | Profitability | Gross 56.00%, operating 17.82%, net 16.77% | ROA 5.90%, ROE 11.96% |
 | Balance sheet | Cash $15.78B, debt $9.21B | Current ratio 2.73, debt/equity 13.47 |
-| Valuation | P/E 111.39, forward P/E 29.55, P/S 18.99, P/B 12.50 | EV/Sales 18.03, EV/EBITDA 73.50 |
+| Valuation | P/E 113.28, forward P/E 30.06, P/S 19.31, P/B 12.71 | EV/Sales 18.03, EV/EBITDA 73.50 |
 | Growth expectations | Earnings growth 93.80%, EPS q/q 95.30% | Analyst mean target $657.74 (49 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Morgan Stanley | 24,001,499 | 1.46% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 29.55, EV/Sales 18.03. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 30.06, EV/Sales 18.03. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.54, ATR 7.6% of price, short float 2.36%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,21 +111,21 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $521.29 | EV/Sales | 18.03 |
-| Market cap | $862.77B | EV/EBITDA | 73.50 |
+| Price | $530.14 | EV/Sales | 18.03 |
+| Market cap | $877.42B | EV/EBITDA | 73.50 |
 | Beta | 2.54 | Gross margin | 56.00% |
-| RSI(14) | 49.2 | Operating margin | 17.82% |
-| ATR(14) | 39.80 | Profit margin | 16.77% |
-| SMA20 dist | +1.38% | ROA | 5.90% |
-| SMA50 dist | -6.08% | ROE | 11.96% |
-| SMA200 dist | +22.04% | Revenue (ttm) | $45.44B |
+| RSI(14) | 50.3 | Operating margin | 17.82% |
+| ATR(14) | 40.33 | Profit margin | 16.77% |
+| SMA20 dist | +3.01% | ROA | 5.90% |
+| SMA50 dist | -4.52% | ROE | 11.96% |
+| SMA200 dist | +24.10% | Revenue (ttm) | $45.44B |
 | 52W high | $649.42 | Revenue growth y/y | 44.70% |
 | 52W low | $190.95 | Inst. ownership | 75.11% |
-| P/E (ttm) | 111.39 | Insider ownership | 0.45% |
-| Forward P/E | 29.55 | Short float | 2.36% |
+| P/E (ttm) | 113.28 | Insider ownership | 0.45% |
+| Forward P/E | 30.06 | Short float | 2.36% |
 | PEG (trailing) | 0.45 | Avg volume | 25,119,125 |
-| P/S | 18.99 | Employees | 31,000 |
-| P/B | 12.50 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/S | 19.31 | Employees | 31,000 |
+| P/B | 12.71 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

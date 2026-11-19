@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-19T17:05:11+00:00",
+  "as_of": "2026-11-19T17:10:44+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,17 +11,33 @@
    "rank": 1,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
-   "move_pct": -8.58,
-   "price": 484.64,
-   "volume": 40456762,
+   "move_pct": -8.57,
+   "price": 484.73,
+   "volume": 41648804,
    "volume_vs_avg": "~1.3x",
-   "heat_score": 61,
+   "heat_score": 62,
    "direction": "down",
    "why": "Update: Advanced Micro Devices Shares Fall Amid Hunterbrook Media Report on China Ties",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-shares-fall-165001572.html",
    "published": "2026-11-19T16:50:01+00:00",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
+   "ticker": "PANW",
+   "company": "Palo Alto Networks Inc",
+   "move_pct": 5.28,
+   "price": 357.86,
+   "volume": 10077342,
+   "volume_vs_avg": "~2x",
+   "heat_score": 41,
+   "direction": "up",
+   "why": "Why Palo Alto Networks Stock Rallied Today",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-palo-alto-networks-stock-164719154.html",
+   "published": "2026-11-19T16:47:19+00:00",
+   "sector": "Cybersecurity"
   }
  ]
 }

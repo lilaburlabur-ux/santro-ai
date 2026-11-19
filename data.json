@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-19T00:33:54+00:00",
-  "as_of_local": "2026-11-19 00:33:54 UTC",
+  "as_of_utc": "2026-11-19T00:39:07+00:00",
+  "as_of_local": "2026-11-19 00:39:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -31,6 +29,34 @@
           "url": "https://finance.yahoo.com/technology/article/nvidia-interim-ceo-colette-kress-has-taken-over-one-of-the-most-consequential-companies-on-the-planet-those-who-know-her-say-shes-up-to-the-task-210312776.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-18T20:26:19Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 362.62,
+      "previous_close": 359.69,
+      "change_pct": 0.81,
+      "market_cap": 1880718811759.7048,
+      "headlines": [
+        {
+          "title": "AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat",
+          "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-17T22:01:59Z"
+        },
+        {
+          "title": "Anthropic to debut amid security worries and SpaceX to finance GPU rentals",
+          "url": "https://finance.yahoo.com/video/anthropic-to-debut-amid-security-worries-and-spacex-to-finance-gpu-rentals-225801261.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-18T22:58:01Z"
+        },
+        {
+          "title": "The 5 Best Stocks in Brad Gerstner\u2019s Portfolio",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-stocks-brad-gerstner-225447890.html",
+          "publisher": "TIKR",
+          "published": "2026-11-18T22:54:47Z"
         }
       ]
     },
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -0.98,
-          "price": 7946.0,
+          "change_pct": -2.29,
+          "price": 7841.0,
           "currency": "JPY"
         },
         {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -0.98,
-        "price": 7946.0,
+        "change_pct": -2.29,
+        "price": 7841.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 62887.13,
-      "change_pct": -3.09
+      "price": 63046.99,
+      "change_pct": -2.85
     },
     {
       "label": "Gold",
-      "price": 3744.7,
-      "change_pct": -3.09
+      "price": 3745.7,
+      "change_pct": -3.07
     },
     {
       "label": "Nasdaq100",

@@ -1,18 +1,16 @@
 {
-  "as_of_utc": "2026-11-19T15:38:25+00:00",
-  "as_of_local": "2026-11-19 15:38:25 UTC",
+  "as_of_utc": "2026-11-19T15:43:31+00:00",
+  "as_of_local": "2026-11-19 15:43:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 151.72,
+      "price": 152.41,
       "previous_close": 150.96,
-      "change_pct": 0.5,
-      "market_cap": 3663462016571.045,
+      "change_pct": 0.96,
+      "market_cap": 3680048709365.8447,
       "headlines": [
         {
           "title": "Nvidia, AMD, Micron stocks lead chip sector higher amid Anthropic IPO optimism",
@@ -37,10 +35,10 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 361.27,
+      "price": 362.1,
       "previous_close": 362.62,
-      "change_pct": -0.37,
-      "market_cap": 1874287635896.2952,
+      "change_pct": -0.14,
+      "market_cap": 1876933262608.17,
       "headlines": [
         {
           "title": "Micron Stock Finds a Spark as Rival Downplays AI Growth Fears",
@@ -65,10 +63,10 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 354.0,
+      "price": 355.73,
       "previous_close": 354.05,
-      "change_pct": -0.01,
-      "market_cap": 1689578566072.4697,
+      "change_pct": 0.47,
+      "market_cap": 1697932418336.2197,
       "headlines": [
         {
           "title": "Anthropic\u2019s IPO puts AI\u2019s circular financing boom to the test",
@@ -91,40 +89,12 @@
       ]
     },
     {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 495.05,
-      "previous_close": 530.14,
-      "change_pct": -6.62,
-      "market_cap": 818463008976.8666,
-      "headlines": [
-        {
-          "title": "Nvidia, AMD, Micron stocks lead chip sector higher amid Anthropic IPO optimism",
-          "url": "https://finance.yahoo.com/markets/article/copy-nvidia-stock-slips-as-investors-digest-ceo-exit-rest-of-chip-sector-falls-134408467.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-19T13:44:08Z"
-        },
-        {
-          "title": "Stock market today: Dow, S&P 500, Nasdaq rise ahead of historic Anthropic trading debut",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-19T09:09:10Z"
-        },
-        {
-          "title": "Nasdaq climbs as tech leads gains ahead of Anthropic's market debut",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-jump-anthropics-record-090243474.html",
-          "publisher": "Reuters",
-          "published": "2026-11-19T15:15:34Z"
-        }
-      ]
-    },
-    {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 716.07,
+      "price": 716.85,
       "previous_close": 705.27,
-      "change_pct": 1.53,
-      "market_cap": 810110345073.1748,
+      "change_pct": 1.64,
+      "market_cap": 811072027180.7378,
       "headlines": [
         {
           "title": "Nvidia, AMD, Micron stocks lead chip sector higher amid Anthropic IPO optimism",
@@ -147,13 +117,47 @@
       ]
     },
     {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 485.01,
+      "previous_close": 530.14,
+      "change_pct": -8.51,
+      "market_cap": 803161935835.8564,
+      "headlines": [
+        {
+          "title": "Nvidia, AMD, Micron stocks lead chip sector higher amid Anthropic IPO optimism",
+          "url": "https://finance.yahoo.com/markets/article/copy-nvidia-stock-slips-as-investors-digest-ceo-exit-rest-of-chip-sector-falls-134408467.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-19T13:44:08Z"
+        },
+        {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq rise ahead of historic Anthropic trading debut",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-19T09:09:10Z"
+        },
+        {
+          "title": "Nasdaq climbs as tech leads gains ahead of Anthropic's market debut",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-jump-anthropics-record-090243474.html",
+          "publisher": "Reuters",
+          "published": "2026-11-19T15:15:34Z"
+        }
+      ]
+    },
+    {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 56.28,
+      "price": 56.42,
       "previous_close": 54.67,
-      "change_pct": 2.94,
-      "market_cap": 299128193511.9629,
+      "change_pct": 3.2,
+      "market_cap": 300138056488.0371,
       "headlines": [
+        {
+          "title": "BC-Most Active Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153021724.html",
+          "publisher": "Associated Press",
+          "published": "2026-11-19T15:30:21Z"
+        },
         {
           "title": "Nasdaq climbs as tech leads gains ahead of Anthropic's market debut",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-jump-anthropics-record-090243474.html",
@@ -165,22 +169,44 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-secures-ai-chip-151529450.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-19T15:15:29Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 179.27,
+      "previous_close": 182.76,
+      "change_pct": -1.91,
+      "market_cap": 191970842742.91992,
+      "headlines": [
+        {
+          "title": "Moody\u2019s Lowers Nvidia\u2019s Ratings Outlook to Stable From Positive",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/moody-lowers-nvidia-ratings-outlook-222901110.html",
+          "publisher": "Bloomberg",
+          "published": "2026-11-18T22:29:01Z"
         },
         {
-          "title": "Intel Soars 8% on First Outside 18A Customer as CEO Says \u201cI Just Cannot Supply Enough\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-soars-8-first-outside-150154776.html",
-          "publisher": "TIKR",
-          "published": "2026-11-19T15:01:54Z"
+          "title": "Arm CEO Rene Haas Reportedly Approached By Recruitment Agency Hired By Nvidia Board",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-ceo-rene-haas-reportedly-220315171.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-18T22:03:15Z"
+        },
+        {
+          "title": "Sector Update: Tech Stocks Retreat Late Afternoon",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-retreat-afternoon-204316548.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-18T20:43:16Z"
         }
       ]
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 163.66,
+      "price": 164.18,
       "previous_close": 159.81,
-      "change_pct": 2.41,
-      "market_cap": 175271342163.08594,
+      "change_pct": 2.74,
+      "market_cap": 175677947387.6953,
       "headlines": [
         {
           "title": "4 Tech Dividend Stocks Yielding Over 2% That Retirees Can Own for Growth and Income",
@@ -208,7 +234,7 @@
       "price": 146.04,
       "previous_close": 145.54,
       "change_pct": 0.34,
-      "market_cap": 131428808973.82214,
+      "market_cap": 131473786284.4519,
       "headlines": [
         {
           "title": "Nasdaq climbs as tech leads gains ahead of Anthropic's market debut",
@@ -233,10 +259,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 254.45,
+      "price": 254.63,
       "previous_close": 252.47,
-      "change_pct": 0.78,
-      "market_cap": 64134882027.395325,
+      "change_pct": 0.86,
+      "market_cap": 64181511214.811584,
       "headlines": [
         {
           "title": "Is Texas Instruments' Sales Boom Its Biggest Risk?",
@@ -261,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 113.67,
+      "price": 114.15,
       "previous_close": 111.61,
-      "change_pct": 1.85,
-      "market_cap": 16168927334.10431,
+      "change_pct": 2.28,
+      "market_cap": 16235773582.489655,
       "headlines": [
         {
           "title": "3 AI Data Center Stocks Retail Investors Are Watching After Nvidia News",
@@ -289,10 +315,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 99.91,
+      "price": 100.35,
       "previous_close": 101.11,
-      "change_pct": -1.19,
-      "market_cap": 5085627633.630753,
+      "change_pct": -0.76,
+      "market_cap": 5089947346.77301,
       "headlines": [
         {
           "title": "AeroVironment, Inc. (AVAV): Why is Wall Street Bullish on this Drone Stock?",
@@ -317,10 +343,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 117.36,
+      "price": 117.41,
       "previous_close": 117.67,
-      "change_pct": -0.26,
-      "market_cap": 4662538662.008362,
+      "change_pct": -0.22,
+      "market_cap": 4664525209.050171,
       "headlines": [
         {
           "title": "Top 3 AI Infrastructure Stocks To Watch In November 2026",
@@ -345,10 +371,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 26.62,
+      "price": 26.55,
       "previous_close": 25.19,
-      "change_pct": 5.69,
-      "market_cap": 759467336.829792,
+      "change_pct": 5.4,
+      "market_cap": 757399102.9354172,
       "headlines": [
         {
           "title": "Ceva (CEVA) Upgraded to Buy: Here's What You Should Know",
@@ -375,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 39.65,
-      "change_pct": 1.29,
+      "price": 39.67,
+      "change_pct": 1.34,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 1.53,
-          "price": 716.07,
+          "change_pct": 1.64,
+          "price": 716.85,
           "currency": "USD"
         },
         {
@@ -419,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 1.16,
-          "price": 785.24,
+          "change_pct": 1.85,
+          "price": 790.59,
           "currency": "USD"
         },
         {
@@ -428,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 5.12,
-          "price": 542.31,
+          "change_pct": 4.96,
+          "price": 541.48,
           "currency": "USD"
         },
         {
@@ -437,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 5.1,
-          "price": 302.89,
+          "change_pct": 4.96,
+          "price": 302.47,
           "currency": "USD"
         },
         {
@@ -465,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 39.65,
-    "change_pct": 1.29,
+    "price": 39.67,
+    "change_pct": 1.34,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 1.53,
-        "price": 716.07,
+        "change_pct": 1.64,
+        "price": 716.85,
         "currency": "USD"
       },
       {
@@ -509,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 1.16,
-        "price": 785.24,
+        "change_pct": 1.85,
+        "price": 790.59,
         "currency": "USD"
       },
       {
@@ -518,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 5.12,
-        "price": 542.31,
+        "change_pct": 4.96,
+        "price": 541.48,
         "currency": "USD"
       },
       {
@@ -527,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 5.1,
-        "price": 302.89,
+        "change_pct": 4.96,
+        "price": 302.47,
         "currency": "USD"
       },
       {
@@ -554,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7282.89,
-      "change_pct": -0.56
+      "price": 7296.62,
+      "change_pct": -0.37
     },
     {
       "label": "BTC",
-      "price": 62879.22,
-      "change_pct": -0.17
+      "price": 62864.61,
+      "change_pct": -0.19
     },
     {
       "label": "Gold",
-      "price": 3698.4,
-      "change_pct": -1.16
+      "price": 3689.4,
+      "change_pct": -1.4
     },
     {
       "label": "Nasdaq100",
-      "price": 27016.26,
-      "change_pct": -0.37
+      "price": 27083.64,
+      "change_pct": -0.12
     }
   ]
 }

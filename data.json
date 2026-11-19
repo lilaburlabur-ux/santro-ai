@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-19T09:47:38+00:00",
-  "as_of_local": "2026-11-19 09:47:38 UTC",
+  "as_of_utc": "2026-11-19T09:52:35+00:00",
+  "as_of_local": "2026-11-19 09:52:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -153,12 +155,6 @@
       "market_cap": 290571040267.94434,
       "headlines": [
         {
-          "title": "NVDA, INTC Stocks Ease Post 5-Day Rout: After Meeting Xi Jinping, Trump Says Nvidia Blackwell Chips Could Reach China Within 2-3 Years",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-intc-stocks-ease-post-083356009.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-19T08:33:56Z"
-        },
-        {
           "title": "What Explains Natera Stock's Nearly 10% Drop?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/explains-natera-stocks-nearly-10-234838696.html",
           "publisher": "Trefis",
@@ -169,6 +165,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/moved-coupang-stock-over-5-234256391.html",
           "publisher": "Trefis",
           "published": "2026-11-18T23:42:56Z"
+        },
+        {
+          "title": "The 5 Best Stocks in Nvidia\u2019s Portfolio",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-stocks-nvidia-portfolio-222315004.html",
+          "publisher": "TIKR",
+          "published": "2026-11-18T22:23:15Z"
         }
       ]
     },
@@ -309,34 +311,6 @@
           "url": "https://finance.yahoo.com/technology/articles/why-lattice-semiconductor-lscc-pushing-151630576.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-13T15:16:30Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 101.11,
-      "previous_close": 104.42,
-      "change_pct": -3.17,
-      "market_cap": 5138481210.238495,
-      "headlines": [
-        {
-          "title": "AeroVironment, Inc. (AVAV): Why is Wall Street Bullish on this Drone Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-inc-avav-why-wall-233230171.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-18T23:32:30Z"
-        },
-        {
-          "title": "Is AeroVironment (AVAV) Undervalued After Its $405 Million LOCUST X3 Order?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-undervalued-405-million-232339835.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-18T23:23:39Z"
-        },
-        {
-          "title": "Woodward (WWD) Beats Q4 Earnings and Revenue Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/woodward-wwd-beats-q4-earnings-211001931.html",
-          "publisher": "Zacks",
-          "published": "2026-11-18T21:10:01Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 63796.87,
-      "change_pct": 1.29
+      "price": 63825.24,
+      "change_pct": 1.33
     },
     {
       "label": "Gold",
-      "price": 3734.5,
-      "change_pct": -0.2
+      "price": 3735.7,
+      "change_pct": -0.17
     },
     {
       "label": "Nasdaq100",

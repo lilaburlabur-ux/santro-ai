@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-19T21:05:25+00:00",
-  "as_of_local": "2026-11-19 21:05:25 UTC",
+  "as_of_utc": "2026-11-19T21:10:32+00:00",
+  "as_of_local": "2026-11-19 21:10:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -59,6 +57,34 @@
           "url": "https://finance.yahoo.com/video/nvidia-will-not-be-the-leader-5-years-from-now-tiernan-ray-185954396.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-19T18:59:54Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 346.65,
+      "previous_close": 354.05,
+      "change_pct": -2.09,
+      "market_cap": 1654778763566.3254,
+      "headlines": [
+        {
+          "title": "Why AI competition from China won't be a risk US tech companies",
+          "url": "https://finance.yahoo.com/video/why-ai-competition-from-china-wont-be-a-risk-us-tech-companies-184851467.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-19T18:48:51Z"
+        },
+        {
+          "title": "Marvell Stock Halved Again. What Does Its Cash Say?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-halved-again-does-202557344.html",
+          "publisher": "Trefis",
+          "published": "2026-11-19T20:25:57Z"
+        },
+        {
+          "title": "Why Broadcom Stock Took a Wild Ride on Thursday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-stock-took-wild-200123397.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-19T20:01:23Z"
         }
       ]
     },
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 4.19,
-          "price": 1144000.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "KRW"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 4.19,
-        "price": 1144000.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "KRW"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61804.5,
-      "change_pct": -1.88
+      "price": 61902.88,
+      "change_pct": -1.72
     },
     {
       "label": "Gold",
-      "price": 3664.7,
-      "change_pct": -2.06
+      "price": 3662.4,
+      "change_pct": -2.12
     },
     {
       "label": "Nasdaq100",

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-19T06:57:35+00:00",
-  "as_of_local": "2026-11-19 06:57:35 UTC",
+  "as_of_utc": "2026-11-19T07:12:44+00:00",
+  "as_of_local": "2026-11-19 07:12:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,12 +41,6 @@
       "market_cap": 1880718811759.7048,
       "headlines": [
         {
-          "title": "AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat",
-          "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-17T22:01:59Z"
-        },
-        {
           "title": "Anthropic to debut amid security worries and SpaceX to finance GPU rentals",
           "url": "https://finance.yahoo.com/video/anthropic-to-debut-amid-security-worries-and-spacex-to-finance-gpu-rentals-225801261.html",
           "publisher": "Yahoo Finance Video",
@@ -57,6 +51,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-stocks-brad-gerstner-225447890.html",
           "publisher": "TIKR",
           "published": "2026-11-18T22:54:47Z"
+        },
+        {
+          "title": "Dan Ives\u2019 Top 10 AI Revolution Stock Picks: Inside The IVES ETF",
+          "url": "https://finance.yahoo.com/technology/ai/articles/dan-ives-top-10-ai-223943794.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-18T22:39:43Z"
         }
       ]
     },
@@ -69,12 +69,6 @@
       "market_cap": 1690103595431.4011,
       "headlines": [
         {
-          "title": "AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat",
-          "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-17T22:01:59Z"
-        },
-        {
           "title": "Wall Street Pledged to Mobilize $500 Billion for Nvidia\u2014But Hasn\u2019t Put Up a Dime",
           "url": "https://www.wsj.com/finance/wall-street-pledged-to-mobilize-500-billion-for-nvidiabut-hasnt-put-up-a-dime-1e41f276?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
@@ -85,6 +79,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/thinking-buying-anthropic-ipo-nov-233502633.html",
           "publisher": "Motley Fool",
           "published": "2026-11-18T23:35:02Z"
+        },
+        {
+          "title": "Stock Market Today, Nov. 18: Nvidia Slips on Strong Results as Succession and China Business Risks Weigh",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-18-221135469.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-18T22:11:35Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.71,
-          "price": 1175000.0,
+          "change_pct": 2.53,
+          "price": 1173000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.21,
-          "price": 195100.0,
+          "change_pct": 0.15,
+          "price": 195000.0,
           "currency": "KRW"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.71,
-        "price": 1175000.0,
+        "change_pct": 2.53,
+        "price": 1173000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.21,
-        "price": 195100.0,
+        "change_pct": 0.15,
+        "price": 195000.0,
         "currency": "KRW"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63632.99,
-      "change_pct": -1.94
+      "price": 63568.27,
+      "change_pct": 0.92
     },
     {
       "label": "Gold",
-      "price": 3734.7,
-      "change_pct": -0.19
+      "price": 3741.0,
+      "change_pct": -0.02
     },
     {
       "label": "Nasdaq100",

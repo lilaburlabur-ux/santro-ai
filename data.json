@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-19T10:02:45+00:00",
-  "as_of_local": "2026-11-19 10:02:45 UTC",
+  "as_of_utc": "2026-11-19T10:07:49+00:00",
+  "as_of_local": "2026-11-19 10:07:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -253,34 +255,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/lumentum-down-33-month-marvell-200355260.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-18T20:03:55Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 252.47,
-      "previous_close": 252.51,
-      "change_pct": -0.02,
-      "market_cap": 63635818188.04187,
-      "headlines": [
-        {
-          "title": "Where Did Texas Instruments Fall Behind Analog Devices?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/where-did-texas-instruments-fall-143023738.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T14:30:23Z"
-        },
-        {
-          "title": "First Trust NASDAQ-100 Tech (QTEC) Sells $5.0 Million More Applovin on Nov. 16",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/first-trust-nasdaq-100-tech-110546897.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-18T11:05:46Z"
-        },
-        {
-          "title": "What Is Monolithic Power Systems No Longer Telling You?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/monolithic-power-systems-no-longer-004625182.html",
-          "publisher": "Trefis",
-          "published": "2026-11-17T00:46:25Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 63768.84,
-      "change_pct": 1.24
+      "price": 63800.43,
+      "change_pct": 1.29
     },
     {
       "label": "Gold",
-      "price": 3731.3,
-      "change_pct": -0.28
+      "price": 3728.4,
+      "change_pct": -0.36
     },
     {
       "label": "Nasdaq100",

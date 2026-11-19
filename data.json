@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-19T23:07:22+00:00",
-  "as_of_local": "2026-11-19 23:07:22 UTC",
+  "as_of_utc": "2026-11-19T23:12:56+00:00",
+  "as_of_local": "2026-11-19 23:12:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -115,6 +113,34 @@
           "url": "https://finance.yahoo.com/video/blacklisted-chinese-server-maker-kept-getting-amd-firmware-updates-hunterbrook-162807931.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-19T16:28:07Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 690.44,
+      "previous_close": 705.27,
+      "change_pct": -2.1,
+      "market_cap": 781179845255.5437,
+      "headlines": [
+        {
+          "title": "Nvidia, Broadcom, and Micron stocks decline as Anthropic goes public",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-broadcom-micron-stocks-decline-as-anthropic-goes-public-170845481.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-19T13:44:08Z"
+        },
+        {
+          "title": "Memory supply constraints will be even 'tighter' in 2027: Micron CTO",
+          "url": "https://finance.yahoo.com/technology/ai/article/memory-supply-constraints-will-be-even-tighter-in-2027-micron-cto-173141999.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-19T17:31:41Z"
+        },
+        {
+          "title": "Micron (MU) Dips More Than Broader Market: What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-dips-more-broader-214503318.html",
+          "publisher": "Zacks",
+          "published": "2026-11-19T21:45:03Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -2.1,
+          "price": 690.44,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -2.1,
+        "price": 690.44,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 62015.22,
-      "change_pct": -1.54
+      "price": 61891.83,
+      "change_pct": -1.74
     },
     {
       "label": "Gold",
-      "price": 3627.9,
-      "change_pct": -3.05
+      "price": 3635.2,
+      "change_pct": -2.85
     },
     {
       "label": "Nasdaq100",

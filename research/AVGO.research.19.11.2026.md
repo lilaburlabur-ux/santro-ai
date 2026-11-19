@@ -4,24 +4,24 @@ Signed file: `AVGO.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $354.05 (2026-11-19, ~15-min delayed) |
-| Market cap | $1.69T |
+| Current price | $348.27 (2026-11-19, ~15-min delayed) |
+| Market cap | $1.66T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-3.46%) with negative half-year (-14.96%). |
-| Fresh setup quality | Poor / broken | -26.23% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-5.09%) with negative half-year (-15.71%). |
+| Fresh setup quality | Poor / broken | -27.43% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 42.94%, revenue growth 85.50%. |
-| Value attractiveness | Reasonable | Forward P/E 18.24, EV/Sales 19.37. |
-| Risk level | Elevated | Beta 1.51, ATR 5.0% of price, short float 1.11%. |
+| Value attractiveness | Reasonable | Forward P/E 17.94, EV/Sales 19.37. |
+| Risk level | High | Beta 1.51, ATR 5.2% of price, short float 1.11%. |
 
-**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
-| AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat | Yahoo Finance | 2026-11-17 |
-| Thinking About Buying Anthropic’s IPO on Nov. 19? Here’s an AI Stock I’d Consider First (Hint: It’s Not Nvidia or Broadcom). | Motley Fool | 2026-11-18 |
-| Stock Market Today, Nov. 18: Nvidia Slips on Strong Results as Succession and China Business Risks Weigh | Motley Fool | 2026-11-18 |
-| Nvidia Says It’s ‘Business as Usual’ After Huang’s Ouster. Wall Street Doesn’t Buy It. | The Wall Street Journal | 2026-11-18 |
+| Why AI competition from China won't be a risk US tech companies | Yahoo Finance Video | 2026-11-19 |
+| Why Broadcom Stock Took a Wild Ride on Thursday | Motley Fool | 2026-11-19 |
+| Anthropic Soars 16% in Record $107 Billion IPO Debut: “A Really Big Coming-of-Age Story” | TIKR | 2026-11-19 |
+| What's Happening To Intel's Factory Cash? | Trefis | 2026-11-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $354.05; 52w high $479.94 (-26.23%); 52w low $291.53 (+21.45%) |
-| Trend | -3.46% vs SMA200, +2.90% vs SMA50, +6.62% vs SMA20 |
-| Momentum | RSI(14) 55.1 (neutral) |
-| Volatility | ATR(14) 17.57 (~5.0% of price); beta 1.51 |
-| Setup perspective | -26.23% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $348.27; 52w high $479.94 (-27.43%); 52w low $291.53 (+19.46%) |
+| Trend | -5.09% vs SMA200, +1.29% vs SMA50, +4.48% vs SMA20 |
+| Momentum | RSI(14) 53.1 (neutral) |
+| Volatility | ATR(14) 18.04 (~5.2% of price); beta 1.51 |
+| Setup perspective | -27.43% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.6% |
-| Month | +5.9% |
-| Quarter | -2.6% |
-| Half Y | -15.0% |
-| 1Y | +4.1% |
-| YTD | +2.4% |
+| Week | -4.4% |
+| Month | +3.1% |
+| Quarter | -5.3% |
+| Half Y | -15.7% |
+| 1Y | +3.0% |
+| YTD | +0.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $89.10B | Revenue growth 85.50% y/y |
 | Profitability | Gross 75.52%, operating 48.81%, net 42.94% | ROA 15.37%, ROE 44.25% |
 | Balance sheet | Cash $23.98B, debt $59.42B | Current ratio 2.50, debt/equity 59.60 |
-| Valuation | P/E 45.22, forward P/E 18.24, P/S 18.97, P/B 16.95 | EV/Sales 19.37, EV/EBITDA 33.02 |
-| Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $528.17 (47 analysts) |
+| Valuation | P/E 44.48, forward P/E 17.94, P/S 18.66, P/B 16.68 | EV/Sales 19.37, EV/EBITDA 33.02 |
+| Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $526.47 (47 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 79.42% |
+| Institutional ownership | 79.65% |
 | Insider ownership | 1.96% |
 | Short float | 1.11% |
 | Short ratio (days to cover) | 2.3 |
@@ -95,7 +95,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Capital International Investors | 82,221,573 | 1.72% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.51, ATR 5.0% of price, short float 1.11%. Size positions accordingly.
+- **Volatility risk:** Beta 1.51, ATR 5.2% of price, short float 1.11%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,21 +111,21 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $354.05 | EV/Sales | 19.37 |
-| Market cap | $1.69T | EV/EBITDA | 33.02 |
+| Price | $348.27 | EV/Sales | 19.37 |
+| Market cap | $1.66T | EV/EBITDA | 33.02 |
 | Beta | 1.51 | Gross margin | 75.52% |
-| RSI(14) | 55.1 | Operating margin | 48.81% |
-| ATR(14) | 17.57 | Profit margin | 42.94% |
-| SMA20 dist | +6.62% | ROA | 15.37% |
-| SMA50 dist | +2.90% | ROE | 44.25% |
-| SMA200 dist | -3.46% | Revenue (ttm) | $89.10B |
+| RSI(14) | 53.1 | Operating margin | 48.81% |
+| ATR(14) | 18.04 | Profit margin | 42.94% |
+| SMA20 dist | +4.48% | ROA | 15.37% |
+| SMA50 dist | +1.29% | ROE | 44.25% |
+| SMA200 dist | -5.09% | Revenue (ttm) | $89.10B |
 | 52W high | $479.94 | Revenue growth y/y | 85.50% |
-| 52W low | $291.53 | Inst. ownership | 79.42% |
-| P/E (ttm) | 45.22 | Insider ownership | 1.96% |
-| Forward P/E | 18.24 | Short float | 1.11% |
-| PEG (trailing) | 0.34 | Avg volume | 25,444,560 |
-| P/S | 18.97 | Employees | 33,000 |
-| P/B | 16.95 | Analyst rec (1=buy..5=sell) | 1.3 |
+| 52W low | $291.53 | Inst. ownership | 79.65% |
+| P/E (ttm) | 44.48 | Insider ownership | 1.96% |
+| Forward P/E | 17.94 | Short float | 1.11% |
+| PEG (trailing) | 0.35 | Avg volume | 25,301,998 |
+| P/S | 18.66 | Employees | 33,000 |
+| P/B | 16.68 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -140,7 +140,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | 2026-09-03 | main | Raymond James | Outperform → Outperform |
 
 ## 9. Conclusion
-AVGO: Low momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+AVGO: Low momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

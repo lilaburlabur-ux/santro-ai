@@ -4,8 +4,8 @@ Signed file: `AMD.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $530.14 (2026-11-19, ~15-min delayed) |
-| Market cap | $877.42B |
+| Current price | $485.75 (2026-11-19, ~15-min delayed) |
+| Market cap | $803.95B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `AMD.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +120.41%; price +24.10% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -18.37% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +110.93%; price +13.33% vs SMA200. |
+| Fresh setup quality | Poor / broken | -25.20% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 16.77%, revenue growth 44.70%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 30.06, EV/Sales 18.99. |
-| Risk level | High | Beta 2.54, ATR 7.6% of price, short float 2.36%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 27.54, EV/Sales 18.99. |
+| Risk level | High | Beta 2.54, ATR 9.0% of price, short float 2.36%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
 
@@ -36,30 +36,30 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat | Yahoo Finance | 2026-11-17 |
-| Why Is AMD Stock Rising Overnight? | Stocktwits | 2026-11-19 |
-| What Explains Natera Stock's Nearly 10% Drop? | Trefis | 2026-11-18 |
-| What Moved Coupang Stock Over 5% Lower? | Trefis | 2026-11-18 |
+| AMD stock drops after Hunterbrook Media raises export control concerns | Yahoo Finance | 2026-11-19 |
+| Nvidia, Broadcom, and Micron stocks erase gains as Anthropic goes public | Yahoo Finance | 2026-11-19 |
+| Blacklisted Chinese server maker kept getting AMD firmware updates: Hunterbrook | Yahoo Finance Video | 2026-11-19 |
+| Stock market today: Dow drops 1,000 points, S&P 500 and Nasdaq tank as Anthropic stock surges in public debut | Yahoo Finance | 2026-11-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $530.14; 52w high $649.42 (-18.37%); 52w low $190.95 (+177.63%) |
-| Trend | +24.10% vs SMA200, -4.52% vs SMA50, +3.01% vs SMA20 |
-| Momentum | RSI(14) 50.3 (neutral) |
-| Volatility | ATR(14) 40.33 (~7.6% of price); beta 2.54 |
-| Setup perspective | -18.37% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $485.75; 52w high $649.42 (-25.20%); 52w low $190.95 (+154.39%) |
+| Trend | +13.33% vs SMA200, -12.46% vs SMA50, -5.41% vs SMA20 |
+| Momentum | RSI(14) 44.8 (neutral) |
+| Volatility | ATR(14) 43.48 (~9.0% of price); beta 2.54 |
+| Setup perspective | -25.20% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.1% |
-| Month | -0.9% |
-| Quarter | +12.9% |
-| Half Y | +18.4% |
-| 1Y | +120.4% |
-| YTD | +137.2% |
+| Week | -17.0% |
+| Month | -12.1% |
+| Quarter | +2.6% |
+| Half Y | +8.0% |
+| 1Y | +110.9% |
+| YTD | +117.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Revenue (ttm) | $45.44B | Revenue growth 44.70% y/y |
 | Profitability | Gross 56.00%, operating 17.82%, net 16.77% | ROA 5.90%, ROE 11.96% |
 | Balance sheet | Cash $15.78B, debt $9.21B | Current ratio 2.73, debt/equity 13.47 |
-| Valuation | P/E 113.28, forward P/E 30.06, P/S 19.31, P/B 12.71 | EV/Sales 18.99, EV/EBITDA 77.44 |
+| Valuation | P/E 103.79, forward P/E 27.54, P/S 17.69, P/B 11.65 | EV/Sales 18.99, EV/EBITDA 77.44 |
 | Growth expectations | Earnings growth 93.80%, EPS q/q 95.30% | Analyst mean target $657.74 (49 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 75.11% |
+| Institutional ownership | 75.33% |
 | Insider ownership | 0.45% |
 | Short float | 2.36% |
 | Short ratio (days to cover) | 1.9 |
@@ -95,8 +95,9 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Morgan Stanley | 24,001,499 | 1.46% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 30.06, EV/Sales 18.99. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.54, ATR 7.6% of price, short float 2.36%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 27.54, EV/Sales 18.99. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.54, ATR 9.0% of price, short float 2.36%. Size positions accordingly.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -111,21 +112,21 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $530.14 | EV/Sales | 18.99 |
-| Market cap | $877.42B | EV/EBITDA | 77.44 |
+| Price | $485.75 | EV/Sales | 18.99 |
+| Market cap | $803.95B | EV/EBITDA | 77.44 |
 | Beta | 2.54 | Gross margin | 56.00% |
-| RSI(14) | 50.3 | Operating margin | 17.82% |
-| ATR(14) | 40.33 | Profit margin | 16.77% |
-| SMA20 dist | +3.01% | ROA | 5.90% |
-| SMA50 dist | -4.52% | ROE | 11.96% |
-| SMA200 dist | +24.10% | Revenue (ttm) | $45.44B |
+| RSI(14) | 44.8 | Operating margin | 17.82% |
+| ATR(14) | 43.48 | Profit margin | 16.77% |
+| SMA20 dist | -5.41% | ROA | 5.90% |
+| SMA50 dist | -12.46% | ROE | 11.96% |
+| SMA200 dist | +13.33% | Revenue (ttm) | $45.44B |
 | 52W high | $649.42 | Revenue growth y/y | 44.70% |
-| 52W low | $190.95 | Inst. ownership | 75.11% |
-| P/E (ttm) | 113.28 | Insider ownership | 0.45% |
-| Forward P/E | 30.06 | Short float | 2.36% |
-| PEG (trailing) | 0.45 | Avg volume | 25,126,764 |
-| P/S | 19.31 | Employees | 31,000 |
-| P/B | 12.71 | Analyst rec (1=buy..5=sell) | 1.4 |
+| 52W low | $190.95 | Inst. ownership | 75.33% |
+| P/E (ttm) | 103.79 | Insider ownership | 0.45% |
+| Forward P/E | 27.54 | Short float | 2.36% |
+| PEG (trailing) | 0.47 | Avg volume | 25,352,556 |
+| P/S | 17.69 | Employees | 31,000 |
+| P/B | 11.65 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

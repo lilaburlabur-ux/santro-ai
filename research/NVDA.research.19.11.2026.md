@@ -4,8 +4,8 @@ Signed file: `NVDA.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $150.96 (2026-11-19, ~15-min delayed) |
-| Market cap | $3.65T |
+| Current price | $147.52 (2026-11-19, ~15-min delayed) |
+| Market cap | $3.56T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `NVDA.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-25.80%) with negative half-year (-32.29%). |
-| Fresh setup quality | Poor / broken | -36.90% from 52w high — base needs to rebuild. |
-| Fundamental quality | Strong | Profit margin 63.66%, revenue growth 105.90%. |
-| Value attractiveness | Reasonable | Forward P/E 9.09, EV/Sales 12.29. |
-| Risk level | High | Beta 2.25, ATR 6.4% of price, short float 1.21%. |
+| Technical momentum | Low | Below SMA200 (-27.44%) with negative half-year (-32.64%). |
+| Fresh setup quality | Poor / broken | -38.34% from 52w high — base needs to rebuild. |
+| Fundamental quality | Strong | Profit margin 62.53%, revenue growth 103.20%. |
+| Value attractiveness | Reasonable | Forward P/E 8.88, EV/Sales 9.89. |
+| Risk level | High | Beta 2.25, ATR 6.6% of price, short float 1.21%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,45 +36,45 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| The data center bottlenecks that Mavria aims to solve | Yahoo Finance Video | 2026-11-18 |
-| Memory supply constraints will be even 'tighter' in 2027: Micron CTO | Yahoo Finance Video | 2026-11-18 |
-| Nvidia interim CEO Colette Kress has taken over one of the most consequential companies on the planet; those who know her say she's up to the task | Yahoo Finance | 2026-11-18 |
-| 'Sending a message': Nvidia signals more cautious stance on China after Huang's departure | Yahoo Finance | 2026-11-18 |
+| Nvidia will not be the leader 5 years from now: Tiernan Ray | Yahoo Finance Video | 2026-11-19 |
+| Why AI competition from China won't be a risk US tech companies | Yahoo Finance Video | 2026-11-19 |
+| Anthropic's mega-IPO is still leaving investors working with 'imperfect information' | Yahoo Finance Video | 2026-11-19 |
+| Being bearish on Anthropic: $1 trillion compute bill and Nvidia turmoil | Yahoo Finance Video | 2026-11-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $150.96; 52w high $239.24 (-36.90%); 52w low $150.96 (+0.00%) |
-| Trend | -25.80% vs SMA200, -28.22% vs SMA50, -20.14% vs SMA20 |
-| Momentum | RSI(14) 21.1 (oversold) |
-| Volatility | ATR(14) 9.68 (~6.4% of price); beta 2.25 |
-| Setup perspective | -36.90% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $147.52; 52w high $239.24 (-38.34%); 52w low $147.52 (+0.00%) |
+| Trend | -27.44% vs SMA200, -29.38% vs SMA50, -20.60% vs SMA20 |
+| Momentum | RSI(14) 20.1 (oversold) |
+| Volatility | ATR(14) 9.81 (~6.6% of price); beta 2.25 |
+| Setup perspective | -38.34% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -13.1% |
-| Month | -30.3% |
-| Quarter | -30.3% |
-| Half Y | -32.3% |
-| 1Y | -18.9% |
-| YTD | -19.9% |
+| Week | -11.2% |
+| Month | -33.5% |
+| Quarter | -31.2% |
+| Half Y | -32.6% |
+| 1Y | -18.5% |
+| YTD | -21.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-11-17 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $302.97B | Revenue growth 105.90% y/y |
-| Profitability | Gross 74.67%, operating 65.21%, net 63.66% | ROA 53.57%, ROE 117.21% |
-| Balance sheet | Cash $62.47B, debt $38.86B | Current ratio 4.59, debt/equity 16.97 |
-| Valuation | P/E 19.08, forward P/E 9.09, P/S 12.03, P/B 23.33 | EV/Sales 12.29, EV/EBITDA 18.50 |
-| Growth expectations | Earnings growth 127.80%, EPS q/q 125.90% | Analyst mean target $253.67 (55 analysts) |
+| Revenue (ttm) | $361.81B | Revenue growth 103.20% y/y |
+| Profitability | Gross 74.92%, operating 66.08%, net 62.53% | ROA 56.04%, ROE 117.36% |
+| Balance sheet | Cash $97.73B, debt $38.15B | Current ratio 4.08, debt/equity 14.31 |
+| Valuation | P/E 15.85, forward P/E 8.88, P/S 9.85, P/B 13.34 | EV/Sales 9.89, EV/EBITDA 14.71 |
+| Growth expectations | Earnings growth 107.70%, EPS q/q 104.60% | Analyst mean target $246.67 (55 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 71.42% |
+| Institutional ownership | 71.58% |
 | Insider ownership | 4.04% |
 | Short float | 1.21% |
 | Short ratio (days to cover) | 2.7 |
@@ -92,10 +92,10 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | JPMORGAN CHASE & CO | 462,163,595 | 1.92% | 2026-09-30 |
 | Price (T.Rowe) Associates Inc | 369,431,543 | 1.53% | 2026-09-30 |
 | Morgan Stanley | 362,006,252 | 1.50% | 2026-09-30 |
-| Invesco Ltd. | 320,718,984 | 1.33% | 2026-09-30 |
+| NORGES BANK | 325,951,734 | 1.35% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.25, ATR 6.4% of price, short float 1.21%. Size positions accordingly.
+- **Volatility risk:** Beta 2.25, ATR 6.6% of price, short float 1.21%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,21 +111,21 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $150.96 | EV/Sales | 12.29 |
-| Market cap | $3.65T | EV/EBITDA | 18.50 |
-| Beta | 2.25 | Gross margin | 74.67% |
-| RSI(14) | 21.1 | Operating margin | 65.21% |
-| ATR(14) | 9.68 | Profit margin | 63.66% |
-| SMA20 dist | -20.14% | ROA | 53.57% |
-| SMA50 dist | -28.22% | ROE | 117.21% |
-| SMA200 dist | -25.80% | Revenue (ttm) | $302.97B |
-| 52W high | $239.24 | Revenue growth y/y | 105.90% |
-| 52W low | $150.96 | Inst. ownership | 71.42% |
-| P/E (ttm) | 19.08 | Insider ownership | 4.04% |
-| Forward P/E | 9.09 | Short float | 1.21% |
-| PEG (trailing) | 0.19 | Avg volume | 154,665,550 |
-| P/S | 12.03 | Employees | 42,000 |
-| P/B | 23.33 | Analyst rec (1=buy..5=sell) | 1.7 |
+| Price | $147.52 | EV/Sales | 9.89 |
+| Market cap | $3.56T | EV/EBITDA | 14.71 |
+| Beta | 2.25 | Gross margin | 74.92% |
+| RSI(14) | 20.1 | Operating margin | 66.08% |
+| ATR(14) | 9.81 | Profit margin | 62.53% |
+| SMA20 dist | -20.60% | ROA | 56.04% |
+| SMA50 dist | -29.38% | ROE | 117.36% |
+| SMA200 dist | -27.44% | Revenue (ttm) | $361.81B |
+| 52W high | $239.24 | Revenue growth y/y | 103.20% |
+| 52W low | $147.52 | Inst. ownership | 71.58% |
+| P/E (ttm) | 15.85 | Insider ownership | 4.04% |
+| Forward P/E | 8.88 | Short float | 1.21% |
+| PEG (trailing) | 0.18 | Avg volume | 158,546,367 |
+| P/S | 9.85 | Employees | 42,000 |
+| P/B | 13.34 | Analyst rec (1=buy..5=sell) | 1.8 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

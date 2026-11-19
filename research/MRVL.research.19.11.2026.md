@@ -4,8 +4,8 @@ Signed file: `MRVL.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $145.54 (2026-11-19, ~15-min delayed) |
-| Market cap | $130.95B |
+| Current price | $140.38 (2026-11-19, ~15-min delayed) |
+| Market cap | $126.30B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `MRVL.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +74.70%; price -22.57% vs SMA200. |
-| Fresh setup quality | Poor / broken | -53.98% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +78.71%; price -25.45% vs SMA200. |
+| Fresh setup quality | Poor / broken | -55.62% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 27.93%, revenue growth 36.50%. |
-| Value attractiveness | Reasonable | Forward P/E 19.74, EV/Sales 13.65. |
-| Risk level | High | Beta 2.33, ATR 10.9% of price, short float 3.48%. |
+| Value attractiveness | Reasonable | Forward P/E 19.04, EV/Sales 13.65. |
+| Risk level | High | Beta 2.33, ATR 11.3% of price, short float 3.48%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
-| Ken Griffin Dumps SpaceX, Amazon; Buys ARKK and Bets Big on Marvell | Benzinga | 2026-11-18 |
-| Marvell And Intel Halved: How Long Until They Recover? | Trefis | 2026-11-18 |
-| Lumentum Is Down 33% in a Month as Marvell’s Slide Shrinks Its Buyout Value. Can LITE Stock Get Back to Bernstein’s $700 Target? | 24/7 Wall St. | 2026-11-18 |
-| Credo Technology Stock Jumps After Reaching Major Patent Deal With Marvell | GuruFocus.com | 2026-11-18 |
+| Cathie Wood Says Nvidia’s Interim CEO Is “Not a Tech Expert.” Kevin O’Leary Disagrees. Who’s Right? | TIKR | 2026-11-19 |
+| Wall St slides as Anthropic's debut fails to revive AI trade optimism | Reuters | 2026-11-19 |
+| Should One Overlooked Number Scare You About AMD Stock? | Trefis | 2026-11-19 |
+| How Much Time Does Cerebras' Cash Buy? | Trefis | 2026-11-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $145.54; 52w high $316.28 (-53.98%); 52w low $73.66 (+97.59%) |
-| Trend | -22.57% vs SMA200, -35.11% vs SMA50, -19.42% vs SMA20 |
-| Momentum | RSI(14) 33.4 (neutral) |
-| Volatility | ATR(14) 15.90 (~10.9% of price); beta 2.33 |
-| Setup perspective | -53.98% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $140.38; 52w high $316.28 (-55.62%); 52w low $73.66 (+90.57%) |
+| Trend | -25.45% vs SMA200, -36.93% vs SMA50, -20.45% vs SMA20 |
+| Momentum | RSI(14) 32.0 (neutral) |
+| Volatility | ATR(14) 15.85 (~11.3% of price); beta 2.33 |
+| Setup perspective | -55.62% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -13.8% |
-| Month | -39.5% |
-| Quarter | -42.0% |
-| Half Y | -22.1% |
-| 1Y | +74.7% |
-| YTD | +63.1% |
+| Week | -14.6% |
+| Month | -42.6% |
+| Quarter | -40.8% |
+| Half Y | -26.4% |
+| 1Y | +78.7% |
+| YTD | +57.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $9.45B | Revenue growth 36.50% y/y |
 | Profitability | Gross 52.22%, operating 16.81%, net 27.93% | ROA 4.12%, ROE 16.52% |
 | Balance sheet | Cash $3.93B, debt $5.29B | Current ratio 3.17, debt/equity 28.52 |
-| Valuation | P/E 47.88, forward P/E 19.74, P/S 13.86, P/B 6.89 | EV/Sales 13.65, EV/EBITDA 45.25 |
+| Valuation | P/E 46.18, forward P/E 19.04, P/S 13.37, P/B 6.64 | EV/Sales 13.65, EV/EBITDA 45.25 |
 | Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $310.89 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 80.04% |
+| Institutional ownership | 80.79% |
 | Insider ownership | 0.53% |
 | Short float | 3.48% |
 | Short ratio (days to cover) | 1.2 |
@@ -90,12 +90,12 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Invesco Ltd. | 33,677,224 | 3.84% | 2026-09-30 |
 | Geode Capital Management, LLC | 21,684,849 | 2.47% | 2026-09-30 |
 | Vanguard Portfolio Management LLC | 21,017,814 | 2.40% | 2026-09-30 |
+| NORGES BANK | 14,201,483 | 1.62% | 2026-06-30 |
 | Goldman Sachs Group Inc | 13,597,258 | 1.55% | 2026-09-30 |
 | Van Eck Associates Corporation | 13,574,478 | 1.55% | 2026-09-30 |
-| JPMORGAN CHASE & CO | 12,743,860 | 1.45% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.33, ATR 10.9% of price, short float 3.48%. Size positions accordingly.
+- **Volatility risk:** Beta 2.33, ATR 11.3% of price, short float 3.48%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,21 +111,21 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $145.54 | EV/Sales | 13.65 |
-| Market cap | $130.95B | EV/EBITDA | 45.25 |
+| Price | $140.38 | EV/Sales | 13.65 |
+| Market cap | $126.30B | EV/EBITDA | 45.25 |
 | Beta | 2.33 | Gross margin | 52.22% |
-| RSI(14) | 33.4 | Operating margin | 16.81% |
-| ATR(14) | 15.90 | Profit margin | 27.93% |
-| SMA20 dist | -19.42% | ROA | 4.12% |
-| SMA50 dist | -35.11% | ROE | 16.52% |
-| SMA200 dist | -22.57% | Revenue (ttm) | $9.45B |
+| RSI(14) | 32.0 | Operating margin | 16.81% |
+| ATR(14) | 15.85 | Profit margin | 27.93% |
+| SMA20 dist | -20.45% | ROA | 4.12% |
+| SMA50 dist | -36.93% | ROE | 16.52% |
+| SMA200 dist | -25.45% | Revenue (ttm) | $9.45B |
 | 52W high | $316.28 | Revenue growth y/y | 36.50% |
-| 52W low | $73.66 | Inst. ownership | 80.04% |
-| P/E (ttm) | 47.88 | Insider ownership | 0.53% |
-| Forward P/E | 19.74 | Short float | 3.48% |
-| PEG (trailing) | 0.37 | Avg volume | 24,621,068 |
-| P/S | 13.86 | Employees | 7,480 |
-| P/B | 6.89 | Analyst rec (1=buy..5=sell) | 1.4 |
+| 52W low | $73.66 | Inst. ownership | 80.79% |
+| P/E (ttm) | 46.18 | Insider ownership | 0.53% |
+| Forward P/E | 19.04 | Short float | 3.48% |
+| PEG (trailing) | 0.36 | Avg volume | 24,235,151 |
+| P/S | 13.37 | Employees | 7,480 |
+| P/B | 6.64 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

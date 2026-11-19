@@ -4,8 +4,8 @@ Signed file: `NXPI.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $252.47 (2026-11-19, ~15-min delayed) |
-| Market cap | $63.64B |
+| Current price | $254.30 (2026-11-19, ~15-min delayed) |
+| Market cap | $64.10B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `NXPI.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +34.86%; price +2.28% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -23.51% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +37.22%; price +2.96% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -22.95% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 23.39%, revenue growth 19.30%. |
-| Value attractiveness | Reasonable | Forward P/E 13.77, EV/Sales 5.15. |
+| Value attractiveness | Reasonable | Forward P/E 13.87, EV/Sales 5.15. |
 | Risk level | Elevated | Beta 1.86, ATR 4.6% of price, short float 2.75%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -36,30 +36,30 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
-| Where Did Texas Instruments Fall Behind Analog Devices? | Trefis | 2026-11-18 |
-| First Trust NASDAQ-100 Tech (QTEC) Sells $5.0 Million More Applovin on Nov. 16 | GuruFocus.com | 2026-11-18 |
-| What Is Monolithic Power Systems No Longer Telling You? | Trefis | 2026-11-17 |
-| Should You Buy The Dip In Semtech Stock Now? | Trefis | 2026-11-16 |
+| Ambarella Stock Soars on Potential Billion-Dollar Chip Deal | GuruFocus.com | 2026-11-19 |
+| Is Texas Instruments' Sales Boom Its Biggest Risk? | Trefis | 2026-11-19 |
+| Semtech Set to Report Q3 Earnings: Buy, Sell or Hold the Stock? | Zacks | 2026-11-19 |
+| First Trust NASDAQ-100 Tech (QTEC) Sells AppLovin and Texas Instruments on Tuesday | GuruFocus.com | 2026-11-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $252.47; 52w high $330.06 (-23.51%); 52w low $180.99 (+39.49%) |
-| Trend | +2.28% vs SMA200, +4.49% vs SMA50, -1.11% vs SMA20 |
-| Momentum | RSI(14) 50.8 (neutral) |
-| Volatility | ATR(14) 11.69 (~4.6% of price); beta 1.86 |
-| Setup perspective | -23.51% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $254.30; 52w high $330.06 (-22.95%); 52w low $180.99 (+40.50%) |
+| Trend | +2.96% vs SMA200, +5.00% vs SMA50, -0.72% vs SMA20 |
+| Momentum | RSI(14) 52.1 (neutral) |
+| Volatility | ATR(14) 11.74 (~4.6% of price); beta 1.86 |
+| Setup perspective | -22.95% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -6.3% |
-| Month | +6.3% |
-| Quarter | +13.7% |
-| Half Y | -18.0% |
-| 1Y | +34.9% |
-| YTD | +15.6% |
+| Week | -4.9% |
+| Month | +4.9% |
+| Quarter | +13.2% |
+| Half Y | -14.4% |
+| 1Y | +37.2% |
+| YTD | +16.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Revenue (ttm) | $13.80B | Revenue growth 19.30% y/y |
 | Profitability | Gross 56.46%, operating 33.84%, net 23.39% | ROA 10.82%, ROE 28.67% |
 | Balance sheet | Cash $3.94B, debt $10.98B | Current ratio 2.12, debt/equity 88.07 |
-| Valuation | P/E 19.86, forward P/E 13.77, P/S 4.61, P/B 5.26 | EV/Sales 5.15, EV/EBITDA 13.19 |
-| Growth expectations | Earnings growth 40.30%, EPS q/q 40.10% | Analyst mean target $300.48 (29 analysts) |
+| Valuation | P/E 20.01, forward P/E 13.87, P/S 4.65, P/B 5.30 | EV/Sales 5.15, EV/EBITDA 13.19 |
+| Growth expectations | Earnings growth 40.30%, EPS q/q 40.10% | Analyst mean target $301.80 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 100.23% |
+| Institutional ownership | 100.98% |
 | Insider ownership | 0.39% |
 | Short float | 2.75% |
 | Short ratio (days to cover) | 1.5 |
@@ -110,21 +110,21 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $252.47 | EV/Sales | 5.15 |
-| Market cap | $63.64B | EV/EBITDA | 13.19 |
+| Price | $254.30 | EV/Sales | 5.15 |
+| Market cap | $64.10B | EV/EBITDA | 13.19 |
 | Beta | 1.86 | Gross margin | 56.46% |
-| RSI(14) | 50.8 | Operating margin | 33.84% |
-| ATR(14) | 11.69 | Profit margin | 23.39% |
-| SMA20 dist | -1.11% | ROA | 10.82% |
-| SMA50 dist | +4.49% | ROE | 28.67% |
-| SMA200 dist | +2.28% | Revenue (ttm) | $13.80B |
+| RSI(14) | 52.1 | Operating margin | 33.84% |
+| ATR(14) | 11.74 | Profit margin | 23.39% |
+| SMA20 dist | -0.72% | ROA | 10.82% |
+| SMA50 dist | +5.00% | ROE | 28.67% |
+| SMA200 dist | +2.96% | Revenue (ttm) | $13.80B |
 | 52W high | $330.06 | Revenue growth y/y | 19.30% |
-| 52W low | $180.99 | Inst. ownership | 100.23% |
-| P/E (ttm) | 19.86 | Insider ownership | 0.39% |
-| Forward P/E | 13.77 | Short float | 2.75% |
-| PEG (trailing) | 0.51 | Avg volume | 4,021,603 |
-| P/S | 4.61 | Employees | 32,169 |
-| P/B | 5.26 | Analyst rec (1=buy..5=sell) | 1.9 |
+| 52W low | $180.99 | Inst. ownership | 100.98% |
+| P/E (ttm) | 20.01 | Insider ownership | 0.39% |
+| Forward P/E | 13.87 | Short float | 2.75% |
+| PEG (trailing) | 0.51 | Avg volume | 4,002,920 |
+| P/S | 4.65 | Employees | 32,169 |
+| P/B | 5.30 | Analyst rec (1=buy..5=sell) | 1.8 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

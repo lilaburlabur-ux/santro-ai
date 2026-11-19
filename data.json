@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-19T08:41:39+00:00",
-  "as_of_local": "2026-11-19 08:41:39 UTC",
+  "as_of_utc": "2026-11-19T08:46:43+00:00",
+  "as_of_local": "2026-11-19 08:46:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NXPI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -155,6 +153,12 @@
       "market_cap": 290571040267.94434,
       "headlines": [
         {
+          "title": "NVDA, INTC Stocks Ease Post 5-Day Rout: After Meeting Xi Jinping, Trump Says Nvidia Blackwell Chips Could Reach China Within 2-3 Years",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-intc-stocks-ease-post-083356009.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-19T08:33:56Z"
+        },
+        {
           "title": "What Explains Natera Stock's Nearly 10% Drop?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/explains-natera-stocks-nearly-10-234838696.html",
           "publisher": "Trefis",
@@ -165,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/moved-coupang-stock-over-5-234256391.html",
           "publisher": "Trefis",
           "published": "2026-11-18T23:42:56Z"
-        },
-        {
-          "title": "The 5 Best Stocks in Nvidia\u2019s Portfolio",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-stocks-nvidia-portfolio-222315004.html",
-          "publisher": "TIKR",
-          "published": "2026-11-18T22:23:15Z"
         }
       ]
     },
@@ -255,6 +253,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/lumentum-down-33-month-marvell-200355260.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-18T20:03:55Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors",
+      "price": 252.47,
+      "previous_close": 252.51,
+      "change_pct": -0.02,
+      "market_cap": 63635818188.04187,
+      "headlines": [
+        {
+          "title": "Where Did Texas Instruments Fall Behind Analog Devices?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/where-did-texas-instruments-fall-143023738.html",
+          "publisher": "Trefis",
+          "published": "2026-11-18T14:30:23Z"
+        },
+        {
+          "title": "First Trust NASDAQ-100 Tech (QTEC) Sells $5.0 Million More Applovin on Nov. 16",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/first-trust-nasdaq-100-tech-110546897.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-18T11:05:46Z"
+        },
+        {
+          "title": "What Is Monolithic Power Systems No Longer Telling You?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/monolithic-power-systems-no-longer-004625182.html",
+          "publisher": "Trefis",
+          "published": "2026-11-17T00:46:25Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63611.51,
-      "change_pct": 0.99
+      "price": 63553.1,
+      "change_pct": 0.9
     },
     {
       "label": "Gold",
-      "price": 3734.9,
-      "change_pct": -0.19
+      "price": 3737.4,
+      "change_pct": -0.12
     },
     {
       "label": "Nasdaq100",

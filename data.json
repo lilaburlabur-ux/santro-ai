@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-19T12:50:17+00:00",
-  "as_of_local": "2026-11-19 12:50:17 UTC",
+  "as_of_utc": "2026-11-19T12:55:43+00:00",
+  "as_of_local": "2026-11-19 12:55:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 1880718811759.7048,
       "headlines": [
         {
+          "title": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say",
+          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-tightens-china-ai-chip-124653528.html",
+          "publisher": "Reuters",
+          "published": "2026-11-19T12:46:53Z"
+        },
+        {
           "title": "TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules",
           "url": "https://finance.yahoo.com/technology/articles/tsmc-samsung-reportedly-suspend-chip-122633256.html",
           "publisher": "Stocktwits",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-falls-5-china-112721933.html",
           "publisher": "BeInCrypto",
           "published": "2026-11-19T11:27:21Z"
-        },
-        {
-          "title": "iShares A.I. Innovation and Tech Active ETF (BAI) Adds AMD and Broadcom on Nov. 17",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-innovation-tech-active-etf-110450107.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-19T11:04:50Z"
         }
       ]
     },
@@ -445,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -2.64,
-          "price": 776.22,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -535,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -2.64,
-        "price": 776.22,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63847.05,
-      "change_pct": 1.37
+      "price": 63827.44,
+      "change_pct": 1.33
     },
     {
       "label": "Gold",
-      "price": 3715.6,
-      "change_pct": -0.7
+      "price": 3714.8,
+      "change_pct": -0.72
     },
     {
       "label": "Nasdaq100",

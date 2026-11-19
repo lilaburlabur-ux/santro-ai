@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-19T04:26:12+00:00",
-  "as_of_local": "2026-11-19 04:26:12 UTC",
+  "as_of_utc": "2026-11-19T04:41:17+00:00",
+  "as_of_local": "2026-11-19 04:41:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -103,16 +103,16 @@
           "published": "2026-11-17T22:01:59Z"
         },
         {
+          "title": "Lisa Su Sells 70,000 Shares for $35.5 Million as AMD Stock Pops 147% in 2026: Her Direct Holdings Fall 2.32%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lisa-su-sells-70-000-031823131.html",
+          "publisher": "Benzinga",
+          "published": "2026-11-19T03:18:23Z"
+        },
+        {
           "title": "Why Is AMD Stock Rising Overnight?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-rising-overnight-020525527.html",
           "publisher": "Stocktwits",
           "published": "2026-11-19T02:05:25Z"
-        },
-        {
-          "title": "What Explains Natera Stock's Nearly 10% Drop?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/explains-natera-stocks-nearly-10-234838696.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T23:48:38Z"
         }
       ]
     },
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 39.15,
-      "change_pct": 0.57,
+      "price": null,
+      "change_pct": 0.0,
       "holdings": [
         {
           "symbol": "MU",
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 1.92,
-          "price": 1166000.0,
+          "change_pct": 1.75,
+          "price": 1164000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.62,
-          "price": 195900.0,
+          "change_pct": 0.1,
+          "price": 194900.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 0.52,
-          "price": 8067.0,
+          "change_pct": 1.72,
+          "price": 8163.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -6.46,
-          "price": 304.0,
+          "change_pct": -7.85,
+          "price": 299.5,
           "currency": "TWD"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -5.56,
-          "price": 102.0,
+          "change_pct": -6.94,
+          "price": 100.5,
           "currency": "TWD"
         }
       ]
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 39.15,
-    "change_pct": 0.57,
+    "price": null,
+    "change_pct": 0.0,
     "holdings": [
       {
         "symbol": "MU",
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 1.92,
-        "price": 1166000.0,
+        "change_pct": 1.75,
+        "price": 1164000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.62,
-        "price": 195900.0,
+        "change_pct": 0.1,
+        "price": 194900.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 0.52,
-        "price": 8067.0,
+        "change_pct": 1.72,
+        "price": 8163.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -6.46,
-        "price": 304.0,
+        "change_pct": -7.85,
+        "price": 299.5,
         "currency": "TWD"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -5.56,
-        "price": 102.0,
+        "change_pct": -6.94,
+        "price": 100.5,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63298.83,
-      "change_pct": -2.46
+      "price": 63480.79,
+      "change_pct": -2.18
     },
     {
       "label": "Gold",
-      "price": 3725.9,
-      "change_pct": -3.58
+      "price": 3727.5,
+      "change_pct": -3.54
     },
     {
       "label": "Nasdaq100",

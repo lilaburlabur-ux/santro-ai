@@ -1,0 +1,152 @@
+# NVDA Research Report
+**NVIDIA Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+Signed file: `NVDA.research.19.11.2026`
+
+| Field | Value |
+|---|---|
+| Current price | $nan (2026-11-19, ~15-min delayed) |
+| Market cap | $3.65T |
+| Sector / Industry | Technology / Semiconductors |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
+
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
+
+## 1. Executive Summary
+| Area | Score / Read | Reason |
+|---|---|---|
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Fundamental quality | Strong | Profit margin 63.66%, revenue growth 105.90%. |
+| Value attractiveness | Reasonable | Forward P/E 9.09, EV/Sales 12.29. |
+| Risk level | High | Beta 2.25, ATR nan% of price, short float 1.21%. |
+
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
+
+**Key questions before any trade (standard):**
+- Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
+- Where is the actual invalidation level? If that level is too far away, the setup is not clean.
+- Is the move supported by new institutional demand or just retail/short-covering momentum?
+- Can earnings convert fast enough to justify the valuation?
+
+## 2. Company Overview and Recent Catalysts
+NVIDIA Corporation operates as a data center scale AI infrastructure company in the United States, Taiwan, China, Hong Kong, Europe, and internationally. It operates through Compute & Networking, and Graphics segments. The Compute & Networking segment provides data center accelerated computing and networking platforms and artificial intelligence solutions and software, and automotive platforms and autonomous and electric vehicle solutions, including software. The Graphics segment offers GeForce GPUs for gaming and PCs; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics.
+
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| The data center bottlenecks that Mavria aims to solve | Yahoo Finance Video | 2026-11-18 |
+| Memory supply constraints will be even 'tighter' in 2027: Micron CTO | Yahoo Finance Video | 2026-11-18 |
+| Nvidia interim CEO Colette Kress has taken over one of the most consequential companies on the planet; those who know her say she's up to the task | Yahoo Finance | 2026-11-18 |
+| 'Sending a message': Nvidia signals more cautious stance on China after Huang's departure | Yahoo Finance | 2026-11-18 |
+
+## 3. Technical Analysis
+| Technical item | Read |
+|---|---|
+| Price vs 52-week range | Close $nan; 52w high $239.24 (+nan%); 52w low $155.46 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 22.5 (oversold) |
+| Volatility | ATR(14) 9.71 (~nan% of price); beta 2.25 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+
+**Performance snapshot:**
+
+| Window | Return |
+|---|---|
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
+
+## 4. Fundamental Analysis
+| Factor | Observation | Implication / extra |
+|---|---|---|
+| Next earnings | 2026-11-17 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $302.97B | Revenue growth 105.90% y/y |
+| Profitability | Gross 74.67%, operating 65.21%, net 63.66% | ROA 53.57%, ROE 117.21% |
+| Balance sheet | Cash $62.47B, debt $38.86B | Current ratio 4.59, debt/equity 16.97 |
+| Valuation | P/E 19.08, forward P/E 9.09, P/S 12.03, P/B 23.33 | EV/Sales 12.29, EV/EBITDA 18.50 |
+| Growth expectations | Earnings growth 127.80%, EPS q/q 125.90% | Analyst mean target $253.67 (55 analysts) |
+
+## 5. Institutional Investors and Ownership
+| Metric | Value |
+|---|---|
+| Institutional ownership | 71.42% |
+| Insider ownership | 4.04% |
+| Short float | 1.21% |
+| Short ratio (days to cover) | 2.7 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 1,940,885,915 | 8.05% | 2026-09-30 |
+| Vanguard Capital Management LLC | 1,540,600,742 | 6.39% | 2026-09-30 |
+| State Street Corporation | 1,025,075,347 | 4.25% | 2026-09-30 |
+| FMR, LLC | 932,807,820 | 3.87% | 2026-09-30 |
+| Geode Capital Management, LLC | 613,740,577 | 2.55% | 2026-09-30 |
+| Vanguard Portfolio Management LLC | 512,235,499 | 2.13% | 2026-09-30 |
+| JPMORGAN CHASE & CO | 462,163,595 | 1.92% | 2026-09-30 |
+| Price (T.Rowe) Associates Inc | 369,431,543 | 1.53% | 2026-09-30 |
+| Morgan Stanley | 362,006,252 | 1.50% | 2026-09-30 |
+| Invesco Ltd. | 320,718,984 | 1.33% | 2026-09-30 |
+
+## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 2.25, ATR nan% of price, short float 1.21%. Size positions accordingly.
+- **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
+
+### Setup checklist for your journal
+| Question | Pass condition |
+|---|---|
+| Is there a new base? | Tight sideways action near highs, declining volume, clear resistance. |
+| Is the pivot obvious? | A clean level that multiple traders can see; not a random candle high. |
+| Is risk defined? | Stop based on structure and less than the expected first upside target. |
+| Is volume confirming? | Breakout volume expands; pullback volume dries up. |
+| Is position size small enough? | A normal shakeout should not cause emotional decision-making. |
+
+## 7. Full Data Snapshot
+| Metric | Value | Metric | Value |
+|---|---|---|---|
+| Price | $nan | EV/Sales | 12.29 |
+| Market cap | $3.65T | EV/EBITDA | 18.50 |
+| Beta | 2.25 | Gross margin | 74.67% |
+| RSI(14) | 22.5 | Operating margin | 65.21% |
+| ATR(14) | 9.71 | Profit margin | 63.66% |
+| SMA20 dist | +nan% | ROA | 53.57% |
+| SMA50 dist | +nan% | ROE | 117.21% |
+| SMA200 dist | +nan% | Revenue (ttm) | $302.97B |
+| 52W high | $239.24 | Revenue growth y/y | 105.90% |
+| 52W low | $155.46 | Inst. ownership | 71.42% |
+| P/E (ttm) | 19.08 | Insider ownership | 4.04% |
+| Forward P/E | 9.09 | Short float | 1.21% |
+| PEG (trailing) | 0.19 | Avg volume | 154,665,550 |
+| P/S | 12.03 | Employees | 42,000 |
+| P/B | 23.33 | Analyst rec (1=buy..5=sell) | 1.7 |
+
+## 8. Analyst Actions
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-11-12 | down | Melius Research | Buy → Hold |
+| 2026-11-12 | main | DA Davidson | Buy → Buy |
+| 2026-11-12 | down | Craig-Hallum | Buy → Hold |
+| 2026-11-12 | main | B of A Securities | Buy → Buy |
+| 2026-11-12 | main | BMO Capital | Outperform → Outperform |
+| 2026-11-12 | reit | Baird | Neutral → Neutral |
+| 2026-11-12 | main | Goldman Sachs | Buy → Buy |
+| 2026-11-12 | main | Citigroup | Buy → Buy |
+
+## 9. Conclusion
+NVDA: Moderate momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+
+## Sources
+| Source | URL | Used for |
+|---|---|---|
+| Yahoo Finance quote/profile/statistics for NVDA | https://finance.yahoo.com/quote/NVDA | Snapshot metrics, ownership, analyst data |
+| Yahoo Finance price history (via yfinance) | https://finance.yahoo.com/quote/NVDA/history | SMA/RSI/ATR/performance calculations |
+| Yahoo Finance news feed | https://finance.yahoo.com/quote/NVDA/news | Catalyst headlines |
+| Method template | AEHR.research.31.05.2026.pdf (user's Cowork method) | Report structure, scoring areas, checklist |
+
+_Note: the template's native Finviz/Fintel/ADVFN pages block automated retrieval; equivalent metrics above are computed from Yahoo Finance data instead and labeled accordingly._

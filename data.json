@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-19T00:44:10+00:00",
-  "as_of_local": "2026-11-19 00:44:10 UTC",
+  "as_of_utc": "2026-11-19T00:49:04+00:00",
+  "as_of_local": "2026-11-19 00:49:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-18-221135469.html",
           "publisher": "Motley Fool",
           "published": "2026-11-18T22:11:35Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 530.14,
+      "previous_close": 503.41,
+      "change_pct": 5.31,
+      "market_cap": 877416487114.3446,
+      "headlines": [
+        {
+          "title": "AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat",
+          "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-17T22:01:59Z"
+        },
+        {
+          "title": "What Explains Natera Stock's Nearly 10% Drop?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/explains-natera-stocks-nearly-10-234838696.html",
+          "publisher": "Trefis",
+          "published": "2026-11-18T23:48:38Z"
+        },
+        {
+          "title": "What Moved Coupang Stock Over 5% Lower?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/moved-coupang-stock-over-5-234256391.html",
+          "publisher": "Trefis",
+          "published": "2026-11-18T23:42:56Z"
         }
       ]
     },
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -2.44,
-          "price": 7829.0,
+          "change_pct": -2.22,
+          "price": 7847.0,
           "currency": "JPY"
         },
         {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -2.44,
-        "price": 7829.0,
+        "change_pct": -2.22,
+        "price": 7847.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63088.65,
-      "change_pct": -2.78
+      "price": 63048.92,
+      "change_pct": -2.84
     },
     {
       "label": "Gold",
-      "price": 3747.5,
-      "change_pct": -3.02
+      "price": 3750.0,
+      "change_pct": -2.96
     },
     {
       "label": "Nasdaq100",

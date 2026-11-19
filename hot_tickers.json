@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-19T10:03:06+00:00",
+  "as_of": "2026-11-19T10:18:32+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "PANW",
    "company": "Palo Alto Networks Inc",
-   "move_pct": 9.13,
-   "price": 370.97,
+   "move_pct": 9.26,
+   "price": 371.4,
    "volume": 16971000,
    "volume_vs_avg": "~3x",
-   "heat_score": 71,
+   "heat_score": 72,
    "direction": "up",
-   "why": "PANW Stock Surges 8% Overnight: Palo Alto Networks CEO Sees \u2018Hundreds Of Billions Of Dollars\u2019 Opportunity In Open-Weight AI Models Security",
+   "why": "Palo Alto Networks CEO just dropped a truth bomb on the network outages sweeping through major companies",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/news/panw-stock-surges-8-overnight-062601463.html",
-   "published": "2026-11-19T06:26:01+00:00",
+   "source_url": "https://finance.yahoo.com/technology/article/palo-alto-networks-ceo-just-dropped-a-truth-bomb-on-the-network-outages-sweeping-through-major-companies-101129581.html",
+   "published": "2026-11-19T10:11:29+00:00",
    "sector": "Cybersecurity"
   }
  ]

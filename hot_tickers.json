@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-19T08:21:19+00:00",
+  "as_of": "2026-11-19T08:36:43+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -25,6 +25,22 @@
   },
   {
    "rank": 2,
+   "ticker": "OKTA",
+   "company": "Okta Inc",
+   "move_pct": 12.07,
+   "price": 195.61,
+   "volume": 5276800,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 73,
+   "direction": "up",
+   "why": "Is Okta (OKTA) Fully Valued Following Its Cybersecurity Fueled Rally?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/okta-okta-fully-valued-following-081248720.html",
+   "published": "2026-11-19T08:12:48+00:00",
+   "sector": "Cybersecurity"
+  },
+  {
+   "rank": 3,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
    "move_pct": 5.31,

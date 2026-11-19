@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-19T00:29:07+00:00",
+  "as_of": "2026-11-19T00:44:32+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "PANW",
    "company": "Palo Alto Networks Inc",
-   "move_pct": 19.39,
-   "price": 369.26,
+   "move_pct": 19.72,
+   "price": 370.29,
    "volume": 16467556,
    "volume_vs_avg": "~3x",
    "heat_score": 92,
@@ -20,7 +20,7 @@
    "why": "Dow Jones Futures Rise; Anthropic IPO Prices High, Palo Alto And Everpure Rally On Earnings",
    "catalyst_type": "earnings",
    "source_url": "https://finance.yahoo.com/m/107e5a2c-4fba-3df3-b2fd-5d1160e65516/dow-jones-futures-rise%3B.html",
-   "published": "2026-11-19T00:05:12+00:00",
+   "published": "2026-11-19T00:13:49+00:00",
    "sector": "Cybersecurity"
   },
   {
@@ -43,17 +43,65 @@
    "rank": 3,
    "ticker": "ZS",
    "company": "Zscaler Inc",
-   "move_pct": 10.15,
-   "price": 203.99,
+   "move_pct": 10.43,
+   "price": 204.5,
    "volume": 2422225,
    "volume_vs_avg": "~1.0x",
-   "heat_score": 65,
+   "heat_score": 66,
    "direction": "up",
    "why": "Zscaler Stock Faces AI Security Test After Commvault Partnership",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/technology/ai/articles/zscaler-stock-faces-ai-security-231923899.html",
    "published": "2026-11-18T23:19:23+00:00",
    "sector": "Cybersecurity"
+  },
+  {
+   "rank": 4,
+   "ticker": "RXRX",
+   "company": "Recursion Pharmaceuticals Inc",
+   "move_pct": 6.25,
+   "price": 2.89,
+   "volume": 41127675,
+   "volume_vs_avg": "~2x",
+   "heat_score": 45,
+   "direction": "up",
+   "why": "Stock Market Today, Nov. 18: Recursion Pharmaceuticals Rises 4% on FDA Alignment for REC-4881 Phase 3 Design",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-18-224039661.html",
+   "published": "2026-11-18T22:40:39+00:00",
+   "sector": "Applied AI: Industrial, Defense & Vertical"
+  },
+  {
+   "rank": 5,
+   "ticker": "AVGO",
+   "company": "Broadcom Inc",
+   "move_pct": 5.24,
+   "price": 359.5,
+   "volume": 25906478,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 38,
+   "direction": "up",
+   "why": "Thinking About Buying Anthropic\u2019s IPO on Nov. 19? Here\u2019s an AI Stock I\u2019d Consider First (Hint: It\u2019s Not Nvidia or Broadcom).",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/thinking-buying-anthropic-ipo-nov-233502633.html",
+   "published": "2026-11-18T23:35:02+00:00",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 6,
+   "ticker": "AMZN",
+   "company": "Amazon.com Inc",
+   "move_pct": 5.41,
+   "price": 271.85,
+   "volume": 40845576,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 38,
+   "direction": "up",
+   "why": "Ken Griffin Dumps SpaceX, Amazon; Buys ARKK and Bets Big on Marvell",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ken-griffin-dumps-spacex-amazon-223005217.html",
+   "published": "2026-11-18T22:30:05+00:00",
+   "sector": "AI Platforms, Internet & AdTech"
   }
  ]
 }

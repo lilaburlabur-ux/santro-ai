@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-19T10:12:59+00:00",
-  "as_of_local": "2026-11-19 10:12:59 UTC",
+  "as_of_utc": "2026-11-19T10:17:56+00:00",
+  "as_of_local": "2026-11-19 10:17:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -59,6 +57,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/dan-ives-top-10-ai-223943794.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-18T22:39:43Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 354.05,
+      "previous_close": 341.6,
+      "change_pct": 3.64,
+      "market_cap": 1690103595431.4011,
+      "headlines": [
+        {
+          "title": "Broadcom \u201cFoolishly Guaranteed\u201d Anthropic\u2019s TPU Deals, Says Ed Zitron. Its IPO Could Prove Him Wrong",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-foolishly-guaranteed-anthropic-tpu-072553358.html",
+          "publisher": "TIKR",
+          "published": "2026-11-19T07:25:53Z"
+        },
+        {
+          "title": "\u2018Unprecedented Results\u2019: AMD Packs a Year of Chip Progress Into 5 Months Using OpenAI, Greg Brockman Says",
+          "url": "https://finance.yahoo.com/technology/ai/articles/unprecedented-results-amd-packs-chip-061204255.html",
+          "publisher": "Benzinga",
+          "published": "2026-11-19T06:12:04Z"
+        },
+        {
+          "title": "Wall Street Pledged to Mobilize $500 Billion for Nvidia\u2014but Hasn\u2019t Put Up a Dime",
+          "url": "https://www.wsj.com/finance/wall-street-pledged-to-mobilize-500-billion-for-nvidiabut-hasnt-put-up-a-dime-1e41f276?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-19T02:00:00Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63748.36,
-      "change_pct": 1.21
+      "price": 63813.53,
+      "change_pct": 1.31
     },
     {
       "label": "Gold",
-      "price": 3728.6,
-      "change_pct": -0.36
+      "price": 3730.0,
+      "change_pct": -0.32
     },
     {
       "label": "Nasdaq100",

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-19T10:38:58+00:00",
+  "as_of": "2026-11-19T10:54:00+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "PANW",
    "company": "Palo Alto Networks Inc",
-   "move_pct": 9.54,
-   "price": 372.35,
+   "move_pct": 10.2,
+   "price": 374.6,
    "volume": 16971000,
    "volume_vs_avg": "~3x",
-   "heat_score": 73,
+   "heat_score": 75,
    "direction": "up",
-   "why": "Palo Alto Networks announces deal to buy Applied Compute for $4.5bn",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/news/palo-alto-networks-announces-deal-101704460.html",
-   "published": "2026-11-19T10:17:04+00:00",
+   "why": "JPMorgan Adjusts Price Target on Palo Alto Networks to $415 From $384",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-palo-102811348.html",
+   "published": "2026-11-19T10:28:11+00:00",
    "sector": "Cybersecurity"
   }
  ]

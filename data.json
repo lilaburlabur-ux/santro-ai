@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-19T21:10:32+00:00",
-  "as_of_local": "2026-11-19 21:10:32 UTC",
+  "as_of_utc": "2026-11-19T21:16:04+00:00",
+  "as_of_local": "2026-11-19 21:16:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -35,10 +35,10 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 352.01,
+      "price": 352.09,
       "previous_close": 362.62,
-      "change_pct": -2.93,
-      "market_cap": 1825674739686.2063,
+      "change_pct": -2.9,
+      "market_cap": 1826105257464.0286,
       "headlines": [
         {
           "title": "Billionaire Stanley Druckenmiller Cut TSMC 94% in One Quarter, Leaving Just $14.9 Million",
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 38.42,
-      "change_pct": -1.86,
+      "price": 38.43,
+      "change_pct": -1.84,
       "holdings": [
         {
           "symbol": "MU",
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 4.19,
+          "price": 1144000.0,
           "currency": "KRW"
         },
         {
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 38.42,
-    "change_pct": -1.86,
+    "price": 38.43,
+    "change_pct": -1.84,
     "holdings": [
       {
         "symbol": "MU",
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 4.19,
+        "price": 1144000.0,
         "currency": "KRW"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61902.88,
-      "change_pct": -1.72
+      "price": 61828.85,
+      "change_pct": -1.84
     },
     {
       "label": "Gold",
-      "price": 3662.4,
-      "change_pct": -2.12
+      "price": 3661.4,
+      "change_pct": -2.15
     },
     {
       "label": "Nasdaq100",

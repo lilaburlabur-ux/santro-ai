@@ -4,7 +4,7 @@ Signed file: `INTC.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $55.71 (2026-11-19, ~15-min delayed) |
+| Current price | $55.72 (2026-11-19, ~15-min delayed) |
 | Market cap | $296.15B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,7 +15,7 @@ Signed file: `INTC.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +62.29%; price -36.36% vs SMA200. |
+| Technical momentum | High | 1Y +62.31%; price -36.35% vs SMA200. |
 | Fresh setup quality | Poor / broken | -60.47% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-20.09%). |
 | Value attractiveness | Fair-to-demanding | Forward P/E 31.12, EV/Sales 5.07. |
@@ -36,16 +36,16 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
+| This Is Incredible News for AMD Stock Investors (Hint: It’s Bad News for Intel) | Motley Fool | 2026-11-19 |
+| Lumentum’s sales surged 137%—so why is its stock crashing? | Investing.com | 2026-11-19 |
+| Marvell Stock Halved Again. What Does Its Cash Say? | Trefis | 2026-11-19 |
 | Wall St slides as Anthropic's debut fails to revive AI trade optimism | Reuters | 2026-11-19 |
-| What's Happening To Intel's Factory Cash? | Trefis | 2026-11-19 |
-| Intel (INTC) Stock Could Be 33% Undervalued On Chip Breakthrough News | Simply Wall St. | 2026-11-19 |
-| Analysts Are Bullish on This Blue Chip Stock: Should You Buy? | Insider Monkey | 2026-11-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $55.71; 52w high $140.94 (-60.47%); 52w low $33.62 (+65.72%) |
-| Trend | -36.36% vs SMA200, -38.95% vs SMA50, -16.45% vs SMA20 |
+| Price vs 52-week range | Close $55.72; 52w high $140.94 (-60.47%); 52w low $33.62 (+65.73%) |
+| Trend | -36.35% vs SMA200, -38.94% vs SMA50, -16.45% vs SMA20 |
 | Momentum | RSI(14) 31.0 (neutral) |
 | Volatility | ATR(14) 5.22 (~9.4% of price); beta 2.43 |
 | Setup perspective | -60.47% from 52w high — base needs to rebuild. |
@@ -113,14 +113,14 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $55.71 | EV/Sales | 5.07 |
+| Price | $55.72 | EV/Sales | 5.07 |
 | Market cap | $296.15B | EV/EBITDA | 15.85 |
 | Beta | 2.43 | Gross margin | 40.15% |
 | RSI(14) | 31.0 | Operating margin | 10.32% |
 | ATR(14) | 5.22 | Profit margin | -20.09% |
 | SMA20 dist | -16.45% | ROA | 1.78% |
-| SMA50 dist | -38.95% | ROE | -9.62% |
-| SMA200 dist | -36.36% | Revenue (ttm) | $59.89B |
+| SMA50 dist | -38.94% | ROE | -9.62% |
+| SMA200 dist | -36.35% | Revenue (ttm) | $59.89B |
 | 52W high | $140.94 | Revenue growth y/y | 20.90% |
 | 52W low | $33.62 | Inst. ownership | 69.10% |
 | P/E (ttm) | — | Insider ownership | 12.91% |

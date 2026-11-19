@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-19T13:46:35+00:00",
-  "as_of_local": "2026-11-19 13:46:35 UTC",
+  "as_of_utc": "2026-11-19T13:51:31+00:00",
+  "as_of_local": "2026-11-19 13:51:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -147,6 +145,34 @@
       ]
     },
     {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 54.67,
+      "previous_close": 55.17,
+      "change_pct": -0.91,
+      "market_cap": 290571040267.94434,
+      "headlines": [
+        {
+          "title": "Nvidia, AMD, Micron stocks lead chip sector higher amid Anthropic IPO optimism",
+          "url": "https://finance.yahoo.com/markets/article/copy-nvidia-stock-slips-as-investors-digest-ceo-exit-rest-of-chip-sector-falls-134408467.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-19T13:44:08Z"
+        },
+        {
+          "title": "Premarket movers: Palo Alto soars, chip stocks rally ahead of Anthropic debut",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-palo-alto-soars-130941709.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-19T13:09:41Z"
+        },
+        {
+          "title": "Anthropic Stock Market Debut Will Change the AI Trade Forever",
+          "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-474ff1f2?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-19T12:45:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "ARM",
       "name": "Arm Holdings",
       "price": 182.76,
@@ -223,10 +249,10 @@
           "published": "2026-11-19T13:09:41Z"
         },
         {
-          "title": "Nasdaq futures jump on renewed AI optimism ahead of Anthropic's market debut",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-jump-anthropics-record-090243474.html",
-          "publisher": "Reuters",
-          "published": "2026-11-19T12:39:28Z"
+          "title": "Not Nvidia. Not Broadcom. If I Could Buy and Hold Only 1 AI Chip Stock Through 2030, It Would Be This One",
+          "url": "https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-broadcom-could-122201341.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-19T12:22:01Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 63651.69,
-      "change_pct": 1.05
+      "price": 63819.94,
+      "change_pct": 1.32
     },
     {
       "label": "Gold",
-      "price": 3720.4,
-      "change_pct": -0.57
+      "price": 3717.6,
+      "change_pct": -0.65
     },
     {
       "label": "Nasdaq100",

@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-19T23:50:41+00:00",
-  "as_of_local": "2026-11-19 23:50:41 UTC",
+  "as_of_utc": "2026-11-19T23:55:40+00:00",
+  "as_of_local": "2026-11-19 23:55:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 145.98,
+      "previous_close": 150.96,
+      "change_pct": -3.3,
+      "market_cap": 3524978956832.8857,
+      "headlines": [
+        {
+          "title": "Jensen Huang's Nvidia comeback: Why the math doesn't add up",
+          "url": "https://finance.yahoo.com/video/jensen-huangs-nvidia-comeback-why-the-math-doesnt-add-up-213021034.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-19T21:30:21Z"
+        },
+        {
+          "title": "Nvidia will not be the leader 5 years from now: Tiernan Ray",
+          "url": "https://finance.yahoo.com/video/nvidia-will-not-be-the-leader-5-years-from-now-tiernan-ray-185954396.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-19T18:59:54Z"
+        },
+        {
+          "title": "Why AI competition from China won't be a risk US tech companies",
+          "url": "https://finance.yahoo.com/video/why-ai-competition-from-china-wont-be-a-risk-us-tech-companies-184851467.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-19T18:48:51Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -437,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 2.98,
-          "price": 296.78,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -527,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 2.98,
-        "price": 296.78,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61891.48,
-      "change_pct": -1.74
+      "price": 61941.03,
+      "change_pct": -1.66
     },
     {
       "label": "Gold",
-      "price": 3600.7,
-      "change_pct": -3.77
+      "price": 3608.4,
+      "change_pct": -3.57
     },
     {
       "label": "Nasdaq100",

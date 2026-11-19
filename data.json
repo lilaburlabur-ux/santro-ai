@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-11-19T23:45:43+00:00",
-  "as_of_local": "2026-11-19 23:45:43 UTC",
+  "as_of_utc": "2026-11-19T23:50:41+00:00",
+  "as_of_local": "2026-11-19 23:50:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 145.98,
-      "previous_close": 150.96,
-      "change_pct": -3.3,
-      "market_cap": 3524978956832.8857,
-      "headlines": [
-        {
-          "title": "Jensen Huang's Nvidia comeback: Why the math doesn't add up",
-          "url": "https://finance.yahoo.com/video/jensen-huangs-nvidia-comeback-why-the-math-doesnt-add-up-213021034.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-19T21:30:21Z"
-        },
-        {
-          "title": "Nvidia will not be the leader 5 years from now: Tiernan Ray",
-          "url": "https://finance.yahoo.com/video/nvidia-will-not-be-the-leader-5-years-from-now-tiernan-ray-185954396.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-19T18:59:54Z"
-        },
-        {
-          "title": "Why AI competition from China won't be a risk US tech companies",
-          "url": "https://finance.yahoo.com/video/why-ai-competition-from-china-wont-be-a-risk-us-tech-companies-184851467.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-19T18:48:51Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -187,16 +161,16 @@
           "published": "2026-11-19T22:40:39Z"
         },
         {
+          "title": "The 25 Biggest US IPOs of All Time",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/25-biggest-u-ipos-time-172550995.html",
+          "publisher": "Kiplinger",
+          "published": "2026-11-19T21:38:58Z"
+        },
+        {
           "title": "At AI Summit, Industry Titans Wave Off Market Woes\u2014and Defend Jensen Huang",
           "url": "https://www.barrons.com/articles/ai-trade-stocks-bull-bear-anthropic-ipo-4139cf71?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-19T20:22:00Z"
-        },
-        {
-          "title": "Arm Just Dropped 21% in a Month. Will ARM Stock Hit $150 or $200 First?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-just-dropped-21-month-200515633.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-19T20:05:15Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61942.83,
-      "change_pct": -1.66
+      "price": 61891.48,
+      "change_pct": -1.74
     },
     {
       "label": "Gold",
-      "price": 3618.2,
-      "change_pct": -3.31
+      "price": 3600.7,
+      "change_pct": -3.77
     },
     {
       "label": "Nasdaq100",

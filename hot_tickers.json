@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-19T17:00:06+00:00",
+  "as_of": "2026-11-19T17:05:11+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,33 +11,17 @@
    "rank": 1,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
-   "move_pct": -7.68,
-   "price": 489.41,
-   "volume": 39216794,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 48,
+   "move_pct": -8.58,
+   "price": 484.64,
+   "volume": 40456762,
+   "volume_vs_avg": "~1.3x",
+   "heat_score": 61,
    "direction": "down",
-   "why": "Advanced Micro Devices Shares Fall Amid Hunterbrook Media Report on China Ties",
+   "why": "Update: Advanced Micro Devices Shares Fall Amid Hunterbrook Media Report on China Ties",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-shares-fall-163141669.html",
-   "published": "2026-11-19T16:31:41+00:00",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-shares-fall-165001572.html",
+   "published": "2026-11-19T16:50:01+00:00",
    "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 2,
-   "ticker": "PANW",
-   "company": "Palo Alto Networks Inc",
-   "move_pct": 5.03,
-   "price": 357.03,
-   "volume": 9598900,
-   "volume_vs_avg": "~2x",
-   "heat_score": 40,
-   "direction": "up",
-   "why": "Palo Alto Q1 Shows Need for Cybersecurity, Morgan Stanley Says",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-q1-shows-cybersecurity-160046058.html",
-   "published": "2026-11-19T16:00:46+00:00",
-   "sector": "Cybersecurity"
   }
  ]
 }

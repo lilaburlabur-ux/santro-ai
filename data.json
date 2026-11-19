@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-19T21:15:28+00:00",
-  "as_of_local": "2026-11-19 21:15:28 UTC",
+  "as_of_utc": "2026-11-19T21:20:43+00:00",
+  "as_of_local": "2026-11-19 21:20:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -253,34 +255,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-says-nvidia-interim-195849659.html",
           "publisher": "TIKR",
           "published": "2026-11-19T19:58:49Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 251.76,
-      "previous_close": 252.47,
-      "change_pct": -0.28,
-      "market_cap": 63456858874.311584,
-      "headlines": [
-        {
-          "title": "Ambarella Stock Soars on Potential Billion-Dollar Chip Deal",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ambarella-stock-soars-potential-billion-180441846.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-19T18:04:41Z"
-        },
-        {
-          "title": "Is Texas Instruments' Sales Boom Its Biggest Risk?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-sales-boom-biggest-144049737.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T14:40:49Z"
-        },
-        {
-          "title": "Semtech Set to Report Q3 Earnings: Buy, Sell or Hold the Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/semtech-set-report-q3-earnings-142500594.html",
-          "publisher": "Zacks",
-          "published": "2026-11-19T14:25:00Z"
         }
       ]
     },
@@ -585,12 +559,12 @@
     },
     {
       "label": "BTC",
-      "price": 61928.26,
-      "change_pct": -1.68
+      "price": 61528.66,
+      "change_pct": -2.32
     },
     {
       "label": "Gold",
-      "price": 3660.2,
+      "price": 3660.3,
       "change_pct": -2.18
     },
     {

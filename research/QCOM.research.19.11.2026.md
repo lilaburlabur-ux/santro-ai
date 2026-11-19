@@ -4,24 +4,24 @@ Signed file: `QCOM.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-19, ~15-min delayed) |
+| Current price | $159.81 (2026-11-19, ~15-min delayed) |
 | Market cap | $171.00B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-5.67%) with negative half-year (-20.36%). |
+| Fresh setup quality | Poor / broken | -35.75% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 31.61%, revenue growth -8.40%. |
 | Value attractiveness | Reasonable | Forward P/E 13.12, EV/Sales 4.16. |
-| Risk level | Elevated | Beta 1.76, ATR nan% of price, short float 3.03%. |
+| Risk level | High | Beta 1.76, ATR 5.6% of price, short float 3.03%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $248.74 (+nan%); 52w low $122.94 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 44.7 (neutral) |
-| Volatility | ATR(14) 8.89 (~nan% of price); beta 1.76 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $159.81; 52w high $248.74 (-35.75%); 52w low $122.94 (+29.99%) |
+| Trend | -5.67% vs SMA200, -10.34% vs SMA50, -6.92% vs SMA20 |
+| Momentum | RSI(14) 40.1 (neutral) |
+| Volatility | ATR(14) 8.88 (~5.6% of price); beta 1.76 |
+| Setup perspective | -35.75% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -9.5% |
+| Month | -9.0% |
+| Quarter | -0.0% |
+| Half Y | -20.4% |
+| 1Y | -2.2% |
+| YTD | -6.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,7 +95,8 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Price (T.Rowe) Associates Inc | 11,872,269 | 1.11% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.76, ATR nan% of price, short float 3.03%. Size positions accordingly.
+- **Volatility risk:** Beta 1.76, ATR 5.6% of price, short float 3.03%. Size positions accordingly.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,14 +111,14 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 4.16 |
+| Price | $159.81 | EV/Sales | 4.16 |
 | Market cap | $171.00B | EV/EBITDA | 16.88 |
 | Beta | 1.76 | Gross margin | 53.10% |
-| RSI(14) | 44.7 | Operating margin | 20.85% |
-| ATR(14) | 8.89 | Profit margin | 31.61% |
-| SMA20 dist | +nan% | ROA | 10.13% |
-| SMA50 dist | +nan% | ROE | 52.81% |
-| SMA200 dist | +nan% | Revenue (ttm) | $43.12B |
+| RSI(14) | 40.1 | Operating margin | 20.85% |
+| ATR(14) | 8.88 | Profit margin | 31.61% |
+| SMA20 dist | -6.92% | ROA | 10.13% |
+| SMA50 dist | -10.34% | ROE | 52.81% |
+| SMA200 dist | -5.67% | Revenue (ttm) | $43.12B |
 | 52W high | $248.74 | Revenue growth y/y | -8.40% |
 | 52W low | $122.94 | Inst. ownership | 81.62% |
 | P/E (ttm) | 12.58 | Insider ownership | 0.14% |
@@ -139,7 +140,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | 2026-11-05 | main | Susquehanna | Neutral → Neutral |
 
 ## 9. Conclusion
-QCOM: Moderate momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+QCOM: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

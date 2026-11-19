@@ -4,24 +4,24 @@ Signed file: `LSCC.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-19, ~15-min delayed) |
+| Current price | $111.61 (2026-11-19, ~15-min delayed) |
 | Market cap | $15.87B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
+| Current stance | High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +80.80%; price -4.94% vs SMA200. |
+| Fresh setup quality | Poor / broken | -28.12% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 5.53%, revenue growth 118.30%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 25.43, EV/Sales 20.61. |
-| Risk level | Elevated | Beta 1.91, ATR nan% of price, short float 9.26%. |
+| Risk level | High | Beta 1.91, ATR 6.8% of price, short float 9.26%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
+**Bottom line:** High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $155.27 (+nan%); 52w low $63.93 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 49.7 (neutral) |
-| Volatility | ATR(14) 7.84 (~nan% of price); beta 1.91 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $111.61; 52w high $155.27 (-28.12%); 52w low $63.93 (+74.58%) |
+| Trend | -4.94% vs SMA200, -1.76% vs SMA50, +5.54% vs SMA20 |
+| Momentum | RSI(14) 51.1 (neutral) |
+| Volatility | ATR(14) 7.61 (~6.8% of price); beta 1.91 |
+| Setup perspective | -28.12% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -9.1% |
+| Month | +3.9% |
+| Quarter | -5.1% |
+| Half Y | -19.6% |
+| 1Y | +80.8% |
+| YTD | +41.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -96,8 +96,9 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 25.43, EV/Sales 20.61. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.91, ATR nan% of price, short float 9.26%. Size positions accordingly.
+- **Volatility risk:** Beta 1.91, ATR 6.8% of price, short float 9.26%. Size positions accordingly.
 - **Short interest risk:** short float 9.26% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -112,14 +113,14 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 20.61 |
+| Price | $111.61 | EV/Sales | 20.61 |
 | Market cap | $15.87B | EV/EBITDA | 105.19 |
 | Beta | 1.91 | Gross margin | 69.49% |
-| RSI(14) | 49.7 | Operating margin | 13.09% |
-| ATR(14) | 7.84 | Profit margin | 5.53% |
-| SMA20 dist | +nan% | ROA | 3.83% |
-| SMA50 dist | +nan% | ROE | 4.21% |
-| SMA200 dist | +nan% | Revenue (ttm) | $808.80M |
+| RSI(14) | 51.1 | Operating margin | 13.09% |
+| ATR(14) | 7.61 | Profit margin | 5.53% |
+| SMA20 dist | +5.54% | ROA | 3.83% |
+| SMA50 dist | -1.76% | ROE | 4.21% |
+| SMA200 dist | -4.94% | Revenue (ttm) | $808.80M |
 | 52W high | $155.27 | Revenue growth y/y | 118.30% |
 | 52W low | $63.93 | Inst. ownership | 107.97% |
 | P/E (ttm) | 360.03 | Insider ownership | 0.58% |
@@ -141,7 +142,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | 2026-08-05 | main | Jefferies | Buy → Buy |
 
 ## 9. Conclusion
-LSCC: Moderate momentum / mixed fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+LSCC: High momentum / mixed fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

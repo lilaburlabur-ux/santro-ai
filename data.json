@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-20T03:38:03+00:00",
-  "as_of_local": "2026-11-20 03:38:03 UTC",
+  "as_of_utc": "2026-11-20T03:53:01+00:00",
+  "as_of_local": "2026-11-20 03:53:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -43,6 +41,12 @@
       "market_cap": 1826105257464.0286,
       "headlines": [
         {
+          "title": "Nikkei 225 Falls 4.5% and SoftBank Plunges 15% as Wall Street\u2019s AI Selloff Puts Asian Stocks on Track for Their Worst Week Since 2020",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/nikkei-225-falls-4-5-034108190.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-20T03:41:08Z"
+        },
+        {
           "title": "TSMC halts advanced chip orders from Chinese designers in Taiwan",
           "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-halts-advanced-chip-orders-000631441.html",
           "publisher": "IntelliNews",
@@ -53,12 +57,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/cracks-ai-cap-ex-boom-215000924.html",
           "publisher": "Zacks",
           "published": "2026-11-19T21:50:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 346.65,
+      "previous_close": 354.05,
+      "change_pct": -2.09,
+      "market_cap": 1654778763566.3254,
+      "headlines": [
+        {
+          "title": "Why AI competition from China won't be a risk US tech companies",
+          "url": "https://finance.yahoo.com/video/why-ai-competition-from-china-wont-be-a-risk-us-tech-companies-184851467.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-19T18:48:51Z"
         },
         {
-          "title": "Billionaire Stanley Druckenmiller Cut TSMC 94% in One Quarter, Leaving Just $14.9 Million",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-cut-tsmc-194651329.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-19T19:46:51Z"
+          "title": "Is Broadcom (AVGO) Stock Stretched Or Still Reasonable On Cash Flow?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-stretched-still-031317832.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-20T03:13:17Z"
+        },
+        {
+          "title": "Is Your VOO Fund Secretly An AI Bet?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/voo-fund-secretly-ai-bet-005820625.html",
+          "publisher": "Trefis",
+          "published": "2026-11-20T00:58:20Z"
         }
       ]
     },
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -6.34,
-          "price": 1108000.0,
+          "change_pct": -6.17,
+          "price": 1110000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -6.65,
-          "price": 183800.0,
+          "change_pct": -6.4,
+          "price": 184300.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -12.34,
-          "price": 7250.0,
+          "change_pct": -11.5,
+          "price": 7320.0,
           "currency": "JPY"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -9.54,
-          "price": 265.5,
+          "change_pct": -9.71,
+          "price": 265.0,
           "currency": "TWD"
         },
         {
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -9.18,
-          "price": 89.0,
+          "change_pct": -9.08,
+          "price": 89.1,
           "currency": "TWD"
         }
       ]
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -6.34,
-        "price": 1108000.0,
+        "change_pct": -6.17,
+        "price": 1110000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -6.65,
-        "price": 183800.0,
+        "change_pct": -6.4,
+        "price": 184300.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -12.34,
-        "price": 7250.0,
+        "change_pct": -11.5,
+        "price": 7320.0,
         "currency": "JPY"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -9.54,
-        "price": 265.5,
+        "change_pct": -9.71,
+        "price": 265.0,
         "currency": "TWD"
       },
       {
@@ -545,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -9.18,
-        "price": 89.0,
+        "change_pct": -9.08,
+        "price": 89.1,
         "currency": "TWD"
       }
     ]
@@ -559,18 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61963.94,
-      "change_pct": -1.62
+      "price": 62156.96,
+      "change_pct": -1.32
     },
     {
       "label": "Gold",
-      "price": 3525.1,
-      "change_pct": -5.79
-    },
-    {
-      "label": "Nasdaq100",
-      "price": 26517.05,
-      "change_pct": -2.21
+      "price": 3545.1,
+      "change_pct": -5.26
     }
   ]
 }

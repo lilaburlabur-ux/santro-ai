@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-20T06:59:09+00:00",
-  "as_of_local": "2026-11-20 06:59:09 UTC",
+  "as_of_utc": "2026-11-20T07:14:16+00:00",
+  "as_of_local": "2026-11-20 07:14:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -171,6 +169,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/shots-fired-hunterbrook-shorts-amd-223749072.html",
           "publisher": "TIKR",
           "published": "2026-11-19T22:37:49Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 177.17,
+      "previous_close": 182.76,
+      "change_pct": -3.06,
+      "market_cap": 189571898040.77148,
+      "headlines": [
+        {
+          "title": "Is Tech in a Bear Market? 20 Tech Stocks Fall Up to 76% From Highs",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tech-bear-market-20-tech-224039016.html",
+          "publisher": "BeInCrypto",
+          "published": "2026-11-19T22:40:39Z"
+        },
+        {
+          "title": "The 25 Biggest US IPOs of All Time",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/25-biggest-u-ipos-time-172550995.html",
+          "publisher": "Kiplinger",
+          "published": "2026-11-19T21:38:58Z"
+        },
+        {
+          "title": "At AI Summit, Industry Titans Wave Off Market Woes\u2014and Defend Jensen Huang",
+          "url": "https://www.barrons.com/articles/ai-trade-stocks-bull-bear-anthropic-ipo-4139cf71?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-19T20:22:00Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61944.48,
-      "change_pct": -1.66
+      "price": 61908.12,
+      "change_pct": 0.01
     },
     {
       "label": "Gold",
-      "price": 3557.4,
-      "change_pct": -3.48
+      "price": 3555.0,
+      "change_pct": -3.54
     },
     {
       "label": "Nasdaq100",

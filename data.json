@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T03:22:56+00:00",
-  "as_of_local": "2026-11-20 03:22:56 UTC",
+  "as_of_utc": "2026-11-20T03:38:03+00:00",
+  "as_of_local": "2026-11-20 03:38:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -57,34 +59,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-cut-tsmc-194651329.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-19T19:46:51Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 346.65,
-      "previous_close": 354.05,
-      "change_pct": -2.09,
-      "market_cap": 1654778763566.3254,
-      "headlines": [
-        {
-          "title": "Why AI competition from China won't be a risk US tech companies",
-          "url": "https://finance.yahoo.com/video/why-ai-competition-from-china-wont-be-a-risk-us-tech-companies-184851467.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-19T18:48:51Z"
-        },
-        {
-          "title": "Is Your VOO Fund Secretly An AI Bet?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/voo-fund-secretly-ai-bet-005820625.html",
-          "publisher": "Trefis",
-          "published": "2026-11-20T00:58:20Z"
-        },
-        {
-          "title": "This Beaten-Down Semiconductor Stock Could Soar in 2027",
-          "url": "https://finance.yahoo.com/technology/ai/articles/beaten-down-semiconductor-stock-could-224502875.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-19T22:45:02Z"
         }
       ]
     },
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -6.68,
-          "price": 1104000.0,
+          "change_pct": -6.34,
+          "price": 1108000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -6.7,
-          "price": 183700.0,
+          "change_pct": -6.65,
+          "price": 183800.0,
           "currency": "KRW"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -9.71,
-          "price": 265.0,
+          "change_pct": -9.54,
+          "price": 265.5,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -9.9,
-          "price": 88.3,
+          "change_pct": -9.18,
+          "price": 89.0,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -6.68,
-        "price": 1104000.0,
+        "change_pct": -6.34,
+        "price": 1108000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -6.7,
-        "price": 183700.0,
+        "change_pct": -6.65,
+        "price": 183800.0,
         "currency": "KRW"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -9.71,
-        "price": 265.0,
+        "change_pct": -9.54,
+        "price": 265.5,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -9.9,
-        "price": 88.3,
+        "change_pct": -9.18,
+        "price": 89.0,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62061.64,
-      "change_pct": -1.47
+      "price": 61963.94,
+      "change_pct": -1.62
     },
     {
       "label": "Gold",
-      "price": 3524.0,
-      "change_pct": -5.82
+      "price": 3525.1,
+      "change_pct": -5.79
     },
     {
       "label": "Nasdaq100",

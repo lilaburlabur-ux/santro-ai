@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-20T06:09:15+00:00",
-  "as_of_local": "2026-11-20 06:09:15 UTC",
+  "as_of_utc": "2026-11-20T06:24:20+00:00",
+  "as_of_local": "2026-11-20 06:24:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -175,10 +175,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 182.76,
-      "previous_close": 183.39,
-      "change_pct": -0.34,
-      "market_cap": 189571900000.0,
+      "price": 177.17,
+      "previous_close": 182.76,
+      "change_pct": -3.06,
+      "market_cap": 189571898040.77148,
       "headlines": [
         {
           "title": "Is Tech in a Bear Market? 20 Tech Stocks Fall Up to 76% From Highs",
@@ -237,6 +237,12 @@
       "market_cap": 124590582778.88702,
       "headlines": [
         {
+          "title": "Could Tesla Become The Next Lumentum? Gary Black Warns A SpaceX Stock Deal Could Send TSLA Down 25%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-tesla-become-next-lumentum-061559366.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-20T06:15:59Z"
+        },
+        {
           "title": "AI sell-off: These sectors held firm as tech slumped in Oct, Nov",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ai-sell-off-sectors-held-044523371.html",
           "publisher": "Investing.com",
@@ -247,12 +253,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-mrvl-settles-ai-220953345.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-19T22:09:53Z"
-        },
-        {
-          "title": "Lumentum\u2019s sales surged 137%\u2014so why is its stock crashing?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lumentum-sales-surged-137-why-202833709.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-19T20:28:33Z"
         }
       ]
     },
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 39.15,
-      "change_pct": 0.57,
+      "price": 38.43,
+      "change_pct": -1.84,
       "holdings": [
         {
           "symbol": "MU",
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -6.42,
-          "price": 1107000.0,
+          "change_pct": -6.51,
+          "price": 1106000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -7.41,
-          "price": 182300.0,
+          "change_pct": -7.21,
+          "price": 182700.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -10.57,
-          "price": 7397.0,
+          "change_pct": -11.38,
+          "price": 7330.0,
           "currency": "JPY"
         },
         {
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 39.15,
-    "change_pct": 0.57,
+    "price": 38.43,
+    "change_pct": -1.84,
     "holdings": [
       {
         "symbol": "MU",
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -6.42,
-        "price": 1107000.0,
+        "change_pct": -6.51,
+        "price": 1106000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -7.41,
-        "price": 182300.0,
+        "change_pct": -7.21,
+        "price": 182700.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -10.57,
-        "price": 7397.0,
+        "change_pct": -11.38,
+        "price": 7330.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61844.67,
-      "change_pct": -1.81
+      "price": 61866.63,
+      "change_pct": -1.78
     },
     {
       "label": "Gold",
-      "price": 3545.8,
-      "change_pct": -3.79
+      "price": 3553.9,
+      "change_pct": -3.57
     },
     {
       "label": "Nasdaq100",

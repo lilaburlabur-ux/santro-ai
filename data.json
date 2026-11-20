@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-20T06:24:20+00:00",
-  "as_of_local": "2026-11-20 06:24:20 UTC",
+  "as_of_utc": "2026-11-20T06:29:27+00:00",
+  "as_of_local": "2026-11-20 06:29:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 1826105257464.0286,
       "headlines": [
         {
+          "title": "Taiwan\u2019s Taiex on Track for Worst Week Since 1990",
+          "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-9-dragged-by-chip-metals-stocks-0601645e?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-20T06:08:00Z"
+        },
+        {
           "title": "South Korea\u2019s Stock Market and the Nikkei 225 Sink More Than 4% as the AI Selloff Spreads From Wall Street. Here\u2019s How Much of a Target-Date Fund Is in Samsung, SK Hynix and TSMC",
           "url": "https://finance.yahoo.com/markets/world-indices/articles/south-korea-stock-market-nikkei-035104660.html",
           "publisher": "24/7 Wall St.",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/world-indices/articles/nikkei-225-falls-4-5-034108190.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-20T03:41:08Z"
-        },
-        {
-          "title": "TSMC halts advanced chip orders from Chinese designers in Taiwan",
-          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-halts-advanced-chip-orders-000631441.html",
-          "publisher": "IntelliNews",
-          "published": "2026-11-20T00:06:31Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -6.51,
-          "price": 1106000.0,
+          "change_pct": -6.59,
+          "price": 1105000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -7.21,
-          "price": 182700.0,
+          "change_pct": -7.11,
+          "price": 182900.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -11.38,
-          "price": 7330.0,
+          "change_pct": -11.29,
+          "price": 7337.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -6.51,
-        "price": 1106000.0,
+        "change_pct": -6.59,
+        "price": 1105000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -7.21,
-        "price": 182700.0,
+        "change_pct": -7.11,
+        "price": 182900.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -11.38,
-        "price": 7330.0,
+        "change_pct": -11.29,
+        "price": 7337.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61866.63,
-      "change_pct": -1.78
+      "price": 61771.43,
+      "change_pct": -1.93
     },
     {
       "label": "Gold",
-      "price": 3553.9,
-      "change_pct": -3.57
+      "price": 3560.7,
+      "change_pct": -3.39
     },
     {
       "label": "Nasdaq100",

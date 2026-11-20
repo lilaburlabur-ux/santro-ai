@@ -4,7 +4,7 @@ Signed file: `NXPI.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $240.50 (2026-11-20, ~15-min delayed) |
+| Current price | $240.49 (2026-11-20, ~15-min delayed) |
 | Market cap | $60.62B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,8 +15,8 @@ Signed file: `NXPI.research.20.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-2.67%) with negative half-year (-23.40%). |
-| Fresh setup quality | Poor / broken | -27.13% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-2.67%) with negative half-year (-23.41%). |
+| Fresh setup quality | Poor / broken | -27.14% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 23.39%, revenue growth 19.30%. |
 | Value attractiveness | Reasonable | Forward P/E 13.11, EV/Sales 5.14. |
 | Risk level | Elevated | Beta 1.86, ATR 5.0% of price, short float 2.75%. |
@@ -44,11 +44,11 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $240.50; 52w high $330.06 (-27.13%); 52w low $180.99 (+32.88%) |
+| Price vs 52-week range | Close $240.49; 52w high $330.06 (-27.14%); 52w low $180.99 (+32.88%) |
 | Trend | -2.67% vs SMA200, -0.72% vs SMA50, -6.16% vs SMA20 |
 | Momentum | RSI(14) 42.8 (neutral) |
 | Volatility | ATR(14) 11.91 (~5.0% of price); beta 1.86 |
-| Setup perspective | -27.13% from 52w high — base needs to rebuild. |
+| Setup perspective | -27.14% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
@@ -111,7 +111,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $240.50 | EV/Sales | 5.14 |
+| Price | $240.49 | EV/Sales | 5.14 |
 | Market cap | $60.62B | EV/EBITDA | 13.16 |
 | Beta | 1.86 | Gross margin | 56.46% |
 | RSI(14) | 42.8 | Operating margin | 33.84% |

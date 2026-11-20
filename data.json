@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T13:09:48+00:00",
-  "as_of_local": "2026-11-20 13:09:48 UTC",
+  "as_of_utc": "2026-11-20T13:14:55+00:00",
+  "as_of_local": "2026-11-20 13:14:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-halved-again-does-202557344.html",
           "publisher": "Trefis",
           "published": "2026-11-19T20:25:57Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 138.47,
-      "previous_close": 145.54,
-      "change_pct": -4.86,
-      "market_cap": 124590582778.88702,
-      "headlines": [
-        {
-          "title": "Anthropic, AMD, Intel, Marvell, Intuit, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-affd1759?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-20T12:02:00Z"
-        },
-        {
-          "title": "Micron Keeps Falling as Memory Stocks Get Agonizingly Cheap. The Next Catalyst.",
-          "url": "https://www.barrons.com/articles/micron-stock-memory-price-catalyst-58e84734?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-20T11:58:00Z"
-        },
-        {
-          "title": "Could Tesla Become The Next Lumentum? Gary Black Warns A SpaceX Stock Deal Could Send TSLA Down 25%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/could-tesla-become-next-lumentum-061559366.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-20T06:15:59Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61539.22,
-      "change_pct": -0.59
+      "price": 61451.41,
+      "change_pct": -0.73
     },
     {
       "label": "Gold",
-      "price": 3573.8,
-      "change_pct": -3.03
+      "price": 3579.9,
+      "change_pct": -2.87
     },
     {
       "label": "Nasdaq100",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T10:22:26+00:00",
-  "as_of_local": "2026-11-20 10:22:26 UTC",
+  "as_of_utc": "2026-11-20T10:27:19+00:00",
+  "as_of_local": "2026-11-20 10:27:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-halved-again-does-202557344.html",
           "publisher": "Trefis",
           "published": "2026-11-19T20:25:57Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 138.47,
-      "previous_close": 145.54,
-      "change_pct": -4.86,
-      "market_cap": 124590582778.88702,
-      "headlines": [
-        {
-          "title": "Could Tesla Become The Next Lumentum? Gary Black Warns A SpaceX Stock Deal Could Send TSLA Down 25%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/could-tesla-become-next-lumentum-061559366.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-20T06:15:59Z"
-        },
-        {
-          "title": "AI sell-off: These sectors held firm as tech slumped in Oct, Nov",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-sell-off-sectors-held-044523371.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-20T04:45:23Z"
-        },
-        {
-          "title": "Marvell Technology (MRVL) Settles AI Networking Patent Dispute And Clears A Key Risk",
-          "url": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-mrvl-settles-ai-220953345.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-19T22:09:53Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61655.28,
-      "change_pct": -0.4
+      "price": 61811.67,
+      "change_pct": -0.15
     },
     {
       "label": "Gold",
-      "price": 3576.0,
-      "change_pct": -2.97
+      "price": 3577.6,
+      "change_pct": -2.93
     },
     {
       "label": "Nasdaq100",

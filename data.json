@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-20T10:06:54+00:00",
-  "as_of_local": "2026-11-20 10:06:54 UTC",
+  "as_of_utc": "2026-11-20T10:11:49+00:00",
+  "as_of_local": "2026-11-20 10:11:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 145.98,
+      "previous_close": 150.96,
+      "change_pct": -3.3,
+      "market_cap": 3524978956832.8857,
+      "headlines": [
+        {
+          "title": "Jensen Huang's Nvidia comeback: Why the math doesn't add up",
+          "url": "https://finance.yahoo.com/video/jensen-huangs-nvidia-comeback-why-the-math-doesnt-add-up-213021034.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-19T21:30:21Z"
+        },
+        {
+          "title": "Nvidia will not be the leader 5 years from now: Tiernan Ray",
+          "url": "https://finance.yahoo.com/video/nvidia-will-not-be-the-leader-5-years-from-now-tiernan-ray-185954396.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-19T18:59:54Z"
+        },
+        {
+          "title": "Why AI competition from China won't be a risk US tech companies",
+          "url": "https://finance.yahoo.com/video/why-ai-competition-from-china-wont-be-a-risk-us-tech-companies-184851467.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-19T18:48:51Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61760.73,
-      "change_pct": -0.23
+      "price": 61719.68,
+      "change_pct": -0.29
     },
     {
       "label": "Gold",
-      "price": 3569.0,
-      "change_pct": -3.16
+      "price": 3571.8,
+      "change_pct": -3.09
     },
     {
       "label": "Nasdaq100",

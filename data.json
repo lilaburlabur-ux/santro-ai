@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T03:58:13+00:00",
-  "as_of_local": "2026-11-20 03:58:13 UTC",
+  "as_of_utc": "2026-11-20T04:12:19+00:00",
+  "as_of_local": "2026-11-20 04:12:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -41,6 +43,12 @@
       "market_cap": 1826105257464.0286,
       "headlines": [
         {
+          "title": "South Korea\u2019s Stock Market and the Nikkei 225 Sink More Than 4% as the AI Selloff Spreads From Wall Street. Here\u2019s How Much of a Target-Date Fund Is in Samsung, SK Hynix and TSMC",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/south-korea-stock-market-nikkei-035104660.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-20T03:51:04Z"
+        },
+        {
           "title": "Nikkei 225 Falls 4.5% and SoftBank Plunges 15% as Wall Street\u2019s AI Selloff Puts Asian Stocks on Track for Their Worst Week Since 2020",
           "url": "https://finance.yahoo.com/markets/world-indices/articles/nikkei-225-falls-4-5-034108190.html",
           "publisher": "24/7 Wall St.",
@@ -51,12 +59,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-halts-advanced-chip-orders-000631441.html",
           "publisher": "IntelliNews",
           "published": "2026-11-20T00:06:31Z"
-        },
-        {
-          "title": "Cracks in the \"AI\" Cap-Ex Boom Have Emerged",
-          "url": "https://finance.yahoo.com/technology/ai/articles/cracks-ai-cap-ex-boom-215000924.html",
-          "publisher": "Zacks",
-          "published": "2026-11-19T21:50:00Z"
         }
       ]
     },
@@ -113,34 +115,6 @@
           "url": "https://finance.yahoo.com/video/blacklisted-chinese-server-maker-kept-getting-amd-firmware-updates-hunterbrook-162807931.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-19T16:28:07Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 690.44,
-      "previous_close": 705.27,
-      "change_pct": -2.1,
-      "market_cap": 781179845255.5437,
-      "headlines": [
-        {
-          "title": "Nvidia, Broadcom, and Micron stocks decline as Anthropic goes public",
-          "url": "https://finance.yahoo.com/markets/article/nvidia-broadcom-micron-stocks-decline-as-anthropic-goes-public-170845481.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-19T13:44:08Z"
-        },
-        {
-          "title": "Memory supply constraints will be even 'tighter' in 2027: Micron CTO",
-          "url": "https://finance.yahoo.com/technology/ai/article/memory-supply-constraints-will-be-even-tighter-in-2027-micron-cto-173141999.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-19T17:31:41Z"
-        },
-        {
-          "title": "Micron (MU) Dips More Than Broader Market: What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-dips-more-broader-214503318.html",
-          "publisher": "Zacks",
-          "published": "2026-11-19T21:45:03Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -2.1,
-          "price": 690.44,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -6.59,
-          "price": 1105000.0,
+          "change_pct": -5.71,
+          "price": 1115500.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -6.65,
-          "price": 183800.0,
+          "change_pct": -6.04,
+          "price": 185000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -10.86,
-          "price": 7373.0,
+          "change_pct": -10.17,
+          "price": 7430.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -9.71,
-          "price": 265.0,
+          "change_pct": -8.69,
+          "price": 268.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -9.8,
-          "price": 88.4,
+          "change_pct": -7.96,
+          "price": 90.2,
           "currency": "TWD"
         }
       ]
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -2.1,
-        "price": 690.44,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -6.59,
-        "price": 1105000.0,
+        "change_pct": -5.71,
+        "price": 1115500.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -6.65,
-        "price": 183800.0,
+        "change_pct": -6.04,
+        "price": 185000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -10.86,
-        "price": 7373.0,
+        "change_pct": -10.17,
+        "price": 7430.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -9.71,
-        "price": 265.0,
+        "change_pct": -8.69,
+        "price": 268.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -9.8,
-        "price": 88.4,
+        "change_pct": -7.96,
+        "price": 90.2,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 62089.88,
-      "change_pct": -1.42
+      "price": 61730.51,
+      "change_pct": -2.0
     },
     {
       "label": "Gold",
-      "price": 3553.1,
-      "change_pct": -5.05
+      "price": 3549.0,
+      "change_pct": -5.16
     },
     {
       "label": "Nasdaq100",

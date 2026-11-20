@@ -1,16 +1,18 @@
 {
-  "as_of_utc": "2026-11-20T20:21:15+00:00",
-  "as_of_local": "2026-11-20 20:21:15 UTC",
+  "as_of_utc": "2026-11-20T20:26:19+00:00",
+  "as_of_local": "2026-11-20 20:26:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 127.52,
+      "price": 127.97,
       "previous_close": 145.98,
-      "change_pct": -12.65,
-      "market_cap": 3080794972892.761,
+      "change_pct": -12.33,
+      "market_cap": 3088522005523.6816,
       "headlines": [
         {
           "title": "Nvidia stock extends $2.5 trillion rout as SEC probe reportedly investigates its accounting",
@@ -35,13 +37,13 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 320.74,
+      "price": 321.39,
       "previous_close": 352.09,
-      "change_pct": -8.9,
-      "market_cap": 1664131648881.1145,
+      "change_pct": -8.72,
+      "market_cap": 1666154449322.5,
       "headlines": [
         {
-          "title": "Broadcom stock sinks 10%, Nvidia and AMD extend declines as the AI trade melts down",
+          "title": "Nvidia drops 12%, Broadcom and AMD extend declines as the AI trade melts down",
           "url": "https://finance.yahoo.com/markets/article/nvidia-amd-and-broadcom-lead-chip-stocks-lower-133658985.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-20T13:36:58Z"
@@ -63,13 +65,13 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 304.02,
+      "price": 303.17,
       "previous_close": 346.65,
-      "change_pct": -12.3,
-      "market_cap": 1451278899112.636,
+      "change_pct": -12.54,
+      "market_cap": 1446990382390.0447,
       "headlines": [
         {
-          "title": "Broadcom stock sinks 10%, Nvidia and AMD extend declines as the AI trade melts down",
+          "title": "Nvidia drops 12%, Broadcom and AMD extend declines as the AI trade melts down",
           "url": "https://finance.yahoo.com/markets/article/nvidia-amd-and-broadcom-lead-chip-stocks-lower-133658985.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-20T13:36:58Z"
@@ -91,13 +93,13 @@
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 426.86,
+      "price": 425.23,
       "previous_close": 489.19,
-      "change_pct": -12.74,
-      "market_cap": 707209499139.4629,
+      "change_pct": -13.07,
+      "market_cap": 703038752078.5963,
       "headlines": [
         {
-          "title": "Broadcom stock sinks 10%, Nvidia and AMD extend declines as the AI trade melts down",
+          "title": "Nvidia drops 12%, Broadcom and AMD extend declines as the AI trade melts down",
           "url": "https://finance.yahoo.com/markets/article/nvidia-amd-and-broadcom-lead-chip-stocks-lower-133658985.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-20T13:36:58Z"
@@ -119,13 +121,13 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 594.7,
+      "price": 594.09,
       "previous_close": 690.44,
-      "change_pct": -13.87,
-      "market_cap": 673717290677.8933,
+      "change_pct": -13.96,
+      "market_cap": 671612929133.748,
       "headlines": [
         {
-          "title": "Broadcom stock sinks 10%, Nvidia and AMD extend declines as the AI trade melts down",
+          "title": "Nvidia drops 12%, Broadcom and AMD extend declines as the AI trade melts down",
           "url": "https://finance.yahoo.com/markets/article/nvidia-amd-and-broadcom-lead-chip-stocks-lower-133658985.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-20T13:36:58Z"
@@ -147,10 +149,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 52.76,
+      "price": 52.29,
       "previous_close": 55.72,
-      "change_pct": -5.31,
-      "market_cap": 280791459732.05566,
+      "change_pct": -6.16,
+      "market_cap": 277682169322.9675,
       "headlines": [
         {
           "title": "Jensen Huang's exit is part of a troubling CEO scandal history",
@@ -175,10 +177,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 154.06,
+      "price": 153.73,
       "previous_close": 177.17,
-      "change_pct": -13.04,
-      "market_cap": 165106342163.08594,
+      "change_pct": -13.23,
+      "market_cap": 164448302612.3047,
       "headlines": [
         {
           "title": "AMD Sinks Another 4% as Chip Rout Deepens After Short Report Flags \u201cIts Own China Problem\u201d",
@@ -203,10 +205,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 153.19,
+      "price": 152.43,
       "previous_close": 162.01,
-      "change_pct": -5.44,
-      "market_cap": 164063101959.22852,
+      "change_pct": -5.91,
+      "market_cap": 163048629760.7422,
       "headlines": [
         {
           "title": "Why Are Investors Ignoring Qualcomm Stock's High Cash Yield?",
@@ -231,10 +233,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 123.11,
+      "price": 122.63,
       "previous_close": 138.47,
-      "change_pct": -11.09,
-      "market_cap": 110977120590.83893,
+      "change_pct": -11.44,
+      "market_cap": 110320295341.19351,
       "headlines": [
         {
           "title": "Micron Keeps Falling as Memory Stocks Get Agonizingly Cheap",
@@ -257,40 +259,12 @@
       ]
     },
     {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 240.4,
-      "previous_close": 251.76,
-      "change_pct": -4.51,
-      "market_cap": 60601098058.74878,
-      "headlines": [
-        {
-          "title": "What Could NXP Semiconductors (NXPI) New Robotics Platform Mean For Investors?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/could-nxp-semiconductors-nxpi-robotics-121735177.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-20T12:17:35Z"
-        },
-        {
-          "title": "Ambarella Stock Soars on Reports NXP Semiconductors Deal Is Drawing to a Close",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ambarella-stock-soars-reports-nxp-195145202.html",
-          "publisher": "Barchart",
-          "published": "2026-11-19T19:51:45Z"
-        },
-        {
-          "title": "Ambarella Stock Soars on Potential Billion-Dollar Chip Deal",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ambarella-stock-soars-potential-billion-180441846.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-19T18:04:41Z"
-        }
-      ]
-    },
-    {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 99.28,
+      "price": 98.32,
       "previous_close": 110.92,
-      "change_pct": -10.49,
-      "market_cap": 14120166428.864655,
+      "change_pct": -11.36,
+      "market_cap": 13975096701.486855,
       "headlines": [
         {
           "title": "What Have Lattice Stock Holders Had To Sit Through?",
@@ -315,10 +289,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 116.14,
+      "price": 115.86,
       "previous_close": 116.91,
-      "change_pct": -0.65,
-      "market_cap": 4614467194.020905,
+      "change_pct": -0.9,
+      "market_cap": 4602945888.008362,
       "headlines": [
         {
           "title": "Top 3 AI Infrastructure Stocks To Watch In November 2026",
@@ -343,10 +317,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 87.34,
+      "price": 87.1,
       "previous_close": 95.91,
-      "change_pct": -8.94,
-      "market_cap": 4444778550.392258,
+      "change_pct": -9.19,
+      "market_cap": 4421401074.0,
       "headlines": [
         {
           "title": "Can AeroVironment's $405 Million LOCUST X3 Order Expand Its Reach?",
@@ -371,10 +345,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 22.39,
+      "price": 22.37,
       "previous_close": 25.6,
-      "change_pct": -12.54,
-      "market_cap": 638725647.4483337,
+      "change_pct": -12.62,
+      "market_cap": 638155143.3210411,
       "headlines": [
         {
           "title": "Nvidia Up 8.9% After a Strong Anthropic IPO? That\u2019s What Tilt\u2019s New Investing Tool Modeled",
@@ -401,16 +375,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 33.79,
-      "change_pct": -12.07,
+      "price": 33.71,
+      "change_pct": -12.28,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -13.87,
-          "price": 594.7,
+          "change_pct": -13.96,
+          "price": 594.09,
           "currency": "USD"
         },
         {
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 3.41,
+          "price": 1183000.0,
           "currency": "KRW"
         },
         {
@@ -445,8 +419,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -15.8,
-          "price": 79.49,
+          "change_pct": -15.93,
+          "price": 79.36,
           "currency": "USD"
         },
         {
@@ -454,8 +428,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -11.04,
-          "price": 463.81,
+          "change_pct": -11.01,
+          "price": 463.96,
           "currency": "USD"
         },
         {
@@ -463,8 +437,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -11.45,
-          "price": 262.8,
+          "change_pct": -11.65,
+          "price": 262.21,
           "currency": "USD"
         },
         {
@@ -491,16 +465,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 33.79,
-    "change_pct": -12.07,
+    "price": 33.71,
+    "change_pct": -12.28,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -13.87,
-        "price": 594.7,
+        "change_pct": -13.96,
+        "price": 594.09,
         "currency": "USD"
       },
       {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 3.41,
+        "price": 1183000.0,
         "currency": "KRW"
       },
       {
@@ -535,8 +509,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -15.8,
-        "price": 79.49,
+        "change_pct": -15.93,
+        "price": 79.36,
         "currency": "USD"
       },
       {
@@ -544,8 +518,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -11.04,
-        "price": 463.81,
+        "change_pct": -11.01,
+        "price": 463.96,
         "currency": "USD"
       },
       {
@@ -553,8 +527,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -11.45,
-        "price": 262.8,
+        "change_pct": -11.65,
+        "price": 262.21,
         "currency": "USD"
       },
       {
@@ -580,18 +554,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 6955.29,
-      "change_pct": -3.07
+      "price": 6943.16,
+      "change_pct": -3.24
+    },
+    {
+      "label": "BTC",
+      "price": 58562.49,
+      "change_pct": -5.39
     },
     {
       "label": "Gold",
-      "price": 3519.4,
-      "change_pct": -4.51
+      "price": 3516.4,
+      "change_pct": -4.59
     },
     {
       "label": "Nasdaq100",
-      "price": 25196.31,
-      "change_pct": -4.98
+      "price": 25152.84,
+      "change_pct": -5.14
     }
   ]
 }

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-20T11:18:09+00:00",
-  "as_of_local": "2026-11-20 11:18:09 UTC",
+  "as_of_utc": "2026-11-20T11:23:20+00:00",
+  "as_of_local": "2026-11-20 11:23:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -21,16 +19,16 @@
           "published": "2026-11-19T21:30:21Z"
         },
         {
+          "title": "Dow Jones Futures Rise, Techs Slide; Anthropic Retreats After Ugly Market Reversal To New Lows",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-reversal-anthropic-ipo-debuts-amd-dives/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-20T11:09:46Z"
+        },
+        {
           "title": "Is Lowe's a Buy After Its Latest Earnings Report?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/lowes-buy-latest-earnings-report-110702227.html",
           "publisher": "Motley Fool",
           "published": "2026-11-20T11:07:02Z"
-        },
-        {
-          "title": "Is Coca-Cola (KO) the Best Stock to Own During a Market Sell-Off?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-ko-best-stock-110601866.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-20T11:06:01Z"
         }
       ]
     },
@@ -114,7 +112,35 @@
           "title": "Dow Jones Futures Rise, Techs Slide; Anthropic Retreats After Ugly Market Reversal To New Lows",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-reversal-anthropic-ipo-debuts-amd-dives/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-20T11:00:59Z"
+          "published": "2026-11-20T11:09:46Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 690.44,
+      "previous_close": 705.27,
+      "change_pct": -2.1,
+      "market_cap": 781179845255.5437,
+      "headlines": [
+        {
+          "title": "Nvidia, Broadcom, and Micron stocks decline as Anthropic goes public",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-broadcom-micron-stocks-decline-as-anthropic-goes-public-170845481.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-19T13:44:08Z"
+        },
+        {
+          "title": "Tech Valuation Plunge Brings Some Opportunities",
+          "url": "https://finance.yahoo.com/technology/ai/articles/tech-valuation-plunge-brings-opportunities-072702092.html",
+          "publisher": "Bloomberg",
+          "published": "2026-11-20T07:27:02Z"
+        },
+        {
+          "title": "Nvidia Added $111 Billion of Supply Commitments in a Quarter, Mostly Memory. Micron Is Still Priced Like a Bust",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-added-111-billion-supply-093418889.html",
+          "publisher": "TIKR",
+          "published": "2026-11-20T09:34:18Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -2.1,
+          "price": 690.44,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -2.1,
+        "price": 690.44,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61710.2,
-      "change_pct": -0.31
+      "price": 61671.97,
+      "change_pct": -0.37
     },
     {
       "label": "Gold",
-      "price": 3591.5,
-      "change_pct": -2.55
+      "price": 3587.8,
+      "change_pct": -2.65
     },
     {
       "label": "Nasdaq100",

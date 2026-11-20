@@ -4,7 +4,7 @@ Signed file: `SYNA.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $116.13 (2026-11-20, ~15-min delayed) |
+| Current price | $116.15 (2026-11-20, ~15-min delayed) |
 | Market cap | $4.61B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,8 +15,8 @@ Signed file: `SYNA.research.20.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +92.62%; price +10.48% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -21.31% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +92.65%; price +10.50% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -21.29% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-40.70%). |
 | Value attractiveness | Reasonable | Forward P/E 17.85, EV/Sales 4.30. |
 | Risk level | High | Beta 2.02, ATR 1.1% of price, short float 8.99%. |
@@ -44,11 +44,11 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $116.13; 52w high $147.57 (-21.31%); 52w low $58.52 (+98.44%) |
-| Trend | +10.48% vs SMA200, +3.49% vs SMA50, -1.15% vs SMA20 |
-| Momentum | RSI(14) 49.3 (neutral) |
+| Price vs 52-week range | Close $116.15; 52w high $147.57 (-21.29%); 52w low $58.52 (+98.48%) |
+| Trend | +10.50% vs SMA200, +3.51% vs SMA50, -1.14% vs SMA20 |
+| Momentum | RSI(14) 49.4 (neutral) |
 | Volatility | ATR(14) 1.32 (~1.1% of price); beta 2.02 |
-| Setup perspective | -21.31% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -21.29% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -58,8 +58,8 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 | Month | -0.8% |
 | Quarter | +24.0% |
 | Half Y | -19.2% |
-| 1Y | +92.6% |
-| YTD | +53.3% |
+| 1Y | +92.7% |
+| YTD | +53.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -112,14 +112,14 @@ Synaptics Incorporated develops, markets, and sells semiconductor products world
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $116.13 | EV/Sales | 4.30 |
+| Price | $116.15 | EV/Sales | 4.30 |
 | Market cap | $4.61B | EV/EBITDA | 51.54 |
 | Beta | 2.02 | Gross margin | 45.98% |
-| RSI(14) | 49.3 | Operating margin | -2.90% |
+| RSI(14) | 49.4 | Operating margin | -2.90% |
 | ATR(14) | 1.32 | Profit margin | -40.70% |
-| SMA20 dist | -1.15% | ROA | -0.94% |
-| SMA50 dist | +3.49% | ROE | -42.09% |
-| SMA200 dist | +10.48% | Revenue (ttm) | $1.20B |
+| SMA20 dist | -1.14% | ROA | -0.94% |
+| SMA50 dist | +3.51% | ROE | -42.09% |
+| SMA200 dist | +10.50% | Revenue (ttm) | $1.20B |
 | 52W high | $147.57 | Revenue growth y/y | 0.50% |
 | 52W low | $58.52 | Inst. ownership | 99.68% |
 | P/E (ttm) | — | Insider ownership | 1.04% |

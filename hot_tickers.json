@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-20T12:50:00+00:00",
+  "as_of": "2026-11-20T12:55:25+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,29 +9,13 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "INTU",
-   "company": "Intuit Inc",
-   "move_pct": -8.07,
-   "price": 285.01,
-   "volume": 4401800,
-   "volume_vs_avg": "~1.5x",
-   "heat_score": 61,
-   "direction": "down",
-   "why": "Bending Spoons to buy Mailchimp from Intuit in \u20ac3.35bn deal",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/articles/bending-spoons-buy-mailchimp-intuit-113914088.html",
-   "published": "2026-11-20T12:29:47+00:00",
-   "sector": "AI Applications & Data Software"
-  },
-  {
-   "rank": 2,
    "ticker": "AMD",
    "company": "Advanced Micro Devices Inc",
-   "move_pct": -6.87,
-   "price": 455.56,
+   "move_pct": -6.35,
+   "price": 458.13,
    "volume": 71098300,
    "volume_vs_avg": "~2x",
-   "heat_score": 50,
+   "heat_score": 49,
    "direction": "down",
    "why": "Jim Cramer Says He\u2019s Buying AMD After a Short Seller\u2019s 15% Hit",
    "catalyst_type": "momentum_narrative",
@@ -40,23 +24,23 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 3,
-   "ticker": "DELL",
-   "company": "Dell Technologies Inc",
-   "move_pct": -6.0,
-   "price": 293.8,
-   "volume": 7100000,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 41,
+   "rank": 2,
+   "ticker": "INTU",
+   "company": "Intuit Inc",
+   "move_pct": -7.75,
+   "price": 285.99,
+   "volume": 4401800,
+   "volume_vs_avg": "~1.5x",
+   "heat_score": 49,
    "direction": "down",
-   "why": "75 Percent Increase in Cloud Provider Spending on Optical Transport Equipment in 3Q 2026, According to Dell'Oro Group",
+   "why": "Bending Spoons to buy Mailchimp from Intuit in \u20ac3.35bn deal",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/articles/75-percent-increase-cloud-provider-103000490.html",
-   "published": "2026-11-20T10:30:00+00:00",
-   "sector": "Chip Equipment & AI Hardware"
+   "source_url": "https://finance.yahoo.com/technology/articles/bending-spoons-buy-mailchimp-intuit-113914088.html",
+   "published": "2026-11-20T12:29:47+00:00",
+   "sector": "AI Applications & Data Software"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "ticker": "SPCX",
    "company": "SpaceX",
    "move_pct": -5.91,
@@ -72,11 +56,11 @@
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "TSM",
    "company": "Taiwan Semiconductor Manufacturing ADR",
    "move_pct": -5.29,
-   "price": 333.45,
+   "price": 333.46,
    "volume": 17898800,
    "volume_vs_avg": "~1.2x",
    "heat_score": 40,
@@ -88,39 +72,23 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 6,
-   "ticker": "PANW",
-   "company": "Palo Alto Networks Inc",
-   "move_pct": -2.75,
-   "price": 351.8,
-   "volume": 19154100,
-   "volume_vs_avg": "~3x",
-   "heat_score": 40,
+   "rank": 5,
+   "ticker": "DELL",
+   "company": "Dell Technologies Inc",
+   "move_pct": -5.58,
+   "price": 295.09,
+   "volume": 7100000,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 39,
    "direction": "down",
-   "why": "DZ Bank Adjusts Price Target on Palo Alto Networks to $400 From $405",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/dz-bank-adjusts-price-target-105143205.html",
-   "published": "2026-11-20T10:51:43+00:00",
-   "sector": "Cybersecurity"
-  },
-  {
-   "rank": 7,
-   "ticker": "MU",
-   "company": "Micron Technology Inc",
-   "move_pct": -5.01,
-   "price": 655.85,
-   "volume": 35003100,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 38,
-   "direction": "down",
-   "why": "Purpose Investments Launches Purpose Anthropic (ANT) Yield Shares ETF and Purpose Micron (MU) Yield Shares ETF",
+   "why": "75 Percent Increase in Cloud Provider Spending on Optical Transport Equipment in 3Q 2026, According to Dell'Oro Group",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/purpose-investments-launches-purpose-anthropic-123000762.html",
-   "published": "2026-11-20T12:30:00+00:00",
-   "sector": "AI Chips & Compute"
+   "source_url": "https://finance.yahoo.com/technology/articles/75-percent-increase-cloud-provider-103000490.html",
+   "published": "2026-11-20T10:30:00+00:00",
+   "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 8,
+   "rank": 6,
    "ticker": "MRVL",
    "company": "Marvell Technology Inc",
    "move_pct": -5.12,
@@ -134,6 +102,22 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/stifel-adjusts-price-target-marvell-121713204.html",
    "published": "2026-11-20T12:17:13+00:00",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 7,
+   "ticker": "PANW",
+   "company": "Palo Alto Networks Inc",
+   "move_pct": -2.28,
+   "price": 353.5,
+   "volume": 19154100,
+   "volume_vs_avg": "~3x",
+   "heat_score": 38,
+   "direction": "down",
+   "why": "DZ Bank Adjusts Price Target on Palo Alto Networks to $400 From $405",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/dz-bank-adjusts-price-target-105143205.html",
+   "published": "2026-11-20T10:51:43+00:00",
+   "sector": "Cybersecurity"
   }
  ]
 }

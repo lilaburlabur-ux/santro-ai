@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T22:13:16+00:00",
-  "as_of_local": "2026-11-20 22:13:16 UTC",
+  "as_of_utc": "2026-11-20T22:18:18+00:00",
+  "as_of_local": "2026-11-20 22:18:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-stocks-jump-17-07-214150203.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-20T21:41:50Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 51.28,
-      "previous_close": 55.72,
-      "change_pct": -7.97,
-      "market_cap": 272553193511.9629,
-      "headlines": [
-        {
-          "title": "Meta's Server Chip Shake-Up Could Hand Nvidia a Win",
-          "url": "https://finance.yahoo.com/technology/articles/metas-server-chip-shake-could-214208711.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-20T21:42:08Z"
-        },
-        {
-          "title": "Could Jensen Huang Land At Nvidia Rival Intel?",
-          "url": "https://www.investors.com/news/technology/nvidia-stock-could-jensen-huang-land-at-intel/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-20T21:28:35Z"
-        },
-        {
-          "title": "AMD Is Down 26% and Intel Is Down 42%. Which AI Stock Is Worth Buying on the Dip?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-down-26-intel-down-205002332.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-20T20:50:02Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 59007.59,
-      "change_pct": -4.68
+      "price": 59051.33,
+      "change_pct": -4.6
     },
     {
       "label": "Gold",

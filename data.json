@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T00:00:46+00:00",
-  "as_of_local": "2026-11-20 00:00:46 UTC",
+  "as_of_utc": "2026-11-20T00:05:57+00:00",
+  "as_of_local": "2026-11-20 00:05:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -197,34 +199,6 @@
           "url": "https://www.barrons.com/articles/ai-trade-stocks-bull-bear-anthropic-ipo-4139cf71?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-19T20:22:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 162.01,
-      "previous_close": 159.81,
-      "change_pct": 1.38,
-      "market_cap": 173350694122.31445,
-      "headlines": [
-        {
-          "title": "Marvell Stock Halved Again. What Does Its Cash Say?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-halved-again-does-202557344.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T20:25:57Z"
-        },
-        {
-          "title": "Inside Brad Gerstner\u2019s Portfolio: Every Move He Made in the Third Quarter",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/inside-brad-gerstner-portfolio-every-200522657.html",
-          "publisher": "TIKR",
-          "published": "2026-11-19T20:05:22Z"
-        },
-        {
-          "title": "Arm Just Dropped 21% in a Month. Will ARM Stock Hit $150 or $200 First?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-just-dropped-21-month-200515633.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-19T20:05:15Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61922.95,
-      "change_pct": -1.69
+      "price": 62025.14,
+      "change_pct": -1.53
     },
     {
       "label": "Gold",
-      "price": 3604.5,
-      "change_pct": -3.67
+      "price": 3607.6,
+      "change_pct": -3.59
     },
     {
       "label": "Nasdaq100",

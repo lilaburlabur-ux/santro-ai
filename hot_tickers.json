@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-20T04:10:20+00:00",
+  "as_of": "2026-11-20T05:15:50+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,10 +17,10 @@
    "volume_vs_avg": "~2x",
    "heat_score": 53,
    "direction": "down",
-   "why": "Nasdaq, Dow, S&P 500 Futures Slip As Anthropic\u2019s Record Debut Fails To Lift AI Stocks: SLV, GLD, AMD, NVDA In Focus",
+   "why": "Everest Medicines Announces First Patient Dosed in ASCEND Phase 2b Trial of VIS-101 in Wet AMD",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dow-p-500-futures-024814072.html",
-   "published": "2026-11-20T02:48:14+00:00",
+   "source_url": "https://finance.yahoo.com/healthcare/articles/everest-medicines-announces-first-patient-050000370.html",
+   "published": "2026-11-20T05:00:00+00:00",
    "sector": "AI Chips & Compute"
   },
   {

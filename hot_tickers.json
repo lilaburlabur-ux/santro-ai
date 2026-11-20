@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-20T08:41:06+00:00",
+  "as_of": "2026-11-20T08:56:01+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -22,6 +22,22 @@
    "source_url": "https://finance.yahoo.com/healthcare/articles/everest-medicines-announces-first-patient-050000370.html",
    "published": "2026-11-20T05:00:00+00:00",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
+   "ticker": "PANW",
+   "company": "Palo Alto Networks Inc",
+   "move_pct": 6.42,
+   "price": 361.73,
+   "volume": 19154100,
+   "volume_vs_avg": "~3x",
+   "heat_score": 38,
+   "direction": "up",
+   "why": "Moving up 6.4% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
+   "sector": "Cybersecurity"
   }
  ]
 }

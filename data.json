@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T06:44:24+00:00",
-  "as_of_local": "2026-11-20 06:44:24 UTC",
+  "as_of_utc": "2026-11-20T06:59:09+00:00",
+  "as_of_local": "2026-11-20 06:59:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/shots-fired-hunterbrook-shorts-amd-223749072.html",
           "publisher": "TIKR",
           "published": "2026-11-19T22:37:49Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 177.17,
-      "previous_close": 182.76,
-      "change_pct": -3.06,
-      "market_cap": 189571898040.77148,
-      "headlines": [
-        {
-          "title": "Is Tech in a Bear Market? 20 Tech Stocks Fall Up to 76% From Highs",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tech-bear-market-20-tech-224039016.html",
-          "publisher": "BeInCrypto",
-          "published": "2026-11-19T22:40:39Z"
-        },
-        {
-          "title": "The 25 Biggest US IPOs of All Time",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/25-biggest-u-ipos-time-172550995.html",
-          "publisher": "Kiplinger",
-          "published": "2026-11-19T21:38:58Z"
-        },
-        {
-          "title": "At AI Summit, Industry Titans Wave Off Market Woes\u2014and Defend Jensen Huang",
-          "url": "https://www.barrons.com/articles/ai-trade-stocks-bull-bear-anthropic-ipo-4139cf71?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-19T20:22:00Z"
         }
       ]
     },
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -6.09,
-          "price": 1111000.0,
+          "change_pct": -5.92,
+          "price": 1113000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -6.86,
-          "price": 183400.0,
+          "change_pct": -7.01,
+          "price": 183100.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -11.22,
-          "price": 7343.0,
+          "change_pct": -11.66,
+          "price": 7307.0,
           "currency": "JPY"
         },
         {
@@ -445,8 +419,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -2.71,
+          "price": 94.39,
           "currency": "USD"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -6.09,
-        "price": 1111000.0,
+        "change_pct": -5.92,
+        "price": 1113000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -6.86,
-        "price": 183400.0,
+        "change_pct": -7.01,
+        "price": 183100.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -11.22,
-        "price": 7343.0,
+        "change_pct": -11.66,
+        "price": 7307.0,
         "currency": "JPY"
       },
       {
@@ -535,8 +509,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -2.71,
+        "price": 94.39,
         "currency": "USD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61701.47,
-      "change_pct": -2.04
+      "price": 61944.48,
+      "change_pct": -1.66
     },
     {
       "label": "Gold",
-      "price": 3556.1,
-      "change_pct": -3.51
+      "price": 3557.4,
+      "change_pct": -3.48
     },
     {
       "label": "Nasdaq100",

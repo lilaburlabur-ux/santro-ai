@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-11-20T10:01:47+00:00",
-  "as_of_local": "2026-11-20 10:01:47 UTC",
+  "as_of_utc": "2026-11-20T10:06:54+00:00",
+  "as_of_local": "2026-11-20 10:06:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 145.98,
-      "previous_close": 150.96,
-      "change_pct": -3.3,
-      "market_cap": 3524978956832.8857,
-      "headlines": [
-        {
-          "title": "Jensen Huang's Nvidia comeback: Why the math doesn't add up",
-          "url": "https://finance.yahoo.com/video/jensen-huangs-nvidia-comeback-why-the-math-doesnt-add-up-213021034.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-19T21:30:21Z"
-        },
-        {
-          "title": "Nvidia will not be the leader 5 years from now: Tiernan Ray",
-          "url": "https://finance.yahoo.com/video/nvidia-will-not-be-the-leader-5-years-from-now-tiernan-ray-185954396.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-19T18:59:54Z"
-        },
-        {
-          "title": "Why AI competition from China won't be a risk US tech companies",
-          "url": "https://finance.yahoo.com/video/why-ai-competition-from-china-wont-be-a-risk-us-tech-companies-184851467.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-19T18:48:51Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -97,6 +71,12 @@
       "market_cap": 809641531696.5574,
       "headlines": [
         {
+          "title": "AMD stock gets drilled again in the wake of surprise short seller report",
+          "url": "https://finance.yahoo.com/markets/stocks/article/amd-stock-gets-drilled-again-in-the-wake-of-surprise-short-seller-report-100450073.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-20T10:04:50Z"
+        },
+        {
           "title": "Nvidia, Broadcom, and Micron stocks decline as Anthropic goes public",
           "url": "https://finance.yahoo.com/markets/article/nvidia-broadcom-micron-stocks-decline-as-anthropic-goes-public-170845481.html",
           "publisher": "Yahoo Finance",
@@ -107,12 +87,6 @@
           "url": "https://finance.yahoo.com/technology/article/amd-stock-drops-after-hunterbrook-media-raises-export-control-concerns-171508145.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-19T17:15:08Z"
-        },
-        {
-          "title": "Trump Admin Approved Nearly 900,000 AI Chips For China, House Data Shows: Nvidia Says H200 Shipments Were \u2018Legal And Authorized\u2019",
-          "url": "https://finance.yahoo.com/technology/ai/articles/trump-admin-approved-nearly-900-071623846.html",
-          "publisher": "Benzinga",
-          "published": "2026-11-20T07:16:23Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61650.51,
-      "change_pct": -0.41
+      "price": 61760.73,
+      "change_pct": -0.23
     },
     {
       "label": "Gold",
-      "price": 3572.3,
-      "change_pct": -3.07
+      "price": 3569.0,
+      "change_pct": -3.16
     },
     {
       "label": "Nasdaq100",

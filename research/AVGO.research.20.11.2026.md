@@ -4,7 +4,7 @@ Signed file: `AVGO.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $304.26 (2026-11-20, ~15-min delayed) |
+| Current price | $304.41 (2026-11-20, ~15-min delayed) |
 | Market cap | $1.45T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `AVGO.research.20.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-17.08%) with negative half-year (-26.28%). |
-| Fresh setup quality | Poor / broken | -36.60% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-17.04%) with negative half-year (-26.25%). |
+| Fresh setup quality | Poor / broken | -36.57% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 42.94%, revenue growth 85.50%. |
-| Value attractiveness | Reasonable | Forward P/E 15.69, EV/Sales 18.97. |
-| Risk level | High | Beta 1.51, ATR 6.5% of price, short float 1.11%. |
+| Value attractiveness | Reasonable | Forward P/E 15.70, EV/Sales 18.97. |
+| Risk level | High | Beta 1.51, ATR 6.6% of price, short float 1.11%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
-| Broadcom stock sinks 10%, Nvidia and AMD extend declines as the AI trade melts down | Yahoo Finance | 2026-11-20 |
-| Stock market today: Nasdaq plunges 4%, Dow and S&P 500 sink as Anthropic IPO fails to ease AI worries | Yahoo Finance | 2026-11-20 |
+| Nvidia drops 12%, Broadcom and AMD extend declines as the AI trade melts down | Yahoo Finance | 2026-11-20 |
+| Stock market today: Dow and S&P 500 enter correction, Nasdaq sinks 5% to erase 2026 gains as AI trade melts down | Yahoo Finance | 2026-11-20 |
 | Why Are Investors Ignoring Qualcomm Stock's High Cash Yield? | Trefis | 2026-11-20 |
 | Broadcom Stock Plunges 12% and Loses $191 Billion After a Report That Google Cut Its Plans for Broadcom AI Chips | 24/7 Wall St. | 2026-11-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $304.26; 52w high $479.94 (-36.60%); 52w low $291.53 (+4.36%) |
-| Trend | -17.08% vs SMA200, -11.20% vs SMA50, -8.46% vs SMA20 |
+| Price vs 52-week range | Close $304.41; 52w high $479.94 (-36.57%); 52w low $291.53 (+4.42%) |
+| Trend | -17.04% vs SMA200, -11.16% vs SMA50, -8.42% vs SMA20 |
 | Momentum | RSI(14) 40.8 (neutral) |
-| Volatility | ATR(14) 19.92 (~6.5% of price); beta 1.51 |
-| Setup perspective | -36.60% from 52w high — base needs to rebuild. |
+| Volatility | ATR(14) 20.02 (~6.6% of price); beta 1.51 |
+| Setup perspective | -36.57% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
 | Week | -12.3% |
-| Month | -5.9% |
+| Month | -5.8% |
 | Quarter | -15.0% |
-| Half Y | -26.3% |
+| Half Y | -26.2% |
 | 1Y | -13.5% |
-| YTD | -12.0% |
+| YTD | -11.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $89.10B | Revenue growth 85.50% y/y |
 | Profitability | Gross 75.52%, operating 48.81%, net 42.94% | ROA 15.37%, ROE 44.25% |
 | Balance sheet | Cash $23.98B, debt $59.42B | Current ratio 2.50, debt/equity 59.60 |
-| Valuation | P/E 38.86, forward P/E 15.69, P/S 16.30, P/B 14.57 | EV/Sales 18.97, EV/EBITDA 32.34 |
+| Valuation | P/E 38.88, forward P/E 15.70, P/S 16.31, P/B 14.58 | EV/Sales 18.97, EV/EBITDA 32.34 |
 | Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $526.47 (47 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Capital International Investors | 82,221,573 | 1.72% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.51, ATR 6.5% of price, short float 1.11%. Size positions accordingly.
+- **Volatility risk:** Beta 1.51, ATR 6.6% of price, short float 1.11%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,21 +111,21 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $304.26 | EV/Sales | 18.97 |
+| Price | $304.41 | EV/Sales | 18.97 |
 | Market cap | $1.45T | EV/EBITDA | 32.34 |
 | Beta | 1.51 | Gross margin | 75.52% |
 | RSI(14) | 40.8 | Operating margin | 48.81% |
-| ATR(14) | 19.92 | Profit margin | 42.94% |
-| SMA20 dist | -8.46% | ROA | 15.37% |
-| SMA50 dist | -11.20% | ROE | 44.25% |
-| SMA200 dist | -17.08% | Revenue (ttm) | $89.10B |
+| ATR(14) | 20.02 | Profit margin | 42.94% |
+| SMA20 dist | -8.42% | ROA | 15.37% |
+| SMA50 dist | -11.16% | ROE | 44.25% |
+| SMA200 dist | -17.04% | Revenue (ttm) | $89.10B |
 | 52W high | $479.94 | Revenue growth y/y | 85.50% |
 | 52W low | $291.53 | Inst. ownership | 79.64% |
-| P/E (ttm) | 38.86 | Insider ownership | 1.96% |
-| Forward P/E | 15.69 | Short float | 1.11% |
-| PEG (trailing) | 0.35 | Avg volume | 25,401,850 |
-| P/S | 16.30 | Employees | 33,000 |
-| P/B | 14.57 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/E (ttm) | 38.88 | Insider ownership | 1.96% |
+| Forward P/E | 15.70 | Short float | 1.11% |
+| PEG (trailing) | 0.34 | Avg volume | 25,401,850 |
+| P/S | 16.31 | Employees | 33,000 |
+| P/B | 14.58 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

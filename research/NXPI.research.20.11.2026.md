@@ -4,7 +4,7 @@ Signed file: `NXPI.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-20, ~15-min delayed) |
+| Current price | $251.76 (2026-11-20, ~15-min delayed) |
 | Market cap | $63.46B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `NXPI.research.20.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +35.85%; price +1.94% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -23.72% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 23.39%, revenue growth 19.30%. |
 | Value attractiveness | Reasonable | Forward P/E 13.73, EV/Sales 5.14. |
-| Risk level | Elevated | Beta 1.86, ATR nan% of price, short float 2.75%. |
+| Risk level | Elevated | Beta 1.86, ATR 4.7% of price, short float 2.75%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
+| Ambarella Stock Soars on Reports NXP Semiconductors Deal Is Drawing to a Close | Barchart | 2026-11-19 |
 | Ambarella Stock Soars on Potential Billion-Dollar Chip Deal | GuruFocus.com | 2026-11-19 |
 | Is Texas Instruments' Sales Boom Its Biggest Risk? | Trefis | 2026-11-19 |
 | Semtech Set to Report Q3 Earnings: Buy, Sell or Hold the Stock? | Zacks | 2026-11-19 |
-| First Trust NASDAQ-100 Tech (QTEC) Sells AppLovin and Texas Instruments on Tuesday | GuruFocus.com | 2026-11-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $330.06 (+nan%); 52w low $180.99 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 50.8 (neutral) |
-| Volatility | ATR(14) 11.69 (~nan% of price); beta 1.86 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $251.76; 52w high $330.06 (-23.72%); 52w low $180.99 (+39.10%) |
+| Trend | +1.94% vs SMA200, +3.97% vs SMA50, -1.66% vs SMA20 |
+| Momentum | RSI(14) 50.3 (neutral) |
+| Volatility | ATR(14) 11.74 (~4.7% of price); beta 1.86 |
+| Setup perspective | -23.72% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -5.8% |
+| Month | +3.9% |
+| Quarter | +12.1% |
+| Half Y | -15.2% |
+| 1Y | +35.9% |
+| YTD | +15.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,7 +95,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Boston Partners | 5,095,582 | 2.02% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.86, ATR nan% of price, short float 2.75%. Size positions accordingly.
+- **Volatility risk:** Beta 1.86, ATR 4.7% of price, short float 2.75%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,14 +110,14 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.14 |
+| Price | $251.76 | EV/Sales | 5.14 |
 | Market cap | $63.46B | EV/EBITDA | 13.16 |
 | Beta | 1.86 | Gross margin | 56.46% |
-| RSI(14) | 50.8 | Operating margin | 33.84% |
-| ATR(14) | 11.69 | Profit margin | 23.39% |
-| SMA20 dist | +nan% | ROA | 10.82% |
-| SMA50 dist | +nan% | ROE | 28.67% |
-| SMA200 dist | +nan% | Revenue (ttm) | $13.80B |
+| RSI(14) | 50.3 | Operating margin | 33.84% |
+| ATR(14) | 11.74 | Profit margin | 23.39% |
+| SMA20 dist | -1.66% | ROA | 10.82% |
+| SMA50 dist | +3.97% | ROE | 28.67% |
+| SMA200 dist | +1.94% | Revenue (ttm) | $13.80B |
 | 52W high | $330.06 | Revenue growth y/y | 19.30% |
 | 52W low | $180.99 | Inst. ownership | 100.98% |
 | P/E (ttm) | 19.81 | Insider ownership | 0.39% |

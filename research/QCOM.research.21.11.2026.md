@@ -122,7 +122,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | 52W low | $122.94 | Inst. ownership | 82.24% |
 | P/E (ttm) | 11.81 | Insider ownership | 0.14% |
 | Forward P/E | 12.31 | Short float | 3.03% |
-| PEG (trailing) | 0.96 | Avg volume | 12,863,735 |
+| PEG (trailing) | 0.96 | Avg volume | 12,864,209 |
 | P/S | 3.72 | Employees | 57,000 |
 | P/B | 5.29 | Analyst rec (1=buy..5=sell) | 2.6 |
 

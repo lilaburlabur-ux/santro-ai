@@ -122,7 +122,7 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 | 52W low | $201.14 | Inst. ownership | 79.77% |
 | P/E (ttm) | 8.00 | Insider ownership | 0.27% |
 | Forward P/E | 2.85 | Short float | 2.07% |
-| PEG (trailing) | 0.16 | Avg volume | 27,696,693 |
+| PEG (trailing) | 0.16 | Avg volume | 27,702,918 |
 | P/S | 5.05 | Employees | 61,000 |
 | P/B | 4.86 | Analyst rec (1=buy..5=sell) | 1.3 |
 

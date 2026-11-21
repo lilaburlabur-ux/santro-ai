@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-21T17:33:28+00:00",
-  "as_of_local": "2026-11-21 17:33:28 UTC",
+  "as_of_utc": "2026-11-21T17:48:26+00:00",
+  "as_of_local": "2026-11-21 17:48:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-11-21T12:30:15Z"
         },
         {
-          "title": "Is IonQ Stock a Buy Right Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-stock-buy-now-172002064.html",
+          "title": "Eli Lilly's Next Big Growth Opportunity Could Be Hiding in Plain Sight",
+          "url": "https://finance.yahoo.com/healthcare/articles/eli-lillys-next-big-growth-173702523.html",
           "publisher": "Motley Fool",
-          "published": "2026-11-21T17:20:02Z"
+          "published": "2026-11-21T17:37:02Z"
         }
       ]
     },
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-watch-142715430.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-21T14:27:15Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 424.39,
-      "previous_close": 489.19,
-      "change_pct": -13.25,
-      "market_cap": 702393302769.5946,
-      "headlines": [
-        {
-          "title": "What just happened to tech stocks?",
-          "url": "https://finance.yahoo.com/markets/article/what-just-happened-to-tech-stocks-162354774.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-21T16:23:54Z"
-        },
-        {
-          "title": "AMD\u2019s Data Center Sales Jumped 97%. Is the Stock a Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-data-center-sales-jumped-142002498.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-21T14:20:02Z"
-        },
-        {
-          "title": "Nvidia\u2019s Worst Losing Streak Since 2008 Now Has an SEC Problem. What Shareholders Need to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-worst-losing-streak-since-132350647.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-21T13:23:50Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 59981.95,
-      "change_pct": 2.01
+      "price": 59921.77,
+      "change_pct": 1.91
     },
     {
       "label": "Gold",

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-21T16:22:38+00:00",
-  "as_of_local": "2026-11-21 16:22:38 UTC",
+  "as_of_utc": "2026-11-21T16:37:48+00:00",
+  "as_of_local": "2026-11-21 16:37:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,6 +12,12 @@
       "change_pct": -14.01,
       "market_cap": 3031172880523.6816,
       "headlines": [
+        {
+          "title": "What just happened to tech stocks?",
+          "url": "https://finance.yahoo.com/markets/article/what-just-happened-to-tech-stocks-162354774.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-21T16:23:54Z"
+        },
         {
           "title": "Jensen Huang's next move: Wall Street floats Intel and SpaceX, but bettors are banking on a surprise second act",
           "url": "https://finance.yahoo.com/markets/article/jensen-huangs-next-move-wall-street-floats-intel-and-spacex-but-bettors-are-banking-on-a-surprise-second-act-123015670.html",
@@ -25,12 +29,34 @@
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-worst-week-covid-nvidia-anthropic-vix-fear-gauge/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-21T16:14:18Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 318.71,
+      "previous_close": 352.09,
+      "change_pct": -9.48,
+      "market_cap": 1652980763599.7334,
+      "headlines": [
+        {
+          "title": "Broadcom Backstops Up to $29 Billion of Anthropic\u2019s Leases. Anthropic Just Gave Back Its IPO Pop",
+          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-backstops-29-billion-anthropic-103524920.html",
+          "publisher": "TIKR",
+          "published": "2026-11-21T10:35:24Z"
         },
         {
-          "title": "If the S&P 500 Drops by 20%, I'm Buying These 3 ETFs Without Hesitation",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-drops-20-im-160502319.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-21T16:05:02Z"
+          "title": "TSMC Sinks 20% in a Week on Nvidia Jitters and New US Chip Curbs on China. Time to Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-sinks-20-week-nvidia-100729822.html",
+          "publisher": "TIKR",
+          "published": "2026-11-21T10:07:29Z"
+        },
+        {
+          "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Pauses Advanced Chip Shipments To China",
+          "url": "https://finance.yahoo.com/technology/articles/taiwan-semiconductor-manufacturing-nyse-tsm-042528694.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-21T04:25:28Z"
         }
       ]
     },
@@ -71,6 +97,12 @@
       "market_cap": 702393302769.5946,
       "headlines": [
         {
+          "title": "What just happened to tech stocks?",
+          "url": "https://finance.yahoo.com/markets/article/what-just-happened-to-tech-stocks-162354774.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-21T16:23:54Z"
+        },
+        {
           "title": "AMD\u2019s Data Center Sales Jumped 97%. Is the Stock a Buy?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-data-center-sales-jumped-142002498.html",
           "publisher": "Motley Fool",
@@ -81,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-worst-losing-streak-since-132350647.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-21T13:23:50Z"
-        },
-        {
-          "title": "Is AMD the Stock to Buy With Nvidia in Limbo?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-buy-nvidia-limbo-130002353.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-21T13:00:02Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 59798.11,
-      "change_pct": 1.7
+      "price": 59841.28,
+      "change_pct": 1.77
     },
     {
       "label": "Gold",

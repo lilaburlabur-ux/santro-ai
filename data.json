@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-21T22:20:53+00:00",
-  "as_of_local": "2026-11-21 22:20:53 UTC",
+  "as_of_utc": "2026-11-21T22:26:02+00:00",
+  "as_of_local": "2026-11-21 22:26:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -115,6 +113,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-data-center-sales-jumped-142002498.html",
           "publisher": "Motley Fool",
           "published": "2026-11-21T14:20:02Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 594.51,
+      "previous_close": 690.44,
+      "change_pct": -13.89,
+      "market_cap": 672642424815.1748,
+      "headlines": [
+        {
+          "title": "Renaissance Technologies Grew Its SanDisk Stake More Than 55-Fold to $481 Million",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/renaissance-technologies-grew-sandisk-stake-214303143.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-21T21:43:03Z"
+        },
+        {
+          "title": "Micron Stock Just Hit Its Lowest Price Since May. I'd Buy More Now.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-just-hit-lowest-211202300.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-21T21:12:02Z"
+        },
+        {
+          "title": "I Picked the Wrong Week to Buy the Dip, and Other Observations From a Miserable Few Days in the Market",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/picked-wrong-week-buy-dip-190613469.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-21T19:06:13Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -13.89,
+          "price": 594.51,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -13.89,
+        "price": 594.51,
         "currency": "USD"
       },
       {
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 60170.71,
-      "change_pct": 2.33
+      "price": 60159.58,
+      "change_pct": 2.31
     },
     {
       "label": "Gold",

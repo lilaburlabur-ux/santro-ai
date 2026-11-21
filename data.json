@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-21T20:39:49+00:00",
-  "as_of_local": "2026-11-21 20:39:49 UTC",
+  "as_of_utc": "2026-11-21T20:45:02+00:00",
+  "as_of_local": "2026-11-21 20:45:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "QCOM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -199,6 +197,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-6-months-000251264.html",
           "publisher": "Motley Fool",
           "published": "2026-11-21T00:02:51Z"
+        }
+      ]
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "price": 149.94,
+      "previous_close": 162.01,
+      "change_pct": -7.45,
+      "market_cap": 160435802612.3047,
+      "headlines": [
+        {
+          "title": "George Soros and 20 Other Big Funds Bought Qualcomm Last Quarter. David Tepper and 14 Others Sold. Who\u2019s Right?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/george-soros-20-other-big-003515215.html",
+          "publisher": "TIKR",
+          "published": "2026-11-21T00:35:15Z"
+        },
+        {
+          "title": "Why Are Investors Ignoring Qualcomm Stock's High Cash Yield?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-investors-ignoring-qualcomm-stocks-192244818.html",
+          "publisher": "Trefis",
+          "published": "2026-11-20T19:22:44Z"
+        },
+        {
+          "title": "Anthropic Shares Retreat After Blockbuster Debut Amid AI Anxiety",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-shares-retreat-blockbuster-debut-154149423.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-20T15:41:49Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 60343.42,
-      "change_pct": 2.63
+      "price": 60300.0,
+      "change_pct": 2.55
     },
     {
       "label": "Gold",

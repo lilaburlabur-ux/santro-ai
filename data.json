@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-21T20:24:47+00:00",
-  "as_of_local": "2026-11-21 20:24:47 UTC",
+  "as_of_utc": "2026-11-21T20:39:49+00:00",
+  "as_of_local": "2026-11-21 20:39:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -97,6 +99,12 @@
       "market_cap": 702393302769.5946,
       "headlines": [
         {
+          "title": "Cathie Wood Doubles Down On \u2018Highest Conviction Names\u2019 Nvidia, Tesla and AMD As Cyclical Tech Stocks Get \u2018Slaughtered\u2019 Amid Market Pullback",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-doubles-down-highest-193008245.html",
+          "publisher": "Benzinga",
+          "published": "2026-11-21T19:30:08Z"
+        },
+        {
           "title": "What just happened to tech stocks?",
           "url": "https://finance.yahoo.com/markets/article/what-just-happened-to-tech-stocks-162354774.html",
           "publisher": "Yahoo Finance",
@@ -107,12 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-data-center-sales-jumped-142002498.html",
           "publisher": "Motley Fool",
           "published": "2026-11-21T14:20:02Z"
-        },
-        {
-          "title": "Nvidia\u2019s Worst Losing Streak Since 2008 Now Has an SEC Problem. What Shareholders Need to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-worst-losing-streak-since-132350647.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-21T13:23:50Z"
         }
       ]
     },
@@ -197,34 +199,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-6-months-000251264.html",
           "publisher": "Motley Fool",
           "published": "2026-11-21T00:02:51Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 149.94,
-      "previous_close": 162.01,
-      "change_pct": -7.45,
-      "market_cap": 160435802612.3047,
-      "headlines": [
-        {
-          "title": "George Soros and 20 Other Big Funds Bought Qualcomm Last Quarter. David Tepper and 14 Others Sold. Who\u2019s Right?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/george-soros-20-other-big-003515215.html",
-          "publisher": "TIKR",
-          "published": "2026-11-21T00:35:15Z"
-        },
-        {
-          "title": "Why Are Investors Ignoring Qualcomm Stock's High Cash Yield?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-investors-ignoring-qualcomm-stocks-192244818.html",
-          "publisher": "Trefis",
-          "published": "2026-11-20T19:22:44Z"
-        },
-        {
-          "title": "Anthropic Shares Retreat After Blockbuster Debut Amid AI Anxiety",
-          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-shares-retreat-blockbuster-debut-154149423.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-20T15:41:49Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 60259.13,
-      "change_pct": 2.48
+      "price": 60343.42,
+      "change_pct": 2.63
     },
     {
       "label": "Gold",

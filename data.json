@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-21T14:56:56+00:00",
-  "as_of_local": "2026-11-21 14:56:56 UTC",
+  "as_of_utc": "2026-11-21T15:02:08+00:00",
+  "as_of_local": "2026-11-21 15:02:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -227,6 +225,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-shares-retreat-blockbuster-debut-154149423.html",
           "publisher": "MT Newswires",
           "published": "2026-11-20T15:41:49Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 122.28,
+      "previous_close": 138.47,
+      "change_pct": -11.69,
+      "market_cap": 110023370952.61298,
+      "headlines": [
+        {
+          "title": "Oppenheimer\u2019s $425 Target Says Marvell\u2019s Selloff Went Too Far",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-425-target-says-marvell-142653723.html",
+          "publisher": "TIKR",
+          "published": "2026-11-21T14:26:53Z"
+        },
+        {
+          "title": "A $3.2 Billion Fund Bought These 3 Stocks Last Quarter",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-2-billion-fund-bought-104127956.html",
+          "publisher": "TIKR",
+          "published": "2026-11-21T10:41:27Z"
+        },
+        {
+          "title": "Data Center AI Chips Could Change the Winners: Broadcom and Marvell",
+          "url": "https://finance.yahoo.com/technology/ai/articles/data-center-ai-chips-could-232554816.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-20T23:25:54Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 60180.89,
-      "change_pct": 2.35
+      "price": 60201.61,
+      "change_pct": 2.39
     },
     {
       "label": "Gold",

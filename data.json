@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-22T07:00:00+00:00",
-  "as_of_local": "2026-11-22 07:00:00 UTC",
+  "as_of_utc": "2026-11-22T07:15:01+00:00",
+  "as_of_local": "2026-11-22 07:15:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-11-22T06:54:02Z"
         },
         {
-          "title": "What's Behind Grail Stock's Wild Ride in 2026, and What Can Investors Expect in 2027?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/whats-behind-grail-stocks-wild-062702051.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-22T06:27:02Z"
+          "title": "Chamath Palihapitiya Praises Jensen Huang As \u2018Biblically Good,\u2019 But Warns Bringing Him Back At Nvidia Could Put \u2018Everybody\u2019 At Risk",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/chamath-palihapitiya-praises-jensen-huang-065225068.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-22T06:52:25Z"
         }
       ]
     },
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/plummeting-62-could-buying-intel-155002179.html",
           "publisher": "Motley Fool",
           "published": "2026-11-21T15:50:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 152.2,
-      "previous_close": 177.17,
-      "change_pct": -14.09,
-      "market_cap": 162853996734.61914,
-      "headlines": [
-        {
-          "title": "SoftBank Falls 14%, and 72% of Arm\u2019s Shares Sit Pledged Behind Its Loans",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-falls-14-72-arm-101747234.html",
-          "publisher": "TIKR",
-          "published": "2026-11-21T10:17:47Z"
-        },
-        {
-          "title": "Arm (ARM) Stock Looks Undervalued Despite Rich Sales Expectations",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-arm-stock-looks-undervalued-021442325.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-21T02:14:42Z"
-        },
-        {
-          "title": "Prediction: Nvidia Stock Will Do This in the 6 Months After a New CEO Takes Over, According to History",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-6-months-000251264.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-21T00:02:51Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 59031.59,
-      "change_pct": 0.4
+      "price": 59044.16,
+      "change_pct": -1.75
     },
     {
       "label": "Gold",

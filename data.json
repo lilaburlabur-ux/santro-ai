@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-22T14:50:43+00:00",
-  "as_of_local": "2026-11-22 14:50:43 UTC",
+  "as_of_utc": "2026-11-22T15:05:44+00:00",
+  "as_of_local": "2026-11-22 15:05:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -25,10 +25,10 @@
           "published": "2026-11-22T11:00:00Z"
         },
         {
-          "title": "Bloom Energy Stock Has Crashed Nearly 60%. Is It a Once-in-a-Decade Opportunity at $145, or Should You Keep Waiting for a Bigger Drop?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-crashed-nearly-143602005.html",
+          "title": "Is Nvidia a Buy at $125? Here's My Honest Take",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-buy-125-heres-honest-145002764.html",
           "publisher": "Motley Fool",
-          "published": "2026-11-22T14:36:02Z"
+          "published": "2026-11-22T14:50:02Z"
         }
       ]
     },
@@ -125,6 +125,12 @@
       "market_cap": 672642424815.1748,
       "headlines": [
         {
+          "title": "Apple\u2019s CEO Calls Memory Pricing \u201cUnprecedented.\u201d Its Purchase Obligations Jumped $33 Billion in a Quarter",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-ceo-calls-memory-pricing-144402592.html",
+          "publisher": "TIKR",
+          "published": "2026-11-22T14:44:02Z"
+        },
+        {
           "title": "Where Will Micron Stock Be in 3 Years?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/where-micron-stock-3-years-094602729.html",
           "publisher": "Motley Fool",
@@ -135,12 +141,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-david-tepper-just-made-032002032.html",
           "publisher": "Motley Fool",
           "published": "2026-11-22T03:20:02Z"
-        },
-        {
-          "title": "Should You Forget Nvidia and Buy These 2 AI Memory Stocks Instead?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-nvidia-buy-2-ai-012302831.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-22T01:23:02Z"
         }
       ]
     },
@@ -579,9 +579,14 @@
   },
   "tape": [
     {
+      "label": "SPX",
+      "price": 6910.39,
+      "change_pct": -3.7
+    },
+    {
       "label": "BTC",
-      "price": 60791.78,
-      "change_pct": 1.16
+      "price": 60921.81,
+      "change_pct": 1.38
     },
     {
       "label": "Gold",

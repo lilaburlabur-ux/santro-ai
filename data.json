@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-22T01:41:35+00:00",
-  "as_of_local": "2026-11-22 01:41:35 UTC",
+  "as_of_utc": "2026-11-22T01:56:41+00:00",
+  "as_of_local": "2026-11-22 01:56:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -231,6 +229,34 @@
       ]
     },
     {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 122.28,
+      "previous_close": 138.47,
+      "change_pct": -11.69,
+      "market_cap": 110023370952.61298,
+      "headlines": [
+        {
+          "title": "Marvell Just Dropped 22% in a Week as Nvidia\u2019s Turmoil Hit AI Chips. Sell, or Load Up Before Dec. 1?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-just-dropped-22-week-182037170.html",
+          "publisher": "TIKR",
+          "published": "2026-11-21T18:20:37Z"
+        },
+        {
+          "title": "Oppenheimer\u2019s $425 Target Says Marvell\u2019s Selloff Went Too Far",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-425-target-says-marvell-142653723.html",
+          "publisher": "TIKR",
+          "published": "2026-11-21T14:26:53Z"
+        },
+        {
+          "title": "A $3.2 Billion Fund Bought These 3 Stocks Last Quarter",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-2-billion-fund-bought-104127956.html",
+          "publisher": "TIKR",
+          "published": "2026-11-21T10:41:27Z"
+        }
+      ]
+    },
+    {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
       "price": 235.15,
@@ -428,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -12.35,
-          "price": 457.01,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -518,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -12.35,
-        "price": 457.01,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 59912.51,
-      "change_pct": 1.89
+      "price": 59991.88,
+      "change_pct": 2.03
     },
     {
       "label": "Gold",

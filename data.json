@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-22T01:21:23+00:00",
-  "as_of_local": "2026-11-22 01:21:23 UTC",
+  "as_of_utc": "2026-11-22T01:23:51+00:00",
+  "as_of_local": "2026-11-22 01:23:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-only-big-ai-buyer-183203505.html",
           "publisher": "Trefis",
           "published": "2026-11-21T18:32:03Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 424.39,
-      "previous_close": 489.19,
-      "change_pct": -13.25,
-      "market_cap": 702393302769.5946,
-      "headlines": [
-        {
-          "title": "Nvidia Stock Has Crashed 48% and Now Trades at 15 Times Earnings, Its Cheapest in More Than a Decade and Cheaper Than Microsoft and Broadcom",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-crashed-48-now-004700969.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-22T00:47:00Z"
-        },
-        {
-          "title": "Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/nvidia-falls-48-peak-ai-225000738.html",
-          "publisher": "CryptoProwl",
-          "published": "2026-11-21T22:50:00Z"
-        },
-        {
-          "title": "Cathie Wood Doubles Down On \u2018Highest Conviction Names\u2019 Nvidia, Tesla and AMD As Cyclical Tech Stocks Get \u2018Slaughtered\u2019 Amid Market Pullback",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-doubles-down-highest-193008245.html",
-          "publisher": "Benzinga",
-          "published": "2026-11-21T19:30:08Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 60099.01,
-      "change_pct": 2.21
+      "price": 60087.64,
+      "change_pct": 2.19
     },
     {
       "label": "Gold",

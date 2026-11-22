@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-22T04:48:19+00:00",
-  "as_of_local": "2026-11-22 04:48:19 UTC",
+  "as_of_utc": "2026-11-22T05:03:20+00:00",
+  "as_of_local": "2026-11-22 05:03:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NXPI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -255,6 +253,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-just-dropped-22-week-182037170.html",
           "publisher": "TIKR",
           "published": "2026-11-21T18:20:37Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors",
+      "price": 235.15,
+      "previous_close": 251.76,
+      "change_pct": -6.6,
+      "market_cap": 59270258589.79065,
+      "headlines": [
+        {
+          "title": "Could You Have Spotted Monolithic Power Stock's 52% Run?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-spotted-monolithic-power-stocks-063247207.html",
+          "publisher": "Trefis",
+          "published": "2026-11-21T06:32:47Z"
+        },
+        {
+          "title": "What Could NXP Semiconductors (NXPI) New Robotics Platform Mean For Investors?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/could-nxp-semiconductors-nxpi-robotics-121735177.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-20T12:17:35Z"
+        },
+        {
+          "title": "Ambarella Stock Soars on Reports NXP Semiconductors Deal Is Drawing to a Close",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ambarella-stock-soars-reports-nxp-195145202.html",
+          "publisher": "Barchart",
+          "published": "2026-11-19T19:51:45Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 59153.72,
-      "change_pct": 0.6
+      "price": 59029.14,
+      "change_pct": 0.39
     },
     {
       "label": "Gold",

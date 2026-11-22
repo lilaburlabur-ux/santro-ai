@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-22T23:26:00+00:00",
-  "as_of_local": "2026-11-22 23:26:00 UTC",
+  "as_of_utc": "2026-11-22T23:31:13+00:00",
+  "as_of_local": "2026-11-22 23:31:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -253,34 +255,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/150-upside-credo-technology-stifel-100923202.html",
           "publisher": "TIKR",
           "published": "2026-11-22T10:09:23Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 235.15,
-      "previous_close": 251.76,
-      "change_pct": -6.6,
-      "market_cap": 59270258589.79065,
-      "headlines": [
-        {
-          "title": "Could You Have Spotted Monolithic Power Stock's 52% Run?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/could-spotted-monolithic-power-stocks-063247207.html",
-          "publisher": "Trefis",
-          "published": "2026-11-21T06:32:47Z"
-        },
-        {
-          "title": "What Could NXP Semiconductors (NXPI) New Robotics Platform Mean For Investors?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/could-nxp-semiconductors-nxpi-robotics-121735177.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-20T12:17:35Z"
-        },
-        {
-          "title": "Ambarella Stock Soars on Reports NXP Semiconductors Deal Is Drawing to a Close",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ambarella-stock-soars-reports-nxp-195145202.html",
-          "publisher": "Barchart",
-          "published": "2026-11-19T19:51:45Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60944.8,
-      "change_pct": 1.42
+      "price": 61096.67,
+      "change_pct": 1.67
     },
     {
       "label": "Gold",
-      "price": 3582.2,
-      "change_pct": 1.9
+      "price": 3582.5,
+      "change_pct": 1.91
     },
     {
       "label": "Nasdaq100",

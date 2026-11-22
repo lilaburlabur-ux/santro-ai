@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-22T12:22:48+00:00",
-  "as_of_local": "2026-11-22 12:22:48 UTC",
+  "as_of_utc": "2026-11-22T12:37:53+00:00",
+  "as_of_local": "2026-11-22 12:37:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LSCC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -21,16 +19,16 @@
           "published": "2026-11-22T11:00:00Z"
         },
         {
+          "title": "Here\u2019s How Many Shares of Coca-Cola You\u2019d Need for $10,000 in Yearly Dividends.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/many-shares-coca-cola-d-121902836.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-22T12:19:02Z"
+        },
+        {
           "title": "Lumentum\u2019s CEO Says \u201cthe Laws of Physics Are Working in Favor of Fiber.\u201d Marvell Holders Are Buying It Cheap",
           "url": "https://finance.yahoo.com/markets/stocks/articles/lumentum-ceo-says-laws-physics-115918073.html",
           "publisher": "TIKR",
           "published": "2026-11-22T11:59:18Z"
-        },
-        {
-          "title": "The Stock Market Is Doing Something for Only the 5th Time This Century, and History Says It's Obvious What Comes Next for Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-doing-something-only-115602294.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-22T11:56:02Z"
         }
       ]
     },
@@ -283,6 +281,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ambarella-stock-soars-reports-nxp-195145202.html",
           "publisher": "Barchart",
           "published": "2026-11-19T19:51:45Z"
+        }
+      ]
+    },
+    {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 98.31,
+      "previous_close": 110.92,
+      "change_pct": -11.37,
+      "market_cap": 13982207334.97931,
+      "headlines": [
+        {
+          "title": "A $12 Billion Fund Just Bought These 3 Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/12-billion-fund-just-bought-145804800.html",
+          "publisher": "TIKR",
+          "published": "2026-11-20T14:58:04Z"
+        },
+        {
+          "title": "What Have Lattice Stock Holders Had To Sit Through?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-stock-holders-had-sit-170446338.html",
+          "publisher": "Trefis",
+          "published": "2026-11-19T17:04:46Z"
+        },
+        {
+          "title": "3 AI Data Center Stocks Retail Investors Are Watching After Nvidia News",
+          "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-data-center-stocks-011105971.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-18T01:11:05Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 60996.2,
-      "change_pct": 1.5
+      "price": 60507.52,
+      "change_pct": 0.69
     },
     {
       "label": "Gold",

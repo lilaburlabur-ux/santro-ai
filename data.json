@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-22T01:26:29+00:00",
-  "as_of_local": "2026-11-22 01:26:29 UTC",
+  "as_of_utc": "2026-11-22T01:41:35+00:00",
+  "as_of_local": "2026-11-22 01:41:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-11-21T12:30:15Z"
         },
         {
-          "title": "Prediction: Some Anthropic Investors Are About to Learn an Expensive Lesson",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-anthropic-investors-learn-expensive-010138083.html",
+          "title": "Should You Forget Nvidia and Buy These 2 AI Memory Stocks Instead?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-nvidia-buy-2-ai-012302831.html",
           "publisher": "Motley Fool",
-          "published": "2026-11-22T01:01:38Z"
+          "published": "2026-11-22T01:23:02Z"
         }
       ]
     },
@@ -125,6 +127,12 @@
       "market_cap": 672642424815.1748,
       "headlines": [
         {
+          "title": "Should You Forget Nvidia and Buy These 2 AI Memory Stocks Instead?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-nvidia-buy-2-ai-012302831.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-22T01:23:02Z"
+        },
+        {
           "title": "Nvidia Stock Has Crashed 48% and Now Trades at 15 Times Earnings, Its Cheapest in More Than a Decade and Cheaper Than Microsoft and Broadcom",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-crashed-48-now-004700969.html",
           "publisher": "24/7 Wall St.",
@@ -135,12 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/renaissance-technologies-grew-sandisk-stake-214303143.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-21T21:43:03Z"
-        },
-        {
-          "title": "Micron Stock Just Hit Its Lowest Price Since May. I'd Buy More Now.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-just-hit-lowest-211202300.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-21T21:12:02Z"
         }
       ]
     },
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-shares-retreat-blockbuster-debut-154149423.html",
           "publisher": "MT Newswires",
           "published": "2026-11-20T15:41:49Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 122.28,
-      "previous_close": 138.47,
-      "change_pct": -11.69,
-      "market_cap": 110023370952.61298,
-      "headlines": [
-        {
-          "title": "Marvell Just Dropped 22% in a Week as Nvidia\u2019s Turmoil Hit AI Chips. Sell, or Load Up Before Dec. 1?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-just-dropped-22-week-182037170.html",
-          "publisher": "TIKR",
-          "published": "2026-11-21T18:20:37Z"
-        },
-        {
-          "title": "Oppenheimer\u2019s $425 Target Says Marvell\u2019s Selloff Went Too Far",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-425-target-says-marvell-142653723.html",
-          "publisher": "TIKR",
-          "published": "2026-11-21T14:26:53Z"
-        },
-        {
-          "title": "A $3.2 Billion Fund Bought These 3 Stocks Last Quarter",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-2-billion-fund-bought-104127956.html",
-          "publisher": "TIKR",
-          "published": "2026-11-21T10:41:27Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 60079.22,
-      "change_pct": 2.18
+      "price": 59912.51,
+      "change_pct": 1.89
     },
     {
       "label": "Gold",

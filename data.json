@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-22T10:57:03+00:00",
-  "as_of_local": "2026-11-22 10:57:03 UTC",
+  "as_of_utc": "2026-11-22T11:12:13+00:00",
+  "as_of_local": "2026-11-22 11:12:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,22 +15,22 @@
       "market_cap": 3031172880523.6816,
       "headlines": [
         {
-          "title": "Street Calls of the Week",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/street-calls-week-103002019.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-22T10:30:02Z"
+          "title": "From Anthropic to Nvidia, Wall Street just had a bizarre, wild week",
+          "url": "https://finance.yahoo.com/markets/article/from-anthropic-to-nvidia-wall-street-just-had-a-bizarre-wild-week-110000443.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-22T11:00:00Z"
         },
         {
-          "title": "This Pipeline Partnership Raised Its Payout by 12.5% for the Third Straight Year. Here\u2019s How Much Longer It Can Keep That Up.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pipeline-partnership-raised-payout-12-102702155.html",
+          "title": "Nike Is Down 79% From Its Peak. Here's How Much $10,000 Invested Pays in Dividends Now.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nike-down-79-peak-heres-110002571.html",
           "publisher": "Motley Fool",
-          "published": "2026-11-22T10:27:02Z"
+          "published": "2026-11-22T11:00:02Z"
         },
         {
-          "title": "Stanley Druckenmiller, David Tepper and 33 Other Big Funds Sold Advanced Micro Devices Last Quarter, While 21 Bought. Who\u2019s Right?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-david-tepper-33-102243689.html",
-          "publisher": "TIKR",
-          "published": "2026-11-22T10:22:43Z"
+          "title": "XRP Is Back Under $1. Is It Finally a Buy?",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-back-under-1-finally-105002149.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-22T10:50:02Z"
         }
       ]
     },
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/forget-nvidia-buy-2-ai-012302831.html",
           "publisher": "Motley Fool",
           "published": "2026-11-22T01:23:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 51.28,
-      "previous_close": 55.72,
-      "change_pct": -7.97,
-      "market_cap": 272553193511.9629,
-      "headlines": [
-        {
-          "title": "Intel Says It Just Signed Its First Customer for Its Most Advanced Chipmaking Process. The Stock Is Still More Than 60% Below Its June Record.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-says-just-signed-first-020702690.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-22T02:07:02Z"
-        },
-        {
-          "title": "Billionaire Investor Philippe Laffont Just Highlighted 2 Companies He Expects to Be Big Winners of the Agentic AI Era",
-          "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-investor-philippe-laffont-just-170402285.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-21T17:04:02Z"
-        },
-        {
-          "title": "After Plummeting 62% This Year, Could Buying Intel Stock Today Set You Up for Life?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/plummeting-62-could-buying-intel-155002179.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-21T15:50:02Z"
         }
       ]
     },
@@ -445,8 +419,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -2.71,
+          "price": 94.39,
           "currency": "USD"
         },
         {
@@ -535,8 +509,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -2.71,
+        "price": 94.39,
         "currency": "USD"
       },
       {
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 60827.52,
-      "change_pct": 1.22
+      "price": 60843.22,
+      "change_pct": 1.25
     },
     {
       "label": "Gold",

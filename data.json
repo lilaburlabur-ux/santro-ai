@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-22T01:56:41+00:00",
-  "as_of_local": "2026-11-22 01:56:41 UTC",
+  "as_of_utc": "2026-11-22T02:11:47+00:00",
+  "as_of_local": "2026-11-22 02:11:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -25,10 +27,10 @@
           "published": "2026-11-21T12:30:15Z"
         },
         {
-          "title": "Should You Forget Nvidia and Buy These 2 AI Memory Stocks Instead?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-nvidia-buy-2-ai-012302831.html",
+          "title": "3 Stocks I'm Ready to Buy if the Market Crashes",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-im-ready-buy-015301837.html",
           "publisher": "Motley Fool",
-          "published": "2026-11-22T01:23:02Z"
+          "published": "2026-11-22T01:53:01Z"
         }
       ]
     },
@@ -285,34 +287,6 @@
       ]
     },
     {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 98.31,
-      "previous_close": 110.92,
-      "change_pct": -11.37,
-      "market_cap": 13982207334.97931,
-      "headlines": [
-        {
-          "title": "A $12 Billion Fund Just Bought These 3 Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/12-billion-fund-just-bought-145804800.html",
-          "publisher": "TIKR",
-          "published": "2026-11-20T14:58:04Z"
-        },
-        {
-          "title": "What Have Lattice Stock Holders Had To Sit Through?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-stock-holders-had-sit-170446338.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T17:04:46Z"
-        },
-        {
-          "title": "3 AI Data Center Stocks Retail Investors Are Watching After Nvidia News",
-          "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-data-center-stocks-011105971.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-18T01:11:05Z"
-        }
-      ]
-    },
-    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 115.74,
@@ -454,8 +428,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -12.35,
+          "price": 457.01,
           "currency": "USD"
         },
         {
@@ -544,8 +518,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -12.35,
+        "price": 457.01,
         "currency": "USD"
       },
       {
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 59991.88,
-      "change_pct": 2.03
+      "price": 59935.83,
+      "change_pct": 1.93
     },
     {
       "label": "Gold",

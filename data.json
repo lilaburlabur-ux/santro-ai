@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-23T12:19:30+00:00",
-  "as_of_local": "2026-11-23 12:19:30 UTC",
+  "as_of_utc": "2026-11-23T12:24:33+00:00",
+  "as_of_local": "2026-11-23 12:24:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -15,22 +13,22 @@
       "market_cap": 3031172880523.6816,
       "headlines": [
         {
+          "title": "The biggest investors in AI are doing this",
+          "url": "https://finance.yahoo.com/video/biggest-investors-ai-doing-120000197.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-23T12:00:00Z"
+        },
+        {
           "title": "Nvidia stock jumps as DC makes stunning u-turn on Jensen Huang",
           "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-jumps-as-dc-makes-stunning-u-turn-on-jensen-huang-113419437.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-23T11:34:19Z"
         },
         {
-          "title": "Stock market today: Dow, S&P 500, Nasdaq futures surge amid relief rally",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-091118583.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-23T09:11:18Z"
-        },
-        {
-          "title": "Why Did Digital Realty Stock Move?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-digital-realty-stock-115253536.html",
-          "publisher": "Trefis",
-          "published": "2026-11-23T11:52:53Z"
+          "title": "Where Will Nvidia Stock Be in 1 Year? Wall Street's Answer Might Surprise You.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/where-nvidia-stock-1-wall-121002035.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-23T12:10:02Z"
         }
       ]
     },
@@ -115,6 +113,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/triggered-drop-marvell-stock-111817087.html",
           "publisher": "Trefis",
           "published": "2026-11-23T11:18:17Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 594.51,
+      "previous_close": 690.44,
+      "change_pct": -13.89,
+      "market_cap": 672642424815.1748,
+      "headlines": [
+        {
+          "title": "Why Is Micron Technology Stock Falling?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-technology-stock-falling-120546730.html",
+          "publisher": "Trefis",
+          "published": "2026-11-23T12:05:46Z"
+        },
+        {
+          "title": "AI Chips Update - Global Semiconductor ETF Expands International Investment Horizons",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-global-semiconductor-etf-113725192.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-23T11:37:25Z"
+        },
+        {
+          "title": "Avantis U.S. Large Cap Value ETF (AVLV) Buys $42 Million More Micron on Nov. 19",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/avantis-u-large-cap-value-110532984.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-23T11:05:32Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -13.89,
+          "price": 594.51,
           "currency": "USD"
         },
         {
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 7.06,
-          "price": 95.5,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "TWD"
         }
       ]
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -13.89,
+        "price": 594.51,
         "currency": "USD"
       },
       {
@@ -545,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 7.06,
-        "price": 95.5,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "TWD"
       }
     ]
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61174.14,
-      "change_pct": 0.02
+      "price": 61252.28,
+      "change_pct": 0.15
     },
     {
       "label": "Gold",
-      "price": 3619.9,
-      "change_pct": 2.97
+      "price": 3614.8,
+      "change_pct": 2.83
     },
     {
       "label": "Nasdaq100",

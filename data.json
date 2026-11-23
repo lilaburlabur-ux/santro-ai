@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-23T08:36:24+00:00",
-  "as_of_local": "2026-11-23 08:36:24 UTC",
+  "as_of_utc": "2026-11-23T08:41:22+00:00",
+  "as_of_local": "2026-11-23 08:41:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "INTC"
+    "MU"
   ],
   "stocks": [
     {
@@ -15,22 +15,22 @@
       "market_cap": 3031172880523.6816,
       "headlines": [
         {
+          "title": "Why Is HPE Stock Up 6% Overnight?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-hpe-stock-6-overnight-083037442.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-23T08:30:37Z"
+        },
+        {
+          "title": "Asian tech back in the firing line as traders track Wall St rout",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-tech-back-firing-line-024445930.html",
+          "publisher": "AFP",
+          "published": "2026-11-23T08:27:15Z"
+        },
+        {
           "title": "Hedge funds post worst week since April 2025, sparks defensive shift",
           "url": "https://finance.yahoo.com/markets/stocks/articles/hedge-funds-post-worst-week-082428951.html",
           "publisher": "Reuters",
           "published": "2026-11-23T08:24:28Z"
-        },
-        {
-          "title": "Stock Market Sell-Off: 4 ETFs I'd Buy Now and Hold Through 2030",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-sell-off-4-080502513.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-23T08:05:02Z"
-        },
-        {
-          "title": "The National Debt Rose $2.4 Trillion in a Year to $40.6 Trillion. The S&P 500 Gained 9% Anyway.",
-          "url": "https://finance.yahoo.com/economy/policy/articles/national-debt-rose-2-4-075001786.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-23T07:50:01Z"
         }
       ]
     },
@@ -119,12 +119,12 @@
       ]
     },
     {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 594.51,
-      "previous_close": 690.44,
-      "change_pct": -13.89,
-      "market_cap": 672642424815.1748,
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 51.28,
+      "previous_close": 55.72,
+      "change_pct": -7.97,
+      "market_cap": 272553193511.9629,
       "headlines": [
         {
           "title": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says \u2018Bears Feel Validated,\u2019 But There\u2019s No Stopping The AI Wave",
@@ -133,16 +133,16 @@
           "published": "2026-11-23T02:24:05Z"
         },
         {
-          "title": "David Tepper's Micron bet raises a $32 billion question",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/david-teppers-micron-bet-raises-020300674.html",
-          "publisher": "TheStreet",
-          "published": "2026-11-23T02:03:00Z"
+          "title": "Intel Just Landed Its First 18A-P Chip Customer. What That Means for INTC Stock.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-just-landed-first-18a-193003252.html",
+          "publisher": "Barchart",
+          "published": "2026-11-22T19:30:03Z"
         },
         {
-          "title": "Charlie Bilello Flags the Nasdaq 100\u2019s First Bear Market Since April 2025",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/charlie-bilello-flags-nasdaq-100-211716795.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-22T21:17:16Z"
+          "title": "Intel announces more layoffs as workforce shrinks by 7,300",
+          "url": "https://finance.yahoo.com/technology/articles/intel-announces-more-layoffs-workforce-191700298.html",
+          "publisher": "TheStreet",
+          "published": "2026-11-22T19:17:00Z"
         }
       ]
     },
@@ -383,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -13.89,
-          "price": 594.51,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -473,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -13.89,
-        "price": 594.51,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61312.89,
-      "change_pct": 0.25
+      "price": 61420.28,
+      "change_pct": 0.42
     },
     {
       "label": "Gold",
-      "price": 3604.8,
-      "change_pct": 2.54
+      "price": 3607.7,
+      "change_pct": 2.63
     },
     {
       "label": "Nasdaq100",

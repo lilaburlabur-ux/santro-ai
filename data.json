@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-23T21:44:30+00:00",
-  "as_of_local": "2026-11-23 21:44:30 UTC",
+  "as_of_utc": "2026-11-23T21:49:32+00:00",
+  "as_of_local": "2026-11-23 21:49:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -227,6 +225,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/does-amd-stock-turn-profit-163820428.html",
           "publisher": "Trefis",
           "published": "2026-11-23T16:38:20Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 144.74,
+      "previous_close": 122.28,
+      "change_pct": 18.37,
+      "market_cap": 130232118703.24161,
+      "headlines": [
+        {
+          "title": "Tech stocks surge as Nvidia rally adds $2 trillion to Nasdaq 100",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-surge-nvidia-rally-192000003.html",
+          "publisher": "Proactive",
+          "published": "2026-11-23T19:20:00Z"
+        },
+        {
+          "title": "Why Did Broadcom Stock Drop On Friday?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-broadcom-stock-drop-190504586.html",
+          "publisher": "Trefis",
+          "published": "2026-11-23T19:05:04Z"
+        },
+        {
+          "title": "Marvell Stocks Jump 15.43% as AI Chip Rebound Sets Up December 1 Report",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stocks-jump-15-43-175525167.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-23T17:55:25Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61230.25,
-      "change_pct": 0.11
+      "price": 61084.43,
+      "change_pct": -0.13
     },
     {
       "label": "Gold",
-      "price": 3633.7,
-      "change_pct": 3.37
+      "price": 3633.1,
+      "change_pct": 3.35
     },
     {
       "label": "Nasdaq100",

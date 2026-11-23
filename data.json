@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-23T07:05:17+00:00",
-  "as_of_local": "2026-11-23 07:05:17 UTC",
+  "as_of_utc": "2026-11-23T07:20:27+00:00",
+  "as_of_local": "2026-11-23 07:20:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -125,12 +125,6 @@
       "market_cap": 672642424815.1748,
       "headlines": [
         {
-          "title": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says \u2018Bears Feel Validated,\u2019 But There\u2019s No Stopping The AI Wave",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-intc-mu-amd-chip-022405766.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-23T02:24:05Z"
-        },
-        {
           "title": "David Tepper's Micron bet raises a $32 billion question",
           "url": "https://finance.yahoo.com/markets/stocks/articles/david-teppers-micron-bet-raises-020300674.html",
           "publisher": "TheStreet",
@@ -141,6 +135,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/charlie-bilello-flags-nasdaq-100-211716795.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-22T21:17:16Z"
+        },
+        {
+          "title": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters",
+          "url": "https://finance.yahoo.com/markets/article/stocks-are-on-fire-sale-as-anthropic-ipo-fails-to-calm-ai-trade-jitters-190051253.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-22T19:00:51Z"
         }
       ]
     },
@@ -454,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -12.35,
-          "price": 457.01,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -544,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -12.35,
-        "price": 457.01,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61444.86,
-      "change_pct": 0.46
+      "price": 61365.15,
+      "change_pct": 0.33
     },
     {
       "label": "Gold",
-      "price": 3621.3,
-      "change_pct": 3.01
+      "price": 3627.4,
+      "change_pct": 3.19
     },
     {
       "label": "Nasdaq100",

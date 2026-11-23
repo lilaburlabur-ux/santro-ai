@@ -1,0 +1,155 @@
+# ARM Research Report
+**Arm Holdings plc** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+Signed file: `ARM.research.23.11.2026`
+
+| Field | Value |
+|---|---|
+| Current price | $177.18 (2026-11-23, ~15-min delayed) |
+| Market cap | $189.58B |
+| Sector / Industry | Technology / Semiconductors |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Low technical momentum, strong fundamentals, value: low (expensive), risk: high. |
+
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-23.
+
+## 1. Executive Summary
+| Area | Score / Read | Reason |
+|---|---|---|
+| Technical momentum | Low | Below SMA200 (-24.53%) with negative half-year (-44.84%). |
+| Fresh setup quality | Poor / broken | -59.68% from 52w high — base needs to rebuild. |
+| Fundamental quality | Strong | Profit margin 17.13%, revenue growth 27.10%. |
+| Value attractiveness | Low (expensive) | Forward P/E 57.40, EV/Sales 29.23. |
+| Risk level | High | Beta 3.94, ATR 9.8% of price, short float 10.71%. |
+
+**Bottom line:** Low technical momentum, strong fundamentals, value: low (expensive), risk: high.
+
+**Key questions before any trade (standard):**
+- Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
+- Where is the actual invalidation level? If that level is too far away, the setup is not clean.
+- Is the move supported by new institutional demand or just retail/short-covering momentum?
+- Can earnings convert fast enough to justify the valuation?
+
+## 2. Company Overview and Recent Catalysts
+Arm Holdings plc researches, develops, licenses, and markets central processing unit (CPU) intellectual property (IP), graphics processing unit IP, systems IP, compute subsystems (CSS), and associated software, tools and related services. The company provides a product portfolio, including CPU IP, GPU and neural processing unit (NPU) accelerators, system IP such as interconnects, compute platform products including pre-integrated CSSs, and development tools and software.
+
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Jensen Huang back at Nvidia, stock soars; Anthropic slides | Yahoo Finance Video | 2026-11-23 |
+| Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30% | Yahoo Finance Video | 2026-11-23 |
+| SoftBank Is the Real Winner of Arm Keeping Rene Haas Through 2033 | TIKR | 2026-11-23 |
+| Tech stocks surge as Nvidia rally adds $2 trillion to Nasdaq 100 | Proactive | 2026-11-23 |
+
+## 3. Technical Analysis
+| Technical item | Read |
+|---|---|
+| Price vs 52-week range | Close $177.18; 52w high $439.46 (-59.68%); 52w low $104.55 (+69.47%) |
+| Trend | -24.53% vs SMA200, -25.67% vs SMA50, -7.69% vs SMA20 |
+| Momentum | RSI(14) 42.2 (neutral) |
+| Volatility | ATR(14) 17.31 (~9.8% of price); beta 3.94 |
+| Setup perspective | -59.68% from 52w high — base needs to rebuild. |
+
+**Performance snapshot:**
+
+| Window | Return |
+|---|---|
+| Week | +1.2% |
+| Month | -15.8% |
+| Quarter | -26.7% |
+| Half Y | -44.8% |
+| 1Y | +33.7% |
+| YTD | +54.4% |
+
+## 4. Fundamental Analysis
+| Factor | Observation | Implication / extra |
+|---|---|---|
+| Next earnings | 2027-02-03 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $5.46B | Revenue growth 27.10% y/y |
+| Profitability | Gross 97.44%, operating 17.02%, net 17.13% | ROA 5.50%, ROE 11.35% |
+| Balance sheet | Cash $3.62B, debt $500.00M | Current ratio 6.35, debt/equity 5.50 |
+| Valuation | P/E 203.66, forward P/E 57.40, P/S 34.70, P/B 20.86 | EV/Sales 29.23, EV/EBITDA 141.65 |
+| Growth expectations | Earnings growth -45.50%, EPS q/q -45.40% | Analyst mean target $272.43 (40 analysts) |
+
+## 5. Institutional Investors and Ownership
+| Metric | Value |
+|---|---|
+| Institutional ownership | 95.76% |
+| Insider ownership | 0.08% |
+| Short float | 10.71% |
+| Short ratio (days to cover) | 3.3 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Invesco Ltd. | 13,201,742 | 1.24% | 2026-09-30 |
+| Dz Bank Ag Deutsche Zentral Genossenschafts Bank, Frankfurt Am Main | 4,910,737 | 0.46% | 2026-09-30 |
+| Morgan Stanley | 3,805,594 | 0.36% | 2026-09-30 |
+| Goldman Sachs Group Inc | 3,545,916 | 0.33% | 2026-09-30 |
+| Capital Research Global Investors | 3,240,443 | 0.30% | 2026-09-30 |
+| Van Eck Associates Corporation | 2,950,976 | 0.28% | 2026-09-30 |
+| Arrowstreet Capital, Limited Partnership | 2,728,126 | 0.26% | 2026-09-30 |
+| Blackrock Inc. | 2,211,935 | 0.21% | 2026-09-30 |
+| FMR, LLC | 2,178,123 | 0.20% | 2026-09-30 |
+| Capital International Investors | 2,048,256 | 0.19% | 2026-09-30 |
+
+## 6. Risk Review and Setup Plan
+- **Valuation risk:** Forward P/E 57.40, EV/Sales 29.23. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 3.94, ATR 9.8% of price, short float 10.71%. Size positions accordingly.
+- **Short interest risk:** short float 10.71% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
+- **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
+
+### Setup checklist for your journal
+| Question | Pass condition |
+|---|---|
+| Is there a new base? | Tight sideways action near highs, declining volume, clear resistance. |
+| Is the pivot obvious? | A clean level that multiple traders can see; not a random candle high. |
+| Is risk defined? | Stop based on structure and less than the expected first upside target. |
+| Is volume confirming? | Breakout volume expands; pullback volume dries up. |
+| Is position size small enough? | A normal shakeout should not cause emotional decision-making. |
+
+## 7. Full Data Snapshot
+| Metric | Value | Metric | Value |
+|---|---|---|---|
+| Price | $177.18 | EV/Sales | 29.23 |
+| Market cap | $189.58B | EV/EBITDA | 141.65 |
+| Beta | 3.94 | Gross margin | 97.44% |
+| RSI(14) | 42.2 | Operating margin | 17.02% |
+| ATR(14) | 17.31 | Profit margin | 17.13% |
+| SMA20 dist | -7.69% | ROA | 5.50% |
+| SMA50 dist | -25.67% | ROE | 11.35% |
+| SMA200 dist | -24.53% | Revenue (ttm) | $5.46B |
+| 52W high | $439.46 | Revenue growth y/y | 27.10% |
+| 52W low | $104.55 | Inst. ownership | 95.76% |
+| P/E (ttm) | 203.66 | Insider ownership | 0.08% |
+| Forward P/E | 57.40 | Short float | 10.71% |
+| PEG (trailing) | 1.24 | Avg volume | 5,388,460 |
+| P/S | 34.70 | Employees | 9,584 |
+| P/B | 20.86 | Analyst rec (1=buy..5=sell) | 1.9 |
+
+## 8. Analyst Actions
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-11-06 | main | UBS | Buy → Buy |
+| 2026-11-05 | main | JP Morgan | Overweight → Overweight |
+| 2026-11-05 | main | TD Cowen | Buy → Buy |
+| 2026-11-05 | main | RBC Capital | Outperform → Outperform |
+| 2026-11-05 | main | Barclays | Overweight → Overweight |
+| 2026-11-05 | main | Wells Fargo | Overweight → Overweight |
+| 2026-11-05 | reit | Piper Sandler | Overweight → Overweight |
+| 2026-07-31 | main | Rosenblatt | Buy → Buy |
+
+## 9. Conclusion
+ARM: Low momentum / strong fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+
+## Sources
+| Source | URL | Used for |
+|---|---|---|
+| Yahoo Finance quote/profile/statistics for ARM | https://finance.yahoo.com/quote/ARM | Snapshot metrics, ownership, analyst data |
+| Yahoo Finance price history (via yfinance) | https://finance.yahoo.com/quote/ARM/history | SMA/RSI/ATR/performance calculations |
+| Yahoo Finance news feed | https://finance.yahoo.com/quote/ARM/news | Catalyst headlines |
+| Method template | AEHR.research.31.05.2026.pdf (user's Cowork method) | Report structure, scoring areas, checklist |
+
+_Note: the template's native Finviz/Fintel/ADVFN pages block automated retrieval; equivalent metrics above are computed from Yahoo Finance data instead and labeled accordingly._

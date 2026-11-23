@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-23T09:07:03+00:00",
-  "as_of_local": "2026-11-23 09:07:03 UTC",
+  "as_of_utc": "2026-11-23T09:12:00+00:00",
+  "as_of_local": "2026-11-23 09:12:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -31,6 +29,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-hpe-stock-6-overnight-083037442.html",
           "publisher": "Stocktwits",
           "published": "2026-11-23T08:30:37Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 318.71,
+      "previous_close": 352.09,
+      "change_pct": -9.48,
+      "market_cap": 1652980763599.7334,
+      "headlines": [
+        {
+          "title": "US futures climb and Asian shares mostly decline as some tech stocks fall",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-fall-p-042312132.html",
+          "publisher": "Associated Press",
+          "published": "2026-11-23T04:23:12Z"
+        },
+        {
+          "title": "Worried About Nvidia? Buy This Fantastic Artificial Intelligence (AI) Stock Instead",
+          "url": "https://finance.yahoo.com/technology/ai/articles/worried-nvidia-buy-fantastic-artificial-032002826.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-23T03:20:02Z"
+        },
+        {
+          "title": "Taiwan stocks suffer worst week since 1990 as AI rout drains emerging Asia",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-stocks-suffer-worst-week-192113134.html",
+          "publisher": "IntelliNews",
+          "published": "2026-11-22T19:21:13Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61470.04,
-      "change_pct": 0.5
+      "price": 61490.48,
+      "change_pct": 0.54
     },
     {
       "label": "Gold",
-      "price": 3613.5,
-      "change_pct": 2.79
+      "price": 3613.1,
+      "change_pct": 2.78
     },
     {
       "label": "Nasdaq100",

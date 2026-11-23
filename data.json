@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-23T22:09:46+00:00",
-  "as_of_local": "2026-11-23 22:09:46 UTC",
+  "as_of_utc": "2026-11-23T22:14:53+00:00",
+  "as_of_local": "2026-11-23 22:14:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,6 +12,12 @@
       "change_pct": 31.48,
       "market_cap": 3985462423690.796,
       "headlines": [
+        {
+          "title": "Ex-Nvidia employee: 'Stability and accountability can coexist'",
+          "url": "https://finance.yahoo.com/video/ex-nvidia-employee-stability-and-accountability-can-coexist-221105947.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-23T22:11:05Z"
+        },
         {
           "title": "Nvidia's stability is a systemic issue for the US now, this AI CEO says",
           "url": "https://finance.yahoo.com/video/nvidias-stability-is-a-systemic-issue-for-the-us-now-this-ai-ceo-says-220035003.html",
@@ -25,12 +29,34 @@
           "url": "https://finance.yahoo.com/markets/article/nvidia-gains-nearly-1t-as-trump-says-nobody-could-revive-the-stock-like-its-being-revived-194634496.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-23T19:46:34Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 363.6,
+      "previous_close": 318.71,
+      "change_pct": 14.08,
+      "market_cap": 1885801612274.119,
+      "headlines": [
+        {
+          "title": "Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30%",
+          "url": "https://finance.yahoo.com/video/jensen-huang-back-as-nvidia-ceo-after-12-days-shares-surge-30-161302539.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-23T16:13:02Z"
         },
         {
-          "title": "3 truths that Jensen Huang's return to Nvidia made clear",
-          "url": "https://finance.yahoo.com/video/3-truths-that-jensen-huangs-return-to-nvidia-made-clear-213610744.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-23T21:36:10Z"
+          "title": "Why TSMC Stock Soared Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-tsmc-stock-soared-today-212049972.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-23T21:20:49Z"
+        },
+        {
+          "title": "Billionaire Andreas Halvorsen Exited Microsoft and Made TSMC His Top Holding at $1.8 Billion",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-andreas-halvorsen-exited-microsoft-205726437.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-23T20:57:26Z"
         }
       ]
     },
@@ -564,7 +590,7 @@
     },
     {
       "label": "Gold",
-      "price": 3634.6,
+      "price": 3634.4,
       "change_pct": 3.39
     },
     {

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-23T22:30:11+00:00",
-  "as_of_local": "2026-11-23 22:30:11 UTC",
+  "as_of_utc": "2026-11-23T22:35:17+00:00",
+  "as_of_local": "2026-11-23 22:35:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -119,6 +117,34 @@
       ]
     },
     {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 453.46,
+      "previous_close": 424.39,
+      "change_pct": 6.85,
+      "market_cap": 750506020590.174,
+      "headlines": [
+        {
+          "title": "Nvidia soars 31% as board reinstates Jensen Huang as CEO, chip stocks jump",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-soars-25-as-board-reinstates-jensen-huang-as-ceo-chip-stocks-jump-142353537.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-23T13:31:09Z"
+        },
+        {
+          "title": "Why Jensen Huang is the 'key man' behind the market rally",
+          "url": "https://finance.yahoo.com/video/why-jensen-huang-is-the-key-man-behind-the-market-rally-193849634.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-23T19:38:49Z"
+        },
+        {
+          "title": "Jensen Huang back at Nvidia, stock soars; Anthropic slides",
+          "url": "https://finance.yahoo.com/video/jensen-huang-back-at-nvidia-stock-soars-anthropic-slides-161339662.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-23T16:13:39Z"
+        }
+      ]
+    },
+    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 59.66,
@@ -217,16 +243,16 @@
           "published": "2026-11-23T22:06:45Z"
         },
         {
+          "title": "\u2018I Fell Off My Chair.\u2019 Investors Marvel as Huang\u2019s Return Sends Stocks Rocketing.",
+          "url": "https://www.wsj.com/finance/stocks/i-fell-off-my-chair-investors-marvel-as-huangs-return-sends-stocks-rocketing-98131bc6?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-23T21:45:00Z"
+        },
+        {
           "title": "Coherent Is the Real Winner of Huang\u2019s Return. Nvidia Paid $2 Billion for Its Stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/coherent-real-winner-huang-return-213417039.html",
           "publisher": "TIKR",
           "published": "2026-11-23T21:34:17Z"
-        },
-        {
-          "title": "Nvidia, Dell, Micron, Anthropic, CrowdStrike, UnitedHealth, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-901d6342?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-23T21:27:00Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 61148.47,
-      "change_pct": -0.02
+      "price": 61084.14,
+      "change_pct": -0.13
     },
     {
       "label": "Gold",

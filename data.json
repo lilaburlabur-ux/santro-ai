@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-23T22:25:05+00:00",
-  "as_of_local": "2026-11-23 22:25:05 UTC",
+  "as_of_utc": "2026-11-23T22:30:11+00:00",
+  "as_of_local": "2026-11-23 22:30:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -117,34 +119,6 @@
       ]
     },
     {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 453.46,
-      "previous_close": 424.39,
-      "change_pct": 6.85,
-      "market_cap": 750506020590.174,
-      "headlines": [
-        {
-          "title": "Nvidia soars 31% as board reinstates Jensen Huang as CEO, chip stocks jump",
-          "url": "https://finance.yahoo.com/markets/article/nvidia-soars-25-as-board-reinstates-jensen-huang-as-ceo-chip-stocks-jump-142353537.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-23T13:31:09Z"
-        },
-        {
-          "title": "Why Jensen Huang is the 'key man' behind the market rally",
-          "url": "https://finance.yahoo.com/video/why-jensen-huang-is-the-key-man-behind-the-market-rally-193849634.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-23T19:38:49Z"
-        },
-        {
-          "title": "Jensen Huang back at Nvidia, stock soars; Anthropic slides",
-          "url": "https://finance.yahoo.com/video/jensen-huang-back-at-nvidia-stock-soars-anthropic-slides-161339662.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-23T16:13:39Z"
-        }
-      ]
-    },
-    {
       "symbol": "INTC",
       "name": "Intel",
       "price": 59.66,
@@ -193,10 +167,10 @@
           "published": "2026-11-23T16:13:02Z"
         },
         {
-          "title": "Nvidia soars 31% as board reinstates Jensen Huang as CEO, chip stocks jump",
-          "url": "https://finance.yahoo.com/markets/article/nvidia-soars-25-as-board-reinstates-jensen-huang-as-ceo-chip-stocks-jump-142353537.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-23T13:31:09Z"
+          "title": "Nvidia, Dell, Micron, Anthropic, CrowdStrike, UnitedHealth, and More Stocks That Explain Today\u2019s Market",
+          "url": "https://www.barrons.com/articles/stock-movers-901d6342?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-23T21:27:00Z"
         }
       ]
     },
@@ -209,6 +183,12 @@
       "market_cap": 176956605224.60938,
       "headlines": [
         {
+          "title": "How Key Tech Stocks Reacted Today",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026/card/here-s-how-key-tech-stocks-are-reacting-to-jensen-huang-s-return-RG61uJgWg989HwP2qtPK?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-23T21:23:41Z"
+        },
+        {
           "title": "How NVDA Stock Rises To $235?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-rises-235-171638317.html",
           "publisher": "Trefis",
@@ -219,12 +199,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-jumps-9-8-chip-170407596.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-23T17:04:07Z"
-        },
-        {
-          "title": "Does AMD Stock Turn Profit Into Cash Like Nvidia?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/does-amd-stock-turn-profit-163820428.html",
-          "publisher": "Trefis",
-          "published": "2026-11-23T16:38:20Z"
         }
       ]
     },
@@ -249,10 +223,10 @@
           "published": "2026-11-23T21:34:17Z"
         },
         {
-          "title": "Tech stocks surge as Nvidia rally adds $2 trillion to Nasdaq 100",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-surge-nvidia-rally-192000003.html",
-          "publisher": "Proactive",
-          "published": "2026-11-23T19:20:00Z"
+          "title": "Nvidia, Dell, Micron, Anthropic, CrowdStrike, UnitedHealth, and More Stocks That Explain Today\u2019s Market",
+          "url": "https://www.barrons.com/articles/stock-movers-901d6342?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-23T21:27:00Z"
         }
       ]
     },
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 7.06,
+          "price": 95.5,
           "currency": "TWD"
         }
       ]
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 7.06,
+        "price": 95.5,
         "currency": "TWD"
       }
     ]
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 61277.04,
-      "change_pct": 0.19
+      "price": 61148.47,
+      "change_pct": -0.02
     },
     {
       "label": "Gold",

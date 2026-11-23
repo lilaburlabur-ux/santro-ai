@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-23T02:48:17+00:00",
-  "as_of_local": "2026-11-23 02:48:17 UTC",
+  "as_of_utc": "2026-11-23T02:53:04+00:00",
+  "as_of_local": "2026-11-23 02:53:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -27,10 +25,10 @@
           "published": "2026-11-22T11:00:00Z"
         },
         {
-          "title": "Dow Jones Futures Rise As Oracle, Korea Try To Ease Market Fears; Look For These Absolute Losers",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-worst-week-covid-nvidia-anthropic-vix-fear-gauge/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-23T02:43:50Z"
+          "title": "Nvidia stock logs 2008-scale losing streak even as interim CEO delivers beat",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-logs-2008-scale-024700203.html",
+          "publisher": "TheStreet",
+          "published": "2026-11-23T02:47:00Z"
         }
       ]
     },
@@ -171,6 +169,34 @@
           "url": "https://finance.yahoo.com/technology/articles/intel-announces-more-layoffs-workforce-191700298.html",
           "publisher": "TheStreet",
           "published": "2026-11-22T19:17:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 152.2,
+      "previous_close": 177.17,
+      "change_pct": -14.09,
+      "market_cap": 162853996734.61914,
+      "headlines": [
+        {
+          "title": "Arm vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy for 2027?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/arm-vs-marvell-technology-artificial-001005246.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-23T00:10:05Z"
+        },
+        {
+          "title": "Arm Sinks 20% in a Week as Chips Slide and Nvidia\u2019s Headhunters Approach CEO Rene Haas. Time to Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-sinks-20-week-chips-133527300.html",
+          "publisher": "TIKR",
+          "published": "2026-11-22T13:35:27Z"
+        },
+        {
+          "title": "SoftBank Falls 14%, and 72% of Arm\u2019s Shares Sit Pledged Behind Its Loans",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-falls-14-72-arm-101747234.html",
+          "publisher": "TIKR",
+          "published": "2026-11-21T10:17:47Z"
         }
       ]
     },
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -4.85,
-          "price": 1059000.0,
+          "change_pct": -5.03,
+          "price": 1057000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -5.35,
-          "price": 173300.0,
+          "change_pct": -5.46,
+          "price": 173100.0,
           "currency": "KRW"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 1.51,
-          "price": 268.5,
+          "change_pct": 1.7,
+          "price": 269.0,
           "currency": "TWD"
         },
         {
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 3.7,
-          "price": 92.5,
+          "change_pct": 3.48,
+          "price": 92.3,
           "currency": "TWD"
         }
       ]
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -4.85,
-        "price": 1059000.0,
+        "change_pct": -5.03,
+        "price": 1057000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -5.35,
-        "price": 173300.0,
+        "change_pct": -5.46,
+        "price": 173100.0,
         "currency": "KRW"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 1.51,
-        "price": 268.5,
+        "change_pct": 1.7,
+        "price": 269.0,
         "currency": "TWD"
       },
       {
@@ -545,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 3.7,
-        "price": 92.5,
+        "change_pct": 3.48,
+        "price": 92.3,
         "currency": "TWD"
       }
     ]
@@ -559,12 +585,12 @@
     },
     {
       "label": "BTC",
-      "price": 60461.25,
-      "change_pct": 0.61
+      "price": 60570.8,
+      "change_pct": 0.79
     },
     {
       "label": "Gold",
-      "price": 3576.9,
+      "price": 3576.8,
       "change_pct": 1.75
     },
     {

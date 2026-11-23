@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-23T01:32:22+00:00",
-  "as_of_local": "2026-11-23 01:32:22 UTC",
+  "as_of_utc": "2026-11-23T01:47:34+00:00",
+  "as_of_local": "2026-11-23 01:47:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -153,6 +153,12 @@
       "market_cap": 272553193511.9629,
       "headlines": [
         {
+          "title": "Intel Just Landed Its First 18A-P Chip Customer. What That Means for INTC Stock.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-just-landed-first-18a-193003252.html",
+          "publisher": "Barchart",
+          "published": "2026-11-22T19:30:03Z"
+        },
+        {
           "title": "Intel announces more layoffs as workforce shrinks by 7,300",
           "url": "https://finance.yahoo.com/technology/articles/intel-announces-more-layoffs-workforce-191700298.html",
           "publisher": "TheStreet",
@@ -163,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/37-billion-fund-just-bought-112317144.html",
           "publisher": "TIKR",
           "published": "2026-11-22T11:23:17Z"
-        },
-        {
-          "title": "Intel Says It Just Signed Its First Customer for Its Most Advanced Chipmaking Process. The Stock Is Still More Than 60% Below Its June Record.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-says-just-signed-first-020702690.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-22T02:07:02Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -4.18,
-          "price": 1066500.0,
+          "change_pct": -3.32,
+          "price": 1076000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -4.53,
-          "price": 174800.0,
+          "change_pct": -3.6,
+          "price": 176500.0,
           "currency": "KRW"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 0.19,
-          "price": 265.0,
+          "change_pct": -2.08,
+          "price": 259.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 2.69,
-          "price": 91.6,
+          "change_pct": -0.11,
+          "price": 89.1,
           "currency": "TWD"
         }
       ]
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -4.18,
-        "price": 1066500.0,
+        "change_pct": -3.32,
+        "price": 1076000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -4.53,
-        "price": 174800.0,
+        "change_pct": -3.6,
+        "price": 176500.0,
         "currency": "KRW"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 0.19,
-        "price": 265.0,
+        "change_pct": -2.08,
+        "price": 259.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 2.69,
-        "price": 91.6,
+        "change_pct": -0.11,
+        "price": 89.1,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61112.8,
-      "change_pct": 1.7
+      "price": 60801.95,
+      "change_pct": 1.18
     },
     {
       "label": "Gold",
-      "price": 3612.0,
-      "change_pct": 2.75
+      "price": 3604.5,
+      "change_pct": 2.53
     },
     {
       "label": "Nasdaq100",

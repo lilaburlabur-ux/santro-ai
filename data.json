@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-23T04:33:59+00:00",
-  "as_of_local": "2026-11-23 04:33:59 UTC",
+  "as_of_utc": "2026-11-23T04:48:56+00:00",
+  "as_of_local": "2026-11-23 04:48:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,12 +14,6 @@
       "change_pct": -14.01,
       "market_cap": 3031172880523.6816,
       "headlines": [
-        {
-          "title": "GPU prices are rising for Nvidia's older chips even as the stock keeps going down: Chart of the Day",
-          "url": "https://finance.yahoo.com/markets/article/gpu-prices-are-rising-for-nvidias-older-chips-even-as-the-stock-keeps-going-down-chart-of-the-day-123721121.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-22T12:37:21Z"
-        },
         {
           "title": "Trump urges Nvidia board to rehire Jensen Huang",
           "url": "https://finance.yahoo.com/technology/articles/trump-urges-nvidia-board-rehire-042759448.html",
@@ -29,6 +25,12 @@
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-worst-week-covid-nvidia-anthropic-vix-fear-gauge/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-23T04:15:50Z"
+        },
+        {
+          "title": "Trump Throws His Weight Behind Jensen Huang\u2019s Return As Nvidia CEO: \u2018It Would Be The Best Thing For The Company\u2019",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/trump-throws-weight-behind-jensen-041337724.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-23T04:13:37Z"
         }
       ]
     },
@@ -341,34 +343,6 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 86.79,
-      "previous_close": 95.91,
-      "change_pct": -9.51,
-      "market_cap": 4410728773.107742,
-      "headlines": [
-        {
-          "title": "Can AeroVironment's $405 Million LOCUST X3 Order Expand Its Reach?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironments-405-million-locust-x3-135700754.html",
-          "publisher": "Zacks",
-          "published": "2026-11-20T13:57:00Z"
-        },
-        {
-          "title": "Is It Worth Investing in AeroVironment (AVAV) Based on Wall Street's Bullish Views?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/worth-investing-aerovironment-avav-based-133003567.html",
-          "publisher": "Zacks",
-          "published": "2026-11-20T13:30:03Z"
-        },
-        {
-          "title": "3 Top AI Stocks To Watch With Up To 43% Revenue Growth",
-          "url": "https://finance.yahoo.com/technology/ai/articles/3-top-ai-stocks-watch-021121041.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-20T02:11:21Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 22.41,
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -2.79,
-          "price": 1082000.0,
+          "change_pct": -3.41,
+          "price": 1075000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -2.84,
-          "price": 177900.0,
+          "change_pct": -3.28,
+          "price": 177100.0,
           "currency": "KRW"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 7.18,
-          "price": 283.5,
+          "change_pct": 5.29,
+          "price": 278.5,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 8.74,
-          "price": 97.0,
+          "change_pct": 7.17,
+          "price": 95.6,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -2.79,
-        "price": 1082000.0,
+        "change_pct": -3.41,
+        "price": 1075000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -2.84,
-        "price": 177900.0,
+        "change_pct": -3.28,
+        "price": 177100.0,
         "currency": "KRW"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 7.18,
-        "price": 283.5,
+        "change_pct": 5.29,
+        "price": 278.5,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 8.74,
-        "price": 97.0,
+        "change_pct": 7.17,
+        "price": 95.6,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61032.14,
-      "change_pct": 1.56
+      "price": 61079.48,
+      "change_pct": 1.64
     },
     {
       "label": "Gold",
-      "price": 3609.2,
-      "change_pct": 2.67
+      "price": 3608.4,
+      "change_pct": 2.65
     },
     {
       "label": "Nasdaq100",

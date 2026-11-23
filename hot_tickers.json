@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-23T08:16:22+00:00",
+  "as_of": "2026-11-23T08:31:38+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -89,6 +89,22 @@
   },
   {
    "rank": 6,
+   "ticker": "CRNC",
+   "company": "Cerence Inc",
+   "move_pct": -7.68,
+   "price": 6.13,
+   "volume": 1064500,
+   "volume_vs_avg": "~2x",
+   "heat_score": 50,
+   "direction": "down",
+   "why": "Audi Debuts Cerence AI\u2019s Mobile Work Agent, Bringing Enterprise-Trusted Access to Microsoft 365 to the Car",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/audi-debuts-cerence-ai-mobile-080000484.html",
+   "published": "2026-11-23T08:00:00+00:00",
+   "sector": "AI Applications & Data Software"
+  },
+  {
+   "rank": 7,
    "ticker": "SPCX",
    "company": "SpaceX",
    "move_pct": -7.69,
@@ -97,14 +113,14 @@
    "volume_vs_avg": "~1.2x",
    "heat_score": 48,
    "direction": "down",
-   "why": "Cathie Wood Says TSLA Holders \u2018Will Get\u2019 A Premium If SpaceX Buys Tesla \u2014 HSBC Puts It At Over 30%",
+   "why": "RKLB Stock Has Its Worst Week Ever \u2014 But CFO Sees \u2018Very Strong Uplift\u2019 In Electron Prices As SpaceX Rideshare Slots Tighten",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-says-tsla-holders-071405988.html",
-   "published": "2026-11-23T07:14:05+00:00",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-worst-week-ever-075716928.html",
+   "published": "2026-11-23T07:57:16+00:00",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "ticker": "TSLA",
    "company": "Tesla Inc",
    "move_pct": -7.64,
@@ -118,22 +134,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-says-tsla-holders-071405988.html",
    "published": "2026-11-23T07:14:05+00:00",
    "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 8,
-   "ticker": "META",
-   "company": "Meta Platforms Inc",
-   "move_pct": -5.93,
-   "price": 560.84,
-   "volume": 25589800,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 42,
-   "direction": "down",
-   "why": "A 167-Year-Old Math Problem Just Became Meta's Case That Superintelligence Is Near",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/167-old-math-problem-just-064345511.html",
-   "published": "2026-11-23T06:43:45+00:00",
-   "sector": "AI Platforms, Internet & AdTech"
   }
  ]
 }

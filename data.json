@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-23T06:29:50+00:00",
-  "as_of_local": "2026-11-23 06:29:50 UTC",
+  "as_of_utc": "2026-11-23T06:35:05+00:00",
+  "as_of_local": "2026-11-23 06:35:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "AMD"
+    "SYNA"
   ],
   "stocks": [
     {
@@ -87,6 +87,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/heres-1-000-investment-broadcom-192202429.html",
           "publisher": "Motley Fool",
           "published": "2026-11-22T19:22:02Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 424.39,
+      "previous_close": 489.19,
+      "change_pct": -13.25,
+      "market_cap": 702393302769.5946,
+      "headlines": [
+        {
+          "title": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says \u2018Bears Feel Validated,\u2019 But There\u2019s No Stopping The AI Wave",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-intc-mu-amd-chip-022405766.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-23T02:24:05Z"
+        },
+        {
+          "title": "AMD vs. Nvidia Stock After Jensen Huang\u2019s Exit: 1 Trades at Nearly 4x the Other\u2019s Earnings Multiple. Here\u2019s the AI Chip Stock I\u2019d Buy Now.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-vs-nvidia-stock-jensen-212513753.html",
+          "publisher": "Barchart",
+          "published": "2026-11-22T21:25:13Z"
+        },
+        {
+          "title": "AMD Gained From Nvidia\u2019s China Scandal. Now a Short Seller Says AMD Has a China Problem Too.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-gained-nvidia-china-scandal-190104037.html",
+          "publisher": "Barchart",
+          "published": "2026-11-22T19:01:04Z"
         }
       ]
     },
@@ -287,34 +315,6 @@
       ]
     },
     {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 115.74,
-      "previous_close": 116.91,
-      "change_pct": -1.0,
-      "market_cap": 4598178356.970734,
-      "headlines": [
-        {
-          "title": "Top 3 AI Infrastructure Stocks To Watch In November 2026",
-          "url": "https://finance.yahoo.com/technology/ai/articles/top-3-ai-infrastructure-stocks-091108294.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-19T09:11:08Z"
-        },
-        {
-          "title": "SYNA Q1 Earnings Beat Estimates, Revenues Miss on Weak Demand",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/syna-q1-earnings-beat-estimates-152400592.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T15:24:00Z"
-        },
-        {
-          "title": "Synaptics (SYNA) Tops Q1 Earnings Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-tops-q1-earnings-000013395.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T00:00:13Z"
-        }
-      ]
-    },
-    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 86.79,
@@ -392,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -2.07,
-          "price": 1090000.0,
+          "change_pct": -2.61,
+          "price": 1084000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -2.73,
-          "price": 178100.0,
+          "change_pct": -3.0,
+          "price": 177600.0,
           "currency": "KRW"
         },
         {
@@ -482,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -2.07,
-        "price": 1090000.0,
+        "change_pct": -2.61,
+        "price": 1084000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -2.73,
-        "price": 178100.0,
+        "change_pct": -3.0,
+        "price": 177600.0,
         "currency": "KRW"
       },
       {
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61476.3,
-      "change_pct": 2.3
+      "price": 61337.7,
+      "change_pct": 2.07
     },
     {
       "label": "Gold",
-      "price": 3620.6,
-      "change_pct": 2.99
+      "price": 3615.6,
+      "change_pct": 2.85
     },
     {
       "label": "Nasdaq100",

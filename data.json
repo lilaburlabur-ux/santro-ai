@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-23T12:14:34+00:00",
-  "as_of_local": "2026-11-23 12:14:34 UTC",
+  "as_of_utc": "2026-11-23T12:19:30+00:00",
+  "as_of_local": "2026-11-23 12:19:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -97,6 +99,12 @@
       "market_cap": 702393302769.5946,
       "headlines": [
         {
+          "title": "CrowdStrike, Zscaler, Anthropic, Sandisk, Strategy, Robinhood, and More Stocks That Explain Today\u2019s Market",
+          "url": "https://www.barrons.com/articles/stock-movers-901d6342?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-23T11:20:00Z"
+        },
+        {
           "title": "Why Did AMD Stock Move?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-amd-stock-move-111817722.html",
           "publisher": "Trefis",
@@ -107,40 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/triggered-drop-marvell-stock-111817087.html",
           "publisher": "Trefis",
           "published": "2026-11-23T11:18:17Z"
-        },
-        {
-          "title": "What Proshares Trust (TQQQ) Bought: Apple Leads on Nov. 19",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/proshares-trust-tqqq-bought-apple-110504306.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-23T11:05:04Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 594.51,
-      "previous_close": 690.44,
-      "change_pct": -13.89,
-      "market_cap": 672642424815.1748,
-      "headlines": [
-        {
-          "title": "AI Chips Update - Global Semiconductor ETF Expands International Investment Horizons",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-global-semiconductor-etf-113725192.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-23T11:37:25Z"
-        },
-        {
-          "title": "Avantis U.S. Large Cap Value ETF (AVLV) Buys $42 Million More Micron on Nov. 19",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/avantis-u-large-cap-value-110532984.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-23T11:05:32Z"
-        },
-        {
-          "title": "What iShares A.I. Innovation ETF (BAI) Bought: Anthropic Leads on Nov. 19",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-innovation-etf-bai-bought-110433413.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-23T11:04:33Z"
         }
       ]
     },
@@ -153,6 +127,12 @@
       "market_cap": 272553193511.9629,
       "headlines": [
         {
+          "title": "CrowdStrike, Zscaler, Anthropic, Sandisk, Strategy, Robinhood, and More Stocks That Explain Today\u2019s Market",
+          "url": "https://www.barrons.com/articles/stock-movers-901d6342?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-23T11:20:00Z"
+        },
+        {
           "title": "Why Did AMD Stock Move?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-amd-stock-move-111817722.html",
           "publisher": "Trefis",
@@ -163,12 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/triggered-drop-marvell-stock-111817087.html",
           "publisher": "Trefis",
           "published": "2026-11-23T11:18:17Z"
-        },
-        {
-          "title": "U.S. chip and neocloud stocks rally premarket after last week\u2019s selloff",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/u-chip-neocloud-stocks-rally-102133642.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-23T10:21:33Z"
         }
       ]
     },
@@ -237,6 +211,12 @@
       "market_cap": 110023370952.61298,
       "headlines": [
         {
+          "title": "CrowdStrike, Zscaler, Anthropic, Sandisk, Strategy, Robinhood, and More Stocks That Explain Today\u2019s Market",
+          "url": "https://www.barrons.com/articles/stock-movers-901d6342?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-23T11:20:00Z"
+        },
+        {
           "title": "Why Did AMD Stock Move?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-amd-stock-move-111817722.html",
           "publisher": "Trefis",
@@ -247,12 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/triggered-drop-marvell-stock-111817087.html",
           "publisher": "Trefis",
           "published": "2026-11-23T11:18:17Z"
-        },
-        {
-          "title": "3 Millionaire-Maker AI Chip Stocks Wall Street Isn't Talking About",
-          "url": "https://finance.yahoo.com/technology/ai/articles/3-millionaire-maker-ai-chip-105002735.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-23T10:50:02Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -13.89,
-          "price": 594.51,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -13.89,
-        "price": 594.51,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61246.3,
-      "change_pct": 0.14
+      "price": 61174.14,
+      "change_pct": 0.02
     },
     {
       "label": "Gold",
-      "price": 3619.3,
-      "change_pct": 2.96
+      "price": 3619.9,
+      "change_pct": 2.97
     },
     {
       "label": "Nasdaq100",

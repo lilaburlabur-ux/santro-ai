@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-23T23:31:10+00:00",
-  "as_of_local": "2026-11-23 23:31:10 UTC",
+  "as_of_utc": "2026-11-23T23:36:06+00:00",
+  "as_of_local": "2026-11-23 23:36:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -341,34 +343,6 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 90.67,
-      "previous_close": 86.79,
-      "change_pct": 4.47,
-      "market_cap": 4607912957.284515,
-      "headlines": [
-        {
-          "title": "Is It Too Early To Buy Kratos Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/too-early-buy-kratos-stock-130127011.html",
-          "publisher": "Trefis",
-          "published": "2026-11-23T13:01:27Z"
-        },
-        {
-          "title": "Can AeroVironment's $405 Million LOCUST X3 Order Expand Its Reach?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironments-405-million-locust-x3-135700754.html",
-          "publisher": "Zacks",
-          "published": "2026-11-20T13:57:00Z"
-        },
-        {
-          "title": "Is It Worth Investing in AeroVironment (AVAV) Based on Wall Street's Bullish Views?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/worth-investing-aerovironment-avav-based-133003567.html",
-          "publisher": "Zacks",
-          "published": "2026-11-20T13:30:03Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 25.47,
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61472.83,
-      "change_pct": 0.51
+      "price": 61395.88,
+      "change_pct": 0.38
     },
     {
       "label": "Gold",
-      "price": 3629.5,
-      "change_pct": 3.25
+      "price": 3632.7,
+      "change_pct": 3.34
     },
     {
       "label": "Nasdaq100",

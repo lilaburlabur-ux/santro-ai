@@ -1,18 +1,16 @@
 {
-  "as_of_utc": "2026-11-23T20:17:50+00:00",
-  "as_of_local": "2026-11-23 20:17:50 UTC",
+  "as_of_utc": "2026-11-23T20:22:50+00:00",
+  "as_of_local": "2026-11-23 20:22:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 165.62,
+      "price": 165.6,
       "previous_close": 125.53,
-      "change_pct": 31.94,
-      "market_cap": 3998984684738.159,
+      "change_pct": 31.92,
+      "market_cap": 3998743347381.592,
       "headlines": [
         {
           "title": "Nvidia gains nearly $1T as Trump says nobody could 'revive the stock like it's being revived'",
@@ -37,10 +35,10 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 364.67,
+      "price": 365.14,
       "previous_close": 318.71,
-      "change_pct": 14.42,
-      "market_cap": 1891376975775.5122,
+      "change_pct": 14.57,
+      "market_cap": 1893840582103.381,
       "headlines": [
         {
           "title": "Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30%",
@@ -65,10 +63,10 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 312.97,
+      "price": 313.18,
       "previous_close": 304.41,
-      "change_pct": 2.81,
-      "market_cap": 1493716538538.7046,
+      "change_pct": 2.88,
+      "market_cap": 1495578178432.6511,
       "headlines": [
         {
           "title": "Nvidia soars 30% as board reinstates Jensen Huang as CEO, chip stocks jump",
@@ -93,10 +91,10 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 708.12,
+      "price": 707.09,
       "previous_close": 594.51,
-      "change_pct": 19.11,
-      "market_cap": 801047634096.0,
+      "change_pct": 18.94,
+      "market_cap": 799984093514.4563,
       "headlines": [
         {
           "title": "Jensen Huang's return to Nvidia: Long or short accountability?",
@@ -121,10 +119,10 @@
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 451.24,
+      "price": 451.16,
       "previous_close": 424.39,
-      "change_pct": 6.33,
-      "market_cap": 746715956794.1909,
+      "change_pct": 6.31,
+      "market_cap": 746517306498.2129,
       "headlines": [
         {
           "title": "Why Jensen Huang is the 'key man' behind the market rally",
@@ -149,10 +147,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 58.92,
+      "price": 58.94,
       "previous_close": 51.28,
-      "change_pct": 14.9,
-      "market_cap": 313239532299.04175,
+      "change_pct": 14.94,
+      "market_cap": 313159790267.94434,
       "headlines": [
         {
           "title": "Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30%",
@@ -175,12 +173,40 @@
       ]
     },
     {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 177.01,
+      "previous_close": 152.2,
+      "change_pct": 16.3,
+      "market_cap": 189448842163.08594,
+      "headlines": [
+        {
+          "title": "Jensen Huang back at Nvidia, stock soars; Anthropic slides",
+          "url": "https://finance.yahoo.com/video/jensen-huang-back-at-nvidia-stock-soars-anthropic-slides-161339662.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-23T16:13:39Z"
+        },
+        {
+          "title": "Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30%",
+          "url": "https://finance.yahoo.com/video/jensen-huang-back-as-nvidia-ceo-after-12-days-shares-surge-30-161302539.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-23T16:13:02Z"
+        },
+        {
+          "title": "SoftBank Is the Real Winner of Arm Keeping Rene Haas Through 2033",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-real-winner-arm-keeping-193447579.html",
+          "publisher": "TIKR",
+          "published": "2026-11-23T19:34:47Z"
+        }
+      ]
+    },
+    {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 164.72,
+      "price": 164.75,
       "previous_close": 149.94,
-      "change_pct": 9.86,
-      "market_cap": 176298549346.92383,
+      "change_pct": 9.88,
+      "market_cap": 176228996734.61914,
       "headlines": [
         {
           "title": "How NVDA Stock Rises To $235?",
@@ -205,10 +231,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 144.8,
+      "price": 144.98,
       "previous_close": 122.28,
-      "change_pct": 18.42,
-      "market_cap": 130277096013.87137,
+      "change_pct": 18.56,
+      "market_cap": 130394069971.91946,
       "headlines": [
         {
           "title": "Tech stocks surge as Nvidia rally adds $2 trillion to Nasdaq 100",
@@ -233,10 +259,10 @@
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 255.83,
+      "price": 255.16,
       "previous_close": 235.15,
-      "change_pct": 8.79,
-      "market_cap": 64482716381.562805,
+      "change_pct": 8.51,
+      "market_cap": 64302499418.188416,
       "headlines": [
         {
           "title": "Analog Devices Isn't Restocking. It Trades Like Nvidia Now",
@@ -261,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 113.07,
+      "price": 112.89,
       "previous_close": 98.31,
-      "change_pct": 15.01,
-      "market_cap": 16081458837.966164,
+      "change_pct": 14.83,
+      "market_cap": 16060124767.296982,
       "headlines": [
         {
           "title": "Lattice Semiconductor Stock Jumps 14% as Chips Rally on Nvidia on Monday",
@@ -289,10 +315,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 117.23,
+      "price": 117.13,
       "previous_close": 115.74,
-      "change_pct": 1.29,
-      "market_cap": 4657374064.04599,
+      "change_pct": 1.2,
+      "market_cap": 4653400969.962372,
       "headlines": [
         {
           "title": "Top 3 AI Infrastructure Stocks To Watch In November 2026",
@@ -317,10 +343,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 91.38,
+      "price": 91.25,
       "previous_close": 86.79,
-      "change_pct": 5.28,
-      "market_cap": 4637389057.5,
+      "change_pct": 5.13,
+      "market_cap": 4637135093.573227,
       "headlines": [
         {
           "title": "Is It Too Early To Buy Kratos Stock?",
@@ -345,10 +371,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 25.36,
+      "price": 25.3,
       "previous_close": 22.41,
-      "change_pct": 13.16,
-      "market_cap": 723451686.0516663,
+      "change_pct": 12.87,
+      "market_cap": 722310568.9741669,
       "headlines": [
         {
           "title": "Nvidia News Has Investors Rethinking These U.S. AI Chip Stocks",
@@ -375,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 39.65,
-      "change_pct": 18.85,
+      "price": 39.63,
+      "change_pct": 18.81,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 19.11,
-          "price": 708.12,
+          "change_pct": 18.94,
+          "price": 707.09,
           "currency": "USD"
         },
         {
@@ -419,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -6.28,
-          "price": 88.47,
+          "change_pct": -6.31,
+          "price": 88.44,
           "currency": "USD"
         },
         {
@@ -428,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": 13.83,
-          "price": 520.22,
+          "change_pct": 13.95,
+          "price": 520.75,
           "currency": "USD"
         },
         {
@@ -437,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 14.85,
-          "price": 299.89,
+          "change_pct": 14.95,
+          "price": 300.14,
           "currency": "USD"
         },
         {
@@ -465,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 39.65,
-    "change_pct": 18.85,
+    "price": 39.63,
+    "change_pct": 18.81,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 19.11,
-        "price": 708.12,
+        "change_pct": 18.94,
+        "price": 707.09,
         "currency": "USD"
       },
       {
@@ -509,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -6.28,
-        "price": 88.47,
+        "change_pct": -6.31,
+        "price": 88.44,
         "currency": "USD"
       },
       {
@@ -518,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": 13.83,
-        "price": 520.22,
+        "change_pct": 13.95,
+        "price": 520.75,
         "currency": "USD"
       },
       {
@@ -527,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 14.85,
-        "price": 299.89,
+        "change_pct": 14.95,
+        "price": 300.14,
         "currency": "USD"
       },
       {
@@ -554,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7254.16,
-      "change_pct": 4.97
+      "price": 7256.85,
+      "change_pct": 5.01
     },
     {
       "label": "BTC",
-      "price": 61355.16,
-      "change_pct": 0.32
+      "price": 61146.0,
+      "change_pct": -0.03
     },
     {
       "label": "Gold",
-      "price": 3639.5,
-      "change_pct": 3.53
+      "price": 3641.3,
+      "change_pct": 3.58
     },
     {
       "label": "Nasdaq100",
-      "price": 26793.24,
-      "change_pct": 7.05
+      "price": 26798.28,
+      "change_pct": 7.07
     }
   ]
 }

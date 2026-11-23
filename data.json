@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-23T01:47:34+00:00",
-  "as_of_local": "2026-11-23 01:47:34 UTC",
+  "as_of_utc": "2026-11-23T02:02:31+00:00",
+  "as_of_local": "2026-11-23 02:02:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -28,7 +30,7 @@
           "title": "Dow Jones Futures Rise As Oracle, Korea Try To Ease Market Fears; Look For These Absolute Losers",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-worst-week-covid-nvidia-anthropic-vix-fear-gauge/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-23T01:23:38Z"
+          "published": "2026-11-23T01:53:28Z"
         }
       ]
     },
@@ -113,34 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-amd-nvidia-stock-prices-160402811.html",
           "publisher": "Motley Fool",
           "published": "2026-11-22T16:04:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 594.51,
-      "previous_close": 690.44,
-      "change_pct": -13.89,
-      "market_cap": 672642424815.1748,
-      "headlines": [
-        {
-          "title": "Charlie Bilello Flags the Nasdaq 100\u2019s First Bear Market Since April 2025",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/charlie-bilello-flags-nasdaq-100-211716795.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-22T21:17:16Z"
-        },
-        {
-          "title": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters",
-          "url": "https://finance.yahoo.com/markets/article/stocks-are-on-fire-sale-as-anthropic-ipo-fails-to-calm-ai-trade-jitters-190051253.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-22T19:00:51Z"
-        },
-        {
-          "title": "Micron Technology vs. Sandisk: Which Technology Stock Is a Better Buy for 2027?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-vs-sandisk-technology-190008785.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-22T19:00:08Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -13.89,
-          "price": 594.51,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -3.32,
-          "price": 1076000.0,
+          "change_pct": -2.96,
+          "price": 1080000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -3.6,
-          "price": 176500.0,
+          "change_pct": -3.5,
+          "price": 176700.0,
           "currency": "KRW"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -2.08,
-          "price": 259.0,
+          "change_pct": 0.0,
+          "price": 264.5,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -0.11,
-          "price": 89.1,
+          "change_pct": 3.03,
+          "price": 91.9,
           "currency": "TWD"
         }
       ]
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -13.89,
-        "price": 594.51,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -3.32,
-        "price": 1076000.0,
+        "change_pct": -2.96,
+        "price": 1080000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -3.6,
-        "price": 176500.0,
+        "change_pct": -3.5,
+        "price": 176700.0,
         "currency": "KRW"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -2.08,
-        "price": 259.0,
+        "change_pct": 0.0,
+        "price": 264.5,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -0.11,
-        "price": 89.1,
+        "change_pct": 3.03,
+        "price": 91.9,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60801.95,
-      "change_pct": 1.18
+      "price": 60778.07,
+      "change_pct": 1.14
     },
     {
       "label": "Gold",
-      "price": 3604.5,
-      "change_pct": 2.53
+      "price": 3601.9,
+      "change_pct": 2.46
     },
     {
       "label": "Nasdaq100",

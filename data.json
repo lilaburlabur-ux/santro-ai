@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-23T11:18:25+00:00",
-  "as_of_local": "2026-11-23 11:18:25 UTC",
+  "as_of_utc": "2026-11-23T11:23:48+00:00",
+  "as_of_local": "2026-11-23 11:23:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LSCC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-11-23T11:11:58Z"
         },
         {
-          "title": "What Proshares Trust (TQQQ) Bought: Apple Leads on Nov. 19",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/proshares-trust-tqqq-bought-apple-110504306.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-23T11:05:04Z"
+          "title": "Big Tech Rebound on Wall Street Pre-Bell; Asia Off, Europe Up",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/big-tech-rebound-wall-street-111142735.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-23T11:11:42Z"
         },
         {
-          "title": "How Many JPMorgan Chase Shares You Need to Collect $6,000 a Year in Dividends",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/many-jpmorgan-chase-shares-collect-110502337.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-23T11:05:02Z"
+          "title": "US Equity Investors to Focus on AI Trade Rebound Amid Fed's Preferred Inflation Data, Retailers' Quarterly Results This Week",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-investors-focus-ai-110901621.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-23T11:09:01Z"
         }
       ]
     },
@@ -281,34 +283,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ambarella-stock-soars-reports-nxp-195145202.html",
           "publisher": "Barchart",
           "published": "2026-11-19T19:51:45Z"
-        }
-      ]
-    },
-    {
-      "symbol": "LSCC",
-      "name": "Lattice Semiconductor",
-      "price": 98.31,
-      "previous_close": 110.92,
-      "change_pct": -11.37,
-      "market_cap": 13982207334.97931,
-      "headlines": [
-        {
-          "title": "A $12 Billion Fund Just Bought These 3 Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/12-billion-fund-just-bought-145804800.html",
-          "publisher": "TIKR",
-          "published": "2026-11-20T14:58:04Z"
-        },
-        {
-          "title": "What Have Lattice Stock Holders Had To Sit Through?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-stock-holders-had-sit-170446338.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T17:04:46Z"
-        },
-        {
-          "title": "3 AI Data Center Stocks Retail Investors Are Watching After Nvidia News",
-          "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-data-center-stocks-011105971.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-18T01:11:05Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61256.43,
-      "change_pct": 0.15
+      "price": 61308.25,
+      "change_pct": 0.24
     },
     {
       "label": "Gold",
-      "price": 3622.7,
-      "change_pct": 3.05
+      "price": 3621.7,
+      "change_pct": 3.02
     },
     {
       "label": "Nasdaq100",

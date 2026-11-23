@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-23T08:41:22+00:00",
-  "as_of_local": "2026-11-23 08:41:22 UTC",
+  "as_of_utc": "2026-11-23T08:46:31+00:00",
+  "as_of_local": "2026-11-23 08:46:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -115,6 +113,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-gained-nvidia-china-scandal-190104037.html",
           "publisher": "Barchart",
           "published": "2026-11-22T19:01:04Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 594.51,
+      "previous_close": 690.44,
+      "change_pct": -13.89,
+      "market_cap": 672642424815.1748,
+      "headlines": [
+        {
+          "title": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says \u2018Bears Feel Validated,\u2019 But There\u2019s No Stopping The AI Wave",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-intc-mu-amd-chip-022405766.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-23T02:24:05Z"
+        },
+        {
+          "title": "David Tepper's Micron bet raises a $32 billion question",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/david-teppers-micron-bet-raises-020300674.html",
+          "publisher": "TheStreet",
+          "published": "2026-11-23T02:03:00Z"
+        },
+        {
+          "title": "Charlie Bilello Flags the Nasdaq 100\u2019s First Bear Market Since April 2025",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/charlie-bilello-flags-nasdaq-100-211716795.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-22T21:17:16Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -13.89,
+          "price": 594.51,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -13.89,
+        "price": 594.51,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61420.28,
-      "change_pct": 0.42
+      "price": 61502.14,
+      "change_pct": 0.56
     },
     {
       "label": "Gold",
-      "price": 3607.7,
-      "change_pct": 2.63
+      "price": 3606.3,
+      "change_pct": 2.59
     },
     {
       "label": "Nasdaq100",

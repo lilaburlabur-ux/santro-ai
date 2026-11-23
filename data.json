@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-23T00:57:23+00:00",
-  "as_of_local": "2026-11-23 00:57:23 UTC",
+  "as_of_utc": "2026-11-23T01:07:20+00:00",
+  "as_of_local": "2026-11-23 01:07:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -28,7 +30,7 @@
           "title": "Dow Jones Futures Rise As Oracle, Korea Try To Ease Market Fears; Look For These Absolute Losers",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-worst-week-covid-nvidia-anthropic-vix-fear-gauge/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-23T00:47:34Z"
+          "published": "2026-11-23T00:53:00Z"
         }
       ]
     },
@@ -97,6 +99,12 @@
       "market_cap": 702393302769.5946,
       "headlines": [
         {
+          "title": "AMD Gained From Nvidia\u2019s China Scandal. Now a Short Seller Says AMD Has a China Problem Too.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-gained-nvidia-china-scandal-190104037.html",
+          "publisher": "Barchart",
+          "published": "2026-11-22T19:01:04Z"
+        },
+        {
           "title": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters",
           "url": "https://finance.yahoo.com/markets/article/stocks-are-on-fire-sale-as-anthropic-ipo-fails-to-calm-ai-trade-jitters-190051253.html",
           "publisher": "Yahoo Finance",
@@ -107,40 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-amd-nvidia-stock-prices-160402811.html",
           "publisher": "Motley Fool",
           "published": "2026-11-22T16:04:02Z"
-        },
-        {
-          "title": "Arm Sinks 20% in a Week as Chips Slide and Nvidia\u2019s Headhunters Approach CEO Rene Haas. Time to Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-sinks-20-week-chips-133527300.html",
-          "publisher": "TIKR",
-          "published": "2026-11-22T13:35:27Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 594.51,
-      "previous_close": 690.44,
-      "change_pct": -13.89,
-      "market_cap": 672642424815.1748,
-      "headlines": [
-        {
-          "title": "Charlie Bilello Flags the Nasdaq 100\u2019s First Bear Market Since April 2025",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/charlie-bilello-flags-nasdaq-100-211716795.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-22T21:17:16Z"
-        },
-        {
-          "title": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters",
-          "url": "https://finance.yahoo.com/markets/article/stocks-are-on-fire-sale-as-anthropic-ipo-fails-to-calm-ai-trade-jitters-190051253.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-22T19:00:51Z"
-        },
-        {
-          "title": "Micron Technology vs. Sandisk: Which Technology Stock Is a Better Buy for 2027?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-vs-sandisk-technology-190008785.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-22T19:00:08Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -13.89,
-          "price": 594.51,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -3.32,
-          "price": 1076000.0,
+          "change_pct": -3.5,
+          "price": 1074000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -4.37,
-          "price": 175100.0,
+          "change_pct": -4.53,
+          "price": 174800.0,
           "currency": "KRW"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -13.89,
-        "price": 594.51,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -3.32,
-        "price": 1076000.0,
+        "change_pct": -3.5,
+        "price": 1074000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -4.37,
-        "price": 175100.0,
+        "change_pct": -4.53,
+        "price": 174800.0,
         "currency": "KRW"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61208.76,
-      "change_pct": 1.85
+      "price": 60907.45,
+      "change_pct": 1.35
     },
     {
       "label": "Gold",
-      "price": 3577.6,
-      "change_pct": 1.77
+      "price": 3575.3,
+      "change_pct": 1.7
     },
     {
       "label": "Nasdaq100",

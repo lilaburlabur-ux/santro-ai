@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-23T21:39:30+00:00",
-  "as_of_local": "2026-11-23 21:39:30 UTC",
+  "as_of_utc": "2026-11-23T21:44:30+00:00",
+  "as_of_local": "2026-11-23 21:44:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": 31.48,
       "market_cap": 3985462423690.796,
       "headlines": [
+        {
+          "title": "3 truths that Jensen Huang's return to Nvidia made clear",
+          "url": "https://finance.yahoo.com/video/3-truths-that-jensen-huangs-return-to-nvidia-made-clear-213610744.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-23T21:36:10Z"
+        },
         {
           "title": "Elon Musk on his support for Jensen Huang: 'Fair-weather friends are worthless'",
           "url": "https://finance.yahoo.com/markets/article/musk-on-support-for-jensen-huangs-return-to-nvidia-fair-weather-friends-are-worthless-212613771.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/video/jensen-huangs-reinstatement-changes-how-politics-business-interact-forever-212537409.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-23T21:25:37Z"
-        },
-        {
-          "title": "Nvidia gains nearly $1T as Trump says nobody could 'revive the stock like it's being revived'",
-          "url": "https://finance.yahoo.com/markets/article/nvidia-gains-nearly-1t-as-trump-says-nobody-could-revive-the-stock-like-its-being-revived-194634496.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-23T19:46:34Z"
         }
       ]
     },
@@ -229,34 +231,6 @@
       ]
     },
     {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 144.74,
-      "previous_close": 122.28,
-      "change_pct": 18.37,
-      "market_cap": 130232118703.24161,
-      "headlines": [
-        {
-          "title": "Tech stocks surge as Nvidia rally adds $2 trillion to Nasdaq 100",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-surge-nvidia-rally-192000003.html",
-          "publisher": "Proactive",
-          "published": "2026-11-23T19:20:00Z"
-        },
-        {
-          "title": "Why Did Broadcom Stock Drop On Friday?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-broadcom-stock-drop-190504586.html",
-          "publisher": "Trefis",
-          "published": "2026-11-23T19:05:04Z"
-        },
-        {
-          "title": "Marvell Stocks Jump 15.43% as AI Chip Rebound Sets Up December 1 Report",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stocks-jump-15-43-175525167.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-23T17:55:25Z"
-        }
-      ]
-    },
-    {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
       "price": 256.03,
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -5.92,
-          "price": 1113000.0,
+          "change_pct": -2.52,
+          "price": 1085000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -7.01,
-          "price": 183100.0,
+          "change_pct": -3.06,
+          "price": 177500.0,
           "currency": "KRW"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -9.88,
-          "price": 264.5,
+          "change_pct": 6.24,
+          "price": 281.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -8.98,
-          "price": 89.2,
+          "change_pct": 7.06,
+          "price": 95.5,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -5.92,
-        "price": 1113000.0,
+        "change_pct": -2.52,
+        "price": 1085000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -7.01,
-        "price": 183100.0,
+        "change_pct": -3.06,
+        "price": 177500.0,
         "currency": "KRW"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -9.88,
-        "price": 264.5,
+        "change_pct": 6.24,
+        "price": 281.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -8.98,
-        "price": 89.2,
+        "change_pct": 7.06,
+        "price": 95.5,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61252.89,
-      "change_pct": 0.15
+      "price": 61230.25,
+      "change_pct": 0.11
     },
     {
       "label": "Gold",
-      "price": 3636.1,
-      "change_pct": 3.43
+      "price": 3633.7,
+      "change_pct": 3.37
     },
     {
       "label": "Nasdaq100",

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-23T00:22:13+00:00",
+  "as_of": "2026-11-23T00:37:45+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -25,6 +25,22 @@
   },
   {
    "rank": 2,
+   "ticker": "MRVL",
+   "company": "Marvell Technology Inc",
+   "move_pct": -11.69,
+   "price": 122.28,
+   "volume": 40302600,
+   "volume_vs_avg": "~1.5x",
+   "heat_score": 73,
+   "direction": "down",
+   "why": "Arm vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy for 2027?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/arm-vs-marvell-technology-artificial-001005246.html",
+   "published": "2026-11-23T00:10:05+00:00",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 3,
    "ticker": "INTU",
    "company": "Intuit Inc",
    "move_pct": -12.77,
@@ -40,7 +56,23 @@
    "sector": "AI Applications & Data Software"
   },
   {
-   "rank": 3,
+   "rank": 4,
+   "ticker": "SOUN",
+   "company": "SoundHound AI Inc",
+   "move_pct": -10.31,
+   "price": 2.61,
+   "volume": 26075900,
+   "volume_vs_avg": "~1.5x",
+   "heat_score": 68,
+   "direction": "down",
+   "why": "Down 75%, SoundHound AI Stock Needs This 1 Thing to Happen by 2027",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/down-75-soundhound-ai-stock-001002757.html",
+   "published": "2026-11-23T00:10:02+00:00",
+   "sector": "AI Applications & Data Software"
+  },
+  {
+   "rank": 5,
    "ticker": "ORCL",
    "company": "Oracle Corp",
    "move_pct": -8.48,
@@ -52,11 +84,11 @@
    "why": "Dow Jones Futures Rise As Oracle, Korea Try To Ease Market Fears; Look For These Absolute Losers",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/m/9ef9da98-bccf-3565-9a30-9bc3e57ad4b9/dow-jones-futures-rise-as.html",
-   "published": "2026-11-23T00:01:00+00:00",
+   "published": "2026-11-23T00:16:34+00:00",
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
-   "rank": 4,
+   "rank": 6,
    "ticker": "UPST",
    "company": "Upstart Holdings Inc",
    "move_pct": -7.88,
@@ -72,7 +104,7 @@
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
-   "rank": 5,
+   "rank": 7,
    "ticker": "SPCX",
    "company": "SpaceX",
    "move_pct": -7.69,
@@ -88,7 +120,7 @@
    "sector": "Applied AI: Industrial, Defense & Vertical"
   },
   {
-   "rank": 6,
+   "rank": 8,
    "ticker": "TSLA",
    "company": "Tesla Inc",
    "move_pct": -7.64,
@@ -102,22 +134,6 @@
    "source_url": "https://finance.yahoo.com/technology/articles/elon-musk-doubles-down-autonomy-213007363.html",
    "published": "2026-11-22T21:30:07+00:00",
    "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 7,
-   "ticker": "PLTR",
-   "company": "Palantir Technologies Inc",
-   "move_pct": -6.63,
-   "price": 143.49,
-   "volume": 36556700,
-   "volume_vs_avg": "~2x",
-   "heat_score": 46,
-   "direction": "down",
-   "why": "Palantir Technologies (PLTR) Co Hosts Sovereign AI Defense Summit",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/palantir-technologies-pltr-co-hosts-210650181.html",
-   "published": "2026-11-22T21:06:50+00:00",
-   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

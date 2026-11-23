@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-23T22:04:49+00:00",
-  "as_of_local": "2026-11-23 22:04:49 UTC",
+  "as_of_utc": "2026-11-23T22:09:46+00:00",
+  "as_of_local": "2026-11-23 22:09:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/video/3-truths-that-jensen-huangs-return-to-nvidia-made-clear-213610744.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-23T21:36:10Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 363.6,
-      "previous_close": 318.71,
-      "change_pct": 14.08,
-      "market_cap": 1885801612274.119,
-      "headlines": [
-        {
-          "title": "Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30%",
-          "url": "https://finance.yahoo.com/video/jensen-huang-back-as-nvidia-ceo-after-12-days-shares-surge-30-161302539.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-23T16:13:02Z"
-        },
-        {
-          "title": "Why TSMC Stock Soared Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-tsmc-stock-soared-today-212049972.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-23T21:20:49Z"
-        },
-        {
-          "title": "Billionaire Andreas Halvorsen Exited Microsoft and Made TSMC His Top Holding at $1.8 Billion",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-andreas-halvorsen-exited-microsoft-205726437.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-23T20:57:26Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61207.0,
-      "change_pct": 0.07
+      "price": 61250.51,
+      "change_pct": 0.14
     },
     {
       "label": "Gold",
-      "price": 3633.0,
-      "change_pct": 3.35
+      "price": 3634.6,
+      "change_pct": 3.39
     },
     {
       "label": "Nasdaq100",

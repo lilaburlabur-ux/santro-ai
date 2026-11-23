@@ -4,7 +4,7 @@ Signed file: `TSM.research.23.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $364.95 (2026-11-23, ~15-min delayed) |
+| Current price | $363.60 (2026-11-23, ~15-min delayed) |
 | Market cap | $1.89T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,10 +15,10 @@ Signed file: `TSM.research.23.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-9.29%) with negative half-year (-11.04%). |
-| Fresh setup quality | Moderate / wait | -24.88% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-9.63%) with negative half-year (-11.37%). |
+| Fresh setup quality | Poor / broken | -25.15% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 51.12%, revenue growth 50.90%. |
-| Value attractiveness | Reasonable | Forward P/E 15.61, EV/Sales 2.09. |
+| Value attractiveness | Reasonable | Forward P/E 15.55, EV/Sales 2.09. |
 | Risk level | High | Beta 1.23, ATR 6.2% of price, short float 0.66%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -37,29 +37,29 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Headline | Source | Date |
 |---|---|---|
 | Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30% | Yahoo Finance Video | 2026-11-23 |
+| Billionaire Andreas Halvorsen Exited Microsoft and Made TSMC His Top Holding at $1.8 Billion | 24/7 Wall St. | 2026-11-23 |
 | Jensen Huang’s Return Just Added About $500 Billion to Micron, Dell, TSMC and the AI Stocks That Depend on Nvidia | 24/7 Wall St. | 2026-11-23 |
-| History Says TSMC Stock Falls Before Its Sales | Trefis | 2026-11-23 |
-| Tech stocks surge as Nvidia rally adds $2 trillion to Nasdaq 100 | Proactive | 2026-11-23 |
+| Why Anthropic’s Stock Is Sitting Out Nvidia’s Big Rally | Barrons.com | 2026-11-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $364.95; 52w high $485.80 (-24.88%); 52w low $272.18 (+34.08%) |
-| Trend | -9.29% vs SMA200, -13.33% vs SMA50, -6.14% vs SMA20 |
-| Momentum | RSI(14) 43.4 (neutral) |
+| Price vs 52-week range | Close $363.60; 52w high $485.80 (-25.15%); 52w low $272.18 (+33.59%) |
+| Trend | -9.63% vs SMA200, -13.64% vs SMA50, -6.47% vs SMA20 |
+| Momentum | RSI(14) 43.1 (neutral) |
 | Volatility | ATR(14) 22.57 (~6.2% of price); beta 1.23 |
-| Setup perspective | -24.88% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -25.15% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -2.3% |
-| Month | -12.8% |
-| Quarter | -12.3% |
-| Half Y | -11.0% |
-| 1Y | +32.9% |
-| YTD | +15.1% |
+| Week | -2.6% |
+| Month | -13.1% |
+| Quarter | -12.7% |
+| Half Y | -11.4% |
+| 1Y | +32.4% |
+| YTD | +14.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.94T | Revenue growth 50.90% y/y |
 | Profitability | Gross 65.85%, operating 57.96%, net 51.12% | ROA 20.58%, ROE 41.86% |
 | Balance sheet | Cash $4.02T, debt $1.07T | Current ratio 2.58, debt/equity 15.19 |
-| Valuation | P/E 23.65, forward P/E 15.61, P/S 0.38, P/B 70.10 | EV/Sales 2.09, EV/EBITDA 2.87 |
+| Valuation | P/E 23.56, forward P/E 15.55, P/S 0.38, P/B 69.84 | EV/Sales 2.09, EV/EBITDA 2.87 |
 | Growth expectations | Earnings growth 68.70%, EPS q/q 68.70% | Analyst mean target $586.69 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -96,6 +96,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 ## 6. Risk Review and Setup Plan
 - **Volatility risk:** Beta 1.23, ATR 6.2% of price, short float 0.66%. Size positions accordingly.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -110,21 +111,21 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $364.95 | EV/Sales | 2.09 |
+| Price | $363.60 | EV/Sales | 2.09 |
 | Market cap | $1.89T | EV/EBITDA | 2.87 |
 | Beta | 1.23 | Gross margin | 65.85% |
-| RSI(14) | 43.4 | Operating margin | 57.96% |
+| RSI(14) | 43.1 | Operating margin | 57.96% |
 | ATR(14) | 22.57 | Profit margin | 51.12% |
-| SMA20 dist | -6.14% | ROA | 20.58% |
-| SMA50 dist | -13.33% | ROE | 41.86% |
-| SMA200 dist | -9.29% | Revenue (ttm) | $4.94T |
+| SMA20 dist | -6.47% | ROA | 20.58% |
+| SMA50 dist | -13.64% | ROE | 41.86% |
+| SMA200 dist | -9.63% | Revenue (ttm) | $4.94T |
 | 52W high | $485.80 | Revenue growth y/y | 50.90% |
 | 52W low | $272.18 | Inst. ownership | 15.42% |
-| P/E (ttm) | 23.65 | Insider ownership | 0.02% |
-| Forward P/E | 15.61 | Short float | 0.66% |
+| P/E (ttm) | 23.56 | Insider ownership | 0.02% |
+| Forward P/E | 15.55 | Short float | 0.66% |
 | PEG (trailing) | 0.58 | Avg volume | 12,522,364 |
 | P/S | 0.38 | Employees | 76,907 |
-| P/B | 70.10 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 69.84 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

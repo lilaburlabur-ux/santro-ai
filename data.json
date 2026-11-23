@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-23T06:14:50+00:00",
-  "as_of_local": "2026-11-23 06:14:50 UTC",
+  "as_of_utc": "2026-11-23T06:29:50+00:00",
+  "as_of_local": "2026-11-23 06:29:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,22 +15,22 @@
       "market_cap": 3031172880523.6816,
       "headlines": [
         {
+          "title": "Nvidia Just Reported Its First Quarter Without Jensen Huang. If the AI Trade Is Cracking, Warren Buffett\u2019s Advice Comes Down to 1 Move.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-reported-first-quarter-062002946.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-23T06:20:02Z"
+        },
+        {
+          "title": "Anthropic Stock Trend, Jensen Huang\u2019s Potential Return As Nvidia CEO And Dell\u2019s Q4 Results To Keep Tech Investors Busy This Week",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-stock-trend-jensen-huang-061445698.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-23T06:14:45Z"
+        },
+        {
           "title": "It\u2019s time to follow the cash at Nvidia",
           "url": "https://finance.yahoo.com/news/time-cash-nvidia-060000333.html",
           "publisher": "The Telegraph",
           "published": "2026-11-23T06:00:00Z"
-        },
-        {
-          "title": "Morning Bid: AI, caramba!",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-ai-caramba-053639067.html",
-          "publisher": "Reuters",
-          "published": "2026-11-23T05:36:39Z"
-        },
-        {
-          "title": "Tech back in the firing line as traders track Wall Street rout",
-          "url": "https://finance.yahoo.com/technology/ai/articles/tech-back-firing-line-traders-052014032.html",
-          "publisher": "Euronews",
-          "published": "2026-11-23T05:20:14Z"
         }
       ]
     },
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/heres-1-000-investment-broadcom-192202429.html",
           "publisher": "Motley Fool",
           "published": "2026-11-22T19:22:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 424.39,
-      "previous_close": 489.19,
-      "change_pct": -13.25,
-      "market_cap": 702393302769.5946,
-      "headlines": [
-        {
-          "title": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says \u2018Bears Feel Validated,\u2019 But There\u2019s No Stopping The AI Wave",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-intc-mu-amd-chip-022405766.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-23T02:24:05Z"
-        },
-        {
-          "title": "AMD vs. Nvidia Stock After Jensen Huang\u2019s Exit: 1 Trades at Nearly 4x the Other\u2019s Earnings Multiple. Here\u2019s the AI Chip Stock I\u2019d Buy Now.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-vs-nvidia-stock-jensen-212513753.html",
-          "publisher": "Barchart",
-          "published": "2026-11-22T21:25:13Z"
-        },
-        {
-          "title": "AMD Gained From Nvidia\u2019s China Scandal. Now a Short Seller Says AMD Has a China Problem Too.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-gained-nvidia-china-scandal-190104037.html",
-          "publisher": "Barchart",
-          "published": "2026-11-22T19:01:04Z"
         }
       ]
     },
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -1.89,
-          "price": 1092000.0,
+          "change_pct": -2.07,
+          "price": 1090000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -2.46,
-          "price": 178600.0,
+          "change_pct": -2.73,
+          "price": 178100.0,
           "currency": "KRW"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -1.89,
-        "price": 1092000.0,
+        "change_pct": -2.07,
+        "price": 1090000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -2.46,
-        "price": 178600.0,
+        "change_pct": -2.73,
+        "price": 178100.0,
         "currency": "KRW"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61690.5,
-      "change_pct": 2.66
+      "price": 61476.3,
+      "change_pct": 2.3
     },
     {
       "label": "Gold",
-      "price": 3617.3,
-      "change_pct": 2.9
+      "price": 3620.6,
+      "change_pct": 2.99
     },
     {
       "label": "Nasdaq100",

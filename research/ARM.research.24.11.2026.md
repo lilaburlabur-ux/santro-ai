@@ -38,8 +38,8 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 |---|---|---|
 | Jensen Huang back at Nvidia, stock soars; Anthropic slides | Yahoo Finance Video | 2026-11-23 |
 | Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30% | Yahoo Finance Video | 2026-11-23 |
+| Nvidia’s Board Had Other Options: Robert Maciejko | CorpGov.com | 2026-11-23 |
 | Nvidia, Dell, Micron, Anthropic, CrowdStrike, UnitedHealth, and More Stocks That Explain Today’s Market | Barrons.com | 2026-11-23 |
-| Nvidia soars 31% as board reinstates Jensen Huang as CEO, chip stocks jump | Yahoo Finance | 2026-11-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

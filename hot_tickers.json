@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-24T09:16:55+00:00",
+  "as_of": "2026-11-24T09:32:01+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "HPE",
    "company": "Hewlett Packard Enterprise Co",
-   "move_pct": -9.29,
-   "price": 43.56,
+   "move_pct": -9.41,
+   "price": 43.5,
    "volume": 44420100,
    "volume_vs_avg": "~3x",
    "heat_score": 71,
@@ -27,16 +27,16 @@
    "rank": 2,
    "ticker": "NVDA",
    "company": "NVIDIA Corp",
-   "move_pct": -4.11,
-   "price": 158.26,
+   "move_pct": -3.67,
+   "price": 159.0,
    "volume": 779184200,
    "volume_vs_avg": "~3x",
-   "heat_score": 47,
+   "heat_score": 45,
    "direction": "down",
-   "why": "Some in Jensen Huang\u2019s native Taiwan welcome his return to Nvidia despite scandal",
+   "why": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as investors test Nvidia-fueled rally",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-native-taiwan-welcome-084941247.html",
-   "published": "2026-11-24T08:49:41+00:00",
+   "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html",
+   "published": "2026-11-24T09:06:14+00:00",
    "sector": "AI Chips & Compute"
   }
  ]

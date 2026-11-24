@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Finviz theme:artificialintelligence",
-  "as_of": "2026-11-24 23:16 UTC",
+  "as_of": "2026-11-24 23:17 UTC",
   "total_tickers": 111,
   "min_bubble_size": 7,
   "render_spec": {
@@ -18,7 +18,7 @@
    "label": "AI Chips & Compute",
    "color": "#4F8EF7",
    "count": 14,
-   "total_market_cap_b": 9066.34,
+   "total_market_cap_b": 9066.3,
    "avg_change_pct": -5.81,
    "industries_included": [
     "Semiconductors"
@@ -172,7 +172,7 @@
       304.41,
       301.08
      ],
-     "fwd_eps": 19.39
+     "fwd_eps": 19.33
     },
     {
      "ticker": "MU",
@@ -272,7 +272,7 @@
       424.39,
       413.27
      ],
-     "fwd_eps": 17.64
+     "fwd_eps": 17.62
     },
     {
      "ticker": "INTC",
@@ -325,56 +325,6 @@
      "fwd_eps": 1.79
     },
     {
-     "ticker": "QCOM",
-     "company": "Qualcomm Inc",
-     "sector": "Technology",
-     "industry": "Semiconductors",
-     "country": "USA",
-     "market_cap_b": 174.91,
-     "pe": 12.99,
-     "price": 165.65,
-     "change_pct": 0.16,
-     "volume": 13614624,
-     "perf": {
-      "1W": -1.0,
-      "1M": -8.2,
-      "1Y": 3.1
-     },
-     "spark": [
-      169.04,
-      168.74,
-      176.4,
-      181.97,
-      187.8,
-      188.71,
-      194.23,
-      197.24,
-      201.97,
-      184.1,
-      182.09,
-      180.79,
-      177.12,
-      175.5,
-      176.86,
-      178.4,
-      173.53,
-      177.96,
-      175.91,
-      184.17,
-      185.41,
-      162.08,
-      173.19,
-      165.41,
-      173.53,
-      177.14,
-      168.52,
-      159.81,
-      149.94,
-      164.96
-     ],
-     "fwd_eps": 12.18
-    },
-    {
      "ticker": "ARM",
      "company": "Arm Holdings Plc ADR",
      "sector": "Technology",
@@ -423,6 +373,56 @@
       161.56
      ],
      "fwd_eps": 3.09
+    },
+    {
+     "ticker": "QCOM",
+     "company": "Qualcomm Inc",
+     "sector": "Technology",
+     "industry": "Semiconductors",
+     "country": "USA",
+     "market_cap_b": 174.91,
+     "pe": 12.99,
+     "price": 165.65,
+     "change_pct": 0.16,
+     "volume": 13614624,
+     "perf": {
+      "1W": -1.0,
+      "1M": -8.2,
+      "1Y": 3.1
+     },
+     "spark": [
+      169.04,
+      168.74,
+      176.4,
+      181.97,
+      187.8,
+      188.71,
+      194.23,
+      197.24,
+      201.97,
+      184.1,
+      182.09,
+      180.79,
+      177.12,
+      175.5,
+      176.86,
+      178.4,
+      173.53,
+      177.96,
+      175.91,
+      184.17,
+      185.41,
+      162.08,
+      173.19,
+      165.41,
+      173.53,
+      177.14,
+      168.52,
+      159.81,
+      149.94,
+      164.96
+     ],
+     "fwd_eps": 12.18
     },
     {
      "ticker": "MRVL",
@@ -734,7 +734,7 @@
    "label": "AI Software & Cloud Infrastructure",
    "color": "#9B6BF7",
    "count": 6,
-   "total_market_cap_b": 4433.93,
+   "total_market_cap_b": 4433.9,
    "avg_change_pct": 0.62,
    "industries_included": [
     "Software - Infrastructure"
@@ -1049,7 +1049,7 @@
    "label": "AI Applications & Data Software",
    "color": "#F7A14F",
    "count": 11,
-   "total_market_cap_b": 870.68,
+   "total_market_cap_b": 870.7,
    "avg_change_pct": 1.47,
    "industries_included": [
     "Software - Application"
@@ -1156,56 +1156,6 @@
      "fwd_eps": 16.01
     },
     {
-     "ticker": "NOW",
-     "company": "ServiceNow Inc",
-     "sector": "Technology",
-     "industry": "Software - Application",
-     "country": "USA",
-     "market_cap_b": 93.37,
-     "pe": 66.0,
-     "price": 91.14,
-     "change_pct": -0.63,
-     "volume": 12584409,
-     "perf": {
-      "1W": -1.2,
-      "1M": -42.0,
-      "1Y": -44.4
-     },
-     "spark": [
-      136.72,
-      141.26,
-      131.11,
-      132.53,
-      141.9,
-      138.47,
-      137.68,
-      140.78,
-      135.62,
-      129.94,
-      137.76,
-      136.08,
-      137.87,
-      140.86,
-      138.61,
-      148.57,
-      145.36,
-      153.12,
-      158.96,
-      154.78,
-      109.67,
-      106.01,
-      108.81,
-      101.97,
-      99.61,
-      100.66,
-      99.37,
-      90.59,
-      87.61,
-      91.74
-     ],
-     "fwd_eps": 4.8
-    },
-    {
      "ticker": "SNOW",
      "company": "Snowflake Inc",
      "sector": "Technology",
@@ -1254,6 +1204,56 @@
       271.09
      ],
      "fwd_eps": 3.08
+    },
+    {
+     "ticker": "NOW",
+     "company": "ServiceNow Inc",
+     "sector": "Technology",
+     "industry": "Software - Application",
+     "country": "USA",
+     "market_cap_b": 93.37,
+     "pe": 66.0,
+     "price": 91.14,
+     "change_pct": -0.63,
+     "volume": 12584409,
+     "perf": {
+      "1W": -1.2,
+      "1M": -42.0,
+      "1Y": -44.4
+     },
+     "spark": [
+      136.72,
+      141.26,
+      131.11,
+      132.53,
+      141.9,
+      138.47,
+      137.68,
+      140.78,
+      135.62,
+      129.94,
+      137.76,
+      136.08,
+      137.87,
+      140.86,
+      138.61,
+      148.57,
+      145.36,
+      153.12,
+      158.96,
+      154.78,
+      109.67,
+      106.01,
+      108.81,
+      101.97,
+      99.61,
+      100.66,
+      99.37,
+      90.59,
+      87.61,
+      91.74
+     ],
+     "fwd_eps": 4.81
     },
     {
      "ticker": "ADBE",
@@ -1312,7 +1312,7 @@
      "industry": "Software - Application",
      "country": "USA",
      "market_cap_b": 76.64,
-     "pe": 16.98,
+     "pe": 15.9,
      "price": 278.89,
      "change_pct": 1.24,
      "volume": 3620729,
@@ -1353,7 +1353,7 @@
       270.44,
       279.42
      ],
-     "fwd_eps": 26.92
+     "fwd_eps": 25.85
     },
     {
      "ticker": "DDOG",
@@ -1606,7 +1606,7 @@
      "fwd_eps": 0.79
     }
    ],
-   "pe_harmonic": 23.4,
+   "pe_harmonic": 23.2,
    "pe_excluded": 4
   },
   {
@@ -1614,7 +1614,7 @@
    "label": "Chip Equipment & AI Hardware",
    "color": "#4FC3D9",
    "count": 13,
-   "total_market_cap_b": 2884.31,
+   "total_market_cap_b": 2884.3,
    "avg_change_pct": -6.42,
    "industries_included": [
     "Communication Equipment",
@@ -1973,7 +1973,7 @@
       278.02,
       295.28
      ],
-     "fwd_eps": 30.65
+     "fwd_eps": 30.55
     },
     {
      "ticker": "KLAC",
@@ -1982,7 +1982,7 @@
      "industry": "Semiconductor Equipment & Materials",
      "country": "USA",
      "market_cap_b": 177.99,
-     "pe": 29.12,
+     "pe": 33.5,
      "price": 134.76,
      "change_pct": -7.61,
      "volume": 15749846,
@@ -2284,7 +2284,7 @@
    "label": "AI Platforms, Internet & AdTech",
    "color": "#F75F8E",
    "count": 12,
-   "total_market_cap_b": 13210.18,
+   "total_market_cap_b": 13210.2,
    "avg_change_pct": -0.07,
    "industries_included": [
     "Advertising Agencies",
@@ -2391,7 +2391,7 @@
       265.29,
       279.05
      ],
-     "fwd_eps": 15.3
+     "fwd_eps": 15.29
     },
     {
      "ticker": "AMZN",
@@ -2902,7 +2902,7 @@
    "label": "Data Center, Power & Energy",
    "color": "#5FD97A",
    "count": 8,
-   "total_market_cap_b": 395.86,
+   "total_market_cap_b": 395.9,
    "avg_change_pct": -2.4,
    "industries_included": [
     "Electrical Equipment & Parts",
@@ -3322,7 +3322,7 @@
    "label": "Applied AI: Industrial, Defense & Vertical",
    "color": "#D9C84F",
    "count": 14,
-   "total_market_cap_b": 3617.48,
+   "total_market_cap_b": 3617.5,
    "avg_change_pct": -2.09,
    "industries_included": [
     "Aerospace & Defense",
@@ -3644,7 +3644,7 @@
      "industry": "Scientific & Technical Instruments",
      "country": "USA",
      "market_cap_b": 7.29,
-     "pe": 34.95,
+     "pe": 32.5,
      "price": 46.52,
      "change_pct": -4.02,
      "volume": 2173845,
@@ -4038,7 +4038,7 @@
      "fwd_eps": -0.16
     }
    ],
-   "pe_harmonic": 127.0,
+   "pe_harmonic": 126.9,
    "pe_excluded": 4
   },
   {
@@ -4046,7 +4046,7 @@
    "label": "Powering AI",
    "color": "#3BE08F",
    "count": 15,
-   "total_market_cap_b": 625.13,
+   "total_market_cap_b": 625.1,
    "avg_change_pct": -2.72,
    "industries_included": [
     "Electrical Equipment & Parts",
@@ -4159,7 +4159,7 @@
       699.33,
       720.65
      ],
-     "fwd_eps": 26.24
+     "fwd_eps": 25.9
     },
     {
      "ticker": "SO",
@@ -4263,7 +4263,7 @@
       237.41,
       244.84
      ],
-     "fwd_eps": 13.39
+     "fwd_eps": 13.38
     },
     {
      "ticker": "VST",
@@ -4523,7 +4523,7 @@
       87.8,
       90.9
      ],
-     "fwd_eps": 9.58
+     "fwd_eps": 9.64
     },
     {
      "ticker": "FIX",
@@ -5208,7 +5208,7 @@
      "price": 317.18,
      "change_pct": -1.27,
      "volume": 420405,
-     "fwd_eps": 19.98,
+     "fwd_eps": 20.08,
      "perf": {
       "1W": 3.8,
       "1M": -31.4,
@@ -5759,7 +5759,7 @@
    ],
    "count": 18,
    "avg_change_pct": -0.01,
-   "total_market_cap_b": 889.73,
+   "total_market_cap_b": 889.7,
    "pe_harmonic": 118.0,
    "pe_excluded": 6,
    "industries_included": [

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-24T06:09:05+00:00",
-  "as_of_local": "2026-11-24 06:09:05 UTC",
+  "as_of_utc": "2026-11-24T06:24:05+00:00",
+  "as_of_local": "2026-11-24 06:24:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-11-23T22:12:14Z"
         },
         {
-          "title": "Ex-Nvidia employee: 'Stability and accountability can coexist'",
-          "url": "https://finance.yahoo.com/video/ex-nvidia-employee-stability-and-accountability-can-coexist-221105947.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-23T22:11:05Z"
+          "title": "Asian stocks rally as Huang's return to Nvidia revives the AI trade",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rally-huangs-nvidia-013042563.html",
+          "publisher": "Reuters",
+          "published": "2026-11-24T06:17:26Z"
         },
         {
-          "title": "Jensen Huang is back at Nvidia. What does it mean for Europe's AI stocks?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-back-nvidia-does-055250206.html",
-          "publisher": "Euronews",
-          "published": "2026-11-24T05:52:50Z"
+          "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-p-500-open-061037667.html",
+          "publisher": "Benzinga Prediction Markets",
+          "published": "2026-11-24T06:10:37Z"
         }
       ]
     },
@@ -50,7 +52,7 @@
           "title": "Asian stocks rally as Huang's return to Nvidia revives the AI trade",
           "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rally-huangs-nvidia-013042563.html",
           "publisher": "Reuters",
-          "published": "2026-11-24T04:16:45Z"
+          "published": "2026-11-24T06:17:26Z"
         },
         {
           "title": "Asian stocks rally after Wall Street rebound as Jensen Huang returns as Nvidia\u2019s CEO",
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-enterprise-ai-partnerships-001743463.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-24T00:17:43Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 176.67,
-      "previous_close": 152.2,
-      "change_pct": 16.08,
-      "market_cap": 189036898040.77148,
-      "headlines": [
-        {
-          "title": "Jensen Huang back at Nvidia, stock soars; Anthropic slides",
-          "url": "https://finance.yahoo.com/video/jensen-huang-back-at-nvidia-stock-soars-anthropic-slides-161339662.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-23T16:13:39Z"
-        },
-        {
-          "title": "Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30%",
-          "url": "https://finance.yahoo.com/video/jensen-huang-back-as-nvidia-ceo-after-12-days-shares-surge-30-161302539.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-23T16:13:02Z"
-        },
-        {
-          "title": "Nvidia\u2019s Board Had Other Options: Robert Maciejko",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-board-had-other-options-222213836.html",
-          "publisher": "CorpGov.com",
-          "published": "2026-11-23T22:22:13Z"
         }
       ]
     },
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 8.29,
-          "price": 1175000.0,
+          "change_pct": 7.28,
+          "price": 1164000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 8.17,
-          "price": 192000.0,
+          "change_pct": 7.49,
+          "price": 190800.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 9.53,
-          "price": 8003.0,
+          "change_pct": 9.48,
+          "price": 8000.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 8.29,
-        "price": 1175000.0,
+        "change_pct": 7.28,
+        "price": 1164000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 8.17,
-        "price": 192000.0,
+        "change_pct": 7.49,
+        "price": 190800.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 9.53,
-        "price": 8003.0,
+        "change_pct": 9.48,
+        "price": 8000.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60383.68,
-      "change_pct": -1.27
+      "price": 60328.32,
+      "change_pct": -1.36
     },
     {
       "label": "Gold",
-      "price": 3633.1,
-      "change_pct": -0.5
+      "price": 3628.0,
+      "change_pct": -0.64
     },
     {
       "label": "Nasdaq100",

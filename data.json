@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-24T08:50:56+00:00",
-  "as_of_local": "2026-11-24 08:50:56 UTC",
+  "as_of_utc": "2026-11-24T08:56:07+00:00",
+  "as_of_local": "2026-11-24 08:56:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -33,34 +35,6 @@
       ]
     },
     {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 363.6,
-      "previous_close": 318.71,
-      "change_pct": 14.08,
-      "market_cap": 1885801612274.119,
-      "headlines": [
-        {
-          "title": "Fujitsu sees stronger Monaka demand as buyers seek alternatives, Bloomberg reports",
-          "url": "https://finance.yahoo.com/technology/articles/fujitsu-sees-stronger-monaka-demand-083637056.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-24T08:36:37Z"
-        },
-        {
-          "title": "Nvidia and 3 AI Chip Stocks for Export Control Resilient Growth",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-3-ai-chip-stocks-081204748.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-24T08:12:04Z"
-        },
-        {
-          "title": "TSMC, Samsung, SK Hynix Rally As Jensen Huang Returns As Nvidia CEO \u2014 Top Analyst Flags Risks To AI Recovery",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-samsung-sk-hynix-rally-070006120.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-24T07:00:06Z"
-        }
-      ]
-    },
-    {
       "symbol": "AVGO",
       "name": "Broadcom",
       "price": 313.55,
@@ -81,10 +55,10 @@
           "published": "2026-11-23T18:59:49Z"
         },
         {
-          "title": "Watch these chip stocks for bargain buys after Nvidia\u2019s post-reinstatement rally",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/watch-chip-stocks-bargain-buys-040218865.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-24T04:02:18Z"
+          "title": "David Tepper, Cathie Wood and 44 Other Big Funds Bought Nvidia Last Quarter, While 27 Sold. Who\u2019s Right?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/david-tepper-cathie-wood-44-082022010.html",
+          "publisher": "TIKR",
+          "published": "2026-11-24T08:20:22Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60215.28,
-      "change_pct": -1.63
+      "price": 60177.54,
+      "change_pct": -1.69
     },
     {
       "label": "Gold",
-      "price": 3622.5,
-      "change_pct": -0.79
+      "price": 3626.0,
+      "change_pct": -0.7
     },
     {
       "label": "Nasdaq100",

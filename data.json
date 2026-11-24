@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-24T11:03:26+00:00",
-  "as_of_local": "2026-11-24 11:03:26 UTC",
+  "as_of_utc": "2026-11-24T11:08:23+00:00",
+  "as_of_local": "2026-11-24 11:08:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEVA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -75,16 +77,16 @@
           "published": "2026-11-23T13:31:09Z"
         },
         {
+          "title": "ETFs Bought $393.8 Million of Broadcom (AVGO) on Nov. 20",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-393-8-million-110109208.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-24T11:01:09Z"
+        },
+        {
           "title": "David Tepper, Cathie Wood and 44 Other Big Funds Bought Nvidia Last Quarter, While 27 Sold. Who\u2019s Right?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/david-tepper-cathie-wood-44-082022010.html",
           "publisher": "TIKR",
           "published": "2026-11-24T08:20:22Z"
-        },
-        {
-          "title": "Watch these chip stocks for bargain buys after Nvidia\u2019s post-reinstatement rally",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/watch-chip-stocks-bargain-buys-040218865.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-24T04:02:18Z"
         }
       ]
     },
@@ -237,6 +239,12 @@
       "market_cap": 130232118703.24161,
       "headlines": [
         {
+          "title": "Marvell Stock Fell Almost 12% in a Single Day. I'd Consider Buying Shares Now.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-fell-almost-12-105702877.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-24T10:57:02Z"
+        },
+        {
           "title": "Marvell (MRVL) Stock Looks Reasonable Following Its 161% Three Year Run",
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-stock-looks-reasonable-232050664.html",
           "publisher": "Simply Wall St.",
@@ -247,12 +255,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-technology-stock-crushed-220645377.html",
           "publisher": "Motley Fool",
           "published": "2026-11-23T22:06:45Z"
-        },
-        {
-          "title": "\u2018I Fell Off My Chair.\u2019 Investors Marvel as Huang\u2019s Return Sends Stocks Rocketing.",
-          "url": "https://www.wsj.com/finance/stocks/i-fell-off-my-chair-investors-marvel-as-huangs-return-sends-stocks-rocketing-98131bc6?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-11-23T21:45:00Z"
         }
       ]
     },
@@ -365,34 +367,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/worth-investing-aerovironment-avav-based-133003567.html",
           "publisher": "Zacks",
           "published": "2026-11-20T13:30:03Z"
-        }
-      ]
-    },
-    {
-      "symbol": "CEVA",
-      "name": "CEVA",
-      "price": 25.47,
-      "previous_close": 22.41,
-      "change_pct": 13.65,
-      "market_cap": 726589649.1918755,
-      "headlines": [
-        {
-          "title": "Nvidia News Has Investors Rethinking These U.S. AI Chip Stocks",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-news-investors-rethinking-u-070751605.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-23T07:07:51Z"
-        },
-        {
-          "title": "Nvidia Up 8.9% After a Strong Anthropic IPO? That\u2019s What Tilt\u2019s New Investing Tool Modeled",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-8-9-strong-anthropic-204406766.html",
-          "publisher": "Benzinga Prediction Markets",
-          "published": "2026-11-19T20:44:06Z"
-        },
-        {
-          "title": "3 Stocks With Superb Earnings Acceleration to Buy Before 2027",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-superb-earnings-acceleration-190000991.html",
-          "publisher": "Zacks",
-          "published": "2026-11-19T19:00:00Z"
         }
       ]
     }
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 59778.52,
-      "change_pct": -2.34
+      "price": 59712.94,
+      "change_pct": -2.45
     },
     {
       "label": "Gold",
-      "price": 3622.8,
-      "change_pct": -0.78
+      "price": 3624.6,
+      "change_pct": -0.73
     },
     {
       "label": "Nasdaq100",

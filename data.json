@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-24T06:39:13+00:00",
-  "as_of_local": "2026-11-24 06:39:13 UTC",
+  "as_of_utc": "2026-11-24T06:44:34+00:00",
+  "as_of_local": "2026-11-24 06:44:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 165.05,
+      "previous_close": 125.53,
+      "change_pct": 31.48,
+      "market_cap": 3985462423690.796,
+      "headlines": [
+        {
+          "title": "Prediction: 1 \"Magnificent Seven\" Stock That Will Lag the Market in 2027",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-1-magnificent-seven-stock-062002007.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-24T06:20:02Z"
+        },
+        {
+          "title": "Asian stocks rally as Huang's return to Nvidia revives the AI trade",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rally-huangs-nvidia-013042563.html",
+          "publisher": "Reuters",
+          "published": "2026-11-24T06:17:26Z"
+        },
+        {
+          "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-p-500-open-061037667.html",
+          "publisher": "Benzinga Prediction Markets",
+          "published": "2026-11-24T06:10:37Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 6.82,
-          "price": 1159000.0,
+          "change_pct": 6.73,
+          "price": 1158000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 6.48,
-          "price": 189000.0,
+          "change_pct": 6.59,
+          "price": 189200.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 9.83,
-          "price": 8025.0,
+          "change_pct": 9.95,
+          "price": 8034.0,
           "currency": "JPY"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 6.82,
-        "price": 1159000.0,
+        "change_pct": 6.73,
+        "price": 1158000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 6.48,
-        "price": 189000.0,
+        "change_pct": 6.59,
+        "price": 189200.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 9.83,
-        "price": 8025.0,
+        "change_pct": 9.95,
+        "price": 8034.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 60343.6,
-      "change_pct": -1.34
+      "price": 60413.04,
+      "change_pct": -1.22
     },
     {
       "label": "Gold",
-      "price": 3616.4,
-      "change_pct": -0.96
+      "price": 3621.8,
+      "change_pct": -0.81
     },
     {
       "label": "Nasdaq100",

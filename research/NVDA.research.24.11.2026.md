@@ -39,7 +39,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Why HubSpot's CEO thinks Jensen Huang came back to Nvidia too soon | Yahoo Finance | 2026-11-24 |
 | Wall Street's 2027 earnings hopes may be dead on arrival unless the Fed blinks in December | Yahoo Finance | 2026-11-24 |
 | Bitcoin now counts as collateral: From the CFTC to the ECB | Yahoo Finance Video | 2026-11-24 |
-| Microsoft (MSFT) Is One of the Safest Ways to Own AI | TipRanks | 2026-11-24 |
+| Dell handily tops estimates, lifts sales and profit guidance | Yahoo Finance | 2026-11-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

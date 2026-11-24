@@ -4,8 +4,8 @@ Signed file: `QCOM.research.24.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $164.99 (2026-11-24, ~15-min delayed) |
-| Market cap | $176.54B |
+| Current price | $164.96 (2026-11-24, ~15-min delayed) |
+| Market cap | $176.51B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,8 +15,8 @@ Signed file: `QCOM.research.24.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-2.87%) with negative half-year (-28.66%). |
-| Fresh setup quality | Poor / broken | -33.67% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-2.89%) with negative half-year (-28.68%). |
+| Fresh setup quality | Poor / broken | -33.68% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 31.61%, revenue growth -8.40%. |
 | Value attractiveness | Reasonable | Forward P/E 13.54, EV/Sales 4.30. |
 | Risk level | High | Beta 1.76, ATR 5.8% of price, short float 3.03%. |
@@ -44,18 +44,18 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $164.99; 52w high $248.74 (-33.67%); 52w low $122.94 (+34.20%) |
-| Trend | -2.87% vs SMA200, -6.55% vs SMA50, -1.89% vs SMA20 |
+| Price vs 52-week range | Close $164.96; 52w high $248.74 (-33.68%); 52w low $122.94 (+34.17%) |
+| Trend | -2.89% vs SMA200, -6.57% vs SMA50, -1.91% vs SMA20 |
 | Momentum | RSI(14) 47.0 (neutral) |
 | Volatility | ATR(14) 9.58 (~5.8% of price); beta 1.76 |
-| Setup perspective | -33.67% from 52w high — base needs to rebuild. |
+| Setup perspective | -33.68% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
 | Week | -1.0% |
-| Month | -8.1% |
+| Month | -8.2% |
 | Quarter | +1.3% |
 | Half Y | -28.7% |
 | 1Y | +3.1% |
@@ -111,14 +111,14 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $164.99 | EV/Sales | 4.30 |
-| Market cap | $176.54B | EV/EBITDA | 17.45 |
+| Price | $164.96 | EV/Sales | 4.30 |
+| Market cap | $176.51B | EV/EBITDA | 17.45 |
 | Beta | 1.76 | Gross margin | 53.10% |
 | RSI(14) | 47.0 | Operating margin | 20.85% |
 | ATR(14) | 9.58 | Profit margin | 31.61% |
-| SMA20 dist | -1.89% | ROA | 10.13% |
-| SMA50 dist | -6.55% | ROE | 52.81% |
-| SMA200 dist | -2.87% | Revenue (ttm) | $43.12B |
+| SMA20 dist | -1.91% | ROA | 10.13% |
+| SMA50 dist | -6.57% | ROE | 52.81% |
+| SMA200 dist | -2.89% | Revenue (ttm) | $43.12B |
 | 52W high | $248.74 | Revenue growth y/y | -8.40% |
 | 52W low | $122.94 | Inst. ownership | 82.07% |
 | P/E (ttm) | 12.99 | Insider ownership | 0.14% |

@@ -4,8 +4,8 @@ Signed file: `MU.research.24.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $624.51 (2026-11-24, ~15-min delayed) |
-| Market cap | $706.59B |
+| Current price | $629.79 (2026-11-24, ~15-min delayed) |
+| Market cap | $712.56B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `MU.research.24.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +201.50%; price -19.43% vs SMA200. |
-| Fresh setup quality | Poor / broken | -48.52% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +204.05%; price -18.75% vs SMA200. |
+| Fresh setup quality | Poor / broken | -48.09% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 63.80%, revenue growth 379.30%. |
-| Value attractiveness | Reasonable | Forward P/E 3.05, EV/Sales 5.72. |
-| Risk level | High | Beta 2.40, ATR 10.9% of price, short float 2.07%. |
+| Value attractiveness | Reasonable | Forward P/E 3.07, EV/Sales 5.72. |
+| Risk level | High | Beta 2.40, ATR 10.8% of price, short float 2.07%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -37,29 +37,29 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 | Headline | Source | Date |
 |---|---|---|
 | Stocks give back gains as Anthropic dips below IPO price | Yahoo Finance Video | 2026-11-24 |
-| Stock market today: Dow gains, S&P 500 and Nasdaq decline as chip stocks tumble, investors test AI appetite | Yahoo Finance | 2026-11-24 |
-| Micron Just Hit a $700 Ceiling, Caught a Downgrade, and Is Down 10% Today. Is MU a Toxic Stock or a Prime Bargain? | 24/7 Wall St. | 2026-11-24 |
-| ASML Is the Most Important Company You’ve Never Heard Of. Should You Buy the Stock? | Motley Fool | 2026-11-24 |
+| Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure | Yahoo Finance | 2026-11-24 |
+| Stock market today: Dow rises, S&P 500 and Nasdaq decline as chip sector tumbles, Nvidia stock falls 6% | Yahoo Finance | 2026-11-24 |
+| nVent Electric (NVT) Stock Is Down 8.4% Today: AI Chip Selloff Drags Power Peers | GuruFocus.com | 2026-11-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $624.51; 52w high $1,213.18 (-48.52%); 52w low $223.68 (+179.20%) |
-| Trend | -19.43% vs SMA200, -30.75% vs SMA50, -18.00% vs SMA20 |
-| Momentum | RSI(14) 37.1 (neutral) |
-| Volatility | ATR(14) 67.79 (~10.9% of price); beta 2.40 |
-| Setup perspective | -48.52% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $629.79; 52w high $1,213.18 (-48.09%); 52w low $223.68 (+181.56%) |
+| Trend | -18.75% vs SMA200, -30.17% vs SMA50, -17.34% vs SMA20 |
+| Momentum | RSI(14) 37.4 (neutral) |
+| Volatility | ATR(14) 67.79 (~10.8% of price); beta 2.40 |
+| Setup perspective | -48.09% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -12.3% |
-| Month | -30.9% |
-| Quarter | -33.4% |
-| Half Y | -32.7% |
-| 1Y | +201.5% |
-| YTD | +98.1% |
+| Week | -11.6% |
+| Month | -30.3% |
+| Quarter | -32.9% |
+| Half Y | -32.1% |
+| 1Y | +204.0% |
+| YTD | +99.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 | Revenue (ttm) | $133.19B | Revenue growth 379.30% y/y |
 | Profitability | Gross 80.72%, operating 74.59%, net 63.80% | ROA 44.56%, ROE 88.26% |
 | Balance sheet | Cash $43.43B, debt $5.18B | Current ratio 3.31, debt/equity 3.74 |
-| Valuation | P/E 8.40, forward P/E 3.05, P/S 5.31, P/B 5.10 | EV/Sales 5.72, EV/EBITDA 7.00 |
+| Valuation | P/E 8.47, forward P/E 3.07, P/S 5.35, P/B 5.15 | EV/Sales 5.72, EV/EBITDA 7.00 |
 | Growth expectations | Earnings growth 1059.50%, EPS q/q 1077.80% | Analyst mean target $1,529.69 (45 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 | Primecap Management Company | 18,621,420 | 1.65% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.40, ATR 10.9% of price, short float 2.07%. Size positions accordingly.
+- **Volatility risk:** Beta 2.40, ATR 10.8% of price, short float 2.07%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,21 +111,21 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $624.51 | EV/Sales | 5.72 |
-| Market cap | $706.59B | EV/EBITDA | 7.00 |
+| Price | $629.79 | EV/Sales | 5.72 |
+| Market cap | $712.56B | EV/EBITDA | 7.00 |
 | Beta | 2.40 | Gross margin | 80.72% |
-| RSI(14) | 37.1 | Operating margin | 74.59% |
+| RSI(14) | 37.4 | Operating margin | 74.59% |
 | ATR(14) | 67.79 | Profit margin | 63.80% |
-| SMA20 dist | -18.00% | ROA | 44.56% |
-| SMA50 dist | -30.75% | ROE | 88.26% |
-| SMA200 dist | -19.43% | Revenue (ttm) | $133.19B |
+| SMA20 dist | -17.34% | ROA | 44.56% |
+| SMA50 dist | -30.17% | ROE | 88.26% |
+| SMA200 dist | -18.75% | Revenue (ttm) | $133.19B |
 | 52W high | $1,213.18 | Revenue growth y/y | 379.30% |
 | 52W low | $223.68 | Inst. ownership | 79.78% |
-| P/E (ttm) | 8.40 | Insider ownership | 0.27% |
-| Forward P/E | 3.05 | Short float | 2.07% |
+| P/E (ttm) | 8.47 | Insider ownership | 0.27% |
+| Forward P/E | 3.07 | Short float | 2.07% |
 | PEG (trailing) | 0.16 | Avg volume | 28,596,698 |
-| P/S | 5.31 | Employees | 61,000 |
-| P/B | 5.10 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/S | 5.35 | Employees | 61,000 |
+| P/B | 5.15 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

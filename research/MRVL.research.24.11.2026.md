@@ -4,8 +4,8 @@ Signed file: `MRVL.research.24.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $131.77 (2026-11-24, ~15-min delayed) |
-| Market cap | $118.57B |
+| Current price | $131.57 (2026-11-24, ~15-min delayed) |
+| Market cap | $118.38B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `MRVL.research.24.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +70.43%; price -30.31% vs SMA200. |
-| Fresh setup quality | Poor / broken | -58.34% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +70.16%; price -30.42% vs SMA200. |
+| Fresh setup quality | Poor / broken | -58.40% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 27.93%, revenue growth 36.50%. |
-| Value attractiveness | Reasonable | Forward P/E 17.88, EV/Sales 13.57. |
+| Value attractiveness | Reasonable | Forward P/E 17.85, EV/Sales 13.57. |
 | Risk level | High | Beta 2.33, ATR 12.8% of price, short float 3.48%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -36,30 +36,30 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Morgan Stanley’s 4 Best Semiconductor and Server Stocks to Buy for 2027 | Insider Monkey | 2026-11-24 |
+| CrowdStrike’s all-stock bid for Zscaler: deal structure shifts risk to target holders | Investing.com | 2026-11-24 |
+| Megadeals Are Back. Why More Takeovers Could Be Coming. | Barrons.com | 2026-11-24 |
 | Why Marvell Stock Is Moving With Nvidia Fueled AI Chip Optimism | Simply Wall St. | 2026-11-24 |
-| Nvidia, Anthropic, Micron, HPE, Analog Devices, Insmed, Dollar Tree, and More Stocks That Explain Today’s Market | Barrons.com | 2026-11-24 |
-| Generate A Return From Marvell Stock, Set For A Large Post-Earnings Swing | Investor's Business Daily | 2026-11-24 |
-| Marvell Sinks 8%, Intel Down 6% as Chip Stocks Give Back Nvidia’s Record Huang Rally | TIKR | 2026-11-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $131.77; 52w high $316.28 (-58.34%); 52w low $73.66 (+78.90%) |
-| Trend | -30.31% vs SMA200, -39.27% vs SMA50, -18.16% vs SMA20 |
+| Price vs 52-week range | Close $131.57; 52w high $316.28 (-58.40%); 52w low $73.66 (+78.62%) |
+| Trend | -30.42% vs SMA200, -39.36% vs SMA50, -18.28% vs SMA20 |
 | Momentum | RSI(14) 35.3 (neutral) |
 | Volatility | ATR(14) 16.87 (~12.8% of price); beta 2.33 |
-| Setup perspective | -58.34% from 52w high — base needs to rebuild. |
+| Setup perspective | -58.40% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -11.4% |
-| Month | -43.6% |
-| Quarter | -46.2% |
-| Half Y | -33.7% |
-| 1Y | +70.4% |
-| YTD | +47.7% |
+| Week | -11.5% |
+| Month | -43.7% |
+| Quarter | -46.3% |
+| Half Y | -33.8% |
+| 1Y | +70.2% |
+| YTD | +47.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $9.45B | Revenue growth 36.50% y/y |
 | Profitability | Gross 52.22%, operating 16.81%, net 27.93% | ROA 4.12%, ROE 16.52% |
 | Balance sheet | Cash $3.93B, debt $5.29B | Current ratio 3.17, debt/equity 28.52 |
-| Valuation | P/E 43.35, forward P/E 17.88, P/S 12.55, P/B 6.23 | EV/Sales 13.57, EV/EBITDA 45.00 |
+| Valuation | P/E 43.28, forward P/E 17.85, P/S 12.53, P/B 6.23 | EV/Sales 13.57, EV/EBITDA 45.00 |
 | Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $301.02 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,20 +111,20 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $131.77 | EV/Sales | 13.57 |
-| Market cap | $118.57B | EV/EBITDA | 45.00 |
+| Price | $131.57 | EV/Sales | 13.57 |
+| Market cap | $118.38B | EV/EBITDA | 45.00 |
 | Beta | 2.33 | Gross margin | 52.22% |
 | RSI(14) | 35.3 | Operating margin | 16.81% |
 | ATR(14) | 16.87 | Profit margin | 27.93% |
-| SMA20 dist | -18.16% | ROA | 4.12% |
-| SMA50 dist | -39.27% | ROE | 16.52% |
-| SMA200 dist | -30.31% | Revenue (ttm) | $9.45B |
+| SMA20 dist | -18.28% | ROA | 4.12% |
+| SMA50 dist | -39.36% | ROE | 16.52% |
+| SMA200 dist | -30.42% | Revenue (ttm) | $9.45B |
 | 52W high | $316.28 | Revenue growth y/y | 36.50% |
 | 52W low | $73.66 | Inst. ownership | 80.78% |
-| P/E (ttm) | 43.35 | Insider ownership | 0.53% |
-| Forward P/E | 17.88 | Short float | 3.48% |
+| P/E (ttm) | 43.28 | Insider ownership | 0.53% |
+| Forward P/E | 17.85 | Short float | 3.48% |
 | PEG (trailing) | 0.30 | Avg volume | 24,766,259 |
-| P/S | 12.55 | Employees | 7,480 |
+| P/S | 12.53 | Employees | 7,480 |
 | P/B | 6.23 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions

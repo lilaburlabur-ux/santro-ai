@@ -4,8 +4,8 @@ Signed file: `INTC.research.24.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $54.76 (2026-11-24, ~15-min delayed) |
-| Market cap | $291.08B |
+| Current price | $54.80 (2026-11-24, ~15-min delayed) |
+| Market cap | $291.26B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `INTC.research.24.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-37.50%) with negative half-year (-55.03%). |
-| Fresh setup quality | Poor / broken | -61.14% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-37.46%) with negative half-year (-55.00%). |
+| Fresh setup quality | Poor / broken | -61.12% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-20.09%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 30.59, EV/Sales 5.51. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 30.61, EV/Sales 5.51. |
 | Risk level | High | Beta 2.43, ATR 10.1% of price, short float 2.88%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
@@ -36,30 +36,30 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
+| Even After Big Gains, Insiders Are Loading Up on These 5 Stocks | Insider Monkey | 2026-11-24 |
 | Trump Warns of “Paying 200 Percent on Chips” in Two Years. That Pushes TSMC Toward a $22.6 Billion Texas Plant | TIKR | 2026-11-24 |
 | Applied Materials vs. Intel: Which Technology Stock Is a Better Buy for 2027? | Motley Fool | 2026-11-24 |
 | Nvidia, Anthropic, Micron, HPE, Analog Devices, Insmed, Dollar Tree, and More Stocks That Explain Today’s Market | Barrons.com | 2026-11-24 |
-| Why Is Microchip Technology (MCHP) Stock Down Today? Chip Sector Selloff Hits Peers | GuruFocus.com | 2026-11-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $54.76; 52w high $140.94 (-61.14%); 52w low $35.79 (+53.02%) |
-| Trend | -37.50% vs SMA200, -38.21% vs SMA50, -10.83% vs SMA20 |
-| Momentum | RSI(14) 36.1 (neutral) |
+| Price vs 52-week range | Close $54.80; 52w high $140.94 (-61.12%); 52w low $35.79 (+53.12%) |
+| Trend | -37.46% vs SMA200, -38.17% vs SMA50, -10.77% vs SMA20 |
+| Momentum | RSI(14) 36.2 (neutral) |
 | Volatility | ATR(14) 5.51 (~10.1% of price); beta 2.43 |
-| Setup perspective | -61.14% from 52w high — base needs to rebuild. |
+| Setup perspective | -61.12% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
 | Week | -0.7% |
-| Month | -39.5% |
+| Month | -39.4% |
 | Quarter | -37.9% |
 | Half Y | -55.0% |
-| 1Y | +58.7% |
-| YTD | +39.1% |
+| 1Y | +58.8% |
+| YTD | +39.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Revenue (ttm) | $59.89B | Revenue growth 20.90% y/y |
 | Profitability | Gross 40.15%, operating 10.32%, net -20.09% | ROA 1.78%, ROE -9.62% |
 | Balance sheet | Cash $54.00B, debt $50.13B | Current ratio 2.21, debt/equity 38.11 |
-| Valuation | P/E —, forward P/E 30.59, P/S 4.86, P/B 2.53 | EV/Sales 5.51, EV/EBITDA 17.24 |
+| Valuation | P/E —, forward P/E 30.61, P/S 4.86, P/B 2.53 | EV/Sales 5.51, EV/EBITDA 17.24 |
 | Growth expectations | Earnings growth -32.70%, EPS q/q -18.30% | Analyst mean target $90.42 (43 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Softbank Group Corporation | 86,956,522 | 1.64% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 30.59, EV/Sales 5.51. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 30.61, EV/Sales 5.51. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.43, ATR 10.1% of price, short float 2.88%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,18 +113,18 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $54.76 | EV/Sales | 5.51 |
-| Market cap | $291.08B | EV/EBITDA | 17.24 |
+| Price | $54.80 | EV/Sales | 5.51 |
+| Market cap | $291.26B | EV/EBITDA | 17.24 |
 | Beta | 2.43 | Gross margin | 40.15% |
-| RSI(14) | 36.1 | Operating margin | 10.32% |
+| RSI(14) | 36.2 | Operating margin | 10.32% |
 | ATR(14) | 5.51 | Profit margin | -20.09% |
-| SMA20 dist | -10.83% | ROA | 1.78% |
-| SMA50 dist | -38.21% | ROE | -9.62% |
-| SMA200 dist | -37.50% | Revenue (ttm) | $59.89B |
+| SMA20 dist | -10.77% | ROA | 1.78% |
+| SMA50 dist | -38.17% | ROE | -9.62% |
+| SMA200 dist | -37.46% | Revenue (ttm) | $59.89B |
 | 52W high | $140.94 | Revenue growth y/y | 20.90% |
 | 52W low | $35.79 | Inst. ownership | 69.05% |
 | P/E (ttm) | — | Insider ownership | 12.91% |
-| Forward P/E | 30.59 | Short float | 2.88% |
+| Forward P/E | 30.61 | Short float | 2.88% |
 | PEG (trailing) | — | Avg volume | 118,322,739 |
 | P/S | 4.86 | Employees | 81,100 |
 | P/B | 2.53 | Analyst rec (1=buy..5=sell) | 2.5 |

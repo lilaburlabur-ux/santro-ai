@@ -4,7 +4,7 @@ Signed file: `TSM.research.24.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $348.02 (2026-11-24, ~15-min delayed) |
+| Current price | $349.20 (2026-11-24, ~15-min delayed) |
 | Market cap | $1.81T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,10 +15,10 @@ Signed file: `TSM.research.24.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-13.49%) with negative half-year (-17.26%). |
-| Fresh setup quality | Poor / broken | -28.36% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-13.20%) with negative half-year (-16.98%). |
+| Fresh setup quality | Poor / broken | -28.12% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 51.12%, revenue growth 50.90%. |
-| Value attractiveness | Reasonable | Forward P/E 14.88, EV/Sales 2.46. |
+| Value attractiveness | Reasonable | Forward P/E 14.93, EV/Sales 2.46. |
 | Risk level | High | Beta 1.23, ATR 6.5% of price, short float 0.66%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -37,29 +37,29 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Headline | Source | Date |
 |---|---|---|
 | Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure | Yahoo Finance | 2026-11-24 |
+| Trump’s Southeast Asia Chip Rule Has Cost Nvidia $44 Billion+ of Revenue, per Jefferies. Huang Can’t Undo It | TIKR | 2026-11-24 |
+| Taiwan Semiconductor Manufacturing (NYSE:TSM) Stock May Be Reasonable After New Export Curbs | Simply Wall St. | 2026-11-24 |
 | TSMC's $22.6 Billion Texas Chip Plant Hinges on Two Tax Breaks | Benzinga Prediction Markets | 2026-11-24 |
-| Trump Warns of “Paying 200 Percent on Chips” in Two Years. That Pushes TSMC Toward a $22.6 Billion Texas Plant | TIKR | 2026-11-24 |
-| If You Invest $5,000 Into These 3 Stocks, You Could Have $10,000 by 2030 | 24/7 Wall St. | 2026-11-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $348.02; 52w high $485.80 (-28.36%); 52w low $274.80 (+26.65%) |
-| Trend | -13.49% vs SMA200, -17.09% vs SMA50, -9.44% vs SMA20 |
-| Momentum | RSI(14) 40.0 (neutral) |
+| Price vs 52-week range | Close $349.20; 52w high $485.80 (-28.12%); 52w low $274.80 (+27.07%) |
+| Trend | -13.20% vs SMA200, -16.81% vs SMA50, -9.15% vs SMA20 |
+| Momentum | RSI(14) 40.2 (neutral) |
 | Volatility | ATR(14) 22.66 (~6.5% of price); beta 1.23 |
-| Setup perspective | -28.36% from 52w high — base needs to rebuild. |
+| Setup perspective | -28.12% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.2% |
-| Month | -18.0% |
-| Quarter | -16.5% |
-| Half Y | -17.3% |
-| 1Y | +27.9% |
-| YTD | +9.7% |
+| Week | -2.9% |
+| Month | -17.7% |
+| Quarter | -16.2% |
+| Half Y | -17.0% |
+| 1Y | +28.3% |
+| YTD | +10.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.94T | Revenue growth 50.90% y/y |
 | Profitability | Gross 65.85%, operating 57.96%, net 51.12% | ROA 20.58%, ROE 41.86% |
 | Balance sheet | Cash $4.02T, debt $1.07T | Current ratio 2.58, debt/equity 15.19 |
-| Valuation | P/E 22.55, forward P/E 14.88, P/S 0.37, P/B 66.85 | EV/Sales 2.46, EV/EBITDA 3.38 |
+| Valuation | P/E 22.63, forward P/E 14.93, P/S 0.37, P/B 67.07 | EV/Sales 2.46, EV/EBITDA 3.38 |
 | Growth expectations | Earnings growth 68.70%, EPS q/q 68.70% | Analyst mean target $586.69 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,21 +111,21 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $348.02 | EV/Sales | 2.46 |
+| Price | $349.20 | EV/Sales | 2.46 |
 | Market cap | $1.81T | EV/EBITDA | 3.38 |
 | Beta | 1.23 | Gross margin | 65.85% |
-| RSI(14) | 40.0 | Operating margin | 57.96% |
+| RSI(14) | 40.2 | Operating margin | 57.96% |
 | ATR(14) | 22.66 | Profit margin | 51.12% |
-| SMA20 dist | -9.44% | ROA | 20.58% |
-| SMA50 dist | -17.09% | ROE | 41.86% |
-| SMA200 dist | -13.49% | Revenue (ttm) | $4.94T |
+| SMA20 dist | -9.15% | ROA | 20.58% |
+| SMA50 dist | -16.81% | ROE | 41.86% |
+| SMA200 dist | -13.20% | Revenue (ttm) | $4.94T |
 | 52W high | $485.80 | Revenue growth y/y | 50.90% |
 | 52W low | $274.80 | Inst. ownership | 15.42% |
-| P/E (ttm) | 22.55 | Insider ownership | 0.02% |
-| Forward P/E | 14.88 | Short float | 0.66% |
+| P/E (ttm) | 22.63 | Insider ownership | 0.02% |
+| Forward P/E | 14.93 | Short float | 0.66% |
 | PEG (trailing) | 0.58 | Avg volume | 12,851,037 |
 | P/S | 0.37 | Employees | 76,907 |
-| P/B | 66.85 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 67.07 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

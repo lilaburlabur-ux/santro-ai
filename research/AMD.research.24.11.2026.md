@@ -4,8 +4,8 @@ Signed file: `AMD.research.24.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $453.46 (2026-11-24, ~15-min delayed) |
-| Market cap | $750.51B |
+| Current price | $412.73 (2026-11-24, ~15-min delayed) |
+| Market cap | $683.10B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `AMD.research.24.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +120.10%; price +5.21% vs SMA200. |
-| Fresh setup quality | Poor / broken | -30.17% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +102.53%; price -4.46% vs SMA200. |
+| Fresh setup quality | Poor / broken | -36.45% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 16.77%, revenue growth 44.70%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 25.74, EV/Sales 16.22. |
-| Risk level | High | Beta 2.54, ATR 10.1% of price, short float 2.36%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 23.43, EV/Sales 16.22. |
+| Risk level | High | Beta 2.54, ATR 11.3% of price, short float 2.36%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
 
@@ -36,30 +36,30 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia soars 31% as board reinstates Jensen Huang as CEO, chip stocks jump | Yahoo Finance | 2026-11-23 |
-| Why Jensen Huang is the 'key man' behind the market rally | Yahoo Finance Video | 2026-11-23 |
-| Jensen Huang back at Nvidia, stock soars; Anthropic slides | Yahoo Finance Video | 2026-11-23 |
-| Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30% | Yahoo Finance Video | 2026-11-23 |
+| Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure | Yahoo Finance | 2026-11-24 |
+| Stocks give back gains as Anthropic dips below IPO price | Yahoo Finance Video | 2026-11-24 |
+| Jensen Huang is back at Nvidia. Should AMD be worried? | Yahoo Finance | 2026-11-24 |
+| Stock market today: Dow gains, S&P 500 and Nasdaq decline as chip stocks tumble, investors test AI appetite | Yahoo Finance | 2026-11-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $453.46; 52w high $649.42 (-30.17%); 52w low $190.95 (+137.48%) |
-| Trend | +5.21% vs SMA200, -17.90% vs SMA50, -10.24% vs SMA20 |
-| Momentum | RSI(14) 42.6 (neutral) |
-| Volatility | ATR(14) 45.98 (~10.1% of price); beta 2.54 |
-| Setup perspective | -30.17% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $412.73; 52w high $649.42 (-36.45%); 52w low $190.95 (+116.14%) |
+| Trend | -4.46% vs SMA200, -25.02% vs SMA50, -17.09% vs SMA20 |
+| Momentum | RSI(14) 38.6 (neutral) |
+| Volatility | ATR(14) 46.79 (~11.3% of price); beta 2.54 |
+| Setup perspective | -36.45% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -10.1% |
-| Month | -12.3% |
-| Quarter | -5.4% |
-| Half Y | -10.0% |
-| 1Y | +120.1% |
-| YTD | +102.9% |
+| Week | -18.0% |
+| Month | -22.3% |
+| Quarter | -14.2% |
+| Half Y | -16.7% |
+| 1Y | +102.5% |
+| YTD | +84.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Revenue (ttm) | $45.44B | Revenue growth 44.70% y/y |
 | Profitability | Gross 56.00%, operating 17.82%, net 16.77% | ROA 5.90%, ROE 11.96% |
 | Balance sheet | Cash $15.78B, debt $9.21B | Current ratio 2.73, debt/equity 13.47 |
-| Valuation | P/E 96.89, forward P/E 25.74, P/S 16.52, P/B 10.87 | EV/Sales 16.22, EV/EBITDA 66.15 |
+| Valuation | P/E 88.19, forward P/E 23.43, P/S 15.03, P/B 9.90 | EV/Sales 16.22, EV/EBITDA 66.15 |
 | Growth expectations | Earnings growth 93.80%, EPS q/q 95.30% | Analyst mean target $656.21 (49 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,8 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Morgan Stanley | 24,001,499 | 1.46% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 25.74, EV/Sales 16.22. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.54, ATR 10.1% of price, short float 2.36%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 23.43, EV/Sales 16.22. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.54, ATR 11.3% of price, short float 2.36%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -112,21 +112,21 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $453.46 | EV/Sales | 16.22 |
-| Market cap | $750.51B | EV/EBITDA | 66.15 |
+| Price | $412.73 | EV/Sales | 16.22 |
+| Market cap | $683.10B | EV/EBITDA | 66.15 |
 | Beta | 2.54 | Gross margin | 56.00% |
-| RSI(14) | 42.6 | Operating margin | 17.82% |
-| ATR(14) | 45.98 | Profit margin | 16.77% |
-| SMA20 dist | -10.24% | ROA | 5.90% |
-| SMA50 dist | -17.90% | ROE | 11.96% |
-| SMA200 dist | +5.21% | Revenue (ttm) | $45.44B |
+| RSI(14) | 38.6 | Operating margin | 17.82% |
+| ATR(14) | 46.79 | Profit margin | 16.77% |
+| SMA20 dist | -17.09% | ROA | 5.90% |
+| SMA50 dist | -25.02% | ROE | 11.96% |
+| SMA200 dist | -4.46% | Revenue (ttm) | $45.44B |
 | 52W high | $649.42 | Revenue growth y/y | 44.70% |
 | 52W low | $190.95 | Inst. ownership | 75.33% |
-| P/E (ttm) | 96.89 | Insider ownership | 0.45% |
-| Forward P/E | 25.74 | Short float | 2.36% |
-| PEG (trailing) | 0.38 | Avg volume | 27,110,325 |
-| P/S | 16.52 | Employees | 31,000 |
-| P/B | 10.87 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/E (ttm) | 88.19 | Insider ownership | 0.45% |
+| Forward P/E | 23.43 | Short float | 2.36% |
+| PEG (trailing) | 0.40 | Avg volume | 27,696,675 |
+| P/S | 15.03 | Employees | 31,000 |
+| P/B | 9.90 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

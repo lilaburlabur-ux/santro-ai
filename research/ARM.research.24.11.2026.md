@@ -4,8 +4,8 @@ Signed file: `ARM.research.24.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $176.67 (2026-11-24, ~15-min delayed) |
-| Market cap | $189.04B |
+| Current price | $161.42 (2026-11-24, ~15-min delayed) |
+| Market cap | $172.72B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: low (expensive), risk: high. |
@@ -15,11 +15,11 @@ Signed file: `ARM.research.24.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-24.75%) with negative half-year (-45.00%). |
-| Fresh setup quality | Poor / broken | -59.80% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-31.30%) with negative half-year (-46.68%). |
+| Fresh setup quality | Poor / broken | -63.27% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 17.13%, revenue growth 27.10%. |
-| Value attractiveness | Low (expensive) | Forward P/E 57.23, EV/Sales 34.03. |
-| Risk level | High | Beta 3.94, ATR 9.8% of price, short float 10.71%. |
+| Value attractiveness | Low (expensive) | Forward P/E 52.29, EV/Sales 34.03. |
+| Risk level | High | Beta 3.94, ATR 10.8% of price, short float 10.71%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: low (expensive), risk: high.
 
@@ -36,30 +36,30 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
-| Jensen Huang back at Nvidia, stock soars; Anthropic slides | Yahoo Finance Video | 2026-11-23 |
-| Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30% | Yahoo Finance Video | 2026-11-23 |
-| Nvidia’s Board Had Other Options: Robert Maciejko | CorpGov.com | 2026-11-23 |
-| Nvidia, Dell, Micron, Anthropic, CrowdStrike, UnitedHealth, and More Stocks That Explain Today’s Market | Barrons.com | 2026-11-23 |
+| Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure | Yahoo Finance | 2026-11-24 |
+| Stocks give back gains as Anthropic dips below IPO price | Yahoo Finance Video | 2026-11-24 |
+| Arm Holdings Stocks Fall 4.89% as Chip Rally Cools After Haas Commits Through 2033 | GuruFocus.com | 2026-11-24 |
+| Anthropic Sinks 7% Below IPO Price as AI Stocks Slide: Cramer Blames “Endless Hammering of Small Bids” | TIKR | 2026-11-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $176.67; 52w high $439.46 (-59.80%); 52w low $104.55 (+68.98%) |
-| Trend | -24.75% vs SMA200, -25.88% vs SMA50, -7.95% vs SMA20 |
-| Momentum | RSI(14) 42.0 (neutral) |
-| Volatility | ATR(14) 17.31 (~9.8% of price); beta 3.94 |
-| Setup perspective | -59.80% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $161.42; 52w high $439.46 (-63.27%); 52w low $104.55 (+54.40%) |
+| Trend | -31.30% vs SMA200, -31.82% vs SMA50, -14.44% vs SMA20 |
+| Momentum | RSI(14) 38.2 (neutral) |
+| Volatility | ATR(14) 17.46 (~10.8% of price); beta 3.94 |
+| Setup perspective | -63.27% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.9% |
-| Month | -16.0% |
-| Quarter | -26.9% |
-| Half Y | -45.0% |
-| 1Y | +33.3% |
-| YTD | +54.0% |
+| Week | -12.0% |
+| Month | -27.7% |
+| Quarter | -35.7% |
+| Half Y | -46.7% |
+| 1Y | +22.7% |
+| YTD | +40.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Revenue (ttm) | $5.46B | Revenue growth 27.10% y/y |
 | Profitability | Gross 97.44%, operating 17.02%, net 17.13% | ROA 5.50%, ROE 11.35% |
 | Balance sheet | Cash $3.62B, debt $500.00M | Current ratio 6.35, debt/equity 5.50 |
-| Valuation | P/E 203.07, forward P/E 57.23, P/S 34.60, P/B 20.80 | EV/Sales 34.03, EV/EBITDA 164.86 |
+| Valuation | P/E 185.54, forward P/E 52.29, P/S 31.61, P/B 19.01 | EV/Sales 34.03, EV/EBITDA 164.86 |
 | Growth expectations | Earnings growth -45.50%, EPS q/q -45.40% | Analyst mean target $272.43 (40 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,8 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Capital International Investors | 2,048,256 | 0.19% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 57.23, EV/Sales 34.03. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 3.94, ATR 9.8% of price, short float 10.71%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 52.29, EV/Sales 34.03. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 3.94, ATR 10.8% of price, short float 10.71%. Size positions accordingly.
 - **Short interest risk:** short float 10.71% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
@@ -113,21 +113,21 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $176.67 | EV/Sales | 34.03 |
-| Market cap | $189.04B | EV/EBITDA | 164.86 |
+| Price | $161.42 | EV/Sales | 34.03 |
+| Market cap | $172.72B | EV/EBITDA | 164.86 |
 | Beta | 3.94 | Gross margin | 97.44% |
-| RSI(14) | 42.0 | Operating margin | 17.02% |
-| ATR(14) | 17.31 | Profit margin | 17.13% |
-| SMA20 dist | -7.95% | ROA | 5.50% |
-| SMA50 dist | -25.88% | ROE | 11.35% |
-| SMA200 dist | -24.75% | Revenue (ttm) | $5.46B |
+| RSI(14) | 38.2 | Operating margin | 17.02% |
+| ATR(14) | 17.46 | Profit margin | 17.13% |
+| SMA20 dist | -14.44% | ROA | 5.50% |
+| SMA50 dist | -31.82% | ROE | 11.35% |
+| SMA200 dist | -31.30% | Revenue (ttm) | $5.46B |
 | 52W high | $439.46 | Revenue growth y/y | 27.10% |
 | 52W low | $104.55 | Inst. ownership | 95.76% |
-| P/E (ttm) | 203.07 | Insider ownership | 0.08% |
-| Forward P/E | 57.23 | Short float | 10.71% |
-| PEG (trailing) | 1.24 | Avg volume | 5,388,460 |
-| P/S | 34.60 | Employees | 9,584 |
-| P/B | 20.80 | Analyst rec (1=buy..5=sell) | 1.9 |
+| P/E (ttm) | 185.54 | Insider ownership | 0.08% |
+| Forward P/E | 52.29 | Short float | 10.71% |
+| PEG (trailing) | 1.24 | Avg volume | 5,463,075 |
+| P/S | 31.61 | Employees | 9,584 |
+| P/B | 19.01 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

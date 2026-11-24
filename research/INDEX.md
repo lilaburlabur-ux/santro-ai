@@ -3,20 +3,20 @@
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
-| NVDA | $3.99T | -8% | 9.9 | 63% | Low | Reasonable | High |
-| TSM | $1.89T | +32% | 15.5 | 51% | Low | Reasonable | High |
-| AVGO | $1.50T | -9% | 16.2 | 43% | Low | Reasonable | High |
-| MU | $800.71B | +252% | 3.4 | 64% | High | Reasonable | High |
-| AMD | $750.51B | +120% | 25.7 | 17% | High | Fair-to-demanding | High |
-| INTC | $317.09B | +77% | 33.3 | -20% | High | Fair-to-demanding | High |
-| ARM | $189.04B | +33% | 57.2 | 17% | Low | Low (expensive) | High |
-| MRVL | $130.23B | +89% | 19.6 | 28% | High | Reasonable | High |
-| QCOM | $176.96B | +6% | 13.6 | 32% | Low | Reasonable | High |
-| NXPI | $64.53B | +41% | 14.0 | 23% | Moderate | Reasonable | High |
-| LSCC | $16.06B | +77% | 25.7 | 6% | High | Fair-to-demanding | High |
-| SYNA | $4.65B | +100% | 18.0 | -41% | High | Reasonable | High |
-| CEVA | $726.59M | +37% | 33.9 | -9% | Low | Fair-to-demanding | High |
-| AVAV | $4.61B | -67% | 20.6 | -10% | Low | Fair-to-demanding | High |
+| NVDA | $3.70T | -14% | 9.2 | 63% | Low | Reasonable | High |
+| TSM | $1.81T | +28% | 14.9 | 51% | Low | Reasonable | High |
+| AVGO | $1.44T | -11% | 15.6 | 43% | Low | Reasonable | High |
+| MU | $710.43B | +203% | 3.1 | 64% | High | Reasonable | High |
+| AMD | $683.10B | +103% | 23.4 | 17% | High | Fair-to-demanding | High |
+| INTC | $292.01B | +59% | 30.7 | -20% | Low | Fair-to-demanding | High |
+| ARM | $172.72B | +23% | 52.3 | 17% | Low | Low (expensive) | High |
+| MRVL | $119.02B | +71% | 17.9 | 28% | High | Reasonable | High |
+| QCOM | $177.30B | +4% | 13.6 | 32% | Low | Reasonable | High |
+| NXPI | $60.76B | +28% | 13.1 | 23% | Low | Reasonable | High |
+| LSCC | $14.35B | +50% | 23.0 | 6% | Low | Fair-to-demanding | High |
+| SYNA | $4.66B | +86% | 18.0 | -41% | High | Reasonable | High |
+| CEVA | $658.12M | +21% | 30.7 | -9% | Low | Fair-to-demanding | High |
+| AVAV | $4.56B | -67% | 20.4 | -10% | Low | Fair-to-demanding | High |
 
 14 reports generated; failed: none.
 

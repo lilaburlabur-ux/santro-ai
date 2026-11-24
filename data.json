@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-24T23:50:55+00:00",
-  "as_of_local": "2026-11-24 23:50:55 UTC",
+  "as_of_utc": "2026-11-24T23:56:03+00:00",
+  "as_of_local": "2026-11-24 23:56:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -341,34 +343,6 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 89.4,
-      "previous_close": 90.67,
-      "change_pct": -1.4,
-      "market_cap": 4543370836.346237,
-      "headlines": [
-        {
-          "title": "AeroVironment (AVAV) Registers a Bigger Fall Than the Market: Important Facts to Note",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-registers-bigger-fall-221502239.html",
-          "publisher": "Zacks",
-          "published": "2026-11-24T22:15:02Z"
-        },
-        {
-          "title": "Red Cat Sinks 9%, Unusual Machines Slides 7%, Ondas Drops 4%: Is the Pentagon\u2019s Reported Push to Bring In General Motors and Ford a Threat to Drone Stocks?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/red-cat-sinks-9-unusual-155821798.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-24T15:58:21Z"
-        },
-        {
-          "title": "Is It Too Early To Buy Kratos Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/too-early-buy-kratos-stock-130127011.html",
-          "publisher": "Trefis",
-          "published": "2026-11-23T13:01:27Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 23.04,
@@ -463,8 +437,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -7.84,
+          "price": 273.95,
           "currency": "USD"
         },
         {
@@ -553,8 +527,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -7.84,
+        "price": 273.95,
         "currency": "USD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 59711.94,
-      "change_pct": -2.45
+      "price": 59761.26,
+      "change_pct": -2.37
     },
     {
       "label": "Gold",
-      "price": 3551.0,
-      "change_pct": -2.75
+      "price": 3552.4,
+      "change_pct": -2.71
     },
     {
       "label": "Nasdaq100",

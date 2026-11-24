@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-24T12:29:42+00:00",
-  "as_of_local": "2026-11-24 12:29:42 UTC",
+  "as_of_utc": "2026-11-24T12:34:49+00:00",
+  "as_of_local": "2026-11-24 12:34:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -143,6 +141,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-plummeted-30-over-30-121501668.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-24T12:15:01Z"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 59.66,
+      "previous_close": 51.28,
+      "change_pct": 16.34,
+      "market_cap": 317092899188.99536,
+      "headlines": [
+        {
+          "title": "Intel Has Plummeted 30% Over 30 Days: This Pro Analyst Reiterated His Buy Status, Predicting 133% Gains",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-plummeted-30-over-30-121501668.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-24T12:15:01Z"
+        },
+        {
+          "title": "U.S. chip stocks fall premarket after Nvidia-led rally on Huang\u2019s return",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/u-chip-stocks-fall-premarket-121456516.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-24T12:14:56Z"
+        },
+        {
+          "title": "Nvidia CFO\u2019s Quick Stint as CEO; State Street Focuses on New Initiatives",
+          "url": "https://www.wsj.com/cfo-journal/nvidia-cfos-quick-stint-as-ceo-state-street-focuses-on-new-initiatives-9152857d?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-24T12:05:00Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 60188.02,
-      "change_pct": -1.67
+      "price": 60129.79,
+      "change_pct": -1.77
     },
     {
       "label": "Gold",
-      "price": 3624.1,
-      "change_pct": -0.75
+      "price": 3624.7,
+      "change_pct": -0.73
     },
     {
       "label": "Nasdaq100",

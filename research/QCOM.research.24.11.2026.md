@@ -4,8 +4,8 @@ Signed file: `QCOM.research.24.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $165.70 (2026-11-24, ~15-min delayed) |
-| Market cap | $177.30B |
+| Current price | $164.99 (2026-11-24, ~15-min delayed) |
+| Market cap | $176.54B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `QCOM.research.24.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-2.46%) with negative half-year (-28.36%). |
-| Fresh setup quality | Poor / broken | -33.38% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-2.87%) with negative half-year (-28.66%). |
+| Fresh setup quality | Poor / broken | -33.67% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 31.61%, revenue growth -8.40%. |
-| Value attractiveness | Reasonable | Forward P/E 13.60, EV/Sales 4.30. |
+| Value attractiveness | Reasonable | Forward P/E 13.54, EV/Sales 4.30. |
 | Risk level | High | Beta 1.76, ATR 5.8% of price, short float 3.03%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -44,22 +44,22 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $165.70; 52w high $248.74 (-33.38%); 52w low $122.94 (+34.78%) |
-| Trend | -2.46% vs SMA200, -6.16% vs SMA50, -1.49% vs SMA20 |
-| Momentum | RSI(14) 47.5 (neutral) |
+| Price vs 52-week range | Close $164.99; 52w high $248.74 (-33.67%); 52w low $122.94 (+34.20%) |
+| Trend | -2.87% vs SMA200, -6.55% vs SMA50, -1.89% vs SMA20 |
+| Momentum | RSI(14) 47.0 (neutral) |
 | Volatility | ATR(14) 9.58 (~5.8% of price); beta 1.76 |
-| Setup perspective | -33.38% from 52w high — base needs to rebuild. |
+| Setup perspective | -33.67% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.6% |
-| Month | -7.7% |
-| Quarter | +1.8% |
-| Half Y | -28.4% |
-| 1Y | +3.6% |
-| YTD | -2.7% |
+| Week | -1.0% |
+| Month | -8.1% |
+| Quarter | +1.3% |
+| Half Y | -28.7% |
+| 1Y | +3.1% |
+| YTD | -3.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | Revenue (ttm) | $43.12B | Revenue growth -8.40% y/y |
 | Profitability | Gross 53.10%, operating 20.85%, net 31.61% | ROA 10.13%, ROE 52.81% |
 | Balance sheet | Cash $7.68B, debt $15.99B | Current ratio 1.86, debt/equity 52.60 |
-| Valuation | P/E 13.05, forward P/E 13.60, P/S 4.11, P/B 5.84 | EV/Sales 4.30, EV/EBITDA 17.45 |
+| Valuation | P/E 12.99, forward P/E 13.54, P/S 4.09, P/B 5.82 | EV/Sales 4.30, EV/EBITDA 17.45 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $185.25 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,21 +111,21 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $165.70 | EV/Sales | 4.30 |
-| Market cap | $177.30B | EV/EBITDA | 17.45 |
+| Price | $164.99 | EV/Sales | 4.30 |
+| Market cap | $176.54B | EV/EBITDA | 17.45 |
 | Beta | 1.76 | Gross margin | 53.10% |
-| RSI(14) | 47.5 | Operating margin | 20.85% |
+| RSI(14) | 47.0 | Operating margin | 20.85% |
 | ATR(14) | 9.58 | Profit margin | 31.61% |
-| SMA20 dist | -1.49% | ROA | 10.13% |
-| SMA50 dist | -6.16% | ROE | 52.81% |
-| SMA200 dist | -2.46% | Revenue (ttm) | $43.12B |
+| SMA20 dist | -1.89% | ROA | 10.13% |
+| SMA50 dist | -6.55% | ROE | 52.81% |
+| SMA200 dist | -2.87% | Revenue (ttm) | $43.12B |
 | 52W high | $248.74 | Revenue growth y/y | -8.40% |
 | 52W low | $122.94 | Inst. ownership | 82.07% |
-| P/E (ttm) | 13.05 | Insider ownership | 0.14% |
-| Forward P/E | 13.60 | Short float | 3.03% |
+| P/E (ttm) | 12.99 | Insider ownership | 0.14% |
+| Forward P/E | 13.54 | Short float | 3.03% |
 | PEG (trailing) | 0.89 | Avg volume | 13,231,243 |
-| P/S | 4.11 | Employees | 57,000 |
-| P/B | 5.84 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/S | 4.09 | Employees | 57,000 |
+| P/B | 5.82 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

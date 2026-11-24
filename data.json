@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-24T00:01:47+00:00",
-  "as_of_local": "2026-11-24 00:01:47 UTC",
+  "as_of_utc": "2026-11-24T00:06:53+00:00",
+  "as_of_local": "2026-11-24 00:06:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NXPI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -161,16 +159,16 @@
           "published": "2026-11-23T16:13:02Z"
         },
         {
+          "title": "AMD Stock Rallies Nearly 8% as a Bernstein Analyst Remains Bullish Despite the Hunterbrook Short Report",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-rallies-nearly-8-235832362.html",
+          "publisher": "TipRanks",
+          "published": "2026-11-23T23:58:32Z"
+        },
+        {
           "title": "Stock Market Today, Nov. 23: Advanced Micro Devices Climbs on AI-Chip Rebound After Nvidia Reinstates Jensen Huang as CEO",
           "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-23-221040451.html",
           "publisher": "Motley Fool",
           "published": "2026-11-23T22:10:40Z"
-        },
-        {
-          "title": "It's not over for Jensen Huang",
-          "url": "https://finance.yahoo.com/video/its-not-over-for-jensen-huang-215809126.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-23T21:58:09Z"
         }
       ]
     },
@@ -255,6 +253,34 @@
           "url": "https://www.wsj.com/finance/stocks/i-fell-off-my-chair-investors-marvel-as-huangs-return-sends-stocks-rocketing-98131bc6?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-11-23T21:45:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors",
+      "price": 256.03,
+      "previous_close": 235.15,
+      "change_pct": 8.88,
+      "market_cap": 64533126209.95813,
+      "headlines": [
+        {
+          "title": "Analog Devices Isn't Restocking. It Trades Like Nvidia Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-isnt-restocking-trades-154551913.html",
+          "publisher": "Trefis",
+          "published": "2026-11-23T15:45:51Z"
+        },
+        {
+          "title": "Could You Have Spotted Monolithic Power Stock's 52% Run?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-spotted-monolithic-power-stocks-063247207.html",
+          "publisher": "Trefis",
+          "published": "2026-11-21T06:32:47Z"
+        },
+        {
+          "title": "What Could NXP Semiconductors (NXPI) New Robotics Platform Mean For Investors?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/could-nxp-semiconductors-nxpi-robotics-121735177.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-20T12:17:35Z"
         }
       ]
     },
@@ -375,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 39.57,
-      "change_pct": 18.62,
+      "price": null,
+      "change_pct": 0.0,
       "holdings": [
         {
           "symbol": "MU",
@@ -465,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 39.57,
-    "change_pct": 18.62,
+    "price": null,
+    "change_pct": 0.0,
     "holdings": [
       {
         "symbol": "MU",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61134.07,
-      "change_pct": -0.05
+      "price": 61147.75,
+      "change_pct": -0.02
     },
     {
       "label": "Gold",
-      "price": 3621.8,
-      "change_pct": 3.03
+      "price": 3626.2,
+      "change_pct": 3.15
     },
     {
       "label": "Nasdaq100",

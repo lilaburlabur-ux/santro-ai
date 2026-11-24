@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-24T12:55:17+00:00",
-  "as_of_local": "2026-11-24 12:55:17 UTC",
+  "as_of_utc": "2026-11-24T13:00:17+00:00",
+  "as_of_local": "2026-11-24 13:00:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -197,34 +199,6 @@
           "url": "https://finance.yahoo.com/markets/article/nvidia-soars-25-as-board-reinstates-jensen-huang-as-ceo-chip-stocks-jump-142353537.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-23T13:31:09Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 165.38,
-      "previous_close": 149.94,
-      "change_pct": 10.3,
-      "market_cap": 176956605224.60938,
-      "headlines": [
-        {
-          "title": "Intel Has Plummeted 30% Over 30 Days: This Pro Analyst Reiterated His Buy Status, Predicting 133% Gains",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-plummeted-30-over-30-121501668.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-24T12:15:01Z"
-        },
-        {
-          "title": "Apple Is Barely Off Its High as Chips Crash. A Strategist Says It \u201cDefinitely Needs to Correct\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-barely-off-high-chips-075312586.html",
-          "publisher": "TIKR",
-          "published": "2026-11-24T07:53:12Z"
-        },
-        {
-          "title": "How Key Tech Stocks Reacted Today",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026/card/here-s-how-key-tech-stocks-are-reacting-to-jensen-huang-s-return-RG61uJgWg989HwP2qtPK?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-11-23T21:23:41Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 60392.16,
-      "change_pct": -1.34
+      "price": 60356.12,
+      "change_pct": -1.4
     },
     {
       "label": "Gold",

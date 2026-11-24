@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-24T08:56:07+00:00",
-  "as_of_local": "2026-11-24 08:56:07 UTC",
+  "as_of_utc": "2026-11-24T09:01:08+00:00",
+  "as_of_local": "2026-11-24 09:01:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,6 +12,12 @@
       "change_pct": 31.48,
       "market_cap": 3985462423690.796,
       "headlines": [
+        {
+          "title": "Some in Jensen Huang\u2019s native Taiwan welcome his return to Nvidia despite scandal",
+          "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-native-taiwan-welcome-084941247.html",
+          "publisher": "Associated Press",
+          "published": "2026-11-24T08:49:41Z"
+        },
         {
           "title": "European shares pause after month-best rally on Nvidia euphoria",
           "url": "https://finance.yahoo.com/markets/stocks/articles/european-shares-pause-month-best-083749877.html",
@@ -25,12 +29,34 @@
           "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-11-24T08:37:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 363.6,
+      "previous_close": 318.71,
+      "change_pct": 14.08,
+      "market_cap": 1885801612274.119,
+      "headlines": [
+        {
+          "title": "Fujitsu sees stronger Monaka demand as buyers seek alternatives, Bloomberg reports",
+          "url": "https://finance.yahoo.com/technology/articles/fujitsu-sees-stronger-monaka-demand-083637056.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-24T08:36:37Z"
         },
         {
-          "title": "Tech firms soar as Huang's return reinvigorates AI trade",
-          "url": "https://finance.yahoo.com/technology/ai/articles/tech-firms-soar-huangs-return-023753159.html",
-          "publisher": "AFP",
-          "published": "2026-11-24T08:35:31Z"
+          "title": "David Tepper, Cathie Wood and 44 Other Big Funds Bought Nvidia Last Quarter, While 27 Sold. Who\u2019s Right?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/david-tepper-cathie-wood-44-082022010.html",
+          "publisher": "TIKR",
+          "published": "2026-11-24T08:20:22Z"
+        },
+        {
+          "title": "Nvidia and 3 AI Chip Stocks for Export Control Resilient Growth",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-3-ai-chip-stocks-081204748.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-24T08:12:04Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 60177.54,
-      "change_pct": -1.69
+      "price": 59976.77,
+      "change_pct": -2.02
     },
     {
       "label": "Gold",
-      "price": 3626.0,
-      "change_pct": -0.7
+      "price": 3622.8,
+      "change_pct": -0.78
     },
     {
       "label": "Nasdaq100",

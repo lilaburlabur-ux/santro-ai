@@ -1,39 +1,11 @@
 {
-  "as_of_utc": "2026-11-24T06:24:05+00:00",
-  "as_of_local": "2026-11-24 06:24:05 UTC",
+  "as_of_utc": "2026-11-24T06:39:13+00:00",
+  "as_of_local": "2026-11-24 06:39:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "ARM"
+    "NVDA"
   ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 165.05,
-      "previous_close": 125.53,
-      "change_pct": 31.48,
-      "market_cap": 3985462423690.796,
-      "headlines": [
-        {
-          "title": "Jensen Huang is back: Does Washington have a seat in the boardroom?",
-          "url": "https://finance.yahoo.com/video/jensen-huang-is-back-does-washington-have-a-seat-in-the-boardroom-221214249.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-23T22:12:14Z"
-        },
-        {
-          "title": "Asian stocks rally as Huang's return to Nvidia revives the AI trade",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rally-huangs-nvidia-013042563.html",
-          "publisher": "Reuters",
-          "published": "2026-11-24T06:17:26Z"
-        },
-        {
-          "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-p-500-open-061037667.html",
-          "publisher": "Benzinga Prediction Markets",
-          "published": "2026-11-24T06:10:37Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -171,6 +143,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-enterprise-ai-partnerships-001743463.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-24T00:17:43Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 176.67,
+      "previous_close": 152.2,
+      "change_pct": 16.08,
+      "market_cap": 189036898040.77148,
+      "headlines": [
+        {
+          "title": "Jensen Huang back at Nvidia, stock soars; Anthropic slides",
+          "url": "https://finance.yahoo.com/video/jensen-huang-back-at-nvidia-stock-soars-anthropic-slides-161339662.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-23T16:13:39Z"
+        },
+        {
+          "title": "Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30%",
+          "url": "https://finance.yahoo.com/video/jensen-huang-back-as-nvidia-ceo-after-12-days-shares-surge-30-161302539.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-23T16:13:02Z"
+        },
+        {
+          "title": "Nvidia\u2019s Board Had Other Options: Robert Maciejko",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-board-had-other-options-222213836.html",
+          "publisher": "CorpGov.com",
+          "published": "2026-11-23T22:22:13Z"
         }
       ]
     },
@@ -392,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 7.28,
-          "price": 1164000.0,
+          "change_pct": 6.82,
+          "price": 1159000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 7.49,
-          "price": 190800.0,
+          "change_pct": 6.48,
+          "price": 189000.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 9.48,
-          "price": 8000.0,
+          "change_pct": 9.83,
+          "price": 8025.0,
           "currency": "JPY"
         },
         {
@@ -482,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 7.28,
-        "price": 1164000.0,
+        "change_pct": 6.82,
+        "price": 1159000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 7.49,
-        "price": 190800.0,
+        "change_pct": 6.48,
+        "price": 189000.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 9.48,
-        "price": 8000.0,
+        "change_pct": 9.83,
+        "price": 8025.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60328.32,
-      "change_pct": -1.36
+      "price": 60343.6,
+      "change_pct": -1.34
     },
     {
       "label": "Gold",
-      "price": 3628.0,
-      "change_pct": -0.64
+      "price": 3616.4,
+      "change_pct": -0.96
     },
     {
       "label": "Nasdaq100",

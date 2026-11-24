@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-24T22:34:59+00:00",
-  "as_of_local": "2026-11-24 22:34:59 UTC",
+  "as_of_utc": "2026-11-24T22:39:58+00:00",
+  "as_of_local": "2026-11-24 22:39:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LSCC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -155,6 +153,12 @@
       "market_cap": 291261995944.9768,
       "headlines": [
         {
+          "title": "Intel And 2 More AI Stocks To Watch",
+          "url": "https://finance.yahoo.com/technology/ai/articles/intel-2-more-ai-stocks-221918630.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-24T22:19:18Z"
+        },
+        {
           "title": "Top Analyst Reports for Apple, Philip Morris & Intel",
           "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-apple-philip-205300421.html",
           "publisher": "Zacks",
@@ -165,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/even-big-gains-insiders-loading-204333113.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-24T20:43:33Z"
-        },
-        {
-          "title": "Trump Warns of \u201cPaying 200 Percent on Chips\u201d in Two Years. That Pushes TSMC Toward a $22.6 Billion Texas Plant",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/trump-warns-paying-200-percent-195922778.html",
-          "publisher": "TIKR",
-          "published": "2026-11-24T19:59:22Z"
         }
       ]
     },
@@ -283,6 +281,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/could-monolithic-power-stock-drop-172027660.html",
           "publisher": "Trefis",
           "published": "2026-11-24T17:20:27Z"
+        }
+      ]
+    },
+    {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 100.37,
+      "previous_close": 112.95,
+      "change_pct": -11.14,
+      "market_cap": 14275192996.304527,
+      "headlines": [
+        {
+          "title": "Why Lattice Semiconductor (LSCC) Stock Is Down Today: Chip Stocks Sell Off",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-lattice-semiconductor-lscc-stock-163030189.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-24T16:30:30Z"
+        },
+        {
+          "title": "Lattice Semiconductor Stock Jumps 14% as Chips Rally on Nvidia on Monday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-stock-jumps-14-170209404.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-23T17:02:09Z"
+        },
+        {
+          "title": "LSCC Rides on Balanced Organic & Inorganic Growth: Should You Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lscc-rides-balanced-organic-inorganic-121500392.html",
+          "publisher": "Zacks",
+          "published": "2026-11-23T12:15:00Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 59956.22,
-      "change_pct": -2.05
+      "price": 59963.42,
+      "change_pct": -2.04
     },
     {
       "label": "Gold",

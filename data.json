@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-11-25T08:21:29+00:00",
-  "as_of_local": "2026-11-25 08:21:29 UTC",
+  "as_of_utc": "2026-11-25T08:26:27+00:00",
+  "as_of_local": "2026-11-25 08:26:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 155.38,
-      "previous_close": 165.05,
-      "change_pct": -5.86,
-      "market_cap": 3751960977905.2734,
-      "headlines": [
-        {
-          "title": "Why Trump wanted Jensen Huang back at the helm of Nvidia",
-          "url": "https://finance.yahoo.com/markets/article/why-trump-wanted-jensen-huang-back-at-the-helm-of-nvidia-224325153.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-24T22:43:25Z"
-        },
-        {
-          "title": "Anthropic falls below IPO price as Nvidia gives back gains",
-          "url": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-24T21:45:58Z"
-        },
-        {
-          "title": "Why Nvidia is 'bar none' the 'cheapest growth stock in the market'",
-          "url": "https://finance.yahoo.com/video/why-nvidia-is-bar-none-the-cheapest-growth-stock-in-the-market-213425021.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-24T21:34:25Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 58909.08,
-      "change_pct": -1.4
+      "price": 58874.21,
+      "change_pct": -1.46
     },
     {
       "label": "Gold",
-      "price": 3519.4,
-      "change_pct": -1.19
+      "price": 3522.1,
+      "change_pct": -1.12
     },
     {
       "label": "Nasdaq100",

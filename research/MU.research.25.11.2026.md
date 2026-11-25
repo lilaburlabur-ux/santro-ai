@@ -36,7 +36,7 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia, AMD, and Micron stocks sink as investors flee AI trade | Yahoo Finance | 2026-11-25 |
+| Nvidia, AMD, and Micron stocks trim steep losses amid jittery AI trade | Yahoo Finance | 2026-11-25 |
 | Addus HomeCare And 2 Cash Flow Stocks To Watch | Simply Wall St. | 2026-11-25 |
 | David Tepper Sold All of His AMD Stock. His Biggest Position Is Micron. | Motley Fool | 2026-11-25 |
 | The $2 trillion chip rally is unraveling — here's what history says comes next | Yahoo Finance | 2026-11-25 |

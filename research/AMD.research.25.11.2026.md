@@ -36,7 +36,7 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia, AMD, and Micron stocks sink as investors flee AI trade | Yahoo Finance | 2026-11-25 |
+| Nvidia, AMD, and Micron stocks trim steep losses amid jittery AI trade | Yahoo Finance | 2026-11-25 |
 | Anthropic’s Chip Choices Could Change the Nvidia Story. Here’s How. | Motley Fool | 2026-11-25 |
 | What Sent Qualcomm Stock Higher? | Trefis | 2026-11-25 |
 | David Tepper Sold All of His AMD Stock. His Biggest Position Is Micron. | Motley Fool | 2026-11-25 |

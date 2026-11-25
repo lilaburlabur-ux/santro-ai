@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
+| Nvidia, AMD, and Micron stocks trim steep losses amid jittery AI trade | Yahoo Finance | 2026-11-25 |
 | AI spending leads the biggest market risks heading into 2027 | Investing.com | 2026-11-25 |
 | What Sent Qualcomm Stock Higher? | Trefis | 2026-11-25 |
 | The $2 trillion chip rally is unraveling — here's what history says comes next | Yahoo Finance | 2026-11-25 |
-| Why Did Nvidia Stock Jump So Much? | Trefis | 2026-11-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

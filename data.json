@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-25T21:23:13+00:00",
-  "as_of_local": "2026-11-25 21:23:13 UTC",
+  "as_of_utc": "2026-11-25T21:27:58+00:00",
+  "as_of_local": "2026-11-25 21:27:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-25T14:53:06Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 168.66,
-      "previous_close": 164.96,
-      "change_pct": 2.24,
-      "market_cap": 180466203918.45703,
-      "headlines": [
-        {
-          "title": "What Sent Qualcomm Stock Higher?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sent-qualcomm-stock-higher-202330968.html",
-          "publisher": "Trefis",
-          "published": "2026-11-25T20:23:30Z"
-        },
-        {
-          "title": "Billionaire Brad Gerstner\u2019s Altimeter Opened a $680 Million Tesla Stake and Exited Qualcomm and Applied Materials",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-brad-gerstner-altimeter-opened-202201972.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-25T20:22:01Z"
-        },
-        {
-          "title": "Why Did Nvidia Stock Jump So Much?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-nvidia-stock-jump-190703657.html",
-          "publisher": "Trefis",
-          "published": "2026-11-25T19:07:03Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60176.55,
-      "change_pct": 0.72
+      "price": 60356.74,
+      "change_pct": 1.02
     },
     {
       "label": "Gold",
-      "price": 3598.0,
-      "change_pct": 1.01
+      "price": 3600.2,
+      "change_pct": 1.08
     },
     {
       "label": "Nasdaq100",

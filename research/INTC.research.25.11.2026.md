@@ -4,7 +4,7 @@ Signed file: `INTC.research.25.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $53.68 (2026-11-25, ~15-min delayed) |
+| Current price | $53.69 (2026-11-25, ~15-min delayed) |
 | Market cap | $285.33B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
@@ -15,8 +15,8 @@ Signed file: `INTC.research.25.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-38.75%) with negative half-year (-55.59%). |
-| Fresh setup quality | Poor / broken | -61.91% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-38.74%) with negative half-year (-55.58%). |
+| Fresh setup quality | Poor / broken | -61.90% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-20.09%). |
 | Value attractiveness | Fair-to-demanding | Forward P/E 29.98, EV/Sales 5.08. |
 | Risk level | High | Beta 2.43, ATR 10.3% of price, short float 3.20%. |
@@ -44,11 +44,11 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $53.68; 52w high $140.94 (-61.91%); 52w low $35.83 (+49.83%) |
-| Trend | -38.75% vs SMA200, -38.77% vs SMA50, -9.50% vs SMA20 |
+| Price vs 52-week range | Close $53.69; 52w high $140.94 (-61.90%); 52w low $35.83 (+49.86%) |
+| Trend | -38.74% vs SMA200, -38.76% vs SMA50, -9.49% vs SMA20 |
 | Momentum | RSI(14) 35.4 (neutral) |
 | Volatility | ATR(14) 5.52 (~10.3% of price); beta 2.43 |
-| Setup perspective | -61.91% from 52w high — base needs to rebuild. |
+| Setup perspective | -61.90% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
@@ -59,7 +59,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | Quarter | -41.7% |
 | Half Y | -55.6% |
 | 1Y | +50.0% |
-| YTD | +36.3% |
+| YTD | +36.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -113,14 +113,14 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $53.68 | EV/Sales | 5.08 |
+| Price | $53.69 | EV/Sales | 5.08 |
 | Market cap | $285.33B | EV/EBITDA | 15.89 |
 | Beta | 2.43 | Gross margin | 40.15% |
 | RSI(14) | 35.4 | Operating margin | 10.32% |
 | ATR(14) | 5.52 | Profit margin | -20.09% |
-| SMA20 dist | -9.50% | ROA | 1.78% |
-| SMA50 dist | -38.77% | ROE | -9.62% |
-| SMA200 dist | -38.75% | Revenue (ttm) | $59.89B |
+| SMA20 dist | -9.49% | ROA | 1.78% |
+| SMA50 dist | -38.76% | ROE | -9.62% |
+| SMA200 dist | -38.74% | Revenue (ttm) | $59.89B |
 | 52W high | $140.94 | Revenue growth y/y | 20.90% |
 | 52W low | $35.83 | Inst. ownership | 69.05% |
 | P/E (ttm) | — | Insider ownership | 12.91% |

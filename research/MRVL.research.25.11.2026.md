@@ -4,24 +4,24 @@ Signed file: `MRVL.research.25.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $131.57 (2026-11-25, ~15-min delayed) |
-| Market cap | $118.38B |
+| Current price | $128.89 (2026-11-25, ~15-min delayed) |
+| Market cap | $115.97B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
+| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-25.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +70.16%; price -30.42% vs SMA200. |
-| Fresh setup quality | Poor / broken | -58.40% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-31.92%) with negative half-year (-37.05%). |
+| Fresh setup quality | Poor / broken | -59.25% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 27.93%, revenue growth 36.50%. |
-| Value attractiveness | Reasonable | Forward P/E 17.85, EV/Sales 12.35. |
-| Risk level | High | Beta 2.33, ATR 12.8% of price, short float 3.48%. |
+| Value attractiveness | Reasonable | Forward P/E 17.49, EV/Sales 12.35. |
+| Risk level | High | Beta 2.33, ATR 12.9% of price, short float 4.36%. |
 
-**Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: high.
+**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
-| Review & Preview: Tech’s Rough Day | Barrons.com | 2026-11-25 |
-| Stephanie Link Says Marvell Could Earn $30 a Share by 2031. Is She Right? | 24/7 Wall St. | 2026-11-24 |
-| 3 Winners From Huang’s Return—for the Long Haul | Barrons.com | 2026-11-24 |
-| Morning Movers: Dick’s Sporting and Dollar Tree gain following quarterly reports | TipRanks | 2026-11-24 |
+| Why Did Nvidia Stock Jump So Much? | Trefis | 2026-11-25 |
+| Anthropic, Nvidia, Micron, HP Inc., Dell, Deere, and More Stocks That Explain Today’s Market | Barrons.com | 2026-11-25 |
+| Marvell Technology Stocks Fall 8.47% as Data Center Exposure Bites | GuruFocus.com | 2026-11-25 |
+| Credo Technology Crashed 27% Over a Month: This Wall Street Desk Now Expects 190% Returns | 24/7 Wall St. | 2026-11-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $131.57; 52w high $316.28 (-58.40%); 52w low $73.66 (+78.62%) |
-| Trend | -30.42% vs SMA200, -39.36% vs SMA50, -18.28% vs SMA20 |
-| Momentum | RSI(14) 35.3 (neutral) |
-| Volatility | ATR(14) 16.87 (~12.8% of price); beta 2.33 |
-| Setup perspective | -58.40% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $128.89; 52w high $316.28 (-59.25%); 52w low $73.66 (+74.98%) |
+| Trend | -31.92% vs SMA200, -40.04% vs SMA50, -16.77% vs SMA20 |
+| Momentum | RSI(14) 34.6 (neutral) |
+| Volatility | ATR(14) 16.65 (~12.9% of price); beta 2.33 |
+| Setup perspective | -59.25% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -11.5% |
-| Month | -43.7% |
-| Quarter | -46.3% |
-| Half Y | -33.8% |
-| 1Y | +70.2% |
-| YTD | +47.4% |
+| Week | -11.4% |
+| Month | -47.1% |
+| Quarter | -46.6% |
+| Half Y | -37.0% |
+| 1Y | +54.1% |
+| YTD | +44.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,16 +68,16 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Revenue (ttm) | $9.45B | Revenue growth 36.50% y/y |
 | Profitability | Gross 52.22%, operating 16.81%, net 27.93% | ROA 4.12%, ROE 16.52% |
 | Balance sheet | Cash $3.93B, debt $5.29B | Current ratio 3.17, debt/equity 28.52 |
-| Valuation | P/E 43.28, forward P/E 17.85, P/S 12.53, P/B 6.23 | EV/Sales 12.35, EV/EBITDA 40.95 |
-| Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $301.02 (40 analysts) |
+| Valuation | P/E 42.40, forward P/E 17.49, P/S 12.27, P/B 6.10 | EV/Sales 12.35, EV/EBITDA 40.95 |
+| Growth expectations | Earnings growth 50.00%, EPS q/q 58.10% | Analyst mean target $298.99 (39 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
 | Institutional ownership | 80.78% |
 | Insider ownership | 0.53% |
-| Short float | 3.48% |
-| Short ratio (days to cover) | 1.2 |
+| Short float | 4.36% |
+| Short ratio (days to cover) | 1.1 |
 
 **Top institutional holders:**
 
@@ -95,7 +95,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | Van Eck Associates Corporation | 13,574,478 | 1.55% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.33, ATR 12.8% of price, short float 3.48%. Size positions accordingly.
+- **Volatility risk:** Beta 2.33, ATR 12.9% of price, short float 4.36%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,21 +111,21 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $131.57 | EV/Sales | 12.35 |
-| Market cap | $118.38B | EV/EBITDA | 40.95 |
+| Price | $128.89 | EV/Sales | 12.35 |
+| Market cap | $115.97B | EV/EBITDA | 40.95 |
 | Beta | 2.33 | Gross margin | 52.22% |
-| RSI(14) | 35.3 | Operating margin | 16.81% |
-| ATR(14) | 16.87 | Profit margin | 27.93% |
-| SMA20 dist | -18.28% | ROA | 4.12% |
-| SMA50 dist | -39.36% | ROE | 16.52% |
-| SMA200 dist | -30.42% | Revenue (ttm) | $9.45B |
+| RSI(14) | 34.6 | Operating margin | 16.81% |
+| ATR(14) | 16.65 | Profit margin | 27.93% |
+| SMA20 dist | -16.77% | ROA | 4.12% |
+| SMA50 dist | -40.04% | ROE | 16.52% |
+| SMA200 dist | -31.92% | Revenue (ttm) | $9.45B |
 | 52W high | $316.28 | Revenue growth y/y | 36.50% |
 | 52W low | $73.66 | Inst. ownership | 80.78% |
-| P/E (ttm) | 43.28 | Insider ownership | 0.53% |
-| Forward P/E | 17.85 | Short float | 3.48% |
-| PEG (trailing) | 0.30 | Avg volume | 24,768,060 |
-| P/S | 12.53 | Employees | 7,480 |
-| P/B | 6.23 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/E (ttm) | 42.40 | Insider ownership | 0.53% |
+| Forward P/E | 17.49 | Short float | 4.36% |
+| PEG (trailing) | 0.30 | Avg volume | 24,872,340 |
+| P/S | 12.27 | Employees | 7,480 |
+| P/B | 6.10 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -140,7 +140,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | 2026-11-03 | main | Cantor Fitzgerald | Neutral → Neutral |
 
 ## 9. Conclusion
-MRVL: High momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+MRVL: Low momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

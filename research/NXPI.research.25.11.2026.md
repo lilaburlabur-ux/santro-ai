@@ -4,8 +4,8 @@ Signed file: `NXPI.research.25.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $239.40 (2026-11-25, ~15-min delayed) |
-| Market cap | $60.34B |
+| Current price | $240.58 (2026-11-25, ~15-min delayed) |
+| Market cap | $60.64B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `NXPI.research.25.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-3.19%) with negative half-year (-26.71%). |
-| Fresh setup quality | Poor / broken | -27.47% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-2.73%) with negative half-year (-26.58%). |
+| Fresh setup quality | Poor / broken | -27.11% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 23.39%, revenue growth 19.30%. |
-| Value attractiveness | Reasonable | Forward P/E 13.05, EV/Sales 4.91. |
-| Risk level | High | Beta 1.86, ATR 5.8% of price, short float 2.75%. |
+| Value attractiveness | Reasonable | Forward P/E 13.12, EV/Sales 4.91. |
+| Risk level | High | Beta 1.86, ATR 5.8% of price, short float 3.01%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
+| Analog Devices Just Plunged After Earnings. Is Its Dividend Now a Bargain? | 24/7 Wall St. | 2026-11-25 |
+| Prediction: Qualcomm Becomes the Top Auto Chipmaker in 2027, “a Story the Market Has Quietly Ignored,” per SemiAnalysis | TIKR | 2026-11-25 |
 | What Is The True Hidden Price Of Texas Instruments Stock? | Trefis | 2026-11-24 |
 | Why Is NXP (NXPI) Stock Down Today? Chip Sector Selloff Drags Shares | GuruFocus.com | 2026-11-24 |
-| Could Monolithic Power Stock Drop 30% Again? | Trefis | 2026-11-24 |
-| Analog Devices Isn't Restocking. It Trades Like Nvidia Now | Trefis | 2026-11-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $239.40; 52w high $330.06 (-27.47%); 52w low $185.92 (+28.77%) |
-| Trend | -3.19% vs SMA200, -1.51% vs SMA50, -6.42% vs SMA20 |
-| Momentum | RSI(14) 44.7 (neutral) |
-| Volatility | ATR(14) 13.90 (~5.8% of price); beta 1.86 |
-| Setup perspective | -27.47% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $240.58; 52w high $330.06 (-27.11%); 52w low $185.92 (+29.40%) |
+| Trend | -2.73% vs SMA200, -1.20% vs SMA50, -5.75% vs SMA20 |
+| Momentum | RSI(14) 45.4 (neutral) |
+| Volatility | ATR(14) 14.05 (~5.8% of price); beta 1.86 |
+| Setup perspective | -27.11% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.2% |
-| Month | -2.6% |
-| Quarter | +7.8% |
-| Half Y | -26.7% |
-| 1Y | +27.3% |
-| YTD | +9.6% |
+| Week | -4.7% |
+| Month | -5.1% |
+| Quarter | +7.0% |
+| Half Y | -26.6% |
+| 1Y | +27.8% |
+| YTD | +10.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,16 +68,16 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Revenue (ttm) | $13.80B | Revenue growth 19.30% y/y |
 | Profitability | Gross 56.46%, operating 33.84%, net 23.39% | ROA 10.82%, ROE 28.67% |
 | Balance sheet | Cash $3.94B, debt $10.98B | Current ratio 2.12, debt/equity 88.07 |
-| Valuation | P/E 18.84, forward P/E 13.05, P/S 4.37, P/B 4.99 | EV/Sales 4.91, EV/EBITDA 12.58 |
-| Growth expectations | Earnings growth 40.30%, EPS q/q 40.10% | Analyst mean target $301.80 (30 analysts) |
+| Valuation | P/E 18.93, forward P/E 13.12, P/S 4.39, P/B 5.02 | EV/Sales 4.91, EV/EBITDA 12.58 |
+| Growth expectations | Earnings growth 40.30%, EPS q/q 40.10% | Analyst mean target $302.63 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 100.85% |
+| Institutional ownership | 100.86% |
 | Insider ownership | 0.39% |
-| Short float | 2.75% |
-| Short ratio (days to cover) | 1.5 |
+| Short float | 3.01% |
+| Short ratio (days to cover) | 1.3 |
 
 **Top institutional holders:**
 
@@ -95,7 +95,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Boston Partners | 5,095,582 | 2.02% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.86, ATR 5.8% of price, short float 2.75%. Size positions accordingly.
+- **Volatility risk:** Beta 1.86, ATR 5.8% of price, short float 3.01%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,21 +111,21 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $239.40 | EV/Sales | 4.91 |
-| Market cap | $60.34B | EV/EBITDA | 12.58 |
+| Price | $240.58 | EV/Sales | 4.91 |
+| Market cap | $60.64B | EV/EBITDA | 12.58 |
 | Beta | 1.86 | Gross margin | 56.46% |
-| RSI(14) | 44.7 | Operating margin | 33.84% |
-| ATR(14) | 13.90 | Profit margin | 23.39% |
-| SMA20 dist | -6.42% | ROA | 10.82% |
-| SMA50 dist | -1.51% | ROE | 28.67% |
-| SMA200 dist | -3.19% | Revenue (ttm) | $13.80B |
+| RSI(14) | 45.4 | Operating margin | 33.84% |
+| ATR(14) | 14.05 | Profit margin | 23.39% |
+| SMA20 dist | -5.75% | ROA | 10.82% |
+| SMA50 dist | -1.20% | ROE | 28.67% |
+| SMA200 dist | -2.73% | Revenue (ttm) | $13.80B |
 | 52W high | $330.06 | Revenue growth y/y | 19.30% |
-| 52W low | $185.92 | Inst. ownership | 100.85% |
-| P/E (ttm) | 18.84 | Insider ownership | 0.39% |
-| Forward P/E | 13.05 | Short float | 2.75% |
-| PEG (trailing) | 0.47 | Avg volume | 4,193,212 |
-| P/S | 4.37 | Employees | 32,169 |
-| P/B | 4.99 | Analyst rec (1=buy..5=sell) | 1.8 |
+| 52W low | $185.92 | Inst. ownership | 100.86% |
+| P/E (ttm) | 18.93 | Insider ownership | 0.39% |
+| Forward P/E | 13.12 | Short float | 3.01% |
+| PEG (trailing) | 0.47 | Avg volume | 4,252,603 |
+| P/S | 4.39 | Employees | 32,169 |
+| P/B | 5.02 | Analyst rec (1=buy..5=sell) | 1.8 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `AMD.research.25.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $413.27 (2026-11-25, ~15-min delayed) |
-| Market cap | $683.99B |
+| Current price | $402.33 (2026-11-25, ~15-min delayed) |
+| Market cap | $665.89B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `AMD.research.25.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +102.80%; price -4.34% vs SMA200. |
-| Fresh setup quality | Poor / broken | -36.36% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +87.09%; price -7.07% vs SMA200. |
+| Fresh setup quality | Poor / broken | -38.05% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 16.77%, revenue growth 44.70%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 23.43, EV/Sales 14.77. |
-| Risk level | High | Beta 2.54, ATR 11.3% of price, short float 2.36%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 22.84, EV/Sales 14.77. |
+| Risk level | High | Beta 2.54, ATR 11.6% of price, short float 2.97%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
 
@@ -36,30 +36,30 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
-| Anthropic falls below IPO price as Nvidia gives back gains | Yahoo Finance Video | 2026-11-24 |
-| Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure | Yahoo Finance | 2026-11-24 |
-| Stocks give back gains as Anthropic dips below IPO price | Yahoo Finance Video | 2026-11-24 |
-| Jensen Huang is back at Nvidia. Should AMD be worried? | Yahoo Finance | 2026-11-24 |
+| Nvidia, AMD, and Micron stocks sink as investors flee AI trade | Yahoo Finance | 2026-11-25 |
+| David Tepper Sold All of His AMD Stock. His Biggest Position Is Micron. | Motley Fool | 2026-11-25 |
+| The $2 trillion chip rally is unraveling — here's what history says comes next | Yahoo Finance | 2026-11-25 |
+| Why Did Nvidia Stock Jump So Much? | Trefis | 2026-11-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $413.27; 52w high $649.42 (-36.36%); 52w low $190.95 (+116.43%) |
-| Trend | -4.34% vs SMA200, -24.93% vs SMA50, -16.99% vs SMA20 |
-| Momentum | RSI(14) 38.7 (neutral) |
-| Volatility | ATR(14) 46.80 (~11.3% of price); beta 2.54 |
-| Setup perspective | -36.36% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $402.33; 52w high $649.42 (-38.05%); 52w low $190.95 (+110.70%) |
+| Trend | -7.07% vs SMA200, -26.62% vs SMA50, -17.73% vs SMA20 |
+| Momentum | RSI(14) 37.7 (neutral) |
+| Volatility | ATR(14) 46.51 (~11.6% of price); beta 2.54 |
+| Setup perspective | -38.05% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -17.9% |
-| Month | -22.2% |
-| Quarter | -14.1% |
-| Half Y | -16.6% |
-| 1Y | +102.8% |
-| YTD | +84.9% |
+| Week | -24.1% |
+| Month | -28.2% |
+| Quarter | -15.6% |
+| Half Y | -22.3% |
+| 1Y | +87.1% |
+| YTD | +80.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,35 +68,35 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 | Revenue (ttm) | $45.44B | Revenue growth 44.70% y/y |
 | Profitability | Gross 56.00%, operating 17.82%, net 16.77% | ROA 5.90%, ROE 11.96% |
 | Balance sheet | Cash $15.78B, debt $9.21B | Current ratio 2.73, debt/equity 13.47 |
-| Valuation | P/E 88.31, forward P/E 23.43, P/S 15.05, P/B 9.91 | EV/Sales 14.77, EV/EBITDA 60.24 |
-| Growth expectations | Earnings growth 93.80%, EPS q/q 95.30% | Analyst mean target $656.21 (49 analysts) |
+| Valuation | P/E 85.97, forward P/E 22.84, P/S 14.66, P/B 9.65 | EV/Sales 14.77, EV/EBITDA 60.24 |
+| Growth expectations | Earnings growth 93.80%, EPS q/q 95.30% | Analyst mean target $649.89 (49 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
 | Institutional ownership | 75.33% |
 | Insider ownership | 0.45% |
-| Short float | 2.36% |
-| Short ratio (days to cover) | 1.9 |
+| Short float | 2.97% |
+| Short ratio (days to cover) | 1.5 |
 
 **Top institutional holders:**
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 152,491,791 | 9.30% | 2026-09-30 |
-| Vanguard Capital Management LLC | 106,857,517 | 6.52% | 2026-09-30 |
-| State Street Corporation | 75,437,436 | 4.60% | 2026-09-30 |
-| Invesco Ltd. | 54,011,763 | 3.29% | 2026-09-30 |
-| FMR, LLC | 53,290,183 | 3.25% | 2026-09-30 |
-| Geode Capital Management, LLC | 40,409,652 | 2.46% | 2026-09-30 |
-| Vanguard Portfolio Management LLC | 38,154,563 | 2.33% | 2026-09-30 |
-| JPMORGAN CHASE & CO | 38,033,565 | 2.32% | 2026-09-30 |
-| Price (T.Rowe) Associates Inc | 36,659,447 | 2.24% | 2026-09-30 |
-| Morgan Stanley | 24,001,499 | 1.46% | 2026-09-30 |
+| Blackrock Inc. | 152,491,791 | 9.21% | 2026-09-30 |
+| Vanguard Capital Management LLC | 106,857,517 | 6.45% | 2026-09-30 |
+| State Street Corporation | 75,437,436 | 4.55% | 2026-09-30 |
+| Invesco Ltd. | 54,011,763 | 3.26% | 2026-09-30 |
+| FMR, LLC | 53,290,183 | 3.22% | 2026-09-30 |
+| Geode Capital Management, LLC | 40,409,652 | 2.44% | 2026-09-30 |
+| JPMORGAN CHASE & CO | 38,033,565 | 2.30% | 2026-09-30 |
+| Vanguard Portfolio Management LLC | 38,154,563 | 2.30% | 2026-09-30 |
+| Price (T.Rowe) Associates Inc | 36,659,447 | 2.21% | 2026-09-30 |
+| Morgan Stanley | 24,001,499 | 1.45% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 23.43, EV/Sales 14.77. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.54, ATR 11.3% of price, short float 2.36%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 22.84, EV/Sales 14.77. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.54, ATR 11.6% of price, short float 2.97%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -112,21 +112,21 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $413.27 | EV/Sales | 14.77 |
-| Market cap | $683.99B | EV/EBITDA | 60.24 |
+| Price | $402.33 | EV/Sales | 14.77 |
+| Market cap | $665.89B | EV/EBITDA | 60.24 |
 | Beta | 2.54 | Gross margin | 56.00% |
-| RSI(14) | 38.7 | Operating margin | 17.82% |
-| ATR(14) | 46.80 | Profit margin | 16.77% |
-| SMA20 dist | -16.99% | ROA | 5.90% |
-| SMA50 dist | -24.93% | ROE | 11.96% |
-| SMA200 dist | -4.34% | Revenue (ttm) | $45.44B |
+| RSI(14) | 37.7 | Operating margin | 17.82% |
+| ATR(14) | 46.51 | Profit margin | 16.77% |
+| SMA20 dist | -17.73% | ROA | 5.90% |
+| SMA50 dist | -26.62% | ROE | 11.96% |
+| SMA200 dist | -7.07% | Revenue (ttm) | $45.44B |
 | 52W high | $649.42 | Revenue growth y/y | 44.70% |
 | 52W low | $190.95 | Inst. ownership | 75.33% |
-| P/E (ttm) | 88.31 | Insider ownership | 0.45% |
-| Forward P/E | 23.43 | Short float | 2.36% |
-| PEG (trailing) | 0.40 | Avg volume | 27,699,223 |
-| P/S | 15.05 | Employees | 31,000 |
-| P/B | 9.91 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/E (ttm) | 85.97 | Insider ownership | 0.45% |
+| Forward P/E | 22.84 | Short float | 2.97% |
+| PEG (trailing) | 0.40 | Avg volume | 28,122,256 |
+| P/S | 14.66 | Employees | 31,000 |
+| P/B | 9.65 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

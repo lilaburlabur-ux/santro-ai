@@ -4,8 +4,8 @@ Signed file: `AVAV.research.25.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $89.40 (2026-11-25, ~15-min delayed) |
-| Market cap | $4.54B |
+| Current price | $90.91 (2026-11-25, ~15-min delayed) |
+| Market cap | $4.62B |
 | Sector / Industry | Industrials / Aerospace & Defense |
 | Main theme | Aerospace & Defense — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `AVAV.research.25.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-47.15%) with negative half-year (-50.68%). |
-| Fresh setup quality | Poor / broken | -77.24% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-45.98%) with negative half-year (-57.59%). |
+| Fresh setup quality | Poor / broken | -76.86% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-10.13%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.28, EV/Sales 2.40. |
-| Risk level | High | Beta 1.40, ATR 8.8% of price, short float 13.32%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.62, EV/Sales 2.40. |
+| Risk level | High | Beta 1.40, ATR 8.7% of price, short float 14.54%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
 
@@ -36,30 +36,30 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 | Headline | Source | Date |
 |---|---|---|
+| Can AeroVironment's Taiwan MOU Broaden Its Uncrewed Systems Reach? | Zacks | 2026-11-25 |
+| ETFs Are Net Sellers of AeroVironment (AVAV) on Nov. 23 | GuruFocus.com | 2026-11-25 |
 | AeroVironment (AVAV) Registers a Bigger Fall Than the Market: Important Facts to Note | Zacks | 2026-11-24 |
 | Red Cat Sinks 9%, Unusual Machines Slides 7%, Ondas Drops 4%: Is the Pentagon’s Reported Push to Bring In General Motors and Ford a Threat to Drone Stocks? | 24/7 Wall St. | 2026-11-24 |
-| Is It Too Early To Buy Kratos Stock? | Trefis | 2026-11-23 |
-| Can AeroVironment's $405 Million LOCUST X3 Order Expand Its Reach? | Zacks | 2026-11-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $89.40; 52w high $392.86 (-77.24%); 52w low $86.79 (+3.01%) |
-| Trend | -47.15% vs SMA200, -30.12% vs SMA50, -20.63% vs SMA20 |
-| Momentum | RSI(14) 31.0 (neutral) |
-| Volatility | ATR(14) 7.88 (~8.8% of price); beta 1.40 |
-| Setup perspective | -77.24% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $90.91; 52w high $392.86 (-76.86%); 52w low $86.79 (+4.75%) |
+| Trend | -45.98% vs SMA200, -28.20% vs SMA50, -18.01% vs SMA20 |
+| Momentum | RSI(14) 32.6 (neutral) |
+| Volatility | ATR(14) 7.90 (~8.7% of price); beta 1.40 |
+| Setup perspective | -76.86% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -14.4% |
-| Month | -28.7% |
-| Quarter | -39.1% |
-| Half Y | -50.7% |
+| Week | -10.1% |
+| Month | -28.3% |
+| Quarter | -40.3% |
+| Half Y | -57.6% |
 | 1Y | -67.2% |
-| YTD | -65.1% |
+| YTD | -64.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Revenue (ttm) | $2.00B | Revenue growth 5.70% y/y |
 | Profitability | Gross 26.47%, operating -0.60%, net -10.13% | ROA -0.13%, ROE -4.60% |
 | Balance sheet | Cash $580.23M, debt $850.82M | Current ratio 4.26, debt/equity 19.35 |
-| Valuation | P/E —, forward P/E 20.28, P/S 2.27, P/B 1.03 | EV/Sales 2.40, EV/EBITDA 21.92 |
+| Valuation | P/E —, forward P/E 20.62, P/S 2.31, P/B 1.05 | EV/Sales 2.40, EV/EBITDA 21.92 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $210.86 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -76,8 +76,8 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 |---|---|
 | Institutional ownership | 91.69% |
 | Insider ownership | 0.90% |
-| Short float | 13.32% |
-| Short ratio (days to cover) | 3.6 |
+| Short float | 14.54% |
+| Short ratio (days to cover) | 4.0 |
 
 **Top institutional holders:**
 
@@ -95,9 +95,9 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Alyeska Investment Group, L.p. | 639,382 | 1.26% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.28, EV/Sales 2.40. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.40, ATR 8.8% of price, short float 13.32%. Size positions accordingly.
-- **Short interest risk:** short float 13.32% can fuel squeezes both ways around news.
+- **Valuation risk:** Forward P/E 20.62, EV/Sales 2.40. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.40, ATR 8.7% of price, short float 14.54%. Size positions accordingly.
+- **Short interest risk:** short float 14.54% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** defense/aerospace names live and die on government budgets, appropriations timing, and program/contract awards — revenue is policy-driven and lumpy.
@@ -114,21 +114,21 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $89.40 | EV/Sales | 2.40 |
-| Market cap | $4.54B | EV/EBITDA | 21.92 |
+| Price | $90.91 | EV/Sales | 2.40 |
+| Market cap | $4.62B | EV/EBITDA | 21.92 |
 | Beta | 1.40 | Gross margin | 26.47% |
-| RSI(14) | 31.0 | Operating margin | -0.60% |
-| ATR(14) | 7.88 | Profit margin | -10.13% |
-| SMA20 dist | -20.63% | ROA | -0.13% |
-| SMA50 dist | -30.12% | ROE | -4.60% |
-| SMA200 dist | -47.15% | Revenue (ttm) | $2.00B |
+| RSI(14) | 32.6 | Operating margin | -0.60% |
+| ATR(14) | 7.90 | Profit margin | -10.13% |
+| SMA20 dist | -18.01% | ROA | -0.13% |
+| SMA50 dist | -28.20% | ROE | -4.60% |
+| SMA200 dist | -45.98% | Revenue (ttm) | $2.00B |
 | 52W high | $392.86 | Revenue growth y/y | 5.70% |
 | 52W low | $86.79 | Inst. ownership | 91.69% |
 | P/E (ttm) | — | Insider ownership | 0.90% |
-| Forward P/E | 20.28 | Short float | 13.32% |
-| PEG (trailing) | 0.75 | Avg volume | 1,679,323 |
-| P/S | 2.27 | Employees | 3,991 |
-| P/B | 1.03 | Analyst rec (1=buy..5=sell) | 1.6 |
+| Forward P/E | 20.62 | Short float | 14.54% |
+| PEG (trailing) | 0.75 | Avg volume | 1,682,235 |
+| P/S | 2.31 | Employees | 3,991 |
+| P/B | 1.05 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

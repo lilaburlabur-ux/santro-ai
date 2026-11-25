@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-25T14:10:49+00:00",
-  "as_of_local": "2026-11-25 14:10:49 UTC",
+  "as_of_utc": "2026-11-25T14:15:53+00:00",
+  "as_of_local": "2026-11-25 14:15:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 1437244415655.1663,
       "headlines": [
         {
+          "title": "This Dividend ETF Has Paid 77 Monthly Checks in a Row. 2 More to Pair With It for Retirement",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-etf-paid-77-monthly-140356630.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-25T14:03:56Z"
+        },
+        {
           "title": "Nvidia, AMD, and Micron stocks sink as investors flee AI trade",
           "url": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-stocks-sink-as-investors-flee-ai-trade-134518921.html",
           "publisher": "Yahoo Finance",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-chipmakers-slide-premarket-dell-131630827.html",
           "publisher": "Investing.com",
           "published": "2026-11-25T13:16:30Z"
-        },
-        {
-          "title": "The Consensus on Micron Stock Is Changing. Here\u2019s What Investors Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/consensus-micron-stock-changing-investors-131026330.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-25T13:10:26Z"
         }
       ]
     },
@@ -131,16 +131,16 @@
           "published": "2026-11-25T13:45:18Z"
         },
         {
+          "title": "AMD Stock Would Need to Rise About 57% to Get Back to Its Record. History Says How Long Past Comebacks Took.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-rise-57-back-135702619.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-25T13:57:02Z"
+        },
+        {
           "title": "Nvidia Author Stephen Witt Says Huang\u2019s Return Is \u201cNot Great for AMD.\u201d Here\u2019s What AMD Loses",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-author-stephen-witt-says-132026071.html",
           "publisher": "TIKR",
           "published": "2026-11-25T13:20:26Z"
-        },
-        {
-          "title": "Nvidia, chipmakers slide premarket; Dell falls despite upbeat outlook",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-chipmakers-slide-premarket-dell-131630827.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-25T13:16:30Z"
         }
       ]
     },
@@ -193,10 +193,10 @@
           "published": "2026-11-25T11:58:31Z"
         },
         {
-          "title": "Franklin Systematic Style Premia (FLSP) Sells $8.1 Million of Costco on Monday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/franklin-systematic-style-premia-flsp-110453628.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-25T11:04:53Z"
+          "title": "A Fund With $3.2 Billion in US Equities Just Bought These 3 Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/fund-3-2-billion-us-112842865.html",
+          "publisher": "TIKR",
+          "published": "2026-11-25T11:28:42Z"
         }
       ]
     },
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -14.18,
+          "price": 6895.0,
           "currency": "JPY"
         },
         {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -14.18,
+        "price": 6895.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 58161.95,
-      "change_pct": -2.65
+      "price": 58263.28,
+      "change_pct": -2.48
     },
     {
       "label": "Gold",
-      "price": 3506.3,
-      "change_pct": -1.56
+      "price": 3508.7,
+      "change_pct": -1.49
     },
     {
       "label": "Nasdaq100",

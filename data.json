@@ -1,11 +1,39 @@
 {
-  "as_of_utc": "2026-11-25T08:26:27+00:00",
-  "as_of_local": "2026-11-25 08:26:27 UTC",
+  "as_of_utc": "2026-11-25T08:31:34+00:00",
+  "as_of_local": "2026-11-25 08:31:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "NVDA"
+    "AMD"
   ],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 155.38,
+      "previous_close": 165.05,
+      "change_pct": -5.86,
+      "market_cap": 3751960977905.2734,
+      "headlines": [
+        {
+          "title": "Why Trump wanted Jensen Huang back at the helm of Nvidia",
+          "url": "https://finance.yahoo.com/markets/article/why-trump-wanted-jensen-huang-back-at-the-helm-of-nvidia-224325153.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-24T22:43:25Z"
+        },
+        {
+          "title": "Anthropic falls below IPO price as Nvidia gives back gains",
+          "url": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-24T21:45:58Z"
+        },
+        {
+          "title": "Why Nvidia is 'bar none' the 'cheapest growth stock in the market'",
+          "url": "https://finance.yahoo.com/video/why-nvidia-is-bar-none-the-cheapest-growth-stock-in-the-market-213425021.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-24T21:34:25Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -87,34 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-slips-overnight-dell-022626579.html",
           "publisher": "Stocktwits",
           "published": "2026-11-25T02:26:26Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 413.27,
-      "previous_close": 453.46,
-      "change_pct": -8.86,
-      "market_cap": 683988931170.6166,
-      "headlines": [
-        {
-          "title": "Anthropic falls below IPO price as Nvidia gives back gains",
-          "url": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-24T21:45:58Z"
-        },
-        {
-          "title": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
-          "url": "https://finance.yahoo.com/markets/article/nvidia-amd-broadcom-lead-chip-stocks-lower-as-ai-trade-comes-under-pressure-141635463.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-24T14:16:35Z"
-        },
-        {
-          "title": "Dow Jones Futures Fall; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-anthropic-ai-retreat-fed-inflation-data/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-25T04:04:33Z"
         }
       ]
     },
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 58874.21,
-      "change_pct": -1.46
+      "price": 59209.52,
+      "change_pct": -0.9
     },
     {
       "label": "Gold",
-      "price": 3522.1,
-      "change_pct": -1.12
+      "price": 3528.0,
+      "change_pct": -0.95
     },
     {
       "label": "Nasdaq100",

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-25T12:13:49+00:00",
-  "as_of_local": "2026-11-25 12:13:49 UTC",
+  "as_of_utc": "2026-11-25T12:18:48+00:00",
+  "as_of_local": "2026-11-25 12:18:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -153,6 +153,12 @@
       "market_cap": 291261995944.9768,
       "headlines": [
         {
+          "title": "Dell Stock Joins Nvidia, AMD, and Intel Selloff Despite Record Demand",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-joins-nvidia-amd-115045320.html",
+          "publisher": "BeInCrypto",
+          "published": "2026-11-25T11:50:45Z"
+        },
+        {
           "title": "US Semiconductor Stocks Extend Losses as AI Investment Concerns, Tariff Risks and Rate Expectations Weigh on Markets",
           "url": "https://finance.yahoo.com/technology/articles/us-semiconductor-stocks-extend-losses-113427617.html",
           "publisher": "InvestorsHub",
@@ -163,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/franklin-systematic-style-premia-flsp-110453628.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-25T11:04:53Z"
-        },
-        {
-          "title": "iShares PHLX SOX Semiconductor (SOXX) Buys $46.9 Million More AMD on Nov. 23",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semiconductor-soxx-110447635.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-25T11:04:47Z"
         }
       ]
     },
@@ -585,18 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 58507.85,
-      "change_pct": -2.08
+      "price": 58470.0,
+      "change_pct": -2.14
     },
     {
       "label": "Gold",
-      "price": 3525.2,
-      "change_pct": -1.03
-    },
-    {
-      "label": "Nasdaq100",
-      "price": 26214.17,
-      "change_pct": -1.99
+      "price": 3525.8,
+      "change_pct": -1.01
     }
   ]
 }

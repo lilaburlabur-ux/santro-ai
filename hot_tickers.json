@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-25T22:34:45+00:00",
+  "as_of": "2026-11-25T22:39:41+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -25,26 +25,10 @@
   },
   {
    "rank": 2,
-   "ticker": "LRCX",
-   "company": "Lam Research Corp",
-   "move_pct": -5.22,
-   "price": 185.93,
-   "volume": 20951346,
-   "volume_vs_avg": "~2x",
-   "heat_score": 41,
-   "direction": "down",
-   "why": "Lam Research (LRCX) Stock Dropped, So What Is Driving Attention Now?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-lrcx-stock-dropped-211100299.html",
-   "published": "2026-11-25T21:11:00+00:00",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 3,
    "ticker": "DELL",
    "company": "Dell Technologies Inc",
-   "move_pct": 0.17,
-   "price": 295.77,
+   "move_pct": 0.19,
+   "price": 295.85,
    "volume": 26453565,
    "volume_vs_avg": "~3x",
    "heat_score": 31,

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-25T22:23:57+00:00",
-  "as_of_local": "2026-11-25 22:23:57 UTC",
+  "as_of_utc": "2026-11-25T22:28:59+00:00",
+  "as_of_local": "2026-11-25 22:28:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -197,34 +199,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-brad-gerstner-altimeter-opened-202201972.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-25T20:22:01Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 161.51,
-      "previous_close": 161.56,
-      "change_pct": -0.03,
-      "market_cap": 172815694122.31445,
-      "headlines": [
-        {
-          "title": "Nvidia Sinks 9% as Huang Rally Fades: Stephanie Link Sees \u201cA Cloud Over It\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-sinks-9-huang-rally-172416717.html",
-          "publisher": "TIKR",
-          "published": "2026-11-25T17:24:16Z"
-        },
-        {
-          "title": "Chip stocks tumble as Nvidia-led AI rally unravels, tariff fears weigh",
-          "url": "https://finance.yahoo.com/technology/ai/articles/chip-stocks-tumble-nvidia-led-164900978.html",
-          "publisher": "Proactive",
-          "published": "2026-11-25T16:49:00Z"
-        },
-        {
-          "title": "Dow Craters Over 1000 Points, Nasdaq Slips 4% As AI Trade Unravels \u2013 Investors Digest PCE Inflation, Fresh Tariff Proposal",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dow-craters-over-1000-points-150503134.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-25T15:05:03Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 59977.13,
-      "change_pct": 0.38
+      "price": 60002.09,
+      "change_pct": 0.43
     },
     {
       "label": "Gold",

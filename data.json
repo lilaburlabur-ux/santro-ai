@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-25T07:55:52+00:00",
-  "as_of_local": "2026-11-25 07:55:52 UTC",
+  "as_of_utc": "2026-11-25T08:00:58+00:00",
+  "as_of_local": "2026-11-25 08:00:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AMD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -115,6 +113,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-slips-overnight-dell-022626579.html",
           "publisher": "Stocktwits",
           "published": "2026-11-25T02:26:26Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": 413.27,
+      "previous_close": 453.46,
+      "change_pct": -8.86,
+      "market_cap": 683988931170.6166,
+      "headlines": [
+        {
+          "title": "Anthropic falls below IPO price as Nvidia gives back gains",
+          "url": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-24T21:45:58Z"
+        },
+        {
+          "title": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-amd-broadcom-lead-chip-stocks-lower-as-ai-trade-comes-under-pressure-141635463.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-24T14:16:35Z"
+        },
+        {
+          "title": "Dow Jones Futures Fall; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-anthropic-ai-retreat-fed-inflation-data/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-25T04:04:33Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 58615.85,
-      "change_pct": -1.89
+      "price": 58702.17,
+      "change_pct": -1.75
     },
     {
       "label": "Gold",
-      "price": 3523.6,
-      "change_pct": -1.08
+      "price": 3525.6,
+      "change_pct": -1.02
     },
     {
       "label": "Nasdaq100",

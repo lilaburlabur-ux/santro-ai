@@ -1,18 +1,16 @@
 {
-  "as_of_utc": "2026-11-25T15:42:33+00:00",
-  "as_of_local": "2026-11-25 15:42:33 UTC",
+  "as_of_utc": "2026-11-25T15:52:47+00:00",
+  "as_of_local": "2026-11-25 15:52:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 143.06,
+      "price": 142.64,
       "previous_close": 155.38,
-      "change_pct": -7.93,
-      "market_cap": 3455677184738.159,
+      "change_pct": -8.2,
+      "market_cap": 3445535488952.6367,
       "headlines": [
         {
           "title": "Investing rules for those checking stocks during the Thanksgiving holiday",
@@ -37,10 +35,10 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 325.34,
+      "price": 325.73,
       "previous_close": 349.2,
-      "change_pct": -6.83,
-      "market_cap": 1687367104874.5286,
+      "change_pct": -6.72,
+      "market_cap": 1689299053402.506,
       "headlines": [
         {
           "title": "TSMC Stocks Slide 6.65% as Taiwan Lands on US Tariff List",
@@ -65,10 +63,10 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 283.52,
+      "price": 282.99,
       "previous_close": 301.08,
-      "change_pct": -5.83,
-      "market_cap": 1353395741101.6938,
+      "change_pct": -6.01,
+      "market_cap": 1351319078085.1663,
       "headlines": [
         {
           "title": "The $2 trillion chip rally is getting wiped out \u2014 here's what history says comes next",
@@ -77,26 +75,54 @@
           "published": "2026-11-25T14:53:06Z"
         },
         {
+          "title": "Michael Burry Calls Nvidia \u201cMore Craven Than Even I Thought.\u201d Now He Eyes a Short Near $200",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-calls-nvidia-more-153003372.html",
+          "publisher": "TIKR",
+          "published": "2026-11-25T15:30:03Z"
+        },
+        {
           "title": "Why Nvidia (NVDA) Stock Is Falling Today: Tech and Chip Selloff",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-nvda-stock-falling-150041901.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-25T15:00:41Z"
-        },
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 560.9,
+      "previous_close": 629.79,
+      "change_pct": -10.94,
+      "market_cap": 634598319311.6748,
+      "headlines": [
         {
           "title": "Nvidia, AMD, and Micron stocks sink as investors flee AI trade",
           "url": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-stocks-sink-as-investors-flee-ai-trade-134518921.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-25T13:45:18Z"
+        },
+        {
+          "title": "The $2 trillion chip rally is getting wiped out \u2014 here's what history says comes next",
+          "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-25T14:53:06Z"
+        },
+        {
+          "title": "Nasdaq slides 4% as AI selloff, tariff proposals rattle Wall St",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-slide-over-2-100822079.html",
+          "publisher": "Reuters",
+          "published": "2026-11-25T15:27:58Z"
         }
       ]
     },
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 375.8,
+      "price": 377.37,
       "previous_close": 413.27,
-      "change_pct": -9.07,
-      "market_cap": 622122622479.0946,
+      "change_pct": -8.69,
+      "market_cap": 624754170679.1334,
       "headlines": [
         {
           "title": "Nvidia, AMD, and Micron stocks sink as investors flee AI trade",
@@ -121,10 +147,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 50.23,
+      "price": 50.03,
       "previous_close": 54.8,
-      "change_pct": -8.34,
-      "market_cap": 266972447566.98608,
+      "change_pct": -8.7,
+      "market_cap": 266122048377.99072,
       "headlines": [
         {
           "title": "The $2 trillion chip rally is getting wiped out \u2014 here's what history says comes next",
@@ -149,10 +175,10 @@
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 156.96,
+      "price": 157.65,
       "previous_close": 164.96,
-      "change_pct": -4.85,
-      "market_cap": 167840200653.07617,
+      "change_pct": -4.43,
+      "market_cap": 168771095428.4668,
       "headlines": [
         {
           "title": "Qualcomm Sets Stunning $500 Stock Target for CEO",
@@ -177,10 +203,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 147.98,
+      "price": 148.37,
       "previous_close": 161.56,
-      "change_pct": -8.41,
-      "market_cap": 158461651306.15234,
+      "change_pct": -8.16,
+      "market_cap": 158739845428.4668,
       "headlines": [
         {
           "title": "Dow Craters Over 1000 Points, Nasdaq Slips 4% As AI Trade Unravels \u2013 Investors Digest PCE Inflation, Fresh Tariff Proposal",
@@ -205,10 +231,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 120.6,
+      "price": 120.0,
       "previous_close": 131.57,
-      "change_pct": -8.34,
-      "market_cap": 108624234731.51622,
+      "change_pct": -8.79,
+      "market_cap": 108061881055.26622,
       "headlines": [
         {
           "title": "Nasdaq slides 4% as AI selloff, tariff proposals rattle Wall St",
@@ -217,26 +243,26 @@
           "published": "2026-11-25T15:27:58Z"
         },
         {
+          "title": "Credo CEO: Its Portfolio Now Spans \u201cMillimeters to Kilometers.\u201d December 1 Tests the Optics Push",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/credo-ceo-portfolio-now-spans-150538283.html",
+          "publisher": "TIKR",
+          "published": "2026-11-25T15:05:38Z"
+        },
+        {
           "title": "What Pulled Astera Labs Stock Down?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/pulled-astera-labs-stock-down-143327750.html",
           "publisher": "Trefis",
           "published": "2026-11-25T14:33:27Z"
-        },
-        {
-          "title": "What Pulled Marvell Stock Down On Tuesday?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pulled-marvell-stock-down-tuesday-141426447.html",
-          "publisher": "Trefis",
-          "published": "2026-11-25T14:14:26Z"
         }
       ]
     },
     {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
-      "price": 228.03,
+      "price": 230.56,
       "previous_close": 239.4,
-      "change_pct": -4.75,
-      "market_cap": 57473123400.646545,
+      "change_pct": -3.69,
+      "market_cap": 58113336297.91626,
       "headlines": [
         {
           "title": "Prediction: Qualcomm Becomes the Top Auto Chipmaker in 2027, \u201ca Story the Market Has Quietly Ignored,\u201d per SemiAnalysis",
@@ -261,10 +287,10 @@
     {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 91.87,
+      "price": 91.93,
       "previous_close": 100.37,
-      "change_pct": -8.47,
-      "market_cap": 13062006940.593964,
+      "change_pct": -8.41,
+      "market_cap": 13074097079.213364,
       "headlines": [
         {
           "title": "Should You Add RMBS to Your Portfolio After a 27.6% Decline in a Year?",
@@ -289,10 +315,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 115.87,
+      "price": 115.73,
       "previous_close": 116.77,
-      "change_pct": -0.77,
-      "market_cap": 4603343258.037628,
+      "change_pct": -0.89,
+      "market_cap": 4597781290.04599,
       "headlines": [
         {
           "title": "Top 3 AI Infrastructure Stocks To Watch In November 2026",
@@ -317,10 +343,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 85.88,
+      "price": 86.48,
       "previous_close": 89.4,
-      "change_pct": -3.94,
-      "market_cap": 4364481748.176773,
+      "change_pct": -3.27,
+      "market_cap": 4394974479.561722,
       "headlines": [
         {
           "title": "Can AeroVironment's Taiwan MOU Broaden Its Uncrewed Systems Reach?",
@@ -345,10 +371,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 20.88,
+      "price": 20.92,
       "previous_close": 23.04,
-      "change_pct": -9.38,
-      "market_cap": 595649457.1789589,
+      "change_pct": -9.2,
+      "market_cap": 597503745.2241669,
       "headlines": [
         {
           "title": "Why Is CEVA (CEVA) Stock Down Today? AI Chip Selloff Drags Shares",
@@ -375,16 +401,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 32.49,
-      "change_pct": -9.55,
+      "price": 32.37,
+      "change_pct": -9.88,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -10.94,
+          "price": 560.9,
           "currency": "USD"
         },
         {
@@ -419,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -27.01,
-          "price": 68.9,
+          "change_pct": -27.76,
+          "price": 68.19,
           "currency": "USD"
         },
         {
@@ -428,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -8.97,
-          "price": 439.18,
+          "change_pct": -9.26,
+          "price": 437.82,
           "currency": "USD"
         },
         {
@@ -437,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -8.39,
-          "price": 250.97,
+          "change_pct": -8.67,
+          "price": 250.19,
           "currency": "USD"
         },
         {
@@ -465,16 +491,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 32.49,
-    "change_pct": -9.55,
+    "price": 32.37,
+    "change_pct": -9.88,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -10.94,
+        "price": 560.9,
         "currency": "USD"
       },
       {
@@ -509,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -27.01,
-        "price": 68.9,
+        "change_pct": -27.76,
+        "price": 68.19,
         "currency": "USD"
       },
       {
@@ -518,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -8.97,
-        "price": 439.18,
+        "change_pct": -9.26,
+        "price": 437.82,
         "currency": "USD"
       },
       {
@@ -527,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -8.39,
-        "price": 250.97,
+        "change_pct": -8.67,
+        "price": 250.19,
         "currency": "USD"
       },
       {
@@ -554,23 +580,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7012.69,
-      "change_pct": -2.62
+      "price": 7009.59,
+      "change_pct": -2.66
     },
     {
       "label": "BTC",
-      "price": 58263.0,
-      "change_pct": -2.49
+      "price": 58265.95,
+      "change_pct": -2.48
     },
     {
       "label": "Gold",
-      "price": 3473.0,
-      "change_pct": -2.5
+      "price": 3474.8,
+      "change_pct": -2.45
     },
     {
       "label": "Nasdaq100",
-      "price": 25121.42,
-      "change_pct": -4.17
+      "price": 25117.4,
+      "change_pct": -4.18
     }
   ]
 }

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-25T13:40:02+00:00",
-  "as_of_local": "2026-11-25 13:40:02 UTC",
+  "as_of_utc": "2026-11-25T13:45:33+00:00",
+  "as_of_local": "2026-11-25 13:45:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -253,34 +255,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-slide-over-2-100822079.html",
           "publisher": "Reuters",
           "published": "2026-11-25T11:21:54Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 239.4,
-      "previous_close": 256.03,
-      "change_pct": -6.5,
-      "market_cap": 60341483788.79065,
-      "headlines": [
-        {
-          "title": "What Is The True Hidden Price Of Texas Instruments Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/true-hidden-price-texas-instruments-210353713.html",
-          "publisher": "Trefis",
-          "published": "2026-11-24T21:03:53Z"
-        },
-        {
-          "title": "Why Is NXP (NXPI) Stock Down Today? Chip Sector Selloff Drags Shares",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-nxp-nxpi-stock-down-203113766.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-24T20:31:13Z"
-        },
-        {
-          "title": "Could Monolithic Power Stock Drop 30% Again?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/could-monolithic-power-stock-drop-172027660.html",
-          "publisher": "Trefis",
-          "published": "2026-11-24T17:20:27Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 58364.02,
-      "change_pct": -2.32
+      "price": 58173.72,
+      "change_pct": -2.63
     },
     {
       "label": "Gold",
-      "price": 3536.0,
-      "change_pct": -0.73
+      "price": 3520.2,
+      "change_pct": -1.17
     },
     {
       "label": "Nasdaq100",

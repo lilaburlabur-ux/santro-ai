@@ -37,9 +37,9 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Headline | Source | Date |
 |---|---|---|
 | Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure | Yahoo Finance | 2026-11-24 |
+| Asian stocks mostly decline as AI shares fall following a retreat on Wall Street | Associated Press | 2026-11-25 |
 | Novanta Shares Just Jumped And We’re Buying This Robotics Play | 24/7 Wall St. | 2026-11-24 |
 | 5 High-Conviction Stocks Billionaire Philippe Laffont Is Betting On for 2027 | Insider Monkey | 2026-11-24 |
-| Trump’s Southeast Asia Chip Rule Has Cost Nvidia $44 Billion+ of Revenue, per Jefferies. Huang Can’t Undo It | TIKR | 2026-11-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

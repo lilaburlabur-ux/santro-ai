@@ -39,7 +39,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Why Trump wanted Jensen Huang back at the helm of Nvidia | Yahoo Finance | 2026-11-24 |
 | Anthropic falls below IPO price as Nvidia gives back gains | Yahoo Finance Video | 2026-11-24 |
 | Why Nvidia is 'bar none' the 'cheapest growth stock in the market' | Yahoo Finance Video | 2026-11-24 |
-| Dow Jones Futures Fall; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake | Investor's Business Daily | 2026-11-25 |
+| Asian stocks mostly decline as AI shares fall following a retreat on Wall Street | Associated Press | 2026-11-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-25T13:19:45+00:00",
-  "as_of_local": "2026-11-25 13:19:45 UTC",
+  "as_of_utc": "2026-11-25T13:24:49+00:00",
+  "as_of_local": "2026-11-25 13:24:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -153,6 +153,12 @@
       "market_cap": 291261995944.9768,
       "headlines": [
         {
+          "title": "What Explains The Drop In Intel Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/explains-drop-intel-stock-130429990.html",
+          "publisher": "Trefis",
+          "published": "2026-11-25T13:04:29Z"
+        },
+        {
           "title": "Intel (INTC) Hit With Shareholder Lawsuit Over PC Slowdown And AI Claims",
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-hit-shareholder-lawsuit-123347682.html",
           "publisher": "Simply Wall St.",
@@ -163,12 +169,6 @@
           "url": "https://www.barrons.com/articles/stock-movers-07929503?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-25T12:15:00Z"
-        },
-        {
-          "title": "The Dates That Matter Most For Intel Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dates-matter-most-intel-stock-115912349.html",
-          "publisher": "Trefis",
-          "published": "2026-11-25T11:59:12Z"
         }
       ]
     },
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -14.18,
-          "price": 6895.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "JPY"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -10.0,
+          "price": 94.5,
           "currency": "TWD"
         }
       ]
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -14.18,
-        "price": 6895.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "JPY"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -10.0,
+        "price": 94.5,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 58597.86,
-      "change_pct": -1.92
+      "price": 58769.43,
+      "change_pct": -1.64
     },
     {
       "label": "Gold",
-      "price": 3544.8,
-      "change_pct": -0.48
+      "price": 3540.5,
+      "change_pct": -0.6
     },
     {
       "label": "Nasdaq100",

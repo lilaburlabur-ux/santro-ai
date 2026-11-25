@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-25T02:02:46+00:00",
-  "as_of_local": "2026-11-25 02:02:46 UTC",
+  "as_of_utc": "2026-11-25T02:17:48+00:00",
+  "as_of_local": "2026-11-25 02:17:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -229,34 +231,6 @@
       ]
     },
     {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 144.74,
-      "previous_close": 122.28,
-      "change_pct": 18.37,
-      "market_cap": 118382197094.73999,
-      "headlines": [
-        {
-          "title": "Stephanie Link Says Marvell Could Earn $30 a Share by 2031. Is She Right?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stephanie-says-marvell-could-earn-220753275.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-24T22:07:53Z"
-        },
-        {
-          "title": "3 Winners From Huang\u2019s Return\u2014for the Long Haul",
-          "url": "https://www.barrons.com/articles/intel-marvell-dell-nvidia-huang-stock-564d5753?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-24T22:01:00Z"
-        },
-        {
-          "title": "Morning Movers: Dick\u2019s Sporting and Dollar Tree gain following quarterly reports",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/morning-movers-dick-sporting-dollar-220046732.html",
-          "publisher": "TipRanks",
-          "published": "2026-11-24T22:00:46Z"
-        }
-      ]
-    },
-    {
       "symbol": "NXPI",
       "name": "NXP Semiconductors",
       "price": 256.03,
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": -7.17,
-          "price": 1075000.0,
+          "change_pct": -7.51,
+          "price": 1071000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -7.76,
-          "price": 174700.0,
+          "change_pct": -8.08,
+          "price": 174100.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": -13.98,
-          "price": 6911.0,
+          "change_pct": -14.41,
+          "price": 6876.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -8.09,
-          "price": 284.0,
+          "change_pct": -9.71,
+          "price": 279.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -7.14,
-          "price": 97.5,
+          "change_pct": -9.62,
+          "price": 94.9,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": -7.17,
-        "price": 1075000.0,
+        "change_pct": -7.51,
+        "price": 1071000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -7.76,
-        "price": 174700.0,
+        "change_pct": -8.08,
+        "price": 174100.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": -13.98,
-        "price": 6911.0,
+        "change_pct": -14.41,
+        "price": 6876.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -8.09,
-        "price": 284.0,
+        "change_pct": -9.71,
+        "price": 279.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -7.14,
-        "price": 97.5,
+        "change_pct": -9.62,
+        "price": 94.9,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 59074.11,
-      "change_pct": -3.49
+      "price": 58994.62,
+      "change_pct": -3.62
     },
     {
       "label": "Gold",
-      "price": 3545.0,
-      "change_pct": -2.91
+      "price": 3553.3,
+      "change_pct": -2.69
     },
     {
       "label": "Nasdaq100",

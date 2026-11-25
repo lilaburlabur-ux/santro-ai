@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-25T22:28:59+00:00",
-  "as_of_local": "2026-11-25 22:28:59 UTC",
+  "as_of_utc": "2026-11-25T22:34:02+00:00",
+  "as_of_local": "2026-11-25 22:34:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -71,6 +69,12 @@
       "market_cap": 1436194211257.6812,
       "headlines": [
         {
+          "title": "AI stock rout deepens but damage is limited by afternoon bounce",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-rout-deepens-damage-222733772.html",
+          "publisher": "Reuters",
+          "published": "2026-11-25T22:27:33Z"
+        },
+        {
           "title": "Stock Market Today, Nov. 25: Nvidia Slides 3.9% as the Market Considers Hot PCE Inflation Data and New Tariff Proposals",
           "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-25-220645995.html",
           "publisher": "Motley Fool",
@@ -81,12 +85,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/not-micron-not-broadcom-top-215101591.html",
           "publisher": "Motley Fool",
           "published": "2026-11-25T21:51:01Z"
-        },
-        {
-          "title": "The $2 trillion chip rally is unraveling \u2014 here's what history says comes next",
-          "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-25T14:53:06Z"
         }
       ]
     },
@@ -108,7 +106,7 @@
           "title": "Dow Jones Futures: Market Goes On Wild Ride. Nasdaq, Nvidia Slash Losses While Anthropic Reverses Higher.",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-25T22:07:20Z"
+          "published": "2026-11-25T22:24:35Z"
         },
         {
           "title": "Not Micron. Not Broadcom. This Is My Top Oversold Artificial Intelligence (AI) Stock to Buy in December",
@@ -199,6 +197,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-brad-gerstner-altimeter-opened-202201972.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-25T20:22:01Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 161.51,
+      "previous_close": 161.56,
+      "change_pct": -0.03,
+      "market_cap": 172815694122.31445,
+      "headlines": [
+        {
+          "title": "Nvidia Sinks 9% as Huang Rally Fades: Stephanie Link Sees \u201cA Cloud Over It\u201d",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-sinks-9-huang-rally-172416717.html",
+          "publisher": "TIKR",
+          "published": "2026-11-25T17:24:16Z"
+        },
+        {
+          "title": "Chip stocks tumble as Nvidia-led AI rally unravels, tariff fears weigh",
+          "url": "https://finance.yahoo.com/technology/ai/articles/chip-stocks-tumble-nvidia-led-164900978.html",
+          "publisher": "Proactive",
+          "published": "2026-11-25T16:49:00Z"
+        },
+        {
+          "title": "Dow Craters Over 1000 Points, Nasdaq Slips 4% As AI Trade Unravels \u2013 Investors Digest PCE Inflation, Fresh Tariff Proposal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dow-craters-over-1000-points-150503134.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-25T15:05:03Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 60002.09,
-      "change_pct": 0.43
+      "price": 60078.95,
+      "change_pct": 0.55
     },
     {
       "label": "Gold",

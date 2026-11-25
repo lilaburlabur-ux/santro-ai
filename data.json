@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-25T12:18:48+00:00",
-  "as_of_local": "2026-11-25 12:18:48 UTC",
+  "as_of_utc": "2026-11-25T12:23:55+00:00",
+  "as_of_local": "2026-11-25 12:23:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -47,16 +47,16 @@
           "published": "2026-11-24T14:16:35Z"
         },
         {
-          "title": "Global stocks are mixed as AI shares tumble after a retreat on Wall Street",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-mostly-decline-ai-040526833.html",
-          "publisher": "Associated Press",
-          "published": "2026-11-25T04:05:26Z"
-        },
-        {
           "title": "Huang Boost Fades Quickly as AI Fears Sink TSMC, SK Hynix Shares",
           "url": "https://finance.yahoo.com/markets/stocks/articles/huang-boost-fades-quickly-ai-040320019.html",
           "publisher": "Bloomberg",
           "published": "2026-11-25T04:03:20Z"
+        },
+        {
+          "title": "Global stocks are mixed as AI shares tumble after a retreat on Wall Street",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-mostly-decline-ai-040526833.html",
+          "publisher": "Associated Press",
+          "published": "2026-11-25T04:05:26Z"
         }
       ]
     },
@@ -103,16 +103,16 @@
           "published": "2026-11-24T21:45:58Z"
         },
         {
+          "title": "What Pulled Micron Stock Down?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pulled-micron-stock-down-120132230.html",
+          "publisher": "Trefis",
+          "published": "2026-11-25T12:01:32Z"
+        },
+        {
           "title": "Micron Stock Just Got a Brutal Downgrade -- BNP Paribas Slashes Price Target 54%",
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-just-got-brutal-114708173.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-25T11:47:08Z"
-        },
-        {
-          "title": "Is Micron's Record Margin Squeezing Apple And HP?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microns-record-margin-squeezing-apple-113809466.html",
-          "publisher": "Trefis",
-          "published": "2026-11-25T11:38:09Z"
         }
       ]
     },
@@ -140,7 +140,7 @@
           "title": "Dow Jones Futures Fall, Techs Dive; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-anthropic-ai-retreat-fed-inflation-data/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-25T12:05:25Z"
+          "published": "2026-11-25T12:18:09Z"
         }
       ]
     },
@@ -153,6 +153,12 @@
       "market_cap": 291261995944.9768,
       "headlines": [
         {
+          "title": "The Dates That Matter Most For Intel Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dates-matter-most-intel-stock-115912349.html",
+          "publisher": "Trefis",
+          "published": "2026-11-25T11:59:12Z"
+        },
+        {
           "title": "Dell Stock Joins Nvidia, AMD, and Intel Selloff Despite Record Demand",
           "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-joins-nvidia-amd-115045320.html",
           "publisher": "BeInCrypto",
@@ -163,12 +169,6 @@
           "url": "https://finance.yahoo.com/technology/articles/us-semiconductor-stocks-extend-losses-113427617.html",
           "publisher": "InvestorsHub",
           "published": "2026-11-25T11:34:27Z"
-        },
-        {
-          "title": "Franklin Systematic Style Premia (FLSP) Sells $8.1 Million of Costco on Monday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/franklin-systematic-style-premia-flsp-110453628.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-25T11:04:53Z"
         }
       ]
     },
@@ -445,8 +445,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -2.71,
-          "price": 94.39,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -535,8 +535,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -2.71,
-        "price": 94.39,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +585,18 @@
     },
     {
       "label": "BTC",
-      "price": 58470.0,
-      "change_pct": -2.14
+      "price": 58509.56,
+      "change_pct": -2.07
     },
     {
       "label": "Gold",
-      "price": 3525.8,
-      "change_pct": -1.01
+      "price": 3537.9,
+      "change_pct": -0.67
+    },
+    {
+      "label": "Nasdaq100",
+      "price": 26214.17,
+      "change_pct": -1.99
     }
   ]
 }

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-25T11:43:13+00:00",
-  "as_of_local": "2026-11-25 11:43:13 UTC",
+  "as_of_utc": "2026-11-25T11:48:18+00:00",
+  "as_of_local": "2026-11-25 11:48:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -91,6 +89,34 @@
       ]
     },
     {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 629.79,
+      "previous_close": 707.7,
+      "change_pct": -11.01,
+      "market_cap": 712558999825.1067,
+      "headlines": [
+        {
+          "title": "Anthropic falls below IPO price as Nvidia gives back gains",
+          "url": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-24T21:45:58Z"
+        },
+        {
+          "title": "Nasdaq futures slide over 2% as AI losses deepen; inflation data in focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-slide-over-2-100822079.html",
+          "publisher": "Reuters",
+          "published": "2026-11-25T11:21:54Z"
+        },
+        {
+          "title": "Micron CEO gets a big pay bump and an even bigger security bill",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-ceo-gets-big-pay-111540020.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-25T11:15:40Z"
+        }
+      ]
+    },
+    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 413.27,
@@ -114,7 +140,7 @@
           "title": "Dow Jones Futures Fall, Techs Tumble; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-anthropic-ai-retreat-fed-inflation-data/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-25T11:30:29Z"
+          "published": "2026-11-25T11:39:39Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -11.01,
+          "price": 629.79,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -11.01,
+        "price": 629.79,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 58395.92,
-      "change_pct": -2.26
+      "price": 58588.83,
+      "change_pct": -1.94
     },
     {
       "label": "Gold",
-      "price": 3543.5,
-      "change_pct": -0.52
+      "price": 3539.9,
+      "change_pct": -0.62
     },
     {
       "label": "Nasdaq100",

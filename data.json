@@ -1,28 +1,30 @@
 {
-  "as_of_utc": "2026-11-25T19:11:34+00:00",
-  "as_of_local": "2026-11-25 19:11:34 UTC",
+  "as_of_utc": "2026-11-25T19:16:39+00:00",
+  "as_of_local": "2026-11-25 19:16:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 148.5,
+      "price": 147.7,
       "previous_close": 155.38,
-      "change_pct": -4.43,
-      "market_cap": 3585834289901.7334,
+      "change_pct": -4.94,
+      "market_cap": 3566632679214.4775,
       "headlines": [
+        {
+          "title": "The $2 trillion chip rally is unraveling \u2014 here's what history says comes next",
+          "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-25T14:53:06Z"
+        },
         {
           "title": "Why Nvidia's 'Jensen put' failed to stop the AI trade meltdown",
           "url": "https://finance.yahoo.com/markets/article/why-nvidias-jensen-put-did-little-to-ease-the-ai-trade-meltdown-185334279.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-25T18:53:34Z"
-        },
-        {
-          "title": "The $2 trillion chip rally is getting wiped out \u2014 here's what history says comes next",
-          "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-25T14:53:06Z"
         },
         {
           "title": "China added nearly 10 times more power capacity than the US in 2025 as the AI race heats up",
@@ -35,13 +37,13 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 341.66,
+      "price": 340.83,
       "previous_close": 349.2,
-      "change_pct": -2.16,
-      "market_cap": 1772477145699.5,
+      "change_pct": -2.4,
+      "market_cap": 1767990897208.8403,
       "headlines": [
         {
-          "title": "The $2 trillion chip rally is getting wiped out \u2014 here's what history says comes next",
+          "title": "The $2 trillion chip rally is unraveling \u2014 here's what history says comes next",
           "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-25T14:53:06Z"
@@ -63,13 +65,13 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 297.93,
+      "price": 297.07,
       "previous_close": 301.08,
-      "change_pct": -1.05,
-      "market_cap": 1422207510716.3406,
+      "change_pct": -1.33,
+      "market_cap": 1417338460698.7046,
       "headlines": [
         {
-          "title": "The $2 trillion chip rally is getting wiped out \u2014 here's what history says comes next",
+          "title": "The $2 trillion chip rally is unraveling \u2014 here's what history says comes next",
           "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-25T14:53:06Z"
@@ -91,10 +93,10 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 596.96,
+      "price": 593.87,
       "previous_close": 629.79,
-      "change_pct": -5.21,
-      "market_cap": 675584097543.7378,
+      "change_pct": -5.7,
+      "market_cap": 672054062646.8252,
       "headlines": [
         {
           "title": "Nvidia, AMD, and Micron stocks sink as investors flee AI trade",
@@ -103,7 +105,7 @@
           "published": "2026-11-25T13:45:18Z"
         },
         {
-          "title": "The $2 trillion chip rally is getting wiped out \u2014 here's what history says comes next",
+          "title": "The $2 trillion chip rally is unraveling \u2014 here's what history says comes next",
           "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-25T14:53:06Z"
@@ -119,10 +121,10 @@
     {
       "symbol": "AMD",
       "name": "AMD",
-      "price": 406.19,
+      "price": 404.53,
       "previous_close": 413.27,
-      "change_pct": -1.71,
-      "market_cap": 672273917618.7612,
+      "change_pct": -2.11,
+      "market_cap": 669277091274.6814,
       "headlines": [
         {
           "title": "Nvidia, AMD, and Micron stocks sink as investors flee AI trade",
@@ -131,7 +133,7 @@
           "published": "2026-11-25T13:45:18Z"
         },
         {
-          "title": "The $2 trillion chip rally is getting wiped out \u2014 here's what history says comes next",
+          "title": "The $2 trillion chip rally is unraveling \u2014 here's what history says comes next",
           "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-25T14:53:06Z"
@@ -147,10 +149,10 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 54.06,
+      "price": 53.97,
       "previous_close": 54.8,
-      "change_pct": -1.35,
-      "market_cap": 287222604866.02783,
+      "change_pct": -1.51,
+      "market_cap": 286886686744.68994,
       "headlines": [
         {
           "title": "Tariffs are back as Anthropic sinks further below its IPO price",
@@ -159,26 +161,26 @@
           "published": "2026-11-25T16:05:24Z"
         },
         {
+          "title": "The $2 trillion chip rally is unraveling \u2014 here's what history says comes next",
+          "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-25T14:53:06Z"
+        },
+        {
           "title": "How Nvidia's Jensen Huang Survived the Kind of Scandal That Ends CEO Careers",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidias-jensen-huang-survived-kind-185508263.html",
           "publisher": "Benzinga Prediction Markets",
           "published": "2026-11-25T18:55:08Z"
-        },
-        {
-          "title": "The $2 trillion chip rally is getting wiped out \u2014 here's what history says comes next",
-          "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-25T14:53:06Z"
         }
       ]
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 167.82,
+      "price": 167.9,
       "previous_close": 164.96,
-      "change_pct": 1.74,
-      "market_cap": 179695802612.3047,
+      "change_pct": 1.78,
+      "market_cap": 179610200653.07617,
       "headlines": [
         {
           "title": "Mobileye faces new competition as cars get smarter",
@@ -203,10 +205,10 @@
     {
       "symbol": "ARM",
       "name": "Arm Holdings",
-      "price": 163.0,
+      "price": 161.96,
       "previous_close": 161.56,
-      "change_pct": 0.89,
-      "market_cap": 174404644775.39062,
+      "change_pct": 0.25,
+      "market_cap": 173479105224.60938,
       "headlines": [
         {
           "title": "Nvidia Sinks 9% as Huang Rally Fades: Stephanie Link Sees \u201cA Cloud Over It\u201d",
@@ -231,10 +233,10 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 129.9,
+      "price": 129.55,
       "previous_close": 131.57,
-      "change_pct": -1.27,
-      "market_cap": 116915580903.77405,
+      "change_pct": -1.54,
+      "market_cap": 116591664637.08054,
       "headlines": [
         {
           "title": "Marvell Technology Stocks Fall 8.47% as Data Center Exposure Bites",
@@ -257,40 +259,12 @@
       ]
     },
     {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 242.82,
-      "previous_close": 239.4,
-      "change_pct": 1.43,
-      "market_cap": 61202246896.58374,
-      "headlines": [
-        {
-          "title": "Analog Devices Just Plunged After Earnings. Is Its Dividend Now a Bargain?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-just-plunged-earnings-184751144.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-25T18:47:51Z"
-        },
-        {
-          "title": "Prediction: Qualcomm Becomes the Top Auto Chipmaker in 2027, \u201ca Story the Market Has Quietly Ignored,\u201d per SemiAnalysis",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-qualcomm-becomes-top-auto-140557559.html",
-          "publisher": "TIKR",
-          "published": "2026-11-25T14:05:57Z"
-        },
-        {
-          "title": "What Is The True Hidden Price Of Texas Instruments Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/true-hidden-price-texas-instruments-210353713.html",
-          "publisher": "Trefis",
-          "published": "2026-11-24T21:03:53Z"
-        }
-      ]
-    },
-    {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
-      "price": 99.58,
+      "price": 99.13,
       "previous_close": 100.37,
-      "change_pct": -0.78,
-      "market_cap": 14163545308.02349,
+      "change_pct": -1.24,
+      "market_cap": 14098832358.195473,
       "headlines": [
         {
           "title": "Should You Add RMBS to Your Portfolio After a 27.6% Decline in a Year?",
@@ -315,10 +289,10 @@
     {
       "symbol": "AVAV",
       "name": "AeroVironment",
-      "price": 91.71,
+      "price": 91.73,
       "previous_close": 89.4,
-      "change_pct": 2.58,
-      "market_cap": 4665340598.692474,
+      "change_pct": 2.61,
+      "market_cap": 4673471709.392258,
       "headlines": [
         {
           "title": "Can AeroVironment's Taiwan MOU Broaden Its Uncrewed Systems Reach?",
@@ -343,10 +317,10 @@
     {
       "symbol": "SYNA",
       "name": "Synaptics",
-      "price": 116.47,
+      "price": 116.54,
       "previous_close": 116.77,
-      "change_pct": -0.26,
-      "market_cap": 4627180307.016724,
+      "change_pct": -0.2,
+      "market_cap": 4629961291.012543,
       "headlines": [
         {
           "title": "Top 3 AI Infrastructure Stocks To Watch In November 2026",
@@ -371,10 +345,10 @@
     {
       "symbol": "CEVA",
       "name": "CEVA",
-      "price": 22.34,
+      "price": 22.32,
       "previous_close": 23.04,
-      "change_pct": -3.04,
-      "market_cap": 637299305.5129166,
+      "change_pct": -3.13,
+      "market_cap": 636728746.9741669,
       "headlines": [
         {
           "title": "Why Is CEVA (CEVA) Stock Down Today? AI Chip Selloff Drags Shares",
@@ -401,16 +375,16 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 34.76,
-      "change_pct": -3.24,
+      "price": 34.56,
+      "change_pct": -3.77,
       "holdings": [
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -5.21,
-          "price": 596.96,
+          "change_pct": -5.7,
+          "price": 593.87,
           "currency": "USD"
         },
         {
@@ -445,8 +419,8 @@
           "name": "Sandisk",
           "short": "Sandisk",
           "weight_pct": 5.05,
-          "change_pct": -22.51,
-          "price": 73.14,
+          "change_pct": -23.35,
+          "price": 72.36,
           "currency": "USD"
         },
         {
@@ -454,8 +428,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -2.1,
-          "price": 472.33,
+          "change_pct": -2.6,
+          "price": 469.95,
           "currency": "USD"
         },
         {
@@ -463,8 +437,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -1.44,
-          "price": 270.01,
+          "change_pct": -1.79,
+          "price": 269.06,
           "currency": "USD"
         },
         {
@@ -491,16 +465,16 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 34.76,
-    "change_pct": -3.24,
+    "price": 34.56,
+    "change_pct": -3.77,
     "holdings": [
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -5.21,
-        "price": 596.96,
+        "change_pct": -5.7,
+        "price": 593.87,
         "currency": "USD"
       },
       {
@@ -535,8 +509,8 @@
         "name": "Sandisk",
         "short": "Sandisk",
         "weight_pct": 5.05,
-        "change_pct": -22.51,
-        "price": 73.14,
+        "change_pct": -23.35,
+        "price": 72.36,
         "currency": "USD"
       },
       {
@@ -544,8 +518,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -2.1,
-        "price": 472.33,
+        "change_pct": -2.6,
+        "price": 469.95,
         "currency": "USD"
       },
       {
@@ -553,8 +527,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -1.44,
-        "price": 270.01,
+        "change_pct": -1.79,
+        "price": 269.06,
         "currency": "USD"
       },
       {
@@ -580,23 +554,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7193.91,
-      "change_pct": -0.1
+      "price": 7188.81,
+      "change_pct": -0.17
     },
     {
       "label": "BTC",
-      "price": 59927.3,
-      "change_pct": 0.3
+      "price": 59917.13,
+      "change_pct": 0.28
     },
     {
       "label": "Gold",
-      "price": 3565.9,
-      "change_pct": 0.11
+      "price": 3574.8,
+      "change_pct": 0.36
     },
     {
       "label": "Nasdaq100",
-      "price": 26056.44,
-      "change_pct": -0.6
+      "price": 26028.47,
+      "change_pct": -0.71
     }
   ]
 }

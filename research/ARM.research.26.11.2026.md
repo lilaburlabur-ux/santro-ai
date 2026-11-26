@@ -36,10 +36,10 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
+| 3 AI Infrastructure Stocks Retail Investors Are Watching As Compute Spending Shifts | Simply Wall St. | 2026-11-26 |
 | Is Astera Labs, Inc. (ALAB) One of the Best Oversold AI Semiconductor Stocks to Buy? | Insider Monkey | 2026-11-26 |
 | Arm Holdings plc (ARM) Is Down 63%: Why the Stock Could Rebound in 2027 | Insider Monkey | 2026-11-26 |
 | Did Arm CEO Rene Haas Dodge a Bullet With Jensen Huang’s Reinstatement at Nvidia? | 24/7 Wall St. | 2026-11-26 |
-| Arm Drops 20% in a Week as AI Chips Slide. CEO Rene Haas Has “Never Been More Confident” | TIKR | 2026-11-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

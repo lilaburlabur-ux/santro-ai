@@ -39,7 +39,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Will Jensen Huang's second act as Nvidia CEO be different? | Yahoo Finance Video | 2026-11-26 |
 | Jensen Huang 'absolutely could be fired again,' legal expert says | Yahoo Finance Video | 2026-11-26 |
 | 5 things I'm thankful for in AI | Yahoo Finance Video | 2026-11-26 |
-| Anthropic Stock Is Now Trading as ANT. Should You Buy Today or Wait? | Motley Fool | 2026-11-26 |
+| SpaceX Is a Great Company. Is It a Great Stock at This Price? | Motley Fool | 2026-11-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-26T06:58:52+00:00",
-  "as_of_local": "2026-11-26 06:58:52 UTC",
+  "as_of_utc": "2026-11-26T07:14:02+00:00",
+  "as_of_local": "2026-11-26 07:14:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEVA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -367,34 +369,6 @@
           "published": "2026-11-06T00:00:13Z"
         }
       ]
-    },
-    {
-      "symbol": "CEVA",
-      "name": "CEVA",
-      "price": 22.4,
-      "previous_close": 23.04,
-      "change_pct": -2.78,
-      "market_cap": 639010926.7177086,
-      "headlines": [
-        {
-          "title": "Why Is CEVA (CEVA) Stock Down Today? AI Chip Selloff Drags Shares",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-ceva-ceva-stock-down-204653822.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-24T20:46:53Z"
-        },
-        {
-          "title": "Nvidia News Has Investors Rethinking These U.S. AI Chip Stocks",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-news-investors-rethinking-u-070751605.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-23T07:07:51Z"
-        },
-        {
-          "title": "Nvidia Up 8.9% After a Strong Anthropic IPO? That\u2019s What Tilt\u2019s New Investing Tool Modeled",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-8-9-strong-anthropic-204406766.html",
-          "publisher": "Benzinga Prediction Markets",
-          "published": "2026-11-19T20:44:06Z"
-        }
-      ]
     }
   ],
   "etfs": [
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60525.79,
-      "change_pct": 1.3
+      "price": 60416.52,
+      "change_pct": 1.12
     },
     {
       "label": "Gold",
-      "price": 3595.1,
-      "change_pct": 1.68
+      "price": 3598.2,
+      "change_pct": 1.76
     },
     {
       "label": "Nasdaq100",

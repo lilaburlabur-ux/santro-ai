@@ -18,7 +18,7 @@ Signed file: `CEVA.research.26.11.2026`
 | Technical momentum | Low | Below SMA200 (-27.45%) with negative half-year (-46.36%). |
 | Fresh setup quality | Poor / broken | -55.25% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-9.25%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 29.81, EV/Sales 3.73. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 29.81, EV/Sales 3.74. |
 | Risk level | High | Beta 1.98, ATR 10.6% of price, short float 9.26%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
@@ -68,7 +68,7 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 | Revenue (ttm) | $116.41M | Revenue growth 2.40% y/y |
 | Profitability | Gross 86.81%, operating -9.51%, net -9.25% | ROA -1.99%, ROE -3.52% |
 | Balance sheet | Cash $220.68M, debt $16.84M | Current ratio 10.88, debt/equity 4.92 |
-| Valuation | P/E —, forward P/E 29.81, P/S 5.49, P/B 1.87 | EV/Sales 3.73, EV/EBITDA -58.38 |
+| Valuation | P/E —, forward P/E 29.81, P/S 5.49, P/B 1.87 | EV/Sales 3.74, EV/EBITDA -58.53 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $37.11 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 | Two Sigma Investments, LP | 776,078 | 2.72% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 29.81, EV/Sales 3.73. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 29.81, EV/Sales 3.74. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.98, ATR 10.6% of price, short float 9.26%. Size positions accordingly.
 - **Short interest risk:** short float 9.26% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
@@ -114,8 +114,8 @@ CEVA, Inc. provides silicon and software intellectual property (IP) solutions to
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $22.40 | EV/Sales | 3.73 |
-| Market cap | $639.01M | EV/EBITDA | -58.38 |
+| Price | $22.40 | EV/Sales | 3.74 |
+| Market cap | $639.01M | EV/EBITDA | -58.53 |
 | Beta | 1.98 | Gross margin | 86.81% |
 | RSI(14) | 38.5 | Operating margin | -9.51% |
 | ATR(14) | 2.37 | Profit margin | -9.25% |

@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
+| Asian tech stocks jump as bargain buyers boost battered AI trade | Investing.com | 2026-11-26 |
 | 5 Best Strong Buy Growth Stocks to Buy for 2027 | Insider Monkey | 2026-11-26 |
 | Altimeter’s Brad Gerstner Says Nvidia Was Priced for “Negative Growth for 2028 and 2029.” Wall Street Expects 29% | TIKR | 2026-11-25 |
 | Trump heads to Arizona next week for a high-stakes expansion of TSMC's computer chip factories | Associated Press | 2026-11-25 |
-| The $2 trillion chip rally is unraveling — here's what history says comes next | Yahoo Finance | 2026-11-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.94T | Revenue growth 50.90% y/y |
 | Profitability | Gross 65.85%, operating 57.96%, net 51.12% | ROA 20.58%, ROE 41.86% |
 | Balance sheet | Cash $4.02T, debt $1.07T | Current ratio 2.58, debt/equity 15.19 |
-| Valuation | P/E 22.19, forward P/E 14.64, P/S 0.36, P/B 65.76 | EV/Sales 2.29, EV/EBITDA 3.14 |
+| Valuation | P/E 22.63, forward P/E 14.64, P/S 0.36, P/B 65.76 | EV/Sales 2.29, EV/EBITDA 3.14 |
 | Growth expectations | Earnings growth 68.70%, EPS q/q 68.70% | Analyst mean target $586.69 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | SMA200 dist | -14.89% | Revenue (ttm) | $4.94T |
 | 52W high | $485.80 | Revenue growth y/y | 50.90% |
 | 52W low | $274.80 | Inst. ownership | 15.42% |
-| P/E (ttm) | 22.19 | Insider ownership | 0.02% |
+| P/E (ttm) | 22.63 | Insider ownership | 0.02% |
 | Forward P/E | 14.64 | Short float | 0.69% |
 | PEG (trailing) | 0.58 | Avg volume | 13,011,910 |
 | P/S | 0.36 | Employees | 76,907 |

@@ -36,10 +36,10 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 
 | Headline | Source | Date |
 |---|---|---|
-| Tariffs are back as Anthropic sinks further below its IPO price | Yahoo Finance Video | 2026-11-25 |
-| Tech Stocks Stall Into Thanksgiving: Will the AI Rebound Return? | BeInCrypto | 2026-11-26 |
-| The $2 trillion chip rally is unraveling — here's what history says comes next | Yahoo Finance | 2026-11-25 |
-| What Sent Qualcomm Stock Higher? | Trefis | 2026-11-25 |
+| 5 Most Oversold Semiconductor Stocks to Buy for 2027 | Insider Monkey | 2026-11-26 |
+| Intel Stocks Slip After Erasing a 10.3% Plunge Below $50 | GuruFocus.com | 2026-11-26 |
+| Nvidia Now Has 41% of Its Stock Portfolio in SpaceX. Here’s What That Means for Nvidia Shareholders | TIKR | 2026-11-26 |
+| ASX's LEAP Demand Accelerates: Can Revenue Growth Stay Strong? | Zacks | 2026-11-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -125,7 +125,7 @@ Intel Corporation designs, develops, manufactures, markets, sells, and services 
 | 52W low | $35.83 | Inst. ownership | 69.05% |
 | P/E (ttm) | — | Insider ownership | 12.91% |
 | Forward P/E | 30.42 | Short float | 3.20% |
-| PEG (trailing) | — | Avg volume | 119,127,970 |
+| PEG (trailing) | — | Avg volume | 119,953,787 |
 | P/S | 4.83 | Employees | 81,100 |
 | P/B | 2.52 | Analyst rec (1=buy..5=sell) | 2.5 |
 

@@ -18,7 +18,7 @@ Signed file: `TSM.research.26.11.2026`
 | Technical momentum | Low | Below SMA200 (-14.89%) with negative half-year (-19.02%). |
 | Fresh setup quality | Poor / broken | -29.53% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 51.12%, revenue growth 50.90%. |
-| Value attractiveness | Reasonable | Forward P/E 14.64, EV/Sales 2.29. |
+| Value attractiveness | Reasonable | Forward P/E 14.66, EV/Sales 2.29. |
 | Risk level | High | Beta 1.23, ATR 6.7% of price, short float 0.69%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -36,10 +36,10 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 
 | Headline | Source | Date |
 |---|---|---|
-| Asian tech stocks jump as bargain buyers boost battered AI trade | Investing.com | 2026-11-26 |
-| 5 Best Strong Buy Growth Stocks to Buy for 2027 | Insider Monkey | 2026-11-26 |
-| Altimeter’s Brad Gerstner Says Nvidia Was Priced for “Negative Growth for 2028 and 2029.” Wall Street Expects 29% | TIKR | 2026-11-25 |
-| Trump heads to Arizona next week for a high-stakes expansion of TSMC's computer chip factories | Associated Press | 2026-11-25 |
+| Taiwan Semiconductor Stocks Slip 1.96% as Taiwan's Market Sinks 4.8% in Chip Rout | GuruFocus.com | 2026-11-26 |
+| 3 Top Stocks to Buy Before 2027 as Quantum Enters AI Data Centers | Zacks | 2026-11-26 |
+| This AI Investing Prodigy Lost 65% in a Single Quarter and Is Still Up 88.5% in 2026. Here’s the Lesson for Investors. | 24/7 Wall St. | 2026-11-26 |
+| NVIDIA Just Dropped 31% in a Month. Will NVDA Stock Hit $125 or $200 First? | 24/7 Wall St. | 2026-11-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Revenue (ttm) | $4.94T | Revenue growth 50.90% y/y |
 | Profitability | Gross 65.85%, operating 57.96%, net 51.12% | ROA 20.58%, ROE 41.86% |
 | Balance sheet | Cash $4.02T, debt $1.07T | Current ratio 2.58, debt/equity 15.19 |
-| Valuation | P/E 22.63, forward P/E 14.64, P/S 0.36, P/B 65.76 | EV/Sales 2.29, EV/EBITDA 3.14 |
+| Valuation | P/E 22.19, forward P/E 14.66, P/S 0.36, P/B 65.76 | EV/Sales 2.29, EV/EBITDA 3.14 |
 | Growth expectations | Earnings growth 68.70%, EPS q/q 68.70% | Analyst mean target $586.69 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,11 +121,11 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | SMA200 dist | -14.89% | Revenue (ttm) | $4.94T |
 | 52W high | $485.80 | Revenue growth y/y | 50.90% |
 | 52W low | $274.80 | Inst. ownership | 15.42% |
-| P/E (ttm) | 22.63 | Insider ownership | 0.02% |
-| Forward P/E | 14.64 | Short float | 0.69% |
-| PEG (trailing) | 0.58 | Avg volume | 13,011,910 |
+| P/E (ttm) | 22.19 | Insider ownership | 0.02% |
+| Forward P/E | 14.66 | Short float | 0.69% |
+| PEG (trailing) | 0.58 | Avg volume | 13,250,471 |
 | P/S | 0.36 | Employees | 76,907 |
-| P/B | 65.76 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 65.76 | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

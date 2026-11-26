@@ -36,10 +36,10 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia Sinks 9% as Huang Rally Fades: Stephanie Link Sees “A Cloud Over It” | TIKR | 2026-11-25 |
-| Chip stocks tumble as Nvidia-led AI rally unravels, tariff fears weigh | Proactive | 2026-11-25 |
-| Dow Craters Over 1000 Points, Nasdaq Slips 4% As AI Trade Unravels – Investors Digest PCE Inflation, Fresh Tariff Proposal | Stocktwits | 2026-11-25 |
-| ARM Holdings near-term technical outlook: bearish setup with key levels to watch | Investing.com | 2026-11-25 |
+| Is Astera Labs, Inc. (ALAB) One of the Best Oversold AI Semiconductor Stocks to Buy? | Insider Monkey | 2026-11-26 |
+| Arm Holdings plc (ARM) Is Down 63%: Why the Stock Could Rebound in 2027 | Insider Monkey | 2026-11-26 |
+| Did Arm CEO Rene Haas Dodge a Bullet With Jensen Huang’s Reinstatement at Nvidia? | 24/7 Wall St. | 2026-11-26 |
+| Arm Drops 20% in a Week as AI Chips Slide. CEO Rene Haas Has “Never Been More Confident” | TIKR | 2026-11-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -125,7 +125,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | 52W low | $104.55 | Inst. ownership | 95.76% |
 | P/E (ttm) | 185.64 | Insider ownership | 0.08% |
 | Forward P/E | 52.32 | Short float | 11.45% |
-| PEG (trailing) | 1.24 | Avg volume | 5,496,862 |
+| PEG (trailing) | 1.24 | Avg volume | 5,560,234 |
 | P/S | 31.63 | Employees | 9,584 |
 | P/B | 19.02 | Analyst rec (1=buy..5=sell) | 1.9 |
 

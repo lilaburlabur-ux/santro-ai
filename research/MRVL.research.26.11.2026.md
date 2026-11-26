@@ -36,10 +36,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 
 | Headline | Source | Date |
 |---|---|---|
-| Tech Stocks Stall Into Thanksgiving: Will the AI Rebound Return? | BeInCrypto | 2026-11-26 |
-| Analysts Expect More From Marvell Than Marvell Does | Trefis | 2026-11-25 |
-| Anthropic, Nvidia, Micron, HP Inc., Dell, Deere, and More Stocks That Explain Today’s Market | Barrons.com | 2026-11-25 |
-| Why Is Credo Stock Going Up? | Trefis | 2026-11-25 |
+| Is Marvell Technology, Inc. (MRVL) a Hidden AI Infrastructure Winner for 2027? | Insider Monkey | 2026-11-26 |
+| Marvell Options Price In 16% Earnings-Day Stock Swing | GuruFocus.com | 2026-11-26 |
+| Lumentum Surges 55% in a Year: Should You Buy, Sell, or Hold the Stock? | Zacks | 2026-11-26 |
+| Marvell Reports Tuesday. How Often Has It Dropped 10%? | Trefis | 2026-11-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,7 +74,7 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 80.78% |
+| Institutional ownership | 80.79% |
 | Insider ownership | 0.53% |
 | Short float | 4.36% |
 | Short ratio (days to cover) | 1.1 |
@@ -120,10 +120,10 @@ Marvell Technology, Inc., together with its subsidiaries, provides data infrastr
 | SMA50 dist | -39.10% | ROE | 16.52% |
 | SMA200 dist | -30.85% | Revenue (ttm) | $9.45B |
 | 52W high | $316.28 | Revenue growth y/y | 36.50% |
-| 52W low | $73.66 | Inst. ownership | 80.78% |
+| 52W low | $73.66 | Inst. ownership | 80.79% |
 | P/E (ttm) | 43.07 | Insider ownership | 0.53% |
 | Forward P/E | 17.76 | Short float | 4.36% |
-| PEG (trailing) | 0.30 | Avg volume | 24,874,853 |
+| PEG (trailing) | 0.30 | Avg volume | 25,053,490 |
 | P/S | 12.47 | Employees | 7,480 |
 | P/B | 6.19 | Analyst rec (1=buy..5=sell) | 1.4 |
 

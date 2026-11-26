@@ -18,7 +18,7 @@ Signed file: `NXPI.research.26.11.2026`
 | Technical momentum | Low | Below SMA200 (-1.77%) with negative half-year (-25.86%). |
 | Fresh setup quality | Poor / broken | -26.39% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 23.39%, revenue growth 19.30%. |
-| Value attractiveness | Reasonable | Forward P/E 13.25, EV/Sales 4.97. |
+| Value attractiveness | Reasonable | Forward P/E 13.24, EV/Sales 4.97. |
 | Risk level | High | Beta 1.86, ATR 5.8% of price, short float 3.01%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -36,10 +36,10 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
+| NXP (NXPI) Down 3.5% Since Last Earnings Report: Can It Rebound? | Zacks | 2026-11-26 |
 | Analog Devices Just Plunged After Earnings. Is Its Dividend Now a Bargain? | 24/7 Wall St. | 2026-11-25 |
 | Prediction: Qualcomm Becomes the Top Auto Chipmaker in 2027, “a Story the Market Has Quietly Ignored,” per SemiAnalysis | TIKR | 2026-11-25 |
 | What Is The True Hidden Price Of Texas Instruments Stock? | Trefis | 2026-11-24 |
-| Why Is NXP (NXPI) Stock Down Today? Chip Sector Selloff Drags Shares | GuruFocus.com | 2026-11-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,8 +68,8 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Revenue (ttm) | $13.80B | Revenue growth 19.30% y/y |
 | Profitability | Gross 56.46%, operating 33.84%, net 23.39% | ROA 10.82%, ROE 28.67% |
 | Balance sheet | Cash $3.94B, debt $10.98B | Current ratio 2.12, debt/equity 88.07 |
-| Valuation | P/E 19.12, forward P/E 13.25, P/S 4.44, P/B 5.07 | EV/Sales 4.97, EV/EBITDA 12.74 |
-| Growth expectations | Earnings growth 40.30%, EPS q/q 40.10% | Analyst mean target $302.63 (30 analysts) |
+| Valuation | P/E 19.12, forward P/E 13.24, P/S 4.44, P/B 5.07 | EV/Sales 4.97, EV/EBITDA 12.74 |
+| Growth expectations | Earnings growth 40.30%, EPS q/q 40.10% | Analyst mean target $302.21 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -122,10 +122,10 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | 52W high | $330.06 | Revenue growth y/y | 19.30% |
 | 52W low | $185.92 | Inst. ownership | 100.86% |
 | P/E (ttm) | 19.12 | Insider ownership | 0.39% |
-| Forward P/E | 13.25 | Short float | 3.01% |
-| PEG (trailing) | 0.47 | Avg volume | 4,252,603 |
+| Forward P/E | 13.24 | Short float | 3.01% |
+| PEG (trailing) | 0.47 | Avg volume | 4,309,150 |
 | P/S | 4.44 | Employees | 32,169 |
-| P/B | 5.07 | Analyst rec (1=buy..5=sell) | 1.8 |
+| P/B | 5.07 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

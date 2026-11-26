@@ -4,9 +4,9 @@
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
 | NVDA | $3.61T | -18% | 9.0 | 63% | Low | Reasonable | High |
-| TSM | $1.78T | +22% | 14.6 | 51% | Low | Reasonable | High |
-| AVGO | $1.44T | -20% | 15.5 | 43% | Low | Reasonable | High |
-| MU | $680.27B | +169% | 2.9 | 64% | High | Reasonable | High |
+| TSM | $1.78T | +22% | 14.7 | 51% | Low | Reasonable | High |
+| AVGO | $1.44T | -20% | 15.6 | 43% | Low | Reasonable | High |
+| MU | $682.38B | +169% | 2.9 | 64% | High | Reasonable | High |
 | AMD | $672.01B | +89% | 23.0 | 17% | High | Fair-to-demanding | High |
 | INTC | $289.51B | +52% | 30.4 | -20% | Low | Fair-to-demanding | High |
 | ARM | $172.82B | +20% | 52.3 | 17% | Low | Low (expensive) | High |

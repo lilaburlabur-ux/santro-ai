@@ -18,7 +18,7 @@ Signed file: `AVGO.research.26.11.2026`
 | Technical momentum | Low | Below SMA200 (-17.90%) with negative half-year (-29.23%). |
 | Fresh setup quality | Poor / broken | -37.31% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 42.94%, revenue growth 85.50%. |
-| Value attractiveness | Reasonable | Forward P/E 15.52, EV/Sales 16.52. |
+| Value attractiveness | Reasonable | Forward P/E 15.56, EV/Sales 16.52. |
 | Risk level | High | Beta 1.51, ATR 6.6% of price, short float 1.23%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -36,10 +36,10 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 
 | Headline | Source | Date |
 |---|---|---|
-| Why Retail Investors Are Watching AMD and AI Infrastructure Stocks After SpaceX Satellite News | Simply Wall St. | 2026-11-26 |
-| Broadcom Stock Hasn't Traded This Low Since July 2025. I Think It's a Buy. | Motley Fool | 2026-11-26 |
-| 5 Best Strong Buy Growth Stocks to Buy for 2027 | Insider Monkey | 2026-11-26 |
-| AI stock rout deepens but damage is limited by afternoon bounce | Reuters | 2026-11-25 |
+| 5 Most Oversold Semiconductor Stocks to Buy for 2027 | Insider Monkey | 2026-11-26 |
+| Goldman Sachs resets Broadcom's 12-month price target before earnings | TheStreet | 2026-11-26 |
+| Broadcom Stocks Edge Lower After Rebounding From an Intraday Low of $278 | GuruFocus.com | 2026-11-26 |
+| NVIDIA Just Dropped 31% in a Month. Will NVDA Stock Hit $125 or $200 First? | 24/7 Wall St. | 2026-11-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | Revenue (ttm) | $89.10B | Revenue growth 85.50% y/y |
 | Profitability | Gross 75.52%, operating 48.81%, net 42.94% | ROA 15.37%, ROE 44.25% |
 | Balance sheet | Cash $23.98B, debt $59.42B | Current ratio 2.50, debt/equity 59.60 |
-| Valuation | P/E 38.42, forward P/E 15.52, P/S 16.12, P/B 14.41 | EV/Sales 16.52, EV/EBITDA 28.16 |
+| Valuation | P/E 38.42, forward P/E 15.56, P/S 16.12, P/B 14.41 | EV/Sales 16.52, EV/EBITDA 28.16 |
 | Growth expectations | Earnings growth 215.30%, EPS q/q 216.10% | Analyst mean target $523.28 (47 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -122,8 +122,8 @@ Broadcom Inc. designs, develops, and supplies various semiconductor devices and 
 | 52W high | $479.94 | Revenue growth y/y | 85.50% |
 | 52W low | $291.53 | Inst. ownership | 79.67% |
 | P/E (ttm) | 38.42 | Insider ownership | 1.96% |
-| Forward P/E | 15.52 | Short float | 1.23% |
-| PEG (trailing) | 0.30 | Avg volume | 26,602,153 |
+| Forward P/E | 15.56 | Short float | 1.23% |
+| PEG (trailing) | 0.30 | Avg volume | 26,837,475 |
 | P/S | 16.12 | Employees | 33,000 |
 | P/B | 14.41 | Analyst rec (1=buy..5=sell) | 1.3 |
 

@@ -36,10 +36,10 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 
 | Headline | Source | Date |
 |---|---|---|
+| Can Draganfly's AI Partnership Boost Its Unmanned Systems Business? | Zacks | 2026-11-26 |
+| Axon Is Down 47% From Its High. TD Cowen Still Sees $650 | TIKR | 2026-11-26 |
 | Can AeroVironment's Taiwan MOU Broaden Its Uncrewed Systems Reach? | Zacks | 2026-11-25 |
 | ETFs Are Net Sellers of AeroVironment (AVAV) on Nov. 23 | GuruFocus.com | 2026-11-25 |
-| AeroVironment (AVAV) Registers a Bigger Fall Than the Market: Important Facts to Note | Zacks | 2026-11-24 |
-| Red Cat Sinks 9%, Unusual Machines Slides 7%, Ondas Drops 4%: Is the Pentagon’s Reported Push to Bring In General Motors and Ford a Threat to Drone Stocks? | 24/7 Wall St. | 2026-11-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -126,7 +126,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | 52W low | $86.79 | Inst. ownership | 91.69% |
 | P/E (ttm) | — | Insider ownership | 0.90% |
 | Forward P/E | 20.73 | Short float | 14.54% |
-| PEG (trailing) | 0.75 | Avg volume | 1,682,235 |
+| PEG (trailing) | 0.75 | Avg volume | 1,685,831 |
 | P/S | 2.32 | Employees | 3,991 |
 | P/B | 1.05 | Analyst rec (1=buy..5=sell) | 1.6 |
 

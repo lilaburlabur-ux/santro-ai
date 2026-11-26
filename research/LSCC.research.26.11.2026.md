@@ -36,10 +36,10 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 
 | Headline | Source | Date |
 |---|---|---|
+| 3 AI Infrastructure Stocks With Revenue Growth Up To 168% | Simply Wall St. | 2026-11-26 |
 | Should You Add RMBS to Your Portfolio After a 27.6% Decline in a Year? | Zacks | 2026-11-25 |
 | Lattice Semiconductor (LSCC) Could Be 37% Below Fair Value On AI Chip Optimism | Simply Wall St. | 2026-11-25 |
 | A $12 Billion Fund Bought These 3 Stocks Last Quarter | TIKR | 2026-11-24 |
-| Why Lattice Semiconductor (LSCC) Stock Is Down Today: Chip Stocks Sell Off | GuruFocus.com | 2026-11-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,7 +74,7 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 108.69% |
+| Institutional ownership | 108.68% |
 | Insider ownership | 0.58% |
 | Short float | 10.82% |
 | Short ratio (days to cover) | 2.9 |
@@ -122,10 +122,10 @@ Lattice Semiconductor Corporation, together with its subsidiaries, develops and 
 | SMA50 dist | -13.04% | ROE | 4.21% |
 | SMA200 dist | -16.67% | Revenue (ttm) | $808.80M |
 | 52W high | $155.27 | Revenue growth y/y | 118.30% |
-| 52W low | $67.97 | Inst. ownership | 108.69% |
+| 52W low | $67.97 | Inst. ownership | 108.68% |
 | P/E (ttm) | 316.87 | Insider ownership | 0.58% |
 | Forward P/E | 22.38 | Short float | 10.82% |
-| PEG (trailing) | — | Avg volume | 2,157,164 |
+| PEG (trailing) | — | Avg volume | 2,166,193 |
 | P/S | 17.27 | Employees | 1,174 |
 | P/B | 9.85 | Analyst rec (1=buy..5=sell) | 1.4 |
 

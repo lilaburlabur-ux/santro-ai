@@ -36,10 +36,10 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 
 | Headline | Source | Date |
 |---|---|---|
+| What Is Qualcomm (QCOM) Worth Watching In Automotive AI Right Now? | Simply Wall St. | 2026-11-26 |
 | Qualcomm vs. Sandisk: Which Technology Stock Is a Better Buy for 2027? | Motley Fool | 2026-11-25 |
 | What Sent Qualcomm Stock Higher? | Trefis | 2026-11-25 |
 | Billionaire Brad Gerstner’s Altimeter Opened a $680 Million Tesla Stake and Exited Qualcomm and Applied Materials | 24/7 Wall St. | 2026-11-25 |
-| Why Did Nvidia Stock Jump So Much? | Trefis | 2026-11-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -123,7 +123,7 @@ QUALCOMM Incorporated engages in the development and commercialization of founda
 | 52W low | $122.94 | Inst. ownership | 82.08% |
 | P/E (ttm) | 13.28 | Insider ownership | 0.14% |
 | Forward P/E | 13.85 | Short float | 3.73% |
-| PEG (trailing) | 0.89 | Avg volume | 13,265,937 |
+| PEG (trailing) | 0.89 | Avg volume | 13,321,392 |
 | P/S | 4.19 | Employees | 57,000 |
 | P/B | 5.95 | Analyst rec (1=buy..5=sell) | 2.6 |
 

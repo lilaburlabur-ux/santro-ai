@@ -5,7 +5,7 @@ Signed file: `MU.research.26.11.2026`
 | Field | Value |
 |---|---|
 | Current price | $601.25 (2026-11-26, ~15-min delayed) |
-| Market cap | $680.27B |
+| Market cap | $682.38B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -36,10 +36,10 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 
 | Headline | Source | Date |
 |---|---|---|
-| Nvidia, AMD, and Micron stocks trim steep losses amid jittery AI trade | Yahoo Finance | 2026-11-25 |
-| Dow Jones Futures Rise; Market Goes On Wild Ride As Nasdaq Slashes Losses | Investor's Business Daily | 2026-11-26 |
-| Tech Stocks Stall Into Thanksgiving: Will the AI Rebound Return? | BeInCrypto | 2026-11-26 |
-| 5 Best Strong Buy Growth Stocks to Buy for 2027 | Insider Monkey | 2026-11-26 |
+| 5 Most Oversold Semiconductor Stocks to Buy for 2027 | Insider Monkey | 2026-11-26 |
+| Dow Jones Futures Rise With U.S. Markets Shut; Look For This Bullish Signal | Investor's Business Daily | 2026-11-26 |
+| Micron Stock Faces Surprising New Threat From Huawei | GuruFocus.com | 2026-11-26 |
+| Micron Stocks Fall 4.53% as TrendForce Cuts 2027 Memory Forecasts | GuruFocus.com | 2026-11-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,14 +68,14 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 | Revenue (ttm) | $133.19B | Revenue growth 379.30% y/y |
 | Profitability | Gross 80.72%, operating 74.59%, net 63.80% | ROA 44.56%, ROE 88.26% |
 | Balance sheet | Cash $43.43B, debt $5.18B | Current ratio 3.31, debt/equity 3.74 |
-| Valuation | P/E 8.09, forward P/E 2.93, P/S 5.11, P/B 4.91 | EV/Sales 4.82, EV/EBITDA 5.90 |
+| Valuation | P/E 8.09, forward P/E 2.93, P/S 5.12, P/B 4.91 | EV/Sales 4.82, EV/EBITDA 5.90 |
 | Growth expectations | Earnings growth 1059.50%, EPS q/q 1077.80% | Analyst mean target $1,529.69 (45 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 79.78% |
-| Insider ownership | 0.27% |
+| Institutional ownership | 70.47% |
+| Insider ownership | 0.24% |
 | Short float | 2.12% |
 | Short ratio (days to cover) | 0.8 |
 
@@ -112,7 +112,7 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $601.25 | EV/Sales | 4.82 |
-| Market cap | $680.27B | EV/EBITDA | 5.90 |
+| Market cap | $682.38B | EV/EBITDA | 5.90 |
 | Beta | 2.40 | Gross margin | 80.72% |
 | RSI(14) | 35.7 | Operating margin | 74.59% |
 | ATR(14) | 68.78 | Profit margin | 63.80% |
@@ -120,11 +120,11 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 | SMA50 dist | -32.85% | ROE | 88.26% |
 | SMA200 dist | -22.55% | Revenue (ttm) | $133.19B |
 | 52W high | $1,213.18 | Revenue growth y/y | 379.30% |
-| 52W low | $224.28 | Inst. ownership | 79.78% |
-| P/E (ttm) | 8.09 | Insider ownership | 0.27% |
+| 52W low | $224.28 | Inst. ownership | 70.47% |
+| P/E (ttm) | 8.09 | Insider ownership | 0.24% |
 | Forward P/E | 2.93 | Short float | 2.12% |
-| PEG (trailing) | 0.16 | Avg volume | 28,914,468 |
-| P/S | 5.11 | Employees | 61,000 |
+| PEG (trailing) | 0.16 | Avg volume | 29,441,785 |
+| P/S | 5.12 | Employees | 61,000 |
 | P/B | 4.91 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions

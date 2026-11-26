@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-26T18:39:51+00:00",
+  "as_of": "2026-11-26T18:54:59+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -41,6 +41,22 @@
   },
   {
    "rank": 3,
+   "ticker": "LRCX",
+   "company": "Lam Research Corp",
+   "move_pct": -5.68,
+   "price": 185.01,
+   "volume": 21472400,
+   "volume_vs_avg": "~2x",
+   "heat_score": 43,
+   "direction": "down",
+   "why": "Lam Research Stocks Fall 5.68% as China Exposure Weighs on Chip Toolmakers",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-stocks-fall-5-183545721.html",
+   "published": "2026-11-26T18:35:45+00:00",
+   "sector": "Chip Equipment & AI Hardware"
+  },
+  {
+   "rank": 4,
    "ticker": "ORCL",
    "company": "Oracle Corp",
    "move_pct": -5.13,
@@ -56,7 +72,7 @@
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
-   "rank": 4,
+   "rank": 5,
    "ticker": "DELL",
    "company": "Dell Technologies Inc",
    "move_pct": 0.6,

@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-11-26T09:25:35+00:00",
-  "as_of_local": "2026-11-26 09:25:35 UTC",
+  "as_of_utc": "2026-11-26T09:30:58+00:00",
+  "as_of_local": "2026-11-26 09:30:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 149.3,
-      "previous_close": 155.38,
-      "change_pct": -3.91,
-      "market_cap": 3605147173690.796,
-      "headlines": [
-        {
-          "title": "Jensen Huang reclaims throne at Nvidia: Here's the bottom line for investors",
-          "url": "https://finance.yahoo.com/video/jensen-huang-reclaims-throne-at-nvidia-heres-the-bottom-line-for-investors-212803135.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-25T21:28:03Z"
-        },
-        {
-          "title": "Jensen Huang's return, neocloud risk, and a holiday retail rally",
-          "url": "https://finance.yahoo.com/video/jensen-huangs-return-neocloud-risk-and-a-holiday-retail-rally-222042649.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-25T21:00:00Z"
-        },
-        {
-          "title": "Nvidia is cheap on paper, so why won't the market buy it?",
-          "url": "https://finance.yahoo.com/video/nvidia-is-cheap-on-paper-so-why-wont-the-market-buy-it-192215326.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-25T19:22:15Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -237,6 +211,12 @@
       "market_cap": 117806340340.17786,
       "headlines": [
         {
+          "title": "Lumentum Sinks 14% in a Week as AI Stocks Slide, but Its CEO Says \u201cWe Haven\u2019t Seen Any Slowdown\u201d",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lumentum-sinks-14-week-ai-082743038.html",
+          "publisher": "TIKR",
+          "published": "2026-11-26T08:27:43Z"
+        },
+        {
           "title": "Tech Stocks Stall Into Thanksgiving: Will the AI Rebound Return?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-stall-thanksgiving-ai-011953375.html",
           "publisher": "BeInCrypto",
@@ -247,12 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-expect-more-marvell-marvell-222447686.html",
           "publisher": "Trefis",
           "published": "2026-11-25T22:24:47Z"
-        },
-        {
-          "title": "Anthropic, Nvidia, Micron, HP Inc., Dell, Deere, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-07929503?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-25T21:41:00Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60740.68,
-      "change_pct": 0.6
+      "price": 60698.75,
+      "change_pct": 0.53
     },
     {
       "label": "Gold",
-      "price": 3598.7,
-      "change_pct": 1.78
+      "price": 3601.3,
+      "change_pct": 1.85
     },
     {
       "label": "Nasdaq100",

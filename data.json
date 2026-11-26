@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-26T17:13:01+00:00",
-  "as_of_local": "2026-11-26 17:13:01 UTC",
+  "as_of_utc": "2026-11-26T17:18:32+00:00",
+  "as_of_local": "2026-11-26 17:18:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -197,34 +199,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-brad-gerstner-altimeter-opened-202201972.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-25T20:22:01Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 161.51,
-      "previous_close": 161.56,
-      "change_pct": -0.03,
-      "market_cap": 172815694122.31445,
-      "headlines": [
-        {
-          "title": "Did Arm CEO Rene Haas Dodge a Bullet With Jensen Huang\u2019s Reinstatement at Nvidia?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/did-arm-ceo-rene-haas-164941547.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-26T16:49:41Z"
-        },
-        {
-          "title": "Arm Drops 20% in a Week as AI Chips Slide. CEO Rene Haas Has \u201cNever Been More Confident\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-drops-20-week-ai-093108598.html",
-          "publisher": "TIKR",
-          "published": "2026-11-26T09:31:08Z"
-        },
-        {
-          "title": "Nvidia Sinks 9% as Huang Rally Fades: Stephanie Link Sees \u201cA Cloud Over It\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-sinks-9-huang-rally-172416717.html",
-          "publisher": "TIKR",
-          "published": "2026-11-25T17:24:16Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60479.35,
-      "change_pct": 0.17
+      "price": 60491.83,
+      "change_pct": 0.19
     },
     {
       "label": "Gold",
-      "price": 3598.4,
-      "change_pct": 1.77
+      "price": 3599.2,
+      "change_pct": 1.79
     },
     {
       "label": "Nasdaq100",

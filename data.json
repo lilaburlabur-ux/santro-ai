@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-26T00:00:14+00:00",
-  "as_of_local": "2026-11-26 00:00:14 UTC",
+  "as_of_utc": "2026-11-26T00:05:22+00:00",
+  "as_of_local": "2026-11-26 00:05:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-25-220645995.html",
           "publisher": "Motley Fool",
           "published": "2026-11-25T22:06:45Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 601.25,
+      "previous_close": 629.79,
+      "change_pct": -4.53,
+      "market_cap": 680268206215.0,
+      "headlines": [
+        {
+          "title": "Nvidia, AMD, and Micron stocks trim steep losses amid jittery AI trade",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-stocks-sink-as-investors-flee-ai-trade-134518921.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-25T13:45:18Z"
+        },
+        {
+          "title": "Dow Jones Futures: Market Goes On Wild Ride. Nasdaq, Nvidia Slash Losses While Anthropic Reverses Higher.",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-25T23:56:25Z"
+        },
+        {
+          "title": "Micron's CEO pay rose 28%. His security bill rose way faster",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microns-ceo-pay-rose-28-223300418.html",
+          "publisher": "TheStreet",
+          "published": "2026-11-25T22:33:00Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -4.53,
+          "price": 601.25,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -4.53,
+        "price": 601.25,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 60328.16,
-      "change_pct": 0.97
+      "price": 60297.06,
+      "change_pct": 0.92
     },
     {
       "label": "Gold",
-      "price": 3606.7,
-      "change_pct": 1.26
+      "price": 3607.0,
+      "change_pct": 1.27
     },
     {
       "label": "Nasdaq100",

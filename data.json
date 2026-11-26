@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-26T18:59:59+00:00",
-  "as_of_local": "2026-11-26 18:59:59 UTC",
+  "as_of_utc": "2026-11-26T19:05:10+00:00",
+  "as_of_local": "2026-11-26 19:05:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -91,6 +89,34 @@
       ]
     },
     {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 601.25,
+      "previous_close": 629.79,
+      "change_pct": -4.53,
+      "market_cap": 682379255691.25,
+      "headlines": [
+        {
+          "title": "Dow Jones Futures Rise With U.S. Markets Shut; Look For This Bullish Signal",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-26T18:11:14Z"
+        },
+        {
+          "title": "Micron Stock Faces Surprising New Threat From Huawei",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-faces-surprising-threat-180348513.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-26T18:03:48Z"
+        },
+        {
+          "title": "Micron Stocks Fall 4.53% as TrendForce Cuts 2027 Memory Forecasts",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stocks-fall-4-53-172600974.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-26T17:26:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 406.03,
@@ -127,6 +153,12 @@
       "market_cap": 289508056488.0371,
       "headlines": [
         {
+          "title": "Intel Stocks Slip After Erasing a 10.3% Plunge Below $50",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-slip-erasing-10-184536612.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-26T18:45:36Z"
+        },
+        {
           "title": "Nvidia Now Has 41% of Its Stock Portfolio in SpaceX. Here\u2019s What That Means for Nvidia Shareholders",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-now-41-stock-portfolio-181210862.html",
           "publisher": "TIKR",
@@ -137,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/asxs-leap-demand-accelerates-revenue-160400372.html",
           "publisher": "Zacks",
           "published": "2026-11-26T16:04:00Z"
-        },
-        {
-          "title": "Here\u2019s Why $35 Is The Price to Buy Intel, and No Higher",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-35-price-buy-intel-121526705.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-26T12:15:26Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -4.53,
+          "price": 601.25,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -4.53,
+        "price": 601.25,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 60400.66,
-      "change_pct": 0.04
+      "price": 60417.08,
+      "change_pct": 0.06
     },
     {
       "label": "Gold",
-      "price": 3595.7,
-      "change_pct": 1.69
+      "price": 3596.1,
+      "change_pct": 1.71
     },
     {
       "label": "Nasdaq100",

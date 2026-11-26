@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-26T16:43:01+00:00",
+  "as_of": "2026-11-26T16:58:11+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -33,10 +33,10 @@
    "volume_vs_avg": "~1.0x",
    "heat_score": 38,
    "direction": "down",
-   "why": "Oracle Is Down 47% in 2026. Is There Really a \u201cReasonable Chance Oracle Goes Bankrupt\u201d?",
-   "catalyst_type": "regulatory",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/oracle-down-47-2026-really-135019398.html",
-   "published": "2026-11-26T13:50:19+00:00",
+   "why": "Oracle Stock Dipped Under $100 as Banks Try to Unload Its Data-Center Loans",
+   "catalyst_type": "financing",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-dipped-under-100-162722293.html",
+   "published": "2026-11-26T16:27:22+00:00",
    "sector": "AI Software & Cloud Infrastructure"
   },
   {

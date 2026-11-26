@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-26T16:22:12+00:00",
-  "as_of_local": "2026-11-26 16:22:12 UTC",
+  "as_of_utc": "2026-11-26T16:27:35+00:00",
+  "as_of_local": "2026-11-26 16:27:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -100,7 +102,7 @@
           "title": "Dow Jones Futures Rise With U.S. Markets Shut; Look For This Bullish Signal",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-26T15:39:29Z"
+          "published": "2026-11-26T16:17:03Z"
         },
         {
           "title": "Jim Cramer Says Micron Stock Is \u201cComically Cheap\u201d at About 3 Times Earnings",
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidias-data-center-sales-jump-122800006.html",
           "publisher": "Zacks",
           "published": "2026-11-26T12:28:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 54.47,
-      "previous_close": 54.8,
-      "change_pct": -0.6,
-      "market_cap": 289508056488.0371,
-      "headlines": [
-        {
-          "title": "Here\u2019s Why $35 Is The Price to Buy Intel, and No Higher",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-35-price-buy-intel-121526705.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-26T12:15:26Z"
-        },
-        {
-          "title": "What iShares PHLX SOX Semi (SOXX) Sold: AMD Leads on Nov. 24",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semi-soxx-110411069.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-26T11:04:11Z"
-        },
-        {
-          "title": "Bad News for Intel: Dell Says Companies Are \u201cDeferring Their PC Purchases\u201d for AI Servers",
-          "url": "https://finance.yahoo.com/technology/articles/bad-news-intel-dell-says-085021150.html",
-          "publisher": "TIKR",
-          "published": "2026-11-26T08:50:21Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60420.59,
+      "price": 60422.66,
       "change_pct": 0.07
     },
     {
       "label": "Gold",
-      "price": 3603.0,
-      "change_pct": 1.9
+      "price": 3604.2,
+      "change_pct": 1.93
     },
     {
       "label": "Nasdaq100",

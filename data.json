@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-26T09:00:20+00:00",
-  "as_of_local": "2026-11-26 09:00:20 UTC",
+  "as_of_utc": "2026-11-26T09:05:21+00:00",
+  "as_of_local": "2026-11-26 09:05:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -313,34 +315,6 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 91.37,
-      "previous_close": 89.4,
-      "change_pct": 2.2,
-      "market_cap": 4643487681.323227,
-      "headlines": [
-        {
-          "title": "Can AeroVironment's Taiwan MOU Broaden Its Uncrewed Systems Reach?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironments-taiwan-mou-broaden-uncrewed-122200262.html",
-          "publisher": "Zacks",
-          "published": "2026-11-25T12:22:00Z"
-        },
-        {
-          "title": "ETFs Are Net Sellers of AeroVironment (AVAV) on Nov. 23",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-aerovironment-avav-110339590.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-25T11:03:39Z"
-        },
-        {
-          "title": "AeroVironment (AVAV) Registers a Bigger Fall Than the Market: Important Facts to Note",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-registers-bigger-fall-221502239.html",
-          "publisher": "Zacks",
-          "published": "2026-11-24T22:15:02Z"
-        }
-      ]
-    },
-    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 116.63,
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60825.87,
-      "change_pct": 0.74
+      "price": 60801.52,
+      "change_pct": 0.7
     },
     {
       "label": "Gold",
-      "price": 3600.6,
-      "change_pct": 1.83
+      "price": 3601.0,
+      "change_pct": 1.84
     },
     {
       "label": "Nasdaq100",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-25T23:55:16+00:00",
-  "as_of_local": "2026-11-25 23:55:16 UTC",
+  "as_of_utc": "2026-11-26T00:00:14+00:00",
+  "as_of_local": "2026-11-26 00:00:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MU"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -41,6 +43,12 @@
       "market_cap": 1775537145772.5286,
       "headlines": [
         {
+          "title": "Altimeter\u2019s Brad Gerstner Says Nvidia Was Priced for \u201cNegative Growth for 2028 and 2029.\u201d Wall Street Expects 29%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/altimeter-brad-gerstner-says-nvidia-233902558.html",
+          "publisher": "TIKR",
+          "published": "2026-11-25T23:39:02Z"
+        },
+        {
           "title": "Trump heads to Arizona next week for a high-stakes expansion of TSMC's computer chip factories",
           "url": "https://finance.yahoo.com/technology/articles/trump-heads-arizona-next-week-225636899.html",
           "publisher": "Associated Press",
@@ -51,12 +59,6 @@
           "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-25T14:53:06Z"
-        },
-        {
-          "title": "TSMC eyes 3K-acre Aggieland site for $22.6B chip plant",
-          "url": "https://finance.yahoo.com/technology/articles/tsmc-eyes-3k-acre-aggieland-192901231.html",
-          "publisher": "The Real Deal",
-          "published": "2026-11-25T19:29:01Z"
         }
       ]
     },
@@ -89,34 +91,6 @@
       ]
     },
     {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "price": 601.25,
-      "previous_close": 629.79,
-      "change_pct": -4.53,
-      "market_cap": 680268206215.0,
-      "headlines": [
-        {
-          "title": "Nvidia, AMD, and Micron stocks trim steep losses amid jittery AI trade",
-          "url": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-stocks-sink-as-investors-flee-ai-trade-134518921.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-25T13:45:18Z"
-        },
-        {
-          "title": "Dow Jones Futures: Market Goes On Wild Ride. Nasdaq, Nvidia Slash Losses While Anthropic Reverses Higher.",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-25T23:45:39Z"
-        },
-        {
-          "title": "Micron's CEO pay rose 28%. His security bill rose way faster",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microns-ceo-pay-rose-28-223300418.html",
-          "publisher": "TheStreet",
-          "published": "2026-11-25T22:33:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "AMD",
       "name": "AMD",
       "price": 406.03,
@@ -131,16 +105,16 @@
           "published": "2026-11-25T13:45:18Z"
         },
         {
+          "title": "Altimeter\u2019s Brad Gerstner Says Nvidia Was Priced for \u201cNegative Growth for 2028 and 2029.\u201d Wall Street Expects 29%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/altimeter-brad-gerstner-says-nvidia-233902558.html",
+          "publisher": "TIKR",
+          "published": "2026-11-25T23:39:02Z"
+        },
+        {
           "title": "2 Billionaire Funds Dumped AMD Last Quarter. Is It a Sell?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/2-billionaire-funds-dumped-amd-224301433.html",
           "publisher": "Motley Fool",
           "published": "2026-11-25T22:43:01Z"
-        },
-        {
-          "title": "Analysts Expect More From Marvell Than Marvell Does",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-expect-more-marvell-marvell-222447686.html",
-          "publisher": "Trefis",
-          "published": "2026-11-25T22:24:47Z"
         }
       ]
     },
@@ -409,8 +383,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": -4.53,
-          "price": 601.25,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -499,8 +473,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": -4.53,
-        "price": 601.25,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60465.45,
-      "change_pct": 1.2
+      "price": 60328.16,
+      "change_pct": 0.97
     },
     {
       "label": "Gold",
-      "price": 3609.9,
-      "change_pct": 1.35
+      "price": 3606.7,
+      "change_pct": 1.26
     },
     {
       "label": "Nasdaq100",

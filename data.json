@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-26T06:23:33+00:00",
-  "as_of_local": "2026-11-26 06:23:33 UTC",
+  "as_of_utc": "2026-11-26T06:38:38+00:00",
+  "as_of_local": "2026-11-26 06:38:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -61,34 +63,6 @@
       ]
     },
     {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 300.86,
-      "previous_close": 301.08,
-      "change_pct": -0.07,
-      "market_cap": 1436194211257.6812,
-      "headlines": [
-        {
-          "title": "Why Retail Investors Are Watching AMD and AI Infrastructure Stocks After SpaceX Satellite News",
-          "url": "https://finance.yahoo.com/technology/ai/articles/why-retail-investors-watching-amd-021215050.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-26T02:12:15Z"
-        },
-        {
-          "title": "Broadcom Stock Hasn't Traded This Low Since July 2025. I Think It's a Buy.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-hasnt-traded-low-010302052.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-26T01:03:02Z"
-        },
-        {
-          "title": "5 Best Strong Buy Growth Stocks to Buy for 2027",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-strong-buy-growth-004610627.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-26T00:46:10Z"
-        }
-      ]
-    },
-    {
       "symbol": "MU",
       "name": "Micron Technology",
       "price": 601.25,
@@ -103,16 +77,16 @@
           "published": "2026-11-25T13:45:18Z"
         },
         {
+          "title": "MU, SNDK, SKHY Jump As Nvidia Tests Kioxia Memory Fix \u2014 Analyst Presses Memory Giants For \u2018Massive\u2019 Buybacks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-skhy-jump-nvidia-063051265.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-26T06:30:51Z"
+        },
+        {
           "title": "Micron faces Taiwan uncertainty as labor dispute threatens expansion, report warns",
           "url": "https://finance.yahoo.com/technology/articles/micron-faces-taiwan-uncertainty-labor-055543451.html",
           "publisher": "Investing.com",
           "published": "2026-11-26T05:55:43Z"
-        },
-        {
-          "title": "Dow Jones Futures Rise After Nasdaq Slashes Losses In Wild Market Ride",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-26T04:06:32Z"
         }
       ]
     },
@@ -401,8 +375,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": null,
-      "change_pct": 0.0,
+      "price": 34.83,
+      "change_pct": -3.03,
       "holdings": [
         {
           "symbol": "MU",
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.67,
-          "price": 1057500.0,
+          "change_pct": 2.33,
+          "price": 1054000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 1.23,
-          "price": 172800.0,
+          "change_pct": 0.41,
+          "price": 171400.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 13.28,
-          "price": 7811.0,
+          "change_pct": 12.68,
+          "price": 7769.0,
           "currency": "JPY"
         },
         {
@@ -491,8 +465,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": null,
-    "change_pct": 0.0,
+    "price": 34.83,
+    "change_pct": -3.03,
     "holdings": [
       {
         "symbol": "MU",
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.67,
-        "price": 1057500.0,
+        "change_pct": 2.33,
+        "price": 1054000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 1.23,
-        "price": 172800.0,
+        "change_pct": 0.41,
+        "price": 171400.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 13.28,
-        "price": 7811.0,
+        "change_pct": 12.68,
+        "price": 7769.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60490.45,
-      "change_pct": 1.24
+      "price": 60514.69,
+      "change_pct": 1.28
     },
     {
       "label": "Gold",
-      "price": 3598.8,
-      "change_pct": 1.78
+      "price": 3600.5,
+      "change_pct": 1.83
     },
     {
       "label": "Nasdaq100",

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-26T12:03:24+00:00",
-  "as_of_local": "2026-11-26 12:03:24 UTC",
+  "as_of_utc": "2026-11-26T12:08:23+00:00",
+  "as_of_local": "2026-11-26 12:08:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 1436194211257.6812,
       "headlines": [
         {
+          "title": "UBS\u2019s $425 Target Says Broadcom\u2019s Selloff Went Too Far",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-425-target-says-broadcom-115123174.html",
+          "publisher": "TIKR",
+          "published": "2026-11-26T11:51:23Z"
+        },
+        {
           "title": "State Street Tech Select SPDR (XLK) Adds Apple and Nvidia on Nov. 24",
           "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-tech-select-spdr-110452004.html",
           "publisher": "GuruFocus.com",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/direxion-daily-technology-bull-3x-110431437.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-26T11:04:31Z"
-        },
-        {
-          "title": "What iShares PHLX SOX Semi (SOXX) Sold: AMD Leads on Nov. 24",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semi-soxx-110411069.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-26T11:04:11Z"
         }
       ]
     },
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 34.83,
-      "change_pct": -3.03,
+      "price": null,
+      "change_pct": 0.0,
       "holdings": [
         {
           "symbol": "MU",
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 34.83,
-    "change_pct": -3.03,
+    "price": null,
+    "change_pct": 0.0,
     "holdings": [
       {
         "symbol": "MU",
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 60803.38,
-      "change_pct": 0.7
+      "price": 60753.29,
+      "change_pct": 0.62
     },
     {
       "label": "Gold",
-      "price": 3594.6,
-      "change_pct": 1.66
+      "price": 3595.7,
+      "change_pct": 1.69
     },
     {
       "label": "Nasdaq100",

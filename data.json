@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-26T21:42:32+00:00",
-  "as_of_local": "2026-11-26 21:42:32 UTC",
+  "as_of_utc": "2026-11-26T21:47:32+00:00",
+  "as_of_local": "2026-11-26 21:47:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -113,34 +115,6 @@
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-26T18:11:14Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 406.03,
-      "previous_close": 413.27,
-      "change_pct": -1.75,
-      "market_cap": 672006272584.8463,
-      "headlines": [
-        {
-          "title": "5 Most Oversold Semiconductor Stocks to Buy for 2027",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-oversold-semiconductor-stocks-194738573.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-26T19:47:38Z"
-        },
-        {
-          "title": "AMD Stocks Slip 1.75% After Filing Registers 337 Million Shares for Resale",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stocks-slip-1-75-182928246.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-26T18:29:28Z"
-        },
-        {
-          "title": "nVent Electric (NVT) Brings AI Data Center Cooling And Power Systems To SC26",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvent-electric-nvt-brings-ai-171331695.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-26T17:13:31Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 60828.7,
-      "change_pct": 0.75
+      "price": 60816.02,
+      "change_pct": 0.73
     },
     {
       "label": "Gold",

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-26T15:06:06+00:00",
-  "as_of_local": "2026-11-26 15:06:06 UTC",
+  "as_of_utc": "2026-11-26T15:11:09+00:00",
+  "as_of_local": "2026-11-26 15:11:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -227,6 +225,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/chip-stocks-tumble-nvidia-led-164900978.html",
           "publisher": "Proactive",
           "published": "2026-11-25T16:49:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 130.93,
+      "previous_close": 131.57,
+      "change_pct": -0.49,
+      "market_cap": 117806340340.17786,
+      "headlines": [
+        {
+          "title": "Marvell Technology, Inc. (MRVL) is Attracting Investor Attention: Here is What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-inc-mrvl-attracting-130006516.html",
+          "publisher": "Zacks",
+          "published": "2026-11-26T13:00:06Z"
+        },
+        {
+          "title": "Credo Technology Has Had a Wild Ride to a 25% Decline Year-to-Date: Two Wall Street Teams Target 190% Returns Moving Forward",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-had-wild-ride-121500283.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-26T12:15:00Z"
+        },
+        {
+          "title": "Broadcom Sinks 15% in a Week to a 52-Week Low as Google Reportedly Cuts TPU Orders. Is the Selling Overdone?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-sinks-15-week-52-083034147.html",
+          "publisher": "TIKR",
+          "published": "2026-11-26T08:30:34Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 60219.14,
-      "change_pct": -0.26
+      "price": 60166.26,
+      "change_pct": -0.35
     },
     {
       "label": "Gold",
-      "price": 3607.7,
-      "change_pct": 2.03
+      "price": 3608.3,
+      "change_pct": 2.05
     },
     {
       "label": "Nasdaq100",

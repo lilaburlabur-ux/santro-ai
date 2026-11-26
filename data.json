@@ -1,11 +1,39 @@
 {
-  "as_of_utc": "2026-11-26T03:32:00+00:00",
-  "as_of_local": "2026-11-26 03:32:00 UTC",
+  "as_of_utc": "2026-11-26T03:37:05+00:00",
+  "as_of_local": "2026-11-26 03:37:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "NVDA"
+    "NXPI"
   ],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 149.3,
+      "previous_close": 155.38,
+      "change_pct": -3.91,
+      "market_cap": 3605147173690.796,
+      "headlines": [
+        {
+          "title": "Jensen Huang reclaims throne at Nvidia: Here's the bottom line for investors",
+          "url": "https://finance.yahoo.com/video/jensen-huang-reclaims-throne-at-nvidia-heres-the-bottom-line-for-investors-212803135.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-25T21:28:03Z"
+        },
+        {
+          "title": "Jensen Huang's return, neocloud risk, and a holiday retail rally",
+          "url": "https://finance.yahoo.com/video/jensen-huangs-return-neocloud-risk-and-a-holiday-retail-rally-222042649.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-25T21:00:00Z"
+        },
+        {
+          "title": "Nvidia is cheap on paper, so why won't the market buy it?",
+          "url": "https://finance.yahoo.com/video/nvidia-is-cheap-on-paper-so-why-wont-the-market-buy-it-192215326.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-25T19:22:15Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -231,34 +259,6 @@
       ]
     },
     {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 242.96,
-      "previous_close": 239.4,
-      "change_pct": 1.49,
-      "market_cap": 61238795656.730286,
-      "headlines": [
-        {
-          "title": "Analog Devices Just Plunged After Earnings. Is Its Dividend Now a Bargain?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-just-plunged-earnings-184751144.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-25T18:47:51Z"
-        },
-        {
-          "title": "Prediction: Qualcomm Becomes the Top Auto Chipmaker in 2027, \u201ca Story the Market Has Quietly Ignored,\u201d per SemiAnalysis",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-qualcomm-becomes-top-auto-140557559.html",
-          "publisher": "TIKR",
-          "published": "2026-11-25T14:05:57Z"
-        },
-        {
-          "title": "What Is The True Hidden Price Of Texas Instruments Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/true-hidden-price-texas-instruments-210353713.html",
-          "publisher": "Trefis",
-          "published": "2026-11-24T21:03:53Z"
-        }
-      ]
-    },
-    {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
       "price": 98.23,
@@ -392,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.72,
-          "price": 1058000.0,
+          "change_pct": 2.62,
+          "price": 1057000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 1.05,
-          "price": 172500.0,
+          "change_pct": 0.94,
+          "price": 172300.0,
           "currency": "KRW"
         },
         {
@@ -446,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 7.54,
-          "price": 299.5,
+          "change_pct": 7.72,
+          "price": 300.0,
           "currency": "TWD"
         },
         {
@@ -482,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.72,
-        "price": 1058000.0,
+        "change_pct": 2.62,
+        "price": 1057000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 1.05,
-        "price": 172500.0,
+        "change_pct": 0.94,
+        "price": 172300.0,
         "currency": "KRW"
       },
       {
@@ -536,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 7.54,
-        "price": 299.5,
+        "change_pct": 7.72,
+        "price": 300.0,
         "currency": "TWD"
       },
       {
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60598.89,
+      "price": 60595.52,
       "change_pct": 1.42
     },
     {
       "label": "Gold",
-      "price": 3602.1,
-      "change_pct": 1.13
+      "price": 3604.4,
+      "change_pct": 1.19
     },
     {
       "label": "Nasdaq100",

@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-11-26T03:16:51+00:00",
-  "as_of_local": "2026-11-26 03:16:51 UTC",
+  "as_of_utc": "2026-11-26T03:32:00+00:00",
+  "as_of_local": "2026-11-26 03:32:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 149.3,
-      "previous_close": 155.38,
-      "change_pct": -3.91,
-      "market_cap": 3605147173690.796,
-      "headlines": [
-        {
-          "title": "Jensen Huang reclaims throne at Nvidia: Here's the bottom line for investors",
-          "url": "https://finance.yahoo.com/video/jensen-huang-reclaims-throne-at-nvidia-heres-the-bottom-line-for-investors-212803135.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-25T21:28:03Z"
-        },
-        {
-          "title": "Jensen Huang's return, neocloud risk, and a holiday retail rally",
-          "url": "https://finance.yahoo.com/video/jensen-huangs-return-neocloud-risk-and-a-holiday-retail-rally-222042649.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-25T21:00:00Z"
-        },
-        {
-          "title": "Nvidia is cheap on paper, so why won't the market buy it?",
-          "url": "https://finance.yahoo.com/video/nvidia-is-cheap-on-paper-so-why-wont-the-market-buy-it-192215326.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-25T19:22:15Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -106,7 +80,7 @@
           "title": "Dow Jones Futures Rise; Market Goes On Wild Ride As Nasdaq Slashes Losses",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-26T02:17:28Z"
+          "published": "2026-11-26T03:15:07Z"
         },
         {
           "title": "Tech Stocks Stall Into Thanksgiving: Will the AI Rebound Return?",
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 2.52,
-          "price": 1056000.0,
+          "change_pct": 2.72,
+          "price": 1058000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.82,
-          "price": 172100.0,
+          "change_pct": 1.05,
+          "price": 172500.0,
           "currency": "KRW"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 6.82,
-          "price": 297.5,
+          "change_pct": 7.54,
+          "price": 299.5,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 6.88,
-          "price": 101.0,
+          "change_pct": 7.41,
+          "price": 101.5,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 2.52,
-        "price": 1056000.0,
+        "change_pct": 2.72,
+        "price": 1058000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.82,
-        "price": 172100.0,
+        "change_pct": 1.05,
+        "price": 172500.0,
         "currency": "KRW"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 6.82,
-        "price": 297.5,
+        "change_pct": 7.54,
+        "price": 299.5,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 6.88,
-        "price": 101.0,
+        "change_pct": 7.41,
+        "price": 101.5,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60694.5,
-      "change_pct": 1.58
+      "price": 60598.89,
+      "change_pct": 1.42
     },
     {
       "label": "Gold",
-      "price": 3610.5,
-      "change_pct": 1.36
+      "price": 3602.1,
+      "change_pct": 1.13
     },
     {
       "label": "Nasdaq100",

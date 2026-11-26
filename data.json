@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-26T14:15:10+00:00",
-  "as_of_local": "2026-11-26 14:15:10 UTC",
+  "as_of_utc": "2026-11-26T14:20:13+00:00",
+  "as_of_local": "2026-11-26 14:20:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -145,34 +147,6 @@
       ]
     },
     {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 54.47,
-      "previous_close": 54.8,
-      "change_pct": -0.6,
-      "market_cap": 289508056488.0371,
-      "headlines": [
-        {
-          "title": "Here\u2019s Why $35 Is The Price to Buy Intel, and No Higher",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-35-price-buy-intel-121526705.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-26T12:15:26Z"
-        },
-        {
-          "title": "What iShares PHLX SOX Semi (SOXX) Sold: AMD Leads on Nov. 24",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semi-soxx-110411069.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-26T11:04:11Z"
-        },
-        {
-          "title": "Bad News for Intel: Dell Says Companies Are \u201cDeferring Their PC Purchases\u201d for AI Servers",
-          "url": "https://finance.yahoo.com/technology/articles/bad-news-intel-dell-says-085021150.html",
-          "publisher": "TIKR",
-          "published": "2026-11-26T08:50:21Z"
-        }
-      ]
-    },
-    {
       "symbol": "QCOM",
       "name": "Qualcomm",
       "price": 168.66,
@@ -221,10 +195,10 @@
           "published": "2026-11-25T16:49:00Z"
         },
         {
-          "title": "ARM Holdings near-term technical outlook: bearish setup with key levels to watch",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-near-term-technical-130314923.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-25T13:03:14Z"
+          "title": "Dow Craters Over 1000 Points, Nasdaq Slips 4% As AI Trade Unravels \u2013 Investors Digest PCE Inflation, Fresh Tariff Proposal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dow-craters-over-1000-points-150503134.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-25T15:05:03Z"
         }
       ]
     },
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.35,
-          "price": 171300.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "KRW"
         },
         {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.35,
-        "price": 171300.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "KRW"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60777.48,
-      "change_pct": 0.66
+      "price": 60732.53,
+      "change_pct": 0.59
     },
     {
       "label": "Gold",
-      "price": 3601.6,
-      "change_pct": 1.86
+      "price": 3600.8,
+      "change_pct": 1.84
     },
     {
       "label": "Nasdaq100",

@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-26T09:30:58+00:00",
-  "as_of_local": "2026-11-26 09:30:58 UTC",
+  "as_of_utc": "2026-11-26T09:36:01+00:00",
+  "as_of_local": "2026-11-26 09:36:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 149.3,
+      "previous_close": 155.38,
+      "change_pct": -3.91,
+      "market_cap": 3605147173690.796,
+      "headlines": [
+        {
+          "title": "Jensen Huang reclaims throne at Nvidia: Here's the bottom line for investors",
+          "url": "https://finance.yahoo.com/video/jensen-huang-reclaims-throne-at-nvidia-heres-the-bottom-line-for-investors-212803135.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-25T21:28:03Z"
+        },
+        {
+          "title": "Jensen Huang's return, neocloud risk, and a holiday retail rally",
+          "url": "https://finance.yahoo.com/video/jensen-huangs-return-neocloud-risk-and-a-holiday-retail-rally-222042649.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-25T21:00:00Z"
+        },
+        {
+          "title": "Nvidia is cheap on paper, so why won't the market buy it?",
+          "url": "https://finance.yahoo.com/video/nvidia-is-cheap-on-paper-so-why-wont-the-market-buy-it-192215326.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-25T19:22:15Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 60698.75,
-      "change_pct": 0.53
+      "price": 60756.77,
+      "change_pct": 0.63
     },
     {
       "label": "Gold",
-      "price": 3601.3,
-      "change_pct": 1.85
+      "price": 3599.5,
+      "change_pct": 1.8
     },
     {
       "label": "Nasdaq100",

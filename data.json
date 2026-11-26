@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-26T18:14:16+00:00",
-  "as_of_local": "2026-11-26 18:14:16 UTC",
+  "as_of_utc": "2026-11-26T18:19:22+00:00",
+  "as_of_local": "2026-11-26 18:19:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -97,16 +99,16 @@
       "market_cap": 682379255691.25,
       "headlines": [
         {
+          "title": "Dow Jones Futures Rise With U.S. Markets Shut; Look For This Bullish Signal",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-26T18:11:14Z"
+        },
+        {
           "title": "Micron Stock Faces Surprising New Threat From Huawei",
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-faces-surprising-threat-180348513.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-26T18:03:48Z"
-        },
-        {
-          "title": "Dow Jones Futures Rise With U.S. Markets Shut; Look For This Bullish Signal",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-26T17:58:34Z"
         },
         {
           "title": "Micron Stocks Fall 4.53% as TrendForce Cuts 2027 Memory Forecasts",
@@ -341,34 +343,6 @@
       ]
     },
     {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 116.63,
-      "previous_close": 116.77,
-      "change_pct": -0.12,
-      "market_cap": 4633536711.962372,
-      "headlines": [
-        {
-          "title": "Top 3 AI Infrastructure Stocks To Watch In November 2026",
-          "url": "https://finance.yahoo.com/technology/ai/articles/top-3-ai-infrastructure-stocks-091108294.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-19T09:11:08Z"
-        },
-        {
-          "title": "SYNA Q1 Earnings Beat Estimates, Revenues Miss on Weak Demand",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/syna-q1-earnings-beat-estimates-152400592.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T15:24:00Z"
-        },
-        {
-          "title": "Synaptics (SYNA) Tops Q1 Earnings Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-tops-q1-earnings-000013395.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T00:00:13Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 22.4,
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -14.18,
+          "price": 6895.0,
           "currency": "JPY"
         },
         {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -14.18,
+        "price": 6895.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60438.28,
-      "change_pct": 0.1
+      "price": 60458.35,
+      "change_pct": 0.13
     },
     {
       "label": "Gold",
-      "price": 3594.6,
-      "change_pct": 1.66
+      "price": 3594.8,
+      "change_pct": 1.67
     },
     {
       "label": "Nasdaq100",

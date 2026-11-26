@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-26T23:53:50+00:00",
-  "as_of_local": "2026-11-26 23:53:50 UTC",
+  "as_of_utc": "2026-11-26T23:58:54+00:00",
+  "as_of_local": "2026-11-26 23:58:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/nvent-electric-nvt-brings-ai-171331695.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-26T17:13:31Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 54.47,
-      "previous_close": 54.8,
-      "change_pct": -0.6,
-      "market_cap": 289508056488.0371,
-      "headlines": [
-        {
-          "title": "Intel (INTC) Faces Lawsuit And AI Selloff As Fair Value Debate Gets Harder",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-faces-lawsuit-ai-220908878.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-26T22:09:08Z"
-        },
-        {
-          "title": "Steve Cohen\u2019s 5 Biggest Stock Bets for 2027",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/steve-cohen-5-biggest-stock-220614898.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-26T22:06:14Z"
-        },
-        {
-          "title": "5 Most Oversold Semiconductor Stocks to Buy for 2027",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-oversold-semiconductor-stocks-194738573.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-26T19:47:38Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60442.19,
-      "change_pct": 0.11
+      "price": 60496.86,
+      "change_pct": 0.2
     },
     {
       "label": "Gold",
-      "price": 3593.1,
-      "change_pct": 1.62
+      "price": 3594.2,
+      "change_pct": 1.65
     },
     {
       "label": "Nasdaq100",

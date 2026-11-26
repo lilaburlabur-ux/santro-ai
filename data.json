@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-26T22:02:17+00:00",
-  "as_of_local": "2026-11-26 22:02:17 UTC",
+  "as_of_utc": "2026-11-26T22:07:26+00:00",
+  "as_of_local": "2026-11-26 22:07:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LSCC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -287,6 +285,34 @@
       ]
     },
     {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 98.23,
+      "previous_close": 100.37,
+      "change_pct": -2.13,
+      "market_cap": 13970830104.3722,
+      "headlines": [
+        {
+          "title": "3 AI Infrastructure Stocks With Revenue Growth Up To 168%",
+          "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-revenue-100924358.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-26T10:09:24Z"
+        },
+        {
+          "title": "Should You Add RMBS to Your Portfolio After a 27.6% Decline in a Year?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/add-rmbs-portfolio-27-6-122300088.html",
+          "publisher": "Zacks",
+          "published": "2026-11-25T12:23:00Z"
+        },
+        {
+          "title": "Lattice Semiconductor (LSCC) Could Be 37% Below Fair Value On AI Chip Optimism",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-lscc-could-37-031232846.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-25T03:12:32Z"
+        }
+      ]
+    },
+    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 91.37,
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 60680.32,
-      "change_pct": 0.5
+      "price": 60576.29,
+      "change_pct": 0.33
     },
     {
       "label": "Gold",

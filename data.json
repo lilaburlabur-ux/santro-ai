@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-26T11:27:40+00:00",
-  "as_of_local": "2026-11-26 11:27:40 UTC",
+  "as_of_utc": "2026-11-26T11:32:44+00:00",
+  "as_of_local": "2026-11-26 11:32:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -31,6 +29,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-anthropic-stock-ipo-history-112402152.html",
           "publisher": "Motley Fool",
           "published": "2026-11-26T11:24:02Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 342.34,
+      "previous_close": 349.2,
+      "change_pct": -1.96,
+      "market_cap": 1775537145772.5286,
+      "headlines": [
+        {
+          "title": "Taiwan Semiconductor Manufacturing (TSM) May Make Its $22.6 Billion Texas Plant Conditional",
+          "url": "https://finance.yahoo.com/technology/articles/taiwan-semiconductor-manufacturing-tsm-may-111054914.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-26T11:10:54Z"
+        },
+        {
+          "title": "ETFs Are Net Sellers of Taiwan Semiconductor (TSM) on Nov. 24",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-taiwan-semiconductor-110318756.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-26T11:03:18Z"
+        },
+        {
+          "title": "Taiwan shares tumble 4.8% as AI chip stocks slump",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-shares-tumble-4-8-035111984.html",
+          "publisher": "IntelliNews",
+          "published": "2026-11-26T03:51:11Z"
         }
       ]
     },
@@ -77,16 +103,16 @@
           "published": "2026-11-25T13:45:18Z"
         },
         {
-          "title": "Avantis U.S. Large Cap Value ETF (AVLV) Adds AT&T and Micron on Tuesday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/avantis-u-large-cap-value-110514185.html",
+          "title": "Micron and Sandisk Are Two of the Cheapest AI Chip Stocks to Own",
+          "url": "https://finance.yahoo.com/technology/ai/articles/micron-sandisk-two-cheapest-ai-112351523.html",
           "publisher": "GuruFocus.com",
-          "published": "2026-11-26T11:05:14Z"
+          "published": "2026-11-26T11:23:51Z"
         },
         {
-          "title": "What iShares PHLX SOX Semi (SOXX) Sold: AMD Leads on Nov. 24",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semi-soxx-110411069.html",
+          "title": "Nvidia, AMD and Micron Stocks Plunge as AI Selloff Deepens",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-micron-stocks-plunge-110624788.html",
           "publisher": "GuruFocus.com",
-          "published": "2026-11-26T11:04:11Z"
+          "published": "2026-11-26T11:06:24Z"
         }
       ]
     },
@@ -111,10 +137,10 @@
           "published": "2026-11-26T11:13:02Z"
         },
         {
-          "title": "State Street Tech Select SPDR (XLK) Adds Apple and Nvidia on Nov. 24",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-tech-select-spdr-110452004.html",
+          "title": "Nvidia, AMD and Micron Stocks Plunge as AI Selloff Deepens",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-micron-stocks-plunge-110624788.html",
           "publisher": "GuruFocus.com",
-          "published": "2026-11-26T11:04:52Z"
+          "published": "2026-11-26T11:06:24Z"
         }
       ]
     },
@@ -351,12 +377,6 @@
       "market_cap": 639010926.7177086,
       "headlines": [
         {
-          "title": "Why Is CEVA (CEVA) Stock Down Today? AI Chip Selloff Drags Shares",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-ceva-ceva-stock-down-204653822.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-24T20:46:53Z"
-        },
-        {
           "title": "Nvidia News Has Investors Rethinking These U.S. AI Chip Stocks",
           "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-news-investors-rethinking-u-070751605.html",
           "publisher": "Simply Wall St.",
@@ -367,6 +387,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-8-9-strong-anthropic-204406766.html",
           "publisher": "Benzinga Prediction Markets",
           "published": "2026-11-19T20:44:06Z"
+        },
+        {
+          "title": "3 Stocks With Superb Earnings Acceleration to Buy Before 2027",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-superb-earnings-acceleration-190000991.html",
+          "publisher": "Zacks",
+          "published": "2026-11-19T19:00:00Z"
         }
       ]
     }
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 60597.9,
-      "change_pct": 0.36
+      "price": 60575.69,
+      "change_pct": 0.33
     },
     {
       "label": "Gold",
-      "price": 3592.7,
-      "change_pct": 1.61
+      "price": 3595.1,
+      "change_pct": 1.68
     },
     {
       "label": "Nasdaq100",

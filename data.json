@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-26T16:12:02+00:00",
-  "as_of_local": "2026-11-26 16:12:02 UTC",
+  "as_of_utc": "2026-11-26T16:17:06+00:00",
+  "as_of_local": "2026-11-26 16:17:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "LSCC"
+    "CEVA"
   ],
   "stocks": [
     {
@@ -287,6 +287,34 @@
       ]
     },
     {
+      "symbol": "LSCC",
+      "name": "Lattice Semiconductor",
+      "price": 98.23,
+      "previous_close": 100.37,
+      "change_pct": -2.13,
+      "market_cap": 13970830104.3722,
+      "headlines": [
+        {
+          "title": "3 AI Infrastructure Stocks With Revenue Growth Up To 168%",
+          "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-revenue-100924358.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-26T10:09:24Z"
+        },
+        {
+          "title": "Should You Add RMBS to Your Portfolio After a 27.6% Decline in a Year?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/add-rmbs-portfolio-27-6-122300088.html",
+          "publisher": "Zacks",
+          "published": "2026-11-25T12:23:00Z"
+        },
+        {
+          "title": "Lattice Semiconductor (LSCC) Could Be 37% Below Fair Value On AI Chip Optimism",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-lscc-could-37-031232846.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-25T03:12:32Z"
+        }
+      ]
+    },
+    {
       "symbol": "AVAV",
       "name": "AeroVironment",
       "price": 91.37,
@@ -339,34 +367,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-tops-q1-earnings-000013395.html",
           "publisher": "Zacks",
           "published": "2026-11-06T00:00:13Z"
-        }
-      ]
-    },
-    {
-      "symbol": "CEVA",
-      "name": "CEVA",
-      "price": 22.4,
-      "previous_close": 23.04,
-      "change_pct": -2.78,
-      "market_cap": 639010926.7177086,
-      "headlines": [
-        {
-          "title": "Why Is CEVA (CEVA) Stock Down Today? AI Chip Selloff Drags Shares",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-ceva-ceva-stock-down-204653822.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-24T20:46:53Z"
-        },
-        {
-          "title": "Nvidia News Has Investors Rethinking These U.S. AI Chip Stocks",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-news-investors-rethinking-u-070751605.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-23T07:07:51Z"
-        },
-        {
-          "title": "Nvidia Up 8.9% After a Strong Anthropic IPO? That\u2019s What Tilt\u2019s New Investing Tool Modeled",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-8-9-strong-anthropic-204406766.html",
-          "publisher": "Benzinga Prediction Markets",
-          "published": "2026-11-19T20:44:06Z"
         }
       ]
     }
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60589.16,
-      "change_pct": 0.35
+      "price": 60505.14,
+      "change_pct": 0.21
     },
     {
       "label": "Gold",
-      "price": 3598.6,
-      "change_pct": 1.78
+      "price": 3602.0,
+      "change_pct": 1.87
     },
     {
       "label": "Nasdaq100",

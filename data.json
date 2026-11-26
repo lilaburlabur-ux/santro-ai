@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-26T01:11:29+00:00",
-  "as_of_local": "2026-11-26 01:11:29 UTC",
+  "as_of_utc": "2026-11-26T01:26:36+00:00",
+  "as_of_local": "2026-11-26 01:26:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 1436194281183.9001,
       "headlines": [
         {
+          "title": "Broadcom Stock Hasn't Traded This Low Since July 2025. I Think It's a Buy.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-hasnt-traded-low-010302052.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-26T01:03:02Z"
+        },
+        {
           "title": "5 Best Strong Buy Growth Stocks to Buy for 2027",
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-strong-buy-growth-004610627.html",
           "publisher": "Insider Monkey",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-rout-deepens-damage-222733772.html",
           "publisher": "Reuters",
           "published": "2026-11-25T22:27:33Z"
-        },
-        {
-          "title": "Analysts Expect More From Marvell Than Marvell Does",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-expect-more-marvell-marvell-222447686.html",
-          "publisher": "Trefis",
-          "published": "2026-11-25T22:24:47Z"
         }
       ]
     },
@@ -418,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 5.73,
-          "price": 1089000.0,
+          "change_pct": 5.53,
+          "price": 1087000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 2.75,
-          "price": 175400.0,
+          "change_pct": 2.52,
+          "price": 175000.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 13.46,
-          "price": 7823.0,
+          "change_pct": 13.05,
+          "price": 7795.0,
           "currency": "JPY"
         },
         {
@@ -472,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": -9.87,
-          "price": 278.5,
+          "change_pct": 4.13,
+          "price": 290.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": -10.0,
-          "price": 94.5,
+          "change_pct": 4.13,
+          "price": 98.4,
           "currency": "TWD"
         }
       ]
@@ -508,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 5.73,
-        "price": 1089000.0,
+        "change_pct": 5.53,
+        "price": 1087000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 2.75,
-        "price": 175400.0,
+        "change_pct": 2.52,
+        "price": 175000.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 13.46,
-        "price": 7823.0,
+        "change_pct": 13.05,
+        "price": 7795.0,
         "currency": "JPY"
       },
       {
@@ -562,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": -9.87,
-        "price": 278.5,
+        "change_pct": 4.13,
+        "price": 290.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": -10.0,
-        "price": 94.5,
+        "change_pct": 4.13,
+        "price": 98.4,
         "currency": "TWD"
       }
     ]
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 60556.64,
-      "change_pct": 1.35
+      "price": 60730.06,
+      "change_pct": 1.64
     },
     {
       "label": "Gold",
-      "price": 3585.2,
-      "change_pct": 0.65
+      "price": 3609.0,
+      "change_pct": 1.32
     },
     {
       "label": "Nasdaq100",

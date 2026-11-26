@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-25T23:45:44+00:00",
+  "as_of": "2026-11-26T00:00:44+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "AMBA",
    "company": "Ambarella Inc",
-   "move_pct": -19.99,
-   "price": 35.58,
+   "move_pct": -19.72,
+   "price": 35.7,
    "volume": 14743492,
    "volume_vs_avg": "~9x",
    "heat_score": 99,
@@ -27,16 +27,16 @@
    "rank": 2,
    "ticker": "DELL",
    "company": "Dell Technologies Inc",
-   "move_pct": 0.78,
-   "price": 297.59,
+   "move_pct": 0.55,
+   "price": 296.9,
    "volume": 26453565,
    "volume_vs_avg": "~3x",
-   "heat_score": 33,
+   "heat_score": 32,
    "direction": "up",
-   "why": "Stocks to Watch Recap: Nvidia, Anthropic, Dell",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/m/13aabc9d-e14c-34de-8592-60219b73b001/stocks-to-watch-recap%3A.html",
-   "published": "2026-11-25T21:47:17+00:00",
+   "why": "Dell Technologies (DELL) Q3 Earnings Showcase AI Strength Without Stock Heat",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-q3-earnings-231732006.html",
+   "published": "2026-11-25T23:17:32+00:00",
    "sector": "Chip Equipment & AI Hardware"
   }
  ]

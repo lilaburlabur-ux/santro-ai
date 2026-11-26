@@ -39,7 +39,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | NXP (NXPI) Down 3.5% Since Last Earnings Report: Can It Rebound? | Zacks | 2026-11-26 |
 | Analog Devices Just Plunged After Earnings. Is Its Dividend Now a Bargain? | 24/7 Wall St. | 2026-11-25 |
 | Prediction: Qualcomm Becomes the Top Auto Chipmaker in 2027, “a Story the Market Has Quietly Ignored,” per SemiAnalysis | TIKR | 2026-11-25 |
-| What Is The True Hidden Price Of Texas Instruments Stock? | Trefis | 2026-11-24 |
+| Why Is NXP (NXPI) Stock Down Today? Chip Sector Selloff Drags Shares | GuruFocus.com | 2026-11-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

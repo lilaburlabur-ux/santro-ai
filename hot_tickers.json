@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-26T17:33:51+00:00",
+  "as_of": "2026-11-26T17:49:06+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -25,6 +25,22 @@
   },
   {
    "rank": 2,
+   "ticker": "PINS",
+   "company": "Pinterest Inc",
+   "move_pct": 6.54,
+   "price": 19.71,
+   "volume": 21083200,
+   "volume_vs_avg": "~2x",
+   "heat_score": 46,
+   "direction": "up",
+   "why": "What Does Pinterest (PINS) Pay Overhaul Mean For Its Takeover Talk And Ad Push?",
+   "catalyst_type": "mna",
+   "source_url": "https://finance.yahoo.com/media-advertising/articles/does-pinterest-pins-pay-overhaul-171447901.html",
+   "published": "2026-11-26T17:14:47+00:00",
+   "sector": "AI Platforms, Internet & AdTech"
+  },
+  {
+   "rank": 3,
    "ticker": "ORCL",
    "company": "Oracle Corp",
    "move_pct": -5.13,
@@ -33,14 +49,14 @@
    "volume_vs_avg": "~1.0x",
    "heat_score": 38,
    "direction": "down",
-   "why": "Oracle Stock Dipped Under $100 as Banks Try to Unload Its Data-Center Loans",
-   "catalyst_type": "financing",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-dipped-under-100-162722293.html",
-   "published": "2026-11-26T16:27:22+00:00",
+   "why": "Oracle Stocks Sink 5.13% to 52-Week Low as Default Swaps Hit Record",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stocks-sink-5-13-171842760.html",
+   "published": "2026-11-26T17:18:42+00:00",
    "sector": "AI Software & Cloud Infrastructure"
   },
   {
-   "rank": 3,
+   "rank": 4,
    "ticker": "DELL",
    "company": "Dell Technologies Inc",
    "move_pct": 0.6,

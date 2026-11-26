@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-26T02:54:40+00:00",
-  "as_of_local": "2026-11-26 02:54:40 UTC",
+  "as_of_utc": "2026-11-26T03:01:47+00:00",
+  "as_of_local": "2026-11-26 03:01:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXPI"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -257,34 +259,6 @@
       ]
     },
     {
-      "symbol": "NXPI",
-      "name": "NXP Semiconductors",
-      "price": 242.96,
-      "previous_close": 239.4,
-      "change_pct": 1.49,
-      "market_cap": 61238795656.730286,
-      "headlines": [
-        {
-          "title": "Analog Devices Just Plunged After Earnings. Is Its Dividend Now a Bargain?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-just-plunged-earnings-184751144.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-25T18:47:51Z"
-        },
-        {
-          "title": "Prediction: Qualcomm Becomes the Top Auto Chipmaker in 2027, \u201ca Story the Market Has Quietly Ignored,\u201d per SemiAnalysis",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-qualcomm-becomes-top-auto-140557559.html",
-          "publisher": "TIKR",
-          "published": "2026-11-25T14:05:57Z"
-        },
-        {
-          "title": "What Is The True Hidden Price Of Texas Instruments Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/true-hidden-price-texas-instruments-210353713.html",
-          "publisher": "Trefis",
-          "published": "2026-11-24T21:03:53Z"
-        }
-      ]
-    },
-    {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
       "price": 98.23,
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 4.17,
-          "price": 1073000.0,
+          "change_pct": 3.88,
+          "price": 1070000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 1.58,
-          "price": 173400.0,
+          "change_pct": 1.35,
+          "price": 173000.0,
           "currency": "KRW"
         },
         {
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 8.08,
-          "price": 301.0,
+          "change_pct": 8.44,
+          "price": 302.0,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 7.41,
-          "price": 101.5,
+          "change_pct": 7.94,
+          "price": 102.0,
           "currency": "TWD"
         }
       ]
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 4.17,
-        "price": 1073000.0,
+        "change_pct": 3.88,
+        "price": 1070000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 1.58,
-        "price": 173400.0,
+        "change_pct": 1.35,
+        "price": 173000.0,
         "currency": "KRW"
       },
       {
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 8.08,
-        "price": 301.0,
+        "change_pct": 8.44,
+        "price": 302.0,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 7.41,
-        "price": 101.5,
+        "change_pct": 7.94,
+        "price": 102.0,
         "currency": "TWD"
       }
     ]
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60681.74,
-      "change_pct": 1.56
+      "price": 60664.84,
+      "change_pct": 1.53
     },
     {
       "label": "Gold",
-      "price": 3631.6,
-      "change_pct": 1.96
+      "price": 3619.0,
+      "change_pct": 1.6
     },
     {
       "label": "Nasdaq100",

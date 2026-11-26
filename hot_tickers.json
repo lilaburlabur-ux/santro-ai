@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-26T19:15:30+00:00",
+  "as_of": "2026-11-26T19:30:40+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -81,10 +81,10 @@
    "volume_vs_avg": "~3x",
    "heat_score": 32,
    "direction": "up",
-   "why": "Dell Is No Longer the Company You Originally Bought. Is That a Reason to Buy More Stock in 2027?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/dell-no-longer-company-originally-170403666.html",
-   "published": "2026-11-26T17:04:03+00:00",
+   "why": "BofA resets Dell stock price target by $100 after record earnings",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/bofa-resets-dell-stock-price-190300430.html",
+   "published": "2026-11-26T19:03:00+00:00",
    "sector": "Chip Equipment & AI Hardware"
   }
  ]

@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-26T22:58:33+00:00",
+  "as_of": "2026-11-26T23:13:40+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -21,22 +21,6 @@
    "catalyst_type": "no_news_mover",
    "source_url": "",
    "published": "",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 2,
-   "ticker": "DELL",
-   "company": "Dell Technologies Inc",
-   "move_pct": 2.61,
-   "price": 302.98,
-   "volume": 26690500,
-   "volume_vs_avg": "~3x",
-   "heat_score": 39,
-   "direction": "up",
-   "why": "BofA resets Dell stock price target by $100 after record earnings",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/bofa-resets-dell-stock-price-190300430.html",
-   "published": "2026-11-26T19:03:00+00:00",
    "sector": "Chip Equipment & AI Hardware"
   }
  ]

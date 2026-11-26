@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-26T14:20:13+00:00",
-  "as_of_local": "2026-11-26 14:20:13 UTC",
+  "as_of_utc": "2026-11-26T14:25:21+00:00",
+  "as_of_local": "2026-11-26 14:25:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -143,6 +141,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/does-ps-credit-warning-matter-120323993.html",
           "publisher": "Trefis",
           "published": "2026-11-26T12:03:23Z"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 54.47,
+      "previous_close": 54.8,
+      "change_pct": -0.6,
+      "market_cap": 289508056488.0371,
+      "headlines": [
+        {
+          "title": "Here\u2019s Why $35 Is The Price to Buy Intel, and No Higher",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-35-price-buy-intel-121526705.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-26T12:15:26Z"
+        },
+        {
+          "title": "What iShares PHLX SOX Semi (SOXX) Sold: AMD Leads on Nov. 24",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semi-soxx-110411069.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-26T11:04:11Z"
+        },
+        {
+          "title": "Bad News for Intel: Dell Says Companies Are \u201cDeferring Their PC Purchases\u201d for AI Servers",
+          "url": "https://finance.yahoo.com/technology/articles/bad-news-intel-dell-says-085021150.html",
+          "publisher": "TIKR",
+          "published": "2026-11-26T08:50:21Z"
         }
       ]
     },
@@ -375,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": 34.83,
-      "change_pct": -3.03,
+      "price": null,
+      "change_pct": 0.0,
       "holdings": [
         {
           "symbol": "MU",
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 0.35,
+          "price": 171300.0,
           "currency": "KRW"
         },
         {
@@ -465,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": 34.83,
-    "change_pct": -3.03,
+    "price": null,
+    "change_pct": 0.0,
     "holdings": [
       {
         "symbol": "MU",
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 0.35,
+        "price": 171300.0,
         "currency": "KRW"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 60732.53,
-      "change_pct": 0.59
+      "price": 60725.0,
+      "change_pct": 0.57
     },
     {
       "label": "Gold",
-      "price": 3600.8,
-      "change_pct": 1.84
+      "price": 3601.7,
+      "change_pct": 1.86
     },
     {
       "label": "Nasdaq100",

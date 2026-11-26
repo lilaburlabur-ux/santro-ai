@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-26T06:21:39+00:00",
+  "as_of": "2026-11-26T08:04:54+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -21,22 +21,6 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/ambarella-3-key-takeaways-long-043628006.html",
    "published": "2026-11-26T04:36:28+00:00",
-   "sector": "Chip Equipment & AI Hardware"
-  },
-  {
-   "rank": 2,
-   "ticker": "DELL",
-   "company": "Dell Technologies Inc",
-   "move_pct": 0.6,
-   "price": 297.06,
-   "volume": 26489800,
-   "volume_vs_avg": "~3x",
-   "heat_score": 32,
-   "direction": "up",
-   "why": "Is Nvidia Stock a Buy After Dell's Record AI Backlog?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-buy-dells-record-030702853.html",
-   "published": "2026-11-26T03:07:02+00:00",
    "sector": "Chip Equipment & AI Hardware"
   }
  ]

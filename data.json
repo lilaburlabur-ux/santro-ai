@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-11-26T22:22:35+00:00",
-  "as_of_local": "2026-11-26 22:22:35 UTC",
+  "as_of_utc": "2026-11-26T22:27:33+00:00",
+  "as_of_local": "2026-11-26 22:27:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 149.3,
-      "previous_close": 155.38,
-      "change_pct": -3.91,
-      "market_cap": 3605147173690.796,
-      "headlines": [
-        {
-          "title": "Will Jensen Huang's second act as Nvidia CEO be different?",
-          "url": "https://finance.yahoo.com/video/jensen-huangs-second-act-nvidia-140000599.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-26T14:00:00Z"
-        },
-        {
-          "title": "Jensen Huang 'absolutely could be fired again,' legal expert says",
-          "url": "https://finance.yahoo.com/video/jensen-huang-absolutely-could-fired-130000374.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-26T13:00:00Z"
-        },
-        {
-          "title": "5 things I'm thankful for in AI",
-          "url": "https://finance.yahoo.com/video/5-things-im-thankful-ai-120000522.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-26T12:00:00Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 60506.23,
-      "change_pct": 0.21
+      "price": 60528.93,
+      "change_pct": 0.25
     },
     {
       "label": "Gold",

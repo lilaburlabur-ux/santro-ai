@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-26T17:18:32+00:00",
-  "as_of_local": "2026-11-26 17:18:32 UTC",
+  "as_of_utc": "2026-11-26T17:23:25+00:00",
+  "as_of_local": "2026-11-26 17:23:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -102,7 +100,7 @@
           "title": "Dow Jones Futures Rise With U.S. Markets Shut; Look For This Bullish Signal",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-26T17:00:51Z"
+          "published": "2026-11-26T17:17:34Z"
         },
         {
           "title": "This AI Investing Prodigy Lost 65% in a Single Quarter and Is Still Up 88.5% in 2026. Here\u2019s the Lesson for Investors.",
@@ -127,6 +125,12 @@
       "market_cap": 672006272584.8463,
       "headlines": [
         {
+          "title": "Cerebras Expands AI Inference Reach: Can It Challenge NVDA & AMD?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-expands-ai-inference-reach-161400247.html",
+          "publisher": "Zacks",
+          "published": "2026-11-26T16:14:00Z"
+        },
+        {
           "title": "NVIDIA Just Dropped 31% in a Month. Will NVDA Stock Hit $125 or $200 First?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-dropped-31-month-160622729.html",
           "publisher": "24/7 Wall St.",
@@ -137,12 +141,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/p-nvidia-warning-backward-looking-154538937.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-26T15:45:38Z"
-        },
-        {
-          "title": "CoreWeave\u2019s Default Odds Hit a Record. Core Scientific Has a Big Problem",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-default-odds-hit-record-153526048.html",
-          "publisher": "TIKR",
-          "published": "2026-11-26T15:35:26Z"
         }
       ]
     },
@@ -199,6 +197,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-brad-gerstner-altimeter-opened-202201972.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-25T20:22:01Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 161.51,
+      "previous_close": 161.56,
+      "change_pct": -0.03,
+      "market_cap": 172815694122.31445,
+      "headlines": [
+        {
+          "title": "Did Arm CEO Rene Haas Dodge a Bullet With Jensen Huang\u2019s Reinstatement at Nvidia?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/did-arm-ceo-rene-haas-164941547.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-26T16:49:41Z"
+        },
+        {
+          "title": "Arm Drops 20% in a Week as AI Chips Slide. CEO Rene Haas Has \u201cNever Been More Confident\u201d",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-drops-20-week-ai-093108598.html",
+          "publisher": "TIKR",
+          "published": "2026-11-26T09:31:08Z"
+        },
+        {
+          "title": "Nvidia Sinks 9% as Huang Rally Fades: Stephanie Link Sees \u201cA Cloud Over It\u201d",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-sinks-9-huang-rally-172416717.html",
+          "publisher": "TIKR",
+          "published": "2026-11-25T17:24:16Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 60491.83,
-      "change_pct": 0.19
+      "price": 60432.84,
+      "change_pct": 0.09
     },
     {
       "label": "Gold",
-      "price": 3599.2,
-      "change_pct": 1.79
+      "price": 3597.8,
+      "change_pct": 1.75
     },
     {
       "label": "Nasdaq100",

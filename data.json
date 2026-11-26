@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-26T03:01:47+00:00",
-  "as_of_local": "2026-11-26 03:01:47 UTC",
+  "as_of_utc": "2026-11-26T03:16:51+00:00",
+  "as_of_local": "2026-11-26 03:16:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NXPI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -43,6 +41,12 @@
       "market_cap": 1775537145772.5286,
       "headlines": [
         {
+          "title": "Asian tech stocks jump as bargain buyers boost battered AI trade",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asian-tech-stocks-jump-bargain-030316035.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-26T03:03:16Z"
+        },
+        {
           "title": "5 Best Strong Buy Growth Stocks to Buy for 2027",
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-strong-buy-growth-004610627.html",
           "publisher": "Insider Monkey",
@@ -53,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/altimeter-brad-gerstner-says-nvidia-233902558.html",
           "publisher": "TIKR",
           "published": "2026-11-25T23:39:02Z"
-        },
-        {
-          "title": "Trump heads to Arizona next week for a high-stakes expansion of TSMC's computer chip factories",
-          "url": "https://finance.yahoo.com/technology/articles/trump-heads-arizona-next-week-225636899.html",
-          "publisher": "Associated Press",
-          "published": "2026-11-25T22:56:36Z"
         }
       ]
     },
@@ -259,6 +257,34 @@
       ]
     },
     {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors",
+      "price": 242.96,
+      "previous_close": 239.4,
+      "change_pct": 1.49,
+      "market_cap": 61238795656.730286,
+      "headlines": [
+        {
+          "title": "Analog Devices Just Plunged After Earnings. Is Its Dividend Now a Bargain?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-just-plunged-earnings-184751144.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-25T18:47:51Z"
+        },
+        {
+          "title": "Prediction: Qualcomm Becomes the Top Auto Chipmaker in 2027, \u201ca Story the Market Has Quietly Ignored,\u201d per SemiAnalysis",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-qualcomm-becomes-top-auto-140557559.html",
+          "publisher": "TIKR",
+          "published": "2026-11-25T14:05:57Z"
+        },
+        {
+          "title": "What Is The True Hidden Price Of Texas Instruments Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/true-hidden-price-texas-instruments-210353713.html",
+          "publisher": "Trefis",
+          "published": "2026-11-24T21:03:53Z"
+        }
+      ]
+    },
+    {
       "symbol": "LSCC",
       "name": "Lattice Semiconductor",
       "price": 98.23,
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 3.88,
-          "price": 1070000.0,
+          "change_pct": 2.52,
+          "price": 1056000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 1.35,
-          "price": 173000.0,
+          "change_pct": 0.82,
+          "price": 172100.0,
           "currency": "KRW"
         },
         {
@@ -446,8 +472,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 8.44,
-          "price": 302.0,
+          "change_pct": 6.82,
+          "price": 297.5,
           "currency": "TWD"
         },
         {
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 7.94,
-          "price": 102.0,
+          "change_pct": 6.88,
+          "price": 101.0,
           "currency": "TWD"
         }
       ]
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 3.88,
-        "price": 1070000.0,
+        "change_pct": 2.52,
+        "price": 1056000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 1.35,
-        "price": 173000.0,
+        "change_pct": 0.82,
+        "price": 172100.0,
         "currency": "KRW"
       },
       {
@@ -536,8 +562,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 8.44,
-        "price": 302.0,
+        "change_pct": 6.82,
+        "price": 297.5,
         "currency": "TWD"
       },
       {
@@ -545,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 7.94,
-        "price": 102.0,
+        "change_pct": 6.88,
+        "price": 101.0,
         "currency": "TWD"
       }
     ]
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 60664.84,
-      "change_pct": 1.53
+      "price": 60694.5,
+      "change_pct": 1.58
     },
     {
       "label": "Gold",
-      "price": 3619.0,
-      "change_pct": 1.6
+      "price": 3610.5,
+      "change_pct": 1.36
     },
     {
       "label": "Nasdaq100",

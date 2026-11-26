@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-26T20:46:41+00:00",
-  "as_of_local": "2026-11-26 20:46:41 UTC",
+  "as_of_utc": "2026-11-26T20:51:43+00:00",
+  "as_of_local": "2026-11-26 20:51:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -313,34 +315,6 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 91.37,
-      "previous_close": 89.4,
-      "change_pct": 2.2,
-      "market_cap": 4643487681.323227,
-      "headlines": [
-        {
-          "title": "Can Draganfly's AI Partnership Boost Its Unmanned Systems Business?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/draganflys-ai-partnership-boost-unmanned-110500226.html",
-          "publisher": "Zacks",
-          "published": "2026-11-26T11:05:00Z"
-        },
-        {
-          "title": "Axon Is Down 47% From Its High. TD Cowen Still Sees $650",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/axon-down-47-high-td-020154496.html",
-          "publisher": "TIKR",
-          "published": "2026-11-26T02:01:54Z"
-        },
-        {
-          "title": "Can AeroVironment's Taiwan MOU Broaden Its Uncrewed Systems Reach?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironments-taiwan-mou-broaden-uncrewed-122200262.html",
-          "publisher": "Zacks",
-          "published": "2026-11-25T12:22:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 116.63,
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 60721.77,
-      "change_pct": 0.57
+      "price": 60707.99,
+      "change_pct": 0.55
     },
     {
       "label": "Gold",

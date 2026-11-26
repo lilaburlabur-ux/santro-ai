@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-26T15:56:55+00:00",
-  "as_of_local": "2026-11-26 15:56:55 UTC",
+  "as_of_utc": "2026-11-26T16:01:59+00:00",
+  "as_of_local": "2026-11-26 16:01:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/technology/articles/bad-news-intel-dell-says-085021150.html",
           "publisher": "TIKR",
           "published": "2026-11-26T08:50:21Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 168.66,
-      "previous_close": 164.96,
-      "change_pct": 2.24,
-      "market_cap": 180466203918.45703,
-      "headlines": [
-        {
-          "title": "Qualcomm vs. Sandisk: Which Technology Stock Is a Better Buy for 2027?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-vs-sandisk-technology-stock-212002575.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-25T21:20:02Z"
-        },
-        {
-          "title": "What Sent Qualcomm Stock Higher?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sent-qualcomm-stock-higher-202330968.html",
-          "publisher": "Trefis",
-          "published": "2026-11-25T20:23:30Z"
-        },
-        {
-          "title": "Billionaire Brad Gerstner\u2019s Altimeter Opened a $680 Million Tesla Stake and Exited Qualcomm and Applied Materials",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-brad-gerstner-altimeter-opened-202201972.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-25T20:22:01Z"
         }
       ]
     },
@@ -472,8 +446,8 @@
           "name": "Nanya Technology",
           "short": "Nanya",
           "weight_pct": 3.13,
-          "change_pct": 9.87,
-          "price": 306.0,
+          "change_pct": -9.87,
+          "price": 278.5,
           "currency": "TWD"
         },
         {
@@ -481,8 +455,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 9.52,
-          "price": 103.5,
+          "change_pct": -10.0,
+          "price": 94.5,
           "currency": "TWD"
         }
       ]
@@ -562,8 +536,8 @@
         "name": "Nanya Technology",
         "short": "Nanya",
         "weight_pct": 3.13,
-        "change_pct": 9.87,
-        "price": 306.0,
+        "change_pct": -9.87,
+        "price": 278.5,
         "currency": "TWD"
       },
       {
@@ -571,8 +545,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 9.52,
-        "price": 103.5,
+        "change_pct": -10.0,
+        "price": 94.5,
         "currency": "TWD"
       }
     ]
@@ -585,12 +559,12 @@
     },
     {
       "label": "BTC",
-      "price": 60540.07,
-      "change_pct": 0.27
+      "price": 60747.87,
+      "change_pct": 0.61
     },
     {
       "label": "Gold",
-      "price": 3598.2,
+      "price": 3597.9,
       "change_pct": 1.76
     },
     {

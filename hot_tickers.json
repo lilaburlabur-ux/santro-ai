@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-26T14:40:50+00:00",
+  "as_of": "2026-11-26T14:46:21+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -54,6 +54,22 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/oracle-down-47-2026-really-135019398.html",
    "published": "2026-11-26T13:50:19+00:00",
    "sector": "AI Software & Cloud Infrastructure"
+  },
+  {
+   "rank": 4,
+   "ticker": "DELL",
+   "company": "Dell Technologies Inc",
+   "move_pct": 0.6,
+   "price": 297.06,
+   "volume": 26489800,
+   "volume_vs_avg": "~3x",
+   "heat_score": 32,
+   "direction": "up",
+   "why": "Dell\u2019s $132B Backlog Turns 2027 Into a Pure Multiple-Expansion Trade Toward $500",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/dell-132b-backlog-turns-2027-134529723.html",
+   "published": "2026-11-26T13:45:29+00:00",
+   "sector": "Chip Equipment & AI Hardware"
   }
  ]
 }

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-26T17:02:56+00:00",
-  "as_of_local": "2026-11-26 17:02:56 UTC",
+  "as_of_utc": "2026-11-26T17:07:57+00:00",
+  "as_of_local": "2026-11-26 17:07:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -41,6 +43,12 @@
       "market_cap": 1775537145772.5286,
       "headlines": [
         {
+          "title": "This AI Investing Prodigy Lost 65% in a Single Quarter and Is Still Up 88.5% in 2026. Here\u2019s the Lesson for Investors.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-investing-prodigy-lost-65-165513452.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-26T16:55:13Z"
+        },
+        {
           "title": "NVIDIA Just Dropped 31% in a Month. Will NVDA Stock Hit $125 or $200 First?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-dropped-31-month-160622729.html",
           "publisher": "24/7 Wall St.",
@@ -51,12 +59,6 @@
           "url": "https://finance.yahoo.com/technology/articles/taiwan-semiconductor-manufacturing-tsm-may-111054914.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-26T11:10:54Z"
-        },
-        {
-          "title": "ETFs Are Net Sellers of Taiwan Semiconductor (TSM) on Nov. 24",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-taiwan-semiconductor-110318756.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-26T11:03:18Z"
         }
       ]
     },
@@ -97,6 +99,12 @@
       "market_cap": 682379255691.25,
       "headlines": [
         {
+          "title": "This AI Investing Prodigy Lost 65% in a Single Quarter and Is Still Up 88.5% in 2026. Here\u2019s the Lesson for Investors.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-investing-prodigy-lost-65-165513452.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-26T16:55:13Z"
+        },
+        {
           "title": "Dow Jones Futures Rise With U.S. Markets Shut; Look For This Bullish Signal",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -107,40 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-just-revealed-next-164425613.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-26T16:44:25Z"
-        },
-        {
-          "title": "Jim Cramer Says Micron Stock Is \u201cComically Cheap\u201d at About 3 Times Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-micron-stock-135339387.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-26T13:53:39Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 406.03,
-      "previous_close": 413.27,
-      "change_pct": -1.75,
-      "market_cap": 672006272584.8463,
-      "headlines": [
-        {
-          "title": "NVIDIA Just Dropped 31% in a Month. Will NVDA Stock Hit $125 or $200 First?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-dropped-31-month-160622729.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-26T16:06:22Z"
-        },
-        {
-          "title": "S&P\u2019s NVIDIA Warning is Backward Looking Governance Theater That Gives Everyone an Opportunity to Buy at $150",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-nvidia-warning-backward-looking-154538937.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-26T15:45:38Z"
-        },
-        {
-          "title": "CoreWeave\u2019s Default Odds Hit a Record. Core Scientific Has a Big Problem",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-default-odds-hit-record-153526048.html",
-          "publisher": "TIKR",
-          "published": "2026-11-26T15:35:26Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60565.63,
-      "change_pct": 0.31
+      "price": 60535.06,
+      "change_pct": 0.26
     },
     {
       "label": "Gold",
-      "price": 3598.1,
-      "change_pct": 1.76
+      "price": 3598.3,
+      "change_pct": 1.77
     },
     {
       "label": "Nasdaq100",

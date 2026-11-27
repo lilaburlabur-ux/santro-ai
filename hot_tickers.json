@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-27T23:09:17+00:00",
+  "as_of": "2026-11-27T23:24:08+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,22 +9,6 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "BBAI",
-   "company": "BigBear.ai Holdings Inc",
-   "move_pct": 8.08,
-   "price": 1.72,
-   "volume": 12552209,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 56,
-   "direction": "up",
-   "why": "BigBear.ai vs. Cerebras Systems: Which Artificial Intelligence Stock Is a Better Buy for 2027?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/bigbear-ai-vs-cerebras-systems-191104723.html",
-   "published": "2026-11-27T19:11:04+00:00",
-   "sector": "Applied AI: Industrial, Defense & Vertical"
-  },
-  {
-   "rank": 2,
    "ticker": "MU",
    "company": "Micron Technology Inc",
    "move_pct": 7.39,
@@ -40,23 +24,7 @@
    "sector": "AI Chips & Compute"
   },
   {
-   "rank": 3,
-   "ticker": "MRVL",
-   "company": "Marvell Technology Inc",
-   "move_pct": 6.87,
-   "price": 139.92,
-   "volume": 18352707,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 42,
-   "direction": "up",
-   "why": "Marvell Technology (MRVL) Could Be 58% Undervalued Following Its Penguin Solutions Tie Up",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-mrvl-could-58-190952326.html",
-   "published": "2026-11-27T19:09:52+00:00",
-   "sector": "AI Chips & Compute"
-  },
-  {
-   "rank": 4,
+   "rank": 2,
    "ticker": "DELL",
    "company": "Dell Technologies Inc",
    "move_pct": 5.82,
@@ -72,7 +40,7 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 5,
+   "rank": 3,
    "ticker": "PLTR",
    "company": "Palantir Technologies Inc",
    "move_pct": 5.14,

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-27T20:42:15+00:00",
-  "as_of_local": "2026-11-27 20:42:15 UTC",
+  "as_of_utc": "2026-11-27T20:47:23+00:00",
+  "as_of_local": "2026-11-27 20:47:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/not-amd-1-company-nvidia-173502133.html",
           "publisher": "Motley Fool",
           "published": "2026-11-27T17:35:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 57.4,
-      "previous_close": 54.47,
-      "change_pct": 5.38,
-      "market_cap": 305081008110.0464,
-      "headlines": [
-        {
-          "title": "Intel Stocks Climb 2.86% as Court Filings Detail Washington's 10% Stake Push",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-climb-2-86-192124489.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-27T19:21:24Z"
-        },
-        {
-          "title": "I Tested More Than 100 Trading Strategies With AI. Most Of Them Failed, And The Reasons Why Were More Interesting Than The Winners",
-          "url": "https://finance.yahoo.com/markets/options/articles/tested-more-100-trading-strategies-171507159.html",
-          "publisher": "Benzinga",
-          "published": "2026-11-27T17:15:07Z"
-        },
-        {
-          "title": "Skyworks (SWKS) Stock Is Up 6.5% Today Along With Chip Rally",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/skyworks-swks-stock-6-5-164537166.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-27T16:45:37Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 59659.36,
-      "change_pct": -1.38
+      "price": 59775.44,
+      "change_pct": -1.19
     },
     {
       "label": "Gold",

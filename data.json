@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-27T00:14:01+00:00",
-  "as_of_local": "2026-11-27 00:14:01 UTC",
+  "as_of_utc": "2026-11-27T00:19:10+00:00",
+  "as_of_local": "2026-11-27 00:19:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "AVGO"
+    "AVAV"
   ],
   "stocks": [
     {
@@ -59,6 +59,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ai-investing-prodigy-lost-65-165513452.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-26T16:55:13Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 300.86,
+      "previous_close": 301.08,
+      "change_pct": -0.07,
+      "market_cap": 1436194211257.6812,
+      "headlines": [
+        {
+          "title": "5 Most Oversold Semiconductor Stocks to Buy for 2027",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-oversold-semiconductor-stocks-194738573.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-26T19:47:38Z"
+        },
+        {
+          "title": "Goldman Sachs resets Broadcom's 12-month price target before earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-resets-broadcoms-12-193315984.html",
+          "publisher": "TheStreet",
+          "published": "2026-11-26T19:33:15Z"
+        },
+        {
+          "title": "Broadcom Stocks Edge Lower After Rebounding From an Intraday Low of $278",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-edge-lower-rebounding-183041028.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-26T18:30:41Z"
         }
       ]
     },
@@ -287,34 +315,6 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 91.37,
-      "previous_close": 89.4,
-      "change_pct": 2.2,
-      "market_cap": 4643487681.323227,
-      "headlines": [
-        {
-          "title": "Can Draganfly's AI Partnership Boost Its Unmanned Systems Business?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/draganflys-ai-partnership-boost-unmanned-110500226.html",
-          "publisher": "Zacks",
-          "published": "2026-11-26T11:05:00Z"
-        },
-        {
-          "title": "Axon Is Down 47% From Its High. TD Cowen Still Sees $650",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/axon-down-47-high-td-020154496.html",
-          "publisher": "TIKR",
-          "published": "2026-11-26T02:01:54Z"
-        },
-        {
-          "title": "Can AeroVironment's Taiwan MOU Broaden Its Uncrewed Systems Reach?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironments-taiwan-mou-broaden-uncrewed-122200262.html",
-          "publisher": "Zacks",
-          "published": "2026-11-25T12:22:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 116.63,
@@ -410,7 +410,7 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 12.57,
+          "change_pct": 0.0,
           "price": 7762.0,
           "currency": "JPY"
         },
@@ -500,7 +500,7 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 12.57,
+        "change_pct": 0.0,
         "price": 7762.0,
         "currency": "JPY"
       },
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60488.43,
-      "change_pct": 0.18
+      "price": 60500.41,
+      "change_pct": 0.2
     },
     {
       "label": "Gold",
-      "price": 3599.0,
-      "change_pct": 1.79
+      "price": 3597.3,
+      "change_pct": 1.74
     },
     {
       "label": "Nasdaq100",

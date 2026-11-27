@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-27T10:35:18+00:00",
-  "as_of_local": "2026-11-27 10:35:18 UTC",
+  "as_of_utc": "2026-11-27T10:40:23+00:00",
+  "as_of_local": "2026-11-27 10:40:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,50 +15,22 @@
       "market_cap": 3605147173690.796,
       "headlines": [
         {
+          "title": "Warren Buffett's Successor, Greg Abel, Has 47% of Berkshire Hathaway's $346 Billion Portfolio Invested in 3 Proven Winners",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-successor-greg-abel-102602983.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-27T10:26:02Z"
+        },
+        {
+          "title": "SpaceX's AI Business Is Now Nearly Half of Revenue. Here's What Happens to the Stock if Google and Anthropic Both Renew.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/spacexs-ai-business-now-nearly-102600624.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-27T10:26:00Z"
+        },
+        {
           "title": "Market Chatter: Nvidia Stops Southeast Asia Chip Sales Following Proposed US Restrictions",
           "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-stops-southeast-102254508.html",
           "publisher": "MT Newswires",
           "published": "2026-11-27T10:22:54Z"
-        },
-        {
-          "title": "Nvidia Forecast $130 Billion in Revenue and Added $150 Billion to Its Buyback. Should You Buy the Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-forecast-130-billion-revenue-102002373.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-27T10:20:02Z"
-        },
-        {
-          "title": "1 No-Brainer Stock to Buy and Hold for 10 Years",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-no-brainer-stock-buy-101302719.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-27T10:13:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 342.34,
-      "previous_close": 349.2,
-      "change_pct": -1.96,
-      "market_cap": 1775537145772.5286,
-      "headlines": [
-        {
-          "title": "TSMC (TSM) Is Building a Semiconductor Moat That Rivals May Struggle to Cross",
-          "url": "https://finance.yahoo.com/technology/articles/tsmc-tsm-building-semiconductor-moat-031114980.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-27T03:11:14Z"
-        },
-        {
-          "title": "Taiwan Semiconductor Stocks Slip 1.96% as Taiwan's Market Sinks 4.8% in Chip Rout",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-stocks-slip-1-190319001.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-26T19:03:19Z"
-        },
-        {
-          "title": "3 Top Stocks to Buy Before 2027 as Quantum Enters AI Data Centers",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-stocks-buy-2027-190000024.html",
-          "publisher": "Zacks",
-          "published": "2026-11-26T19:00:00Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61549.15,
-      "change_pct": 1.74
+      "price": 61563.24,
+      "change_pct": 1.77
     },
     {
       "label": "Gold",
-      "price": 3701.4,
-      "change_pct": 4.68
+      "price": 3699.7,
+      "change_pct": 4.64
     },
     {
       "label": "Nasdaq100",

@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-27T12:52:38+00:00",
-  "as_of_local": "2026-11-27 12:52:38 UTC",
+  "as_of_utc": "2026-11-27T12:57:43+00:00",
+  "as_of_local": "2026-11-27 12:57:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "AVGO"
+    "QCOM"
   ],
   "stocks": [
     {
@@ -27,10 +27,10 @@
           "published": "2026-11-27T12:00:00Z"
         },
         {
-          "title": "Nvidia Blackwell chips found in Shanghai data center tied to Alice Huang",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-blackwell-chips-found-shanghai-124008621.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-27T12:40:08Z"
+          "title": "Stock market today: Dow, S&P 500, Nasdaq futures gain as AI jitters steady",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-27T09:11:52Z"
         }
       ]
     },
@@ -63,6 +63,34 @@
       ]
     },
     {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 300.86,
+      "previous_close": 301.08,
+      "change_pct": -0.07,
+      "market_cap": 1436194211257.6812,
+      "headlines": [
+        {
+          "title": "The Next Phase of AI Spending Could Put This Overlooked Stock in the Spotlight",
+          "url": "https://finance.yahoo.com/technology/ai/articles/next-phase-ai-spending-could-121749994.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-27T12:17:49Z"
+        },
+        {
+          "title": "Broadcom\u2019s 2027 Bull Case: AI Revenue Doubles to $115B and $230B\u2014Here\u2019s What Finally Unlocks the Stock",
+          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-2027-bull-case-ai-121525054.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-27T12:15:25Z"
+        },
+        {
+          "title": "Broadcom Makes More AI Money Than AMD\u2014So Why Is AMD\u2019s Stock Crushing It?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-makes-more-ai-money-121506060.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-27T12:15:06Z"
+        }
+      ]
+    },
+    {
       "symbol": "MU",
       "name": "Micron Technology",
       "price": 601.25,
@@ -77,16 +105,16 @@
           "published": "2026-11-27T12:00:00Z"
         },
         {
-          "title": "Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-27T12:37:52Z"
-        },
-        {
           "title": "Stock market today: Dow, S&P 500, Nasdaq futures gain as AI jitters steady",
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-27T09:11:52Z"
+        },
+        {
+          "title": "Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-27T12:49:03Z"
         }
       ]
     },
@@ -143,34 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-rallying-today-115408294.html",
           "publisher": "InvestorsHub",
           "published": "2026-11-27T11:54:08Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 168.66,
-      "previous_close": 164.96,
-      "change_pct": 2.24,
-      "market_cap": 180466203918.45703,
-      "headlines": [
-        {
-          "title": "Why Is Qualcomm Stock Rallying Today?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-stock-rallying-today-115039964.html",
-          "publisher": "InvestorsHub",
-          "published": "2026-11-27T11:50:39Z"
-        },
-        {
-          "title": "SoftBank\u2019s \u201cWorst Sell-Off\u201d Since \u201908 Is Bad News for Arm. Here\u2019s the Number That Matters",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-worst-sell-off-since-030855445.html",
-          "publisher": "TIKR",
-          "published": "2026-11-27T03:08:55Z"
-        },
-        {
-          "title": "What Is Qualcomm (QCOM) Worth Watching In Automotive AI Right Now?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-worth-watching-automotive-171007378.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-26T17:10:07Z"
         }
       ]
     },
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61390.58,
-      "change_pct": 1.48
+      "price": 61468.61,
+      "change_pct": 1.61
     },
     {
       "label": "Gold",
-      "price": 3697.5,
-      "change_pct": 4.57
+      "price": 3695.7,
+      "change_pct": 4.52
     },
     {
       "label": "Nasdaq100",

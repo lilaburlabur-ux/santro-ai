@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-27T13:45:35+00:00",
-  "as_of_local": "2026-11-27 13:45:35 UTC",
+  "as_of_utc": "2026-11-27T13:50:44+00:00",
+  "as_of_local": "2026-11-27 13:50:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -197,34 +199,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-stock-rallying-today-115039964.html",
           "publisher": "InvestorsHub",
           "published": "2026-11-27T11:50:39Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "name": "Arm Holdings",
-      "price": 161.51,
-      "previous_close": 161.56,
-      "change_pct": -0.03,
-      "market_cap": 172815694122.31445,
-      "headlines": [
-        {
-          "title": "SoftBank\u2019s \u201cWorst Sell-Off\u201d Since \u201908 Is Bad News for Arm. Here\u2019s the Number That Matters",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-worst-sell-off-since-030855445.html",
-          "publisher": "TIKR",
-          "published": "2026-11-27T03:08:55Z"
-        },
-        {
-          "title": "3 AI Infrastructure Stocks Retail Investors Are Watching As Compute Spending Shifts",
-          "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-retail-201110278.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-26T20:11:10Z"
-        },
-        {
-          "title": "Is Astera Labs, Inc. (ALAB) One of the Best Oversold AI Semiconductor Stocks to Buy?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/astera-labs-inc-alab-one-194946194.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-26T19:49:46Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61360.98,
-      "change_pct": 1.43
+      "price": 61455.37,
+      "change_pct": 1.59
     },
     {
       "label": "Gold",
-      "price": 3671.7,
-      "change_pct": 3.84
+      "price": 3672.5,
+      "change_pct": 3.87
     },
     {
       "label": "Nasdaq100",

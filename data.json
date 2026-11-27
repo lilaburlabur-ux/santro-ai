@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-27T21:48:19+00:00",
-  "as_of_local": "2026-11-27 21:48:19 UTC",
+  "as_of_utc": "2026-11-27T21:53:26+00:00",
+  "as_of_local": "2026-11-27 21:53:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -199,6 +197,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-6-9-171518673.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-27T17:15:18Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 171.55,
+      "previous_close": 161.51,
+      "change_pct": 6.22,
+      "market_cap": 183558503265.38086,
+      "headlines": [
+        {
+          "title": "Jim Cramer Likes Arm Holdings With One Supply Caveat",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-likes-arm-holdings-184936769.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-27T18:49:36Z"
+        },
+        {
+          "title": "Arm Holdings Stocks Climb 3.12% as CEO Haas Commits Through 2033",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-stocks-climb-3-180219496.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-27T18:02:19Z"
+        },
+        {
+          "title": "PLTR vs. ARM: Which AI-Tech Stock is Better Positioned Now?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/pltr-vs-arm-ai-tech-165200990.html",
+          "publisher": "Zacks",
+          "published": "2026-11-27T16:52:00Z"
         }
       ]
     },
@@ -559,7 +585,7 @@
     },
     {
       "label": "BTC",
-      "price": 59724.04,
+      "price": 59728.64,
       "change_pct": -1.27
     },
     {

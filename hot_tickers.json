@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-27T17:04:25+00:00",
+  "as_of": "2026-11-27T17:09:36+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,11 +9,27 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "MU",
+   "company": "Micron Technology Inc",
+   "move_pct": 6.22,
+   "price": 638.67,
+   "volume": 19756265,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 40,
+   "direction": "up",
+   "why": "Down 50%, is Micron stock a bargain buy or a value trap?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/down-50-micron-stock-bargain-153700233.html",
+   "published": "2026-11-27T15:37:00+00:00",
+   "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 2,
    "ticker": "DELL",
    "company": "Dell Technologies Inc",
-   "move_pct": 6.1,
-   "price": 315.2,
-   "volume": 7396681,
+   "move_pct": 5.99,
+   "price": 314.85,
+   "volume": 7503875,
    "volume_vs_avg": "~0.8x",
    "heat_score": 40,
    "direction": "up",
@@ -24,36 +40,36 @@
    "sector": "Chip Equipment & AI Hardware"
   },
   {
-   "rank": 2,
-   "ticker": "MU",
-   "company": "Micron Technology Inc",
-   "move_pct": 6.03,
-   "price": 637.53,
-   "volume": 19427028,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 39,
-   "direction": "up",
-   "why": "Down 50%, is Micron stock a bargain buy or a value trap?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/down-50-micron-stock-bargain-153700233.html",
-   "published": "2026-11-27T15:37:00+00:00",
-   "sector": "AI Chips & Compute"
-  },
-  {
    "rank": 3,
    "ticker": "QCOM",
    "company": "Qualcomm Inc",
-   "move_pct": 5.99,
-   "price": 178.77,
-   "volume": 3768429,
+   "move_pct": 6.23,
+   "price": 179.16,
+   "volume": 3842313,
    "volume_vs_avg": "~0.3x",
-   "heat_score": 37,
+   "heat_score": 38,
    "direction": "up",
    "why": "Qualcomm Is Betting Big on a $5 Billion Opportunity. Here\u2019s What It Could Mean for the Stock",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-betting-big-5-billion-163319523.html",
    "published": "2026-11-27T16:33:19+00:00",
    "sector": "AI Chips & Compute"
+  },
+  {
+   "rank": 4,
+   "ticker": "PLTR",
+   "company": "Palantir Technologies Inc",
+   "move_pct": 5.01,
+   "price": 171.79,
+   "volume": 9931227,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 35,
+   "direction": "up",
+   "why": "Why Palantir Popped on Friday",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-popped-friday-163131831.html",
+   "published": "2026-11-27T16:31:31+00:00",
+   "sector": "AI Software & Cloud Infrastructure"
   }
  ]
 }

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-27T11:21:07+00:00",
-  "as_of_local": "2026-11-27 11:21:07 UTC",
+  "as_of_utc": "2026-11-27T11:26:10+00:00",
+  "as_of_local": "2026-11-27 11:26:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVAV"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -12,6 +14,12 @@
       "change_pct": -3.91,
       "market_cap": 3605147173690.796,
       "headlines": [
+        {
+          "title": "Renewed Tech Optimism Lifts Wall Street Pre-Bell; Asia, Europe Up",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/renewed-tech-optimism-lifts-wall-111258453.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-27T11:12:58Z"
+        },
         {
           "title": "'A changed man.' How will Jensen Huang lead Nvidia now?",
           "url": "https://finance.yahoo.com/technology/articles/changed-man-jensen-huang-lead-050022125.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/mindset-shift-helped-stop-dreading-110602541.html",
           "publisher": "Motley Fool",
           "published": "2026-11-27T11:06:02Z"
-        },
-        {
-          "title": "The Stock Market Is Flashing a Signal Seen Only 6 Times in 156 Years. History Suggests These Stocks Could Take the Biggest Hit.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-flashing-signal-seen-110502921.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-27T11:05:02Z"
         }
       ]
     },
@@ -313,34 +315,6 @@
       ]
     },
     {
-      "symbol": "AVAV",
-      "name": "AeroVironment",
-      "price": 91.37,
-      "previous_close": 89.4,
-      "change_pct": 2.2,
-      "market_cap": 4643487681.323227,
-      "headlines": [
-        {
-          "title": "Can Draganfly's AI Partnership Boost Its Unmanned Systems Business?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/draganflys-ai-partnership-boost-unmanned-110500226.html",
-          "publisher": "Zacks",
-          "published": "2026-11-26T11:05:00Z"
-        },
-        {
-          "title": "Axon Is Down 47% From Its High. TD Cowen Still Sees $650",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/axon-down-47-high-td-020154496.html",
-          "publisher": "TIKR",
-          "published": "2026-11-26T02:01:54Z"
-        },
-        {
-          "title": "Can AeroVironment's Taiwan MOU Broaden Its Uncrewed Systems Reach?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironments-taiwan-mou-broaden-uncrewed-122200262.html",
-          "publisher": "Zacks",
-          "published": "2026-11-25T12:22:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 116.63,
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 8.86,
+          "price": 8450.0,
           "currency": "JPY"
         },
         {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 8.86,
+        "price": 8450.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61546.05,
-      "change_pct": 1.74
+      "price": 61603.86,
+      "change_pct": 1.83
     },
     {
       "label": "Gold",
-      "price": 3704.7,
-      "change_pct": 4.78
+      "price": 3702.4,
+      "change_pct": 4.71
     },
     {
       "label": "Nasdaq100",

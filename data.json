@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-27T07:07:25+00:00",
-  "as_of_local": "2026-11-27 07:07:25 UTC",
+  "as_of_utc": "2026-11-27T07:22:21+00:00",
+  "as_of_local": "2026-11-27 07:22:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AMD"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,6 +16,12 @@
       "headlines": [
         {
           "title": "The tiny Dutch town being overwhelmed by an AI boom",
+          "url": "https://finance.yahoo.com/technology/ai/articles/tiny-dutch-town-being-overwhelmed-060000436.html",
+          "publisher": "The Telegraph",
+          "published": "2026-11-27T06:00:00Z"
+        },
+        {
+          "title": "The tiny Dutch town being overwhelmed by an AI boom",
           "url": "https://finance.yahoo.com/news/tiny-dutch-town-being-overwhelmed-060000999.html",
           "publisher": "The Telegraph",
           "published": "2026-11-27T06:00:00Z"
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/markets/articles/morning-bid-dead-turkey-bounce-053441037.html",
           "publisher": "Reuters",
           "published": "2026-11-27T05:34:41Z"
-        },
-        {
-          "title": "Learn Why The Bull Case For Nvidia Stock Could Change Following CEO Reinstatement",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-nvidia-051409281.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-27T05:14:09Z"
         }
       ]
     },
@@ -113,34 +115,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-micron-could-231444608.html",
           "publisher": "Motley Fool",
           "published": "2026-11-26T23:14:44Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": 406.03,
-      "previous_close": 413.27,
-      "change_pct": -1.75,
-      "market_cap": 672006272584.8463,
-      "headlines": [
-        {
-          "title": "Eric Trump-Backed Robot Startup\u2019s Employees Lose Health Insurance After Weeks Without Pay as Company Scrambles for $150 Million Lifeline: Report",
-          "url": "https://finance.yahoo.com/healthcare/articles/eric-trump-backed-robot-startup-023005325.html",
-          "publisher": "Benzinga",
-          "published": "2026-11-27T02:30:05Z"
-        },
-        {
-          "title": "5 Most Oversold Semiconductor Stocks to Buy for 2027",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-oversold-semiconductor-stocks-194738573.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-26T19:47:38Z"
-        },
-        {
-          "title": "KHC, PINS, AMD: 3 Bets I\u2019d Consider Waging From Thanksgiving Eve\u2019s Top 25 Unusually Active Options",
-          "url": "https://finance.yahoo.com/markets/options/articles/khc-pins-amd-3-bets-183004487.html",
-          "publisher": "Barchart",
-          "published": "2026-11-26T18:30:04Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61663.83,
-      "change_pct": 2.13
+      "price": 61770.01,
+      "change_pct": 2.11
     },
     {
       "label": "Gold",
-      "price": 3681.2,
-      "change_pct": 4.11
+      "price": 3686.3,
+      "change_pct": 4.26
     },
     {
       "label": "Nasdaq100",

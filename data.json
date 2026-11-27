@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-27T08:53:46+00:00",
-  "as_of_local": "2026-11-27 08:53:46 UTC",
+  "as_of_utc": "2026-11-27T08:58:48+00:00",
+  "as_of_local": "2026-11-27 08:58:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TSM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,6 +12,12 @@
       "change_pct": -3.91,
       "market_cap": 3605147173690.796,
       "headlines": [
+        {
+          "title": "Berkshire Cut Chevron By About a Third This Year and Kept Occidental. What Does That Say About Oil Prices?",
+          "url": "https://finance.yahoo.com/energy/articles/berkshire-cut-chevron-third-kept-085000850.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-27T08:50:00Z"
+        },
         {
           "title": "European shares extend rally, but bruising November leaves AI scars",
           "url": "https://finance.yahoo.com/markets/stocks/articles/european-shares-extend-rally-bruising-083741729.html",
@@ -25,12 +29,34 @@
           "url": "https://finance.yahoo.com/news/billionaire-david-tepper-appaloosa-management-082002567.html",
           "publisher": "Motley Fool",
           "published": "2026-11-27T08:20:02Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 342.34,
+      "previous_close": 349.2,
+      "change_pct": -1.96,
+      "market_cap": 1775537145772.5286,
+      "headlines": [
+        {
+          "title": "TSMC (TSM) Is Building a Semiconductor Moat That Rivals May Struggle to Cross",
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-tsm-building-semiconductor-moat-031114980.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-27T03:11:14Z"
         },
         {
-          "title": "Wall St futures surge as investors return from holiday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-surge-investors-073405748.html",
-          "publisher": "Reuters",
-          "published": "2026-11-27T07:34:05Z"
+          "title": "Taiwan Semiconductor Stocks Slip 1.96% as Taiwan's Market Sinks 4.8% in Chip Rout",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-stocks-slip-1-190319001.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-26T19:03:19Z"
+        },
+        {
+          "title": "3 Top Stocks to Buy Before 2027 as Quantum Enters AI Data Centers",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-stocks-buy-2027-190000024.html",
+          "publisher": "Zacks",
+          "published": "2026-11-26T19:00:00Z"
         }
       ]
     },
@@ -437,8 +463,8 @@
           "name": "Western Digital",
           "short": "Western",
           "weight_pct": 3.67,
-          "change_pct": -0.55,
-          "price": 272.45,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -527,8 +553,8 @@
         "name": "Western Digital",
         "short": "Western",
         "weight_pct": 3.67,
-        "change_pct": -0.55,
-        "price": 272.45,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61672.27,
-      "change_pct": 1.95
+      "price": 61629.48,
+      "change_pct": 1.88
     },
     {
       "label": "Gold",
-      "price": 3702.4,
-      "change_pct": 4.71
+      "price": 3706.9,
+      "change_pct": 4.84
     },
     {
       "label": "Nasdaq100",

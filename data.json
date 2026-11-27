@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-27T18:35:16+00:00",
-  "as_of_local": "2026-11-27 18:35:16 UTC",
+  "as_of_utc": "2026-11-27T18:40:18+00:00",
+  "as_of_local": "2026-11-27 18:40:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -35,11 +35,17 @@
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
-      "price": 350.37,
+      "price": 353.34,
       "previous_close": 342.34,
-      "change_pct": 2.35,
-      "market_cap": 1817184517583.2048,
+      "change_pct": 3.21,
+      "market_cap": 1832588348706.5286,
       "headlines": [
+        {
+          "title": "Stanley Druckenmiller, David Tepper and 5 Other Famous Investors Own Taiwan Semiconductor. Here\u2019s Who Sold Recently",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-david-tepper-5-182819474.html",
+          "publisher": "TIKR",
+          "published": "2026-11-27T18:28:19Z"
+        },
         {
           "title": "Trump Is Heading to Arizona to Break Ground on TSMC\u2019s Newest Chip Plant",
           "url": "https://finance.yahoo.com/technology/articles/trump-heading-arizona-break-ground-154835652.html",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/technology/articles/no-threat-tsmc-2028-intel-154512199.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-27T15:45:12Z"
-        },
-        {
-          "title": "5 Strong Buy Stocks to Buy and Hold For the Next 5 Years",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-strong-buy-stocks-buy-142357618.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-27T14:23:57Z"
         }
       ]
     },
@@ -585,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 59783.97,
-      "change_pct": -1.17
+      "price": 59795.86,
+      "change_pct": -1.16
     },
     {
       "label": "Gold",
-      "price": 3671.1,
-      "change_pct": 3.83
+      "price": 3668.5,
+      "change_pct": 3.75
     },
     {
       "label": "Nasdaq100",

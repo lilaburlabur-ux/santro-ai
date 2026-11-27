@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-27T19:25:57+00:00",
-  "as_of_local": "2026-11-27 19:25:57 UTC",
+  "as_of_utc": "2026-11-27T19:31:06+00:00",
+  "as_of_local": "2026-11-27 19:31:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVGO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -63,6 +61,34 @@
       ]
     },
     {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "price": 312.34,
+      "previous_close": 300.86,
+      "change_pct": 3.82,
+      "market_cap": 1490995534552.5454,
+      "headlines": [
+        {
+          "title": "Skyworks (SWKS) Stock Is Up 6.5% Today Along With Chip Rally",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/skyworks-swks-stock-6-5-164537166.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-27T16:45:37Z"
+        },
+        {
+          "title": "Qualcomm Is Betting Big on a $5 Billion Opportunity. Here\u2019s What It Could Mean for the Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-betting-big-5-billion-163319523.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-27T16:33:19Z"
+        },
+        {
+          "title": "SEALSQ (LAES) Stock Is Up 22.0% Today Without Company News",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sealsq-laes-stock-22-0-163015117.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-27T16:30:15Z"
+        }
+      ]
+    },
+    {
       "symbol": "MU",
       "name": "Micron Technology",
       "price": 646.95,
@@ -83,10 +109,10 @@
           "published": "2026-11-27T12:00:00Z"
         },
         {
-          "title": "Jim Cramer Is Still Bullish On These 5 Tech Stocks Despite AI Bear Market",
-          "url": "https://finance.yahoo.com/technology/articles/jim-cramer-still-bullish-5-184921596.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-27T18:49:21Z"
+          "title": "Micron Stocks Climb 4.29% as Chip Rebound Meets Tight 2027 Memory Supply",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stocks-climb-4-29-192447627.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-27T19:24:47Z"
         }
       ]
     },
@@ -99,6 +125,12 @@
       "market_cap": 702641552503.826,
       "headlines": [
         {
+          "title": "AMD Stocks Rise Despite Erste Group Downgrade on Valuation",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stocks-rise-despite-erste-191808508.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-27T19:18:08Z"
+        },
+        {
           "title": "Jim Cramer Is Still Bullish On These 5 Tech Stocks Despite AI Bear Market",
           "url": "https://finance.yahoo.com/technology/articles/jim-cramer-still-bullish-5-184921596.html",
           "publisher": "Insider Monkey",
@@ -109,12 +141,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/not-amd-1-company-nvidia-173502133.html",
           "publisher": "Motley Fool",
           "published": "2026-11-27T17:35:02Z"
-        },
-        {
-          "title": "Dual AI Growth Catalysts Position Advanced Micro Devices (AMD) for Revenue Acceleration",
-          "url": "https://finance.yahoo.com/technology/ai/articles/dual-ai-growth-catalysts-position-164930131.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-27T16:49:30Z"
         }
       ]
     },
@@ -127,6 +153,12 @@
       "market_cap": 305081008110.0464,
       "headlines": [
         {
+          "title": "Intel Stocks Climb 2.86% as Court Filings Detail Washington's 10% Stake Push",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-climb-2-86-192124489.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-27T19:21:24Z"
+        },
+        {
           "title": "I Tested More Than 100 Trading Strategies With AI. Most Of Them Failed, And The Reasons Why Were More Interesting Than The Winners",
           "url": "https://finance.yahoo.com/markets/options/articles/tested-more-100-trading-strategies-171507159.html",
           "publisher": "Benzinga",
@@ -137,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/skyworks-swks-stock-6-5-164537166.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-27T16:45:37Z"
-        },
-        {
-          "title": "SEALSQ (LAES) Stock Is Up 22.0% Today Without Company News",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sealsq-laes-stock-22-0-163015117.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-27T16:30:15Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 59880.45,
-      "change_pct": -1.02
+      "price": 59887.72,
+      "change_pct": -1.0
     },
     {
       "label": "Gold",

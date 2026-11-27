@@ -4,24 +4,24 @@ Signed file: `NXPI.research.27.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $242.96 (2026-11-27, ~15-min delayed) |
-| Market cap | $61.24B |
+| Current price | $253.19 (2026-11-27, ~15-min delayed) |
+| Market cap | $63.82B |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-27.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-1.77%) with negative half-year (-25.86%). |
-| Fresh setup quality | Poor / broken | -26.39% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +34.89%; price +2.35% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -23.29% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 23.39%, revenue growth 19.30%. |
-| Value attractiveness | Reasonable | Forward P/E 13.25, EV/Sales 4.97. |
-| Risk level | High | Beta 1.86, ATR 5.8% of price, short float 3.01%. |
+| Value attractiveness | Reasonable | Forward P/E 13.79, EV/Sales 4.97. |
+| Risk level | High | Beta 1.86, ATR 5.5% of price, short float 3.01%. |
 
-**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 
 | Headline | Source | Date |
 |---|---|---|
+| Is ADI Stock Still Worth Owning After Its Quarter? | Trefis | 2026-11-27 |
+| ETFs Are Net Sellers of NXP Semiconductors (NXPI) on Nov. 25 | GuruFocus.com | 2026-11-27 |
 | NXP (NXPI) Down 3.5% Since Last Earnings Report: Can It Rebound? | Zacks | 2026-11-26 |
 | Analog Devices Just Plunged After Earnings. Is Its Dividend Now a Bargain? | 24/7 Wall St. | 2026-11-25 |
-| Prediction: Qualcomm Becomes the Top Auto Chipmaker in 2027, “a Story the Market Has Quietly Ignored,” per SemiAnalysis | TIKR | 2026-11-25 |
-| What Is The True Hidden Price Of Texas Instruments Stock? | Trefis | 2026-11-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $242.96; 52w high $330.06 (-26.39%); 52w low $185.92 (+30.68%) |
-| Trend | -1.77% vs SMA200, -0.24% vs SMA50, -4.87% vs SMA20 |
-| Momentum | RSI(14) 46.6 (neutral) |
-| Volatility | ATR(14) 14.06 (~5.8% of price); beta 1.86 |
-| Setup perspective | -26.39% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $253.19; 52w high $330.06 (-23.29%); 52w low $185.92 (+36.18%) |
+| Trend | +2.35% vs SMA200, +3.74% vs SMA50, -0.61% vs SMA20 |
+| Momentum | RSI(14) 51.8 (neutral) |
+| Volatility | ATR(14) 13.97 (~5.5% of price); beta 1.86 |
+| Setup perspective | -23.29% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.8% |
-| Month | -4.2% |
-| Quarter | +8.1% |
-| Half Y | -25.9% |
-| 1Y | +29.1% |
-| YTD | +11.2% |
+| Week | +0.6% |
+| Month | +0.6% |
+| Quarter | +13.8% |
+| Half Y | -20.6% |
+| 1Y | +34.9% |
+| YTD | +15.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Revenue (ttm) | $13.80B | Revenue growth 19.30% y/y |
 | Profitability | Gross 56.46%, operating 33.84%, net 23.39% | ROA 10.82%, ROE 28.67% |
 | Balance sheet | Cash $3.94B, debt $10.98B | Current ratio 2.12, debt/equity 88.07 |
-| Valuation | P/E 19.12, forward P/E 13.25, P/S 4.44, P/B 5.07 | EV/Sales 4.97, EV/EBITDA 12.74 |
+| Valuation | P/E 19.92, forward P/E 13.79, P/S 4.63, P/B 5.28 | EV/Sales 4.97, EV/EBITDA 12.74 |
 | Growth expectations | Earnings growth 40.30%, EPS q/q 40.10% | Analyst mean target $302.21 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Boston Partners | 5,095,582 | 2.02% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.86, ATR 5.8% of price, short float 3.01%. Size positions accordingly.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
+- **Volatility risk:** Beta 1.86, ATR 5.5% of price, short float 3.01%. Size positions accordingly.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
 ### Setup checklist for your journal
@@ -111,21 +110,21 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $242.96 | EV/Sales | 4.97 |
-| Market cap | $61.24B | EV/EBITDA | 12.74 |
+| Price | $253.19 | EV/Sales | 4.97 |
+| Market cap | $63.82B | EV/EBITDA | 12.74 |
 | Beta | 1.86 | Gross margin | 56.46% |
-| RSI(14) | 46.6 | Operating margin | 33.84% |
-| ATR(14) | 14.06 | Profit margin | 23.39% |
-| SMA20 dist | -4.87% | ROA | 10.82% |
-| SMA50 dist | -0.24% | ROE | 28.67% |
-| SMA200 dist | -1.77% | Revenue (ttm) | $13.80B |
+| RSI(14) | 51.8 | Operating margin | 33.84% |
+| ATR(14) | 13.97 | Profit margin | 23.39% |
+| SMA20 dist | -0.61% | ROA | 10.82% |
+| SMA50 dist | +3.74% | ROE | 28.67% |
+| SMA200 dist | +2.35% | Revenue (ttm) | $13.80B |
 | 52W high | $330.06 | Revenue growth y/y | 19.30% |
 | 52W low | $185.92 | Inst. ownership | 100.86% |
-| P/E (ttm) | 19.12 | Insider ownership | 0.39% |
-| Forward P/E | 13.25 | Short float | 3.01% |
-| PEG (trailing) | 0.47 | Avg volume | 4,309,150 |
-| P/S | 4.44 | Employees | 32,169 |
-| P/B | 5.07 | Analyst rec (1=buy..5=sell) | 1.9 |
+| P/E (ttm) | 19.92 | Insider ownership | 0.39% |
+| Forward P/E | 13.79 | Short float | 3.01% |
+| PEG (trailing) | 0.47 | Avg volume | 4,336,847 |
+| P/S | 4.63 | Employees | 32,169 |
+| P/B | 5.28 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -140,7 +139,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | 2026-10-28 | main | Keybanc | Overweight → Overweight |
 
 ## 9. Conclusion
-NXPI: Low momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+NXPI: Moderate momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

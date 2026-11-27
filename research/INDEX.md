@@ -3,20 +3,20 @@
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
-| NVDA | $3.61T | -18% | 9.0 | 63% | Low | Reasonable | High |
-| TSM | $1.78T | +22% | 14.7 | 51% | Low | Reasonable | High |
-| AVGO | $1.44T | -20% | 15.5 | 43% | Low | Reasonable | High |
-| MU | $682.38B | +169% | 2.9 | 64% | High | Reasonable | High |
-| AMD | $672.01B | +89% | 23.0 | 17% | High | Fair-to-demanding | High |
-| INTC | $289.51B | +52% | 30.4 | -20% | Low | Fair-to-demanding | High |
-| ARM | $172.82B | +20% | 52.3 | 17% | Low | Low (expensive) | High |
-| MRVL | $117.81B | +57% | 17.8 | 28% | Low | Reasonable | High |
-| QCOM | $180.47B | +4% | 13.8 | 32% | Low | Reasonable | High |
-| NXPI | $61.24B | +29% | 13.2 | 23% | Low | Reasonable | High |
-| LSCC | $13.97B | +43% | 22.4 | 6% | Low | Fair-to-demanding | High |
-| SYNA | $4.63B | +78% | 17.9 | -41% | High | Reasonable | High |
-| CEVA | $639.01M | +13% | 29.8 | -9% | Low | Fair-to-demanding | High |
-| AVAV | $4.64B | -67% | 20.7 | -10% | Low | Fair-to-demanding | High |
+| NVDA | $3.63T | -15% | 9.1 | 63% | Low | Reasonable | High |
+| TSM | $1.83T | +25% | 15.1 | 51% | Low | Reasonable | High |
+| AVGO | $1.49T | -18% | 16.2 | 43% | Low | Reasonable | High |
+| MU | $734.25B | +188% | 3.2 | 64% | High | Reasonable | High |
+| AMD | $702.64B | +106% | 24.1 | 17% | High | Fair-to-demanding | High |
+| INTC | $305.08B | +60% | 32.1 | -20% | High | Fair-to-demanding | High |
+| ARM | $183.56B | +31% | 55.6 | 17% | Low | Low (expensive) | High |
+| MRVL | $126.45B | +69% | 19.1 | 28% | High | Reasonable | High |
+| QCOM | $191.82B | +12% | 14.7 | 32% | Moderate | Reasonable | High |
+| NXPI | $63.82B | +35% | 13.8 | 23% | Moderate | Reasonable | High |
+| LSCC | $14.74B | +52% | 23.6 | 6% | Low | Fair-to-demanding | High |
+| SYNA | $4.66B | +76% | 18.0 | -41% | High | Reasonable | High |
+| CEVA | $670.11M | +16% | 31.3 | -9% | Low | Fair-to-demanding | High |
+| AVAV | $4.87B | -66% | 21.7 | -10% | Low | Fair-to-demanding | High |
 
 14 reports generated; failed: none.
 

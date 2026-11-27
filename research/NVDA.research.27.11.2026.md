@@ -4,8 +4,8 @@ Signed file: `NVDA.research.27.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $149.30 (2026-11-27, ~15-min delayed) |
-| Market cap | $3.61T |
+| Current price | $150.49 (2026-11-27, ~15-min delayed) |
+| Market cap | $3.63T |
 | Sector / Industry | Technology / Semiconductors |
 | Main theme | Semiconductors — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `NVDA.research.27.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-26.32%) with negative half-year (-30.16%). |
-| Fresh setup quality | Poor / broken | -37.59% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-25.66%) with negative half-year (-28.56%). |
+| Fresh setup quality | Poor / broken | -37.10% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 62.53%, revenue growth 103.20%. |
-| Value attractiveness | Reasonable | Forward P/E 8.99, EV/Sales 9.78. |
-| Risk level | High | Beta 2.25, ATR 9.0% of price, short float 1.32%. |
+| Value attractiveness | Reasonable | Forward P/E 9.06, EV/Sales 9.78. |
+| Risk level | High | Beta 2.25, ATR 8.6% of price, short float 1.32%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 
 | Headline | Source | Date |
 |---|---|---|
-| Will Jensen Huang's second act as Nvidia CEO be different? | Yahoo Finance Video | 2026-11-26 |
-| Jensen Huang 'absolutely could be fired again,' legal expert says | Yahoo Finance Video | 2026-11-26 |
-| 5 things I'm thankful for in AI | Yahoo Finance Video | 2026-11-26 |
-| 5 Best Quantum Computing Stocks To Buy for 2027 | Insider Monkey | 2026-11-27 |
+| Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back | Yahoo Finance | 2026-11-27 |
+| Why this portfolio manager says investors should 'avoid the neoclouds' | Yahoo Finance Video | 2026-11-27 |
+| PacSun CEO talks brand resurgence, holiday shopping season boom | Yahoo Finance Video | 2026-11-27 |
+| Can AI earn a spot in the creative world? Ja Rule think so. | Yahoo Finance Video | 2026-11-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $149.30; 52w high $239.24 (-37.59%); 52w low $125.53 (+18.94%) |
-| Trend | -26.32% vs SMA200, -26.69% vs SMA50, -13.44% vs SMA20 |
-| Momentum | RSI(14) 37.5 (neutral) |
-| Volatility | ATR(14) 13.38 (~9.0% of price); beta 2.25 |
-| Setup perspective | -37.59% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $150.49; 52w high $239.24 (-37.10%); 52w low $125.53 (+19.88%) |
+| Trend | -25.66% vs SMA200, -25.60% vs SMA50, -11.12% vs SMA20 |
+| Momentum | RSI(14) 38.1 (neutral) |
+| Volatility | ATR(14) 12.90 (~8.6% of price); beta 2.25 |
+| Setup perspective | -37.10% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.1% |
-| Month | -31.5% |
-| Quarter | -34.4% |
-| Half Y | -30.2% |
-| 1Y | -18.0% |
-| YTD | -20.8% |
+| Week | +3.1% |
+| Month | -30.1% |
+| Quarter | -30.7% |
+| Half Y | -28.6% |
+| 1Y | -15.2% |
+| YTD | -20.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | Revenue (ttm) | $361.81B | Revenue growth 103.20% y/y |
 | Profitability | Gross 74.92%, operating 66.08%, net 62.53% | ROA 56.04%, ROE 117.36% |
 | Balance sheet | Cash $97.73B, debt $38.15B | Current ratio 4.08, debt/equity 14.31 |
-| Valuation | P/E 16.04, forward P/E 8.99, P/S 9.96, P/B 13.50 | EV/Sales 9.78, EV/EBITDA 14.55 |
+| Valuation | P/E 16.16, forward P/E 9.06, P/S 10.04, P/B 13.60 | EV/Sales 9.78, EV/EBITDA 14.55 |
 | Growth expectations | Earnings growth 107.70%, EPS q/q 104.60% | Analyst mean target $242.43 (59 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 | NORGES BANK | 325,951,734 | 1.35% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.25, ATR 9.0% of price, short float 1.32%. Size positions accordingly.
+- **Volatility risk:** Beta 2.25, ATR 8.6% of price, short float 1.32%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
 
@@ -111,21 +111,21 @@ NVIDIA Corporation operates as a data center scale AI infrastructure company in 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $149.30 | EV/Sales | 9.78 |
-| Market cap | $3.61T | EV/EBITDA | 14.55 |
+| Price | $150.49 | EV/Sales | 9.78 |
+| Market cap | $3.63T | EV/EBITDA | 14.55 |
 | Beta | 2.25 | Gross margin | 74.92% |
-| RSI(14) | 37.5 | Operating margin | 66.08% |
-| ATR(14) | 13.38 | Profit margin | 62.53% |
-| SMA20 dist | -13.44% | ROA | 56.04% |
-| SMA50 dist | -26.69% | ROE | 117.36% |
-| SMA200 dist | -26.32% | Revenue (ttm) | $361.81B |
+| RSI(14) | 38.1 | Operating margin | 66.08% |
+| ATR(14) | 12.90 | Profit margin | 62.53% |
+| SMA20 dist | -11.12% | ROA | 56.04% |
+| SMA50 dist | -25.60% | ROE | 117.36% |
+| SMA200 dist | -25.66% | Revenue (ttm) | $361.81B |
 | 52W high | $239.24 | Revenue growth y/y | 103.20% |
 | 52W low | $125.53 | Inst. ownership | 71.59% |
-| P/E (ttm) | 16.04 | Insider ownership | 4.04% |
-| Forward P/E | 8.99 | Short float | 1.32% |
-| PEG (trailing) | 0.15 | Avg volume | 187,728,343 |
-| P/S | 9.96 | Employees | 42,000 |
-| P/B | 13.50 | Analyst rec (1=buy..5=sell) | 1.7 |
+| P/E (ttm) | 16.16 | Insider ownership | 4.04% |
+| Forward P/E | 9.06 | Short float | 1.32% |
+| PEG (trailing) | 0.15 | Avg volume | 185,963,558 |
+| P/S | 10.04 | Employees | 42,000 |
+| P/B | 13.60 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

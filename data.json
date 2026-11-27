@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-27T01:09:47+00:00",
-  "as_of_local": "2026-11-27 01:09:47 UTC",
+  "as_of_utc": "2026-11-27T01:15:02+00:00",
+  "as_of_local": "2026-11-27 01:15:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-resets-broadcoms-12-193315984.html",
           "publisher": "TheStreet",
           "published": "2026-11-26T19:33:15Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 601.25,
+      "previous_close": 629.79,
+      "change_pct": -4.53,
+      "market_cap": 682379255691.25,
+      "headlines": [
+        {
+          "title": "Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-27T00:44:26Z"
+        },
+        {
+          "title": "Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Semiconductor Stock Through 2030, This Would Be It.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-micron-could-231444608.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-26T23:14:44Z"
+        },
+        {
+          "title": "Why It\u2019s Hard to Write Off Micron (MU) Even with a Memory Peak in Sight",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-hard-write-off-micron-210000375.html",
+          "publisher": "TipRanks",
+          "published": "2026-11-26T21:00:00Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -4.53,
+          "price": 601.25,
           "currency": "USD"
         },
         {
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 0.68,
-          "price": 1040000.0,
+          "change_pct": 0.48,
+          "price": 1038000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": -0.12,
-          "price": 171100.0,
+          "change_pct": -0.35,
+          "price": 170700.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 3.99,
-          "price": 8072.0,
+          "change_pct": 4.46,
+          "price": 8108.0,
           "currency": "JPY"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -4.53,
+        "price": 601.25,
         "currency": "USD"
       },
       {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 0.68,
-        "price": 1040000.0,
+        "change_pct": 0.48,
+        "price": 1038000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": -0.12,
-        "price": 171100.0,
+        "change_pct": -0.35,
+        "price": 170700.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 3.99,
-        "price": 8072.0,
+        "change_pct": 4.46,
+        "price": 8108.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 60698.16,
-      "change_pct": 0.53
+      "price": 60727.18,
+      "change_pct": 0.58
     },
     {
       "label": "Gold",
-      "price": 3587.1,
-      "change_pct": 1.45
+      "price": 3593.2,
+      "change_pct": 1.62
     },
     {
       "label": "Nasdaq100",

@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-27T00:24:33+00:00",
-  "as_of_local": "2026-11-27 00:24:33 UTC",
+  "as_of_utc": "2026-11-27T00:29:26+00:00",
+  "as_of_local": "2026-11-27 00:29:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SYNA"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -341,34 +343,6 @@
       ]
     },
     {
-      "symbol": "SYNA",
-      "name": "Synaptics",
-      "price": 116.63,
-      "previous_close": 116.77,
-      "change_pct": -0.12,
-      "market_cap": 4633536711.962372,
-      "headlines": [
-        {
-          "title": "Top 3 AI Infrastructure Stocks To Watch In November 2026",
-          "url": "https://finance.yahoo.com/technology/ai/articles/top-3-ai-infrastructure-stocks-091108294.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-19T09:11:08Z"
-        },
-        {
-          "title": "SYNA Q1 Earnings Beat Estimates, Revenues Miss on Weak Demand",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/syna-q1-earnings-beat-estimates-152400592.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T15:24:00Z"
-        },
-        {
-          "title": "Synaptics (SYNA) Tops Q1 Earnings Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-tops-q1-earnings-000013395.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T00:00:13Z"
-        }
-      ]
-    },
-    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 22.4,
@@ -418,8 +392,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 1.94,
-          "price": 1053000.0,
+          "change_pct": 1.16,
+          "price": 1045000.0,
           "currency": "KRW"
         },
         {
@@ -427,8 +401,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.82,
-          "price": 172700.0,
+          "change_pct": 0.47,
+          "price": 172100.0,
           "currency": "KRW"
         },
         {
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 2.86,
-          "price": 7984.0,
+          "change_pct": 2.54,
+          "price": 7959.0,
           "currency": "JPY"
         },
         {
@@ -508,8 +482,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 1.94,
-        "price": 1053000.0,
+        "change_pct": 1.16,
+        "price": 1045000.0,
         "currency": "KRW"
       },
       {
@@ -517,8 +491,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.82,
-        "price": 172700.0,
+        "change_pct": 0.47,
+        "price": 172100.0,
         "currency": "KRW"
       },
       {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 2.86,
-        "price": 7984.0,
+        "change_pct": 2.54,
+        "price": 7959.0,
         "currency": "JPY"
       },
       {
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60533.19,
-      "change_pct": 0.26
+      "price": 60421.81,
+      "change_pct": 0.07
     },
     {
       "label": "Gold",
-      "price": 3593.4,
-      "change_pct": 1.63
+      "price": 3596.6,
+      "change_pct": 1.72
     },
     {
       "label": "Nasdaq100",

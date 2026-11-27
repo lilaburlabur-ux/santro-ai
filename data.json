@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-27T19:20:53+00:00",
-  "as_of_local": "2026-11-27 19:20:53 UTC",
+  "as_of_utc": "2026-11-27T19:25:57+00:00",
+  "as_of_local": "2026-11-27 19:25:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -57,34 +59,6 @@
           "url": "https://finance.yahoo.com/technology/articles/no-threat-tsmc-2028-intel-154512199.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-27T15:45:12Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 312.34,
-      "previous_close": 300.86,
-      "change_pct": 3.82,
-      "market_cap": 1490995534552.5454,
-      "headlines": [
-        {
-          "title": "Skyworks (SWKS) Stock Is Up 6.5% Today Along With Chip Rally",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/skyworks-swks-stock-6-5-164537166.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-27T16:45:37Z"
-        },
-        {
-          "title": "Qualcomm Is Betting Big on a $5 Billion Opportunity. Here\u2019s What It Could Mean for the Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-betting-big-5-billion-163319523.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-27T16:33:19Z"
-        },
-        {
-          "title": "SEALSQ (LAES) Stock Is Up 22.0% Today Without Company News",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sealsq-laes-stock-22-0-163015117.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-27T16:30:15Z"
         }
       ]
     },
@@ -582,6 +556,11 @@
       "label": "SPX",
       "price": 7297.49,
       "change_pct": 1.6
+    },
+    {
+      "label": "BTC",
+      "price": 59880.45,
+      "change_pct": -1.02
     },
     {
       "label": "Gold",

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-27T19:15:54+00:00",
-  "as_of_local": "2026-11-27 19:15:54 UTC",
+  "as_of_utc": "2026-11-27T19:20:53+00:00",
+  "as_of_local": "2026-11-27 19:20:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -237,6 +237,12 @@
       "market_cap": 126453091015.37137,
       "headlines": [
         {
+          "title": "Astera Labs is suddenly back in the AI spotlight after rough patch",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-suddenly-back-ai-191700851.html",
+          "publisher": "TheStreet",
+          "published": "2026-11-27T19:17:00Z"
+        },
+        {
           "title": "Wall Street ends higher as battered AI stocks gain in volatile week",
           "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-surge-investors-073405748.html",
           "publisher": "Reuters",
@@ -247,12 +253,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/coherent-jumps-12-optical-stocks-170638033.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-27T17:06:38Z"
-        },
-        {
-          "title": "This Semiconductor Stock Could Have Its Biggest Year Yet in 2027",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stock-could-biggest-yet-160452163.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-27T16:04:52Z"
         }
       ]
     },
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 9.52,
+          "price": 103.5,
           "currency": "TWD"
         }
       ]
@@ -571,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 9.52,
+        "price": 103.5,
         "currency": "TWD"
       }
     ]
@@ -582,11 +582,6 @@
       "label": "SPX",
       "price": 7297.49,
       "change_pct": 1.6
-    },
-    {
-      "label": "BTC",
-      "price": 59793.77,
-      "change_pct": -1.16
     },
     {
       "label": "Gold",

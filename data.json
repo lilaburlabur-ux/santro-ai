@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-27T08:02:58+00:00",
-  "as_of_local": "2026-11-27 08:02:58 UTC",
+  "as_of_utc": "2026-11-27T08:07:56+00:00",
+  "as_of_local": "2026-11-27 08:07:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/history-says-investing-200-month-072002348.html",
           "publisher": "Motley Fool",
           "published": "2026-11-27T07:20:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 342.34,
-      "previous_close": 349.2,
-      "change_pct": -1.96,
-      "market_cap": 1775537145772.5286,
-      "headlines": [
-        {
-          "title": "TSMC (TSM) Is Building a Semiconductor Moat That Rivals May Struggle to Cross",
-          "url": "https://finance.yahoo.com/technology/articles/tsmc-tsm-building-semiconductor-moat-031114980.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-27T03:11:14Z"
-        },
-        {
-          "title": "Taiwan Semiconductor Stocks Slip 1.96% as Taiwan's Market Sinks 4.8% in Chip Rout",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-stocks-slip-1-190319001.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-26T19:03:19Z"
-        },
-        {
-          "title": "3 Top Stocks to Buy Before 2027 as Quantum Enters AI Data Centers",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-stocks-buy-2027-190000024.html",
-          "publisher": "Zacks",
-          "published": "2026-11-26T19:00:00Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61664.85,
-      "change_pct": 1.93
+      "price": 61814.95,
+      "change_pct": 2.18
     },
     {
       "label": "Gold",
-      "price": 3691.8,
-      "change_pct": 4.41
+      "price": 3691.3,
+      "change_pct": 4.4
     },
     {
       "label": "Nasdaq100",

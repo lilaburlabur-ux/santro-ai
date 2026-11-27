@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-27T00:08:58+00:00",
-  "as_of_local": "2026-11-27 00:08:58 UTC",
+  "as_of_utc": "2026-11-27T00:14:01+00:00",
+  "as_of_local": "2026-11-27 00:14:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -57,34 +59,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ai-investing-prodigy-lost-65-165513452.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-26T16:55:13Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 300.86,
-      "previous_close": 301.08,
-      "change_pct": -0.07,
-      "market_cap": 1436194211257.6812,
-      "headlines": [
-        {
-          "title": "5 Most Oversold Semiconductor Stocks to Buy for 2027",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-oversold-semiconductor-stocks-194738573.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-26T19:47:38Z"
-        },
-        {
-          "title": "Goldman Sachs resets Broadcom's 12-month price target before earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-resets-broadcoms-12-193315984.html",
-          "publisher": "TheStreet",
-          "published": "2026-11-26T19:33:15Z"
-        },
-        {
-          "title": "Broadcom Stocks Edge Lower After Rebounding From an Intraday Low of $278",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-edge-lower-rebounding-183041028.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-26T18:30:41Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 60483.99,
+      "price": 60488.43,
       "change_pct": 0.18
     },
     {
       "label": "Gold",
-      "price": 3595.1,
-      "change_pct": 1.68
+      "price": 3599.0,
+      "change_pct": 1.79
     },
     {
       "label": "Nasdaq100",

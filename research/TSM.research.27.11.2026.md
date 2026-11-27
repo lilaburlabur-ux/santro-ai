@@ -15,7 +15,7 @@ Signed file: `TSM.research.27.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-12.14%) with negative half-year (-15.13%). |
+| Technical momentum | Low | Below SMA200 (-12.14%) with negative half-year (-15.14%). |
 | Fresh setup quality | Poor / broken | -27.27% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 51.12%, revenue growth 50.90%. |
 | Value attractiveness | Reasonable | Forward P/E 15.09, EV/Sales 2.29. |

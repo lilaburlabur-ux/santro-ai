@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-27T13:50:44+00:00",
-  "as_of_local": "2026-11-27 13:50:44 UTC",
+  "as_of_utc": "2026-11-27T13:55:43+00:00",
+  "as_of_local": "2026-11-27 13:55:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -27,10 +25,10 @@
           "published": "2026-11-27T12:00:00Z"
         },
         {
-          "title": "Was investor Leopold Aschenbrenner right about AI, but wrong on risk?",
-          "url": "https://finance.yahoo.com/video/was-investor-leopold-aschenbrenner-right-about-ai-but-wrong-on-risk-133749438.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-27T13:37:49Z"
+          "title": "US stocks set for higher open as battered AI shares claw back losses",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-surge-investors-073405748.html",
+          "publisher": "Reuters",
+          "published": "2026-11-27T13:49:15Z"
         }
       ]
     },
@@ -71,6 +69,12 @@
       "market_cap": 1436194211257.6812,
       "headlines": [
         {
+          "title": "AI Needs More Than Nvidia Chips. This Stock Could Benefit",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-needs-more-nvidia-chips-134730136.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-27T13:47:30Z"
+        },
+        {
           "title": "The Next Phase of AI Spending Could Put This Overlooked Stock in the Spotlight",
           "url": "https://finance.yahoo.com/technology/ai/articles/next-phase-ai-spending-could-121749994.html",
           "publisher": "24/7 Wall St.",
@@ -81,12 +85,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-2027-bull-case-ai-121525054.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-27T12:15:25Z"
-        },
-        {
-          "title": "Broadcom Makes More AI Money Than AMD\u2014So Why Is AMD\u2019s Stock Crushing It?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-makes-more-ai-money-121506060.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-27T12:15:06Z"
         }
       ]
     },
@@ -203,6 +201,34 @@
       ]
     },
     {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 161.51,
+      "previous_close": 161.56,
+      "change_pct": -0.03,
+      "market_cap": 172815694122.31445,
+      "headlines": [
+        {
+          "title": "SoftBank\u2019s \u201cWorst Sell-Off\u201d Since \u201908 Is Bad News for Arm. Here\u2019s the Number That Matters",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-worst-sell-off-since-030855445.html",
+          "publisher": "TIKR",
+          "published": "2026-11-27T03:08:55Z"
+        },
+        {
+          "title": "3 AI Infrastructure Stocks Retail Investors Are Watching As Compute Spending Shifts",
+          "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-retail-201110278.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-26T20:11:10Z"
+        },
+        {
+          "title": "Is Astera Labs, Inc. (ALAB) One of the Best Oversold AI Semiconductor Stocks to Buy?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/astera-labs-inc-alab-one-194946194.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-26T19:49:46Z"
+        }
+      ]
+    },
+    {
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "price": 130.93,
@@ -210,6 +236,12 @@
       "change_pct": -0.49,
       "market_cap": 117806340340.17786,
       "headlines": [
+        {
+          "title": "AI Needs More Than Nvidia Chips. This Stock Could Benefit",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-needs-more-nvidia-chips-134730136.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-27T13:47:30Z"
+        },
         {
           "title": "The Next Phase of AI Spending Could Put This Overlooked Stock in the Spotlight",
           "url": "https://finance.yahoo.com/technology/ai/articles/next-phase-ai-spending-could-121749994.html",
@@ -221,12 +253,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-technology-stock-surging-115215377.html",
           "publisher": "InvestorsHub",
           "published": "2026-11-27T11:52:15Z"
-        },
-        {
-          "title": "Marvell Faces Critical Earnings Test Amid AI Chip Market Turmoil",
-          "url": "https://finance.yahoo.com/technology/ai/articles/marvell-faces-critical-earnings-test-112308097.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-27T11:23:08Z"
         }
       ]
     },
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61455.37,
-      "change_pct": 1.59
+      "price": 61465.73,
+      "change_pct": 1.61
     },
     {
       "label": "Gold",
-      "price": 3672.5,
-      "change_pct": 3.87
+      "price": 3671.4,
+      "change_pct": 3.84
     },
     {
       "label": "Nasdaq100",

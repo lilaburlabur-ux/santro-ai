@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-27T11:51:42+00:00",
-  "as_of_local": "2026-11-27 11:51:42 UTC",
+  "as_of_utc": "2026-11-27T11:56:42+00:00",
+  "as_of_local": "2026-11-27 11:56:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,6 +12,12 @@
       "change_pct": -3.91,
       "market_cap": 3605147173690.796,
       "headlines": [
+        {
+          "title": "If You Put $10,000 in the Schwab U.S. Dividend Equity ETF 10 Years Ago, Here\u2019s What You\u2019d Have Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/put-10-000-schwab-u-114602186.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-27T11:46:02Z"
+        },
         {
           "title": "Stock market today: Dow, S&P 500, Nasdaq futures gain as AI jitters steady",
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html",
@@ -25,12 +29,6 @@
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-27T11:37:34Z"
-        },
-        {
-          "title": "Is Meta Stock a Buy as Amazon Reportedly Weighs Letting Its AI Shopping Agent Back In?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-buy-amazon-reportedly-113302679.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-27T11:33:02Z"
         }
       ]
     },
@@ -143,6 +141,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-innovation-tech-active-etf-110424675.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-27T11:04:24Z"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 54.47,
+      "previous_close": 54.8,
+      "change_pct": -0.6,
+      "market_cap": 289508056488.0371,
+      "headlines": [
+        {
+          "title": "JPMorgan Active Value ETF (JAVA) Buys $30.3 Million More Cencora on Nov. 25",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-active-value-etf-java-110401647.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-27T11:04:01Z"
+        },
+        {
+          "title": "iShares PHLX SOX Semiconductor (SOXX) Sells AMD and Broadcom on Nov. 25",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semiconductor-soxx-110345625.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-27T11:03:45Z"
+        },
+        {
+          "title": "Intel\u2019s (INTC) AI Opportunity Is Growing, But There\u2019s One Big Problem Holding It Back",
+          "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-ai-opportunity-growing-031416634.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-27T03:14:16Z"
         }
       ]
     },
@@ -455,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 0.48,
-          "price": 104.0,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "TWD"
         }
       ]
@@ -545,8 +571,8 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 0.48,
-        "price": 104.0,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "TWD"
       }
     ]
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61466.66,
-      "change_pct": 1.61
+      "price": 61484.76,
+      "change_pct": 1.64
     },
     {
       "label": "Gold",
-      "price": 3702.6,
-      "change_pct": 4.72
+      "price": 3698.0,
+      "change_pct": 4.59
     },
     {
       "label": "Nasdaq100",

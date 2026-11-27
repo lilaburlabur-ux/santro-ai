@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-27T20:52:29+00:00",
-  "as_of_local": "2026-11-27 20:52:29 UTC",
+  "as_of_utc": "2026-11-27T20:57:28+00:00",
+  "as_of_local": "2026-11-27 20:57:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/skyworks-swks-stock-6-5-164537166.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-27T16:45:37Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "price": 646.95,
+      "previous_close": 601.25,
+      "change_pct": 7.6,
+      "market_cap": 734245767649.5286,
+      "headlines": [
+        {
+          "title": "Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back",
+          "url": "https://finance.yahoo.com/markets/article/stocks-snap-from-a-6-trillion-washout-to-a-3-trillion-surge-as-nvidia-micron-and-spacex-bounce-back-151218930.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-27T15:12:18Z"
+        },
+        {
+          "title": "He was right about AI and still lost $35 billion",
+          "url": "https://finance.yahoo.com/video/ai-still-lost-35-billion-120000023.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-27T12:00:00Z"
+        },
+        {
+          "title": "Micron Stocks Climb 4.29% as Chip Rebound Meets Tight 2027 Memory Supply",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stocks-climb-4-29-192447627.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-27T19:24:47Z"
         }
       ]
     },
@@ -383,8 +409,8 @@
           "name": "Micron Technology Inc",
           "short": "Micron",
           "weight_pct": 27.63,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 7.6,
+          "price": 646.95,
           "currency": "USD"
         },
         {
@@ -473,8 +499,8 @@
         "name": "Micron Technology Inc",
         "short": "Micron",
         "weight_pct": 27.63,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 7.6,
+        "price": 646.95,
         "currency": "USD"
       },
       {
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 59706.93,
-      "change_pct": -1.3
+      "price": 59747.59,
+      "change_pct": -1.24
     },
     {
       "label": "Gold",

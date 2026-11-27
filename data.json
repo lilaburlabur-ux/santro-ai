@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-27T22:48:28+00:00",
-  "as_of_local": "2026-11-27 22:48:28 UTC",
+  "as_of_utc": "2026-11-27T22:53:28+00:00",
+  "as_of_local": "2026-11-27 22:53:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "QCOM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/skyworks-swks-stock-6-5-164537166.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-27T16:45:37Z"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "price": 179.27,
-      "previous_close": 168.66,
-      "change_pct": 6.29,
-      "market_cap": 191818904571.5332,
-      "headlines": [
-        {
-          "title": "Qualcomm Stocks Climb 4.18% After Tying CEO Award to $500 Share Price",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stocks-climb-4-18-181911724.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-27T18:19:11Z"
-        },
-        {
-          "title": "Qualcomm, Cava, and Dutch Bros Earnings and a Robotics IPO",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-cava-dutch-bros-earnings-180602053.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-27T18:06:02Z"
-        },
-        {
-          "title": "Qualcomm (QCOM) Stock Is Up 6.9% Today: Chip Stocks Rally With Market",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-6-9-171518673.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-27T17:15:18Z"
         }
       ]
     },
@@ -436,8 +410,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 8.86,
+          "price": 8450.0,
           "currency": "JPY"
         },
         {
@@ -526,8 +500,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 8.86,
+        "price": 8450.0,
         "currency": "JPY"
       },
       {
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 59733.78,
-      "change_pct": -1.26
+      "price": 59791.09,
+      "change_pct": -1.16
     },
     {
       "label": "Gold",

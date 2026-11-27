@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-27T12:47:26+00:00",
-  "as_of_local": "2026-11-27 12:47:26 UTC",
+  "as_of_utc": "2026-11-27T12:52:38+00:00",
+  "as_of_local": "2026-11-27 12:52:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AVGO"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,22 +15,22 @@
       "market_cap": 3605147173690.796,
       "headlines": [
         {
+          "title": "Nvidia stock is still paying the price for the Jensen Huang CEO drama",
+          "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-is-still-paying-the-price-for-the-jensen-huang-ceo-drama-124902053.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-27T12:49:02Z"
+        },
+        {
           "title": "He was right about AI and still lost $35 billion",
           "url": "https://finance.yahoo.com/video/ai-still-lost-35-billion-120000023.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-27T12:00:00Z"
         },
         {
-          "title": "Trump Wants a GDP Investigation Over the \u201cFake\u201d Pre-Election Number",
-          "url": "https://finance.yahoo.com/economy/articles/trump-wants-gdp-investigation-over-123855761.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-27T12:38:55Z"
-        },
-        {
-          "title": "Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-27T12:37:52Z"
+          "title": "Nvidia Blackwell chips found in Shanghai data center tied to Alice Huang",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-blackwell-chips-found-shanghai-124008621.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-27T12:40:08Z"
         }
       ]
     },
@@ -57,34 +59,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-sold-34-5-million-110229859.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-27T11:02:29Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom",
-      "price": 300.86,
-      "previous_close": 301.08,
-      "change_pct": -0.07,
-      "market_cap": 1436194211257.6812,
-      "headlines": [
-        {
-          "title": "The Next Phase of AI Spending Could Put This Overlooked Stock in the Spotlight",
-          "url": "https://finance.yahoo.com/technology/ai/articles/next-phase-ai-spending-could-121749994.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-27T12:17:49Z"
-        },
-        {
-          "title": "Broadcom\u2019s 2027 Bull Case: AI Revenue Doubles to $115B and $230B\u2014Here\u2019s What Finally Unlocks the Stock",
-          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-2027-bull-case-ai-121525054.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-27T12:15:25Z"
-        },
-        {
-          "title": "Broadcom Makes More AI Money Than AMD\u2014So Why Is AMD\u2019s Stock Crushing It?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-makes-more-ai-money-121506060.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-27T12:15:06Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61491.41,
-      "change_pct": 1.65
+      "price": 61390.58,
+      "change_pct": 1.48
     },
     {
       "label": "Gold",
-      "price": 3697.8,
-      "change_pct": 4.58
+      "price": 3697.5,
+      "change_pct": 4.57
     },
     {
       "label": "Nasdaq100",

@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-27T11:56:42+00:00",
-  "as_of_local": "2026-11-27 11:56:42 UTC",
+  "as_of_utc": "2026-11-27T12:01:46+00:00",
+  "as_of_local": "2026-11-27 12:01:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,12 +13,6 @@
       "market_cap": 3605147173690.796,
       "headlines": [
         {
-          "title": "If You Put $10,000 in the Schwab U.S. Dividend Equity ETF 10 Years Ago, Here\u2019s What You\u2019d Have Now",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/put-10-000-schwab-u-114602186.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-27T11:46:02Z"
-        },
-        {
           "title": "Stock market today: Dow, S&P 500, Nasdaq futures gain as AI jitters steady",
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html",
           "publisher": "Yahoo Finance",
@@ -28,7 +22,13 @@
           "title": "Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-27T11:37:34Z"
+          "published": "2026-11-27T11:56:50Z"
+        },
+        {
+          "title": "If You Put $10,000 in the Schwab U.S. Dividend Equity ETF 10 Years Ago, Here\u2019s What You\u2019d Have Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/put-10-000-schwab-u-114602186.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-27T11:46:02Z"
         }
       ]
     },
@@ -69,6 +69,12 @@
       "market_cap": 1436194211257.6812,
       "headlines": [
         {
+          "title": "AI Chips Update - AI Surge Accelerates Semiconductor Growth Through 2026",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-ai-surge-accelerates-113719623.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-27T11:37:19Z"
+        },
+        {
           "title": "iShares S&P 500 Growth (IVW) Adds Microsoft and Nvidia on Wednesday",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-p-500-growth-ivw-110506557.html",
           "publisher": "GuruFocus.com",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-innovation-tech-active-etf-110424675.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-27T11:04:24Z"
-        },
-        {
-          "title": "Direxion Daily Technology Bull 3X (TECL) Sells Apple and Microsoft on Nov. 25",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/direxion-daily-technology-bull-3x-110412564.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-27T11:04:12Z"
         }
       ]
     },
@@ -103,16 +103,16 @@
           "published": "2026-11-27T09:11:52Z"
         },
         {
+          "title": "He was right about AI and still lost $35 billion",
+          "url": "https://finance.yahoo.com/video/ai-still-lost-35-billion-120000023.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-27T12:00:00Z"
+        },
+        {
           "title": "Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-27T11:37:34Z"
-        },
-        {
-          "title": "Micron vs. SanDisk: Which Is the Better AI Stock to Buy for 2027?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-sandisk-better-ai-111815853.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-27T11:18:15Z"
+          "published": "2026-11-27T11:56:50Z"
         }
       ]
     },
@@ -481,8 +481,8 @@
           "name": "Winbond Electronics",
           "short": "Winbond",
           "weight_pct": 1.82,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 0.48,
+          "price": 104.0,
           "currency": "TWD"
         }
       ]
@@ -571,27 +571,22 @@
         "name": "Winbond Electronics",
         "short": "Winbond",
         "weight_pct": 1.82,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 0.48,
+        "price": 104.0,
         "currency": "TWD"
       }
     ]
   },
   "tape": [
     {
-      "label": "SPX",
-      "price": 7182.78,
-      "change_pct": -0.25
-    },
-    {
       "label": "BTC",
-      "price": 61484.76,
-      "change_pct": 1.64
+      "price": 61507.36,
+      "change_pct": 1.67
     },
     {
       "label": "Gold",
-      "price": 3698.0,
-      "change_pct": 4.59
+      "price": 3695.8,
+      "change_pct": 4.53
     },
     {
       "label": "Nasdaq100",

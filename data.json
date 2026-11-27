@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-27T11:46:37+00:00",
-  "as_of_local": "2026-11-27 11:46:37 UTC",
+  "as_of_utc": "2026-11-27T11:51:42+00:00",
+  "as_of_local": "2026-11-27 11:51:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -19,16 +21,16 @@
           "published": "2026-11-27T09:11:52Z"
         },
         {
+          "title": "Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-27T11:37:34Z"
+        },
+        {
           "title": "Is Meta Stock a Buy as Amazon Reportedly Weighs Letting Its AI Shopping Agent Back In?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-buy-amazon-reportedly-113302679.html",
           "publisher": "Motley Fool",
           "published": "2026-11-27T11:33:02Z"
-        },
-        {
-          "title": "Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-27T11:27:27Z"
         }
       ]
     },
@@ -106,7 +108,7 @@
           "title": "Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-27T11:27:27Z"
+          "published": "2026-11-27T11:37:34Z"
         },
         {
           "title": "Micron vs. SanDisk: Which Is the Better AI Stock to Buy for 2027?",
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-innovation-tech-active-etf-110424675.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-27T11:04:24Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 54.47,
-      "previous_close": 54.8,
-      "change_pct": -0.6,
-      "market_cap": 289508056488.0371,
-      "headlines": [
-        {
-          "title": "JPMorgan Active Value ETF (JAVA) Buys $30.3 Million More Cencora on Nov. 25",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-active-value-etf-java-110401647.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-27T11:04:01Z"
-        },
-        {
-          "title": "iShares PHLX SOX Semiconductor (SOXX) Sells AMD and Broadcom on Nov. 25",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semiconductor-soxx-110345625.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-27T11:03:45Z"
-        },
-        {
-          "title": "Intel\u2019s (INTC) AI Opportunity Is Growing, But There\u2019s One Big Problem Holding It Back",
-          "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-ai-opportunity-growing-031416634.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-27T03:14:16Z"
         }
       ]
     },
@@ -585,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61562.86,
-      "change_pct": 1.77
+      "price": 61466.66,
+      "change_pct": 1.61
     },
     {
       "label": "Gold",
-      "price": 3703.6,
-      "change_pct": 4.75
+      "price": 3702.6,
+      "change_pct": 4.72
     },
     {
       "label": "Nasdaq100",

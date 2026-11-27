@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-27T00:29:26+00:00",
-  "as_of_local": "2026-11-27 00:29:26 UTC",
+  "as_of_utc": "2026-11-27T00:34:27+00:00",
+  "as_of_local": "2026-11-27 00:34:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SYNA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -71,6 +69,12 @@
       "market_cap": 1436194211257.6812,
       "headlines": [
         {
+          "title": "These 2 AI Chip Stocks Are Down 36% to 39% From Their Highs. Here\u2019s What History Says Happens Next.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/2-ai-chip-stocks-down-002002142.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-27T00:20:02Z"
+        },
+        {
           "title": "5 Most Oversold Semiconductor Stocks to Buy for 2027",
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-oversold-semiconductor-stocks-194738573.html",
           "publisher": "Insider Monkey",
@@ -81,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-resets-broadcoms-12-193315984.html",
           "publisher": "TheStreet",
           "published": "2026-11-26T19:33:15Z"
-        },
-        {
-          "title": "Broadcom Stocks Edge Lower After Rebounding From an Intraday Low of $278",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-edge-lower-rebounding-183041028.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-26T18:30:41Z"
         }
       ]
     },
@@ -343,6 +341,34 @@
       ]
     },
     {
+      "symbol": "SYNA",
+      "name": "Synaptics",
+      "price": 116.63,
+      "previous_close": 116.77,
+      "change_pct": -0.12,
+      "market_cap": 4633536711.962372,
+      "headlines": [
+        {
+          "title": "Top 3 AI Infrastructure Stocks To Watch In November 2026",
+          "url": "https://finance.yahoo.com/technology/ai/articles/top-3-ai-infrastructure-stocks-091108294.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-19T09:11:08Z"
+        },
+        {
+          "title": "SYNA Q1 Earnings Beat Estimates, Revenues Miss on Weak Demand",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/syna-q1-earnings-beat-estimates-152400592.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T15:24:00Z"
+        },
+        {
+          "title": "Synaptics (SYNA) Tops Q1 Earnings Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-syna-tops-q1-earnings-000013395.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T00:00:13Z"
+        }
+      ]
+    },
+    {
       "symbol": "CEVA",
       "name": "CEVA",
       "price": 22.4,
@@ -392,8 +418,8 @@
           "name": "SK hynix",
           "short": "SK hynix",
           "weight_pct": 27.17,
-          "change_pct": 1.16,
-          "price": 1045000.0,
+          "change_pct": 0.29,
+          "price": 1036000.0,
           "currency": "KRW"
         },
         {
@@ -401,8 +427,8 @@
           "name": "Samsung Electronics Co",
           "short": "Samsung",
           "weight_pct": 19.2,
-          "change_pct": 0.47,
-          "price": 172100.0,
+          "change_pct": -0.18,
+          "price": 171000.0,
           "currency": "KRW"
         },
         {
@@ -410,8 +436,8 @@
           "name": "Kioxia Holdings",
           "short": "Kioxia",
           "weight_pct": 7.7,
-          "change_pct": 2.54,
-          "price": 7959.0,
+          "change_pct": 1.69,
+          "price": 7893.0,
           "currency": "JPY"
         },
         {
@@ -482,8 +508,8 @@
         "name": "SK hynix",
         "short": "SK hynix",
         "weight_pct": 27.17,
-        "change_pct": 1.16,
-        "price": 1045000.0,
+        "change_pct": 0.29,
+        "price": 1036000.0,
         "currency": "KRW"
       },
       {
@@ -491,8 +517,8 @@
         "name": "Samsung Electronics Co",
         "short": "Samsung",
         "weight_pct": 19.2,
-        "change_pct": 0.47,
-        "price": 172100.0,
+        "change_pct": -0.18,
+        "price": 171000.0,
         "currency": "KRW"
       },
       {
@@ -500,8 +526,8 @@
         "name": "Kioxia Holdings",
         "short": "Kioxia",
         "weight_pct": 7.7,
-        "change_pct": 2.54,
-        "price": 7959.0,
+        "change_pct": 1.69,
+        "price": 7893.0,
         "currency": "JPY"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 60421.81,
-      "change_pct": 0.07
+      "price": 60589.43,
+      "change_pct": 0.35
     },
     {
       "label": "Gold",
-      "price": 3596.6,
-      "change_pct": 1.72
+      "price": 3594.3,
+      "change_pct": 1.65
     },
     {
       "label": "Nasdaq100",

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-27T10:45:20+00:00",
-  "as_of_local": "2026-11-27 10:45:20 UTC",
+  "as_of_utc": "2026-11-27T10:50:55+00:00",
+  "as_of_local": "2026-11-27 10:50:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MRVL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,6 +12,12 @@
       "change_pct": -3.91,
       "market_cap": 3605147173690.796,
       "headlines": [
+        {
+          "title": "Does Bill Ackman Know Something Wall Street Doesn't? The Billionaire Investor Keeps Buying a Tech Stock That's Now Down 44% Over the Past Year.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-bill-ackman-know-something-104002733.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-27T10:40:02Z"
+        },
         {
           "title": "Warren Buffett's Successor, Greg Abel, Has 47% of Berkshire Hathaway's $346 Billion Portfolio Invested in 3 Proven Winners",
           "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-successor-greg-abel-102602983.html",
@@ -25,12 +29,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/spacexs-ai-business-now-nearly-102600624.html",
           "publisher": "Motley Fool",
           "published": "2026-11-27T10:26:00Z"
-        },
-        {
-          "title": "Market Chatter: Nvidia Stops Southeast Asia Chip Sales Following Proposed US Restrictions",
-          "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-stops-southeast-102254508.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-27T10:22:54Z"
         }
       ]
     },
@@ -227,6 +225,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/astera-labs-inc-alab-one-194946194.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-26T19:49:46Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "price": 130.93,
+      "previous_close": 131.57,
+      "change_pct": -0.49,
+      "market_cap": 117806340340.17786,
+      "headlines": [
+        {
+          "title": "Top 3 Undervalued Tech Stocks To Watch In November 2026",
+          "url": "https://finance.yahoo.com/technology/articles/top-3-undervalued-tech-stocks-071100555.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-27T07:11:00Z"
+        },
+        {
+          "title": "Credo Technology Group Holding (CRDO) Could Be 50% Below Fair Value After Marvell Settlement",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-group-holding-crdo-012531407.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-27T01:25:31Z"
+        },
+        {
+          "title": "Is Marvell Technology, Inc. (MRVL) a Hidden AI Infrastructure Winner for 2027?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-inc-mrvl-hidden-194807832.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-26T19:48:07Z"
         }
       ]
     },
@@ -428,8 +454,8 @@
           "name": "Seagate Technology Holdings",
           "short": "Seagate",
           "weight_pct": 4.09,
-          "change_pct": -2.1,
-          "price": 472.33,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -518,8 +544,8 @@
         "name": "Seagate Technology Holdings",
         "short": "Seagate",
         "weight_pct": 4.09,
-        "change_pct": -2.1,
-        "price": 472.33,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -559,13 +585,13 @@
     },
     {
       "label": "BTC",
-      "price": 61548.94,
-      "change_pct": 1.74
+      "price": 61595.43,
+      "change_pct": 1.82
     },
     {
       "label": "Gold",
-      "price": 3700.9,
-      "change_pct": 4.67
+      "price": 3703.9,
+      "change_pct": 4.75
     },
     {
       "label": "Nasdaq100",

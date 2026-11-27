@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-27T10:40:23+00:00",
-  "as_of_local": "2026-11-27 10:40:23 UTC",
+  "as_of_utc": "2026-11-27T10:45:20+00:00",
+  "as_of_local": "2026-11-27 10:45:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "TSM"
+    "MRVL"
   ],
   "stocks": [
     {
@@ -31,6 +31,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-stops-southeast-102254508.html",
           "publisher": "MT Newswires",
           "published": "2026-11-27T10:22:54Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (TSMC)",
+      "price": 342.34,
+      "previous_close": 349.2,
+      "change_pct": -1.96,
+      "market_cap": 1775537145772.5286,
+      "headlines": [
+        {
+          "title": "TSMC (TSM) Is Building a Semiconductor Moat That Rivals May Struggle to Cross",
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-tsm-building-semiconductor-moat-031114980.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-27T03:11:14Z"
+        },
+        {
+          "title": "Taiwan Semiconductor Stocks Slip 1.96% as Taiwan's Market Sinks 4.8% in Chip Rout",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-stocks-slip-1-190319001.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-26T19:03:19Z"
+        },
+        {
+          "title": "3 Top Stocks to Buy Before 2027 as Quantum Enters AI Data Centers",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-stocks-buy-2027-190000024.html",
+          "publisher": "Zacks",
+          "published": "2026-11-26T19:00:00Z"
         }
       ]
     },
@@ -199,34 +227,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/astera-labs-inc-alab-one-194946194.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-26T19:49:46Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 130.93,
-      "previous_close": 131.57,
-      "change_pct": -0.49,
-      "market_cap": 117806340340.17786,
-      "headlines": [
-        {
-          "title": "Top 3 Undervalued Tech Stocks To Watch In November 2026",
-          "url": "https://finance.yahoo.com/technology/articles/top-3-undervalued-tech-stocks-071100555.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-27T07:11:00Z"
-        },
-        {
-          "title": "Credo Technology Group Holding (CRDO) Could Be 50% Below Fair Value After Marvell Settlement",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-group-holding-crdo-012531407.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-27T01:25:31Z"
-        },
-        {
-          "title": "Is Marvell Technology, Inc. (MRVL) a Hidden AI Infrastructure Winner for 2027?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-inc-mrvl-hidden-194807832.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-26T19:48:07Z"
         }
       ]
     },
@@ -559,13 +559,13 @@
     },
     {
       "label": "BTC",
-      "price": 61563.24,
-      "change_pct": 1.77
+      "price": 61548.94,
+      "change_pct": 1.74
     },
     {
       "label": "Gold",
-      "price": 3699.7,
-      "change_pct": 4.64
+      "price": 3700.9,
+      "change_pct": 4.67
     },
     {
       "label": "Nasdaq100",

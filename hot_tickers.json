@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-27T19:05:57+00:00",
+  "as_of": "2026-11-27T19:21:30+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -33,10 +33,10 @@
    "volume_vs_avg": "~1.0x",
    "heat_score": 43,
    "direction": "up",
-   "why": "High Implied Volatility Sets Up Iron Condor For Dell Stock",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/m/239a90e3-8d86-3090-9b13-08baad8636d1/high-implied-volatility-sets.html",
-   "published": "2026-11-27T18:08:49+00:00",
+   "why": "Dell Stocks Jump 5.28% as $132.3 Billion AI Backlog Keeps Buyers Coming",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/dell-stocks-jump-5-28-190215807.html",
+   "published": "2026-11-27T19:02:15+00:00",
    "sector": "Chip Equipment & AI Hardware"
   },
   {
@@ -97,10 +97,10 @@
    "volume_vs_avg": "~0.5x",
    "heat_score": 39,
    "direction": "up",
-   "why": "Arm Holdings Stocks Climb 3.12% as CEO Haas Commits Through 2033",
+   "why": "Jim Cramer Likes Arm Holdings With One Supply Caveat",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-stocks-climb-3-180219496.html",
-   "published": "2026-11-27T18:02:19+00:00",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-likes-arm-holdings-184936769.html",
+   "published": "2026-11-27T18:49:36+00:00",
    "sector": "AI Chips & Compute"
   },
   {
@@ -129,10 +129,10 @@
    "volume_vs_avg": "~0.7x",
    "heat_score": 37,
    "direction": "up",
-   "why": "Tesla Takes 1.2M SF at Houston\u2019s Cedar Port Industrial Park",
+   "why": "Dow Jones Futures: Stock Market Makes Bullish Move, Tesla Leads 7 New Buys; Nvidia's Jensen Huang Heads To Capitol Hill",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/real-estate/articles/tesla-takes-1-2m-sf-181154319.html",
-   "published": "2026-11-27T18:11:54+00:00",
+   "source_url": "https://finance.yahoo.com/m/5b917298-e5b5-3d87-b1fa-f7cad345af64/dow-jones-futures%3A-stock.html",
+   "published": "2026-11-27T18:48:43+00:00",
    "sector": "Applied AI: Industrial, Defense & Vertical"
   }
  ]

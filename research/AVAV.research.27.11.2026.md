@@ -1,14 +1,14 @@
 # AVAV Research Report
-**AeroVironment, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**AeroVironment** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `AVAV.research.27.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $95.78 (2026-11-27, ~15-min delayed) |
-| Market cap | $4.87B |
-| Sector / Industry | Industrials / Aerospace & Defense |
-| Main theme | Aerospace & Defense — see catalysts below |
-| Current stance | Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-27.
 
@@ -17,11 +17,11 @@ Signed file: `AVAV.research.27.11.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-42.84%) with negative half-year (-53.78%). |
 | Fresh setup quality | Poor / broken | -75.62% from 52w high — base needs to rebuild. |
-| Fundamental quality | Weak | Negative profit margin (-10.13%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 21.73, EV/Sales 2.44. |
-| Risk level | High | Beta 1.40, ATR 8.1% of price, short float 14.54%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | High | Beta —, ATR 8.1% of price, short float —. |
 
-**Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `AVAV.research.27.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-AeroVironment, Inc., a defense technology provider, designs, develops, produces, delivers, and supports a portfolio of robotic systems and related services for government agencies and businesses in the United States and internationally. The company operates in two segments, Autonomous Systems; and Space, Cyber and Directed Energy.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 | Price vs 52-week range | Close $95.78; 52w high $392.86 (-75.62%); 52w low $86.79 (+10.36%) |
 | Trend | -42.84% vs SMA200, -23.55% vs SMA50, -12.09% vs SMA20 |
 | Momentum | RSI(14) 37.6 (neutral) |
-| Volatility | ATR(14) 7.76 (~8.1% of price); beta 1.40 |
+| Volatility | ATR(14) 7.76 (~8.1% of price); beta — |
 | Setup perspective | -75.62% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -64,43 +64,26 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-12-08 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $2.00B | Revenue growth 5.70% y/y |
-| Profitability | Gross 26.47%, operating -0.60%, net -10.13% | ROA -0.13%, ROE -4.60% |
-| Balance sheet | Cash $580.23M, debt $850.82M | Current ratio 4.26, debt/equity 19.35 |
-| Valuation | P/E —, forward P/E 21.73, P/S 2.43, P/B 1.10 | EV/Sales 2.44, EV/EBITDA 22.38 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $210.86 (24 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 91.69% |
-| Insider ownership | 0.90% |
-| Short float | 14.54% |
-| Short ratio (days to cover) | 4.0 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Blackrock Inc. | 4,038,684 | 7.95% | 2026-09-30 |
-| State Street Corporation | 2,516,784 | 4.95% | 2026-09-30 |
-| Vanguard Capital Management LLC | 1,711,248 | 3.37% | 2026-09-30 |
-| Vanguard Portfolio Management LLC | 1,532,691 | 3.02% | 2026-09-30 |
-| BAILLIE GIFFORD & CO | 977,555 | 1.92% | 2026-09-30 |
-| Heard Capital LLC | 838,790 | 1.65% | 2026-09-30 |
-| Geode Capital Management, LLC | 730,429 | 1.44% | 2026-09-30 |
-| Morgan Stanley | 728,410 | 1.43% | 2026-09-30 |
-| Stephens Investment Management Group LLC | 715,441 | 1.41% | 2026-09-30 |
-| Alyeska Investment Group, L.p. | 639,382 | 1.26% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 21.73, EV/Sales 2.44. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.40, ATR 8.1% of price, short float 14.54%. Size positions accordingly.
-- **Short interest risk:** short float 14.54% can fuel squeezes both ways around news.
-- **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 8.1% of price, short float —. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
-- **Macro/sector risk:** defense/aerospace names live and die on government budgets, appropriations timing, and program/contract awards — revenue is policy-driven and lumpy.
+- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
 | Question | Pass condition |
@@ -114,36 +97,27 @@ AeroVironment, Inc., a defense technology provider, designs, develops, produces,
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $95.78 | EV/Sales | 2.44 |
-| Market cap | $4.87B | EV/EBITDA | 22.38 |
-| Beta | 1.40 | Gross margin | 26.47% |
-| RSI(14) | 37.6 | Operating margin | -0.60% |
-| ATR(14) | 7.76 | Profit margin | -10.13% |
-| SMA20 dist | -12.09% | ROA | -0.13% |
-| SMA50 dist | -23.55% | ROE | -4.60% |
-| SMA200 dist | -42.84% | Revenue (ttm) | $2.00B |
-| 52W high | $392.86 | Revenue growth y/y | 5.70% |
-| 52W low | $86.79 | Inst. ownership | 91.69% |
-| P/E (ttm) | — | Insider ownership | 0.90% |
-| Forward P/E | 21.73 | Short float | 14.54% |
-| PEG (trailing) | 0.75 | Avg volume | 1,691,388 |
-| P/S | 2.43 | Employees | 3,991 |
-| P/B | 1.10 | Analyst rec (1=buy..5=sell) | 1.6 |
+| Price | $95.78 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 37.6 | Operating margin | — |
+| ATR(14) | 7.76 | Profit margin | — |
+| SMA20 dist | -12.09% | ROA | — |
+| SMA50 dist | -23.55% | ROE | — |
+| SMA200 dist | -42.84% | Revenue (ttm) | — |
+| 52W high | $392.86 | Revenue growth y/y | — |
+| 52W low | $86.79 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 0.75 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-11-02 | main | Keybanc | Overweight → Overweight |
-| 2026-10-22 | init | Oppenheimer | — → Outperform |
-| 2026-10-19 | main | Citizens | Market Outperform → Market Outperform |
-| 2026-10-16 | init | Macquarie | — → Outperform |
-| 2026-10-09 | init | Barclays | — → Equal-Weight |
-| 2026-10-06 | init | Rothschild & Co | — → Neutral |
-| 2026-09-16 | main | Jefferies | Buy → Buy |
-| 2026-09-11 | main | B of A Securities | Buy → Buy |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-AVAV: Low momentum / weak fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+AVAV: Low momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

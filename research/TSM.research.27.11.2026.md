@@ -1,14 +1,14 @@
 # TSM Research Report
-**Taiwan Semiconductor Manufacturing Company Limited** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Taiwan Semiconductor (TSMC)** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `TSM.research.27.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $353.34 (2026-11-27, ~15-min delayed) |
-| Market cap | $1.83T |
-| Sector / Industry | Technology / Semiconductors |
+| Market cap | — |
+| Sector / Industry | — / — |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
+| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-27.
 
@@ -17,11 +17,11 @@ Signed file: `TSM.research.27.11.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-12.14%) with negative half-year (-15.14%). |
 | Fresh setup quality | Poor / broken | -27.27% from 52w high — base needs to rebuild. |
-| Fundamental quality | Strong | Profit margin 51.12%, revenue growth 50.90%. |
-| Value attractiveness | Reasonable | Forward P/E 15.09, EV/Sales 2.29. |
-| Risk level | High | Beta 1.23, ATR 6.3% of price, short float 0.69%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | High | Beta —, ATR 6.3% of price, short float —. |
 
-**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `TSM.research.27.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiaries, manufactures, packages, tests, and sells integrated circuits and other semiconductor devices in Taiwan, China, Europe, the Middle East, Africa, Japan, the United States, and internationally. It provides various wafer fabrication processes, such as processes to manufacture complementary metal- oxide-semiconductor (CMOS) logic, mixed-signal, radio frequency, embedded memory, bipolar CMOS mixed-signal, and others.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 | Price vs 52-week range | Close $353.34; 52w high $485.80 (-27.27%); 52w low $274.80 (+28.58%) |
 | Trend | -12.14% vs SMA200, -15.21% vs SMA50, -5.92% vs SMA20 |
 | Momentum | RSI(14) 42.2 (neutral) |
-| Volatility | ATR(14) 22.26 (~6.3% of price); beta 1.23 |
+| Volatility | ATR(14) 22.26 (~6.3% of price); beta — |
 | Setup perspective | -27.27% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -64,40 +64,26 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2027-01-14 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $4.94T | Revenue growth 50.90% y/y |
-| Profitability | Gross 65.85%, operating 57.96%, net 51.12% | ROA 20.58%, ROE 41.86% |
-| Balance sheet | Cash $4.02T, debt $1.07T | Current ratio 2.58, debt/equity 15.19 |
-| Valuation | P/E 22.90, forward P/E 15.09, P/S 0.37, P/B 67.87 | EV/Sales 2.29, EV/EBITDA 3.14 |
-| Growth expectations | Earnings growth 68.70%, EPS q/q 68.70% | Analyst mean target $586.69 (20 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 15.42% |
-| Insider ownership | 0.02% |
-| Short float | 0.69% |
-| Short ratio (days to cover) | 2.3 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| FMR, LLC | 65,370,233 | 1.26% | 2026-09-30 |
-| Capital World Investors | 33,796,063 | 0.65% | 2026-09-30 |
-| Sanders Capital, LLC | 24,455,974 | 0.47% | 2026-09-30 |
-| Blackrock Inc. | 19,522,629 | 0.38% | 2026-09-30 |
-| Fisher Asset Management, LLC | 18,932,587 | 0.37% | 2026-09-30 |
-| JPMORGAN CHASE & CO | 17,728,466 | 0.34% | 2026-09-30 |
-| Van Eck Associates Corporation | 17,214,174 | 0.33% | 2026-09-30 |
-| Bank of America Corporation | 16,736,278 | 0.32% | 2026-09-30 |
-| Morgan Stanley | 16,194,256 | 0.31% | 2026-09-30 |
-| Price (T.Rowe) Associates Inc | 12,370,378 | 0.24% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.23, ATR 6.3% of price, short float 0.69%. Size positions accordingly.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 6.3% of price, short float —. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
-- **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
+- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
 | Question | Pass condition |
@@ -111,36 +97,27 @@ Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiari
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $353.34 | EV/Sales | 2.29 |
-| Market cap | $1.83T | EV/EBITDA | 3.14 |
-| Beta | 1.23 | Gross margin | 65.85% |
-| RSI(14) | 42.2 | Operating margin | 57.96% |
-| ATR(14) | 22.26 | Profit margin | 51.12% |
-| SMA20 dist | -5.92% | ROA | 20.58% |
-| SMA50 dist | -15.21% | ROE | 41.86% |
-| SMA200 dist | -12.14% | Revenue (ttm) | $4.94T |
-| 52W high | $485.80 | Revenue growth y/y | 50.90% |
-| 52W low | $274.80 | Inst. ownership | 15.42% |
-| P/E (ttm) | 22.90 | Insider ownership | 0.02% |
-| Forward P/E | 15.09 | Short float | 0.69% |
-| PEG (trailing) | 0.58 | Avg volume | 13,260,703 |
-| P/S | 0.37 | Employees | 76,907 |
-| P/B | 67.87 | Analyst rec (1=buy..5=sell) | — |
+| Price | $353.34 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 42.2 | Operating margin | — |
+| ATR(14) | 22.26 | Profit margin | — |
+| SMA20 dist | -5.92% | ROA | — |
+| SMA50 dist | -15.21% | ROE | — |
+| SMA200 dist | -12.14% | Revenue (ttm) | — |
+| 52W high | $485.80 | Revenue growth y/y | — |
+| 52W low | $274.80 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 0.58 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-11-04 | main | Bernstein | Outperform → Outperform |
-| 2026-10-16 | main | Barclays | Overweight → Overweight |
-| 2026-10-16 | main | DA Davidson | Buy → Buy |
-| 2026-10-15 | main | Needham | Buy → Buy |
-| 2026-10-06 | main | Barclays | Overweight → Overweight |
-| 2026-09-02 | init | Stifel | — → Buy |
-| 2026-08-11 | main | Bernstein | Outperform → Outperform |
-| 2026-07-27 | main | Needham | Buy → Buy |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-TSM: Low momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+TSM: Low momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

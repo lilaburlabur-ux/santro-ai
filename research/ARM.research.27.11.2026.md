@@ -1,14 +1,14 @@
 # ARM Research Report
-**Arm Holdings plc** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Arm Holdings** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `ARM.research.27.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $171.55 (2026-11-27, ~15-min delayed) |
-| Market cap | $183.56B |
-| Sector / Industry | Technology / Semiconductors |
+| Market cap | — |
+| Sector / Industry | — / — |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Low technical momentum, strong fundamentals, value: low (expensive), risk: high. |
+| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-27.
 
@@ -17,11 +17,11 @@ Signed file: `ARM.research.27.11.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-27.11%) with negative half-year (-51.44%). |
 | Fresh setup quality | Poor / broken | -60.96% from 52w high — base needs to rebuild. |
-| Fundamental quality | Strong | Profit margin 17.13%, revenue growth 27.10%. |
-| Value attractiveness | Low (expensive) | Forward P/E 55.57, EV/Sales 31.06. |
-| Risk level | High | Beta 3.94, ATR 10.0% of price, short float 11.45%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | High | Beta —, ATR 10.0% of price, short float —. |
 
-**Bottom line:** Low technical momentum, strong fundamentals, value: low (expensive), risk: high.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `ARM.research.27.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-Arm Holdings plc researches, develops, licenses, and markets central processing unit (CPU) intellectual property (IP), graphics processing unit IP, systems IP, compute subsystems (CSS), and associated software, tools and related services. The company provides a product portfolio, including CPU IP, GPU and neural processing unit (NPU) accelerators, system IP such as interconnects, compute platform products including pre-integrated CSSs, and development tools and software.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 | Price vs 52-week range | Close $171.55; 52w high $439.46 (-60.96%); 52w low $104.55 (+64.08%) |
 | Trend | -27.11% vs SMA200, -26.45% vs SMA50, -5.79% vs SMA20 |
 | Momentum | RSI(14) 42.2 (neutral) |
-| Volatility | ATR(14) 17.12 (~10.0% of price); beta 3.94 |
+| Volatility | ATR(14) 17.12 (~10.0% of price); beta — |
 | Setup perspective | -60.96% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -64,42 +64,26 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2027-02-03 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $5.46B | Revenue growth 27.10% y/y |
-| Profitability | Gross 97.44%, operating 17.02%, net 17.13% | ROA 5.50%, ROE 11.35% |
-| Balance sheet | Cash $3.62B, debt $500.00M | Current ratio 6.35, debt/equity 5.50 |
-| Valuation | P/E 197.18, forward P/E 55.57, P/S 33.59, P/B 20.20 | EV/Sales 31.06, EV/EBITDA 150.48 |
-| Growth expectations | Earnings growth -45.50%, EPS q/q -45.40% | Analyst mean target $272.43 (40 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 95.76% |
-| Insider ownership | 0.08% |
-| Short float | 11.45% |
-| Short ratio (days to cover) | 2.9 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Invesco Ltd. | 13,201,742 | 1.24% | 2026-09-30 |
-| Dz Bank Ag Deutsche Zentral Genossenschafts Bank, Frankfurt Am Main | 4,910,737 | 0.46% | 2026-09-30 |
-| Morgan Stanley | 3,805,594 | 0.36% | 2026-09-30 |
-| Goldman Sachs Group Inc | 3,545,916 | 0.33% | 2026-09-30 |
-| Capital Research Global Investors | 3,240,443 | 0.30% | 2026-09-30 |
-| Van Eck Associates Corporation | 2,950,976 | 0.28% | 2026-09-30 |
-| Arrowstreet Capital, Limited Partnership | 2,728,126 | 0.26% | 2026-09-30 |
-| Blackrock Inc. | 2,211,935 | 0.21% | 2026-09-30 |
-| FMR, LLC | 2,178,123 | 0.20% | 2026-09-30 |
-| Capital International Investors | 2,048,256 | 0.19% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 55.57, EV/Sales 31.06. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 3.94, ATR 10.0% of price, short float 11.45%. Size positions accordingly.
-- **Short interest risk:** short float 11.45% can fuel squeezes both ways around news.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 10.0% of price, short float —. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
-- **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
+- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
 | Question | Pass condition |
@@ -113,36 +97,27 @@ Arm Holdings plc researches, develops, licenses, and markets central processing 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $171.55 | EV/Sales | 31.06 |
-| Market cap | $183.56B | EV/EBITDA | 150.48 |
-| Beta | 3.94 | Gross margin | 97.44% |
-| RSI(14) | 42.2 | Operating margin | 17.02% |
-| ATR(14) | 17.12 | Profit margin | 17.13% |
-| SMA20 dist | -5.79% | ROA | 5.50% |
-| SMA50 dist | -26.45% | ROE | 11.35% |
-| SMA200 dist | -27.11% | Revenue (ttm) | $5.46B |
-| 52W high | $439.46 | Revenue growth y/y | 27.10% |
-| 52W low | $104.55 | Inst. ownership | 95.76% |
-| P/E (ttm) | 197.18 | Insider ownership | 0.08% |
-| Forward P/E | 55.57 | Short float | 11.45% |
-| PEG (trailing) | 1.24 | Avg volume | 5,571,665 |
-| P/S | 33.59 | Employees | 9,584 |
-| P/B | 20.20 | Analyst rec (1=buy..5=sell) | 1.9 |
+| Price | $171.55 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 42.2 | Operating margin | — |
+| ATR(14) | 17.12 | Profit margin | — |
+| SMA20 dist | -5.79% | ROA | — |
+| SMA50 dist | -26.45% | ROE | — |
+| SMA200 dist | -27.11% | Revenue (ttm) | — |
+| 52W high | $439.46 | Revenue growth y/y | — |
+| 52W low | $104.55 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 1.24 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-11-06 | main | UBS | Buy → Buy |
-| 2026-11-05 | main | JP Morgan | Overweight → Overweight |
-| 2026-11-05 | main | TD Cowen | Buy → Buy |
-| 2026-11-05 | main | RBC Capital | Outperform → Outperform |
-| 2026-11-05 | main | Barclays | Overweight → Overweight |
-| 2026-11-05 | main | Wells Fargo | Overweight → Overweight |
-| 2026-11-05 | reit | Piper Sandler | Overweight → Overweight |
-| 2026-07-31 | main | Rosenblatt | Buy → Buy |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-ARM: Low momentum / strong fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+ARM: Low momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

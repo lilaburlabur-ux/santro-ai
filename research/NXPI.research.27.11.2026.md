@@ -1,14 +1,14 @@
 # NXPI Research Report
-**NXP Semiconductors N.V.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**NXP Semiconductors** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `NXPI.research.27.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $253.19 (2026-11-27, ~15-min delayed) |
-| Market cap | $63.82B |
-| Sector / Industry | Technology / Semiconductors |
+| Market cap | — |
+| Sector / Industry | — / — |
 | Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-27.
 
@@ -17,11 +17,11 @@ Signed file: `NXPI.research.27.11.2026`
 |---|---|---|
 | Technical momentum | Moderate | 1Y +34.89%; price +2.35% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -23.29% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Strong | Profit margin 23.39%, revenue growth 19.30%. |
-| Value attractiveness | Reasonable | Forward P/E 13.79, EV/Sales 4.97. |
-| Risk level | High | Beta 1.86, ATR 5.5% of price, short float 3.01%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | High | Beta —, ATR 5.5% of price, short float —. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `NXPI.research.27.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-NXP Semiconductors N.V. provides semiconductor products in the United States, Germany, Japan, South Korea, Taiwan, Singapore, the Netherlands, Mainland China, Hong Kong, and internationally.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Price vs 52-week range | Close $253.19; 52w high $330.06 (-23.29%); 52w low $185.92 (+36.18%) |
 | Trend | +2.35% vs SMA200, +3.74% vs SMA50, -0.61% vs SMA20 |
 | Momentum | RSI(14) 51.8 (neutral) |
-| Volatility | ATR(14) 13.97 (~5.5% of price); beta 1.86 |
+| Volatility | ATR(14) 13.93 (~5.5% of price); beta — |
 | Setup perspective | -23.29% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,39 +64,25 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2027-02-01 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $13.80B | Revenue growth 19.30% y/y |
-| Profitability | Gross 56.46%, operating 33.84%, net 23.39% | ROA 10.82%, ROE 28.67% |
-| Balance sheet | Cash $3.94B, debt $10.98B | Current ratio 2.12, debt/equity 88.07 |
-| Valuation | P/E 19.92, forward P/E 13.79, P/S 4.63, P/B 5.28 | EV/Sales 4.97, EV/EBITDA 12.74 |
-| Growth expectations | Earnings growth 40.30%, EPS q/q 40.10% | Analyst mean target $302.21 (29 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 100.86% |
-| Insider ownership | 0.39% |
-| Short float | 3.01% |
-| Short ratio (days to cover) | 1.3 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Blackrock Inc. | 24,425,833 | 9.69% | 2026-09-30 |
-| JPMORGAN CHASE & CO | 18,018,932 | 7.15% | 2026-09-30 |
-| State Street Corporation | 11,863,820 | 4.71% | 2026-09-30 |
-| Invesco Ltd. | 10,839,007 | 4.30% | 2026-09-30 |
-| FMR, LLC | 9,303,305 | 3.69% | 2026-09-30 |
-| Wellington Management Group, LLP | 8,508,260 | 3.38% | 2026-09-30 |
-| Vanguard Capital Management LLC | 8,232,990 | 3.27% | 2026-09-30 |
-| Massachusetts Financial Services Co. | 5,858,252 | 2.32% | 2026-09-30 |
-| Geode Capital Management, LLC | 5,761,974 | 2.29% | 2026-09-30 |
-| Boston Partners | 5,095,582 | 2.02% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.86, ATR 5.5% of price, short float 3.01%. Size positions accordingly.
-- **Macro/sector risk:** semis are high-beta to AI capex sentiment, rates, and export-control headlines.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 5.5% of price, short float —. Size positions accordingly.
+- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
 | Question | Pass condition |
@@ -110,36 +96,27 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $253.19 | EV/Sales | 4.97 |
-| Market cap | $63.82B | EV/EBITDA | 12.74 |
-| Beta | 1.86 | Gross margin | 56.46% |
-| RSI(14) | 51.8 | Operating margin | 33.84% |
-| ATR(14) | 13.97 | Profit margin | 23.39% |
-| SMA20 dist | -0.61% | ROA | 10.82% |
-| SMA50 dist | +3.74% | ROE | 28.67% |
-| SMA200 dist | +2.35% | Revenue (ttm) | $13.80B |
-| 52W high | $330.06 | Revenue growth y/y | 19.30% |
-| 52W low | $185.92 | Inst. ownership | 100.86% |
-| P/E (ttm) | 19.92 | Insider ownership | 0.39% |
-| Forward P/E | 13.79 | Short float | 3.01% |
-| PEG (trailing) | 0.47 | Avg volume | 4,336,847 |
-| P/S | 4.63 | Employees | 32,169 |
-| P/B | 5.28 | Analyst rec (1=buy..5=sell) | 1.9 |
+| Price | $253.19 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 51.8 | Operating margin | — |
+| ATR(14) | 13.93 | Profit margin | — |
+| SMA20 dist | -0.61% | ROA | — |
+| SMA50 dist | +3.74% | ROE | — |
+| SMA200 dist | +2.35% | Revenue (ttm) | — |
+| 52W high | $330.06 | Revenue growth y/y | — |
+| 52W low | $185.92 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 0.47 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-10-28 | main | Jefferies | Buy → Buy |
-| 2026-10-28 | main | Citigroup | Neutral → Neutral |
-| 2026-10-28 | main | Truist Securities | Buy → Buy |
-| 2026-10-28 | main | TD Cowen | Buy → Buy |
-| 2026-10-28 | main | Stifel | Hold → Hold |
-| 2026-10-28 | main | Wells Fargo | Equal-Weight → Equal-Weight |
-| 2026-10-28 | main | Evercore ISI Group | Outperform → Outperform |
-| 2026-10-28 | main | Keybanc | Overweight → Overweight |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-NXPI: Moderate momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+NXPI: Moderate momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

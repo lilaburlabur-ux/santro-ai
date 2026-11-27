@@ -36,10 +36,10 @@ Advanced Micro Devices, Inc. operates as a semiconductor company internationally
 
 | Headline | Source | Date |
 |---|---|---|
+| Eric Trump-Backed Robot Startup’s Employees Lose Health Insurance After Weeks Without Pay as Company Scrambles for $150 Million Lifeline: Report | Benzinga | 2026-11-27 |
 | 5 Most Oversold Semiconductor Stocks to Buy for 2027 | Insider Monkey | 2026-11-26 |
 | KHC, PINS, AMD: 3 Bets I’d Consider Waging From Thanksgiving Eve’s Top 25 Unusually Active Options | Barchart | 2026-11-26 |
 | AMD Stocks Slip 1.75% After Filing Registers 337 Million Shares for Resale | GuruFocus.com | 2026-11-26 |
-| nVent Electric (NVT) Brings AI Data Center Cooling And Power Systems To SC26 | Simply Wall St. | 2026-11-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

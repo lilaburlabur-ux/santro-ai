@@ -36,10 +36,10 @@ Micron Technology, Inc. engages in the provision of semiconductor memory and sto
 
 | Headline | Source | Date |
 |---|---|---|
+| Micron (MU) Has Secured $32 Billion in Customer Commitments. Here’s Why That Matters | Insider Monkey | 2026-11-27 |
 | Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday | Investor's Business Daily | 2026-11-27 |
 | Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Semiconductor Stock Through 2030, This Would Be It. | Motley Fool | 2026-11-26 |
 | Why It’s Hard to Write Off Micron (MU) Even with a Memory Peak in Sight | TipRanks | 2026-11-26 |
-| 5 Most Oversold Semiconductor Stocks to Buy for 2027 | Insider Monkey | 2026-11-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

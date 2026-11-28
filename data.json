@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-28T17:40:16+00:00",
-  "as_of_local": "2026-11-28 17:40:16 UTC",
+  "as_of_utc": "2026-11-28T17:55:21+00:00",
+  "as_of_local": "2026-11-28 17:55:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARM"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,6 +12,12 @@
       "change_pct": 0.8,
       "market_cap": 3633882162643.4326,
       "headlines": [
+        {
+          "title": "4 ETFs I'm Holding for the Next 20 Years -- Even If the Market Crashes",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/4-etfs-im-holding-next-173502105.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-28T17:35:02Z"
+        },
         {
           "title": "Jensen Is Back: 5 AI Stocks Poised to Soar After Nvidia\u2019s Shocking Reversal",
           "url": "https://finance.yahoo.com/technology/ai/articles/jensen-back-5-ai-stocks-173347195.html",
@@ -25,12 +29,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/jensen-back-10-ai-stocks-172943500.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-28T17:29:43Z"
-        },
-        {
-          "title": "Spelling Out Intrinsic Value Using the Alphabet",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spelling-intrinsic-value-using-alphabet-172002666.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-28T17:20:02Z"
         }
       ]
     },
@@ -71,6 +69,12 @@
       "market_cap": 1490995534552.5454,
       "headlines": [
         {
+          "title": "Broadcom vs. Intel: Which Technology Stock Is a Better Buy for 2027?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-vs-intel-technology-stock-173202991.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-28T17:32:02Z"
+        },
+        {
           "title": "Marvell Stock Heads Into Tuesday\u2019s Earnings on Pace for Its Worst November Since 2000",
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-heads-tuesday-earnings-131729171.html",
           "publisher": "24/7 Wall St.",
@@ -81,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/dow-jones-just-had-best-120232231.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-28T12:02:32Z"
-        },
-        {
-          "title": "SemiAnalysis\u2019s Dylan Patel Thinks Anthropic Could \u201cBeat the $300 Billion\u201d Run Rate by 2027\u2019s End. Here\u2019s What That\u2019s Worth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/semianalysis-dylan-patel-thinks-anthropic-112109121.html",
-          "publisher": "TIKR",
-          "published": "2026-11-28T11:21:09Z"
         }
       ]
     },
@@ -199,6 +197,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-soared-most-during-wild-201600003.html",
           "publisher": "MarketWatch",
           "published": "2026-11-27T20:16:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "price": 171.55,
+      "previous_close": 161.51,
+      "change_pct": 6.22,
+      "market_cap": 183558503265.38086,
+      "headlines": [
+        {
+          "title": "Jim Cramer Likes Arm Holdings With One Supply Caveat",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-likes-arm-holdings-184936769.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-27T18:49:36Z"
+        },
+        {
+          "title": "Arm Holdings Stocks Climb 3.12% as CEO Haas Commits Through 2033",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-stocks-climb-3-180219496.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-27T18:02:19Z"
+        },
+        {
+          "title": "PLTR vs. ARM: Which AI-Tech Stock is Better Positioned Now?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/pltr-vs-arm-ai-tech-165200990.html",
+          "publisher": "Zacks",
+          "published": "2026-11-27T16:52:00Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 59429.81,
-      "change_pct": -0.73
+      "price": 59358.34,
+      "change_pct": -0.85
     },
     {
       "label": "Gold",

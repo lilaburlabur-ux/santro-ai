@@ -18,7 +18,7 @@ Signed file: `NXPI.research.28.11.2026`
 | Technical momentum | Moderate | 1Y +34.89%; price +2.35% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -23.29% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 23.39%, revenue growth 19.30%. |
-| Value attractiveness | Reasonable | Forward P/E 13.79, EV/Sales 5.16. |
+| Value attractiveness | Reasonable | Forward P/E 13.81, EV/Sales 5.16. |
 | Risk level | High | Beta 1.86, ATR 5.5% of price, short float 3.01%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -68,7 +68,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | Revenue (ttm) | $13.80B | Revenue growth 19.30% y/y |
 | Profitability | Gross 56.46%, operating 33.84%, net 23.39% | ROA 10.82%, ROE 28.67% |
 | Balance sheet | Cash $3.94B, debt $10.98B | Current ratio 2.12, debt/equity 88.07 |
-| Valuation | P/E 19.92, forward P/E 13.79, P/S 4.63, P/B 5.28 | EV/Sales 5.16, EV/EBITDA 13.22 |
+| Valuation | P/E 19.92, forward P/E 13.81, P/S 4.63, P/B 5.28 | EV/Sales 5.16, EV/EBITDA 13.22 |
 | Growth expectations | Earnings growth 40.30%, EPS q/q 40.10% | Analyst mean target $302.21 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ NXP Semiconductors N.V. provides semiconductor products in the United States, Ge
 | 52W high | $330.06 | Revenue growth y/y | 19.30% |
 | 52W low | $185.92 | Inst. ownership | 100.86% |
 | P/E (ttm) | 19.92 | Insider ownership | 0.39% |
-| Forward P/E | 13.79 | Short float | 3.01% |
+| Forward P/E | 13.81 | Short float | 3.01% |
 | PEG (trailing) | 0.47 | Avg volume | 4,336,847 |
 | P/S | 4.63 | Employees | 32,169 |
 | P/B | 5.28 | Analyst rec (1=buy..5=sell) | 1.9 |

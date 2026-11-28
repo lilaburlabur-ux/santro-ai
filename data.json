@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-28T17:19:56+00:00",
-  "as_of_local": "2026-11-28 17:19:56 UTC",
+  "as_of_utc": "2026-11-28T17:25:09+00:00",
+  "as_of_local": "2026-11-28 17:25:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -14,6 +12,12 @@
       "change_pct": 0.8,
       "market_cap": 3633882162643.4326,
       "headlines": [
+        {
+          "title": "Meta Soars 12% in a Week as Talks With Amazon Could Reopen Its Store to Muse. Time to Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-soars-12-week-talks-170605216.html",
+          "publisher": "TIKR",
+          "published": "2026-11-28T17:06:05Z"
+        },
         {
           "title": "Tech Stock Sell-Off: Down 13%, Is Amazon a Buy Now?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stock-sell-off-down-170502205.html",
@@ -25,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-investors-watch-during-jensen-165506619.html",
           "publisher": "Motley Fool",
           "published": "2026-11-28T16:55:06Z"
-        },
-        {
-          "title": "Alphabet Stock Is Near a 52-Week Low. Here's Why I'd Buy the Dip.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-near-52-week-165502433.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-28T16:55:02Z"
         }
       ]
     },
@@ -143,6 +141,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-56-59-off-june-143448665.html",
           "publisher": "TIKR",
           "published": "2026-11-28T14:34:48Z"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 57.4,
+      "previous_close": 54.47,
+      "change_pct": 5.38,
+      "market_cap": 305081008110.0464,
+      "headlines": [
+        {
+          "title": "Intel Is Up 56% in a Year but 59% Off Its June High: Sell, or Load Up?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-56-59-off-june-143448665.html",
+          "publisher": "TIKR",
+          "published": "2026-11-28T14:34:48Z"
+        },
+        {
+          "title": "Intel (INTC) Expands Foundry Deal With A Major Cloud Customer",
+          "url": "https://finance.yahoo.com/technology/articles/intel-intc-expands-foundry-deal-130853190.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-28T13:08:53Z"
+        },
+        {
+          "title": "\u201cDemand Is Higher Than Supply\u201d: AMD Just Dropped 24% in a Month. Is It Time to Sell, or Load Up?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/demand-higher-supply-amd-just-125020546.html",
+          "publisher": "TIKR",
+          "published": "2026-11-28T12:50:20Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 59551.9,
-      "change_pct": -0.53
+      "price": 59473.44,
+      "change_pct": -0.66
     },
     {
       "label": "Gold",

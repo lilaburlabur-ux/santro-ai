@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-28T11:54:50+00:00",
-  "as_of_local": "2026-11-28 11:54:50 UTC",
+  "as_of_utc": "2026-11-28T12:09:57+00:00",
+  "as_of_local": "2026-11-28 12:09:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NVDA"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 150.49,
+      "previous_close": 149.3,
+      "change_pct": 0.8,
+      "market_cap": 3633882162643.4326,
+      "headlines": [
+        {
+          "title": "Stocks are chasing a rare buy signal as markets brace for a potential Fed hike: Chart of the Day",
+          "url": "https://finance.yahoo.com/markets/article/stocks-are-chasing-a-rare-buy-signal-as-markets-brace-for-a-potential-fed-hike-chart-of-the-day-120524657.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-28T12:05:24Z"
+        },
+        {
+          "title": "Dan Ives Calls Nvidia\u2019s China and Asia Exposure a \u201cContainable 15% to 20%\u201d of Revenue. Huang Faces Congress Next Week",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-calls-nvidia-china-114608796.html",
+          "publisher": "TIKR",
+          "published": "2026-11-28T11:46:08Z"
+        },
+        {
+          "title": "History Says What Tesla Stock Does After Its Annual Meeting. This Year's Is Dec. 3.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/history-says-tesla-stock-does-114302466.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-28T11:43:02Z"
+        }
+      ]
+    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -99,6 +125,12 @@
       "market_cap": 702641552503.826,
       "headlines": [
         {
+          "title": "Dan Ives Calls Nvidia\u2019s China and Asia Exposure a \u201cContainable 15% to 20%\u201d of Revenue. Huang Faces Congress Next Week",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-calls-nvidia-china-114608796.html",
+          "publisher": "TIKR",
+          "published": "2026-11-28T11:46:08Z"
+        },
+        {
           "title": "\u2018He Doesn\u2019t Have Integrity\u2019: Suze Orman Says Jensen Huang Should \u2018Never, Ever, Ever Come Back\u2019 but Won\u2019t Sell a Single Nvidia Share",
           "url": "https://finance.yahoo.com/markets/stocks/articles/doesn-t-integrity-suze-orman-091641660.html",
           "publisher": "24/7 Wall St.",
@@ -109,12 +141,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/openai-457-mw-tensorwave-deal-082950487.html",
           "publisher": "Stocktwits",
           "published": "2026-11-28T08:29:50Z"
-        },
-        {
-          "title": "Not Good: Nvidia Chips Turn Up at China Site Tied to Alice Huang. Its AA Rating Is at Risk",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/not-good-nvidia-chips-turn-075016766.html",
-          "publisher": "TIKR",
-          "published": "2026-11-28T07:50:16Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 59161.36,
-      "change_pct": -1.18
+      "price": 59252.31,
+      "change_pct": -1.03
     },
     {
       "label": "Gold",

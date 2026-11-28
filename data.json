@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-11-28T11:39:47+00:00",
-  "as_of_local": "2026-11-28 11:39:47 UTC",
+  "as_of_utc": "2026-11-28T11:54:50+00:00",
+  "as_of_local": "2026-11-28 11:54:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NVDA"
+  ],
   "stocks": [
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "price": 150.49,
-      "previous_close": 149.3,
-      "change_pct": 0.8,
-      "market_cap": 3633882162643.4326,
-      "headlines": [
-        {
-          "title": "Jensen Huang Returns To Nvidia, Musk Says 'The Mistake Has Been Corrected,' And Trump Weighs In: Mag 7 Voices This Week",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-returns-nvidia-musk-113000139.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-28T11:30:00Z"
-        },
-        {
-          "title": "Ripple's Stablecoin Is Surging in Popularity. So Why Has the Price of XRP Dipped Below $1?",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/ripples-stablecoin-surging-popularity-why-112002524.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-28T11:20:02Z"
-        },
-        {
-          "title": "The Best 3 Dividend-Raising Stocks to Own Until 2030",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/best-3-dividend-raising-stocks-111202975.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-28T11:12:02Z"
-        }
-      ]
-    },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor (TSMC)",
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 59152.6,
-      "change_pct": -1.19
+      "price": 59161.36,
+      "change_pct": -1.18
     },
     {
       "label": "Gold",

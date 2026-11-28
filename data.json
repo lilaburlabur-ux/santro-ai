@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-28T07:07:20+00:00",
-  "as_of_local": "2026-11-28 07:07:20 UTC",
+  "as_of_utc": "2026-11-28T07:12:30+00:00",
+  "as_of_local": "2026-11-28 07:12:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MRVL"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/pltr-vs-arm-ai-tech-165200990.html",
           "publisher": "Zacks",
           "published": "2026-11-27T16:52:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "price": 140.54,
-      "previous_close": 130.93,
-      "change_pct": 7.34,
-      "market_cap": 126453091015.37137,
-      "headlines": [
-        {
-          "title": "Astera Labs is suddenly back in the AI spotlight after rough patch",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-suddenly-back-ai-191700851.html",
-          "publisher": "TheStreet",
-          "published": "2026-11-27T19:17:00Z"
-        },
-        {
-          "title": "Marvell Technology (MRVL) Could Be 58% Undervalued Following Its Penguin Solutions Tie Up",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-mrvl-could-58-190952326.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-27T19:09:52Z"
-        },
-        {
-          "title": "Wall Street ends higher as battered AI stocks gain in volatile week",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-surge-investors-073405748.html",
-          "publisher": "Reuters",
-          "published": "2026-11-27T18:37:33Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 59499.68,
-      "change_pct": -1.64
+      "price": 59438.82,
+      "change_pct": -1.75
     },
     {
       "label": "Gold",

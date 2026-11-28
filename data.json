@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-28T06:37:18+00:00",
-  "as_of_local": "2026-11-28 06:37:18 UTC",
+  "as_of_utc": "2026-11-28T06:52:18+00:00",
+  "as_of_local": "2026-11-28 06:52:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TSM"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/video/pacsun-ceo-talks-brand-resurgence-holiday-shopping-season-boom-154316985.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-27T15:43:16Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "name": "Taiwan Semiconductor (TSMC)",
-      "price": 353.34,
-      "previous_close": 342.34,
-      "change_pct": 3.21,
-      "market_cap": 1832588348706.5286,
-      "headlines": [
-        {
-          "title": "Taiwan, South Korea share chip whiplash but not the factory boom",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-south-korea-share-chip-050619945.html",
-          "publisher": "IntelliNews",
-          "published": "2026-11-28T05:06:19Z"
-        },
-        {
-          "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-climb-1-84-194609822.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-27T19:46:09Z"
-        },
-        {
-          "title": "Stanley Druckenmiller, David Tepper and 5 Other Famous Investors Own Taiwan Semiconductor. Here\u2019s Who Sold Recently",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-david-tepper-5-182819474.html",
-          "publisher": "TIKR",
-          "published": "2026-11-27T18:28:19Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 59800.45,
-      "change_pct": -1.15
+      "price": 59777.39,
+      "change_pct": -1.19
     },
     {
       "label": "Gold",

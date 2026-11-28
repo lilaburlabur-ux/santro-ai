@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-28T06:22:05+00:00",
-  "as_of_local": "2026-11-28 06:22:05 UTC",
+  "as_of_utc": "2026-11-28T06:37:18+00:00",
+  "as_of_local": "2026-11-28 06:37:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 1490995534552.5454,
       "headlines": [
         {
+          "title": "AXT Inc. (AXTI) Joins the Market\u2019s Biggest Winners",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/axt-inc-axti-joins-market-062350204.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-28T06:23:50Z"
+        },
+        {
           "title": "Plot Twist: Nvidia\u2019s Vera Rubin Gets 2-6.5x GB300\u2019s Tokens per Dollar. Amazon\u2019s Trainium Edge Was Against the Old Chip",
           "url": "https://finance.yahoo.com/technology/articles/plot-twist-nvidia-vera-rubin-232355877.html",
           "publisher": "TIKR",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-back-nvidia-nvda-210600721.html",
           "publisher": "TipRanks",
           "published": "2026-11-27T21:06:00Z"
-        },
-        {
-          "title": "What Broadcom Stock's Google Chip Order Cut Means For Shareholders",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-google-chip-order-201047235.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-27T20:10:47Z"
         }
       ]
     },
@@ -401,8 +401,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": null,
-      "change_pct": 0.0,
+      "price": 37.57,
+      "change_pct": 7.87,
       "holdings": [
         {
           "symbol": "MU",
@@ -491,8 +491,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": null,
-    "change_pct": 0.0,
+    "price": 37.57,
+    "change_pct": 7.87,
     "holdings": [
       {
         "symbol": "MU",
@@ -585,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 59743.67,
-      "change_pct": -1.24
+      "price": 59800.45,
+      "change_pct": -1.15
     },
     {
       "label": "Gold",

@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-28T15:59:28+00:00",
-  "as_of_local": "2026-11-28 15:59:28 UTC",
+  "as_of_utc": "2026-11-28T16:14:28+00:00",
+  "as_of_local": "2026-11-28 16:14:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "INTC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -143,6 +141,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-56-59-off-june-143448665.html",
           "publisher": "TIKR",
           "published": "2026-11-28T14:34:48Z"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "price": 57.4,
+      "previous_close": 54.47,
+      "change_pct": 5.38,
+      "market_cap": 305081008110.0464,
+      "headlines": [
+        {
+          "title": "Intel Is Up 56% in a Year but 59% Off Its June High: Sell, or Load Up?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-56-59-off-june-143448665.html",
+          "publisher": "TIKR",
+          "published": "2026-11-28T14:34:48Z"
+        },
+        {
+          "title": "Intel (INTC) Expands Foundry Deal With A Major Cloud Customer",
+          "url": "https://finance.yahoo.com/technology/articles/intel-intc-expands-foundry-deal-130853190.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-28T13:08:53Z"
+        },
+        {
+          "title": "\u201cDemand Is Higher Than Supply\u201d: AMD Just Dropped 24% in a Month. Is It Time to Sell, or Load Up?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/demand-higher-supply-amd-just-125020546.html",
+          "publisher": "TIKR",
+          "published": "2026-11-28T12:50:20Z"
         }
       ]
     },
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 59436.38,
-      "change_pct": -0.72
+      "price": 59442.81,
+      "change_pct": -0.71
     },
     {
       "label": "Gold",

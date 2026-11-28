@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-28T02:50:53+00:00",
-  "as_of_local": "2026-11-28 02:50:53 UTC",
+  "as_of_utc": "2026-11-28T03:06:03+00:00",
+  "as_of_local": "2026-11-28 03:06:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AVAV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -315,6 +313,34 @@
       ]
     },
     {
+      "symbol": "AVAV",
+      "name": "AeroVironment",
+      "price": 95.78,
+      "previous_close": 91.37,
+      "change_pct": 4.83,
+      "market_cap": 4867606775.52301,
+      "headlines": [
+        {
+          "title": "Ondas Rises 4% as It Tries to Snap a Three-Week Losing Streak; Unusual Machines Gains 2%, Red Cat Ticks Up",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ondas-rises-4-tries-snap-150216429.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-27T15:02:16Z"
+        },
+        {
+          "title": "Can Draganfly's AI Partnership Boost Its Unmanned Systems Business?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/draganflys-ai-partnership-boost-unmanned-110500226.html",
+          "publisher": "Zacks",
+          "published": "2026-11-26T11:05:00Z"
+        },
+        {
+          "title": "Axon Is Down 47% From Its High. TD Cowen Still Sees $650",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/axon-down-47-high-td-020154496.html",
+          "publisher": "TIKR",
+          "published": "2026-11-26T02:01:54Z"
+        }
+      ]
+    },
+    {
       "symbol": "SYNA",
       "name": "Synaptics",
       "price": 117.27,
@@ -559,8 +585,8 @@
     },
     {
       "label": "BTC",
-      "price": 59880.72,
-      "change_pct": -1.01
+      "price": 59911.63,
+      "change_pct": -0.96
     },
     {
       "label": "Gold",

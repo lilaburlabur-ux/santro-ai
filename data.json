@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-28T15:44:23+00:00",
-  "as_of_local": "2026-11-28 15:44:23 UTC",
+  "as_of_utc": "2026-11-28T15:59:28+00:00",
+  "as_of_local": "2026-11-28 15:59:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,22 +15,22 @@
       "market_cap": 3633882162643.4326,
       "headlines": [
         {
+          "title": "The Big Long? Michael Burry Closes Nasdaq-100 Short, Says His Portfolio Is Now Almost Entirely Long",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/big-long-michael-burry-closes-155502144.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-28T15:55:02Z"
+        },
+        {
+          "title": "History Says the Smartest Investing Move Is Also the Easiest. Here's Why.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/history-says-smartest-investing-move-153501903.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-28T15:35:01Z"
+        },
+        {
           "title": "Carnival's Comeback From Pandemic Debt Is Nearly Complete",
           "url": "https://finance.yahoo.com/markets/stocks/articles/carnivals-comeback-pandemic-debt-nearly-152902477.html",
           "publisher": "Motley Fool",
           "published": "2026-11-28T15:29:02Z"
-        },
-        {
-          "title": "This Dividend King Has Raised Its Payout 54 Straight Years. It's My Top Pick for December.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-king-raised-payout-54-152002904.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-28T15:20:02Z"
-        },
-        {
-          "title": "Is Microsoft Office's Moat In Trouble?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-offices-moat-trouble-152002821.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-28T15:20:02Z"
         }
       ]
     },
@@ -125,6 +127,12 @@
       "market_cap": 702641552503.826,
       "headlines": [
         {
+          "title": "Bloom Energy Rose Nearly 7% as AI Stocks Rebounded. Here\u2019s the Oracle Number That Matters",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-rose-nearly-7-152019322.html",
+          "publisher": "TIKR",
+          "published": "2026-11-28T15:20:19Z"
+        },
+        {
           "title": "Why Is Advanced Micro Devices (AMD) Powering A New U.S. AI Factory?",
           "url": "https://finance.yahoo.com/technology/ai/articles/why-advanced-micro-devices-amd-151109684.html",
           "publisher": "Simply Wall St.",
@@ -135,40 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-56-59-off-june-143448665.html",
           "publisher": "TIKR",
           "published": "2026-11-28T14:34:48Z"
-        },
-        {
-          "title": "Marvell Stock Heads Into Tuesday\u2019s Earnings on Pace for Its Worst November Since 2000",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-heads-tuesday-earnings-131729171.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-28T13:17:29Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 57.4,
-      "previous_close": 54.47,
-      "change_pct": 5.38,
-      "market_cap": 305081008110.0464,
-      "headlines": [
-        {
-          "title": "Intel Is Up 56% in a Year but 59% Off Its June High: Sell, or Load Up?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-56-59-off-june-143448665.html",
-          "publisher": "TIKR",
-          "published": "2026-11-28T14:34:48Z"
-        },
-        {
-          "title": "Intel (INTC) Expands Foundry Deal With A Major Cloud Customer",
-          "url": "https://finance.yahoo.com/technology/articles/intel-intc-expands-foundry-deal-130853190.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-28T13:08:53Z"
-        },
-        {
-          "title": "\u201cDemand Is Higher Than Supply\u201d: AMD Just Dropped 24% in a Month. Is It Time to Sell, or Load Up?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/demand-higher-supply-amd-just-125020546.html",
-          "publisher": "TIKR",
-          "published": "2026-11-28T12:50:20Z"
         }
       ]
     },
@@ -401,8 +375,8 @@
     {
       "symbol": "DRAM",
       "name": "Roundhill Memory ETF",
-      "price": null,
-      "change_pct": 0.0,
+      "price": 37.57,
+      "change_pct": 7.87,
       "holdings": [
         {
           "symbol": "MU",
@@ -491,8 +465,8 @@
   "etf": {
     "symbol": "DRAM",
     "name": "Roundhill Memory ETF",
-    "price": null,
-    "change_pct": 0.0,
+    "price": 37.57,
+    "change_pct": 7.87,
     "holdings": [
       {
         "symbol": "MU",
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 59246.28,
-      "change_pct": -1.04
+      "price": 59436.38,
+      "change_pct": -0.72
     },
     {
       "label": "Gold",

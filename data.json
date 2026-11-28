@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-28T17:04:53+00:00",
-  "as_of_local": "2026-11-28 17:04:53 UTC",
+  "as_of_utc": "2026-11-28T17:19:56+00:00",
+  "as_of_local": "2026-11-28 17:19:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "INTC"
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
@@ -13,22 +15,22 @@
       "market_cap": 3633882162643.4326,
       "headlines": [
         {
-          "title": "A Recession Could Be Coming in 2027. Here's Why I'm Not Worried.",
-          "url": "https://finance.yahoo.com/economy/articles/recession-could-coming-2027-heres-163502101.html",
+          "title": "Tech Stock Sell-Off: Down 13%, Is Amazon a Buy Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stock-sell-off-down-170502205.html",
           "publisher": "Motley Fool",
-          "published": "2026-11-28T16:35:02Z"
+          "published": "2026-11-28T17:05:02Z"
         },
         {
-          "title": "Nasdaq 100 Shakeup Coming: Anthropic, GM In; CoreWeave Out. What About Strategy?",
-          "url": "https://www.investors.com/news/nasdaq-100-shakeup-anthropic-gm-coreweave-nebius-strategy/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-28T16:31:53Z"
+          "title": "What Nvidia Investors Should Watch During Jensen Huang's Senate Hearing",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-investors-watch-during-jensen-165506619.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-28T16:55:06Z"
         },
         {
-          "title": "Fantastic News for SpaceX Stock Investors!",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fantastic-news-spacex-stock-investors-162102946.html",
+          "title": "Alphabet Stock Is Near a 52-Week Low. Here's Why I'd Buy the Dip.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-near-52-week-165502433.html",
           "publisher": "Motley Fool",
-          "published": "2026-11-28T16:21:02Z"
+          "published": "2026-11-28T16:55:02Z"
         }
       ]
     },
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-56-59-off-june-143448665.html",
           "publisher": "TIKR",
           "published": "2026-11-28T14:34:48Z"
-        }
-      ]
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel",
-      "price": 57.4,
-      "previous_close": 54.47,
-      "change_pct": 5.38,
-      "market_cap": 305081008110.0464,
-      "headlines": [
-        {
-          "title": "Intel Is Up 56% in a Year but 59% Off Its June High: Sell, or Load Up?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-56-59-off-june-143448665.html",
-          "publisher": "TIKR",
-          "published": "2026-11-28T14:34:48Z"
-        },
-        {
-          "title": "Intel (INTC) Expands Foundry Deal With A Major Cloud Customer",
-          "url": "https://finance.yahoo.com/technology/articles/intel-intc-expands-foundry-deal-130853190.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-28T13:08:53Z"
-        },
-        {
-          "title": "\u201cDemand Is Higher Than Supply\u201d: AMD Just Dropped 24% in a Month. Is It Time to Sell, or Load Up?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/demand-higher-supply-amd-just-125020546.html",
-          "publisher": "TIKR",
-          "published": "2026-11-28T12:50:20Z"
         }
       ]
     },
@@ -585,8 +559,8 @@
     },
     {
       "label": "BTC",
-      "price": 59530.34,
-      "change_pct": -0.56
+      "price": 59551.9,
+      "change_pct": -0.53
     },
     {
       "label": "Gold",

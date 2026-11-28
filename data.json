@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-28T10:29:04+00:00",
-  "as_of_local": "2026-11-28 10:29:04 UTC",
+  "as_of_utc": "2026-11-28T10:34:14+00:00",
+  "as_of_local": "2026-11-28 10:34:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,22 +13,22 @@
       "market_cap": 3633882162643.4326,
       "headlines": [
         {
-          "title": "Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back",
-          "url": "https://finance.yahoo.com/markets/article/stocks-snap-from-a-6-trillion-washout-to-a-3-trillion-surge-as-nvidia-micron-and-spacex-bounce-back-151218930.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-27T15:12:18Z"
+          "title": "S&P 500 Market Correction: 3 \u201cSafe\u201d Stocks to Buy Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-market-correction-3-102202763.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-28T10:22:02Z"
+        },
+        {
+          "title": "New Credit Cards Offering 4% Cash Back in Bitcoin Are Coming Soon. Do They Deserve a Place In Your Wallet?",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/credit-cards-offering-4-cash-102002012.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-28T10:20:02Z"
         },
         {
           "title": "Prediction: Here's the Netflix Stock Price I Expect at the End of 2030",
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-heres-netflix-stock-price-100702359.html",
           "publisher": "Motley Fool",
           "published": "2026-11-28T10:07:02Z"
-        },
-        {
-          "title": "Is Sandisk Stock a Buy After Kioxia and Nvidia Tested Flash Drives as Extra AI Memory?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stock-buy-kioxia-nvidia-093302530.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-28T09:33:02Z"
         }
       ]
     },
@@ -97,12 +97,6 @@
       "market_cap": 734245767649.5286,
       "headlines": [
         {
-          "title": "Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back",
-          "url": "https://finance.yahoo.com/markets/article/stocks-snap-from-a-6-trillion-washout-to-a-3-trillion-surge-as-nvidia-micron-and-spacex-bounce-back-151218930.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-27T15:12:18Z"
-        },
-        {
           "title": "Micron Trades at \u201cTwo and a Half Times EBITDA.\u201d Its Buyback Window Opens December 9",
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-trades-two-half-times-063325266.html",
           "publisher": "TIKR",
@@ -113,6 +107,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramers-says-another-chip-033300118.html",
           "publisher": "TheStreet",
           "published": "2026-11-28T03:33:00Z"
+        },
+        {
+          "title": "A 60-Year-Old Who Bought 1,000 Micron Shares at $192 Just Watched Jim Cramer\u2019s Investing Club Call It \u2018Comically Cheap.\u2019 Here\u2019s What\u2019s Left of His $1 Million Gain",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/60-old-bought-1-000-004100723.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-28T00:41:00Z"
         }
       ]
     },
@@ -579,9 +579,14 @@
   },
   "tape": [
     {
+      "label": "SPX",
+      "price": 7297.49,
+      "change_pct": 1.6
+    },
+    {
       "label": "BTC",
-      "price": 59261.57,
-      "change_pct": -1.01
+      "price": 59247.88,
+      "change_pct": -1.03
     },
     {
       "label": "Gold",

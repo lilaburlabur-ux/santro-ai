@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-28T12:45:18+00:00",
-  "as_of_local": "2026-11-28 12:45:18 UTC",
+  "as_of_utc": "2026-11-28T13:00:21+00:00",
+  "as_of_local": "2026-11-28 13:00:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 3633882162643.4326,
       "headlines": [
         {
+          "title": "Dow Jones Futures: Tesla Leads 7 Buys After Bullish Market Move; Nvidia's Jensen Huang On Capitol Hill",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-bullish-move-tesla-new-buys-nvidia-ceo-jensen-huang-congress/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-28T12:26:16Z"
+        },
+        {
           "title": "Nvidia Faces Yet Another Risk. Here's What It Means for Investors.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-faces-yet-another-risk-122502379.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-vs-nuscale-power-nuclear-121002879.html",
           "publisher": "Motley Fool",
           "published": "2026-11-28T12:10:02Z"
-        },
-        {
-          "title": "Stocks are chasing a rare buy signal as markets brace for a potential Fed hike: Chart of the Day",
-          "url": "https://finance.yahoo.com/markets/article/stocks-are-chasing-a-rare-buy-signal-as-markets-brace-for-a-potential-fed-hike-chart-of-the-day-120524657.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-28T12:05:24Z"
         }
       ]
     },
@@ -582,6 +582,11 @@
       "label": "SPX",
       "price": 7297.49,
       "change_pct": 1.6
+    },
+    {
+      "label": "BTC",
+      "price": 59146.93,
+      "change_pct": -1.2
     },
     {
       "label": "Gold",
